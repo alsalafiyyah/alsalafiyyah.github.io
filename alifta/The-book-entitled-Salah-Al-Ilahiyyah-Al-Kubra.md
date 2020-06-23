@@ -1,4 +1,5 @@
 ### The book titled "Al-Salah Al-Ilahiyyah Al-Kubra"
+######  Fatwa al-Lajnah ad-Daimah wal-Ifta' no. 47621 
 
 #### Question: 
 I brought this book to you; it is entitled "Al-Salah Al-Ilahiyyah Al-Kubra" i.e. (The Greater Divine Prayer). I have read some strange things in it. I hope you will read it and explain the ruling on following the orders mentioned in it and the ruling on printing, distributing and publishing this book.
