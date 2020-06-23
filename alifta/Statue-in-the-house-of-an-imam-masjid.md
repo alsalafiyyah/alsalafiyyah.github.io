@@ -1,3 +1,8 @@
+[_metadata_:title]:- "Statue in the house of an Imam Masjid"
+[_metadata_:author]:- "instagram@Alsalafiyyah"
+[_metadata_:date]:- "Dhuʻl-Qiʻdah 2, 1441 AH"
+[_metadata_:tags]:- "fatwas, islam, alifta, rulings, shariah"
+
 ### Statue in the house of an Imam Masjid
 ###### Fatwa al-Lajnah ad-Daimah wal-Ifta' no. 14820
 
