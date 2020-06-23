@@ -1,3 +1,8 @@
+[_metadata_:title]:- "The book titled Al-Salah Al-Ilahiyyah Al-Kubra"
+[_metadata_:author]:- "instagram@Alsalafiyyah"
+[_metadata_:date]:- "Dhuʻl-Qiʻdah 2, 1441 AH"
+[_metadata_:tags]:- "fatwas, islam, alifta, rulings, shariah"
+
 ### The book titled "Al-Salah Al-Ilahiyyah Al-Kubra"
 ######  Fatwa al-Lajnah ad-Daimah wal-Ifta' no. 47621 
 
