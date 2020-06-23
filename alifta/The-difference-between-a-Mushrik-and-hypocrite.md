@@ -1,3 +1,8 @@
+[_metadata_:title]:- "The difference between a Mushrik and hypocrite"
+[_metadata_:author]:- "instagram@Alsalafiyyah"
+[_metadata_:date]:- "Dhuʻl-Qiʻdah 2, 1441 AH"
+[_metadata_:tags]:- "fatwas, islam, alifta, rulings, shariah"
+
 ### The difference between a Mushrik and hypocrite
 ###### Fatwa al-Lajnah ad-Daimah wal-Ifta' no. 19219
 
