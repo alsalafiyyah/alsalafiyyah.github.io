@@ -17,6 +17,6 @@ He (Exalted be He) also states, "To Allâh belongs the kingdom of the heavens an
 
 Moreover, it is authentically reported that the Prophet (peace be upon him) stated, "If you beg, beg of Allah Alone; and if you need assistance, supplicate to Allah Alone for help... ."
 
-Secondly: If this Imam does not perform Tawbah (repentance to Allah) from accepting Shirk and receiving worldly benefit for it, it will not be permissible to pray behind him.
+Secondly: If this Imam does not perform Tawbah (repentance to Allah) from accepting Shirk and receiving worldly benefit for it, it will not be permissible to pray behind him. 
 
 
