@@ -14,4 +14,3 @@ A Mushrik is someone who devotes any of ‘Ibadah (worship) to other than Allah 
 Allah (Exalted be He) also says: "Verily, whosoever sets up partners (in worship) with Allâh, then Allâh has forbidden Paradise to him, and the Fire will be his abode. And for the Zâlimûn (polytheists and wrong-doers) there are no helpers." [al-Maidah: 72]
 
 As for a hypocrite who practices hypocrisy in their faith, this is someone who outwardly shows Islam but inwardly hides Kufr (disbelief), such as those who belie or detest the Messenger (peace be upon him), belie or detest his Message, or feel happy when they see the Din (religion) waning and hate to see it victorious and similar ill feelings. Such a hypocrite will abide in Hell forever, in the lowest depth of the Fire, if they die persisting in this hypocrisy, as Allah (Exalted be He) says: "Verily, the hypocrites will be in the lowest depth (grade) of the Fire; no helper will you find for them." [an-Nisa: 145]
-
