@@ -88,7 +88,7 @@ i {
           const fileName = file.name.replace('.md', '');
           const filePath = file.path.replace('.md', '');
           const fileDisplayName = fileName.split('-').join(' ');
-          htmlString += `<li class="list-group-item border-radius-0 border-0"><i class="far fa-folder icons"></i> <a href="${filePath}">${fileDisplayName}</a></li>`;
+          htmlString += `<li class="list-group-item border-radius-0 border-0"><i class="far fa-folder icons"></i> <a href="/alifta/bidah/${fileName}">${fileDisplayName}</a></li>`;
         }
         document.getElementById('list').innerHTML = htmlString;
       }
