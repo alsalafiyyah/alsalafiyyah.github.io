@@ -6,8 +6,9 @@ baseurl: ""
 permalink: pretty
 github_username:  alsalafiyyah
 
-# Site Footer
-footer:
-  links:
-    - label: "Homepage"
-      # url: "https://alsalafiyyah.github.io/"
+markdown: kramdown
+kramdown:
+ input: GFM
+ auto_ids: true
+ hard_wrap: false
+ syntax_highlighter: rouge
