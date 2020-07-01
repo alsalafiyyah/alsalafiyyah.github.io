@@ -1,5 +1,6 @@
 name: Alifta's fatwas
 title: null
 author: Instagram@Alsalafiyyah
-baseurl: ""
+baseurl: "/"
 permalink: pretty
+github_username:  alsalafiyyah
