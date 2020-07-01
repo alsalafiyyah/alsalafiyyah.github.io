@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <title>Alifta Fatwas</title>
 <style>
@@ -33,27 +34,166 @@ i {
 .form-text {
  margin-bottom: 10px;
 }
+*:hover,
+*:focus,
+*:active
+ {
+  outline: none;
+  box-shadow: none !important;
+  -webkit-appearance: none;
+}
+a {
+ color: black;
+}
+a:hover {
+ text-decoration: none;
+}
+.form-control {
+ border-radius: 0px !important;
+}
+body {
+  overflow-x: hidden;
+}
+
+#sidebar-wrapper {
+  min-height: 100vh;
+  margin-left: -15rem;
+  -webkit-transition: margin .25s ease-out;
+  -moz-transition: margin .25s ease-out;
+  -o-transition: margin .25s ease-out;
+  transition: margin .25s ease-out;
+}
+
+#sidebar-wrapper .sidebar-heading {
+  padding: 0.875rem 1.25rem;
+  font-size: 1.2rem;
+}
+
+#sidebar-wrapper .list-group {
+  width: 15rem;
+}
+
+#page-content-wrapper {
+  min-width: 100vw;
+}
+
+#wrapper.toggled #sidebar-wrapper {
+  margin-left: 0;
+}
+
+@media (min-width: 768px) {
+  #sidebar-wrapper {
+    margin-left: 0;
+  }
+
+  #page-content-wrapper {
+    min-width: 0;
+    width: 100%;
+  }
+
+  #wrapper.toggled #sidebar-wrapper {
+    margin-left: -15rem;
+  }
+}
+.hide {
+ display: none! important;
+}
+i {
+ color: #007bff;
+}
+.list-group {
+    list-style-position: inside;
+}
+#lists {
+    display: list-item;
+    margin-left: 0px;
+}
+.disabled img {
+  opacity: 0.45;
+  pointer-events: none;
+}
+.container-fluid {
+ margin-top: 0px;
+}
 </style>
   </head>
   <body>
-    <div class="container ">
+<div class="d-flex" id="wrapper">
+    <!-- Sidebar -->
+    <div class="bg-light border-right border-0" id="sidebar-wrapper">
+      <div class="sidebar-heading">Alifta Fatwas</div>
+      <div class="list-group list-group-flush">
+        <a href="#" class="list-group-item list-group-item-action bg-light border-0"><i class="fa fa-folder"></i> Aqidah (Creed)</a>
+        <a href="#" class="list-group-item list-group-item-action bg-light border-0"><i class="far fa-folder"></i> Salah (Prayer)</a>
+        <a href="#" class="list-group-item list-group-item-action bg-light border-0"><i class="far fa-folder"></i> Shawm (Fasting)</a>
+        <a href="#" class="list-group-item list-group-item-action bg-light border-0"><i class="far fa-folder"></i> Zakah (Charity)</a>
+        <a href="#" class="list-group-item list-group-item-action bg-light border-0"><i class="far fa-folder"></i> Hajj and 'Umrah</a>
+        <a href="#" class="list-group-item list-group-item-action bg-light border-0"><i class="far fa-folder"></i> Taharah (Purification)</a>
+        <a href="#" class="list-group-item list-group-item-action bg-light border-0"><i class="far fa-folder"></i> Iman (Faith)</a>
+        <a href="#" class="list-group-item list-group-item-action bg-light border-0"><i class="far fa-folder"></i> Sirah (Biography)</a>
+        <a href="#" class="list-group-item list-group-item-action bg-light border-0"><i class="far fa-folder"></i> Marriage</a>
+        <a href="#" class="list-group-item list-group-item-action bg-light border-0"><i class="far fa-folder"></i> Talaq (Divorce)</a>
+        <a href="#" class="list-group-item list-group-item-action bg-light border-0"><i class="far fa-folder"></i> Women</a>
+        <a href="#" class="list-group-item list-group-item-action bg-light border-0"><i class="far fa-folder"></i> Jihad</a>
+        <a href="#" class="list-group-item list-group-item-action bg-light border-0"><i class="far fa-folder"></i> Hudud</a>
+        <a href="#" class="list-group-item list-group-item-action bg-light border-0"><i class="far fa-folder"></i> Transactions</a>
+        <a href="#" class="list-group-item list-group-item-action bg-light border-0"><i class="far fa-folder"></i> Tafsir (Exegesis)</a>
+        <a href="#" class="list-group-item list-group-item-action bg-light border-0"><i class="far fa-folder"></i> Knowledge</a>
+        <a href="#" class="list-group-item list-group-item-action bg-light border-0"><i class="far fa-folder"></i> Hisbah</a>
+        <a href="#" class="list-group-item list-group-item-action bg-light border-0"><i class="far fa-folder"></i> Funerals</a>
+        <a href="#" class="list-group-item list-group-item-action bg-light border-0"><i class="far fa-folder"></i> Slaughtering and Hunting</a>
+        <a href="#" class="list-group-item list-group-item-action bg-light border-0"><i class="far fa-folder"></i> Inheritance</a>
+        <a href="#" class="list-group-item list-group-item-action bg-light border-0"><i class="far fa-folder"></i> Manumission</a>
+        <a href="#" class="list-group-item list-group-item-action bg-light border-0"><i class="far fa-folder"></i> Waqf (Endowment)</a>
+        <a href="#" class="list-group-item list-group-item-action bg-light border-0"><i class="far fa-folder"></i> Foundling</a>
+        <a href="#" class="list-group-item list-group-item-action bg-light border-0"><i class="far fa-folder"></i> Misc fatwas</a>
+      </div>
+    </div>
+    <!-- /#sidebar-wrapper -->
+
+    <!-- Page Content -->
+    <div id="page-content-wrapper">
+
+      <nav class="navbar navbar-expand-lg navbar-light border-bottom border-0 bg-white">
+        <a class="btn" id="menu-toggle" type="button"><i class="fas fa-book-open fa-lg"></i></a>
+
+        <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <i class="fas fa-language fa-lg"></i> Languages
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
+              <a href="https://instagram.com/Alsalafiyyah" class="nav-link"><i class="fab fa-instagram" target="_blank"></i> Alsalafiyyah</a>
+              <a class="nav-link"><i class="far fa-calendar"></i> <d></d></a>
+              <a class="nav-link disabled" href="#">
+                <img src="assets/img/en.png"/> English
+              </a>
+              <a class="nav-link" href="/ar">
+               <img src="assets/img/ar.png"/> Arabic
+              </a>
+          </ul>
+        </div>
+      </nav>
+      <div class="container-fluid">
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb bg-white">
     <li class="breadcrumb-item"><a href="../">Home</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Bid'ahs</li>
+    <li class="breadcrumb-item active" aria-current="page">Bid'ahs (Innvations in Religion)</li>
   </ol>
 </nav>
         <form id="search_form" autocomplete="off">
-        <nav class="navbar navbar-light bg-light border-radius-0">
-        <small><d></d></small>
-        <small class="form-text text-muted">Instagram: <a href="https://instagram.com/Alsalafiyyah" target="_blank">@Alsalafiyyah</a></small>
+        <nav class="navbar navbar-light bg-white border-radius-0">
             <input type="search" placeholder="Search a fatwa on bid'ahs" id="search_input" class="form-control input-group border border-right-0 border border-left-0 border-top-0 border-radius-0">
         </nav>
         </form>
       <div class="lists"><ul id="list" class="list-group border-radius-0"></ul></div>
+      </div>
+
     </div>
+</div>
+
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/js/all.min.js"></script>
     <script src="/assets/js/uq.js"></script>
     <script>
       const filterFiles = (filter) => {
@@ -94,7 +234,7 @@ i {
           const fileName = file.name.replace('.md', '');
           const filePath = file.path.replace('.md', '');
           const fileDisplayName = fileName.split('-').join(' ');
-          htmlString += `<li class="list-group-item border-radius-0 border-0"><i class="far fa-folder icons"></i> <a href="/alifta/bidah/${fileName}">${fileDisplayName}</a></li>`;
+          htmlString += `<li class="list-group-item border-radius-0 border-0"><i class="fas fa-file-alt"></i> <a href="/alifta/bidah/${fileName}">${fileDisplayName}</a></li>`;
         }
         document.getElementById('list').innerHTML = htmlString;
       }
@@ -125,10 +265,6 @@ i {
           search_input.focus()
         })
       })()
-      // Register service worker
-      if (navigator.serviceWorker && !navigator.serviceWorker.controller) {
-        navigator.serviceWorker.register('./serviceworker.js');
-      }
     </script>
   </body>
 </html>
