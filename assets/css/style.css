@@ -107,6 +107,7 @@ i {
  margin-top: 0px;
 }
 .markdown-body {
-  width: 80%;
+  width: 90%;
   margin: 0 auto;
+  margin-top: 20px;
 }
