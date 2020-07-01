@@ -106,3 +106,7 @@ i {
 .container-fluid {
  margin-top: 0px;
 }
+.markdown-body {
+  width: 80%;
+  margin: 0 auto;
+}
