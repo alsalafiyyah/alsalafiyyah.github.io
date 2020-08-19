@@ -6,7 +6,7 @@ lang: en
 source: "Majmu Fatawa wa Muqolat"
 hijri: Dhul-Hijjah 18, 1441 AH
 date: 2020/08/8
-permalink: /wahhabis/dawah-imam/
+permalink: /biography2/
 shaykhs: Shaykh Abdul-Aziz ibn Baz
 ---
 
@@ -54,5 +54,5 @@ All of this made me unable to be with you at this blessed gathering. That is why
 
 I ask Allah to accept all our deeds and to make them sincere for His Sake. May Allah make us of those guiding and guided, for He is the Most Generous. May peace and blessings be upon our Prophet Muhammad, his family and Companions.
 
-[Go to the next page](/wahhabis/wahhabiyah/)
+[Go to the next page](/biography-3/)
 

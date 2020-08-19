@@ -141,5 +141,6 @@ We ask Allah to make Al-Haqq triumph over falsehood and to grant callers to guid
 
 Allah is the One sought for help. There is neither might nor power except with Allah! May Allah's Peace and Blessings be upon His slave and Messenger, our Prophet and leader Muhammad ibn 'Abullah, his family, Companions and those who follow his path and are guided by his teachings! Praise be to the Lord of the worlds.
 
-[Go to the next page](/wahhabis/dawah-imam/)
+---
+[Go to the next page](/biography2/)
 
