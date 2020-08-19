@@ -1,0 +1,25 @@
+﻿
+pagination:
+  next: Next
+  prev: Prev
+
+post: 
+  readmore: Read more
+  source: Source
+  muftis: Shaykhs
+  published: Published on
+  share: Share on
+
+sidebar_menu:
+  - name: Home
+    link: /
+  - name: Knowledge base
+    link: /base/
+  - name: Wahhabism
+    link: /wahhabism
+  - name: Faq
+    link: /faq/
+
+
+
+

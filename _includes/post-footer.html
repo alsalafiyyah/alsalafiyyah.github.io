@@ -1,0 +1,44 @@
+  <ul>
+    <li>
+    <span>{{site.data.settings.post.source}}</span>
+      <b>
+    {% if page.source %}
+    {{ page.source}}
+    {% else %}
+    {{ site.source.name}}
+    {% endif %}
+      </b>
+  </li>
+    <li>
+      <span>{{site.data.settings.post.muftis}}</span>
+      <b>
+    {% if page.shaykhs %}
+    {{ page.shaykhs | join: ", "}}
+    {% else %}
+    {{ site.shaykhs.name | join: ", " }}
+    {% endif %}
+      </b>
+  </li>
+
+  <li>
+  <span>{{site.data.settings.post.published}}</span>
+    <b>
+    {% if page.hijri %}
+    {{ page.hijri }}
+    {% else %}
+    {{ site.hijri.name }}
+    {% endif %}
+    </b>
+  </li>
+  </ul>
+
+{{site.data.settings.post.share}}
+&nbsp; <a class="text-muted" href="https://twitter.com/intent/tweet?text={{ page.title | default:"" | uri_escape}}&url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}" rel="nofollow" target="_blank" title="Share on Twitter"><i class="fab fa-twitter"></i></a>
+&nbsp; <a class="text-muted" href="https://plus.google.com/share?url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}" rel="nofollow" target="_blank" title="Share on Google+"><i class="fab fa-google-plus"></i></a>
+&nbsp; <a class="text-muted" href="https://telegram.me/share/url?url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&text={{ page.title | default:"" | uri_escape}}" rel="nofollow" target="_blank" title="Share on Telegram"><i class="fab fa-telegram-plane"></i></a>
+&nbsp; <a class="text-muted" href="http://www.tumblr.com/share/link?url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&name={{ page.title }}&description={{ page.title | default:"" | uri_escape}}" rel="nofollow" target="_blank" title="Share on Tumblr"><i class="fab fa-tumblr"></i></a>
+&nbsp; <a class="text-muted" href="https://wa.me/?text={{ page.title | default:"" | uri_escape}} : {{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}" target="_blank" title="Share on WhatsApp"><i class="fab fa-whatsapp"></i></a>
+&nbsp; <a class="text-muted" href="https://facebook.com/sharer.php?u={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}" rel="nofollow" target="_blank" title="Share on Facebook"><i class="fab fa-facebook"></i></a>
+&nbsp; <a class="text-muted" href="fb-messenger://share?link={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}" title="Share on Facebook Messenger"><i class="fab fa-facebook-messenger" aria-hidden="true"></i></a>
+&nbsp; <a class="text-muted" href="https://wordpress.com/press-this.php?u={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&t={{ page.title | default:"" | uri_escape}}&s={{ page.title | default:"" | uri_escape}}" title="Share on Wordpress"><i class="fab fa-wordpress-simple"></i></a>
+</div>

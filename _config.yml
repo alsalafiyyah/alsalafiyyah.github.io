@@ -1,14 +1,33 @@
-name: Alifta's fatwas
-title: null
-author: Instagram@Alsalafiyyah
-url: "/"
-baseurl: ""
-permalink: pretty
-github_username:  alsalafiyyah
-
-markdown: kramdown
-kramdown:
- input: GFM
- auto_ids: true
- hard_wrap: false
- syntax_highlighter: rouge
+title:          Salafi Manhaj
+description:    "The Salafi Da'wah is a Da'wah to follow the footsteps of the Messenger (peace be upon him), his Sahabah (Companions of the Prophet, may Allah be pleased with them), and those who follow them in righteousness (cf. Qur'an, al-Tawbah: 100)."
+baseurl:        ""
+url:            "https://alsalafiyyah.github.io"
+email: salafiyyah@outlook.sa
+author:
+  name:         Instagram@Alsalafiyyah
+  email:        alsalafiyyah@icloud.com
+markdown:       kramdown
+theme:     future-imperfect-jekyll-theme
+remote_theme: andrewbanchich/future-imperfect-jekyll-theme
+include:
+  - _pages
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-pdf-embed
+permalink: /:title/
+paginate:       8
+exclude:
+  - .gitignore
+  - Gemfile
+  - Gemlock
+tipue_search:
+  include:
+    pages: false
+  exclude:
+    files: [index.html, search.html]
+google_analytics:
+  id: ''

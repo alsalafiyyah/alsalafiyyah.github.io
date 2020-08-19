@@ -1,0 +1,9 @@
+a {
+		border-bottom: dotted 0px rgba(160, 160, 160, 0.65)! important;
+	}
+.post > header {
+			border-bottom: solid 0px rgba(160, 160, 160, 0.3)! important;
+		}
+.post > header .meta {
+				border-left: solid 0px rgba(160, 160, 160, 0.3)! important;
+			}

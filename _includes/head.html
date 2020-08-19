@@ -1,0 +1,34 @@
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  {% seo %}
+  {% feed_meta %}
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %} 
+  <meta name="google-site-verification" content="0AfP6ouBUqp8IPbvV8AgSXFY3YTtSTTriIZ2Lyt43NI" />
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ "/assets/favicon-32x32.png" | relative_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/favicon-16x16.png" | relative_url }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/apple-touch-icon.png" | relative_url }}">
+  <!--[if lte IE 8]>
+  <script src="{{ '/assets/js/ie/html5shiv.js' | absolute_url }}"></script>
+  <![endif]-->
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}" />
+  <!--[if lte IE 9]>
+  <link rel="stylesheet" href="{{ '/assets/css/ie9.css' | absolute_url }}" />
+  <![endif]-->
+  <!--[if lte IE 8]>
+  <link rel="stylesheet" href="{{ '/assets/css/ie8.css' | absolute_url }}" />
+  <![endif]-->
+  <link rel="stylesheet" href="{{ '/assets/custom.css' | absolute_url }}" />
+  <script src="https://kit.fontawesome.com/280680b495.js" crossorigin="anonymous"></script>
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+  {% if page.tipue_search_active or layout.tipue_search_active -%}
+  <script src="{{ "/assets/tipuesearch/tipuesearch_content.js" | relative_url }}"></script>
+  <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/tipuesearch.css" | relative_url }}">
+  <script src="{{ "/assets/tipuesearch/tipuesearch_set.js" | relative_url }}"></script>
+  <script src="{{ "/assets/tipuesearch/tipuesearch.min.js" | relative_url }}"></script>
+  {% endif -%}
+</head>
