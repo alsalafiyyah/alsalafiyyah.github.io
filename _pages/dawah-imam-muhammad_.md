@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: default
 title: "Clarifying the Da'wah of the Imam Muhammad ibn Abdul-Wahhab"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 3"

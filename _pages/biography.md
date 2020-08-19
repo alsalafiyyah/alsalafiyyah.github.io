@@ -1,5 +1,5 @@
 ﻿---
-layout: page
+layout: default
 title: "Imam Muhammad ibn 'Abdul-Wahhab: His Da'wah and biography"
 publisher: "alsalafiyyah@icloud.com"
 lang: en

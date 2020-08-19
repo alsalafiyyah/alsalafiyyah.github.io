@@ -1,5 +1,5 @@
 ﻿---
-layout: page
+layout: default
 title: "Wahhabism is based on fulfilling the testimony that Muhammad is the Messenger of Allah and shunning Bid’ahs and superstitions"
 publisher: "alsalafiyyah@icloud.com"
 lang: en
