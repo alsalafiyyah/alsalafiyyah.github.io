@@ -26,7 +26,7 @@ exclude:
   - Gemlock
 tipue_search:
   include:
-    pages: false
+    pages: true
   exclude:
     files: [index.html, search.html]
 google_analytics:
