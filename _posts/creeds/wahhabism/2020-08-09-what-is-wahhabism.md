@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: audio
 title: "Wahhabism, what is it?"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb 3, tape no. 218 question 6"
