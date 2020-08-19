@@ -6,7 +6,7 @@ lang: en
 source: "Majmu Fatawa wa Muqolat"
 hijri: Dhul-Hijjah 18, 1441 AH
 date: 2020/08/8
-permalink: /dawah-imam/
+permalink: /wahhabis/dawah-imam/
 shaykhs: Shaykh Abdul-Aziz ibn Baz
 ---
 
