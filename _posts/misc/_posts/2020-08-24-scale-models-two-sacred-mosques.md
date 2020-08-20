@@ -1,9 +1,9 @@
----
+﻿---
 layout: post
 title: "Scale models of the two Sacred Mosques"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa al-Lajnah ad-Daimah no. 5576"
-category: [basic, knowledge, alifta]
+category: [alifta]
 hijri: Dhul-Hijjah 24, 1441 AH
 date: 2020/08/14
 shaykhs: 

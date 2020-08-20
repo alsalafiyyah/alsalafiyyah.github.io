@@ -1,9 +1,9 @@
----
+﻿---
 layout: post
 title: "Introduction to Islam"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 28/"
-category: [creeds, islam, binbaz]
+category: [creeds, islam, binbaz, basic]
 hijri: Dhu al-Hijjah 3, 1441 AH
 date: 2020/07/24
 shaykhs: Shaykh Ibn Baz
