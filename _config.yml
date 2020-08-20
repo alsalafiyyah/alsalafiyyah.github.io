@@ -20,7 +20,7 @@ plugins:
   - jekyll-pdf-embed
 permalink: /:title/
 paginate:       8
-paginate_path: "/p/:num/"
+paginate_path: "/:num/"
 exclude:
   - .gitignore
   - Gemfile
