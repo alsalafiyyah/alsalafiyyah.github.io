@@ -1,10 +1,11 @@
----
+﻿---
 layout: post
 title: "Illustrating the meaning of Shirk"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 4/32, question 1"
 hijri: Dhul-Hijjah 23, 1441 AH
 date: 2020/08/13
+category: [basic]
 shaykhs: Shaykh Ibn Baz
 ---
 

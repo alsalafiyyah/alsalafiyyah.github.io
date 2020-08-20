@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
 source: "Majmu' Fatawa wa Maqalat 1/130"
 hijri: Dhul-Hijjah 27, 1441 AH
 date: 2020/08/17
-category: [binbaz, wahhabism]
+category: [binbaz, wahhabism, basic]
 shaykhs: Shaykh Ibn Baz
 ---
 

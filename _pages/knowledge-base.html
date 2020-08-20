@@ -1,0 +1,22 @@
+---
+title: Knowledge base
+layout: default
+permalink: /knowledge-base/
+---
+
+<h2>Knowledge base</h2>
+<hr/>
+<ul class="posts">
+  {% for post in site.categories.basic %}
+    {% if post.url %}
+    <li>
+    <article>
+      <header>
+      <h3 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <time class="published" datetime="{{ post.hijri | post.hijri.name }}">{{ post.hijri | post.hijri.name }}</time>
+      </header>
+    </article>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>

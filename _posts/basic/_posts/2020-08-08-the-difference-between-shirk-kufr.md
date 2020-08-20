@@ -3,7 +3,7 @@ layout: audio
 title: "The difference between Shirk and Kufr"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb of Ibn Baz tape no. 394"
-category: [sufism, binbaz, audios, shirk, tawhid]
+category: [sufism, binbaz, audios, shirk, tawhid, basic]
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_551/55111.mp3
 link: https://cutt.ly/6dBlH0i
 hijri: Dhul-Hijjah 18, 1441 AH
