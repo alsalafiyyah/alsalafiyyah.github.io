@@ -20,4 +20,4 @@ permalink: /base/
 11. [Is it correct that Hanbalis are the only Salafis](/are-hanabilah-the-only-salafis/ "Is it correct that Hanbalis are the only Salafis")
 12. [The meaning of 'La ilaha illa Allah'](/meaning-la-ilaha-illa-allah/ "The meaning of La ilaha illa Allah")
 13. [The obligation of adhering to the Sunnah and warning against Bid'ah](/obligation-adhering-sunnah-warning-bidahs/ "The obligation of adhering to the Sunnah and warning against Bid'ah")
-14. [Things that invalidate Islam](/nullifiers-of-islam/ "Things that invalidate Islam")
+14. [Nullifiers of Islam](/nullifiers-of-islam/ "Nullifiers of Islam")

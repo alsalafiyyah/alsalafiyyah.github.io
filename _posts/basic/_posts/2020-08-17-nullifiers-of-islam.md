@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: "Things that invalidate Islam"
+title: "Nullifiers of Islam"
 publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
 source: "Majmu' Fatawa wa Maqalat 1/130"
 hijri: Dhul-Hijjah 27, 1441 AH
