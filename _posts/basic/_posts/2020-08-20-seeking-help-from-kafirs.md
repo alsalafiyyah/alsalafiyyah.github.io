@@ -16,9 +16,9 @@ Scholars held two different views with regard to the ruling on seeking the help 
 
 A group held that it is prohibited to seek the help of the disbelievers to fight against other disbelievers. They base their argument on the following:
 
-It is recorded by Muslim in his Sahih (authentic) book of Hadith on the authority of Aishah (may Allah be pleased with her) that the Prophet (peace be upon him) set out for Badr and when he reached Harrat-ul-Wabarah, a Mushrik (one who associates others with Allah in His Divinity or worship) who was known for his valor and courage met him. The Mushrik said, "I have come to follow you and take a share from the booty." The Prophet (peace be upon him) asked him, "Do you believe in Allah and His Messenger?" The man replied, "No." The Prophet said, "Go back for I will not seek the help of a Mushrik." The Prophet (peace be upon him) went on and when we reached Al-Shajarah, the man met him again and repeated his request. The Prophet (peace be upon him) asked him the same question and the man gave the same reply. The Prophet (peace be upon him) said, "Go back for I will not seek the help of a Mushrik." The man returned and overtook him at Al-Baida'. The Prophet (peace be upon him) repeated the question to him, "Do you believe in Allah and His Messenger?" The man replied, "Yes." The Messenger of Allah (peace be upon him) said to him, "Then come along with us" [1]
+It is recorded by Muslim in his Sahih (authentic) book of Hadith on the authority of Aishah (may Allah be pleased with her) that the Prophet (peace be upon him) set out for Badr and when he reached Harrat-ul-Wabarah, a Mushrik (one who associates others with Allah in His Divinity or worship) who was known for his valor and courage met him. The Mushrik said, "I have come to follow you and take a share from the booty." The Prophet (peace be upon him) asked him, "Do you believe in Allah and His Messenger?" The man replied, "No." The Prophet said, "Go back for I will not seek the help of a Mushrik." The Prophet (peace be upon him) went on and when we reached Al-Shajarah, the man met him again and repeated his request. The Prophet (peace be upon him) asked him the same question and the man gave the same reply. The Prophet (peace be upon him) said, "Go back for I will not seek the help of a Mushrik." The man returned and overtook him at Al-Baida'. The Prophet (peace be upon him) repeated the question to him, "Do you believe in Allah and His Messenger?" The man replied, "Yes." The Messenger of Allah (peace be upon him) said to him, "Then come along with us" [^1]
 
-They also base their argument on the Hadith reported by Al-Hakim in his Sahih (authentic) book of Hadith from Yazid ibn Harun from Mustalim ibn Sa'id Al-Wasity from Khubayb ibn `Abdul-Rahman ibn Khubayb from his father on the authority of his grandfather Khubayb ibn Yasaf said, "A man from my tribe and I came to the Messenger of Allah (peace be upon him). I told him, "O Messenger of Allah! We feel ashamed that our people will fight in a battle and we will not take part with them." The Prophet (peace be upon them) asked, "Embrace Islam!" We replied, "No." He (peace be upon him) said, "We do not seek the help of the Mushriks." Khubayb ibn Yasaf said, "Thus, we embraced Islam and participated with them." [2] 
+They also base their argument on the Hadith reported by Al-Hakim in his Sahih (authentic) book of Hadith from Yazid ibn Harun from Mustalim ibn Sa'id Al-Wasity from Khubayb ibn `Abdul-Rahman ibn Khubayb from his father on the authority of his grandfather Khubayb ibn Yasaf said, "A man from my tribe and I came to the Messenger of Allah (peace be upon him). I told him, "O Messenger of Allah! We feel ashamed that our people will fight in a battle and we will not take part with them." The Prophet (peace be upon them) asked, "Embrace Islam!" We replied, "No." He (peace be upon him) said, "We do not seek the help of the Mushriks." Khubayb ibn Yasaf said, "Thus, we embraced Islam and participated with them." [^2] 
 
 Al-Hakim classified its Isnad (chain of narration) as Sahih (authentic) but Al-Bukhari and Muslim did not report it. Khubayb is a well-known Sahabi (Companion of the Prophet). [End of quotation.]
 
@@ -75,7 +75,7 @@ They also used Al-Shafi'i's opinion which was transmitted by Al-Hazimy and which
 
 We have stated before the opinion of Al-Shafi'i which was transmitted by Al-Nawawy in which Al-Shafi'i permitted seeking the help of the Mushriks provided that the two conditions are fulfilled; otherwise it will be Makruh. The opinion of Al-Shafi'i was also transmitted by Al-Wazir Ibn Hubayrah as previously mentioned.
 
-Those who are of the opinion that seeking the help of the Mushriks is permissible cited as evidence the Hadith which was reported by Ahmad and Abu Dawud on the authority of Dhu Makhmmar who said that he heard the Messenger of Allah (peace be upon him) say, "You will make a peace-treaty with the Romans and together you will invade an enemy beyond Rome. You will be victorious and take much booty..." [3] 
+Those who are of the opinion that seeking the help of the Mushriks is permissible cited as evidence the Hadith which was reported by Ahmad and Abu Dawud on the authority of Dhu Makhmmar who said that he heard the Messenger of Allah (peace be upon him) say, "You will make a peace-treaty with the Romans and together you will invade an enemy beyond Rome. You will be victorious and take much booty..." [^3] 
 
 The fact that the Prophet (peace be upon him) did not dispraise them [those who sought the help of the Romans and fought with them] was deemed approval of what they did. This Hadith shows that this matter is permissible when necessary as mentioned above.
 
@@ -119,11 +119,11 @@ The above mentioned are the opinions of the scholars that we could collect on th
 
 #### Footnotes: 
 
-[1] Sahih Muslim [Book Jihad and military expeditions] no. 1817; Al-Tirmidhi [Book on military expeditions] no. 1558; Abu Dawud [Book on Jihad] no. 2732; Musnad Ahmad ibn Hanbal p. 6/149.
+[^1]: Sahih Muslim [Book Jihad and military expeditions] no. 1817; Al-Tirmidhi [Book on military expeditions] no. 1558; Abu Dawud [Book on Jihad] no. 2732; Musnad Ahmad ibn Hanbal p. 6/149.
 
-[2] Musnad Ahmad ibn Hanbal vol. 3, p. 3/454.
+[^2]: Musnad Ahmad ibn Hanbal vol. 3, p. 3/454.
 
-[3] Abu Dawud [Book on battles] no. 4292; Ibn Majah [Book on trials] no. 4089; Musnad Ahmad ibn Hanbal  p. 5/409.
+[^3]: Abu Dawud [Book on battles] no. 4292; Ibn Majah [Book on trials] no. 4089; Musnad Ahmad ibn Hanbal  p. 5/409.
 
 
 
