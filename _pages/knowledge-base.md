@@ -10,7 +10,7 @@ permalink: /base/
 1. [Islam and its merits](/islam-and-its-merits/ "Islam and its merits")
 2. [Correct ‘Aqidah and its antithesis](/aqidah/ "Correct 'aqidah and antithesis")
 3. [Questions and answer about Salafiyyah](/faq/ "Questions and answer about Salafiyyah")
-4. [An overview of the Salafi Da'wah and the life of Shaykh Muhammad bin Abdul Wahhab](https://salafimanhaj.github.io/dawah-salafiyyah/ "An overview of the Salafi Da'wah and the life of Shaykh Muhammad bin Abdul Wahhab")
+4. [An overview of the Salafi Da'wah and the life of Shaykh Muhammad bin Abdul Wahhab](/dawah-salafiyyah/ "An overview of the Salafi Da'wah and the life of Shaykh Muhammad bin Abdul Wahhab")
 5. [Wahhabism, what is it?](https://salafimanhaj.github.io/what-is-wahhabism/ "Wahhabism, what is it?")
 6. [Clarifying the Da'wah of the Imam Muhammad ibn Abdul-Wahhab](/dawah-imam-muhammad/ "Clarifying the Da'wah of the Imam Muhammad ibn Abdul-Wahhab")
 7. [They accuse him of being Wahhabi for calling for Tawhid and abandoning Shirk](/wahhabis/ "They accuses him of being Wahhabis for calling for Tawhid and abandoning Shirk")
