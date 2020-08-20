@@ -31,3 +31,5 @@ tipue_search:
     files: [index.html, search.html]
 google_analytics:
   id: ''
+sass:
+  style: compressed
