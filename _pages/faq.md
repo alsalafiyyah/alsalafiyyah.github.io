@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: "Faq and knowledge base"
 author: "Instagram@Alsalafiyyah"
@@ -53,19 +53,9 @@ Muslim unity can be achieved by adhering to the principles which achieved unity 
 
 The only way to Jannah (Paradise) is the way followed by Prophet Muhammad (peace be upon him) and those who followed in his footsteps. Whoever sticks to this way will be saved and whoever deviates from it will be doomed. [^10]
 
-### What is Wahhabism?
-
-“**Wahhabism**” is the term which the enemies of Shaykh Muhammad ibn Abdul-Wahhab (may Allah be merciful to him) gave to his call to purify Tawhid (monotheism) from all forms of Shirk (associating others with Allah in His Divinity or worship) and to renounce all the ways except that of Muhammad Ibn 'Abdullah (peace be upon him). Their intention was to alienate people from his call and obstruct it. However, the call was not affected in the least. On the contrary, it spread further in the world, and attracted more the interest of people whom Allah has guided to seek to learn more about the nature of this call and its purposes, and the evidences from the Qur'an and the authentic Sunnah it relies on. So, people became more attached to it and began calling other people to it, all praise and thanks to Allah. [^11]
-
 ### Wahabiyyah and Shaykh Muhammad ibn 'Abdul-Wahhab
 
-Shaykh Muhammad Ibn 'Abdul-Wahhab (may Allah be Merciful with him) was indeed one of the great callers to Salafiyyah (following the way of the righteous predecessors), and to the sound ‘Aqidah (creed) and the morally correct, upright method. His books abound with these aspects.The above-mentioned claim made by an antagonist to the Shaykh’s call: that he deviated from the truth at the end of his life by denying authentic Hadiths that did not agree with his own views, is a lie fabricated against him. To the day he died, the Shaykh remained one of the strongest adherents to the Sunnah, and retained his deep veneration for it and kept calling people to it, may Allah be merciful to him. [^12]
-
-##### See also:
-- <a href="/refuting-the-claims-against-haykh-muhammad">Refuting the claims against Shaykh Muhammad ibn Abdul-Wahhab and his Da'wah</a>
-- <a href="/is-it-true-wahhabism-antagonizes-ahlul-bayt-and-criticizes-the-prophet">Is it true that Wahhabism antagonizes Ahlul-Bayt and criticizes the Prophet</a>
-- <a href="/are-hanabilah-the-only-salafis">Is it correct that Hanbalis are the only Salafis</a>
-
+Shaykh Muhammad Ibn 'Abdul-Wahhab (may Allah be Merciful with him) was indeed one of the great callers to Salafiyyah (following the way of the righteous predecessors), and to the sound ‘Aqidah (creed) and the morally correct, upright method. His books abound with these aspects.The above-mentioned claim made by an antagonist to the Shaykh’s call: that he deviated from the truth at the end of his life by denying authentic Hadiths that did not agree with his own views, is a lie fabricated against him. To the day he died, the Shaykh remained one of the strongest adherents to the Sunnah, and retained his deep veneration for it and kept calling people to it, may Allah be merciful to him. [^11]
 
 ---
 
@@ -79,7 +69,6 @@ Shaykh Muhammad Ibn 'Abdul-Wahhab (may Allah be Merciful with him) was indeed on
 [^8]: Fatwas of the Permanent Committee of KSA no. 4889-3
 [^9]: Fatwas of the Permanent Committee of KSA no. 6356-5
 [^10]: Fatwas of the Permanent Committee of KSA no. 5623-1
-[^11]: Fatwas of the Permanent Committee of KSA no. 9450-2
-[^12]: Fatwas of the Permanent Committee of KSA no. 6477-3
+[^11]: Fatwas of the Permanent Committee of KSA no. 6477-3
 
 
