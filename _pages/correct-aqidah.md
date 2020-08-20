@@ -1,7 +1,8 @@
----
+﻿---
 layout: default
 author: "Instagram@Alsalafiyyah"
 title: Correct 'Aqidah & its antithesis
+category: [basic]
 permalink: /aqidah/
 ---
 
