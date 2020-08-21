@@ -1,12 +1,14 @@
 <!-- Scripts -->
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-  <script src="{{ '/assets/js/skel.min.js' | absolute_url }}"></script>
-  <script src="{{ '/assets/js/util.js' | absolute_url }}"></script>
-  <!--[if lte IE 8]><script src="{{ '/assets/js/ie/respond.min.js' | absolute_url }}"></script><![endif]-->
-  <script src="{{ '/assets/js/main.js' | absolute_url }}"></script>
+  <script src="{{ "assets/js/jquery.scrollex.min.js" | relative_url }}"></script>
+  <script src="{{ "assets/js/jquery.scrolly.min.js" | relative_url }}"></script>
+  <script src="{{ "assets/js/browser.min.js" | relative_url }}"></script>
+  <script src="{{ "assets/js/breakpoints.min.js" | relative_url }}"></script>
+  <script src="{{ "assets/js/util.js" | relative_url }}"></script>
+  <script src="{{ "assets/js/main.js" | relative_url }}"></script>
+
   {% if page.tipue_search_active or layout.tipue_search_active -%}
-  
   <script src="{{ "/assets/tipuesearch/tipuesearch_content.js" | relative_url }}"></script>
   <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/tipuesearch.css" | relative_url }}">
   <script src="{{ "/assets/tipuesearch/tipuesearch_set.js" | relative_url }}"></script>
@@ -19,9 +21,9 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-NE446G1R6H');
 </script>
+
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
