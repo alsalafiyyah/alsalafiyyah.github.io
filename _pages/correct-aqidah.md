@@ -1,5 +1,5 @@
 ﻿---
-layout: default
+layout: page
 author: "Instagram@Alsalafiyyah"
 title: Correct 'Aqidah & its antithesis
 category: [basic]
