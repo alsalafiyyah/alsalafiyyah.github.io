@@ -22,6 +22,7 @@ sidebar_menu:
     active: wahhabism
   - name: Faq
     link: /faq/
+    active: faq
   - name: Downloads
     link: /downloads/
     active: downloads
