@@ -2,6 +2,8 @@
 					<nav id="nav">
 						<ul class="links">
                                                 {% for item in site.data.settings.sidebar_menu %}
+							<li><a href="{{ item.link }}">{{ item.name }}</a></li>
+                                                {% else %}
 							<li class="active"><a href="{{ item.link }}">{{ item.name }}</a></li>
                                                 {% endfor %}
 						</ul>
