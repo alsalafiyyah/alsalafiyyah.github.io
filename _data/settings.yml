@@ -13,14 +13,18 @@ post:
 sidebar_menu:
   - name: Home
     link: /
+    active: home
   - name: Knowledge base
     link: /knowledge-base
+    active: knowledge-base
   - name: Wahhabism
     link: /wahhabism
+    active: wahhabism
   - name: Faq
     link: /faq/
   - name: Downloads
     link: /downloads/
+    active: downloads
 
 
 
