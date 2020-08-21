@@ -1,6 +1,7 @@
 ﻿---
 layout: page
-title: "Faq and knowledge base"
+title: "Faq"
+active: faq
 author: "Instagram@Alsalafiyyah"
 permalink: /faq/
 ---
