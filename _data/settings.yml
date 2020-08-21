@@ -15,8 +15,8 @@ sidebar_menu:
     link: /
     active: home
   - name: Knowledge base
-    link: /knowledge-base
-    active: knowledge-base
+    link: /basic
+    active: basic
   - name: Wahhabism
     link: /wahhabism
     active: wahhabism
