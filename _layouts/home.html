@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<article class="post">
-    {% for post in paginator.posts %}
+   <article class="post">
+   {% for post in paginator.posts %}
 	<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
         <p>
           {{ post.content | strip_html | truncatewords: 30 }}
@@ -12,10 +12,7 @@ layout: default
 	<ul class="actions">
 	<li><a href="{{ post.url | prepend: site.baseurl }}" class="button small">{{site.data.settings.post.readmore}}</a></li>
 	</ul>
-	<ul class="stats">
-		<li><i class="icon fa-calendar"></i> {{ post.hijri | post.hijri.name }}</li>
-	</ul>
 	 </footer>
    {% endfor %} 
-</article>
+   </article>
    {% include pagination.html %}
