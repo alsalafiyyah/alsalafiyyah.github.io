@@ -1,12 +1,12 @@
 <!-- Scripts -->
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-  <script src="{{ "assets/js/jquery.scrollex.min.js" | relative_url }}"></script>
-  <script src="{{ "assets/js/jquery.scrolly.min.js" | relative_url }}"></script>
-  <script src="{{ "assets/js/browser.min.js" | relative_url }}"></script>
-  <script src="{{ "assets/js/breakpoints.min.js" | relative_url }}"></script>
-  <script src="{{ "assets/js/util.js" | relative_url }}"></script>
-  <script src="{{ "assets/js/main.js" | relative_url }}"></script>
+  <script src="{{ "/assets/js/jquery.scrollex.min.js" | relative_url }}"></script>
+  <script src="{{ "/assets/js/jquery.scrolly.min.js" | relative_url }}"></script>
+  <script src="{{ "/assets/js/browser.min.js" | relative_url }}"></script>
+  <script src="{{ "/assets/js/breakpoints.min.js" | relative_url }}"></script>
+  <script src="{{ "/assets/js/util.js" | relative_url }}"></script>
+  <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
 
   {% if page.tipue_search_active or layout.tipue_search_active -%}
   <script src="{{ "/assets/tipuesearch/tipuesearch_content.js" | relative_url }}"></script>
@@ -16,13 +16,13 @@
   {% endif -%}
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script rel="preconnect" async src="https://www.googletagmanager.com/gtag/js?id=G-NE446G1R6H"></script>
-<script>
+  <script rel="preconnect" async src="https://www.googletagmanager.com/gtag/js?id=G-NE446G1R6H"></script>
+  <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'G-NE446G1R6H');
-</script>
+  </script>
 
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
