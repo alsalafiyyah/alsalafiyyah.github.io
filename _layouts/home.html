@@ -8,11 +8,6 @@ layout: default
         <p>
           {{ post.content | strip_html | truncatewords: 30 }}
         </p>
-   	<footer>
-	<ul class="actions">
-	<li><a href="{{ post.url | prepend: site.baseurl }}" class="button small">{{site.data.settings.post.readmore}}</a></li>
-	</ul>
-	 </footer>
    {% endfor %} 
    </article>
    <footer>
