@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Ruling on rebel against the rulers"
 publisher: "alsalafiyyah@icloud.com"

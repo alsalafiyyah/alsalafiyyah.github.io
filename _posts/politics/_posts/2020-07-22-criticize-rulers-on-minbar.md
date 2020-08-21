@@ -1,9 +1,9 @@
----
+﻿---
 layout: post
 title: "Ruling on criticize rulers openly on the Minbar (pulpit)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 8/210"
-category: [rulers, politics, binbaz]
+category: [rulers, politics, binbaz, basic]
 hijri: Dhul-Qa'dah 31, 1441 AH
 date: 2020/07/22
 shaykhs: Shaykh Ibn Baz
