@@ -2,10 +2,13 @@
 					<nav id="nav">
 						<ul class="links">
                                                 {% for item in site.data.settings.sidebar_menu %}
-						 
-                                                <li class="active">{% if {{page.active}} == {{item.active}} %}<a href="{{ item.link }}">{{ item.name }}</a></li>
+						 {% if {{page.active}} == {{item.active}} %}
+                                                   <li class="active">
+                                                  <a href="{{ item.link }}">{{ item.name }}</a></li>
                                                 {% else %}
-							<li><a href="{{ item.link }}">{{ item.name }}</a>{% endif %}</li>
+						  <li><a href="{{ item.link }}">{{ item.name }}</a>
+                                                </li>
+                                                {% endif %}
                                                 {% endfor %}
 						</ul>
 						<ul class="icons">
