@@ -1,5 +1,5 @@
 ﻿---
-layout: default
+layout: page
 title: "Faq and knowledge base"
 author: "Instagram@Alsalafiyyah"
 permalink: /faq/
