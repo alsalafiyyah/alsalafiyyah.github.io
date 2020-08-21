@@ -1,27 +1,10 @@
-<header>
-	<div class="title">
-{% if page.language == 'ar' %}
-
-		<h2>
-			<a href="{{ site.baseurl }}/ar">{{ site.data.i18n[page.language].site_title }}</a>
-		</h2>
-
-{% else %}
-
-		<h2>
-			<a href="{{ site.baseurl }}/">{{ site.title }}</a>
-		</h2>
-
-{% endif %}
-
-	</div>
-	<div class="meta">
-		<ul class="icons">
-			<li>
-				<a href="#menu">
-					<i class="fas fa-grip-lines fa-lg"></i>
-				</a>
-			</li>
-		</ul>
-	</div>
+<header id="header">
+<h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+ <nav class="main">
+  <ul>
+   <li class="menu">
+    <a class="fa-bars" href="#menu">Menu</a>
+   </li>
+  </ul>
+ </nav>
 </header>
