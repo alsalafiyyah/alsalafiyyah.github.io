@@ -9,6 +9,7 @@ link: shorturl.at/euCDX
 hijri: Dhul-Hijjah 16, 1441 AH
 date: 2020/08/6
 shaykhs: Shaykh Abdul-Aziz ibn Baz
+published: false
 permalink: /dawah-imam-muhammad/
 ---
 
