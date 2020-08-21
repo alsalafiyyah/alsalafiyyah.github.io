@@ -1,5 +1,5 @@
 ﻿---
-layout: default
+layout: page
 title: "Islam and its merits"
 author: "Instagram@Alsalafiyyah"
 category: [basic]

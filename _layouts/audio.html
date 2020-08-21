@@ -2,11 +2,13 @@
 layout: default
 ---
 
+<article class="post">
   <h2 class="post-title">{{ page.title }}</h2>
   <audio controls>
   <source src="{{ page.mp3 }}" type="audio/mpeg">
   <p>Your browser does not support the audio element.</p>
   </audio>
   {{ content }}      
+</article>
   {% include post-footer.html %}
   
