@@ -7,8 +7,8 @@ author:
   name:         Instagram@Alsalafiyyah
   email:        alsalafiyyah@icloud.com
 markdown:       kramdown
-theme:     massively-theme
-remote_theme: alsalafiyyah/massively-theme
+theme:     massively-jekyll-theme
+remote_theme: alsalafiyyah/massively-jekyll-theme
 include:
   - _pages
 plugins:
