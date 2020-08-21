@@ -1,8 +1,8 @@
 				<!-- Footer -->
 					<footer id="footer">
 						<section>
-							<form method="post" action="#">
-<input type="text" name="name" id="name" placeholder="Search"/>
+							<form method="post" action="{{ "/search" | relative_url }}">
+<input id="tipue_search_input" type="text" name="q" placeholder="Type and hit enter" pattern=".{3,}" title="At least 3 characters" required/>
 							</form>
 						</section>
 					</footer>
