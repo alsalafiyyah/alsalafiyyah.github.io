@@ -43,5 +43,5 @@ gems:
 collections:
   walabaras:
     output: true
-    permalink: /walabara/:title
+    permalink: /walabara/:namr
 
