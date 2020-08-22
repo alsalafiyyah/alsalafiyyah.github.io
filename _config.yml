@@ -22,8 +22,8 @@ plugins:
 permalink: /:title/
 paginate:       8
 paginate_path: "/:num/"
-category_dir: "categories"
-category_layout: "index.html"
+paginate_category_basepath: '/c/:name/'
+paginate_category_layout: 'category.html'
 exclude:
   - .gitignore
   - Gemfile
