@@ -4,6 +4,7 @@ title: "The meaning of 'La ilaha illa Allah'"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 2/5"
 category: [basic, knowledge, binbaz]
+tag: basic
 hijri: Dhul-Hijjah 12, 1441 AH
 date: 2020/08/1
 shaykhs: Shaykh Abdul-Aziz ibn Baz
