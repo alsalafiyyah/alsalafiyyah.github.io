@@ -21,9 +21,9 @@ permalink: /walabara/
         {% endif %}
     {% endfor %}
     {% if next_post %}
-        <a href="{{ next_post }}">Next Post</a> <br>
+        <a href="{{category.walabara.next}}">Next Post</a> <br>
     {% endif %}
     {% if prev_post %}
-        <a href="{{ prev_post }}">Previous Post</a> <br>
+        <a href="{{category.walabara.previous}}">Previous Post</a> <br>
     {% endif %}
 </article>
