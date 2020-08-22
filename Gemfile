@@ -9,5 +9,5 @@ group :jekyll_plugins do
   gem "jekyll-remote-theme"
   gem "jekyll-paginate"
   gem "jekyll-pdf-embed"
-  gem "jekyll-paginate-categories"
+  gem "octopress-paginate"
 end

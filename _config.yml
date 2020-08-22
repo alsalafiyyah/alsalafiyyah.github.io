@@ -32,4 +32,11 @@ tipue_search:
     files: [index.html, search.html]
 google_analytics:
   id: ''
-gems: [jekyll-feed, jekyll-seo-tag, jekyll-remote-theme, jekyll-paginate]
+gems:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-pdf-embed
+  - octopress-paginate
