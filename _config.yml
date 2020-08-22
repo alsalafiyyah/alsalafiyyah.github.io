@@ -18,6 +18,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-pdf-embed
+  - jekyll-paginate-categories
 permalink: /:title/
 paginate:       8
 paginate_path: "/:num/"
@@ -34,4 +35,4 @@ tipue_search:
     files: [index.html, search.html]
 google_analytics:
   id: ''
-gems: [jekyll-feed, jekyll-seo-tag, jekyll-remote-theme, jekyll-paginate, jekyll-paginate-category]
+gems: [jekyll-feed, jekyll-seo-tag, jekyll-remote-theme, jekyll-paginate, jekyll-paginate-categories]
