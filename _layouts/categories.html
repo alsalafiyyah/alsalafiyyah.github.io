@@ -1,31 +1,33 @@
 ---
 layout: default
+type: archive
 ---
 
-<h3>Category: {{ page.category }}</h3>
+<div class="archive-description">
+  <h1 class="archive-title">{{ page.category }} Archive</h1>
+  {{ content }}
+</div>
 
-{% for post in paginator.posts %}
-  <article>
-    <header>
-      <h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
-    </header>
-    <div class="entry-content">
-      {{ post.excerpt }}
-    </div>
-  </article>
-{% endfor %}
-
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% else %}
-    <span class="next">Next</span>
-  {% endif %}
+<div class="wrap">
+{% if site.categories[page.category] %}
+  <div class="group-year">
+    {% for post in site.categories[page.category] %}
+      {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+      {% unless year == this_year %}
+        {% assign year = this_year %}
+        <p>{{ year }}</p>
+      {% endunless %}
+      <article>
+        <h3><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h3>
+        <time>
+          <span class="month">{{ post.date | date: "%b" }}</span>
+          <span class="day">{{ post.date | date: "%d" }}</span>
+          <span class="year">{{ post.date | date: "%Y" }}</span>
+        </time>
+      </article>
+    {% endfor %}
+  </div>
+{% else %}
+  <p>There are no posts in this category.</p>
+{% endif %}
 </div>
