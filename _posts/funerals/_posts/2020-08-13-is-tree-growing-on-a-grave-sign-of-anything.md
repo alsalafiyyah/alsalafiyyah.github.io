@@ -5,6 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 4/372, question 8"
 hijri: Dhul-Hijjah 23, 1441 AH
 date: 2020/08/13
+category: [funerals]
 shaykhs: Shaykh Ibn Baz
 ---
 

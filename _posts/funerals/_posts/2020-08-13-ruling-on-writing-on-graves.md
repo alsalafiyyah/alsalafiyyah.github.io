@@ -4,6 +4,7 @@ title: "Ruling on writing on graves"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 4/337"
 hijri: Dhul-Hijjah 23, 1441 AH
+category: [funerals]
 date: 2020/08/13
 shaykhs: Shaykh Ibn Baz
 ---

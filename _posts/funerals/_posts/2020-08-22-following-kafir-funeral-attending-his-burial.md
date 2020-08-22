@@ -4,7 +4,7 @@ title: "Ruling on following the funeral of a Kafir and attending his burial"
 publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 19584"
 hijri: Muharram 3, 1442 AH
-category: walabara, funerals
+category: [walabara, funerals]
 date: 2020/08/22
 shaykhs: 
  - Shaykh Ibn Baz

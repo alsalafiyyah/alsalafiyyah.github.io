@@ -1,9 +1,9 @@
----
+﻿---
 layout: post
 title: "Ruling on building domes over graves"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa al-Lajnah ad-Daimah no. 8263-4"
-category: [funerals, alifta]
+category: [funerals, alifta, bidah]
 hijri: Dhul-Hijjah 24, 1441 AH
 date: 2020/08/14
 shaykhs: 

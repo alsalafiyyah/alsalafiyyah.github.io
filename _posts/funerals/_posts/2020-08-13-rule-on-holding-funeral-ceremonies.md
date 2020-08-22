@@ -1,10 +1,11 @@
----
+﻿---
 layout: post
 title: "Ruling on holding funeral ceremonies"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 5/345"
 hijri: Dhul-Hijjah 23, 1441 AH
 date: 2020/08/13
+category: [funerals]
 shaykhs: Shaykh Ibn Baz
 ---
 

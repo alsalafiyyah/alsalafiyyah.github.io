@@ -4,7 +4,7 @@ title: "Ruling on seeking help from the Messenger when digging the grave"
 publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 16712"
 hijri: Muharram 3, 1442 AH
-category: funerals, bidah
+category: [funerals, bidah]
 date: 2020/08/22
 shaykhs: 
  - Shaykh Ibn Baz
