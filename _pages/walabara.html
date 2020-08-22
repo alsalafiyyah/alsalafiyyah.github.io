@@ -1,0 +1,29 @@
+---
+title: al-Wala wal-Bara
+layout: page
+active: walabara
+permalink: /walabara/
+---
+
+<article class="post">
+    {% for post in site.categories.walabara %}
+        {% if post.url == page.url %}
+            {% assign post_index0 = forloop.index0 %}
+            {% assign post_index1 = forloop.index %}
+        {% endif %}
+    {% endfor %}
+    {% for post in site.categories.walabara %}
+        {% if post_index0 == forloop.index %}
+            {% assign next_post = post.url %}
+        {% endif %}
+        {% if post_index1 == forloop.index0 %}
+            {% assign prev_post = post.url %}
+        {% endif %}
+    {% endfor %}
+    {% if next_post %}
+        <a href="{{ next_post }}">Next Post</a> <br>
+    {% endif %}
+    {% if prev_post %}
+        <a href="{{ prev_post }}">Previous Post</a> <br>
+    {% endif %}
+</article>
