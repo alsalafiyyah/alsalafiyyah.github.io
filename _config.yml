@@ -41,7 +41,7 @@ gems:
   - jekyll-pdf-embed
   - octopress-paginate
 collections:
-  walabaras:
+  walabara:
     output: true
-    permalink: /walabara/:namr
+    permalink: /walabara/:name
 
