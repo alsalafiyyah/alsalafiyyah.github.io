@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ruling on offering condolences to the deceased's family to say 'may rest be in your life'"
+title: "Ruling on offering condolences to the deceased's family to say: may rest be in your life"
 publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 16743-1"
 hijri: Muharram 3, 1442 AH
