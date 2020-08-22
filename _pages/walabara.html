@@ -26,4 +26,14 @@ permalink: /c/walabara/
     {% if prev_post %}
         <a href="{{category.walabara.previous}}">Previous Post</a> <br>
     {% endif %}
+
+{% if page.next and page.next.categories contains "walabara" %}
+
+  <a href="{{ page.next.url }}">Next Post</a>
+
+{% else if page.previous and page.previous.categories contains "walabara" %}
+
+  <a href="{{ page.previous.url }}">Previous Post</a>
+
+{% endif %}
 </article>
