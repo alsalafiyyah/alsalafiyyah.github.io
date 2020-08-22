@@ -5,6 +5,7 @@ publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 14247-2 "
 hijri: Muharram 3, 1442 AH
 date: 2020/08/22
+category: funerals
 shaykhs: 
  - Shaykh Ibn Baz
  - Shaykh Abdullah ibn Ghudayyan
