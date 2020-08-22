@@ -14,4 +14,22 @@ permalink: /category/
       </span>
     </a>
     {% endfor %}
+
+    {% for tag in tags %} 
+      <h2 id="{{ tag[0] | slugify }}" style="padding-top: 70px;"> {{ tag[0] }}  <i class="badge">{{ tag | last | size }}</i></h2>
+      <ul class="later on">
+        {% for post in tag[1] %}
+          <a class="post-subtitle" href="{{ site.baseurl }}{{ post.url }}">
+        <li>
+          {{ post.title }}
+        <small class="post-meta"> - Posted on {{ post.date | date: "%B %-d, %Y" }}</small>
+        </li>
+        </a>
+        {% endfor %}
+      </ul>
+        <a href="#top" class="btn btn-default">
+          <span class="fa fa-refresh" aria-hidden="true"></span> Go back to the top
+        </a> 
+        <hr/>
+    {% endfor %}
 </article>
