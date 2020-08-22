@@ -4,7 +4,7 @@ title: "Some practices done upon burial"
 publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 18068-6"
 hijri: Muharram 3, 1442 AH
-category: ]funerals, bidah]
+category: [funerals, bidah]
 date: 2020/08/22
 shaykhs: 
  - Shaykh Ibn Baz
