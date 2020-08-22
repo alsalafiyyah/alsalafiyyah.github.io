@@ -8,16 +8,16 @@ permalink: /category/
 <article class="post">
     {% assign tags = site.categories | sort %}
     {% for tag in tags %}
-    <a href="#{{ tag[0] | slugify }}" class="btn btn-default">
+    <a href="#{{ tag[0] | slugify }}">
       <span class="fa fa-folder-open" aria-hidden="true"> 
-        {{ tag[0] }} <i class="badge">{{ tag | last | size }}</i>
+        {{ tag[0] }} ({{ tag | last | size }})
       </span>
     </a>
     {% endfor %}
 
     {% for tag in tags %} 
-      <h4 id="{{ tag[0] | slugify }}"> {{ tag[0] }}</h4>
-      <p>{{ tag | last | size }} posts</p>
+      <h3 id="{{ tag[0] | slugify }}"> {{ tag[0] }}</h3>
+      <p>{{ tag | last | size }} fatwas</p>
       <ul class="later on">
         {% for post in tag[1] %}
           <a class="post-subtitle" href="{{ site.baseurl }}{{ post.url }}">
