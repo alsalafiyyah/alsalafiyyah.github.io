@@ -20,6 +20,8 @@ plugins:
 permalink: /:title/
 paginate:       8
 paginate_path: "/:num/"
+category_dir: "categories"
+category_layout: "index.html"
 exclude:
   - .gitignore
   - Gemfile
@@ -31,5 +33,4 @@ tipue_search:
     files: [index.html, search.html]
 google_analytics:
   id: ''
-sass:
-  style: compressed
+gems: [jekyll-feed, jekyll-seo-tag, jekyll-remote-theme, jekyll-paginate, jekyll-paginate-category]
