@@ -1,0 +1,23 @@
+---
+title: Funerals
+layout: default
+active: funerals
+permalink: /funerals/
+---
+
+<article class="post">
+<h2>Funerals</h2>
+<ul class="posts">
+  {% for post in site.categories.funerals %}
+    {% if post.url %}
+    <li>
+    <article>
+      <header>
+      <h3 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      </header>
+    </article>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+</article>
