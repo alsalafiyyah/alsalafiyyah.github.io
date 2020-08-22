@@ -29,6 +29,7 @@ Second: Collective recitation of particular formulas of Dhikr (Remembrance of Al
 Third: On burying the dead, it is prescribed to say: "In the Name of Allah and according to the religion of the Messenger of Allah." As for the practice of repeating the statement mentioned in the question, it is a Bid'ah.
 
 May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
+
 ---
 [^1]: Al-Tirmidhy, Sunan, Book on Resurrection, heart-softening narrations, and piety, no. 2516; and Ahmad, Musnad, vol. 1, p. 308.
 [^2]: Muslim, Sahih, Book on judicial decisions, no. 1718; and Ahmad, Musnad, vol. 6, p. 256.
