@@ -40,8 +40,8 @@ gems:
   - jekyll-sitemap
   - jekyll-pdf-embed
   - octopress-paginate
+category: [basic, bidah, books, creeds, dawah, funerals, madhabs, marriage, misc, music, nonmuslims, oaths, politics, refutals, sects, shirk, sins, tawassul, treatments, unseen, walabara, women]
 collections:
   walabara:
     output: true
     permalink: /walabara/:name
-
