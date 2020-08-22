@@ -1,13 +1,26 @@
-{% unless show_in_footer == false %}
 				<!-- Footer -->
 					<footer id="footer">
 						<section>
+								<div class="fields">
 							<form action="{{ "/search" | relative_url }}">
 <input id="tipue_search_input" type="text" name="q" placeholder="Type and hit enter" pattern=".{3,}" title="At least 3 characters" required/>
 							</form>
+								</div>
+						</section>
+						<section class="split contact">
+							<section>
+								<h3>Email</h3>
+								<p><a href="#">alsalafiyyah@icloud.com</a></p>
+							</section>
 						</section>
 					</footer>
-{% endunless %}
+
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; {{ site.title }}</li></ul>
+					</div>
+
+
   <script src="{{ "/assets/js/jquery.scrollex.min.js" | relative_url }}"></script>
   <script src="{{ "/assets/js/jquery.scrolly.min.js" | relative_url }}"></script>
   <script src="{{ "/assets/js/browser.min.js" | relative_url }}"></script>
