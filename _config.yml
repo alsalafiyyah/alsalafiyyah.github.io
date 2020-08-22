@@ -40,3 +40,8 @@ gems:
   - jekyll-sitemap
   - jekyll-pdf-embed
   - octopress-paginate
+collections:
+  walabara:
+    output: true
+    permalink: /walabara/:title
+
