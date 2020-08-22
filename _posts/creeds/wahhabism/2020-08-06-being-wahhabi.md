@@ -3,7 +3,7 @@ layout: post
 title: "Accused of being a Wahhabi for calling to Tawhid and abandoning Shirk (polytheism)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 3, tape no. 124, question 16"
-category: [salafism, wahhabism, binbaz, audios, wahabiyyah]
+category: [wahhabism, audios]
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_887/nour_88708.mp3
 link: shorturl.at/iKW36
 hijri: Dhul-Hijjah 16, 1441 AH
