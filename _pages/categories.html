@@ -8,7 +8,7 @@ permalink: /category/
 <article class="post">
     {% assign tags = site.categories | sort %}
     {% for tag in tags %}
-    <a href="#{{ tag[0] | slugify }}" class="btn btn-default" style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%"> <!-- style="color: #1C1C1C;" is font color of cloud index -->
+    <a href="#{{ tag[0] | slugify }}" class="btn btn-default">
       <span class="fa fa-folder-open" aria-hidden="true"> 
         {{ tag[0] }} <i class="badge">{{ tag | last | size }}</i>
       </span>
