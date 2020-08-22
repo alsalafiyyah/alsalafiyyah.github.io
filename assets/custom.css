@@ -1,5 +1,5 @@
 
 .footnote {
-   color: #18bfe;
+   color: #18bfe! important;
    font-weight: 600;
 }
