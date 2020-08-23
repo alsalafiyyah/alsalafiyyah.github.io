@@ -22,7 +22,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-multiple-languages
 permalink: /:title/
-paginate:       8
+paginate:       12
 paginate_path: "/:num/"
 exclude:
   - .gitignore
