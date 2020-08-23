@@ -3,7 +3,7 @@ layout: post
 title: "Ba'ath Party"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 28/270"
-category: [baath, refualts, binbaz]
+category: [baath, refutals]
 hijri: Dhu al-Hijjah 3, 1441 AH
 date: 2020/07/24
 shaykhs: Shaykh Ibn Baz
