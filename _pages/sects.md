@@ -60,9 +60,9 @@ permalink: /sects/
 </div>
 
 <div class="box">
-<h4>Habashis/h4>
+<h4>Habashis</h4>
 <ul class="posts">
-  {% for post in site.categories.habahis | limit:5 %}
+  {% for post in site.categories.habashis | limit:5 %}
     {% if post.url %}
     <li><a href="{{ post.url }}">{{ post.title }}</a>
     </li>
