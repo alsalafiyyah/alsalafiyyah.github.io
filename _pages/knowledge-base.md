@@ -1,5 +1,5 @@
 ﻿---
-title: Recommended by the admins
+title: Recommended
 layout: page
 active: basic
 permalink: /basic/
