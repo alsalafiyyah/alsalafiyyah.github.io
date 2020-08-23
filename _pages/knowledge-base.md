@@ -41,4 +41,17 @@ permalink: /basic/
 </ul>
 </div>
 
+<div class="box">
+<h4>Funerals</h4>
+<ul class="posts">
+  {% for post in site.categories.funerals | limit:5 %}
+    {% if post.url %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+  <p><i class="fas fa-arrow-right"></i> <a href="/funerals/">View all</a></p>
+</ul>
+</div>
+
 </article>
