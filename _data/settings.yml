@@ -17,9 +17,6 @@ sidebar_menu:
   - name: Recommended
     link: /basic
     active: basic
-  - name: The Sects
-    link: /sects
-    active: sects
   - name: Faq
     link: /faq/
     active: faq
