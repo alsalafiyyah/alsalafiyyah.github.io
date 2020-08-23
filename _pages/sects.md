@@ -42,7 +42,6 @@ permalink: /sects/
     </li>
     {% endif %}
   {% endfor %}
-  <p><i class="fas fa-arrow-right"></i> <a href="/khawarij/">View all</a></p>
 </ul>
 </div>
 
