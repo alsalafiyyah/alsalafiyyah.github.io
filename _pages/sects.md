@@ -79,7 +79,6 @@ permalink: /sects/
     </li>
     {% endif %}
   {% endfor %}
-  <p><i class="fas fa-arrow-right"></i> <a href="/wahhabism/">View all</a></p>
 </ul>
 </div>
 
@@ -104,7 +103,6 @@ permalink: /sects/
     </li>
     {% endif %}
   {% endfor %}
-  <p><i class="fas fa-arrow-right"></i> <a href="/funerals/">View all</a></p>
 </ul>
 </div>
 
