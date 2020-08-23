@@ -6,6 +6,19 @@ permalink: /category/
 ---
 
 <article class="post">
+{% assign categories = "" | split: '/'%}
+{% for page in site.pages %}
+{% assign page_cats = page.dir | split:'/' %}
+{% if page_cats[1] == site.docs_dir %}
+{% assign category = page_cats[2] | strip %}
+{% unless category == "" %}
+{% unless categories contains category %}
+{% assign categories = categories | push: category %}
+{% endunless %}
+{% endunless %}
+{% endif %}
+{% endfor %}
+
 <div class="box">
     {% assign tags = site.categories | sort %}
     {% for tag in tags %}
