@@ -9,12 +9,7 @@ permalink: /basic/
 <ul class="posts">
   {% for post in site.categories.basic %}
     {% if post.url %}
-    <li>
-    <article>
-      <header>
-      <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
-      </header>
-    </article>
+    <li><a href="{{ post.url }}">{{ post.title }}</a>
     </li>
     {% endif %}
   {% endfor %}
