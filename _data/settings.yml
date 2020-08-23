@@ -17,9 +17,9 @@ sidebar_menu:
   - name: Recommended
     link: /basic
     active: basic
-  - name: Wahhabism
-    link: /wahhabism
-    active: wahhabism
+  - name: The Sects
+    link: /sects
+    active: sects
   - name: Faq
     link: /faq/
     active: faq
