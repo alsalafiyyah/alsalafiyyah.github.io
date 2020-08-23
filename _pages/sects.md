@@ -16,7 +16,7 @@ permalink: /sects/
     </li>
     {% endif %}
   {% endfor %}
-  <p><i class="fas fa-arrow-right"></i> <a href="/walabara/">View all</a></p>
+  <p><i class="fas fa-arrow-right"></i> <a href="/sufism/">View all</a></p>
 </ul>
 </div>
 
