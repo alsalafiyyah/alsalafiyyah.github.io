@@ -18,7 +18,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
   - jekyll-sitemap
-  - jekyll-multiple-languages
 permalink: /:title/
 paginate:       12
 paginate_path: "/:num/"
@@ -39,7 +38,4 @@ gems:
   - jekyll-seo-tag
   - jekyll-remote-theme
   - jekyll-sitemap
-  - jekyll-multiple-languages
-languages:          ['en', 'ar']
-language_default:   'en'
 category: [basic, bidah, books, creeds, dawah, funerals, madhabs, marriage, misc, music, nonmuslims, oaths, politics, refutals, sects, shirk, sins, tawassul, treatments, unseen, walabara, women]
