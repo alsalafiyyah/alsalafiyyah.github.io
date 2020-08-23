@@ -3,7 +3,7 @@ layout: post
 title: "Tablighi Jama'at and offering Salah in Masjids containing graves"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa Shaykh Ibn Baz 8/331"
-category: sufism, jamaat tabligh
+category: [sufism, tablighis]
 hijri: Dhul-Qa'dah 20, 1441 AH
 shaykhs: Shaykh ibn Baz
 ---
