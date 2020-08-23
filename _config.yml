@@ -1,6 +1,6 @@
 title:          Salafiyyah
 description:    "The Salafi Da'wah is a Da'wah to follow the footsteps of the Messenger (peace be upon him), his Sahabah (Companions of the Prophet, may Allah be pleased with them), and those who follow them in righteousness (cf. Qur'an, al-Tawbah: 100)."
-baseurl:        ""
+baseurl:        "/"
 url:            "https://alsalafiyyah.github.io"
 email: salafiyyah@outlook.sa
 author:
@@ -17,7 +17,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
   - jekyll-sitemap
-  - jekyll-pdf-embed
 permalink: /:title/
 paginate:       8
 paginate_path: "/:num/"
@@ -38,6 +37,4 @@ gems:
   - jekyll-seo-tag
   - jekyll-remote-theme
   - jekyll-sitemap
-  - jekyll-pdf-embed
-  - octopress-paginate
 category: [basic, bidah, books, creeds, dawah, funerals, madhabs, marriage, misc, music, nonmuslims, oaths, politics, refutals, sects, shirk, sins, tawassul, treatments, unseen, walabara, women]
