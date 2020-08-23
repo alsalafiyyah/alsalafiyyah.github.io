@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Distraction of Sufi groups to Muslims"
 publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
