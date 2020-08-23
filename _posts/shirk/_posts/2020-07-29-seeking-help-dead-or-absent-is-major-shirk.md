@@ -1,9 +1,9 @@
----
+﻿---
 layout: post
 title: "Seeking the help of the dead or the absent is major Shirk"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 9272-2"
-category: [tawassul, creeds, seeinghelp, aqidah]
+category: ["tawassul", seekinghelp]
 hijri: Dhu al-Hijjah 8, 1441 AH
 date: 2020/07/29
 shaykhs: 

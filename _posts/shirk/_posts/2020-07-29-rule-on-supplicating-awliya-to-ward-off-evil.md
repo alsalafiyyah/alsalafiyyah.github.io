@@ -1,9 +1,9 @@
----
+﻿---
 layout: post
 title: "Ruling on supplicating to the Awliya to ward off evil and pretending to know the Ghayb"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 5476-4"
-category: [tawassul, creeds, seeinghelp, aqidah, fortuneteller, diviner, shirk]
+category: ["tawassul", seekinghelp, fortuneteller, diviner, shirk]
 hijri: Dhu al-Hijjah 8, 1441 AH
 date: 2020/07/29
 shaykhs: 
