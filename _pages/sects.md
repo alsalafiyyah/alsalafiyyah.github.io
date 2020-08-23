@@ -2,7 +2,7 @@
 title: Groups and the Sects
 layout: page
 active: sects
-permalink: /thesects/
+permalink: /sects/
 ---
 
 <article class="post">
