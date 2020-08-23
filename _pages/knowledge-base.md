@@ -24,7 +24,7 @@ permalink: /basic/
     </li>
     {% endif %}
   {% endfor %}
-  <p><a href="/walabara/">View all <i class="fas fa-arrow-right"></i></a></p>
+  <p><i class="fas fa-arrow-right"></i> <a href="/walabara/">View all</a></p>
 </ul>
 </div>
 
@@ -37,7 +37,7 @@ permalink: /basic/
     </li>
     {% endif %}
   {% endfor %}
-  <p><a href="/sufism/">View all <i class="fas fa-arrow-right"></i></a></p>
+  <p><i class="fas fa-arrow-right"></i> <a href="/sufism/">View all</a></p>
 </ul>
 </div>
 
