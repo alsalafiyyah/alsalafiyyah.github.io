@@ -34,19 +34,6 @@ permalink: /sects/
 </div>
 
 <div class="box">
-<h4>Al-Ikhwan Al-Muslimun (The Muslims Brotherhood)</h4>
-<ul class="posts">
-  {% for post in site.categories.ikhwanis | limit:5 %}
-    {% if post.url %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-    {% endif %}
-  {% endfor %}
-  <p><i class="fas fa-arrow-right"></i> <a href="/funerals/">View all</a></p>
-</ul>
-</div>
-
-<div class="box">
 <h4>Khawarij</h4>
 <ul class="posts">
   {% for post in site.categories.khawarij | limit:5 %}
@@ -80,7 +67,6 @@ permalink: /sects/
     </li>
     {% endif %}
   {% endfor %}
-  <p><i class="fas fa-arrow-right"></i> <a href="/wahhabism/">View all</a></p>
 </ul>
 </div>
 
@@ -106,6 +92,19 @@ permalink: /sects/
     </li>
     {% endif %}
   {% endfor %}
+</ul>
+</div>
+
+<div class="box">
+<h4>Al-Ikhwan Al-Muslimun (The Muslims Brotherhood)</h4>
+<ul class="posts">
+  {% for post in site.categories.ikhwanis | limit:5 %}
+    {% if post.url %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+  <p><i class="fas fa-arrow-right"></i> <a href="/funerals/">View all</a></p>
 </ul>
 </div>
 
