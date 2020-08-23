@@ -1,14 +1,13 @@
 ﻿---
+title: Funerals
 layout: page
-title: "Al-Wala' Wal-Bara'"
-active: walabara
-author: "Instagram@Alsalafiyyah"
-permalink: /walabara2/
+active: funerals
+permalink: /funerals/
 ---
 
 <article class="post">
 <ul class="posts">
-  {% for post in site.categories.walabara %}
+  {% for post in site.categories.funerals %}
     {% if post.url %}
     <li>
     <article>

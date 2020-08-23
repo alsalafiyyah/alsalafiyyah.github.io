@@ -1,13 +1,14 @@
----
-title: Recommended by the admins
+﻿---
+title: Wahhabism
 layout: page
-active: basic
-permalink: /basic/
+active: wahhabism
+permalink: /wahhabism/
 ---
 
 <article class="post">
+<p><a class="button small" href="/biography/">His Da'wah and biography</a></p>
 <ul class="posts">
-  {% for post in site.categories.basic %}
+  {% for post in site.categories.wahhabism %}
     {% if post.url %}
     <li>
     <article>

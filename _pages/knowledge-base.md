@@ -1,13 +1,13 @@
----
-title: Funerals
+﻿---
+title: Recommended by the admins
 layout: page
-active: funerals
-permalink: /funerals/
+active: basic
+permalink: /basic/
 ---
 
 <article class="post">
 <ul class="posts">
-  {% for post in site.categories.funerals %}
+  {% for post in site.categories.basic %}
     {% if post.url %}
     <li>
     <article>
