@@ -15,6 +15,7 @@ permalink: /basic/
   {% endfor %}
 </ul>
 
+<div class="box">
 <h4>Al-Wala' wal-Bara'</h4>
 <ul class="posts">
   {% for post in site.categories.walabara | limit:5 %}
@@ -25,5 +26,6 @@ permalink: /basic/
   {% endfor %}
   <p><a href="/walabara/">View all</a></p>
 </ul>
+</div>
 
 </article>
