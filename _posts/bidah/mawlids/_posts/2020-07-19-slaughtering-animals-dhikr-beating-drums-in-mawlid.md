@@ -1,10 +1,10 @@
----
+﻿---
 layout: post
 title: "Ruling on slaughtering animals, engaging in Dhikr and beating drums during celebrations of Mawlid"
 lang: en
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa Shaykh Ibn Baz 9/72"
-category: [mawlid, binbaz]
+category: [mawlids]
 hijri: Dhul-Qa'dah 28, 1441 AH
 shaykhs: Shaykh ibn Baz
 ---

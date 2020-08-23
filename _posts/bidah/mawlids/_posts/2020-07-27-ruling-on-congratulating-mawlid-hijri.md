@@ -1,9 +1,9 @@
----
+﻿---
 layout: post
 title: "Ruling on congratulating others in the new Gregorian or Hijri years or the Mawlid"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 19991-1"
-category: [mawlid]
+category: [mawlids]
 hijri: Dhu al-Hijjah 6, 1441 AH
 date: 2020/07/27
 shaykhs: 
