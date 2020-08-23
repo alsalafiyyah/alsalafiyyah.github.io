@@ -3,7 +3,7 @@ layout: post
 title: "The Reality on the 'Aqidah (creed) of Al-Khawarij"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 28/254"
-category: [salafis, salafiyyah, salafism, khawarij, binbaz]
+category: [salafism, khawarij]
 hijri: Dhu al-Hijjah 3, 1441 AH
 date: 2020/07/24
 shaykhs: Shaykh Ibn Baz
