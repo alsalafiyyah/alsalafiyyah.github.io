@@ -3,7 +3,7 @@ layout: post
 title: "Al-Ikhwan Al-Muslimun (the Muslim Brotherhood) group"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 8/34"
-category: [groups, politics, hizbiyyah, ikhwanis, binbaz]
+category: [ikhwanis]
 hijri: Dhul-Qa'dah 30, 1441 AH
 date: 2020/07/21
 shaykhs: Shaykh Ibn Baz
