@@ -2,7 +2,7 @@
 layout: post
 title: "Tafsir Surah Fatir Ayat 28"
 publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
-source: "Majmu' Fatawa wa Maqalat 5/"
+source: "Majmu' Fatawa wa Maqalat 5/48"
 hijri: Muharram 5, 1442 AH
 date: 2020/08/24
 category: ["tafsir", quran]
