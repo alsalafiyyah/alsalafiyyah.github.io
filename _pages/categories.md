@@ -16,8 +16,9 @@ permalink: /category/
     </a>
     {% endfor %}
 </div>
-<div class="box">
+
     {% for tag in tags %} 
+<div class="box">
       <h3 id="{{ tag[0] | slugify }}"> {{ tag[0] }}</h3>
       <p>{{ tag | last | size }} fatwas</p>
       <ul class="later on">
@@ -32,6 +33,6 @@ permalink: /category/
         <a href="#top" class="btn btn-default">
           Back to top
         </a> 
-    {% endfor %}
 </div>
+    {% endfor %}
 </article>
