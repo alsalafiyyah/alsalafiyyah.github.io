@@ -54,4 +54,17 @@ permalink: /basic/
 </ul>
 </div>
 
+<div class="box">
+<h4>Wahhabism</h4>
+<ul class="posts">
+  {% for post in site.categories.wahhabism | limit:5 %}
+    {% if post.url %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+  <p><i class="fas fa-arrow-right"></i> <a href="/wahhabism/">View all</a></p>
+</ul>
+</div>
+
 </article>
