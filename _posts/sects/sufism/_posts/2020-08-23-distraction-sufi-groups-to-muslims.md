@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Shaykh Ibn Baz on Islamic unity, Sufi groups, spread of Bid'ahs and misguidance, and the duties of Ahl-us-Sunnah towards them"
 publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
