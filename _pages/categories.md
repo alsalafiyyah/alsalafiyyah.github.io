@@ -32,7 +32,6 @@ permalink: /category/
         <a href="#top" class="btn btn-default">
           Back to top
         </a> 
-        <hr/>
     {% endfor %}
 </div>
 </article>
