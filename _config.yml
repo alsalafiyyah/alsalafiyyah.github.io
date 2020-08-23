@@ -6,6 +6,9 @@ email: salafiyyah@outlook.sa
 author:
   name:         Instagram@Alsalafiyyah
   email:        alsalafiyyah@icloud.com
+encoding:         UTF-8
+languages:          ['en', 'ar']
+language_default:   'en'
 markdown:       kramdown
 remote_theme: alsalafiyyah/massively-jekyll-theme
 include:

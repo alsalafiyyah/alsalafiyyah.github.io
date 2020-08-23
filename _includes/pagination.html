@@ -1,20 +1,25 @@
+{% if page.is_default_language %}
+ {% assign url_pre = '/' | prepend: site.baseurl | replace: '//', '/' %}
+  {% else %}
+ {% assign url_pre =  page.language | prepend: site.baseurl | replace: '//', '/' %}
+{% endif %}
 <ul class="actions pagination align-center">
  {% if paginator.previous_page %}
 	<li>
-		<a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="button big previous">{{site.data.settings.pagination.prev}}</a>
+		<a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="button big previous">{{ site.data.i18n[page.language].previous_page }}</a>
 	</li>
  {% else %}
 	<li>
-		<a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="disabled button big previous">{{site.data.settings.pagination.prev}}</a>
+		<a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="disabled button big previous">{{ site.data.i18n[page.language].previous_page }}</a>
 	</li>
  {% endif %}
  {% if paginator.next_page %}
 	<li>
-		<a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="button big next">{{site.data.settings.pagination.next}}</a>
+		<a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="button big next">{{ site.data.i18n[page.language].next_page }}</a>
 	</li>
  {% else %}
 	<li>
-		<a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="disabled button big next">{{site.data.settings.pagination.next}}</a>
+		<a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="disabled button big next">{{ site.data.i18n[page.language].next_page }}</a>
 	</li>
  {% endif %}
 </ul>  
