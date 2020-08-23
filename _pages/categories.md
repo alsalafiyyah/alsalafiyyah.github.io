@@ -5,18 +5,20 @@ active: categories
 permalink: /category/
 ---
 
-<article class="post">
-{% assign categories = "" | split: '/'%}
-{% for page in site.pages %}
-{% assign page_cats = page.dir | split:'/' %}
-{% if page_cats[1] == site.docs_dir %}
-{% assign category = page_cats[2] | strip %}
-{% unless category == "" %}
-{% unless categories contains category %}
-{% assign categories = categories | push: category %}
-{% endunless %}
-{% endunless %}
-{% endif %}
+{% for category in site.categories %}
+  <div class="archive-group">
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <div id="#{{ category_name | slugize }}"></div>
+    <p></p>
+
+    <h3 class="category-head">{{ category_name }}</h3>
+    <a name="{{ category_name | slugize }}"></a>
+    {% for post in site.categories[category_name] %}
+    <article class="archive-item">
+      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+    </article>
+    {% endfor %}
+  </div>
 {% endfor %}
 
 <div class="box">
