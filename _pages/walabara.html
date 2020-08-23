@@ -1,61 +1,23 @@
----
-title: al-Wala wal-Bara
+﻿---
 layout: page
+title: "Al-Wala' Wal-Bara'"
 active: walabara
-permalink: /c/walabara/
+author: "Instagram@Alsalafiyyah"
+permalink: /walabara/
 ---
 
 <article class="post">
-{% if page.categories %}
-  {% assign category = page.categories[0] %}
-  {% assign posts = site.categories[category] %}
-  {% for post in posts %}
-    {% if post.url == page.url %}
-      {% assign post_index0 = forloop.index0 %}
-      {% assign post_index1 = forloop.index %}
+<ul class="posts">
+  {% for post in site.categories.walawabar %}
+    {% if post.url %}
+    <li>
+    <article>
+      <header>
+      <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+      </header>
+    </article>
+    </li>
     {% endif %}
   {% endfor %}
-  {% for post in posts %}
-    {% if post_index0 == forloop.index %}
-      {% assign next_post = post %}
-    {% endif %}
-    {% if post_index1 == forloop.index0 %}
-      {% assign prev_post = post %}
-    {% endif %}
-  {% endfor %}
-{% endif %}
-
-    {% for post in site.categories.walabara %}
-        {% if post.url == page.url %}
-            {% assign post_index0 = forloop.index0 %}
-            {% assign post_index1 = forloop.index %}
-        {% endif %}
-    {% endfor %}
-    {% for post in site.categories.walabara %}
-        {% if post_index0 == forloop.index %}
-            {% assign next_post = post.url %}
-        {% endif %}
-        {% if post_index1 == forloop.index0 %}
-            {% assign prev_post = post.url %}
-        {% endif %}
-    {% endfor %}
-    {% if next_post %}
-        <a href="{{category.walabara.next}}">Next Post</a> <br>
-    {% endif %}
-    {% if prev_post %}
-        <a href="{{category.walabara.previous}}">Previous Post</a> <br>
-    {% endif %}
-
-{% if page.next and page.next.categories contains "walabara" %}
-
-  <a href="{{ page.next.url }}">Next Post</a>
-
-{% else if page.previous and page.previous.categories contains "walabara" %}
-
-  <a href="{{ page.previous.url }}">Previous Post</a>
-
-{% endif %}
-
-
-
+</ul>
 </article>
