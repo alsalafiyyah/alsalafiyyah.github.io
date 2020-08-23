@@ -29,7 +29,7 @@ permalink: /sects/
     </li>
     {% endif %}
   {% endfor %}
-  <p><i class="fas fa-arrow-right"></i> <a href="/sufism/">View all</a></p>
+  <p><i class="fas fa-arrow-right"></i> <a href="/shiah/">View all</a></p>
 </ul>
 </div>
 
@@ -42,7 +42,7 @@ permalink: /sects/
     </li>
     {% endif %}
   {% endfor %}
-  <p><i class="fas fa-arrow-right"></i> <a href="/wahhabism/">View all</a></p>
+  <p><i class="fas fa-arrow-right"></i> <a href="/khawarij/">View all</a></p>
 </ul>
 </div>
 
