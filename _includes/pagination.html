@@ -1,8 +1,4 @@
-{% if page.is_default_language %}
- {% assign url_pre = '/' | prepend: site.baseurl | replace: '//', '/' %}
-  {% else %}
- {% assign url_pre =  page.language | prepend: site.baseurl | replace: '//', '/' %}
-{% endif %}
+
 <ul class="actions pagination align-center">
  {% if paginator.previous_page %}
 	<li>
