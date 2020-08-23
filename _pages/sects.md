@@ -1,0 +1,114 @@
+﻿---
+title: Groups and the Sects
+layout: page
+active: sects
+permalink: /sects/
+---
+
+<article class="post">
+
+<div class="box">
+<h4>Sufism</h4>
+<ul class="posts">
+  {% for post in site.categories.sufism | limit:5 %}
+    {% if post.url %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+  <p><i class="fas fa-arrow-right"></i> <a href="/walabara/">View all</a></p>
+</ul>
+</div>
+
+<div class="box">
+<h4>Shi'ah and the rafidah</h4>
+<ul class="posts">
+  {% for post in site.categories.shiah | limit:5 %}
+    {% if post.url %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+  <p><i class="fas fa-arrow-right"></i> <a href="/sufism/">View all</a></p>
+</ul>
+</div>
+
+<div class="box">
+<h4>Al-Ikhwan Al-Muslimun (The Muslims Brotherhood)</h4>
+<ul class="posts">
+  {% for post in site.categories.ikhwanis | limit:5 %}
+    {% if post.url %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+  <p><i class="fas fa-arrow-right"></i> <a href="/funerals/">View all</a></p>
+</ul>
+</div>
+
+<div class="box">
+<h4>Khawarij</h4>
+<ul class="posts">
+  {% for post in site.categories.khawarij | limit:5 %}
+    {% if post.url %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+  <p><i class="fas fa-arrow-right"></i> <a href="/wahhabism/">View all</a></p>
+</ul>
+</div>
+
+<div class="box">
+<h4>Habashis/h4>
+<ul class="posts">
+  {% for post in site.categories.habahis | limit:5 %}
+    {% if post.url %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+  <p><i class="fas fa-arrow-right"></i> <a href="/wahhabism/">View all</a></p>
+</ul>
+</div>
+
+<div class="box">
+<h4>Qadariyyah (Qadaris)</h4>
+<ul class="posts">
+  {% for post in site.categories.qadaris | limit:5 %}
+    {% if post.url %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+  <p><i class="fas fa-arrow-right"></i> <a href="/wahhabism/">View all</a></p>
+</ul>
+</div>
+
+<div class="box">
+<h4>Asharism (Asha'riyyah)</h4>
+<ul class="posts">
+  {% for post in site.categories.asharism | limit:5 %}
+    {% if post.url %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+  <p><i class="fas fa-arrow-right"></i> <a href="/wahhabism/">View all</a></p>
+</ul>
+</div>
+
+<div class="box">
+<h4>Ba'ath Party</h4>
+<ul class="posts">
+  {% for post in site.categories.baath | limit:5 %}
+    {% if post.url %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+  <p><i class="fas fa-arrow-right"></i> <a href="/wahhabism/">View all</a></p>
+</ul>
+</div>
+
+</article>
