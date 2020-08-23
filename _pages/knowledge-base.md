@@ -24,7 +24,7 @@ permalink: /basic/
     </li>
     {% endif %}
   {% endfor %}
-  <p><a class="button primary small" href="/walabara/">View all</a></p>
+  <p><a href="/walabara/">View all</a></p>
 </ul>
 </div>
 
