@@ -2,7 +2,7 @@
 layout: post
 title: "Prophet's songs"
 publisher: "alsalafiyyah@icloud.com"
-category: sufism, mawlid
+category: [mawlids]
 source: "Fatwas of the Permanent Committee of KSA no. 18440-2"
 hijri: Dhul-Qa'dah 20, 1441 AH
 shaykhs: 
