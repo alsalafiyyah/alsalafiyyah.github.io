@@ -24,16 +24,11 @@ permalink: /basic/
 <ul class="posts">
   {% for post in site.categories.walabara | limit:5 %}
     {% if post.url %}
-    <li>
-    <article>
-      <header>
-      <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
-      </header>
-    </article>
+    <li><a href="{{ post.url }}">{{ post.title }}</a>
     </li>
     {% endif %}
   {% endfor %}
-  <li><a href="/walabara/">View all</a></li>
+  <p><a href="/walabara/">View all</a></p>
 </ul>
 
 </article>
