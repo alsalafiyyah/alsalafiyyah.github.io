@@ -6,6 +6,7 @@ permalink: /category/
 ---
 
 <article class="post">
+<div class="box">
     {% assign tags = site.categories | sort %}
     {% for tag in tags %}
     <a href="#{{ tag[0] | slugify }}">
@@ -14,7 +15,8 @@ permalink: /category/
       </span>
     </a>
     {% endfor %}
-
+</div>
+<div class="box">
     {% for tag in tags %} 
       <h3 id="{{ tag[0] | slugify }}"> {{ tag[0] }}</h3>
       <p>{{ tag | last | size }} fatwas</p>
@@ -32,4 +34,5 @@ permalink: /category/
         </a> 
         <hr/>
     {% endfor %}
+</div>
 </article>
