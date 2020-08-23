@@ -54,4 +54,11 @@ permalink: /basic/
 </ul>
 </div>
 
+
+<div class="box">
+<ul class="posts">
+    <li><a href="/sects/">The sects</a></li>
+</ul>
+</div>
+
 </article>
