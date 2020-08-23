@@ -9,14 +9,58 @@ date: 2020/08/23
 shaykhs: Shaykh Abdul-Aziz Bin Baz
 ---
 
+**Al-Tadamun Al-Islami Magazine** had the honor of making interview with His Excellency, Shaykh 'Abdul-'Aziz ibn 'Abdullah ibn Baz, Chairman of the Departments of Scholarly Research, Ifta', Da'wah, and Guidance.
 
-Question: 
+His Excellency, Shaykh 'Abdul-'Aziz ibn 'Abdullah ibn Baz was one of the scholars of the Kingdom of Saudi Arabia and the Islamic Ummah (nation based on one creed). He is a remarkable authority in Islamic education and one of the great figures of the Islamic thought in this age. Moreover, he exerted great efforts in promulgating the pure Islamic creed, removing the misconceptions, spreading the Islamic Da`wah (Call) all over the world.
 
-At present, specifically these days, Islam is being exposed to detraction by way of some Sufi groups, charlatans, sorcery, mythologies, and superstitions. What is the way the Muslim scholars should adopt to encounter false claims and misleading Bid'ahs (innovations in the religion)?
+His Excellency kindly answered the questions of the reporter of Al-Tadamun Al-Islami Magazine about many issues that concern the Islamic Ummah.
 
-Answer:
+##### The issue of Al-Quds and Afghanistan:
 
-Unfortunately, the enemies of Islam make use of those who ascribe themselves to Islam, such as superstitious people, Sufis, and others who follow Bid'ahs to propagate their falsehood and distract the Muslims by things that harm them and result in their disunity and disagreement, so as to fulfill their targets, seize the wealth of the countries, and disrupt the unity of the Muslims.
+Talking about the impact of Islamic conferences and meetings headed by his Excellency on the Islamic work, Islamic creed, and on particular the Islamic awakening, he said:
+
+In the Name of Allah, the All-Merciful, the Ever-Merciful. May the peace and blessings of Allah be upon Allah's Messenger, and upon all his family and Companions.
+We gather in these meetings with fellow Muslims working for the sake of Islam and Islamic scholars and intellectuals from all the countries of the world. Through these meetings, we wish welfare and prosperity for Muslims as such meetings are for the sake of Islam and its followers.
+
+Among the most important of these meetings is that of the members of the founding council of the Muslim World League, which is being held these days for the sake of discussing the issues concerning the Muslims and exerting every possible effort in an attempt to illustrate and bring about sound solutions, in the hope that they might benefit the Muslims and solve their problems.
+
+The most important issue that concerns the Muslims is the issue of the Middle East. It is a chronic issue and the issue of Palestine and Al-Quds (Jerusalem). The late events of Lebanon took place at the hands of the enemies of Allah from the Jews, and the struggle among the Lebanese themselves, made things even worse and aggravated the catastrophe.
+
+##### The future is for the Mujahids:
+
+The founding council of the Muslim World League pays great attention to these two issues, about which they issued resolutions and recommendations that they deemed appropriate. I ask Allah (Exalted be He) to benefit the Muslims through this.
+
+Another issue that concerns the Muslims is that of the ongoing war between the Afghani Mujahids (those fighting in the Cause of Allah) and the hireling communist government in Kabul.
+
+This Jihad (fighting or striving in the Cause of Allah) undoubtedly concerns all the Muslims. Thanks to Allah, the realities augur well and the victories of the Afghani Muslim Mujahids are successive, since their lands were occupied and they were oppressed in their religion. Thus, we wish victory for them and ask Allah to grant them good endings. All current good omens indicate that the future bodes well in favor of the Mujahids, and that Allah will grant them victory over their enemy and return them successful, triumphant and high-mettled to their countries. It also indicates that Allah will humiliate their hireling enemy and those who helped and assisted it.
+
+We ask Allah (Exalted be He) to maintain His religion, elevate His Word, and improve the affairs of the Muslims everywhere, aid them with the truth, and maintain the truth through them.
+
+##### Return to conciliation and to what is right:
+
+Among the most important issues that concern the Muslims is the ongoing war between Iraq and Iran, as it has lasted for a long time and much bloodshed and destruction occurred. It also brought about evil consequences to both parties.
+
+May Allah gather the two parties on the right and put an end to this war in a way that benefits the Muslims and harms their enemies. May Allah guide both parties to reason and rightness, and return to what brings about welfare and good outcome for them both.
+
+Indeed, Muslims everywhere view that it is the duty of the government of Iran to return to rightness and to agree to the peaceful solution as did Iraq, since the continuity of war and non-compliance with well-meaning intercession are improper and impermissible. It is also obligatory to return to reconciliation as Allah (Exalted be He) says in His Glorious Book (the Qur'an): "**And if two parties or groups among the believers fall to fighting, then make peace between them both. But if one of them outrages against the other, then fight you (all) against the one that which outrages till it complies with the Command of Allâh. Then if it complies, then make reconciliation between them justly, and be equitable. Verily! Allâh loves those who are the equitable. The believers are nothing else than brothers (in Islâmic religion). So make reconciliation between your brothers, and fear Allâh, that you may receive mercy.**" [al-Hujurat: 9-10]
+
+##### The Islamic awakening
+
+His Excellency also spoke about the obligations for Muslim scholars and thinkers in the Islamic Ummah (nation based on one creed) towards the contemporary Islamic awakening. He said:
+
+"It is an obligation for Muslim scholars everywhere to advise the Muslims and exert efforts in guiding them to the means of salvation, and also to remind them of things against which Allah (Glorified and Exalted be He) and His Messenger (peace be upon him) warned them, that is, the adverse consequences of disobedience to Allah, neglect of His Commands, and judgment by other than His Shari'ah (Law). They should also remind them that (true) happiness, salvation, and safety could by no means be achieved for them except through their holding fast - all of them together - to the Rope of Allah, their helping one another in righteousness and piety, their standing together against their enemies, their maintenance of Allah's Command and their recourse for judgment to Allah's Shari'ah.
+
+This is the unswerving way and the straight path where lies their salvation, their glory, and their happiness in worldly life and in the Hereafter.
+
+##### Holding fast to the Rope of Allah :
+
+There is no way for their victory over their enemies and retrieval of their past glories and ravished honor except through this way and path, namely holding fast all of them together to the Rope of Allah, helping one another in righteousness and piety, standing together against falsehood and its followers, seeking the Help of Allah, adhering to His Religion, making ready all they can of power for Jihad in the Way of Allah, retrieval of past glories and stolen rights that had been seized by the enemies due to our disunity, negligence, and disobedience. Allah is the One sought for help.
+
+##### Distraction of Sufi groups to Muslims
+
+Question: At present, specifically these days, Islam is being exposed to detraction by way of some Sufi groups, charlatans, sorcery, mythologies, and superstitions. What is the way the Muslim scholars should adopt to encounter false claims and misleading Bid'ahs (innovations in the religion)?
+
+Answer: Unfortunately, the enemies of Islam make use of those who ascribe themselves to Islam, such as superstitious people, Sufis, and others who follow Bid'ahs to propagate their falsehood and distract the Muslims by things that harm them and result in their disunity and disagreement, so as to fulfill their targets, seize the wealth of the countries, and disrupt the unity of the Muslims.
 
 ##### Resisting people of Bid'ahs and false beliefs:
 
