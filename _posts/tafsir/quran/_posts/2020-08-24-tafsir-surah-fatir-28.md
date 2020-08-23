@@ -11,7 +11,7 @@ shaykhs: Shaykh Ibn Baz
 
 Question: 
 
-Please provide the (explanation/exegesis) of the Saying of Allah, "It is those who have knowledge among His slaves that (most) fear Allâh." [Fatir: 28]
+Please provide the (explanation/exegesis) of the Saying of Allah, "**It is those who have knowledge among His slaves that (most) fear Allâh.**" [Fatir: 28]
 
 Answer:
 
@@ -19,8 +19,8 @@ This lofty Ayah indicates that those who possess knowledge about Allah, His Din 
 
 All Muslims and believers, males and females, fear Allah, but their fear is in varying degrees and not of the same grade. Therefore, the more the believer possesses knowledge about Allah and comprehends His Din, the greater is their fear of Allah. If their knowledge is less, so is their understanding and awareness of Allah and His Din and subsequently their fear of Allah. Thus, people are of varying degrees in this matter and so are the scholars as already stated. The more there is knowledge about Din, the greater there is fear of Allah and the less there is knowledge about Din, the less there is fear of Allah.
 
-That is why Allah (Glorified and Exalted be He) says: "Verily, those who believe [in the Oneness of Allâh, and in His Messenger Muhammad صلى الله عليه وسلم) including all obligations ordered by Islâm] and do righteous good deeds, they are the best of creatures. Their reward with their Lord is ‘Adn (Eden) Paradise (Gardens of Eternity), underneath which rivers flow. They will abide therein forever, Allâh will be pleased with them, and they with Him. That is for him who fears his Lord." [al-Bayyinah: 7-8]
+That is why Allah (Glorified and Exalted be He) says: "**Verily, those who believe [in the Oneness of Allâh, and in His Messenger Muhammad صلى الله عليه وسلم) including all obligations ordered by Islâm] and do righteous good deeds, they are the best of creatures. Their reward with their Lord is ‘Adn (Eden) Paradise (Gardens of Eternity), underneath which rivers flow. They will abide therein forever, Allâh will be pleased with them, and they with Him. That is for him who fears his Lord.**" [al-Bayyinah: 7-8]
 
-Allah (Exalted be He) also says: "Verily, those who fear their Lord unseen (i.e. they do not see Him, nor His punishment in the Hereafter), theirs will be forgiveness and a great reward (i.e. Paradise)." [al-Mulk: 12]
+Allah (Exalted be He) also says: "**Verily, those who fear their Lord unseen (i.e. they do not see Him, nor His punishment in the Hereafter), theirs will be forgiveness and a great reward (i.e. Paradise).**" [al-Mulk: 12]
 
 There are many Ayahs conveying this meaning. May Allah grant us success.
