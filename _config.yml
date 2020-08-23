@@ -7,8 +7,6 @@ author:
   name:         Instagram@Alsalafiyyah
   email:        alsalafiyyah@icloud.com
 encoding:         UTF-8
-languages:          ['en', 'ar']
-language_default:   'en'
 markdown:       kramdown
 remote_theme: alsalafiyyah/massively-jekyll-theme
 include:
@@ -42,4 +40,6 @@ gems:
   - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-multiple-languages
+languages:          ['en', 'ar']
+language_default:   'en'
 category: [basic, bidah, books, creeds, dawah, funerals, madhabs, marriage, misc, music, nonmuslims, oaths, politics, refutals, sects, shirk, sins, tawassul, treatments, unseen, walabara, women]
