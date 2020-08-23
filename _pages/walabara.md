@@ -8,7 +8,7 @@ permalink: /walabara/
 
 <article class="post">
 <ul class="posts">
-  {% for post in site.categories.walabara | limit:5 %}
+  {% for post in site.categories.walabara %}
     {% if post.url %}
     <li>
     <article>
