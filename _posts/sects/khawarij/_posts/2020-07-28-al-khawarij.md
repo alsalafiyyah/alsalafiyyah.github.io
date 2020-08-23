@@ -3,7 +3,7 @@ layout: post
 title: "Al-Khawarij"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 4297-3"
-category: [khawarij, exegesis, hadiths]
+category: ["khawarij"]
 hijri: Dhu al-Hijjah 7, 1441 AH
 date: 2020/07/28
 shaykhs: 
