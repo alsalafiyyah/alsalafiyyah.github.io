@@ -19,4 +19,21 @@ permalink: /basic/
     {% endif %}
   {% endfor %}
 </ul>
+
+<h4>Al-Wala' wal-Bara'</h4>
+<ul class="posts">
+  {% for post in site.categories.walabara | limit:5 %}
+    {% if post.url %}
+    <li>
+    <article>
+      <header>
+      <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+      </header>
+    </article>
+    </li>
+    {% endif %}
+  {% endfor %}
+  <li><a href="/walabara/">View all</a></li>
+</ul>
+
 </article>
