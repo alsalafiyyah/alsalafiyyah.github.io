@@ -1,10 +1,10 @@
----
+﻿---
 layout: post
 title: "Shaykh Ibn Baz on Islamic unity, Sufi groups, spread of Bid'ahs and misguidance, and the duties of Ahl-us-Sunnah towards them"
 publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
 source: "Majmu' Fatawa wa Maqalat 3/126"
 hijri: Muharram 4, 1442 AH
-category: [sufism, bidah]
+category: [sufism, bidah, basic]
 date: 2020/08/23
 shaykhs: Shaykh Abdul-Aziz Bin Baz
 ---
