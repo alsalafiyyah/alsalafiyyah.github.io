@@ -8,8 +8,8 @@ permalink: /category/
 {% for category in site.categories %}
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}"></div>
-    <h4>{{ category_name }}</h4>
-    <a name="{{ category_name | slugize }}"></a>
+      <h4>{{ category_name }}</h4>
+      <a name="{{ category_name | slugize }}"></a>
     {% for post in site.categories[category_name] %}
       <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>
     {% endfor %}
