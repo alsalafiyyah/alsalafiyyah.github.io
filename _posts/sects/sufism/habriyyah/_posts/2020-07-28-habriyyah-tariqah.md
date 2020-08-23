@@ -1,10 +1,10 @@
----
+﻿---
 layout: post
 title: "Al-Habriyyah tariqah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 3545"
-category: [sufism, habriyyah]
-hijri: Dhu al-Hijjah 7, 1441 AH
+category: ["sufism", habriyyah]
+hijri: Dhul-Hijjah 7, 1441 AH
 date: 2020/07/28
 shaykhs: 
  - Shaykh Abdul-Aziz ibn Baz

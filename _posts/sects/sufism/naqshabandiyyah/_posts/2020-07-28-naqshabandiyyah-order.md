@@ -3,7 +3,7 @@ layout: post
 title: "The Naqshabandiyyah Order"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 3934"
-category: [sufism, naqshabandiyyah]
+category: ["sufism", naqshabandiyyah]
 hijri: Dhu al-Hijjah 7, 1441 AH
 date: 2020/07/28
 shaykhs: 

@@ -1,10 +1,10 @@
----
+﻿---
 layout: post
 title: "Al-Mahdiyyah sufi order"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 5235-2"
-category: [sufism, mahdiyyah]
-hijri: Dhu al-Hijjah 7, 1441 AH
+category: ["sufism", mahdiyyah]
+hijri: Dhul-Hijjah 7, 1441 AH
 date: 2020/07/28
 shaykhs: 
  - Shaykh Abdul-Aziz ibn Baz

@@ -1,10 +1,10 @@
----
+﻿---
 layout: post
 title: "Simaniyyah Tariqah (Sufi order)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 6/417"
 hijri: Dhul-Hijjah 22, 1441 AH
-tag: [sufism]
+tag: ["sufism", simaniyyah]
 date: 2020/08/12
 shaykhs: Shaykh Ibn Baz
 ---

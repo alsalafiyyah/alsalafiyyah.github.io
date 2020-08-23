@@ -3,7 +3,7 @@ layout: post
 title: "Ruling on the recitation of Al-Tijaniyyah and Al-Qadiriyyah and praying behind their followers"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 4150-3"
-category: [sufism, tijaniyyah, qadiriyyah]
+category: ["sufism", tijaniyyah, qadiriyyah]
 hijri: Dhu al-Hijjah 7, 1441 AH
 date: 2020/07/28
 shaykhs: 

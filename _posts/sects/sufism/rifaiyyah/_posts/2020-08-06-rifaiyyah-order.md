@@ -3,7 +3,7 @@ layout: audio
 title: "Rifaiyyah sufi order"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 3"
-category: [sufism, rifaiyyah, binbaz, audios]
+category: ["audios", "sufism", rifaiyyah]
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_487/48702.mp3
 link: shorturl.at/egzP6
 hijri: Dhul-Hijjah 16, 1441 AH

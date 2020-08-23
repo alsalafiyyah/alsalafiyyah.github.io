@@ -1,9 +1,9 @@
----
+﻿---
 layout: post
 title: "Exaggeration of the Qadiriyyah order"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 1304"
-category: [sufism, qadiriyyah]
+category: ["sufism", qadiriyyah]
 hijri: Dhu al-Hijjah 7, 1441 AH
 date: 2020/07/28
 shaykhs: 

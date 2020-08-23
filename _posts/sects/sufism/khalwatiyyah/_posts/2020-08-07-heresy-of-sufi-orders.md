@@ -3,7 +3,7 @@ layout: audio
 title: "All the Sufi orders are innovations in the religion"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 3"
-category: [sufism, binbaz, audios, khalwatiyyah, qadiriyyah, shadhiliyyah]
+category: ["audios", "sufism", khalwatiyyah, qadiriyyah, shadhiliyyah]
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_463/46305.mp3
 link: https://cutt.ly/tdGpd4W
 hijri: Dhul-Hijjah 17, 1441 AH

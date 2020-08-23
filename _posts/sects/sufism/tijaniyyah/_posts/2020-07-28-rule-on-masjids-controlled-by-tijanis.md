@@ -3,7 +3,7 @@ layout: post
 title: "Ruling on Masjid controlled by Al-Tijaniyyah followers"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 2931"
-category: [sufism, tijaniyyah]
+category: ["sufism", tijaniyyah]
 hijri: Dhu al-Hijjah 7, 1441 AH
 date: 2020/07/28
 shaykhs: 

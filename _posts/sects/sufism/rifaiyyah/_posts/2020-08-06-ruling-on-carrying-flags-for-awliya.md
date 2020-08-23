@@ -3,7 +3,7 @@ layout: audio
 title: "Ruling on carrying flags for Awliya"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 3"
-category: [sufism, binbaz, audios, rifaiyyah]
+category: ["audios", "sufism", rifaiyyah]
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_926/nour_92603.mp3
 link: https://cutt.ly/kdDW4ua
 hijri: Dhul-Hijjah 16, 1441 AH

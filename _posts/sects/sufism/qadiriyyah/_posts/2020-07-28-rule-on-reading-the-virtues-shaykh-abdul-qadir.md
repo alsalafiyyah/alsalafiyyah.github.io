@@ -3,7 +3,7 @@ layout: post
 title: "Ruling on reading the virtues of Shaykh Abdul-Qadir"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 3323-10"
-category: [sufism, qadiriyyah]
+category: ["sufism", qadiriyyah]
 hijri: Dhu al-Hijjah 7, 1441 AH
 date: 2020/07/28
 shaykhs: 
