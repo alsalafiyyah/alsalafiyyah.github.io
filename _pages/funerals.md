@@ -10,11 +10,8 @@ permalink: /funerals/
   {% for post in site.categories.funerals %}
     {% if post.url %}
     <li>
-    <article>
-      <header>
-      <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+      <a href="{{ post.url }}">{{ post.title }}</a>
       </header>
-    </article>
     </li>
     {% endif %}
   {% endfor %}
