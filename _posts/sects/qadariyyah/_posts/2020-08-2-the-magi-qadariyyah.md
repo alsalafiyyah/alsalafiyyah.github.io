@@ -3,7 +3,7 @@ layout: post
 title: "The Magi of the Muslim Ummah are Al-Qadariyyah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Muqolat 28/"
-category: [qadariyyah, magician, binbaz, qadr]
+category: [qadaris]
 hijri: Dhu al-Hijjah 13, 1441 AH
 date: 2020/08/2
 shaykhs: Shaykh Abdul-Aziz ibn Baz
