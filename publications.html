@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+{% assign publications = site.publications %}
+{% for pub in publications %}
+<article class="post">
+  <h3>{{ pub.title }}</h3>
+  <p>
+    <a href="{{pub.url}}">{{ pub.title }}</a>
+  </p>
+  <hr/>{% include social-share.liquid %}
+</article>
+{% endfor %}
+

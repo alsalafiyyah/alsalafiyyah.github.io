@@ -41,5 +41,7 @@ gems:
   - jekyll-sitemap
   - jekyll-last-modified-at
 category: [basic, bidah, books, creeds, dawah, funerals, madhabs, marriage, misc, music, nonmuslims, oaths, politics, refutals, sects, shirk, sins, tawassul, treatments, unseen, walabara, women]
-last-modified-at:
-    date-format: '%d-%b-%y'
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:name
