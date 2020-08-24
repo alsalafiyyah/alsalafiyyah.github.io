@@ -29,9 +29,9 @@ This Hadith shows the merit of Al-Siddiq Abu Bakr (may Allah be pleased with him
 
 **First**, the Prophet (peace be upon him) censured those who do so.
 
-**Second**, the Prophet (peace be upon him) said: "**Do not use graves as Masjids.**" [^4]
+**Second**, the Prophet (peace be upon him) said: "**Do not use graves as Masjids.**" [See footnote no.3]
 
-**Third**, the Prophet (peace be upon him) said: "**I forbid you to do that.**" [See footnote no.4] 
+**Third**, the Prophet (peace be upon him) said: "**I forbid you to do that.**" [See footnote no.3] 
 
 The Prophet (peace be upon him) warned against building over graves in these three ways and therefore his Ummah (nation) should observe his warning and keep away from things for which he condemned those before them, such as the Jews and the Christians and those who followed them regarding building places of worship or anything else over graves. The Hadiths of the Prophet (peace be upon him) have been clearly mentioned in this regard.
 
@@ -43,23 +43,23 @@ All Muslim scholars, whether Sufis or others, should have Taqwa (fear/wariness o
 
 "**And invoke not besides Allâh, any such that will neither profit you nor harm you, but if (in case) you did so, you shall certainly be one of the Zâlimûn (polytheists and wrong-doers).**" [Yunus: 106] Allah (Exalted be He) is referring to the polytheists. 
 
-Moreover, the Prophet (peace be upon him) said: "**Du'a is (the essence of) worship.**" [^5] 
+Moreover, the Prophet (peace be upon him) said: "**Du'a is (the essence of) worship.**" [^4] 
 
-"**If you ask (for anything), ask Allah, and if you seek help, seek it from Allah.**" [^6] This is because the dead cannot do anything for people any more; in fact it is they who need people to make Du'a to Allah (Exalted be He) to grant them His Mercy and Forgiveness, not to make Du'a to them besides Allah. 
+"**If you ask (for anything), ask Allah, and if you seek help, seek it from Allah.**" [^5] This is because the dead cannot do anything for people any more; in fact it is they who need people to make Du'a to Allah (Exalted be He) to grant them His Mercy and Forgiveness, not to make Du'a to them besides Allah. 
 
-The Prophet (peace be upon him) said: "**When a person dies, their deeds come to an end, except for three things: Sadaqah Jariyah (ongoing charity), beneficial knowledge (they left behind), or a pious child who prays for them.**" [^7]
+The Prophet (peace be upon him) said: "**When a person dies, their deeds come to an end, except for three things: Sadaqah Jariyah (ongoing charity), beneficial knowledge (they left behind), or a pious child who prays for them.**" [^6]
 
 So, how can people make Du'a to the dead besides Allah? And how can they make Du'a to idols, trees, stones, the moon, the sun, and stars? Du'a to or seeking the help of any of the foregoing is impermissible. The same is true regarding the occupants of the graves, even if they were prophets or righteous people. 
 
 Similarly, people should never make Du'a to angels and Jinn besides Allah (Glorified be He), Who says in (Surah Al-'Imran 3:80): "**Nor would he order you to take angels and Prophets for lords (gods). Would he order you to disbelieve after you have submitted to Allâh’s Will? (Tafsir At-Tabarî).**" [Aal Imran: 80] In this Ayah (Qur'anic verse), Allah (Exalted be He) declares that taking angels and prophets as lords, by making Du`a' to them and seeking their help, is Kufr (disbelief).
 
-In a Hadith narrated by Jabir and recorded in Sahih Muslim, Jabir (may Allah be pleased with him) said: "**The Messenger of Allah (peace be upon him) forbade plastering the graves, sitting on them and building over them.**" [^8] This is because these things lead to Shirk and they are all means of glorifying and revering the occupants of the graves excessively.
+In a Hadith narrated by Jabir and recorded in Sahih Muslim, Jabir (may Allah be pleased with him) said: "**The Messenger of Allah (peace be upon him) forbade plastering the graves, sitting on them and building over them.**" [^7] This is because these things lead to Shirk and they are all means of glorifying and revering the occupants of the graves excessively.
 
 Sitting on graves is not permissible as it is desecration of the graves. Therefore, it is not permissible to urinate or defecate on them or to do any act that is considered desecration of graves. The reason for the prohibition is to show respect to the dead. Muslims are to be respected whether they are alive or dead, therefore it is not permissible to break their bones, walk or sit on their graves, or urinate or throw garbage on them. All these acts are prohibited, as the Muslim dead should neither be desecrated, nor glorified by making Du'a to them instead of Allah (Exalted be He) or to circumambulate around them. Shari'ah (Islamic law) orders moderation and respect for graves and at the same time it does not permit glorifying the dead and worshiping them besides Allah (Exalted be He) or harming them through sitting on their graves and the like, concerning things which show disrespect to the dead.
 
 Indeed, it is the legislation of the All-Wise, All-Knowing, Who places things in their right positions. Allah (Exalted be He) says: "**Certainly your Lord is All-Wise, All-Knowing.**" [al-An'am: 83]
 
-Moreover, the Prophet (peace be upon him) said in an authentic Hadith: "**Do not sit on graves or perform Salah (Prayer) towards them.**" [^9] Our perfect Shari'ah combined forbidding people to excessively revere the dead by making Du`a' to them besides Allah (Exalted be He), seeking their help and offering Salah (prayers) while graves are in the direction of Qiblah, and making it forbidden to debase and offend the dead by sitting on their graves, walking over them, leaning on them, and throwing garbage on them. All these practices are prohibited.
+Moreover, the Prophet (peace be upon him) said in an authentic Hadith: "**Do not sit on graves or perform Salah (Prayer) towards them.**" [^8] Our perfect Shari'ah combined forbidding people to excessively revere the dead by making Du`a' to them besides Allah (Exalted be He), seeking their help and offering Salah (prayers) while graves are in the direction of Qiblah, and making it forbidden to debase and offend the dead by sitting on their graves, walking over them, leaning on them, and throwing garbage on them. All these practices are prohibited.
 
 Hence, the believer who seeks the truth knows that Shari'ah introduced moderation; not Shirk or offense and desecration. It is permissible to make Du`a' on behalf of the dead, to ask Allah (Exalted be He) to forgive them and to greet them when visiting their graves. Nevertheless, they should never be asked in Du'a instead of Allah (Exalted be He), circumambulate around them or offer Salah while they are in the direction of Qiblah. It is permissible to seek assistance from someone who is alive, for people help one another. This is so as long as it is within the limits of legal permissibility and means, such as working in fields, factories and the like for this is an allowed tangible form of co-operation in possible allowable matters. 
 
@@ -72,9 +72,8 @@ I again emphasize that building on graves and establishing Masjids or domes over
 [^1]: Al-Bukhari, Sahih, Book on Salah, no. 436; Muslim, Sahih, Book on Masjids and places for Salah, no. 529; Al-Nasa'i, Sunan, Book on Masjids, no. 703; Ahmad ibn Hanbal, Musnad, vol. 6, p. 146; and Al-Darimy, Sunan, Book on Salah, no. 1403.
 [^2]: Al-Bukhari, Sahih, Book on Salah, no. 427; Muslim, Sahih, Book on Masjids and places for Salah, no. 528; Al-Nasa'i, Sunan, Book on Masjids, no. 704; and Ahmad ibn Hanbal, Musnad, vol. 6, p. 51.
 [^3]: Muslim, Sahih, Book on Masjids and places for Salah, no. 532.
-[^4]: Muslim, Sahih, Book on Masjids and places for Salah, no. 532.
-[^5]: Al-Tirmidhy, Sunan, Book on Tafsir, no. 2969; and Ibn Majah, Sunan, Book on supplication, no. 3828.
-[^6]: Al-Tirmidhy, Sunan, Book on Resurrection, heart-softening narrations, and piety, no. 2516; and Ahmad ibn Hanbal, Musnad, vol. 1, p. 303.
-[^7]: Muslim, Sahih, Book on bequests, no. 1631; Al-Tirmidhy, Sunan, Book on judgments, no. 1376; Al-Nasa'i, Sunan, Book on wills, no. 3651; Abu Dawud, Sunan, Book on wills, no. 2880; Ahmad ibn Hanbal, Musnad, vol. 2, p. 372; and Al-Darimi, Sunan, Introduction, no. 559.
-[^8]: Muslim, Sahih, Book on funerals, no. 970; Al-Tirmidhy, Sunan, Book on funerals, no. 1052; Al-Nasa'i, Sunan, Book on funerals, no. 2028; Abu Dawud, Sunan, Book on funerals, no. 3225; and Ahmad ibn Hanbal, Musnad, vol. 3, p. 339.
-[^9]: Muslim, Sahih, Book on funerals, no. 972; Al-Tirmidhy, Sunan, Book on funerals, no. 1050; Al-Nasa'i, Sunan, Book on Qiblah, no. 760; Abu Dawud, Sunan, Book on funerals, no. 3229; and Ahmad ibn Hanbal, Musnad, vol. 4, p. 135.
+[^4]: Al-Tirmidhy, Sunan, Book on Tafsir, no. 2969; and Ibn Majah, Sunan, Book on supplication, no. 3828.
+[^5]: Al-Tirmidhy, Sunan, Book on Resurrection, heart-softening narrations, and piety, no. 2516; and Ahmad ibn Hanbal, Musnad, vol. 1, p. 303.
+[^6]: Muslim, Sahih, Book on bequests, no. 1631; Al-Tirmidhy, Sunan, Book on judgments, no. 1376; Al-Nasa'i, Sunan, Book on wills, no. 3651; Abu Dawud, Sunan, Book on wills, no. 2880; Ahmad ibn Hanbal, Musnad, vol. 2, p. 372; and Al-Darimi, Sunan, Introduction, no. 559.
+[^7]: Muslim, Sahih, Book on funerals, no. 970; Al-Tirmidhy, Sunan, Book on funerals, no. 1052; Al-Nasa'i, Sunan, Book on funerals, no. 2028; Abu Dawud, Sunan, Book on funerals, no. 3225; and Ahmad ibn Hanbal, Musnad, vol. 3, p. 339.
+[^8]: Muslim, Sahih, Book on funerals, no. 972; Al-Tirmidhy, Sunan, Book on funerals, no. 1050; Al-Nasa'i, Sunan, Book on Qiblah, no. 760; Abu Dawud, Sunan, Book on funerals, no. 3229; and Ahmad ibn Hanbal, Musnad, vol. 4, p. 135.
