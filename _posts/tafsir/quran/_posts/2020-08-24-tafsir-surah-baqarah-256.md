@@ -23,7 +23,7 @@ And the other Ayahs which convey the same meaning such as Allah's Saying, "**And
 
 **Second**: This Ayah addresses People of the Book and those who are equal to them, such as the Magi. If they pay Jizyah (poll tax required from non-Muslims living in an Islamic state), they should not be forced to accept Islam as Allah says, "**Fight against those who (1) believe not in Allâh, (2) nor in the Last Day, (3) nor forbid that which has been forbidden by Allâh and His Messenger Muhammad (صلى الله عليه وسلم) (4) and those who acknowledge not the religion of truth (i.e. Islâm) among the people of the Scripture (Jews and Christians), until they pay the Jizyah with willing submission, and feel themselves subdued.**" [al-Tawbah: 29] 
 
-The Prophet (peace be upon him) "**received the Jizyah from the Magi of Hajar." [^1] 
+The Prophet (peace be upon him) "**received the Jizyah from the Magi of Hajar.**" [^1] 
 
 Therefore, this Ayah can not stand as a proof for those who claim that Jihad (fighting/striving in the Cause of Allah) is not an obligation.
 
