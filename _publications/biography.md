@@ -4,7 +4,7 @@ title: "Imam Muhammad ibn 'Abdul-Wahhab: His Da'wah and biography"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Muqolat vol 1"
 hijri: Dhul-Hijjah 18, 1441 AH
-date: 2020/08/8
+publication: biography
 shaykhs: Shaykh Abdul-Aziz ibn Baz
 ---
 
