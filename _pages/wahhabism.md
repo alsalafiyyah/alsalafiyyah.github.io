@@ -1,4 +1,4 @@
-﻿---
+---
 title: Wahhabism
 layout: page
 active: wahhabism
