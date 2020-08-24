@@ -39,7 +39,3 @@ gems:
   - jekyll-remote-theme
   - jekyll-sitemap
 category: [basic, bidah, books, creeds, dawah, funerals, madhabs, marriage, misc, music, nonmuslims, oaths, politics, refutals, sects, shirk, sins, tawassul, treatments, unseen, walabara, women]
-collections:
-  fatwas:
-    output: true
-    permalink: /fatwas/:title/
