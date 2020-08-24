@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Al-Wala' Wal-Bara'"
 active: walabara
