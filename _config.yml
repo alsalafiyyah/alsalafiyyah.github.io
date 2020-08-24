@@ -42,3 +42,4 @@ category: [basic, bidah, books, creeds, dawah, funerals, madhabs, marriage, misc
 collections:
   fatwas:
     output: true
+    permalink: /fatwas/:title/
