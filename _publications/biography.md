@@ -2,8 +2,6 @@
 layout: publication
 title: "Imam Muhammad ibn 'Abdul-Wahhab: His Da'wah and biography"
 publisher: "alsalafiyyah@icloud.com"
-lang: en
-permalink: /biography/
 source: "Majmu' Fatawa wa Muqolat vol 1"
 hijri: Dhul-Hijjah 18, 1441 AH
 date: 2020/08/8
