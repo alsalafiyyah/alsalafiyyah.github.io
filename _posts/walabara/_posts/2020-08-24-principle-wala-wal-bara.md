@@ -23,7 +23,7 @@ When they greet you, you should return the greetings and advise them to do good.
 
 People of the Book are the Jews and Christians. The same applies to other disbelievers who are Dhimmy (protected non-Muslims living under Islamic rule) or have been secured or given a pledge of safety. However, they must be punished when they do wrong. It is permissible for the believer to urge both Muslims and non-Muslims in a way that is best while hating the latter for Allah's Sake. 
 
-Allah states, "Invite (mankind, O Muhammad صلى الله عليه و سلم) to the Way of your Lord (i.e. Islâm) with wisdom (i.e. with the Divine Revelation and the Qur’ân) and fair preaching, and argue with them in a way that is better.**" [al-Nahl: 125]
+Allah states, "**Invite (mankind, O Muhammad صلى الله عليه و سلم) to the Way of your Lord (i.e. Islâm) with wisdom (i.e. with the Divine Revelation and the Qur’ân) and fair preaching, and argue with them in a way that is better.**" [al-Nahl: 125]
 
 It is permissible for you to call them to Allah and to instruct and guide them to the truth; perhaps Allah may guide them to the straight path through you. Furthermore, there is no wrong in giving them Sadaqah (voluntary charity) and dealing with them in kindness, as Allah (Glorified and Exalted be He) states, "**Allâh does not forbid you to deal justly and kindly with those who fought not against you on account of religion nor drove you out of your homes. Verily, Allâh loves those who deal with equity.**" [al-Mumtahanah: 8]
 
