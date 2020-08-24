@@ -16,7 +16,7 @@ permalink: /basic/
 </ul>
 
 <div class="box">
-<h4>Al-Wala' wal-Bara'</h4>
+<h4>Al-Wala' wal-Bara' (loyalty and disassociation for Allah’s Sake)</h4>
 <ul class="posts">
   {% for post in site.categories.walabara | limit:5 %}
     {% if post.url %}
