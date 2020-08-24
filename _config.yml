@@ -18,7 +18,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
   - jekyll-sitemap
-  - jekyll-last-modified-at
 permalink: /:title/
 paginate:       12
 paginate_path: "/:num/"
@@ -30,7 +29,7 @@ tipue_search:
   include:
     pages: true
   exclude:
-    files: [index.html, search.html]
+    files: [index.html, search.html, sitemap.xml, feed.xml]
 google_analytics:
   id: ''
 gems:
@@ -39,5 +38,3 @@ gems:
   - jekyll-seo-tag
   - jekyll-remote-theme
   - jekyll-sitemap
-  - jekyll-last-modified-at
-category: [basic, bidah, books, creeds, dawah, funerals, madhabs, marriage, misc, music, nonmuslims, oaths, politics, refutals, sects, shirk, sins, tawassul, treatments, unseen, walabara, women]
