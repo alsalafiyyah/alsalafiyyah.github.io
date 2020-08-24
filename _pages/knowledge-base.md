@@ -54,6 +54,17 @@ permalink: /basic/
 </ul>
 </div>
 
+<div class="box">
+<h4>Qur'an Tafsir (Exegesis)</h4>
+<ul class="posts">
+  {% for post in site.categories.quran | limit:5 %}
+    {% if post.url %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+</div>
 
 <div class="box">
 <ul class="posts">
