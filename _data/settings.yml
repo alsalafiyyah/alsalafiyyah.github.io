@@ -1,5 +1,4 @@
-﻿
-pagination:
+﻿pagination:
   next: Next
   prev: Prev
 
@@ -24,6 +23,13 @@ sidebar_menu:
     link: /downloads/
     active: downloads
 
-
-
-
+social: 
+  fb: Facebook
+  gplus: Google plus
+  tw: Twitter
+  tel: Telegram
+  ig: Instagram
+  msgr: Facebook Messenger
+  tumblr: Tumblr
+  wp: Wordpress
+  wa: WhatsApp
