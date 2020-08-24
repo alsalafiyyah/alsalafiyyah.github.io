@@ -31,7 +31,9 @@ This Hadith shows the merit of Al-Siddiq Abu Bakr (may Allah be pleased with him
 
 **Second**, the Prophet (peace be upon him) said: "**Do not use graves as Masjids.**" [^4]
 
-**Third**, the Prophet (peace be upon him) said: "**I forbid you to do that.**" [See footnote no.4] The Prophet (peace be upon him) warned against building over graves in these three ways and therefore his Ummah (nation) should observe his warning and keep away from things for which he condemned those before them, such as the Jews and the Christians and those who followed them regarding building places of worship or anything else over graves. The Hadiths of the Prophet (peace be upon him) have been clearly mentioned in this regard.
+**Third**, the Prophet (peace be upon him) said: "**I forbid you to do that.**" [See footnote no.4] 
+
+The Prophet (peace be upon him) warned against building over graves in these three ways and therefore his Ummah (nation) should observe his warning and keep away from things for which he condemned those before them, such as the Jews and the Christians and those who followed them regarding building places of worship or anything else over graves. The Hadiths of the Prophet (peace be upon him) have been clearly mentioned in this regard.
 
 The wisdom behind this, according to scholars, is that these are means that can lead to Major Shirk, worshiping the dead, making Du`a' to them, vowing for their sake, seeking their help and support, and offering sacrificial animals for them. This happens today in many countries, such as Sudan, Egypt, the Levant (the region covering Syria, Lebanon, Jordan, and Palestine), Iraq and other countries. In many countries, ignorant laypeople visit the graves of renowned people and ask them for help, support and relief, such as what happens beside the grave of Al-Badawy, Al-Husayn, Zaynab, and Sayyidah Nafisah. The same happens beside many graves in Sudan and other countries. 
 
