@@ -22,7 +22,6 @@ permalink: /:title/
 paginate:       12
 paginate_path: "/:num/"
 exclude:
-  - .gitignore
   - Gemfile
   - Gemlock
 tipue_search:
