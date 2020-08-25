@@ -6,6 +6,9 @@ permalink: /muqolat/
 ---
 
 <article class="post">
+<header class="major">
+ <span class="date">{{ page.title }}</span>
+</header>
 <ul class="posts">
   {% for post in site.categories.basic %}
     {% if post.url %}
