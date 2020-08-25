@@ -1,8 +1,8 @@
 ﻿---
-title: Recommended
+title: Browse by topic
 layout: page
-active: basic
-permalink: /basic/
+active: topic
+permalink: /topic/
 ---
 
 <article class="post">

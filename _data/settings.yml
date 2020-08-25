@@ -16,9 +16,9 @@ sidebar_menu:
   - name: Muqolat
     link: /muqolat
     active: muqolat
-  - name: Recommended
-    link: /basic
-    active: basic
+  - name: Browse by topic
+    link: /topic
+    active: topic
   - name: Downloads
     link: /downloads/
     active: downloads
