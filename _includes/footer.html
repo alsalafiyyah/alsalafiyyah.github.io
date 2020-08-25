@@ -3,9 +3,7 @@
 						<section>
 								<div class="fields">
 <p>Total ( <b>{{ site.posts | size }}</b> ) fatwas published</p>
-							<form action="{{ "/search" | relative_url }}">
-<input id="tipue_search_input" type="text" name="q" placeholder="Search a fatwa" pattern=".{3,}" title="At least 3 characters" required/>
-							</form>
+							{% include search-form.liquid %}
 								</div>
 						</section>
 						<section class="split contact">
