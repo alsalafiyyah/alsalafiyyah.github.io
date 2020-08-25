@@ -29,6 +29,7 @@ permalink: /basic/
     </li>
     {% endif %}
   {% endfor %}
+  <p><a class="button small icon solid fa-arrow-right" href="/rulership/">View all</a></p>
 </ul>
 </div>
 
