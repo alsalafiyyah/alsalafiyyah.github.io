@@ -19,9 +19,6 @@ sidebar_menu:
   - name: Recommended
     link: /basic
     active: basic
-  - name: Faq
-    link: /faq/
-    active: faq
   - name: Downloads
     link: /downloads/
     active: downloads
