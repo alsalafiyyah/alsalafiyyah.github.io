@@ -2,7 +2,7 @@
 layout: page
 title: "Qur'an Tafsir"
 author: "Instagram@Alsalafiyyah"
-permalink: /tafsir/quran/
+permalink: /tafsir-quran/
 ---
 
 <article class="post">
