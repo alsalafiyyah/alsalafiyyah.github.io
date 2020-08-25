@@ -1,10 +1,11 @@
----
+﻿---
 layout: post
 title: "Ruling on saying Sadaq Allah Al-Adhim when finishing reading the Qur'an"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 7/333"
 hijri: Dhul-Hijjah 22, 1441 AH
 date: 2020/08/12
+category: ["bidah"]
 shaykhs: Shaykh Ibn Baz
 ---
 

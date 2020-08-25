@@ -1,9 +1,9 @@
----
+﻿---
 layout: post
 title: "Tawassul through the Awliya'"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 1328-2"
-category: [tawassul, creeds, aqidah]
+category: [tawassul]
 hijri: Dhu al-Hijjah 7, 1441 AH
 date: 2020/07/28
 shaykhs: 

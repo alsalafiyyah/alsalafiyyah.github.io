@@ -1,9 +1,9 @@
----
+﻿---
 layout: post
 title: "Ruling on believing in Awliya’ as a means of healing from illnesses and holding annual Mawlids for them"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 3627-1"
-category: [tawassul, creeds, aqidah]
+category: [tawassul]
 hijri: Dhu al-Hijjah 8, 1441 AH
 date: 2020/07/29
 shaykhs: 

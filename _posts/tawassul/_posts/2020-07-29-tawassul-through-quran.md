@@ -1,9 +1,9 @@
----
+﻿---
 layout: post
 title: "Tawassul through the Qur'an and certain days"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 6384-1"
-category: [tawassul, creeds, aqidah]
+category: [tawassul]
 hijri: Dhu al-Hijjah 8, 1441 AH
 date: 2020/07/29
 shaykhs: 

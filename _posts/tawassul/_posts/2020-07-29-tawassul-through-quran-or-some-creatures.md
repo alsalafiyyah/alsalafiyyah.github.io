@@ -1,9 +1,9 @@
----
+﻿---
 layout: post
 title: "Tawassul through the blessing of the Qur'an or some creatures"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 8817-4"
-category: [tawassul, creeds, aqidah]
+category: [tawassul]
 hijri: Dhu al-Hijjah 8, 1441 AH
 date: 2020/07/29
 shaykhs: 

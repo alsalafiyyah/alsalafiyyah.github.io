@@ -3,7 +3,7 @@ layout: post
 title: "Ruling on visiting the graves to supplicate to the dead or ask for their help or intercession"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 3207-3"
-category: [tawassul, creeds, aqidah]
+category: [tawassul]
 hijri: Dhu al-Hijjah 7, 1441 AH
 date: 2020/07/28
 shaykhs: 

@@ -1,9 +1,9 @@
----
+﻿---
 layout: post
 title: "Invoking the Prophet’s honor or parents’ pleasure upon rising from one's seat"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 5156-2"
-category: [tawassul, creeds, aqidah]
+category: [tawassul]
 hijri: Dhu al-Hijjah 8, 1441 AH
 date: 2020/07/29
 shaykhs: 

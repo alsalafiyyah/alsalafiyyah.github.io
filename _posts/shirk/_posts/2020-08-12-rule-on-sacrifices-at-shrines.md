@@ -1,10 +1,11 @@
----
+﻿---
 layout: post
 title: "Ruling on offering sacrifices at the shrines and supplicating to their inhabitants"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 5/324"
 hijri: Dhul-Hijjah 22, 1441 AH
 date: 2020/08/12
+category: ["bidah", awliya, shirk, tawassul]
 shaykhs: Shaykh Ibn Baz
 ---
 
@@ -14,7 +15,7 @@ What is the ruling on offering sacrifices at the shrines of Awliya’ (pious peo
 
 Answer:
 
-It is well-known through the Qur’an and the Sunnah (whatever is reported from the Prophet) that offering sacrifices to get close to other than Allah, whether they are the Awliya’, the Jinn (creatures created from fire), idols, or others, is Shirk (associating others with Allah in His Divinity or worship) and one of the actions of Jahiliyyah (pre-Islamic time of ignorance) and the Mushriks (those who associate others with Allah in His Divinity or worship). Allah (Glorified and Exalted be He) says: "**Say (O Muhammad صلى الله عليه وسلم): "Verily, my Salât (prayer), my sacrifice, my living, and my dying are for Allâh, the Lord of the ‘Alamîn (mankind, jinn and all that exists). "He has no partner. And of this I have been commanded, and I am the first of the Muslims.**" [al-An'am: 162-163]
+It is well-known through the Qur’an and the Sunnah that offering sacrifices to get close to other than Allah, whether they are the Awliya’, the Jinn (creatures created from fire), idols, or others, is Shirk (associating others with Allah in His Divinity or worship) and one of the actions of Jahiliyyah (pre-Islamic time of ignorance) and the Mushriks (those who associate others with Allah in His Divinity or worship). Allah (Glorified and Exalted be He) says: "**Say (O Muhammad صلى الله عليه وسلم): "Verily, my Salât (prayer), my sacrifice, my living, and my dying are for Allâh, the Lord of the ‘Alamîn (mankind, jinn and all that exists). "He has no partner. And of this I have been commanded, and I am the first of the Muslims.**" [al-An'am: 162-163]
 
 Sacrifice here refers to slaughtering animals. Allah (Glorified be He) makes it clear in this Ayah (Qur’anic verse) that slaughtering animals for other than Him is Shirk, just as offering Salah (Prayer) to other than Allah. Allah (Exalted be He) also says: "**Verily, We have granted you (O Muhammad صلى الله عليه وسلم) Al-Kauthar (a river in Paradise). Therefore turn in prayer to your Lord and sacrifice (to Him only).**" [al-Kawthar: 1-2]
 
