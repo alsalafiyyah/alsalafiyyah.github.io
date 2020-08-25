@@ -9,6 +9,8 @@ permalink: /topic/
 <p>Start typing in the form below and hit enter:</p>
 {% include search-form.liquid %}
 
+<br/>
+
 <header class="major">
  <span class="date">Or browse by category</span>
 </header>
