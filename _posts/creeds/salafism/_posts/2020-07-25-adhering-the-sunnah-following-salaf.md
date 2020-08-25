@@ -3,7 +3,7 @@ layout: post
 title: "Adhering to the Sunnah and following the Salaf"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatwa al-Lajnah ad-Daimah no. 16250 "
-category: [salafism, salaf]
+category: [salafism]
 hijri: Dhu al-Hijjah 4, 1441 AH
 date: 2020/07/25
 shaykhs: 

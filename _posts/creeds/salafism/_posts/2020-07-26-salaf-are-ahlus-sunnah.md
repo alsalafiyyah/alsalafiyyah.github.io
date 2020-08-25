@@ -3,7 +3,7 @@ layout: post
 title: "The Salaf are Ahl-us-Sunnah wal-Jama'ah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 28/50"
-category: [salafism, salaf, ibnbaz]
+category: [salafism]
 hijri: Dhu al-Hijjah 5, 1441 AH
 date: 2020/07/26
 shaykhs: Shaykh Ibn Baz

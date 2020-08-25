@@ -3,7 +3,7 @@ layout: post
 title: "Ruling on hating the Salafis"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatwa al-Lajnah ad-Daimah no. 15742"
-category: [salafism, salaf]
+category: [salafism]
 hijri: Dhu al-Hijjah 5, 1441 AH
 date: 2020/07/26
 shaykhs: 
