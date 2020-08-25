@@ -21,7 +21,7 @@ permalink: /basic/
 </div>
 
 <div class="box">
-<h4>Rulership</h4>
+<h4><a class="icon solid fa-arrow-right" href="/rulership/">Rulership</a></h4>
 <ul class="posts">
   {% for post in site.categories.rulership | limit:3 %}
     {% if post.url %}
