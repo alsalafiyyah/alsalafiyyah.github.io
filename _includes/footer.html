@@ -2,6 +2,7 @@
 					<footer id="footer">
 						<section>
 								<div class="fields">
+<p>Total {{ site.posts | size }} Fatwas</p>
 							<form action="{{ "/search" | relative_url }}">
 <input id="tipue_search_input" type="text" name="q" placeholder="Search a fatwa" pattern=".{3,}" title="At least 3 characters" required/>
 							</form>
@@ -9,12 +10,8 @@
 						</section>
 						<section class="split contact">
 							<section>
-								<h3></h3>
-								<p>{{ site.posts | size }} Fatwas</p>
-							</section>
-							<section>
 								<h3>Contact</h3>
-								<p>{{ site.posts | size }} Fatwas salafiyyah@outlook.sa</p>
+								<p>salafiyyah@outlook.sa</p>
 							</section>
 						</section>
 					</footer>
