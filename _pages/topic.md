@@ -12,7 +12,7 @@ permalink: /topic/
 <br/>
 
 <header class="major">
- <span class="date">Or browse by category</span>
+ <span class="date">Recommended for you</span>
 </header>
 
 <div class="box">
