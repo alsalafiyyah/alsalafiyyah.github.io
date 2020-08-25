@@ -6,18 +6,6 @@ permalink: /basic/
 ---
 
 <article class="post">
-<div class="box">
-<h4>General</h4>
-<ul class="posts">
-  {% for post in site.categories.basic | limit:3 %}
-    {% if post.url %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-    {% endif %}
-  {% endfor %}
-  <p><a class="button small icon solid fa-arrow-right" href="/muqolat/">View all</a></p>
-</ul>
-</div>
 
 <div class="box">
 <h4>Al-Wala' wal-Bara' (loyalty and disassociation for Allah’s Sake)</h4>
