@@ -15,7 +15,7 @@ permalink: /basic/
     </li>
     {% endif %}
   {% endfor %}
-  <p><a class="button small icon solid fa-arrow-right" href="/general/">View all</a></p>
+  <hr/><a class="button small icon solid fa-arrow-right" href="/general/">View all</a>
 </ul>
 </div>
 
