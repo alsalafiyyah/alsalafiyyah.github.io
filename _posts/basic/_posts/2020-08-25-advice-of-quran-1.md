@@ -103,6 +103,70 @@ He (Glorified be He) also says: "And the mosques are for Allâh (Alone): so invo
 
 There are many Ayahs that stress this meaning. In conclusion, it is obligatory on every Mukallaf, both Jinn and mankind, to worship Allah alone and to have absolute belief that Allah is the Creator and the Provider and that there is no creator except Allah (Exalted be He).
 
+There is no Lord except Him and none but Him (Glorified be He) is worthy of all worship. He is the One deserving to be worshipped through supplication, fear, hope, Salah (Prayer), Sawm (Fast), offering sacrifices, vows, and so on. All this should be dedicated to Allah Alone Who has no partner. Allah (Exalted be He) says: "So set you (O Muhammad صلى الله عليه وسلم) your face towards the religion (of pure Islâmic Monotheism) Hanîf (worship none but Allâh Alone). Allâh’s Fitrah (i.e. Allâh’s Islâmic Monotheism) with which He has created mankind." [al-Rum: 30]
+
+Allah (Exalted be He) says: And they were commanded not, but that they should worship Allâh, and worship none but Him Alone (abstaining from ascribing partners to Him)" [al-Bayyinah: 5] This is the meaning of "La ilaha illa Allah". It means that there is no God worthy of worship but Allah. 
+
+Allah (Exalted be He) says: "So know (O Muhammad صلى الله عليه وسلم) that, Lâ ilâha illallâh (none has the right to be worshipped but Allâh)" [Muhammad: 19] This means that none should be worshipped truly except Allah (Exalted be He). Whoever worships idols, dead people, trees, stones, angels, or prophets, has committed Shirk and has contradicted and broken the testimony that "there is no God but Allah" and contradicted Allah's Saying (Exalted be He): "And they were commanded not, but that they should worship Allâh, and worship none but Him Alone (abstaining from ascribing partners to Him)" [al-Bayyinah: 5] And has contradicted Allah's Saying (Exalted be He): "And I (Allâh) created not the jinn and mankind except that they should worship Me (Alone)." [al-Dhariyat: 56]
+
+Among those committing Shirk (associating others with Allah in His Divinity or worship) are those worshipping graves, idols, trees, and stones. They seek the help of the dead and the blessings of their graves, supplicate to them, go around their graves seeking benefit, reward or protection from them. They may seek their help or ask them to endow them with children, support, or the like as done by the grave and idol worshippers or those who seek the help of stars, Jinn, angels, prophets, or other creatures. All this violates the testification that there is no God but Allah, and contradicts the belief in the Oneness of Allah.
+
+Allah (Glorified and Exalted be He) says: "And they were commanded not, but that they should worship Allâh, and worship none but Him Alone (abstaining from ascribing partners to Him)" [al-Bayyinah: 5]
+
+He (Exalted be He) further says: "But if they had joined in worship others with Allâh, all that they used to do would have been of no benefit to them." [al-An'am: 88]
+
+"And indeed it has been revealed to you (O Muhammad صلى الله عليه وسلم), as it was to those (Allâh’s Messengers) before you: "If you join others in worship with Allâh, (then) surely (all) your deeds will be in vain, and you will certainly be among the losers." Nay! But worship Allâh (Alone and none else), and be among the grateful." [al-Zumar: 65-66]
+
+"Verily, Allâh forgives not that partners should be set up with Him (in worship), but He forgives except that (anything else) to whom He wills" [al-Nisa: 48]
+
+"...Verily joining others in worship with Allâh is a great Zûlm (wrong) indeed." [Luqman: 13]
+
+It is obligatory to believe in the Oneness of Allah and be sincere to Him in one's Salah, Sawm, and other acts of worship. It is obligatory to avoid Shirk in slaughtering, taking vows, fearing, and hoping, and so on. 
+
+It is obligatory to fear Allah (Exalted be He) and believe that He alone is one's Lord and Creator. There is no Lord or Creator beside Him. One should believe that to Allah belongs the Exalted Attributes and the Most Magnificent Names and that there is nothing like unto Him, nor does He have an equal. Allah (Glorified and Exalted be He) says: "And (all) the Most Beautiful Names belong to Allâh, so call on Him by them" [al-A'raf: 180]
+
+"Then do not set up rivals unto Allâh (in worship)" [al-Baqarah: 22] i.e. peers and equals. 
+
+Allah (Exalted be He) says: "There is nothing like Him; and He is the All-Hearer, the All-Seer." [al-Shura: 11]
+
+Allah (Exalted be He) also says, "Say (O Muhammad صلى الله عليه وسلم): "He is Allâh, (the) One. "Allâh-us-Samad (السيد الذي يصمد إليه في الحاجات) [Allâh the Self-Sufficient Master, Whom all creatures need, (He neither eats nor drinks)]. "He begets not, nor was He begotten. "And there is none co-equal or comparable unto Him."" [al-Ikhlas: 1-4]
+
+It is also obligatory to acknowledge that every Mukallaf (person meeting the conditions to be held legally accountable for their actions) should believe that Allah (Glorified be He) is their Creator and the Creator and Owner of everything and that it is Allah Who is Worthy of worship and that He is the One True God. One will not be a true believer unless one believes that to Allah (Glorified be He) belongs the Most Magnificent Names and the Highest Attributes, and that all His Names are Most Beautiful and all His Attributes Most Sublime, and that there is nothing like unto Him or is His equal. 
+
+Allah (Glorified be He) says: "Say (O Muhammad صلى الله عليه وسلم): "He is Allâh, (the) One. "Allâh-us-Samad (السيد الذي يصمد إليه في الحاجات) [Allâh the Self-Sufficient Master, Whom all creatures need, (He neither eats nor drinks)]. "He begets not, nor was He begotten. "And there is none co-equal or comparable unto Him."" [al-Ikhlas: 1-4]
+
+He (Exalted be He) says: "Do you know of any who is similar to Him?" [Maryam: 65] i.e. there is no one who is similar to Him; there is no partner or co-equal to Him. 
+
+Allah (Exalted be He) says: "Then do not set up rivals unto Allâh (in worship) while you know (that He Alone has the right to be worshipped)." [al-Baqarah: 22] i.e. do not deem anything to be similar, nor a peer to be called upon beside Him.
+
+Allah (Exalted and Glorified be He) says: "There is nothing like Him; and He is the All-Hearer, the All-Seer." [al-Shura: 11] Thus, Allah (Exalted be He) hears what His servants say, hears their supplication, and sees them. There is nothing like unto Him in His Self, His Names, His Hearing and Sight or any of His Attributes. He is the Perfect in everything whereas, His creatures have defects. Perfection in all aspects is confined to Allah (Exalted and Glorified be He) exclusively.
+
+You should reflect upon the Ever-Glorious Qur'an to understand this meaning. Contemplate the Qur'an from its beginning to its end; from Al-Fatihah (Opening Chapter of the Qur'an), the greatest and best Surah in the Qur'an, to the last Surah in the Mushaf: "Say (O Muhammad صلى الله عليه وسلم): "He is Allâh, (the) One." [al-Ikhlas: 1] And Mu'awwidhatayn (Surahs Al-Falaq and Al-Nas). Reflect upon and meditate on the Ever-Glorious Qur'an with a desire to work and attain benefit from it. Do not read it carelessly. Read it attentively and try to understand its meanings and ask scholars about what you cannot grasp although most of it, praise be to Allah, is clear to both the common and learned people who know the Arabic language.
+
+An example is the Ayah in which Allah (Glorified and Exalted be He) says: "Guard strictly (five obligatory) As-Salawât (the prayers) especially the middle Salât (i.e. the best prayer - ‘Asr ). And stand before Allâh with obedience [and do not speak to others during the Salât (prayers)]." [al-Baqarah: 238]
+
+"And perform As-Salât (Iqâmat-as-Salât), and give Zakât and obey the Messenger (Muhammad صلى الله عليه وسلم) that you may receive mercy (from Allâh)." [al-Nur: 56]
+
+"He who obeys the Messenger (Muhammad صلى الله عليه وسلم), has indeed obeyed Allâh" [al-nisa: 80]
+
+"And perform As-Salât (Iqâmat-as-Salât), and give Zakât and bow down (or submit yourselves with obedience to Allâh) along with those who bow down (in prayer)." [al-Baqarah: 43]
+
+"Observing As-Saum (the fasting) is prescribed for you" [al-baqarah: 183]
+
+And: And Hajj (pilgrimage to Makkah) to the House (Ka‘bah) is a duty that mankind owes to Allâh, for those who are able to undertake the journey." [Aal Imran: 97]
+
+"O you who believe! Intoxicants (all kinds of alcoholic drinks), and gambling, and Al-Ansâb, and Al-Azlâm (arrows for seeking luck or decision) are an abomination of Shaitan’s (Satan) handiwork. So avoid (strictly all) that (abomination) in order that you may be successful." [al-Maidah: 50]
+
+"...whereas Allâh has permitted trading and forbidden Ribâ (usury)." [al-Baqarah: 275]
+
+All these are clear Ayahs in which Allah (Glorified and Exalted be He) clarifies the lawful and the unlawful for His servants.
+
+Allah (Exalted be He) also prohibits injustice. He (Exalted be He) says: "And the Zâlimûn (polytheists and wrong-doers) will have neither a Walî (protector or guardian) nor a helper." [al-Shura: 8]
+
+He (Glorified be He) says: "And whoever among you does wrong (i.e. sets up rivals to Allâh), We shall make him taste a great torment." [al-Furqan: 19]
+
+So, servant of Allah, you should not wrong others with regard to their person, honor, or property.
+
 ---
 
 [^1]: Al-Nasa'i, Sunan, Book on Qiyam-ul-Layl and optional Salah during the day, no. 1601; Abu Dawud, Sunan, Book on Salah, no. 1342; and Ahmad Ibn Hanbal, Musnad, vol. 6, p. 91.
