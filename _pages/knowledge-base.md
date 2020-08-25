@@ -7,6 +7,7 @@ permalink: /basic/
 
 <article class="post">
 <div class="box">
+<h4>General</h4>
 <ul class="posts">
   {% for post in site.categories.basic | limit:5 %}
     {% if post.url %}
