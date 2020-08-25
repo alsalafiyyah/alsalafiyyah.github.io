@@ -24,7 +24,7 @@ permalink: /basic/
     </li>
     {% endif %}
   {% endfor %}
-  <p><i class="fas fa-arrow-right"></i> <a href="/walabara/">View all</a></p>
+  <p><a href="/walabara/">View all <i class="fas fa-arrow-right"></i> </a></p>
 </ul>
 </div>
 
@@ -37,7 +37,7 @@ permalink: /basic/
     </li>
     {% endif %}
   {% endfor %}
-  <p><i class="fas fa-arrow-right"></i> <a href="/funerals/">View all</a></p>
+  <p><a href="/funerals/">View all <i class="fas fa-arrow-right"></i></a></p>
 </ul>
 </div>
 
@@ -50,7 +50,7 @@ permalink: /basic/
     </li>
     {% endif %}
   {% endfor %}
-  <p><i class="fas fa-arrow-right"></i> <a href="/wahhabism/">View all</a></p>
+  <p><a href="/wahhabism/">View all <i class="fas fa-arrow-right"></i></a></p>
 </ul>
 </div>
 
