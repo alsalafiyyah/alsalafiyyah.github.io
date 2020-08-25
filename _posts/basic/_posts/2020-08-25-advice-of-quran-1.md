@@ -51,7 +51,7 @@ He (Glorified be He) also says: "By Al-‘Asr (the time). Verily, man is in loss
 
 It is also narrated by Muslim in his Sahih (authentic) Book of Hadith on the authority of Jabir Ibn 'Abdullah (may Allah be pleased with them) that the Prophet (peace be upon him) said to people in his Khutbah (sermon) on the Day of 'Arafah in the Farewell Hajj: "I am leaving among you that which if you adhere to, you will never go astray - the Book of Allah. Thus, he (peace be upon him) enjoined them to observe the Book of Allah and assured them that they would not go astray if they held fast to it." [^2]
 
-In another narration, the Prophet (peace be upon him) stated: "...The Book of Allah and my Sunnah" [^3]. The Sunnah of the Messenger (peace be upon him) receives authority from the Book of Allah, because Allah (Glorified be He) says: "And obey Allâh and the Messenger (Muhammad صلى الله عليه وسلم)" [al-Maidah: 92]
+In another narration, the Prophet (peace be upon him) stated: "...The Book of Allah and my Sunnah". The Sunnah of the Messenger (peace be upon him) receives authority from the Book of Allah, because Allah (Glorified be He) says: "And obey Allâh and the Messenger (Muhammad صلى الله عليه وسلم)" [al-Maidah: 92]
 
 The Book of Allah orders obeying Allah (Exalted be He) and His Messenger (peace be upon him). Allah (Exalted be He) says: "Say: "Obey Allâh and obey the Messenger, but if you turn away, he (Messenger Muhammad صلى الله عليه وسلم) is only responsible for the duty placed on him (i.e. to convey Allâh’s Message) and you for that placed on you. If you obey him, you shall be on the right guidance. The Messenger’s duty is only to convey (the message) in a clear way (i.e. to preach in a plain way)." [al-Nur: 54]
 
