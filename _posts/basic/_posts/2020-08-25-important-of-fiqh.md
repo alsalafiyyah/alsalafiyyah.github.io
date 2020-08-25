@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 10/5"
 hijri: Muharram 6, 1442 AH
 date: 2020/08/25
-category: ["basic", fiqh]
+category: ["basic"]
 shaykhs: Shaykh Ibn Baz
 ---
 

@@ -4,7 +4,7 @@ title: "The obligation of adhering to the Sunnah and warning against Bid'ah"
 publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
 source: "Majmu' Fatawa wa Maqalat 1/222"
 hijri: Dhul-Hijjah 27, 1441 AH
-category: [refutals, binbaz, mawlids, bidahs, wahhabism, basic]
+category: ["basic", refutals, mawlids, bidahs, wahhabism]
 date: 2020/08/17
 shaykhs: Shaykh Ibn Baz
 ---
