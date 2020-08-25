@@ -1,9 +1,9 @@
----
+﻿---
 layout: post
 title: "The Palestinians differ in their opinions regarding the peace process"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 8/-"
-category: [rulers, politics, palestine, binbaz]
+category: ["politics", palestine]
 hijri: Dhul-Qa'dah 31, 1441 AH
 date: 2020/07/22
 shaykhs: Shaykh Ibn Baz

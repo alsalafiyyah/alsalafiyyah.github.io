@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
 source: "Majmu' Fatawa wa Maqalat "
 hijri: Muharram 1, 1442 AH
 date: 2020/08/20
-category: [politics, basic]
+category: [politics]
 shaykhs: Shaykh Ibn Baz
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Ruling on rebel against the rulers"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 8/202"
-category: [rulers, politics, binbaz]
+category: [politics]
 hijri: Dhul-Qa'dah 30, 1441 AH
 date: 2020/07/21
 shaykhs: Shaykh Ibn Baz
