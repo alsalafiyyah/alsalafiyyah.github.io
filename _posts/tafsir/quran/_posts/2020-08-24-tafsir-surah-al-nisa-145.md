@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 5/49"
 hijri: Muharram 5, 1442 AH
 date: 2020/08/24
-category: ["tafsir", quran]
+category: ["tafsir", quran, alnisa]
 shaykhs: Shaykh Ibn Baz
 ---
 
