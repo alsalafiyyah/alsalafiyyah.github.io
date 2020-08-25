@@ -6,6 +6,7 @@ permalink: /topic/
 ---
 
 <article class="post">
+<p>Start typing and hit enter</p>
 {% include search-form.liquid %}
 <div class="box">
 <h4><a class="icon solid fa fa-folder-open" href="/walabara/"> Al-Wala' wal-Bara' (loyalty and disassociation for Allah’s Sake)</a></h4>
