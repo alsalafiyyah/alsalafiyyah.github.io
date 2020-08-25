@@ -6,7 +6,7 @@ permalink: /topic/
 ---
 
 <article class="post">
-<p>Start typing and hit enter</p>
+<p>Start typing in the form below and hit enter:</p>
 {% include search-form.liquid %}
 <div class="box">
 <h4><a class="icon solid fa fa-folder-open" href="/walabara/"> Al-Wala' wal-Bara' (loyalty and disassociation for Allah’s Sake)</a></h4>
@@ -19,6 +19,10 @@ permalink: /topic/
   {% endfor %}
 </ul>
 </div>
+
+<header class="major">
+ <span class="date">Or browse by category</span>
+</header>
 
 <div class="box">
 <h4><a class="icon solid fa fa-folder-open" href="/rulership/"> Rulership</a></h4>
