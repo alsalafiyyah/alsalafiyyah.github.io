@@ -6,7 +6,7 @@ permalink: /topic/
 ---
 
 <article class="post">
-<p>Start typing in the form below and hit enter:</p>
+<p><b>{{ site.posts | size }}</b> fatwas can be found. Start typing in the form below and hit enter:</p>
 {% include search-form.liquid %}
 
 <br/>
