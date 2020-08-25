@@ -80,9 +80,7 @@ permalink: /basic/
 </div>
 
 <div class="box">
-<ul class="posts">
-    <li><a class="icon solid fa-arrow-right" href="/sects/"> The sects</a></li>
-</ul>
+<h4><a class="icon solid fa-arrow-right" href="/sects/"> The sects</a></h4>
 </div>
 
 </article>
