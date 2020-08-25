@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: "Ruling on a person who utters the Two Testimonies of Faith and then commits actions that contradict them"
+title: "Annulling Shahadah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 10684"
 category: [basic]
