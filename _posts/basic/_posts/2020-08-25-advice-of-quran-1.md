@@ -91,6 +91,18 @@ Allah (Glorified and Exalted be He) says: "O mankind! Worship your Lord (Allâh)
 
 This is the basis of the Din (religion) of Islam and the core of faith, i.e. to believe that Allah is the Creator and the Provider and that none but Him is the true God, alone worthy of all worship and that to Him belongs the Most Magnificent Names and Exalted Attributes. 
 
+There is none like unto Him and there is none co-equal to Him. He has no partner in worship, dominion, or arranging matters as Allah (Glorified be He) says: "Allâh! Lâ ilâha illa Huwa (none has the right to be worshipped but He), Al-Hayyul-Qayyum (the Ever Living, the One Who sustains and protects all that exists)." [al-Baqarah: 255]
+
+Allah (Exalted be He) also says: "Say (O Muhammad صلى الله عليه وسلم): "He is Allâh, (the) One. "Allâh-us-Samad (السيد الذي يصمد إليه في الحاجات) [Allâh the Self-Sufficient Master, Whom all creatures need, (He neither eats nor drinks)]. "He begets not, nor was He begotten. "And there is none co-equal or comparable unto Him." [al-Ikhlas: 1-4]
+
+He (Exalted be He) also says: "There is nothing like Him; and He is the All-Hearer, the All-Seer." [al-Shura: 11]
+
+Allah (Glorified be He) also says in Surah Al-Hajj: "That is because Allâh — He is the Truth (the only True God of all that exists, Who has no partners or rivals with Him), and what they (the polytheists) invoke besides Him, it is Bâtil (falsehood)." [al-Hajj: 62]
+
+He (Glorified be He) also says: "And the mosques are for Allâh (Alone): so invoke not anyone along with Allâh." [al-Jinn: 18]
+
+There are many Ayahs that stress this meaning. In conclusion, it is obligatory on every Mukallaf, both Jinn and mankind, to worship Allah alone and to have absolute belief that Allah is the Creator and the Provider and that there is no creator except Allah (Exalted be He).
+
 ---
 
 [^1]: Al-Nasa'i, Sunan, Book on Qiyam-ul-Layl and optional Salah during the day, no. 1601; Abu Dawud, Sunan, Book on Salah, no. 1342; and Ahmad Ibn Hanbal, Musnad, vol. 6, p. 91.
