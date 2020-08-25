@@ -19,7 +19,7 @@ Wa 'alaykum as-salamu warahmatullah wabarakatuh (May Allah's Peace, Mercy, and B
 
 Allah (Glorified and Exalted be He) also says in Surah Al-Dukhan: 1-4: "**Hâ.-Mîm. [These letters are one of the miracles of the Qur’ân and none but Allâh (Alone) knows their meanings]. By the manifest Book (this Qur’ân) that makes things clear. We sent it (this Qur’ân) down on a blessed night [(i.e. night of Al-Qadr, Sûrah No. 97) in the month of Ramadân - the 9th month of the Islâmic calendar]. Verily, We are ever warning [mankind that Our Torment will reach those who disbelieve in Our Oneness of Lordship and in Our Oneness of worship]. Therein (that night) is decreed every matter of ordainments.**"
 
-He (Glorified be He) also says: "**Verily, We have sent it (this Qur’ân) down in the night of Al-Qadr (Decree). And what will make you know what the night of Al-Qadr (Decree) is? The night of Al-Qadr (Decree) is better than a thousand months (i.e. worshipping Allâh in that night is better than worshipping Him a thousand months, i.e. 83 years and 4 months).**" [al-Qadr: 1-3
+He (Glorified be He) also says: "**Verily, We have sent it (this Qur’ân) down in the night of Al-Qadr (Decree). And what will make you know what the night of Al-Qadr (Decree) is? The night of Al-Qadr (Decree) is better than a thousand months (i.e. worshipping Allâh in that night is better than worshipping Him a thousand months, i.e. 83 years and 4 months).**" [al-Qadr: 1-3]
 
 Laylat-ul-Qadr (the Night of Decree) is the best night and it is one of the last ten days of Ramadan. Allah (Glorified and Exalted be He) says in Surah Al-Baqarah: 185: "**The month of Ramadan in which was revealed the Qur’ân.**"
 
