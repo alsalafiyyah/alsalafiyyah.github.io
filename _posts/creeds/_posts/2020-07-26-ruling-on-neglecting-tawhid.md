@@ -1,9 +1,9 @@
----
+﻿---
 layout: post
 title: "Ruling on neglecting Tawhid"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 28/184"
-category: [tawhid, creeds, knowledge, ibnbaz]
+category: [tawhid, creeds, knowledge]
 hijri: Dhu al-Hijjah 5, 1441 AH
 date: 2020/07/26
 shaykhs: Shaykh Ibn Baz

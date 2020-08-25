@@ -3,7 +3,7 @@ layout: post
 title: "Ruling on a person who utters the Two Testimonies of Faith and then commits actions that contradict them"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 10684"
-category: [walabara, disbelievers, basic]
+category: [basic]
 hijri: Dhu al-Hijjah 6, 1441 AH
 date: 2020/07/27
 shaykhs: 
