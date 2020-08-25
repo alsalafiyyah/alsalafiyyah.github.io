@@ -60,6 +60,19 @@ permalink: /basic/
 </div>
 
 <div class="box">
+<h4>Tawassul</h4>
+<ul class="posts">
+  {% for post in site.categories.tawassul | limit:3 %}
+    {% if post.url %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+  <p><a class="button small icon solid fa-arrow-right" href="/tawassul/">View all</a></p>
+</ul>
+</div>
+
+<div class="box">
 <ul class="posts">
     <li><a href="/sects/">The sects</a></li>
 </ul>
