@@ -21,6 +21,18 @@ permalink: /basic/
 </div>
 
 <div class="box">
+<h4>Rulership</h4>
+<ul class="posts">
+  {% for post in site.categories.rulership | limit:3 %}
+    {% if post.url %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+</div>
+
+<div class="box">
 <h4>Funerals</h4>
 <ul class="posts">
   {% for post in site.categories.funerals | limit:3 %}
