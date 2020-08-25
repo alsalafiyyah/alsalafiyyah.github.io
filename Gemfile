@@ -9,6 +9,5 @@ group :jekyll_plugins do
   gem "jekyll-remote-theme"
   gem "jekyll-paginate"
   gem "liquid"
-  gem "kramdown", ">= 2.3.0"
   gem "github-pages"
 end
