@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Articles
 active: muqolat
 permalink: /muqolat/
@@ -16,5 +16,4 @@ permalink: /muqolat/
     {% endif %}
   {% endfor %}
 </ul>
-  <hr/>{% include social-share.liquid %}
 </article>
