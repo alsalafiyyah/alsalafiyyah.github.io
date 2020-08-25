@@ -6,14 +6,17 @@ permalink: /basic/
 ---
 
 <article class="post">
+<div class="box">
 <ul class="posts">
-  {% for post in site.categories.basic %}
+  {% for post in site.categories.basic | limit:5 %}
     {% if post.url %}
     <li><a href="{{ post.url }}">{{ post.title }}</a>
     </li>
     {% endif %}
   {% endfor %}
+  <p><a href="/general/">View all <i class="fas fa-arrow-right"></i> </a></p>
 </ul>
+</div>
 
 <div class="box">
 <h4>Al-Wala' wal-Bara' (loyalty and disassociation for Allah’s Sake)</h4>
