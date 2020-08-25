@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 5/243, question no. 5"
 hijri: Muharram 5, 1442 AH
 date: 2020/08/24
-category: ["walabara"]
+category: ["walabara", basic]
 shaykhs: Shaykh Ibn Baz
 ---
 
