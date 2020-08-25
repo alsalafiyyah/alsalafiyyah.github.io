@@ -11,7 +11,6 @@ permalink: /rulership/
     {% if post.url %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      </header>
     </li>
     {% endif %}
   {% endfor %}
