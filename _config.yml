@@ -19,7 +19,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
 permalink: /:title/
-paginate:       12
+paginate:       15
 paginate_path: "/:num/"
 category_dir: "muqolat"
 category_layout: "index.html"
