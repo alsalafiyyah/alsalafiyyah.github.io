@@ -21,7 +21,7 @@ R: **As-Salafiyya (le Salafisme)** se rapporte aux **Salafs (prédécesseurs)** 
 Quant au mot "**Salafi**", il fait référence aux Salafs comme précédemment définis. Ils sont ceux qui ont emprunté la voie des Salafs (pieux prédécesseurs) dans leur façon de suivre le Livre et la Sunna, d'y appeler et de les mettre en pratique. Ils sont donc pour cela les gens de la Sunna et du consensus (Ahl As-Sunna wa Al-Djamâ`a) 
 #### Q: Je voudrais une définition du terme "Salaf" (prédécesseur) et qui sont les salafis ? 
 
-R: Les **Salafs (prédécesseurs)** : sont les gens de la Sunna et du Consensus (Ahl As-Sunna wa Al-Djamâ'a) qui suivent Mohammad (Salla Allah 'Alaihi Wa Sallam) parmi les Compagnons (Qu'Allah soit satisfait d'eux) et ceux qui empruntent leur voie jusqu'au Jour de la Résurrection. Lorsqu'il a été demandé au Prophète (Salla Allah `Alaihi Wa Sallam) qui était le groupe sauvé, il dit : "Ce sont ceux qui suivent ma voie et celle de mes compagnons aujourd’hui." [^2]
+R: Les **Salafs (prédécesseurs)** : sont les gens de la Sunna et du Consensus (Ahl As-Sunna wa Al-Djamâ'a) qui suivent Mohammad (Salla Allah 'Alaihi Wa Sallam) parmi les Compagnons (Qu'Allah soit satisfait d'eux) et ceux qui empruntent leur voie jusqu'au Jour de la Résurrection. Lorsqu'il a été demandé au Prophète (Salla Allah `Alaihi Wa Sallam) qui était le groupe sauvé, il dit : "**Ce sont ceux qui suivent ma voie et celle de mes compagnons aujourd’hui.**" [^2]
 
 #### Q: Qu'est-ce que le Wahhabisme ?
 
