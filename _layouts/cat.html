@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 <article class="post">
 {% if page.paginator %}
 {% assign paginator = page.paginator %}
@@ -16,6 +15,25 @@ layout: default
 </article>
 <footer>
   <div class="pagination">
-   {% include pagination.liquid %}
+<ul class="actions pagination align-center">
+ {% if paginator.previous_page %}
+	<li>
+		<a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="button big previous">{{site.data.settings.pagination.prev}}</a>
+	</li>
+ {% else %}
+	<li>
+		<a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="disabled button big previous">{{site.data.settings.pagination.prev}}</a>
+	</li>
+ {% endif %}
+ {% if paginator.next_page %}
+	<li>
+		<a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="button big next">{{site.data.settings.pagination.next}}</a>
+	</li>
+ {% else %}
+	<li>
+		<a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="disabled button big next">{{site.data.settings.pagination.next}}</a>
+	</li>
+ {% endif %}
+</ul>  
   </div>
 </footer>
