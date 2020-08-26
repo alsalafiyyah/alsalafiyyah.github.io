@@ -18,12 +18,12 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
   - jekyll-sitemap
-  - jekyll-paginate-categories
+  - jekyll-paginate-category
 permalink: /:title/
 paginate:       12
 paginate_path: "/:num/"
-paginate_category_basepath: '/c/:name/'
-paginate_category_layout: 'cat.html'
+category_dir: "muqolat"
+category_layout: "index.html"
 exclude:
   - Gemfile
   - .gitignore

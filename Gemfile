@@ -21,7 +21,7 @@ group :jekyll_plugins do
   gem "jekyll-remote-theme"
   gem "jekyll-paginate"
   gem "liquid"
-  gem "jekyll-paginate-categories"
+  gem "jekyll-paginate-category"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
