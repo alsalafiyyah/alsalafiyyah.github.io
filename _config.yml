@@ -18,9 +18,12 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
   - jekyll-sitemap
+  - jekyll-paginate-categories
 permalink: /:title/
 paginate:       12
 paginate_path: "/:num/"
+paginate_category_basepath: '/c/:name/'
+paginate_category_layout: 'cat.html'
 exclude:
   - Gemfile
   - .gitignore
