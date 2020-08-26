@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On movie entitled (A Man from Babel) about the life story of Prophet Abraham, (peace be upon him)"
+title: "On movie entitled (A Man from Babel) about the life story of Prophet Abraham (peace be upon him)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 4054"
 hijri: Muharram 7, 1442 AH
