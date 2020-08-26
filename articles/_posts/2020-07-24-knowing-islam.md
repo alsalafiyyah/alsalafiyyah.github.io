@@ -1,5 +1,5 @@
 ﻿---
-layout: post
+layout: page
 title: "Introduction to Islam"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 28/"

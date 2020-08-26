@@ -1,5 +1,5 @@
 ﻿---
-layout: post
+layout: page
 title: "The importance of Fiqh"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 10/5"
