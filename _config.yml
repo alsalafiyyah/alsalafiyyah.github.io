@@ -23,6 +23,8 @@ paginate:       12
 paginate_path: "/:num/"
 exclude:
   - Gemfile
+  - .gitignore
+  - Gemfile.lock
 tipue_search:
   include:
     pages: true
