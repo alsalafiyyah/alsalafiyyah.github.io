@@ -28,7 +28,7 @@ permalink: /topic/
 </div>
 
 <div class="box">
-<h4><a class="icon solid fa fa-folder-open" href="/rulership/"> Rulership</a></h4>
+<h4><a class="icon solid fa fa-folder-open" href="/rulership/"> Rulership / Kingship</a></h4>
 <ul class="posts">
   {% for post in site.categories.rulership | limit:3 %}
     {% if post.url %}
