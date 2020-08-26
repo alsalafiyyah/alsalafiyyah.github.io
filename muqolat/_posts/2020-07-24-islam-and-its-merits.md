@@ -3,7 +3,6 @@ layout: page
 title: "Islam and its merits"
 author: "Instagram@Alsalafiyyah"
 category: [basic]
-permalink: /islam-and-its-merits/
 ---
 
 # Islam and its merits
