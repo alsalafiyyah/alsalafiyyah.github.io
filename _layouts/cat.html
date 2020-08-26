@@ -2,21 +2,18 @@
 layout: default
 ---
 
+<article class="post">
 <h4>Category: {{ page.category }}</h4>
 
-<!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
-  <article>
     <header>
-      <h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+      <h4><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
     </header>
     <div class="entry-content">
       {{ post.excerpt }}
     </div>
-  </article>
 {% endfor %}
 
-<!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
@@ -30,3 +27,4 @@ layout: default
     <span class="next">Next</span>
   {% endif %}
 </div>
+</article>
