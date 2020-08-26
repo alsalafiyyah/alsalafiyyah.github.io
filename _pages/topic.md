@@ -40,6 +40,18 @@ permalink: /topic/
 </div>
 
 <div class="box">
+<h4><a class="icon solid fa fa-folder-open" href="/prophets/"> Prophets & Messengers</a></h4>
+<ul class="posts">
+  {% for post in site.categories.prophets | limit:3 %}
+    {% if post.url %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+</div>
+
+<div class="box">
 <h4><a class="icon solid fa fa-folder-open" href="/funerals/"> Funerals</a></h4>
 <ul class="posts">
   {% for post in site.categories.funerals | limit:3 %}
