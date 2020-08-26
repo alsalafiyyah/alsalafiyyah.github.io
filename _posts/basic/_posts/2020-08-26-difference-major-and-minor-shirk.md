@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Daimah 1653-1"
 hijri: Muharram 7, 1442 AH
 date: 2020/08/26
-category: ["basic", shirk]
+category: ["general", shirk]
 shaykhs: 
  - Shaykh Ibn Baz
  - Shaykh Abdul-Razzaq al-Afify

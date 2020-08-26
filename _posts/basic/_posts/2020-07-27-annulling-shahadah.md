@@ -3,7 +3,7 @@ layout: post
 title: "Annulling Shahadah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 10684"
-category: [basic]
+category: [general]
 hijri: Dhu al-Hijjah 6, 1441 AH
 date: 2020/07/27
 shaykhs: 
