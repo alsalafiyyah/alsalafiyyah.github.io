@@ -2,10 +2,9 @@
 layout: page
 title: "Islam and its merits"
 author: "Instagram@Alsalafiyyah"
+hijri: Dhul-Hijjah 3, 1441 AH
 category: [basic]
 ---
-
-# Islam and its merits
 
 All praise is due to Allah. May peace and blessings be upon the Last Prophet. 
 

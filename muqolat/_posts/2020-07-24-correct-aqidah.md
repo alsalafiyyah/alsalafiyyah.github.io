@@ -2,10 +2,9 @@
 layout: page
 author: "Instagram@Alsalafiyyah"
 title: Correct 'Aqidah & its antithesis
+hijri: Dhul-Hijjah 3, 1441 AH
 category: [basic]
 ---
-
-# Correct 'Aqidah & its antithesis
 
 All praise be to Allah Alone, and peace and blessings be upon the Last of the Prophets.
 
