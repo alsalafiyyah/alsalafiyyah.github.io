@@ -5,6 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 5513-2"
 hijri: Muharram 8, 1442 AH
 date: 2020/08/27
+category: ["prophets"]
 shaykhs: 
  - Shaykh Abdul-Aziz Bin Baz
  - Shaykh Abdul-Razzaq al-Afify
