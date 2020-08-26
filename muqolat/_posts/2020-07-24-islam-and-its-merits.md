@@ -1,5 +1,5 @@
 ﻿---
-layout: page
+layout: article
 title: "Islam and its merits"
 author: "Instagram@Alsalafiyyah"
 hijri: Dhul-Hijjah 3, 1441 AH

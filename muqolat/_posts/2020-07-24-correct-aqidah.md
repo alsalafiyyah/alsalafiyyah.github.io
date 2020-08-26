@@ -1,5 +1,5 @@
 ﻿---
-layout: page
+layout: article
 author: "Instagram@Alsalafiyyah"
 title: Correct 'Aqidah & its antithesis
 hijri: Dhul-Hijjah 3, 1441 AH
