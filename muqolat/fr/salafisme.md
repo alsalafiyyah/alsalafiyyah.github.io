@@ -1,5 +1,5 @@
----
-layout: page
+﻿---
+layout: article
 title: "Quelle est la définition du salafisme?"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatwas du Comité Permanent (1361-2), (6149-2), (9450-2)"
@@ -12,6 +12,8 @@ shaykhs:
  - Shaykh Abdullah ibn Ghudayyan
  - Shaykh Abdullah ibn Qa'ud
 ---
+
+Fatwas du Comité Permanent (1361-2), (6149-2), (9450-2).
 
 #### Q: Qu'est-ce que le Salafisme ? Quel est votre point de vue sur celui-ci ? 
 
