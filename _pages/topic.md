@@ -52,18 +52,6 @@ permalink: /topic/
 </div>
 
 <div class="box">
-<h4><a class="icon solid fa fa-folder-open" href="/funerals/"> Funerals</a></h4>
-<ul class="posts">
-  {% for post in site.categories.funerals | limit:3 %}
-    {% if post.url %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-    {% endif %}
-  {% endfor %}
-</ul>
-</div>
-
-<div class="box">
 <h4><a class="icon solid fa fa-folder-open" href="/wahhabism/"> Wahhabism</a></h4>
 <ul class="posts">
   {% for post in site.categories.wahhabism | limit:3 %}
@@ -88,20 +76,10 @@ permalink: /topic/
 </div>
 
 <div class="box">
-<h4><a class="icon solid fa fa-folder-open" href="/tawassul/"> Tawassul</a></h4>
-<ul class="posts">
-  {% for post in site.categories.tawassul | limit:3 %}
-    {% if post.url %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-    {% endif %}
-  {% endfor %}
-</ul>
-</div>
-
-<div class="box">
 <h4><a class="icon solid fa fa-folder" href="/faq/"> Questions and answers about Salafiyyah</a></h4>
 <h4><a class="icon solid fa fa-folder" href="/sects/"> The sects</a></h4>
+<h4><a class="icon solid fa fa-folder" href="/tawassul/"> Tawassul</a></h4>
+<h4><a class="icon solid fa fa-folder" href="/funerals/"> Funerals</a></h4>
 </div>
 
 </article>
