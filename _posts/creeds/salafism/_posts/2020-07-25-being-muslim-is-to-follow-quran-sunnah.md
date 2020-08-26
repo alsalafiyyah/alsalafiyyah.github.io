@@ -3,7 +3,7 @@ layout: post
 title: "The duty of a Muslim is to follow the teachings of the Qur'an and Sunnah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatwa al-Lajnah ad-Daimah no. 4161"
-category: ["salafism", basic]
+category: ["salafism", general]
 hijri: Dhu al-Hijjah 4, 1441 AH
 date: 2020/07/25
 shaykhs: 
