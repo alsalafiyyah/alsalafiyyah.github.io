@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prophet Yusuf"
+title: "Prophet Yusuf (peace be upon him)"
 publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 9308-2"
 hijri: Muharram 7, 1442 AH
