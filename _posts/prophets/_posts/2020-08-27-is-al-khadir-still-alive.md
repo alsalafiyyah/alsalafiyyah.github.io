@@ -2,7 +2,7 @@
 layout: post
 title: "Is Al-Khadir (peace be upon him) still alive?"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 5513-1"
+source: "Fatawa Al-Lajnah Ad-Da'imah no. 5513-2"
 hijri: Muharram 8, 1442 AH
 date: 2020/08/27
 category: ["prophets"]
