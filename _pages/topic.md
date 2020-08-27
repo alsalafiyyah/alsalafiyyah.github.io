@@ -80,6 +80,7 @@ permalink: /topic/
 <h4><a class="icon solid fa fa-folder" href="/sects/"> The sects & groups</a></h4>
 <h4><a class="icon solid fa fa-folder" href="/tawassul/"> Tawassul</a></h4>
 <h4><a class="icon solid fa fa-folder" href="/funerals/"> Funerals</a></h4>
+<h4><a class="icon solid fa fa-folder" href="/refutals/"> Refutals</a></h4>
 </div>
 
 </article>
