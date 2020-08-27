@@ -18,7 +18,7 @@ A friend of mine sent me a pamphlet and I have enclosed a copy of it. Would you 
 
 The preacher that was mentioned says that the Qur'an clearly refers to the Injil (Gospel) and the Christians. In the Qur'an, it is mentioned that the Injil includes guidance and light (Surah Al-Ma'idah 5:46); that the Injil is a guidance for all mankind (Surah Al `Imran 3:34); that the Jews and the Christians read Divine Books (Surah Al-Baqarah, 2:113); that the Christians should be judged according to the Injil (Surah Al-Ma'idah 5:47); and that if Muhammad has any doubts regarding the Qur'an, he should refer to the People of the Book (the Jews and the Christians) (Surah Yunus, 10:94). It is never mentioned in the Qur'an that the Injil had been distorted or that it is not trustworthy. If the Injil had been distorted, as many Muslims claim, it would not have been mentioned in the Qur'an that the Christians are People of the Book and that they read a Divine Book. If the Injil had been distorted or lifted to the heaven, as many Muslims claim, the Qur'an would not have advised the Christians to refer to the Injil as a judge, as it would not make sense for the Qur'an to tell the Christians to refer to an Injil that was distorted or lifted to the heaven. If the Injil had been distorted, the Qur'an would not have advised Muhammad to refer to the People of the Book. Did Muhammad ever have any doubts concerning the Qur'an?
 
-Answer:
+### Answer:
 
 #### Answer to question: "**The Qur'an clearly refers to the Injil and the Christians, and mentions that the Injil includes guidance and light, and that it was revealed as guidance for all humans (Surah Al 'Imran 3:34)?**"
 
