@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Sufi belief in Al-Khadir (peace be upon him)"
 publisher: "alsalafiyyah@icloud.com"
@@ -21,7 +21,7 @@ Is Al-Khadir, who is famous for his encounters with Prophet Musa (peace be upon 
 
 Answer:
 
-According to the preponderant view held by the Jumhur (dominant majority of scholars), Al-Khadir died. This conclusion can be implied from the apparent meaning of the Ayah: "**And We granted not to any human being immortality before you (O Muhammad صلى الله عليه وسلم). **" [al-Anbiya: 34]
+According to the preponderant view held by the Jumhur (dominant majority of scholars), Al-Khadir died. This conclusion can be implied from the apparent meaning of the Ayah: "And We granted not to any human being immortality before you (O Muhammad صلى الله عليه وسلم)." [al-Anbiya: 34]
 
 Moreover, it was authentically reported from Ibn 'Umar that he said: "**The Messenger of Allah (peace be upon him) led us in 'Isha (Night) Prayer one night towards the end of his life, then he stood up and said, 'Do you see this night of yours? One hundred years from now not one of those who are on the face of the earth now will stay alive.' Ibn 'Umar said, 'People were frightened and kept discussing the statement of the Messenger of Allah (peace be upon him) in an attempt to understand its meaning. I understood that the Prophet (peace be upon him) predicted that none of the people living on earth at that time would be alive one hundred years later.'**" (Related by Muslim) [^1]
 
