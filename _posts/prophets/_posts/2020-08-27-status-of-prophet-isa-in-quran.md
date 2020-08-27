@@ -1,11 +1,11 @@
----
+﻿---
 layout: post
 title: "The status of Prophet 'Isa according to the Qur'an and Sunnah"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 2190"
+source: "Fatawa Al-Lajnah Ad-Da'imah no. 2190-1"
 hijri: Muharram 8, 1442 AH
 date: 2020/08/27
-category: ["prophets"]
+category: ["prophets", refutals]
 shaykhs: 
  - Shaykh Abdul-'Aziz ibn 'Abdullah ibn Baz
  - Shaykh Abdul-Razzaq al-Afify
@@ -15,7 +15,7 @@ shaykhs:
 
 Question: 
 
-We were informed that a translation of the Qur'an by Muhammad Asad would be published soon in Dublin, Ireland. This translation will be distributed here. A committee, from among Indian Muslim Professors, has been formed to publish this translation. Muhammad Asad alleges in his translation that Prophet 'Isa (Jesus) died and that the Muslims' belief in his return is not true. In the light of this allegation, I would like to ask the following questions: What is the status of prophet `Isa according to the Qur'an and the authentic Sunnah?
+We were informed that a [translation of the Qur'an by Muhammad Asad](/quran-translation-muhammad-asad-is-fatal-error/) would be published soon in Dublin, Ireland. This translation will be distributed here. A committee, from among Indian Muslim Professors, has been formed to publish this translation. Muhammad Asad alleges in his translation that Prophet 'Isa (Jesus) died and that the Muslims' belief in his return is not true. In the light of this allegation, I would like to ask the following questions: What is the status of prophet `Isa according to the Qur'an and the authentic Sunnah?
 
 Answer:
 
