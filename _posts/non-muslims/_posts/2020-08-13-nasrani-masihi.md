@@ -5,6 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 5/416"
 hijri: Dhul-Hijjah 23, 1441 AH
 date: 2020/08/13
+category: ["non-muslims"]
 shaykhs: Shaykh Ibn Baz
 ---
 

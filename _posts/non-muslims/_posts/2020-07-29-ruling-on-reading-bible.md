@@ -3,7 +3,7 @@ layout: post
 title: "Ruling on reading Bible"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 8852-2"
-category: [nonmuslims, walabara, disbelievers, books]
+category: ["non-muslims", "walabara"]
 hijri: Dhu al-Hijjah 8, 1441 AH
 date: 2020/07/29
 shaykhs: 

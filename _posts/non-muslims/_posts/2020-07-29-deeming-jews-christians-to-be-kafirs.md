@@ -3,7 +3,7 @@ layout: post
 title: "Deeming Jews and Christians, who do not believe in Muhammad, to be disbelievers"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 6505-14"
-category: [nonmuslims, disbelievers, walabara]
+category: ["non-muslims"]
 hijri: Dhu al-Hijjah 8, 1441 AH
 date: 2020/07/29
 shaykhs: 
