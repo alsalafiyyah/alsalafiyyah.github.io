@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "A decisive statement about the life or death of Jesus and where he is now"
 publisher: "alsalafiyyah@icloud.com"
@@ -25,6 +25,6 @@ Isa ibn Maryam (peace be upon him) is alive; he has not died yet and the Jews ne
 
 So Allah (Glorified be He) refutes the Jews' claim of having killed and crucified 'Isa and says that He raised 'Isa up to Him. He (Glorified be He) did this out of mercy and to honor him. The ascension of `Isa is one of the signs that Allah grants to whomever He wills of His Messengers, and He granted many of them to 'Isa ibn Maryam (peace be upon him). The word "But" that is used in the following Ayah: "But Allâh raised him [‘Isâ (Jesus)] up (with his body and soul) unto Himself (and he عليه السلام is in the heavens)." [al-Nisa: 158] Shows that Allah (Glorified be He) raised 'Isa (peace be upon him) with his body and soul in order to refute the claims of the Jews regarding the crucifixion and death of 'Isa. 
 
-This is because crucifixion is inflicted upon the body, and if it was only his soul that was raised, it would not have refuted their claim of having crucified him. Using the name of 'Isa (peace be upon him) confirms that it is both his body and soul that are being referred to; it cannot be used to just refer to his body alone or his soul unless there is evidence, and there is no evidence in this case. In addition to this, the raising of both his body and soul shows the Perfect Glory of Allah, His Wisdom, Honor, and Support of whomever He wills from among His Messengers, as is mentioned at the end of this Ayah: And Allâh is Ever All-Powerful, All-Wise. This issue will be discussed in more detail in the answer to the third question, if Allah (Exalted be He) wills.
+This is because crucifixion is inflicted upon the body, and if it was only his soul that was raised, it would not have refuted their claim of having crucified him. Using the name of 'Isa (peace be upon him) confirms that it is both his body and soul that are being referred to; it cannot be used to just refer to his body alone or his soul unless there is evidence, and there is no evidence in this case. In addition to this, the raising of both his body and soul shows the Perfect Glory of Allah, His Wisdom, Honor, and Support of whomever He wills from among His Messengers, as is mentioned at the end of this Ayah: "And Allâh is Ever All-Powerful, All-Wise." [al-Nisa: 58] This issue will be discussed in more detail in the answer to the third question, if Allah (Exalted be He) wills.
 
 May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
