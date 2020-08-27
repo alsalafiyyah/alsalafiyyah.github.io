@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "The gospels' glad tidings of sending Muhammad and Allah's showing the lies of the Christians and Jews"
 publisher: "alsalafiyyah@icloud.com"
@@ -20,7 +20,7 @@ The preacher that was mentioned says that the Qur'an clearly refers to the Injil
 
 Answer:
 
-#### Answer on the question: "**The Qur'an clearly refers to the Injil and the Christians, and mentions that the Injil includes guidance and light, and that it was revealed as guidance for all humans (Surah Al 'Imran 3:34)?**"
+#### Answer to question: "**The Qur'an clearly refers to the Injil and the Christians, and mentions that the Injil includes guidance and light, and that it was revealed as guidance for all humans (Surah Al 'Imran 3:34)?**"
 
 Allah mentions the Injil in the Qur'an and asks its people to judge according to what was revealed by Allah in it, to believe in the good news Allah sent of the mission of Muhammad (peace be upon him), and the obligation of believing in it. Allah even took a strong covenant from every prophet to believe in all the Messengers that He sent after him. It was therefore made obligatory for 'Isa (Jesus, peace be upon him) and his Ummah (nation) to believe in Muhammad (peace be upon him) when he was sent, as his Message was general, for all people, as Allah says: "**And We have sent down to you (O Muhammad صلى الله عليه وسلم) the Book (this Qur’ân) in truth, confirming the Scripture that came before it and Muhaymin (trustworthy in highness and a witness) over it (old Scriptures). So judge among them by what Allâh has revealed, and follow not their vain desires.**" [al-Maidah: 48]
 
@@ -50,7 +50,7 @@ Allah also says: "**O people of the Scripture (Christians)! Do not exceed the li
 
 If you do not do this, you will be among those about whom Allah says: "**Verily, those who disbelieve in Allâh and His Messengers and wish to make distinction between Allâh and His Messengers (by believing in Allâh and disbelieving in His Messengers) saying, "We believe in some but reject others," and wish to adopt a way in between. They are in truth disbelievers. And We have prepared for the disbelievers a humiliating torment.**" [al-Nisa: 150-151]
 
-#### Answer on the question: "**Allah says in the Qur'an that the Jews and the Christians read the Divine Books (Surah Al-Baqarah, 2:113)?**"
+#### Answer to question: "**Allah says in the Qur'an that the Jews and the Christians read the Divine Books (Surah Al-Baqarah, 2:113)?**"
 
 The question refers to the following Ayah (Qur'anic verse) in which Allah (Exalted be He) says: "**The Jews said that the Christians follow nothing (i.e. are not on the right religion); and the Christians said that the Jews follow nothing (i.e. are not on the right religion); though they both recite the Scripture. Like unto their word, said (the pagans) who know not. Allâh will judge between them on the Day of Resurrection about that wherein they have been differing.**" [al-Baqarah: 113]
 
@@ -74,7 +74,7 @@ And Allah (Exalted be He) says about the Jews and the Christians: "**And the peo
 
 After clarifying this matter, it is not permissible to claim that the Qur'an praises the Jews or the Christians who have not believed in it after its revelation. Similarly, we cannot claim that the Qur'an praises the distorted Tawrah or the distorted Injil. The distortions made to them are many, e.g. 'Isa as a son of and a god with Allah, the false claim of `Isa's crucifixion or his murder by the Jews, and their concealment of the Prophethood and Mission of Muhammad. If these examples do not indicate distortion, concealment, interpolation, or omissions that have been made to their texts, what else can we call what those two groups did to the Books revealed to their prophets?
 
-#### Answer on the question: "**It is mentioned in the Qur'an that the Christians should be judged according to the Injil (Gospel), Surah Al-Ma'idah 5: 47?**"
+#### Answer to question: "**It is mentioned in the Qur'an that the Christians should be judged according to the Injil (Gospel), Surah Al-Ma'idah 5: 47?**"
 
 The questioner here refers to the Ayah saying: "**Let the people of the Injeel (Gospel) judge by what Allâh has revealed therein. And whosoever does not judge by what Allâh has revealed (then) such (people) are the Fâsiqûn [the rebellious i.e. disobedient (of a lesser degree)] to Allâh.**" [al-Maidah: 47] This Ayah does not establish evidence for the claims of the Christians, because the book meant here is the Injil that was revealed by Allah to 'Isa (Jesus, peace be upon him) the son of Maryam (Mary, peace be upon her), not the tampered one that mentions that 'Isa is the son of Allah, a god, crucified before his ascension to heaven, nor mentions glad tidings of the advent of Muhammad (peace be upon him) as a Messenger of Allah. 
 
@@ -82,7 +82,7 @@ Considering this Ayah: "**And We have sent down to you (O Muhammad صلى الل
 
 It has also been proven in parts (1 and 4) that both the Jews and the Christians have tampered with the books of their prophets. So we should, to understand the Ayahs, examine them together not individually, so that the meaning may be properly interpreted. However, those who seek deviation and deception whose hearts have been given to error, who are occupied with debate and dispute, do not take the context of these Ayahs into account or understand them separately, because "**They (the disbelievers, the Jews and the Christians) want to extinguish Allâh’s Light (with which Muhammad صلى الله عليه وسلم has been sent - Islâmic Monotheism) with their mouths, but Allâh will not allow except that His Light should be perfected even though the Kâfirûn (disbelievers) hate (it).**" [al-Tawbah: 32]
 
-#### Answer on the question: "**The Qur'an informs us that had Prophet Muhammad (peace be upon him) had any doubts regarding the Qur'an, then he was to consult the People of the Scripture among the Jews and the Christians as stated in Surah Yunus (10/94).**"
+#### Answer to question: "**The Qur'an informs us that had Prophet Muhammad (peace be upon him) had any doubts regarding the Qur'an, then he was to consult the People of the Scripture among the Jews and the Christians as stated in Surah Yunus (10/94).**"
 
 The questioner refers to Allah's Statement: "**So if you (O Muhammad صلى الله عليه وسلم) are in doubt concerning that which We have revealed unto you, [i.e. that your name is written in the Taurât (Torah) and the Injeel (Gospel)], then ask those who are reading the Book [the Taurât (Torah) and the Injeel (Gospel)] before you.**" [Yunus: 94] The Ayah lends them no support, for the conditional sentence does not necessitate the true existence of the condition. Thus, the result clause may be conditional upon an impossible condition, for example Allah stated: "**And that was Our Proof which We gave Ibrâhîm (Abraham) against his people. We raise whom We will in degrees. Certainly your Lord is All-Wise, All-Knowing.**" [al-An'am: 83] Up to His Statement: "**This is the Guidance of Allâh with which He guides whomsoever He wills of His slaves. But if they had joined in worship others with Allâh, all that they used to do would have been of no benefit to them.**" [al-An'am: 88] Thus, Allah informs us that had the prophets associated others in worship with Allah (an impossible condition), all their good deeds would have been rendered void. Indeed, they all died as Muslims, and were all infallible. 
 
