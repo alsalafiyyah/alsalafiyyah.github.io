@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 11419"
 hijri: Muharram 8, 1442 AH
 date: 2020/08/27
-category: ["prophets", non-muslims]
+category: ["prophets"]
 shaykhs: 
  - Shaykh Abdul-'Aziz ibn 'Abdullah ibn Baz
  - Shaykh Abdul-Razzaq al-Afify
