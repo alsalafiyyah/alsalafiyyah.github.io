@@ -8,9 +8,7 @@ date: 2020/08/28
 category: ["salah"]
 shaykhs: 
  - Shaykh Abdul-'Aziz ibn 'Abdullah ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+ - Shaykh Abdullah ibn Ghudayyan
 ---
 
 Question: 
