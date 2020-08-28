@@ -35,5 +35,6 @@ tipue_search:
   exclude:
     files: [index.html, search.html, sitemap.xml, feed.xml]
 webmaster_verifications:
+  google: 0AfP6ouBUqp8IPbvV8AgSXFY3YTtSTTriIZ2Lyt43NI
   bing: 4F1A0A46CAA92F43191A0C4B37948DD7
   yandex: 605ab18d7c20bdc0
