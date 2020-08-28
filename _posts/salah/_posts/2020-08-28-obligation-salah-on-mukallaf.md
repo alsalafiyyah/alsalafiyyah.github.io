@@ -1,8 +1,8 @@
----
+﻿---
 layout: post
 title: "Obligation of Salah on a Mukallaf"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 4321"
+source: "Fatawa Al-Lajnah Ad-Da'imah no. 4321-3"
 hijri: Muharram 9, 1442 AH
 date: 2020/08/28
 category: ["salah"]
