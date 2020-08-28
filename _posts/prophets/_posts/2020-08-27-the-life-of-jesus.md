@@ -1,11 +1,11 @@
----
+﻿---
 layout: post
 title: "The life of Jesus, his descent, destroying the cross, killing pigs and calling to the truth"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 4745"
 hijri: Muharram 8, 1442 AH
 date: 2020/08/27
-category: ["prophets"]
+category: ["prophets", "qadianis"]
 shaykhs: 
  - Shaykh Abdul-'Aziz ibn 'Abdullah ibn Baz
  - Shaykh Abdul-Razzaq al-Afify
