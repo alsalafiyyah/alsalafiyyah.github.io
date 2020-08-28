@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Al-Wala' wal-Bara' (loyalty and disassociation for Allah’s Sake)"
+title: "Al-Wala' Wal-Bara' (loyalty and disassociation for Allah's Sake)"
 active: walabara
 author: "Instagram@Alsalafiyyah"
 permalink: /walabara/
