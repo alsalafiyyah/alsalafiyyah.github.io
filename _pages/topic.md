@@ -40,6 +40,18 @@ permalink: /topic/
 </div>
 
 <div class="box">
+<h4><a class="icon solid fa fa-folder-open" href="/tafsir-quran/"> Qur'an Tafsir (Exegesis)</a></h4>
+<ul class="posts">
+  {% for post in site.categories.quran | limit:3 %}
+    {% if post.url %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+</div>
+
+<div class="box">
 <h4><a class="icon solid fa fa-folder-open" href="/rulership/"> Rulership / Kingship</a></h4>
 <ul class="posts">
   {% for post in site.categories.rulership | limit:3 %}
@@ -76,35 +88,12 @@ permalink: /topic/
 </div>
 
 <div class="box">
-<h4><a class="icon solid fa fa-folder-open" href="/tafsir-quran/"> Qur'an Tafsir (Exegesis)</a></h4>
-<ul class="posts">
-  {% for post in site.categories.quran | limit:3 %}
-    {% if post.url %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-    {% endif %}
-  {% endfor %}
-</ul>
-</div>
-
-<div class="box">
-<h4><a class="icon solid fa fa-folder-open" href="/non-muslims/"> Non-Muslims</a></h4>
-<ul class="posts">
-  {% for post in site.categories.non-muslims | limit:3 %}
-    {% if post.url %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-    {% endif %}
-  {% endfor %}
-</ul>
-</div>
-
-<div class="box">
 <h4><a class="icon solid fa fa-folder" href="/faq/"> Questions and answers about Salafiyyah</a></h4>
 <h4><a class="icon solid fa fa-folder" href="/sects/"> The sects & groups</a></h4>
 <h4><a class="icon solid fa fa-folder" href="/tawassul/"> Tawassul</a></h4>
 <h4><a class="icon solid fa fa-folder" href="/funerals/"> Funerals</a></h4>
 <h4><a class="icon solid fa fa-folder" href="/refutals/"> Refutals</a></h4>
+<h4><a class="icon solid fa fa-folder-open" href="/non-muslims/"> Non-Muslims</a></h4>
 </div>
 
 </article>
