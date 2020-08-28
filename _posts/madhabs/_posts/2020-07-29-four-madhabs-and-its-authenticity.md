@@ -3,7 +3,7 @@ layout: post
 title: "The Four Juristic Schools and their authenticity"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat p. 7/152"
-category: [madhabs, malikis, shafiis, hanbalis, hanafis]
+category: ["madhabs"]
 hijri: Dhu al-Hijjah 8, 1441 AH
 date: 2020/07/29
 shaykhs: Shaykh Abdul-Aziz ibn Baz
