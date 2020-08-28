@@ -22,4 +22,5 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "liquid"
   gem "github-pages", group: :jekyll_plugins
+  gem "hijri_umm_alqura"
 end

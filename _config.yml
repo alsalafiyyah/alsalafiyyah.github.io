@@ -19,6 +19,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-cleaner-urls
+  - hijri_umm_alqura
 permalink: /:title/
 paginate:       15
 paginate_path: "/:num/"
