@@ -88,7 +88,7 @@ permalink: /topic/
 </div>
 
 <div class="box">
-<h4><a class="icon solid fa fa-folder" href="/faq/"> Questions and answers about Salafiyyah</a></h4>
+<h4><a class="icon solid fa fa-folder" href="/faq/"> What is Salafiyyah</a></h4>
 <h4><a class="icon solid fa fa-folder" href="/sects/"> The sects & groups</a></h4>
 <h4><a class="icon solid fa fa-folder" href="/tawassul/"> Tawassul</a></h4>
 <h4><a class="icon solid fa fa-folder" href="/funerals/"> Funerals</a></h4>
