@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ruling on earing something bearing a cross while praying"
+title: "Ruling on wearing something bearing a cross while praying"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 2615-9"
 hijri: Muharram 9, 1442 AH
