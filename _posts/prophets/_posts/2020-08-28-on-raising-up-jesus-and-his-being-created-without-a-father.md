@@ -1,6 +1,6 @@
----
+﻿---
 layout: post
-title: "On raising up of 'Isa and his being created without a father and the reason behind the permissibility of Jihad"
+title: "On raising up of Jesus and his being created without a father and the reason behind the permissibility of Jihad"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 6426"
 hijri: Muharram 9, 1442 AH
