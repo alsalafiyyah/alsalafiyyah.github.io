@@ -34,3 +34,8 @@ tipue_search:
     pages: true
   exclude:
     files: [index.html, search.html, sitemap.xml, feed.xml]
+webmaster_verifications:
+  bing: 4F1A0A46CAA92F43191A0C4B37948DD7
+  alexa: 1234
+  yandex: 1234
+  baidu: 1234
