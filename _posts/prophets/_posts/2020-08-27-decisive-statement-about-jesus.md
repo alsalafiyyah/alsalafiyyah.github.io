@@ -13,11 +13,10 @@ shaykhs:
  - Shaykh Abdullah ibn Qa'ud
 ---
 
-Question: 
+Questions: 
 
-Question 1: Is 'Isa ibn Maryam (Jesus, son of Mary) alive or dead What is the evidence from the Qur'an or the Sunnah in this regard?
-
-Question 2: If 'Isa (Jesus, peace be upon him) is alive or dead, where is he now and what is the evidence from the Qur'an and the Sunnah?
+1. Is 'Isa ibn Maryam (Jesus, son of Mary) alive or dead What is the evidence from the Qur'an or the Sunnah in this regard?
+2. If 'Isa (Jesus, peace be upon him) is alive or dead, where is he now and what is the evidence from the Qur'an and the Sunnah?
 
 Answer:
 
