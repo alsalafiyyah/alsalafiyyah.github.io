@@ -19,7 +19,7 @@ What is the ruling if a woman delays performing Salah (Prayer) after its due tim
 
 Answer:
 
-If she is as what you have mentioned, she is an apostate. By doing this, she is causing great harm to her daughters. She must be asked to repent. If she does not repent, the case should be submitted to a judge in order to separate her from her husband. Moreover, she has to be punished with the legal Hadd (prescribed penalty) for that which is death. Ibn 'Abbas (may Allah be pleased with him) said that the Prophet (peace be upon him) said: "**If somebody (a Muslim) changes their religion, execute them.**" [^1] This is the case if she delays Salah after its due time like delaying `Asr (Afternoon) Prayer until sunset or Fajr (dawn) Prayer until sunrise. Delaying Salah after its due time without a legal excuse is equal to abandoning it.
+If she is as what you have mentioned, she is an apostate. By doing this, she is causing great harm to her daughters. She must be asked to repent. If she does not repent, the case should be submitted to a judge in order to separate her from her husband. Moreover, she has to be punished with the legal Hadd (prescribed penalty) for that which is death. Ibn 'Abbas (may Allah be pleased with him) said that the Prophet (peace be upon him) said: "**If somebody (a Muslim) changes their religion, execute them.**" [^1] This is the case if she delays Salah after its due time like delaying 'Asr (Afternoon) Prayer until sunset or Fajr (dawn) Prayer until sunrise. Delaying Salah after its due time without a legal excuse is equal to abandoning it.
 
 May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
 
