@@ -83,7 +83,7 @@ permalink: /topic/
 <h4><a class="icon solid fa fa-folder" href="/madhabs/"> Madhabs</a></h4>
 <h4><a class="icon solid fa fa-folder" href="/refutals/"> Refutals</a></h4>
 <h4><a class="icon solid fa fa-folder" href="/non-muslims/"> Non-Muslims</a></h4>
-<h4><a class="icon solid fa fa-folder" href="/walabara/"> Al-Wala' wal-Bara' (loyalty and disassociation for Allah’s Sake)</a></h4>
+<h4><a class="icon solid fa fa-folder" href="/walabara/"> Al-Wala' wal-Bara'</a></h4>
 </div>
 
 </article>
