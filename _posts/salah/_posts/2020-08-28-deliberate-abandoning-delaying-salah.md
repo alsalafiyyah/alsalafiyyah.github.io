@@ -24,4 +24,4 @@ If she is as what you have mentioned, she is an apostate. By doing this, she is 
 May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
 
 ---
-[^1]: Imam Ahmad, vol. 1, p. 282; Al-Bukhari, Fath-ul-Bary, no. 6922; Abu Dawud, no. 4329; Al-Tirmidhy, no. 1483; and Al-Nasa*y, vol. 7, p. 96, ed. Al-Halaby, and the wording is by Al-Nasa'i.
+[^1]: Imam Ahmad, vol. 1, p. 282; Al-Bukhari, Fath-ul-Bary, no. 6922; Abu Dawud, no. 4329; Al-Tirmidhy, no. 1483; and Al-Nasa'i, vol. 7, p. 96, ed. Al-Halaby, and the wording is by Al-Nasa'i.
