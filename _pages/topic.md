@@ -86,6 +86,8 @@ permalink: /topic/
  </div>
 </div>
 
+<div class="box">
+<h4>More</h4>
 <div class="row">
  <div class="col-6 col-12-small">
   <ul>
@@ -104,5 +106,5 @@ permalink: /topic/
   </ul>
  </div>
 </div>
-
+</div>
 </article>
