@@ -17,8 +17,6 @@
     link: /jihad
   - name: Hadiths Sunnah sciences
     link: /sunnah
-  - name: Transactions
-    link: /transactions
   - name: Nikah (Marriage)
     link: /nikah
   - name: Talaq (Divorce)
@@ -47,7 +45,7 @@
     link: /homosexuals
   - name: Waqf (Endowment)
     link: /waqf
-  - name: Al-Buyu' (Sales)
+  - name: Al-Buyu' (Sales) and Transactions
     link: /buyu
   - name: Non-Muslims
     link: /non-muslims
