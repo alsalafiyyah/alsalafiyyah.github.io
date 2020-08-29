@@ -2,7 +2,7 @@
 title: Categories
 layout: page
 active: categories
-permalink: /categories/
+permalink: /categories2/
 ---
 
 <div id="archives">
@@ -21,4 +21,3 @@ permalink: /categories/
   </div>
 {% endfor %}
 </div>
-</article>
