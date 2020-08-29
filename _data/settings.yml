@@ -35,7 +35,7 @@ social:
   wa: WhatsApp
   sc: Soundcloud
 
-categories: 
+chapters: 
   creed: Creed
   tafsir: Tafsir
   salah: Salah
@@ -61,4 +61,6 @@ categories:
   madhab: Madhabs
   tawassul: Tawassul
   homo: Homosexuals
-
+  waqf: Waqf
+  buyu: Sales
+  fiqh: Fiqh
