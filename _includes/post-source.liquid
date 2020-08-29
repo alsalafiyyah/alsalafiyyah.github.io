@@ -16,7 +16,7 @@
     {% if page.shaykhs %}
     {{ page.shaykhs | join: ", "}}
     {% else %}
-    {{ site.shaykhs.name | join: ", " }}
+    <i class="fas fa-graduation-cap"></i> {{ site.shaykhs.name | join: ", " }}
     {% endif %}
       </b>
   </li>
