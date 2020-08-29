@@ -1,7 +1,5 @@
 ﻿chapters: 
-  - name: Creed
-    link: /creeds
-  - name: Tafsir
+  - name: Tafsir (Exegesis)
     link: /tafsir
   - name: Salah (Prayers)
     link: /salah
