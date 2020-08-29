@@ -89,7 +89,7 @@ permalink: /topic/
 <div class="box">
 <h4>More</h4>
 {% for item in site.data.settings.chapters %}
-<li><a href="{{ item.link }}">{{ item.name }}</a></li>
+ <a href="{{ item.link }}">{{ item.name  | split: ", "}}</a>
 {% endfor %}
 </div>
 
