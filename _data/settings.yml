@@ -1,13 +1,13 @@
 ﻿chapters: 
   creed: Creed
   tafsir: Tafsir
-  salah: Salah
-  hajj: Hajj
+  salah: Salah (Prayers)
+  hajj: Hajj (Pilgrimage)
   umrah: Umrah
   zakah: Zakah
-  shawm: Fasting
+  shawm: Shawm (Fasting)
   ramadan: Ramadan
-  taharah: Taharah
+  taharah: Taharah (Purification)
   jihad: Jihad
   hadith: Hadiths
   transaction: Transactions
@@ -25,7 +25,7 @@
   tawassul: Tawassul
   homo: Homosexuals
   waqf: Waqf
-  buyu: Sales
+  buyu: Al-Buyu' (Sales)
   fiqh: Fiqh
   non: Non-Muslims
 
