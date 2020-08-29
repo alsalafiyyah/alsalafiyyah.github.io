@@ -92,7 +92,7 @@ permalink: /topic/
  <div class="col-6 col-12-small">
   <ul>
    <li><a class="icon solid fa fa-folder" href="/walabara/"> Al-Wala' wal-Bara'</a></li>
-   <li><a class="icon solid fa fa-folder" href="/faq/"> What is Salafiyyah</a></li>
+   <li><a class="icon solid fa fa-file" href="/faq/"> What is Salafiyyah</a></li>
    <li><a class="icon solid fa fa-folder" href="/madhabs/"> Madhabs</a></li>
    <li><a class="icon solid fa fa-folder" href="/refutals/"> Refutals</a></li>
   </ul>
