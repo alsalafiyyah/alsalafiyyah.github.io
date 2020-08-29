@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 5520"
 hijri: Muharram 10, 1442 AH
 date: 2020/08/29
-category: [hudud, homosexuality, masturbation]
+category: [hudud, homosexuals, masturbation]
 shaykhs: 
  - Shaykh Abdul-'Aziz ibn Baz
  - Shaykh Abdul-Razzaq al-Afify
