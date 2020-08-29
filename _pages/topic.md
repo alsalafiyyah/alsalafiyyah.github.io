@@ -83,7 +83,8 @@ permalink: /topic/
    <li><a class="icon solid fa fa-folder" href="/madhabs/"> Madhabs</a></li>
    <li><a class="icon solid fa fa-folder" href="/refutals/"> Refutals</a></li>
   </ul>
-
+ </div>
+  <div class="col-6 col-12-small">
   <ul>
    <li><a class="icon solid fa fa-folder" href="/sects/"> The sects and groups</a></li>
    <li><a class="icon solid fa fa-folder" href="/tawassul/"> Tawassul</a></li>
