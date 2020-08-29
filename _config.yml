@@ -18,6 +18,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
   - jekyll-sitemap
+  - jekyll-category-pages
 permalink: /:title/
 paginate:       15
 paginate_path: "/:num/"
