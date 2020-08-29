@@ -2,7 +2,7 @@
 title: Categories
 layout: page
 active: categories
-permalink: /category/
+permalink: /categorys/
 ---
 
 <div class="box">
