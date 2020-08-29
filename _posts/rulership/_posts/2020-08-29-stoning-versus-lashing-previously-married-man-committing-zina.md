@@ -1,11 +1,11 @@
----
+﻿---
 layout: post
 title: "Stoning versus lashing a previously married man committing Zina"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 18612-28"
 hijri: Muharram 10, 1442 AH
 date: 2020/08/29
-category: ["rulership", hudud]
+category: ["rulership", hudud, zina]
 shaykhs: 
  - Shaykh Abdul-'Aziz ibn Baz
  - Shaykh Abdul-Aziz Aal al-Shaykh
