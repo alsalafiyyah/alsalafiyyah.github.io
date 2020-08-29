@@ -40,6 +40,7 @@ permalink: /categorys/
           {{ post.title }}
         </li>
         </a>
+    {% endfor %}
             </div>
         {% endfor %}
         </div>
