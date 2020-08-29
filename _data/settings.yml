@@ -1,34 +1,64 @@
 ﻿chapters: 
-  creed: Creed
-  tafsir: Tafsir
-  salah: Salah (Prayers)
-  hajj: Hajj (Pilgrimage)
-  umrah: Umrah
-  zakah: Zakah
-  shawm: Shawm (Fasting)
-  ramadan: Ramadan
-  taharah: Taharah (Purification)
-  jihad: Jihad
-  hadith: Hadiths
-  transaction: Transactions
-  nikah: Nikah (Marriage)
-  talaq: Talaq (Divorce)
-  funeral: Funerals
-  kafarah: Kafarah (Expiation)
-  oaths: Oaths
-  misc: Miscellaneous
-  women: Women
-  sects: Sects and groups
-  zina: Zina (Adultery)
-  refutal: Refutals
-  madhab: Madhabs
-  tawassul: Tawassul
-  homo: Homosexuals and lesbianism
-  waqf: Waqf (Endowment)
-  buyu: Al-Buyu' (Sales)
-  fiqh: Fiqh
-  non: Non-Muslims
-  walabara: Al-Wala' Wal-Bara'
+  - name: Creed
+    link: /creeds
+  - name: Tafsir
+    link: /tafsir
+  - name: Salah (Prayers)
+    link: /salah
+  - name: Hajj (Pilgrimage)
+    link: /hajj
+  - name: Umrah
+    link: /umrah
+  - name: Zakah
+    link: /zakah
+  - name: Shawm (Fasting)
+    link: /shawm
+  - name: Ramadan
+    link: /ramadan
+  - name: Taharah (Purification)
+    link: /taharah
+  - name: Jihad
+    link: /jihad
+  - name: Hadiths Sunnah sciences
+    link: /sunnah
+  - name: Transactions
+    link: /transactions
+  - name: Nikah (Marriage)
+    link: /nikah
+  - name: Talaq (Divorce)
+    link: /talaq
+  - name: Funerals
+    link: /funerals
+  - name: Kafarah (Expiation)
+    link: /kafarah
+  - name: Oaths
+    link: /oaths
+  - name: Miscellaneous
+    link: /misc
+  - name: Women
+    link: /women
+  - name: Sects and groups
+    link: /sects
+  - name: Zina (Adultery)
+    link: /zina
+  - name: Refutals
+    link: /refutals
+  - name: Madhabs
+    link: /madhabs
+  - name: Tawassul
+    link: /tawassul
+  - name: Homosexuals and lesbianism
+    link: /homosexuals
+  - name: Waqf (Endowment)
+    link: /waqf
+  - name: Al-Buyu' (Sales)
+    link: /buyu
+  - name: Fiqh
+    link: /fiqh
+  - name: Non-Muslims
+    link: /non-muslims
+  - name: Al-Wala' Wal-Bara'
+    link: /walabara
 
 pagination:
   next: Next
