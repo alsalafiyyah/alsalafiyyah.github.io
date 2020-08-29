@@ -15,19 +15,20 @@ permalink: /categorys/
     </a></li>
     {% endfor %}
 </ul>
-         {% for tag in tags %} 
+
             <div class="tabContent" id="{{ tag[0] | slugify }}" role="tabpanel" aria-labelledby="home-tab">
       <h3 id="{{ tag[0] | slugify }}"> {{ tag[0] }}</h3>
       <p>{{ tag | last | size }} fatwas</p>
-        <ul class="later on">
+        <ul>
+         {% for tag in tags %} 
         {% for post in tag[1] %}
-          <a class="post-subtitle" href="{{ site.baseurl }}{{ post.url }}">
+          <a href="{{ site.baseurl }}{{ post.url }}">
         <li>
           {{ post.title }}
         </li>
         </a>
         {% endfor %}
+        {% endfor %}
         </ul>
             </div>
-        {% endfor %}
 
