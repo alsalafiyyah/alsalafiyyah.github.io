@@ -15,6 +15,8 @@ permalink: /topic/
  <span class="date">Recommended for you</span>
 </header>
 
+<div class="row">
+ <div class="col-6 col-12-small">
 <div class="box">
 <h4><a class="icon solid fa fa-folder-open" href="/salah/"> Salah (Prayers)</a></h4>
 <ul class="posts">
@@ -26,7 +28,8 @@ permalink: /topic/
   {% endfor %}
 </ul>
 </div>
-
+</div>
+ <div class="col-6 col-12-small">
 <div class="box">
 <h4><a class="icon solid fa fa-folder-open" href="/tafsir-quran/"> Qur'an Tafsir (Exegesis)</a></h4>
 <ul class="posts">
@@ -37,6 +40,8 @@ permalink: /topic/
     {% endif %}
   {% endfor %}
 </ul>
+</div>
+</div>
 </div>
 
 <div class="box">
