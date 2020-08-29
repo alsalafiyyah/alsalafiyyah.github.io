@@ -49,11 +49,11 @@
     link: /waqf
   - name: Al-Buyu' (Sales)
     link: /buyu
-  - name: Fiqh
-    link: /fiqh
   - name: Non-Muslims
     link: /non-muslims
   - name: Al-Wala' Wal-Bara'
+    link: /walabara
+  - name: Mawlids (Celebrations)
     link: /walabara
 
 pagination:
