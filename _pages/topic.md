@@ -91,21 +91,21 @@ permalink: /topic/
 <div class="row">
  <div class="col-6 col-12-small">
   <ul>
-   <li><a class="icon solid fa fa-folder" href="/walabara/"> Al-Wala' wal-Bara'</a></li>
+   <li><a class="icon solid fa fa-folder" href="/walabara/"> {{site.data.settings.chapters.walabara}}</a></li>
    <li><a class="icon solid fa fa-file" href="/faq/"> What is Salafiyyah</a></li>
-   <li><a class="icon solid fa fa-folder" href="/madhabs/"> Madhabs</a></li>
+   <li><a class="icon solid fa fa-folder" href="/madhabs/"> {{site.data.settings.chapters.funeral}}</a></li>
    <li><a class="icon solid fa fa-folder" href="/refutals/"> Refutals</a></li>
    <li><a class="icon solid fa fa-folder disabled" href="#"> Women and Hijab</a></li>
-   <li><a class="icon solid fa fa-folder disabled" href="#"> Zina (Adultery)</a></li>
-   <li><a class="icon solid fa fa-folder disabled" href="#"> Marriage</a></li>
+   <li><a class="icon solid fa fa-folder disabled" href="#"> {{site.data.settings.chapters.zina}}</a></li>
+   <li><a class="icon solid fa fa-folder disabled" href="#"> {{site.data.settings.chapters.nikah}}</a></li>
   </ul>
  </div>
   <div class="col-6 col-12-small">
   <ul>
-   <li><a class="icon solid fa fa-folder" href="/sects/"> The sects and groups</a></li>
-   <li><a class="icon solid fa fa-folder" href="/tawassul/"> Tawassul</a></li>
+   <li><a class="icon solid fa fa-folder" href="/sects/"> {{site.data.settings.chapters.sects}}</a></li>
+   <li><a class="icon solid fa fa-folder" href="/tawassul/"> {{site.data.settings.chapters.tawassul}}</a></li>
    <li><a class="icon solid fa fa-folder" href="/funerals/"> {{site.data.settings.chapters.funeral}}</a></li>
-   <li><a class="icon solid fa fa-folder" href="/non-muslims/"> Non-Muslims</a></li>
+   <li><a class="icon solid fa fa-folder" href="/non-muslims/"> {{site.data.settings.chapters.non}}</a></li>
    <li><a class="icon solid fa fa-folder disabled" href="#"> {{site.data.settings.chapters.homo}}</a></li>
    <li><a class="icon solid fa fa-folder disabled" href="#"> {{site.data.settings.chapters.misc}}</a></li>
    <li><a class="icon solid fa fa-folder disabled" href="#"> {{site.data.settings.chapters.talaq}}</a></li>

@@ -18,16 +18,17 @@
   oaths: Oaths
   misc: Miscellaneous
   women: Women
-  sect: Sects and groups
-  zina: Adultery
+  sects: Sects and groups
+  zina: Zina (Adultery)
   refutal: Refutals
   madhab: Madhabs
   tawassul: Tawassul
   homo: Homosexuals
-  waqf: Waqf
+  waqf: Waqf (Endowment)
   buyu: Al-Buyu' (Sales)
   fiqh: Fiqh
   non: Non-Muslims
+  walabara: Al-Wala' Wal-Bara'
 
 pagination:
   next: Next
