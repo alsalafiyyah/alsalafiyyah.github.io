@@ -1,4 +1,34 @@
-﻿pagination:
+﻿chapters: 
+  creed: Creed
+  tafsir: Tafsir
+  salah: Salah
+  hajj: Hajj
+  umrah: Umrah
+  zakah: Zakah
+  shawm: Fasting
+  ramadan: Ramadan
+  taharah: Taharah
+  jihad: Jihad
+  hadith: Hadiths
+  transaction: Transactions
+  marriage: Marriage
+  talaq: Divorce
+  funeral: Funerals
+  kafarah: Kafarah
+  oaths: Oaths
+  misc: Micellaneous
+  women: Women
+  sect: Sects and groups
+  zina: Adultery
+  refutal: Refutals
+  madhab: Madhabs
+  tawassul: Tawassul
+  homo: Homosexuals
+  waqf: Waqf
+  buyu: Sales
+  fiqh: Fiqh
+
+pagination:
   next: Next
   prev: Prev
 
@@ -34,33 +64,3 @@ social:
   wp: Wordpress
   wa: WhatsApp
   sc: Soundcloud
-
-chapters: 
-  creed: Creed
-  tafsir: Tafsir
-  salah: Salah
-  hajj: Hajj
-  umrah: Umrah
-  zakah: Zakah
-  shawm: Fasting
-  ramadan: Ramadan
-  taharah: Taharah
-  jihad: Jihad
-  hadith: Hadiths
-  transaction: Transactions
-  marriage: Marriage
-  talaq: Divorce
-  funeral: Funerals
-  kafarah: Kafarah
-  oaths: Oaths
-  misc: Micellaneous
-  women: Women
-  sect: Sects and groups
-  zina: Adultery
-  refutal: Refutals
-  madhab: Madhabs
-  tawassul: Tawassul
-  homo: Homosexuals
-  waqf: Waqf
-  buyu: Sales
-  fiqh: Fiqh
