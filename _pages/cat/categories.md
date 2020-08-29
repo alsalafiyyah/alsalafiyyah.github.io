@@ -16,11 +16,9 @@ permalink: /categorys/
     {% endfor %}
 </div>
 
-
-<div id="myTab" role="tablist">
-    {% for tag in tags %} 
-<div class="tab-content mytab-content" id="myTabContent">
-<div class="box tab-pane fade" id="{{ tag[0] | slugify }}" role="tabpanel">
+        <div class="tab-content mytab-content" id="myTabContent">
+         {% for tag in tags %} 
+            <div class="tab-pane fade show active" id="{{ tag[0] | slugify }}" role="tabpanel" aria-labelledby="home-tab">
       <h3 id="{{ tag[0] | slugify }}"> {{ tag[0] }}</h3>
       <p>{{ tag | last | size }} fatwas</p>
       <ul class="later on">
@@ -30,12 +28,19 @@ permalink: /categorys/
           {{ post.title }}
         </li>
         </a>
+            </div>
+        {% else %}
+            <div class="tab-pane fade" id="{{ tag[0] | slugify }}" role="tabpanel" aria-labelledby="history-tab">
+      <h3 id="{{ tag[0] | slugify }}"> {{ tag[0] }}</h3>
+      <p>{{ tag | last | size }} fatwas</p>
+      <ul class="later on">
+        {% for post in tag[1] %}
+          <a class="post-subtitle" href="{{ site.baseurl }}{{ post.url }}">
+        <li>
+          {{ post.title }}
+        </li>
+        </a>
+            </div>
         {% endfor %}
-      </ul>
-        <a href="#top" class="btn btn-default">
-          Back to top
-        </a> 
-</div>
-</div>
-    {% endfor %}
-</div>
+        </div>
+
