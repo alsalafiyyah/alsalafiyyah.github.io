@@ -75,15 +75,22 @@ permalink: /topic/
 </ul>
 </div>
 
-<div class="box">
-<h4><a class="icon solid fa fa-folder" href="/faq/"> What is Salafiyyah</a></h4>
-<h4><a class="icon solid fa fa-folder" href="/sects/"> The sects & groups</a></h4>
-<h4><a class="icon solid fa fa-folder" href="/tawassul/"> Tawassul</a></h4>
-<h4><a class="icon solid fa fa-folder" href="/funerals/"> Funerals</a></h4>
-<h4><a class="icon solid fa fa-folder" href="/madhabs/"> Madhabs</a></h4>
-<h4><a class="icon solid fa fa-folder" href="/refutals/"> Refutals</a></h4>
-<h4><a class="icon solid fa fa-folder" href="/non-muslims/"> Non-Muslims</a></h4>
-<h4><a class="icon solid fa fa-folder" href="/walabara/"> Al-Wala' wal-Bara'</a></h4>
+<div class="row">
+ <div class="col-6 col-12-small">
+  <ul>
+   <li><a class="icon solid fa fa-folder" href="/walabara/"> Al-Wala' wal-Bara'</a></li>
+   <li><a class="icon solid fa fa-folder" href="/faq/"> What is Salafiyyah</a></li>
+   <li><a class="icon solid fa fa-folder" href="/madhabs/"> Madhabs</a></li>
+   <li><a class="icon solid fa fa-folder" href="/refutals/"> Refutals</a></li>
+  </ul>
+
+  <ul>
+   <li><a class="icon solid fa fa-folder" href="/sects/"> The sects & groups</a></li>
+   <li><a class="icon solid fa fa-folder" href="/tawassul/"> Tawassul</a></li>
+   <li><a class="icon solid fa fa-folder" href="/funerals/"> Funerals</a></li>
+   <li><a class="icon solid fa fa-folder" href="/non-muslims/"> Non-Muslims</a></li>
+  </ul>
+ </div>
 </div>
 
 </article>
