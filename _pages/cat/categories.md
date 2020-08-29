@@ -34,7 +34,7 @@ permalink: /categorys/
       <h3 id="{{ tag[0] | slugify }}"> {{ tag[0] }}</h3>
       <p>{{ tag | last | size }} fatwas</p>
       <ul class="later on">
-        {% for post in tag[1] %}
+
           <a class="post-subtitle" href="{{ site.baseurl }}{{ post.url }}">
         <li>
           {{ post.title }}
