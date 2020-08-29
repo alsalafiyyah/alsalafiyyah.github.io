@@ -5,15 +5,17 @@ active: categories
 permalink: /categorys/
 ---
 
-<div class="box">
+<div class="nav nav-mytabs" id="myTab" role="tablist">
+<div class="box nav-item">
     {% assign tags = site.categories | sort %}
     {% for tag in tags %}
-    <a id="{{category}}" data-toggle="tab" href="#{{ tag[0] | slugify }}">
+    <a class="nav-link" id="{{category}}" data-toggle="tab" href="#{{ tag[0] | slugify }}">
       <span class="fa fa-folder-open" aria-hidden="true"> 
         {{ tag[0] }} ({{ tag | last | size }})
       </span>
     </a>
     {% endfor %}
+</div>
 </div>
 
         <div class="tab-content mytab-content" id="myTabContent">
