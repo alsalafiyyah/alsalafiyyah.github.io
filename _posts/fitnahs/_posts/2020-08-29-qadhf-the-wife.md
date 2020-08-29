@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 302"
 hijri: Muharram 10, 1442 AH
 date: 2020/08/29
-category: [qadhf, marriage]
+category: [qadhf, marriage, fitnahs]
 shaykhs: 
  - Shaykh Abdul-Razzaq al-Afify
  - Shaykh Abdullah ibn Ghudayyan
