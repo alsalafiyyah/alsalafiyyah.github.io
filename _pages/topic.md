@@ -85,7 +85,7 @@ permalink: /topic/
   </ul>
 
   <ul>
-   <li><a class="icon solid fa fa-folder" href="/sects/"> The sects & groups</a></li>
+   <li><a class="icon solid fa fa-folder" href="/sects/"> The sects and groups</a></li>
    <li><a class="icon solid fa fa-folder" href="/tawassul/"> Tawassul</a></li>
    <li><a class="icon solid fa fa-folder" href="/funerals/"> Funerals</a></li>
    <li><a class="icon solid fa fa-folder" href="/non-muslims/"> Non-Muslims</a></li>
