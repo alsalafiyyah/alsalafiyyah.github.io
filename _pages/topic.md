@@ -104,11 +104,11 @@ permalink: /topic/
   <ul>
    <li><a class="icon solid fa fa-folder" href="/sects/"> The sects and groups</a></li>
    <li><a class="icon solid fa fa-folder" href="/tawassul/"> Tawassul</a></li>
-   <li><a class="icon solid fa fa-folder" href="/funerals/"> Funerals</a></li>
+   <li><a class="icon solid fa fa-folder" href="/funerals/"> {{site.data.settings.chapters.funeral}}</a></li>
    <li><a class="icon solid fa fa-folder" href="/non-muslims/"> Non-Muslims</a></li>
-   <li><a class="icon solid fa fa-folder disabled" href="#"> Homosexuals</a></li>
-   <li><a class="icon solid fa fa-folder disabled" href="#"> Miscellaneous</a></li>
-   <li><a class="icon solid fa fa-folder disabled" href="#"> Divorce</a></li>
+   <li><a class="icon solid fa fa-folder disabled" href="#"> {{site.data.settings.chapters.homo}}</a></li>
+   <li><a class="icon solid fa fa-folder disabled" href="#"> {{site.data.settings.chapters.misc}}</a></li>
+   <li><a class="icon solid fa fa-folder disabled" href="#"> {{site.data.settings.chapters.talaq}}</a></li>
   </ul>
  </div>
 </div>
