@@ -51,6 +51,8 @@ permalink: /topic/
 </ul>
 </div>
 
+<div class="row">
+ <div class="col-6 col-12-small">
 <div class="box">
 <h4><a class="icon solid fa fa-folder-open" href="/prophets/"> Prophets & Messengers</a></h4>
 <ul class="posts">
@@ -62,8 +64,10 @@ permalink: /topic/
   {% endfor %}
 </ul>
 </div>
+</div>
 
-<div class="box">
+ <div class="col-6 col-12-small">
+ <div class="box">
 <h4><a class="icon solid fa fa-folder-open" href="/wahhabism/"> Wahhabism</a></h4>
 <ul class="posts">
   {% for post in site.categories.wahhabism | limit:3 %}
@@ -73,6 +77,8 @@ permalink: /topic/
     {% endif %}
   {% endfor %}
 </ul>
+</div>
+ </div>
 </div>
 
 <div class="row">
