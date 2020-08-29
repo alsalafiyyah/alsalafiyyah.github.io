@@ -18,6 +18,17 @@ permalink: /categorys/
 </div>
 
 <div class="box">
+    {% assign categories = site.categories | sort %}
+    {% for category in categories %}
+    <a href="#{{ tag[0] | slugify }}">
+      <span class="fa fa-folder-open" aria-hidden="true"> 
+        {{category[0]}} ({{ category | last | size }})
+      </span>
+    </a>
+    {% endfor %}
+</div>
+
+<div class="box">
     {% assign tags = site.categories | sort %}
     {% for tag in tags %}
     <a href="#{{ tag[0] | slugify }}">
