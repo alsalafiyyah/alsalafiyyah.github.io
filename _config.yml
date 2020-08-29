@@ -19,11 +19,9 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-category-pages
-permalink: /:title/
+permalink: /:year/:month/:day/:title:output_ext
 paginate:       15
 paginate_path: "/:num/"
-category_dir: "muqolat"
-category_layout: "index.html"
 exclude:
   - Gemfile
   - .gitignore
