@@ -95,6 +95,9 @@ permalink: /topic/
    <li><a class="icon solid fa fa-file" href="/faq/"> What is Salafiyyah</a></li>
    <li><a class="icon solid fa fa-folder" href="/madhabs/"> Madhabs</a></li>
    <li><a class="icon solid fa fa-folder" href="/refutals/"> Refutals</a></li>
+   <li><a class="icon solid fa fa-folder disabled" href="#"> Women and Hijab</a></li>
+   <li><a class="icon solid fa fa-folder disabled" href="#"> Zina (Adultery)</a></li>
+   <li><a class="icon solid fa fa-folder disabled" href="#"> Marriage</a></li>
   </ul>
  </div>
   <div class="col-6 col-12-small">
@@ -103,6 +106,9 @@ permalink: /topic/
    <li><a class="icon solid fa fa-folder" href="/tawassul/"> Tawassul</a></li>
    <li><a class="icon solid fa fa-folder" href="/funerals/"> Funerals</a></li>
    <li><a class="icon solid fa fa-folder" href="/non-muslims/"> Non-Muslims</a></li>
+   <li><a class="icon solid fa fa-folder disabled" href="#"> Homosexuals</a></li>
+   <li><a class="icon solid fa fa-folder disabled" href="#"> Miscellaneous</a></li>
+   <li><a class="icon solid fa fa-folder disabled" href="#"> Divorce</a></li>
   </ul>
  </div>
 </div>
