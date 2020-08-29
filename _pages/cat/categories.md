@@ -23,26 +23,15 @@ permalink: /categorys/
             <div class="tab-pane fade show active" id="{{ tag[0] | slugify }}" role="tabpanel" aria-labelledby="home-tab">
       <h3 id="{{ tag[0] | slugify }}"> {{ tag[0] }}</h3>
       <p>{{ tag | last | size }} fatwas</p>
-      <ul class="later on">
+        <ul class="later on">
         {% for post in tag[1] %}
           <a class="post-subtitle" href="{{ site.baseurl }}{{ post.url }}">
         <li>
           {{ post.title }}
         </li>
         </a>
-            </div>
-        {% else %}
-            <div class="tab-pane fade" id="{{ tag[0] | slugify }}" role="tabpanel" aria-labelledby="history-tab">
-      <h3 id="{{ tag[0] | slugify }}"> {{ tag[0] }}</h3>
-      <p>{{ tag | last | size }} fatwas</p>
-      <ul class="later on">
-
-          <a class="post-subtitle" href="{{ site.baseurl }}{{ post.url }}">
-        <li>
-          {{ post.title }}
-        </li>
-        </a>
-    {% endfor %}
+        {% endfor %}
+        </ul>
             </div>
         {% endfor %}
         </div>
