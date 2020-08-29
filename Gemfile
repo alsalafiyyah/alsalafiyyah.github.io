@@ -23,4 +23,5 @@ group :jekyll_plugins do
   gem "liquid"
   gem "github-pages", group: :jekyll_plugins
   gem "jekyll-category-pages"
+  gem "jekyll-watch"
 end

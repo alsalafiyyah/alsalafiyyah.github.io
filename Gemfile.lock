@@ -262,6 +262,7 @@ DEPENDENCIES
   jekyll-remote-theme
   jekyll-seo-tag
   jekyll-sitemap
+  jekyll-watch
   liquid
 
 BUNDLED WITH
