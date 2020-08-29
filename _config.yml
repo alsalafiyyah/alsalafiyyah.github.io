@@ -22,6 +22,8 @@ plugins:
 permalink: /:year/:month/:day/:title:output_ext
 paginate:       15
 paginate_path: "/:num/"
+category_path: /category
+category_layout: category_index.html
 exclude:
   - Gemfile
   - .gitignore
