@@ -20,7 +20,7 @@ permalink: /categorys/
 <div class="box">
     {% assign categories = site.categories | sort %}
     {% for category in categories %}
-    <a href="#{{ tag[0] | slugify }}">
+    <a href="#{{ category[0] | slugify }}">
       <span class="fa fa-folder-open" aria-hidden="true"> 
         {{category[0]}} ({{ category | last | size }})
       </span>
