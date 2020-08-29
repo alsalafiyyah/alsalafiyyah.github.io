@@ -16,7 +16,7 @@ permalink: /categorys/
     {% endfor %}
 </ul>
 
-            <div class="tabContent" id="{{ tag[0] | slugify }}" role="tabpanel" aria-labelledby="home-tab">
+            <div class="tabContent" id="{{ tag[0] | slugify }}">
       <h3 id="{{ tag[0] | slugify }}"> {{ tag[0] }}</h3>
       <p>{{ tag | last | size }} fatwas</p>
         <ul>
