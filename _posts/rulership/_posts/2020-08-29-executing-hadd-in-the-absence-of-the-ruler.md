@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Executing Hadd in the absence of the ruler"
 publisher: "alsalafiyyah@icloud.com"
@@ -26,7 +26,7 @@ Allah also says, "**And verily, I am indeed forgiving to him who repents, believ
 
 The Prophet (peace be upon him) said, "**Islam wipes out all that have gone before it (previous misdeeds); and repentance wipes out all that have been done before it.**" [^1]
 
-He (peace be upon him) also said, "**Whoever repents of sins is like a sinless person.**"
+He (peace be upon him) also said, "**Whoever repents of sins is like a sinless person.**" {^2]
 
 May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
 
