@@ -6,11 +6,11 @@ permalink: /muqolat/
 ---
 
 <article class="post">
-<ul class="posts">
+<ul class="posts" style="list-style: none;">
   {% for post in site.categories.basic %}
     {% if post.url %}
     <li>
-      <b><a href="{{ post.url }}">{{ post.title }}</a></b>
+      <i class="fas fa-feather"></i> <b><a href="{{ post.url }}">{{ post.title }}</a></b>
       <p>{{ post.content | strip_html | truncatewords: 30 }}</p>
     </li>
     {% endif %}
