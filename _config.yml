@@ -9,6 +9,7 @@ author:
 encoding:         UTF-8
 markdown:       kramdown
 remote_theme: alsalafiyyah/massively-jekyll-theme
+github: [metadata]
 include:
   - _pages
   - _site
