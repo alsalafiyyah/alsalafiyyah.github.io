@@ -15,7 +15,7 @@ shaykhs:
 
 Question: 
 
-he Prophet (peace be upon him) said: "**Love Arabs for three reasons: I am an Arab, the inhabitants of Jannah (Paradise) speak Arabic, and the Glorious Qur'an is revealed in Arabic.**" Was this Hadith authentically reported from the Prophet (peace be upon him)? What is its rank regarding authenticity. Is it Sahih (authentic), Da'if (weak), or Mawdu' (fabricated)? In fact, some people are confused while others, finding support in the Hadith, claim that people who enter Jannah will speak Arabic.
+The Prophet (peace be upon him) said: "**Love Arabs for three reasons: I am an Arab, the inhabitants of Jannah (Paradise) speak Arabic, and the Glorious Qur'an is revealed in Arabic.**" Was this Hadith authentically reported from the Prophet (peace be upon him)? What is its rank regarding authenticity. Is it Sahih (authentic), Da'if (weak), or Mawdu' (fabricated)? In fact, some people are confused while others, finding support in the Hadith, claim that people who enter Jannah will speak Arabic.
 
 Answer:
 
