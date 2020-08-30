@@ -19,7 +19,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-category-pages
-permalink: /:year/:month/:day/:title:output_ext
+permalink: /:title
 paginate:       15
 paginate_path: "/:num/"
 category_path: /category
