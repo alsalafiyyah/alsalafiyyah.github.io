@@ -1,4 +1,24 @@
-﻿chapters: 
+﻿topic:
+- title: Miscellaneous
+ sub:
+   - name: Luqatah (a lost item found by someone else)
+     link: /luqatah/
+   - name: Insurance
+     link: /insurance/
+   - name: Loan
+     link: /loan/
+   - name: Foundling
+     link: /foundling/
+   - name: Circumcision
+     link: /circumcision/
+- title: Tafsir (Exegesis / Explanation)
+ sub: 
+   - name: Qur'an
+     link: /tafsir-quran/
+   - name: Hadiths
+     link: /hadiths/
+
+chapters: 
   - name: Salah (Prayers)
     link: /salah/
   - name: Hajj (Pilgrimage) and 'Umrah
