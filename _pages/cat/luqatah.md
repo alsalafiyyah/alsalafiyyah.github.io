@@ -13,7 +13,7 @@ permalink: /luqatah/
     </li>
     {% endif %}
     {% else %}
-    <p>There are no fatwas for this category.</p>
+    <p>{{site.data.settings.page.no-fatwas}}</p>
   {% endfor %}
 </ul>
 </article>

@@ -14,6 +14,8 @@ permalink: /wahhabism/
      <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
     {% endif %}
+    {% else %}
+    <p>{{site.data.settings.page.no-fatwas}}</p>
   {% endfor %}
 </ul>
 </article>

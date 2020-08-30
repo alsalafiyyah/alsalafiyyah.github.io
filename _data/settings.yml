@@ -60,6 +60,9 @@ pagination:
   next: Next
   prev: Prev
 
+page: 
+  no-fatwas: There are no fatwas for this category
+
 post: 
   readmore: Read more
   source: Source

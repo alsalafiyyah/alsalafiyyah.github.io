@@ -15,6 +15,8 @@ permalink: /sects/
     <li><a href="{{ post.url }}">{{ post.title }}</a>
     </li>
     {% endif %}
+    {% else %}
+    <p>{{site.data.settings.page.no-fatwas}}</p>
   {% endfor %}
   <p><i class="fas fa-arrow-right"></i> <a href="/sufism/">View all</a></p>
 </ul>
@@ -28,6 +30,8 @@ permalink: /sects/
     <li><a href="{{ post.url }}">{{ post.title }}</a>
     </li>
     {% endif %}
+    {% else %}
+    <p>{{site.data.settings.page.no-fatwas}}</p>
   {% endfor %}
   <p><i class="fas fa-arrow-right"></i> <a href="/shiah/">View all</a></p>
 </ul>
@@ -41,6 +45,8 @@ permalink: /sects/
     <li><a href="{{ post.url }}">{{ post.title }}</a>
     </li>
     {% endif %}
+    {% else %}
+    <p>{{site.data.settings.page.no-fatwas}}</p>
   {% endfor %}
 </ul>
 </div>
@@ -53,6 +59,8 @@ permalink: /sects/
     <li><a href="{{ post.url }}">{{ post.title }}</a>
     </li>
     {% endif %}
+    {% else %}
+    <p>{{site.data.settings.page.no-fatwas}}</p>
   {% endfor %}
 </ul>
 </div>
@@ -65,6 +73,8 @@ permalink: /sects/
     <li><a href="{{ post.url }}">{{ post.title }}</a>
     </li>
     {% endif %}
+    {% else %}
+    <p>{{site.data.settings.page.no-fatwas}}</p>
   {% endfor %}
 </ul>
 </div>
@@ -77,6 +87,8 @@ permalink: /sects/
     <li><a href="{{ post.url }}">{{ post.title }}</a>
     </li>
     {% endif %}
+    {% else %}
+    <p>{{site.data.settings.page.no-fatwas}}</p>
   {% endfor %}
 </ul>
 </div>
@@ -89,6 +101,8 @@ permalink: /sects/
     <li><a href="{{ post.url }}">{{ post.title }}</a>
     </li>
     {% endif %}
+    {% else %}
+    <p>{{site.data.settings.page.no-fatwas}}</p>
   {% endfor %}
 </ul>
 </div>
@@ -101,6 +115,8 @@ permalink: /sects/
     <li><a href="{{ post.url }}">{{ post.title }}</a>
     </li>
     {% endif %}
+    {% else %}
+    <p>{{site.data.settings.page.no-fatwas}}</p>
   {% endfor %}
 </ul>
 </div>
