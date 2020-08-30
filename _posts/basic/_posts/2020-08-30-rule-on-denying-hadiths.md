@@ -1,11 +1,11 @@
----
+﻿---
 layout: post
 title: "Ruling on denying the Hadiths of the Messenger (peace be upon him)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 19867-2"
 hijri: Muharram 11, 1442 AH
 date: 2020/08/30
-category: [tafsir, hadiths, general, quranism]
+category: [hadiths, general, quranism]
 shaykhs: 
  - Shaykh Abdul-Aziz ibn Baz
  - Shaykh Abdul-Aziz Aal al-Shaykh
