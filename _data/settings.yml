@@ -1,10 +1,8 @@
 ﻿chapters: 
   - name: Salah (Prayers)
     link: /salah/
-  - name: Hajj (Pilgrimage)
+  - name: Hajj (Pilgrimage) and 'Umrah
     link: /hajj/
-  - name: Umrah
-    link: /umrah/
   - name: Zakah
     link: /zakah/
   - name: Shawm (Fasting)
