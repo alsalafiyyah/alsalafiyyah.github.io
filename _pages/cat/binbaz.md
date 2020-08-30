@@ -2,7 +2,7 @@
 layout: blog_by_category
 title: "Fatwas of Ibn Baz"
 author: "Instagram@Alsalafiyyah"
-permalink: /binbaz/
+permalink: /categories/binbaz/
 ---
 
 <article class="post">
