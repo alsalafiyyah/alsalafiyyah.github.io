@@ -1,14 +1,13 @@
 ---
 layout: page
-title: "Test"
-active: walabara
+title: " Waqf (Endowment)"
 author: "Instagram@Alsalafiyyah"
-permalink: /test/
+permalink: /waqf/
 ---
 
 <article class="post">
 <ul class="posts">
-  {% for post in site.categories.habibi %}
+  {% for post in site.categories.waqf %}
     {% if post.url %}
     <li><a href="{{ post.url }}">{{ post.title }}</a>
     </li>
