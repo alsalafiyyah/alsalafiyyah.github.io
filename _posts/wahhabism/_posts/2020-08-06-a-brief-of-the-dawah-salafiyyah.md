@@ -3,13 +3,11 @@ layout: post
 title: "An overview of the Salafi Da'wah and the life of Shaykh Muhammad bin Abdul Wahhab"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 3"
-category: [salafism, wahhabism, binbaz, audios]
+category: [salafism, wahhabism, audios]
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_709/nour_70901.mp3
 link: shorturl.at/giQT2
 hijri: Dhul-Hijjah 16, 1441 AH
 date: 2020/08/6
-lang-ref: a-brief-of-the-dawah-salafiyyah
-locale: en
 shaykhs: Shaykh Abdul-Aziz ibn Baz
 ---
 

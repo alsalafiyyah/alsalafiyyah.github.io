@@ -1,11 +1,10 @@
 ﻿---
+layout: post
 title: "Is it true that Wahhabism criticizes the Prophet and his family"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa Shaykh ibn Baz 9/238"
-category: [wahhabism, binbaz]
+category: [wahhabism]
 hijri: Dhul-Qa'dah 26, 1441 AH
-language: en
-uid: is-it-true-wahhabism-antagonizes-ahlul-bayt and-criticizes-the-prophet
 shaykhs: Shaykh ibn Baz
 ---
 

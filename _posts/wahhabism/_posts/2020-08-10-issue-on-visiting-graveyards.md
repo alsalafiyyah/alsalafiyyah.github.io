@@ -2,12 +2,9 @@
 layout: post
 title: "Issue on visiting graveyards"
 publisher: "alsalafiyyah@icloud.com"
-language: en
 source: "Majmu' Fatawa wa Muqalat p.28/334"
 category: [sufism, binbaz, shirk, wahhabism]
 hijri: Dhul-Hijjah 20, 1441 AH
-date: 2020/08/10
-uid: issue-on-visiting-graveyards
 shaykhs: Shaykh Abdul-Aziz ibn Baz
 ---
 

@@ -2,12 +2,10 @@
 layout: post
 title: "Wahhabiyyah and Shaykh Muhammad ibn ‘Abdul-Wahhab"
 publisher: "alsalafiyyah@icloud.com"
-language: en
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 6477-3"
 hijri: Dhul-Hijjah 20, 1441 AH
 date: 2020/08/10
 category: [wahhabism]
-uid: wahhabiyyah-and-shaykh-muhammad-bin-abdul-wahhab
 shaykhs: 
  - Shaykh Abdul-Aziz ibn Baz
  - Shaykh Abdul-Razzaq al-Afify

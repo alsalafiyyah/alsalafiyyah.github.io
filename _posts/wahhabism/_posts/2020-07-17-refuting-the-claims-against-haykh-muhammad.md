@@ -3,11 +3,9 @@ layout: post
 title: "Refuting the claims against Shaykh Muhammad ibn Abdul-Wahhab and his Da'wah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa Shaykh ibn Baz 9/234"
-category: [wahhabism, binbaz, refutals]
+category: [wahhabism, refutals]
 date: 2020-07-17
 hijri: Dhul-Qa'dah 26, 1441 AH
-language: en
-uid: refuting-the-claims-against-haykh-muhammad
 shaykhs: Shaykh ibn Baz
 muftis: Shaykh ibn Baz
 ---

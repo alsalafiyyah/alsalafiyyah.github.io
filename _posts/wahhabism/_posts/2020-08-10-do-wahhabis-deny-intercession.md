@@ -5,8 +5,6 @@ source: "Fatawa Al-Lajnah Ad-Da'imah no. 9420-2"
 hijri: Dhul-Hijjah 19, 1441 AH
 date: 2020/08/10 
 category: [wahhabism]
-lang-ref: do-wahhabis-deny-intercession
-locale: en
 shaykhs: Shaykh Abdul-Aziz ibn Baz
 ---
 

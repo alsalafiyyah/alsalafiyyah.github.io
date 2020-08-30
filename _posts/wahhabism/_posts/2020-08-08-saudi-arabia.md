@@ -6,8 +6,6 @@ source: "Majmu' Fatawa wa Muqolat 23/188"
 hijri: Dhul-Hijjah 18, 1441 AH
 category: [wahhabism]
 date: 2020/08/8
-language: en
-uid: saudi-arabia
 shaykhs: Shaykh Abdul-Aziz ibn Baz
 ---
 

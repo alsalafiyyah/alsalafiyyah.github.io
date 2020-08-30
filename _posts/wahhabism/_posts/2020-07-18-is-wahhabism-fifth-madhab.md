@@ -3,10 +3,8 @@ layout: post
 title: "Is Wahhabism a fifth Madhab?"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa Shaykh Ibn Baz 1/374"
-category: [wahhabism, binbaz]
+category: [wahhabism]
 hijri: Dhul-Qa'dah 27, 1441 AH
-lang-ref: is-wahhabism-fifth-madhab
-locale: en
 shaykhs: Shaykh ibn Baz
 ---
 

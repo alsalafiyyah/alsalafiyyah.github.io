@@ -8,8 +8,6 @@ mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_887/no
 link: shorturl.at/iKW36
 hijri: Dhul-Hijjah 16, 1441 AH
 date: 2020/08/6
-lang-ref: being-wahhabi
-locale: en
 shaykhs: Shaykh Abdul-Aziz ibn Baz
 permalink: /wahhabis/
 ---

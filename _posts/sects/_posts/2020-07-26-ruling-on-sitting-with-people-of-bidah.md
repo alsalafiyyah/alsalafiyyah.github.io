@@ -3,7 +3,7 @@ layout: post
 title: "Ruling on sitting with Mubtadi's (ones who introduces innovations in religion)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 28/267"
-category: [misc, creeds, innovators, ibnbaz]
+category: [sects, general]
 hijri: Dhu al-Hijjah 5, 1441 AH
 date: 2020/07/26
 shaykhs: Shaykh Ibn Baz

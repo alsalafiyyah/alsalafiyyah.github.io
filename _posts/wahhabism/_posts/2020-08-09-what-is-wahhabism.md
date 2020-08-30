@@ -3,12 +3,10 @@ layout: audio
 title: "Wahhabism, what is it?"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb 3, tape no. 218 question 6"
-category: [salafism, wahhabism, binbaz, audios]
+category: [salafism, wahhabism, audios]
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_461/46106.mp3
 hijri: Dhul-Hijjah 13, 1441 AH
 date: 2020/08/2
-language: en
-uid: what-is-wahhabism
 shaykhs: Shaykh Abdul-Aziz ibn Baz
 ---
 

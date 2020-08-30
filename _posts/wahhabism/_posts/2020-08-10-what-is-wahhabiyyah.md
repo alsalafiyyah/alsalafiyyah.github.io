@@ -2,12 +2,10 @@
 layout: post
 title: "What is Wahhabiyyah"
 publisher: "alsalafiyyah@icloud.com"
-language: en
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 9420-2"
 hijri: Dhul-Hijjah 19, 1441 AH
 date: 2020/08/10
 category: [wahhabism]
-uid: what-is-wahhabism
 shaykhs: 
  - Shaykh Abdul-Aziz ibn Baz
  - Shaykh Abdul-Razzaq al-Afify

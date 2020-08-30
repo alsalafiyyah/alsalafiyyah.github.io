@@ -4,9 +4,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Muqolat 8/34"
 hijri: Dhul-Hijjah 19, 1441 AH
 date: 2020/08/10
-lang-ref: wahhabi-country
 category: [wahhabism]
-locale: en
 shaykhs: Shaykh Abdul-Aziz ibn Baz
 ---
 

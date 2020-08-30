@@ -4,8 +4,7 @@ title: "They say that Imam Muhammad Ibn Abdul-Wahhab removed all the domes, with
 publisher: "alsalafiyyah@icloud.com"
 hijri: Dhul-Hijjah 24, 1441 AH
 date: 2020/08/14
-category: [wahhabism]
-uid: green-dome
+category: [wahhabism, audios]
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_864/nour_86402.mp3
 shaykhs: Shaykh Abdul-Aziz ibn Baz
 ---
