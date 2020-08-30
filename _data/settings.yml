@@ -53,6 +53,14 @@
     link: /mawlids/
   - name: Luqatah (a lost item found by someone else)
     link: /luqatah/
+  - name: Insurance
+    link: /insurance/
+  - name: Loan
+    link: /loan/
+  - name: Foundling
+    link: /foundling/
+  - name: Circumcision
+    link: /circumcision/
 
 pagination:
   next: Next
