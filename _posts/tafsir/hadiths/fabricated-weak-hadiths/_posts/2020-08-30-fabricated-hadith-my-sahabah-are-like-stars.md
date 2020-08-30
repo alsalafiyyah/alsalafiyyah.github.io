@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 12464-4"
 hijri: Muharram 11, 1442 AH
 date: 2020/08/30
-category: [tafsir, hadiths]
+category: [tafsir, hadiths, mawdu-daif]
 shaykhs: 
  - Shaykh Abdul-Aziz ibn Baz
  - Shaykh Abdul-Aziz Aal al-Shaykh
