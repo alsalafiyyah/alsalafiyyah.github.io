@@ -3,6 +3,7 @@ layout: blog_by_category
 title: "Fatwas of Ibn Baz"
 author: "Instagram@Alsalafiyyah"
 permalink: /categories/binbaz/
+category: binbaz
 ---
 
 <article class="post">
