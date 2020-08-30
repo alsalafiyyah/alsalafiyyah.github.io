@@ -53,6 +53,8 @@
     link: /relatives
   - name: Mawlids (Celebrations)
     link: /mawlids
+  - name: Luqatah
+    link: /luqatah
 
 pagination:
   next: Next
