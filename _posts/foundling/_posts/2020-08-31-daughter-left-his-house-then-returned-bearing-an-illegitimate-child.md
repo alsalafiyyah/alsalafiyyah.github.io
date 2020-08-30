@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 16843-5"
 hijri: Muharram 12, 1442 AH
 date: 2020/08/31
-category: [foundling]
+category: [foundling, zina]
 shaykhs: 
  - Shaykh Abdul-Aziz Aal al-Shaykh
  - Shaykh Abdul-Aziz ibn Baz
