@@ -22,7 +22,7 @@ Answer:
 
 The mentioned Hadith was not authentically reported from the Prophet (peace be upon him) because Yahya ibn Bastam was the only narrator of this Hadith and he was a weak narrator. 
 
-Ibn Hibban said: "It is not permissible to relate from him because he is one of the callers to [the Qadariyyah (a deviant sect that claims Allah has no power over His Creation and humans are independent of Him)](/qadariyyah]." 
+Ibn Hibban said: "It is not permissible to relate from him because he is one of the callers to [the Qadariyyah (a deviant sect that claims Allah has no power over His Creation and humans are independent of Him)](/qadariyyah)]." 
 
 This has been mentioned in the book of "Al-Jarh wal-Ta'dil". Also, Jumay' ibn Thawb is one of the narrators of this Hadith whom the author of "Lisan Al-Mizan" has described as Matruk (a narrator whose Hadith transmission was discarded due to unreliability). Al-Bukhari, Al-Daraqutni, and others said that his narrations were rejected.
 
