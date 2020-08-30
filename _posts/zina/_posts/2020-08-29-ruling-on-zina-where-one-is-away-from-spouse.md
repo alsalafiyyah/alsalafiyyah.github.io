@@ -8,7 +8,7 @@ date: 2020/08/29
 category: [zina, marriage]
 shaykhs: 
  - Shaykh Abdul-Aziz Ibn Baz
- - Shaykh Abdull-Razzaq al-Afify
+ - Shaykh Abdul-Razzaq al-Afify
  - Shaykh Abdullah ibn Qa'ud
 ---
 
