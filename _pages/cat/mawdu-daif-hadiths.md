@@ -1,15 +1,13 @@
 ---
 layout: page
-title: "Hadiths Explanation"
-active: hadiths
+title: "Mawdu' (Fabricated) or Da'if (Weak) Hadiths"
 author: "Instagram@Alsalafiyyah"
-permalink: /hadiths/
+permalink: /mawdu-daif/
 ---
 
 <article class="post">
-<a class="button small icon solid fa-download" href="/mawdu-daif/">Fabricated and weak Hadiths</a>
 <ul class="posts">
-  {% for post in site.categories.hadiths %}
+  {% for post in site.categories.mawdu-daif %}
     {% if post.url %}
     <li><a href="{{ post.url }}">{{ post.title }}</a>
     </li>
