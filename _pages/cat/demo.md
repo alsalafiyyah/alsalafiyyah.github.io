@@ -14,7 +14,7 @@ permalink: /test/
     </li>
     {% endif %}
     {% else %}
-    <p>There are no fatwas for this category.</p>
+    <p>There are no fatwas for this category. <a href="/topic">Try to use search form instead</a>.</p>
   {% endfor %}
 </ul>
 </article>
