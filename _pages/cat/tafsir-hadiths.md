@@ -7,7 +7,7 @@ permalink: /hadiths/
 ---
 
 <article class="post">
-<a class="button small icon solid fa-download" href="/mawdu-daif/">Fabricated and weak Hadiths</a>
+<a class="button small icon solid" href="/mawdu-daif/">Fabricated and weak Hadiths</a>
 <ul class="posts">
   {% for post in site.categories.hadiths %}
     {% if post.url %}
