@@ -10,7 +10,7 @@ permalink: /muqolat/
   {% for post in site.categories.basic %}
     {% if post.url %}
     <li>
-      <i class="fas fa-feather"></i> <b><a href="{{ post.url }}">{{ post.title }}</a></b>
+      <i class="fas fa-feather"></i> <span><b><a href="{{ post.url }}">{{ post.title }}</a></span></b>
       <p>{{ post.content | strip_html | truncatewords: 30 }}</p>
     </li>
     {% endif %}
