@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Hadith: 'Difference among my Ummah is a mercy'"
+title: "The Hadith: 'Difference among my Ummah is a mercy' [Fabricated Hadith]"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 16113"
 hijri: Muharram 11, 1442 AH
