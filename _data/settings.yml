@@ -1,60 +1,60 @@
 ﻿chapters: 
   - name: Salah (Prayers)
-    link: /salah
+    link: /salah/
   - name: Hajj (Pilgrimage)
     link: /hajj/
   - name: Umrah
-    link: /umrah
+    link: /umrah/
   - name: Zakah
-    link: /zakah
+    link: /zakah/
   - name: Shawm (Fasting)
-    link: /shawm
+    link: /shawm/
   - name: Taharah (Purification)
-    link: /taharah
+    link: /taharah/
   - name: Jihad
-    link: /jihad
+    link: /jihad/
   - name: Hadiths Sunnah sciences
-    link: /hadiths
+    link: /hadiths/
   - name: Nikah (Marriage)
-    link: /nikah
+    link: /nikah/
   - name: Talaq (Divorce)
-    link: /talaq
+    link: /talaq/
   - name: Funerals
-    link: /funerals
+    link: /funerals/
   - name: Kafarah (Expiation)
-    link: /kafarah
+    link: /kafarah/
   - name: Oaths
-    link: /oaths
+    link: /oaths/
   - name: Miscellaneous
-    link: /misc
+    link: /misc/
   - name: Women Hijab and adornment
-    link: /women
+    link: /women/
   - name: Sects and groups
-    link: /sects
+    link: /sects/
   - name: Zina (Adultery)
-    link: /zina
+    link: /zina/
   - name: Refutals
-    link: /refutals
+    link: /refutals/
   - name: Madhabs (Schools of jurisprudence)
     link: /madhabs
   - name: Tawassul
-    link: /tawassul
+    link: /tawassul/
   - name: Homosexuals and lesbianism
-    link: /homosexuals
+    link: /homosexuals/
   - name: Waqf (Endowment)
-    link: /waqf
+    link: /waqf/
   - name: Al-Buyu' (Sales) and Transactions
-    link: /buyu
+    link: /buyu/
   - name: Non-Muslims
-    link: /non-muslims
+    link: /non-muslims/
   - name: Al-Wala' Wal-Bara' (Loyalty and dissassiation for Allah's sake)
-    link: /walabara
+    link: /walabara/
   - name: Family and relatives
-    link: /relatives
+    link: /relatives/
   - name: Mawlids (Celebrations)
-    link: /mawlids
+    link: /mawlids/
   - name: Luqatah (a lost item found by someone else)
-    link: /luqatah
+    link: /luqatah/
 
 pagination:
   next: Next
