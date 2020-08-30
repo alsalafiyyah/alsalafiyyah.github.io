@@ -41,7 +41,7 @@ webmaster_verifications:
 
 # Manifest
 manifest_name: Salafiyyah
-manifest_description: The Salafi Da'wah is a Da'wah to follow the footsteps of the Messenger (peace be upon him), his Sahabah (Companions of the Prophet, may Allah be pleased with them), and those who follow them in righteousness (cf. Qur'an, al-Tawbah: 100).
+manifest_description: 
 manifest_lang: en
 manifest_background_color: "#fff"
 manifest_short_name:
