@@ -101,7 +101,7 @@ permalink: /topic/
 <div class="box">
 <h4>More</h4>
 {% for item in site.data.settings.chapters %}
- <a href="{{ item.link }}">{{ item.name }}</a>
+ <a href="{{ item.link }}">{{ item.name | split: "|" | join: ", " }}</a>
 {% endfor %}
 </div>
 
