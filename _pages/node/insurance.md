@@ -5,11 +5,11 @@ permalink: /insurance/
 ---
 
 <article class="post">
-<ul class="posts">
+<ul class="posts" style="list-style: none;">
   {% for post in site.categories.insurance %}
     {% if post.url %}
     <li>
-    <i class="fas fa-feather-alt"></i> <a href="{{ post.url }}"> {{ post.title }}</a>
+    <i class="fas fa-feather-alt"></i> <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
     {% endif %}
     {% else %}
