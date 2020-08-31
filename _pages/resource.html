@@ -8,7 +8,10 @@ permalink: /resource/
 {% if site.data.settings.resource %}
 {% for item in site.data.settings.resource %}
  <article>
-   <img  class="image fit" src="{{ item.img }}" alt="{{ item.name }}" />
+<header>
+ <h3>{{ item.name }}</h3>
+</header>
+   <img class="image fit" src="{{ item.img }}" alt="{{ item.name }}" />
    <p>{{ item.desc }}</p>
    <ul class="actions special">
     <li><a href="{{ item.link }}" class="button">Biography</a></li>
