@@ -1,18 +1,18 @@
 ﻿biography: 
   - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-    link: /biography/abdulaziz-al-shaykh
+    link: /biographies/abdulaziz-al-shaykh
   - name: Shaykh Abdul-Aziz ibn Baz
-    link: /biography/binbaz
+    link: /biographies/binbaz
   - name: Shaykh Salih ibn Fawzan Al-Fawzan
-    link: /biography/fawzan
+    link: /biographies/fawzan
   - name: Shaykh Bakr Abu Zayd
-    link: /biography/bakr
+    link: /biographies/bakr
   - name: Shaykh Abdullah ibn Ghudayyan
-    link: /biography/ghudayyan
+    link: /biographies/ghudayyan
   - name: Shaykh Abdul-Razzaq Al-Afify
-    link: /biography/afify
+    link: /biographies/afify
   - name: Shaykh Abdullah ibn Qa'ud
-    link: /biography/qaud
+    link: /biographies/qaud
 
 chapters: 
   - name: Salah (Prayers)
