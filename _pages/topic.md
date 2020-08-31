@@ -104,7 +104,7 @@ permalink: /topic/
 </header>
 
 {% for item in site.data.settings.chapters %}
- <a href="{{ item.link }}">{{ item.name | reverse | join: ", " }}</a>
+ <a href="{{ item.link }}">{{ item.name | join: ', ' }}</a>
 {% endfor %}
 
 
