@@ -19,8 +19,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
   - jekyll-sitemap
-  - jekyll-category-pages
-  - liquid
 permalink: /:title
 paginate:       20
 paginate_path: "/:num/"
