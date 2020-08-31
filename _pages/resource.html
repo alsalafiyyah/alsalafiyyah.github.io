@@ -10,7 +10,10 @@ permalink: /resource/
  <article>
    <img  class="image fit" src="{{ item.img }}" alt="{{ item.name }}" />
    <p>{{ item.desc }}</p>
-   <ul class="actions special"><li><a href="/biographies/" class="button">Biography</a></li></ul>
+   <ul class="actions special">
+    <li><a href="{{ item.link }}" class="button">Biography</a></li>
+    <li><a href="{{ item.web }}" class="button">Website</a></li>
+   </ul>
 </article>
 {% endfor %}
 {% endif %}
