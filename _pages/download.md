@@ -31,6 +31,13 @@ permalink: /downloads/
   <td><a class="button small icon solid fa-download" href="/pdf/binbaz-1.pdf">Download</a></td>
  </tr>
 
+ <tr>
+  <td><i class="fas fa-file-pdf"></i></td>
+  <td>The Wahhabi Myth</td>
+  <td>Haneef James Oliver</td>
+  <td><a class="button small icon solid fa-download" href="/pdf/thewahhabimyth.pdf">Download</a></td>
+ </tr>
+
  </tbody>
 </table>
 </article>
