@@ -6,7 +6,7 @@ permalink: /fatwas/walabara/
 <article class="post">
 {% for post in paginator.posts %}
     {% if post.categories contains 'walabara' %}
-        {{post}}
+        {{ post.content }}
     {% endif %}
 {% endfor %}
 </article>
