@@ -1,12 +1,12 @@
 ﻿---
 title: Al-Buyu' (Sales) and Transactions
 layout: page
-permalink: /buyu/
+permalink: /al-buyu/
 ---
 
 <article class="post">
 <ul class="posts">
-  {% for post in site.categories.sales %}
+  {% for post in site.categories.al-buyu %}
     {% if post.url %}
     <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
