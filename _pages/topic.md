@@ -103,7 +103,6 @@ permalink: /topic/
  <span class="date">More</span>
 </header>
 
-{% assign chapters | split: ", " %}
 {% for item in site.data.settings.chapters %}
  <a href="{{ item.link }}">{{ item.name | reverse | join: ", " }}</a>
 {% endfor %}
