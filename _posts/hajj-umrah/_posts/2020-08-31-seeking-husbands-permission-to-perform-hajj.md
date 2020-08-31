@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: "Seeking husband's permission to perform obligatory Hajj"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 5659"

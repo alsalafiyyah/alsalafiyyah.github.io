@@ -1,5 +1,5 @@
----
-layout: article
+﻿---
+layout: post
 title: "Hajj for minors"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 6736-1"

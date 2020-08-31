@@ -1,5 +1,5 @@
----
-layout: article
+﻿---
+layout: post
 title: "Importance of Makkah to Muslims"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 3056-10"

@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: "Ibrahim's proclamation to mankind to perform Hajj"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 6147-4"

@@ -1,5 +1,5 @@
----
-layout: article
+﻿---
+layout: post
 title: "Merit of Hajj"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 6614-1"
