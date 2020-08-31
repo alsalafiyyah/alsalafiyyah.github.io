@@ -98,6 +98,7 @@ permalink: /topic/
  </div>
 </div>
 
+<br/>
 <header class="major">
  <span class="date">More</span>
 </header>
