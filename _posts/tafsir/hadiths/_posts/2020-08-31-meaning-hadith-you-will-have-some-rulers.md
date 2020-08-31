@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 17320"
 hijri: Muharram 12, 1442 AH
 date: 2020/08/31
-category: ["tafsir, hadiths, rulership]
+category: ["tafsir", hadiths, rulership]
 shaykhs:
  - Shaykh Abdul-Aziz ibn Baz
  - Shaykh Abdullah ibn Ghudayyan
