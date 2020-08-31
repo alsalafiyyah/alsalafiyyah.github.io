@@ -14,7 +14,7 @@ shaykhs:
  - Shaykh Bakr Abu Zayd
 ---
 
-Questions:
+Question:
 
 Before his death, my father borrowed 3,000 Kuwaiti dinars and willed that this debt be repaid. Given that I am the executer of his will, should I repay the debt from the estate before distributing it to the heirs, or from one-third of it?
 

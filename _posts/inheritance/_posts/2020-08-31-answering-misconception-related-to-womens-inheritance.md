@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Answering misconception related to women's inheritance"
 publisher: "alsalafiyyah@icloud.com"
@@ -13,7 +13,7 @@ shaykhs:
  - Shaykh Abdullah ibn Qa'ud
 ---
 
-Questions:
+Question:
 
 There is a suspicious matter aroused by the enemies of Allah. They say that Islam wrongs women. When one dies and leaves behind a father, a mother, a wife and children, the wife receives half of the property and the father receives the rest even though he does not support the family. Why does the wife receive half of the property and why does she not receive the rest like the father?
 

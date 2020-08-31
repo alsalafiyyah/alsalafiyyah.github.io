@@ -12,7 +12,7 @@ shaykhs:
  - Shaykh Abdul-Razzaq al-Afify
 ---
 
-Questions:
+Question:
 
 A man died leaving a furnished house, including the bedroom. Does the bedroom with all its accessories belong to his widow or it should be shared among the heirs? The widow had lent the deceased some of her gold to help him complete a project. Should the value of this be taken from the estate and repaid to the widow or not? The orphans’ guardian lives in Riyadh, but the children and their mother live in Amman. As it would cost a lot to move them from Amman to Riyadh, is it permissible to transfer the children’s guardianship to Amman to be nearer to them? Please give us your Fatwa (legal opinion issued by a qualified Muslim scholar) on this, may Allah reward you with the best!
 

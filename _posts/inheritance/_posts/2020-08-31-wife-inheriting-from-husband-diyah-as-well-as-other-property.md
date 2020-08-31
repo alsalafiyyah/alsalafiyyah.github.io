@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "A wife inheriting from the husband's Diyah as well as other property"
 publisher: "alsalafiyyah@icloud.com"
@@ -13,7 +13,7 @@ shaykhs:
  - Shaykh Abdullah ibn Qa'ud
 ---
 
-Questions:
+Question:
 
 A client of mine, Dr. Muhammad Tariq Mahmud, has received 100,000 Riyals as Diyah (blood money) from the driver who caused the accident that killed his son. The question now is: Does the widow of the deceased have a right to a share in this money?
 

@@ -13,7 +13,7 @@ shaykhs:
  - Shaykh Abdullah ibn Qa'ud
 ---
 
-Questions:
+Question:
 
 Kindly be informed that I agreed to pay sixty thousand Riyals (60,000) as Mahr (mandatory gift to a bride from her groom), of which I presented eighteen thousand riyals upon contracting the marriage. My wife died leaving a daughter, and now her father demands that I pay the rest of Mahr. Please give your Fatwa (legal opinion issued by a qualified Muslim scholar) regarding my father-in-law's demand, bearing in mind that he received the remaining amount of Mahr. May Allah reward you with the best of this world and the Hereafter!
 

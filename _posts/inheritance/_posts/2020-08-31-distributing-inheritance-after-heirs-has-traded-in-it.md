@@ -12,7 +12,7 @@ shaykhs:
  - Shaykh Abdul-Razzaq al-Afify
 ---
 
-Questions:
+Question:
 
 My father was a merchant and he died in 1970, and left three million dirhams. I took over his trade in this sum of money. I had a married sister, two unmarried sisters and a brother who were under my guardianship until they became of age and married. I had to distribute the inheritance of our father between us, but no one told me this at that time. I am still running the trade, given that I am still the one who controls the money.
 

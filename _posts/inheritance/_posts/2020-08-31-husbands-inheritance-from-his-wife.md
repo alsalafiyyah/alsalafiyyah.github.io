@@ -12,7 +12,7 @@ shaykhs:
  - Shaykh Abdul-Razzaq al-Afify
 ---
 
-Questions:
+Question:
 
 A woman was killed and her family accepted the Diyah (blood money). Can her husband inherit from this Diyah? We appreciate your guidance. May Allah guide you!
 
