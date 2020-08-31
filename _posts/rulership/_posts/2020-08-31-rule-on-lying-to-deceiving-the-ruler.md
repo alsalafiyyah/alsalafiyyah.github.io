@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Ruling on lying to and deceiving the ruler"
 publisher: "alsalafiyyah@icloud.com"
@@ -9,7 +9,7 @@ category: [rulership]
 shaykhs: 
  - Shaykh Abdul-Aziz ibn Baz
  - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdul-Razza al-Afify
+ - Shaykh Abdul-Razzaq al-Afify
 ---
 
 Question: 

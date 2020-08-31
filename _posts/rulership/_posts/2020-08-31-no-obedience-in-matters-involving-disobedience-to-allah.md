@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "No obedience in matters involving disobedience to Allah"
 publisher: "alsalafiyyah@icloud.com"
@@ -9,7 +9,7 @@ category: [rulership, sin, general]
 shaykhs: 
  - Shaykh Abdul-Aziz ibn Baz
  - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdul-Razza al-Afify
+ - Shaykh Abdul-Razzaq al-Afify
  - Shaykh Abdullah ibn Qa'ud
 ---
 
