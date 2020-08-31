@@ -1,0 +1,14 @@
+---
+layout: page
+Title: Biographies
+active: biographies
+permalink: /biography/
+---
+
+<article class="post">
+<ul class="posts">
+{% for item in site.data.settings.biography %}
+ <li><a href="{{ item.link }}">{{ item.name }}</a></li>
+{% endfor %}
+</ul>
+</article>
