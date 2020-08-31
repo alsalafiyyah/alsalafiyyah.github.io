@@ -106,7 +106,7 @@ sidebar_menu:
     active: topic
   - name: Biographies
     link: /biographies/
-    active: biography
+    active: biographies
   - name: Downloads
     link: /downloads/
     active: downloads
