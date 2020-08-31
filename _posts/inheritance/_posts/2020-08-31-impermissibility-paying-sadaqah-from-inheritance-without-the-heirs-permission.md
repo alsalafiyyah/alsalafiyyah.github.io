@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 4990-5"
 hijri: Muharram 12, 1442 AH
 date: 2020/08/31
-category: [inheritance, marriage]
+category: [inheritance]
 shaykhs: 
  - Shaykh Abdul-Aziz ibn Baz
  - Shaykh Abdullah ibn Qa'ud
