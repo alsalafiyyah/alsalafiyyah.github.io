@@ -8,7 +8,7 @@ permalink: /resource/
 
 {% if site.data.settings.resource %}
 {% for item in site.data.settings.resource %}
- <img src="{{ item.img }}"/>
+ <img src="{{ item.img }}" alt="{{ item.name }}"/>
  <p>{{ item.name }}</p>
  <p>{{ item.desc }}</p>
 {% endfor %}
