@@ -98,11 +98,13 @@ permalink: /topic/
  </div>
 </div>
 
-<div class="box">
-<h4>More</h4>
+<header class="major">
+ <span class="date">//</span>
+</header>
+
 {% for item in site.data.settings.chapters %}
- <a href="{{ item.link }}">{{ item.name | join: " - " }}</a>
+ <a href="{{ item.link }}">{{ item.name }}</a>
 {% endfor %}
-</div>
+
 
 </article>
