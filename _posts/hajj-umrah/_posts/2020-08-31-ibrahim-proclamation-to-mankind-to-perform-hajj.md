@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 6147-4"
 hijri: Muharram 12, 1442 AH
 date: 2020/08/31
-category: [hajj-umrah, marraige]
+category: [hajj-umrah]
 shaykhs: 
  - Shaykh Abdul-Aziz ibn Baz
  - Shaykh Abdullah ibn Ghudayyan
