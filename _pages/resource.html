@@ -4,14 +4,14 @@ layout: page
 permalink: /resource/
 ---
 
-<article class="post">
-
+<section class="posts">
 {% if site.data.settings.resource %}
 {% for item in site.data.settings.resource %}
- <img src="{{ item.img }}" alt="{{ item.name }}"/>
- <p>{{ item.name }}</p>
- <p>{{ item.desc }}</p>
+ <article>
+   <img  class="image fit" src="{{ item.img }}" alt="{{ item.name }}" />
+   <p>{{ item.desc }}</p>
+   <ul class="actions special"><li><a href="/biographies/" class="button">Biography</a></li></ul>
+</article>
 {% endfor %}
 {% endif %}
-
-</article>
+</section>
