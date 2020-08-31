@@ -8,9 +8,9 @@ permalink: /resource/
 <dl>
 {% if site.data.settings.resource %}
 {% for item in site.data.settings.resource %}
- <dt>{{ item.name }}</dt>
+ <dt><a href="{{ item.web }}" target="_blank">{{ item.name }}</a></dt>
 <dd>
- <p>{{ item.desc }} <a href="{{ item.web }}" class="button" target="_blank">Website</a></p>
+ <p>{{ item.desc }}</p>
 </dd>
 {% endfor %}
 {% endif %}
