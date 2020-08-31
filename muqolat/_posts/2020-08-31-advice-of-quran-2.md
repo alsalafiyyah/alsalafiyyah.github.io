@@ -1,4 +1,4 @@
----
+﻿---
 layout: article
 title: "Advice of Allah's Book [Part 2]"
 publisher: "alsalafiyyah@icloud.com"
@@ -10,6 +10,8 @@ shaykhs: Shaykh Ibn Baz
 ---
 
 [Read part one here](/advice-of-quran-1)
+
+All praise be to Allah.
 
 Beware of Zhulm (injustice), for it has bad consequences. The Prophet (peace be upon him) said, "**The Muslim is inviolable for their Muslim brother, as for their blood and wealth.**" [^1] 
 
