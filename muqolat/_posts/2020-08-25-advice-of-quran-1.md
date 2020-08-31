@@ -1,6 +1,6 @@
 ﻿---
 layout: article
-title: "Advice of Allah's Book (Part 1)"
+title: "Advice of Allah's Book [Part 1]"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 9/14"
 hijri: Muharram 6, 1442 AH
