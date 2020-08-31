@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 hijri: Muharram 12, 1442 AH
 date: 2020/08/31
 category: [biography]
-permalink: /biography/afify
+permalink: /biographies/afify
 ---
 
 ### His Birth:

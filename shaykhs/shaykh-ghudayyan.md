@@ -1,11 +1,11 @@
----
+﻿---
 layout: page
 title: "His Eminence Shaykh `Abdullah ibn Ghudayyan"
 publisher: "alsalafiyyah@icloud.com"
 hijri: Muharram 12, 1442 AH
 date: 2020/08/31
 category: [biography]
-permalink: /biography/ghudayyan
+permalink: /biographies/ghudayyan
 ---
 
 His Eminence Shaykh 'Abdullah ibn 'Abdul-Rahman ibn 'Abdul-Razzaq Al-Ghudayyan Al-Tamimi
