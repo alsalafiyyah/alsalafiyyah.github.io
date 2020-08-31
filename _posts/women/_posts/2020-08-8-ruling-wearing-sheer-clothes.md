@@ -3,8 +3,7 @@ layout: post
 title: "Ruling on women wearing sheer clothes"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 19771-2"
-category: [alifta]
-tag: [women, hijab]
+category: [women, hijab]
 hijri: Dhu al-Hijjah 14, 1441 AH
 date: 2020/08/8
 math: true

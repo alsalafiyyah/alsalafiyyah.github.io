@@ -3,12 +3,9 @@ layout: post
 title: "Ruling on wearing ornamented clothes at weddings"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 10549-2"
-category: [alifta]
-tag: [women, beautification, hijab]
+category: [women, beautification, hijab]
 hijri: Dhu al-Hijjah 14, 1441 AH
 date: 2020/08/8
-math: true
-lang: en
 shaykhs: 
  - Shaykh Abdul-Aziz Ibn Baz
  - Shaykh Abdul-Razzaq al-Afify

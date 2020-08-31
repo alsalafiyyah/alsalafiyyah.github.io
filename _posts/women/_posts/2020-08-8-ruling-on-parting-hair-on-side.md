@@ -3,12 +3,9 @@ layout: post
 title: "Ruling on parting hair on side"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 1456-3"
-category: [alifta]
-tag: [women, beautification]
+category: [women, beautification]
 hijri: Dhu al-Hijjah 14, 1441 AH
 date: 2020/08/8
-math: true
-lang: en
 shaykhs: 
  - Shaykh Abdul-Aziz ibn Baz
  - Shaykh Abdul-Razzaq al-Afify

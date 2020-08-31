@@ -3,12 +3,9 @@ layout: post
 title: "Ruling on wearing tight shirts"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 12824-1"
-category: [alifta]
-tag: [women, hijab]
+category: [women, hijab]
 hijri: Dhu al-Hijjah 14, 1441 AH
 date: 2020/08/8
-math: true
-lang: en
 shaykhs: 
  - Shaykh Abdul-Aziz Ibn Baz
  - Shaykh Abdullah ibn Ghudayyan

@@ -3,12 +3,9 @@ layout: post
 title: "Ruling on a woman wearing tight clothes"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 1843-6"
-category: [alifta]
-tag: [women, hijab]
+category: [women, hijab]
 hijri: Dhu al-Hijjah 14, 1441 AH
 date: 2020/08/8
-math: true
-lang: en
 shaykhs: 
  - Shaykh Abdul-Aziz Ibn Baz
  - Shaykh Abdulah ibn Qa'ud

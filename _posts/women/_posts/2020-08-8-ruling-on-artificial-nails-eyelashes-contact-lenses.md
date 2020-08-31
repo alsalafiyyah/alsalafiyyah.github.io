@@ -3,12 +3,9 @@ layout: post
 title: "Ruling on using artificial nails, eye lashes, and colored contact lenses"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 20840"
-category: [alifta]
-tag: [women, beautification]
+category: [women, beautification]
 hijri: Dhu al-Hijjah 14, 1441 AH
 date: 2020/08/8
-math: true
-lang: en
 shaykhs: 
  - Shaykh Abdul-Aziz Aal al-Shaykh
  - Shaykh Salih Fawzan
