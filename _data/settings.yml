@@ -1,4 +1,12 @@
-﻿chapters: 
+﻿biography: 
+  - name: Shaykh Abdul-Aziz ibn Baz
+    link: /biography/ibnbaz
+  - name: Shaykh Salih ibn Fawzan Al-Fawzan
+    link: /biography/fawzan
+  - name: Shaykh Bakr Abu Zayd
+    link: /biography/bakr
+
+chapters: 
   - name: Salah (Prayers)
     link: /salah/
   - name: Hajj (Pilgrimage) and 'Umrah (lesser pilgrimage)
