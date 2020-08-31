@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Ruling on Insurance"
 publisher: "alsalafiyyah@icloud.com"
@@ -12,8 +12,6 @@ shaykhs:
  - Shaykh Salih Fawzan
  - Shaykh Bakr Abu Zayd
 ---
-
-Question: 
 
 All praise is due to Allah Alone and peace and blessings be upon the Last of the Prophets. To proceed:
 
