@@ -1,0 +1,17 @@
+---
+title: Resource
+layout: page
+permalink: /resource/
+---
+
+<article class="post">
+
+{% if site.data.settings.resource %}
+{% for item in site.data.settings.resource %}
+ <img src="{{ item.img }}"/>
+ <p>{{ item.name }}</p>
+ <p>{{ item.desc }}</p>
+{% endfor %}
+{% endif %}
+
+</article>

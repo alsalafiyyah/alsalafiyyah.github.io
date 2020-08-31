@@ -126,3 +126,9 @@ social:
   wp: Wordpress
   wa: WhatsApp
   sc: Soundcloud
+
+resource: 
+  - name: The Permanent Committee for Scholarly Research and Ifta
+    desc: The Permanent Committee for Scholarly Research and Ifta, also known as The General Presidency of Scholarly Research and Ifta or Al-Lajnah Al-Daʾimah lil-Buhut al-ʿIlmiyya wal-Iftaʾ. 
+    img: /assets/images/alifta.png
+
