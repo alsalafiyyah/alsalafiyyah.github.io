@@ -1,5 +1,5 @@
 ﻿---
-title: Funerals
+title: Funerals and Inheritance
 layout: page
 active: funerals
 permalink: /funerals/
