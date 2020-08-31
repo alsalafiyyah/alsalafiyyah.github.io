@@ -73,10 +73,10 @@ This means that Allah's Book includes guidance, light, call for every form of go
 
 ---
 
-[^1]: arrated by Muslim, Book on righteousness, upholding ties of kinship, and good manners, no. 4650, and the wording is his; and Al-Tirmidhy, Book on righteousness and upholding ties of kinship, no. 1850.
-[^2]: arrated by Muslim, Book on faith, no. 146; Ibn Majah, Book on trades, no. 2216; and Ahmad, Section on the Hadiths narrated by the Companions who narrated a large number of Hadiths, nos. 4867 and 9027.
+[^1]: Narrated by Muslim, Book on righteousness, upholding ties of kinship, and good manners, no. 4650, and the wording is his; and Al-Tirmidhy, Book on righteousness and upholding ties of kinship, no. 1850.
+[^2]: Narrated by Muslim, Book on faith, no. 146; Ibn Majah, Book on trades, no. 2216; and Ahmad, Section on the Hadiths narrated by the Companions who narrated a large number of Hadiths, nos. 4867 and 9027.
 [^3]: Narrated by Al-Bukhari, Book on Zakah, no. 1388; Muslim, Book on Zakah, no. 1630; and Al-Tirmidhy, Book on Zakah, no. 578, and the wording is his.
-[^4]: arrated by Al-Bukhari, Book on Zakah, no. 1366; and Muslim, Book on Zakah, no. 1627, and the wording is his.
+[^4]: Narrated by Al-Bukhari, Book on Zakah, no. 1366; and Muslim, Book on Zakah, no. 1627, and the wording is his.
 [^5]: Narrated by Al-Bukhari, Book on fasting, no. 5579, and the wording is his; Al-Tirmidhy, Book on fasting, no. 641; and Ahmad, Rest of the section on the Hadiths narrated by the Companions who narrated a large number of Hadiths, no. 9463.
 [^6]: Narrated by Al-Bukhari, Book on Hajj, no. 1424, and the wording is his; Muslim, Book on Hajj, no. 2404; and Ahmad, Rest of the section on the Hadiths narrated by the Companions who narrated a large number of Hadiths, no. 7077.
 [^7]: Narrated by Al-Bukhari, Book on Hajj, no. 1650; and Muslim, Book on Hajj, no. 2403, and the wording is agreed upon.
