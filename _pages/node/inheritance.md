@@ -1,0 +1,19 @@
+---
+layout: page
+title: "Inheritance"
+author: "Instagram@Alsalafiyyah"
+permalink: /inheritance/
+---
+
+<article class="post">
+<ul class="posts">
+  {% for post in site.categories.inheritance %}
+    {% if post.url %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endif %}
+    {% else %}
+    <p>{{site.data.settings.page.no-fatwas}}</p>
+  {% endfor %}
+</ul>
+</article>

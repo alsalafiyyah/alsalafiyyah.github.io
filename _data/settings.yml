@@ -19,7 +19,7 @@
     link: /nikah/
   - name: Talaq (Divorce)
     link: /talaq/
-  - name: Funerals and Inheritance
+  - name: Funerals
     link: /funerals/
   - name: Kafarah (Expiation)
     link: /kafarah/
@@ -61,6 +61,8 @@
     link: /mawdu-daif/
   - name: Insurance
     link: /insurance/
+  - name: Inheritance
+    link: /inheritance/
 
 pagination:
   next: Next
