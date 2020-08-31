@@ -9,7 +9,7 @@ permalink: /insurance/
   {% for post in site.categories.insurance %}
     {% if post.url %}
     <li>
-    <a class="icon fas fa-feather-alt" href="{{ post.url }}">{{ post.title }}</a>
+    <a class="icon brands fas fa-feather-alt" href="{{ post.url }}">{{ post.title }}</a>
     </li>
     {% endif %}
     {% else %}
