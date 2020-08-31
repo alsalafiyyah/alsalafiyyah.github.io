@@ -167,6 +167,8 @@ He (Glorified be He) says: "And whoever among you does wrong (i.e. sets up rival
 
 So, servant of Allah, you should not wrong others with regard to their person, honor, or property.
 
+[Read part two here](/advice-of-quran-2)
+
 ---
 
 [^1]: Al-Nasa'i, Sunan, Book on Qiyam-ul-Layl and optional Salah during the day, no. 1601; Abu Dawud, Sunan, Book on Salah, no. 1342; and Ahmad Ibn Hanbal, Musnad, vol. 6, p. 91.
