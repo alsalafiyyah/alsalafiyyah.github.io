@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 hijri: Muharram 12, 1442 AH
 date: 2020/08/31
 category: [biography]
-permalink: /biographies/mani
+permalink: /biographies/mani/
 ---
 
 His Eminence Shaykh 'Abdullah ibn Sulayman ibn Muhammad ibn Mani' from the tribe of Banu Zayd, whose lineage goes back to Qada'ah from Qahtan, whose most important city is Shaqra’.
