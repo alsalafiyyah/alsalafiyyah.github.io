@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Hajj (Pilgrimage) and 'Umrah"
+title: "Hajj (pilgrimage) and 'Umrah (lesser pilgrimage)"
 author: "Instagram@Alsalafiyyah"
 permalink: /hajj-umrah/
 ---
