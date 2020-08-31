@@ -99,7 +99,7 @@ permalink: /topic/
 </div>
 
 <header class="major">
- <span class="date">//</span>
+ <span class="date">More</span>
 </header>
 
 {% for item in site.data.settings.chapters %}
