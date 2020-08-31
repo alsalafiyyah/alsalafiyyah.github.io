@@ -131,8 +131,10 @@ resource:
   - name: The Permanent Committee for Scholarly Research and Ifta
     desc: The Permanent Committee for Scholarly Research and Ifta, also known as The General Presidency of Scholarly Research and Ifta or Al-Lajnah Al-Daʾimah lil-Buhut al-ʿIlmiyya wal-Iftaʾ. 
     img: /assets/images/alifta.png
-    link: /#
+    link: /biographies/
+    web: /#
   - name: Shaykh Abdul-Aziz Ibn Baz (May Allah have mercy on him)
     desc: 
     img: /assets/images/binbaz.png
-    link: https://binbaz.org.sa
+    link: /biographies/binbaz
+    web: https://binbaz.org.sa
