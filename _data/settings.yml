@@ -67,7 +67,7 @@ pagination:
   prev: Prev
 
 page: 
-  no-fatwas: There are no fatwas for this category
+  no-fatwas: There are no fatwas for this topic.
 
 post: 
   readmore: Read more
