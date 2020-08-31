@@ -1,12 +1,14 @@
 ---
 layout: page
-title: "His Eminence Shaykh 'Abdul-'Aziz ibn 'Abdullah ibn Muhammad Aal Al-Shaykh"
+title: "His Eminence Shaykh 'Abdul-'Aziz Aal Al-Shaykh"
 publisher: "alsalafiyyah@icloud.com"
 hijri: Muharram 12, 1442 AH
 date: 2020/08/31
 category: [biography]
-permalink: /biography/muhammad-al-shaykh
+permalink: /biography/abdulaziz-al-shaykh
 ---
+
+His Eminence Shaykh 'Abdul-'Aziz ibn 'Abdullah ibn Muhammad Aal Al-Shaykh
 
 ### His Post:
 
