@@ -1,5 +1,5 @@
 ﻿---
-title: foundling
+title: The Laqit (Foundling)
 layout: page
 permalink: /foundling/
 ---
