@@ -50,4 +50,4 @@ defaults:
   - scope:
         path:       muqolat/_posts
     values:
-        permalink:  '/article/:title'
+        permalink:  '/muqolat/:title'
