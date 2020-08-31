@@ -5,19 +5,14 @@ permalink: /resource/
 ---
 
 <section class="posts">
+<dl>
 {% if site.data.settings.resource %}
 {% for item in site.data.settings.resource %}
- <article>
-<header>
- <h3>{{ item.name }}</h3>
-</header>
-   <img class="image fit" src="{{ item.img }}" alt="{{ item.name }}" />
-   <p>{{ item.desc }}</p>
-   <ul class="actions special">
-    <li><a href="{{ item.link }}" class="button">Biography</a></li>
-    <li><a href="{{ item.web }}" class="button" target="_blank">Website</a></li>
-   </ul>
-</article>
+ <dt>{{ item.name }}</dt>
+<dd>
+ <p>{{ item.desc }} <a href="{{ item.web }}" class="button" target="_blank">Website</a></p>
+</dd>
 {% endfor %}
 {% endif %}
+</dl>
 </section>
