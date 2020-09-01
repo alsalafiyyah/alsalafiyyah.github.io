@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Mutafayhiqun"
+title: "Calling Muslims who do not know Islam"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no.  17941-6"
 hijri: Muharram 14, 1442 AH
