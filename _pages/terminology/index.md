@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Islamic terminology and definitions
+permalink: /terms/
 ---
 
 1. The Mashru' : Islamically lawful.
