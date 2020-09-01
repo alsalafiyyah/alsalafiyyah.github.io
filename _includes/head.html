@@ -16,23 +16,5 @@
   <script src="https://kit.fontawesome.com/280680b495.js" crossorigin="anonymous"></script>
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-  {% if page.is_post %}
-  {% assign type = "article" %}
-{% else %}
-  {% assign type = "website" %}
-{% endif %}
-  <!-- http://ogp.me/ -->
-  <meta property="og:type" content="{{ type }}" />
-  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
-  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 140 }}{% else %}{{ site.description }}{% endif %}" />
-  {% if page.image %}
-  <meta property="og:image" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}{{ page.image.path }}" />
-  <meta property="og:image:width" content="{{ page.image.width }}" />
-  <meta property="og:image:height" content="{{ page.image.height }}" />
-  {% endif %}
-  {% if page.is_post %}
-  <meta property="og:site_name" content="{{ site.title }}" />
-  {% endif %}
   {% include tipue.html %}
 </head>
