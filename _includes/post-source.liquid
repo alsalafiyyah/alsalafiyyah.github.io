@@ -1,24 +1,23 @@
-﻿<div class="box">
+<div class="box">
   <ul style="list-style: none;">
+  
     {% if page.source %}
     <li>
-    <span><i class="fas fa-feather-alt"></i> {{site.data.settings.post.source}}:</span>
-      <b>
+    <b><span><i class="fas fa-feather-alt"></i> {{site.data.settings.post.source}}:</span></b>
     {{ page.source}}
     {% else %}
     {{ site.source.name}}
-      </b>
-  </li>
+    </li>
     {% endif %}
+    
     {% if page.shaykhs %}
     <li>
-      <span> <i class="fas fa-feather-alt"></i> {{site.data.settings.post.muftis}}:</span>
-      <b>
+      <b><span> <i class="fas fa-feather-alt"></i> {{site.data.settings.post.muftis}}:</span></b>
     {{ page.shaykhs | join: ", "}}
     {% else %}
     {{ site.shaykhs.name | join: ", " }}
-      </b>
-  </li>
+    </li>
     {% endif %}
+    
   </ul>
 </div>
