@@ -1,8 +1,8 @@
 ﻿<div class="box">
-  <ul>
+  <ul style="list-style: none;">
     {% if page.source %}
     <li>
-    <span>{{site.data.settings.post.source}}:</span>
+    <span><i class="fas fa-feather-alt"></i> {{site.data.settings.post.source}}:</span>
       <b>
     {{ page.source}}
     {% else %}
@@ -12,7 +12,7 @@
     {% endif %}
     {% if page.shaykhs %}
     <li>
-      <span>{{site.data.settings.post.muftis}}:</span>
+      <span> <i class="fas fa-feather-alt"></i> {{site.data.settings.post.muftis}}:</span>
       <b>
     {{ page.shaykhs | join: ", "}}
     {% else %}
