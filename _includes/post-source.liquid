@@ -1,24 +1,24 @@
 ﻿<div class="box">
   <ul>
+    {% if page.source %}
     <li>
     <span>{{site.data.settings.post.source}}:</span>
       <b>
-    {% if page.source %}
     {{ page.source}}
     {% else %}
     {{ site.source.name}}
-    {% endif %}
       </b>
   </li>
+    {% endif %}
+    {% if page.shaykhs %}
     <li>
       <span>{{site.data.settings.post.muftis}}:</span>
       <b>
-    {% if page.shaykhs %}
     {{ page.shaykhs | join: ", "}}
     {% else %}
     {{ site.shaykhs.name | join: ", " }}
-    {% endif %}
       </b>
   </li>
+    {% endif %}
   </ul>
 </div>
