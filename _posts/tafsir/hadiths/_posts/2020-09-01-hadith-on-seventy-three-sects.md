@@ -1,6 +1,6 @@
----
+﻿---
 layout: post
-title: "The splitting of this Ummah into seventy-three sects"
+title: "The Hadith on splitting of this Ummah into seventy-three sects"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 830"
 hijri: Muharram 13, 1442 AH
