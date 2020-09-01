@@ -49,3 +49,10 @@ defaults:
         path:       muqolat/_posts
     values:
         permalink:  '/muqolat/:title'
+  - scope:
+        path: "" 
+        type: "posts"
+    values:
+      is_post: true
+      
+     
