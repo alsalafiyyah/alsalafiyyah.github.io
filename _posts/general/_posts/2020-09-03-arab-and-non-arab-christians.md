@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 8097-2"
 hijri: Muharram 14, 1442 AH
 date: 2020/09/3
-category: [general, dawah, non-muslims]
+category: [general, non-muslims]
 shaykhs: 
  - Shaykh Abdul-Aziz ibn Baz
  - Shaykh Abdul-Razzaq al-Afify
