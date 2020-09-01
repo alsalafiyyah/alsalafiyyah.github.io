@@ -24,7 +24,7 @@ Minister
 
 ### His Jobs:
 
-Shaykh `Abdul-`Aziz Al Al-Shaykh worked as an associate professor at Al-Imam Muhammad ibn Saud Islamic University and then as a member of the Permanent Committee for Scholarly Research and Ifta'.
+Shaykh 'Abdul-'Aziz Al Al-Shaykh worked as an associate professor at Al-Imam Muhammad ibn Saud Islamic University and then as a member of the Permanent Committee for Scholarly Research and Ifta'.
 
 ### His Date of Birth:
 
