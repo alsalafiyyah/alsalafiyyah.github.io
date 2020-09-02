@@ -12,10 +12,10 @@
     
     {% if page.shaykhs %}
     <li>
-      <b><span> <i class="fas fa-feather-alt"></i> {{site.data.settings.post.muftis}}:</span></b>
-    {{ page.shaykhs | join: ", "}}
+    <b><span> <i class="fas fa-feather-alt"></i> {{site.data.settings.post.muftis}}:</span></b>
+    <a href="/biographies/">{{ page.shaykhs | join: ", "}}</a>
     {% else %}
-    {{ site.shaykhs.name | join: ", " }}
+    <a href="/biographies/">{{ site.shaykhs.name | join: ", " }}</a>
     </li>
     {% endif %}
     
