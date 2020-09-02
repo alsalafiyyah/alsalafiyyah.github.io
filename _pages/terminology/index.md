@@ -4,7 +4,7 @@ title: Islamic terminology and definitions
 permalink: /terms/
 ---
 
-{% for item in site.data.toc %}
+{% for item in site.data.terms.toc %}
 <h3>{{item.title}}</h3>
 {% for entry in item.subitem %}
 <p>{{entry.desc}}</p>
