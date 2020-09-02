@@ -45,4 +45,5 @@ permalink: /terms/
 39. Mujtahid : a scholar qualified to exercise Ijtihad.
 40. Hadith Mursal : a Hadith with no Companion of the Prophet in the chain of narration.
 41. Ijma' : consensus.
-
+42. Ahl Al-Hisbah : people who are officially assigned to enjoin good and forbid evil.
+43. Fatwas : legal opinions issued by qualified Muslim scholars.
