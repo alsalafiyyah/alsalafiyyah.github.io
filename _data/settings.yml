@@ -1,4 +1,4 @@
-﻿alifta: 
+alifta: 
   - name: Shaykh Abdul-Aziz Aal Al-Shaykh
     link: /biographies/abdulaziz-al-shaykh
   - name: Shaykh Abdul-Aziz ibn Baz
@@ -29,8 +29,6 @@ chapters:
     link: /shawm/
   - name: Taharah (Purification)
     link: /taharah/
-  - name: Jihad
-    link: /jihad/
   - name: Hadiths and Sunnah sciences
     link: /hadiths/
   - name: Qur'an exegesis
@@ -83,7 +81,9 @@ chapters:
     link: /insurance/
   - name: Inheritance
     link: /inheritance/
-
+  - name: Jihad and Hisbah
+    link: /hisbah/
+    
 pagination:
   next: Next
   prev: Prev
