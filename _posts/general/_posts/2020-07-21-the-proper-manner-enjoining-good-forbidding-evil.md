@@ -1,9 +1,9 @@
-﻿---
+---
 layout: post
 title: "What is the proper manner of enjoining right and forbidding evil"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 9/347"
-category: [general]
+category: [general, hisbah]
 hijri: Dhul-Qa'dah 30, 1441 AH
 date: 2020/07/21
 shaykhs: Shaykh Ibn Baz
