@@ -1,4 +1,4 @@
-﻿---
+---
 title: Al-Buyu' (Sales) - Transactions - Riba (Usury) - Loan
 layout: page
 permalink: /al-buyu/
