@@ -4,13 +4,14 @@ title: Islamic terminology and definitions
 permalink: /terms/
 ---
 
+<dl>
 {% for item in site.data.terms.toc %}
-<h3>{{item.title}}</h3>
+<dt>{{item.title}}</dt>
 {% for entry in item.subitem %}
-<p>{{entry.desc}}</p>
+<dd>{{entry.desc}}</dd>
 {% endfor %}
 {% endfor %}
-
+</dl>
 
 1. The Mashru' : Islamically lawful.
 2. Ghibah : backbiting
