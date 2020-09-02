@@ -108,9 +108,6 @@ sidebar_menu:
   - name: Browse by topic
     link: /topic
     active: topic
-  - name: Biographies
-    link: /biographies/
-    active: biographies
   - name: Downloads
     link: /downloads/
     active: downloads
