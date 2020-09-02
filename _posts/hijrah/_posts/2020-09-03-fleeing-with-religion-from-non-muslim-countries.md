@@ -8,9 +8,10 @@ date: 2020/09/3
 category: [hijrah]
 shaykhs: 
  - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
+ - Shaykh Abdul-Aziz Aal al-Shaykh
  - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+ - Shaykh Salih Fawzan
+ - Shaykh Bakr Abu Zayd
 ---
 
 Question:
