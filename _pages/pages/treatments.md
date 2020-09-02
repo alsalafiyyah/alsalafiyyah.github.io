@@ -1,5 +1,5 @@
 ---
-title: Treatments
+title: Treatments and Medicines
 layout: page
 permalink: /treatments/
 ---
