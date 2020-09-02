@@ -6,10 +6,10 @@ permalink: /biographies/
 ---
 
 <article class="post">
-<p>Concise biography for Ifta' members.</p>
-<ul class="posts">
+<p>Concise biography</p>
+<ol>
 {% for item in site.data.settings.alifta %}
  <li><a href="{{ item.link }}">{{ item.name }}</a></li>
 {% endfor %}
-</ul>
+</ol>
 </article>
