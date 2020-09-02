@@ -7,7 +7,7 @@ hijri: Muharram 14, 1442 AH
 date: 2020/09/3
 category: [hisbah]
 shaykhs: 
- - Shaykh Ibrahim ibn Muhammad Al Al-Shaykh 
+ - Shaykh Ibrahim ibn Muhammad Aal Al-Shaykh 
  - Shaykh Abdul-Razzaq al-Afify
  - Shaykh Abdullah ibn Mani'
 ---
