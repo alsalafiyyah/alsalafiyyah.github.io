@@ -1,9 +1,9 @@
-﻿---
+---
 layout: post
 title: "Ruling on those who abstain from enjoining good and forbidding evil"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 6/504"
-category: [general]
+category: [general, hisbah]
 hijri: Dhul-Qa'dah 30, 1441 AH
 date: 2020/07/21
 shaykhs: Shaykh Ibn Baz
