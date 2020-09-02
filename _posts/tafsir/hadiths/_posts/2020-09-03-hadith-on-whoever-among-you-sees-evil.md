@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Hadith: 'Whoever among you who sees an evil'"
+title: "The Hadith: 'Whoever among you sees an evil'"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 4262-4"
 hijri: Muharram 14, 1442 AH
