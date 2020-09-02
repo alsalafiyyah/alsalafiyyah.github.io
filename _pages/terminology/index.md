@@ -4,6 +4,14 @@ title: Islamic terminology and definitions
 permalink: /terms/
 ---
 
+{% for item in site.data.toc %}
+<h3>{{item.title}}</h3>
+{% for entry in item.subitem %}
+<p>{{entry.desc}}</p>
+{% endfor %}
+{% endfor %}
+
+
 1. The Mashru' : Islamically lawful.
 2. Ghibah : backbiting
 3. Zina : Illegal sexual intercourse outside marriage
