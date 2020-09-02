@@ -1,5 +1,5 @@
 ---
-title: Hijrah
+title: Hijrah (a believer's migration to an Islamic land)
 layout: page
 permalink: /hijrah/
 ---
