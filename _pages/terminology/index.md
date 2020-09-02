@@ -6,7 +6,7 @@ permalink: /terms/
 
 1. The Mashru' : Islamically lawful.
 2. Ghibah : backbiting
-3. Zina : sexual intercourse outside marriage
+3. Zina : Illegal sexual intercourse outside marriage
 4. The Sahabah : Companions of the Prophet - Muhammad (Peace and blessings of Allah be upon him) - may Allah be pleased with them all.
 5. The Tabi'un : The generation after the Companions of the Prophet.
 6. Tabi' Al-Tabi'un: Successors, the generation after the Tabi'un.
@@ -47,3 +47,11 @@ permalink: /terms/
 41. Ijma' : consensus.
 42. Ahl Al-Hisbah : people who are officially assigned to enjoin good and forbid evil.
 43. Fatwas : legal opinions issued by qualified Muslim scholars.
+44. Khutbah : sermons.
+45. Sujud : prostration
+46. Adhkar : invocations and Remembrances said at certain times on a regular basis.
+47. Da‘wah : calling to Allah or Islam
+
+
+1. Al-Tijaniyyah : a deviant Sufi sect embracing strange beliefs far from Islam.
+2. Al-Qadiriyyah : a deviant sect that claims Allah has no power over His Creation and humans are independent of Him.
