@@ -3,7 +3,7 @@ layout: post
 title: "Ruling on treating using snakes"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 6990-1"
-hijri: Muharram 14, 1442 AH
+hijri: Muharram 15, 1442 AH
 date: 2020/09/3
 category: [treatments]
 shaykhs: 
