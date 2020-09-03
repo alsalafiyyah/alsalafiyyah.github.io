@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ruling on taking hypnotic drugs and sedatives"
+title: "Ruling on taking hypnotic drugs"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 4276-6"
 hijri: Muharram 15, 1442 AH
