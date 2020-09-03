@@ -3,7 +3,7 @@ layout: post
 title: "Ruling on attacking scholars"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 16873"
-category: [fitnahs]
+category: [fitnahs, salafism]
 hijri: Dhul-Hijjah 4, 1441 AH
 date: 2020/07/25
 shaykhs: 
