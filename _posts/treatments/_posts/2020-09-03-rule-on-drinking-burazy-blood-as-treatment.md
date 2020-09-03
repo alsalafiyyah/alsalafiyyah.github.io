@@ -20,10 +20,12 @@ What is the ruling on drinking the blood of the Burazy family belonging to the t
 
 Answer:
 
-Just as it is Haram (prohibited) to consume the blood of human beings, it is also Haram to seek cure by means of this blood. The Prophet (peace be upon him) is reported to have forbidden this. He said, "Treat yourselves medically, but use nothing unlawful." [^1] Seeking a cure by drinking the blood of any of these two tribes is not known to have a basis in the Shari'ah of Islam. Rather, it is a prohibited and abominable act.
+Just as it is Haram (prohibited) to consume the blood of human beings, it is also Haram to seek cure by means of this blood. The Prophet (peace be upon him) is reported to have forbidden this. He said, "Treat yourselves medically, but use nothing unlawful."[^1] 
+
+Seeking a cure by drinking the blood of any of these two tribes is not known to have a basis in the Shari'ah of Islam. Rather, it is a prohibited and abominable act.
 
 May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions. 
 
 ---
 
-[^]: Abu Dawud, Sunan, Book on medicine, no. 3874.
+[^1]: Abu Dawud, Sunan, Book on medicine, no. 3874.
