@@ -3,7 +3,7 @@ layout: post
 title: "Ruling on treatment with narcotics"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 4243-5"
-hijri: Muharram 14, 1442 AH
+hijri: Muharram 15, 1442 AH
 date: 2020/09/3
 category: [treatments]
 shaykhs: 
@@ -22,7 +22,7 @@ Treatment is not allowed by means of unlawful matters, for the legal evidence th
 
 It is reported in the Sunan on the authority of Abu Hurayrah that, “**The Messenger of Allah (peace be upon him) forbade malicious medicine (i.e., prohibited or filthy).**” [^2]
 
-It is reported in Sahih Muslim on the authority of Tariq ibn Suwayd Al-Al-Ju`fy Al-Hadramy or Suwayd ibn Tariq that **he asked the Messenger of Allah (peace be upon him) about Khamr (intoxicant). He forbade (its use) and expressed his disapproval of preparing it. He (Tariq) said, "I prepare it as medicine," whereupon he (peace be upon him) said, "It is not medicine; rather it is an ailment.**" [3]
+It is reported in Sahih Muslim on the authority of Tariq ibn Suwayd Al-Al-Ju'fy Al-Hadramy or Suwayd ibn Tariq that **he asked the Messenger of Allah (peace be upon him) about Khamr (intoxicant). He forbade (its use) and expressed his disapproval of preparing it. He (Tariq) said, "I prepare it as medicine," whereupon he (peace be upon him) said, "It is not medicine; rather it is an ailment.**" [3]
 
 It is reported in the Sunan that when the Prophet (peace be upon him) was asked about Khamr (intoxicant) as a remedy, he said, "**It is not medicine; it is an ailment.**" Related by Abu Dawud and Al-Tirmidhy [^4]
 
