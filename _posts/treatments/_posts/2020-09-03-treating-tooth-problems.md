@@ -3,7 +3,7 @@ layout: post
 title: "Treating tooth problems"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 21104-1"
-hijri: Muharram 14, 1442 AH
+hijri: Muharram 15, 1442 AH
 date: 2020/09/3
 category: [treatments]
 shaykhs: 
