@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "On raising up of Jesus and his being created without a father and the reason behind the permissibility of Jihad"
 publisher: "alsalafiyyah@icloud.com"
