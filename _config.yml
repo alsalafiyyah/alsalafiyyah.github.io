@@ -7,30 +7,35 @@ author:
   name:         Instagram@Alsalafiyyah
   email:        alsalafiyyah@icloud.com
 encoding:         UTF-8
+github: [metadata]
+permalink: /:title
+paginate:       20
+paginate_path: "/:num/"
 markdown:       kramdown
 remote_theme: alsalafiyyah/massively-jekyll-theme
-github: [metadata]
+
 include:
   - _pages
-  - _site
+
 plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-remote-theme
   - jekyll-sitemap
-permalink: /:title
-paginate:       20
-paginate_path: "/:num/"
+  - liquid
+
 exclude:
   - Gemfile
   - .gitignore
   - Gemfile.lock
+
 tipue_search:
   include:
     pages: true
   exclude:
     files: [index.html, search.html, sitemap.xml, feed.xml]
+
 webmaster_verifications:
   google: 0AfP6ouBUqp8IPbvV8AgSXFY3YTtSTTriIZ2Lyt43NI
   bing: 4F1A0A46CAA92F43191A0C4B37948DD7
@@ -49,10 +54,6 @@ defaults:
         path:       muqolat/_posts
     values:
         permalink:  '/muqolat/:title'
-  - scope:
-        path: "" 
-        type: "posts"
-    values:
-      is_post: true
+
       
      
