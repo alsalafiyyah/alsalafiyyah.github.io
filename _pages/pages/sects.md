@@ -1,4 +1,4 @@
-﻿---
+---
 title: Groups and the Sects
 layout: page
 active: sects
@@ -111,6 +111,20 @@ permalink: /sects/
 <h4>Al-Ikhwan Al-Muslimun (The Muslims Brotherhood)</h4>
 <ul class="posts">
   {% for post in site.categories.ikhwanis | limit:5 %}
+    {% if post.url %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endif %}
+    {% else %}
+    <p>{{site.data.settings.page.no-fatwas}}</p>
+  {% endfor %}
+</ul>
+</div>
+
+<div class="box">
+<h4>Jama'at Al-Ahbash (the Habashis)</h4>
+<ul class="posts">
+  {% for post in site.categories.habashis | limit:5 %}
     {% if post.url %}
     <li><a href="{{ post.url }}">{{ post.title }}</a>
     </li>
