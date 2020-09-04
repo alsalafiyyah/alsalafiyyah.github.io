@@ -6,7 +6,7 @@ source: "Majmu' Fatawa wa Maqalat 8/34"
 category: [treatments]
 hijri: Dhul-Qa'dah 31, 1441 AH
 date: 2020/07/22
-shaykhs: Shaykh Ibn Baz
+shaykhs: Shaykh Abdul-Aziz Ibn Baz
 ---
 
 **Question: What is your opinion on the transplantation of human organs which saves the life of many people?**
