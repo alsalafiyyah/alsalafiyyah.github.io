@@ -105,10 +105,10 @@ permalink: /topic/
 
 {% if site.data.settings.chapters %}
 <div id="fatwas-list">
-<input type="text" placeholder="Filter topic"/>
+<input type="text" placeholder="Filter topic"/><br/>
 <ul class="list">
 {% for item in site.data.settings.chapters %}
- <li><p class="title"><a class="title" href="{{ item.link }}">{{ item.name | join: ', ' }}</a></p></li>
+ <li><a class="title" href="{{ item.link }}">{{ item.name | join: ', ' }}</a></li>
 {% endfor %}
 </ul>
 <ul class="pagination"></ul>
