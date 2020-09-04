@@ -105,7 +105,7 @@ permalink: /topic/
 
 {% if site.data.settings.chapters %}
  <select onchange="document.location.href=this.value">
-  <option value="" selected>Select topic</option>
+  <option selected>Select a topic</option>
   {% for item in site.data.settings.chapters %}
   <option value="{{ item.link }}">{{ item.name }}</option>
   {% endfor %}
