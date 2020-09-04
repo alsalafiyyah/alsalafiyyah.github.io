@@ -8,6 +8,7 @@
 						</section>
 						<section class="split contact">
 							<section>
+<div class="fields">
 {% if site.data.settings.chapters %}
  <select onchange="document.location.href=this.value">
   <option selected>Select</option>
@@ -15,7 +16,8 @@
   <option value="{{ item.link }}">{{ item.name }}</option>
   {% endfor %}
 </select>
-{% endif %}							
+{% endif %}	
+</div>
 							</section>
 						</section>
 					</footer>
