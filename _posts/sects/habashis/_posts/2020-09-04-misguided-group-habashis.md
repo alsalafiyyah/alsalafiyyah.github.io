@@ -37,11 +37,11 @@ Anyone who reads what has been written and published by this group will clearly 
 
 > With regard to the issue of faith, they follow the school of thought of Al-Irja' [those who believe that sin does not matter as long as the person is a believer] which is condemned in Islam [^4].
 
-It is known that the 'Aqidah (creed) of the Muslims, which was that followed by the Companions,the Tabi'un (Followers, the generation after the Companions of the Prophet) and those who follow their steps until the present day, is that Iman (faith) is the matter of words spoken by the tongue, belief is what is held in the heart and actions are what are done by the body. Belief must be accompanied by submission to the laws of Islam, otherwise the so-called faith is not valid. There are many reports from the pious Predecessors which confirm this belief, for example the words of Imam Al-Shafi'i (may Allah be merciful to him): “Among the consensus of the Companions, the Tabi`un, those who came after them and those whom we have met, is that they say: faith is words, actions and intentions; one of these three will not be complete without the other two."
+It is known that the 'Aqidah (creed) of the Muslims, which was that followed by the Companions,the Tabi'un (Followers, the generation after the Companions of the Prophet) and those who follow their steps until the present day, is that Iman (faith) is the matter of words spoken by the tongue, belief is what is held in the heart and actions are what are done by the body. Belief must be accompanied by submission to the laws of Islam, otherwise the so-called faith is not valid. There are many reports from the pious Predecessors which confirm this belief, for example the words of Imam Al-Shafi'i (may Allah be merciful to him): “Among the consensus of the Companions, the Tabi'un, those who came after them and those whom we have met, is that they say: faith is words, actions and intentions; one of these three will not be complete without the other two."
 
 > They allow calling, seeking refuge with the dead and seeking help from them instead of Allah (Exalted be He). [^5]
 
-This is major Shirk (associating others with Allah in His Divinity or worship) according to the texts of the Qur’an, the Sunnah and the Ijma` (consensus of scholars). This major shirk is the same as the religion of the earlier polytheists of Quraysh and others, as Allah (Exalted be He) says: "**And they worship besides Allâh things that harm them not, nor profit them, and they say: “These are our intercessors with Allâh.”**" [Yunus: 18]
+This is major Shirk (associating others with Allah in His Divinity or worship) according to the texts of the Qur’an, the Sunnah and the Ijma' (consensus of scholars). This major shirk is the same as the religion of the earlier polytheists of Quraysh and others, as Allah (Exalted be He) says: "**And they worship besides Allâh things that harm them not, nor profit them, and they say: “These are our intercessors with Allâh.”**" [Yunus: 18]
 
 Allah (Glorified and Exalted be He) says: "**So worship Allâh (Alone) by doing religious deeds sincerely for Allâh’s sake only. Surely the religion (i.e. the worship and the obedience) is for Allâh only. And those who take Auliyâ’ (protectors, helpers, lords, gods) besides Him (say): "We worship them only that they may bring us near to Allâh." Verily Allâh will judge between them concerning that wherein they differ. Truly, Allâh guides not him who is a liar, and a disbeliever.**" [al-Zumar: 2-3]
 
@@ -53,7 +53,7 @@ The Prophet (peace be upon him) said: "**Supplication (du'a) is itself the worsh
 
 They only worshipped their gods so that they would intercede for them with Allah (Exalted be He) and bring them closer to Him and thus, they committed major shirk. Allah (Exalted be He) described them as disbelievers and polytheists and commanded His Prophet (peace be upon him) to fight them in order to devote worship to Allah alone as He says: And fight them until there is no more Fitnah (disbelief and polytheism, i.e. worshipping others besides Allâh) and the religion (worship) will all be for Allâh Alone [in the whole of the world]. Scholars have written many books on this topic in which they have clearly explained the true Islam with which Allah (Exalted be He) sent His Messengers and revealed His Books.
 
-They also discussed the religion and beliefs of the people of Jahiliyyah (pre-Islamic time of ignorance), and their beliefs and their actions which went against the laws of Allah (Exalted be He). One of the best writers on this topic was Shaykh Al-Islam Ibn Taymiyyah (may Allah be merciful to him), in his numerous books; such as his concise book "Qa`idah Jalilah fi Al-Tawassul wa Al-Wasilah."
+They also discussed the religion and beliefs of the people of Jahiliyyah (pre-Islamic time of ignorance), and their beliefs and their actions which went against the laws of Allah (Exalted be He). One of the best writers on this topic was Shaykh Al-Islam Ibn Taymiyyah (may Allah be merciful to him), in his numerous books; such as his concise book "Qa'idah Jalilah fi Al-Tawassul wa Al-Wasilah."
 
 > In their view, the Qur’an is not the Word of Allah in the true sense. [^7]
 
@@ -89,7 +89,7 @@ And said: "**Glorify the Name of your Lord, the Most High**" [al-A'la: 1],
 
 Allah (Glorified and Exalted be He) says: "**And to Allâh prostrate all that is in the heavens and all that is in the earth, of the moving (living) creatures and the angels, and they are not proud [i.e. they worship their Lord (Allâh) with humility]. They fear their Lord above them, and they do what they are commanded.**" [al-Nahl: 49-50]
 
-Along other similar Ayahs. Many authentic Hadiths have been reported from the Prophet (peace be upon him) on this topic; for example, the frequently transmitted story of Mi`raj (ascent to Heavens). The Prophet (peace be upon him) passed through the heavens one by one, until he reached his Lord, Who brought him near and enjoined fifty prayers upon him. He continued to go back and forth between Musa (Moses) and his Lord. He came down from the presence of his Lord to Musa who asked him, “How many (prayers) have been enjoined upon you?” When he told him, he said, “Go back to your Lord and ask Him to reduce them.” 
+Along other similar Ayahs. Many authentic Hadiths have been reported from the Prophet (peace be upon him) on this topic; for example, the frequently transmitted story of Mi'raj (ascent to Heavens). The Prophet (peace be upon him) passed through the heavens one by one, until he reached his Lord, Who brought him near and enjoined fifty prayers upon him. He continued to go back and forth between Musa (Moses) and his Lord. He came down from the presence of his Lord to Musa who asked him, “How many (prayers) have been enjoined upon you?” When he told him, he said, “Go back to your Lord and ask Him to reduce them.” 
 
 So he went back up to his Lord to ask Him to reduce them. It was reported in the Two Sahih (authentic) Books of Hadith (Al-Bukhari and Muslim) that Abu Hurayrah (may Allah be pleased with him) narrated that the Messenger of Allah (peace be upon him) said: "**When Allah created the creation, He wrote in His Book, which is with Him above the Throne: ‘Verily, My Mercy prevails over My Anger.'**" [^9]
 
@@ -105,20 +105,20 @@ This is the pure belief which was adhered to by Muslims: Sahabah, Tabi'un and th
 
 > They speak ill about some of the Sahabah. [^13]
 
-For example, they speak ill about Mu'awiyah (may Allah be pleased with him) in a way that resembles that of Al-Rafidah (a Shi'ah group denying the caliphates of Abu Bakr Al-Siddiq and `Umar ibn Al-Khattab and making accusations against them and many other Companions of the Prophet). It is the duty of Muslims not to discuss what happened among the Sahabah (may Allah be pleased with them all), safeguarding their tongue to mention the trial along with believing that all of them were good and virtuous because they accompanied the Messenger of Allah (peace be upon him). It was reported that the Prophet (peace be upon him) said: "**Do not abuse my Companions for if anyone of you spent gold equal to Uhud (in Allah's Cause) it would not be equal to a Mud or even a half Mud spent by one of them.**" (Related by Al-Bukhari and Muslim). [^14]
+For example, they speak ill about Mu'awiyah (may Allah be pleased with him) in a way that resembles that of Al-Rafidah (a Shi'ah group denying the caliphates of Abu Bakr Al-Siddiq and 'Umar ibn Al-Khattab and making accusations against them and many other Companions of the Prophet). It is the duty of Muslims not to discuss what happened among the Sahabah (may Allah be pleased with them all), safeguarding their tongue to mention the trial along with believing that all of them were good and virtuous because they accompanied the Messenger of Allah (peace be upon him). It was reported that the Prophet (peace be upon him) said: "**Do not abuse my Companions for if anyone of you spent gold equal to Uhud (in Allah's Cause) it would not be equal to a Mud or even a half Mud spent by one of them.**" (Related by Al-Bukhari and Muslim). [^14]
 
 Allah (Glorified and Exalted be He) says: "**And those who came after them say: "Our Lord! Forgive us and our brethren who have preceded us in Faith, and put not in our hearts any hatred against those who have believed. Our Lord! You are indeed full of kindness, Most Merciful.**" [al-Hashr: 10]
 
-This is the sound belief concerning the Companions of the Prophet (peace be upon him) which is the belief of Ahl-ul-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream) throughout the centuries. Imam Abu Ja'far Al-Tahawy (may Allah be merciful to him) said, explaining the beliefs of Ahl-ul-Sunnah wal-Jama`ah: “**We love the Sahabah of the Messenger of Allah (peace be upon him), but we do not exaggerate our love for any of them. We do not disown any of them. We hate those who hate them, and we do not say anything but good about them (Sahabah).**"
+This is the sound belief concerning the Companions of the Prophet (peace be upon him) which is the belief of Ahl-ul-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream) throughout the centuries. Imam Abu Ja'far Al-Tahawy (may Allah be merciful to him) said, explaining the beliefs of Ahl-ul-Sunnah wal-Jama'ah: “**We love the Sahabah of the Messenger of Allah (peace be upon him), but we do not exaggerate our love for any of them. We do not disown any of them. We hate those who hate them, and we do not say anything but good about them (Sahabah).**"
 
-Love for them is true religion, faith and goodness; hatred for them is kufr, hypocrisy and transgression. Fourth, what we may note about this group is that they follow strange fatwas, which go against the Shari`ah texts. For example, they permit gambling with the unbelievers to take away their money; they permit stealing the unbelievers' crops and animals on the condition that it will not cause fitnah (trial); they permit dealing in Riba (usury) when dealing with the unbelievers; and they permit dealing in lotteries, which is unlawful. 
+Love for them is true religion, faith and goodness; hatred for them is kufr, hypocrisy and transgression. Fourth, what we may note about this group is that they follow strange fatwas, which go against the Shari'ah texts. For example, they permit gambling with the unbelievers to take away their money; they permit stealing the unbelievers' crops and animals on the condition that it will not cause fitnah (trial); they permit dealing in Riba (usury) when dealing with the unbelievers; and they permit dealing in lotteries, which is unlawful. 
 
 ### The following are some of the matters they adhere to which are obviously against the Shari'ah: 
 
 - They permit looking at non-Mahram women (not a wife or an unmarriageable female relative) in a mirror or through a screen lustfully. They say that frequent looking at a non-Mahram woman is lawful. [^15]
 - They say that it is permissible for men to look at any part of non-Mahram women. [^16]
 -  It is lawful if a woman goes out applying make-up and perfume without having the intention to seduce men. [^17]
--  They permit free mixing of men and women [^18] along with other odd and outrageous fatwas which go against Shari`ah; considering some of major sins permissible. 
+-  They permit free mixing of men and women [^18] along with other odd and outrageous fatwas which go against Shari'ah; considering some of major sins permissible. 
 
 We ask Allah to keep us safe from the causes which provoke His wrath and bring about His punishment.
 
@@ -139,6 +139,9 @@ Having stated this clearly to the people, the Committee is asking Allah (Exalted
 
 Peace be upon our Prophet Muhammad, his family, Companions and those who followed them with good. 
 
+[See also Shaykh Ibn Baz (May Allah be merciful to him) on Habashis](/shaykh-ibn-baz-on-abdullah-habashy)
+
+
 ---
 
 [^1]: Al-Bukhari, Sahih, Book on testimonies, no. 2652; Muslim, Sahih, Book on merits and virtues, no. 2533; Al-Tirmidhi, Sunan, Book on virtues of the Companions, no. 3859; Ibn Majah, Sunan, Book on judgments, no. 2362; and Ahmad, vol. 1, p. 434.
@@ -152,7 +155,7 @@ Peace be upon our Prophet Muhammad, his family, Companions and those who followe
 [^9]: Al-Bukhari, Sahih, Book on the beginning of creation, no. 3194; Muslim, Sahih, Sahih on repentance, no. 2751; Al-Tirmidhy, Sunan, Book on supplications, no. 3543; Ibn Majah, Sunan, Book on asceticism, no. 4295; and Ahmad, Musnad, vol. 2, p. 397.
 [^10]: Al-Bukhari, Sahih, Book on expeditions, no. 4351; Muslim, Sahih, Book on Zakah, no. 1064; and Ahmad, Musnad, vol. 3, p. 5.
 [^11]: -
-[^12]: Muslim, Sahih, Book on Masjids and places for Salah, no. 537; Al-Nasa*y, Sunan, Book on Sujud-ul-Sahw, no. 1218; and Abu Dawud, Sunan, Book on Salah, no. 930.
+[^12]: Muslim, Sahih, Book on Masjids and places for Salah, no. 537; Al-Nasa'i, Sunan, Book on Sujud-ul-Sahw, no. 1218; and Abu Dawud, Sunan, Book on Salah, no. 930.
 [^13]: See, for example, (Sarih Al-Bayan) by Al-Habashy, pp. 86-116.
 [^14]: Al-Bukhari, Sahih, Book on merits and virtues, no. 3673; Muslim, Sahih, Book on merits of the Companions, no. 2541; Al-Tirmidhy, Sunan, Book on merits, no. 3861; Abu Dawud, Sunan, Al-Sunnah, no. 4658; Ibn Majah, Sunan, Introduction, no. 161; and Ahmad, Musnad, vol. 3, p. 55.
 [^15]: See, for example, (Bughiat Al-Talib), by Al-Habashy, p. 224.
