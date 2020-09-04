@@ -17,7 +17,7 @@ Praise be to Allah Alone. Peace and blessings be upon the last Prophet, his fami
 
 The Permanent Committee for Scholarly Research and Ifta' has received questions and requests for information about Al-Ahbash Group (the Habashis) and the founder of the group, 'Abdullah Al-Habashy which was founded in Lebanon. This group has many activities in some European countries, America, and Australia. Therefore, the Committee examined the books and articles published by this group, in which it explains its beliefs, thoughts, and call.
 
-After having reviewed these materials, the Committee explains the following for Muslims: 
+Having reviewed these materials, the Committee explains the following for Muslims: 
 
 **First**, it is reported in the Two Sahih (authentic) Books of Hadith (Al-Bukhari and Muslim) from the Hadith of Ibn Mas'ud (may Allah be pleased with him) that the Prophet (peace be upon him) said: "**The best people are those living in my generation, and then those who will follow them, and then those who will follow the latter.**" [^1]
 
@@ -33,13 +33,13 @@ Moreover, according to the Hadith which was authentically reported in Sahih, Sun
 
 **Third**, during the last quarter of the fourteenth century AH, a group emerged whose leader was 'Abdullah Al-Habashy. He moved from Abyssinia (Ethiopia) to the Levant (the region covering Syria, Lebanon, Jordan, and Palestine) taking his misguidance with him. He moved about in that region until he settled in Lebanon where he started to call people to his group. The number of his followers increased and started to spread his ideas which are a mixture of the ideas of Al-Jahmiyyah (a deviant Islamic sect denying some Attributes of Allah, claiming they are ascribed to people and cannot be ascribed to Allah), Al-Mu'tazilah (a deviant Islamic sect claiming that those who commit major sins are in a state between belief and disbelief), Al-Quburiyyah (Grave-worshippers) and [Sufis](/sufism/). He fanatically supported his ideas by engaging in debates and printing books and leaflets to propagate them. 
 
-Anyone who reads what has been written and published by this group will clearly see that their beliefs go beyond the pale of Islam, meaning, Ahl-ul-Sunnah wal-Jama`ah (adherents to the Sunnah and the Muslim mainstream). Among their false beliefs, for example are the following (for example and not exclusively): 
+Anyone who reads what has been written and published by this group will clearly see that their beliefs go beyond the pale of Islam, meaning, Ahl-ul-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream). Among their false beliefs, for example are the following (for example and not exclusively): 
 
-1. With regard to the issue of faith, they follow the school of thought of Al-Irja' [those who believe that sin does not matter as long as the person is a believer] which is condemned in Islam [^4].
+> With regard to the issue of faith, they follow the school of thought of Al-Irja' [those who believe that sin does not matter as long as the person is a believer] which is condemned in Islam [^4].
 
 It is known that the 'Aqidah (creed) of the Muslims, which was that followed by the Companions,the Tabi'un (Followers, the generation after the Companions of the Prophet) and those who follow their steps until the present day, is that Iman (faith) is the matter of words spoken by the tongue, belief is what is held in the heart and actions are what are done by the body. Belief must be accompanied by submission to the laws of Islam, otherwise the so-called faith is not valid. There are many reports from the pious Predecessors which confirm this belief, for example the words of Imam Al-Shafi'i (may Allah be merciful to him): “Among the consensus of the Companions, the Tabi`un, those who came after them and those whom we have met, is that they say: faith is words, actions and intentions; one of these three will not be complete without the other two."
 
-2. They allow calling, seeking refuge with the dead and seeking help from them instead of Allah (Exalted be He). [^5]
+> They allow calling, seeking refuge with the dead and seeking help from them instead of Allah (Exalted be He). [^5]
 
 This is major Shirk (associating others with Allah in His Divinity or worship) according to the texts of the Qur’an, the Sunnah and the Ijma` (consensus of scholars). This major shirk is the same as the religion of the earlier polytheists of Quraysh and others, as Allah (Exalted be He) says: "**And they worship besides Allâh things that harm them not, nor profit them, and they say: “These are our intercessors with Allâh.”**" [Yunus: 18]
 
@@ -55,7 +55,7 @@ They only worshipped their gods so that they would intercede for them with Allah
 
 They also discussed the religion and beliefs of the people of Jahiliyyah (pre-Islamic time of ignorance), and their beliefs and their actions which went against the laws of Allah (Exalted be He). One of the best writers on this topic was Shaykh Al-Islam Ibn Taymiyyah (may Allah be merciful to him), in his numerous books; such as his concise book "Qa`idah Jalilah fi Al-Tawassul wa Al-Wasilah."
 
-3. In their view, the Qur’an is not the Word of Allah in the true sense. [^7]
+> In their view, the Qur’an is not the Word of Allah in the true sense. [^7]
 
 It is known from the texts of the Qur’an, the Sunnah and the Ijma' that Allah (Exalted be He) speaks whenever He wills, in a manner that befits His Majesty (Praised be He) and the Qur’an; both its letters and meanings are from Allah (Exalted be He) in the true sense. Allah (Exalted be He) says: "**And if anyone of the Mushrikûn (polytheists, idolaters, pagans, disbelievers in the Oneness of Allâh) seeks your protection, then grant him protection so that he may hear the Word of Allâh (the Qur’ân)**" [al-Tawbah: 6]
 
@@ -69,7 +69,7 @@ Allah (Glorified and Exalted be He) says: "**They want to change Allâh’s Word
 
 There are many well-known Ayahs transmitted from the Pious predecessors in the same context to confirm this belief, which is stated in the texts of the Qur’an and the Sunnah – to Allah is all praise and blessings. 
 
-4. They believe it is obligatory to interpret the texts of the Qur’an and the Sunnah which speak of the attributes of Allah (may He be glorified and exalted). 
+> They believe it is obligatory to interpret the texts of the Qur’an and the Sunnah which speak of the attributes of Allah (may He be glorified and exalted). 
 
 This is contrary to the Ijma'; from the Sahabah, Tabi'un and those who follow their path until the present day. Muslims see it is obligatory to believe in what has been stated in the texts about the Names and attributes of Allah (Exalted be He) without distorting the meanings, denying any of His attributes, discussing the hows and whys or likening any of Allah’s attributes to those of humans. Muslims believe that there is none like unto Allah (Exalted be He) and that He is the All-Hearing, All-Seeing. They do not deny any of His attributes which He has described for Himself. They do not change the words from their (right) places, belie or deny (or utter impious speech against) His Names or Ayahs. They do not discuss the nature of His attributes, or liken His attributes to those of His creation, because there is nothing that can be compared to Him, and He has no equal or rival. 
 
@@ -77,7 +77,7 @@ Imam Al-Shafi'i (may Allah be merciful to him) said: “**I believe in Allah and
 
 Imam Ahmad (may Allah be merciful to him) said: “**We believe in those attributes and do not reject any of them. We know that the instructions which the Messenger of Allah brought are true. We do not interpret what the Prophet (peace be upon him) said about the attributes and do not describe Allah with more than He has described Himself.**” 
 
-5. From their false beliefs, they deny that Allah is above His creation. [^8]
+> From their false beliefs, they deny that Allah is above His creation. [^8]
 
 The belief of Muslims, as indicated by Ayahs of the Qur’an, the Hadiths of the Prophet, sound human nature and clear common sense is that Allah is above His creation, over His Throne, and that nothing at all of His creatures’ affairs is hidden from Him. Allah (Exalted be He) says: "**...then He rose over (Istawâ) the Throne (really in a manner that suits His Majesty).**" [al-A'raf: 54] In seven positions in His Book.
 
@@ -93,17 +93,17 @@ Along other similar Ayahs. Many authentic Hadiths have been reported from the Pr
 
 So he went back up to his Lord to ask Him to reduce them. It was reported in the Two Sahih (authentic) Books of Hadith (Al-Bukhari and Muslim) that Abu Hurayrah (may Allah be pleased with him) narrated that the Messenger of Allah (peace be upon him) said: "**When Allah created the creation, He wrote in His Book, which is with Him above the Throne: ‘Verily, My Mercy prevails over My Anger.'**" [^9]
 
-It was reported in the Two Sahih from Abu Sa'id Al-Khudry (may Allah be pleased with him) that the Prophet (peace be upon him) said: "Do you not trust me even though I am the trustworthy man of the One in the Heavens...?" [^10]
+It was reported in the Two Sahih from Abu Sa'id Al-Khudry (may Allah be pleased with him) that the Prophet (peace be upon him) said: "**Do you not trust me even though I am the trustworthy man of the One in the Heavens...?**" [^10]
 
-It is related in Sahih Ibn Khuzaymah and Sunan Abu Dawud that the Prophet (peace be upon him) said: "The throne is above water; Allah is above the Throne; and He knows your states." [^11]
+It is related in Sahih Ibn Khuzaymah and Sunan Abu Dawud that the Prophet (peace be upon him) said: "**The throne is above water; Allah is above the Throne; and He knows your states.**" [^11]
 
-It is related in Sahih Muslim and elsewhere about the story of the slave girl and that the Prophet (peace be upon him) said to her, "Where is Allah. She replied: In the heaven. He (peace be upon him) asked her: Who am I? She replied: You are the Messenger of Allah. Then he (peace be upon him) said to her master: Release her for she is a believer." [^12]
-
-This is the pure belief which was adhered to by Muslims: Sahabah, Tabi`un and those who have followed them sincerely until the present day, praise be to Allah. Because of the great importance of this topic and because there are so much proofs - which exceed one thousand Ayahs and Hadith - scholars have singled them out with special compilations such as Al-Hafizh Abu ‘Abdullah Al-Dhahaby in "Al-‘Ulu lil ‘Aliy Al-Ghaffar", and Al-Hafizh Ibn Al-Qayyim in "Ijtima‘ Al-Juyush Al-Islamiyyah."
+It is related in Sahih Muslim and elsewhere about the story of the slave girl and that the Prophet (peace be upon him) said to her, "**Where is Allah. She replied: In the heaven. He (peace be upon him) asked her: Who am I? She replied: You are the Messenger of Allah. Then he (peace be upon him) said to her master: Release her for she is a believer.**" [^12]
 
 This is the pure belief which was adhered to by Muslims: Sahabah, Tabi'un and those who have followed them sincerely until the present day, praise be to Allah. Because of the great importance of this topic and because there are so much proofs - which exceed one thousand Ayahs and Hadith - scholars have singled them out with special compilations such as Al-Hafizh Abu ‘Abdullah Al-Dhahaby in "Al-‘Ulu lil ‘Aliy Al-Ghaffar", and Al-Hafizh Ibn Al-Qayyim in "Ijtima‘ Al-Juyush Al-Islamiyyah."
 
-6. They speak ill about some of the Sahabah. [^13]
+This is the pure belief which was adhered to by Muslims: Sahabah, Tabi'un and those who have followed them sincerely until the present day, praise be to Allah. Because of the great importance of this topic and because there are so much proofs - which exceed one thousand Ayahs and Hadith - scholars have singled them out with special compilations such as Al-Hafizh Abu ‘Abdullah Al-Dhahaby in "Al-‘Ulu lil ‘Aliy Al-Ghaffar", and Al-Hafizh Ibn Al-Qayyim in "Ijtima‘ Al-Juyush Al-Islamiyyah."
+
+> They speak ill about some of the Sahabah. [^13]
 
 For example, they speak ill about Mu'awiyah (may Allah be pleased with him) in a way that resembles that of Al-Rafidah (a Shi'ah group denying the caliphates of Abu Bakr Al-Siddiq and `Umar ibn Al-Khattab and making accusations against them and many other Companions of the Prophet). It is the duty of Muslims not to discuss what happened among the Sahabah (may Allah be pleased with them all), safeguarding their tongue to mention the trial along with believing that all of them were good and virtuous because they accompanied the Messenger of Allah (peace be upon him). It was reported that the Prophet (peace be upon him) said: "**Do not abuse my Companions for if anyone of you spent gold equal to Uhud (in Allah's Cause) it would not be equal to a Mud or even a half Mud spent by one of them.**" (Related by Al-Bukhari and Muslim). [^14]
 
@@ -113,12 +113,12 @@ This is the sound belief concerning the Companions of the Prophet (peace be upon
 
 Love for them is true religion, faith and goodness; hatred for them is kufr, hypocrisy and transgression. Fourth, what we may note about this group is that they follow strange fatwas, which go against the Shari`ah texts. For example, they permit gambling with the unbelievers to take away their money; they permit stealing the unbelievers' crops and animals on the condition that it will not cause fitnah (trial); they permit dealing in Riba (usury) when dealing with the unbelievers; and they permit dealing in lotteries, which is unlawful. 
 
-#### The following are some of the matters they adhere to which are obviously against the Shari'ah: 
+### The following are some of the matters they adhere to which are obviously against the Shari'ah: 
 
 - They permit looking at non-Mahram women (not a wife or an unmarriageable female relative) in a mirror or through a screen lustfully. They say that frequent looking at a non-Mahram woman is lawful. [^15]
 - They say that it is permissible for men to look at any part of non-Mahram women. [^16]
-- It is lawful if a woman goes out applying make-up and perfume without having the intention to seduce men. [^17]
-- They permit free mixing of men and women [^18] along with other odd and outrageous fatwas which go against Shari`ah; considering some of major sins permissible. 
+-  It is lawful if a woman goes out applying make-up and perfume without having the intention to seduce men. [^17]
+-  They permit free mixing of men and women [^18] along with other odd and outrageous fatwas which go against Shari`ah; considering some of major sins permissible. 
 
 We ask Allah to keep us safe from the causes which provoke His wrath and bring about His punishment.
 
