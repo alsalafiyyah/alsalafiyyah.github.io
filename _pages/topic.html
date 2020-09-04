@@ -104,11 +104,16 @@ permalink: /topic/
 </header>
 
 {% if site.data.settings.chapters %}
+ <select id="nav">
+  {% for item in site.data.settings.chapters %}
+     <option value="{{ item.link }}">{{ item.name }}</option>
+  {% endfor %}
+</select><br/>
 <div id="fatwas-list">
 <input class="search" type="text" placeholder="Find a topic"/><br/>
 <ul class="list" style="list-style: none; padding: 0; margin: 0;">
 {% for item in site.data.settings.chapters %}
- <li><a class="icon fa fa-folder title" href="{{ item.link }}"> {{ item.name | join: ', ' }}</a></li>
+ <li><a class="icon fa fa-folder title" href="{{ item.link }}"> {{ item.name }}</a></li>
 {% endfor %}
 </ul>
 <br/><ul class="pagination"></ul>
