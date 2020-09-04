@@ -2,7 +2,7 @@
 layout: post
 title: "If we suppose that a certain group has a lawful excuse to rebel against a ruler..."
 publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat p. 8/202, question 2"
+source: "Majmu' Fatawa wa Maqalat p. 8/202, question 3"
 category: [rulership]
 hijri: Muharram 16, 1442 AH
 date: 2020-09-04
