@@ -104,10 +104,14 @@ permalink: /topic/
 </header>
 
 {% if site.data.settings.chapters %}
+<div id="fatwas-list">
+<input type="text" placeholder="Filter topic"/>
+<ul>
 {% for item in site.data.settings.chapters %}
- <a href="{{ item.link }}">{{ item.name | join: ', ' }}</a>
+ <li><a class="fatwas-title" href="{{ item.link }}">{{ item.name | join: ', ' }}</a></li>
 {% endfor %}
+</ul>
+</div>
 {% endif %}
-
 
 </article>
