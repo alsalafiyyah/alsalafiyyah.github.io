@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ruling on a person who abstains from supplicating to Allah for the ruler"
+title: "Ruling on abstains from supplicating to Allah for the ruler"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat p. 8/202"
 category: [rulership]
