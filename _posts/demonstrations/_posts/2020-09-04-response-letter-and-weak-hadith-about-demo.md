@@ -3,7 +3,7 @@ layout: post
 title: "Response to a letter from Shaykh Abdul-Rahman ibn Abdul-Khaliq and weak Hadith that support the demonstrations"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat p. 8/246"
-category: [ikhwanis, refutals, demo]
+category: [ikhwanis, refutals, demo, rulership]
 hijri: Muharram 16, 1442 AH
 date: 2020-09-04
 shaykhs: Shaykh Abdul-Aziz Ibn Baz
