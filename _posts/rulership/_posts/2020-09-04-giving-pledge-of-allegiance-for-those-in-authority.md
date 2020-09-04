@@ -2,7 +2,7 @@
 layout: post
 title: "Does giving the pledge of allegiance entail supplicating to Allah for those in authority?"
 publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat p. 8/202, question 8"
+source: "Majmu' Fatawa wa Maqalat p. 8/209"
 category: [rulership]
 hijri: Muharram 16, 1442 AH
 date: 2020-09-04
