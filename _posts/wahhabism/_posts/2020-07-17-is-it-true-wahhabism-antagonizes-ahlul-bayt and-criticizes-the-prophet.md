@@ -6,7 +6,7 @@ source: "Majmu' Fatawa Shaykh ibn Baz 9/238"
 category: [wahhabism]
 hijri: Dhul-Qa'dah 26, 1441 AH
 lang: en
-shaykhs: Shaykh ibn Baz
+shaykhs: Shaykh Abdul-Aziz ibn Baz
 ---
 
 Question: 
