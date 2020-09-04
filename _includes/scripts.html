@@ -7,3 +7,10 @@
   <script src="{{ "/assets/js/util.js" | relative_url }}"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js"></script>
   <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
+  <script>
+    var fatwasList = new List('fatwas-list', {
+  valueNames: ['fatwas-title'],
+  page: 8,
+  pagination: true
+});
+  </script>
