@@ -1,9 +1,17 @@
-﻿				<!-- Footer -->
+				<!-- Footer -->
 					<footer id="footer">
 						<section>
 								<div class="fields">
 
 							{% include search-form.liquid %}
+{% if site.data.settings.chapters %}
+ <select onchange="document.location.href=this.value">
+  <option selected>Select</option>
+  {% for item in site.data.settings.chapters %}
+  <option value="{{ item.link }}">{{ item.name }}</option>
+  {% endfor %}
+</select>
+{% endif %}							
 								</div>
 						</section>
 						<section class="split contact">
