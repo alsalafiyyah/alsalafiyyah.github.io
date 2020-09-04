@@ -2,7 +2,7 @@
 layout: post
 title: "Ruling on rebel against the rulers"
 publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat 8/202"
+source: "Majmu' Fatawa wa Maqalat p. 8/202, question 1"
 category: ["rulership"]
 hijri: Dhul-Qa'dah 30, 1441 AH
 date: 2020/07/21
