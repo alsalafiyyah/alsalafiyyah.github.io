@@ -3,7 +3,7 @@ layout: post
 title: "Jama'at-ul-Ahbash (the Habashis)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 19606"
-category: [habashis]
+category: [habashis, refutals]
 hijri: Muharram 16, 1442 AH
 date: 2020-09-04
 shaykhs: 
