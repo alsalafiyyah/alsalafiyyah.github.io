@@ -108,7 +108,7 @@ permalink: /topic/
 <input class="search" type="text" placeholder="Find a topic"/><br/>
 <ul class="list" style="list-style: none;">
 {% for item in site.data.settings.chapters %}
- <li><a class="icon solid fa fa-folder title" href="{{ item.link }}"> {{ item.name | join: ', ' }}</a></li>
+ <li><a class="icon fa fa-folder title" href="{{ item.link }}"> {{ item.name | join: ', ' }}</a></li>
 {% endfor %}
 </ul>
 <ul class="pagination"></ul>
