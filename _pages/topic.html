@@ -104,9 +104,10 @@ permalink: /topic/
 </header>
 
 {% if site.data.settings.chapters %}
- <select id="nav">
+ <select onchange="document.location.href=this.value">
+  <option value="" selected>Select topic</option>
   {% for item in site.data.settings.chapters %}
-     <option value="{{ item.link }}">{{ item.name }}</option>
+  <option value="{{ item.link }}">{{ item.name }}</option>
   {% endfor %}
 </select><br/>
 <div id="fatwas-list">
