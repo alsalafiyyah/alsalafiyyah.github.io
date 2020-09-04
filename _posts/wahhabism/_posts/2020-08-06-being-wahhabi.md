@@ -9,16 +9,15 @@ link: shorturl.at/iKW36
 hijri: Dhul-Hijjah 16, 1441 AH
 date: 2020/08/6
 shaykhs: Shaykh Abdul-Aziz ibn Baz
-permalink: /wahhabis/
 ---
 
 Question:
 
-There is a group of people, if we perform Da'wah to them, call them to Allah (Glorified and Exalted be He) advise them to abandon shirk, they will accuse us of being a Wahhabi. How do we deal with them? 
+There is a group of people, if we perform Da'wah to them, call them to Allah (Glorified and Exalted be He) advise them to abandon shirk, they will accuse us of being a [Wahhabi](/wahhabism/). How do we deal with them? 
 
 Answer:
 
-There is no such thing as a Wahabbi Madhab, rather it is the worship of Allah and His Prophet (peace be upon him). Wahhabism call people to what Allah and His Prophet (peace be upon him) have said. Shaykh Muhammad ibn Abdul-Wahhab (may Allah be merciful with him) was the first to be referred to as Wahhabi, he existed during the second half of the twelfth century of the Muslim calendar. He called people to what Allah and His Prophet said, and to the 'Aqidah of the righteous Salaf who followed the Prophet (peace be upon him) and the Sahabah in their words and actions. He followed the Madhab of Imam Ahmad ibn Hanbal. 
+There is no such thing as a [Wahabbi](/wahhabism/) Madhab, rather it is the worship of Allah and His Prophet (peace be upon him). Wahhabism call people to what Allah and His Prophet (peace be upon him) have said. Shaykh Muhammad ibn Abdul-Wahhab (may Allah be merciful with him) was the first to be referred to as Wahhabi, he existed during the second half of the twelfth century of the Muslim calendar. He called people to what Allah and His Prophet said, and to the 'Aqidah of the righteous Salaf who followed the Prophet (peace be upon him) and the Sahabah in their words and actions. He followed the Madhab of Imam Ahmad ibn Hanbal. 
 
 Moreover, Allah made him successful in calling people to the right 'Aqidah, abandoning shirk, and abandoning Bid'ahs and myths which were created and followed by the Sufi's and others. He called people to the 'Aqidah of the righteous Salaf in actions and deeds. Also, he forbade the Bid'ah of 'Ahlul-Kalam (scholars who search for answers to creedal issues using logic), and the Bid'ah which is followed by some Sufi's who have deviated from the correct path to the path of Bid'ah. He does not have a doctrine that contradicts doctrine of Ahl-us-Sunnah wal-Jama'ah. Rather, he called only to the doctrine of Ahl-us-Sunnah wal-Jama'ah. 
 
