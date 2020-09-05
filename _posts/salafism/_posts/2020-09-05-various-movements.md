@@ -2,7 +2,7 @@
 layout: post
 title: "About the various movements"
 publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat vol 4"
+source: "Majmu' Fatawa wa Maqalat 4/166"
 hijri: Muharram 17, 1442 AH
 date: 2020/09/05
 category: [sufism, salafism]
