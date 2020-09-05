@@ -3,11 +3,11 @@ layout: default
 ---
 
 <article>
-  <ul>
+  <ol>
 {% for refutals in site.refutals %}
   <li>
     <span><b>{{ refutals.hijri }}</b> : <a href="{{ refutals.url }}">{{ refutals.title }}</a></span>
   </li>
 {% endfor %}
-  </ul>
+  </ol>
 </article>
