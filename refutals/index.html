@@ -4,7 +4,7 @@ Title: Refutations
 permalink: /refutations/
 ---
 
-   {% for refutals in site.refutals %}
+   {% for refutals in site.collections %}
 	  <h3><a href="{{ refutals.url | prepend: site.baseurl }}">{{ refutals.title }}</a></h3>
         <p>
           {{ refutals.description | truncate: 160 }}
