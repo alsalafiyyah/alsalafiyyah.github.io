@@ -54,6 +54,9 @@ defaults:
         path:       muqolat/_posts
     values:
         permalink:  '/muqolat/:title'
-
+  - scope:
+        path:       refutals
+    values:
+        permalink:  '/refutals/:title'
       
      
