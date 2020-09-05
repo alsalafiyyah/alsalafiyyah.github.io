@@ -14,6 +14,8 @@ shaykhs:
 
 Question:
 
+We were informed that a translation of the Qur'an by Muhammad Asad would be published soon in  Dublin, Ireland. This translation will be distributed here. A committee, from among Indian Muslim Professors, has been formed to publish this translation.  Muhammad Asad alleges in his translation that Prophet 'Isa (Jesus) died and that the Muslims' belief in his return is not true. In the light of this allegation, I would like to ask the following questions: 
+
 Why was the translation mentioned above published in a Muslim country taking into account that Muhammad Asad - to my knowledge - is living in the Kingdom of Morocco? I find nothing in the Qur’an or the Sunnah to support the issues mentioned in it. I hope that your Fatwa will back me to refute these matters and prevent the publication of this translation here.
 
 Answer:
