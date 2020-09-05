@@ -3,9 +3,9 @@ layout: default
 permalink: /refutations/
 ---
 
-   {% for refutal in site.refutals %}
-	  <h3><a href="{{ refutal.url | prepend: site.baseurl }}">{{ refutal.title }}</a></h3>
+   {% for collection in site.collections %}
+	  <h3><a href="{{ collection.url | prepend: site.baseurl }}">{{ collection.title }}</a></h3>
         <p>
-          {{ refutal.content | strip_html | truncatewords: 30 }}
+          {{ collection.content | strip_html | truncatewords: 30 }}
         </p>
    {% endfor %} 
