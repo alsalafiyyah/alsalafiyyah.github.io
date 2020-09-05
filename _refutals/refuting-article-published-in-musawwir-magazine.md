@@ -5,6 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat p. 2/98"
 category: [refutals]
 hijri: Muharram 17, 1442 AH
+active: refutals
 shaykhs: Shaykh Abdul-Aziz Ibn Baz
 ---
 
