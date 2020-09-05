@@ -4,8 +4,10 @@ permalink: /refutations/
 ---
 
    {% for collection in site.collections %}
-	  <h3><a href="{{ collection.url | prepend: site.baseurl }}">{{ collection.title }}</a></h3>
+   {% for item in site.refutals %}
+	  <h3><a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></h3>
         <p>
-          {{ collection.content | strip_html | truncatewords: 30 }}
+          {{ item.content | strip_html | truncatewords: 30 }}
         </p>
+   {% endfor %} 
    {% endfor %} 
