@@ -5,9 +5,9 @@ layout: default
 <article>
   <ul>
 {% for refutals in site.refutals %}
-  <li><a href="{{ refutals.url }}">
-    <span><b>{{ refutals.hijri }}</b> : {{ refutals.title }}</span>
-    </a></li>
+  <li>
+    <span><b>{{ refutals.hijri }}</b> : <a href="{{ refutals.url }}">{{ refutals.title }}</a></span>
+  </li>
 {% endfor %}
   </ul>
 </article>
