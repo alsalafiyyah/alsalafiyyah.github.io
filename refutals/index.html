@@ -1,13 +1,13 @@
 ---
 layout: default
+Title: Refutations
 permalink: /refutations/
 ---
 
-   {% for collection in site.collections %}
-   {% for item in site.refutals %}
-	  <h3><a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></h3>
+   {% for refutal in site.refutals %}
+	  <h3><a href="{{ refutal.url | prepend: site.baseurl }}">{{ refutal.title }}</a></h3>
         <p>
-          {{ item.content | strip_html | truncatewords: 30 }}
+          {{ refutal.content | strip_html | truncatewords: 30 }}
         </p>
    {% endfor %} 
-   {% endfor %} 
+ 
