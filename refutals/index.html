@@ -1,0 +1,11 @@
+---
+layout: default
+permalink: /refutations/
+---
+
+   {% for article in site.refutals %}
+	  <h3><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h3>
+        <p>
+          {{ page.content | strip_html | truncatewords: 30 }}
+        </p>
+   {% endfor %} 
