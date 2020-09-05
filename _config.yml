@@ -60,4 +60,8 @@ page_collections:
 - refutals:
     permalink: /refutals/:title/
 
-     
+collections:
+  refutals:
+    output: true
+    permalink: /:path/
+    
