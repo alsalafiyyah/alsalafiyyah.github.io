@@ -2,11 +2,10 @@
 layout: default
 ---
 
-
-{% for refutals in site.refutals %}
 <article>
+{% for refutals in site.refutals %}
   <a href="{{ refutals.url }}">
-    <span>{{ refutals.hijri }}: {{ refutals.title }}</span>
+    <span>{{ refutals.hijri }} : {{ refutals.title }}</span>
   </a>
-</article>
 {% endfor %}
+</article>
