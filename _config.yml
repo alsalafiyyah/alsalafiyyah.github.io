@@ -24,6 +24,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
   - liquid
+  - page_collections
 
 exclude:
   - Gemfile
