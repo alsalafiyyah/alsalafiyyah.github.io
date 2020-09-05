@@ -55,9 +55,8 @@ defaults:
     values:
         permalink:  '/muqolat/:title'
 
-collections:
-  refutals:
-    permalink: /refutals/:path/
-    output: true
+page_collections:
+- refutals:
+    permalink: /refutals/:title/
 
      
