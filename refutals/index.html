@@ -7,7 +7,7 @@ permalink: /refutations/
    {% for refutals in site.refutals %}
 	  <h3><a href="{{ refutals.url | prepend: site.baseurl }}">{{ refutals.title }}</a></h3>
         <p>
-          {{ refutals.content | strip_html | truncatewords: 30 }}
+          {{ refutals.description | truncate: 160 }}
         </p>
    {% endfor %} 
  
