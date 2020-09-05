@@ -128,7 +128,10 @@ sidebar_menu:
   - name: Downloads
     link: /downloads/
     active: downloads
-
+  - name: Refutals
+    link: /refutations/
+    active: refutations
+    
 social: 
   fb: Facebook
   gplus: Google plus
