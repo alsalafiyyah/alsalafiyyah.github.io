@@ -63,5 +63,5 @@ page_collections:
 collections:
   refutals:
     output: true
-    permalink: /:path/
+    permalink: /refutals/:path/
     
