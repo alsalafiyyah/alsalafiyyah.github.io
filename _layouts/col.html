@@ -2,6 +2,12 @@
 layout: default
 ---
 
+{% for refutals in site.refutals %}
+  <a href="{{ refutals.url }}">
+    <h3>{{ refutals.title }}</h3>
+  </a>
+{% endfor %}
+
     {{ content }}
 
     {% if page.previous %}
