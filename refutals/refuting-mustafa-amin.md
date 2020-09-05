@@ -6,6 +6,7 @@ source: "Majmu' Fatawa wa Maqalat p. 1/391"
 category: [refutals]
 hijri: Muharram 17, 1442 AH
 date: 2020-09-05
+description: Glorifying monuments is not by building memorials, inscriptions, and following in the footsteps of non-Muslims. The true celebration of these monuments is to follow in the footsteps of the people who did these brilliant exploits, to imitate their good morality, and their struggle in the Cause of Allah patiently and sincerely with words and actions.
 shaykhs: Shaykh Abdul-Aziz Ibn Baz
 ---
 
