@@ -80,6 +80,6 @@ May Allah's Peace and Blessings be upon His servant and messenger, Muhammad, and
 [^1]: Muslim, Sahih, Book on faith, no. 55; Al-Nasa'i, Sunan, Book on Al-Bay'ah, no. 4198; Abu Dawud, Sunan, Book on manners, no. 4944; and Ahmad ibn Hanbal, Musnad, vol. 4, p. 102.
 [^2]: Al-Bukhari, Sahih, Book on reconciliation, no. 2697; Muslim, Sahih, Book on judicial decisions, no. 1718; Abu Dawud, Sunan, Book on Al-Sunnah, no. 4606; Ibn Majah, Sunan, Introduction, no. 14; and Ahmad, Musnad, vol. 6, p. 240.
 [^3]: Muslim, Sahih, Book on judicial decisions, no. 1718; and Ahmad ibn Hanbal, Musnad, vol. 6, p. 256.
-[^4]: Muslim, Sahih, Book on Friday, no. 867; Al-Nasa*y, Sunan, Book on the two 'Eid Prayers, no. 1578; Ibn Majah, Sunan, Introduction, no. 45; Ahmad ibn Hanbal, Musnad, vol. 3, p. 371; and Al-Darimy, Sunan, Introduction, no. 206.
+[^4]: Muslim, Sahih, Book on Friday, no. 867; Al-Nasa'i, Sunan, Book on the two 'Eid Prayers, no. 1578; Ibn Majah, Sunan, Introduction, no. 45; Ahmad ibn Hanbal, Musnad, vol. 3, p. 371; and Al-Darimy, Sunan, Introduction, no. 206.
 [^5]: Al-Bukhari, Sahih, Book on holding fast to the Book and the Sunnah, no. 7320; Muslim, Sahih, Book on knowledge, no. 2669; Ahmad ibn Hanbal, Musnad, vol. 3, p. 84.
 [^6]: Al-Bukhari, Sahih, Book on Friday, no. 1189; Muslim, Sahih, Book on Hajj, no. 1397; Al-Nasa'i, Sunan, Book on Masjids, no. 700; Abu Dawud, Sunan, Book on rituals, no. 2033; Ibn Majah, Sunan, Book on performing Prayer and its Sunan, no. 1409; Ahmad ibn Hanbal, Musnad, vol. 2, p. 234; and Al-Darimy, Sunan, Book on Salah, no. 1421.
