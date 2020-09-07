@@ -5,7 +5,6 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat p. 8/240"
 category: [ikhwanis, refutals]
 hijri: Muharram 16, 1442 AH
-date: 2020-09-04
 shaykhs: Shaykh Abdul-Aziz Ibn Baz
 ---
 
