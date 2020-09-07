@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Abdullah Al-Habashy is misguided"
+title: "Abdullah Al-Habashy"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa Shaykh ibn Baz 9/315"
 category: [habashis, refutals]
-date: 2020-07-17
 hijri: Dhul-Qa'dah 26, 1441 AH
 shaykhs: Shaykh Abdul-Aziz ibn Baz
 ---
