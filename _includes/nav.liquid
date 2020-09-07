@@ -1,12 +1,12 @@
 ﻿				<!-- Nav -->
-					<nav id="nav">
-						<ul class="links">
+					<nav id="nav" role="navigation">
+						<ul class="links" role="menubar" aria-activedescendant="">
                                                 {% for item in site.data.settings.sidebar_menu %}
 						 {% if {{page.active}} == {{item.active}} %}
-                                                   <li class="active">
-                                                  <a href="{{ item.link }}">{{ item.name }}</a></li>
+                                                   <li class="active" role="presentation" itemscope itemtype="https://schema.org/SiteNavigationElement">
+                                                  <a role="menuitem" tabindex="-1" itemprop="url" href="{{ item.link }}"><span itemprop="name">{{ item.name }}</span></a></li>
                                                 {% else %}
-						  <li><a href="{{ item.link }}">{{ item.name }}</a>
+						  <li role="presentation" itemscope itemtype="https://schema.org/SiteNavigationElement"><a role="menuitem" tabindex="-1" itemprop="url" href="{{ item.link }}"><span itemprop="name">{{ item.name }}</span></a>
                                                 </li>
                                                 {% endif %}
                                                 {% endfor %}
