@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About the various movements"
+title: "On various Islamic movements"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 4/166"
 hijri: Muharram 17, 1442 AH
