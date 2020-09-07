@@ -17,17 +17,5 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
   {% include tipue.html %}
-  <script type="application/ld+json">
-{
-  "@context" : "http://schema.org",
-  "@type" : "WebSite", 
-  "name" : "{{ site.title | escape }}",
-  "url" : "{{ site.url }}",
-  "potentialAction" : {
-    "@type" : "SearchAction",
-    "target" : "{{ '/search?q=salaf' | absolute_url }}",
-    "query-input" : "required name=salaf"
-  }                     
-}
-</script>
+
 </head>
