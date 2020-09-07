@@ -1,6 +1,6 @@
    {% for post in paginator.posts %}
    <article itemscope itemtype="http://schema.org/Article">
-	<h3><a href="{{ post.url | prepend: site.baseurl }}"><span itemprop="name">{{ post.title }}</span></a></h3>
+	<h3><a itemprop="url" href="{{ post.url | prepend: site.baseurl }}"><span itemprop="name">{{ post.title }}</span></a></h3>
         <p itemprop="articleBody">
           {{ post.content | strip_html | truncatewords: 30 }}
         </p>
