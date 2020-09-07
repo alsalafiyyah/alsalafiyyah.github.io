@@ -1,6 +1,6 @@
    {% for post in paginator.posts %}
    <article>
-	<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+	<h3 itemprop="name"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
         <p>
           {{ post.content | strip_html | truncatewords: 30 }}
         </p>
