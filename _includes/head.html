@@ -22,7 +22,7 @@
   "@context" : "http://schema.org",
   "@type" : "WebSite", 
   "name" : "{{ site.title | escape }}",
-  "url" : "{{ relative_url }}",
+  "url" : "{{ site.baseurl }}",
   "potentialAction" : {
     "@type" : "SearchAction",
     "target" : "{{ '/search?q=salaf' | absolute_url }}",
