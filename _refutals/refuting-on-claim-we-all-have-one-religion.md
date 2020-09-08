@@ -56,5 +56,5 @@ May Allah grant all Muslims and us success in establishing true brotherhood for 
 
 ---
 
-[^1]: Muslim, Sahih, Book on righteousness, upholding ties of kinship, and good manners, no. 2564; and Ahmad ibn Hanbal, Musnad, vol. 2, p. 277.
-[^2]: 
+[^1]: Sahih Muslim [Book on righteousness, upholding ties of kinship, and good manners] no. 2564; Musnad Ahmad p. 2/277.
+[^2]: Majmu' Fatawa of ibn Taymiyyah p. 3/90
