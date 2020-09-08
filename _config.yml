@@ -65,7 +65,7 @@ collections:
     output: true
     permalink: /refutals/:path/
   fatwas:
-    output: false
+    output: true
 
     
     
