@@ -50,3 +50,7 @@ If it is said that such ceremonies are an expression of the cooperative relation
 
 May Allah grant all Muslims and us success in establishing true brotherhood for the Sake of Allah and grant us affection in His Cause. May Allah guide humanity to accept the Deen of Allah sent down on His Prophet Muhammad (peace be upon him), adhere to it, judge by it, and abstain from all its prohibitions! Verily, this is the everlasting happiness and survival in this world and in the Hereafter. It provides a solution to every present problem and in the future, for it is extremely benevolent. May peace and blessings be upon His Servant and Messenger, Prophet Muhammad, upon his family and Companions!
 
+---
+
+[^1]: Muslim, Sahih, Book on righteousness, upholding ties of kinship, and good manners, no. 2564; and Ahmad ibn Hanbal, Musnad, vol. 2, p. 277.
+[^2]: 
