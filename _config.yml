@@ -66,3 +66,6 @@ collections:
     permalink: /refutals/:path/
   fatwas:
     output: true
+    special: true
+    
+    
