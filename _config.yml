@@ -64,8 +64,9 @@ collections:
   refutals:
     output: true
     permalink: /refutals/:path/
-  fatwas:
+  wahhabism:
     output: true
+    permalink: /wahhabism/:path/
 
     
     
