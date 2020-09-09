@@ -6,7 +6,9 @@ hijri: Dhul-Hijjah 24, 1441 AH
 date: 2020/08/14
 category: [wahhabism, audios]
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_864/nour_86402.mp3
-shaykhs: Shaykh Abdul-Aziz ibn Baz
+shaykhs: 
+ - Shaykh Abdul-Aziz ibn Baz
+ - Scholars of Al-Lajnah Al-Da'imah
 ---
 
 Question: 
@@ -39,7 +41,22 @@ However, the Saudi scholars, and among them Shaykh Muhammad Ibn Abdul-Wahhab (ma
 
 It is that Shar'i reverence that implies no excess and no Bid'ah. Rather, it is reverence that implies following Shar'ah, glorifying his commands and prohibitions, defending his Sunnah, calling people to follow him and warning them against Shirk, Munkar and Bid'ah. They all follow that path; calling people to follow the Messenger of Allah (peace be upon him) and to glorify his Sunnah, to offer acts of worship with foil sincerity to Allah and warning them about committing Shirk and the Bid'ah that have become widespread among people for ages now. This dome that was put on the grave of the Prophet (peace be upon him) is a Bid'ah and it was left only to avoid ill thoughts and Fitnah. May Allah grant us success. 
 
+---
+
+It says in Fatawa Al-Lajnah Al-Da'imah [^5]: "The dome built on the grave of the Prophet (peace be upon him) should not be used as a pretext for building domes on the graves of Awliya’ (pious people) and the righteous, for neither the Prophet (peace be upon him) made a will that a dome should be built on his grave, nor was it built by his Companions, or the Tabi‘un (Followers, the generation after the Companions of the Prophet) or the rightly-guided Imams who lived during the first centuries of Islam whose virtue and excellence are attested to by the Prophet (peace be upon him). Rather, it was built by the people of Bid‘ahs (innovations in religion). 
+
+Moreover, the Prophet (peace be upon him) is authentically reported to have said: “**Whoever introduces anything into this matter of ours (Islam) that is not part of it, will have it rejected.**” [^6]
+
+Moreover, Ali, (may Allah be pleased with him) is authentically reported to have said to Abu Al-Hayyaj: “**Shall I not send you on the same mission as the Messenger of Allah (peace be upon him) sent me? Do not leave any image without erasing it or any high grave without leveling it.**” Recorded by Muslim. [^7]
+
+Consequently, since neither the Prophet (peace be upon him) nor the rightly-guided Imams are reported to have built a dome on his grave, - in fact, the Prophet (peace be upon him) is reported to have enjoined the contrary - a Muslim should not take the dome built by people of Bid‘ah on the grave of the Prophet (peace be upon him) as an ideal to be imitated.
+
+---
+
 [^1]: Al-Bukhari, Fat-h-ul-Bary, no. 437; and Muslim, Sahih [Sharh Al-Nawawy], vol. 5, p. 12.
 [^2] Muslim, Al-Nawawi p. 5/13.
 [^3]: Sahih Muslim no. 966; Ibn Hibban 160.
 [^4]: Ibn Hibban no. 6635, Bayhaqi no. 8800.
+[^5]: Fatwa no. 1448
+[^6]: Al-Bukhari, Sahih, Book on reconciliation, no. 2697; Muslim, Sahih, Book on judicial decisions, no. 1718; Abu Dawud, Sunan, Book on Al-Sunnah, no. 4606; Ibn Majah, Sunan, Introduction, no. 14; and Ahmad, Musnad, vol. 6, p. 240.
+[^7]: Muslim, Sahih, Book on funerals, no. 969; Al-Tirmidhy, Sunan, Book on funerals, no. 1049; Al-Nasa'i, Sunan, Book on funerals, no. 2031; Abu Dawud, Book on funerals, no. 3218; and Ahmad, Musnad, vol. 1, p. 139.
