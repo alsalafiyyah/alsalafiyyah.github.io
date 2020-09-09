@@ -8,6 +8,8 @@ layout: default
   <li>
     <span><b>{{ refutals.hijri }}</b> : <a href="{{ refutals.url }}">{{ refutals.title }}</a></span>
   </li>
+{% else %}
+{{site.data.settings.page.no-fatwas}}
 {% endfor %}
   </ol>
 </article>
