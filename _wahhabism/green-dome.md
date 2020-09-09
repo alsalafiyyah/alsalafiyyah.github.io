@@ -17,7 +17,7 @@ I know that building domes on graves is impermissible; however, some people say 
 
 Answer: 
 
-There is no doubt that building domes on graves is Bid'ah and Munkar like building Masjids thereon, for it was proven that the Messenger of Allah (peace be upon him) said: May Allah curse the Jews and the Christians for taking the graves of their prophets as places of worship Moreover, it was proven that the Prophet (peace be upon him) said: "**Those before you used to take the graves of their prophets and pious people as places of worship." [^1] 
+There is no doubt that building domes on graves is Bid'ah and Munkar like building Masjids thereon, for it was proven that the Messenger of Allah (peace be upon him) said: May Allah curse the Jews and the Christians for taking the graves of their prophets as places of worship Moreover, it was proven that the Prophet (peace be upon him) said: "**Those before you used to take the graves of their prophets and pious people as places of worship.**" [^1] 
 
 "**Do not take them as Masjids (places of worship). I forbid you to do that.**" (Related by Muslim in his Sahih (authentic) Book of Hadith). [^2]
 
