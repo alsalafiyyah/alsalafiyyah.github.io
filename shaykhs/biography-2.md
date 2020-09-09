@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "The Da'wah of Imam Muhammad ibn 'Abdul-Wahhab is the true Islamic Da'wah"
 publisher: "alsalafiyyah@icloud.com"
