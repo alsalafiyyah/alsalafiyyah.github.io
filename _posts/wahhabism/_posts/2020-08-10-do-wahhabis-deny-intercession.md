@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Do Wahhabis deny Shafa’ah (intercession)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 9420-2"
