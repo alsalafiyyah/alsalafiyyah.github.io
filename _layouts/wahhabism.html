@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<article>
+  <ol>
+{% for wahhabism in site.wahhabism %}
+  <li>
+    <span><b>{{ wahhabism.hijri }}</b> : <a href="{{ wahhabism.url }}">{{ wahhabism.title }}</a></span>
+  </li>
+{% else %}
+{{site.data.settings.page.no-fatwas}}
+{% endfor %}
+  </ol>
+</article>
