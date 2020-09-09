@@ -1,9 +1,9 @@
-﻿---
+---
 layout: post
 title: "Issue on visiting graveyards"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Muqalat p.28/334"
-category: [sufism, binbaz, shirk, wahhabism]
+category: [sufism, shirk, wahhabism]
 hijri: Dhul-Hijjah 20, 1441 AH
 shaykhs: Shaykh Abdul-Aziz ibn Baz
 ---
