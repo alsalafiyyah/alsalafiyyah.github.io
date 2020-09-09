@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Imam Muhammad ibn 'Abdul-Wahhab: His Da'wah and biography"
 publisher: "alsalafiyyah@icloud.com"
