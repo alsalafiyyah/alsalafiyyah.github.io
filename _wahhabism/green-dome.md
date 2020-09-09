@@ -54,7 +54,7 @@ Consequently, since neither the Prophet (peace be upon him) nor the rightly-guid
 ---
 
 [^1]: Al-Bukhari, Fat-h-ul-Bary, no. 437; and Muslim, Sahih [Sharh Al-Nawawy], vol. 5, p. 12.
-[^2] Muslim, Al-Nawawi p. 5/13.
+[^2]: Muslim, Al-Nawawi p. 5/13.
 [^3]: Sahih Muslim no. 966; Ibn Hibban 160.
 [^4]: Ibn Hibban no. 6635, Bayhaqi no. 8800.
 [^5]: Fatwa no. 1448
