@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Is it true that the followers of Imam Shaykh Muhammad ibn Abdul-Wahhab seized the Arabian Peninsula and reached Madinah"
 publisher: "alsalafiyyah@icloud.com"
