@@ -37,6 +37,6 @@ However, the Saudi scholars, and among them Shaykh Muhammad Ibn Abdul-Wahhab (ma
 
 It is that Shar'i reverence that implies no excess and no Bid'ah. Rather, it is reverence that implies following Shar'ah, glorifying his commands and prohibitions, defending his Sunnah, calling people to follow him and warning them against Shirk, Munkar and Bid'ah. They all follow that path; calling people to follow the Messenger of Allah (peace be upon him) and to glorify his Sunnah, to offer acts of worship with foil sincerity to Allah and warning them about committing Shirk and the Bid'ah that have become widespread among people for ages now. This dome that was put on the grave of the Prophet (peace be upon him) is a Bid'ah and it was left only to avoid ill thoughts and Fitnah. May Allah grant us success. 
 
-[^1]: Muslim, Al-Nawawi, vol. 5, p. 13.
+[^1]: Muslim, Al-Nawawi p. 5/13.
 [^2]: Muslim no. 966.
-[^3]: 
+[^3]: Ibn Hibban no. 6635, Bayhaqi no. 8800
