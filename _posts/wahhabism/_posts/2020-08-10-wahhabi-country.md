@@ -1,5 +1,5 @@
-﻿---
-title: "Your country is Wahhabi and religious bigot"
+---
+title: "Your country is Wahhabi country"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Muqolat 8/34"
 hijri: Dhul-Hijjah 19, 1441 AH
