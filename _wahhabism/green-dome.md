@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "They say that Imam Muhammad Ibn Abdul-Wahhab removed all the domes, with the exception of that green dome in Prophet's Mosque"
+title: "The dome on the grave of the Prophet is no pretext"
 publisher: "alsalafiyyah@icloud.com"
 hijri: Dhul-Hijjah 24, 1441 AH
 date: 2020/08/14
