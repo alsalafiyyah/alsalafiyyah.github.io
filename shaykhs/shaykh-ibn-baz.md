@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "His Eminence Shaykh 'Abdul-'Aziz ibn 'Abdullah ibn 'Abdul-Rahman ibn Muhammad ibn 'Abdullah Al Baz"
 publisher: "alsalafiyyah@icloud.com"
