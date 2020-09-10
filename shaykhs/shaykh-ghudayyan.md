@@ -2,15 +2,12 @@
 layout: page
 title: "His Eminence Shaykh 'Abdullah ibn Ghudayyan"
 publisher: "alsalafiyyah@icloud.com"
-hijri: Muharram 12, 1442 AH
-date: 2020/08/31
-category: [biography]
-permalink: /biographies/ghudayyan
+permalink: /biography/ghudayyan
 ---
 
 His Eminence Shaykh 'Abdullah ibn 'Abdul-Rahman ibn 'Abdul-Razzaq Al-Ghudayyan Al-Tamimi
 
-He descended from Al-Muhaddith from Banu Al-'Anbar from Banu 'Amr ibn Tamim. His lineage originates from 'Amud Tabkhah ibn Ilias ibn Madar from the family of Adnan. His lineage on his mother’s side goes back to Al-Rashid from `Utaybah, which descends from Hawazen.
+He descended from Al-Muhaddith from Banu Al-'Anbar from Banu 'Amr ibn Tamim. His lineage originates from 'Amud Tabkhah ibn Ilias ibn Madar from the family of Adnan. His lineage on his mother’s side goes back to Al-Rashid from 'Utaybah, which descends from Hawazen.
 
 ### His Birth:
 
@@ -18,11 +15,11 @@ He was born in 1345 A.H. in the city of Al-Zulfi.
 
 ### His Study:
 
-As a young boy, he studied the basics of reading and writing under 'Abdullah ibn 'Abdul-'Aziz Al-Suhaymy, 'Abdullah ibn 'Abdul-Rahman Al-Ghayth, and Falih Al-Rumy. He also studied the basics of Fiqh (Islamic jurisprudence), Tawhid (belief in the Oneness of Allah/monotheism), grammar, and inheritance under Hamdan ibn Ahmad Al-Batil. He traveled to Riyadh in 1363 A.H., and in 1366 A.H. he enrolled in Al-Madrasah Al-Su`udiyyah Al-Ibtida’iyyah (previously known as Madrasatul-Aytam) and graduated from there in 1368 A.H.
+As a young boy, he studied the basics of reading and writing under 'Abdullah ibn 'Abdul-'Aziz Al-Suhaymy, 'Abdullah ibn 'Abdul-Rahman Al-Ghayth, and Falih Al-Rumy. He also studied the basics of Fiqh (Islamic jurisprudence), Tawhid (belief in the Oneness of Allah/monotheism), grammar, and inheritance under Hamdan ibn Ahmad Al-Batil. He traveled to Riyadh in 1363 A.H., and in 1366 A.H. he enrolled in Al-Madrasah Al-Sa'udiyyah Al-Ibtida’iyyah (previously known as Madrasatul-Aytam) and graduated from there in 1368 A.H.
 
 ### His Work:
 
-He was appointed as a teacher at Al-Madrasah Al-'Aziziyyah. In 1371 A.H. he enrolled in the Educational Institute. During this period he studied under Shaykh Muhammad ibn Ibrahim Al Al-Shaykh. He also studied Fiqh under Shaykh Sa'ud ibn Rashud (who was the judge of Riyadh), Tawhid (belief in the Oneness of Allah/monotheism) under Shaykh Ibrahim ibn Sulayman, Arabic grammar, and inheritance under Shaykh 'Abdul-Latif ibn Ibrahim. He continued his studies until he graduated from the Faculty of Shari'ah in 1376 A.H. He was then appointed as Head of the Court of Al-Khubar, and in 1378 A.H. transferred to teaching at the Educational Institute. In 1380 A.H. he was appointed as a teacher at the Faculty of Shari`ah, and in 1386 A.H. he was transferred to passing Fatwas (legal opinions issued by a qualified Muslim scholar) at Dar Al-Ifta’.
+He was appointed as a teacher at Al-Madrasah Al-'Aziziyyah. In 1371 A.H. he enrolled in the Educational Institute. During this period he studied under Shaykh Muhammad ibn Ibrahim Al Al-Shaykh. He also studied Fiqh under Shaykh Sa'ud ibn Rashud (who was the judge of Riyadh), Tawhid (belief in the Oneness of Allah/monotheism) under Shaykh Ibrahim ibn Sulayman, Arabic grammar, and inheritance under Shaykh 'Abdul-Latif ibn Ibrahim. He continued his studies until he graduated from the Faculty of Shari'ah in 1376 A.H. He was then appointed as Head of the Court of Al-Khubar, and in 1378 A.H. transferred to teaching at the Educational Institute. In 1380 A.H. he was appointed as a teacher at the Faculty of Shari'ah, and in 1386 A.H. he was transferred to passing Fatwas (legal opinions issued by a qualified Muslim scholar) at Dar Al-Ifta’.
 
 In 1391 A.H. he was appointed as a member of both the Permanent Committee for Scholarly Research and Ifta’ and the Council of Senior Scholars.
 
