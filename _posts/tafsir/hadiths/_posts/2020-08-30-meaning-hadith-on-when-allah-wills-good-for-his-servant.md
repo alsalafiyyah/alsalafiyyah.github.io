@@ -5,11 +5,19 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 14535-2"
 hijri: Muharram 11, 1442 AH
 date: 2020/08/30
-category: [tafsir, hadiths]
-shaykhs: 
- - Shaykh Abdul-Aziz Ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
+lang: en
+category: ["tafsir", hadiths]
+excerpt: "What is the meaning of the following Hadith: 'When Allah wills good for His servant, He uses him.'"
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
 ---
 
 Question: 
