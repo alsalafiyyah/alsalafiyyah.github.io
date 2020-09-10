@@ -2,10 +2,7 @@
 layout: page
 title: "His Eminence Shaykh 'Abdul-'Aziz ibn 'Abdullah ibn 'Abdul-Rahman ibn Muhammad ibn 'Abdullah Al Baz"
 publisher: "alsalafiyyah@icloud.com"
-hijri: Muharram 12, 1442 AH
-date: 2020/08/31
-category: [biography]
-permalink: /biographies/binbaz/
+permalink: /biography/binbaz/
 ---
 
 His Eminence Shaykh 'Abdul-'Aziz ibn 'Abdullah ibn 'Abdul-Rahman ibn Muhammad ibn 'Abdullah Al Baz
