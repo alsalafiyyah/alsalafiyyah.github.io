@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "His Eminence Shaykh 'Abdullah ibn Qa'ud"
 publisher: "alsalafiyyah@icloud.com"
