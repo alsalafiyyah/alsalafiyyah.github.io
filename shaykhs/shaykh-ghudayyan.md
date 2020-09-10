@@ -2,7 +2,7 @@
 layout: page
 title: "His Eminence Shaykh 'Abdullah ibn Ghudayyan"
 publisher: "alsalafiyyah@icloud.com"
-permalink: /biography/ghudayyan
+permalink: /biography/ghudayyan/
 ---
 
 His Eminence Shaykh 'Abdullah ibn 'Abdul-Rahman ibn 'Abdul-Razzaq Al-Ghudayyan Al-Tamimi
