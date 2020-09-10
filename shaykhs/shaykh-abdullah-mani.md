@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "His Eminence Shaykh 'Abdullah ibn Mani'"
 publisher: "alsalafiyyah@icloud.com"
