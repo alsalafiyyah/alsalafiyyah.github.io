@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hadith: 'Run away from the leper as you would run away from a lion'
+title: "Hadith: 'Run away from the leper as you would run away from a lion'"
 publisher: alsalafiyyah@icloud.com
 source: Fatawa Al-Lajnah Ad-Da'imah no. 6335
 hijri: Muharram 19, 1442 AH
