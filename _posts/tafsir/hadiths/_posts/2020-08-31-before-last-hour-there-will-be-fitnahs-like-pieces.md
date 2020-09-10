@@ -4,17 +4,24 @@ title: "The Hadith: 'Before the Last Hour there will be Fitnahs like pieces of a
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 10511-2"
 hijri: Muharram 12, 1442 AH
-date: 2020/08/31
+lang: en
 category: ["tafsir", hadiths]
-shaykhs:
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
+excerpt: I want to ask about a Hadith which reads as follows: Al-Hasan Al-Basri (may Allah be merciful to him)
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
 ---
 
 Question:
 
-I want to ask about a Hadith which reads as follows: Al-Hasan Al-Basry (may Allah be merciful to him) said: I have come to know that the Prophet (peace be upon him) said: "**Before the Last Hour there will be Fitnahs (trials) like pieces of a dark night in which a man's heart will die like the death of the body and a man will be a believer in the morning and a disbeliever in the evening, or a believer in the evening and a disbeliever in the morning. There will be people who would sell their religion for paltry worldly goods.**" [^1]
+I want to ask about a Hadith which reads as follows: Al-Hasan Al-Basri (may Allah be merciful to him) said: I have come to know that the Prophet (peace be upon him) said: "**Before the Last Hour there will be Fitnahs (trials) like pieces of a dark night in which a man's heart will die like the death of the body and a man will be a believer in the morning and a disbeliever in the evening, or a believer in the evening and a disbeliever in the morning. There will be people who would sell their religion for paltry worldly goods.**" [^1]
 
 If this Hadith is Sahih (authentic), what is the act which if it is done by a Muslim, they will be disbelievers and what is the way out? Could you kindly advise. May Allah reward you with the best.
 
