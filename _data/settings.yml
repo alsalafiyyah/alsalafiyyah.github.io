@@ -104,6 +104,9 @@ pagination:
 
 page: 
   no-fatwas: There are no fatwas for this topic.
+  chairman: Chairman
+  deputy_chairman: Deputy Chairman
+  members: Members
 
 post: 
   readmore: Read more
