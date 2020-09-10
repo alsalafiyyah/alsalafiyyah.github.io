@@ -4,13 +4,21 @@ title: "The Hadith: 'You will fight against the Jews and you will gain victory o
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 5775-2"
 hijri: Muharram 13, 1442 AH
-date: 2020/09/1
+lang: en
 category: ["tafsir", hadiths]
-shaykhs:
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+excerpt: "Is the Hadith that says: 'There will come a day when Muslims will gain victory over the Jews, and then a stone behind which a Jew may hide, will speak and call the believer to go and kill the Jew hiding behind it' authentic?"
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Abdullah ibn Qa'ud
+      url: /biography/qaud/
 ---
 
 Question:
