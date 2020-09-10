@@ -4,13 +4,21 @@ title: "The Hadith: 'Whoever among you sees an evil'"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 4262-4"
 hijri: Muharram 14, 1442 AH
-date: 2020/09/3
+lang: en
 category: ["tafsir", hadiths, hisbah]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+excerpt: "What is the meaning of the Hadith reported on the authority of Abu Hurayrah (may Allah be pleased with him) in which the Prophet (peace be upon him) said: 'Whoever, among you, sees something abominable should rectify it with his hand'"
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Abdullah ibn Qa'ud
+      url: /biography/qaud/
 ---
 
 Question:
