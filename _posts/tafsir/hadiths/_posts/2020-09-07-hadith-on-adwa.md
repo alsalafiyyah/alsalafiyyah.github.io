@@ -1,16 +1,10 @@
 ---
 layout: post
-title: "Hadith: 'Run away from the leper as you would run away from a lion'"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 6335"
+title: Hadith: 'Run away from the leper as you would run away from a lion'
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah no. 6335
 hijri: Muharram 19, 1442 AH
-date: 2020/09/07
-category: [tafsir, hadiths]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+category: ["tafsir", hadiths]
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz
