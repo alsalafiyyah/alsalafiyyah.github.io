@@ -5,6 +5,7 @@ publisher: alsalafiyyah@icloud.com
 source: Fatawa Al-Lajnah Ad-Da'imah no. 6335
 hijri: Muharram 19, 1442 AH
 category: ["tafsir", hadiths]
+excerpt: "Dear Shaykh, kindly confirm the degree of authenticity or weakness of the Hadith reported from the Messenger of Allah (peace be upon him) which states, 'Run away from the leper as you would run away from a lion.'"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz
