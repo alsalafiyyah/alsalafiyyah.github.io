@@ -5,14 +5,25 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 16131"
 hijri: Muharram 11, 1442 AH
 date: 2020/08/30
-category: [tafsir, hadiths]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Salih Fawzan
- - Shaykh Bakr Abu Zayd
+lang: en
+category: ["tafsir", hadiths]
+excerpt: I would like Your Eminence to explain the meaning of this honorable Hadith, as I conversed with a Muslim brother regarding it.
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Aziz Aal al-Shaykh
+      url: /biography/abdulaziz/
+  members: 
+    - name: Shaykh Abdul-Razzaq al-Afify
+      url: /biography/afifi/
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Salih Fawzan
+      url: /biography/fawzan/
+    - name: Shaykh Bakr Abu Zayd
+      url: /biography/bakr/
 ---
 
 Question: 
