@@ -2,17 +2,14 @@
 layout: page
 title: "His Eminence Shaykh 'Abdullah ibn Qa'ud"
 publisher: "alsalafiyyah@icloud.com"
-hijri: Muharram 12, 1442 AH
-date: 2020/08/31
-category: [biography]
-permalink: /biographies/qaud
+permalink: /biography/qaud
 ---
 
-His Eminence Shaykh 'Abdullah ibn Hasan ibn Muhammad ibn Hasan ibn 'Abdullah Al-Qa`ud
+His Eminence Shaykh 'Abdullah ibn Hasan ibn Muhammad ibn Hasan ibn 'Abdullah Al-Qa'ud
 
 ### His Birth:
 
-Shaykh 'Abdullah ibn Qa'ud was born on the 17th night of Ramadan in 1343 A.H. in the town of Al-Hariq located in Wady Na`am, which is one of the valleys of Yamamah.
+Shaykh 'Abdullah ibn Qa'ud was born on the 17th night of Ramadan in 1343 A.H. in the town of Al-Hariq located in Wady Na'am, which is one of the valleys of Yamamah.
 
 ### His Seeking of Knowledge:
 
