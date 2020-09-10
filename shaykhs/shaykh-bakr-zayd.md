@@ -2,10 +2,7 @@
 layout: page
 title: "His Eminence Shaykh Bakr ibn 'Abdullah Abu Zayd"
 publisher: "alsalafiyyah@icloud.com"
-hijri: Muharram 12, 1442 AH
-date: 2020/08/31
-category: [biography]
-permalink: /biographies/bakr
+permalink: /biography/bakr
 ---
 
 ### His Lineage:
