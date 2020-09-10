@@ -2,10 +2,7 @@
 layout: page
 title: "His Eminence Shaykh 'Abdul-Razzaq ibn 'Afify ibn 'Atiyyah"
 publisher: "alsalafiyyah@icloud.com"
-hijri: Muharram 12, 1442 AH
-date: 2020/08/31
-category: [biography]
-permalink: /biographies/afify
+permalink: /biography/afifi
 ---
 
 ### His Birth:
@@ -14,7 +11,7 @@ Shaykh 'Abdul-Razzaq ibn 'Afify ibn 'Atiyyah was born in Shanshur, Ashmoun Cente
 
 ### His Educational Background:
 
-After finishing elementary, preparatory, and secondary school, Shaykh `Abdul-Razzaq gained his Master's degree in 1351 A.H. and his Ph.D. in Jurisprudence and its Principles from Al-Azhar University in Cairo.
+After finishing elementary, preparatory, and secondary school, Shaykh 'Abdul-Razzaq gained his Master's degree in 1351 A.H. and his Ph.D. in Jurisprudence and its Principles from Al-Azhar University in Cairo.
 
 ### His Work:
 
