@@ -4,14 +4,29 @@ title: "The Hadith: 'There is no obedience to a creature if it involves disobedi
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 20145-4"
 hijri: Muharram 11, 1442 AH
-date: 2020/08/30
-category: [tafsir, hadiths]
+lang: en
+category: ["tafsir", hadiths]
+excerpt: "Is the following Hadith considered Sahih (authentic): 'There is no obedience to a creature if it involves disobedience to the Creator'? Please mention the narrator and Sanad (chain of narrators) of this Hadith?"
 shaykhs: 
  - Shaykh Abdul-Aziz ibn Baz
  - Shaykh Abdul-Aziz Aal al-Shaykh
  - Shaykh Abdullah ibn Ghudayyan
  - Shaykh Salih Fawzan
  - Shaykh Bakr Abu Zayd
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Aziz Aal al-Shaykh
+      url: /biography/abdulaziz/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Salih Fawzan
+      url: /biography/fawzan/
+    - name: Shaykh Bakr Abu Zayd
+      url: /biography/bakr/
 ---
 
 Question: 
@@ -20,7 +35,7 @@ Is the following Hadith considered Sahih (authentic): "**There is no obedience t
 
 Answer:
 
-The Hadith in question is Sahih and is stated in the well-known Books of Sunnah. It is worth mentioning that there are similar wordings of the same Hadith that all give the same meaning. However, the wording which is quoted above was related by Imam Ahmad in his Musnad (Hadith compilation). In addition, it was related by Al-Bukhari and Muslim on the authority of 'Ali (may Allah be pleased with him) that the Prophet (peace be upon him) said: "**There is no obedience to a human being if it involves disobedience to the Creator. Obedience is only in Ma`ruf (that which is judged as good, beneficial, or fitting by Islamic law and Muslims of sound intellect).**" [^1]
+The Hadith in question is Sahih and is stated in the well-known Books of Sunnah. It is worth mentioning that there are similar wordings of the same Hadith that all give the same meaning. However, the wording which is quoted above was related by Imam Ahmad in his Musnad (Hadith compilation). In addition, it was related by Al-Bukhari and Muslim on the authority of 'Ali (may Allah be pleased with him) that the Prophet (peace be upon him) said: "**There is no obedience to a human being if it involves disobedience to the Creator. Obedience is only in Ma'ruf (that which is judged as good, beneficial, or fitting by Islamic law and Muslims of sound intellect).**" [^1]
 
 ---
 
