@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "His Eminence Shaykh Salih ibn Fawzan Al-Fawzan"
 publisher: "alsalafiyyah@icloud.com"
