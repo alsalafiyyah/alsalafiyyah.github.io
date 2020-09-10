@@ -6,7 +6,7 @@ source: "Fatawa Al-Lajnah Ad-Daimah no. 10511-2"
 hijri: Muharram 12, 1442 AH
 lang: en
 category: ["tafsir", hadiths]
-excerpt: I want to ask about a Hadith which reads as follows: Al-Hasan Al-Basri (may Allah be merciful to him)
+excerpt: "I want to ask about a Hadith which reads as follows: Al-Hasan Al-Basri (may Allah be merciful to him)"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz
