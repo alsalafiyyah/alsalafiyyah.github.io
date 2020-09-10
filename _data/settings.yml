@@ -1,22 +1,22 @@
 alifta: 
   - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-    link: /biographies/abdulaziz-al-shaykh
+    link: /biography/abdulaziz
   - name: Shaykh Abdul-Aziz ibn Baz
-    link: /biographies/binbaz
+    link: /biography/binbaz
   - name: Shaykh Salih ibn Fawzan Al-Fawzan
-    link: /biographies/fawzan
+    link: /biography/fawzan
   - name: Shaykh Bakr Abu Zayd
-    link: /biographies/bakr
+    link: /biography/bakr
   - name: Shaykh Abdullah ibn Ghudayyan
     link: /biographies/ghudayyan
   - name: Shaykh Abdul-Razzaq Al-Afify
-    link: /biographies/afify
+    link: /biography/afifi
   - name: Shaykh Abdullah ibn Qa'ud
-    link: /biographies/qaud
+    link: /biography/qaud
   - name: Shaykh Abdullah ibn Mani'
-    link: /biographies/mani/
+    link: /biography/mani/
   - name: Shaykh Ibrahim Aal Al-Shaykh
-    link: /biographies/ibrahim/
+    link: /biography/ibrahim/
 
 chapters: 
   - name: Salah (Prayers)
