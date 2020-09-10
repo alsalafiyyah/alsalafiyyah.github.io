@@ -2,7 +2,7 @@
 layout: page
 title: "His Eminence Shaykh Bakr ibn 'Abdullah Abu Zayd"
 publisher: "alsalafiyyah@icloud.com"
-permalink: /biography/bakr
+permalink: /biography/bakr/
 ---
 
 ### His Lineage:
