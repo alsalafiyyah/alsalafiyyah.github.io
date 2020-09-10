@@ -4,13 +4,18 @@ title: "The Hadith: 'Much laughter kills the heart'"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 20355-1"
 hijri: Muharram 11, 1442 AH
-date: 2020/08/30
-category: [tafsir, hadiths, mawdu-daif]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Salih Fawzan
- - Shaykh Bakr Abu Zayd
+lang: en
+category: ["tafsir", hadiths, mawdu-daif]
+excerpt: "Research and verification show that the phrase that you have mentioned in the question reading: 'May Allah be merciful to the one who knows his own limits' has no origin in any of the variant narrations."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  members: 
+    - name: Shaykh Salih Fawzan
+      url: /biography/fawzan/
+    - name: Shaykh Bakr Abu Zayd
+      url: /biography/bakr/
 ---
 
 Question: 
@@ -19,7 +24,7 @@ Are the following two statements Hadiths or Athar (narrations from the Companion
 
 Answer:
 
-Having research and verification show that the phrase that you have mentioned in the question reading: "May Allah be merciful to the one who knows his own limits" has no origin in any of the variant narrations. As far as we know, such a phrase is not found in the authentic Books of Hadith scholars and it is not reported from any of the Sahabah (Companions of the Prophet) or the Tabi`un (Followers, the generation after the Companions of the Prophet). It is a commonly used phrase whose sayer is unknown.
+Research and verification show that the phrase that you have mentioned in the question reading: "May Allah be merciful to the one who knows his own limits" has no origin in any of the variant narrations. As far as we know, such a phrase is not found in the authentic Books of Hadith scholars and it is not reported from any of the Sahabah (Companions of the Prophet) or the Tabi`un (Followers, the generation after the Companions of the Prophet). It is a commonly used phrase whose sayer is unknown.
 
 On the other hand, the Hadith which is quoted as reading: "Much laughter kills the heart" is related by Ibn Majah in his Sunan (Hadith compilations classified by jurisprudential themes) on the authority of Abu Hurayrah (may Allah be pleased with him) as reading: The Messenger of Allah (peace be upon him) said: "**Do not laugh a lot for much laughter kills the heart.** [^1] 
 
