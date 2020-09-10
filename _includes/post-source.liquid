@@ -46,7 +46,7 @@
  <thead><tr><th data-title="{{site.data.settings.page.members}}:"></th></tr></thead>
  <td data-title="{{site.data.settings.page.members}}">
   {% for members in page.muftis.members %}
-   <a title="{{ members.name | join: ", " }}" href="{{ members.url | relative_url }}">{{ members.name | join: ", " }}</a>
+   <a title="{{ members.name | split: ', ' }}" href="{{ members.url | relative_url }}">{{ members.name | split: ', ' }}</a>
   {% endfor %}
  </td>
  {% endif %}
