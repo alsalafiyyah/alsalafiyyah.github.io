@@ -1,6 +1,6 @@
-﻿---
+---
 layout: page
-title: "His Eminence Shaykh `Abdullah ibn Ghudayyan"
+title: "His Eminence Shaykh 'Abdullah ibn Ghudayyan"
 publisher: "alsalafiyyah@icloud.com"
 hijri: Muharram 12, 1442 AH
 date: 2020/08/31
