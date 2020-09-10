@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "His Eminence Shaykh Ibrahim ibn Muhammad Aal Al-Shaykh"
 publisher: "alsalafiyyah@icloud.com"
