@@ -21,3 +21,36 @@
     
   </ul>
 </div>
+
+{% if page.muftis %}
+<table>
+<tbody>
+<tr>
+ {% if page.muftis.chairman %}
+ <thead><tr><th data-title="{{site.data.settings.page.chairman}}:"></th></tr></thead>
+ <td data-title="{{site.data.settings.page.chairman}}">
+  {% for chairman in page.muftis.chairman %}
+  <a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>
+ {% endfor %}
+ </td>
+ {% endif %}
+ {% if page.muftis.deputy_chairman %}
+ <thead><tr><th data-title="{{site.data.settings.page.deputy_chairman}}:"></th></tr></thead>
+ <td data-title="{{site.data.settings.page.deputy_chairman}}">
+  {% for deputy_chairman in page.muftis.deputy_chairman %}
+   <a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>
+  {% endfor %}
+ </td>
+ {% endif %}
+ {% if page.muftis.members %}
+ <thead><tr><th data-title="{{site.data.settings.page.members}}:"></th></tr></thead>
+ <td data-title="{{site.data.settings.page.members}}">
+  {% for members in page.muftis.members %}
+   <a title="{{ members.name | join: ", " }}" href="{{ members.url | relative_url }}">{{ members.name | join: ", " }}</a>
+  {% endfor %}
+ </td>
+ {% endif %}
+</tr>
+</tbody>
+</table>
+{% endif %}
