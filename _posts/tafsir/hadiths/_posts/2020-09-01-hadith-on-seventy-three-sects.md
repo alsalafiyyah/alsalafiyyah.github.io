@@ -1,15 +1,22 @@
-﻿---
+---
 layout: post
 title: "The Hadith on splitting of this Ummah into seventy-three sects"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 830"
 hijri: Muharram 13, 1442 AH
-date: 2020/09/1
+lang: en
+excerpt: The Hadith on This Ummah (nation) will split into seventy-three sects, all of them will be in Hellfire except one.
 category: ["tafsir", hadiths, wahhabism]
-shaykhs:
- - Shaykh Ibrahim ibn Muhammad Aal Al-Shaykh
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Sulayman Ibn Mani'
+muftis:
+  chairman: 
+    - name: Shaykh Ibrahim ibn Muhammad Aal Al-Shaykh
+      url: /biography/ibrahim/
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah ibn Sulayman Ibn Mani'
+      url: /biography/mani/
 ---
 
 Question:
