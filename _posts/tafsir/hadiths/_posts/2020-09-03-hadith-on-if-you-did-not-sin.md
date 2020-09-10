@@ -4,13 +4,21 @@ title: "Hadith: 'By the One in Whose Hand is my soul, if you did not sin'"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 6338-2"
 hijri: Muharram 14, 1442 AH
-date: 2020/09/3
+lang: en
 category: ["tafsir", hadiths, mawdu-daif]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+excerpt: "what is the meaning of the Hadith of the Prophet (peace be upon him) that says: 'If you had not sinned and asked for forgiveness, Allah would have brought other than you who would sin and ask for forgiveness.'"
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Abdullah ibn Qa'ud
+      url: /biography/qaud/
 ---
 
 Question:
