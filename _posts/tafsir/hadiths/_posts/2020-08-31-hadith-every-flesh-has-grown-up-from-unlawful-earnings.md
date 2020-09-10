@@ -4,12 +4,18 @@ title: "The Hadith: 'Every flesh that has grown up from unlawful earnings, Hellf
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 6931-1"
 hijri: Muharram 12, 1442 AH
-date: 2020/08/31
+lang: en
 category: [foundling, tafsir, hadiths]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+excerpt: The Hadith which is mentioned in the question generally applies to eating from unlawful sources. It is a threatening Hadith that does not by any means include a foundling.
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Abdullah ibn Qa'ud
+      url: /biography/qaud/
 ---
 
 Question: 
