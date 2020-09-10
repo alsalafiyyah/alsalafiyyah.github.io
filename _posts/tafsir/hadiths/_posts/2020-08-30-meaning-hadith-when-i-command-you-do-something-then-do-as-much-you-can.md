@@ -4,12 +4,19 @@ title: "The Hadith: 'Anything I command you to do, perform of it as much as you 
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 10593-1"
 hijri: Muharram 11, 1442 AH
-date: 2020/08/30
-category: [tafsir, hadiths]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
+lang: en
+category: ["tafsir", hadiths]
+excerpt: "The Prophet (peace be upon him) said: 'Anything I command you to do, perform of it as much as you can; and anything I forbid you to do, abandon it.'"
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
 ---
 
 Question: 
