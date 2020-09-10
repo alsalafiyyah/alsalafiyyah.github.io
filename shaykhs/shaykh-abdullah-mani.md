@@ -2,17 +2,14 @@
 layout: page
 title: "His Eminence Shaykh 'Abdullah ibn Mani'"
 publisher: "alsalafiyyah@icloud.com"
-hijri: Muharram 12, 1442 AH
-date: 2020/08/31
-category: [biography]
-permalink: /biographies/mani/
+permalink: /biography/mani/
 ---
 
 His Eminence Shaykh 'Abdullah ibn Sulayman ibn Muhammad ibn Mani' from the tribe of Banu Zayd, whose lineage goes back to Qada'ah from Qahtan, whose most important city is Shaqra’.
 
 ### His Birth:
 
-Shaykh 'Abdullah ibn Mani' was born in Shaqra’, the capital of the region of Al-Washm, on 15th Sha`ban, 1349 A.H.
+Shaykh 'Abdullah ibn Mani' was born in Shaqra’, the capital of the region of Al-Washm, on 15th Sha'ban, 1349 A.H.
 
 ### His Educational Background:
 
