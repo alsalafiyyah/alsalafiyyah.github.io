@@ -2,7 +2,7 @@
 layout: page
 title: "His Eminence Shaykh 'Abdul-'Aziz Aal Al-Shaykh"
 publisher: "alsalafiyyah@icloud.com"
-permalink: /biography/abdulaziz
+permalink: /biography/abdulaziz/
 ---
 
 His Eminence Shaykh 'Abdul-'Aziz ibn 'Abdullah ibn Muhammad Aal Al-Shaykh
