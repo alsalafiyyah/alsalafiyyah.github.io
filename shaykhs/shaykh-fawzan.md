@@ -2,10 +2,7 @@
 layout: page
 title: "His Eminence Shaykh Salih ibn Fawzan Al-Fawzan"
 publisher: "alsalafiyyah@icloud.com"
-hijri: Muharram 12, 1442 AH
-date: 2020/08/31
-category: [biography]
-permalink: /biographies/fawzan/
+permalink: /biography/fawzan/
 ---
 
 His Eminence Shaykh Dr. Salih ibn Fawzan ibn 'Abdullah Al-Fawzan from the family of Fawzan from the people of Al-Shamasyah from the tribe of Al-Dawasir
