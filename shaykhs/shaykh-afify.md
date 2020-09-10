@@ -2,7 +2,7 @@
 layout: page
 title: "His Eminence Shaykh 'Abdul-Razzaq ibn 'Afify ibn 'Atiyyah"
 publisher: "alsalafiyyah@icloud.com"
-permalink: /biography/afifi
+permalink: /biography/afifi/
 ---
 
 ### His Birth:
