@@ -2,10 +2,7 @@
 layout: page
 title: "His Eminence Shaykh Ibrahim ibn Muhammad Aal Al-Shaykh"
 publisher: "alsalafiyyah@icloud.com"
-hijri: Muharram 12, 1442 AH
-date: 2020/08/31
-category: [biography]
-permalink: /biographies/ibrahim/
+permalink: /biography/ibrahim/
 ---
 
 His Eminence Shaykh Ibrahim ibn Muhammad ibn Ibrahim ibn 'Abdul-Latif ibn 'Abdul-Rahman ibn Hasan ibn Imam Muhammad ibn 'Abdul-Wahhab
