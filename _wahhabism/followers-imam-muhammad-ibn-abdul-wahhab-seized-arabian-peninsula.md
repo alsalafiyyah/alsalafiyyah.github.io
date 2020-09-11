@@ -5,7 +5,12 @@ publisher: "alsalafiyyah@icloud.com"
 hijri: Dhul-Hijjah 19, 1441 AH
 date: 2020/08/10
 category: [wahhabism]
-shaykhs: Shaykh Abdul-Aziz ibn Baz
+lang: en
+excerpt: "Is it true that when the followers of Imam Shaykh Muhammad ibn 'Abdul-Wahhab (may Allah be merciful to him) seized the Arabian Peninsula and reached Madinah"
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question:
