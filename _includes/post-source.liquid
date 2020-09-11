@@ -21,9 +21,9 @@
   </ul>
 
 {% if page.muftis %}
-<ul>
+<ul style="list-style: none;">
  {% if page.muftis.chairman %}
-  <li>{{site.data.settings.page.chairman}}:
+  <li><b><span><i class="fas fa-feather-alt"></i> {{site.data.settings.page.chairman}}:</span></b>
    <ul>
    {% for chairman in page.muftis.chairman %}
    <li><a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a></li>
@@ -32,7 +32,7 @@
   </li>
  {% endif %}
  {% if page.muftis.deputy_chairman %}
-   <li>{{site.data.settings.page.deputy_chairman}}:
+   <li><b><span><i class="fas fa-feather-alt"></i> {{site.data.settings.page.deputy_chairman}}:</span></b>
    <ul>
     {% for deputy_chairman in page.muftis.deputy_chairman %}
     <li><a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a></li>
@@ -41,7 +41,7 @@
    </li>
  {% endif %}
  {% if page.muftis.members %}
-   <li>Members:
+   <li><b><span><i class="fas fa-feather-alt"></i> {{site.data.settings.post.members}}:</span></b>
     <ul>
     {% for members in page.muftis.members %}
      <li><a title="{{ members.name | join: ", " }}" href="{{ members.url | relative_url }}">{{ members.name | join: ", " }}</a></li>
