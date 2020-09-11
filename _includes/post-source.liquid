@@ -17,49 +17,47 @@
     {% else %}
     <a href="/biographies/">{{ site.shaykhs.name | join: ", " }}</a>
     </li>
-    {% endif %}
-
-    {% if page.muftis.shaykh %}
-    <li>
-    <b><span> <i class="fas fa-feather-alt"></i> {{site.data.settings.post.muftis}}:</span></b>
-    {% for shaykh in page.muftis.shaykh %}
-    <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}">{{ shaykh.name }}</a>
-    {% endfor %}
-    </li>
-    {% endif %}
-    
+    {% endif %}  
   </ul>
-</div>
 
 {% if page.muftis %}
-<table>
-<tbody>
-<tr>
+<ul>
  {% if page.muftis.chairman %}
- <thead><tr><th data-title="{{site.data.settings.page.chairman}}:">{{site.data.settings.page.chairman}}:</th></tr></thead>
- <td data-title="{{site.data.settings.page.chairman}}">
-  {% for chairman in page.muftis.chairman %}
-  <a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>
- {% endfor %}
- </td>
+  <li>{{site.data.settings.page.chairman}}:
+   <ul>
+   {% for chairman in page.muftis.chairman %}
+   <li><a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a></li>
+   {% endfor %}
+   </ul>
+  </li>
  {% endif %}
  {% if page.muftis.deputy_chairman %}
- <thead><tr><th data-title="{{site.data.settings.page.deputy_chairman}}:">{{site.data.settings.page.deputy_chairman}}:</th></tr></thead>
- <td data-title="{{site.data.settings.page.deputy_chairman}}">
-  {% for deputy_chairman in page.muftis.deputy_chairman %}
-   <a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>
-  {% endfor %}
- </td>
+   <li>{{site.data.settings.page.deputy_chairman}}:
+   <ul>
+    {% for deputy_chairman in page.muftis.deputy_chairman %}
+    <li><a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a></li>
+    {% endfor %}
+   </ul>
+   </li>
  {% endif %}
  {% if page.muftis.members %}
- <thead><tr><th data-title="{{site.data.settings.page.members}}:">{{site.data.settings.page.members}}:</th></tr></thead>
- <td data-title="{{site.data.settings.page.members}}">
-  {% for members in page.muftis.members %}
-   <a title="{{ members.name | split: ', ' }}" href="{{ members.url | relative_url }}">{{ members.name | split: ', ' }}</a>
-  {% endfor %}
- </td>
+   <li>Members:
+    <ul>
+    {% for members in page.muftis.members %}
+     <li><a title="{{ members.name | join: ", " }}" href="{{ members.url | relative_url }}">{{ members.name | join: ", " }}</a></li>
+    {% endfor %}
+    </ul>
+   </li>
  {% endif %}
-</tr>
-</tbody>
-</table>
+ {% if page.muftis.shaykh %}
+    <li>
+     <b><span> <i class="fas fa-feather-alt"></i> {{site.data.settings.post.muftis}}:</span></b>
+     {% for shaykh in page.muftis.shaykh %}
+     <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}">{{ shaykh.name }}</a>
+     {% endfor %}
+    </li>
+ {% endif %}
+</ul>
 {% endif %}
+
+</div>
