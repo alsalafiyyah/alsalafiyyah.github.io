@@ -41,7 +41,7 @@
    </li>
  {% endif %}
  {% if page.muftis.members %}
-   <li><b><span><i class="fas fa-feather-alt"></i> {{site.data.settings.post.members}}:</span></b>
+   <li><b><span><i class="fas fa-feather-alt"></i> {{site.data.settings.page.members}}:</span></b>
     <ul>
     {% for members in page.muftis.members %}
      <li><a title="{{ members.name | join: ", " }}" href="{{ members.url | relative_url }}">{{ members.name | join: ", " }}</a></li>
