@@ -8,7 +8,12 @@ mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_887/no
 link: shorturl.at/iKW36
 hijri: Dhul-Hijjah 16, 1441 AH
 date: 2020/08/6
-shaykhs: Shaykh Abdul-Aziz ibn Baz
+lang: en
+excerpt: "There is a group of people, if we perform Da'wah to them, call them to Allah (Glorified and Exalted be He) advise them to abandon shirk, they will accuse us of being a Wahhabi. How do we deal with them?"
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question:
