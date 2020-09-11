@@ -1,8 +1,8 @@
-﻿---
+---
 title: Categories
 layout: page
 active: categories
-permalink: /categorys/
+permalink: /modules/
 ---
 
     {% assign tags = site.categories | sort %}
