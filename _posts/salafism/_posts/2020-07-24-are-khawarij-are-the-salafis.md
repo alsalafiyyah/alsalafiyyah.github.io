@@ -8,8 +8,10 @@ hijri: Dhul-Hijjah 3, 1441 AH
 date: 2020/07/24
 lang: en
 excerpt: "What do you say to one who believes that the 'Aqidah (creed) of Al-Khawarij followed the 'Aqidah (creed) of Salafiyyah"
-shaykhs: Shaykh Abdul-Aziz Ibn Baz
-mufti: Shaykh Abdul-Aziz Ibn Baz
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question:
