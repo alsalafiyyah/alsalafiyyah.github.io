@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Your country is Wahhabi"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Muqolat 8/34"
