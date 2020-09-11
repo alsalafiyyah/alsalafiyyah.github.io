@@ -5,12 +5,17 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 5/426"
 hijri: Dhul-Hijjah 23, 1441 AH
 date: 2020/08/13
-shaykhs: Shaykh Ibn Baz
+lang: en
+excerpt: "Is it permissible to offer Salah behind a man believing in a doctrine different from Ahl Al-Sunnah wal-Jama'ah such as Al-Ash'ari"
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question:
 
-Is it permissible to offer Salah behind a man believing in a doctrine different from Ahl Al-Sunnah wal-Jama'ah such as Al-Ash'ari (a follower of Asha`irah i.e. a Muslim group that bases its creedal issues on logic), for example?
+Is it permissible to offer Salah behind a man believing in a doctrine different from Ahl Al-Sunnah wal-Jama'ah such as Al-Ash'ari (a follower of Asha'irah i.e. a Muslim group that bases its creedal issues on logic), for example?
 
 Answer:
 
