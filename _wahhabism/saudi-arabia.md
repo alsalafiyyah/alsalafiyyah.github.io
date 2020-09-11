@@ -6,7 +6,12 @@ source: "Majmu' Fatawa wa Muqolat 23/188"
 hijri: Dhul-Hijjah 18, 1441 AH
 category: [wahhabism]
 date: 2020/08/8
-shaykhs: Shaykh Abdul-Aziz ibn Baz
+lang: en
+excerpt: "By Allah's Mercy and Benevolence, the rulers of this country were guided since the time of Imam Muhammad ibn Sa'ud to the time of the Custodian of the Two Sacred Mosques apply Shari'ah, which is one of Allah’s greatest favors."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 By Allah's Mercy and Benevolence, the rulers of this country were guided since the time of Imam Muhammad ibn Sa'ud to the time of the Custodian of the Two Sacred Mosques apply Shari'ah, which is one of Allah’s greatest favors
