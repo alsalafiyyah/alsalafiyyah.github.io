@@ -5,7 +5,12 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Muqalat p.28/334"
 category: [sufism, wahhabism]
 hijri: Dhul-Hijjah 20, 1441 AH
-shaykhs: Shaykh Abdul-Aziz ibn Baz
+lang: en
+excerpt: "Dear Shaykh, Common people from among the Sufis attend the celebration of the Prophet's birth, believing that these celebrations constitute (true) Islam"
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question: 
