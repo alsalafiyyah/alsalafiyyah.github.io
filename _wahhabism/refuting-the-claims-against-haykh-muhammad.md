@@ -6,8 +6,12 @@ source: "Majmu' Fatawa al-Shaykh ibn Baz 9/234"
 category: [wahhabism, refutals]
 date: 2020-07-17
 hijri: Dhul-Qa'dah 26, 1441 AH
-shaykhs: Shaykh ibn Baz
-muftis: Shaykh Abdul-Aziz ibn Baz
+lang: en
+excerpt: "What is the ruling on someone who attacks and slanders Imam Muhammad Ibn 'Abdul-Wahhab (may Allah be merciful to him) and his Da'wah."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question: 
