@@ -4,7 +4,12 @@ title: "Imam Muhammad ibn 'Abdul-Wahhab: His Da'wah and biography"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa of Shaykh Ibn Baz p. 1/354"
 hijri: Dhul-Hijjah 18, 1441 AH
-shaykhs: Shaykh Abdul-Aziz ibn Baz
+lang: en
+excerpt: "The reason for the people's anger at the Shaykh Muhammad bin Abdul-Wahhab was his attempts to enjoin the good and forbid the evil."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 All praise is due to Allah, Lord of the worlds, and peace and blessings be upon His servant, Messenger, and chosen one amongst His creatures, our master and Imam Muhammad ibn 'Abdullah, and upon his family, Companions, and all those who follow him.Dear brothers and sons, this brief lecture aims at enlightening your ideas, clarifying facts, and offering sincere advice to Allah's servants for the Sake of Allah. 
