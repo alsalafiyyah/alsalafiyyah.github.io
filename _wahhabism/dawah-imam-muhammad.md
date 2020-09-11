@@ -8,7 +8,12 @@ mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_828/no
 link: shorturl.at/euCDX
 hijri: Dhul-Hijjah 16, 1441 AH
 date: 2020/08/6
-shaykhs: Shaykh Abdul-Aziz ibn Baz
+lang: en
+excerpt: "Was the Da'wah (calling people to Islam) of Shaykh Muhammad ibn Abdul-Wahhab a specific doctrine?"
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question:
