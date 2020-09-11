@@ -6,9 +6,12 @@ hijri: Dhul-Hijjah 24, 1441 AH
 date: 2020/08/14
 category: [wahhabism, audios]
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_864/nour_86402.mp3
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Scholars of Al-Lajnah Al-Da'imah
+lang: en
+excerpt: "They say that Muhammad Ibn Abdul-Wahhab removed all the domes, with the exception of that dome; namely, the dome of the Prophet (peace be upon him)."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question: 
