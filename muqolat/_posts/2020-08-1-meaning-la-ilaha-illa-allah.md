@@ -1,4 +1,4 @@
-﻿---
+---
 layout: article
 title: "The meaning of 'La ilaha illa Allah'"
 publisher: "alsalafiyyah@icloud.com"
@@ -7,7 +7,7 @@ category: [basic]
 tag: basic
 hijri: Dhul-Hijjah 12, 1441 AH
 date: 2020/08/1
-shaykhs: Shaykh Abdul-Aziz ibn Baz
+excerpt: "This indicates that the Mushriks understood that the meaning of 'La ilaha illa Allah' superseded their deities and necessitated dedicating their acts of worship to Allah Alone."
 ---
 
 All praise is due to Allah Alone, and may peace and blessings be upon the Noblest of the messengers, our Prophet Muhammad, his family, his Companions, and those who righteously follow them until the Day of Resurrection.
@@ -18,7 +18,13 @@ I have read the article written by our brother in Islam, the eminent Shaykh 'Uma
 2. Second, that there is no god truly worthy of obedience except Allah.
 3. Third, that there is no god but Allah.
 
-The correct definition, as he stated, is the first which is clarified in the Book of Allah (Glorified be He) many times. For instance, Allah (Glorified be He) states: "**You (Alone) we worship, and You (Alone) we ask for help (for each and everything).**" [al-Fatihah: 5] And: "**And your Lord has decreed that you worship none but Him.**" [al-Isra': 23] He (Glorified be He) also states: "**And I (Allâh) created not the jinn and mankind except that they should worship Me (Alone).**" [al-Dhariyat: 56] And: "**That is because Allâh — He is the Truth (the only True God of all that exists, Who has no partners or rivals with Him), and what they (the polytheists) invoke besides Him, it is Bâtil (falsehood).**" [al-Hajj: 62]
+The correct definition, as he stated, is the first which is clarified in the Book of Allah (Glorified be He) many times. For instance, Allah (Glorified be He) states: "**You (Alone) we worship, and You (Alone) we ask for help (for each and everything).**" [al-Fatihah: 5] 
+
+"**And your Lord has decreed that you worship none but Him.**" [al-Isra': 23] 
+
+He (Glorified be He) also states: "**And I (Allâh) created not the jinn and mankind except that they should worship Me (Alone).**" [al-Dhariyat: 56] 
+
+"**That is because Allâh — He is the Truth (the only True God of all that exists, Who has no partners or rivals with Him), and what they (the polytheists) invoke besides Him, it is Bâtil (falsehood).**" [al-Hajj: 62]
 
 There are many Ayahs (Qur'anic verses) to this effect. Moreover, this is the meaning that the Mushriks (those who associate others with Allah in His Divinity or worship) understood from "La ilaha illa Allah," when the Prophet (peace be upon him) called them to it, saying: "**O my people, say 'La ilaha illa Allah', and you will succeed.**" [^1]
 
