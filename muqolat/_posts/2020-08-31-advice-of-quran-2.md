@@ -1,4 +1,4 @@
-﻿---
+---
 layout: article
 title: "Advice of Allah's Book [Part 2]"
 publisher: "alsalafiyyah@icloud.com"
@@ -6,7 +6,7 @@ source: "Majmu' Fatawa wa Maqalat 9/14"
 hijri: Muharram 12, 1442 AH
 date: 2020/08/31
 category: [basic]
-shaykhs: Shaykh Ibn Baz
+excerpt: "Do not attack or betray anyone, whether poor or rich, and avoid Zhulm in transactions and in everything. Do not do injustice to workers, if you are a company owner"
 ---
 
 [Read part one here](/advice-of-quran-1)
@@ -49,13 +49,13 @@ The middle Salah is the 'Asr Prayer, which Allah mentioned in particular for its
 
 Paying Zakah means giving it to the ones who deserve it as ordained by Allah. You should pay the Zakah due on your money as enjoined by Allah; do not be miserly and fight yourself until you give Zakah to those who deserve it, whether of your money, sheep, camels, cows, or commercial commodities such as clothes, utensils, cars or other items that can be sold. Whenever a Hawl (one lunar year calculated from the time a property reaches the minimum amount upon which Zakah is due) passes, you should pay 2.5% of it as Zakah, which corresponds to 25 of every 1000, or 2500 of every 100.000. If you have grazing livestock for a Hawl, you should give one of them for each forty to one hundred and twenty i.e. A one-year-old goat. If they range between one hundred and twenty one and two hundred, you should give two of them. If they are two hundred and one or more, you should give three of them. Then, you should give one sheep for every hundred sheep. You should give four sheep on every four hundred; and five sheep on every five hundred.
 
-As for Zakah on camels, it was clarified in details by the Prophet (peace be upon him). If you have five camels that have been grazing for a Hawl or most of it, you should give a goat as Zakah; and for ten camels, two goats are to be given; for fifteen camels, three goats are to be given; and for twenty camels, four goats are to be given as Zakah. If they reach twenty five camels, you should give a Bint Makhad (a one-year-old she-camel). If not found, you can give an Ibn Labun (a two-year-old he-camel). This applies until thirty five camels. If more than thirty five, you should give a Bint Labun (a two-year-old she-camel), until they reach forty five camels. If they are more than forty five, you should give a Haqqah (a three-year-old she-camel) until they reach sixty camels. If they exceed sixty, you should give a Jadh`ah (a four-year-old she-camel) until they reach seventy five camels. 
+As for Zakah on camels, it was clarified in details by the Prophet (peace be upon him). If you have five camels that have been grazing for a Hawl or most of it, you should give a goat as Zakah; and for ten camels, two goats are to be given; for fifteen camels, three goats are to be given; and for twenty camels, four goats are to be given as Zakah. If they reach twenty five camels, you should give a Bint Makhad (a one-year-old she-camel). If not found, you can give an Ibn Labun (a two-year-old he-camel). This applies until thirty five camels. If more than thirty five, you should give a Bint Labun (a two-year-old she-camel), until they reach forty five camels. If they are more than forty five, you should give a Haqqah (a three-year-old she-camel) until they reach sixty camels. If they exceed sixty, you should give a Jadh'ah (a four-year-old she-camel) until they reach seventy five camels. 
 
 If more than seventy five, you should give two Bint Labuns until they reach ninety camels. If more than ninety camels, you should give two Haqqahs until they reach a hundred and twenty camels. If more than a hundred and twenty, you should give a Bint Labun for every forty camels and a Haqqah for every fifty camels.
 
 Similarly, the cows; if they are grazing for a Hawl or most of it, you should give a Tabi' or Tabi'ah (a one year-old cow) for every thirty cows; you should give a Musinnah (a two year-old cow) on every forty cows; you should give two Tabi'ahs for every sixty cows; you should give a Tabi' and a Musinnah on every seventy cows; you should give two Musinnahs on every eighty cows; you should give three Tabi'ahs on every ninety cows; you should give two Tabi'ahs and a Musinnah in every hundred cows; and you should give three Musinnahs or four Tabi'ahs on every in every hundred and twenty cows. Then, the number is fixed; you should give a Tabi' or Tabi'ah on every thirty cows; and a Musinnah on every forty cows.
 
-As for the grains and the fruits that can be measured and saved, you should give 5% of them if they are irrigated with machines. If they are watered naturally by rain or rivers, you should give 10% of them if they reach five Wasqs (1 Wasq = 60 Sa`s =130,320 kg), according to the saying of the Prophet (peace be upon him). "**On a land watered by rain or by natural water channels, one tenth (10%) is compulsory (as Zakah) and on the land irrigated by machines 5% is compulsory (as Zakah on the yield of the land).**" Related by Al-Bukhari in his Sahih (authentic) Book of Hadith. [^3]
+As for the grains and the fruits that can be measured and saved, you should give 5% of them if they are irrigated with machines. If they are watered naturally by rain or rivers, you should give 10% of them if they reach five Wasqs (1 Wasq = 60 Sa's =130,320 kg), according to the saying of the Prophet (peace be upon him). "**On a land watered by rain or by natural water channels, one tenth (10%) is compulsory (as Zakah) and on the land irrigated by machines 5% is compulsory (as Zakah on the yield of the land).**" Related by Al-Bukhari in his Sahih (authentic) Book of Hadith. [^3]
 
 The Prophet (peace be upon him) also said, "**No Zakah is due on less than five Wasqs of dates or grains.**" (Agreed upon by Imams Al-Bukhari and Muslim). [^4]
 
