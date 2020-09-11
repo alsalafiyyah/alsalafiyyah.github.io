@@ -3,18 +3,22 @@ layout: audio
 title: "Statement on the sect of Asha'irah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 3"
-category: [ashairah, binbaz, audios, asharism]
+category: [ashairah, binbaz, audios, asharism, asharis]
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/%D9%87%D9%84%20%D8%A7%D9%84%D8%A3%D8%B4%D8%A7%D8%B9%D8%B1%D8%A9%20%D9%85%D9%86%20%D8%A3%D9%87%D9%84%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%D8%9F.mp3
 link: shorturl.at/aikvZ
 hijri: Dhul-Hijjah 16, 1441 AH
 date: 2020/08/6
-shaykhs: Shaykh Abdul-Aziz ibn Baz
+lang: en
+excerpt: "Is the sect of Asha'irah (a Muslim group that bases its creedal issues on logic) part of Ahl-ul-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream)? Please provide an explanation. "
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question:
 
-Is the sect of Asha'irah (a Muslim group that bases its creedal issues on logic) part of Ahl-ul-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream)? 
-Please provide an explanation. 
+Is the sect of Asha'irah (a Muslim group that bases its creedal issues on logic) part of Ahl-ul-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream)? Please provide an explanation. 
 
 Answer:
 
