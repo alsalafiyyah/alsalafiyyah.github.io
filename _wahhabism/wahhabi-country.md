@@ -1,11 +1,16 @@
 ---
-title: "Your country is Wahhabi country"
+title: "Your country is Wahhabi"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Muqolat 8/34"
 hijri: Dhul-Hijjah 19, 1441 AH
 date: 2020/08/10
 category: [wahhabism]
-shaykhs: Shaykh Abdul-Aziz ibn Baz
+lang: en
+excerpt: "Some people from outside the country accuse Your Eminence of being a religious bigot and the country of being Wahabi, how can you refute their claims?"
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question: 
