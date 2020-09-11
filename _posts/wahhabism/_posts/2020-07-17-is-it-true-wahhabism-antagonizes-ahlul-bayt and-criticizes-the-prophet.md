@@ -6,7 +6,11 @@ source: "Majmu' Fatawa Shaykh ibn Baz 9/238"
 category: [wahhabism]
 hijri: Dhul-Qa'dah 26, 1441 AH
 lang: en
-shaykhs: Shaykh Abdul-Aziz ibn Baz
+excerpt: "Is it true that Wahhabism antagonizes Al-ul-Bayt (members of the Prophet's extended Muslim family) and criticizes the Prophet (peace be upon him)?"
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question: 
