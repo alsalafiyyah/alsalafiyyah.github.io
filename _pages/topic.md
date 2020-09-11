@@ -1,4 +1,4 @@
-﻿---
+---
 title: Browse by topic
 layout: page
 active: topic
@@ -68,8 +68,6 @@ permalink: /topics/
 </ul>
 </div>
 
-<div class="row">
- <div class="col-6 col-12-small">
 <div class="box">
 <h4><a class="icon solid fa fa-folder-open" href="/prophets/"> Prophets & Messengers</a></h4>
 <ul class="posts">
@@ -80,22 +78,6 @@ permalink: /topics/
     {% endif %}
   {% endfor %}
 </ul>
-</div>
-</div>
-
- <div class="col-6 col-12-small">
- <div class="box">
-<h4><a class="icon solid fa fa-folder-open" href="/wahhabism/"> Wahhabism</a></h4>
-<ul class="posts">
-  {% for post in site.categories.wahhabism | limit:3 %}
-    {% if post.url %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-    {% endif %}
-  {% endfor %}
-</ul>
-</div>
- </div>
 </div>
 
 <br/>
