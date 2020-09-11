@@ -18,6 +18,15 @@
     <a href="/biographies/">{{ site.shaykhs.name | join: ", " }}</a>
     </li>
     {% endif %}
+
+    {% if page.muftis.shaykh %}
+    <li>
+    <b><span> <i class="fas fa-feather-alt"></i> {{site.data.settings.post.muftis}}:</span></b>
+    {% for chairman in page.muftis.shaykh %}
+    <a href="{{ shaykh.url | relative_url }}">{{ shaykh.name }}</a>
+    {% endfor %}
+    </li>
+    {% endif %}
     
   </ul>
 </div>
