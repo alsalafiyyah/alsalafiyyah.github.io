@@ -4,7 +4,12 @@ title: "The Da'wah of Imam Muhammad ibn 'Abdul-Wahhab is the true Islamic Da'wah
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu Fatawa wa Muqolat 1/378"
 hijri: Dhul-Hijjah 18, 1441 AH
-shaykhs: Shaykh Abdul-Aziz ibn Baz
+lang: en
+excerpt: "In fact, the call of Imam Muhammad ibn 'Abdul-Wahhab (may Allah be merciful to him) is the true Islamic call of the Messenger of Allah (peace be upon him), the Sahabah (Companions of the Prophet), and the Salaf (righteous predecessors)."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 All praise be to Allah, Lord of the worlds. May peace and blessings be upon the most honorable Prophet and Messenger, Muhammad, and upon his family and Companions.
