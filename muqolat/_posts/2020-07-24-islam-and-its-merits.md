@@ -1,8 +1,9 @@
-﻿---
+---
 layout: article
 title: "Islam and its merits"
 author: "Instagram@Alsalafiyyah"
 hijri: Dhul-Hijjah 3, 1441 AH
+excerpt: "Islam is to submit to Allah by Tawhid (belief in the Oneness of Allah/monotheism), yielding to Him by obedience and leaving acts of Shirk (associating others with Allah in His Divinity or worship) and those who commit Shirk."
 category: [basic]
 ---
 
