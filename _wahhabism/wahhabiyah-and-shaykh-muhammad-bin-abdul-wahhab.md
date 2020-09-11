@@ -6,11 +6,20 @@ source: "Fatawa Al-Lajnah Ad-Da'imah no. 6477-3"
 hijri: Dhul-Hijjah 20, 1441 AH
 date: 2020/08/10
 category: [wahhabism]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+lang: en
+excerpt: "Some people told me that there is a thing called 'Wahhabiyyah', but I explained to them that there is no such thing called 'Wahabiyyah'; that this is merely a name given by those who claim to be Ashraf to turn people away from the reformative call."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Abdullah ibn Qa'ud
+      url: /biography/qaud/
 ---
 
 Question:
