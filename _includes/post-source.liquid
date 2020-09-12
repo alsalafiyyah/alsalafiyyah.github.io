@@ -53,7 +53,7 @@
   </li>
   {% endif %}
   {% if page.muftis.shaykh %}
-  <li><b>{{site.data.settings.post.muftis}}:</b>
+  <li>
    <ul>
    {% for shaykh in page.muftis.shaykh %}
     <li><a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}">{{ shaykh.name }}</a></li>
