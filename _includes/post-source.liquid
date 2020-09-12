@@ -22,41 +22,49 @@
 
 {% if page.muftis %}
 <ul style="list-style: none;">
- {% if page.muftis.chairman %}
-  <li><b><span><i class="fas fa-feather-alt"></i> {{site.data.settings.page.chairman}}:</span></b>
+ <li> Muftis:
+  <ul>
+  
+  {% if page.muftis.chairman %}
+  <li>{{site.data.settings.page.chairman}}
    <ul>
    {% for chairman in page.muftis.chairman %}
-   <li><a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a></li>
+    <li><a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a></li>
    {% endfor %}
    </ul>
   </li>
- {% endif %}
- {% if page.muftis.deputy_chairman %}
-   <li><b><span><i class="fas fa-feather-alt"></i> {{site.data.settings.page.deputy_chairman}}:</span></b>
+  {% endif %}
+  
+  {% if page.muftis.deputy_chairman %}
+  <li>{{site.data.settings.page.deputy_chairman}}:
    <ul>
-    {% for deputy_chairman in page.muftis.deputy_chairman %}
+   {% for deputy_chairman in page.muftis.deputy_chairman %}
     <li><a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a></li>
-    {% endfor %}
+   {% endfor %}
    </ul>
-   </li>
- {% endif %}
- {% if page.muftis.members %}
-   <li><b><span><i class="fas fa-feather-alt"></i> {{site.data.settings.page.members}}:</span></b>
-    <ul>
-    {% for members in page.muftis.members %}
-     <li><a title="{{ members.name | join: ", " }}" href="{{ members.url | relative_url }}">{{ members.name | join: ", " }}</a></li>
-    {% endfor %}
-    </ul>
-   </li>
- {% endif %}
- {% if page.muftis.shaykh %}
-    <li>
-     <b><span> <i class="fas fa-feather-alt"></i> {{site.data.settings.post.muftis}}:</span></b>
-     {% for shaykh in page.muftis.shaykh %}
-     <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}">{{ shaykh.name }}</a>
-     {% endfor %}
-    </li>
- {% endif %}
+  </li>
+  {% endif %}
+  
+  {% if page.muftis.members %}
+  <li>{{site.data.settings.page.members}}:
+   <ul>
+   {% for members in page.muftis.members %}
+    <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
+   {% endfor %}
+   </ul>
+  </li>
+  {% endif %}
+  {% if page.muftis.shaykh %}
+  <li> {{site.data.settings.post.muftis}}:
+   <ul>
+   {% for shaykh in page.muftis.shaykh %}
+    <li><a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}">{{ shaykh.name }}</a></li>
+   {% endfor %}
+   </ul>
+  </li>
+  {% endif %}
+  </ul>
+ </li> 
 </ul>
 {% endif %}
 
