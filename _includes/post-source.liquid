@@ -1,30 +1,28 @@
 <div class="box">
-  <ul style="list-style: none;">
-  
-    {% if page.source %}
-    <li>
-    <b><span><i class="fas fa-feather-alt"></i> {{site.data.settings.post.source}}:</span></b>
-    {{ page.source}}
-    {% else %}
-    {{ site.source.name}}
-    </li>
-    {% endif %}
-    
-    {% if page.shaykhs %}
-    <li>
-    <b><span> <i class="fas fa-feather-alt"></i> {{site.data.settings.post.muftis}}:</span></b>
-    <a href="/biographies/">{{ page.shaykhs | join: ", "}}</a>
-    {% else %}
-    <a href="/biographies/">{{ site.shaykhs.name | join: ", " }}</a>
-    </li>
-    {% endif %}  
-  </ul>
 
-{% if page.muftis %}
 <ul style="list-style: none;">
+
+ {% if page.source %}
+ <li>
+  <b><i class="fas fa-feather-alt"></i> {{site.data.settings.post.source}}:</b> 
+   {{ page.source}}
+  {% else %}
+   {{ site.source.name}}
+ </li>
+ {% endif %}
+ 
+ {% if page.shaykhs %}
+  <li>
+   <b><i class="fas fa-feather-alt"></i> {{site.data.settings.post.muftis}}:</b>
+    {{ page.shaykhs | join: ", "}}
+   {% else %}
+    {{ site.shaykhs.name | join: ", " }}
+  </li>
+ {% endif %}
+ 
+ {% if page.muftis %}
  <li> <b><i class="fas fa-feather-alt"></i> Muftis:</b>
   <ul>
-  
   {% if page.muftis.chairman %}
   <li><b>{{site.data.settings.page.chairman}}:</b>
    <ul>
@@ -65,7 +63,8 @@
   {% endif %}
   </ul>
  </li> 
+ {% endif %}
+ 
 </ul>
-{% endif %}
 
 </div>
