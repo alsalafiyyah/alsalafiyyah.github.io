@@ -22,11 +22,11 @@
 
 {% if page.muftis %}
 <ul style="list-style: none;">
- <li> Muftis:
+ <li> <b><i class="fas fa-feather-alt"></i> Muftis:</b>
   <ul>
   
   {% if page.muftis.chairman %}
-  <li>{{site.data.settings.page.chairman}}
+  <li><b>{{site.data.settings.page.chairman}}:</b>
    <ul>
    {% for chairman in page.muftis.chairman %}
     <li><a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a></li>
@@ -36,7 +36,7 @@
   {% endif %}
   
   {% if page.muftis.deputy_chairman %}
-  <li>{{site.data.settings.page.deputy_chairman}}:
+  <li><b>{{site.data.settings.page.deputy_chairman}}:</b>
    <ul>
    {% for deputy_chairman in page.muftis.deputy_chairman %}
     <li><a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a></li>
@@ -46,7 +46,7 @@
   {% endif %}
   
   {% if page.muftis.members %}
-  <li>{{site.data.settings.page.members}}:
+  <li><b>{{site.data.settings.page.members}}:</b>
    <ul>
    {% for members in page.muftis.members %}
     <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
@@ -55,7 +55,7 @@
   </li>
   {% endif %}
   {% if page.muftis.shaykh %}
-  <li> {{site.data.settings.post.muftis}}:
+  <li><b>{{site.data.settings.post.muftis}}:</b>
    <ul>
    {% for shaykh in page.muftis.shaykh %}
     <li><a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}">{{ shaykh.name }}</a></li>
