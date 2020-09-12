@@ -35,7 +35,7 @@ tipue_search:
   include:
     pages: true
   exclude:
-    files: [index.html, search.html, sitemap.xml, feed.xml]
+    files: [index.html, search.html, sitemap.xml, feed.xml, docs]
 
 webmaster_verifications:
   google: 0AfP6ouBUqp8IPbvV8AgSXFY3YTtSTTriIZ2Lyt43NI
