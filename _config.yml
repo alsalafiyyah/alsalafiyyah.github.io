@@ -33,7 +33,7 @@ exclude:
 
 tipue_search:
   include:
-    pages: true
+    pages: false
   exclude:
     files: [index.html, search.html, sitemap.xml, feed.xml, docs]
 
