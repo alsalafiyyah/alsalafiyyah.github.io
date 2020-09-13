@@ -45,11 +45,11 @@
   
   {% if page.muftis.members %}
   <li><b>{{site.data.settings.page.members}}:</b>
-   <ul>
+   <ol>
    {% for members in page.muftis.members %}
     <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
    {% endfor %}
-   </ul>
+   </ol>
   </li>
   {% endif %}
   {% if page.muftis.shaykh %}
