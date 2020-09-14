@@ -53,13 +53,9 @@
   </li>
   {% endif %}
   {% if page.muftis.shaykh %}
-  <li>
-   <ul>
    {% for shaykh in page.muftis.shaykh %}
     <li><a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}">{{ shaykh.name }}</a></li>
    {% endfor %}
-   </ul>
-  </li>
   {% endif %}
   </ul>
  </li> 
