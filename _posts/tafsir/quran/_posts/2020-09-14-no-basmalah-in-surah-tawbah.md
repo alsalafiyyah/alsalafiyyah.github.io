@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title:  No Basmalah at the beginning of Surah Al-Tawbah
+title:  No Basmalah in Surah Al-Tawbah
 hijri: Muharram 26, 1442 AH
 lang: en
 source: Fatwas of the Permanent Committee no. 3810-12
