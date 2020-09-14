@@ -1,10 +1,9 @@
-﻿---
+---
 layout: post
 title: "Tafsir Surah Al-Baqarah Ayat 256"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 5/408"
 hijri: Muharram 5, 1442 AH
-date: 2020/08/24
 category: ["tafsir", quran, baqarah]
 shaykhs: Shaykh Ibn Baz
 ---
@@ -32,5 +31,6 @@ Moreover, the Hadith of Buraydah ibn Al-Hasib that is related in Muslim's Sahih 
 According to the majority of scholars, this is applied to the People of the Book and those who are regarded as equal to them such as the Magi, according to the majority of scholars as a means of reconciliation between the Hadith and the above mentioned Ayah in Surah Al-Tawbah and the like Ayahs.
 
 ---
+
 [^1]: Al-Bukhari, Sahih, Book on Jizyah, no. 3157; Al-Tirmidhy, Sunan, Book on military expeditions, no. 1586; Abu Dawud, Sunan, Book on tribute, rulership, and spoils, no. 3043; Ahmad ibn Hanbal, Musnad, vol. 1, p. 191; and Al-Darimy, Sunan, Book on military expeditions, no. 2501.
 [^2]: Muslim, Sahih, Book on Jihad and military expeditions, no. 1731; Al-Tirmidhy, Sunan, Book on military expeditions, no. 1617; Abu Dawud, Sunan, Book on Jihad, no. 2612; Ibn Majah, Sunan, Book on Jihad, no. 2858; and Ahmad ibn Hanbal, Musnad, vol. 5, p. 358.
