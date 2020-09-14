@@ -5,6 +5,7 @@ title:  No Basmalah at the beginning of Surah Al-Tawbah
 hijri: Muharram 26, 1442 AH
 lang: en
 source: Fatwas of the Permanent Committee no. 3810-12
+category: ["tafsir", quran]
 excerpt: "Why is not the Basmalah written at the beginning of Surah Al-Tawbah?"
 muftis:
   chairman: 
