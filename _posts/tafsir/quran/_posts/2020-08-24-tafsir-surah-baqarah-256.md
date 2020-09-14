@@ -4,8 +4,13 @@ title: "Tafsir Surah Al-Baqarah Ayat 256"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 5/408"
 hijri: Muharram 5, 1442 AH
+lang: en
 category: ["tafsir", quran, baqarah]
-shaykhs: Shaykh Ibn Baz
+excerpt: "Allah (Exalted be He) says, 'There is no compulsion in religion.' [al-Baqarah: 256] Is this Ayah confined in application to the Jews and Christians or is it general in meaning?"
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question: 
