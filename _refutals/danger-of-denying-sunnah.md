@@ -12,7 +12,7 @@ muftis:
       url: /biography/binbaz/
 ---
 
-This letter is from [Abdul-Aziz ibn Abdullah ibn Baz](/biography/binbaz/) to Chairman of European Islamic Council, may Allah protect you!
+This letter is from [**Abdul-Aziz ibn Abdullah ibn Baz**](/biography/binbaz/) to Chairman of European Islamic Council, may Allah protect you!
 
 As-salamu 'alaykum warahmatullah wabarakatuh (May Allah's Peace, Mercy, and Blessings be upon you!)
 
@@ -34,4 +34,4 @@ May Allah help us to do goodness, follow the Sunnah and the Qur'an, be among tho
 
 As-salamu alaykum warahmatullah wabarakatuh (May Allah's Peace, Mercy, and Blessings be upon you!)
 
-See also: [Warning against Rashad Khalifa's denial of the Purified Sunnah](/refutals/warning-against-rashad-khalifas-denial-of-the-sunnah/)
+See also: [**Warning against Rashad Khalifa's denial of the Purified Sunnah**](/refutals/warning-against-rashad-khalifas-denial-of-the-sunnah/)
