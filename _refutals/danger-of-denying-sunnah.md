@@ -12,9 +12,7 @@ muftis:
       url: /biography/binbaz/
 ---
 
-This letter is from [**Abdul-Aziz ibn Abdullah ibn Baz**](/biography/binbaz/) to Chairman of European Islamic Council, may Allah protect you!
-
-As-salamu 'alaykum warahmatullah wabarakatuh (May Allah's Peace, Mercy, and Blessings be upon you!)
+This letter is from [**Abdul-Aziz ibn Abdullah ibn Baz**](/biography/binbaz/) to **Chairman of European Islamic Council**, may Allah protect you! As-salamu 'alaykum warahmatullah wabarakatuh (May Allah's Peace, Mercy, and Blessings be upon you!)
 
 An American-Egyptian citizen living in Tucson, Arizona, called [**Rashad Khalifah**](/refutals/warning-against-rashad-khalifas-denial-of-the-sunnah/) who is in charge of a Masjid (mosque), antagonizes Islam, denies the Sunnah, and disparages the Messenger of Allah (peace be upon him). There has been many reports against him. The following is a summary of them:
 
