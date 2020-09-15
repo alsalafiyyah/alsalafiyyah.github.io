@@ -1,4 +1,4 @@
-﻿---
+---
 layout: article
 title: "The obligation of adhering to the Sunnah and warning against Bid'ah"
 publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
