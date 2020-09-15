@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A press campaign by  Idarat Urdu newspaper against the Kingdom of Saudi Arabia and its adherence to the Islamic creed and fighting against Bid’ahs"
+title: "A press campaign by 'Idarat Urdu newspaper' against the Kingdom of Saudi Arabia and its adherence to the Islamic creed and fighting against Bid’ahs"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 1/222"
 hijri: Dhul-Hijjah 27, 1441 AH
