@@ -1,19 +1,25 @@
 ---
-layout: article
+layout: post
 title: "A press campaign by  Idarat Urdu newspaper against the Kingdom of Saudi Arabia and its adherence to the Islamic creed and fighting against Bid’ahs"
-publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
+publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 1/222"
 hijri: Dhul-Hijjah 27, 1441 AH
-category: ["basic", refutals, mawlids, bidahs, wahhabism, general]
-date: 2020/08/17
-shaykhs: Shaykh Ibn Baz
+category: [refutals, mawlids, bidahs, wahhabism]
+lang: en
+excerpt: "A press campaign by Idarat Urdu newspaper against the Kingdom of Saudi Arabia and its adherence to the Islamic creed and fighting against Bid’ahs"
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 All praise be to Allah Who has perfected the religion for us, completed His Favor upon us and approved Islam as a religion for us. May peace and blessings be upon His slave and Messenger, who invited mankind to obey their Lord and warned against excessiveness, innovations in religion and disobedience. May peace be upon his family, his Companions, and those who have followed his path and guidance until the Day of Judgment. To proceed:
 
 I have reviewed the article published in **the weekly Urdu newspaper "Idarat", released in the city of Canfor, an industrial city in the state of Andhra Pradesh, on the first page**, it launched a press campaign against **the Kingdom of Saudi Arabia and its adherence to the Islamic creed and fighting against Bid'ahs (innovations in the religion) and accusing the belief of the Salaf (righteous predecessors), which the government follows, of not being a Sunni belief**. The writer of this article aims at discrimination among Ahl-ul-Sunnah (adherents to the Sunnah) and propagation of Bid'ahs and superstitions.
 
-Undoubtedly, this is an evil plot and a serious act that aims at insulting the religion of Islam and spreading Bid'ahs and misguidance. Moreover, this article, clearly concentrates on the subject of celebrating the Mawlid (the Prophet's birthday) and making it an excuse to talk about the creed of the Kingdom and its leadership. Therefore, I found it obligatory to attract attention to this issue. After seeking help from Allah (Exalted be He), I say:
+Undoubtedly, this is an evil plot and a serious act that aims at insulting the religion of Islam and spreading Bid'ahs and misguidance. Moreover, **this article, clearly concentrates on the subject of celebrating the Mawlid (the Prophet's birthday) and making it an excuse to talk about the creed of the Kingdom and its leadership**. 
+
+Therefore, I found it obligatory to attract attention to this issue. After seeking help from Allah (Exalted be He), I say:
 
 **It is not allowed to celebrate the birthday of the Messenger (peace be upon him) or other birthdays;** rather, such celebrations should be prevented, because they are newly-invented practices in religion. The Messenger (peace be upon him) did not celebrate this occasion and did not command others to celebrate his birthday or that of other prophets who passed away before him or that of his daughters, wives or anyone of his relatives or Sahabah (Companions of the Prophet). Moreover, it was not celebrated by the Rightly-Guided Caliphs, other Sahabah (may Allah be pleased with all of them), those who followed them in piety and righteousness, or by any scholars of Shari'ah (Islamic law) during the best centuries of Islam. They were the most knowledgeable people of the Sunnah and more perfect in their love of the Messenger of Allah (peace be upon him) and in their adherence to his legislation than those who came after them. If it had truly been good, they would have preceded us to it. We have been commanded to follow and prohibited to innovate, because of the perfection of the religion of Islam and the satisfaction with what Allah (Exalted be He) and His Messenger (peace be upon him) have ordained, which was accepted and approved by Ahl-ul-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream) from among the Sahabah and those who had followed them in piety and righteousness.
 
