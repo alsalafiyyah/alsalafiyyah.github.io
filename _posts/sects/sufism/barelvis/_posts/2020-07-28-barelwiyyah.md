@@ -1,15 +1,22 @@
 ---
 layout: post
-title: "Barelwiyyah (Barelvis)"
+title: "The creed of Barelwiyyah (Barelvis) Sufi Order"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 3090"
 category: ["sufism", barelvis, bareilwi]
 hijri: Dhul-Hijjah 7, 1441 AH
 lang: en
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdullah ibn Qa'ud
- - Shaykh Abdul-Razzaq al-Afify
+excerpt: "It is impermissible to offer Salah behind an Imam who adopts such beliefs. If the Ma'mum knows that the Imam adopts these beliefs, then the Salah of the former will not be valid."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Al-Afify
+    - url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah ibn Qa'ud
+      url: /biography/qaud/
 ---
 
 Question: 
