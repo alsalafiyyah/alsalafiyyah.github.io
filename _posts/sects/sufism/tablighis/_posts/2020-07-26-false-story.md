@@ -24,7 +24,7 @@ Question:
 
 Shaykh Muhammad Zakariyya Kandahlwi ([a Deobandi scholar](/sufism/)) is one of the most famous religious scholars in India and Pakistan, especially among the followers of Jama'at Tabligh. He has numerous publications; of which is: **Fada'il A'mal (Faza'il-e-A'mal)**, which is read in the religious circles of [Jama'at Tabligh](/sufism/), and which the members of the group consider as Sahih Al-Bukhari. I was one of them. While reading this book, I found that some narrations are incomprehensible and unbelievable. 
 
-Therefore, I refer my problem to your Eminent Committee, hoping that you could solve it. These narrations include the one reported by Ahmad Al-Rifai in which he claims that after performing Hajj, he visited the grave of the Messenger (peace be upon him) and recited the following lines: 
+Therefore, I refer my problem to your Eminent Committee, hoping that you could solve it. These narrations include the one reported by [Ahmad Al-Rifa'i](/sufism/) in which he claims that after performing Hajj, he visited the grave of the Messenger (peace be upon him) and recited the following lines: 
 
 > "When I was away, I would send my soulon my behalf to the ground to kiss Now that I am here body and soul extend your right hand to me to kiss" 
 
