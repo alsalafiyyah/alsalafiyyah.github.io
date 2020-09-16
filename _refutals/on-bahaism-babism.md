@@ -2,7 +2,7 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "A brief look at Babism and Baha'ism and their hatred towards the Muslims"
-hijri: Muharram 27, 1442 AH
+hijri: Muharram 28, 1442 AH
 lang: en
 source: -
 excerpt: "The Babists carried out an armed terrorist movement in which they shed a great deal of blood and killed hundreds of people."
