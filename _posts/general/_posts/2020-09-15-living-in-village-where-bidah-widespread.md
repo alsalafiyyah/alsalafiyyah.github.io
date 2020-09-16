@@ -13,7 +13,7 @@ muftis:
   deputy_chairman:
     - name: Shaykh Abdul-Razzaq Al-Afify
     - url: /biography/afifi/
-  members: 
+  members:
     - name: Shaykh Abdullah ibn Ghudayyan
       url: /biography/ghudayyan/
 ---
