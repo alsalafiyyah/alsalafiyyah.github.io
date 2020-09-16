@@ -27,10 +27,8 @@ In Pakistan, scholars of [the Bareilwi Sufi order](/sufism/) believe that the Pr
 
 Answer:
 
-This is a false belief which is incongruous with the explicit texts of the Qur'an and Sunnah (whatever is reported from the Prophet) which affirm the human nature of the Prophet (peace be upon him) who shared the same human characteristics as the rest of mankind. He used to have a shadow just like any ordinary human being. Being honored with Prophethood does not take him out of the fold of mankind who are born through the natural contact between a father and a mother. Allah (Exalted be He) says: "**Say (O Muhammad صلى الله عليه وسلم): "I am only a man like you. It has been revealed to me...**" [Al-Kahf: 110] 
+This is a false belief which is incongruous with the explicit texts of the Qur'an and Sunnah which affirm the human nature of the Prophet (peace be upon him) who shared the same human characteristics as the rest of mankind. He used to have a shadow just like any ordinary human being. Being honored with Prophethood does not take him out of the fold of mankind who are born through the natural contact between a father and a mother. Allah (Exalted be He) says: "**Say (O Muhammad صلى الله عليه وسلم): "I am only a man like you. It has been revealed to me...**" [Al-Kahf: 110] 
 
 Allah (Exalted be He) also says: "**Their Messengers said to them: "We are no more than human beings like you"**" [Ibrahim: 11]
 
 As for the Hadith which states that the Prophet (peace be upon him) was created from the light of Allah, it has been classified as [Hadith Mawdu' (fabricated Hadith)](/mawdu-daif/).
-
- 
