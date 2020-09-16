@@ -23,7 +23,7 @@ muftis:
 
 Question:
 
-In Pakistan, scholars of [the Bareilwi Sufi order](/sufism/) believe that the Prophet (peace be upon him) did not have a shadow like ordinary human beings, which indicates that he was not of human form. Is there any Sahih Hadith (a Hadith that has been transmitted by people known for their uprightness and exactitude; free from eccentricity and blemish) to the effect that the Prophet did not have a shadow? 
+In Pakistan, scholars of [**the Bareilwi Sufi order**](/barelwiyyah/) believe that the Prophet (peace be upon him) did not have a shadow like ordinary human beings, which indicates that he was not of human form. Is there any Sahih Hadith (a Hadith that has been transmitted by people known for their uprightness and exactitude; free from eccentricity and blemish) to the effect that the Prophet did not have a shadow? 
 
 Answer:
 
