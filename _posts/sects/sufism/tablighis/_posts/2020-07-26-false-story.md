@@ -6,6 +6,7 @@ source: "Fatawa Al-Lajnah Ad-Daimah no. 21412"
 category: [sufism, tablighis]
 hijri: Dhul-Hijjah 5, 1441 AH
 lang: en
+excerpt: "It is not permissible to read the book of Fada'il A'mal (Faza'il-e-A'mal) or any similar book that contains superstitions and lies to the people in Masjids or elsewhere, for this implies misleading people and spreading superstitions among them."
 shaykhs: 
  - Shaykh Abdul-Aziz bin Abdullah Aal Al-Shaykh
  - Shaykh Salih Fawzan
