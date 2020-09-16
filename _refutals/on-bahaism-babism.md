@@ -4,7 +4,7 @@ publisher: alsalafiyyah@icloud.com
 title: "A brief look at Babism and Baha'ism and their hatred towards the Muslims"
 hijri: Muharram 28, 1442 AH
 lang: en
-source: -
+source: Majmu' Fatawa by Shaykh Ibn Baz 13/169
 excerpt: "The Babists carried out an armed terrorist movement in which they shed a great deal of blood and killed hundreds of people."
 muftis:
   shaykh: 
