@@ -1,11 +1,11 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on living in a village where there are Bid'ahs"
+title: "Living in a village where there are Bid'ahs"
 hijri: Muharram 27, 1442 AH
 lang: en
 source: Fatwas of the Permanent Committee no. 12927
-excerpt: "If you cannot find a suitable job in your town; you think that the people there will most probably reject your advice; or you fear that they might tempt you or your children with their Bid`ahs, there will be no sin on you if you stay in Alexandria or so to protect yourself and your children from Shirk (associating others with Allah in His Divinity or worship)."
+excerpt: "If you cannot find a suitable job in your town, you think that the people there will most probably reject your advice, or you fear that they might tempt you or your children with their Bidahs, there will be no sin on you"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz
