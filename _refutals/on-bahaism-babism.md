@@ -52,7 +52,9 @@ As for Al-Baha', who is known as Baha' Al-Din, he is Mirza Husayn ibn ‘Aly ibn
 
 ####  Death of Al-Baha'
 
-When he was in the prime of his strength and his call was at its vim, Allah afflicted him with fever and he died while believing in his false claims and ridiculous myths. He died in Dhu’l-Qa’dah 1309 AH. (See p. 144 of the essay and footnotes of the treatise of Abu Al-Fada'il) Abu Al-Fada'il was one of the propagators of the false sect of Al-Baha'. 
+When he was in the prime of his strength and his call was at its vim, Allah afflicted him with fever and he died while believing in his false claims and ridiculous myths. He died in Dhu’l-Qa’dah 1309 AH. (See p. 144 of the essay and footnotes of the treatise of Abu Al-Fada'il) 
+
+Abu Al-Fada'il was one of the propagators of the false sect of Al-Baha'. 
 
 ####  The methods of Al-Baha' for propagating his views
 
@@ -64,11 +66,13 @@ The most famous of them are Al-Iqan and Al-Aqdas. He wrote the former in Baghdad
 
 ####  Hatred of Al-Baha' against Muslims 
 
-Al-Mirza did not hate any Ummah as much as he hated the Ummah of the Final Messenger (Muhammad, peace be upon him). It is sufficient for you to know that he accused the Salaf (righteous predecessors) and Khalaf (Successors) of not having understood anything of the Ever-Glorious Qur’an, and he said: “One thousand and two hundred and eight years have passed since the Qur’an appeared and all these riffraff recite it every morning and until now they have not understood a single letter of its meaning.” Then Al-Baha' says: “The one who does not drink from our sealed nectar stamped with our name Al-Qayyum (the Ever Living) has not grasped the light of Tawhid (belief in the Oneness of Allah/ monotheism), and he does not know the meaning of the Books of Allah, and he is one of the Mushriks (ones who associate others with Allah in His Divinity or worship).”
+Al-Mirza did not hate any Ummah as much as he hated the Ummah of the Final Messenger (Muhammad, peace be upon him). It is sufficient for you to know that he accused the Salaf (righteous predecessors) and Khalaf (Successors) of not having understood anything of the Ever-Glorious Qur’an, and he said: “**One thousand and two hundred and eight years have passed since the Qur’an appeared and all these riffraff recite it every morning and until now they have not understood a single letter of its meaning.**” 
+
+Then Al-Baha' says: “**The one who does not drink from our sealed nectar stamped with our name Al-Qayyum (the Ever Living) has not grasped the light of Tawhid (belief in the Oneness of Allah/ monotheism), and he does not know the meaning of the Books of Allah, and he is one of the Mushriks (ones who associate others with Allah in His Divinity or worship).**”
 
 **Note:**
 
-In this summary about Babism and Baha'ism, if you find any words that you cannot find in the book of Al-Wakil, you will find them in the book of Dr. Muhammad Mahdi Khan Al-Irany Al-Tabrizy, who lived in Egypt, which is called Muftah Bab Al-Abwab. Some of the summary was taken from articles written by Muhib Al-Din Al-Khatib about Babism and Baha'ism and short comments of my own words. Allah is the Source of strength. 
+In this summary about **Babism** and **Baha'ism**, if you find any words that you cannot find in the book of Al-Wakil, you will find them in the book of Dr. Muhammad Mahdi Khan Al-Irany Al-Tabrizy, who lived in Egypt, which is called Muftah Bab Al-Abwab. Some of the summary was taken from articles written by Muhib Al-Din Al-Khatib about Babism and Baha'ism and short comments of my own words. Allah is the Source of strength. 
 
 May Allah's Peace and Blessings be upon our Prophet Muhammad, his family and Companions!
 
