@@ -3,15 +3,21 @@ layout: post
 title: "A false story made by Sufi Shaykh"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 21412"
-category: [sufism, tablighis]
+category: [sufism, tablighis, deobandis, tablighi jamaat]
 hijri: Dhul-Hijjah 5, 1441 AH
 lang: en
 excerpt: "It is not permissible to read the book of Fada'il A'mal (Faza'il-e-A'mal) or any similar book that contains superstitions and lies to the people in Masjids or elsewhere, for this implies misleading people and spreading superstitions among them."
-shaykhs: 
- - Shaykh Abdul-Aziz bin Abdullah Aal Al-Shaykh
- - Shaykh Salih Fawzan
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Bakr Abu Zayd
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+      url: /biography/abdulaziz/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Salih Fawzan
+      url: /biography/fawzan/
+    - name: Shaykh Bakr Abu Zayd
+      url: /biography/bakr/
 ---
 
 Question: 
