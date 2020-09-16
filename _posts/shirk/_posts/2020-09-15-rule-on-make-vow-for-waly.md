@@ -70,6 +70,7 @@ The Prophet (peace be upon him) says: "**Whoever vows that he will be obedient t
 "**A man vowed to slaughter camels in Buwanah and asked the Messenger of Allah (peace be upon him) about that. The Prophet (peace be upon him) said: "Did the place contain any idol worshipped in pre-Islamic times?" They (the people) said: "No." He asked: "Was any pre-Islamic festival observed there?" They replied: "No." The Prophet (peace be upon him) said: "Fulfil your vow, for a vow to do an act of disobedience to Allah must not be fulfilled, neither must one do something over which a human being has no control."**" [^11]
 
 May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions. 
+
 ---
 
 [^1]: Imam Ahmad, vol. 2, pp. 300 , 375 , and 408, vol. 5, pp. 353, 359, and 360, and vol. 6, pp. 71, 76, 111, 180, 221; Muslim, Sahih [Sharh Al-Nawawy]; Al-Nasa'i, vol. 4, p. 94; and Ibn Majah, vol. 1, p. 494.
