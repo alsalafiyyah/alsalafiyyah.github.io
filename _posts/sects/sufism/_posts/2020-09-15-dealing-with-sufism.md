@@ -23,7 +23,7 @@ muftis:
 
 Question:
 
-As a pioneer of the Salafiyyah Call (Da'wah) and the current Islamic awakening, what do you advise us concerning dealing with Sufi shaykhs and their followers? I appreciate your guidance. May Allah guide you
+As a pioneer of the Salafiyyah Call (Da'wah) and the current Islamic awakening, what do you advise us concerning dealing with Sufi shaykhs and their followers? I appreciate your guidance. May Allah reward you
  
 Answer:
 
