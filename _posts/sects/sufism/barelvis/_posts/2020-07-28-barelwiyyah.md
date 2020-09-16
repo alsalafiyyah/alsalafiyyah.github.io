@@ -40,6 +40,6 @@ It is impermissible to offer Salah behind an Imam who adopts such beliefs. If th
 
 Allah also says:"**And the mosques are for Allâh (Alone): so invoke not anyone along with Allâh.**" [al-Jinn: 18]
 
-Hence, Muslims are required to reject their Bid'ah in a kind way. If they agree, then praise is due to Allah. If not, they should leave the company of those people and offer Salah in the Masjids of Ahl-ul-Sunnah (those adhering to the Sunnah). Khalil Al-Rahman (Prophet Ibrahim - peace be upon him) is a good example of such a case as is clear from the following Ayah: "*8And I shall turn away from you and from those whom you invoke besides Allâh. And I shall call upon my Lord and I hope that I shall not be unblest in my invocation to my Lord.**" [Maryam: 48]
+Hence, Muslims are required to reject their Bid'ah in a kind way. If they agree, then praise is due to Allah. If not, they should leave the company of those people and offer Salah in the Masjids of Ahl-ul-Sunnah (those adhering to the Sunnah). Khalil Al-Rahman (Prophet Ibrahim - peace be upon him) is a good example of such a case as is clear from the following Ayah: "**And I shall turn away from you and from those whom you invoke besides Allâh. And I shall call upon my Lord and I hope that I shall not be unblest in my invocation to my Lord.**" [Maryam: 48]
 
 May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
