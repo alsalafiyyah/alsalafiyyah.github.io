@@ -4,7 +4,7 @@ publisher: alsalafiyyah@icloud.com
 title: "Dealing with Sufi shaykhs and their followers"
 hijri: Muharram 27, 1442 AH
 lang: en
-source: Fatawa Al-Lajnah Al-Da'imah no. 14585-2
+source: Fatawa Al-Lajnah Al-Da'imah no. 16696-2
 excerpt: "What do you advise us concerning dealing with Sufi shaykhs and their followers?"
 category: [dawah, sufism, salafism]
 muftis:
