@@ -14,7 +14,7 @@ muftis:
   members: 
     - name: Shaykh Salih Fawzan
       url: /biography/fawzan/
-    - name: Shaykh Abdu;-Aziz Aal Al-Shaykh
+    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
       url: /biography/abdulaziz/
     - name: Shaykh Bakr Abu Zayd
       url: /biography/bakr/
