@@ -2,7 +2,7 @@
 layout: page
 title: "His Eminence Shaykh 'Abdullah ibn Qa'ud"
 publisher: "alsalafiyyah@icloud.com"
-permalink: /biography/qaud
+permalink: /biography/qaud/
 ---
 
 His Eminence Shaykh 'Abdullah ibn Hasan ibn Muhammad ibn Hasan ibn 'Abdullah Al-Qa'ud
