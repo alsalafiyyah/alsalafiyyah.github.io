@@ -5,7 +5,7 @@ title: "Ibn Taymiyyah did not approve celebrating the Prophet's Mawlid"
 hijri: Muharram 29, 1442 AH
 lang: en
 source: "One of the questions asked by Al-'Arabiyyah Magazine, dictated by His Eminence on 29/5/1417 A.H."
-excerpt: "ibn Taymiyyah (may Allah be merciful to him) condemned doing so and was of the view that doing so is a Bid`ah. However, he mentioned in his book Iqtida al-Sirat al-Mustaqim Mukhalafat Ashab al-Jahim the one who does this ignorantly."
+excerpt: "Ibn Taymiyyah did not approve celebrating the Prophet's Mawlid, rather he condemned doing so and was of the view that doing so is a Bid'ah."
 category: [bidahs, fitnahs, mawlids]
 muftis:
   shaykh: 
@@ -22,7 +22,7 @@ Answer:
 
 Celebrating the Mawlid of the Prophet (peace be upon him) is Bid'ah (innovation in religion) which is prohibited according to the soundest opinion of scholars. This is because the Prophet (peace be upon him), the rightly guided Caliphs, the Companions (may Allah be pleased with them), scholars and rulers in the first three generations did not do this. This was innovated after that by Shiites and those who followed them. Therefore, it is not permissible to do this or to imitate those who celebrate it. 
 
-Taqy Al-Din Ahmad ibn Taymiyyah (may Allah be merciful to him) condemned doing so and was of the view that doing so is a Bid`ah. However, he mentioned in his book **Iqtida al-Sirat al-Mustaqim Mukhalafat Ashab al-Jahim** the one who does this ignorantly. 
+Taqy Al-Din Ahmad ibn Taymiyyah (may Allah be merciful to him) condemned doing so and was of the view that doing so is a Bid'ah. However, he mentioned in his book **Iqtida al-Sirat al-Mustaqim Mukhalafat Ashab al-Jahim** the one who does this ignorantly. 
 
 No one should be deceived by those who do that or call for it as Muhammad 'Alawy Maliki and others. This is because men's saying and deeds can not be cited as evidence, but the evidence is what Allah (Glorified be He) says, what was said by His Prophet (peace be upon him) or what is consensually agreed upon by the Salaf (righteous predecessors). Allah (Glorified and Exalted be He) says: "**O you who believe! Obey Allâh and obey the Messenger (Muhammad صلى الله عليه وسلم), and those of you (Muslims) who are in authority. (And) if you differ in anything amongst yourselves, refer it to Allâh and His Messenger (صلى الله عليه وسلم), if you believe in Allâh and in the Last Day. That is better and more suitable for final determination.**" [Al-Nisa: 59]
 
