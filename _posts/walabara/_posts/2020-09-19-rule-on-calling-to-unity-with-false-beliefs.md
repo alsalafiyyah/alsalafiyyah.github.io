@@ -120,3 +120,7 @@ History and reality are the strongest proof of this for the impartial and sane p
 Some of the sincere great scholars were deceived by this call, as their hearts were too pure and they were inexperienced in life. So, they issued a magazine called "Al-Taqrib". However, the truth was uncovered soon after, and this call ended in failure. This is not strange, as the inclinations are different, the ideas are distinct, and the 'Aqidahs are contrasting. There is no way to reconcile the contraries.
 
 May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions. 
+
+---
+
+[^1]: Al-Bukhari, Sahih, Book on prophets, no. 3443; Muslim, Sahih, Book on virtues, no. 2365; Abu Dawud, Book on Al-Sunnah, no. 4675; and Ahmad, Musnad, vol. 2, p. 437.
