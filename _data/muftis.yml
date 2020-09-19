@@ -46,10 +46,9 @@ group4:
   chairman: 
     - name: "Shaykh Abdul-Aziz Aal Al-Shaykh"
       url: "/biography/abdulaziz/"
-  deputy_chairman:
+  members:
     - name: "Shaykh Salih Fawzan"
       url: "/biography/fawzan/"
-  members:
     - name: "Shaykh Abdullah ibn Ghudayyan"
       url: "/biography/ghudayyan/"
 
