@@ -1,0 +1,8 @@
+{% assign shaykh = site.data.muftis.muftis.group_1[page.shaykh] %}
+{% if site.data.muftis.muftis.group_1.deputy_chairman %}
+<a rel="shaykh"
+  href="{{ shaykh.url }}"
+  title="{{ shaykh.name }}">
+    {{ shaykh.name }}
+</a>
+{% endif %}
