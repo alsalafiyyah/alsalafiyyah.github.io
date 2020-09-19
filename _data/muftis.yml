@@ -1,8 +1,8 @@
 binbaz:
     name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-    book_1: Majmu' Fatawa wa Maqalat 
-    book_2: Fatawa Nur 'Ala Al-Darb
+    book1: Majmu' Fatawa wa Maqalat 
+    book2: Fatawa Nur 'Ala Al-Darb
 
 alifta:
     name: Fatawa Al-Lajnah Al-Daimah li'l-ifta 
