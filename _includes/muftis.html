@@ -1,5 +1,5 @@
-{% assign shaykh = site.data.muftis.muftis.group_1[page.shaykh] %}
-{% if site.data.muftis.muftis.group_1.deputy_chairman %}
+{% assign shaykh = site.data.muftis.group_1[page.shaykh] %}
+{% if site.data.muftis.group_1.chairman %}
 <a rel="shaykh"
   href="{{ shaykh.url }}"
   title="{{ shaykh.name }}">
