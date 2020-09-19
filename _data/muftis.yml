@@ -52,5 +52,17 @@ group4:
   members:
     - name: "Shaykh Abdullah ibn Ghudayyan"
       url: "/biography/ghudayyan/"
+
+group5:
+  chairman: 
+    - name: "Shaykh Abdul-Aziz Aal Al-Shaykh"
+      url: "/biography/abdulaziz/"
+  members:
+    - name: "Shaykh Salih Fawzan"
+      url: "/biography/fawzan/"
+    - name: "Shaykh Bakr Abu Zayd"
+      url: "/biography/bakr/"
       
+      
+ 
       
