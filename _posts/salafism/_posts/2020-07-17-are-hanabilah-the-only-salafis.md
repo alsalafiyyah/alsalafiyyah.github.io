@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 category: [hanbalis, salafism]
 source: "Majmu' fatawa of Shaykh ibn Baz 9/238"
 hijri: Dhul-Qa'dah 26, 1441 AH
-source: Shaykh ibn Baz
+muftis: group_1
 ---
 
 Question:
