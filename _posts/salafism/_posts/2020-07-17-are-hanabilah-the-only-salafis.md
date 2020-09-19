@@ -4,13 +4,15 @@ title: "Are the Hanbalis are the only Salafis"
 publisher: "alsalafiyyah@icloud.com"
 category: [hanbalis, salafism]
 hijri: Dhul-Qa'dah 26, 1441 AH
-num: 9/238
+excerpt: "Is it correct that the Hanbalis are the only Salafis?"
+source: book1
+number: 9/238
 author: binbaz
 ---
 
 Question:
 
-Is it correct that Al-Hanabilah (Hanbalis, the followers of Imam Ahmad's School of Jurisprudence) are the only Salafiyyah (those following the way of the righteous predecessors)? What is the truth about the Salafiyyah? Is it a synonym for strictness and rigidity as some propagate? 
+Is it correct that Al-Hanabilah (Hanbalis, the followers of Imam Ahmad's School of Jurisprudence) are the only Salafiyyah (those who following the way of the righteous predecessors)? What is the truth about the Salafiyyah? Is it a synonym for strictness and rigidity as some propagate? 
 
 Answer:
 
