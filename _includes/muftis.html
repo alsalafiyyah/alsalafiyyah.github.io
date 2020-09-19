@@ -1,8 +1,10 @@
 {% assign shaykh = site.data.muftis.group_1[page.shaykh] %}
 {% if site.data.muftis.group_1.chairman %}
-<a rel="shaykh"
+{% for chairman in site.data.muftis.group_1.chairman %}
+  <li><a rel="shaykh"
   href="{{ shaykh.url }}"
   title="{{ shaykh.name }}">
     {{ shaykh.name }}
-</a>
+  </a></li>
+{% endfor %}
 {% endif %}
