@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 category: [hanbalis, salafism]
 hijri: Dhul-Qa'dah 26, 1441 AH
 excerpt: "Is it correct that the Hanbalis are the only Salafis?"
-source: book1
+book: book1
 number: 9/238
 author: binbaz
 ---
