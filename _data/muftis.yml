@@ -1,33 +1,32 @@
 binbaz:
     name: "Shaykh Abdul-Aziz ibn Baz"
     url: "/biography/binbaz/"
-    book1: "Majmu' Fatawa wa Maqalat" 
-    book2: "Fatawa Nur 'Ala Al-Darb"
 
 alifta:
-    name: "Fatawa Al-Lajnah Al-Daimah li'l-Ifta"
+    name: "Fatawa Al-Lajnah Al-Da'imah li'l-Ifta"
     
-group_1:
+group1:
   chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+    - name: "Shaykh Abdul-Aziz ibn Baz"
+      url: "/biography/binbaz/"
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
+    - name: "Shaykh Abdul-Razzaq Al-Afifi"
+      url: "/biography/afifi/"
   members:
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
-group_2:
+    - name: "Shaykh Abdullah ibn Ghudayyan"
+      url: "/biography/ghudayyan/"
+    - name: "Shaykh Abdullah ibn Qa'ud"
+      url: "/biography/qaud/"
+
+group2:
   chairman: 
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
+    - name: "Shaykh Abdul-Aziz Aal Al-Shaykh"
+      url: "/biography/abdulaziz/"
   deputy_chairman:
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/afifi/
+    - name: "Shaykh Abdullah ibn Ghudayyan"
+      url: "/biography/afifi/"
   members:
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+    - name: "Shaykh Salih Fawzan"
+      url: "/biography/fawzan/"
+    - name: "Shaykh Bakr Abu Zayd"
+      url: "/biography/bakr/"
