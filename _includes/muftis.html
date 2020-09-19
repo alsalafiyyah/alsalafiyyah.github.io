@@ -2,8 +2,8 @@
 {% if site.data.muftis.group_1.chairman %}
 {% for chairman in site.data.muftis.group_1.chairman %}
   <li>
-   <a rel="author" href="{{ shaykh.url }}" title="{{ shaykh.name }}">
-    {{ shaykh.name }}
+   <a rel="author" href="{{ chairman.url }}" title="{{ chairman.name }}">
+    {{ chairman.name }}
    </a>
   </li>
 {% endfor %}
