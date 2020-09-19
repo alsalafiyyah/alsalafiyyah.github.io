@@ -60,9 +60,11 @@
   </ul>
  </li> 
  {% endif %}
+ 
+ {% assign source = site.data.muftis[page.source] %}
+  <li>{{ source.book1 }} {{ page.number }}</li>
   
  {% assign author = site.data.muftis[page.author] %}
-  <li>{{ author.book1 }} {{ page.num }}</li>
   <li><a rel="author"
   href="{{ author.url }}"
   title="{{ author.name }}">
