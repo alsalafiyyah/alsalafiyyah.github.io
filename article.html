@@ -57,6 +57,22 @@ permalink: /article/
     {% endif %}
   {% endfor %}
 {% endif %}
+
+<div id="post-nav" class="clearfix nav-slide">
+    <div class="work">    
+        {% if prevPage.url %}
+        <a class="prev" href="{{prevPage.url}}">
+            <span class="slide-wrap">&lt; {{prevPage.title}}</span>
+        </a> 
+        {% endif %} 
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        {% if nextPage.url %} 
+        <a class="next" href="{{nextPage.url}}">
+            <span class="slide-wrap">{{nextPage.title}} &gt;</span>
+        </a> 
+        {% endif %} 
+    </div>
+</div>
   
 </article>
 
