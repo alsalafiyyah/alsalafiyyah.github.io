@@ -2,12 +2,14 @@
 layout: my_article
 title: Article
 permalink: /article/
-pagination: true
+pagination:
+    enabled: true
+    collection: muqolat
 ---
 
 <article>
   <ol>
-{% for c in site.muqolat limit: 1 %}
+{% for c in paginator.site.muqolat limit: 1 %}
   <li>
     <span><b>{{ c.hijri }}</b> : <a href="{{ c.url }}">{{ c.title }}</a></span>
   </li>
