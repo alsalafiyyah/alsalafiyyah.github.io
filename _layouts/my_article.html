@@ -2,11 +2,6 @@
 layout: default
 ---
 
-<article class="post">
-  <h3 class="post-title">{{ page.title }}</h3>
-  {{ content }}
-</article>
-
 {% for c in site.muqolat %}
 {% if c.title == page.title %}
   {% assign thisPost = c %}
