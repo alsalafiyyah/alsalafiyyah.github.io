@@ -54,13 +54,13 @@ layout: default
     <div class="work">    
         {% if prevPost.url %}
         <a class="prev" href="{{prevPost.url}}">
-            <span class="slide-wrap">&lt;</span>
+            <span class="slide-wrap">&lt; {{prevPost.title}}</span>
         </a> 
         {% endif %} 
         &nbsp;&nbsp;&nbsp;&nbsp;
         {% if nextPost.url %} 
         <a class="next" href="{{nextPost.url}}">
-            <span class="slide-wrap">&gt;</span>
+            <span class="slide-wrap">{{nextPost.title}} &gt;</span>
         </a> 
         {% endif %} 
     </div>
