@@ -56,10 +56,6 @@ defaults:
     values:
         permalink:  '/muqolat/:title'
 
-page_collections:
-- refutals:
-    permalink: /refutals/:title/
-
 collections:
   refutals:
     output: true
@@ -67,6 +63,8 @@ collections:
   wahhabism:
     output: true
     permalink: /wahhabism/:path/
-
+  muqolat:
+    output: true
+    permalink: /muqolat/:path/
     
     
