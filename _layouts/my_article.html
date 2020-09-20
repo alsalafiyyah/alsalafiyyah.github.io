@@ -1,20 +1,14 @@
 ---
 layout: default
+permalink: /article/
 ---
 
-<article>
-  <ol>
-{% for wahhabism in site.wahhabism %}
-  <li>
-    <span><b>{{ wahhabism.hijri }}</b> : <a href="{{ wahhabism.url }}">{{ wahhabism.title }}</a></span>
-  </li>
-{% else %}
-{{site.data.settings.page.no-fatwas}}
-{% endfor %}
-  </ol>
-</article>
+<article class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  {{ content }}
+ </article>
 
-{% for c in site.wahhabism %}
+{% for c in site.muqolat %}
 {% if c.title == page.title %}
   {% assign thisPost = c %}
   {% if forloop.index == 1 %}
@@ -30,7 +24,7 @@ layout: default
 {% endif %}
 {% endfor %}
 
-{% for c in site.wahhabism %}
+{% for c in site.muqolat %}
   {% if c.title == page.title %}
     {% assign prevflag = 0 %}
   {% endif %}
@@ -41,7 +35,7 @@ layout: default
 {% endfor %}
 
 {% if nextflag == 1 %}
-  {% for c in site.wahhabism %}
+  {% for c in site.muqolat %}
     {% if foundPost == 1 %}
       {% assign getNext = 1 %}
     {% endif %}
