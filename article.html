@@ -6,7 +6,7 @@ permalink: /article/
 
 <article>
   <ol>
-{% for muqolat in site.muqolat %}
+{% for muqolat in site.muqolat limit: 1 %}
   <li>
     <span><b>{{ muqolat.hijri }}</b> : <a href="{{ muqolat.url }}">{{ muqolat.title }}</a></span>
   </li>
@@ -14,5 +14,49 @@ permalink: /article/
 {{site.data.settings.page.no-fatwas}}
 {% endfor %}
   </ol>
+
+ {% for c in site.muqolat %}
+{% if c.title == page.title %}
+  {% assign thisPage = c %}
+  {% if forloop.index == 1 %}
+    {% assign prevflag = 0 %}
+    {% assign nextflag = 1 %}
+  {% elsif forloop.index == forloop.length %}
+    {% assign prevflag = 1 %}
+    {% assign nextflag = 0 %}
+  {% else %}
+    {% assign prevflag = 1 %}
+    {% assign nextflag = 1 %}
+  {% endif %}  
+{% endif %}
+{% endfor %}
+
+{% for c in site.muqolat %}
+  {% if c.title == page.title %}
+    {% assign prevflag = 0 %}
+  {% endif %}
+  {% if prevflag == 1 %}
+    {% assign prevPage = c %}
+    {% assign page.previous = c %}
+  {% endif %}
+{% endfor %}
+
+{% if nextflag == 1 %}
+  {% for c in site.muqolat %}
+    {% if foundPage == 1 %}
+      {% assign getNext = 1 %}
+    {% endif %}
+    {% if c.title == page.title %}
+      {% assign foundPage = 1 %}        
+    {% endif %}
+    {% if getNext == 1%}
+      {% assign nextPage = c %}
+      {% assign page.next = c %}
+      {% assign foundPage = 0 %}
+      {% assign getNext = 0 %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+  
 </article>
 
