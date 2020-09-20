@@ -4,3 +4,15 @@ title: Article
 permalink: /article/
 ---
 
+<article>
+  <ol>
+{% for muqolat in site.muqolat %}
+  <li>
+    <span><b>{{ muqolat.hijri }}</b> : <a href="{{ muqolat.url }}">{{ muqolat.title }}</a></span>
+  </li>
+{% else %}
+{{site.data.settings.page.no-fatwas}}
+{% endfor %}
+  </ol>
+</article>
+
