@@ -35,7 +35,7 @@ tipue_search:
   include:
     pages: false
   exclude:
-    files: [index.html, search.html, sitemap.xml, feed.xml, docs, BingSiteAuth.xml, Gemfile.lock, Gemfile, manifest.yml, refutal.html, wahhabi.html]
+    files: [index.html, search.html, sitemap.xml, feed.xml, docs, BingSiteAuth.xml, Gemfile.lock, Gemfile, manifest.yml, refutal.html, wahhabi.html, muqolat]
 
 webmaster_verifications:
   google: 0AfP6ouBUqp8IPbvV8AgSXFY3YTtSTTriIZ2Lyt43NI
