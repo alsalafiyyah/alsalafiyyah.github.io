@@ -63,13 +63,13 @@ pagination: true
     <div class="work">    
         {% if prevPage.url %}
         <a class="prev" href="{{prevPage.url}}">
-            <span class="slide-wrap">&lt; {{prevPage.title}}</span>
+            <span class="slide-wrap">&lt; Prev</span>
         </a> 
         {% endif %} 
         &nbsp;&nbsp;&nbsp;&nbsp;
         {% if nextPage.url %} 
         <a class="next" href="{{nextPage.url}}">
-            <span class="slide-wrap">{{nextPage.title}} &gt;</span>
+            <span class="slide-wrap">Next &gt;</span>
         </a> 
         {% endif %} 
     </div>
