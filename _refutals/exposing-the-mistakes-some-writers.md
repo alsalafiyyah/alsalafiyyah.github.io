@@ -13,6 +13,10 @@ muftis:
       url: /biography/binbaz/
 ---
 
+In the Name of Allah, the All-Merciful, the Ever-Merciful 
+
+> This reply was written in 1385 A.H. and published in a book entitled "Al-Adillah Al-Kashifah li Akhtaa Ba'd Al-Kuttab".
+
 All praise be to Allah, and peace and blessings be upon the Messenger of Allah, his family and Companions. To proceed :
 
 I have perused the article published in Al-Bilad magazine, issue no. (1909), dated 12 Muharram, 1385 A.H. Entitled, "**Beware of Immoderation**".
