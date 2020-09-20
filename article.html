@@ -2,13 +2,14 @@
 layout: my_article
 title: Article
 permalink: /article/
+pagination: true
 ---
 
 <article>
   <ol>
-{% for muqolat in site.muqolat limit: 1 %}
+{% for c in site.muqolat limit: 1 %}
   <li>
-    <span><b>{{ muqolat.hijri }}</b> : <a href="{{ muqolat.url }}">{{ muqolat.title }}</a></span>
+    <span><b>{{ c.hijri }}</b> : <a href="{{ c.url }}">{{ c.title }}</a></span>
   </li>
 {% else %}
 {{site.data.settings.page.no-fatwas}}
