@@ -6,7 +6,7 @@ hijri: Safar 04, 1442 AH
 lang: en
 category: ["women", hijab]
 source: "Majmu' Fatawa of Shaykh Ibn Baz 3"
-excerpt: "At the beginning of Islam, Hijab (veil) was not prescribed for women would display their faces and hands in front of men."
+excerpt: "At the beginning of Islam, Hijab (veil) was not prescribed for women to display their faces and hands in front of men."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
