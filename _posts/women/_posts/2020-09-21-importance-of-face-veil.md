@@ -6,7 +6,7 @@ hijri: Safar 04, 1442 AH
 lang: en
 category: ["women", hijab]
 source: "Majmu' Fatawa of Shaykh Ibn Baz 3"
-excerpt: "At the beginning of Islam, Hijab (veil) was not prescribed for women and women would display their faces and hands in front of men."
+excerpt: "At the beginning of Islam, Hijab (veil) was not prescribed for women would display their faces and hands in front of men."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
@@ -19,7 +19,7 @@ I would like Your Eminence to answer me concerning the importance of a woman cov
 
 Answer:
 
-At the beginning of Islam, Hijab (veil) was not prescribed for women and women would display their faces and hands in front of men. Then Allah (Glorified be He) prescribed it and made it obligatory for women to keep and protect them from the gazes of non-Mahrams (not spouses or permanently unmarriageable relatives) and thus, blocked the way to Fitnah (temptation). This was after the revelation of the Ayah (Qur'anic verse) of Hijab in Surah Al-Ahzab: "**And when you ask (his wives) for anything you want, ask them from behind a screen: that is purer for your hearts and for their hearts.**" [Al-Ahzab: 53] This Ayah, despite being mentioned in respect of the wives of the Prophet (peace be upon him), addresses them and all women, based on the generality of the `Illah (effective cause) and the meaning.
+At the beginning of Islam, Hijab (veil) was not prescribed for women would display their faces and hands in front of men. Then Allah (Glorified be He) prescribed it and made it obligatory for women to keep and protect them from the gazes of non-Mahrams (not spouses or permanently unmarriageable relatives) and thus, blocked the way to Fitnah (temptation). This was after the revelation of the Ayah (Qur'anic verse) of Hijab in Surah Al-Ahzab: "**And when you ask (his wives) for anything you want, ask them from behind a screen: that is purer for your hearts and for their hearts.**" [Al-Ahzab: 53] This Ayah, despite being mentioned in respect of the wives of the Prophet (peace be upon him), addresses them and all women, based on the generality of the 'Illah (effective cause) and the meaning.
 
 In the same Surah, Allah (Glorified and Exalted be He) says: "**And stay in your houses, and do not display yourselves like that of the times of ignorance, and perform As-Salât (Iqamât-as-Salât), and give Zakât and obey Allâh and His Messenger.**" [Al-Ahzab: 33] This Ayah addresses them (wives of the Prophet) and all women according to Ijma' (consensus of scholars).
 
