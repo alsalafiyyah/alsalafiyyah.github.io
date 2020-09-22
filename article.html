@@ -19,116 +19,29 @@ pagination:
 {% endfor %}
   </ol>
 
-<ul class="pager"> 
-{% assign prev = "" %}
-{% assign next = "" %}
-{% assign stop = false %}
-{% for post in site.posts%}
-{% if post == page %}
-{% assign stop = true %}
-{% elsif post.categories == page.categories %}
-{% if stop %}
-{% assign prev = post.url %}
-{% assign pTitle = post.title %}
-{% break %}
-{% else %}
-{% assign next = post.url %}
-{% assign nTitle = post.title %}
-{% endif %}
-{% endif %}
-{% endfor%}
-{% if prev != "" %}
-<li class="previous"><a href="{{ prev }}">← Previous Page - {{pTitle}}</a></li>
-{% endif %}
-{% if next != "" %}
-<li class="next"><a href="{{ next }}"> Next Page - {{nTitle}} →</a></li>
-{% endif %}
-</ul> 
-    
- {% for c in site.muqolat %}
-{% if c.title == page.title %}
-  {% assign thisPage = c %}
-  {% if forloop.index == 1 %}
-    {% assign prevflag = 0 %}
-    {% assign nextflag = 1 %}
-  {% elsif forloop.index == forloop.length %}
-    {% assign prevflag = 1 %}
-    {% assign nextflag = 0 %}
+{% for post in paginator.page %}
+  <h1><a href="{{ post.url }}">{{ page.title }}</a></h1>
+  <p class="author">
+    <span class="date">{{ page.date }}</span>
+  </p>
+  <div class="content">
+    {{ page.content }}
+  </div>
+{% endfor %}
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
   {% else %}
-    {% assign prevflag = 1 %}
-    {% assign nextflag = 1 %}
-  {% endif %}  
-{% endif %}
-{% endfor %}
-
-{% for c in site.muqolat %}
-  {% if c.title == page.title %}
-    {% assign prevflag = 0 %}
+    <span class="previous">Previous</span>
   {% endif %}
-  {% if prevflag == 1 %}
-    {% assign prevPage = c %}
-    {% assign page.previous = c %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
   {% endif %}
-{% endfor %}
-
-{% if nextflag == 1 %}
-  {% for c in site.muqolat %}
-    {% if foundPage == 1 %}
-      {% assign getNext = 1 %}
-    {% endif %}
-    {% if c.title == page.title %}
-      {% assign foundPage = 1 %}        
-    {% endif %}
-    {% if getNext == 1%}
-      {% assign nextPage = c %}
-      {% assign page.next = c %}
-      {% assign foundPage = 0 %}
-      {% assign getNext = 0 %}
-    {% endif %}
-  {% endfor %}
-{% endif %}
-
-<div id="post-nav" class="clearfix nav-slide">
-    <div class="work">    
-        {% if prevPage.url %}
-        <a class="prev" href="{{prevPage.url}}">
-            <span class="slide-wrap">&lt; Prev</span>
-        </a> 
-        {% endif %} 
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        {% if nextPage.url %} 
-        <a class="next" href="{{nextPage.url}}">
-            <span class="slide-wrap">Next &gt;</span>
-        </a> 
-        {% endif %} 
-    </div>
 </div>
-
-{% assign prevflag = 1 %}
-{% assign nextflag = 1 %}
-
-{% for c in site.muqolat %}
-  {% if c.title == page.title %}
-    {% assign currentItemIndex = forloop.index0 %}
-    {% if forloop.index == 1 %}
-      {% assign prevflag = 0 %}
-      {% assign nextflag = 1 %}
-    {% elsif forloop.index == forloop.length %}
-      {% assign prevflag = 1 %}
-      {% assign nextflag = 0 %}
-    {% endif %}
-  {% endif %}
-{% endfor %}
-
-{% if prevflag == 1 %}
-  {% assign prevItemIndex = currentItemIndex | minus: 1 %}
-  {% assign prevPost = site.muqolat[prevItemIndex] %}
-{% endif %}
-
-{% if nextflag == 1 %}
-  {% assign nextItemIndex = currentItemIndex | plus: 1 %}
-  {% assign nextPost = site.muqolat[nextItemIndex] %}
-{% endif %}
   
 </article>
 
