@@ -19,7 +19,7 @@ pagination:
 {% endfor %}
   </ol>
 
-{% for post in paginator.page %}
+{% for post in paginator.page[site.muqolat] %}
   <h1><a href="{{ post.url }}">{{ page.title }}</a></h1>
   <p class="author">
     <span class="date">{{ page.date }}</span>
@@ -36,7 +36,6 @@ pagination:
   {% else %}
     <span class="previous">Previous</span>
   {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="next">Next</a>
   {% else %}
