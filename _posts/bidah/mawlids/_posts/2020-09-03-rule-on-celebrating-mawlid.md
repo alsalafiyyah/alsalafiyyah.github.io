@@ -3,14 +3,22 @@ layout: post
 title: "Celebrating the Prophet's Mawlid"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 2747"
-category: [mawlids]
+category: [mawlids, bidah]
 hijri: Muharram 15, 1442 AH
-date: 2020-09-03
-shaykhs: 
- - Shaykh Abdul-Aziz Ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+lang: en
+excerpt: ""
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Abdullah ibn Qa'ud
+      url: /biography/qaud/
 ---
 
 Question 1: 
@@ -30,8 +38,6 @@ According to another narration, he (peace be upon him) said, “**Whoever does a
 The Messenger (peace be upon him) did not celebrate his birthday, nor did he order others to do so, nor did he see one celebrating it and remained silent about it. Also, the Rightly-Guided Caliphs and the Salaf (righteous predecessors) during the first and best three centuries of Islam never celebrated Mawlid; it was invented and introduced after their time.
 
 It is worth mentioning that [Shaykh Abdul-'Aziz ibn Abdullah ibn Baz](/biographies/binbaz/) wrote a detailed answer on this subject.
-
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions. 
 
 ---
 
