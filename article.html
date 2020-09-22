@@ -7,40 +7,9 @@ pagination:
     collection: muqolat
 ---
 
-<style>
-    .cssPagination .pages > .page:target ~ .page:last-child,
-.cssPagination .pages > .page {display: none;}
-.cssPagination .pages > :last-child,
-.cssPagination .pages > .page:target {display: block;}
-</style>
-<div class="cssPagination">
-    <div class="pages">
-        <div class="page" id="page3">
-            <div class="title"><a href="/article7.htm">Page 7</a></div>
-            <div class="title"><a href="/article8.htm">Page 8</a></div>
-            <div class="title"><a href="/article9.htm">Page 9</a></div>
-        </div>
-        <div class="page" id="page2">
-            <div class="title"><a href="/article4.htm">Page 4</a></div>
-            <div class="title"><a href="/article5.htm">Page 5</a></div>
-            <div class="title"><a href="/article6.htm">Page 6</a></div>
-        </div>
-        <div class="page" id="page1">
-            <div class="title"><a href="/article1.htm">Page 1</a></div>
-            <div class="title"><a href="/article2.htm">Page 2</a></div>
-            <div class="title"><a href="/article3.htm">Page 3</a></div>
-        </div>
-    </div>
-    <div class="pageNav">
-        <a class="pageNumber" href="#page1">1</a>
-        <a class="pageNumber" href="#page2">2</a>
-        <a class="pageNumber" href="#page3">3</a>
-    </div>
-</div>
-
 <article>
   <ol>
-{% for c in site.muqolat limit: 1 %}
+{% for c in site.muqolat %}
   <li>
     <span><b>{{ c.hijri }}</b> : <a href="{{ c.url }}">{{ c.title }}</a></span>
   </li>
