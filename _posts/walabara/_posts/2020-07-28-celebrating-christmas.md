@@ -1,16 +1,23 @@
 ---
 layout: post
-title: "Celebrating Christmas"
+title: "Impermissibility for Muslims to celebrating the millennium or other occasions of Non-Muslims"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 21040"
-category: [walabara, mawlids, disbelievers]
-hijri: Dhu al-Hijjah 7, 1441 AH
-date: 2020/07/28
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Abdullah Aal Al-Shaykh
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Salih Al-Fawzan
- - Shaykh Bakr Abu Zayd
+source: "Fatawa Al-Lajnah Al-Da'imah no. 21040"
+category: [walabara, mawlids]
+hijri: Dhul-Hijjah 7, 1441 AH
+lang: en
+excerpt: "It is not permissible for Muslims who believe in Allah and the Last Day to express their interest in celebrating the millennium and other occasions related to the Christians or other non-Muslims"
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+      url: /biography/abdulaziz/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Salih Fawzan
+      url: /biography/fawzan/
+    - name: Shaykh Bakr Abu Zayd
+      url: /biography/bakr/
 ---
 
 Question: 
@@ -19,13 +26,13 @@ I would like to inform Your Eminence regarding a large electroluminescent billbo
 
 Answer:
 
-It is not permissible for Muslims who believe in Allah and the Last Day to express their interest in celebrating the millennium and other occasions related to the Christians or other non-Muslims. Accordingly, it is not permissible to use the Gregorian calendar, schedule certain events to take place on the millennium - like the conclusion of marriage or the start of a new business, or consider such occasions as festivals. This implies being pleased with their traditions and practices, adulating them, and propagating the celebration of their festivals in which the cross is revered, falsehood is esteemed, and what Allah and His Messenger have forbidden is committed. Allah (Glorified and Exalted be He) states, "...but do not help one another in sin and transgression. And fear Allâh. Verily, Allâh is Severe in punishment." [al-maidah: 2]
+It is not permissible for Muslims who believe in Allah and the Last Day to express their interest in celebrating the millennium and other occasions related to the Christians or other non-Muslims. Accordingly, it is not permissible to use the Gregorian calendar, schedule certain events to take place on the millennium - like the conclusion of marriage or the start of a new business, or consider such occasions as festivals. This implies being pleased with their traditions and practices, adulating them, and propagating the celebration of their festivals in which the cross is revered, falsehood is esteemed, and what Allah and His Messenger have forbidden is committed. Allah (Glorified and Exalted be He) states, "**...but do not help one another in sin and transgression. And fear Allâh. Verily, Allâh is Severe in punishment.**" [al-maidah: 2]
 
-It was authentically reported from the Prophet (peace be upon him) that he stated, "Anyone who imitates any people is one of them." [^1] 
+It was authentically reported from the Prophet (peace be upon him) that he stated, "**Anyone who imitates any people is one of them.**" [^1] 
 
-Muslims who are satisfied with Allah as their Lord, Islam as their Din (religion), and Muhammad (peace be upon him) as their Prophet and Messenger must follow Al-Sirat-ul-Mustaqim (the Straight Path), which was the path of the Prophet (peace be upon him) and his honorable Sahabah (Companions - may Allah be pleased with them). Istiqamah (steadfastness) on Al-Sirat demands that Muslims avoid the path of those upon whom Allah has invoked His anger and those who went astray, namely, the Jews, the Christians, and other non-Muslims. Muslims must not follow their false beliefs, imitate their behavior and style of dress, mix with them in their festivals, churches, and places of worship; rejoice at their occasions, or send congratulations to them. In fact, Muslims must deny all these actions, turn to Allah, and ask Him for guidance and steadfastness until the Day of Resurrection.
+Muslims who are satisfied with Allah as their Lord, Islam as their Din (religion), and Muhammad (peace be upon him) as their Prophet and Messenger must follow Al-Sirat-ul-Mustaqim (the Straight Path), which was the path of the Prophet (peace be upon him) and his honorable Sahabah (Companions - may Allah be pleased with them). Istiqamah (steadfastness) on Al-Sirat demands that Muslims avoid the path of those upon whom Allah has invoked His anger and those who went astray, namely, the Jews, the Christians, and other non-Muslims. 
 
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
+Muslims must not follow their false beliefs, imitate their behavior and style of dress, mix with them in their festivals, churches, and places of worship; rejoice at their occasions, or send congratulations to them. In fact, Muslims must deny all these actions, turn to Allah, and ask Him for guidance and steadfastness until the Day of Resurrection.
 
 ---
 [^1]: Abu Dawud [Book on clothing] no. 4031.
