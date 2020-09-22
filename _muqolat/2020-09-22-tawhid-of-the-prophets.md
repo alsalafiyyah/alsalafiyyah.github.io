@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: my_article
 publisher: alsalafiyyah@icloud.com
 title: "The Tawhid of the Prophets and its antithesis in the religions of the Kafirs and Mushriks"
 hijri: Safar 05, 1442 AH
