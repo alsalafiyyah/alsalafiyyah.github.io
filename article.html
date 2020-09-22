@@ -18,6 +18,32 @@ pagination:
 {% endfor %}
   </ol>
 
+<ul class="pager"> 
+{% assign prev = "" %}
+{% assign next = "" %}
+{% assign stop = false %}
+{% for post in site.posts%}
+{% if post == page %}
+{% assign stop = true %}
+{% elsif post.categories == page.categories %}
+{% if stop %}
+{% assign prev = post.url %}
+{% assign pTitle = post.title %}
+{% break %}
+{% else %}
+{% assign next = post.url %}
+{% assign nTitle = post.title %}
+{% endif %}
+{% endif %}
+{% endfor%}
+{% if prev != "" %}
+<li class="previous"><a href="{{ prev }}">← Previous Page - {{pTitle}}</a></li>
+{% endif %}
+{% if next != "" %}
+<li class="next"><a href="{{ next }}"> Next Page - {{nTitle}} →</a></li>
+{% endif %}
+</ul> 
+    
  {% for c in site.muqolat %}
 {% if c.title == page.title %}
   {% assign thisPage = c %}
