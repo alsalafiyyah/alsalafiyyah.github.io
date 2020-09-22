@@ -13,6 +13,7 @@ paginate:       20
 paginate_path: "/:num/"
 markdown:       kramdown
 remote_theme: alsalafiyyah/massively-jekyll-theme
+safe: true
 
 include:
   - _pages
