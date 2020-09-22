@@ -12,6 +12,7 @@ pagination:
 {% for c in site.muqolat %}
   <li>
     <span><b>{{ c.hijri }}</b> : <a href="{{ c.url }}">{{ c.title }}</a></span>
+      <p>{{ page.excerpt }}</p>
   </li>
 {% else %}
 {{site.data.settings.page.no-fatwas}}
