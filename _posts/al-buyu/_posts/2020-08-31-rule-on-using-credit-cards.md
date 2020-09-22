@@ -4,14 +4,22 @@ title: "Ruling on using the silver and gold credit card"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 17289"
 hijri: Muharram 12, 1442 AH
-date: 2020/08/31
-category: [al-buyu, loan, riba]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Salih Fawzan
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Bakr Abu Zayd
+lang: en
+category: [sales, loan, riba]
+excerpt: "These gold or silver credit cards are usurious. It is not permissible to issue or to deal with such cards."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Salih Fawzan
+      url: /biography/fawzan/
+    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+      url: /biography/abdulaziz/
+    - name: Shaykh Bakr Abu Zayd
+      url: /biography/bakr/
 ---
 
 Question:
@@ -21,5 +29,3 @@ I would like to direct to Your Honor a question submitted to us by the workers i
 Answer:
 
 These gold or silver credit cards are usurious. It is not permissible to issue or to deal with such cards. This loan involves interest and this Riba (usury/interest) is Haram (prohibited) and a form of cooperation in sin and aggression.
-
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
