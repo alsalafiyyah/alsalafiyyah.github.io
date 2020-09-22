@@ -4,13 +4,21 @@ title: "A company issued a card for employees to use when buying a commodity"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 3675"
 hijri: Muharram 12, 1442 AH
-date: 2020/08/31
-category: [al-buyu, loan, riba]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Qa'ud
+lang: en
+category: [sales, loan, riba]
+excerpt: "If the matter is as you have mentioned, the extra amount which the company takes is a form of Riba (Usury). It is not permissible for it to take this amount because Riba is Haram according to the Qur'an, the Sunnah and consensus."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Abdullah ibn Qa'ud
+      url: /biography/qaud/
 ---
 
 Question:
@@ -28,5 +36,3 @@ Could you kindly advise whether or not this contract is permissible. If it is pe
 Answer:
 
 If the matter is as you have mentioned, the extra amount which the company takes is a form of Riba (Usury). It is not permissible for it to take this amount because Riba is Haram (prohibited) according to the Qur'an, the Sunnah and consensus. If this contract does not bear interest, then it is a guarantee contract, which is one of the contracts of Irfaq (things which contain lenience of providing utilities to others). If it bears interest when the payment is delayed, then it is not permissible because of what has been stated previously. It is not permissible to pay 30 dollars per year in return for this participation because this is a form of lease in return for a guarantee.
-
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
