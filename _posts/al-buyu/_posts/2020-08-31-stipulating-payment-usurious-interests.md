@@ -28,5 +28,3 @@ There is a card which facilitates financial transactions in Western countries, a
 Answer:
 
 If the reality is as you have mentioned, then such dealing is not permissible as this contract contains Riba (usury/interest) because you stipulate paying Riba in case of delaying payment.
-
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
