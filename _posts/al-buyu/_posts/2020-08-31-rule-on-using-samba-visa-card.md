@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 17611"
 hijri: Muharram 12, 1442 AH
 lang: en
-category: [al-buyu, loan, riba]
+category: [sales, loan, riba]
 excerpt: "Samba visa as described in the question is a new way of the ways of those who deal with Riba (usury/interest) and consuming the properties of people unjustly."
 muftis:
   chairman: 
