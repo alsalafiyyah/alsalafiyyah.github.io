@@ -182,7 +182,18 @@ defaults:
         path: _posts/sects/asharis/_posts
     values:
         permalink:  '/sects/ashariyyah/:title'
-
+  - scope:
+        path: _posts/tafsir/quran/_posts
+    values:
+        permalink:  '/tafsir/quran/:title'
+  - scope:
+        path: _posts/tafsir/hadiths/_posts
+    values:
+        permalink:  '/tafsir/hadiths/:title'
+  - scope:
+        path: _posts/tafsir/hadiths/fabricated-weak-hadiths/_posts
+    values:
+        permalink:  '/tafsir/hadiths/mawdu-daif/:title'
 
 
 
