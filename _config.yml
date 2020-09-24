@@ -66,6 +66,6 @@ collections:
     permalink: /wahhabism/:path/
   muqolat:
     output: true
-    permalink: /article/:title/
+    permalink: /muqolat/:title/
     
     
