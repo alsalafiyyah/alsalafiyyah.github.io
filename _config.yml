@@ -91,7 +91,7 @@ defaults:
     values:
         permalink:  '/sects/sufism/burhamiyyah/:title'
   - scope:
-        path: _posts/sects/sufism/tabligis/_posts
+        path: _posts/sects/sufism/tablighis/_posts
     values:
         permalink:  '/sects/sufism/tablighis/:title'
   - scope:
