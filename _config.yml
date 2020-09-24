@@ -194,7 +194,10 @@ defaults:
         path: _posts/tafsir/hadiths/fabricated-weak-hadiths/_posts
     values:
         permalink:  '/tafsir/hadiths/mawdu-daif/:title'
-
+  - scope:
+        path: _posts/prophets/_posts
+    values:
+        permalink:  '/prophets-messengers/:title'
 
 
 
