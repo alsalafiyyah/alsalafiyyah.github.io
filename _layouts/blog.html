@@ -45,8 +45,12 @@ layout: default
   {% endfor %}
 {% endif %}
 
+
 <article class="post">
+<header class="major">
+ <span class="date">{% include date.liquid %}</span>
   <h3 class="post-title">{{ page.title }}</h3>
+</header>
   {{ content }}
 </article>
 
