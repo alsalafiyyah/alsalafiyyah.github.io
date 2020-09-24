@@ -49,13 +49,7 @@ manifest_lang: en
 manifest_background_color: "#fff"
 manifest_short_name:
 manifest_display: standalone
-
-defaults:
-  - scope:
-        path:       muqolat/_posts
-    values:
-        permalink:  '/muqolatt/:title'
-
+        
 collections:
   refutals:
     output: true
@@ -67,4 +61,11 @@ collections:
     output: true
     permalink: /muqolat/:title/
     
- 
+defaults:
+  - scope:
+        path: _posts/bidah/mawlids/_posts
+    values:
+        permalink:  '/mawlids/:title'
+
+
+
