@@ -121,7 +121,7 @@ sidebar_menu:
     link: /
     active: home
   - name: Muqolat
-    link: /muqolat
+    link: /muqolat/
     active: muqolat
   - name: Browse by topic
     link: /topic
