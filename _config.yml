@@ -206,7 +206,10 @@ defaults:
         path: _posts/walabara/_posts
     values:
         permalink:  '/aqidah/walabara/:title'
-
+  - scope:
+        path: _posts/women/_posts
+    values:
+        permalink:  '/women/:title'
 
 
 
