@@ -5,39 +5,11 @@ permalink: /article/
 ---
 
 <article>
- {% if page.collection %}
-  {% assign collection = site[page.collection] | sort: 'position' %}
-  {% assign prev = collection | last %}
-  {% assign next = collection | first %}
-
-  {% for item in collection %}
-    {% if item.title == page.title %}
-      {% unless forloop.first %}
-        {% assign prev = iterator %}
-      {% endunless %}
-
-      {% unless forloop.last %}
-        {% assign next = collection[forloop.index] %}
-      {% endunless %}
-    {% endif %}
-
-    {% assign iterator = item %}
-  {% endfor %}
-{% endif %}
-
-{% if prev %}
-  <a href="{{ prev.url }}">{{ prev.title }}</a>
-{% endif %}
-
-{% if next %}
-  <a href="{{ next.url }}">{{ next.title }}</a>
-{% endif %}
-    
   <ol>
 {% for c in site.muqolat %}
   <li>
     <span><b>{{ c.hijri }}</b> : <a href="{{ c.url }}">{{ c.title }}</a></span>
-      <p>{{ c.excerpt }}</p>
+      <p>{{ c.excerpt | strip_html | strip_newlines | truncate: 156 }}</p>
   </li>
 {% else %}
 {{site.data.settings.page.no-fatwas}}
