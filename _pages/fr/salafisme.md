@@ -1,4 +1,4 @@
-﻿---
+---
 layout: article
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatwas du Comité Permanent (1361-2), (6149-2), (9450-2)"
