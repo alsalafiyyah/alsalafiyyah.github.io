@@ -1,11 +1,10 @@
 ---
-layout: article
+layout: blog
 title: "Advice of Allah's Book [Part 1]"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 9/14"
 hijri: Muharram 6, 1442 AH
-date: 2020/08/25
-category: ["basic"]
+lang: en
 shaykhs: Shaykh Ibn Baz
 ---
 
