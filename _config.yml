@@ -93,7 +93,7 @@ defaults:
   - scope:
         path: _posts/sects/sufism/tablighis/_posts
     values:
-        permalink:  '/sects/sufism/tablighis/:title'
+        permalink:  '/sects/sufism/tablighi-jamaat/:title'
   - scope:
         path: _posts/sects/sufism/quburis/_posts
     values:
@@ -161,7 +161,7 @@ defaults:
   - scope:
         path: _posts/sects/ikhwanis/_posts
     values:
-        permalink:  '/sects/ikhwanis/:title'
+        permalink:  '/sects/ikhwan-muslimin/:title'
   - scope:
         path: _posts/sects/khawarij/_posts
     values:
@@ -177,7 +177,7 @@ defaults:
   - scope:
         path: _posts/sects/baath/_posts
     values:
-        permalink:  '/sects/baath/:title'
+        permalink:  '/sects/baath-party/:title'
   - scope:
         path: _posts/sects/asharis/_posts
     values:
