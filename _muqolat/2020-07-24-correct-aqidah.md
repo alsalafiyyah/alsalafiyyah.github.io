@@ -1,5 +1,5 @@
 ---
-layout: my_article
+layout: blog
 author: "Instagram@Alsalafiyyah"
 title: Correct 'Aqidah and its antithesis
 excerpt: "One of the bases of Iman is to believe in the Perfectly Magnificent Names of Allah and His Sublime Attributes that are stated in His Glorious Book and are authentically reported from the Prophet (peace be upon him) without Tahrif (distortion of the meaning), Ta'til (negation of the meaning or function of Allah's Attributes), Takyif (descriptive designation of Allah's Attributes) or Tamthil (likening Allah's Attributes to those of His creation)."
