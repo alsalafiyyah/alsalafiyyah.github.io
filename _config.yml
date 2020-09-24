@@ -25,7 +25,6 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
   - liquid
-  - page_collections
 
 exclude:
   - Gemfile
@@ -55,7 +54,7 @@ defaults:
   - scope:
         path:       muqolat/_posts
     values:
-        permalink:  '/muqolat/:title'
+        permalink:  '/muqolatt/:title'
 
 collections:
   refutals:
@@ -66,6 +65,6 @@ collections:
     permalink: /wahhabism/:path/
   muqolat:
     output: true
-    permalink: /muqolat/:title/
+    permalink: /muqolat/:path/
     
-    
+ 
