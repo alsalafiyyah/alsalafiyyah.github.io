@@ -1,4 +1,4 @@
-﻿---
+---
 layout: article
 title: "Advice of Allah's Book [Part 1]"
 publisher: "alsalafiyyah@icloud.com"
@@ -9,7 +9,7 @@ category: ["basic"]
 shaykhs: Shaykh Ibn Baz
 ---
 
-All praise be to Allah, the Lord of all the Worlds, and the good end will be for the pious! Peace and blessings be upon Allah's Servant, Messenger, Khalil (beloved, close elect), the one entrusted with His revelation and the best of His Creatures our Prophet, Imam (leader) and Master Muhammad ibn `Abdullah, and upon his family, his Companions, and those who follow his path and are guided by his teachings till the Day of Judgment.
+All praise be to Allah, the Lord of all the Worlds, and the good end will be for the pious! Peace and blessings be upon Allah's Servant, Messenger, Khalil (beloved, close elect), the one entrusted with His revelation and the best of His Creatures our Prophet, Imam (leader) and Master Muhammad ibn 'Abdullah, and upon his family, his Companions, and those who follow his path and are guided by his teachings till the Day of Judgment.
 
 Truly, the Qur'an contains guidance and light. It is the strong Rope and Right Path of Allah. It is the Wise Reminder, whoever adheres to it will be saved, whereas whoever is lead astray from it perishes. Allah (Glorified and Exalted be He) says about His Glorious Book: "**Verily, this Qur’ân guides to that which is most just and right and gives glad tidings to the believers (in the Oneness of Allâh and His Messenger, Muhammad صلى الله عليه و سلم), who work deeds of righteousness, that they shall have a great reward (Paradise). And that those who believe not in the Hereafter, for them We have prepared a painful torment (Hell).**" [al-Isra: 9-10]
 
