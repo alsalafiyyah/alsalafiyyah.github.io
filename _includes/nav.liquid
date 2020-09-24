@@ -1,17 +1,20 @@
-﻿				<!-- Nav -->
-					<nav id="nav" role="navigation">
-						<ul class="links" role="menubar" aria-activedescendant="">
-                                                {% for item in site.data.settings.sidebar_menu %}
-						 {% if {{page.active}} == {{item.active}} %}
-                                                   <li class="active" role="presentation" itemscope itemtype="https://schema.org/SiteNavigationElement">
-                                                  <a role="menuitem" tabindex="-1" itemprop="url" href="{{ item.link }}"><span itemprop="name">{{ item.name }}</span></a></li>
-                                                {% else %}
-						  <li role="presentation" itemscope itemtype="https://schema.org/SiteNavigationElement"><a role="menuitem" tabindex="-1" itemprop="url" href="{{ item.link }}"><span itemprop="name">{{ item.name }}</span></a>
-                                                </li>
-                                                {% endif %}
-                                                {% endfor %}
-						</ul>
-						<ul class="icons">
-							<li><a rel="nofollow noopener" href="https://instagram.com/Alsalafiyyah" target="_blank" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-						</ul>
-					</nav>
+<nav id="nav" role="navigation" itemprop="hasPart" itemscope itemtype="http://schema.org/SiteNavigationElement">
+ <ul class="links" role="menubar" aria-activedescendant="">
+  {% for item in site.data.settings.sidebar_menu %}
+   {% if {{page.active}} == {{item.active}} %}
+   <li class="active" role="presentation" itemprop="hasPart" itemscope itemtype="https://schema.org/SiteNavigationElement">
+    <a role="menuitem" tabindex="-1" itemprop="url" href="{{ item.link }}"><span itemprop="name">{{ item.name }}</span></a>
+   </li>
+   {% else %}
+   <li role="presentation" itemscope itemprop="hasPart" itemtype="https://schema.org/SiteNavigationElement">
+    <a role="menuitem" tabindex="-1" itemprop="url" href="{{ item.link }}"><span itemprop="name">{{ item.name }}</span></a>
+   </li>
+   {% endif %}
+  {% endfor %}
+ </ul>
+<ul class="icons">
+ <li>
+  <a rel="nofollow noopener" href="https://instagram.com/Alsalafiyyah" target="_blank" class="icon brands fa-instagram"><span class="label">Instagram</span></a>
+ </li>
+</ul>
+</nav>
