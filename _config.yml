@@ -198,6 +198,15 @@ defaults:
         path: _posts/prophets/_posts
     values:
         permalink:  '/prophets-messengers/:title'
+  - scope:
+        path: _posts/non-muslims/_posts
+    values:
+        permalink:  '/non-muslims/:title'
+  - scope:
+        path: _posts/walabara/_posts
+    values:
+        permalink:  '/aqidah/walabara/:title'
+
 
 
 
