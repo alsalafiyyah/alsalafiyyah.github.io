@@ -122,9 +122,18 @@ defaults:
         path: _posts/sects/sufism/khalwatiyyah/_posts
     values:
         permalink:  '/sects/sufism/khalwatiyyah/:title'
-
-
-
+  - scope:
+        path: _posts/sects/sufism/habriyyah/_posts
+    values:
+        permalink:  '/sects/sufism/hibriyyah/:title'
+  - scope:
+        path: _posts/sects/sufism/shadhiliyyah/_posts
+    values:
+        permalink:  '/sects/sufism/shadhiliyyah/:title'
+  - scope:
+        path: _posts/sects/sufism/mahdiyyah/_posts
+    values:
+        permalink:  '/sects/sufism/mahdiyyah/:title'
 
 
 
