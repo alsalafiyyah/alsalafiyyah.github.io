@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: blog
 title: "The meaning of 'La ilaha illa Allah'"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 2/5"
