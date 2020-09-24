@@ -154,6 +154,34 @@ defaults:
         path: _posts/sects/shiah/jafaris/_posts
     values:
         permalink:  '/sects/shiah/jafaris/:title'
+  - scope:
+        path: _posts/sects/qadariyyah/_posts
+    values:
+        permalink:  '/sects/qadariyyah/:title'
+  - scope:
+        path: _posts/sects/ikhwanis/_posts
+    values:
+        permalink:  '/sects/ikhwanis/:title'
+  - scope:
+        path: _posts/sects/khawarij/_posts
+    values:
+        permalink:  '/sects/khawarij/:title'
+  - scope:
+        path: _posts/sects/khawarij/ibadiyyah/_posts
+    values:
+        permalink:  '/sects/khawarij/ibadiyyah/:title'
+  - scope:
+        path: _posts/sects/habashis/_posts
+    values:
+        permalink:  '/sects/habashis/:title'
+  - scope:
+        path: _posts/sects/baath/_posts
+    values:
+        permalink:  '/sects/baath/:title'
+  - scope:
+        path: _posts/sects/asharis/_posts
+    values:
+        permalink:  '/sects/ashariyyah/:title'
 
 
 
