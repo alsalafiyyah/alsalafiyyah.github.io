@@ -134,6 +134,28 @@ defaults:
         path: _posts/sects/sufism/mahdiyyah/_posts
     values:
         permalink:  '/sects/sufism/mahdiyyah/:title'
+  - scope:
+        path: _posts/sects/shiah/_posts
+    values:
+        permalink:  '/sects/shiah/:title'
+  - scope:
+        path: _posts/sects/shiah/bohras/_posts
+    values:
+        permalink:  '/sects/shiah/dawudi-bohras/:title'
+  - scope:
+        path: _posts/sects/shiah/imamiyyah/_posts
+    values:
+        permalink:  '/sects/shiah/imamiyyah/:title'
+  - scope:
+        path: _posts/sects/shiah/ismailism/_posts
+    values:
+        permalink:  '/sects/shiah/ismailiyyah/:title'
+  - scope:
+        path: _posts/sects/shiah/jafaris/_posts
+    values:
+        permalink:  '/sects/shiah/jafaris/:title'
+
+
 
 
 
