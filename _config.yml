@@ -66,6 +66,65 @@ defaults:
         path: _posts/bidah/mawlids/_posts
     values:
         permalink:  '/mawlids/:title'
+  - scope:
+        path: _posts/bidah/_posts
+    values:
+        permalink:  '/bidah/:title'
+  - scope:
+        path: _posts/rulership/_posts
+    values:
+        permalink:  '/rulership/:title'
+  - scope:
+        path: _posts/sect/_posts
+    values:
+        permalink:  '/sects/:title'
+  - scope:
+        path: _posts/sects/sufism/_posts
+    values:
+        permalink:  '/sects/sufism/:title'
+  - scope:
+        path: _posts/sects/sufism/barelvis/_posts
+    values:
+        permalink:  '/sects/sufism/barelvis/:title'
+  - scope:
+        path: _posts/sects/sufism/burhamiyyah/_posts
+    values:
+        permalink:  '/sects/sufism/burhamiyyah/:title'
+  - scope:
+        path: _posts/sects/sufism/tabligis/_posts
+    values:
+        permalink:  '/sects/sufism/tablighis/:title'
+  - scope:
+        path: _posts/sects/sufism/quburis/_posts
+    values:
+        permalink:  '/sects/sufism/quburiyyun/:title'
+  - scope:
+        path: _posts/sects/sufism/qadiriyyah/_posts
+    values:
+        permalink:  '/sects/sufism/qadiriyyah/:title'
+  - scope:
+        path: _posts/sects/sufism/rifaiyyah/_posts
+    values:
+        permalink:  '/sects/sufism/rifaiyyah/:title'
+  - scope:
+        path: _posts/sects/sufism/simaniyyah/_posts
+    values:
+        permalink:  '/sects/sufism/simaniyyah/:title'
+  - scope:
+        path: _posts/sects/sufism/naqshabandiyyah/_posts
+    values:
+        permalink:  '/sects/sufism/naqshabandiyyah/:title'
+  - scope:
+        path: _posts/sects/sufism/tijaniyyah/_posts
+    values:
+        permalink:  '/sects/sufism/tijaniyyah/:title'
+  - scope:
+        path: _posts/sects/sufism/khalwatiyyah/_posts
+    values:
+        permalink:  '/sects/sufism/khalwatiyyah/:title'
+
+
+
 
 
 
