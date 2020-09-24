@@ -1,5 +1,5 @@
 ---
-layout: my_article
+layout: blog
 title: "Categories of Tawhid"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 9/63"
