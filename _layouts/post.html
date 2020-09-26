@@ -7,9 +7,11 @@ layout: default
  
 <header class="major">
  <meta content='{{ post.date | date_to_xmlschema }}' itemprop='dateModified'/>
- <span class="date" itemprop="datePublished">
-  {% if page.date %}
-   <meta itemprop="datePublished" content="{{ post.date | date_to_xmlschema }}">{% endif %}{% include date.liquid %}
+ <span class="date">
+  {% if site.date %}
+   <meta itemprop="datePublished" content="{{ post.date | date_to_xmlschema }}">
+  {% endif %}
+  {% include date.liquid %}
  </span>
   <h3 itemprop="name headline">{{ page.title }}</h3>
 </header>
