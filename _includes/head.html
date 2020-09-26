@@ -24,7 +24,7 @@
     }
     function setModifiedDate() {
       if (document.getElementById('last-modified')) {
-        fetch("https://api.github.com/repos/{{ site.github.alsalafiyyah }}/{{ site.github.alsalafiyyah.github.io }}/commits?path={{ page.path }}")
+        fetch("https://api.github.com/repos/alsalafiyyah/alsalafiyyah.github.io/commits?path={{ page.path }}")
           .then((response) => {
             return response.json();
           })
