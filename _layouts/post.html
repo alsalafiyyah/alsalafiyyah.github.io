@@ -7,7 +7,8 @@ layout: default
 <header class="major">
  <meta content='{{ post.date | date_to_xmlschema }}' itemprop='dateModified'/>
  <span class="date" itemprop="datePublished">
-  <meta itemprop="datePublished" content="{{ post.date | date_to_xmlschema }}">{% include date.liquid %}
+  {% if page.date %}
+   <meta itemprop="datePublished" content="{{ post.date | date_to_xmlschema }}">{% endif %}{% include date.liquid %}
  </span>
   <h3 itemprop="name headline">{{ page.title }}</h3>
 </header>
@@ -22,6 +23,6 @@ layout: default
   <p>
    <small><i class="fas fa-info-circle"></i> If there are any omissions or mistakes, <b><a href="mailto:alsalafiyah@icloud.com?subject=Report&body={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}">let us know</a></b>.</small></p>
   {% if page.date %}
-   <span id='last-modified'/>
+   <p><span id='last-modified'></span></p>
   {% endif %}
 </article>
