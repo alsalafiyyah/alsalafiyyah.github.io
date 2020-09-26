@@ -3,15 +3,23 @@ layout: default
 ---
 
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+ 
 <header class="major">
- <span class="date" itemprop="datePublished">{% include date.liquid %}</span>
+ <meta content='{{ post.date | date_to_xmlschema }}' itemprop='dateModified'/>
+ <span class="date" itemprop="datePublished">
+  <meta itemprop="datePublished" content="{{ post.date | date_to_xmlschema }}">{% include date.liquid %}
+ </span>
   <h3 itemprop="name headline">{{ page.title }}</h3>
 </header>
+ 
   <div itemprop="articleBody">
   {{ content }}
   </div>
+ 
   {% include post-source.liquid %}
   {% include muftis.html %}
   {% include social-share.liquid %}
-<p><small><i class="fas fa-info-circle"></i> If there are any omissions or mistakes, <b><a href="mailto:alsalafiyah@icloud.com?subject=Report&body={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}">let us know</a></b>.</small></p>
+  <p>
+   <small><i class="fas fa-info-circle"></i> If there are any omissions or mistakes, <b><a href="mailto:alsalafiyah@icloud.com?subject=Report&body={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}">let us know</a></b>.</small></p>
+
 </article>
