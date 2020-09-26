@@ -2,6 +2,7 @@
 layout: default
 ---
 
+{% if page.date %}
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
  
 <header class="major">
@@ -25,4 +26,6 @@ layout: default
   {% if page.date %}
    <p><span id='last-modified'></span></p>
   {% endif %}
+ 
 </article>
+{% endif %}
