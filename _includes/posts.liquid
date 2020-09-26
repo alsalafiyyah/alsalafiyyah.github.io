@@ -3,9 +3,8 @@
   <header class="post-header">
    <a itemprop="url" href="{{ post.url | prepend: site.baseurl }}"><h3><span itemprop="headline name">{{ post.title }}</span></h3></a>
     <p class="post-meta">
-     <meta itemprop="datePublished" content="{{ post.date | date_to_xmlschema }}">
      <meta content='{{ post.date | date_to_xmlschema }}' itemprop='dateModified'/>
-     <b><meta itemprop="datePublished" content="{{ post.hijri }}">{{ post.hijri }}</b>
+     <b><meta itemprop="datePublished" content="{{ post.date | date_to_xmlschema }}">{{ post.hijri }}</b>
     </p>
   </header>
   <p itemprop="articleBody">
