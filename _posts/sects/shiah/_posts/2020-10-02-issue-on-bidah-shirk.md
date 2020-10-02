@@ -4,8 +4,9 @@ publisher: alsalafiyyah@icloud.com
 title: "Answering a question presented by a Muslim brother on some issues of Bid'ah and Shirk"
 hijri: Safar 15, 1442 AH
 lang: en
+category: [shiah, shirk, bidah, sects]
 source: "Majmu' Fatawa Al-Shaykh Ibn Baz 4/259"
-excerpt: "As for the claim that this sect (i.e. shi'ah) is the saved group and that they are following the truth and others are following falsehood, this is replied to by saying: whoever claims something, their claim should not be taken for granted but the necessary proof should be established first. Allah (Glorified be He) says: "Say (O Muhammad صلى الله عليه وسلم), "Produce your proof if you are truthful."" [Al-Baqarah: 111]"
+excerpt: "As for the claim that this sect (i.e. shi'ah) is the saved group and that they are following the truth and others are following falsehood, this is replied to by saying: whoever claims something, their claim should not be taken for granted but the necessary proof should be established first."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
@@ -14,7 +15,7 @@ muftis:
 
 Question: 
  
-What is the religious ruling of Allah and His Messenger on a person who commits the following: During the Adhan (call to prayer) he says, (I bear witness that 'Ali is Allah's Waliy (pious person)), (Come to the best of deeds), (the kin of Muhammad), ('Ali is the best kin). Moreover, if any of them die, the family would slaughter a sheep which they call "`Aqiqah" without breaking any of its bones, after which, they bury its bones and feces claiming that this is a good deed that should be observed. What should a Sunni Muslim who has a kin relation with them act towards this? Is it legally permissible for him to be kind to them, have a good relationship with them, be related by marriage to them? It should be mentioned that they openly declare their conviction and state that they are the saved group, the ones adhering to truth, and that they are following the truth and that we are following falsehood. 
+What is the religious ruling of Allah and His Messenger on a person who commits the following: During the Adhan (call to prayer) he says, (I bear witness that 'Ali is Allah's Waliy (pious person)), (Come to the best of deeds), (the kin of Muhammad), ('Ali is the best kin). Moreover, if any of them die, the family would slaughter a sheep which they call "'Aqiqah" without breaking any of its bones, after which, they bury its bones and feces claiming that this is a good deed that should be observed. What should a Sunni Muslim who has a kin relation with them act towards this? Is it legally permissible for him to be kind to them, have a good relationship with them, be related by marriage to them? It should be mentioned that they openly declare their conviction and state that they are the saved group, the ones adhering to truth, and that they are following the truth and that we are following falsehood. 
  
 Answer:
  
