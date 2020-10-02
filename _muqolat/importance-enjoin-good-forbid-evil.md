@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 publisher: alsalafiyyah@icloud.com
 title: "Obligation of enjoining good and forbidding evil"
 hijri: Safar 09, 1442 AH
