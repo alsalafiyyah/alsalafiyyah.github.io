@@ -123,6 +123,9 @@ sidebar_menu:
   - name: Muqolat
     link: /muqolat/
     active: muqolat
+  - name: Fatwas
+    link: /fatwas/
+    active: fatwas
   - name: Browse by topic
     link: /topic
     active: topic
