@@ -9,8 +9,8 @@ layout: default
 	 </header>
   {% for post in site.posts limit:4 %}
     <a href="{{ post.url }}">
+     <span class="date">{{ post.hijri }}</span>
     <h3>{{ post.title }}</h3>
-    <p>{{ post.hijri }}</p>
     </a>
   {% endfor %}
 <ul class="actions special">
