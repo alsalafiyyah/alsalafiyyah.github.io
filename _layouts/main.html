@@ -8,12 +8,10 @@ layout: default
   <h2>Recent Fatwas</h2>
 	 </header>
   {% for post in site.posts limit:4 %}
-  <li>
     <a href="{{ post.url }}">
     <h3>{{ post.title }}</h3>
     <p>{{ post.hijri }}</p>
     </a>
-  </li>
   {% endfor %}
 <ul class="actions special">
  <li><a href="/fatwas/" class="button">View all fatwas</a></li>
