@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<section class="posts">
+ <article>
+	<header>
+		<h2><a href="#">Recent Fatwas</a></h2>
+	 </header>
+  {% for post in site.posts limit:4 %}
+  <li>
+    <a href="{{ post.url }}">
+    <h3>{{ post.title }}</h3>
+    <p>{{ post.date | date: "%d %B %Y" }}</p>
+    </a>
+  </li>
+  {% endfor %}
+<ul class="actions special">
+ <li><a href="/fatwas/" class="button">View all</a></li>
+</ul>
+</article>
