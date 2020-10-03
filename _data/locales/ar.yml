@@ -16,10 +16,10 @@ menu:
   - name: فتاوى
     link: /ar/fatwas/
     active: fatwas
-  - name: Browse by topic
+  - name: تصفح
     link: /ar/topic
     active: topic
-  - name: Downloads
+  - name: تحميل
     link: /ar/downloads/
     active: downloads
   - name: الوهابية
