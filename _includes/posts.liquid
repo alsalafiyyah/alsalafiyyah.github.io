@@ -1,4 +1,6 @@
+{% assign posts = site.posts | where: "locale", page.locale %}
 {% for post in paginator.posts %}
+{% assign post_url = post.url | relative_url %}
  <article itemscope itemtype="http://schema.org/Article">
   <header class="post-header">
    <a itemprop="url" href="{{ post.url | prepend: site.baseurl }}"><h3><span itemprop="headline name">{{ post.title }}</span></h3></a>
@@ -12,5 +14,4 @@
    {{ post.content | strip_html | truncatewords: 30 }}
   </p>
  </article>
-{% endfor %} 
-
+{% endfor %}
