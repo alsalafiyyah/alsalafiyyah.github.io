@@ -1,6 +1,6 @@
 <nav id="nav" role="navigation" itemprop="hasPart" itemscope itemtype="http://schema.org/SiteNavigationElement">
  <ul class="links" role="menubar" aria-activedescendant="">
-  {% for item in site.data.settings.sidebar_menu %}
+  {% for item in site.data.locales[page.locale].menu %}
    {% if {{page.active}} == {{item.active}} %}
    <li class="active" role="presentation" itemprop="hasPart" itemscope itemtype="https://schema.org/SiteNavigationElement">
     <a role="menuitem" tabindex="-1" itemprop="url" href="{{ item.link }}"><span itemprop="name">{{ item.name }}</span></a>
