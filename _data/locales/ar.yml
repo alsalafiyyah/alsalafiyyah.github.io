@@ -1,0 +1,30 @@
+name: عربى
+
+blog:
+  title: موسوعة الفتاوى
+  description: 
+  author: Instagram@Alsalafiyyah
+  site_url: /ar/
+
+menu: 
+  home: الرئيسية
+
+page:
+  next: التالي
+  prev: السابق
+  more: المزيد
+  categories: التصنيفات
+  basmalah: بسم الله الرحمن الرحيم
+
+post:
+  dated: "تاريخ النشر في الموقع : "
+  print: طباعة
+  share: مشاركة
+  related_fatwas: فتاوى ذات صلة
+  comments: التعليقات
+  book: الكتاب
+  vol: المجلد
+  end: "وبالله التوفيق. وصلى الله على نبينا محمد، وآله وصحبه وسلم."
+  deputy: الرئيس
+  chairman: نائب رئيس اللجنة
+  member: عضو
