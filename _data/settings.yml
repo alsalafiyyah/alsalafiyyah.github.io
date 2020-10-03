@@ -126,7 +126,7 @@ sidebar_menu:
   - name: Fatwas
     link: /fatwas/
     active: fatwas
-  - name: Browse by topic
+  - name: Browse
     link: /topic
     active: topic
   - name: Downloads
