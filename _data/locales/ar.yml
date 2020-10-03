@@ -5,6 +5,8 @@ blog:
   description: 
   author: Instagram@Alsalafiyyah
   site_url: /ar/
+  404: "الصفحة التي طلبتها غير موجودة"
+  404_text: "يمكنك استخدام حقل البحث، أو الانتقال للصفحة الرئيسية. "
 
 menu:
   - name: الرئيسية
