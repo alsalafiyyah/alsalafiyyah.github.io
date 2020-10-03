@@ -8,25 +8,25 @@ blog:
 
 menu:
   - name: الرئيسية
-    link: /
+    link: /ar/
     active: home
   - name: مقالات
-    link: /muqolat/
+    link: /ar/muqolat/
     active: muqolat
   - name: فتاوى
-    link: /fatwas/
+    link: /ar/fatwas/
     active: fatwas
   - name: Browse by topic
-    link: /topic
+    link: /ar/topic
     active: topic
   - name: Downloads
-    link: /downloads/
+    link: /ar/downloads/
     active: downloads
   - name: الوهابية
-    link: /wahhabism/
+    link: /ar/wahhabism/
     active: wahhabiyah
   - name: Refutals
-    link: /refutations/
+    link: /ar/refutations/
     active: refutations
 
 page:
