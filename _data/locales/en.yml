@@ -28,6 +28,8 @@ menu:
   - name: Refutals
     link: /refutations/
     active: refutations
+  - name: ع
+    link: /ar/
 
 page:
   next: Next
