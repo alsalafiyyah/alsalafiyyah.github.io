@@ -7,6 +7,7 @@ blog:
   site_url: /ar/
   404: "الصفحة التي طلبتها غير موجودة"
   404_text: "يمكنك استخدام حقل البحث، أو الانتقال للصفحة الرئيسية. "
+  lang: En
 
 menu:
   - name: الرئيسية
@@ -30,8 +31,6 @@ menu:
   - name: الرد
     link: /ar/refutations/
     active: refutations
-  - name: En
-    link: /
 
 page:
   next: التالي
