@@ -4,10 +4,10 @@ blog:
   title: Salafiyyah
   description: 
   author: Instagram@Alsalafiyyah
-  site_url: /en/
+  site_url: /
   404: "The page you requested does not exist"
   404_text: "Page not found."
-  lang: ع
+  language: "ع"
 
 menu:
   - name: Home
