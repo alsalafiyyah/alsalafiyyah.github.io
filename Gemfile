@@ -7,5 +7,5 @@ group :jekyll_plugins do
   gem "jekyll-remote-theme"
   gem "jekyll-paginate"
   gem "liquid"
-  gem "github-pages", group: :jekyll_plugins
+  gem "github-pages"
 end
