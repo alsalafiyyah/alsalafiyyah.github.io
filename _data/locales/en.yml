@@ -5,6 +5,8 @@ blog:
   description: 
   author: Instagram@Alsalafiyyah
   site_url: /en/
+  404: "The page you requested does not exist"
+  404_text: "Page not found."
 
 menu:
   - name: Home
