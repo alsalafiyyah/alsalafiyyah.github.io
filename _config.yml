@@ -14,7 +14,7 @@ paginate_path: "/fatwas/:num/"
 markdown:       kramdown
 remote_theme: alsalafiyyah/massively-jekyll-theme
 safe: true
-
+future: true
 include:
   - _pages
 
