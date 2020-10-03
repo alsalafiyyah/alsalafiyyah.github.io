@@ -7,7 +7,7 @@ blog:
   site_url: /en/
   404: "The page you requested does not exist"
   404_text: "Page not found."
-  arabic: ع
+  lang_ar: ع
 
 menu:
   - name: Home
