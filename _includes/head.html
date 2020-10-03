@@ -1,6 +1,13 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1"/>
+  <title>
+    {% if page.title == "Home" %}
+    {{ site.data.locales[page.locale].blog.title }} | {{ site.data.locales[page.locale].blog.description }}
+    {% else %}
+    {{ page.title }} | {{ site.data.locales[page.locale].blog.title }}
+    {% endif %}
+  </title>
   {% seo %}
   {% include seo-lang.html %}
   {% feed_meta %}
