@@ -1,6 +1,6 @@
 <header id="header">
  <a href="{{ site.baseurl }}/" class="logo">
- {% if page.locale == 'ar' %}
+ {% if page.locale %}
   {{ site.data.locales[page.locale].blog.title }}
  {% else %}
   {{ site.title }}
