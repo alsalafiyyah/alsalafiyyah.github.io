@@ -1,0 +1,30 @@
+name: English
+
+blog:
+  title: Online Fatwas
+  description: 
+  author: Instagram@Alsalafiyyah
+  site_url: /en/
+
+menu: 
+  home: Home
+
+page:
+  next: Next
+  prev: Prev
+  more: Read more
+  categories: Categories
+  basmalah: "In the Name of Allah, the Most Beneficent, the Most Merciful."
+
+post:
+  dated: "Posted on:"
+  print: Print
+  share: Share on
+  related_fatwas: Related fatwas
+  comments: Comments
+  book: Book
+  vol: Vol
+  end: "May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions."
+  deputy: Deputy
+  chairman: Deputy Chairman
+  member: Member
