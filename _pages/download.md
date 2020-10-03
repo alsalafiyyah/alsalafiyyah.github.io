@@ -1,7 +1,9 @@
-﻿---
+---
 title: Downloads
 layout: page
 active: downloads
+uid: downloads
+locale: en
 permalink: /downloads/
 ---
 
