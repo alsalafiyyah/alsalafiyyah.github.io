@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ page.locale }}" class="{{ page.locale }}" itemscope itemtype="http://schema.org/WebPage" itemid="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
-{% include head.html %}
+ {% include head.html %}
 <body onload="setModifiedDate(); setAccessedDate();" class="is-preload" itemscope itemtype="http://schema.org/WebPage">
   <div id="wrapper" class="fade-in">
      {% include site-title.liquid %}
@@ -8,8 +8,8 @@
    <div id="main">
      {{ content }}
    </div>
-{% include footer.liquid %}
+ {% include footer.liquid %}
   </div>
-{% include scripts.html %}
-</body>
+ {% include scripts.html %}
+ </body>
 </html>
