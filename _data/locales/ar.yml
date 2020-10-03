@@ -6,14 +6,28 @@ blog:
   author: Instagram@Alsalafiyyah
   site_url: /ar/
 
-menu: 
-  home: الرئيسية
-  muqolat: مقالات
-  fatwas: فتاوى
-  topic: 
-  download: 
-  wahhabiyah: الوهابية
-  refutals: 
+menu:
+  - name: الرئيسية
+    link: /
+    active: home
+  - name: مقالات
+    link: /muqolat/
+    active: muqolat
+  - name: فتاوى
+    link: /fatwas/
+    active: fatwas
+  - name: Browse by topic
+    link: /topic
+    active: topic
+  - name: Downloads
+    link: /downloads/
+    active: downloads
+  - name: الوهابية
+    link: /wahhabism/
+    active: wahhabiyah
+  - name: Refutals
+    link: /refutations/
+    active: refutations
 
 page:
   next: التالي
