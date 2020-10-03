@@ -13,17 +13,21 @@
    </li>
    {% endif %}
   {% endfor %}
-  
-{% else %}
-
+  {% else %}
 {% include default_nav.html %}
    
 {% endif %}
  </ul>
 <ul class="icons">
+{% if page.locale == 'en' %}
  <li>
-  <a href="/ar/"><span class="label">{{ site.data.locales[page.locale].blog.language }}</span></a>
+  <a href="/ar/"><span class="label">{{ site.data.locales[page.locale].blog.ar }}</span></a>
  </li>
+ {% else %}
+ <li>
+  <a href="/en/"><span class="label">{{ site.data.locales[page.locale].blog.en }}</span></a>
+ </li>
+{% endif %}
  <li>
   <a rel="nofollow noopener" href="https://instagram.com/Alsalafiyyah" target="_blank" class="icon brands fa-instagram"><span class="label">Instagram</span></a>
  </li>
