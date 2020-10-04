@@ -60,6 +60,6 @@ Consequently, since neither the Prophet (peace be upon him) nor the rightly-guid
 [^2]: Muslim, Al-Nawawi p. 5/13.
 [^3]: Sahih Muslim no. 966; Ibn Hibban 160.
 [^4]: Ibn Hibban no. 6635, Bayhaqi no. 8800.
-[^5]: Fatwa no. 1448
+[^5]: Fatwa no. 6258
 [^6]: Al-Bukhari, Sahih, Book on reconciliation, no. 2697; Muslim, Sahih, Book on judicial decisions, no. 1718; Abu Dawud, Sunan, Book on Al-Sunnah, no. 4606; Ibn Majah, Sunan, Introduction, no. 14; and Ahmad, Musnad, vol. 6, p. 240.
 [^7]: Muslim, Sahih, Book on funerals, no. 969; Al-Tirmidhy, Sunan, Book on funerals, no. 1049; Al-Nasa'i, Sunan, Book on funerals, no. 2031; Abu Dawud, Book on funerals, no. 3218; and Ahmad, Musnad, vol. 1, p. 139.
