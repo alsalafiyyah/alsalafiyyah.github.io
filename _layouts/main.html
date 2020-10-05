@@ -2,12 +2,11 @@
 layout: default
 ---
 
-<section class="posts">
  <article>
 	<header>
   <h2>Recent Fatwas</h2>
 	 </header>
-  {% for post in site.posts limit:4 %}
+  {% for post in site.posts limit:5 %}
     <a href="{{ post.url }}">
      <span class="date">{{ post.hijri }}</span>
     <h3>{{ post.title }}</h3>
@@ -17,4 +16,3 @@ layout: default
  <li><a href="/fatwas/" class="button">View all fatwas</a></li>
 </ul>
 </article>
-</section>
