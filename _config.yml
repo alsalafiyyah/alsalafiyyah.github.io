@@ -1,5 +1,5 @@
 title:          Salafiyyah
-description:    "Salafi blog and knowledge of Shari'ah"
+description:    "Knowledge of Shari'ah"
 baseurl:        "/"
 url:            "https://alsalafiyyah.github.io"
 email: salafiyyah@outlook.sa
@@ -49,45 +49,6 @@ manifest_lang: en
 manifest_background_color: "#fff"
 manifest_short_name:
 manifest_display: standalone
-
-# multiple language
-defaults:
-  # default en
-  - values:
-      locale: en
-  # config posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
-      permalink: /:title
-      paginate_path: '/:num/'
-  - scope:
-      path: _posts/ar/**
-      type: posts
-    values:
-      layout: post
-      locale: ar
-      permalink: /ar/:title
-      paginate_path: '/ar/:num/'
-  - scope:
-      path: _posts/es/**
-      type: posts
-    values:
-      layout: post
-      locale: es
-      permalink: /es/:title
-      paginate_path: '/es/:num/'
-  # config pages
-  - scope: 
-      path: _en/**
-    values: 
-      locale: ar
-  - scope: 
-      path: _es/**
-    values: 
-      locale: es
       
 collections:
   refutals:
