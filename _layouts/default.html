@@ -12,7 +12,34 @@
  <div id="main">
    {{ content }}
  </div>
- {% include footer.liquid %}
+<!-- Footer -->
+<footer id="footer">
+   <section>
+      <div class="fields">
+         {% include search-form.liquid %}							
+      </div>
+   </section>
+   <section class="split contact">
+      <section>
+         <div class="fields">
+            {% if site.data.settings.chapters %}
+            <select onchange="document.location.href=this.value">
+               <option selected>Select</option>
+               {% for item in site.data.settings.chapters %}
+               <option value="{{ item.link }}">{{ item.name }}</option>
+               {% endfor %}
+            </select>
+            {% endif %}	
+         </div>
+      </section>
+   </section>
+</footer>
+<!-- Copyright -->
+<div id="copyright">
+   <ul>
+      <li>&copy; <a href="{{ site.baseurl }}/">Instagram@Alsalafiyyah</a></li>
+   </ul>
+</div>
   </div>
  {% include scripts.html %}
  </body>
