@@ -1,4 +1,0 @@
-{% assign posts = site.posts | where:"uid", page.uid | sort: 'locale' %}
-{% for post in posts %}
-  <link rel="alternate" hreflang="{{ post.locale }}" href="{{ post.url }}" />
-{% endfor %}
