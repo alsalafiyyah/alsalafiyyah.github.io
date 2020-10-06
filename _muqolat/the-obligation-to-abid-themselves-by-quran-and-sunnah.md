@@ -100,6 +100,14 @@ It is also reported by Abu Dawud and Ibn Majah through authentic Isnad on the au
 
 Furthermore, it is reported from Al-Hasan ibn Jabir that he heard Al-Miqdam ibn Ma'di Karib (may Allah be pleased with him) saying: The Messenger of Allah prohibited some matters on the Day of Khaybar, and then he said, "**'Some of you will belie me (i.e. my Hadiths) while reclining on comfortable cushions. They will be told of my Hadiths and they will say, 'The Book of Allah is a judge between you and us. What we find in it to be Halal, we will declare as Halal; and what we find in it to be Haram, we will declare as Haram.' Indeed, that which the Messenger of Allah declares to be Haram is as forbidden as that which Allah has declared to be Haram.'**" (Related by Al-Hakim, Al-Tirmidhi, and Ibn Majah through authentic Isnad) [^8] 
 
+Many Hadiths ranked as Mutawatir (a Hadith reported by a significant number of narrators throughout the chain of narration, whose agreement upon a lie is impossible) related that the Prophet (peace be upon him) used to advise his Sahabah in his sermons that the attendants among them should convey whatever information they heard to those who were absent. He (peace be upon him) used to instruct them, saying: "**The informed one might comprehend it (what I have said) better than the present audience**" [^9] 
+
+It is also reported in the Two Sahih Books of Hadith that "**When the Prophet (peace be upon him) addressed people in the Farewell Hajj on the Day of 'Arafah (9th of Dhul-Hijjah) and on the Day of Nahr (Sacrifice, 10th of Dhul-Hijjah), he (peace be upon him) told them, 'Let those who are present convey it (this information) to those who are absent. The informed one may comprehend it (what I have said) better than the present audience (who will convey it to them).'**" [^10] 
+
+If his Sunnah was not a proof against those who hear it and those to whom it is conveyed, and if it were not to remain valid until the Day of Resurrection, then the Prophet (peace be upon him) would not have commanded them to convey it. Therefore, it is known that the authority of Sunnah is made evident to those who heard it directly from him (peace be upon him) and those to whom it is conveyed through authentic Isnad, leaving no room for excuses.
+
+I ask Allah (Glorified and Exalted be He) by His Majestic Names and His Most High Attributes to guide us and all Muslims to hold fast to His Book and to the Sunnah of His Messenger (peace be upon him), to act according to both of them, to judge according to their laws and to refer the matters of difference among Muslims to both of them. I also ask Allah to guide the Muslim rulers and their leaders to follow His Book and the Sunnah of His Prophet (peace be upon him), to judge by both of them in all affairs, to unite their opinions on the truth and support them against their enemies. I ask Him (Glorified and Exalted be He) to make His Religion victorious, to make His Word the highest, to disgrace His enemies, to guide those who strive hard in His Cause to earn His Good Pleasure, to unite them on following the truth, to bring love and harmony among their hearts and to support them against their enemies and the enemies of Islam. Indeed, He is the Patron, Capable of all things. May peace and blessings be upon our Prophet Muhammad, his family, his Companions and those who follow them in piety and righteousness.
+
 ---
 
 [^1]:
@@ -110,3 +118,5 @@ Furthermore, it is reported from Al-Hasan ibn Jabir that he heard Al-Miqdam ibn 
 [^6]: Abu Dawud, Sunan, Al-Sunnah, no. 4604.
 [^7]: Al-Tirmidhy, Sunan, Book on knowledge, no. 2663; Abu Dawud, Sunan, Book on Al-Sunnah, no. 4605; Ibn Majah, Sunan, Introduction, no. 13; and Ahmad ibn Hanbal, Musnad, vol. 6, p. 8.
 [^8]: Ahmad ibn Hanbal, Musnad, vol. 4, p. 132; and Al-Darimy, Sunan, Introduction, no. 586.
+[^9]: Al-Tirmidhy, Sunan, Book on knowledge, no. 2657; and Ibn Majah, Sunan, Introduction, no. 232.
+[^10]: Al-Bukhari, Sahih, Book on Hajj, no. 1741; Ibn Majah, Sunan, Introduction, no. 233; Ahmad ibn Hanbal, Musnad, vol. 5, p. 37; and Al-Darimy, Sunan, Book on rituals, no. 1916.
