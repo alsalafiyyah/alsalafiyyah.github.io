@@ -45,8 +45,12 @@ layout: default
   {% endfor %}
 {% endif %}
 
-
 <article class="post">
+<ul class="breadcrumb">
+  <li><a href="{{ site.url }}">Home</a></li>
+  <li><a href="/muqolat/">Muqolat</a></li>
+  <li>{{ page.title }}</li>
+</ul>
 <header class="major">
  <span class="date">{% include date.liquid %}</span>
   <h3 class="post-title">{{ page.title }}</h3>
