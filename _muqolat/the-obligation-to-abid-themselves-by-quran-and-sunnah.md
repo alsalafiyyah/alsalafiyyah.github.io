@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: blog
 publisher: alsalafiyyah@icloud.com
 title: "The obligation of abiding by the Book of Allah and the Sunnah of His Messenger and warning against whatever contradicts them"
 hijri: Safar 19, 1442 AH
