@@ -90,9 +90,23 @@ There are many Ayahs related to obeying Allah (Exalted be He) and His Messenger 
 
 There are many Hadiths in this regard, of which we will mention here as many as we can. For example, it is authentically reported in the Two Sahih (authentic) Books of Hadith (i.e. Al-Bukhari and Muslim) on the authority of Abu Hurayrah (may Allah be pleased with him) that the Prophet (peace be upon him) said: "**Whoever obeys me, obeys Allah, and whoever disobeys me, disobeys Allah, and whoever obeys the ruler (I appoint), obeys me, and whoever disobeys him, disobeys me.**" [^4]
 
+Obedience to the ruler is to obey him in good things, as has been authentically reported by authentic Hadiths. It is a well-known fact that the broad declarations of Sunnah are qualified by definite Sunnah in the same way broad declarations of the Noble Book are restricted by definite Sunnah, as previously mentioned while stating Allah's Words: "**O you who believe! Obey Allâh and obey the Messenger (Muhammad صلى الله عليه وسلم), and those of you (Muslims) who are in authority.**" [Al-Nisa: 59]
+
+It is reported in Sahih Al-Bukhari on the authority of Abu Hurayrah (may Allah be pleased with him) that the Prophet (peace be upon him) said: "**'My entire Ummah will enter Paradise except those who refuse.' It was asked, 'O Messenger of Allah, who will refuse?' He (peace be upon him) said, 'Whoever obeys me will enter Paradise; and whoever disobeys me is the one who refuses.'**" [^5]
+
+It is also reported by Imam Ahmad, Abu Dawud and Al-Hakim through authentic Isnad on the authority of Al-Miqdam ibn Ma'di Karib that the Messenger of Allah (peace be upon him) said: "**Beware! I have been given the Qur'an and the like of it with it (i.e. the Sunnah); yet the time is coming when a satiated man laying on his couch will say, 'Adhere to this Qur'an. What you find in it to be Halal (lawful) regard it as Halal, and what you find in it to be Haram, regard it as Haram.'**" [^6]
+
+It is also reported by Abu Dawud and Ibn Majah through authentic Isnad on the authority of Ibn Abu Rafi' from his father that the Prophet (peace be upon him) said: "**Let me not find one of you, reclining on his couch, upon hearing something that I have commanded or forbidden, say, 'I do not know this. What we find in Allah's Book we will follow.'**" [^7]
+
+Furthermore, it is reported from Al-Hasan ibn Jabir that he heard Al-Miqdam ibn Ma'di Karib (may Allah be pleased with him) saying: The Messenger of Allah prohibited some matters on the Day of Khaybar, and then he said, "**'Some of you will belie me (i.e. my Hadiths) while reclining on comfortable cushions. They will be told of my Hadiths and they will say, 'The Book of Allah is a judge between you and us. What we find in it to be Halal, we will declare as Halal; and what we find in it to be Haram, we will declare as Haram.' Indeed, that which the Messenger of Allah declares to be Haram is as forbidden as that which Allah has declared to be Haram.'**" (Related by Al-Hakim, Al-Tirmidhi, and Ibn Majah through authentic Isnad) [^8] 
+
 ---
 
 [^1]:
 [^2]: Al-Bukhari, Sahih, Book on Tafsir, no. 4497; and Ahmad ibn Hanbal, Musnad, vol. 1, p. 374.
 [^3]: Ahmad ibn Hanbal, Musnad, vol. 1, p. 465.
 [^4]: Al-Nasa'i, Sunan, Book on Al-Bay'ah, no. 4193; Ahmad ibn Hanbal, Musnad, vol. 2, p. 387.
+[^5]: Al-Bukhari, Sahih, Book on holding fast to the Book and the Sunnah, no. 7280; Muslim, Sahih, Book on rulership, no. 1835; and Ahmad ibn Hanbal, Musnad, vol. 2, p. 361.
+[^6]: Abu Dawud, Sunan, Al-Sunnah, no. 4604.
+[^7]: Al-Tirmidhy, Sunan, Book on knowledge, no. 2663; Abu Dawud, Sunan, Book on Al-Sunnah, no. 4605; Ibn Majah, Sunan, Introduction, no. 13; and Ahmad ibn Hanbal, Musnad, vol. 6, p. 8.
+[^8]: Ahmad ibn Hanbal, Musnad, vol. 4, p. 132; and Al-Darimy, Sunan, Introduction, no. 586.
