@@ -12,10 +12,8 @@ ul.breadcrumb li+li:before {
   content: "/\00a0";
 }
 ul.breadcrumb li a {
-  color: #0275d8;
   text-decoration: none;
 }
 ul.breadcrumb li a:hover {
-  color: #01447e;
   text-decoration: underline;
 }
