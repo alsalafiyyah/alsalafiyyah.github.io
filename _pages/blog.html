@@ -1,0 +1,46 @@
+---
+layout: default
+title: Muqolat (Articles)
+active: muqolat
+uid: muqolat
+locale: en
+permalink: /blog/
+---
+
+<article>
+  <ol>
+{% for c in site.muqolat %}
+  <li>
+    <span><b>{{ c.hijri }}</b> : <a href="{{ c.url }}">{{ c.title }}</a></span>
+      <p>{{ c.excerpt | strip_html | strip_newlines | truncate: 156 }}</p>
+  </li>
+{% else %}
+{{site.data.settings.page.no-fatwas}}
+{% endfor %}
+  </ol>
+
+{% for post in paginator.page[site.muqolat] %}
+  <h1><a href="{{ post.url }}">{{ page.title }}</a></h1>
+  <p class="author">
+    <span class="date">{{ page.date }}</span>
+  </p>
+  <div class="content">
+    {{ page.excerpt }}
+    {{ page.content }}
+  </div>
+{% endfor %}
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
+  
+</article>
