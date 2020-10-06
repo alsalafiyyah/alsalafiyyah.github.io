@@ -6,6 +6,7 @@ hijri: Safar 19, 1442 AH
 lang: en
 uid: the-obligation-to-abid-themselves-by-quran-and-sunnah
 excerpt: "Allah (Exalted be He) has pointed out that the straight path is belief in the guidance and the religion of truth with which He sent His Prophet (peace be upon him) and to act according to them. Whoever follows this straight path and is steadfast in it, will attain Paradise and honor. Whoever deviates from it and follows his whims, will incur loss and evil destiny. Allah (Exalted be He) commands all His slaves to follow the straight path and prohibits them to follow other paths, which lead them to the path of Hellfire."
+active: muqolat
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
