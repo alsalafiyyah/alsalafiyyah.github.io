@@ -105,7 +105,7 @@ A seeker of knowledge should seek guidance and support from Allah (Exalted be He
 
 "Nur 'Ala Al-Darb" is a very useful program for seekers of knowledge and the common Muslims, because it presents very important questions answered by a group of scholars known for their uprightness and sound knowledge. To benefit from this program, it is aired two times a day - one time between Maghrib (Sunset) and 'Isha (Night) Prayers on Nida' Al-Islam and another time at 09:30 P.M. At The Noble Qur'an Radio Station. 
 
-There are many Hadiths related with regard to the issue of enjoining good and forbidding evil. For instance, the Prophet (peace be upon him) said that Allah (Glorified and Exalted be He) says: "**Enjoin good and forbid evil before you supplicate me and I will not answer you and before you ask me and I will not give you and before you ask me for help and I will not help you.**" [^10]
+There are many Hadiths related with regard to the issue of enjoining good and forbidding evil. For instance, the Prophet (peace be upon him) said that "**Allah (Glorified and Exalted be He) says: "Enjoin good and forbid evil before you supplicate Me and I will not answer you and before you ask Me and I will not give you and before you ask Me for help and I will not help you.**" [^10]
 
 In another narration reported on the authority of Hudhayfah, the Prophet (peace be upon him) said: "**By Him in Whose Hand my soul is, you either enjoin good and forbid evil, or Allah will certainly soon send His punishment to you. Then you will make supplication and it will not be accepted.**" Related by Imam Ahmad. [^11]
 
