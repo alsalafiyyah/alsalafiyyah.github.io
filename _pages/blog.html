@@ -7,7 +7,7 @@ permalink: /blog/
 
 {% for c in site.muqolat %}
 {% if c.title == page.title %}
-  {% assign thisPost = c %}
+  {% assign thisPage = c %}
   {% if forloop.index == 1 %}
     {% assign prevflag = 0 %}
     {% assign nextflag = 1 %}
@@ -26,23 +26,23 @@ permalink: /blog/
     {% assign prevflag = 0 %}
   {% endif %}
   {% if prevflag == 1 %}
-    {% assign prevPost = c %}
+    {% assign prevPage = c %}
     {% assign page.previous = c %}
   {% endif %}
 {% endfor %}
 
 {% if nextflag == 1 %}
   {% for c in site.muqolat %}
-    {% if foundPost == 1 %}
+    {% if foundPage == 1 %}
       {% assign getNext = 1 %}
     {% endif %}
     {% if c.title == page.title %}
-      {% assign foundPost = 1 %}        
+      {% assign foundPage = 1 %}        
     {% endif %}
     {% if getNext == 1%}
-      {% assign nextPost = c %}
+      {% assign nextPage = c %}
       {% assign page.next = c %}
-      {% assign foundPost = 0 %}
+      {% assign foundPage = 0 %}
       {% assign getNext = 0 %}
     {% endif %}
   {% endfor %}
@@ -63,15 +63,15 @@ permalink: /blog/
 
 <div id="post-nav" class="clearfix nav-slide">
     <div class="work">    
-        {% if prevPost.url %}
-        <a class="prev" href="{{prevPost.url}}">
-            <span class="slide-wrap">&lt; {{prevPost.title}}</span>
+        {% if prevPage.url %}
+        <a class="prev" href="{{prevPage.url}}">
+            <span class="slide-wrap">&lt; {{prevPage.title}}</span>
         </a> 
         {% endif %} 
         &nbsp;&nbsp;&nbsp;&nbsp;
-        {% if nextPost.url %} 
-        <a class="next" href="{{nextPost.url}}">
-            <span class="slide-wrap">{{nextPost.title}} &gt;</span>
+        {% if nextPage.url %} 
+        <a class="next" href="{{nextPage.url}}">
+            <span class="slide-wrap">{{nextPage.title}} &gt;</span>
         </a> 
         {% endif %} 
     </div>
