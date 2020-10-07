@@ -10,7 +10,7 @@ encoding:         UTF-8
 github: [metadata]
 permalink: /:title
 paginate:       20
-paginate_path: "/:path/:num/"
+paginate_path: "/fatwas/:num/"
 markdown:       kramdown
 remote_theme: alsalafiyyah/massively-jekyll-theme
 safe: true
