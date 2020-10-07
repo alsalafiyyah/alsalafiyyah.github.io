@@ -1,0 +1,73 @@
+---
+layout: muqolat
+title: Muqolat (Articles)
+active: muqolat
+permalink: /demo/
+---
+
+{% for c in site.muqolat %}
+{% if c.title == page.title %}
+  {% assign thisPage = c %}
+  {% if forloop.index == 1 %}
+    {% assign prevflag = 0 %}
+    {% assign nextflag = 1 %}
+  {% elsif forloop.index == forloop.length %}
+    {% assign prevflag = 1 %}
+    {% assign nextflag = 0 %}
+  {% else %}
+    {% assign prevflag = 1 %}
+    {% assign nextflag = 1 %}
+  {% endif %}  
+{% endif %}
+{% endfor %}
+
+{% for c in site.muqolat %}
+  {% if c.title == page.title %}
+    {% assign prevflag = 0 %}
+  {% endif %}
+  {% if prevflag == 1 %}
+    {% assign prevPage = c %}
+    {% assign page.previous = c %}
+  {% endif %}
+{% endfor %}
+
+{% if nextflag == 1 %}
+  {% for c in site.muqolat %}
+    {% if foundPage == 1 %}
+      {% assign getNext = 1 %}
+    {% endif %}
+    {% if c.title == page.title %}
+      {% assign foundPage = 1 %}        
+    {% endif %}
+    {% if getNext == 1%}
+      {% assign nextPage = c %}
+      {% assign page.next = c %}
+      {% assign foundPage = 0 %}
+      {% assign getNext = 0 %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+<article class="post">
+<header class="major">
+ <span class="date">{% include date.liquid %}</span>
+  <h3 class="post-title">{{ page.title }}</h3>
+</header>
+  {{ content }}
+</article>
+
+<div id="post-nav" class="clearfix nav-slide">
+    <div class="work">    
+        {% if prevPage.url %}
+        <a class="prev" href="{{prevPage.url}}">
+            <span class="slide-wrap">&lt; {{prevPage.title}}</span>
+        </a> 
+        {% endif %} 
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        {% if nextPage.url %} 
+        <a class="next" href="{{nextPage.url}}">
+            <span class="slide-wrap">{{nextPage.title}} &gt;</span>
+        </a> 
+        {% endif %} 
+    </div>
+</div>
