@@ -39,6 +39,10 @@ Question 3: What is the ruling on enacting man-made laws? Is it permissible to a
 
 The Shaykh: This is permissible if these laws are in accordance with the Shari'ah (Islamic law), such as enacting laws for road safety. It is permissible to enact laws that benefit Muslims and do not contradict the Shari'ah to facilitate the Muslims' affairs. However, it is not permissible to enact laws that contradict the Shari'ah, such as enacting a law that overrules the Had (ordained punishment for violating Allah’s Law) for an adulterer, a thief, or a Khamr (intoxicant) drinker. Such a law will be Batil (null and void) and the ruler will be Kafir for regarding as lawful what contradicts the Nas (Islamic text from the Qur’an or the Sunnah) and Ijma' (consensus of scholars). The same ruling of deeming as Kafir applies to whoever regards as lawful what Allah has forbidden. 
 
+Question 4: How should we deal with this ruler?
+
+The Shaykh: You should obey him in Ma'ruf (that which is judged as good, beneficial, or fitting by Islamic law and Muslims of sound intellect) and not in matters involving disobedience until Allah replaces him. 
+
 ---
 
 [^1]: Al-Bukhari, Sahih, Book on accepting information given by a truthful person, no. 7257; Muslim, Sahih, Book on rulership, no. 1840; Al-Nasa'i, Sunan, Book on Al-Bay'ah, no. 4205; Abu Dawud, Sunan, Book on Jihad, no. 2625; and Ahmad ibn Hanbal, Musnad, vol. 1, p. 94.
