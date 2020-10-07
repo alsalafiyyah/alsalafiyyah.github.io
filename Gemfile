@@ -8,4 +8,5 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "liquid"
   gem "github-pages"
+  gem "jekyll-paginate-multiple", "~> 0.1.0"
 end
