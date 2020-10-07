@@ -13,9 +13,7 @@ muftis:
       url: /biography/binbaz/
 ---
 
-Question 1:
-
-What is meant by obeying those in authority in the Ayah (Qur'anic verse)? Does the term refer to scholars or rulers, who may be unjust? 
+> **Question 1: What is meant by obeying those in authority in the Ayah (Qur'anic verse)? Does the term refer to scholars or rulers, who may be unjust?**
 
 Answer 1: 
 
@@ -31,15 +29,15 @@ He (peace be upon him) said: "**Whoever comes to you while you are united and wa
 
 The intended meaning is that those in authority, including rulers and scholars, should be obeyed in Ma'ruf. By this way, things will be set right, people will live in peace and security, the oppressed will take their rights, the oppressors will be deterred, and justice will prevail. It is not permissible to separate from the Muslim main body and topple those in authority, unless they commit acts of clear disbelief proven as such by evidence and as long as the consequent toppling act will benefit Muslims, end oppression, and establish a righteous country. If people are not able to topple the rulers, they are not permitted to do so even if they see clear disbelief, because this will bring corruption, trials, and unjust killing to the nation. In brief, if a ruler commits acts of clear disbelief, proven as such by evidence, and the people have the ability to topple him and replace him with a pious ruler who enforces the Commands of Allah and supports the truth, they are permitted to do so. 
 
-**Question 2: Does inability count as a good excuse to discharge them the responsibility?**
+> **Question 2: Does inability count as a good excuse to discharge them the responsibility?**
 
 The Shaykh: Yes. It is enough for them to speak the truth, enjoin Ma'ruf (that which is judged as good, beneficial, or fitting by Islamic law and Muslims of sound intellect), and forbid Munkar (that which is unacceptable or disapproved of by Islamic law and Muslims of sound intellect). Ma'ruf includes things that are Mustahab (desirable), Wajib (obligatory), and Mubah (permissible), such as ordering people to respect the traffic regulations and stop when the light is red. All these things are of benefit to Muslims. 
 
-**Question 3: What is the ruling on enacting man-made laws? Is it permissible to act according to them? Is a ruler who enacts such laws considered Kafir (disbeliever)?**
+> **Question 3: What is the ruling on enacting man-made laws? Is it permissible to act according to them? Is a ruler who enacts such laws considered Kafir (disbeliever)?**
 
 The Shaykh: This is permissible if these laws are in accordance with the Shari'ah (Islamic law), such as enacting laws for road safety. It is permissible to enact laws that benefit Muslims and do not contradict the Shari'ah to facilitate the Muslims' affairs. However, it is not permissible to enact laws that contradict the Shari'ah, such as enacting a law that overrules the Had (ordained punishment for violating Allah’s Law) for an adulterer, a thief, or a Khamr (intoxicant) drinker. Such a law will be Batil (null and void) and the ruler will be Kafir for regarding as lawful what contradicts the Nas (Islamic text from the Qur’an or the Sunnah) and Ijma' (consensus of scholars). The same ruling of deeming as Kafir applies to whoever regards as lawful what Allah has forbidden. 
 
-**Question 4: How should we deal with this ruler?**
+> **Question 4: How should we deal with this ruler?**
 
 The Shaykh: You should obey him in Ma'ruf (that which is judged as good, beneficial, or fitting by Islamic law and Muslims of sound intellect) and not in matters involving disobedience until Allah replaces him. 
 
