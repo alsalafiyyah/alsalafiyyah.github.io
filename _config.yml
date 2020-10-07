@@ -25,12 +25,21 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
   - liquid
+  - jekyll-paginate-multiple
 
 exclude:
   - Gemfile
   - .gitignore
   - Gemfile.lock
 
+paginate_multiple:
+  - paginate: 2
+    paginate_path: '/page:num/'
+    sub_dir: '/en'
+  - paginate: 2
+    paginate_path: '/ar/page:num/'
+    sub_dir: '/ar'
+    
 tipue_search:
   include:
     pages: false
