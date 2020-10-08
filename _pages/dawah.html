@@ -22,7 +22,6 @@ permalink: /dawah/
           <td>{{ c.hijri }}</td>
           <td>
            <a title="{{ c.title }}" href="{{ c.url }}">{{ c.title }}</a>
-            {{ c.excerpt | strip_html | strip_newlines | truncate: 156 }}
           </td>
          </tr>
          {% else %}
