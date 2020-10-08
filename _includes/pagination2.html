@@ -1,0 +1,28 @@
+<!-- pagination -->
+<footer>
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+    <!-- previous page -->
+      {% if paginator.previous_page %}
+        <a class="previous" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+      {% else %}
+        <span>&laquo; Prev</span>
+      {% endif %}
+    <!-- list of pages -->
+    {% for page in (1..paginator.total_pages) %}
+      {% if page == paginator.page %}
+      <span><strong>{{ page }}</strong></span>
+      {% elsif page == 1 %}
+        <a class="page" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+      {% else %}
+        <a class="page" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+      {% endif %}
+    {% endfor %}
+    <!-- next page -->
+      {% if paginator.next_page %}
+        <a class="next" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+      {% else %}
+        <span>Next &raquo;</span>
+      {% endif %}
+</div>
+{% endif %}
