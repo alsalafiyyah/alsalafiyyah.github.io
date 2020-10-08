@@ -69,6 +69,9 @@ collections:
   muqolat:
     output: true
     permalink: /muqolat/:title/
+  dawah:
+    output: true
+    permalink: /dawah/:title/
     
 defaults:
   - scope:
