@@ -2,17 +2,32 @@
 layout: default
 ---
 
- <article>
-	<header>
-  <h2>Recent Fatwas</h2>
-	 </header>
-  {% for post in site.posts limit:5 %}
-    <a href="{{ post.url }}">
-     <span class="date">{{ post.hijri }}</span>
-    <h3>{{ post.title }}</h3>
-    </a>
-  {% endfor %}
-<ul class="actions special">
- <li><a href="/fatwas/" class="button">View all fatwas</a></li>
-</ul>
+<article>
+<header>
+ <h2>Recent Fatwas</h2>
+</header>
+<div class="table-wrapper">
+   <table>
+      <thead>
+         <tr>
+            <th>Name</th>
+            <th>Title</th>
+         </tr>
+      </thead>
+      <tbody>
+         {% for post in site.posts limit:5 %}
+         <tr>
+            <td>{{ post.hijri }}</td>
+            <td><a title="{{ post.title }}" href="{{ post.url }}">{{ post.title }}</a></td>
+         </tr>
+         {% endfor %}
+      </tbody>
+      <tfoot>
+         <tr>
+            <td colspan="2"></td>
+            <td><a href="/fatwas/" class="button">View all fatwas</a></td>
+         </tr>
+      </tfoot>
+   </table>
+</div>
 </article>
