@@ -1,7 +1,7 @@
 ---
 title: Groups and the Sects
 layout: page
-active: sects
+active: fatwas
 permalink: /sects/
 ---
 
