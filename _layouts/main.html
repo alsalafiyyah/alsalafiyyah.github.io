@@ -11,9 +11,9 @@ layout: default
       <tbody>
          {% for post in site.posts limit:6 %}
          <tr>
+          <td>{{ post.hijri }}</td>
           <td>
            <a title="{{ post.title }}" href="{{ post.url }}">{{ post.title }}</a>
-           <p><small>{{ post.hijri }}</small></p>
           </td>
          </tr>
          {% endfor %}
