@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 publisher: alsalafiyyah@icloud.com
 title: "Inviting to Allah with kindness, wisdom, and fair preaching"
 hijri: Safar 21, 1442 AH
