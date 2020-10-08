@@ -1,19 +1,19 @@
-ul.breadcrumb {
+ol.breadcrumb {
   padding: 0px 16px 24px;
   list-style: none;
 }
-ul.breadcrumb li {
+ol.breadcrumb li {
   display: inline;
 }
-ul.breadcrumb li+li:before {
+ol.breadcrumb li+li:before {
   padding: 8px;
   color: black;
   content: "/\00a0";
 }
-ul.breadcrumb li a {
+ol.breadcrumb li a {
   text-decoration: none;
 }
-ul.breadcrumb li a:hover {
+ol.breadcrumb li a:hover {
   text-decoration: underline;
 }
 
