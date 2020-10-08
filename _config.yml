@@ -25,7 +25,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
   - liquid
-  - jekyll-paginate-multiple
+  - jekyll-redirect-from
 
 exclude:
   - Gemfile
