@@ -46,11 +46,25 @@ layout: default
 {% endif %}
 
 <article class="post">
-<ul class="breadcrumb">
-  <li><a href="{{ site.url }}">Home</a></li>
-  <li><a href="/muqolat/">Muqolat</a></li>
-  <li>{{ page.title }}</li>
-</ul>
+  
+<ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+  <li itemprop="itemListElement" itemscope
+          itemtype="https://schema.org/ListItem">
+    <a itemprop="item" href="{{ site.url }}"><span itemprop="name">Home</span></a>
+    <meta itemprop="position" content="1" />
+  </li>
+  <li itemprop="itemListElement" itemscope
+          itemtype="https://schema.org/ListItem">
+    <a itemprop="item" href="/muqolat/"><span itemprop="name">Muqolat</span></a>
+    <meta itemprop="position" content="2" />
+  </li>
+  <li itemprop="itemListElement" itemscope
+          itemtype="https://schema.org/ListItem">
+    <span itemprop="name">{{ page.title }}</span>
+    <meta itemprop="position" content="3" />
+  </li>
+</ol>
+  
 <header class="major">
  <span class="date">{% include date.liquid %}</span>
   <h3 class="post-title">{{ page.title }}</h3>
