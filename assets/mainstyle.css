@@ -10,6 +10,9 @@ ol.breadcrumb li+li:before {
   color: black;
   content: "/\00a0";
 }
+ol.breadcrumb li .active {
+  font-weight: bold;
+}
 ol.breadcrumb li a {
   text-decoration: none;
 }
