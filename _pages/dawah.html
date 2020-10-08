@@ -1,0 +1,21 @@
+---
+layout: default
+title: "Da'wah's (Calling to Allah) guidances"
+active: dawah
+uid: dawah
+locale: en
+permalink: /dawah/
+---
+
+<article>
+  <ol>
+{% for c in site.dawah %}
+  <li>
+    <span><b>{{ c.hijri }}</b> : <a href="{{ c.url }}">{{ c.title }}</a></span>
+      <p>{{ c.excerpt | strip_html | strip_newlines | truncate: 156 }}</p>
+  </li>
+{% else %}
+{{site.data.settings.page.no-fatwas}}
+{% endfor %}
+  </ol>
+</artcile>
