@@ -1,5 +1,5 @@
 ---
-layout: col
+layout: default
 Title: Refutations
 active: refutations
 uid: refutations
@@ -7,4 +7,27 @@ locale: en
 permalink: /refutations/
 ---
 
-    {{ content }}
+<article>
+<div class="table-wrapper" itemscope itemtype="https://schema.org/Table">
+  <table>
+    <thead>
+      <tr>
+        <th>Date</th>
+        <th>Title</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for c in site.refutals %}
+      <tr>
+        <td>{{ c.hijri }}</td>
+        <td>
+          <a title="{{ c.title }}" href="{{ c.url }}">{{ c.title }}</a>
+        </td>
+      </tr>
+      {% else %}
+      <p{{site.data.settings.page.no-fatwas}}</p>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+</artcile>
