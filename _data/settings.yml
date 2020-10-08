@@ -21,7 +21,7 @@ alifta:
 chapters: 
   - name: Salah (Prayers)
     link: /salah/
-  - name: Hajj (Pilgrimage) and 'Umrah (lesser pilgrimage)
+  - name: "Hajj (Pilgrimage) and 'Umrah (lesser pilgrimage)"
     link: /hajj-umrah/
   - name: Zakah (Obligatory charity)
     link: /zakah/
@@ -30,9 +30,9 @@ chapters:
   - name: Taharah (Purification)
     link: /taharah/
   - name: Hadiths and Sunnah sciences
-    link: /hadiths/
-  - name: Qur'an exegesis
-    link: /tafsir-quran/
+    link: /tafsir/hadiths/
+  - name: "Qur'an exegesis"
+    link: /tafsir/quran/
   - name: Nikah (Marriage)
     link: /nikah/
   - name: Talaq (Divorce)
@@ -51,8 +51,6 @@ chapters:
     link: /sects/
   - name: Zina (Adultery)
     link: /zina/
-  - name: Refutals
-    link: /refutals/
   - name: Madhabs (Schools of jurisprudence)
     link: /madhabs
   - name: Tawassul
@@ -61,11 +59,11 @@ chapters:
     link: /homosexuals/
   - name: Waqf (Endowment)
     link: /waqf/
-  - name: Al-Buyu' (Sales) - Transactions - Riba (Usury/Interest) - Loan
+  - name: "Al-Buyu' (Sales) - Transactions - Riba (Usury/Interest) - Loan"
     link: /al-buyu/
   - name: Non-Muslims
     link: /non-muslims/
-  - name: Al-Wala' Wal-Bara' (Loyalty and dissassiation for Allah's sake)
+  - name: "Al-Wala' Wal-Bara' (Loyalty and dissassiation for Allah's sake)"
     link: /walabara/
   - name: Family and relatives
     link: /relatives/
