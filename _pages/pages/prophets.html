@@ -18,7 +18,7 @@ permalink: /prophets/
     <tbody>
       {% for post in site.categories.prophets %}
       <tr>
-        <td>{{ page.hijri }}</td>
+        <td>{{ post.hijri }}</td>
         <td>
           {% if post.url %}<a title="{{ post.title }}" href="{{ post.url }}">{{ post.title }}</a>{% endif %}
         </td>
