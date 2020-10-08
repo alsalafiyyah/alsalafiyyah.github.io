@@ -3,20 +3,30 @@ layout: page
 title: "Hadiths Explanation"
 active: hadiths
 author: "Instagram@Alsalafiyyah"
-permalink: /hadiths/
+permalink: /tafsir/hadiths/
 ---
 
-<article class="post">
-<a class="button small icon solid" href="/mawdu-daif/">Fabricated and weak Hadiths</a>
-<hr/>
-<ul class="posts">
-  {% for post in site.categories.hadiths %}
-    {% if post.url %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-    {% endif %}
-    {% else %}
-    <p>{{site.data.settings.page.no-fatwas}}</p>
-  {% endfor %}
-</ul>
+<article>
+<div class="table-wrapper" itemscope itemtype="https://schema.org/Table">
+  <table>
+    <thead>
+      <tr>
+        <th>Date</th>
+        <th>Title</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for post in site.categories.hadiths %}
+      <tr>
+        <td>{{ post.hijri }}</td>
+        <td>
+          {% if post.url %}<a title="{{ post.title }}" href="{{ post.url }}">{{ post.title }}</a>{% endif %}
+        </td>
+      </tr>
+      {% else %}
+      <p{{site.data.settings.page.no-fatwas}}</p>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
 </article>
