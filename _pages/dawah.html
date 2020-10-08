@@ -8,14 +8,32 @@ permalink: /dawah/
 ---
 
 <article>
-  <ol>
-{% for c in site.dawah %}
-  <li>
-    <span><b>{{ c.hijri }}</b> : <a href="{{ c.url }}">{{ c.title }}</a></span>
-      <p>{{ c.excerpt | strip_html | strip_newlines | truncate: 156 }}</p>
-  </li>
-{% else %}
-{{site.data.settings.page.no-fatwas}}
-{% endfor %}
-  </ol>
+<div class="table-wrapper" itemscope itemtype="https://schema.org/Table">
+   <table>
+    <thead>
+				 <tr>
+					 <th>Date</th>
+					 <th>Title</th>
+				 </tr>
+			 </thead>
+      <tbody>
+         {% for c in site.dawah %}
+         <tr>
+          <td>{{ c.hijri }}</td>
+          <td>
+           <a title="{{ c.title }}" href="{{ c.url }}">{{ c.title }}</a>
+            {{ c.excerpt | strip_html | strip_newlines | truncate: 156 }}
+          </td>
+         </tr>
+         {% else %}
+        <p{{site.data.settings.page.no-fatwas}}</p>
+         {% endfor %}
+      </tbody>
+   </table>
+  <p><b>{{ site.posts | size }}</b> fatwas published.</p>
+  <ul class="actions special">
+   <li><a href="/fatwas/" class="button">View all fatwas</a></li>
+  </ul>
+</div>
+
 </artcile>
