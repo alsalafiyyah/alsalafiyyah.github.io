@@ -8,6 +8,12 @@ layout: default
 </header>
 <div class="table-wrapper" itemscope itemtype="https://schema.org/Table">
    <table>
+    <thead>
+				 <tr>
+					 <th>Date</th>
+					 <th>Title</th>
+				 </tr>
+			 </thead>
       <tbody>
          {% for post in site.posts limit:6 %}
          <tr>
@@ -19,9 +25,9 @@ layout: default
          {% endfor %}
       </tbody>
    </table>
- <p><b>{{ site.posts | size }}</b> fatwas published.</p>
- <ul class="actions special">
-  <li><a href="/fatwas/" class="button">View all fatwas</a></li>
- </ul>
+  <p><b>{{ site.posts | size }}</b> fatwas published.</p>
+  <ul class="actions special">
+   <li><a href="/fatwas/" class="button">View all fatwas</a></li>
+  </ul>
 </div>
 </article>
