@@ -16,3 +16,13 @@ ul.breadcrumb li a {
 ul.breadcrumb li a:hover {
   text-decoration: underline;
 }
+
+@media screen and (max-width: 620px) {
+  table th {
+	 font-size: 0.9rem;    
+  }
+  tr, td {
+   display: block;
+   padding: 0.4rem! important;
+  }
+}
