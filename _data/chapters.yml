@@ -98,7 +98,7 @@
     - text: "Salafiyyah"
       url: /aqidah/salafiyyah/
 - text: "Mawlids (Celebrations)"
-  url: /aqidah/
+  url: /mawlids/
   subitems:
     - text: "Eid-ul-Fitr"
       url: /mawlids/fitr/
@@ -109,7 +109,7 @@
         - text: "The Prophet's mawlid"
           url: /mawlids/bidah/mawlidnabi/
         - text: "Birthdays"
-          url: /sects/bidah/birthdays/
+          url: /mawlids/bidah/birthdays/
 
 
 
