@@ -1,3 +1,19 @@
+- text: "Salah (Prayers)"
+  url: /salah/
+- text: "Shawm (Fasting)"
+  url: /shawm/
+  subitems:
+    - text: "Ramadan"
+      url: /shawm/ramadan/
+- text: "Zakah (Obligatory charity)"
+  url: /zakah/
+- text: "Hajj (Pilgrimage)"
+  url: /hajj/
+  subitems:
+    - text: "'Umrah (Lesser pilgrimage)"
+      url: /hajj/umrah/
+- text: "Taharah (Purification)"
+  url: /taharah/
 - text: "Sects and Groups"
   url: /sects/
   subitems:
