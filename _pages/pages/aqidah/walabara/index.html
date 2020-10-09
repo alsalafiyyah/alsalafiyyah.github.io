@@ -30,7 +30,6 @@ permalink: /aqidah/walabara/
 </ol>
 
 <article>
-{% if page.categories contains 'walabara' %}
 <div class="table-wrapper" itemscope itemtype="https://schema.org/Table">
   <table>
     <tbody>
@@ -45,7 +44,4 @@ permalink: /aqidah/walabara/
     </tbody>
   </table>
 </div>
-{% else %}
-  <p>{{ site.data.settings.page.no-fatwas }} "<b>{{ page.title }}</b>".</p>
-{% endif %}
 </article>
