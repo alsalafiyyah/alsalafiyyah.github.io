@@ -10,9 +10,9 @@
       subitems:
         - text: "Jama'at Tabligh"
           url: /sects/sufism/tablighis/
-        - text: "Tinajiyyah Tariqh"
+        - text: "Tijaniyyah Tariqh"
           url: /sects/sufism/tijaniyyah/
-        - text: "Barevis"
+        - text: "Barelvis"
           url: /sects/sufism/barelvis/
     - text: "Shi'ah and The Rafidah"
       url: /sects/shiah/
