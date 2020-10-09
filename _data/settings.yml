@@ -105,6 +105,7 @@ page:
   chairman: Chairman
   deputy_chairman: Deputy Chairman
   members: Members
+  404: "The page you are looking for, Not found."
 
 post: 
   readmore: Read more
