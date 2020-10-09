@@ -63,16 +63,6 @@
       url: /jihad/knowledge/
     - text: "Hijrah"
       url: /jihad/hijrah/
- - text: "Madhabs (Schools of jurisprudence)"
-   url: /madhabs/
-   subitems:
-    - text: "Hanabilah (Hanbalis)"
-      url: /madhabs/hanbalis/
-    - text: "Hanafiyyah"
-      url: /madhabs/hanafis/
-    - text: "Shafi'iyyah (Shafi'is)"
-      url: /madhabs/shafiis/
-    - text: "Malikiyyah (Malikis)"
-      url: /madhabs/shafiis/
+
 
 
