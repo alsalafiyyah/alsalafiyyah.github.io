@@ -19,82 +19,74 @@ alifta:
     link: /biography/ibrahim/
 
 chapters: 
-  - name: Salah (Prayers)
+  - name: "Salah (Prayers)"
     link: /salah/
   - name: "Hajj (Pilgrimage) and 'Umrah (lesser pilgrimage)"
     link: /hajj-umrah/
-  - name: Zakah (Obligatory charity)
+  - name: "Zakah (Obligatory charity)"
     link: /zakah/
-  - name: Shawm (Fasting)
+  - name: "Shawm (Fasting)"
     link: /shawm/
-  - name: Taharah (Purification)
+  - name: "Taharah (Purification)"
     link: /taharah/
-  - name: Hadiths and Sunnah sciences
-    link: /tafsir/hadiths/
-  - name: "Qur'an exegesis"
-    link: /tafsir/quran/
-  - name: Nikah (Marriage)
+  - name: "Jihad"
+    link: /jihad/
+  - name: "Sirah (The Prophet's biography)"
+    link: /sirah/
+  - name: "Tafsir (Exegesis)"
+    link: /tafsir/
+  - name: "Nikah (Marriage)"
     link: /nikah/
-  - name: Talaq (Divorce)
+  - name: "Talaq (Divorce)"
     link: /talaq/
-  - name: Funerals
+  - name: "Funerals"
     link: /funerals/
-  - name: Kafarah (Expiation)
+  - name: "Kafarah (Expiation)"
     link: /kafarah/
-  - name: Oaths
+  - name: "Oaths"
     link: /oaths/
-  - name: Miscellaneous
+  - name: "Miscellaneous"
     link: /misc/
-  - name: Fatwas on women
+  - name: "Women"
     link: /women/
-  - name: Sects and groups
+  - name: "Sects and Groups"
     link: /sects/
-  - name: Zina (Adultery)
+  - name: "Zina (Adultery)"
     link: /zina/
-  - name: Madhabs (Schools of jurisprudence)
+  - name: "Madhabs (Schools of jurisprudence)"
     link: /madhabs
-  - name: Tawassul
+  - name: "Tawassul"
     link: /tawassul/
-  - name: Homosexuals and lesbianism
+  - name: "Homosexuals and lesbianism"
     link: /homosexuals/
-  - name: Waqf (Endowment)
+  - name: "Waqf (Endowment)"
     link: /waqf/
-  - name: "Al-Buyu' (Sales) - Transactions - Riba (Usury/Interest) - Loan"
+  - name: "Al-Buyu' (Sales), Transactions, Riba (Usury/Interest), Loan"
     link: /al-buyu/
   - name: Non-Muslims
     link: /non-muslims/
   - name: "Al-Wala' Wal-Bara' (Loyalty and dissassiation for Allah's sake)"
     link: /aqidah/walabara/
-  - name: Family and relatives
+  - name: "Family and relatives"
     link: /relatives/
-  - name: Mawlids (Celebrations)
+  - name: "Mawlids (Celebrations)"
     link: /mawlids/
-  - name: Luqatah (a lost item found by someone else)
+  - name: "Luqatah (A lost item found by someone else)"
     link: /luqatah/
-  - name: The Laqit (Foundling)
+  - name: "The Laqit (Foundling)"
     link: /foundling/
-  - name: Fabricated and weak Hadiths
-    link: /tafsir/hadiths/mawdu-daif/
   - name: Insurance
     link: /insurance/
   - name: Inheritance
     link: /inheritance/
-  - name: Hisbah
-    link: /hisbah/
-  - name: Hijrah
-    link: /hijrah/
   - name: Treatments and Medicines
     link: /treatments/
   - name: Fitnahs
     link: /fitnahs/
   - name: Signs of the Hour
     link: /doomsday/
-  - name: Prophets and Messengers
-    link: /prophets/
   - name: Rulership, Kingship
     link: /rulership/
-  - name: Hadiths Explanation
-    link: /tafsir/hadiths/
     
 pagination:
   next: Next
