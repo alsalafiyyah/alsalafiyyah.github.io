@@ -1,0 +1,54 @@
+---
+layout: default
+title: "Non-Muslim"
+author: "Instagram@Alsalafiyyah"
+permalink: /sects/non-muslim/
+---
+
+<ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+  <li itemprop="itemListElement" itemscope
+          itemtype="https://schema.org/ListItem">
+    <a itemprop="item" href="{{ site.url }}"><span itemprop="name">Home</span></a>
+    <meta itemprop="position" content="1" />
+  </li>
+  <li itemprop="itemListElement" itemscope
+          itemtype="https://schema.org/ListItem">
+    <a itemprop="item" href="/muqolat/"><span itemprop="name">Muqolat</span></a>
+    <meta itemprop="position" content="2" />
+  </li>
+  <li itemprop="itemListElement" itemscope
+          itemtype="https://schema.org/ListItem">
+    <a itemprop="item" href="/sects/"><span itemprop="name">Group and Sects</span></a>
+    <meta itemprop="position" content="2" />
+  </li>
+  <li itemprop="itemListElement" itemscope
+          itemtype="https://schema.org/ListItem">
+    <span itemprop="name">{{ page.title }}</span>
+    <meta itemprop="position" content="3" />
+  </li>
+</ol>
+
+<article>
+<div class="table-wrapper" itemscope itemtype="https://schema.org/Table">
+  <table>
+    <thead>
+      <tr>
+        <th>Date</th>
+        <th>Title</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for post in site.categories.non-muslims %}
+      <tr>
+        <td>{{ post.hijri }}</td>
+        <td>
+          {% if post.url %}<a title="{{ post.title }}" href="{{ post.url }}">{{ post.title }}</a>{% endif %}
+        </td>
+      </tr>
+      {% else %}
+      <p{{site.data.settings.page.no-fatwas}}</p>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+</article>
