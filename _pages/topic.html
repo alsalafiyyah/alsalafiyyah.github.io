@@ -23,7 +23,15 @@ permalink: /topic/
 <article class="post">
 <p><b>{{ site.posts | size }}</b> fatwas can be found.</p>
 {% include search-form.liquid %}
-
+<br/>
+{% if site.data.settings.chapters %}
+ <select onchange="document.location.href=this.value">
+  <option selected>Select</option>
+  {% for item in site.data.settings.chapters %}
+  <option value="{{ item.link }}">{{ item.name }}</option>
+  {% endfor %}
+</select>
+{% endif %}
 <br/>
 
 <header class="major">
@@ -94,28 +102,5 @@ permalink: /topic/
   {% endfor %}
 </ul>
 </div>
- 
-
-<br/>
-<header class="major">
- <span class="date">More</span>
-</header>
-
-{% if site.data.settings.chapters %}
- <select onchange="document.location.href=this.value">
-  <option selected>Select a topic</option>
-  {% for item in site.data.settings.chapters %}
-  <option value="{{ item.link }}">{{ item.name }}</option>
-  {% endfor %}
-</select><br/>
-<div id="fatwas-list">
-<ul class="list" style="list-style: none; padding: 0; margin: 0;">
-{% for item in site.data.settings.chapters %}
- <li><a class="icon fa fa-folder title" href="{{ item.link }}"> {{ item.name }}</a></li>
-{% endfor %}
-</ul>
-<br/><ul class="pagination"></ul>
-</div>
-{% endif %}
 
 </article>
