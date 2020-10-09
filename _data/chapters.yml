@@ -22,11 +22,29 @@
           url: /sects/sufism/tijaniyyah/
         - text: "Barelvis"
           url: /sects/sufism/barelvis/
+        - text: "Qadiriyyah"
+          url: /sects/sufism/qadiriyyah/
+        - text: "Rifa'iyyah"
+          url: /sects/sufism/rifaiyyah/
+        - text: "Naqshabandiyyah"
+          url: /sects/sufism/naqshabandiyyah/
+        - text: "Hibriyyah"
+          url: /sects/sufism/hibriyyah/
+        - text: "Mahdiyyah"
+          url: /sects/sufism/mahdiyyah/
+        - text: "Burhamiyyah"
+          url: /sects/sufism/burhamiyyah/
+        - text: "Ibrahimiyyah"
+          url: /sects/sufism/ibrahimiyyah/
     - text: "Shi'ah and The Rafidah"
       url: /sects/shiah/
       subitems:
         - text: "Ja'faris"
           url: /sects/shiah/jafaris/
+        - text: "Imamiyyah"
+          url: /sects/shiah/imamiyyah/
+        - text: "Dawudi Bohras"
+          url: /sects/shiah/bohras/
 - text: Tafsir
   url: /tafsir/
   subitems:
