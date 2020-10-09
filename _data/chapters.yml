@@ -3,8 +3,16 @@
   subitems:
     - text: "Khawarij"
       url: /sects/khawarij/
+    - text: "Qadariyyah (Qadaris)"
+      url: /sects/qadaris/
     - text: "Ikhwan Al-Muslimun (The Muslim Brotherhood)"
       url: /sects/ikhwanis/
+    - text: "Asharism (Asha'riyyah)"
+      url: /sects/asharis/
+    - text: "Jama'at Al-Ahbash (the Habashis)"
+      url: /sects/habashis/
+    - text: "Ba'ath Party"
+      url: /sects/baath/
     - text: "Sufism"
       url: /sects/sufism/
       subitems:
