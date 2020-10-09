@@ -1,7 +1,7 @@
 chapters: 
   - name: "Salah (Prayers)"
     link: /salah/
-  - name: "Hajj (Pilgrimage) and 'Umrah (lesser pilgrimage)"
+  - name: "Hajj (Pilgrimage) and 'Umrah (Lesser pilgrimage)"
     link: /hajj-umrah/
   - name: "Zakah (Obligatory charity)"
     link: /zakah/
@@ -65,7 +65,7 @@ chapters:
     link: /fitnahs/
   - name: Signs of the Hour
     link: /doomsday/
-  - name: Rulership, Kingship
+  - name: "Rulership, Kingship"
     link: /rulership/
     
 pagination:
