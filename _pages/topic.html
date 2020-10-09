@@ -23,7 +23,6 @@ permalink: /topic/
 <article class="post">
 <p><b>{{ site.posts | size }}</b> fatwas can be found.</p>
 {% include search-form.liquid %}
-<br/>
 {% if site.data.settings.chapters %}
  <select onchange="document.location.href=this.value">
   <option selected>Select</option>
@@ -33,7 +32,6 @@ permalink: /topic/
 </select>
 {% endif %}
 <br/>
-
 <header class="major">
  <span class="date"><i class="fas fa-feather"></i></span>
 </header>
