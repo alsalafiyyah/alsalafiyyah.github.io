@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An overview of the Salafi Da'wah and the life of Shaykh Muhammad bin Abdul Wahhab"
+title: "A brief of the Salafi Da'wah and the life of Shaykh Muhammad bin Abdul Wahhab"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 3"
 category: [salafism, wahhabism, audios]
@@ -56,7 +56,7 @@ Worship is Allah's right: "**O mankind! Worship your Lord (Allah)**" [al-Baqarah
 
 He is the best of the creation, and the best son of Adam (peace be upon him). One must believe in that, and believe that Allah sent him to all mankind and to the Jinn and man; whoever accepts his Da'wah and follows what he was sent with will enter Jannah (Paradise), and whoever does not will enter Hell-fire. He is the Seal of Prophets; there is no prophet after him. Whoever claims prophecy after him, such as Al-Qadiyani, is a Kafir, because Allah (Exalted be He) says: "**Muhammad is not the father of any of your men, but he is the Messenger of Allah and the last (end) of the Prophets.** [al-Ahzab: 40]
 
-There are many Hadiths confirming that Muhammad (peace be upon him) is the Last Prophet. The Messenger of Allah said: **I am the seal of the prophets; there is no prophet after me**" 
+There are many Hadiths confirming that Muhammad (peace be upon him) is the Last Prophet. The Messenger of Allah said: "**I am the seal of the prophets; there is no prophet after me**" [^1]
 
 Of the perfection of the Da'wah Salafiyyah is the obedience to Allah by applying all His orders and abandoning His prohibitions. Pray as Allah ordered, pay Zakah (obligatory charity) as Allah ordered, fast as Allah ordered, perform hajj as Allah ordered, obey your parents, keep ties of kinship, call people to Allah with knowledge and guidance, command people with Ma'ruf (that which is judged as good, beneficial, or fitting by Shari'ah and Muslims of sound intellect) and forbid them from Munkar in a pleasant way, with wisdom), abandon all sins whether it be Zina (illegal sexual intercourse outside marriage), disobeying parents, Riba (usury), cutting ties of kinship, drinking alcohol and other such sins; these must be abandoned and one should be warned against them. This is to obey Allah, follow His Shari'ah, seek His reward and fear His punishment. All this is included in the Da'wah Salafiyyah. 
 
@@ -83,3 +83,8 @@ It is the Da'wah Salafiyyah to Tawhid of Allah, following His Shari'ah, and obey
 We ask Allah to guide us, set our hearts and deeds right, guide the stray until they hold firm to the Truth. We ask Allah to guide the astray, and teach the ignorant until they are aware of the Truth with its evidence, and to guide the aggressive and those who follow their desires, until they turn to the Truth, and follow what the Prophet (peace be upon him) was sent with, and follow evidence not the ignorant and the followers of desire, for copying these people will harm not help you. 
 
 It is obligatory on those who seek knowledge to take the Truth with its evidence, to look into the books of the people who are thought to oppose Shari'ah, in order to be sure where the Truth is. Thus you can speak of sure knowledge. We ask Allah to make us successful and guided, set right the affairs of Muslims and grant them knowledge in religion, guide them and us to the straight path, grant all Muslims knowledge of the religion of Allah, hold firm to the Book of Allah and the Sunnah of the Prophet Muhammad (peace be upon him), and not to exceed their limits. Allah is the Exalted, Most Generous. 
+
+---
+
+[^1]: Imam Ahmad, vol. 2, pp. 398 and 412; vol. 3, pp. 79 and 248, vol. 4, pp. 81, 84, 127, and 128, and vol. 5, p. 278; Al-Bukhari, Fat-h-ul-Bary, no. 3535; Muslim, nos. 2286 and 2287; and Abu Dawud, no. 4252.
+
