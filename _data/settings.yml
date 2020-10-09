@@ -101,7 +101,7 @@ pagination:
   prev: Prev
 
 page: 
-  no-fatwas: There are no fatwas for this topic.
+  no-fatwas: "There are no fatwas on topic:"
   chairman: Chairman
   deputy_chairman: Deputy Chairman
   members: Members
