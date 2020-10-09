@@ -74,7 +74,7 @@ chapters:
   - name: The Laqit (Foundling)
     link: /foundling/
   - name: Fabricated and weak Hadiths
-    link: /mawdu-daif/
+    link: /tafsir/hadiths/mawdu-daif/
   - name: Insurance
     link: /insurance/
   - name: Inheritance
@@ -94,7 +94,7 @@ chapters:
   - name: Rulership, Kingship
     link: /rulership/
   - name: Hadiths Explanation
-    link: /hadiths/
+    link: /tafsir/hadiths/
     
 pagination:
   next: Next
