@@ -20,6 +20,9 @@ ol.breadcrumb li a:hover {
   text-decoration: underline;
 }
 
+.mysearch .search_input{width:100%;padding:12px 24px;background-color:transparent;;font-size:14px;line-height:18px;color:#575756;background-color:transparent;background-image:url(data:image/svg+xml;charset=utf8;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScyNCcgaGVpZ2h0PScyNCcgdmlld0JveD0nMCAwIDI0IDI0Jz48cGF0aCBkPSdNMTUuNSAxNGgtLjc5bC0uMjgtLjI3QzE1LjQxIDEyLjU5IDE2IDExLjExIDE2IDkuNSAxNiA1LjkxIDEzLjA5IDMgOS41IDNTMyA1LjkxIDMgOS41IDUuOTEgMTYgOS41IDE2YzEuNjEgMCAzLjA5LS41OSA0LjIzLTEuNTdsLjI3LjI4di43OWw1IDQuOTlMMjAuNDkgMTlsLTQuOTktNXptLTYgMEM3LjAxIDE0IDUgMTEuOTkgNSA5LjVTNy4wMSA1IDkuNSA1IDE0IDcuMDEgMTQgOS41IDExLjk5IDE0IDkuNSAxNHonLz48cGF0aCBkPSdNMCAwaDI0djI0SDB6JyBmaWxsPSdub25lJy8+PC9zdmc+);background-repeat:no-repeat;background-size:18px 18px;background-position:95% center;border-radius:50px;border:1px solid #575756;backface-visibility:hidden;transform-style:preserve-3d;}
+.mysearch .search_input::placeholder{color:rgba(87,87,86,.8);}
+
 @media screen and (max-width: 620px) {
   table th {
 	 font-size: 0.9rem;    
