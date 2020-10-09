@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "His Eminence Shaykh 'Abdul-'Aziz ibn 'Abdullah ibn 'Abdul-Rahman ibn Muhammad ibn 'Abdullah Al Baz"
+title: "Shaykh Abdul-Aziz ibn Baz"
 publisher: "alsalafiyyah@icloud.com"
 permalink: /biography/binbaz/
 ---
 
-His Eminence Shaykh 'Abdul-'Aziz ibn 'Abdullah ibn 'Abdul-Rahman ibn Muhammad ibn 'Abdullah Al Baz
+His Eminence Shaykh 'Abdul-'Aziz ibn 'Abdullah ibn 'Abdul-Rahman ibn Muhammad ibn 'Abdullah Al-Baz
 
 ### His Birth:
 
