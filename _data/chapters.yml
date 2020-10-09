@@ -54,3 +54,15 @@
       url: /tafsir/hadiths/
 - text: Funerals
   url: /funerals/
+- text: "Jihad"
+  url: /jihad/
+  subitems:
+    - text: "Hisbah"
+      url: /jihad/hisbah/
+    - text: "Seeking knowledge"
+      url: /jihad/knowledge/
+    - text: "Hijrah"
+      url: /jihad/hijrah/
+
+
+
