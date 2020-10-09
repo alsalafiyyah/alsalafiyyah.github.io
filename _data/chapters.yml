@@ -97,6 +97,20 @@
       url: /aqidah/walabara/
     - text: "Salafiyyah"
       url: /aqidah/salafiyyah/
+- text: "Mawlids (Celebrations)"
+  url: /aqidah/
+  subitems:
+    - text: "Eid-ul-Fitr"
+      url: /mawlids/fitr/
+    - text: "Eid-ul-Adha"
+      url: /mawlids/adha/
+    - text: "Bid'ah related to Mawlids"
+      subitems:
+        - text: "The Prophet's mawlid"
+          url: /mawlids/bidah/mawlidnabi/
+        - text: "Birthdays"
+          url: /sects/bidah/birthdays/
+
 
 
 
