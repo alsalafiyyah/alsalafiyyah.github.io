@@ -97,6 +97,8 @@
       url: /aqidah/walabara/
     - text: "Salafiyyah"
       url: /aqidah/salafiyyah/
+    - text: "Tawhid"
+      url: /aqidah/tawhid/
 - text: "Mawlids (Celebrations)"
   url: /mawlids/
   subitems:
