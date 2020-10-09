@@ -74,5 +74,13 @@
       url: /madhabs/shafiis/
     - text: "Malikiyyah (Malikis)"
       url: /madhabs/malikis/
+- text: "Aqidah (Creed)"
+  url: /aqidah/
+  subitems:
+    - text: "Al-Wala' Wal-Bara' (Loyalty and dissassiation for Allah's sake)"
+      url: /aqidah/walabara/
+    - text: "Salafiyyah"
+      url: /aqidah/salafiyyah/
+
 
 
