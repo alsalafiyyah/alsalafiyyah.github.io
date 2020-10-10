@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Conditions of Dar-ul-Harb and Dar Al-Kufr"
+title: "Conditions of Dar Al-Harb and Dar Al-Kufr"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 2635-1"
 hijri: Muharram 14, 1442 AH
