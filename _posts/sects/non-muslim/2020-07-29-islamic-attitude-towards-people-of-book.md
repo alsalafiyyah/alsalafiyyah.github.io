@@ -1,15 +1,22 @@
-﻿---
+---
 layout: post
 title: "Islam's attitude towards the People of the Book"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 1412"
-category: ["non-muslims"]
-hijri: Dhu al-Hijjah 8, 1441 AH
-date: 2020/07/29
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
+source: "Fatawa Al-Lajnah Al-Da'imah no. 1412"
+category: ["non-muslim"]
+hijri: Dhul-Hijjah 8, 1441 AH
+lang: en
+excerpt: "The origin of the doctrines with which prophets and messengers were sent is one. Allah revealed scriptures that contained these doctrines to them."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
 ---
 
 Question: 
