@@ -50,5 +50,5 @@ May Allah guide us all to what pleases him and keep us away from misleading tria
 "Ramadan" or "the month of Ramadan"?, no. 1899; and Muslim, Book on fasting, Chapter on excellence of the month of Ramadan, no. 1079.
 [^3]: Narrated by Al-Bukhari, Book on fasting, Chapter on should someone say, "I am fasting" when he is insulted?, no. 1904.
 [^4]: Narrated by Al-Bukhari, Book on fasting, Chapter on should someone say, "I am fasting"; when he is insulted?, no. 1904; and Muslim, Book on fasting, Chapter on excellence of fasting, no. 1151.
-[^5]: Al-Haythamy ascribed it in Majma` Al-Zawa'id, vol. 3, p. 142 to Al-Tabarany, Al-Kabir.
+[^5]: Al-Haythamy ascribed it in Majma' Al-Zawa'id, vol. 3, p. 142 to Al-Tabarany, Al-Kabir.
 [^6]: Narrated by Al-Bukhari, Book on fasting, Chapter on someone not abandoning lies and acting by them while fasting, no. 1903.
