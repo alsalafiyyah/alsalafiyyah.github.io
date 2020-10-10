@@ -2,14 +2,19 @@
 layout: post
 title: "Response to a letter from Shaykh Abdul-Rahman ibn Abdul-Khaliq and weak Hadith that support the demonstrations"
 publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat p. 8/246"
-category: [ikhwanis, refutals, demo, rulership]
+source: "Fatawa Al-Shaykh Ibn Baz p. 8/246"
+category: [ikhwanis, rulership, rally]
 hijri: Muharram 16, 1442 AH
-date: 2020-09-04
-shaykhs: Shaykh Abdul-Aziz Ibn Baz
+lang: en
+note: false
+excerpt: "These acts are done out of displaying the rites of Islam and have nothing to do with demonstrations."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
-From [Abdul-Aziz ibn Abdullah ibn Baz](/biographies/binbaz/) to the honorable son **Shaykh Abdul-Rahman ibn Abdul-Khaliq**, may Allah guide him to do what pleases Him and make His religion victorious through him. Amen!
+From Abdul-Aziz ibn Abdullah ibn Baz to the honorable son **Shaykh Abdul-Rahman ibn Abdul-Khaliq**, may Allah guide him to do what pleases Him and make His religion victorious through him. Amen!
 
 As-salamu 'alaykum warahmatullah wabarakatuh (May Allah's Peace, Mercy, and Blessings be upon you!)
 
@@ -22,4 +27,3 @@ It is well-known that the basic rules of commands, prohibitions, and other aspec
 May Allah guide us and all Muslims to useful knowledge and act accordingly! May Allah rectify our hearts and deeds! May Allah protect us and all Muslims from the delusive trials and the insinuations of Satan for He is the One Who is capable to do so. 
 
 As-salamu 'alaykum warahmatullah wabarakatuh.
-
