@@ -2,11 +2,15 @@
 layout: post
 title: "Difference between the words Nasrani and Masihi"
 publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat 5/416"
+source: "Fatawa Al-Shaykh Ibn Baz 5/416"
 hijri: Dhul-Hijjah 23, 1441 AH
-date: 2020/08/13
-category: ["non-muslims"]
-shaykhs: Shaykh Ibn Baz
+lang: en
+category: ["non-muslim"]
+excerpt: "The word Masihi is an ascription to Al-Masih ibn Maryam (Jesus Christ, son of Mary, peace be upon him). People who allege that they follow the Bible use the word Masihy to claim that they are followers of Al-Masih (peace be upon him) while he is free from them."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question:
@@ -20,4 +24,3 @@ The word Masihi is an ascription to Al-Masih ibn Maryam (Jesus Christ, son of Ma
 Consequently, it is more proper to call them Nasara as Allah (Glorified and Exalted be He) named them. He (Exalted be He) says: "**The Jews said that the Christians follow nothing (i.e. are not on the right religion); and the Christians said that the Jews follow nothing (i.e. are not on the right religion); though they both recite the Scripture.**" [al-Baqarah: 113]
 
 The Arabic equivalent of the word "Christians" is "Nasara" and the singular form is "Nasrani".
-
