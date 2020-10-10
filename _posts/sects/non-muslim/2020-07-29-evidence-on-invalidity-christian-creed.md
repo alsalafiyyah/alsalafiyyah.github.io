@@ -3,7 +3,7 @@ layout: post
 title: "Evidence on the invalidity of the Christian creed"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 16953-5"
-category: ["non-muslims", "walabara"]
+category: ["non-muslim", "walabara"]
 hijri: Dhul-Hijjah 8, 1441 AH
 lang: en
 excerpt: "Christianity was distorted and beliefs of Shirk invaded it, such as believing that Jesus Christ is Allah's Son, Allah Himself, or the third Ilah (God). It is a false religion."
