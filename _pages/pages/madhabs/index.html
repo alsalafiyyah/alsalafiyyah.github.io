@@ -5,24 +5,6 @@ active: madhabs
 permalink: /madhabs/
 ---
 
-<article>
-<div class="table-wrapper" itemscope itemtype="https://schema.org/Table">
-  <table>
-    <tbody>
-      {% for post in site.categories.madhabs %}
-      <tr>
-        <td>{{ post.hijri }}</td>
-        <td>
-          {% if post.url %}<a title="{{ post.title }}" href="{{ post.url }}">{{ post.title }}</a>{% endif %}
-        </td>
-      </tr>
-      {% else %}
-      <p{{site.data.settings.page.no-fatwas}}</p>
-      {% endfor %}
-    </tbody>
-  </table>
-</div>
-
 <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
   <li itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
@@ -40,6 +22,24 @@ permalink: /madhabs/
     <meta itemprop="position" content="3" />
   </li>
 </ol>
+
+<article>
+<div class="table-wrapper" itemscope itemtype="https://schema.org/Table">
+  <table>
+    <tbody>
+      {% for post in site.categories.madhabs %}
+      <tr>
+        <td>{{ post.hijri }}</td>
+        <td>
+          {% if post.url %}<a title="{{ post.title }}" href="{{ post.url }}">{{ post.title }}</a>{% endif %}
+        </td>
+      </tr>
+      {% else %}
+      <p{{site.data.settings.page.no-fatwas}}</p>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
 
 <h3>The Four Madhabs</h3>
 
