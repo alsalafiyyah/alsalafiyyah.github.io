@@ -46,8 +46,7 @@ May Allah guide us all to what pleases him and keep us away from misleading tria
 ---
 
 [^1]: Narrated by Al-Bukhari, Book on Tarawih Prayer, Chapter on excellence of Laylat-ul-Qadr, no. 2014; and Muslim, Book on travelers Salah and Salah shortening, Chapter on encouragement to observe Salah during Ramadan, no. 760.
-[^2]: Narrated by Al-Bukhari, Book on fasting, Chapter on whether it is correct to say 
-"Ramadan" or "the month of Ramadan"?, no. 1899; and Muslim, Book on fasting, Chapter on excellence of the month of Ramadan, no. 1079.
+[^2]: Narrated by Al-Bukhari, Book on fasting, Chapter on whether it is correct to say "Ramadan" or "the month of Ramadan"?, no. 1899; and Muslim, Book on fasting, Chapter on excellence of the month of Ramadan, no. 1079.
 [^3]: Narrated by Al-Bukhari, Book on fasting, Chapter on should someone say, "I am fasting" when he is insulted?, no. 1904.
 [^4]: Narrated by Al-Bukhari, Book on fasting, Chapter on should someone say, "I am fasting"; when he is insulted?, no. 1904; and Muslim, Book on fasting, Chapter on excellence of fasting, no. 1151.
 [^5]: Al-Haythamy ascribed it in Majma' Al-Zawa'id, vol. 3, p. 142 to Al-Tabarany, Al-Kabir.
