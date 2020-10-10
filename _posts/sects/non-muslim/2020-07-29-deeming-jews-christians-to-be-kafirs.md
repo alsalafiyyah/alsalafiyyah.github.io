@@ -2,15 +2,23 @@
 layout: post
 title: "Deeming Jews and Christians, who do not believe in Muhammad, to be disbelievers"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 6505-14"
-category: ["non-muslims"]
-hijri: Dhu al-Hijjah 8, 1441 AH
-date: 2020/07/29
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+source: "Fatawa Al-Lajnah Al-Da'imah no. 6505-14"
+category: ["non-muslim"]
+hijri: Dhul-Hijjah 8, 1441 AH
+excerpt: "What is the ruling of Islam on the Jews and the Christians, for example, to whom the message of Prophet Muhammad (peace be upon him) has been conveyed."
+lang: en
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Abdullah ibn Qa'ud
+      url: /biography/qaud/
 ---
 
 Question: 
