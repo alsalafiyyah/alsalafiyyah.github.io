@@ -16,6 +16,8 @@ remote_theme: alsalafiyyah/massively-jekyll-theme
 safe: true
 future: true
 timezone: America/New_York
+note:
+    text: "May Allah grant us success. May peace and blessings be upon our Prophet, his family and Companions"
 include:
   - _pages
 
