@@ -91,7 +91,7 @@ Allah also dispraised those who said that Allah had taken a son and those who wo
 
 Allah censured those who alleged that, despite their disbelief, paradise was their right and that no one would enter it except them. Allah (Exalted be He) points out their false claims and determined the true dwellers of Paradise. Allah (Exalted be He) says: "**And they say, "None shall enter Paradise unless he be a Jew or a Christian." These are their own desires. Say (O Muhammad صلى الله عليه وسلم), "Produce your proof if you are truthful." Yes, but whoever submits his face (himself) to Allâh (i.e. follows Allâh’s Religion of Islâmic Monotheism) and he is a Muhsin then his reward is with his Lord (Allâh), on such shall be no fear, nor shall they grieve. [See Tafsir Ibn Kathîr ].**" [al-Baarah: 111-112]
 
-Allah also censured those who killed prophets and righteous people without due right and said that their hearts were covered with a barrier. Moreover, they slandered Maryam (Mary) and said that they murdered `Isa ibn Maryam (Jesus son of Mary). They dealt in usury and devoured people's property illicitly. They also said that Allah was a third of three (belief in the trinity). Allah (Exalted be He) considered all of them to be disbelievers, refuted their false allegations and threatened them with painful chastisement. 
+Allah also censured those who killed prophets and righteous people without due right and said that their hearts were covered with a barrier. Moreover, they slandered Maryam (Mary) and said that they murdered 'Isa ibn Maryam (Jesus son of Mary). They dealt in usury and devoured people's property illicitly. They also said that Allah was a third of three (belief in the trinity). Allah (Exalted be He) considered all of them to be disbelievers, refuted their false allegations and threatened them with painful chastisement. 
 
 There are many other Ayahs in which Allah praises a group of Jews and Christians. These Ayahs state their good attributes that made them worthy of Allah's praise and Paradise. At the same time, there are many Ayahs in which Allah dispraises another group from among both sides and describes them with traits that make them worthy of Allah's wrath and painful chastisement.
 
@@ -104,8 +104,6 @@ As for those who disbelieved in all the messengers or believed in some of them a
 Consequently, there is no contradiction between the texts that praise them and acknowledge their virtues and honorable status and the texts that censure others for evil conduct, corrupt creed, distortion, and obliteration of what was revealed to them from their Lord or imitating those who did so from among their rabbis and monks without evidence and guidance. There are no abrogated texts in what were mentioned above because there is no contradiction among them. Moreover, these texts support each other.
 
 For more information, one can return to the Qur'an and the Sunnah of the Messenger of Allah (peace be upon him). He who contemplates the Ayahs of the Qur'an and the authentic Hadiths of the Prophet (peace be upon him), reads reliable books of history and relinquishes fanaticism and whims will find the truth and will be guided to the straight path.
-
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
 
 ---
 [^1]: Al-Bukhari, Sahih, Book on Prophets, no. 3442; Muslim, Sahih, Book on virtues, no. 2365; Abu Dawud, Sunan, Book on Al-Sunnah, no. 4675; and Ahmad, Musnad, vol. 2, p. 437.
