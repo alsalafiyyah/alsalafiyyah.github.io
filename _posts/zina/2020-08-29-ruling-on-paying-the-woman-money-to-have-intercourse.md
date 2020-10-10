@@ -6,7 +6,7 @@ source: "Fatawa Al-Lajnah Ad-Da'imah no. 7994-4"
 hijri: Muharram 10, 1442 AH
 lang: en
 note: true
-category: [zina, women, misc]
+category: [zina, women, misc, marriage]
 excerpt: "You should protect yourself and stay away from the avenues leading to Zina (sexual intercourse outside marriage) and hasten to get married if you can; otherwise, you should observe Sawm (Fast)."
 muftis:
   chairman: 
