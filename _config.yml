@@ -235,7 +235,7 @@ defaults:
     values:
         permalink:  '/fasting/ramadan/:title'
   - scope:
-        path: _posts/hijrah/
+        path: _posts/hijrah
     values:
         permalink:  '/jihad/hijrah/:title'
         
