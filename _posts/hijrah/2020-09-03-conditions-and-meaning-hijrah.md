@@ -2,15 +2,23 @@
 layout: post
 title: "The meaning and conditions of Hijrah"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 7150-6"
+source: "Fatawa Al-Lajnah Al-Da'imah no. 7150-6"
 hijri: Muharram 14, 1442 AH
-date: 2020/09/3
 category: [hijrah]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+lang: en
+excerpt: "Hijrah means leaving a non-Muslim to a Muslim country, which is obligatory."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Abdullah ibn Qa'ud
+      url: /biography/qaud/
 ---
 
 Question:
@@ -24,8 +32,6 @@ Hijrah means leaving a non-Muslim to a Muslim country, which is obligatory. Alla
 Commenting on the previous Ayah (Qur’anic verse), Ibn Kathir said: "The general meaning of this glorious Ayah includes all those who reside among Mushriks (those who associate others with Allah in His Divinity or worship) and cannot freely perform the rites of the religion while able to emigrate. By remaining there, such people are wronging themselves and committing an unlawful act by Ijma' (consensus of scholars)." [^2]
 
 The Hadith stating: "**Worship (of Allah) at times of turmoil is like Hijrah to me**" [^1], indicates the superiority of worshipping Allah during times of turbulence and fighting, which is equal in reward to migration to the Prophet (peace be upon him) that Muslims undertook during his lifetime to Al-Madinah away from the country of disbelief (i.e. Makkah) before the liberation of Makkah. This Hadith does not mean exemption from Hijrah for those residing in a land of Kufr (disbelief) and cannot practice their religion while living among Kafirs (disbelievers).
-
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions. 
 
 ---
 
