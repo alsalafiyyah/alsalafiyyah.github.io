@@ -4,7 +4,7 @@ publisher: alsalafiyyah@icloud.com
 title: "Living in a village where there are Bid'ahs"
 hijri: Muharram 27, 1442 AH
 lang: en
-source: Fatwas of the Permanent Committee no. 12927
+source: "Fatwas of the Permanent Committee no. 12927"
 category: [hijrah]
 excerpt: "If you cannot find a suitable job in your town, you think that the people there will most probably reject your advice, or you fear that they might tempt you or your children with their Bidahs, there will be no sin on you"
 muftis:
