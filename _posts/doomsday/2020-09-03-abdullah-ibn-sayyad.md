@@ -5,13 +5,23 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 17521-2"
 category: [doomsday]
 hijri: Muharram 15, 1442 AH
-date: 2020-09-03
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Salih Fawzan
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Bakr Abu Zayd
+lang: en
+note: true
+excerpt: "Abdullah ibn Sayyad appeared in the lifetime of the Prophet (peace be upon him), and some Sahabah (Companions of the Prophet) thought he was Al-Dajjal."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+  members: 
+    - name: Shaykh Abdul-Aziz Aal al-Shaykh
+      url: /biography/abdulaziz/
+    - name: Shaykh Salih Fawzan
+      url: /biography/fawzan/
+    - name: Shaykh Bakr Abu Zayd
+      url: /biography/bakr/
 ---
 
 Question: 
@@ -23,8 +33,6 @@ Answer:
 Abdullah ibn Sayyad appeared in the lifetime of the Prophet (peace be upon him), and some Sahabah (Companions of the Prophet) thought he was Al-Dajjal. The Prophet (peace be upon him) himself thought the same, until he knew afterwards that it was not him, rather he was a soothsayer. The Prophet (peace be upon him) said to him: "**I have something hidden for you. Ibn Sayyad said, “It is Al-Dukh.” (And he was really hiding for him Surah Al-Dukhan). The Prophet (peace be upon him) said to him, “Be off! You can never go beyond your position.”**" [^1] Meaning: You are one of the fellowmen of the soothsayers who have allies of Satans to tell them a lot of the unseen things which they stealthily hear. 
 
 Moreover, they used to mix truth with lies as in the Sahih (sound) Hadith related by Al-Bukhari and others, that the Prophet (peace be upon him) said: "**The angels descend in the clouds and mention this or that matter decreed in the Heaven. The devils listen stealthily to such a matter, come down to inspire the soothsayers with it, and the latter would add to it one-hundred lies of their own.**" [^2]
-
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
 
 ---
 
