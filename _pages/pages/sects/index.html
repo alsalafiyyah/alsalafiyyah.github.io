@@ -25,6 +25,29 @@ permalink: /sects/
 
 <article class="post">
 
+<div class="table-wrapper" itemscope itemtype="https://schema.org/Table">
+  <table>
+    <thead>
+      <tr>
+        <th>Date</th>
+        <th>Title</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for post in site.categories.sects %}
+      <tr>
+        <td>{{ post.hijri }}</td>
+        <td>
+          {% if post.url %}<a title="{{ post.title }}" href="{{ post.url }}">{{ post.title }}</a>{% endif %}
+        </td>
+      </tr>
+      {% else %}
+      <p{{site.data.settings.page.no-fatwas}}</p>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+  
 <div class="box">
 <h4>Sufism</h4>
 <ul class="posts">
