@@ -227,9 +227,9 @@ defaults:
     values:
         permalink:  '/treatments/:title'
   - scope:
-        path: _posts/fasting/ramadan
+        path: _posts/shawm/ramadan
     values:
-        permalink:  '/shawm/ramadan/:title'
+        permalink:  '/fasting/ramadan/:title'
 
 
 
