@@ -28,7 +28,7 @@ Praise be to Allah. The Da'wah Salafiyyah is a call to what Allah has sent His P
 
 "**And they were commanded not, but that they should worship Allah, and worship none but Him Alone (abstaining from ascribing partners to Him), and perform As-Salat (Iqamat-as-Salat) and give Zakat: and that is the right religion.**" [al-Bayyinah: 5]
 
-The Prophet made Da'wah to this. The Mushriks (those who associate others with Allah in worship) were obsessed with the graves, the dead, statues, stones and trees and invoked them, sought their blessings and cure, and sacrificed and vowed to them. The Prophet (peace be upon him) forbade them to do this and informed them that these things could not help or harm. He (peace be upon him) taught them that we should dovote our worship to Allah alone, saying: "**Oh my people, say 'La ilaha Illa Allah (None has the right to be worshipped but Allah)' to succeed.'**" 
+The Prophet made Da'wah to this. The Mushriks (those who associate others with Allah in worship) were obsessed with the graves, the dead, statues, stones and trees and invoked them, sought their blessings and cure, and sacrificed and vowed to them. The Prophet (peace be upon him) forbade them to do this and informed them that these things could not help or harm. He (peace be upon him) taught them that we should dovote our worship to Allah alone, saying: "**Oh people, say 'La ilaha Illa Allah (None has the right to be worshipped but Allah)' to succeed.'**" [^1]
 
 When Allah made the Prophet conquer Makkah after Hijrah (Prophet's migration to Madinah), he (peace be upon him) broke the idols, smashed Al-'Uza, which was a tree that used to be worshiped; He also smashed Manat, a stone which was worshiped, and Al-Lat which was worshiped in Al-Ta'if, He did the same with other idols. He sent to the tribes and their chiefs to call them to the Tawhid of Allah, ordering them to abandon worshiping of idols, saints, prophets and angels, for worship should be to devoted to Allah Alone.
 
@@ -54,7 +54,7 @@ Worship is Allah's right: "**O mankind! Worship your Lord (Allah)**" [al-Baqarah
 
 He is the best of the creation, and the best son of Adam (peace be upon him). One must believe in that, and believe that Allah sent him to all mankind and to the Jinn and man; whoever accepts his Da'wah and follows what he was sent with will enter Jannah (Paradise), and whoever does not will enter Hell-fire. He is the Seal of Prophets; there is no prophet after him. Whoever claims prophecy after him, such as **Al-Qadiyani, is a Kafir**, because Allah (Exalted be He) says: "**Muhammad is not the father of any of your men, but he is the Messenger of Allah and the last (end) of the Prophets.** [al-Ahzab: 40]
 
-There are many Hadiths confirming that Muhammad (peace be upon him) is the Last Prophet. The Messenger of Allah said: "**I am the seal of the prophets; there is no prophet after me**" [^1]
+There are many Hadiths confirming that Muhammad (peace be upon him) is the Last Prophet. The Messenger of Allah said: "**I am the seal of the prophets; there is no prophet after me**" [^2]
 
 Of the perfection of the Da'wah Salafiyyah is the obedience to Allah by applying all His orders and abandoning His prohibitions. Pray as Allah ordered, pay Zakah (obligatory charity) as Allah ordered, fast as Allah ordered, perform hajj as Allah ordered, obey your parents, keep ties of kinship, call people to Allah with knowledge and guidance, command people with Ma'ruf (that which is judged as good, beneficial, or fitting by Shari'ah and Muslims of sound intellect) and forbid them from Munkar in a pleasant way, with wisdom), abandon all sins whether it be Zina (illegal sexual intercourse outside marriage), disobeying parents, Riba (usury), cutting ties of kinship, drinking alcohol and other such sins; these must be abandoned and one should be warned against them. This is to obey Allah, follow His Shari'ah, seek His reward and fear His punishment. All this is included in the Da'wah Salafiyyah. 
 
@@ -84,5 +84,6 @@ It is obligatory on those who seek knowledge to take the Truth with its evidence
 
 ---
 
-[^1]: Imam Ahmad, vol. 2, pp. 398 and 412; vol. 3, pp. 79 and 248, vol. 4, pp. 81, 84, 127, and 128, and vol. 5, p. 278; Al-Bukhari, Fat-h-ul-Bary, no. 3535; Muslim, nos. 2286 and 2287; and Abu Dawud, no. 4252.
+[^1]: Ahmad ibn Hanbal, Musnad, vol. 3, p. 492.
+[^2]: Imam Ahmad, vol. 2, pp. 398 and 412; vol. 3, pp. 79 and 248, vol. 4, pp. 81, 84, 127, and 128, and vol. 5, p. 278; Al-Bukhari, Fat-h-ul-Bary, no. 3535; Muslim, nos. 2286 and 2287; and Abu Dawud, no. 4252.
 
