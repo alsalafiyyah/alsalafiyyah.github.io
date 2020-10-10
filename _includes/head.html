@@ -11,8 +11,5 @@
   <link rel="stylesheet" href="{{ '/assets/custom.css' | absolute_url }}" />
   <link rel="stylesheet" href="{{ '/assets/mainstyle.css' | absolute_url }}" />
   <noscript><link rel="stylesheet" href="{{ '/assets/css/noscript.css' | absolute_url }}" /></noscript>
-  {% if page.tipue_search_active or layout.tipue_search_active -%}
-  <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/tipuesearch.css" | absolute_url }}">
-  {% endif -%}
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 </head>
