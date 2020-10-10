@@ -234,6 +234,10 @@ defaults:
         path: _posts/shawm/ramadan
     values:
         permalink:  '/fasting/ramadan/:title'
-
+  - scope:
+        path: _posts/hijrah/
+    values:
+        permalink:  '/jihad/hijrah/:title'
+        
 
 
