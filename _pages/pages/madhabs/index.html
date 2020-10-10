@@ -22,4 +22,85 @@ permalink: /madhabs/
     </tbody>
   </table>
 </div>
+
+<ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+  <li itemprop="itemListElement" itemscope
+          itemtype="https://schema.org/ListItem">
+    <a itemprop="item" href="{{ site.url }}"><span itemprop="name">Home</span></a>
+    <meta itemprop="position" content="1" />
+  </li>
+  <li itemprop="itemListElement" itemscope
+          itemtype="https://schema.org/ListItem">
+    <a itemprop="item" href="/fatwas/"><span itemprop="name">Fatwas</span></a>
+    <meta itemprop="position" content="2" />
+  </li>
+  <li itemprop="itemListElement" itemscope
+          itemtype="https://schema.org/ListItem">
+    <span itemprop="name" class="active">{{ page.title }}</span>
+    <meta itemprop="position" content="3" />
+  </li>
+</ol>
+
+<h3>The Four Madhabs</h3>
+
+<div class="box">
+<h4>Al-Hanabilah (Hanbalis)</h4>
+<ul class="posts">
+  {% for post in site.categories.hanbalis | limit:5 %}
+    {% if post.url %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endif %}
+    {% else %}
+    <p>{{site.data.settings.page.no-fatwas}}</p>
+  {% endfor %}
+  <p><i class="fas fa-arrow-right"></i> <a href="/madhabs/hanabilah/">View all</a></p>
+</ul>
+</div>
+
+<div class="box">
+<h4>Al-Hanafiyyah (Hanafis)</h4>
+<ul class="posts">
+  {% for post in site.categories.hanafis | limit:5 %}
+    {% if post.url %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endif %}
+    {% else %}
+    <p>{{site.data.settings.page.no-fatwas}}</p>
+  {% endfor %}
+  <p><i class="fas fa-arrow-right"></i> <a href="/madhabs/hanafis/">View all</a></p>
+</ul>
+</div>
+
+<div class="box">
+<h4>Al-Malikiyyah (Malikis)</h4>
+<ul class="posts">
+  {% for post in site.categories.malikis | limit:5 %}
+    {% if post.url %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endif %}
+    {% else %}
+    <p>{{site.data.settings.page.no-fatwas}}</p>
+  {% endfor %}
+  <p><i class="fas fa-arrow-right"></i> <a href="/madhabs/malikis/">View all</a></p>
+</ul>
+</div>
+
+<div class="box">
+<h4>Al-Shafi'iyyah (Shafi'is)</h4>
+<ul class="posts">
+  {% for post in site.categories.shafiis | limit:5 %}
+    {% if post.url %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endif %}
+    {% else %}
+    <p>{{site.data.settings.page.no-fatwas}}</p>
+  {% endfor %}
+  <p><i class="fas fa-arrow-right"></i> <a href="/madhabs/shafiis/">View all</a></p>
+</ul>
+</div>
+  
 </article>
