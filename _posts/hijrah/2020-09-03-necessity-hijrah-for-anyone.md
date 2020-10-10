@@ -2,15 +2,23 @@
 layout: post
 title: "Necessity of Hijrah for anyone who fears for his religion in his country"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 7485-2"
+source: "Fatawa Al-Lajnah Al-Da'imah no. 7485-2"
 hijri: Muharram 14, 1442 AH
-date: 2020/09/3
+lang: en
 category: [hijrah]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+excerpt: "it is permissible for a Muslim to migrate from his homeland to another land where he feels secure about himself and his religion."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Abdullah ibn Qa'ud
+      url: /biography/qaud/
 ---
 
 Question:
@@ -20,5 +28,3 @@ Does migration become obligatory upon a Muslim who feels insecure about himself 
 Answer:
 
 If the reality is as you have mentioned, it is permissible for a Muslim to migrate from his homeland to another land where he feels secure about himself and his religion.
-
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions. 
