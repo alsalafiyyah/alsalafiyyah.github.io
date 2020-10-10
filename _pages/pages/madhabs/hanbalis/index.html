@@ -1,0 +1,25 @@
+---
+title: Al-Hanabilah (Hanbalis)
+layout: page
+active: madhabs
+permalink: /madhabs/hanabilah/
+---
+
+<article>
+<div class="table-wrapper" itemscope itemtype="https://schema.org/Table">
+  <table>
+    <tbody>
+      {% for post in site.categories.hanbalis %}
+      <tr>
+        <td>{{ post.hijri }}</td>
+        <td>
+          {% if post.url %}<a title="{{ post.title }}" href="{{ post.url }}">{{ post.title }}</a>{% endif %}
+        </td>
+      </tr>
+      {% else %}
+      <p{{site.data.settings.page.no-fatwas}}</p>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+</article>
