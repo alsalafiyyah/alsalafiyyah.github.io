@@ -5,7 +5,7 @@ title: "Ruling on watching movies and television and playing cards during the da
 hijri: Safar 23, 1442 AH
 source: "Fatawa Al-Shaykh Ibn Baz p. 15/316"
 lang: en
-category: [fasting, ramadan]
+category: [fasting, shawm, ramadan]
 excerpt: "Muslims, whether fasting or not, should fear Allah with regard to what they do or do not do at all times. They should avoid forbidden matters such as watching obscene movies which depict things that Allah has prohibited including naked and semi-naked pictures."
 muftis:
   shaykh: 
