@@ -15,6 +15,7 @@ markdown:       kramdown
 remote_theme: alsalafiyyah/massively-jekyll-theme
 safe: true
 future: true
+timezone: America/New_York
 include:
   - _pages
 
