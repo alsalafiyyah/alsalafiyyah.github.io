@@ -27,7 +27,9 @@ Excusing someone due to ignorance of some religious issues depends on the way he
 
 When someone beseeches the dead to relieve their distress or ward off evil, they should be informed that their actions are considered Shirk. If, after making this point clear to them and showing them counter evidence in fulfillment of the duty of Da'wah, they persist, they will be regarded as Mushriks (those who associate others with Allah in worship) who should be treated as Kafirs in terms of worldly affairs. Moreover, they will deserve the painful punishment in the Hereafter, if they die under these false beliefs. Allah (Exalted be He) says, "**Messengers as bearers of good news as well as of warning in order that mankind should have no plea against Allâh after the (coming of) Messengers. And Allâh is Ever All-Powerful, All-Wise.**" [Al-nisa: 165]
 
-Allah also says, "**And We never punish until We have sent a Messenger (to give warning).**" [Al-isra': 15] He further says, "**...this Qur’ân has been revealed to me that I may therewith warn you and whomsoever it may reach.**" [Al-An'am: 19]
+Allah also says, "**And We never punish until We have sent a Messenger (to give warning).**" [Al-isra': 15] 
+
+He further says, "**...this Qur’ân has been revealed to me that I may therewith warn you and whomsoever it may reach.**" [Al-An'am: 19]
 
 It is authentically reported on the authority of Abu Hurayrah (may Allah be pleased with him) that the Prophet (peace be upon him) said, "**By Him in Whose hand is the soul of Muhammad, any Jew or Christian amongst this Ummah (nation) who hears about me but does not affirm his belief in that with which I have been sent and dies in this state (of disbelief), he shall be but one of the inhabitants of Hellfire.**" Narrated by Muslim [^1]. 
 
