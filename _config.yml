@@ -213,7 +213,7 @@ defaults:
   - scope:
         path: _posts/non-muslims/_posts
     values:
-        permalink:  '/non-muslims/:title'
+        permalink:  '/sects/non-muslim/:title'
   - scope:
         path: _posts/walabara/_posts
     values:
@@ -226,6 +226,10 @@ defaults:
         path: _posts/treatments/_posts
     values:
         permalink:  '/treatments/:title'
+  - scope:
+        path: _posts/shawm/
+    values:
+        permalink:  '/fasting/:title'
   - scope:
         path: _posts/shawm/ramadan
     values:
