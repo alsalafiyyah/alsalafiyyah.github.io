@@ -3,13 +3,14 @@ layout: default
 ---
 
 <article>
+{% include faq.html %}
 <header>
  <h2>Recently Added</h2>
 </header>
 <div class="table-wrapper" itemscope itemtype="https://schema.org/Table">
    <table>
       <tbody>
-         {% for post in site.posts limit:6 %}
+         {% for post in site.posts limit:4 %}
          <tr>
           <td>
            <meta content='{{ post.date | date_to_xmlschema }}' itemprop='dateModified'/>
@@ -29,6 +30,5 @@ layout: default
   <ul class="actions special">
    <li><a href="/fatwas/" class="button">View all fatwas</a></li>
   </ul>
-</div>
-{% include faq.html %}	
+</div>	
 </article>
