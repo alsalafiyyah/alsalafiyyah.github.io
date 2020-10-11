@@ -38,15 +38,17 @@ ol.breadcrumb li a:hover {
 }
 
 .accordion:after {
-  content: '\002B';
+  content: '\f078';
   color: #777;
   font-weight: bold;
   float: right;
   margin-left: 5px;
+  font-family: 'Font Awesome\ 5 Free';
 }
 
 ._active:after {
-  content: "\2212";
+  content: "\f077";
+  font-family: 'Font Awesome\ 5 Free';
 }
 
 .panel {
