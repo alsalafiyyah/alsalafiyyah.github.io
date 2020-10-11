@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on Ahlul-Fatrah"
+title: "Ruling on Ahl Al-Fatrah"
 hijri: Safar 24, 1442 AH
 source: "Fatawa Al-Lajnah Al-Da'imah no. 6465"
 lang: en
