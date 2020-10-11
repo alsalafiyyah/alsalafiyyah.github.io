@@ -34,11 +34,9 @@ Those whom Da'wah has not reached yet and insist on Kufr (disbelief) are going t
 
 There are many Ayahs and Hadiths which reinforce this meaning.
 
-As for those whom Da'wah has not reached in an uncorrupted manner, they are left to the Will of Allah. The most authentic opinion of the scholars about them is that they are tested on the Day of Judgment; those who obey will enter Jannah, while those who disobey will enter Hellfire. This was implied by Al-Hafizh ibn Kathir (may Allah be merciful to him) in his interpretation of Allah's saying, "**And We never punish until We have sent a Messenger (to give warning).**" [Al-Isra': 15] 
-
-And Ibn Al-Qayyim (may Allah be merciful to him) in his book entitled "Tariq Al-Hijratayn" under the following title "Ranks of legally competent people" [^2]. You should refer to those books for more information.
+As for those whom Da'wah has not reached in an uncorrupted manner, they are left to the Will of Allah. The most authentic opinion of the scholars about them is that they are tested on the Day of Judgment; those who obey will enter Jannah, while those who disobey will enter Hellfire. This was implied by Al-Hafizh ibn Kathir (may Allah be merciful to him) in his interpretation of Allah's saying, "**And We never punish until We have sent a Messenger (to give warning).**" [Al-Isra': 15] And Ibn Al-Qayyim (may Allah be merciful to him) in his book entitled "Tariq Al-Hijratayn" under the following title "Ranks of legally competent people" [^2]. You should refer to those books for more information.
 
 ---
 
 [^1]: Muslim, Sahih, Book on faith, no. 153; and Ahmad, Musnad, vol. 2, p. 317.
-[^2]: Tariq Al-Hijratayn: "Ranks of legally competent people", p.453, Egyptian impression.
+[^2]: Tariq Al-Hijratayn by Ibn Qayyim : "Ranks of legally competent people", p.453, Egyptian impression.
