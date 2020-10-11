@@ -1,9 +1,9 @@
-﻿---
+---
 layout: page
 title: "Faq"
 active: faq
 author: "Instagram@Alsalafiyyah"
-permalink: /faq/
+permalink: /web/faq/
 ---
 
 ### Who are the Salaf
