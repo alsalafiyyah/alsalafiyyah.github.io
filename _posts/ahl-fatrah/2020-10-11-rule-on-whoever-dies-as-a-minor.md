@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Ruling on whoever dies as a minor"
 hijri: Safar 24, 1442 AH
-source: "Fatawa Al-Lajnah Al-Da'imah no. 7790"
+source: "Fatawa Al-Lajnah Al-Da'imah no. 7790-4"
 lang: en
 note: true
 category: [ahl-fatrah, non-muslim]
