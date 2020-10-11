@@ -11,9 +11,15 @@ layout: default
       <tbody>
          {% for post in site.posts limit:6 %}
          <tr>
-          <td>{{ post.hijri }}</td>
           <td>
-           <a title="{{ post.title }}" href="{{ post.url }}">{{ post.title }}</a>
+           <meta content='{{ post.date | date_to_xmlschema }}' itemprop='dateModified'/>
+           <meta itemprop="datePublished" content="{{ post.date | date_to_xmlschema }}">
+           {{ post.hijri }}
+          </td>
+          <td>
+           <a itemprop="url" title="{{ post.title }}" href="{{ post.url }}">
+            <span itemprop="headline name">{{ post.title }}</span>
+           </a>
           </td>
          </tr>
          {% endfor %}
