@@ -45,7 +45,7 @@ ol.breadcrumb li a:hover {
   margin-left: 5px;
 }
 
-.active:after {
+._active:after {
   content: "\2212";
 }
 
