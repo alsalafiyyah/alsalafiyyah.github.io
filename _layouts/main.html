@@ -14,7 +14,7 @@ layout: default
 <div class="table-wrapper" itemscope itemtype="https://schema.org/Table">
    <table>
       <tbody>
-         {% for post in site.posts limit:4 %}
+         {% for post in site.posts limit:5 %}
          <tr>
           <td>
            <meta content='{{ post.date | date_to_xmlschema }}' itemprop='dateModified'/>
