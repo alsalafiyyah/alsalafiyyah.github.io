@@ -67,8 +67,10 @@ chapters:
     link: /doomsday/
   - name: "Rulership, Kingship"
     link: /rulership/
-  - name: "Ahl Al-Fatrah (People whom Da’wah has not reached in an uncorrupted manner)"
+  - name: "Ahl Al-Fatrah"
     link: /ahl-fatrah/
+  - name: "Knowledge"
+    link: /jihad/knowledge/
     
 pagination:
   next: Next
