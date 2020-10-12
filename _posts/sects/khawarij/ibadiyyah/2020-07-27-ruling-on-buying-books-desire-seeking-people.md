@@ -23,7 +23,7 @@ muftis:
 
 Question: 
  
-Is it permissible to do business with [ibadiyyah](/sects/khawarij/ibadiyyah/)? For example, I buy their good books and cassettes, should I stop or continue doing this?
+Is it permissible to do business with [ibadiyyah](/sects/khawarij/)? For example, I buy their good books and cassettes, should I stop or continue doing this?
 
 Answer:
 
