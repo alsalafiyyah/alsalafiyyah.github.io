@@ -2,7 +2,7 @@
 layout: post
 title: "Ruling on buying books from desire-seeking people"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Daimah no. 21394-5"
+source: "Fatawa Al-Lajnah Al-Daimah of KSA no. 21394-5"
 category: [knowledge, books, ibadiyyah, khawarij]
 hijri: Dhul-Hijjah 6, 1441 AH
 lang: en
