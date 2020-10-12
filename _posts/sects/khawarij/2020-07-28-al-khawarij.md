@@ -7,7 +7,7 @@ category: ["khawarij"]
 hijri: Dhul-Hijjah 7, 1441 AH
 lang: en
 note: true
-excerpt: "What is the meaning of the Hadith of the Messenger of Allah (peace be upon him): "During the last days, some young foolish people who will say the best words will appear. "
+excerpt: "What is the meaning of the Hadith of the Messenger of Allah (peace be upon him): 'During the last days, some young foolish people who will say the best words will appear.'"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz
