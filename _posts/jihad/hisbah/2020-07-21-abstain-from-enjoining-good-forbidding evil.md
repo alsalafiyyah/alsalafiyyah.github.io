@@ -2,11 +2,16 @@
 layout: post
 title: "Ruling on those who abstain from enjoining good and forbidding evil"
 publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat 6/504"
-category: [general, hisbah]
+source: "Majmu' Fatawa wa Maqalat by Shaykh Ibn Baz 6/504"
+category: [jihad, hisbah]
 hijri: Dhul-Qa'dah 30, 1441 AH
-date: 2020/07/21
-shaykhs: Shaykh Ibn Baz
+lang: en
+note: false
+excerpt: "Such people are thereby disobedient to Allah and His Messenger (peace be upon him). They have weak Iman (Faith) and are in great danger. This is one of the diseases of the heart and may result in Allah's immediate or later punishment."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question: 
