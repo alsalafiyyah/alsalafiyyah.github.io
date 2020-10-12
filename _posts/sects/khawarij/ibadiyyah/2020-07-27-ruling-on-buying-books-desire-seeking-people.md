@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ruling on buying books from desire-seeking people"
+title: "Ruling on buying books from Ibadiyyah sect"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Daimah of KSA no. 21394-5"
 category: [knowledge, books, ibadiyyah, khawarij]
