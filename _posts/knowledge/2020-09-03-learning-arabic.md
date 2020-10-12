@@ -7,6 +7,7 @@ hijri: Muharram 14, 1442 AH
 lang: en
 note: true
 category: [knowledge, misc]
+excerpt: "What should I do to learn the Arabic Language and write it very well? Indeed, I did not have a good education and I want to enrich my knowledge in Arabic."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz
