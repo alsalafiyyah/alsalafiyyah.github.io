@@ -2,11 +2,16 @@
 layout: post
 title: "The Magi of the Muslim Ummah are Al-Qadariyyah"
 publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Muqolat 28/"
-category: [qadaris]
-hijri: Dhu al-Hijjah 13, 1441 AH
-date: 2020/08/2
-shaykhs: Shaykh Abdul-Aziz ibn Baz
+source: "Fatawa Al-Shaykh Ibn Baz vol 28"
+category: [qadaris, qadr]
+hijri: Dhul-Hijjah 13, 1441 AH
+lang: en
+note: false
+excerpt: "The Magi of the Muslim Ummah are Al-Qadariyyah who denied Predestination and went astray in this regard, saying that matters are not known to Allah before their occurrence."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz Ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question: 
