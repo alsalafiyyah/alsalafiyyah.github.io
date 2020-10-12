@@ -3,7 +3,7 @@ layout: post
 title: "The Magi of the Muslim Ummah are Al-Qadariyyah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Shaykh Ibn Baz vol 28"
-category: [qadaris, qadr]
+category: [qadaris, qadr, magus]
 hijri: Dhul-Hijjah 13, 1441 AH
 lang: en
 note: false
