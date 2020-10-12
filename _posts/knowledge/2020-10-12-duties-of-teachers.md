@@ -32,11 +32,11 @@ Therefore, it is obligatory for the teacher to devote care to this issue and fir
 
 Another most important means to acquiring knowledge is Taqwa (fear and wariness of offending Allah) and being mindful of Allah in all circumstances. Allah (Glorified and Exalted be He) says: "**And whosoever fears Allâh and keeps his duty to Him, He will make a way for him to get out (from every difficulty). And He will provide him from (sources) he never could imagine.**" [Al-talaq: 2-3]
 
-It is well known that acquiring knowledge is the best provision, as it takes people out of the narrowness and darkness of ignorance to the wideness and light of knowledge. Allah (Exalted be He) says: "**...and whosoever fears Allâh and keeps his duty to Him, He will make his matter easy for him.**" [Al-talaq: 4]
+It is well known that acquiring knowledge is the best provision, as it takes people out of the narrowness and darkness of ignorance to the wideness and light of knowledge. Allah (Exalted be He) says: "**...and whosoever fears Allâh and keeps his duty to Him, He will make his matter easy for him.**" [Al-Talaq: 4]
 
 Undoubtedly, one of the greatest gifts of ease and facility one can be blessed with from Allah is acquiring beneficial knowledge, because through the obtained knowledge a student of Shari'ah can understand the ways to good and salvation that are not easy for an ignorant person to understand. Allah (Glorified be He) says: "**O you who believe! If you obey and fear Allâh, He will grant you Furqân [(a criterion to judge between right and wrong), or (Makhraj, i.e. a way for you to get out from every difficulty)], and will remove from you your sins, and forgive you**" [Al-Anfal: 29]
 
-The word Furqan is best interpreted to mean the beneficial knowledge that can differentiate between truth and falsehood, guidance and misguidance, deviation and rectitude. The more knowledge a student gains, the more fear of Allah they have, and the more they shall honor the sacred Ordinances of Allah; therefore, it serves them as the criterion to distinguish the truth from the falsehood. Allah (Glorified be He) says: "**It is those who have knowledge among His slaves that (most) fear Allâh.**" [fatir: 28]
+The word Furqan is best interpreted to mean the beneficial knowledge that can differentiate between truth and falsehood, guidance and misguidance, deviation and rectitude. The more knowledge a student gains, the more fear of Allah they have, and the more they shall honor the sacred Ordinances of Allah; therefore, it serves them as the criterion to distinguish the truth from the falsehood. Allah (Glorified be He) says: "**It is those who have knowledge among His slaves that (most) fear Allâh.**" [Fatir: 28]
 
 He (Glorified and Exalted be He) also says: "**Verily, those who fear their Lord unseen (i.e. they do not see Him, nor His punishment in the Hereafter), theirs will be forgiveness and a great reward (i.e. Paradise).**" [Al-Mulk: 12]
 
@@ -50,7 +50,7 @@ This is because comprehending the religion exhorts a servant to comply with Alla
 
 The Prophet (peace be upon him) is reported to have said: "**A servant (of Allah) is deprived of Rizq (provision) because of the sin they commit.**" [^6]
 
-More eloquent still is the Saying of Allah (Glorified be He): "**And whatever of misfortune befalls you, it is because of what your hands have earned. And He pardons much. See the Qur’ân Verse 35:45).**" [Al-shura: 42:30]
+More eloquent still is the Saying of Allah (Glorified be He): "**And whatever of misfortune befalls you, it is because of what your hands have earned. And He pardons much.**" [Al-shura: 42:30] See the Qur’ân Verse 35:45).
 
 Allah (Exalted be He) also says: "**O you who believe! If you obey and fear Allâh, He will grant you Furqân [(a criterion to judge between right and wrong), or (Makhraj, i.e. a way for you to get out from every difficulty)]**" [Al-Anfal: 29]
 
