@@ -50,7 +50,9 @@ This is because comprehending the religion exhorts a servant to comply with Alla
 
 The Prophet (peace be upon him) is reported to have said: "**A servant (of Allah) is deprived of Rizq (provision) because of the sin they commit.**" [^6]
 
-More eloquent still is the Saying of Allah (Glorified be He): "**And whatever of misfortune befalls you, it is because of what your hands have earned. And He pardons much.**" [Al-shura: 42:30] See the Qur’ân Verse 35:45).
+More eloquent still is the Saying of Allah (Glorified be He): "**And whatever of misfortune befalls you, it is because of what your hands have earned. And He pardons much.**" [Al-shura:30] 
+
+See the Qur’ân Verse 35:45).
 
 Allah (Exalted be He) also says: "**O you who believe! If you obey and fear Allâh, He will grant you Furqân [(a criterion to judge between right and wrong), or (Makhraj, i.e. a way for you to get out from every difficulty)]**" [Al-Anfal: 29]
 
