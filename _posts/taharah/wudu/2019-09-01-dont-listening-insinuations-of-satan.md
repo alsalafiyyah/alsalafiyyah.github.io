@@ -8,7 +8,7 @@ chapter: "Nullifications of Wudu' (Ablution)"
 lang: en
 category: [taharah, ablution]
 note: true
-excerpt: "If you have performed Wudu’ (ablution), the basic rule is that you are Tahir (ritually pure), and this is based upon certitude. You should not, therefore, pay any attention to what contradicts this ruling by doubts and suspicions that something may have been emitted that would nullify your Wudu’"
+excerpt: "Sometimes I feel while I am washing my feet or directly or shortly after performing Wudu’ something coming out through the urethra in the form of drops. Then I look and I may find traces of one or more drops and I may find nothing at all."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz
