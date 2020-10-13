@@ -28,21 +28,21 @@ permalink: /fiqh/taharah/
   </li>
 </ol>
 
-<article>
-<div class="table-wrapper" itemscope itemtype="https://schema.org/Table">
-  <table>
-    <tbody>
-      {% for post in site.categories.taharah %}
-      <tr>
-        <td>{{ post.hijri }}</td>
-        <td>
-          {% if post.url %}<a title="{{ post.title }}" href="{{ post.url }}">{{ post.title }}</a>{% endif %}
-        </td>
-      </tr>
-      {% else %}
-      <p{{site.data.settings.page.no-fatwas}}</p>
-      {% endfor %}
-    </tbody>
-  </table>
+<article class="post">
+
+<div class="box">
+<h4>Wudu' (Ablution)</h4>
+<ul class="posts">
+  {% for post in site.categories.ablution | limit:5 %}
+    {% if post.url %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endif %}
+    {% else %}
+    <p>{{site.data.settings.page.no-fatwas}}</p>
+  {% endfor %}
+  <p><i class="fas fa-arrow-right"></i> <a href="/fiqh/taharah/wudu/">View all</a></p>
+</ul>
 </div>
+
 </article>
