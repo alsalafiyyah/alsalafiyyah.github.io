@@ -1,14 +1,18 @@
 ---
 layout: audio
-title: "On the meaning of Sufism"
+title: "Who are the Sufis?"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 3"
-category: [sufism, binbaz, audios]
+category: [sufism, audios]
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_477/47716.mp3
-link: shorturl.at/nzAJL
 hijri: Dhul-Hijjah 16, 1441 AH
-date: 2020/08/6
-shaykhs: Shaykh Abdul-Aziz ibn Baz
+lang: en
+note: false
+excerpt: "Sufis are groups of people who are known for their innovating methods of worship that are not ordained by Allah in their prayers, Dhikr (Remembrance of Allah) and devotional retreats."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question:
