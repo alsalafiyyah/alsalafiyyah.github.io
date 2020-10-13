@@ -3,12 +3,17 @@ layout: audio
 title: "Revealing the misguidance of the Sufi scholar Ibn 'Arabi"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 3"
-category: [sufism, binbaz, audios, refutals]
+category: [sufism, audios]
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_718/nour_71815.mp3
 link: https://cutt.ly/rdGfqSg
 hijri: Dhul-Hijjah 16, 1441 AH
-date: 2020/08/6
-shaykhs: Shaykh Abdul-Aziz ibn Baz
+lang: en
+note: false
+excerpt: "Sufism has different branches, and its followers are, mostly, Mubtadi's. They have invocations and acts of worship that have no basis in the Qur'an or the Sunnah. One of the Sufis is Ibn 'Arabi."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question:
