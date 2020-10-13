@@ -63,10 +63,9 @@
   {% endif %}
 {% endif %}
 
-  <dt>{{site.data.settings.post.share}}</dt>
+  <dt>{{site.data.settings.post.share}}:</dt>
    <dd>
 <ul class="icons">
- <li>{{site.data.settings.post.share}}</li>
  <li><a href="https://twitter.com/intent/tweet?text={{ page.title | default:"" | uri_escape}}&url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}" class="icon brands fab fa-twitter" rel="nofollow" target="_blank" title="Share on Twitter"><span class="label">{{site.data.settings.social.tw}}</span></a></li>
  <li><a href="https://facebook.com/sharer.php?u={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}" rel="nofollow" target="_blank" title="Share on Facebook" class="icon brands fab fa-facebook-f"><span class="label">{{site.data.settings.social.fb}}</span></a></li>
  <li><a href="https://telegram.me/share/url?url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&text={{ page.title | default:"" | uri_escape}}" rel="nofollow" target="_blank" title="Share on Telegram" class="icon brands fab fa-telegram-plane"><span class="label">{{site.data.settings.social.tel}}</span></a></li>
