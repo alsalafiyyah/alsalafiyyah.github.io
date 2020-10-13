@@ -62,13 +62,13 @@
   {% endif %}
 {% endif %}
 
+    {% if page.date %}
+    <dt><span id='last-modified'></span></dt>
+    {% endif %}
+    <dt>
+     <a href="mailto:alsalafiyah@icloud.com?subject=Report&body={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}">
+      <i class="fas fa-bug"></i> Report a mistake
+     </a>
+    </dt>
+    
 </dl>
-
-  <p>
-   <small><i class="fas fa-bug"></i> 
-    <b><a href="mailto:alsalafiyah@icloud.com?subject=Report&body={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}">
-     Report a mistake</a></b></small>
-  </p>
-  {% if page.date %}
-   <p><span id='last-modified'></span></p>
-  {% endif %}
