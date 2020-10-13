@@ -2,10 +2,27 @@
 layout: default
 ---
 
-<article class="post">
-  <h2 class="post-title">{{ page.title }}</h2>
+{% if page.date %}
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+ 
+<header class="major">
+ <meta content='{{ post.date | date_to_xmlschema }}' itemprop='dateModified'/>
+ <span class="date">
+  {% if site.date %}
+   <meta itemprop="datePublished" content="{{ post.date | date_to_xmlschema }}">
+  {% endif %}
+  {% include date.liquid %}
+ </span>
+  <h3 itemprop="name headline">{{ page.title }}</h3>
+</header>
+ 
+  <div itemprop="articleBody">
   {% include player.liquid %}
-  {{ content }}     
+  {{ content }}
+  {% include note.html %}
+  </div>
+ 
   {% include post-source.liquid %}
+
 </article>
-  
+{% endif %}
