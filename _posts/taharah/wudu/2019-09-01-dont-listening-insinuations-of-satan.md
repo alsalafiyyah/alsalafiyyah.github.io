@@ -3,7 +3,8 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Do not listen to the insinuations of Satan"
 hijri: Muharram 02, 1441 AH
-source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 7789-2"
+source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 5935"
+chapter: "Nullifications of Wudu' (Ablution)"
 lang: en
 category: [taharah, ablution]
 note: true
