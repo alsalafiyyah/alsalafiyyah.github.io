@@ -7,7 +7,7 @@ source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 16950-1"
 lang: en
 category: [tawhid]
 note: true
-excerpt: "What is the meaning of Tawhid-ul-Rububiyyah and Tawhid-ul-Uluhiyyah?"
+excerpt: "The basic ruling is that Allah (Exalted be He) has created all things in general. He (Exalted be He) says, Allâh is the Creator of all things"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz
