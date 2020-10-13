@@ -6,7 +6,7 @@ hijri: Muharram 02, 1441 AH
 source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 2461-2"
 chapter: "Nullifications of Wudu' (Ablution)"
 lang: en
-category: [taharah, ablution]
+category: [taharah, ablution, salah]
 note: true
 excerpt: "We do not know of any Islamic legal evidence signifying that bleeding from any part of the body other than the vagina invalidates Wudu’ (ablution)."
 muftis:
