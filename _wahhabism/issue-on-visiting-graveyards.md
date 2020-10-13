@@ -3,7 +3,6 @@ layout: blog
 title: "Issue on visiting graveyards"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Muqalat p.28/334"
-category: [sufism, wahhabism]
 hijri: Dhul-Hijjah 20, 1441 AH
 lang: en
 excerpt: "Dear Shaykh, Common people from among the Sufis attend the celebration of the Prophet's birth, believing that these celebrations constitute (true) Islam."
@@ -15,7 +14,7 @@ muftis:
 
 Question: 
 
-Dear Shaykh, Common people from among the Sufis attend the celebration of the Prophet's birth, believing that these celebrations constitute (true) Islam, i.e. they think that this is the core of Islam, religion and worship. They thus travel to shrines and graves believing that this is part of the religion. So, what is the ruling on this? 
+Dear Shaykh, Common people from among [**the Sufis**](/sects/sufism/) attend the celebration of the [Prophet's birth](/mawlids/), believing that these celebrations constitute (true) Islam, i.e. they think that this is the core of Islam, religion and worship. They thus travel to shrines and graves believing that this is part of the religion. So, what is the ruling on this? 
 
 Answer: 
 
