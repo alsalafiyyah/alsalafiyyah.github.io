@@ -3,12 +3,17 @@ layout: audio
 title: "The duty of guiding people to the reality of Tawhid and Shirk"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb of Ibn Baz tape no. 63"
-category: [sufism, binbaz, audios, shirk, tawhid]
+category: [sufism, audios, shiah, shirk, tawhid]
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_412/41211.mp3
 link: https://cutt.ly/0dCGyqq
 hijri: Dhul-Hijjah 18, 1441 AH
-date: 2020/08/8
-shaykhs: Shaykh Abdul-Aziz ibn Baz
+lang: en
+note: false
+excerpt: "It is obligatory that the scholars guide people to the reality of Tawhid (belief in the Oneness of Allah/monotheism) and the reality of Shirk (associating others with Allah in His Divinity or worship), so that these blinded lay people know the falsity of their beliefs."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question:
