@@ -1,65 +1,65 @@
-<div class="box">
+<hr/>
+<dl>
+{% if page.source %}
+  <dt>{{site.data.settings.post.source}}:</dt>
+   <dd>
+    {{ page.source}}
+    {% else %}
+    {{ site.source.name}}
+   </dd>
+{% endif %}
 
-<ul style="list-style: none;">
-
- {% if page.source %}
- <li>
-  <b><i class="fas fa-feather-alt"></i> {{site.data.settings.post.source}}:</b> 
-   {{ page.source}}
-  {% else %}
-   {{ site.source.name}}
- </li>
- {% endif %}
- 
- {% if page.shaykhs %}
-  <li>
-   <b><i class="fas fa-feather-alt"></i> {{site.data.settings.post.muftis}}:</b>
+{% if page.shaykhs %}
+  <dt>{{site.data.settings.post.muftis}}:</dt>
+   <dd>
     {{ page.shaykhs | join: ", "}}
-   {% else %}
+    {% else %}
     {{ site.shaykhs.name | join: ", " }}
-  </li>
- {% endif %}
- 
- {% if page.muftis %}
- <li> <b><i class="fas fa-feather-alt"></i> Muftis:</b>
-  <ul>
+   </dd>
+{% endif %}
+
+{% if page.muftis %}
   {% if page.muftis.chairman %}
-  <li><b>{{site.data.settings.page.chairman}}:</b>
-   <ul>
+  <dt>{{ site.data.settings.page.chairman }}:</dt>
    {% for chairman in page.muftis.chairman %}
-    <li><a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a></li>
+   <dd>
+    <a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">
+     {{ chairman.name }}
+    </a>
+   </dd>
    {% endfor %}
-   </ul>
-  </li>
+   {% else %}
   {% endif %}
-  
   {% if page.muftis.deputy_chairman %}
-  <li><b>{{site.data.settings.page.deputy_chairman}}:</b>
-   <ul>
+  <dt>{{site.data.settings.page.deputy_chairman}}:</dt>
    {% for deputy_chairman in page.muftis.deputy_chairman %}
-    <li><a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a></li>
+   <dd>
+    <a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">
+     {{ deputy_chairman.name }}
+    </a>
+   </dd>
    {% endfor %}
-   </ul>
-  </li>
+   {% else %}
   {% endif %}
-  
   {% if page.muftis.members %}
-  <li><b>{{site.data.settings.page.members}}:</b>
-   <ol>
+  <dt>{{site.data.settings.page.members}}:</dt>
    {% for members in page.muftis.members %}
-    <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
+   <dd>
+    <a title="{{ members.name }}" href="{{ members.url | relative_url }}">
+     {{ members.name }}
+    </a>
+   </dd>
    {% endfor %}
-   </ol>
-  </li>
+   {% else %}
   {% endif %}
   {% if page.muftis.shaykh %}
    {% for shaykh in page.muftis.shaykh %}
-    <li><a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}">{{ shaykh.name }}</a></li>
+    <dt>Shaykh:</dt>
+     <dd>
+      <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}">{{ shaykh.name }}</a></dd>
    {% endfor %}
+   {% else %}
   {% endif %}
-  </ul>
- </li> 
- {% endif %}
-</ul>
+{% endif %}
 
-</div>
+</dl>
