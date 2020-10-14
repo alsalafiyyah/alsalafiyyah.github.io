@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Do Wahhabism criticizes the Prophet's family"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa Shaykh ibn Baz 9/238"
