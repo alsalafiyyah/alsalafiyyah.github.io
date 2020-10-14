@@ -35,7 +35,7 @@ B- As regard to the kinds of Taqlid and the ruling on each category, it is as fo
 
 2- It is impermissible for a person qualified to exercise Ijtihad to follow Taqlid before arriving at the judgment of the detailed juristic issue. This is the view of Al-Shafi'i, Ahmad, and a group of scholars (may Allah be merciful to them). It is the preferable opinion, for the person here is capable of reaching the legal ruling on his own . Hence, it becomes incumbent upon him to employ Ijtihad to find the rulings of Shari'ah. Allah (Exalted be He) states: "**So keep your duty to Allâh and fear Him as much as you can**" [Al-Taghabun: 16]
 
-Furthermore, it is authentically reported that the Prophet (peace be upon him) stated: "When I command you to do anything, do it as much as possible for you." [^1]
+Furthermore, it is authentically reported that the Prophet (peace be upon him) stated: "**When I command you to do anything, do it as much as possible for you.**" [^1]
 
 3- If a person is not qualified to exercise Ijtihad because of his inability to examine evidence and infer judgments, then it is permissible for him to practice Taqlid, as Allah (Exalted be He) says: "**Allâh burdens not a person beyond his scope.**" [Al-Baqarah: 286] 
 
