@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: "Issue on visiting graveyards"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Muqalat p.28/334"
