@@ -9,7 +9,7 @@ chapter: "Knowledge, books"
 lang: en
 category: [jihad, knowledge]
 note: true
-excerpt: "What is the ruling of the Shari`ah (Islamic law) on someone who does not apply the rules of the recitation of the glorious Qur'an? As I do not know where I can learn these rules?"
+excerpt: "What is the ruling of the Shari'ah (Islamic law) on someone who does not apply the rules of the recitation of the glorious Qur'an? As I do not know where I can learn these rules?"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz
@@ -27,7 +27,7 @@ muftis:
 
 Question : 
 
-What is the ruling of the Shari`ah (Islamic law) on someone who does not apply the rules of the recitation of the glorious Qur'an? As I do not know where I can learn these rules? 
+What is the ruling of the Shari'ah (Islamic law) on someone who does not apply the rules of the recitation of the glorious Qur'an? As I do not know where I can learn these rules? 
 
 Answer: 
 
