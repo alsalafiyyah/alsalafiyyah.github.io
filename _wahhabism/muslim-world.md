@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Muslim world is full of many things that contradict the religion of Islam"
 publisher: "alsalafiyyah@icloud.com"
 hijri: Dhul-Hijjah 24, 1441 AH
