@@ -20,7 +20,6 @@ muftis:
   members: 
     - name: Shaykh Abdullah Ibn Ghudayyan
       url: /biography/ghudayyan/
-  members: 
     - name: Shaykh Abdullah Ibn Qa'ud
       url: /biography/qaud/
 ---
