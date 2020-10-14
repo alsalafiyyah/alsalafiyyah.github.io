@@ -1,0 +1,48 @@
+---
+layout: default
+title: "Principles of fiqh"
+author: "Instagram@Alsalafiyyah"
+permalink: /fiqh/principles-of-fiqh/
+---
+
+<ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+  <li itemprop="itemListElement" itemscope
+          itemtype="https://schema.org/ListItem">
+    <a itemprop="item" href="{{ site.url }}"><span itemprop="name">Home</span></a>
+    <meta itemprop="position" content="1" />
+  </li>
+  <li itemprop="itemListElement" itemscope
+          itemtype="https://schema.org/ListItem">
+    <a itemprop="item" href="/fatwas/"><span itemprop="name">Fatwas</span></a>
+    <meta itemprop="position" content="2" />
+  </li>
+  <li itemprop="itemListElement" itemscope
+          itemtype="https://schema.org/ListItem">
+    <a itemprop="item" href="/fiqh/"><span itemprop="name">Fiqh</span></a>
+    <meta itemprop="position" content="3" />
+  </li>
+  <li itemprop="itemListElement" itemscope
+          itemtype="https://schema.org/ListItem">
+    <span itemprop="name" class="active">{{ page.title }}</span>
+    <meta itemprop="position" content="4" />
+  </li>
+</ol>
+
+<article class="post">
+
+<div class="box">
+<h4>Principles of fiqh</h4>
+<ul class="posts">
+  {% for post in site.categories.principle | limit:5 %}
+    {% if post.url %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endif %}
+    {% else %}
+    <p>{{site.data.settings.page.no-fatwas}}</p>
+  {% endfor %}
+  <p><i class="fas fa-arrow-right"></i> <a href="/fiqh/principle-of-fiqh/">View all</a></p>
+</ul>
+</div>
+
+</article>
