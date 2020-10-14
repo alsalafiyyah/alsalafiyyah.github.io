@@ -35,7 +35,9 @@ B- As regard to the kinds of Taqlid and the ruling on each category, it is as fo
 
 Furthermore, it is authentically reported that the Prophet (peace be upon him) stated: "When I command you to do anything, do it as much as possible for you." [^1]
 
-3- If a person is not qualified to exercise Ijtihad because of his inability to examine evidence and infer judgments, then it is permissible for him to practice Taqlid, as Allah (Exalted be He) says: "**Allâh burdens not a person beyond his scope.**" [Al-Baqarah: 286] In addition Allah (Glorified be He) states: "**So ask the people of the Scripture, if you do not know.**" [Al-Nahl: 43] There are many other religious texts indicating the removal of hardship to relieve servants from confusion and false ascription of rulings to Allah ignorantly. 
+3- If a person is not qualified to exercise Ijtihad because of his inability to examine evidence and infer judgments, then it is permissible for him to practice Taqlid, as Allah (Exalted be He) says: "**Allâh burdens not a person beyond his scope.**" [Al-Baqarah: 286] 
+
+In addition Allah (Glorified be He) states: "**So ask the people of the Scripture, if you do not know.**" [Al-Nahl: 43] There are many other religious texts indicating the removal of hardship to relieve servants from confusion and false ascription of rulings to Allah ignorantly. 
 
 4- Following ancestors and leaders in matters violating the Islamic Shari'ah is unlawful according to Ijma' (consensus) of Muslim scholars. There are many religious texts of the Qur'an and the Sunnah that dispraise this kind of Taqlid. Allah (Exalted be He) states: "**When it is said to them: "Follow what Allâh has sent down." They say: "Nay! We shall follow what we found our fathers following." (Would they do that!) even though their fathers did not understand anything nor were they guided?**" [Al-Baqarah: 170] 
 
