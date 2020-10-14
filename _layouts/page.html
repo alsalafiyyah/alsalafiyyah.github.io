@@ -2,11 +2,26 @@
 layout: default
 ---
 
-<article class="post">
+{% if page.date %}
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+ 
 <header class="major">
-  <h3>{{ page.title }}</h3><br/>
-  <span class="date" itemprop="datePublished"><i class="fas fa-feather"></i></span>
+ <meta content='{{ post.date | date_to_xmlschema }}' itemprop='dateModified'/>
+ <span class="date">
+  {% if site.date %}
+   <meta itemprop="datePublished" content="{{ post.date | date_to_xmlschema }}">
+  {% endif %}
+  {% include date.liquid %}
+ </span>
+  <h3 itemprop="name headline">{{ page.title }}</h3>
 </header>
+ 
+  <div itemprop="articleBody">
   {{ content }}
-</article>
+  {% include note.html %}
+  </div>
+ 
+  {% include post-source.liquid %}
 
+</article>
+{% endif %}
