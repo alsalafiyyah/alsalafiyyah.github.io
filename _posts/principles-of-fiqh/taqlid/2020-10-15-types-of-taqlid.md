@@ -7,6 +7,7 @@ source: "Fatawa Al-lajnah Al-Da'imah no. 11296-2"
 lang: en
 category: [madhabs, principle, taqlid]
 note: true
+active: fatwas
 excerpt: "Some scholars defined Taqlid as following a person's religious view without knowing the evidence upon which it is based. Some other scholars said that Taqlid means the acceptance of a person's religious view with no evidence."
 muftis:
   chairman: 
