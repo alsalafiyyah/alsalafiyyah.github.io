@@ -22,7 +22,7 @@ muftis:
 
 Question:
 
-I am a monotheist but my household follow Al-Mirghaniyyah Tariqah (Sufi order) which is known here in Sudan as Al-Khatmiyyah. Since I was guided to monotheism, I started calling my family to follow it but they refuse, as I am the youngest son. Is it permissible for me to leave them and start calling other people? If I do so, will I be among those mentioned in the Ayah (Qur'anic verse), "**O you who believe! Why do you say that which you do not do?**" [Al-Saff: 2] The people I intend to call may say to me: "Go call your household first then call others." 
+I am a monotheist but my household follow [**Al-Mirghaniyyah Tariqah (Sufi order)**](/sects/sufism/) which is known here in Sudan as [**Al-Khatmiyyah**](/sects/sufism/). Since I was guided to monotheism, I started calling my family to follow it but they refuse, as I am the youngest son. Is it permissible for me to leave them and start calling other people? If I do so, will I be among those mentioned in the Ayah (Qur'anic verse), "**O you who believe! Why do you say that which you do not do?**" [Al-Saff: 2] The people I intend to call may say to me: "Go call your household first then call others." 
 
 Answer:
 
