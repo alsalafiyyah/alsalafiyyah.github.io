@@ -20,7 +20,23 @@ active: fatwas
 </ol>
 
 <article class="post">
-   {% include posts.liquid %}
+{% assign posts = site.posts | where: "locale", page.locale %}
+{% for post in posts %}
+{% assign post_url = post.url | relative_url %}
+ <article itemscope itemtype="http://schema.org/Article">
+  <header class="post-header">
+   <a itemprop="url" href="{{ post.url | prepend: site.baseurl }}"><h3><span itemprop="headline name">{{ post.title }}</span></h3></a>
+    <p class="post-meta">
+     <meta itemprop="image" content="./assets/images/img.png" />
+     <meta content='{{ post_date | date_to_xmlschema }}' itemprop='dateModified'/>
+     <b><meta itemprop="datePublished" content="{{ post.date | date_to_xmlschema }}">{{ post.hijri }}</b>
+    </p>
+  </header>
+  <p itemprop="articleBody">
+   {{ post.content | strip_html | truncatewords: 30 }}
+  </p>
+ </article>
+{% endfor %}
 </article>
 <footer>
   <div class="pagination">
