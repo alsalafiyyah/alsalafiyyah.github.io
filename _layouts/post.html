@@ -3,6 +3,8 @@ layout: default
 active: fatwas
 ---
 
+{% assign posts = site.posts | where: "locale", page.locale %}
+{% assign post_url = post.url | relative_url %}
 {% if page.date %}
 <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
   <li itemprop="itemListElement" itemscope
