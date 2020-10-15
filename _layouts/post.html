@@ -3,8 +3,6 @@ layout: default
 active: fatwas
 ---
 
-{% assign posts = site.posts | where: "locale", page.locale %}
-{% if page.uid %}
 {% if page.date %}
 <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
   <li itemprop="itemListElement" itemscope
@@ -44,5 +42,4 @@ active: fatwas
   {% include post-source.liquid %}
 
 </article>
-{% endif %}
 {% endif %}
