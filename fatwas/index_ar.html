@@ -21,6 +21,7 @@ active: fatwas
 
 <article class="post">
 {% assign posts = site.posts | where: "locale", page.locale %}
+{% assign locale = "ar" %}
 {% for post in posts %}
 {% assign post_url = post.url | relative_url %}
  <article itemscope itemtype="http://schema.org/Article">
