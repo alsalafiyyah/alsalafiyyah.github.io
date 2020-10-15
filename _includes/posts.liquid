@@ -1,4 +1,5 @@
-
+{% assign posts = site.posts | where: "locale", page.locale %}
+{% assign locale = "en" %}
 {% for post in paginator.posts %}
  <article itemscope itemtype="http://schema.org/Article">
   <header class="post-header">
