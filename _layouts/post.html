@@ -4,6 +4,7 @@ active: fatwas
 ---
 
 {% if page.date %}
+{% assign posts = site.posts | where: "locale", page.locale %}
 <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
   <li itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
