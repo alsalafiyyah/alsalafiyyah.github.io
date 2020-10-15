@@ -1,12 +1,12 @@
 {% assign posts = site.posts | where: "locale", page.locale %}
-{% assign post_url = post.url | relative_url %}
 {% for post in paginator.posts %}
+{% assign post_url = post.url | relative_url %}
  <article itemscope itemtype="http://schema.org/Article">
   <header class="post-header">
    <a itemprop="url" href="{{ post.url | prepend: site.baseurl }}"><h3><span itemprop="headline name">{{ post.title }}</span></h3></a>
     <p class="post-meta">
      <meta itemprop="image" content="./assets/images/img.png" />
-     <meta content='{{ post.date | date_to_xmlschema }}' itemprop='dateModified'/>
+     <meta content='{{ post_date | date_to_xmlschema }}' itemprop='dateModified'/>
      <b><meta itemprop="datePublished" content="{{ post.date | date_to_xmlschema }}">{{ post.hijri }}</b>
     </p>
   </header>
