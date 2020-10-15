@@ -26,23 +26,5 @@ locale: en
 <footer>
   <div class="pagination">
    {% include pagination.liquid %}
- {% comment %}
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.next_page %}
-  <a class="pagination-button pagination-active next"
-    href="{{ paginator.next_page_path | absolute_url }}">{{ site.data.locales[page.locale].page.prev }}</a>
-  {% else %}
-  <span class="pagination-button">{{ site.data.locales[page.locale].page.prev }}</span>
-  {% endif %}
-
-  {% if paginator.previous_page %}
-  <a class="pagination-button pagination-active"
-    href="{{ paginator.previous_page_path | absolute_url }}">{{ site.data.locales[page.locale].page.next }}</a>
-  {% else %}
-  <span class="pagination-button">{{ site.data.locales[page.locale].page.next }}</span>
-  {% endif %}
- </div>
-{% endcomment %}
   </div>
 </footer>
