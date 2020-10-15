@@ -62,7 +62,26 @@ manifest_lang: en
 manifest_background_color: "#fff"
 manifest_short_name:
 manifest_display: standalone
-      
+
+defaults:
+  # default en
+  - values:
+      locale: en
+  # config posts
+  - scope:
+      path: "_posts/**"
+      type: posts
+    values:
+      layout: post
+      permalink: /:title
+  - scope:
+      path: _posts/ar/**
+      type: posts
+    values:
+      layout: post
+      locale: ar
+      permalink: /ar/:title
+
 collections:
   refutals:
     output: true
