@@ -2,13 +2,20 @@
 layout: post
 title: "Ruling on attending Buddhist ceremonies"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Daimah no. 6397"
-category: [walabara, disbelievers]
-hijri: Dhu al-Hijjah 6, 1441 AH
-date: 2020/07/27
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdullah ibn Qa'ud
+source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 6397"
+category: [walabara]
+hijri: Dhul-Hijjah 6, 1441 AH
+lang: en
+uid: ruling-on-attending-buddhist-ceremonies
+note: true
+excerpt: "It is not permissible to do any of the things mentioned. In fact, doing them is Haram (prohibited), as it is sharing in their disbelief and helping them in what is not permissible in Islam."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz Ibn Baz
+      url: /biography/binbaz/
+  members: 
+    - name: Shaykh Abdullah Ibn Qa'ud
+      url: /biography/qaud/
 ---
 
 Question: 
@@ -23,6 +30,3 @@ What is the ruling on Muslim's taking part in the celebrations held by the Buddh
 Answer:
 
 It is not permissible to do any of the things mentioned. In fact, doing them is Haram (prohibited), as it is sharing in their disbelief and helping them in what is not permissible in Islam.
-
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
-
