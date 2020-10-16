@@ -2,15 +2,25 @@
 layout: post
 title: "Ruling on those contradicts decisive texts from the Qur'an and authentic Hadith"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Daimah no. 6833"
-category: [walabara, creeds]
-hijri: Dhu al-Hijjah 5, 1441 AH
-date: 2020/07/26
-shaykhs: 
- - Shaykh Ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 6833"
+category: [walabara]
+hijri: Dhul-Hijjah 5, 1441 AH
+lang: en
+loacle: en
+note: true
+excerpt: "It is unlawful to support or ally oneself with him. It is the duty of the people qualified to advise and instruct others to admonish and guide him to the truth and establish against him the Evidence from Allah."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Abdullah ibn Qa'ud
+      url: /biography/qaud/
 ---
 
 Question: 
@@ -24,5 +34,3 @@ Is supporting or allying oneself with such a person permissible or prohibited in
 Answer:
 
 If the reality is as you mentioned, then the person in question who has such a character is a Kafir (disbeliever), whose Kufr (disbelief) has cast him outside the pale of Islam. It is unlawful to support or ally oneself with him. It is the duty of the people qualified to advise and instruct others to admonish and guide him to the truth and establish against him the Evidence from Allah. If he persists in his aberration, the Muslim ruler should inflict on him the punishment laid down by Shari‘ah.
-
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
