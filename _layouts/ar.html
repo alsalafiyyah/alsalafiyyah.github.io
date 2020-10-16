@@ -1,0 +1,42 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="{{ page.locale }}" itemscope itemtype="http://schema.org/WebPage" itemid="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+{% include head.html %}
+<body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}">
+ <div id="wrapper" class="fade-in">
+  <header id="header">
+   <a href="{{ site.url }}" class="logo">
+   {{ site.title }}
+   </a>
+ </header>
+ {% include nav.liquid %}
+ <div id="main">
+   {{ content }}
+ </div>
+<!-- Footer -->
+<footer id="footer">
+<section>
+ <div class="fields">
+  {% include search-form.liquid %}							
+ </div>
+</section>
+<section>
+   <h3>Social</h3>
+   <ul class="icons alt">
+      <li><a target="_blank" rel="nofollow noopener" href="https://instagram.com/Alsalafiyyah" class="icon brands alt fab fa-instagram"><span class="label">Instagram</span></a></li>
+   </ul>
+</section>
+</footer>
+<!-- Copyright -->
+<div id="copyright">
+   <ul>
+      <li>&copy; <a rel="nofollow noopener" href="https://instagram.com/Alsalafiyyah" target="_blank">Instagram@Alsalafiyyah</a></li>
+   </ul>
+</div>
+  </div>
+ {% include scripts.html %}
+ </body>
+</html>
