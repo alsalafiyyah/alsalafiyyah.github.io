@@ -1,5 +1,21 @@
 @import url(https://fonts.googleapis.com/earlyaccess/notonaskharabic.css);
 @import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
+#footer > div {
+			-moz-flex-basis: 50%;
+			-webkit-flex-basis: 50%;
+			-ms-flex-basis: 50%;
+			flex-basis: 50%;
+			-moz-flex-grow: 1;
+			-webkit-flex-grow: 1;
+			-ms-flex-grow: 1;
+			flex-grow: 1;
+			-moz-flex-shrink: 1;
+			-webkit-flex-shrink: 1;
+			-ms-flex-shrink: 1;
+			flex-shrink: 1;
+			padding: 4rem 4rem 2rem 4rem ;
+			border-left: solid 2px #e2e2e2;
+		}
 
 ol.breadcrumb {
   padding: 0px 16px 24px;
