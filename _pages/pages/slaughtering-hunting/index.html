@@ -29,7 +29,7 @@ permalink: /hunting/
           {% if post.url %}<a title="{{ post.title }}" href="{{ post.url }}">{{ post.title }}</a>{% endif %}
         </td>
       </tr>
-      <p{{site.data.settings.page.no-fatwas}}</p>
+      {{site.data.settings.page.no-fatwas}}
       {%- endif %}
      {% endfor %}
     </tbody>
