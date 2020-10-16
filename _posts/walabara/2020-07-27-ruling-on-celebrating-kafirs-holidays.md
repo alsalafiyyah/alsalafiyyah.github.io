@@ -3,9 +3,11 @@ layout: post
 title: "Ruling on celebrating holidays of Non-Muslims"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Daimah no. 16419-1"
-category: [walabara, mawlids, bidah]
+category: [walabara, mawlids]
 hijri: Dhul-Hijjah 6, 1441 AH
 lang: en
+note: true
+uid: ruling-on-celebrating-kafirs-holidays
 excerpt: "What is the ruling on Muslims who celebrate holidays of non-Muslims that Allah did not sanction, such as the Mother's Day, Sham Al-Nasim and Christmas?"
 muftis:
   chairman: 
