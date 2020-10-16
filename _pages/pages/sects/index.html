@@ -1,6 +1,6 @@
 ---
 title: Groups and Sects
-layout: default
+layout: category
 active: fatwas
 permalink: /sects/
 ---
@@ -28,12 +28,6 @@ permalink: /sects/
  <div class="col-6 col-12-small">
 <div class="table-wrapper" itemscope itemtype="https://schema.org/Table">
   <table>
-    <thead>
-      <tr>
-        <th>Date</th>
-        <th>Title</th>
-      </tr>
-    </thead>
     <tbody>
       {% for post in site.categories.sects %}
       <tr>
@@ -43,7 +37,7 @@ permalink: /sects/
         </td>
       </tr>
       {% else %}
-      <p{{site.data.settings.page.no-fatwas}}</p>
+      {{site.data.settings.page.no-fatwas}}
       {% endfor %}
     </tbody>
   </table>
@@ -60,7 +54,7 @@ permalink: /sects/
     </li>
     {% endif %}
     {% else %}
-    <p>{{site.data.settings.page.no-fatwas}}</p>
+    {{site.data.settings.page.no-fatwas}}
   {% endfor %}
   <p><i class="fas fa-arrow-right"></i> <a href="/sects/sufism/">View all</a></p>
 </ul>
@@ -75,7 +69,7 @@ permalink: /sects/
     </li>
     {% endif %}
     {% else %}
-    <p>{{site.data.settings.page.no-fatwas}}</p>
+    {{site.data.settings.page.no-fatwas}}
   {% endfor %}
   <p><i class="fas fa-arrow-right"></i> <a href="/shiah/">View all</a></p>
 </ul>
@@ -90,7 +84,7 @@ permalink: /sects/
     </li>
     {% endif %}
     {% else %}
-    <p>{{site.data.settings.page.no-fatwas}}</p>
+    {{site.data.settings.page.no-fatwas}}
   {% endfor %}
 </ul>
 </div>
@@ -104,7 +98,7 @@ permalink: /sects/
     </li>
     {% endif %}
     {% else %}
-    <p>{{site.data.settings.page.no-fatwas}}</p>
+    {{site.data.settings.page.no-fatwas}}
   {% endfor %}
 </ul>
 </div>
@@ -118,7 +112,7 @@ permalink: /sects/
     </li>
     {% endif %}
     {% else %}
-    <p>{{site.data.settings.page.no-fatwas}}</p>
+    {{site.data.settings.page.no-fatwas}}
   {% endfor %}
 </ul>
 </div>
@@ -132,7 +126,7 @@ permalink: /sects/
     </li>
     {% endif %}
     {% else %}
-    <p>{{site.data.settings.page.no-fatwas}}</p>
+    {{site.data.settings.page.no-fatwas}}
   {% endfor %}
 </ul>
 </div>
@@ -146,7 +140,7 @@ permalink: /sects/
     </li>
     {% endif %}
     {% else %}
-    <p>{{site.data.settings.page.no-fatwas}}</p>
+    {{site.data.settings.page.no-fatwas}}
   {% endfor %}
 </ul>
 </div>
@@ -160,7 +154,7 @@ permalink: /sects/
     </li>
     {% endif %}
     {% else %}
-    <p>{{site.data.settings.page.no-fatwas}}</p>
+    {{site.data.settings.page.no-fatwas}}
   {% endfor %}
 </ul>
 </div>
@@ -174,7 +168,7 @@ permalink: /sects/
     </li>
     {% endif %}
     {% else %}
-    <p>{{site.data.settings.page.no-fatwas}}</p>
+    {{site.data.settings.page.no-fatwas}}
   {% endfor %}
   <p><i class="fas fa-arrow-right"></i> <a href="/sects/non-muslim/">View all</a></p>
 </ul>
@@ -182,4 +176,5 @@ permalink: /sects/
   </div>
   
 </div>
+  <hr/><p>last updated at: {{ site.time }}</p>
 </article>
