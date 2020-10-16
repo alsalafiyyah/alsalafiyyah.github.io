@@ -22,7 +22,6 @@ permalink: /hunting/
   <table>
     <tbody>
      {% for post in site.categories.slaughtering %}
-      {% if site.categories == empty -%}
       <tr>
         <td>{{ post.hijri }}</td>
         <td>
@@ -30,7 +29,6 @@ permalink: /hunting/
         </td>
       </tr>
       {{site.data.settings.page.no-fatwas}}
-      {%- endif %}
      {% endfor %}
     </tbody>
   </table>
