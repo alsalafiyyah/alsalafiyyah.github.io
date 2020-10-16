@@ -9,15 +9,6 @@ permalink: /hunting/
 
 <article>
 
-  {% for post in site.categories.slaughtering %}
-    {{ post.title }}
-    {% if post.content == "" or post.content == nil or post.content == blank %}
-        <p>Nothing here.</p>
-    {% else %}
-        {{ post.content }}
-    {% endif %}
-{% endfor %}
-  
 <div class="table-wrapper" itemscope itemtype="https://schema.org/Table">
   <table>
     <tbody>
@@ -28,6 +19,7 @@ permalink: /hunting/
           {% if post.url %}<a title="{{ post.title }}" href="{{ post.url }}">{{ post.title }}</a>{% endif %}
         </td>
       </tr>
+      {% else %}
       {{site.data.settings.page.no-fatwas}}
      {% endfor %}
     </tbody>
