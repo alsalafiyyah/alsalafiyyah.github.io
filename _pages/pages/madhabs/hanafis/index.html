@@ -1,6 +1,6 @@
 ---
 title: Hanafis
-layout: default
+layout: category
 active: madhabs
 permalink: /madhabs/hanafis/
 ---
@@ -40,9 +40,10 @@ permalink: /madhabs/hanafis/
         </td>
       </tr>
       {% else %}
-      <p{{site.data.settings.page.no-fatwas}}</p>
+      {{site.data.settings.page.no-fatwas}}
       {% endfor %}
     </tbody>
   </table>
 </div>
+  <hr/><p>last updated at: {{ site.time }}</p>
 </article>
