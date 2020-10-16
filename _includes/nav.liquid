@@ -1,4 +1,7 @@
 <nav id="nav" role="navigation" itemprop="hasPart" itemscope itemtype="http://schema.org/SiteNavigationElement">
+{% if page.locale == 'ar' %}
+
+ {% else %}
  <ul class="links" role="menubar" aria-activedescendant="">
   {% for item in site.data.settings.sidebar_menu %}
    {% if {{page.active}} == {{item.active}} %}
@@ -12,4 +15,6 @@
    {% endif %}
   {% endfor %}
  </ul>
+{% endif %}
+
 </nav>
