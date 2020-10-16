@@ -2,11 +2,17 @@
 layout: post
 title: "Ruling on loyalty to the Mushrik family"
 publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat 28/239"
-category: [walabara, creeds, ibnbaz]
-hijri: Dhu al-Hijjah 5, 1441 AH
-date: 2020/07/26
-shaykhs: Shaykh Ibn Baz
+source: "Majmu' Fatawa wa Maqalat p.28/239"
+category: [walabara]
+hijri: Dhul-Hijjah 5, 1441 AH
+lang: en
+note: false
+uid: ruling-on-royalty-to-mushrik-family
+excerpt: "If one knows true Islam and Allah helps him accept it, one should not be loyal to people of Shirk (ascribing partners to Allah in worship) nor be endeared to them even if they are the closest relatives."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz Ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question: 
