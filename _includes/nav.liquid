@@ -2,7 +2,7 @@
 {% if page.locale == 'ar' %}
 
  {% else %}
- <ul class="links" role="menubar" aria-activedescendant="">
+ <ul class="links" role="menubar">
   {% for item in site.data.settings.sidebar_menu %}
    {% if {{page.active}} == {{item.active}} %}
    <li class="active" role="presentation" itemprop="hasPart" itemscope itemtype="https://schema.org/SiteNavigationElement">
