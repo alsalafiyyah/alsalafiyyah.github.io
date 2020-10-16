@@ -82,7 +82,7 @@
 
 {% if page.date %}
 <meta content='{{ page.date | date_to_xmlschema }}' itemprop='dateModified'/>
-   <dt><span id='last-modified'></span></dt>
+   <dt><span id='last-modified' itemprop='dateModified'></span></dt>
 {% endif %}
    <dt>
     <a href="mailto:alsalafiyah@icloud.com?subject=Report&body={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}">
