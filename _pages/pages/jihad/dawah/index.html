@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: category
 title: "Da'wah (Calling to Islam)"
 author: "Instagram@Alsalafiyyah"
 permalink: /jihad/dawah/
@@ -40,9 +40,10 @@ permalink: /jihad/dawah/
         </td>
       </tr>
       {% else %}
-      <p{{site.data.settings.page.no-fatwas}}</p>
+       {{site.data.settings.page.no-fatwas}}
       {% endfor %}
     </tbody>
   </table>
 </div>
+  <hr/><p>last updated at: {{ site.time }}</p>
 </article>
