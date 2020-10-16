@@ -8,6 +8,9 @@ permalink: /hunting/
 ---
 
 <article>
+ {% if page.categories == empty -%}
+  <p>This page has no category.</p>
+  {% else %}
 <div class="table-wrapper" itemscope itemtype="https://schema.org/Table">
   <table>
     <tbody>
@@ -24,5 +27,6 @@ permalink: /hunting/
     </tbody>
   </table>
 </div>
+ {%- endif %}
  <p>last updated at: {{ site.time }}</p>
 </article>
