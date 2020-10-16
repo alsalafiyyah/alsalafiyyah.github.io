@@ -43,7 +43,7 @@ In addition Allah (Glorified be He) states: "**So ask the people of the Scriptur
 
 4- Following ancestors and leaders in matters violating the Islamic Shari'ah is unlawful according to Ijma' (consensus) of Muslim scholars. There are many religious texts of the Qur'an and the Sunnah that dispraise this kind of Taqlid. Allah (Exalted be He) states: "**When it is said to them: "Follow what Allâh has sent down." They say: "Nay! We shall follow what we found our fathers following." (Would they do that!) even though their fathers did not understand anything nor were they guided?**" [Al-Baqarah: 170] 
 
-Allah also says: "**But no, by your Lord, they can have no Faith, until they make you (O Muhammad صلى الله عليه وسلم) judge in all disputes between them, and find in themselves no resistance against your decisions, and accept (them) with full submission.**" [Al-Nsa: 65]
+Allah also says: "**But no, by your Lord, they can have no Faith, until they make you (O Muhammad صلى الله عليه وسلم) judge in all disputes between them, and find in themselves no resistance against your decisions, and accept (them) with full submission.**" [Al-Nisa: 65]
 
 He (Exalted be He) states: "**It is not for a believer, man or woman, when Allâh and His Messenger have decreed a matter that they should have any option in their decision.**" [Al-Ahzab: 36] 
 
