@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: category
 title: "Jihad"
 author: "Instagram@Alsalafiyyah"
 permalink: /jihad/
@@ -33,7 +33,7 @@ permalink: /jihad/
     </li>
     {% endif %}
     {% else %}
-    <p>{{site.data.settings.page.no-fatwas}}</p>
+     {{site.data.settings.page.no-fatwas}}
   {% endfor %}
   <p><i class="fas fa-arrow-right"></i> <a href="/jihad/hisbah/">View all</a></p>
 </ul>
@@ -48,7 +48,7 @@ permalink: /jihad/
     </li>
     {% endif %}
     {% else %}
-    <p>{{site.data.settings.page.no-fatwas}}</p>
+     {{site.data.settings.page.no-fatwas}}
   {% endfor %}
   <p><i class="fas fa-arrow-right"></i> <a href="/jihad/knowledge/">View all</a></p>
 </ul>
@@ -63,10 +63,10 @@ permalink: /jihad/
     </li>
     {% endif %}
     {% else %}
-    <p>{{site.data.settings.page.no-fatwas}}</p>
+    {{site.data.settings.page.no-fatwas}}
   {% endfor %}
   <p><i class="fas fa-arrow-right"></i> <a href="/jihad/hijrah/">View all</a></p>
 </ul>
 </div>
-  
+  <hr/><p>last updated at: {{ site.time }}</p>
 </article>
