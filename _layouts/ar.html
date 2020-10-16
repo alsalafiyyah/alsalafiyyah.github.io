@@ -25,8 +25,18 @@ layout: compress
 <!-- Footer -->
 <footer id="footer">
 <section>
- <div class="fields">
-  {% include search-form.liquid %}							
+ <div class="fields">			
+{% if page.locale == 'ar' %}
+<div class="mysearch">
+<meta itemprop="url" content="https://alsalafiyyah.github.io/"/>
+<form action="{{ "/search" | relative_url }}" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction">
+ <meta itemprop="target" content="https://alsalafiyyah.github.io/search?q=salaf"/>
+ <input itemprop="query-input" class="search_input" id="tipue_search_input" type="text" name="q" placeholder="بحث" pattern=".{3,}" title="At least 3 characters" required/>
+</form>
+</div>
+ {% else %}
+  {% include search-form.liquid %}
+{% endif %}
  </div>
 </section>
 <section>
