@@ -40,6 +40,7 @@ permalink: /aqidah/walabara/
           {% if post.url %}<a title="{{ post.title }}" href="{{ post.url }}">{{ post.title }}</a>{% endif %}
         </td>
       </tr>
+      {% else %}{{ site.data.settings.page.no-fatwas }}
       {% endfor %}
     </tbody>
   </table>
