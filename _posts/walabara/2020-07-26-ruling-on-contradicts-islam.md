@@ -8,6 +8,7 @@ hijri: Dhul-Hijjah 5, 1441 AH
 lang: en
 loacle: en
 note: true
+uid: ruling-on-contradicts-islam
 excerpt: "It is unlawful to support or ally oneself with him. It is the duty of the people qualified to advise and instruct others to admonish and guide him to the truth and establish against him the Evidence from Allah."
 muftis:
   chairman: 
