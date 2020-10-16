@@ -1,11 +1,8 @@
-{% if locale == "" %}
-{% assign locale = "en" %}
-{% endif %}
-{% assign paginator.posts = site.posts | where: "locale", page.locale %}
 {% for post in paginator.posts %}
  <article itemscope itemtype="http://schema.org/Article">
   <header class="post-header">
-   <a itemprop="url" href="{{ post.url | prepend: site.baseurl }}"><h3><span itemprop="headline name">{{ post.title }}</span></h3></a>
+   <a itemprop="url" href="{{ post.url | prepend: site.baseurl }}">
+   <h2><span itemprop="headline name">{{ post.title }}</span></h2></a>
     <p class="post-meta">
      <meta itemprop="image" content="./assets/images/img.png" />
      <meta content='{{ post_date | date_to_xmlschema }}' itemprop='dateModified'/>
