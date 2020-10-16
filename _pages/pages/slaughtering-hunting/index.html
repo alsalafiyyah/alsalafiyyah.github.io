@@ -8,25 +8,24 @@ permalink: /hunting/
 ---
 
 <article>
- {% if site.categories == empty -%}
-  <p>This page has no category.</p>
-  {% else %}
+
 <div class="table-wrapper" itemscope itemtype="https://schema.org/Table">
   <table>
     <tbody>
-      {% for post in site.categories.slaughtering %}
+     {% for post in site.categories.slaughtering %}
+      {% if site.categories == empty -%}
       <tr>
         <td>{{ post.hijri }}</td>
         <td>
           {% if post.url %}<a title="{{ post.title }}" href="{{ post.url }}">{{ post.title }}</a>{% endif %}
         </td>
       </tr>
-      {% else %}
       <p{{site.data.settings.page.no-fatwas}}</p>
-      {% endfor %}
+      {%- endif %}
+     {% endfor %}
     </tbody>
   </table>
 </div>
- {%- endif %}
- <p>last updated at: {{ site.time }}</p>
+
+ <p>Last updated at: {{ site.time }}</p>
 </article>
