@@ -8,6 +8,7 @@ hijri: Dhul-Hijjah 5, 1441 AH
 lang: en
 locale: en
 note: true
+uid: ruling-on-attending-mushrik-weddings
 excerpt: "It is not permissible to share in their (Disbelievers) occasions, which involve Shirk (associating others with Allah in His Divinity or worship) or Bid'ah (innovation in Islam)."
 muftis:
   chairman: 
