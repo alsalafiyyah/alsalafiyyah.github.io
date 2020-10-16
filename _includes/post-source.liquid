@@ -81,7 +81,7 @@
 {% include share.html %}
 
 {% if page.date %}
-<meta content='{{ page.date | date_to_xmlschema }}' itemprop='dateModified'/>
+<meta content='{{ site.time }}' itemprop='dateModified'/>
    <dt><span id='last-modified' itemprop='dateModified'></span></dt>
 {% endif %}
    <dt>
