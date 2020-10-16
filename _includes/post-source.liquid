@@ -62,6 +62,10 @@
    {% else %}
   {% endif %}
 {% endif %}
+<dt>Published on this site:</dt>
+<dd>
+ {% if page.hijri %}{{ page.hijri }}{% else %}{{ site.hijri.name }}{% endif %} ( {{ page.date | date: '%B %d, %Y' }} )
+</dd>
 
 {% include share.html %}
 
