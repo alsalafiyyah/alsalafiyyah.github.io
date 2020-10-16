@@ -9,8 +9,8 @@ layout: compress
  <div id="wrapper" class="fade-in">
   <header id="header">
    {% if page.locale == 'ar' %}
-    <a href="{{ site.url }}" class="logo">
-    السلفية
+    <a href="{{ site.baseurl }}{{ site.data.locales[page.locale].blog.site_url }}" class="logo">
+    {{ site.data.locales[page.locale].blog.title }}
     </a>
     {% else %}
     <a href="{{ site.url }}" class="logo">
