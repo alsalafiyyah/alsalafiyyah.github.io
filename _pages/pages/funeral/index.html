@@ -1,6 +1,6 @@
 ---
 title: Funerals
-layout: default
+layout: category
 active: funerals
 permalink: /funerals/
 ---
@@ -36,9 +36,10 @@ permalink: /funerals/
         </td>
       </tr>
       {% else %}
-      <p{{site.data.settings.page.no-fatwas}}</p>
+       {{site.data.settings.page.no-fatwas}}
       {% endfor %}
     </tbody>
   </table>
 </div>
+<hr/><p>last updated at: {{ site.time }}</p>
 </article>
