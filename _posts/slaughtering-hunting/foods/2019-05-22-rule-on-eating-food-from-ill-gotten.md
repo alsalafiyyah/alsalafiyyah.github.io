@@ -9,7 +9,7 @@ category: [foods, hunting]
 note: true
 book: Slaughtering and Hunting
 chapter: food
-excerpt: "Eating with one's fingers or using spoons is a part of customs. It was the guidance of the Prophet (peace be upon him) that he used to eat with three fingers."
+excerpt: " It is obligatory for a Muslim to try his best to adopt what is lawful in his food, drink, and clothing."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz
@@ -28,15 +28,17 @@ Question 1:
 
 When my brothers and I earn some money, we give it to my father to meet the needs of the family for food, drink, and the like. Praise be to Allah, I try my best to earn my Rizq (sustenance) through lawful channels, but I am not sure whether my brothers' sources of Rizq are purely lawful, unlawful, or mixed. Actually, they do not care about the issue of lawfulness and prohibition in their life. I think that they will not refrain from ill-gotten money if they find a chance to obtain it. What therefore is the ruling on eating and drinking with them? In other words, what is the ruling on the food and drink bought with our mixed money? 
 
-Question 2: My work necessitates that I have lunch at my employers' expense, who takes interest-based loans from banks to build ships and fund other projects. What is the ruling on this food? 
+Question 2: 
+
+My work necessitates that I have lunch at my employers' expense, who takes interest-based loans from banks to build ships and fund other projects. What is the ruling on this food? 
 
 Answer:
 
-It is obligatory for a Muslim to try his best to adopt what is lawful in his food, drink, and clothing, because the Prophet (peace be upon him) said to Sa'd ibn Abu Waqqas: "**If you earn your money lawfully, your supplication will be answered.**"
+It is obligatory for a Muslim to try his best to adopt what is lawful in his food, drink, and clothing, because the Prophet (peace be upon him) said to Sa'd ibn Abu Waqqas: "**If you earn your money lawfully, your supplication will be answered.**" [^1]
 
-It is authentically reported in Sahih Muslim that the Prophet (peace be upon him) said: "**Allah is good and accepts nothing but what is good. Indeed, Allah commands the believers with what He commands the Messengers and says: O (you) Messengers! Eat of the Tayyibât [all kinds of Halâl foods which Allâh has made lawful (meat of slaughtered eatable animals, milk products, fats, vegetables, fruits, etc.] and do righteous deeds. Verily! I am Well-Acquainted with what you do. He also says: O you who believe (in the Oneness of Allâh - Islâmic Monotheism)! Eat of the lawful things that We have provided you with, and be grateful to Allâh, if it is indeed He Whom you worship. Then, he mentioned a man who had traveled on a long journey, his hair disheveled and discolored with dust and was raising his hands to the sky saying ‘O Lord! O Lord!’ but his food is unlawful, his drink is unlawful, his clothing is unlawful and he grew on what is unlawful. How then can his supplications be answered?**” 
+It is authentically reported in Sahih Muslim that the Prophet (peace be upon him) said: "**Allah is good and accepts nothing but what is good. Indeed, Allah commands the believers with what He commands the Messengers and says: O (you) Messengers! Eat of the Tayyibât [all kinds of Halâl foods which Allâh has made lawful (meat of slaughtered eatable animals, milk products, fats, vegetables, fruits, etc.] and do righteous deeds. Verily! I am Well-Acquainted with what you do. He also says: O you who believe (in the Oneness of Allâh - Islâmic Monotheism)! Eat of the lawful things that We have provided you with, and be grateful to Allâh, if it is indeed He Whom you worship. Then, he mentioned a man who had traveled on a long journey, his hair disheveled and discolored with dust and was raising his hands to the sky saying ‘O Lord! O Lord!’ but his food is unlawful, his drink is unlawful, his clothing is unlawful and he grew on what is unlawful. How then can his supplications be answered?**” [^2]
 
-The Prophet (peace be upon him) said: "**Leave what causes you doubt and turn to what does not cause you doubt.**"
+The Prophet (peace be upon him) said: "**Leave what causes you doubt and turn to what does not cause you doubt.**" [^3]
 
 There is no harm for you to remain with your father and brothers and eat from their earnings, as long as you do not know that their earning is prohibited. You will reap much goodness by remaining together with them. If your brothers committed something that Allah (Exalted be He) prohibited, it would be obligatory for you to advise them and instruct them to do good, hoping that Allah (Exalted be He) will guide them through you.
 
