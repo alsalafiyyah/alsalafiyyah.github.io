@@ -1,6 +1,6 @@
 ---
 title: Sufism
-layout: default
+layout: category
 active: sufism
 permalink: /sects/sufism/
 ---
@@ -46,9 +46,10 @@ permalink: /sects/sufism/
         </td>
       </tr>
       {% else %}
-      <p{{site.data.settings.page.no-fatwas}}</p>
+      {{site.data.settings.page.no-fatwas}}
       {% endfor %}
     </tbody>
   </table>
 </div>
+  <hr/><p>last updated at: {{ site.time }}</p>
 </article>
