@@ -1,18 +1,12 @@
 ---
 title: The Laqit (Foundling)
-layout: page
+layout: category
 permalink: /foundling/
 ---
 
 <article>
 <div class="table-wrapper" itemscope itemtype="https://schema.org/Table">
   <table>
-    <thead>
-      <tr>
-        <th>Date</th>
-        <th>Title</th>
-      </tr>
-    </thead>
     <tbody>
       {% for post in site.categories.foundling %}
       <tr>
@@ -22,9 +16,10 @@ permalink: /foundling/
         </td>
       </tr>
       {% else %}
-      <p{{site.data.settings.page.no-fatwas}}</p>
+      {{site.data.settings.page.no-fatwas}}
       {% endfor %}
     </tbody>
   </table>
 </div>
+  <hr/><p>last updated at: {{ site.time }}</p>
 </article>
