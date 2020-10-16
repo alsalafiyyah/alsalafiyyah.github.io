@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: category
 title: " Waqf (Endowment)"
 author: "Instagram@Alsalafiyyah"
 permalink: /waqf/
@@ -8,12 +8,6 @@ permalink: /waqf/
 <article>
 <div class="table-wrapper" itemscope itemtype="https://schema.org/Table">
   <table>
-    <thead>
-      <tr>
-        <th>Date</th>
-        <th>Title</th>
-      </tr>
-    </thead>
     <tbody>
       {% for post in site.categories.waqf %}
       <tr>
@@ -23,9 +17,10 @@ permalink: /waqf/
         </td>
       </tr>
       {% else %}
-      <p{{site.data.settings.page.no-fatwas}}</p>
+      {{site.data.settings.page.no-fatwas}}
       {% endfor %}
     </tbody>
   </table>
 </div>
+  <hr/><p>last updated at: {{ site.time }}</p>
 </article>
