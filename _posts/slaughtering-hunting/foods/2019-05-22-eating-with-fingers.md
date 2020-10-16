@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Is eating with fingers as a custom or Sunnah"
+title: "Eating with fingers as a custom or Sunnah"
 hijri: Ramadan 17, 1440 AH
 source: "Fatawa Al-Lajnah Al-Da'mah of KSA no. 8107 "
 lang: en
