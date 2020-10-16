@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: category
 title: "Inheritance"
 author: "Instagram@Alsalafiyyah"
 permalink: /inheritance/
@@ -8,12 +8,6 @@ permalink: /inheritance/
 <article>
 <div class="table-wrapper" itemscope itemtype="https://schema.org/Table">
   <table>
-    <thead>
-      <tr>
-        <th>Date</th>
-        <th>Title</th>
-      </tr>
-    </thead>
     <tbody>
       {% for post in site.categories.inheritance %}
       <tr>
@@ -23,9 +17,10 @@ permalink: /inheritance/
         </td>
       </tr>
       {% else %}
-      <p{{site.data.settings.page.no-fatwas}}</p>
+      {{site.data.settings.page.no-fatwas}}
       {% endfor %}
     </tbody>
   </table>
 </div>
+  <hr/><p>last updated at: {{ site.time }}</p>
 </article>
