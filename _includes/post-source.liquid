@@ -1,6 +1,9 @@
 <hr/>
+
 <footer>
-<dl>
+<div class="row">
+ <div class="col-6 col-12-small">
+  <dl>
 {% if page.source %}
   <dt>{{site.data.settings.post.source}}:</dt>
    <dd>
@@ -9,7 +12,6 @@
     {{ site.source.name}}
    </dd>
 {% endif %}
-
 {% if page.shaykhs %}
   <dt>{{site.data.settings.post.muftis}}:</dt>
    <dd>
@@ -18,7 +20,6 @@
     {{ site.shaykhs.name | join: ", " }}
    </dd>
 {% endif %}
-
 {% if page.muftis %}
   {% if page.muftis.chairman %}
   <dt>{{ site.data.settings.page.chairman }}:</dt>
@@ -62,6 +63,11 @@
    {% else %}
   {% endif %}
 {% endif %}
+  </dl>
+ </div>
+
+ <div class="col-6 col-12-small">
+  <dl>
 <dt>Published on this site:</dt>
 <dd>
  {% if page.hijri %}{{ page.hijri }}{% else %}{{ site.hijri.name }}{% endif %} ( {{ page.date | date: '%B %d, %Y' }} )
@@ -77,6 +83,7 @@
      <i class="fas fa-bug"></i> Report a mistake
     </a>
    </dt>
-    
-</dl>
+  </dl>
+ </div>
+</div>
 </footer>
