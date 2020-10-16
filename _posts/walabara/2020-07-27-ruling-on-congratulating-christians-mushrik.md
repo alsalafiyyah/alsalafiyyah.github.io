@@ -2,10 +2,12 @@
 layout: post
 title: "Ruling on congratulating a Christian teacher or who commits acts of Shirk"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Daimah no. 18074-10"
+source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 18074-10"
 category: [walabara, mawlids]
 hijri: Dhul-Hijjah 6, 1441 AH
 lang: en
+note: true
+uid: ruling-on-congratulating-christians-mushrik
 excerpt: "It is not permissible either to attend the Christian festivals or congratulate them on such occasions; for this will be a sort of being pleased with what they do, flattering them for their falsehood and helping them in sin and transgression."
 muftis:
   chairman: 
