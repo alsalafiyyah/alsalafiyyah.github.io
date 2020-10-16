@@ -1,3 +1,6 @@
+@import url(https://fonts.googleapis.com/earlyaccess/notonaskharabic.css);
+@import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
+
 ol.breadcrumb {
   padding: 0px 16px 24px;
   list-style: none;
@@ -60,6 +63,24 @@ ol.breadcrumb li a:hover {
 }
 .answer {
   margin-bottom: 18px;
+}
+
+.ar {
+ direction: rtl! important;
+ text-align: right! important;
+ font-family: 'Noto Naskh Arabic', serif; 
+ font-size: 18px;
+}
+.ar p {
+ direction: rtl! important;
+ text-align: right! important;
+ font-family: 'Noto Naskh Arabic', serif; 
+}
+.ar h3 {
+ font-family: 'Cairo', sans-serif;
+}
+.ar h1 {
+ font-family: 'Cairo', sans-serif;
 }
 
 @media screen and (max-width: 620px) {
