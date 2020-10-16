@@ -2,10 +2,12 @@
 layout: post
 title: "Ruling on Celebrating Christmas"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Daimah no. 8848"
+source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 8848"
 category: [walabara, mawlids]
-hijri: Dhu al-Hijjah 6, 1441 AH
+hijri: Dhul-Hijjah 6, 1441 AH
 lang: en
+uid: ruling-on-celebrating-christmas
+note: true
 excerpt: "It is not permissible to join the Christians in their celebrations, even if those who claim knowledge join them, because this increases their numbers and is a kind of support to them in sin and transgression."
 muftis:
   chairman: 
