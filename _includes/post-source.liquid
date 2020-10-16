@@ -70,12 +70,18 @@
   <dl>
 <dt>Published on this site:</dt>
 <dd>
- {% if page.hijri %}{{ page.hijri }}{% else %}{{ site.hijri.name }}{% endif %} ( {{ page.date | date: '%B %d, %Y' }} )
+ <span class="date">
+  {% if page.date %}
+  <meta itemprop="datePublished" content="{{ post.date | date_to_xmlschema }}">
+  {% endif %}
+  {% if page.hijri %}{{ page.hijri }}{% else %}{{ site.hijri.name }}{% endif %} ( {{ page.date | date: '%B %d, %Y' }} )
+ </span>
 </dd>
 
 {% include share.html %}
 
 {% if page.date %}
+<meta content='{{ page.date | date_to_xmlschema }}' itemprop='dateModified'/>
    <dt><span id='last-modified'></span></dt>
 {% endif %}
    <dt>
