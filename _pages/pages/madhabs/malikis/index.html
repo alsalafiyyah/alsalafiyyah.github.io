@@ -1,6 +1,6 @@
 ---
 title: Malikis
-layout: default
+layout: category
 active: madhabs
 permalink: /madhabs/malikis/
 ---
@@ -40,9 +40,10 @@ permalink: /madhabs/malikis/
         </td>
       </tr>
       {% else %}
-      <p{{site.data.settings.page.no-fatwas}}</p>
+      {{site.data.settings.page.no-fatwas}}
       {% endfor %}
     </tbody>
   </table>
 </div>
+  <hr/><p>last updated at: {{ site.time }}</p>
 </article>
