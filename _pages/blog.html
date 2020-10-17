@@ -13,11 +13,4 @@ permalink: /blog/
  {% endif %}
 {% endfor %}  
 </ol>
-
-{% assign posts = site.posts | where:"lang","en" %}
- <ol>
-{% for post in posts %}
- <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-{% endfor %}
- </ol>
 </article>
