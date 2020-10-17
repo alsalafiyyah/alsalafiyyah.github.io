@@ -12,7 +12,7 @@ uid: ruling-on-attending-mushrik-weddings
 excerpt: "It is not permissible to share in their (Disbelievers) occasions, which involve Shirk (associating others with Allah in His Divinity or worship) or Bid'ah (innovation in Islam)."
 muftis:
   chairman: 
-    - name: Abdul-Aziz bin Abdullah Aal Al-Shaykh
+    - name: Shaykh Abdul-Aziz bin Abdullah Aal Al-Shaykh
       url: /biography/abdulaziz/
   members: 
     - name: Shaykh Salih Fawzan
