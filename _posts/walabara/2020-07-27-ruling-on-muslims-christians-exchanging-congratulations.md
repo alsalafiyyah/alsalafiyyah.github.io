@@ -2,10 +2,12 @@
 layout: post
 title: "Ruling on Muslims and Christians exchanging congratulations"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Daimah no. 18476-2"
+source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 18476-2"
 category: [walabara, mawlids]
 hijri: Dhul-Hijjah 6, 1441 AH
 lang: en
+locale: en
+note: true
 excerpt: "It is not permissible to greet Christians or other disbelievers on their festivals and religious occasions, for this will be a sort of encouraging them in their falsehood and sharing in their sin."
 muftis:
   chairman: 
