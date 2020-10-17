@@ -18,7 +18,7 @@ muftis:
       url: /biography/abdulaziz/
   members: 
     - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/fawzan/
+      url: /biography/ghudayyan/
     - name: Shaykh Salih Fawzan
       url: /biography/fawzan/
     - name: Shaykh Bakr Abu Zayd
