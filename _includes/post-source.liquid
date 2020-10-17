@@ -74,7 +74,7 @@
   {% if page.date %}
   <meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">
   {% endif %}
-  {% if page.hijri %}{{ page.hijri }}{% else %}{{ site.hijri.name }}{% endif %} ( {{ page.date | date: '%B %d, %Y' }} )
+  {% if page.hijri %}{{ page.hijri }}{% else %}{{ site.hijri.name }}{% endif %}
  </span>
 </dd>
 
