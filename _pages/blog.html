@@ -14,30 +14,6 @@ permalink: /blog/
 {% endfor %}  
 </ol>
 
- <p>last modified: {{site.time | date: "%B %-d, %Y at %r"}}</p>
- 
-{% assign twelveHourOriginalDate = page.date | date: "%r" %}
-{% if twelveHourOriginalDate != "12:00:00 AM" %}
-  {% assign originalDisplayDate = page.date | date: "%B %-d, %Y at %r local time" %}
-{% else %}
-  {% assign originalDisplayDate = page.date | date: "%B %-d, %Y" %}
-{% endif %}
-        
-{% if page.last_modified_at %}
-  {% if site.data.ui-text[site.locale].original_date_label != null %}
-    <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].original_date_label }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ originalDisplayDate }}</time></p>
-  {% endif %}
-          
-  {% assign twelveHourModifiedDate = page.last_modified_at | date: "%r" %}
-  {% if twelveHourModifiedDate != "12:00:00 AM" %}
-    {% assign modifiedDisplayDate = page.last_modified_at | date: "%B %-d, %Y at %r local time" %}
-  {% else %}
-    {% assign modifiedDisplayDate = page.last_modified_at | date: "%B %-d, %Y" %}
-  {% endif %}
-          
-  <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Last Updated:" }}</strong> <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{{ modifiedDisplayDate }}</time></p>
-{% elsif page.date %}
-  <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ originalDisplayDate }}</time></p>
-{% endif %}
+ <p>last modified: {{ site.time | date: "%B %-d, %Y at %r %Z" }}</p>
  
 </article>
