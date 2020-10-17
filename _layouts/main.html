@@ -30,9 +30,9 @@ layout: default
          {% endfor %}
       </tbody>
    </table>
-  <p><a href="/all/"><b>{{ site.posts | size }}</b> Fatwas</a>.</p>
+  <p><a href="{{ '/all/' | prepend:site.baseurl }}"><b>{{ site.posts | size }}</b> Fatwas</a>.</p>
   <ul class="actions special">
-   <li><a href="/fatwas/" class="button">View all fatwas</a></li>
+   <li><a href="{{ '/fatwas/' | prepend:site.baseurl }}" class="button">View all fatwas</a></li>
   </ul>
 </div>	
  </div>
