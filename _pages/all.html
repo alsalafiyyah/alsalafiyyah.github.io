@@ -24,14 +24,14 @@ permalink: /all/
  <select onchange="document.location.href=this.value">
   <option selected>All posts</option>
   {% for post in posts %}
-  <option value="{{ post.url }}">{{ post.title }}</option>
+  <option value="{{ post.url | prepend:site.baseurl }}">{{ post.title }}</option>
   {% endfor %}
 </select>
 
 <ol>
 {% assign posts = site.posts %}
 {% for post in posts %}
- <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+ <li><a href="{{ post.url | prepend:site.baseurl }}" title="{{ post.title }}">{{ post.title }}</a></li>
 {% endfor %}
 </ol>
 
