@@ -2,10 +2,12 @@
 layout: post
 title: "Ruling on students congratulating Hindu teachers on their feasts"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Daimah no. 19991"
+source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 19991"
 category: [walabara, mawlids]
 hijri: Dhul-Hijjah 6, 1441 AH
 lang: en
+note: true
+uid: ruling-on-congratulating-hindu-teachers
 excerpt: "It is not permissible for Muslims to take part with the Hindu disbelievers in celebrating their festivals and religious occasions."
 muftis:
   chairman: 
