@@ -1,12 +1,14 @@
 ---
 layout: muqolat
-title: Muqolat (Articles)
+title: Muqolat
 active: muqolat
 permalink: /blog/
 ---
 
+<article>
 {% for post in site.posts %}
  {% if post.path contains 'salafism' %}
   <li>{{ post.title }}</li>
  {% endif %}
 {% endfor %}  
+</article>
