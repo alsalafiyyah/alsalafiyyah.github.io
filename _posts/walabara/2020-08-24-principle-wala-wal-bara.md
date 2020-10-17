@@ -1,12 +1,18 @@
-﻿---
+---
 layout: post
 title: "The principle of Al-Wala' wal-Bara'"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 5/243, question no. 5"
 hijri: Muharram 5, 1442 AH
-date: 2020/08/24
-category: ["walabara", general]
-shaykhs: Shaykh Ibn Baz
+lang: en
+note: false
+uid: principle-wala-wal-bara
+category: ["walabara"]
+excerpt: "Al-Wala' wal-Bara' is to love and be loyal to the believers and to hate the disbelievers and their faith. Hostility and hatred to them do not mean that you are entitled to oppress or transgress against disbelievers, so long as they do not fight you."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz Ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question: 
