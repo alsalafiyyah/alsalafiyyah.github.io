@@ -8,6 +8,7 @@ hijri: Dhul-Hijjah 6, 1441 AH
 lang: en
 locale: en
 note: true
+uid: ruling-on-muslims-christians-exchanging-congratulations
 excerpt: "It is not permissible to greet Christians or other disbelievers on their festivals and religious occasions, for this will be a sort of encouraging them in their falsehood and sharing in their sin."
 muftis:
   chairman: 
