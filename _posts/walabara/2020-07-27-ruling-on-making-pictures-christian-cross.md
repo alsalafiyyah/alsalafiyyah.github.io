@@ -2,15 +2,25 @@
 layout: post
 title: "Ruling on making pictures of Christian symbols such as the cross"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Daimah no. 21570-1"
+source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 21570-1"
 category: [walabara]
-hijri: Dhu al-Hijjah 6, 1441 AH
-date: 2020/07/27
-shaykhs: 
- - Shaykh Salih Fawzan
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Bakr Abu Zayd
- - Shaykh Abdullah ibn Ghudayyan
+hijri: Dhul-Hijjah 6, 1441 AH
+lang: en
+locale: en
+uid: ruling-on-making-pictures-christian-cross
+note: true
+excerpt: "It is not permissible to take photos of non-Muslim rituals or circulate them among Muslims because they contain acts of disbelief in Allah and His Messenger and contradict Islam. "
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+      url: /biography/abdulaziz/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Salih Fawzan
+      url: /biography/fawzan/
+    - name: Shaykh Bakr Abu Zayd
+      url: /biography/bakr/
 ---
 
 Question: 
@@ -26,7 +36,3 @@ Answer:
 Firstly, it is not permissible to take photos of crosses or any other symbol of disbelief, or to publish them in magazines and ads. The only exception is when someone intends to warn Muslims against glorifying and respecting them while ensuring that the publisher attaches a statement illustrating its falsehood.
 
 Secondly, it is not permissible to take photos of non-Muslim rituals or circulate them among Muslims because they contain acts of disbelief in Allah and His Messenger and contradict Islam. This may also attract people to them, especially those of weak faith. Furthermore, this removes the Muslim's repugnancy of disbelief; thus it must be avoided.
-
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
-
-
