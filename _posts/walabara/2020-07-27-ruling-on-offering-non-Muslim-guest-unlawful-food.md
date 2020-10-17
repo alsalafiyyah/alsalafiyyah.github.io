@@ -3,7 +3,7 @@ layout: post
 title: "Ruling on offering a non-Muslim guest unlawful food"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 443-4"
-category: [walabara]
+category: [walabara, food]
 hijri: Dhul-Hijjah 6, 1441 AH
 lang: en
 locale: en
