@@ -18,16 +18,8 @@ permalink: /all/
   </li>
 </ol>
 <article>
-<p>last updated at: {{ site.time }}</p>
-  
-{% assign posts = site.posts %}
- <select onchange="document.location.href=this.value">
-  <option selected>All Fatwas ({{ site.posts | size }})</option>
-  {% for post in posts %}
-  <option value="{{ post.url | prepend:site.baseurl }}">{{ post.title }}</option>
-  {% endfor %}
-</select>
-<br/>
+  <p>last updated at: <b>{{ site.time }}</b></p>
+  <p><small>Warning: the page might will be unresponsive due to large files.</small></p>
 <ol>
 {% assign posts = site.posts %}
 {% for post in posts %}
