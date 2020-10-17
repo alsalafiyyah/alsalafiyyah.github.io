@@ -24,7 +24,7 @@ permalink: /topic/
 {% include search-form.liquid %}
 {% assign posts = site.posts %}
  <select onchange="document.location.href=this.value">
-  <option selected>All Fatwas ({{ site.posts | size }})</option>
+  <option selected>All Fatwas: ({{ site.posts | size }} Fatwas)</option>
   {% for post in posts %}
   <option value="{{ post.url | prepend:site.baseurl }}">{{ post.title }}</option>
   {% endfor %}
