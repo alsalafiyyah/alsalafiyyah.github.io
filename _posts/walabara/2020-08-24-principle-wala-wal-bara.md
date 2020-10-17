@@ -2,7 +2,7 @@
 layout: post
 title: "The principle of Al-Wala' wal-Bara'"
 publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat 5/243, question no. 5"
+source: "Majmu' Fatawa wa Maqalat 5/243, question no. 5. Meeting with His Eminence in His office at the General Presidency on 28/10/1410 A.H"
 hijri: Muharram 5, 1442 AH
 lang: en
 note: false
