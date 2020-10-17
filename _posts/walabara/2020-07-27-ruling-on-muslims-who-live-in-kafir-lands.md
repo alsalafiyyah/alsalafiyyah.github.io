@@ -3,7 +3,7 @@ layout: post
 title: "Ruling on the Muslims who live in the lands of the disbelievers"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 21676-1"
-category: [walabara]
+category: [walabara, hadiths]
 hijri: Dhul-Hijjah 6, 1441 AH
 lang: en
 locale: en
