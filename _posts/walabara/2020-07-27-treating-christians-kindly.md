@@ -6,7 +6,7 @@ source: "Fatawa Al-Lajnah Ad-Daimah no. 10498-3"
 category: [walabara, non-muslim]
 hijri: Dhul-Hijjah 6, 1441 AH
 lang: en
-end: true
+note: true
 locale: en
 uid: treating-christians-kindly
 excerpt: "Offering benefits and doing good to non-hostile unbelievers are from the worldly matters which are permissible, as long as a Muslim denies their beliefs and religion."
