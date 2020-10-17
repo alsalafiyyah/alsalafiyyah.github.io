@@ -14,6 +14,8 @@ permalink: /blog/
 {% endfor %}  
 </ol>
 
+ <p>last modified: {{site.time | date: "%B %-d, %Y at %r"}}</p>
+ 
 {% assign twelveHourOriginalDate = page.date | date: "%r" %}
 {% if twelveHourOriginalDate != "12:00:00 AM" %}
   {% assign originalDisplayDate = page.date | date: "%B %-d, %Y at %r local time" %}
