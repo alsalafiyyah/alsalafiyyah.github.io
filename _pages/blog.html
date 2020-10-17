@@ -6,11 +6,11 @@ permalink: /blog/
 ---
 
 <article>
-<ul>
+<ol>
 {% for post in site.posts %}
  {% if post.path contains 'salafism' %}
   <li>{{ post.title }}</li>
  {% endif %}
 {% endfor %}  
-</ul>
+</ol>
 </article>
