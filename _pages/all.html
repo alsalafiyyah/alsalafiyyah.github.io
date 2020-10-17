@@ -27,7 +27,7 @@ permalink: /all/
   <option value="{{ post.url | prepend:site.baseurl }}">{{ post.title }}</option>
   {% endfor %}
 </select>
-
+<br/>
 <ol>
 {% assign posts = site.posts %}
 {% for post in posts %}
