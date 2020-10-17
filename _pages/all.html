@@ -7,6 +7,7 @@ permalink: /all/
 
 <article>
  <ol>
+{% assign posts = site.posts %}
 {% for post in posts %}
  <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 {% endfor %}
