@@ -4,8 +4,11 @@ publisher: alsalafiyyah@icloud.com
 title: Ruling on the call to rapprochement between religions
 hijri: Safar 02, 1442 AH
 lang: en
+locale: en
+uid: rule-on-calling-to-unity-with-false-beliefs
+note: true
 category: ["walabara", shiah]
-source: Fatwas of the Permanent Committee no. 7807-2
+source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 7807-2"
 excerpt: "Druze, Al-Nusayriyyah, Al-Isma'iliyyah and those who follow them such as Babists and Baha'is have manipulated the religious texts; legislated for themselves what Allah has not permitted for them; and imitated the Jews and the Christians in their distortions"
 muftis:
   chairman: 
@@ -120,8 +123,6 @@ History and reality are the strongest proof of this for the impartial and sane p
 Thus, the call for rapprochement between such sects and the Muslims is useless and futile, as they resemble the Jews and the Christians in their misguidance, Kufr, envy towards the Muslims and conspiring against them, even if their ways and intentions are different. Thus, they apply the same policy of the Jews and the Christians with the Muslims. For some reason, a group of Egyptian Azhari scholars attempted to make this rapprochement with the Iranian, Rafidi scholars of Qum after the Second World War.
 
 Some of the sincere great scholars were deceived by this call, as their hearts were too pure and they were inexperienced in life. So, they issued a magazine called "Al-Taqrib". However, the truth was uncovered soon after, and this call ended in failure. This is not strange, as the inclinations are different, the ideas are distinct, and the 'Aqidahs are contrasting. There is no way to reconcile the contraries.
-
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions. 
 
 ---
 
