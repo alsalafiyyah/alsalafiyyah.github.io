@@ -1,0 +1,14 @@
+---
+layout: default
+title: All Posts
+active: home
+permalink: /all/
+---
+
+<article>
+ <ol>
+{% for post in posts %}
+ <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+{% endfor %}
+ </ol>
+</article>
