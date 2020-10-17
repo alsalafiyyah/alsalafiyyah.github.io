@@ -2,7 +2,7 @@
 layout: post
 title: "Treating Christians kindly"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Daimah no. 10498-3"
+source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 10498-3"
 category: [walabara, non-muslim]
 hijri: Dhul-Hijjah 6, 1441 AH
 lang: en
