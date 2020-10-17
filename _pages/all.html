@@ -19,10 +19,20 @@ permalink: /all/
 </ol>
 <article>
 <p>last updated at: {{ site.time }}</p>
- <ol>
+  
+{% assign posts = site.posts %}
+ <select onchange="document.location.href=this.value">
+  <option selected>All posts</option>
+  {% for post in posts %}
+  <option value="{{ post.url }}">{{ post.title }}</option>
+  {% endfor %}
+</select>
+
+<ol>
 {% assign posts = site.posts %}
 {% for post in posts %}
  <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 {% endfor %}
- </ol>
+</ol>
+
 </article>
