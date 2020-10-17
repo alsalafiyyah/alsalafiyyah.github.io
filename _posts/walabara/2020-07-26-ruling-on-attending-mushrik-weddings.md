@@ -3,7 +3,7 @@ layout: post
 title: "Ruling on attending mushrik weddings"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 21587-5"
-category: [walabars]
+category: [walabara]
 hijri: Dhul-Hijjah 5, 1441 AH
 lang: en
 locale: en
