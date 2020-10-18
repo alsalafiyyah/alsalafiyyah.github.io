@@ -25,7 +25,7 @@
           .then((commits) => {
             var modified = commits[0]['commit']['committer']['date'].slice(0,10);
             if(modified != "{{ page.date | date: "%b %-d, %Y at %r %Z" }}") {
-              document.getElementById('last-modified').textContent = "Last Modified: " + modified;
+              document.getElementById('last-modified').textContent = "Post last Modified: " + modified;
             }
           });
       }
