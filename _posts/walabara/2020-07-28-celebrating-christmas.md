@@ -6,6 +6,9 @@ source: "Fatawa Al-Lajnah Al-Da'imah no. 21040"
 category: [walabara, mawlids]
 hijri: Dhul-Hijjah 7, 1441 AH
 lang: en
+locale: en
+note: true
+uid: celebrating-christmas
 excerpt: "It is not permissible for Muslims who believe in Allah and the Last Day to express their interest in celebrating the millennium and other occasions related to the Christians or other non-Muslims"
 muftis:
   chairman: 
