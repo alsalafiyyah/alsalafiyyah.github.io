@@ -1,9 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 publisher: alsalafiyyah@icloud.com
 title: "What should a son do who was raised by an ignorant family"
-hijri: Rabi' Al-Awwal 01, 1442 AH
+hijri: "Rabi' Al-Awwal 01, 1442 AH"
 source: "His Eminence replied on 12/8/1418 A.H. in Makkah, Majmu' Fatawa Al-Shaykh Ibn Baz p.28/239"
 lang: en
 locale: en
