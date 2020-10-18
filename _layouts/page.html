@@ -19,3 +19,7 @@ layout: default
   {{ content }} 
   </div>
 </article>
+{% if site.date %}
+<meta content='{{ site.time }}' itemprop='dateModified'/>
+<p><small>Page last update at: {{ site.time | date: "%b %-d, %Y at %r Saudi Arabia Time" }}</small></p>
+{% endif %}
