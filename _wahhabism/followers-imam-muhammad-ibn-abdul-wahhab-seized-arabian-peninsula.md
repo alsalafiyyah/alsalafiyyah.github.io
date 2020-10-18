@@ -6,6 +6,9 @@ hijri: Dhul-Hijjah 19, 1441 AH
 date: 2020/08/10
 category: [wahhabism]
 lang: en
+locale: en
+note: false
+source: "Fatawa Al-Shaykh Ibn Baz p. 1/377"
 excerpt: "Is it true that when the followers of Imam Shaykh Muhammad ibn 'Abdul-Wahhab (may Allah be merciful to him) seized the Arabian Peninsula and reached Madinah"
 muftis:
   shaykh: 
