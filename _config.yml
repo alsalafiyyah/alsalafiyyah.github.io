@@ -32,7 +32,7 @@ plugins:
   - liquid
   - jekyll-redirect-from
   - tzinfo-data
-  - hijri_gem
+  - hijri2greg_date
 
 exclude:
   - Gemfile
