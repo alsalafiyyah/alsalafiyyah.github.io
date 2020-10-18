@@ -9,7 +9,7 @@ locale: en
 note: true
 uid: is-it-permissible-to-bow-to-greet-muslim-or-non-muslim
 category: [walabara]
-excerpt: "It's not permissible to bow to greet a Muslim or a non-Muslim whether by the upper part of the body or with the head, because bowing is a religious act of 'Ibadah (worship) and 'Ibadah should be devoted to Allah Alone.
+excerpt: "It's not permissible to bow to greet a Muslim or a non-Muslim whether by the upper part of the body or with the head, because bowing is a religious act of 'Ibadah (worship) and 'Ibadah should be devoted to Allah Alone."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz
