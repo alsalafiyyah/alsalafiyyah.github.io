@@ -15,5 +15,5 @@ permalink: /blog/
 </ol>
 
  <p>last modified: {{ site.time | date: "%b %-d, %Y at %r %:z Saudi Arabia Time" }}</p>
- 
+ {{ site.time | to_utc | date: "%Y%m%dT%H:%M:%S%:z" }}
 </article>
