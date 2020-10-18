@@ -14,7 +14,7 @@ permalink: /blog/
 {% endfor %}  
 </ol>
 
- <p>last modified: {{ site.time | date: "%b %-d, %Y at %r %:z Saudi Arabia Time" }}</p>
+ <p>last modified: {{ site.time | date: "%b %-d, %Y at %r Saudi Arabia Time" }}</p>
  {{ site.time | to_utc | date: "%Y%m%dT%H:%M:%S%:z" }}
  <p>{{ site.time | gregorian.to_hijri | date: "%b %-d, %Y at %r %:z" }}</p>
  <p>{{ site.time | to_hijri | date: "%b %-d, %Y at %r %:z" }}</p>
