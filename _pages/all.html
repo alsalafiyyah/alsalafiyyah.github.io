@@ -18,8 +18,8 @@ permalink: /all/
   </li>
 </ol>
 <article>
-  <p>last updated at: <b>{{ site.time }}</b></p>
-  <p><small>Warning: the page might will be unresponsive due to large files.</small></p>
+<meta content='{{ site.time }}' itemprop='dateModified'/>
+<p><small>Page last update at: {{ site.time | date: "%b %-d, %Y at %r Saudi Arabia Time" }}</small></p>
 <ol>
 {% assign posts = site.posts %}
 {% for post in posts %}
