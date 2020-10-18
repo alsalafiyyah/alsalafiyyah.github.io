@@ -18,5 +18,5 @@ permalink: /blog/
  <p>last modified: {{ site.time | date: "%b %-d, %Y at %r Saudi Arabia Time" }}</p>
  {{ site.time | to_utc | date: "%Y%m%dT%H:%M:%S%:z" }}
  <p>{{ site.time | gregorian.to_hijri | date: "%b %-d, %Y at %r %:z" }}</p>
- <p>{{ page.time | to_hijri | date: "%b %-d, %Y at %r" }}</p>
+ <p>{{ page.date | to_hijri | date: "%b %-d, %Y at %r" }}</p>
 </article>
