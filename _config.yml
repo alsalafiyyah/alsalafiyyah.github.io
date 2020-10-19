@@ -31,8 +31,6 @@ plugins:
   - jekyll-sitemap
   - liquid
   - jekyll-redirect-from
-  - tzinfo-data
-  - hijri2greg_date
 
 exclude:
   - Gemfile
