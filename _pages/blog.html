@@ -7,6 +7,12 @@ permalink: /blog/
 ---
 
 <article>
+  {% assign total = 0 %}
+  {% for post in site.posts %}
+     {% if post.category == "walabara" %}
+      {% assign total = total | plus: 1 %}
+     {% endif %}
+  {% endfor %}
 <ol>
 {% for post in site.posts %}
  {% if post.path contains 'salafism' %}
