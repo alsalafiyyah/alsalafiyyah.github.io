@@ -1,16 +1,27 @@
-﻿---
+---
 layout: post
 title: "Ruling on believing in Al-Shadhiliyyah order"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 2986"
 hijri: Muharram 12, 1442 AH
-date: 2020/08/31
-category: [sufism, shadhiliyyah]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+lang: en
+locale: en
+note: true
+uid: rule-on-believing-in-shadhiliyyah-order
+category: [sufism]
+excerpt: "You should follow the way of truthful believers who believe in what Allah has revealed and His Messenger (peace be upon him) has explained, and act upon the Book of Allah and the Sunnah of His Messenger (peace be upon him)."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Abdullah ibn Qa'ud
+      url: /biography/qaud/
 ---
 
 Question: 
@@ -30,8 +41,6 @@ If the situation is as you have mentioned and your father and the followers of t
 You should abide by Allah’s Orders and avoid His Prohibitions and treat your parents kindly in this world as Allah (Exalted be He) says (what means): "**And We have enjoined on man (to be dutiful and good) to his parents. His mother bore him in weakness and hardship upon weakness and hardship, and his weaning is in two years - give thanks to Me and to your parents. Unto Me is the final destination. But if they (both) strive against you to make you join in worship with Me others that of which you have no knowledge, then obey them not; but behave with them in the world kindly, and follow the path of him who turns to Me in repentance and in obedience. Then to Me will be your return, and I shall tell you what you used to do.**" [Luqman: 14-15]
 
 You should follow the way of truthful believers who believe in what Allah has revealed and His Messenger (peace be upon him) has explained, and act upon the Book of Allah and the Sunnah of His Messenger (peace be upon him). Moreover, you should endure any harm you may suffer in the Cause of Allah and stick to the pathway of those who return to Allah as that is the best way and the best in outcome. You should also dissociate yourself from the people of this order lest they lead you astray. We hope that Allah will facilitate a means for you to earn your own living, as provision is in the Hand of Allah alone, not in the hand of your father or any other creature.
-
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
 
 ---
 
