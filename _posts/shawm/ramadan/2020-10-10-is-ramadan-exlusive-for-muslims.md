@@ -5,7 +5,9 @@ title: "Is the month of Ramadan an exclusive feature of the Muslims?"
 hijri: Safar 23, 1442 AH
 lang: en
 source: "Fatawa Al-Shaykh Ibn Baz p. 15/7"
-category: ["fasting", ramadan, shawm]
+category: ["fasting"]
+note: false
+uid: is-ramadan-exlusive-for-muslims
 excerpt: "Is the month of Ramadan an exclusive feature of our Muslim nation only or it was also prescribed upon previous nations?"
 muftis:
   shaykh: 
