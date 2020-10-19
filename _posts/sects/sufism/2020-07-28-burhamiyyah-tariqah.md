@@ -1,15 +1,25 @@
-﻿---
+---
 layout: post
-title: "Al-Burhamiyyah Tariqah"
+title: "Ruling on Al-Burhamiyyah Tariqah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 4911"
-category: ["sufism", burhamiyyah]
-hijri: Dhu al-Hijjah 7, 1441 AH
-date: 2020/07/28
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
+category: ["sufism"]
+hijri: Dhul-Hijjah 7, 1441 AH
+lang: en
+locale: en
+note: true
+uid: burhamiyyah-tariqah
+excerpt: "It is impermissible to worship Allah through what is cited in this book - i.e. Awrad Al-Burhamiyyah Tariqah (Invocations of Al-Burhamiyyah Order)."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
 ---
 
 Question: 
@@ -27,5 +37,3 @@ Furthermore, the book includes beseeching Allah in the name of the Throne, the C
 In addition, the prayer of Ibn Mashish includes words disapproved of by Islamic law as those describing the Prophet (peace be upon him) as the one to whom everything is entrusted, according to his claims, without the intermediary (the Prophet) the one seeking intermediation will be gone. Other condemned expressions of Ibn Mashish can also be found in his supplications, “Deliver me from the marshes of Tawhid (monotheism) and let me sink in the depths of the sea of pantheism so that I might see, touch or feel nothing but it ... ” Moreover, it includes Tawassul (seeking to draw close to Allah and beseeching Him) in the name of the Prophet (peace be upon him), his family, Al-shafi‘i, Al-Badawy and Al-Rifa‘i and seeking help from other than Allah, under a poem entitled “Tawassul”. 
 
 To summarize, it is full of polytheistic heresies, and opens a gateway to Shirk and superstitions. Accordingly, it is impermissible to worship Allah through the supplications cited in this book. A Muslim should worship Allah only through what the Prophet (peace be upon him) is authentically reported to have worshipped Allah with, such as reciting the Qur’an, and the Adhkar (invocations and remembrance) and supplications authentically reported from him.
-
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
