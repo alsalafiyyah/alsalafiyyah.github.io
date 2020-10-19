@@ -3,15 +3,21 @@ layout: post
 title: "The Messenger (peace be upon him) did not stretch his hand from his grave to anyone"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat p. 9/310"
-category: ["sufism", rifaiyyah]
+category: ["sufism"]
 hijri: Muharram 16, 1442 AH
-date: 2020-09-04
-shaykhs: Shaykh Abdul-Aziz Ibn Baz
+lang: en
+note: false
+uid: false-baseless-sufi-claim
+excerpt: "What all Muslims have to do is to fear Allah and adhere to His Shari'ah, which is indicated in His Noble Book and in the Sunnah of His trustworthy Messenger, and beware of anything that goes against that."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question:
 
-A brother from Dar'a, Syria asks: What is the correct opinion about the stories narrated from one of the famous leaders of [Sufism](/sufism), Al-Sayyid Ahmad Al-Rifa'i that he visited the Mosque of the Prophet (peace be upon him) in Al-Madinah and supplicated at the Prophet's grave. The Messenger (peace be upon him) then stretched his hand out to him and he kissed it? This is a widespread belief among the followers of his Tariqah (Sufi order). It is a belief they hold firmly, even though he lived in the 6th century A.H. How true is this story? 
+A brother from Dar'a, Syria asks: What is the correct opinion about the stories narrated from one of the famous leaders of Sufism, Al-Sayyid Ahmad Al-Rifa'i that he visited the Mosque of the Prophet (peace be upon him) in Al-Madinah and supplicated at the Prophet's grave. The Messenger (peace be upon him) then stretched his hand out to him and he kissed it? This is a widespread belief among the followers of his Tariqah (Sufi order). It is a belief they hold firmly, even though he lived in the 6th century A.H. How true is this story? 
 
 Answer:
 
@@ -25,7 +31,7 @@ He (peace be upon him) said: "**The most excellent of your days is Friday; so in
 
 There are many Hadiths which say similar things but it is not narrated that the Prophet (peace be upon him) said that he would shake hands with anybody. This indicates that this story is false. Even if we were to assume that it is true, then it could be that this was a shaytaan (devil) who shook hands with him in order to deceive him and lead him and others astray. 
 
-What all Muslims have to do is to fear Allah and adhere to His Shari'ah, which is indicated in His Noble Book and in the Sunnah of His trustworthy Messenger, and beware of anything that goes against that. May Allah reform the Muslims and grant them understanding of His religion and cause them to adhere to His Shari`ah, for He is the Most Generous, Most Kind. 
+What all Muslims have to do is to fear Allah and adhere to His Shari'ah, which is indicated in His Noble Book and in the Sunnah of His trustworthy Messenger, and beware of anything that goes against that. May Allah reform the Muslims and grant them understanding of His religion and cause them to adhere to His Shari'ah, for He is the Most Generous, Most Kind. 
 
 ---
 
