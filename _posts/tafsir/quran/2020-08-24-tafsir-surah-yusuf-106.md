@@ -10,7 +10,7 @@ locale: en
 note: false
 uid: tafsir-surah-yusuf-106
 category: [quran]
-excerpt: "Scholars like Ibn 'Abbas and others explained that this Ayah means that whenever asked who created the heavens and the earth, the unbelievers would say "It is Allah". Yet, they worshipped idols like Al-Lat, Al-'Uzza, and other deities."
+excerpt: "Scholars like Ibn 'Abbas and others explained that this Ayah means that whenever asked who created the heavens and the earth, the unbelievers would say 'It is Allah'. Yet, they worshipped idols like Al-Lat, Al-'Uzza, and other deities."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
