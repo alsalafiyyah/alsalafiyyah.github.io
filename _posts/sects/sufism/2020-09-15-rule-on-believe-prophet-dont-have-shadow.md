@@ -3,9 +3,12 @@ layout: post
 title: "Ruling on believing the Prophet (peace be upon him) did not have a shadow like ordinary human beings"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 6534"
-category: ["sufism", barelvis, bareilwi]
+category: ["sufism"]
 hijri: Muharram 27, 1442 AH
 lang: en
+locale: en
+note: true
+uid: rule-on-believe-prophet-dont-have-shadow
 excerpt: "This is a false belief which is incongruous with the explicit texts of the Qur'an and Sunnah"
 muftis:
   chairman: 
