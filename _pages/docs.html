@@ -15,7 +15,11 @@ permalink: /docs/
   {% endfor %}
   
 <div class="box">
-`<ol>{% for post in site.posts %}{% if post.path contains 'salafism' %}<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>{% endif %}{% endfor %}</ol>`
+  
+```
+<ol>{% for post in site.posts %}{% if post.path contains 'salafism' %}<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>{% endif %}{% endfor %}</ol>
+```
+  
 Output: 
 <ol>
 {% for post in site.posts %}
