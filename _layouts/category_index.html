@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<div class="home">
+  <h1 class="page-heading">Posts in category : {{ page.category }}</h1>
+  <ul class="post-list">
+    {% for p in site.categories[page.category] %}
+      <li>
+        <h2><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></h2>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
