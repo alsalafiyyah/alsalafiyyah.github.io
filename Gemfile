@@ -9,6 +9,4 @@ group :jekyll_plugins do
   gem "liquid"
   gem "github-pages"
   gem "jekyll-redirect-from"
-  gem "tzinfo-data"
-  gem "hijri2greg_date"
 end
