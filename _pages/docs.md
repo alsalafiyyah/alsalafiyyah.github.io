@@ -14,17 +14,12 @@ permalink: /docs/
      {% endif %}
   {% endfor %}
   
-```
-<ol>
-{% for post in site.posts %}
- {% if post.path contains 'salafism' %}
-  <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
- {% endif %}
-{% endfor %}  
-</ol>
-```
-  
-Output: 
+<ul>
+{% for cat in site.categories %}
+    <li>{{ cat[0] }} ({{ cat[1].size }})</li>
+{% endfor %}
+</ul>
+
 <ol>
 {% for post in site.posts %}
  {% if post.path contains 'salafism' %}
