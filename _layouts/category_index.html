@@ -17,7 +17,9 @@ layout: default
 
 {{category.size}}
 <article>
-  <h3>Fatwa in topic : {{ page.category }} {{ page.categories[category].size }}</h3>
+  <h3>Fatwa in topic : {{ page.category }} 
+    {% unless category == 'index' %}{{ page.categories[category].size }}{% endunless %}
+  </h3>
   <ol>
     {% for p in site.categories[page.category] %}
       <li>
