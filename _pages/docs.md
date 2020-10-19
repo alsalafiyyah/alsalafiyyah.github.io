@@ -14,6 +14,10 @@ permalink: /docs/
      {% endif %}
   {% endfor %}
   
+  {% for category in site.categories %}
+    <div><a href="{{ site.baseurl }}/category/{{ category[0] }}">{{ category[0] | capitalize }} <span> ({{ category[1].size }}) </span></a></div>
+  {% endfor %}
+  
 <ul>
 {% for cat in site.categories %}
     <li>{{ cat[0] }} ({{ cat[1].size }})</li>
@@ -23,7 +27,6 @@ permalink: /docs/
 <ol>
 {% for post in site.posts %}
  {% if post.path contains 'salafism' %}
-  <h3>{{ category[0] | capitalize }} <span> ({{ category[1].size }})</h3>
   <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
  {% endif %}
 {% endfor %}  
