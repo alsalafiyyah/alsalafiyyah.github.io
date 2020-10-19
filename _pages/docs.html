@@ -13,6 +13,9 @@ permalink: /docs/
       {% assign total = total | plus: 1 %}
      {% endif %}
   {% endfor %}
+  
+<div class="box">
+```
 <ol>
 {% for post in site.posts %}
  {% if post.path contains 'salafism' %}
@@ -20,7 +23,16 @@ permalink: /docs/
  {% endif %}
 {% endfor %}  
 </ol>
-
+```
+  
+<ol>
+{% for post in site.posts %}
+ {% if post.path contains 'salafism' %}
+  <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+ {% endif %}
+{% endfor %}  
+</ol>
+</div>
  <p>last modified: {{ site.time | date: "%b %-d, %Y at %r Saudi Arabia Time" }}</p>
  {{ site.time | to_utc | date: "%Y%m%dT%H:%M:%S%:z" }}
  <p>{{ site.time | gregorian.to_hijri | date: "%b %-d, %Y at %r %:z" }}</p>
