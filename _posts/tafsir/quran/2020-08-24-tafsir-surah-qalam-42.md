@@ -1,12 +1,20 @@
-﻿---
+---
 layout: post
+published: true
 title: "Tafsir Surah Al-Qalam Ayat 42"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 5/355, question no. 16"
 hijri: Muharram 5, 1442 AH
-date: 2020/08/24
-category: ["tafsir", quran, qalam]
-shaykhs: Shaykh Ibn Baz
+lang: en
+note: false
+locale: en
+category: [quran]
+uid: tafsir-surah-qalam-42
+excerpt: "The Messenger of Allah (peace be upon him) explained this Ayah (Qur'anic verse) saying that Allah (Glorified be He) will come on the Day of Resurrection and reveal His Shin to His believing Slaves."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question: 
@@ -15,8 +23,7 @@ What is the Tafsir (explanation/exegesis of the meanings) of Allah's Statement: 
 
 Answer:
 
-The Messenger of Allah (peace be upon him) explained this Ayah (Qur'anic verse) saying that Allah (Glorified be He) will come on the Day of Resurrection and reveal His Shin to His believing Slaves. It will be a sign for the believers, which when He reveals, they will know Him and follow Him. The Noble Ayah should be understood according to what was mentioned in the Hadith, which is Allah's revealing of His Shin.
-This is one of the Attributes such as befits Allah's (Glorified and Exalted be He) Majesty and Grandeur that does not resemble any of His Creation in any way. 
+The Messenger of Allah (peace be upon him) explained this Ayah (Qur'anic verse) saying that Allah (Glorified be He) will come on the Day of Resurrection and reveal His Shin to His believing Slaves. It will be a sign for the believers, which when He reveals, they will know Him and follow Him. The Noble Ayah should be understood according to what was mentioned in the Hadith, which is Allah's revealing of His Shin. This is one of the Attributes such as befits Allah's (Glorified and Exalted be He) Majesty and Grandeur that does not resemble any of His Creation in any way. 
 
 The same applies to other Attributes, such as His Face, His Hands, His Foot, His Eyes, and other Attributes which are authentically established in Nusus (Islamic texts from the Qur’an or the Sunnah). Also, anger, love, hatred, and all Attributes with which He has described Himself in the Noble Qur'an and which the Prophet (peace be upon him) reported. Allah (Exalted be He) says: "**There is nothing like Him; and He is the All-Hearer, the All-Seer.**" [al-Shura: 11]
 
