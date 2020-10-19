@@ -15,15 +15,15 @@ layout: default
   </li>
   <li itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
-    <span itemprop="name" class="active">{{ page.category }}</span>
+    <span itemprop="name" class="active">{{ page.title }}</span>
     <meta itemprop="position" content="3" />
   </li>
 </ol>
 
 {{category.size}}
 <article>
-  <h3>Fatwa in topic : {{ page.category }} 
-    {% unless category == 'index' %}{{ page.categories[category].size }}{% endunless %}
+  <h3>
+    Fatwa in topic : {{ page.category | capitalize }} 
   </h3>
   <ol>
     {% for p in site.categories[page.category] %}
