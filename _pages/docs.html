@@ -17,12 +17,7 @@ permalink: /docs/
   {% for category in site.categories %}
     <div><a href="{{ site.baseurl }}/category/{{ category[0] }}">{{ category[0] | capitalize }} <span> ({{ category[1].size }}) </span></a></div>
   {% endfor %}
-  
-<ul>
-{% for cat in site.categories %}
-    <li>{{ cat[0] }} ({{ cat[1].size }})</li>
-{% endfor %}
-</ul>
+ 
 
 <ol>
 {% for post in site.posts %}
