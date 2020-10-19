@@ -2,13 +2,21 @@
 layout: post
 title: "Ruling on sharing the same places of worship with non-Muslims"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Daimah no. 2234"
-category: [walabara, disbelievers]
-hijri: Dhu al-Hijjah 6, 1441 AH
-date: 2020/07/27
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
+source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 2234"
+category: [walabara]
+hijri: Dhul-Hijjah 6, 1441 AH
+lang: en
+note: true
+locale: en
+uid: ruling-on-sharing-same-places-worship-with-kafirs
+excerpt: "It is unanimously agreed upon that the Islamic Shari'ah was revealed to both jinn and mankind. Whoever claims that the Jews and the Christians are following the path of truth, whether from among them or not, is contradicting the Qur'an, Sunnah of the Prophet (peace be upon him), and the general consensus of the Muslim Ummah."
+muftis: 
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/
 ---
 
 Questions: 
@@ -47,7 +55,7 @@ It is also related in Sahih Muslim that the Prophet (peace be upon him) said, "B
 - Second: Prohibited intermixing between men and women marriageable to each other. 
 - Third: Free intermixing between men and women marriageable to them in coeducational institutions, shops, offices, hospitals, parties, and the like. 
 
-A person may think that such intermixing does not lead the two sexes getting sexually aroused. Further elaboration of this case may be generally and thoroughly presented:- Generally speaking, the inclinations of the two sexes towards each other is an inbred characteristic of their human nature. Thus, if such intermixing occurs, the evil consequence of illicit sexual relations may take place, for man is naturally prone to desires and pleasures. Moreover, the devil prompts human souls to commit acts of obscenity and indecency to fall prey to lustful desires. Thoroughly speaking, the Shari'ah is built upon the objectives' means. Since women are known to be the natural partners with whom men can gratify their sexual desires, the Islamic Shari`ah has blocked all avenues inviting men and women to violate the rules of legal propriety. This can be manifestly proven through the following proofs of the Qur'an and the Sunnah: **As to the textual proofs of the Qur'an, six proofs may be cited in support of this opinion**: 
+A person may think that such intermixing does not lead the two sexes getting sexually aroused. Further elaboration of this case may be generally and thoroughly presented:- Generally speaking, the inclinations of the two sexes towards each other is an inbred characteristic of their human nature. Thus, if such intermixing occurs, the evil consequence of illicit sexual relations may take place, for man is naturally prone to desires and pleasures. Moreover, the devil prompts human souls to commit acts of obscenity and indecency to fall prey to lustful desires. Thoroughly speaking, the Shari'ah is built upon the objectives' means. Since women are known to be the natural partners with whom men can gratify their sexual desires, the Islamic Shari'ah has blocked all avenues inviting men and women to violate the rules of legal propriety. This can be manifestly proven through the following proofs of the Qur'an and the Sunnah: **As to the textual proofs of the Qur'an, six proofs may be cited in support of this opinion**: 
 
 ~> First: 
 
@@ -61,7 +69,7 @@ Thus, if men and women are given the freedom of intermixing with each other, the
 
 Allah orders men and women to lower their gaze. Allah (Exalted be He) says, "Tell the believing men to lower their gaze (from looking at forbidden things), and protect their private parts (from illegal sexual acts). That is purer for them. Verily, Allâh is All-Aware of what they do. And tell the believing women to lower their gaze (from looking at forbidden things)" [an-Nur: 30-31] 
 
-These two Qur'anic verses signify that Allah orders the believing men and women to lower their gaze. The imperative mode expressed by the verb 'say' in the two verses entails the obligation that both men and women shall lower their gaze. Allah further explains that lowering the gaze is purer for them. Only an accidental glance is remitted. Al-Hakim narrated in his Al-Mustadrak on the authority of 'Ali (may Allah be pleased with him) that the Prophet (peace be upon him) said to him, "O `Aly, do not let a second look follow the first. The first look is allowed to you but not the second." [^3] 
+These two Qur'anic verses signify that Allah orders the believing men and women to lower their gaze. The imperative mode expressed by the verb 'say' in the two verses entails the obligation that both men and women shall lower their gaze. Allah further explains that lowering the gaze is purer for them. Only an accidental glance is remitted. Al-Hakim narrated in his Al-Mustadrak on the authority of 'Ali (may Allah be pleased with him) that the Prophet (peace be upon him) said to him, "O 'Ali, do not let a second look follow the first. The first look is allowed to you but not the second." [^3] 
 
 Al-Hakim said, 'It is a Sahih (authentic) Hadith in conformity with the conditions of Muslim and both Al-Bukhari and Muslim did not record it.' In his commentary entitled "Al-Talkhis", Al-Dhahaby affirmed Al-Hakim's judgment. Many other Hadiths are narrated to the same effect. Allah commands us to lower the gaze, for looking at non-Mahram women is an act of Zina (adultery). According to the report of Abu Hurayrah (may Allah be pleased with him), the Prophet (peace be upon him) said, "The Zina (adultery) of the eye is the (lustful) look, the Zina of the ears is the listening (to voluptuous talk), the Zina of the tongue is (the licentious) speech, the Zina of the hand is the (lustful) grip, the Zina of the feet is the walking (to the place where one intends to commit Zina)" [^4] Recorded by both Al-Bukhari and Muslim but the mentioned wording is that of Muslim. 
 
@@ -85,7 +93,7 @@ Allah orders women to stay at their houses. Allah (Exalted be He) says, And stay
 
 1- Imam Ahmad narrated in his Musnad on the authority of Um Humayd, the wife of Abu Humayd Al-Sa'idy (may Allah be pleased with her) that she went to the Prophet (peace be upon him) and said, "O Messenger of Allah! I enjoy praying more when you are leading the Salah (Prayer)." The Prophet replied, "I understand that you enjoy praying more when I am leading the Salah. It is, however, better for you to offer Salah in your private room than even in your house. It is better for you to pray inside your house than in the courtyard of your house. It is better to offer Salah in your house than offering it in the neighborhood Masjid. It is better for you to pray in the neighborhood Masjid than in my Masjid." [^5]
 
-The narrator added: "Upon her order, a Masjid (mosque) was constructed for her in the farthest and darkest corner of her house, and she continued to pray there until she died." Ibn Khuzaymah narrated in his Sahih on the authority of 'Abdullah ibn Mas`ud (may Allah be pleased with him) that the Prophet (peace be upon him) said, "The most beloved Salah to Allah of a woman is one that she performs in the darkest spot of her home." [^6] 
+The narrator added: "Upon her order, a Masjid (mosque) was constructed for her in the farthest and darkest corner of her house, and she continued to pray there until she died." Ibn Khuzaymah narrated in his Sahih on the authority of 'Abdullah ibn Mas'ud (may Allah be pleased with him) that the Prophet (peace be upon him) said, "The most beloved Salah to Allah of a woman is one that she performs in the darkest spot of her home." [^6] 
 
 Other Hadith are narrated to the same effect, which indicate that it is better for a woman to offer Salah at home. Since it is preferable for her to offer Salah at home even more than the Masjid of the Prophet or with the Prophet himself, then prohibition of free intermixing with men becomes a natural corollary.
 
@@ -93,9 +101,9 @@ Other Hadith are narrated to the same effect, which indicate that it is better f
 
 On the contrary, the last row of men is described as the worst in case there are women praying with them at the Masjid. For the last row misses the chance of getting closer to the Imam in Salah as they may become attracted to women and spoil their Salah. Since these courses of action are expected to take place during observing acts of worship which are naturally practiced without intermixing, then free intermixing is definitely forbidden.
 
-3- Muslim narrated in his Sahih on the authority of Zaynab, the wife of 'Abdullah ibn Mas`ud (may Allah be pleased with her) that she said, "The Messenger of Allah said to us: "When any one of you (i.e. women) comes to the Masjid, she should not use perfume." [^8] According to Abu Dawud in his Sunan, Imam Ahmad, and Al-Shafi'i in their books of Hadith, it is reported on the authority of Abu Hurayrah (may Allah be pleased with him) that the Prophet (peace be upon him) said, "Do not prevent the female servants of Allah from visiting the Masjids (mosques) of Allah, but they may go out (to the mosque) without wearing perfume." [^9]
+3- Muslim narrated in his Sahih on the authority of Zaynab, the wife of 'Abdullah ibn Mas'ud (may Allah be pleased with her) that she said, "The Messenger of Allah said to us: "When any one of you (i.e. women) comes to the Masjid, she should not use perfume." [^8] According to Abu Dawud in his Sunan, Imam Ahmad, and Al-Shafi'i in their books of Hadith, it is reported on the authority of Abu Hurayrah (may Allah be pleased with him) that the Prophet (peace be upon him) said, "Do not prevent the female servants of Allah from visiting the Masjids (mosques) of Allah, but they may go out (to the mosque) without wearing perfume." [^9]
 
-Ibn Daqiq Al-'Eid said, "This indicates that it is prohibited for a woman to wear perfume upon going to Masjid as it may stimulate mutual sexual desire. The prohibition is also applied to wearing beautiful clothes and jewelry that affect men greatly. Al-Hafizh Ibn Hajar said, "Intermixing with men is also prohibited." Al-Khattaby states in Ma`alim Al-Sunan: "The Arabic word 'Tafal' means 'foul-smelling'. It is said, 'imra'atun tafilah' (woman not wearing perfume)." [^10]
+Ibn Daqiq Al-'Eid said, "This indicates that it is prohibited for a woman to wear perfume upon going to Masjid as it may stimulate mutual sexual desire. The prohibition is also applied to wearing beautiful clothes and jewelry that affect men greatly. Al-Hafizh Ibn Hajar said, "Intermixing with men is also prohibited." Al-Khattaby states in Ma'alim Al-Sunan: "The Arabic word 'Tafal' means 'foul-smelling'. It is said, 'imra'atun tafilah' (woman not wearing perfume)." [^10]
 
 4- Usamah ibn Zayd (may Allah be pleased with him) also narrated that the Prophet (peace be upon him) said, "I have not left after me any cause of trial more injurious to men than the lure of women." Narrated by Al-Bukhari and Muslim [^11].
 The Prophet describes women as being a cause of lure and trial that may befall men; thus how can we facilitate the way to the occurrence of this trial?! It is forbidden.
@@ -112,7 +120,7 @@ Al-Bukhari also narrated in "Al-Tarikh Al-Kabir" on the authority of Ibn Umar (m
 
 8- Al-Bukhari narrated in his Sahih on the authority of Um Salamah (may Allah be pleased with her) who said, "Whenever Allah’s Messenger (peace be upon him) finished his prayers, the women would get up and he (peace be upon him) would stay on for a while in his place before getting up." According to another narration in the Sahih of Al-Bukhari, "When the Messenger of Allah finished his prayers, women would go back to their houses before he left the Masjid." In a third narration, "When women finished their prayers, they would rise and leave while the Prophet (peace be upon him) and men prayed with him would stay on for a while. When the Prophet (peace be upon him) rose, they would rise with him." Clearly, the Prophet inhibited the practical gathering of men and women even at the pure places of worship, thus prohibiting this act in other places is most worthy of prohibition.
 
-9- Al-Tabarany narrated in Al-Mu'jam Al-Kabir on the authority of Ma'qil ibn Yasar (may Allah be pleased with him) that the Prophet (peace be upon him) said, "It is better for one of you to be pierced by a steel pin in the head than to touch a foreign woman unlawful to touch." [^13] Al-Haythamy judged this Hadith in Majma` Al-Zawa'id stating, 'It is narrated by the reliable and trustworthy narrators approved by Al-Bukhari and Muslim.' According to Al-Mundhiry in "Al-Targhib wa Al-Tarhib", 'Its narrators are reliable and trustworthy."
+9- Al-Tabarany narrated in Al-Mu'jam Al-Kabir on the authority of Ma'qil ibn Yasar (may Allah be pleased with him) that the Prophet (peace be upon him) said, "It is better for one of you to be pierced by a steel pin in the head than to touch a foreign woman unlawful to touch." [^13] Al-Haythamy judged this Hadith in Majma' Al-Zawa'id stating, 'It is narrated by the reliable and trustworthy narrators approved by Al-Bukhari and Muslim.' According to Al-Mundhiry in "Al-Targhib wa Al-Tarhib", 'Its narrators are reliable and trustworthy."
 
 10- Al-Tabarany also narrated on the authority of Abu Umamah (may Allah be pleased with him) that the Prophet (peace be upon him) said, It is better for a man to rub his shoulder against a pig covered with filth than to rub it against a shoulder of a non-Mahram woman unlawful for him to touch. Evidently, the Prophet (peace be upon him) forbids a man from touching a woman if he is not a Mahram (spouse or permanently unmarriageable relative), as it leads to evil consequences. Free intermixing is forbidden for the same reason. A careful look at the previous discussion makes it clear that intermixing between men and women is conducive to Fitnah (enticement and temptation). Exceptions are only made under necessity like intermixing of men and women at the two Holy Masjids in Makkah and Madinah. We pray Allah to guide the stray Muslims, increase the guidance of the faithful among them, grant success to their rulers to enjoin right and forbid wrong, and punish the guilty. He is All-Hearer, Ever Near and Responsive. End of quote.
 
@@ -122,15 +130,13 @@ Al-Bukhari also narrated in "Al-Tarikh Al-Kabir" on the authority of Ibn Umar (m
 
 **Sixth**: Non-Muslims are allowed to finance Islamic projects like building masjids or schools, if no harm is expected to take place against Muslims from this.
 
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
-
 ---
 [^1]: Ahmad, vol. 2, p. 412; Al-Bukhari, Fat-h-ul-Bary, nos. 335, 438, and 3122; Muslim, no. 523, Al-Tirmidhy, no. 1553; Al-Nasa*y, Al-Mujtaba; vol. 1, p. 210; Al-Darimy, Al-Sunan, no. 1396 with different wordings.
 [^2]: Ahmad, vol. 2, pp. 317 and 350, and vol. 4, pp. 396 and 398; Muslim, no. 153; Ibn Mardawaih, Al-Durr Al-Manthur, vol. 3, p. 325; and Al-Hakim, Al-Mustadrak, vol. 2, p. 342.
 [^3]: Ahmad, Al-Musnad, vol. 5, pp. 351, 353, and 357; Al-Darimy, Al-Sunan, vol. 2, p. 298; Al-Hakim, Al-Mustadrak, vol. 2, p. 212 and vol. 3, p. 133; Abu Dawud, no. 2149; Al-Tirmidhy no. 2777; Al-Bayhaqy, Al-Sunan, vol. 7, p. 90; and Ibn Abu Shaybah, Al-Musannaf, vol. 2, p. 324.
 [^4]: Ahmad, vol. 2, pp. 276, 317, 329, 344, 359, 372, 411, 528, 535, and 536; Al-Bukhari, Fat-h-ul-Bary, no. 6612; Muslim, no. 2657; and Abu Dawud, no. 2152.
 [^5]: Ahmad, vol. 6; p. 371; Ibn Khuzaymah, Sahih, no. 1689; Ibn Hibban, Sahih, no. 2217; and Ibn Abu Shaybah, vol. 2, pp. 382 and 385.
-[^6]: Ibn Khuzaymah, nos. 1691-1692; Al-Tabarany, Al-Mu`jam, vol. 2, p. 35.
+[^6]: Ibn Khuzaymah, nos. 1691-1692; Al-Tabarany, Al-Mu'jam, vol. 2, p. 35.
 [^7]: uslim, no. 440; Abu Dawud, no. 678; Al-Tirmidhy, no. 224; Al-Nasa'i, Al-Mujtaba, no. 821; Ibn Majah, Al-Sunan, no. 1000; Ibn Khuzaymah, Al-Sahih, no. 1693; and Al-Darimy, Al-Sunan, no. 1272.
 [^8]: Ahmad, vol. 6, p. 363; Muslim, no. 443; Ibn Khuzaymah, no. 1680; and Ibn Hibban, Sahih, nos. 1212 and 2215.
 [^9]: Ahmad, vol. 2, p. 475 and vol. 5, pp. 192-193; Abu Dawud, no. 565; Ibn Khuzaymah, Sahih, no. 1679; Al-Darimy no. 1282; and Ibn Hibban, nos. 2211 and 2214.
@@ -138,5 +144,3 @@ May Allah grant us success. May peace and blessings be upon our Prophet Muhammad
 [^11]: Ahmad, vol. 5, pp. 200-210; Al-Bukhari, Fat-h-ul-Bary, no. 5069; Muslim, no. 2740-2741; Al-Nasa*y, Al-Sunan Al-Kubra, and Tuhfat Al-Ashraf, vol. 1, p. 49; Ibn Majah, no. 3998; Al-Bayhaqy, Al-Sunan, vol. 7, p. 91; and Al-Tirmidhy no. 2780.
 [^12]: Ahmad, vol. 3, pp. 19, 22, and 61; Muslim, no. 2742; Al-Bayhaqy, vol. 7, p. 91; Al-Tirmidhy, no. 2191; Ibn Majah, no. 4000; and Ibn Khuzaymah, no. 1499.
 [^13]: Al-Tabarany, Al-Kabir, vol. 20, p. 213; and Ibn Abu Shaybah, Al-Musannaf, vol. 4, p. 341, Mawquf Hadith.
-
-
