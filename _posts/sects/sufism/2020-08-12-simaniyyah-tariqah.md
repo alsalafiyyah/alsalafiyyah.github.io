@@ -1,12 +1,19 @@
-﻿---
+---
 layout: post
-title: "Simaniyyah Tariqah (Sufi order)"
+title: "Ruling on Simaniyyah Tariqah (Sufi order)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 6/417"
 hijri: Dhul-Hijjah 22, 1441 AH
-tag: ["sufism", simaniyyah]
-date: 2020/08/12
-shaykhs: Shaykh Ibn Baz
+tag: ["sufism"]
+lang: en
+note: false
+locale: en
+uid: simaniyyah-tariqah
+excerpt: "Here in Sudan, we have a shaykh who has many followers who compete in serving and obeying him. They travel to visit him, thinking he is one of the Awliya' (pious people)."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question:
@@ -39,7 +46,3 @@ Anyone who can resist this Munkar should do so. If the country is Islamic, it sh
 [^1]: Al-Bukhari, Sahih, Book on Friday, no. 1189; Muslim, Sahih, Book on Hajj, no. 1397; Al-Nasa'i, Sunan, Book on Masjids, no. 700; Abu Dawud, Sunan, Book on rituals, no. 2033; Ibn Majah, Sunan, Book on performing Prayer and its Sunan, no. 1409; Ahmad ibn Hanbal, Musnad, vol. 2, p. 234; and Al-Darimy, Sunan, Book on Salah, no. 1421.
 [^2]: Muslim, Sahih, Book on funerals, no. 970; Al-Tirmidhy, Sunan, Book on funerals, no. 1052; Al-Nasa'i, Sunan, Book on funerals, no. 2027; Abu Dawud, Sunan, Book on funerals, no. 3225; Ibn Majah, Sunan, Book on funerals, no. 1563; Book on remembrance of Allah, supplication, repentance and seeking forgiveness, 3, p. 339.
 [^3]: Al-Bukhari, Sahih, Book on Salah, no. 436; Muslim, Sahih, Book on Masjids and places for Salah, no. 529; Al-Nasa'i, Sunan, Book on Masjids, no. 703; Ahmad ibn Hanbal, Musnad, vol. 6, p. 146; and Al-Darimy, Sunan, Book on Salah, no. 1403.
-
-
-
-
