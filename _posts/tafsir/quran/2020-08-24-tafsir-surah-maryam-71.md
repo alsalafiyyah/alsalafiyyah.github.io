@@ -1,12 +1,20 @@
-﻿---
+---
 layout: post
+published: true
 title: "Tafsir Surah Maryam Ayat 71"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 5/243, question no. 4"
 hijri: Muharram 5, 1442 AH
-date: 2020/08/24
-category: ["tafsir", quran, maryam]
-shaykhs: Shaykh Ibn Baz
+lang: en
+locale: en
+category: [quran]
+note: false
+uid: tafsir-surah-maryam-71
+excerpt: "This phrase means passing over (the Sirat) as it was proved by authentic Hadith reported from the Prophet (peace be upon him). Allah will save those who fear Allah and leave the Mushriks (those who associate others with Allah in His Divinity or worship) and wrongdoers therein humbled on their knees."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question: 
