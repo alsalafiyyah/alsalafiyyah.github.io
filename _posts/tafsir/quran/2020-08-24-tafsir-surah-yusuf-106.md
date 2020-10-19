@@ -1,12 +1,20 @@
-﻿---
+---
 layout: post
+published: true
 title: "Tafsir Surah Yusuf Ayat 106"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 5/355, question no. 18"
 hijri: Muharram 5, 1442 AH
-date: 2020/08/24
-category: ["tafsir", quran, yusuf]
-shaykhs: Shaykh Ibn Baz
+lang: en
+locale: en
+note: false
+uid: tafsir-surah-yusuf-106
+category: [quran]
+excerpt: "Scholars like Ibn 'Abbas and others explained that this Ayah means that whenever asked who created the heavens and the earth, the unbelievers would say "It is Allah". Yet, they worshipped idols like Al-Lat, Al-'Uzza, and other deities."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question: 
