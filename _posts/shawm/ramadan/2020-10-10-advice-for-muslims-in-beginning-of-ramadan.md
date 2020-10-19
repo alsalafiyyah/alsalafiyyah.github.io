@@ -4,8 +4,10 @@ publisher: alsalafiyyah@icloud.com
 title: "Advise for Muslims on the occasion of the beginning of blessed Ramadan"
 hijri: Safar 23, 1442 AH
 lang: en
+note: false
+uid: advice-for-muslims-in-beginning-of-ramadan
 source: "Fatawa Al-Shaykh Ibn Baz p. 15/48"
-category: ["fasting", ramadan, shawm]
+category: ["fasting"]
 excerpt: "I advise my Muslim brothers everywhere on the occasion of the beginning of blessed Ramadan 1413 A.H. to fear Allah (Glorified and Exalted be He), compete to do good, advise one another to do what is right, and be patient in this regard. Cooperate to do the good and be pious, be careful to avoid what Allah forbids everywhere."
 muftis:
   shaykh: 
