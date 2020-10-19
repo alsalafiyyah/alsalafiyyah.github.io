@@ -22,9 +22,6 @@ layout: default
 
 {{category.size}}
 <article>
-  <h3>
-    Fatwa in topic : {{ page.category | capitalize }} 
-  </h3>
   <ol>
     {% for p in site.categories[page.category] %}
       <li>
