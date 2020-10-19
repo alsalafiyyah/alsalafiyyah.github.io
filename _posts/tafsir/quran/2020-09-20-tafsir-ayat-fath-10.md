@@ -1,10 +1,14 @@
 ---
 layout: post
+published: true
 publisher: alsalafiyyah@icloud.com
 title: "Tafsir of the Ayah: 'The Hand of Allâh is over their hands.'"
 hijri: Safar 03, 1442 AH
 lang: en
-category: ["tafsir", quran]
+locale: en
+note: false
+uid: tafsir-ayat-fath-10
+category: [quran]
 source: "Majmu' Fatawa 24/273"
 excerpt: "Please be informed that our 'Aqidah is to affirm Allah's Attribute of having a Hand and the other attributes stated by Him in His Noble Book or by His Messenger Muhammad (peace be upon him) in the purified Sunnah."
 muftis:
@@ -47,7 +51,7 @@ He (peace be upon him) also said: "**Allah's Hand is full; never diminishes no m
 
 It is also reported in the Sahih (Authentic Hadith Book) on the authority of Abu Sa'id Al-Khudry (may Allah be pleased with him) that the Prophet (peace be upon him) said: "**The earth will be one single bread on the Day of Resurrection which the Almighty will turn in His Hand as one of you turns a loaf while on a journey.**" [^3]
 
-It is also reported in the Sahih on the authority of Ibn `Umar (may Allah be pleased with them) that the Prophet (peace be upon him) said: "**'The Lord (Glorified and Exalted be He) will take in His Hand His heavens and earth and say, 'I am Allah - the Prophet (peace be upon him) clenched and opened his fingers (and continued narrating) - I am the King,' so much so that I looked at the Minbar (pulpit) and saw it moving underneath the Messenger of Allah (peace be upon him) and thought that it would cause him (peace be upon him) to fall.**" [^4]
+It is also reported in the Sahih on the authority of Ibn 'Umar (may Allah be pleased with them) that the Prophet (peace be upon him) said: "**'The Lord (Glorified and Exalted be He) will take in His Hand His heavens and earth and say, 'I am Allah - the Prophet (peace be upon him) clenched and opened his fingers (and continued narrating) - I am the King,' so much so that I looked at the Minbar (pulpit) and saw it moving underneath the Messenger of Allah (peace be upon him) and thought that it would cause him (peace be upon him) to fall.**" [^4]
 
 According to another narration: "**While on the Minbar (pulpit), the Prophet (peace be upon him) recited the Ayah: "They made not a just estimate of Allâh such as is due to Him. And on the Day of Resurrection the whole of the earth will be grasped by His Hand and the heavens will be rolled up in His Right Hand.Glorified be He, and High be He above all that they associate as partners with Him!" [Al-Zumar: 67] He (peace be upon him) said, 'Allah - glorifying Himself - will say: I am the Almighty.'**" [^5]
 
@@ -67,8 +71,7 @@ The Shaykh of Islam stated that these Hadiths and others stand as decisive texts
 
 The Prophet (peace be upon him) taught us everything, even how to perform Istinja' (cleansing the private parts with water after urination or defecation). He (peace be upon said) said: "**I have left nothing which can lead you to Paradise except that I explained it to you. I have left you on white (clear) proof; its night is like its day. None shall deviate from it after me except that he is destroyed.**" It is illogical that after that the Prophet (peace be upon him) would ignore the claim that apparent meanings of the texts contained in the Book and Sunnah imply Tajsim (anthropomorphism) and Tashbih and that whoever believe in the apparent meanings is misguided without explaining or manifesting the truth. It is also impossible that the Salaf would say that we should accept these texts as they were revealed while they intended the metaphorical meaning. If they had metaphorically implied certain attributes, the Arabs would have realized this. Persians and Romans cannot be more knowledgeable of Arabic language than the sons of Al-Muhajirun (Emigrants from Makkah to Madinah) and Al-Ansar (Helpers, inhabitants of Madinah who supported the Prophet). End of quote. Brief summary from Majmu' Al-Fatawa by Shaykh-ul-Islam Ibn Taymiyyah, vol. 6, pp. 351-373.
 
-In the light of what is mentioned, it is clear for everyone that what this young man said is the truth.
-We ask Allah to guide us all to do the right thing in deeds and words for He is All-Hearer and Responsive.
+In the light of what is mentioned, it is clear for everyone that what this young man said is the truth. We ask Allah to guide us all to do the right thing in deeds and words for He is All-Hearer and Responsive.
 
 ---
 
