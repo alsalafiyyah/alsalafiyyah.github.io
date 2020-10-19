@@ -1,12 +1,14 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "A Muslim's household following Al-Mirghaniyyah Tariqah (Sufi order)"
+title: "Ruling on Al-Mirghaniyyah or Al-Khatmiyyah Tariqah (Sufi order)"
 hijri: Safar 27, 1442 AH
 source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 10578-1"
 lang: en
-category: [dawah, sects, sufism, mirghaniyyah, khatmiyyah]
+category: [sufism]
 note: true
+uid: household-following-sufi-order
+locale: en
 excerpt: "I am a monotheist but my household follow Al-Mirghaniyyah Tariqah (Sufi order) which is known here in Sudan as Al-Khatmiyyah. Since I was guided to monotheism, I started calling my family to follow it but they refuse, as I am the youngest son."
 muftis:
   chairman: 
