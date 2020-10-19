@@ -1,12 +1,20 @@
-﻿---
+---
 layout: post
+published: true
 title: "Tafsir Surah Al-Baqarah Ayat 258"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 9/279"
 hijri: Muharram 6, 1442 AH
-date: 2020/08/25
-category: ["tafsir", quran, baqarah]
-shaykhs: Shaykh Ibn Baz
+lang: en
+locale: en
+note: false
+uid: -tafsir-surah-baqarah-258
+category: [quran]
+excerpt: "This Ayah (Qur'anic verse) is very clear to whoever contemplates it. Ibrahim, Khalil Al-Rahman (the close friend of Allah), was sent to call his people to Tawhid (belief in the Oneness of Allah/ monotheism) and warn them against Shirk (associating others with Allah in His Divinity or worship)."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question:
