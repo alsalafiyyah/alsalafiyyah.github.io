@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-
+{{category.size}}
 <article>
-  <h3 class="page-heading">Posts in category : {{ page.category }}</h3>
+  <h3>Fatwa in topic : {{ page.category }} {{ page.categories[category].size }}</h3>
   <ol>
     {% for p in site.categories[page.category] %}
       <li>
