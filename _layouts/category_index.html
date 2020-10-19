@@ -2,13 +2,13 @@
 layout: default
 ---
 
-<div class="home">
-  <h1 class="page-heading">Posts in category : {{ page.category }}</h1>
-  <ul class="post-list">
+<article>
+  <h3 class="page-heading">Posts in category : {{ page.category }}</h3>
+  <ol>
     {% for p in site.categories[page.category] %}
       <li>
-        <h2><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></h2>
+        <a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
       </li>
     {% endfor %}
-  </ul>
-</div>
+  </ol>
+</article>
