@@ -1,11 +1,15 @@
 ---
 layout: post
+published: true
 title: "Tafsir Surah Al-Baqarah Ayat 256"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 5/408"
 hijri: Muharram 5, 1442 AH
 lang: en
-category: ["tafsir", quran, baqarah]
+locale: en
+category: [quran]
+note: false
+uid: tafsir-surah-baqarah-256
 excerpt: "Allah (Exalted be He) says, 'There is no compulsion in religion.' [al-Baqarah: 256] Is this Ayah confined in application to the Jews and Christians or is it general in meaning?"
 muftis:
   shaykh: 
