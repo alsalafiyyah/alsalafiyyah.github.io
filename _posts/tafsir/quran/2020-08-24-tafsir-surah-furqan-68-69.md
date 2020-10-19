@@ -1,12 +1,20 @@
-﻿---
+---
 layout: post
+published: true
 title: "Tafsir Surah Al-Furqan Ayat 68-69"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 5/355, question no. 12"
 hijri: Muharram 5, 1442 AH
-date: 2020/08/24
-category: ["tafsir", quran, furqan]
-shaykhs: Shaykh Ibn Baz
+lang: en
+locale: en
+note: false
+uid: tafsir-surah-furqan-68-69
+excerpt: "These great Ayahs warn against Shirk (associating others with Allah in His Divinity or worship), Qatl (murder), and Zina (sexual intercourse outside marriage). "
+category: [quran]
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question: 
