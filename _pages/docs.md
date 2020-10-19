@@ -23,6 +23,7 @@ permalink: /docs/
 <ol>
 {% for post in site.posts %}
  {% if post.path contains 'salafism' %}
+  <h3>{{ category[0] | capitalize }} <span> ({{ category[1].size }})</h3>
   <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
  {% endif %}
 {% endfor %}  
