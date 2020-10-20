@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Is enjoining Ma'ruf and forbidding Munkar by the hand is a right for all Muslims or is it just confined to those in authority and their deputies?"
 hijri: "Dhul-Qa'dah 30, 1441 AH"
-source: "Fatawa Al-Shaykh Ibn Baz vol 8, question 8"
+source: "Fatawa Al-Shaykh Ibn Baz 8/207, question 8"
 lang: en
 category: [rulership, hisbah]
 note: false
