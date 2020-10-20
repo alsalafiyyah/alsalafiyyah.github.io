@@ -1,11 +1,13 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: Tijaniyyah Tariqah
+title: "Tijaniyyah Tariqah (Sufi order)"
 hijri: Muharram 22, 1442 AH
 lang: en
-category: ["sufism", tijaniyyah]
-source: Majmu' Fatawa of Ibn Baz, vol 6
+note: false
+uid: tijaniyyah
+category: ["sufism"]
+source: "Majmu' Fatawa of Ibn Baz, vol 6"
 excerpt: "We have so many followers of the Tijaniyyah, but I have known from your Program that it is an innovated Tariqah (Sufi order)"
 muftis:
   shaykh: 
@@ -61,7 +63,7 @@ As for Salat-ul-Fatih, even if its intended meaning may be correct in general, i
 
 [^1]: Al-Bukhari, Sahih, Book on reconciliation, no. 2697; Muslim, Sahih, Book on judicial decisions, no. 1718; Abu Dawud, Sunan, Book on Al-Sunnah, no. 4606; Ibn Majah, Sunan, Introduction, no. 14; and Ahmad, Musnad, vol. 6, p. 240.
 [^2]: Muslim, Sahih, Book on judicial decisions, no. 1718; and Ahmad ibn Hanbal, Musnad, vol. 6, p. 256.
-[^3]: Muslim, Sahih, Book on Friday, no. 867; Al-Nasa'i, Sunan, Book on the two `Eid Prayers, no. 1578; Abu Dawud, Book on tribute, spoils, and rulership, no. 2954; Ibn Majah, Sunan, Introduction, no. 45; Ahmad ibn Hanbal, Musnad, vol. 3, p. 311; and Al-Darimy, Sunan, Introduction, no. 206.
+[^3]: Muslim, Sahih, Book on Friday, no. 867; Al-Nasa'i, Sunan, Book on the two 'Eid Prayers, no. 1578; Abu Dawud, Book on tribute, spoils, and rulership, no. 2954; Ibn Majah, Sunan, Introduction, no. 45; Ahmad ibn Hanbal, Musnad, vol. 3, p. 311; and Al-Darimy, Sunan, Introduction, no. 206.
 [^4]: Al-Bukhari, Sahih, Book on supplications, no. 6357; Muslim, Sahih, Book on Salah, no. 406; Al-Tirmidhy, Sunan, Book on Salah, no. 483; Al-Nasa'i, Sunan, Book on Sujud-ul-Sahw, no. 1289; Abu Dawud, Sunan, Book on Salah, no. 976; Ibn Majah, Sunan, Book on performing Prayer and its Sunan, no. 904; Ahmad ibn Hanbal, Musnad, vol. 4, p. 244; and Al-Darimy, Sunan, Book on Salah, no. 1342.
 [^5]: Al-Bukhari, Sahih, Book on Prophets, no. 3369; Muslim, Sahih, Book on Salah, no. 407; Al-Nasa'i, Sunan, Book on Sujud-ul-Sahw, no. 1294; Abu Dawud, Sunan, Book on Salah, no. 979; Ibn Majah, Sunan, Book on performing Prayer and its Sunan, no. 905; Ahmad ibn Hanbal, Musnad, vol. 5, p. 424; Malik, Al-Muwatta*, Book on call to Prayer, no. 397.
 [^6]: Muslim, Sahih, Book on Salah, no. 405; Al-Tirmidhy, Sunan, Book on Tafsir, no. 3220; Al-Nasa'i, Sunan, Book on Sujud-ul-Sahw, no. 1285; Ahmad ibn Hanbal, Musnad, vol. 4, p. 119; Malik, Al-Muwatta, Book on call to Prayer, no. 398; and Al-Darimy, Sunan, Book on Salah, no. 1343.
