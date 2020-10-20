@@ -2,14 +2,23 @@
 layout: post
 title: "Permissibility of the victim's guardian giving up the right of executing the Hadd"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 13432"
+source: "Fatawa Al-Lajnah Ad-Da'imah of KSA no. 13432"
 hijri: Muharram 10, 1442 AH
-date: 2020/08/29
+lang: en
+note: true
+uid: permissibility-of-the-victim-guardian-giving-up-the-right-of-executing-the-hadd
 category: ["rulership", hudud]
-shaykhs: 
- - Shaykh Abdul-'Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
+excerpt: "The guardian of the victim is not permitted to forgo, for executing the punishment is Allah's right, and the ruler is the one responsible for the execution."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
 ---
 
 Question: 
@@ -19,5 +28,3 @@ In the current Shawwal 20, two students in the first grade in the preparatory sc
 Answer:
 
 The guardian of the victim is not permitted to forgo, for executing the punishment is Allah's right, and the ruler is the one responsible for the execution.
-
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
