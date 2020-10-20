@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: "Ruling on giving Bay'ah (pledge of allegiance) to other than the rulers"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Shaykh Ibn Baz p. 28/250"
