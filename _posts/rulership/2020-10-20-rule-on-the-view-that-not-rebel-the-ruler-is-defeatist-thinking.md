@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ruling on the view that not rebeling the ruler is a defeatist thinking"
+title: "Ruling on the view that not rebeling the ruler is defeatist thinking"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat p. 8/206, question 2"
 category: [rulership]
