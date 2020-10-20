@@ -1,11 +1,11 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Some young people think that it is lawful to alienate the disbelievers residing in or immigrating to Muslim countries"
+title: "It is not permissible to kill resident or immigrant disbelievers"
 hijri: "Dhul-Qa'dah 30, 1441 AH"
 source: "Fatawa Al-Shaykh Ibn Baz 8/207, question 4 and 5"
 lang: en
-category: [rulership, hisbah]
+category: [rulership, hisbah, walabara]
 note: false
 uid: it-is-not-permissible-to-kill-resident-or-immigrant-kafirs
 excerpt: "It is not permissible to kill resident or immigrant Kafirs who are Musta'man (non-Muslim with a peace agreement permitting them to enter and stay temporarily in a Muslim country), who have entered into a country peacefully."
@@ -15,17 +15,13 @@ muftis:
       url: /biography/binbaz/
 ---
 
-Question:
-
-Some young people think that it is lawful to alienate the Kafirs (disbelievers) residing in or immigrating to Muslim countries. Accordingly, some of them deem it lawful to kill and steal from them if they see them committing Munkar. 
+**Question: Some young people think that it is lawful to alienate the Kafirs (disbelievers) residing in or immigrating to Muslim countries. Accordingly, some of them deem it lawful to kill and steal from them if they see them committing Munkar.**
 
 Answer:
 
 It is not permissible to kill resident or immigrant Kafirs who are Musta'man (non-Muslim with a peace agreement permitting them to enter and stay temporarily in a Muslim country), who have entered into a country peacefully. It is also not permissible to kill or attack those who commit sins; the Munkar that they have committed should be referred to the Islamic Law Courts and the decision they see will be sufficient.
 
-Question: 
-
-What if there are no Islamic Law Courts? 
+**Question: What if there are no Islamic Law Courts?**
 
 Answer:
 
