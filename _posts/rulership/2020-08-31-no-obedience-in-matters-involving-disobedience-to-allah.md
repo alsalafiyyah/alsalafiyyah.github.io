@@ -8,7 +8,7 @@ lang: en
 note: true
 uid: no-obedience-in-matters-involving-disobedience-to-allah
 category: [rulership, hisbah]
-excerpt: ""
+excerpt: "A believer should abandon such sins, and follow the Book of Allah and the Sunnah of His Messenger (peace be upon him). This is an established fact. They should neither obey the ruler nor anyone else in what leads to the disobedience of Allah (Glorified and Exalted be He)."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz
