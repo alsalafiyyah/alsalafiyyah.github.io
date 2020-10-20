@@ -4,6 +4,8 @@ publisher: alsalafiyyah@icloud.com
 title: "Each group claims to be the right group"
 hijri: Safar 20, 1442 AH
 lang: en
+uid: each-group-claim-to-be-right-group
+note: false
 source: "Majmu' Fatawa Al-Shaykh Ibn Baz p. 7/119, question 5"
 category: [sects, sufism, tablighis, ikhwanis, salafism, madhabs]
 excerpt: "The group we should follow and comply with its methodology is that which follows Al-Sirat-ul-Mustaqim (the Straight Path), the Prophet (peace be upon him) and his Sunnah and the Qur'an."
