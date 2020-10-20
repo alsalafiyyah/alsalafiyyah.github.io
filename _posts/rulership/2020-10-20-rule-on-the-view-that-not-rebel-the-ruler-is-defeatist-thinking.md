@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "Ruling on the view that not rebeling the ruler is defeatist thinking which manifests weakness"
+title: "Ruling on the view that not rebel against the ruler is a defeatist thinking which manifests weakness"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat p. 8/206, question 2"
 category: [rulership, khawarij]
