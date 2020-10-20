@@ -8,7 +8,7 @@ hijri: "Rabi' Al-Awwal 03, 1442 AH"
 lang: en
 note: false
 locale: en
-uid: ruling-on-abstains-from-supplicating-to-allah-for-the-ruler
+uid: rule-on-the-view-that-not-rebel-the-ruler-is-defeatist-thinking
 excerpt: "This is a mistake on the part of those who said this and shows their lack of understanding, as they neither understand the Sunnah nor know it in the correct way."
 muftis:
   shaykh: 
