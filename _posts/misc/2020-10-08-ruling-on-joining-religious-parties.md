@@ -4,6 +4,8 @@ publisher: alsalafiyyah@icloud.com
 title: "Ruling on joining religious parties"
 hijri: Safar 21, 1442 AH
 lang: en
+note: false
+uid: ruling-on-joining-religious-parties
 source: "Majmu' Fatawa Al-Shaykh Ibn Baz p. 7/182, question 2"
 category: [sects, sufism, tablighis, ikhwanis, salafism]
 excerpt: "A Muslim must not belong to innovated parties. We should only belong to Allah's Book and the Sunnah of His Prophet (peace be upon him) and cooperate in this regard with sincerity and truth so as to be part of Allah's Party."
