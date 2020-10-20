@@ -5,13 +5,20 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat p. 8/209"
 category: [rulership]
 hijri: Muharram 16, 1442 AH
-date: 2020-09-04
-shaykhs: Shaykh Abdul-Aziz Ibn Baz
+lang: en
+note: false
+locale: en
+uid: ruling-on-abstains-from-supplicating-to-allah-for-the-ruler
+excerpt: "The Mu'min (believer) should pray Allah to grant all good for people and the ruler in particular, for his reform is a reform for the Ummah (nation)."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question: 
 
-What is the ruling on a person who abstains from supplicating to Allah for the ruler? May Allah protect you. 
+What is the ruling on one who abstains from supplicating to Allah for the ruler? May Allah protect you. 
 
 Answer:
 
