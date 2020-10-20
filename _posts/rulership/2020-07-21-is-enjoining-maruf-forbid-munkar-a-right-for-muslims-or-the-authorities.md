@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 publisher: alsalafiyyah@icloud.com
 title: "Is enjoining Ma'ruf and forbidding Munkar by the hand is a right for all Muslims or is it just confined to those in authority and their deputies?"
 hijri: "Dhul-Qa'dah 30, 1441 AH"
