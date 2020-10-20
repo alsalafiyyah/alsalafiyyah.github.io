@@ -2,11 +2,17 @@
 layout: post
 title: "Ruling on criticize rulers openly on the Minbar (pulpit)"
 publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat 8/210, question 10"
+source: "Majmu' Fatawa wa Maqalat 8/210"
 category: ["rulership"]
 hijri: Dhul-Qa'dah 31, 1441 AH
-date: 2020/07/22
-shaykhs: Shaykh Ibn Baz
+lang: en
+note: false
+uid: criticize-rulers-on-minbar
+excerpt: "It was not the practice of the Salaf to make the defects of their rulers known by mentioning them on the Minbar. This is because doing so results in anarchy, disobedience, and harmful consequences."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question: 
