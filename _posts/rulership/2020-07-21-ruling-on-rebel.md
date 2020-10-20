@@ -2,11 +2,18 @@
 layout: post
 title: "Ruling on rebel against the rulers"
 publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat p. 8/202, question 1"
+source: "Majmu' Fatawa wa Maqalat p. 8/202"
 category: ["rulership"]
 hijri: Dhul-Qa'dah 30, 1441 AH
-date: 2020/07/21
-shaykhs: Shaykh Ibn Baz
+lang: en
+note: false
+locale: en
+uid: ruling-on-rebel
+excerpt: "The Nas from the Sunnah explains the meaning and confines the absoluteness of the Ayah to obeying the Muslims in authority in what is judged to be Ma‘ruf."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question: 
@@ -41,4 +48,4 @@ On the other hand, if rebellion would result in greater corruption, chaos, oppre
 [^2]: Muslim, Sahih, Book on rulership, no. 1848; Al-Nasa'i, Sunan, Book on sanctity of blood, no. 4114; Ibn Majah, Sunan, Book on trials, no. 3948; and Ahmad ibn Hanbal, Musnad, vol. 2, p. 296.
 [^3]: Al-Bukhari, Sahih, Book on judgments, no. 7144; Muslim, Sahih, Book on rulership, no. 1839; Al-Tirmidhy, Sunan, Book no Jihad, no. 1707; Abu Dawud, Sunan, Book on Jihad, no. 2626; Ibn Majah, Sunan, Book on Jihad, no. 2864; and Ahmad ibn Hanbal, Musnad, vol. 2, p. 142.
 [^4]: Al-Bukhari, Sahih, Book on trials, no. 7052; Muslim, Sahih, Book on rulership, no. 1843; Al-Tirmidhy, Sunan, Book on trials, no. 2190; and Ahmad ibn Hanbal, Musnad, vol. 1, p. 387.
-[^5]: Al-Bukhari, Sahih, Book on trials, no. 7056; Muslim, Sahih, Book on ordained punishments, no. 1709; Al-Nasa*y, Sunan, Book on Al-Bay'ah, no. 4162; Ibn Majah, Sunan, Book on Jihad, no. 2866; Ahmad ibn Hanbal, Musnad, vol. 5, p. 325; Malik, Al-Muwatta*, Book on Jihad, no. 977; and Al-Darimy, Sunan, Book on military expeditions, no. 2453.
+[^5]: Al-Bukhari, Sahih, Book on trials, no. 7056; Muslim, Sahih, Book on ordained punishments, no. 1709; Al-Nasa'i, Sunan, Book on Al-Bay'ah, no. 4162; Ibn Majah, Sunan, Book on Jihad, no. 2866; Ahmad ibn Hanbal, Musnad, vol. 5, p. 325; Malik, Al-Muwatta*, Book on Jihad, no. 977; and Al-Darimy, Sunan, Book on military expeditions, no. 2453.
