@@ -3,7 +3,7 @@ layout: post
 title: "Ruling on the view that not rebeling the ruler is defeatist thinking"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat p. 8/206, question 2"
-category: [rulership]
+category: [rulership, khawarij]
 hijri: "Rabi' Al-Awwal 03, 1442 AH"
 lang: en
 note: false
