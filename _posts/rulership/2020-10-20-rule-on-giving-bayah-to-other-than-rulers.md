@@ -3,7 +3,7 @@ layout: post
 published: false
 title: "Ruling on giving Bay'ah (pledge of allegiance) to other than the rulers"
 publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat"
+source: "Majmu' Fatawa wa Maqalat, Among the questions asked to His Eminence by Al-Muslimun Newspaper."
 category: [rulership]
 hijri: "Rabi' Al-Awwal 03, 1442 AH"
 lang: en
