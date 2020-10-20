@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 publisher: alsalafiyyah@icloud.com
 title: "Some young people think that it is lawful to alienate the disbelievers residing in or immigrating to Muslim countries"
 hijri: "Dhul-Qa'dah 30, 1441 AH"
