@@ -2,16 +2,27 @@
 layout: post
 title: "Forgiving the people of good qualities their slips"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 18732"
+source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 18732"
 hijri: Muharram 10, 1442 AH
-date: 2020/08/29
-category: ["tafsir", "rulership", hadiths, hudud]
-shaykhs: 
- - Shaykh Abdul-'Aziz ibn 'Abdullah ibn Baz
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Salih Fawzan
- - Shaykh Bakr Abu Zayd
+lang: en
+note: true
+uid: forgiving-people-of-good-qualities-their-slips
+category: ["rulership", hudud, hadiths]
+excerpt: "The Hadith means that it is desirable to forgive people of good qualities if they commit a small or trivial mistake but not a sin that requires the execution of a Hadd (ordained punishment for violating Allah’s Law) decreed by Allah (Exalted be He) if the ruler knows about the sin in which case it must be executed."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+      url: /biography/abdulaziz/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Salih Fawzan
+      url: /biography/fawzan/
+    - name: Shaykh Bakr Abu Zayd
+      url: /biography/fawzan/
 ---
 
 Question: 
@@ -28,9 +39,7 @@ The learned scholar Ibn Al-Qayyim (may Allah be merciful to him) opposed this in
 
 According to what we mentioned above, the Hadith does not contradict the principle of justice and equality in Islam. In fact, it calls people to forgive whoever commits a small sin that does not demand execution of Hadd, if the sinner is a person known for uprightness and if forgiving his sin will not cause much harm.
 
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
-
 ---
 
-[^1]: Ahmad, vol. 6, p. 181; Al-Bukhari, Al-Adab Al-Mufrad, p. 165, no. 465, Al-Dar Al-Salafiyyah; Abu Dawud, vol. 4, p. 540, no. 4375; Al-Tahawy, Al-Mushkil, vol. 3, pp. 126, 128, and 129; Ibn Hibban, vol. 1, p. 296, no. 94; Ibn Hazm, Al-Muhalla, vol. 11, pp. 404 and 405, no. 2306; Abu Nu`aym, Al-Hilyah, vol. 9, p. 43; and Al-Bayhaqi, vol. 8, pp. 267 and 334.
+[^1]: Ahmad, vol. 6, p. 181; Al-Bukhari, Al-Adab Al-Mufrad, p. 165, no. 465, Al-Dar Al-Salafiyyah; Abu Dawud, vol. 4, p. 540, no. 4375; Al-Tahawy, Al-Mushkil, vol. 3, pp. 126, 128, and 129; Ibn Hibban, vol. 1, p. 296, no. 94; Ibn Hazm, Al-Muhalla, vol. 11, pp. 404 and 405, no. 2306; Abu Nu'aym, Al-Hilyah, vol. 9, p. 43; and Al-Bayhaqi, vol. 8, pp. 267 and 334.
 [^2]: Narrated on the authority of 'Aishah (may Allah be pleased with her) by Ahmad, vol. 6, p. 162; Al-Bukhari, vol. 4, pp. 151, 213, and 214, vol. 5, p. 97, and vol. 8, p. 16; Muslim, vol. 3, p. 1315, no. 1688; Abu Dawud, vol. 4, pp. 537 and 538, no. 4373; Al-Tirmidhi, vol. 4, p. 38, no. 1430; Al-Nasa'i, vol. 8, pp. 72-75, nos. 4895, and 4897-4903; Al-Tahawi, Al-Mushkil, vol. 3, p. 97, and Sharh Al-Ma'ani, vol. 3, pp. 170 and 171; Ibn Hibban, vol. 10, p. 248, no. 4402; and Al-Bayhaqi, vol. 8, pp. 253 and 254.
