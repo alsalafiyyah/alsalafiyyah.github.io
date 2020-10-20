@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: "Ruling on the view that not ruling rebel the ruler is a defeatist thinking"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat p. 8/206, question 2"
