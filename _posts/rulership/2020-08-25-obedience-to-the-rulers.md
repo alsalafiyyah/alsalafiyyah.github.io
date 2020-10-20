@@ -1,12 +1,18 @@
-﻿---
+---
 layout: post
 title: "Obedience to the ruler"
 publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat 9/103"
+source: "Majmu' Fatawa wa Maqalat p.9/103"
 hijri: Muharram 6, 1442 AH
-date: 2020/08/25
-category: ["rulership", "tafsir", hadiths]
-shaykhs: Shaykh Ibn Baz
+lang: en
+uid: obedience-to-the-rulers
+note: false
+category: ["rulership", hadiths]
+excerpt: "This ruling is general and its meaning is qualified by other Hadiths from the Sunnah, as both the Quran and the Sunnah are integrated and their rulings restrict each other. That is to say, the general meaning in the book of Allah can be defined by a Hadith of the Prophet (peace be upon him) and vice versa."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question:
