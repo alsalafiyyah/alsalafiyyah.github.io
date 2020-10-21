@@ -32,7 +32,11 @@ active: fatwas
   {% include note.html %}
   </div>
  
-  {% include post-source.liquid %}
-
+{% include post-source.liquid %}
+{% for category in page.categories %}
+  <a href="/category/{{ category | slugize }}">
+    {{ category }}
+  </a>
+{% endfor %}
 </article>
 {% endif %}
