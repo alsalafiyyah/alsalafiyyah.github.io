@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ruling on giving Bay'ah (pledge of allegiance) to other than the rulers"
+title: "It is not permissible to rebel against him if revolution leads to greater harm"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Shaykh Ibn Baz p. 28/250"
 category: [rulership]
