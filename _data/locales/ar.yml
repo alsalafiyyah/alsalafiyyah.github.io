@@ -14,24 +14,6 @@ menu:
   - name: الرئيسية
     link: /ar/
     active: home
-  - name: مقالات
-    link: /ar/muqolat/
-    active: muqolat
-  - name: فتاوى
-    link: /ar/fatwas/
-    active: fatwas
-  - name: تصفح
-    link: /ar/topic
-    active: topic
-  - name: تحميل
-    link: /ar/downloads/
-    active: downloads
-  - name: الوهابية
-    link: /ar/wahhabism/
-    active: wahhabiyah
-  - name: الرد
-    link: /ar/refutations/
-    active: refutations
 
 page:
   next: التالي
