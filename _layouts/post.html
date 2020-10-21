@@ -35,7 +35,7 @@ active: fatwas
 {% include post-source.liquid %}
 {% for category in page.categories %}
   <a href="/category/{{ category | slugize }}">
-    {{ category }}
+    {{ category | sort | join: ", " }}
   </a>
 {% endfor %}
 </article>
