@@ -14,4 +14,42 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
   <meta property="og:image" content="{{ '/assets/images/fb.jpg' | absolute_url }}" />
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+{% if page.locale == 'ar' %}
+<style>
+/* Nav */
+#nav {
+color: #ffffff;
+display: -moz-flex;
+display: -webkit-flex;
+display: -ms-flex;
+display: flex;
+-moz-transition: -moz-transform 1s ease, opacity 1s ease;
+-webkit-transition: -webkit-transform 1s ease, opacity 1s ease;
+-ms-transition: -ms-transform 1s ease, opacity 1s ease;
+transition: transform 1s ease, opacity 1s ease;
+background: rgba(255, 255, 255, 0.175);
+height: 4rem;
+line-height: 4rem;
+margin: -4rem auto 0 auto;
+overflow: hidden;
+padding: 0.1.5rem 0 0.2rem;
+position: relative;
+width: calc(100% - 4rem);
+max-width: 72rem;
+z-index: 2;
+direction: rtl! important;
+}
+#nav ul.icons {
+-moz-flex-grow: 0;
+-webkit-flex-grow: 0;
+-ms-flex-grow: 0;
+flex-grow: 0;
+-moz-flex-shrink: 0;
+-webkit-flex-shrink: 0;
+-ms-flex-shrink: 0;
+flex-shrink: 0;
+margin-bottom: 0;
+margin-left: 10px! important;
+}
+</style>
 </head>
