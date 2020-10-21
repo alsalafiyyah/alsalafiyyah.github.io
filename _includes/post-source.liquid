@@ -78,6 +78,15 @@
  </span>
 </dd>
 
+<dt>Tags:</dt>
+<dd>
+{% if page.tags %} |
+{% for tag in page.tags %}
+  <a href="{{ site.url }}{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag">{{ tag }}</a>
+{% endfor %}
+{% endif %}
+</dd>
+
 {% include share.html %}
 
 {% if page.date %}
