@@ -14,11 +14,14 @@ layout: default
  </span>
   <h3 itemprop="name headline">{{ page.title }}</h3>
 </header>
- 
+
   <div itemprop="articleBody">
   {{ content }} 
+  {% include post-source.liquid %}
   </div>
+ 
 </article>
+
 {% if site.date %}
 <meta content='{{ site.time }}' itemprop='dateModified'/>
 <p><small>Page last update at: {{ site.time | date: "%b %-d, %Y at %r Saudi Arabia Time" }}</small></p>
