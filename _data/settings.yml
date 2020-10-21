@@ -83,7 +83,7 @@ page:
   chairman: Chairman
   deputy_chairman: Deputy Chairman
   members: Members
-  404: "The page you are looking for, Not found."
+  404: "Page not found. The page you are looking for is either under construction or is temporarily not available."
 
 post: 
   readmore: Read more
