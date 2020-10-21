@@ -4,7 +4,7 @@ published: true
 publisher: alsalafiyyah@icloud.com
 title: "There is no way to achieve that unless advice is exchanged"
 hijri: "Dhul-Qa'dah 30, 1441 AH"
-source: "Fatawa Al-Shaykh Ibn Baz"
+source: "Fatawa Al-Shaykh Ibn Baz vol 7, question 5"
 lang: en
 category: [rulership, hisbah]
 note: false
