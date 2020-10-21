@@ -44,7 +44,12 @@ paginate_multiple:
   - paginate: 2
     paginate_path: '/ar/page:num/'
     sub_dir: '/ar'
-    
+
+Tags: '/tags/'
+tag_page: '/tags/'
+Categories: '/category/'
+category_page: '/category/'
+
 tipue_search:
   include:
     pages: false
