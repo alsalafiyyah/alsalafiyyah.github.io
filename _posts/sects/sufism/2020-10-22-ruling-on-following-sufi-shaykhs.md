@@ -27,7 +27,9 @@ What the questioner mentions about having in their country shaykhs whom they fol
 
 As for scholars, they sometimes err. It is not permissible to adopt an opinion of any person, even great scholars, unless his opinion is in conformity with Allah’s Shar‘ (Law) which Muhammad (peace be upon him) conveyed. The belief of the Sufis with regard to their shaykhs is Batil (null and void) and wrong. They must repent to Allah and follow the guidance with which the Prophet Muhammad (peace be upon him) was sent. Allah (Exalted be He) states, "Say (O Muhammad صلى الله عليه وسلم to mankind): "If you (really) love Allâh then follow me (i.e. accept Islâmic Monotheism, follow the Qur’ân and the Sunnah), Allâh will love you and forgive you your sins." [Aal Imran: 31]
 
-The meaning is: "Say, O Messenger, to those people who claim that they love Allah: if you love Allah, then follow me, He will love you. Allah (Exalted be He) says, And whatsoever the Messenger (Muhammad صلى الله عليه وسلم) gives you, take it; and whatsoever he forbids you, abstain (from it)." [Al-Hashr: 7] 
+The meaning is: Say, O Messenger, to those people who claim that they love Allah: if you love Allah, then follow me, He will love you. 
+
+Allah (Exalted be He) says, "And whatsoever the Messenger (Muhammad صلى الله عليه وسلم) gives you, take it; and whatsoever he forbids you, abstain (from it)." [Al-Hashr: 7] 
 
 And, "And perform As-Salât (Iqâmat-as-Salât), and give Zakât and obey the Messenger (Muhammad صلى الله عليه وسلم) that you may receive mercy (from Allâh)." [Al-Nur: 56]
 
