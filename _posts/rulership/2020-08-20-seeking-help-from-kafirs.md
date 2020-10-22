@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Seeking the help of the kuffar in fighting other kuffar"
+title: "Ruling on seeking the help of the disbelievers to fight other disbelievers"
 publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
 source: "Fatawa Al-Shaykh Ibn Baz p. 6/183"
 hijri: Muharram 1, 1442 AH
