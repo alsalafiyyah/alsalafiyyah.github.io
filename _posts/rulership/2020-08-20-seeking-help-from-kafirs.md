@@ -17,7 +17,7 @@ muftis:
 
 Praise be to Allah. May peace and blessings be upon the noblest of all messengers i.e. Muhammad as well as his family, his Companions, and those who follow them in righteousness until the Day of Resurrection.
 
-Scholars held two different views with regard to the ruling on seeking the help of the disbelievers to fight other disbelievers:
+**Scholars held two different views with regard to the ruling on seeking the help of the disbelievers to fight other disbelievers** :
 
 ## First View:
 
