@@ -21,7 +21,7 @@ Scholars held two different views with regard to the ruling on seeking the help 
 
 ## First View:
 
-A group held that it is prohibited to seek the help of the disbelievers to fight against other disbelievers. They base their argument on the following:
+**A group held that it is prohibited to seek the help of the disbelievers to fight against other disbelievers**. They base their argument on the following:
 
 It is recorded by Muslim in his Sahih (authentic) book of Hadith on the authority of Aishah (may Allah be pleased with her) that the Prophet (peace be upon him) set out for Badr and when he reached Harrat-ul-Wabarah, a Mushrik (one who associates others with Allah in His Divinity or worship) who was known for his valor and courage met him. The Mushrik said, "I have come to follow you and take a share from the booty." The Prophet (peace be upon him) asked him, "Do you believe in Allah and His Messenger?" The man replied, "No." The Prophet said, "Go back for I will not seek the help of a Mushrik." The Prophet (peace be upon him) went on and when we reached Al-Shajarah, the man met him again and repeated his request. The Prophet (peace be upon him) asked him the same question and the man gave the same reply. The Prophet (peace be upon him) said, "Go back for I will not seek the help of a Mushrik." The man returned and overtook him at Al-Baida'. The Prophet (peace be upon him) repeated the question to him, "Do you believe in Allah and His Messenger?" The man replied, "Yes." The Messenger of Allah (peace be upon him) said to him, "Then come along with us" [^1]
 
