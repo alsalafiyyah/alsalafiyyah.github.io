@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 publisher: alsalafiyyah@icloud.com
 title: "Ruling on following Sufi Shaykhs"
 hijri: "Rabi' Al-Awwal 05, 1442 AH"
