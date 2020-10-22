@@ -73,7 +73,7 @@ Al-Shafi'i said that it is permissible to seek the help of Mushriks but on two c
 
 However, Ahmad in one of his two narrations said that it is permissible to give them a share of the booty. Al-Shafi'i said: If they were hired, they should be paid from the money which has no owner. He also said that they should be given from the spoils. Al-Wazir said: I believe that this case should be treated exactly the same as the cases of Jizyah (poll tax required from non-Muslims living in an Islamic state) and Kharaj (tax on agricultural land).
 
-A group of scholars said that it is permissible to seek the help of Mushriks in fighting against other Mushriks when necessary. They based their argument on a lot of evidence among which is Allah's saying in Surah Al-An'am ayat 119: "...while He has explained to you in detail what is forbidden to you, except under compulsion of necessity" 
+A group of scholars said that it is permissible to seek the help of Mushriks in fighting against other Mushriks when necessary. They based their argument on a lot of evidence among which is Allah's saying in Surah Al-An'am ayat 119: "**...while He has explained to you in detail what is forbidden to you, except under compulsion of necessity**" 
 
 They also used Al-Shafi'i's opinion which was transmitted by Al-Hazimy and which was previously mentioned as evidence. Al-Hazimy (may Allah be merciful to him) reported that a group of scholars permitted seeking the help of Mushriks on two conditions:
 
