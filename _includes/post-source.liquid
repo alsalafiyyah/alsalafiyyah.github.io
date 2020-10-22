@@ -93,12 +93,8 @@
           <i class="fas fa-bug"></i> Report a mistake
           </a>
         </dd>
+        <dd>{% if page.date %}<meta content='{{ site.time }}' itemprop='dateModified'/><span id='last-modified' itemprop='dateModified'></span>{% endif %}</dd>
         {% include share.html %}
-        {% if page.date %}
-        <meta content='{{ site.time }}' itemprop='dateModified'/>
-        <dt><span id='last-modified' itemprop='dateModified'></span></dt>
-        {% endif %}
-
       </dl>
     </div>
   </div>
