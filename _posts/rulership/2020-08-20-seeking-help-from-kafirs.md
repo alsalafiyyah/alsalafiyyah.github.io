@@ -2,7 +2,7 @@
 layout: post
 title: "Seeking the help of the kuffar in fighting other kuffar"
 publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
-source: "Fatawa Al-Shaykh Ibn Baz"
+source: "Fatawa Al-Shaykh Ibn Baz p. 6/183"
 hijri: Muharram 1, 1442 AH
 lang: en
 note: false
