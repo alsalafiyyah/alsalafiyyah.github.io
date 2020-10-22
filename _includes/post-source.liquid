@@ -1,105 +1,104 @@
 <hr/>
-
 <footer>
-<div class="row">
- <div class="col-6 col-12-small">
-  <dl>
-{% if page.source %}
-  <dt>{{site.data.settings.post.source}}:</dt>
-   <dd>
-    {{ page.source}}
-    {% else %}
-    {{ site.source.name}}
-   </dd>
-{% endif %}
-{% if page.shaykhs %}
-  <dt>{{site.data.settings.post.muftis}}:</dt>
-   <dd>
-    {{ page.shaykhs | join: ", "}}
-    {% else %}
-    {{ site.shaykhs.name | join: ", " }}
-   </dd>
-{% endif %}
-{% if page.muftis %}
-  {% if page.muftis.chairman %}
-  <dt>{{ site.data.settings.page.chairman }}:</dt>
-   {% for chairman in page.muftis.chairman %}
-   <dd>
-    <a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">
-     {{ chairman.name }}
-    </a>
-   </dd>
-   {% endfor %}
-   {% else %}
-  {% endif %}
-  {% if page.muftis.deputy_chairman %}
-  <dt>{{site.data.settings.page.deputy_chairman}}:</dt>
-   {% for deputy_chairman in page.muftis.deputy_chairman %}
-   <dd>
-    <a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">
-     {{ deputy_chairman.name }}
-    </a>
-   </dd>
-   {% endfor %}
-   {% else %}
-  {% endif %}
-  {% if page.muftis.members %}
-  <dt>{{site.data.settings.page.members}}:</dt>
-   {% for members in page.muftis.members %}
-   <dd>
-    <a title="{{ members.name }}" href="{{ members.url | relative_url }}">
-     {{ members.name }}
-    </a>
-   </dd>
-   {% endfor %}
-   {% else %}
-  {% endif %}
-  {% if page.muftis.shaykh %}
-   {% for shaykh in page.muftis.shaykh %}
-    <dt>Mufti:</dt>
-     <dd>
-      <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}">{{ shaykh.name }}</a></dd>
-   {% endfor %}
-   {% else %}
-  {% endif %}
-{% endif %}
-  </dl>
- </div>
+  <div class="row">
+    <div class="col-6 col-12-small">
+      <dl>
 
-<div class="col-6 col-12-small">
-<dl>
+        {% if page.source %}
+        <dt>{{site.data.settings.post.source}}:</dt>
+        <dd>
+          {{ page.source}}
+          {% else %}
+          {{ site.source.name}}
+        </dd>
+        {% endif %}
 
-<dt>Published on this site:</dt>
-<dd>
- <span class="date">
-  {% if page.date %}
-  <meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">
-  {% endif %}
-  {% if page.hijri %}{{ page.hijri }}{% else %}{{ site.hijri.name }}{% endif %}
- </span>
-</dd>
+        {% if page.shaykhs %}
+        <dt>{{site.data.settings.post.muftis}}:</dt>
+        <dd>
+          {{ page.shaykhs | join: ", "}}
+          {% else %}
+          {{ site.shaykhs.name | join: ", " }}
+        </dd>
+        {% endif %}
 
-<dt></dt>
- <dd>
- {% for category in page.categories %}
-  <a href="/category/{{ category | slugize }}">
-    {{ category }}
-  </a>
- {% endfor %}
- </dd>
- 
-{% include share.html %}
+        {% if page.muftis %}
+        {% if page.muftis.chairman %}
+        <dt>{{ site.data.settings.page.chairman }}:</dt>
+        {% for chairman in page.muftis.chairman %}
+        <dd>
+          <a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">
+          {{ chairman.name }}
+          </a>
+        </dd>
+        {% endfor %}
+        {% else %}
+        {% endif %}
+        {% if page.muftis.deputy_chairman %}
+        <dt>{{site.data.settings.page.deputy_chairman}}:</dt>
+        {% for deputy_chairman in page.muftis.deputy_chairman %}
+        <dd>
+          <a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">
+          {{ deputy_chairman.name }}
+          </a>
+        </dd>
+        {% endfor %}
+        {% else %}
+        {% endif %}
+        {% if page.muftis.members %}
+        <dt>{{site.data.settings.page.members}}:</dt>
+        {% for members in page.muftis.members %}
+        <dd>
+          <a title="{{ members.name }}" href="{{ members.url | relative_url }}">
+          {{ members.name }}
+          </a>
+        </dd>
+        {% endfor %}
+        {% else %}
+        {% endif %}
+        {% if page.muftis.shaykh %}
+        {% for shaykh in page.muftis.shaykh %}
+        <dt>Mufti:</dt>
+        <dd>
+          <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}">{{ shaykh.name }}</a>
+        </dd>
+        {% endfor %}
+        {% else %}
+        {% endif %}
+        {% endif %}
 
-{% if page.date %}
-<meta content='{{ site.time }}' itemprop='dateModified'/>
-   <dt><span id='last-modified' itemprop='dateModified'></span></dt>
-{% endif %}
-   <dt>
-    <a href="mailto:alsalafiyah@icloud.com?subject=Report&body={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}">
-     <i class="fas fa-bug"></i> Report a mistake
-    </a>
-   </dt>
-  </dl>
- </div>
-</div>
+      </dl>
+    </div>
+    <div class="col-6 col-12-small">
+      <dl>
+        <dt>Published on this site:</dt>
+        <dd>
+          <span class="date">
+            {% if page.date %}
+            <meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">
+            {% endif %}
+            {% if page.hijri %}{{ page.hijri }}{% else %}{{ site.hijri.name }}{% endif %}
+          </span>
+        </dd>
+        <dt></dt>
+        <dd>
+          {% for category in page.categories %}
+          <a href="/category/{{ category | slugize }}">
+          {{ category }}
+          </a>
+          {% endfor %}
+        </dd>
+        {% include share.html %}
+        {% if page.date %}
+        <meta content='{{ site.time }}' itemprop='dateModified'/>
+        <dt><span id='last-modified' itemprop='dateModified'></span></dt>
+        {% endif %}
+        <dt>
+          <a href="mailto:alsalafiyah@icloud.com?subject=Report&body={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}">
+          <i class="fas fa-bug"></i> Report a mistake
+          </a>
+        </dt>
+      </dl>
+    </div>
+  </div>
 </footer>
