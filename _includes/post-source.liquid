@@ -5,11 +5,10 @@
       <dl>
 
         {% if page.source %}
-        <dt>{{site.data.settings.post.source}}:</dt>
         <dd>
-          {{ page.source}}
+          {{ page.source | prepend: "Source: "}}
           {% else %}
-          {{ site.source.name}}
+          {{ site.source.name | prepend: "Source: "}}
         </dd>
         {% endif %}
 
@@ -58,9 +57,8 @@
         {% endif %}
         {% if page.muftis.shaykh %}
         {% for shaykh in page.muftis.shaykh %}
-        <dt>Mufti:</dt>
         <dd>
-          <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}">{{ shaykh.name }}</a>
+          <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}">{{ shaykh.name | prepend: "Mufti: "}}</a>
         </dd>
         {% endfor %}
         {% else %}
