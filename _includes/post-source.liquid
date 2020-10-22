@@ -84,7 +84,7 @@
         <dd>
           {% for category in page.categories %}
           <a href="/category/{{ category | slugize }}">
-          {{ category }}
+          <i class="fas fa-tag"></i> {{ category }}
           </a>
           {% endfor %}
         </dd>
