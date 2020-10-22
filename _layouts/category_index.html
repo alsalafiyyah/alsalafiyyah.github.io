@@ -20,7 +20,6 @@ layout: default
   </li>
 </ol>
 
-{{category.size}}
 <article>
   <ol>
     {% for p in site.categories[page.category] %}
@@ -29,4 +28,11 @@ layout: default
       </li>
     {% endfor %}
   </ol>
+{% for post in site.posts %} 
+ {% if post.categories contains page.category %}
+  {% for category in post.categories%}
+    <a href="/categories/{{category}}">{{ category }}</a>
+  {% endfor %}
+ {% endif %} 
+{% endfor %}
 </article>
