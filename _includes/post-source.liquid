@@ -75,9 +75,10 @@
           <span class="date">
             {% if page.date %}
             <meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">
+            {% if page.hijri %}{{ page.hijri | prepend: "Published on: " }}
+            {% else %}{{ site.hijri.name | prepend: "Published on: " }} 
             {% endif %}
-            {% if page.hijri %}{{ page.hijri }}
-            {% else %}{{ site.hijri.name }} 
+            {% else %}
             {% endif %}
           </span>
         </dd>
