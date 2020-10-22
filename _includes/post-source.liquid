@@ -56,7 +56,7 @@
   {% endif %}
   {% if page.muftis.shaykh %}
    {% for shaykh in page.muftis.shaykh %}
-    <dt>Shaykh:</dt>
+    <dt>Mufti:</dt>
      <dd>
       <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}">{{ shaykh.name }}</a></dd>
    {% endfor %}
@@ -67,7 +67,8 @@
  </div>
 
 <div class="col-6 col-12-small">
-  <dl>
+<dl>
+
 <dt>Published on this site:</dt>
 <dd>
  <span class="date">
