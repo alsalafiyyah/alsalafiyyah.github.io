@@ -3,7 +3,7 @@ layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
 title: "The Believer's Stance towards the Trials (Fitnah)"
-hijri: "Rabi' Al-Awwal 5, 1442 AH"
+hijri: "Rabi' Al-Awwal 05, 1442 AH"
 source: "Majmu' Fatawa Wa Maqalat of Ibn Baz p. 6/103"
 lang: en
 category: [rulership, hishah, jihad]
