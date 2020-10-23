@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: "Ruling on seeking the help of the disbelievers to fight other disbelievers"
 publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
 source: "Fatawa Al-Shaykh Ibn Baz p. 6/183"
