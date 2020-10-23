@@ -114,13 +114,13 @@ See also: [**Ruling on seeking the help of the disbelievers to fight other disbe
 
 ---
 
-[^1]:
-[^2]:
-[^3]:
-[^4]:
-[^5]:
-[^6]:
-[^7]:
-[^8]:
-[^9]:
-[^10]: 
+[^1]: Al-Tirmidhi, Sunan, Book on the virtues of the Qur'an, no. 2906; and Al-Darimi, Sunan, Book on the virtues of the Qur'an, no. 3331.
+[^2]: Muslim, Sahih, Book on Jihad and Military expeditions, no. 1817; Al-Tirmidhi, Sunan, Book on military expeditions, no. 1558; Abu Dawud, Sunan, Book on Jihad, no. 2732; Ibn Majah, Sunan, Book on Jihad, no. 2832; and Al-Darimy, Sunan, Book on military expeditions, no. 2496.
+[^3]: Abu Dawud, Sunan, Book on transactions, no. 3562; and Ahmad ibn Hanbal, Musnad, vol. 6, p. 465.
+[^4]: Al-Bukhari, Sahih, Book on merits and virtues, no. 3602; Muslim, Sahih, Book on trials and signs of the Hour, no. 2886; and Ahmad ibn Hanbal, Musnad, vol. 2, p. 282.
+[^5]: Al-Bukhari, Sahih, Book on faith, no. 19; Al-Nasa'i, Sunan, Book on faith and its laws, no. 5036; Abu Dawud, Sunan, Book on trials and battles, no. 4267; Ibn Majah, Sunan, Book on trials, no. 3980; and Ahmad ibn Hanbal, Musnad, vol. 3, p. 43.
+[^6]: Al-Bukhari, Sahih, Book on Jihad and Military expeditions, no. 2786; Muslim, Sahih, Book on rulership, no. 1888; Al-Tirmidhi, Sunan, Book on merits of Jihad, no. 1660; Al-Nasa'i, Sunan, Book on Jihad, no. 3105; Abu Dawud, Sunan, Book on Jihad, no. 2485; Ibn Majah, Sunan, Book on trials, no. 3978; and Ahmad ibn Hanbal, Musnad, vol. 3, p. 88.
+[^7]: Al-Bukhari, Sahih, Book on coercion, no. 6952; Al-Tirmidhi, Sunan, Book on trials, no. 2255; and Ahmad ibn Hanbal, Musnad, vol. 3, p. 99.
+[^8]: Muslim, Sahih, Book on Zakah, no. 1065; and Ahmad ibn Hanbal, Musnad, vol. 3, p. 32.
+[^9]: Muslim, Sahih, Book on trials and signs of the Hour, no. 2916; Ahmad ibn Hanbal, Musnad, vol. 6, p. 289.
+[^10]: Al-Bukhari, Sahih, Book on holding fast to the Book and the Sunnah, no. 7352; Muslim, Sahih, Book on judicial decisions, no. 1716; Abu Dawud, Sunan, Book on judicial decisions, no. 3574; Ibn Majah, Sunan, Book on judgments, no. 2314; and Ahmad ibn Hanbal, Musnad, vol. 4, p. 204.
