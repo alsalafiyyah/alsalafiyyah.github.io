@@ -37,6 +37,8 @@ This Hadith was also recorded by Al-Waqidy in his book entitled, "Kitab Al-Magha
 
 Al-Hazimi stated in, "Al-Nasikh wal-Mansukh": Scholars held different opinions with regard to this matter. A group agreed on the prohibition of seeking the help of the Mushriks, such as Ahmad; they adhered to the Hadith of 'Aishah which was previously mentioned. They stated that the other Hadith which contradict this Hadith are not as authentic as this one. Therefore, the claim that this Hadith was abrogated is disqualified.
 
+## Second view
+
 A group held the view that it is permissible for a Muslim leader to permit the Mushriks to fight with them on two conditions:
 
 1. **First**, if the Muslims are few in number and seeking the help of the Mushriks becomes necessary.
@@ -68,8 +70,6 @@ Al-Shafi'i said that it is permissible to seek the help of Mushriks but on two c
 2. Second, the Mushriks hold good opinions about Islam and are inclined to it. There is no harm in taking their advice but they should not receive a share of the booty. 
 
 However, Ahmad in one of his two narrations said that it is permissible to give them a share of the booty. Al-Shafi'i said: If they were hired, they should be paid from the money which has no owner. He also said that they should be given from the spoils. Al-Wazir said: I believe that this case should be treated exactly the same as the cases of Jizyah (poll tax required from non-Muslims living in an Islamic state) and Kharaj (tax on agricultural land).
-
-## Second view
 
 A group of scholars said that it is permissible to seek the help of Mushriks in fighting against other Mushriks when necessary. They based their argument on a lot of evidence among which is Allah's saying in Surah Al-An'am ayat 119: "**...while He has explained to you in detail what is forbidden to you, except under compulsion of necessity**" 
 
