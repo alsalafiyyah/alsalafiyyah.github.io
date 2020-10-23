@@ -110,4 +110,6 @@ May He enable us to perform sincere Tawbah and make the hard affliction that hap
 
 May Allah guide all our neighboring countries to adhere to Allah's Book, make them all consent to Al-Haqq and guidance, enable them to obey Allah (Exalted be He) and His Messenger (peace be upon him), save them from the enemies and hypocrites among them who fight the Qur'an and the Sunnah and call for their opposite. May Allah ruin the plotting of His enemies and disunite them. May He guide the truth seekers to what pleases Him, set right the affairs of the Muslims everywhere, unify the opinions of Muslims everywhere on Al-Haqq and guidance, and save us from the evil of our enemies wherever they are. He is the Most Generous One. May Allah's peace and blessings be upon His Slave and Messenger, our Prophet Muhammad, his family, Companions, and those who followed them in righteousness.
 
+See also: [**Ruling on seeking the help of the disbelievers to fight other disbelievers**](/seeking-help-from-kafirs/)
+
 ---
