@@ -116,6 +116,8 @@ According to Ijma' (consensus of scholars), it is permissible to seek the help o
 
 The above mentioned are the opinions of the scholars that we could collect on this question. May Allah grant us success. Peace be upon our Prophet Muhammad, his family and Companions!
 
+See also: [**The Believer's Stance towards the Trials (Fitnah)**](/believer-stance-towards-fitnah)
+
 ---
 
 [^1]: Sahih Muslim [Book Jihad and military expeditions] no. 1817; Al-Tirmidhi [Book on military expeditions] no. 1558; Abu Dawud [Book on Jihad] no. 2732; Musnad Ahmad ibn Hanbal p. 6/149.
