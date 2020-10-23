@@ -82,7 +82,7 @@ These are the opinions of the scholars that we could collect on this question. M
 
 ---
 
-[^1]: Narrated by Sahih Muslim, Book on Jihad and military expeditions, Chapter on the reprehensibility of seeking the help of an unbeliever during battles, no. 1817; Al-Tirmidhi, Sunan, Book on military expeditions, no. 1558; and Abu Dawud, Sunan, Book on Jihad, no. 2732.
+[^1]: Narrated by Muslim, Book on Jihad and military expeditions, Chapter on the reprehensibility of seeking the help of an unbeliever during battles, no. 1817; Al-Tirmidhi, Sunan, Book on military expeditions, no. 1558; and Abu Dawud, Sunan, Book on Jihad, no. 2732.
 [^2]: Narrated by Imam Ahmad, Section on the Hadiths narrated by Meccan narrators, the Hadith narrated by Khubayb (may Allah be pleased with him), no. 15336.
 [^3]: Narrated by Al-Hakim, Al-Mustadrak, Book on Jihad, Chapter on we should not ally with polytheists in our fight against other polytheists, no. 2604; and Ibn Abu Shaybah, Al-Musannaf, Book on expeditions, Chapter on this is the narrations Abu Bakr learnt by heart during the battle of Uhud, no. 35708.
 [^4]: Narrated by Abu Dawud, Book on Battles, Chapter on the battles against the Romans, no. 4292.
