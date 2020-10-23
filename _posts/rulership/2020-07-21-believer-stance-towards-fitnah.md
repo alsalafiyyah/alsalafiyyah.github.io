@@ -1,9 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 publisher: alsalafiyyah@icloud.com
 title: "The Believer's Stance towards the Trials (Fitnah)"
-hijri: Muharram 21, 1442 AH
+hijri: "Dhul-Qa'dah 30, 1441 AH"
 source: "Majmu' Fatawa Wa Maqalat of Ibn Baz p. 6/103"
 lang: en
 category: [rulership, hishah, jihad]
