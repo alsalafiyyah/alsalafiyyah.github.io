@@ -113,3 +113,14 @@ May Allah guide all our neighboring countries to adhere to Allah's Book, make th
 See also: [**Ruling on seeking the help of the disbelievers to fight other disbelievers**](/seeking-help-from-kafirs/)
 
 ---
+
+[^1]:
+[^2]:
+[^3]:
+[^4]:
+[^5]:
+[^6]:
+[^7]:
+[^8]:
+[^9]:
+[^10]: 
