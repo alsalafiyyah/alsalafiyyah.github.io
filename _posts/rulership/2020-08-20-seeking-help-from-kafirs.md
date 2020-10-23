@@ -48,13 +48,9 @@ It is recorded that Al-Shafi'i said, “The Hadith in which Malik narrated that 
 
 It is permissible to seek the help of Mushriks to fight against other Mushriks, if they are willing to help. It is not permissible to give them a share of the booty as it was not authentically reported that the Prophet (peace be upon him) did so. 
 
-Al-Shafi'i said, "He (peace be upon him) might have refused to let the Mushrik participate in the Battle of Badr, hoping that he would embrace Islam." 
+Al-Shafi'i said, "**He (peace be upon him) might have refused to let the Mushrik participate in the Battle of Badr, hoping that he would embrace Islam."** He also added that it is permissible for the Muslim leader to turn down a Mushrik or to give him permission. The opinion of Al-Shafi'i was transmitted by Al-Bayhaqi. [End of quotation].
 
-He also added that it is permissible for the Muslim leader to turn down a Mushrik or to give him permission. The opinion of Al-Shafi'i was transmitted by Al-Bayhaqi. 
-
-[End of quotation].
-
-Al-Nawawi (may Allah be merciful to him) stated in his book, "Sharh Sahih Muslim", (vol.12, pp.198-199), "The Hadith narrated on the authority of 'Aishah (may Allah be pleased with her) that the Prophet (peace be upon him) set out to Badr, and when he reached Harrat-ul-Wabarah which is four miles from Al-Madinah and the Prophet (peace be upon him) said, "Go back for I will not seek the help of a Mushrik." 
+Al-Nawawi (may Allah be merciful to him) stated in his book, "Sharh Sahih Muslim", (vol.12, pp.198-199), "**The Hadith narrated on the authority of 'Aishah (may Allah be pleased with her) that the Prophet (peace be upon him) set out to Badr, and when he reached Harrat-ul-Wabarah which is four miles from Al-Madinah and the Prophet (peace be upon him) said, "Go back for I will not seek the help of a Mushrik.**" 
 
 According to another Hadith, the Prophet (peace be upon him) sought the help of Safwan ibn Umayyah before the latter embraced Islam; so a group of scholars based their argument on the first Hadith in general.
 
@@ -71,44 +67,42 @@ Al-Shafi'i said that it is permissible to seek the help of Mushriks but on two c
 
 However, Ahmad in one of his two narrations said that it is permissible to give them a share of the booty. Al-Shafi'i said: If they were hired, they should be paid from the money which has no owner. He also said that they should be given from the spoils. Al-Wazir said: I believe that this case should be treated exactly the same as the cases of Jizyah (poll tax required from non-Muslims living in an Islamic state) and Kharaj (tax on agricultural land).
 
-A group of scholars said that it is permissible to seek the help of Mushriks in fighting against other Mushriks when necessary. They based their argument on a lot of evidence among which is Allah's saying in Surah Al-An'am ayat 119: "**...while He has explained to you in detail what is forbidden to you, except under compulsion of necessity**" 
-
-They also used Al-Shafi'i's opinion which was transmitted by Al-Hazimy and which was previously mentioned as evidence. Al-Hazimy (may Allah be merciful to him) reported that a group of scholars permitted seeking the help of Mushriks on two conditions:
+A group of scholars said that it is permissible to seek the help of Mushriks in fighting against other Mushriks when necessary. They based their argument on a lot of evidence among which is Allah's saying in Surah Al-An'am ayat 119: "**...while He has explained to you in detail what is forbidden to you, except under compulsion of necessity**" [Al-An'am: 119] They also used Al-Shafi'i's opinion which was transmitted by Al-Hazimy and which was previously mentioned as evidence. Al-Hazimy (may Allah be merciful to him) reported that a group of scholars permitted seeking the help of Mushriks on two conditions:
 
 1. The Muslims are few in number, so seeking the help of the Mushriks becomes necessary.
 2. It is permissible to allow the Mushriks who are trusted with Muslims’ affairs. 
 
 We have stated before the opinion of Al-Shafi'i which was transmitted by Al-Nawawy in which Al-Shafi'i permitted seeking the help of the Mushriks provided that the two conditions are fulfilled; otherwise it will be Makruh. The opinion of Al-Shafi'i was also transmitted by Al-Wazir Ibn Hubayrah as previously mentioned.
 
-Those who are of the opinion that seeking the help of the Mushriks is permissible cited as evidence the Hadith which was reported by Ahmad and Abu Dawud on the authority of Dhu Makhmmar who said that he heard the Messenger of Allah (peace be upon him) say, "You will make a peace-treaty with the Romans and together you will invade an enemy beyond Rome. You will be victorious and take much booty..." [^3] 
+Those who are of the opinion that seeking the help of the Mushriks is permissible cited as evidence the Hadith which was reported by Ahmad and Abu Dawud on the authority of Dhu Makhmmar who said that he heard the Messenger of Allah (peace be upon him) say, "**You will make a peace-treaty with the Romans and together you will invade an enemy beyond Rome. You will be victorious and take much booty...**" [^3] 
 
 The fact that the Prophet (peace be upon him) did not dispraise them [those who sought the help of the Romans and fought with them] was deemed approval of what they did. This Hadith shows that this matter is permissible when necessary as mentioned above.
 
-Al-Majd ibn Taymiyyah said in his book, "Al-Muharar fi Al-Fiqh" (vol. 2, p. 171): "It is not permissible to seek the help of the Mushriks unless it is necessary. If the Muslim army will increase in strength by joining the Mushrik army and they will both form a powerful front against the enemy, and they [the Mushriks] hold good opinions about Islam, it will be permissible; otherwise it is not."
+Al-Majd ibn Taymiyyah said in his book, "Al-Muharar fi Al-Fiqh" (vol. 2, p. 171): "**It is not permissible to seek the help of the Mushriks unless it is necessary. If the Muslim army will increase in strength by joining the Mushrik army and they will both form a powerful front against the enemy, and they [the Mushriks] hold good opinions about Islam, it will be permissible; otherwise it is not.**"
 
-Al-Muwaffaq stated in Al-Muqni' (vol. 1, p. 492): "It is not permissible to seek the help of the Mushriks except when necessary."
+Al-Muwaffaq stated in Al-Muqni' (vol. 1, p. 492): "**It is not permissible to seek the help of the Mushriks except when necessary.8*"
 
-It is stated in "Al-Mughny" (vol. 8, pp. 414-415): "It is not permissible to seek the help of the Mushriks." 
+It is stated in "Al-Mughny" (vol. 8, pp. 414-415): "**It is not permissible to seek the help of the Mushriks.**" 
 
-Ibn Al-Mundhir, Al-Jawzajany, and a group of scholars held the same opinion. However, Ahmad recorded a Hadith which indicates the permissibility of seeking their help. Al-Khiraqy is of the opinion that it is permissible to seek their help when necessary. This is also the opinion of Al-Shafi'i for the Hadith which was narrated by Al-Zuhry as mentioned above and the narration of the Hadith of Safwan ibn Umayyah. 
+Ibn Al-Mundhir, Al-Jawzajani, and a group of scholars held the same opinion. However, Ahmad recorded a Hadith which indicates the permissibility of seeking their help. Al-Khiraqy is of the opinion that it is permissible to seek their help when necessary. This is also the opinion of Al-Shafi'i for the Hadith which was narrated by Al-Zuhry as mentioned above and the narration of the Hadith of Safwan ibn Umayyah. 
 
 The Mushrik whose help is sought must have a good opinion with regard to the Muslims; otherwise it is not permissible to seek his help. Since the help of an untrustworthy Muslim, like one who weakens the morale of the Muslims and spreads rumors to dishearten them, is forbidden to be sought, the help of the disbeliever is also forbidden to be sought in this case.
 
-This view is supported by what is narrated by 'Aishah (may Allah be pleased with her), who said, "The Messenger of Allah (peace be upon him) set out for Badr and when he reached Harrat-ul-Wabarah, a Mushrik (one who associates others with Allah in His Divinity or worship) who is known for his valor and courage met him. The Mushrik said, "I have come to follow you and take a share from the booty." The Prophet (peace be upon him) asked him, "Do you believe in Allah and His Messenger?" The man replied, "No." The Prophet said, "Go back for I will not seek the help of a Mushrik." The Messenger of Allah (peace be upon him) went on and when we reached Al-Baida', the man met him again and repeated his request. The Messenger of Allah (peace be upon him) repeated the question to him, "Do you believe in Allah and His Messenger?" The man replied, "Yes." The Messenger of Allah (peace be upon him) said to him, "Then come along with us." (Related by Al-Bukhari, Muslim, and Al-Jawzajani) see footnote #[^1] 
+This view is supported by what is narrated by 'Aishah (may Allah be pleased with her), who said, "**The Messenger of Allah (peace be upon him) set out for Badr and when he reached Harrat-ul-Wabarah, a Mushrik (one who associates others with Allah in His Divinity or worship) who is known for his valor and courage met him. The Mushrik said, "I have come to follow you and take a share from the booty." The Prophet (peace be upon him) asked him, "Do you believe in Allah and His Messenger?" The man replied, "No." The Prophet said, "Go back for I will not seek the help of a Mushrik." The Messenger of Allah (peace be upon him) went on and when we reached Al-Baida', the man met him again and repeated his request. The Messenger of Allah (peace be upon him) repeated the question to him, "Do you believe in Allah and His Messenger?" The man replied, "Yes." The Messenger of Allah (peace be upon him) said to him, "Then come along with us.**" (Related by Al-Bukhari, Muslim, and Al-Jawzajani)
 
-It is recorded by Imam Ahmad on the authority of 'Abdul-Rahman ibn Khubayb who said: "A man from my tribe and I came to the Messenger of Allah (peace be upon him). I told him, "O Messenger of Allah! We feel ashamed that our people will fight in a battle and we will not take part with them." The Prophet (peace be upon them) asked, "Did you embrace Islam?" We replied, "No." He (peace be upon him) said, "We do not seek the help of the Mushriks against Mushriks." see footnote #[^2] 
+It is recorded by Imam Ahmad on the authority of 'Abdul-Rahman ibn Khubayb who said: "**A man from my tribe and I came to the Messenger of Allah (peace be upon him). I told him, "O Messenger of Allah! We feel ashamed that our people will fight in a battle and we will not take part with them." The Prophet (peace be upon them) asked, "Did you embrace Islam?" We replied, "No." He (peace be upon him) said, "We do not seek the help of the Mushriks against Mushriks.**"
 
 Ibn Al-Mundhir stated that the Hadith, which indicates that the Prophet (peace be upon him) sought their help is not authentic.
 
 After he quoted the Hadith related to the permissibility and the impermissibility of seeking the help of the Mushriks, Al-Hafizh said in his book, "Al-Talkhis": The common ground between the Hadith of 'Aishah, the Hadith of Safwan ibn Umayyah, and the Hadith Mursal (a Hadith with no Companion of the Prophet in the chain of narration) of Al-Zuhry are represented in the following points which were transmitted by Al-Bayhaqy from Al-Shafi'i: 
 
-1. First, the Prophet (peace be upon him) felt that the man would embrace Islam so he sent him back hoping that he would accept Islam and he was correct. However, this view is questionable bearing in mind that the wording of the Hadith indicates generality, in the form of a negated indefinite expression. 
-2. Second, it might mean that the matter should be referred to the Imam; however, this view is also questionable. 
-3. Third, it might also mean that seeking the help of Mushriks was initially prohibited but this prohibition was later lifted by a concession; this opinion is the closest to correctness, and it was adopted by Al-Shafi'i.
+1. **First**, the Prophet (peace be upon him) felt that the man would embrace Islam so he sent him back hoping that he would accept Islam and he was correct. However, this view is questionable bearing in mind that the wording of the Hadith indicates generality, in the form of a negated indefinite expression. 
+2. **Second**, it might mean that the matter should be referred to the Imam; however, this view is also questionable. 
+3. **Third**, it might also mean that seeking the help of Mushriks was initially prohibited but this prohibition was later lifted by a concession; this opinion is the closest to correctness, and it was adopted by Al-Shafi'i.
 
-It is stated in "Al-Furu'" (vol. 6, pp. 49-50) "Seeking the help of the Mushriks is Makruh unless necessary." A group of scholars said, "It is permissible when necessary to seek the help of the Mushrik who can be trusted with the Muslim's affairs." He added in Al-Muharir, "When his power depends on the enemy."
+It is stated in "Al-Furu'" (vol. 6, pp. 49-50) "**Seeking the help of the Mushriks is Makruh unless necessary." A group of scholars said, "It is permissible when necessary to seek the help of the Mushrik who can be trusted with the Muslim's affairs.**" He added in Al-Muharir, "**When his power depends on the enemy.**"
 
-Al-San'ani (may Allah be pleased with him) said in his book Subul Al-Salam (vol. 4, pp. 49-50) in his explanation of the Hadith narrated by 'Aishah (may Allah be pleased with her), "Go back for I will not seek the help of a Mushrik," see footnote #[^1]: "According to a group of scholars, this Hadith indicates that it is not permissible to seek the help of Mushrik in fighting." 
+Al-San'ani (may Allah be pleased with him) said in his book Subul Al-Salam (vol. 4, pp. 49-50) in his explanation of the Hadith narrated by 'Aishah (may Allah be pleased with her), "Go back for I will not seek the help of a Mushrik," : "**According to a group of scholars, this Hadith indicates that it is not permissible to seek the help of Mushrik in fighting.**" 
 
 However, Al-Hadawiyyah, Abu Hanifah and his followers believe that this matter is permissible because the Prophet (peace be upon him) sought the help of Safwan ibn Umayyah in the Battle of Hunayn, and he also sought the help of the Jews of Banu Qaynuqa' and agreed on their opinion. This was recorded by Abu Dawud, and Al-Tirmidhi on the authority of Al-Zuhry as a Hadith Mursal. However, the Hadith Mursal which are narrated by Al-Zuhry are Da'if (a Hadith that fails to reach the status of Hasan, due to a weakness in the chain of narration or one of the narrators). 
 
