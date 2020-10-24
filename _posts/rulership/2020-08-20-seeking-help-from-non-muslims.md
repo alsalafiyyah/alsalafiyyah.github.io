@@ -30,8 +30,6 @@ Al-Zayla'i reported another Hadith which was recorded by Ishaq ibn Rahawayh in h
 
 This Hadith was also recorded by Al-Waqidi in his book entitled, "Al-Maghazy" with this wording: The Prophet (peace be upon him) inquired: "**Who are they? It was said: O Messenger of Allah! They are the Jewish fellows of Ibn Ubay. The Prophet (peace be upon him) said: "We do not seek the assistance of the Mushriks in fighting against other Mushriks.**"
 
----
-
 **Al-Hazimi** stated in, "Al-Nasikh wal-Mansukh": "Scholars hold different opinions with regard to this matter. A group agrees on the prohibition of seeking the help of the Mushriks, such as Ahmad; they adhere to the Hadith of 'Aishah which was previously mentioned. They state that the other Hadiths which contradict this Hadith are not as authentic as this one. Therefore, the claim that this Hadith was abrogated is disqualified. Another group holds the view that it is permissible for a Muslim leader to permit the Mushriks to fight with them on two conditions:
 
 1. First, Muslims are few in number and so need help from the Mushriks.
