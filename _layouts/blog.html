@@ -70,8 +70,8 @@ layout: default
 </header>
   {{ content }}
   
-  <p>Posted on this site at <b>{% include date.liquid %}</b></p> 
-  <p>Written by {% if page.muftis %}{% if page.muftis.shaykh %}{% for shaykh in page.muftis.shaykh %}<a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}">{{ shaykh.name | prepend: "Mufti: "}}</a>{% endfor %}{% endif %}{% endif %}</p>
+  <p>Posted on this site at <b>{% include date.liquid %}</b>
+  <br/>Written by {% if page.muftis %}{% if page.muftis.shaykh %}{% for shaykh in page.muftis.shaykh %}<a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}">{{ shaykh.name | prepend: "Mufti: "}}</a>{% endfor %}{% endif %}{% endif %}</p>
   
 </article>
 
