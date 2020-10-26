@@ -21,7 +21,7 @@ Allah (Glorified and Exalted be He) also says: "**We will show them Our Signs in
 
 Allah (Exalted be He) also says: "**Say: "He has power to send torment on you from above or from under your feet, or to cover you with confusion in party strife, and make you to taste the violence of one another."**" [Al-An'am: 65]
 
-Al-Bukhari narrated in his Sahih on the authority of Jabir Ibn `Abdullah (may Allah be pleased with him) that **the Prophet (peace be upon him) said when Allah's saying was revealed: "Say: "He has power to send torment on you from above" the Prophet (peace be upon him) said: "I seek refuge in You." Allah (Exalted be He) says: "...or from under your feet" the Prophet (peace be upon him) said: "I seek refuge in You."**" [^1]
+Al-Bukhari narrated in his Sahih on the authority of Jabir Ibn 'Abdullah (may Allah be pleased with him) that **the Prophet (peace be upon him) said when Allah's saying was revealed: "Say: "He has power to send torment on you from above" the Prophet (peace be upon him) said: "I seek refuge in You." Allah (Exalted be He) says: "...or from under your feet" the Prophet (peace be upon him) said: "I seek refuge in You."**" [^1]
 
 Abu Al-Shaykh Al-Asbahani reported from Mujahid in the interpretation of Allah's saying: "**Say: "He has power to send torment on you from above"**" he said that it means an awful cry or a stone. "**...or from under your feet**"  he said: "It means an earthquake and causing the earth to swallow them.
 
@@ -39,7 +39,7 @@ Allah (Exalted be He) says concerning the people of the Book: "**And if only the
 
 Allah (Exalted be He) also says: "**Did the people of the towns then feel secure against the coming of Our punishment by night while they were asleep? Or, did the people of the towns then feel secure against the coming of Our punishment in the forenoon while they were playing? Did they then feel secure against the Plan of Allâh? None feels secure from the Plan of Allâh except the people who are the losers.**" [Al-A'raf: 97-99]
 
-Ibn Al-Qayyim (may Allah be merciful to him) said: "**Allah (Glorified be He) may sometimes permit the earth to breathe. Great earthquakes happen due to this breath. These earthquakes may cause people to fear Allah (Exalted be He), repent to Him, supplicate to Him, forsake sins and regret what they have done. Some of the Salaf (righteous predecessors) said when the earth was shaken: your Lord admonishes you.  `Umar Ibn Al-Khattab (may Allah be pleased with him) delivered a speech to admonish people when an earthquake happened in Al-Madinah and said: "If this happens again, I will not live among you in Madinah.**" End of quote.
+Ibn Al-Qayyim (may Allah be merciful to him) said: "**Allah (Glorified be He) may sometimes permit the earth to breathe. Great earthquakes happen due to this breath. These earthquakes may cause people to fear Allah (Exalted be He), repent to Him, supplicate to Him, forsake sins and regret what they have done. Some of the Salaf (righteous predecessors) said when the earth was shaken: your Lord admonishes you.  'Umar Ibn Al-Khattab (may Allah be pleased with him) delivered a speech to admonish people when an earthquake happened in Al-Madinah and said: "If this happens again, I will not live among you in Madinah.**" End of quote.
 
 There are many narrations reported from the Salaf in this regard.
 
