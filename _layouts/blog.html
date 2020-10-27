@@ -73,12 +73,21 @@ layout: default
   <p>Posted on this site at <b>{% include date.liquid %}</b>
   <br/>
     {% if page.muftis %}
-    Written by {% if page.muftis.shaykh %}
-    {% for shaykh in page.muftis.shaykh %}
-    <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}"><b>{{ shaykh.name "}}</b></a>
-    {% endfor %}{% else %}{% endif %}{% endif %} 
-    {% if page.url %}in <a href="{{ page.link }}" target="_blank">{% if page.source %}
-    <b>{{ page.source }}</b>{% else %}<b>{{ site.source.name }}</b>{% else %}{% endif %}</a>{% endif %}
+    Written by 
+    {% if page.muftis.shaykh %}
+     {% for shaykh in page.muftis.shaykh %}
+      <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}"><b>{{ shaykh.name "}}</b></a>
+     {% endfor %}
+    {% else %}
+    {% endif %}
+    {% endif %} 
+    {% if page.url %}in 
+    <a href="{{ page.link }}" target="_blank">{% if page.source %}
+     <b>{{ page.source }}</b>{% else %}<b>{{ site.source.name }}</b></a>
+     {% else %}
+     <b>{{ page.source }}</b>{% else %}<b>{{ site.source.name }}</b>
+     {% endif %}
+    {% endif %}
   </p>
   
 </article>
