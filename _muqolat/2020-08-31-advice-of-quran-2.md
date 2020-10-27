@@ -6,6 +6,11 @@ source: "Majmu' Fatawa wa Maqalat 9/14"
 hijri: Muharram 12, 1442 AH
 lang: en
 excerpt: "Do not attack or betray anyone, whether poor or rich, and avoid Zhulm in transactions and in everything. Do not do injustice to workers, if you are a company owner"
+active: muqolat
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 [Read part one here](/advice-of-quran-1)
