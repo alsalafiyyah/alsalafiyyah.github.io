@@ -80,13 +80,9 @@ layout: default
      {% endfor %}
     {% else %}
     {% endif %}
-    {% endif %} 
-    {% if page.link %}in 
-    <a href="{{ page.link }}" target="_blank">{% if page.source %}
-     <b>{{ page.source }}</b>{% else %}<b>{{ site.source.name }}</b></a>
-     {% else %}
-     <b>{{ page.source }}</b>{% else %}<b>{{ site.source.name }}</b>
-     {% endif %}
+    {% endif %}
+    {% if page.source %}
+     in <b>{{ page.source }}</b>{% else %}<b>{{ site.source.name }}</b></a>
     {% endif %}
   </p>
   
