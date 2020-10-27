@@ -45,7 +45,9 @@ There are many narrations reported from the Salaf in this regard.
 
 Therefore, we have to repent to Allah (Exalted be He) immediately on the occurrence of earthquakes, eclipses, fierce winds, and floods. We have also to supplicate to Him and ask Him to grant us well-being. Moreover, we must mention Him a lot and seek His forgiveness. As he (peace be upon him) said on observing Solar Eclipse: "**If you see such thing (i.e. solar eclipse) hasten to remember Allah, supplicate to Him and beg forgiveness from Him.**" [^2]
 
-It is desirable also to show mercy to the poor and the needy and to give them charity. The Prophet (peace be upon him) said: "**Show mercy to others and surely you will be shown mercy. The Compassionate One has mercy on those who are merciful. If you show mercy to those who are on the earth, He Who is in the heaven will show mercy to you." [^3] He (peace be upon him) said also: "Whoever is not merciful to others will not be treated mercifully.**" [^4]
+It is desirable also to show mercy to the poor and the needy and to give them charity. The Prophet (peace be upon him) said: "**Show mercy to others and surely you will be shown mercy. The Compassionate One has mercy on those who are merciful. If you show mercy to those who are on the earth, He Who is in the heaven will show mercy to you." [^3] 
+
+He (peace be upon him) said also: "**Whoever is not merciful to others will not be treated mercifully.**" [^4]
 
 It is reported that 'Umar ibn Abdul-Aziz (may Allah be merciful to him) used to write to his employees if there were earthquakes telling them to give charity.
 
@@ -70,6 +72,6 @@ Peace and blessings of Allah be upon our Prophet Muhammad and upon his family, C
 [^1]: Narrated by Al-Bukhari, Book on Tafsir, no. 4262; and Al-Tirmidhi, Book on Tafsir, no. 2991.
 [^2]: Narrated by Al-Bukhari, Book on Friday, no. 999; and Muslim, Book on eclipse, no. 1518.
 [^3]: Narrated by Ahmad, Section on the Hadiths narrated by the Companions who narrated a large number of Hadiths, no. 6255.
-[^4]: Narrated by Al-Bukhari, Book on manners, no. 5538; and Al-Tirmidhy, Book on righteousness and upholding ties of kinship, no. 1834.
+[^4]: Narrated by Al-Bukhari, Book on manners, no. 5538; and Al-Tirmidhi, Book on righteousness and upholding ties of kinship, no. 1834.
 [^5]: Narrated by Al-Bukhari, Book on injustices and unlawful appropriation, no. 2262; and Muslim, Book on righteousness, upholding ties of kinship, and good manners, no. 4677, and the wording is agreed upon.
 [^6]: Narrated by Muslim, Book on remembrance of Allah, supplication, repentance and seeking forgiveness, no. 4867; and Al-Tirmidhi, Book on righteousness and upholding ties of kinship, no. 1853.
