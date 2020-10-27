@@ -6,6 +6,11 @@ source: "Majmu' Fatawa wa Maqalat 10/5"
 hijri: Muharram 6, 1442 AH
 lang: en
 excerpt: "Scholars are the heirs of the prophets and the prophets left no Dinar or Dirham, but they left knowledge and anyone who takes it will be among the fortunate. Being knowledgeable about the religion and knowing the rulings of the Qur'an and Sunnah lead a servant to happiness and is a sign of their success."
+active: muqolat
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 In the Name of Allah, the Most Merciful, the Most Compassionate
