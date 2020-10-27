@@ -6,6 +6,7 @@ excerpt: "One of the bases of Iman is to believe in the Perfectly Magnificent Na
 hijri: Dhul-Hijjah 3, 1441 AH
 active: muqolat
 source: "Majmu’ Fatawa wa Muqolat 1/13, and published in Islamic Research Journal (seventh edition) issued in Rajab, Sha’ban, Ramadan, and Shawwal 1403 A.H."
+url: "https://binbaz.org.sa/articles/1/%D8%A7%D9%84%D8%B9%D9%82%D9%8A%D8%AF%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D9%8A%D8%AD%D8%A9-%D9%88%D9%85%D8%A7-%D9%8A%D8%B6%D8%A7%D8%AF%D9%87%D8%A7"
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
