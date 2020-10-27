@@ -5,7 +5,11 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 9/14"
 hijri: Muharram 6, 1442 AH
 lang: en
-shaykhs: Shaykh Ibn Baz
+active: muqolat
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 All praise be to Allah, the Lord of all the Worlds, and the good end will be for the pious! Peace and blessings be upon Allah's Servant, Messenger, Khalil (beloved, close elect), the one entrusted with His revelation and the best of His Creatures our Prophet, Imam (leader) and Master Muhammad ibn 'Abdullah, and upon his family, his Companions, and those who follow his path and are guided by his teachings till the Day of Judgment.
