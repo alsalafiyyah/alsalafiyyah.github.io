@@ -1,10 +1,15 @@
 ---
 layout: blog
 author: "Instagram@Alsalafiyyah"
-title: Correct 'Aqidah and its antithesis
+title: "Correct 'Aqidah and its antithesis"
 excerpt: "One of the bases of Iman is to believe in the Perfectly Magnificent Names of Allah and His Sublime Attributes that are stated in His Glorious Book and are authentically reported from the Prophet (peace be upon him) without Tahrif (distortion of the meaning), Ta'til (negation of the meaning or function of Allah's Attributes), Takyif (descriptive designation of Allah's Attributes) or Tamthil (likening Allah's Attributes to those of His creation)."
-category: [basic]
 hijri: Dhul-Hijjah 3, 1441 AH
+active: muqolat
+source: "Majmu’ Fatawa wa Muqolat 1/13, and published in Islamic Research Journal (seventh edition) issued in Rajab, Sha’ban, Ramadan, and Shawwal 1403 A.H."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 All praise be to Allah Alone, and peace and blessings be upon the Last of the Prophets.
@@ -47,7 +52,7 @@ It is related in Sahih Al-Bukhari and Sahih Muslim on the authority of Mu'adh (m
 
 One of the bases of Iman is to believe in the Five Pillars of Islam that Allah has ordained and enjoined upon His servants, which are: The testimony that there is no god but Allah and Muhammad is the Messenger of Allah, performance of Salah (Prayers), paying Zakah (obligatory charity), fasting during Ramadan and performing Hajj (pilgrimage) to the sacred House of Allah for those who have the ability to perform it, in addition to other obligatory acts which are laid down by the Shari'ah (Islamic law). The most important pillar is the testimony that there is no god but Allah and Muhammad is the Messenger of Allah. The testimony that there is no god but Allah demands that we sincerely worship Allah Alone and negate any kind of worship to other than Him. This is the meaning of "There is no god but Allah." It means there is no one worthy of worship except Allah. 
 
-Anyone that is worshiped other than Allah, such as humans, kings, Jinn or others, they are all worshiped falsely because the Only One Who is worthy of worship is Allah Alone. Allah (Exalted be He) says: "That is because Allâh — He is the Truth (the only True God of all that exists, Who has no partners or rivals with Him), and what they (the polytheists) invoke besides Him, it is Bâtil (falsehood)." [al-Hajj: 62]
+Anyone that is worshiped other than Allah, such as humans, kings, Jinn or others, they are all worshiped falsely because the Only One Who is worthy of worship is Allah Alone. Allah (Exalted be He) says: "**That is because Allâh — He is the Truth (the only True God of all that exists, Who has no partners or rivals with Him), and what they (the polytheists) invoke besides Him, it is Bâtil (falsehood).**" [al-Hajj: 62]
 
 We have mentioned earlier that Allah (Glorified be He) created mankind and Jinn for this reason and commanded them to worship Him and sent messengers and revealed Divine Books to teach this truth. Please contemplate this well in order to know the deep ignorance that many Muslims have fallen into by neglecting this pillar to the extent that they worship others along with Allah and give His Exclusive Right to be worshipped to others. Allah is the One sought for help.
 
@@ -77,11 +82,11 @@ There is also his thesis called "Al-Tadmuriyyah" in which he elaborated and expl
 
 Ahl-us-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream) acknowledge all attributes that is affirmed by Allah in His book and by the Prophet (peace be upon him) in his Sunnah (whatever is reported from the Prophet) without Tamthil (likening Allah's Attributes to those of His Creation) or Ta'til (negation of the meaning or function of Allah's Attributes). Therefore, their opinions are free from contradictions, and they act upon all the relevant evidence. It is the constant Law of Allah that those who adhere to the truth brought by His Messengers and are sincere to Allah in their endeavors, Allah will surely grant them success and make their evidence prevail. 
 
-Allah (Exalted be He) says: "Nay, We fling (send down) the truth (this Qur’ân) against the falsehood (disbelief), so it destroys it, and behold, it (falsehood) is vanished." [al-Anbiya: 18]
+Allah (Exalted be He) says: "**Nay, We fling (send down) the truth (this Qur’ân) against the falsehood (disbelief), so it destroys it, and behold, it (falsehood) is vanished.**" [al-Anbiya: 18]
 
-Allah (Glorified be He) also says: "And no example or similitude do they bring (to oppose or to find fault in you or in this Qur’ân), but We reveal to you the truth (against that similitude or example), and the better explanation thereof." [al-Furqan: 33]
+Allah (Glorified be He) also says: "**And no example or similitude do they bring (to oppose or to find fault in you or in this Qur’ân), but We reveal to you the truth (against that similitude or example), and the better explanation thereof.**" [al-Furqan: 33]
 
-In his Famous Book on Tafsir (exegesis of the meanings of the Qur'an), Al-Hafizh Ibn Kathir (may Allah be merciful to him) had a good comment in his explanation of the Ayah (Qur'anic verse) where Allah (Glorified and Exalted be He) says: "Indeed, your Lord is Allâh, Who created the heavens and the earth in Six Days, and then He rose over (Istawâ) the Throne (really in a manner that suits His Majesty)." [al-A'raf: 54]
+In his Famous Book on Tafsir (exegesis of the meanings of the Qur'an), Al-Hafizh Ibn Kathir (may Allah be merciful to him) had a good comment in his explanation of the Ayah (Qur'anic verse) where Allah (Glorified and Exalted be He) says: "**Indeed, your Lord is Allâh, Who created the heavens and the earth in Six Days, and then He rose over (Istawâ) the Throne (really in a manner that suits His Majesty).**" [al-A'raf: 54]
 
 We are citing it here for its great importance: "People have many opinions regarding this matter but this is not the place to cite them. We just have to follow the way of the Salaf (righteous predecessors) in this issue, such as Malik, Al-Awza'i, Al-Thawri, Al-Layth ibn Sa'ad, Al-Shafi'i, Ahmad, Is-haq ibn Rahawayh and other Muslim Imams of the past and present; that is, to acknowledge them (Allah's Attributes) as they are stated without Takyif (descriptive designation of Allah's Attributes), Tashbih (comparison), Ta'til or Ta'wil (allegorical interpretation). The literal outward meaning that crosses the minds of anthropomorphists is negated with respect to Allah, for nothing created has any resemblance to Him. 
 
@@ -89,62 +94,63 @@ There is nothing like Him; and He is the All-Hearer, the All-Seer. It is as the 
 
 End of the quote of Ibn Kathir (may Allah be merciful to him).
 
-Belief in the involves belief in them generally as well as in detail. A Muslim should believe that Allah created angels to obey Him, whom He described as : "...honoured slaves. They speak not until He has spoken, and they act on His Command. He knows what is before them, and what is behind them, and they cannot intercede except for him with whom He is pleased. And they stand in awe for fear of Him." [al-Anbiya: 26-28] 
+Belief in the involves belief in them generally as well as in detail. A Muslim should believe that Allah created angels to obey Him, whom He described as : "**...honoured slaves. They speak not until He has spoken, and they act on His Command. He knows what is before them, and what is behind them, and they cannot intercede except for him with whom He is pleased. And they stand in awe for fear of Him.**" [al-Anbiya: 26-28] 
 
 There are different types of angels. Every type has a role. Some angels are in charge of carrying the Throne, some are in charge of Paradise and Hellfire, and some are in charge of recording people's deeds. We must believe in the angels specifically named by Allah and His Messenger, such as Jibril (Gabriel), Mika'il (Michael), Malik who is in charge of Hellfire, and Israfil who is assigned to blow the horn. They are mentioned in authentic Hadiths. 
 
-It is authentically narrated from 'Aishah (may Allah be pleased with her) that the Prophet (peace be upon him) stated: "Angels were created from light, Jinn from a smokeless flame of fire, and Adam from that which you have been told (i.e. sounding clay like the clay of pottery)." (Related by Muslim in his Sahih) [^3]
+It is authentically narrated from 'Aishah (may Allah be pleased with her) that the Prophet (peace be upon him) stated: "**Angels were created from light, Jinn from a smokeless flame of fire, and Adam from that which you have been told (i.e. sounding clay like the clay of pottery).**" (Related by Muslim in his Sahih) [^3]
 
 The same applies to belief in Divine Books. Muslims must generally believe that Allah sent down Scriptures to His Messengers and Prophets to show His Rights as their God and call people to the truth. 
 
-Allah (Exalted be He) says: "Indeed, We have sent Our Messengers with clear proofs, and revealed with them the Scripture and the Balance (justice) that mankind may keep up justice." [al-Hadid: 25]
+Allah (Exalted be He) says: "**Indeed, We have sent Our Messengers with clear proofs, and revealed with them the Scripture and the Balance (justice) that mankind may keep up justice.**" [al-Hadid: 25]
 
-Allah (Exalted be He) also says: "Mankind were one community and Allâh sent Prophets with glad tidings and warnings, and with them He sent down the Scripture in truth to judge between people in matters wherein they differed." [al-Baqarah: 213]
+Allah (Exalted be He) also says: "**Mankind were one community and Allâh sent Prophets with glad tidings and warnings, and with them He sent down the Scripture in truth to judge between people in matters wherein they differed.**" [al-Baqarah: 213]
 
 We must believe in the Books that Allah mentioned by name, such as the Tawrah (Torah), the Injil (Gospel), the Zabur (Book revealed to Prophet Dawud [David]), and finally the Qur'an. The Qur'an being the last and best Book that stands as a witness over all previous Books, confirming the truth mentioned in them or revealing the distortions made in them. This is the Book that the entire Muslim nation must follow and rule according to its law, along with the authentic Hadiths reported from Prophet Muhammad (peace be upon him). Allah (Exalted be He) sent Prophet Muhammad (peace be upon him) to both mankind and Jinn, and sent down to him the Qur'an to judge between people according to it. Allah made it a healing for what is in the breasts, a clarification of everything, and guidance and mercy for the believers. 
-Allah (Exalted be He) says: "And this is a blessed Book (the Qur’ân) which We have sent down, so follow it and fear Allâh (i.e. do not disobey His Orders), that you may receive mercy (i.e. be saved from the torment of Hell)." [al-An'am: 155]
 
-"And We have sent down to you the Book (the Qur’an) as an exposition of everything, a guidance, a mercy, and glad tidings for those who have submitted themselves (to Allâh as Muslims)." [al-Nahl: 89]
+Allah (Exalted be He) says: "**And this is a blessed Book (the Qur’ân) which We have sent down, so follow it and fear Allâh (i.e. do not disobey His Orders), that you may receive mercy (i.e. be saved from the torment of Hell).**" [al-An'am: 155]
 
-"Say (O Muhammad صلى الله عليه وسلم): "O mankind! Verily, I am sent to you all as the Messenger of Allâh - to Whom belongs the dominion of the heavens and the earth. Lâ ilâha illa Huwa (none has the right to be worshipped but He). It is He Who gives life and causes death. So believe in Allâh and His Messenger (Muhammad صلى الله عليه وسلم), the Prophet who can neither read nor write (i.e. Muhammad صلى الله عليه وسلم), who believes in Allâh and His Words [(this Qur’ân), the Taurât (Torah) and the Injeel (Gospel) and also Allâh’s Word: "Be!" - and he was, i.e. ‘Isâ (Jesus) son of Maryam (Mary), عليهما السلام], and follow him so that you may be guided." [al-A'raf: 158]
+"**And We have sent down to you the Book (the Qur’an) as an exposition of everything, a guidance, a mercy, and glad tidings for those who have submitted themselves (to Allâh as Muslims).**" [al-Nahl: 89]
+
+"**Say (O Muhammad صلى الله عليه وسلم): "O mankind! Verily, I am sent to you all as the Messenger of Allâh - to Whom belongs the dominion of the heavens and the earth. Lâ ilâha illa Huwa (none has the right to be worshipped but He). It is He Who gives life and causes death. So believe in Allâh and His Messenger (Muhammad صلى الله عليه وسلم), the Prophet who can neither read nor write (i.e. Muhammad صلى الله عليه وسلم), who believes in Allâh and His Words [(this Qur’ân), the Taurât (Torah) and the Injeel (Gospel) and also Allâh’s Word: "Be!" - and he was, i.e. ‘Isâ (Jesus) son of Maryam (Mary), عليهما السلام], and follow him so that you may be guided.**" [al-A'raf: 158]
 
 There are many Ayahs carrying this meaning. The same applies to belief in messengers. We must believe in messengers in general and some of them in detail. We must believe that Allah sent messengers to His servants as bearers of glad tidings, warners, and callers to the truth. Anyone who positively responds to their call shall attain happiness, whereas those who contradict them will bring upon themselves failure and regret. 
 
-Prophet Muhammad ibn Abdullah (peace be upon him) is the last and best of the Prophets, as Allah (Glorified be He) says: "And verily, We have sent among every Ummah (community, nation) a Messenger (proclaiming): “Worship Allâh (Alone), and avoid (or keep away from) Tâghût (all false deities i.e. do not worship Tâghût besides Allâh).” [al-Nahl: 36]
+Prophet Muhammad ibn Abdullah (peace be upon him) is the last and best of the Prophets, as Allah (Glorified be He) says: "**And verily, We have sent among every Ummah (community, nation) a Messenger (proclaiming): “Worship Allâh (Alone), and avoid (or keep away from) Tâghût (all false deities i.e. do not worship Tâghût besides Allâh).”**" [al-Nahl: 36]
 
-Allah (Exalted be He) also says: "Messengers as bearers of good news as well as of warning in order that mankind should have no plea against Allâh after the (coming of) Messengers." [al-Nisa: 165]
+Allah (Exalted be He) also says: "**Messengers as bearers of good news as well as of warning in order that mankind should have no plea against Allâh after the (coming of) Messengers.**" [al-Nisa: 165]
 
-"Muhammad (صلى الله عليه وسلم) is not the father of any of your men, but he is the Messenger of Allâh and the last (end) of the Prophets." [al-Ahzab: 40]
+"**Muhammad (صلى الله عليه وسلم) is not the father of any of your men, but he is the Messenger of Allâh and the last (end) of the Prophets.**" [al-Ahzab: 40]
 
 Any prophet whose name was mentioned by Allah or authentically reported from the Messenger (peace be upon him) must be believed in personally and specifically. Among these Messengers are Nuh (Noah), Hud (Eber), Salih (Shaloh), Ibrahim (Abraham) and many others (may peace and blessings be upon them, their family, and followers).
 
 As for belief in the Last Day, it comprises belief in all the events that Allah and His Messenger (peace be upon him) informed us about, which shall occur after death, such as the trial of the grave, and the torment or bliss in the grave, and the horros and distresses of the Day of Resurrection, such as Sirat (the bridge over the Fire), Mizan (the Scales for weighing deeds), punishment and reward, records of deeds that shall be laid open which people shall receive in their right hand, their left hand or behind their back. It also includes belief in the Hawd (the Prophet's Basin in the Hereafter), Paradise, Hellfire, the believers seeing and speaking to Allah (Glorified be He), and the other things mentioned in the Qur'an and Sunnah. Every Muslim has to believe in all these matters as taught by Allah and His Messenger (peace be upon him). With regard to belief in predestination, it consists of four elements:
 
-First: The belief that Allah knows what happened in the past and what will happen in the future, and all matters of His creatures, their sustenance, lifetime, deeds, and all other issues; nothing is hidden from Him. Allah (Glorified be He) says: "Verily, Allâh is the All-Knower of everything." [al-Anfal: 75]
+First: The belief that Allah knows what happened in the past and what will happen in the future, and all matters of His creatures, their sustenance, lifetime, deeds, and all other issues; nothing is hidden from Him. Allah (Glorified be He) says: "**Verily, Allâh is the All-Knower of everything.**" [al-Anfal: 75]
 
-"...that you may know that Allâh has power over all things, and that Allâh surrounds all things in (His) Knowledge." [al-Talaq: 12]
+"**...that you may know that Allâh has power over all things, and that Allâh surrounds all things in (His) Knowledge.**" [al-Talaq: 12]
 
-Second: The belief that Allah has records of everything He predestined. Allah (Glorified be He) says: "We know that which the earth takes of them (their dead bodies), and with Us is a Book preserved (i.e. the Book of Decrees)." [al-Qaf: 4]
+Second: The belief that Allah has records of everything He predestined. Allah (Glorified be He) says: "**We know that which the earth takes of them (their dead bodies), and with Us is a Book preserved (i.e. the Book of Decrees).**" [al-Qaf: 4]
 
-"...and all things We have recorded with numbers (as a record) in a Clear Book." [Yasin: 12]
+"**...and all things We have recorded with numbers (as a record) in a Clear Book.**" [Yasin: 12]
 
-"Know you not that Allâh knows all that is in the heaven and on the earth? Verily, it is (all) in the Book (Al-Lauh-al-Mahfûz). Verily that is easy for Allâh." [al-hajj: 70]
+"**Know you not that Allâh knows all that is in the heaven and on the earth? Verily, it is (all) in the Book (Al-Lauh-al-Mahfûz). Verily that is easy for Allâh.**" [al-hajj: 70]
 
-Third: The belief that the Will of Allah is inevitably executed. Whatever He wills, will be; and whatever He does not, will never be. Allah (Glorified be He) says: "Verily, Allâh does what He wills." [al-Hajj: 18]
+Third: The belief that the Will of Allah is inevitably executed. Whatever He wills, will be; and whatever He does not, will never be. Allah (Glorified be He) says: "**Verily, Allâh does what He wills.**" [al-Hajj: 18]
 
-"Verily, His Command, when He intends a thing, is only that He says to it, "Be!" - and it is!" [Yasin: 82] 
+"**Verily, His Command, when He intends a thing, is only that He says to it, "Be!" - and it is!**" [Yasin: 82] 
 
-"And you cannot will unless (it be) that Allâh wills - the Lord of the ‘Alamîn (mankind, jinn and all that exists)." [al-Takwir: 29]
+"**And you cannot will unless (it be) that Allâh wills - the Lord of the ‘Alamîn (mankind, jinn and all that exists).**" [al-Takwir: 29]
 
-Fourth: The belief that Allah (Exalted be He) is the Creator of all things that exist. There is no creator or Lord except Him. Allah (Glorified be He) says: "Allâh is the Creator of all things, and He is the Wakîl (Trustee, Disposer of affairs, Guardian) over all things." [al-Azumar: 62]
+Fourth: The belief that Allah (Exalted be He) is the Creator of all things that exist. There is no creator or Lord except Him. Allah (Glorified be He) says: "**Allâh is the Creator of all things, and He is the Wakîl (Trustee, Disposer of affairs, Guardian) over all things.**" [al-Azumar: 62]
 
-"O mankind! Remember the Grace of Allâh upon you! Is there any creator other than Allâh who provides for you from the sky (rain) and the earth? Lâ ilâha illâ Huwa (none has the right to be worshipped but He). How then are you turning away (from Him)?" [Fatir: 3]
+"**O mankind! Remember the Grace of Allâh upon you! Is there any creator other than Allâh who provides for you from the sky (rain) and the earth? Lâ ilâha illâ Huwa (none has the right to be worshipped but He). How then are you turning away (from Him)?**" [Fatir: 3]
 
 According to Ahl-us-Sunnah wal-Jama'ah, belief in these four elements constitutes the belief in predestination. However, some followers of Bid'ah (innovation in the religion) deny some of these aspects. Furthermore, belief in Allah includes believing that Iman is translated into words and deeds whose power increases by performing acts of obedience and decreases by committing sins. It is also not permissible to declare a Muslim to be a Kafir (disbeliever) for committing a sin below the level of Shirk (associating others with Allah in His Divinity or worship) and Kufr (disbelief), such as Zina (sexual intercourse outside marriage), robbery, Riba (usury/interest), intoxication, and disobedience to parents and other major sins, as long as the person concerned does not regard them as lawful. 
 
-Allah (Glorified be He) says: "Verily, Allâh forgives not that partners should be set up with Him (in worship), but He forgives except that (anything else) to whom He wills" [al-Nisa: 48]
+Allah (Glorified be He) says: "**Verily, Allâh forgives not that partners should be set up with Him (in worship), but He forgives except that (anything else) to whom He wills**" [al-Nisa: 48]
 
-Moreover, it is authentically reported from the Prophet (peace be upon him) that Allah will bring out of the Fire those who have as much as a mustard of faith in their heart. Another aspect of belief in Allah is love and hate, and loyalty and disassociation for the sake of Allah. Thus, a believer should love and support believers, and dislike and oppose Kafirs (disbelievers). Foremost among the believers of this nation are the Sahabah (Companions of the Prophet). Hence, Ahl-us-Sunnah wal-Jama'ah love them, support them, and believe that they were the best of people after the prophets, because the Prophet (peace be upon him) said: "The best people are those living in my generation, and then those who will follow them, and then those who will follow the latter." (Agreed upon by Imams Al-Bukhari and Muslim) [^4]
+Moreover, it is authentically reported from the Prophet (peace be upon him) that Allah will bring out of the Fire those who have as much as a mustard of faith in their heart. Another aspect of belief in Allah is love and hate, and loyalty and disassociation for the sake of Allah. Thus, a believer should love and support believers, and dislike and oppose Kafirs (disbelievers). Foremost among the believers of this nation are the Sahabah (Companions of the Prophet). Hence, Ahl-us-Sunnah wal-Jama'ah love them, support them, and believe that they were the best of people after the prophets, because the Prophet (peace be upon him) said: "**The best people are those living in my generation, and then those who will follow them, and then those who will follow the latter.**" (Agreed upon by Imams Al-Bukhari and Muslim) [^4]
 
 They also believe that the best among them was Abu Bakr Al-Siddiq, then 'Umar Al-Faruq, then 'Uthman Dhu Al-Nurayn, then 'Ali Al-Murtada (may Allah be pleased with them all), then the Ten Sahabah given the glad tidings of entering Paradise, then the rest of Sahabah (may Allah be pleased with them all). 
 
@@ -162,19 +168,19 @@ This is the correct 'Aqidah that every Muslim is obliged to follow and remain st
 
 There are numerous categories of those who reject and deviate from this 'Aqidah (creed). They include, among others, those who worship idols, angels, Awliya' (pious people), Jinn (creatures created from fire), trees, and stones. These people have not followed the call of the Messengers of Allah; rather, they stubbornly rejected their call. This is exactly what Quraysh and some other Arab tribes did with Prophet Muhammad (peace be upon him). They used to beseech their false gods to fulfill their needs, heal their sick, and grant them victory over their enemy. They would also offer sacrifices to them and make vows in their names. 
 
-When the Messenger of Allah (peace be upon him) disapproved of their beliefs and called them to worship Allah Alone and not to associate others with Him in worship, they replied: "Has he made the âlihah (gods) (all) into One Ilâh (God - Allâh). Verily, this is a curious thing!" [Sad: 5]
+When the Messenger of Allah (peace be upon him) disapproved of their beliefs and called them to worship Allah Alone and not to associate others with Him in worship, they replied: "**Has he made the âlihah (gods) (all) into One Ilâh (God - Allâh). Verily, this is a curious thing!**" [Sad: 5]
 
 The Prophet (peace be upon him) continued calling them to worship Allah Alone, warning them against associating others with Him in worship, and explaining to them the reality of Islam. His efforts eventually paid off when they entered the Religion of Allah in crowds. Islam became superior to all religions due to the huge efforts made by the Messenger of Allah (peace be upon him), the Sahabah (Companions of the Prophet), and those who followed them in righteousness. The situation changed again after ignorance dominated and an overwhelming majority of people reverted to their foolish and ignorant practices, such as excessive veneration of Prophets and Awliya', whom they invoked and sought their help. This is in addition to all other forms of Shirk (associating others with Allah in His Divinity or worship). They did not sufficiently understand the true meaning of Tawhid (belief in the Oneness of Allah) as the Arab disbelievers actually did. Allah is the One sought for help.
 
-These forms of Shirk are increasingly widespread among people in our present time due to ignorance and the long interval between the era of prophethood and the present time. The argument these people put forward is not different from that of their predecessors, namely: "These are our intercessors with Allâh." [Yunus: 18]
+These forms of Shirk are increasingly widespread among people in our present time due to ignorance and the long interval between the era of prophethood and the present time. The argument these people put forward is not different from that of their predecessors, namely: "**These are our intercessors with Allâh.**" [Yunus: 18]
 
-"We worship them only that they may bring us near to Allâh." [al-Zumar: 3]
+"**We worship them only that they may bring us near to Allâh.**" [al-Zumar: 3]
 
-Allah refuted this false claim and made it clear to them that worshipping anything else other than Him is Shirk and Kufr (disbelief). Allah (Exalted be He) says: "And they worship besides Allâh things that harm them not, nor profit them, and they say: “These are our intercessors with Allâh.” [Yunus: 18]
+Allah refuted this false claim and made it clear to them that worshipping anything else other than Him is Shirk and Kufr (disbelief). Allah (Exalted be He) says: "And they worship besides Allâh things that harm them not, nor profit them, and they say: “**These are our intercessors with Allâh.**” [Yunus: 18]
 
-"...Say: “Do you inform Allâh of that which He knows not in the heavens and on the earth?” Glorified and Exalted is He above all that which they associate as partners (with Him)!" [Yunus: 18] In this Ayah (Qur'anic verse), Allah (Glorified be He) clearly declares that worshipping Prophets, Awliya', and others besides Him is major Shirk (associating others with Allah in His Divinity or worship that takes the Muslim out of Islam), even if those who commit it call it by other names. 
+"**...Say: “Do you inform Allâh of that which He knows not in the heavens and on the earth?” Glorified and Exalted is He above all that which they associate as partners (with Him)!**" [Yunus: 18] In this Ayah (Qur'anic verse), Allah (Glorified be He) clearly declares that worshipping Prophets, Awliya', and others besides Him is major Shirk (associating others with Allah in His Divinity or worship that takes the Muslim out of Islam), even if those who commit it call it by other names. 
 
-Allah (Exalted be He) says: "And those who take Auliyâ’ (protectors, helpers, lords, gods) besides Him (say): “We worship them only that they may bring us near to Allâh.”" [al-Zumar: 3] Allah (Glorified be He) refutes their claims, saying: "Verily, Allâh will judge between them concerning that wherein they differ. Truly, Allâh guides not him who is a liar, and a disbeliever." [al-Zumar: 3]
+Allah (Exalted be He) says: "**And those who take Auliyâ’ (protectors, helpers, lords, gods) besides Him (say): “We worship them only that they may bring us near to Allâh.”" [al-Zumar: 3] Allah (Glorified be He) refutes their claims, saying: "Verily, Allâh will judge between them concerning that wherein they differ. Truly, Allâh guides not him who is a liar, and a disbeliever.**" [al-Zumar: 3]
 
 Thus, Allah makes it crystal clear that the worship they offer to anything or anyone other than Him, whether in the form of invocation, hope, fear, or otherwise, is Kufr. Allah (Exalted be He) also calls them liars when they claim that their false gods bring them closer to Him. There are a number of false ideologies in our present time that contradict the authentic 'Aqidah with which the Messengers (peace be upon them) were sent. These false ideologies are like the beliefs of the followers of Marx, Lenin, and others who call to atheism and Kufr and who give their beliefs different names, such as socialism, communism, Ba'thism, and so on.
 
@@ -184,11 +190,11 @@ Other beliefs which contradict true beliefs include the Sufis who believe that t
 
 Indeed, this is the worst form of Shirk with relation to Allah's Lordship. It is even far worse than the form of Shirk that was prevalent in pre-Islamic Arabia. At that time, the Arabs associated partners with Allah only in worship, not in His Lordship. Moreover, they used to associate partners with Allah in prosperity; but in adversity, they dedicated their worship to Allah Alone. 
 
-Allah (Glorified be He) says: "And when they embark on a ship, they invoke Allâh, making their Faith pure for Him only: but when He brings them safely to land, behold, they give a share of their worship to others." [al-'Ankabut: 65]
+Allah (Glorified be He) says: "**And when they embark on a ship, they invoke Allâh, making their Faith pure for Him only: but when He brings them safely to land, behold, they give a share of their worship to others.**" [al-'Ankabut: 65]
 
-They acknowledged that Allah is the only Lord. Allah (Glorified be He) says: "And if you ask them who created them, they will surely say: “Allâh.” [al-Zukhruf: 97]
+They acknowledged that Allah is the only Lord. Allah (Glorified be He) says: "**And if you ask them who created them, they will surely say: “Allâh.”**" [al-Zukhruf: 97]
 
-"And: Say (O Muhammad صلى الله عليه وسلم): "Who provides for you from the sky and the earth? Or who owns hearing and sight? And who brings out the living from the dead and brings out the dead from the living? And who disposes the affairs?" They will say: "Allâh." Say: "Will you not then be afraid of Allâh’s punishment (for setting up rivals in worship with Allâh)?" [Yunus: 31]
+"**Say (O Muhammad صلى الله عليه وسلم): "Who provides for you from the sky and the earth? Or who owns hearing and sight? And who brings out the living from the dead and brings out the dead from the living? And who disposes the affairs?" They will say: "Allâh." Say: "Will you not then be afraid of Allâh’s punishment (for setting up rivals in worship with Allâh)?**" [Yunus: 31]
 
 In addition to many Ayahs to the same effect.
 
@@ -205,8 +211,6 @@ Again, among the beliefs that contradict the true 'Aqidah with regard to the Nam
 These sects deny the perfection of the Attributes of Allah. They give Him attributes of nonexistent, inanimate, or impossible beings. Exalted be He and His Great Sublimity above what they say. Other sects, such as Al-Asha'irah (a Muslim group that bases its creedal issues on logic), deny some of the Attributes of Allah while confirming others, thus contradicting clear logical as well as textual evidence. Conversely, Ahl-us-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream) confirm all the Names and Attributes that Allah has confirmed for Himself in the Qur'an or through His Messenger Muhammad (peace be upon him). They place Him far above His creation without the slightest tinge of Ta'til (negation of the meaning or function of Allah's Attributes). They follow all proofs in the Qur'an and the Sunnah without twisting the meaning thereof in the least. In this way, they have avoided confusion into which others have fallen. This belief is the way to salvation and bliss in this world and in the Hereafter. It is the straight path followed by the Salaf (righteous predecessors) and the leaders of this Ummah (nation based on one creed). The condition of the present-day Muslims will not be rectified except by following the same path of the Salaf who adhered to the Qur'an and the Sunnah and shunned all that contradicts them.
 
 May Allah grant us success. Indeed, He (Glorified be He) is Sufficient for us, and He is the Best Disposer of affairs. There is neither might nor power except with Allah. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
-
-Written by : Shaykh Ibn Baz (May Allah be merciful to him) in <a href="https://binbaz.org.sa/articles/1/%D8%A7%D9%84%D8%B9%D9%82%D9%8A%D8%AF%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D9%8A%D8%AD%D8%A9-%D9%88%D9%85%D8%A7-%D9%8A%D8%B6%D8%A7%D8%AF%D9%87%D8%A7" target="_blank">Majmu' Fatawa wa Muqolat 1/13</a>, and published in Islamic Research Journal (seventh edition) issued in Rajab, Sha'ban, Ramadan, and Shawwal 1403 A.H.
 
 ---
 
