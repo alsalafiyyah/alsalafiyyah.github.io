@@ -77,7 +77,7 @@ layout: default
     {% for shaykh in page.muftis.shaykh %}
     <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}">{{ shaykh.name "}}</a>
     {% endfor %}{% else %}{% endif %}{% endif %} 
-    {% if page.url %}<a href="{{ page.url }}">{% if page.source %}in {{ page.source }}
+    {% if page.url %}<a href="{{ page.link }}" target="_blank">{% if page.source %}in {{ page.source }}
     {% else %}{{ site.source.name }}{% else %}{% endif %}</a>{% endif %}
   </p>
   
