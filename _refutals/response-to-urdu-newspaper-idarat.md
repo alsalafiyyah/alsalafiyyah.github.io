@@ -84,7 +84,7 @@ This Ayah and the Noble Hadith as well as other similar Ayahs and Hadiths are al
 
 As for sending peace and blessings on the Messenger of Allah (peace be upon him), it is a good deed and one of the best means of drawing closer to Allah (Exalted be He), as Allah (Glorified and Exalted be He) says: "**Allâh sends His Salât (Graces, Honours, Blessings, Mercy) on the Prophet (Muhammad صلى الله عليه وسلم), and also His angels (ask Allâh to bless and forgive him). O you who believe! Send your Salât on (ask Allâh to bless) him (Muhammad صلى الله عليه وسلم), and (you should) greet (salute) him with the Islâmic way of greeting (salutation i.e. As-Salâmu ‘Alaikum ).**" [Al-Ahzab: 56]
 
-The Prophet (peace be upon him) also said: "**Anyone who sends peace upon me once, Allah sends peace upon him ten times.**" [^8]
+The Prophet (peace be upon him) also said: "**Anyone who sends peace upon me once, Allah sends peace upon him ten times.**" [^9]
 
 It is noted that sending peace and blessings upon the Messenger (peace be upon him) is allowed at all times and is more emphasized at the end of every prayer. According to many Muslim scholars, it is obligatory to say it in the last Tashahhud (testification recited in the sitting position in the last unit of Prayer) of every prayer. It is also stressed Sunnah (action following the teachings of the Prophet) to say it in many other situations. For example, it is recommended to say it after the Adhan (call to prayer), upon mentioning the Prophet (peace be upon him), on Fridays and on Friday night, as indicated by many Hadiths. This is what I wanted to attract attention to regarding this matter. The evidence mentioned is, In sha'a-Allah (if Allah wills), deemed sufficient for those whom Allah (Exalted be He) has enlightened with knowledge and illuminated their insight.
 
@@ -120,3 +120,4 @@ This is what I wanted to pay attention thereto concerning the above-mentioned ar
 [^6]: Ibn Majah, Sunan, Book on rituals, no. 3029; and Ahmad ibn Hanbal, Musnad, vol. 1, p. 215.
 [^7]: Al-Bukhari, Sahih, Book on prophets, no. 3445; and Ahmad ibn Hanbal, Musnad, vol. 1, p. 24.
 [^8]: Ibn Majah, Sunan, Book on asceticism, no. 4308.
+[^9]: Muslim, Sahih, Book on Salah, no. 408; Al-Tirmidhy, Sunan, Book on Salah, no. 485; Al-Nasa'i, Sunan, Book on Sujud-ul-Sahw, no. 1296; Abu Dawud, Sunan, Book on Salah, no. 1530; and Ahmad ibn Hanbal, Musnad, vol. 2, p. 375.
