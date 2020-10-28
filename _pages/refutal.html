@@ -23,12 +23,6 @@ permalink: /refutations/
 <article>
 <div class="table-wrapper" itemscope itemtype="https://schema.org/Table">
   <table>
-    <thead>
-      <tr>
-        <th>Date</th>
-        <th>Title</th>
-      </tr>
-    </thead>
     <tbody>
       {% for c in site.refutals %}
       <tr>
@@ -38,7 +32,7 @@ permalink: /refutations/
         </td>
       </tr>
       {% else %}
-      <p{{site.data.settings.page.no-fatwas}}</p>
+      <p>{{site.data.settings.page.no-fatwas}}</p>
       {% endfor %}
     </tbody>
   </table>
