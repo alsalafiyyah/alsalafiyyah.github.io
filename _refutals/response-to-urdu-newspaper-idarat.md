@@ -102,3 +102,14 @@ The prohibition of celebrating the Mawlid and the excessiveness or acts of Shirk
 
 This is what I wanted to pay attention thereto concerning the above-mentioned article. It is Allah Whom we ask to guide us and all Muslims to understand His Religion and make us firm in it. May He help all of us adhere to the Sunnah and beware of Bid'ah. Indeed, He is the Generous and Gracious Lord. May Allah's Peace and Blessings be upon our Prophet Muhammad, upon his family and Companions.
 
+---
+
+[^1]: Al-Bukhari, Sahih, Book on reconciliation, no. 2697; Muslim, Sahih, Book on judicial decisions, no. 1718; Abu Dawud, Sunan, Book on Al-Sunnah, no. 4606; Ibn Majah, Sunan, Introduction, no. 14; and Ahmad, Musnad, vol. 6, p. 240.
+[^2]: Muslim, Sahih, Book on judicial decisions, no. 1718; and Ahmad ibn Hanbal, Musnad, vol. 6, p. 256.
+[^3]: Abu Dawud, Sunan, Al-Sunnah, no. 4607; Ahmad ibn Hanbal, Musnad, vol. 4, p. 127; and Al-Darimy, Sunan, Introduction, no. 95.
+[^4]: Muslim, Sahih, Book on Friday, no. 867; Al-Nasa'i, Sunan, Book on the two 'Eid Prayers, no. 1578; Ahmad ibn Hanbal, Musnad, vol. 3, p. 311.
+[^5]: Muslim, Sahih, Book on rulership, no. 1844; Al-Nasa'i, Sunan, Book on Al-Bay'ah, no. 4191; Ibn Majah, Sunan, Book on trials, no. 3956; and Ahmad Ibn Hanbal, Musnad, vol. 2, p. 191.
+[^6]: Ibn Majah, Sunan, Book on rituals, no. 3029; and Ahmad ibn Hanbal, Musnad, vol. 1, p. 215.
+[^7]: Al-Bukhari, Sahih, Book on prophets, no. 3445; and Ahmad ibn Hanbal, Musnad, vol. 1, p. 24.
+[^8]: Ibn Majah, Sunan, Book on asceticism, no. 4308.
+[^9]: Muslim, Sahih, Book on Salah, no. 408; Al-Tirmidhy, Sunan, Book on Salah, no. 485; Al-Nasa'i, Sunan, Book on Sujud-ul-Sahw, no. 1296; Abu Dawud, Sunan, Book on Salah, no. 1530; and Ahmad ibn Hanbal, Musnad, vol. 2, p. 375.
