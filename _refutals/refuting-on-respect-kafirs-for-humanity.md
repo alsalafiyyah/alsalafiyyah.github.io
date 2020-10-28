@@ -2,9 +2,16 @@
 layout: page
 title: "Refuting an article which states:'...We should avoid all conflicts between our two religions and work to create an understanding between Muslims and Christians to serve humanity'"
 publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa of Shaykh Ibn Baz 3"
+source: "Majmu' Fatawa of Shaykh Ibn Baz vol 3"
 hijri: Muharram 21, 1442 AH
-shaykhs: Shaykh Abdul-Aziz ibn Baz
+lang: en
+active: refutals
+note: false
+excerpt: "With these brief words, I wanted to clarify what was written by this writer and warn against the mistakes that were mentioned by him, for fear that people may have been deceived by his article."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 All praise be to Allah, and peace and blessings be upon the Messenger of Allah, and his family and Companions, and whoever is guided by his guidance. 
