@@ -1,11 +1,17 @@
 ---
-layout: post
+layout: page
 title: "A reply to the claims of BBC"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa Shaykh Ibn Baz 2/380"
-category: [refutals]
 hijri: Dhul-Qa'dah 29, 1441 AH
-shaykhs: Shaykh Abdul-Aziz ibn Baz
+lang: en
+active: refutals
+note: false
+excerpt: "The statement which the BBC reported from me on its morning news in London that I said that celebrating the Mawlid is an act of Kufr is a mere lie and groundless."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 All Praise is due to Allah. May peace be upon the Messenger of Allah, his family, and Companions.
