@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 publisher: alsalafiyyah@icloud.com
 title: "The Shari'ah ruling on Ghulam Ahmad Pervez"
 hijri: Safar 03, 1442 AH
