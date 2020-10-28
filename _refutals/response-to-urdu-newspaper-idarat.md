@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 published: true
 publisher: alsalafiyyah@icloud.com
 title: "Response to Urdu newspaper 'Idarat' who launched a press campaign against the Kingdom of Saudi Arabia"
