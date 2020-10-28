@@ -1,15 +1,25 @@
 ---
-layout: post
+layout: page
 title: "The Glorious Qur'an translation by Muhammad Asad is fatal error"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 2190"
-category: [refutals]
 hijri: Muharram 8, 1442 AH
-shaykhs: 
- - Shaykh Abdul-Aziz Ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+lang: en
+active: refutals
+note: false
+excerpt: "The translation by Muhammad Asad contains fatal errors and flagrant false beliefs. As a result, the Constitutional Council of the Muslim World League in Makkah Al-Mukarramah issued a decree banning the print and publication of this translation."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman: 
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah Ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Abdullah Ibn Qa'ud
+      url: /biography/qaud/
 ---
 
 Question:
@@ -45,6 +55,3 @@ The basic rule in this regard lies in the Qur'an and the authentically reported 
 Answer 4:
 
 The translation referred to contains fatal errors and flagrant false beliefs. As a result, the Constitutional Council of the Muslim World League in Makkah Al-Mukarramah issued a decree banning the print and publication of this translation.
-
-
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
