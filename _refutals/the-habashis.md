@@ -1,16 +1,25 @@
 ---
-layout: post
+layout: page
 title: "Jama'at-ul-Ahbash (the Habashis)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 19606"
-category: [habashis, refutals]
 hijri: Muharram 16, 1442 AH
-date: 2020-09-04
-shaykhs: 
- - Shaykh Abdul-Aziz Ibn Baz
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Salih Fawzan
- - Shaykh Bakr Abu Zayd
+lang: en
+note: false
+active: refutals
+excerpt: "One of the most important characteristics by which those first generations were distinguished and by which they achieved a higher level of righteousness than other people, was the fact that they referred all their affairs to the Qur’an and the Sunnah."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman: 
+    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+      url: /biography/abdulaziz/
+  members: 
+    - name: Shaykh Salih Fawzan
+      url: /biography/fawzan/
+    - name: Shaykh Bakr Abu Zayd
+      url: /biography/bakr/
 ---
 
 Praise be to Allah Alone. Peace and blessings be upon the last Prophet, his family, and Companions. 
