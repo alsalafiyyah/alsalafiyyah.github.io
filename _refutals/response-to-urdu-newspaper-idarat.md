@@ -1,9 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 publisher: alsalafiyyah@icloud.com
 title: "Response to Urdu newspaper 'Idarat' who launched a press campaign against the Kingdom of Saudi Arabia"
-hijri: Muharram 21, 1442 AH
+hijri: Muharram 18, 1442 AH
 source: ""
 lang: en
 note: false
