@@ -4,8 +4,14 @@ title: "Does committing sins obliterate the blessing?"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 5/336"
 hijri: Dhul-Hijjah 22, 1441 AH
-date: 2020/08/12
-shaykhs: Shaykh Ibn Baz
+lang: en
+note: false
+category: [misc]
+excerpt: "Undoubtedly, committing sins is one of the causes of Allah’s Wrath, loss of blessings, withholding of rain and being overtaken by the enemy."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question:
