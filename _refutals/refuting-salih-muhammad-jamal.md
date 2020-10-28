@@ -1,11 +1,17 @@
 ---
-layout: post
+layout: page
 title: "Refuting Salih Muhammad Jamal for his call of the glorification of Islamic monuments"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa Shaykh ibn Baz 1/401"
-category: [refutals]
 hijri: Muharram 18, 1442 AH
-shaykhs: Shaykh Abdul-Aziz ibn Baz
+lang: en
+active: refutals
+note: false
+excerpt: "Anything that was not prescribed in the era of the Prophet (peace be upon him) and his Sahabah (may Allah be pleased with them) cannot be made permissible later. If this door is opened, Islam will be misrepresented and innovated ideas will enter it."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 All praise be to Allah, and peace and blessings be upon the Messenger of Allah, his family, his Companions, and those who follow his guidance.
