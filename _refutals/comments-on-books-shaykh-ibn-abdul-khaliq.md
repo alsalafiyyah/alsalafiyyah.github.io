@@ -1,11 +1,17 @@
 ---
-layout: post
+layout: page
 title: "Comments on some books of Shaykh Abdul-Rahman ibn Abdul-Khaliq"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat p. 8/240"
-category: [ikhwanis, refutals]
 hijri: Muharram 16, 1442 AH
-shaykhs: Shaykh Abdul-Aziz Ibn Baz
+lang: en
+active: refutals
+note: false
+excerpt: "Such a saying from you is false for scholars of Saudi Arabia know about all contemporary problems and they wrote many books on them. All praise be to Allah Alone, I am one of scholars who dealt with contemporary problems and I wrote uncountable writings on them."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 From [Abdul-Aziz ibn Abdullah ibn Baz](/biographies/binbaz/) to the honorable son **Shaykh Abdul-Rahman ibn Abdul-Khaliq**, may Allah guide him to do what pleases Him and make His religion victorious through him. Amen!
@@ -32,9 +38,9 @@ Following are the names of your books that I have comments on:
 
 You mentioned in your book **Usul Al-'Amal Al-Jama'i (pp. 10-11)** what reads: 
 
-- **"Some of those who are ascribed to the call of Shaykh Muhammad Ibn Abdul-Wahhab (may Allah be merciful to him) claimed that whoever starts a Jama'ah (group) for Da`wah (calling to Islam) and Jihad (fighting/striving in the Cause of Allah) is a Kharijite (member of a separatist group called Khawarij that believes committing a major sin amounts to disbelief)"**.
+- **"Some of those who are ascribed to the call of Shaykh Muhammad Ibn Abdul-Wahhab (may Allah be merciful to him) claimed that whoever starts a Jama'ah (group) for Da'wah (calling to Islam) and Jihad (fighting/striving in the Cause of Allah) is a Kharijite (member of a separatist group called Khawarij that believes committing a major sin amounts to disbelief)"**.
 - **"They also claimed that 'the governmental' regime and parties contradict Din (religion).**"
-- Moreover, you claimed that **some of the seekers of knowledge who attribute themselves to Shaykh Muhammad Ibn Abdul-Wahhab (may Allah be merciful to him) gave the contemporary rulers rights that were neither given to Abu Bakr Al-Siddiq nor Umar ibn Al-Khattab, and that, as far as you know, has no precedence in the whole Muslim history and had not been mentioned by any trustworthy scholar in any book. Such rights are: no one is permitted to enjoin Ma`ruf (that which is judged as good, beneficial, or fitting by Islamic law and Muslims of sound intellect) or forbid Munkar (that which is unacceptable or disapproved of by Islamic law and Muslims of sound intellect) unless they get permission from the Imam (ruler) and that it is impermissible to repel any attack against Muslim territories unless the Imam permits so. You mentioned that the advocates of the foregoing thus gave the ruler the same attributes of the Lord (Glorified and Exalted be He). Truth thus is what the ruler ordains and falsehood is what he declares Haram (prohibited). According to such seekers of knowledge, whatever the Imam does not decide should not be decided by anybody else. In other words, whatever affairs of Din and interests of Muslims the Imam neglects, Muslims have to ignore in order not to displease the Imam."**
+- Moreover, you claimed that **some of the seekers of knowledge who attribute themselves to Shaykh Muhammad Ibn Abdul-Wahhab (may Allah be merciful to him) gave the contemporary rulers rights that were neither given to Abu Bakr Al-Siddiq nor Umar ibn Al-Khattab, and that, as far as you know, has no precedence in the whole Muslim history and had not been mentioned by any trustworthy scholar in any book. Such rights are: no one is permitted to enjoin Ma'ruf (that which is judged as good, beneficial, or fitting by Islamic law and Muslims of sound intellect) or forbid Munkar (that which is unacceptable or disapproved of by Islamic law and Muslims of sound intellect) unless they get permission from the Imam (ruler) and that it is impermissible to repel any attack against Muslim territories unless the Imam permits so. You mentioned that the advocates of the foregoing thus gave the ruler the same attributes of the Lord (Glorified and Exalted be He). Truth thus is what the ruler ordains and falsehood is what he declares Haram (prohibited). According to such seekers of knowledge, whatever the Imam does not decide should not be decided by anybody else. In other words, whatever affairs of Din and interests of Muslims the Imam neglects, Muslims have to ignore in order not to displease the Imam."**
 
 This is what you mentioned in your book. 
 
@@ -63,10 +69,11 @@ You mentioned in your book Wujub Tatbiq Al-Hudud Al-Shar'iyyah p. 26:
 
 **I say: in such a society there may be excuses for whoever is obliged to commit theft and whoever is obliged to commit Zina (adultery) to support her child, old mother, or sick father. I think it is a sign of naivety and ignorance that we punish the adulterer or the fornicator while we allow all kinds of wantonness and libertinism. Therefore, it is neither rational nor wise that we apply Shar'i criminal Hudud before removing all causes of the concerned crimes.'" See p. 27.**
 
-Again, what has been mentioned above is incorrect. It contradicts truth and I do not know of any scholar who said the same except a narration that `Umar (may Allah be pleased with him) suspended the application of theft Hadd (ordained punishment for violating Allah’s Law) during the year of famine. However, even if such a narration is Sahih (authentic), the issue still needs Ijtihad (juristic effort to infer expert legal rulings) and insight.
+Again, what has been mentioned above is incorrect. It contradicts truth and I do not know of any scholar who said the same except a narration that Umar (may Allah be pleased with him) suspended the application of theft Hadd (ordained punishment for violating Allah’s Law) during the year of famine. However, even if such a narration is Sahih (authentic), the issue still needs Ijtihad (juristic effort to infer expert legal rulings) and insight.
+
 Anyway, explicit texts of the Qur'an and Sunnah (whatever is reported from the Prophet) clearly state the obligation of inflicting the Hadd on whomever is proven to be guilty.
 
-You have thus to withdraw what you have mentioned in this book and declare this in local newspapers in Kuwait and Saudi Arabia. You also have to declare so in a special book in which you withdraw all your mistakes. It is well known that truth is firm as 'Umar (may Allah be pleased with him) said to Abu Musa Al-Ash`ary (may Allah be pleased with them all). Consequently, returning to the truth is better than persisting in falsehood.
+You have thus to withdraw what you have mentioned in this book and declare this in local newspapers in Kuwait and Saudi Arabia. You also have to declare so in a special book in which you withdraw all your mistakes. It is well known that truth is firm as 'Umar (may Allah be pleased with him) said to Abu Musa Al-Ash'ari (may Allah be pleased with them all). Consequently, returning to the truth is better than persisting in falsehood.
 
 May Allah guide us all to what pleases Him! May He protect us all from the causes of His Anger!
 
@@ -85,13 +92,13 @@ You have thus to withdraw this and declare it in local newspapers as well as in 
 
 ### Sixthly: 
 
-**You mentioned in your book Fusul Min Al-Siyasah Al-Shar'iyyah pp. 31-32 that demonstrations were amongst the means that the Prophet (peace be upon him) used to make Da`wah.**
+**You mentioned in your book Fusul Min Al-Siyasah Al-Shar'iyyah pp. 31-32 that demonstrations were amongst the means that the Prophet (peace be upon him) used to make Da'wah.**
 
 As I do not find any text to prove this, please tell me your reference and source of information. If you do not have an authorized source for the foregoing allegation, then you have to withdraw it. It is considerable to mention that I do not know any text to prove such a claim. It is well known that demonstrations lead to many evils. Anyway, if there is a Sahih text on demonstrations, this has to be completely clarified so that corrupters do not use it as proof for their false demonstrations.
 
 Finally, I ask Allah (Exalted be He) to help us all to acquire beneficial knowledge, to do good deeds, to set right all our hearts and actions, to make us amongst the guiding and the guided people. Verily, Allah is the Most Generous, the Most Bountiful.
 
-As-salamu `alaykum warahmatullah wabarakatuh.
+As-salamu 'alaykum warahmatullah wabarakatuh.
 
 ---
 
