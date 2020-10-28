@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 publisher: alsalafiyyah@icloud.com
 title: Danger of denying the Sunnah by words and deeds
 hijri: Muharram 24, 1442 AH
