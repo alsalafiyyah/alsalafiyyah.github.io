@@ -4,12 +4,17 @@ title: "On false statement: 'Anyone who does not have a shaykh, his shaykh will 
 devil'"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 3"
-category: [sufism, binbaz, audios, rifaiyyah, shadhiliyyah, naqshabandiyyah, khalwatiyah, qadiriyyah]
+category: [sufism]
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_715/nour_71510.mp3
 link: https://cutt.ly/KdDevcg
 hijri: Dhul-Hijjah 16, 1441 AH
-date: 2020/08/6
-shaykhs: Shaykh Abdul-Aziz ibn Baz
+lang: en
+note: false
+excerpt: "The only path that must be adopted is that of the Prophet (peace be upon him). It is the way of Ahl-us-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream). It is the way of the Sahabah (Companions of the Prophet)"
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question:
