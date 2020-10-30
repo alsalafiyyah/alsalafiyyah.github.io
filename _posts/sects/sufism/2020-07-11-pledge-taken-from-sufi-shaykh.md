@@ -2,16 +2,28 @@
 layout: post
 title: "The pledge taken from a Sufi Shaykh"
 publisher: "alsalafiyyah@icloud.com"
-category: sufism
+category: [sufism]
 source: "Fatwas of the Permanent Committee of KSA no.16098-2"
 hijri: Dhul-Qa'dah 20, 1441 AH
-shaykhs: 
- - Shaykh Abdul-Aziz bin Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdul-Aziz Aal ash-Shaykh
- - Shaykh Salih Fawzan
- - Shaykh Abdullah bin Ghudayyan
- - Shaykh Bakr abu Zayd
+lang: en
+note: true
+excerpt: "It is not permissible to make a pledge of allegiance to anyone except to a Muslim ruler. It is not permissible to make it to the shaykh of a Sufi order or any other person, for this has not been authentically reported from the Prophet (peace be upon him)."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+      url: /biography/abdulaziz/
+    - name: Shaykh Salih Fawzan
+      url: /biography/fawzan/
+    - name: Shaykh Bakr Abu Zayd
+      url: /biography/bakr/
 ---
 
 Question: 
@@ -21,6 +33,3 @@ What is the ruling of Islam on the pledge that we make to the shaykh of a Tariqa
 Answer: 
 
 It is not permissible to make a pledge of allegiance to anyone except to a Muslim ruler. It is not permissible to make it to the shaykh of a Sufi order or any other person, for this has not been authentically reported from the Prophet (peace be upon him). Every Muslim should worship Allah according to the way He prescribed without committing oneself to a certain person, for this is the attitude of the Christians toward their priests and bishops, a thing that does not exist in Islam.
-
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions. 
-
