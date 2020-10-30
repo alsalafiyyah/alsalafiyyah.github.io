@@ -1,10 +1,9 @@
 ---
-layout: post
+layout: page
 title: "The dome on the grave of the Prophet is no pretext"
 publisher: "alsalafiyyah@icloud.com"
 hijri: Dhul-Hijjah 24, 1441 AH
-date: 2020/08/14
-category: [wahhabism, audios]
+note: false
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_864/nour_86402.mp3
 lang: en
 excerpt: "They say that Muhammad Ibn Abdul-Wahhab removed all the domes, with the exception of that dome; namely, the dome of the Prophet (peace be upon him)."
