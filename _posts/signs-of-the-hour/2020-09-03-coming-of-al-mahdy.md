@@ -5,12 +5,21 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 2844"
 category: [doomsday]
 hijri: Muharram 15, 1442 AH
-date: 2020-09-03
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+lang: en
+note: true
+excerpt: "There are many Hadiths that indicate the emergence of Al-Mahdy. They were reported in many chains of transmission. A group of scholars said that these Hadiths are morally Mutawatir (a Hadith reported by a significant number of narrators throughout the chain of narration."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Abdullah ibn Qa'ud
+      url: /biography/qaud/
 ---
 
 Question: 
@@ -24,8 +33,6 @@ There are many Hadiths that indicate the emergence of Al-Mahdy. They were report
 The most important of which is: "**He will spread justice on earth after it was full of injustice and oppression.**" [^1]
 
 No one is permitted to assert that so-and-so is Al-Mahdy until other required signs that were pointed out by the Prophet (peace be upon him) in sound Hadiths become well-known. The most important of these signs is that: "**He will spread justice on earth...**" [^2]
-
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions. 
 
 ---
 
