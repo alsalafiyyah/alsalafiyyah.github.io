@@ -6,6 +6,7 @@ hijri: Muharram 22, 1442 AH
 category: [asharis]
 source: Majmu' Fatawa of Ibn Baz vol 28
 lang: en
+note: false
 excerpt: "Do the Al-Asha'irah (Asha'rites/Ash'aris) belong to Ahl Al-Sunnah wal-Jama'ah or not?"
 muftis:
   shaykh: 
