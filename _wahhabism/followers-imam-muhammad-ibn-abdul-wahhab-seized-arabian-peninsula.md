@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: page
 title: "Is it true that the followers of Imam Shaykh Muhammad ibn Abdul-Wahhab seized the Arabian Peninsula and reached Madinah"
 publisher: "alsalafiyyah@icloud.com"
 hijri: Dhul-Hijjah 19, 1441 AH
-date: 2020/08/10
-category: [wahhabism]
 lang: en
 locale: en
 note: false
