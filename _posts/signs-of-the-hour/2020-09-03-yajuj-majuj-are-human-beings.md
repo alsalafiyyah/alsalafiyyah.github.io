@@ -5,11 +5,18 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 6951-2"
 category: [doomsday]
 hijri: Muharram 15, 1442 AH
-date: 2020-09-03
-shaykhs: 
- - Shaykh Abdul-Aziz Ibn Baz
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+lang: en
+note: true
+excerpt: "They are human beings from the children of Adam, the father of mankind (peace be upon him). They are living on this earth in the Furthest East."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Abdullah ibn Qa'ud
+      url: /biography/qaud/
 ---
 
 Question: 
@@ -22,9 +29,7 @@ They are human beings from the children of Adam, the father of mankind (peace be
 
 Dhul-Qarnayn and those who passed by them from the east or the west are all human beings. For more information, you can read the story of Dhul-Qarnayn in Surah al-Kahf and its interpretation in Tafsir Al-Tabari, Ibn Kathir, Al-Baghawi, and other reliable books of exegesis in order to understand the story and to find a detailed answer for your question.
 
-It was authentically narrated that the Prophet (peace be upon him) said: "Allah will say (on the Day of Resurrection): 'O Adam.' Adam will reply: 'Labbaik wa Sa`daik', and all the good is in Your Hand.' Allah will say: 'Bring out the people of the fire.' Adam will say: 'O Allah! How many are the people of the Fire?' Allah will reply: 'From every one thousand, take out nine-hundred-and ninety-nine.' At that time children will become hairy headed, every pregnant female will have a miscarriage, and one will see mankind as drunken, yet they will not be drunken, but dreadful will be the Wrath of Allah. The companions of the Prophet (peace be upon him) asked: 'O Allah's Messenger! Who is that (excepted) one?' He said: 'Rejoice with glad tidings; one person will be from you and one-thousand will be from Gog and Magog ...'" [^1] This Hadith was reported by Al-Bukhari and Muslim. 
-
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions. 
+It was authentically narrated that the Prophet (peace be upon him) said: "Allah will say (on the Day of Resurrection): 'O Adam.' Adam will reply: 'Labbaik wa Sa'daik', and all the good is in Your Hand.' Allah will say: 'Bring out the people of the fire.' Adam will say: 'O Allah! How many are the people of the Fire?' Allah will reply: 'From every one thousand, take out nine-hundred-and ninety-nine.' At that time children will become hairy headed, every pregnant female will have a miscarriage, and one will see mankind as drunken, yet they will not be drunken, but dreadful will be the Wrath of Allah. The companions of the Prophet (peace be upon him) asked: 'O Allah's Messenger! Who is that (excepted) one?' He said: 'Rejoice with glad tidings; one person will be from you and one-thousand will be from Gog and Magog ...'" [^1] This Hadith was reported by Al-Bukhari and Muslim. 
 
 ---
 
