@@ -1,13 +1,11 @@
 ---
-layout: post
+layout: page
 title: "A brief of the Salafi Da'wah and the life of Shaykh Muhammad bin Abdul Wahhab"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb tape vol 3"
-category: [salafism, wahhabism, audios]
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_709/nour_70901.mp3
-link: shorturl.at/giQT2
 hijri: Dhul-Hijjah 16, 1441 AH
-date: 2020/08/6
+note: false
 lang: en
 excerpt: "I would like to have an idea about the Da'wah (calling to Islam) Salafiyyah (i.e. based on the approach of the Salaf or the righteous predecessors) and Shaykh-ul-Islam Muhammad ibn Abdul-Wahhab?"
 muftis:
