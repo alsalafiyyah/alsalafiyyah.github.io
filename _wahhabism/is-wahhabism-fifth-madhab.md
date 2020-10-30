@@ -3,7 +3,6 @@ layout: page
 title: "Is Wahhabism a fifth Madhab?"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa Shaykh Ibn Baz 1/374"
-category: [wahhabism]
 hijri: Dhul-Qa'dah 27, 1441 AH
 lang: en
 excerpt: "What is Wahhabism? is it a fifth Madhab (School of Jurisprudence) or follows one of the four Madhabs?"
