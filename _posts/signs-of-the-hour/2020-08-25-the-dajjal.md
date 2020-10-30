@@ -6,7 +6,7 @@ source: "Fatawa Al-Shaykh Ibn Baz p.9/262"
 hijri: Muharram 6, 1442 AH
 lang: en
 note: false
-category: ["dajjal", doomsday]
+category: [doomsday]
 excerpt: "Al-Dajjal claims and makes things through which he confuses people. He is called Al-Dajjal due to his telling many lies and the extraordinary things he does, such as ordering the heaven to rain and the earth to grow plants and his killing of some people who will be brought to life again."
 muftis:
   shaykh: 
