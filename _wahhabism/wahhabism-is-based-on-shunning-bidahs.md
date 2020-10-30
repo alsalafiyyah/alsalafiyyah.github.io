@@ -5,6 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Muqolat of Ibn Baz"
 hijri: Dhul-Hijjah 18, 1441 AH
 lang: en
+note: false
 excerpt: "Wahhabism is based on fulfilling the testimony that Muhammad is the Messenger of Allah and shunning Bid’ahs and superstitions as well as anything that contradicts the legislation brought by the Messenger of Allah, Muhammad (peace be upon him)."
 muftis:
   shaykh: 
@@ -18,4 +19,4 @@ Moreover, he (may Allah be merciful to him) produced useful reports, unique rese
 
 The government of Saudi Arabia is persistent against Bid’ahs, superstitions, and extremism in religion, which the Messenger (peace be upon him) prohibited. It is noted that Muslim scholars and Muslims in Saudi Arabia as well as their rulers have a great deal of respect for every Muslim and feel all kinds of loyalty, love and appreciation towards them regardless of their nationality. They only deny what the followers of deviated beliefs do including Bid’ahs and superstitions and innovated celebrations. They deny the initiation of such festivals and celebrating them, since Allah (Exalted be He) and His Messenger (peace be upon him) did not allow them and prohibited such celebrations. This is because they are newly-introduced matters in religion. Every newly-introduced matter is a Bid’ah, and every Bid’ah is departure from the right path.
 
-Muslims are commanded not to follow them and are prohibited to innovate, because of the perfection of the religion of Islam and because of the sufficient laws that Allah (Exalted be He) and His Messenger (peace be upon him) have ordained and was accepted with willingness and submission by Ahl-ul-Sunnah wal-Jama’ah, who are the Sahabah, the Tabi`un, and their followers in piety and righteousness.
+Muslims are commanded not to follow them and are prohibited to innovate, because of the perfection of the religion of Islam and because of the sufficient laws that Allah (Exalted be He) and His Messenger (peace be upon him) have ordained and was accepted with willingness and submission by Ahl-ul-Sunnah wal-Jama’ah, who are the Sahabah, the Tabi'un, and their followers in piety and righteousness.
