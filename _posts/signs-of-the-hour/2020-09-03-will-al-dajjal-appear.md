@@ -7,7 +7,7 @@ category: [doomsday]
 hijri: Muharram 15, 1442 AH
 lang: en
 note: true
-excerpt: "Imam Al-Bukhari (may Allah be merciful to him) has a chapter in his Sahih Book of Hadith dedicated to "References to Al-Masih-ul-Dajjal" that includes ten Hadiths about him."
+excerpt: "Imam Al-Bukhari (may Allah be merciful to him) has a chapter in his Sahih Book of Hadith dedicated to References to Al-Masih-ul-Dajjal that includes ten Hadiths about him."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz
