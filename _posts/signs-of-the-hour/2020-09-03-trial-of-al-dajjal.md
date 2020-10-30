@@ -5,12 +5,21 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 1758"
 category: [doomsday]
 hijri: Muharram 15, 1442 AH
-date: 2020-09-03
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+lang: en
+note: true
+excerpt: "It is authentically reported from the Prophet (peace be upon him) that Al-Masih Al-Dajjal will appear at the end of time and will command the sky to rain, so it will, and command the earth to bring forth vegetation, so it will."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Abdullah ibn Qa'ud
+      url: /biography/qaud/
 ---
 
 Question: 
@@ -23,7 +32,7 @@ It is authentically reported from the Prophet (peace be upon him) that Al-Masih 
 
 The first of which is that he is one-eyed (blind in his right eye) and Allah (Exalted be He) is not one-eyed. The second is that the word Kafir (disbeliever) is written between his eyes, and this word will be read by every literate and illiterate believer. The third is that he will be seen in the worldly life, while Allah (Exalted be He) will only be seen in the Hereafter.
 
-This is denoted in the Hadith narrated on the authority of Al-Nawwas ibn Sam`an (may Allah be pleased with him) in Sahih Muslim in the Chapter on Mentioning the Afflictions of Al-Dajjal regarding the saying of the Prophet (peace be upon him): "**He will come to some people and call them, and they will believe in him and respond to him. Then he will command the sky to rain, and the earth to bring forth vegetation.**" [^1]
+This is denoted in the Hadith narrated on the authority of Al-Nawwas ibn Sam'an (may Allah be pleased with him) in Sahih Muslim in the Chapter on Mentioning the Afflictions of Al-Dajjal regarding the saying of the Prophet (peace be upon him): "**He will come to some people and call them, and they will believe in him and respond to him. Then he will command the sky to rain, and the earth to bring forth vegetation.**" [^1]
 
 The Prophet (peace be upon him) also said: "**Then he will call a man brimming with youth, and will strike him with a sword and cut him in two pieces, then (he will move the pieces apart from one another) the distance between an archer and his target. Then he will call him, and he (the man) will come forward smiling, his face beaming with joy.**" [^2]
 
@@ -38,8 +47,6 @@ Also, Muhammad ibn Mahran Al-Razy told me by the same sanad (chain of narrators)
 In the Hadith also: "**He will call a man who is brimming with youth, and will strike him with a sword and cut him in two, then (he will put the pieces apart from one another) the distance of an archer from his target. Then he will call him, and the young man will come forward smiling, with his face beaming with joy.**"...etc. [^6]
 
 In another narration by Muslim on the authority of Abu Sa'id Al-Khudry reads: "**A person being the best of men or the best amongst men, will go out to him (Al-Dajjal) and say, "I bear witness that you are the Dajjal (the Antichrist) of whom the Messenger of Allah (peace be upon him) told us." Al-Dajjal will say, "What do you think if I kill the man then bring him back to life, will you have any doubts (in me)? They will say, "No." So, he will kill him then bring him back to life. The man (the believer) will thereafter say, "By Allah, I have never been more clear-sighted than I am now. Al-Dajjal will then want to kill him (again) but he will not be permitted to do so.**" [^7] Kitab Al-Fitan (Book of Trials), Al-Masih-ul-Dajjal (the Antichrist) Chapter, Part 18
-
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions. 
 
 ---
 
