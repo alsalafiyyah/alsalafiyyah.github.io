@@ -1,13 +1,11 @@
 ---
-layout: post
+layout: page
 title: "Clarifying the Da'wah of the Imam Muhammad ibn Abdul-Wahhab"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 3, tape no. 267, question 3"
-category: [wahhabism, audios]
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_828/nour_82803.mp3
-link: shorturl.at/euCDX
 hijri: Dhul-Hijjah 16, 1441 AH
-date: 2020/08/6
+note: false
 lang: en
 excerpt: "Was the Da'wah (calling people to Islam) of Shaykh Muhammad ibn Abdul-Wahhab a specific doctrine?"
 muftis:
