@@ -2,7 +2,7 @@
 layout: post
 title: "Sufi orders, litanies, and Adhkar"
 publisher: "alsalafiyyah@icloud.com"
-category: sufism
+category: [sufism]
 source: "Fatwas of the Permanent Committee of KSA no. 7140"
 hijri: Dhul-Qa'dah 12, 1441 AH
 lang: en
