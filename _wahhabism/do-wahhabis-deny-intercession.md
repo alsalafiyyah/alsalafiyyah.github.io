@@ -4,8 +4,7 @@ title: "Do Wahhabis deny Shafa’ah (intercession)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 9420-2"
 hijri: Dhul-Hijjah 19, 1441 AH
-date: 2020/08/10 
-category: [wahhabism]
+note: false
 lang: en
 excerpt: "Do Wahhabis deny Shafa’ah (intercession) by the Messenger of Allah (peace be upon him)?"
 muftis:
