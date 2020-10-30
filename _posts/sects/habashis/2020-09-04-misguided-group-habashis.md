@@ -3,14 +3,23 @@ layout: post
 title: "Jama'at-ul-Ahbash (the Habashis)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 19606"
-category: [habashis, refutals]
+category: [habashis]
 hijri: Muharram 16, 1442 AH
-date: 2020-09-04
-shaykhs: 
- - Shaykh Abdul-Aziz Ibn Baz
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Salih Fawzan
- - Shaykh Bakr Abu Zayd
+lang: en
+note: true
+excerpt: "Jama'at-ul-Ahbash (the Habashis) is a misguided group which is against Ahl-ul-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream). They must return to the truth which was followed by the Sahabah and Tabi'un in all aspects of religion; actions and belief. This is better and more lasting for them."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+      url: /biography/abdulaziz/
+  members: 
+    - name: Shaykh Salih Fawzan
+      url: /biography/fawzan/
+    - name: Shaykh Bakr Abu Zayd
+      url: /biography/bakr/
 ---
 
 Praise be to Allah Alone. Peace and blessings be upon the last Prophet, his family, and Companions. 
@@ -23,11 +32,11 @@ Having reviewed these materials, the Committee explains the following for Muslim
 
 The Hadith also has different wordings. The Prophet (peace be upon him) said: "**I advise you to fear Allah, to listen and obey, even if a slave is appointed as your leader. Whoever among you lives after me (i.e. my death), will see differences arise. I urge you to adhere to my Sunnah and the practices of the Rightly-Guided Caliphs; clench your teeth on it (hold fast to it). Beware of newly invented things, for every Bid'ah (innovation) is an error.**” (Narrated by Ahmad, Abu Dawud, and Al-Tirmidhi who said, it is a good and authentic Hadith). [^2]
 
-One of the most important characteristics by which those first generations were distinguished and by which they achieved a higher level of righteousness than other people, was the fact that they referred all their affairs to the Qur’an and the Sunnah. They gave precedence to the Qur’an and the Sunnah over all views, regardless of who supported them. They understood the texts of the noble Revelation (the Qur’an and the Sunnah) in accordance with the principles of Shari'ah and Arabic language. The Shari'ah was completely adopted in both general and specific issues. The ambiguous texts were explained by decisive texts. Hence, they upheld the Shari`ah, adhered to it, and held fast to it. They did not add anything to it or take anything away from it. How could they add or omit anything from the religion when they were adhering to divine texts which are free of mistakes and errors? 
+One of the most important characteristics by which those first generations were distinguished and by which they achieved a higher level of righteousness than other people, was the fact that they referred all their affairs to the Qur’an and the Sunnah. They gave precedence to the Qur’an and the Sunnah over all views, regardless of who supported them. They understood the texts of the noble Revelation (the Qur’an and the Sunnah) in accordance with the principles of Shari'ah and Arabic language. The Shari'ah was completely adopted in both general and specific issues. The ambiguous texts were explained by decisive texts. Hence, they upheld the Shari'ah, adhered to it, and held fast to it. They did not add anything to it or take anything away from it. How could they add or omit anything from the religion when they were adhering to divine texts which are free of mistakes and errors? 
 
 **Second**, these generations were succeeded by others and Bid'ah (religious innovations) and invented matters emerged among them. Some of them held their own opinions. Those people forsook the divine texts and deliberately misinterpreted and distorted them to suit people’s desires and ideas. Thus, they disobeyed the Messenger, and followed other than the way of the believers. Allah (Exalted be He) says: "**And whoever contradicts and opposes the Messenger (Muhammad صلى الله عليه وسلم) after the right path has been shown clearly to him, and follows other than the believers’ way, We shall keep him in the path he has chosen, and burn him in Hell - what an evil destination!**" [al-Nisa: 115]
 
-It is a part of the favor of Allah (Exalted be He) towards this nation that He chooses scholars throughout time to refute every Bid`ah which distorts Islam, contaminates its purity, and competes with or tries to destroy the Sunnah. This is the fulfillment of Allah's Promise to protect His religion, as He says: "**Verily, We, it is We Who have sent down the Dhikr (i.e. the Qur’ân) and surely, We will guard it (from corruption).**" [al-Hijr: 9]
+It is a part of the favor of Allah (Exalted be He) towards this nation that He chooses scholars throughout time to refute every Bid'ah which distorts Islam, contaminates its purity, and competes with or tries to destroy the Sunnah. This is the fulfillment of Allah's Promise to protect His religion, as He says: "**Verily, We, it is We Who have sent down the Dhikr (i.e. the Qur’ân) and surely, We will guard it (from corruption).**" [al-Hijr: 9]
 
 Moreover, according to the Hadith which was authentically reported in Sahih, Sunan and Masanid (Compilations of Hadith) and others, the Prophet (peace be upon him) said: "**A group of people from my Ummah will continue to obey Allah's Command, and those who desert or oppose them shall not be able to do them any harm and they will be prevailing over the people.**" [^3] The Hadith has another wordings. 
 
