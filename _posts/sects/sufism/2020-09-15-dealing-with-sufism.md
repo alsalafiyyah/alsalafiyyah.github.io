@@ -4,9 +4,10 @@ publisher: alsalafiyyah@icloud.com
 title: "Dealing with Sufi shaykhs and their followers"
 hijri: Muharram 27, 1442 AH
 lang: en
+note: true
 source: Fatawa Al-Lajnah Al-Da'imah no. 16696-2
 excerpt: "What do you advise us concerning dealing with Sufi shaykhs and their followers?"
-category: [dawah, sufism, salafism]
+category: [dawah, sufism]
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz
