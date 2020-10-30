@@ -5,12 +5,21 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 8097-9"
 category: [doomsday]
 hijri: Muharram 15, 1442 AH
-date: 2020-09-03
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+lang: en
+note: true
+excerpt: "Al-Masih-ul-Dajjal will appear to those living only. Dead people will not be resurrected except on the Day of Judgment."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Abdullah ibn Qa'ud
+      url: /biography/qaud/
 ---
 
 Question: 
@@ -20,6 +29,3 @@ Will Al-Masih-ul-Dajjal (the Antichrist) be sent to everyone, alive or dead, or 
 Answer:
 
 Al-Masih-ul-Dajjal will appear to those living only. Dead people will not be resurrected except on the Day of Judgment. Allah (Exalted be He) says: "**After that, surely, you will die. Then (again), surely, you will be resurrected on the Day of Resurrection.**" [al-Mu'minun: 15-16]
-
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions. 
-
