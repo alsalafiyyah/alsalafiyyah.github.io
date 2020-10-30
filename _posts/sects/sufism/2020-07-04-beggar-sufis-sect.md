@@ -5,11 +5,14 @@ publisher: "alsalafiyyah@icloud.com"
 category: sufism
 source: "Majmu' Fatawa wa Maqalat 3/447"
 hijri: Dhul-Qa'dah 13, 1441 AH
-date: 2020-07-04
-shaykhs: Shaykh Ibn Baz
+lang: en
+note: false
+excerpt: "Such people should not be given money or helped by any means, as this is considered encouraging them to continue this abominable act. If they beat themselves, you will not be accountable for that; rather, they will be."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
-
-These questions are selected from Nur 'Ala Al-Darb program broadcast from Saudi radios:
 
 Question: 
 
@@ -17,8 +20,7 @@ An inquirer from Syria says: We have some people who claim that they are the chi
 
 Answer: 
 
-These people belong to the sect of Sufis who manipulate people claiming that they are the children of so-and-so, and being so they deserve people's help. Yet, they should be prevented from this practice, and even punished by officials in order to protect people from their deception and begging in such a contemptuous way.
-Such people should not be given money or helped by any means, as this is considered encouraging them to continue this abominable act. If they beat themselves, you will not be accountable for that; rather, they will be. 
+These people belong to the sect of Sufis who manipulate people claiming that they are the children of so-and-so, and being so they deserve people's help. Yet, they should be prevented from this practice, and even punished by officials in order to protect people from their deception and begging in such a contemptuous way. Such people should not be given money or helped by any means, as this is considered encouraging them to continue this abominable act. If they beat themselves, you will not be accountable for that; rather, they will be. 
 
 They should be advised that what they are doing is Munkar (that which is unacceptable or disapproved of by Islamic law and Muslims of sound intellect) by which they are unlawfully confusing and deceiving people to help them. Actually, they are being tempted by Satan to commit such delusions known as Taqmire (a kind of Sihr [sorcery]), as they delude people to believe that they really beat themselves with these iron bars, but they do not; otherwise, they would cause themselves severe pain.
 
