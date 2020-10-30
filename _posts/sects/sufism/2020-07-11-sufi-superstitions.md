@@ -2,15 +2,26 @@
 layout: post
 title: "Sufi superstitions"
 publisher: "alsalafiyyah@icloud.com"
-category: sufism
+category: [sufism]
 source: "Fatwas of the Permanent Committee of KSA, question 1"
 hijri: Dhul-Qa'dah 20, 1441 AH
-shaykhs: 
- - Shaykh Ibn Baz
- - Shaykh Abdul-Aziz Aal Al-Shaykh
- - Shaykh Salih Fawzan
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Bakr abu Zayd
+lang: en
+note: true
+excerpt: "What is mentioned in the question is a false and superstitious talk and it is not permissible to believe it; because this is a means leading to Shirk (associating others with Allah in His Divinity or worship)."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+      url: /biography/abdulaziz/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Salih Fawzan
+      url: /biography/fawzan/
+    - name: Shaykh Bakr Abu Zayd
+      url: /biography/bakr/
 ---
 
 Question: 
@@ -20,5 +31,3 @@ The mentioned Imam says that one day Safi Al-Din ibn Ahmad passed along a road i
 Answer: 
 
 What is mentioned in the question is a false and superstitious talk and it is not permissible to believe it; because this is a means leading to Shirk (associating others with Allah in His Divinity or worship). 
-
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions. 
