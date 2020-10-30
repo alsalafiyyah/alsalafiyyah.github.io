@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: page
 title: "Refuting the claims against Shaykh Muhammad ibn Abdul-Wahhab and his Da'wah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa al-Shaykh ibn Baz 9/234"
-category: [wahhabism, refutals]
 date: 2020-07-17
 hijri: Dhul-Qa'dah 26, 1441 AH
 lang: en
@@ -16,7 +15,7 @@ muftis:
 
 Question: 
 
-What is the ruling on someone who attacks and slanders [Imam Muhammad Ibn 'Abdul-Wahhab (may Allah be merciful to him)](/wahhabism/) and his Call, calling him a Mubtadi' (one who introduces innovations in religion) and an innovator of a fifth Madhab (School of Jurisprudence) and calling his followers Wahhabis? There are many false accusations made against the Imam.
+What is the ruling on someone who attacks and slanders [Imam Muhammad Ibn 'Abdul-Wahhab (may Allah be merciful to him)](/wahhabism/) and his Da'wah, calling him a Mubtadi' (one who introduces innovations in religion) and an innovator of a fifth Madhab (School of Jurisprudence) and calling his followers Wahhabis? There are many false accusations made against the Imam.
 
 Answer: 
 
