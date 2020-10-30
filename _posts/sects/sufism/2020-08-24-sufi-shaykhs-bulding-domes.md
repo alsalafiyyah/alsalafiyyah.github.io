@@ -1,12 +1,16 @@
-﻿---
+---
 layout: post
 title: "Some Sufi shaykhs pay a great deal of attention to making domes on graves and people believe in its usefulness and blessings"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 5"
 hijri: Muharram 5, 1442 AH
 date: 2020/08/24
-category: ["sufism", funerals, awliya]
-shaykhs: Shaykh Ibn Baz
+category: ["sufism", funerals]
+excerpt: "Sitting on graves is not permissible as it is desecration of the graves. Therefore, it is not permissible to urinate or defecate on them or to do any act that is considered desecration of graves."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question: 
@@ -17,7 +21,7 @@ Answer:
 
 The advice to Sufi and other scholars is to hold on to what is stated in Allah's Book (the Qur'an) and the Sunnah of His Messenger (peace be upon him) and to teach this to people. Moreover, I exhort them not to follow their antecedents in anything that opposes the Qur'an and the Sunnah. Religion is not to be acquired through imitation of shaykhs or others; it is to be taken from the Book of Allah, the Sunnah of His Messenger, Muhammad (peace be upon him), what was unanimously agreed upon by scholars and what was related about Sahabah (Companions of the Prophet, may Allah be pleased with them). This is how the knowledge of Religion is acquired, not through imitation of individuals, Sufi shaykhs or others. The authentic Sunnah of Allah's Messenger (peace be upon him) illustrates that it is not permissible to build Masjids, domes or anything else over graves for this is prohibited according to the sayings of the Messenger (peace be upon him). 
 
-Among these sayings is that which is related in the Two Sahih (authentic) Books of Hadith (i.e. Al-Bukhari and Muslim) on the authority of `Aishah (may Allah be pleased with her). She said that Allah's Messenger (peace be upon him) said: "**Allah cursed the Jews and the Christians; they used the graves of their prophets as places of worship.**" She said: "(He said so) warning against what they did." [^1]
+Among these sayings is that which is related in the Two Sahih (authentic) Books of Hadith (i.e. Al-Bukhari and Muslim) on the authority of 'Aishah (may Allah be pleased with her). She said that Allah's Messenger (peace be upon him) said: "**Allah cursed the Jews and the Christians; they used the graves of their prophets as places of worship.**" She said: "(He said so) warning against what they did." [^1]
 
 Moreover, it is also related in the Two Sahih Books of Hadith on the authority of Um Salamah and Um Habibah (may Allah be pleased with them both): "**They told the Prophet about a church they saw in Abyssinia (Ethiopia) and the pictures hung in it. The Prophet (peace be upon him) said, "When a righteous man died amongst those people, they would build a place of worship over his grave, and then they put those pictures in it. Indeed, they are the worst creatures in the Sight of Allah.**" [^2]
 
@@ -35,11 +39,11 @@ This Hadith shows the merit of Al-Siddiq Abu Bakr (may Allah be pleased with him
 
 The Prophet (peace be upon him) warned against building over graves in these three ways and therefore his Ummah (nation) should observe his warning and keep away from things for which he condemned those before them, such as the Jews and the Christians and those who followed them regarding building places of worship or anything else over graves. The Hadiths of the Prophet (peace be upon him) have been clearly mentioned in this regard.
 
-The wisdom behind this, according to scholars, is that these are means that can lead to Major Shirk, worshiping the dead, making Du`a' to them, vowing for their sake, seeking their help and support, and offering sacrificial animals for them. This happens today in many countries, such as Sudan, Egypt, the Levant (the region covering Syria, Lebanon, Jordan, and Palestine), Iraq and other countries. In many countries, ignorant laypeople visit the graves of renowned people and ask them for help, support and relief, such as what happens beside the grave of Al-Badawy, Al-Husayn, Zaynab, and Sayyidah Nafisah. The same happens beside many graves in Sudan and other countries. 
+The wisdom behind this, according to scholars, is that these are means that can lead to Major Shirk, worshiping the dead, making Du'a' to them, vowing for their sake, seeking their help and support, and offering sacrificial animals for them. This happens today in many countries, such as Sudan, Egypt, the Levant (the region covering Syria, Lebanon, Jordan, and Palestine), Iraq and other countries. In many countries, ignorant laypeople visit the graves of renowned people and ask them for help, support and relief, such as what happens beside the grave of Al-Badawy, Al-Husayn, Zaynab, and Sayyidah Nafisah. The same happens beside many graves in Sudan and other countries. 
 
-This is even done by some ignorant pilgrims by the grave of the Prophet (peace be upon him) in Al-Madinah, the graves of the people of Al-Baqi` (the graveyard of the people of Al-Madinah, near the Prophet's Mosque) and other graves. This happens due to ignorance, and so these people need to be enlightened, and given explanations and help from scholars so they may be aware of their religion.
+This is even done by some ignorant pilgrims by the grave of the Prophet (peace be upon him) in Al-Madinah, the graves of the people of Al-Baqi' (the graveyard of the people of Al-Madinah, near the Prophet's Mosque) and other graves. This happens due to ignorance, and so these people need to be enlightened, and given explanations and help from scholars so they may be aware of their religion.
 
-All Muslim scholars, whether Sufis or others, should have Taqwa (fear/wariness of offending Allah), advise Allah's Slaves, teach them their Din, and warn them against building Masjids, domes, or anything else over graves. They should also warn them against making Du'a by means of the dead and seeking their help, as Du`a' is a form of worship that can only be made to Allah (Glorified be He), Who says: "**...so invoke not anyone along with Allâh.**" [al-Jinn: 18]
+All Muslim scholars, whether Sufis or others, should have Taqwa (fear/wariness of offending Allah), advise Allah's Slaves, teach them their Din, and warn them against building Masjids, domes, or anything else over graves. They should also warn them against making Du'a by means of the dead and seeking their help, as Du'a' is a form of worship that can only be made to Allah (Glorified be He), Who says: "**...so invoke not anyone along with Allâh.**" [al-Jinn: 18]
 
 "**And invoke not besides Allâh, any such that will neither profit you nor harm you, but if (in case) you did so, you shall certainly be one of the Zâlimûn (polytheists and wrong-doers).**" [Yunus: 106] Allah (Exalted be He) is referring to the polytheists. 
 
@@ -51,7 +55,7 @@ The Prophet (peace be upon him) said: "**When a person dies, their deeds come to
 
 So, how can people make Du'a to the dead besides Allah? And how can they make Du'a to idols, trees, stones, the moon, the sun, and stars? Du'a to or seeking the help of any of the foregoing is impermissible. The same is true regarding the occupants of the graves, even if they were prophets or righteous people. 
 
-Similarly, people should never make Du'a to angels and Jinn besides Allah (Glorified be He), Who says in (Surah Al-'Imran 3:80): "**Nor would he order you to take angels and Prophets for lords (gods). Would he order you to disbelieve after you have submitted to Allâh’s Will? (Tafsir At-Tabarî).**" [Aal Imran: 80] In this Ayah (Qur'anic verse), Allah (Exalted be He) declares that taking angels and prophets as lords, by making Du`a' to them and seeking their help, is Kufr (disbelief).
+Similarly, people should never make Du'a to angels and Jinn besides Allah (Glorified be He), Who says in (Surah Al-'Imran 3:80): "**Nor would he order you to take angels and Prophets for lords (gods). Would he order you to disbelieve after you have submitted to Allâh’s Will? (Tafsir At-Tabarî).**" [Aal Imran: 80] In this Ayah (Qur'anic verse), Allah (Exalted be He) declares that taking angels and prophets as lords, by making Dua' to them and seeking their help, is Kufr (disbelief).
 
 In a Hadith narrated by Jabir and recorded in Sahih Muslim, Jabir (may Allah be pleased with him) said: "**The Messenger of Allah (peace be upon him) forbade plastering the graves, sitting on them and building over them.**" [^7] This is because these things lead to Shirk and they are all means of glorifying and revering the occupants of the graves excessively.
 
@@ -59,13 +63,13 @@ Sitting on graves is not permissible as it is desecration of the graves. Therefo
 
 Indeed, it is the legislation of the All-Wise, All-Knowing, Who places things in their right positions. Allah (Exalted be He) says: "**Certainly your Lord is All-Wise, All-Knowing.**" [al-An'am: 83]
 
-Moreover, the Prophet (peace be upon him) said in an authentic Hadith: "**Do not sit on graves or perform Salah (Prayer) towards them.**" [^8] Our perfect Shari'ah combined forbidding people to excessively revere the dead by making Du`a' to them besides Allah (Exalted be He), seeking their help and offering Salah (prayers) while graves are in the direction of Qiblah, and making it forbidden to debase and offend the dead by sitting on their graves, walking over them, leaning on them, and throwing garbage on them. All these practices are prohibited.
+Moreover, the Prophet (peace be upon him) said in an authentic Hadith: "**Do not sit on graves or perform Salah (Prayer) towards them.**" [^8] Our perfect Shari'ah combined forbidding people to excessively revere the dead by making Du'a' to them besides Allah (Exalted be He), seeking their help and offering Salah (prayers) while graves are in the direction of Qiblah, and making it forbidden to debase and offend the dead by sitting on their graves, walking over them, leaning on them, and throwing garbage on them. All these practices are prohibited.
 
-Hence, the believer who seeks the truth knows that Shari'ah introduced moderation; not Shirk or offense and desecration. It is permissible to make Du`a' on behalf of the dead, to ask Allah (Exalted be He) to forgive them and to greet them when visiting their graves. Nevertheless, they should never be asked in Du'a instead of Allah (Exalted be He), circumambulate around them or offer Salah while they are in the direction of Qiblah. It is permissible to seek assistance from someone who is alive, for people help one another. This is so as long as it is within the limits of legal permissibility and means, such as working in fields, factories and the like for this is an allowed tangible form of co-operation in possible allowable matters. 
+Hence, the believer who seeks the truth knows that Shari'ah introduced moderation; not Shirk or offense and desecration. It is permissible to make Du'a' on behalf of the dead, to ask Allah (Exalted be He) to forgive them and to greet them when visiting their graves. Nevertheless, they should never be asked in Du'a instead of Allah (Exalted be He), circumambulate around them or offer Salah while they are in the direction of Qiblah. It is permissible to seek assistance from someone who is alive, for people help one another. This is so as long as it is within the limits of legal permissibility and means, such as working in fields, factories and the like for this is an allowed tangible form of co-operation in possible allowable matters. 
 
 On the other hand, seeking help from the dead and those who are absent using unallowable acts, is an act of Major Shirk, according to Ijma' (consensus) of scholars without any dispute concerning it between the Sahabah and those who followed them from among the people of knowledge, belief and insight.
 
-I again emphasize that building on graves and establishing Masjids or domes over them is an abominable act known to the people of knowledge, and the Islamic Shari'ah forbade them as they lead to Shirk. Muslim scholars, once again, should have Taqwa, wherever they are, and advise people and teach them the true Shari'ah of Allah, and should not be amiable with those who practice Shirk and Kufr. They should warn everyone, whether he is a ruler, poor, young or old that these things are unallowable and he should guide them to Allah's Shari'ah. It is their duty to do this everywhere and in every possible way, whether verbally, in writing, by composing a book or delivering sermons on Fridays or others, by phone, fax, or any possible means of communication that is available nowadays and can be used to convey Da`wah (calling to Islam) and guide people to Allah's Correct Path. Allah is the One Who grants success.
+I again emphasize that building on graves and establishing Masjids or domes over them is an abominable act known to the people of knowledge, and the Islamic Shari'ah forbade them as they lead to Shirk. Muslim scholars, once again, should have Taqwa, wherever they are, and advise people and teach them the true Shari'ah of Allah, and should not be amiable with those who practice Shirk and Kufr. They should warn everyone, whether he is a ruler, poor, young or old that these things are unallowable and he should guide them to Allah's Shari'ah. It is their duty to do this everywhere and in every possible way, whether verbally, in writing, by composing a book or delivering sermons on Fridays or others, by phone, fax, or any possible means of communication that is available nowadays and can be used to convey Da'wah (calling to Islam) and guide people to Allah's Correct Path. Allah is the One Who grants success.
 
 ---
 
