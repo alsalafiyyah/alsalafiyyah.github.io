@@ -6,7 +6,7 @@ hijri: Muharram 29, 1442 AH
 lang: en
 source: "One of the questions asked by Al-'Arabiyyah Magazine, dictated by His Eminence on 29/5/1417 A.H."
 excerpt: "Ibn Taymiyyah did not approve celebrating the Prophet's Mawlid, rather he condemned doing so and was of the view that doing so is a Bid'ah."
-category: [bidahs, fitnahs, mawlids]
+category: [fitnahs, mawlids]
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
@@ -40,4 +40,4 @@ The Prophet (peace be upon him) used to say during his Khutbah (sermon): "**And 
 
 [^1]: Al-Bukhari, Sahih, Book on reconciliation, no. 2697; Muslim, Sahih, Book on judicial decisions, no. 1718; Abu Dawud, Sunan, Book on Al-Sunnah, no. 4606; Ibn Majah, Sunan, Introduction, no. 14; and Ahmad, Musnad, vol. 6, p. 240.
 [^2]: Muslim, Sahih, Book on judicial decisions, no. 1718; and Ahmad ibn Hanbal, Musnad, vol. 6, p. 256.
-[^3]: Muslim, Sahih, Book on Friday, no. 867; Al-Nasa'i, Sunan, Book on the two `Eid Prayers, no. 1578; Abu Dawud, Book on tribute, spoils, and rulership, no. 2954; Ibn Majah, Sunan, Introduction, no. 45; Ahmad ibn Hanbal, Musnad, vol. 3, p. 311; and Al-Darimy, Sunan, Introduction, no. 206.
+[^3]: Muslim, Sahih, Book on Friday, no. 867; Al-Nasa'i, Sunan, Book on the two 'Eid Prayers, no. 1578; Abu Dawud, Book on tribute, spoils, and rulership, no. 2954; Ibn Majah, Sunan, Introduction, no. 45; Ahmad ibn Hanbal, Musnad, vol. 3, p. 311; and Al-Darimy, Sunan, Introduction, no. 206.
