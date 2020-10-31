@@ -7,7 +7,7 @@ category: [shiah]
 hijri: Dhul-Hijjah 7, 1441 AH
 lang: en
 note: true
-excerpt: "It was not the way of the Prophet (peace be upon him) or his the Rightly-Guided Caliphs (may Allah be pleased with them) to recite the Qur'an by the graves or celebrate the anniversaries of the dead."
+excerpt: "They are committing an act of Shirk (associating others with Allah in His Divinity or worship) and thus they are apostates. Therefore, it is unlawful to eat from the meat of the animals they sacrifice"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz
