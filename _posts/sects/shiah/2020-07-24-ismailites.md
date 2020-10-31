@@ -2,11 +2,16 @@
 layout: post
 title: "Isma'ilism sect"
 publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat 28/"
-category: [shiah, ismailites, ismailism, binbaz]
-hijri: Dhu al-Hijjah 3, 1441 AH
-date: 2020/07/24
-shaykhs: Shaykh Ibn Baz
+source: "Majmu' Fatawa wa Maqalat 28"
+category: [shiah]
+hijri: Dhul-Hijjah 3, 1441 AH
+lang: en
+note: false
+excerpt: "he Isma'ilites get their name from their acceptance of Isma'il ibn Ja'far as the divinely appointed spiritual successor (Imam) to Ja'far Al-Sadiq) that oppose our purified Shari'ah (Islamic law)."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 The Isma'ilites get their name from their acceptance of Isma'il ibn Ja'far as the divinely appointed spiritual successor (Imam) to Ja'far Al-Sadiq) that oppose our purified Shari'ah (Islamic law). It is Wajib (obligatory) on every Muslim to stick to the Religion of Allah and to worship Him Alone as the Prophet (peace be upon him) and his Sahabah (Companions) did. Every Muslim has also to keep firm on abidance by Din and calling people to it. Such a Din is the true one that was followed by the Sahabah and all those who followed them in righteousness. It is the Din that Ahl-ul-Sunnah wal-Jama'ah have been following until now. 
