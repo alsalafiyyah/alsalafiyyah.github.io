@@ -3,13 +3,21 @@ layout: post
 title: "Ruling on Imamite Shi'ah sect in Islam and its origin"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 9420-3"
-category: [shiah, shiites, rafidah]
-hijri: Dhu al-Hijjah 7, 1441 AH
-date: 2020/07/28
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
+category: [shiah]
+hijri: Dhul-Hijjah 7, 1441 AH
+lang: en
+note: true
+excerpt: "It was not the way of the Prophet (peace be upon him) or his the Rightly-Guided Caliphs (may Allah be pleased with them) to recite the Qur'an by the graves or celebrate the anniversaries of the dead."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz Ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman: 
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/ 
+  members: 
+    - name: Shaykh Abdullah Ibn Ghudayyan
+      url: /biography/ghudayyan/
 ---
 
 Question: 
@@ -19,7 +27,3 @@ Is Imamite Shi'ah an Islamic sect? Who is the founder? In fact, the Shi'ah claim
 Answer:
 
 The fundamentals and secondary elements of the Imamite Shi'ah are Bid'ahs (innovations in religion). You are advised to consult the books "Al-Khututul-'Aridah", "Al-Tuhfa Al-Ithna 'Ashariyyah Abridged" and "Minhaj-us-Sunnah" by Shaykh-ul-Islam ibn Taymiyah for an account of many of their Bid'ahs.
-
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
-
-
