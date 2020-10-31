@@ -5,7 +5,7 @@ title: "We do not declare a Muslim as a disbeliever for committing a sin unless 
 hijri: Safar 07, 1442 AH
 source: "Majmu' Fatawa Ibn Baz 28/146, question 1"
 lang: en
-category: [salafism]
+category: [takfir, khawarij, mutazilah]
 excerpt: "Ahlus-Sunnah do not consider a person who commits sins while knowing that they are Haram as a kafir but he is regarded as disobedient and of weak belief and should be submitted to Had."
 muftis:
   shaykh: 
