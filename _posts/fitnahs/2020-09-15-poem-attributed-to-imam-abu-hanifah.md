@@ -6,7 +6,7 @@ hijri: Muharram 27, 1442 AH
 lang: en
 source: Fatwas of the Permanent Committee no. 21285
 excerpt: "This poem is a lie against Imam Abu Hanifah (may Allah be merciful to him). It is, thus, not permissible to attribute it to him."
-category: [tawassul, refutals, hanafis, fitnahs]
+category: [fitnahs, tawassul]
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Aal Al-Shaykh
