@@ -3,15 +3,25 @@ layout: post
 title: "Ruling on attacking scholars"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 16873"
-category: [fitnahs, salafism]
+category: [fitnahs]
 hijri: Dhul-Hijjah 4, 1441 AH
-date: 2020/07/25
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Salih Fawzan
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Bakr Abu Zayd
+lang: en
+note: true
+excerpt: "Abusing scholars unjustly and ascribing them to innovations and Fisq (flagrant violation of Islamic law) or belittling their status and degrading their opinions are of the most grievous kinds of injustice"
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman: 
+    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+      url: /biography/abdulaziz/
+  members: 
+    - name: Shaykh Abdullah Ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Salih Fawzan
+      url: /biography/fawzan/
+    - name: Shaykh Bakr Abu Zayd
+      url: /biography/bakr/
 ---
 
 Question: 
@@ -28,13 +38,13 @@ Furthermore, it is authentically reported that the Prophet (peace be upon him) s
 
 There are more Ayahs and Hadiths that dispraise dissention and its reasons. Thus, securing the honor of Muslims is necessarily admitted religious obligation. They should not be violated or abused. It is also worse to violate the honor of Muslim scholars, who benefit Muslims with their knowledge. There are many texts of the two noble revelations pointing out to their revered status. Allah (Glorified be He) mentions them as the witnesses to His Oneness when He (Exalted be He) says: “**Allah bears witness that Lâ ilâha illa Huwa (none has the right to be worshipped but He), and the angels, and those having knowledge (also give this witness); (He always) maintains His creation in Justice. Lâ ilâha illa Huwa (none has the right to be worshipped but He), the All-Mighty, the All-Wise.**" [Aal 'Imran 3:18].
 
-Abusing scholars unjustly and ascribing them to innovations and Fisq (flagrant violation of Islamic law) or belittling their status and degrading their opinions are of the most grievous kinds of injustice; rather this might stir Fitnah and ward off Muslims from seeking to learn matters of their Din (religion) and all the goodness spread by such scholars, regardless of the great harm this will affect on the spread of the sanctified Shar'. If the trustworthiness of those who preach such beneficial knowledge is blemished, this will definitely affect the knowledge seekers and their readiness to receive such knowledge. This is similar to criticizing the Sahabah of the Messenger of Allah by some whimsical people. The Companions are the witnesses that the Prophet of this Ummah (peace and blessings of Allah be upon him) did conveyed his message and the Shari'ah of Allah. 
+Abusing scholars unjustly and ascribing them to innovations and Fisq (flagrant violation of Islamic law) or belittling their status and degrading their opinions are of the most grievous kinds of injustice; rather this might stir Fitnah and ward off Muslims from seeking to learn matters of their Din (religion) and all the goodness spread by such scholars, regardless of the great harm this will affect on the spread of the sanctified Shar'i. 
+
+If the trustworthiness of those who preach such beneficial knowledge is blemished, this will definitely affect the knowledge seekers and their readiness to receive such knowledge. This is similar to criticizing the Sahabah of the Messenger of Allah by some whimsical people. The Companions are the witnesses that the Prophet of this Ummah (peace and blessings of Allah be upon him) did conveyed his message and the Shari'ah of Allah. 
 
 If the trustworthiness of the witness is abused, the same happens to the person who is witnessed. It is obligatory upon the Muslim to adhere to the high manners of Islam and its rulings, hold the tongue from abusing knowledgeable scholars, repent to Allah (Exalted be He) and pay the due rights to their owners. However, if a scholar wrongly judges a legal matter, this should not be a pretext to underestimate his knowledge, as knowing what is right is by referring to the knowledgeable people who are known for their religion and sound creed. 
 
 The Muslim should not listen to an ignorant person who may misguide him while he is unaware.
-
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
 
 ---
 
