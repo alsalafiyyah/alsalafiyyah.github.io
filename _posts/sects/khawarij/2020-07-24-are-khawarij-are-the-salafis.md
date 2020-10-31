@@ -3,9 +3,8 @@ layout: post
 title: "The Reality on the 'Aqidah (creed) of Al-Khawarij"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 28/254"
-category: ["salafism", "khawarij"]
+category: [khawarij]
 hijri: Dhul-Hijjah 3, 1441 AH
-date: 2020/07/24
 lang: en
 excerpt: "What do you say to one who believes that the 'Aqidah (creed) of Al-Khawarij followed the 'Aqidah (creed) of Salafiyyah"
 muftis:
