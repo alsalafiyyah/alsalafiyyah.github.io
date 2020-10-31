@@ -3,7 +3,7 @@ layout: post
 title: "Ruling on buying books from Ibadiyyah sect"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Daimah of KSA no. 21394-5"
-category: [knowledge, books, ibadiyyah, khawarij]
+category: [knowledge, books, khawarij]
 hijri: Dhul-Hijjah 6, 1441 AH
 lang: en
 note: true
