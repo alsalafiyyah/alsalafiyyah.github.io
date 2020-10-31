@@ -3,14 +3,23 @@ layout: post
 title: "Ruling on marrying from those who invoke Al-Hasan, Al-Husayn and 'Aly apart from Allah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 3008-1"
-category: [shiah, shiites, rafidah]
-hijri: Dhu al-Hijjah 7, 1441 AH
-date: 2020/07/28
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+category: [shiah]
+hijri: Dhul-Hijjah 7, 1441 AH
+lang: en
+note: true
+excerpt: "It is not permissible to allow them to marry Muslim women, and it is not permissible for us to marry their women, or to eat the meat of their sacrificed animals. "
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz Ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman: 
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah Ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Abdullah Ibn Qa'ud
+      url: /biography/qaud/
 ---
 
 Question: 
@@ -21,10 +30,7 @@ Some people from our tribe have intermarried with them and mix with them in all 
 
 Answer:
 
-If the situation is as you have mentioned, and those people invoke `Aly, Al-Hasan and Al-Husayn, and the like, then they are committing major Shirk (associating others with Allah in His Divinity or worship), which takes them out of Islam. It is not permissible to allow them to marry Muslim women, and it is not permissible for us to marry their women, or to eat the meat of their sacrificed animals. 
+If the situation is as you have mentioned, and those people invoke 'Ali, Al-Hasan and Al-Husayn, and the like, then they are committing major Shirk (associating others with Allah in His Divinity or worship), which takes them out of Islam. It is not permissible to allow them to marry Muslim women, and it is not permissible for us to marry their women, or to eat the meat of their sacrificed animals. 
 
 Allah (Exalted be He) says: "And do not marry Al-Mushrikât (idolatresses, etc.) till they believe (worship Allâh Alone). And indeed a slave woman who believes is better than a (free) Mushrikah (idolatress), even though she pleases you. And give not (your daughters) in marriage to Al-Mushrikûn till they believe (in Allâh Alone) and verily, a believing slave is better than a (free) Mushrik (idolater), even though he pleases you. Those (Al-Mushrikûn) invite you to the Fire, but Allâh invites (you) to Paradise and Forgiveness by His Leave, and makes His Ayât (proofs, evidence, verses, lessons, signs, revelations, etc.) clear to mankind that they may remember." [al-Baqarah: 221]
-
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
-
 
