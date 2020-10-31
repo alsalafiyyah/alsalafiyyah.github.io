@@ -4,7 +4,8 @@ publisher: alsalafiyyah@icloud.com
 title: "Answering a question presented by a Muslim brother on some issues of Bid'ah and Shirk"
 hijri: Safar 15, 1442 AH
 lang: en
-category: [shiah, shirk, bidah, sects]
+category: [shiah]
+note: false
 source: "Majmu' Fatawa Al-Shaykh Ibn Baz 4/259"
 excerpt: "As for the claim that this sect (i.e. shi'ah/shiites) is the saved group and that they are following the truth and others are following falsehood, this is replied to by saying: whoever claims something, their claim should not be taken for granted but the necessary proof should be established first. Produce your proof if you are truthful"
 muftis:
@@ -45,7 +46,7 @@ He (Exalted be He) also says: "**O you who believe! Turn to Allâh with sincere 
 
 However, the lawful 'Aqiqah enacted by the Messenger of Allah (peace be upon him) in the authentic Sunnah refers to the slaughtered animal on the seventh day after the birth of a child. It is two sheep for a boy and one for a girl. **The Prophet (peace be upon him) offered 'Aqiqah for Al-Hasan and Al-Husayn (may Allah be pleased with both of them)**.[^5] 
 
-It is permitted to distribute the meat to kin, friends, and the poor or to cook it and invite whoever you want of relatives, neighbors, and the poor as well. This is the lawful `Aqiqah and it is a stressed Sunnah, but whoever does not offer it will not bear a sin for that.
+It is permitted to distribute the meat to kin, friends, and the poor or to cook it and invite whoever you want of relatives, neighbors, and the poor as well. This is the lawful Aqiqah and it is a stressed Sunnah, but whoever does not offer it will not bear a sin for that.
 
 > As for the questioner's saying: What should a Sunni Muslim do towards this group if he has a kinship with them; whether or not he should be kind to them, have good relationship with them although they openly declare their conviction and claim to be the saved group? 
 
@@ -53,7 +54,7 @@ The answer is:
 
 If their conviction is like what is described in the question and they agree with Ahl-ul-Sunnah on singling out Allah with worship and not associating Ahl-ul-Bayt (members of the Prophet's extended Muslim family) or others in worship with Him, it is permissible to be related by marriage to them, eat their slaughtered animals and contribute in their feasts as well as loving them as much as they have of truth and censuring them as much as they have of falsehood. They are considered Muslims who have observed acts of Bid'ah and misdeeds but such acts do not put them beyond the pale of Islam. They should be advised and directed towards the Sunnah and truth. They should be warned against Bid'ahs and sins; if they straighten up and accept advice, praise be to Allah for that but if they insist on observing the mentioned Bid'ahs, then they should be abandoned. 
 
-You should not contribute to their feasts until they repent to Allah and quit such Bid'ahs and misdeeds just as the Prophet (peace be upon him) deserted Ka`b ibn Malik Al-Ansari and his other two companions when they were absent from the battle of Tabuk without a legal excuse.
+You should not contribute to their feasts until they repent to Allah and quit such Bid'ahs and misdeeds just as the Prophet (peace be upon him) deserted Ka'b ibn Malik Al-Ansari and his other two companions when they were absent from the battle of Tabuk without a legal excuse.
 
 But if the relative sees that mingling and associating with and advising them is more useful for their religion and more entitled to their accepting the truth, there is no prohibition in drawing nearer to them, for the intention of abandoning them is to direct them to good and make them feel the sense of objection to the evil they commit so as to make them refrain from doing this. However, if desertion harms the interest, makes them persist in their stubbornness, and adherence to their false conviction besides repelling them from the people of truth, then it should be stopped as the Prophet (peace be upon him) did not desert **'Abdullah ibn Ubayy ibn Salul** the chief of hypocrites when he (peace be upon him) saw it better for the welfare of Muslims.
 
