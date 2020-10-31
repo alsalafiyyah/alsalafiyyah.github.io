@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Ruling on accusing some of the Imams of Ahl Al-Sunnah of committing Bid'ah (innovation in Islam)"
 hijri: Muharram 23, 1442 AH
-category: [fitnahs, madhabs]
+category: [fitnahs]
 source: Majmu' Fatawa of Ibn Baz vol 28
 lang: en
 excerpt: "What is the ruling on accusing a number of the Imams of Ahl Al-Sunnah of being innovators because they made errors"
