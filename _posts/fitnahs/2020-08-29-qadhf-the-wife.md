@@ -8,6 +8,7 @@ lang: en
 note: true
 category: [marriage]
 excerpt: "This word is one of the clear words of Qadhf (falsely accusing a chaste person of involvement in prohibited sexual relations). Claiming that it was said unintentionally has nothing to do with its effect."
+muftis:
   deputy_chairman:
     - name: Shaykh Abdul-Razzaq Al-Afifi
       url: /biography/afifi/
