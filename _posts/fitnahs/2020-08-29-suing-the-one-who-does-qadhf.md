@@ -4,12 +4,20 @@ title: "Suing the one who does Qadhf"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 13871"
 hijri: Muharram 10, 1442 AH
-date: 2020/08/29
-category: [qadhf, fitnahs]
-shaykhs: 
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdul-Aziz ibn Baz
+note: true
+lang: en
+category: [fitnahs]
+excerpt: "Accusing a Muslim by another Muslim brother is not permissible and it is one of the major sins which necessitate repentance and forgiveness from the insulted person. It is his right, if he does not forgive him, to demand his right by legal means."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
 ---
 
 Question: 
@@ -19,5 +27,3 @@ If a Muslim does Qadhf (falsely accusing a chaste person of involvement in prohi
 Answer:
 
 Accusing a Muslim by another Muslim brother is not permissible and it is one of the major sins which necessitate repentance and forgiveness from the insulted person. It is his right, if he does not forgive him, to demand his right by legal means.
-
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
