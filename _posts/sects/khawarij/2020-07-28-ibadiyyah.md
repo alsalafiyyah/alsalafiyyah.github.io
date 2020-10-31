@@ -3,7 +3,7 @@ layout: post
 title: "Al-Ibadiyyah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 6935-5"
-category: [khawarij, ibadiyyah]
+category: [khawarij]
 hijri: Dhul-Hijjah 7, 1441 AH
 lang: en
 note: true
@@ -24,8 +24,8 @@ muftis:
 
 Question: 
 
-Is [Al-Ibadiyyah](/sects/khawarij/) regarded as one of the deviant sects of [Al-Khawarij](/sects/khawarij/) and is it permissible to pray behind them?
+Is Al-Ibadiyyah regarded as one of the deviant sects of Al-Khawarij and is it permissible to pray behind them?
 
 Answer:
 
-[Al-Ibadiyyah](/sects/khawarij/) is one of the deviant sects because of their aggression and rebellion against 'Uthman ibn 'Affan and 'Ali (may Allah be pleased with them both), and it is not permissible to pray behind them.
+Al-Ibadiyyah is one of the deviant sects because of their aggression and rebellion against 'Uthman ibn 'Affan and 'Ali (may Allah be pleased with them both), and it is not permissible to pray behind them.
