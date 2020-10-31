@@ -4,8 +4,14 @@ title: "Disapproving evil done by relatives"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 4/226, question 6"
 hijri: Dhul-Hijjah 23, 1441 AH
-date: 2020/08/13
-shaykhs: Shaykh Ibn Baz
+lang: en
+note: true
+category: [hisbah]
+excerpt: "She should forbid the wrong gently in an amiable way using kind words. Perhaps, the wrongdoer is ignorant or savage and he may increase his evil when he is harshly forbidden."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question:
