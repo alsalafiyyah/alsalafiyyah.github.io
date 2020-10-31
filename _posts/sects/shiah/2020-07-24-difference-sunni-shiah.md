@@ -3,10 +3,15 @@ layout: post
 title: "Difference between Ahlus-Sunnah and Shi'ah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 28/261"
-category: [shiah, binbaz]
-hijri: Dhu al-Hijjah 3, 1441 AH
-date: 2020/07/24
-shaykhs: Shaykh Ibn Baz
+category: [shiah]
+hijri: Dhul-Hijjah 3, 1441 AH
+lang: en
+note: false
+excerpt: "We should differentiate between Kafirs (disbelievers), Muslims, Shiites, and other sects. Shi'ah are Mubtadi's (those who introduce innovations in religion)."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question: 
