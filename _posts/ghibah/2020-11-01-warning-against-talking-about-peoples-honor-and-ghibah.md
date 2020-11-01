@@ -28,7 +28,9 @@ Moreover, it is authentically reported that the Prophet (peace be upon him) saw 
 
 Therefore, you and other Muslims should avoid sitting with those who backbite Muslims and advise them to abandon this ill deed. 
 
-The Prophet (peace be upon him) said, "**Any of you who sees an evil action, let them change it with their hand (by taking action); if they cannot, then with their tongue (by speaking out); and if they cannot, then with their heart (by hating it and feeling that it is wrong); and that is the weakest of Iman (faith).**" [^3] If he does not comply with what you recommended him to do, then do not sit with him, for this is among the acts of resisting evil. 
+The Prophet (peace be upon him) said, "**Any of you who sees an evil action, let them change it with their hand (by taking action); if they cannot, then with their tongue (by speaking out); and if they cannot, then with their heart (by hating it and feeling that it is wrong); and that is the weakest of Iman (faith).**" [^3] 
+
+If he does not comply with what you recommended him to do, then do not sit with him, for this is among the acts of resisting evil. 
 
 ---
 
