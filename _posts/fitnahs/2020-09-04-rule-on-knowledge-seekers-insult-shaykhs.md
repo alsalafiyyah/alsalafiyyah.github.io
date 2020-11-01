@@ -7,6 +7,7 @@ category: [fitnahs, ghibah]
 hijri: Muharram 16, 1442 AH
 lang: en
 note: false
+text: https://telegra.ph/001-11-01
 excerpt: "May Allah grant us and them guidance! It is obligatory upon the scholars to beware of Ghibah (backbiting) and Namimah (tale-bearing) and respect Muslims. Ghibah and Namimah are among the worst traits. A Muslim should beware of them."
 muftis:
   shaykh: 
