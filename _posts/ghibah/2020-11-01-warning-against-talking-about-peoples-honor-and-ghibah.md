@@ -32,6 +32,6 @@ The Prophet (peace be upon him) said, "**Any of you who sees an evil action, let
 
 ---
 
-[^1] Narrated by Muslim, Book on righteousness, upholding ties of kinship, and good manners, no. 4690.
-[^2] Narrated by Abu Dawud, Book on manners, no. 4235; and Ahmad, Rest of the section on the Hadiths narrated by the Companions who narrated a large number of Hadiths, no. 13861.
-[^3] Narrated by Muslim, Book on faith, no. 70, and the wording is his; and Ahmad, Rest of the section on the Hadiths narrated by the Companions who narrated a large number of Hadiths, no. 11034.
+[^1]: Narrated by Muslim, Book on righteousness, upholding ties of kinship, and good manners, no. 4690.
+[^2]: Narrated by Abu Dawud, Book on manners, no. 4235; and Ahmad, Rest of the section on the Hadiths narrated by the Companions who narrated a large number of Hadiths, no. 13861.
+[^3]: Narrated by Muslim, Book on faith, no. 70, and the wording is his; and Ahmad, Rest of the section on the Hadiths narrated by the Companions who narrated a large number of Hadiths, no. 11034.
