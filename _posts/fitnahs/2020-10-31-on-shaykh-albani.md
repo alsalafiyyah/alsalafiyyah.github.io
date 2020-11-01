@@ -2,7 +2,7 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Regarding Shaykh Al-Albani"
+title: "On Shaykh Al-Albani"
 hijri: "Rabi' Al-Awwal 14, 1442 AH"
 source: "Fatawa Al-Shaykh Ibn Baz vol. 25"
 lang: en
