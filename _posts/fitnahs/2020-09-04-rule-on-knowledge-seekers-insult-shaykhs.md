@@ -3,7 +3,7 @@ layout: post
 title: "Ruling on knowledge seekers insult the Scholars"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat by Shaykh Ibn Baz p.8/34, question 25"
-category: [fitnahs]
+category: [fitnahs, ghibah]
 hijri: Muharram 16, 1442 AH
 lang: en
 note: false
