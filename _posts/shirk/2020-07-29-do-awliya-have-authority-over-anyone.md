@@ -6,7 +6,7 @@ source: "Fatawa Al-Lajnah Al-Da'imah no. 3716-2"
 category: ["tawassul"]
 hijri: Dhul-Hijjah 8, 1441 AH
 note: true
-excerpt: ""
+excerpt: "Awliya’ have no authority over anyone; whatever Allah has given them is merely the ordinary means given to all other humans. They do not have supernatural powers; they cannot take non-human forms, like snakes, lions, monkeys or other animals."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz
