@@ -29,7 +29,7 @@ Besides, Allah (Glorified and Exalted be He) also says: "**And whoever invokes (
 
 There are many other Ayahs (Qur'anic verses) to the same effect. It is a fact that such doing was the essence of the Din (religion) of the early Mushriks (those who associate others with Allah in His Divinity or worship) of the Kafirs (disbelievers) of Quraysh and others. However, Allah (Exalted be He) sent all messengers (peace be upon them all) and revealed Divine Books to condemn and warn against seeking the help of others besides Allah. He (Glorified be He) says: "**And verily, We have sent among every Ummah (community, nation) a Messenger (proclaiming): “Worship Allâh (Alone), and avoid (or keep away from) Tâghût (all false deities i.e. do not worship Tâghût besides Allâh).”**" [Al-Nahl: 36]
 
-Allah (Glorified be He) also says: "**And We did not send any Messenger before you (O Muhammad صلى الله عليه وسلم) but We revealed to him (saying): Lâ ilâha illa Ana [none has the right to be worshipped but I (Allâh)], so worship Me (Alone and none else).8*" [Al-Anbiya: 25]
+Allah (Glorified be He) also says: "**And We did not send any Messenger before you (O Muhammad صلى الله عليه وسلم) but We revealed to him (saying): Lâ ilâha illa Ana [none has the right to be worshipped but I (Allâh)], so worship Me (Alone and none else).**" [Al-Anbiya: 25]
 
 Allah (Glorified and Exalted be He) also says: "**(This is) a Book, the Verses whereof are perfected (in every sphere of knowledge), and then explained in detail from One (Allâh), Who is All-Wise, Well-Acquainted (with all things). (Saying) worship none but Allâh. Verily, I (Muhammad صلى الله عليه و سلم) am unto you from Him a warner and a bringer of glad tidings.**" [Hud: 1-2]
 
