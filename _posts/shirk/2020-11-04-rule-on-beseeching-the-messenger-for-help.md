@@ -1,10 +1,10 @@
 ---
 layout: post
-published: false
+published: true
 publisher: alsalafiyyah@icloud.com
 title: "Ruling on beseeching the Messenger for help"
-hijri: Muharram 21, 1442 AH
-source: ""
+hijri: "Rabi' Al-Awwal 18, 1442 AH"
+source: "Fatawa Al-Shaykh Ibn Baz p. 7/420"
 lang: en
 category: [shirk]
 note: false
