@@ -1,12 +1,17 @@
-﻿---
+---
 layout: post
 title: "Ruling on offering sacrifices at the shrines and supplicating to their inhabitants"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 5/324"
 hijri: Dhul-Hijjah 22, 1441 AH
-date: 2020/08/12
-category: ["bidah", awliya, shirk, tawassul]
-shaykhs: Shaykh Ibn Baz
+lang: en
+category: [tawassul]
+note: false
+excerpt: "It is well-known through the Qur’an and the Sunnah that offering sacrifices to get close to other than Allah, whether they are the Awliya’, the Jinn (creatures created from fire), idols, or others, is Shirk (associating others with Allah in His Divinity or worship) and one of the actions of Jahiliyyah (pre-Islamic time of ignorance) and the Mushriks (those who associate others with Allah in His Divinity or worship)."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question:
