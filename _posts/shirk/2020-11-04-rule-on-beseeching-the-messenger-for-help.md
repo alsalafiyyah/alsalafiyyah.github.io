@@ -17,7 +17,7 @@ muftis:
 
 Question: 
 
-What is the ruling on those who call the Prophet (peace be upon him) saying: "Help us, O Messenger of Allah" or "Help us, O Prophet"? 
+We hear the people saying: "Help us, O Messenger of Allah" or "Help us, O Prophet"? What is the ruling on this?
 
 Answer: 
 
