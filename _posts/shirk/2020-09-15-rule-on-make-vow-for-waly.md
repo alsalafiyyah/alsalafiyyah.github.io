@@ -6,10 +6,11 @@ hijri: Muharram 27, 1442 AH
 lang: en
 source: Fatwas of the Permanent Committee no. 315
 excerpt: "The guidance of the Messenger (peace be upon him) in visiting the graves is clear in Sahih Hadiths (Hadiths that have been transmitted by people known for their uprightness and exactitude; free from eccentricity and blemish)."
-category: [bidahs, prophets]
+category: [tawassul, prophets]
+note: true
 muftis:
   chairman: 
-    - name: Shaykh Abdul-Razzaq Al-Afify
+    - name: Shaykh Abdul-Razzaq Al-Afifi
       url: /biography/afifi/
   members: 
     - name: Shaykh Abdullah ibn Mani'
@@ -23,13 +24,13 @@ Question:
 
 There is a grave in our village which is said to belong to one of the righteous people. A house was built over this grave and there are two people appointed to take care of it. These people inherited this mission from their fathers. They tell people: "**This night, the dweller of this grave said so and so and asked for so and so.**" They have attracted people's hearts that live beside the grave. People believe everything that is said by these two people.
 
-Therefore, people make Tawaf (circumambulation) around the grave, sacrifice animals for its sake, etc. What is the ruling on a person who thinks that this Waliy (pious person) brings benefit or causes harm? Is it permissible to vow or sacrifice for the sake of this Waliy? What should someone do if they know that these things contradict Shari`ah (Islamic law) especially if they live with these people? 
+Therefore, people make Tawaf (circumambulation) around the grave, sacrifice animals for its sake, etc. What is the ruling on a person who thinks that this Waliy (pious person) brings benefit or causes harm? Is it permissible to vow or sacrifice for the sake of this Waliy? What should someone do if they know that these things contradict Shari'ah (Islamic law) especially if they live with these people? 
  
 Answer:
 
 The guidance of the Messenger (peace be upon him) in visiting the graves is clear in Sahih Hadiths (Hadiths that have been transmitted by people known for their uprightness and exactitude; free from eccentricity and blemish). Muslim reported in his Sahih Book of Hadith that Buraydah (may Allah be pleased with him) said: "**The Messenger of Allah (peace be upon him) used to teach them when they went out to the graveyard to say: 'Peace be upon the inhabitants of the graves from among believers and Muslims. Verily we will, In Sha’a-Allah (if Allah wills), join you. I beg of Allah peace for us and for you. You have preceded us. We ask Allah to give us and you good.'**" Imam Ahmad and Al-Tirmidhy related, and the latter considered it to be Hasan (a Hadith whose chain of narration contains a narrator with weak exactitude, but is free from eccentricity or blemish) [^1], on the authority of Ibn 'Abbas (may Allah be pleased with them both) that he said: "**The Messenger of Allah (peace be upon him) passed by the graves at Al-Madinah. He turned his face towards them and said: 'May you be granted safety, O dwellers of the graves. May Allah forgive us and you. You have preceded us, and we are to follow.'**" [^2]
 
-The four Rightly-Guided Caliphs followed the example of the Prophet (peace be upon him), as did those who followed them in righteousness. If those who visit graves go there to make Du'a (supplication) to Allah believing that this may be more beneficial in answering their Du'a and want to use them as a means or intercessors with Allah, then these deeds are prohibited as they are not ordained by Shari`ah. Means have the same ruling as ends. Allah (Exalted be He) says: "**Say: (O Muhammad صلى الله عليه وسلم to polytheists, pagans) "Call upon those whom you assert (to be associate gods) besides Allâh, they possess not even an atom’s (or a small ant’s) weight either in the heavens or on the earth, nor have they any share in either, nor there is for Him any supporter from among them.**" [Al-Saba: 22]
+The four Rightly-Guided Caliphs followed the example of the Prophet (peace be upon him), as did those who followed them in righteousness. If those who visit graves go there to make Du'a (supplication) to Allah believing that this may be more beneficial in answering their Du'a and want to use them as a means or intercessors with Allah, then these deeds are prohibited as they are not ordained by Shari'ah. Means have the same ruling as ends. Allah (Exalted be He) says: "**Say: (O Muhammad صلى الله عليه وسلم to polytheists, pagans) "Call upon those whom you assert (to be associate gods) besides Allâh, they possess not even an atom’s (or a small ant’s) weight either in the heavens or on the earth, nor have they any share in either, nor there is for Him any supporter from among them.**" [Al-Saba: 22]
 
 The Ayah (Qur'anic verse) denotes that those who are called upon beside Allah are either possessors or not; if they are not possessors, then they may be partners; if they are not partners, they may be helpers; if they are not helpers, they may be intercessors without Allah's permission. All four things are false and invalid. Therefore, we can only go by the fifth thing i.e. no one intercedes except with Allah's permission. The saying of Allah (Exalted be He): "**...and they cannot intercede except for him with whom He is pleased.**" [Al-Anbiya: 28] Proves that Allah's satisfaction and permission to the one who intercedes is a condition for Shafa'ah (intercession).
 
@@ -47,7 +48,7 @@ Offering 'Ibadah to Allah beside graves is prohibited by the Prophet (peace be u
 
 The prohibition of using graves as Masjids (mosques) includes using them as places for offering 'Ibadah to Allah or to anyone other than Allah whether it is in a Masjid or not.
 
-Coming to the dweller of this grave and making Du`a' to him believing that they bring benefit and cause harm is an act of Al-Shirk-ul-Akbar (major form of associating others in worship with Allah). Whoever indulges in such practice is either aware of its ruling or not. In case that they persist in committing such grave sin though they know its ruling, they are regarded as Mushriks who are out of the fold of Islam. If he does not know the truth, he has to be shown the truth. On the other hand, in case that they accept the truth after being pointed out to him, they are not to be blamed. But in case that they insist on their views, they are regarded as Mushriks. 
+Coming to the dweller of this grave and making Du'a to him believing that they bring benefit and cause harm is an act of Al-Shirk-ul-Akbar (major form of associating others in worship with Allah). Whoever indulges in such practice is either aware of its ruling or not. In case that they persist in committing such grave sin though they know its ruling, they are regarded as Mushriks who are out of the fold of Islam. If he does not know the truth, he has to be shown the truth. On the other hand, in case that they accept the truth after being pointed out to him, they are not to be blamed. But in case that they insist on their views, they are regarded as Mushriks. 
 
 There are many proofs for this. Allah (Exalted be He) says: "**Say: (O Muhammad صلى الله عليه وسلم to these Mushrikûn and Kâfirûn): "O Al-Kafirûn (disbelievers in Allâh, in His Oneness, in His Angels, in His Books, in His Messengers, in the Day of Resurrection, and in Al-Qadar)! "I worship not that which you worship,**" [Al-Kafirun: 1-2]
 
@@ -69,8 +70,6 @@ The Prophet (peace be upon him) says: "**Whoever vows that he will be obedient t
 
 "**A man vowed to slaughter camels in Buwanah and asked the Messenger of Allah (peace be upon him) about that. The Prophet (peace be upon him) said: "Did the place contain any idol worshipped in pre-Islamic times?" They (the people) said: "No." He asked: "Was any pre-Islamic festival observed there?" They replied: "No." The Prophet (peace be upon him) said: "Fulfil your vow, for a vow to do an act of disobedience to Allah must not be fulfilled, neither must one do something over which a human being has no control."**" [^11]
 
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions. 
-
 ---
 
 [^1]: Imam Ahmad, vol. 2, pp. 300 , 375 , and 408, vol. 5, pp. 353, 359, and 360, and vol. 6, pp. 71, 76, 111, 180, 221; Muslim, Sahih [Sharh Al-Nawawy]; Al-Nasa'i, vol. 4, p. 94; and Ibn Majah, vol. 1, p. 494.
@@ -80,7 +79,7 @@ May Allah grant us success. May peace and blessings be upon our Prophet Muhammad
 [^5]:
 [^6]: Muslim, Sahih, Book on asceticism and heart-softening narrations, no. 2985; Ibn Majah, Sunan, Book on asceticism, no. 4202; and Ahmad, Musnad, vol. 2, p. 301.
 [^7]: Imam Ahmad, vol. 1, pp. 96-129; Muslim, Sahih [Sharh Al-Nawawy], vol. 7, p. 36; Al-Nasa'i, vol. 4, pp. 88-89; and Al-Tirmidhy, vol. 3, p. 336.
-[^8]: Imam Ahmad, vol. 3, pp. 295-399 and vol. 6, p. 299; Muslim, Sahih [Sharh Al-Nawawy], vol. 7, p. 37; Al-Tirmidhy, vol. 3, p. 368; Abu Dawud, vol. 3, p. 552; Al-Nasa*y, vol. 4, pp. 86-87; and Ibn Majah, vol. 1, p. 498.
-[^9]: Muslim, Sahih [Sharh Al-Nawawy], vol. 2, pp. 21-22), and Abu Dawud, vol. 1, p. 677; Al-Tirmidhy, vol. 4, p. 407; Al-Nasa'i, vol. 8, p. 111; Ibn Majah, vol. 2, p. 230; and `Abd ibn Humayd, Al-Muntakhab, vol. 2, p. 72.
+[^8]: Imam Ahmad, vol. 3, pp. 295-399 and vol. 6, p. 299; Muslim, Sahih [Sharh Al-Nawawy], vol. 7, p. 37; Al-Tirmidhy, vol. 3, p. 368; Abu Dawud, vol. 3, p. 552; Al-Nasa'i, vol. 4, pp. 86-87; and Ibn Majah, vol. 1, p. 498.
+[^9]: Muslim, Sahih [Sharh Al-Nawawy], vol. 2, pp. 21-22), and Abu Dawud, vol. 1, p. 677; Al-Tirmidhy, vol. 4, p. 407; Al-Nasa'i, vol. 8, p. 111; Ibn Majah, vol. 2, p. 230; and 'Abd ibn Humayd, Al-Muntakhab, vol. 2, p. 72.
 [^10]: Ahmad, vol. 6, p. 36; Al-Bukhari, vol. 7, pp. 233-234; Abu Dawud, vol. 3, p. 593; and Al-Tirmidhy, vol. 4, p. 104; Al-Nasa'i, vol. 7, p. 17; Ibn Majah, vol. 1, p. 687; Al-Darimy, vol. 2, p. 184; and Al-Tahawy, Sharh Ma'any Al-Athar, vol. 3, p. 133.
 [^11]: Abu Dawud, vol. 3, p. 607; and Al-Bayhaqy, Sunan, vol. 10, p. 83.
