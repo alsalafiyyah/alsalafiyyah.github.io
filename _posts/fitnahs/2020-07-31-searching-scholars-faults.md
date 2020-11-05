@@ -12,12 +12,11 @@ muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz
       url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
   members: 
     - name: Shaykh Abdullah Ibn Ghudayyan
       url: /biography/ghudayyan/
+    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+      url: /biography/abdulaziz/
     - name: Shaykh Salih Fawzan
       url: /biography/fawzan/
     - name: Shaykh Bakr Abu Zayd
