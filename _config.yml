@@ -12,8 +12,6 @@ permalink: pretty
 paginate:       20
 paginate_path: "/fatwas/:num/"
 markdown:       kramdown
-safe: true
-future: true
 timezone: Asia/Riyadh
 lang: en
 locales: ["en", "ar"]
