@@ -7,7 +7,7 @@ source: "Fatawa Al-Shaykh Ibn Baz p.8/290"
 lang: en
 category: [quran]
 note: false
-excerpt: "Abu Jahl and his like believed that Allah was their Creator and Provider, the Creator of the heavens and the earth, but this did not avail them anything, because they associated others with Allah by worshipping idols and statues."
+excerpt: "In this Ayah Allah (Exalted be He) commands His Messenger (peace be upon him) to complete the treaty which he concluded with the polytheists to its full term so long as they prove faithful to the terms of the treaty and abstain from giving support to the enemies of Muslims."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
