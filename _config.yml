@@ -26,9 +26,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
-  - jekyll-remote-theme
   - jekyll-sitemap
-  - liquid
   - jekyll-redirect-from
 
 exclude:
