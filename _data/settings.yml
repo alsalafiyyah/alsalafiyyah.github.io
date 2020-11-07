@@ -106,8 +106,8 @@ sidebar_menu:
   - name: Browse
     link: /topic
     active: topic
-  - name: Downloads
-    link: /downloads/
+  - name: Audios
+    link: /audios/
     active: downloads
   - name: Wahhabiyah
     link: /wahhabism/
