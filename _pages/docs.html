@@ -7,6 +7,21 @@ permalink: /docs/
 
 <article>
  
+<div class="box">
+<h4><a class="icon solid fa fa-folder-open" href="/tafsir/quran/"> Qur'an Tafsir (Exegesis)</a></h4>
+<ul class="posts">
+  {% for post in site.posts limit:4 %}
+    {% if post.url %}
+    <li>
+     <a itemprop="url" title="{{ post.title }}" href="{{ post.url }}">
+      <span itemprop="name">{{ post.title }}</span>
+     </a>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+</div>
+
 <ol>
 {% for post in site.posts %}
  {% if post.path contains 'salafism' %}
