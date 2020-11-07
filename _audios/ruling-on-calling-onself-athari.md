@@ -3,7 +3,6 @@ layout: audio
 title: "Ruling on calling oneself Athari"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb 3"
-category: [audios, atharis, aqidah]
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_422/42203.mp3
 hijri: Dhul-Hijjah 13, 1441 AH
 lang: en
