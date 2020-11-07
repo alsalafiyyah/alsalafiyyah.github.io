@@ -3,7 +3,6 @@ layout: audio
 title: "Statement on the sect of Asha'irah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 3"
-category: [ashairah, audios, asharism, asharis]
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/%D9%87%D9%84%20%D8%A7%D9%84%D8%A3%D8%B4%D8%A7%D8%B9%D8%B1%D8%A9%20%D9%85%D9%86%20%D8%A3%D9%87%D9%84%20%D8%A7%D9%84%D8%B3%D9%86%D8%A9%D8%9F.mp3
 hijri: Dhul-Hijjah 16, 1441 AH
 lang: en
