@@ -27,17 +27,17 @@ layout: default
 <div class="box">
 <h3><span class="icon solid fas fa-microphone-alt"> Latest Audios</h3>
 <ul class="posts" style="list-style: none;">
-  {% for post in site.categories.audios | limit:5 %}
-    {% if post.url %}
+   {% for c in site.audios | limit:5 %}
     <li>
-     <a itemprop="url" title="{{ post.title }}" href="{{ post.url }}">
-      <i class="fas fa-volume-up"></i> <span itemprop="name">{{ post.title }}</span>
+     <a itemprop="url" title="{{ c.title }}" href="{{ c.url }}">
+      <i class="fas fa-volume-up"></i> <span itemprop="name">{{ c.title }}</span>
      </a>
     </li>
-    {% endif %}
+   {% else %}
+   <p>There are content yet.</p>
   {% endfor %}
 </ul>
-<a href="{{ '/category/audios' | prepend:site.baseurl }}">View all</a>
+<a href="{{ '/audios' | prepend:site.baseurl }}">View all</a>
 </div>
    
 </article>
