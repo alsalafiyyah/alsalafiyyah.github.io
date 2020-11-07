@@ -2,7 +2,6 @@
 layout: default
 ---
 
-{% if page.date %}
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
  
 <header class="major">
@@ -15,7 +14,7 @@ layout: default
  </span>
   <h3 itemprop="name headline">{{ page.title }}</h3>
 </header>
- 
+
   <div itemprop="articleBody">
   {% include player.liquid %}
   {{ content }}
@@ -25,4 +24,3 @@ layout: default
   {% include post-source.html %}
 
 </article>
-{% endif %}
