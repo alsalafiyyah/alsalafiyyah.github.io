@@ -3,7 +3,6 @@ layout: audio
 title: "Exposing Sufi orders"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 3"
-category: [sufism, audios]
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_923/nour_92304.mp3
 hijri: Dhul-Hijjah 16, 1441 AH
 lang: en
