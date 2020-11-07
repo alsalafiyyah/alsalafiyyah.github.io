@@ -9,9 +9,11 @@ layout: default
 
 <article>
 <div class="row">
+   
  <div class="col-6 col-12-small">
 {% include faq.html %}
  </div>
+   
  <div class="col-6 col-12-small">
 <div class="box">
 <h4><span class="icon solid fas fa-feather"> Recently Added (<b>{{ site.posts | size }}</b> Fatwas)</span></h4>
@@ -26,7 +28,7 @@ layout: default
     {% endif %}
   {% endfor %}
 </ul>
-<br/><a href="{{ '/fatwas/' | prepend:site.baseurl }}">View all</a>
+<a href="{{ '/fatwas/' | prepend:site.baseurl }}">View all</a>
 </div>	
 </div>
  
