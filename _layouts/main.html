@@ -8,13 +8,6 @@ layout: default
 </article>
 
 <article>
-<div class="row">
-   
- <div class="col-6 col-12-small">
-{% include faq.html %}
- </div>
-   
-<div class="col-6 col-12-small">
 <div class="box">
 <h3><span class="icon solid fas fa-feather"> Latest Fatwas ({{ site.posts | size }})</span></h3>
 <ul class="posts">
@@ -29,11 +22,8 @@ layout: default
   {% endfor %}
 </ul>
 <a href="{{ '/fatwas/' | prepend:site.baseurl }}">View all</a>
-</div>	
 </div>
- 
- </div>
- 
+   
 <div class="box">
 <h3><span class="icon solid fas fa-microphone-alt"> Latest Audios</h3>
 <ul class="posts" style="list-style: none;">
