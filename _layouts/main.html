@@ -9,7 +9,7 @@ layout: default
 
 <article>
 <div class="box">
-<h3><span class="icon solid fas fa-feather"> Latest Fatwas ({{ site.posts | size }})</span></h3>
+<h3><span class="icon solid fas fa-feather"> Latest Fatwas</span></h3>
 <ul class="posts">
   {% for post in site.posts limit:6 %}
     {% if post.url %}
@@ -21,7 +21,7 @@ layout: default
     {% endif %}
   {% endfor %}
 </ul>
-<a href="{{ '/fatwas/' | prepend:site.baseurl }}">View all</a>
+<a href="{{ '/fatwas/' | prepend:site.baseurl }}">View all  ({{ site.posts | size }})</a>
 </div>
    
 <div class="box">
