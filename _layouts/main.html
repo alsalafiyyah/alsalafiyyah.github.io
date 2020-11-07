@@ -35,13 +35,13 @@ layout: default
  </div>
  
 <div class="box">
-<h4><span class="icon solid fas fa-feather"> Latest Audios</h4>
-<ul class="posts">
+<h4><span class="icon solid fas fa-microphone-alt"> Latest Audios</h4>
+<ul class="posts" style="list-style: none;">
   {% for post in site.categories.audios | limit:5 %}
     {% if post.url %}
     <li>
      <a itemprop="url" title="{{ post.title }}" href="{{ post.url }}">
-      <span itemprop="name">{{ post.title }}</span>
+      <i class="fas fa-volume-up"></i> <span itemprop="name">{{ post.title }}</span>
      </a>
     </li>
     {% endif %}
