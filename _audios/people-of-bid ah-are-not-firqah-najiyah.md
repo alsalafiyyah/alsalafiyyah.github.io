@@ -3,7 +3,6 @@ layout: audio
 title: "People of Bid'ah are not of Al-Firqah Al-Najiyah (The Saved sect)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb of Ibn Baz tape no. 307 question 4"
-category: [audios, misc]
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_724/nour_72406.mp3
 link: https://cutt.ly/IdB5rcq
 hijri: Dhul-Hijjah 19, 1441 AH
