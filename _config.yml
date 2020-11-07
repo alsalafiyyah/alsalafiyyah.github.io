@@ -93,9 +93,9 @@ collections:
   muqolat:
     output: true
     permalink: /muqolat/:title/
-  dawah:
+  audios:
     output: true
-    permalink: /dawah/:title/
+    permalink: /audios/:title/
     
         
 
