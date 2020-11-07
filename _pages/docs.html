@@ -6,13 +6,7 @@ permalink: /docs/
 ---
 
 <article>
- <select onchange="document.location.href=this.value">
-  <option selected>Categories</option>
-  {% for category in site.categories %}
-  <option value="{{ site.baseurl }}/category/{{ category[0] }}">{{ category[0] | capitalize }} ({{ category[1].size }})</option>
-  {% endfor %}
-</select>
-
+ 
 <ol>
 {% for post in site.posts %}
  {% if post.path contains 'salafism' %}
