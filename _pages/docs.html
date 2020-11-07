@@ -14,11 +14,8 @@ permalink: /docs/
  {% endif %}
 {% endfor %}  
 </ol>
-
- <p>last modified: {{ page.date | date: "%b %-d, %Y at %r Saudi Arabia Time" }}</p>
- <p>{{ site.time | gregorian.to_hijri | date: "%b %-d, %Y at %r %:z" }}</p>
- <p>{{ page.date | to_hijri | date: "%b %-d, %Y at %r" }}</p>
- <p>{{ page.date | hijri_month | to_hijri | date: "%b %-d, %Y at %r" }}</p>
+ 
+ <p>{{ site.time | date: "%b %-d, %Y at %r %:z" }}</p>
 
 <nav class="PrayerNav justify-content-center nav-fill justify-content-between">
  <li class="PrayerNav-item"><span id='hijri-date'></span><br/> Ta'if city, KSA</li><br/>
