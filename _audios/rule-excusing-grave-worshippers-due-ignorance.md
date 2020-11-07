@@ -3,7 +3,6 @@ layout: audio
 title: "Ruling on excusing grave worshippers"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Muqalat 9/285"
-category: [sufism, shiah]
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/%D8%B9%D8%B0%D8%B1%20%D8%B9%D8%A8%D8%A7%D8%AF%20%D8%A7%D9%84%D9%82%D8%A8%D9%88%D8%B1%20%D8%A8%D8%A7%D9%84%D8%AC%D9%87%D9%84.mp3
 link: https://cutt.ly/4dHosHF
 hijri: Dhul-Hijjah 17, 1441 AH
