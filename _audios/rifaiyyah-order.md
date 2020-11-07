@@ -3,7 +3,6 @@ layout: audio
 title: "Ruling on Rifaiyyah Tariqah (Sufi order)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 3"
-category: ["audios", "sufism"]
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_487/48702.mp3
 link: shorturl.at/egzP6
 hijri: Dhul-Hijjah 16, 1441 AH
