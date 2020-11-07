@@ -140,6 +140,24 @@ transform-style:preserve-3d;
  font-family: 'Cairo', sans-serif;
 }
 
+.justify-content-between {
+    justify-content: space-between !important;
+}
+.PrayerNav {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+.PrayerNav-item {
+    display: block;
+    padding: 0.5rem 1rem;
+}
+.hide {
+    display: none! important;
+}
+
 @media screen and (max-width: 620px) {
   table th {
 	 font-size: 0.9rem;    
