@@ -3,11 +3,9 @@ layout: audio
 title: "How to know the Bid'ah and its divisions"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb of Ibn Baz tape no."
-category: ["general", audios]
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_512/51202.mp3
 link: https://cutt.ly/4dB5HEc
 hijri: Dhul-Hijjah 18, 1441 AH
-date: 2020/08/8
 shaykhs: Shaykh Abdul-Aziz ibn Baz
 ---
 
