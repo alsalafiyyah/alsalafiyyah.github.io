@@ -9,7 +9,6 @@ hijri: Dhul-Hijjah 16, 1441 AH
 lang: en
 note: false
 locale: en
-uid: rifaiyyah-order
 excerpt: "These Sufi orders are all null and void. All these orders are mere cults and lies. In fact, such people neither stab nor cut themselves."
 muftis:
   chairman: 
