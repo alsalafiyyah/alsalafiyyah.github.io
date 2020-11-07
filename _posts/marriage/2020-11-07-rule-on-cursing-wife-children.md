@@ -28,5 +28,5 @@ These two Sahih Hadith indicate that cursing a Muslim brother is a major sin. We
 
 ---
 
-[^1]: Al-Bukhari, Sahih, Book on faith, no. 48; Muslim, Sahih, Book on faith, no. 64; Al-Tirmidhy, Sunan, Book on righteousness and upholding ties of kinship, no. 1983; Al-Nasa*y, Sunan, Book on sanctity of blood, no. 4108; Ibn Majah, Sunan, Introduction, no. 69; and Ahmad ibn Hanbal, Musnad, vol. 1, p. 385.
+[^1]: Al-Bukhari, Sahih, Book on faith, no. 48; Muslim, Sahih, Book on faith, no. 64; Al-Tirmidhy, Sunan, Book on righteousness and upholding ties of kinship, no. 1983; Al-Nasa'i, Sunan, Book on sanctity of blood, no. 4108; Ibn Majah, Sunan, Introduction, no. 69; and Ahmad ibn Hanbal, Musnad, vol. 1, p. 385.
 [^2]: Al-Bukhari, Sahih, Book on manners, no. 6105; Muslim, Sahih, Book on faith, no. 110; Ahmad ibn Hanbal, Musnad, vol. 4, p. 33; and Al-Darimy, Sunan, Book on blood money, no. 2361.
