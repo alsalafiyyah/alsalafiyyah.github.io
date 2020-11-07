@@ -8,7 +8,7 @@ permalink: /docs/
 <article>
  
 <div class="box">
-<h4><span class="icon solid fa fa-folder-open"><b>{{ site.posts | size }}</b> Fatwas</span></h4>
+<h4><span class="icon solid fa fa-folder-open">Recently Added (<b>{{ site.posts | size }}</b> Fatwas)</span></h4>
 <ul class="posts">
   {% for post in site.posts limit:6 %}
     {% if post.url %}
