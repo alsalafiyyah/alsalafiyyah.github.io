@@ -11,7 +11,7 @@ layout: default
 <div class="box">
 <h3><span class="icon solid fas fa-feather"> Latest Fatwas</span></h3>
 <ul class="posts" style="list-style: none;">
-  {% for post in site.posts limit:6 %}
+  {% for post in site.posts limit:5 %}
     {% if post.url %}
     <li>
      <a itemprop="url" title="{{ post.title }}" href="{{ post.url }}">
