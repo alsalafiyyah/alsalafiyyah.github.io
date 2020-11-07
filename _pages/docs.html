@@ -8,7 +8,7 @@ permalink: /docs/
 <article>
  
 <div class="box">
-<h4><a class="icon solid fa fa-folder-open" href="/tafsir/quran/"> Qur'an Tafsir (Exegesis)</a></h4>
+<h4><span class="icon solid fa fa-folder-open"><b>{{ site.posts | size }}</b> Fatwas</span></h4>
 <ul class="posts">
   {% for post in site.posts limit:4 %}
     {% if post.url %}
@@ -20,6 +20,7 @@ permalink: /docs/
     {% endif %}
   {% endfor %}
 </ul>
+<p><a href="{{ '/fatwas/' | prepend:site.baseurl }}" class="button">View all fatwas</a></p>
 </div>
 
 <ol>
