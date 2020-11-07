@@ -3,7 +3,6 @@ layout: audio
 title: "The duty of guiding people to the reality of Tawhid and Shirk"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb of Ibn Baz tape no. 63"
-category: [sufism, audios, shiah, shirk, tawhid]
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_412/41211.mp3
 link: https://cutt.ly/0dCGyqq
 hijri: Dhul-Hijjah 18, 1441 AH
