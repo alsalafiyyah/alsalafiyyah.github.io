@@ -154,6 +154,11 @@ transform-style:preserve-3d;
     display: block;
     padding: 0.5rem 1rem;
 }
+.prayer-bg {
+  content:url(https://github.com/alsalafiyyah/alsalafiyyah.github.io/raw/master/assets/images/prayer.svg);
+  width: 32px;
+  vertical-align:middle;
+}
 .hide {
     display: none! important;
 }
