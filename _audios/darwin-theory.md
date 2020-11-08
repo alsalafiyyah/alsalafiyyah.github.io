@@ -32,3 +32,7 @@ These communities will be gathered on the Day of Resurrection to have the scores
 On the other hand, Jinn and mankind will be called to account and will be rewarded according to their deeds; whoever obeys Allah will enter Jannah (Paradise) and whoever disbelieves in Him will enter the Hellfire. These communities are distinct species; apes are a species that have their own nature, form, and characteristics, and so are the pigs, dogs, donkeys, camels, cows, sheep, etc. Each of these species has its own shape and characteristics which Allah (Exalted be He) molded. He is the All-Wise and All-Knowing of the minute details and formation of each species. A servant of Allah must believe that the creation of Adam differs from the creation of apes and the form of Adam is the same as that of today's man and not as apes or anything else. The claim that man descended from an apelike ancestor is false and unacceptable. 
 
 Therefore, it is correct to assume that anyone who espouses this theory is a Kafir (disbeliever). The most correct view is that whoever believes this theory while knowing the ruling of Shari'ah in this regard is a Kafir and such a person then belie Allah, His Messenger and the Qur'an which gives a clear description of the creation of Adam.
+
+---
+
+See also: [Refuting Darwin's theory that man evolved from an ape-like creature](https://alsalafiyyah.github.io/refuting-darwin-theory)
