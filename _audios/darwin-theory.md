@@ -21,11 +21,11 @@ I have read a lot about the theory that humans evolved from an ape-like ancestor
 
 Answer: 
 
-This statement is false, unacceptable, and contradictory to the Book of Allah (Glorified and Exalted be He), the Sunnah of the Messenger of Allah (peace be upon him) as well as the Ijma' (consensus) of the Salaf (righteous predecessors). This theory which was introduced by Darwin is proven to be a lie, for modern humans originated from a human ancestry, not from an ape or anything else. Allah created our father Adam (peace be upon him) from clay. Allah (Glorified and Exalted be He) states, "And indeed We created man (Adam) out of an extract of clay (water and earth)." [Al-Mu'minun: 12]
+This statement is false, unacceptable, and contradictory to the Book of Allah (Glorified and Exalted be He), the Sunnah of the Messenger of Allah (peace be upon him) as well as the Ijma' (consensus) of the Salaf (righteous predecessors). This theory which was introduced by Darwin is proven to be a lie, for modern humans originated from a human ancestry, not from an ape or anything else. Allah created our father Adam (peace be upon him) from clay. Allah (Glorified and Exalted be He) states, "**And indeed We created man (Adam) out of an extract of clay (water and earth).**" [Al-Mu'minun: 12]
 
 Allah created Adam from clay and molded him in His Image. Adam was sixty cubits tall, but people have been decreasing in stature since then. He was created in the form and shape of today humans. His children were created in his image; they have ears, eyes, minds, and the same shape of today human. They stand upright, they speak, hear and see, and they can use their hands. 
 
-They do not have the form of apes and do not share apes the same organs. Human beings are of a special origin as are apes, pigs, dogs, donkeys, cats, etc. Allah (Glorified and Exalted be He) states, "There is not a moving (living) creature on earth, nor a bird that flies with its two wings, but are communities like you. We have neglected nothing in the Book, then unto their Lord they (all) shall be gathered." [Al-An'am: 6]
+They do not have the form of apes and do not share apes the same organs. Human beings are of a special origin as are apes, pigs, dogs, donkeys, cats, etc. Allah (Glorified and Exalted be He) states, "**There is not a moving (living) creature on earth, nor a bird that flies with its two wings, but are communities like you. We have neglected nothing in the Book, then unto their Lord they (all) shall be gathered.**" [Al-An'am: 6]
 
 These communities will be gathered on the Day of Resurrection to have the scores among them settled and it will be said to them, 'Be dust'.
 
@@ -35,4 +35,4 @@ Therefore, it is correct to assume that anyone who espouses this theory is a Kaf
 
 ---
 
-See also: [Refuting Darwin's theory that man evolved from an ape-like creature](https://alsalafiyyah.github.io/refuting-darwin-theory)
+See also: [**Refuting Darwin's theory that man evolved from an ape-like creature**](https://alsalafiyyah.github.io/refuting-darwin-theory)
