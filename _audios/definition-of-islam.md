@@ -4,7 +4,7 @@ title: "Definition of Islam"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 1"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_511/51104.mp3
-hijri: "Rabi' Al-Awwal 22, 1441 AH"
+hijri: "Rabi' Al-Awwal 22, 1442 AH"
 lang: en
 note: false
 url: "https://binbaz.org.sa/fatwas/11423/%D8%AA%D9%88%D8%B6%D9%8A%D8%AD-%D9%85%D8%B9%D9%86%D9%89-%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85"
