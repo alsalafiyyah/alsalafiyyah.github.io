@@ -4,7 +4,7 @@ title: "The word 'Aqidah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 1"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_513/51313.mp3
-hijri: "Rabi' Al-Awwal 22, 1441 AH"
+hijri: "Rabi' Al-Awwal 22, 1442 AH"
 lang: en
 note: false
 url: "https://binbaz.org.sa/fatwas/11533/%D9%85%D8%B5%D8%B7%D9%84%D8%AD-%D8%A7%D9%84%D8%B9%D9%82%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D9%83%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D8%A7%D8%A1"
