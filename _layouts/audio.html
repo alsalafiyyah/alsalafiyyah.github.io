@@ -41,4 +41,79 @@ layout: default
  
   {% include post-source.html %}
 
+<hr/>
+<footer>
+  <div class="row">
+    <div class="col-6 col-12-small">
+      <dl>
+        {% if page.muftis %}
+        {% if page.muftis.chairman %}
+        <dt>{{ site.data.settings.page.chairman }}:</dt>
+        {% for chairman in page.muftis.chairman %}
+        <dd>
+          <a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">
+          {{ chairman.name }}
+          </a>
+        </dd>
+        {% endfor %}
+        {% else %}
+        {% endif %}
+        {% if page.muftis.deputy_chairman %}
+        <dt>{{site.data.settings.page.deputy_chairman}}:</dt>
+        {% for deputy_chairman in page.muftis.deputy_chairman %}
+        <dd>
+          <a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">
+          {{ deputy_chairman.name }}
+          </a>
+        </dd>
+        {% endfor %}
+        {% else %}
+        {% endif %}
+        {% if page.muftis.members %}
+        <dt>{{site.data.settings.page.members}}:</dt>
+        {% for members in page.muftis.members %}
+        <dd>
+          <a title="{{ members.name }}" href="{{ members.url | relative_url }}">
+          {{ members.name }}
+          </a>
+        </dd>
+        {% endfor %}
+        {% else %}
+        {% endif %}
+        {% if page.muftis.shaykh %}
+        {% for shaykh in page.muftis.shaykh %}
+        <dd>
+          <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}">{{ shaykh.name | prepend: "Mufti: "}}</a>
+        </dd>
+        {% endfor %}
+        {% else %}
+        {% endif %}
+        {% endif %}
+
+      </dl>
+    </div>
+    <div class="col-6 col-12-small">
+      <dl>
+        <dd>
+          <span class="date">
+            {% if page.date %}
+            <meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">
+            {% if page.hijri %}{{ page.hijri | prepend: "Published on: " }}
+            {% else %}{{ site.hijri.name | prepend: "Published on: " }} 
+            {% endif %}
+            {% else %}
+            {% endif %}
+          </span>
+        </dd>
+        <dd>
+          <a href="mailto:alsalafiyah@icloud.com?subject=Report&body={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}">
+          <i class="fas fa-bug"></i> Report a mistake
+          </a>
+        </dd>
+        <dd>{% if page.date %}<meta content='{{ site.time }}' itemprop='dateModified'/><span id='last-modified' itemprop='dateModified'></span>{% endif %}</dd>
+        {% include share.html %}
+      </dl>
+    </div>
+  </div>
+</footer>
 </article>
