@@ -74,7 +74,7 @@ layout: default
         {% if page.muftis.shaykh %}
         {% for shaykh in page.muftis.shaykh %}
         <dd>
-          <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}">{{ shaykh.name | prepend: "Mufti: "}}</a>
+          <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}">{{ shaykh.name }}</a>
         </dd>
         {% endfor %}
         {% else %}
