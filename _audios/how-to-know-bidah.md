@@ -19,4 +19,4 @@ Bid'ah refers to whatever people introduce in religion which is in contradiction
 
 They also include the Bid'ah of Jahmiyyah (a deviant Islamic sect denying some Attributes of Allah, claiming they are ascribed to people and cannot be ascribed to Allah) regarding toe Attributes and Names of Allah, that of Mu'tazilah (a deviant Islamic sect claiming that those who commit major sins are in a state between belief and disbelief) regarding the Attributes of Allah and the claim of Mu'tazilah that the perpetrator of a major sin is in an in-between-state of belief and disbelief. 
 
-These are the Bid'ahs made by sThese are forms of Bid'ah introduced by the Mubtadi"s (those who introduce innovations in religion).
+These are forms of Bid'ah introduced by the Mubtadi's (those who introduce innovations in religion). 
