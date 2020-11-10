@@ -1,6 +1,6 @@
 ---
 layout: audio
-title: "The first messenger"
+title: "Noah was the first messenger"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 1"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_596/59630.mp3
