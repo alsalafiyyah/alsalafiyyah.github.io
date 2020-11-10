@@ -2,7 +2,6 @@
 layout: audio
 title: "Theory of human evolution or Darwin's theory"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Nur 'Ala al-Darb, tape no 522"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_175/17501.mp3
 hijri: "Rabi' Al-Awwal 22, 1442 AH"
 lang: en
