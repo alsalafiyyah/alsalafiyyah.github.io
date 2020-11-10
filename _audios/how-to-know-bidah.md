@@ -2,11 +2,14 @@
 layout: audio
 title: "How to know the Bid'ah and its divisions"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Nur 'Ala al-Darb of Ibn Baz tape no."
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_512/51202.mp3
 link: https://cutt.ly/4dB5HEc
 hijri: Dhul-Hijjah 18, 1441 AH
-shaykhs: Shaykh Abdul-Aziz ibn Baz
+excerpt: "A Bid'ah is what people introduce into Allah's Purified Shar'i (Law) and contradicts it In other words all that people introduce into Din (religion) is called a Bid'ah, such as, celebrating the Mawlid (the Prophet's birthday), building Masjids (rnosques) on graves and constructing domes on graves."
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 Question: 
