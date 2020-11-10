@@ -20,12 +20,12 @@ What is the difference between Al-Hilm (forbearance) and Al-Sabr (patience), whi
 
 Answer:
 
-Al-Hilm is to delay the punishment for a servant (granting them respite so that they may repent from their sins). Allah (Glorified and Exalted be He) is described as Al-Halim (the All-Forbearing) and the Patient as narrated in the following Hadith Sahih (authentic Hadith): "None is more patient than Allah over offending words He hears (from people). They ascribe a son to Him whereas He gives and provides them with sustenance." 
+Al-Hilm is to delay the punishment for a servant (granting them respite so that they may repent from their sins). Allah (Glorified and Exalted be He) is described as Al-Halim (the All-Forbearing) and the Patient as narrated in the following Hadith Sahih (authentic Hadith): "**None is more patient than Allah over offending words He hears (from people). They ascribe a son to Him whereas He gives and provides them with sustenance.**" 
 
-Al-Sabr is the delay of imposing the punishments. Although many people are transgressors, unjust, and commit Shirk (associating others with Allah in His Divinity or worship), Allah does not hasten their punishment. Allah (Exalted be He) says: "And most of mankind will not believe even if you desire it eagerly." [Yusuf: 103]
+Al-Sabr is the delay of imposing the punishments. Although many people are transgressors, unjust, and commit Shirk (associating others with Allah in His Divinity or worship), Allah does not hasten their punishment. Allah (Exalted be He) says: "**And most of mankind will not believe even if you desire it eagerly.**" [Yusuf: 103]
 
-"And if you obey most of those on earth, they will mislead you far away from Allah's Path." [Al-An'am: 116]
+"**And if you obey most of those on earth, they will mislead you far away from Allah's Path.**" [Al-An'am: 116]
 
-He gives them respite, as He (Glorified and Exalted be He) says, "Consider not that Allah is unaware of that which the Zalimun (polytheists, wrong-doers, etc.) do, but He gives them respite up to a Day when the eyes will stare in horror." [Ibrahim: 42]
+He gives them respite, as He (Glorified and Exalted be He) says, "**Consider not that Allah is unaware of that which the Zalimun (polytheists, wrong-doers, etc.) do, but He gives them respite up to a Day when the eyes will stare in horror.**" [Ibrahim: 42]
 
-This Ayah combines both characteristics: patience and forbearance. 
+In this (Ayah) combines both characteristics: patience and forbearance. 
