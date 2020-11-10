@@ -2,7 +2,6 @@
 layout: audio
 title: "How to achieve Tawhid"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Nur 'Ala al-Darb vol 1"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_595/59520.mp3
 hijri: "Rabi' Al-Awwal 22, 1442 AH"
 lang: en
