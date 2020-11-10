@@ -2,7 +2,6 @@
 layout: audio
 title: "The word 'Aqidah"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Nur 'Ala al-Darb vol 1"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_513/51313.mp3
 hijri: "Rabi' Al-Awwal 22, 1442 AH"
 lang: en
