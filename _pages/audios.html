@@ -21,33 +21,10 @@ permalink: /audios/
 </ol>
 
 <article>
-<div class="table-wrapper" itemscope itemtype="https://schema.org/Table">
-  <table>
-    <tbody>
-      {% for c in site.audios %}
-      <tr>
-        <td>{{ c.hijri }}</td>
-        <td>
-          <a title="{{ c.title }}" href="{{ c.url }}">{{ c.title }}</a>
-        </td>
-      </tr>
-      {% else %}
-      <p>{{site.data.settings.page.no-fatwas}}</p>
-      {% endfor %}
-    </tbody>
-  </table>
-</div>
-
-{% for post in paginator.page[site.audios] %}
-  <h1><a href="{{ post.url }}">{{ page.title }}</a></h1>
-  <p class="author">
-    <span class="date">{{ page.date }}</span>
-  </p>
-  <div class="content">
-    {{ page.excerpt }}
-    {{ page.content }}
-  </div>
-{% endfor %}
-  
+<ol>
+  {% for c in site.audios %}
+  <li><a title="{{ c.title }}" href="{{ c.url }}">{{ c.title }}</a></li>
+  {% endfor %}
+</ol>
 </article>
 
