@@ -95,6 +95,7 @@ collections:
     permalink: /muqolat/:title/
   audios:
     output: true
+    active: audios
     permalink: /audios/:title/
     
         
