@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Your country is Wahhabi"
+title: "Some people accuse Your Eminence of being a religious bigot and the country of being Wahabi"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Muqolat 8/34"
 hijri: Dhul-Hijjah 19, 1441 AH
-note: true
+note: false
 lang: en
-excerpt: "Some people from outside the country accuse Your Eminence of being a religious bigot and the country of being Wahabi, how can you refute their claims?"
+excerpt: "The ignorant people and the enemies of Allah accused the prophets and the Salaf (righteous predecessors) of more than this."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
