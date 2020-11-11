@@ -50,7 +50,13 @@ layout: default
         {% else %}
         {% endif %}
         {% endif %}
+      {% if page.translator %}
+      <dd>
+       {{ translator }}
+      <dd>
+      {% endif %}
       </dl>
+      {% endif %}
     </div>
     <div class="col-6 col-12-small">
       <dl>
