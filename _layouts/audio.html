@@ -51,7 +51,7 @@ layout: default
         {% endif %}
       {% if page.translator %}
       <dd>
-       Translator: {{ page.translator }}
+        Translator: {% if page.link %}<a href="{{ page.link }}" target="_blank" rel="nofollow">{{ page.translator }}</a>{% endif %}
       <dd>
       {% endif %}
       </dl>
