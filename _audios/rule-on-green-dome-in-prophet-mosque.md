@@ -49,3 +49,7 @@ Thus, it is obligatory for scholars everywhere to warn people of this evil and t
 Nonetheless, the ignorant people and the Mushriks (one who associates others with Allah in His Divinity or worship) replaced this Shar'i visit with Munkar and Shirkiyyah (creed that associate others with Allah in His Divinity or worship) visit out of ignorance and error. Among the reasons that led to Shirk and Bid'ah is the presence of such buildings, domes and Masjids on the graves. Another reason is the silence of many scholars regarding that issue, either because of their ignorance of the Shari'ah ruling on this or because they gave up on the public and believed it would be useless to talk about this as they could see how eager they were to do this and how they defended it.
 
 It is the duty of scholars everywhere to clarify for people what Allah (Exalted be He) has forbidden them from doing and what He has enjoined upon them and to warn them of Shirk, along with its causes and means. Scholars are responsible for common people and Allah (Exalted be He) ordered them to convey and clarify His commands and prohibitions and He forbade them from concealing this. 
+
+---
+
+See also: [**The dome on the grave of the Prophet is no pretext**](/wahhabism/green-dome/)
