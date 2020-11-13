@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 publisher: alsalafiyyah@icloud.com
 title: "Quburiyyun (grave worshippers)"
 hijri: Muharram 27, 1442 AH
@@ -25,9 +25,7 @@ Thus, He declared those who worship the prophets and angels disbelievers if they
 
 Moreover, Allah (Exalted be He) informed us about some Mushriks saying that they would worship righteous persons seeking for themselves a means to approach their Lord, hoping for His Mercy, and fearing His Torment. He (Exalted be He) condemned their worship of other than Him, and indicated that they (those worshipped) had neither the power to remove the adversity from those who worshipped them, nor to transfer it to someone else.
 
-Moreover, scholar of Tafsir (exegesis of the meanings of the Qur'an) commented on this Ayah (Qur'anic verse) saying that it was revealed regarding the Messiah, his mother and 'Uzair, and also regarding every prophet or righteous person.
-
-In addition, Ibn Mas'ud (may Allah be pleased with him) said that it was revealed regarding human beings who would worship individuals from the Jinn. The Jinn embraced Islam but those humans kept worshipping them.
+Moreover, scholar of Tafsir (exegesis of the meanings of the Qur'an) commented on this Ayah (Qur'anic verse) saying that it was revealed regarding the Messiah, his mother and 'Uzair, and also regarding every prophet or righteous person. In addition, Ibn Mas'ud (may Allah be pleased with him) said that it was revealed regarding human beings who would worship individuals from the Jinn. The Jinn embraced Islam but those humans kept worshipping them.
 
 In short, it was revealed regarding righteous persons and prophets, as Allah declared those who worship them to be disbelievers and informed that they have neither the power to remove adversity from those who worship them, nor to shift it from them to other persons.
 
