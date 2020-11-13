@@ -4,7 +4,7 @@ published: true
 publisher: alsalafiyyah@icloud.com
 title: "Quburiyyun (grave worshippers)"
 hijri: Muharram 27, 1442 AH
-source: "Fatawa Shaykh Ibn Baz p.3/136"
+source: ""
 lang: en
 category: [sufism, shiah]
 note: false
@@ -15,7 +15,7 @@ muftis:
       url: /biography/binbaz/
 ---
 
-> Question: It is said that the early Mushriks (those who associate others with Allah in His Divinity or worship) admitted that they worshipped their gods only to bring them near to Allah. They were in fact idol worshippers, so how can you declare those you call Quburiyyun i.e. grave worshippers, to be Mushriks although they do not worship idols or claim that the dead should be worshipped, but they only seek blessings through them?
+> Question: It is said that the early Mushriks (those who associate others with Allah in His Divinity or worship) admitted that they worshipped their gods only to bring them near to Allah. They were in fact idol worshippers, so how can you declare those you call Quburiyyun i.e. grave worshippers, to be Mushriks although they do not worship idols or claim that the dead should be worshipped, but they only seek blessings through them? [^1]
 
 Answer: 
 
@@ -42,16 +42,18 @@ Allah (Glorified and Exalted be He) says: "**And who is more astray than one who
 It means that all scholars have unanimously agreed that whoever worships other than Allah (Exalted be He), whether it is an idol, a prophet, a righteous person, a jinni or anything else, is a disbeliever, even if the worshipped being is a prophet or a righteous person. Indeed, this unanimity covers all scholars, and the evidence of this (judgment) from the Words of Allah (Glorified and Exalted be He) and His Prophet (peace be upon him) are manifest, some of which are mentioned above. Allah (Glorified and Exalted be He) is undoubtedly the Guide to success. 
 
 
-> Question: What about the questioner's saying that such worshippers claimed that they worshipped them only to bring them near to Allah, thus acknowledging their worship of them, while the latter (group) claimed that they did not worship them but only sought their blessings?
+> Question: What about the questioner's saying that such worshippers claimed that they worshipped them only to bring them near to Allah, thus acknowledging their worship of them, while the latter (group) claimed that they did not worship them but only sought their blessings? [^2]
 
 Answer: 
 
 Consideration is given to facts and meaning and not to words. Thus, if they say that they do not worship them but rather seek their blessings, it would not avail them as long as they perform the practices of the Mushriks preceding them, even if they do not call it worship (as they call it seeking their intercession or blessings). Seeking other than Allah and invoking the dead, the prophets, and the righteous, and offering sacrifices to them, prostrating to or calling for their help - are all acts of worship, even if they call it service or anything else, since what count are facts and not names, as explained above.
 
-An example of this is the saying of the group who went out with the Prophet (peace be upon him) to Hunayn, when they saw the Mushriks hanging their weapons on a lotus tree (which they believed to bring blessings): "**O Messenger of Allah, assign for us a Dhat Anwat (something like that tree) as they (the disbelievers) have a Dhat Anwat." In response, the Prophet (peace be upon him) said: "Allah is the Greatest! By the One in Whose Hand is my soul, you have said exactly as the Children of Israel said to Musa (Moses), 'Make for us a god as they have gods.'**" [^1]
+An example of this is the saying of the group who went out with the Prophet (peace be upon him) to Hunayn, when they saw the Mushriks hanging their weapons on a lotus tree (which they believed to bring blessings): "**O Messenger of Allah, assign for us a Dhat Anwat (something like that tree) as they (the disbelievers) have a Dhat Anwat." In response, the Prophet (peace be upon him) said: "Allah is the Greatest! By the One in Whose Hand is my soul, you have said exactly as the Children of Israel said to Musa (Moses), 'Make for us a god as they have gods.'**" [^3]
 
 Thus, the Prophet (peace be upon him) regarded the two statements equal to each other even though the latter said: "**Assign for us a Dhat Anwat**", comparing their saying to that of the Children of Israel, since what counts is the meaning and essence, not just the words.
 
 ---
 
-[^1]: Al-Tirmidhi, Sunan, Book on trials, no. 2180; and Ahmad ibn Hanbal, Musnad, vol. 5, p. 218.
+[^1]: Fatawa Shaykh Ibn Baz p.3/136
+[^2]: Fatawa Shaykh Ibn Baz p.3/139
+[^3]: Al-Tirmidhi, Sunan, Book on trials, no. 2180; and Ahmad ibn Hanbal, Musnad, vol. 5, p. 218.
