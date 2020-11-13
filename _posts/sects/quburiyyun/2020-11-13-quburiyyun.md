@@ -3,8 +3,7 @@ layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
 title: "Quburiyyun (grave worshippers)"
-hijri: Muharram 27, 1442 AH
-source: ""
+hijri: "Rabi' Al-Awwal 27, 1442 AH"
 lang: en
 category: [sufism, shiah]
 note: false
