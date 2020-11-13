@@ -10,6 +10,9 @@
           {% else %}
           {{ site.source.name | prepend: "Source: "}}
           {% else %}
+          {{ page.source }}
+          {% else %}
+          {{ site.source.name "}}
         </dd>
         {% endif %}
 
