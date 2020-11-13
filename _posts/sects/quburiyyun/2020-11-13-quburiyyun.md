@@ -8,7 +8,7 @@ source: "Fatawa Shaykh Ibn Baz p.3/136"
 lang: en
 category: [sufism, shiah]
 note: false
-excerpt: ""
+excerpt: "Worship is not defined through people's views but it is determined through Allah's Judgment (Glorified and Exalted be He). The early Mushriks are divided into different categories, such as those who worshipped idols, those who worshipped prophets, those who worshipped righteous people, those who worshipped trees, those who worshipped stones, and those who worshipped other things."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
