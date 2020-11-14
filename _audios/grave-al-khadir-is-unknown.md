@@ -16,7 +16,7 @@ muftis:
 
 Question:
 
-There is a mausoleum in our residential district where people claim the body of Al-Khadir (peace be upon him) is buried. When visiting this mausoleum, people bring with them candles and sweets. When they enter, they light the candles and start to invoke Al-Khadir and make vows to him. Is that considered to be an act of Bid ah (innovation in religion)? Please advise us
+There is a mausoleum in our residential district where people claim the body of Al-Khadir (peace be upon him) is buried. When visiting this mausoleum, people bring with them candles and sweets. When they enter, they light the candles and start to invoke Al-Khadir and make vows to him. Is that considered to be an act of Bid ah (innovation in religion)?
 
 Answer:
 
