@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Muslim world is full of many things that contradict the religion of Islam"
+title: "Muslim world has corrupt in Aqidah"
 publisher: "alsalafiyyah@icloud.com"
 hijri: Dhul-Hijjah 24, 1441 AH
 source: "Fatwa Nur 'Ala Al-Darb vol 2"
