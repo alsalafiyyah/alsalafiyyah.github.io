@@ -3,7 +3,7 @@ layout: audio
 title: "Sites of the Prophets' graves"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_638/nour_63813.mp3
-hijri: "Rabi' Al-Awwal 29, 1442 AH"
+hijri: "Rabi' Al-Awwal 28, 1442 AH"
 lang: en
 note: false
 url: "https://binbaz.org.sa/fatwas/13300/%D9%87%D9%84-%D9%8A%D8%B9%D8%B1%D9%81-%D9%82%D8%A8%D8%B1%D8%A7-%D8%A7%D9%8A%D9%88%D8%A8-%D9%88%D8%B9%D9%85%D8%B1%D8%A7%D9%86-%D8%B9%D9%84%D9%8A%D9%87%D9%85%D8%A7-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D9%88%D8%AD%D9%83%D9%85-%D8%B2%D9%8A%D8%A7%D8%B1%D8%AA%D9%87%D9%85%D8%A7"
