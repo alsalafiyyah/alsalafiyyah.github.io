@@ -6,13 +6,9 @@
 
         {% if page.source %}
         <dd>
-          {{ page.source | prepend: "Source: "}}
+          <b>{{ page.source }}</b>
           {% else %}
-          {{ site.source.name | prepend: "Source: "}}
-          {% else %}
-          {{ page.source }}
-          {% else %}
-          {{ site.source.name "}}
+          <b>{{ site.source.name }}</b>
         </dd>
         {% endif %}
 
@@ -62,7 +58,7 @@
         {% if page.muftis.shaykh %}
         {% for shaykh in page.muftis.shaykh %}
         <dd>
-          <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}">{{ shaykh.name | prepend: "Mufti: "}}</a>
+          <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}"><b>{{ shaykh.name }}</b></a>
         </dd>
         {% endfor %}
         {% else %}
