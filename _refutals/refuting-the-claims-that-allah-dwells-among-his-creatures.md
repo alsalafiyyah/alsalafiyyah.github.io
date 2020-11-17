@@ -85,3 +85,11 @@ Also, the scribe angels assigned by Allah record people's private talk, even tho
 There can be no doubt that the Salaf have countless statements on such an issue. Therefore, the belief that Allah dwells among His creatures, or that He is present in person everywhere as an interpretation of the Ayah: And He is with you (by His Knowledge) or that it is not permissible to point at Him are totally wrong and false, as shown from the many explicit proofs mentioned here and the consensus of Muslim scholars. 
 
 Consequently, it becomes clear that those who say that Allah dwells among His creatures, and those who follow them in their opinion, are totally wrong. They have invented falsehood about Allah. They give the Ayahs on Ma'iyyah wrong interpretations that oppose the statements of eminent scholars. May Allah protect us from disgrace and from ascribing to Allah that which does not befit His Glory, out of ignorance. We ask Allah (Glorified be He) to make us adhere to the right path. Indeed, He is the Patron, Capable of all things. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
+
+---
+
+[^1]: Abu Dawud, Sunan, Book on medicine, no. 3892.
+[^2]: 
+[^3]: Abu Dawud, Sunan, Book on oaths and vows, no. 3284; and Ahmad ibn Hanbal, Musnad, vol. 2, p. 291.
+[^4]: 
+[^5]: Al-Bukhari, Sahih, Book on heart-softening narrations, no. 6502.
