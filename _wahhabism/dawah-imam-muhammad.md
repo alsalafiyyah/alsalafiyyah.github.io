@@ -8,6 +8,7 @@ hijri: Dhul-Hijjah 16, 1441 AH
 note: false
 lang: en
 excerpt: "Was the Da'wah (calling people to Islam) of Shaykh Muhammad ibn Abdul-Wahhab a specific doctrine?"
+url: "https://binbaz.org.sa/fatwas/15736/%D8%A7%D9%84%D8%AA%D8%B9%D8%B1%D9%8A%D9%81-%D8%A8%D8%AF%D8%B9%D9%88%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%88%D9%87%D8%A7%D8%A8"
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
