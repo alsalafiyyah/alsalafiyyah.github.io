@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 publisher: alsalafiyyah@icloud.com
 title: "What is meant by Halal (lawful) and Haram (prohibited) in Islam"
 hijri: "Rabi' Al-Thani 02, 1442 AH"
