@@ -30,7 +30,7 @@ What is meant by Halal (lawful) and Haram (prohibited) in Islam?
 
 Answer: 
 
-Halal and Haram are two Shar'i (Islamic legal) rulings, the knowledge of which is acquired from the Qur'an and the Sunnah. The believer should firmly believe in the impermissibility of whatever Allah (Exalted be He) has made Haram and the permissibility of whatever Allah (Exalted be He) has made Halal. This belief leads to entering Jannah (Paradise). It was authentically reported that A man asked the Prophet (peace be upon him), saying, "**'Tell me, if I regard as Halal (lawful) whatever has been declared Halal (by Shari`ah) and regard as Haram (forbidden) whatever has been declared Haram (by Shari`ah), shall I be admitted into Jannah?' The Prophet (peace be upon him) said, 'Yes.'**" [^1]
+Halal and Haram are two Shar'i (Islamic legal) rulings, the knowledge of which is acquired from the Qur'an and the Sunnah. The believer should firmly believe in the impermissibility of whatever Allah (Exalted be He) has made Haram and the permissibility of whatever Allah (Exalted be He) has made Halal. This belief leads to entering Jannah (Paradise). It was authentically reported that A man asked the Prophet (peace be upon him), saying, "**'Tell me, if I regard as Halal (lawful) whatever has been declared Halal (by Shari'ah) and regard as Haram (forbidden) whatever has been declared Haram (by Shari'ah), shall I be admitted into Jannah?' The Prophet (peace be upon him) said, 'Yes.'**" [^1]
 
 Muslims are not permitted to declare things Halal or Haram of their own accord. This is considered one of the gravest sins. Allah (Exalted be He) says: "**Say (O Muhammad صلى الله عليه وسلم): "(But) the things that my Lord has indeed forbidden are Al-Fawâhish (great evil sins and every kind of unlawful sexual intercourse) whether committed openly or secretly, sins (of all kinds), unrighteous oppression, joining partners (in worship) with Allâh for which He has given no authority, and saying things about Allâh of which you have no knowledge.**"" [Al-A'raf: 33]
 
@@ -42,4 +42,4 @@ Likewise, when a person regards that which is well established and known to be H
 
 ---
 
-[^1]: Ahmad, vol. 3, pp. 316 and 348; Muslim, vol. 1, p. 44, no. 15; Abu Ya`la, vol. 3, p. 445, vol. 4, p. 195, nos. 1940 and 2295; and Ibn Mandah, vol. 1, pp. 285-286, nos. 137-138.
+[^1]: Ahmad, vol. 3, pp. 316 and 348; Muslim, vol. 1, p. 44, no. 15; Abu Ya'la, vol. 3, p. 445, vol. 4, p. 195, nos. 1940 and 2295; and Ibn Mandah, vol. 1, pp. 285-286, nos. 137-138.
