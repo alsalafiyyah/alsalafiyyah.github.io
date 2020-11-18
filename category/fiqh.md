@@ -1,5 +1,5 @@
 ---
 layout: category_index
-title: "Fiqh"
+title: "Usul Al-Fiqh (Principles of Islamic jurisprudence)"
 category: fiqh
 ---
