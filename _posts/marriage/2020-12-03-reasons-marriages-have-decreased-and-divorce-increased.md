@@ -28,13 +28,13 @@ This is obligatory upon all Muslims, as it is to refrain from divorce, to treat 
 
 Likewise, it is ordained for the husband to fear Allah (Glorified and Exalted be He) and not hasten to pronounce divorce. Rather, he should be patient and should solve problems using wisdom, kind words, and good manner and not be oppressive. Woman, on the other hand, should fear Allah, avoid provoking the husband by asking for divorce, carry out her duties and responsibilities and treat her husband kindly, just as the husband should treat her kindly. Allah's (Glorified be He) states: "**...and live with them honourably.**" [Al-Nisa: 19] 
 
-He (Glorified and Exalted be He) also states: "8*And they (women) have rights (over their husbands as regards living expenses) similar (to those of their husbands) over them (as regards obedience and respect) according to what is reasonable, but men have a degree (of responsibility) over them.**" [Al-Baqarah: 228] 
+He (Glorified and Exalted be He) also states: "**And they (women) have rights (over their husbands as regards living expenses) similar (to those of their husbands) over them (as regards obedience and respect) according to what is reasonable, but men have a degree (of responsibility) over them.**" [Al-Baqarah: 228] 
 
 Both spouses should be patient and seek the reward from Allah in all their affairs as Allah (Glorified be He) states: "**Only those who are patient shall receive their reward in full, without reckoning.**" [Al-Zumar: 10] 
 
-Hence, there has to be patience and cooperation in piety and righteousness, following Allah's (Glorified and Exalted be He) statement: "8*Help you one another in Al-Birr and At-Taqwâ (virtue, righteousness and piety)**" [Al-Maidah: 2] and applying the Prophet's (peace and blessings of Allah be upon him) statement: "8*Treat women kindly; they are like prisoners in your hands.**" [^2] 
+Hence, there has to be patience and cooperation in piety and righteousness, following Allah's (Glorified and Exalted be He) statement: "**Help you one another in Al-Birr and At-Taqwâ (virtue, righteousness and piety)**" [Al-Maidah: 2] and applying the Prophet's (peace and blessings of Allah be upon him) statement: "**Treat women kindly; they are like prisoners in your hands.**" [^2] 
 
-In another narration he (peace be upon him) stated: "8*If you wish to benefit from her, benefit from her while crookedness remains in her; and if you attempt to straighten her, you will break her; and breaking her is divorcing her.**"[^3] 
+In another narration he (peace be upon him) stated: "**If you wish to benefit from her, benefit from her while crookedness remains in her; and if you attempt to straighten her, you will break her; and breaking her is divorcing her.**"[^3] 
 
 Therefore, men should be patient towards the misbehavior of women and women should be patient regarding the mistakes, shortcomings and other deficiencies of their husbands. Both parties should cooperate in piety and righteousness. The husband should patiently endure his wife's shortcomings, fear Allah, treat his wife kindly and recognize her rights and fulfill his duties towards her. Similarly, the wife should bear with patience, fulfill her obligations and responsibilities in order to avoid divorce. We ask Allah for guidance for all of us and all Muslims.
 
