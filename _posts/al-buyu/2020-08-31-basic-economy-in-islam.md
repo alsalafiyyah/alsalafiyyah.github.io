@@ -4,7 +4,7 @@ title: "Basics of economy in Islam"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 17627-6"
 hijri: Muharram 12, 1442 AH
-category: [sales]
+category: [buyu]
 lang: en
 excerpt: "The Islamic economy depends on Shar'i (Islamically lawful) trade through investing money in ways that Allah (Exalted be He) made Halal (Lawful) according to the regulations of Shar'i dealings and transactions."
 muftis:
