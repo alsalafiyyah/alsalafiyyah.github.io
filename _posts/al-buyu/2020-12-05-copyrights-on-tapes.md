@@ -28,7 +28,9 @@ I work in the field of information technology. Since I started work in this fiel
 
 Answer:
 
-It is not permissible for a person to make copies of software programs protected by copyright unless the person obtains permission from the owner of these programs. The Prophet (peace be upon him) said: "**Muslims are on (adhere to) their conditions.**" [^1] And, "**The property of a Muslim is unlawful (to take), unless (he gives it) willingly.**" [^2] And he (peace be upon him) also said: "**Whoever does a lawful matter that has not been done by any other people, it belongs to him.**" [^3] This applies to any person who owns these software programs whether a Muslim or a non-fighting Muslim because a non-fighting Muslim's rights are respected just like that of a Muslim.
+It is not permissible for a person to make copies of software programs protected by copyright unless the person obtains permission from the owner of these programs. The Prophet (peace be upon him) said: "**Muslims are on (adhere to) their conditions.**" [^1] And, "**The property of a Muslim is unlawful (to take), unless (he gives it) willingly.**" [^2] And he (peace be upon him) also said: "**Whoever does a lawful matter that has not been done by any other people, it belongs to him.**" [^3] 
+
+This applies to any person who owns these software programs whether a Muslim or a non-fighting Muslim because a non-fighting Muslim's rights are respected just like that of a Muslim.
 
 ---
 
