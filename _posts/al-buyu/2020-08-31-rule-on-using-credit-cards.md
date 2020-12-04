@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 17289"
 hijri: Muharram 12, 1442 AH
 lang: en
-category: [sales, loan, riba]
+category: [buyu, loan, riba]
 excerpt: "These gold or silver credit cards are usurious. It is not permissible to issue or to deal with such cards."
 muftis:
   chairman: 
