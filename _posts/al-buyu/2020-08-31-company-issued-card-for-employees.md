@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 3675"
 hijri: Muharram 12, 1442 AH
 lang: en
-category: [sales, loan, riba]
+category: [buyu, riba]
 excerpt: "If the matter is as you have mentioned, the extra amount which the company takes is a form of Riba (Usury). It is not permissible for it to take this amount because Riba is Haram according to the Qur'an, the Sunnah and consensus."
 muftis:
   chairman: 
