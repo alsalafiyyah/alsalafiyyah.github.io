@@ -3,15 +3,6 @@
   <div class="row">
     <div class="col-6 col-12-small">
       <dl>
-
-        {% if page.source %}
-        <dd>
-          <b>{{ page.source }}</b>
-          {% else %}
-          <b>{{ site.source.name }}</b>
-        </dd>
-        {% endif %}
-
         {% if page.shaykhs %}
         <dt>{{site.data.settings.post.muftis}}:</dt>
         <dd>
@@ -69,6 +60,13 @@
     </div>
     <div class="col-6 col-12-small">
       <dl>
+        {% if page.source %}
+        <dd>
+          <b>{{ page.source }}</b>
+          {% else %}
+          <b>{{ site.source.name }}</b>
+        </dd>
+        {% endif %}
         <dd>
           <span class="date">
             {% if page.date %}
