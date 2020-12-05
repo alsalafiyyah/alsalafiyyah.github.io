@@ -78,13 +78,13 @@
             {% endif %}
           </span>
         </dd>
-        {% for category in page.categories %}
         <dd>
+          {% for category in page.categories %}
           <a href="/category/{{ category | slugize }}">
           <i class="fas fa-tag"></i> {{ category }}
           </a>
+          {% endfor %}
         </dd>
-        {% endfor %}
         <dd>
           <a href="mailto:alsalafiyah@icloud.com?subject=Report&body={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}">
           <i class="fas fa-bug"></i> Report a mistake
