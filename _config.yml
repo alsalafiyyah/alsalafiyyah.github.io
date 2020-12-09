@@ -83,8 +83,8 @@ defaults:
       locale: ar
       permalink: /ar/:title
   - scope:
-      path: salah
-      type: _audios
+      path: _audios/salah/**
+      type: my_collection
     values:
       layout: audio
 
