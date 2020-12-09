@@ -8,7 +8,7 @@ permalink: /myaudios/
 ---
 
 <ol>
-{% assign items = site.audios | sort: 'weight' %}
+{% assign items = site.audios %}
 {% for item in items %}
   {% if not item.path contains '/salah' %}
   <li>
