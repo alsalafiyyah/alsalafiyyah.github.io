@@ -82,6 +82,11 @@ defaults:
       layout: post
       locale: ar
       permalink: /ar/:title
+  - scope:
+      path: salah
+      type: _audios
+    values:
+      layout: audio
 
 collections:
   refutals:
