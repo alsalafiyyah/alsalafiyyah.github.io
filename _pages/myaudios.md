@@ -2,7 +2,7 @@
 layout: default
 title: Audios
 active: audios
-uid: audios
+uid: myaudios
 locale: en
 permalink: /myaudios/
 ---
