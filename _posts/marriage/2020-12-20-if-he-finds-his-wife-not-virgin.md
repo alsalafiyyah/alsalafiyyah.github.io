@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "If a man marries a young woman and then finds that she is not a virgin, what should he do?"
+title: "Discovering that one's wife is not a virgin"
 hijri: "Jumada Al-Awwal 05, 1442 AH"
 source: "Fatawa Shaykh Ibn Baz p. 20/286"
 lang: en
