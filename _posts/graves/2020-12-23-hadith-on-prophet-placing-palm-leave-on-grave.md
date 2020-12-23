@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Hadith about The Prophet putting a palm leave on the graves"
+title: "Hadith about the Prophet putting a palm leave on the graves"
 hijri: "Jumada Al-Awwal 8, 1442 AH"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 1333-3"
 lang: en
