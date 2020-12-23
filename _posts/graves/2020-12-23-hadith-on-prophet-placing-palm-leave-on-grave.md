@@ -24,7 +24,9 @@ muftis:
 
 Question:
 
-Ibn 'Abbas narrated: The Prophet (peace be upon him) once passed by two graves and said: “These two persons are being tortured not for a major sin (to avoid). One of them never saved himself from being soiled with his urine, while the other used to go about with calumnies (to make enmity between friends).” The Prophet (peace be upon him) then took a green leaf of a date-palm tree, split it into two (pieces) and fixed one on each grave. They said, “O Allah’s Messenger (peace be upon him)! Why have you done so?” He replied: “I hope that their punishment might be lessened till these (the pieces of the leaf) become dry.” Collected by Al-Bukhari [^1]. Is it permissible for us to follow the example of the Prophet (peace be upon him) in putting other similar green plants on the grave or planting an ever green tree over it for the purpose mentioned in the Hadith? 
+Ibn 'Abbas narrated: "**The Prophet (peace be upon him) once passed by two graves and said: “These two persons are being tortured not for a major sin (to avoid). One of them never saved himself from being soiled with his urine, while the other used to go about with calumnies (to make enmity between friends).” The Prophet (peace be upon him) then took a green leaf of a date-palm tree, split it into two (pieces) and fixed one on each grave. They said, “O Allah’s Messenger (peace be upon him)! Why have you done so?” He replied: “I hope that their punishment might be lessened till these (the pieces of the leaf) become dry.”**" Collected by Al-Bukhari [^1]. 
+
+Is it permissible for us to follow the example of the Prophet (peace be upon him) in putting other similar green plants on the grave or planting an ever green tree over it for the purpose mentioned in the Hadith? 
 
 Answer:
 
@@ -32,4 +34,4 @@ Placing a green leaf of a date-palm tree over the two graves hoping that Allah w
 
 ---
 
-[^1]: Al-Bukhari, Sahih, Book on Wudu', no. 218; Muslim, Sahih, Book on purification, no. 292; Al-Tirmidhy, Sunan, Book on purification, no. 70; Al-Nasa'i, Sunan, Book on funerals, no. 2068; Abu Dawud, Sunan, Book on purification, no. 20; Ibn Majah, Sunan, Book on purification and its Sunan, no. 347; Ahmad, Musnad, vol. 1, p. 225; and Al-Darimy, Sunan, Book on purification, no. 739.
+[^1]: Al-Bukhari, Sahih, Book on Wudu', no. 218; Muslim, Sahih, Book on purification, no. 292; Al-Tirmidhi, Sunan, Book on purification, no. 70; Al-Nasa'i, Sunan, Book on funerals, no. 2068; Abu Dawud, Sunan, Book on purification, no. 20; Ibn Majah, Sunan, Book on purification and its Sunan, no. 347; Ahmad, Musnad, vol. 1, p. 225; and Al-Darimi, Sunan, Book on purification, no. 739.
