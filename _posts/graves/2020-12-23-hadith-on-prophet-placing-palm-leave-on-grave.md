@@ -3,11 +3,11 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Hadith about The Prophet putting a palm leave on the graves"
 hijri: "Jumada Al-Awwal 8, 1442 AH"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 9886-2"
+source: "Fatawa Al-Lajnah Al-Da'imah no. 1333-3"
 lang: en
 category: [adhab-qabr]
 note: true
-excerpt: "When the person dies and people bury him in the grave, two angels come to ask him about his Lord, his prophet, and his religion. The angels will speak to him in a language that he understands."
+excerpt: " This was not a regular practice of the Prophet, but was only done twice or thrice according to the number of incidents. The Prophet's Sahabah, being the earnest of men to follow the Prophet's line of conduct and to benefit their fellow Muslims, are not known to have performed this practice."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz
@@ -18,6 +18,8 @@ muftis:
   members: 
     - name: Shaykh Abdullah ibn Ghudayyan
       url: /biography/ghudayyan/
+    - name: Shaykh Abdullah ibn Mani'
+      url: /biography/mani/
 ---
 
 Question:
