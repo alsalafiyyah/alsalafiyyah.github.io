@@ -26,4 +26,6 @@ After death and burial, does a person see the Prophet (peace be upon him) in the
 
 Answer:
 
-When the person dies and people bury him in the grave, two angels come to ask him about his Lord, his prophet, and his religion. The angels will speak to him in a language that he understands. The believers will answer while the disbelievers will not. Even if many people die at the same time, the angels will ask them. There is nothing strange about this because angels are unlike humans. It is not authentically reported that the dead person sees the Prophet (peace be upon him) in the grave as far as we know. For further information in this regard and other relevant issues, refer to the books Al-`Aqidah Al-Wasitiyyah by Shaykhul-Islam Ibn Taymiyyah, and Al-Usoul Al-Thalathah by Shaykhul-Islam Muhammad ibn `Abdul-Wahhab. 
+When the person dies and people bury him in the grave, two angels come to ask him about his Lord, his prophet, and his religion. The angels will speak to him in a language that he understands. The believers will answer while the disbelievers will not. Even if many people die at the same time, the angels will ask them. There is nothing strange about this because angels are unlike humans. It is not authentically reported that the dead person sees the Prophet (peace be upon him) in the grave as far as we know. 
+
+For further information in this regard and other relevant issues, refer to the books Al-Aqidah Al-Wasitiyyah by Shaykhul-Islam Ibn Taymiyyah, and Al-Usoul Al-Thalathah by Shaykhul-Islam Muhammad ibn Abdul-Wahhab. 
