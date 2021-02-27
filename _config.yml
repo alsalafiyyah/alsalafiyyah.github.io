@@ -6,8 +6,9 @@ email: salafiyyah@outlook.sa
 author:
   name:         Instagram@Alsalafiyyah
   email:        alsalafiyyah@icloud.com
-encoding:         UTF-8
+
 github: [metadata]
+encoding:         UTF-8
 permalink: pretty
 paginate:       20
 paginate_path: "/fatwas/:num/"
