@@ -12,9 +12,7 @@ permalink: pretty
 paginate:       20
 paginate_path: "/fatwas/:num/"
 markdown:       kramdown
-timezone: Asia/Riyadh
 lang: en
-locales: ["en", "ar"]
 note:
     text: "May Allah grant us success. May peace and blessings be upon our Prophet, his family and Companions"
 include:
