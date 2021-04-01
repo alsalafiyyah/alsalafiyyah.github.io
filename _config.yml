@@ -2,13 +2,12 @@ title:          Salafiyyah
 description:    "Knowledge of Shari'ah"
 baseurl:        "/"
 url:            "https://alsalafiyyah.github.io"
-email: salafiyyah@outlook.sa
 author:
   name:         Instagram@Alsalafiyyah
   email:        alsalafiyyah@icloud.com
 
 github: [metadata]
-encoding:         UTF-8
+encoding: UTF-8
 timezone: America/New_York
 permalink: pretty
 paginate:       20
