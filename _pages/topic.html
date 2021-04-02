@@ -21,7 +21,7 @@ permalink: /topic/
 </ol>
 
 <article class="post">
-{% include search-form.liquid %}
+{% include search-form.html %}
 <select onchange="document.location.href=this.value">
   <option selected>Categories</option>
   {% for category in site.categories %}
