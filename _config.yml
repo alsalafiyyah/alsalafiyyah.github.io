@@ -10,9 +10,9 @@ github: [metadata]
 encoding: UTF-8
 timezone: America/New_York
 permalink: pretty
-paginate:       20
+paginate: 20
 paginate_path: "/fatwas/:num/"
-markdown:       kramdown
+markdown: kramdown
 lang: en
 note:
     text: "May Allah grant us success. May peace and blessings be upon our Prophet, his family and Companions"
