@@ -10,7 +10,7 @@ layout: default
   {% if site.date %}
    <meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">
   {% endif %}
-  {% include date.liquid %}
+  {% include date.html %}
  </span>
   <h3 itemprop="name headline">{{ page.title }}</h3>
 </header>
