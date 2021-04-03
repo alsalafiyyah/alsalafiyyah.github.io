@@ -2,14 +2,10 @@
 <html>
 {% include head.html %}
 <body  onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}" class="transparent grey lighten-5">
- <div id="wrapper" class="fade-in">
-  <header id="header">
-   <a href="{{ site.url }}" class="logo">
-    {{ site.title }}
-   </a>
- </header>
  {% include sidenav.html %}
- <div id="main">
+ <div id="wrapper" class="fade-in">
+ {% include header.html %}
+ <div id="main" class="content">
    {{ content }}
  </div>
 <!-- Footer -->
