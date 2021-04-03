@@ -33,3 +33,18 @@ layout: default
       </ul>
      </div>
     </div>
+
+    <div class="card radius black-text">
+     <div class="card-content">
+      <ul class="collection with-header border-0">
+        <li class="collection-header">
+        <span class="card-title">Picked for you <a href="{{ '/wahhabism/' | prepend:site.baseurl }}" class="secondary-content">View all</a></span>
+        </li>
+   {% for c in site.wahhabism | limit:5 %}
+     <a class="collection-item waves-effect waves-grey block " itemprop="url" title="{{ c.title }}" href="{{ c.url }}">
+      <span itemprop="name">{{ c.title }}</span>
+          </a>
+    {% endfor %}
+      </ul>
+     </div>
+    </div>
