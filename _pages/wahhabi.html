@@ -7,19 +7,13 @@ locale: en
 permalink: /wahhabism/
 ---
 
-<div itemscope itemtype="https://schema.org/Table">
-  <table class="bordered">
-    <tbody>
+      <div class="collection">
       {% for c in site.wahhabism %}
-      <tr>
-        <td>{{ c.hijri }}</td>
-        <td>
-          <a title="{{ c.title }}" href="{{ c.url }}">{{ c.title }}</a>
-        </td>
-      </tr>
-      {% else %}
-      <p{{site.data.settings.page.no-fatwas}}</p>
+       <a title="{{ c.title }}" href="{{ c.url }}" class="collection-item">
+         {{ c.title }}
+         <br/> {{ c.hijri }}
+       </a>
+       {% else %}
+       <p{{site.data.settings.page.no-fatwas}}</p>
       {% endfor %}
-    </tbody>
-  </table>
-</div>
+      </div>
