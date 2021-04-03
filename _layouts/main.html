@@ -8,6 +8,7 @@ layout: default
         <li class="collection-header">
         <span class="card-title">Latest Fatwas<a href="{{ '/fatwas/' | prepend:site.baseurl }}" class="secondary-content">View all</a></span>
         </li>
+   {% for post in site.posts limit:5 %}
     {% if post.url %}
      <a class="collection-item waves-effect waves-grey block " itemprop="url" title="{{ post.title }}" href="{{ post.url }}">
       <i class="fas fa-feather-alt"></i> <span itemprop="name">{{ post.title }}</span>
@@ -17,38 +18,3 @@ layout: default
      </div>
     </div>
 
-<article>
-   
-<div class="box">
-<h3><span class="icon solid fas fa-microphone-alt"> Latest Audios</h3>
-<ul class="posts" style="list-style: none;">
-   {% for c in site.audios | limit:5 %}
-    <li>
-     <a itemprop="url" title="{{ c.title }}" href="{{ c.url }}">
-      <i class="fas fa-volume-up"></i> <span itemprop="name">{{ c.title }}</span>
-     </a>
-    </li>
-   {% else %}
-   <p>There are content yet.</p>
-  {% endfor %}
-</ul>
-<a href="{{ '/audios' | prepend:site.baseurl }}">View all</a>
-</div>
-
-<div class="box">
-<h3><span class="icon solid fas fa-microphone-alt"> Featured</h3>
-<ul class="posts" style="list-style: none;">
-   {% for c in site.wahhabism | limit:5 %}
-    <li>
-     <a itemprop="url" title="{{ c.title }}" href="{{ c.url }}">
-      <i class="fas fa-volume-up"></i> <span itemprop="name">{{ c.title }}</span>
-     </a>
-    </li>
-   {% else %}
-   <p>There are content yet.</p>
-  {% endfor %}
-</ul>
-<a href="{{ '/wahhabism/' | prepend:site.baseurl }}">View all</a>
-</div>
-  
-</article>
