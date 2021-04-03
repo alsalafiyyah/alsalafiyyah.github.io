@@ -12,10 +12,10 @@ locale: en
             <div class="card-content white-text">
               <span class="card-title">{{ post.title }}</span>
               {{ post.content | strip_html | truncatewords: 30 }}
-              {{ post.hijri }}
             </div>
             <div class="card-action">
-              <a href="{{ post.url | prepend: site.baseurl }}">Read more</a>
+              <span class="white-text">{{ post.hijri }}</span>
+              <a class="secondary-content" href="{{ post.url | prepend: site.baseurl }}">More</a>
             </div>
           </div>
          {% endfor %}
