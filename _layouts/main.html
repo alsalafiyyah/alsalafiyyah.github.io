@@ -23,7 +23,7 @@ layout: default
      <div class="card-content">
       <ul class="collection with-header border-0">
         <li class="collection-header">
-        <span class="card-title">Latest Fatwas<a href="{{ '/fatwas/' | prepend:site.baseurl }}" class="secondary-content">View all</a></span>
+        <span class="card-title">Latest Fatwas<a href="{{ '/audios/' | prepend:site.baseurl }}" class="secondary-content">View all</a></span>
         </li>
    {% for c in site.audios | limit:5 %}
      <a class="collection-item waves-effect waves-grey block " itemprop="url" title="{{ c.title }}" href="{{ c.url }}">
