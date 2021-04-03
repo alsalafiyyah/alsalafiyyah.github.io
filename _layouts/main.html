@@ -10,7 +10,7 @@ layout: default
         </li>
    {% for post in site.posts limit:5 %}
     {% if post.url %}
-     <a class="collection-item waves-effect waves-grey block " itemprop="url" title="{{ post.title }}" href="{{ post.url }}">
+     <a class="collection-item waves-effect waves-grey block black-text" itemprop="url" title="{{ post.title }}" href="{{ post.url }}">
       <i class="fas fa-feather-alt"></i> <span itemprop="name">{{ post.title }}</span>
           </a>
     {% endif %}
@@ -26,7 +26,7 @@ layout: default
         <span class="card-title">Latest Audios <a href="{{ '/audios/' | prepend:site.baseurl }}" class="secondary-content">View all</a></span>
         </li>
    {% for c in site.audios | limit:5 %}
-     <a class="collection-item waves-effect waves-grey block " itemprop="url" title="{{ c.title }}" href="{{ c.url }}">
+     <a class="collection-item waves-effect waves-grey block black-text" itemprop="url" title="{{ c.title }}" href="{{ c.url }}">
       <span itemprop="name">{{ c.title }}</span>
           </a>
     {% endfor %}
@@ -41,7 +41,7 @@ layout: default
         <span class="card-title">Picked for you <a href="{{ '/wahhabism/' | prepend:site.baseurl }}" class="secondary-content">View all</a></span>
         </li>
    {% for c in site.wahhabism | limit:5 %}
-     <a class="collection-item waves-effect waves-grey block " itemprop="url" title="{{ c.title }}" href="{{ c.url }}">
+     <a class="collection-item waves-effect waves-grey block black-text" itemprop="url" title="{{ c.title }}" href="{{ c.url }}">
       <span itemprop="name">{{ c.title }}</span>
           </a>
     {% endfor %}
