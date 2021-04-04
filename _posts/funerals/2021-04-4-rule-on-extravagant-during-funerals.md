@@ -20,7 +20,7 @@ This is baseless; it is a Bid'ah (innovation in Islam), Munkar (that which is un
 
 Jarir ibn 'Abdullah Al-Bajaly (may Allah be pleased with him), a noble Companion of the Prophet, said, "We considered gathering in the house of the bereaved family and cooking food after burial an act of wailing." (Related by Imam Ahmad with a good Isnad (chain of narration)).
 
-The Sahabah (Companions of the Prophet) considered wailing prohibited, as the Prophet (peace be upon him) forbade it. However, it is permissible for relatives and neighbors to send them meals, as they are too grieved to think of cooking. When the Prophet (peace be upon him) was told of the death of Ja'far ibn Abu Talib (may Allah be pleased with him) in the Battle of Mu'tah in Jordan, he (peace be upon him) asked his family to send meals to Ja'far's family, as "they were too grieved then." ^1]
+The Sahabah (Companions of the Prophet) considered wailing prohibited, as the Prophet (peace be upon him) forbade it. However, it is permissible for relatives and neighbors to send them meals, as they are too grieved to think of cooking. When the Prophet (peace be upon him) was told of the death of Ja'far ibn Abu Talib (may Allah be pleased with him) in the Battle of Mu'tah in Jordan, he (peace be upon him) asked his family to send meals to Ja'far's family, as "they were too grieved then." [^1]
 
 As for the bereaved family, they should not serve food for other people, either on the first day, the third, fourth, tenth, or any other day. There is no wrong in cooking for themselves or their guests. What is prohibited is gathering people and serving them meals, as it is contradictory to the Sunnah (whatever is reported from the Prophet).
 
