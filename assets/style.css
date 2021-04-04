@@ -24,7 +24,9 @@ body {
   overflow: hidden;
   background-color: #333;
 }
-
+.margin-80 {
+  margin-top: 80px;
+}
 #navbar a {
   float: left;
   display: block;
