@@ -1,7 +1,7 @@
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1"/>
-<title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1"/>
+<title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }} – {{ site.description }}</title>
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-touch-fullscreen" content="yes">
@@ -15,15 +15,15 @@
 <meta name="format-detection" content="telephone=no">
 <link rel="apple-touch-icon" href="{{ '/assets/images/app-icon.png' | absolute_url }}">
 <link rel="apple-touch-icon-precomposed" href="{{ '/assets/images/app-icon.png' | absolute_url }}">
-  <meta name="keywords" content="{{ page.categories | join: ', ' }}"/>
-  <meta name="p:domain_verify" content="6a0545495b6d882089f54152a3ef5f2c"/>
-  <link rel="manifest" href="{{ "/manifest.json" | prepend: site.baseurl }}">
-  <link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/apple-touch-icon.png" | absolute_url }}">
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<meta name="keywords" content="{{ page.categories | join: ', ' }}"/>
+<meta name="p:domain_verify" content="6a0545495b6d882089f54152a3ef5f2c"/>
+<link rel="manifest" href="{{ "/manifest.json" | prepend: site.baseurl }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/apple-touch-icon.png" | absolute_url }}">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css"  media="screen,projection"/>
-  <link href="{{ '/assets/style.css' | absolute_url }}" rel="stylesheet">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
-  <meta property="og:image" content="{{ '/assets/images/fb.jpg' | absolute_url }}" />
+<link href="{{ '/assets/style.css' | absolute_url }}" rel="stylesheet">
+<link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+<meta property="og:image" content="{{ '/assets/images/fb.jpg' | absolute_url }}" />
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
 </head>
