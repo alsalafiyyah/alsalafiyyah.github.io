@@ -7,20 +7,7 @@ locale: en
 permalink: /audios/
 ---
 
-<ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
-  <li itemprop="itemListElement" itemscope
-          itemtype="https://schema.org/ListItem">
-    <a itemprop="item" href="{{ site.url }}"><span itemprop="name">Home</span></a>
-    <meta itemprop="position" content="1" />
-  </li>
-  <li itemprop="itemListElement" itemscope
-          itemtype="https://schema.org/ListItem">
-    <span itemprop="name" class="active">{{ page.title }}</span>
-    <meta itemprop="position" content="2" />
-  </li>
-</ol>
-
-<article>
+<div class="page-content white radius-page-content">
   <p><b>Terms and Conditions for Audios</b>. <br/>
     We put rough translations, 
     except that which was published in <a title="Instagram@Alsalafiyyah" href="https://instagram.com/Alsalafiyyah" target="_blank"><b>Instagram</b> <i class="fas fa-external-link-alt"></i></a>. 
@@ -28,8 +15,8 @@ permalink: /audios/
   <hr/>
 <ol>
   {% for c in site.audios %}
-  <li><a title="{{ c.title }}" href="{{ c.url }}">{{ c.title }}</a></li>
+  <li><a title="{{ c.title }}" href="{{ c.url }}" class="black-text">{{ c.title }}</a></li>
   {% endfor %}
 </ol>
-</article>
+</div>
 
