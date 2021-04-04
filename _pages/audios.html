@@ -13,10 +13,10 @@ permalink: /audios/
     except that which was published in <a title="Instagram@Alsalafiyyah" href="https://instagram.com/Alsalafiyyah" target="_blank"><b>Instagram</b> <i class="fas fa-external-link-alt"></i></a>. 
   </p>
   <hr/>
-<ol>
-  {% for c in site.audios %}
-  <li><a title="{{ c.title }}" href="{{ c.url }}" class="black-text">{{ c.title }}</a></li>
-  {% endfor %}
-</ol>
+      <div class="collection">
+        {% for c in site.audios %}
+        <a title="{{ c.title }}" href="{{ c.url }}" class="collection-item">{{ c.title }}</a>
+        {% endfor %}
+      </div>
 </div>
 
