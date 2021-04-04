@@ -2,19 +2,20 @@
 <html>
 {% include head.html %}
 <body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}" class="transparent grey lighten-5">
- {% include sidenav.html %}
- <div class="navbar-fixed grey lighten-5 z-depth-0 top-0">
-  <nav class="grey lighten-5 z-depth-0">
+ 
+ <div class="navbar-fixed">
+  <nav class="nav-extended grey lighten-5 black-text z-depth-0 top-0">
     <div class="nav-wrapper">
-      <ul class="show-on-med-and-down">
-        <li><a class="black-text" href="/"><i class="material-icons">keyboard_backspace</i></a></li>
-        <div class="right">
+      <a class="black-text brand-logo left" href="/"><i class="material-icons">keyboard_backspace</i></a>
+      <ul class="right show-on-med-and-down black-text">
         <li><a class="black-text modal-trigger" href="#share"><i class="material-icons">share</i></a></li>
-        </div>
       </ul>
     </div>
+    <div class="nav-content center grey lighten-4">
+      <span class="nav-title black-text">{{ page.title }}</span>
+    </div>
   </nav>
- </div>
+</div>
 
 <div class="page-content white radius-page-content">
  <div class="content black-text">
@@ -24,7 +25,7 @@
 </div>
 
  {% include modal-share.html %}
- {% include modal-info.html %}
  {% include scripts.html %}
+ 
  </body>
 </html>
