@@ -11,8 +11,8 @@ layout: default
    {% for post in site.posts limit:5 %}
     {% if post.url %}
      <a class="collection-item waves-effect waves-grey block black-text" itemprop="url" title="{{ post.title }}" href="{{ post.url }}">
-      <i class="fas fa-feather-alt"></i> <span itemprop="name">{{ post.title }}</span>
-          </a>
+      <span itemprop="name">{{ post.title }}</span>
+      </a>
     {% endif %}
     {% endfor %}
       </ul>
