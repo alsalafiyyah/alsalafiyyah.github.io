@@ -2,76 +2,13 @@
 layout: default
 ---
 
-<ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
-  <li itemprop="itemListElement" itemscope
-          itemtype="https://schema.org/ListItem">
-    <a itemprop="item" href="{{ site.url }}"><span itemprop="name">Home</span></a>
-    <meta itemprop="position" content="1" />
-  </li>
- <li itemprop="itemListElement" itemscope
-          itemtype="https://schema.org/ListItem">
-    <a itemprop="item" href="{{ site.url }}/audios"><span itemprop="name">Audios</span></a>
-    <meta itemprop="position" content="1" />
-  </li>
-  <li itemprop="itemListElement" itemscope
-          itemtype="https://schema.org/ListItem">
-    <span itemprop="name" class="active">{{ page.title }}</span>
-    <meta itemprop="position" content="3" />
-  </li>
-</ol>
-
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
- 
-<header class="major">
-  <h3 itemprop="name headline">{{ page.title }}</h3>
-</header>
-
-  <div itemprop="articleBody">
-  {% include player.html %}
-  <br/>
+<div class="content white radius-page-content">
+<div class="page-content">
+  <h4 itemprop="name headline">{{ page.title }}</h4>
+  {% include player.html %} <br/>
   {{ content }}
   {% include note.html %}
-  </div>
- 
-<hr/>
-<footer>
-  <div class="row">
-    <div class="col-6 col-12-small">
-      <dl>
-        {% if page.muftis %}
-        {% if page.muftis.shaykh %}
-        {% for shaykh in page.muftis.shaykh %}
-        <dd>
-          <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}">
-            {{ shaykh.name }}
-          </a>
-        </dd>
-        {% endfor %}
-        {% endif %}
-        {% endif %}
-      {% if page.translator %}
-      <dd>
-        Translator: {% if page.link %}<a href="{{ page.link }}" target="_blank" rel="nofollow">{{ page.translator }}</a>{% endif %}
-      <dd>
-      {% endif %}
-      </dl>
-    </div>
-    <div class="col-6 col-12-small">
-      <dl>
-        <dd>
-          <span class="date">
-            {% include date.html %}
-          </span>
-        </dd>
-        <dd>
-          <a href="mailto:alsalafiyah@icloud.com?subject=Report&body={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}">
-          <i class="fas fa-bug"></i> Report a mistake
-          </a>
-        </dd>
-        <dd>{% if page.date %}<meta content='{{ site.time }}' itemprop='dateModified'/><span id='last-modified' itemprop='dateModified'></span>{% endif %}</dd>
-        {% include share.html %}
-      </dl>
-    </div>
-  </div>
-</footer>
-</article>
+</div>
+</div>
+
+
