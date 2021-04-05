@@ -4,7 +4,7 @@
 <body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}" class="transparent grey lighten-5">
  {% include sidenav.html %}
 
-  <div class="navbar-fixed">
+ <div class="navbar-fixed">
   <nav class="nav-extended grey lighten-5 black-text z-depth-0 top-0">
     <div class="nav-wrapper">
       <a class="black-text brand-logo left" href="/"><i class="material-icons">keyboard_backspace</i></a>
@@ -12,13 +12,15 @@
         <li><a class="black-text modal-trigger" href="#share"><i class="material-icons">share</i></a></li>
       </ul>
     </div>
+  </nav>
+</div>
+  <nav class="nav-extended grey lighten-5 black-text z-depth-0 top-0">
     <div class="nav-content center grey lighten-5">
       <span class="custom-nav-title black-text">{{ page.title }}</span>
     </div>
   </nav>
-</div>
 
-<div class="page-content white radius-page-content margin-80">
+<div class="page-content white radius-page-content margin-0">
  <div class="content black-text">
  {{ content }}
 </div>
