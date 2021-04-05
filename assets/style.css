@@ -12,7 +12,9 @@ body {
 nav {
     color: #000 !important;
     background-color: #fafafa !important;
-    shadow: none !important'
+    box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    -webkit-box-shadow: none !important;
 }
 #tipue_search_input {
     max-width: 100% !important;
