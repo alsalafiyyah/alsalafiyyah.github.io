@@ -1,28 +1,31 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+<body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}" class="transparent grey lighten-5">
+ {% include sidenav.html %}
 
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <div class="navbar-fixed">
+  <nav class="nav-extended grey lighten-5 black-text z-depth-0 top-0">
+    <div class="nav-wrapper">
+      <a class="black-text brand-logo left" href="/"><i class="material-icons">keyboard_backspace</i></a>
+      <ul class="right show-on-med-and-down black-text">
+        <li><a class="black-text modal-trigger" href="#share"><i class="material-icons">share</i></a></li>
+      </ul>
+    </div>
+    <div class="nav-content center grey lighten-5">
+      <span class="custom-nav-title black-text">{{ page.title }}</span>
+    </div>
+  </nav>
+</div>
+
+<div class="page-content white radius-page-content margin-80">
+ <div class="content black-text">
+ {{ content }}
+</div>
+</div>
+
+ {% include modal-share.html %}
+ {% include scripts.html %}
  
-<header class="major">
- <meta content='{{ page.date | date_to_xmlschema }}' itemprop='dateModified'/>
- <span class="date">
-  {% if site.date %}
-   <meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">
-  {% endif %}
-  {% include date.html %}
- </span>
-  <h3 itemprop="name headline">{{ page.title }}</h3>
-</header>
-
-  <div itemprop="articleBody">
-  {{ content }} 
-  {% include post-source.html %}
-  </div>
- 
-</article>
-
-{% if site.date %}
-<meta content='{{ site.time }}' itemprop='dateModified'/>
-<p><small>Page last update at: {{ site.time | date: "%b %-d, %Y at %r Saudi Arabia Time" }}</small></p>
-{% endif %}
+ </body>
+</html>
