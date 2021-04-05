@@ -9,6 +9,9 @@ body {
     position: fixed;
     top: 0;
 }
+.hide {
+  display: none !important;
+}
 nav {
     color: #000 !important;
     background-color: #fafafa !important;
