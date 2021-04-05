@@ -1,0 +1,19 @@
+---
+layout: mypage
+title: "Fawa'id"
+active: fawaid
+uid: fawaid
+locale: en
+permalink: /fawaid/
+---
+
+      <div class="collection border-0">
+      {% for c in site.fawaid %}
+       <a title="{{ c.title }}" href="{{ c.url }}" class="collection-item waves-effect waves-grey block black-text">
+         {{ c.title }}
+         <br/> {{ c.hijri }}
+       </a>
+       {% else %}
+       <p{{site.data.settings.page.no-fatwas}}</p>
+      {% endfor %}
+      </div>
