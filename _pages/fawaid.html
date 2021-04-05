@@ -1,5 +1,5 @@
 ---
-layout: mypage
+layout: default
 title: "Fawa'id"
 active: fawaid
 uid: fawaid
@@ -7,13 +7,15 @@ locale: en
 permalink: /fawaid/
 ---
 
-      <div class="collection border-0">
-      {% for c in site.fawaid %}
-       <a title="{{ c.title }}" href="{{ c.url }}" class="collection-item waves-effect waves-grey block black-text">
-         {{ c.title }}
-         <br/> {{ c.hijri }}
-       </a>
-       {% else %}
-       <p{{site.data.settings.page.no-fatwas}}</p>
-      {% endfor %}
-      </div>
+        {% for c in site.fawaid %}
+          <div class="card blue-grey darken-1">
+            <div class="card-content white-text">
+              <span class="card-title">{{ c.title }}</span>
+                  {{ content }}
+            </div>
+            <div class="card-action">
+              <span class="white-text">{{ c.hijri }}</span>
+              <a class="secondary-content" href="{{ c.url }}">More</a>
+            </div>
+          </div>
+         {% endfor %}
