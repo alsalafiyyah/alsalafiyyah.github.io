@@ -3,9 +3,25 @@
 {% include head.html %}
 <body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}" class="transparent grey lighten-5">
  {% include sidenav.html %}
+ 
+ <div class="header grey lighten-5">
+  <a href="https://alsalafiyyah.github.io"><h3 class="brand-logo center black-text">{{ page.title }}</h3></a>
+  <div class="mysearch">
+   <meta itemprop="url" content="https://alsalafiyyah.github.io/"/>
+   <form action="/search" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction">
+   <meta itemprop="target" content="https://alsalafiyyah.github.io/search?q=salaf"/>
+   <input itemprop="query-input" class="search_input" id="tipue_search_input" type="text" name="q" placeholder="Search" pattern=".{3,}" title="At least 3 characters" required/>
+  </form>
+ </div>
+</div>
+<div id="navbar" class="grey lighten-5">
+ <a href="#" data-activates="slide-out" class="black-text button-collapse waves-effect waves-grey"><i class="material-icons">menu</i></a>
+</div>
+ 
  <div class="content grey lighten-5 white">
    {{ content }}
  </div>
+ 
  {% include scripts.html %}
  </body>
 </html>
