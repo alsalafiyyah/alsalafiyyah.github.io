@@ -87,6 +87,10 @@ collections:
     output: true
     active: audios
     permalink: /audios/:title/
+  fawaid:
+    output: true
+    active: fawaid
+    permalink: /fawaid/:title/
     
         
 
