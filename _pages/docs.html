@@ -12,6 +12,28 @@ permalink: /docs/
     {% endfor %}
   </select>
 
+  <!-- Modal Trigger -->
+  <a class="waves-effect waves-light btn modal-trigger" href="#modal1">Categories</a>
+
+  <!-- Modal Structure -->
+  <div id="modal1" class="modal bottom-sheet">
+    <div class="modal-content">
+      <h4>Categories</h4>
+       <ul class="collection border-0">
+       {% for category in site.categories %}
+        <li class="collection-item">
+         <a class="waves-effect waves-grey block black-text" href="{{ site.baseurl }}/category/{{ category[0] }}">
+           {{ category[0] | capitalize }}
+          <span class="secondary-content">
+           {{ category[1].size }}
+          </span>
+         </a>
+        </li>
+        {% endfor %}
+       </ul>
+    </div>
+  </div>
+
 <article>
  
 <div class="box">
