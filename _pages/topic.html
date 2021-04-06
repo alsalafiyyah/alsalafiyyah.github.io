@@ -7,32 +7,7 @@ locale: en
 permalink: /topic/
 ---
 
-<ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
-  <li itemprop="itemListElement" itemscope
-          itemtype="https://schema.org/ListItem">
-    <a itemprop="item" href="{{ site.url }}"><span itemprop="name">Home</span></a>
-    <meta itemprop="position" content="1" />
-  </li>
-  <li itemprop="itemListElement" itemscope
-          itemtype="https://schema.org/ListItem">
-    <span itemprop="name" class="active">{{ page.title }}</span>
-    <meta itemprop="position" content="2" />
-  </li>
-</ol>
-
-<article class="post">
-{% include search-form.html %}
-<select onchange="document.location.href=this.value">
-  <option selected>Categories</option>
-  {% for category in site.categories %}
-  <option value="{{ site.baseurl }}/category/{{ category[0] }}">{{ category[0] | capitalize }} ({{ category[1].size }})</option>
-  {% endfor %}
-</select>
-<br/><br/>
-  
-<header class="major">
- <span class="date"><i class="fas fa-feather"></i></span>
-</header>
+<white class="white">
 
 <div class="row">
  <div class="col-6 col-12-small">
@@ -112,5 +87,5 @@ permalink: /topic/
 </ul>
 </div>
  
-</article>
+</div>
 
