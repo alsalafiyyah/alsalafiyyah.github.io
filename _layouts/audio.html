@@ -1,9 +1,15 @@
----
-layout: default
----
-
-{% include NavbarAudio.html %}
-<div class="audio-main black-text white">
-  {{ content }}
-  {% include note.html %}
-</div>
+<!DOCTYPE html>
+<html class="grey lighten-5">
+ {% include head.html %}
+<body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}" class="grey lighten-5">
+ {% include sidenav.html %}
+ <div class="container grey lighten-5">
+ {% include NavbarAudio.html %}
+  <div class="content">
+   {{ content }}
+   {% include note.html %}
+  </div>
+ </div>
+ {% include scripts.html %}
+ </body>
+</html>
