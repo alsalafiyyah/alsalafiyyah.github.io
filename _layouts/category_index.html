@@ -1,26 +1,7 @@
 ---
-layout: default
+layout: page
 ---
 
-<ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
-  <li itemprop="itemListElement" itemscope
-          itemtype="https://schema.org/ListItem">
-    <a itemprop="item" href="{{ site.url }}"><span itemprop="name">Home</span></a>
-    <meta itemprop="position" content="1" />
-  </li>
-  <li itemprop="itemListElement" itemscope
-          itemtype="https://schema.org/ListItem">
-    <a itemprop="item" href="{{ site.url }}/topic/"><span itemprop="name">Browse by topic</span></a>
-    <meta itemprop="position" content="2" />
-  </li>
-  <li itemprop="itemListElement" itemscope
-          itemtype="https://schema.org/ListItem">
-    <span itemprop="name" class="active">{{ page.title }}</span>
-    <meta itemprop="position" content="3" />
-  </li>
-</ol>
-
-<article>
   <ol>
     {% for p in site.categories[page.category] %}
       <li>
@@ -28,4 +9,3 @@ layout: default
       </li>
     {% endfor %}
   </ol>
-</article>
