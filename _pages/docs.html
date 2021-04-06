@@ -6,7 +6,7 @@ permalink: /docs/
 ---
 
   <select class="browser-default">
-    <option value="" disabled selected>Choose your option</option>
+    <option value="" disabled selected>Categories</option>
     {% for category in site.categories %}
     <option value="{{ site.baseurl }}/category/{{ category[0] }}">{{ category[0] | capitalize }} ({{ category[1].size }})</option>
     {% endfor %}
