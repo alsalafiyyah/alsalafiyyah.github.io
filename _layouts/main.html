@@ -1,51 +1,14 @@
----
-layout: default
----
-
-    <div class="card radius black-text">
-     <div class="card-content">
-      <ul class="collection with-header border-0">
-        <li class="collection-header">
-        <span class="card-title">Latest Fatwas<a href="{{ '/fatwas/' | prepend:site.baseurl }}" class="secondary-content">View all</a></span>
-        </li>
-   {% for post in site.posts limit:5 %}
-    {% if post.url %}
-     <a class="collection-item waves-effect waves-grey block black-text" itemprop="url" title="{{ post.title }}" href="{{ post.url }}">
-      <span itemprop="name">{{ post.title }}</span>
-      </a>
-    {% endif %}
-    {% endfor %}
-      </ul>
-     </div>
-    </div>
-
-    <div class="card radius black-text">
-     <div class="card-content">
-      <ul class="collection with-header border-0">
-        <li class="collection-header">
-        <span class="card-title">Latest Audios <a href="{{ '/audios/' | prepend:site.baseurl }}" class="secondary-content">View all</a></span>
-        </li>
-   {% for c in site.audios | limit:5 %}
-     <a class="collection-item waves-effect waves-grey block black-text" itemprop="url" title="{{ c.title }}" href="{{ c.url }}">
-      <span itemprop="name">{{ c.title }}</span>
-          </a>
-    {% endfor %}
-      </ul>
-     </div>
-    </div>
-
-    <div class="card radius black-text">
-     <div class="card-content">
-      <ul class="collection with-header border-0">
-        <li class="collection-header">
-        <span class="card-title">Featured <a href="{{ '/wahhabism/' | prepend:site.baseurl }}" class="secondary-content">View all</a></span>
-        </li>
-   {% for c in site.wahhabism | limit:5 %}
-     <a class="collection-item waves-effect waves-grey block black-text" itemprop="url" title="{{ c.title }}" href="{{ c.url }}">
-      <span itemprop="name">{{ c.title }}</span>
-          </a>
-    {% endfor %}
-      </ul>
-     </div>
-    </div>
-
+<!DOCTYPE html>
+<html class="grey lighten-5">
+ {% include head.html %}
+<body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}" class="grey lighten-5">
+ {% include sidenav.html %}
+ <div class="container grey lighten-5">
+ {% include header.html %}
+  <div class="content">
+   {{ content }}
+  </div>
+ </div>
+ {% include scripts.html %}
+ </body>
+</html>
