@@ -1,12 +1,9 @@
 <!DOCTYPE html>
 <html>
-{% include head.html %}
-<body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}" class="transparent grey lighten-5">
+ {% include head.html %}
+<body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}" class="transparent grey lighten-5 container">
  {% include sidenav.html %}
- {% include header.html %}
- <div class="content grey lighten-5">
-   {{ content }}
- </div>
+ {{ content }}
  {% include scripts.html %}
  </body>
 </html>
