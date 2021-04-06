@@ -9,6 +9,14 @@
   {% include NavbarGlobal.html %}
  {% endif %}
  
+ {% if page.url == "/" %}
+  {% include header.html %}
+ {% endif %}
+ 
+ {% if page.url == "/fatwas" %}
+  {% include header.html %}
+ {% endif %}
+ 
  {% if page.date %}
   {% include NavbarPost.html %}
  {% endif %}
