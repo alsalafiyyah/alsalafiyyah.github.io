@@ -2,10 +2,10 @@
 <html class="grey lighten-5">
  {% include head.html %}
 <body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}" class="grey lighten-5">
- {% include scripts.html %}
- <div class="container grey lighten-5">
  {% include sidenav.html %}
+ <div class="container grey lighten-5">
  {{ content }}
  </div>
+ {% include scripts.html %}
  </body>
 </html>
