@@ -47,7 +47,8 @@ nav {
 }
 #navbar {
   overflow: hidden;
-  background-color: #333;
+  width: 100%;
+  margin: 0 auto;
 }
 .margin-80 {
   margin-top: 80px;
