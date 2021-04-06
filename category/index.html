@@ -1,32 +1,16 @@
 ---
-layout: default
+layout: page
 ---
 
-<section class="small-intro">
-  <div class="container">
-    <h2>
-      All categories
-    </h2>
-  </div>
-</section>
-<section class="blog">
-  <div id="categories">
-    <div class="container">
-      {% for cat in site.categories %}
-      <div class="category">
-        {% for inner in cat%} {% if forloop.first == true %}
-        <span class="span-cat">
-          <a href="/categories/{{cat[0]}}">{{cat[0]}}</a></span
-        >
-        -
-        <span class="span-count">
-          <a href="/categories/{{cat[0]}}"
-            >{{site.categories[inner].size}}</a
-          ></span
-        >
-        {% endif %} {% endfor %}
-      </div>
-      {% endfor %}
-    </div>
-  </div>
-</section>
+       <ul class="collection border-0">
+       {% for category in site.categories %}
+        <li class="collection-item">
+         <a class="waves-effect waves-grey block black-text" href="{{ site.baseurl }}/category/{{ category[0] }}">
+           {{ category[0] | capitalize }}
+          <span class="secondary-content">
+           {{ category[1].size }}
+          </span>
+         </a>
+        </li>
+        {% endfor %}
+       </ul>
