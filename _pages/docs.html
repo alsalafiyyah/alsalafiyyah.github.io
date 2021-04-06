@@ -1,9 +1,16 @@
 ---
-layout: muqolat
+layout: page
 title: Docs
 active: muqolat
 permalink: /docs/
 ---
+
+  <select class="browser-default">
+    <option value="" disabled selected>Choose your option</option>
+    {% for category in site.categories %}
+    <option value="{{ site.baseurl }}/category/{{ category[0] }}">{{ category[0] | capitalize }} ({{ category[1].size }})</option>
+    {% endfor %}
+  </select>
 
 <article>
  
