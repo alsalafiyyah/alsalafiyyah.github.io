@@ -1,5 +1,5 @@
 ---
-layout: mypage
+layout: default
 title: "Wahhabiyah (Wahhabism)"
 active: wahhabiyah
 uid: wahhabiyah
@@ -7,6 +7,7 @@ locale: en
 permalink: /wahhabism/
 ---
 
+{% include NavbarGlobal.html %}
       <div class="collection border-0">
       {% for c in site.wahhabism %}
        <a title="{{ c.title }}" href="{{ c.url }}" class="collection-item waves-effect waves-grey block black-text">
