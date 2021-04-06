@@ -143,3 +143,20 @@ input:not([type]), input[type=text]:not(.browser-default), input[type=password]:
     border-top-right-radius: 20px !important;
     will-change: bottom, opacity;
 }
+.audio-navbar {
+  overflow: hidden;
+  background-color: #f5f5f5;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+audio::-webkit-media-controls-play-button,
+audio::-webkit-media-controls-panel {
+  background-color: #f5f5f5 !important;
+  width: 100% !important;
+}
+.audio-main {
+  padding: 16px;
+  margin-bottom: 30px;
+}
