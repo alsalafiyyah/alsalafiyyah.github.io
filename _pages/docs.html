@@ -5,7 +5,7 @@ active: muqolat
 permalink: /docs/
 ---
 
-  <select class="browser-default">
+  <select class="browser-default" onchange="document.location.href=this.value">
     <option value="" disabled selected>Categories</option>
     {% for category in site.categories %}
     <option value="{{ site.baseurl }}/category/{{ category[0] }}">{{ category[0] | capitalize }} ({{ category[1].size }})</option>
