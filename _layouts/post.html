@@ -4,4 +4,15 @@ active: fatwas
 ---
 
 {% include NavbarPost.html %}
-{{ content }}
+
+{% if page.date %}
+<div class="page-content white radius-page-content">
+ <div class="content black-text">
+ {{ content }}
+</div>
+</div>
+{% endif %}
+
+{% include modal-share.html %}
+{% include modal-info.html %}
+{% include scripts.html %}
