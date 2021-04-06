@@ -3,15 +3,8 @@ layout: page
 title: Categories
 ---
 
-      <ul class="collection border-0">
-       {% for category in site.categories %}
-        <li class="collection-item">
-         <a class="waves-effect waves-grey block black-text" href="{{ site.baseurl }}/category/{{ category[0] }}">
-           {{ category[0] | capitalize }}
-          <span class="secondary-content black-text">
-           {{ category[1].size }}
-          </span>
-         </a>
-        </li>
-        {% endfor %}
-      </ul>
+  <div class="collection border-0">
+   {% for category in site.categories %}
+    <a href="{{ site.baseurl }}/category/{{ category[0] }}" class="collection-item waves-effect waves-grey block black-text"><span class="badge" data-badge-caption="Fatwas">{{ category[1].size }}</span>{{ category[0] | capitalize }}</a>
+   {% endfor %}
+  </div>
