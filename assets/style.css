@@ -9,6 +9,9 @@ body {
     position: fixed;
     top: 0;
 }
+.side-nav {
+    height: 100% !important;
+}
 .hide {
   display: none !important;
 }
