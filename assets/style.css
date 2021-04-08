@@ -165,14 +165,14 @@ audio::-webkit-media-controls-panel {
 }
 @media (max-width: 599px) {
 .container {
-  width: auto;
+  width: 100%;
   display: block;
   margin: 8px;}
 }
 
 @media screen and (max-width: 992px) {
 .container {
-  width: auto;
+  width: 100%;
   display: block;
   margin: 8px;}
 }
@@ -180,7 +180,7 @@ audio::-webkit-media-controls-panel {
 /* On screens that are 600px or less, set the background color to olive */
 @media screen and (max-width: 600px) {
 .container {
-  width: auto;
+  width: 100%;
   display: block;
   margin: 8px;}
 }
