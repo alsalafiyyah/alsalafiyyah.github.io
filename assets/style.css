@@ -15,6 +15,29 @@ body {
 .hide {
   display: none !important;
 }
+.transparent {
+ background-color: none;
+ background: none;
+ box-shadow: none;
+ color: inherit;
+ margin-left: 10px;
+}
+.transparent:hover {
+ background-color: none;
+ background: none;
+ box-shadow: none;
+ color: inherit;
+}
+.back {
+ display: inline;
+ height: 54px;
+ line-height: 54px;
+ font-size: 15px;
+ }
+h4, h3, h2 {
+ font-size: 100%;
+ font-weight: 600;
+}
 nav {
     color: #000 !important;
     background-color: #fafafa !important;
