@@ -12,9 +12,6 @@ muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz
       url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
   members: 
     - name: Shaykh Abdul-Aziz Aal Al-Shaykh
       url: /biography/abdulaziz/
