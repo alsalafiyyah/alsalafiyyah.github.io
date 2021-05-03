@@ -8,7 +8,7 @@ active: home
      <div class="card-content">
       <ul class="collection with-header border-0">
         <li class="collection-header">
-        <span class="card-title">Latest Fatwas<a href="{{ '/fatwas/' | prepend:site.baseurl }}" class="secondary-content">View all</a></span>
+        <span class="card-title">Latest Fatwas<a href="{{ '/fatwas/' | prepend:site.baseurl }}" class="secondary-content waves-effect waves-teal btn-flat">View all</a></span>
         </li>
          {% for post in site.posts limit:5 %}
           {% if post.url %}
@@ -25,7 +25,7 @@ active: home
      <div class="card-content">
       <ul class="collection with-header border-0">
         <li class="collection-header">
-        <span class="card-title">Latest Audios <a href="{{ '/audios/' | prepend:site.baseurl }}" class="secondary-content">View all</a></span>
+        <span class="card-title">Latest Audios <a href="{{ '/audios/' | prepend:site.baseurl }}" class="secondary-content waves-effect waves-teal btn-flat">View all</a></span>
         </li>
         {% for c in site.audios | limit:5 %}
          <a class="collection-item waves-effect waves-grey block black-text" itemprop="url" title="{{ c.title }}" href="{{ c.url }}">
@@ -40,7 +40,7 @@ active: home
      <div class="card-content">
       <ul class="collection with-header border-0">
         <li class="collection-header">
-        <span class="card-title">Wahabiyyah <a href="{{ '/wahhabism/' | prepend:site.baseurl }}" class="secondary-content">View all</a></span>
+        <span class="card-title">Wahabiyyah <a href="{{ '/wahhabism/' | prepend:site.baseurl }}" class="secondary-content waves-effect waves-teal btn-flat">View all</a></span>
         </li>
          {% for c in site.wahhabism | limit:5 %}
           <a class="collection-item waves-effect waves-grey block black-text" itemprop="url" title="{{ c.title }}" href="{{ c.url }}">
@@ -55,7 +55,7 @@ active: home
      <div class="card-content">
       <ul class="collection with-header border-0">
         <li class="collection-header">
-        <span class="card-title">Al-Wala' Wal-Bara' <a href="{{ '/category/walabara/' | prepend:site.baseurl }}" class="secondary-content">View all</a></span>
+        <span class="card-title">Al-Wala' Wal-Bara' <a href="{{ '/category/walabara/' | prepend:site.baseurl }}" class="secondary-content waves-effect waves-teal btn-flat">View all</a></span>
         </li>
          {% for post in site.categories.walabara | limit:5 %}
           {% if post.url %}
