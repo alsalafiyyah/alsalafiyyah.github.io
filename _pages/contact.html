@@ -6,20 +6,11 @@ lang: en
 permalink: /contact/
 ---
 
-<form
-  action="https://formspree.io/f/xgerlryn"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="_replyto">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-
-  <!-- your other form fields go here -->
-
-  <button type="submit">Send</button>
+<form id="my-form" action="https://formspree.io/f/xgerlryn" method="POST">
+  <label>Email:</label>
+  <input type="email" name="email" />
+  <label>Message:</label>
+  <input type="text" name="message" />
+  <button id="my-form-button">Submit</button>
+  <p id="my-form-status"></p>
 </form>
