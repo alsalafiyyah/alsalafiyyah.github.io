@@ -4,7 +4,8 @@
 <body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}" class="grey lighten-5">
  {% include sidenav.html %}
  <div class="container grey lighten-5">
- {% include NavbarAudio.html %}
+ 
+  {% include player.html %}
   <div class="content">
    {{ content }}
    {% include note.html %}
