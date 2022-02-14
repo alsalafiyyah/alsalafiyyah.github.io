@@ -1,0 +1,27 @@
+---
+layout: post
+publisher: alsalafiyyah@icloud.com
+title: "Anasheed"
+hijri: Rajab 13, 1443 AH
+source: "Al-Khutab Al-Mimbariyyah of Shaykh Salih Al-Fawzan p. 3/184-185"
+lang: en
+category: [sufis, Anasheed]
+note: false
+excerpt: "As for anasheed, then they are from the ways of the innovating Sufis, those who take their religion as play and amusement."
+muftis:
+  shaykh: 
+    - name: Shaykh Salih Al-Fawzan
+      url: /biography/fawzan/
+--- 
+
+Shaykh Salih Al-Fawzan (may Allah preserve him) said: 
+
+What deserves attention also is: The tapes that are being increasingly circulated amongst the practicing youth in which anasheed done in group voices are recorded. They call them Islamic anasheed, but they are a form of singing and sometimes they occur with provocative voices. They can even be found being sold at tape exhibitions along with tapes of the noble Qur’an and religious lectures. Calling these anashid ‘Islamic’ is incorrect, since Islam has not legislated anasheed for us. Rather, it only prescribed for us the remembrance of Allah (Glorified be He), the recitation of the Qur’an, and the acquiring of beneficial knowledge. 
+
+As for anasheed, then they are from the ways of the innovating Sufis, those who take their religion as play and amusement. Furthermore, taking anashid as part of the religion contains in it imitation of the disbelievers, i.e. those who make their religion into collective chanting and musical melodies. 
+
+It is an obligation to warn against these anasheed and prevent their sale and distribution. In addition to this, these anasheed contain an incitement towards fitnah with reckless zeal and they cause instigation amongst the Muslims. Those who spread these anasheed justify it by claiming that poems would be chanted in the presence of the Prophet ﷺ and he would listen to them and concur with that. 
+
+The response to this is that those poems that would be chanted in front of Allah’s Messenger ﷺ would not be chanted in a group voice in the form of singing, and they would not be called ‘Islamic anashid.' On the contrary, they were just Arab poems that contained points of wisdom, parables, and descriptions of valor and nobility. The Companions (may Allah be pleased with them) would recite these individually due to the meanings they contained. And sometimes they would chant these poems at the time of doing some laborious work, such as construction and traveling at night on a journey. So this proves that this type of chanting is permissible under these similar specific circumstances, not that they should be made into one of the subjects of education and da’wah, as is prevalent nowadays, such that students are dictated these anasheed and call them: ‘Islamic hymns’ and ‘religious chants.’ This is innovating in the Religion and it is from the ways of the innovating Sufis, for they are the ones who are known to take these anasheed as part of their religion. 
+
+We must be cautious of their plots and prevent the sale of these tapes since evil at first begins small and then progresses if it is not terminated at its inception.
