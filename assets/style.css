@@ -247,11 +247,7 @@ audio::-webkit-media-controls-panel {
   nav {
     width: 100%;
   }
-  nav .brand-logo {
-    position: absolute;
-    color: #fff;
-    display: inline-block;
-    font-size: 1.1rem;
-    padding: 0;
+.brand-logo {
+    font-size: 100% !important;
 }
 }
