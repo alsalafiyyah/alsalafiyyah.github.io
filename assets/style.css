@@ -41,6 +41,16 @@ ion-icon {
 .input-field input[type=search]:focus:not(.browser-default) {
   background-color: transparent! important;
 }
+.input-field input[type=search] {
+    display: block;
+    line-height: inherit;
+  -webkit-transition-property: none;
+-moz-transition-property: none;
+-o-transition-property: none;
+transition-property: none;
+  transition: width 0s;
+
+}
 nav .input-field label i {
   color: #000;
 }
