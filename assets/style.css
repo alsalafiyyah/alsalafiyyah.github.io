@@ -8,6 +8,11 @@ body {
 ion-icon {
   font-size: 32px;
 }
+.menu {
+ text-align: center;
+ margin: 10px;
+}
+
 .navbar-fixed nav {
     position: fixed;
     top: 0;
