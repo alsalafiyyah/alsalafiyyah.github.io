@@ -5,6 +5,9 @@ body {
 .top-0 {
  top: 0;
 }
+ion-icon {
+  font-size: 32px;
+}
 .navbar-fixed nav {
     position: fixed;
     top: 0;
