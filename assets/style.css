@@ -8,11 +8,43 @@ body {
 ion-icon {
   font-size: 32px;
 }
+ion-icon {
+  --ionicon-stroke-width: 32px;
+}
 .menu {
  text-align: center;
  margin: 10px;
 }
-
+.search-form {
+ border: 2px solid black;
+ border-radius: 50px;
+}
+.mt20 {
+ margin-top: 20px;
+}
+/* Search Field */
+.input-field input[type=search]:focus:not(.browser-default) {
+  background-color: transparent! important;
+}
+nav .input-field label i {
+  color: #000;
+}
+/* Style Placeholders */
+::-webkit-input-placeholder {
+  color: #000;
+}
+::-moz-placeholder {
+  color:#000;
+}
+:-ms-input-placeholder {
+  color:#000;
+}
+::-ms-input-placeholder {
+  color: #000
+}
+::placeholder {
+  color: #000;
+}
 .navbar-fixed nav {
     position: fixed;
     top: 0;
