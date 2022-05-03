@@ -1,7 +1,7 @@
   <nav class="z-depth-0 transparent">
     <div class="nav-wrapper">
       <a href="{{ site.url }}" class="brand-logo center black-text">{{ site.title }}</a>
-      <div class="left valign-wrapper center-align menu">
+      <div class="left valign-wrapper center-align menu" id="navbar">
         <a href="#" class="black-text show-on-medium-and-up show-on-medium  show-on-small show-on-large show-on-medium-and-up show-on-medium-and-down sidenav-trigger" data-activates="slide-out">
          <ion-icon name="reorder-two-outline"></ion-icon>
         </a>
@@ -10,9 +10,9 @@
   </nav>
   <nav class="z-depth-0 transparent mt20">
     <div class="nav-wrapper container">
-      <form class="search-form" action="/search" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction">
+      <form class="search-form" action="/search">
         <div class="input-field">
-          <input itemprop="query-input" id="search" type="search" name="q" pattern=".{3,}" title="At least 3 characters" required>
+          <input id="search" type="search" name="q" pattern=".{3,}" title="At least 3 characters" required>
           <label class="label-icon" for="search"><i class="material-icons">search</i></label>
           <i class="material-icons">close</i>
         </div>
