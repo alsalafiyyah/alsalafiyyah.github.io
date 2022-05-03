@@ -232,3 +232,9 @@ audio::-webkit-media-controls-panel {
   display: block;
   margin: 0px;}
 }
+
+@media only screen and (max-width: 320px) {
+  nav {
+    width: 100%;
+  }
+}
