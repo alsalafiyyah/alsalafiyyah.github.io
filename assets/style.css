@@ -23,9 +23,9 @@ ion-icon {
  margin-top: 20px;
 }
 .custom-nav {
- border-radius: 30px;
+ border-top-right-radius: 30px;
+ border-bottom-right-radius: 30px;
  height: 100%! important;
- margin-left: 10px;
 }
 .bold {
  font-weight: 600;
