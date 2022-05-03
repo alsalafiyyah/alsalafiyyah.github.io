@@ -8,10 +8,21 @@
       </div>
     </div>
   </nav>
+  <nav class="z-depth-0 transparent mt20">
+    <div class="nav-wrapper container">
+      <form class="search-form" action="/search" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction">
+        <div class="input-field">
+          <input itemprop="query-input" id="search" type="search" name="q" pattern=".{3,}" title="At least 3 characters" required>
+          <label class="label-icon" for="search"><i class="material-icons">search</i></label>
+          <i class="material-icons">close</i>
+        </div>
+      </form>
+    </div>
+  </nav>
 <div class="header grey lighten-5 hide">
   <a href="{{ site.url }}"><h1 class="brand-logo center black-text">{{ site.title }}</h1></a>
   <div class="mysearch">
-<meta itemprop="url" content="https://alsalafiyyah.github.io/new"/>
+<meta itemprop="url" content="https://alsalafiyyah.github.io/"/>
 <form action="/search" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction">
  <meta itemprop="target" content="https://alsalafiyyah.github.io/search?q=salaf"/>
  <input itemprop="query-input" class="search_input" id="tipue_search_input" type="text" name="q" placeholder="Search" pattern=".{3,}" title="At least 3 characters" required/>
