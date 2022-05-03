@@ -22,6 +22,21 @@ ion-icon {
 .mt20 {
  margin-top: 20px;
 }
+.custom-nav {
+ border-radius: 30px;
+ height: 100%! important;
+ width: 200px;
+ margin-left: 10px;
+}
+.bold {
+ font-weight: 600;
+}
+.radius {
+  border-radius: 20px;
+}
+.border-0 {
+  border: 0;
+}
 /* Search Field */
 .input-field input[type=search]:focus:not(.browser-default) {
   background-color: transparent! important;
