@@ -3,6 +3,7 @@
 {% include head.html %}
 <body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}" class="transparent grey lighten-5">
  {% include sidenav.html %}
+<div class="container">
    <nav class="z-depth-0 transparent">
     <div class="nav-wrapper">
       <ul class="left show-on-medium-and-up show-on-medium  show-on-small show-on-large show-on-medium-and-up show-on-medium-and-down">
@@ -27,6 +28,8 @@
  
  <div class="content grey lighten-5 white">
    {{ content }}
+ </div>
+ 
  </div>
  
  {% include scripts.html %}
