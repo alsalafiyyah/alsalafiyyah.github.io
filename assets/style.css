@@ -1,6 +1,12 @@
-body {
-  margin: 0;
-  font-size: 100%;
+body, html {
+ height: 100%;
+ padding: 0;
+ margin: 0;
+}
+.container {
+ margin:0 auto;
+ height: 100%;  
+ min-height: 100%;
 }
 .top-0 {
  top: 0;
@@ -110,13 +116,6 @@ h4, h3, h2 {
  font-size: 100%;
  font-weight: 600;
 }
-nav {
-    color: #000 !important;
-    background-color: transparent !important;
-    box-shadow: none !important;
-    -moz-box-shadow: none !important;
-    -webkit-box-shadow: none !important;
-}
 #tipue_search_input {
     max-width: 100% !important;
     padding: 0px !important;
@@ -143,59 +142,13 @@ nav {
     padding: 18px 0;
     text-align: center;
 }
-#navbar {
-  overflow: hidden;
-  width: 100%;
-  margin: 0 auto;
-}
 .margin-80 {
   margin-top: 80px;
 }
-#navbar a {
-  float: left;
-  display: block;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-
 .content {
   padding: 16px;
 }
 
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
-  z-index: 100;
-}
-
-.sticky + .content {
-  padding-top: 60px;
-}
-      .radius {
-       border-radius: 20px;
-      }
-      .desc {
-       margin-top: 30px;
-      }
-      .margin-left {
-       margin-left: 30px;
-      }
-      .brand-logo {
-       font-size: 42px !important;
-      }
-      .card .card-title {
-       font-size: 16px;
-       font-weight: 300;}
-      .block {
-       display: block;
-      }
-      .border-0 {
-       border: 0;
-      }
 .side-nav {
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;
