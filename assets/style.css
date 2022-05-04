@@ -11,6 +11,9 @@ body, html {
 .top-0 {
  top: 0;
 }
+.collection, .collection-item, .collection-header {
+ background: none! important;
+}
 .nav-wrapper {
  height: 80px! important;
  padding: 8px 0;
