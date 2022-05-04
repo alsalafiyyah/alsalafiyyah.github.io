@@ -7,7 +7,7 @@ locale: en
 ---
 
          {% for post in paginator.posts %}
-          <div class="card blue-grey darken-1">
+          <div class="card grey darken-3">
             <div class="card-content white-text">
               <span class="card-title">{{ post.title }}</span>
               {{ post.content | strip_html | truncatewords: 30 }}
