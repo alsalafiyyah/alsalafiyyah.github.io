@@ -15,6 +15,9 @@ ion-icon {
  text-align: center;
  margin: 10px;
 }
+.drag-target {
+    width: 0px! important;
+}
 .search-form {
  border: 2px solid black;
  border-radius: 50px;
