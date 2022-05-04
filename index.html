@@ -80,20 +80,3 @@ active: home
         
     </div>
 
-
-    <div class="card radius black-text">
-     <div class="card-content">
-      <ul class="collection with-header border-0">
-        <li class="collection-header">
-        <span class="card-title"><b>Mawlids</b> <a href="{{ '/category/mawlids/' | prepend:site.baseurl }}" class="secondary-content waves-effect waves-teal btn-flat">View all</a></span>
-        </li>
-         {% for post in site.categories.mawlids | limit:5 %}
-          {% if post.url %}
-          <a class="collection-item waves-effect waves-grey block black-text" itemprop="url" href="{{ post.url }}">
-           <span itemprop="name">{{ post.title }}</span>
-          </a>
-          {% endif %}
-         {% endfor %}
-      </ul>
-     </div>
-    </div>
