@@ -184,6 +184,12 @@ audio::-webkit-media-controls-panel {
   padding: 16px;
   margin-bottom: 30px;
 }
+.container {
+    margin: 0 auto;
+    max-width: 100% important;
+    width: 90%;
+}
+
 @media (max-width: 599px) {
 .container {
   width: 100%;
