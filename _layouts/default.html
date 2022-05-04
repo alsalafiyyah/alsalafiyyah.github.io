@@ -5,6 +5,7 @@
  
  {% include sidenav.html %}
  
+ <div class="container">
  {% if request.page_type == 'collection' %}
   {% include NavbarGlobal.html %}
  {% endif %}
@@ -20,11 +21,11 @@
  {% if page.date %}
   {% include NavbarPost.html %}
  {% endif %}
- 
- <div class="container grey lighten-5">
+  
  {{ content }}
  </div>
  
  {% include scripts.html %}
+ 
  </body>
 </html>
