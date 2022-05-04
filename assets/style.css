@@ -5,6 +5,10 @@ body {
 .top-0 {
  top: 0;
 }
+.nav-wrapper {
+ height: 80px! important;
+ padding: 8px 0;
+}
 ion-icon {
   font-size: 32px;
 }
