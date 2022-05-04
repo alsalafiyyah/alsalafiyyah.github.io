@@ -18,6 +18,9 @@ ion-icon {
 .drag-target {
     width: 0px! important;
 }
+nav .sidenav-trigger {
+    margin: 0 0px! important;
+}
 .search-form {
  border: 2px solid black;
  border-radius: 50px;
