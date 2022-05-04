@@ -15,9 +15,7 @@ ion-icon {
  text-align: center;
  margin: 10px;
 }
-.drag-target {
-    width: 0px! important;
-}
+
 nav .sidenav-trigger {
     margin: 0 0px! important;
 }
