@@ -14,6 +14,11 @@ body, html {
 .collection, .collection-item, .collection-header {
  background: none! important;
 }
+.collection.with-header .collection-header {
+    background-color: none! important;
+    border-bottom: 1px solid #e0e0e0;
+    padding: 10px 20px;
+}
 .nav-wrapper {
  height: 80px! important;
  padding: 8px 0;
