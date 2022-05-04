@@ -110,7 +110,7 @@ h4, h3, h2 {
 }
 nav {
     color: #000 !important;
-    background-color: #fafafa !important;
+    background-color: transparent !important;
     box-shadow: none !important;
     -moz-box-shadow: none !important;
     -webkit-box-shadow: none !important;
