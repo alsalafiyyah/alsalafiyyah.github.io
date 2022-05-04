@@ -68,7 +68,7 @@ active: home
         </li>
          {% for post in site.categories.walabara | limit:5 %}
           {% if post.url %}
-          <a class="collection-item waves-effect waves-grey block black-text" itemprop="url" href="{{ post.url }}">
+          <a class="collection-item waves-effect waves-grey block white-text" itemprop="url" href="{{ post.url }}">
            <span itemprop="name">{{ post.title }}</span>
           </a>
           {% endif %}
