@@ -7,15 +7,15 @@
 $.fn.prayerTimes = function(options = {}) {
   const $this = this;
   const prayersList = [
-    "الفجر",
-    "الشروق",
-    "الظهر",
-    "العصر",
-    "الغروب",
-    "المغرب",
-    "العشاء",
-    "الإمساك",
-    "منتصف الليل"
+    "Ø§Ù„ÙØ¬Ø±",
+    "Ø§Ù„Ø´Ø±ÙˆÙ‚",
+    "Ø§Ù„Ø¸Ù‡Ø±",
+    "Ø§Ù„Ø¹ØµØ±",
+    "Ø§Ù„ØºØ±ÙˆØ¨",
+    "Ø§Ù„Ù…ØºØ±Ø¨",
+    "Ø§Ù„Ø¹Ø´Ø§Ø¡",
+    "Ø§Ù„Ø¥Ù…Ø³Ø§Ùƒ",
+    "Ù…Ù†ØªØµÙ Ø§Ù„Ù„ÙŠÙ„"
   ];
   const defaultOptions = {
     method: typeof options.method === 'undefined' ? 4 : options.method,
