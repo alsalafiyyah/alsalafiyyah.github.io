@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 {% for c in site.muqolat %}
@@ -47,24 +47,6 @@ layout: default
 
 <article class="post">
   
-<ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
-  <li itemprop="itemListElement" itemscope
-          itemtype="https://schema.org/ListItem">
-    <a itemprop="item" href="{{ site.url }}"><span itemprop="name">Home</span></a>
-    <meta itemprop="position" content="1" />
-  </li>
-  <li itemprop="itemListElement" itemscope
-          itemtype="https://schema.org/ListItem">
-    <a itemprop="item" href="/muqolat/"><span itemprop="name">Muqolat</span></a>
-    <meta itemprop="position" content="2" />
-  </li>
-  <li itemprop="itemListElement" itemscope
-          itemtype="https://schema.org/ListItem">
-    <span itemprop="name">{{ page.title }}</span>
-    <meta itemprop="position" content="3" />
-  </li>
-</ol>
-  
 <header class="major">
   <h3 class="post-title">{{ page.title }}</h3>
 </header>
@@ -88,18 +70,20 @@ layout: default
   
 </article>
 
-<div id="post-nav" class="clearfix nav-slide">
-    <div class="work">    
-        {% if prevPost.url %}
-        <a class="prev" href="{{prevPost.url}}">
-          <span class="slide-wrap"><i class="fas fa-arrow-left"></i> <b>Previous:</b> {{prevPost.title}}</span>
-        </a> 
-        {% endif %} 
-        <br/>
-        {% if nextPost.url %} 
-        <a class="next" href="{{nextPost.url}}">
-          <b>Next:</b> <span class="slide-wrap">{{nextPost.title}} <i class="fas fa-arrow-right"></i></span>
-        </a> 
-        {% endif %} 
-    </div>
-</div>
+  <ul class="pagination">
+    {% if prevPost.url %}
+     <li class="waves-effect">
+       <a href="{{prevPost.url}}">
+        <i class="material-icons">chevron_leftt</i> {{prevPost.title}}
+       </a>
+    </li>
+    {% endif %}
+    {% if nextPost.url %} 
+    <li class="waves-effect">
+      <a href="{{nextPost.url}}">
+        {{nextPost.title}} <i class="material-icons">chevron_right</i>
+      </a>
+    </li>
+    {% endif %}
+  </ul>
+
