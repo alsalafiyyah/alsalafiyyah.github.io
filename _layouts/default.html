@@ -6,23 +6,25 @@
  {% include sidenav.html %}
  
  <div class="container">
+  
  {% if request.page_type == 'collection' %}
-  {% include NavbarGlobal.html %}
+  {% include navbar.html %}
  {% endif %}
  
  {% if page.url == "/" %}
-  {% include header.html %}
+  {% include navbar.html %}
  {% endif %}
  
  {% if page.url == "/fatwas/index.html" %}
-  {% include header.html %}
+  {% include navbar.html %}
  {% endif %}
  
  {% if page.date %}
-  {% include NavbarPost.html %}
+  {% include navbar.html %}
  {% endif %}
   
  {{ content }}
+  
  </div>
  
  {% include scripts.html %}
