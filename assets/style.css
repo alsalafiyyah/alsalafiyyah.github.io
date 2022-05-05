@@ -195,9 +195,9 @@ audio::-webkit-media-controls-panel {
 
 .playr {
   width: 100%;
-  background-color: #38354a;
+  background-color: #3e2723;
   padding: 10px;
-  color: #d2d9e5;
+  color: #efebe9;
 }
 
 .playr-ui {
@@ -227,7 +227,7 @@ audio::-webkit-media-controls-panel {
 }
 
 .playr-controls button {
-  color: #d2d9e5;
+  color: #efebe9;
   background-color: transparent;
   border: medium none;
   padding: 0;
@@ -269,7 +269,7 @@ audio::-webkit-media-controls-panel {
 }
 
 .playr-progress {
-  background-color: #5f6672;
+  background-color: #efebe9;
   height: 4px;
   bottom: 2px;
   left: 15px;
@@ -279,7 +279,7 @@ audio::-webkit-media-controls-panel {
 }
 
 .playr-progress-bar {
-  background-color: #d2d9e5;
+  background-color: #795548;
   height: 100%;
   transform: scale3d(0, 1, 1);
   transform-origin: 0 0 0;
@@ -328,7 +328,7 @@ audio::-webkit-media-controls-panel {
 }
 
 .playr-volume-box {
-  background-color: #5f6672;
+  background-color: #efebe9;
   height: 4px;
   width: 100%;
   cursor: pointer;
@@ -336,7 +336,7 @@ audio::-webkit-media-controls-panel {
 
 .playr-volume-box span {
   display: block;
-  background-color: #d2d9e5;
+  background-color: #795548;
   height: 100%;
   width: 100%;
   transform: scale3d(1, 1, 1);
