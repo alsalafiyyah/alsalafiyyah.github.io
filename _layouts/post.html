@@ -1,18 +1,13 @@
 ---
-layout: default
+layout: page
 active: fatwas
 ---
 
 {% if page.date %}
-<div class="page-content white radius-page-content">
  <div class="content black-text">
- <h3>{{ page.title }}</h3>
  {{ content }}
  {% include info.html %}
 </div>
-</div>
 {% endif %}
 
-{% include modal-share.html %}
-{% include modal-info.html %}
 {% include scripts.html %}
