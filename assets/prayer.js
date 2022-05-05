@@ -1,132 +1,129 @@
-this.ignoreTimes = ['Sunrise', 'Sunset', 'Midnight'];
-this.hijriMonths = {
- 1: "Muharram",
- 2: "Safar",
- 3: "Rabi' Al-Awwal",
- 4: "Rabi' Al-Thani",
- 5: "Juma Al-Awwal",
- 6: "Juma Al-Thani",
- 7: "Rajab",
- 8: "Sha'ban",
- 9: "Ramadan",
- 10: "Shawwal",
- 11: "Dhul Qi'dah",
- 12: "Dhul-Hijjah"
-};
-init();
-function init() {
- this.prayerData = JSON.parse(window.localStorage.getItem('prayerData'));
- if (this.prayerData && this.prayerData.date) {
-  var nowDate = new Date();
-  var thenDate = new Date(this.prayerData.date);
-  if (
-   nowDate.getYear() > thenDate.getYear() ||
-   nowDate.getMonth() > thenDate.getMonth() ||
-   nowDate.getDate() > thenDate.getDate()
-  ) {
-    fetchDataPrayer()
-   } else {
-    fillData(this.prayerData.data);
-   }
- } else {
-  fetchDataPrayer();
- }
-}
+/*
+* Name: jquery-prayer-times
+* Author: Muhammad Mabrouk
+* NPM: https://www.npmjs.com/package/jquery-prayer-times
+* GitHub: https://github.com/MuhammadMabrouk/jquery-prayer-times
+*/
+$.fn.prayerTimes = function(options = {}) {
+  const $this = this;
+  const prayersList = [
+    "الفجر",
+    "الشروق",
+    "الظهر",
+    "العصر",
+    "الغروب",
+    "المغرب",
+    "العشاء",
+    "الإمساك",
+    "منتصف الليل"
+  ];
+  const defaultOptions = {
+    method: typeof options.method === 'undefined' ? 4 : options.method,
+    school: typeof options.school === 'undefined' ? 0 : options.school,
+    city: options.city || null,
+    country: options.country || null,
+    imsak: typeof options.imsak === 'undefined' ? true : options.imsak,
+    sunrise: typeof options.sunrise === 'undefined' ? true : options.sunrise,
+    sunset: typeof options.sunset === 'undefined' ? true : options.sunset,
+    midnight: typeof options.midnight === 'undefined' ? true : options.midnight,
+    arabic: typeof options.arabic === 'undefined' ? false : options.arabic,
+    militaryTime: typeof options.militaryTime === 'undefined' ? true : options.militaryTime,
+    outputEl: options.outputEl || 'table'
+  };
+  const savedData = JSON.parse(localStorage.getItem('jquery-prayer-times'));
 
+  // get prayer times
+  function getPrayerTimes({city, country}) {
+    const url = `https://api.aladhan.com/v1/timingsByCity?midnightMode=1&method=${defaultOptions.method}&school=${defaultOptions.school}&city=${city}&country=${country}`;
 
-function fetchDataPrayer() {
- fetch('https://api.pray.zone/v2/times/today.json?city=taif')
-  .then(response => {
-    return response.json()
-  })
-  .then(data => {
-    // Work with JSON data here
-    if (data.code === 200) {
-     window.localStorage.setItem('prayerData', JSON.stringify({'date': new Date(), 'data': data}));
-     fillData(data);
+    // get data if first time or new day or different queries
+    if (!savedData || (savedData && (compareTime(savedData.timestamp) > 0 || url !== savedData.lastQueries))) {
+      $.get(url, res => {
+        // save in localStorage
+        localStorage.setItem('jquery-prayer-times', JSON.stringify({
+          lastQueries: url,
+          value: res,
+          timestamp: getFormattedDate()
+        }));
+
+        // generate output content
+        $this.html(generateOutput(res.data.timings));
+      });
+
+    } else {
+
+      // generate output content
+      $this.html(generateOutput(savedData.value.data.timings));
     }
-  })
-  .catch(err => {
-    // Do something for an error here
-  })
-}
-
-function fillData(data) {
- var hijriDate = data.results.datetime[0].date.hijri;
- var times = data.results.datetime[0].times;
- fillPrayerTable(times);
- fillHijriDate(hijriDate);
-}
-
-function fillPrayerTable(times) {
-  var id = 1;
-  var currentD = new Date();
-  var options = {
-     timeZone: 'Asia/Riyadh',
-     hour: 'numeric', minute: 'numeric', second: 'numeric',
-  },
-     formatter = new Intl.DateTimeFormat([], options);
-  var currentTime = formatter.format(new Date());
-  var currentTimeArr = currentTime.split(':');
-  currentD.setHours(currentTimeArr[0], currentTimeArr[1], currentTimeArr[2]);
-  var nextPrayerFound = false;
-  for (var index in times) {
-   if (this.ignoreTimes.includes(index)) {
-    continue;
-   }
-   var timeElement = document.getElementById(id + '-time');
-   var nameElement = document.getElementById(id + '-name');
-   nameElement.innerText = index;
-   timeElement.innerText = times[index];
-   var prayerTime = new Date();
-   var timesArr = times[index].split(':');
-   prayerTime.setHours(timesArr[0],timesArr[1],0);
-   if (!nextPrayerFound && prayerTime >= currentD) {
-    var secondsLeft = parseInt((prayerTime - currentD)/1000);
-    nextPrayerFound = true;
-    nameElement.parentElement.parentElement.style.background = 'cyan';
-    timeElement.innerText += ' (Next prayer)';
-    var previousId = id - 1;
-    if (previousId === 0) {
-     previousId = 6;
-    }
-    var previousTimeElement = document.getElementById(previousId + '-time');
-    var previousNameElement = document.getElementById(previousId + '-name');
-    nextPrayerTime(secondsLeft, timeElement, previousTimeElement);
-    previousTimeElement.parentElement.parentElement.style.background = 'yellow';
-    previousTimeElement.innerText += ' (Passed prayer)';
-   }
-   id ++;
   }
-}
 
-function nextPrayerTime(secondsLeft, element, previousElement)
-{
- var span = document.createElement('span');
- element.appendChild(span);
- var interval = setInterval(function() {
-  if (secondsLeft > 0) {
-   var hours = String(parseInt(secondsLeft / 3600)).padStart(2, '0'); 
-   var minutes = String(parseInt((secondsLeft - (hours * 3600)) / 60)).padStart(2, '0');
-   var seconds = String(parseInt(secondsLeft % 60)).padStart(2, '0');
-   span.innerText = ' ' + hours + ':' + minutes + ':' + seconds;
-   secondsLeft--;
+  // generate output content
+  function generateOutput(timings) {
+    const container = (defaultOptions.outputEl === 'table') ? 'table' : 'ul';
+    const isArabic = defaultOptions.arabic ? true : false;
+    const is12Hr = defaultOptions.militaryTime ? false : true;
+    const name = (time, index) => isArabic ? prayersList[index] : time;
+    const formattedTime = (time) => is12Hr ? timeTo12HrFormat(time) : time;
+
+    let i = 0;
+    let content = `<${container}>`;
+    for (const time in timings) {
+      const timeName = name(time, i);
+      const timeValue = formattedTime(timings[time]);
+      if (!defaultOptions.imsak && time === 'Imsak') { i++; continue; };
+      if (!defaultOptions.sunrise && time === 'Sunrise') { i++; continue; };
+      if (!defaultOptions.sunset && time === 'Sunset') { i++; continue; };
+      if (!defaultOptions.midnight && time === 'Midnight') { i++; continue; };
+
+      content += `${container === 'table' ?
+        `<tr tabindex="0"><td>${timeName}</td><td>${timeValue}</td></tr>` :
+        `<li tabindex="0"><span>${timeName}</span><span>${timeValue}</span></li>`}`;
+      i++;
+    }
+    content += `</${container}>`;
+
+    return content;
+  }
+
+  // get date in nice format (return today's date by default)
+  function getFormattedDate(date = new Date()) {
+    const dd = String(date.getDate()).padStart(2, '0');
+    const mm = String(date.getMonth() + 1).padStart(2, '0'); // January is 0!
+    const yyyy = date.getFullYear();
+    const getFormattedDate = `${dd}/${mm}/${yyyy}`;
+  
+    return getFormattedDate;
+  }
+
+  // calculate the number of days between two dates
+  function compareTime(time) {
+    const todayDate = new Date(...getFormattedDate().split('/'));
+    const oldDate = new Date(...time.split('/'));
+    // hours * minutes * seconds * milliseconds
+    const oneDay = 24 * 60 * 60 * 1000;
+  
+    return Math.round(((todayDate - oldDate) / oneDay) / 365);
+  }
+
+  // convert time from 24 hour to 12 hour format
+  function timeTo12HrFormat(time) {
+    const timeArr = time.split(':');
+    const H = +timeArr[0];
+    const h = H % 12 || 12;
+    const am_pm = (H < 12 || H === 24) ? 'AM' : 'PM';
+    return `${`${h}`.padStart(2, '0')}:${timeArr[1]} ${am_pm}`;
+  }
+
+  // call 'getPrayerTimes' function
+  if (defaultOptions.city && defaultOptions.country) {
+    getPrayerTimes({city: defaultOptions.city, country: defaultOptions.country});
+
+    // if same day
+  } else if (savedData && (compareTime(savedData.timestamp) === 0)) {
+    const parameters = new URLSearchParams(savedData.lastQueries);
+    getPrayerTimes({city: parameters.get('city'), country: parameters.get('country')});
+
   } else {
-   clearInterval(interval);
-   previousElement.parentElement.parentElement.style.background = 'transparent';
-   element.appendChild(span);
-   init();
+    $.get("https://ipinfo.io/json", data => getPrayerTimes({ city: data.city, country: data.country }));
   }
- }, 1000
- )
- 
-}
-
-function fillHijriDate(date) {
- var dateSplitted = date.split('-');
- var dateStr = 'Not available for the moment';
- if (dateSplitted.length === 3) {
-  dateStr = dateSplitted[2] + ' ' + this.hijriMonths[parseInt(dateSplitted[1])] + ' ' + dateSplitted[0];
- }
- document.getElementById('hijri-date').innerText = dateStr;
 }
