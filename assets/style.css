@@ -401,33 +401,4 @@ nav i, nav [class^="mdi-"], nav [class*="mdi-"], nav i.material-icons {
    width: 100%! important;
 }
 }
-@media (max-width: 599px) {
-.container {
-  width: 100%;
-  display: block;
-  margin: 0px;}
-}
 
-@media screen and (max-width: 992px) {
-.container {
-  width: 100%;
-  display: block;
-  margin: 0px;}
-}
-
-/* On screens that are 600px or less, set the background color to olive */
-@media screen and (max-width: 600px) {
-.container {
-  width: 100%;
-  display: block;
-  margin: 0px;}
-}
-
-@media only screen and (max-width: 320px) {
-  nav {
-    width: 100%;
-  }
-.brand-logo {
-    font-size: 100% !important;
-}
-}
