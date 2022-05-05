@@ -43,7 +43,9 @@ nav .sidenav-trigger {
     line-height: 100px! important;
     margin: 0px! important;
 }
-
+.right {
+    padding-right: 5px;! important;
+}
 .search-form {
  border: 2px solid black;
  border-radius: 50px;
