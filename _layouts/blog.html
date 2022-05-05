@@ -43,17 +43,9 @@ layout: page
       {% assign getNext = 0 %}
     {% endif %}
   {% endfor %}
-{% endif %}
 
-<article class="post">
-  
-<header class="major">
-  <h3 class="post-title">{{ page.title }}</h3>
-</header>
-  {{ content }}
-  
-  <p>Posted on this site at <b>{% include date.html %}</b>
-  <br/>
+<p>Posted on this site at <b>{% include date.html %}</b></p>
+<p>
     {% if page.muftis %}
     Written by 
     {% if page.muftis.shaykh %}
@@ -66,11 +58,12 @@ layout: page
     {% if page.source %}
      in <b>{{ page.source }}</b>{% else %}<b>{{ site.source.name }}</b></a>
     {% endif %}
-  </p>
+    {% endif %}
+</p>
+  {{ content }}
   
-</article>
 
-  <ul class="pagination">
+  <ul class="pagination hide">
     {% if prevPost.url %}
      <li class="waves-effect">
        <a href="{{prevPost.url}}">
@@ -86,4 +79,3 @@ layout: page
     </li>
     {% endif %}
   </ul>
-
