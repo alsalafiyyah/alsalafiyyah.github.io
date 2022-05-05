@@ -6,8 +6,16 @@ locale: en
 permalink: /muqolat/
 ---
 
+{% for c in site.muqolat %}
+  <div class="section">
+    <h5><a title="{{ c.title }}" href="{{ c.url }}">{{ c.title }}</a></h5>
+    <p>{{ c.hijri }}</p>
+  </div>
+  <div class="divider"></div>
+{% endfor %}
+
 <article>
-<div class="table-wrapper" itemscope itemtype="https://schema.org/Table">
+<div class="table-wrapper" itemscope itemtype="https://schema.org/Table hide">
   <table>
     <tbody>
       {% for c in site.muqolat %}
