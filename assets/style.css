@@ -10,6 +10,9 @@ body, html {
 h3 {
     font-size: 34px! important;
 }
+.sidenav li>a {
+    font-size: 18px! important;
+}
 .top-0 {
  top: 0;
 }
