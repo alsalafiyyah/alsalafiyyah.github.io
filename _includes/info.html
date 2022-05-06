@@ -7,5 +7,11 @@
         {% endif %}
      </li>
      <li class="collection-item">{% include shaykh.html %}</li>
-     <li class="collection-item">Posted on this site: {% include date.html %}</li>
+     <li class="collection-item">Posted on this site: 
+       {% if page.hijri %}
+<b>{{ page.hijri }}</b>
+{% else %}
+<b>{{ site.hijri.name }}</b>
+{% endif %}
+      </li>
     </ul>
