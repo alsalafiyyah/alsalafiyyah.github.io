@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html class="grey lighten-5">
  {% include head.html %}
-<body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}" class="grey lighten-5">
+<body>
  {% include sidenav.html %}
- <div class="container grey lighten-5">
  {% include navbar.html %}
-  <div class="content">
+ <div class="container grey lighten-5">
    {{ content }}
-  </div>
  </div>
  {% include scripts.html %}
  </body>
