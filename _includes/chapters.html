@@ -1,6 +1,0 @@
-<ul>
-	{% for item in include.map %}
-	<li><a href="{{ item.url }}">{{ item.text }}</a></li>
-	{% if item.subitems %}{% include chapters.html map=item.subitems %}{% endif %}
-	{% endfor %}
-</ul>
