@@ -114,8 +114,6 @@ nav .input-field label i {
  background-color: none;
  background: none;
  box-shadow: none;
- color: inherit;
- margin-left: 10px;
 }
 .transparent:hover {
  background-color: none;
@@ -123,12 +121,6 @@ nav .input-field label i {
  box-shadow: none;
  color: inherit;
 }
-.back {
- display: inline;
- height: 54px;
- line-height: 54px;
- font-size: 15px;
- }
 h4, h3, h2 {
  font-weight: 600;
 }
