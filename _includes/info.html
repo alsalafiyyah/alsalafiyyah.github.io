@@ -1,6 +1,12 @@
     <ul class="collection border-0">
-     <li class="collection-item">Source: {% include source.html %}</li>
+     <li class="collection-item">Source: 
+        {% if page.source %}
+          <b>{{ page.source }}</b>
+          {% else %}
+          <b>{{ site.source.name }}</b>
+        {% endif %}
+     </li>
      <li class="collection-item">{% include shaykh.html %}</li>
      <li class="collection-item">Posted on this site: {% include date.html %}</li>
-     
+     <li>{% if page.date %}<meta content='{{ site.time }}' itemprop='dateModified'/><span id='last-modified' itemprop='dateModified'></span>{% endif %}</li>
     </ul>
