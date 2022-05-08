@@ -13,7 +13,7 @@ locale: en
               {{ post.content | strip_html | truncatewords: 30 }}
             </div>
             <div class="card-action">
-              <span class="white-text">{{ post.hijri }}</span>
+              <small><span class="white-text">{{ post.hijri }}</span></small>
               <a class="secondary-content hide" href="{{ post.url | prepend: site.baseurl }}">Read</a>
             </div>
           </div>
