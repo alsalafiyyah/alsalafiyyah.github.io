@@ -9,12 +9,12 @@ locale: en
          {% for post in paginator.posts %}
           <div class="card grey darken-3">
             <div class="card-content white-text">
-              <span class="card-title">{{ post.title }}</span>
+              <a href="{{ post.url | prepend: site.baseurl }}"> <span class="card-title">{{ post.title }}</span></a>
               {{ post.content | strip_html | truncatewords: 30 }}
             </div>
             <div class="card-action">
               <span class="white-text">{{ post.hijri }}</span>
-              <a class="secondary-content" href="{{ post.url | prepend: site.baseurl }}">Read</a>
+              <a class="secondary-content hide" href="{{ post.url | prepend: site.baseurl }}">Read</a>
             </div>
           </div>
          {% endfor %}
