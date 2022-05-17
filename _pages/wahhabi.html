@@ -1,13 +1,13 @@
 ---
-layout: page
-title: "Wahhabiyah (Wahhabism)"
-active: wahhabiyah
-uid: wahhabiyah
+layout: default
+title: "Wahabiyyah"
+active: wahabiyyah
+uid: wahabiyyah
 locale: en
-permalink: /wahhabism/
+permalink: /wahabism/
 ---
 
-      <div class="collection border-0">
+      <div class="collection border-0 hide">
       {% for c in site.wahhabism %}
        <a title="{{ c.title }}" href="{{ c.url }}" class="collection-item waves-effect waves-grey block black-text">
          {{ c.title }}
@@ -17,3 +17,13 @@ permalink: /wahhabism/
        <p{{site.data.settings.page.no-fatwas}}</p>
       {% endfor %}
       </div>
+
+{% for c in site.wahhabism %}
+  <div class="section">
+    <h5><a title="{{ c.title }}" href="{{ c.url }}" class="black-text">{{ c.title }}</a></h5>
+    <p>Posted on <b>{{ c.hijri }}</b></p>
+  </div>
+  <div class="divider"></div>
+{% else %}
+<p{{site.data.settings.page.no-fatwas}}</p>
+{% endfor %}
