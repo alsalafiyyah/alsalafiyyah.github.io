@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "His Eminence Shaykh Salih ibn Fawzan Al-Fawzan"
+title: "Shaykh Salih Ibn Fawzan Al-Fawzan"
 publisher: "alsalafiyyah@icloud.com"
 permalink: /biography/fawzan/
 ---
 
-His Eminence Shaykh Dr. Salih ibn Fawzan ibn 'Abdullah Al-Fawzan from the family of Fawzan from the people of Al-Shamasyah from the tribe of Al-Dawasir
+His Eminence Shaykh Dr. Salih Ibn Fawzan ibn 'Abdullah Al-Fawzan from the family of Fawzan from the people of Al-Shamasyah from the tribe of Al-Dawasir
 
 ### His Post:
 
