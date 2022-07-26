@@ -3,7 +3,7 @@ layout: global
 title: Categories
 ---
 
-  <div class="collection container border-0">
+  <div class="collection border-0">
    {% for category in site.categories %}
     <a href="{{ site.baseurl }}/category/{{ category[0] }}" class="collection-item waves-effect waves-grey block black-text"><span class="badge">{{ category[1].size }}</span>{{ category[0] | capitalize }}</a>
    {% endfor %}
