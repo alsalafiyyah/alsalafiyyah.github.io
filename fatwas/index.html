@@ -13,7 +13,16 @@ locale: en
               {{ post.content | strip_html | truncatewords: 30 }}
             </div>
             <div class="card-action">
-              <small><span class="white-text">{{ post.hijri }} {{ post.muftis }}</span></small>
+              <small>
+               <span class="white-text">
+                {{ post.hijri }} by 
+        {% if post.muftis.shaykh %}
+        {% for shaykh in post.muftis.shaykh %}
+          <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}"><b>{{ shaykh.name }}</b></a>
+        {% endfor %}
+        {% endif %}
+               </span>
+              </small>
               <a class="secondary-content hide" href="{{ post.url | prepend: site.baseurl }}">Read</a>
             </div>
           </div>
