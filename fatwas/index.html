@@ -18,7 +18,7 @@ locale: en
                 {{ post.hijri }} by 
         {% if post.muftis.shaykh %}
         {% for shaykh in post.muftis.shaykh %}
-          <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}"><b>{{ shaykh.name }}</b></a>
+        {{ shaykh.name }}
         {% endfor %}
         {% endif %}
 
