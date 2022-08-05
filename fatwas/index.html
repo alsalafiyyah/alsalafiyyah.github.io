@@ -21,6 +21,15 @@ locale: en
           <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}"><b>{{ shaykh.name }}</b></a>
         {% endfor %}
         {% endif %}
+
+        {% if post.muftis %}
+        {% if post.muftis.chairman %}
+        {% for chairman in post.muftis.chairman %}
+          {{ chairman.name }} & Others
+        {% endfor %}
+        {% endif %}
+        {% endif %}
+                        
                </span>
               </small>
               <a class="secondary-content hide" href="{{ post.url | prepend: site.baseurl }}">Read</a>
