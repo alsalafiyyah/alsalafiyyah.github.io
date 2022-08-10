@@ -15,7 +15,8 @@ locale: en
             <div class="card-action">
               <small>
                <span class="white-text">
-                {{ post.hijri }} by 
+                <i data-feather="calendar"></i> {{ post.hijri }} 
+                <i data-feather="feather"></i> 
         {% if post.muftis.shaykh %}
         {% for shaykh in post.muftis.shaykh %}
         {{ shaykh.name }}
