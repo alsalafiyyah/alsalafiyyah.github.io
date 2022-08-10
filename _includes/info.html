@@ -52,7 +52,8 @@
        {% else %} {{ site.hijri.name }} 
       </li>
       {% endif %}
-
+      
+      <li class="collection-item">{% if page.date %}<meta content='{{ site.time }}' itemprop='dateModified'/><span id='last-modified' itemprop='dateModified'></span>{% endif %}</li>
     </ul>
 </div>
 
