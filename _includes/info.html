@@ -1,4 +1,5 @@
 {% if page.date %}
+
 <div class="card-panel grey lighten-3">
     <ul class="collection border-0">
     
@@ -61,71 +62,4 @@
    </div>
   {% endif %}
 
-    
-<ul class="collection border-0 hide">
- <li class="collection-item">
-     <i data-feather="book-open"></i> 
- {% if page.source %}
-   <b>{{ page.source }}</b>
- {% else %}
-  <b>{{ site.source.name }}</b>
- {% endif %}
- </li>
-  
-<li class="collection-item">
-        {% if page.muftis %}
-        {% if page.muftis.chairman %}
-        <dt>{{ site.data.settings.page.chairman }}:</dt>
-        {% for chairman in page.muftis.chairman %}
-        <dd>
-          <a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">
-          {{ chairman.name }}
-          </a>
-        </dd>
-        {% endfor %}
-        {% else %}
-        {% endif %}
-        {% if page.muftis.deputy_chairman %}
-        <dt>{{site.data.settings.page.deputy_chairman}}:</dt>
-        {% for deputy_chairman in page.muftis.deputy_chairman %}
-        <dd>
-          <a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">
-          {{ deputy_chairman.name }}
-          </a>
-        </dd>
-        {% endfor %}
-        {% else %}
-        {% endif %}
-        {% if page.muftis.members %}
-        <dt>{{site.data.settings.page.members}}:</dt>
-        {% for members in page.muftis.members %}
-        <dd>
-          <a title="{{ members.name }}" href="{{ members.url | relative_url }}">
-          {{ members.name }}
-          </a>
-        </dd>
-        {% endfor %}
-        {% else %}
-        {% endif %}
- 
-        {% if page.muftis.shaykh %} <i data-feather="feather"></i>
-        {% for shaykh in page.muftis.shaykh %}
-        <dd>
-          <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}"><b>{{ shaykh.name }}</b></a>
-        </dd>
-        {% endfor %}
-        {% endif %}
- 
-        {% endif %}
- </li>
-<li class="collection-item">
-   <i data-feather="calendar"></i> 
-{% if page.hijri %}
- <b>{{ page.hijri }}</b>
-{% else %}
- <b>{{ site.hijri.name }}</b>
-{% endif %}
-</li>
-</ul>
-</div>
 {% endif %}
