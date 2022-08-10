@@ -1,6 +1,33 @@
 {% if page.date %}
 <div class="card-panel grey lighten-3">
-<ul class="collection border-0">
+    <ul class="collection border-0">
+    
+     {% if page.source %}
+      <li class="collection-item">
+       <i data-feather="calendar"></i> {{ page.source }} {% else %}
+     {% endif %}
+      </li>
+      
+   {% if page.muftis %}
+    {% if page.muftis.shaykh %}
+      {% for shaykh in page.muftis.shaykh %}
+      <li class="collection-item">
+       <i data-feather="feather"></i> <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}"><b>{{ shaykh.name }}</b></a>
+      </li>
+      {% endfor %}
+     {% endif %}
+    {% endif %}
+     
+      {% if page.hijri %}
+      <li class="collection-item">
+       <i data-feather="book-open"></i> {{ page.hijri }}
+       {% else %} {{ site.hijri.name }} 
+      </li>
+      {% endif %}
+
+    </ul>
+ 
+<ul class="collection border-0 hide">
  <li class="collection-item">
      <i data-feather="book-open"></i> 
  {% if page.source %}
