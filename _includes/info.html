@@ -30,17 +30,19 @@
    {% if page.muftis %}
      <ul class="collection border-0">
       <li class="collection-item">
-       <i data-feather="users"></i> 
+       <i data-feather="user"></i> Chairman : 
        {% if page.muftis.chairman %}{% for chairman in page.muftis.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}{% endif %}
       </li>
       <li class="collection-item">
+       <i data-feather="user"></i> Deputy Chairman : 
        {% if page.muftis.deputy_chairman %}{% for deputy_chairman in page.muftis.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}{% endif %}
       </li>
       <li class="collection-item">
+       <i data-feather="users"></i> Members : 
        {% if page.muftis.members %}{% for members in page.muftis.members %}<a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a>{% endfor %}{% endif %}
       </li>
      </ul>
-    {% endif %}
+   {% endif %}
     
 <ul class="collection border-0 hide">
  <li class="collection-item">
