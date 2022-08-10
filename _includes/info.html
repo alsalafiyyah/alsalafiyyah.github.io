@@ -18,21 +18,8 @@
       {% endfor %}
      {% endif %}
     {% endif %}
-     
-      {% if page.hijri %}
-      <li class="collection-item">
-       <i data-feather="calendar"></i> {{ page.hijri }}
-       {% else %} {{ site.hijri.name }} 
-      </li>
-      {% endif %}
-
-    </ul>
-</div>
 
   {% if page.muftis %}
-   <div class="card-panel grey lighten-3">
-     <ul class="collection border-0">
-     
      {% if page.muftis.chairman %}
       <li class="collection-item">
        <i data-feather="user"></i> Chairman : 
@@ -57,9 +44,16 @@
         </ol>
       </li>
      {% endif %}
-     
-     </ul>
-   </div>
   {% endif %}
+        
+      {% if page.hijri %}
+      <li class="collection-item">
+       <i data-feather="calendar"></i> {{ page.hijri }}
+       {% else %} {{ site.hijri.name }} 
+      </li>
+      {% endif %}
+
+    </ul>
+</div>
 
 {% endif %}
