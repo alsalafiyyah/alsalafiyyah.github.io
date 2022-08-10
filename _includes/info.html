@@ -2,7 +2,7 @@
 <div class="card-panel grey lighten-3">
 <ul class="collection border-0">
  <li class="collection-item">
-     Source: 
+     <i data-feather="book-open"></i> 
  {% if page.source %}
    <b>{{ page.source }}</b>
  {% else %}
@@ -45,18 +45,19 @@
         {% endfor %}
         {% else %}
         {% endif %}
-        {% if page.muftis.shaykh %}
+ 
+        {% if page.muftis.shaykh %} <i data-feather="feather"></i>
         {% for shaykh in page.muftis.shaykh %}
         <dd>
           <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}"><b>{{ shaykh.name }}</b></a>
         </dd>
         {% endfor %}
-        {% else %}
         {% endif %}
+ 
         {% endif %}
  </li>
 <li class="collection-item">
-    Posted on this site: 
+   <i data-feather="calendar"></i> 
 {% if page.hijri %}
  <b>{{ page.hijri }}</b>
 {% else %}
