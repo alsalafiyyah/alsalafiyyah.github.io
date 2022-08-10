@@ -36,6 +36,15 @@ ion-icon {
 ion-icon {
   --ionicon-stroke-width: 32px;
 }
+.feather {
+  width: 14px;
+  height: 14px;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  fill: none;
+}
 .menu {
  text-align: center;
  margin: 10px;
