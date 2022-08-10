@@ -37,8 +37,8 @@ ion-icon {
   --ionicon-stroke-width: 32px;
 }
 .feather {
-  width: 14px;
-  height: 14px;
+  width: 12px! important;
+  height: 12px! important;
   stroke: currentColor;
   stroke-width: 2;
   stroke-linecap: round;
