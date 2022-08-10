@@ -20,7 +20,10 @@
   <div class="content white">
    {{ content }}
    {% include note.html %}
+
    {% if page.muftis %}
+    <div class="card-panel grey lighten-3">
+    <ul class="collection border-0">
     {% if page.muftis.shaykh %}
       {% for shaykh in page.muftis.shaykh %}
       <li class="collection-item">
@@ -28,7 +31,10 @@
       </li>
       {% endfor %}
      {% endif %}
-    {% endif %}
+     </ul>
+     </div>
+   {% endif %}
+
   </div>
  </div>
  {% include search-form.html %}
