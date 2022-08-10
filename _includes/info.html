@@ -4,7 +4,7 @@
     
      {% if page.source %}
       <li class="collection-item">
-       <i data-feather="calendar"></i> {{ page.source }} {% else %}
+       <i data-feather="book"></i> {{ page.source }} {% else %}
      {% endif %}
       </li>
       
@@ -20,7 +20,7 @@
      
       {% if page.hijri %}
       <li class="collection-item">
-       <i data-feather="book-open"></i> {{ page.hijri }}
+       <i data-feather="calendar"></i> {{ page.hijri }}
        {% else %} {{ site.hijri.name }} 
       </li>
       {% endif %}
