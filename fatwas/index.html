@@ -7,7 +7,13 @@ locale: en
 ---
 
          {% for post in paginator.posts %}
-          <div class="card grey darken-3">
+  <div class="section">
+    <h5><a title="{{ post.title }}" href="{{ post.url | prepend: site.baseurl }}" class="black-text">{{ post.title }}</a></h5>
+    <p><b>{{ post.hijri }}</b></p>
+  </div>
+  <div class="divider"></div>
+
+          <div class="card grey darken-3 hide">
             <div class="card-content white-text">
               <a href="{{ post.url | prepend: site.baseurl }}"> <span class="card-title">{{ post.title }}</span></a>
               {{ post.content | strip_html | truncatewords: 30 }}
