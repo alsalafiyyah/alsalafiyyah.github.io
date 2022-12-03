@@ -10,9 +10,10 @@ locale: en
   <div class="section">
     <h5><a title="{{ post.title }}" href="{{ post.url | prepend: site.baseurl }}" class="black-text">{{ post.title }}</a></h5>
     <p>
-     <b>{{ post.hijri }}</b>
+     <b><i data-feather="calendar"></i> {{ post.hijri }}</b>
       <br/>
       <b>
+        <i data-feather="feather"></i> 
         {% if post.muftis.shaykh %}
         {% for shaykh in post.muftis.shaykh %}
         {{ shaykh.name }}
