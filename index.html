@@ -43,20 +43,20 @@ active: home
       </ul>
      </div>
      <div class="card-action">
-      <a href="{{ '/audios/' | prepend:site.baseurl }}" class="waves-effect btn-flat white-text right-align">View all <i class="material-icons right">chevron_right</i></a></span>
+      <a href="{{ '/audios/' | prepend:site.baseurl }}" class="waves-effect btn-flat black-text right-align">View all <i class="material-icons right">chevron_right</i></a></span>
      </div>
     </div>          
       </div>
         
       <div class="col m6">
-    <div class="card radius black-text">
+    <div class="card black white-text">
      <div class="card-content">
       <ul class="collection with-header border-0">
         <li class="collection-header">
         <span class="card-title"><b>Featured</b></span>
         </li>
          {% for c in site.wahhabism | limit:5 %}
-          <a class="collection-item waves-effect waves-grey block black-text" itemprop="url" title="{{ c.title }}" href="{{ c.url }}">
+          <a class="collection-item waves-effect waves-grey block white-text" itemprop="url" title="{{ c.title }}" href="{{ c.url }}">
            <span itemprop="name">{{ c.title }}</span>
           </a>
          {% endfor %}
