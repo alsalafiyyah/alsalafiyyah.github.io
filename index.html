@@ -15,9 +15,9 @@ active: home
         </li>
          {% for post in site.posts limit:5 %}
           {% if post.url %}
-           <li class="collection-item"><a class="waves-effect waves-grey block white-text" itemprop="url" title="{{ post.title }}" href="{{ post.url }}">
+           <a class="collection-item waves-effect waves-grey block white-text" itemprop="url" title="{{ post.title }}" href="{{ post.url }}">
             <span itemprop="name">{{ post.title }}</span>
-           </a></li>
+           </a>
          {% endif %}
         {% endfor %}
       </ul>
@@ -53,7 +53,7 @@ active: home
      <div class="card-content">
       <ul class="collection with-header border-0">
         <li class="collection-header">
-        <span class="card-title"><b>Featured</b></span>
+        <span class="card-title"><b>Wahhabism</b></span>
         </li>
          {% for c in site.wahhabism | limit:5 %}
           <a class="collection-item waves-effect waves-grey block white-text" itemprop="url" title="{{ c.title }}" href="{{ c.url }}">
@@ -63,7 +63,7 @@ active: home
       </ul>
      </div>
      <div class="card-action">
-      <a href="{{ '/wahabism/' | prepend:site.baseurl }}" class="waves-effect btn-flat white-text right-align">View all <i class="material-icons right">chevron_right</i></a></span>
+      <a href="{{ '/wahabism/' | prepend:site.baseurl }}" class="waves-effect waves-green btn-flat white-text right-align">View all <i class="material-icons right">chevron_right</i></a></span>
      </div>
     </div>
       </div>
