@@ -29,11 +29,11 @@ active: home
       </div>
         
       <div class="col m6">
-    <div class="card radius grey lighten-3 black-text">
+    <div class="card grey lighten-3 black-text">
      <div class="card-content">
       <ul class="collection with-header border-0">
         <li class="collection-header">
-        <span class="card-title"><b>Latest Audios</b> <a href="{{ '/audios/' | prepend:site.baseurl }}" class="secondary-content waves-effect waves-teal btn-flat">View all</a></span>
+        <span class="card-title"><b>Latest Audios</b></span>
         </li>
         {% for c in site.audios | limit:5 %}
          <a class="collection-item waves-effect waves-grey block black-text" itemprop="url" title="{{ c.title }}" href="{{ c.url }}">
@@ -41,6 +41,9 @@ active: home
          </a>
        {% endfor %}
       </ul>
+     </div>
+     <div class="card-action">
+      <a href="{{ '/audios/' | prepend:site.baseurl }}" class="waves-effect btn-flat white-text right-align">View all <i class="material-icons right">chevron_right</i></a></span>
      </div>
     </div>          
       </div>
@@ -50,7 +53,7 @@ active: home
      <div class="card-content">
       <ul class="collection with-header border-0">
         <li class="collection-header">
-        <span class="card-title"><b>Featured</b> <a href="{{ '/wahabism/' | prepend:site.baseurl }}" class="secondary-content waves-effect waves-teal btn-flat">View all</a></span>
+        <span class="card-title"><b>Featured</b></span>
         </li>
          {% for c in site.wahhabism | limit:5 %}
           <a class="collection-item waves-effect waves-grey block black-text" itemprop="url" title="{{ c.title }}" href="{{ c.url }}">
@@ -59,43 +62,12 @@ active: home
          {% endfor %}
       </ul>
      </div>
-    </div>
-      </div>
-        
-      <div class="col s12">
-    <div class="card radius grey darken-4 white-text">
-     <div class="card-content">
-      <ul class="collection with-header border-0">
-        <li class="collection-header">
-        <span class="card-title"><b>Al-Wala' Wal-Bara'</b> <a href="{{ '/category/walabara/' | prepend:site.baseurl }}" class="secondary-content waves-effect waves-teal btn-flat white-text">View all</a></span>
-        </li>
-         {% for post in site.categories.walabara | limit:5 %}
-          {% if post.url %}
-          <a class="collection-item waves-effect waves-grey block white-text" itemprop="url" href="{{ post.url }}">
-           <span itemprop="name">{{ post.title }}</span>
-          </a>
-          {% endif %}
-         {% endfor %}
-      </ul>
+     <div class="card-action">
+      <a href="{{ '/wahabism/' | prepend:site.baseurl }}" class="waves-effect btn-flat white-text right-align">View all <i class="material-icons right">chevron_right</i></a></span>
      </div>
     </div>
       </div>
-        
-        <div class="col s12 hide-on-small-only hide-on-med-only hide-on-med-and-down hide-on-med-and-up">
-    <div class="card radius grey darken-3 white-text">
-     <div class="card-content">
-      <ul class="collection with-header border-0">
-        <li class="collection-header">
-            <span class="card-title"><b>Prayer Time</b>
-                <p><small>Based on your location.</small></p>
-            </span>
-        </li>
-        <li class="collection-item white-text prayer-times-3"></li>
-      </ul>
-     </div>
-    </div>
-        </div>
-        
+       
         
     </div>
 
