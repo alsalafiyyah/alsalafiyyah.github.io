@@ -15,15 +15,15 @@ active: home
         </li>
          {% for post in site.posts limit:5 %}
           {% if post.url %}
-           <li class="collection-item"><a class="collection-items waves-effect waves-grey block white-text" itemprop="url" title="{{ post.title }}" href="{{ post.url }}">
-            <span itemprop="name">{{ post.title }}</span>
+           <li class="collection-item"><a class="waves-effect waves-grey block white-text" itemprop="url" title="{{ post.title }}" href="{{ post.url }}">
+            <span class="truncate" itemprop="name">{{ post.title }}</span>
            </a></li>
          {% endif %}
         {% endfor %}
       </ul>
      </div>
-     <div class="card-action radius">
-      <a href="{{ '/fatwas/' | prepend:site.baseurl }}" class="right waves-effect btn-flat white-text">View all <i class="material-icons">arrow_forward</i></a></span>
+     <div class="card-action">
+      <a href="{{ '/fatwas/' | prepend:site.baseurl }}" class="waves-effect btn-flat white-text">View all <i class="material-icons">arrow_forward</i></a></span>
      </div>
     </div>          
       </div>
