@@ -3,26 +3,15 @@
 {% include head.html %}
 <body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}" class="grey lighten-5">
  {% include sidenav.html %}
-<div class="container">
+<div class="container" style="width: 98%;">
  <nav class="z-depth-0 transparent">
     <div class="nav-wrapper">
      <ul class="left">
-       <li><a class="sidenav-trigger" href="{{ site.url }}"><i class="material-icons black-text">keyboard_backspace</i></a></li>          
+       <li><a class="sidenav-trigger" href="{{ site.url }}"><i class="material-icons black-text">home</i></a></li>          
       </ul>     
       <a href="{{ absolute_url }}" class="brand-logo center black-text bold"> {{ page.title }} </a>
       <ul class="right">
         <li><a href="#" class="sidenav-trigger" data-target="slide-out"><i class="material-icons black-text">more_vert</i></a></li>
-      </ul>
-    </div>
-  </nav>
-   <nav class="z-depth-0 transparent">
-    <div class="nav-wrapper">
-      <ul class="left">
-        <li><a href="#" class="sidenav-trigger show-on-medium-and-up show-on-medium show-on-small show-on-large show-on-medium-and-up show-on-medium-and-down" data-target="slide-out"><i class="material-icons black-text">more_vert</i></a></li>
-      </ul>
-      <a href="{{ absolute_url }}" class="brand-logo center black-text bold">{{ page.title }}</a>
-      <ul class="right">
-        <li><a class="sidenav-trigger show-on-medium-and-up show-on-medium show-on-small show-on-large show-on-medium-and-up show-on-medium-and-down" href="{{ absolute_url }}"><i class="material-icons black-text">search</i></a></li>
       </ul>
     </div>
   </nav>
