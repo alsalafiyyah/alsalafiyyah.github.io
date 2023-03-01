@@ -4,8 +4,16 @@
 <body>
  {% include sidenav.html %}
  <div class="container grey lighten-5" style="marhgin-bottom: 40px; width: 98%; padding: 0px; margin: 0px auto;">
-  {% include navbar.html %}
-  {% include search-form.html %}
+ <nav class="z-depth-0 transparent">
+    <div class="nav-wrapper">
+      <ul class="left">
+        <li><a href="#" class="sidenav-trigger left" data-target="slide-out"><i class="material-icons black-text">short_text</i></a></li>
+      </ul>
+      <a href="{{ site.url }}" class="brand-logo center black-text bold"> {{ site.title }} </a>
+      <ul class="right">
+      </ul>
+    </div>
+  </nav>
   {% include second-nav.html %}
   {{ content }}
  </div>
