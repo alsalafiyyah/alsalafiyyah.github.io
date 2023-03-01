@@ -16,7 +16,7 @@ active: home
          {% for post in site.posts limit:5 %}
           {% if post.url %}
            <li class="collection-item"><a class="waves-effect waves-grey block white-text" itemprop="url" title="{{ post.title }}" href="{{ post.url }}">
-            <span class="truncate" itemprop="name">{{ post.title }}</span>
+            <span itemprop="name">{{ post.title }}</span>
            </a></li>
          {% endif %}
         {% endfor %}
