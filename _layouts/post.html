@@ -1,12 +1,28 @@
----
-layout: page
----
-
-{% if page.date %}
- <div class="content black-text" style="padding:0px;">
- {{ content }}
- {% include info.html %}
-</div>
-{% endif %}
-{% include search-form.html %}
-{% include scripts.html %}
+<!DOCTYPE html>
+<html class="grey lighten-5">
+{% include head.html %}
+<body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}" class="grey lighten-5">
+ {% include sidenav.html %}
+<div class="container" style="width: 98%;">
+   <nav class="z-depth-0 transparent">
+    <div class="nav-wrapper">
+     <ul class="left">
+       <li><a class="modal-trigger" href="{{ "fatwas" | relative_url }}"><i class="material-icons black-text">keyboard_backspace</i></a></li>          
+      </ul>        
+      <ul class="right">
+        <li><a href="#" class="sidenav-trigger" data-target="slide-out"><i class="material-icons black-text">more_vert</i></a></li>
+      </ul>
+    </div>
+  </nav>
+ <div class="content grey lighten-5 white">
+  {% if page.date %}
+   <div class="content black-text" style="padding:0px;">
+   {{ content }}
+   {% include info.html %}
+   </div>
+  {% endif %}
+ </div>
+ </div>
+ {% include scripts.html %}
+ </body>
+</html>
