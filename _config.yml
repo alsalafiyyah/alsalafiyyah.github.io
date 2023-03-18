@@ -8,7 +8,7 @@ author:
 
 github: [metadata]
 encoding: UTF-8
-timezone: America/New_York
+timezone: Asia/Riyadh
 permalink: pretty
 paginate: 20
 paginate_path: "/fatwas/:num/"
@@ -90,8 +90,10 @@ collections:
   fawaid:
     output: true
     active: fawaid
-    permalink: /fawaid/:title/
-    
-        
+    permalink: /fawaid/:title/   
+  ar:
+    output: true
+  en: 
+    output: true        
 
 
