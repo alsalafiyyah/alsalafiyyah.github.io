@@ -8,6 +8,7 @@ excerpt: "The Hadith of the Prophet (peace be upon him): Beware of newly invente
 uid: meaning-bidah
 end: true
 locale: en
+lang: en
 category: [bidah, basic]
 muftis:
   chairman: 
