@@ -14,6 +14,9 @@ paginate: 20
 paginate_path: "/fatwas/:num/"
 markdown: kramdown
 lang: en
+safe: true
+future: true
+locales: ["en", "ar"]
 note:
     text: "May Allah grant us success. May peace and blessings be upon our Prophet, his family and Companions"
 include:
