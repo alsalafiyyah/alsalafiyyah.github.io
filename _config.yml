@@ -69,6 +69,12 @@ defaults:
       layout: post
       permalink: /:title
   - scope:
+      path: _posts/en/**
+      type: posts
+    values:
+      layout: post
+      permalink: /en/:title
+  - scope:
       path: _posts/ar/**
       type: posts
     values:
