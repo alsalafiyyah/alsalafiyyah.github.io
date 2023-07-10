@@ -11,6 +11,9 @@ muftis:
   shaykh: 
     - name: Shaykh Ibn Baz
       url: /biography/baz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/
 ---
 
 Question: 
@@ -19,4 +22,5 @@ Is reciting Al-Fatihah at the time when a man gets engaged to a woman an innovat
 
 Answer: 
 
-Reciting Al-Fatihah at the time of a man's proposal to a woman or at the time of his marriage contract with her is an innovation (bid'ah).
+Reciting Al-Fatihah at the time of a man's proposal to a woman or at the time of his marriage contract with her is bid'ah (an innovation).
+
