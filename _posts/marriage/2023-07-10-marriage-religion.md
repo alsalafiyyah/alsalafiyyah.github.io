@@ -12,8 +12,17 @@ muftis:
     - name: Shaykh Ibn Baz
       url: /biography/baz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
+    - name: Shaykh Abdul-Aziz Aal Shaykh
+      url: /biography/abdulaziz/
+  members:
+    - name: Shaykh Abdullah Ibn Ghudayyan
+      url: /biography/ghudayyan/
+  members:
+    - name: Shaykh Salih Al-Fawzan
+      url: /biography/fawzan/
+  members:
+    - name: Shaykh Bakr Abu Zayd
+      url: /biography/bakr/
 ---
 
 The Sunnah indicates that it is prescribed to get married, and that it is one of the Sunnahs of the Messengers. By getting married a person can, with the help of Allah, overcome many of the traps of evil, for marriage helps him to lower his gaze and guard his chastity, as the Prophet ﷺ said in the hadith, **“O young men, whoever among you can afford it, let him get married, for it is more effective in lowering the gaze and guarding chastity…”** (Agreed upon). 
