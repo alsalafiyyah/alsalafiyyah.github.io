@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Is it true that whoever gets married has completed half of religion"
+title: "Is it true that whoever gets married has completed half of his religion?"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da’imah 18/31"
 hijri: Dhul-Hijjah 22, 1444 AH
