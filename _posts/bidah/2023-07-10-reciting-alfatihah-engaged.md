@@ -8,7 +8,7 @@ lang: en
 note: false
 excerpt: "Reciting Al-Fatihah at the time of a man's proposal to a woman or at the time of his marriage contract with her is bid'ah."
 muftis:
-  shaykh: 
+  chairman: 
     - name: Shaykh Ibn Baz
       url: /biography/baz/
   deputy_chairman:
