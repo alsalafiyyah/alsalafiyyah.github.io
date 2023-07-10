@@ -9,9 +9,17 @@ lang: en
 note: true
 excerpt: "And do not marry Al-Mushrikat (idolatresses) till they believe (worship Allaah Alone). And indeed a slave woman who believes is better than a (free) Mushrikah (idolatress), even though she pleases you."
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
+  chairman: 
+    - name: Shaykh Ibn Baz
       url: /biography/binbaz/
+  deputy_chairman: 
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah Ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Abdullah Ibn Qa'ud
+      url: /biography/qaud/
 ---
 
 Question: 
