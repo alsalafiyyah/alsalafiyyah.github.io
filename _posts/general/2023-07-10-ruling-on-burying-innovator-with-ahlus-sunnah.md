@@ -14,7 +14,9 @@ muftis:
 ---
 
 Question: 
+
 What is the ruling on burying Non-Sunnis with Sunnis (Ahlus-Sunnah) in the same graveyard?
 
 Answer: 
+
 If the innovator is a kafir (disbeliever) because of his bid'ah (religious innovation), then it is not permissible to bury him in the Muslim graveyard, because the kafir should be buried separately from the Muslims. But if he was not a kafir because of his bid’ah, then there is nothing wrong with burying him with the Muslims.
