@@ -2,7 +2,7 @@
 layout: post
 title: "Ruling on a Muslim Marrying a Shi’i"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa al-Lajnah al-Da’imah 2/264 "
+source: "Fatawa Al-Lajnah Al-Da’imah 2/264, Fatwa no.3008, Question 1"
 category: [shiah, marriage]
 hijri: Dhul-Hijjah 22, 1444 AH
 lang: en
@@ -22,4 +22,4 @@ Answer:
 
 If the situation is as you describe – that they call upon ‘Ali, al-Hasan and al-Husayn, and so on – then they are mushrikeen who are guilty of major shirk, which puts them beyond the pale of Islam. It is not permissible for Muslim women to marry them, and it is not permissible for us to marry their women, or to eat meat slaughtered by them. 
 
-Allah says: “And do not marry Al-Mushrikaat (idolatresses) till they believe (worship Allaah Alone). And indeed a slave woman who believes is better than a (free) Mushrikah (idolatress), even though she pleases you. And give not (your daughters) in marriage to Al-Mushrikoon till they believe (in Allaah Alone) and verily, a believing slave is better than a (free) Mushrik (idolater), even though he pleases you. Those (Al-Mushrikoon) invite you to the Fire, but Allaah invites (you) to Paradise and forgiveness by His Leave, and makes His Ayaat (proofs, evidences, verses, lessons, signs, revelations, etc.) clear to mankind that they may remember” [al-Baqarah 2:221]
+Allah says: **“And do not marry Al-Mushrikaat (idolatresses) till they believe (worship Allaah Alone). And indeed a slave woman who believes is better than a (free) Mushrikah (idolatress), even though she pleases you. And give not (your daughters) in marriage to Al-Mushrikoon till they believe (in Allaah Alone) and verily, a believing slave is better than a (free) Mushrik (idolater), even though he pleases you. Those (Al-Mushrikoon) invite you to the Fire, but Allaah invites (you) to Paradise and forgiveness by His Leave, and makes His Ayaat (proofs, evidences, verses, lessons, signs, revelations, etc.) clear to mankind that they may remember”** [Al-Baqarah 2:221]
