@@ -18,14 +18,14 @@
   <nav class="nav-extended grey lighten-5 black-text z-depth-0 top-0">
    <div class="nav-content grey lighten-5 padding-10">
    <meta itemprop="url" content="https://alsalafiyyah.github.io/search/"/>
-   <form action="/search" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction">
+   <form action="{{ "search" | relative_url }}" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction">
    <meta itemprop="target" content="https://alsalafiyyah.github.io/search?q=salaf"/>
    <input itemprop="query-input" class="search_input" id="tipue_search_input" type="text" name="q" placeholder="Search" pattern=".{3,}" title="At least 3 characters" required/>
   </form>
     </div>
   </nav>
  
- <div class="content grey lighten-5 white">
+ <div class="content grey lighten-5 white" style="width: 98%;">
    {{ content }}
  </div>
  
