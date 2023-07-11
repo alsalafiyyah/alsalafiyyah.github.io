@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rapprochement between Sunnis and Shi'ah"
+title: "Rapprochement Between The Shi'ah And The Sunnis Is Not Possible"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa 27/325"
 category: [shiah]
