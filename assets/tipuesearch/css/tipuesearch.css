@@ -34,20 +34,41 @@ http://www.tipue.com/search
 
 /* search box */
 
-
-#tipue_search_input
+#tipue_search_
 {
-     color: #333;
-     max-width: 210px;
-	padding: 17px;
-	border: 1px solid #e3e3e3;
-	border-radius: 0;
 	-moz-appearance: none;
 	-webkit-appearance: none;
-     box-shadow: none; 
+  box-shadow: none; 
 	outline: 0;
-	margin: 0;
+  width:300px;
+  height:50px;
+  background-color:white;
+  border-radius:60px;
+  margin:auto;	
 }
+span > img{
+margin-top:7.5px;
+  margin-left:20px;
+}
+#tipue_search_input{
+  width:230px;
+  position:absolute;
+  height:35px;
+  border:none;
+  color:black;
+  font-size:18px;
+  margin-top:10px;
+  padding-left:10px;  
+}
+input[type=text]:focus {
+  box-shadow: none !important;
+  border-bottom: none !important;
+}
+input[type=search]:focus {
+  box-shadow: none !important;
+  border-bottom: none !important;
+}
+
 .tipue_search_icon
 {
      width: 24px;
