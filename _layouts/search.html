@@ -19,22 +19,11 @@
    <div id="tipue_search_" class="nav-content grey lighten-5 padding-10">
    <meta itemprop="url" content="https://alsalafiyyah.github.io/search/"/>
    <form action="{{ "search" | relative_url }}" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction">
-   <meta itemprop="target" content="https://alsalafiyyah.github.io/search?q=salaf"/>
-   <span><img src="https://cdn3.iconfinder.com/data/icons/watchify-v1-0-32px/32/magnifying-glass-search-256.png" alt="Search" width="35px"></span>
-   <input itemprop="query-input" class="search_input hide" id="tipue_search_input" type="text" name="q" placeholder="Search" pattern=".{3,}" title="At least 3 characters" required/>
-  </form>
-    </div>
+   <meta itemprop="target" content="https://alsalafiyyah.github.io/search?q=salaf"/>   
+   <input itemprop="query-input" class="search_input" id="tipue_search_input" type="text" name="q" placeholder="Search" pattern=".{3,}" title="At least 3 characters" required/>
+   </form>
+   </div>
   </nav>
-<div class="" id="tipue_search_">
-  <span><img src="https://cdn3.iconfinder.com/data/icons/watchify-v1-0-32px/32/magnifying-glass-search-256.png" alt="Search" width="35px"></span>
-  <input type="text" name="q" placeholder="Search ..." id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required>
- </div> 
- <div class="content grey lighten-5 white" style="width: 98%;">
-   {{ content }}
- </div>
- 
- </div>
- 
  {% include scripts.html %}
  </body>
 </html>
