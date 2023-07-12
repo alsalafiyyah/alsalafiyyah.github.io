@@ -10,7 +10,7 @@ uid: tafsir-surah-al-tawbah-23-24
 note: false
 locale: en
 category: [quran, tafsir]
-excerpt: "And We have enjoined on man to be good and dutiful to his parents; but if they strive to make you join with Me (in worship) anything (as a partner) of which you have no knowledge, then obey them not."
+excerpt: "O you who have believed, do not take your fathers or your brothers as allies if they have preferred disbelief over belief. And whoever does so among you - then it is those who are the wrongdoers. "
 muftis:
   shaykh: 
     - name: Shaykh Al-Sa'adi
