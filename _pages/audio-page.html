@@ -9,10 +9,10 @@ permalink: /audio2/
 <html class="grey lighten-5">
 {% include head.html %}
 <style>
-#pagin li.current a {
+.current a {
   color: #fff;
 }
-#pagin li.current {
+.current {
   background-color: #000000;
 }	
 </style>	
@@ -55,7 +55,7 @@ var pageCount =  $(".line-content").length / pageSize;
 var totalSlidepPage = Math.floor(pageCount / incremSlide);
     
 for(var i = 0 ; i<pageCount;i++){
-    $("#pagin").append('<li><a href="#">'+(i+1)+'</a></li> ');
+    $("#pagin").append('<li class="waves-effect"><a href="#">'+(i+1)+'</a></li> ');
     if(i>pageSize){
        $("#pagin li").eq(i).hide();
     }
