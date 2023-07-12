@@ -1,0 +1,119 @@
+---
+layout: null
+title: Audios
+active: audios
+permalink: /audio2/
+---
+
+<!DOCTYPE html>
+<html class="grey lighten-5">
+{% include head.html %}
+<body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}" class="grey lighten-5">
+ {% include sidenav.html %}
+<div class="container" style="width: 98%;">
+   <nav class="z-depth-0 transparent">
+    <div class="nav-wrapper">
+     <ul class="left">
+       <li><a class="modal-trigger" href="{{ site.url }}"><i class="material-icons black-text">keyboard_backspace</i></a></li>          
+      </ul>     
+       <a href="{{ "audios" | relative_url }}" class="brand-logo center black-text bold">{{ page.title }}</a>   
+      <ul class="right">
+        <li><a href="#" class="sidenav-trigger" data-target="slide-out"><i class="material-icons black-text">more_vert</i></a></li>
+      </ul>
+    </div>
+  </nav>
+ 
+ <div class="content grey lighten-5 white">
+{% for c in site.audios %}
+  <div class="section line-content">
+    <h5><a title="{{ c.title }}" href="{{ c.url }}" class="black-text">{{ c.title }}</a></h5>
+    <p><b>{{ c.hijri }}</b></p>
+  </div>
+  <div class="divider"></div>
+{% endfor %}
+<ul id="pagin"></ul>   
+ </div>
+
+ </div>
+ {% include scripts.html %}
+  <script>
+//Pagination
+pageSize = 4;
+incremSlide = 5;
+startPage = 0;
+numberPage = 0;
+
+var pageCount =  $(".line-content").length / pageSize;
+var totalSlidepPage = Math.floor(pageCount / incremSlide);
+    
+for(var i = 0 ; i<pageCount;i++){
+    $("#pagin").append('<li><a href="#">'+(i+1)+'</a></li> ');
+    if(i>pageSize){
+       $("#pagin li").eq(i).hide();
+    }
+}
+
+var prev = $("<li/>").addClass("prev").html("Prev").click(function(){
+   startPage-=5;
+   incremSlide-=5;
+   numberPage--;
+   slide();
+});
+
+prev.hide();
+
+var next = $("<li/>").addClass("next").html("Next").click(function(){
+   startPage+=5;
+   incremSlide+=5;
+   numberPage++;
+   slide();
+});
+prev.hide();
+
+var next = $("<li/>").addClass("next").html("Next").click(function(){
+   startPage+=5;
+   incremSlide+=5;
+   numberPage++;
+   slide();
+});
+
+$("#pagin").prepend(prev).append(next);
+
+$("#pagin li").first().find("a").addClass("current");
+
+slide = function(sens){
+   $("#pagin li").hide();
+   
+   for(t=startPage;t<incremSlide;t++){
+     $("#pagin li").eq(t+1).show();
+   }
+   if(startPage == 0){
+     next.show();
+     prev.hide();
+   }else if(numberPage == totalSlidepPage ){
+     next.hide();
+     prev.show();
+   }else{
+     next.show();
+     prev.show();
+   }    
+}
+showPage = function(page) {
+	  $(".line-content").hide();
+	  $(".line-content").each(function(n) {
+	      if (n >= pageSize * (page - 1) && n < pageSize * page)
+	          $(this).show();
+	  });        
+}
+    
+showPage(1);
+$("#pagin li a").eq(0).addClass("current");
+
+$("#pagin li a").click(function() {
+	 $("#pagin li a").removeClass("current");
+	 $(this).addClass("current");
+	 showPage(parseInt($(this).text()));
+});    
+  </script>
+ </body>
+</html>
