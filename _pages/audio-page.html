@@ -8,6 +8,14 @@ permalink: /audio2/
 <!DOCTYPE html>
 <html class="grey lighten-5">
 {% include head.html %}
+<style>
+#pagin li.current a {
+  color: #fff;
+}
+#pagin li.current {
+  background-color: #000000;
+}	
+</style>	
 <body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}" class="grey lighten-5">
  {% include sidenav.html %}
 <div class="container" style="width: 98%;">
