@@ -404,3 +404,7 @@ nav i, nav [class^="mdi-"], nav [class*="mdi-"], nav i.material-icons {
   display: block !important;
   }
 }
+
+nav ul a:hover {
+ background-color: rgba(0, 0, 0, 0) !important;
+}
