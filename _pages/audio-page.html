@@ -15,6 +15,14 @@ permalink: /audio2/
 .current {
   background-color: #e0e0e0;
 }	
+search-form-content {
+  background-color: #000;
+  margin: 0;
+  display: none;
+  min-width: 100vw !important;
+  padding: 10px 20px;
+  overflow: none !important;
+}	
 </style>	
 <body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}" class="grey lighten-5">
  {% include sidenav.html %}
@@ -47,9 +55,10 @@ permalink: /audio2/
 
  </div>
  {% include scripts.html %}
-  <script>
-$('.dropdown-trigger').dropdown();
-	  
+<script>
+$(".dropdown-trigger").dropdown({
+    closeOnClick : false          
+   });	  
 //Pagination
 pageSize = 8;
 incremSlide = 5;
