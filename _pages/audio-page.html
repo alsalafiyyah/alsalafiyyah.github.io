@@ -58,11 +58,16 @@ nav ul a:hover {
  
  <div class="content grey lighten-5 white">
 {% for c in site.audios %}
-  <div class="section line-content">
-    <h5><a title="{{ c.title }}" href="{{ c.url }}" class="black-text">{{ c.title }}</a></h5>
-    <p><b>{{ c.hijri }}</b></p>
-  </div>
-  <div class="divider"></div>
+      <table id="myTable">
+        <tbody>
+          <tr class="line-content">
+            <td>
+            <h5><a title="{{ c.title }}" href="{{ c.url }}" class="black-text">{{ c.title }}</a></h5>
+            <p><b>{{ c.hijri }}</b></p>
+            </td>
+	  </tr>
+	</tbody>
+      </table>
 {% endfor %}
 <ul id="pagin" class="pagination"></ul>   
  </div>
