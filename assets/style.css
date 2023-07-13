@@ -408,3 +408,22 @@ nav i, nav [class^="mdi-"], nav [class*="mdi-"], nav i.material-icons {
 nav ul a:hover {
  background-color: rgba(0, 0, 0, 0) !important;
 }
+
+.current a {
+  color: #000000;
+}
+.current {
+  background-color: #e0e0e0;
+}	
+nav ul a:hover {
+    background-color: rgba(0, 0, 0, 0) !important;
+	}
+.search-form-content {
+  background-color: #fff;
+  margin: 0;
+  display: none;
+  min-width: 100vw !important;
+  padding: 10px 20px;
+  overflow-y: hidden !important;
+  margin: 0 auto !important;
+ }
