@@ -15,18 +15,60 @@ permalink: /audio2/
 .current {
   background-color: #e0e0e0;
 }	
+nav ul a:hover {
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+#search {
+ border: #000 solid 2px;
+}
+input {
+	outline: none;
+}
+input[type=search] {
+	-webkit-appearance: textfield;
+	-webkit-box-sizing: content-box;
+	font-family: inherit;
+	font-size: 100%;
+}
+input::-webkit-search-decoration,
+input::-webkit-search-cancel-button {
+	display: none; 
+}
+input[type=search] {
+	background: #ffffff url(https://static.tumblr.com/ftv85bp/MIXmud4tx/search-icon.png) no-repeat 20px center;
+	border: solid 0px #ccc;
+	padding: 9px 10px 9px 9px;
+	width: 55px;
+	-webkit-border-radius: 10em;
+	-moz-border-radius: 10em;
+	border-radius: 10em;
+	-webkit-transition: all .5s;
+	-moz-transition: all .5s;
+	transition: all .5s;
+}
+input[type=search]:focus {
+	width: 130px;
+	background-color: #fff;
+	border-color: #66CC75;
+	-webkit-box-shadow: 0 0 5px rgba(109,207,246,.5);
+	-moz-box-shadow: 0 0 5px rgba(109,207,246,.5);
+	box-shadow: 0 0 5px rgba(109,207,246,.5);
+}
+input:-moz-placeholder {
+	color: #999;
+}
+input::-webkit-input-placeholder {
+	color: #999;
+}
 .search-form-content {
   background-color: #fff;
   margin: 0;
   display: none;
   min-width: 100vw !important;
-  padding: 10px 20px;
-  overflow-x: hiddem !important;
-  overflow-y: hidden !important;	
-}
-nav ul a:hover {
-    background-color: rgba(0, 0, 0, 0) !important;
-	}
+  padding: 0px 20px;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}	
 </style>	
 <body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}" class="grey lighten-5">
  {% include sidenav.html %}
@@ -40,17 +82,13 @@ nav ul a:hover {
       <ul class="right">
        <li><a data-target='searchform' href="#" class="dropdown-trigger"><i class="material-icons black-text">search</i></a></li>
        <div id='searchform' class='dropdown-content search-form-content'>
-  <nav class="transparent black-text">
-    <div class="nav-wrapper">
+  <div class="nav-wrapper">
       <form>
         <div class="input-field">
           <input id="search" type="search" placeholder="Type & hit enter" required>
-          <label class="label-icon black-text" for="search"><i class="material-icons">search</i></label>
-          <i class="material-icons">close</i>
         </div>
       </form>
-    </div>
-  </nav>	       	
+    </div>	       	
        </div>
       </ul>
     </div>
