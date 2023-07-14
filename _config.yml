@@ -85,7 +85,7 @@ defaults:
 collections:
   refutals:
     output: true
-    permalink: /refutals/:path/
+    permalink: /radd/:path/
   wahhabism:
     output: true
     permalink: /wahhabism/:path/
