@@ -7,7 +7,7 @@ locale: en
 ---
 
 {% for post in paginator.posts %}
-  <div class="section" style="margin-left: 15px; margin-right: 15px; margin-bottom: 15px;">
+  <div class="section" style="margin-left: 15px; margin-right: 15px;">
     <h5><a title="{{ post.title }}" href="{{ post.url | prepend: site.baseurl }}" class="black-text">{{ post.title }}</a></h5>
     <p>
      <b><i data-feather="calendar"></i> {{ post.hijri }}</b>
