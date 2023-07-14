@@ -1,12 +1,13 @@
 ---
 title: Fatwas
-layout: fatwas-index
+layout: default
 active: fatwas
 uid: fatwas
+permalink: /fatwas/
 locale: en
 ---
 
-         {% for post in paginator.posts %}
+{% for post in paginator.posts %}
   <div class="section">
     <h5><a title="{{ post.title }}" href="{{ post.url | prepend: site.baseurl }}" class="black-text">{{ post.title }}</a></h5>
     <p>
@@ -29,37 +30,7 @@ locale: en
         {% endif %}
      </b>
     </p>
-  </div>
-  <div class="divider"></div>
-
-          <div class="card grey darken-3 hide">
-            <div class="card-content white-text">
-              <a href="{{ post.url | prepend: site.baseurl }}"> <span class="card-title">{{ post.title }}</span></a>
-              {{ post.content | strip_html | truncatewords: 30 }}
-            </div>
-            <div class="card-action">
-              <small>
-               <span class="white-text">
-                <i data-feather="calendar"></i> {{ post.hijri }} 
-                <i data-feather="feather"></i> 
-        {% if post.muftis.shaykh %}
-        {% for shaykh in post.muftis.shaykh %}
-        {{ shaykh.name }}
-        {% endfor %}
-        {% endif %}
-
-        {% if post.muftis %}
-        {% if post.muftis.chairman %}
-        {% for chairman in post.muftis.chairman %}
-          {{ chairman.name }} & Others
-        {% endfor %}
-        {% endif %}
-        {% endif %}
-                        
-               </span>
-              </small>
-              <a class="secondary-content hide" href="{{ post.url | prepend: site.baseurl }}">Read</a>
-            </div>
-          </div>
-         {% endfor %}
-         {% include pagination.html %}
+ </div>
+<div class="divider"></div>
+{% endfor %}
+{% include pagination.html %}
