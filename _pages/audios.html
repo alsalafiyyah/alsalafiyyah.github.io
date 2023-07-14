@@ -5,6 +5,7 @@ active: audios
 permalink: /audios/
 ---
 
+<div class="section" style="margin-left: 15px; margin-right: 15px; margin-bottom: 30px;">
 {% for c in site.audios %}
 <table id="myTable">
  <tbody>
@@ -13,8 +14,8 @@ permalink: /audios/
     <h5><a title="{{ c.title }}" href="{{ c.url }}" class="black-text">{{ c.title }}</a></h5>
     <p><b>{{ c.hijri }}</b></p>
    </td>
-	</tr>
-	</tbody>
+  </tr>
+ </tbody>
 </table>
 {% endfor %}
 <ul id="pagin" class="pagination"></ul>   
