@@ -1,34 +1,12 @@
 <!DOCTYPE html>
 <html class="grey lighten-5">
  {% include head.html %}
-<body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}" class="grey lighten-5">
- 
+<body>
  {% include sidenav.html %}
- 
- <div class="container">
-  
- {% if request.page_type == 'collection' %}
-  {% include navbar.html %}
- {% endif %}
- 
- {% if page.url == "/" %}
-  {% include navbar.html %}
- {% endif %}
- 
- {% if page.url == "/fatwas/index.html" %}
-  {% include navbar.html %}
- {% endif %}
- 
- {% if page.date %}
-  {% include navbar.html %}
- {% endif %}
-  
- {{ content }}
-  
+ <div class="container grey lighten-5" style="margin-bottom: 50px; width: 98%; padding: 0px; margin: 0px auto;">
+  {% include header-page.html %}
+  {{ content }}
  </div>
- 
- {% include search-form.html %}
  {% include scripts.html %}
- 
  </body>
 </html>
