@@ -7,12 +7,12 @@
       <ul class="right">
        <li><a data-target='searchform' href="#" class="dropdown-trigger"><i class="material-icons black-text">search</i></a></li>
        <div id='searchform' class='dropdown-content search-form-content'>
-       <form>    
+       <form action="{{ "search" | relative_url }}">    
         <div class="input-field">
-          <input placeholder="Type and hit enter" type="text" class="validate" style="border-bottom: 2px solid black;">
+          <input name="q" id="search" placeholder="Type and hit enter" type="text" class="validate" pattern=".{3,}" title="At least 3 characters" style="border-bottom: 2px solid black;">
           <label for="first_name">Search</label>
         </div>
-        </form>	
+        </form>
        </div>
       </ul>
     </div>
