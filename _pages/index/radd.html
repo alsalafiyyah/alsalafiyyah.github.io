@@ -6,34 +6,20 @@ lang: en
 permalink: /radd/
 ---
 
-<ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
-  <li itemprop="itemListElement" itemscope
-          itemtype="https://schema.org/ListItem">
-    <a itemprop="item" href="{{ site.url }}"><span itemprop="name">Home</span></a>
-    <meta itemprop="position" content="1" />
-  </li>
-  <li itemprop="itemListElement" itemscope
-          itemtype="https://schema.org/ListItem">
-    <span itemprop="name" class="active">{{ page.title }}</span>
-    <meta itemprop="position" content="2" />
-  </li>
-</ol>
-
-<article>
-<div class="table-wrapper" itemscope itemtype="https://schema.org/Table">
-  <table>
-    <tbody>
-      {% for c in site.refutals %}
-      <tr>
-        <td>{{ c.hijri }}</td>
-        <td>
-          <a title="{{ c.title }}" href="{{ c.url }}">{{ c.title }}</a>
-        </td>
-      </tr>
-      {% else %}
-      <p>{{site.data.settings.page.no-fatwas}}</p>
-      {% endfor %}
-    </tbody>
-  </table>
+<div class="section" style="margin-left: 15px; margin-right: 15px; margin-bottom: 30px;">
+{% for c in site.refutals %}
+<table id="myTable">
+ <tbody>
+  <tr class="line-content">
+   <td>
+    <h5><a title="{{ c.title }}" href="{{ c.url }}" class="black-text">{{ c.title }}</a></h5>
+    <p><b>{{ c.hijri }}</b></p>
+   </td>
+  </tr>
+ </tbody>
+</table>
+{% else %}
+<p>{{site.data.settings.page.no-fatwas}}</p>  
+{% endfor %}
+<ul id="pagin" class="pagination"></ul>   
 </div>
-</article>
