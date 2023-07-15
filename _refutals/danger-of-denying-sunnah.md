@@ -4,6 +4,7 @@ publisher: alsalafiyyah@icloud.com
 title: Danger of denying the Sunnah by words and deeds
 hijri: Muharram 24, 1442 AH
 lang: en
+active: radd
 source: Majmu' Fatawa vol. 27
 excerpt: "I considered it necessary to make things clear regarding the claims of this man, and expose his reality before the Muslims so that they would be aware of his fallacies. Also, I want to fulfill the pledge, escape blame, and guide the Muslim Ummah."
 muftis:
