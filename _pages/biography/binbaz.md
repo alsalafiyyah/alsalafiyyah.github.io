@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 permalink: /biography/binbaz/
 ---
 
-His Eminence Shaykh 'Abdul-'Aziz ibn 'Abdullah ibn 'Abdul-Rahman ibn Muhammad ibn 'Abdullah Al-Baz
+Shaykh 'Abdul-'Aziz ibn 'Abdullah ibn 'Abdul-Rahman ibn Muhammad ibn 'Abdullah Al-Baz
 
 ### His Birth:
 
