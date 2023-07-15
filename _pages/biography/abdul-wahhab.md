@@ -5,7 +5,7 @@ active: biography
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Muqolat vol 1"
 hijri: Dhul-Hijjah 18, 1441 AH
-permalink: /abdul-wahhab
+permalink: /biography/abdul-wahhab
 shaykhs: Shaykh Abdul-Aziz ibn Baz
 ---
 
