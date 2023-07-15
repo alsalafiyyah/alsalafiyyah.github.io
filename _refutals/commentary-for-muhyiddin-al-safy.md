@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat p. 2/98"
 hijri: Muharram 17, 1442 AH
 lang: en
-active: refutals
+active: radd
 note: false
 excerpt: "The Salaf and those who have followed in their footsteps attributed to Allah the Attributes of Perfection, which He has attributed to Himself or which His Messenger (peace be upon him) has attributed to Him."
 muftis:
@@ -16,7 +16,9 @@ muftis:
 
 Praise be to Allah and peace and blessings be upon the Messenger of Allah and upon his family and Companions!
 
-In its issue no. 3383 of 3/4/1408 A.H, Asharq Al-Awsat newspaper published an article by Dr. Muhyi Al-Din Al-Safy entitled "In Order to be the Most Powerful Ummah." When I read the article, my attention was seized by the writer's words about the difference between the Salaf (righteous predecessors) and Khalaf (later scholars) regarding some of Allah's Attributes.
+In its issue no. 3383 of 3/4/1408 A.H, Asharq Al-Awsat newspaper published an article by Dr. Muhyi Al-Din Al-Safy entitled "In Order to be the Most Powerful Ummah." 
+
+When I read the article, my attention was seized by the writer's words about the difference between the Salaf (righteous predecessors) and Khalaf (later scholars) regarding some of Allah's Attributes.
 
 The following is what he wrote:
 
