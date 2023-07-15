@@ -1,10 +1,11 @@
 ---
 layout: page
-title: "Issue on visiting graveyards"
+title: "Issue On Visiting Graveyards"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Muqalat p.28/334"
 hijri: Dhul-Hijjah 20, 1441 AH
 lang: en
+active: wahhabi
 excerpt: "Dear Shaykh, Common people from among the Sufis attend the celebration of the Prophet's birth, believing that these celebrations constitute (true) Islam."
 muftis:
   shaykh: 
