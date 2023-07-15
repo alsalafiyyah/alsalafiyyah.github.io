@@ -6,6 +6,7 @@ source: "Majmu Fatawa wa Muqolat 1/378"
 hijri: Dhul-Hijjah 18, 1441 AH
 lang: en
 note: false
+active: wahhabi
 excerpt: "In fact, the call of Imam Muhammad ibn 'Abdul-Wahhab (may Allah be merciful to him) is the true Islamic call of the Messenger of Allah (peace be upon him), the Sahabah (Companions of the Prophet), and the Salaf (righteous predecessors)."
 muftis:
   shaykh: 
