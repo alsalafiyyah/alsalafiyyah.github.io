@@ -6,6 +6,7 @@ source: "Fatawa Al-Lajnah Ad-Da'imah no. 9420-2"
 hijri: Dhul-Hijjah 19, 1441 AH
 lang: en
 note: true
+active: wahhabi
 excerpt: "Wahhabism is the term which the enemies of Shaykh Muhammad ibn 'Abdul-Wahhab (may Allah be merciful to him) gave to his call to purify Tawhid (monotheism) from all forms of Shirk (associating others with Allah in His Divinity or worship) and to renounce all the ways except that of Muhammad Ibn ‘Abdullah (peace be upon him)."
 muftis:
   chairman: 
