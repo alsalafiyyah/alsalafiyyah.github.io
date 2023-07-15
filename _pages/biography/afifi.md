@@ -1,13 +1,14 @@
 ---
 layout: page
-title: "His Eminence Shaykh 'Abdul-Razzaq ibn 'Afify ibn 'Atiyyah"
+title: "Shaykh Abdul-Razzaq ibn Afifi ibn Atiyyah"
+active: biography
 publisher: "alsalafiyyah@icloud.com"
 permalink: /biography/afifi/
 ---
 
 ### His Birth:
 
-Shaykh 'Abdul-Razzaq ibn 'Afify ibn 'Atiyyah was born in Shanshur, Ashmoun Center, Al-Munufiyyah Governorate in 1323 A.H.
+Shaykh 'Abdul-Razzaq ibn 'Afifi ibn 'Atiyyah was born in Shanshur, Ashmoun Center, Al-Munufiyyah Governorate in 1323 A.H.
 
 ### His Educational Background:
 
