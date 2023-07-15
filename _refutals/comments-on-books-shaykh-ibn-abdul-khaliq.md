@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat p. 8/240"
 hijri: Muharram 16, 1442 AH
 lang: en
-active: refutals
+active: radd
 note: false
 excerpt: "Such a saying from you is false for scholars of Saudi Arabia know about all contemporary problems and they wrote many books on them. All praise be to Allah Alone, I am one of scholars who dealt with contemporary problems and I wrote uncountable writings on them."
 muftis:
