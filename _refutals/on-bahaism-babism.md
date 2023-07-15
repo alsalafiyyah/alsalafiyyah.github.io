@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 publisher: alsalafiyyah@icloud.com
 title: "A brief look at Babism and Bahaism and their hatred towards the Muslims"
 hijri: Muharram 28, 1442 AH
