@@ -6,6 +6,7 @@ hijri: Dhul-Hijjah 24, 1441 AH
 source: "Fatwa Nur 'Ala Al-Darb vol 2"
 note: false
 lang: en
+active: wahhabi
 excerpt: "Our Shaykh, it becomes evident through messages sent to this program that our Muslim world is full of many things that contradict the religion of Islam. One of these things is Sufism and seeking blessings from the graves, Awliya and the like. It seems that this affair require another Shaykh like Muhammad Ibn 'Abdul-Wahhab. "
 muftis:
   shaykh: 
