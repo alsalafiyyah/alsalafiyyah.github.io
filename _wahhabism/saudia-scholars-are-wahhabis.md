@@ -1,6 +1,6 @@
 ---
 layout: audio
-title: "All of the scholars in Saudia are Wahhabis"
+title: "All of the scholars in Saudia are Wahhabis?"
 publisher: "alsalafiyyah@icloud.com"
 hijri: "Rabi' Al-Awwal 25, 1442 AH"
 note: false
