@@ -102,6 +102,10 @@ collections:
     output: true
     active: fawaid
     permalink: /fawaid/:title/   
+  biography:
+    output: true
+    active: biography
+    permalink: /biography/:title/   
   ar:
     output: true
   en: 
