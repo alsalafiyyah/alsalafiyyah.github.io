@@ -1,11 +1,12 @@
 ---
 layout: page
 title: "His Eminence Shaykh 'Abdullah ibn Qa'ud"
+active: biography
 publisher: "alsalafiyyah@icloud.com"
 permalink: /biography/qaud/
 ---
 
-His Eminence Shaykh 'Abdullah ibn Hasan ibn Muhammad ibn Hasan ibn 'Abdullah Al-Qa'ud
+Shaykh 'Abdullah ibn Hasan ibn Muhammad ibn Hasan ibn 'Abdullah Al-Qa'ud
 
 ### His Birth:
 
