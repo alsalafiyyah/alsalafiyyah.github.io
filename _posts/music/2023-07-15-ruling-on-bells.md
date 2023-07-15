@@ -10,7 +10,7 @@ excerpt: "What is the kind of bell that is forbidden?"
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz
-      url: /biography/baz/
+      url: /biography/binbaz/
   deputy_chairman:
     - name: Shaykh Abdul-Aziz Aal Al-Shaykh
       url: /biography/abdulaziz/
