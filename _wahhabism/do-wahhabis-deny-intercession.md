@@ -6,6 +6,7 @@ source: "Fatawa Al-Lajnah Ad-Da'imah no. 9420-2"
 hijri: Dhul-Hijjah 19, 1441 AH
 note: false
 lang: en
+active: wahhabi
 excerpt: "Do Wahhabis deny Shafa’ah (intercession) by the Messenger of Allah (peace be upon him)?"
 muftis:
   shaykh: 
