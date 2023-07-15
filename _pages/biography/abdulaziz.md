@@ -1,5 +1,6 @@
 ---
 layout: page
+active: biography
 title: "His Eminence Shaykh 'Abdul-'Aziz Aal Al-Shaykh"
 publisher: "alsalafiyyah@icloud.com"
 permalink: /biography/abdulaziz/
