@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: radd
+id: radd
 title: "On Abdullah Al-Habashy"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa Shaykh ibn Baz 9/315"
 hijri: "Dhul-Qa'dah 26, 1441 AH"
 lang: en
-active: refutals
+active: radd
 note: false
 excerpt: "I would like to tell you that this sect is known to us. It is a misguided sect and their leader Abdullah Al-Habashy is notorious for his deviation and aberration. Thus, it is obligatory to boycott them and condemn their 'Aqidah (creed) and warn people against them."
 muftis:
