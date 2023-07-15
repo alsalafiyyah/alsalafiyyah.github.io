@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Accused of being a Wahhabi for calling to Tawhid and abandoning Shirk (polytheism)"
+title: "Accused of being a Wahhabi for calling to Tawhid dan abandoning Shirk (polytheism) and Bid'ah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 3, tape no. 124, question 16"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_887/nour_88708.mp3
