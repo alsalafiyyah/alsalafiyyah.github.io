@@ -1,11 +1,12 @@
 ---
 layout: page
 title: "His Eminence Shaykh 'Abdullah ibn Ghudayyan"
+active: biography 
 publisher: "alsalafiyyah@icloud.com"
 permalink: /biography/ghudayyan/
 ---
 
-His Eminence Shaykh 'Abdullah ibn 'Abdul-Rahman ibn 'Abdul-Razzaq Al-Ghudayyan Al-Tamimi
+Shaykh 'Abdullah ibn 'Abdul-Rahman ibn 'Abdul-Razzaq Al-Ghudayyan Al-Tamimi
 
 He descended from Al-Muhaddith from Banu Al-'Anbar from Banu 'Amr ibn Tamim. His lineage originates from 'Amud Tabkhah ibn Ilias ibn Madar from the family of Adnan. His lineage on his mother’s side goes back to Al-Rashid from 'Utaybah, which descends from Hawazen.
 
