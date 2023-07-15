@@ -3,10 +3,11 @@ layout: page
 title: "The Da'wah of Imam Muhammad ibn 'Abdul-Wahhab is the true Islamic Da'wah"
 publisher: "alsalafiyyah@icloud.com"
 lang: en
+active: biography
 source: "Majmu Fatawa wa Muqolat"
 hijri: Dhul-Hijjah 18, 1441 AH
 date: 2020/08/8
-permalink: /biographies/muhammad-al-wahhab/2/
+permalink: /biography/abdul-wahhab/2/
 shaykhs: Shaykh Abdul-Aziz ibn Baz
 ---
 
