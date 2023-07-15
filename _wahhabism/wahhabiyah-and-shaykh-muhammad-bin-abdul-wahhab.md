@@ -6,6 +6,7 @@ source: "Fatawa Al-Lajnah Ad-Da'imah no. 6477-3"
 hijri: Dhul-Hijjah 20, 1441 AH
 note: true
 lang: en
+active: wahhabi
 excerpt: "Some people told me that there is a thing called 'Wahhabiyyah', but I explained to them that there is no such thing called 'Wahabiyyah'; that this is merely a name given by those who claim to be Ashraf to turn people away from the reformative call."
 muftis:
   chairman: 
