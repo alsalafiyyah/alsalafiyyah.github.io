@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 28/275"
 hijri: Dhul-Hijjah 3, 1441 AH
 lang: en
-active: refutals
+active: radd
 note: false
 excerpt: "Allah created a life for the sons of Adam and granted them minds and the ability to speak. This abominable theory is false according to Ijma' (consensus of scholars)."
 muftis:
