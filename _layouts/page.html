@@ -5,7 +5,18 @@
  {% include sidenav.html %}
  <div class="container grey lighten-5">
   
- {% include navbar.html %}
+    <nav class="z-depth-0 transparent">
+    <div class="nav-wrapper">
+     <ul class="left">
+      <li>
+         <a class="modal-trigger" href="{{ site.url }}"><i class="material-icons black-text">keyboard_backspace</i></a>
+        {% if page.active == "radd" %}
+         <a class="modal-trigger" href="{{ "radd" | relative_url }}"><i class="material-icons black-text">keyboard_backspace</i></a>      
+        {% endif %}
+      </li>
+      </ul>           
+    </div>
+    </nav>
   
   <h3>{{ page.title }}</h3>
   <div class="content white">
