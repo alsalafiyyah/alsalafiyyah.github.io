@@ -7,6 +7,7 @@ mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_709/no
 hijri: Dhul-Hijjah 16, 1441 AH
 note: false
 lang: en
+active: wahhabi
 excerpt: "I would like to have an idea about the Da'wah (calling to Islam) Salafiyyah (i.e. based on the approach of the Salaf or the righteous predecessors) and Shaykh-ul-Islam Muhammad ibn Abdul-Wahhab?"
 muftis:
   shaykh: 
