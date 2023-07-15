@@ -6,6 +6,7 @@ source: "Majmu' Fatawa wa Muqolat 8/34"
 hijri: Dhul-Hijjah 19, 1441 AH
 note: false
 lang: en
+active: wahhabi
 excerpt: "The ignorant people and the enemies of Allah accused the prophets and the Salaf (righteous predecessors) of more than this."
 muftis:
   shaykh: 
