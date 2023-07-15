@@ -1,12 +1,12 @@
 ---
 layout: page
 active: biography
-title: "His Eminence Shaykh 'Abdul-'Aziz Aal Al-Shaykh"
+title: "Shaykh 'Abdul-'Aziz Aal Al-Shaykh"
 publisher: "alsalafiyyah@icloud.com"
 permalink: /biography/abdulaziz/
 ---
 
-His Eminence Shaykh 'Abdul-'Aziz ibn 'Abdullah ibn Muhammad Aal Al-Shaykh
+Shaykh 'Abdul-'Aziz ibn 'Abdullah ibn Muhammad Aal Al-Shaykh
 
 ### His Post:
 
