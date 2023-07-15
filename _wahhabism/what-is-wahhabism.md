@@ -7,6 +7,7 @@ mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_461/46
 hijri: Dhul-Hijjah 13, 1441 AH
 note: false
 lang: en
+active: wahhabi
 excerpt: "Wahhabism is a word used by the enemies of Salafiyyah. They use it to describe those who followed Imam Muhammad ibn 'Abdul-Wahhab ibn Sulayman ibn Ali Al-Tamimi Al-Hanbali, who died in 1206 AH in Al-Dir'iyyah."
 muftis:
   shaykh: 
