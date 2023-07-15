@@ -5,6 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa of Shaykh Ibn Baz p. 1/354"
 hijri: Dhul-Hijjah 18, 1441 AH
 lang: en
+active: wahhabi
 excerpt: "The reason for the people's anger at the Shaykh Muhammad bin Abdul-Wahhab was his attempts to enjoin the good and forbid the evil."
 muftis:
   shaykh: 
