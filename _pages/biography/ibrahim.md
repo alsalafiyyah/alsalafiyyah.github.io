@@ -1,11 +1,12 @@
 ---
 layout: page
-title: "His Eminence Shaykh Ibrahim ibn Muhammad Aal Al-Shaykh"
+title: "Shaykh Ibrahim ibn Muhammad Aal Al-Shaykh"
+active: biography
 publisher: "alsalafiyyah@icloud.com"
 permalink: /biography/ibrahim/
 ---
 
-His Eminence Shaykh Ibrahim ibn Muhammad ibn Ibrahim ibn 'Abdul-Latif ibn 'Abdul-Rahman ibn Hasan ibn Imam Muhammad ibn 'Abdul-Wahhab
+Shaykh Ibrahim ibn Muhammad ibn Ibrahim ibn 'Abdul-Latif ibn 'Abdul-Rahman ibn Hasan ibn Imam Muhammad ibn 'Abdul-Wahhab
 
 ### His Birth:
 
