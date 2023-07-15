@@ -8,10 +8,16 @@
     <nav class="z-depth-0 transparent">
     <div class="nav-wrapper">
      <ul class="left">
-      <li>
-         <a class="modal-trigger" href="{{ site.url }}"><i class="material-icons black-text">keyboard_backspace</i></a>
+      <li>         
         {% if page.active == "radd" %}
-         <a class="modal-trigger" href="{{ "radd" | relative_url }}"><i class="material-icons black-text">keyboard_backspace</i></a>      
+         <a class="modal-trigger" href="{{ "radd" | relative_url }}"><i class="material-icons black-text">keyboard_backspace</i></a>  
+        {% else %}
+         <a class="modal-trigger" href="{{ site.url }}"><i class="material-icons black-text">keyboard_backspace</i></a>
+        {% endif %}
+        {% if page.active == "wahabbi" %}
+         <a class="modal-trigger" href="{{ "wahabbism" | relative_url }}"><i class="material-icons black-text">keyboard_backspace</i></a>  
+        {% else %}
+         <a class="modal-trigger" href="{{ site.url }}"><i class="material-icons black-text">keyboard_backspace</i></a>
         {% endif %}
       </li>
       </ul>           
