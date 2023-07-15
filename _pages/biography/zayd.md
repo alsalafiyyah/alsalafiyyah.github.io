@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "His Eminence Shaykh Bakr ibn 'Abdullah Abu Zayd"
+title: "Shaykh Bakr ibn 'Abdullah Abu Zayd"
+active: biography
 publisher: "alsalafiyyah@icloud.com"
 permalink: /biography/bakr/
 ---
