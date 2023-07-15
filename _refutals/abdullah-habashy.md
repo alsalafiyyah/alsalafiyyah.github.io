@@ -1,6 +1,5 @@
 ---
-layout: radd
-id: radd
+layout: page
 title: "On Abdullah Al-Habashy"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa Shaykh ibn Baz 9/315"
