@@ -56,5 +56,5 @@ All of this made me unable to be with you at this blessed gathering. That is why
 I ask Allah to accept all our deeds and to make them sincere for His Sake. May Allah make us of those guiding and guided, for He is the Most Generous. May peace and blessings be upon our Prophet Muhammad, his family and Companions.
 
 ---
-[Next page](/biograpy/abdul-wahhab/3/)
+[Next page](/biography/abdul-wahhab/3/)
 
