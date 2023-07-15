@@ -1,0 +1,21 @@
+---
+layout: default
+title: Biography
+active: biography
+permalink: /biography/
+---
+
+<div class="section" style="margin-left: 15px; margin-right: 15px; margin-bottom: 30px;">
+{% for data in site.data.biography %}
+<table id="myTable">
+ <tbody>
+  <tr class="line-content">
+   <td>
+    <h5><a title="{{ data.title }}" href="{{ data.url }}" class="black-text">{{ data.title }}</a></h5>
+   </td>
+  </tr>
+ </tbody>
+</table>
+{% endfor %}
+<ul id="pagin" class="pagination"></ul>   
+</div>
