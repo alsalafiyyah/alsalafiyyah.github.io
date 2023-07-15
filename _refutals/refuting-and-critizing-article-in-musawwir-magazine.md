@@ -5,6 +5,7 @@ title: "Refuting and criticizing an article published in Al-Musawwir magazine "
 hijri: Safar 03, 1442 AH
 lang: en
 source: "Majmu' Fatawa p. 3/156 and p. 2/98"
+active: radd
 excerpt: "Thus, how on earth could Ahmad Baha' Al-Din or those who have transmitted this news to him propagate such falsehood and attribute it to an article that was published and read by people everywhere, may Allah be Glorified! I wonder how brazen-faced is that slanderer!"
 muftis:
   shaykh: 
