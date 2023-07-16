@@ -12,7 +12,7 @@ permalink: /books/
     <div class="col s12 m7">
       <div class="card">
         <div class="card-image">
-          <img src="../assets/images/books/{{ c.img }}">          
+          <img class="lazy" src="{{ "/assets/loader.gif" | relative_url }}" data-src="../assets/images/books/{{ c.img }}">          
         </div>
         <div class="card-content">
           <p class="card-title">{{ c.title }}</p>
@@ -22,5 +22,7 @@ permalink: /books/
     </div>
   </div>
   {% endfor %}
-  <a href="https://darpdfs.org/books/" target="_blank" class="waves-effect waves-light btn-large center-align black">View All Books & Download</a>
+  <div class="center-align">
+  <a href="https://darpdfs.org/books/" target="_blank" class="waves-effect waves-light btn-large black">View All Books & Download</a>
+  </div
 </div>
