@@ -1,7 +1,7 @@
 ---
 layout: page
 active: biography
-title: "Shaykh Abdul-Rahman Al-Sa'di"
+title: "Shaykh Al-Sa'di"
 publisher: "alsalafiyyah@icloud.com"
 permalink: /biography/saadi/
 ---
@@ -43,30 +43,30 @@ He first sat to teach at the age of twenty three, and he used to divide his time
 
 #### His students:
 
-(1) Shaikh Muhammad ibn Salih al-Uthaymeen. He took over from his Shaikh in the duty of Imam of the Congregational Mosque of Unayzah, and in teaching, admonishing, and delivering the khutbah.
-(2) Shaikh Abdullah ibn Abdur-Rahman al-Bassam. Member of the Discretionary Committee in the Western Region.
-(3) Shaikh Abdul-Aziz ibn Muhammad as-Salman. He studied in the Imaamud-Da`wah Institute in ar-Riyaad, and he followed the path of his shaikh in authorship.
+1. Shaikh Muhammad ibn Salih al-Uthaymeen. He took over from his Shaikh in the duty of Imam of the Congregational Mosque of Unayzah, and in teaching, admonishing, and delivering the khutbah.
+2. Shaikh Abdullah ibn Abdur-Rahman al-Bassam. Member of the Discretionary Committee in the Western Region.
+3. Shaikh Abdul-Aziz ibn Muhammad as-Salman. He studied in the Imaamud-Da`wah Institute in ar-Riyaad, and he followed the path of his shaikh in authorship.
 
 #### His writings:
 
 Shaikh Ibn Sa'di -rahimahullah- gave great attention to writing works. He produced many works in the different fields of Islamic knowledge. Some have been printed, while others are, as yet, unprinted. So from the printed works are: 
 
-1- al-Adillatul-Qawati' wal-Barahin fi Ibtal Usulil-Mulhidin;
-2- al-Irshad ila Ma'rifatil-Ahkam;
-3- Bahjatu Qulubil-Abrar wa Qurratu 'Uyunil-Akhyar fi Sharh Jawami'il-Akhbar, and it is presently being prepared and attended to;
-4- Tawdihul-Kafiyatish-Shafiyah;
-5- at-Tawdih wal-Bayan lishajaratil-Iman;
-6- at-Tanbihatul-Latifah feemahtawat 'alaihil-Wasitiyyah minal-Mabahithil-Munifah;
-7- Taysirul-Karimir-Rahman fi Tafsir Kalamil-Mannan;
-8- ad-Durratul-Mukhtasarh fi Mahasin Dinil-Islam’;
-9- Risalah fil-Qawa'idil-Fiqhiyyah;
-10- Risalah Latifah Jami'ah fi Usulil-Fiqhil-Muhimmah; and it is before your eyes, along with annotations upon it;
-11- Tariqul-Wusul ilal-Ilmil-Ma·mool bima rifatil-Qawa'id wad-Dawabit wal-Usul;
-12- al-Fatawas-Sa'diyyah.They were gathered after his death -rahimahullahu Ta'ala.
-13- al-Qawa'idul-Hisan li-Tafsiril-Qur'an;
-14- al-Qawlus-Sadid fi Maqasidit-Tawhid;
-15- Manhajus-Salikin wa Tawdihul-Fiqh fid-Din;
-16- al-Wasa·ilul-Mufidah lil-Hayatis-Sa'idah.
+1. al-Adillatul-Qawati' wal-Barahin fi Ibtal Usulil-Mulhidin;
+2. al-Irshad ila Ma'rifatil-Ahkam;
+3. Bahjatu Qulubil-Abrar wa Qurratu 'Uyunil-Akhyar fi Sharh Jawami'il-Akhbar, and it is presently being prepared and attended to;
+4. Tawdihul-Kafiyatish-Shafiyah;
+5. at-Tawdih wal-Bayan lishajaratil-Iman;
+6. at-Tanbihatul-Latifah feemahtawat 'alaihil-Wasitiyyah minal-Mabahithil-Munifah;
+7. Taysirul-Karimir-Rahman fi Tafsir Kalamil-Mannan;
+8. ad-Durratul-Mukhtasarh fi Mahasin Dinil-Islam’;
+9. Risalah fil-Qawa'idil-Fiqhiyyah;
+10. Risalah Latifah Jami'ah fi Usulil-Fiqhil-Muhimmah; and it is before your eyes, along with annotations upon it;
+11. Tariqul-Wusul ilal-Ilmil-Ma·mool bima rifatil-Qawa'id wad-Dawabit wal-Usul;
+12. al-Fatawas-Sa'diyyah.They were gathered after his death -rahimahullahu Ta'ala.
+13. al-Qawa'idul-Hisan li-Tafsiril-Qur'an;
+14. al-Qawlus-Sadid fi Maqasidit-Tawhid;
+15. Manhajus-Salikin wa Tawdihul-Fiqh fid-Din;
+16. al-Wasa·ilul-Mufidah lil-Hayatis-Sa'idah.
 
 #### His illness and death:
 
