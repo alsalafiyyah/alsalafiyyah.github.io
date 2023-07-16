@@ -23,20 +23,14 @@ permalink: /demo/
             <tbody>
                 <tr ng-repeat="row in $data">
 
-                    <td data-title="'Nome'" sortable="'Nome'" filter="{ 'Nome': 'text'}">
+                    <td data-title="'Title'" sortable="'Title'" filter="{ 'Title': 'text'}">
                         {{row.Title}}
                     </td>
-                    <td data-title="'Country'" sortable="'Country'" filter="{ 'Country': 'text'}">
+                    <td data-title="'Url'" sortable="'Url'" filter="{ 'Url': 'text'}">
                         {{row.Url}}
                     </td>
 
-                    <td data-title="'Abreviatura'" sortable="'Abreviatura'" filter="{ 'Abreviatura': 'text'}">
-                        {{row.Hijri}}
-                    </td>
-                    <td>
-                        <a href="Equipas/Edit/{{row.EquipaID}}"> Visit</a> |
-                        
-                    </td>
+ 
                 </tr>
 
             </tbody>
@@ -55,8 +49,7 @@ app.controller('equipasCtrl', function($scope, $q, $filter, NgTableParams) {
   $scope.equipas = [{
   {% for c in site.audios %}
     'Title': '{{ c.title }}',
-    'Url': '{{ c.url }}',
-    'Hijri': '{{ c.hijri }}'
+    'Url': '{{ c.url }}'
   {% endfor %}
   }];
 
