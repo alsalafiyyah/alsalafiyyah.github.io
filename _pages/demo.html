@@ -1,7 +1,6 @@
 ---
 layout: null
 title: Demo
-active: home
 permalink: /demo/
 ---
 
@@ -18,10 +17,35 @@ permalink: /demo/
       </ul>        
     </div>
   </nav>
- <div class="content white">
+ <div ng-app="alsalafiyyah" ng-controller="alsalafiyyahCtrl" class="content white">
+<table class="table" ng-table="equipasTable" show-filter="true">
+            <tbody>
+                <tr ng-repeat="row in $data">
 
+                    <td data-title="'Nome'" sortable="'Nome'" filter="{ 'Nome': 'text'}">
+                        {{row.Nome}}
+                    </td>
+                    <td data-title="'Country'" sortable="'Country'" filter="{ 'Country': 'text'}">
+                        {{row.Country}}
+                    </td>
+
+                    <td data-title="'Abreviatura'" sortable="'Abreviatura'" filter="{ 'Abreviatura': 'text'}">
+                        {{row.Abreviatura}}
+                    </td>
+                    <td>
+                        <a href="Equipas/Edit/{{row.EquipaID}}"> Editar</a> |
+                        <a href="Equipas/Details/{{row.EquipaID}}"> Detalhes</a> |
+                        <a href="Equipas/Delete/{{row.EquipaID}}"> Eliminar</a>
+                    </td>
+                </tr>
+
+            </tbody>
+ </table>
+  
  </div>
  </div>
  {% include scripts.html %}
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.8/angular.min.js"><script>
+ <script src="https://unpkg.com/ng-table@2.0.2/bundles/ng-table.min.js"><script>
  </body>
 </html>
