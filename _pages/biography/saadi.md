@@ -41,13 +41,13 @@ He first sat to teach at the age of twenty three, and he used to divide his time
 3. Shaikh Muhammad ibn ash-Shaikh Abdil-Aziz al-Muhammad al-Mani' (1300-1385 H). He learned from him the sciences of the Arabic Language.
 4. Shaikh Muhammad al-Amin ash-Shanqiti (1289-1351 H). He learned from him Tafseer, Hadeeth, Science of Hadeeth, and the sciences of the Language.
 
-#### His students:
+#### His students
 
 1. Shaikh Muhammad ibn Salih al-Uthaymeen. He took over from his Shaikh in the duty of Imam of the Congregational Mosque of Unayzah, and in teaching, admonishing, and delivering the khutbah.
 2. Shaikh Abdullah ibn Abdur-Rahman al-Bassam. Member of the Discretionary Committee in the Western Region.
-3. Shaikh Abdul-Aziz ibn Muhammad as-Salman. He studied in the Imaamud-Da`wah Institute in ar-Riyaad, and he followed the path of his shaikh in authorship.
+3. Shaikh Abdul-Aziz ibn Muhammad as-Salman. He studied in the Imaamud-Da`wah Institute in ar-Riyad, and he followed the path of his shaikh in authorship.
 
-#### His writings:
+#### His writings
 
 Shaikh Ibn Sa'di -rahimahullah- gave great attention to writing works. He produced many works in the different fields of Islamic knowledge. Some have been printed, while others are, as yet, unprinted. So from the printed works are: 
 
@@ -68,7 +68,7 @@ Shaikh Ibn Sa'di -rahimahullah- gave great attention to writing works. He produc
 15. Manhajus-Salikin wa Tawdihul-Fiqh fid-Din;
 16. al-Wasa·ilul-Mufidah lil-Hayatis-Sa'idah.
 
-#### His illness and death:
+#### His illness and death
 
 He fell ill in the year 1371 H, i.e. five years before his death, with the illness of high blood pressure and arteriosclerosis, and it would strike him time after time, and he bore it patiently, until he moved on to his Lord, at the time of Fajr, on Thursday the 22nd of Jumadal-Akhirah 1376 H – may Allah forgive him, and his parents, and our parents, and all of the Muslims.
 
