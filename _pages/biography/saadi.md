@@ -72,4 +72,5 @@ Ninthly: His illness and death:
 
 He fell ill in the year 1371 H, i.e. five years before his death, with the illness of high blood pressure and arteriosclerosis, and it would strike him time after time, and he bore it patiently, until he moved on to his Lord, at the time of Fajr, on Thursday the 22nd of Jumadal-Akhirah 1376 H – may Allah forgive him, and his parents, and our parents, and all of the Muslims.
 
-Source: https://alitisaambissunnah.wordpress.com/2011/11/09/biography-of-shaikh-abdur-rahmaan-ibn-naasir-as-sadee-rahimahullaah/ 
+Source: [alitisaambissunnah](https://alitisaambissunnah.wordpress.com/2011/11/09/biography-of-shaikh-abdur-rahmaan-ibn-naasir-as-sadee-rahimahullaah/)
+ 
