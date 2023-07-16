@@ -17,25 +17,24 @@ permalink: /demo/
       </ul>        
     </div>
   </nav>
- <div ng-app="alsalafiyyah" ng-controller="alsalafiyyahCtrl" class="content white">
+ <div ng-app="alsalafiyyah" ng-controller="equipasCtrl" class="content white">
 <table class="table" ng-table="equipasTable" show-filter="true">
             <tbody>
                 <tr ng-repeat="row in $data">
 
                     <td data-title="'Nome'" sortable="'Nome'" filter="{ 'Nome': 'text'}">
-                        {{row.Nome}}
+                        {{row.Title}}
                     </td>
                     <td data-title="'Country'" sortable="'Country'" filter="{ 'Country': 'text'}">
-                        {{row.Country}}
+                        {{row.Url}}
                     </td>
 
                     <td data-title="'Abreviatura'" sortable="'Abreviatura'" filter="{ 'Abreviatura': 'text'}">
-                        {{row.Abreviatura}}
+                        {{row.Hijri}}
                     </td>
                     <td>
-                        <a href="Equipas/Edit/{{row.EquipaID}}"> Editar</a> |
-                        <a href="Equipas/Details/{{row.EquipaID}}"> Detalhes</a> |
-                        <a href="Equipas/Delete/{{row.EquipaID}}"> Eliminar</a>
+                        <a href="Equipas/Edit/{{row.EquipaID}}"> Visit</a> |
+                        
                     </td>
                 </tr>
 
@@ -50,20 +49,14 @@ permalink: /demo/
  <script>
  var app = angular.module('alsalafiyyah', ['ngTable']);
 
-app.controller('alsalafiyyahCtrl', function($scope, $q, $filter, NgTableParams) {
+app.controller('equipasCtrl', function($scope, $q, $filter, NgTableParams) {
 
   $scope.equipas = [{
-    'Nome': 'D123',
-    'Country': 'USA',
-    'Abreviatura': 'Testing'
-  }, {
-    'Nome': 'X123',
-    'Country': 'USA',
-    'Abreviatura': 'Testing'
-  }, {
-    'Nome': 'A123',
-    'Country': 'USA',
-    'Abreviatura': 'Testing'
+  {% for c in site.audios %}
+    'Title': '{{ c.title }}',
+    'Url': '{{ c.url }}',
+    'Hijri': '{{ c.hijri }}'
+  {% endfor %}
   }];
 
   $scope.equipasTable = new NgTableParams({
