@@ -34,9 +34,31 @@
   
   <h3>{{ page.title }}</h3>
   <div class="content white">
+   {% if page.active == "audios" %}
+    {% include player.html %}
+   {% endif %}
    {{ content }}
+
+   {% if page.active == "audios" %}
+   {% if page.muftis %}
+    <div class="card-panel grey lighten-3">
+    <ul class="collection border-0">
+    {% if page.muftis.shaykh %}
+      {% for shaykh in page.muftis.shaykh %}
+      <li class="collection-item">
+       <i data-feather="mic"></i> <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}"><b>{{ shaykh.name }}</b></a>
+      </li>
+      {% endfor %}
+     {% endif %}
+     </ul>
+     </div>
+   {% endif %}
+   {% endif %}
+   
   </div>
+  
  </div>
+ 
  {% include search-form.html %}
  {% include scripts.html %}
  </body>
