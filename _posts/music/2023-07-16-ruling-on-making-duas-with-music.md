@@ -21,10 +21,10 @@ muftis:
       url: /biography/qaud/
 ---
 
-Question: 
+###### Question: 
 
 What is the ruling on supplications accompanied by music?
 
-Answer: 
+###### Answer: 
 
-This is not permissible, for music in itself is haram and making du’as (supplications) accompanied by music is mockery and mixing ibadah (worship) with amusement. If the supplications are tinged with bid'ah, this is even worse, for it combines amusement and ibtida' (heresy). Moreover, it involves imitating the customs of non-Muslims.
+This is not permissible, for music in itself is haram and making du’as (supplications) accompanied by music is mockery and mixing ibadah (worship) with amusement. If the supplications are tinged with bid'ah (religious innovations), this is even worse, for it combines amusement and ibtida' (heresy). Moreover, it involves imitating the customs of non-Muslims.
