@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Shaykh Ibn Uthaymeen"
+title: "Shaykh Muhammad Ibn Salih Al-Uthaymeen"
 publisher: "alsalafiyyah@icloud.com"
 active: biography
 permalink: /biography/uthaymeen/
