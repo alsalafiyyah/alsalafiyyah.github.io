@@ -12,12 +12,11 @@ permalink: /books/
     <div class="col s12 m7">
       <div class="card">
         <div class="card-image">
-          <img src="../assets/images/books/{{ c.img }}">
-          <span class="card-title">{{ c.title }}</span>
+          <img src="../assets/images/books/{{ c.img }}">          
         </div>
         <div class="card-content hide">
-          <p>I am a very simple card. I am good at containing small bits of information.
-          I am convenient because I require little markup to use effectively.</p>
+          <p class="card-title">{{ c.title }}</p>
+          <p>{{ c.author }}</p>
         </div>
         <div class="card-action">
           <a href="{{ c.url }}">Download</a>
