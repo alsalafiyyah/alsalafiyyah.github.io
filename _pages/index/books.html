@@ -1,0 +1,28 @@
+---
+layout: default
+title: Books
+active: books
+lang: en
+permalink: /books/
+---
+
+<div class="section" style="margin-left: 15px; margin-right: 15px; margin-bottom: 30px;">
+{% for c in site.data.books %}
+  <div class="row">
+    <div class="col s12 m7">
+      <div class="card">
+        <div class="card-image">
+          <img src="../assets/images/books/{{ c.img }}">
+          <span class="card-title">{{ c.title }}</span>
+        </div>
+        <div class="card-content hide">
+          <p>I am a very simple card. I am good at containing small bits of information.
+          I am convenient because I require little markup to use effectively.</p>
+        </div>
+        <div class="card-action">
+          <a href="{{ c.url }}">Download</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
