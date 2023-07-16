@@ -1,0 +1,27 @@
+---
+layout: null
+title: Demo
+active: home
+permalink: /demo/
+---
+
+<!DOCTYPE html>
+<html class="grey lighten-5">
+{% include head.html %}
+<body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}" class="grey lighten-5">
+ {% include sidenav.html %}
+<div class="container" style="width: 98%;">
+   <nav class="z-depth-0 transparent">
+    <div class="nav-wrapper">
+     <ul class="left">
+       <li><a class="modal-trigger" href="{{ "#!" | relative_url }}"><i class="material-icons black-text">keyboard_backspace</i></a></li>          
+      </ul>        
+    </div>
+  </nav>
+ <div class="content white">
+
+ </div>
+ </div>
+ {% include scripts.html %}
+ </body>
+</html>
