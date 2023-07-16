@@ -47,5 +47,54 @@ permalink: /demo/
  {% include scripts.html %}
  <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.8/angular.min.js"><script>
  <script src="https://unpkg.com/ng-table@2.0.2/bundles/ng-table.min.js"><script>
+ <script>
+ var app = angular.module('alsalafiyyah', ['ngTable']);
+
+app.controller('alsalafiyyahCtrl', function($scope, $q, $filter, NgTableParams) {
+
+  $scope.equipas = [{
+    'Nome': 'D123',
+    'Country': 'USA',
+    'Abreviatura': 'Testing'
+  }, {
+    'Nome': 'X123',
+    'Country': 'USA',
+    'Abreviatura': 'Testing'
+  }, {
+    'Nome': 'A123',
+    'Country': 'USA',
+    'Abreviatura': 'Testing'
+  }];
+
+  $scope.equipasTable = new NgTableParams({
+    page: 1,
+    sorting: {
+      Nome: 'asc'
+    },
+    count: 10
+
+  }, {
+    //total: $scope.data.length,
+    getData: function(params) {
+      var data = $scope.equipas;
+      data = params.filter() ? $filter('filter')(data, params.filter()) : data;
+      data = params.orderBy() ? $filter('orderBy')(data, params.orderBy()) : data;
+      params.total(data.length);
+      data = data.slice((params.page() - 1) * params.count(), params.page() * params.count());
+      return data;
+    }
+
+  });
+   var sort = function(data, sort) {
+    var defer = $q.defer();
+    if (sort) {
+
+    }
+    defer.resolve(data);
+    return defer.promise;
+  }
+
+});                  
+ </script>
  </body>
 </html>
