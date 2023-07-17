@@ -55,6 +55,7 @@ permalink: /demo/
           articleTitle: "{{ c.title }}",
           articleUrl: "{{ c.url }}"
       }
+   {% unless forloop.last %},{% endunless %}
    {% endfor %}    
   ];
  </script>     
