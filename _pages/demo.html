@@ -8,14 +8,14 @@ permalink: /demo/
 <html class="grey lighten-5">
 {% include head.html %}
     <script data-require="angular.js@1.1.5" data-semver="1.1.5" src=
-"http://code.angularjs.org/1.1.5/angular.min.js">
+"https://code.angularjs.org/1.1.5/angular.min.js">
     </script>
     <link data-require="bootstrap-css@2.3.2" data-semver="2.3.2" rel="stylesheet"
         href=
 "https://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" />
     <script data-require="angular-ui-bootstrap@0.3.0" data-semver="0.3.0"
         src=
-"http://angular-ui.github.io/bootstrap/ui-bootstrap-tpls-0.3.0.min.js">
+"https://angular-ui.github.io/bootstrap/ui-bootstrap-tpls-0.3.0.min.js">
     </script>
 <body ng-app="myApp" ng-controller="ListController as list" onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}" class="grey lighten-5">
  {% include sidenav.html %}
@@ -27,22 +27,6 @@ permalink: /demo/
       </ul>        
     </div>
   </nav>
-    <table border="1">
-
-        <tr ng-repeat="item in filteredItems">
-            <td>
-             <a href="{{item.articleUrl}}">{{item.articleTitle}}</a>
-             </td>
-        </tr>
-    </table>
-    <div data-pagination=""
-         data-num-pages="numOfPages()"
-         data-current-page="curPage"
-         data-max-size="maxSize"
-         data-boundary-links="true">
-    </div>
- </div>
- {% include scripts.html %}
  <script>
   var app = angular.module('myApp', ['ui.bootstrap']);
   app.controller('ListController', function ($scope) {
@@ -77,6 +61,22 @@ permalink: /demo/
           articleUrl: ""
       }
   ];
- </script>   
+ </script>     
+    <table border="1">
+
+        <tr ng-repeat="item in filteredItems">
+            <td>
+             <a href="{{item.articleUrl}}">{{item.articleTitle}}</a>
+             </td>
+        </tr>
+    </table>
+    <div data-pagination=""
+         data-num-pages="numOfPages()"
+         data-current-page="curPage"
+         data-max-size="maxSize"
+         data-boundary-links="true">
+    </div>
+ </div>
+ {% include scripts.html %}
  </body>
 </html>
