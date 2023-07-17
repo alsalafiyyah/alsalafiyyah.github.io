@@ -7,8 +7,17 @@ permalink: /demo/
 <!DOCTYPE html>
 <html class="grey lighten-5">
 {% include head.html %}
- <link rel="stylesheet" href="https://unpkg.com/ng-table@2.0.2/bundles/ng-table.min.css">
-<body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}" class="grey lighten-5">
+    <script data-require="angular.js@1.1.5" data-semver="1.1.5" src=
+"http://code.angularjs.org/1.1.5/angular.min.js">
+    </script>
+    <link data-require="bootstrap-css@2.3.2" data-semver="2.3.2" rel="stylesheet"
+        href=
+"https://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" />
+    <script data-require="angular-ui-bootstrap@0.3.0" data-semver="0.3.0"
+        src=
+"http://angular-ui.github.io/bootstrap/ui-bootstrap-tpls-0.3.0.min.js">
+    </script>
+<body ng-app="myApp" ng-controller="ListController as list" onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}" class="grey lighten-5">
  {% include sidenav.html %}
 <div class="container" style="width: 98%;">
    <nav class="z-depth-0 transparent">
@@ -18,70 +27,57 @@ permalink: /demo/
       </ul>        
     </div>
   </nav>
- <div ng-app="alsalafiyyah" ng-controller="equipasCtrl" class="content white">
-<table class="table" ng-table="equipasTable" show-filter="true">
-            <tbody>
-                <tr ng-repeat="row in $data">
+    <table border="1">
 
-                    <td data-title="'Title'" sortable="'Title'" filter="{ 'Title': 'text'}">
-                        {{row.Title}}
-                    </td>
-                    <td data-title="'Url'" sortable="'Url'" filter="{ 'Url': 'text'}">
-                        {{row.Url}}
-                    </td>
-
- 
-                </tr>
-
-            </tbody>
- </table>
-  
- </div>
+        <tr ng-repeat="item in filteredItems">
+            <td>
+             <a href="{{item.articleUrl}}">{{item.articleTitle}}</a>
+             </td>
+        </tr>
+    </table>
+    <div data-pagination=""
+         data-num-pages="numOfPages()"
+         data-current-page="curPage"
+         data-max-size="maxSize"
+         data-boundary-links="true">
+    </div>
  </div>
  {% include scripts.html %}
- <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.8/angular.min.js"><script>
- <script src="https://unpkg.com/ng-table@2.0.2/bundles/ng-table.min.js"><script>
- <script>
- var app = angular.module('alsalafiyyah', ['ngTable']);
-
-app.controller('equipasCtrl', function($scope, $q, $filter, NgTableParams) {
-
-  $scope.equipas = [{
-  {% for c in site.audios %}
-    'Title': '{{ c.title }}',
-    'Url': '{{ c.url }}'
-  {% endfor %}
-  }];
-
-  $scope.equipasTable = new NgTableParams({
-    page: 1,
-    sorting: {
-      Title: 'asc'
-    },
-    count: 10
-
-  }, {
-    //total: $scope.data.length,
-    getData: function(params) {
-      var data = $scope.equipas;
-      data = params.filter() ? $filter('filter')(data, params.filter()) : data;
-      data = params.orderBy() ? $filter('orderBy')(data, params.orderBy()) : data;
-      params.total(data.length);
-      data = data.slice((params.page() - 1) * params.count(), params.page() * params.count());
-      return data;
-    }
-
+<script>
+  var app = angular.module('myApp', ['ui.bootstrap']);
+  app.controller('ListController', function ($scope) {
+      $scope.curPage = 1,
+          $scope.itemsPerPage = 6,
+          $scope.maxSize = 5;
+ 
+      this.items = itemsDetails;
+ 
+      $scope.numOfPages = function () {
+          return Math.ceil(itemsDetails.length / $scope.itemsPerPage);
+ 
+      };
+ 
+      $scope.$watch('curPage + numPerPage', function () {
+          var begin = (($scope.curPage - 1) * $scope.itemsPerPage),
+              end = begin + $scope.itemsPerPage;
+ 
+          $scope.filteredItems = itemsDetails.slice(begin, end);
+      });
   });
-   var sort = function(data, sort) {
-    var defer = $q.defer();
-    if (sort) {
-
-    }
-    defer.resolve(data);
-    return defer.promise;
-  }
-
-});                  
- </script>
+ 
+  var itemsDetails = [
+   {% for c in site.audios %}
+      {         
+          articleTitle: '{{ c.title }}',
+          articleUrl: '{{ c.url }}'
+      },
+   {% endfor %}
+      {
+          articleTitle: '',
+          articleUrl: ''
+      }
+  ];
+ </script>   
+ 
  </body>
 </html>
