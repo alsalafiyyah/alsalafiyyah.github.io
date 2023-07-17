@@ -29,20 +29,18 @@ permalink: /demo/
             {% endfor %}
         </tbody>
 </table>
-    
-    <table border="1">
-
-        <tr ng-repeat="item in filteredItems">
-            <td>
-             <a href="{{ item.articleUrl }}">{{ item.articleTitle }}</a>
-             </td>
-        </tr>
-    </table>
+   
     
  </div>
  {% include scripts.html %}
- <script>
-     new DataTable('#example');
- </script>         
+	<script type="text/javascript" language="javascript" class="init">
+	
+$(document).ready(function() {
+	$('#example').DataTable( {
+		"dom": '<"top"i>rt<"bottom"flp><"clear">'
+	} );
+} );
+
+	</script>
  </body>
 </html>
