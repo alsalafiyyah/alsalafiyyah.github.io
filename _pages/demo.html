@@ -50,16 +50,12 @@ permalink: /demo/
   });
  
   var itemsDetails = [
-   {% for c in site.audio %}
+   {% for c in site.data.biography %}
       {         
           articleTitle: "{{ c.title }}",
           articleUrl: "{{ c.url }}"
-      },
-   {% endfor %}
-      {         
-          articleTitle: "Sh",
-          articleUrl: "url"
       }
+   {% endfor %}    
   ];
  </script>     
     <table border="1">
