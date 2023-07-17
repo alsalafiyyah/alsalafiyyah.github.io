@@ -1,17 +1,14 @@
 ---
-title: List of all posts
+layout: null
+title: Json Api For Posts
 permalink: /api/posts
 ---
 [
   {% for post in site.posts %}
     {
-      "date": "{{ post.hijri }} {{post.date }} ",
+      "date": "{{ post.hijri }}",
       "title": "{{ post.title }}",
-      "content": "{{ post }}",
-      "tags": "{{ post.tags | jsonify }}",
-      "categories": "{{ post.categories | jsonify }}",
-      "url": "{{ post.url }}",
-      "slug": "{{ post.slug }}"
+      "url": "{{ post.url }}"
     }
     {% unless forloop.last %},{% endunless %}
   {% endfor %}
