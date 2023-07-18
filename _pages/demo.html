@@ -8,8 +8,6 @@ permalink: /demo/
 <html class="grey lighten-5">
 {% include head.html %}
 <link href="https://unpkg.com/vanilla-datatables@latest/dist/vanilla-dataTables.min.css" rel="stylesheet"/>
-<script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/86186/moment.js"></script>
-<script src="https://unpkg.com/vanilla-datatables@latest/dist/vanilla-dataTables.min.js"></script>	
 <body ng-app="myApp" ng-controller="ListController as list" onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}" class="grey lighten-5">
  {% include sidenav.html %}
 <div class="container" style="width: 98%;">
@@ -20,23 +18,25 @@ permalink: /demo/
       </ul>        
     </div>
   </nav>
-
+{% for c in site.audios %}
 <table class="table" style="width:100%">
-        <tbody>
-            {% for c in site.audios %}
+        <tbody>            
             <tr>
-                <td>{{ c.title }}</td>    
-            </tr>
-            {% endfor %}
+                <td>
+                 {{ c.title }}
+		<p>Posted on <b>{{ c.hijri }}</b></p>
+		</td>    
+            </tr>            
         </tbody>
 </table>
-   
+{% endfor %}   
     
  </div>
  {% include scripts.html %}
-	<script type="text/javascript" language="javascript">
-	
+<script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/86186/moment.js"></script>
+<script src="https://unpkg.com/vanilla-datatables@latest/dist/vanilla-dataTables.min.js"></script>			
+<script type="text/javascript" language="javascript">
 var table = new DataTable("table");
-	</script>
+</script>
  </body>
 </html>
