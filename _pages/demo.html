@@ -21,19 +21,21 @@ permalink: /demo/
     </div>
   </nav>
 
-<table class="table" style="width:100%">	
-        <tbody>     
-	{% for c in site.audios %}	
-            <tr>
-                <td>
-                 {{ c.title }}
-		<p>Posted on <b>{{ c.hijri }}</b></p>
-		</td>    
-            </tr>      
-	{% endfor %}	
-        </tbody>	
+<table class="table">	
+ <tbody>     
+  {% for c in site.audios %}	
+  <tr>
+   <td>
+    <h5><a title="{{ c.title }}" href="{{ c.url }}" class="black-text">{{ c.title }}</a></h5>
+    <p><small>Posted on <b>{{ c.hijri }}</b></small></p>
+   </td>    
+  </tr>      
+  {% endfor %}	
+ </tbody>	
 </table>    
+	
 </div>
+	
 {% include scripts.html %}
 <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/86186/moment.js"></script>
 <script src="https://unpkg.com/vanilla-datatables@latest/dist/vanilla-dataTables.min.js"></script>			
