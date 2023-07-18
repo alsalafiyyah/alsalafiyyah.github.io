@@ -14,13 +14,12 @@
         $('.lazy').lazy();
     });
 </script>
-<script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/86186/moment.js"></script>
-<script src="https://alsalafiyyah.github.ion/assets/vanilla-datatables.min.js"></script>			
+<script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/86186/moment.js"></script>			
+<script async src="{{ "/assets/vanilla-datatables.min.js" | absolute_url }}"></script>  
 <script type="text/javascript" language="javascript">
 var table = new DataTable("table");
 </script>
 <script async src="{{ "/assets/audio-player.js" | absolute_url }}"></script>  
-<script async src="{{ "/assets/table-pagination.js" | absolute_url }}"></script>  
   <script>
     function setAccessedDate() {
       if (document.getElementById('accessed-on')) {
