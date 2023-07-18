@@ -43,6 +43,10 @@ permalink: /demo/
 <script src="https://unpkg.com/vanilla-datatables@latest/dist/vanilla-dataTables.min.js"></script>			
 <script type="text/javascript" language="javascript">
 var table = new DataTable("table");
+var dataTable = new DataTable("table", {
+	searchable: false,
+	fixedHeight: false
+});	
 </script>
  </body>
 </html>
