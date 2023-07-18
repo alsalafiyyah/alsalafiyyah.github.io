@@ -4,7 +4,7 @@
   <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
   <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
   {% include tipue.html %}
-  <script src="https://unpkg.com/feather-icons"></script>
+ <script src="https://unpkg.com/feather-icons"></script>
       <script>
       feather.replace()
     </script>
@@ -14,8 +14,13 @@
         $('.lazy').lazy();
     });
 </script>
-  <script async src="{{ "/assets/audio-player.js" | absolute_url }}"></script>  
-  <script async src="{{ "/assets/table-pagination.js" | absolute_url }}"></script>  
+<script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/86186/moment.js"></script>
+<script src="https://unpkg.com/vanilla-datatables@latest/dist/vanilla-dataTables.min.js"></script>			
+<script type="text/javascript" language="javascript">
+var table = new DataTable("table");
+</script>
+<script async src="{{ "/assets/audio-player.js" | absolute_url }}"></script>  
+<script async src="{{ "/assets/table-pagination.js" | absolute_url }}"></script>  
   <script>
     function setAccessedDate() {
       if (document.getElementById('accessed-on')) {
