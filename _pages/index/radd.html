@@ -6,20 +6,17 @@ lang: en
 permalink: /radd/
 ---
 
-<div class="section" style="margin-left: 15px; margin-right: 15px; margin-bottom: 30px;">
-{% for c in site.refutals %}
-<table id="myTable">
- <tbody>
-  <tr class="line-content">
+<div class="section" style="margin-left: 15px; margin-right: 15px; margin-bottom: 100px;">	
+<table class="table">	
+ <tbody>     
+  {% for c in site.refutals %}	
+  <tr>
    <td>
     <h5><a title="{{ c.title }}" href="{{ c.url }}" class="black-text">{{ c.title }}</a></h5>
-    <p>Posted on <b>{{ c.hijri }}</b></p>
-   </td>
-  </tr>
- </tbody>
-</table>
-{% else %}
-<p>{{site.data.settings.page.no-fatwas}}</p>  
-{% endfor %}
-<ul id="pagin" class="pagination"></ul>   
+    <p><small>Posted on <b>{{ c.hijri }}</b></small></p>
+   </td>    
+  </tr>      
+  {% endfor %}	
+ </tbody>	
+</table>    
 </div>
