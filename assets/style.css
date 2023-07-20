@@ -437,3 +437,8 @@ nav ul a:hover {
   overflow-y: hidden !important;
   margin: 0 auto !important;
  }
+.dataTable-selector,
+.dataTable-dropdown	
+{
+ display: none !important;
+}	
