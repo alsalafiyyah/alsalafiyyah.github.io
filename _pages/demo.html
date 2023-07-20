@@ -9,9 +9,11 @@ permalink: /demo/
 {% include head.html %}
 <link href="https://unpkg.com/vanilla-datatables@latest/dist/vanilla-dataTables.min.css" rel="stylesheet"/>
 <style>
-.dataTables_length {
-        display: none;
-    }	
+.dataTable-selector,
+.dataTable-dropdown	
+{
+ display: none !important;
+}	
 </style>	
 <body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}" class="grey lighten-5">
  {% include sidenav.html %}
@@ -47,15 +49,7 @@ permalink: /demo/
 <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/86186/moment.js"></script>
 <script src="https://unpkg.com/vanilla-datatables@latest/dist/vanilla-dataTables.min.js"></script>			
 <script type="text/javascript" language="javascript">
-$(document).ready( function () {
-  $('#table').dataTable( {
-"bPaginate": true,
-"bLengthChange": false,
-"bFilter": true,
-"bInfo": false,
-"bAutoWidth": false
-  } );
-} );
+
 </script>
  </body>
 </html>
