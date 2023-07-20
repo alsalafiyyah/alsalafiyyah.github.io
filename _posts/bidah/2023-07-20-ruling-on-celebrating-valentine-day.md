@@ -20,7 +20,7 @@ muftis:
       url: /biography/bakr/  
 ---
 
-###### Question: 
+##### Question: 
 
 Some people celebrate the fourteenth day of February of each Christian year as the Day of Love (Valentine’s Day), where they exchange gifts of red roses and wear red clothes, and congratulate one another. Some the bakeries make sweets that are red in colour, with hearts drawn on them, and some stores have advertisements for their products that are especially for this day. What is your opinion?
 
