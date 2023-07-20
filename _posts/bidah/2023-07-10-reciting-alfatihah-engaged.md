@@ -10,7 +10,7 @@ excerpt: "Reciting Al-Fatihah at the time of a man's proposal to a woman or at t
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz
-      url: /biography/baz/
+      url: /biography/binbaz/
   deputy_chairman:
     - name: Shaykh Abdul-Razzaq Al-Afifi
       url: /biography/afifi/
