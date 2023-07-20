@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ruling On Celebrating Valentine Day"
+title: Ruling on Celebrating Valentine’s Day"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da’imah 2/262-264, Fatwa no. 21203"
 hijri: Muharram 02, 1445 AH
