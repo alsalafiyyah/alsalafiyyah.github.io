@@ -8,6 +8,11 @@ permalink: /demo/
 <html class="grey lighten-5">
 {% include head.html %}
 <link href="https://unpkg.com/vanilla-datatables@latest/dist/vanilla-dataTables.min.css" rel="stylesheet"/>
+<style>
+.dataTables_length {
+        display: none;
+    }	
+</style>	
 <body ng-app="myApp" ng-controller="ListController as list" onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}" class="grey lighten-5">
  {% include sidenav.html %}
 	
