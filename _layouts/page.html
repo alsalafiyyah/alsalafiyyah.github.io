@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html class="grey lighten-5">
+<html>
  {% include head.html %}
 <body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}" class="grey lighten-5">
  {% include sidenav.html %}
- <div class="container grey lighten-5">
+ <div class="container">
   
     <nav class="z-depth-0 transparent">
     <div class="nav-wrapper">
@@ -32,8 +32,8 @@
     </div>
     </nav>
   
-  <h3>{{ page.title }}</h3>
-  <div class="content white">
+  <div class="section">
+   <h3>{{ page.title }}</h3>
    {% if page.active == "audios" %}
     {% include player.html %}
    {% endif %}
