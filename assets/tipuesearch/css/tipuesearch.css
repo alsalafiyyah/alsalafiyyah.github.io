@@ -200,7 +200,7 @@ input[type=search]:focus {
 #tipue_search_foot_boxes li.current
 {
 	padding: 10px 17px 11px 17px;
-     
+     background: #616161;
      border: 1px solid #e3e3e3;
      border-radius: 1px;
 	color: #333;
