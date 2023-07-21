@@ -1,4 +1,4 @@
-- title: Alifta Fatwas (administered by Government of Saudi Arabia)
+- title: Al-Lajnah Al-Da'imah (administered by Government of Saudi Arabia)
   lang: Arabic, English, Francais, China, Indonesia, Urdu, Spanish, Turkey, Farsi
   url: https://www.alifta.gov.sa/En/IftaContents/PermanentCommitee/Pages/default.aspx?cultStr=en&View=tree&NodeID=1&PageNo=1&BookID=7
 - title: Shaykh Ibn Baz
@@ -22,6 +22,9 @@
 - title: Shaykh Rabi ibn Hadi Al-Madkhali
   lang: Arabic
   url: https://rabee.net
+- title: Shaykh Muhammad ibn Hadi Al-Madkhali
+  lang: Arabic
+  url: null   
 - title: Shaykh Abdul-Muhsin Al-Abbad
   lang: Arabic
   url: https://al-abbaad.com
@@ -38,5 +41,11 @@
   lang: Arabic
   url: https://www.rslan.com/ 
 - title: Shaykh Abdul-Razzaq Afifi
+  lang: Arabic
+  url: null 
+- title: Shaykh Muhammad Aman Al-Jami
+  lang: Arabic
+  url: null 
+- title: Shaykh Al-Sa'di
   lang: Arabic
   url: null 
