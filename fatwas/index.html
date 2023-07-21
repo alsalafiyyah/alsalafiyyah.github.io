@@ -5,6 +5,7 @@ active: fatwas
 uid: fatwas
 locale: en
 ---
+
 {% for post in paginator.posts %}
     <h5><a title="{{ post.title }}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h5>
     <p>
@@ -26,7 +27,6 @@ locale: en
         {% endif %}
      </b>
     </p>
- </div>
 <div class="divider"></div>
 {% endfor %}
 {% include pagination.html %}
