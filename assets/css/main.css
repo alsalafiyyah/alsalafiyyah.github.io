@@ -1,0 +1,377 @@
+@charset "UTF-8";   
+@import url('https://cdn.materialdesignicons.com/1.6.50/css/materialdesignicons.min.css');
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+:root,
+:root.light {
+	--color-bg: #fafafa;
+	--color-text: #000000;
+	--blog-card: #ffffff;
+	--subheader: #9e9e9e;
+	--audio-player: #757575;   
+}
+:root.dark {
+	--color-bg: #292c35;
+	--color-text: #ffffff;
+	--blog-card: #bdbdbd;
+	--subheader: #9e9e9e;
+	--audio-player: #757575;
+}    
+body {
+  min-height: 100vh;
+  /* mobile viewport bug fix */
+  min-height: -webkit-fill-available;
+}
+html {
+  height: -webkit-fill-available;
+}   
+body {
+    height: auto;
+    width: auto; 
+    min-height: 100%;
+    min-height: 100vh;
+    overflow-y: scroll;
+    margin: 0;
+    padding: 0;
+}
+
+/* styling */
+html, body {
+	background-color: var(--color-bg) !important;
+	color: var(--color-text) !important;
+	font-size: 18px;
+}
+h4, h3, h2, .bold, .card-title{
+ font-weight: 600;
+ color: var(--color-text) !important;
+}
+h3 {
+    font-size: 34px! important;
+    color: var(--color-text) !important;
+}
+.container {
+ width: 98% !important;
+ color: var(--color-text) !important;
+}
+.sidenav, .collection-header, .collection-header a {
+	background-color: var(--color-bg) !important;
+	color: var(--color-text) !important;
+}
+.nav-wrapper a, .sidenav a {
+	color: var(--color-text) !important;
+}
+.section {
+ margin: 0 5px 0 5px;
+}
+.nav-wrapper {
+ height: 80px! important;
+ padding: 8px 0;
+}
+ion-icon {
+  font-size: 32px;
+}
+nav .sidenav-trigger {
+    float: none! important;
+    z-index: 0! important;
+    height: 70px! important;
+    line-height: 70px! important;
+    margin: 0px! important;
+}
+.custom-nav {
+ border-top-right-radius: 30px;
+ border-bottom-right-radius: 30px;
+ height: 100%! important;
+}
+.side-nav {
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    color: #442C2E;
+}
+.sidenav li>a {
+    font-size: 18px! important;
+}
+a.subheader {
+    color: var(--subheader) !important;
+}
+nav {
+    background-color: transparent! important;
+    width: 100%;
+    height: 80px;
+    line-height: 70px;.
+         -webkit-box-shadow: none;
+        -moz-box-shadow: none;
+        box-shadow: none;
+}
+nav i, nav [class^="mdi-"], nav [class*="mdi-"], nav i.material-icons {
+    display: block;
+    font-size: 32px! important;
+    height: 40px! important;
+    line-height: 70px! important;
+}
+@media only screen and (max-width: 320px) {
+nav {
+    width: 100%;
+}
+.brand-logo {
+    font-size: 110% !important;
+}
+nav i, nav [class^="mdi-"], nav [class*="mdi-"], nav i.material-icons {
+    display: block;
+    font-size: 24px! important;
+    height: 100px! important;
+    line-height: 100px! important;
+    padding: 0 5px 0 5px;
+}
+.container, .content {
+   width: 100%! important;
+ }
+}
+
+@media only screen and (min-width: 993px) {
+  nav a.sidenav-trigger {
+  display: block !important;
+  }
+}
+
+.switcher {
+ padding-left: 30px;
+}
+
+.collection {
+  background-color: var(--color-bg) !important;
+	color: var(--color-text) !important;    
+	margin-top: 50px;
+}
+.collection-item {
+  background-color: var(--color-bg) !important;
+	color: var(--color-text) !important;    
+    
+}
+
+.feather {
+  width: 12px! important;
+  height: 12px! important;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  fill: none;
+}
+/* css hack */
+nav ul a:hover {
+ background-color: rgba(0, 0, 0, 0) !important;
+}
+.hide {
+ display: none !important;
+}
+
+/* search dropdown */
+.search-form-content {
+  background-color: var(--color-bg) !important;
+	color: var(--color-text) !important;
+  margin: 0;
+  display: none;
+  min-width: 100vw !important;
+  padding: 10px 20px;
+  overflow-y: hidden !important;
+  margin: 0 auto !important;
+}
+#search {
+  border-bottom: 2px solid var(--color-text);
+}
+
+/* swictcher https://codepen.io/Umer_Farooq/pen/eYJgKGN */
+.checkbox {
+  opacity: 0;
+  position: absolute;
+}
+.checkbox-label {
+  background-color: #111;
+  width: 50px;
+  height: 26px;
+  border-radius: 50px;
+  position: relative;
+  padding: 5px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.fa-moon {color: #fff;}
+.fa-sun {color: #fff;}
+.checkbox-label .ball {
+  background-color: #fff;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  left: 2px;
+  top: 2px;
+  border-radius: 50%;
+  transition: transform 0.2s linear;
+}
+.checkbox:checked + .checkbox-label .ball {
+  transform: translateX(24px);
+}
+
+/* audio player */
+.playr {
+  width: 100%;
+  background-color: var(--audio-player);
+  padding: 10px;
+  color: var(--color-text);
+}
+.playr-ui {
+  display: flex;
+  align-items: stretch;
+}
+.playr-controls {
+  width: 10%;
+  padding: 0 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.playr-panel {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 0 15px;
+  position: relative;
+}
+.playr-ui.volume-controls .playr-panel {
+  width: 70%;
+}
+.playr-controls button {
+  color: #efebe9;
+  background-color: transparent;
+  border: medium none;
+  padding: 0;
+  cursor: pointer;
+  font-size: 28px;
+  line-height: 1;
+}
+.playr-controls button:hover {
+  color: #fff;
+}
+.playr-controls button::after {
+  font-family: "Material Design Icons";
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.playr-play::after {
+  content: "";
+}
+.playr.playing .playr-play::after {
+  content: "";
+}
+.playr-fastforward::after {
+  content: "";
+}
+.playr-rewind::after {
+  content: "";
+}
+.playr-rewind::after,
+.playr-fastforward::after {
+  font-size: 21px;
+}
+.playr-progress {
+  background-color: #efebe9;
+  height: 4px;
+  bottom: 2px;
+  left: 15px;
+  position: absolute;
+  width: calc(100% - 30px);
+  cursor: pointer;
+}
+.playr-progress-bar {
+  background-color: #9e9e9e;
+  height: 100%;
+  transform: scale3d(0, 1, 1);
+  transform-origin: 0 0 0;
+  width: 100%;
+}
+.playr-duration,
+.playr-filename {
+  font-size: 12px;
+  position: absolute;
+  top: 0;
+  width: 500%;
+  font-weight: 600;
+}
+.playr-filename {
+  left: 15px;
+  text-align: left;
+  left: 15px;
+  overflow: hidden;
+  text-align: left;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.playr-duration {
+  right: 15px;
+  text-align: right;
+}
+.playr-volume {
+  position: relative;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  display: none;
+}
+.playr-volume-box.hidden {
+  background-color: #38354a;
+  bottom: 0;
+  height: 100px;
+  position: absolute;
+  width: 35px;
+  display: none;
+}
+.playr-volume-box {
+  background-color: #efebe9;
+  height: 4px;
+  width: 100%;
+  cursor: pointer;
+  display: none;
+}
+.playr-volume-box span {
+  display: block;
+  background-color: #795548;
+  height: 100%;
+  width: 100%;
+  transform: scale3d(1, 1, 1);
+  transform-origin: 0 0 0;
+  display: none;
+}
+.playr.compact .playr-rewind,
+.playr.compact .playr-fastforward {
+  display: none;
+}
+.playr-filename.overflow span {
+  animation: 5000ms linear 0ms normal forwards infinite running scroll;
+  display: inline-block;
+  margin-right: 0;
+  padding-right: 100%;
+  transform: translate3d(0px, 0px, 0px);
+}
+@keyframes scroll {
+  0% {
+    transform: translate3d(0px, 0px, 0px);
+  }
+  100% {
+    transform: translate3d(-100%, 0px, 0px);
+  }
+}
+
+/* tipue search */
+#tipue_search_input {
+    max-width: 100% !important;
+    padding: 0px !important;
+    border-radius: 20px !important;
+}
+#tipue_search_content {
+    width: 100% !important;
+    max-width: 100% !important;
+}
