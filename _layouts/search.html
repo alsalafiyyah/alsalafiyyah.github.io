@@ -1,22 +1,22 @@
 <!DOCTYPE html>
-<html class="grey lighten-5">
+<html>
 {% include head.html %}
-<body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}" class="grey lighten-5">
+<body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}">
  {% include sidenav.html %}
 <div class="container" style="width: 98%;">
  <nav class="z-depth-0 transparent">
     <div class="nav-wrapper">
      <ul class="left">
-       <li><a class="sidenav-trigger" href="{{ site.url }}"><i class="material-icons black-text">home</i></a></li>          
+       <li><a class="sidenav-trigger" href="{{ site.url }}"><i class="material-icons">home</i></a></li>          
       </ul>     
-      <a href="{{ absolute_url }}" class="brand-logo center black-text bold"> {{ page.title }} </a>
+      <a href="{{ absolute_url }}" class="brand-logo center bold"> {{ page.title }} </a>
       <ul class="right">
-        <li><a href="#" class="sidenav-trigger" data-target="slide-out"><i class="material-icons black-text">more_vert</i></a></li>
+        <li><a href="#" class="sidenav-trigger" data-target="slide-out"><i class="material-icons">more_vert</i></a></li>
       </ul>
     </div>
   </nav>
-  <nav class="nav-extended grey lighten-5 black-text z-depth-0 top-0">
-   <div id="tipue_search_" class="nav-content grey lighten-5 padding-10">
+  <nav class="nav-extended z-depth-0 top-0">
+   <div id="tipue_search_" class="nav-content padding-10">
    <meta itemprop="url" content="https://alsalafiyyah.github.io/search/"/>
    <form action="{{ "search" | relative_url }}" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction">
    <meta itemprop="target" content="https://alsalafiyyah.github.io/search?q=salaf"/>   
@@ -24,7 +24,7 @@
    </form>
    </div>
   </nav>
-  <div class="content">{{ content }}</div>
+  <div class="section">{{ content }}</div>
  {% include scripts.html %}
  </body>
 </html>
