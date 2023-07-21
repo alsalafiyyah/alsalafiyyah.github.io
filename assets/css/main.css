@@ -378,3 +378,9 @@ nav ul a:hover {
     width: 100% !important;
     max-width: 100% !important;
 }
+
+.dataTable-selector,
+.dataTable-dropdown	
+{
+ display: none !important;
+}	
