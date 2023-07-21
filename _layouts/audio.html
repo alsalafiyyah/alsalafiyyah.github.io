@@ -1,27 +1,26 @@
 <!DOCTYPE html>
-<html class="grey lighten-5">
+<html>
  {% include head.html %}
-<body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}" class="grey lighten-5">
+<body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}">
  {% include sidenav.html %}
- <div class="container grey lighten-5">
+ <div class="container">
    <nav class="z-depth-0 transparent">
     <div class="nav-wrapper">
      <ul class="left">
-       <li><a class="modal-trigger" href="{{ "audios" | relative_url }}"><i class="material-icons black-text">keyboard_backspace</i></a></li>          
+       <li><a class="modal-trigger" href="{{ "audios" | relative_url }}"><i class="material-icons">keyboard_backspace</i></a></li>          
       </ul>        
       <ul class="right hide">
-        <li><a href="#" class="sidenav-trigger" data-target="slide-out"><i class="material-icons black-text">more_vert</i></a></li>
+        <li><a href="#" class="sidenav-trigger" data-target="slide-out"><i class="material-icons">more_vert</i></a></li>
       </ul>
     </div>
   </nav>
   <h3>{{ page.title }}</h3>
   {% include player.html %}
-  <div class="content white">
+  <div class="section">
    {{ content }}
    {% include note.html %}
 
-   {% if page.muftis %}
-    <div class="card-panel grey lighten-3">
+   {% if page.muftis %}    
     <ul class="collection border-0">
     {% if page.muftis.shaykh %}
       {% for shaykh in page.muftis.shaykh %}
@@ -31,7 +30,6 @@
       {% endfor %}
      {% endif %}
      </ul>
-     </div>
    {% endif %}
 
   </div>
