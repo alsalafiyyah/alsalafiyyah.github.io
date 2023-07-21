@@ -5,9 +5,7 @@ active: fatwas
 uid: fatwas
 locale: en
 ---
-
 {% for post in paginator.posts %}
-  <div class="section" style="margin-left: 15px; margin-right: 15px;">
     <h5><a title="{{ post.title }}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h5>
     <p>
      <b><i data-feather="calendar"></i> {{ post.hijri }}</b>
@@ -19,7 +17,6 @@ locale: en
         {{ shaykh.name }}
         {% endfor %}
         {% endif %}
-
         {% if post.muftis %}
         {% if post.muftis.chairman %}
         {% for chairman in post.muftis.chairman %}
@@ -32,6 +29,4 @@ locale: en
  </div>
 <div class="divider"></div>
 {% endfor %}
-<div class="section" style="margin-bottom: 30px;">
 {% include pagination.html %}
-</div>
