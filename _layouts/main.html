@@ -1,11 +1,13 @@
 <!DOCTYPE html>
-<html class="grey lighten-5">
+<html>
  {% include head.html %}
 <body>
  {% include sidenav.html %}
- <div class="container grey lighten-5" style="margin-bottom: 50px; width: 98%; padding: 0px; margin: 0px auto;">
+ <div class="container" style="margin-bottom: 50px; width: 98%; padding: 0px; margin: 0px auto;">
   {% include header.html %}
+  <div class="section"><!-- content -->
   {{ content }}
+  </div>
  </div>
  {% include scripts.html %}
  </body>
