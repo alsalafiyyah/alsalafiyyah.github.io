@@ -6,15 +6,14 @@ permalink: /recommended-websites/
 ---
 
 <p>Scholar's official websites for your knowledge research.</p>
-<table class="table">	
+<table class="striped table">	
  <tbody>     
   {% for c in site.data.websites %}	
   <tr>
    <td>
-    {{ c.title }}
+    <b>{{ c.title }}</b>
    </td>    
    <td><a target="_blank" href="{{ c.url }}">Visit</a></td>
-   <td>{{ c.lang }}</td>
   </tr>      
   {% endfor %}	
  </tbody>	
