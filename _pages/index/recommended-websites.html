@@ -1,0 +1,19 @@
+---
+layout: default
+title: Recommended Websites
+active: web
+permalink: /recommended-websites/
+---
+<p>Recommended Websites</p>
+<table class="table">	
+ <tbody>     
+  {% for c in site.data.websites %}	
+  <tr>
+   <td>
+    <h5>{{ c.title }}</h5>    
+   </td>    
+   <td><a href="{{ c.url }}">Visit</a></td>
+  </tr>      
+  {% endfor %}	
+ </tbody>	
+</table> 
