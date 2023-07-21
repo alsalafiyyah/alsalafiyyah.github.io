@@ -61,9 +61,12 @@ a, p, span, div, ol, ul, li {
  width: 98% !important;
  color: var(--color-text) !important;
 }
-.sidenav, .collection-header, .collection-header a {
-	background-color: var(--color-bg) !important;
-	color: var(--color-text) !important;
+.sidenav, .collection-header, .card-content {
+ background-color: var(--color-bg) !important;
+ color: var(--color-text) !important;
+}
+.collection-header a, .card-title {
+ color: var(--color-text) !important;	
 }
 .nav-wrapper a, .sidenav a {
 	color: var(--color-text) !important;
