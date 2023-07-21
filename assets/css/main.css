@@ -41,7 +41,7 @@ html, body {
 	color: var(--color-text) !important;
 	font-size: 18px;
 }
-h4, h3, h2, .bold, .card-title{
+h4, h3, h2, h1, h6, h5 .bold, .card-title{
  font-weight: 600;
  color: var(--color-text) !important;
 }
@@ -49,7 +49,7 @@ h3 {
     font-size: 34px! important;
     color: var(--color-text) !important;
 }
-a, p {
+a, p, span, div, ol, ul, li {
  color: var(--color-text) !important;
 }
 .container {
