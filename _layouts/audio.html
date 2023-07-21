@@ -14,9 +14,10 @@
       </ul>
     </div>
   </nav>
-  <h3>{{ page.title }}</h3>
-  {% include player.html %}
+  
   <div class="section">
+        {% include player.html %}
+   <h3>{{ page.title }}</h3>
    {{ content }}
    {% include note.html %}
 
