@@ -49,6 +49,9 @@ h3 {
     font-size: 34px! important;
     color: var(--color-text) !important;
 }
+a {
+ color: var(--color-text) !important;
+}
 .container {
  width: 98% !important;
  color: var(--color-text) !important;
