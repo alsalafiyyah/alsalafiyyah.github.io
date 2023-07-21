@@ -9,7 +9,6 @@
 	--blog-card: #ffffff;
 	--subheader: #9e9e9e;
 	--audio-player: #757575;
-	--btn-link-dark: #bdbdbd;
 }
 :root.dark {
 	--color-bg: #292c35;
@@ -17,7 +16,6 @@
 	--blog-card: #bdbdbd;
 	--subheader: #9e9e9e;
 	--audio-player: #757575;
-	--btn-link-dark: #bdbdbd;
 }    
 body {
   min-height: 100vh;
@@ -54,9 +52,6 @@ h3 {
 a, p, span, div, ol, ul, li {
  color: var(--color-text) !important;
 }
-.btn-link {
-  color: var(--btn-link-dark) !important;
-}	
 .container {
  width: 98% !important;
  color: var(--color-text) !important;
@@ -72,7 +67,7 @@ a, p, span, div, ol, ul, li {
 	color: var(--color-text) !important;
 }
 .section {
- margin: 0 5px 0 5px;
+ margin: 0 10px 0 10px;
 }
 .nav-wrapper {
  height: 80px! important;
@@ -147,7 +142,7 @@ nav i, nav [class^="mdi-"], nav [class*="mdi-"], nav i.material-icons {
 .switcher {
  padding-left: 30px;
 }
-
+l
 .collection {
   background-color: var(--color-bg) !important;
 	color: var(--color-text) !important;    
@@ -156,9 +151,7 @@ nav i, nav [class^="mdi-"], nav [class*="mdi-"], nav i.material-icons {
 .collection-item {
   background-color: var(--color-bg) !important;
 	color: var(--color-text) !important;    
-    
 }
-
 .feather {
   width: 12px! important;
   height: 12px! important;
