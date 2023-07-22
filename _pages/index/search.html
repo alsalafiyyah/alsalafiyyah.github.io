@@ -1,5 +1,5 @@
 ---
-layout: search
+layout: default
 title: Search
 active: search
 permalink: /search
@@ -7,9 +7,16 @@ tipue_search_active: true
 exclude_from_search: true
 ---
 
-<div class="section" style="width: 100%; margin: 0 auto;">
- <div id="tipue_search_content"></div>
-</div>
+  <nav class="nav-extended z-depth-0 top-0">
+   <div id="tipue_search_" class="nav-content padding-10">
+   <meta itemprop="url" content="https://alsalafiyyah.github.io/search/"/>
+   <form action="{{ "search" | relative_url }}" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction">
+   <meta itemprop="target" content="https://alsalafiyyah.github.io/search?q=salaf"/>   
+   <input itemprop="query-input" class="" id="tipue_search_input" type="text" name="q" placeholder="Search" pattern=".{3,}" title="At least 3 characters" required/>
+   </form>
+   </div>
+  </nav>
+  <div id="tipue_search_content"></div>
 <script>
 $(document).ready(function() {
   $('#tipue_search_input').tipuesearch();
