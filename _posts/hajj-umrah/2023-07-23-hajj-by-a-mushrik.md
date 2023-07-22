@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Ruling on Hajj by a Mushrik
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa No. 4459, Question 2"
+title: Hajj by a Mushrik
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa No. 4459, Question 2
 hijri: Muharram 4, 1445 AH
 date: 2023/07/22
 note: true
