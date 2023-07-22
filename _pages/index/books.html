@@ -11,7 +11,7 @@ permalink: /books/
     <div class="col s12 m7">
       <div class="card">
         <div class="card-image">
-          <img class="lazy" src="{{ "/assets/loader.gif" | relative_url }}" data-src="../assets/images/books/{{ c.img }}">          
+          <img class="lazy materialboxed" data-caption="Tap anywhere to close" src="{{ "/assets/loader.gif" | relative_url }}" data-src="../assets/images/books/{{ c.img }}">          
         </div>
         <div class="card-content">
           <p class="card-title bold">{{ c.title }}</p>
@@ -21,7 +21,7 @@ permalink: /books/
           <p><small>{{ c.desc }}</small></p>
         </div>
         <div class="card-action center">
-          <a class="btn waves-effect waves-light btn-flat grey lighten-1" title="{{ c.title }}" href="{{ c.url }}" target="_blank">Download</a>
+          <a class="btn waves-effect waves-light btn-flat grey lighten-1" title="{{ c.title }}" href="{{ c.url }}" target="_blank">Download {{ c.size }}</a>
         </div>
       </div>
     </div>
