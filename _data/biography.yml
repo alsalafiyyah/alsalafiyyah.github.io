@@ -21,30 +21,32 @@
 - title: Shaykh Al-Sa'di
   url: saadi
 - title: Shaykh Muhammad Ibn Hadi Al-Madkhali
-  url: ibn-hadi
+  url: ibn-hadi-madhkali
 - title: Shaykh Rabi' Ibn Hadi Al-Madkhali
-  url: rabi
+  url: rabi-madkhali
 - title: Shaykh Zayd Al-Madkhali
-  url: zayd
+  url: zayd-madkhali
 - title: Shaykh Abdul-Muhsin Al-Abbad
-  url: muhsin
+  url: abdul-muhsin
 - title: Shaykh Abdul-Razzaq Al-Badr
-  url: albadr
+  url: abdulrazzaq-albadr
 - title: Shaykh Muqbil Ibn Hadi Al-Wadi'i
-  url: muqbil
+  url: muqbil-ibn-hadi
 - title: Shaykh Ibn Uthaymeen
   url: uthaymeen
 - title: Shaykh Salih Al-Luhaydan
-  url: luhaydan
+  url: salih-luhaydan
 - title: Shaykh Abdul-Aziz Al-Rajihi
-  url: rajihi
+  url: abdulazi-alrajihi
 - title: Shaykh Sulaiman Al-Ruhayli
-  url: ruhayli
+  url: sulaiman-alruhayli
 - title: Shaykh Al-Albani
   url: albani
 - title: Shaykh Muhammad Aman Al-Jami
-  url: aljami
+  url: aman-aljami
 - title: Shaykh Salih Suhaymi
-  url: suhaymi
+  url: salih-suhaymi
 - title: Shaykh Muhammad Sa'id Raslan
   url: raslan
+- title: Shaykh Ahmad Al-Najmi
+  url: ahmad-al-najmi  
