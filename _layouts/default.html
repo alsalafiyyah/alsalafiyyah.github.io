@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
  {% include head.html %}
-<body>
+<body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}">
  {% include sidenav.html %}
  <div class="container">
   {% include navbar.html %}
