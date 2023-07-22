@@ -29,4 +29,16 @@ locale: en
     </p>
 <div class="divider"></div>
 {% endfor %}
-{% include pagination.html %}
+
+  <ul class="pagination center">
+    {% if paginator.previous_page %}
+    <li class="waves-effect"><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}"><i class="medium material-icons">chevron_left</i></a></li>
+    {% else %}
+    <li class="waves-effect disabled"><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}"><i class="medium material-icons">chevron_left</i></a></li>
+    {% endif %}
+    {% if paginator.next_page %}
+    <li class="waves-effect"><a href="{{ paginator.next_page_path | prepend: site.baseurl }}"><i class="medium material-icons">chevron_right</i></a></li>
+    {% else %}
+    <li class="waves-effect disabled"><a href="{{ paginator.next_page_path | prepend: site.baseurl }}"><i class="medium material-icons">chevron_right</i></a></li>
+    {% endif %}
+  </ul>
