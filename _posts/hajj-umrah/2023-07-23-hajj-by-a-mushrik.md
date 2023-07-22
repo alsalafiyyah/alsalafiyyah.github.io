@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When was Hajj made obligatory?"
+title: Hajj by a Mushrik
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa No. 4459, Question 2"
 hijri: Muharram 5, 1445 AH
