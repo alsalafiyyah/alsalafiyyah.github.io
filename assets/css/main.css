@@ -51,10 +51,7 @@ h3 {
     font-size: 34px! important;
     color: var(--color-text) !important;
 }
-.footer-post a {
-  color: var(--color-link) !important;
-}
-a, p, span, div, ol, ul, li, .sidenav-close {
+a, p, span, div, ol, ul, li, li a {
  color: var(--color-text) !important;
 }
 .brand-logo {
@@ -83,6 +80,9 @@ a.sidenav-close > i.material-icons {
 }
 .section {
  margin: 0 12px 0 12px;
+}
+.footer-post a {
+  color: var(--color-link) !important;
 }
 .nav-wrapper {
  height: 80px! important;
