@@ -16,10 +16,11 @@ permalink: /books/
         <div class="card-content">
           <p class="card-title bold">{{ c.title }}</p>
           <p><b>{{ c.author }}</b></p>
+          <p><small>Language: {{ c.lang }}</small></p>
           <p><small>{{ c.desc }}</small></p>
         </div>
         <div class="card-action center">
-          <a class="btn waves-effect waves-light btn-flat" title="{{ c.title }}" href="{{ c.url }}" target="_blank">Download</a>
+          <a class="btn waves-effect waves-light btn-flat red" title="{{ c.title }}" href="{{ c.url }}" target="_blank">Download</a>
         </div>
       </div>
     </div>
