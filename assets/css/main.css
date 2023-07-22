@@ -41,7 +41,7 @@ html, body {
 	color: var(--color-text) !important;
 	font-size: 18px;
 }
-h1, h4, h3, h2, h6, h5 .bold, .card-title{
+h1, h4, h3, h2, h6, h5 .bold, .card-title {
  font-weight: 600;
  color: var(--color-text) !important;
 }
@@ -51,6 +51,9 @@ h3 {
 }
 a, p, span, div, ol, ul, li {
  color: var(--color-text) !important;
+}
+.brand-logo {
+ font-weight: 600; 
 }
 .container {
  width: 98% !important;
@@ -67,7 +70,7 @@ a, p, span, div, ol, ul, li {
  color: var(--color-text) !important;
 }
 .section {
- margin: 0 10px 0 10px;
+ margin: 0 12px 0 12px;
 }
 .nav-wrapper {
  height: 80px! important;
