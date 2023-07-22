@@ -51,10 +51,10 @@ h3 {
     font-size: 34px! important;
     color: var(--color-text) !important;
 }
-a {
+.footer-post a {
   color: var(--color-link) !important;
 }
-p, span, div, ol, ul, li, .sidenav-close {
+a, p, span, div, ol, ul, li, .sidenav-close {
  color: var(--color-text) !important;
 }
 .brand-logo {
