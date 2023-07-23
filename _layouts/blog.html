@@ -27,48 +27,19 @@
         {% if page.active == "biography" %}
          <a class="modal-trigger" href="{{ "biography" | relative_url }}"><i class="material-icons">keyboard_backspace</i></a>  
         {% endif %}
-        {% if page.active == "salafi-scholars" %}
-         <a class="modal-trigger" href="{{ "/" | relative_url }}"><i class="material-icons">keyboard_backspace</i></a>  
+        {% if page.active == "fawaid" %}
+         <a class="modal-trigger" href="{{ "fawaid" | relative_url }}"><i class="material-icons">keyboard_backspace</i></a>  
         {% endif %}
       </li>
       </ul>           
     </div>
     </nav>
-  
   <div class="section">
    <h3>{{ page.title }}</h3>
    {{ content }}
+   {% include source.html %}
   </div>
-
-  <ul class="collection border-0 footer-post">
-   {% if page.source %}
-      <li class="collection-item">
-       <i data-feather="book-open"></i> {{ page.source }}
-      </li>
-    {% endif %}
-    {% if page.muftis %}
-    {% if page.muftis.shaykh %}
-      {% for shaykh in page.muftis.shaykh %}
-      <li class="collection-item">
-       <i data-feather="feather"></i> <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}"><b>{{ shaykh.name }}</b></a>
-      </li>
-      {% endfor %}
-    {% endif %}
-    {% endif %}   
-     {% if page.hijri %}
-      <li class="collection-item">
-       <i data-feather="calendar"></i> {{ page.hijri }}
-      {% else %} {{ site.hijri.name }} 
-      </li>
-      {% endif %}      
-      <li class="collection-item">
-       <meta content='{{ site.time }}' itemprop='dateModified'/>
-       <small><span id='last-modified' itemprop='dateModified'></span></small>
-      </li>   
-  </ul>
-  
  </div>
-
- {% include scripts.html %}
+  {% include scripts.html %}
  </body>
 </html>
