@@ -3,7 +3,7 @@ layout: post
 title: "Jama'at Al-Tabligh are Modern-Day Sufiyyah (Tasawwuf)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Al-Ajwibah Al-Mufidah p.32-35, Question no.11"
-hijri: "Muharram 23, 1445 AH"
+hijri: "Muharram 05, 1445 AH"
 date: 2023-07-23
 lang: en
 note: false
