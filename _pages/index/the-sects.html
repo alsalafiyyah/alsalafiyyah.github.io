@@ -35,9 +35,9 @@ sects:
       url: null  
     - title: Sadhiliyah
       url: null  
-    - title: Chisthiyah
+    - title: Chistiyah
       url: null  
-    - title: Mawliawiyah
+    - title: Mawlawiyah
       url: null  
     - title: Qadiriyah
       url: null  
@@ -69,7 +69,7 @@ sects:
   others:
     - title: Asharis
       url: null
-    - title: Ikhwan Al-Muslimun
+    - title: Al-Ikhwan Al-Muslimun
       url: null
     - title: Ahmadiyyah
       url: null
@@ -80,6 +80,8 @@ sects:
     - title: Jabariyah
       url: null
     - title: Qadariyah
+      url: null
+    - title: Jahmiyah
       url: null
 ---
 
@@ -113,7 +115,7 @@ sects:
       </li>
     {% endif %}
    {% if page.sects.quranism %}
-     <li class="collection-item"><b>Hadith Rejectors</b>
+     <li class="collection-item"><b>Sunnah & Hadith Rejectors</b>
         <ol>
          {% for sect in page.sects.quranism %}
          <li>{{ sect.title }}</li>
@@ -122,7 +124,7 @@ sects:
       </li>
     {% endif %}   
     {% if page.sects.others %}
-     <li class="collection-item"><b>Others</b>
+     <li class="collection-item"><b>More</b>
         <ol>
          {% for sect in page.sects.others %}
          <li>{{ sect.title }}</li>
