@@ -1,0 +1,21 @@
+---
+layout: default
+title: The Sects
+uid: the-sects
+locale: en
+active: sects
+permalink: /the-sects/
+---
+
+   {% if site.data.sects.sufism %}
+     <li class="collection-item">
+        <ol>
+         {% for sect in site.data.sects.sufism %}
+         <li>{{ sect.title }}</li>
+         {% endfor %}
+         {% for sect in site.data.sects.shiah %}
+         <li>{{ sect.title }}</li>
+         {% endfor %}
+        </ol>
+      </li>
+    {% endif %}
