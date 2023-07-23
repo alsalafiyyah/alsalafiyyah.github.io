@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 title: "Nullifiers of Islam"
 publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
 source: "Majmu' Fatawa wa Maqalat 1/130"
