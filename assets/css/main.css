@@ -81,7 +81,7 @@ a.sidenav-close > i.material-icons {
 .section {
  margin: 0 12px 0 12px;
 }
-.footer-post a {
+.footer-post a, p a {
   color: var(--color-link) !important;
 }
 .nav-wrapper {
