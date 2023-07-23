@@ -34,8 +34,9 @@ sects:
 ---
 
 {% if page.sects %}
+ <ul class="collection border-0 footer-post">
    {% if page.sects.sufism %}
-     <li class="collection-item">
+     <li class="collection-item">Sufism:
         <ol>
          {% for sect in page.sects.sufism %}
          <li>{{ sect.title }}</li>
@@ -44,7 +45,7 @@ sects:
       </li>
     {% endif %}
    {% if page.sects.shiah %}
-     <li class="collection-item">
+     <li class="collection-item">Shi'ah & The Rafidah
         <ol>
          {% for sect in page.sects.shiah %}
          <li>{{ sect.title }}</li>
@@ -53,7 +54,7 @@ sects:
       </li>
     {% endif %}
    {% if page.sects.khawarij %}
-     <li class="collection-item">
+     <li class="collection-item">Khawarij
         <ol>
          {% for sect in page.sects.khawarij %}
          <li>{{ sect.title }}</li>
@@ -61,4 +62,5 @@ sects:
         </ol>
       </li>
     {% endif %}
+ </ul> 
 {% endif %}
