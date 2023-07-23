@@ -16,63 +16,8 @@
    {% if page.note %}
    <p>{{ site.note.text }}</p>
    {% endif %}
+   {% include source.html %}
  </div>
-   
-    <ul class="collection border-0 footer-post">
-    
-     {% if page.source %}
-      <li class="collection-item">
-       <i data-feather="book-open"></i> {{ page.source }} {% else %}
-     {% endif %}
-      </li>
-      
-   {% if page.muftis %}
-    {% if page.muftis.shaykh %}
-      {% for shaykh in page.muftis.shaykh %}
-      <li class="collection-item">
-       <i data-feather="feather"></i> <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}"><b>{{ shaykh.name }}</b></a>
-      </li>
-      {% endfor %}
-     {% endif %}
-    {% endif %}
-
-  {% if page.muftis %}
-     {% if page.muftis.chairman %}
-      <li class="collection-item">
-       <i data-feather="user"></i> Chairman : 
-       {% for chairman in page.muftis.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
-      </li>
-     {% endif %}
-     
-     {% if page.muftis.deputy_chairman %}
-      <li class="collection-item">
-       <i data-feather="user"></i> Deputy Chairman : 
-       {% for deputy_chairman in page.muftis.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
-      </li>
-      {% endif %}
-      
-     {% if page.muftis.members %}
-      <li class="collection-item">
-       <i data-feather="users"></i> Members : 
-        <ol>
-         {% for members in page.muftis.members %}
-         <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
-         {% endfor %}
-        </ol>
-      </li>
-     {% endif %}
-  {% endif %}
-        
-      {% if page.hijri %}
-      <li class="collection-item">
-       <i data-feather="calendar"></i> {{ page.hijri }}
-       {% else %} {{ site.hijri.name }} 
-      </li>
-      {% endif %}
-      
-      <li class="collection-item"><meta content='{{ site.time }}' itemprop='dateModified'/><span id='last-modified' itemprop='dateModified'></span></li>
-    </ul>
-   
 </div>
  {% include scripts.html %}
  </body>
