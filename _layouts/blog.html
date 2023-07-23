@@ -39,6 +39,16 @@
    <h3>{{ page.title }}</h3>
    {{ content }}
   </div>
+
+   {% if page.muftis %}
+    {% if page.muftis.shaykh %}
+      {% for shaykh in page.muftis.shaykh %}
+      <li class="collection-item">
+       <i data-feather="feather"></i> <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}"><b>{{ shaykh.name }}</b></a>
+      </li>
+      {% endfor %}
+    {% endif %}
+   {% endif %}
   
  </div>
 
