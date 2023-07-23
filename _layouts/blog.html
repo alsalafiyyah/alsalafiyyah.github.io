@@ -54,7 +54,17 @@
       </li>
       {% endfor %}
     {% endif %}
-   {% endif %}
+    {% endif %}   
+     {% if page.hijri %}
+      <li class="collection-item">
+       <i data-feather="calendar"></i> {{ page.hijri }}
+      {% else %} {{ site.hijri.name }} 
+      </li>
+      {% endif %}      
+      <li class="collection-item">
+       <meta content='{{ site.time }}' itemprop='dateModified'/>
+       <small><span id='last-modified' itemprop='dateModified'></span></small>
+      </li>   
   </ul>
   
  </div>
