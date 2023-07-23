@@ -1,17 +1,21 @@
 ---
-layout: blog
-author: "Instagram@Alsalafiyyah"
-title: "Green Dome over the Prophet’s grave"
-excerpt: "There is no proof in the fact that a dome was set up over the Prophet’s grave for those who take it as an excuse for building domes of the graves of the saints and righteous people, because the building of a dome over his grave was not done on his instructions and was not done by any of his Sahabah. Rather it was done by people of bid’ah."
+layout: page
+author: Instagram@Alsalafiyyah
+title: Green Dome over the Prophet’s grave
+excerpt: There is no proof in the fact that a dome was set up over the Prophet’s grave for those who take it as an excuse for building domes of the graves of the saints and righteous people, because the building of a dome over his grave was not done on his instructions and was not done by any of his Sahabah. Rather it was done by people of bid’ah.
 hijri: Rabi II 13, 1444 AH
 active: muqolat
-source: ""
-link: ""
+source: null
+link: null
 ---
 
-Question : There are those who take the building of the green dome over the Prophet’s grave in the Prophet’s Mosque as evidence that it is permissible to build domes over other graves, such as those of the righteous and others. Is this argument correct or what should our response to them be? 
+###### Question:
 
-Answer: It is not correct to quote the fact that people built a dome over the grave of the Prophet (peace be upon him) as evidence that it is permissible to build domes over the graves of the righteous dead and others, because those people’s building a dome over his (peace be upon him) grave was haram and those who did it sinned thereby, because they went against what is proven in a report from Abu Al-Hayyaj Al-Asadi who said: **Ali ibn Abi Talib (may Allah be pleased with him) said to me: Shall I not send you on the same mission as the Messenger of Allah (peace be upon him) sent me? Do not leave any image without erasing it or any high grave without levelling it**. 
+There are those who take the building of the green dome over the Prophet’s grave in the Prophet’s Mosque as evidence that it is permissible to build domes over other graves, such as those of the righteous and others. Is this argument correct or what should our response to them be? 
+
+###### Answer: 
+
+It is not correct to quote the fact that people built a dome over the grave of the Prophet (peace be upon him) as evidence that it is permissible to build domes over the graves of the righteous dead and others, because those people’s building a dome over his (peace be upon him) grave was haram and those who did it sinned thereby, because they went against what is proven in a report from Abu Al-Hayyaj Al-Asadi who said: **Ali ibn Abi Talib (may Allah be pleased with him) said to me: Shall I not send you on the same mission as the Messenger of Allah (peace be upon him) sent me? Do not leave any image without erasing it or any high grave without levelling it**. 
 
 And it was narrated that Jabir (may Allah be pleased with him) said: **The Prophet (peace be upon him) forbade plastering over graves, or sitting on them or building over them**. Both reports were narrated by Muslim in his Sahih. 
 
