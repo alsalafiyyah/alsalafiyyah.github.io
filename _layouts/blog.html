@@ -40,7 +40,13 @@
    {{ content }}
   </div>
 
-   {% if page.muftis %}
+  <ul class="collection border-0 footer-post">
+   {% if page.source %}
+      <li class="collection-item">
+       <i data-feather="book-open"></i> {{ page.source }}
+      </li>
+    {% endif %}
+    {% if page.muftis %}
     {% if page.muftis.shaykh %}
       {% for shaykh in page.muftis.shaykh %}
       <li class="collection-item">
@@ -49,6 +55,7 @@
       {% endfor %}
     {% endif %}
    {% endif %}
+  </ul>
   
  </div>
 
