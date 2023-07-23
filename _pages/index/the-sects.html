@@ -3,31 +3,59 @@ layout: default
 title: The Sects
 active: sects
 permalink: /the-sects/
+sects:
+  shiah: 
+    - title: Ismailiyah
+      url: null
+    - title: Dawudi Bohras
+      url: null
+    - title: Qarmatians
+      url: null 
+    - title: Batiniyah
+      url: null  
+    - title: Imamiyah
+      url: null  
+  khawarij:
+    - title: Ibadiyah
+      url: null    
+  sufism:
+    - title: Jama'at At-Tabligh
+      url: null
+    - title: Deobandiyah
+      url: null
+    - title: Khalwatiyah
+      url: null  
+    - title: Burhamiyah
+      url: null  
+    - title: Barelwiyah
+      url: null  
+    - title: Naqshabandiyah
+      url: null  
 ---
 
-{% if site.data.sects %}
-   {% if site.data.sects.sufism %}
+{% if page.sects %}
+   {% if page.sects.sufism %}
      <li class="collection-item">
         <ol>
-         {% for sect in site.data.sects.sufism %}
+         {% for sect in page.sects.sufism %}
          <li>{{ sect.title }}</li>
          {% endfor %}         
         </ol>
       </li>
     {% endif %}
-   {% if site.data.sects.shiah %}
+   {% if page.sects.shiah %}
      <li class="collection-item">
         <ol>
-         {% for sect in site.data.sects.shiah %}
+         {% for sect in page.sects.shiah %}
          <li>{{ sect.title }}</li>
          {% endfor %}         
         </ol>
       </li>
     {% endif %}
-   {% if site.data.sects.khawarij %}
+   {% if page.sects.khawarij %}
      <li class="collection-item">
         <ol>
-         {% for sect in site.data.sects.khawarij %}
+         {% for sect in page.sects.khawarij %}
          <li>{{ sect.title }}</li>
          {% endfor %}         
         </ol>
