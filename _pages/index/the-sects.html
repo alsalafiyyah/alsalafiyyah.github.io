@@ -6,16 +6,32 @@ locale: en
 active: sects
 permalink: /the-sects/
 ---
-
+{% if sita.data.sects %}
    {% if site.data.sects.sufism %}
      <li class="collection-item">
         <ol>
          {% for sect in site.data.sects.sufism %}
          <li>{{ sect.title }}</li>
-         {% endfor %}
-         {% for sect in site.data.sects.shiah %}
-         <li>{{ sect.title }}</li>
-         {% endfor %}
+         {% endfor %}         
         </ol>
       </li>
     {% endif %}
+   {% if site.data.sects.shiah %}
+     <li class="collection-item">
+        <ol>
+         {% for sect in site.data.sects.shiah %}
+         <li>{{ sect.title }}</li>
+         {% endfor %}         
+        </ol>
+      </li>
+    {% endif %}
+   {% if site.data.sects.khawarij %}
+     <li class="collection-item">
+        <ol>
+         {% for sect in site.data.sects.khawarij %}
+         <li>{{ sect.title }}</li>
+         {% endfor %}         
+        </ol>
+      </li>
+    {% endif %}
+{% endif %}
