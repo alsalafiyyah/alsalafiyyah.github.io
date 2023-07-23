@@ -36,6 +36,9 @@
     </nav>
   
   <div class="section">
+   {% if page.active == "audios" %}
+   <audio id="player" src="{{ page.mp3 }}" controls></audio>
+   {% endif %}
    <h3>{{ page.title }}</h3>
    {{ content }}
    {% include source.html %}
