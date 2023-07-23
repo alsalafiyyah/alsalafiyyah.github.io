@@ -1,11 +1,11 @@
 ---
 layout: blog
 publisher: alsalafiyyah@icloud.com
-title: "The Tawhid of the Prophets and its antithesis in the religions of the Kafirs and Mushriks"
+title: The Tawhid of the Prophets and its antithesis in the religions of the Kafirs and Mushriks
 hijri: Safar 05, 1442 AH
 lang: en
 source: "Majmu' Fatawa Shaykh Ibn Baz vol 3"
-excerpt: "Allah (Praised and Exalted be He) sent His Honorable Messengers to guide people to know Him, to call them to Tawhid (belief in the Oneness of Allah) and sincere and pure dedication of 'Ibadah (worship) to Allah Alone."
+excerpt: Allah (Praised and Exalted be He) sent His Honorable Messengers to guide people to know Him, to call them to Tawhid (belief in the Oneness of Allah) and sincere and pure dedication of 'Ibadah (worship) to Allah Alone.
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
