@@ -1,17 +1,35 @@
 sects:
   shiah: 
-    - title: Ismailiyah
+    - title: Isma'iliyah
       url: null
     - title: Dawudi Bohras
       url: null
-    - title: Qarmatians
+    - title: Qarmatians (sub-sect of Ismailiyah)
       url: null 
     - title: Batiniyah
       url: null  
-    - title: Imamiyah
+    - title: Imamiyah (Ithna ‘Ashariyah)
       url: null  
+    - title: Zaidiyah
+      url: null
+    - title: Ghulat Shiite
+      url: null
+    - title: Ghurabiya (sub-sect of Ghulat)
+      url: null
+    - title: Shaykhiyyah (Shaykhism)
+      url: null
+    - title: Karimkhaniyyah
+      url: null
+    - title: Babism 
+      url: null
+    - title: Baha'ism
+      url: null
+    - title: Ja'fariyah
+      url: null
   khawarij:
     - title: Ibadiyah
+      url: null    
+    - title: Nusayriyyah
       url: null    
   sufism:
     - title: Jama'at At-Tabligh
@@ -26,3 +44,53 @@ sects:
       url: null  
     - title: Naqshabandiyah
       url: null  
+    - title: Sadhiliyah
+      url: null  
+    - title: Chistiyah
+      url: null  
+    - title: Mawlawiyah
+      url: null  
+    - title: Qadiriyah
+      url: null  
+    - title: Rifa'iyah
+      url: null  
+    - title: Tijaniyah
+      url: null  
+    - title: Naqshabandiyah
+      url: null  
+  quranism:
+    - title: Qur'aniyah
+      url: null
+    - title: Tolu-e-Islam
+      url: null
+    - title: Submitters (Submission)
+      url: null
+    - title: Quran Sunnat Society
+      url: null
+    - title: Kala Kato
+      url: null
+    - title: Malaysian Quranic Society
+      url: null
+    - title: Zumratul Jamiu Mumin
+      url: null
+    - title: Izgi Amal
+      url: null
+    - title: Ahl Al-Qur'an
+      url: null
+  others:
+    - title: Asharis (Ash'arism)
+      url: null
+    - title: Al-Ikhwan Al-Muslimun
+      url: null
+    - title: Ahmadiyyah (Qadianis)
+      url: null
+    - title: Nation of Islam (Farakkanism)
+      url: null
+    - title: Mu'tazilah
+      url: null
+    - title: Jabariyah
+      url: null
+    - title: Qadariyah
+      url: null
+    - title: Jahmiyah
+      url: null
