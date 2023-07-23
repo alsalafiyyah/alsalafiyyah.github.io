@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 title: "Advice of Allah's Book [Part 1]"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 9/14"
@@ -170,7 +170,7 @@ He (Glorified be He) says: "And whoever among you does wrong (i.e. sets up rival
 
 So, servant of Allah, you should not wrong others with regard to their person, honor, or property.
 
-[Read part two here](/advice-of-quran-2)
+[Read part two here](/muqolat/advice-of-quran-2)
 
 ---
 
