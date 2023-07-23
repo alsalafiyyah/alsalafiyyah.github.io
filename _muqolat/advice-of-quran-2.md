@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 title: "Advice of Allah's Book [Part 2]"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 9/14"
