@@ -31,12 +31,22 @@ sects:
       url: null  
     - title: Naqshabandiyah
       url: null  
+  quranism:
+    - title: Quraniyah
+      url: null
+    - title: Tulu' Al-Islam
+      url: null
+  others:
+    - title: Asharis
+      url: null
+    - title: Ikhwan Al-Muslimun
+      url: null
 ---
 
 {% if page.sects %}
  <ul class="collection border-0 footer-post">
    {% if page.sects.sufism %}
-     <li class="collection-item">Sufism:
+     <li class="collection-item"><b>Sufism</b>
         <ol>
          {% for sect in page.sects.sufism %}
          <li>{{ sect.title }}</li>
@@ -45,7 +55,7 @@ sects:
       </li>
     {% endif %}
    {% if page.sects.shiah %}
-     <li class="collection-item">Shi'ah & The Rafidah
+     <li class="collection-item"><b>Shi'ah & The Rafidah</b>
         <ol>
          {% for sect in page.sects.shiah %}
          <li>{{ sect.title }}</li>
@@ -54,7 +64,7 @@ sects:
       </li>
     {% endif %}
    {% if page.sects.khawarij %}
-     <li class="collection-item">Khawarij
+     <li class="collection-item"><b>Khawarij</b>
         <ol>
          {% for sect in page.sects.khawarij %}
          <li>{{ sect.title }}</li>
@@ -62,5 +72,23 @@ sects:
         </ol>
       </li>
     {% endif %}
+   {% if page.sects.quranism %}
+     <li class="collection-item"><b>Hadith Rejectors</b>
+        <ol>
+         {% for sect in page.sects.quranism %}
+         <li>{{ sect.title }}</li>
+         {% endfor %}         
+        </ol>
+      </li>
+    {% endif %}   
+    {% if page.sects.others %}
+     <li class="collection-item"><b>Others</b>
+        <ol>
+         {% for sect in page.sects.others %}
+         <li>{{ sect.title }}</li>
+         {% endfor %}         
+        </ol>
+      </li>
+    {% endif %}  
  </ul> 
 {% endif %}
