@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: Apostasy (Riddah)
 publisher: alsalafiyyah@icloud.com
 source: Majmu’ Al-Fatawa p.4/257 and p.4/268
