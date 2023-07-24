@@ -14,9 +14,7 @@ muftis:
       url: null
 --- 
 
-###### Definition of the Ikhwan Al-Muslimun:
-
-They are the followers of Hasan Al-Banna. There are several points to be noted about their methodology, the most important of which are the following:
+Definition of the Ikhwan Al-Muslimun: They are the followers of Hasan Al-Banna. There are several points to be noted about their methodology, the most important of which are the following:
 
 1. They show a lack of importance to Tawhid Al-‘Ibadah [^1], which is the most important matter in Islam, since the Islaam of an individual is not valid without it.
 2. They remain silent and concede to the people in their performance of major Shirk, supplication to other than Allaah, performance of tawaaf around graves, making oaths to the dead in the graves, sacrificing in their names and so on.
