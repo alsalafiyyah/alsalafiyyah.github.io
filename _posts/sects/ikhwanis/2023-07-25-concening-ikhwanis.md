@@ -18,7 +18,7 @@ muftis:
 
 They are the followers of Hasan Al-Banna. There are several points to be noted about their methodology, the most important of which are the following:
 
-1. They show a lack of importance to Tawhid Al-‘Ibadah [1], which is the most important matter in Islam, since the Islaam of an individual is not valid without it.
+1. They show a lack of importance to Tawhid Al-‘Ibadah [^1], which is the most important matter in Islam, since the Islaam of an individual is not valid without it.
 2. They remain silent and concede to the people in their performance of major Shirk, supplication to other than Allaah, performance of tawaaf around graves, making oaths to the dead in the graves, sacrificing in their names and so on.
 3. The founder of this methodology was a Sufi. He had a connection with Sufism to the point that he gave bay’ah (oath of allegiance) to ‘Abdul-Wahhab Al-Khusafi upon (following) his Khusafi Shadhili order.
 4. The presence of innovations amongst them and their worshipping Allah through them – even to the point that the founder of this methodology acknowledged that the Prophet ﷺ would attend their gatherings of dhikr and that he ﷺ would forgive what past sins they had committed, as is found in his saying: **“May Allah bless the one who upon light in which he appeared. To the worlds, and so he surpassed the sun and the moon
@@ -30,5 +30,7 @@ And pardoned everyone in what sins they did in the past.”**
 8. They pursue the mistakes of the leaders and expose their faults – whether true or false – spreading them amongst the youth in order to make the leaders appear hateful to them and so that they can fill their hearts with contempt against them.
 9. They hold detestable partisanship to the party they ascribe themselves to. So they show friendship based on this party and they show enmity based on this party.
 10. They give their oath of allegiance to work for the Ikhwani Manhaj according to the ten conditions that the founder has set forth. And there are other issues of concern, which perhaps can be dealt with at a later time.
+
+[^1]: Translator’s Note: This is the category of Tawhid related to the Oneness of Allah in the worship that is performed to Him, i.e. that we worship only Allah and no one else.
 
 <small>Source: [AbdurRahman.Org](https://abdurrahman.org/2014/01/15/moderndaydevientgroups/)</small>
