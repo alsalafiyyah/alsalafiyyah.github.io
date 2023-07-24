@@ -13,7 +13,10 @@ Some of schools of thought and deviant sects or groups.
     <h6>{{ subcategory.title }}</h6>
     <ol>
     {% for item in subcategory.items %}
-      <li style="padding-left: 12px;">{{ item.title }}</li>
+      <li style="padding-left: 12px;">
+       {{ item.title }}
+       <p style="padding-left: 6px;"><small>{{ item.desc }}</small></p>
+      </li>
     {% endfor %}
     </ol>
   {% endfor %}
