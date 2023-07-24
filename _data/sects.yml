@@ -27,7 +27,7 @@
         - title: Druze
     - title: "Sufism"
       items:
-        - title: "Jama'at At-Tabligh"
+        - title: "Jama'at At-Tabligh (founded by Muhammad Ilyas, a grave-worshipper sufi)"
           href: "null"
         - title: "Deobandiyah"
           href: "null"
@@ -108,7 +108,7 @@
    - title: "Others"
      items:
       - title: "Al-Ikhwan Al-Muslimun"
-        href: "null"
+        desc: "Hasan Al-Banna, the founder of this group and he was a Sufi"
       - title: "Ahmadiyah (Qadianiyah)"
         href: "null"
       - title: "Nation Of Islam (Farakkanism)"
@@ -119,3 +119,5 @@
         href: "null"
       - title: "Al-Salimah"
         href: "null"
+      - title: The Qutubis (Sayyid Qutb)
+      - title: Sururiyah (Muhammad Surur Zayn-ul-Abidin)
