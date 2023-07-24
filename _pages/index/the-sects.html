@@ -148,16 +148,15 @@ Some of schools of thought and misguided sects or groups and its branches.
  </ul> 
 {% endif %}
 
-{% for sect in site.data.sects %}
-{% for sect in site.data.sects.sufism %}
- <li>{{ sect.title }}</li>
+{% for entry in site.data.sects %}
+  <h2>{{ entry.title }}</h2>
+  {% for subcategory in entry.subcategories %}
+    <h3>{{ subcategory.title }}</h3>
+    <ul>
+    {% for item in subcategory.items %}
+      <li><a href="{{ item.href }}">{{ item.title }}</a></li>
+    {% endfor %}
+    </ul>
+  {% endfor %}
 {% endfor %}
-{% endfor %}
-<hr/>
-{% assign sect = site.data.sects['sufism'] %}
-<li>{{ sect.title }}</li>
-<hr/>
-{% assign sect = site.data.sects.sufism %}
-<li>{{ sect.title }}</li>
-
 
