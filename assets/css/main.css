@@ -68,6 +68,16 @@ a.sidenav-close > i.material-icons {
  width: 98% !important;
  color: var(--color-text) !important;
 }
+.pagination li.active a {  
+  color: var(--color-text) !important;
+}
+.pagination li.active {
+  background-color: #ee6e73 !important;
+}
+.pagination li.disabled a {
+  cursor: default;
+  color: #999 !important;
+}
 .sidenav,.collection-header, .card-content {
  background-color: var(--color-bg) !important;
  color: var(--color-text) !important;
