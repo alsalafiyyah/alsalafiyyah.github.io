@@ -1,6 +1,6 @@
 - title: "The Sects & groups"
   subcategories:
-    - title: "Shi'ah and the Rafidah"
+    - title: "Shi'ah & the Rafidah"
       items:
         - title: "Isma'iliyah"
           href: "null"
@@ -10,7 +10,7 @@
           href: "null"
         - title: "Zaydiyah"
           href: "null"
-        - title: "Imamiyah"
+        - title: "Imamiyah (Ithna ‘Ashariyah)"
           href: "null"
         - title: "Shaykhiyyah"
           href: "null"
@@ -20,6 +20,8 @@
           href: "null"
         - title: "Ghulat Shi'ah"
           href: "null"
+        - title: "Ghurabiyah"
+          href: "null"  
         - title: "Ja'fariyah"
           href: "null"
         - title: "Karimlhaniyyah"
@@ -78,7 +80,7 @@
           href: "null"       
 - title: null
   subcategories:
-   - title: "Othera"
+   - title: "Others"
      items:
       - title: "Asharis (Ash'arism)"
         href: "null"
