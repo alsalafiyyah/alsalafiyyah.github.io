@@ -31,4 +31,4 @@ And pardoned everyone in what sins they did in the past.”**
 9. They hold detestable partisanship to the party they ascribe themselves to. So they show friendship based on this party and they show enmity based on this party.
 10. They give their oath of allegiance to work for the Ikhwani Manhaj according to the ten conditions that the founder has set forth. And there are other issues of concern, which perhaps can be dealt with at a later time.
 
-Source: [AbdurRahman.Org](https://abdurrahman.org/2014/01/15/moderndaydevientgroups/)
+<small>Source: [AbdurRahman.Org](https://abdurrahman.org/2014/01/15/moderndaydevientgroups/)</small>
