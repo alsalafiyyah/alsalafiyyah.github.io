@@ -1,4 +1,4 @@
-- title: "The Sects & groups"
+- title: null
   subcategories:
     - title: "Shi'ah & the Rafidah"
       items:
@@ -106,6 +106,7 @@
       - title: Jabariyyah
       - title: Mu'tazilah
       - title: Qadariyah
+      - title: Jahmiyyah
 - title: null
   subcategories:
    - title: "Others"
@@ -113,9 +114,7 @@
       - title: "Al-Ikhwan Al-Muslimun"
         desc: "Hasan Al-Banna, the founder of this group and he was a Sufi"      
       - title: "Nation Of Islam (Farakkanism)"
-        href: "null"
-      - title: "Jahmiyyah"
-        href: "null"
+        href: "null"      
       - title: "Al-Karamiyah"
         href: "null"
       - title: "Al-Salimah"
