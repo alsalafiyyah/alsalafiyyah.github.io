@@ -96,6 +96,18 @@ sects:
 
 Some of schools of thought and misguided sects or groups and its branches. 
 
+{% for sect in site.data.sects %}
+  <h3>{{ sect.title }}</h3>
+  {% for subcategory in entry.subcategories %}
+    <h6>{{ subcategory.title }}</h6>
+    <ul>
+    {% for item in subcategory.items %}
+      <li class="padding-left: 10px;">{{ item.title }}</li>
+    {% endfor %}
+    </ul>
+  {% endfor %}
+{% endfor %}
+
 {% if page.sects %}
  <ul class="collection border-0 footer-post">
    {% if page.sects.sufism %}
@@ -146,15 +158,5 @@ Some of schools of thought and misguided sects or groups and its branches.
  </ul> 
 {% endif %}
 
-{% for entry in site.data.sects %}
-  <h3>{{ entry.title }}</h3>
-  {% for subcategory in entry.subcategories %}
-    <h6>{{ subcategory.title }}</h6>
-    <ul>
-    {% for item in subcategory.items %}
-      <li><a href="{{ item.href }}">{{ item.title }}</a></li>
-    {% endfor %}
-    </ul>
-  {% endfor %}
-{% endfor %}
+
 
