@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Concerning a group the so-called Al-Ikhwan Al-Muslimun"
+title: "Concerning the so-called group 'Al-Ikhwan Al-Muslimun'"
 hijri: Muharram 07, 1445 AH
 source: "Al-Fatawa Al-Jaliyyah ‘anil-Manahij Al-Da’wiyyah pg. 51-55"
 lang: en
