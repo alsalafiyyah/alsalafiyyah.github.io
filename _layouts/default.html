@@ -7,6 +7,12 @@
   {% include navbar.html %}
   <div class="section">
   {{ content }}
+  <ul class="collection border-0 footer-post">
+   <li class="collection-item">
+   <meta content='{{ site.time }}' itemprop='dateModified'/>
+   <small><span id='last-modified' itemprop='dateModified'></span></small>
+   </li>
+  </ul>
   </div>
  </div>
  {% include scripts.html %}
