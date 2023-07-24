@@ -3,27 +3,27 @@
     - title: "Shi'ah & the Rafidah"
       items:
         - title: "Isma'iliyah"
-          href: "null"
+          desc: null
         - title: "Dawudi Bohras"
-          href: "null"
+          desc: null
         - title: "Qarmatians"
-          href: "null"
+          desc: null
         - title: "Zaydiyah"
-          href: "null"
+          desc: null
         - title: "Imamiyah (Ithna ‘Ashariyah)"
-          href: "null"
+          desc: null
         - title: "Shaykhiyyah"
-          href: "null"
+          desc: null
         - title: "Babism"
-          href: "null"
+          desc: null
         - title: "Baha'ism"
-          href: "null"
+          desc: null
         - title: "Ghulat Shi'ah"
-          href: "null"
+          desc: null
         - title: "Ghurabiyah"
-          href: "null"  
+          desc: null  
         - title: "Jafari"
-          href: "null"
+          desc: null
         - title: Druze
         - title: Yazidi
     - title: "Sufism"
@@ -31,29 +31,29 @@
         - title: "Jama'at At-Tabligh"
           desc: "Founded by Muhammad Ilyas, a grave-worshipper Sufi."
         - title: "Deobandiyah"
-          href: "null"
+          desc: null
         - title: "Barelwiyah"
           desc: "An offshoot of Sufi & Qadianism."     
         - title: "Naqshabandiyah"
-          href: "null"     
+          desc: null     
         - title: "Qadiriyah"
-          href: "null"    
+          desc: null    
         - title: "Sadhiliyah"
-          href: "null"   
+          desc: null   
         - title: "Chisthiyah"
-          href: "null"     
+          desc: null     
         - title: "Ahmadiyah (Qadianiyah, Qadianism)"
-          href: "null"  
+          desc: null  
         - title: "Mawlawiyah (Whirling Dervishes)"
-          href: "null"      
+          desc: null      
         - title: "Rifa'iyah"
-          href: "null"       
+          desc: null       
         - title: "Tijaniyah"
-          href: "null" 
+          desc: null 
         - title: "Khalwatiyah"
-          href: "null"     
+          desc: null     
         - title: "Burhaniyah"
-          href: "null"     
+          desc: null     
         - title: Khidriyyah
         - title: Khatmiyah
         - title: Ja'fariyah
@@ -74,9 +74,9 @@
     - title: "Khawarij"
       items:
         - title: "Ibadiyah"
-          href: "null"
+          desc: null
         - title: "Nusayriyah"
-          href: "null"
+          desc: null
         - title: Haruriyyah
     - title: "Quranism (Sunnah/Hadith Rejectors)"
       items:
@@ -114,10 +114,11 @@
       - title: "Al-Ikhwan Al-Muslimun"
         desc: "Founded by Hasan Al-Banna, the founder of this group and he was a Sufi."      
       - title: "Nation Of Islam (Farakkanism)"
-        href: "null"      
+        desc: null      
       - title: "Al-Karamiyah"
-        href: "null"
+        desc: null
       - title: "Al-Salimah"
-        href: "null"
+        desc: null
       - title: The Qutubis (Sayyid Qutb)
       - title: Sururiyah (Muhammad Surur Zayn-ul-Abidin)
+
