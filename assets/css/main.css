@@ -82,7 +82,7 @@ a.sidenav-close > i.material-icons {
  margin: 0 12px 0 12px;
 }
 .footer-post a, .link a {
-  color: var(--color-link) !important;
+  color: var(--color-link);
 }
 .nav-wrapper {
  height: 80px! important;
