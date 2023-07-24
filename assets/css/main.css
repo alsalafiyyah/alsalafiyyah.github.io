@@ -38,7 +38,7 @@ body {
 }
 
 /* styling */
-html, body {
+html, body, .en, .ar {
 	background-color: var(--color-bg) !important;
 	color: var(--color-text) !important;
 	font-size: 18px;
@@ -82,7 +82,7 @@ a.sidenav-close > i.material-icons {
  margin: 0 12px 0 12px;
 }
 .footer-post a, .link a {
-  color: var(--color-link);
+  color: var(--color-link) !important;
 }
 .nav-wrapper {
  height: 80px! important;
