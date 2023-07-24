@@ -24,6 +24,7 @@
           href: "null"  
         - title: "Ja'fariyah"
           href: "null"
+        - title: Druze
     - title: "Sufism"
       items:
         - title: "Jama'at At-Tabligh"
@@ -73,7 +74,7 @@
           href: "null"
         - title: "Nusayriyah"
           href: "null"
-        - title: Haruriyah
+        - title: Haruriyyah
     - title: "Quranism (Sunnah/Hadith Rejectors)"
       items:
         - title: "Tolu-e-Islam (initiated by Ghulam Ahmed Pervez in Pakistan)"
@@ -94,23 +95,25 @@
           href: "null"       
 - title: null
   subcategories:
+   - title: "Ahl Al-Kalam"
+     items:
+      - title: Ash'aris
+      - title: Maturidis
+      - title: Murji'ah
+      - title: Jabariyyah
+      - title: Mu'tazilah
+      - title: Qadariyah
+- title: null
+  subcategories:
    - title: "Others"
      items:
-      - title: "Asharis (Ash'arism)"
-        href: "null"
       - title: "Al-Ikhwan Al-Muslimun"
         href: "null"
       - title: "Ahmadiyah (Qadianiyah)"
         href: "null"
       - title: "Nation Of Islam (Farakkanism)"
         href: "null"
-      - title: "Jabariyyah"
-        href: "null"
-      - title: "Qadariyah"
-        href: "null"  
       - title: "Jahmiyyah"
-        href: "null"
-      - title: "Murji'ah"
         href: "null"
       - title: "Al-Karamiyah"
         href: "null"
