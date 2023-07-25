@@ -1,10 +1,17 @@
 ---
-layout: global
+layout: default
 title: Categories
+active: category
 ---
-
-  <div class="collection border-0">
-   {% for category in site.categories %}
-    <a href="{{ site.baseurl }}/category/{{ category[0] }}" class="collection-item waves-effect waves-grey block black-text"><span class="badge">{{ category[1].size }}</span>{{ category[0] | capitalize }}</a>
-   {% endfor %}
-  </div>
+<table class="table">	
+ <tbody>     
+  {% for category in site.categories %}	
+  <tr>
+   <td>
+    <h5><a href="{{ site.baseurl }}/category/{{ category[0] }}"><span class="badge">{{ category[1].size }}</span>{{ category[0] | capitalize }}</a></h5>
+    <p><small>Posted on <b>{{ c.hijri }}</b></small></p>
+   </td>    
+  </tr>      
+  {% endfor %}	
+ </tbody>	
+</table> 
