@@ -6,10 +6,9 @@ active: category
 <table class="table">	
  <tbody>     
   {% for category in site.categories %}	
-  <tr>
-   <td>
-    <h5><a href="{{ site.baseurl }}/category/{{ category[0] }}"><span class="badge">{{ category[1].size }}</span>{{ category[0] | capitalize }}</a></h5>
-    <p><small>Posted on <b>{{ c.hijri }}</b></small></p>
+  <tr class="collection">
+   <td class="collection-item" >
+    <a href="{{ site.baseurl }}/category/{{ category[0] }}"><span class="badge">{{ category[1].size }}</span> {{ category[0] | capitalize }}</span></a>
    </td>    
   </tr>      
   {% endfor %}	
