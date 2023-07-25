@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Concerning the so-called group 'Al-Ikhwan Al-Muslimun'"
+title: "Who Are The Ikhwanul Muslimin"
 hijri: Muharram 07, 1445 AH
 source: "Al-Fatawa Al-Jaliyyah ‘anil-Manahij Al-Da’wiyyah pg. 51-55"
 lang: en
@@ -14,7 +14,7 @@ muftis:
       url: null
 --- 
 
-Definition of the Ikhwan Al-Muslimun: They are the followers of Hasan Al-Banna. There are several points to be noted about their methodology, the most important of which are the following:
+They are the followers of Hasan Al-Banna. There are several points to be noted about their methodology, the most important of which are the following:
 
 1. They show a lack of importance to Tawhid Al-‘Ibadah [^1], which is the most important matter in Islam, since the Islaam of an individual is not valid without it.
 2. They remain silent and concede to the people in their performance of major Shirk, supplication to other than Allaah, performance of tawaaf around graves, making oaths to the dead in the graves, sacrificing in their names and so on.
