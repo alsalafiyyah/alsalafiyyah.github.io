@@ -9,7 +9,6 @@ Some of schools of thought and deviant sects or groups.
 
 {% for sect in site.data.sects %}
   <h3>{{ sect.title }}</h3>
-  <p>{{ sect.desc }}</p>
   {% for subcategory in sect.subcategories %}
     <h6>{{ subcategory.title }}</h6>
     <ol>
