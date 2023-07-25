@@ -78,6 +78,14 @@ a.sidenav-close > i.material-icons {
   cursor: default;
   color: #999 !important;
 }
+.footnotes {
+ font-size: 12px !important;
+ border: 1.2px solid var(--color-text) !important;
+ padding: 8px;	 
+}
+.footnotes li {
+ font-size: 12px !important;	 
+}
 .sidenav,.collection-header, .card-content {
  background-color: var(--color-bg) !important;
  color: var(--color-text) !important;
