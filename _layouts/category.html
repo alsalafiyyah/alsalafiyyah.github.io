@@ -1,6 +1,23 @@
----
-layout: page
-title: Categories
-active: category
----
-{{ content }} 
+<!DOCTYPE html>
+<html>
+ {% include head.html %}
+<body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}">
+ {% include sidenav.html %}
+ <div class="container">  
+    <nav class="z-depth-0 transparent">
+    <div class="nav-wrapper">
+     <ul class="left">
+      <li>         
+        <a class="modal-trigger" href="{{ "category" | relative_url }}"><i class="material-icons">keyboard_backspace</i></a>            
+      </li>
+      </ul>           
+    </div>
+    </nav>
+  <div class="section link">
+   <h3>Category: {{ page.title }}</h3>
+   {{ content }}
+  </div>
+ </div>
+ {% include scripts.html %}
+ </body>
+</html>
