@@ -8,7 +8,7 @@ active: category
   {% for category in site.categories %}	
   <tr class="collection">
    <td class="collection-item">
-    <a href="{{ site.baseurl }}/category/{{ category[0] }}">{{ category[0] | capitalize }} <span class="secondary-content">{{ category[1].size }}</span></a>
+    <a href="../category/{{ category[0] }}">{{ category[0] | capitalize }} <span class="secondary-content">{{ category[1].size }}</span></a>
    </td>    
   </tr>      
   {% endfor %}	
