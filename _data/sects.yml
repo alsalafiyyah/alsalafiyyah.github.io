@@ -27,6 +27,8 @@
           desc: null
         - title: Druze
         - title: Yazidi
+        - title: "Nusayriyah (Alawites)"
+          desc: null
     - title: "Sufism"
       items:
         - title: "Jama'at At-Tabligh"
@@ -75,9 +77,7 @@
     - title: "Khawarij"
       items:
         - title: "Ibadiyah"
-          desc: null
-        - title: "Nusayriyah"
-          desc: null
+          desc: null        
         - title: Haruriyyah
     - title: "Quranism (Sunnah/Hadith Rejectors)"
       items:
