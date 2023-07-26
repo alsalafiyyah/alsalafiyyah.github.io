@@ -30,5 +30,3 @@ Answer:
 First, it is Haram (prohibited) for women to leave their houses in thin clothing. Their Waliy (guardians) should gently order and obligate them not to go out in such clothing. 
 
 Second, it is not permissible for a woman to curse her children in her husband's house or in any other place. 
-
-May Allah grant us success. May peace and blessings be upon our Prophet, his family and Companions.
