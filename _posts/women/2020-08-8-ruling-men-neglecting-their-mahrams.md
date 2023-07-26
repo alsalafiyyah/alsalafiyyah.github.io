@@ -2,15 +2,23 @@
 layout: post
 title: "Ruling on men neglecting their Mahrams"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Daimah no. 5320-2"
-category: [women, hijab]
+source: "Fatawa Al-Lajnah Al-Daimah, Fatwa no. 5320, Question 2"
+category: [women, hijab, niqab]
 hijri: Dhu al-Hijjah 14, 1441 AH
 date: 2020/08/8
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah Ibn Ghudayyan
- - Shaykh Abdullah in Qa'ud
+note: true
+muftis:
+  chairman: 
+    - name: Shaykh Ibn baz
+      url: /biography/binbaz
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Afifi
+      url: /biography/afifi
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan
+    - name: Shaykh Abdullah ibn Qa'ud
+      url: /biography/qaud
 ---
 
 Question: 
