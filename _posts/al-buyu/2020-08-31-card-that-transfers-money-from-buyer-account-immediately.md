@@ -2,14 +2,14 @@
 layout: post
 title: "A card that transfers the money from the buyer's account to the seller's immediately"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 18521"
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 18521"
 hijri: Muharram 12, 1442 AH
 lang: en
-category: [buyu]
+category: [transaction]
 excerpt: "We would like your Eminence to advise us regarding using Saudi Payments Network (SPAN). For example, a person buys items from a store that cost 150 riyals, he presents the card to the seller who passes it through a machine and the required money is immediately deducted from the customer's account and is added to the seller's account before the customer leaves the store."
 muftis:
   chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
+    - name: Shaykh Ibn Baz
       url: /biography/binbaz/
   deputy_chairman:
     - name: Shaykh Abdul-Aziz Aal Al-Shaykh
