@@ -2,15 +2,23 @@
 layout: post
 title: "Ruling on a woman who cover her head and uncover her face"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Daimah no. 3079-4"
-category: [women, hijab]
-hijri: Dhu al-Hijjah 14, 1441 AH
+source: "Fatawa Al-Lajnah Al-Da'imah no. 3079, Question 4"
+category: [women, hijab, niqab]
+hijri: Dhul-Hijjah 14, 1441 AH
 date: 2020/08/8
-shaykhs: 
- - Shaykh Abdul-Aziz Ibn Baz
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah in Qa'ud
+note: true
+muftis:
+  chairman: 
+    - name: Shaykh Ibn Baz
+      url: /biography/binbaz
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Afifi
+      url: /biography/afifi
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan
+    - name: Shaykh Abdullah ibn Qa'ud
+      url: /biography/qaud
 ---
 
 Question: 
@@ -20,5 +28,3 @@ If a woman wears clothes covering her head while uncovering her face and wears a
 Answer: 
 
 It is ordained for a woman to wear clothes that conceal her whole body, including her face and hands.
-
-May Allah grant us success. May peace and blessings be upon our Prophet, his family and Companions.
