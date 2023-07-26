@@ -3,14 +3,22 @@ layout: post
 title: "Ruling on a man paying no attention to his women's clothes"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 8366-3"
-category: [women, hijab]
-hijri: Dhu al-Hijjah 14, 1441 AH
+category: [women]
+hijri: Dhul-Hijjah 14, 1441 AH
 date: 2020/08/8
-shaykhs: 
- - Shaykh Abdul-Aziz Ibn Baz
- - Shaykh Abdulah ibn Qa'ud
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdul-Razzaq al-Afify
+note: true
+muftis:
+  chairman: 
+    - name: Shaykh Ibn baz
+      url: /biography/binbaz
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Afifi
+      url: /biography/afifi
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan
+    - name: Shaykh Abdullah ibn Qa'ud
+      url: /biography/qaud
 ---
 
 Question: 
