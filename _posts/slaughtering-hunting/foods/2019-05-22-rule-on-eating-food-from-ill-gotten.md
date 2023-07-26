@@ -5,14 +5,12 @@ title: "Eating from mixed money some of which can be ill-gotten"
 hijri: Ramadan 17, 1440 AH
 source: "Fatawa Al-Lajnah Al-Da'mah of KSA no.4888-1 and no.4888-2"
 lang: en
-category: [foods, hunting]
+category: [misc]
 note: true
-book: Slaughtering and Hunting
-chapter: food
 excerpt: " It is obligatory for a Muslim to try his best to adopt what is lawful in his food, drink, and clothing."
 muftis:
   chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
+    - name: Shaykh Ibn Baz
       url: /biography/binbaz/
   deputy_chairman:
     - name: Shaykh Abdul-Razzaq Al-Afifi
