@@ -1,17 +1,17 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Ritual impurity of Maniy"
+title: "Ritual Impurity of Maniy"
 hijri: Muharram 02, 1441 AH
-source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 1205"
+source: "Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 1205"
 chapter: "Nullifications of Wudu' (Ablution)"
 lang: en
-category: [taharah, shawm, fasting, ghusl, ablution]
+category: [taharah,fasting,ablution]
 note: true
 excerpt: "If the discharged fluid was Maniy, he must perform Ghusl. It also invalidates fasting. Although this fluid is originally pure, it is repulsive."
 muftis:
   chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
+    - name: Shaykh Ibn Baz
       url: /biography/binbaz/
   deputy_chairman: 
     - name: Shaykh Abdul-Razzaq Al-Afifi
