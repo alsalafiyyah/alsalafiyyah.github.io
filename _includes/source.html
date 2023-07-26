@@ -10,7 +10,7 @@
   <li class="collection-item">
    <i data-feather="book-open"></i>
   {% for sh in page.shaykhs %}
-   {{ sh[0] }}
+   {{ sh }}
    {% unless forloop.last %},{% endunless %}
   {% endfor %}
   </li>
