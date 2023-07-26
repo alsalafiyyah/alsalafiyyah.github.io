@@ -5,7 +5,7 @@ title: "What is the origin of the forty-day anniversary?"
 hijri: Dhul-Hijjah 24, 1444 AH
 source: "Majmu’ Fatawa 13/398"
 lang: en
-category: [bid'ah, innovation]
+category: [bidah,funerals]
 note: false
 excerpt: "The origin of this is a Pharaonic custom which was practised by the Pharaohs before Islam."
 muftis:
