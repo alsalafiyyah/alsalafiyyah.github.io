@@ -2,11 +2,11 @@
 layout: post
 title: "Confusion in lineage as a reason behind prohibiting Zina"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 2758-2"
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 2758, Question 2"
 hijri: Muharram 10, 1442 AH
 lang: en
 note: true
-category: [zina, misc]
+category: [zina]
 excerpt: "There are other reasons unknown to many people behind the prohibition of Zina and protecting lineage is only one of them. Even if we assume that it is the only reason, Zina cannot be considered permissible once the risk of pregnancy is eliminated."
 muftis:
   chairman: 
