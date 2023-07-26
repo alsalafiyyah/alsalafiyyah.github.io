@@ -5,7 +5,7 @@ title: "It is obligatory on Muslims to follow the Qur'an and Sunnah"
 hijri: Safar 28, 1442 AH
 source: "Fatawa Al-lajnah Al-Da'imah no. 2872-3"
 lang: en
-category: [madhabs, principle, taqlid]
+category: [madhabs]
 note: true
 excerpt: "The basic rule states that it is incumbent upon every Muslim to follow the Book of Allah and the Sunnah of His Messenger (peace be upon him)."
 muftis:
@@ -24,7 +24,7 @@ muftis:
 
 Question:
 
-There are four Madh-habs (Schools of Jurisprudence) in Islam. What criteria do I apply in selecting to follow one of them? Can I follow more than one school of Jurisprudence? 
+There are four Madhabs (Schools of Jurisprudence) in Islam. What criteria do I apply in selecting to follow one of them? Can I follow more than one school of Jurisprudence? 
 
 Answer:
 
