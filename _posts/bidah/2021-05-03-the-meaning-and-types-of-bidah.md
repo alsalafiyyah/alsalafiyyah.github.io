@@ -1,11 +1,11 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "The meaning and types of Bid'ah (innovation in religion)"
+title: "The meaning and types of Bid'ah"
 hijri: Ramadan 21, 1442 AH
-source: "Fatawa Al-Lajnah Al-Daimah no. 3230-7"
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 3230, Question 7"
 lang: en
-category: [bidah]
+category: [bidah,terminology]
 note: true
 excerpt: "Bid'ah is an act of worship that was not legislated by Allah such as celebrating the birth of the Prophet (peace be upon him), Isra' (Night Journey), and Mi'raj (Ascension to Heaven) and the raising of the Mu'adhin's (caller to Prayer) voice in offering peace and blessings upon the Prophet (peace be upon him) after pronouncing Adhan (call to prayer) and the like."
 muftis:
