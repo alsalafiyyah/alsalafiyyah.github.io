@@ -2,14 +2,21 @@
 layout: post
 title: "Ruling on parting hair on side"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Daimah no. 1456-3"
-category: [women, beautification]
-hijri: Dhu al-Hijjah 14, 1441 AH
+source: "Fatawa Al-Lajnah Al-Da'imah no.1456, Question 3"
+category: [women]
+hijri: Dhul-Hijjah 14, 1441 AH
 date: 2020/08/8
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
+note: true
+muftis:
+  chairman: 
+    - name: Shaykh Ibn baz
+      url: /biography/binbaz
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Afifi
+      url: /biography/afifi
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan
 ---
 
 Question: 
@@ -22,6 +29,5 @@ With regard to parting the hair on the side, this involves imitating the Kafir (
 
 The Prophet (peace be upon him) warned against that when he said: "There are two types amongst the denizens of the Fire whom I have not seen yet: Men having whips like the tails of cows with which they flog people, and women who would be naked in spite of their being dressed, who seduce others (to wrong paths) and are being seduced; their heads will appear like the humps of the Bactrian camels inclined to one side. These (women) would not enter Jannah (Paradise) nor perceive its odor, even though its odor can be perceived at such and such (very remote) distance." (Related by Ahmad and Muslim) [^1]
 
-May Allah grant us success. May peace and blessings be upon our Prophet, his family and Companions.
 ---
 [^1]: Musnad Ahmad, vol. 2, pp. 356 and Muslim, vol. 6, p. 168.
