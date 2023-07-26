@@ -3,7 +3,7 @@ layout: post
 title: "The creed of Barelwiyyah (Barelvis) Sufi Order"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 3090"
-category: ["sufism"]
+category: [sufism,barelvi]
 hijri: Dhul-Hijjah 7, 1441 AH
 lang: en
 note: true
