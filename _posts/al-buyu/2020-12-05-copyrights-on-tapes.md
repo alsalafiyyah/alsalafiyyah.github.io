@@ -3,9 +3,9 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Copyrights on tapes"
 hijri: "Rabi' Al-Thani 19, 1442 AH"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 18453"
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 18453"
 lang: en
-category: [buyu]
+category: [transaction,copyright]
 note: true
 excerpt: "It is not permissible for a person to make copies of software programs protected by copyright unless the person obtains permission from the owner of these programs."
 muftis:
