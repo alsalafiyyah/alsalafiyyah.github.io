@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 4324-2"
 hijri: Muharram 10, 1442 AH
 lang: en
-category: [homosexuals, zina, immoral, sins]
+category: [homosexual,zina,hudud]
 note: true
 excerpt: "Sodomy is one of the major sins, whether it is committed with a boy or an adult, and whether it is with or without their consent."
 muftis:
