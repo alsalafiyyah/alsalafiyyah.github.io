@@ -51,3 +51,11 @@ muftis:
     - name: 
       url: 
 --- Post 2
+
+--- page
+layout: default/page
+title: 
+active: 
+lang: en
+permalink: 
+--- Page
