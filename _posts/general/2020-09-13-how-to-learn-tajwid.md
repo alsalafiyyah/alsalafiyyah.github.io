@@ -4,7 +4,8 @@ publisher: alsalafiyyah@icloud.com
 title: How to learn Tajwid
 hijri: Muharram 25, 1442 AH
 lang: en
-source: Fatwa of the Permanent Committee no. 9566-2
+category: [knowledge,quran]
+source: "Fatawa Al-Lajnah Al-Da'imah no. 9566, Question 2"
 excerpt: "How can I learn Tajwid and in which book can I find the rules of Tajwid?"
 muftis:
   chairman: 
