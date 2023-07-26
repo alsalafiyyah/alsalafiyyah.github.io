@@ -6,10 +6,10 @@ hijri: Muharram 29, 1442 AH
 lang: en
 source: "One of the questions asked by Al-'Arabiyyah Magazine, dictated by His Eminence on 29/5/1417 A.H."
 excerpt: "Ibn Taymiyyah did not approve celebrating the Prophet's Mawlid, rather he condemned doing so and was of the view that doing so is a Bid'ah."
-category: [fitnahs, mawlids]
+category: [festivals, bidah]
 muftis:
   shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
+    - name: Shaykh Ibn Baz
       url: /biography/binbaz/
 ---
 
