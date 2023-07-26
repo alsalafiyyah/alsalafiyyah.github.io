@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 2573"
 hijri: Muharram 10, 1442 AH
 lang: en
-category: ["madhabs", malikis]
+category: [madhabs]
 lang: en
 excerpt: "People differ in preparedness, knowledge, reasoning, and background; some are intelligent and others are simple, some are well educated and others are illiterate."
 muftis:
