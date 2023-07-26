@@ -2,10 +2,10 @@
 layout: post
 title: "Ruling on using Samba visa card"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 17611"
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 17611"
 hijri: Muharram 12, 1442 AH
 lang: en
-category: [buyu, riba]
+category: [transaction,riba]
 excerpt: "Samba visa as described in the question is a new way of the ways of those who deal with Riba (usury/interest) and consuming the properties of people unjustly."
 muftis:
   chairman: 
