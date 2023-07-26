@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Abdullah Al-Habashy is misguided"
+title: "On Habashi Sect"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa Shaykh ibn Baz 9/315"
-category: [habashis]
+category: [habashi]
 lang: en
 note: false
 hijri: Dhul-Qa'dah 26, 1441 AH
-excerpt: ""
+excerpt: "I would like to tell you that this sect is known to us. It is a misguided sect and their leader Abdullah Al-Habashy is notorious for his deviation and aberration."
 muftis:
   shyakh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
+    - name: Shaykh Ibn Baz
       url: /biography/binbaz/
 ---
 
