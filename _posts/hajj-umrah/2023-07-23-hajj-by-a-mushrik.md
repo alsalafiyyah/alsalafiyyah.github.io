@@ -6,7 +6,7 @@ source: Fatawa Al-Lajnah Al-Da'imah, Fatwa No. 4459, Question 2
 hijri: Muharram 4, 1445 AH
 date: 2023/07/22
 note: true
-category: [hajj-umrah, hajj]
+category: [hajj-umrah]
 excerpt: If anyone performs Hajj while committing major disbelief and then returns to Islam, their Hajj will not count as the obligatory Hajj of Islam.
 muftis:
   chairman: 
