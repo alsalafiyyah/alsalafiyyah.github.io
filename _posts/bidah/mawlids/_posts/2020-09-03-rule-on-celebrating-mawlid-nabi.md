@@ -2,14 +2,14 @@
 layout: post
 title: "Ruling on celebrating the Prophet's Mawlid"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 7136-1"
-category: [mawlids, bidah]
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 7136, Question 11"
+category: [festivals, bidah]
 hijri: Muharram 15, 1442 AH
 lang: en
 excerpt: "Holding a celebration to commemorate the birth of the Prophet (peace be upon him) is impermissible, and that was never done by the Prophet (peace be upon him)"
 muftis:
   chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
+    - name: Shaykh Ibn Baz
       url: /biography/binbaz/
   deputy_chairman:
     - name: Shaykh Abdul-Razzaq Al-Afifi
