@@ -5,7 +5,7 @@ title: "The Salaf warned against the story-tellers"
 hijri: Rajab 12, 1443 AH
 source: "Al-Ajwibah Al-Mufidah p. 224"
 lang: en
-category: [sufism, storytellers, qassas]
+category: [sufism, tablighis]
 note: false
 excerpt: "The Salaf warned against story-tellers since for the most part their intention was to affect people by telling them stories and tales that were not authentic. They did not rely on valid proofs nor did they have any concern for teaching people the laws of their Religion and matters of Creed."
 muftis:
