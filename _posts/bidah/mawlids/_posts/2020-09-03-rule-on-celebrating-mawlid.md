@@ -2,14 +2,14 @@
 layout: post
 title: "Celebrating the Prophet's Mawlid"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 2747"
-category: [mawlids, bidah]
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 2747"
+category: [festivals, bidah]
 hijri: Muharram 15, 1442 AH
 lang: en
-excerpt: ""
+excerpt: "Celebrating the birth of the Prophet is Bid‘ah (innovation in religion). The Prophet did not celebrate his birthday, nor did he order others to do so, nor did he see one celebrating it and remained silent about it. "
 muftis:
   chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
+    - name: Shaykh Ibn Baz
       url: /biography/binbaz/
   deputy_chairman:
     - name: Shaykh Abdul-Razzaq Al-Afifi
