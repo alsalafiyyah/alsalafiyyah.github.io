@@ -34,6 +34,10 @@ date:
 lang: en/ar
 note: true/false
 excerpt: "Post excerpt"
+article_taken_from: 
+  taken_from:
+    - web_title: ""
+      web_url: ""
 muftis:
   chairman: 
     - name: 
