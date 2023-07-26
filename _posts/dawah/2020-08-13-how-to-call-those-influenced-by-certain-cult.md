@@ -5,7 +5,12 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 4/226, question 12"
 hijri: Dhul-Hijjah 23, 1441 AH
 date: 2020/08/13
-shaykhs: Shaykh Ibn Baz
+note: false
+category: [dawah]
+muftis:
+  shaykh: 
+    - name: Shaykh Ibn Baz
+      url: /biography/binbaz
 ---
 
 Question:
