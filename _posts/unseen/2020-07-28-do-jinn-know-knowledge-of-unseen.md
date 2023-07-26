@@ -2,8 +2,8 @@
 layout: post
 title: "Do the Jinn know knowledge of Unseen?"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 18645-3"
-category: [jinn, unseen]
+source: "Fatawa Al-Lajnah Al-Da'imah, Fawa no.18645, Question 3"
+category: [unseen]
 hijri: Dhul-Hijjah 7, 1441 AH
 lang: en
 note: true
