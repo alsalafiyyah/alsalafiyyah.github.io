@@ -1,14 +1,14 @@
-  <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
-  <script async src="https://kit.fontawesome.com/280680b495.js" crossorigin="anonymous"></script>
-  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
-  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
-  {% include tipue.html %}
- <script src="{{ "/assets/js/theme-switcher.js" | absolute_url }}"></script>
- <script src="https://unpkg.com/feather-icons"></script>
-      <script>
-      feather.replace()
-    </script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+<script async src="https://kit.fontawesome.com/280680b495.js" crossorigin="anonymous"></script>
+<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+{% include tipue.html %}
+<script src="{{ "/assets/js/theme-switcher.js" | absolute_url }}"></script>
+<script src="https://unpkg.com/feather-icons"></script>
+<script>
+ feather.replace()
+</script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.4/jquery.lazy.min.js"></script>
 <script>
     $(function() {
@@ -39,7 +39,7 @@ var table = new DataTable("table");
           .then((commits) => {
             var modified = commits[0]['commit']['committer']['date'].slice(0,10);
             if(modified != "{{ page.date | date: "%Y-%m-%d" }}") {
-              document.getElementById('last-modified').textContent = "Last edited on: ( " + modified + " ) by Dr. Abdullah";
+              document.getElementById('last-modified').textContent = "Last edited on: ( " + modified + " ) by Dr. Rasid";
             }
           });
       }
