@@ -50,6 +50,16 @@
      Dr. Rashid
     </li>
   {% endif %}
+ 
+  {% if page.article_taken_from %}
+   {% if page.article_taken_from.taken_from %}
+    {% for p in page.article_taken_from.taken_from %}
+       <li class="collection-item">
+        <i data-feather="feather"></i> <a href="{{ web_url | relative_url }}" title="{{ p.web_title }}"><b>{{ p.web_title }}</b></a>
+       </li>
+    {% endfor %}
+   {% endif %}
+  {% endif %}
       
   <li class="collection-item">
    <meta content='{{ site.time }}' itemprop='dateModified'/>
