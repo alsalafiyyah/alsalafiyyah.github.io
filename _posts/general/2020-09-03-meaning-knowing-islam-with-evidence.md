@@ -2,13 +2,13 @@
 layout: post
 title: "The meaning of knowing Islam with evidence"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 13507-3"
-category: [general]
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 13507, Question 3"
+category: [terminology]
 hijri: Muharram 15, 1442 AH
 date: 2020/09/03
 shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
+ - Shaykh Ibn Baz
+ - Shaykh Abdul-Razzaq Afifi
  - Shaykh Abdullah ibn Ghudayyan
 ---
 
