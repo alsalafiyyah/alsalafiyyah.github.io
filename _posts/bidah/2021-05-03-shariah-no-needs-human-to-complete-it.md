@@ -1,13 +1,13 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Shari'ah is fully established by Allah, and needs no human to complete it"
+title: "Acts of worship are Tawqifi"
 hijri: Ramadan 21, 1442 AH
 source: "Fatawa Al-Lajnah Al-Daimah no. 2467"
 lang: en
-category: [bidah, general]
+category: [bidah]
 note: true
-excerpt: "The covering of the Ka'bah is a well known practice centuries before the Mission of the Prophet (peace be upon him). However, the historians differed concerning the first to have done that."
+excerpt: "The fundamental rule on the acts of 'Ibadah (worship) is that it is Tawqifiyyah (bound by a religious text and not subject to personal opinion)"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz
