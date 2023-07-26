@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Jama'at-ul-Ahbash (the Habashis)"
+title: "Jama'at Al-Ahbash"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 19606"
-category: [habashis]
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 19606"
+category: [habashi]
 hijri: Muharram 16, 1442 AH
 lang: en
 note: true
 excerpt: "Jama'at-ul-Ahbash (the Habashis) is a misguided group which is against Ahl-ul-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream). They must return to the truth which was followed by the Sahabah and Tabi'un in all aspects of religion; actions and belief. This is better and more lasting for them."
 muftis:
   chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
+    - name: Shaykh Ibn Baz
       url: /biography/binbaz/
   deputy_chairman:
     - name: Shaykh Abdul-Aziz Aal Al-Shaykh
