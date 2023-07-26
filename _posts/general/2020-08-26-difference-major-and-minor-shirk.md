@@ -1,14 +1,14 @@
 ﻿---
 layout: post
-title: "The difference between major Shirk and minor Shirk"
+title: "The difference between Major Shirk and Minor Shirk"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Daimah 1653-1"
+source: "Fatawa Al-Lajnah Al-Da'imah 1653, Question 1"
 hijri: Muharram 7, 1442 AH
 date: 2020/08/26
-category: ["general", shirk]
+category: [terminology]
 shaykhs: 
  - Shaykh Ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
+ - Shaykh Abdul-Razzaq Afifi
  - Shaykh Abdullah bin Ghudayyan
  - Shaykh Abdullah ibn Qa'ud
 ---
