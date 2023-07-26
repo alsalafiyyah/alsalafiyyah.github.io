@@ -5,7 +5,17 @@
     <i data-feather="book-open"></i> {{ page.source }} {% else %}
     </li>
   {% endif %}
-      
+ 
+ {% if page.shaykhs %}
+  <li class="collection-item">
+   <i data-feather="book-open"></i>
+  {% for sh in page.shaykhs %}
+   {{ sh[0] }}
+  {% endfor %}
+  {% unless forloop.last %},
+  </li>
+ {% endif %}
+ 
   {% if page.muftis %}
    {% if page.muftis.shaykh %}
     {% for shaykh in page.muftis.shaykh %}
