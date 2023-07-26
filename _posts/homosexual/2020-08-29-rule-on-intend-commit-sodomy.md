@@ -6,7 +6,7 @@ source: "Fatawa Al-Lajnah Al-Da'imah no. 10572-3"
 hijri: Muharram 10, 1442 AH
 lang: en
 note: true
-category: [homosexual, zina, immoral, sins]
+category: [homosexual]
 excerpt: "Thank Allah for protecting you against the crime of sodomy. Seek Allah's forgiveness and do many good deeds."
 muftis:
   chairman: 
