@@ -5,7 +5,7 @@ title: "Reconciliation of the Four Schools of Jurisprudence"
 hijri: Safar 28, 1442 AH
 source: "Fatawa Al-lajnah Al-Da'imah no. 5560"
 lang: en
-category: [madhabs, principle, taqlid]
+category: [madhabs]
 note: true
 excerpt: "A Muslim is not required to combine between the ways followed by the four Madhabs (Schools of Jurisprudence) in his deeds."
 muftis:
