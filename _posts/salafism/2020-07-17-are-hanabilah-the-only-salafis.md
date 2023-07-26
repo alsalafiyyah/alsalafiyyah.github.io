@@ -3,16 +3,16 @@ layout: post
 title: "Are the Hanbalis are the only Salafis"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 9/238"
-category: [hanbalis, salafism]
+category: [salafism]
 hijri: Dhul-Qa'dah 26, 1441 AH
-excerpt: "This is not true. The Salaf (righteous predecessors) were the Sahabah (Companions of the Prophet, may Allah be pleased with them) and those who followed their way from among the Tabi'un (Followers, the generation after the Companions of the Prophet)"
+excerpt: "This is not true. The Salaf (righteous predecessors) were the Sahabah and those who followed their way from among the Tabi'un."
 lang: en
 locale: en
 note: false
 uid: are-hanabilah-the-only-salafis
 muftis:
   shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
+    - name: Shaykh Abdul-Aziz Ibn Baz
       url: /biography/binbaz/
 ---
 
