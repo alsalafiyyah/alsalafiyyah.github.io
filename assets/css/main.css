@@ -80,11 +80,12 @@ a.sidenav-close > i.material-icons {
   color: #999 !important;
 }
 sup, .reversefootnote {
- background: red;
- padding: 2px 3px;
+ background: #e3f2fd;
+ padding: 2px 3px; 
+ font-size: smaller;
+ line-height: normal; 
 }
-sup, a.reversefootnote {
- color: #ffffff !important;
+a.reversefootnote {
  font-size: 12px;
 }
 .footnotes {
