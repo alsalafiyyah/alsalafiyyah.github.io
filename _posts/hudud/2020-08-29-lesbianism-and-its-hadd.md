@@ -8,7 +8,7 @@ lang: en
 note: true
 uid: lesbianism-and-its-hadd
 excerpt: "Lesbianism stands for homosexuality between females. It is forbidden and those who commit it have to be punished with Ta'zir (discretionary punishment) and not Hadd (ordained punishment for violating Allah's Law)."
-category: [hudud, homosexuals]
+category: [hudud,homosexual,lesbianism]
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz
