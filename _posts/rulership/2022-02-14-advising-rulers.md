@@ -3,9 +3,9 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Correct methodology for advising the rulers"
 hijri: Rajab 13, 1443 AH
-source: "Al-Ajwibah Al-Mufidah of Shaykh Salih Al-Fawzan p. 47-52"
+source: "Al-Ajwibah Al-Mufidah p. 47-52"
 lang: en
-category: [rulers]
+category: [rulership]
 note: false
 excerpt: "No one is Infallible except for Allahs Messenger (peace be upon him). Rulers are humans and they make errors. So no doubt they have errors and mistakes as they are not infallible. However, you should not make their errors a cause for you to publicize them and stop obeying them, even if they may be oppressive and unjust or sinful, so long as they do not commit clear disbelief."
 muftis:
