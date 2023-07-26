@@ -3,14 +3,20 @@ layout: post
 title: "Ruling on using artificial nails, eye lashes, and colored contact lenses"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 20840"
-category: [women, beautification]
-hijri: Dhu al-Hijjah 14, 1441 AH
-date: 2020/08/8
-shaykhs: 
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Salih Fawzan
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Bakr Abu Zayd
+category: [women]
+hijri: Dhul-Hijjah 14, 1441 AH
+note: true
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+      url: /biography/abdulaziz
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan
+    - name: Shaykh Salih Al-Fawzan
+      url: /biography/fawzan
+    - name: Shaykh Bakr Abu Zayd
+      url: /biography/bakr
 ---
 
 Question: 
@@ -20,5 +26,3 @@ Some methods of adornment are available in our markets, such as artificial nails
 Answer: 
 
 It is impermissible to wear artificial nails, false eyelashes and colored contact lenses, because they are harmful to the body, and they also entail deception and changing the creation of Allah (Exalted be He). 
-
-May Allah grant us success. May peace and blessings be upon our Prophet, his family and Companions.
