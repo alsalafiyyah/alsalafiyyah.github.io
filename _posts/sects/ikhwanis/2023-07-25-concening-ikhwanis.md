@@ -7,7 +7,11 @@ source: "Al-Fatawa Al-Jaliyyah ‘anil-Manahij Al-Da’wiyyah pg. 51-55"
 lang: en
 category: [sufism, sect,  group, ikhwanis]
 note: false
-excerpt: The founder of this methodology was a Sufi. He had a connection with Sufism. 
+excerpt: The founder of this methodology was a Sufi. He had a connection with Sufism.
+article_taken_from: 
+  taken_from:
+    - web_title: AbdurRahman.Org
+      web_url: "https://abdurrahman.org/2014/01/15/moderndaydevientgroups/"
 muftis:
   shaykh: 
     - name: Shaykh Ahmad Ibn Yahya An-Najmi
@@ -30,5 +34,3 @@ And pardoned everyone in what sins they did in the past.”**
 10. They give their oath of allegiance to work for the Ikhwani Manhaj according to the ten conditions that the founder has set forth. And there are other issues of concern, which perhaps can be dealt with at a later time.
 
 [^1]: Translator’s Note: This is the category of Tawhid related to the Oneness of Allah in the worship that is performed to Him, i.e. that we worship only Allah and no one else.
-
-<small>Source: [AbdurRahman.Org](https://abdurrahman.org/2014/01/15/moderndaydevientgroups/)</small>
