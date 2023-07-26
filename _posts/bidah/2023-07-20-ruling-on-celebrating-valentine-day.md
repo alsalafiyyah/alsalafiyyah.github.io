@@ -6,6 +6,7 @@ source: "Fatawa Al-Lajnah Al-Da’imah 2/262-264, Fatwa no. 21203"
 hijri: Muharram 02, 1445 AH
 lang: en
 note: true
+category: [bidah, festivals]
 excerpt: "The Muslim must adhere to the Qur'an and Sunnah in all his affairs, especially at times of fitan (temptation and tribulation) and when corruption is widespread."
 muftis:
   chairman: 
