@@ -5,9 +5,8 @@ title: "The authority of Hadith-ul-Ahad"
 hijri: Safar 27, 1442 AH
 source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 9377-1"
 lang: en
-category: [hadiths, fiqh]
+category: [hadiths,quranism]
 note: true
-chapter: "Principles of Fiqh"
 excerpt: "What about a person who denies the punishment in the grave, because the reports in this regard are Hadith-ul-Ahad (Hadiths which at some point in the chain have only a single narrator) which -they hold- can never be taken as basis for beliefs?"
 muftis:
   chairman: 
