@@ -5,7 +5,7 @@ title: "Ruling on reciting Al-Fatihah for the deceased when visiting his grave"
 hijri: Dhul-Hijjah 24, 1444 AH
 source: "Majmu' 13/340-341"
 lang: en
-category: [bid'ah, innovation]
+category: [bidah, funerals]
 note: false
 excerpt: "There is no report that the Prophet ﷺ recited a surah of the Qur’an or any verses thereof for the dead, even though he visited them often."
 muftis:
