@@ -7,7 +7,7 @@ hijri: "Muharram 05, 1445 AH"
 date: 2023-07-23
 lang: en
 note: false
-category: [sufism, sufi, sufiyyah, tasawwuf]
+category: [sufism, tablighis]
 excerpt: "Even those who went out with the Jama'at at-Tabligh and studied with them wrote against them. Many people wrote about them and presented the errors that they have."
 muftis:
   shaykh: 
