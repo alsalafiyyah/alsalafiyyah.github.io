@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "What should a woman do when she has her monthly period and she is unable to offer Salah"
 publisher: "alsalafiyyah@icloud.com"
