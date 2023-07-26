@@ -3,7 +3,7 @@ layout: post
 title: "Ruling on joining Jama'at Tabligh"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 17776-2"
-category: [sufism]
+category: [sufism, tablighis]
 hijri: Dhul-Hijjah 5, 1441 AH
 lang: en
 note: true
