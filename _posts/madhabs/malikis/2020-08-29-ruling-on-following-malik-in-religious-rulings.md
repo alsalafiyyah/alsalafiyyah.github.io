@@ -4,7 +4,7 @@ title: "Ruling on following Malik in religious rulings as he derived them"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 4476-4"
 hijri: Muharram 10, 1442 AH
-category: ["madhabs", malikis]
+category: [madhabs]
 lang: en
 excerpt: "Imam Malik is one of the Imams in religious knowledge, but at the same time he is a human who sometimes errs and at other times is correct, and his words may be accepted or rejected."
 muftis:
