@@ -1,0 +1,17 @@
+---
+layout: default
+title: Categories
+active: category
+permalink: /categories/
+---
+<table class="table">	
+ <tbody>     
+  {% for category in site.categories %}	
+  <tr>
+   <td>
+    <h5>{{ category | first | strip_html }} {{ category[1].size }}</h5>
+   </td>    
+  </tr>      
+  {% endfor %}	
+ </tbody>	
+</table> 
