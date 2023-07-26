@@ -6,7 +6,7 @@ title: "What is meant by Halal (lawful) and Haram (prohibited) in Islam"
 hijri: "Rabi' Al-Thani 02, 1442 AH"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 17706"
 lang: en
-category: [fiqh]
+category: [terminology]
 note: true
 excerpt: "Halal and Haram are two Shar'i (Islamic legal) rulings, the knowledge of which is acquired from the Qur'an and the Sunnah."
 muftis:
