@@ -2,15 +2,22 @@
 layout: post
 title: "Ruling on obedience to parents leads to committing sins"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 5994-1"
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 5994, Question 1"
 hijri: Muharram 12, 1442 AH
 date: 2020/08/31
-category: [women, hijab, general]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+category: [women,hijab,niqab]
+muftis:
+  chairman: 
+    - name: Shaykh Ibn Baz
+      url: /biography/binbaz
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Afifi
+      url: /biography/afifi
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan
+    - name: Shaykh Abdullah ibn Qa'ud
+      url: /biography/qaud
 ---
 
 Question: 
@@ -24,8 +31,6 @@ Answer:
 It should be known that obedience to parents is obligatory provided that what they request is reasonable and approved by the Shari'ah (Islamic law). If obedience to parents leads to committing sins, then there should be no obedience to them. It is authentically reported that the Prophet (peace be upon him) said, "**Truly, obedience is only in what is good.**" [^2]
 
 Therefore, the girl should stick to wearing the Niqab, and try to convince her parents by explaining the legal ruling, without being bothered by their threats. Furthermore, she should always seek Allah's Help and the help of the pious relatives within the family who can advise them, so that Allah may benefit them with such advice.
-
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
 
 ---
 
