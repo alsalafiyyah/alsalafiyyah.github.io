@@ -5,18 +5,18 @@ layout: null
 --- Post 1
 layout: post
 publisher: 
-title: "Post title"
-hijri: ""
-date: ""
-source: ""
+title: 
+hijri: 
+date: 
+source: 
 lang: en/ar
 note: true/false
-category: [islam sunnah]
-excerpt: "Post Except"
+category: [islam, sunnah]
+excerpt: ""
 article_taken_from: 
   taken_from:
-    - web_title: ""
-      web_url: ""
+    - web_title: 
+      web_url: 
 muftis:
   shaykh: 
     - name: 
@@ -25,19 +25,19 @@ muftis:
 
 --- Post 2
 layout: post
-title: "Post title"
-publisher: ""
-source: ""
+title: 
+publisher: 
+source: 
 category: [islam, sunnah]
 hijri: 
 date: 
 lang: en/ar
 note: true/false
-excerpt: "Post excerpt"
+excerpt: 
 article_taken_from: 
   taken_from:
-    - web_title: ""
-      web_url: ""
+    - web_title: 
+      web_url: 
 muftis:
   chairman: 
     - name: 
@@ -56,6 +56,6 @@ muftis:
 layout: default/page
 title: 
 active: 
-lang: en
+lang: en/ar
 permalink: 
 --- Page
