@@ -2,14 +2,21 @@
 layout: post
 title: "Ruling on swearing by Al-Bukhari's Book of Hadith"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatwas of the Permanent Committee of KSA no.18379"
-category: oaths
+source: "Fatawa Al-Lajnah Al-Da'mah, Fatwa no.18379"
+category: [oaths]
 hijri: Dhul-Qa'dah 25, 1441 AH
-shaykhs: 
- - Shaykh Ibn Baz
- - Shaykh Abdul-Aziz Aal-Ash-Shaykh
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Salih Fawzan
+muftis:
+  chairman:
+    - name: Shaykh Ibn Baz
+      url: /biography/binbaz
+  deputy_chairman:
+    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+      url: /biography/abdulaziz
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan
+    - name: Shaykh Salih Al-Fawzan
+      url: /biography/fawzan
 ---
 
 Question: 
