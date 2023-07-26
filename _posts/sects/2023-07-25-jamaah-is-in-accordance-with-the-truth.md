@@ -5,7 +5,7 @@ title: "The Jama'ah Is What Conforms To The Truth Even If You Are Alone"
 hijri: Muharram 07, 1445 AH
 source: "Majmu’ Fatawa 8/179"
 lang: en
-category: [sufism, sect,  group, ikhwanis, salafis]
+category: [sufism,ikhwanis]
 note: false
 excerpt: The Muslim has to seek the truth. If he finds an Islamic center which promotes the truth, or a group in any place which promotes the truth.
 muftis:
