@@ -2,8 +2,10 @@
 layout: null
 ---
 
+Front matter
+
 Posts
-~~~
+~~~yaml
 ---
 layout: post
 publisher: 
@@ -26,7 +28,7 @@ muftis:
 --- 
 ~~~
 
-~~~
+~~~yaml
 ---
 layout: post
 title: 
@@ -57,7 +59,7 @@ muftis:
 ---
 ~~~
 
-~~~
+~~~yaml
 ---
 layout: post
 title: 
@@ -90,7 +92,7 @@ muftis:
 ---
 ~~~
 
-~~~
+~~~yaml
 ---
 layout: post
 title: 
@@ -114,7 +116,7 @@ shaykhs:
 ~~~
 
 Page
-~~~
+~~~yaml
 ---
 layout: default
 title: 
@@ -125,7 +127,7 @@ permalink:
 ~~~
 
 Single Page
-~~~
+~~~yaml
 ---
 layout: page
 title: 
