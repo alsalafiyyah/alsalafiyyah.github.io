@@ -112,7 +112,7 @@ collections:
     output: true        
 
 
-muftis1:
+group1:
   chairman: 
     - name: Shaykh Ibn Baz
       url: /biography/binbaz
@@ -125,3 +125,17 @@ muftis1:
     - name: Shaykh Abdullah ibn Qa'ud
       url: /biography/qaud
 
+group2:
+  chairman: 
+    - name: Shaykh Ibn Baz
+      url: /biography/binbaz
+  deputy_chairman:
+    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+      url: /biography/abdulaziz
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan
+    - name: Shaykh Salih Al-Fawzan
+      url: /biography/fawzan
+    - name: Shaykh Bakr Abu Zayd
+      url: /biography/bakr
