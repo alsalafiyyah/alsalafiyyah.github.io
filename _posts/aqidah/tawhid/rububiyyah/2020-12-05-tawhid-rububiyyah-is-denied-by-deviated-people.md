@@ -5,14 +5,11 @@ title: "Tawhid-ul-Rububiyyah is denied only by deviated people"
 hijri: "Rabi' Al-Thani 20, 1442 AH"
 source: "Fatawa Al-Shaykh Ibn Baz 28/186"
 lang: en
-category: [aqidah]
+category: [atheist]
 note: false
 excerpt: "As for denying entirely the existence of Allah (Exalted be He), this was done stubbornly by pharaoh and ancient philosophers. On the other hand, it is well known that the atheists believe in orbits as gods whose paths are monitoring the universe."
 link: "https://binbaz.org.sa/fatwas/20124/%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D8%A7%D9%84%D8%B1%D8%A8%D9%88%D8%A8%D9%8A%D8%A9-%D8%A7%D9%86%D9%83%D8%B1%D9%87-%D8%B4%D9%88%D8%A7%D8%B0-%D9%84%D8%A7-%D8%B9%D8%A8%D8%B1%D8%A9-%D8%A8%D9%87%D9%85"
-muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+binbaz: true
 ---
 
 Question:
