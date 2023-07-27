@@ -2,7 +2,9 @@
 layout: null
 ---
 
---- Post 1
+Posts
+~~~
+---
 layout: post
 publisher: 
 title: 
@@ -21,9 +23,11 @@ muftis:
   shaykh: 
     - name: 
       url: 
---- Post 1
+--- 
+~~~
 
---- Post 2
+~~~
+---
 layout: post
 title: 
 publisher: 
@@ -50,12 +54,16 @@ muftis:
       url: 
     - name: 
       url: 
---- Post 2
+---
+~~~
 
---- page
+Page
+~~~
+---
 layout: default/page
 title: 
 active: 
 lang: en/ar
 permalink: 
---- Page
+---
+~~~
