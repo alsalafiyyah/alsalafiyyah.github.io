@@ -5,7 +5,7 @@ permalink: /demo/
 ---
 
 <!DOCTYPE html>
-<html class="grey lighten-5">
+<html>
 {% include head.html %}
 <link href="https://unpkg.com/vanilla-datatables@latest/dist/vanilla-dataTables.min.css" rel="stylesheet"/>
 <style>
@@ -16,7 +16,7 @@ permalink: /demo/
 }	
 .item.grid {
   width: 50%;
-  float: left;
+	display: inline-block;
 }
 .item.list {
   width: 100%;	
@@ -41,7 +41,7 @@ permalink: /demo/
 <button id="grid">Grid</button>	
 {% for c in site.data.books %}
 <div class="items">
-      <div class="card sticky-action">
+      <div class="card">
         <div class="card-image">
           <img class="lazy activator" src="{{ "/assets/loader.gif" | relative_url }}" data-src="../assets/images/books/{{ c.img }}">          
         </div>
