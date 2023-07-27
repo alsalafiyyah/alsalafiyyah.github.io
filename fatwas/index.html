@@ -7,7 +7,7 @@ locale: en
 ---
 
 {% for post in paginator.posts %}
-    <h5><a title="{{ post.title }}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h5>
+  <h5><a title="{{ post.title }}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h5>
     <p>
      <b><i data-feather="calendar"></i> {{ post.hijri }}</b>
       <br/>
@@ -19,6 +19,7 @@ locale: en
         {% endfor %}
         {% endif %}
         {% if post.muftis %}
+        <i data-feather="feather"></i>
         {% if post.muftis.chairman %}
         {% for chairman in post.muftis.chairman %}
           {{ chairman.name }} & Others
