@@ -175,6 +175,17 @@ group5:
     - name: Shaykh Bakr Abu Zayd
       url: /biography/bakr   
 
+group6:
+  chairman: 
+    - name: Shaykh Ibn Baz
+      url: /biography/binbaz
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Afifi
+      url: /biography/afifi     
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan   
+      
 binbaz:
   name: Shaykh Ibn Baz
   url: /biography/binbaz
