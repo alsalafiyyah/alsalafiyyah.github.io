@@ -19,7 +19,7 @@ excerpt: ""
 --- 
 ~~~
 
-Custom Variables
+###### Custom Variables
 ~~~yaml
 article_taken_from: 
   taken_from:
@@ -27,7 +27,7 @@ article_taken_from:
       web_url: 
 ~~~
 
-~~~
+~~~yaml
 muftis:
   shaykh: 
     - name: Shaykh Salih Al-Fawzan
