@@ -43,7 +43,7 @@ shaykhs:
  - Shaykh Abdul-Razzaq Al-Afifi
 ~~~
 
----
+___
 
 ###### _config.yml
 Group1
@@ -80,7 +80,7 @@ group2:
       url: /biography/bakr
 ~~~
 
----
+___
 
 #### Page Front Matter
 ~~~yaml
