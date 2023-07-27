@@ -14,6 +14,8 @@ date: July 27, 2023
 source: 
 lang: en/ar
 note: true/false
+group1: true/false
+group2: true/false
 category: [islam, sunnah]
 excerpt: ""
 --- 
@@ -34,6 +36,7 @@ muftis:
       url: /biography/fawzan
 ~~~
 
+Group1
 ~~~yaml
 muftis:
   chairman: 
@@ -49,6 +52,7 @@ muftis:
       url: /biography/qaud
 ~~~
 
+Group 2
 ~~~yaml
 muftis:
   chairman: 
