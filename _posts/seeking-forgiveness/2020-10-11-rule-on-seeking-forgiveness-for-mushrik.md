@@ -6,7 +6,7 @@ hijri: Safar 24, 1442 AH
 source: "Fatawa Al-Lajnah Al-Da'imah no. 11248"
 lang: en
 note: true
-category: [seeking-forgiveness]
+category: [misc]
 excerpt: "It is impermissible for a Muslim to invoke Allah's Forgiveness for their grandparents or others, if they died in Shirk."
 muftis:
   chairman: 
