@@ -4,16 +4,13 @@ published: true
 publisher: alsalafiyyah@icloud.com
 title: "Do supplication and Sadaqah (voluntary charity) repel the Divine Decree and Predestination?"
 hijri: "Rabi' Al-Awwal 06, 1442 AH"
-source: "Majmu' Fatawa Wa Maqalat Al-Shaykh Ibn Baz p.6/262"
+source: "Majmu' Fatawa 6/262"
 lang: en
-category: [charity, zakah, qadr]
+category: [charity]
 note: false
 uid: do-charity-repel-qadr
 excerpt: "A Muslim should be keen to venture means of goodness and avoid means of evil, asking Allah to guide and help them do what pleases Him and avoid every evil."
-muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+binbaz: true
 ---
 
 Question: 
