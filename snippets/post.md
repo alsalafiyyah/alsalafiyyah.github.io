@@ -2,7 +2,7 @@
 layout: null
 ---
 
-Posts
+#### Posts
 ~~~
 ---
 layout: post
@@ -90,10 +90,44 @@ muftis:
 ---
 ~~~
 
-Page
 ~~~
 ---
-layout: default/page
+layout: post
+title: 
+publisher: 
+source: 
+category: [islam, sunnah]
+hijri: 
+date: 
+lang: en/ar
+note: true/false
+excerpt: 
+article_taken_from: 
+  taken_from:
+    - web_title: 
+      web_url: 
+shaykhs: 
+ - Shaykh Ibn Baz
+ - Shaykh Abdullah ibn Ghudayyan
+ - Shaykh Abdul-Razzaq Al-Afifi
+---
+~~~
+
+#### Page
+~~~
+---
+layout: default
+title: 
+active: 
+lang: en/ar
+permalink: 
+---
+~~~
+
+#### Single Page
+~~~
+---
+layout: page
 title: 
 active: 
 lang: en/ar
