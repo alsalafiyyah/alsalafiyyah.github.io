@@ -8,8 +8,9 @@ locale: en
 
 {% for post in paginator.posts %}
   <h5><a title="{{ post.title }}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h5>
-    <br/>
-     Posted on {{ post.hijri }}   
+    <p>
+     Posted on <b>{{ post.hijri }}</b>   
+    </p>
   <div class="divider"></div>
 {% endfor %}
 
