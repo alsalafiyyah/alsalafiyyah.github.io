@@ -1,16 +1,14 @@
 ---
 layout: post
-title: "Covering the 'Awrah"
+title: "Covering the Awrah"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 5128"
+source: "Fatawa Al-Lajnah Al-Da'imah no. 5128"
 hijri: Muharram 9, 1442 AH
 date: 2020/08/28
-category: ["general", "women", "men"]
-shaykhs: 
- - Shaykh Abdul-'Aziz ibn 'Abdullah ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+category: [women]
+note: true
+group1: true
+excerpt: "According to the consensus of Muslim scholars, covering the Awrah is Wajib (obligatory)."
 ---
 
 Question: 
@@ -28,8 +26,6 @@ It is also related by Ibn 'Abbas (may Allah be pleased with them both) that the 
 Furthermore, it is related on the authority of Jarhad Al-Aslamy that he said, "**The Prophet (peace be upon him) passed by me while I was wearing a burdah (garment) and my thigh was uncovered. He (peace be upon him) said, 'Cover your thigh as the thigh is a private part.'**" Related by Malik in Al-Muwatta', Ahmad, Abu Dawud, Al-Tirmidhi and he commented on it saying that it is Hasan. [^5]
 
 Such Hadiths support one another, and when taken as a whole they provide the required evidence.
-
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
 
 ---
 [^1]: Abu Dawud, nos. 3124 and 3996.
