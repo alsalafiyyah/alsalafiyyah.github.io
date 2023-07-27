@@ -55,6 +55,56 @@
       </li>
    {% endif %} 
  {% endif %}
+
+ {% if page.group3 %}
+   {% if site.group3.chairman %}
+    <li class="collection-item">
+    <i data-feather="user"></i> Chairman : 
+    {% for chairman in site.group3.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
+    </li>
+   {% endif %} 
+   {% if site.group3.deputy_chairman %}
+     <li class="collection-item">
+      <i data-feather="user"></i> Deputy Chairman : 
+      {% for deputy_chairman in site.group3.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
+     </li>
+   {% endif %}      
+   {% if site.group3.members %}
+     <li class="collection-item">
+       <i data-feather="users"></i> Members : 
+        <ol>
+         {% for members in site.group3.members %}
+         <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
+         {% endfor %}
+        </ol>
+      </li>
+   {% endif %} 
+ {% endif %}
+
+ {% if page.group4 %}
+   {% if site.group4.chairman %}
+    <li class="collection-item">
+    <i data-feather="user"></i> Chairman : 
+    {% for chairman in site.group4.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
+    </li>
+   {% endif %} 
+   {% if site.group4.deputy_chairman %}
+     <li class="collection-item">
+      <i data-feather="user"></i> Deputy Chairman : 
+      {% for deputy_chairman in site.group4.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
+     </li>
+   {% endif %}      
+   {% if site.group4.members %}
+     <li class="collection-item">
+       <i data-feather="users"></i> Members : 
+        <ol>
+         {% for members in site.group4.members %}
+         <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
+         {% endfor %}
+        </ol>
+      </li>
+   {% endif %} 
+ {% endif %}
  
  {% if page.shaykhs %}
   <li class="collection-item">
