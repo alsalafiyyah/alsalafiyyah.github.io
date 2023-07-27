@@ -11,9 +11,9 @@ locale: en
     <p>
      <b><i data-feather="calendar"></i> {{ post.hijri }}</b>
       <br/>
-      <b>
-        <i data-feather="feather"></i> 
+      <b>         
         {% if post.muftis.shaykh %}
+        <i data-feather="feather"></i>
         {% for shaykh in post.muftis.shaykh %}
         {{ shaykh.name }}
         {% endfor %}
@@ -24,25 +24,7 @@ locale: en
           {{ chairman.name }} & Others
         {% endfor %}
         {% endif %}
-        {% endif %}
-          
-        {% if page.binbaz %}
-        {% if site.binbaz %}
-         {{ site.binbaz.name }}
-        {% endif %}
-        {% endif %}  
-          
-        {% if page.fawzan %}
-        {% if site.fawzan %}
-         {{ site.fawzan.name }}
-        {% endif %}
-        {% endif %}    
-
-        {% if page.saadi %}
-        {% if site.saadi %}
-         {{ site.saadi.name }}
-        {% endif %}
-        {% endif %}  
+        {% endif %}        
      </b>
     </p>
 <div class="divider"></div>
