@@ -6,24 +6,49 @@
     </li>
  {% endif %}
 
- {% if page.muftis1 %}
-   {% if site.muftis1.chairman %}
+ {% if page.group1 %}
+   {% if site.group1.chairman %}
     <li class="collection-item">
     <i data-feather="user"></i> Chairman : 
-    {% for chairman in site.muftis1.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
+    {% for chairman in site.group1.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
     </li>
    {% endif %} 
-   {% if site.muftis1.deputy_chairman %}
+   {% if site.group1.deputy_chairman %}
      <li class="collection-item">
       <i data-feather="user"></i> Deputy Chairman : 
-      {% for deputy_chairman in site.muftis1.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
+      {% for deputy_chairman in site.group1.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
      </li>
    {% endif %}      
-   {% if site.muftis1.members %}
+   {% if site.group1.members %}
      <li class="collection-item">
        <i data-feather="users"></i> Members : 
         <ol>
-         {% for members in site.muftis1.members %}
+         {% for members in site.group1.members %}
+         <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
+         {% endfor %}
+        </ol>
+      </li>
+   {% endif %} 
+ {% endif %}
+
+  {% if page.group2 %}
+   {% if site.group2.chairman %}
+    <li class="collection-item">
+    <i data-feather="user"></i> Chairman : 
+    {% for chairman in site.group2.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
+    </li>
+   {% endif %} 
+   {% if site.group2.deputy_chairman %}
+     <li class="collection-item">
+      <i data-feather="user"></i> Deputy Chairman : 
+      {% for deputy_chairman in site.group2.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
+     </li>
+   {% endif %}      
+   {% if site.group2.members %}
+     <li class="collection-item">
+       <i data-feather="users"></i> Members : 
+        <ol>
+         {% for members in site.group2.members %}
          <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
          {% endfor %}
         </ol>
