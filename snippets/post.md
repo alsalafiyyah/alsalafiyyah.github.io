@@ -2,9 +2,8 @@
 layout: null
 ---
 
-Front matter
-
-Posts
+#### Posts
+Default Front Matter
 ~~~yaml
 ---
 layout: post
@@ -17,33 +16,25 @@ lang: en/ar
 note: true/false
 category: [islam, sunnah]
 excerpt: ""
+--- 
+~~~
+
+Custom Variables
+~~~yaml
 article_taken_from: 
   taken_from:
     - web_title: 
       web_url: 
+~~~
+
+~~~
 muftis:
   shaykh: 
     - name: Shaykh Salih Al-Fawzan
       url: /biography/fawzan
---- 
 ~~~
 
 ~~~yaml
----
-layout: post
-title: 
-publisher: alsalafiyyah@icloud.com
-source: 
-category: [islam, sunnah]
-hijri: 
-date: 
-lang: en/ar
-note: true/false
-excerpt: 
-article_taken_from: 
-  taken_from:
-    - web_title: 
-      web_url: 
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz
@@ -56,25 +47,9 @@ muftis:
       url: /biography/ghudayyan
     - name: Shaykh Abdullah ibn Qa'ud
       url: /biography/qaud
----
 ~~~
 
 ~~~yaml
----
-layout: post
-title: 
-publisher: alsalafiyyah@icloud.com
-source: 
-category: [islam, sunnah]
-hijri: 
-date: 
-lang: en/ar
-note: true/false
-excerpt: 
-article_taken_from: 
-  taken_from:
-    - web_title: 
-      web_url: 
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz
@@ -89,47 +64,19 @@ muftis:
       url: /biography/fawzan
     - name: Shaykh Bakr Abu Zayd
       url: /biography/bakr
----
 ~~~
 
 ~~~yaml
----
-layout: post
-title: 
-publisher: alsalafiyyah@icloud.com
-source: 
-category: [islam, sunnah]
-hijri: 
-date: 
-lang: en/ar
-note: true/false
-excerpt: 
-article_taken_from: 
-  taken_from:
-    - web_title: 
-      web_url: 
 shaykhs: 
  - Shaykh Ibn Baz
  - Shaykh Abdullah ibn Ghudayyan
  - Shaykh Abdul-Razzaq Al-Afifi
----
 ~~~
 
-Page
+#### Page
 ~~~yaml
 ---
-layout: default
-title: 
-active: 
-lang: en/ar
-permalink: 
----
-~~~
-
-Single Page
-~~~yaml
----
-layout: page
+layout: default/page
 title: 
 active: 
 lang: en/ar
