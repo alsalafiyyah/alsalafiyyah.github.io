@@ -5,6 +5,15 @@
     <i data-feather="book-open"></i> {{ page.source }} {% else %}
     </li>
  {% endif %}
+ 
+ {% if page.binbaz %}
+  {% if site.binbaz %}
+   <li class="collection-item">
+    <i data-feather="user"></i> 
+    <a title="{{ site.binbaz.name }}" href="{{ site.binbaz.url }}">{{ site.binbaz.name }}</a>
+    </li>
+  {% endif %}
+ {% endif %}
 
  {% if page.group1 %}
    {% if site.group1.chairman %}
