@@ -2,7 +2,7 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: A woman is not guilty of sin if she advises her negligent husband
-hijri: Muharram 09, 1445AH
+hijri: Muharram 09, 1445 AH
 date: July 27, 2023
 source: "Al-Hisbah Magazine, Issue no.39, p.15"
 lang: en
