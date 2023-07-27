@@ -80,6 +80,35 @@ group2:
       url: /biography/bakr
 ~~~
 
+Group 3
+~~~yaml
+group3:
+  chairman: 
+    - name: Shaykh Ibn Baz
+      url: /biography/binbaz
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Afifi
+      url: /biography/afifi
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan
+    - name: Shaykh Abdullah ibn Mani'
+      url: /biography/mani
+~~~
+
+Group 4
+~~~yaml
+group4:
+  chairman: 
+    - name: Shaykh Abdul-Razzaq Afifi
+      url: /biography/afifi
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan
+    - name: Shaykh Abdullah ibn Mani'
+      url: /biography/mani
+~~~
+      
 ___
 
 #### Page Front Matter
