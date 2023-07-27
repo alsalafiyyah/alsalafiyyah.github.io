@@ -112,3 +112,16 @@ collections:
     output: true        
 
 
+muftis1:
+  chairman: 
+    - name: Shaykh Ibn Baz
+      url: /biography/binbaz
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Afifi
+      url: /biography/afifi
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan
+    - name: Shaykh Abdullah ibn Qa'ud
+      url: /biography/qaud
+
