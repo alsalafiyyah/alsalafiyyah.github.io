@@ -14,7 +14,16 @@
     </li>
   {% endif %}
  {% endif %}
-
+ 
+ {% if page.fawzan %}
+  {% if site.fawzan %}
+   <li class="collection-item">
+    <i data-feather="user"></i> 
+    <a title="{{ site.fawzan.name }}" href="{{ site.fawzan.url }}">{{ site.fawzan.name }}</a>
+    </li>
+  {% endif %}
+ {% endif %}
+ 
  {% if page.group1 %}
    {% if site.group1.chairman %}
     <li class="collection-item">
