@@ -6,7 +6,7 @@ hijri: Safar 24, 1442 AH
 source: "Fatawa Al-Lajnah Al-Da'imah no. 10615-1"
 lang: en
 note: true
-category: [seeking-forgiveness]
+category: [takfir]
 excerpt: "It is not (proper) for the Prophet and those who believe to ask Allâh’s Forgiveness for the Mushrikûn (polytheists, idolaters, pagans, disbelievers in the Oneness of Allâh), even though they be of kin, after it has become clear to them that they are the dwellers of the Fire (because they died in a state of disbelief)."
 muftis:
   chairman: 
