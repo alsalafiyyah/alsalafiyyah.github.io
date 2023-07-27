@@ -38,7 +38,7 @@ permalink: /books/
        Format: {{ c.format }}
       </li>
       <li class="collection-item">
-       Pages: {{ c.size }}
+       Pages: {{ c.pages }}
       </li>
       <li class="collection-item">
        Language: {{ c.lang }}
@@ -47,7 +47,7 @@ permalink: /books/
        {{ c.desc }}
       </li>
       <li class="collection-item center">
-       <a href="{{ c.url }}" target=_blank" class="waves-effect waves-light btn-small black white-text">Download</a>    
+       <a href="{{ c.url }}" target=_blank" class="waves-effect waves-light btn-small black white-text">Download ({{ c.size }})</a>    
       </li>
     </ul>
     </div>
