@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Annulling Shahadah"
 publisher: "alsalafiyyah@icloud.com"
