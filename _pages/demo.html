@@ -40,7 +40,7 @@ permalink: /demo/
 <button id="list">List</button>
 <button id="grid">Grid</button>	
 {% for c in site.data.books %}
-      <div class="card items ticky-action">
+      <div class="card sticky-action items">
         <div class="card-image">
           <img class="lazy activator" data-caption="Tap anywhere to close" src="{{ "/assets/loader.gif" | relative_url }}" data-src="../assets/images/books/{{ c.img }}">          
         </div>
