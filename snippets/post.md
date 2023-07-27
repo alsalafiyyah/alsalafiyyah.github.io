@@ -2,7 +2,7 @@
 layout: null
 ---
 
-#### Posts
+==#### Posts==
 ~~~
 ---
 layout: post
@@ -113,7 +113,7 @@ shaykhs:
 ---
 ~~~
 
-#### Page
+==#### Page==
 ~~~
 ---
 layout: default
@@ -124,7 +124,7 @@ permalink:
 ---
 ~~~
 
-#### Single Page
+== ####Single Page ==
 ~~~
 ---
 layout: page
