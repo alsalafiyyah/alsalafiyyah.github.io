@@ -21,8 +21,8 @@ article_taken_from:
       web_url: 
 muftis:
   shaykh: 
-    - name: 
-      url: 
+    - name: Shaykh Salih Al-Fawzan
+      url: /biography/fawzan
 --- 
 ~~~
 
@@ -44,16 +44,49 @@ article_taken_from:
       web_url: 
 muftis:
   chairman: 
-    - name: 
-      url: 
+    - name: Shaykh Ibn Baz
+      url: /biography/binbaz
   deputy_chairman:
-    - name: 
-      url: 
+    - name: Shaykh Abdul-Razzaq Afifi
+      url: /biography/afifi
   members: 
-    - name: 
-      url: 
-    - name: 
-      url: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan
+    - name: Shaykh Abdullah ibn Qa'ud
+      url: /biography/qaud
+---
+~~~
+
+~~~
+---
+layout: post
+title: 
+publisher: 
+source: 
+category: [islam, sunnah]
+hijri: 
+date: 
+lang: en/ar
+note: true/false
+excerpt: 
+article_taken_from: 
+  taken_from:
+    - web_title: 
+      web_url: 
+muftis:
+  chairman: 
+    - name: Shaykh Ibn Baz
+      url: /biography/binbaz
+  deputy_chairman:
+    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+      url: /biography/abdulaziz
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan
+    - name: Shaykh Salih Al-Fawzan
+      url: /biography/fawzan
+    - name: Shaykh Bakr Abu Zayd
+      url: /biography/bakr
 ---
 ~~~
 
