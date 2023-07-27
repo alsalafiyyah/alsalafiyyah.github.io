@@ -5,19 +5,10 @@ title: "The meaning of Tawhid-ul-Rububiyyah and Tawhid-ul-Uluhiyyah"
 hijri: Muharram 01, 1441 AH
 source: "Fatawa Al-lajnah Al-Da'imah of KSA 11843-1"
 lang: en
-category: [tawhid]
+category: [terminology]
 note: true
 excerpt: "What is the meaning of Tawhid-ul-Rububiyyah and Tawhid-ul-Uluhiyyah?"
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
+group6: true
 ---
 
 Question: 
