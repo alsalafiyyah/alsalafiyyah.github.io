@@ -152,4 +152,13 @@ group3:
       url: /biography/ghudayyan
     - name: Shaykh Abdullah ibn Mani'
       url: /biography/mani
-      
+
+group4:
+  chairman: 
+    - name: Shaykh Abdul-Razzaq Afifi
+      url: /biography/afifi
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan
+    - name: Shaykh Abdullah ibn Mani'
+      url: /biography/mani
