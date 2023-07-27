@@ -3,13 +3,13 @@ layout: post
 title: "The meaning of Taqwa"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 10530-1"
-category: [general]
+category: [terminology]
 hijri: Muharram 15, 1442 AH
 date: 2020-09-03
 shaykhs: 
  - Shaykh Abdul-Aziz ibn Baz
  - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdul-Razzaq al-Afify
+ - Shaykh Abdul-Razzaq Al-Afifi
 ---
 
 Question: 
