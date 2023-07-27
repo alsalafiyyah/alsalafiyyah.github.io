@@ -3,7 +3,7 @@ layout: null
 ---
 
 #### Posts
-Default Front Matter
+Default Front-matter
 ~~~yaml
 ---
 layout: post
@@ -16,6 +16,9 @@ lang: en/ar
 note: true/false
 group1: true/false
 group2: true/false
+group3: true/false
+group4: true/false
+group5: true/false
 category: [islam, sunnah]
 excerpt: ""
 --- 
