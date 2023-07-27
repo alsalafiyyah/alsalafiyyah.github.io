@@ -8,7 +8,7 @@ source: "Al-Hisbah Magazine, Issue no.39, p.15"
 lang: en
 note: false
 binbaz: true
-category: [islam, sunnah]
+category: [marriage, women]
 excerpt: "What is prescribed is that the advice should be given in a kindly and polite manner, because that makes it more acceptable and more beneficial."
 --- 
 
