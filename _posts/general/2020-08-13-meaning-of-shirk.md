@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Meaning of Shirk"
 publisher: "alsalafiyyah@icloud.com"
@@ -6,7 +6,9 @@ source: "Majmu' Fatawa 4/32, question 1"
 category: [terminology]
 hijri: Dhul-Hijjah 23, 1441 AH
 date: 2020/08/13
-shaykhs: Shaykh Ibn Baz
+binbaz: true
+note: false
+excerpt: "Shirk is defined as associating others with Allah in 'Ibadah (worship), such as invoking, seeking relief, making vows, offering Salah (prayers), fasting, or slaughtering animals for the idols."
 ---
 
 Question:
