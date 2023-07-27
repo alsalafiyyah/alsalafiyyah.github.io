@@ -7,19 +7,8 @@ source: Fatawa Al-Lajnah Al-Da’imah 3/95, Fatwa no.7703, Question 1
 lang: en
 category: [hadiths, tafsir]
 note: true
+muftis1: true
 excerpt: When the people do not have an leader and they split into sects and parties, do not follow any of these groups; keep away from all of them if possible, lest one fall into evil. 
-muftis:
-  chairman: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
 ---
 
  
