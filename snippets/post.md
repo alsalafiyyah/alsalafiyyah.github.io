@@ -8,10 +8,10 @@ Posts
 ~~~yaml
 ---
 layout: post
-publisher: 
+publisher: alsalafiyyah@icloud.com
 title: 
-hijri: 
-date: 
+hijri: Muharram 09, 1445AH
+date: July 27, 2023
 source: 
 lang: en/ar
 note: true/false
@@ -32,7 +32,7 @@ muftis:
 ---
 layout: post
 title: 
-publisher: 
+publisher: alsalafiyyah@icloud.com
 source: 
 category: [islam, sunnah]
 hijri: 
@@ -63,7 +63,7 @@ muftis:
 ---
 layout: post
 title: 
-publisher: 
+publisher: alsalafiyyah@icloud.com
 source: 
 category: [islam, sunnah]
 hijri: 
@@ -96,7 +96,7 @@ muftis:
 ---
 layout: post
 title: 
-publisher: 
+publisher: alsalafiyyah@icloud.com
 source: 
 category: [islam, sunnah]
 hijri: 
