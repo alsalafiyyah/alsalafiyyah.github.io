@@ -36,9 +36,17 @@ muftis:
       url: /biography/fawzan
 ~~~
 
+~~~yaml
+shaykhs: 
+ - Shaykh Ibn Baz
+ - Shaykh Abdullah ibn Ghudayyan
+ - Shaykh Abdul-Razzaq Al-Afifi
+~~~
+
+###### _config.yml
 Group1
 ~~~yaml
-muftis:
+group1:
   chairman: 
     - name: Shaykh Ibn Baz
       url: /biography/binbaz
@@ -54,7 +62,7 @@ muftis:
 
 Group 2
 ~~~yaml
-muftis:
+group2:
   chairman: 
     - name: Shaykh Ibn Baz
       url: /biography/binbaz
@@ -68,13 +76,6 @@ muftis:
       url: /biography/fawzan
     - name: Shaykh Bakr Abu Zayd
       url: /biography/bakr
-~~~
-
-~~~yaml
-shaykhs: 
- - Shaykh Ibn Baz
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdul-Razzaq Al-Afifi
 ~~~
 
 #### Page
