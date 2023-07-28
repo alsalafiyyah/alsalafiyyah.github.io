@@ -2,7 +2,7 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: Ruling on praying behind an imam from the bareilawi sect
-hijri: Muharram 10, 1445AH
+hijri: Muharram 10, 1445 AH
 date: July 28, 2023
 source: Thamarat Al-Tadwin p. 8 
 lang: en
