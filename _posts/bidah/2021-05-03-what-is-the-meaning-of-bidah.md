@@ -5,7 +5,7 @@ title: "What is the meaning of Bid'ah?"
 hijri: Ramadan 21, 1442 AH
 source: "Fatawa Al-Lajnah Al-Daimah no. 17522-1"
 lang: en
-category: [bidah]
+category: [bidah, terminology]
 note: true
 excerpt: "What is the meaning of Bid'ah? We want you to define this term clearly. Indeed, there are some people who say that everything that was not practiced during the lifetime of the Prophet (peace be upon him) and his Sahabah (Companions of the Prophet) is a Bid'ah."
 muftis:
