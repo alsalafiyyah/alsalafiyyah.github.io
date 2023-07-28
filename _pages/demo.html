@@ -42,6 +42,9 @@ permalink: /demo/
  .card-content p {
   margin: 0px;
  }
+ .card-action {
+  display: none;
+ }
 }
 .item.list {
   width: 100%;	
@@ -78,14 +81,34 @@ permalink: /demo/
       </span>
       <p>{{ c.author }}</p>
     </div>
+    <div class="card-action center">
+      <button class="activator waves-effect waves-light btn-small black white-text">More info</button>
+    </div>
     <div class="card-reveal">
-   <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
-    <ul class="collection">
-      <li class="collection-item">Title: {{ c.title }}</li>
-      <li class="collection-item">Author: {{ c.author }}</li>
-      <li class="collection-item">Pages: {{ c.pages }}</li>
-      <li class="collection-item">{{ c.desc }}</li>
-    </ul>
+   <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span><br/>
+    <ul class="collection transparent border-0">
+      <li class="collection-item">
+       Title: {{ c.title }}
+      </li>
+      <li class="collection-item">
+       Author: {{ c.author }}
+      </li>
+      <li class="collection-item">
+       Format: {{ c.format }}
+      </li>
+      <li class="collection-item">
+       Pages: {{ c.pages }}
+      </li>
+      <li class="collection-item">
+       Language: {{ c.lang }}
+      </li>
+      <li class="collection-item">
+       {{ c.desc }}
+      </li>
+      <li class="collection-item center">
+       <a href="{{ c.url }}" target=_blank" class="waves-effect waves-light btn-small black white-text">Download ({{ c.size }})</a>    
+      </li>
+     </ul>
     </div>
  </div>                           
 </div>	
