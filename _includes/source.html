@@ -23,6 +23,15 @@
     </li>
   {% endif %}
  {% endif %}
+
+ {% if page.uthaymeen %}
+  {% if site.uthameen %}
+   <li class="collection-item">
+    <i data-feather="user"></i> 
+    <a title="{{ site.uthaymeen.name }}" href="{{ site.uthaymeen.url }}">{{ site.uthaymeen.name }}</a>
+    </li>
+  {% endif %}
+ {% endif %}
  
  {% if page.group1 %}
    {% if site.group1.chairman %}
