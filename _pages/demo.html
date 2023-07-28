@@ -65,6 +65,7 @@ permalink: /demo/
 <div class="section" style="margin-left: 15px; margin-right: 15px; margin-bottom: 40px;">	
 <button id="list" class="waves-effect waves-light btn btn-small black">List</button>
 <button id="grid" class="waves-effect waves-light btn btn-small black">Grid</button>	
+<div class="row">	
 {% for c in site.data.books %}	
 <div class="item">
  <div class="card">
@@ -89,6 +90,7 @@ permalink: /demo/
  </div>                           
 </div>	
 {% endfor %}
+</div>	
 </div>
 	
 {% include scripts.html %}			
