@@ -9,6 +9,7 @@ lang: en
 note: false
 uthaymeen: true
 category: [sufism, barelvi]
+excerpt: "What is the ruling on praying behind an imam from the bareilawi sect, who believes that the Prophet ﷺ is alive and present and can see us."
 ---
 
 Question: 
