@@ -100,8 +100,10 @@ a.reversefootnote {
  background-color: var(--color-bg) !important;
  color: var(--color-text) !important;
 }
-.card-content, .card-reveal, .card-action {
+.card, .card-content, .card-reveal, .card-action {
   border-radius: 0px !important;
+  background-color: var(--color-bg) !important;
+  color: var(--color-text) !important;
 }
 .card-reveal {
   padding: 0px !important;
