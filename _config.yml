@@ -111,7 +111,7 @@ collections:
   en: 
     output: true        
 
-
+# Alifta Scholars
 group1:
   chairman: 
     - name: Shaykh Ibn Baz
@@ -185,7 +185,8 @@ group6:
   members: 
     - name: Shaykh Abdullah ibn Ghudayyan
       url: /biography/ghudayyan   
-      
+
+# The Shaykhs
 binbaz:
   name: Shaykh Ibn Baz
   url: /biography/binbaz
@@ -194,7 +195,19 @@ fawzan:
   url: /biography/fawzan
 saadi: 
   name: Shaykh Al-Sa'di
-  url: null
+  url: /biography/saadi
+taymiyyah: 
+  name: Shaykh Al-Islam Ibn Taymiyyah
+  url: /biography/taymiyyah  
 uthaymeen: 
-  name: Shaykh Ibn 'Uthaymeen
+  name: Shaykh Ibn Uthaymeen
   url: /biography/uthaymeen
+ahmad-alnajmi: 
+  name: Shaykh Ahmad Ibn Yahya Al-Najmi
+  url: /biography/ahmad-alnajmi
+kathir: 
+  name: Ibn Kathir
+  url: /biography/ibn-kathir
+qayyim: 
+  name: Imam Ibn Qayyim
+  url: /biography/alqayyim
