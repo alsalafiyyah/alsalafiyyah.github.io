@@ -2,7 +2,7 @@
 layout: audio
 title: "Difference between repentance and praying for forgiveness"
 publisher: "alsalafiyyah@icloud.com"
-mp3: 
+mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_734/nour_73405.mp3
 hijri: "Muharram 11, 1445 AH"
 date: 2023 July, 29
 lang: en
