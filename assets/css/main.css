@@ -43,7 +43,7 @@ html, body, .en, .ar {
 	background-color: var(--color-bg) !important;
 	color: var(--color-text) !important;
 	font-size: 18px;
-	font-weight: 400 !important;
+	font-weight: 300 !important;
 	font-family: 'Rubik', sans-serif !important;
 }
 h1, h4, h3, h2, h6, h5 .bold, .card-title {
