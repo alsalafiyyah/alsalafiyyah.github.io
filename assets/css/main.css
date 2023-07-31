@@ -1,6 +1,7 @@
 @charset "UTF-8";   
 @import url('https://cdn.materialdesignicons.com/1.6.50/css/materialdesignicons.min.css');
 @import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600&display=swap');
 
 :root,
 :root.light {
@@ -43,6 +44,7 @@ html, body, .en, .ar {
 	color: var(--color-text) !important;
 	font-size: 18px;
 	font-weight: 400 !important;
+	font-family: 'Rubik', sans-serif !important;
 }
 h1, h4, h3, h2, h6, h5 .bold, .card-title {
  font-weight: 600;
