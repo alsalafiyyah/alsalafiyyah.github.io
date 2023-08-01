@@ -4,44 +4,14 @@ title: Demo
 permalink: /demo/
 ---
 
-{% for c in site.data.books %}
-<div class="uk-card-hover uk-card uk-card-default uk-card-small uk-grid-collapse uk-child-width-1-2@s uk-margin" uk-grid>
-    <div class="uk-card-media-left uk-cover-container">
-        <img class="lazy" src="{{ "/assets/loader.gif" | relative_url }}" data-src="../assets/images/books/{{ c.img }}" alt="{{ c.title }}" uk-cover>
-        <canvas width="600" height="400"></canvas>
-    </div>
-    <div>
-        <div class="uk-card-body">
-            <h3 class="uk-margin-remove-bottom uk-card-title">{{ c.title }}</h3>
-            <p class="uk-text-meta uk-margin-remove-top">{{ c.author }}</p>
-            <a class="uk-button uk-button-default" href="#{{ c.ids }}" uk-toggle>Info & Download</a>
-        </div>
-    </div>
- <div id="{{ c.ids }}" class="uk-modal-full" uk-modal>
-    <div class="uk-modal-dialog">
-        <button class="uk-modal-close-full uk-close-large" type="button" uk-close></button>
-        <div class="uk-grid-collapse uk-child-width-1-2@s uk-flex-middle" uk-grid>
-            <div class="uk-padding-large">                
-<dl class="uk-description-list uk-description-list-divider">
-    <dt>Title:</dt>
-    <dd>{{ c.title }}</dd>
-    <dt>Author:</dt>
-    <dd>{{ c.author }}</dd>
-    <dt>Pages:</dt>
-    <dd>{{ c.pages }}</dd>
-    <dt>Format:</dt>
-    <dd>{{ c.format }}</dd>
-    <dt>Language:</dt>    
-    <dd>{{ c.lang }}</dd>
-    <hr/>
-    <p>{{ c.desc }}</p>
-    <hr/>
-    <a href="{{ c.url }}" class="uk-button uk-button-secondary uk-width-1-1">Download ({{ c.size }})</a>
-    </dl>
-    </div>
-     <div class="uk-background-cover" style="background-image: url('../assets/images/books/{{ c.img }}');" uk-height-viewport></div>
-      </div>
-    </div>
- </div>    
-</div>
-{% endfor %}
+<table class="uk-table uk-table-striped uk-table-divider" id="table">	
+ <tbody>     
+  {% for c in site.data.biography %}	
+  <tr>
+   <td>
+    <h5><a title="{{ c.title }}" href="{{ c.url }}">{{ c.title }}</a></h5>    
+   </td>    
+  </tr>      
+  {% endfor %}	
+ </tbody>	
+</table>    
