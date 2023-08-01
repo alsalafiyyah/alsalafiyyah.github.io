@@ -9,8 +9,9 @@ permalink: /demo/
   {% for category in site.categories %}	
   <tr>
    <td>
-    <h5>{{ category | first | strip_html }} {{ category[1].size }}</h5>
+    {{ category | first | strip_html }}
    </td>    
+   <td>{{ category[1].size }}</td>
   </tr>      
   {% endfor %}	
  </tbody>	
