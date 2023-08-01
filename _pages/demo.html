@@ -1,145 +1,45 @@
 ---
-layout: null
+layout: main
 title: Demo
 permalink: /demo/
 ---
 
-<!DOCTYPE html>
-<html>
-{% include head.html %}
-<link href="https://unpkg.com/vanilla-datatables@latest/dist/vanilla-dataTables.min.css" rel="stylesheet"/>
-<style>
-.dataTable-selector,
-.dataTable-dropdown	
-{
- display: none !important;
-}	
-.item.grid {
-  float: left;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  padding: 0 0.18rem;
-  min-height: 1px;
-  width: 50%;
-  margin-left: auto;
-  left: auto;
-  right: auto;
-}
-.item.grid {
- .card-title, li.collection-item, .card p, .btn-small {
-  font-size: 13.5px;
-  font-weight: 500;
-  line-height: 120%;
- }
- .card {
-  min-height: 210px;
-  margin-bottom: 0px !important;
-  padding-bottom: 0px !important;
-  border-radius: 0px !important;
-  background-color: var(--color-bg) !important;
-  color: var(--color-text) !important;
-  }
- .card-content {
-  padding: 10px;
- }
- .card-content p {
-  margin: 0px;
- }
- .card-action {
-  display: none;
- }
- .collection-item {
-  padding: 3px 5px; 
- }	
-}
-.item.list {
-  width: 100%;	
-  display: block;
-}	
-</style>	
-	
-<body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}" class="grey lighten-5">
- {% include sidenav.html %}
-	
-<div class="container" style="width: 96%;">
-	
-   <nav class="z-depth-0 transparent">
-    <div class="nav-wrapper">
-     <ul class="left">
-       <li><a class="modal-trigger" href="{{ "#!" | relative_url }}"><i class="material-icons black-text">keyboard_backspace</i></a></li>          
-      </ul>        
+{% for c in site.data.books %}
+<div class="uk-card-hover uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin" uk-grid>
+    <div class="uk-card-media-left uk-cover-container">
+        <img src="{{ "/assets/loader.gif" | relative_url }}" data-src="../assets/images/books/{{ c.img }}" alt="{{ c.title }}" uk-cover>
+        <canvas width="600" height="400"></canvas>
     </div>
-  </nav>
-
-<div class="section" style="margin-left: 15px; margin-right: 15px; margin-bottom: 40px;">	
-<button id="list" class="waves-effect waves-light btn btn-small black">List</button>
-<button id="grid" class="waves-effect waves-light btn btn-small black">Grid</button>	
-<div class="row">	
-{% for c in site.data.books %}	
-<div class="item">
- <div class="card">
-   <div class="card-image waves-effect waves-block waves-light">
-     <img class="activator lazy" src="{{ "/assets/loader.gif" | relative_url }}" data-src="../assets/images/books/{{ c.img }}">
+    <div>
+        <div class="uk-card-body">
+            <h3 class="uk-margin-remove-bottom uk-card-title">{{ c.title }}</h3>
+            <p class="uk-text-meta uk-margin-remove-top">{{ c.author }}</p>
+            <a class="uk-button uk-button-default" href="#{{ c.size }}" uk-toggle>Download</a>
+        </div>
     </div>
-    <div class="card-content">
-      <span class="card-title activator">
-      {{ c.title }}
-      </span>
-      <p>{{ c.author }}</p>
+ <div id="{{ c.size }}" class="uk-modal-full" uk-modal>
+    <div class="uk-modal-dialog">
+        <button class="uk-modal-close-full uk-close-large" type="button" uk-close></button>
+        <div class="uk-grid-collapse uk-child-width-1-2@s uk-flex-middle" uk-grid>
+            <div class="uk-padding-large">                
+<dl class="uk-description-list uk-description-list-divider">
+    <dt>Title:</dt>
+    <dd>{{ c.title }}</dd>
+    <dt>Pages:</dt>
+    <dd>{{ c.pages }}</dd>
+    <dt>Format:</dt>
+    <dd>{{ c.format }}</dd>
+    <dt>Language:</dt>    
+    <dd>{{ c.lang }}</dd>
+    <hr/>
+    <p>{{ c.desc }}</p>
+    <hr/>
+    <button href="{{ c.url }}" class="uk-button uk-button-secondary uk-width-1-1">Download ({{ c.size }})</button>
+    </dl>
+            </div>
+            <div class="uk-background-cover" style="background-image: url('../assets/images/books/{{ c.img }}');" uk-height-viewport></div>
+        </div>
     </div>
-    <div class="card-action center">
-      <button class="activator waves-effect waves-light btn-small black white-text">More info</button>
-    </div>
-    <div class="card-reveal">
-   <span class="card-title"><i class="material-icons right">close</i></span><br/>
-    <ul class="collection transparent border-0">
-      <li class="collection-item">
-       Title: {{ c.title }}
-      </li>
-      <li class="collection-item">
-       Author: {{ c.author }}
-      </li>
-      <li class="collection-item">
-       Format: {{ c.format }}
-      </li>
-      <li class="collection-item">
-       Pages: {{ c.pages }}
-      </li>
-      <li class="collection-item">
-       Language: {{ c.lang }}
-      </li>
-      <li class="collection-item">
-       {{ c.desc }}
-      </li>
-      <li class="collection-item center">
-       <a href="{{ c.url }}" target=_blank" class="waves-effect waves-light btn-small black white-text">Download ({{ c.size }})</a>    
-      </li>
-     </ul>
-    </div>
- </div>                           
-</div>	
-{% endfor %}
-</div>	
+ </div>    
 </div>
-	
-{% include scripts.html %}			
-<script type="text/javascript" language="javascript">
-$(document).ready(function() {
-  $('#list').click(function(event) {
-    event.preventDefault()
-    $('.item').addClass('list')
-    $('.item').removeClass('grid')
-    localStorage.setItem('.item', 'list');
-  });
-  $('#grid').click(function(event){
-    event.preventDefault();
-    $('.item').addClass('grid')
-    $('.item').removeClass('list')
-    localStorage.setItem('.item', 'grid')
-  })
-  let itemClass = localStorage.getItem('.item')
-  $('.item').addClass(itemClass)
-});
-</script>
- </body>
-</html>
+{% endfor %}
