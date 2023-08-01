@@ -4,11 +4,10 @@
  {% include meta.html %}
 </head>
 <body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}">
- 
- <div class="uk-container">
-  {{ content }}
- </div>
-
+ {% include top-navbar.html %}
+  <div class="uk-container">
+   {{ content }}
+  </div>
  {% include scripts.html %}
  </body>
 </html>
