@@ -1,13 +1,15 @@
 ---
 layout: category
 ---
-<table class="table">	
+
+<table class="uk-table uk-table-striped" id="table">	
  <tbody>     
   {% for p in site.categories[page.category] %}	
   <tr>
    <td>
-    <h5><a title="{{ p.title }}" href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></h5>    
+    <a title="{{ p.title }}" href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>  
    </td>    
+   <td></td>
   </tr>      
   {% endfor %}	
  </tbody>	
