@@ -5,7 +5,7 @@
       </a>   
     </div>
     <div class="nav-overlay uk-navbar-center">
-      <a class="uk-navbar-item uk-logo" href="{{ relative_url }}">{{ page.title }}</a>
+      <a class="uk-navbar-item uk-logo" href="{{ relative_url }}">{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</a>
     </div>
     <div class="nav-overlay uk-navbar-right">
        <a class="uk-icon-link" target="_blank" href="https://instagram.com/Alsalafiyyah"><span uk-icon="instagram"></span></a>
