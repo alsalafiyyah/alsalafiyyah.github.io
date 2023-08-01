@@ -25,6 +25,8 @@ permalink: /demo/
 <dl class="uk-description-list uk-description-list-divider">
     <dt>Title:</dt>
     <dd>{{ c.title }}</dd>
+    <dt>Author:</dt>
+    <dd>{{ c.author }}</dd>
     <dt>Pages:</dt>
     <dd>{{ c.pages }}</dd>
     <dt>Format:</dt>
@@ -34,11 +36,11 @@ permalink: /demo/
     <hr/>
     <p>{{ c.desc }}</p>
     <hr/>
-    <button href="{{ c.url }}" class="uk-button uk-button-secondary uk-width-1-1">Download ({{ c.size }})</button>
+    <a href="{{ c.url }}" class="uk-button uk-button-secondary uk-width-1-1">Download ({{ c.size }})</a>
     </dl>
-            </div>
-            <div class="uk-background-cover" style="background-image: url('../assets/images/books/{{ c.img }}');" uk-height-viewport></div>
-        </div>
+    </div>
+     <div class="uk-background-cover" style="background-image: url('../assets/images/books/{{ c.img }}');" uk-height-viewport></div>
+      </div>
     </div>
  </div>    
 </div>
