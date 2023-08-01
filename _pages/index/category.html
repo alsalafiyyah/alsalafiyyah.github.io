@@ -4,14 +4,16 @@ title: Categories
 active: category
 permalink: /categories/
 ---
-<table class="table">	
+
+<table class="uk-table uk-table-striped" id="table">	
  <tbody>     
   {% for category in site.categories %}	
   <tr>
    <td>
-    <h5>{{ category | first | strip_html }} {{ category[1].size }}</h5>
+    {{ category | first | strip_html }}
    </td>    
+   <td>{{ category[1].size }}</td>
   </tr>      
   {% endfor %}	
  </tbody>	
-</table> 
+</table>    
