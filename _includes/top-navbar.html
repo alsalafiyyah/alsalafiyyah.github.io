@@ -1,0 +1,30 @@
+<nav class="uk-navbar-container uk-margin" uk-navbar>
+    <div class="nav-overlay uk-navbar-left">
+     <a class="uk-icon-link" href="/">
+      <span uk-icon="arrow-left"></span><span class="uk-margin-small-left">Home</span>
+      </a>   
+    </div>
+    <div class="nav-overlay uk-navbar-center">
+      <a class="uk-navbar-item uk-logo" href="#">{{ page.title }}</a>
+    </div>
+    <div class="nav-overlay uk-navbar-right">
+       <a class="uk-icon-link" target="_blank" href="https://instagram.com/Alsalafiyyah"><span uk-icon="instagram"></span></a>
+       <a class="uk-icon-link uk-navbar-toggle" uk-search-icon uk-toggle="target: .nav-overlay; animation: uk-animation-fade" href="#"></a>
+       <a class="uk-navbar-toggle uk-navbar-toggle-animate" uk-navbar-toggle-icon href="#"></a>
+       <div class="uk-navbar-dropdown">
+        <ul class="uk-nav uk-navbar-dropdown-nav">
+         {% for menu in site.data.sidenav %}
+          <li><a href="{{ menu.url | relative_url }}">{{ menu.title }}</a></li>
+         {% endfor %}
+        </ul>
+      </div>
+    </div>
+    <div class="nav-overlay uk-navbar-left uk-flex-1" hidden>
+        <div class="uk-navbar-item uk-width-expand">
+            <form class="uk-search uk-search-navbar uk-width-1-1">
+             <input class="uk-search-input" type="search" placeholder="Search" aria-label="Search" autofocus>
+            </form>
+        </div>
+        <a style="margin-right: 15px;"class="uk-icon-link uk-navbar-toggle" uk-close uk-toggle="target: .nav-overlay; animation: uk-animation-fade" href="#"></a>
+    </div>
+</nav>
