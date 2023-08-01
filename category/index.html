@@ -1,16 +1,22 @@
 ---
-layout: default
+layout: main
 title: Categories
 active: category
 ---
-<table class="table">	
+
+<table class="uk-table uk-table-striped" id="table">	
  <tbody>     
   {% for category in site.categories %}	
-  <tr class="collection">
-   <td class="collection-item">
-    <a href="../category/{{ category[0] }}">{{ category[0] | capitalize }} <span class="secondary-content">{{ category[1].size }}</span></a>
+  <tr>
+   <td>
+    <a href="../category/{{ category[0] }}">
+     {{ category[0] | capitalize }}    
+    </a>
    </td>    
   </tr>      
+  <tr>
+   <td>{{ category[1].size }}</td>
+  </tr>
   {% endfor %}	
  </tbody>	
 </table> 
