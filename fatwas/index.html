@@ -8,9 +8,9 @@ locale: en
 
 {% for post in paginator.posts %}
 <article class="uk-article">
- <h3 class="uk-article-title">
-  <a title="{{ post.title }}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
- </h3>
+ <h6 class="uk-article-title">
+  <a class="uk-link-muted" title="{{ post.title }}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+ </h6>
   <p class="uk-article-meta">
    Posted on {{ post.hijri }}
   </p>
