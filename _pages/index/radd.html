@@ -1,18 +1,20 @@
 ---
-layout: default
+layout: main
 title: Radd
 active: radd
 lang: en
 permalink: /radd/
 ---
 
-<table class="table">	
+<table class="uk-table uk-table-striped" id="table">	
  <tbody>     
   {% for c in site.refutals %}	
   <tr>
    <td>
-    <h5><a title="{{ c.title }}" href="{{ c.url }}">{{ c.title }}</a></h5>
-    <p><small>Posted on <b>{{ c.hijri }}</b></small></p>
+    <a class="uk-margin-remove-bottom" title="{{ c.title }}" href="{{ c.url }}">
+     {{ c.title }}
+    <p class="uk-text-meta uk-margin-remove-top">{{ c.hijri }}</p>
+    </a>
    </td>    
   </tr>      
   {% endfor %}	
