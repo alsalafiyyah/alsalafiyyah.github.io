@@ -1,27 +1,32 @@
 ---
 title: Fatwas
-layout: default
+layout: main
 active: fatwas
 uid: fatwas
 locale: en
 ---
 
 {% for post in paginator.posts %}
-  <h5><small>{{ post.hijri }}</small><br/>
-    <a title="{{ post.title }}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-  </h5>
-  <div class="divider"></div>
+<article class="uk-article">
+ <h3 class="uk-article-title">
+  <a title="{{ post.title }}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+ </h3>
+  <p class="uk-article-meta">
+   Posted on {{ post.hijri }}<
+  </p>
+</article>
 {% endfor %}
 
-  <ul class="pagination center">
-    {% if paginator.previous_page %}
-    <li class="waves-effect"><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}"><i class="medium material-icons">chevron_left</i></a></li>
-    {% else %}
-    <li class="waves-effect disabled"><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}"><i class="medium material-icons">chevron_left</i></a></li>
-    {% endif %}
-    {% if paginator.next_page %}
-    <li class="waves-effect"><a href="{{ paginator.next_page_path | prepend: site.baseurl }}"><i class="medium material-icons">chevron_right</i></a></li>
-    {% else %}
-    <li class="waves-effect disabled"><a href="{{ paginator.next_page_path | prepend: site.baseurl }}"><i class="medium material-icons">chevron_right</i></a></li>
-    {% endif %}
-  </ul>
+<ul class="uk-pagination">
+  {% if paginator.previous_page %}
+   <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}"><span class="uk-margin-small-right" uk-pagination-previous></span> Previous</a></li>
+  {% else %}
+   <li class="uk-disabled"><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}"><span class="uk-margin-small-right" uk-pagination-previous></span> Previous</a></li>
+  {% endif %}
+  
+  {% if paginator.next_page %}
+   <li class="uk-margin-auto-left"><a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Next <span class="uk-margin-small-left" uk-pagination-next></span></a></li>
+   {% else %}
+   <li class="uk-margin-auto-left uk-disabled"><a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Next <span class="uk-margin-small-left" uk-pagination-next></span></a></li>
+  {% endif %}
+</ul>
