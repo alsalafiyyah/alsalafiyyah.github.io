@@ -1,17 +1,18 @@
 ---
-layout: default
+layout: main
 title: Muqolat
 uid: muqolat
 locale: en
 active: muqolat
 permalink: /muqolat/
 ---
-<table class="table">	
+
+<table class="uk-table uk-table-striped" id="table">	
  <tbody>     
   {% for c in site.muqolat %}	
   <tr>
    <td>
-    <h5><a title="{{ c.title }}" href="{{ c.url }}">{{ c.title }}</a></h5>    
+    <a title="{{ c.title }}" href="{{ c.url }}">{{ c.title }}</a>  
    </td>    
   </tr>      
   {% endfor %}	
