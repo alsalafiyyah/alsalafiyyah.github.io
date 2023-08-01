@@ -4,12 +4,12 @@ title: Demo
 permalink: /demo/
 ---
 
-<table class="uk-table uk-table-striped uk-table-divider" id="table">	
+<table class="uk-table uk-table-striped" id="table">	
  <tbody>     
-  {% for c in site.data.biography %}	
+  {% for category in site.categories %}	
   <tr>
    <td>
-    <h5><a title="{{ c.title }}" href="{{ c.url }}">{{ c.title }}</a></h5>    
+    <h5>{{ category | first | strip_html }} {{ category[1].size }}</h5>
    </td>    
   </tr>      
   {% endfor %}	
