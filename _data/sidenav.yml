@@ -10,6 +10,8 @@
   url: books  
 - title: Radd
   url: radd
+- title: Categories
+  url: category  
 - title: Biographies
   url: biography
 - title: Wahhabism
