@@ -1,47 +1,49 @@
- <div class="row"> 
-  
-  <div class="col s12"> 
-   <div class="card"> 
-    <div class="card-image"> 
-     <img class="lazy" src="{{ "/assets/loader.gif" | relative_url }}" data-src="https://alsalafiyyah.github.io/assets/images/books/tafsir-saadi.jpg"> 
-     <span class="card-title bold">Free <span class="grey bold" style="padding: 5px;">eBooks</span></span> 
-     <a href="{{ "books" | relative_url }}" class="btn-floating halfway-fab waves-effect waves-light black" style="bottom: 20px;"><i class="material-icons">arrow_forward</i></a> 
-    </div> 
-   </div> 
-  </div> 
-        
-      <div class="col s12 m6 l6">
-      <ul class="collection with-header border-0">
-        <li class="collection-header">
-        <span class="card-title"><b>Latest Fatwas</b>
-        </li>
-         {% for post in site.posts limit:5 %}
-          {% if post.url %}
-           <a class="collection-item waves-effect waves-grey block white-text" itemprop="url" title="{{ post.title }}" href="{{ post.url }}">
-            <span itemprop="name">{{ post.title }}</span>
-           </a>
-         {% endif %}
-        {% endfor %}
-       <li class="collection-header">
-        <a href="{{ '/fatwas/' | prepend:site.baseurl }}" class="waves-effect btn-flat">View all ({{ site.posts | size }}) <i class="material-icons right">chevron_right</i></a></span>
-       </li>
-      </ul>
-      </div>
-        
-      <div class="col s12 m6 l6">
-      <ul class="collection with-header border-0">
-        <li class="collection-header">
-        <span class="card-title"><b>Latest Audios</b></span>
-        </li>
-        {% for c in site.audios | limit:5 %}
-         <a class="collection-item waves-effect waves-grey block black-text" itemprop="url" title="{{ c.title }}" href="{{ c.url }}">
-          <span itemprop="name">{{ c.title }}</span>
-         </a>
-       {% endfor %}
-       <li class="collection-header">
-        <a href="{{ '/audios/' | prepend:site.baseurl }}" class="waves-effect btn-flat">View all <i class="material-icons right">chevron_right</i></a></span>
-       </li>
-      </ul>
-      </div>
-        
+<div class="uk-child-width-expand@s" uk-grid>
+ 
+<div>
+ <div class="uk-card uk-card-default uk-width-6-3@m">
+  <div class="uk-card-header">
+   <div class="uk-grid-small">
+    <div class="uk-width-expand">
+     <h3 class="uk-card-title uk-margin-remove-bottom">Latest Fatwas</h3>
     </div>
+   </div>
+  </div>
+  <div class="uk-card-body">
+   <ul class="uk-list uk-list-divider">
+    {% for post in site.posts limit:5 %}
+     {% if post.url %}
+      <li><a class="uk-link-text" href="{{ post.url }}">{{ post.title }}</a></li>
+     {% endif %}
+    {% endfor %}
+    </ul>
+   </div>
+  <div class="uk-card-footer">
+   <a href="{{ '/fatwas/' | prepend:site.baseurl }}" class="uk-button uk-button-text">View All</a>
+  </div>
+ </div>
+</div>
+ 
+<div>
+ <div class="uk-card uk-card-default uk-width-6-3@m">
+  <div class="uk-card-header">
+   <div class="uk-grid-small">
+    <div class="uk-width-expand">
+     <h3 class="uk-card-title uk-margin-remove-bottom">Latest Audios</h3>
+    </div>
+   </div>
+  </div>
+  <div class="uk-card-body">
+   <ul class="uk-list uk-list-divider">
+    {% for c in site.audios | limit:5 %}
+     <li><a class="uk-link-text" href="{{ c.url }}">{{ c.title }}</a></li>
+    {% endfor %}
+    </ul>
+   </div>
+  <div class="uk-card-footer">
+   <a href="{{ '/audios/' | prepend:site.baseurl }}" class="uk-button uk-button-text">View All</a>
+  </div>
+ </div>
+</div>    
+
+</div>
