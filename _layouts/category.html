@@ -1,23 +1,42 @@
 <!DOCTYPE html>
 <html>
- {% include head.html %}
+ <head>
+  {% include head.html %}
+ </head>
 <body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}">
- {% include sidenav.html %}
- <div class="container">  
-    <nav class="z-depth-0 transparent">
-    <div class="nav-wrapper">
-     <ul class="left">
-      <li>         
-        <a class="modal-trigger" href="{{ "category" | relative_url }}"><i class="material-icons">keyboard_backspace</i></a>            
-      </li>
-      </ul>           
+ <nav class="uk-navbar-container uk-margin" uk-navbar>
+    <div class="nav-overlay uk-navbar-left">
+      <a class="uk-icon-link" href="{{ "fatwas" | relative_url }}">
+       <span uk-icon="arrow-left"></span>
+       <span class="uk-margin-small-left">Fatwas</span>
+      </a>
     </div>
-    </nav>
-  <div class="section">
-   <h6>Category: {{ page.title }}</h6>
-   {{ content }}
-  </div>
- </div>
+    <div class="nav-overlay uk-navbar-right">
+       <a class="uk-icon-link" target="_blank" href="https://instagram.com/Alsalafiyyah"><span uk-icon="instagram"></span></a>
+       <a class="uk-icon-link uk-navbar-toggle" uk-search-icon uk-toggle="target: .nav-overlay; animation: uk-animation-fade" href="#"></a>
+       <a class="uk-navbar-toggle uk-navbar-toggle-animate" uk-navbar-toggle-icon href="#"></a>
+       <div class="uk-navbar-dropdown">
+        <ul class="uk-nav uk-navbar-dropdown-nav">
+         {% for menu in site.data.sidenav %}
+          <li><a href="{{ menu.url | relative_url }}">{{ menu.title }}</a></li>
+         {% endfor %}
+        </ul>
+      </div>
+    </div>
+    <div class="nav-overlay uk-navbar-left uk-flex-1" hidden>
+        <div class="uk-navbar-item uk-width-expand">
+            <form action="{{ "search" | relative_url }}" class="uk-search uk-search-navbar uk-width-1-1">
+             <input name="q" id="search" class="uk-search-input" type="search" placeholder="Search" aria-label="Search" pattern=".{3,}" title="At least 3 characters" autofocus>
+            </form>
+        </div>
+        <a style="margin-right: 15px;"class="uk-icon-link uk-navbar-toggle" uk-close uk-toggle="target: .nav-overlay; animation: uk-animation-fade" href="#"></a>
+    </div>
+ </nav>
+ 
+<div class="uk-container" style="margin-bottom: 40px;">  
+ <h6 class="uk-heading-bullet">Category: {{ page.title }}</h6>
+ {{ content }}
+</div>
  {% include scripts.html %}
  </body>
 </html>
