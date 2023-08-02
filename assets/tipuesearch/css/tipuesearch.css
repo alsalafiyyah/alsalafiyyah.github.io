@@ -34,25 +34,23 @@ http://www.tipue.com/search
 
 /* search box */
 
-#tipue_search_
+#tipue_search_s
 {
-  background: #ffffff !important;
   padding-left: 15px;
   padding-right: 15px;
   border-radius: 60px;
   margin-bottom: 20px;
   -moz-appearance: none;
-	-webkit-appearance: none;
-  box-shadow: none; 
-	 outline: 0;
-	 height: 50px;
+  -webkit-appearance: none;
+  box-shadow: none;
+  outline: 0;
   margin:auto;	
 }
-span > img{
+span > img {
 margin-top:4.5px;
   margin-left:20px;
 }
-#tipue_search_input{
+#tipue_search_input_s {
   box-sizing: border-box;
   height: 50px !important;
   background-image: url('https://static.thenounproject.com/png/101791-200.png');
@@ -71,17 +69,17 @@ input[type=search]:focus {
   border-bottom: none !important;
 }
 
-.tipue_search_icon
+.tipue_search_icon_s
 {
      width: 24px;
      height: 24px;
 }
-.tipue_search_left
+.tipue_search_left-s
 {
      float: left;
      padding: 15px 9px 0 0;
 }
-.tipue_search_right
+.tipue_search_right-s
 {
      float: left;
 }
