@@ -1,6 +1,43 @@
+body {
+  min-height: 100vh;
+  /* mobile viewport bug fix */
+  min-height: -webkit-fill-available;
+}
+html {
+  height: -webkit-fill-available;
+}   
+body {
+    height: auto;
+    width: auto; 
+    min-height: 100%;
+    min-height: 100vh;
+    overflow-y: scroll;
+    margin: 0;
+    padding: 0;
+}    
+.uk-container {
+ margin-bottom: 50px !important;
+ padding-bottom: 50px !important;
+}    
+
+.darkmode {
+  color: #212121;
+  background-color: #bdbdbd;
+  .uk-card-body, .uk-card, .uk-navbar-container, .uk-logo, .uk-card-title, .uk-navbar-dropdown, .uk-modal-dialog, .uk-description-list {
+  color: #f8f8f8;
+  background-color: #212121;
+  }
+  .uk-button-default, .goback {
+  color: #f8f8f8;
+  }
+}
+
 .uk-navbar-right {
  padding-right: 12px;
 }   
 .uk-navbar-left {
  padding-left: 12px;
 }   
+.uk-close {
+ margin-right: 12px;
+}
