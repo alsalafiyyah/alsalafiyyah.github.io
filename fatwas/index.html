@@ -10,7 +10,7 @@ locale: en
 {% for post in paginator.posts %}	
  <li>
  <a href="{{ post.url | prepend: site.baseurl }}">
-  <h3 class="uk-card-title uk-margin-remove-bottom">{{ post.title }}</h3>
+  <h3 class="uk-margin-remove-bottom">{{ post.title }}</h3>
  </a>
  <p class="uk-text-meta uk-margin-remove-top">{{ post.hijri }}</p>  
  </li>
