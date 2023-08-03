@@ -6,15 +6,16 @@ uid: fatwas
 locale: en
 ---
 
+<ul class="uk-list uk-list-divider">
 {% for post in paginator.posts %}	
-<div class="uk-card uk-card-hover uk-card-body">
+ <li>
  <a href="{{ post.url | prepend: site.baseurl }}">
   <h3 class="uk-card-title uk-margin-remove-bottom">{{ post.title }}</h3>
  </a>
- <p class="uk-text-meta uk-margin-remove-top">{{ post.hijri }}</p>
-</div>
+ <p class="uk-text-meta uk-margin-remove-top">{{ post.hijri }}</p>  
+ </li>
 {% endfor %}
-
+</ul>
 <ul class="uk-pagination">
   {% if paginator.previous_page %}
    <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}"><span class="uk-margin-small-right" uk-pagination-previous></span> Previous</a></li>
