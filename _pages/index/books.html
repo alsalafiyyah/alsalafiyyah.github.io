@@ -23,23 +23,20 @@ permalink: /books/
     <div class="uk-modal-dialog">
         <button class="uk-modal-close-full uk-close-large" type="button" uk-close></button>
         <div class="uk-grid-collapse uk-child-width-1-2@s uk-flex-middle" uk-grid>
-            <div class="uk-padding-large">                
-<dl class="uk-description-list uk-description-list-divider">
-    <dt>Title:</dt>
-    <dd>{{ c.title }}</dd>
-    <dt>Author:</dt>
-    <dd>{{ c.author }}</dd>
-    <dt>Pages:</dt>
-    <dd>{{ c.pages }}</dd>
-    <dt>Format:</dt>
-    <dd>{{ c.format }}</dd>
-    <dt>Language:</dt>    
-    <dd>{{ c.lang }}</dd>
-    <hr/>
-    <p>{{ c.desc }}</p>
-    <hr/>
-    <a href="{{ c.url }}" class="uk-button uk-button-secondary uk-width-1-1">Download ({{ c.size }})</a>
-    </dl>
+            <div class="uk-padding-large">      
+   <ul class="uk-list uk-list-divider">
+    <li>Title: {{ c.title }}</li>
+    <li>Author: {{ c.author }}</li>
+    <li>Pages: {{ c.pages }}</li>
+    <li>Language: {{ c.lang }}</li>
+    <li>Format: {{ c.format }}</li>
+    <li>
+     <p>{{ c.desc }}</p>   
+    </li>     
+    <li>
+     <a href="{{ c.url }}" class="uk-button uk-button-secondary uk-width-1-1">Download ({{ c.size }})</a>   
+    </li>
+   </ul>                
     </div>
      <div class="uk-background-cover" style="background-image: url('../assets/images/books/{{ c.img }}');" uk-height-viewport></div>
       </div>
