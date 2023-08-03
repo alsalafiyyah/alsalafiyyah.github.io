@@ -23,11 +23,11 @@ body {
 .darkmode {
   color: #212121;
   background-color: #bdbdbd;
-  .uk-card-body, .uk-card, .uk-navbar-container, .uk-logo, .uk-card-title, .uk-navbar-dropdown, .uk-modal-dialog, .uk-description-list {
+  .uk-card-body, .uk-card, .uk-navbar-container, .uk-logo, .uk-navbar-dropdown, .uk-modal-dialog, .uk-description-list {
   color: #f8f8f8;
   background-color: #212121;
   }
-  .uk-button-default, .goback {
+  .uk-button-default, .uk-card-title, .goback {
   color: #f8f8f8;
   }
 }
