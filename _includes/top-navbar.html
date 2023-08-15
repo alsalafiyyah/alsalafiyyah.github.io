@@ -9,9 +9,9 @@
        <a class="uk-icon-link uk-navbar-toggle" uk-search-icon uk-toggle="target: .nav-overlay; animation: uk-animation-fade" href="#"></a>
        <a class="uk-navbar-toggle uk-navbar-toggle-animate" uk-navbar-toggle-icon href="#"></a>
        <div class="uk-navbar-dropdown">
-        <ul class="uk-nav uk-navbar-dropdown-nav">
-         {% for menu in site.data.sidenav %}
-          <li><a href="{{ menu.url | relative_url }}">{{ menu.title }}</a></li>
+        <ul class="uk-nav uk-navbar-dropdown-nav">            
+         {% for nav in site.data.sidenav %}
+          <li{% if sidenav.url == page.url %} class="active"{% endif %}><a href="{{ sidenav.url | relative_url }}">{{ sidenav.title }}</a></li>
          {% endfor %}
         </ul>
       </div>
