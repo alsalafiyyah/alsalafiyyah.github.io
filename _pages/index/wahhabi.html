@@ -7,15 +7,19 @@ locale: en
 permalink: /wahabism/
 ---
 
-<table class="uk-table uk-table-striped" id="table">	
+<table class="uk-table" id="table">	
  <tbody>     
   {% for c in site.wahhabism %}	
   <tr>
    <td>
-    <a class="uk-margin-remove-bottom" title="{{ c.title }}" href="{{ c.url }}">
+    <h3>
+     <a class="uk-link-reset uk-margin-remove-bottom" title="{{ c.title }}" href="{{ c.url }}">
      {{ c.title }}
+     </a>
+    </h3>
     <p class="uk-text-meta uk-margin-remove-top">{{ c.hijri }}</p>
     </a>
+   </td>
    </td>    
   </tr>      
   {% endfor %}	
