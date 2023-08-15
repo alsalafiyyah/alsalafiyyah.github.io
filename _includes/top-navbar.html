@@ -11,7 +11,7 @@
        <div class="uk-navbar-dropdown">
         <ul class="uk-nav uk-navbar-dropdown-nav">            
          {% for nav in site.data.navigation %}
-          <li{% if navigation.url == page.url %} class="active"{% endif %}><a href="{{ navigation.url }}">{{ navigation.text }}</a></li>
+          <li{% if nav.url == page.url %} class="active"{% endif %}><a href="{{ nav.url }}">{{ nav.text }}</a></li>
          {% endfor %}
         </ul>
       </div>
