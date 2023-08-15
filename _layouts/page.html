@@ -71,7 +71,7 @@
        <a class="uk-icon-link uk-navbar-toggle" uk-search-icon uk-toggle="target: .nav-overlay; animation: uk-animation-fade" href="#"></a>
        <a class="uk-navbar-toggle uk-navbar-toggle-animate" uk-navbar-toggle-icon href="#"></a>
        <div class="uk-navbar-dropdown">
-        <ul class="uk-text-large uk-nav uk-navbar-dropdown-nav">
+        <ul class="uk-nav uk-navbar-dropdown-nav">
          {% for menu in site.data.sidenav %}
           <li><a href="{{ menu.url | relative_url }}">{{ menu.title }}</a></li>
          {% endfor %}
