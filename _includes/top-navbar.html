@@ -11,7 +11,7 @@
        <div class="uk-navbar-dropdown">
         <ul class="uk-nav uk-navbar-dropdown-nav">            
          {% for nav in site.data.sidenav %}
-          <li{% if sidenav.url == page.url %} class="active"{% endif %}><a href="{{ sidenav.url | relative_url }}">{{ sidenav.title }}</a></li>
+          <li{% if nav.url == page.url %} class="active"{% endif %}><a href="{{ nav.url | relative_url }}">{{ nav.title }}</a></li>
          {% endfor %}
         </ul>
       </div>
