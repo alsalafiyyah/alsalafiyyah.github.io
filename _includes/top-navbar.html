@@ -10,8 +10,8 @@
        <a class="uk-navbar-toggle uk-navbar-toggle-animate" uk-navbar-toggle-icon href="#"></a>
        <div class="uk-navbar-dropdown">
         <ul class="uk-nav uk-navbar-dropdown-nav">            
-         {% for nav in site.data.sidenav %}
-          <li{% if nav.url == page.url %} class="active"{% endif %}><a href="{{ nav.url | relative_url }}">{{ nav.title }}</a></li>
+         {% for nav in site.data.navigation %}
+          <li{% if navigation.url == page.url %} class="active"{% endif %}><a href="{{ navigation.url }}">{{ navigation.text }}</a></li>
          {% endfor %}
         </ul>
       </div>
