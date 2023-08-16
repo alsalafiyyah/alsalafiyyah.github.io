@@ -154,7 +154,7 @@ html, body {
 a {
   color: var(--color-link) !important;
 }
-h3 {
+h3, h4, h4, h6, p, .uk-list a {
   color: var(--color-text) !important;
 }
 .uk-navbar-container,
