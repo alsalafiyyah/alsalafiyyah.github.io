@@ -1,20 +1,48 @@
-<nav class="z-depth-0 transparent">
-  <div class="nav-wrapper">
-     <ul class="left">
-       <li><a data-target="slide-out" class="sidenav-trigger" href="#"><i class="material-icons">short_text</i></a></li>          
-      </ul>  
-      <a href="{{ relative_url }}" class="brand-logo center bold">{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</a>          
-      <ul class="right">
-       <li><a data-target='searchform' href="#" class="dropdown-trigger"><i class="material-icons">search</i></a></li>
-       <div id='searchform' class='dropdown-content search-form-content'>
-       <form action="{{ "search" | relative_url }}">    
-        <div class="input-field">
-          <input name="q" id="search" placeholder="Type and hit enter" type="text" class="validate" pattern=".{3,}" title="At least 3 characters">
-          <label for="search">Search</label>
+<nav class="uk-navbar-container uk-margin" uk-navbar>
+    <div class="nav-overlay uk-navbar-left">
+     <a class="uk-navbar-toggle uk-navbar-toggle-animate" href="#"><span uk-navbar-toggle-icon></span> <span class="uk-margin-small-left">Menu</span></a>
+       <div class="uk-navbar-dropdown">
+        <ul class="uk-nav uk-navbar-dropdown-nav">
+         {% for menu in site.data.sidenav %}
+          <li><a href="{{ menu.url | relative_url }}">{{ menu.title }}</a></li>
+         {% endfor %}
+        </ul>
+      </div>     
+    </div>
+    <div class="nav-overlay uk-navbar-center">
+      <a class="uk-navbar-item uk-logo" href="{{ relative_url }}">
+        {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}
+      </a>
+    </div>
+    <div class="nav-overlay uk-navbar-right">
+     <button class="theme-toggle" id="theme-toggle" title="Toggles light & dark" aria-label="auto" aria-live="polite">
+      <svg class="sun-and-moon" aria-hidden="true" width="24" height="24" viewBox="0 0 24 24">
+        <mask class="moon" id="moon-mask">
+          <rect x="0" y="0" width="100%" height="100%" fill="white" />
+          <circle cx="24" cy="10" r="6" fill="black" />
+        </mask>
+        <circle class="sun" cx="12" cy="12" r="6" mask="url(#moon-mask)" fill="currentColor" />
+        <g class="sun-beams" stroke="currentColor">
+          <line x1="12" y1="1" x2="12" y2="3" />
+          <line x1="12" y1="21" x2="12" y2="23" />
+          <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" />
+          <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" />
+          <line x1="1" y1="12" x2="3" y2="12" />
+          <line x1="21" y1="12" x2="23" y2="12" />
+          <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" />
+          <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" />
+         </g>
+      </svg>
+     </button>            
+       <a class="uk-icon-link uk-navbar-toggle" uk-search-icon uk-toggle="target: .nav-overlay; animation: uk-animation-fade" href="#"></a>       
+    </div>
+    <div class="nav-overlay uk-navbar-left uk-flex-1" hidden>
+        <div class="uk-navbar-item uk-width-expand">
+            <form action="{{ "search" | relative_url }}" class="uk-search uk-search-navbar uk-width-1-1">
+             <input name="q" id="search" class="uk-search-input" type="search" placeholder="Search" aria-label="Search" pattern=".{3,}" title="At least 3 characters" autofocus>
+            </form>
         </div>
-        </form>	
-       </div>
-      </ul>
+        <a style="margin-right: 15px;"class="uk-icon-link uk-navbar-toggle" uk-close uk-toggle="target: .nav-overlay; animation: uk-animation-fade" href="#"></a>
     </div>
   </nav>
-{% include sidenav.html %}
+  
