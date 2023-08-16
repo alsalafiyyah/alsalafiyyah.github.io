@@ -145,7 +145,7 @@ html[data-theme='dark'] {
     --bg-navbar: #0e0e10;
     --color-link: #458BC4;
 }
-html, body { 
+html, body, .uk-modal-full { 
     background-color: var(--bg) !important;
     color: var(--color-text) !important;
 }
