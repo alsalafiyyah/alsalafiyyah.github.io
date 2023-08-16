@@ -13,7 +13,7 @@
    <ul class="uk-list uk-list-divider">
     {% for post in site.posts limit:5 %}
      {% if post.url %}
-      <li><a class="uk-link-text" href="{{ post.url }}">{{ post.title }}</a></li>
+      <li><a class="uk-link-text" href="{{ post.url }}"><span uk-icon="chevron-double-right"></span> {{ post.title }}</a></li>
      {% endif %}
     {% endfor %}
     </ul>
@@ -36,7 +36,7 @@
   <div class="uk-card-body">
    <ul class="uk-list uk-list-divider">
     {% for c in site.audios | limit:5 %}
-     <li><a class="uk-link-text" href="{{ c.url }}">{{ c.title }}</a></li>
+     <li><a class="uk-link-text" href="{{ c.url }}"><span uk-icon="play"></span> {{ c.title }}</a></li>
     {% endfor %}
     </ul>
    </div>
