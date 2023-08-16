@@ -151,6 +151,9 @@ html, body {
     background-color: var(--bg-panel);
     color: var(--color-text);
 }   
+a {
+  color: var(--color-link) !important;
+}
 .uk-navbar-container,
 .uk-navbar {
  background-color: var(--bg-navbar) !important;
