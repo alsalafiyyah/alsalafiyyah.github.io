@@ -2,21 +2,15 @@
  
 <div>
  <div class="uk-card uk-card-default uk-width-6-3@m">
-  <div class="uk-card-header">
-   <div class="uk-grid-small">
-    <div class="uk-width-expand">
-     <h3 class="uk-card-title uk-margin-remove-bottom">Latest Fatwas</h3>
-    </div>
-   </div>
-  </div>
   <div class="uk-card-body">
    <ul class="uk-list">
+    <li><h4 class="uk-text-bold uk-text-uppercase">Latest Fatwas</h4></li>
     {% for post in site.posts limit:5 %}
      {% if post.url %}
-      <li><a class="uk-link-text" href="{{ post.url }}"><span uk-icon="chevron-double-right"></span> {{ post.title }}</a></li>
+      <li><a class="uk-text-capitalize uk-link-text" href="{{ post.url }}"><span uk-icon="chevron-double-right"></span> {{ post.title }}</a></li>
      {% endif %}
     {% endfor %}
-    <li><a href="{{ '/fatwas/' | prepend:site.baseurl }}" class="uk-align-right uk-link-text uk-button uk-button-text">More</a></li>
+    <li><a href="{{ '/fatwas/' | prepend:site.baseurl }}" class="uk-align-right uk-link-text uk-button uk-button-text">More <span uk-icon="chevron-double-right"></span></a></li>
     </ul>
   </div>  
  </div>
@@ -24,19 +18,13 @@
  
 <div>
  <div class="uk-card uk-card-default uk-width-6-3@m">
-  <div class="uk-card-header">
-   <div class="uk-grid-small">
-    <div class="uk-width-expand">
-     <h3 class="uk-card-title uk-margin-remove-bottom">Latest Audios</h3>
-    </div>
-   </div>
-  </div>
   <div class="uk-card-body">
    <ul class="uk-list">
+    <li><h4 class="uk-text-bold uk-text-uppercase">Latest Audios</h4></li>
     {% for c in site.audios | limit:5 %}
-     <li><a class="uk-link-text" href="{{ c.url }}"><span uk-icon="play"></span> {{ c.title }}</a></li>
+     <li><a class="uk-text-capitalize uk-link-text" href="{{ c.url }}"><span uk-icon="play"></span> {{ c.title }}</a></li>
     {% endfor %}
-    <li><a href="{{ '/audios/' | prepend:site.baseurl }}" class="uk-align-right uk-link-text uk-button uk-button-text">More</a></li>
+    <li><a href="{{ '/audios/' | prepend:site.baseurl }}" class="uk-align-right uk-link-text uk-button uk-button-text">More <span uk-icon="chevron-double-right"></span></a></li>
     </ul>   
    </div>
  </div>
