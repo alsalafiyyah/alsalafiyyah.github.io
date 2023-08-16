@@ -137,6 +137,7 @@ html{
     --color-heading: rgb(27, 168, 14); 
     --color-text: #999999;
     --bg-navbar: #ffffff;
+    --color-link: #15aae5
 }
 html[data-theme='dark'] {
     --bg: #f8f8f8;
@@ -144,6 +145,7 @@ html[data-theme='dark'] {
     --color-heading: #0077ff; 
     --color-text: #f5f5ff;
     --bg-navbar: #111111;
+    --color-link: #15aae5
 }
 html, body { 
     background-color: var(--bg-panel);
