@@ -142,7 +142,7 @@ html[data-theme='dark'] {
     --bg: #f8f8f8;
     --bg-panel: #434343;
     --color-heading: #0077ff; 
-    --color-text: #999999;
+    --color-text: #f5f5ff;
     --bg-navbar: #111111;
 }
 html, body { 
