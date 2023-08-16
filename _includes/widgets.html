@@ -10,7 +10,7 @@
       <li><a class="uk-text-capitalize uk-link-text" href="{{ post.url }}"><span uk-icon="chevron-double-right"></span> {{ post.title }}</a></li>
      {% endif %}
     {% endfor %}
-    <li><a href="{{ '/fatwas/' | prepend:site.baseurl }}" class="uk-align-right uk-link-text uk-button uk-button-text">More <span uk-icon="chevron-double-right"></span></a></li>
+    <li><a href="{{ '/fatwas/' | prepend:site.baseurl }}" class="uk-text-capitalize uk-align-right uk-link-text uk-button uk-button-text">More <span uk-icon="chevron-double-right"></span></a></li>
     </ul>
   </div>  
  </div>
@@ -24,7 +24,7 @@
     {% for c in site.audios | limit:5 %}
      <li><a class="uk-text-capitalize uk-link-text" href="{{ c.url }}"><span uk-icon="play"></span> {{ c.title }}</a></li>
     {% endfor %}
-    <li><a href="{{ '/audios/' | prepend:site.baseurl }}" class="uk-align-right uk-link-text uk-button uk-button-text">More <span uk-icon="chevron-double-right"></span></a></li>
+    <li><a href="{{ '/audios/' | prepend:site.baseurl }}" class="uk-text-capitalize uk-align-right uk-link-text uk-button uk-button-text">More <span uk-icon="chevron-double-right"></span></a></li>
     </ul>   
    </div>
  </div>
