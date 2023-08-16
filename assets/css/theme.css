@@ -132,28 +132,30 @@ html {
 }
 
 html{
-    --bg: #fff;
-    --bg-panel: #ebebeb;
+    --bg: #f5f5f5;
     --color-heading: rgb(27, 168, 14); 
     --color-text: #999999;
     --bg-navbar: #ffffff;
-    --color-link: #15aae5
+    --color-link: ;
 }
 html[data-theme='dark'] {
-    --bg: #f8f8f8;
-    --bg-panel: #434343;
+    --bg: #000000;
     --color-heading: #0077ff; 
-    --color-text: #f5f5ff;
-    --bg-navbar: #111111;
-    --color-link: #15aae5
+    --color-text: #999999;
+    --bg-navbar: #0e0e10;
+    --color-link: #458BC4;
 }
 html, body { 
-    background-color: var(--bg-panel);
-    color: var(--color-text);
-}   
-
-h3, h4, h4, h6, p, .uk-list a {
-  color: var(--color-text) !important;
+    background-color: var(--bg) !important;
+    color: var(--color-text) !important;
+}
+.uk-container p,
+.uk-list a,
+h1, h2, h3, h4, h5, h6 {
+ color: var(--color-text) !important;
+}
+.hyperlink a {
+ color: var(--color-link) !important;
 }
 .uk-navbar-container,
 .uk-navbar {
