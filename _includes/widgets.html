@@ -10,7 +10,7 @@
    </div>
   </div>
   <div class="uk-card-body">
-   <ul class="uk-list uk-list-divider">
+   <ul class="uk-list">
     {% for post in site.posts limit:5 %}
      {% if post.url %}
       <li><a class="uk-link-text" href="{{ post.url }}"><span uk-icon="chevron-double-right"></span> {{ post.title }}</a></li>
@@ -32,7 +32,7 @@
    </div>
   </div>
   <div class="uk-card-body">
-   <ul class="uk-list uk-list-divider">
+   <ul class="uk-list">
     {% for c in site.audios | limit:5 %}
      <li><a class="uk-link-text" href="{{ c.url }}"><span uk-icon="play"></span> {{ c.title }}</a></li>
     {% endfor %}
