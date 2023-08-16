@@ -1,14 +1,13 @@
 <!DOCTYPE html>
-<html>
- {% include head.html %}
+<html data-theme="light">
+<head>
+ {% include meta.html %}
+</head>
 <body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}">
- {% include sidenav.html %}
- <div class="container">
-  {% include navbar.html %}
-  <div class="section">
-  {{ content }}
+ {% include navbar.html %}
+  <div class="uk-container" style="margin-bottom: 40px;">
+   {{ content }}
   </div>
- </div>
  {% include scripts.html %}
  </body>
 </html>
