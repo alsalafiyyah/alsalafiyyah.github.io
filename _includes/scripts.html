@@ -58,29 +58,4 @@ var table = new DataTable("table");
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N9ZTW9M"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-<script>
-let darkMode = localStorage.getItem("darkMode");
-
-function enableDarkMode() {
-  document.body.classList.add("darkmode");
-  localStorage.setItem("darkMode", "enabled");
-}
-
-function disableDarkMode() {
-  document.body.classList.remove("darkmode");
-  localStorage.setItem("darkMode", null);
-}
-
-if (darkMode === "enabled") {
-  enableDarkMode();
-}
-
-// Listeners
-
-const darkModeToggle = document.querySelector("#dark-mode-toggle");
-darkModeToggle.addEventListener("click", () => {
-  darkMode = localStorage.getItem("darkMode");
-  darkMode !== "enabled" ? enableDarkMode() : disableDarkMode();
-});
-</script>      
+<!-- End Google Tag Manager (noscript) -->      
