@@ -154,6 +154,9 @@ html, body {
 a {
   color: var(--color-link) !important;
 }
+h3 {
+  color: var(--color-text) !important;
+}
 .uk-navbar-container,
 .uk-navbar {
  background-color: var(--bg-navbar) !important;
