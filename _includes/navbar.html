@@ -1,18 +1,16 @@
 <nav class="uk-navbar-container uk-margin" uk-navbar>
     <div class="nav-overlay uk-navbar-left">
-     <a class="uk-navbar-toggle uk-navbar-toggle-animate" href="#"><span uk-navbar-toggle-icon></span> <span class="uk-margin-small-left">Menu</span></a>
+     <a class="uk-navbar-toggle uk-navbar-toggle-animate" href="#"><span uk-navbar-toggle-icon></span></a>
        <div class="uk-navbar-dropdown">
         <ul class="uk-nav uk-navbar-dropdown-nav">
          {% for menu in site.data.sidenav %}
           <li><a href="{{ menu.url | relative_url }}">{{ menu.title }}</a></li>
          {% endfor %}
         </ul>
-      </div>     
-    </div>
-    <div class="nav-overlay uk-navbar-center">
-      <a class="uk-navbar-item uk-logo" href="{{ relative_url }}">
+      </div>    
+     <a class="uk-navbar-item uk-logo" href="{{ relative_url }}">
         {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}
-      </a>
+     </a>   
     </div>
     <div class="nav-overlay uk-navbar-right">
      <button class="theme-toggle" id="theme-toggle" title="Toggles light & dark" aria-label="auto" aria-live="polite">
@@ -33,7 +31,8 @@
           <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" />
          </g>
       </svg>
-     </button>            
+     </button>      
+       <a href="https://instagram.com/Alsalafiyyah" uk-icon="icon: instagram"></a>
        <a class="uk-icon-link uk-navbar-toggle" uk-search-icon uk-toggle="target: .nav-overlay; animation: uk-animation-fade" href="#"></a>       
     </div>
     <div class="nav-overlay uk-navbar-left uk-flex-1" hidden>
