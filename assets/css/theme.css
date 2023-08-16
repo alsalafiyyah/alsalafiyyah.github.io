@@ -151,9 +151,7 @@ html, body {
     background-color: var(--bg-panel);
     color: var(--color-text);
 }   
-a {
-  color: var(--color-link);
-}
+
 h3, h4, h4, h6, p, .uk-list a {
   color: var(--color-text) !important;
 }
