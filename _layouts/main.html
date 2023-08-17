@@ -1,23 +1,13 @@
 <!DOCTYPE html>
-<html>
+<html data-theme="light">
 <head>
  {% include meta.html %}
-<style>
-.uk-navbar-right {
- padding-right: 12px;
-}   
-.uk-navbar-left {
- padding-left: 12px;
-}   
-</style> 
 </head>
 <body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}">
- {% include top-navbar.html %}
+ {% include navbar.html %}
   <div class="uk-container" style="margin-bottom: 40px;">
    {{ content }}
   </div>
  {% include scripts.html %}
- <script src="https://cdn.jsdelivr.net/npm/uikit@3.16.23/dist/js/uikit.min.js"></script>
- <script src="https://cdn.jsdelivr.net/npm/uikit@3.16.23/dist/js/uikit-icons.min.js"></script>       
  </body>
 </html>
