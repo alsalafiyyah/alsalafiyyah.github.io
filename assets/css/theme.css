@@ -137,6 +137,7 @@ html{
     --color-text: #999999;
     --bg-navbar: #ffffff;
     --color-link: ;
+    --section: #f8f8f8;
 }
 html[data-theme='dark'] {
     --bg: #000000;
@@ -144,6 +145,7 @@ html[data-theme='dark'] {
     --color-text: #999999;
     --bg-navbar: #0e0e10;
     --color-link: #458BC4;
+    --section: #222;
 }
 html, body, .uk-modal-full { 
     background-color: var(--bg) !important;
@@ -153,6 +155,9 @@ html, body, .uk-modal-full {
 .uk-list a,
 h1, h2, h3, h4, h5, h6 {
  color: var(--color-text) !important;
+}
+.uk-section {
+ background-color: var(--section) !important;
 }
 .hyperlink a {
  color: var(--color-link) !important;
