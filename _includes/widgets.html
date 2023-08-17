@@ -5,7 +5,7 @@
   <div class="uk-card-body">
    <a class="uk-link-text" href="{{ '/books/' | prepend:site.baseurl }}"><h4 class="uk-text-bold uk-text-uppercase">Free eBooks</h4></a>
     <ul class="uk-slider-items uk-grid">
-     {% for c in site.data.slider %
+     {% for c in site.data.slider %}
        <li class="uk-width-3-4">
         <div class="uk-panel">
          <img class="lazy" src="{{ "/assets/loader.gif" | relative_url }}" data-src="../assets/images/{{ c.img }}" width="400" height="600" alt="">              
