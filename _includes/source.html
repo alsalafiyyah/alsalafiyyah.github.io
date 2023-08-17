@@ -1,9 +1,16 @@
 <div class="uk-card uk-card-secondary uk-card-hover uk-card-body uk-light">
 <ul class="uk-list uk-list-divider">
+
+ {% if page.hijri %}
+    <li class="collection-item">
+    Date: {{ page.hijri }}
+    {% else %} {{ site.hijri.name }} 
+    </li>
+ {% endif %}
  
  {% if page.source %}
    <li class="collection-item">
-    <i data-feather="book-open"></i> {{ page.source }} {% else %}
+    Source: {{ page.source }} {% else %}
     </li>
  {% endif %}
  
@@ -208,19 +215,19 @@
 
    {% if page.muftis.chairman %}
     <li class="collection-item">
-    <i data-feather="user"></i> Chairman : 
+     Chairman : 
     {% for chairman in page.muftis.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
     </li>
    {% endif %} 
    {% if page.muftis.deputy_chairman %}
      <li class="collection-item">
-      <i data-feather="user"></i> Deputy Chairman : 
+      Deputy Chairman : 
       {% for deputy_chairman in page.muftis.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
      </li>
    {% endif %}      
    {% if page.muftis.members %}
      <li class="collection-item">
-       <i data-feather="users"></i> Members : 
+        Members : 
         <ol>
          {% for members in page.muftis.members %}
          <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
@@ -229,15 +236,7 @@
       </li>
     {% endif %}
 
-  {% endif %}
-        
-  {% if page.hijri %}
-    <li class="collection-item">
-    <i data-feather="calendar"></i> {{ page.hijri }}
-    {% else %} {{ site.hijri.name }} 
-     Dr. Rashid
-    </li>
-  {% endif %}
+  {% endif %}      
  
   {% if page.article_taken_from %}
    {% if page.article_taken_from.taken_from %}
