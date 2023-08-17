@@ -5,9 +5,11 @@
 </head>
 <body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}">
  {% include navbar.html %}
+ <div class="uk-section">
   <div class="uk-container" style="margin-bottom: 40px;">
    {{ content }}
   </div>
+ </div>
  {% include scripts.html %}
  </body>
 </html>
