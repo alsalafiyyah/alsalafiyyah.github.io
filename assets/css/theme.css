@@ -206,3 +206,6 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
   padding-bottom: 10px;
 }	
+.uk-button-group {
+ margin-bottom: 15px;
+}
