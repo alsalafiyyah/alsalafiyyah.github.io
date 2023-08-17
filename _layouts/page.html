@@ -105,13 +105,13 @@
         <a style="margin-right: 15px;"class="uk-icon-link uk-navbar-toggle" uk-close uk-toggle="target: .nav-overlay; animation: uk-animation-fade" href="#"></a>
     </div>
 </nav>
- 
+<div class="uk-section"> 
  <div class="uk-container" style="margin-bottom: 40px;">
-   <h3 class="uk-heading-bullet">{{ page.title }}</h3>
+   <h3>{{ page.title }}</h3>
    {{ content }}
    {% include source.html %}
  </div>
- 
+</div>
  {% include scripts.html %}
  <script src="https://cdn.jsdelivr.net/npm/uikit@3.16.23/dist/js/uikit.min.js"></script>
  <script src="https://cdn.jsdelivr.net/npm/uikit@3.16.23/dist/js/uikit-icons.min.js"></script>       
