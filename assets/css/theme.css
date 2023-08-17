@@ -174,3 +174,9 @@ h1, h2, h3, h4, h5, h6 {
     background-color: var(--bg-navbar);
     color: var(--color-text);
 }
+.footnotes {
+ border: 1px solid #999;
+ padding-top: 15px;
+ padding-right: 8px;
+ font-size: 14px;
+}
