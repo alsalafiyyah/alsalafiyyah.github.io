@@ -30,9 +30,6 @@ permalink: /books/
    </div>
    <div class="uk-card-footer uk-text-center">
     <a href="#{{ c.ids }}" class="uk-button uk-button-text" uk-toggle>Book Detail</a>
-   </div>
-  </div>
- </div>
  <div id="{{ c.ids }}" class="uk-modal-full" uk-modal>
   <div class="uk-modal-dialog">        
    <button class="uk-modal-close-full uk-close-large" type="button" uk-close></button>
@@ -51,6 +48,9 @@ permalink: /books/
     <div class="uk-background-cover" style="background-image: url('../assets/images/books/{{ c.img }}');" uk-height-viewport></div>
    </div>      
   </div>
- </div> 
+ </div>   
+   </div>
+  </div>
+ </div>
 {% endfor %}
 </div>
