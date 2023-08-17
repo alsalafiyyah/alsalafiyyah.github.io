@@ -203,6 +203,7 @@
  
   {% if page.muftis %}
    {% if page.muftis.shaykh %}
+    Author: 
     {% for shaykh in page.muftis.shaykh %}
        <li class="collection-item">
         <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}"><b>{{ shaykh.name }}</b></a>
