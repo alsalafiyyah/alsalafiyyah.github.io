@@ -1,6 +1,9 @@
-- img: books/beneficial-answers.jpeg
+- text: Beeficial Answers
+  img: books/beneficial-answers.jpeg
   url: /books/
-- img: books/talbis-iblis.jpeg
+- text: Talbis Iblis
+  img: books/talbis-iblis.jpeg
   url: /books/
-- img: books/tafsir-saadi.png
+- text: Tafsir Al-Saadi
+  img: books/tafsir-saadi.png
   url: /books/
