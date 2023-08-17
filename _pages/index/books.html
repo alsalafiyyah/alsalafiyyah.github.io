@@ -54,21 +54,3 @@ permalink: /books/
  </div> 
 {% endfor %}
 </div>
-<script type="text/javascript" language="javascript">
-$(document).ready(function() {
-  $('#grid').click(function(event) {
-    event.preventDefault()
-    $('.bc').addClass('grid')
-    $('.bc').removeClass('list')
-    localStorage.setItem('.bc', 'grid');
-  });
-  $('#list').click(function(event){
-    event.preventDefault();
-    $('.bc').addClass('list')
-    $('.bc').removeClass('grid')
-    localStorage.setItem('.bc', 'list')
-  })
-  let itemClass = localStorage.getItem('.bc')
-  $('.bc').addClass(itemClass)
-});
-</script>  
