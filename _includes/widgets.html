@@ -5,22 +5,13 @@
   <div class="uk-card-body">
    <a class="uk-link-text" href="{{ '/books/' | prepend:site.baseurl }}"><h4 class="uk-text-bold uk-text-uppercase">Free eBooks</h4></a>
     <ul class="uk-slider-items uk-grid">
-        <li class="uk-width-3-4">
-            <div class="uk-panel">
-                <img class="lazy" src="{{ "/assets/loader.gif" | relative_url }}" data-src="https://alsalafiyyah.github.io/assets/images/books/beneficial-answers.jpeg" width="400" height="600" alt="">
-                
-            </div>
-        </li>
-        <li class="uk-width-3-4">
-            <div class="uk-panel">
-                <img class="lazy" src="{{ "/assets/loader.gif" | relative_url }}" data-src="https://alsalafiyyah.github.io/assets/images/books/talbis-iblis.jpeg" width="400" height="600" alt="">
-            </div>
-        </li>
-        <li class="uk-width-3-4">
-            <div class="uk-panel">
-                <img class="lazy" src="{{ "/assets/loader.gif" | relative_url }}" data-src="https://alsalafiyyah.github.io/assets/images/books/tafsir-saadi.png" width="400" height="600" alt="">
-            </div>
-        </li>        
+     {% for c in site.data.slider %
+       <li class="uk-width-3-4">
+        <div class="uk-panel">
+         <img class="lazy" src="{{ "/assets/loader.gif" | relative_url }}" data-src="../assets/images/{{ c.img }}" width="400" height="600" alt="">              
+        </div>
+       </li>
+     {% endfor %}
     </ul>
   </div>
  </div>
