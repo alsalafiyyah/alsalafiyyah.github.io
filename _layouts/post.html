@@ -60,13 +60,16 @@
 </nav>
    
 <div class="hyperlink uk-container" style="margin-bottom: 40px;">
+ <div class="uk-card uk-card-default uk-card-body">
   <h3>{{ page.title }}</h3>
    {{ content }}
    {% if page.note %}
    <p>{{ site.note.text }}</p>
-   {% endif %}
-   {% include source.html %}
+   {% endif %}   
+ </div>
+ {% include source.html %}
 </div>
+ 
  {% include scripts.html %}
  <script src="https://cdn.jsdelivr.net/npm/uikit@3.16.23/dist/js/uikit.min.js"></script>
  <script src="https://cdn.jsdelivr.net/npm/uikit@3.16.23/dist/js/uikit-icons.min.js"></script>       
