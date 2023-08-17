@@ -162,7 +162,7 @@ h1, h2, h3, h4, h5, h6 {
  background-color: var(--bg-navbar) !important;
  color: var(--color-text) !important;
 }
-.uk-card-body, .uk-card-title, .uk-logo {
+.uk-card-body, .uk-card-title, .uk-logo, .uk-button-text, .uk-button, .uk-button-default, uk-icon {
   color: var(--color-text) !important;
 }
 @media screen and (min-width: 300px) and (max-width: 320px) {
@@ -180,3 +180,29 @@ h1, h2, h3, h4, h5, h6 {
  padding-right: 8px;
  font-size: 14px;
 }
+.bc.grid {
+  width: 50% important;
+  display: inline-block;
+  
+  .uk-card-body, .uk-card-footer {
+   padding: 8px !important;
+   margin: 0;
+  }
+  .uk-card-title {
+   font-size: 15px !important;
+   text-transform: capitalize;
+  }
+  .uk-card-body p {
+   font-size: 12px !important;
+   text-transform: capitalize;
+  }
+  .uk-button-text {
+   font-size: 14px !important;
+   text-transform: capitalize;
+  }
+}
+.bc.list {
+  width: 100% !important;	
+  display: block;
+  padding-bottom: 10px;
+}	
