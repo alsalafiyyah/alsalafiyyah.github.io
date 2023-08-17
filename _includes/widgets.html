@@ -1,21 +1,4 @@
 <div uk-height-match class="uk-child-width-expand@s" uk-grid>
-
-<div>
- <div class="uk-card uk-card-default uk-width-6-3@m uk-position-relative uk-visible-toggle uk-light" tabindex="-1" uk-slider="autoplay: true">
-  <div class="uk-card-body">
-   <a class="uk-link-text" href="{{ '/books/' | prepend:site.baseurl }}"><h4 class="uk-text-bold uk-text-uppercase">Free eBooks</h4></a>
-    <ul class="uk-slider-items uk-grid">
-     {% for c in site.data.slider %}
-       <li class="uk-width-3-4">
-        <div class="uk-panel">
-         <img class="lazy" src="{{ "/assets/loader.gif" | relative_url }}" data-src="../assets/images/{{ c.img }}" width="400" height="600" alt="">              
-        </div>
-       </li>
-     {% endfor %}
-    </ul>
-  </div>
- </div>
-</div>
  
 <div>
  <div class="uk-card uk-card-default uk-width-6-3@m">
@@ -47,4 +30,21 @@
  </div>
 </div>    
 
+<div>
+ <div class="uk-card uk-card-default uk-width-6-3@m uk-position-relative uk-visible-toggle uk-light" tabindex="-1" uk-slider="autoplay: true">
+  <div class="uk-card-body">
+   <a class="uk-link-text" href="{{ '/books/' | prepend:site.baseurl }}"><h4 class="uk-text-bold uk-text-uppercase">Latest Books</h4></a>
+    <ul class="uk-slider-items uk-grid">
+     {% for c in site.data.slider %}
+       <li class="uk-width-3-4">
+        <div class="uk-panel">
+         <img class="lazy" src="{{ "/assets/loader.gif" | relative_url }}" data-src="../assets/images/{{ c.img }}" width="400" height="600" alt="">              
+        </div>
+       </li>
+     {% endfor %}
+    </ul>
+  </div>
+ </div>
+</div>
+ 
 </div>
