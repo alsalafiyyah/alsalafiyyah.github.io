@@ -14,7 +14,7 @@ permalink: /books/
 <div class="uk-grid-small uk-grid-match" uk-height-match="target: > div > .uk-card" uk-grid>
 {% for c in site.data.books %}
  <div class="uk-width-1-2 bc">
-  <div class="uk-card uk-card-default">
+  <a href="#{{ c.ids }}" class="uk-card uk-card-default" uk-toggle>
    <div class="uk-card-media-top">
      <img 
       class="lazy" 
@@ -28,9 +28,8 @@ permalink: /books/
     <p class="uk-margin-remove-bottom uk-text-bold uk-margin-remove-bottom">{{ c.author }}</p>
     <h3 class="uk-text-default uk-margin-remove-top uk-card-title">{{ c.title }} {{ c.vol }}</h3>               
    </div>
-   <div class="uk-card-footer uk-text-center">
-    <a href="#{{ c.ids }}" class="uk-button uk-button-text" uk-toggle>Book Detail</a>
- <div id="{{ c.ids }}" class="uk-modal-full" uk-modal>
+  </a>
+<div id="{{ c.ids }}" class="uk-modal-full" uk-modal>
   <div class="uk-modal-dialog">        
    <button class="uk-modal-close-full uk-close-large" type="button" uk-close></button>
    <div class="uk-grid-collapse uk-child-width-1-2@s uk-flex-middle" uk-grid>
@@ -49,8 +48,7 @@ permalink: /books/
    </div>      
   </div>
  </div>   
-   </div>
-  </div>
+     
  </div>
 {% endfor %}
 </div>
