@@ -1,21 +1,21 @@
 <!-- Sidenav -->
 <div id="offcanvas-reveal" uk-offcanvas="mode: reveal; overlay: true">
-<div class="uk-offcanvas-bar uk-text-large">
+<div class="uk-offcanvas-bar uk-text-muted uk-text-large">
 {% for item in site.data.locales[page.locale].sidenav %}	
  <div class="uk-nav-header">
   <div class="uk-clearfix">
    <div class="uk-float-left">
-    <span class="uk-nav-header">{{ item.title }}</span>
+    <span class="uk-text-muted uk-nav-header">{{ item.title }}</span>
    </div>
    <div class="uk-float-right">      
    {% for item in item.all %}  
-    <a class="uk-button uk-button-text uk-text-capitalize" href="{{ item.url }}">{{ item.title }} <span uk-icon="icon: chevron-right"></span></a>
+    <a class="uk-button uk-button-text uk-link-muted uk-text-capitalize" href="{{ item.url }}">{{ item.title }} <span uk-icon="icon: chevron-right"></span></a>
     {% else %}
-    <a href="#"><span uk-icon="icon: world"></span> {{ site.data.locales[page.locale].page.language }} <span uk-drop-parent-icon></span></a>
+    <a class="uk-link-muted" href="#"><span uk-icon="icon: world"></span> {{ site.data.locales[page.locale].page.language }} <span uk-drop-parent-icon></span></a>
      <div uk-dropdown="mode: click">
       <ul class="uk-nav" uk-nav>
        {% for item in item.language %}
-        <li><a href="{{ item.url }}">{{ item.title }}</a></li>     
+        <li><a class="uk-link-muted" href="{{ item.url }}">{{ item.title }}</a></li>     
        {% endfor %}
       </ul>
      </div>     
@@ -25,7 +25,7 @@
  </div>	
 {% for item in item.items %}	
  <ul class="uk-nav uk-nav-primary">
-  <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+  <li><a class="uk-link-muted" href="{{ item.url }}">{{ item.title }}</a></li>
 {% endfor %}
  </ul>
 {% endfor %}	    
