@@ -1,0 +1,19 @@
+---
+layout: default
+title: Biographies
+active: biography
+permalink: /ar/biography/
+locale: ar
+uid: biography
+---
+<table class="uk-table" id="table">
+ <tbody>     
+  {% for c in site.data.biography %}	
+  <tr>
+   <td>
+    <a title="{{ c.title }}" href="{{ c.url }}">{{ c.title }}</a>  
+   </td>    
+  </tr>      
+  {% endfor %}	
+ </tbody>	
+</table>
