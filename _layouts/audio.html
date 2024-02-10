@@ -26,8 +26,8 @@
     <ul class="uk-list border-0">
     {% if page.muftis.shaykh %}
       {% for shaykh in page.muftis.shaykh %}
-      <li class="collection-item">
-       <i data-feather="mic"></i> <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}"><b>{{ shaykh.name }}</b></a>
+      <li>
+       <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}"><b>{{ shaykh.name }}</b></a>
       </li>
       {% endfor %}
      {% endif %}
