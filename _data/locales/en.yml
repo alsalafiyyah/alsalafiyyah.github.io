@@ -42,6 +42,8 @@ page:
   fatwas: Fatwas
   books: Books
   articles: Muqolat
+  language: Language
+
 
 # Sidenav
 sidenav:
