@@ -10,7 +10,7 @@
     </div>
     <div class="nav-overlay uk-navbar-left uk-flex-1" hidden>
         <div class="uk-navbar-item uk-width-expand">
-            <form action="{{ "search" | relative_url }}" class="uk-search uk-search-navbar uk-width-1-1">
+            <form action="{% if page.locale == 'ar' %}{{ "ar/search" | relative_url }}{% elsif page.locale == 'en' %}{{ "search" | relative_url }}{% endif %}" class="uk-search uk-search-navbar uk-width-1-1">
              <input name="q" id="search" class="uk-search-input" type="search" placeholder="{{ site.data.locales[page.locale].page.search }}" aria-label="Search" pattern=".{3,}" title="At least 3 characters" autofocus>
             </form>
         </div>
