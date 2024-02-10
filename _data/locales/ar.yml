@@ -44,7 +44,7 @@ page:
 
 # Sidenav
 sidenav:
-  - title: Menu
+  - title: قائمة
     items:
       - title: الرئيسية
         url: /ar
