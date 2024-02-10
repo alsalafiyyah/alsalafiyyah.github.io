@@ -21,6 +21,9 @@ menu:
   - name: Audios
     url: /audios
     active: audios
+  - name: Books
+    url: /books/
+    active: books
   - name: Muqolat
     url: /muqolat/
     active: muqolat
