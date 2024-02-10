@@ -444,3 +444,11 @@ nav ul a:hover {
 {
  display: none !important;
 }	
+
+.uk-offcanvas-bar, .uk-dropdown, .uk-navbar-dropdown {
+    background-color: var(--bg-navbar) !important;
+    color: var(--color-text) !important;
+}
+ .uk-offcanvas-bar a, .uk-navbar-dropdown-nav a {
+    color: var(--color-text) !important;
+ }
