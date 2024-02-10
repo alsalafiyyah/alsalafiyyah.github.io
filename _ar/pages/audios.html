@@ -1,0 +1,24 @@
+---
+layout: default
+title: صوتيات
+active: audios
+permalink: /ar/audios/
+locale: ar
+---
+<table class="uk-table">	
+ <tbody>     
+  {% for c in site.audios %}	
+  <tr>
+   <td>
+    <h3>
+     <a class="uk-link-reset uk-margin-remove-bottom" title="{{ c.title }}" href="{{ c.url }}">
+     {{ c.title }}
+     </a>
+    </h3>
+    <p class="uk-text-meta uk-margin-remove-top">{{ c.hijri }}</p>
+    </a>
+   </td>    
+  </tr>      
+  {% endfor %}	
+ </tbody>	
+</table> 
