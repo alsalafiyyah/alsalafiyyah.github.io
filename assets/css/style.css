@@ -1,3 +1,19 @@
+html{
+    --bg: #f1f1f1;
+    --color-heading: rgb(27, 168, 14); 
+    --color-text: #000;
+    --bg-navbar: #37474f;
+    --bg-card: #263238;
+    --section: #546d78;
+}
+html[data-theme='dark'] {
+    --bg: #111;
+    --color-heading: #0077ff; 
+    --color-text: #d9d9d9;
+    --bg-navbar: #111;
+    --bg-card: #222;
+    --section: #424242;
+}
 body {
   min-height: 100vh;
   /* mobile viewport bug fix */
@@ -44,3 +60,10 @@ background-color: #bdbdbd;
 .uk-close {
  margin-right: 12px;
 }
+.uk-offcanvas-bar, .uk-dropdown, .uk-navbar-dropdown {
+    background-color: var(--bg) !important;
+    color: var(--color-text) !important;
+}
+ .uk-offcanvas-bar a, .uk-navbar-dropdown-nav a {
+    color: var(--color-text) !important;
+ }
