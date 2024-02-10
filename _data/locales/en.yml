@@ -43,6 +43,27 @@ page:
   books: Books
   articles: Muqolat
 
+# Sidenav
+sidenav:
+  - title: Menu
+    items:
+      - title: Home
+        url: /
+      - title: Fatwas
+        url: /fatwas
+      - title: Audios
+        url: /audios
+      - title: Books
+        url: /books
+      - title: Muqolat
+        url: /muqolat
+    language:
+      - title: English
+        url: /
+      - title: عربي
+        url: /ar      
+
+
 post:
   dated: "Posted on:"
   print: Print
