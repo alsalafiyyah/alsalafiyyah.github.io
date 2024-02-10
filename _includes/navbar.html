@@ -8,8 +8,8 @@
          {% endfor %}
         </ul>
       </div>    
-     <a class="uk-navbar-item uk-logo" href="{{ relative_url }}">
-        {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}
+     <a class="uk-navbar-item uk-logo" href="{{ relative_url }}">        
+        {{ site.data.locales[page.locale].blog.title }}
      </a>   
     </div>
     <div class="nav-overlay uk-navbar-right">
