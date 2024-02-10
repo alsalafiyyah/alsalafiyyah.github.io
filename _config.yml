@@ -108,8 +108,10 @@ collections:
     permalink: /biography/:title/   
   ar:
     output: true
+    permalink: /:collection/:slug
   en: 
     output: true        
+    permalink: /:collection/:slug
 
 # Alifta Scholars
 group1:
