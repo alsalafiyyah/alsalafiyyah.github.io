@@ -1,21 +1,34 @@
-<ul id="slide-out" class="sidenav custom-nav">
-    <li class="center"><h5 class="bold">Salafiyyah</h5></li>
-    <li><div class="divider"></div></li>
-    {% for menu in site.data.sidenav %}
-    <li><a class="waves-effect" href="{{ menu.url | relative_url }}">{{ menu.title }}</a></li>
+<!-- Sidenav -->
+<div id="offcanvas-reveal" uk-offcanvas="mode: reveal; overlay: true">
+<div class="uk-offcanvas-bar uk-text-large">
+{% for item in site.data.locales[page.locale].sidenav %}	
+ <div class="uk-nav-header">
+  <div class="uk-clearfix">
+   <div class="uk-float-left">
+    <span class="uk-nav-header">{{ item.title }}</span>
+   </div>
+   <div class="uk-float-right">      
+   {% for item in item.all %}  
+    <a class="uk-button uk-button-text uk-text-capitalize" href="{{ item.url }}">{{ item.title }} <span uk-icon="icon: chevron-right"></span></a>
+    {% else %}
+    <a href="#"><span uk-icon="icon: world"></span> {{ site.data.locales[page.locale].page.language }} <span uk-drop-parent-icon></span></a>
+     <div uk-dropdown="mode: click">
+      <ul class="uk-nav" uk-nav>
+       {% for item in item.language %}
+        <li><a href="{{ item.url }}">{{ item.title }}</a></li>     
+       {% endfor %}
+      </ul>
+     </div>     
     {% endfor %}
-    <li><a class="waves-effect" href="https://instagram.com/Alsalafiyyah" target="_blank">Instagram</a></li>    
-    <li class="hide-on-large-only">
-     <a class="waves-effect" href="https://alsalafiyyah.github.io/assets/Salafiyyah_release.apk">Download App</a>
-    </li>    
-    <li>
-     <div class="switcher">
-     <input type="checkbox" class="checkbox" id="mode">
-     <label for="mode" class="checkbox-label">
-      <i class="fas fa-moon"></i>
-      <i class="fas fa-sun"></i>
-      <span class="ball"></span>
-     </label>        
-     </div>
-    </li>   
-  </ul>
+   </div>
+  </div>    
+ </div>	
+{% for item in item.items %}	
+ <ul class="uk-nav uk-nav-primary">
+  <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+{% endfor %}
+ </ul>
+{% endfor %}	    
+</div>
+</div>
+<!-- /Sidenav -->
