@@ -19,10 +19,16 @@ page:
   next: التالي
   prev: السابق
   more: المزيد
+  read_more: Read more
   categories: التصنيفات
   basmalah: بسم الله الرحمن الرحيم
   search: بحث
   home: الرئيسية
+  audios: صوتيات
+  fatwas: فتاوى
+  books: كتب
+  articles: مقالات
+
 
 post:
   dated: "تاريخ النشر في الموقع : "
