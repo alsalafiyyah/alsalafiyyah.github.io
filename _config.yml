@@ -17,6 +17,7 @@ lang: en
 safe: true
 future: true
 locales: ["en", "ar"]
+language_default: en
 note:
     text: "May Allah grant us success. May peace and blessings be upon our Prophet, his family and Companions"
 include:
