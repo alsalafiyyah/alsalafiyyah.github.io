@@ -18,14 +18,14 @@ locale: en
 </ul>
 <ul class="uk-pagination">
   {% if paginator.previous_page %}
-   <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}"><span class="uk-margin-small-right" uk-pagination-previous></span> Previous</a></li>
+   <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}"><span class="uk-margin-small-right" uk-pagination-previous></span> {{ site.data.locales[page.locale].page.prev }}</a></li>
   {% else %}
-   <li class="uk-disabled"><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}"><span class="uk-margin-small-right" uk-pagination-previous></span> Previous</a></li>
+   <li class="uk-disabled"><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}"><span class="uk-margin-small-right" uk-pagination-previous></span> {{ site.data.locales[page.locale].page.prev }}</a></li>
   {% endif %}
   
   {% if paginator.next_page %}
-   <li class="uk-margin-auto-left"><a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Next <span class="uk-margin-small-left" uk-pagination-next></span></a></li>
+   <li class="uk-margin-auto-left"><a href="{{ paginator.next_page_path | prepend: site.baseurl }}">{{ site.data.locales[page.locale].page.next }} <span class="uk-margin-small-left" uk-pagination-next></span></a></li>
    {% else %}
-   <li class="uk-margin-auto-left uk-disabled"><a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Next <span class="uk-margin-small-left" uk-pagination-next></span></a></li>
+   <li class="uk-margin-auto-left uk-disabled"><a href="{{ paginator.next_page_path | prepend: site.baseurl }}">{{ site.data.locales[page.locale].page.next }} <span class="uk-margin-small-left" uk-pagination-next></span></a></li>
   {% endif %}
 </ul>
