@@ -36,9 +36,12 @@ menu:
 page:
   next: Next
   prev: Prev
-  more: Read more
+  more: More
+  read_more: Read more
   categories: Categories
   basmalah: "In the Name of Allah, the Most Beneficent, the Most Merciful."
+  home: Home
+  search: Search
 
 post:
   dated: "Posted on:"
