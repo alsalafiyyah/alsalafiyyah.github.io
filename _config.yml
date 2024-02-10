@@ -83,6 +83,15 @@ defaults:
   - scope:
       path: "_pages"
       type: "pages"
+  - scope: 
+      path: _ar/**
+    values: 
+      locale: ar
+  - scope: 
+      path: _en/**
+    values: 
+      locale: en
+
 
 collections:
   refutals:
