@@ -42,6 +42,26 @@ page:
   books: كتب
   articles: مقالات
 
+# Sidenav
+sidenav:
+  - title: Menu
+    items:
+      - title: الرئيسية
+        url: /ar
+      - title: فتاوى
+        url: /ar/fatwas
+      - title: صوتيات
+        url: /ar/audios
+      - title: كتب
+        url: /ar/books
+      - title: مقالات
+        url: /ar/muqolat
+    language:
+      - title: English
+        url: /
+      - title: عربي
+        url: /ar      
+
 
 post:
   dated: "تاريخ النشر في الموقع : "
