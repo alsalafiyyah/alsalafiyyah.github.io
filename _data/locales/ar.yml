@@ -12,8 +12,21 @@ blog:
 
 menu:
   - name: الرئيسية
-    link: /ar/
+    url: /ar/
     active: home
+  - name: فتاوى
+    url: /ar/fatwas/
+    active: fatwas
+  - name: صوتيات
+    url: /ar/audios
+    active: audios
+  - name: كتب
+    url: /ar/books/
+    active: books
+  - name: مقالات
+    url: /ar/muqolat/
+    active: muqolat
+
 
 page:
   next: التالي
