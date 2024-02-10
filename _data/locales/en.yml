@@ -10,28 +10,21 @@ blog:
   ar: "ع"
   en: "en"
 
+
 menu:
   - name: Home
-    link: /
+    url: /
     active: home
-  - name: Muqolat
-    link: /muqolat/
-    active: muqolat
   - name: Fatwas
-    link: /fatwas/
+    url: /fatwas/
     active: fatwas
-  - name: Browse
-    link: /topic
-    active: topic
-  - name: Downloads
-    link: /downloads/
-    active: downloads
-  - name: Wahhabiyah
-    link: /wahhabism/
-    active: wahhabiyah
-  - name: Refutals
-    link: /refutations/
-    active: refutations
+  - name: Audios
+    url: /audios
+    active: audios
+  - name: Muqolat
+    url: /muqolat/
+    active: muqolat
+
 
 page:
   next: Next
