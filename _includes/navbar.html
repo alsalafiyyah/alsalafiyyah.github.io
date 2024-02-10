@@ -1,6 +1,8 @@
 <nav class="uk-navbar-container uk-margin" uk-navbar>
-    <div class="nav-overlay uk-navbar-left">
+   <div class="nav-overlay uk-navbar-left">
     <a class="uk-navbar-toggle" uk-navbar-toggle-icon uk-toggle="target: #offcanvas-reveal" href="#"></a>
+    </div>
+    <div class="nav-overlay uk-navbar-center">
      <a class="uk-navbar-item uk-logo" href="{{ relative_url }}">        
        {% if page.title %}{{ page.title }}{% else %}{{ site.data.locales[page.locale].blog.title }}{% endif %}       
      </a>   
