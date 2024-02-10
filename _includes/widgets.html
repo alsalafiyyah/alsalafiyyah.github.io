@@ -10,7 +10,7 @@
       <li><a class="uk-text-capitalize uk-link-text" href="{{ post.url }}"><span uk-icon="chevron-double-right"></span> {{ post.title }}</a></li>
      {% endif %}
     {% endfor %}
-    <li {% if page.locale == 'ar' %}dir="rtl"{% endif %}><a href="{{ '/fatwas/' | prepend:site.baseurl }}" class="uk-text-capitalize uk-align-right uk-link-text uk-button uk-button-text">{{ site.data.locales[page.locale].page.more }} {% if page.locale == 'ar' %}<span uk-icon="chevron-double-left"></span>{% elsif page.locale == 'en' %}<span uk-icon="chevron-double-right"></span>{% endif %}</a></li>
+    <li {% if page.locale == 'ar' %}dir="rtl"{% endif %}><a href="{% if page.locale == 'ar' %}{{ '/ar/fatwas/' | prepend:site.baseurl }}{% elsif page.locale == 'en' %}{{ '/fatwas/' | prepend:site.baseurl }}{% endif %}" class="uk-text-capitalize uk-align-right uk-link-text uk-button uk-button-text">{{ site.data.locales[page.locale].page.more }} {% if page.locale == 'ar' %}<span uk-icon="chevron-double-left"></span>{% elsif page.locale == 'en' %}<span uk-icon="chevron-double-right"></span>{% endif %}</a></li>
     </ul>
   </div>  
  </div>
@@ -24,7 +24,7 @@
     {% for c in site.audios | limit:5 %}
      <li><a class="uk-text-capitalize uk-link-text" href="{{ c.url }}"><span uk-icon="play"></span> {{ c.title }}</a></li>
     {% endfor %}
-    <li {% if page.locale == 'ar' %}dir="rtl"{% endif %}><a href="{{ '/audios/' | prepend:site.baseurl }}" class="uk-text-capitalize uk-align-right uk-link-text uk-button uk-button-text">{{ site.data.locales[page.locale].page.more }} {% if page.locale == 'ar' %}<span uk-icon="chevron-double-left"></span>{% elsif page.locale == 'en' %}<span uk-icon="chevron-double-right"></span>{% endif %}</a></li>
+    <li {% if page.locale == 'ar' %}dir="rtl"{% endif %}><a href="{% if page.locale == 'ar' %}{{ '/ar/audios/' | prepend:site.baseurl }}{% elsif page.locale == 'en' %}{{ '/audios/' | prepend:site.baseurl }}{% endif %}" class="uk-text-capitalize uk-align-right uk-link-text uk-button uk-button-text">{{ site.data.locales[page.locale].page.more }} {% if page.locale == 'ar' %}<span uk-icon="chevron-double-left"></span>{% elsif page.locale == 'en' %}<span uk-icon="chevron-double-right"></span>{% endif %}</a></li>
     </ul>   
    </div>
  </div>
@@ -33,7 +33,7 @@
 <div class="hide">
  <div class="uk-card uk-card-default uk-width-6-3@m uk-position-relative uk-visible-toggle uk-light" tabindex="-1" uk-slider="autoplay: true">
   <div class="uk-card-body">
-   <a class="uk-link-text" href="{{ '/books/' | prepend:site.baseurl }}"><h4 class="uk-text-bold uk-text-uppercase">{{ site.data.locales[page.locale].page.books }}</h4></a>
+   <a class="uk-link-text" href="{% if page.locale == 'ar' %}{{ '/ar/books/' | prepend:site.baseurl }}{% elsif page.locale == 'en' %}{{ '/books/' | prepend:site.baseurl }}{% endif %}"><h4 class="uk-text-bold uk-text-uppercase">{{ site.data.locales[page.locale].page.books }}</h4></a>
     <ul class="uk-slider-items uk-grid">
      {% for c in site.data.slider %}
        <li class="uk-width-3-4">
