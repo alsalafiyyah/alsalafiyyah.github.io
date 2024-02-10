@@ -19,7 +19,8 @@
     | sort: "locale" %}
   {% for item in postsOrPages %}
    {% unless item.url contains '/page/' %}               
-               <option value="{{ site.baseurl }}{{ item.url }}">{{ site.data.locales[page.locale].blog.en }}</option>
+               <option value="{{ site.baseurl }}{{ item.url }}" selected>{{ site.data.locales[page.locale].blog.en }}</option>
+               <option value="{{ site.baseurl }}{{ item.url }}">{{ site.data.locales[page.locale].blog.ar }}</option>
    {% endunless %}
   {% endfor %}
  {% elsif page.locale == 'ar' %}
@@ -30,7 +31,8 @@
     | sort: "locale" %}
   {% for item in postsOrPages %}
    {% unless item.url contains '/page/' %}               
-                <option value="{{ site.baseurl }}{{ item.url }}">{{ site.data.locales[page.locale].blog.ar }}</option>
+                <option value="{{ site.baseurl }}{{ item.url }}">{{ site.data.locales[page.locale].blog.en }}</option>
+                <option value="{{ site.baseurl }}{{ item.url }}" selected>{{ site.data.locales[page.locale].blog.ar }}</option>
    {% endunless %}
   {% endfor %}
             </select>
