@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ page.locale }}" data-theme="light">
+<html lang="{{ page.locale | default: site.language_default | default: 'en' }}" data-theme="light">
 <head>
  {% include meta.html %}
 </head>
