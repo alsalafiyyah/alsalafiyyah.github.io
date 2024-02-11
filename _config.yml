@@ -86,6 +86,11 @@ defaults:
   - scope:
       path: "_pages"
       type: "pages"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"      
   - scope: 
       path: _ar/**
     values: 
