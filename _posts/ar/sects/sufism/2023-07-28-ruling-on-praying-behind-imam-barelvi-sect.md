@@ -5,7 +5,7 @@ title: حكم الصلاة خلف إمام من طائفة البريلوية
 hijri: Muharram 10, 1445 AH
 date: July 28, 2023
 source: 8 ثمرات التدوين ص 
-lang: ar
+locale: ar
 note: false
 uthaymeen: true
 category: [sufism, barelvi]
