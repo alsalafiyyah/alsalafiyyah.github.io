@@ -5,7 +5,7 @@ title: Ruling on praying behind an imam from the bareilawi sect
 hijri: Muharram 10, 1445 AH
 date: July 28, 2023
 source: Thamarat Al-Tadwin min Fatawa Ibn 'Uthaymeen p.8 
-lang: en
+locale: en
 note: false
 uthaymeen: true
 category: [sufism, barelvi]
