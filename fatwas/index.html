@@ -7,7 +7,8 @@ locale: en
 ---
 
 <ul class="uk-list uk-list-divider">
-{% for post in paginator.posts %}	
+{% assign paginator.posts = (site.posts | where: "locale" , "en") %}
+ {% for post in paginator.posts %}	
  <li>
  <a href="{{ post.url | prepend: site.baseurl }}">
   <h3 class="uk-margin-remove-bottom">{{ post.title }}</h3>
