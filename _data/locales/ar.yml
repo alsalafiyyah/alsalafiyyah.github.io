@@ -43,6 +43,10 @@ page:
   articles: مقالات
   language: اللغة
   biography: سيرة
+  mufti: المفتي
+  date: تاريخ النشر في الموقع
+  fatwa_num: رقم الفتوى
+  source: المصدر
 
 
 # Sidenav
