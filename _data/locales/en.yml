@@ -43,6 +43,11 @@ page:
   books: Books
   articles: Muqolat
   language: Language
+  mufti: Mufti
+  muftis: Muftis
+  date: Date 
+  fatwa_num: Fatwa No.
+  source: Source
 
 
 # Sidenav
