@@ -24,7 +24,7 @@
     </div>         
         </div>
 </nav> 
-<div class="uk-section">   
+<div {% if page.locale == 'ar' %}dir="rtl"{% endif %} class="uk-section">   
 <div class="hyperlink uk-container" style="margin-bottom: 40px;">
   <h3>{{ page.title }}</h3>
    {{ content }}
@@ -34,7 +34,6 @@
  {% include source.html %}
 </div>
 </div>
-
  {% include scripts.html %}
 </body>
 </html>
