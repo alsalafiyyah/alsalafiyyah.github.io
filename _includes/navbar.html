@@ -8,25 +8,6 @@
      </a>   
     </div>
     <div class="nav-overlay uk-navbar-right">
-{% if page.uid %} <!-- #1 -->
-<div class="language-selector">
-  {% assign postsOrPages = site.posts <!-- #2 -->
-    | concat: site.pages  
-    | concat: site.ar 
-    | where: "uid", page.uid 
-    | sort: "locale" %}
-        <div uk-form-custom="target: true">
-            <select aria-label="Custom controls">   
-  {% for item in postsOrPages %}
-  {% unless item.url contains '/page/' %} <!-- #3 -->
-                <option value="{{ item.url }}">{{ site.data.locales[item.locale].name }}</option>
-  {% endunless %}
-  {% endfor %}
-            </select>
-            <span></span>
-        </div>                  
-</div>
-{% endif %}       
        <a class="uk-icon-link uk-navbar-toggle" uk-search-icon uk-toggle="target: .nav-overlay; animation: uk-animation-fade" href="#"></a>       
     </div>
     <div class="nav-overlay uk-navbar-left uk-flex-1" hidden>
