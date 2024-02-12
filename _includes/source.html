@@ -3,21 +3,21 @@
 
  {% if page.hijri %}
     <li class="collection-item">
-    Date: {{ page.hijri }}
+    {{ site.data.locales[page.locale].page.date }}: {{ page.hijri }}
     {% else %} {{ site.hijri.name }} 
     </li>
  {% endif %}
  
  {% if page.source %}
    <li class="collection-item">
-    Source: {{ page.source }} {% else %}
+   {{ site.data.locales[page.locale].page.source }}: {{ page.source }} {% else %}
     </li>
  {% endif %}
  
  {% if page.binbaz %}
   {% if site.binbaz %}
    <li class="collection-item">
-    Author: 
+    {{ site.data.locales[page.locale].page.mufti }}: 
     <a title="{{ site.binbaz.name }}" href="{{ site.binbaz.url }}">{{ site.binbaz.name }}</a>
     </li>
   {% endif %}
@@ -26,7 +26,7 @@
  {% if page.fawzan %}
   {% if site.fawzan %}
    <li class="collection-item">
-    Author: 
+    {{ site.data.locales[page.locale].page.mufti }}: 
     <a title="{{ site.fawzan.name }}" href="{{ site.fawzan.url }}">{{ site.fawzan.name }}</a>
     </li>
   {% endif %}
@@ -35,7 +35,7 @@
  {% if page.uthaymeen %}
   {% if site.uthaymeen %}
    <li class="collection-item">
-    Author: 
+    {{ site.data.locales[page.locale].page.mufti }}: 
     <a title="{{ site.uthaymeen.name }}" href="{{ site.uthaymeen.url }}">{{ site.uthaymeen.name }}</a>
     </li>
   {% endif %}
@@ -193,7 +193,7 @@
  
  {% if page.shaykhs %}
   <li class="collection-item">
-   Authors: 
+   {{ site.data.locales[page.locale].page.muftis }}: 
   {% for sh in page.shaykhs %}
    {{ sh }}
    {% unless forloop.last %},{% endunless %}
@@ -242,7 +242,7 @@
    {% if page.article_taken_from.taken_from %}
     {% for p in page.article_taken_from.taken_from %}
        <li class="collection-item">
-        Source: <a href="{{ p.web_url }}" target="_blank"><b>{{ p.web_title }}</b></a>
+        {{ site.data.locales[page.locale].page.source }}: <a href="{{ p.web_url }}" target="_blank"><b>{{ p.web_title }}</b></a>
        </li>
     {% endfor %}
    {% endif %}
