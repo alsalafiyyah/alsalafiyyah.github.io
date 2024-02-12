@@ -8,6 +8,22 @@
      </a>   
     </div>
     <div class="nav-overlay uk-navbar-right">
+{% if page.uid %} <!-- #1 -->
+<div class="language-selector">
+  {% assign postsOrPages = site.posts <!-- #2 -->
+    | concat: site.pages  
+    | concat: site.ar
+    | where: "uid", page.uid 
+    | sort: "locale" %}
+  {% for item in postsOrPages %}
+  {% unless item.url contains '/page/' %} <!-- #3 -->
+  <a href="{{ item.url }}" class="{{ item.locale }}">
+    {{ site.data.locales[item.locale].name }} <!-- #4 -->
+  </a>
+  {% endunless %}
+  {% endfor %}
+</div>
+{% endif %}       
        <a class="uk-icon-link uk-navbar-toggle" uk-search-icon uk-toggle="target: .nav-overlay; animation: uk-animation-fade" href="#"></a>       
     </div>
     <div class="nav-overlay uk-navbar-left uk-flex-1" hidden>
