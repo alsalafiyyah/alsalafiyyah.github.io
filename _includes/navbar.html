@@ -15,16 +15,16 @@
     | concat: site.ar 
     | where: "uid", page.uid 
     | sort: "locale" %}
+        <div uk-form-custom="target: true">
+            <select aria-label="Custom controls">   
   {% for item in postsOrPages %}
   {% unless item.url contains '/page/' %} <!-- #3 -->
-        <div uk-form-custom="target: true">
-            <select aria-label="Custom controls">
                 <option value="{{ item.url }}">{{ site.data.locales[item.locale].name }}</option>
-            </select>
-            <span></span>
-        </div>   
   {% endunless %}
   {% endfor %}
+            </select>
+            <span></span>
+        </div>                  
 </div>
 {% endif %}       
        <a class="uk-icon-link uk-navbar-toggle" uk-search-icon uk-toggle="target: .nav-overlay; animation: uk-animation-fade" href="#"></a>       
