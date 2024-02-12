@@ -2,14 +2,14 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: حكم الصلاة خلف إمام من طائفة البريلوية
-hijri: Muharram 10, 1445 AH
+hijri: محرم 10, 1445 AH
 date: July 28, 2023
 source: ثمرات التدوين ص 8
 locale: ar
 note: false
 uthaymeen: true
 category: [sufism, barelvi]
-excerpt: "What is the ruling on praying behind an imam from the bareilawi sect, who believes that the Prophet ﷺ is alive and present and can see us."
+excerpt: "ما حكم الصلاة خلف إمام من طائفة البريلوية ، الذين يعتقدون أن النبي صلى الله عليه وسلم حي حاضر ناظر"
 ---
 
 س:
