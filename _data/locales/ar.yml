@@ -48,7 +48,10 @@ page:
   date: تاريخ النشر في الموقع
   fatwa_num: رقم الفتوى
   source: المصدر
-
+  website_is_under_maintenance: الموقع تحت الصيانة!
+  members: 
+  chairman: 
+  deputy_chairman: 
 
 # Sidenav
 sidenav:
