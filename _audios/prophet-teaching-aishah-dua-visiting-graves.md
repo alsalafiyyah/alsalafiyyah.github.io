@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "The Prophet (peace be upon him) teaching 'Aishah (may Allah be pleased with her) the Du'a of visiting graves"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_775/nour_77509.mp3

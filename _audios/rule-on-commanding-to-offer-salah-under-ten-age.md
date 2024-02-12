@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "Ruling on commanding one's children under ten to offer Salah"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_947/nour_94719.mp3

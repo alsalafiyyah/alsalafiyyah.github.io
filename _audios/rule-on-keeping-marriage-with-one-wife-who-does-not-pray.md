@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "Ruling on keeping marriage with one wife who does not pray"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_168/16803.mp3

@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 publisher: alsalafiyyah@icloud.com
 title: "The ruling on smiling during Salah"
 hijri: "Rabi' Al-Thani 02, 1442 AH"

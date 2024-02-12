@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "Ruling on calling oneself Athari"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb 3"

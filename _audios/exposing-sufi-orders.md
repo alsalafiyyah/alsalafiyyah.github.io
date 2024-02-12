@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "Exposing Sufi orders"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_923/nour_92304.mp3

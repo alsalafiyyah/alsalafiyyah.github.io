@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "How to know the Bid'ah and its divisions"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_512/51202.mp3

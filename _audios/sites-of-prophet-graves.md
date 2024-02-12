@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "Sites of the Prophets' graves"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_638/nour_63813.mp3

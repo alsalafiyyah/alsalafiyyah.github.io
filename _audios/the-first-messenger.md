@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "Noah was the first messenger"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 1"

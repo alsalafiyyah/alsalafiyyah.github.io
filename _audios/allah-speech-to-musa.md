@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "Allah's Speech (Exalted be He) to Musa (peace be upon him)"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_636/nour_63614.mp3

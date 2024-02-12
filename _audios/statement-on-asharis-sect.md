@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "Statement on the sect of Asha'irah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 3"

@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "Ruling on carrying flags for Awliya"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 3"

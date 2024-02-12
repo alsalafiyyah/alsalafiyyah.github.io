@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "How to achieve Tawhid"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_595/59520.mp3

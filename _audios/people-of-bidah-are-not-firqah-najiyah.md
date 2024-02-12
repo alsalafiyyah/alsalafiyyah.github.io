@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "People of Bid'ah are not of Al-Firqah Al-Najiyah (The Saved sect)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb of Ibn Baz tape no. 307 question 4"

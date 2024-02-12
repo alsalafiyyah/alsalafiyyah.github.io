@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "Women offering Janazah Prayer "
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_599/59907.mp3

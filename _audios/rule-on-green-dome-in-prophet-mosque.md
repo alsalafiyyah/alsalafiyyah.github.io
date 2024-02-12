@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "Ruling on the green dome on the grave of the Prophet (peace be upon him)"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_667/nour_66701.mp3

@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "Ruling on Funeral Prayer for people transgressing Shari'ah"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_069/06913.mp3

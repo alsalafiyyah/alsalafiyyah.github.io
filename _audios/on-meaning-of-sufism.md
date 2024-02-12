@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "Who are the Sufis?"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 3"

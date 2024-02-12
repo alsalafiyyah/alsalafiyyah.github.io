@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "Difference between repentance and praying for forgiveness"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_734/nour_73405.mp3

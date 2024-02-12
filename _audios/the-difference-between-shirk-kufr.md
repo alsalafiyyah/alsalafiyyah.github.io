@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "The difference between Shirk and Kufr"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb of Ibn Baz tape no. 394"

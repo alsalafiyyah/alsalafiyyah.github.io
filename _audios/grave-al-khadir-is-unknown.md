@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "Exposition that the exact location of the grave of Al-Khadir is unknown"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_811/nour_81107.mp3

@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "The grave of Pophets is unknown"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/أين توجد قبور الأنبياء التالية (عمران، وصالح، وأيوب، وهود)؟.mp3

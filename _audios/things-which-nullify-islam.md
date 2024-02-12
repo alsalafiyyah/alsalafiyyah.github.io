@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "The things that nullify one's Islam"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_414/41404.mp3

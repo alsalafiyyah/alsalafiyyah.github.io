@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "Ruling on claiming knowledge of Ghayb"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_871/nour_87107.mp3

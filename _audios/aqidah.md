@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "The word 'Aqidah"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_513/51313.mp3

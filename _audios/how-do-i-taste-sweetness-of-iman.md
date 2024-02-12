@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "How do I taste the sweetness of Iman (faith)"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_291/29122.mp3

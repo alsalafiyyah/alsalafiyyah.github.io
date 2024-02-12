@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "Ruling on excusing grave worshippers"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Muqalat 9/285"

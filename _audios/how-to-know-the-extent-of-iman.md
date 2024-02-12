@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: " How can a Muslim know the extent of his Iman"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_596/59615.mp3

@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "The location of the grave of Al-Husayn"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_168/16806.mp3

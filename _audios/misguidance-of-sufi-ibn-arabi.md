@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "Revealing the misguidance of the Sufi scholar Ibn 'Arabi"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 3"

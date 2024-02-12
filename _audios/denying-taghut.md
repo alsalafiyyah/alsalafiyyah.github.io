@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "Meaning of denying Al-Taghut (false deities)"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_739/nour_73903.mp3

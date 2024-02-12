@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "Ruling on Rifaiyyah Tariqah (Sufi order)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 3"

@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "Al-Qadariyyah are the magians of this Ummah"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_935/nour_93503.mp3

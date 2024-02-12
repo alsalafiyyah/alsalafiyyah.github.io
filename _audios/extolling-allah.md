@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "Extolling Allah means praising Him a lot"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_849/nour_84912.mp3

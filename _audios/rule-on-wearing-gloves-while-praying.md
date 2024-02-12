@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 publisher: alsalafiyyah@icloud.com
 title: "Ruling on wearing gloves while praying"
 hijri: "Rabi' Al-Thani 02, 1442 AH"
