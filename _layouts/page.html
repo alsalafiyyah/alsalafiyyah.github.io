@@ -60,9 +60,29 @@
 </nav> 
 <div class="uk-section"> 
  <div class="uk-container" style="margin-bottom: 40px;">
-   <h3>{{ page.title }}</h3>
+  <h3 class="uk-heading-bullet">{{ page.title }}</h3>
+  {% if page.active == "audios" %}
+   <audio controls>
+    <source type="audio/mp3" src="{{ page.mp3 }}">
+    <p>Your browser does not support the audio element.</p>
+   </audio>
+  {% endif %}
    {{ content }}
-   {% include source.html %}
+  {% if page.active == "audios" %}
+     {% if page.muftis %}    
+    <ul class="uk-list border-0">
+    {% if page.muftis.shaykh %}
+      {% for shaykh in page.muftis.shaykh %}
+      <li>
+       <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}"><b>{{ shaykh.name }}</b></a>
+      </li>
+      {% endfor %}
+     {% endif %}
+     </ul>
+   {% endif %}
+  {% else %}
+  {% include source.html %}
+  {% endif %}
  </div>
 </div>
  {% include scripts.html %}       
