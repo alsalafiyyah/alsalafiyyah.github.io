@@ -5,12 +5,21 @@
   <div class="uk-card-body">
    <ul class="uk-list">
     <li {% if page.locale == 'ar' %}dir="rtl"{% endif %}><h4 class="uk-heading-line uk-text-bold uk-text-uppercase">{{ site.data.locales[page.locale].page.fatwas }}</h4></li>
+    {% if page.locale == 'en' %}
     {% assign posts_en = (site.posts | where: "locale" , "en") %}
     {% for post in posts_en limit:5 %}
      {% if post.url %}
       <li><a class="uk-text-capitalize uk-link-text" href="{{ post.url }}"><span uk-icon="chevron-double-right"></span> {{ post.title }}</a></li>
      {% endif %}
     {% endfor %}
+    {% elsif page.locale == 'ar' %}
+    {% assign posts_ar = (site.posts | where: "locale" , "ar") %}
+    {% for post in posts_ar limit:5 %}
+     {% if post.url %}
+      <li><a class="uk-text-capitalize uk-link-text" href="{{ post.url }}"><span uk-icon="chevron-double-right"></span> {{ post.title }}</a></li>
+     {% endif %}
+    {% endfor %}
+    {% endif %}
     <li {% if page.locale == 'ar' %}dir="rtl"{% endif %}><a href="{% if page.locale == 'ar' %}{{ '/ar/fatwas/' | prepend:site.baseurl }}{% elsif page.locale == 'en' %}{{ '/fatwas/' | prepend:site.baseurl }}{% endif %}" class="uk-text-capitalize uk-align-right uk-link-text uk-button uk-button-text">{{ site.data.locales[page.locale].page.more }} {% if page.locale == 'ar' %}<span uk-icon="chevron-double-left"></span>{% elsif page.locale == 'en' %}<span uk-icon="chevron-double-right"></span>{% endif %}</a></li>
     </ul>
   </div>  
