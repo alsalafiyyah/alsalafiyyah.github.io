@@ -49,9 +49,7 @@ page:
   fatwa_num: رقم الفتوى
   source: المصدر
   website_is_under_maintenance: الموقع تحت الصيانة!
-  members: 
-  chairman: 
-  deputy_chairman: 
+
 
 # Sidenav
 sidenav:
@@ -83,6 +81,7 @@ post:
   book: الكتاب
   vol: المجلد
   end: "وبالله التوفيق. وصلى الله على نبينا محمد، وآله وصحبه وسلم."
-  deputy: الرئيس
+  deputy_chairman: الرئيس
   chairman: نائب رئيس اللجنة
   member: عضو
+  members: عضو
