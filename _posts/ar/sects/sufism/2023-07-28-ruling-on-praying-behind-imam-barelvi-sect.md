@@ -7,9 +7,12 @@ date: July 28, 2023
 source: ثمرات التدوين ص 8
 locale: ar
 note: false
-uthaymeen_ar: true
 category: [sufism, barelvi]
 excerpt: "ما حكم الصلاة خلف إمام من طائفة البريلوية ، الذين يعتقدون أن النبي صلى الله عليه وسلم حي حاضر ناظر"
+muftis:
+  shaykh: 
+    - name: الشيخ ابن عثيمين
+      url: /biography/uthaymeen
 ---
 
 س: ما حكم الصلاة خلف إمام من طائفة البريلوية ، الذين يعتقدون أن النبي صلى الله عليه وسلم حي حاضر ناظر ؟
