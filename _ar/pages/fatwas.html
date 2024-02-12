@@ -8,7 +8,8 @@ permalink: /ar/fatwas/
 ---
 <table class="uk-table">	
  <tbody>     
-  {% for post in site.posts %}	
+  {% assign posts_ar = (site.posts | where: "locale" , "ar") %}
+  {% for post in posts_ar %}	
   <tr>
    <td>
     <h3>
