@@ -20,23 +20,11 @@
              {% endif %}
             </div>
     <div class="uk-navbar-right">
-
-    </div>         
-        </div>
-</nav> 
-<div {% if page.locale == 'ar' %}dir="rtl"{% endif %} class="uk-section">   
-<div class="hyperlink uk-container" style="margin-bottom: 40px;">
-  <h3>{{ page.title }}</h3>
-   {{ content }}
-   {% if page.note %}
-   <p>{{ site.note.text }}</p>
-   {% endif %}   
- {% include source.html %}
 {% if page.uid %} <!-- #1 -->
-<div class="language-selector">
+<div class="">
   {% assign postsOrPages = site.posts <!-- #2 -->
     | concat: site.pages  
-    | concat: site.ar 
+    | concat: site.en 
     | where: "uid", page.uid 
     | sort: "locale" %}
   {% for item in postsOrPages %}
@@ -48,6 +36,17 @@
   {% endfor %}
 </div>
 {% endif %} 
+    </div>         
+        </div>
+</nav> 
+<div {% if page.locale == 'ar' %}dir="rtl"{% endif %} class="uk-section">   
+<div class="hyperlink uk-container" style="margin-bottom: 40px;">
+  <h3>{{ page.title }}</h3>
+   {{ content }}
+   {% if page.note %}
+   <p>{{ site.note.text }}</p>
+   {% endif %}   
+ {% include source.html %}
 </div>
 </div>
  {% include scripts.html %}
