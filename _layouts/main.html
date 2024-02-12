@@ -12,7 +12,7 @@
 <div class="language-selector">
   {% assign postsOrPages = site.posts <!-- #2 -->
     | concat: site.pages  
-    | concat: site.zh 
+    | concat: site.ar 
     | where: "uid", page.uid 
     | sort: "locale" %}
   {% for item in postsOrPages %}
