@@ -1,5 +1,5 @@
 ---
-layout: audio
+layout: page
 title: "Actions and deeds that bring a person closer to Jannah (Paradise) and further them away from Hellfire"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_283/28311.mp3
