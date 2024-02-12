@@ -48,6 +48,7 @@ page:
   date: Date 
   fatwa_num: Fatwa No.
   source: Source
+  website_is_under_maintenance: Website is under maintenance
 
 
 # Sidenav
@@ -80,6 +81,7 @@ post:
   book: Book
   vol: Vol
   end: "May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions."
-  deputy: Deputy
+  deputy_chairman: Deputy
   chairman: Deputy Chairman
   member: Member
+  members: Members
