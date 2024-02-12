@@ -5,28 +5,21 @@ active: fatwas
 uid: fatwas
 locale: en
 ---
-
-<ul class="uk-list uk-list-divider">
-{% assign paginator.posts = (site.posts | where: "locale" , "en") %}
- {% for post in paginator.posts %}	
- <li>
- <a href="{{ post.url | prepend: site.baseurl }}">
-  <h3 class="uk-margin-remove-bottom">{{ post.title }}</h3>
- </a>
- <p class="uk-text-meta uk-margin-remove-top">{{ post.hijri }}</p>  
- </li>
-{% endfor %}
-</ul>
-<ul class="uk-pagination">
-  {% if paginator.previous_page %}
-   <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}"><span class="uk-margin-small-right" uk-pagination-previous></span> {{ site.data.locales[page.locale].page.prev }}</a></li>
-  {% else %}
-   <li class="uk-disabled"><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}"><span class="uk-margin-small-right" uk-pagination-previous></span> {{ site.data.locales[page.locale].page.prev }}</a></li>
-  {% endif %}
-  
-  {% if paginator.next_page %}
-   <li class="uk-margin-auto-left"><a href="{{ paginator.next_page_path | prepend: site.baseurl }}">{{ site.data.locales[page.locale].page.next }} <span class="uk-margin-small-left" uk-pagination-next></span></a></li>
-   {% else %}
-   <li class="uk-margin-auto-left uk-disabled"><a href="{{ paginator.next_page_path | prepend: site.baseurl }}">{{ site.data.locales[page.locale].page.next }} <span class="uk-margin-small-left" uk-pagination-next></span></a></li>
-  {% endif %}
-</ul>
+<table class="uk-table">	
+ <tbody>     
+  {% assign posts_en = (site.posts | where: "locale" , "en") %}
+  {% for post in posts_en %}	
+  <tr>
+   <td>
+    <h3>
+     <a class="uk-link-reset uk-margin-remove-bottom" title="{{ post.title }}" href="{{ post.url }}">
+     {{ post.title }}
+     </a>
+    </h3>
+    <p class="uk-text-meta uk-margin-remove-top">{{ post.hijri }}</p>
+    </a>
+   </td>    
+  </tr>      
+  {% endfor %}	
+ </tbody>	
+</table>
