@@ -40,6 +40,15 @@
     </li>
   {% endif %}
  {% endif %}
+
+  {% if page.uthaymeen_ar %}
+  {% if site.uthaymeen_ar %}
+   <li class="collection-item">
+    {{ site.data.locales[page.locale].page.mufti }}: 
+    {{ site.uthaymeen.name }}
+    </li>
+  {% endif %}
+ {% endif %}
  
  {% if page.group1 %}
    {% if site.group1.chairman %}
