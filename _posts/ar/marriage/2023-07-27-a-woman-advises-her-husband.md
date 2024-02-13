@@ -4,10 +4,9 @@ publisher: alsalafiyyah@icloud.com
 title: لا تأثم المرأة في نصحها لزوجها
 hijri: محرّم 09, 1445 
 date: July 27, 2023
-source: "Al-Hisbah Magazine, Issue no.39, p.15"
+source: "مجلة الحسبة العدد 39 ص 15"
 lang: ar
 note: false
-binbaz: true
 category: [marriage, women]
 excerpt: "What is prescribed is that the advice should be given in a kindly and polite manner, because that makes it more acceptable and more beneficial."
 muftis:
