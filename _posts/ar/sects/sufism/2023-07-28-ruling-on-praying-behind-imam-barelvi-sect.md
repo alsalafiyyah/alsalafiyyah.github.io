@@ -2,7 +2,7 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: حكم الصلاة خلف إمام من طائفة البريلوية
-hijri: ١٠/محرّم/١٤٤٥
+hijri: محرّم 10, 1445
 date: 28 يوليو 2023
 source: ثمرات التدوين ص 8
 locale: ar
