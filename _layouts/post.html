@@ -4,7 +4,8 @@
  {% include meta.html %}
 </head>
 <body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}">
-<nav class="uk-navbar-container uk-margin">
+{% if page.date %}
+ <nav class="uk-navbar-container uk-margin">
         <div uk-navbar>
             <div class="uk-navbar-left">                
              {% if page.locale == 'ar' %}
@@ -24,9 +25,10 @@
     </div>         
         </div>
 </nav> 
+{% endif %}
 <div {% if page.locale == 'ar' %}dir="rtl"{% endif %} class="uk-section">   
 <div class="hyperlink uk-container" style="margin-bottom: 40px;">
-  <h3>{{ page.title }}</h3>
+  {% if post.date %}<h3>{{ page.title }}</h3>{% endif %}
    {{ content }}
    {% if page.note %}
    <p>{{ site.note.text }}</p>
