@@ -22,9 +22,12 @@
       <span class="uk-navbar-item uk-logo">{{ page.title }}</span>
      {% endif %}
     </div>
+   {% if page.date %}
+   {% else %}
     <div class="nav-overlay uk-navbar-right">
        <a class="uk-icon-link uk-navbar-toggle" uk-search-icon uk-toggle="target: .nav-overlay; animation: uk-animation-fade" href="#"></a>       
     </div>
+   {% endif %}
     <div class="nav-overlay uk-navbar-left uk-flex-1" hidden>
         <div class="uk-navbar-item uk-width-expand">
             <form action="{% if page.locale == 'ar' %}{{ "ar/search" | relative_url }}{% elsif page.locale == 'en' %}{{ "search" | relative_url }}{% endif %}" class="uk-search uk-search-navbar uk-width-1-1">
