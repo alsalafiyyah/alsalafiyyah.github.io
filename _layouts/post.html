@@ -28,7 +28,7 @@
 {% endif %}
 <div {% if page.locale == 'ar' %}dir="rtl"{% endif %} class="uk-section">   
 <div class="hyperlink uk-container" style="margin-bottom: 40px;">
-  {% if post.date %}<h3>{{ page.title }}</h3>{% endif %}
+  {% if post.title %}<h3 class="uk-heading-bullet">{{ page.title }}</h3>{% endif %}
    {{ content }}
    {% if page.note %}
    <p>{{ site.note.text }}</p>
