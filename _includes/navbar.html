@@ -19,10 +19,6 @@
     <div class="nav-overlay uk-navbar-center">    
      {% if page.date %}
       {% else %}
-       <a class="uk-navbar-item uk-logo" href="{{ relative_url }}">        
-        {{ site.data.locales[page.locale].blog.title }}       
-       </a>
-      {% else %}
         {{ page.title }}
      {% endif %}
     </div>
