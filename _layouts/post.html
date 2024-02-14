@@ -4,31 +4,10 @@
  {% include meta.html %}
 </head>
 <body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}">
-{% if page.date %}
- <nav class="uk-navbar-container uk-margin">
-        <div uk-navbar>
-            <div class="uk-navbar-left">                
-             {% if page.locale == 'ar' %}
-             <a class="uk-navbar-toggle uk-logo" href="{{ "ar/fatwas/" | relative_url }}">
-                 <span uk-icon="icon: arrow-left; ratio: 2"></span> 
-                 <span class="uk-margin-small-left">{{ site.data.locales[page.locale].page.fatwas }}</span>
-             </a>
-              {% elsif page.locale == 'en' %}
-             <a class="uk-navbar-toggle uk-logo" href="{{ "fatwas" | relative_url }}">
-                 <span uk-icon="icon: arrow-left; ratio: 2"></span> 
-                 <span class="uk-margin-small-left">{{ site.data.locales[page.locale].page.fatwas }}</span>
-             </a>
-             {% endif %}
-            </div>
-    <div class="uk-navbar-right">
-
-    </div>         
-        </div>
-</nav> 
-{% endif %}
+{% include navbar.html %} 
 <div {% if page.locale == 'ar' %}dir="rtl"{% endif %} class="uk-section">   
 <div class="hyperlink uk-container" style="margin-bottom: 40px;">
-  {% if post.title %}<h3 class="uk-heading-bullet">{{ page.title }}</h3>{% endif %}
+   <h3 class="uk-heading-bullet">{{ page.title }}</h3>
    {{ content }}
    {% if page.note %}
    <p>{{ site.note.text }}</p>
