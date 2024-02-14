@@ -18,7 +18,7 @@
     </div>
     <div class="nav-overlay uk-navbar-center">    
      <a class="uk-navbar-item uk-logo" href="{{ relative_url }}">        
-       {% if page.title %}{{ page.title }}{% else %}{{ site.data.locales[page.locale].blog.title }}{% endif %}       
+       {% if page.title %}{% else %}{{ site.data.locales[page.locale].blog.title }}{% endif %}       
      </a>   
     </div>
     <div class="nav-overlay uk-navbar-right">
