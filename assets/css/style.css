@@ -67,3 +67,7 @@ background-color: #bdbdbd;
  .uk-offcanvas-bar a, .uk-navbar-dropdown-nav a {
     color: var(--color-text) !important;
  }
+[dir="rtl"] .uk-navbar-right {
+  margin-left: 0;
+  margin-right: auto;
+}
