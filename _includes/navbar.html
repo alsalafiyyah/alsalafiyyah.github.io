@@ -1,5 +1,5 @@
 <nav class="uk-navbar-container uk-navbar-transparent uk-margin" uk-navbar>
-   <div class="nav-overlay {% if page.locale == 'en' %}uk-navbar-right{% elsif page.locale == 'ar' %}uk-navbar-right{% endif %}">
+   <div class="nav-overlay {% if page.locale == 'en' %}uk-navbar-left{% elsif page.locale == 'ar' %}uk-navbar-right{% endif %}">
     {% if page.date %}
              {% if page.locale == 'ar' %}
              <a class="uk-navbar-toggle uk-logo" href="{{ "ar/fatwas/" | relative_url }}">
