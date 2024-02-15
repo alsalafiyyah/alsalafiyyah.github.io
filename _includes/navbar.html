@@ -1,5 +1,5 @@
 <nav class="uk-navbar-container uk-navbar-transparent uk-margin" uk-navbar>
-   <div class="nav-overlay uk-navbar-left">
+   <div class="nav-overlay {% if page.locale == 'en' %}uk-navbar-right{% elsif page.locale == 'ar' %}uk-navbar-right{% endif %}">
     {% if page.date %}
              {% if page.locale == 'ar' %}
              <a class="uk-navbar-toggle uk-logo" href="{{ "ar/fatwas/" | relative_url }}">
@@ -24,7 +24,7 @@
     </div>
    {% if page.date %}
    {% else %}
-    <div class="nav-overlay uk-navbar-right">
+    <div class="nav-overlay {% if page.locale == 'en' %}uk-navbar-right{% elsif page.locale == 'ar' %}uk-navbar-left{% endif %}">
        <a class="uk-icon-link uk-navbar-toggle" uk-search-icon uk-toggle="target: .nav-overlay; animation: uk-animation-fade" href="#"></a>       
     </div>
    {% endif %}
