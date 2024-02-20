@@ -46,7 +46,7 @@
  </div>	
 <br/>
 {% for item in item.items %}	
- <ul class="uk-nav uk-nav-primary">
+ <ul {% if page.locale == 'ar' %}dir="rtl"{% endif %} class="uk-nav uk-nav-primary">
   <li><a class="uk-link-muted" href="{{ item.url }}">{{ item.title }}</a></li>
 {% endfor %}
  </ul>
