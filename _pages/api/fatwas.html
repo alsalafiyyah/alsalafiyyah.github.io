@@ -9,8 +9,7 @@ permalink: /api/fatwas
       "title": "{{ post.title }}",
       "date": "{{ post.date }}",
       "hijri": "{{ post.hijri }}",
-      "url": "{{ post.url }}",
-      "content": "{{ post.content }}"
+      "url": "{{ post.url }}"
     }
   {% unless forloop.last %},{% endunless %}
   {% endfor %}
