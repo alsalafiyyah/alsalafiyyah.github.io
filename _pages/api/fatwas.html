@@ -1,0 +1,17 @@
+---
+layout: null
+permalink: /api/fatwas
+---
+{
+  "data": [
+   {% for post in site.posts %}
+    {
+      "title": "{{ post.title }}",
+      "date": "{{ post.date }}",
+      "hijri": "{{ post.hijri }}",
+      "url": "{{ post.url }}"
+    }
+  {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+  ]  
+}
