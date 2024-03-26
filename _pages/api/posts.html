@@ -3,7 +3,8 @@ layout: null
 permalink: /api/posts
 ---
 [
-  {% for post in site.posts %}
+  {% assign posts_en = (site.posts | where: "locale" , "en") %}
+  {% for post in posts_en %}
     {
       "date": "{{ post.hijri }}",
       "title": "{{ post.title }}",
