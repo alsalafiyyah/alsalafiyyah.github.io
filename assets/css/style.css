@@ -132,20 +132,14 @@ html {
 }
 
 html{
-    --bg: rgba(255,255,255,0.5);
-    --color-heading: rgb(27, 168, 14); 
+    --bg: rgba(255,255,255,0.5); 
     --color-text: rgba(0,1,0,0.5);
-    --bg-navbar: #37474f;
-    --bg-card: #263238;
-    --section: #546d78;
+    --border-color: rgba(0,1,0,0.5);
 }
 html[data-theme='dark'] {
     --bg: rgba(0,1,0,0.5);
-    --color-heading: #0077ff; 
     --color-text: rgba(255,255,255,0.5);
-    --bg-navbar: #111;
-    --bg-card: #222;
-    --section: #424242;
+    --border-color: rgba(255,255,255,0.5); 
 }
 body {
   min-height: 100vh;
@@ -221,7 +215,7 @@ background-color: #bdbdbd;
     padding: 0 10px !important;
     -webkit-backdrop-filter: blur(10px);
     backdrop-filter: blur(10px);
-    border: 0px solid rgba(0,1,0,0.25); 
+    border: 1px solid var(--border-color-text) !important;
 }
 .uk-card-default,
 .uk-card-body
@@ -230,7 +224,7 @@ background-color: #bdbdbd;
     color: var(--color-text) !important;
     -webkit-backdrop-filter: blur(10px) !important;
     backdrop-filter: blur(10px) !important;
-    border: 1px solid rgba(255,255,255,0.5); 
+    border: 1px solid var(--border-color-text) !important; 
 }
 p, h3, h1, h2, h4, h5, h6, 
 .uk.logo, 
