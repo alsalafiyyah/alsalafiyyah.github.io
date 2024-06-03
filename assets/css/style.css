@@ -1,15 +1,15 @@
 html{
-    --bg: #f1f1f1;
+    --bg: rgba(255,255,255,0.5);
     --color-heading: rgb(27, 168, 14); 
-    --color-text: #000;
+    --color-text: rgba(0,1,0,0.5);
     --bg-navbar: #37474f;
     --bg-card: #263238;
     --section: #546d78;
 }
 html[data-theme='dark'] {
-    --bg: #111;
+    --bg: rgba(0,1,0,0.5);
     --color-heading: #0077ff; 
-    --color-text: #d9d9d9;
+    --color-text: rgba(255,255,255,0.5);
     --bg-navbar: #111;
     --bg-card: #222;
     --section: #424242;
@@ -70,4 +70,16 @@ background-color: #bdbdbd;
 [dir="rtl"] .uk-navbar-right {
   margin-left: 0;
   margin-right: auto;
+}
+
+.uk-fixed-navigation {
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+    z-index: 1030;
+    padding: 0 10px !important;
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    border: 0px solid rgba(0,1,0,0.25); 
 }
