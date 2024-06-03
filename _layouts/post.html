@@ -1,11 +1,13 @@
 ---
 layout: default
 ---
- <h3 class="uk-heading-bullet">
-  {{ page.title }}
- </h3>
+<h3 class="uk-heading-bullet">
+ {{ page.title }}
+</h3>
+<div class="uk-text-lead">
  {{ content }}
- {% if page.note %}
+</div>
+{% if page.note %}
  <p>{{ site.note.text }}</p>
- {% endif %}
- {% include source.html %}
+{% endif %}
+{% include source.html %}
