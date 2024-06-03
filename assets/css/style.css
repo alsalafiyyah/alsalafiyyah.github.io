@@ -172,7 +172,8 @@ body,
 .uk-card-body,
 .uk-navbar,
 .uk-nav,
-.uk-navbar-dropdown-nav
+.uk-navbar-dropdown-nav,
+.uk-section
 { 
     background-color: var(--bg) !important;
     color: var(--color-text) !important;
@@ -191,7 +192,6 @@ background-color: #bdbdbd;
   background: #424242 !important;
   }  
 }
-
 .uk-navbar-right {
  padding-right: 12px;
 }   
@@ -212,7 +212,6 @@ background-color: #bdbdbd;
   margin-left: 0;
   margin-right: auto;
 }
-
 .uk-fixed-navigation {
     position: fixed;
     right: 0;
@@ -224,7 +223,6 @@ background-color: #bdbdbd;
     backdrop-filter: blur(10px);
     border: 0px solid rgba(0,1,0,0.25); 
 }
-
 .uk-card-default,
 .uk-card-body
 {
