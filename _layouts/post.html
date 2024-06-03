@@ -1,20 +1,11 @@
-<!DOCTYPE html>
-<html lang="{{ page.locale }}">
-<head>
- {% include meta.html %}
-</head>
-<body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}">
-{% include navbar.html %} 
-<div {% if page.locale == 'ar' %}dir="rtl"{% endif %} class="uk-section">   
-<div class="hyperlink uk-container" style="margin-bottom: 40px;">
-   <h3 class="uk-heading-bullet">{{ page.title }}</h3>
-   {{ content }}
-   {% if page.note %}
-   <p>{{ site.note.text }}</p>
-   {% endif %}   
+---
+layout: default
+---
+ <h3 class="uk-heading-bullet">
+  {{ page.title }}
+ </h3>
+ {{ content }}
+ {% if page.note %}
+ <p>{{ site.note.text }}</p>
+ {% endif %}
  {% include source.html %}
-</div>
-</div>
- {% include scripts.html %}
-</body>
-</html>
