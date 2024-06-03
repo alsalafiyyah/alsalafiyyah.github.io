@@ -224,15 +224,19 @@ background-color: #bdbdbd;
     color: var(--color-text) !important;
     -webkit-backdrop-filter: blur(10px) !important;
     backdrop-filter: blur(10px) !important;
-    border: 1px solid var(--border-color) !important; 
+    border: 0px solid var(--border-color) !important; 
 }
-p, h3, h1, h2, h4, h5, h6, 
+a, p, h3, h1, h2, h4, h5, h6, 
 .uk.logo, 
 .uk-navbar-item, 
+.uk-navbar-item a,
 .uk-navbar a 
 {
  color: var(--color-text) !important;
 }
 .hide {
   display: none !important;
+}
+.offcanvas-reveal {
+  margin-top: 
 }
