@@ -215,7 +215,7 @@ background-color: #bdbdbd;
     padding: 0 10px !important;
     -webkit-backdrop-filter: blur(10px);
     backdrop-filter: blur(10px);
-    border: 1px solid var(--border-color-text) !important;
+    border-bottom: 1px solid var(--border-color-text) !important;
 }
 .uk-card-default,
 .uk-card-body
