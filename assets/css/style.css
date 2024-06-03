@@ -215,7 +215,7 @@ background-color: #bdbdbd;
     padding: 0 10px !important;
     -webkit-backdrop-filter: blur(10px);
     backdrop-filter: blur(10px);
-    border-bottom: 1px solid var(--border-color-text) !important;
+    border-bottom: 1px solid var(--border-color) !important;
 }
 .uk-card-default,
 .uk-card-body
@@ -224,7 +224,7 @@ background-color: #bdbdbd;
     color: var(--color-text) !important;
     -webkit-backdrop-filter: blur(10px) !important;
     backdrop-filter: blur(10px) !important;
-    border: 1px solid var(--border-color-text) !important; 
+    border: 1px solid var(--border-color) !important; 
 }
 p, h3, h1, h2, h4, h5, h6, 
 .uk.logo, 
