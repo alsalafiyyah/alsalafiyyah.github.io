@@ -31,11 +31,19 @@ body {
     margin: 0;
     padding: 0;
 }    
-.uk-container {
- margin-bottom: 50px !important;
- padding-bottom: 50px !important;
-}    
-
+html, 
+body,
+.uk-fixed-navigation,
+.uk-card,
+.uk-card-default,
+.uk-card-body,
+.uk-navbar,
+.uk-nav,
+.uk-navbar-dropdown-nav
+{ 
+    background-color: var(--bg) !important;
+    color: var(--color-text) !important;
+}
 .darkmode {
 color: #212121;
 background-color: #bdbdbd;
