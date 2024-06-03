@@ -61,12 +61,15 @@
                  <span class="uk-margin-small-left">{{ site.data.locales[page.locale].page.fatwas }}</span>
              </a>
              {% endif %}      
-      {% else %}
+    {% else %}
       <a class="uk-navbar-toggle" uk-navbar-toggle-icon uk-toggle="target: #offcanvas-reveal" href="#"></a>
     {% endif %}   
     </div>
     <div class="nav-overlay uk-navbar-center">    
-
+     {% if page.date %}
+      {% else %}
+      <span class="uk-navbar-item uk-logo">{{ site.title }}</span>
+     {% endif %}
     </div>
    {% if page.date %}
    {% else %}
