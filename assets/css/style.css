@@ -91,3 +91,20 @@ background-color: #bdbdbd;
     backdrop-filter: blur(10px);
     border: 0px solid rgba(0,1,0,0.25); 
 }
+
+.uk-card-default,
+.uk-card-body
+{
+    background-color: var(--bg) !important;
+    color: var(--color-text) !important;
+    -webkit-backdrop-filter: blur(10px) !important;
+    backdrop-filter: blur(10px) !important;
+    border: 1px solid rgba(255,255,255,0.5); 
+}
+p, h3, h1, h2, h4, h5, h6, 
+.uk.logo, 
+.uk-navbar-item, 
+.uk-navbar a 
+{
+ color: var(--color-text) !important;
+}
