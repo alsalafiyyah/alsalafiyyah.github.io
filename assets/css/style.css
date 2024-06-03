@@ -124,9 +124,8 @@ html {
 
   &[data-theme="dark"] {
     color-scheme: dark;
-
     @supports not (color-scheme: dark) {
-      background: #111 !important; 
+      background: rgba(255,255,255,0.5) !important; 
     }
   }
 }
@@ -165,26 +164,10 @@ body,
 .uk-card-default,
 .uk-card-body,
 .uk-navbar,
-.uk-nav,
-.uk-navbar-dropdown-nav,
 .uk-section
 { 
     background-color: var(--bg) !important;
     color: var(--color-text) !important;
-}
-.darkmode {
-color: #212121;
-background-color: #bdbdbd;
-  .uk-card-body, .uk-card, .uk-navbar-container, .uk-navbar-dropdown, .uk-modal-dialog, .uk-description-list {
-  color: #f8f8f8;
-  background-color: #212121;
-  }
-  .uk-button-default, .uk-card-title, .goback, .uk-logo{
-  color: #f8f8f8;
-  }
-  .uk-table-striped > tr:nth-of-type(odd), .uk-table-striped tbody tr:nth-of-type(odd) {
-  background: #424242 !important;
-  }  
 }
 .uk-navbar-right {
  padding-right: 12px;
