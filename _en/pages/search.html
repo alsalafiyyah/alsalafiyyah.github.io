@@ -6,16 +6,7 @@ permalink: /search
 tipue_search_active: true
 exclude_from_search: true
 ---
-
-<div id="tipue_search_" class="uk-margin">
- <meta itemprop="url" content="https://alsalafiyyah.github.io/search/"/>
- <form class="uk-search uk-search-default" action="{{ "search" | relative_url }}" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction">
- <meta itemprop="target" content="https://alsalafiyyah.github.io/search?q=salaf"/>   
-  <span uk-search-icon></span>
- <input class="uk-search-input hide" aria-label="Search" itemprop="query-input" id="tipue_search_input" type="text" name="q" placeholder="Search" pattern=".{3,}" title="At least 3 characters" required>
- </form>
-</div>
-<p style="display: none;">Showing results for <span id="tipue_search_input"></span></p>
+<p>Showing results for <span id="tipue_search_input"></span></p>
 <div id="tipue_search_content"></div>
 <script>
 $(document).ready(function() {
