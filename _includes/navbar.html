@@ -1,45 +1,5 @@
 <nav class="uk-navbar-container uk-fixed-navigation uk-margin" uk-navbar>
    <div class="nav-overlay uk-navbar-left">
-     {% if page.active == "radd" %}
-      <a class="uk-navbar-toggle uk-logo" href="{{ "radd" | relative_url }}">
-       <span uk-icon="icon: arrow-left; ratio: 1.5"></span>
-      </a>   
-     {% endif %}
-     {% if page.active == "refutals" %}
-      <a class="uk-navbar-toggle uk-logo" href="{{ "radd" | relative_url }}">
-       <span uk-icon="icon: arrow-left; ratio: 1.5"></span>
-      </a>   
-     {% endif %}
-     {% if page.active == "wahhabi" %}
-      <a class="uk-navbar-toggle uk-logo" href="{{ "wahabism" | relative_url }}">
-       <span uk-icon="icon: arrow-left; ratio: 1.5"></span>
-      </a>   
-     {% endif %}
-     {% if page.active == "muqolat" %}
-      <a class="uk-navbar-toggle uk-logo" href="{{ "muqolat" | relative_url }}">
-       <span uk-icon="icon: arrow-left; ratio: 1.5"></span> 
-      </a>   
-     {% endif %}
-     {% if page.active == "audios" %}
-      <a class="uk-navbar-toggle uk-logo" href="{{ "audios" | relative_url }}">
-       <span uk-icon="icon: arrow-left; ratio: 1.5"></span>
-      </a>   
-     {% endif %}
-     {% if page.active == "biography" %}
-      <a class="uk-navbar-toggle uk-logo" href="{{ "biography" | relative_url }}">
-       <span uk-icon="icon: arrow-left; ratio: 1.5"></span>
-      </a>   
-     {% endif %}
-     {% if page.active == "category" %}
-      <a class="uk-navbar-toggle uk-logo" href="{{ "category" | relative_url }}">
-       <span uk-icon="icon: arrow-left; ratio: 1.5"></span> 
-      </a>   
-     {% endif %}
-     {% if page.active == "categories" %}
-      <a class="uk-navbar-toggle uk-logo" href="{{ "category" | relative_url }}">
-       <span uk-icon="icon: arrow-left; ratio: 1.5"></span>
-      </a>   
-     {% endif %}
     {% if page.date %}
              {% if page.locale == 'ar' %}
              <a class="uk-navbar-toggle uk-logo" href="{{ "ar/fatwas/" | relative_url }}">
