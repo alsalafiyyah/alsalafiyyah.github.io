@@ -1,9 +1,11 @@
 <!DOCTYPE html>
-<html lang="{{ page.locale }}" data-theme="light" {% if page.locale == 'ar' %}dir="rtl"{% endif %}>
+<html 
+ lang="{{ page.locale }}" 
+ data-theme="light">
 <head>
  {% include meta.html %}
 </head>
-<body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }} uk-text-lead">
+<body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}">
  {% include navbar.html %}
  <div class="uk-section uk-margin-xlarge-top">
   <div class="uk-container">
