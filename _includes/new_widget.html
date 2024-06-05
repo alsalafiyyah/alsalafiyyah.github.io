@@ -4,8 +4,8 @@
  <div class="uk-card uk-card-default uk-width-6-3@m">
   <div class="uk-card-body">
    <ul class="uk-list">
-    <li>
-     <h4 {% if page.locale == 'ar' %}dir="rtl"{% endif %} class="uk-heading-line uk-text-bold uk-text-uppercase">
+    <li {% if page.locale == 'ar' %}dir="rtl"{% endif %}>
+     <h4 class="uk-heading-line uk-text-bold uk-text-uppercase">
       {{ site.data.locales[page.locale].page.fatwas }}
       </h4>
      </li>
@@ -24,8 +24,8 @@
  <div class="uk-heading-line uk-card uk-card-default uk-width-6-3@m">
   <div class="uk-card-body">
    <ul class="uk-list">
-    <li>
-     <h4 {% if page.locale == 'ar' %}dir="rtl"{% endif %} class="uk-heading-line uk-text-bold uk-text-uppercase">
+    <li {% if page.locale == 'ar' %}dir="rtl"{% endif %}>
+     <h4 class="uk-heading-line uk-text-bold uk-text-uppercase">
       {{ site.data.locales[page.locale].page.audios }}
       </h4>
     </li>    
