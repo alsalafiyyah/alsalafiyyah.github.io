@@ -16,17 +16,20 @@ menu:
     url: /
     active: home
   - name: Fatwas
-    url: /fatwas/
+    url: /fatwas
     active: fatwas
   - name: Audios
     url: /audios
     active: audios
   - name: Books
-    url: /books/
+    url: /books
     active: books
   - name: Muqolat
-    url: /muqolat/
+    url: /muqolat
     active: muqolat
+  - name: Categories
+    url: /category
+    active: category
 
 
 page:
@@ -65,6 +68,8 @@ sidenav:
         url: /books
       - title: Muqolat
         url: /muqolat
+      - title: Categories
+        url: /category
     language:
       - title: English
         url: /
