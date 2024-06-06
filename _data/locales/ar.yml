@@ -12,20 +12,22 @@ blog:
 
 menu:
   - name: الرئيسية
-    url: /ar/
+    url: /ar
     active: home
   - name: فتاوى
-    url: /ar/fatwas/
+    url: /ar/fatwas
     active: fatwas
   - name: صوتيات
     url: /ar/audios
     active: audios
   - name: كتب
-    url: /ar/books/
+    url: /ar/books
     active: books
   - name: مقالات
-    url: /ar/muqolat/
+    url: /ar/muqolat
     active: muqolat
+  - name: التصنيفات
+    url: /ar/category
 
 
 page:
