@@ -28,6 +28,7 @@ menu:
     active: muqolat
   - name: التصنيفات
     url: /ar/category
+    active: category
 
 
 page:
@@ -67,6 +68,8 @@ sidenav:
         url: /ar/books
       - title: مقالات
         url: /ar/muqolat
+      - title: التصنيفات
+        url: /ar/category
     language:
       - title: English
         url: /
@@ -87,3 +90,4 @@ post:
   chairman: نائب رئيس اللجنة
   member: عضو
   members: عضو
+
