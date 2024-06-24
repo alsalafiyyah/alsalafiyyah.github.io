@@ -72,15 +72,88 @@ hr {
 .spacer {
     flex: 1; 
 }
-
 /* logo */
 .logo {
  font-family: 'Typewriter', sans-serif;
 }
+/* scroll menu */
+div.scrollmenu {
+  background-color: none;
+  overflow: auto;
+  white-space: nowrap;
+  border-top: solid 4px #F9313E;
+  border-bottom: solid 4px #F9313E;
+}
+div.scrollmenu a {
+  display: inline-block;
+  color: #252122;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+  font-weight: 500;
+}
+div.scrollmenu a:hover {
+  background-color: none;
+  text-decoration-style: wavy;
+  text-decoration-color: #F9313E;
+}
+/* footer */
+.footer {
+   background-color: #E5DCD7;
+   width: 100%;
+   margin-top:auto; 
+}
+.footer-container {
+   height: auto;
+   padding: 20px;
+  }
+/* table */
+table, th, td {
+  border: 1px solid rgba(70, 62, 114, .5);
+}
+th, td {
+  padding: 10px;
+}
+
+/* breadcrumb */
+ul.breadcrumb {
+  padding: 8px 16px;
+  list-style: none;
+  background-color: none;
+}
+ul.breadcrumb li {display: inline;}
+ul.breadcrumb li+li:before {
+  padding: 8px;
+  color: black;
+  content: "/\00a0";
+}
+ul.breadcrumb li a {
+text-decoration: none;
+}
+
+/* Pagination */
+.pagination {
+  display: inline-block;
+}
+.pagination a {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #ddd;
+}
+.pagination a.active {
+  background-color: var(--color-red);
+  color: white;
+  border: 1px solid #ddd;
+}
+.pagination a:hover:not(.active) {background-color: #ddd;}  
 </style>
 </head>
 <body>
 <main>
+<section>
 <div class="container">
 <table class="uk-table uk-table-striped" id="table">	
  <tbody>     
@@ -95,6 +168,7 @@ hr {
  </tbody>	
 </table>    
 </div>
+</section>
 </main>
 </body>
 </html>
