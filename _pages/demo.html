@@ -48,6 +48,7 @@ a {
 }
 .container {
  margin: 0 auto 30px auto;
+ margin-top: 20px;
 }
 hr {
     height: 4px;
@@ -157,9 +158,10 @@ text-decoration: none;
 </style>
 </head>
 <body>
-<main>
-<section>
-<div class="container">
+<main role="main" itemscope itemprop="mainContentOfPage"><!-- main -->
+<div class="container"><!-- .container -->
+
+<section><!-- section -->
 <table class="responsive" id="table">	
  <tbody>     
   {% for category in site.categories %}	
@@ -172,8 +174,9 @@ text-decoration: none;
   {% endfor %}	
  </tbody>	
 </table>    
-</div>
-</section>
-</main>
+</section><!-- /sectiom -->
+
+</div><!-- /.container -->
+</main><!-- /main -->
 </body>
 </html>
