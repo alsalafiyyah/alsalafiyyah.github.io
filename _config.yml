@@ -233,3 +233,10 @@ kathir:
 qayyim: 
   name: Imam Ibn Qayyim
   url: /biography/alqayyim
+
+
+compress_html:
+  clippings: all
+  startings: [html, head, body]
+  endings: all
+
