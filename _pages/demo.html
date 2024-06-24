@@ -149,13 +149,18 @@ text-decoration: none;
   border: 1px solid #ddd;
 }
 .pagination a:hover:not(.active) {background-color: #ddd;}  
+/* custom */
+.responsive, img, table {
+ width: 100%;
+ height: auto;
+}  
 </style>
 </head>
 <body>
 <main>
 <section>
 <div class="container">
-<table class="uk-table uk-table-striped" id="table">	
+<table class="responsive" id="table">	
  <tbody>     
   {% for category in site.categories %}	
   <tr>
