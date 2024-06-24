@@ -158,6 +158,16 @@ text-decoration: none;
 </style>
 </head>
 <body>
+<header role="banner" itemscope itemtype="http://schema.org/WPHeader"><!-- header -->
+<h1 class="logo">{{ site.title }}</h1>
+<div class="scrollmenu">
+ <nav>
+  {% for item in site.data.locales[page.locale].menu %}
+  <a href="#!">{{ item.name }}</a>
+  {% endfor %}
+ </nav>
+</div>
+</header><!-- /header -->  
 <main role="main" itemscope itemprop="mainContentOfPage"><!-- main -->
 <div class="container"><!-- .container -->
 
