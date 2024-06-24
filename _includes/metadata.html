@@ -1,0 +1,39 @@
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-touch-fullscreen" content="yes">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="apple-mobile-web-app-title" content="{{ site.title }}" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="format-detection" content="telephone=no">
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }}</title>
+  <meta property="og:image" content="{{ '/assets/images/fb.jpg' | absolute_url }}" />
+  <meta name="p:domain_verify" content="6a0545495b6d882089f54152a3ef5f2c"/>
+  <meta name="keywords" content="{{ site.keywords }}"/>
+  <meta name="description" content="{{ site.description }}">
+  <meta name="author" content="{{ site.author }}">
+  <meta name="theme-color" content="Canvas">
+  {% if page.url =='/' %}
+  <link rel="canonical" href="{{ site.url }}" />
+  {% else %}
+  <link rel="canonical" href="{{ page.url | absolute_url }}" />
+  {% endif %}
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+  <link href="{{ '/assets/images/apple_splash_1125.png' | absolute_url }}" sizes="1125x2436" rel="apple-touch-startup-image"/>
+  <link href="{{ '/assets/images/apple_splash_1242.png' | absolute_url }}" sizes="1242x2208" rel="apple-touch-startup-image"/>
+  <link href="{{ '/assets/images/apple_splash_750.png' | absolute_url }}" sizes="750x1334" rel="apple-touch-startup-image"/>
+  <link href="{{ '/assets/images/apple_splash_640.png' | absolute_url }}" sizes="640x1136" rel="apple-touch-startup-image"/>
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/apple-touch-icon.png" | absolute_url }}">
+  <link rel="manifest" href="{{ "/manifest.json" | prepend: site.baseurl }}">
+  <!-- css styles -->
+  <link href="https://unpkg.com/vanilla-datatables@latest/dist/vanilla-dataTables.min.css" rel="stylesheet"/>
+  <link href="{{ '/assets/css/base.css' | absolute_url }}" rel="stylesheet">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N9ZTW9M');</script>
+<!-- End Google Tag Manager -->
