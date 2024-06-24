@@ -16,10 +16,10 @@ permalink: /demo/
   <meta name="apple-mobile-web-app-status-bar-style" content="default" />
   <meta name="format-detection" content="telephone=no">
   <meta name="keywords" content="{{ page.categories | join: ', ' }}"/>
-  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }} – {{ site.description }}</title>
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }}</title>
   <meta property="og:image" content="{{ '/assets/images/fb.jpg' | absolute_url }}" />
   <meta name="p:domain_verify" content="6a0545495b6d882089f54152a3ef5f2c"/>
-  <meta name="description" content="">
+  <meta name="description" content="{{ site.description }}">
   <meta name="author" content="Instagram@Alsalafiyyah">
   
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
