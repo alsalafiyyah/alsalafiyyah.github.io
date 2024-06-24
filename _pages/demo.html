@@ -107,8 +107,9 @@ div.scrollmenu a:hover {
 }
 .footer-container {
    height: auto;
-   padding: 20px;
-  }
+   padding: 10px 20px;
+}
+  
 /* table */
 table, th, td {
   border: 1px solid rgba(70, 62, 114, .5);
@@ -229,8 +230,7 @@ ol.lower-alpha {list-style-type: lower-alpha;}
 </main><!-- /main -->
 
 <div class="spacer"></div>
-<footer class="footer" role="contentinfo" itemscope itemtype="http://schema.org/WPFooter"><!-- footer -->
- <div class="footer-container">
+  <div class="footer-container">
     <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
       <li itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
@@ -244,7 +244,10 @@ ol.lower-alpha {list-style-type: lower-alpha;}
         <span itemprop="name">{{ page.title }}</span></a>
         <meta itemprop="position" content="2" />
       </li>
-   </ol>
+   </ol>  
+ </div>
+<footer class="footer" role="contentinfo" itemscope itemtype="http://schema.org/WPFooter"><!-- footer -->
+ <div class="footer-container">
    <p class="copyright">&copy; <span itemprop="copyrightYear">{{ 'now' | date: "%Y" }}</span> <span itemprop="copyrightHolder" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ site.title }}</span></span>.</p>  
  </div> 
 </footer><!-- /footer -->
