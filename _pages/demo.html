@@ -49,7 +49,7 @@ p {
 /* logo */
 .logo {
  font-family: 'Typewriter', sans-serif;
- font-size: 21px;
+ font-size: 32px;
 }  
 .container, header, footer {
  width: 90%;
@@ -204,7 +204,7 @@ ol.lower-alpha {list-style-type: lower-alpha;}
 </head>
 <body>
 <header role="banner" itemscope itemtype="http://schema.org/WPHeader"><!-- header -->
-<h1 class="logo">{{ site.title }}</h1>
+<a class"logo" href="/demo"><h1>{{ site.title }}</h1></a>
 <div class="scrollmenu">
  <nav role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
   {% for item in site.data.locales[page.locale].menu %}
