@@ -22,6 +22,7 @@ permalink: /demo/
   <meta name="keywords" content="{{ site.keywords }}"/>
   <meta name="description" content="{{ site.description }}">
   <meta name="author" content="{{ site.author }}">
+  <meta name="theme-color" content="Canvas">
   
   {% if page.url =='/' %}
   <link rel="canonical" href="{{ site.url }}" />
@@ -38,6 +39,7 @@ permalink: /demo/
 
   <!-- css styles -->
   <link href="https://unpkg.com/vanilla-datatables@latest/dist/vanilla-dataTables.min.css" rel="stylesheet"/>
+  <link href="{{ '/assets/css/base.css' | absolute_url }}" rel="stylesheet">
 
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
