@@ -28,7 +28,7 @@ permalink: /demo/
 }
 /* general */
 html, body {
- font-size: 14px;
+ font-size: 18px;
  font-family: var(--system-ui);
  font-style: normal;
  background-color: var(--body-bg);
@@ -45,6 +45,11 @@ a {
 }
 p {
   font-size: 1.125rem;
+}  
+/* logo */
+.logo {
+ font-family: 'Typewriter', sans-serif;
+ font-size: 21px;
 }  
 .container, header, footer {
  width: 90%;
@@ -77,11 +82,7 @@ hr {
 .spacer {
     flex: 1; 
 }
-/* logo */
-.logo {
- font-family: 'Typewriter', sans-serif;
- font-size: 20px;
-}
+
 /* scroll menu */
 div.scrollmenu {
   background-color: none;
@@ -216,6 +217,9 @@ ol.lower-alpha {list-style-type: lower-alpha;}
 <div class="container"><!-- .container -->
 
 <section><!-- section -->
+<p>
+  The duty of every Muslim is to adhere to what came in the Book of Allah and the Sunnah of His Messenger in words, deeds, and beliefs.
+</p>
 <table class="responsive" id="table">	
  <tbody>     
   {% for category in site.categories %}	
