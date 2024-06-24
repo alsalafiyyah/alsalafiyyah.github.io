@@ -77,6 +77,7 @@ hr {
 /* logo */
 .logo {
  font-family: 'Typewriter', sans-serif;
+ font-size: 100%;
 }
 /* scroll menu */
 div.scrollmenu {
@@ -201,9 +202,9 @@ ol.lower-alpha {list-style-type: lower-alpha;}
 <header role="banner" itemscope itemtype="http://schema.org/WPHeader"><!-- header -->
 <h1 class="logo">{{ site.title }}</h1>
 <div class="scrollmenu">
- <nav>
+ <nav role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
   {% for item in site.data.locales[page.locale].menu %}
-  <a href="#!">{{ item.name }}</a>
+   <a itemprop="url" href="#!"><span itemprop="name">{{ item.name }}</span></a>
   {% endfor %}
  </nav>
 </div>
