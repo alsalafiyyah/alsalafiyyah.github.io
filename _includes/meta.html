@@ -15,7 +15,9 @@
 <meta name="format-detection" content="telephone=no">
 <link rel="apple-touch-icon" href="{{ '/assets/images/app-icon.png' | absolute_url }}">
 <link rel="apple-touch-icon-precomposed" href="{{ '/assets/images/app-icon.png' | absolute_url }}">
-<meta name="keywords" content="{{ page.categories | join: ', ' }}"/>
+<meta name="keywords" content="{{ site.keywords }}"/>
+<meta name="description" content="{{ site.description }}">
+<meta name="author" content="{{ site.author }}">
 <meta name="p:domain_verify" content="6a0545495b6d882089f54152a3ef5f2c"/>
 <link rel="manifest" href="{{ "/manifest.json" | prepend: site.baseurl }}">
 <link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/apple-touch-icon.png" | absolute_url }}">
@@ -26,6 +28,11 @@
 {% elsif page.locale == 'ar' %}
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.16.23/css/uikit-rtl.min.css" />
 {% endif %}
+  {% if page.url =='/' %}
+  <link rel="canonical" href="{{ site.url }}" />
+  {% else %}
+  <link rel="canonical" href="{{ page.url | absolute_url }}" />
+  {% endif %}
 <link href="{{ '/assets/css/style.css' | absolute_url }}" rel="stylesheet">
 <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 <meta property="og:image" content="{{ '/assets/images/fb.jpg' | absolute_url }}" />
