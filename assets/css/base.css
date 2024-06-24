@@ -34,6 +34,9 @@ a {
  font-size: 28px;
  text-decoration: none;
 }  
+header a {
+  text-decoration: none;
+}
 .container, header, footer {
  width: 90%;
  margin: 0 auto;
