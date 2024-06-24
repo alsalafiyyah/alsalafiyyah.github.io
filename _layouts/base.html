@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="{{ page.locale }}" itemscope itemtype="http://schema.org/WebPage">
+<head>
+{% include metadata.html %}
+</head>
+<body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}">
+<div itemprop="isPartOf" itemscope itemtype="http://schema.org/WebSite"><!-- .container -->
+
+<header role="banner" itemprop="hasPart" itemscope itemtype="http://schema.org/WPHeader"><!-- header -->
+<a class"logo" href="/demo"><h1>{{ site.title }}</h1></a>
+<div class="scrollmenu">
+ <nav role="navigation" itemprop="hasPart" itemscope itemtype="http://schema.org/SiteNavigationElement">
+  {% for item in site.data.locales[page.locale].menu %}
+   <a itemprop="url" href="#!"><span itemprop="name">{{ item.name }}</span></a>
+  {% endfor %}
+ </nav>
+</div>
+</header><!-- /header --> 
+  
+<main role="main"><!-- main -->
+ <div class="container"><!-- .container -->
+  <section><!-- section -->
+   {{ content }}
+  </section><!-- /sectiom -->
+ </div><!-- /.container -->
+</main><!-- /main -->
+
+<div class="spacer"></div>
+
+  <div class="footer-container">
+    <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+      <li itemprop="itemListElement" itemscope
+          itemtype="https://schema.org/ListItem">
+        <a itemprop="item" href="{{ site.url }}">
+        <span itemprop="name">Home</span></a>
+        <meta itemprop="position" content="1" />
+      </li>
+      <li itemprop="itemListElement" itemscope
+          itemtype="https://schema.org/ListItem">
+        <a itemprop="item" href="{{ page.url }}">
+        <span itemprop="name">{{ page.title }}</span></a>
+        <meta itemprop="position" content="2" />
+      </li>
+   </ol>  
+ </div>
+
+<footer class="footer" role="contentinfo" itemprop="hasPart" itemscope itemtype="http://schema.org/WPFooter"><!-- footer -->
+ <div class="footer-container">
+   <p class="copyright">&copy; <span itemprop="copyrightYear">{{ 'now' | date: "%Y" }}</span> <span itemprop="copyrightHolder" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ site.title }}</span></span></p>  
+ </div> 
+</footer><!-- /footer -->
+
+</div>
+</body>
+</html>
