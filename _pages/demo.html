@@ -23,6 +23,11 @@ permalink: /demo/
   <meta name="description" content="{{ site.description }}">
   <meta name="author" content="{{ site.author }}">
   
+  {% if page.url =='/' %}
+  <link rel="canonical" href="{{ site.url }}" />
+  {% else %}
+  <link rel="canonical" href="{{ page.url | absolute_url }}" />
+  {% endif %}
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
   <link href="{{ '/assets/images/apple_splash_1125.png' | absolute_url }}" sizes="1125x2436" rel="apple-touch-startup-image"/>
   <link href="{{ '/assets/images/apple_splash_1242.png' | absolute_url }}" sizes="1242x2208" rel="apple-touch-startup-image"/>
@@ -31,6 +36,7 @@ permalink: /demo/
   <link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/apple-touch-icon.png" | absolute_url }}">
   <link rel="manifest" href="{{ "/manifest.json" | prepend: site.baseurl }}">
 
+  <!-- css styles -->
   <link href="https://unpkg.com/vanilla-datatables@latest/dist/vanilla-dataTables.min.css" rel="stylesheet"/>
 
 <!-- Google Tag Manager -->
