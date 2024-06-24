@@ -155,6 +155,30 @@ text-decoration: none;
  width: 100%;
  height: auto;
 }  
+/* lists */
+ul.no-bullets {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+li::marker {
+  color: var(--color-red);
+}
+ul.circle {list-style-type: circle;}
+ul.square {list-style-type: square;}
+ol.upper-roman {list-style-type: upper-roman;}
+ol.lower-alpha {list-style-type: lower-alpha;}
+
+/* grid / column */
+.column {
+  float: left;
+  width: 50%;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 </style>
 </head>
 <body>
