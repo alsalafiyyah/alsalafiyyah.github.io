@@ -200,8 +200,7 @@ ol.lower-alpha {list-style-type: lower-alpha;}
 </style>
 </head>
 <body>
-<main role="main" itemscope itemprop="mainContentOfPage"><!-- main -->
-<div class="container" itemprop="isPartOf" itemscope itemtype="http://schema.org/WebSite"><!-- .container -->
+<div itemprop="isPartOf" itemscope itemtype="http://schema.org/WebSite"><!-- .container -->
 <header role="banner" itemprop="hasPart" itemscope itemtype="http://schema.org/WPHeader"><!-- header -->
 <a class"logo" href="/demo"><h1>{{ site.title }}</h1></a>
 <div class="scrollmenu">
@@ -212,6 +211,8 @@ ol.lower-alpha {list-style-type: lower-alpha;}
  </nav>
 </div>
 </header><!-- /header --> 
+<main role="main" itemscope itemprop="mainContentOfPage"><!-- main -->
+<div class="container"><!-- .container -->
 <section><!-- section -->
 <p>
   The duty of every Muslim is to adhere to what came in the Book of Allah and the Sunnah of His Messenger in words, deeds, and beliefs.
@@ -235,7 +236,7 @@ ol.lower-alpha {list-style-type: lower-alpha;}
 
 <div class="spacer"></div>
   <div class="footer-container">
-    <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+    <ol class="breadcrumb" itemprop="hasPart" itemscope itemtype="https://schema.org/BreadcrumbList">
       <li itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
         <a itemprop="item" href="#!">
@@ -250,11 +251,11 @@ ol.lower-alpha {list-style-type: lower-alpha;}
       </li>
    </ol>  
  </div>
-<footer class="footer" role="contentinfo" itemscope itemtype="http://schema.org/WPFooter"><!-- footer -->
+<footer class="footer" role="contentinfo" itemprop="hasPart" itemscope itemtype="http://schema.org/WPFooter"><!-- footer -->
  <div class="footer-container">
    <p class="copyright">&copy; <span itemprop="copyrightYear">{{ 'now' | date: "%Y" }}</span> <span itemprop="copyrightHolder" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ site.title }}</span></span>.</p>  
  </div> 
 </footer><!-- /footer -->
-
+</div>
 </body>
 </html>
