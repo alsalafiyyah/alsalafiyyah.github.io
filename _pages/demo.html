@@ -4,7 +4,7 @@ title: Demo
 permalink: /demo/
 ---
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" itemscope itemtype="http://schema.org/WebPage">
 <head>
   <meta charset="UTF-8">
   <meta name="description" content="">
@@ -55,7 +55,6 @@ a {
 }
 .container {
  margin: 0 auto 30px auto;
- margin-top: 20px;
 }
 hr {
     height: 4px;
@@ -201,19 +200,18 @@ ol.lower-alpha {list-style-type: lower-alpha;}
 </style>
 </head>
 <body>
-<header role="banner" itemscope itemtype="http://schema.org/WPHeader"><!-- header -->
+<main role="main" itemscope itemprop="mainContentOfPage"><!-- main -->
+<div class="container" itemprop="isPartOf" itemscope itemtype="http://schema.org/WebSite"><!-- .container -->
+<header role="banner" itemprop="hasPart" itemscope itemtype="http://schema.org/WPHeader"><!-- header -->
 <a class"logo" href="/demo"><h1>{{ site.title }}</h1></a>
 <div class="scrollmenu">
- <nav role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+ <nav role="navigation" itemprop="hasPart" itemscope itemtype="http://schema.org/SiteNavigationElement">
   {% for item in site.data.locales[page.locale].menu %}
    <a itemprop="url" href="#!"><span itemprop="name">{{ item.name }}</span></a>
   {% endfor %}
  </nav>
 </div>
-</header><!-- /header -->  
-<main role="main" itemscope itemprop="mainContentOfPage"><!-- main -->
-<div class="container"><!-- .container -->
-
+</header><!-- /header --> 
 <section><!-- section -->
 <p>
   The duty of every Muslim is to adhere to what came in the Book of Allah and the Sunnah of His Messenger in words, deeds, and beliefs.
