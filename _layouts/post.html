@@ -4,15 +4,10 @@ layout: default
 <h3 class="uk-heading-bullet uk-text-bold">
  {{ page.title }}
 </h3>
-<div class="uk-text-lead">
+<div itemscope class="uk-text-lead">
  {{ content }}
 </div>
 {% if page.note %}
  <p>{{ site.note.text }}</p>
 {% endif %}
 {% include source.html %}
-
-{% if post.sitemap.lastmod %}
-{{ post.sitemap.lastmod | date: "%Y-%m-%d" }}
-{% endif %}
-<p id="last-modified"></p>
