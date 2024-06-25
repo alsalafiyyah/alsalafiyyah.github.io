@@ -29,6 +29,11 @@ a {
  text-decoration-style: wavy;
  text-decoration-color: var(--color-red);
 }
+a:hover {
+ color: var(--color);
+ text-decoration-style: underline;
+ text-decoration-color: var(--color-red);
+}
 /* logo */
 .logo, 
 .logo a
