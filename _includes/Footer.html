@@ -1,0 +1,17 @@
+<footer class="footer" role="contentinfo" itemprop="hasPart" itemscope itemtype="http://schema.org/WPFooter"><!-- footer -->
+ <div class="footer-container">
+  <div class="row flex">
+   <div class="column">   
+    <p class="copyright">&copy; <span itemprop="copyrightYear">{{ 'now' | date: "%Y" }}</span> <span itemprop="copyrightHolder" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ site.title }}</span></span></p>
+   </div>
+   <div class="column">   
+     <ul class="square">
+      {% for item in site.data.base.footer %}
+      <li><a itemprop="url" href="{{ item.url }}" target="_blank"><span itemprop="name">{{ item.name }}</span></a></li>
+      {% endfor %}
+     </ul>
+   </div> 
+  </div>
+  </div> 
+</footer>
+<!-- /footer -->
