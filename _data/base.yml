@@ -1,3 +1,18 @@
+nav:
+  - name: Fatwas
+    url: /fatwas
+    active: fatwas
+  - name: Audios
+    url: /audios
+    active: audios
+  - name: Muqolat
+    url: /muqolat
+    active: muqolat
+  - name: Categories
+    url: /category
+    active: category
+
+
 page: 
   NoFatwas: "There are no fatwas for this topic."
   chairman: Chairman
