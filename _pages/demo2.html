@@ -1,0 +1,20 @@
+---
+layout: base
+title: Demo
+permalink: /demo/2
+---
+<div itemscope>
+<h3>Table</h3>
+<table itemscope class="responsive" id="table">	
+ <tbody>     
+  {% for category in site.categories %}	
+  <tr>
+   <td>
+    {{ category | first | strip_html }}
+   </td>    
+   <td>{{ category[1].size }}</td>
+  </tr>      
+  {% endfor %}	
+ </tbody>	
+</table>
+</div>
