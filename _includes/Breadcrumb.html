@@ -1,0 +1,16 @@
+  <div class="breadcrumb-container">
+    <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+      <li itemprop="itemListElement" itemscope
+          itemtype="https://schema.org/ListItem">
+        <a itemprop="item" href="{{ site.url }}">
+        <span itemprop="name">{{ site.data.base.page.home }}</span></a>
+        <meta itemprop="position" content="1" />
+      </li>
+      <li itemprop="itemListElement" itemscope
+          itemtype="https://schema.org/ListItem">
+        <a itemprop="item" href="{{ page.url }}">
+        <span itemprop="name">{{ page.title }}</span></a>
+        <meta itemprop="position" content="2" />
+      </li>
+   </ol>  
+ </div>
