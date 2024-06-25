@@ -1,0 +1,36 @@
+---
+layout: base
+title: Demo
+permalink: /demo/3
+---
+<div itemscope>
+<ul class="no-bullets">
+ {% for post in site.posts limit:5 %}
+  {% if post.url %}
+   <li>
+    <a 
+     itemprop="url" 
+     href="{{ post.url }}"
+     class="fatwas-title">          
+     <span itemscope itemprop="name">
+       {{ post.title }}
+     </span>
+    </a>
+     <p itemscope itemprop="summary">
+       {{ post.excerpt }}
+     </p>
+   </li>
+   {% endif %}
+  {% endfor %}
+</ul>
+
+<div class="pagination flex center">
+  <a href="#!">
+    ❮ {{ site.data.base.page.prev }}
+  </a>
+  <a href="#!">
+    {{ site.data.base.page.next }} ❯
+  </a>
+</div> 
+
+</div>
