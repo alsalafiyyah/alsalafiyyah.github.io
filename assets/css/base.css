@@ -38,7 +38,11 @@ a {
  text-decoration-style: wavy;
  text-decoration-color: var(--color-red);
 }
-
+a:hover {
+ color: var(--color);
+ text-decoration-style: underline;
+ text-decoration-color: var(--color-red);
+}
 /* logo */
 .logo, 
 .logo a
@@ -103,12 +107,12 @@ div.scrollmenu a {
   text-align: center;
   padding: 14px;
   text-decoration: none;
-  font-weight: 500;
+  font-weight: 600;
 }
 div.scrollmenu a:hover {
   background-color: none;
   text-decoration-style: wavy;
-  text-decoration-color: #F9313E;
+  text-decoration-color: var(--color-red);
 }
 /* footer */
 .footer {
