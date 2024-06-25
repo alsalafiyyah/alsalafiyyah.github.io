@@ -10,7 +10,23 @@ layout: compress
 <div itemprop="isPartOf" itemscope itemtype="http://schema.org/WebSite"><!-- .container -->
 
 <header role="banner" itemprop="hasPart" itemscope itemtype="http://schema.org/WPHeader"><!-- header -->
-<a class"logo" href="/demo"><h1>{{ site.title }}</h1></a>
+<div class="row flex">
+   <div class="column">
+    <a class"logo" href="{{ site.url }}">
+     <h1>{{ site.title }}</h1>
+    </a>
+   </div>
+   <div class="column">
+<div itemscope itemtype="https://schema.org/WebSite">
+  <meta itemprop="url" content="https://alsalafiyyah.github.io/search"/>
+  <form itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction">
+    <meta itemprop="target" content="https://alsalafiyyah.github.io/search?q={search_term_string}"/>
+    <input class="oren-search oren-responsive" itemprop="query-input" type="search" placeholder="Search" name="search_term_string" required/>
+  </form>
+</div>
+   </div>
+ </div>    
+ 
 <div class="scrollmenu">
  <nav role="navigation" itemprop="hasPart" itemscope itemtype="http://schema.org/SiteNavigationElement">
   {% for item in site.data.locales[page.locale].menu %}
