@@ -141,6 +141,7 @@ text-decoration: none;
 /* Pagination */
 .pagination {
   display: inline-block;
+  margin: 20px;
 }
 .pagination a {
   color: black;
@@ -156,11 +157,13 @@ text-decoration: none;
   border: 1px solid #ddd;
 }
 .pagination a:hover:not(.active) {background-color: #ddd;}  
+
 /* custom */
 .responsive, img, table {
  width: 100%;
  height: auto;
 }  
+
 /* lists */
 ul.no-bullets {
   list-style-type: none;
@@ -184,4 +187,13 @@ ol.lower-alpha {list-style-type: lower-alpha;}
   content: "";
   display: table;
   clear: both;
+}
+.center, .text-center {
+  text-align: center;
+}
+.left, .text-left {
+  text-align: left;
+}
+.right, .text-right {
+  text-align: right;
 }
