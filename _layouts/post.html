@@ -11,3 +11,11 @@ layout: default
  <p>{{ site.note.text }}</p>
 {% endif %}
 {% include source.html %}
+
+{% if post.sitemap.lastmod %}
+{{ post.sitemap.lastmod | date: "%Y-%m-%d" }}
+{% elsif post.date %}
+{{ post.date | date_to_xmlschema }}
+{% else %}
+{{ site.time | date_to_xmlschema }}
+{% endif %}
