@@ -11,7 +11,7 @@ permalink: /demo/
 
 <hr/>
 
-<h3>{{ site.data.page.fatwas }}</h3>
+<h3>{{ site.data.base.page.fatwas }}</h3>
 <ul class="square">
  {% for post in site.posts limit:5 %}
   {% if post.url %}
@@ -29,13 +29,13 @@ permalink: /demo/
     <a 
       itemprop="url" 
       href="/fatwas">
-      More
+      {{site.data.base.page.more }}
     </a>
 </ul>
 
 <hr/>
 
-<h3>{{ site.data.page.audios }}</h3>
+<h3>{{ site.data.base.page.audios }}</h3>
 <ul class="bullets">
 {% for c in site.audios | limit:5 %}
  <li>
@@ -47,6 +47,11 @@ permalink: /demo/
  </li>
 {% endfor %}
 </ul>
+<a 
+ itemprop="url" 
+ href="/audios">
+ {{site.data.base.page.more }}
+</a>
 
 <hr/>
 
