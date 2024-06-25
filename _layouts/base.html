@@ -8,32 +8,7 @@ layout: compress
 </head>
 <body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}">
 <div itemprop="isPartOf" itemscope itemtype="http://schema.org/WebSite"><!-- .container -->
-<header role="banner" itemprop="hasPart" itemscope itemtype="http://schema.org/WPHeader"><!-- header -->
-<div class="row flex">
-   <div class="column">
-    <a class"logo" href="{{ site.url }}">
-     <h1>{{ site.title }}</h1>
-    </a>
-   </div>
-   <div class="column">
-<div itemscope itemtype="https://schema.org/WebSite">
-  <meta itemprop="url" content="https://alsalafiyyah.github.io/search"/>
-  <form itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction" action="{{ "/search" | relative_url }}">
-    <meta itemprop="target" content="https://alsalafiyyah.github.io/search?q={search_term_string}"/>
-    <input class="mysearch responsive" name="q" id="tipue_search_input" itemprop="query-input" type="search" placeholder="Search" pattern=".{3,}" title="At least 3 characters" required/>
-  </form>
-</div>
-   </div>
- </div>    
-<div class="scrollmenu">
- <nav role="navigation" itemprop="hasPart" itemscope itemtype="http://schema.org/SiteNavigationElement">
-  {% for item in site.data.base.nav %}
-   <a itemprop="url" href="{{ item.url }}"><span itemprop="name">{{ item.name }}</span></a>
-  {% endfor %}
- </nav>
-</div>
-</header><!-- /header --> 
-  
+{% include Header.html %}
 <main role="main"><!-- main -->
  <div class="container"><!-- .container -->
   <section><!-- section -->
@@ -41,7 +16,6 @@ layout: compress
   </section><!-- /sectiom -->
  </div><!-- /.container -->
 </main><!-- /main -->
-
 <div class="spacer"></div>
 
   <div class="breadcrumb-container">
@@ -62,7 +36,6 @@ layout: compress
  </div>
 
 {% include Footer.html %}
-
 </div>
 
 <!-- javacripts -->
