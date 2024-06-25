@@ -47,6 +47,9 @@ h1 {
 header a, header h1 {
   text-decoration: none;
 }
+header h1 {
+  font-family: "Atomic Age", system-ui;
+}
 .container, header, footer {
  width: 90%;
  margin: 0 auto;
@@ -152,10 +155,11 @@ text-decoration: none;
 .pagination {
   display: inline-block;
   margin: 20px;
+  text-align: center;
 }
 .pagination a {
   color: black;
-  float: center;
+  float: left;
   padding: 8px 16px;
   text-decoration: none;
   transition: background-color .3s;
@@ -179,6 +183,8 @@ ul.no-bullets {
   list-style-type: none;
   padding: 0;
   margin: 0;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 li::marker {
   color: var(--color-red);
@@ -218,7 +224,7 @@ ol.lower-alpha {list-style-type: lower-alpha;}
 .mysearch {
   box-sizing: border-box;
   border: 2px solid var(--color-red);
-  border-radius: 0px;
+  border-radius: 4px;
   font-size: 16px;
   background-color: transparent;
   background-image: url('search.png');
