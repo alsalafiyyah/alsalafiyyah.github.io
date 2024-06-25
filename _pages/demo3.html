@@ -4,6 +4,12 @@ title: Demo
 permalink: /demo/3
 ---
 <div itemscope>
+ 
+<table>
+ <tr></tr>
+ <tr>{{ site.posts | size }} Fatwas</tr>
+</table>
+ 
 <ul class="no-bullets">
  {% for post in site.posts limit:5 %}
   {% if post.url %}
