@@ -10,20 +10,22 @@ permalink: /demo/3
  <tr>{{ site.posts | size }} Fatwas</tr>
 </table>
  
-<ul class="no-bullets">
+<ul 
+ class="no-bullets"
+ itemscope itemtype="https://schema.org/ItemList">
  {% for post in site.posts limit:5 %}
   {% if post.url %}
-   <li>
+   <li itemprop="itemListElement">
     <a 
      itemprop="url" 
      href="{{ post.url }}"
      class="fatwas-title">          
-     <span itemscope itemprop="name">
+      <span itemscope itemprop="name">
        {{ post.title }}
-     </span>
+      </span>
     </a>
-     <p itemscope itemprop="summary">
-       {{ post.excerpt }}
+     <p itemscope itemtype="https://schema.org/ItemList">
+       <span itemscope itemprop="description">{{ post.excerpt }}</span>
      </p>
    </li>
    {% endif %}
