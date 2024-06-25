@@ -91,8 +91,8 @@ div.scrollmenu {
   background-color: none;
   overflow: auto;
   white-space: nowrap;
-  border-top: solid 4px #F9313E;
-  border-bottom: solid 4px #F9313E;
+  border-top: solid 3px #F9313E;
+  border-bottom: solid 3px #F9313E;
 }
 div.scrollmenu a {
   display: inline-block;
