@@ -150,6 +150,9 @@ ol.breadcrumb li+li:before {
 ol.breadcrumb li a {
 text-decoration: none;
 }
+.breadcrumb-container {
+   padding: 10px;
+}
 
 /* Pagination */
 .pagination {
@@ -254,4 +257,8 @@ ol.lower-alpha {list-style-type: lower-alpha;}
 .card-footer {
  padding: 2px 16px;
  background-color: #E5DCD7;
+}
+
+.last-modified {
+   padding: 12px;
 }
