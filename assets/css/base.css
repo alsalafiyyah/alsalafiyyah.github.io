@@ -30,7 +30,6 @@ a {
 }
 /* logo */
 .logo, .logo a {
- font-family: 'Typewriter', sans-serif;
  font-size: 24px;
  text-decoration: none;
  word-break: break all;
@@ -40,8 +39,9 @@ a {
   align-items: center;
   justify-content: center;
 }
-header a {
+header a, header h1 {
   text-decoration: none;
+  font-family: 'Typewriter', sans-serif;
 }
 .container, header, footer {
  width: 90%;
@@ -116,28 +116,28 @@ th, td {
 
 /* breadcrumb */
 ul.breadcrumb {
-  padding: 8px 16px;
+  padding: 8px 10px;
   list-style: none;
   background-color: none;
 }
 ul.breadcrumb li {display: inline;}
 ul.breadcrumb li+li:before {
   padding: 8px;
-  color: black;
+  color: var(--color-red);
   content: "/\00a0";
 }
 ul.breadcrumb li a {
 text-decoration: none;
 }
 ol.breadcrumb {
-  padding: 8px 16px;
+  padding: 8px 10px;
   list-style: none;
   background-color: none;
 }
 ol.breadcrumb li {display: inline;}
 ol.breadcrumb li+li:before {
   padding: 8px;
-  color: black;
+  color: var(--color-red);
   content: "/\00a0";
 }
 ol.breadcrumb li a {
@@ -214,7 +214,7 @@ ol.lower-alpha {list-style-type: lower-alpha;}
 .mysearch {
   box-sizing: border-box;
   border: 2px solid var(--color-red);
-  border-radius: 4px;
+  border-radius: 0px;
   font-size: 16px;
   background-color: transparent;
   background-image: url('search.png');
