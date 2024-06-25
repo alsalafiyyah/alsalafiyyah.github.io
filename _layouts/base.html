@@ -8,7 +8,6 @@ layout: compress
 </head>
 <body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}">
 <div itemprop="isPartOf" itemscope itemtype="http://schema.org/WebSite"><!-- .container -->
-
 <header role="banner" itemprop="hasPart" itemscope itemtype="http://schema.org/WPHeader"><!-- header -->
 <div class="row flex">
    <div class="column">
@@ -21,12 +20,11 @@ layout: compress
   <meta itemprop="url" content="https://alsalafiyyah.github.io/search"/>
   <form itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction">
     <meta itemprop="target" content="https://alsalafiyyah.github.io/search?q={search_term_string}"/>
-    <input class="oren-search oren-responsive" itemprop="query-input" type="search" placeholder="Search" name="search_term_string" required/>
+    <input class="msearch responsive" itemprop="query-input" type="search" placeholder="Search" name="search_term_string" required/>
   </form>
 </div>
    </div>
  </div>    
- 
 <div class="scrollmenu">
  <nav role="navigation" itemprop="hasPart" itemscope itemtype="http://schema.org/SiteNavigationElement">
   {% for item in site.data.locales[page.locale].menu %}
