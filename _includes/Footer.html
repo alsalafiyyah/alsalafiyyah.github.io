@@ -5,9 +5,15 @@
     <p class="copyright">&copy; <span itemprop="copyrightYear">{{ 'now' | date: "%Y" }}</span> <span itemprop="copyrightHolder" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ site.title }}</span></span></p>
    </div>
    <div class="column">   
-     <ul class="square">
+     <ul class="square" itemscope itemtype="https://schema.org/ItemList">
       {% for item in site.data.base.footer %}
-      <li><a class="link" itemprop="url" href="{{ item.url }}" target="_blank"><span itemprop="name">{{ item.name }}</span></a></li>
+      <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+       <a class="link" itemprop="url" href="{{ item.url }}" target="_blank">
+        <span itemprop="item" itemscope>
+         <span itemprop="name">{{ item.name }}</span>
+        </span>
+       </a>
+      </li>
       {% endfor %}
      </ul>
    </div> 
