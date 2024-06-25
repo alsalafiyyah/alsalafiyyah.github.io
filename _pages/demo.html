@@ -5,9 +5,9 @@ permalink: /demo/
 ---
 
 <div itemscope>
-<a class="link" href="/demo/3">
- <h3>{{ site.data.base.page.fatwas }} ({{ site.posts | size }} Fatwas) →</h3>
-</a>
+<h3><a class="link" href="/demo/3">
+ {{ site.data.base.page.fatwas }} ({{ site.posts | size }} Fatwas) →
+</a></h3>
 <ul class="square">
  {% for post in site.posts limit:5 %}
   {% if post.url %}
