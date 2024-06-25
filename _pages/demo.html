@@ -11,7 +11,7 @@ permalink: /demo/
 
 <hr/>
 
-<h3>{{ site.data.locales[page.locale].page.fatwas }}</h3>
+<h3>{{ site.data.page.fatwas }}</h3>
 <ul class="square">
  {% for post in site.posts limit:5 %}
   {% if post.url %}
@@ -19,18 +19,33 @@ permalink: /demo/
     <a 
      itemprop="url" 
      href="{{ post.url }}">          
-     {{ post.title }}
+     <span itemprop="name">
+       {{ post.title }}
+     </span>
     </a>
    </li>
    {% endif %}
   {% endfor %}
-  <li>
     <a 
       itemprop="url" 
-      href="{% if page.locale == 'ar' %}{{ '/ar/fatwas/' | prepend:site.baseurl }}{% elsif page.locale == 'en' %}{{ '/fatwas/' | prepend:site.baseurl }}{% endif %}">
-      {{ site.data.locales[page.locale].page.more }}
+      href="/fatwas">
+      More
     </a>
-  </li>
+</ul>
+
+<hr/>
+
+<h3>{{ site.data.page.audios }}</h3>
+<ul class="bullets">
+{% for c in site.audios | limit:5 %}
+ <li>
+   <a itemprop="url" href="{{ c.url }}">
+     <span itemprop="name">
+       {{ c.title }}
+     </span>
+   </a>
+ </li>
+{% endfor %}
 </ul>
 
 <hr/>
