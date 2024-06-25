@@ -5,7 +5,7 @@ permalink: /demo/
 ---
 
 <h3>The Duty Of A Muslim Is To Follow The Teachings Of The Qur'an And Sunnah</h3>
-<p>
+<p itemscope>
   The duty of every Muslim is to adhere to what came in the Book of Allah and the Sunnah of His Messenger (peace be upon him) in words, deeds, and beliefs. A Muslim should also love and hate, show allegiance and enmity for the sake of Allah. And as far as ability goes, a Muslim should care to be the closest of all people to the truth.
 </p>
 
@@ -19,7 +19,7 @@ permalink: /demo/
     <a 
      itemprop="url" 
      href="{{ post.url }}">          
-     <span itemprop="name">
+     <span itemscope itemprop="name">
        {{ post.title }}
      </span>
     </a>
@@ -40,7 +40,7 @@ permalink: /demo/
 {% for c in site.audios | limit:5 %}
  <li>
    <a itemprop="url" href="{{ c.url }}">
-     <span itemprop="name">
+     <span itemscope itemprop="name">
        {{ c.title }}
      </span>
    </a>
@@ -51,7 +51,7 @@ permalink: /demo/
 <hr/>
 
 <h3>Table</h3>
-<table class="responsive" id="table">	
+<table itemscope class="responsive" id="table">	
  <tbody>     
   {% for category in site.categories %}	
   <tr>
