@@ -26,11 +26,13 @@ permalink: /demo/
        {{ post.title }}
      </span>
     </a>
-     <time itemprop="datePublished" 
+     <p itemscope class="remove-margin-padding">
+       <time itemprop="datePublished" 
        datetime="{{ post.hijri }}">
        {{ post.hijri }}
      </time>
-     <p itemprop="summary">
+     </p>
+     <p itemscope itemprop="summary">
        {{ post.excerpt }}
      </p>
    </li>
