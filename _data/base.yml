@@ -12,6 +12,13 @@ nav:
     url: /category
     active: category
 
+footer:
+  - name: Sitemap
+    url: /sitemap
+  - name: Rss Feed
+    url: /feed
+  - name: Instagram
+    url: https://instagram.com/alsalafiyyah
 
 page: 
   NoFatwas: "There are no fatwas for this topic."
