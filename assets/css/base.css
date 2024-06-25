@@ -31,9 +31,15 @@ a {
 /* logo */
 .logo, .logo a {
  font-family: 'Typewriter', sans-serif;
- font-size: 28px;
+ font-size: 24px;
  text-decoration: none;
+ word-break: break all;
 }  
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 header a {
   text-decoration: none;
 }
@@ -204,4 +210,15 @@ ol.lower-alpha {list-style-type: lower-alpha;}
 .remove-padding-margin {
   margin: 0;
   padding: 0;
+}
+.mysearch {
+  box-sizing: border-box;
+  border: 2px solid var(--color-red);
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: transparent;
+  background-image: url('search.png');
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  padding: 12px 10px 12px 40px;
 }
