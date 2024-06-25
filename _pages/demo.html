@@ -9,7 +9,7 @@ permalink: /demo/
  {% for c in site.data.books %}
  <div class="card">
   <div class="card-img">
-   <img src="../assets/images/books/{{ c.img }}" alt="{{ c.title }}">   
+   <img src="../assets/images/books/{{ c.imgg }}" alt="{{ c.title }}">   
   </div>
   <div class="card-body">
     <h3>{{ c.title }}</h3>
@@ -55,7 +55,7 @@ permalink: /demo/
 <hr/>
 
 <div itemscope>
-<h3>{{ site.data.base.page.fatwas }}</h3>
+<h3>{{ site.data.base.page.fatwas }} ({{ site.posts | size }} Fatwas)</h3>
 <ul class="square">
  {% for post in site.posts limit:5 %}
   {% if post.url %}
@@ -117,3 +117,5 @@ permalink: /demo/
  </tbody>	
 </table>
 </div>
+
+ <p id="last-modified"></p>
