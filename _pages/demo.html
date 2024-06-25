@@ -4,6 +4,22 @@ title: Demo
 permalink: /demo/
 ---
 
+<h3>Books</h3>
+<div itemscope>
+ {% for c in site.data.books %}
+ <div class="card">
+  <div class="card-img">
+   <img src="../assets/images/books/{{ c.img }}" alt="{{ c.title }}">   
+  </div>
+  <div class="card-body">
+    <h3>{{ c.title }}</h3>
+    <p>{{ c.author }}/p>
+    <a type="button" href="{{ c.url }}" class="btn-link">Download ({{ c.size }})</a>
+  </div>
+</div>     
+{% endfor %}
+</div>
+
 <div itemscope>
 <ul class="no-bullets">
  {% for post in site.posts limit:5 %}
