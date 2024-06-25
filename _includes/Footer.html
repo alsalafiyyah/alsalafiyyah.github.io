@@ -7,10 +7,10 @@
    <div class="column">   
      <ul class="square">
       {% for item in site.data.base.footer %}
-      <li><a itemprop="url" href="{{ item.url }}" target="_blank"><span itemprop="name">{{ item.name }}</span></a></li>
+      <li><a class="link" itemprop="url" href="{{ item.url }}" target="_blank"><span itemprop="name">{{ item.name }}</span></a></li>
       {% endfor %}
       <li>
-        <a itemprop="url" target="_blank" href="https://www.github.com/{{ site.github_username }}/{{ site.git_repo }}/blob/master/{{ page.path }}">
+        <a class="link" itemprop="url" target="_blank" href="https://www.github.com/{{ site.github_username }}/{{ site.git_repo }}/blob/master/{{ page.path }}">
          {{ site.data.base.page.edit }}
         </a>
       </li>
