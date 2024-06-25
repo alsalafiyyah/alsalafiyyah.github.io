@@ -18,9 +18,9 @@ layout: compress
    <div class="column">
 <div itemscope itemtype="https://schema.org/WebSite">
   <meta itemprop="url" content="https://alsalafiyyah.github.io/search"/>
-  <form itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction">
+  <form itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction" action="{{ "/search" | relative_url }}">
     <meta itemprop="target" content="https://alsalafiyyah.github.io/search?q={search_term_string}"/>
-    <input class="mysearch responsive" itemprop="query-input" type="search" placeholder="Search" name="search_term_string" required/>
+    <input class="mysearch responsive" name="q" id="tipue_search_input" itemprop="query-input" type="search" placeholder="Search" pattern=".{3,}" title="At least 3 characters" required/>
   </form>
 </div>
    </div>
