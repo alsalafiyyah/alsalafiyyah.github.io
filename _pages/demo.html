@@ -24,15 +24,21 @@ permalink: /demo/
      <span itemscope itemprop="name">
        {{ post.title }}
      </span>
-     <span itemprop="summary">
-       {{ post.excerpt }}
-     </span>
-      {{ post.hijri }}
     </a>
+     <p itemprop="summary">
+       {{ post.excerpt }}
+     </p>
+     {{ post.hijri }}
    </li>
    {% endif %}
   {% endfor %}
 </ul>
+
+<div class="pagination text-center">
+  <a href="#!">❮</a>
+  <a href="#!">❯</a>
+</div> 
+
 </div>
 
 <hr/>
