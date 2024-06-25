@@ -1,4 +1,4 @@
-.<footer class="footer" role="contentinfo" itemprop="hasPart" itemscope itemtype="http://schema.org/WPFooter">
+<footer class="footer" role="contentinfo" itemprop="hasPart" itemscope itemtype="http://schema.org/WPFooter">
  <div class="footer-container">
   <div class="row flex">
    <div class="column">   
@@ -9,11 +9,6 @@
       {% for item in site.data.base.footer %}
       <li><a class="link" itemprop="url" href="{{ item.url }}" target="_blank"><span itemprop="name">{{ item.name }}</span></a></li>
       {% endfor %}
-      <li>
-        <a class="link" itemprop="url" target="_blank" href="https://www.github.com/{{ site.github_username }}/{{ site.git_repo }}/blob/master/{{ page.path }}">
-         {{ site.data.base.page.edit }}
-        </a>
-      </li>
      </ul>
    </div> 
   </div>
