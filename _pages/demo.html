@@ -20,15 +20,19 @@ permalink: /demo/
    <li>
     <a 
      itemprop="url" 
-     href="{{ post.url }}">          
+     href="{{ post.url }}"
+     class="fatwas-title">          
      <span itemscope itemprop="name">
        {{ post.title }}
      </span>
     </a>
+     <time itemprop="datePublished" 
+       datetime="{{ post.hijri }}">
+       {{ post.hijri }}
+     </time>
      <p itemprop="summary">
        {{ post.excerpt }}
      </p>
-     {{ post.hijri }}
    </li>
    {% endif %}
   {% endfor %}
