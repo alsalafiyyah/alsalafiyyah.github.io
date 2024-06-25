@@ -62,7 +62,8 @@ permalink: /demo/
    <li>
     <a 
      itemprop="url" 
-     href="{{ post.url }}">          
+     href="{{ post.url }}"
+     class="link">          
      <span itemscope itemprop="name">
        {{ post.title }}
      </span>
@@ -70,11 +71,6 @@ permalink: /demo/
    </li>
    {% endif %}
   {% endfor %}
-    <a 
-      itemprop="url" 
-      href="/fatwas">
-      {{site.data.base.page.more }}
-    </a>
 </ul>
 </div>
 
@@ -85,7 +81,9 @@ permalink: /demo/
 <ul class="bullets">
 {% for c in site.audios | limit:5 %}
  <li>
-   <a itemprop="url" href="{{ c.url }}">
+   <a itemprop="url" 
+    href="{{ c.url }}"
+    class="link">
      <span itemscope itemprop="name">
        {{ c.title }}
      </span>
@@ -93,11 +91,6 @@ permalink: /demo/
  </li>
 {% endfor %}
 </ul>
-<a 
- itemprop="url" 
- href="/audios">
- {{site.data.base.page.more }}
-</a>
 </div>
 
 <hr/>
