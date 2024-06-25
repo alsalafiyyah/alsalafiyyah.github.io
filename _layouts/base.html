@@ -17,64 +17,8 @@ layout: compress
  </div><!-- /.container -->
 </main><!-- /main -->
 <div class="spacer"></div>
-
-  <div class="breadcrumb-container">
-    <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
-      <li itemprop="itemListElement" itemscope
-          itemtype="https://schema.org/ListItem">
-        <a itemprop="item" href="{{ site.url }}">
-        <span itemprop="name">Home</span></a>
-        <meta itemprop="position" content="1" />
-      </li>
-      <li itemprop="itemListElement" itemscope
-          itemtype="https://schema.org/ListItem">
-        <a itemprop="item" href="{{ page.url }}">
-        <span itemprop="name">{{ page.title }}</span></a>
-        <meta itemprop="position" content="2" />
-      </li>
-   </ol>  
- </div>
-
 {% include Footer.html %}
 </div>
-
-<!-- javacripts -->
-<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-<script src="https://unpkg.com/vanilla-datatables@latest/dist/vanilla-dataTables.min.js"></script>  
-<script type="text/javascript" language="javascript">
-var table = new DataTable("table");
-</script>
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-174935062-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'UA-174935062-1');
-</script>
-<script>(function(a,b,c){if(c in b&&b[c]){var d,e=a.location,f=/^(a|html)$/i;a.addEventListener("click",function(a){d=a.target;while(!f.test(d.nodeName))d=d.parentNode;"href"in d&&(d.href.indexOf("http")||~d.href.indexOf(e.host))&&(a.preventDefault(),e.href=d.href)},!1)}})(document,window.navigator,"standalone")</script>
-  <script>
-    function setAccessedDate() {
-      if (document.getElementById('accessed-on')) {
-        var now = new Date();
-        var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-        var formattedDate = now.getDate().padStart(2,'0')+" "+months[now.getMonth()]+" "+now.getFullYear();
-        document.getElementById('accessed-on').textContent = " (accessed " + formattedDate + ")";
-      }
-    }
-    function setModifiedDate() {
-      if (document.getElementById('last-modified')) {
-        fetch("https://api.github.com/repos/alsalafiyyah/alsalafiyyah.github.io/commits?path={{ page.path }}")
-          .then((response) => {
-            return response.json();
-          })
-          .then((commits) => {
-            var modified = commits[0]['commit']['committer']['date'].slice(0,10);
-            if(modified != "{{ page.date | date: "%Y-%m-%d" }}") {
-              document.getElementById('last-modified').textContent = "Last modified: " + modified + " by Dr. Rashid";
-            }
-          });
-      }
-    }
-  </script>
+{% include Javascripts.html %}
 </body>
 </html>
