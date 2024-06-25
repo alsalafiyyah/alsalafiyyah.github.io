@@ -142,6 +142,7 @@ text-decoration: none;
 .pagination {
   display: inline-block;
   margin: 20px;
+  text-align: center;
 }
 .pagination a {
   color: black;
@@ -196,4 +197,12 @@ ol.lower-alpha {list-style-type: lower-alpha;}
 }
 .right, .text-right {
   text-align: right;
+}
+.fatwas-title {
+  font-weight: bold;
+  font-size: 19px;
+}
+.remove-padding-margin {
+  margin: 0;
+  padding: 0;
 }
