@@ -34,8 +34,9 @@ html, body {
  margin: 0px;                                                                                                             
 }
 a {
-  text-decoration-style: wavy;
-  text-decoration-coloe: var(--color-red);
+ color: var(--color);
+ text-decoration-style: wavy;
+ text-decoration-color: var(--color-red);
 }
 /* logo */
 .logo, 
