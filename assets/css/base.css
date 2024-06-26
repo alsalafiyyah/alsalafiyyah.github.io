@@ -20,10 +20,10 @@ input:focus {
   outline: none !important;
 }
 mark {
-  background: linear-gradient(180deg, transparent 60%, yellow 60%);
+  background: hsl(4.1,89.6%,58.4%);
 }
 mark a {
-  background: linear-gradient(180deg, transparent 60%, yellow 60%);
+  background: hsl(4.1,89.6%,58.4%);
   text-decoration: none !important;
   text-decoration-style: none !important;
 }
