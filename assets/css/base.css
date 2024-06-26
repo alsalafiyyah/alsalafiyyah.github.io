@@ -331,3 +331,19 @@ ol.lower-alpha {list-style-type: lower-alpha;}
  padding: 0;
  margin: 10px 0;
 }
+ul#meta {
+ margin: 0;
+ padding: 0;
+ list-style-type: none;
+}
+ul#meta li {
+ display: inline;
+}
+#meta li:nth-child(1) span {
+ background: var(--warning);
+}
+#meta li:nth-child(2) span:before,
+#meta li:nth-child(3) span:before {
+ content: '\2022';
+ color: var(--color-red);
+}
