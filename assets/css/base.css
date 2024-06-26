@@ -29,7 +29,7 @@ mark a {
   display: inline-block;
   line-height: 0em;
   padding-bottom: 10em;
-  background: linear-gradient(180deg, transparent 60%, yello 60%);
+  background: linear-gradient(180deg, transparent 60%, yellow 60%);
 }
 html, body {
  font-size: 18px;
