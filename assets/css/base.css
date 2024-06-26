@@ -19,7 +19,7 @@ font-family: "Trocchi", serif;
 *, *:before, *:after {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
-*:focus {
+input:focus {
   outline: none !important;
 }
 html, body {
