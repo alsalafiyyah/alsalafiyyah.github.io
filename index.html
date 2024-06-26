@@ -4,4 +4,50 @@ uid: home
 active: home
 locale: en
 ---
-{% include new_widget.html %}
+<div itemscope>
+   <h3>Recent 
+    <a href="{{ '/fatwas/' | prepend:site.baseurl }}">
+      {{ site.data.locales[page.locale].page.fatwas }}
+    </a>
+   </h3>
+   <ul class="square" itemscope itemtype="https://schema.org/ItemList">
+     {% for post in site.posts limit:5 %}
+      {% if post.url %}
+       <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <a itemprop="url" title="{{ post.url }}" href="{{ post.url }}">
+          <span itemprop="item" itemscope>
+           <span itemprop="name">
+             {{ post.title }}
+           </span>
+          </span>
+        </a>
+       </li>
+      {% endif %}
+     {% endfor %}    
+   </ul> 
+</div>
+
+<div itemscope>
+   <h3 class="nowavy"> Recent 
+    <a itemprop="url" class="nowavy" href="{{ '/audios/' | prepend:site.baseurl }}">
+     <mark>
+     {{ site.data.locales[page.locale].page.audios }}
+     </mark>
+    </a>
+   </h3>
+   <ul itemscope itemtype="https://schema.org/ItemList" class="bullets">
+     {% for c in site.audios | limit:5 %}
+       <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <a itemprop="url" class="nowavy" href="{{ c.url }}" title="{{ c.url }}">
+         <mark>
+           <span itemprop="item" itemscope>
+           <span itemprop="name">
+             {{ c.title }}
+           </span>
+           </span>
+         </mark>
+        </a>
+       </li>
+     {% endfor %}    
+   </ul> 
+</div>
