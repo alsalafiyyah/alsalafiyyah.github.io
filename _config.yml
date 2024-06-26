@@ -61,7 +61,7 @@ manifest_lang: en
 manifest_background_color: "#fff"
 manifest_short_name:
 manifest_display: standalone
-
+      
 defaults:
   # default en
   - values:
@@ -72,6 +72,7 @@ defaults:
     values:
       layout: post
       permalink: /:title
+      is_post: true
   - scope:
       path: _posts/en/**
       type: posts
