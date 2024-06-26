@@ -12,7 +12,7 @@ font-family: "Trocchi", serif;
   --warning: hsl(42.4,63%,71.4%);
   --danger: hsl(4.1,89.6%,58.4%);
   --grey: hsl(0,0%,66.3%);
-  --link: gold;
+  --link: #c1d9f4;
 }
 
 /* general */
@@ -20,10 +20,10 @@ input:focus {
   outline: none !important;
 }
 mark {
-  background:linear-gradient(180deg, transparent 50%, #e7cf8a 50%);
+  background:linear-gradient(180deg, transparent 50%, #c1d9f4 50%);
 }
 mark a {
-  background:linear-gradient(180deg, transparent 50%, #e7cf8a 50%);
+  background:linear-gradient(180deg, transparent 50%, #c1d9f4 50%);
   text-decoration: none !important;
   text-decoration-style: none !important;
 }
