@@ -11,7 +11,11 @@
   <meta property="og:image" content="{{ '/assets/images/fb.jpg' | absolute_url }}" />
   <meta name="p:domain_verify" content="6a0545495b6d882089f54152a3ef5f2c"/>
   <meta name="keywords" content="{{ site.keywords }}"/>
-  <meta name="description" content="{{ site.description }}">
+  {% if page.description %}
+   <meta name="description" content="{{ page.description }}">
+   {% else %}
+   <meta name="description" content="{{ site.description }}">
+  {% endif %}
   <meta name="author" content="{{ site.author }}">
   <meta name="theme-color" content="Canvas">
   {% if page.url =='/' %}
