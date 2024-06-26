@@ -35,9 +35,14 @@ menu:
 page:
   next: Next
   prev: Prev
+  nextPost: Next post
+  prevPost: Prev post
   more: More
   read_more: Read more
   categories: Categories
+  category: Category
+  tag: Tag
+  tags: Tags
   basmalah: "In the Name of Allah, the Most Beneficent, the Most Merciful."
   home: Home
   search: Search
@@ -46,9 +51,12 @@ page:
   books: Books
   articles: Muqolat
   language: Language
+  languages: Languages
   mufti: Mufti
   muftis: Muftis
-  date: Date 
+  date: Created at
+  created_at: Created at
+  last_updated: Last updated
   fatwa_num: Fatwa No.
   source: Source
   website_is_under_maintenance: Website is under maintenance
