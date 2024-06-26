@@ -185,11 +185,18 @@ ___
 
 #### Display categories
 ~~~liquid
-// Date modified
 {% for category in site.categories %}
  <a href="{{ site.baseurl }}/category/{{ category[0] }}">
   {{ category[0] | capitalize }}
    <span>{{ category[1].size }}</span>
  </a>
 {% endfor %}
+
+// select
+<select class="browser-default" onchange="document.location.href=this.value">
+    <option value="" disabled selected>Categories</option>
+    {% for category in site.categories %}
+    <option value="{{ site.baseurl }}/category/{{ category[0] }}">{{ category[0] | capitalize }} ({{ category[1].size }})</option>
+    {% endfor %}
+</select>
 ~~~
