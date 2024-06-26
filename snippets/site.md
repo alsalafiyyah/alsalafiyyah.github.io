@@ -1,5 +1,4 @@
-#### Posts
-Default Front-matter
+#### Post frontmatter
 ~~~yaml
 ---
 layout: post
@@ -20,7 +19,7 @@ excerpt: ""
 --- 
 ~~~
 
-###### Custom Variables
+#### Custom Variables
 ~~~yaml
 article_taken_from: 
   taken_from:
@@ -44,7 +43,7 @@ shaykhs:
 
 ___
 
-###### _config.yml
+#### Custom _config.yml
 Group1
 ~~~yaml
 group1:
@@ -123,7 +122,7 @@ permalink:
 
 ___
 
-#### Posts
+#### Display Posts
 ~~~liquid
 // All posts
 {% for post in site.posts %}
