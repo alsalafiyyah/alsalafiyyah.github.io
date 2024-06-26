@@ -136,7 +136,28 @@ ___
   <date>{{ post.hijri }}</date>
 {% endfor %}
 
-// Display post by language
+// pagination post
+{% for post in paginator.posts %}
+  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+  <p>{{ post.excerpt }}</p>
+  <date>{{ post.hijri }}</date>
+{% endfor %}
+{% if paginator.previous_page %}
+ <a href="{{ paginator.previous_page_path }}">
+ Prev
+ </a>
+{% else %}
+ <span>Prev</span>
+{% endif %}
+{% if paginator.next_page %}
+ <a href="{{ paginator.next_page_path }}">
+ Next
+ </a>
+{% else %}
+<span>Next</span>
+{% endif %}
+
+// Display post by lang
 {% assign posts_en = (site.posts | where: "locale" , "en") %}
 {% for post in posts_en %}
   <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
@@ -144,7 +165,7 @@ ___
   <date>{{ post.hijri }}</date>
 {% endfor %}
 
-// Limit Posts
+// Limit post
 {% for post in site.posts limit:5 %}
  {% if post.url %}
   <a href="{{ post.url }}">{{ post.title }}</a>
