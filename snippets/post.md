@@ -124,3 +124,32 @@ lang: en/ar
 permalink: 
 ---
 ~~~
+
+___
+
+#### Posts
+~~~yaml
+// All posts
+{% for post in site.posts %}
+  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+  <p>{{ post.excerpt }}</p>
+  <date>{{ post.hijri }}</date>
+{% endfor %}
+
+// Display post by language
+{% assign posts_en = (site.posts | where: "locale" , "en") %}
+{% for post in posts_en %}
+  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+  <p>{{ post.excerpt }}</p>
+  <date>{{ post.hijri }}</date>
+{% endfor %}
+
+// Limit Posts
+{% for post in site.posts limit:5 %}
+ {% if post.url %}
+  <a href="{{ post.url }}">{{ post.title }}</a>
+  <p>{{ post.excerpt }}</p>
+  <date>{{ post.hijri }}</date>
+ {% endif %}
+{% endfor %}
+~~~
