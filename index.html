@@ -6,8 +6,10 @@ locale: en
 ---
 <div itemscope>
    <h3>Recent 
-    <a href="{{ '/fatwas/' | prepend:site.baseurl }}">
-      {{ site.data.locales[page.locale].page.fatwas }}
+    <a class="nowavy" href="{{ '/fatwas/' | prepend:site.baseurl }}">
+      <mark>
+       {{ site.data.locales[page.locale].page.fatwas }}
+      </mark>
     </a>
    </h3>
    <ul class="square" itemscope itemtype="https://schema.org/ItemList">
@@ -28,7 +30,7 @@ locale: en
 </div>
 
 <div itemscope>
-   <h3 class="nowavy"> Recent 
+   <h3> Recent 
     <a itemprop="url" class="nowavy" href="{{ '/audios/' | prepend:site.baseurl }}">
      <mark>
      {{ site.data.locales[page.locale].page.audios }}
