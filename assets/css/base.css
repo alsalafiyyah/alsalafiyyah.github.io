@@ -16,11 +16,14 @@ font-family: "Trocchi", serif;
 }
 
 /* general */
-*, *:before, *:after {
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-}
 input:focus {
   outline: none !important;
+}
+mark {
+  display: inline-block;
+  line-height: 0em;
+  padding-bottom: 0.5em;
+  background: linear-gradient(180deg, transparent 60%, orange 60%);
 }
 html, body {
  font-size: 18px;
