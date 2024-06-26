@@ -20,8 +20,8 @@
 </div>
 
 <div>
-   <h3> Recent 
-    <a href="{{ '/audios/' | prepend:site.baseurl }}">
+   <h3 class="nowavy"> Recent 
+    <a class="nowavy" href="{{ '/audios/' | prepend:site.baseurl }}">
      <mark>
      {{ site.data.locales[page.locale].page.audios }}
      </mark>
@@ -31,7 +31,7 @@
      {% for c in site.audios | limit:5 %}
        <li>
         <a href="{{ c.url }}">
-         {{ c.title }}
+         <mark>{{ c.title }}</mark>
         </a>
        </li>
      {% endfor %}    
