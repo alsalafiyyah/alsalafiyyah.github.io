@@ -1,11 +1,11 @@
 <div>
-   <h4>
+   <h3 class="sketch-highlight">
     <a href="{{ '/fatwas/' | prepend:site.baseurl }}">
      <mark>
      {{ site.data.locales[page.locale].page.fatwas }}
      </mark>
     </a>
-   </h4>
+   </h3>
    <ul class="square">
      {% for post in site.posts limit:5 %}
       {% if post.url %}
@@ -20,13 +20,13 @@
 </div>
 
 <div>
-   <h4>
+   <h3>
     <a href="{{ '/audios/' | prepend:site.baseurl }}">
      <mark>
      {{ site.data.locales[page.locale].page.audios }}
      </mark>
     </a>
-   </h4>
+   </h3>
    <ul class="bullets">
      {% for c in site.audios | limit:5 %}
        <li>
