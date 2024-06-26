@@ -1,9 +1,7 @@
 <div>
    <h3>Recent 
     <a href="{{ '/fatwas/' | prepend:site.baseurl }}">
-     <span class="sketch-highlight">
       {{ site.data.locales[page.locale].page.fatwas }}
-     </span>
     </a>
    </h3>
    <ul class="square">
@@ -30,7 +28,7 @@
    <ul class="bullets">
      {% for c in site.audios | limit:5 %}
        <li>
-        <a href="{{ c.url }}">
+        <a class="nowavy" href="{{ c.url }}">
          <mark>{{ c.title }}</mark>
         </a>
        </li>
