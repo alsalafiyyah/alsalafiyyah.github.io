@@ -186,6 +186,23 @@ ___
 
 // posts count
 {{ site.posts | size }}
+
+{% if page.locale == 'en' %}
+ Hello
+ {% elsif page.locale == 'ar' %}
+ Marhaba
+ {% else %}
+ Hello
+{% endif %}
+
+{% if page.locale == 'ar' %}
+ dir=rtl
+{% endif %}
+
+{% for item in site.data.myData %}
+ <li><{{ item.title }}/li>
+{% endfor %}
+
 ~~~
 
 ___
