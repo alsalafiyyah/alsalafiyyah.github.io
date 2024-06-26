@@ -15,11 +15,16 @@ locale: en
      itemprop="url" 
      href="{{ post.url }}"
      class="fatwas-title">          
-      <span itemscope itemprop="name">
+      <h3 class="content-title">
+       <span itemscope itemprop="name">
        {{ post.title }}
       </span>
+      </h3>
     </a>
-     <p itemscope itemtype="https://schema.org/ItemList">
+    <date class="content-date">
+     {{ post.hijri }}
+    </date>
+     <p class="content-excerpt" itemscope itemtype="https://schema.org/ItemList">
        <span itemscope itemprop="description">{{ post.excerpt }}</span>
      </p>
    </li>
