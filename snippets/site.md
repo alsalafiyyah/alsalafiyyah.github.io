@@ -181,3 +181,15 @@ ___
 {{ site.posts | size }}
 ~~~
 
+___
+
+#### Display categories
+~~~liquid
+// Date modified
+{% for category in site.categories %}
+ <a href="{{ site.baseurl }}/category/{{ category[0] }}">
+  {{ category[0] | capitalize }}
+   <span>{{ category[1].size }}</span>
+ </a>
+{% endfor %}
+~~~
