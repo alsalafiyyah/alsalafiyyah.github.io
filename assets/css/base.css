@@ -20,13 +20,14 @@ input:focus {
   outline: none !important;
 }
 mark {
-  background: hsl(4.1,89.6%,58.4%);
+  background:linear-gradient(180deg, transparent 80%, yellow 80%);
 }
 mark a {
-  background: hsl(4.1,89.6%,58.4%);
+  background:linear-gradient(180deg, transparent 80%, yellow 80%);
   text-decoration: none !important;
   text-decoration-style: none !important;
 }
+  
 html, body {
  font-size: 18px;
  font-family: var(--system-ui);
