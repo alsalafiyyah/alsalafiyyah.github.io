@@ -156,7 +156,7 @@ ul.breadcrumb li a {
 text-decoration: none;
 }
 ol.breadcrumb {
-  padding: 2px 15px;
+  padding: 2px 0px;
   list-style: none;
   background-color: none;
 }
@@ -282,44 +282,6 @@ ol.lower-alpha {list-style-type: lower-alpha;}
 .last-modified {
    padding-left: 15px;
 }
-.sketch-highlight, .sketch-highlight a{
-  position:relative;
-}
-.sketch-highlight:before ,
-.sketch-highlight a:before{
-  content:"";
-  z-index:-1;
-  left:0em;
-  top:0em;
-  border-width:2px;
-  border-style:solid;
-  border-color:darkblue;
-  position:absolute;
-  border-right-color:transparent;
-  width:100%;
-  height:1em;
-  transform:rotate(2deg);
-  opacity:0.5;
-  border-radius:0.25em;
-}
-.sketch-highlight:after,
-.sketch-highlight a:after{
-  content:"";
-  z-index:-1;
-  left:0em;
-  top:0em;
-  border-width:2px;
-  border-style:solid;
-  border-color:darkblue;
-  border-left-color:transparent;
-  border-top-color:transparent;
-  position:absolute;
-  width:100%;
-  height:1em;
-  transform:rotate(-1deg);
-  opacity:0.5;
-  border-radius:0.25em;
-}
 .content-title {
  margin: 2px;
  margin: 15px 0;
@@ -331,20 +293,4 @@ ol.lower-alpha {list-style-type: lower-alpha;}
 .content-excerpt {
  padding: 0;
  margin: 10px 0;
-}
-ul#meta {
- margin: 0;
- padding: 0;
- list-style-type: none;
-}
-ul#meta li {
- display: inline;
-}
-#meta li:nth-child(1) span {
- background: var(--warning);
-}
-#meta li:nth-child(2) span:before,
-#meta li:nth-child(3) span:before {
- content: '\2022';
- color: var(--color-red);
 }
