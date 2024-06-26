@@ -1,6 +1,22 @@
 ---
 layout: default
 ---
+<ul id="meta">
+    <li>
+        <a class="nowavy" href="/fatwas"><span>Fatwas</span></a>
+    </li>
+    {% if page.hijri %}
+    <li>
+        <span>
+         {{ site.data.locales[page.locale].page.date }}: 
+         {{ page.hijri }} {% else %} {{ site.hijri.name }} 
+        </span>
+    </li>
+     {% endif %}
+    <li>
+        <span id='last-modified' itemprop='dateModified'></span>
+    </li>
+</ul> 
 <h3>
  {{ page.title }}
 </h3>
