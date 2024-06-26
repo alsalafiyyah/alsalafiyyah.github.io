@@ -1,9 +1,8 @@
 ---
 layout: page
-title: "Faq"
-active: faq
+title: "Knowledge Base"
 author: "Instagram@Alsalafiyyah"
-permalink: /web/faq/
+permalink: /knowledge-base/
 ---
 
 ### Who are the Salaf
@@ -36,9 +35,9 @@ The Saved Sect is the one that follows in the footsteps of the Prophet (peace be
 
 ###  What is the difference between Tariqah and Shari‘ah
 
-Shari‘ah is the body of Laws which Allah revealed in His Books with which He sent His Messengers to mankind for them to follow as the way of worshipping Allah and drawing close to Him, pursuant to the orders, advice, and direction of their Messengers (peace be upon them all) to them. The approved Tariqah is the one adhering to this, i.e. The one conforming to the Law of Allah which He revealed to the last of His Messengers, Muhammad (peace be upon him). Allah says: "*** And verily, this (i.e. Allâh’s Commandments mentioned in the above two Verses 151 and 152) is My Straight Path, so follow it, and follow not (other) paths, for they will separate you away from His Path.*** " [al-An'am: 153]
+Shari‘ah is the body of Laws which Allah revealed in His Books with which He sent His Messengers to mankind for them to follow as the way of worshipping Allah and drawing close to Him, pursuant to the orders, advice, and direction of their Messengers (peace be upon them all) to them. The approved Tariqah is the one adhering to this, i.e. The one conforming to the Law of Allah which He revealed to the last of His Messengers, Muhammad (peace be upon him). Allah says: "**And verily, this (i.e. Allâh’s Commandments mentioned in the above two Verses 151 and 152) is My Straight Path, so follow it, and follow not (other) paths, for they will separate you away from His Path.**" [al-An'am: 153]
 
-It is also the one conforming to the saying of the Prophet (peace be upon him): "My Ummah (nation) will split into seventy-three sects, all of which will be in Hellfire except one.” It was asked, “Which will it be, O Messenger of Allah?” He said, “Those who follow the very same (path) that I and my Companions follow.” (At-Tabarani [Jami’ Al-Saghir] no. 724; Al-Tirmidhi no. 2643)
+It is also the one conforming to the saying of the Prophet (peace be upon him): "**My Ummah (nation) will split into seventy-three sects, all of which will be in Hellfire except one.” It was asked, “Which will it be, O Messenger of Allah?” He said, “Those who follow the very same (path) that I and my Companions follow.**” (At-Tabarani [Jami’ Al-Saghir] no. 724; Al-Tirmidhi no. 2643)
 
 This is the one within the Shari‘ah, whereas any other Tariqah, such as Sufi Tariqahs (Orders): Al-Tijaniyyah, Al-Naqshbandiyyah, and Al-Qadiriyyah, are all invented ways introduced into the religion that should be abandoned and should not be espoused as the path to Allah (Exalted be He). [^7]
 
@@ -59,17 +58,18 @@ The only way to Jannah (Paradise) is the way followed by Prophet Muhammad (peace
 Shaykh Muhammad Ibn 'Abdul-Wahhab (may Allah be Merciful with him) was indeed one of the great callers to Salafiyyah (following the way of the righteous predecessors), and to the sound ‘Aqidah (creed) and the morally correct, upright method. His books abound with these aspects.The above-mentioned claim made by an antagonist to the Shaykh’s call: that he deviated from the truth at the end of his life by denying authentic Hadiths that did not agree with his own views, is a lie fabricated against him. To the day he died, the Shaykh remained one of the strongest adherents to the Sunnah, and retained his deep veneration for it and kept calling people to it, may Allah be merciful to him. [^11]
 
 ---
+#### Ref: 
 
-[^1]: Fatwas of the Permanent Committee of KSA no. 6149-2
-[^2]: Fatwas of the Permanent Committee of KSA no. 1361-2
-[^3]: Fatwas of the Permanent Committee of KSA no. 6265
-[^4]: Fatwas of the Permanent Committee of KSA no. 18870
-[^5]: Fatwas of the Permanent Committee of KSA no. 4143-2 
-[^6]: Fatwas of the Permanent Committee of KSA no. 6229-3
-[^7]: Fatwas of the Permanent Committee of KSA no. 6648-1
-[^8]: Fatwas of the Permanent Committee of KSA no. 4889-3
-[^9]: Fatwas of the Permanent Committee of KSA no. 6356-5
-[^10]: Fatwas of the Permanent Committee of KSA no. 5623-1
-[^11]: Fatwas of the Permanent Committee of KSA no. 6477-3
+[^1]: Fatwas of the Permanent Committee of KSA, Fatwa no. 6149, Question 2
+[^2]: Fatwas of the Permanent Committee of KSA, Fatwa no. 1361, Question 2
+[^3]: Fatwas of the Permanent Committee of KSA, Fatwa no. 6265
+[^4]: Fatwas of the Permanent Committee of KSA, Fatwa no. 18870
+[^5]: Fatwas of the Permanent Committee of KSA, Fatwa no. 4143-2 
+[^6]: Fatwas of the Permanent Committee of KSA, Fatwa no. 6229, Question 3
+[^7]: Fatwas of the Permanent Committee of KSA, Fatwa no. 6648, Question 1
+[^8]: Fatwas of the Permanent Committee of KSA, Fatwa no. 4889, Question 3
+[^9]: Fatwas of the Permanent Committee of KSA, Fatwa no. 6356, Question 5
+[^10]: Fatwas of the Permanent Committee of KSA, Fatwa no. 5623, Question 1
+[^11]: Fatwas of the Permanent Committee of KSA, Fatwa no. 6477, Questiom 3
 
 
