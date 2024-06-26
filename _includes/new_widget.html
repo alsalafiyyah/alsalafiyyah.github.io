@@ -1,7 +1,9 @@
 <div>
-   <h3 class="sketch-highlight">
+   <h3>Recent 
     <a href="{{ '/fatwas/' | prepend:site.baseurl }}">
-     {{ site.data.locales[page.locale].page.fatwas }}
+     <span class="sketch-highlight">
+      {{ site.data.locales[page.locale].page.fatwas }}
+     </span>
     </a>
    </h3>
    <ul class="square">
@@ -18,7 +20,7 @@
 </div>
 
 <div>
-   <h3>
+   <h3> Recent 
     <a href="{{ '/audios/' | prepend:site.baseurl }}">
      <mark>
      {{ site.data.locales[page.locale].page.audios }}
