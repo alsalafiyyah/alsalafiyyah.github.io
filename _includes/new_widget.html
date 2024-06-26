@@ -1,41 +1,39 @@
-<div uk-height-match class="uk-child-width-expand@s" uk-grid>
- 
 <div>
- <div class="uk-card uk-card-default uk-width-6-3@m">
-  <div class="uk-card-body">
-   <ul class="uk-list">
-    <li {% if page.locale == 'ar' %}dir="rtl"{% endif %}>
-     <h4 class="uk-heading-line uk-text-bold uk-text-uppercase">
-      {{ site.data.locales[page.locale].page.fatwas }}
-      </h4>
-     </li>
+   <h4>
+    <a href="{{ '/fatwas/' | prepend:site.baseurl }}">
+     <mark>
+     {{ site.data.locales[page.locale].page.fatwas }}
+     </mark>
+    </a>
+   </h4>
+   <ul class="square">
      {% for post in site.posts limit:5 %}
       {% if post.url %}
-       <li><a class="uk-text-capitalize uk-link-text" href="{{ post.url }}"><span uk-icon="chevron-double-right"></span> {{ post.title }}</a></li>
+       <li>
+        <a href="{{ post.url }}">
+         {{ post.title }}
+        </a>
+       </li>
       {% endif %}
-     {% endfor %}
-     <li {% if page.locale == 'ar' %}dir="rtl"{% endif %}><a href="{% if page.locale == 'ar' %}{{ '/ar/fatwas/' | prepend:site.baseurl }}{% elsif page.locale == 'en' %}{{ '/fatwas/' | prepend:site.baseurl }}{% endif %}" class="uk-text-capitalize uk-align-right uk-link-text uk-button uk-button-text">{{ site.data.locales[page.locale].page.more }} {% if page.locale == 'ar' %}<span uk-icon="chevron-double-left"></span>{% elsif page.locale == 'en' %}<span uk-icon="chevron-double-right"></span>{% endif %}</a></li>
-    </ul>
-  </div>  
- </div>
+     {% endfor %}    
+   </ul> 
 </div>
- 
-<div>
- <div class="uk-heading-line uk-card uk-card-default uk-width-6-3@m">
-  <div class="uk-card-body">
-   <ul class="uk-list">
-    <li {% if page.locale == 'ar' %}dir="rtl"{% endif %}>
-     <h4 class="uk-heading-line uk-text-bold uk-text-uppercase">
-      {{ site.data.locales[page.locale].page.audios }}
-      </h4>
-    </li>    
-    {% for c in site.audios | limit:5 %}
-     <li><a class="uk-text-capitalize uk-link-text" href="{{ c.url }}"><span uk-icon="play"></span> {{ c.title }}</a></li>
-    {% endfor %}
-    <li {% if page.locale == 'ar' %}dir="rtl"{% endif %}><a href="{% if page.locale == 'ar' %}{{ '/ar/audios/' | prepend:site.baseurl }}{% elsif page.locale == 'en' %}{{ '/audios/' | prepend:site.baseurl }}{% endif %}" class="uk-text-capitalize uk-align-right uk-link-text uk-button uk-button-text">{{ site.data.locales[page.locale].page.more }} {% if page.locale == 'ar' %}<span uk-icon="chevron-double-left"></span>{% elsif page.locale == 'en' %}<span uk-icon="chevron-double-right"></span>{% endif %}</a></li>
-    </ul>   
-   </div>
- </div>
-</div>    
 
+<div>
+   <h4>
+    <a href="{{ '/audios/' | prepend:site.baseurl }}">
+     <mark>
+     {{ site.data.locales[page.locale].page.audios }}
+     </mark>
+    </a>
+   </h4>
+   <ul class="square">
+     {% for c in site.audios | limit:5 %}
+       <li>
+        <a href="{{ c.url }}">
+         {{ c.title }}
+        </a>
+       </li>
+     {% endfor %}    
+   </ul> 
 </div>
