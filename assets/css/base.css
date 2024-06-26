@@ -321,13 +321,13 @@ ol.lower-alpha {list-style-type: lower-alpha;}
 }
 .content-title {
  margin: 2px;
- margin: 15px;
+ margin: 15px 0;
 }
 .content-date {
  padding: 0;
- margin: 5px 15px;
+ margin: 5px 0;
 }
 .content-excerpt {
  padding: 0;
- margin: 10px 15px;
+ margin: 10px 0;
 }
