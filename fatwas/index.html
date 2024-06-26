@@ -9,8 +9,7 @@ locale: en
 <ul 
  class="no-bullets"
  itemscope itemtype="https://schema.org/ItemList">
- {% for post in site.posts limit:5 %}
-  {% if post.url %}
+ {% for post in paginator.posts %}
    <li itemprop="itemListElement">
     <a 
      itemprop="url" 
@@ -24,7 +23,6 @@ locale: en
        <span itemscope itemprop="description">{{ post.excerpt }}</span>
      </p>
    </li>
-   {% endif %}
   {% endfor %}
 </ul>
 {% include Pagination.html %}
