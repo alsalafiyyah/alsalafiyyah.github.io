@@ -32,13 +32,15 @@ permalink: /demo/3
   {% endfor %}
 </ul>
 
-<div class="pagination flex center">
-  <a href="#!">
+<div class="flex">
+ <div class="pagination" itemscope itemtype="http://schema.org/SiteNavigationElement/Pagination">
+  <a href="#!" itemprop="relatedLink/pagination" rel="prev">
     ❮ {{ site.data.base.page.prev }}
   </a>
-  <a href="#!">
+  <a href="#!" itemprop="relatedLink/pagination" rel="next">
     {{ site.data.base.page.next }} ❯
   </a>
-</div> 
+ </div> 
+</div>
 
 </div>
