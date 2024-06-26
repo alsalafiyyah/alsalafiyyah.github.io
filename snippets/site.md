@@ -3,7 +3,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: 
+title: Post Title
 hijri: Muharram 09, 1445
 date: July 27, 2023
 source: 
@@ -15,7 +15,7 @@ group3: true/false
 group4: true/false
 group5: true/false
 category: [islam, sunnah]
-excerpt: ""
+excerpt: "..."
 --- 
 ~~~
 
@@ -130,6 +130,13 @@ ___
   <p>{{ post.excerpt }}</p>
   <date>{{ post.hijri }}</date>
 {% endfor %}
+<ol>
+
+{% assign posts = site.posts %}
+{% for post in posts %}
+ <li><a href="{{ post.url | prepend:site.baseurl }}" title="{{ post.title }}">{{ post.title }}</a></li>
+{% endfor %}
+</ol>
 
 // pagination post
 {% for post in paginator.posts %}
