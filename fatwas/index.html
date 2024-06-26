@@ -1,32 +1,30 @@
 ---
 title: Fatwas
-layout: default
+layout: base
 active: fatwas
 uid: fatwas
 locale: en
 ---
 
-<ul class="uk-list uk-list-divider">
-{% assign paginator.posts = (site.posts | where: "locale" , "en") %}
- {% for post in paginator.posts %}	
- <li>
- <a href="{{ post.url | prepend: site.baseurl }}">
-  <h3 class="uk-margin-remove-bottom">{{ post.title }}</h3>
- </a>
- <p class="uk-text-meta uk-margin-remove-top">{{ post.hijri }}</p>  
- </li>
-{% endfor %}
+<ul 
+ class="no-bullets"
+ itemscope itemtype="https://schema.org/ItemList">
+ {% for post in site.posts limit:5 %}
+  {% if post.url %}
+   <li itemprop="itemListElement">
+    <a 
+     itemprop="url" 
+     href="{{ post.url }}"
+     class="fatwas-title">          
+      <span itemscope itemprop="name">
+       {{ post.title }}
+      </span>
+    </a>
+     <p itemscope itemtype="https://schema.org/ItemList">
+       <span itemscope itemprop="description">{{ post.excerpt }}</span>
+     </p>
+   </li>
+   {% endif %}
+  {% endfor %}
 </ul>
-<ul class="uk-pagination">
-  {% if paginator.previous_page %}
-   <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}"><span class="uk-margin-small-right" uk-pagination-previous></span> {{ site.data.locales[page.locale].page.prev }}</a></li>
-  {% else %}
-   <li class="uk-disabled"><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}"><span class="uk-margin-small-right" uk-pagination-previous></span> {{ site.data.locales[page.locale].page.prev }}</a></li>
-  {% endif %}
-  
-  {% if paginator.next_page %}
-   <li class="uk-margin-auto-left"><a href="{{ paginator.next_page_path | prepend: site.baseurl }}">{{ site.data.locales[page.locale].page.next }} <span class="uk-margin-small-left" uk-pagination-next></span></a></li>
-   {% else %}
-   <li class="uk-margin-auto-left uk-disabled"><a href="{{ paginator.next_page_path | prepend: site.baseurl }}">{{ site.data.locales[page.locale].page.next }} <span class="uk-margin-small-left" uk-pagination-next></span></a></li>
-  {% endif %}
-</ul>
+{% include Pagination.html %}
