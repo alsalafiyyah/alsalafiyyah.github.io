@@ -156,18 +156,19 @@ ul.breadcrumb li a {
 text-decoration: none;
 }
 ol.breadcrumb {
-  padding: 8px 10px;
+  padding: 2px 15px;
   list-style: none;
   background-color: none;
 }
 ol.breadcrumb li {display: inline;}
 ol.breadcrumb li+li:before {
-  padding: 8px;
-  color: var(--color-red);
-  content: "/\00a0";
+  padding: 2px;
+  color: #91c0f7;
+  content: "\2022";
 }
 ol.breadcrumb li a {
-text-decoration: none;
+ text-decoration: none;
+ background:linear-gradient(180deg, transparent 50%, #c1d9f4 50%);
 }
 .breadcrumb-container {
    padding: 10px;
