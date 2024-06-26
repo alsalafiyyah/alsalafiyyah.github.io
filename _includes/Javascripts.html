@@ -31,7 +31,7 @@ var table = new DataTable("table");
           .then((commits) => {
             var modified = commits[0]['commit']['committer']['date'].slice(0,10);
             if(modified != "{{ page.date | date: "%Y-%m-%d" }}") {
-              document.getElementById('last-modified').textContent = "Last modified: " + modified + " ";
+              document.getElementById('last-modified').textContent = "Last updated: " + modified + " ";
             }
           });
       }
