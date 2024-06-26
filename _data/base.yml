@@ -44,4 +44,28 @@ page:
   source: Source(s)
   muftis: Mufti(s)
 
+links:
+  - name: Wahhabism
+    url: /wahabism
+  - name: Scholars
+    url: /salafi-scholars
+  - name: Refutals
+    url: /refutals
+  - name: Muqolat
+    url: /muqolat
+  - name: Categories
+    url: /category
+  - name: Books
+    url: /books
+  - name: The Sects
+    url: /the-sects
+  - name: Scholars Biography
+    url: /biography
+  - name: Audios
+    url: /audios
+  - name: Fatwas
+    url: /fatwas
+  - name: Fawaid
+    url: /fawaid
+
 
