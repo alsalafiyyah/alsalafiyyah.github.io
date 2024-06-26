@@ -319,3 +319,15 @@ ol.lower-alpha {list-style-type: lower-alpha;}
   opacity:0.5;
   border-radius:0.25em;
 }
+.content-title {
+ margin: 2px;
+ margin: 15px;
+}
+.content-date {
+ padding: 0;
+ margin: 5px 15px;
+}
+.content-excerpt {
+ padding: 0;
+ margin: 10px 15px;
+}
