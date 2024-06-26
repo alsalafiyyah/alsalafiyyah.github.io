@@ -278,11 +278,11 @@ ol.lower-alpha {list-style-type: lower-alpha;}
 .last-modified {
    padding-left: 15px;
 }
-.sketch-highlight{
+.sketch-highlight, .sketch-highlight a{
   position:relative;
 }
-
-.sketch-highlight:before{
+.sketch-highlight:before ,
+.sketch-highlight a:before{
   content:"";
   z-index:-1;
   left:0em;
@@ -298,8 +298,8 @@ ol.lower-alpha {list-style-type: lower-alpha;}
   opacity:0.5;
   border-radius:0.25em;
 }
-
-.sketch-highlight:after{
+.sketch-highlight:after,
+.sketch-highlight a:after{
   content:"";
   z-index:-1;
   left:0em;
