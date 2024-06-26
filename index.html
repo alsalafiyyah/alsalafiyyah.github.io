@@ -17,11 +17,9 @@ locale: en
       {% if post.url %}
        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
         <a itemprop="url" title="{{ post.url }}" href="{{ post.url }}">
-          <span itemprop="item" itemscope>
            <span itemprop="name">
              {{ post.title }}
            </span>
-          </span>
         </a>
         <meta itemprop="position" content="{{ forloop.index }}" />
        </li>
@@ -43,10 +41,8 @@ locale: en
        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
         <a itemprop="url" class="nowavy" href="{{ c.url }}" title="{{ c.url }}">
          <mark>
-           <span itemprop="item" itemscope>
            <span itemprop="name">
              {{ c.title }}
-           </span>
            </span>
          </mark>
         </a>
