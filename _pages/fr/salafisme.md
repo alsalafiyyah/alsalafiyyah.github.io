@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: default
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatwas du Comité Permanent (1361-2), (6149-2), (9450-2)"
 hijri: Muharram 7, 1442 AH
