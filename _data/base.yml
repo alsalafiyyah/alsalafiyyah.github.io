@@ -38,5 +38,10 @@ page:
   books: Books
   edit: Edit on GitHub
   search: Search
+  created_at: Creadted at
+  last_updated: Last updated
+  ref: Reference(s)
+  source: Source(s)
+  muftis: Mufti(s)
 
 
