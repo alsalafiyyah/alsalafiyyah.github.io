@@ -1,7 +1,3 @@
----
-layout: null
----
-
 #### Posts
 Default Front-matter
 ~~~yaml
@@ -9,7 +5,7 @@ Default Front-matter
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: 
-hijri: Muharram 09, 1445AH
+hijri: Muharram 09, 1445
 date: July 27, 2023
 source: 
 lang: en/ar
@@ -128,7 +124,7 @@ permalink:
 ___
 
 #### Posts
-~~~yaml
+~~~liquid
 // All posts
 {% for post in site.posts %}
   <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
@@ -174,3 +170,15 @@ ___
  {% endif %}
 {% endfor %}
 ~~~
+
+___
+
+#### Others
+~~~yml
+// Date modified
+<div id="last-modified"></div>
+
+// posts count
+{{ site.posts | size }}
+~~~
+
