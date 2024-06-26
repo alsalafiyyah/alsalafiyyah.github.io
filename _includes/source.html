@@ -1,13 +1,6 @@
-<div class="uk-card">
-<ul class="uk-list uk-list-divider">
+<div>
+<ul>
 
- {% if page.hijri %}
-    <li class="collection-item">
-    {{ site.data.locales[page.locale].page.date }}: {{ page.hijri }}
-    {% else %} {{ site.hijri.name }} 
-    </li>
- {% endif %}
- 
  {% if page.source %}
    <li class="collection-item">
    {{ site.data.locales[page.locale].page.source }}: {{ page.source }} {% else %}
@@ -213,7 +206,7 @@
   {% if page.muftis %}
    {% if page.muftis.shaykh %}
     {% for shaykh in page.muftis.shaykh %}
-       <li class="collection-item">
+       <li>
         {{ site.data.locales[page.locale].page.mufti }}: <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}"><b>{{ shaykh.name }}</b></a>
        </li>
     {% endfor %}
@@ -223,19 +216,19 @@
   {% if page.muftis %}
 
    {% if page.muftis.chairman %}
-    <li class="collection-item">
+    <li>
      {{ site.data.locales[page.locale].post.chairman }} : 
     {% for chairman in page.muftis.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
     </li>
    {% endif %} 
    {% if page.muftis.deputy_chairman %}
-     <li class="collection-item">
+     <li>
       {{ site.data.locales[page.locale].post.deputy_chairman }} : 
       {% for deputy_chairman in page.muftis.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
      </li>
    {% endif %}      
    {% if page.muftis.members %}
-     <li class="collection-item">
+     <li>
         {{ site.data.locales[page.locale].post.members }} : 
         <ol>
          {% for members in page.muftis.members %}
@@ -250,7 +243,7 @@
   {% if page.article_taken_from %}
    {% if page.article_taken_from.taken_from %}
     {% for p in page.article_taken_from.taken_from %}
-       <li class="collection-item">
+       <li>
         {{ site.data.locales[page.locale].page.source }}: <a href="{{ p.web_url }}" target="_blank"><b>{{ p.web_title }}</b></a>
        </li>
     {% endfor %}
