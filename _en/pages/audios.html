@@ -1,25 +1,23 @@
 ---
-layout: page
+layout: Page
 title: Audios
 active: audios
 permalink: /audios/
 locale: en
 ---
 
-<table class="uk-table">	
- <tbody>     
+<table>     
   {% for c in site.audios %}	
   <tr>
    <td>
     <h3>
-     <a class="uk-link-reset uk-margin-remove-bottom" title="{{ c.title }}" href="{{ c.url }}">
+     <a title="{{ c.title }}" href="{{ c.url }}">
      {{ c.title }}
      </a>
     </h3>
-    <p class="uk-text-meta uk-margin-remove-top">{{ c.hijri }}</p>
+    <p>{{ c.hijri }}</p>
     </a>
    </td>    
   </tr>      
   {% endfor %}	
- </tbody>	
-</table> 
+</table>
