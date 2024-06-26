@@ -24,8 +24,8 @@ mark {
 }
 mark a {
   background: linear-gradient(180deg, transparent 60%, yellow 60%);
-  text-decoration: none;
-  text-decoration-style: none;
+  text-decoration: none !important;
+  text-decoration-style: none !important;
 }
 html, body {
  font-size: 18px;
@@ -43,10 +43,10 @@ a {
  text-decoration-style: wavy;
  text-decoration-color: var(--color-red);
 }
-a:hover {
+.nowavy, nowavy a {
  color: var(--color);
- text-decoration-style: underline;
- text-decoration-color: var(--color-red);
+ text-decoration: none !important;
+ text-decoration-style: none !important;
 }
 /* logo */
 .logo, 
