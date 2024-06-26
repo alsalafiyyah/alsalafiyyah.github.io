@@ -1,22 +1,35 @@
 ---
 layout: default
 ---
-<ul id="meta">
-    <li>
-        <a class="nowavy" href="/fatwas"><span>Fatwas</span></a>
-    </li>
-    {% if page.hijri %}
-    <li>
-        <span>
-         {{ site.data.locales[page.locale].page.date }}: 
-         {{ page.hijri }} {% else %} {{ site.hijri.name }} 
-        </span>
-    </li>
-     {% endif %}
-    <li>
-        <span id='last-modified' itemprop='dateModified'></span>
-    </li>
-</ul> 
+
+    <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+      <li itemprop="itemListElement" itemscope
+          itemtype="https://schema.org/ListItem">
+        <a itemprop="item" 
+            href="/fatwas"
+            itemid="/fatwas"
+            itemtype="https://schema.org/WebPage">
+            <span itemprop="name">Fatwas</span></a>
+        <meta itemprop="position" content="1" />
+      </li>
+      {% if page.hijri %}  
+      <li itemprop="itemListElement" itemscope
+          itemtype="https://schema.org/ListItem">
+          <span itemprop="name">
+              {{ site.data.locales[page.locale].page.date }}: 
+              {{ page.hijri }} {% else %} {{ post.date }} 
+          </span>
+        <meta itemprop="position" content="2" />
+      </li>
+      {% endif %}
+      <li itemprop="itemListElement" itemscope
+          itemtype="https://schema.org/ListItem">
+        <span itemprop="name"
+            id='last-modified'></span>
+        <meta itemprop="position" content="3" />
+      </li>
+    </ol>
+
 <h3>
  {{ page.title }}
 </h3>
