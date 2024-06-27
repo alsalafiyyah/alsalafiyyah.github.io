@@ -9,7 +9,7 @@ note: true
 lang: en
 locale: en
 category: [treatments]
-excerpt: "..."
+excerpt: "The dung of rock hyrax is used as a cure for many diseases and is sold by spice traders. Is it permissible to use it for treatment?"
 shaykhs: 
  - Shaykh Abdul-Aziz Aal al-Shaykh
  - Shaykh Abdul-Aziz ibn Baz
