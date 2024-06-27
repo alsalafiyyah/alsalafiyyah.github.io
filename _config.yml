@@ -74,6 +74,12 @@ defaults:
       permalink: /:title
       is_post: true
   - scope:
+      path: "_posts/en/**"
+      type: posts
+    values:
+      layout: post
+      permalink: /:title
+  - scope:
       path: _posts/en/**
       type: posts
     values:
