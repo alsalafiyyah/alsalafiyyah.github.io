@@ -65,6 +65,7 @@ a {
 header a, header h1 {
   text-decoration: none;
   font-family: "Trocchi", serif;
+  font-size: 18px !important;
 }
 .container, header, footer {
  width: 90%;
@@ -87,11 +88,11 @@ hr {
   background: #E5DCD7;
 }
 ::placeholder {
-  color: red;
+  color: var(--color);
   opacity: 1;
 }
 ::-ms-input-placeholder {
-  color: red;
+  color: var(--color);
 }
 .spacer {
     flex: 1; 
