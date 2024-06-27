@@ -2,34 +2,25 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Eating With Fingers"
-hijri: Ramadan 17, 1440 AH
-source: "Fatawa Al-Lajnah Al-Da'mah of KSA no. 8107 "
-lang: en
-category: [sunnah]
+date: 2019-02-22
+hijri: Ramadan 17, 1440
+source: "Fatawa Al-Lajnah Ad-Da'imah of KSA no. 8107"
+category: [fatwas, sunnah]
 note: true
-book: Slaughtering and Hunting
-chapter: food
+locale: en
+lang: en
 excerpt: "Eating with one's fingers or using spoons is a part of customs. It was the guidance of the Prophet (peace be upon him) that he used to eat with three fingers."
-muftis:
-  chairman: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+shaykhs: 
+ - Sh. Abdul-Aziz ibn Baz
+ - Sh. Abdur-Razzaq Afifi
+ - Sh. Abdullah ibn Ghudayyan
+ - Sh. Abdullah ibn Qa'ud
 ---
 
-Question: 
-
+### Question: 
 Is eating with one's fingers a custom or a Sunnah (supererogatory act of worship following the example of the Prophet)?
 
-Answer: 
-
+### Answer: 
 Eating with one's fingers or using spoons is a part of customs. It was the guidance of the Prophet (peace be upon him) that he used to eat with three fingers. It is reported by Imam Muslim, in the chapter of "Drinks", section on "Recommendation on licking one's fingers and plate", on the authority of Ka`b ibn Malik (may Allah be pleased with him), saying: "**I saw the Messenger of Allah (peace be upon him) eating with three fingers which he licked when he completed his food.**" [^1]
 
 ---
