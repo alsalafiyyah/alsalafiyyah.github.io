@@ -17,6 +17,7 @@ permalink: /demo/
 _posts/bidah
 <h3>Bid'ahs</h3>
 <table>
+<tbody>
     {% for post in site.posts %}
     <tr
         {% assign first_dir = post.path | remove_first: "_posts/" | split: "/" | first %}
@@ -27,11 +28,13 @@ _posts/bidah
         {% endif %}
     </tr>
     {% endfor %}
+</tbody>    
 </table>
 <hr/>
 _posts/sects
 <h3>The Sects</h3>
 <table>
+<tbody>
     {% for post in site.posts %}
     <tr
         {% assign first_dir = post.path | remove_first: "_posts/" | split: "/" | first %}
@@ -42,4 +45,5 @@ _posts/sects
         {% endif %}
     </tr>
     {% endfor %}
+</tbody>    
 </table>
