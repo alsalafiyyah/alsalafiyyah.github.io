@@ -1,0 +1,33 @@
+---
+layout: Page
+title: Demo
+permalink: /data/posts
+---
+
+<table>
+  <thead>
+    <th>#</th>
+    <th>Date</th>
+    <th>Hijri</td>
+    <th>Title</th>
+    <th>Lang</th>
+    <th>Locale</th>
+    <th>Layout</th>
+    <th>UID</th>
+  </thead>
+<tbody>
+{% assign posts = site.posts %}
+{% for post in site.posts %}
+<tr>
+  <td>{{ forloop.index }}</td>
+  <td>{{ post.date }}</td>
+  <td>{{ post.hijri }}</td>
+  <td>{{ post.title }}</td>
+  <td>{{ post.lang }}</td>
+  <td>{{ post.locale }}</td>
+  <td>{{ post.layout }}</td>
+  <td>{{ post.uid }}</td>
+</tr>
+{% endfor %}
+</tbody>
+</table>
