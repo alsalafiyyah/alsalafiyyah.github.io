@@ -175,6 +175,16 @@ ___
   <date>{{ post.hijri }}</date>
  {% endif %}
 {% endfor %}
+
+// _posts/bidah
+{% for post in site.posts %}
+{% assign first_dir = post.path | remove_first: "_posts/" | split: "/" | first %}
+ <a href="{{ post.url }}">{{ post.title }}</a>
+<time>{{ post.date | date: "%b %d, %Y" }}</time>
+ <p>{{ post.excerpt }}</p>
+{% if first_dir == 'bidah' %}
+{% endif %}
+{% endfor %}
 ~~~
 
 ___
