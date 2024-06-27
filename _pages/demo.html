@@ -1,46 +1,25 @@
 ---
-layout: base
+layout: default
 title: Demo
 permalink: /demo/
 ---
 
-<div itemscope>
-<h3><a class="link" href="/demo/3">
- {{ site.data.base.page.fatwas }} ({{ site.posts | size }} Fatwas) →
-</a></h3>
-<ul class="square">
- {% for post in site.posts limit:5 %}
-  {% if post.url %}
-   <li>
-    <a 
-     itemprop="url" 
-     href="{{ post.url }}"
-     class="link">          
-     <span itemscope itemprop="name">
-       {{ post.title }}
-     </span>
-    </a>
-   </li>
-   {% endif %}
-  {% endfor %}
-</ul>
-</div>
-
-<hr/>
-
-<div itemscope>
-<h3>{{ site.data.base.page.audios }}</h3>
-<ul class="bullets">
-{% for c in site.audios | limit:5 %}
- <li>
-   <a itemprop="url" 
-    href="{{ c.url }}"
-    class="link">
-     <span itemscope itemprop="name">
-       {{ c.title }}
-     </span>
-   </a>
- </li>
+{% for post in paginator.posts.en %}
+  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+  <p>{{ post.excerpt }}</p>
+  <date>{{ post.hijri }}</date>
 {% endfor %}
-</ul>
-</div>
+{% if paginator.previous_page %}
+ <a href="{{ paginator.previous_page_path }}">
+ Prev
+ </a>
+{% else %}
+ <span>Prev</span>
+{% endif %}
+{% if paginator.next_page %}
+ <a href="{{ paginator.next_page_path }}">
+ Next
+ </a>
+{% else %}
+<span>Next</span>
+{% endif %}
