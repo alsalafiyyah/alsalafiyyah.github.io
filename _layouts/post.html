@@ -12,18 +12,18 @@ layout: default
             <span itemprop="name">Fatwas</span></a>
         <meta itemprop="position" content="1" />
       </li>
-      {% if page.hijri %}  
+      
       <li itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
           <span itemprop="name">
               <time itemprop="datePublished" datetime="{{ page.date }}">
               {{ site.data.locales[page.locale].page.date }}: 
-              {{ page.hijri }} {% else %} {{ page.date }} 
+               {{ page.date | date_to_string }} 
+               {{ page.hijri }} {% else %} {{ page.date | date_to_string }}{% endif %}               
              </time>
           </span>
         <meta itemprop="position" content="2" />
       </li>
-      {% endif %}
       <li itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
           <time itemprop="dateModified" datetime="{{ page.date }}">
