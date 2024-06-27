@@ -3,18 +3,20 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
+published: true
 title: Post Title
 hijri: Muharram 09, 1445
-date: July 27, 2023
+date: July 27, 2023 // 2023-06-27
 source: 
-lang: en/ar
+lang: en //or ar
+locale: en //or ar
 note: true/false
-group1: true/false
-group2: true/false
-group3: true/false
-group4: true/false
-group5: true/false
-category: [islam, sunnah]
+group1: true
+group2: false
+group3: false
+group4: false
+group5: false
+category: [islam, sunnah, ...]
 excerpt: "..."
 --- 
 ~~~
@@ -36,9 +38,9 @@ muftis:
 
 ~~~yaml
 shaykhs: 
- - Shaykh Ibn Baz
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdul-Razzaq Al-Afifi
+ - Sh. Ibn Baz
+ - Sh. Abdullah ibn Ghudayyan
+ - Sh. Abdul-Razzaq Al-Afifi
 ~~~
 
 ___
@@ -112,11 +114,12 @@ ___
 #### Page Front Matter
 ~~~yaml
 ---
-layout: default/page
-title: 
-active: 
-lang: en/ar
-permalink: 
+layout: page
+title: Page Title
+active: docs
+locale: en
+excerpt: "..." //optional
+permalink: /docs/
 ---
 ~~~
 
@@ -180,7 +183,7 @@ ___
 {% for post in site.posts %}
 {% assign first_dir = post.path | remove_first: "_posts/" | split: "/" | first %}
  <a href="{{ post.url }}">{{ post.title }}</a>
-<time>{{ post.date | date: "%b %d, %Y" }}</time>
+ <time>{{ post.date | date: "%b %d, %Y" }}</time>
  <p>{{ post.excerpt }}</p>
 {% if first_dir == 'bidah' %}
 {% endif %}
@@ -241,7 +244,6 @@ ___
 ~~~yml
 
 // Muqolat collection
-
 {% for c in site.muqolat %}
 {% if c.title == page.title %}
   {% assign thisPost = c %}
