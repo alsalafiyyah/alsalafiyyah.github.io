@@ -1,6 +1,6 @@
 ---
 layout: Page
-title: Demo
+title: Data Posts
 permalink: /data/posts
 ---
 
@@ -14,19 +14,26 @@ permalink: /data/posts
     <th>Locale</th>
     <th>Layout</th>
     <th>UID</th>
+    <th>URL</th>
   </thead>
 <tbody>
 {% assign posts = site.posts %}
 {% for post in site.posts %}
 <tr>
   <td>{{ forloop.index }}</td>
-  <td>{{ post.date }}</td>
+  <td>
+    {{ post.date }} <br/>
+    <a href="https://www.github.com/{{ site.github_username }}/{{ site.git_repo }}/blob/master/{{ page.path }}" target="_blank">
+    Edit
+    </a>
+  </td>
   <td>{{ post.hijri }}</td>
-  <td>{{ post.title }}</td>
+  <td><a href="{{ post.url }}" target="_blank">{{ post.title }}</a>a></td>
   <td>{{ post.lang }}</td>
   <td>{{ post.locale }}</td>
   <td>{{ post.layout }}</td>
   <td>{{ post.uid }}</td>
+  <td>{{ post.url }}</td>
 </tr>
 {% endfor %}
 </tbody>
