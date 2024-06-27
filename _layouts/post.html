@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<article itemscope itemtype="https://schema.org/BlogPosting" itemid="{{ post.url }}">
     <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
       <li itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
@@ -16,27 +16,32 @@ layout: default
       <li itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
           <span itemprop="name">
+              <time itemprop="datePublished" datetime="{{ page.date }}">
               {{ site.data.locales[page.locale].page.date }}: 
-              {{ page.hijri }} {% else %} {{ post.date }} 
+              {{ page.hijri }} {% else %} {{ page.date }} 
+             </time>
           </span>
         <meta itemprop="position" content="2" />
       </li>
       {% endif %}
       <li itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
-        <span itemprop="name"
+          <time itemprop="dateModified" datetime="{{ page.date }}">
+              <span itemprop="name"
             id='last-modified'></span>
+          </time>
         <meta itemprop="position" content="3" />
       </li>
     </ol>
 
-<h3>
+<h3 itemprop="name">
  {{ page.title }}
 </h3>
-<div itemscope>
+<div itemprop="articleBody">
  {{ content }}
 </div>
 {% if page.note %}
  <p>{{ site.note.text }}</p>
 {% endif %}
 {% include source.html %}
+</article>
