@@ -1,7 +1,7 @@
 ---
-layout: Page
+layout: null
 title: Data Posts
-permalink: /data/posts
+permalink: /data?get=posts
 ---
 
 <table style="width: 100%;">
@@ -15,6 +15,9 @@ permalink: /data/posts
     <th>Layout</th>
     <th>UID</th>
     <th>URL</th>
+    <th>Source</th>
+    <th>Excerpt</th>
+    <th>Author</th>
   </thead>
 <tbody>
 {% assign posts = site.posts %}
@@ -34,6 +37,9 @@ permalink: /data/posts
   <td>{{ post.layout }}</td>
   <td>{{ post.uid }}</td>
   <td>{{ post.url }}</td>
+  <td>{{ post.source }}</td>
+  <td>{{ post.excerpt }}</td>
+  <td>{{ post.publisher }}</td>
 </tr>
 {% endfor %}
 </tbody>
