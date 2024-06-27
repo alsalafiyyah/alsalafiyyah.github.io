@@ -216,6 +216,11 @@ ___
  <li><{{ item.title }}/li>
 {% endfor %}
 
+{% for item in site.data.myData %}
+{{ forloop.index }} //auto numbering
+{{ item.title }}
+{% endfor %}
+
 ~~~
 
 ___
