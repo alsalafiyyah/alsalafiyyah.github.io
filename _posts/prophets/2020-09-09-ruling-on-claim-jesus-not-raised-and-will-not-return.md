@@ -2,18 +2,22 @@
 layout: post
 title: "Ruling on those who claim that Jesus was not raised to the heavens and will not return at the end of time"
 publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa Shaykh ibn Baz 1"
-category: [refutals, prophets]
-hijri: Muharram 21, 1442 AH
-shaykhs: Shaykh Abdul-Aziz ibn Baz
+source: "Majmu Fatawa Shaykh ibn Baz 1"
+category: [refutals, prophets, jesus]
+hijri: Muharram 21, 1442
+excerpt: "What is the ruling on those who deny Isa's return near the Day of Resurrection, claiming that he was crucified, but did not die and immigrated to Kashmir in India where he lived for a long time and died naturally?"
+locale: en
+lang: en
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
-Question:
-
+### Question:
 What is the opinion of the respected scholars regarding `Isa's (Jesus') life, bodily ascent to the heavens and descent to the earth near the Day of Resurrection and the view that his descent is one of the signs of the Last Hour? What is the ruling on those who deny Isa's return near the Day of Resurrection, claiming that he was crucified, but did not die and immigrated to Kashmir in India where he lived for a long time and died naturally? They also claim that he will not return at the approach of the Last Hour, but one who bears spiritual similarity to him will appear. Please answer us, may Allah reward you!"
 
-Answer:
-
+### Answer:
 We seek help from Allah and in Him we put our trust. There is neither might nor power except with Allah. Proofs from the Qur'an and the Sunnah affirm that 'Isa, son of Maryam (Mary, peace be upon them) and the slave and Messenger of Allah, was raised, body and soul, to the heavens. He was neither murdered nor crucified. He will, at the end of time, descend to kill Al-Masih-ul-Dajjal (the Antichrist), break the cross, kill the pig and abolish the Jizyah (poll tax required from non-Muslims living in an Islamic state). He will accept no religion except Islam. It is established that `Isa's coming will be one of the portents of the Last Hour. Reliable Muslim scholars unanimously agreed on what we mentioned, but they held different opinions concerning the interpretation of the verb "توفي" (tawaffa) in the following Ayah: إِذْ قَالَ اللَّهُ يَا عِيسَى إِنِّي مُتَوَفِّيكَ وَرَافِعُكَ إِلَيَّ [And (remember) when Allâh said: "O ‘Isâ (Jesus)! I will take you and raise you to Myself."] [Aal Imran: 55]
 
 One of the opinions said that the verb "tawaffa" in this context means death, which is the apparent connotation for those who did not examine the rest of evidence.
