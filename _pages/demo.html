@@ -3,7 +3,7 @@ layout: default
 title: Demo
 permalink: /demo/
 ---
-
+<ul>
     {% for post in site.posts %}
         {% assign first_dir = post.path | remove_first: "_posts/" | split: "/" | first %}
         {% if first_dir == 'en' %}
@@ -12,16 +12,34 @@ permalink: /demo/
             </li>
         {% endif %}
     {% endfor %}
-
+</ul>
 <hr/>
+_posts/bidah
 <h3>Bid'ahs</h3>
-<ol>
+<table>
     {% for post in site.posts %}
+    <tr
         {% assign first_dir = post.path | remove_first: "_posts/" | split: "/" | first %}
         {% if first_dir == 'bidah' %}
-            <li>
-                <a href="{{ post.url }}">{{ post.title }}: {{ post.date | date: "%b %d, %Y" }}</a>
-            </li>
+            <td>
+             <a href="{{ post.url }}">{{ post.title }}: {{ post.date | date: "%b %d, %Y" }}</a>
+            </td>
         {% endif %}
+    </tr>
     {% endfor %}
-</ol>
+</table>
+<hr/>
+_posts/sects
+<h3>The Sects</h3>
+<table>
+    {% for post in site.posts %}
+    <tr
+        {% assign first_dir = post.path | remove_first: "_posts/" | split: "/" | first %}
+        {% if first_dir == 'sects' %}
+            <td>
+             <a href="{{ post.url }}">{{ post.title }}: {{ post.date | date: "%b %d, %Y" }}</a>
+            </td>
+        {% endif %}
+    </tr>
+    {% endfor %}
+</table>
