@@ -1,0 +1,18 @@
+---
+layout: null
+permalink: /api/all-posts
+---
+[
+  {% assign posts = site.posts %}
+  {% for post in site.posts %}
+    {
+      "date": "{{ post.date }}",
+      "hijri": "{{ post.hijri }} ",
+      "title": "{{ post.title }}",
+      "url": "{{ post.url }}",
+      "excerpt": "{{ post.excerpt }}",
+      "author": "{{ post.author }}"
+    }
+    {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
