@@ -2,19 +2,23 @@
 layout: post
 title: "Ruling on using the word 'Sayyid'"
 publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat p. 9/290"
+source: "Majmu' Fatawa 9/290"
 category: [general]
-hijri: Muharram 16, 1442 AH
+hijri: Muharram 16, 1442
 date: 2020-09-04
-shaykhs: Shaykh Abdul-Aziz Ibn Baz
+lang: en
+locale: en
+excerpt: "We often address each other using the word Sayyid (Master or Sir) for people whose ancestry can be traced to a particular family. Is it permissible to do this?"
+muftis:
+  shaykh: 
+    - name: Shaykh Ibn Baz
+      url: /biography/binbaz
 ---
 
-Question:
-
+### Question:
 We often address each other using the word "Sayyid" (Master or Sir) for people whose ancestry can be traced to a particular family. Is it permissible to do this? 
 
-Answer:
-
+### Answer:
 If a person is known by this title, there is no harm in this, because the word "Sayyid" may be used for the leader of a people, a Faqih (Muslim jurist), a scholar, or for the descendants of Fatimah through the children of Al-Hasan and Al-Husayn. All of these are forms of address which are well known among the people.
 
 The Arabs used to call tribal leaders and elders "Sayyid" (e.g. Sayyid Banu Fulan means the leader of such-and-such tribe, etc). The Prophet (peace be upon him) used this word when he asked some of the Arabs, "**Who is your Sayyid?**" i.e. Who is your chief? [^1]
