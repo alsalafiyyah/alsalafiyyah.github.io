@@ -4,9 +4,8 @@ published: true
 title: "Tafsir Surat Al-Ankabut Ayat 8"
 publisher: "alsalafiyyah@icloud.com"
 source: "Tafsir Ibn Kathir 6/264-265"
-hijri: Dhul-Hijjah 24, 1444 AH
+hijri: Dhul-Hijjah 24, 1444
 lang: en
-uid: tafsir-surah-al-ankabut-8
 note: false
 locale: en
 category: [quran, tafsir]
