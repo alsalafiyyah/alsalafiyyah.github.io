@@ -2,7 +2,7 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Ruling on asking forgiveness for the disbelievers"
-hijri: Safar 24, 1442 AH
+hijri: Safar 24, 1442
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 10615 question 1"
 lang: en
 locale: en
