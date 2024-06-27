@@ -8,7 +8,8 @@ http://www.tipue.com/search
 
 :root {
   --system-ui: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-
+  --warning: hsl(42.4,63%,71.4%);
+	
 #tipue_search_input, #tipue_search_foot_boxes
 {
      font: 200 14px/1 var(--system-ui);
@@ -196,13 +197,13 @@ input[type=search]:focus {
 }
 #tipue_search_foot_boxes li.current
 {
-	padding: 10px 17px 11px 17px;
-     background: #616161;
+     padding: 10px 17px 11px 17px;
+     background: var(--warning);
      border: 1px solid #e3e3e3;
      border-radius: 1px;
-	color: #333;
-	margin-right: 7px;
-	text-align: center;
+     color: #333;
+     margin-right: 7px;
+     text-align: center;
 }
 #tipue_search_foot_boxes li a:hover
 {
