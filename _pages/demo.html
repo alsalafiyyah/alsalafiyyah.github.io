@@ -13,37 +13,36 @@ permalink: /demo/
         {% endif %}
     {% endfor %}
 </ul>
-<hr/>
-_posts/bidah
-<h3>Bid'ahs</h3>
-<table>
-<tbody>
-    {% for post in site.posts %}
-    <tr
+
+<table class="p-table--expanding" aria-label="Example of expanding table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th class="u-align--right">Actions</th>
+            <th aria-hidden="true">
+                <!-- hidden empty cell required for validation -->
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for post in site.posts %}
         {% assign first_dir = post.path | remove_first: "_posts/" | split: "/" | first %}
         {% if first_dir == 'bidah' %}
-            <td>
-             <a href="{{ post.url }}">{{ post.title }}: {{ post.date | date: "%b %d, %Y" }}</a>
+        <tr>
+            <td aria-label="Name"><a href="{{ post.url }}">{{ post.title }}</a></td>
+            <td class="u-align--right">
+                <button class="u-toggle is-dense" aria-controls="expanded-row" aria-expanded="false" data-shown-text="Hide" data-hidden-text="Show">Show</button>
             </td>
-        {% endif %}
-    </tr>
-    {% endfor %}
-</tbody>    
-</table>
-<hr/>
-_posts/sects
-<h3>The Sects</h3>
-<table>
-<tbody>
-    {% for post in site.posts %}
-    <tr
-        {% assign first_dir = post.path | remove_first: "_posts/" | split: "/" | first %}
-        {% if first_dir == 'sects' %}
-            <td>
-             <a href="{{ post.url }}">{{ post.title }}: {{ post.date | date: "%b %d, %Y" }}</a>
+            <td id="expanded-row" class="p-table__expanding-panel" aria-hidden="true">
+                <div class="row">
+                    <div class="col-8">
+                        <p>{{ post.excerpt }}</p>
+                    </div>
+                </div>
             </td>
+        </tr>
         {% endif %}
-    </tr>
-    {% endfor %}
-</tbody>    
+        {% endif %}
+        {% endfor %}
+    </tbody>
 </table>
