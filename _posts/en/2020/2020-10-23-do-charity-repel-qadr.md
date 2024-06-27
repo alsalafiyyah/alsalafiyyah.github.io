@@ -3,22 +3,21 @@ layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
 title: "Do supplication and Sadaqah (voluntary charity) repel the Divine Decree and Predestination?"
-hijri: "Rabi' Al-Awwal 06, 1442 AH"
+hijri: "Rabi' Al-Awwal 06, 1442"
+date: 2020-10-23
 source: "Majmu' Fatawa 6/262"
 lang: en
-category: [charity]
+locale: en
+category: [charity,zakah,sadaqah,fatwas]
 note: false
-uid: do-charity-repel-qadr
 excerpt: "A Muslim should be keen to venture means of goodness and avoid means of evil, asking Allah to guide and help them do what pleases Him and avoid every evil."
 binbaz: true
 ---
 
-Question: 
-
+### Question: 
 Do supplication and Sadaqah (voluntary charity) repel the Divine Decree and Predestination? 
 
-Answer:
-
+### Answer:
 Predestination that Allah (Glorified and Exalted be He) decided will definitely come to pass. Allah (Glorified be He) says: "**No calamity befalls on the earth or in yourselves but it is inscribed in the Book of Decrees (Al-Lauh Al-Mahfûz) before We bring it into existence. Verily, that is easy for Allâh.**" [Al-Hadid: 22]
 
 He (Glorified and Exalted be He) says: "**Know you not that Allâh knows all that is in the heaven and on the earth? Verily, it is (all) in the Book (Al-Lauh-al-Mahfûz). Verily that is easy for Allâh.**" [Al-hajj: 70]
