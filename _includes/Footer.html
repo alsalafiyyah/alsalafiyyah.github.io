@@ -9,9 +9,7 @@
       {% for item in site.data.base.footer %}
       <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
        <a class="link" itemprop="url" href="{{ item.url }}" target="_blank">
-        <span itemprop="item" itemscope>
          <span itemprop="name">{{ item.name }}</span>
-        </span>
        </a>
        <meta itemprop="position" content="{{ forloop.index }}" />
       </li>
