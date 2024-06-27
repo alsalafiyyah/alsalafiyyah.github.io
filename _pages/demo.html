@@ -4,6 +4,12 @@ title: Demo
 permalink: /demo/
 ---
 
+{% assign posts = site.posts/en %}
+{% for post in posts/en %}
+ <li><a href="{{ post.url | prepend:site.baseurl }}" title="{{ post.title }}">{{ post.title }}</a></li>
+{% endfor %}
+</ol>
+
 {% for post in paginator.posts.en %}
   <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
   <p>{{ post.excerpt }}</p>
