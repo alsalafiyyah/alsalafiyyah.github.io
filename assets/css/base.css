@@ -52,8 +52,9 @@ a {
 /* logo */
 .logo, 
 .logo a
-.logo h1 {
- font-size: 24px !important;
+.logo h1,
+.header h1 {
+ font-size: 28px !important;
  text-decoration: none;
  word-break: break all;
 }  
@@ -65,7 +66,6 @@ a {
 header a, header h1 {
   text-decoration: none;
   font-family: "Trocchi", serif;
-  font-size: 24px !important;
 }
 .container, header, footer {
  width: 90%;
