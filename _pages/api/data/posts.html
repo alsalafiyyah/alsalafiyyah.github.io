@@ -30,6 +30,7 @@ a {
    <th>Categories</th>
    <th>Tags</th>
    <th>Path</th>
+   <th>Action</th>
   </thead>
 <tbody>
 {% assign posts = site.posts %}
@@ -49,8 +50,9 @@ a {
   <td>{{ post.excerpt }}</td>
   <td>{{ post.uid }}</td>
   <td>{{ post.category }}</td>
-  <td>{{ post.tag }}</td>
+  <td>{{ post.tags }}</td>
   <td>{{ post.path }}</td>
+  <td><a href="https://www.github.com/{{ site.github_username }}/{{ site.git_repo }}/tree/master/l{{ post.path }}" target="_blank">Edit post</a></td>
 </tr>
 {% endfor %}
 </tbody>
