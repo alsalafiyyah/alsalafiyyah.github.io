@@ -16,18 +16,18 @@ a {
 </style>
 <table style="width: 100%;">
   <thead>
-    <th>#</th>
-    <th>Date</th>
-    <th>Hijri</td>
-    <th>Title</th>
-    <th>Lang</th>
-    <th>Locale</th>
-    <th>Layout</th>
-    <th>UID</th>
-    <th>URL</th>
-    <th>Source</th>
-    <th>Excerpt</th>
-    <th>Author</th>
+    <th>No.</th>
+    <th>Post Date</th>
+    <th>Post Hijri</td>
+    <th>Post Title</th>
+    <th>Post Language</th>
+    <th>Post Locale</th>
+    <th>Post Layout</th>
+    <th>Post URL</th>
+    <th>Post Source</th>
+    <th>Post Excerpt</th>
+    <th>Post Author</th>
+    <th>Post UID</th>
   </thead>
 <tbody>
 {% assign posts = site.posts %}
@@ -42,11 +42,11 @@ a {
   <td>{{ post.lang }}</td>
   <td>{{ post.locale }}</td>
   <td>{{ post.layout }}</td>
-  <td>{{ post.uid }}</td>
   <td>{{ post.url }}</td>
   <td>{{ post.source }}</td>
   <td>{{ post.excerpt }}</td>
   <td>{{ post.publisher }}</td>
+  <td>{{ post.uid }}</td>
 </tr>
 {% endfor %}
 </tbody>
