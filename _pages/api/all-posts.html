@@ -9,9 +9,14 @@ permalink: /api/all-posts
       "date": "{{ post.date }}",
       "hijri": "{{ post.hijri }} ",
       "title": "{{ post.title }}",
+      "author": "{{ post.publisher }}",
       "url": "{{ post.url }}",
       "excerpt": "{{ post.excerpt }}",
-      "author": "{{ post.author }}"
+      "language": "{{ post.lang }}",
+      "uid": "{{ post.uid }}",
+      "locale": "{{ post.locale }}",
+      "layout": "{{ post.layout }}",
+      "source": "{{ post.source }}"
     }
     {% unless forloop.last %},{% endunless %}
   {% endfor %}
