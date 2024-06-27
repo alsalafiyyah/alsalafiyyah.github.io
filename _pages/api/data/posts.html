@@ -28,7 +28,6 @@ a {
     <th>Excerpt</th>    
     <th>UID</th>
    <th>Categories</th>
-   <th>Tags</th>
    <th>Path</th>
    <th>Action</th>
   </thead>
@@ -50,9 +49,8 @@ a {
   <td>{{ post.excerpt }}</td>
   <td>{{ post.uid }}</td>
   <td>{{ post.category }}</td>
-  <td>{{ post.tags }}</td>
   <td>{{ post.path }}</td>
-  <td><a href="https://www.github.com/{{ site.github_username }}/{{ site.git_repo }}/tree/master/l{{ post.path }}" target="_blank">Edit post</a></td>
+  <td><a href="https://www.github.com/{{ site.github_username }}/{{ site.git_repo }}/blob/master/{{ post.path }}" target="_blank">Edit post</a></td>
 </tr>
 {% endfor %}
 </tbody>
