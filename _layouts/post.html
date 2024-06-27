@@ -19,7 +19,7 @@ layout: default
               <time itemprop="datePublished" datetime="{{ page.date }}">
               {{ site.data.locales[page.locale].page.date }}: 
                {{ page.date | date_to_string }} 
-               {{ page.hijri }} {% else %} {{ page.date | date_to_string }}{% endif %}               
+               {% if page.hijri %}{{ page.hijri }} {% else %} {{ page.date | date_to_string }}{% endif %}               
              </time>
           </span>
         <meta itemprop="position" content="2" />
