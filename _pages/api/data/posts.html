@@ -25,10 +25,7 @@ permalink: /data/get/posts
 <tr>
   <td>{{ forloop.index }}</td>
   <td>
-    {{ post.date }} <br/>
-    <a href="https://www.github.com/{{ site.github_username }}/{{ site.git_repo }}/tree/master/_posts/{{ page.path }}" target="_blank">
-    Edit
-    </a>
+    {{ post.date | date_to_string }} 
   </td>
   <td>{{ post.hijri }}</td>
   <td><a href="{{ post.url }}" target="_blank">{{ post.title }}</a></td>
