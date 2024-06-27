@@ -1,13 +1,15 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Eating from mixed money some of which can be ill-gotten"
-hijri: Ramadan 17, 1440 AH
-source: "Fatawa Al-Lajnah Al-Da'mah of KSA no.4888-1 and no.4888-2"
+title: "Ruling on eating from mixed money some of which can be ill-gotten"
+hijri: Ramadan 17, 1440
+date: 2019-05-22
+source: "Fatawa Al-Lajnah Ad-Da'mah of KSA, fatwa no.4888 question 1 and fatwa no.4888 question 2"
 lang: en
-category: [misc]
+locale: en
+category: [fatwas]
 note: true
-excerpt: " It is obligatory for a Muslim to try his best to adopt what is lawful in his food, drink, and clothing."
+excerpt: "It is obligatory for a Muslim to try his best to adopt what is lawful in his food, drink, and clothing."
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz
@@ -22,16 +24,13 @@ muftis:
       url: /biography/qaud/
 ---
 
-Question 1:
-
+## Question 1:
 When my brothers and I earn some money, we give it to my father to meet the needs of the family for food, drink, and the like. Praise be to Allah, I try my best to earn my Rizq (sustenance) through lawful channels, but I am not sure whether my brothers' sources of Rizq are purely lawful, unlawful, or mixed. Actually, they do not care about the issue of lawfulness and prohibition in their life. I think that they will not refrain from ill-gotten money if they find a chance to obtain it. What therefore is the ruling on eating and drinking with them? In other words, what is the ruling on the food and drink bought with our mixed money? 
 
-Question 2: 
-
+### Question 2: 
 My work necessitates that I have lunch at my employers' expense, who takes interest-based loans from banks to build ships and fund other projects. What is the ruling on this food? 
 
-Answer:
-
+### Answer:
 It is obligatory for a Muslim to try his best to adopt what is lawful in his food, drink, and clothing, because the Prophet (peace be upon him) said to Sa'd ibn Abu Waqqas: "**If you earn your money lawfully, your supplication will be answered.**" [^1]
 
 It is authentically reported in Sahih Muslim that the Prophet (peace be upon him) said: "**Allah is good and accepts nothing but what is good. Indeed, Allah commands the believers with what He commands the Messengers and says: O (you) Messengers! Eat of the Tayyibât [all kinds of Halâl foods which Allâh has made lawful (meat of slaughtered eatable animals, milk products, fats, vegetables, fruits, etc.] and do righteous deeds. Verily! I am Well-Acquainted with what you do. He also says: O you who believe (in the Oneness of Allâh - Islâmic Monotheism)! Eat of the lawful things that We have provided you with, and be grateful to Allâh, if it is indeed He Whom you worship. Then, he mentioned a man who had traveled on a long journey, his hair disheveled and discolored with dust and was raising his hands to the sky saying ‘O Lord! O Lord!’ but his food is unlawful, his drink is unlawful, his clothing is unlawful and he grew on what is unlawful. How then can his supplications be answered?**” [^2]
