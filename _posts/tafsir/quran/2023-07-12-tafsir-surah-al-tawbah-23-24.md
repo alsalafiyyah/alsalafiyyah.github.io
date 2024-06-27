@@ -4,16 +4,15 @@ published: true
 title: "Tafsir Surat Al-Tawbah 23-24"
 publisher: "alsalafiyyah@icloud.com"
 source: "Taysir Al-Karim Al-Mannan p.332"
-hijri: Dhul-Hijjah 24, 1444 AH
+hijri: Dhul-Hijjah 24, 1444
 lang: en
-uid: tafsir-surah-al-tawbah-23-24
 note: false
 locale: en
 category: [quran, tafsir]
-excerpt: "O you who have believed, do not take your fathers or your brothers as allies if they have preferred disbelief over belief. And whoever does so among you - then it is those who are the wrongdoers. "
+excerpt: "O you who have believed, do not take your fathers or your brothers as allies if they have preferred disbelief over belief. And whoever does so among you - then it is those who are the wrongdoers."
 muftis:
   shaykh: 
-    - name: Shaykh Al-Sa'adi
+    - name: Shaykh As-Sa'adi
       url: /biography/saadi/
 ---
 
