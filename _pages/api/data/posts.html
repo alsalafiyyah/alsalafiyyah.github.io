@@ -27,6 +27,9 @@ a {
     <th>Source</th>
     <th>Excerpt</th>    
     <th>UID</th>
+   <th>Categories</th>
+   <th>Tags</th>
+   <th>Path</th>
   </thead>
 <tbody>
 {% assign posts = site.posts %}
@@ -48,7 +51,6 @@ a {
   <td>{{ post.category }}</td>
   <td>{{ post.tag }}</td>
   <td>{{ post.path }}</td>
-  <td>{{ post.permalink }}</td>
 </tr>
 {% endfor %}
 </tbody>
