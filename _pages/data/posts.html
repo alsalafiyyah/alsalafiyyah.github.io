@@ -4,7 +4,7 @@ title: Data Posts
 permalink: /data/posts
 ---
 
-<table class="responsive">
+<table style="width: 100%;">
   <thead>
     <th>#</th>
     <th>Date</th>
@@ -23,12 +23,12 @@ permalink: /data/posts
   <td>{{ forloop.index }}</td>
   <td>
     {{ post.date }} <br/>
-    <a href="https://www.github.com/{{ site.github_username }}/{{ site.git_repo }}/blob/master/{{ page.path }}" target="_blank">
+    <a href="https://www.github.com/{{ site.github_username }}/{{ site.git_repo }}/tree/master/_posts/{{ page.path }}" target="_blank">
     Edit
     </a>
   </td>
   <td>{{ post.hijri }}</td>
-  <td><a href="{{ post.url }}" target="_blank">{{ post.title }}</a>a></td>
+  <td><a href="{{ post.url }}" target="_blank">{{ post.title }}</a></td>
   <td>{{ post.lang }}</td>
   <td>{{ post.locale }}</td>
   <td>{{ post.layout }}</td>
