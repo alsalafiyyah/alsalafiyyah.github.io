@@ -10,7 +10,7 @@ date: July 27, 2023 // 2023-06-27
 source: 
 lang: en //or ar
 locale: en //or ar
-note: true/false
+note: false
 group1: true
 group2: false
 group3: false
@@ -18,7 +18,33 @@ group4: false
 group5: false
 category: [islam, sunnah, ...]
 excerpt: "..."
---- 
+---
+
+// embed html audio
+---
+layout: post
+publisher: alsalafiyyah@icloud.com
+published: true
+title: Post Title
+hijri: Muharram 09, 1445
+date: July 27, 2023 // 2023-06-27
+source: 
+lang: en //or ar
+locale: en //or ar
+note: false
+group1: true
+group2: false
+group3: false
+group4: false
+group5: false
+category: [islam, sunnah, ...]
+output: html_document
+excerpt: "..."
+---
+<audio controls>
+ <source src="file.mp3" type="audio/mpeg"/><p>Your browser does not support the audio element.</p>
+</audio>
+
 ~~~
 
 #### Custom Variables
