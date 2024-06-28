@@ -9,27 +9,6 @@ http://www.tipue.com/search
 :root {
   --system-ui: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   --warning: hsl(42.4,63%,71.4%);
-	
-#tipue_search_input, #tipue_search_foot_boxes
-{
-     font: 200 14px/1 var(--system-ui);
-}
-#tipue_search_results_count, #tipue_search_warning, .tipue_search_content_url, .tipue_search_content_debug, .tipue_search_related_text
-{
-     font: 200 14px/1.7 var(--system-ui);
-}
-.tipue_search_content_title
-{
-     font: 100 26px/1.7 var(--system-ui);
-}
-.tipue_search_content_text, .tipue_search_related_title
-{
-     font: 200 15px/1.7 var(--system-ui);
-}
-.tipue_search_content_bold, .tipue_search_related_bold
-{
-     font-weight: 400;
-}
 
 
 /* search box */
@@ -158,7 +137,7 @@ input[type=search]:focus {
 }
 .tipue_search_related_title
 {
-	color: #333;
+     color: inherit;
      margin: 26px 0 7px 0;
 }
 .tipue_search_related_cols
