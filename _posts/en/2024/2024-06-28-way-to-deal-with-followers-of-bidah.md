@@ -1,15 +1,16 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
+published: true
 title: Way to deal with the followers of Batiniyyah and Ahlul-bi'dah
 date: 2019-02-22
 hijri: Dhul-Hijjah 22, 1445
 source: Majmu' Fatawa Ibn Baz 28/47
 category: [fatwas, sects]
-note: true
+note: false
 locale: en
 lang: en
-excerpt: "You must avoid whoever exposes their Bid'ah and reveres the Prophet's family members excessively whether 'Ali, Fatimah, etc. or even any one of the other Sahabah. This is because worshipping the Prophet's family members and revering the Sahabah excessively is Kufr (disbelief) and Riddah (apostasy)."
+excerpt: "You must avoid whoever exposes their Bid'ah and reveres the Prophet's family members excessively whether 'Ali, Fatimah, etc. or even any one of the other Sahabah. This is because worshipping the Prophet's family members and revering the Sahabah excessively is disbelief and apostasy."
 shaykhs: 
  - Shaykh Ibn Baz
 ---
