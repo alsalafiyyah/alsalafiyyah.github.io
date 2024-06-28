@@ -9,7 +9,7 @@ locale: en
  class="no-bullets"
  itemscope itemtype="https://schema.org/ItemList">
  {% for post in paginator.posts %}
-   <li itemprop="itemListElement">
+   <li itemprop="itemListElement" typeof="ListItem">
     <a 
      itemprop="url" 
      href="{{ post.url }}"
