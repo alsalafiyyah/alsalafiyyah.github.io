@@ -38,7 +38,7 @@ locale: en
 {% for item in site.audios limit:5 %}
  <li property="itemListElement" typeof="ListItem"> 
   <a class="nowavy" href="{{ item.url }}" property="item" typeof="WebPage">
-  <span property="name">{{ item.title }}</span>
+   <span property="name"><mark>{{ item.title }}</mark></span>
   </a>
   <meta itemprop="position" content="{{ forloop.index }}" />
  </li>
