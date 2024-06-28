@@ -8,9 +8,13 @@
   <div class="column">
    <div itemscope itemtype="https://schema.org/WebSite">
    <meta itemprop="url" content="https://alsalafiyyah.github.io/search"/>
+   <link itemprop="url" href="https://alsalafiyyah.github.io/search"/>
    <form itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction" action="{{ "/search" | relative_url }}">
    <meta itemprop="target" content="https://alsalafiyyah.github.io/search?q=islam"/>
-   <input class="mysearch responsive" name="q" id="tipue_search_input" itemprop="query" type="search" placeholder="Search" pattern=".{3,}" title="At least 3 characters" required/>
+    <div itemprop="query-input" itemscope itemtype="http://schema.org/PropertyValueSpecification">
+     <meta itemprop="valueName" content="q"/>
+     <input class="mysearch responsive" name="q" id="tipue_search_input" itemprop="query" type="search" placeholder="Search" pattern=".{3,}" title="At least 3 characters" required/>
+    </div>
    </form>
   </div>
  </div>
