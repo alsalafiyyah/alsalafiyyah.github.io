@@ -15,7 +15,7 @@ locale: en
    <ul class="square" itemscope itemtype="https://schema.org/ItemList">
      {% for post in site.posts limit:5 %}
       {% if post.url %}
-       <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+       <li itemprop="itemListElement" itemscope typeof="ListItem" itemtype="https://schema.org/ListItem">
         <a itemprop="url" title="{{ post.url }}" href="{{ post.url }}">
            <span itemprop="name">
              {{ post.title }}
@@ -38,7 +38,7 @@ locale: en
    </h3>
    <ul itemscope itemtype="https://schema.org/ItemList" class="bullets">
      {% for c in site.audios | limit:5 %}
-       <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+       <li itemprop="itemListElement" typeof="ListItem" itemscope itemtype="https://schema.org/ListItem">
         <a itemprop="url" class="nowavy" href="{{ c.url }}" title="{{ c.url }}">
          <mark>
            <span itemprop="name">
