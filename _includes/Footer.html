@@ -7,7 +7,7 @@
    <div class="column">   
      <ul class="square" itemscope itemtype="https://schema.org/ItemList">
       {% for item in site.data.base.footer %}
-      <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+      <li typeof="ListItem" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
        <a class="link" itemprop="url" href="{{ item.url }}" target="_blank">
          <span itemprop="name">{{ item.name }}</span>
        </a>
