@@ -24,8 +24,10 @@
   <meta name="theme-color" content="Canvas">
   {% if page.url =='/' %}
   <link rel="canonical" href="{{ site.url }}" />
+  <meta property="og:url" content="{{ site.url }}" />
   {% else %}
   <link rel="canonical" href="{{ page.url | absolute_url }}" />
+  <meta property="og:url" content="{{ page.url | absolute_url }}" />
   {% endif %}
   {% if page.date %}
   <meta property="og:type" content="article" />
