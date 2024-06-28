@@ -37,3 +37,21 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="{{ '/assets/css/base.css' | absolute_url }}" rel="stylesheet">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script type="application/ld+json">
+    {
+      "@context":"https://schema.org",
+      "@type":"ItemList",
+      "itemListElement":[
+        {% for post in site.posts limit:3 %}
+        {% if post.url %}
+        {
+          "@type":"ListItem",
+          "position":{{ forloop.index }},
+          "url":"{{ post.url }}"
+        }
+        {% unless forloop.last %},{% endunless %}
+        {% endif %}
+        {% endfor %}
+      ]
+    }
+    </script>
