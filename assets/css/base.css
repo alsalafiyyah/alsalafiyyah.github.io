@@ -135,10 +135,11 @@ div.scrollmenu a:hover {
   
 /* table */
 table, th, td {
-  border: 1px solid rgba(70, 62, 114, .5);
+  border: 0px !important;
 }
 th, td {
   padding: 10px;
+  border-bottom: 1px solid rgba(70, 62, 114, .5);
 }
 
 /* breadcrumb */
