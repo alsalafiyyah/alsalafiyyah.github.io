@@ -13,11 +13,11 @@ locale: en
     </a>
    </h3>
 <ul class="square" vocab="https://schema.org/" typeof="ItemList">
-{% for item in site.posts limit:5 %}
+{% for post in site.posts limit:5 %}
 {% if post.url %}
  <li property="itemListElement" typeof="ListItem"> 
-  <a href="{{ item.url }}" property="item" typeof="WebPage">
-  <span property="name">{{ item.title }}</span>
+  <a href="{{ post.url }}" property="item" typeof="WebPage">
+  <span property="name">{{ post.title }}</span>
   </a>
   <meta itemprop="position" content="{{ forloop.index }}" />
  </li>
@@ -34,10 +34,10 @@ locale: en
      </mark>
     </a>
    </h3>
-<ul class="square" vocab="https://schema.org/" typeof="ItemList">
+<ul class="bullets" vocab="https://schema.org/" typeof="ItemList">
 {% for item in site.audios limit:5 %}
  <li property="itemListElement" typeof="ListItem"> 
-  <a href="{{ item.url }}" property="item" typeof="WebPage">
+  <a class="nowavy" href="{{ item.url }}" property="item" typeof="WebPage">
   <span property="name">{{ item.title }}</span>
   </a>
   <meta itemprop="position" content="{{ forloop.index }}" />
