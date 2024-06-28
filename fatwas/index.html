@@ -21,8 +21,8 @@ locale: en
       </h3>
     </a>
     <date class="content-date">
-     <meta itemprop="datePublished" content="{{ post.date }}">
-     {{ post.hijri }}
+     <meta itemprop="datePublished" content="{{ post.date | date: '%b %d, %Y' }}">
+     {{ post.hijri }} // {{ post.date | date: "%b %d, %Y" }}
     </date>
      <p class="content-excerpt" itemscope itemtype="https://schema.org/ItemList">
        <span itemscope itemprop="description">{{ post.excerpt }}</span>
