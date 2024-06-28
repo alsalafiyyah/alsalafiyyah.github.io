@@ -6,10 +6,9 @@ publisher: alsalafiyyah@icloud.com
 published: true
 title: Post Title
 hijri: Muharram 09, 1445
-date: July 27, 2023 // 2023-06-27
+date: 2023-06-27
 source: 
-lang: en //or ar
-locale: en //or ar
+locale: en
 note: false
 group1: true
 group2: false
@@ -20,26 +19,22 @@ category: [islam, sunnah, ...]
 excerpt: "..."
 ---
 
-// embed html audio
+// embed audio
 ---
-layout: post
+layout: page
 publisher: alsalafiyyah@icloud.com
 published: true
 title: Post Title
 hijri: Muharram 09, 1445
-date: July 27, 2023 // 2023-06-27
+date: 2023-06-27
 source: 
-lang: en //or ar
-locale: en //or ar
+locale: en
 note: false
-group1: true
-group2: false
-group3: false
-group4: false
-group5: false
-category: [islam, sunnah, ...]
+category: [islam, sunnah, audios]
 output: html_document
 excerpt: "..."
+shaykhs: 
+ - Shaykh Ibn Baz
 ---
 <audio controls>
  <source src="file.mp3" type="audio/mpeg"/><p>Your browser does not support the audio element.</p>
@@ -144,7 +139,7 @@ layout: page
 title: Page Title
 active: docs
 locale: en
-excerpt: "..." //optional
+excerpt: "..."
 permalink: /docs/
 ---
 ~~~
