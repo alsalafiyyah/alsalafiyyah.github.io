@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 published: true
 title: Way to deal with the followers of Batiniyyah and Ahlul-bi'dah
-date: 2019-02-22
+date: 2024-06-28
 hijri: Dhul-Hijjah 22, 1445
 source: Majmu' Fatawa Ibn Baz 28/47
 category: [fatwas, sects]
