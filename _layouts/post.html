@@ -25,17 +25,17 @@ layout: default
       </li>
       <li itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
+          {% include read_time.html %}
+        <meta itemprop="position" content="3" />
+      </li>    
+      <li itemprop="itemListElement" itemscope
+          itemtype="https://schema.org/ListItem">
           <time itemprop="dateModified" datetime="{{ page.date }}">
               <span itemprop="name"
             id='last-modified'></span>
           </time>
-        <meta itemprop="position" content="3" />
-      </li>
-      <li itemprop="itemListElement" itemscope
-          itemtype="https://schema.org/ListItem">
-          {% include read_time.html %}
         <meta itemprop="position" content="4" />
-      </li>  
+      </li>
     </ol>
 
 <h3 itemprop="name">
