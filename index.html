@@ -4,7 +4,7 @@ uid: home
 active: home
 locale: en
 ---
-<div itemscope>
+<div>
    <h3>Recent 
     <a class="nowavy" href="{{ '/fatwas/' | prepend:site.baseurl }}">
       <mark>
@@ -12,23 +12,21 @@ locale: en
       </mark>
     </a>
    </h3>
-   <ul class="square" itemscope itemtype="https://schema.org/ItemList">
-     {% for post in site.posts limit:5 %}
-      {% if post.url %}
-       <li itemprop="itemListElement" itemscope typeof="ListItem" itemtype="https://schema.org/ListItem">
-        <a itemprop="url" title="{{ post.url }}" href="{{ post.url }}">
-           <span itemprop="name">
-             {{ post.title }}
-           </span>
-        </a>
-        <meta itemprop="position" content="{{ forloop.index }}" />
-       </li>
-      {% endif %}
-     {% endfor %}    
-   </ul> 
+<ul class="square" vocab="https://schema.org/" typeof="ItemList">
+{% for item in site.posts limit:5 %}
+{% if post.url %}
+ <li property="itemListElement" typeof="ListItem"> 
+  <a href="{{ item.url }}" property="item" typeof="WebPage">
+  <span property="name">{{ item.title }}</span>
+  </a>
+  <meta itemprop="position" content="{{ forloop.index }}" />
+ </li>
+{% endif %}
+{% endfor %}
+</ul>
 </div>
 
-<div itemscope>
+<div>
    <h3> Recent 
     <a itemprop="url" class="nowavy" href="{{ '/audios/' | prepend:site.baseurl }}">
      <mark>
@@ -36,18 +34,13 @@ locale: en
      </mark>
     </a>
    </h3>
-   <ul itemscope itemtype="https://schema.org/ItemList" class="bullets">
-     {% for c in site.audios | limit:5 %}
-       <li itemprop="itemListElement" typeof="ListItem" itemscope itemtype="https://schema.org/ListItem">
-        <a itemprop="url" class="nowavy" href="{{ c.url }}" title="{{ c.url }}">
-         <mark>
-           <span itemprop="name">
-             {{ c.title }}
-           </span>
-         </mark>
-        </a>
-          <meta itemprop="position" content="{{ forloop.index }}" />
-       </li>
-     {% endfor %}    
-   </ul> 
+<ul class="square" vocab="https://schema.org/" typeof="ItemList">
+{% for item in site.audios limit:5 %}
+ <li property="itemListElement" typeof="ListItem"> 
+  <a href="{{ item.url }}" property="item" typeof="WebPage">
+  <span property="name">{{ item.title }}</span>
+  </a>
+  <meta itemprop="position" content="{{ forloop.index }}" />
+ </li>
+{% endfor %}
 </div>
