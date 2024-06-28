@@ -50,9 +50,11 @@ tipue_search:
     files: [index.html, search.html, sitemap.xml, feed.xml, docs, BingSiteAuth.xml, Gemfile.lock, Gemfile, manifest.yml, refutal.html, wahhabi.html, muqolat]
 
 webmaster_verifications:
-  google: 0AfP6ouBUqp8IPbvV8AgSXFY3YTtSTTriIZ2Lyt43NI
+  google: K7QDv3cEwylAu_9fndO3ebQmNowxxRYCpqDEzQKQOy4
   bing: 4F1A0A46CAA92F43191A0C4B37948DD7
   yandex: 605ab18d7c20bdc0
+  email: arubalessandra@gmail.com
+  analytics: UA-174935062-1
 
 #Manifest
 manifest_name: Salafiyyah
