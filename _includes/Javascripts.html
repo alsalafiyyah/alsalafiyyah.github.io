@@ -3,7 +3,10 @@
 <script src="https://unpkg.com/vanilla-datatables@latest/dist/vanilla-dataTables.min.js"></script>  
 {% include tipue.html %}
 <script type="text/javascript" language="javascript">
-var table = new DataTable("table");
+var table = new DataTable("table", {
+	searchable: true,
+  perPageSelect: false
+});
 </script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-174935062-1"></script>
 <script>
