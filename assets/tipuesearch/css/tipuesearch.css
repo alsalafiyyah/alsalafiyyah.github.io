@@ -6,10 +6,15 @@ Tipue Search is released under the MIT License
 http://www.tipue.com/search
 */
 
-:root {
-  --system-ui: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  --warning: hsl(42.4,63%,71.4%);
-
+.tipue_search_content_title
+{
+     font-size: 21px;
+}
+.tipue_search_content_title,
+.tipue_search_content_bold, .tipue_search_related_bold
+{
+     font-weight: 400;
+}
 
 /* search box */
 
