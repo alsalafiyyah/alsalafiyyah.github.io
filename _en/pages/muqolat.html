@@ -6,21 +6,19 @@ locale: en
 active: muqolat
 permalink: /muqolat/
 ---
-
-<table class="uk-table" id="table">	
- <tbody>     
-  {% for c in site.muqolat %}	
+<table>     
+ {% for c in site.muqolat %}	
   <tr>
    <td>
-    <h3>
-     <a class="uk-link-reset uk-margin-remove-bottom" title="{{ c.title }}" href="{{ c.url }}">
+    <h3 class="content-title">
+     <a title="{{ c.title }}" href="{{ c.url }}">
      {{ c.title }}
      </a>
     </h3>
-    <p class="uk-text-meta uk-margin-remove-top">{{ c.hijri }}</p>
     </a>
-   </td>
+    <date class="content-date">{{ c.hijri }}</date>
+    <p class="content-excerpt">{{ c.excerpt }}</p>
+   </td>    
   </tr>      
   {% endfor %}	
- </tbody>	
 </table>
