@@ -45,9 +45,9 @@ category_page: '/category/'
 
 tipue_search:
   include:
-    pages: false
+    pages: true
   exclude:
-    files: [index.html, search.html, sitemap.xml, feed.xml, docs, BingSiteAuth.xml, Gemfile.lock, Gemfile, manifest.yml, refutal.html, wahhabi.html, muqolat]
+    files: [index.html, search.html, sitemap.xml, feed.xml, docs, BingSiteAuth.xml, Gemfile.lock, Gemfile, manifest.yml]
 
 webmaster_verifications:
   google: K7QDv3cEwylAu_9fndO3ebQmNowxxRYCpqDEzQKQOy4
