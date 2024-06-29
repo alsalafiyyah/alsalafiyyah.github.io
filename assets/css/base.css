@@ -174,7 +174,7 @@ ol.breadcrumb li+li:before {
 }
 ol.breadcrumb li a {
  text-decoration: none;
- background:linear-gradient(180deg, transparent 50%, var(--red) 50%);
+ background:linear-gradient(180deg, transparent 50%, var(--mark) 50%);
 }
 .breadcrumb-container {
    padding: 10px;
