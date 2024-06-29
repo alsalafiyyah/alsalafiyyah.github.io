@@ -1,6 +1,6 @@
 ---
 layout: Page
-title: What is Salafiyyah
+title: Qa
 active: qa
 permalink: /qa/
 locale: en
@@ -27,6 +27,11 @@ There is no difference between ‘Aqidah (creed) and Manhaj (methodology). Both 
 
 ## Shaykh Muhammad ibn ‘Abdul-Wahhab
 Shaykh Muhammad Ibn ‘Abdul-Wahhab (may Allah be Merciful with him) was indeed one of the great callers to Salafiyyah (following the way of the righteous predecessors), and to the sound ‘Aqidah (creed) and the morally correct, upright method. His books abound with these aspects.The above-mentioned claim made by an antagonist to the Shaykh’s da'wah: that he deviated from the truth at the end of his life by denying authentic Hadiths that did not agree with his own views, is a lie fabricated against him. To the day he died, the Shaykh remained one of the strongest adherents to the Sunnah, and retained his deep veneration for it and kept calling people to it, may Allah be merciful to him. [^8]
+
+---
+Further reading: 
+- [Ruling on calling oneself Athari](https://alsalafiyyah.github.io/audios/ruling-on-calling-onself-athari)
+- [Shaykh Muhammad ibn Abdul-Wahhab and Wahhabiyah](https://alsalafiyyah.github.io/wahhabi)
 
 ---
 ### Footnotes:
