@@ -14,12 +14,15 @@ layout: default
         <meta property="position" content="2">
       </li> 
       <li property="itemListElement" typeof="ListItem">
-        <span property="item"><span property="name">{% include read_time.html %}</span></span>
+        <span property="item">
+           <span property="name">{% include read_time.html %}</span>
+        </span>
         <meta property="position" content="3">
       </li>
       <li property="itemListElement" typeof="ListItem">
-        <span property="item" itemid="{{ post.url }}"> 
-           <span itemprop="name">Modified/<span id='last-modified'></span></span>
+        <span property="item"> 
+           <span itemprop="name">{{ "Modified" | append: "/" }}<b id='last-modified'></b>
+         </span>
         </span>
         <meta property="position" content="4">
       </li> 
