@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "How to rectify the Muslim's Aqidah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 1"
@@ -7,6 +7,8 @@ mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/كيفية تصحيح ال�
 hijri: "Rabi' Al-Awwal 22, 1442 AH"
 lang: en
 note: false
+locale: en
+active: audios
 url: "https://binbaz.org.sa/fatwas/27649/%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A7%D9%84%D8%B9%D9%82%D9%8A%D8%AF%D8%A9"
 excerpt: "The Muslim who seeks knowledge must ponder over the Ayahs (verses) of the Qur'an and the words of the Hadiths."
 muftis:

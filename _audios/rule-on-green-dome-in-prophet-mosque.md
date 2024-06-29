@@ -1,11 +1,13 @@
 ---
-layout: page
+layout: post
 title: "Ruling on the green dome on the grave of the Prophet (peace be upon him)"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_667/nour_66701.mp3
 hijri: "Rabi' Al-Awwal 26, 1442 AH"
 lang: en
 note: false
+locale: en
+active: audios
 url: "https://binbaz.org.sa/fatwas/13693/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D9%82%D8%A8%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%B9%D9%84%D9%89-%D9%82%D8%A8%D8%B1-%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%84-%EF%B7%BA"
 excerpt: "The Prophet (peace be upon him) was buried in the house of Aishah as the Companions (may Allah be pleased with them) feared the Fitnah that might arise if they buried him in Al-Baqi' (the graveyard of Madinah, near the Prophet's Mosque). Hence, they buried him in the house of 'Aishah and then buried with him his two Companions: Abu Bakr and 'Umar (may Allah be pleased with them). He was not buried in the Masjid (mosque), but in the house of 'Aishah. Then, when the Masjid was expanded during the era of Al-Walid Ibn 'Abdul-Malik at the end of the first Hijrah century, he included the room to the Masjid."
 muftis:

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Ruling on excusing grave worshippers"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Muqalat 9/285"
@@ -8,6 +8,8 @@ link: https://cutt.ly/4dHosHF
 hijri: Dhul-Hijjah 17, 1441 AH
 lang: en
 note: false
+locale: en
+active: audios
 excerpt: "Are those who worship graves excused because of their ignorance, even though among them are people calling to Tawhid (belief in the Oneness of Allah/ monotheism)?"
 muftis:
   shaykh: 

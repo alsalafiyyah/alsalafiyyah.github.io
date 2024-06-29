@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Al-Hilm (forbearance) and Al-Sabr (patience)"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_550/55001.mp3

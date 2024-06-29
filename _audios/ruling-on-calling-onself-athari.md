@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Ruling on calling oneself Athari"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb 3"
@@ -7,6 +7,8 @@ mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_422/42
 hijri: Dhul-Hijjah 13, 1441 AH
 lang: en
 note: false
+locale: en
+active: audios
 excerpt: "I think there is nothing wrong in calling someone as Athari if it is true. If someone accepts the Prophetic Hadiths and follows the Sunnah and the way of the Salaf (righteous predecessors)"
 muftis:
   shaykh: 

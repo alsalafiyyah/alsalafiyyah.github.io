@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "The duty of guiding people to the reality of Tawhid and Shirk"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_412/41211.mp3
@@ -7,6 +7,8 @@ link: https://cutt.ly/0dCGyqq
 hijri: Dhul-Hijjah 18, 1441 AH
 lang: en
 note: false
+active: audios
+locale: en
 excerpt: "It is obligatory that the scholars guide people to the reality of Tawhid (belief in the Oneness of Allah/monotheism) and the reality of Shirk (associating others with Allah in His Divinity or worship), so that these blinded lay people know the falsity of their beliefs."
 muftis:
   shaykh: 

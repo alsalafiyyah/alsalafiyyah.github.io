@@ -1,11 +1,13 @@
 ---
-layout: page
+layout: post
 title: "Theory of human evolution or Darwin's theory"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_175/17501.mp3
 hijri: "Rabi' Al-Awwal 22, 1442 AH"
 lang: en
 note: false
+active: audios
+locale: en
 url: "https://binbaz.org.sa/fatwas/7143/%D8%A7%D9%84%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D9%86%D8%B8%D8%B1%D9%8A%D8%A9-%D8%AF%D8%A7%D8%B1%D9%88%D9%8A%D9%86"
 excerpt: "Allah created Adam from clay and molded him in His Image. Adam was sixty cubits tall, but people have been decreasing in stature since then. He was created in the form and shape of today humans."
 muftis:

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "People of Bid'ah are not of Al-Firqah Al-Najiyah (The Saved sect)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb of Ibn Baz tape no. 307 question 4"
@@ -8,7 +8,8 @@ link: https://cutt.ly/IdB5rcq
 hijri: Dhul-Hijjah 19, 1441 AH
 lang: en
 note: false
-uid: people-of-bid ah-are-not-firqah-najiyah
+locale: en
+active: audios
 excerpt: "The triumphant group is Ahl-ul-Sunnah waI-Jama'ah (adherents to the Sunnah and the Muslim mainstream). They are the followers of the Book and the Sunnah who introduce no Bid'ah (innovation in the religion) and abide by the commands of Allah (Exalted be He)."
 muftis:
   chairman: 

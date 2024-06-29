@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Ruling on carrying flags for Awliya"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 3"
@@ -8,6 +8,8 @@ link: https://cutt.ly/kdDW4ua
 hijri: Dhul-Hijjah 16, 1441 AH
 lang: en
 note: false
+active: audios
+locale: en
 excerpt: "During festivals some people carry colorful flags bearing some Ayahs (Qur'anic verses) and expressions; for example, the magnate, great reliever and mighty scholar Ahmad Al-Rifa'i, Ahmad Al-Badawi, or Abdul-Qadir Al-Jilani."
 muftis:
   shaykh: 

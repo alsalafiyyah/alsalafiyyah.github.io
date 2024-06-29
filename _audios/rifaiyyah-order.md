@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Ruling on Rifaiyyah Tariqah (Sufi order)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 3"
@@ -9,6 +9,7 @@ hijri: Dhul-Hijjah 16, 1441 AH
 lang: en
 note: false
 locale: en
+active: audios
 excerpt: "These Sufi orders are all null and void. All these orders are mere cults and lies. In fact, such people neither stab nor cut themselves."
 muftis:
   chairman: 

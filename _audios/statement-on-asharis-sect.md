@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Statement on the sect of Asha'irah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 3"
@@ -7,6 +7,8 @@ mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/%D9%87%D9%84%20%D8%A7%D9%84
 hijri: Dhul-Hijjah 16, 1441 AH
 lang: en
 note: false
+locale: en
+active: audios
 excerpt: "Is the sect of Asha'irah (a Muslim group that bases its creedal issues on logic) part of Ahl-ul-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream)? Please provide an explanation. "
 muftis:
   shaykh: 

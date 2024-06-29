@@ -7,6 +7,8 @@ link: shorturl.at/euCDX
 hijri: Dhul-Hijjah 16, 1441 AH
 lang: en
 note: false
+locale: en
+active: audios
 excerpt: "Shaykh Muhammad ibn Abdul-Wahhab is of the scholars of Sunnah and the scholars of the people of truth. His Da'wah is not a fifth Madhab (School of Jurisprudence), rather it is a Da'wah to the Aqidah (creed) of the Salaf (righteous predecessors)"
 muftis:
   shaykh: 

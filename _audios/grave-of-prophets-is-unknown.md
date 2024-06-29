@@ -1,11 +1,13 @@
 ---
-layout: page
+layout: post
 title: "The grave of Pophets is unknown"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/أين توجد قبور الأنبياء التالية (عمران، وصالح، وأيوب، وهود)؟.mp3
 hijri: "Rabi' Al-Awwal 28, 1442 AH"
 lang: en
 note: false
+locale: en
+active: audios
 url: "https://binbaz.org.sa/fatwas/28506/%D8%A7%D9%8A%D9%86-%D8%AA%D9%88%D8%AC%D8%AF-%D9%82%D8%A8%D9%88%D8%B1-%D8%A7%D9%84%D8%A7%D9%86%D8%A8%D9%8A%D8%A7%D8%A1-%D8%A7%D9%84%D8%AA%D8%A7%D9%84%D9%8A%D8%A9-%D8%B9%D9%85%D8%B1%D8%A7%D9%86-%D9%88%D8%B5%D8%A7%D9%84%D8%AD-%D9%88%D8%A7%D9%8A%D9%88%D8%A8-%D9%88%D9%87%D9%88%D8%AF"
 excerpt: "All tombs of prophets are unknown except that of our Prophet Muhammad (peace be upon him) and Ibrahim (peace be upon him)."
 muftis:

@@ -1,11 +1,13 @@
 ---
-layout: page
+layout: post
 title: "Ruling on keeping marriage with one wife who does not pray"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_168/16803.mp3
 hijri: "Rabi' Al-Thani 24 1442 AH"
 lang: en
 note: false
+locale: en
+active: audios
 url: "https://binbaz.org.sa/fatwas/7057/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D9%84%D8%A7-%D8%AA%D8%B5%D9%84%D9%8A-%D9%88%D9%84%D8%A7-%D8%AA%D9%84%D8%AA%D8%B2%D9%85-%D8%A8%D8%A7%D9%84%D8%AD%D8%AC%D8%A7%D8%A8-%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D9%8A"
 excerpt: "If she does not pray at all, then the marriage is over since whoever abandons Salah (Prayer) has no religion; rather, such a person is a Kafir (disbeliever). May Allah keep us safe."
 muftis:

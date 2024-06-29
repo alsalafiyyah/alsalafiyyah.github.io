@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Ruling on Funeral Prayer for people transgressing Shari'ah"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_069/06913.mp3
@@ -7,6 +7,7 @@ hijri: "Rabi' Al-Awwal 24, 1442 AH"
 lang: en
 note: false
 active: audios
+locale: en
 url: "https://binbaz.org.sa/fatwas/5509/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%83%D8%A7%D9%81%D8%B1-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%8A"
 excerpt: "If the person transgressing the Shar'ah is deemed a Murtad (apostate), the funeral Prayer should not be offered for him."
 muftis:

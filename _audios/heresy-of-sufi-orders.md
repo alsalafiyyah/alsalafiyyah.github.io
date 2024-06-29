@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Ruling on Khalwatiyyah Tariqah"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_463/46305.mp3
@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 17, 1441 AH
 lang: en
 note: false
 locale: en
-uid: heresy-of-sufi-orders
+active: audios
 excerpt: "Yes, all the Sufi orders are innovations in the religion. However, some actions of these ways might match with the truth."
 muftis:
   shaykh: 

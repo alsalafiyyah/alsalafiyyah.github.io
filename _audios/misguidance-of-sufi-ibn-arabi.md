@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Revealing the misguidance of the Sufi scholar Ibn 'Arabi"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 3"
@@ -8,6 +8,8 @@ link: https://cutt.ly/rdGfqSg
 hijri: Dhul-Hijjah 16, 1441 AH
 lang: en
 note: false
+locale: en
+active: audios
 excerpt: "Sufism has different branches, and its followers are, mostly, Mubtadi's. They have invocations and acts of worship that have no basis in the Qur'an or the Sunnah. One of the Sufis is Ibn 'Arabi."
 muftis:
   shaykh: 

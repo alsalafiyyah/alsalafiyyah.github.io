@@ -1,11 +1,13 @@
 ---
-layout: page
+layout: post
 title: "Ruling on claiming knowledge of Ghayb"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_871/nour_87107.mp3
 hijri: "Rabi' Al-Thani 05, 1442 AH"
 lang: en
 note: false
+locale: en
+active: audios
 url: "https://binbaz.org.sa/fatwas/17747/%D8%A7%D9%84%D8%AD%D9%83%D9%85-%D8%B9%D9%84%D9%89-%D9%85%D9%86-%D9%8A%D8%AF%D8%B9%D9%8A-%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%BA%D9%8A%D8%A8"
 excerpt: "People should not pay attention to him, rely on him or fear him, for he is a swindler and a charlatan who is of no benefit and who uses these words to intimidate and scare the general public to take their money unlawfully by deceiving them."
 muftis:

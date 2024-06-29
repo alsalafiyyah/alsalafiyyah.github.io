@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Noah was the first messenger"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 1"
@@ -8,6 +8,8 @@ hijri: "Rabi' Al-Awwal 22, 1442 AH"
 lang: en
 active: audios
 note: false
+locale: en
+active: audios
 url: "https://binbaz.org.sa/fatwas/16763/%D9%85%D9%86-%D8%A7%D9%88%D9%84-%D8%A7%D9%84%D8%A7%D9%86%D8%A8%D9%8A%D8%A7%D8%A1"
 excerpt: "Nuh was the first Messenger to be sent when Shirk (associating others with Allah in His Divinity or worship, polytheism) appeared among the people."
 muftis:

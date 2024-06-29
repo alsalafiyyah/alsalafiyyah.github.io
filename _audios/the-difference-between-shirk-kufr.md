@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "The difference between Shirk and Kufr"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb of Ibn Baz tape no. 394"
@@ -8,6 +8,8 @@ link: https://cutt.ly/6dBlH0i
 hijri: Dhul-Hijjah 18, 1441 AH
 lang: en
 note: false
+locale: en
+active: audios
 excerpt: "All Shirk is called Kufr; invoking anyone other than Allah, seeking help from anyone other than Allah, worshipping anyone other than Allah is called Shirk, and is also called Kufr."
 muftis:
   shaykh: 

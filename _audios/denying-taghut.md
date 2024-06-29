@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Meaning of denying Al-Taghut (false deities)"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_739/nour_73903.mp3
@@ -7,6 +7,7 @@ hijri: "Rabi' Al-Awwal 22, 1442 AH"
 lang: en
 note: false
 active: audios
+locale: en
 url: "https://binbaz.org.sa/fatwas/18450/%D9%85%D8%B9%D9%86%D9%89-%D8%A7%D9%84%D9%83%D9%81%D8%B1-%D8%A8%D8%A7%D9%84%D8%B7%D8%A7%D8%BA%D9%88%D8%AA"
 excerpt: "It means to declare oneself free from worshipping false deities and to believe that all deities worshipped along with Allah are false."
 muftis:

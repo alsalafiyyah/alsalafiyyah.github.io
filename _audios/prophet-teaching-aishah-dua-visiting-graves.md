@@ -1,11 +1,13 @@
 ---
-layout: page
+layout: post
 title: "The Prophet (peace be upon him) teaching 'Aishah (may Allah be pleased with her) the Du'a of visiting graves"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_775/nour_77509.mp3
 hijri: "Rabi' Al-Thani 13, 1442 AH"
 lang: en
 note: false
+locale: en
+active: audios
 url: "https://binbaz.org.sa/fatwas/16455/%D8%A7%D9%84%D8%AD%D9%83%D9%85-%D8%B9%D9%84%D9%89-%D8%AD%D8%AF%D9%8A%D8%AB-%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D9%86%D8%A8%D9%8A-%EF%B7%BA-%D8%B9%D8%A7%D9%89%D8%B4%D8%A9-%D8%AF%D8%B9%D8%A7%D8%A1-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%A8%D9%88%D8%B1"
 excerpt: "This Hadith in which he teaches 'Aishah the Du'a of visiting graves was during the period when women were allowed to visit them along with men."
 muftis:

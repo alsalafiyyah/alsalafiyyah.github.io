@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Who are the Sufis?"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 3"
@@ -7,6 +7,8 @@ mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_477/47
 hijri: Dhul-Hijjah 16, 1441 AH
 lang: en
 note: false
+locale: en
+active: audios
 excerpt: "Sufis are groups of people who are known for their innovating methods of worship that are not ordained by Allah in their prayers, Dhikr (Remembrance of Allah) and devotional retreats."
 muftis:
   shaykh: 

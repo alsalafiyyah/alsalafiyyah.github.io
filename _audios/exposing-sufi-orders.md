@@ -1,11 +1,13 @@
 ---
-layout: page
+layout: post
 title: "Exposing Sufi orders"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_923/nour_92304.mp3
 hijri: Dhul-Hijjah 16, 1441 AH
 lang: en
 note: false
+locale: en
+active: audios
 excerpt: "Sufi orders are newly-invented ways in Islam, which fall under Bid'ah (innovation in religion) whose seriousness varies from group to group. Some are worse than others."
 muftis:
   shaykh: 
