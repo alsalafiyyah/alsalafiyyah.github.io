@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: post
 title: "Advice of Allah's Book [Part 2]"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 9/14"
 hijri: Muharram 12, 1442 AH
 lang: en
+locale: en
 excerpt: "Do not attack or betray anyone, whether poor or rich, and avoid Zhulm in transactions and in everything. Do not do injustice to workers, if you are a company owner"
 active: muqolat
 muftis:

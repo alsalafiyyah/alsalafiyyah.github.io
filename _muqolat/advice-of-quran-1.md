@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: post
 title: "Advice of Allah's Book [Part 1]"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 9/14"
 hijri: Muharram 6, 1442 AH
 lang: en
+locale: en
 active: muqolat
 muftis:
   shaykh: 

@@ -1,11 +1,13 @@
 ---
-layout: page
+layout: post
 title: "The meaning of 'La ilaha illa Allah'"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 2/5"
 hijri: Dhul-Hijjah 12, 1441 AH
 excerpt: "This indicates that the Mushriks understood that the meaning of 'La ilaha illa Allah' superseded their deities and necessitated dedicating their acts of worship to Allah Alone."
 active: muqolat
+locale: en
+lang: en
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
