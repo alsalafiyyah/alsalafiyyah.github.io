@@ -1,23 +1,19 @@
 ---
 layout: default
 ---
-    <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
-      <li itemprop="itemListElement" itemscope
-          itemtype="https://schema.org/ListItem">
-        <a itemprop="item" 
-            href="{{ site.url }}"
-            itemid="{{ site.url }}"
-            itemtype="https://schema.org/WebPage">
-            <span itemprop="name">Home</span></a>
-        <meta itemprop="position" content="1" />
+   <ol class="breadcrumb" vocab="https://schema.org/" typeof="BreadcrumbList">
+      <li property="itemListElement" typeof="ListItem">
+        <a property="item" typeof="WebPage"
+            href="{{ site.url }}">
+          <span property="name">Home</span></a>
+        <meta property="position" content="1">
       </li>
-      <li itemprop="itemListElement" itemscope
-          itemtype="https://schema.org/ListItem">
-          <span itemprop="name">{{ page.title }}</span>
-        <meta itemprop="position" content="2" />
+      <li property="itemListElement" typeof="ListItem">
+        <span property="name">{{ page.title }}</span>
+        <meta property="position" content="2">
       </li>
-    </ol>
-    <h2 itemprop="name">
+   </ol>
+   <h2 itemprop="name">
      {{ page.title }}
-    </h2>
+   </h2>
     {{ content }}
