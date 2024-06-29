@@ -1,29 +1,18 @@
 name: English
-
-blog:
+site:
   title: Salafi Manhaj
-  description: 
-  author: Instagram@Alsalafiyyah
-  site_url: /
-  404: "The page you requested does not exist"
-  404_text: "Page not found."
-  ar: "ع"
+  desc: 
+  url: /
+  ar: "عربي"
   en: "en"
 
-
-menu:
-  - name: Home
-    url: /
-    active: home
+nav:
   - name: Fatwas
     url: /fatwas
     active: fatwas
   - name: Audios
     url: /audios
     active: audios
-  - name: Books
-    url: /books
-    active: books
   - name: Muqolat
     url: /muqolat
     active: muqolat
@@ -31,6 +20,11 @@ menu:
     url: /category
     active: category
 
+footer:
+  - name: Sitemap
+    url: /sitemap
+  - name: Instagram
+    url: https://instagram.com/alsalafiyyah
 
 page:
   next: Next
@@ -43,7 +37,7 @@ page:
   category: Category
   tag: Tag
   tags: Tags
-  basmalah: "In the Name of Allah, the Most Beneficent, the Most Merciful."
+  basmalah: In the Name of Allah, the Most Beneficent, the Most Merciful.
   home: Home
   search: Search
   audios: Audios
@@ -53,38 +47,16 @@ page:
   language: Language
   languages: Languages
   mufti: Mufti
-  muftis: Muftis
+  muftis: Mufti(s)
   date: Created at
   created_at: Created at
   last_updated: Last updated
   fatwa_num: Fatwa No.
-  source: Source
+  source: Source(s)
   website_is_under_maintenance: Website is under maintenance
   notSupportaudio: Your browser does not support the audio element.
-
-
-# Sidenav
-sidenav:
-  - title: Menu
-    items:
-      - title: Home
-        url: /
-      - title: Fatwas
-        url: /fatwas
-      - title: Audios
-        url: /audios
-      - title: Books
-        url: /books
-      - title: Muqolat
-        url: /muqolat
-      - title: Categories
-        url: /category
-    language:
-      - title: English
-        url: /
-      - title: عربي
-        url: /ar      
-
+  404: "The page you requested does not exist"
+  404_text: "Page not found."
 
 post:
   dated: "Posted on:"
