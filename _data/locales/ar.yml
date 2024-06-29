@@ -1,35 +1,24 @@
-name: عربى
-
-blog:
+name: arabic
+site:
   title: المنهج السلفي
-  description: 
-  author: Instagram@Alsalafiyyah
-  site_url: /ar/
-  404: "الصفحة التي طلبتها غير موجودة"
-  404_text: "يمكنك استخدام حقل البحث، أو الانتقال للصفحة الرئيسية. "
-  ar: "ع"
+  desc: 
+  url: /ar/
+  ar: "عربي"
   en: "en"
 
-menu:
-  - name: الرئيسية
-    url: /ar
-    active: home
-  - name: فتاوى
+nav:
+  - name: الفتاوى
     url: /ar/fatwas
     active: fatwas
   - name: صوتيات
     url: /ar/audios
     active: audios
-  - name: كتب
-    url: /ar/books
-    active: books
   - name: مقالات
     url: /ar/muqolat
     active: muqolat
   - name: التصنيفات
     url: /ar/category
     active: category
-
 
 page:
   next: التالي
@@ -52,33 +41,11 @@ page:
   fatwa_num: رقم الفتوى
   source: المصدر
   website_is_under_maintenance: الموقع تحت الصيانة!
-
-
-# Sidenav
-sidenav:
-  - title: قائمة
-    items:
-      - title: الرئيسية
-        url: /ar
-      - title: فتاوى
-        url: /ar/fatwas
-      - title: صوتيات
-        url: /ar/audios
-      - title: كتب
-        url: /ar/books
-      - title: مقالات
-        url: /ar/muqolat
-      - title: التصنيفات
-        url: /ar/category
-    language:
-      - title: English
-        url: /
-      - title: عربي
-        url: /ar      
-
+  404: "الصفحة التي طلبتها غير موجودة"
+  404_text: "يمكنك استخدام حقل البحث، أو الانتقال للصفحة الرئيسية."
 
 post:
-  dated: "تاريخ النشر في الموقع : "
+  dated: "تاريخ النشر في الموقع :"
   print: طباعة
   share: مشاركة
   related_fatwas: فتاوى ذات صلة
