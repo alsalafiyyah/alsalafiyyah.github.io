@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Clarifying the Da'wah of the Imam Muhammad ibn Abdul-Wahhab"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_828/nour_82803.mp3
