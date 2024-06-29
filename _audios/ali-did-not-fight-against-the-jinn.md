@@ -4,6 +4,7 @@ title: Ali did not fight against the Jinn
 publisher: alsalafiyyah@icloud.com
 output: html_document
 hijri: Rabi'ul-Awwal 27, 1442
+date: 2020-11-13
 lang: en
 locale: en
 note: false
