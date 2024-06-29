@@ -6,17 +6,17 @@ locale: en
 excerpt: This site is dedicated to presenting the pure teachings of Islam and Sunnah, refuting bidahs, the lies and distortions.
 ---
 <div>
-   <h3>Recent 
+   <h2>Recent 
     <a class="nowavy" href="{{ '/fatwas/' | prepend:site.baseurl }}">
       <mark>
        {{ site.data.locales[page.locale].page.fatwas }}
       </mark>
     </a>
-   </h3>
+   </h2>
 <ul class="square" vocab="https://schema.org/" typeof="ItemList">
 {% for post in site.posts limit:5 %}
 {% if post.url %}
- <li property="itemListElement" typeof="ListItem"> 
+ <li property="itemListElement" typeof="ListItem" style="margin-bottom: 8px;"> 
   <a href="{{ post.url }}" property="item" typeof="WebPage">
   <span property="name">{{ post.title }}</span>
   </a>
@@ -28,16 +28,16 @@ excerpt: This site is dedicated to presenting the pure teachings of Islam and Su
 </div>
 
 <div>
-   <h3> Recent 
+   <h2> Recent 
     <a itemprop="url" class="nowavy" href="{{ '/audios/' | prepend:site.baseurl }}">
      <mark>
      {{ site.data.locales[page.locale].page.audios }}
      </mark>
     </a>
-   </h3>
+   </h2>
 <ul class="bullets" vocab="https://schema.org/" typeof="ItemList">
 {% for item in site.audios limit:5 %}
- <li property="itemListElement" typeof="ListItem"> 
+ <li property="itemListElement" typeof="ListItem" style="margin-bottom: 8px;"> 
   <a class="nowavy" href="{{ item.url }}" property="item" typeof="WebPage">
    <span property="name"><mark>{{ item.title }}</mark></span>
   </a>
