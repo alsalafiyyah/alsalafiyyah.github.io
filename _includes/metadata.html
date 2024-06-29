@@ -21,7 +21,7 @@
   <meta name="facebook-domain-verification" content="{{ site.webmaster_verifications.facebook_domain }}" />
   <meta property="og:locale" content="{{ page.locale }}" />
   <meta name="keywords" content="{{ site.keywords }}"/>
-  <meta name="description" content="{{ page.excerpt }}">
+  <meta name="description" content="{{ page.excerpt | escape }}">
   <meta property="og:description" content="{{ page.excerpt }}" />
   <meta name="author" content="{{ site.author }}">
   <meta name="theme-color" content="Canvas">
