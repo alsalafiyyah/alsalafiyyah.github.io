@@ -1,15 +1,15 @@
 <!-- javacripts -->
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-<script defer src="https://unpkg.com/vanilla-datatables@latest/dist/vanilla-dataTables.min.js"></script>  
+<script type="text/javascript" src="https://unpkg.com/vanilla-datatables@latest/dist/vanilla-dataTables.min.js"></script>  
 {% include tipue.html %}
-<script defer type="text/javascript" language="javascript">
+<script type="text/javascript" language="javascript">
 var table = new DataTable("table", {
 	searchable: true,
   perPageSelect: false
 });
 </script>
 <script defer type="text/javascript">(function(a,b,c){if(c in b&&b[c]){var d,e=a.location,f=/^(a|html)$/i;a.addEventListener("click",function(a){d=a.target;while(!f.test(d.nodeName))d=d.parentNode;"href"in d&&(d.href.indexOf("http")||~d.href.indexOf(e.host))&&(a.preventDefault(),e.href=d.href)},!1)}})(document,window.navigator,"standalone")</script>
-  <script defer type="text/javascript">
+  <script defer language="javascript" type="text/javascript">
     function setAccessedDate() {
       if (document.getElementById('accessed-on')) {
         var now = new Date();
