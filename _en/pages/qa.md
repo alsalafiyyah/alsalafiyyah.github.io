@@ -1,6 +1,6 @@
 ---
 layout: Page
-title: QA
+title: What is Salafiyyah
 active: qa
 permalink: /qa/
 locale: en
@@ -25,13 +25,16 @@ The Salafi da’wah is a call to follow the footsteps of the Messenger ﷺ, his 
 ## What is the difference between Aqidah and Manhaj
 There is no difference between ‘Aqidah (creed) and Manhaj (methodology). Both terms refer to what a person believes in their hearts, confesses with their tongues, and acts accordingly with their bodily members. They encompass believing in the Oneness of Allah’s Lordship, Worship, His Names and Attributes, worshipping Him Alone, abiding by His Shari’ah in words and deeds, and following the Qur’an and the Sunnah as adopted by the Salaf (righteous predecessors) and Imams (initiators of Schools of Jurisprudence). Accordingly, there is no difference between ‘Aqidah and Manhaj; they refer to the same thing which all Muslims must observe and hold fast to. [^7]
 
+## Shaykh Muhammad ibn ‘Abdul-Wahhab
+Shaykh Muhammad Ibn ‘Abdul-Wahhab (may Allah be Merciful with him) was indeed one of the great callers to Salafiyyah (following the way of the righteous predecessors), and to the sound ‘Aqidah (creed) and the morally correct, upright method. His books abound with these aspects.The above-mentioned claim made by an antagonist to the Shaykh’s da'wah: that he deviated from the truth at the end of his life by denying authentic Hadiths that did not agree with his own views, is a lie fabricated against him. To the day he died, the Shaykh remained one of the strongest adherents to the Sunnah, and retained his deep veneration for it and kept calling people to it, may Allah be merciful to him. [^8]
+
 ---
-### Footnote:
+### Footnotes:
 [^1]: Musnad Ahmad 4/426, 4/427, 4/479; Al-Bukhari [Fath-ul-Bari] no. 2651, 3650, 6428, and 6695; Muslim no. 2535; Abu Dawud no. 4657; and Al-Tirmidhi, nos. 2222, 2223.
 [^2]: Fatwas of the Permanent Committee of KSA, Fatwa no. 1361, Question 2.
 [^3]: Fatwas of the Permanent Committee of KSA, Fatwa no. 4143, Question 2.
 [^4]: At-Tirmidhi [Book on faith] no. 2641.
 [^5]: Fatwas of the Permanent Committee of KSA, Fatwa no. 6149, Question 2.
-[^6]: Fatwas of the Permanent Committee of KSA, Fatwa no. 6265
+[^6]: Fatwas of the Permanent Committee of KSA, Fatwa no. 6265.
 [^7]: Fatwas of the Permanent Committee of KSA, Fatwa no. 18870.
-
+[^8]: Fatwas of the Permanent Committee of KSA, Fatwa no. 6477, Question 3.
