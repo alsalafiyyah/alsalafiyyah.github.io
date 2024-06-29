@@ -25,7 +25,7 @@ excerpt: Compilation of fatwas (legal opinions) issued by the scholars of ahlus-
      {{ post.hijri }} // {{ post.date | date: "%b %d, %Y" }}
     </date>
      <p class="content-excerpt" itemscope itemtype="https://schema.org/ItemList">
-       <span itemscope itemprop="description">{{ post.excerpt | escape }}</span>
+       <span itemscope itemprop="description">{{ post.excerpt | escape | truncate: 100 }}</span>
      </p>
     <meta itemprop="position" content="{{ forloop.index }}" />
    </li>
