@@ -13,6 +13,8 @@ font-family: "Trocchi", serif;
   --danger: hsl(4.1,89.6%,58.4%);
   --grey: hsl(0,0%,66.3%);
   --link: #c1d9f4;
+  --white: #ffffff;
+  --mark: #F99B7D;;
 }
 
 /* general */
@@ -20,10 +22,10 @@ input:focus {
   outline: none !important;
 }
 mark, .mark {
-  background:linear-gradient(180deg, transparent 50%, #c1d9f4 50%);
+  background:linear-gradient(180deg, transparent 50%, var(--mark) 50%);
 }
 mark a, .mark a {
-  background:linear-gradient(180deg, transparent 50%, #c1d9f4 50%);
+  background:linear-gradient(180deg, transparent 50%, var(--mark) 50%);
   text-decoration: none !important;
   text-decoration-style: none !important;
 }
@@ -164,7 +166,7 @@ ol.breadcrumb {
 ol.breadcrumb li {display: inline;}
 ol.breadcrumb li+li:before {
   padding: 2px;
-  color: #91c0f7;
+  color: var(--color-red);
   content: "\2022";
 }
 ol.breadcrumb li a {
