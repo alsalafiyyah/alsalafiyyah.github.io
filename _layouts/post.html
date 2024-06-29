@@ -13,6 +13,16 @@ layout: default
             <span itemprop="name">Audios</span></a>
         <meta itemprop="position" content="1" />
       </li>
+  {% elsif page.active == "muqolat" %}
+        <li itemprop="itemListElement" itemscope
+          itemtype="https://schema.org/ListItem">
+        <a itemprop="item" 
+            href="/muqolat"
+            itemid="/muqolat"
+            itemtype="https://schema.org/WebPage">
+            <span itemprop="name">Muqolat</span></a>
+        <meta itemprop="position" content="1" />
+        </li>     
   {% else %}
       <li itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
