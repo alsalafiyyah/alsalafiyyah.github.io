@@ -29,12 +29,16 @@ There is no difference between ‘Aqidah (creed) and Manhaj (methodology). Both 
 Shaykh Muhammad Ibn ‘Abdul-Wahhab (may Allah be Merciful with him) was indeed one of the great callers to Salafiyyah (following the way of the righteous predecessors), and to the sound ‘Aqidah (creed) and the morally correct, upright method. His books abound with these aspects.The above-mentioned claim made by an antagonist to the Shaykh’s da'wah: that he deviated from the truth at the end of his life by denying authentic Hadiths that did not agree with his own views, is a lie fabricated against him. To the day he died, the Shaykh remained one of the strongest adherents to the Sunnah, and retained his deep veneration for it and kept calling people to it, may Allah be merciful to him. [^8]
 
 ---
-Further reading: 
+### Further reading: 
 - [Ruling on calling oneself Athari](https://alsalafiyyah.github.io/audios/ruling-on-calling-onself-athari)
 - [Shaykh Muhammad ibn Abdul-Wahhab and Wahhabiyah](https://alsalafiyyah.github.io/wahhabi)
+- [Are the Hanbalis are the only Salafis](https://alsalafiyyah.github.io/are-hanabilah-the-only-salafis)
+- [Ruling on hating the Salafis](https://alsalafiyyah.github.io/ruling-on-hating-salafis)
+- [The duty of a Muslim is to follow the teachings of the Qur'an and Sunnah](https://alsalafiyyah.github.io/being-muslim-is-to-follow-quran-sunnah)
+- [When one relates themselves to the Salaf they ascribe themselves to the people of truth, not falsehood](https://alsalafiyyah.github.io/salaf-are-ahlus-sunnah)
 
 ---
-### Footnotes:
+#### Footnotes:
 [^1]: Musnad Ahmad 4/426, 4/427, 4/479; Al-Bukhari [Fath-ul-Bari] no. 2651, 3650, 6428, and 6695; Muslim no. 2535; Abu Dawud no. 4657; and Al-Tirmidhi, nos. 2222, 2223.
 [^2]: Fatwas of the Permanent Committee of KSA, Fatwa no. 1361, Question 2.
 [^3]: Fatwas of the Permanent Committee of KSA, Fatwa no. 4143, Question 2.
