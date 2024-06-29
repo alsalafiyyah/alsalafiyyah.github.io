@@ -5,7 +5,19 @@ Copyright (c) 2017 Tipue
 Tipue Search is released under the MIT License
 http://www.tipue.com/search
 */
-
+:root {
+  --system-ui: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  --body-bg: hsl(26.7,25.7%,93.1%);
+  --color: hsl(345,5.7%,13.7%);
+  --color-red: hsl(356.1,94.3%,58.4%);
+  --success: hsl(170.2,32.3%,73.9%);
+  --info: hsl(190.6,21.8%,69.4%);
+  --warning: hsl(42.4,63%,71.4%);
+  --danger: hsl(4.1,89.6%,58.4%);
+  --grey: hsl(0,0%,66.3%);
+  --link: #c1d9f4;
+  --white: #ffffff;
+}
 .tipue_search_content_title
 {
      font-size: 21px;
@@ -181,10 +193,10 @@ input[type=search]:focus {
 #tipue_search_foot_boxes li.current
 {
      padding: 10px 17px 11px 17px;
-     background: var(--warning);
+     background: var(--colod-red);
      border: 1px solid #e3e3e3;
      border-radius: 1px;
-     color: #333;
+     color: var(--white);
      margin-right: 7px;
      text-align: center;
 }
