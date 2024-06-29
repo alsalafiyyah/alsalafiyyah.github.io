@@ -22,6 +22,9 @@ Ahlus-Sunnah wal Jama’ah are the Muslims who follow the very same way which Pr
 ## What is the fundamentals and principles of the Salafi da’wah?
 The Salafi da’wah is a call to follow the footsteps of the Messenger ﷺ, his Sahabah (Companions of the Prophet, may Allah be pleased with them), and those who follow them in righteousness, with wisdom, fair preaching, and arguing in the best way along with struggling with one’s soul to act accordingly toward all that the person is calling for
 
+## What is the difference between Aqidah and Manhaj
+There is no difference between ‘Aqidah (creed) and Manhaj (methodology). Both terms refer to what a person believes in their hearts, confesses with their tongues, and acts accordingly with their bodily members. They encompass believing in the Oneness of Allah’s Lordship, Worship, His Names and Attributes, worshipping Him Alone, abiding by His Shari’ah in words and deeds, and following the Qur’an and the Sunnah as adopted by the Salaf (righteous predecessors) and Imams (initiators of Schools of Jurisprudence). Accordingly, there is no difference between ‘Aqidah and Manhaj; they refer to the same thing which all Muslims must observe and hold fast to.
+
 ---
 
 [^1]: Musnad Ahmad 4/426, 4/427, 4/479; Al-Bukhari [Fath-ul-Bari] no. 2651, 3650, 6428, and 6695; Muslim no. 2535; Abu Dawud no. 4657; and Al-Tirmidhi, nos. 2222, 2223.
