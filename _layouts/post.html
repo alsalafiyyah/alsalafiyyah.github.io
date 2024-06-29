@@ -54,7 +54,13 @@ layout: default
  {{ page.title }}
 </h3>
 <div itemprop="articleBody">
- {{ content }}
+ {% if page.mp3 %}
+  <audio controls>
+   <source src="{{ page.mp3 }}" type="audio/mpeg"/>
+      <p>{{ site.data.locales[page.locale].page.notSupportaudio }}</p>
+  </audio>
+ {% endif %}
+{{ content }}
 </div>
 {% if page.note %}
  <p>{{ site.note.text }}</p>
