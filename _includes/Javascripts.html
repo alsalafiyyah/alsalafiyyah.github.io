@@ -1,15 +1,15 @@
 <!-- javacripts -->
-<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-<script src="https://unpkg.com/vanilla-datatables@latest/dist/vanilla-dataTables.min.js"></script>  
+<script defer type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script defer src="https://unpkg.com/vanilla-datatables@latest/dist/vanilla-dataTables.min.js"></script>  
 {% include tipue.html %}
-<script type="text/javascript" language="javascript">
+<script defer type="text/javascript" language="javascript">
 var table = new DataTable("table", {
 	searchable: true,
   perPageSelect: false
 });
 </script>
-<script>(function(a,b,c){if(c in b&&b[c]){var d,e=a.location,f=/^(a|html)$/i;a.addEventListener("click",function(a){d=a.target;while(!f.test(d.nodeName))d=d.parentNode;"href"in d&&(d.href.indexOf("http")||~d.href.indexOf(e.host))&&(a.preventDefault(),e.href=d.href)},!1)}})(document,window.navigator,"standalone")</script>
-  <script>
+<script defer type="text/javascript">(function(a,b,c){if(c in b&&b[c]){var d,e=a.location,f=/^(a|html)$/i;a.addEventListener("click",function(a){d=a.target;while(!f.test(d.nodeName))d=d.parentNode;"href"in d&&(d.href.indexOf("http")||~d.href.indexOf(e.host))&&(a.preventDefault(),e.href=d.href)},!1)}})(document,window.navigator,"standalone")</script>
+  <script defer type="text/javascript">
     function setAccessedDate() {
       if (document.getElementById('accessed-on')) {
         var now = new Date();
@@ -33,10 +33,3 @@ var table = new DataTable("table", {
       }
     }
   </script>
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-174935062-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'UA-174935062-1');
-</script>
