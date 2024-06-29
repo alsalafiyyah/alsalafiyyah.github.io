@@ -117,7 +117,6 @@ input[type=search]:focus {
 {
      color: #000100;
      text-decoration: none;
-     font-weight: bold;
 }
 .tipue_search_content_title a:hover
 {
@@ -130,6 +129,7 @@ input[type=search]:focus {
 }
 .tipue_search_content_url a, .tipue_search_related_text a
 {
+     color: #B04759;
      text-decoration: none;
 }
 .tipue_search_content_url a:hover, .tipue_search_related_text a:hover, .tipue_search_related_before, .tipue_search_related_after
@@ -148,7 +148,7 @@ input[type=search]:focus {
 }
 .tipue_search_content_debug
 {
-	color: #333;
+     color: #333;
      margin: 5px 0;
 }
 .tipue_search_related_title
@@ -193,7 +193,7 @@ input[type=search]:focus {
 #tipue_search_foot_boxes li.current
 {
      padding: 10px 17px 11px 17px;
-     background: var(--colod-red);
+     background: #B04759;
      border: 1px solid #e3e3e3;
      border-radius: 1px;
      color: var(--white);
