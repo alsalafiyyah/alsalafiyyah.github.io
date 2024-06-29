@@ -1,17 +1,19 @@
 ---
-layout: page
-title: "Al-Qadariyyah are the magians of this Ummah"
-publisher: "alsalafiyyah@icloud.com"
-mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_935/nour_93503.mp3
-hijri: "Rabi' Al-Thani 05, 1442 AH"
+layout: post
+title: Al-Qadariyyah are the magians of this Ummah
+publisher: alsalafiyyah@icloud.com
+hijri: Rabi' Al-Thani 05, 1442
+date: 2020-11-20
 lang: en
+locale: en
 note: false
-url: "https://binbaz.org.sa/fatwas/18619/%D9%85%D8%AC%D9%88%D8%B3-%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%A7%D9%85%D8%A9"
-excerpt: "They are the denying Qadariyyah who deny fate and say that everything is predestined. It is a fact that Magians say that humanity has two gods; the god of light and the god of darkness."
-muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+active: audios
+category: [fatwas,sahabah,audios]
+mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_935/nour_93503.mp3
+url: https://binbaz.org.sa/fatwas/18619/%D9%85%D8%AC%D9%88%D8%B3-%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%A7%D9%85%D8%A9
+excerpt: They are the denying Qadariyyah who deny fate and say that everything is predestined. It is a fact that Magians say that humanity has two gods; the god of light and the god of darkness.
+shaykhs: 
+ - Shaykh Ibn Baz
 ---
 
 Question:
