@@ -6,11 +6,11 @@ layout: default
       <li property="itemListElement" typeof="ListItem">
         <a property="item" typeof="WebPage"
             href="{% if page.active == "audios" %}/audios{% elsif page.active == "muqolat" %}/muqolat{% else %}/fatwas{% endif %}">
-          <span property="name">Fatwas</span></a>
+          <span property="name">{% if page.active == "audios" %}Audios{% elsif page.active == "muqolat" %}Muqolat{% else %}Fatwas{% endif %}</span></a>
         <meta property="position" content="1">
       </li>
       <li property="itemListElement" typeof="ListItem">
-        <span property="name">{{ site.data.locales[page.locale].page.date }}: {{ page.date | date_to_string }} - {% if page.hijri %}{{ page.hijri }} {% else %} {{ page.date | date_to_string }}{% endif %}</span>
+        <span property="item"><span property="name">{{ site.data.locales[page.locale].page.date }}: {{ page.date | date_to_string }} - {% if page.hijri %}{{ page.hijri }} {% else %} {{ page.date | date_to_string }}{% endif %}</span></span>
         <meta property="position" content="2">
       </li> 
       <li property="itemListElement" typeof="ListItem">
@@ -18,8 +18,8 @@ layout: default
         <meta property="position" content="3">
       </li>
       <li property="itemListElement" typeof="ListItem">
-        <span itemprop="name"
-            id='last-modified'></span>
+        <span property="item"><span itemprop="name"
+            id='last-modified'></span></span>
         <meta property="position" content="4">
       </li> 
    </ol>
