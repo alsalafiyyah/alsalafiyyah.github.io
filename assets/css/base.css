@@ -6,7 +6,7 @@ font-family: "Trocchi", serif;
   --system-ui: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   --body-bg: hsl(26.7,25.7%,93.1%);
   --color: hsl(345,5.7%,13.7%);
-  --color-red: hsl(356.1,94.3%,58.4%);
+  --color-red: #B04759;
   --success: hsl(170.2,32.3%,73.9%);
   --info: hsl(190.6,21.8%,69.4%);
   --warning: hsl(42.4,63%,71.4%);
@@ -19,15 +19,14 @@ font-family: "Trocchi", serif;
 input:focus {
   outline: none !important;
 }
-mark {
+mark, .mark {
   background:linear-gradient(180deg, transparent 50%, #c1d9f4 50%);
 }
-mark a {
+mark a, .mark a {
   background:linear-gradient(180deg, transparent 50%, #c1d9f4 50%);
   text-decoration: none !important;
   text-decoration-style: none !important;
 }
-  
 html, body {
  font-size: 18px;
  font-family: var(--system-ui);
