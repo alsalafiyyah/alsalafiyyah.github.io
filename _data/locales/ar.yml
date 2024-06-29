@@ -20,6 +20,12 @@ nav:
     url: /ar/category
     active: category
 
+footer:
+  - name: تغذية RSS
+    url: /sitemap
+  - name: إنستقرام
+    url: https://instagram.com/alsalafiyyah
+
 page:
   next: التالي
   prev: السابق
@@ -43,6 +49,7 @@ page:
   website_is_under_maintenance: الموقع تحت الصيانة!
   404: "الصفحة التي طلبتها غير موجودة"
   404_text: "يمكنك استخدام حقل البحث، أو الانتقال للصفحة الرئيسية."
+  noSupportaudio: لا يدعم متصفحك عنصر الصوت
 
 post:
   dated: "تاريخ النشر في الموقع :"
