@@ -117,6 +117,7 @@ input[type=search]:focus {
 {
      color: #000100;
      text-decoration: none;
+     font-weight: bold;
 }
 .tipue_search_content_title a:hover
 {
