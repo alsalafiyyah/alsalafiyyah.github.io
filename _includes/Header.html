@@ -1,8 +1,8 @@
 <header role="banner" itemprop="hasPart" itemscope itemtype="http://schema.org/WPHeader"><!-- header -->
 <div class="row flex">
  <div class="column">
-   <a itemprop="url" class"logo" href="{{ site.url }}">
-     <h1 itemprop="name">{{ site.title }}</h1>
+   <a itemprop="url" class"logo" href="{{ site.data.locales[page.locale].site.url }}">
+     <h1 itemprop="name">{{ site.data.locales[page.locale].site.title }}</h1>
    </a>
   </div>
   <div class="column">
@@ -20,7 +20,7 @@
 </div> 
 <div class="scrollmenu">
  <nav role="navigation" itemprop="hasPart" itemscope itemtype="http://schema.org/SiteNavigationElement">
-  {% for item in site.data.base.nav %}
+  {% for item in site.data.locales[page.locale].nav %}
    <a itemprop="url" href="{{ item.url }}"><span itemprop="name">{{ item.name }}</span></a>
   {% endfor %}
  </nav>
