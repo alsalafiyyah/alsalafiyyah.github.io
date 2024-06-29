@@ -15,6 +15,7 @@ font-family: "Trocchi", serif;
   --link: #c1d9f4;
   --white: #ffffff;
   --mark: #F99B7D;;
+  --red: #B04759;
 }
 
 /* general */
@@ -104,8 +105,8 @@ div.scrollmenu {
   background-color: none;
   overflow: auto;
   white-space: nowrap;
-  border-top: solid 3px #F9313E;
-  border-bottom: solid 3px #F9313E;
+  border-top: solid 3px var(--red);
+  border-bottom: solid 3px var(--red);
   margin-bottom: 15px;
 }
 
