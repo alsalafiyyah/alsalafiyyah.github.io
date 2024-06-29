@@ -2,6 +2,7 @@
 layout: page
 title: "Ali (may Allah be pleased with him) did not fight against the Jinn "
 publisher: "alsalafiyyah@icloud.com"
+output: html_document
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/%D8%B9%D9%84%D9%8A%20%D8%A8%D9%86%20%D8%A3%D8%A8%D9%8A%20%D8%B7%D8%A7%D9%84%D8%A8%20%D9%84%D9%85%20%D9%8A%D8%AD%D8%A7%D8%B1%D8%A8%20%D8%A7%D9%84%D8%AC%D9%86.mp3
 hijri: "Rabi' Al-Awwal 27, 1442 AH"
 lang: en
@@ -13,6 +14,10 @@ muftis:
     - name: Shaykh Abdul-Aziz ibn Baz
       url: /biography/binbaz/
 ---
+
+<audio controls>
+ <source src="https://files.zadapps.info/binbaz.org.sa/fatawa/%D8%B9%D9%84%D9%8A%20%D8%A8%D9%86%20%D8%A3%D8%A8%D9%8A%20%D8%B7%D8%A7%D9%84%D8%A8%20%D9%84%D9%85%20%D9%8A%D8%AD%D8%A7%D8%B1%D8%A8%20%D8%A7%D9%84%D8%AC%D9%86.mp3" type="audio/mpeg"/><p>Your browser does not support the audio element.</p>
+</audio>
 
 Question:
 
