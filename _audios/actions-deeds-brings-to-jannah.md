@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Actions and deeds that bring a person closer to Paradise and further them away from Hellfire
+title: Actions and deeds that bring a person closer to Paradise
 publisher: alsalafiyyah@icloud.com
 hijri: Rabi' Al-Thani 14, 1442
 date: 2020-11-29
