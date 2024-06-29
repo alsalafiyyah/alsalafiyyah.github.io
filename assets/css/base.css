@@ -7,6 +7,8 @@ font-family: "Trocchi", serif;
   --body-bg: hsl(26.7,25.7%,93.1%);
   --color: hsl(345,5.7%,13.7%);
   --color-red: #B04759;
+  --bg-footer: #E5DCD7;
+  --text-selection: #E5DCD7;
   --success: hsl(170.2,32.3%,73.9%);
   --info: hsl(190.6,21.8%,69.4%);
   --warning: hsl(42.4,63%,71.4%);
@@ -14,7 +16,7 @@ font-family: "Trocchi", serif;
   --grey: hsl(0,0%,66.3%);
   --link: #c1d9f4;
   --white: #ffffff;
-  --mark: #F99B7D;;
+  --mark: #BACDDB;;
   --red: #B04759;
 }
 
@@ -44,7 +46,7 @@ html, body {
 a {
  color: var(--color);
  text-decoration-style: wavy;
- text-decoration-color: var(--color-red);
+ text-decoration-color: var(--red);
 }
 .nowavy, nowavy a {
  color: var(--color);
@@ -78,16 +80,16 @@ header a, header h1 {
 }
 hr {
     height: 2px;
-    color: var(--color-red);
-    background: var(--color-red);
+    color: var(--red);
+    background: var(--red);
     font-size: 0;
     border: 0;
 }
 ::-moz-selection {
-  background: #E5DCD7;
+  background: var(--text-selection);
 }
 ::selection {
-  background: #E5DCD7;
+  background: var(--text-selection);
 }
 ::placeholder {
   color: var(--color);
@@ -112,7 +114,7 @@ div.scrollmenu {
 
 div.scrollmenu a {
   display: inline-block;
-  color: #252122;
+  color: var(--color);
   text-align: center;
   padding: 14px;
   text-decoration: none;
@@ -121,11 +123,11 @@ div.scrollmenu a {
 div.scrollmenu a:hover {
   background-color: none;
   text-decoration-style: wavy;
-  text-decoration-color: var(--color-red);
+  text-decoration-color: var(--red);
 }
 /* footer */
 .footer {
-   background-color: #E5DCD7;
+   background-color: var(--bg-footer);
    width: 100%;
    margin-top:auto; 
    font-family: "Trocchi", serif;
@@ -141,7 +143,7 @@ table, th, td {
 }
 th, td {
   padding: 10px;
-  border-bottom: 1px solid rgba(70, 62, 114, .5);
+  border-bottom: 1px solid var(--color) !important;
 }
 
 /* breadcrumb */
@@ -153,7 +155,7 @@ ul.breadcrumb {
 ul.breadcrumb li {display: inline;}
 ul.breadcrumb li+li:before {
   padding: 8px;
-  color: var(--color-red);
+  color: var(--red);
   content: "/\00a0";
 }
 ul.breadcrumb li a {
@@ -167,12 +169,12 @@ ol.breadcrumb {
 ol.breadcrumb li {display: inline;}
 ol.breadcrumb li+li:before {
   padding: 2px;
-  color: var(--color-red);
+  color: var(--red);
   content: "\2022";
 }
 ol.breadcrumb li a {
  text-decoration: none;
- background:linear-gradient(180deg, transparent 50%, #c1d9f4 50%);
+ background:linear-gradient(180deg, transparent 50%, var(--red) 50%);
 }
 .breadcrumb-container {
    padding: 10px;
@@ -190,12 +192,12 @@ ol.breadcrumb li a {
   padding: 8px 16px;
   text-decoration: none;
   transition: background-color .3s;
-  border: 1px solid var(--color-red);
+  border: 1px solid var(--red);
 }
 .pagination a.active {
-  background-color: var(--color-red);
+  background-color: var(--red);
   color: white;
-  border: 1px solid var(--color-red);
+  border: 1px solid var(--red);
 }
 .pagination a:hover:not(.active) {background-color: #ddd;}  
 
@@ -214,7 +216,7 @@ ul.no-bullets {
   margin-bottom: 15px;
 }
 li::marker {
-  color: var(--color-red);
+  color: var(--red);
 }
 ul.circle {list-style-type: circle;}
 ul.square {list-style-type: square;}
@@ -250,14 +252,14 @@ ol.lower-alpha {list-style-type: lower-alpha;}
 }
 .mysearch {
   box-sizing: border-box;
-  border: 2px solid var(--color-red);
+  border: 2px solid var(--red);
   border-radius: 4px;
   font-size: 16px;
   background-color: transparent;
   background-image: url('search.png');
   background-position: 10px 10px; 
   background-repeat: no-repeat;
-  padding: 12px 10px 12px 38px;
+  padding: 12px 10px 12px 40px;
 }
 /* card */
 .card {
