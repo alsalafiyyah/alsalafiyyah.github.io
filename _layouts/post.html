@@ -3,6 +3,17 @@ layout: default
 ---
 <article itemscope itemtype="https://schema.org/BlogPosting" itemid="{{ post.url }}">
     <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+  {% if page.active == "audios" %}
+      <li itemprop="itemListElement" itemscope
+          itemtype="https://schema.org/ListItem">
+        <a itemprop="item" 
+            href="/audios"
+            itemid="/audios"
+            itemtype="https://schema.org/WebPage">
+            <span itemprop="name">Audios</span></a>
+        <meta itemprop="position" content="1" />
+      </li>
+  {% else %}
       <li itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
         <a itemprop="item" 
@@ -11,7 +22,8 @@ layout: default
             itemtype="https://schema.org/WebPage">
             <span itemprop="name">Fatwas</span></a>
         <meta itemprop="position" content="1" />
-      </li>
+      </li>        
+  {% endif %}
       <li itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
           <span itemprop="name">
