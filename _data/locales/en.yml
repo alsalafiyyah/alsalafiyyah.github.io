@@ -60,6 +60,7 @@ page:
   fatwa_num: Fatwa No.
   source: Source
   website_is_under_maintenance: Website is under maintenance
+  notSupportaudio: Your browser does not support the audio element.
 
 
 # Sidenav
