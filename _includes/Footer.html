@@ -7,7 +7,7 @@
    <div class="column">   
 <ul class="square" vocab="https://schema.org/" typeof="ItemList">
 {% for item in site.data.base.footer %}
- <li property="itemListElement" typeof="ListItem"> 
+ <li property="itemListElement" typeof="ListItem" style="margin-bottom: 8px;"> 
   <a href="{{ item.url }}" property="item" typeof="WebPage">
   <span property="name">{{ item.name }}</span>
   </a>
