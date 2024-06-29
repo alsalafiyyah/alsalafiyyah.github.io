@@ -1,25 +1,24 @@
 ---
-layout: default
-title: صوتيات
+layout: Page
+title: Audios
 active: audios
-uid: audios
-permalink: /ar/audios/
-locale: ar
+permalink: /audios/
+locale: en
+excerpt: Collection of audio fatwas (legal opinions) issued by the scholars of ahlus-sunnah.
 ---
-<table class="uk-table">	
- <tbody>     
+<table>     
   {% for c in site.audios %}	
   <tr>
    <td>
-    <h3>
-     <a class="uk-link-reset uk-margin-remove-bottom" title="{{ c.title }}" href="{{ c.url }}">
+    <h3 class="content-title">
+     <a title="{{ c.title }}" href="{{ c.url }}">
      {{ c.title }}
      </a>
     </h3>
-    <p class="uk-text-meta uk-margin-remove-top">{{ c.hijri }}</p>
     </a>
+    <date class="content-date">{{ c.hijri }}</date>
+    <p class="content-excerpt">{{ c.excerpt }}</p>
    </td>    
   </tr>      
   {% endfor %}	
- </tbody>	
-</table> 
+</table>

@@ -1,0 +1,21 @@
+---
+layout: Page
+title: List of Some Scholars of the Sunnah
+active: salafi-scholars
+uid: salafi-scholars
+locale: en
+excerpt: List of Scholars of the Sunnah
+permalink: /salafi-scholars/
+---
+<table class="striped table">
+ <tbody>     
+  {% for c in site.data.websites %}	
+  <tr>
+   <td>
+    <b>{{ c.title }}</b>
+   </td>    
+   <td><a target="_blank" href="{{ c.url }}">Visit</a></td>
+  </tr>      
+  {% endfor %}	
+ </tbody>	
+</table> 

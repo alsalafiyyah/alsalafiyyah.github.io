@@ -1,0 +1,21 @@
+---
+layout: Page
+title: Fawaid
+active: fawaid
+locale: en
+uid: fawaid
+excerpt: Fawaid
+permalink: /fawaid/
+---
+<table class="table">	
+ <tbody>     
+  {% for c in site.fawaid %}	
+  <tr>
+   <td>
+    <h5><a href="{{ c.url }}">{{ c.title }}</a></h5>
+    <div>{{ post.content }}</div>
+   </td>    
+  </tr>      
+  {% endfor %}	
+ </tbody>	
+</table>

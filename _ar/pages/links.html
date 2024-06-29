@@ -1,0 +1,20 @@
+---
+layout: Page
+title: Quick Links
+active: links
+permalink: /links/
+locale: en
+excerpt: Quick links page.
+uid: links
+---
+<ul class="square">     
+  {% for item in site.data.base.links %}	
+   <li>
+    <a 
+      title="{{ item.name }}" 
+      href="{{ item.url }}">
+      {{ item.name }}
+    </a>  
+   </li>          
+  {% endfor %}	
+</ul>
