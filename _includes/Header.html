@@ -1,28 +1,28 @@
-itemscope=""<header role="banner" itemprop="hasPart" itemscope itemtype="http://schema.org/WPHeader"><!-- header -->
+<header role="banner" vocab="http://schema.org" itemtype="WPHeader"><!-- header -->
 <div class="row flex">
  <div class="column">
-   <a itemprop="url" class"logo" href="{{ site.url }}">
-     <h1 itemprop="name">{{ site.title }}</h1>
+   <a property="url" class"logo" href="{{ site.url }}">
+     <h1 property="name">{{ site.title }}</h1>
    </a>
   </div>
   <div class="column">
-   <div itemscope itemtype="https://schema.org/WebSite">
-   <meta itemprop="url" content="https://alsalafiyyah.github.io"/>
-   <form itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction" action="https://alsalafiyyah.github.io/search">
-   <meta itemprop="target" content="https://alsalafiyyah.github.io/search?q={q}"/>
-    <div itemprop="query-input" itemscope itemtype="http://schema.org/PropertyValueSpecification">
-     <meta itemprop="valueName" content="q"/>
-     <input class="mysearch responsive" name="q" id="tipue_search_input" itemprop="query" type="search" placeholder="Search..." pattern=".{3,}" title="At least 3 characters" required/>
+   <div vocab="http://schema.org" itemtype="WebSite">
+   <meta property="url" content="https://alsalafiyyah.github.io"/>
+   <form property="potentialAction" vocab="http://schema.org" itemtype="SearchAction" action="https://alsalafiyyah.github.io/search">
+   <meta property="target" content="https://alsalafiyyah.github.io/search?q={q}"/>
+    <div property="query-input" vocab="http://schema.org" itemtype="PropertyValueSpecification">
+     <meta property="valueName" content="q"/>
+     <input class="mysearch responsive" name="q" id="tipue_search_input" property="query" type="search" placeholder="Search..." pattern=".{3,}" title="At least 3 characters" required/>
     </div>
    </form>
   </div>
  </div>
 </div> 
 <div class="scrollmenu">
- <nav role="navigation" itemprop="hasPart" itemscope itemtype="http://schema.org/SiteNavigationElement">
+ <nav role="navigation" vocab="http://schema.org" itemtype="SiteNavigationElement">
   {% for item in site.data.base.nav %}
-   <a itemprop="url" href="{{ item.url }}"><span itemprop="name">{{ item.name }}</span></a>
+   <a property="url" href="{{ item.url }}"><span property="name">{{ item.name }}</span></a>
   {% endfor %}
  </nav>
 </div>
-</header><!-- /header --> 
+</header><!-- /header -->
