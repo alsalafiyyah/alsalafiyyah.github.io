@@ -5,18 +5,13 @@ layout: default
   {% include Breadcrumb.html %} 
    <ol class="breadcrumb">
       <li>
-        <span><span>{{ site.data.locales[page.locale].page.date }}: {{ page.date | date_to_string }} - {% if page.hijri %}{{ page.hijri }} {% else %} {{ page.date | date_to_string }}{% endif %}</span></span>
+        <span>{{ site.data.locales[page.locale].page.date }}: {{ page.date | date_to_string }} - {% if page.hijri %}{{ page.hijri }} {% else %} {{ page.date | date_to_string }}{% endif %}</span>
       </li> 
       <li>
-        <span>
-           <span>{% include read_time.html %}</span>
-        </span>
+           {% include read_time.html %}
       </li>
       <li>
-        <span> 
-           <span><span id='last-modified'></span>
-         </span>
-        </span>>
+        <span id='last-modified'>
       </li> 
    </ol>
 <h2 property="name">
