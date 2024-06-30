@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Exposing the mistakes of some writers"
-hijri: Safar 03, 1442 AH
+hijri: Safar 03, 1442
 lang: en
-active: radd
+locale: en
+date: 2020-09-20
 source: "Majmu' Fatawa vol 3"
 excerpt: "I deemed it necessary to point out, in this comment, the serious mistakes in the published article to advise the writer and the whole Ummah and defend our fellow brothers against accusations of which, we are quite sure, they are innocent."
 muftis:

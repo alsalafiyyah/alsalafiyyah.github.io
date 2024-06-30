@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: post
 title: "A reply to the claims of BBC"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa Shaykh Ibn Baz 2/380"
-hijri: Dhul-Qa'dah 29, 1441 AH
+hijri: Dhul-Qa'dah 29, 1441
 lang: en
-active: refutals
+locale: en
+date: 2020-07-20
 note: false
 excerpt: "The statement which the BBC reported from me on its morning news in London that I said that celebrating the Mawlid is an act of Kufr is a mere lie and groundless."
 muftis:

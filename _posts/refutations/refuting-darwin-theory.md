@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: post
 title: "Refuting Darwin's theory that man evolved from an ape-like creature"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 28/275"
-hijri: Dhul-Hijjah 3, 1441 AH
+hijri: Dhul-Hijjah 3, 1441
 lang: en
-active: radd
+locale: en
+date: 2020-07-24
 note: false
 excerpt: "Allah created a life for the sons of Adam and granted them minds and the ability to speak. This abominable theory is false according to Ijma' (consensus of scholars)."
 muftis:

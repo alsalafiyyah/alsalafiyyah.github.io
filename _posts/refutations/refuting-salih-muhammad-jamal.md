@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: post
 title: "Refuting Salih Muhammad Jamal for his call of the glorification of Islamic monuments"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa Shaykh ibn Baz 1/401"
-hijri: Muharram 18, 1442 AH
+hijri: Muharram 18, 1442
 lang: en
-active: refutals
+locale: en
+date: 2020-09-06
 note: false
 excerpt: "Anything that was not prescribed in the era of the Prophet (peace be upon him) and his Sahabah (may Allah be pleased with them) cannot be made permissible later. If this door is opened, Islam will be misrepresented and innovated ideas will enter it."
 muftis:

@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: post
 title: "Comments on some books of Shaykh Abdul-Rahman ibn Abdul-Khaliq"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat p. 8/240"
-hijri: Muharram 16, 1442 AH
+hijri: Muharram 16, 1442
 lang: en
-active: radd
+locale: en
+date: 2020/09/04
 note: false
 excerpt: "Such a saying from you is false for scholars of Saudi Arabia know about all contemporary problems and they wrote many books on them. All praise be to Allah Alone, I am one of scholars who dealt with contemporary problems and I wrote uncountable writings on them."
 muftis:

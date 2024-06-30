@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: post
 title: "There is no brotherhood between Muslims and Kafirs and the only true religion is Islam"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa Shaykh ibn Baz 2/173"
-hijri: Muharram 20, 1442 AH
+hijri: Muharram 20, 1442
 lang: en
-active: refutals
+locale: en
+date: 2020-09-08
 note: false
 excerpt: "As for non-Muslims, they should be resented and opposed for their disbelief in Allah, the Glorified. It is prohibited to support or take care of them until they believe in Allah Alone and abandon their disbelief and deviation."
 muftis:

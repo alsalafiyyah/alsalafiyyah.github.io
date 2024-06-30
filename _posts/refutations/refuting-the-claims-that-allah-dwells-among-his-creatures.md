@@ -1,13 +1,14 @@
 ---
-layout: page
+layout: post
 published: false
 publisher: alsalafiyyah@icloud.com
 title: "Refuting those who say that Allah dwells among His creatures"
 hijri: Muharram 21, 1442 AH
 source: "Fatawa Shaykh Ibn Baz 1"
 lang: en
+locale: en
 note: false
-active: radd
+date: 2020-09-09
 excerpt: "Generally, the corrupt belief adopted by the denying Jahmiyyah and their followers from among the Mubtadi's (those who introduce innovations in religion) is one of the most wicked and harmful beliefs."
 muftis:
   shaykh: 

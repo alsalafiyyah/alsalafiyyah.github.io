@@ -1,12 +1,13 @@
 ---
-layout: page
+layout: post
 title: "Jama'at-ul-Ahbash (the Habashis)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 19606"
-hijri: Muharram 16, 1442 AH
+hijri: Muharram 16, 1442
 lang: en
+locale: en
 note: false
-active: refutals
+date: 2020-09-04
 excerpt: "One of the most important characteristics by which those first generations were distinguished and by which they achieved a higher level of righteousness than other people, was the fact that they referred all their affairs to the Qur’an and the Sunnah."
 muftis:
   chairman: 

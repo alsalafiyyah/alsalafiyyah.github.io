@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: post
 publisher: alsalafiyyah@icloud.com
 title: "The Shari'ah ruling on Ghulam Ahmad Pervez"
-hijri: Safar 03, 1442 AH
+hijri: Safar 03, 1442
 lang: en
-active: refutals
+locale: en
+date: 2020-09-20
 note: false
 source: "Majmu' Fatawa 3/268"
 excerpt: "This atheist, Ghulam Ahmad Pervez, has never believed in what Allah sent down to Muhammad (peace be upon him) and to the preceding messengers. Rather, he wholeheartedly denied it."

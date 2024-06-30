@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: post
 title: "A commentary and explanation of an article by Dr. Muhiy Al-Din Al-Safy entitled 'In order to be the most powerful Ummah'"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat p. 2/98"
-hijri: Muharram 17, 1442 AH
+hijri: Muharram 17, 1442
+date: 2020-09-05
 lang: en
-active: radd
+locale: en
 note: false
 excerpt: "The Salaf and those who have followed in their footsteps attributed to Allah the Attributes of Perfection, which He has attributed to Himself or which His Messenger (peace be upon him) has attributed to Him."
 muftis:

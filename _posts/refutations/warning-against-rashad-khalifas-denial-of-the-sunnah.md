@@ -1,12 +1,13 @@
 ---
-layout: page
+layout: post
 title: "Warning against Rashad Khalifa's denial of the Sunnah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa Shaykh Ibn Baz 2/400"
 lang: en
+locale: en
 note: false
-active: refutals
-hijri: Dhul-Qa'dah 27, 1441 AH
+date: 2020-07-18
+hijri: Dhul-Qa'dah 27, 1441
 excerpt: "Whatever was said by Rashad Khalifah of denying the Sunnah and that there is no need for it is disbelief and apostasy from Islam, because denying the Sunnah implies the denial of the Qur'an and whoever does that is a kafir (disbeliever) according to the Ijma' (consensus) of Muslims"
 muftis:
   shaykh: 
