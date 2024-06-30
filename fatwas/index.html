@@ -7,15 +7,15 @@ excerpt: Compilation of fatwas (legal opinions) issued by the scholars of ahlus-
 ---
 <ul 
  class="no-bullets"
- itemscope itemtype="https://schema.org/ItemList">
+ typeof="ItemList" vocab="https://schema.org/ItemList">
  {% for post in paginator.posts %}
    <li itemprop="itemListElement" typeof="ListItem">
     <a 
-     itemprop="url" 
+     property="url" 
      href="{{ post.url }}"
      class="fatwas-title">          
       <h3 class="content-title">
-       <span itemscope itemprop="name">
+       <span property="name">
        {{ post.title }}
       </span>
       </h3>
@@ -24,8 +24,8 @@ excerpt: Compilation of fatwas (legal opinions) issued by the scholars of ahlus-
      <meta itemprop="datePublished" content="{{ post.date | date: '%b %d, %Y' }}">
      {{ post.hijri }} // {{ post.date | date: "%b %d, %Y" }}
     </date>
-     <p class="content-excerpt" itemscope itemtype="https://schema.org/ItemList">
-       <span itemscope itemprop="description">{{ post.excerpt | escape | truncate: 155 }}</span>
+     <p class="content-excerpt" vocab="https://schema.org" itemtype="ItemList">
+       <span property="description">{{ post.excerpt | escape | truncate: 155 }}</span>
      </p>
     <meta itemprop="position" content="{{ forloop.index }}" />
    </li>

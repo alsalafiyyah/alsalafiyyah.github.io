@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<article itemscope itemtype="https://schema.org/BlogPosting" itemid="{{ post.url }}">
+<article vocab="https://schema.org" property="BlogPosting" itemid="{{ post.url }}">
    <ol class="breadcrumb" vocab="https://schema.org/" typeof="BreadcrumbList">
       <li property="itemListElement" typeof="ListItem">
         <a property="item" typeof="WebPage"
@@ -27,10 +27,10 @@ layout: default
         <meta property="position" content="4">
       </li> 
    </ol>
-<h2 itemprop="name">
+<h2 property="name">
  {{ page.title }}
 </h2>
-<div itemprop="articleBody">
+<div property="articleBody">
  {% if page.mp3 %}
   <audio controls>
    <source src="{{ page.mp3 }}" type="audio/mpeg"/>
