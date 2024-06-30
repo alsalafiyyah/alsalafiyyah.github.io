@@ -2,29 +2,21 @@
 layout: default
 ---
 <article vocab="https://schema.org" property="BlogPosting" itemid="{{ post.url }}">
-   <ol class="breadcrumb" vocab="https://schema.org/" typeof="BreadcrumbList">
-      <li property="itemListElement" typeof="ListItem">
-        <a property="item" typeof="WebPage"
-            href="{% if page.active == "audios" %}/audios{% elsif page.active == "muqolat" %}/muqolat{% else %}/fatwas{% endif %}">
-          <span property="name">{% if page.active == "audios" %}Audios{% elsif page.active == "muqolat" %}Muqolat{% else %}Fatwas{% endif %}</span></a>
-        <meta property="position" content="1">
-      </li>
-      <li property="itemListElement" typeof="ListItem">
-        <span property="item"><span property="name">{{ site.data.locales[page.locale].page.date }}: {{ page.date | date_to_string }} - {% if page.hijri %}{{ page.hijri }} {% else %} {{ page.date | date_to_string }}{% endif %}</span></span>
-        <meta property="position" content="2">
+  {% include Breadcrumb.html %} 
+   <ol class="breadcrumb">
+      <li>
+        <span><span>{{ site.data.locales[page.locale].page.date }}: {{ page.date | date_to_string }} - {% if page.hijri %}{{ page.hijri }} {% else %} {{ page.date | date_to_string }}{% endif %}</span></span>
       </li> 
-      <li property="itemListElement" typeof="ListItem">
-        <span property="item">
-           <span property="name">{% include read_time.html %}</span>
+      <li>
+        <span>
+           <span>{% include read_time.html %}</span>
         </span>
-        <meta property="position" content="3">
       </li>
-      <li property="itemListElement" typeof="ListItem">
-        <span property="item"> 
-           <span itemprop="name"><span id='last-modified'></span>
+      <li>
+        <span> 
+           <span><span id='last-modified'></span>
          </span>
-        </span>
-        <meta property="position" content="4">
+        </span>>
       </li> 
    </ol>
 <h2 property="name">
