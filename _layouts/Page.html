@@ -1,19 +1,6 @@
 ---
 layout: default
 ---
-   <ol class="breadcrumb" vocab="https://schema.org/" typeof="BreadcrumbList">
-      <li property="itemListElement" typeof="ListItem">
-        <a property="item" typeof="WebPage"
-            href="{{ site.url }}">
-          <span property="name">Home</span></a>
-        <meta property="position" content="1">
-      </li>
-      <li property="itemListElement" typeof="ListItem">
-        <span property="item" typeof="WebPage"><span property="name">{{ page.title }}</span></span>
-        <meta property="position" content="2">
-      </li>
-   </ol>
-   <h2 property="name">
-     {{ page.title }}
-   </h2>
-    {{ content }}
+{% include Breadcrumb.html %}
+<h2 property="name">{{ page.title }}</h2>
+{{ content }}
