@@ -1,16 +1,13 @@
-itemscope=""  <div class="breadcrumb-container">
     <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
       <li itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
-        <a itemprop="item" href="{{ site.url }}">
-        <span itemprop="name">{{ site.data.base.page.home }}</span></a>
+        <a itemprop="item" href="{% if page.active == "audios" %}/audios{% elsif page.active == "muqolat" %}/muqolat{% else %}/fatwas{% endif %}">
+            <span itemprop="name">{% if page.active == "audios" %}Audios{% elsif page.active == "muqolat" %}Muqolat{% else %}Fatwas{% endif %}</span></a>
         <meta itemprop="position" content="1" />
       </li>
       <li itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
-        <a itemprop="item" href="{{ page.url }}">
-        <span itemprop="name">{{ page.title }}</span></a>
+        <span itemprop="name">{{ page.title | truncate: 20 }}</span>
         <meta itemprop="position" content="2" />
       </li>
-   </ol>  
- </div>
+    </ol>
