@@ -2,12 +2,12 @@
 layout: compress
 ---
 <!DOCTYPE html>
-<html lang="{{ page.locale }}" itemscope itemtype="http://schema.org/WebPage">
+<html lang="{{ page.locale }}" vocab="https://schema.org/" typeof="WebPage">
 <head>
 {% include metadata.html %}
 </head>
 <body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}">
-<div itemprop="isPartOf" itemscope itemtype="http://schema.org/WebSite"><!-- .container -->
+<div vocab="https://schema.org/" typeof="WebSite"><!-- .container -->
 {% include Header.html %}
 <main role="main"><!-- main -->
  <div class="container"><!-- .container -->
