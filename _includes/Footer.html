@@ -1,17 +1,17 @@
-itemscope=""<footer class="footer" role="contentinfo" itemprop="hasPart" itemscope itemtype="http://schema.org/WPFooter">
+<footer class="footer" role="contentinfo" vocab="http://schema.org" itemtype="WPFooter">
  <div class="footer-container">
   <div class="row flex">
    <div class="column">   
-    <p class="copyright">&copy; <span itemprop="copyrightYear">{{ 'now' | date: "%Y" }}</span> <span itemprop="copyrightHolder" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ site.title }}</span></span></p>
+    <p class="copyright">&copy; <span property="copyrightYear">{{ 'now' | date: "%Y" }}</span> <span property="copyrightHolder" vocab="http://schema.org" itemtype="Person"><span property="name">{{ site.title }}</span></span></p>
    </div>
    <div class="column">   
-<ul class="square" vocab="https://schema.org/" typeof="ItemList">
+<ul class="square" typeof="ItemList">
 {% for item in site.data.base.footer %}
- <li property="itemListElement" typeof="ListItem" style="margin-bottom: 8px;"> 
+ <li property="itemListElement" typeof="ListItem"> 
   <a href="{{ item.url }}" property="item" typeof="WebPage">
   <span property="name">{{ item.name }}</span>
   </a>
-  <meta itemprop="position" content="{{ forloop.index }}" />
+  <meta property="position" content="{{ forloop.index }}" />
 </li>
  {% endfor %}
 </ul>
