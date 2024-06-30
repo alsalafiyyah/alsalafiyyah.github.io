@@ -9,16 +9,16 @@ excerpt: This site is dedicated to presenting the pure teachings of Islam and Su
    <h2>Recent 
     <a class="nowavy" href="{{ '/fatwas/' | prepend:site.baseurl }}">
       <mark>
-       {{ site.data.locales[page.locale].page.fatwas }}
+       {{ site.data.base.page.fatwas }}
       </mark>
     </a>
    </h2>
-<ul class="square" vocab="https://schema.org/" typeof="ItemList">
+<ul class="square">
 {% for post in site.posts limit:5 %}
 {% if post.url %}
- <li property="itemListElement" typeof="ListItem" style="margin-bottom: 8px;"> 
+ <li > 
   <a href="{{ post.url }}" property="item" typeof="WebPage">
-  <span property="name">{{ post.title | truncate: 60 }}</span>
+  <span itemprop="name">{{ post.title | truncate: 60 }}</span>
   </a>
   <meta itemprop="position" content="{{ forloop.index }}" />
  </li>
@@ -31,18 +31,18 @@ excerpt: This site is dedicated to presenting the pure teachings of Islam and Su
    <h2> Recent 
     <a property="url" class="nowavy" href="{{ '/audios/' | prepend:site.baseurl }}">
      <mark>
-     {{ site.data.locales[page.locale].page.audios }}
+     {{ site.data.base.page.audios }}
      </mark>
     </a>
    </h2>
-<ul class="bullets faq" vocab="https://schema.org" itemtype="FAQPage">
+<ul class="bullets faq" itemscope itemtype="https://schema.org/FAQPage">
 {% for item in site.audios limit:4 %}
-<li property="mainEntity" vocab="https://schema.org" itemtype="Question">
+<li itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
     <a class="nowavy" href="{{ item.url }}"><h3 itemprop="name">
      <mark>{{ item.title | truncate: 60 }}</mark>
     </h3></a>
-    <div property="acceptedAnswer" vocab="https://schema.org" itemtype="Answer">
-      <div property="text">
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+      <div itemprop="text">
         {{ item.excerpt | truncate: 160 }}
       </div>
     </div>
