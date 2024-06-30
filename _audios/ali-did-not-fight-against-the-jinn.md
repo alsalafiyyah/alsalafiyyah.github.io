@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ali did not fight against the Jinn
+title: Is it true that Imam Ali fought the Jinn?
 publisher: alsalafiyyah@icloud.com
 output: html_document
 hijri: Rabi'ul-Awwal 27, 1442
