@@ -35,10 +35,9 @@ excerpt: This site is dedicated to presenting the pure teachings of Islam and Su
      </mark>
     </a>
    </h2>
-<ul class="bullets">
+<ul class="bullets" itemscope itemtype="https://schema.org/FAQPage">
 {% for item in site.audios limit:3 %}
-<li itemscope itemtype="https://schema.org/FAQPage">
-  <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<li itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
     <a class="nowavy" href="{{ item.url }}"><h3 itemprop="name">
      <mark>{{ item.title | truncate: 60 }}</mark>
     </h3></a>
@@ -47,7 +46,6 @@ excerpt: This site is dedicated to presenting the pure teachings of Islam and Su
         {{ item.excerpt | truncate: 160 }}
       </div>
     </div>
-  </div>
 </li>
 {% endfor %}
 </ul>
