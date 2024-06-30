@@ -213,7 +213,10 @@ ul.no-bullets {
   padding: 0;
   margin: 0;
   margin-top: 15px;
-  margin-bottom: 15px;
+  margin-bottom: 20px;
+}
+li {
+  margin-bottom: 8px;
 }
 ul.circle {list-style-type: circle;}
 ul.square {list-style-type: square;}
