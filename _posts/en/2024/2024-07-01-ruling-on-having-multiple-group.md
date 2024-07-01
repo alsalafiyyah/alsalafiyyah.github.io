@@ -15,7 +15,7 @@ shaykhs:
 ---
 
 ### Question: 
-What is the ruling on having multiple Islamic groups? If I am convinced with the ideas of a certain group which is Al- Jama'ah Al-Islamiyyah, is it permissible to follow them despite my parents' opposition? They have sworn never to be pleased with me if I insist on my stance. What can I do? 
+What is the ruling on having multiple Islamic groups? If I am convinced with the ideas of a certain group which is Al-Jama'ah Al-Islamiyyah, is it permissible to follow them despite my parents' opposition? They have sworn never to be pleased with me if I insist on my stance. What can I do? 
 
 ### Answer: 
-You have to follow the path of Ahlus-Sunnah wal-Jama'ah (those adhering to the Sunnah and the Muslim main body) to which the Prophet ﷺ guided us when sects first started to appear. He ﷺ said, "**my nation will be split up into seventy-three sects, all of which will be in Hellfire except one." It was said, "Who are they, O Messenger of Allah?" he ﷺ said, "Those who adhere to what I and rny Companions adhere to**," thus, you have to stick to the main body of Muslims following this path.
+You have to follow the path of Ahlus-Sunnah wal-Jama'ah (those adhering to the Sunnah and the Muslim main body) to which the Prophet ﷺ guided us when sects first started to appear. He ﷺ said, "**My nation will be split up into seventy-three sects, all of which will be in Hellfire except one." It was said, "Who are they, O Messenger of Allah?" he ﷺ said, "Those who adhere to what I and my Companions adhere to**," thus, you have to stick to the main body of Muslims following this path.
