@@ -19,6 +19,7 @@ font-family: "Trocchi", serif;
   --mark: #BACDDB;;
   --red: #B04759;
   --shadow: 5px;
+  --black: #000100;
 }
 /* custom */
 html, body {
@@ -267,6 +268,7 @@ ol.lower-alpha {list-style-type: lower-alpha;}
   transition: 0.3s;
   margin: 10px;
   background-color: var(--bg-card);
+  border: 1px solid var(--black);
   box-shadow: var(--shadow) var(--shadow) var(--red);
 }
 .card:hover {
