@@ -83,7 +83,7 @@ defaults:
       type: posts
     values:
       layout: post
-      locale: ar
+      locale: en
       permalink: /en/:title
   - scope:
       path: "ar/_posts/**"
