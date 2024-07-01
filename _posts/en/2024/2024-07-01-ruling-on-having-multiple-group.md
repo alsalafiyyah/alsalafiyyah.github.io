@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: Ruling on having multiple Islamic groups?
+title: Ruling on having multiple Islamic groups
 date: 2024-07-01
 hijri: Dhul-Hijjah 25, 1445
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 16063 , Question 2
