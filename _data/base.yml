@@ -17,6 +17,8 @@ footer:
     url: /sitemap
   - name: Instagram
     url: https://instagram.com/alsalafiyyah
+  - name: Al-Fatawa.Com
+    url: https://al-fatawa.com/
 
 page: 
   NoFatwas: "There are no fatwas for this topic."
