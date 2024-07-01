@@ -1,0 +1,20 @@
+---
+layout: Page
+title: Categories
+active: category
+uid: category
+excerpt: Site categories
+permalink: /categories/
+---
+<table class="uk-table uk-table-striped" id="table">	
+ <tbody>     
+  {% for category in site.categories %}	
+  <tr>
+   <td>
+    {{ category | first | strip_html }}
+   </td>    
+   <td>{{ category[1].size }}</td>
+  </tr>      
+  {% endfor %}	
+ </tbody>	
+</table>    
