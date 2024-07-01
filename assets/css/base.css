@@ -8,7 +8,7 @@ font-family: "Trocchi", serif;
   --color: hsl(345,5.7%,13.7%);
   --bg-card: #E5DCD7;
   --bg-footer: #E5DCD7;
-  --text-selection: #E5DCD7;
+  --text-selection: #BACDDB;
   --success: hsl(170.2,32.3%,73.9%);
   --info: hsl(190.6,21.8%,69.4%);
   --warning: hsl(42.4,63%,71.4%);
@@ -262,6 +262,7 @@ ol.lower-alpha {list-style-type: lower-alpha;}
   background-position: 10px 10px; 
   background-repeat: no-repeat;
   padding: 12px 10px 12px 40px;
+  box-shadow: var(--shadow) var(--shadow) var(--red);
 }
 /* card */
 .card {
