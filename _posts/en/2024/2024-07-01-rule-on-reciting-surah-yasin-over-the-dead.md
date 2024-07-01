@@ -5,7 +5,7 @@ title: Ruling on reciting Surah Ya-Sin over the dead
 date: 2024-07-01
 hijri: Dhul-Hijjah 25, 1445
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 20794, Question 1
-category: [fatwas, hadiths, funerals, bidahs]
+category: [fatwas, hadiths, funerals, bidah, bidahs]
 note: true
 locale: en
 lang: en
