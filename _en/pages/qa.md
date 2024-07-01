@@ -2,7 +2,7 @@
 layout: Page
 title: Qa
 active: qa
-permalink: /qa/
+permalink: /en/qa/
 locale: en
 excerpt: Salafiyyah is a term derived from the word Salaf which refers to the righteous predecessors of the first three generations of Muslims.
 ---
