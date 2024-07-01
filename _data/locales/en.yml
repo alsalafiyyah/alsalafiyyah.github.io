@@ -5,6 +5,7 @@ site:
   url: /
   ar: "عربي"
   en: "en"
+  url_search: /en/search
 
 nav:
   - name: Fatwas
