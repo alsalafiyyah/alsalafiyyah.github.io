@@ -12,6 +12,9 @@
   <meta property="og:site_name" content="{{ site.title }}" />
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% endif %}" />
   <meta property="og:image" content="{{ '/assets/images/fb.jpg' | absolute_url }}" />
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta name="twitter:url" content="{% if page.url %}{{ site.url }}{{ page.url }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | escape | strip_html }}{% else %}{{ site.description }}{% endif %}">
   <meta name="p:domain_verify" content="{{ site.webmaster_verifications.domain_verify }}"/>
   <meta name="google-site-verification" content="{{ site.webmaster_verifications.google }}" />
   <meta name="yandex-verification" content="{{ site.webmaster_verifications.yandex }}" />
