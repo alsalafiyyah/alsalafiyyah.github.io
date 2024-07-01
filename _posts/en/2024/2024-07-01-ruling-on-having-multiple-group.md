@@ -10,8 +10,6 @@ note: false
 locale: en
 lang: en
 excerpt: You have to follow the path of Ahlus-Sunnah wal-Jama'ah to which the Prophet ﷺ guided us when sects first started to appear.
-shaykhs: 
- - Shaykh Ibn Baz
 ---
 
 ### Question: 
