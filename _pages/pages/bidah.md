@@ -9,4 +9,6 @@ permalink: /bidah/
 - Third, as for the meaning of Bid`ah (innovation in religion), linguistically it means creating something new, with no previous example to follow; while in Shari'ah it means innovating a form of verbal, practical, or creedal ibadah which is not legislated by Allah (Praised and Exalted be He). Every Bid'ah leads to misguidance, according to what the Prophet ﷺ stated. 
 
 ---
-[Fatwas on Bid'ahs](https://alsalafiyyah.github.io/category/bidah/)
+
+- [Ruling on describing worldly inventions as Bid'ah](https://alsalafiyyah.github.io/rule-on-describing-wordly-investions-as-bidah)
+- [Fatwas on Bid'ahs](https://alsalafiyyah.github.io/category/bidah/)
