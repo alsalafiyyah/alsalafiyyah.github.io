@@ -5,6 +5,7 @@ site:
   url: /ar/
   ar: "عربي"
   en: "en"
+  url_search: /ar/search
 
 nav:
   - name: الفتاوى
