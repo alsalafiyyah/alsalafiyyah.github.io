@@ -1,0 +1,27 @@
+---
+layout: Page
+title: Books
+active: books
+locale: ar
+permalink: /ar/books/
+---
+{% for c in site.data.books %}
+   <div class="card">
+     <img 
+      class="responsive" 
+      src="../assets/images/books/{{ c.img }}" 
+      alt="{{ c.title }}"/>
+   <div class="card-body">
+    <h3>{{ c.title }} {{ c.vol }}</h3>
+     <ul class="no-bullets">
+      <li>Title: {{ c.title }}</li>
+      <li>Author: {{ c.author }}</li>
+      <li>Pages: {{ c.pages }}</li>
+      <li>Language: {{ c.lang }}</li>
+      <li>Format: {{ c.format }}</li>
+      <li><p>{{ c.desc }}</p></li>     
+      <li><a href="{{ c.url }}">Download ({{ c.size }})</a></li>
+     </ul>                    
+   </div>
+   </div>
+{% endfor %}

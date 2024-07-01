@@ -1,0 +1,31 @@
+---
+layout: Page
+title: The Sects
+active: sects
+locale: ar
+uid: sects
+excerpt: It is not Islam that is divided into sects that differ from one another and oppose one another; rather it is the people who differ according to how far away they are from the religion and the extent to which they have abandoned the Sunnah of their Prophet and followed their desires.
+permalink: /ar/the-sects/
+---
+
+Some of schools of thought and deviant sects or groups. 
+
+{% for sect in site.data.sects %}
+  <h3>{{ sect.title }}</h3>
+  {% for subcategory in sect.subcategories %}
+    <h6>{{ subcategory.title }}</h6>
+    <ol>
+    {% for item in subcategory.items %}
+      <li style="padding-left: 12px;">
+       {{ item.title }}<br/>
+       <span style="font-size: 12.8px;">{{ item.desc }}</span>
+      </li>
+    {% endfor %}
+    </ol>
+  {% endfor %}
+{% endfor %}
+<br/>
+<hr/>
+
+<p>Islam enjoined all people to unite on that and cast away anything that may lead to conflict and division, and it emphatically forbade splitting and differing from one another. Allah Ta'ala says: <b>“and be not of Al‑Mushrikun (the polytheists, idolaters, disbelievers in the Oneness of Allah). Of those who split up their religion (i.e. who left the true Islamic Monotheism), and became sects, [i.e. they invented new things in the religion (Bid‘ah), and followed their vain desires], each sect rejoicing in that which is with it.” [Al-Rum :31-32, with tafsir Al-Qurtubi 14/32]</b>, and it was narrated from Ibn Mas‘ud that the Prophet ﷺ said: <b>“Do not differ, for verily those who came before you differed and thus they were doomed.”</b> [Narrated by Al-Bukhaari (3476)]. It is not Islam that is divided into sects that differ from one another and oppose one another; rather it is the people who differ according to how far away they are from the religion and the extent to which they have abandoned the Sunnah of their Prophet and followed their desires. It was narrated Ibn Majah (3992) and Ibn Abi ‘Asim in Al-Sunnah (53) that ‘Awf ibn Malik Al-Ashja‘i (may Allah be pleased with him) said: The Messenger of Allah ﷺ said: <b>“The Jews split into seventy-one sects, one of which will be in Paradise and seventy in Hell. The Christians split into seventy-two sects, seventy-one of which will be in Hell and one in Paradise. By the One in Whose hand is my soul, my ummah will split into seventy-three sects, one of which will be in Paradise and seventy-two in Hell.” It was said: O Messenger of Allah, who are they? He said: “The jama’ah (the main body of the Muslims).”</b> [Classed as sahih by Al-Albani in Al-Sahihah 1492] and according to another hadith: <b>“The path on which I and my Companions are.”</b> [Narrated and classed as sahih by Al-Tirmidhi 2641].</p> 
+<p>Imam Ibn Al-Mubarak (may Allah have mercy on him) said: <b>"The roots of the seventy-two sects are four: the Khawarij, the Rafidah (Shi'ah), the Qadariyah and the Murji’ah."</b> It was said to Ibn Al-Mubarak, "And the Jahmiyyah?" he (may Allah have mercy on him) said, "the Jahmiyyah are not part of the ummah of Muhammad ﷺ." [Quoted by Shaykhul Islam Ibn Taymiyyah in his book: Majmu’ Al-Fatawa 35/414]</p>
