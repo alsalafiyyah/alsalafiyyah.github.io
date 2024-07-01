@@ -262,7 +262,6 @@ ol.lower-alpha {list-style-type: lower-alpha;}
   background-position: 10px 10px; 
   background-repeat: no-repeat;
   padding: 12px 10px 12px 40px;
-  box-shadow: var(--shadow) var(--shadow) var(--red);
 }
 /* card */
 .card {
@@ -270,10 +269,6 @@ ol.lower-alpha {list-style-type: lower-alpha;}
   margin: 10px;
   background-color: var(--bg-card);
   border: 1px solid var(--black);
-  box-shadow: var(--shadow) var(--shadow) var(--red);
-}
-.card:hover {
-  box-shadow: var(--shadow) var(--shadow) var(--red);
 }
 .card-body {
  padding: 2px 16px;
@@ -303,4 +298,24 @@ ol.lower-alpha {list-style-type: lower-alpha;}
 .content-excerpt {
  padding: 0;
  margin: 10px 0;
+}
+.ieShadowBlock {
+	position:relative;
+	z-index:3;
+}
+.ieShadowBlockBody {
+	position:relative;
+	z-index:4;
+}
+.ieShadow {
+	display:block;
+	position:absolute;
+	z-index:2;
+	top:5px;
+	left:5px;
+	right:-5px;
+	bottom:-5px;	
+  filter:progid:DXImageTransform.Microsoft.Blur(pixelradius=5);
+	-ms-filter:'progid:DXImageTransform.Microsoft.Blur(pixelradius=5)';
+	background-color: var(--red);
 }
