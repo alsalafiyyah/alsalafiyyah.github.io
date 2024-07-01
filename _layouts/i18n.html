@@ -1,0 +1,27 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="{{ page.locale }}" vocab="https://schema.org/" typeof="WebPage">
+<head>
+{% include metadata.html %}
+</head>
+<body onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}">
+<div vocab="https://schema.org/" typeof="WebSite"><!-- .container -->
+{% include Header.html %}
+<main role="main"><!-- main -->
+ <div class="container"><!-- .container -->
+  <section><!-- section -->
+   {{ content }}
+  </section><!-- /section -->
+ </div><!-- /.container -->
+</main><!-- /main -->
+</div>
+<div class="spacer"></div>
+<div class="last-modified">
+ <p property="dateModified"><small><span id='last-modified'></span></small></p>
+</div>
+{% include Footer.html %}
+{% include Javascripts.html %}
+</body>
+</html>
