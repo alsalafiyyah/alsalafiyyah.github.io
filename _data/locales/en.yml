@@ -58,13 +58,22 @@ page:
   notSupportaudio: Your browser does not support the audio element.
   404: "The page you requested does not exist"
   404_text: "Page not found."
-
-post:
-  dated: "Posted on:"
+  latest_fatwas: Latest Fatwas
+  latest_audios: Latest Audios
+  related_fatwas: Related Fatwas
+  copy: Copy
+  published_on: Published on 
+  view_all: View all
+  category: Category
+  favorites: Favorites
+  add_to-favorite: Add to favorite
   print: Print
-  share: Share on
-  related_fatwas: Related fatwas
+  share: Share
+  share_on: Share on
+  rss_feed: RSS Feed
+  similar_fatwas: Similar Fatwas
   comments: Comments
+  selected_fatwas: Highlighted Fatwas
   book: Book
   vol: Vol
   end: "May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions."
