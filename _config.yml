@@ -79,14 +79,14 @@ defaults:
       layout: post
       permalink: /:title
   - scope:
-      path: "_en/_posts/**"
+      path: "en/_posts/**"
       type: posts
     values:
       layout: post
       locale: ar
       permalink: /en/:title
   - scope:
-      path: "_ar/_posts/**"
+      path: "ar/_posts/**"
       type: posts
     values:
       layout: post
