@@ -9,3 +9,6 @@ permalink: /bidah/
 - Third, as for the meaning of Bid`ah (innovation in religion), linguistically it means creating something new, with no previous example to follow; while in Shari'ah it means innovating a form of verbal, practical, or creedal ibadah which is not legislated by Allah (Praised and Exalted be He). Every Bid'ah leads to misguidance, according to what the Prophet (peace be upon him) stated. 
 - Fourth, as for dividing Bid'ah in religion into five categories, this is groundless in Shari'ah. We recommend that you refer to the book entitled "Al-I'tisam" by Al-Shatibi, where he speaks about Bida' in an incomparable way; "Al-Sunan wal-Mubtada'at", "Al-Ibda' fi Madarr Al-Ibtida'", and "Tanbih Al-Ghafilin" by Al-Nahhas; "Zad Al-Mi'ad" by the great scholar Ibn Al-Qayyim, and "Iqtida' Al-Sirat Al-Mustaqim" by the Sheikh of Islam Ibn Taymiyyah. 
 - Fifth, the word "every" does not denote exclusion, but inclusion as stated in the science of Usul-ul-Fiqh (principles of Islamic jurisprudence).
+
+---
+[Fatwas on Bid'ahs](https://alsalafiyyah.github.io/category/bidah/)
