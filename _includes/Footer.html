@@ -5,16 +5,16 @@
     <p class="copyright">&copy; <span property="copyrightYear">{{ 'now' | date: "%Y" }}</span> <span property="copyrightHolder" vocab="http://schema.org" itemtype="Person"><span property="name">{{ site.title }}</span></span></p>
    </div>
    <div class="column">   
-<ul class="square" typeof="ItemList">
-{% for item in site.data.base.footer %}
- <li property="itemListElement" typeof="ListItem"> 
-  <a href="{{ item.url }}" property="item" typeof="WebPage">
-  <span property="name">{{ item.name }}</span>
-  </a>
-  <meta property="position" content="{{ forloop.index }}" />
-</li>
- {% endfor %}
-</ul>
+    <ul class="square" typeof="ItemList">
+     {% for item in site.data.base.footer %}
+     <li property="itemListElement" typeof="ListItem"> 
+      <a href="{{ item.url }}" property="item" typeof="WebPage" target="_blank">
+       <span property="name">{{ item.name }}</span>
+      </a>
+      <meta property="position" content="{{ forloop.index }}" />
+      </li>
+      {% endfor %}
+      </ul>
    </div> 
   </div>
   </div> 
