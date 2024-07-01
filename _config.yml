@@ -78,15 +78,15 @@ defaults:
     values:
       layout: post
       permalink: /:title
-      is_post: true
   - scope:
-      path: _posts/en/**
+      path: "_en/_posts/**"
       type: posts
     values:
       layout: post
-      permalink: /:title
+      locale: ar
+      permalink: /en/:title
   - scope:
-      path: _posts/ar/**
+      path: "_ar/_posts/**"
       type: posts
     values:
       layout: post
@@ -124,14 +124,6 @@ collections:
     output: true
     active: audios
     permalink: /audios/:title/
-  fawaid:
-    output: true
-    active: fawaid
-    permalink: /fawaid/:title/   
-  biography:
-    output: true
-    active: biography
-    permalink: /biography/:title/   
   ar:
     output: true
     permalink: /:collection/:slug
