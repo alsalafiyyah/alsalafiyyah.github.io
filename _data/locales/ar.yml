@@ -51,13 +51,22 @@ page:
   404: "الصفحة التي طلبتها غير موجودة"
   404_text: "يمكنك استخدام حقل البحث، أو الانتقال للصفحة الرئيسية."
   noSupportaudio: لا يدعم متصفحك عنصر الصوت
-
-post:
-  dated: "تاريخ النشر في الموقع :"
+  latest_fatwas: جديد الفتاوى
+  latest_audios: جديد صوتيات
+  related_fatwas: فتاوى ذات صلة
+  copy: نسخ
+  published_on: تاريخ النشر
+  view_all: تصفح الكل
+  category: التصنيف
+  favorites: المفضلة
+  add_to-favorite: إضافة إلى المفضلة
   print: طباعة
   share: مشاركة
-  related_fatwas: فتاوى ذات صلة
+  share_on: شارك على
+  rss_feed: تغذية RSS
+  similar_fatwas: الفتاوى المشابهة
   comments: التعليقات
+  selected_fatwas: فتاوى مختارة
   book: الكتاب
   vol: المجلد
   end: "وبالله التوفيق. وصلى الله على نبينا محمد، وآله وصحبه وسلم."
