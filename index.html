@@ -9,7 +9,7 @@ excerpt: This site is dedicated to presenting the pure teachings of Islam and Su
 </div>
 <div>
    <h2>Recent 
-    <a href="{{ '/fatwas/' | prepend:site.baseurl }}">
+    <a class="nowavy" href="{{ '/fatwas/' | prepend:site.baseurl }}">
       <mark>
        {{ site.data.base.page.fatwas }}
       </mark>
@@ -19,7 +19,7 @@ excerpt: This site is dedicated to presenting the pure teachings of Islam and Su
 {% for post in site.posts limit:5 %}
 {% if post.url %}
  <li > 
-  <a class="nowavy" href="{{ post.url }}" property="item" typeof="WebPage">
+  <a href="{{ post.url }}" property="item" typeof="WebPage">
   <span itemprop="name">{{ post.title | truncate: 60 }}</span>
   </a>
   <meta itemprop="position" content="{{ forloop.index }}" />
@@ -40,7 +40,7 @@ excerpt: This site is dedicated to presenting the pure teachings of Islam and Su
 <ul class="bullets">
 {% for item in site.audios limit:5 %}
  <li > 
-  <a href="{{ item.url }}" property="item" typeof="WebPage">
+  <a class="nowavy" href="{{ item.url }}" property="item" typeof="WebPage">
   <span itemprop="name" class="mark">{{ item.title | truncate: 60 }}</span>
   </a>
   <meta itemprop="position" content="{{ forloop.index }}" />
