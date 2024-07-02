@@ -252,7 +252,8 @@
 
 </ul>
 <small>
- <a href="https://www.github.com/{{ site.github_username }}/{{ site.git_repo }}/blob/master/{% if post.url %}{{ post.path }}{% endif %}" target="_blank">
+ {% assign posts = site.posts %}
+ <a href="https://www.github.com/{{ site.github_username }}/{{ site.git_repo }}/blob/master/{{ post.path }}" target="_blank">
     Edit
    </a>
 </small>
