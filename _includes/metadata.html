@@ -57,12 +57,6 @@
 <!-- css styles & scripts -->
 <link href="https://unpkg.com/vanilla-datatables@latest/dist/vanilla-dataTables.min.css" rel="stylesheet"/>
 <link href="{{ '/assets/css/base.css' | absolute_url }}" rel="stylesheet" media="all">
+{% if page.active =='search' %}
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-QC20WKL1N2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-QC20WKL1N2');
-</script>
+{% endif %}
