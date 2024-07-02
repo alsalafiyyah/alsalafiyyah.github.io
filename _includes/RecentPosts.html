@@ -1,0 +1,47 @@
+<div class="card ieShadowBlock">
+ <div class="card-body ieShadowBlockBody">
+ <p>Muslims have to avoid bid'ahs (religious innovations) and beware of them for the Prophet ﷺ said, <b>"He who does an act which we have not commanded, will have it rejected (by Allah)."</b> and he ﷺ also said, <b>"Avoid novelties [in religion], for every novelty is a bid'ah, and every bid'ah is deviation." continue <a class="mark nowavy" href="/introduction/">reading</a></b></p>  
+ </div>
+ <div class="ieShadow"></div>
+</div>
+<div>
+   <h2>Recent 
+    <a class="nowavy" href="{{ '/fatwas/' | prepend:site.baseurl }}">
+      <mark>
+       {{ site.data.base.page.fatwas }}
+      </mark>
+    </a>
+   </h2>
+<ul class="square">
+{% for post in site.posts limit:5 %}
+{% if post.url %}
+ <li > 
+  <a href="{{ post.url }}" property="item" typeof="WebPage">
+  <span itemprop="name">{{ post.title | truncate: 60 }}</span>
+  </a>
+  <meta itemprop="position" content="{{ forloop.index }}" />
+ </li>
+{% endif %}
+{% endfor %}
+</ul>
+</div>
+
+<div>
+   <h2> Recent 
+    <a class="nowavy" property="url" class="nowavy" href="{{ '/audios/' | prepend:site.baseurl }}">
+     <mark>
+     {{ site.data.base.page.audios }}
+     </mark>
+    </a>
+   </h2>
+<ul class="bullets">
+{% for item in site.audios limit:5 %}
+ <li > 
+  <a class="nowavy" href="{{ item.url }}" property="item" typeof="WebPage">
+  <span itemprop="name" class="mark">{{ item.title | truncate: 60 }}</span>
+  </a>
+  <meta itemprop="position" content="{{ forloop.index }}" />
+ </li>
+{% endfor %}
+</ul> 
+</div>
