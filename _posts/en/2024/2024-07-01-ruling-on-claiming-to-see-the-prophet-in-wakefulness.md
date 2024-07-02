@@ -10,6 +10,10 @@ note: true
 locale: en
 lang: en
 excerpt: Claiming to see, while awake, the Prophet after his death is a false claim.
+article_taken_from: 
+  taken_from:
+    - web_title: رؤية الله في الدنيا
+      web_url: https://al-fatawa.com/fatwa/105848
 shaykhs: 
  - Sh. Ibn Baz 
  - Sh. Abdur-Razzaq Al-Afifi
