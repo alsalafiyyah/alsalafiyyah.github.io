@@ -20,6 +20,8 @@ font-family: "Trocchi", serif;
   --red: #B04759;
   --shadow: 5px;
   --black: #000100;
+  --dark-blue: #183075;
+  --light-blue: #c1d9f4;
 }
 /* custom */
 html, body {
@@ -323,4 +325,13 @@ ol.lower-alpha {list-style-type: lower-alpha;}
 
 audio::-webkit-media-controls-panel, video::-webkit-media-controls-panel {
  background-color: var(--red) !important;
+}
+.vintage {
+  padding: 0;
+  border: 20px solid transparent;
+  border-image: 20 repeating-linear-gradient(-45deg,
+   var(--red) 0, var(--red) 1em,
+   transparent 0, transparent 2em,
+   var(--dark-blue) 0, var(--dark-blue) 3em,
+   transparent 0, transparent 4em);  
 }
