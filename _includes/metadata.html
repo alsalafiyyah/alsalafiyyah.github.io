@@ -23,7 +23,7 @@
   <meta name="alexaVerifyID" content="{{ site.webmaster_verifications.alexa }}" />
   <meta name="facebook-domain-verification" content="{{ site.webmaster_verifications.facebook_domain }}" />
   <meta property="og:locale" content="{{ page.locale }}" />
-  <meta name="keywords" content="{{ site.keywords }}"/>
+  <meta name="keywords" content="{% if post.category %}{{ post.category  | strip_html }}{% else %}{{ site.keywords }}{% endif %}"/>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | escape | strip_html }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | escape | strip_html }}{% else %}{{ site.description }}{% endif %}" />
   <meta name="author" content="{{ site.author }}">
