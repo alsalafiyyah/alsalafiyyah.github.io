@@ -6,7 +6,7 @@ hijri: Muharram 27, 1442 AH
 lang: en
 source: Fatwas of the Permanent Committee no. 21801
 excerpt: "It is not permissible to write the Exalted Name 'Allah' and 'Muhammad' (peace be upon him) parallel to each other on a paper, portrait or a wall."
-category: [bidahs, prophets]
+category: [shirk, polytheism, prophets]
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Aal Al-Shaykh
