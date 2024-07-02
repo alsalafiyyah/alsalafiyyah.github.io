@@ -320,3 +320,7 @@ ol.lower-alpha {list-style-type: lower-alpha;}
 	-ms-filter:'progid:DXImageTransform.Microsoft.Blur(pixelradius=5)';
 	background-color: var(--red);
 }
+
+audio::-webkit-media-controls-panel, video::-webkit-media-controls-panel {
+ background-color: var(--red) !important;
+}
