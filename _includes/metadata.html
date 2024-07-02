@@ -1,63 +1,63 @@
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="generator" content="Jekyll v{{ jekyll.version }}" />
-  <meta name="mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-touch-fullscreen" content="yes">
-  <meta name="HandheldFriendly" content="True">
-  <meta name="apple-mobile-web-app-title" content="{{ site.title }}" />
-  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-  <meta name="format-detection" content="telephone=no">
-  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }}</title>
-  <meta property="og:site_name" content="{{ site.title }}" />
-  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% endif %}" />
-  <meta property="og:image" content="{{ '/assets/images/fb.jpg' | absolute_url }}" />
-  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta name="twitter:url" content="{% if page.url %}{{ site.url }}{{ page.url }}{% endif %}">
-  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | escape | strip_html }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="p:domain_verify" content="{{ site.webmaster_verifications.domain_verify }}"/>
-  <meta name="google-site-verification" content="{{ site.webmaster_verifications.google }}" />
-  <meta name="yandex-verification" content="{{ site.webmaster_verifications.yandex }}" />
-  <meta name="msvalidate.01" content="{{ site.webmaster_verifications.bing }}" />
-  <meta name="baidu-site-verification" content="{{ site.webmaster_verifications.baidu }}" />
-  <meta name="alexaVerifyID" content="{{ site.webmaster_verifications.alexa }}" />
-  <meta name="facebook-domain-verification" content="{{ site.webmaster_verifications.facebook_domain }}" />
-  <meta property="og:locale" content="{{ page.locale }}" />
-  <meta name="keywords" content="{% if post.category %}{{ post.category  | strip_html }}{% else %}{{ site.keywords }}{% endif %}"/>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | escape | strip_html }}{% else %}{{ site.description }}{% endif %}">
-  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | escape | strip_html }}{% else %}{{ site.description }}{% endif %}" />
-  <meta name="author" content="{{ site.author }}">
-  <meta name="theme-color" content="Canvas">
-  {% if page.url =='/' %}
-  <link rel="canonical" href="{{ site.url }}" />
-  <meta property="og:url" content="{{ site.url }}" />
-  {% else %}
-  <link rel="canonical" href="{{ page.url | absolute_url }}" />
-  <meta property="og:url" content="{{ page.url | absolute_url }}" />
-  {% endif %}
-  {% if page.date %}
-  <meta property="og:type" content="article" />
-  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}" />
-  {% else %}
-  <meta property="og:type" content="website" />
-  {% endif %}
-  {% if paginator.previous_page %}
-  <link rel="prev" href="{{ paginator.previous_page_path | absolute_url }}" />
-  {% endif %}
-  {% if paginator.next_page %}
-  <link rel="next" href="{{ paginator.next_page_path | absolute_url }}" />
-  {% endif %}
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
-  <link href="{{ '/assets/images/apple_splash_1125.png' | absolute_url }}" sizes="1125x2436" rel="apple-touch-startup-image"/>
-  <link href="{{ '/assets/images/apple_splash_1242.png' | absolute_url }}" sizes="1242x2208" rel="apple-touch-startup-image"/>
-  <link href="{{ '/assets/images/apple_splash_750.png' | absolute_url }}" sizes="750x1334" rel="apple-touch-startup-image"/>
-  <link href="{{ '/assets/images/apple_splash_640.png' | absolute_url }}" sizes="640x1136" rel="apple-touch-startup-image"/>
-  <link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/apple-touch-icon.png" | absolute_url }}">
-  <link rel="manifest" href="{{ "/manifest.json" | prepend: site.baseurl }}">
-  <!-- css styles & scripts -->
-  <link href="https://unpkg.com/vanilla-datatables@latest/dist/vanilla-dataTables.min.css" rel="stylesheet"/>
-  <link href="{{ '/assets/css/base.css' | absolute_url }}" rel="stylesheet" media="all">
-  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Jekyll v{{ jekyll.version }}" />
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-touch-fullscreen" content="yes">
+<meta name="HandheldFriendly" content="True">
+<meta name="apple-mobile-web-app-title" content="{{ site.title }}" />
+<meta name="apple-mobile-web-app-status-bar-style" content="default" />
+<meta name="format-detection" content="telephone=no">
+<title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }}</title>
+<meta property="og:site_name" content="{{ site.title }}" />
+<meta property="og:title" content="{% if page.title %}{{ page.title }}{% endif %}" />
+<meta property="og:image" content="{{ '/assets/images/fb.jpg' | absolute_url }}" />
+<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta name="twitter:url" content="{% if page.url %}{{ site.url }}{{ page.url }}{% endif %}">
+<meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | escape | strip_html }}{% else %}{{ site.description }}{% endif %}">
+<meta name="p:domain_verify" content="{{ site.webmaster_verifications.domain_verify }}"/>
+<meta name="google-site-verification" content="{{ site.webmaster_verifications.google }}" />
+<meta name="yandex-verification" content="{{ site.webmaster_verifications.yandex }}" />
+<meta name="msvalidate.01" content="{{ site.webmaster_verifications.bing }}" />
+<meta name="baidu-site-verification" content="{{ site.webmaster_verifications.baidu }}" />
+<meta name="alexaVerifyID" content="{{ site.webmaster_verifications.alexa }}" />
+<meta name="facebook-domain-verification" content="{{ site.webmaster_verifications.facebook_domain }}" />
+<meta property="og:locale" content="{{ page.locale }}" />
+<meta name="keywords" content="{% if post.category %}{{ post.category  | strip_html }}{% else %}{{ site.keywords }}{% endif %}"/>
+<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | escape | strip_html }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | escape | strip_html }}{% else %}{{ site.description }}{% endif %}" />
+<meta name="author" content="{{ site.author }}">
+<meta name="theme-color" content="Canvas">
+{% if page.url =='/' %}
+<link rel="canonical" href="{{ site.url }}" />
+<meta property="og:url" content="{{ site.url }}" />
+{% else %}
+<link rel="canonical" href="{{ page.url | absolute_url }}" />
+<meta property="og:url" content="{{ page.url | absolute_url }}" />
+{% endif %}
+{% if page.date %}
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}" />
+{% else %}
+<meta property="og:type" content="website" />
+{% endif %}
+{% if paginator.previous_page %}
+<link rel="prev" href="{{ paginator.previous_page_path | absolute_url }}" />
+{% endif %}
+{% if paginator.next_page %}
+<link rel="next" href="{{ paginator.next_page_path | absolute_url }}" />
+{% endif %}
+<link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+<link href="{{ '/assets/images/apple_splash_1125.png' | absolute_url }}" sizes="1125x2436" rel="apple-touch-startup-image"/>
+<link href="{{ '/assets/images/apple_splash_1242.png' | absolute_url }}" sizes="1242x2208" rel="apple-touch-startup-image"/>
+<link href="{{ '/assets/images/apple_splash_750.png' | absolute_url }}" sizes="750x1334" rel="apple-touch-startup-image"/>
+<link href="{{ '/assets/images/apple_splash_640.png' | absolute_url }}" sizes="640x1136" rel="apple-touch-startup-image"/>
+<link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/apple-touch-icon.png" | absolute_url }}">
+<link rel="manifest" href="{{ "/manifest.json" | prepend: site.baseurl }}">
+<!-- css styles & scripts -->
+<link href="https://unpkg.com/vanilla-datatables@latest/dist/vanilla-dataTables.min.css" rel="stylesheet"/>
+<link href="{{ '/assets/css/base.css' | absolute_url }}" rel="stylesheet" media="all">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-QC20WKL1N2"></script>
 <script>
