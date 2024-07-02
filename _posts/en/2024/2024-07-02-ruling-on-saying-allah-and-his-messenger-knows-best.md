@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: Ruling on saying phrases Allah and His Messenger know best
+title: Ruling on saying Allah and His Messenger know best
 date: 2024-07-02
 hijri: Dhul-Hijjah 26, 1445
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 10751, Question 1
