@@ -2,7 +2,7 @@
 <ul>
  {% if page.source %}
    <li class="collection-item">
-   {{ site.data.locales[page.locale].page.source }}: <span class="mark">{{ page.source }}</span> {% else %}
+   {{ site.data.locales[page.locale].page.source }}: {{ page.source }} {% else %}
     </li>
  {% endif %}
  
