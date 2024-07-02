@@ -12,3 +12,4 @@ permalink: /bidah/
 
 - [Ruling on describing worldly inventions as Bid'ah](https://alsalafiyyah.github.io/rule-on-describing-wordly-investions-as-bidah)
 - [Fatwas on Bid'ahs](https://alsalafiyyah.github.io/category/bidah/)
+- [What is Salafiyyah](https://alsalafiyyah.github.io/who-are-the-salaf/)
