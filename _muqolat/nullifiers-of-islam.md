@@ -2,7 +2,7 @@
 layout: post
 title: "Nullifiers of Islam"
 publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
-source: "Majmu' Fatawa wa Maqalat 1/130"
+source: "Majmu' Fatawa 1/130"
 hijri: Dhul-Hijjah 27, 1441 AH
 excerpt: "A Muslim should know that Allah (Glorified be He) has made it obligatory for all mankind to embrace Islam, firmly abide by it and avoid what contradicts it."
 active: muqolat
@@ -16,7 +16,7 @@ muftis:
 
 All praise be to Allah Alone, and peace and blessings be upon the Last of the Prophets, his family, his Companions, and those who follow his guidance.
 
-A Muslim should know that Allah (Glorified be He) has made it obligatory for all mankind to embrace Islam, firmly abide by it and avoid what contradicts it. Allah sent His Prophet Muhammad (peace be upon him) to call people to this, informing them that whoever follows him will be guided and whoever turns away from him will be misguided. In many Ayahs (Qur'anic verses), Allah warned people against causes of apostasy and all forms of Shirk (associating others with Allah in His Divinity or worship) and Kufr (disbelief). Under the topic of the rulings of the apostate, scholars (may Allah be merciful to them) mentioned that a Muslim may become an apostate by committing one of the things that nullifies Islam and renders his blood and money violable and turn him out of the fold of Islam. The most dangerous and common ten nullifiers of Islam are mentioned by [Shaykh and Imam Muhammad ibn 'Abdul-Wahhab](https://salafimanhaj.github.io/wahhabis/) and other scholars (may Allah be merciful to them). Here we will list them in brief so that a Muslim can keep away from them and warn people against them in hope for safety and well-being. We will briefly elaborate on them.
+A Muslim should know that Allah (Glorified be He) has made it obligatory for all mankind to embrace Islam, firmly abide by it and avoid what contradicts it. Allah sent His Prophet Muhammad (peace be upon him) to call people to this, informing them that whoever follows him will be guided and whoever turns away from him will be misguided. In many Ayahs (Qur'anic verses), Allah warned people against causes of apostasy and all forms of Shirk (associating others with Allah in His Divinity or worship) and Kufr (disbelief). Under the topic of the rulings of the apostate, scholars (may Allah be merciful to them) mentioned that a Muslim may become an apostate by committing one of the things that nullifies Islam and renders his blood and money violable and turn him out of the fold of Islam. The most dangerous and common ten nullifiers of Islam are mentioned by **Shaykh and Imam Muhammad ibn 'Abdul-Wahhab** and other scholars (may Allah be merciful to them). Here we will list them in brief so that a Muslim can keep away from them and warn people against them in hope for safety and well-being. We will briefly elaborate on them.
 
 **First**: Associating others with Allah in worship. Allah (Exalted be He) says: "**Verily, Allâh forgives not that partners should be set up with Him (in worship), but He forgives except that (anything else) to whom He wills**" [al-Nisa: 48]
 
@@ -34,11 +34,11 @@ He (Exalted be He) also says: "**Verily, whosoever sets up partners (in worship)
 
 **Seventh**: Witchcraft which includes magic spells that cause a person to hate or love someone or something. Anyone who practices it or is pleased with it has committed Kufr. The proof of this is the Saying of Allah (Exalted be He): "**...but neither of these two (angels) taught anyone (such things) till they had said, “We are only for trial, so disbelieve not (by learning this magic from us).**” [al-Baqarah: 102]
 
-Eighth: Supporting and assisting the Mushriks against the Muslims. The proof of this is the Saying of Allah (Exalted be He): "**And if any amongst you takes them as Auliyâ’, then surely he is one of them. Verily, Allâh guides not those people who are the Zâlimûn (polytheists and wrong-doers and unjust).**" [al-Maidah: 51]
+**Eighth**: Supporting and assisting the Mushriks against the Muslims. The proof of this is the Saying of Allah (Exalted be He): "**And if any amongst you takes them as Auliyâ’, then surely he is one of them. Verily, Allâh guides not those people who are the Zâlimûn (polytheists and wrong-doers and unjust).**" [al-Maidah: 51]
 
-Ninth: Anyone who believes that it is permissible for some people not to apply the Shari'ah (Islamic law) which Prophet Muhammad (peace be upon him) brought has committed Kufr. Allah (Exalted be He) says: "**And whoever seeks a religion other than Islâm, it will never be accepted of him, and in the Hereafter he will be one of the losers.**" [Aal Imran: 85]
+**Ninth**: Anyone who believes that it is permissible for some people not to apply the Shari'ah (Islamic law) which Prophet Muhammad (peace be upon him) brought has committed Kufr. Allah (Exalted be He) says: "**And whoever seeks a religion other than Islâm, it will never be accepted of him, and in the Hereafter he will be one of the losers.**" [Aal Imran: 85]
 
-Tenth: Turning away from Allah's Religion, not learning it, or implementing it (is an act of Kufr). The proof of this is the Saying of Allah (Exalted be He): "**And who does more wrong than he who is reminded of the Ayât (proofs, evidence, verses, lessons, signs, revelations, etc.) of his Lord, then turns aside therefrom? Verily, We shall exact retribution from the Mujrimûn (criminals, disbelievers, polytheists, sinners).**" [al-Sajdah: 22]
+**Tenth**: Turning away from Allah's Religion, not learning it, or implementing it (is an act of Kufr). The proof of this is the Saying of Allah (Exalted be He): "**And who does more wrong than he who is reminded of the Ayât (proofs, evidence, verses, lessons, signs, revelations, etc.) of his Lord, then turns aside therefrom? Verily, We shall exact retribution from the Mujrimûn (criminals, disbelievers, polytheists, sinners).**" [al-Sajdah: 22]
 
 There is no difference in committing these nullifiers between the one utters them in jest, in earnest, or even out of fear except for a person who says them under coercion. All of these (ten) matters are the gravest nullifiers that most often occur. A Muslim must beware of and keep away from these acts. We seek refuge with Allah from the things that cause His Anger and severe punishment. May Allah's Peace be upon the best of His Creation Muhammad, his family, and Companions.
 
