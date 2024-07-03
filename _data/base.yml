@@ -11,6 +11,8 @@ nav:
   - name: Categories
     url: /category
     active: category
+  - name: Bid'ah
+    url: /bidah/
   - name: Wahhabism
     url: /Wahhabism/
 
