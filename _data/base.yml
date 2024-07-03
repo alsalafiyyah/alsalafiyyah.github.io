@@ -11,6 +11,8 @@ nav:
   - name: Categories
     url: /category
     active: category
+  - name: Wahhabism
+    url: /Wahhabism
 
 footer:
   - name: Sitemap
