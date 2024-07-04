@@ -1,0 +1,26 @@
+<ul 
+ class="no-bullets"
+ typeof="ItemList" vocab="https://schema.org/ItemList">
+ {% for post in paginator.posts %}
+   <li itemprop="itemListElement" typeof="ListItem">
+    <a 
+     property="url" 
+     href="{{ post.url }}"
+     class="fatwas-title">          
+      <h3 class="content-title">
+       <span property="name">
+       {{ post.title }}
+      </span>
+      </h3>
+    </a>
+    <date class="content-date">
+     <meta itemprop="datePublished" content="{{ post.date | date: '%b %d, %Y' }}">
+     {{ post.hijri }} // {{ post.date | date: "%b %d, %Y" }}
+    </date>
+     <p class="content-excerpt" vocab="https://schema.org" itemtype="ItemList">
+       <span property="description">{% if post.excerpt and post.excerpt != empty %}{{ post.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape | truncate: 160 }}{% endif %}</span>
+     </p>
+    <meta itemprop="position" content="{{ forloop.index }}" />
+   </li>
+  {% endfor %}
+</ul>
