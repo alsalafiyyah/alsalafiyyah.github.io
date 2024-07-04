@@ -1,0 +1,7 @@
+<div class="scrollmenu">
+ <nav role="navigation" vocab="http://schema.org" itemtype="SiteNavigationElement">
+  {% for item in site.data.base.nav %}
+   <a property="url" href="{{ item.url }}"><span property="name">{{ item.name }}</span></a>
+  {% endfor %}
+ </nav>
+</div>
