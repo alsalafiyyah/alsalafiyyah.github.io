@@ -2,11 +2,12 @@
 layout: post
 title: "Ruling on men neglecting their Mahrams"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Daimah, Fatwa no. 5320, Question 2"
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 5320, Question 2"
 category: [women, hijab, niqab]
-hijri: Dhu al-Hijjah 14, 1441
+hijri: Dhul-Hijjah 14, 1441
 date: 2020/08/8
 note: true
+excerpt: What is your opinion of a man who does not order his female household to cover themselves in front of non-Mahrams.
 muftis:
   chairman: 
     - name: Shaykh Ibn baz
@@ -25,7 +26,7 @@ muftis:
 What is your opinion of a man who does not order his female household to cover themselves in front of non-Mahrams (not a spouse or unmarriageable relatives)?
 
 ### Answer: 
-Whoever neglects his responsibility towards his female family members and does not order them to cover their `Awrah (parts of the body that must be covered in public), including the face and hands, has not carried out his guardianship properly and is sinful like them. It was authentically reported from the Prophet (peace be upon him) that he said: "**All of you are guardians and are responsible for your charges.**" [^1]
+Whoever neglects his responsibility towards his female family members and does not order them to cover their 'Awrah (parts of the body that must be covered in public), including the face and hands, has not carried out his guardianship properly and is sinful like them. It was authentically reported from the Prophet (peace be upon him) that he said: "**All of you are guardians and are responsible for your charges.**" [^1]
 
 ---
 [^1]: Muslim [Book on rulership, Chapter on the merits of a just ruler and the demerits of a tyrant ruler] no. 3408.
