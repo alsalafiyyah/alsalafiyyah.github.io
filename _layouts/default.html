@@ -13,14 +13,12 @@ layout: compress
  <div class="container"><!-- .container -->
   <section><!-- section -->
    {{ content }}
-  </section><!-- /sectiom -->
+  </section><!-- /section -->
  </div><!-- /.container -->
 </main><!-- /main -->
 </div>
 <div class="spacer"></div>
-<div class="last-modified">
- <p property="dateModified"><small><span id='last-modified'></span></small></p>
-</div>
+{% include LastModified.html %}
 {% include Footer.html %}
 {% include Javascripts.html %}
 </body>
