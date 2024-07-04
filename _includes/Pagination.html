@@ -5,18 +5,12 @@
      ❮ {{ site.data.base.page.prev }}
     </a>
    {% else %}
-    <a class="disabled" href="#!" itemprop="relatedLink/pagination" rel="prev">
-     ❮ {{ site.data.base.page.prev }}
-    </a>
    {% endif %}
    {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" itemprop="relatedLink/pagination" rel="next">
      {{ site.data.base.page.next }} ❯
     </a>
    {% else %}
-    <a class="disabled" href="#!" itemprop="relatedLink/pagination" rel="next">
-     {{ site.data.base.page.next }} ❯
-    </a>
    {% endif %}
  </div> 
 </div>
