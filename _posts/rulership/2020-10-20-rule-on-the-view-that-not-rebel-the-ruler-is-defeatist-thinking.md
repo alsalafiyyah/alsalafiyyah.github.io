@@ -4,8 +4,8 @@ published: true
 title: "Ruling on the view that not rebel against the ruler as a defeatist thinking which manifests weakness"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat p. 8/206, question 2"
-category: [rulership, khawarij]
-hijri: "Rabi' Al-Awwal 03, 1442 AH"
+category: [rulership, sects]
+hijri: "Rabi' Al-Awwal 03, 1442"
 lang: en
 note: false
 locale: en
