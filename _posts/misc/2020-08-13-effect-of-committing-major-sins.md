@@ -3,23 +3,22 @@ layout: post
 title: "Committing major sins affects one's faith"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 5/338"
-hijri: Dhul-Hijjah 23, 1441 AH
+hijri: Dhul-Hijjah 23, 1441
+locale: en
 lang: en
 note: false
 excerpt: "Yes, this has a great effect on one's faith. Committing the grave sins such as Zina (sexual intercourse outside marriage), drinking wine, killing unjustly, consuming Riba (usury), backbiting, tale-bearing, etc., has an impact on one's faith in the Oneness of Allah and believing in Him."
-category: [misc, khawarij, mutazilah]
+category: [fatwas, sects]
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
       url: /biography/binbaz/
 ---
 
-Question:
-
+### Question:
 What is the ruling on committing sins, particularly major sins? Does this affect one's faith?
 
-Answer:
-
+### Answer:
 Yes, this has a great effect on one's faith. Committing the grave sins such as Zina (sexual intercourse outside marriage), drinking wine, killing unjustly, consuming Riba (usury), backbiting, tale-bearing, etc., has an impact on one's faith in the Oneness of Allah and believing in Him. It weakens one's faith, but a Muslim is not to be accused of Kufr (disbelief) for committing any of these sins, as long as he does not consider them lawful. Al-Khawarij (separatist group that believes committing a major sin amounts to disbelief) consider as Kafir Muslims who commit sins such as Zina, theft, being undutiful to parents and other major sins; even if such a person does not consider the act to be lawful. This is a great mistake on the part of Al-Khawarij. Ahl Al-Sunnah wal-Jama'ah (those adhering to the Sunnah and the Muslim community) neither consider such a person a Kafir, nor believe that he will abide in the Hellfire forever. Rather, they view that the Iman (belief) and Tawhid (belief in the Oneness of Allah/ monotheism) of this person are incomplete. Such a person is not to be accused of committing major Kufr, but that their Iman is incomplete and weak. 
 
 Therefore, Allah legislated that the fornicator must be given one hundred lashes and exiled for a year if he or she is not married as Hadd (legal penalty). Allah also legislates that the intoxicated person is to be lashed and not to be executed. This also applies to a thief whose hand must be cut off and should not be executed. Had committing Zina, intoxication and robbery carried the ruling of major Kufr (disbelief), they would have been executed as the Prophet (peace be upon him) said: "Whoever (a Muslim) abandons their faith, is to be executed." (Related by Al-Bukhari (may Allah be merciful to him) in his Sahih [Authentic Hadith Book]).
