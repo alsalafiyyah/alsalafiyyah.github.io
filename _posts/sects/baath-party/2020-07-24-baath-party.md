@@ -3,7 +3,7 @@ layout: post
 title: "Ba'ath Party"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 28/270"
-category: [baath]
+category: [sects]
 hijri: Dhu al-Hijjah 3, 1441 AH
 lang: en
 note: false

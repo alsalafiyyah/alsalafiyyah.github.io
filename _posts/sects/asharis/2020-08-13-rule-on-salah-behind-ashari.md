@@ -6,7 +6,7 @@ source: "Majmu' Fatawa wa Maqalat 5/426"
 hijri: Dhul-Hijjah 23, 1441 AH
 note: false
 lang: en
-category: [asharis]
+category: [sects]
 excerpt: "Is it permissible to offer Salah behind a man believing in a doctrine different from Ahl Al-Sunnah wal-Jama'ah such as Al-Ash'ari"
 muftis:
   shaykh: 

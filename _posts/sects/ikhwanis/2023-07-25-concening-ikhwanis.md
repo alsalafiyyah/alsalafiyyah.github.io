@@ -2,10 +2,11 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Who Are The Ikhwanul Muslimin"
-hijri: Muharram 07, 1445 AH
+hijri: Muharram 07, 1445
 source: "Al-Fatawa Al-Jaliyyah ‘anil-Manahij Al-Da’wiyyah pg. 51-55"
 lang: en
-category: [sufism, sect,  group, ikhwanis]
+locale: en
+category: [sects]
 note: false
 excerpt: The founder of this methodology was a Sufi. He had a connection with Sufism.
 article_taken_from: 

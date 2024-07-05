@@ -3,7 +3,7 @@ layout: post
 title: "On Habashi Sect"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa Shaykh ibn Baz 9/315"
-category: [habashi]
+category: [sects]
 lang: en
 note: false
 hijri: Dhul-Qa'dah 26, 1441 AH

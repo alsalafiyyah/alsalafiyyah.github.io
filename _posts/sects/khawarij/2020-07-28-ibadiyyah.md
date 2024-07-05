@@ -3,9 +3,10 @@ layout: post
 title: "Al-Ibadiyyah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 6935-5"
-category: [khawarij]
-hijri: Dhul-Hijjah 7, 1441 AH
+category: [sects]
+hijri: Dhul-Hijjah 7, 1441
 lang: en
+locale: en
 note: true
 excerpt: "Al-Ibadiyyah is one of the deviant sects because of their aggression and rebellion against 'Uthman ibn 'Affan and 'Ali (may Allah be pleased with them both), and it is not permissible to pray behind them."
 muftis:

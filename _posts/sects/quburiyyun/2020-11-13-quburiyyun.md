@@ -3,9 +3,10 @@ layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
 title: "Quburiyyun (grave worshippers)"
-hijri: "Rabi' Al-Awwal 27, 1442 AH"
+hijri: "Rabi' Al-Awwal 27, 1442"
 lang: en
-category: [sufism, shiah]
+locale: en
+category: [sects]
 note: false
 excerpt: "Worship is not defined through people's views but it is determined through Allah's Judgment (Glorified and Exalted be He). The early Mushriks are divided into different categories, such as those who worshipped idols, those who worshipped prophets, those who worshipped righteous people, those who worshipped trees, those who worshipped stones, and those who worshipped other things."
 muftis:

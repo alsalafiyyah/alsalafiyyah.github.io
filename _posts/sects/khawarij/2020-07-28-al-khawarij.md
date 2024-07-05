@@ -3,9 +3,10 @@ layout: post
 title: "Al-Khawarij"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 4297-3"
-category: ["khawarij"]
-hijri: Dhul-Hijjah 7, 1441 AH
+category: [sects]
+hijri: Dhul-Hijjah 7, 1441
 lang: en
+locale: en
 note: true
 excerpt: "What is the meaning of the Hadith of the Messenger of Allah (peace be upon him): 'During the last days, some young foolish people who will say the best words will appear.'"
 muftis:

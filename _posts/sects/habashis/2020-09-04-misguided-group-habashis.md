@@ -3,7 +3,7 @@ layout: post
 title: "Jama'at Al-Ahbash"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 19606"
-category: [habashi]
+category: [sects]
 hijri: Muharram 16, 1442 AH
 lang: en
 note: true

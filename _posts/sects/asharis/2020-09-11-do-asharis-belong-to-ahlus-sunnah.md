@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Do the Al-Asha'irah belong to Ahl Al-Sunnah wal-Jama'ah or not?"
 hijri: Muharram 22, 1442 AH
-category: [asharis]
+category: [sects]
 source: Majmu' Fatawa of Ibn Baz vol 28
 lang: en
 note: false
