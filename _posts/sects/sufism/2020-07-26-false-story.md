@@ -3,8 +3,8 @@ layout: post
 title: "False story made by the Sufi Shaykh of Jama'at Tabligh"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 21412"
-category: [sufism]
-hijri: Dhul-Hijjah 5, 1441 AH
+category: [sects]
+hijri: Dhul-Hijjah 5, 1441
 lang: en
 note: true
 locale: en

@@ -2,9 +2,10 @@
 layout: post
 title: "Sufi superstitions"
 publisher: "alsalafiyyah@icloud.com"
-category: [sufism]
+category: [sects]
 source: "Fatwas of the Permanent Committee of KSA, question 1"
-hijri: Dhul-Qa'dah 20, 1441 AH
+hijri: Dhul-Qa'dah 20, 1441
+locale: en
 lang: en
 note: true
 excerpt: "What is mentioned in the question is a false and superstitious talk and it is not permissible to believe it; because this is a means leading to Shirk (associating others with Allah in His Divinity or worship)."

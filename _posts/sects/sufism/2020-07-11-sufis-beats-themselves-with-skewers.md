@@ -2,9 +2,10 @@
 layout: post
 title: "Sufis who beat themselves with skewers"
 publisher: "alsalafiyyah@icloud.com"
-category: [sufism]
+category: [sects]
 source: "Fatwas of the Permanent Committee of KSA no. 18466-1"
-hijri: Dhul-Qa'dah 20, 1441 AH
+hijri: Dhul-Qa'dah 20, 1441
+locale: en
 note: true
 lang: en
 excerpt: "It is worth mentioning that such people are very dangerous to Islam and thus you have to beware of them and warn others against them."

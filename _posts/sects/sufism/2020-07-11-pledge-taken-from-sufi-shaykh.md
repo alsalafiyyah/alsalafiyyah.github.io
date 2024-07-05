@@ -2,9 +2,10 @@
 layout: post
 title: "The pledge taken from a Sufi Shaykh"
 publisher: "alsalafiyyah@icloud.com"
-category: [sufism]
+category: [sects]
 source: "Fatwas of the Permanent Committee of KSA no.16098-2"
-hijri: Dhul-Qa'dah 20, 1441 AH
+hijri: Dhul-Qa'dah 20, 1441
+locale: en
 lang: en
 note: true
 excerpt: "It is not permissible to make a pledge of allegiance to anyone except to a Muslim ruler. It is not permissible to make it to the shaykh of a Sufi order or any other person, for this has not been authentically reported from the Prophet (peace be upon him)."

@@ -2,9 +2,10 @@
 layout: post
 title: "Sufism and their false ancriptions"
 publisher: "alsalafiyyah@icloud.com"
-category: sufism
+category: [sects]
 source: "Fatawa Al-Lajnah Al-Da'imah of KSA no.6899-6"
-hijri: Dhul-Qa'dah 10, 1441 AH
+hijri: Dhul-Qa'dah 10, 1441
+locale: en
 lang: en
 note: true
 uid: sufism-and-their-false-ancriptions

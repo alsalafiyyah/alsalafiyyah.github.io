@@ -2,9 +2,10 @@
 layout: post
 title: "What is Sufism"
 publisher: "alsalafiyyah@icloud.com"
-category: sufism
+category: [sects]
 source: "Fatwas of the Permanent Committee of KSA no. 17558-2"
-hijri: Dhul-Qa'dah 20, 1441 AH
+hijri: Dhul-Qa'dah 20, 1441
+locale: en
 lang: en
 note: true
 excerpt: "In general, Sufism as it exists at the present time refers to a misguided group, which adopts a Manhaj (methodology) in 'Ibadah (worship) that opposes the Sunnah."

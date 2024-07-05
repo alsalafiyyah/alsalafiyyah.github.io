@@ -3,8 +3,8 @@ layout: post
 title: "Ruling on book of Deobandi Jama'at Tabligh entitled 'Tablighi Nisab'"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 20234"
-category: [sufism]
-hijri: Dhul-Hijjah 5, 1441 AH
+category: [sects]
+hijri: Dhul-Hijjah 5, 1441
 lang: en
 locale: en
 note: true

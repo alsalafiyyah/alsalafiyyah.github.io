@@ -3,8 +3,8 @@ layout: post
 title: "Ruling on Al-Burhamiyyah Tariqah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 4911"
-category: ["sufism"]
-hijri: Dhul-Hijjah 7, 1441 AH
+category: [sects]
+hijri: Dhul-Hijjah 7, 1441
 lang: en
 locale: en
 note: true

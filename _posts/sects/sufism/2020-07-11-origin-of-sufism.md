@@ -2,9 +2,10 @@
 layout: post
 title: "Origin and the creeds of Sufism"
 publisher: "alsalafiyyah@icloud.com"
-category: sufism
+category: [sects]
 source: "Fatwas of the Permanent Committee of KSA no.19521"
-hijri: Dhul-Qa'dah 20, 1441 AH
+hijri: Dhul-Qa'dah 20, 1441
+locale: en
 lang: en
 note: true
 excerpt: "All the Sufi sects or what is so called now Tasawwuf (mysticism) are full of Bid'ah and the means which leads to it and corrupted thoughts which are against the Book of Allah and the Sunnah of the Prophet"

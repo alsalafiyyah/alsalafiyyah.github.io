@@ -2,9 +2,10 @@
 layout: post
 title: "Status of the Sufi orders in Islam"
 publisher: "alsalafiyyah@icloud.com"
-category: [sufism]
+category: [sects]
 source: "Fatwas of the Permanent Committee of KSA no. 16862"
-hijri: Dhul-Qa'dah 20, 1441 AH
+hijri: Dhul-Qa'dah 20, 1441
+locale: en
 lang: en
 note: true
 excerpt: ""

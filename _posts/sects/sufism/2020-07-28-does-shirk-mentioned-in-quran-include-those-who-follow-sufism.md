@@ -3,8 +3,8 @@ layout: post
 title: "Does the Shirk mentioned in the Qur'an: 'And do not marry Al-Mushrikât till they believe' include those who follow some Tariqahs (sufi orders) such as Al-Tijaniyyah?"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 2229-2"
-category: ["sufism", quran]
-hijri: Dhul-Hijjah 7, 1441 AH
+category: [sects]
+hijri: Dhul-Hijjah 7, 1441
 lang: en
 locale: en
 uid: does-shirk-mentioned-in-quran-include-those-who-follow-sufism

@@ -2,10 +2,11 @@
 layout: post
 title: "What is the ruling of Islam on the Sufi orders that exist today"
 publisher: "alsalafiyyah@icloud.com"
-category: [sufism]
+category: [sects]
 source: "Fatwas of the Permanent Committee of KSA no.6433-5"
-hijri: Dhul-Qa'dah 11, 1441 AH
+hijri: Dhul-Qa'dah 11, 1441
 lang: en
+locale: en
 note: true
 excerpt: "Working according to Bid'ahs (innovations in religion) prevails in most of the Sufi orders. We advise you to follow the guidance of the Prophet (peace be upon him) and his Companions with regard to acts of worship and other things."
 muftis:

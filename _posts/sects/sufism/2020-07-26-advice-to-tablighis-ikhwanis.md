@@ -3,8 +3,9 @@ layout: post
 title: "Advice to the Jama'at Tabligh and Al-Ikhwan Al-Muslimun"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 28/57"
-category: [sufism, ikhwanis, tablighis]
-hijri: Dhul-Hijjah 5, 1441 AH
+category: [sects]
+hijri: Dhul-Hijjah 5, 1441
+locale: en
 lang: en
 note: false
 locale: en

@@ -2,9 +2,10 @@
 layout: post
 title: "Misguidance of all Sufis"
 publisher: "alsalafiyyah@icloud.com"
-category: [sufism]
+category: [sects]
 source: "Fatwas of the Permanent Committee of KSA no. 19433"
-hijri: Dhul-Qa'dah 20, 1441 AH
+hijri: Dhul-Qa'dah 20, 1441
+locale: en
 note: true
 lang: en
 excerpt: "Muslims have to hold fast to the Qur'an, Sunnah, and to the way of the Salaf with regard to both beliefs and deeds. May Allah help us all to acquire beneficial knowledge and to increase our good deeds!"
