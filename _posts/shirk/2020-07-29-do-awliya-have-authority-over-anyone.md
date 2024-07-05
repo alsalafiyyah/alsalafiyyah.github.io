@@ -3,8 +3,8 @@ layout: post
 title: "Do Awliya’ have authority over anyone?"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 3716-2"
-category: ["tawassul"]
-hijri: Dhul-Hijjah 8, 1441 AH
+category: ["tawassul", bidah]
+hijri: Dhul-Hijjah 8, 1441
 note: true
 excerpt: "Awliya’ have no authority over anyone; whatever Allah has given them is merely the ordinary means given to all other humans. They do not have supernatural powers; they cannot take non-human forms, like snakes, lions, monkeys or other animals."
 muftis:
