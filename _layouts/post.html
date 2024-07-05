@@ -12,7 +12,7 @@ layout: default
         {{ site.data.locales[page.locale].page.date }}: 
         <span>
           <time itemprop="datePublished" datetime="{{ page.date | date_to_string }}"> 
-          {{ page.date | date_to_string }} - 
+          {{ page.date | date_to_string | append: " - " }}
           {% if page.hijri %}
            {{ page.hijri }}
           {% endif %}
@@ -23,7 +23,11 @@ layout: default
            {% include read_time.html %}
       </li>
       <li>
-        <span id='last-modified'>
+        <time 
+          itemprop="dateModified" 
+          datetime="{{ "now" | date: "%Y-%m-%d %H:%M" }}">
+          <span id='last-modified'>
+        </time>
       </li> 
    </ol>
 <h2 itemprop="headline">
