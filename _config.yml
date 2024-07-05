@@ -86,12 +86,12 @@ defaults:
       locale: en
       permalink: /en/:title
   - scope:
-      path: "_posts/ar/**"
+      path: "_posts/audios/**"
       type: posts
     values:
       layout: post
-      locale: ar
-      permalink: /ar/:title
+      locale: en
+      permalink: /audios/:title
   - scope:
       path: "_pages"
       type: "pages"
@@ -99,15 +99,7 @@ defaults:
       path: ""
       type: "pages"
     values:
-      layout: "page"      
-  - scope: 
-      path: _ar/**
-    values: 
-      locale: ar
-  - scope: 
-      path: _en/**
-    values: 
-      locale: en
+      layout: "page"
 
 
 collections:
