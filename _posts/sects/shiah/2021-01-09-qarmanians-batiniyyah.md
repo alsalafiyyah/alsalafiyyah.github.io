@@ -3,8 +3,9 @@ layout: post
 title: "The Qarmatians and Al-Batiniyyah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 18952-6"
-category: [shiah]
-hijri: "Jumada Al-Awwal 25, 1442 AH"
+category: [sects]
+hijri: "Jumada Al-Awwal 25, 1442"
+locale: en
 lang: en
 note: true
 excerpt: "Both the Qarmatians and Al-Batiniyyah do not belong to Islam. Rather, they are Kafirs (disbelievers) and heretics."

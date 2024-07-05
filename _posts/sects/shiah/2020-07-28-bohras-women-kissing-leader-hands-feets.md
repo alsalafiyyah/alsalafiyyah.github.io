@@ -3,8 +3,9 @@ layout: post
 title: "Dawoodi Bohras women kissing their leader's hands and feet and those of his family"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 2289-2"
-category: [shiah]
-hijri: Dhul-Hijjah 7, 1441 AH
+category: [sects]
+hijri: Dhul-Hijjah 7, 1441
+locale: en
 lang: en
 excerpt: "What you have mentioned in regards to women who belong to Bohras and kiss the hands and feet of their leader and each of his family members, is impermissible. There is no report affirming that this act was done to the Prophet (peace be upon him) or any of the Rightly-Guided Caliphs."
 muftis:

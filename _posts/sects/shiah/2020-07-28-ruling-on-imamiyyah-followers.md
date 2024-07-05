@@ -3,8 +3,9 @@ layout: post
 title: "Ruling on the followers of Al-Imamiyyah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 9247-2"
-category: [shiah]
-hijri: Dhul-Hijjah 7, 1441 AH
+category: [sects]
+hijri: Dhul-Hijjah 7, 1441
+locale: en
 lang: en
 note: true
 excerpt: "Any person who follows one of the leaders of Kufr (disbelief) and misguidance and supports their chiefs and masters in oppression and enmity will receive their same ruling, that is, being deemed among the Kafirs and Fasiqs."

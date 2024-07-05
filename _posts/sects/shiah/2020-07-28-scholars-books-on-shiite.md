@@ -3,8 +3,9 @@ layout: post
 title: "Scholars' books on Shiite 'Aqidah and their details"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 7308-1"
-category: [shiah]
-hijri: Dhul-Hijjah 7, 1441 AH
+category: [sects]
+hijri: Dhul-Hijjah 7, 1441
+locale: en
 lang: en
 note: true
 excerpt: "Shiites have numerous sects, some are extremists and others are not. Hence, we recommend you read books written by scholars about their sects and the 'Aqidah (creed) of each."

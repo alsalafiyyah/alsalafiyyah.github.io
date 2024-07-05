@@ -3,8 +3,9 @@ layout: post
 title: "The differences between the Ahl-ul-Sunnah and Shiites"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Shaykh Ibn Baz p. 28/258"
-category: [shiah]
-hijri: "Jumada Al-Awwal 26, 1442 AH"
+category: [sects]
+hijri: "Jumada Al-Awwal 26, 1442"
+locale: en
 lang: en
 note: false
 excerpt: "Shiites have many sects. Some of them are Kafirs (disbelievers) who worship 'Ali and call upon him, and they worship Fatimah, Al-Husayn and others."

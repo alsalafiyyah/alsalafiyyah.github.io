@@ -3,8 +3,9 @@ layout: post
 title: "Difference between Ahlus-Sunnah and Shi'ah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 28/261"
-category: [shiah]
-hijri: Dhul-Hijjah 3, 1441 AH
+category: [sects]
+hijri: Dhul-Hijjah 3, 1441
+locale: en
 lang: en
 note: false
 excerpt: "We should differentiate between Kafirs (disbelievers), Muslims, Shiites, and other sects. Shi'ah are Mubtadi's (those who introduce innovations in religion)."

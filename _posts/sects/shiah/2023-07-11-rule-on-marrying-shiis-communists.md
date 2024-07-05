@@ -3,8 +3,9 @@ layout: post
 title: "It is not permissible to give the daughters of Sunni families in marriage to the sons of Shi’is or Communists"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da’imah 18/298-300, Fatwa no. 20011"
-category: [shiah, marriage]
-hijri: Dhul-Hijjah 23, 1444 AH
+category: [sects, marriage]
+hijri: Dhul-Hijjah 23, 1444
+locale: en
 lang: en
 note: true
 excerpt: "It is not permissible to give the daughters of Sunni families in marriage to the sons of Shi’is or Communists. If the marriage takes place, it is invalid."

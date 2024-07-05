@@ -3,8 +3,9 @@ layout: post
 title: "Ruling on the present Shiites"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 8187-5"
-category: [shiah]
-hijri: Dhul-Hijjah 7, 1441 AH
+category: [sects]
+hijri: Dhul-Hijjah 7, 1441
+locale: en
 lang: en
 note: true
 excerpt: "Shiites nowadays have many sects. For more clarification on this issue, refer to the contemporary books written on deviant sects, and you could also read Mukhtasar Al-Tuhfah Al-Ithna 'Ashriyyah and Al-Khutut Al-'Aridah by Muhibb Al-Din Al-Khatib, Minhaj Al-Sunnah by Ibn Taymiyyah, and its abridged version, Al-Muntaqa by Al-Dhahabi."

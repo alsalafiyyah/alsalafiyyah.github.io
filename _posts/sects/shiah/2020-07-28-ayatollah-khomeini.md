@@ -3,8 +3,9 @@ layout: post
 title: "The reality of the Iranian Shi'ah and confuting those who claim there is no true Muslim leader except Ayatollah Khomeini"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 11461"
-category: [shiah]
-hijri: Dhul-Hijjah 7, 1441 AH
+category: [sects]
+hijri: Dhul-Hijjah 7, 1441
+locale: en
 lang: en
 note: true
 excerpt: "As to the claim that in today's Muslim world Iran is the only state that abides by Allah's rules and that there is no true Muslim leader but Ayatollah Khomeini, it is sheer falsehood and a lie."

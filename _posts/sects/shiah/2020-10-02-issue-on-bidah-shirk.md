@@ -2,9 +2,10 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Answering a question presented by a Muslim brother on some issues of Bid'ah and Shirk"
-hijri: Safar 15, 1442 AH
+hijri: Safar 15, 1442
+locale: en
 lang: en
-category: [shiah]
+category: [sects]
 note: false
 source: "Majmu' Fatawa Al-Shaykh Ibn Baz 4/259"
 excerpt: "As for the claim that this sect (i.e. shi'ah/shiites) is the saved group and that they are following the truth and others are following falsehood, this is replied to by saying: whoever claims something, their claim should not be taken for granted but the necessary proof should be established first. Produce your proof if you are truthful"

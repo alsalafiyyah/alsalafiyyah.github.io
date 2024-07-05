@@ -3,8 +3,9 @@ layout: post
 title: "A parents belong to Al-Rafidah (a Shiitic group)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 28/260"
-category: [shiah]
-hijri: Dhul-Hijjah 3, 1441 AH
+category: [sects]
+hijri: Dhul-Hijjah 3, 1441
+locale: en
 lang: en
 note: false
 excerpt: "He should call them to Allah and advise them. Yet, If he realizes that they are adhering to that which is false, he should disown them, but at the same time fear Allah in dealing with them."

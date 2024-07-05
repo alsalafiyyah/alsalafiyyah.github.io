@@ -3,8 +3,9 @@ layout: post
 title: "Ruling on eating animals slaughtered by Ja'faris Shi'ah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 1661"
-category: [shiah]
-hijri: Dhul-Hijjah 7, 1441 AH
+category: [sects]
+hijri: Dhul-Hijjah 7, 1441
+locale: en
 lang: en
 note: true
 excerpt: "They are committing an act of Shirk (associating others with Allah in His Divinity or worship) and thus they are apostates. Therefore, it is unlawful to eat from the meat of the animals they sacrifice"

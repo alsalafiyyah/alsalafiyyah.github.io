@@ -3,8 +3,9 @@ layout: post
 title: "Ruling on marrying from those who invoke Al-Hasan, Al-Husayn and 'Aly apart from Allah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 3008-1"
-category: [shiah]
-hijri: Dhul-Hijjah 7, 1441 AH
+category: [sects]
+hijri: Dhul-Hijjah 7, 1441
+locale: en
 lang: en
 note: true
 excerpt: "It is not permissible to allow them to marry Muslim women, and it is not permissible for us to marry their women, or to eat the meat of their sacrificed animals. "

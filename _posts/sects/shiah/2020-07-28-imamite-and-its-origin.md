@@ -3,8 +3,9 @@ layout: post
 title: "Ruling on Imamite Shi'ah sect in Islam and its origin"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 9420-3"
-category: [shiah]
-hijri: Dhul-Hijjah 7, 1441 AH
+category: [sects]
+hijri: Dhul-Hijjah 7, 1441
+locale: en
 lang: en
 note: true
 excerpt: "It was not the way of the Prophet (peace be upon him) or his the Rightly-Guided Caliphs (may Allah be pleased with them) to recite the Qur'an by the graves or celebrate the anniversaries of the dead."
