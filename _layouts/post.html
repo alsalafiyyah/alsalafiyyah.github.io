@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
-<article role="article" vocab="https://schema.org" property="BlogPosting" itemid="{{ post.url }}">
+<article 
+  itemprop="mainEntity" 
+  itemscope 
+  itemtype="http://schema.org/BlogPosting" 
+  itemid="{{ post.url }}">
   {% include Breadcrumb.html %} 
    <ol class="breadcrumb">
       <li>
@@ -14,7 +18,7 @@ layout: default
         <span id='last-modified'>
       </li> 
    </ol>
-<h2 property="name">
+<h2 itemprop="headline">
  {{ page.title }}
 </h2>
 <div property="articleBody">
