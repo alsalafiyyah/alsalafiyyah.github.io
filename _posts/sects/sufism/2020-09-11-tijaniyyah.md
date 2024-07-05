@@ -2,11 +2,12 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Tijaniyyah Tariqah (Sufi order)"
-hijri: Muharram 22, 1442 AH
+hijri: Muharram 22, 1442
+locale: en
 lang: en
 note: false
 uid: tijaniyyah
-category: ["sufism"]
+category: [sects]
 source: "Majmu' Fatawa of Ibn Baz, vol 6"
 excerpt: "We have so many followers of the Tijaniyyah, but I have known from your Program that it is an innovated Tariqah (Sufi order)"
 muftis:

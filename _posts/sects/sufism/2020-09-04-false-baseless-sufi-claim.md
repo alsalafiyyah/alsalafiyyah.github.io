@@ -3,9 +3,10 @@ layout: post
 title: "The Messenger (peace be upon him) did not stretch his hand from his grave to anyone"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat p. 9/310"
-category: ["sufism"]
-hijri: Muharram 16, 1442 AH
+category: [sects]
+hijri: Muharram 16, 1442
 lang: en
+locale: en
 note: false
 uid: false-baseless-sufi-claim
 excerpt: "What all Muslims have to do is to fear Allah and adhere to His Shari'ah, which is indicated in His Noble Book and in the Sunnah of His trustworthy Messenger, and beware of anything that goes against that."

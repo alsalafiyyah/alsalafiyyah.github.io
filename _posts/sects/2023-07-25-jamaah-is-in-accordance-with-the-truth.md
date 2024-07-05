@@ -2,7 +2,7 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "The Jama'ah Is What Conforms To The Truth Even If You Are Alone"
-hijri: Muharram 07, 1445 AH
+hijri: Muharram 07, 1445
 source: "Majmu’ Fatawa 8/179"
 lang: en
 category: [sects]

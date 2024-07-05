@@ -2,10 +2,11 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Ruling on Al-Mirghaniyyah or Al-Khatmiyyah Tariqah (Sufi order)"
-hijri: Safar 27, 1442 AH
+hijri: Safar 27, 1442
 source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 10578-1"
 lang: en
-category: [sufism]
+locale: en
+category: [sects]
 note: true
 uid: household-following-sufi-order
 locale: en

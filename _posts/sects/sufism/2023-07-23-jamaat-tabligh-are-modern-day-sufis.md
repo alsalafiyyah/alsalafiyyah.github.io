@@ -3,11 +3,12 @@ layout: post
 title: "Jama'at Al-Tabligh are Modern-Day Sufiyyah (Tasawwuf)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Al-Ajwibah Al-Mufidah p.32-35, Question no.11"
-hijri: "Muharram 05, 1445 AH"
+hijri: "Muharram 05, 1445"
 date: 2023-07-23
 lang: en
+locale: en
 note: false
-category: [sufism, tablighis]
+category: [sects]
 excerpt: "Even those who went out with the Jama'at at-Tabligh and studied with them wrote against them. Many people wrote about them and presented the errors that they have."
 muftis:
   shaykh: 
