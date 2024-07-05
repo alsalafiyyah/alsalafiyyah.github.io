@@ -3,11 +3,10 @@ layout: post
 title: "Ruling on Al-Mahdiyyah Tariqah (Sufi order)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 5235-2"
-category: ["sufism"]
-hijri: Dhul-Hijjah 7, 1441 AH
+category: [sects]
+hijri: Dhul-Hijjah 7, 1441
 lang: en
 locale: en
-uid: mahdiyyah
 note: true
 excerpt: "The claim that this man is Al-Mahdy and that the Prophet (peace be upon him) used to walk before his army and give him glad tidings of triumph is an open lie and contradiction to the Shari'ah and the realities agreed upon among Muslims."
 muftis:

@@ -3,10 +3,10 @@ layout: post
 title: "Ruling on sufis who stab themselves with daggers and knives and other tools"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Muqalat 9/285"
-category: ["sufism"]
+category: [sects, audios]
 mp3: 
 link: https://cutt.ly/gdDI3Ju
-hijri: Dhul-Hijjah 16, 1441 AH
+hijri: Dhul-Hijjah 16, 1441
 lang: en
 note: false
 locale: en

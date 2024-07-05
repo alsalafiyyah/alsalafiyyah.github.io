@@ -5,7 +5,9 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 5"
 hijri: Muharram 5, 1442 AH
 date: 2020/08/24
-category: ["sufism", funerals]
+locale: en
+lang: en
+category: [sects, funerals]
 excerpt: "Sitting on graves is not permissible as it is desecration of the graves. Therefore, it is not permissible to urinate or defecate on them or to do any act that is considered desecration of graves."
 muftis:
   shaykh: 

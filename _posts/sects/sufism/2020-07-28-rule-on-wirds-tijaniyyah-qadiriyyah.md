@@ -3,9 +3,10 @@ layout: post
 title: "Ruling on the Wirds of Al-Tijaniyyah, Al-Qadiriyyah and others"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 6460-6"
-category: ["sufism"]
-hijri: Dhul-Hijjah 7, 1441 AH
+category: [sects]
+hijri: Dhul-Hijjah 7, 1441
 lang: en
+locale: en
 note: true
 uid: rule-on-wirds-tijaniyyah-qadiriyyah
 excerpt: "It is better for Muslims to take Wird for themselves from the Qur'an and remember Allah with Dhikr reported from the Prophet (peace be upon him)."

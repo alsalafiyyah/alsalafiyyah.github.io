@@ -3,12 +3,11 @@ layout: post
 title: "Ruling on the Imamate of a follower of Al-Tijaniyyah tariqah (sufi order) and praying behind them"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 3087"
-category: ["sufism"]
-hijri: Dhul-Hijjah 7, 1441 AH
+category: [sects]
+hijri: Dhul-Hijjah 7, 1441
 lang: en
 note: true
 locale: en
-uid: rule-on-imamate-follower-tijaniyyah
 excerpt: "Al-Tijaniyyah Order is one of the worst sects in terms of deviation and misguidance and propagation of Bid'ahs (innovations in religion) which are sanctioned neither by Allah (Glorified be He) nor by His Messenger. It is not permissible to pray behind an Imam who follows this Tariqah for Salah behind him is invalid."
 muftis:
   chairman: 

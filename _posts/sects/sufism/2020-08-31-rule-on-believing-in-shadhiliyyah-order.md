@@ -3,12 +3,12 @@ layout: post
 title: "Ruling on believing in Al-Shadhiliyyah order"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 2986"
-hijri: Muharram 12, 1442 AH
+hijri: Muharram 12, 1442
 lang: en
 locale: en
 note: true
 uid: rule-on-believing-in-shadhiliyyah-order
-category: [sufism]
+category: [sects]
 excerpt: "You should follow the way of truthful believers who believe in what Allah has revealed and His Messenger (peace be upon him) has explained, and act upon the Book of Allah and the Sunnah of His Messenger (peace be upon him)."
 muftis:
   chairman: 

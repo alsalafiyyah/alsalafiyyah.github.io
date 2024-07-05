@@ -3,8 +3,8 @@ layout: post
 title: "Exaggeration of the Qadiriyyah order"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 1304"
-category: [sufism]
-hijri: Dhul-Hijjah 7, 1441 AH
+category: [sects]
+hijri: Dhul-Hijjah 7, 1441
 lang: en
 locale: en
 note: true

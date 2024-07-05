@@ -3,10 +3,11 @@ layout: post
 title: "Ruling on the recitation of Al-Tijaniyyah and Al-Qadiriyyah and praying behind their followers"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 4150-3"
-category: ["sufism"]
-hijri: Dhul-Hijjah 7, 1441 AH
+category: [sects]
+hijri: Dhul-Hijjah 7, 1441
 lang: en
 note: true
+locale: en
 uid: rule-on-recitation-tijaniyyah-qadiriyyah
 excerpt: "It is not permissible to supplicate to Allah through these utterances, offer Salah behind people who worship Allah through them, or perform the funeral prayer for them after their death."
 muftis:

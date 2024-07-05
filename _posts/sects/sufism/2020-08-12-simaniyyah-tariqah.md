@@ -3,8 +3,8 @@ layout: post
 title: "Ruling on Simaniyyah Tariqah (Sufi order)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 6/417"
-hijri: Dhul-Hijjah 22, 1441 AH
-tag: ["sufism"]
+hijri: Dhul-Hijjah 22, 1441
+tag: [sects]
 lang: en
 note: false
 locale: en

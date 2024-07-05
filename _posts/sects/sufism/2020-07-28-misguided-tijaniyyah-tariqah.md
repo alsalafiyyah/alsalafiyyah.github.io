@@ -3,7 +3,7 @@ layout: post
 title: "Al-Tijaniyyah is one of the most disbelieving and misguided tariqahs (sufi orders)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 5553-7"
-category: ["sufism"]
+category: [sects]
 hijri: Dhul-Hijjah 7, 1441 AH
 lang: en
 locale: en

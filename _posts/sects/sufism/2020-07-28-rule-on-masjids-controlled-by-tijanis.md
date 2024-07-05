@@ -3,10 +3,11 @@ layout: post
 title: "Ruling on Masjid controlled by Al-Tijaniyyah followers"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 2931"
-category: ["sufism"]
-hijri: Dhul-Hijjah 7, 1441 AH
+category: [sects]
+hijri: Dhul-Hijjah 7, 1441 
 lang: en
 note: true
+locale: en
 uid: rule-on-masjids-controlled-by-tijanis
 excerpt: "Refuting the superstitions and Bid'ah of the Tijanys is an obligation on the knowledgeable people of Ahl Al-Sunnah wal-Jama'ah (those adhering to the Sunnah and the Muslim community)."
 muftis:
