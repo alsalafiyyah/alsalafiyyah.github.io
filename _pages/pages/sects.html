@@ -1,0 +1,19 @@
+---
+layout: Page
+title: The Sects & Groups
+active: sects
+permalink: /sects/
+---
+<p>
+It is not Islam that is divided into sects that differ from one another and oppose one another; rather it is the people who differ according to how far away they are from the religion and the extent to which they have abandoned the Sunnah of their Prophet and followed their desires. It was narrated Ibn Majah (3992) and Ibn Abi ‘Asim in Al-Sunnah (53) that ‘Awf ibn Malik Al-Ashja‘i (may Allah be pleased with him) said: The Messenger of Allah ﷺ said: <b>“The Jews split into seventy-one sects, one of which will be in Paradise and seventy in Hell. The Christians split into seventy-two sects, seventy-one of which will be in Hell and one in Paradise. By the One in Whose hand is my soul, my ummah will split into seventy-three sects, one of which will be in Paradise and seventy-two in Hell.” It was said: O Messenger of Allah, who are they? He said: “The jama’ah (the main body of the Muslims).”</b> [Classed as sahih by Al-Albani in Al-Sahihah 1492] and according to another hadith: <b>“The path on which I and my Companions are.”</b> [Narrated and classed as sahih by Al-Tirmidhi 2641].
+</p>
+<table>
+{% for post in site.posts %}
+{% if post.categories contains 'sects' %}
+<tr><td>
+ <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+ <p><time>{{ post.date | date: "%b %d, %Y" }} / {{ post.hijri }}</time></p>
+</td></tr>
+{% endif %}
+{% endfor %}
+</table>
