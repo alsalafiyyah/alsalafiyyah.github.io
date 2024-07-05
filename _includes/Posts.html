@@ -1,26 +1,29 @@
-<ul 
- class="no-bullets"
- typeof="ItemList" vocab="https://schema.org/ItemList">
+<ul class="no-bullets">
  {% for post in paginator.posts %}
-   <li itemprop="itemListElement" typeof="ListItem">
+   <li>
+    <article role="article" itemid="{{ post.url }}" itemscope itemtype="http://schema.org/BlogPosting">
     <a 
      property="url" 
      href="{{ post.url }}"
      class="fatwas-title">          
-      <h3 class="content-title">
-       <span property="name">
+      <h3 
+       class="content-title" 
+       itemprop="headline">
        {{ post.title }}
-      </span>
       </h3>
     </a>
+    <link itemprop="mainEntityOfPage" href="{{ post.url }}"/>
     <date class="content-date">
      <meta itemprop="datePublished" content="{{ post.date | date: '%b %d, %Y' }}">
      {{ post.hijri }} // {{ post.date | date: "%b %d, %Y" }}
     </date>
-     <p class="content-excerpt" vocab="https://schema.org" itemtype="ItemList">
-       <span property="description">{% if post.excerpt and post.excerpt != empty %}{{ post.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape | truncate: 160 }}{% endif %}</span>
+     <p class="content-excerpt" itemprop="description">
+       {% if post.excerpt and post.excerpt != empty %}
+        {{ post.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape | truncate: 160 }}
+        {% endif %}
      </p>
-    <meta itemprop="position" content="{{ forloop.index }}" />
+    <meta itemprop="author" content="{{ post.publisher }}" />
+    </article>
    </li>
   {% endfor %}
 </ul>
