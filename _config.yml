@@ -91,7 +91,7 @@ defaults:
     values:
       layout: post
       locale: en
-      permalink: /audios/:title
+      permalink: /audio/:title
   - scope:
       path: "_pages"
       type: "pages"
