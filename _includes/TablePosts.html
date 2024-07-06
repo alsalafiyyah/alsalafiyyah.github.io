@@ -1,22 +1,25 @@
 <table>     
 {% assign posts = site.posts %}
-{% for c in site.posts %}	
+{% for post in site.posts %}	
   <tr>
    <td>
     <h3 class="content-title">
-     <a title="{{ c.title }}" href="{{ c.url }}">
-     {{ c.title }}
+     <a title="{{ post.title }}" href="{{ post.url }}">
+     {{ post.title }}
      </a>
     </h3>
     </a>
     <date class="content-date">
-      {{ c.hijri }} - {{ c.date | date_to_string }}
+      {{ post.hijri }} - {{ post.date | date_to_string }}
     </date>
     <p class="content-excerpt">
-      {{ c.excerpt | truncate: 160 | strip_html | strip }}
+      {{ post.excerpt | truncate: 160 | strip_html | strip }}
     </p>
    </td>    
    <td>
+   <a type="button" href="https://raw.githubusercontent.com/{{ site.github_username }}/{{ site.git_repo }}/master/{{ post.path }}" target="_blank">
+    View file
+   </a><br/>  
    <a type="button" href="https://www.github.com/{{ site.github_username }}/{{ site.git_repo }}/blob/master/{{ post.path }}" target="_blank">
     Edit
    </a>
