@@ -4,7 +4,7 @@ title: "A reply to the claims of BBC"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa Shaykh Ibn Baz 2/380"
 category: [refutals]
-hijri: Dhul-Qa'dah 27, 1441 AH
+hijri: Dhul-Qa'dah 27, 1441
 shaykhs: Shaykh ibn Baz
 ---
 

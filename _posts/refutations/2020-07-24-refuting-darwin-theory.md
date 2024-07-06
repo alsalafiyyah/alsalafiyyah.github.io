@@ -4,7 +4,7 @@ title: "Refuting Darwin's theory that man evolved from an ape-like creature"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 28/275"
 category: [darwinism, disbelievers, binbaz]
-hijri: Dhu al-Hijjah 3, 1441 AH
+hijri: Dhu al-Hijjah 3, 1441
 date: 2020/07/24
 shaykhs: Shaykh Ibn Baz
 ---
