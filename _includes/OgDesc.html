@@ -12,9 +12,7 @@
 <meta 
   name="summary'" 
   content="
-  {% if page.excerpt and page.excerpt != empty %}
-   {{ page.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape }}
-  {% elsif.post.content %}
+  {% if post.content %}
    {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace }}
   {% else %}
    {{ site.description }}
