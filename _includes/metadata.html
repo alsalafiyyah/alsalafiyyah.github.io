@@ -29,9 +29,9 @@
 <meta name="directory" content="submission">
 <meta name="news_keywords" content="{{ site.keywords }}">
 <meta name="keywords" content="{{ site.keywords }}"/>
-<meta name="description" content="{% if page.excerpt and page.excerpt != empty %}{{ page.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape }}{% else %}{{ site.description }}{% endif %}">
-<meta name="summary'" content="{% if page.excerpt and page.excerpt != empty %}{{ page.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape }}{% else %}{{ site.description }}{% endif %}">
-<meta property="og:description" content="{% if page.excerpt and page.excerpt != empty %}{{ page.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape }}{% else %}{{ site.description }}{% endif %}" />
+<meta name="description" content="{% if page.excerpt and page.excerpt != empty %}{{ page.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape }}{% elsif.site.description %}{{ site.description }}{% else %}{{ post.content | truncatewords: 30  | strip_html | normalize_whitespace }}{% endif %}">
+<meta name="summary'" content="{% if page.excerpt and page.excerpt != empty %}{{ page.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape }}{% elsif.site.description %}{{ site.description }}{% else %}{{ post.content | truncatewords: 30  | strip_html | normalize_whitespace }}{% endif %}">
+<meta property="og:description" content="{% if page.excerpt and page.excerpt != empty %}{{ page.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape }}{% elsif.site.description %}{{ site.description }}{% else %}{{ post.content | truncatewords: 30  | strip_html | normalize_whitespace }}{% endif %}" />
 <meta name="author" content="{{ site.author }}">
 <meta name="theme-color" content="Canvas">
 {% if page.url =='/' %}
