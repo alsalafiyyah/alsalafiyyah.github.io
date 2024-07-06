@@ -12,11 +12,11 @@
     <date class="content-date">{{ c.hijri }}</date>
     <p class="content-excerpt">{{ c.excerpt | escape | truncate: 155 }}</p>
    </td>    
-  </tr>      
-  <tr>
+   <td>
    <a type="button" href="https://www.github.com/{{ site.github_username }}/{{ site.git_repo }}/blob/master/{{ post.path }}" target="_blank">
     Edit file
    </a>
-  </tr>
+    </td>
+  </tr>      
 {% endfor %}	
 </table>
