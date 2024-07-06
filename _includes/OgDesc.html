@@ -1,9 +1,7 @@
 <meta 
   name="description" 
   content="
-  {% if page.content %}
-   {{ page.content | truncatewords: 30  | strip_html | normalize_whitespace  }}
-  {% else %}
+  {% if page.excerpt and page.excerpt != empty %}
    {{ page.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape }}
   {% else %}
    {{ site.description }}
@@ -11,39 +9,34 @@
 <meta 
   name="summary'" 
   content="
-  {% if page.content %}
-   {{ page.content | truncatewords: 30  | strip_html | normalize_whitespace  }}
-  {% else %}
+  {% if page.excerpt and page.excerpt != empty %}
    {{ page.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape }}
   {% else %}
    {{ site.description }}
   {% endif %}"/>
+<!-- Facebook -->
 <meta 
   property="og:description" 
   content="
-  {% if page.content %}
-   {{ page.content | truncatewords: 30  | strip_html | normalize_whitespace  }}
-  {% else %}
+  {% if page.excerpt and page.excerpt != empty %}
    {{ page.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape }}
   {% else %}
    {{ site.description }}
   {% endif %}"/>
+<!-- Twitter / X -->
 <meta 
   name="twitter:description" 
   content="
-  {% if page.content %}
-   {{ page.content | truncatewords: 30  | strip_html | normalize_whitespace  }}
-  {% else %}
+  {% if page.excerpt and page.excerpt != empty %}
    {{ page.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape }}
   {% else %}
    {{ site.description }}
   {% endif %}"/>
+<!-- Google -->
 <meta 
   itemprop="description" 
   content="
-  {% if page.content %}
-   {{ page.content | truncatewords: 30  | strip_html | normalize_whitespace  }}
-  {% else %}
+  {% if page.excerpt and page.excerpt != empty %}
    {{ page.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape }}
   {% else %}
    {{ site.description }}
