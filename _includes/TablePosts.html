@@ -13,6 +13,14 @@
       -ms-flex-align: center;
           align-items: center;
 }
+.inline,
+.inline li
+{
+  display: inline-block;
+  list-style-type: none;
+  padding-right: 10px;
+  float: left;
+  }  
 </style>
 <table>     
 {% assign posts = site.posts %}
@@ -32,17 +40,23 @@
       {{ post.excerpt | truncate: 160 | strip_html | strip }}
     </p>
     <div class="iconav content-date">
+    <ul class="inline">
+      <li>
      <a type="button" href="https://www.github.com/{{ site.github_username }}/{{ site.git_repo }}/blob/master/{{ post.path }}" target="_blank">
       <span class="material-symbols-outlined">
        edit_square
       </span> Edit 
-     </a>
+     </a>        
+      </li>
+      <li>
      <a type="button" href="https://raw.githubusercontent.com/{{ site.github_username }}/{{ site.git_repo }}/master/{{ post.path }}" target="_blank">
       View file 
       <span class="material-symbols-outlined">
        open_in_new
       </span> 
-     </a>    
+     </a>            
+      </li>
+    </ul>
     </div>
    </td>    
   </tr>      
