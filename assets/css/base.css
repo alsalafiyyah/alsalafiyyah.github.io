@@ -137,8 +137,9 @@ div.scrollmenu a:hover {
   text-decoration-color: var(--red);
 }
 aside {
- width: 100%;
- padding: 10px 20px;
+width: 100%;
+padding: 10px 20px;
+border-top: solid 3px var(--red);	
 }
 /* footer */
 .footer {
