@@ -1,0 +1,44 @@
+<meta 
+  name="description" 
+  content="
+  {% if page.excerpt and page.excerpt != empty %}
+   {{ page.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape }}
+  {% elsif.post.content %}
+   {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace }}
+  {% else %}
+   {{ site.description }}
+  {% endif %} 
+  ">
+<meta 
+  name="summary'" 
+  content="
+  {% if page.excerpt and page.excerpt != empty %}
+   {{ page.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape }}
+  {% elsif.post.content %}
+   {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace }}
+  {% else %}
+   {{ site.description }}
+  {% endif %} 
+  ">
+<meta 
+  property="og:description" 
+  content="
+  {% if page.excerpt and page.excerpt != empty %}
+   {{ page.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape }}
+  {% elsif.post.content %}
+   {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace }}
+  {% else %}
+   {{ site.description }}
+  {% endif %} 
+  "/>
+<meta 
+  name="twitter:description" 
+  content="
+  {% if page.excerpt and page.excerpt != empty %}
+   {{ page.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape }}
+  {% elsif.post.content %}
+   {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace }}
+  {% else %}
+   {{ site.description }}
+  {% endif %}  
+  ">
