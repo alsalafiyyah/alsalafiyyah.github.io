@@ -1,4 +1,19 @@
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+<link rel="stylesheet" 
+  href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+<style>
+.iconav, .iconav a {
+  display: flex;
+  align-items: center;
+}  
+.iconav, .iconav a {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+</style>
 <table>     
 {% assign posts = site.posts %}
 {% for post in site.posts %}	
@@ -10,7 +25,7 @@
      </a>
     </h3>
     </a>
-    <date class="content-date">
+    <div class="iconav content-date">
      <span class="material-symbols-outlined">calendar_month</span> {{ post.hijri }} - {{ post.date | date_to_string }} 
      <a type="button" href="https://www.github.com/{{ site.github_username }}/{{ site.git_repo }}/blob/master/{{ post.path }}" target="_blank">
       <span class="material-symbols-outlined">
@@ -23,7 +38,7 @@
        open_in_new
       </span> 
      </a>      
-    </date>
+    </div>
     <p class="content-excerpt">
       {{ post.excerpt | truncate: 160 | strip_html | strip }}
     </p>
