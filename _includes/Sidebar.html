@@ -5,7 +5,7 @@
   itemtype="http://schema.org/WPSideBar" 
   class="row">
  <section class="column">
-  {% for item in site.data.base.footer %}
+  {% for item in site.data.base.aside_quick_links %}
     <li> 
       <a href="{{ item.url }}" target="_blank">
        {{ item.name }}
@@ -14,7 +14,7 @@
    {% endfor %}
  </section>
  <section class="column">
-  {% for item in site.data.base.aside_useful_links %}
+  {% for item in site.data.base.aside_external_links %}
     <li> 
       <a href="{{ item.url }}" target="_blank">
        {{ item.name }}
