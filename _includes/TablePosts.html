@@ -11,10 +11,8 @@
     </a>
     <date class="content-date">{{ c.hijri }}</date>
     <p class="content-excerpt">
-      {% if post.excerpt %}
-      {{ c.excerpt | escape | truncate: 160 }}
-      {% else %}
-      {{ post.content | truncate: 160 }}
+      {{ c.excerpt | escape | truncate: 160 | strip_html }}
+      {{ c.content | truncate: 160 }}
       {% endif %}
     </p>
    </td>    
