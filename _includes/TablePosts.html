@@ -46,8 +46,7 @@ ul {
      <span class="material-symbols-outlined">calendar_month</span> {{ post.hijri }} - {{ post.date | date_to_string }} 
     </div>
     <p class="content-excerpt">
-      {{ post.excerpt | truncate: 160 | strip_html | normalize_whitespace }}
-      {{ post.content | truncatewords: 160  | strip_html | normalize_whitespace }}
+      {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace }}
     </p>
     <div class="iconav content-date">
     <ul class="inline">
