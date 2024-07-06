@@ -10,7 +10,13 @@
     </h3>
     </a>
     <date class="content-date">{{ c.hijri }}</date>
-    <p class="content-excerpt">{{ c.excerpt | escape | truncate: 155 }}</p>
+    <p class="content-excerpt">
+      {% if post.excerpt %}
+      {{ c.excerpt | escape | truncate: 160 }}
+      {% else %}
+      {{ post.content | truncate: 160 }}
+      {% endif %}
+    </p>
    </td>    
    <td>
    <a type="button" href="https://www.github.com/{{ site.github_username }}/{{ site.git_repo }}/blob/master/{{ post.path }}" target="_blank">
