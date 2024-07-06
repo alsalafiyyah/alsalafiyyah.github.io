@@ -11,24 +11,26 @@ nav:
   - name: Categories
     url: /category
     active: category
-  - name: Bid'ah
+
+aside_quick_links:
+  - name: Bid'ahs
     url: /bidah/
   - name: Wahhabism
     url: /wahhabism/
   - name: Groups & Sects
     url: /sects/
 
+aside_external_links:
+  - name: Instagram
+    url: https://instagram.com/alsalafiyyah
+  - name: AlFatawa.Com
+    url: https://al-fatawa.com/
+
 footer:
   - name: Sitemap
     url: /sitemap
   - name: RSS Feed
     url: /feed
-
-aside_useful_links:
-  - name: Instagram
-    url: https://instagram.com/alsalafiyyah
-  - name: AlFatawa.Com
-    url: https://al-fatawa.com/
 
 page: 
   NoFatwas: "There are no fatwas for this topic."
