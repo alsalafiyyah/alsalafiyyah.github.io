@@ -9,15 +9,16 @@
      </a>
     </h3>
     </a>
-    <date class="content-date">{{ c.hijri }}</date>
+    <date class="content-date">
+      {{ c.hijri }} - {{ post.date | date_to_string }}
+    </date>
     <p class="content-excerpt">
-      {{ c.excerpt | escape | truncate: 160 | strip_html }}
-      {{ c.content | truncate: 160 }}
+      {{ c.excerpt | escape | truncate: 160 | strip_html | strip }}
     </p>
    </td>    
    <td>
    <a type="button" href="https://www.github.com/{{ site.github_username }}/{{ site.git_repo }}/blob/master/{{ post.path }}" target="_blank">
-    Edit file
+    Edit
    </a>
     </td>
   </tr>      
