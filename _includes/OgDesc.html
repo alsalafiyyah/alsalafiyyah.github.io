@@ -12,7 +12,7 @@
 <meta 
   name="summary'" 
   content="
-  {% if post.content %}
+  {% if post.content > post.excerpt.size %}
    {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace }}
   {% else %}
    {{ site.description }}
