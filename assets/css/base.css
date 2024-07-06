@@ -136,6 +136,10 @@ div.scrollmenu a:hover {
   text-decoration-style: wavy;
   text-decoration-color: var(--red);
 }
+aside {
+ width: 100%;
+ padding: 10px 20px;
+}
 /* footer */
 .footer {
    background-color: var(--bg-footer);
