@@ -3,7 +3,8 @@ layout: post
 title: "Ruling on treatment with narcotics"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 4243-5"
-hijri: Muharram 15, 1442 AH
+hijri: Muharram 15, 1442
+excerpt: 
 date: 2020/09/3
 category: [treatments]
 shaykhs: 

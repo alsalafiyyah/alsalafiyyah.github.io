@@ -3,7 +3,8 @@ layout: post
 title: "Ruling on drinking the blood of human beings as a treatment for rabies"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 18253-1"
-hijri: Muharram 15, 1442 AH
+hijri: Muharram 15, 1442
+excerpt: 
 date: 2020/09/3
 category: [treatments]
 shaykhs: 

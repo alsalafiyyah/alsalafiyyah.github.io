@@ -3,8 +3,9 @@ layout: post
 title: "Ruling on organ transplants"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 8/34"
+excerpt: 
 category: [treatments]
-hijri: Dhul-Qa'dah 31, 1441 AH
+hijri: Dhul-Qa'dah 31, 1441
 date: 2020/07/22
 shaykhs: Shaykh Abdul-Aziz Ibn Baz
 ---

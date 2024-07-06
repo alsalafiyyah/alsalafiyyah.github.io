@@ -3,7 +3,8 @@ layout: post
 title: "Prohibited medicines"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 16805-3"
-hijri: Muharram 15, 1442 AH
+hijri: Muharram 15, 1442
+excerpt: 
 date: 2020/09/3
 category: [treatments]
 shaykhs: 

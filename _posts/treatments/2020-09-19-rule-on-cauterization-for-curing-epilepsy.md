@@ -2,7 +2,7 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Ruling on cauterization as a way of curing epilepsy"
-hijri: Safar 04, 1442 AH
+hijri: Safar 04, 1442
 lang: en
 category: ["treatments"]
 source: "Fatawa Al-Lajnah Al-Da'imah no.  7501-4"
