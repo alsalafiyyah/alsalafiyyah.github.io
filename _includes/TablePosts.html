@@ -10,10 +10,10 @@
     </h3>
     </a>
     <date class="content-date">
-      {{ c.hijri }} - {{ post.date | date_to_string }}
+      {{ c.hijri }} - {{ c.date | date_to_string }}
     </date>
     <p class="content-excerpt">
-      {{ c.excerpt | escape | truncate: 160 | strip_html | strip }}
+      {{ c.excerpt | truncate: 160 | strip_html | strip }}
     </p>
    </td>    
    <td>
