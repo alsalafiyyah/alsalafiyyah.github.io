@@ -145,7 +145,7 @@ input[type=search]:focus {
 }
 .tipue_search_content_bold
 {
-     color: var(--red);
+     color: var(--color-red);
 }
 .tipue_search_content_debug
 {
