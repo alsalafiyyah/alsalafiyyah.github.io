@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
 <table>     
 {% assign posts = site.posts %}
 {% for post in site.posts %}	
@@ -18,10 +19,14 @@
    </td>    
    <td>
    <a type="button" href="https://raw.githubusercontent.com/{{ site.github_username }}/{{ site.git_repo }}/master/{{ post.path }}" target="_blank">
-    View file
+    <span class="material-symbols-outlined">
+open_in_new
+    </span> View file
    </a><br/>  
    <a type="button" href="https://www.github.com/{{ site.github_username }}/{{ site.git_repo }}/blob/master/{{ post.path }}" target="_blank">
-    Edit
+    <span class="material-symbols-outlined">
+edit_square
+    </span> Edit
    </a>
     </td>
   </tr>      
