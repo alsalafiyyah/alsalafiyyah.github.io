@@ -2,12 +2,11 @@
 layout: compress
 ---
 <!DOCTYPE html>
-<html lang="{{ page.locale }}" vocab="https://schema.org/" typeof="WebPage">
+<html lang="{{ page.locale }}">
 <head>
 {% include metadata.html %}
 </head>
-<body role="document" onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}">
-<div vocab="https://schema.org/" typeof="WebSite"><!-- .container -->
+<body role="document" itemscope itemtype="https://schema.org/WebPage" onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}">
 {% include Header.html %}
 <main role="main"><!-- main -->
  <div class="container"><!-- .container -->
@@ -16,7 +15,6 @@ layout: compress
   </section><!-- /section -->
  </div><!-- /.container -->
 </main><!-- /main -->
-</div>
 <div class="spacer"></div>
 {% include LastModified.html %}
 {% include Sidebar.html %} 
