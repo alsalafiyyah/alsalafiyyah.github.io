@@ -1,8 +1,8 @@
 <meta 
   name="description" 
   content="
-  {% if page.date %}
-   {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace  }}
+  {% if page.content %}
+   {{ page.content | truncatewords: 30  | strip_html | normalize_whitespace  }}
   {% else %}
    {{ page.excerpt }}
   {% else %}
@@ -11,8 +11,8 @@
 <meta 
   name="summary'" 
   content="
-  {% if page.date %}
-   {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace  }}
+  {% if page.content %}
+   {{ page.content | truncatewords: 30  | strip_html | normalize_whitespace  }}
   {% else %}
    {{ page.excerpt }}
   {% else %}
@@ -21,8 +21,8 @@
 <meta 
   property="og:description" 
   content="
-  {% if page.date %}
-   {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace  }}
+  {% if page.content %}
+   {{ page.content | truncatewords: 30  | strip_html | normalize_whitespace  }}
   {% else %}
    {{ page.excerpt }}
   {% else %}
@@ -31,8 +31,8 @@
 <meta 
   name="twitter:description" 
   content="
-  {% if page.date %}
-   {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace  }}
+  {% if page.content %}
+   {{ page.content | truncatewords: 30  | strip_html | normalize_whitespace  }}
   {% else %}
    {{ page.excerpt }}
   {% else %}
@@ -41,8 +41,8 @@
 <meta 
   itemprop="description" 
   content="
-  {% if page.date %}
-   {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace  }}
+  {% if page.content %}
+   {{ page.content | truncatewords: 30  | strip_html | normalize_whitespace  }}
   {% else %}
    {{ page.excerpt }}
   {% else %}
