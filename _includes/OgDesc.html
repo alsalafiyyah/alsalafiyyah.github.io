@@ -1,60 +1,53 @@
 <meta 
   name="description" 
   content="
-  {% if page.excerpt and page.excerpt != empty %}
-   {{ page.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape }}
-  {% elsif.page.content %}
-   {{ page.content | truncatewords: 30  | strip_html | normalize_whitespace }}
+  {% if page.date %}
+   {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace  }}
+  {% else %}
+   {{ page.excerpt }}
   {% else %}
    {{ site.description }}
-  {% endif %} 
-  ">
+  {% endif %}"/>
 <meta 
   name="summary'" 
   content="
-  {% if page.content %}
-   {{ page.content | truncatewords: 30  | strip_html | normalize_whitespace  }}
+  {% if page.date %}
+   {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace  }}
+  {% else %}
+   {{ page.excerpt }}
   {% else %}
    {{ site.description }}
-  {% endif %} 
-  ">
+  {% endif %}"/>
 <meta 
   property="og:description" 
   content="
-  {% if page.excerpt and page.excerpt != empty %}
-   {{ page.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape }}
-  {% elsif.page.content %}
-   {{ page.content | truncatewords: 30  | strip_html | normalize_whitespace }}
+  {% if page.date %}
+   {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace  }}
+  {% else %}
+   {{ page.excerpt }}
   {% else %}
    {{ site.description }}
-  {% endif %} 
-  "/>
+  {% endif %}"/>
 <meta 
   name="twitter:description" 
   content="
-  {% if page.excerpt and page.excerpt != empty %}
-   {{ page.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape }}
-  {% elsif.page.content %}
-   {{ page.content | truncatewords: 30  | strip_html | normalize_whitespace }}
+  {% if page.date %}
+   {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace  }}
+  {% else %}
+   {{ page.excerpt }}
   {% else %}
    {{ site.description }}
-  {% endif %}  
-  ">
+  {% endif %}"/>
 <meta 
   itemprop="description" 
   content="
-  {% if page.content %}
-   {{ page.content | truncatewords: 30  | strip_html | normalize_whitespace  }}
+  {% if page.date %}
+   {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace  }}
+  {% else %}
+   {{ page.excerpt }}
   {% else %}
    {{ site.description }}
-  {% endif %} 
-  " />
+  {% endif %}"/>
 <meta 
   itemprop="image" 
-  content="
-  {% if page.content %}
-   {{ page.content | truncatewords: 30  | strip_html | normalize_whitespace  | markdownify }}
-  {% else %}
-   {{ site.description }}
-  {% endif %} 
-  "/>
+  content="{{ '/assets/images/fb.jpg' | absolute_url }}"/>
