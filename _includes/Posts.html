@@ -18,9 +18,7 @@
      {{ post.hijri }} // {{ post.date | date: "%b %d, %Y" }}
     </date>
      <p class="content-excerpt" itemprop="description">
-       {% if post.excerpt and post.excerpt != empty %}
-        {{ post.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape | truncate: 160 }}
-        {% endif %}
+       {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace | remove_first: "Question:" }}
      </p>
     <meta itemprop="author" content="{{ post.publisher }}" />
     </article>
