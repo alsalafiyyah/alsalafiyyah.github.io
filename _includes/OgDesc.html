@@ -13,7 +13,7 @@
   name="summary'" 
   content="
   {% if page.content %}
-   {{ page.content | truncatewords: 30  | strip_html | normalize_whitespace  | markdownify }}
+   {{ page.content | truncatewords: 30  | strip_html | normalize_whitespace  }}
   {% else %}
    {{ site.description }}
   {% endif %} 
@@ -44,7 +44,7 @@
   itemprop="description" 
   content="
   {% if page.content %}
-   {{ page.content | truncatewords: 30  | strip_html | normalize_whitespace  | markdownify }}
+   {{ page.content | truncatewords: 30  | strip_html | normalize_whitespace  }}
   {% else %}
    {{ site.description }}
   {% endif %} 
