@@ -6,20 +6,28 @@ uid: radd
 excerpt: Debunking and responding to common allegations or misconceptions against or about Islam.
 permalink: /radd/
 ---
-<table class="uk-table" id="table">	
- <tbody>     
-  {% for c in site.refutals %}	
-  <tr>
-   <td>
-    <h3>
-     <a class="uk-link-reset uk-margin-remove-bottom" title="{{ c.title }}" href="{{ c.url }}">
-     {{ c.title }}
-     </a>
-    </h3>
-    <p class="uk-text-meta uk-margin-remove-top">{{ c.hijri }}</p>
-    </a>
-   </td>    
-  </tr>      
-  {% endfor %}	
- </tbody>	
-</table>    
+{% assign prevflag = 1 %}
+{% assign nextflag = 1 %}
+
+{% for c in site.refutals %}
+  {% if c.title == page.title %}
+    {% assign currentItemIndex = forloop.index0 %}
+    {% if forloop.index == 1 %}
+      {% assign prevflag = 0 %}
+      {% assign nextflag = 1 %}
+    {% elsif forloop.index == forloop.length %}
+      {% assign prevflag = 1 %}
+      {% assign nextflag = 0 %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% if prevflag == 1 %}
+  {% assign prevItemIndex = currentItemIndex | minus: 1 %}
+  {% assign prevPost = site.refutals[prevItemIndex] %}
+{% endif %}
+
+{% if nextflag == 1 %}
+  {% assign nextItemIndex = currentItemIndex | plus: 1 %}
+  {% assign nextPost = site.refutals[nextItemIndex] %}
+{% endif %}
