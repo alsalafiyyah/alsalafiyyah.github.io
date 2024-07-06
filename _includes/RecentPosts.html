@@ -9,11 +9,17 @@
 <ul class="square">
 {% for post in site.posts limit:5 %}
 {% if post.url %}
- <li > 
-  <a href="{{ post.url }}" property="item" typeof="WebPage">
-  <span itemprop="name">{{ post.title | truncate: 60 }}</span>
-  </a>
-  <meta itemprop="position" content="{{ forloop.index }}" />
+ <li> 
+ <article role="article" itemid="http://example.com/article-1" itemscope itemtype="http://schema.org/BlogPosting">
+  <link itemprop="mainEntityOfPage" href="http://example.com/article-1" />
+	<h3 itemprop="headline" class="widget-title" style="font-size: 100%;">
+		<a itemprop="url" 
+         href="{{ post.url }}" 
+         title="{{ post.title }}">
+         {{ post.title | truncate: 60 }}
+      </a>
+	</h3>
+ </article>
  </li>
 {% endif %}
 {% endfor %}
