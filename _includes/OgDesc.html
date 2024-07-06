@@ -3,8 +3,8 @@
   content="
   {% if page.excerpt and page.excerpt != empty %}
    {{ page.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape }}
-  {% elsif.post.content %}
-   {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace }}
+  {% elsif.page.content %}
+   {{ page.content | truncatewords: 30  | strip_html | normalize_whitespace }}
   {% else %}
    {{ site.description }}
   {% endif %} 
@@ -12,8 +12,8 @@
 <meta 
   name="summary'" 
   content="
-  {% if post.content %}
-   {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace  | markdownify }}
+  {% if page.content %}
+   {{ page.content | truncatewords: 30  | strip_html | normalize_whitespace  | markdownify }}
   {% else %}
    {{ site.description }}
   {% endif %} 
@@ -23,8 +23,8 @@
   content="
   {% if page.excerpt and page.excerpt != empty %}
    {{ page.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape }}
-  {% elsif.post.content %}
-   {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace }}
+  {% elsif.page.content %}
+   {{ page.content | truncatewords: 30  | strip_html | normalize_whitespace }}
   {% else %}
    {{ site.description }}
   {% endif %} 
@@ -34,9 +34,27 @@
   content="
   {% if page.excerpt and page.excerpt != empty %}
    {{ page.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape }}
-  {% elsif.post.content %}
-   {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace }}
+  {% elsif.page.content %}
+   {{ page.content | truncatewords: 30  | strip_html | normalize_whitespace }}
   {% else %}
    {{ site.description }}
   {% endif %}  
   ">
+<meta 
+  itemprop="description" 
+  content="
+  {% if page.content %}
+   {{ page.content | truncatewords: 30  | strip_html | normalize_whitespace  | markdownify }}
+  {% else %}
+   {{ site.description }}
+  {% endif %} 
+  " />
+<meta 
+  itemprop="image" 
+  content="
+  {% if page.content %}
+   {{ page.content | truncatewords: 30  | strip_html | normalize_whitespace  | markdownify }}
+  {% else %}
+   {{ site.description }}
+  {% endif %} 
+  "/>
