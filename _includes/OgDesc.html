@@ -4,7 +4,7 @@
   {% if page.content %}
    {{ page.content | truncatewords: 30  | strip_html | normalize_whitespace  }}
   {% else %}
-   {{ page.excerpt }}
+   {{ page.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape }}
   {% else %}
    {{ site.description }}
   {% endif %}"/>
@@ -14,7 +14,7 @@
   {% if page.content %}
    {{ page.content | truncatewords: 30  | strip_html | normalize_whitespace  }}
   {% else %}
-   {{ page.excerpt }}
+   {{ page.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape }}
   {% else %}
    {{ site.description }}
   {% endif %}"/>
@@ -24,7 +24,7 @@
   {% if page.content %}
    {{ page.content | truncatewords: 30  | strip_html | normalize_whitespace  }}
   {% else %}
-   {{ page.excerpt }}
+   {{ page.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape }}
   {% else %}
    {{ site.description }}
   {% endif %}"/>
@@ -34,7 +34,7 @@
   {% if page.content %}
    {{ page.content | truncatewords: 30  | strip_html | normalize_whitespace  }}
   {% else %}
-   {{ page.excerpt }}
+   {{ page.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape }}
   {% else %}
    {{ site.description }}
   {% endif %}"/>
@@ -44,7 +44,7 @@
   {% if page.content %}
    {{ page.content | truncatewords: 30  | strip_html | normalize_whitespace  }}
   {% else %}
-   {{ page.excerpt }}
+   {{ page.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape }}
   {% else %}
    {{ site.description }}
   {% endif %}"/>
