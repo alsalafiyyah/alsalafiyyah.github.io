@@ -1,5 +1,6 @@
 <table>     
-  {% for c in site.posts %}	
+{% assign posts = site.posts %}
+{% for c in site.posts %}	
   <tr>
    <td>
     <h3 class="content-title">
@@ -12,5 +13,10 @@
     <p class="content-excerpt">{{ c.excerpt | escape | truncate: 155 }}</p>
    </td>    
   </tr>      
-  {% endfor %}	
+  <tr>
+   <a type="button" href="https://www.github.com/{{ site.github_username }}/{{ site.git_repo }}/blob/master/{{ post.path }}" target="_blank">
+    Edit file
+   </a>
+  </tr>
+{% endfor %}	
 </table>
