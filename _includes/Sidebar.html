@@ -6,16 +6,16 @@
  <section class="column">
   {% for item in site.data.base.footer %}
     <li> 
-      <a href="{{ item.url }}" property="item" typeof="WebPage" target="_blank">
+      <a href="{{ item.url }}" target="_blank">
        {{ item.name }}
       </a>
     </li>
    {% endfor %}
  </section>
  <section class="column">
-  {% for item in site.data.base.aside_useful-links %}
+  {% for item in site.data.base.aside_useful_links %}
     <li> 
-      <a href="{{ item.url }}" property="item" typeof="WebPage" target="_blank">
+      <a href="{{ item.url }}" target="_blank">
        {{ item.name }}
       </a>
     </li>
