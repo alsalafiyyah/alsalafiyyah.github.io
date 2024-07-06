@@ -22,7 +22,9 @@ footer:
   - name: Sitemap
     url: /sitemap
   - name: RSS Feed
-    url: /feed   
+    url: /feed
+
+aside_useful_links:
   - name: Instagram
     url: https://instagram.com/alsalafiyyah
   - name: AlFatawa.Com
