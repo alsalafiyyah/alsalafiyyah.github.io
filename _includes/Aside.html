@@ -1,0 +1,24 @@
+<aside 
+  role="complementary" 
+  itemscope 
+  itemtype="http://schema.org/WPSideBar" 
+  class="row">
+ <section class="column">
+  {% for item in site.data.base.footer %}
+    <li> 
+      <a href="{{ item.url }}" property="item" typeof="WebPage" target="_blank">
+       {{ item.name }}
+      </a>
+    </li>
+   {% endfor %}
+ </section>
+ <section class="column">
+  {% for item in site.data.base.aside_useful-links %}
+    <li> 
+      <a href="{{ item.url }}" property="item" typeof="WebPage" target="_blank">
+       {{ item.name }}
+      </a>
+    </li>
+   {% endfor %}
+ </section>
+</aside>
