@@ -27,6 +27,11 @@
     </a>
     <div class="iconav content-date">
      <span class="material-symbols-outlined">calendar_month</span> {{ post.hijri }} - {{ post.date | date_to_string }} 
+    </div>
+    <p class="content-excerpt">
+      {{ post.excerpt | truncate: 160 | strip_html | strip }}
+    </p>
+    <div class="iconav content-date">
      <a type="button" href="https://www.github.com/{{ site.github_username }}/{{ site.git_repo }}/blob/master/{{ post.path }}" target="_blank">
       <span class="material-symbols-outlined">
        edit_square
@@ -37,11 +42,8 @@
       <span class="material-symbols-outlined">
        open_in_new
       </span> 
-     </a>      
+     </a>    
     </div>
-    <p class="content-excerpt">
-      {{ post.excerpt | truncate: 160 | strip_html | strip }}
-    </p>
    </td>    
   </tr>      
 {% endfor %}	
