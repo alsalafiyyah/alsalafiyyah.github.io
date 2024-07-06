@@ -10,11 +10,12 @@
 {% for post in site.posts limit:5 %}
 {% if post.url %}
  <li> 
- <article role="article" 
-	 itemid="{{ post.url }" 
-	 itemscope 
-	 itemtype="http://schema.org/BlogPosting">
-  <link itemprop="mainEntityOfPage" href="{{ post.url }" />
+ <article 
+   role="article" 
+   itemid="{{ post.url }}" 
+   itemscope 
+   itemtype="http://schema.org/BlogPosting">
+  <link itemprop="mainEntityOfPage" href="{{ post.url }}" />
   <h3 itemprop="headline" class="widget-title" style="font-size: 100%;">
    <a itemprop="url" 
       href="{{ post.url }}" 
