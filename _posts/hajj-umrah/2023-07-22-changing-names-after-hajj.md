@@ -3,7 +3,8 @@ layout: post
 title: Ruling on Changing Names after Hajj
 publisher: alsalafiyyah@icloud.com
 source: Fatawa Al-Lajnah Al-Da’imah, Fatwa no. 3323, Question 9
-hijri: Muharram 04, 1445 AH
+hijri: Muharram 04, 1445
+category: [fatwas,hajj]
 lang: en
 note: true
 excerpt: What is the ruling on a person changing their name like most of the Indonesian pilgrims do? Indonesians are used to changing their names when they go to Makkah Al-Mukarramah
