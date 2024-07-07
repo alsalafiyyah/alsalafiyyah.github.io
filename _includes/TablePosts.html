@@ -41,6 +41,7 @@ ul {
      {{ post.title }}
      </a>
     </h3>
+     <p>{{ post.path }}</p>
     </a>
     <div class="iconav content-date">
      <span class="material-symbols-outlined">calendar_month</span> {{ post.hijri }} - {{ post.date | date_to_string }} 
@@ -74,8 +75,7 @@ ul {
       </li>
     </ul>
     </div>
-      <p>{{ post.path }}</p>
-      <p>
+      <div class="iconav content-date">
   <span class="material-symbols-outlined">sell</span> 
   {% if post %}
     {% assign categories = post.categories %}
@@ -86,7 +86,7 @@ ul {
   <a href="{{site.baseurl}}/category/{{category|slugize}}">{{category}}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}        
-      </p>  
+      </div>
    </td>    
   </tr>      
 {% endfor %}	
