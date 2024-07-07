@@ -3,9 +3,10 @@ layout: post
 title: "Ruling on listening to songs"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da’imah, Fatwa no. 16301‏, Question 3"
-hijri: Dhul-Hijjah 28, 1444 AH
+hijri: Dhul-Hijjah 28, 1444
 lang: en
 note: true
+category: [fatwas,music]
 excerpt: "Listening to songs is haram, for Allah (Exalted be He) says, And of mankind is he who purchases idle talks (i.e. music, singing) to mislead (men) from the path of Allah…"
 muftis:
   chairman: 
