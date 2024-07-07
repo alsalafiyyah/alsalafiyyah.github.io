@@ -2,8 +2,9 @@
 layout: post
 title: "What is the kind of bell that is forbidden?"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da’imah 26/284, Fatwa no.18952‏, Question 4"
-hijri: Dhul-Hijjah 27, 1444 AH
+source: "Fatawa Al-Lajnah Al-Da’imah 26/284, Fatwa no.18952, Question 4"
+hijri: Dhul-Hijjah 27, 1444
+category: [fatwas, music]
 lang: en
 note: false
 excerpt: "What is the kind of bell that is forbidden?"

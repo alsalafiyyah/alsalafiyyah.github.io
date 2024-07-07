@@ -3,9 +3,10 @@ layout: post
 title: "Ruling on listening to songs"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 5/298 question 2"
-hijri: Dhul-Hijjah 22, 1441 AH
+hijri: Dhul-Hijjah 22, 1441
 lang: en
 note: false
+category: [fatwas,music]
 excerpt: "I advise Muslim men and women to abstain from listening to songs, for they lead to great dangers. Nowadays, songs are everywhere on the radio, TV, tapes and it is a trial to Muslims."
 muftis:
   shaykh: 

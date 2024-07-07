@@ -2,8 +2,9 @@
 layout: post
 title: "Ruling on hearing songs or music without intending"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da’imah 26/238, Fatwa no.9259‏, Question 3"
-hijri: Dhul-Hijjah 28, 1444 AH
+source: "Fatawa Al-Lajnah Al-Da’imah 26/238, Fatwa no.9259, Question 3"
+hijri: Dhul-Hijjah 28, 1444
+category: [fatwas,music]
 lang: en
 note: true
 excerpt: "Listening to songs is not permissible. As for hearing them without intending to, as happens in the street or on television, then we hope that there is nothing wrong with it."

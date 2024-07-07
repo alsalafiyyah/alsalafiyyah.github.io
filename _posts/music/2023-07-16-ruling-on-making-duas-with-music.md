@@ -2,7 +2,7 @@
 layout: post
 title: "The ruling on supplications accompanied by music"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da’imah 26/227-228, Fatwa no. 6914‏, Question 14"
+source: "Fatawa Al-Lajnah Al-Da’imah 26/227-228, Fatwa no. 6914, Question 14"
 hijri: Dhul-Hijjah 28, 1444
 lang: en
 note: true

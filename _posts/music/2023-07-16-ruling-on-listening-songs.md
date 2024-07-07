@@ -2,7 +2,7 @@
 layout: post
 title: "Ruling on listening to songs"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da’imah, Fatwa no. 16301‏, Question 3"
+source: "Fatawa Al-Lajnah Al-Da’imah, Fatwa no. 16301, Question 3"
 hijri: Dhul-Hijjah 28, 1444
 lang: en
 note: true
