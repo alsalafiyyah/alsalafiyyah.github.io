@@ -5,7 +5,7 @@ title: Ruling on gathering on the Prophet's Mawlid
 date: 2024-07-07
 hijri: Muharram 01, 1446
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 5005‏, Question 13
-category: [fatwas, bidah, bidahs]
+category: [fatwas,bidah]
 note: true
 locale: en
 lang: en
