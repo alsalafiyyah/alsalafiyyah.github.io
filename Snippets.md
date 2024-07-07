@@ -209,6 +209,18 @@ ___
 {% if first_dir == 'bidah' %}
 {% endif %}
 {% endfor %}
+
+// Categories
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  {% for category in categories %}
+  <a href="{{site.baseurl}}/category/{{category|slugize}}">{{category}}</a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+
 ~~~
 
 ___
