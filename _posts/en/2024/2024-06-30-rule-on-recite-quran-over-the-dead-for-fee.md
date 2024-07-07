@@ -5,7 +5,7 @@ title: Ruling on reciting the Qur'an over the dead for a fee
 date: 2024-06-30
 hijri: Dhul-Hijjah 24, 1445
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 18224, Question 3
-category: [fatwas, quran, sufis, bidahs, bidah]
+category: [fatwas,bidah,sects]
 note: true
 locale: en
 lang: en
