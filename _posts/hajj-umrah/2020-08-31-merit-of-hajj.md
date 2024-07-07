@@ -3,21 +3,19 @@ layout: post
 title: "Merit of Hajj"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 6614-1"
-hijri: Muharram 12, 1442 AH
+hijri: Muharram 12, 1442
 date: 2020/08/31
-category: [hajj-umrah]
+category: [hajj, fatwas]
 shaykhs: 
  - Shaykh Abdul-Aziz ibn Baz
  - Shaykh Abdul-Razzaq al-Afify
  - Shaykh Abdullah ibn Ghudayyan
 ---
 
-Question:
-
+### Question:
 Are major sins forgiven by virtue of Hajj Mabrur (Hajj sincerely done, not mixed with any sin, and is accepted by Allah)? When is trade permissible in Hajj?
 
-Answer:
-
+### Answer:
 Firstly, it is authentically reported in the Two Sahih (authentic) Books of Hadith (i.e. Al-Bukhari and Muslim) on the authority of Abu Hurayrah (may Allah be pleased with him) who said that he heard the Messenger of Allah (peace be upon him) saying, “**Anyone who performs Hajj and does not use obscene language nor commits a sin, will return (pure of sin) as on the day their mother gave birth to them.**” (Agreed upon by Al-Bukhari and Muslim) [^1]
 
 The Prophet (peace be upon him) also said, “**From (one) ‘Umrah to (the next) ‘Umrah is an expiation for whatever (sins committed) between them, and the reward of Hajj Mabrur is nothing else than Jannah (Paradise).**” (Agreed upon by Al-Bukhari and Muslim) [^2]

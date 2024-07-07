@@ -2,22 +2,20 @@
 layout: post
 title: "Hajj performed by a person who committed an act of Kufr"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 836-3"
-hijri: Muharram 12, 1442 AH
+source: "Fatawa Al-Lajnah Ad-Da'imah no. 836 Question 3"
+hijri: Muharram 12, 1442
 date: 2020/08/31
-category: [hajj-umrah]
+category: [fatwas,hajj]
 shaykhs: 
  - Shaykh Abdul-Razzaq al-Afify
  - Shaykh Abdullah ibn Ghudayyan
  - Shaykh Abdullah ibn Mani'
 ---
 
-Question:
-
+### Question:
 After performing Hajj, a person committed Zina (sexual intercourse outside marriage) and sometimes neglected Salah (Prayer). Later, this person repented to Allah. Is this person's first Hajj sufficient or should they perform Hajj once again?
 
-Answer:
-
+### Answer:
 It was authentically reported from the Messenger of Allah (peace be upon him) that he stated, "**Islam is based on five pillars: testimony that there is no God but Allah and that Muhammad is the Messenger of Allah; offering Salah, giving Zakah; fasting in Ramadan; and performing Hajj.**" [^1]
 
 The issue of Salah is grave, as it is mentioned immediately after the two Shahadahs (Testimonies of Faith). Thus, the Prophet (peace be upon him) stated, "**That which differentiates us from the Kafirs (disbelievers) and hypocrites is offering Salah; a person who abandons it becomes a Kafir.**" [^2]
