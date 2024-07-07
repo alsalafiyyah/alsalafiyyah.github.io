@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Warning against Rashad Khalifa's denial of the Purified Sunnah"
+title: "Warning against Rashad Khalifa's denial of the Sunnah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa Shaykh Ibn Baz 2/400"
-category: [refutals, binbaz]
-hijri: Dhul-Qa'dah 27, 1441 AH
+category: [refutals,fatwas,sects]
+hijri: Dhul-Qa'dah 27, 1441
 shaykhs: Shaykh ibn Baz
 ---
 
