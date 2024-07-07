@@ -274,6 +274,14 @@ ___
     <option value="{{ site.baseurl }}/category/{{ category[0] }}">{{ category[0] | capitalize }} ({{ category[1].size }})</option>
     {% endfor %}
 </select>
+
+// tags
+{% for tag in post.tags %}
+<a href="{{ site.baseurl }}/tag/{{ tag | slugify }}">
+{{ tag }}
+</a>
+{% unless forloop.last %}, {% endunless %}
+{% endfor %}
 ~~~
 
 ___
