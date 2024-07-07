@@ -7,7 +7,7 @@ hijri: Dhul-Hijjah 28, 1444
 lang: en
 note: true
 excerpt: "If the supplications are tinged with bid'ah, this is even worse, for it combines amusement and heresy."
-category: [fatwas,bidah]
+category: [fatwas,bidah,music]
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz
