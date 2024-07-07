@@ -5,7 +5,7 @@ title: Every bid'ah is a going astray
 date: 2024-07-02
 hijri: Dhul-Hijjah 26, 1445
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 948, Question 3
-category: [fatwas, bidahs, bidah, hadits]
+category: [fatwas,bidah,hadiths]
 note: true
 locale: en
 lang: en
