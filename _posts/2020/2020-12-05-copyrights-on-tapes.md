@@ -2,10 +2,10 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Copyrights on tapes"
-hijri: "Rabi' Al-Thani 19, 1442 AH"
+hijri: "Rabi' Al-Thani 19, 1442"
 source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 18453"
 lang: en
-category: [transaction,copyright]
+category: [transaction,fatwas]
 note: true
 excerpt: "It is not permissible for a person to make copies of software programs protected by copyright unless the person obtains permission from the owner of these programs."
 muftis:
@@ -22,12 +22,10 @@ muftis:
       url: /biography/bakr/
 ---
 
-Question:
-
+### Question:
 I work in the field of information technology. Since I started work in this field, I have made CD copies of software programs I use in my work without purchasing the original CDs. It is important to note that these CDs have statements printed on them warning against making copies. The statements are similar to the 'All rights are reserved' statements we find printed on books. These CDs may be the intellectual property of a Muslim or a non-Muslim. My question now is: Is it permissible to make copies of such software programs? 
 
-Answer:
-
+### Answer:
 It is not permissible for a person to make copies of software programs protected by copyright unless the person obtains permission from the owner of these programs. The Prophet (peace be upon him) said: "**Muslims are on (adhere to) their conditions.**" [^1] And, "**The property of a Muslim is unlawful (to take), unless (he gives it) willingly.**" [^2] And he (peace be upon him) also said: "**Whoever does a lawful matter that has not been done by any other people, it belongs to him.**" [^3] 
 
 This applies to any person who owns these software programs whether a Muslim or a non-fighting Muslim because a non-fighting Muslim's rights are respected just like that of a Muslim.
