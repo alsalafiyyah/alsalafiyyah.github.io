@@ -5,8 +5,15 @@ permalink: /theming/
 ---
 <!DOCTYPE html>
 <html>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>   
 <head>
 <style>
+:root {
+  --system-ui: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  --red: #B04759;
+
 main {
   width: 90%;
   margin: 0 auto;
@@ -27,11 +34,16 @@ section {
   text-decoration: underline overline;
 }
 .wavy {
-  text-decoration: wavy;
+  text-decoration-style: wavy;
+  text-decoration-color: var(--red);
 }
 .text-decoration-none {
   text-decoration: none;
 }
+mark, 
+.mark {
+  background:linear-gradient(180deg, transparent 50%, var(--mark) 50%);
+}  
 </style>
 </head>
 <body>
@@ -44,7 +56,11 @@ section {
 <h3 class="underline">Heading underline</h3>
 <h3 class="wavy">Heading wavy</h3>
 <h3 class="underline-overline">Heading underline-overline</h3>
-<h3 class="underline-overline">Heading text-decoration-none</h3> 
+<h3 class="text-decoration-none">Heading text-decoration-none</h3> 
+</section>
+
+<section>
+  <mark>Marked</mark> text
 </section>
 
 </main>
