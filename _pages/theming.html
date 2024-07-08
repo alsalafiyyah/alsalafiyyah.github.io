@@ -27,6 +27,7 @@ section {
 }
 .overline {
   text-decoration: overline;
+  text-decoration-thickness: 50%;
 }
 .line-through {
   text-decoration: line-through;
@@ -35,18 +36,24 @@ section {
   text-decoration: underline;
 }
 .underline-with-color
-  text-decoration: underline var(--red);
+  text-decoration: underline solid var(--red) 50%;
 }  
 .underline-overline {
   text-decoration: underline overline;
 }
 .wavy {
-  text-decoration: wavy;
+  text-decoration: underline;
   text-decoration-style: wavy;
   text-decoration-color: var(--red);
 }
 .underline-overline-dotted {
   text-decoration: underline overline dotted;
+}  
+.dashed {
+  text-decoration-style: dashed;
+}
+.double {
+  text-decoration-style: double;
 }  
 .text-decoration-none {
   text-decoration: none;
@@ -67,6 +74,8 @@ mark,
 <h3 class="underline">Heading underline</h3>
 <h3 class="underline-with-color">Heading underline with color</h3>  
 <h3 class="wavy">Heading wavy</h3>
+<h3 class="dashed">Heading dashed</h3>  
+<h3 class="double">Heading double</h3>
 <h3 class="underline-overline">Heading underline-overline</h3>
 <h3 class="underline-overline-dotted">Heading underline-overline-dotted</h3>  
 <h3 class="text-decoration-none">Heading text-decoration-none</h3> 
