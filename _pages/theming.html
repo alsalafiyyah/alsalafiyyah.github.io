@@ -13,7 +13,11 @@ permalink: /theming/
 :root {
   --system-ui: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   --red: #B04759;
-
+  --mark: #BACDDB;
+html, body {
+  font-size: 18px;
+  font-family: var(--system-ui);
+}
 main {
   width: 90%;
   margin: 0 auto;
@@ -30,13 +34,20 @@ section {
 .underline {
   text-decoration: underline;
 }
+.underline-with-color
+  text-decoration: underline var(--red);
+}  
 .underline-overline {
   text-decoration: underline overline;
 }
 .wavy {
+  text-decoration: wavy;
   text-decoration-style: wavy;
   text-decoration-color: var(--red);
 }
+.underline-overline-dotted {
+  text-decoration: underline overline dotted;
+}  
 .text-decoration-none {
   text-decoration: none;
 }
@@ -54,8 +65,10 @@ mark,
 <h3 class="overline">Heading overline</h3>
 <h3 class="line-through">Heading line-through</h3>
 <h3 class="underline">Heading underline</h3>
+<h3 class="underline-with-color">Heading underline with color</h3>  
 <h3 class="wavy">Heading wavy</h3>
 <h3 class="underline-overline">Heading underline-overline</h3>
+<h3 class="underline-overline-dotted">Heading underline-overline-dotted</h3>  
 <h3 class="text-decoration-none">Heading text-decoration-none</h3> 
 </section>
 
