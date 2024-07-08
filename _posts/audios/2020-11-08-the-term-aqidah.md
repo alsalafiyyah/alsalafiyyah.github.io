@@ -10,7 +10,7 @@ date: 2020-11-08
 locale: en
 type: audio
 active: audios
-category: [islam, audios]
+category: [fatwas,audios,terminology]
 url: "https://binbaz.org.sa/fatwas/11533/%D9%85%D8%B5%D8%B7%D9%84%D8%AD-%D8%A7%D9%84%D8%B9%D9%82%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D9%83%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D8%A7%D8%A1"
 excerpt: Scholars use the word 'Aqidah on matters related to one's inner belief, those related to Tawhid (belief in the Oneness of Allah) as well as Allah's Attributes.
 muftis:
