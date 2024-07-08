@@ -9,6 +9,7 @@
      {% for item in site.data.base.footer %}
      <li property="itemListElement" typeof="ListItem"> 
       <a href="{{ item.url }}" property="item" typeof="WebPage" target="_blank">
+       <span class="material-symbols-outlined">rss_feed</span> 
        <span property="name">{{ item.name }}</span>
       </a>
       <meta property="position" content="{{ forloop.index }}" />
