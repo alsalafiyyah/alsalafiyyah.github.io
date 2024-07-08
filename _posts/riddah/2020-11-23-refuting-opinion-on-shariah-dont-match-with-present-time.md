@@ -2,12 +2,12 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Refuting those opining that the rulings of Shari'ah do not match with the present time"
-hijri: "Rabi' Al-Thani 07, 1442 AH"
+hijri: "Rabi' Al-Thani 07, 1442"
 source: "Majmu' Fatawa Shaykh Ibn Baz 4/415"
 lang: en
-category: [nawaqid, riddah]
+locale: en
+category: [refutals,fatwas,riddah]
 note: false
-uid: 
 excerpt: "Whoever claims that overlooking these rulings leads to more well-being, or deliberately supports such claim, is considered Kafir (disbeliever)."
 muftis:
   shaykh: 
@@ -15,12 +15,10 @@ muftis:
       url: /biography/binbaz/
 ---
 
-Question: 
-
+### Question: 
 A man allege that the Shari'ah contains some rulings incompatible with modern time and hence must be reconsidered and modified. They give as illustration the ruling pertinent to inheritance where the share of a man equals the share of two women. What is the Islamic view concerning those who make this claim?   
 
-Answer: 
-
+### Answer: 
 No one can object to or change the Shari'ah rulings that Allah has ordained and explained for His Slaves in the Qur'an or through His Messenger (peace be upon him). These rulings include, for instance, regulations concerning inheritance, Zakah (obligatory charity), Sawm (fasting), and the Five Obligatory Daily Prayers, and other ordinances which are ordained by Allah and agreed upon by the Muslim Ummah (nation). Adherence to these eternal decisive rulings is binding upon Muslims, from the time of the Prophet (peace be upon him) and until the Day of Resurrection. Among these rulings is the extra share of the inheritance given in certain circumstances to male heirs, the sons, the male offspring of the sons, the agnate and uterine brothers and to the father. It is obligatory to abide by these rulings, which are part of one's faith, as stated in the Qur'an and as agreed upon by Muslim scholars. 
 
 Whoever claims that overlooking these rulings leads to more well-being, or deliberately supports such claim, is considered Kafir (disbeliever). For, this would be a blatant opposition to Allah's (Glorified be He) Command, His Messenger's (peace be upon him) Sunnah, and Ijma' (consensus of scholars) of the Ummah. The ruler of the Muslim Ummah must ask the upholders of such claim to perform Tawbah (repentance to Allah), if they are Muslims. Else, they would become subject to capital punishment, for committing apostasy. The Prophet (peace be upon him) stated: "**Whoever changes his religion (Islam) must be executed.**" (Related by Al-Bukhari)[^1]. 
