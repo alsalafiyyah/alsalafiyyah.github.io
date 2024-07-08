@@ -10,9 +10,7 @@
   name="summary'" 
   content="
   {% if page.excerpt and page.excerpt != empty %}
-   {{ post.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape }}
-  {% elsif page.type == "post" %}
-   {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace | remove_first: "Question:" }}
+   {{ page.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape }}
    {% else %}
    {{ site.description }}
   {% endif %}"/>
