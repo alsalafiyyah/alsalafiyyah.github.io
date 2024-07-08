@@ -8,7 +8,7 @@
     <ul class="square" typeof="ItemList">
      {% for item in site.data.base.footer %}
      <li property="itemListElement" typeof="ListItem"> 
-      <a href="{{ item.url }}" property="item" typeof="WebPage" target="_blank">
+      <a href="{{ item.url }}" property="item" typeof="WebPage" target="_blank" class="iconav">
        <span class="material-symbols-outlined">rss_feed</span> 
        <span property="name">{{ item.name }}</span>
       </a>
