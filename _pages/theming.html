@@ -14,6 +14,7 @@ permalink: /theming/
   --system-ui: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   --red: #B04759;
   --mark: #BACDDB;
+
 html, body {
   font-size: 18px;
   font-family: var(--system-ui);
@@ -27,7 +28,7 @@ section {
 }
 .overline {
   text-decoration: overline;
-  text-decoration-thickness: 50%;
+  text-decoration-thickness: 30%;
 }
 .line-through {
   text-decoration: line-through;
@@ -36,7 +37,9 @@ section {
   text-decoration: underline;
 }
 .underline-with-color
-  text-decoration: underline solid var(--red) 50%;
+  text-decoration: underline;
+  text-decoration-color: var(--red);
+  text-decoration-thickness: 30%;
 }  
 .underline-overline {
   text-decoration: underline overline;
@@ -50,9 +53,11 @@ section {
   text-decoration: underline overline dotted;
 }  
 .dashed {
+  text-decoration: underline;
   text-decoration-style: dashed;
 }
 .double {
+  text-decoration: underline;
   text-decoration-style: double;
 }  
 .text-decoration-none {
@@ -60,7 +65,7 @@ section {
 }
 mark, 
 .mark {
-  background:linear-gradient(180deg, transparent 50%, var(--mark) 50%);
+  background: linear-gradient(180deg, transparent 50%, var(--mark) 50%);
 }  
 </style>
 </head>
