@@ -212,9 +212,9 @@ ___
 
 // Categories
   {% if post %}
-    {% assign categories = post.categories %}
+    {% assign category = post.categories %}
   {% else %}
-    {% assign categories = page.categories %}
+    {% assign category = page.categories %}
   {% endif %}
   {% for category in categories %}
   <a href="{{site.baseurl}}/category/{{category|slugize}}">{{category}}</a>
