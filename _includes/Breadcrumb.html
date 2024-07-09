@@ -8,7 +8,7 @@
       {% if page.layout == 'post' %}  
       <li itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
-        <a class="active" itemprop="item" href="{% if page.active == "audios" %}/audios{% elsif page.active == "category" %}/category{% elsif page.active == "muqolat" %}/muqolat{% else %}/fatwas{% endif %}">
+        <a class="active" itemprop="item" href="{% if page.active == "audios" %}/audios{% elsif page.active == "category" %}/category{% elsif page.active == "muqolat" %}/muqolat{% elsif page.active == "muqolat" %}/wahhabism{% else %}/fatwas{% endif %}">
             <span itemprop="name">{% if page.active == "audios" %}Audios{% elsif page.active == "category" %}Categories{% elsif page.active == "muqolat" %}Muqolat{% elsif page.active == "wahhabi" %}Wahhabism{% else %}Fatwas{% endif %}</span></a>
         <meta itemprop="position" content="2" />
       </li>
