@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: post
 title: "A brief of the Salafi Da'wah and the life of Shaykh Muhammad bin Abdul Wahhab"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb tape vol 3"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_709/nour_70901.mp3
-hijri: Dhul-Hijjah 16, 1441 AH
+hijri: Dhul-Hijjah 16, 1441
 note: false
 lang: en
 active: wahhabi

@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: post
 title: "Refuting the claims against Shaykh Muhammad ibn Abdul-Wahhab and his Da'wah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa al-Shaykh ibn Baz 9/234"
 date: 2020-07-17
-hijri: Dhul-Qa'dah 26, 1441 AH
+hijri: Dhul-Qa'dah 26, 1441
+locale: en
 lang: en
 active: wahhabi
 excerpt: "What is the ruling on someone who attacks and slanders Imam Muhammad Ibn 'Abdul-Wahhab (may Allah be merciful to him) and his Da'wah."

@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: "Wahhabiyah and Shaykh Muhammad ibn ‘Abdul-Wahhab"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 6477-3"
-hijri: Dhul-Hijjah 20, 1441 AH
+hijri: Dhul-Hijjah 20, 1441
+locale: en
 note: true
 lang: en
 active: wahhabi

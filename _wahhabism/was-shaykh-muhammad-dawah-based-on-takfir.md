@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: post
 title: "Was Shaykh Muhammad ibn Abdul-Wahhab's Da'wah based on Takfir?"
 publisher: "alsalafiyyah@icloud.com"
-hijri: "Rabi' Al-Awwal 25, 1442 AH"
+hijri: "Rabi' Al-Awwal 25, 1442"
 note: false
 lang: en
+locale: en
 active: wahhabi
 excerpt: "The Ever-Glorious Qur'an declares anyone who contradicts truth and right guidance to be a Kafir (disbeliever). Thus, there is evidence of Takfir in the Qur'an and Sunnah. Da'wah should only be based on clarifying the truth and always referring to the Qur'an and the Sunnah."
 muftis:

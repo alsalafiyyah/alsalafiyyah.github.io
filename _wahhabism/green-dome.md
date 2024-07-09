@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: post
 title: "The dome on the grave of the Prophet is no pretext"
 publisher: "alsalafiyyah@icloud.com"
-hijri: Dhul-Hijjah 24, 1441 AH
+hijri: Dhul-Hijjah 24, 1441
+locale: en
 note: false
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_864/nour_86402.mp3
 lang: en

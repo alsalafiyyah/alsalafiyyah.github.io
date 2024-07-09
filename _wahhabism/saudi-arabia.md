@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: "By the Mercy of Allah and His Benevolence the rulers of this country apply Shari'ah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Muqolat 23/188"
-hijri: Dhul-Hijjah 18, 1441 AH
+hijri: Dhul-Hijjah 18, 1441
+locale: en
 note: false
 lang: en
 active: wahhabi

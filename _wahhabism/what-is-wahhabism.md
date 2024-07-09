@@ -1,12 +1,13 @@
 ---
-layout: page
+layout: post
 title: "Wahhabism, what is it?"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb 3, tape no. 218 question 6"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_461/46106.mp3
-hijri: Dhul-Hijjah 13, 1441 AH
+hijri: Dhul-Hijjah 13, 1441
 note: false
 lang: en
+locale: en
 active: wahhabi
 excerpt: "Wahhabism is a word used by the enemies of Salafiyyah. They use it to describe those who followed Imam Muhammad ibn 'Abdul-Wahhab ibn Sulayman ibn Ali Al-Tamimi Al-Hanbali, who died in 1206 AH in Al-Dir'iyyah."
 muftis:

@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: "Some people accuse Your Eminence of being a religious bigot and the country of being Wahabi"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Muqolat 8/34"
-hijri: Dhul-Hijjah 19, 1441 AH
+hijri: Dhul-Hijjah 19, 1441
+locale: en
 note: false
 lang: en
 active: wahhabi

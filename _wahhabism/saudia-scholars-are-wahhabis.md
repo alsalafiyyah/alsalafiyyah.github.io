@@ -2,9 +2,10 @@
 layout: post
 title: "All of the scholars in Saudia are Wahhabis?"
 publisher: "alsalafiyyah@icloud.com"
-hijri: "Rabi' Al-Awwal 25, 1442 AH"
+hijri: "Rabi' Al-Awwal 25, 1442"
 note: false
 lang: en
+locale: en
 mp3: https://alsalafiyyah.github.io/assets/audios/saudia-scholars-wahhabis.mp3
 link: http://www.albaseerah.org/forum/showpost.php?p=14449&postcount=9
 translator: Albaseerah

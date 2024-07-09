@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: "Wahhabism is based on fulfilling the testimony that Muhammad is the Messenger of Allah and shunning Bid’ahs and superstitions"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Muqolat of Ibn Baz"
-hijri: Dhul-Hijjah 18, 1441 AH
+hijri: Dhul-Hijjah 18, 1441
+locale: en
 lang: en
 note: false
 active: wahhabi

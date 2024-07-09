@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: post
 title: "Imam Muhammad ibn 'Abdul-Wahhab: His Da'wah and biography"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa of Shaykh Ibn Baz p. 1/354"
-hijri: Dhul-Hijjah 18, 1441 AH
+hijri: Dhul-Hijjah 18, 1441
 lang: en
+locale: en
 active: wahhabi
 excerpt: "The reason for the people's anger at the Shaykh Muhammad bin Abdul-Wahhab was his attempts to enjoin the good and forbid the evil."
 muftis:

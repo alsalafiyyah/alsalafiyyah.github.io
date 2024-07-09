@@ -1,13 +1,14 @@
 ---
-layout: page
+layout: post
 title: "Accused of being a Wahhabi for Da'wah to Tawhid, Abandoning Shirk (polytheism) and Bid'ah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 3, tape no. 124, question 16"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_887/nour_88708.mp3
 link: shorturl.at/iKW36
-hijri: Dhul-Hijjah 16, 1441 AH
+hijri: Dhul-Hijjah 16, 1441
 note: false
 lang: en
+locale: en
 active: wahhabi
 excerpt: "There is a group of people, if we perform Da'wah to them, call them to Allah (Glorified and Exalted be He) advise them to abandon shirk, they will accuse us of being a Wahhabi. How do we deal with them?"
 muftis:

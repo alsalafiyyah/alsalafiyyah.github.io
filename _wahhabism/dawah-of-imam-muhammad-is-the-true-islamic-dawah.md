@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: "The Da'wah of Imam Muhammad ibn 'Abdul-Wahhab is the true Islamic Da'wah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu Fatawa wa Muqolat 1/378"
-hijri: Dhul-Hijjah 18, 1441 AH
+hijri: Dhul-Hijjah 18, 1441
+locale: en
 lang: en
 note: false
 active: wahhabi

@@ -4,7 +4,8 @@ title: "Do Wahhabism criticizes the Prophet's family"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa Shaykh ibn Baz 9/230"
 note: false
-hijri: Dhul-Qa'dah 26, 1441 AH
+hijri: Dhul-Qa'dah 26, 1441
+locale: en
 lang: en
 active: wahhabi
 excerpt: "Is it true that Wahhabism antagonizes Al-ul-Bayt (members of the Prophet's extended Muslim family) and criticizes the Prophet (peace be upon him)?"
