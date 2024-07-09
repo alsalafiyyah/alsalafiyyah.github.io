@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: "On false statement: 'Anyone who does not have a shaykh, his shaykh will be the 
 devil'"
 publisher: "alsalafiyyah@icloud.com"
