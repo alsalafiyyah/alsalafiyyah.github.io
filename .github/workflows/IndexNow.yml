@@ -17,4 +17,4 @@ jobs:
           sitemap-location: "https://alsalafiyyah.github.io/sitemap.xml"
           since: 1
           since-unit: "day"
-          key: ${{ secrets.INDEXNOW_KEY }}
+          key: 2b51c3c15bd24405b39e1cfa62fdf2aa
