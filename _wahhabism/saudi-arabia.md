@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "By the Mercy of Allah and His Benevolence the rulers of this country apply Shari'ah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Muqolat 23/188"
