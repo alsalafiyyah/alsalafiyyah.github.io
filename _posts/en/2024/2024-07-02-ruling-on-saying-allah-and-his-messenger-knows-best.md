@@ -9,7 +9,7 @@ category: [fatwas]
 note: true
 locale: en
 lang: en
-excerpt: 
+excerpt: As for saying Allah and His Messenger know best, this was permissible during the lifetime of the Messenger, but after his death, we should say Allah knows best.
 article_taken_from: 
   taken_from:
     - web_title: حكم الألفاظ التالية يعلم الله لا سمح الله
