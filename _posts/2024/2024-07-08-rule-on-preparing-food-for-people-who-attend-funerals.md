@@ -9,7 +9,7 @@ category: [fatwas, bidah, funerals]
 note: true
 locale: en
 lang: en
-excerpt: 
+excerpt: Is it permissible for the family of the deceased to cook food during the same day in which a person passes away to serve it to those who attend the funeral procession.
 article_taken_from: 
   taken_from:
     - web_title:  دعوى أن القبر مظلم حتى يطعم عن الميت
