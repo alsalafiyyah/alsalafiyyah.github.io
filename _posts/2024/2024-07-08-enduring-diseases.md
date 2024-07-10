@@ -9,7 +9,7 @@ category: [fatwas]
 note: true
 locale: en
 lang: en
-excerpt: 
+excerpt: Illness and the like can also be a means of punishment or an expiation for those who show patience on affliction, and hope for Allah’s Reward.
 article_taken_from: 
   taken_from:
     - web_title: الصبر على المرض 
