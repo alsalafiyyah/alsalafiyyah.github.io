@@ -20,11 +20,9 @@ a {
   <thead>
     <th>No</th>
     <th>Date/Hijri</th>
+    <th>Layout</th>
     <th>Title</th>
     <th>Lang/Locale</th>
-    <th>Layout</th>
-    <th>URL</th>
-    <th>Source</th>
     <th>Excerpt</th>    
     <th>UID</th>
     <th>Categories</th>
@@ -42,13 +40,11 @@ a {
   </td>
   <td>{{ post.layout }}</td>
   <td><a href="{{ post.url }}" target="_blank">{{ post.title }}</a></td>
-  <td>
+   <td>
    Lang : {{ post.lang }} <br/>
    Locale: {{ post.locale }}
   </td>
-  <td>{{ post.url }}</td>
-  <td>{{ post.source }}</td>
-  <td>{{ post.excerpt | truncate: 20 }}</td>
+  <td>{{ post.excerpt | truncate: 50 }}</td>
   <td>{{ post.uid }}</td>
   <td>{{ post.category }}</td>
   <td>{{ post.path }}</td>
