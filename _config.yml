@@ -127,6 +127,10 @@ collections:
   en: 
     output: true        
     permalink: /:collection/:slug
+  previews:
+    output: true
+    permalink: /previews/:slug/
+
 
 # Alifta Scholars
 group1:
