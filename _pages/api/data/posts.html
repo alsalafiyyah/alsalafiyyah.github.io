@@ -18,20 +18,18 @@ a {
 <div style="overflow-x:auto;">
 <table style="width: 100%;">
   <thead>
-    <th>NO</th>
-    <th>Date</th>
-    <th>Hijri</td>
+    <th>No</th>
+    <th>Date/Hijri</th>
     <th>Title</th>
-    <th>Lang</th>
-    <th>Locale</th>
+    <th>Lang/Locale</th>
     <th>Layout</th>
     <th>URL</th>
     <th>Source</th>
     <th>Excerpt</th>    
     <th>UID</th>
-   <th>Categories</th>
-   <th>Path</th>
-   <th>Action</th>
+    <th>Categories</th>
+    <th>Path</th>
+    <th>Action</th>
   </thead>
 <tbody>
 {% assign posts = site.posts %}
@@ -39,16 +37,18 @@ a {
 <tr>
   <td>{{ forloop.index }}</td>
   <td>
-    {{ post.date | date_to_string }} 
+    Date: {{ post.date | date_to_string }} <br/>
+    Hijri: {{ post.hijri }}
   </td>
-  <td>{{ post.hijri }}</td>
-  <td><a href="{{ post.url }}" target="_blank">{{ post.title }}</a></td>
-  <td>{{ post.lang }}</td>
-  <td>{{ post.locale }}</td>
   <td>{{ post.layout }}</td>
+  <td><a href="{{ post.url }}" target="_blank">{{ post.title }}</a></td>
+  <td>
+   Lang : {{ post.lang }} <br/>
+   Locale: {{ post.locale }}
+  </td>
   <td>{{ post.url }}</td>
   <td>{{ post.source }}</td>
-  <td>{{ post.excerpt }}</td>
+  <td>{{ post.excerpt | truncate: 20 }}</td>
   <td>{{ post.uid }}</td>
   <td>{{ post.category }}</td>
   <td>{{ post.path }}</td>
