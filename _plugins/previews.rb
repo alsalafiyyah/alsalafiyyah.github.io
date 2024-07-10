@@ -23,7 +23,7 @@ module Filter
 
       # Add document to the collection
       site.collections['previews'].docs << preview_doc
-
+      
     end
   end
 end
@@ -35,5 +35,11 @@ Jekyll::Hooks.register :site, :post_read do |site, payload|
   # written and regenerated
   if !site.config['serving']
     Filter.process(site, payload)
+  end
+end
+
+module RemovePreviews
+  def self.process(site, payload)
+    FileUtils.rm_rf("./_previews/.", secure: true)
   end
 end
