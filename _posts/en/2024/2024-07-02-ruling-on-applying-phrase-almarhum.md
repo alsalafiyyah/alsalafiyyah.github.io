@@ -9,7 +9,7 @@ category: [fatwas]
 note: true
 locale: en
 lang: en
-excerpt: 
+excerpt: It is impermissible for anyone to declare that Allah has bestowed forgiveness or mercy upon a deceased person unless there is a clear text. 
 article_taken_from: 
   taken_from:
     - web_title: إطلاق لفظ المرحوم والمغفور له على المتوفى
