@@ -44,6 +44,12 @@
   {% else %}
    {{ site.description }}
   {% endif %}"/>
+{% if page.auto_image %}
+<meta 
+  itemprop="image" 
+  content="{{ site.url }}/assets/images/previews/{{ page.slug }}.png"/>
+{% else %}
 <meta 
   itemprop="image" 
   content="{{ '/assets/images/fb.jpg' | absolute_url }}"/>
+{% endif %}
