@@ -32,7 +32,7 @@ layout: null
     {% endif %}
 
     {% assign posts = site.posts | where_exp: "post", "post.draft != true" %}
-    {% for post in posts %}
+    {% for post in posts limit: 50 %}
         <entry{% if post.lang %}{{" "}}xml:lang="{{ post.lang }}"{% endif %}>
             <title type="html">{{ post.title | smartify | strip_html | normalize_whitespace | xml_escape }}</title>
             <link href="{{ site.url }}{{ post.url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
