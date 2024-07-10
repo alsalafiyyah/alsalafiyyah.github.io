@@ -9,7 +9,7 @@ category: [fatwas]
 note: true
 locale: en
 lang: en
-excerpt: I live with my parents, brothers, and sisters. We all love and respect each other, all praise be to Allah. I love my family very much and this makes me very worried when any member of my family falls sick to the extent that I cannot speak of anything.
+excerpt: The knowledge about this matter will not increase or decrease our faith. Thus, we should neither believe nor deny what they say.
 shaykhs: 
  - Sh. Ibn Baz
  - Sh. Abdul-Razzaq Afifi
