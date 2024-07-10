@@ -9,7 +9,7 @@ category: [fatwas]
 note: true
 locale: en
 lang: en
-excerpt: 
+excerpt: A Muslim should depend on Allah and hold firm to His Rope in bringing benefit and removing harm. If a person is inflicted with a calamity or adversity, they should be patient and seek Allah's Reward for it.
 article_taken_from: 
   taken_from:
     - web_title:  الصبر عند المصيبة
