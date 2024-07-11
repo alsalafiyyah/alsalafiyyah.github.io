@@ -3,18 +3,17 @@ layout: post
 title: "Ruling on reciting Qur'an over the dead"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 9/321"
-hijri: Muharram 6, 1442 AH
+hijri: Muharram 6, 1442
 date: 2020/08/25
-category: ["funerals", bidah]
+category: [funerals, bidah, fatwas]
+excerpt: Reciting the Qur'an over or for the sake of the dead is bid'ah and taking rewards for that is impermissible, for there is no legal foundation in this regard.
 shaykhs: Shaykh Ibn Baz
 ---
 
-Question:
-
+### Question:
 Some people recite the Qur'an by the grave for/over the dead in return for certain rewards. Do the dead avail of this recitation? When a person dies, people here are accustomed to recite the Qur'an, slaughter animals, and make banquets. Is this permissible?
 
-Answer:
-
+### Answer:
 Reciting the Qur'an over or for the sake of the dead is Bid'ah (innovation in religion) and taking rewards for that is impermissible, for there is no legal foundation in this regard. Acts of worship may only be established by means of legal evidence and no act is permissible unless prescribed by Allah. The Prophet (peace be upon him) said, "Whoever introduces things extraneous to our affair i.e. religion, will have them rejected." Agreed upon its authenticity i.e. reported by Al-Bukhari and Muslim [^1]. 
 
 Similarly, slaughtering animals and preparing food for the sake of the dead, are all unacceptable Bid`ahs, which are impermissible to observe at any time, for there is no legal text of the pure Shari'ah to lend it support. It is an act of the period of ignorance. The Prophet (peace be upon him) said, "Among my people there are four characteristics belonging to pre-Islamic period which they do not abandon: Boasting of forefathers, reviling other peoples' genealogies, seeking rain by stars, and lamentation." [^2]

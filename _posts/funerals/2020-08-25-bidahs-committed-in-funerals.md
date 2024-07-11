@@ -3,18 +3,17 @@ layout: post
 title: "Bid'ahs committed in funerals"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 9/318"
-hijri: Muharram 6, 1442 AH
+hijri: Muharram 6, 1442
 date: 2020/08/25
-category: ["funerals", bidah]
+category: [funerals, bidah, fatwas]
+excerpt: Such traditions are baseless in the purified Shari'ah. Rather, they are bid'ahs related to Jahiliyyah.
 shaykhs: Shaykh Ibn Baz
 ---
 
-Question:
-
+### Question:
 What is the ruling on some of the traditions observed in funerals such as holding banquets, reciting the Ever-Glorious Qur'an, and marking the passage of forty days or a year after the death of a person?
 
-Answer:
-
+### Answer:
 Such traditions are baseless in the purified Shari'ah (Islamic law). Rather, they are Bid'ahs (innovations in religion) related to Jahiliyyah (pre-Islamic time of ignorance). Holding a banquet for the death of someone and inviting the neighbors and the relatives to it is a Bid'ah which is not permissible. Likewise, observing such matters every week or at the passage of a year is an act of Jahiliyyah. It is prescribed for the family of the deceased to practice patience seeking the reward from Allah and to say as the patient people say "To Allah We belong, and to Him we shall return" and Allah promises them a lot of good things. 
 
 Allah (Glorified be He) says: "**They are those on whom are the Salawât (i.e. who are blessed and will be forgiven) from their Lord, and (they are those who) receive His Mercy, and it is they who are the guided ones.**" [al-Baqarah: 157]
