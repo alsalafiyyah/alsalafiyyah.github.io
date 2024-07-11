@@ -5,9 +5,8 @@ title: Ruling on the call to rapprochement between religions
 hijri: Safar 02, 1442 AH
 lang: en
 locale: en
-uid: rule-on-calling-to-unity-with-false-beliefs
 note: true
-category: ["walabara", shiah]
+category: [walabara, sects, fatwas]
 source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 7807-2"
 excerpt: "Druze, Al-Nusayriyyah, Al-Isma'iliyyah and those who follow them such as Babists and Baha'is have manipulated the religious texts; legislated for themselves what Allah has not permitted for them; and imitated the Jews and the Christians in their distortions"
 muftis:
@@ -24,14 +23,11 @@ muftis:
       url: /biography/qaud/
 ---
 
-Question:
-
+### Question:
 Is the call for rapprochement between religions (Islam - Christianity - Judaism) a legitimate one? Is it permissible for a Muslim believer to support it? I heard that this is done by some scholars in Al-Az-har and other Islamic institutions. Is the call for rapprochement between Ahl-ul-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream) and the Shiites, Druze, Al-Isma'iliyyah, Al-Nusayriyyah and such sects useful for Muslims? Is reconciliation between them possible, although all of these sects entail Shirk (associating others with Allah in His Divinity or worship), offense to the Messenger of Allah (peace be upon him), and hostility towards Islam and Ahl-ul-Sunnah wal-Jama'ah? Is this rapprochement permissible according to Shari'ah? 
 
-Answer:
-
+### Answer:
 ### First
-
 The roots of Iman (faith) which Allah has revealed to His Messengers in the Holy Books: Tawrah (Torah), Injil (Gospel), Zabur (Psalms), and the Qur'an; and which the Messengers Ibrahim (Abraham), Musa (Moses), 'Isa (Jesus), and other Messengers (peace be upon them) called to, are all the same. The former ones of them told the latter about them; and the latter confirmed what the former said, even if they differed in the branches, each according to the circumstances of their own era and the benefit of the people at their time. This is the wisdom and mercy of Allah, as He says, "**The Messenger (Muhammad صلى الله عليه وسلم) believes in what has been sent down to him from his Lord, and (so do) the believers. Each one believes in Allâh, His Angels, His Books, and His Messengers. (They say), "We make no distinction between one another of His Messengers" - and they say, "We hear, and we obey. (We seek) Your Forgiveness, our Lord, and to You is the return (of all).**" (Surah Al-Baqarah, 2: 285).
 
 Allah also says, "**And those who believe in Allâh and His Messengers and make no distinction between any of them (Messengers), We shall give them their rewards; and Allâh is Ever Oft-Forgiving, Most Merciful.**" (Surah Al-Nisa', 4: 152). 
