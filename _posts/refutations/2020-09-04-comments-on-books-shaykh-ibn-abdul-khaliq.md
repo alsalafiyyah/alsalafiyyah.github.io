@@ -3,7 +3,7 @@ layout: post
 title: "Comments on some books of Shaykh Abdul-Rahman ibn Abdul-Khaliq"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat p. 8/240"
-category: [faywas,refutals,sects]
+category: [fatwas,refutals,sects]
 hijri: Muharram 16, 1442
 date: 2020-09-04
 shaykhs: Shaykh Abdul-Aziz Ibn Baz
