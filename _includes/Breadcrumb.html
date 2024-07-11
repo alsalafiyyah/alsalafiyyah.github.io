@@ -8,14 +8,14 @@
       {% if page.layout == 'post' %}  
       <li itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
-        <a class="active" itemprop="item" href="{% if page.active == "audios" %}/audios{% elsif page.active == "category" %}/category{% elsif page.active == "muqolat" %}/muqolat{% elsif page.active == "wahhabi" %}/wahhabism{% else %}/fatwas{% endif %}">
-            <span itemprop="name">{% if page.active == "audios" %}Audios{% elsif page.active == "category" %}Categories{% elsif page.active == "muqolat" %}Muqolat{% elsif page.active == "wahhabi" %}Wahhabism{% else %}Fatwas{% endif %}</span></a>
+        <a class="active" itemprop="item" href="{% if page.active == "audios" %}/audios{% elsif page.active == "biography" %}/biography{% elsif page.active == "category" %}/category{% elsif page.active == "muqolat" %}/muqolat{% elsif page.active == "wahhabi" %}/wahhabism{% else %}/fatwas{% endif %}">
+            <span itemprop="name">{% if page.active == "audios" %}Audios{% elsif page.active == "biography" %}Biography{% elsif page.active == "category" %}Categories{% elsif page.active == "muqolat" %}Muqolat{% elsif page.active == "wahhabi" %}Wahhabism{% else %}Fatwas{% endif %}</span></a>
         <meta itemprop="position" content="2" />
       </li>
       {% endif %}   
       <li itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
-        <span itemprop="name">{{ page.title | truncate: 20 }}</span>
+        <span itemprop="name">{{ page.title | truncate: 100 }}</span>
         <meta itemprop="position" content="{% if page.layout == 'post' %}3{% else %}2{% endif %}{% if page.active == "category" %}3{% endif %}" />
       </li>
     </ol>
