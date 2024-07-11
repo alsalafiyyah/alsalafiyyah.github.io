@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "This is what Shaykh Muhammad ibn Abdul-Wahhab (may Allah be merciful to him) believed in"
+title: "This is what Shaykh Muhammad ibn Abdul-Wahhab believed in"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 1/222"
-category: [wahhabism]
-hijri: Dhu al-Hijjah 6, 1441 AH
+category: [fatwas]
+hijri: Dhul-Hijjah 6, 1441
 date: 2020/07/27
+active: wahhabi
 shaykhs: Shaykh Ibn Baz
 excerpt: Wahhabism is based on fulfilling the testimony that Muhammad is the Messenger of Allah and shunning Bid'ahs and superstitions as well as anything that contradicts the legislation brought by the Messenger of Allah, Muhammad (peace be upon him).
 ---
