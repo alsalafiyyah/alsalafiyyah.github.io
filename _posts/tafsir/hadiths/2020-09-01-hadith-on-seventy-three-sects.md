@@ -3,10 +3,10 @@ layout: post
 title: "The Hadith on splitting of this Ummah into seventy-three sects"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 830"
-hijri: Muharram 13, 1442 AH
+hijri: Muharram 13, 1442
 lang: en
-excerpt: The Hadith on This Ummah (nation) will split into seventy-three sects, all of them will be in Hellfire except one.
-category: ["tafsir", hadiths, wahhabism]
+excerpt: The Hadith on This Ummah will split into seventy-three sects, all of them will be in Hellfire except one.
+category: [tafsir, hadiths, sects]
 muftis:
   chairman: 
     - name: Shaykh Ibrahim ibn Muhammad Aal Al-Shaykh
@@ -19,9 +19,8 @@ muftis:
       url: /biography/mani/
 ---
 
-Question:
-
-I read a Hadith mentioned by the Shaykh of Islam [Muhammad ibn 'Abdul-Wahhab](/wahhabism/), in his book entitled “Mukhtasar Sirat Al-Rasul” (The Abridged Biography of the Prophet), which states: "**This Ummah (nation) will split into seventy-three sects, all of them will be in Hellfire except one.**"
+### Question:
+I read a Hadith mentioned by the Shaykh of Islam Muhammad ibn 'Abdul-Wahhab, in his book entitled “Mukhtasar Sirat Al-Rasul” (The Abridged Biography of the Prophet), which states: "**This Ummah (nation) will split into seventy-three sects, all of them will be in Hellfire except one.**"
 
 I would like a clarification of this issue about which Imam Muhammad ibn 'Abdul-Wahhab said in his previously mentioned book: “**This is one of the most crucial issues. Whoever understands it has well comprehended the religion, and whoever applies it is a true Muslim. May Allah, the Most Generous, grant us its understanding and the ability to apply it.**”
 
@@ -32,7 +31,7 @@ I would also like to know the answer to the following questions, which revolve a
 
 Answer:
 
-**First**, what Imam [Shaykh Muhammad ibn 'Abdul-Wahhab](/wahhabism/) (may Allah be merciful to him) mentioned in “Mukhtasar Al-Sirah” is part of a Sahih (authentic) and well-known Hadith, narrated by the Compilers of Sunan (Hadith compilations classified by jurisprudential themes) and Musnads (Hadith compilations according to complete chains of narration), such as Abu Dawud, Al-Nasa'i, Al-Tirmidhy and others with different wordings, including: “**The Jews split into seventy-one sects, all of which are in Hellfire except one; the Christians split into seventy-two sects, all of which are in Hellfire except one; and this Ummah will split into seventy-three sects, all of which are in Hellfire except one.**” [^1]
+**First**, what Imam Shaykh Muhammad ibn 'Abdul-Wahhab (may Allah be merciful to him) mentioned in “Mukhtasar Al-Sirah” is part of a Sahih (authentic) and well-known Hadith, narrated by the Compilers of Sunan (Hadith compilations classified by jurisprudential themes) and Musnads (Hadith compilations according to complete chains of narration), such as Abu Dawud, Al-Nasa'i, Al-Tirmidhy and others with different wordings, including: “**The Jews split into seventy-one sects, all of which are in Hellfire except one; the Christians split into seventy-two sects, all of which are in Hellfire except one; and this Ummah will split into seventy-three sects, all of which are in Hellfire except one.**” [^1]
 
 According to another narration, “**...Will split into seventy-three denominations.**” [^2]
 
@@ -48,9 +47,9 @@ Thus, all those who follow the Qur’an, the instructions of the Sunnah, verbal 
 
 **Third**, as for those who take their own vain desires as their god and contradict the Qur’an and the authentic Sunnah in favor of their own opinion or that of their leader out of zealotry and fanaticism; or interpret the texts of the Qur’an and the Sunnah in a manner that does not concur with the Arabic language or the fundamentals of the Islamic Shari‘ah; and thus dissent from the main group of Muslims, they will be among the seventy-two sects which the Messenger of Allah (peace be upon him) stated will all be in Hellfire. The distinguishing sign of these sects is deviation from the Qur’an, the Sunnah and Ijma‘, without being based on an interpretation that corresponds to the language of the Qur’an and the fundamentals of Shari‘ah to be taken as an excuse for error.
 
-**Fourth**, the issue which Imam [Shaykh Muhammad ibn 'Abdul-Wahhab](/wahhabism/) stated as one of the most crucial issues which when understood one has fully comprehended Islam and when acted upon one become a true Muslim - is what has been already clarified in the second part of the answer regarding the distinguishing characteristics of the saved sect given by the Prophet (peace be upon him), and the fact that the other sects are the opposite of them. Whoever distinguishes between the saved sect and the doomed sect according to the criterion of the Prophet (peace be upon him), and understands the difference between them based on the interpretation of the Prophet (peace be upon him), has in fact comprehended religion and can distinguish between those one should adhere to their group and those that should be fled from as one would flee from a lion.
+**Fourth**, the issue which Imam Shaykh Muhammad ibn 'Abdul-Wahhab stated as one of the most crucial issues which when understood one has fully comprehended Islam and when acted upon one become a true Muslim - is what has been already clarified in the second part of the answer regarding the distinguishing characteristics of the saved sect given by the Prophet (peace be upon him), and the fact that the other sects are the opposite of them. Whoever distinguishes between the saved sect and the doomed sect according to the criterion of the Prophet (peace be upon him), and understands the difference between them based on the interpretation of the Prophet (peace be upon him), has in fact comprehended religion and can distinguish between those one should adhere to their group and those that should be fled from as one would flee from a lion.
 
-Whoever applies this correct understanding and adheres to the group who is upon right guidance and follow the truth are true Muslims, for the description of the saved sect matches them whether in their correct knowledge of the truth, beliefs, words or actions. There is no doubt that this is one of the most crucial issues that has broad benefit. May Allah have mercy on Imam, [Shaykh Muhammad ibn 'Abdul-Wahhab](/wahhabism/); he was a man of deep insight and thorough understanding of the religious texts and their aims, as he emphasized what is essential for the Muslims to know about their religion sometimes implicitly as he did here, and sometimes explicitly as he did in many of his books.
+Whoever applies this correct understanding and adheres to the group who is upon right guidance and follow the truth are true Muslims, for the description of the saved sect matches them whether in their correct knowledge of the truth, beliefs, words or actions. There is no doubt that this is one of the most crucial issues that has broad benefit. May Allah have mercy on Imam, Shaykh Muhammad ibn 'Abdul-Wahhab; he was a man of deep insight and thorough understanding of the religious texts and their aims, as he emphasized what is essential for the Muslims to know about their religion sometimes implicitly as he did here, and sometimes explicitly as he did in many of his books.
 
 **Fifth**, the Messenger of Allah (peace be upon him) did not assign descriptive titles or names for the seventy-two sects attributing themselves to Islam by which they can be known, rather he specified that their distinguishing sign is departure from the Qur’an, the Sunnah, and the Ijma‘ of the Rightly-Guided Caliphs and the rest of the Sahabah (may Allah be pleased with them all), out of pursuing assumptions and inclinations, and speaking of Allah without knowledge and out of favoritism for leaders, other than the Messenger of Allah (peace be upon him), for whose sake they show allegiance or enmity. On the other hand, the Messenger of Allah (peace be upon him) made the emblem of the saved sect their adherence to the Qur’an and the Sunnah, and the Muslim main body, giving superiority to this over their personal perceptions, assumptions and inclinations. For their inclinations are pursuant to the Islamic Shari‘ah (law); on that base they show allegiance or enmity.
 
@@ -66,7 +65,7 @@ All these are not considered Kuffar (disbelievers) for their wrong interpretatio
 
 Another one of these fundamentals of Iman is that they do not declare any particular person or sect from the people of the Qiblah (i.e., Muslims in general) as Kafir (disbeliever), but refrain from this as much as possible, for the Prophet (peace be upon him) reproved Usamah Ibn Zayd Ibn Harithah for killing a Kafir after he had said, “La ilaha illa Allah”. He did not accept Usamah’s excuse that the man only said it to take refuge in it and protect himself, and he (peace be upon him) admonished him saying, "**Did you split his heart open to know whether or not he has said it?**" [^5] i.e. whether or not he said it sincerely from the bottom of his heart. The only exception is when a person commits an act of blatant Kufr, such as denying the inevitably well-known basic truths of the religion, or contradicting a decisive Ijma‘ (consensus) of the Ummah, or interpreting clear-cut texts which are not subject to interpretation, and does not recant this even after being correctly informed of it.
 
-The Imam of Da‘wah (Call to Islam), [Shaykh Muhammad ibn 'Abdul-Wahhab](/wahhabism/) (may Allah be merciful to him) adhered to the way of Ahl-ul-Sunnah wal-Jama‘ah and followed their fundamentals. He did not declare anyone or any sect from the people of the Qiblah as Kafir for committing a sin, or giving an allegorical interpretation, or introducing a Bid‘ah, unless there was well-established evidence of their Kufr after enlightenment and clarification.
+The Imam of Da‘wah (Call to Islam), Shaykh Muhammad ibn 'Abdul-Wahhab (may Allah be merciful to him) adhered to the way of Ahl-ul-Sunnah wal-Jama‘ah and followed their fundamentals. He did not declare anyone or any sect from the people of the Qiblah as Kafir for committing a sin, or giving an allegorical interpretation, or introducing a Bid‘ah, unless there was well-established evidence of their Kufr after enlightenment and clarification.
 
 The Saudi government, may Allah protect and support it, follows the same way in its presidency and treatment of its citizens and in its attitude towards the Muslims in other countries, especially those who come to the Sacred House of Allah to perform Hajj or ‘Umrah. It thinks well of Muslims, considers all of them its brothers in faith, cooperates with them in what will give them support, guard their rights and retrieve their usurped possession. It welcomes those who visit its country, and graciously facilitate for pilgrims the performance of Hajj rituals. This is a thing discerned from its news, its affairs and the effort and money spent for the sake of the common good of Muslims and to offer comfortable accommodation for the pilgrims to the Allah's Sacred House.
 
