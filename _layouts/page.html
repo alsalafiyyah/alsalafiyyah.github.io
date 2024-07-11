@@ -1,8 +1,22 @@
 ---
 layout: default
 ---
-<h2 class="double">
-  {{ page.title }}
+<article 
+  itemprop="mainEntity" 
+  itemscope 
+  itemtype="http://schema.org/BlogPosting" 
+  itemid="{{ post.url }}">
+  {% include Breadcrumb.html %}
+  {% include Date.html %}
+<h2 itemprop="headline">
+ {{ page.title }}
 </h2>
+<div property="articleBody">
+{% include AudioPlayer.html %}
 {{ content }}
+{% if page.note %}
+ <p>{{ site.note.text }}</p>
+{% endif %}  
+</div>
 {% include source.html %}
+</article>
