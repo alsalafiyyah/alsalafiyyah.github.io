@@ -27,9 +27,12 @@
         <meta itemprop="position" content="2" />
         </li>  
       {% endif %}   
+      {% if page.layout == 'post' %}  
       <li itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
         <span itemprop="name">{{ page.title | truncate: 100 }}</span>
-        <meta itemprop="position" content="{% if page.layout == 'post' %}3{% else %}2{% endif %}{% if page.active == "category" %}3{% endif %}" />
+        <meta itemprop="position" content="{% if page.layout == 'post' %}3{% endif %}" />
       </li>
+      {% else %}
+      {% endif %}  
     </ol>
