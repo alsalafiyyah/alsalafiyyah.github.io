@@ -1,12 +1,12 @@
 ﻿---
 layout: post
-title: "Bid'ahs committed in funerals"
+title: "Bidahs committed in funerals"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 9/318"
 hijri: Muharram 6, 1442
 date: 2020/08/25
 category: [funerals, bidah, fatwas]
-excerpt: Such traditions are baseless in the purified Shari'ah. Rather, they are bid'ahs related to Jahiliyyah.
+excerpt: Such traditions are baseless in the purified Shariah. Rather, they are bid'ahs related to Jahiliyyah.
 shaykhs: Shaykh Ibn Baz
 ---
 
