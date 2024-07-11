@@ -5,7 +5,7 @@ title: Acting upon the Sunnah and the ruling on opposing it
 date: 2024-07-12
 hijri: Muharram 06, 1446
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 18444, Question 2
-category: [fatwas, sunnah]
+category: [fatwas, sunnah, hadiths]
 note: true
 locale: en
 lang: en
