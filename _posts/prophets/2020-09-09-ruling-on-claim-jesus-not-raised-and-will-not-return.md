@@ -3,7 +3,7 @@ layout: post
 title: "Ruling on those who claim that Jesus was not raised to the heavens and will not return at the end of time"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu Fatawa Shaykh ibn Baz 1"
-category: [refutals, prophets, jesus]
+category: [refutals, prophets]
 hijri: Muharram 21, 1442
 excerpt: "What is the ruling on those who deny Isa's return near the Day of Resurrection, claiming that he was crucified, but did not die and immigrated to Kashmir in India where he lived for a long time and died naturally?"
 locale: en
