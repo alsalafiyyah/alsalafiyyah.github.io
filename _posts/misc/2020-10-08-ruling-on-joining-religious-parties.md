@@ -2,12 +2,11 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Ruling on joining religious parties"
-hijri: Safar 21, 1442 AH
+hijri: Safar 21, 1442
 lang: en
 note: false
-uid: ruling-on-joining-religious-parties
 source: "Majmu' Fatawa Al-Shaykh Ibn Baz p. 7/182, question 2"
-category: [sects, sufism, tablighis, ikhwanis, salafism]
+category: [sects, fatwas]
 excerpt: "A Muslim must not belong to innovated parties. We should only belong to Allah's Book and the Sunnah of His Prophet (peace be upon him) and cooperate in this regard with sincerity and truth so as to be part of Allah's Party."
 muftis:
   shaykh: 
@@ -15,12 +14,10 @@ muftis:
       url: /biography/binbaz/
 ---
 
-Question:
-
+### Question:
 What do you advise preachers to do against the religious innovators? We would like you to direct special advice to the young men who are excited about joining so-called religious parties.
 
-Answer: 
-
+### Answer: 
 We advise all our brothers to call the people to Allah (Exalted be He) with wisdom and gentle preaching and arguing with the best manner as He asked us to do with all the people and with the innovators if they show their innovation in public whether they are from Shiites or others. Believers have to denounce any innovation in religion as much as they can by using legal ways.
 
 Bid'ah (innovation in religion) is what people innovate in religion and then attribute to religion even though it is not. Prophet Muhammad (peace be upon him) said, "**He who innovates something in our (Islam) affair that is not part of it will have it rejected.**" [^1] The Prophet (may Allah's Peace and Blessings be upon him) also says: "**Whoever does any act for which there is no sanction on our behalf, it is to be rejected.**" [^2]
