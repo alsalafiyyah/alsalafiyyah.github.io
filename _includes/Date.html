@@ -1,0 +1,25 @@
+   <ol class="breadcrumb">
+      <li>
+        {{ site.data.locales[page.locale].page.date }}: 
+        <span>
+          <time itemprop="datePublished" datetime="{{ page.date | date_to_string }}"> 
+          {% if page.date %}
+            {{ page.date | date_to_string | append: " - " | default: site.time }}
+          {% endif %}  
+          {% if page.hijri %}
+           {{ page.hijri }}
+          {% endif %}
+          </time>
+        </span>
+      </li> 
+      <li>
+           {% include read_time.html %}
+      </li>
+      <li>
+        <time 
+          itemprop="dateModified" 
+          datetime="{{ "now" | date: "%Y-%m-%d %H:%M" }}">
+          <span id='last-modified'>
+        </time>
+      </li> 
+   </ol>
