@@ -9,7 +9,7 @@ category: [fatwas, sunnah]
 note: true
 locale: en
 lang: en
-excerpt: 
+excerpt: The Sunnah explains the Qur'an. Anyone who denies the authority of the Sunnah is a kafir because they deny one of the agreed upon principles of Islam.
 article_taken_from: 
   taken_from:
     - web_title:  العمل بالسنة وحكم الإعراض عنها
