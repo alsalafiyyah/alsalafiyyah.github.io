@@ -106,14 +106,17 @@ defaults:
 collections:
   refutals:
     output: true
+    active: radd
     permalink: /radd/:path/
     layout: post
   wahhabism:
     output: true
+    active: wahhabi
     permalink: /wahhabism/:path/
     layout: post
   muqolat:
     output: true
+    active: muqolat
     permalink: /muqolat/:title/
     layout: post
   audios:
@@ -123,13 +126,12 @@ collections:
     layout: post
   ar:
     output: true
+    locale: ar
     permalink: /:collection/:slug
   en: 
     output: true        
+    locale: en
     permalink: /:collection/:slug
-  previews:
-    output: true
-    permalink: /previews/:slug/
 
 
 # Alifta Scholars
