@@ -5,8 +5,8 @@
   {% assign offset = 0 %}
   {% assign currentPage = 1 %}
 {% endif %}
-<div id="blogContainer" class="postContainer" data-page="{{ currentPage }}" data-totalPages="{{ paginator.total_pages }}">
-<ul class="no-bullets">
+<div>
+<ul id="blogContainer" data-page="{{ currentPage }}" data-totalPages="{{ paginator.total_pages }}" class="no-bullets">
  {% for post in site.posts limit:site.paginate offset:offset %}
    <li>
     <article role="article" itemid="{{ post.url }}" itemscope itemtype="http://schema.org/BlogPosting">
@@ -37,8 +37,5 @@
 {% if postsCovered < postCount %}
   <button class="loadMore">Load more posts</button>
 {% endif %}
-<script>
-  {% include Pagination.js %}
-</script>
 </ul>
 </div>
