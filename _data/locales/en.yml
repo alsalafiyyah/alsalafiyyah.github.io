@@ -1,11 +1,11 @@
 name: English
 site:
-  title: Salafi Manhaj
+  title: Manhaj Al-Salaf
   desc: 
   url: /
   ar: "عربي"
   en: "en"
-  url_search: /en/search
+  url_search: /search
 
 nav:
   - name: Fatwas
