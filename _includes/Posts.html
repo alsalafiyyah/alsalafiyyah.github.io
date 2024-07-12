@@ -1,6 +1,12 @@
-<ul class="no-bullets">
- {% for post in paginator.posts %}
- {% assign paginator.posts = site.posts | except:"locale","ar" %}
+{% if paginator.page %}
+  {% assign offset = paginator.page | minus:1 | times:paginator.per_page %}
+  {% assign currentPage = paginator.page %}
+{% else %}
+  {% assign offset = 0 %}
+  {% assign currentPage = 1 %}
+{% endif %}
+<ul class="no-bullets" id="blogContainer">
+ {% for post in site.posts limit:site.paginate offset:offset %}
    <li>
     <article role="article" itemid="{{ post.url }}" itemscope itemtype="http://schema.org/BlogPosting">
     <a 
@@ -25,4 +31,12 @@
     </article>
    </li>
   {% endfor %}
+ {% assign postCount = site.posts | size %}
+{% assign postsCovered = site.paginate | plus:offset %}
+{% if postsCovered < postCount %}
+  <button class="loadMore">Load more posts</button>
+{% endif %}
+<script>
+  {% include blog/pagination.js %}
+</script>
 </ul>
