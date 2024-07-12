@@ -1,6 +1,6 @@
 <div>
    <h2>{{ site.data.locales[page.locale].page.recent }} 
-    <a class="nowavy" href="{{ '/fatwas/' | prepend:site.baseurl }}">
+    <a class="nowavy" href="{% if page.locale == 'en' %}/fatwas/{% elsif page.locale == 'ar' %}/ar/fatwas/{% else %}/fatwas/{% endif %}">
       <mark>
        {{ site.data.locales[page.locale].page.fatwas }}
       </mark>
@@ -32,7 +32,7 @@
 
 <div>
    <h2> {{ site.data.locales[page.locale].page.recent }} 
-    <a class="nowavy" property="url" class="nowavy" href="{{ '/audios/' | prepend:site.baseurl }}">
+    <a class="nowavy" property="url" class="nowavy" href="{% if page.locale == 'en' %}/audios/{% elsif page.locale == 'ar' %}/ar/audios/{% else %}/audios/{% endif %}">
      <mark>
      {{ site.data.locales[page.locale].page.audios }}
      </mark>
