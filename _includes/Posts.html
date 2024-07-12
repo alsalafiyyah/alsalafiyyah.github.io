@@ -1,4 +1,5 @@
 <ul class="no-bullets">
+ {% assign paginator.posts = (site.posts | where: "locale" , "en") %}
  {% for post in paginator.posts %}
    <li>
     <article role="article" itemid="{{ post.url }}" itemscope itemtype="http://schema.org/BlogPosting">
