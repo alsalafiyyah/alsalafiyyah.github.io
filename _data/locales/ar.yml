@@ -8,7 +8,7 @@ site:
   url_search: /ar/search
 
 nav:
-  - name: الفتاوى
+  - name: فتاوى
     url: /ar/fatwas
     active: fatwas
   - name: صوتيات
