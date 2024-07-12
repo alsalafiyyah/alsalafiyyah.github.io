@@ -35,13 +35,13 @@ aside_external_links:
 
 aside_quick_links:
   - name: البدعة
-    url: /bidah/
+    url: /ar/bidah/
   - name: الوهابية
-    url: /wahhabism/
+    url: /ar/wahhabism/
   - name: الرد
-    url: /radd/  
+    url: /ar/radd/  
   - name: الفرقة
-    url: /sects/
+    url: /ar/sects/
 
 page:
   next: التالي
