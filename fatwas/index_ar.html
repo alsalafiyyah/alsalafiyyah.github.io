@@ -12,11 +12,10 @@ excerpt: Compilation of fatwas (legal opinions) issued by the scholars of ahlus-
   <p>{{ post.excerpt }}</p>
   <date>{{ post.hijri }}</date>
 {% endfor %}
-
 <ul 
  class="no-bullets"
  typeof="ItemList" vocab="https://schema.org/ItemList">
- {% for post in paginator.posts %}
+ {% for post in paginator.posts_ar %}
    <li itemprop="itemListElement" typeof="ListItem">
     <a 
      property="url" 
