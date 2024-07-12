@@ -1,13 +1,5 @@
-{% if paginator.page %}
-  {% assign offset = paginator.page | minus:1 | times:paginator.per_page %}
-  {% assign currentPage = paginator.page %}
-{% else %}
-  {% assign offset = 0 %}
-  {% assign currentPage = 1 %}
-{% endif %}
-<div>
 <ul id="blogContainer" data-page="{{ currentPage }}" data-totalPages="{{ paginator.total_pages }}" class="no-bullets">
- {% for post in site.posts limit:site.paginate offset:offset %}
+ {% for post in paginator.posts %}
    <li>
     <article role="article" itemid="{{ post.url }}" itemscope itemtype="http://schema.org/BlogPosting">
     <a 
@@ -32,10 +24,4 @@
     </article>
    </li>
   {% endfor %}
- {% assign postCount = site.posts | size %}
-{% assign postsCovered = site.paginate | plus:offset %}
-{% if postsCovered < postCount %}
-  <button class="loadMore">Load more posts</button>
-{% endif %}
 </ul>
-</div>
