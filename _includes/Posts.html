@@ -1,7 +1,6 @@
 <ul class="no-bullets">
- {% assign paginator.posts = site.posts | except:"locale","ar" %}
  {% for post in paginator.posts %}
- {% if page.locale == 'en' %}
+ {% assign paginator.posts = site.posts | except:"locale","ar" %}
    <li>
     <article role="article" itemid="{{ post.url }}" itemscope itemtype="http://schema.org/BlogPosting">
     <a 
@@ -25,6 +24,5 @@
     <meta itemprop="author" content="{{ post.publisher }}" />
     </article>
    </li>
- {% endif %}
   {% endfor %}
 </ul>
