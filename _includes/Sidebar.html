@@ -5,7 +5,7 @@
   class="row">
  <section class="column">
   <ul class="square">
-  {% for item in site.data.base.aside_quick_links %}
+  {% for item in site.data.locales[page.locale].aside_quick_links %}
     <li> 
       <a href="{{ item.url }}">
        {{ item.name }}
@@ -16,7 +16,7 @@
  </section>
  <section class="column">
    <ul class="bullets">
-  {% for item in site.data.base.aside_external_links %}
+  {% for item in site.data.locales[page.locale].aside_external_links %}
     <li> 
       <a href="{{ item.url }}" target="_blank">
        {{ item.name }}
