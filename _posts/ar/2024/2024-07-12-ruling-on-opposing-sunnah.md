@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 publisher: alsalafiyyah@icloud.com
 title: العمل بالسنة وحكم الإعراض عنها
 date: 2024-07-12
