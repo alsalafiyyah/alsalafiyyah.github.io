@@ -5,29 +5,37 @@
   {% assign offset = 0 %}
   {% assign currentPage = 1 %}
 {% endif %}
-<div id="blogContainer" class="postContainer" data-page="{{ currentPage }}" data-totalPages="{{ paginator.total_pages }}">
-  {% for post in site.posts limit:site.paginate offset:offset %}
-    <article class="post list">
-      <header>
-        <h3><a class="readPost" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-        <p class="postMeta">
-          <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span>
-          <span class="permalink"><a href="{{ post.url }}">Permalink</a></span>
-        </p>
-      </header>
-      <div class="excerpt">
-        {% if post.content contains '<!--more-->' %}
-          <a class="readPost" href="{{ post.url }}">{{ post.content | split:'<!--more-->' | first }}</a>
-          <p class="cta"><a class="readPost rightArrow" href="{{ post.url }}">Read full post</a></p>
-        {% else %}
-          {{ post.content }}
-        {% endif %}
-      </div>
+<div>
+<ul id="blogContainer" data-page="{{ currentPage }}" data-totalPages="{{ paginator.total_pages }}" class="no-bullets">
+ {% for post in site.posts limit:site.paginate offset:offset %}
+   <li>
+    <article role="article" itemid="{{ post.url }}" itemscope itemtype="http://schema.org/BlogPosting">
+    <a 
+     property="url" 
+     href="{{ post.url }}"
+     class="fatwas-title">          
+      <h3 
+       class="content-title" 
+       itemprop="headline">
+       {{ post.title }}
+      </h3>
+    </a>
+    <link itemprop="mainEntityOfPage" href="{{ post.url }}"/>
+    <date class="content-date">
+     <meta itemprop="datePublished" content="{{ post.date | date: '%b %d, %Y' }}">
+     {{ post.hijri }} // {{ post.date | date: "%b %d, %Y" }}
+    </date>
+     <p class="content-excerpt" itemprop="description">
+       {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace | remove_first: "Question:" }}
+     </p>
+    <meta itemprop="author" content="{{ post.publisher }}" />
     </article>
+   </li>
   {% endfor %}
-</div>
-{% assign postCount = site.posts | size %}
+ {% assign postCount = site.posts | size %}
 {% assign postsCovered = site.paginate | plus:offset %}
 {% if postsCovered < postCount %}
   <button class="loadMore">Load more posts</button>
 {% endif %}
+</ul>
+</div>
