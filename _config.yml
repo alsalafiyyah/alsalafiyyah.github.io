@@ -103,11 +103,13 @@ defaults:
   - scope:
       path: "_pages"
       type: "pages"
+    values:
+      layout: "Page"
   - scope:
       path: ""
       type: "pages"
     values:
-      layout: "page"
+      layout: "Page"
 
 
 collections:
