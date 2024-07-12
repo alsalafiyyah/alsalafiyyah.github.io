@@ -1,8 +1,8 @@
 <div>
-   <h2>Recent 
+   <h2>{{ site.data.locales[page.locale].page.recent }} 
     <a class="nowavy" href="{{ '/fatwas/' | prepend:site.baseurl }}">
       <mark>
-       {{ site.data.base.page.fatwas }}
+       {{ site.data.locales[page.locale].page.fatwas }}
       </mark>
     </a>
    </h2>
@@ -31,10 +31,10 @@
 </div>
 
 <div>
-   <h2> Recent 
+   <h2> {{ site.data.locales[page.locale].page.recent }} 
     <a class="nowavy" property="url" class="nowavy" href="{{ '/audios/' | prepend:site.baseurl }}">
      <mark>
-     {{ site.data.base.page.audios }}
+     {{ site.data.locales[page.locale].page.audios }}
      </mark>
     </a>
    </h2>
