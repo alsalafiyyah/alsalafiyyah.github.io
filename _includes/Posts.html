@@ -1,4 +1,5 @@
 <ul class="no-bullets">
+ {% assign page.locale = site.locale %}
  {% assign paginator.posts = site.posts | where: "locale", page.locale %}
  {% for post in paginator.posts %}
    <li>
