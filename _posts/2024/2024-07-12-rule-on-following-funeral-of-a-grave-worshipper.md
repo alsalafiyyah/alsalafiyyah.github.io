@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: Ruling on following the funeral of the grave-worshipper
+title: Ruling on following the funeral of a grave-worshipper
 date: 2024-07-12
 hijri: Muharram 06, 1446
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 3548, Question 1
