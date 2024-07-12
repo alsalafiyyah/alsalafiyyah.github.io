@@ -1,9 +1,9 @@
 <div itemscope itemtype="http://schema.org/WebSite">
-<meta itemprop="url" content="https://alsalafiyyah.github.io"/>
+<meta itemprop="url" content="{{ site.data.locales[page.locale].site.url }}"/>
 <form itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" 
- action="https://alsalafiyyah.github.io/search">
+ action="{{ site.data.locales[page.locale].site.url_search }}">
 <meta itemprop="target" 
- content="https://alsalafiyyah.github.io/search?q={q}"/>
+ content="{{ site.data.locales[page.locale].site.url_search }}?q={q}"/>
 <div itemprop="query-input" itemscope itemtype="http://schema.org/PropertyValueSpecification">
 <meta itemprop="valueName" content="q"/>
 <input 
@@ -12,7 +12,7 @@
  id="tipue_search_input" 
  itemprop="query-input" 
  type="search" 
- placeholder="Search..." 
+ placeholder="{{ site.data.locales[page.locale].page.search }}" 
  pattern=".{3,}" 
  title="At least 3 characters" 
  required/>
