@@ -21,11 +21,28 @@ nav:
     url: /category
     active: category
 
+aside_quick_links:
+  - name: Bid'ahs
+    url: /bidah/
+  - name: Wahhabism
+    url: /wahhabism/
+  - name: Radd
+    url: /radd/  
+  - name: Groups & Sects
+    url: /sects/
+
+aside_external_links:
+  - name: Instagram
+    url: https://instagram.com/alsalafiyyah
+  - name: AlFatawa.Com
+    url: https://al-fatawa.com/
+
 footer:
   - name: Sitemap
     url: /sitemap
-  - name: Instagram
-    url: https://instagram.com/alsalafiyyah
+  - name: RSS Feed
+    url: /feed
+
 
 page:
   next: Next
