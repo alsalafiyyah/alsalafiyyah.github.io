@@ -2,7 +2,7 @@
       <li itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
         <a itemprop="item" href="{{ site.url }}">
-            <span itemprop="name">Home</span></a>
+            <span itemprop="name">{{ site.data.locales[page.locale].page.home }}</span></a>
         <meta itemprop="position" content="1" />
        </li>   
       {% if page.layout == 'post' %}  
