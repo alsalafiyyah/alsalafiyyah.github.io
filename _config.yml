@@ -87,6 +87,13 @@ defaults:
       locale: en
       permalink: /en/:title
   - scope:
+      path: "_posts/ar/**"
+      type: posts
+    values:
+      layout: post
+      locale: ar
+      permalink: /ar/:title    
+  - scope:
       path: "_posts/audios/**"
       type: posts
     values:
