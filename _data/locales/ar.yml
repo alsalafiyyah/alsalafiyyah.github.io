@@ -53,7 +53,7 @@ page:
   search: بحث
   home: الرئيسية
   audios: صوتيات
-  fatwas: فتاوى
+  fatwas: الفتاوى
   books: كتب
   articles: مقالات
   language: اللغة
@@ -69,6 +69,7 @@ page:
   noSupportaudio: لا يدعم متصفحك عنصر الصوت
   latest_fatwas: جديد الفتاوى
   latest_audios: جديد صوتيات
+  recent: جديد
   related_fatwas: فتاوى ذات صلة
   copy: نسخ
   published_on: تاريخ النشر
