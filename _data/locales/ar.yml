@@ -24,8 +24,24 @@ nav:
 footer:
   - name: تغذية RSS
     url: /sitemap
+  - name: خريطة الموقع
+    url: /sitemap
+
+aside_external_links:
   - name: إنستقرام
     url: https://instagram.com/alsalafiyyah
+  - name: الفتاوى
+    url: https://al-fatawa.com/
+
+aside_quick_links:
+  - name: البدعة
+    url: /bidah/
+  - name: الوهابية
+    url: /wahhabism/
+  - name: الرد
+    url: /radd/  
+  - name: الفرقة
+    url: /sects/
 
 page:
   next: التالي
