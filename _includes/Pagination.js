@@ -6,7 +6,7 @@ function loadMorePosts() {
   var totalPages = parseInt($blogContainer.attr("data-totalPages"));
   $(this).addClass("loading");
   
-  $.get("/fatwas" + nextPage, function (data) {
+  $.get("/fatwas/page" + nextPage, function (data) {
     var htmlData = $.parseHTML(data);
     var $articles = $(htmlData).find("article");
     $blogContainer.attr("data-page", nextPage).append($articles);
