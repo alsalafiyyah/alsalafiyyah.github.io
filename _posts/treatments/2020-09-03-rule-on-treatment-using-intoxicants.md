@@ -4,9 +4,11 @@ title: "Ruling on treatment with Khamr (intoxicants)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 3163-2"
 hijri: Muharram 15, 1442
-excerpt: 
+locale: en
+lang: en
+excerpt: What is the ruling on drinking Khamr (intoxicants) in case of necessity, i.e. Being advised by the doctor to do so? 
 date: 2020/09/3
-category: [treatments]
+category: [treatments,fatwas]
 shaykhs: 
  - Shaykh Abdul-Aziz ibn Baz
  - Shaykh Abdul-Razzaq al-Afify
@@ -14,12 +16,10 @@ shaykhs:
  - Shaykh Abdullah ibn Qa'ud
 ---
 
-Question:
-
+### Question:
 What is the ruling on drinking Khamr (intoxicants) in case of necessity, i.e. Being advised by the doctor to do so? 
 
-Answer:
-
+### Answer:
 According to the opinion of the Jumhur (dominant majority of scholars), treatment with Khamr is forbidden, along with any other bad substance that Allah forbade. Proof for the foregoing is the Hadith narrated by Wa'il ibn Hajar who said: "**Tariq ibn Suwayd Al-Ju'fy asked the Prophet (peace be upon him) about Khamr. He (peace be upon him) forbade him from it or expressed his disapproval of preparing it. Tariq said, 'I only prepare it as a medicine.' He (peace be upon him) said, 'It is not medicine; it is an ailment.'**" (Related by Imam Ahmad and Muslim) [^1]
 
 It is also reported on the authority of Abu Al-Darda' (may Allah be pleased with him) that the Messenger of Allah (peace be upon him) said: "**Allah has sent down both the disease and the cure, and He has appointed a cure for every disease, so seek treatment, but use nothing unlawful.**" (Related by Abu Dawud) [^2]

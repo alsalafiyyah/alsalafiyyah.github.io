@@ -6,7 +6,9 @@ source: "Fatawa Al-Lajnah Ad-Da'imah no. 21104, Question 1"
 hijri: Muharram 15, 1442
 note: true
 date: 2020/09/3
-category: [treatments]
+category: [treatments,fatwas]
+lang: en
+locale: en
 excerpt: Is pulling out natural teeth and replacing them with artificial ones considered an offence of trying to change the creation of Allah?
 shaykhs: 
  - Shaykh Abdul-Aziz ibn Baz

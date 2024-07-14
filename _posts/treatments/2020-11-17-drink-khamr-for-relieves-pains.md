@@ -2,12 +2,13 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Rule on drink Khamr for relieve pains"
-hijri: "Rabi' Al-Thani 02, 1442 AH"
+hijri: "Rabi' Al-Thani 02, 1442"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 102-5"
 lang: en
+locale: en
 note: true
-category: [treatments, intoxicants]
-excerpt: "Khamr is Haram (prohibited). It is impermissible to be used as a treatment. A proof for the foregoing is the Hadith."
+category: [treatments,fatwas]
+excerpt: Khamr is Haram. It is impermissible to be used as a treatment. A proof for the foregoing is the Hadith.
 muftis:
   chairman: 
     - name: Shaykh Ibrahim Ibn Muhammad Aal Al-Shaykh
@@ -22,12 +23,10 @@ muftis:
       url: /biography/mani/
 ---
 
-Question:
-
+### Question:
 Is it permissible for a believer to drink Khamr claiming that it relieves some of their pains?
 
-Answer: 
-
+### Answer: 
 Khamr is Haram (prohibited). It is impermissible to be used as a treatment. A proof for the foregoing is the Hadith in which the Prophet (peace be upon him) says, "**O Allah's servants! Seek treatment, but use nothing unlawful for there is no disease that Allah has created, except that He has also created its treatment.**" [^1]
 
 ---

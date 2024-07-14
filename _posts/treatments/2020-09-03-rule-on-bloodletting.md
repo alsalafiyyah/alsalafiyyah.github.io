@@ -4,21 +4,21 @@ title: "Ruling on bloodletting"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah"
 hijri: Muharram 15, 1442
-excerpt: 
+excerpt: This process should be handled by an expert in bloodletting to determine the case properly and choose the right spot in the body to be treated in this way as well as the right time.
+lang: en
+locale: en
 date: 2020/09/3
-category: [treatments]
+category: [treatments,fatwas]
 shaykhs: 
  - Shaykh Abdul-Aziz ibn Baz
  - Shaykh Abdul-Razzaq al-Afify
  - Shaykh Abdullah ibn Ghudayyan
 ---
 
-Question:
-
+### Question:
 Is it permissible to practice bloodletting to discharge bad blood from some veins? 
 
-Answer:
-
+### Answer:
 It is permissible to discharge bad blood. It is authentically reported on the authority of Ibn 'Abbas (may Allah be pleased with both of them) that the Prophet (peace be upon him) said, "**Healing is in three (things): a gulp of honey, cupping, and cauterization. But I forbid my Ummah (nation) to use cauterization.**" [^1] 
 
 In another wording: "**And I do not like to be cauterized.**" [^2] The Prophet (peace be upon him) said that cupping is one of the means of healing, and this generally includes bloodletting and cupping. 

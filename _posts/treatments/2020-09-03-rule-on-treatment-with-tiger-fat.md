@@ -4,9 +4,11 @@ title: "Ruling on treatment with tiger fat"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 18419-2"
 hijri: Muharram 15, 1442
-excerpt: 
+excerpt: The impermissibility mentioned above applies to using the fat of these animals for medical treatment as well.
 date: 2020/09/3
-category: [treatments]
+category: [treatments,fatwas]
+lang: en
+locale: en
 shaykhs: 
  - Shaykh Abdul-Aziz Aal al-Shaykh
  - Shaykh Abdul-Aziz ibn Baz
@@ -15,12 +17,10 @@ shaykhs:
  - Shaykh Bakr Abu Zayd
 ---
 
-Question:
-
+### Question:
 What is the ruling on so-called (tiger fat) that is currently widespread in the market? Is it permissible to use it for treatment? 
 
-Answer:
-
+### Answer:
 It is not permissible to eat the fats of animals that Allah (Exalted be He) makes Haram (prohibited). Tigers are one sort of animal that has fangs with which they attack other animals. The impermissibility mentioned above applies to using the fat of these animals for medical treatment as well. Moreover, it is narrated that: "The Prophet (peace be upon him) forbade eating beasts of prey having fangs." [^1]
 
 May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions. 
