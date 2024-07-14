@@ -1,0 +1,16 @@
+---
+layout: Page
+title: Bid'ah
+locale: en
+permalink: /en/bidah/
+---
+<table>
+{% for post in site.posts %}
+{% if post.categories contains 'bidah' %}
+<tr><td>
+ <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+ <p><time>{{ post.date | date: "%b %d, %Y" }} / {{ post.hijri }}</time></p>
+</td></tr>
+{% endif %}
+{% endfor %}
+</table>
