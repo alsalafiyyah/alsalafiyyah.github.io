@@ -1,0 +1,41 @@
+---
+title: Fatwas
+layout: Page
+active: fatwas
+locale: en
+permalink: /en/fatwas/
+excerpt: Compilation of fatwas (legal opinions) issued by the scholars of ahlus-sunnah.
+---
+{% assign posts_en = (site.posts | where: "locale" , "en") %}
+{% for post in posts_en %}
+  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+  <p>{{ post.excerpt }}</p>
+  <date>{{ post.hijri }}</date>
+{% endfor %}
+<ul 
+ class="no-bullets"
+ typeof="ItemList" vocab="https://schema.org/ItemList">
+ {% for post in paginator.posts_en %}
+   <li itemprop="itemListElement" typeof="ListItem">
+    <a 
+     property="url" 
+     href="{{ post.url }}"
+     class="fatwas-title">          
+      <h3 class="content-title">
+       <span property="name">
+       {{ post.title }}
+      </span>
+      </h3>
+    </a>
+    <date class="content-date">
+     <meta itemprop="datePublished" content="{{ post.date | date: '%b %d, %Y' }}">
+     {{ post.hijri }} // {{ post.date | date: "%b %d, %Y" }}
+    </date>
+     <p class="content-excerpt" vocab="https://schema.org" itemtype="ItemList">
+       <span property="description">{{ post.excerpt | escape | truncate: 155 }}</span>
+     </p>
+    <meta itemprop="position" content="{{ forloop.index }}" />
+   </li>
+  {% endfor %}
+</ul>
+{% include Pagination.html %}
