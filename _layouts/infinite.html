@@ -1,0 +1,24 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="{{ page.locale }}">
+<head>
+{% include metadata.html %}
+</head>
+<body role="document" itemscope itemtype="https://schema.org/WebPage" onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}">
+{% include Header.html %}
+<main role="main"><!-- main -->
+ <div class="container"><!-- .container -->
+  <section><!-- section -->
+   {{ content }}
+  </section><!-- /section -->
+ </div><!-- /.container -->
+</main><!-- /main -->
+<div class="spacer"></div>
+{% include Sidebar.html %} 
+{% include Footer.html %}
+{% include Javascripts.html %}
+<script src="{{ "/assets/js/infinite-jekyll.js" | absolute_url }}></script>  
+</body>
+</html>
