@@ -1,13 +1,13 @@
 ---
 title: Fatwas
-layout: Page
+layout: infinite
 active: fatwas
 locale: en
 permalink: /en/fatwas/
 excerpt: Compilation of fatwas (legal opinions) issued by the scholars of ahlus-sunnah.
 ---
 {% assign posts_en = (site.posts | where: "locale" , "en") %}
-{% for post in posts_en %}
+{% for post in posts_en limit: 10 %}
   <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
   <p>{{ post.excerpt }}</p>
   <date>{{ post.hijri }}</date>
@@ -37,5 +37,5 @@ excerpt: Compilation of fatwas (legal opinions) issued by the scholars of ahlus-
     <meta itemprop="position" content="{{ forloop.index }}" />
    </li>
   {% endfor %}
+  <div class="infinite-spinner"></div>
 </ul>
-{% include Pagination.html %}
