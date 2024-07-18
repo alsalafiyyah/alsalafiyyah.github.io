@@ -5,8 +5,6 @@
           <time itemprop="datePublished" datetime="{{ page.date | date_to_string }}"> 
           {% if page.date %}
             {{ page.date | date_to_string | append: " - " }}
-           {% else %}
-             {{ site.time }}
           {% endif %}  
           {% if page.hijri %}
            {{ page.hijri }}
