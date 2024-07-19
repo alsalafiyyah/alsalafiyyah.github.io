@@ -3,11 +3,7 @@
  <div class="column">
    <a itemprop="url" class"logo" href="{{ site.data.locales[page.locale].site.url }}">
      <h1 itemprop="name" style="font-size: 28px;">
-      {% if site.title %} 
-       {{ site.title }}
-       {% else %}
-       {{ site.data.locales[page.locale].site.title }}
-      {% endif %}
+       {{ site.data.locales[page.locale].site.title | default: site.title | escape }}
      </h1>
    </a>
   </div>
