@@ -2,12 +2,12 @@
 layout: post
 title: "Ruling on returning the greeting of a Christian, attending their funeral, and offering condolences for them"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 16426-1"
-category: [walabara]
-hijri: Dhul-Hijjah 6, 1441 AH
+source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 16426, Question 1"
+category: [walabara,funerals]
+hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
-uid: ruling-on-returning-kafirs-greeting-and-attending-their-funerals
+excerpt: It is not permissible for a Muslim to follow the funeral procession of a Non-Muslim, as it is Haram for a Muslim to take them as allies.
 note: true
 muftis:
   chairman: 
@@ -24,14 +24,12 @@ muftis:
       url: /biography/bakr/
 ---
 
-Question: 
-
+### Question: 
 What is the ruling on returning the greetings to Christians, attending their funerals, and offering condolences to them?
 
-Answer:
-
+### Answer:
 A Muslim should return the greeting of a Non-Muslim by saying, "wa 'alaykum" (same to you). It was authentically reported in a Hadith Sahih (authentic Hadith) that the Prophet (peace be upon him) stated: "**When the People of the Book offer you salutations, you should say: The same to you.**" [^1]
-"
+
 It is not permissible for a Muslim to follow the funeral procession of a Non-Muslim, as it is Haram (prohibited) for a Muslim to take them as allies. However, it is permissible for a Muslim to offer condolences to non-Muslims when necessary by saying, "May Allah offer you the best condolence and relieve your ordeal". A Muslim should not add, "May Allah forgive the deceased" as it is not permissible to ask forgiveness for a Non-Muslim.
 
 ---
