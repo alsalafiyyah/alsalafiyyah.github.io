@@ -1,5 +1,21 @@
 <hr/><br/>
 <ul class="list-divider">
+       <li>
+        {{ site.data.locales[page.locale].page.date }}: 
+        <span>
+          <time itemprop="datePublished" datetime="{{ page.date | date_to_string }}"> 
+          {% if page.date %}
+            {{ page.date | date_to_string | append: " - " }}
+          {% endif %}  
+          {% if page.hijri %}
+           {{ page.hijri }}
+          {% endif %}
+          </time>
+        </span>
+      </li> 
+       <li>
+           {% include read_time.html %}
+       </li>
  {% if page.source %}
    <li class="collection-item">
    {{ site.data.locales[page.locale].page.source }}: <b>{{ page.source }}</b> {% else %}
@@ -249,10 +265,11 @@
    {% endif %}
   {% endif %}
 
-   <li>
+    <li>
      <a href="https://www.github.com/{{ site.github_username }}/{{ site.git_repo }}/blob/master/{{ page.path }}" target="_blank">
-      Edit on Github
+      Edit on GitHub
      </a>        
     </li>
+    <li id='last-modified'></li>
  
 </ul>
