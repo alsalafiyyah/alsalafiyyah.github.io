@@ -114,29 +114,6 @@ header a, header h1 {
 .spacer {
     flex: 1; 
 }
-
-/* scroll menu */
-div.scrollmenu {
-  background-color: none;
-  overflow: auto;
-  white-space: nowrap;
-  border-top: solid 3px var(--red);
-  border-bottom: solid 3px var(--red);
-  margin-bottom: 15px;
-}
-div.scrollmenu a {
-  display: inline-block;
-  color: var(--color);
-  text-align: center;
-  padding: 14px;
-  text-decoration: none;
-  font-weight: 600;
-}
-div.scrollmenu a:hover {
-  background-color: none;
-  text-decoration-style: wavy;
-  text-decoration-color: var(--red);
-}
 aside {
 width: 100%;
 padding: 10px 20px;
