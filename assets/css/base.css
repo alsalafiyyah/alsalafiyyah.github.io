@@ -442,3 +442,20 @@ ul.list-divider {
 .grid-item {
   text-align: left;
 }
+.inline ul {
+ margin: 0;
+ padding: 0;
+ list-style: none;
+ display: flex;
+ flex-wrap: wrap;
+}
+.inline li + li::before {
+  content: '';
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0 0.5ch;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: currentColor;
+}
