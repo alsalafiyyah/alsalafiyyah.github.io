@@ -454,6 +454,7 @@ ul.list-divider {
 }
 .list-divider a {
  text-decoration: none;
+ font-weight: bold;
 }
 .grid-container {
   display: grid;
