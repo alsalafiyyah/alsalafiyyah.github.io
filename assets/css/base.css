@@ -396,33 +396,46 @@ audio::-webkit-media-controls-panel, video::-webkit-media-controls-panel {
   padding-right: 15px;
   float: left;
   } 
-.infinite-spinner {
+
+.menu {
   display: block;
-  width: 40px;
-  height: 40px;
-  border-radius: 40px;
-  background-color: #333;
-  margin: 60px auto;
-  
-  -webkit-animation: scaleout 1.0s infinite ease-in-out;
-  animation: scaleout 1.0s infinite ease-in-out;
+  line-height: 2.5rem;
+  overflow-y: hidden;
+  scroll-behavior: smooth;
+  border-top: solid 3px var(--red);
+  border-bottom: solid 3px var(--red);
 }
-
-@-webkit-keyframes scaleout {
-  0% { -webkit-transform: scale(0.0) }
-  100% {
-    -webkit-transform: scale(1.0);
-    opacity: 0;
-  }
+.menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: none;
+  overflow-x: auto;
+  white-space: nowrap;
+  display: flex;
+  flex-wrap: nowrap;
+  padding-left: 0;
+  margin-block: 0;
 }
-
-@keyframes scaleout {
-  0% {
-    transform: scale(0.0);
-    -webkit-transform: scale(0.0);
-  } 100% {
-    transform: scale(1.0);
-    -webkit-transform: scale(1.0);
-    opacity: 0;
-  }
+.menu li {
+  float: left;
+}
+.menu li:last-child {
+  border-right: none;
+}
+.menu li:after {
+  padding: 5px;
+  color: black;
+  content: "|";
+  font-size: 20px;
+}
+.menu li:last-child::after {
+  content: '';
+}
+.menu li a {
+  display: inline-block;
+  color: #0000100;
+  text-align: center;
+  padding: 0px 10px;
+  text-decoration: none;
 }
