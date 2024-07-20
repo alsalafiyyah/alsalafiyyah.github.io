@@ -16,12 +16,6 @@
       <li>
            {% include read_time.html %}
       </li>
-      <li>
-        <time 
-          itemprop="dateModified" 
-          datetime="{{ "now" | date: "%Y-%m-%d %H:%M" }}">
-          <span id='last-modified'>
-        </time>
-      </li> 
+      <li id='last-modified'></li> 
    </ol>
 </div>
