@@ -452,6 +452,9 @@ ul.list-divider {
 .list-divider li {
  border-bottom: 2px solid #000100;
 }
+.list-divider a {
+ text-decoration: none;
+}
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto;
