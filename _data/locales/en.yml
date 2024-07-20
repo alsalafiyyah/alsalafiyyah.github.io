@@ -36,6 +36,8 @@ aside_external_links:
     url: https://instagram.com/alsalafiyyah
   - name: AlFatawa.Com
     url: https://al-fatawa.com/
+  - name: Logo
+    url: /assets/images/brand_logo.png
 
 footer:
   - name: Sitemap
