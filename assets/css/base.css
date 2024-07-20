@@ -420,6 +420,7 @@ audio::-webkit-media-controls-panel, video::-webkit-media-controls-panel {
   content: "{";
   font-size: 80px;
   line-height: 80px;
+  transform: scale(.5, 1);	
 }
 ul.list-divider {
   list-style-type: none;
