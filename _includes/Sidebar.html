@@ -1,28 +1,26 @@
 <aside 
   role="complementary" 
   itemscope 
-  itemtype="http://schema.org/WPSideBar" 
-  class="row">
- <section class="column">
-  <ul class="square">
+  itemtype="http://schema.org/WPSideBar">
+<div class="grid-container">
+  <div class="grid-item">
+  <ul class="no-bullets">
   {% for item in site.data.locales[page.locale].aside_quick_links %}
-    <li> 
-      <a href="{{ item.url }}">
-       {{ item.name }}
-      </a>
+   <li><a href="{{ item.url }}">{{ item.name }}</a></li>
+  {% endfor %}
+  </div>
+  <div class="grid-item" style="text-align: right;padding-right: 15px;"><div class="divider"></div></div>
+  <div class="grid-item">
+ <ul class="list-divider">
+   {% for item in site.data.locales[page.locale].aside_external_links %}
+    <li>
+      <a target="_blank" 
+          href="{{ item.url }}">
+          {{ item.name }}
+     </a>
     </li>
    {% endfor %}
-  </ul>
- </section>
- <section class="column">
-   <ul class="bullets">
-  {% for item in site.data.locales[page.locale].aside_external_links %}
-    <li> 
-      <a href="{{ item.url }}" target="_blank">
-       {{ item.name }}
-      </a>
-    </li>
-   {% endfor %}
-   </ul>
- </section>
+</ul>          
+  </div> 
+</div>
 </aside>
