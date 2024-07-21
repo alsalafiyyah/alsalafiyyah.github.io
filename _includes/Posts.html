@@ -1,27 +1,21 @@
-<ul class="no-bullets">
- {% for post in paginator.posts %}
-   <li>
-    <article role="article" itemid="{{ post.url }}" itemscope itemtype="http://schema.org/BlogPosting">
-    <a 
-     property="url" 
-     href="{{ post.url }}"
-     class="fatwas-title">          
-      <h3 
-       class="content-title" 
-       itemprop="headline">
-       {{ post.title }}
-      </h3>
-    </a>
-    <link itemprop="mainEntityOfPage" href="{{ post.url }}"/>
-    <date class="content-date">
-     <meta itemprop="datePublished" content="{{ post.date | date: '%b %d, %Y' }}">
-     {{ post.hijri }} // {{ post.date | date: "%b %d, %Y" }}
-    </date>
-     <p class="content-excerpt" itemprop="description">
-       {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace | remove_first: "Question:" }}
+<section><!-- fatwas section -->
+<h2>{{ site.data.locales[page.locale].page.fatwas }} <i class="bi bi-feather"></i></h2> 
+<div class="list-group">
+{% for post in paginator.posts %}     
+       <a property="url" href="{{ post.url }}" class="list-group-item list-group-item-action border-0" aria-current="true">
+   <article role="article" itemid="{{ post.url }}" itemscope itemtype="http://schema.org/BlogPosting">   
+    <div class="d-flex w-100 justify-content-between">
+      <header>  
+      <h3 class="mb-1" itemprop="headline">{{ post.title }}</h3>
+      </header>
+    </div>
+    <p class="mb-1 fst-italic">
+     {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace | remove_first: "Question:" }}
      </p>
-    <meta itemprop="author" content="{{ post.publisher }}" />
-    </article>
-   </li>
-  {% endfor %}
-</ul>
+    <small><i class="bi bi-calendar-day"></i> {{ post.hijri }} // {{ post.date | date: "%b %d, %Y" }}</small>
+   </article> 
+  </a>
+  <link itemprop="mainEntityOfPage" href="{{ post.url }}"/>   
+{% endfor %}
+</div>
+</section><!-- /fatwas section -->
