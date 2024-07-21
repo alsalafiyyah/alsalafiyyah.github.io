@@ -71,6 +71,27 @@ ul {
   <span>Share</span>
 </button>
     </ul>
+<script>
+const shareButton = document.querySelector('.share-button');
+const shareDialog = document.querySelector('.share-dialog');
+const closeButton = document.querySelector('.close-button');
+shareButton.addEventListener('click', event => {
+  if (navigator.share) { 
+   navigator.share({
+      title: '{{ post.title }}',
+      url: '{{ post.url }}'
+    }).then(() => {
+      console.log('Thanks for sharing!');
+    })
+    .catch(console.error);
+    } else {
+        shareDialog.classList.add('is-open');
+    }
+});
+closeButton.addEventListener('click', event => {
+  shareDialog.classList.remove('is-open');
+});  
+  </script>      
     </div>
       <div class="iconav content-date"> 
   {% if post %}
@@ -88,26 +109,4 @@ ul {
 {% endfor %}	
 </table>
 
-<script>
-const shareButton = document.querySelector('.share-button');
-const shareDialog = document.querySelector('.share-dialog');
-const closeButton = document.querySelector('.close-button');
 
-shareButton.addEventListener('click', event => {
-  if (navigator.share) { 
-   navigator.share({
-      title: 'WebShare API Demo',
-      url: 'https://alsalafiyyah.github.io/admin/'
-    }).then(() => {
-      console.log('Thanks for sharing!');
-    })
-    .catch(console.error);
-    } else {
-        shareDialog.classList.add('is-open');
-    }
-});
-
-closeButton.addEventListener('click', event => {
-  shareDialog.classList.remove('is-open');
-});  
-</script>
