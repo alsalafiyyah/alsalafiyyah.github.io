@@ -5,10 +5,10 @@
         <span>
           <time itemprop="datePublished" datetime="{{ page.date | date_to_string }}"> 
           {% if page.date %}
-            {{ page.date | date_to_string | append: " - " }}
+            <b>{{ page.date | date_to_string | append: " - " }}</b>
           {% endif %}  
           {% if page.hijri %}
-           {{ page.hijri }}
+           <b>{{ page.hijri }}</b>
           {% endif %}
           </time>
         </span>
@@ -264,12 +264,10 @@
     {% endfor %}
    {% endif %}
   {% endif %}
-
+    <li id='last-modified'></li>
     <li>
      <a href="https://www.github.com/{{ site.github_username }}/{{ site.git_repo }}/blob/master/{{ page.path }}" target="_blank">
       Edit on GitHub
      </a>        
     </li>
-    <li id='last-modified'></li>
- 
 </ul>
