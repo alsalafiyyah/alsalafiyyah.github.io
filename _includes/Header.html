@@ -1,15 +1,44 @@
-<header role="banner" vocab="http://schema.org" itemtype="WPHeader"><!-- header -->
-<div class="row flex">
- <div class="column">
-   <a itemprop="url" class"logo" href="{{ site.data.locales[page.locale].site.url | default: site.url | escape }}">
-     <h1 itemprop="name" style="font-size: 28px;">
-       {{ site.data.locales[page.locale].site.title | default: site.title | escape }}
-     </h1>
-   </a>
+<header role="banner" vocab="http://schema.org" itemtype="WPHeader" class="fixed-top bg-transparent">
+<div class="collapse" id="navbarToggleExternalContent" data-bs-theme="dark">
+  <meta itemprop="url" content="{{ site.data.locales[page.locale].site.url }}"/>
+  <div class="bg-dark p-4" itemscope itemtype="http://schema.org/WebSite">
+    <h5 class="text-body-emphasis h4">{{ site.data.locales[page.locale].page.search }}</h5>
+        <form class="d-flex" role="search" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" action="{{ site.data.locales[page.locale].site.url_search }}">
+        <meta itemprop="target" content="{{ site.data.locales[page.locale].site.url_search }}?q={q}"/>  
+<div class="input-group mb-3" itemprop="query-input" itemscope itemtype="http://schema.org/PropertyValueSpecification">
+  <meta itemprop="valueName" content="q"/>
+  <input 
+    type="search" 
+    class="form-control shadow-none border-danger" 
+    placeholder="{{ site.data.locales[page.locale].page.search }}" 
+    aria-label="Search" 
+    aria-describedby="button-addon2"
+    name="q" 
+    id="tipue_search_input" 
+    itemprop="query-input"
+    pattern=".{3,}" 
+    title="At least 3 characters" 
+    required>
+  <button class="btn btn-danger" type="button" id="button-addon2">Search</button>
+</div>            
+    </form>
   </div>
-  <div class="column">
-   {% include SearchForm.html %}
- </div>
-</div> 
-{% include Navigation.html %} 
-</header><!-- /header -->
+</div>        
+<nav class="navbar" id="navbar" role="navigation" vocab="http://schema.org" itemtype="SiteNavigationElement">
+  <div class="container-fluid inline-flex">
+    <a itemprop="url" class="navbar-brand" href="{{ site.data.locales[page.locale].site.url | default: site.url | escape }}">
+      <h1 itemprop="name" >{{ site.data.locales[page.locale].site.title | default: site.title | escape }}</h1> 
+    </a>
+    <button type="button" class=" btn btn-danger" data-bs-toggle="collapse" data-bs-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation"> Search</button>
+  </div>
+  <ul class="nav nav-pills nav-fill border shadow-sm">
+  {% for item in site.data.locales[page.locale].nav %}  
+  <li class="nav-item">
+    <a property="url" class="nav-link icon-link" aria-current="page" href="{{ item.url }}">
+     <span property="name">{{ item.name }}</span>
+    </a>
+  </li>
+  {% endfor %}
+</ul>
+</nav>
+</header>
