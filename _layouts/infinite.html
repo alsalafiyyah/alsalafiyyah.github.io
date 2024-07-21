@@ -20,7 +20,7 @@ html, body {
  height: 100%; 
  display: flex;
  flex-direction: column;
- background-color: var(--bg-body);
+ background-color: var(--bg-body) !important;
  color: var(--black);
 }   
 h1, h2, h3, h4, h5, h6 {
@@ -125,7 +125,7 @@ aside {
 <main role="main"><!-- main -->
 
  <section>
- <div class="container-fluid"><!-- .container -->
+ <div class="container-md"><!-- .container -->
 
 <ul class="list-group">
   <li class="list-group-item d-flex justify-content-between align-items-center border-0">
@@ -164,7 +164,7 @@ aside {
   <div class="p-2 ms-auto">
 <div class="list-group">
  {% for item in site.data.locales[page.locale].aside_quick_links %}
-  <a href="{{ item.url }}" class="list-group-item list-group-item-action" aria-current="false">
+  <a href="{{ item.url }}" class="list-group-item list-group-item-action border-none" aria-current="false">
     {{ item.name }}
   </a>
  {% endfor %}
@@ -175,7 +175,7 @@ aside {
       
 <div class="list-group">
  {% for item in site.data.locales[page.locale].aside_external_links %}
-  <a href="{{ item.url }}" target="_blank" class="list-group-item list-group-item-action" aria-current="false">
+  <a href="{{ item.url }}" target="_blank" class="list-group-item list-group-item-action border-none" aria-current="false">
     {{ item.name }}
   </a>
   {% endfor %}   
