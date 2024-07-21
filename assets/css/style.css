@@ -1,0 +1,59 @@
+:root {
+  --bg-body: hsl(26.7,25.7%,93.1%);
+  --bg-footer: #E5DCD7;
+  --red: #B04759;
+  --black: #000100;
+}    
+html, body { 
+ height: 100%; 
+ display: flex;
+ flex-direction: column;
+ background-color: var(--bg-body) !important;
+ color: var(--black);
+}   
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif/*rtl:Amiri, Georgia, "Times New Roman", serif*/;
+  font-weight: bold;
+}
+a {
+ color: var(--red);
+}
+p, section, main {
+ font-size: 1.2rem;
+}
+.nav a {
+ color: var(--black);
+ font-weight: bold;
+ text-transform: uppercase !important;
+ font-size: 100% !important;
+}
+.navbar, .list-group-item {
+ background-color: var(--bg-body);
+}
+footer, .footer {
+ background-color: var(--bg-footer);
+}
+.container-md {
+ margin-top: 120px;
+ margin-bottom: 30px;
+}
+#navbar{
+  background: transparent !important;
+  backdrop-filter: blur(10px);
+}
+.nav {
+ overflow-y: hidden;
+ scroll-behavior: smooth;
+ overflow-x: auto !important;
+ flex-wrap: nowrap;
+ margin: 0;
+ padding: 0;
+ width: 100%;
+}
+aside, footer {
+ display: block;
+ width: 100%;
+}
+aside {
+ margin-bottom: 1.2rem;
+}  
