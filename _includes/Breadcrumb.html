@@ -1,21 +1,25 @@
-    <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
-      <li itemprop="itemListElement" itemscope
+<section> 
+<nav style="--bs-breadcrumb-divider: url(&#34;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='%236c757d'/%3E%3C/svg%3E&#34;);" aria-label="breadcrumb">
+  <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+      <li class="breadcrumb-item" itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
         <a itemprop="item" href="{{ site.data.locales[page.locale].site.url }}">
             <span itemprop="name">{{ site.data.locales[page.locale].page.home }}</span></a>
         <meta itemprop="position" content="1" />
        </li>   
       {% if page.layout == 'post' %}  
-      <li itemprop="itemListElement" itemscope
+      <li class="breadcrumb-item" itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
         <a class="active" itemprop="item" href="{% if page.active == "audios" %}/audios{% elsif page.active == "biography" %}/biography{% elsif page.active == "category" %}/category{% elsif page.active == "muqolat" %}/muqolat{% elsif page.active == "wahhabi" %}/wahhabism{% else %}/fatwas{% endif %}">
             <span itemprop="name">{% if page.active == "audios" %}Audios{% elsif page.active == "biography" %}Biography{% elsif page.active == "category" %}Categories{% elsif page.active == "muqolat" %}Muqolat{% elsif page.active == "wahhabi" %}Wahhabism{% else %}Fatwas{% endif %}</span></a>
         <meta itemprop="position" content="2" />
       </li>
       {% endif %}   
-      <li itemprop="itemListElement" itemscope
+      <li class="breadcrumb-item" itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
         <span itemprop="name">{{ page.title | truncate: 100 }}</span>
         <meta itemprop="position" content="{% if page.layout == 'post' %}3{% else %}2{% endif %}" />
       </li>
-    </ol>
+  </ol>
+</nav>
+</section>
