@@ -21,7 +21,6 @@
        {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace | remove_first: "Question:" }}
      </p>
     <meta itemprop="author" content="{{ post.publisher }}" />
-    {% include read_time.html %}
     </article>
    </li>
   {% endfor %}
