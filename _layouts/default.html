@@ -8,14 +8,9 @@ layout: compress
 </head>
 <body role="document" itemscope itemtype="https://schema.org/WebPage" onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}">
 {% include Header.html %}
-<main role="main"><!-- main -->
- <div class="container"><!-- .container -->
-  <section><!-- section -->
-   {{ content }}
-  </section><!-- /section -->
- </div><!-- /.container -->
+<main role="main" class="container-md flex-shrink-0"><!-- main -->
+ {{ content }}
 </main><!-- /main -->
-<div class="spacer"></div>
 {% include Sidebar.html %} 
 {% include Footer.html %}
 {% include Javascripts.html %}
