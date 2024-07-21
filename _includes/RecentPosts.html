@@ -45,7 +45,7 @@
     <p class="mb-1 fst-italic">
      {{ item.content | truncatewords: 30  | strip_html | normalize_whitespace | remove_first: "Question:" }}
      </p>
-    <small><i class="bi bi-calendar-day"></i> {{ item.hijri }} // {{ page.date | date: "%b %d, %Y" }}</small>
+    <small><i class="bi bi-calendar-day"></i> {{ item.hijri }}</small>
    </article> 
   </a>
 {% endfor %}
