@@ -74,12 +74,26 @@ aside {
 <body role="document" itemscope itemtype="https://schema.org/WebPage" onload="setModifiedDate(); setAccessedDate();" class="is-preload {{ page.locale }}">
 <!-- Header -->
 <header role="banner" class="fixed-top bg-transparent">
-<div class="collapse bg-danger" id="navbarToggleExternalContent" data-bs-theme="dark">
-  <div class="bg-dark p-4">
-    <h5 class="text-body-emphasis h4">Search</h5>
-        <form class="d-flex" role="search">
-<div class="input-group mb-3">
-  <input type="search" class="form-control shadow-none border-danger" placeholder="Type keyword" aria-label="Search" aria-describedby="button-addon2">
+<div class="collapse" id="navbarToggleExternalContent" data-bs-theme="dark">
+  <meta itemprop="url" content="{{ site.data.locales[page.locale].site.url }}"/>
+  <div class="bg-dark p-4" itemscope itemtype="http://schema.org/WebSite">
+    <h5 class="text-body-emphasis h4">{{ site.data.locales[page.locale].page.search }}</h5>
+        <form class="d-flex" role="search" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" action="{{ site.data.locales[page.locale].site.url_search }}">
+        <meta itemprop="target" content="{{ site.data.locales[page.locale].site.url_search }}?q={q}"/>  
+<div class="input-group mb-3" itemprop="query-input" itemscope itemtype="http://schema.org/PropertyValueSpecification">
+  <meta itemprop="valueName" content="q"/>
+  <input 
+    type="search" 
+    class="form-control shadow-none border-danger" 
+    placeholder="{{ site.data.locales[page.locale].page.search }}" 
+    aria-label="Search" 
+    aria-describedby="button-addon2"
+    name="q" 
+    id="tipue_search_input" 
+    itemprop="query-input"
+    pattern=".{3,}" 
+    title="At least 3 characters" 
+    required>
   <button class="btn btn-danger" type="button" id="button-addon2">Search</button>
 </div>            
     </form>
@@ -195,9 +209,9 @@ aside {
 <footer role="contentinfo" class="footer mt-auto py-3">
   <div class="container">
 <div class="hstack gap-3">
-  <div class="p-2"><p class="copyright">&copy; <span property="copyrightYear">2019 - {{ 'now' | date: "%Y" }}</span> <span property="copyrightHolder" vocab="http://schema.org" itemtype="Person"><span property="name">{{ site.data.locales[page.locale].site.title }}</span></span></p></div>
-  <div class="p-2 ms-auto"><a href="#!"><i class="bi bi-instagram"></i> <span class="visually-hidden">Instagram @Alsalafiyyah</span></a></div>  
-  <div class="p-2"><a href="#!"><i class="bi bi-github"></i><span class="visually-hidden">GitHub</span></a></div>
+  <div class="p-2">&copy; <span property="copyrightYear">2019 - {{ 'now' | date: "%Y" }}</span> <span property="copyrightHolder" vocab="http://schema.org" itemtype="Person"><span property="name">{{ site.data.locales[page.locale].site.title }}</span></span></div>
+  <div class="p-2 ms-auto"><a target="_blank" href="https://instagram.com/alsalafiyyah"><i class="bi bi-instagram"></i> <span class="visually-hidden">Instagram @Alsalafiyyah</span></a></div>  
+  <div class="p-2"><a target="_blank" href="https://github.com/alsalafiyyah"><i class="bi bi-github"></i><span class="visually-hidden">GitHub</span></a></div>
 </div>     
   </div>
 </footer>
