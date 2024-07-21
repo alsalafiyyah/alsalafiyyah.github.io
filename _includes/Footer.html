@@ -1,21 +1,10 @@
-<footer class="footer" role="contentinfo" vocab="http://schema.org" itemtype="WPFooter">
- <div class="footer-container">
-  <div class="row flex">
-   <div class="column">   
-    <p class="copyright">&copy; <span property="copyrightYear">2019 - {{ 'now' | date: "%Y" }}</span> <span property="copyrightHolder" vocab="http://schema.org" itemtype="Person"><span property="name">{{ site.data.locales[page.locale].site.title }}</span></span></p>
-   </div>
-   <div class="column">   
-    <ul class="square" typeof="ItemList">
-     {% for item in site.data.locales[page.locale].footer %}
-     <li property="itemListElement" typeof="ListItem"> 
-      <a href="{{ item.url }}" property="item" typeof="WebPage" target="_blank">
-       <span property="name">{{ item.name }}</span>
-      </a>
-      <meta property="position" content="{{ forloop.index }}" />
-      </li>
-      {% endfor %}
-      </ul>
-   </div> 
+<!-- Footer -->
+<footer role="contentinfo" vocab="http://schema.org" itemtype="WPFooter" class="footer mt-auto py-3">
+  <div class="container">
+<div class="hstack gap-3">
+  <div class="p-2">&copy; <span property="copyrightYear">2019 - {{ 'now' | date: "%Y" }}</span> <span property="copyrightHolder" vocab="http://schema.org" itemtype="Person"><span property="name">{{ site.data.locales[page.locale].site.title }}</span></span></div>
+  <div class="p-2 ms-auto"><a target="_blank" href="https://instagram.com/alsalafiyyah"><i class="bi bi-instagram"></i> <span class="visually-hidden">Instagram @Alsalafiyyah</span></a></div>  
+  <div class="p-2"><a target="_blank" href="https://github.com/alsalafiyyah"><i class="bi bi-github"></i><span class="visually-hidden">GitHub</span></a></div>
+</div>     
   </div>
-  </div> 
 </footer>
