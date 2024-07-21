@@ -1,51 +1,53 @@
-<div>
-   <h2>{{ site.data.locales[page.locale].page.recent }} 
-    <a class="nowavy" href="{% if page.locale == 'en' %}/fatwas/{% elsif page.locale == 'ar' %}/ar/fatwas/{% else %}/fatwas/{% endif %}">
-      <mark>
-       {{ site.data.locales[page.locale].page.fatwas }}
-      </mark>
-    </a>
-   </h2>
-<ul class="square">
+<section><!-- fatwas widget section -->
+<ul class="list-group">
+  <li class="list-group-item d-flex justify-content-between align-items-center border-0">
+    <h2>{{ site.data.locales[page.locale].page.fatwas }} <i class="bi bi-feather"></i></h2>
+    <a href="/fatwas/" class="badge text-bg-danger rounded-pill icon-link">View all <i class="bi bi-chevron-double-right"></i></a>
+  </li>
+</ul>
+    <div class="list-group">
 {% for post in site.posts limit:5 %}
-{% if post.url %}
- <li> 
- <article 
-   role="article" 
-   itemid="{{ post.url }}" 
-   itemscope 
-   itemtype="http://schema.org/BlogPosting">
-  <link itemprop="mainEntityOfPage" href="{{ post.url }}" />
-  <h3 itemprop="headline" class="widget-title" style="font-size: 100%;">
-   <a itemprop="url" 
-      href="{{ post.url }}" 
-      title="{{ post.title }}">
-      {{ post.title | truncate: 60 }}
-   </a>
-  </h3>
- </article>
- </li>
+{% if post.url %}     
+       <a href="{{ post.url }}" class="list-group-item list-group-item-action border-0" aria-current="true">
+   <article>   
+    <div class="d-flex w-100 justify-content-between">
+      <header>  
+      <h3 class="mb-1">{{ post.title }}</h3>
+      </header>
+    </div>
+    <p class="mb-1 fst-italic">
+     {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace | remove_first: "Question:" }}
+     </p>
+    <small><i class="bi bi-calendar-day"></i> {{ post.hijri }} // {{ post.date | date: "%b %d, %Y" }}</small>
+   </article> 
+  </a>
 {% endif %}
 {% endfor %}
-</ul>
-</div>
+    </div>
+</section><!-- /fatwas widget section -->
 
-<div>
-   <h2> {{ site.data.locales[page.locale].page.recent }} 
-    <a class="nowavy" property="url" class="nowavy" href="{% if page.locale == 'en' %}/audios/{% elsif page.locale == 'ar' %}/ar/audios/{% else %}/audios/{% endif %}">
-     <mark>
-     {{ site.data.locales[page.locale].page.audios }}
-     </mark>
-    </a>
-   </h2>
-<ul class="bullets">
-{% for item in site.audios limit:5 %}
- <li > 
-  <a class="nowavy" href="{{ item.url }}" property="item" typeof="WebPage">
-  <span itemprop="name" class="mark">{{ item.title | truncate: 60 }}</span>
+<section class="mt-5">
+<ul class="list-group">
+  <li class="list-group-item d-flex justify-content-between align-items-center border-0">
+    <h2>{{ site.data.locales[page.locale].page.audios }} <i class="bi bi-cassette"></i></h2>
+    <a href="/audios/" class="badge text-bg-danger rounded-pill icon-link">View all <i class="bi bi-chevron-double-right"></i></a>
+  </li>
+</ul>
+    <div class="list-group">
+{% for item in site.audios limit:5 %}     
+       <a href="{{ item.url }}" class="list-group-item list-group-item-action border-0" aria-current="true">
+   <article>   
+    <div class="d-flex w-100 justify-content-between">
+      <header>  
+      <h3 class="mb-1">{{ item.title }}</h3>
+      </header>
+    </div>
+    <p class="mb-1 fst-italic">
+     {{ item.content | truncatewords: 30  | strip_html | normalize_whitespace | remove_first: "Question:" }}
+     </p>
+    <small><i class="bi bi-calendar-day"></i> {{ item.hijri }} // {{ page.date | date: "%b %d, %Y" }}</small>
+   </article> 
   </a>
-  <meta itemprop="position" content="{{ forloop.index }}" />
- </li>
 {% endfor %}
-</ul> 
-</div>
+</div>  
+</section>
