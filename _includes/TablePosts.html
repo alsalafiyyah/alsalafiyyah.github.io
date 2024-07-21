@@ -84,18 +84,33 @@ ul {
 </table>
 
 <script>
- document.querySelector('button').addEventListener('click', async () => {
-  try {
-    await navigator.share({
-      title: 'Title',
-      text: 'Text',
-      url: location.href,
-    });
-  } catch (err) {
-    document.querySelector(
-      'pre'
-    ).textContent += `${err.name}: ${err.message}\n`;
-  }
-});
- 
+ function createShareButton() {
+  const btn = document.createElement("button");
+
+  const title = document.title;
+  const text = "Check this out!";
+  const url = window.location.href;
+
+  btn.innerText = "share" in navigator ? "Share" : "Share via e-mail";
+
+  btn.onclick = () => {
+    if (navigator.share !== undefined) {
+      navigator
+        .share({
+          title,
+          text,
+          url
+        })
+        .then(() => console.log("Shared!"))
+        .catch(err => console.error(err));
+    } else {
+      window.location = `mailto:?subject=${title}&body=${text}%0A${url}`;
+    }
+  };
+
+  return btn;
+}
+
+document.title = "Demo";
+document.body.appendChild(createShareButton());
 </script>
