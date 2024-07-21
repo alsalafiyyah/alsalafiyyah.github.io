@@ -86,7 +86,7 @@ aside {
     </form>
   </div>
 </div>        
-<nav class="navbar" id="navbar">
+<nav class="navbar" id="navbar" role="navigation" vocab="http://schema.org" itemtype="SiteNavigationElement">
   <div class="container-fluid inline-flex">
     <a class="navbar-brand" href="{{ site.url }}">
       <h1>{{ site.title }}</h1> 
@@ -94,38 +94,19 @@ aside {
     <button type="button" class=" btn btn-danger" data-bs-toggle="collapse" data-bs-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation"> Search</button>
   </div>
   <ul class="nav nav-pills nav-fill border shadow-sm">
+  {% for item in site.data.locales[page.locale].nav %}  
   <li class="nav-item">
-    <a class="nav-link icon-link" aria-current="page" href="fatwas.html">
-    Fatwas
+    <a property="url" class="nav-link icon-link" aria-current="page" href="{{ item.url }}">
+     <span property="name">{{ item.name }}</span>
     </a>
   </li>
-  <li class="nav-item">
-    <a class="nav-link icon-link" href="#!">
-      Audios
-    </a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link icon-link" href="#!">
-        Muqolat
-    </a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link icon-link" href="#!">
-        Categories
-    </a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link icon-link" href="#!">
-     Radd
-    </a>
-  </li>
+  {% endfor %}
 </ul>
 </nav>
 </header>
 <main role="main"><!-- main -->
 
- <section>
- <div class="container-md"><!-- .container -->
+ <section class="container-md"><!-- .container -->
 
 <ul class="list-group">
   <li class="list-group-item d-flex justify-content-between align-items-center border-0">
@@ -152,8 +133,7 @@ aside {
 {% endif %}
 {% endfor %}
     </div>
- </div><!-- /.container -->
-</section>
+</section><!-- /.container -->
  
 </main><!-- /main -->
 <!-- Sidebar -->
