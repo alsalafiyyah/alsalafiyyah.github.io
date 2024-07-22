@@ -6,7 +6,7 @@
   </li>
 </ul>
     <div class="list-group">
-{% for post in site.posts limit:5 %}
+{% for post in site.posts limit:4 %}
 {% if post.url %}     
        <a href="{{ post.url }}" class="list-group-item list-group-item-action border-0" aria-current="true">
    <article>   
@@ -34,7 +34,8 @@
   </li>
 </ul>
     <div class="list-group">
-{% for item in site.audios limit:5 %}     
+  {% assign sorted = site.audios | sort: 'date' | reverse %}
+  {% for item in sorted limit:4 %}     
        <a href="{{ item.url }}" class="list-group-item list-group-item-action border-0" aria-current="true">
    <article>   
     <div class="d-flex w-100 justify-content-between">
