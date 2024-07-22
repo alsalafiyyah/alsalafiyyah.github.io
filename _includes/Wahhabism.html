@@ -1,0 +1,21 @@
+<div class="list-group">  
+<table>     
+{% for c in site.wahhabism %}	
+  <tr>
+   <td>
+     <a class="list-group-item list-group-item-action border-0" title="{{ c.title }}" href="{{ c.url }}">
+      <article>
+    <header>
+    <h3 class="mb-1">     
+     {{ c.title }}
+    </h3>
+     </header>
+    <p class="mb-1 fst-italic">{{ c.excerpt | escape | truncate: 155 }}</p>
+    <small><i class="bi bi-calendar-day"></i> {{ c.hijri }}</small>
+      </article>
+     </a>
+   </td>    
+  </tr>
+  {% endfor %}	
+</table>
+</div>
