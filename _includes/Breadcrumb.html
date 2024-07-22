@@ -15,6 +15,27 @@
         <meta itemprop="position" content="2" />
       </li>
       {% endif %}   
+      {% if page.active == "radd" %}
+      <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <a class="link-opacity-50-hover" itemprop="item" 
+          href="/radd/">
+          <span itemprop="name">
+            {{ page.title }}
+          </span>
+        </a>
+       <meta itemprop="position" content="2" />
+      </li>
+      {% elsif page.active == "biography" %}
+      <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <a class="link-opacity-50-hover" itemprop="item" 
+          href="/biography/">
+          <span itemprop="name">
+            {{ page.title }}
+          </span>
+        </a>
+       <meta itemprop="position" content="2" />
+      </li>    
+      {% endif %}
       <li class="breadcrumb-item" itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
         <span itemprop="name">{{ page.title | truncate: 100 }}</span>
