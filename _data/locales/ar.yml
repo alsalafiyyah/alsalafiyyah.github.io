@@ -20,28 +20,30 @@ nav:
   - name: التصنيفات
     url: /ar/category
     active: category
-
-footer:
-  - name: تغذية RSS
-    url: /sitemap
-  - name: خريطة الموقع
-    url: /sitemap
-
-aside_external_links:
-  - name: إنستقرام
-    url: https://instagram.com/alsalafiyyah
-  - name: الفتاوى
-    url: https://al-fatawa.com/
+  - name: الرد
+    url: /ar/radd/    
 
 aside_quick_links:
   - name: البدعة
     url: /ar/bidah/
   - name: الوهابية
-    url: /ar/wahhabism/
-  - name: الرد
-    url: /ar/radd/  
+    url: /ar/wahhabism/  
   - name: الفرقة والطائفة
     url: /ar/sects/
+
+aside_external_links:
+  - name: تغذية RSS
+    url: /feed
+  - name: خريطة الموقع
+    url: /sitemap
+  - name: AlFatawa.Com
+    url: https://al-fatawa.com/
+
+footer:
+  - name: تغذية RSS
+    url: /rss
+  - name: خريطة الموقع
+    url: /sitemap
 
 page:
   next: التالي
