@@ -1,10 +1,10 @@
 <header role="banner" vocab="http://schema.org" itemtype="WPHeader" class="fixed-top bg-transparent">
-<div class="collapse" id="navbarToggleExternalContent" data-bs-theme="dark">
+<div class="collapse" id="navbarToggleExternalContent" data-bs-theme="dark">  
+ <div class="bg-dark p-4" itemscope itemtype="http://schema.org/WebSite">
+   <h5 class="text-body-emphasis h4">{{ site.data.locales[page.locale].page.search }}</h5>
   <meta itemprop="url" content="{{ site.data.locales[page.locale].site.url }}"/>
-  <div class="bg-dark p-4" itemscope itemtype="http://schema.org/WebSite">
-    <h5 class="text-body-emphasis h4">{{ site.data.locales[page.locale].page.search }}</h5>
-        <form class="d-flex" role="search" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" action="{{ site.data.locales[page.locale].site.url_search }}">
-        <meta itemprop="target" content="{{ site.data.locales[page.locale].site.url_search }}?q={q}"/>  
+  <form class="d-flex" role="search" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" action="{{ site.data.locales[page.locale].site.url_search }}">
+  <meta itemprop="target" content="{{ site.data.locales[page.locale].site.url_search }}?q={q}"/>  
 <div class="input-group mb-3" itemprop="query-input" itemscope itemtype="http://schema.org/PropertyValueSpecification">
   <meta itemprop="valueName" content="q"/>
   <input 
