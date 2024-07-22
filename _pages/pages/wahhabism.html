@@ -7,21 +7,4 @@ excerpt: Debunking misconceptions about Salafi Da'wah, Shaykh Muhammad ibn Abdul
 permalink: /wahhabism/
 ---
 <p>Shaykh <a href="https://alsalafiyyah.github.io/biography/abdul-wahhab/">Muhammad ibn ‘Abdul-Wahhab</a> was a follower of Quran and Sunnah, and he was one of the renewers and reformers who called the ummah to come back to the Quran and Sunnah and to follow the example of the righteous salaf (may Allah be pleased with them). He did not introduce anything new from himself, rather he called people to the Quran and Sunnah. And <b>Wahhabism</b> is the term which the enemies of Shaykh Muhammad ibn ‘Abdul-Wahhab gave to his dawah to purify Tawhid (monotheism) from all forms of Shirk (polytheism) and to renounce all the ways except that of Muhammad Ibn ‘Abdullah (peace and blessings be upon him). Their intention was to alienate people from his dawah and obstruct it.</p>
-<table>
- <tbody>     
-  {% for c in site.wahhabism %}	
-  <tr>
-   <td>
-    <h3>
-     <a title="{{ c.title }}" href="{{ c.url }}">
-     {{ c.title }}
-     </a>
-    </h3>
-    <p>{{ c.hijri }}</p>
-    </a>
-   </td>
-   </td>    
-  </tr>      
-  {% endfor %}	
- </tbody>	
-</table>
+{% include Wahhabism.html %}
