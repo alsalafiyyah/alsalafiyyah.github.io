@@ -7,19 +7,4 @@ active: muqolat
 permalink: /en/muqolat/
 excerpt: Collection of translated articles and lectures from scholars of the Sunnah.
 ---
-<table>     
- {% for c in site.muqolat %}	
-  <tr>
-   <td>
-    <h3 class="content-title">
-     <a title="{{ c.title }}" href="{{ c.url }}">
-     {{ c.title }}
-     </a>
-    </h3>
-    </a>
-    <date class="content-date">{{ c.hijri }}</date>
-    <p class="content-excerpt">{{ c.excerpt | strip_html | truncate: 155 }}</p>
-   </td>    
-  </tr>      
-  {% endfor %}	
-</table>
+{% include Muqolat.html %}
