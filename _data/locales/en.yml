@@ -33,9 +33,9 @@ aside_quick_links:
 
 aside_external_links:
   - name: RSS Feed
-    url: /feed/
+    url: /feed
   - name: Sitemap
-    url: /sitemap/
+    url: /sitemap
   - name: AlFatawa.Com
     url: https://al-fatawa.com/
 
