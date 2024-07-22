@@ -34,6 +34,16 @@ var table = new DataTable("table", {
       }
     }
   </script>
-<script>
-{% include Pagination.js %}
+<script type="text/javascript">
+$( document ).ready(function() {
+  $('.navbar-search').click(function(){ 
+   if($('.navbar-search').hasClass('collapsed')){
+     $('.navbar-search .bi').removeClass('bi-x-lg');
+     $('.navbar-search .bi').addClass('bi-search');
+   }else{
+     $('.navbar-search  .bi').removeClass('bi-search');
+     $('.navbar-search  .bi').addClass('bi-x-lg');
+   }
+  });
+});    
 </script>
