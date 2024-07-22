@@ -29,7 +29,9 @@
     <a itemprop="url" class="navbar-brand" href="{{ site.data.locales[page.locale].site.url | default: site.url | escape }}">
       <h1 itemprop="name" >{{ site.data.locales[page.locale].site.title | default: site.title | escape }}</h1> 
     </a>
-    <button type="button" class=" btn btn-danger" data-bs-toggle="collapse" data-bs-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation"> Search</button>
+    <button class="navbar-search shadow-none btn btn-danger" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="bi bi-search"></span>
+    </button>
   </div>
   <ul class="nav nav-pills nav-fill border shadow-sm">
   {% for item in site.data.locales[page.locale].nav %}  
