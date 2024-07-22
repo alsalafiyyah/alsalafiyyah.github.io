@@ -9,8 +9,9 @@ layout: default
   itemid="{{ post.url }}">
   {% include Breadcrumb.html %}
  <header itemprop="headline">  
-  <h2>{{ page.title }}</h2>
+  <h2 class="display-2">{{ page.title }}</h2>
  </header>
+ <br/>
  <div property="articleBody">
   {% include AudioPlayer.html %}
   {{ content }}
