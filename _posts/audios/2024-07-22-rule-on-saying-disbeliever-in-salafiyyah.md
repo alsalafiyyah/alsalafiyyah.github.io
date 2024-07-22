@@ -8,7 +8,6 @@ date: 2024-07-22
 lang: en
 note: false
 locale: en
-active: audios
 excerpt: This is ignorance and trespassing the truth. If he intends that using this term is not necessary and that it is not necessary for a person to say I am Salafi, then the affair is easy.
 category: [audios,manhaj]
 shaykhs: 
