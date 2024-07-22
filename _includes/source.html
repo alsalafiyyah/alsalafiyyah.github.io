@@ -265,6 +265,21 @@
     {% endfor %}
    {% endif %}
   {% endif %}
+
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  <li class="list-group-item">       
+  {% for category in categories %}
+   <a href="{{site.baseurl}}/category/{{category|slugize}}">
+    <span class="badge text-bg-light">{{category|capitalize}}</span>
+   </a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}        
+  </li>
+
     <li class="list-group-item" id='last-modified'></li>
     <li class="list-group-item">
      <a href="https://www.github.com/{{ site.github_username }}/{{ site.git_repo }}/blob/master/{{ page.path }}" target="_blank" class="icon-link btn btn-danger btn-sm" role="button"><i class="bi bi-pencil-square"></i> Edit on GitHub</a>
