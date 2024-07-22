@@ -266,6 +266,12 @@
    {% endif %}
   {% endif %}
 
+  {% if page.translated_by %}
+   <li class="list-group-item">
+   Translated by: <b>{{ page.translated_by }}</b> {% else %}
+    </li>
+ {% endif %}
+
   {% if post %}
     {% assign categories = post.categories %}
   {% else %}
