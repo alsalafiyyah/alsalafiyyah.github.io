@@ -213,7 +213,7 @@
   <li class="list-group-item">
    {{ site.data.locales[page.locale].page.muftis }}: 
   {% for sh in page.shaykhs %}
-   {{ sh }}
+   <span class="fw-semibold">{{ sh }}</span>
    {% unless forloop.last %},{% endunless %}
   {% endfor %}
   </li>
