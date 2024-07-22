@@ -4,7 +4,7 @@ title: Categories
 active: category
 uid: category
 excerpt: Site categories
-permalink: /categories/
+permalink: /category/
 ---
 <table class="uk-table uk-table-striped" id="table">	
  <tbody>     
@@ -13,8 +13,8 @@ permalink: /categories/
    <td>
     {{ category | first | strip_html }}
    </td>    
-   <td>{{ category[1].size }}</td>
+   <td><span class="badge text-bg-dark">{{ category[1].size }}</span></td>
   </tr>      
   {% endfor %}	
  </tbody>	
-</table>    
+</table>
