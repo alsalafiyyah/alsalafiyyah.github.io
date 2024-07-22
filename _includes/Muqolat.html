@@ -1,6 +1,7 @@
 <div class="list-group">  
 <table>     
-{% for c in site.muqolat %}		
+  {% assign sorted = site.muqolat | sort: 'date' | reverse %}
+  {% for c in sorted %}	
   <tr>
    <td>
      <a class="list-group-item list-group-item-action border-0" title="{{ c.title }}" href="{{ c.url }}">
