@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Shaykh Abdul-Aziz ibn Baz"
-publisher: "alsalafiyyah@icloud.com"
+title: Shaykh Abdul-Aziz ibn Baz
+publisher: alsalafiyyah@icloud.com
 active: biography
 permalink: /biography/binbaz/
 ---
