@@ -1,19 +1,19 @@
 ---
 layout: page
-title: "His Eminence Shaykh 'Abdullah ibn Qa'ud"
+publisher: alsalafiyyah@icloud.com
+title: Shaykh Abdullah ibn Qa'ud
 active: biography
-publisher: "alsalafiyyah@icloud.com"
+excerpt: Shaykh Abdullah ibn Qa'ud was born on the 17th night of Ramadan in 1343 AH. in the town of Al-Hariq located in Wady Na'am.
 permalink: /biography/qaud/
 ---
 
+### His Name:
 Shaykh 'Abdullah ibn Hasan ibn Muhammad ibn Hasan ibn 'Abdullah Al-Qa'ud
 
 ### His Birth:
-
 Shaykh 'Abdullah ibn Qa'ud was born on the 17th night of Ramadan in 1343 A.H. in the town of Al-Hariq located in Wady Na'am, which is one of the valleys of Yamamah.
 
 ### His Seeking of Knowledge:
-
 He was brought up by his noble parents in affluent surroundings, as his father was a man of means. He studied the basics of reading and writing from the Ever-Glorious Qur’an with Muhammad ibn Sa'ad Al Sulayman during the end of his first decade and the beginning of his second decade. He later learnt the Ever-Glorious Qur’an by heart and some treatises of the Shaykh of Islam Ibn Taymiyyah and Imam Muhammad ibn 'Abdul-Wahhab under the judge of his town, who at that time was Shaykh 'Abdul-'Aziz ibn Ibrahim Al 'Abdul-Latif (may Allah be merciful to him).
 
 After this, his desire to seek knowledge became stronger, so on the 27th of Safar, 1367 A.H., he left his affluent surroundings and travelled to Shaykh 'Abdul-'Aziz ibn 'Abdullah ibn Baz, who was in the region of Kharj. He remained with him for 4 years, apart from breaks to return home to visit his parents, who (may Allah reward them with the best) used to assist him financially whilst he travelled seeking knowledge. Under Shaykh Ibn Baz he studied many of the major books of Hadith and Fiqh (Islamic Jurisprudence). During his time with him, he memorized a number of treatises including Bulugh Al-Maram, and he was very keen to seek knowledge based upon authentic proof.
@@ -33,4 +33,3 @@ On the 20th of Sha'ban, 1378 A.H., he was appointed as the Imam and preacher of 
 He has a number of publications, amongst them a collection of his sermons collected in 4 volumes under the name of Ahadih Al-Jumu'ah. Some of comments are included in the curriculum of Hadith and Fiqh for secondary schools.
 
 The Shaykh died on the 9th of Ramadan, 1426 in Riyadh.
-
