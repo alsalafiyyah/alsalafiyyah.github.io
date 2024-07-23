@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "His Eminence Shaykh 'Abdullah ibn Ghudayyan"
+publisher: alsalafiyyah@icloud.com
+title: Shaykh 'Abdullah ibn Ghudayyan
 active: biography 
-publisher: "alsalafiyyah@icloud.com"
+excerpt: Shaykh Abdullah ibn Abdul-Rahman ibn Abdul-Razzaq Al-Ghudayyan Al-Tamimi. He descended from Al-Muhaddith from Banu Al-'Anbar from Banu 'Amr ibn Tamim.
 permalink: /biography/ghudayyan/
 ---
 
