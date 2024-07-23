@@ -3,9 +3,7 @@ layout: page
 publisher: "alsalafiyyah@icloud.com"
 title: Shaykh Muhammad ibn Hadi Al-Madkhali
 active: biography
-excerpt: Graduated from Imam Muhammad ibn Saud University in 1408 AH, got his
-Masters in 1414 AH and doctorate with Honors of the First Degree in 1427 AH
-from Islamic University of Madinah.
+excerpt: Graduated from Imam Muhammad ibn Saud University in 1408 AH and got his Masters in 1414 AH and doctorate with Honors of the First Degree in 1427 AH from Islamic University of Madinah.
 permalink: /biography/muhammad-ibn-hadi/
 article_taken_from: 
   taken_from:
