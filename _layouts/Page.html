@@ -10,10 +10,13 @@ layout: default
      <span class="badge text-bg-danger rounded-pill">
       {% if page.active == "muqolat" %}
        {{ site.muqolat | size }}
+      {% elsif page.active == "fatwas" %}
+       {{ site.audios | size }}
       {% elsif page.active == "audios" %}
+       {{ site.posts | size }}
+      {% elsif page.active == "biography" %}
        {{ site.audios | size }}
       {% else %}
-       {{ page.title }}
       {% endif %}
      </span> 
      entries found
