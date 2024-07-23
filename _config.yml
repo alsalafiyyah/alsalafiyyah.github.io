@@ -265,3 +265,10 @@ group9:
     - name: Shaykh Abdullah ibn Qa'ud
       url: /biography/qaud   
 
+group10:
+  chairman: 
+    - name: Shaykh Ibn Baz
+      url: /biography/binbaz
+  members: 
+    - name: Shaykh Abdullah ibn Qa'ud
+      url: /biography/qaud
