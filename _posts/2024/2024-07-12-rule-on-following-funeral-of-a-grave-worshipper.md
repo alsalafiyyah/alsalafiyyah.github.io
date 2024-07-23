@@ -5,8 +5,9 @@ title: Ruling on following the funeral of grave-worshippers
 date: 2024-07-12
 hijri: Muharram 06, 1446
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 3548, Question 1
-category: [fatwas, funerals, sects]
+category: [fatwas,funerals,sects]
 note: true
+group6: true
 locale: en
 lang: en
 excerpt: If such people die in the state which you describe, it is not permissible to follow their funeral procession, to pray over them, to make Du'a and seek forgiveness for them.
@@ -14,11 +15,8 @@ article_taken_from:
   taken_from:
     - web_title: تشييع جنازة عباد القبور
       web_url: https://al-fatawa.com/fatwa/110973
-shaykhs: 
- - Sh. Ibn Baz
- - Sh. Abdul-Razzaq Afifi
- - Sh. Abdullah ibn Ghudayyan
 ---
+
 ### Question: 
 Allah (Exalted be He) says, "**It is not (proper) for the Prophet and those who believe to ask Allâh’s Forgiveness for the Mushrikûn (polytheists, idolaters, pagans, disbelievers in the Oneness of Allâh), even though they be of kin, after it has become clear to them that they are the dwellers of the Fire (because they died in a state of disbelief)."** (Qur'an, at-Tawbah: 113). The apparent meaning of this Ayah (Quranic verse) is that it is not allowed to ask for forgiveness for mushrikun (polytheists) even if they are close relatives. 
 
