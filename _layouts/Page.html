@@ -10,12 +10,16 @@ layout: default
      <span class="badge text-bg-danger rounded-pill">
       {% if page.active == "muqolat" %}
        {{ site.muqolat | size }}
-      {% elsif page.active == "fatwas" %}
-       {{ site.audios | size }}
       {% elsif page.active == "audios" %}
+       {{ site.audios | size }}
+      {% elsif page.active == "fatwas" %}
        {{ site.posts | size }}
       {% elsif page.active == "biography" %}
        {{ site.audios | size }}
+      {% elsif page.active == "radd" %}
+       {{ site.radd | size }}
+      {% elsif page.active == "wahhabi" %}
+       {{ site.wahhabism | size }}
       {% else %}
       {% endif %}
      </span> 
