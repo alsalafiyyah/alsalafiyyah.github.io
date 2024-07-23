@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<section class="container-lg">
+<section class="container-xxl">
  {% include Breadcrumb.html %}
  <ul class="list-group">
   <li class="list-group-item d-flex justify-content-between align-items-center">
@@ -11,42 +11,56 @@ layout: default
        <span class="badge text-bg-danger rounded-pill">
         {{ site.muqolat | size }}
        </span>
-       entries found
+       entries
       </span>
       {% elsif page.active == "audios" %}
        <span class="badge text-bg-light">
        <span class="badge text-bg-danger rounded-pill">
         {{ site.audios | size }}
        </span>
-       entries found
+       entries
        </span>
       {% elsif page.active == "fatwas" %}
        <span class="badge text-bg-light">
        <span class="badge text-bg-danger rounded-pill">
         {{ site.posts | size }}
        </span>
-       entries found
+       entries
       </span>
       {% elsif page.active == "biography" %}
        <span class="badge text-bg-light">
        <span class="badge text-bg-danger rounded-pill">
         {{ site.biography | size }}
        </span>
-       entries found
+       entries
       </span>
       {% elsif page.active == "radd" %}
        <span class="badge text-bg-light">
        <span class="badge text-bg-danger rounded-pill">
         {{ site.refutals | size }}
        </span>
-       entries found
+       entries
       </span>
       {% elsif page.active == "wahhabi" %}
        <span class="badge text-bg-light">
        <span class="badge text-bg-danger rounded-pill">
         {{ site.wahhabism | size }}
        </span>
-       entries found
+       entries
+      </span>
+      {% elsif post.categories contains 'bidah' %}
+       <span class="badge text-bg-light">
+       <span class="badge text-bg-danger rounded-pill">
+        {{ post.categories contains 'bidah' | size }}
+       </span>
+       entries
+      </span>   
+      {% elsif post.categories contains 'sects' %}
+       <span class="badge text-bg-light">
+       <span class="badge text-bg-danger rounded-pill">
+        {{ post.categories contains 'sects' | size }}
+       </span>
+       entries
       </span>
      {% endif %} 
   </li>
