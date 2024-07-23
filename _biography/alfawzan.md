@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Shaykh Salih Ibn Fawzan Al-Fawzan"
+publisher: alsalafiyyah@icloud.com
+title: Shaykh Salih Ibn Fawzan Al-Fawzan
 active: biography
-publisher: "alsalafiyyah@icloud.com"
+excerpt: Shaykh Dr. Salih Ibn Fawzan ibn 'Abdullah Al-Fawzan from the family of Fawzan from the people of Al-Shamasyah from the tribe of Al-Dawasir.
 permalink: /biography/fawzan/
 ---
 
