@@ -10,32 +10,11 @@
       {% if page.layout == 'post' %}  
       <li class="breadcrumb-item" itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
-        <a class="link-opacity-50-hover" itemprop="item" href="{% if page.active == "audios" %}/audios{% elsif page.active == "biography" %}/biography{% elsif page.active == "category" %}/category{% elsif page.active == "muqolat" %}/muqolat{% elsif page.active == "wahhabi" %}/wahhabism{% else %}/fatwas{% endif %}">
-            <span itemprop="name">{% if page.active == "audios" %}Audios{% elsif page.active == "biography" %}Biography{% elsif page.active == "category" %}Categories{% elsif page.active == "muqolat" %}Muqolat{% elsif page.active == "wahhabi" %}Wahhabism{% else %}Fatwas{% endif %}</span></a>
+        <a class="link-opacity-50-hover" itemprop="item" href="{% if page.active == "audios" %}/audios{% elsif page.active == "category" %}/category{% elsif page.active == "muqolat" %}/muqolat{% elsif page.active == "wahhabi" %}/wahhabism{% else %}/fatwas{% endif %}">
+            <span itemprop="name">{% if page.active == "audios" %}Audios{% elsif page.active == "category" %}Categories{% elsif page.active == "muqolat" %}Muqolat{% elsif page.active == "wahhabi" %}Wahhabism{% else %}Fatwas{% endif %}</span></a>
         <meta itemprop="position" content="2" />
       </li>
       {% endif %}   
-      {% if page.active == "radd" %}
-      <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-        <a class="link-opacity-50-hover" itemprop="item" 
-          href="/radd/">
-          <span itemprop="name">
-            Ar-Radd
-          </span>
-        </a>
-       <meta itemprop="position" content="2" />
-      </li>
-      {% elsif page.active == "biography" %}
-      <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-        <a class="link-opacity-50-hover" itemprop="item" 
-          href="/biography/">
-          <span itemprop="name">
-            Scholars Biographies
-          </span>
-        </a>
-       <meta itemprop="position" content="2" />
-      </li>    
-      {% endif %}
       <li class="breadcrumb-item" itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
         <span itemprop="name">{{ page.title | truncate: 100 }}</span>
