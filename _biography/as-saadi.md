@@ -1,9 +1,14 @@
 ---
 layout: page
+publisher: alsalafiyyah@icloud.com
+title: Shaykh Abdurrahman ibn Nasir As-Sa'di
 active: biography
-title: "Shaykh Al-Sa'di"
-publisher: "alsalafiyyah@icloud.com"
+excerpt: He was born in Unayzah, in al-Qasim, on the twelfth of Muharram 1307H, and he lived as an orphan, without either of his parents.
 permalink: /biography/saadi/
+article_taken_from: 
+  taken_from:
+    - web_title: Biography of Shaykh Abdurrahman ibn Nasir As-Sa'di
+      web_url: https://alitisaambissunnah.wordpress.com/2011/11/09/biography-of-shaikh-abdur-rahmaan-ibn-naasir-as-sadee-rahimahullaah/
 ---
 
 #### His lineage
@@ -71,7 +76,4 @@ Shaikh Ibn Sa'di -rahimahullah- gave great attention to writing works. He produc
 #### His illness and death
 
 He fell ill in the year 1371 H, i.e. five years before his death, with the illness of high blood pressure and arteriosclerosis, and it would strike him time after time, and he bore it patiently, until he moved on to his Lord, at the time of Fajr, on Thursday the 22nd of Jumadal-Akhirah 1376 H – may Allah forgive him, and his parents, and our parents, and all of the Muslims.
-
-
-Source: [alitisaambissunnah](https://alitisaambissunnah.wordpress.com/2011/11/09/biography-of-shaikh-abdur-rahmaan-ibn-naasir-as-sadee-rahimahullaah/)
  
