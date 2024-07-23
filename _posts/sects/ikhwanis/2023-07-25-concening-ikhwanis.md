@@ -11,12 +11,12 @@ note: false
 excerpt: The founder of this methodology was a Sufi. He had a connection with Sufism.
 article_taken_from: 
   taken_from:
-    - web_title: AbdurRahman.Org
+    - web_title: Modern Day Devient Groups
       web_url: "https://abdurrahman.org/2014/01/15/moderndaydevientgroups/"
 muftis:
   shaykh: 
     - name: Shaykh Ahmad Ibn Yahya An-Najmi
-      url: null
+      url: /biography/ahmad-alnajmi
 --- 
 
 They are the followers of Hasan Al-Banna. There are several points to be noted about their methodology, the most important of which are the following:
