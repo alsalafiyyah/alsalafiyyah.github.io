@@ -45,6 +45,11 @@ tag_page: '/tags/'
 Categories: '/category/'
 category_page: '/category/'
 
+compress_html:
+  clippings: all
+  startings: [html, head, body]
+  endings: all
+
 tipue_search:
   include:
     pages: false
@@ -224,38 +229,19 @@ group6:
     - name: Shaykh Abdullah ibn Ghudayyan
       url: /biography/ghudayyan   
 
-# The Shaykhs
-binbaz:
-  name: Shaykh Ibn Baz
-  url: /biography/binbaz
-fawzan:
-  name: Shaykh Salih Al-Fawzan
-  url: /biography/fawzan
-saadi: 
-  name: Shaykh Al-Sa'di
-  url: /biography/saadi
-taymiyyah: 
-  name: Shaykh Al-Islam Ibn Taymiyyah
-  url: /biography/taymiyyah  
-uthaymeen: 
-  name: Shaykh Ibn Uthaymeen
-  url: /biography/uthaymeen
-uthaymeen_ar: 
-  name: الشيخ ابن عثيمين رحمه الله
-  url: /biography/uthaymeen
-ahmad-alnajmi: 
-  name: Shaykh Ahmad Ibn Yahya Al-Najmi
-  url: /biography/ahmad-alnajmi
-kathir: 
-  name: Ibn Kathir
-  url: /biography/ibn-kathir
-qayyim: 
-  name: Imam Ibn Qayyim
-  url: /biography/alqayyim
-
-
-compress_html:
-  clippings: all
-  startings: [html, head, body]
-  endings: all
-
+group7:
+  chairman: 
+    - name: Shaykh Ibn Baz
+      url: /biography/binbaz
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Afifi
+      url: /biography/afifi
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan
+    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+      url: /biography/abdulaziz      
+    - name: Shaykh Salih Al-Fawzan
+      url: /biography/fawzan
+    - name: Shaykh Bakr Abu Zayd
+      url: /biography/bakr
