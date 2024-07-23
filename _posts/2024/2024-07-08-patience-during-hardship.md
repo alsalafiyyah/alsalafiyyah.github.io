@@ -7,6 +7,7 @@ hijri: Muharram 02, 1446
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 6365, Question 8
 category: [fatwas]
 note: true
+group1: true
 locale: en
 lang: en
 excerpt: A Muslim should depend on Allah and hold firm to His Rope in bringing benefit and removing harm. If a person is inflicted with a calamity or adversity, they should be patient and seek Allah's Reward for it.
@@ -14,12 +15,8 @@ article_taken_from:
   taken_from:
     - web_title:  الصبر عند المصيبة
       web_url: https://al-fatawa.com/fatwa/110967
-shaykhs: 
- - Sh. Ibn Baz
- - Sh. Abdul-Razzaq Afifi
- - Sh. Abdullah ibn Ghudayyan
- - Sh. Abdullah ibn Qa'ud
 ---
+
 ### Question: 
 I do not feel submission or the sweetness of faith. This may happen at times of diversity and calamities. What is the solution to this? Please advise me, may Allah reward you. 
 
