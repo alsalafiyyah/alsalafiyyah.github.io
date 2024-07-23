@@ -3,15 +3,14 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 title: Can Ali ibn Abu Talib aid anyone after his death?
 date: 2024-07-23
-hijri: Muharram 17, 1446 AH
+hijri: Muharram 17, 1446
 source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.1727, Question 5
 category: [fatwas]
 note: true
-group: true
+group1: true
 locale: en
 lang: en
 excerpt: A person who believes that Ali, or any other dead person, can bring benefit or ward off harm is a Mushrik, because this is particular to Allah, the Exalted, alone.
-shaykhs: Sh. Ibn Baz, Sh. Abdul-Razzaq Afifi, Sh. Abdullah ibn Ghudayyan, Sh. Abdullah ibn Qa'ud
 article_taken_from: 
   taken_from:
     - web_title: القول بأن علي رضي الله عنه يدفع المصائب عن غيره بعد موته 
