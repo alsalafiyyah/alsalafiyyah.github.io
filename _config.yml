@@ -134,6 +134,11 @@ collections:
     active: audios
     permalink: /audios/:title/
     layout: post
+  biography:
+    output: true
+    active: biography
+    permalink: /biography/:title/
+    layout: page    
   ar:
     output: true
     locale: ar
