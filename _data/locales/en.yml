@@ -17,7 +17,7 @@ nav:
   - name: Muqolat
     url: /muqolat
     active: muqolat
-  - name: Scholars Biographies
+  - name: Biographies
     url: /biography/    
   - name: Categories
     url: /category
