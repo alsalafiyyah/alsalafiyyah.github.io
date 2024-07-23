@@ -6,18 +6,16 @@ active: biography
 permalink: /biography/binbaz/
 ---
 
+### His Name:
 Shaykh 'Abdul-'Aziz ibn 'Abdullah ibn 'Abdul-Rahman ibn Muhammad ibn 'Abdullah Al-Baz
 
 ### His Birth:
-
 Shaykh 'Abdul-'Aziz ibn Baz was born in 1330 A.H. in Dhul-Hijjah, in Riyadh. He enjoyed normal eyesight until his eyes were inflicted with a disease in 1346 A.H. This weakened his eyesight, which he later lost in 1350 A.H.
 
 ### His Seeking of Knowledge:
-
 Ibn Baz memorized the whole Ever-Glorious Qur’an before reaching the age of puberty and then sought knowledge from the scholars of Riyadh. When he excelled in his knowledge of the various branches of the Shari'ah and the Arabic language, he was appointed to the judiciary in 1357 A.H. He never stopped seeking knowledge; he was constantly occupied with searching and teaching and his positions did not distract him from this, so he became knowledgeable in many sciences. He gave special attention to Hadith and its sciences to the extent that his ranking of a Hadith as sound or weak was taken into consideration – and only a few attain such a position, particularly at the present time. This was manifest in his writings and Fatwas (legal opinions issued by a qualified Muslim scholar), as he would only adopt opinions supported by evidence.
 
 ### His Shaykhs:
-
 Ibn Baz acquired knowledge from many of the great scholars, among them:
 
 1. Shaykh Muhammad ibn 'Abdul-Latif ibn 'Abdul-Rahman ibn Hasan ibn Shaykh Muhammad ibn 'Abdul-Wahhab, Judge of Riyadh
@@ -28,7 +26,6 @@ Ibn Baz acquired knowledge from many of the great scholars, among them:
 6. Shaykh Sa'ad Waqqas Al-Bukhary, one of the scholars of Makkah from whom Ibn Baz learned the science of Tajwid (reciting the Qur'an following the rules of recitation) in 1355 A.H.
 
 ### His Influence:
-
 Since the time Ibn Baz was appointed as a judge in Al-Kharj in 1357 A.H., he gave regular lectures. In Al-Kharj, his lectures were held every day of the week, except Thursday and Friday. He influenced many students who were seeking knowledge, among them:
 1. Shaykh 'Abdullah Al-Kanhal
 2. Shaykh Rashid ibn Salih Al-Khanin
@@ -41,7 +38,6 @@ Since the time Ibn Baz was appointed as a judge in Al-Kharj in 1357 A.H., he gav
 In 1372 A.H., he moved to Riyadh to teach at the Riyadh Educational Institute and then at the College of Shari'ah from its inception in 1373 A.H. He taught the sciences of jurisprudence, Hadith, and Tawhid (belief in the Oneness of Allah/monotheism). He was appointed as Deputy Chairman of the Islamic University in Al-Madinah in 1381 A.H. He established the learning circle at Al-Jami' Al-Kabir in Riyadh, which is still held to the present day, though in the last few years it has become limited to only some days of the week. During his stay in Al-Madinah from 1381 A.H. (as Vice President of the Islamic University and as President from 1390 A.H. until 1395 A.H.) he held a learning circle in the Prophet’s Mosque. It should be noted that the learning circles he set up whenever he moved to a place continue to be held to this day, for example in Al-Ta’if during the summer days. Allah has caused many people to benefit from these learning circles.
 
 ### His Work:
-
 1. A collection of various Fatwas and articles; three parts have been published to date (until the time of publication) [^1]
 2. Al-Fawa’id Al-Jaliyyah Fi Al-Mabahith Al-Frdiyyah
 3. Al-Tahqiq Wa Al-Idah Likathir Min Masa’il Al-Hajj wa Al-'Umrah Wa Al-Ziyarah (Tawdih Al-Manasik)
@@ -88,7 +84,6 @@ His activities were not limited to what has been mentioned; he delivered lecture
 May Allah help us benefit from his knowledge.
 
 ### His Death:
-
 Shaykh Ibn Baz (may Allah be merciful to him) died on Thursday, 27 Muharram, 1420 A.H. when he was 89 years old. He spent his life exerting his utmost efforts to seek good deeds, attain knowledge, call to Allah, fight in Allah’s Cause, fulfill the needs of Muslims, and help them. May Allah be merciful to him, forgive him, give him access to His Spacious Paradise, lighten his grave, let him dwell with the pious, and gather us with him in the abode of His Honor and Mercy.
 
 So many people offered the Funeral Prayer over him after the Friday Prayer, which gives evidence to the fact of how much he was loved.
