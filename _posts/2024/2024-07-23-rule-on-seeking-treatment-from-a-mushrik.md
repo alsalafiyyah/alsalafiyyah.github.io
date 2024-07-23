@@ -10,7 +10,7 @@ note: true
 group1: true
 locale: en
 lang: en
-excerpt: 
+excerpt: It is forbidden to go to someone who practices acts of shirk, such as making supplications to and seeking help from the dead for the sake of recovery from illnesses.
 article_taken_from: 
   taken_from:
     - web_title: الذهاب إلى من يفعل أعمال الشرك من دعاء أصحاب القبور والاستغاثة بهم 
