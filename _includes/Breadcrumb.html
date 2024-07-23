@@ -15,6 +15,14 @@
         <meta itemprop="position" content="2" />
       </li>
       {% endif %}   
+      {% if page.layout == 'page' %}  
+      <li class="breadcrumb-item" itemprop="itemListElement" itemscope
+          itemtype="https://schema.org/ListItem">
+        <a class="link-opacity-50-hover" itemprop="item" href="{% if page.active == "biography" %}/biography{% elsif page.active == "radd" %}/radd{% endif %}">
+            <span itemprop="name">{% if page.active == "biography" %}Scholars Biographies{% elsif page.active == "radd" %}Ar-Radd{% endif %}</span></a>
+        <meta itemprop="position" content="2" />
+      </li>
+      {% endif %}
       <li class="breadcrumb-item" itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
         <span itemprop="name">{{ page.title | truncate: 100 }}</span>
