@@ -3,6 +3,7 @@ layout: page
 title: Shaykh Abdul-Aziz ibn Baz
 publisher: alsalafiyyah@icloud.com
 active: biography
+excerpt: Shaykh Abdul-Aziz ibn Baz was born in 1330 A.H. in Dhul-Hijjah, in Riyadh. He enjoyed normal eyesight until his eyes were inflicted with a disease in 1346 A.H.
 permalink: /biography/binbaz/
 ---
 
@@ -10,7 +11,7 @@ permalink: /biography/binbaz/
 Shaykh 'Abdul-'Aziz ibn 'Abdullah ibn 'Abdul-Rahman ibn Muhammad ibn 'Abdullah Al-Baz
 
 ### His Birth:
-Shaykh 'Abdul-'Aziz ibn Baz was born in 1330 A.H. in Dhul-Hijjah, in Riyadh. He enjoyed normal eyesight until his eyes were inflicted with a disease in 1346 A.H. This weakened his eyesight, which he later lost in 1350 A.H.
+Shaykh Abdul-Aziz ibn Baz was born in 1330 A.H. in Dhul-Hijjah, in Riyadh. He enjoyed normal eyesight until his eyes were inflicted with a disease in 1346 A.H. This weakened his eyesight, which he later lost in 1350 A.H.
 
 ### His Seeking of Knowledge:
 Ibn Baz memorized the whole Ever-Glorious Qur’an before reaching the age of puberty and then sought knowledge from the scholars of Riyadh. When he excelled in his knowledge of the various branches of the Shari'ah and the Arabic language, he was appointed to the judiciary in 1357 A.H. He never stopped seeking knowledge; he was constantly occupied with searching and teaching and his positions did not distract him from this, so he became knowledgeable in many sciences. He gave special attention to Hadith and its sciences to the extent that his ranking of a Hadith as sound or weak was taken into consideration – and only a few attain such a position, particularly at the present time. This was manifest in his writings and Fatwas (legal opinions issued by a qualified Muslim scholar), as he would only adopt opinions supported by evidence.
