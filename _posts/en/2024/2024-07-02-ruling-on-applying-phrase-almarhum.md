@@ -7,6 +7,7 @@ hijri: Dhul-Hijjah 26, 1445
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 8217
 category: [fatwas]
 note: true
+group1: true
 locale: en
 lang: en
 excerpt: It is impermissible for anyone to declare that Allah has bestowed forgiveness or mercy upon a deceased person unless there is a clear text. 
@@ -14,11 +15,6 @@ article_taken_from:
   taken_from:
     - web_title: إطلاق لفظ المرحوم والمغفور له على المتوفى
       web_url: https://al-fatawa.com/fatwa/111941
-shaykhs: 
- - Sh. Ibn Baz
- - Sh. Abdul-Razzaq Al-Afifi
- - Sh. Abdullah ibn Ghudayyan
- - Sh. Abdullah ibn Qa'ud
 ---
 
 ### Question:
