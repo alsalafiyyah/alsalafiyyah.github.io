@@ -2,18 +2,17 @@
 layout: Page
 title: Categories
 active: category
-uid: category
 excerpt: Site categories
 permalink: /category/
 ---
-<table class="uk-table uk-table-striped" id="table">	
+<table class="table">	
  <tbody>     
   {% for category in site.categories %}	
   <tr>
    <td>
     {{ category | first | strip_html }}
    </td>    
-   <td><span class="badge text-bg-dark">{{ category[1].size }}</span></td>
+   <td><span class="badge text-bg-danger">{{ category[1].size }}</span></td>
   </tr>      
   {% endfor %}	
  </tbody>	
