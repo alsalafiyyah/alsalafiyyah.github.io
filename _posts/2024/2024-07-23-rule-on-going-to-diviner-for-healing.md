@@ -5,7 +5,7 @@ title: Ruling on going to a diviner in cases of illness
 date: 2024-07-23
 hijri: Muharram 17, 1446
 source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.9440‏, Question 1
-category: [fatwas]
+category: [fatwas,treatments]
 note: true
 group6: true
 locale: en
