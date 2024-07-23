@@ -208,7 +208,32 @@
       </li>
    {% endif %} 
  {% endif %}
- 
+
+  {% if page.group7 %}
+   {% if site.group7.chairman %}
+    <li class="list-group-item">
+     {{ site.data.locales[page.locale].page.chairman }} : 
+    {% for chairman in site.group7.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
+    </li>
+   {% endif %} 
+   {% if site.group7.deputy_chairman %}
+     <li class="list-group-item">
+       {{ site.data.locales[page.locale].page.deputy_chairman }} : 
+      {% for deputy_chairman in site.group7.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
+     </li>
+   {% endif %}      
+   {% if site.group7.members %}
+     <li class="list-group-item">
+        {{ site.data.locales[page.locale].page.members }} : 
+        <ol>
+         {% for members in site.group7.members %}
+         <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
+         {% endfor %}
+        </ol>
+      </li>
+   {% endif %} 
+ {% endif %}
+        
  {% if page.shaykhs %}
   <li class="list-group-item">
    {{ site.data.locales[page.locale].page.muftis }}: 
