@@ -3,17 +3,22 @@ layout: default
 ---
 {% include Breadcrumb.html %}
 <section>
-{% if page.title %}
-<header itemprop="headline">  
- <h2>{{ page.title }}</h2>
- </header>
- {% elsif page.active == "audios" %}
  <ul class="list-group">
   <li class="list-group-item d-flex justify-content-between align-items-center border-danger">
-    <h2>{{ page.title }}</h2>
-    <span class="badge text-bg-light"><span class="badge text-bg-danger rounded-pill">{{ site.audios | size }}</span> entries found</span>
+    <h2 itemprop="headline">{{ page.title }}</h2>
+    <span class="badge text-bg-light">
+     <span class="badge text-bg-danger rounded-pill">
+      {% if page.active == "muqolat" %}
+       {{ site.muqolat | size }}
+      {% elsif page.active == "audios" %}
+       {{ site.audios | size }}
+      {% else %}
+       {{ page.title }}
+      {% endif %}
+     </span> 
+     entries found
+    </span>
   </li>
  </ul>
- {% endif %}
 {{ content }}
 </section>
