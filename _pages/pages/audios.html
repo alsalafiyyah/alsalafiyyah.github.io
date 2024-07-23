@@ -5,4 +5,10 @@ active: audios
 permalink: /audios/
 excerpt: Collection of audio fatwas (legal opinions) issued by the scholars of ahlus-sunnah.
 ---
+<ul class="list-group">
+  <li class="list-group-item d-flex justify-content-between align-items-center">
+    <h3>{{ page.title }}</h3>
+    <span class="badge text-bg-primary rounded-pill">{{ site.audios | size | append: "entries found" }}</span>
+  </li>
+</ul>
 {% include Audio_Lists.html %}
