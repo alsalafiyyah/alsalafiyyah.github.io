@@ -7,14 +7,10 @@ hijri: Muharram 04, 1446
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 1615, Question 12
 category: [fatwas]
 note: true
+group1: true
 locale: en
 lang: en
 excerpt: The knowledge about this matter will not increase or decrease our faith. Thus, we should neither believe nor deny what they say.
-shaykhs: 
- - Sh. Ibn Baz
- - Sh. Abdul-Razzaq Afifi
- - Sh. Abdullah ibn Ghudayyan
- - Sh. Abdullah ibn Qa'ud
 ---
 
 ### Question: 
