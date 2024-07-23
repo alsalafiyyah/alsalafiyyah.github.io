@@ -1,12 +1,17 @@
 ---
 layout: page
-title: "Imam Muhammad ibn 'Abdul-Wahhab: His Da'wah and biography"
+publisher: alsalafiyyah@icloud.com
+title: Shaykh Muhammad ibn 'Abdul-Wahhab
 active: biography
-publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa vol 1"
-hijri: Dhul-Hijjah 18, 1441 AH
-permalink: /biography/abdul-wahhab/
-shaykhs: Shaykh Abdul-Aziz ibn Baz
+hijri: Dhul-Hijjah 18, 1441
+date: 2020/8/8
+excerpt: He is an excellent reformer and a devout caller to Islam, namely, the revivalist of Islam in the Arabian Peninsula during the twelfth century of Hijrah, Imam Muhammad ibn Abdul-Wahhab ibn Sulayman ibn 'Ali Al-Tamimi Al-Hanbali.
+permalink: /biography/abdul-wahhab/ 
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz
 ---
 
 All praise is due to Allah, Lord of the worlds, and peace and blessings be upon His servant, Messenger, and chosen one amongst His creatures, our master and Imam Muhammad ibn 'Abdullah, and upon his family, Companions, and all those who follow him.Dear brothers and sons, this brief lecture aims at enlightening your ideas, clarifying facts, and offering sincere advice to Allah's servants for the Sake of Allah. 
