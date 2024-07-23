@@ -7,6 +7,7 @@ hijri: Muharram 17, 1446 AH
 source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.1727, Question 5
 category: [fatwas]
 note: true
+group: true
 locale: en
 lang: en
 excerpt: A person who believes that Ali, or any other dead person, can bring benefit or ward off harm is a Mushrik, because this is particular to Allah, the Exalted, alone.
