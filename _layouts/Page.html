@@ -4,27 +4,51 @@ layout: default
 {% include Breadcrumb.html %}
 <section>
  <ul class="list-group">
-  <li class="list-group-item d-flex justify-content-between align-items-center border-danger">
-    <h2 itemprop="headline">{{ page.title }}</h2>
-    <span class="badge text-bg-light">
-     <span class="badge text-bg-danger rounded-pill">
+  <li class="list-group-item d-flex justify-content-between align-items-center">
+    <h2 itemprop="headline">{{ page.title }}</h2>   
       {% if page.active == "muqolat" %}
-       {{ site.muqolat | size }}
+      <span class="badge text-bg-light">
+       <span class="badge text-bg-danger rounded-pill">
+        {{ site.muqolat | size }}
+       </span>
+       entries found
+      </span>
       {% elsif page.active == "audios" %}
-       {{ site.audios | size }}
+       <span class="badge text-bg-light">
+       <span class="badge text-bg-danger rounded-pill">
+        {{ site.audios | size }}
+       </span>
+       entries found
+       </span>
       {% elsif page.active == "fatwas" %}
-       {{ site.posts | size }}
+       <span class="badge text-bg-light">
+       <span class="badge text-bg-danger rounded-pill">
+        {{ site.posts | size }}
+       </span>
+       entries found
+      </span>
       {% elsif page.active == "biography" %}
-       {{ site.audios | size }}
+       <span class="badge text-bg-light">
+       <span class="badge text-bg-danger rounded-pill">
+        {{ site.biography | size }}
+       </span>
+       entries found
+      </span>
       {% elsif page.active == "radd" %}
-       {{ site.radd | size }}
+       <span class="badge text-bg-light">
+       <span class="badge text-bg-danger rounded-pill">
+        {{ site.refutals | size }}
+       </span>
+       entries found
+      </span>
       {% elsif page.active == "wahhabi" %}
-       {{ site.wahhabism | size }}
-      {% else %}
-      {% endif %}
-     </span> 
-     entries found
-    </span>
+       <span class="badge text-bg-light">
+       <span class="badge text-bg-danger rounded-pill">
+        {{ site.wahhabism | size }}
+       </span>
+       entries found
+      </span>
+     {% endif %} 
   </li>
  </ul>
 {{ content }}
