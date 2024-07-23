@@ -1,16 +1,16 @@
 <section class="mt-5">
 <div class="card card-body bg-transparent border-danger">
 <ul class="list-group list-group-flush">
-       <li class="list-group-item">
-        {{ site.data.locales[page.locale].page.date }}: 
+       <li class="list-group-item">       
         <span>
           <time itemprop="datePublished" datetime="{{ page.date | date_to_string }}"> 
           {% if page.date %}
-            <b>{{ page.date | date_to_string | append: " - " }}</b>
-          {% endif %}  
+           {{ site.data.locales[page.locale].page.date }}:      
+           <b>{{ page.date | date_to_string | append: " - " }}</b>
           {% if page.hijri %}
            <b>{{ page.hijri }}</b>
-          {% endif %}
+          {% endif %}     
+          {% endif %}  
           </time>
         </span>
       </li> 
