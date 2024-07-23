@@ -7,6 +7,7 @@ hijri: Muharram 01, 1446
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 15673
 category: [fatwas,bidah]
 note: true
+group2: true
 locale: en
 lang: en
 excerpt: It is not permissible to bury a Mushaf in the grave with the dead. This act has no basis in the Qur'an and Sunnah.
