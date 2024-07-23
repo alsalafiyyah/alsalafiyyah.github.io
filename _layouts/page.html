@@ -2,22 +2,23 @@
 layout: default
 ---
 <section class="container">
-<article 
+ <article 
   itemprop="mainEntity" 
   itemscope 
   itemtype="http://schema.org/BlogPosting" 
-  itemid="{{ post.url }}">
+  itemid="{{ page.url }}">
   {% include Breadcrumb.html %}
-<h2 itemprop="headline">
- {{ page.title }}
-</h2>
-<div property="articleBody">
-{% include AudioPlayer.html %}
-{{ content }}
-{% if page.note %}
- <p>{{ site.note.text }}</p>
-{% endif %}  
-</div>
-{% include source.html %}
-</article>
+ <header itemprop="headline">  
+  <h2 class="display-2">{{ page.title }}</h2>
+ </header>
+ <br/>
+ <div property="articleBody">
+  {% include AudioPlayer.html %}
+  {{ content }}
+  {% if page.note %}
+   <p>{{ site.note.text }}</p>
+  {% endif %}  
+ </div>
+ {% include source.html %}
+ </article>
 </section>
