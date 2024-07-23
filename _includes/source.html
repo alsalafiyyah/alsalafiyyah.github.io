@@ -233,7 +233,26 @@
       </li>
    {% endif %} 
  {% endif %}
-        
+
+  {% if page.group8 %}
+   {% if site.group8.chairman %}
+    <li class="list-group-item">
+     {{ site.data.locales[page.locale].page.chairman }} : 
+    {% for chairman in site.group8.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
+    </li>
+   {% endif %} 
+   {% if site.group8.members %}
+     <li class="list-group-item">
+        {{ site.data.locales[page.locale].page.members }} : 
+        <ol>
+         {% for members in site.group8.members %}
+         <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
+         {% endfor %}
+        </ol>
+      </li>
+   {% endif %} 
+ {% endif %}
+
  {% if page.shaykhs %}
   <li class="list-group-item">
    {{ site.data.locales[page.locale].page.muftis }}: 
