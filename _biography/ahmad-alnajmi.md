@@ -3,7 +3,7 @@ layout: page
 publisher: "alsalafiyyah@icloud.com"
 title: Shaykh Ahmad Yahya An-Najmi
 active: biography
-excerpt: He acquired knowledge from his father and many Shaykhs, including His Eminence Shaykh Ibn Baz, Shaykh Muhammad Al-Amin Al-Shanqyti, and many others.
+excerpt: The Shaikh was born in the village of Najamiyyah on the 22nd of Shawal of 1346H, and was raised in the house of his two righteous parents. 
 permalink: /biography/ahmad-alnajmi/
 article_taken_from: 
   taken_from:
