@@ -1,18 +1,17 @@
 ---
 layout: page
-title: "Shaykh Bakr ibn 'Abdullah Abu Zayd"
+publisher: alsalafiyyah@icloud.com
+title: Shaykh Bakr ibn 'Abdullah Abu Zayd
 active: biography
-publisher: "alsalafiyyah@icloud.com"
+excerpt: Shaykh Bakr studied until the second year of elementary school, and then in 1375AH. he moved to Riyadh where he continued his elementary studies, joined the Educational Institute.
 permalink: /biography/bakr/
 ---
 
 ### His Lineage:
-
-Bakr ibn 'Abdullah Abu Zayd ibn Muhammad ibn 'Abdullah ibn Bakr ibn 'Uthman ibn Yahya ibn Ghayhab ibn Muhammad. He descended from the tribe of Zayd Al-A'la, who is Zayd ibn Suwayd ibn Zayd ibn Suwayd ibn Zayd ibn Haram ibn Zayd Al-Qada'i from the famous Bani Zayd Al-Qada'iyyah tribe from the Al-Washm area of  Najd, where he was born in 1365 A.H.
+Bakr ibn 'Abdullah Abu Zayd ibn Muhammad ibn 'Abdullah ibn Bakr ibn 'Uthman ibn Yahya ibn Ghayhab ibn Muhammad. He descended from the tribe of Zayd Al-A'la, who is Zayd ibn Suwayd ibn Zayd ibn Suwayd ibn Zayd ibn Haram ibn Zayd Al-Qada'i from the famous Bani Zayd Al-Qada'iyyah tribe from the Al-Washm area of Najd, where he was born in 1365 A.H.
 
 ### His Educational Background:
-
-Shaykh Bakr studied until the second year of elementary school, and then in 1375 A.H. he moved to Riyadh where he continued his elementary studies, joined the Educational Institute, and graduated from the Faculty of Shari`ah as an associate with first class honors in 1387 A.H./1388 A.H.
+Shaykh Bakr studied until the second year of elementary school, and then in 1375 A.H. he moved to Riyadh where he continued his elementary studies, joined the Educational Institute, and graduated from the Faculty of Shari'ah as an associate with first class honors in 1387 A.H./1388 A.H.
 
 In 1384 A.H. he moved to Al-Madinah, where he worked as a librarian in the General Library of the Islamic University.
 
@@ -31,7 +30,6 @@ After moving to Al-Madinah, he also frequented Shaykh Muhammad Al-Amin Al-Shanqi
 In 1399 A.H./1978 C.E., he studied at the High Judicial Institute as an associate, where he achieved a Master's degree, and in 1403 A.H./1982 C.E. he achieved a Doctorate.
 
 ### His Active Life:
-
 After graduating from the Faculty of Shari`ah in 1387 A.H./1966 C.E., he was selected as a judge for Al-Madinah, whereby a Royal Decree was issued to appoint him. He continued in this post until 1400 A.H.
 
 He was also a teacher in the Prophet’s Mosque from the time of his appointment in 1390 A.H. until 1400 A.H.
@@ -51,7 +49,6 @@ The Shaykh has approximately 66 publications to his name, ranging from Hadith, F
 He has written many books on Hadith, Fiqh, linguistics, and general knowledge, of which he has printed the following:
 
 #### First, Fiqh:
-
 The first fifteen to be listed below have been compiled into three volumes related to newly arisen Fiqh matters:
 
 1. Al-Taqnin Wa Al-Ilzam
