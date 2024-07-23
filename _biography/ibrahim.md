@@ -1,11 +1,13 @@
 ---
 layout: page
-title: "Shaykh Ibrahim ibn Muhammad Aal Al-Shaykh"
-active: biography
 publisher: "alsalafiyyah@icloud.com"
+title: Shaykh Ibrahim ibn Muhammad Aal Al-Shaykh
+active: biography
+excerpt: He acquired knowledge from his father and many Shaykhs, including His Eminence Shaykh Ibn Baz, Shaykh Muhammad Al-Amin Al-Shanqyti, and many others.
 permalink: /biography/ibrahim/
 ---
 
+### His Name:
 Shaykh Ibrahim ibn Muhammad ibn Ibrahim ibn 'Abdul-Latif ibn 'Abdul-Rahman ibn Hasan ibn Imam Muhammad ibn 'Abdul-Wahhab
 
 ### His Birth:
@@ -14,7 +16,7 @@ Shaykh Ibrahim ibn Muhammad Al Al-Shaykh was born in 1344 A.H.
 
 ### His Education:
 
-Shaykh Ibrahim memorized the Ever-Glorious Qur'an during his childhood at the schools of 'Abdullah ibn Mufayrij (may Allah be merciful to him) and 'Aly ibn 'Abdullah Al-Yamany. He studied the science of Tajwid (reciting the Qur'an following the rules of recitation) under the tutelage of Shaykh Sa'ad Waqqas (may Allah be merciful to him) in Makkah. He accompanied his father (may Allah be merciful to him) to the learning circles where he studied jurisprudence, Tawhid (belief in the Oneness of Allah/monotheism), and grammar. He then joined the Educational Institute and graduated from the college of Shari'ah in Riyadh in 1376 A.H. Then he was appointed as director of the Department of Ifta', and later as deputy to the Mufty. After the death of his father (may Allah be merciful to him), Shaykh Ibrahim was chosen as the Chairman of the General Presidency for Ifta' and the Supervision of Religious Affairs, which was later organized and renamed as the Presidency of the Departments of Scholarly Research, Ifta', Da'wah, and Guidance. He remained Chairman for six years, during which the Council of Senior Scholars was established and he was chosen to be a member of it and as the Chairman of the Permanent Committee for Scholarly Research and Ifta'. He also presided over the awareness campaigns during Hajj for several years.
+Shaykh Ibrahim memorized the Ever-Glorious Qur'an during his childhood at the schools of 'Abdullah ibn Mufayrij (may Allah be merciful to him) and 'Ali ibn 'Abdullah Al-Yamany. He studied the science of Tajwid (reciting the Qur'an following the rules of recitation) under the tutelage of Shaykh Sa'ad Waqqas (may Allah be merciful to him) in Makkah. He accompanied his father (may Allah be merciful to him) to the learning circles where he studied jurisprudence, Tawhid (belief in the Oneness of Allah/monotheism), and grammar. He then joined the Educational Institute and graduated from the college of Shari'ah in Riyadh in 1376 A.H. Then he was appointed as director of the Department of Ifta', and later as deputy to the Mufty. After the death of his father (may Allah be merciful to him), Shaykh Ibrahim was chosen as the Chairman of the General Presidency for Ifta' and the Supervision of Religious Affairs, which was later organized and renamed as the Presidency of the Departments of Scholarly Research, Ifta', Da'wah, and Guidance. He remained Chairman for six years, during which the Council of Senior Scholars was established and he was chosen to be a member of it and as the Chairman of the Permanent Committee for Scholarly Research and Ifta'. He also presided over the awareness campaigns during Hajj for several years.
 
 ### His Shaykhs:
 
