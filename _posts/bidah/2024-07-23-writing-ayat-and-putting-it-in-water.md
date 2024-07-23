@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: Ruling on writing Quranic verses and putting it in water and then drinking it
+title: Ruling on writing Quranic verses and putting it in water and drink it
 date: 2024-07-23
 hijri: Muharram 17, 1446
 source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.6779‏, Question 3
