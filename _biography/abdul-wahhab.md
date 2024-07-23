@@ -13,6 +13,7 @@ muftis:
     - name: Shaykh Abdul-Aziz ibn Baz
       url: /biography/binbaz
 ---
+### Imam Muhammad ibn 'Abdul-Wahhab: His Da'wah and biography
 
 All praise is due to Allah, Lord of the worlds, and peace and blessings be upon His servant, Messenger, and chosen one amongst His creatures, our master and Imam Muhammad ibn 'Abdullah, and upon his family, Companions, and all those who follow him.Dear brothers and sons, this brief lecture aims at enlightening your ideas, clarifying facts, and offering sincere advice to Allah's servants for the Sake of Allah. 
 
