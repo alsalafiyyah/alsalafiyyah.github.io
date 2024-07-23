@@ -7,6 +7,7 @@ hijri: Dhul-Hijjah 26, 1445
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 948, Question 3
 category: [fatwas,bidah,hadiths]
 note: true
+group4: true
 locale: en
 lang: en
 excerpt: Beware of newly-invented matters (in religion), for every newly-invented matter is a Bid‘ah, and every Bid‘ah is a Dalalah.
@@ -14,10 +15,6 @@ article_taken_from:
   taken_from:
     - web_title: البدعة الحسنة والبدعة السيئة
       web_url: https://al-fatawa.com/fatwa/112205
-shaykhs: 
- - Sh. Abdul-Razzaq Al-Afifi
- - Sh. Abdullah ibn Ghudayyan
- - Sh. Abdullah Ibn Mani'
 ---
 
 ### Question: 
