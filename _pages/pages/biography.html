@@ -1,20 +1,8 @@
 ---
 layout: Page
-title: Biographies
+title: Scholars Biographies
 active: biography
 permalink: /biography/
-excerpt: Scholars biographies.
-uid: biography
+excerpt: Biographies of the Scholars and the People of Knowledge.
 ---
-
-<table class="uk-table" id="table">
- <tbody>     
-  {% for c in site.data.biography %}	
-  <tr>
-   <td>
-    <a title="{{ c.title }}" href="{{ c.url }}">{{ c.title }}</a>  
-   </td>    
-  </tr>      
-  {% endfor %}	
- </tbody>	
-</table>
+{% include Biography.html %}
