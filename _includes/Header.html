@@ -1,7 +1,9 @@
 <header role="banner" vocab="http://schema.org" itemtype="WPHeader" class="fixed-top bg-transparent">
 <div class="collapse" id="navbarToggleExternalContent" data-bs-theme="dark">  
  <div class="bg-dark p-4" itemscope itemtype="http://schema.org/WebSite">
-   <h5 class="text-body-emphasis h4">{{ site.data.locales[page.locale].page.search }}</h5>
+   <p class="text-body-emphasis">
+    Find authentic Islamic answers from over <span class="badge text-bg-warning">{{ site.posts | size }}</span> questions.
+   </p>
   <meta itemprop="url" content="{{ site.data.locales[page.locale].site.url }}"/>
   <form class="d-flex" role="search" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" action="{{ site.data.locales[page.locale].site.url_search }}">
   <meta itemprop="target" content="{{ site.data.locales[page.locale].site.url_search }}?q={q}"/>  
