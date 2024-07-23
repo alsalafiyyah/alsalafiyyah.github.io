@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Shaykh 'Abdullah ibn Mani'"
+publisher: alsalafiyyah@icloud.com
+title: Shaykh 'Abdullah ibn Mani'
 active: biography
-publisher: "alsalafiyyah@icloud.com"
+excerpt: Shaykh Abdullah ibn Sulayman ibn Muhammad ibn Mani' from the tribe of Banu Zayd, whose lineage goes back to Qada'ah from Qahtan, whose most important city is Shaqra’.
 permalink: /biography/mani/
 ---
 
