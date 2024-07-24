@@ -1,13 +1,18 @@
 ---
 layout: post
-title: "Ruling on various Islamic movements"
-publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat 4/166"
+publisher: alsalafiyyah@icloud.com
+title: Ruling on various Islamic movements
+source: Majmu' Fatawa 4/166
 hijri: Muharram 17, 1442
 date: 2020-09-05
+locale: en
+lang: en
 excerpt: In Sudan, an Islamic Organization among the various movements of Sufism and Salafism has been established.
-category: [sects]
-shaykhs: Shaykh Abdul-Aziz ibn Baz
+category: [fatwas,manhaj,sects]
+muftis:
+  shaykh: 
+    - name: Shaykh Ibn Baz
+      url: /biography/binbaz
 ---
 
 ### Question: 
