@@ -1,17 +1,15 @@
 ---
 layout: post
-title: Jesus was no more than a Messenger of Allah
 publisher: alsalafiyyah@icloud.com
+title: Jesus was no more than a Messenger of Allah
 source: Fatawa Al-Lajnah Ad-Da'imah no. 1621, question 7
 hijri: Muharram 9, 1442
 date: 2020-08-28
-category: ["prophets", "qadianis", "refutals"]
+category: [prophets,sects,fatwas]
 excerpt: Surely, in disbelief are they who say that Allâh is the Messiah, son of Mary.
-shaykhs: 
- - Shaykh Ibn Baz
- - Shaykh Abdul-Razzaq Afifi
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+group1: true
+locale: en
+lang: en
 ---
 
 ## Question:
