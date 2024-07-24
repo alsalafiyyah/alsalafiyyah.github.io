@@ -34,7 +34,7 @@ footer, .footer {
  background-color: var(--bg-footer);
 }
 .container-md {
- margin-top: 140px;
+ margin-top: 135px !important;
  margin-bottom: 30px;
 }
 #navbar{
