@@ -3,11 +3,13 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 title: Ruling on disagreement between groups
 source: Fatawa Al-Lajnah Ad-Da'imah no. 18870, Question 3
-category: [manhaj]
+category: [fatwas,manhaj]
 hijri: Muharram 15, 1442
 date: 2020-09-03
 group2: true
 note: true
+locale: en
+lang: en
 excerpt: If any conflict should occur, it will be necessary to refer it to the Qur'an and Sunnah to know the truth and adopt it.
 ---
 
