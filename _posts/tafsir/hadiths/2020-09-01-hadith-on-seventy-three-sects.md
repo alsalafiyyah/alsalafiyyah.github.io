@@ -1,22 +1,15 @@
 ---
 layout: post
-title: "The Hadith on splitting of this Ummah into seventy-three sects"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Daimah no. 830"
+publisher: alsalafiyyah@icloud.com
+title: The Hadith on splitting of this Ummah into seventy-three sects
+source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 830
 hijri: Muharram 13, 1442
+date: 2020-09-01
 lang: en
+locale: en
+group11: true
 excerpt: The Hadith on This Ummah will split into seventy-three sects, all of them will be in Hellfire except one.
 category: [fatwas, hadiths, sects]
-muftis:
-  chairman: 
-    - name: Shaykh Ibrahim ibn Muhammad Aal Al-Shaykh
-      url: /biography/ibrahim/
-  deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Sulayman Ibn Mani'
-      url: /biography/mani/
 ---
 
 ### Question:
@@ -27,9 +20,12 @@ I would like a clarification of this issue about which Imam Muhammad ibn 'Abdul-
 I would also like to know the answer to the following questions, which revolve around the previously mentioned Hadith: 
 
 1. Who is the saved sect referred to in the Hadith? 
-2. Do sects like: Shi'ah (Shi'ites) Al-Shafi'iyyah Al-Hanafiyyah, Al-Tijaniyyah and others fall under the seventy-two sects referred to by the Messenger of Allah (peace be upon him) as dwellers of Hellfire? If all these sects are going to be in Hellfire except one, why are they permitted to visit Allah's Sacred House? Was the great Imam wrong, or have you deviated from the right path?
+2. Do sects like: Shi'ah (Shi'ites) Al-Shafi'iyyah Al-Hanafiyyah, Al-Tijaniyyah and others fall under the seventy-two sects referred to by the Messenger of Allah (peace be upon him) as dwellers of Hellfire?
+
+If all these sects are going to be in Hellfire except one, why are they permitted to visit Allah's Sacred House? Was the great Imam wrong, or have you deviated from the right path?
 
 ### Answer:
+
 **First**, what Imam Shaykh Muhammad ibn 'Abdul-Wahhab (may Allah be merciful to him) mentioned in “Mukhtasar Al-Sirah” is part of a Sahih (authentic) and well-known Hadith, narrated by the Compilers of Sunan (Hadith compilations classified by jurisprudential themes) and Musnads (Hadith compilations according to complete chains of narration), such as Abu Dawud, Al-Nasa'i, Al-Tirmidhy and others with different wordings, including: “**The Jews split into seventy-one sects, all of which are in Hellfire except one; the Christians split into seventy-two sects, all of which are in Hellfire except one; and this Ummah will split into seventy-three sects, all of which are in Hellfire except one.**” [^1]
 
 According to another narration, “**...Will split into seventy-three denominations.**” [^2]
