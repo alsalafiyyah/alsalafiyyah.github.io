@@ -1,0 +1,24 @@
+---
+layout: Page
+title: Manhaj
+excerpt: The fundamental rule on the acts of ‘Ibadah (worship) is that it is Tawqifiyyah, i.e. bound by a religious text from the Qur’an and Sunnah, and not subject to personal opinion.
+permalink: /manhaj/
+---
+{% include intro_bidah.html %}
+<table>
+{% for post in site.posts %}
+{% if post.categories contains 'manhaj' %}
+<tr><td>
+ <a class="link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="{{ post.url }}">
+  <h3>{{ post.title }}</h3>
+ </a>
+ <p>
+  <small>{{ post.date | date: "%b %d, %Y" }} / {{ post.hijri }}</small>
+ </p>
+ <p class="mb-1 fst-italic">
+   {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace | remove_first: "Question:" }}
+ </p>
+</td></tr>
+{% endif %}
+{% endfor %}
+</table>
