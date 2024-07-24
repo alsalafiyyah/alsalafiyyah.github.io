@@ -3,6 +3,7 @@
   --bg-footer: #E5DCD7;
   --red: #B04759;
   --black: #000100;
+  --link-hover: #111111;
 }    
 html, body { 
  height: 100%; 
@@ -26,7 +27,8 @@ a:visited {
   text-decoration: none;
 }
 a:hover {
-  text-decoration: underline;
+  text-decoration: none;
+  color: var(--link-hover);
 }
 p, section, main {
  font-size: 1.2rem;
@@ -82,5 +84,9 @@ aside {
  table h3, 
  .breadcrumb a
 { 
-   color: var(--black) !important;
+  color: var(--black) !important;
  }
+table a:hover,
+.breadcrumb a:hover {
+  color: var(--link-hover);
+}
