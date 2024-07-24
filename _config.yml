@@ -272,3 +272,15 @@ group10:
   members: 
     - name: Shaykh Abdullah ibn Qa'ud
       url: /biography/qaud
+
+group11:
+  chairman: 
+    - name: Shaykh Ibrahim ibn Muhammad Aal Al-Shaykh
+      url: /biography/ibrahim
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Afifi
+      url: /biography/afifi     
+  members: 
+    - name: Shaykh Abdullah ibn Sulayman Ibn Mani'
+      url: /biography/mani   
+
