@@ -13,6 +13,9 @@
       </a>
     </li>
     {% else %}
+    <li class="page-item disabled">
+      <span class="page-link"><i class="bi bi-chevron-double-left text-danger"></i> Prev</span>
+    </li>
    {% endif %}
    {% if paginator.next_page %}
     <li class="page-item">
@@ -26,6 +29,9 @@
       </a>
     </li>
     {% else %}
+    <li class="page-item disabled">
+      <span class="page-link">Next <i class="bi bi-chevron-double-right"></i></span>
+    </li>
    {% endif %}   
   </ul>
 </nav>
