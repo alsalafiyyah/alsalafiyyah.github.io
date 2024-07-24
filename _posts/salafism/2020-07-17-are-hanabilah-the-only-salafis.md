@@ -1,15 +1,14 @@
 ---
 layout: post
-title: "Are the Hanbalis are the only Salafis"
-publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat 9/238"
-category: [fatwas,manhaj,sects]
+publisher: alsalafiyyah@icloud.com
+title: Are the Hanbalis are the only Salafis
+source: Majmu' Fatawa 9/238
+category: [fatwas,manhaj]
 hijri: Dhul-Qa'dah 26, 1441
-excerpt: "This is not true. The Salaf were the Sahabah and those who followed their way from among the Tabi'un."
+excerpt: This is not true. The Salaf were the Sahabah and those who followed their way from among the Tabi'un.
 lang: en
 locale: en
 note: false
-uid: are-hanabilah-the-only-salafis
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz Ibn Baz
