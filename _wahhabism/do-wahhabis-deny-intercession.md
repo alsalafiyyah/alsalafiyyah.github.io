@@ -12,6 +12,10 @@ muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
       url: /biography/binbaz/
+article_taken_from: 
+  taken_from:
+    - web_title: لا ينكر مسلم شفاعة الرسول
+      web_url: https://binbaz.org.sa/fatwas/27/%D9%84%D8%A7-%D9%8A%D9%86%D9%83%D8%B1-%D9%85%D8%B3%D9%84%D9%85-%D8%B4%D9%81%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%84      
 ---
 
 ### Question: 
