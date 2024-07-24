@@ -4,12 +4,12 @@
        <li class="list-group-item">       
         <span>
           <time itemprop="datePublished" datetime="{{ page.date | date_to_string }}"> 
-          {% if page.date %}
-           {{ site.data.locales[page.locale].page.date }}:      
-           <b>{{ page.date | date_to_string | append: " - " }}</b>
           {% if page.hijri %}
-           <b>{{ page.hijri }}</b>
-          {% endif %}     
+            {{ site.data.locales[page.locale].page.date }}:      
+            <b>{{ page.hijri }}</b> 
+           {% if page.date %}
+            <b>{{ page.date | date_to_string }}</b>
+           {% endif %}     
           {% endif %}  
           </time>
         </span>
