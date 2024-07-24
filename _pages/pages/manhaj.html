@@ -5,7 +5,6 @@ excerpt: The fundamental rule on the acts of ‘Ibadah (worship) is that it is T
 permalink: /manhaj/
 ---
 <table class="table bg-transparent">
-<thead class="bg-transparent"></thead>
 {% for post in site.posts %}
 {% if post.categories contains 'manhaj' %}
 <tr class="bg-transparent">
@@ -23,3 +22,8 @@ permalink: /manhaj/
 {% endif %}
 {% endfor %}
 </table>
+<style>
+ thead, td, table, tr, tfoot { 
+  background-color: transparent !important;
+ }
+</style>
