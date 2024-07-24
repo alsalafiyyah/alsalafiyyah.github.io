@@ -17,6 +17,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 a {
  color: var(--red);
+ text-decoration: none !important; 
 }
 p, section, main {
  font-size: 1.2rem;
@@ -57,3 +58,21 @@ aside, footer {
 aside {
  margin-bottom: 1.2rem;
 }  
+ .table, 
+ thead, 
+ td, 
+ table, 
+ tr, 
+ tfoot,
+ .table thead
+ { 
+  background-color: none !important;
+  background: none !important;
+ }
+ table a,
+ table h3, 
+ .breadcrumb a
+{ 
+   color: #000100 !important;
+   text-decoration: none !important;
+ }
