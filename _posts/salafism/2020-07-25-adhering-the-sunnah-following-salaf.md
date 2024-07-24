@@ -1,21 +1,16 @@
 ---
 layout: post
+publisher: alsalafiyyah@icloud.com
 title: Adhering to the Sunnah and following the Salaf
-publisher: "alsalafiyyah@icloud.com"
 source: Fatawa al-Lajnah ad-Daimah no. 16250
-category: [manhaj]
+category: [manhaj,fatwas]
 hijri: Dhul-Hijjah 4, 1441
 date: 2020-07-25
 note: true
+group7: true
 locale: en
 lang: en
 excerpt: The Muslim youth have to seek beneficial knowledge from trustworthy scholars & adhere to the Sunnah as well as belonging to the mainstream Muslims who are following the way of the Salaf and averting all suspicious and vague trends.
-shaykhs: 
- - Shaykh Ibn Baz
- - Shaykh Abdul-razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Bakr Abu Zayd
 ---
 
 ### Question: 
