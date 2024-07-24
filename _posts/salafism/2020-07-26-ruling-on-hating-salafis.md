@@ -1,21 +1,16 @@
 ---
 layout: post
-title: "Ruling on hating the Salafis"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatwa al-Lajnah ad-Daimah no. 15742"
-category: [manhaj]
+publisher: alsalafiyyah@icloud.com
+title: Ruling on hating the Salafis
+source: Fatwa al-Lajnah ad-Daimah no. 15742
+category: [fatwas,manhaj]
 hijri: Dhul-Hijjah 5, 1441
 date: 2020/07/26
-excerpt: It is impermissible for you to either be in his company or associate with him. You should rather condemn him and warn people against him.
 locale: en
 lang: en
 note: true
-shaykhs: 
- - Shaykh Ibn Baz
- - Shaykh Salih Fawzan
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Bakr Abu Zayd
+group2: true
+excerpt: It is impermissible for you to either be in his company or associate with him. You should rather condemn him and warn people against him.
 ---
 
 ### Question: 
