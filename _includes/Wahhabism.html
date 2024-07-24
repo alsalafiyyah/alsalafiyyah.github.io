@@ -1,22 +1,19 @@
-<div class="list-group">  
-<table>    
-  {% assign sorted = site.wahhabism | sort: 'date' | reverse %}
-  {% for c in sorted %}
-  <tr>
-   <td>
-     <a class="list-group-item list-group-item-action border-0" title="{{ c.title }}" href="{{ c.url }}">
-      <article>
-    <header>
-    <h3 class="mb-1">     
-     {{ c.title }}
-    </h3>
-     </header>
-    <p class="mb-1 fst-italic">{{ c.excerpt | escape | truncate: 155 }}</p>
-    <small><i class="bi bi-calendar-day"></i> {{ c.hijri }}</small>
-      </article>
-     </a>
-   </td>    
-  </tr>
-  {% endfor %}	
+<table class="table">
+{% assign sorted = site.wahhabism | sort: 'date' | reverse %}
+{% for item in sorted %}
+<tr>
+  <td>
+   <a class="link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" 
+     href="{{ item.url }}">
+    <h3>{{ item.title }}</h3>
+   </a>
+   <p>
+    <small><i class="bi bi-calendar-day"></i> {{ item.hijri }}</small>
+   </p>
+   <p class="mb-1 fst-italic">
+    {{ item.content | truncatewords: 30  | strip_html | normalize_whitespace }}
+   </p>
+ </td>
+</tr>
+{% endfor %}
 </table>
-</div>
