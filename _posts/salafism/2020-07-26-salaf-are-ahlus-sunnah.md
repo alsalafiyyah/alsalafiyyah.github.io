@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "The Salaf are Ahl-us-Sunnah wal-Jama'ah"
-publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa 28/50"
+publisher: alsalafiyyah@icloud.com
+title: The Salaf are Ahl-us-Sunnah wal-Jama'ah
+source: Majmu' Fatawa 28/50
 category: [manhaj,fatwas]
 hijri: Dhul-Hijjah 5, 1441
 date: 2020/07/26
 locale: en
 lang: en
 excerpt: Salaf are Ahl-us-Sunnah wal-Jama'ah. Accordingly, it is permissible for a person to relate themselves to Salaf.
-shaykhs: Shaykh Ibn Baz
+muftis:
+  shaykh: 
+    - name: Shaykh Ibn Baz
+      url: /biography/binbaz
 ---
 
 ### Question: 
