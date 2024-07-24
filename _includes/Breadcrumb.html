@@ -25,7 +25,7 @@
       {% endif %}
       <li class="breadcrumb-item" itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
-        <span itemprop="name">{{ page.title | truncate: 50 }}</span>
+        <span itemprop="name">{{ page.title | truncate: 30 }}</span>
         <meta itemprop="position" content="{% if page.layout == 'post' %}3{% else %}2{% endif %}" />
       </li>
   </ol>
