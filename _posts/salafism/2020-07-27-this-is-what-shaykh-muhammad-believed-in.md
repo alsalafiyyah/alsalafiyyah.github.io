@@ -1,17 +1,21 @@
 ---
 layout: post
-title: "This is what Shaykh Muhammad ibn Abdul-Wahhab believed in"
-publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat 1/222"
-category: [fatwas]
+publisher: alsalafiyyah@icloud.com
+title: This is what Shaykh Muhammad ibn Abdul-Wahhab believed in
+source: Majmu' Fatawa 1/222
+category: [manhaj]
 hijri: Dhul-Hijjah 6, 1441
 date: 2020/07/27
-active: wahhabi
-shaykhs: Shaykh Ibn Baz
-excerpt: Wahhabism is based on fulfilling the testimony that Muhammad is the Messenger of Allah and shunning Bid'ahs and superstitions as well as anything that contradicts the legislation brought by the Messenger of Allah, Muhammad (peace be upon him).
+locale: en
+lang: en
+excerpt: Wahhabism is based on fulfilling the testimony that Muhammad is the Messenger of Allah and shunning Bid'ahs and superstitions as well as anything that contradicts the legislation brought by the Messenger of Allah.
+muftis:
+  shaykh: 
+    - name: Shaykh Ibn Baz
+      url: /biography/binbaz
 ---
 
-[Wahhabism](/wahhabi/) is based on fulfilling the testimony that Muhammad is the Messenger of Allah and shunning Bid'ahs and superstitions as well as anything that contradicts the legislation brought by the Messenger of Allah, Muhammad (peace be upon him). This is what [Shaykh Muhammad ibn 'Abdul-Wahhab (may Allah be merciful to him)](/wahhabi/) believed in, professed, and invited other people to adopt. Whoever attributes something different from that to the Shaykh, has fabricated a grievous lie against him and has spoken about him without knowledge. Allah (Exalted be He) will punish him with the punishment He threatened to inflict upon liars. 
+Wahhabism is based on fulfilling the testimony that Muhammad is the Messenger of Allah and shunning Bid'ahs and superstitions as well as anything that contradicts the legislation brought by the Messenger of Allah, Muhammad (peace be upon him). This is what Shaykh Muhammad ibn 'Abdul-Wahhab (may Allah be merciful to him) believed in, professed, and invited other people to adopt. Whoever attributes something different from that to the Shaykh, has fabricated a grievous lie against him and has spoken about him without knowledge. Allah (Exalted be He) will punish him with the punishment He threatened to inflict upon liars. 
 
 Moreover, he (may Allah be merciful to him) produced useful reports, unique researches and great compilations regarding the word of truth and monotheism, the testimony that none has the right to be worshipped but Allah and what has been proven by the Qur'an, the Sunnah, and the consensus of Muslims scholars, including the negation of the right of worship and godhood for other than Allah and confirming them to Allah (Exalted be He) Alone, in a perfect way that contradicts minor and major aspects of Shirk. Whoever is acquainted with his writings, the opinions transmitted from him, or his approach in Da'wah (call to Islam) and the methodology he adopted, and what has been practiced by his notable companions and students, will find that the Shaykh followed the practice of the Salaf and the Imams of religion and guidance of sincere worship to Allah, the One and Only God, and avoided Bid'ahs and superstitions. The rule of Saudi Arabia is based on this principle and its scholars, praise be to Allah, follow that way. 
 
