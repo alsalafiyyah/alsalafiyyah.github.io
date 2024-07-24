@@ -19,6 +19,16 @@ a {
  color: var(--red);
  text-decoration: none !important; 
 }
+a:link {
+  color: var(--red);
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
 p, section, main {
  font-size: 1.2rem;
 }
@@ -73,6 +83,5 @@ aside {
  table h3, 
  .breadcrumb a
 { 
-   color: #000100 !important;
-   text-decoration: none !important;
+   color: var(--black) !important;
  }
