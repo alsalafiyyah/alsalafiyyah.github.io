@@ -20,7 +20,6 @@ a {
  text-decoration: none !important; 
 }
 a:link {
-  color: var(--red);
   text-decoration: none;
 }
 a:visited {
