@@ -8,7 +8,7 @@
             {{ site.data.locales[page.locale].page.date }}:      
             <b>{{ page.hijri }}</b> 
            {% if page.date %}
-            <b>{{ page.date | date_to_string }}</b>
+            <b>{{ page.date | date_to_string | prepend: " / " }}</b>
            {% endif %}     
           {% endif %}  
           </time>
