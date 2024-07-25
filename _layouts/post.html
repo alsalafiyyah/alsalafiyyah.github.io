@@ -1,12 +1,12 @@
 ---
 layout: default
 ---
-<section class="container">
  <article 
   itemprop="mainEntity" 
   itemscope 
   itemtype="http://schema.org/BlogPosting" 
   itemid="{{ post.url }}">
+<section class="container">  
   {% include Breadcrumb.html %}
  <header itemprop="headline">  
   <h2 class="display-2">{{ page.title }}</h2>
@@ -20,5 +20,5 @@ layout: default
   {% endif %}  
  </div>
  {% include source.html %}
- </article>
 </section>
+</article>
