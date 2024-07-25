@@ -6,6 +6,8 @@ source: Fatawa Al-Lajnah Ad-Daimah no. 1883, Question 7
 hijri: Muharram 7, 1442
 group1: true
 note: true
+locale: en
+lang: en
 category: [prophets,fatwas]
 date: 2020/08/26
 excerpt: Anyone who denies that Abraham was thrown into the fire is a disbeliever as they belie the Qur'an and the authentic Sunnah.
