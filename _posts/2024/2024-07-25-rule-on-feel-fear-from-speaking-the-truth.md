@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: Rule on feeling shy and fear from speaking the truth
+title: The Ruling on feeling shy or fear from speaking the truth
 date: 2024-07-25
 hijri: Muharram 19, 1446 AH
 source: Fatawa Islamiyah Vol. 8 Page 75
