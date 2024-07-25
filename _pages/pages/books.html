@@ -4,8 +4,10 @@ title: Books
 active: books
 permalink: /books/
 ---
+<div class="row row-cols-1 row-cols-md-2 g-4">
 {% for c in site.data.books %}
-<div class="card mb-5 border-danger bg-transparent">
+<div class="col">  
+<div class="card border-danger bg-transparent">
   <img src="../assets/images/books/{{ c.img }}" class="img-thumbnail card-img-top bg-transparent" alt="{{ c.title }} {{ c.vol }}">
   <div class="card-body">
     <h5 class="card-title">{{ c.title }} {{ c.vol }}</h5>
@@ -60,4 +62,6 @@ permalink: /books/
   </div>
 </div>
 </div>
+</div>
 {% endfor %}
+</div>
