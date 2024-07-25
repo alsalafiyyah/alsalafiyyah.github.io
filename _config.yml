@@ -104,8 +104,7 @@ defaults:
       type: posts
     values:
       layout: post
-      locale: en
-      permalink: /audio/:title
+      permalink: /audios/:title
   - scope:
       path: "_pages"
       type: "pages"
