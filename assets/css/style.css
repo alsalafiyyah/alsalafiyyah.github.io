@@ -92,6 +92,5 @@ aside {
  }
 table a:hover,
 .breadcrumb a:hover {
-  color: var(--link-hover) !important;
-  font-weight: 700 !important;
+  color: var(--red) !important;
 }
