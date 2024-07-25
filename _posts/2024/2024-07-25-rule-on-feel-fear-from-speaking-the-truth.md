@@ -26,7 +26,7 @@ My complaint is that a feeling of fear or dread overcomes me when I want to remo
 ### Answer: 
 This fear and dread you speak of is from the Shaytan, so be wary of it. Be strong, and dont be shy, for Allaah Almighty is not shy of the truth. Therefore, you should be able to both ask a question to a scholar and prevent someone from doing evil without feeling the least bit of shyness. Shyness that prevents you from speaking the truth is not shyness at all, but only weakness. 
 
-The shyness that is approved by the Shariah is shyness that prevents you from falsehood and evil. It is the shyness the Prophet (peace and blessings be upon him) intended when he said: ***Al-Haya (shyness and modesty) is from faith.**" [^1] Or, when he said: "**Al-Haya is good - (it is) all that is good.**" [^2] Shyness therefore is legislated when it prevents you from perpetrating fornication, from drinking alcohol, from associating with the enemies of Islam, and from all that is evil. This is the prescribed type of shyness.
+The shyness that is approved by the Shariah is shyness that prevents you from falsehood and evil. It is the shyness the Prophet (peace and blessings be upon him) intended when he said: "**Al-Haya (shyness and modesty) is from faith.**" [^1] Or, when he said: "**Al-Haya is good - (it is) all that is good.**" [^2] Shyness therefore is legislated when it prevents you from perpetrating fornication, from drinking alcohol, from associating with the enemies of Islam, and from all that is evil. This is the prescribed type of shyness.
 
 ---
 [^1]: Al-Bukhari no. 24 and Muslim 36 
