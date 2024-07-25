@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "Sites of the Prophets' graves"
-publisher: "alsalafiyyah@icloud.com"
+publisher: alsalafiyyah@icloud.com
+title: Sites of the Prophets' graves
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_638/nour_63813.mp3
-hijri: "Rabi' Al-Awwal 28, 1442"
+hijri: Rabi' Al-Awwal 28, 1442
 date: 2020-11-14
 lang: en
 note: false
 locale: en
 active: audios
+category: [fatwas,audios,prophets]
 url: "https://binbaz.org.sa/fatwas/13300/%D9%87%D9%84-%D9%8A%D8%B9%D8%B1%D9%81-%D9%82%D8%A8%D8%B1%D8%A7-%D8%A7%D9%8A%D9%88%D8%A8-%D9%88%D8%B9%D9%85%D8%B1%D8%A7%D9%86-%D8%B9%D9%84%D9%8A%D9%87%D9%85%D8%A7-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D9%88%D8%AD%D9%83%D9%85-%D8%B2%D9%8A%D8%A7%D8%B1%D8%AA%D9%87%D9%85%D8%A7"
 excerpt: "These claims have no basis, for the sites of the graves of all prophets are unknown, except the grave of Prophet Muhammad (peace be upon him) which is in Madinah and the grave of Prophet Ibrahim in Khalil."
 muftis:
