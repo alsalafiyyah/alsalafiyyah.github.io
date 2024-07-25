@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ruling on Rifaiyyah Tariqah (Sufi order)"
+title: "Ruling on Rifaiyyah Tariqah Sufi order"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Nur 'Ala al-Darb vol 3"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_487/48702.mp3
@@ -13,7 +13,7 @@ locale: en
 type: audios
 active: audios
 category: [audios, sects]
-excerpt: "These Sufi orders are all null and void. All these orders are mere cults and lies. In fact, such people neither stab nor cut themselves."
+excerpt: These Sufi orders are all null and void. All these orders are mere cults and lies. In fact, such people neither stab nor cut themselves.
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz
