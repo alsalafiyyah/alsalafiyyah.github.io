@@ -284,3 +284,10 @@ group11:
     - name: Shaykh Abdullah ibn Sulayman Ibn Mani'
       url: /biography/mani   
 
+group12:
+  chairman: 
+    - name: Shaykh Ibn Baz
+      url: /biography/binbaz
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Afifi
+      url: /biography/afifi
