@@ -8,7 +8,7 @@
     <h3>{{ item.title }}</h3>
    </a>
    <p class="mb-1 fst-italic">
-    {{ item.content | truncatewords: 30  | strip_html | normalize_whitespace }}
+    {{ item.excerpt | escape | truncate: 155 }}
    </p>
  </td>
 </tr>
