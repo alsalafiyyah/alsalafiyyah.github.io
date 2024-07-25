@@ -7,6 +7,8 @@ hijri: Muharram 7, 1442
 date: 2020/08/26
 note: true
 group1: true
+locale: en
+lang: en
 category: [prophets,fatwas]
 excerpt: It is not permissible to act the messengers and the prophets, which will be necessary to film their stories.
 ---
