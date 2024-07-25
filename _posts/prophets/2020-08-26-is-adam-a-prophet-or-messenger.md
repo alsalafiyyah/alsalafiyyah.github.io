@@ -8,6 +8,8 @@ date: 2020/08/26
 category: [prophets,fatwas]
 group6: true
 note: true
+locale: en
+lang: en
 excerpt: The first messenger to be sent was Noah as was mentioned in the Hadith of the intercession reported in the Two authentic Books of Hadith.
 ---
 
