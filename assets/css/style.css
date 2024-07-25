@@ -91,7 +91,7 @@ aside {
   color: var(--black) !important;
  }
 table a:hover,
-table h3 a:hover,
+table h3:hover,
 .breadcrumb a:hover {
   color: var(--red) !important;
 }
