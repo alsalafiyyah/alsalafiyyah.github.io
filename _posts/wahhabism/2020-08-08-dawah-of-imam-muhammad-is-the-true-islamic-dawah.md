@@ -1,14 +1,16 @@
 ---
 layout: post
-title: "The Da'wah of Imam Muhammad ibn 'Abdul-Wahhab is the true Islamic Da'wah"
 publisher: "alsalafiyyah@icloud.com"
-source: "Majmu Fatawa wa Muqolat 1/378"
+title: "The Da'wah of Imam Muhammad ibn Abdul-Wahhab is the true Islamic Da'wah"
+source: Majmu Fatawa 1/378
 hijri: Dhul-Hijjah 18, 1441
+date: 2020-08-08
 locale: en
 lang: en
 note: false
 active: wahhabi
-excerpt: "In fact, the call of Imam Muhammad ibn 'Abdul-Wahhab (may Allah be merciful to him) is the true Islamic call of the Messenger of Allah (peace be upon him), the Sahabah (Companions of the Prophet), and the Salaf (righteous predecessors)."
+category: [wahhabism,muqolat,manhaj]
+excerpt: "In fact, the call of Imam Muhammad ibn 'Abdul-Wahhab is the true Islamic call of the Messenger of Allah, the Sahabah, and the Salaf."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
