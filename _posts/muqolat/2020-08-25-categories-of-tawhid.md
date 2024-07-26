@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Categories of Tawhid"
 publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat 9/63"
-hijri: Muharram 6, 1442 AH
-excerpt: "Tawhid (monotheism) is the essence of religion and the basis of the revelations of all Messengers (peace be upon them)."
+title: "Categories of Tawhid"
+source: "Majmu' Fatawa 9/63"
+hijri: Muharram 06, 1442
+date: 2020-08-25
+category: [muqolat]
+excerpt: "Tawhid is the essence of religion and the basis of the revelations of all Messengers, peace be upon them."
 active: muqolat
 lang: en
 locale: en
