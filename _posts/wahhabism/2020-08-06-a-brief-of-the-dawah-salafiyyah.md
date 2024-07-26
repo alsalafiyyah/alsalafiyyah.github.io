@@ -1,27 +1,29 @@
 ---
 layout: post
-title: "A brief of the Salafi Da'wah and the life of Shaykh Muhammad bin Abdul Wahhab"
 publisher: "alsalafiyyah@icloud.com"
+title: "A brief of the Salafi Da'wah and the life of Shaykh Muhammad bin Abdul Wahhab"
 source: "Fatawa Nur 'Ala al-Darb tape vol 3"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_709/nour_70901.mp3
 hijri: Dhul-Hijjah 16, 1441
+date: 2020-08-06
+category: [fatwas,audios,wahhabism,manhaj]
 note: false
 lang: en
 active: wahhabi
-excerpt: "I would like to have an idea about the Da'wah (calling to Islam) Salafiyyah (i.e. based on the approach of the Salaf or the righteous predecessors) and Shaykh-ul-Islam Muhammad ibn Abdul-Wahhab?"
+excerpt: "I would like to have an idea about the Da'wah Salafiyyah, i.e. based on the approach of the Salaf or the righteous predecessors, and Shaykh-ul-Islam Muhammad ibn Abdul-Wahhab?"
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
       url: /biography/binbaz/
 ---
 
-Question:
-
+### Question:
 An inquirer from the Arab Republic of Syria, Damascus, asks three questions. In one of them he asks: I would like to have an idea about the Da'wah (calling to Islam) Salafiyyah (i.e. based on the approach of the Salaf or the righteous predecessors) and Shaykh-ul-Islam Muhammad ibn Abdul-Wahhab?
 
-Answer:
+### Answer:
+Praise be to Allah. The Da'wah Salafiyyah is a call to what Allah has sent His Prophet Muhammad (peace be upon him) and adherence to the Holy Qur'an and the Sunnah. It is a call to the approach and manner of the Prophet (peace be upon him) in Makkah and then in Madinah to convey Da'wah to the Muslims and others, direct people to do good, teach them what Allah sent with His Prophet (peace be upon him) of Tawhid (Oneness of Allah/monotheism), devot to Allah, believe in Prophet Muhammad (peace be upon him), abandon Shirk (associating others with Allah in His Divinity or worship),perform what Allah and His Prophet ordered and abandon what Allah and His Prophet forbade. This is the Da'wah Salafiyyah, following the approach of the Companions of the Prophet(peace be upon him). 
 
-Praise be to Allah. The Da'wah Salafiyyah is a call to what Allah has sent His Prophet Muhammad (peace be upon him) and adherence to the Holy Qur'an and the Sunnah. It is a call to the approach and manner of the Prophet (peace be upon him) in Makkah and then in Madinah to convey Da'wah to the Muslims and others, direct people to do good, teach them what Allah sent with His Prophet (peace be upon him) of Tawhid (Oneness of Allah/monotheism), devot to Allah, believe in Prophet Muhammad (peace be upon him), abandon Shirk (associating others with Allah in His Divinity or worship),perform what Allah and His Prophet ordered and abandon what Allah and His Prophet forbade. This is the Da'wah Salafiyyah, following the approach of the Companions of the Prophet(peace be upon him). After the Prophet's (peace be upon him) death, his Companions (may Allah be pleased with them) continued this Da'wah to Tawhid of Allah, abandoning Shirk, and directing people to Tawhid through their sayings and actions, as Allah ordered them to do: "**O mankind! Worship your Lord (Allah)**" [al-Baqarah: 21]
+After the Prophet's (peace be upon him) death, his Companions (may Allah be pleased with them) continued this Da'wah to Tawhid of Allah, abandoning Shirk, and directing people to Tawhid through their sayings and actions, as Allah ordered them to do: "**O mankind! Worship your Lord (Allah)**" [al-Baqarah: 21]
 
 "**Worship Allah and join none with Him (in worship)**" [al-Nisa: 36]
 
