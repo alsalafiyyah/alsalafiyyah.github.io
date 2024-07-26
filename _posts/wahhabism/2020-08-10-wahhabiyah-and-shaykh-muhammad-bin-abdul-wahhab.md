@@ -1,27 +1,17 @@
 ---
 layout: post
-title: "Wahhabiyah and Shaykh Muhammad ibn ‘Abdul-Wahhab"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 6477, Question 3"
+publisher: alsalafiyyah@icloud.com
+title: Wahhabiyah and Shaykh Muhammad ibn ‘Abdul-Wahhab
+source: Fatawa Al-Lajnah Ad-Da'imah no. 6477, Question 3
 hijri: Dhul-Hijjah 20, 1441
-date: 2020/8/10
+date: 2020-08-10
 locale: en
 note: true
 lang: en
 active: wahhabi
-excerpt: "Some people told me that there is a thing called 'Wahhabiyyah', but I explained to them that there is no such thing called 'Wahabiyyah'; that this is merely a name given by those who claim to be Ashraf to turn people away from the reformative call."
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+group1: true
+category: [fatwas,wahhabism,manhaj]
+excerpt: Some people told me that there is a thing called Wahhabiyyah, but I explained to them that there is no such thing called Wahabiyyah; that this is merely a name given by those who claim to be Ashraf to turn people away from the reformative call.
 ---
 
 ### Question:
