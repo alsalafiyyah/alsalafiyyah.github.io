@@ -3,8 +3,10 @@ layout: post
 title: "Introduction to Islam"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat vol.28"
-hijri: Dhul-Hijjah 3, 1441 AH
-excerpt: "The origin and basis of the Islam is Tawhid (belief in the Oneness of Allah (Glorified and Exalted be He)) and devoting all worship to Allah alone (may He be Praised and Glorified)."
+hijri: Dhul-Hijjah 03, 1441
+date: 2020-07-24
+category: [muqolat]
+excerpt: "The origin and basis of the Islam is Tawhid or belief in the Oneness of Allah and devoting all worship to Allah alone."
 active: muqolat
 lang: en
 locale: en
