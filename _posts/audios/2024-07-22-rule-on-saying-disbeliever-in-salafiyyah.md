@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Ruling on Saying 'I am a Disbeliever in Salafiyah'
-publisher: "alsalafiyyah@icloud.com"
+publisher: alsalafiyyah@icloud.com
+title: Ruling on disbelieving in Salafiyyah
 mp3: https://alsalafiyyah.github.io/assets/audios/rule-on-saying-disbelieve-in-salafiyyah.mp3
 hijri: Muharram 16, 1446
 date: 2024-07-22
@@ -10,7 +10,7 @@ note: false
 locale: en
 translated_by: Faisal Ibn Abdul Qaadir Ibn Hassan, Abu Sulaymaan
 excerpt: This is ignorance and trespassing the truth. If he intends that using this term is not necessary and that it is not necessary for a person to say I am Salafi, then the affair is easy.
-category: [audios,manhaj]
+category: [fatwas,audios,manhaj]
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Muhsin Al-Abbad
