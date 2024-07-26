@@ -8,10 +8,10 @@
        </span>
        entries
       </span>
-      {% elsif page.active == "audios" %}
+      {% elsif post.categories contains 'audios' %}
        <span class="badge text-bg-light">
        <span class="badge text-bg-danger rounded-pill">
-        {{ site.audios | size }}
+        {{ post.categories | size }}
        </span>
        entries
        </span>
