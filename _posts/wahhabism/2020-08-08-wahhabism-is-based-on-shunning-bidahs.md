@@ -1,14 +1,16 @@
 ---
 layout: post
-title: "Wahhabism is based on fulfilling the testimony that Muhammad is the Messenger of Allah and shunning Bid’ahs and superstitions"
 publisher: "alsalafiyyah@icloud.com"
+title: "Wahhabism is based on fulfilling the testimony that Muhammad is the Messenger of Allah and shunning Bid’ahs and superstitions"
 source: "Majmu' Fatawa wa Muqolat of Ibn Baz"
 hijri: Dhul-Hijjah 18, 1441
+date: 2020-08-08
 locale: en
 lang: en
 note: false
 active: wahhabi
-excerpt: "Wahhabism is based on fulfilling the testimony that Muhammad is the Messenger of Allah and shunning Bid’ahs and superstitions as well as anything that contradicts the legislation brought by the Messenger of Allah, Muhammad (peace be upon him)."
+category: [wahhabism]
+excerpt: "Wahhabism is based on fulfilling the testimony that Muhammad is the Messenger of Allah and shunning Bid’ahs and superstitions as well as anything that contradicts the legislation brought by the Messenger of Allah, Muhammad peace be upon him."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
