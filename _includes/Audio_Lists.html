@@ -6,10 +6,13 @@
   <h3>{{ post.title }}</h3>
  </a>
  <p>
-  <small>{{ post.date | date: "%b %d, %Y" }} {{ post.hijri | prepend: " / " }}</small>
+  <small>
+   <i class="bi bi-calendar-day"></i>
+   {{ post.date | date: "%b %d, %Y" }} {{ post.hijri | prepend: " / " }}
+  </small>
  </p>
  <p class="mb-1 fst-italic">
-   {{ item.excerpt | escape | truncate: 150 }}
+   {{ post.excerpt | escape | truncate: 150 }}
  </p>
 </td></tr>
 {% endif %}
