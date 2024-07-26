@@ -34,21 +34,24 @@
   </li>
 </ul>
     <div class="list-group">
-  {% assign sorted = site.audios | sort: 'date' | reverse %}
-  {% for item in sorted limit:4 %}     
-       <a href="{{ item.url }}" class="list-group-item list-group-item-action border-0" aria-current="true">
+{% for post in site.posts limit:4 %}
+{% if post.categories contains 'audios' %}     
+{% if post.url %}      
+       <a href="{{ post.url }}" class="list-group-item list-group-item-action border-0" aria-current="true">
    <article>   
     <div class="d-flex w-100 justify-content-between">
       <header>  
-      <h3 class="mb-1">{{ item.title }}</h3>
+      <h3 class="mb-1">{{ post.title }}</h3>
       </header>
     </div>
     <p class="mb-1 fst-italic">
-     {{ item.content | truncatewords: 30  | strip_html | normalize_whitespace | remove_first: "Question:" }}
+     {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace | remove_first: "Question:" }}
      </p>
-    <small><i class="bi bi-calendar-day"></i> {{ item.hijri }}</small>
-   </article> 
+     <small><i class="bi bi-calendar-day"></i> {{ post.hijri }} // {{ post.date | date: "%b %d, %Y" }}</small>
+    </article> 
   </a>
+{% endif %}
+{% endif %}      
 {% endfor %}
 </div>  
 </section>
