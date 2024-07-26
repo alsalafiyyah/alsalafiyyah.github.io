@@ -8,7 +8,8 @@ date: 2020-09-09
 locale: en
 note: false
 active: wahhabi
-excerpt: "Do Wahhabis deny intercession by the Messenger of Allah (peace and blessings be upon him)?"
+category: [fatwas,wahhabism]
+excerpt: "Do Wahhabis deny intercession by the Messenger of Allah, peace and blessings be upon him?"
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
