@@ -1,29 +1,29 @@
 ---
 layout: post
-title: "Accused of being a Wahhabi for Da'wah to Tawhid, Abandoning Shirk (polytheism) and Bid'ah"
 publisher: "alsalafiyyah@icloud.com"
+title: "Accused of being a Wahhabi for Da'wah to Tawhid, Abandoning Shirk and Bid'ah"
 source: "Fatawa Nur 'Ala al-Darb vol 3, tape no. 124, question 16"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_887/nour_88708.mp3
 link: shorturl.at/iKW36
 hijri: Dhul-Hijjah 16, 1441
+date: 2020-08-06
+category: [fatwas,audios,wahhabism,manhaj]
 note: false
 lang: en
 locale: en
 active: wahhabi
-excerpt: "There is a group of people, if we perform Da'wah to them, call them to Allah (Glorified and Exalted be He) advise them to abandon shirk, they will accuse us of being a Wahhabi. How do we deal with them?"
+excerpt: "There is a group of people, if we perform Da'wah to them, call them to Allah advise them to abandon shirk, they will accuse us of being a Wahhabi. How do we deal with them?"
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
       url: /biography/binbaz/
 ---
 
-Question:
+### Question:
+There is a group of people, if we perform Da'wah to them, call them to Allah (Glorified and Exalted be He) advise them to abandon shirk, they will accuse us of being a Wahhabi. How do we deal with them? 
 
-There is a group of people, if we perform Da'wah to them, call them to Allah (Glorified and Exalted be He) advise them to abandon shirk, they will accuse us of being a [Wahhabi](/wahhabism/). How do we deal with them? 
-
-Answer:
-
-There is no such thing as a [Wahabbi](/wahhabism/) Madhab, rather it is obedience to Allah and His Prophet (peace be upon him). Wahhabism call people to what Allah and His Prophet (peace be upon him) have said. Shaykh Muhammad ibn Abdul-Wahhab (may Allah be merciful with him) was the first to be referred to as Wahhabi, he existed during the second half of the twelfth century of the Muslim calendar. He called people to what Allah and His Prophet said, and to the 'Aqidah of the righteous Salaf who followed the Prophet (peace be upon him) and the Sahabah in their words and actions. He followed the Madhab of Imam Ahmad ibn Hanbal. 
+### Answer:
+There is no such thing as a Wahhabi Madhab, rather it is obedience to Allah and His Prophet (peace be upon him). Wahhabism call people to what Allah and His Prophet (peace be upon him) have said. Shaykh Muhammad ibn Abdul-Wahhab (may Allah be merciful with him) was the first to be referred to as Wahhabi, he existed during the second half of the twelfth century of the Muslim calendar. He called people to what Allah and His Prophet said, and to the 'Aqidah of the righteous Salaf who followed the Prophet (peace be upon him) and the Sahabah in their words and actions. He followed the Madhab of Imam Ahmad ibn Hanbal. 
 
 Moreover, Allah made him successful in calling people to the right 'Aqidah, abandoning shirk, and abandoning Bid'ahs and myths which were created and followed by the Sufi's and others. He called people to the 'Aqidah of the righteous Salaf in actions and deeds. Also, he forbade the Bid'ah of 'Ahlul-Kalam (scholars who search for answers to creedal issues using logic), and the Bid'ah which is followed by some Sufi's who have deviated from the correct path to the path of Bid'ah. He does not have a doctrine that contradicts doctrine of Ahl-us-Sunnah wal-Jama'ah. Rather, he called only to the doctrine of Ahl-us-Sunnah wal-Jama'ah. 
 
