@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "By the Mercy of Allah and His Benevolence the rulers of this country apply Shari'ah"
 publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Muqolat 23/188"
+title: By the Mercy of Allah and His Benevolence the rulers of this country apply Shari'ah
+source: Majmu' Fatawa 23/188
 hijri: Dhul-Hijjah 18, 1441
+date: 2020-08-08
 locale: en
 note: false
 lang: en
-active: wahhabi
+active: muqolat
+category: [muqolat,manhaj]
 excerpt: "By Allah's Mercy and Benevolence, the rulers of this country were guided since the time of Imam Muhammad ibn Sa'ud to the time of the Custodian of the Two Sacred Mosques apply Shari'ah, which is one of Allah’s greatest favors."
 muftis:
   shaykh: 
@@ -52,5 +54,3 @@ Thus, it is obligatory upon judges and chiefs of courts to give much care to thi
 This time is very strange, mixed up and full of trials that make people suffer except for those whom Allah protects. It is obligatory upon Du'ah (callers to Islam), judges, chiefs of courts, and rulers to exert efforts to know the truth with its proper evidence, give the right back to its people, prevent the oppressors from doing injustice, and give rights to those they are due as much as possible out of seeking Allah's reward and fearing His punishment. It is obligatory upon those in authority to care for carrying out the rulings of Shari'ah, cooperate with judges in all what brings benefit to people, apply the laws of Allah upon them, and realize that this is the only way to secure the country, do justice to the oppressed, and guarantee safety from every evil. It is also the way to gain Allah's victory, support, and protection against enemies and opponents of Islam. We ask Allah to guide us all as well as all Du'ah and scholars everywhere. 
 
 May Allah guide all people to know the truth and follow it. I also ask Him to grant us understanding of Islam, be firm on it, and make us from the supporters of His religion and the sincere Du'ah. We ask Him to protect us from the evils of ourselves and the evils of our bad deeds. May Allah (Glorified be He) guide all Muslims everywhere to good, truth, and guidance, grant us good understanding of Islam, make the pious people rule, and set right the affairs of their leaders. I also ask Him (Glorified be He) to guide our rulers, especially, the Custodian of the Two Sacred Mosques to that which pleases Him and help them in doing all what is good. We ask Him also to support the truth with them and guide their retinue. May He make you and us from among those who are truly guided and guide all our judges, all Muslim judges, and all chiefs of courts to follow and work according to the truth. We ask Him also to grant them patience and make them advise each other with patience, as He (Glorified and Exalted be He) the Most Generous, the Most Bountiful. May peace and blessings be upon His Servant and Messenger, our Prophet Muhammad, his family, his Companions, and those who followed him.
-
-
