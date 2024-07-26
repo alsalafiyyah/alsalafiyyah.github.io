@@ -15,7 +15,7 @@
   </small>
    </p>
    <p class="mb-1 fst-italic">
-    {{ post.excerpt | escape | truncate: 150 }}
+    {{ post.excerpt | escape | truncate: 150 | strip_html | normalize_whitespace }}
    </p>
  </td>
 </tr>
