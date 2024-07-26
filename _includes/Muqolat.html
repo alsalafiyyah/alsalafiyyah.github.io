@@ -1,6 +1,6 @@
 <table>
-{% for post in site.posts %}
-{% assign first_dir = post.path | remove_first: "_posts/" | split: "/" | first %}
+{% assign posts = site.posts | where_exp: "post", "post.categories contains 'muqolat'" %}
+{% for post in posts %}
 <tr>
   <td>
    <a class="link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" 
@@ -19,6 +19,5 @@
    </p>
  </td>
 </tr>
-{% if first_dir == 'muqolat' %}{% endif %}  
 {% endfor %}
 </table>
