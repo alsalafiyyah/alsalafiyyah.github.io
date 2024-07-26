@@ -7,6 +7,7 @@ hijri: Muharram 18, 1446
 date: 2024-07-24
 note: true
 locale: en
+lang: en
 active: wahhabi
 category: [fatwas,manhaj,wahhabism]
 excerpt: Anyone who alleges that the Shaykh of Islam Ibn Taymiyyah believed in anthropomorphism is totally ignorant of the creed of Ahl-ul-Sunnah wal-Jama'ah.
