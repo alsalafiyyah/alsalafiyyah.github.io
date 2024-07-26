@@ -8,6 +8,7 @@ locale: en
 lang: en
 hijri: Muharram 16, 1442
 date: 2020-09-04
+excerpt: Such a saying from you is false for scholars of Saudi Arabia know about all contemporary problems and they wrote many books on them. All praise be to Allah Alone, I am one of scholars who dealt with contemporary problems and I wrote uncountable writings on them.
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
