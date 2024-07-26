@@ -6,8 +6,23 @@
        <span class="badge text-bg-danger rounded-pill">
          {{ site.categories.muqolat | size }}
        </span>
-       entries
+        entries
       </span>   
+      {% elsif page.active == "fatwas" %}
+      <span class="badge text-bg-light">
+       <span class="badge text-bg-danger rounded-pill">
+         {{ site.posts | size }}
+       </span>
+        entries
+      </span>        
+      {% elsif page.active == "audios" %}
+      <span class="badge text-bg-light">
+       <span class="badge text-bg-danger rounded-pill">
+         {{ site.categories.audios | size }}
+       </span>
+        entries
+      </span>
+      {% else %}
      {% endif %}
   </li>
  </ul>
