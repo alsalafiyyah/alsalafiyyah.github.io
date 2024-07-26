@@ -1,41 +1,5 @@
  <ul class="list-group">
   <li class="list-group-item d-flex justify-content-between align-items-center">
-    <h2 itemprop="headline">{{ page.title }}</h2>   
-      {% if page.active == "muqolat" %}
-      <span class="badge text-bg-light">
-       <span class="badge text-bg-danger rounded-pill">
-        {{ site.muqolat | size }}
-       </span>
-       entries
-      </span>
-      {% elsif page.categories contains 'audios' %}
-       <span class="badge text-bg-light">
-       <span class="badge text-bg-danger rounded-pill">
-        {{ page.categories | size }}
-       </span>
-       entries
-       </span>
-      {% elsif page.active == "fatwas" %}
-       <span class="badge text-bg-light">
-       <span class="badge text-bg-danger rounded-pill">
-        {{ site.posts | size }}
-       </span>
-       entries
-      </span>
-      {% elsif page.active == "biography" %}
-       <span class="badge text-bg-light">
-       <span class="badge text-bg-danger rounded-pill">
-        {{ site.biography | size }}
-       </span>
-       entries
-      </span>
-      {% elsif page.active == "wahhabi" %}
-       <span class="badge text-bg-light">
-       <span class="badge text-bg-danger rounded-pill">
-        {{ site.wahhabism | size }}
-       </span>
-       entries
-      </span>
-     {% endif %} 
+    <h2 itemprop="headline">{{ page.title }}</h2>
   </li>
  </ul>
