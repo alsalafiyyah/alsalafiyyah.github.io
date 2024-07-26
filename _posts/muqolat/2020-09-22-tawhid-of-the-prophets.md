@@ -2,8 +2,10 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: The Tawhid of the Prophets and its antithesis in the religions of the Kafirs and Mushriks
-hijri: Safar 05, 1442 AH
+hijri: Safar 05, 1442
+date: 2020-09-22
 active: muqolat
+category: [muqolat]
 lang: en
 locale: en
 source: Majmu' Fatawa Shaykh Ibn Baz vol 3
