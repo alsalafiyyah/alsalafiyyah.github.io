@@ -15,7 +15,11 @@
   </small>
    </p>
    <p class="mb-1 fst-italic">
-    {{ post.excerpt | escape | truncate: 150 | strip_html | normalize_whitespace }}
+    {% if page.excerpt %}
+     {{ post.excerpt | escape | truncate: 150 | strip_html | normalize_whitespace }}
+     {% else %}
+     {{ post.content | escape | truncate: 150 | strip_html | normalize_whitespace }}
+    {% endif %}
    </p>
  </td>
 </tr>
