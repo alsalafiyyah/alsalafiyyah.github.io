@@ -5,8 +5,9 @@ title: Danger of denying the Sunnah by words and deeds
 hijri: Muharram 24, 1442
 lang: en
 locale: en
-date: 2020/09/12
+date: 2020-09-12
 source: Majmu' Fatawa vol. 27
+category: [refutals,muqolat]
 excerpt: "I considered it necessary to make things clear regarding the claims of this man, and expose his reality before the Muslims so that they would be aware of his fallacies. Also, I want to fulfill the pledge, escape blame, and guide the Muslim Ummah."
 muftis:
   shaykh: 
@@ -16,7 +17,7 @@ muftis:
 
 This letter is from [**Abdul-Aziz ibn Abdullah ibn Baz**](/biography/binbaz/) to **Chairman of European Islamic Council**, may Allah protect you! As-salamu 'alaykum warahmatullah wabarakatuh (May Allah's Peace, Mercy, and Blessings be upon you!)
 
-An American-Egyptian citizen living in Tucson, Arizona, called [**Rashad Khalifah**](/refutals/warning-against-rashad-khalifas-denial-of-the-sunnah/) who is in charge of a Masjid (mosque), antagonizes Islam, denies the Sunnah, and disparages the Messenger of Allah (peace be upon him). There has been many reports against him. The following is a summary of them:
+An American-Egyptian citizen living in Tucson, Arizona, called **Rashad Khalifah** who is in charge of a Masjid (mosque), antagonizes Islam, denies the Sunnah, and disparages the Messenger of Allah (peace be upon him). There has been many reports against him. The following is a summary of them:
 
 1. This man lives in Tucson, Arizona, the United States of America. He holds a PhD in agricultural engineering and thereby is not eligible to perform the duty of calling to Allah (Exalted be He) in the correct manner. He managed to misguide new Muslims to believe in his opinions which he propagates pretentiously and falsely in the name of Islam which he antagonizes by his denial of the Sunnah. He also cooperates with those who equally deny the Prophet's Sunnah by words or deeds such as Muhammad 'Aly Al-Lahory His claim that he discovered the Inimitability of the Qur’an has raised a scientific controversy.
 2. During his visit to Libya in 1399 A.H., he was interviewed by radio. Many people listened to his opinions concerning the purified Sunnah. When a university professor asked him, before getting on the plane, about his opinion on the Prophet's (peace be upon him) Hadiths, he said quickly due to the lack of time: "**They are satanic innovations**". Also, related to his sayings which expose his denial of the Sunnah and allegorically interpreting the Qur'an on a whimsical basis is the following:
@@ -33,5 +34,3 @@ Therefore, **I considered it necessary to make things clear regarding the claims
 May Allah help us to do goodness, follow the Sunnah and the Qur'an, be among those who call for Allah with knowledge, for He is the Most Generous!
 
 As-salamu alaykum warahmatullah wabarakatuh (May Allah's Peace, Mercy, and Blessings be upon you!)
-
-See also: [**Warning against Rashad Khalifa's denial of the Purified Sunnah**](/refutals/warning-against-rashad-khalifas-denial-of-the-sunnah/)
