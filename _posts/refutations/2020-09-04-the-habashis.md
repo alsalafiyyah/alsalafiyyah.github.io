@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "Jama'at-ul-Ahbash (the Habashis)"
 publisher: "alsalafiyyah@icloud.com"
+title: "Jama'at-ul-Ahbash (the Habashis)"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 19606"
 hijri: Muharram 16, 1442
 lang: en
 locale: en
 note: false
 date: 2020-09-04
+category: [sects,refutals]
 excerpt: "One of the most important characteristics by which those first generations were distinguished and by which they achieved a higher level of righteousness than other people, was the fact that they referred all their affairs to the Qur’an and the Sunnah."
 muftis:
   chairman: 
@@ -25,7 +26,7 @@ muftis:
 
 Praise be to Allah Alone. Peace and blessings be upon the last Prophet, his family, and Companions. 
 
-The Permanent Committee for Scholarly Research and Ifta' has received questions and requests for information about Al-Ahbash Group (the Habashis) and the founder of the group, ['Abdullah Al-Habashy](/refutals/abdullah-habashy/) which was founded in Lebanon. This group has many activities in some European countries, America, and Australia. Therefore, the Committee examined the books and articles published by this group, in which it explains its beliefs, thoughts, and call.
+The Permanent Committee for Scholarly Research and Ifta' has received questions and requests for information about Al-Ahbash Group (the Habashis) and the founder of the group, 'Abdullah Al-Habashy which was founded in Lebanon. This group has many activities in some European countries, America, and Australia. Therefore, the Committee examined the books and articles published by this group, in which it explains its beliefs, thoughts, and call.
 
 Having reviewed these materials, the Committee explains the following for Muslims: 
 
@@ -41,7 +42,7 @@ It is a part of the favor of Allah (Exalted be He) towards this nation that He c
 
 Moreover, according to the Hadith which was authentically reported in Sahih, Sunan and Masanid (Compilations of Hadith) and others, the Prophet (peace be upon him) said: "**A group of people from my Ummah will continue to obey Allah's Command, and those who desert or oppose them shall not be able to do them any harm and they will be prevailing over the people.**" [^3] The Hadith has another wordings. 
 
-**Third**, during the last quarter of the fourteenth century AH, a group emerged whose leader was 'Abdullah Al-Habashy. He moved from Abyssinia (Ethiopia) to the Levant (the region covering Syria, Lebanon, Jordan, and Palestine) taking his misguidance with him. He moved about in that region until he settled in Lebanon where he started to call people to his group. The number of his followers increased and started to spread his ideas which are a mixture of the ideas of Al-Jahmiyyah (a deviant Islamic sect denying some Attributes of Allah, claiming they are ascribed to people and cannot be ascribed to Allah), Al-Mu'tazilah (a deviant Islamic sect claiming that those who commit major sins are in a state between belief and disbelief), Al-Quburiyyah (Grave-worshippers) and [Sufis](/sufism/). He fanatically supported his ideas by engaging in debates and printing books and leaflets to propagate them. 
+**Third**, during the last quarter of the fourteenth century AH, a group emerged whose leader was 'Abdullah Al-Habashy. He moved from Abyssinia (Ethiopia) to the Levant (the region covering Syria, Lebanon, Jordan, and Palestine) taking his misguidance with him. He moved about in that region until he settled in Lebanon where he started to call people to his group. The number of his followers increased and started to spread his ideas which are a mixture of the ideas of Al-Jahmiyyah (a deviant Islamic sect denying some Attributes of Allah, claiming they are ascribed to people and cannot be ascribed to Allah), Al-Mu'tazilah (a deviant Islamic sect claiming that those who commit major sins are in a state between belief and disbelief), Al-Quburiyyah (Grave-worshippers) and Sufis. He fanatically supported his ideas by engaging in debates and printing books and leaflets to propagate them. 
 
 Anyone who reads what has been written and published by this group will clearly see that their beliefs go beyond the pale of Islam, meaning, Ahl-ul-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream). Among their false beliefs, for example are the following (for example and not exclusively): 
 
@@ -148,9 +149,6 @@ The consequences of his call spread - by the grace and favor of Allah - througho
 Having stated this clearly to the people, the Committee is asking Allah (Exalted be He) by His Most Beautiful Names and Sublime Attributes to protect Muslims from all fitnahs (trials), both visible and invisible, to guide those Muslims who have gone astray, to reform their affairs, to turn the plots of the plotters against them, and to suffice Muslims against their evil. For Allah is Able to do all things, and He is most Generous in responding.
 
 Peace be upon our Prophet Muhammad, his family, Companions and those who followed them with good. 
-
-[See also Shaykh Ibn Baz (May Allah be merciful to him) on Habashis](/shaykh-ibn-baz-on-abdullah-habashy)
-
 
 ---
 
