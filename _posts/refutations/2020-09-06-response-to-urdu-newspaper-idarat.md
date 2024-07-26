@@ -2,14 +2,15 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Response to Urdu newspaper 'Idarat' who launched a press campaign against the Kingdom of Saudi Arabia"
+title: "Response to Urdu newspaper Idarat who launched a press campaign against the Kingdom of Saudi Arabia"
 hijri: Muharram 18, 1442
 source: "Fatawa Al-Shaykh Ibn Baz p. 1/222"
 lang: en
 locale: en
 date: 2020-09-06
 note: false
-excerpt: "It is not allowed to celebrate the birthday of the Messenger (peace be upon him) or other birthdays; rather, such celebrations should be prevented, because they are newly-invented practices in religion. The Messenger (peace be upon him) did not celebrate this occasion and did not command others to celebrate his birthday or that of other prophets who passed away before him or that of his daughters, wives or anyone of his relatives or Sahabah (Companions of the Prophet)."
+category: [refutals]
+excerpt: "It is not allowed to celebrate the birthday of the Messenger or other birthdays; rather, such celebrations should be prevented, because they are newly-invented practices in religion."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
