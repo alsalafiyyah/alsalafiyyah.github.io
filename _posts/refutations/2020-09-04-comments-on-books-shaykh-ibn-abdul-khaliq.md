@@ -2,11 +2,16 @@
 layout: post
 title: "Comments on some books of Shaykh Abdul-Rahman ibn Abdul-Khaliq"
 publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat p. 8/240"
+source: "Majmu' Fatawa 8/240"
 category: [fatwas,refutals,sects]
+locale: en
+lang: en
 hijri: Muharram 16, 1442
 date: 2020-09-04
-shaykhs: Shaykh Abdul-Aziz Ibn Baz
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 From [Abdul-Aziz ibn Abdullah ibn Baz](/biographies/binbaz/) to the honorable son **Shaykh Abdul-Rahman ibn Abdul-Khaliq**, may Allah guide him to do what pleases Him and make His religion victorious through him. Amen!
