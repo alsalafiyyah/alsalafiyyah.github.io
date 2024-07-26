@@ -7,7 +7,7 @@ hijri: Muharram 17, 1442
 date: 2020-09-05
 lang: en
 locale: en
-note: false
+category: [refutals,muqolat]
 excerpt: "The Salaf and those who have followed in their footsteps attributed to Allah the Attributes of Perfection, which He has attributed to Himself or which His Messenger (peace be upon him) has attributed to Him."
 muftis:
   shaykh: 
@@ -24,6 +24,7 @@ When I read the article, my attention was seized by the writer's words about the
 The following is what he wrote:
 
 > "However, there are Ayahs (Qur'anic verses) which describe Allah (Exalted be He) with some of the attributes of His creatures, such as: "**The Hand of Allâh is over their hands.**" [al-Fath: 10], "**Everything will perish save His Face.**" [al-Qasas: 88] And, "**The Most Gracious (Allâh) rose over (Istawâ) the (Mighty) Throne (in a manner that suits His Majesty).**" [TaHa: 5]
+
 Scholars have two methods for explaining these Ayahs; the first is the method of the Salaf, which is to affirm the Attributes that Allah has affirmed for Himself, but without Takyif (descriptive designation of Allah's Attributes), Tamthil (likening Allah's Attributes to those of His Creation), or Ta'til (denial of Allah's Attributes). The Salaf aimed not to deny that these are Allah's Attributes, but they affirmed that the apparent meanings of these Ayahs were not the intended meanings and that the basic rule is to deem Allah (Exalted be He) far above any attribute similar to that of His creation. This is because Allah (Exalted be He) states: "**There is nothing like Him; and He is the All-Hearer, the All-Seer.**" [al-Shura: 11]
 
 The Khalaf's method, on the other hand, depends on making Ta'wil (allegorical interpretation) of these terms and turning them away from their literal meanings, by saying that the "Hand", for example, refers to power, the "Face" refers to Allah's Self, and "Istiwa'" denotes His Dominance and Omnipotence. This is because conclusive texts indicate that Allah has no body and because Allah (Exalted be He) says: There is nothing like Him; and He is the All-Hearer, the All-Seer. Both methods are correct and mentioned in the recognized books compiled by outstanding scholars..." 
