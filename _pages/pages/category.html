@@ -5,15 +5,21 @@ active: category
 excerpt: Site categories
 permalink: /category/
 ---
-<table class="table">	
+<table>	
  <tbody>     
+  <ul class="list-group">
   {% for category in site.categories %}	
   <tr>
    <td>
-    {{ category | first | strip_html }}
-   </td>    
-   <td><span class="badge text-bg-danger">{{ category[1].size }}</span></td>
+    <li class="list-group-item d-flex justify-content-between align-items-center">
+     {{ category | first | strip_html }}
+     <span class="badge text-bg-danger rounded-pill">
+      {{ category[1].size }}
+     </span>
+    </li>
+   </td>
   </tr>      
   {% endfor %}	
+  </ul>
  </tbody>	
 </table>
