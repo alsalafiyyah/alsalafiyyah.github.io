@@ -1,11 +1,18 @@
 ---
 layout: post
-title: "Warning against Rashad Khalifa's denial of the Sunnah"
 publisher: "alsalafiyyah@icloud.com"
+title: "Warning against Rashad Khalifa's denial of the Sunnah"
 source: "Majmu' Fatawa Shaykh Ibn Baz 2/400"
-category: [refutals,fatwas,sects]
+locale: en
+lang: en
+category: [refutals,sects]
 hijri: Dhul-Qa'dah 27, 1441
-shaykhs: Shaykh ibn Baz
+date: 2020-07-18
+excerpt: I deemed it necessary to disclose his claims and expose his reality before Muslims lest any of them should fall victim to his deceptions and deviant opinions.
+muftis:
+  shaykh: 
+    - name: Shaykh Ibn Baz
+      url: /biography/binbaz
 ---
 
 All praise be to Allah. May peace and blessings be upon His Messenger and upon his family, Companions, and those who followed him.
