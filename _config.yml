@@ -112,6 +112,12 @@ defaults:
       layout: post
       permalink: /muqolat/:title      
   - scope:
+      path: "_posts/wahhabism/**"
+      type: posts
+    values:
+      layout: post
+      permalink: /wahhabism/:title      
+  - scope:
       path: "_pages"
       type: "pages"
     values:
