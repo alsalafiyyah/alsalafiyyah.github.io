@@ -9,6 +9,11 @@
   <small>
    <i class="bi bi-calendar-day"></i>
    {{ post.date | date: "%b %d, %Y" }} {{ post.hijri | prepend: " / " }}
+   {% if words < 360 %}
+     <span>1 minute read.</span>
+    {% else %}
+      <span>{{ words | divided_by: 180 }} minute read.</span>
+    {% endif %}   
   </small>
  </p>
  <p class="mb-1 fst-italic">
