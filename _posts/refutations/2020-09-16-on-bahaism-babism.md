@@ -6,7 +6,8 @@ hijri: Muharram 28, 1442
 lang: en
 locale: en
 note: false
-date: 2020/9/16
+date: 2020-09-16
+category: [sects,refutals]
 source: "Majmu' Fatawa by Shaykh Ibn Baz 13/169"
 excerpt: "The Babists carried out an armed terrorist movement in which they shed a great deal of blood and killed hundreds of people."
 muftis:
@@ -21,7 +22,7 @@ All Praise is due to Allah. May peace and blessings be upon the Messenger of All
 
 ### Babism
 
-In their view, the word Al-Bab (lit. “the Door”) refers to an ignorant Iranian individual, who claimed to be a [**Sufi**](/sufism/). His name was 'Aly ibn Muhammad Al-Shirazy, He claimed that he was the door to Baha'ullah Mirza Husayn 'Aly and that he was the messenger to whom revelation came from Baha'. The Babists are named after him. Every time he was put under pressure and asked to repent, he repented from Babism and claimed to be a Ja'fary, one of the Twelfth Imamate [**Shiites**](/shiah/). 
+In their view, the word Al-Bab (lit. “the Door”) refers to an ignorant Iranian individual, who claimed to be a Sufi. His name was 'Aly ibn Muhammad Al-Shirazy, He claimed that he was the door to Baha'ullah Mirza Husayn 'Aly and that he was the messenger to whom revelation came from Baha'. The Babists are named after him. Every time he was put under pressure and asked to repent, he repented from Babism and claimed to be a Ja'fary, one of the Twelfth Imamate Shiites. 
 
 The Babists held a general conference in the desert of Badasht to announce their views and proclaim glad tidings of the awaited Imam (leader) whom they claim will appear.
 
@@ -35,7 +36,7 @@ Al-Wakil said that this was what was clearly stated by the historian of Baha'ism
 
 The name of the said Qurrat Al-'Ayn is Um Salman bint Mulla Salih Al-Qazwiny and was a strong proponent of their views. She was responsible for issuing Fatawa (legal opinions issued by a qualified Muslim scholar) before she got in touch with Al-Baha', then when she got in touch with him, she submitted to him and attributed the issuing of Fatawa to him.
 
-The Babists carried out an armed terrorist movement in which they shed a great deal of blood and killed hundreds of people. The Iranian state stood against them and recruited troops that put an end to them, disunited them and killed Bab-ul-Bab Al-Bushru'y and his companion Al-Quddus in 1265 A.H., as stated in the book of Al-Wakil. [**The Shiites**](/shiah/) scholars issued a fatwa stating that Al-Bab was a Kafir and an apostate, and deserved to be executed. The government ordered him to death and he was killed in front of the people; before that he was imprisoned in the citadel.
+The Babists carried out an armed terrorist movement in which they shed a great deal of blood and killed hundreds of people. The Iranian state stood against them and recruited troops that put an end to them, disunited them and killed Bab-ul-Bab Al-Bushru'y and his companion Al-Quddus in 1265 A.H., as stated in the book of Al-Wakil. The Shiites scholars issued a fatwa stating that Al-Bab was a Kafir and an apostate, and deserved to be executed. The government ordered him to death and he was killed in front of the people; before that he was imprisoned in the citadel.
 
 He engaged in dispute with the Shiites scholars several times and he was exposed and his ignorance were clearly demonstrated. Among the smartest questions that were put to him was when he was asked about the defects in Islamic Shari'ah and about the perfection of that, which he had brought, and he could not offer any answer; rather he could not even say a word. He was asked to deliver a speech and he delivered a worthless speech that did not deserve to be listened to. Hence the scholars ruled that he was a Kafir and should be executed, and he was executed.
 
@@ -61,7 +62,7 @@ Abu Al-Fada'il was one of the propagators of the false sect of Al-Baha'.
 
 ####  The methods of Al-Baha' for propagating his views
 
-He was a [**Sufi**](/sufism/) who relied on ambiguity, allusions, symbols and jargon. (See p. 147 of the book of Al-Wakil) 
+He was a Sufi who relied on ambiguity, allusions, symbols and jargon. (See p. 147 of the book of Al-Wakil) 
 
 ####  His books 
 
