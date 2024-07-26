@@ -2,9 +2,10 @@
 layout: post
 title: "Response to a letter from Shaykh Abdul-Rahman ibn Abdul-Khaliq and weak Hadith that support the demonstrations"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Shaykh Ibn Baz p. 8/246"
-category: [fatwas,sects,rulership,hadiths]
+source: "Fatawa Al-Shaykh Ibn Baz 8/246"
+category: [sects,rulership,hadiths,refutals]
 hijri: Muharram 16, 1442
+date: 2020-09-04
 lang: en
 note: false
 excerpt: "These acts are done out of displaying the rites of Islam and have nothing to do with demonstrations."
