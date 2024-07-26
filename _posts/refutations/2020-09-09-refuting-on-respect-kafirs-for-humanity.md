@@ -8,7 +8,7 @@ lang: en
 locale: en
 date: 2020-09-09
 note: false
-category: [refutals,non-muslims]
+category: [refutals,non-muslim]
 excerpt: "With these brief words, I wanted to clarify what was written by this writer and warn against the mistakes that were mentioned by him, for fear that people may have been deceived by his article."
 muftis:
   shaykh: 
