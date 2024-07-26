@@ -50,6 +50,13 @@
        </span>
         entries
       </span>
+      {% elsif page.active == "sects" %}
+      <span class="badge text-bg-light">
+       <span class="badge text-bg-danger rounded-pill">
+         {{ site.categories.sects | size }}
+       </span>
+        entries
+      </span>
       {% else %}
      {% endif %}
   </li>
