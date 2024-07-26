@@ -16,9 +16,9 @@
    </p>
    <p class="mb-1 fst-italic">
     {% if post.excerpt and post.excerpt != empty %}
-     {{ post.excerpt | markdownify | escape | truncate: 150 | strip_html | normalize_whitespace }}
+     {{ post.excerpt | escape | truncate: 150 | strip_html | normalize_whitespace }}
      {% else %}
-     {{ post.content | markdownify | escape | truncate: 150 | strip_html | normalize_whitespace }}
+     {{ post.content | escape | truncate: 150 | strip_html | normalize_whitespace }}
     {% endif %}
    </p>
  </td>
