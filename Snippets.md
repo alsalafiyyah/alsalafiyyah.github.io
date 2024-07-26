@@ -66,7 +66,7 @@ shaykhs:
 
 ___
 
-#### Custom _config.yml
+#### _config.yml boolean
 Group1
 ~~~yaml
 group1:
@@ -206,8 +206,8 @@ ___
  <a href="{{ post.url }}">{{ post.title }}</a>
  <time>{{ post.date | date: "%b %d, %Y" }}</time>
  <p>{{ post.excerpt }}</p>
-{% if first_dir == 'bidah' %}
-{% endif %}
+ {% if first_dir == 'bidah' %}
+ {% endif %}
 {% endfor %}
 
 // Categories
@@ -220,6 +220,12 @@ ___
   <a href="{{site.baseurl}}/category/{{category|slugize}}">{{category}}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
+
+// Post Category loop
+{% assign posts = site.posts | where_exp: "post", "post.categories contains 'Foo'" %}
+{% for post in posts %}
+  {{ post.title }}
+{% endfor %}
 
 ~~~
 
