@@ -1,12 +1,15 @@
-﻿---
+---
 layout: post
-title: "Warning against seeking Fatwa from ignorant people and those who follow false doctrines"
 publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat vol 9"
-hijri: Muharram 6, 1442 AH
-date: 2020/08/25
-category: ["refutals", general]
-shaykhs: Shaykh Ibn Baz
+title: Warning against seeking Fatwa from ignorant people and those who follow false doctrines
+source: Majmu' Fatawa wa Maqalat vol 9
+hijri: Muharram 6, 1442
+date: 2020-08-25
+category: [refutals,manhaj]
+muftis:
+  shaykh: 
+    - name: Shaykh Ibn Baz
+      url: /biography/binbaz
 ---
 
 His Eminence Shaykh Abdul-Aziz ibn Abdullah ibn Baz the Grand Mufty of Kingdom of Saudi Arabia, Chairman of Council of Senior Scholars and Departments of Scholarly Research and Ifta', warned youth against asking for the opinion of the ignorant, half-educated people and followers of false doctrines who seek to sow the seeds of discord between Muslims and try to harm their Din (religion).
