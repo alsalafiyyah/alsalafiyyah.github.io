@@ -29,6 +29,27 @@
        </span>
         entries
       </span>
+      {% elsif page.active == "wahhabi" %}
+      <span class="badge text-bg-light">
+       <span class="badge text-bg-danger rounded-pill">
+         {{ site.wahhabism | size }}
+       </span>
+        entries
+      </span>
+      {% elsif page.active == "biography" %}
+      <span class="badge text-bg-light">
+       <span class="badge text-bg-danger rounded-pill">
+         {{ site.biography | size }}
+       </span>
+        entries
+      </span>
+      {% elsif page.active == "bidah" %}
+      <span class="badge text-bg-light">
+       <span class="badge text-bg-danger rounded-pill">
+         {{ site.categories.bidah | size }}
+       </span>
+        entries
+      </span>
       {% else %}
      {% endif %}
   </li>
