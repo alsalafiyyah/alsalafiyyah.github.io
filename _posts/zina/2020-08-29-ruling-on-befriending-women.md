@@ -2,24 +2,13 @@
 layout: post
 title: "Ruling on befriending women"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 6575-5"
+source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 6575, Question 5"
 hijri: Muharram 10, 1442
 lang: en
 note: true
-category: [zina, fatwaa]
-excerpt: "Having a girlfriend is considered Zina, which is prohibited according to the Book of Allah, the Sunnah and the consensus of scholars.
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+group1: true
+category: [zina, fatwas]
+excerpt: Having a girlfriend is considered Zina, which is prohibited according to the Book of Allah, the Sunnah and the consensus of scholars.
 ---
 
 ### Question: 
