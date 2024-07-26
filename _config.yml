@@ -106,6 +106,12 @@ defaults:
       layout: post
       permalink: /audios/:title
   - scope:
+      path: "_posts/muqolat/**"
+      type: posts
+    values:
+      layout: post
+      permalink: /muqolat/:title      
+  - scope:
       path: "_pages"
       type: "pages"
     values:
