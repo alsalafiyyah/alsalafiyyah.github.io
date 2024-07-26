@@ -10,6 +10,7 @@ date: 2020-09-03
 category: [fatwas,hisbah]
 note: true
 group2: true
+excerpt: Warning against people flagrantly violating Islamic law and those who commit major sins is obligatory. Advising Fasiqs and those who commit major sins is also obligatory.
 ---
 
 ### Question:
