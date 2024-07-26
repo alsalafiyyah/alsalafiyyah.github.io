@@ -5,7 +5,7 @@ title: Ruling on one who speaks ill of the works of Imam Muhammad bin 'Abdul-Wah
 source: Silsilatu sharhir-Rasail p.124.
 hijri: Muharram 18, 1446
 date: 2024-07-24
-note: false
+category: [wahhabism,manhaj]
 locale: en
 active: wahhabi
 translated_by: Abu 'Abdillah al-Kashmiri
