@@ -34,8 +34,8 @@
   </li>
 </ul>
     <div class="list-group">
-{% for post in site.posts limit:4 %}
-{% if post.categories contains 'audios' %}     
+{% assign posts = site.posts | where_exp: "post", "post.categories contains 'audios'" %}
+{% for post in posts limit:4 %}      
 {% if post.url %}      
        <a href="{{ post.url }}" class="list-group-item list-group-item-action border-0" aria-current="true">
    <article>   
@@ -50,7 +50,6 @@
      <small><i class="bi bi-calendar-day"></i> {{ post.hijri }} // {{ post.date | date: "%b %d, %Y" }}</small>
     </article> 
   </a>
-{% endif %}
 {% endif %}      
 {% endfor %}
 </div>  
