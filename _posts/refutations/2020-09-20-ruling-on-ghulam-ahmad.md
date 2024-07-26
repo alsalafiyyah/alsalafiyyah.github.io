@@ -8,7 +8,8 @@ locale: en
 date: 2020-09-20
 note: false
 source: "Majmu' Fatawa 3/268"
-excerpt: "This atheist, Ghulam Ahmad Pervez, has never believed in what Allah sent down to Muhammad (peace be upon him) and to the preceding messengers. Rather, he wholeheartedly denied it."
+category: [sects,refutals,non-muslim]
+excerpt: "This atheist, Ghulam Ahmad Pervez, has never believed in what Allah sent down to Muhammad, peace be upon him, and to the preceding messengers. Rather, he wholeheartedly denied it."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
