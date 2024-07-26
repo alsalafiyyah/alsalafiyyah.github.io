@@ -16,7 +16,7 @@
    </p>
    <p class="mb-1 fst-italic">
     {% if post.excerpt != post.content %}
-     {{ post.content | escape | truncate: 150 | strip_html | normalize_whitespace }}
+     {{ post.content truncate: 150 | strip_html }}
     {% endif %}
    </p>
  </td>
