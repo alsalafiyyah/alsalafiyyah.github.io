@@ -2,7 +2,9 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: It is Compulsory to save yourself and family from Hellfire
-hijri: Rabi' Al-Awwal 8, 1442 AH
+hijri: Rabi' Al-Awwal 08, 1442
+date: 2020-10-25
+category: [muqolat]
 lang: en
 locale: en
 source: A speech delivered by His Eminence at Al-Ifta' mosque in Riyadh on Wednesday 6/6/1415 A.H.
