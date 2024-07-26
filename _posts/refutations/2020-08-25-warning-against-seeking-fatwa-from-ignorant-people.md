@@ -6,6 +6,7 @@ source: Majmu' Fatawa wa Maqalat vol 9
 hijri: Muharram 6, 1442
 date: 2020-08-25
 category: [refutals,manhaj]
+excerpt: Lacking beneficial knowledge, their ultimate concern is to be at enmity with Islam and its followers. They seek to confuse Muslims with regard to their religion.
 muftis:
   shaykh: 
     - name: Shaykh Ibn Baz
