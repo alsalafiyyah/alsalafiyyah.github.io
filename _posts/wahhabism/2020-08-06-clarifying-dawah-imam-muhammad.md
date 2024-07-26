@@ -1,15 +1,17 @@
 ---
 layout: post
-title: "Clarifying the Da'wah of the Imam Muhammad ibn Abdul-Wahhab"
 publisher: "alsalafiyyah@icloud.com"
+title: "Clarifying the Da'wah of the Imam Muhammad ibn Abdul-Wahhab"
 source: "Fatawa Nur 'Ala al-Darb vol 3, tape no. 267, question 3"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_828/nour_82803.mp3
 hijri: Dhul-Hijjah 16, 1441
+date: 2020-08-06
+category: [fatwas,audios,wahhabism]
 note: false
 lang: en
 locale: en
 active: wahhabi
-excerpt: "Was the Da'wah (calling people to Islam) of Shaykh Muhammad ibn Abdul-Wahhab a specific doctrine?"
+excerpt: "He made Da'wah to Tawhid, obeying His commands, abstaining from what is forbidden, following the Qur'an and sunnah, and abandoning anything which opposes this."
 url: "https://binbaz.org.sa/fatwas/15736/%D8%A7%D9%84%D8%AA%D8%B9%D8%B1%D9%8A%D9%81-%D8%A8%D8%AF%D8%B9%D9%88%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%88%D9%87%D8%A7%D8%A8"
 muftis:
   shaykh: 
@@ -17,12 +19,10 @@ muftis:
       url: /biography/binbaz/
 ---
 
-Question:
-
+### Question:
 Was the Da'wah (calling people to Islam) of Shaykh Muhammad ibn Abdul-Wahhab a specific doctrine? Does what is said about his Da'wah to abandon worshipping graves and the dead mean disaffection towards righteous persons? 
 
-Answer:
-
+### Answer:
 Shaykh Muhammad ibn Abdul-Wahhab (may Allah be merciful with him) is of the scholars of Sunnah and the scholars of the people of truth. His Da'wah is not a fifth Madhab (School of Jurisprudence), rather it is a Da'wah to the Aqidah (creed) of the Salaf (righteous predecessors), and to what the Salaf of the Muslim Ummah (nation based on one creed) from among the Sahabah (Companions of the Prophet) and their followers were practicing. He made Da'wah to Tawhid (Oneness of Allah), following Allah's Shariah(Islamic law), obeying his commands, and abstaining from what is forbidden. He did not make Da'wah to a new Madhab as claimed by the ignorant or his enemies from among grave worshippers, rather he made Da'wah to worshipping Allah alone. 
 
 His Da'wah was during the second half of the twelth century and he passed away (may Allah be merciful with him) in 1206 A.H, in the beginning of the thirteenth century. His books prove his Aqidah, for example "**Kitab Al-Tawhid**", "**Kashf Al Shubahat**", and "**Al-Thalathah Al-'Usul**". These books prove that his Da'wah was calling to the Tawhid of Allah, worshipping Allah sincerely and not invoking anything besides Allah, not angels, prophets, idols, Jinn (creatures created from fire) or humans. Ibadah (worship) is Allah's right alone. 
