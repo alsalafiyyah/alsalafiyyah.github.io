@@ -2,9 +2,11 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: A Piece of advice about earthquakes
-hijri: Rabi' Al-Awwal 9, 1442 AH
+hijri: Rabi' Al-Awwal 09, 1442
+date: 2020-10-26
 lang: en
 locale: en
+category: [muqolat]
 source: "Published in the local newspapers: Al-Riyadh, Al-Jazirah, Al-Madinah, and Okaz on Saturday 13/7/1416 A.H"
 excerpt: There is no doubt that what happens these days of earthquakes in many countries are of these portents that Allah brings to make His servant fear Him. All the earthquakes that happen in this world and other things that cause harm to people are because of Shirk and evil deeds.
 active: muqolat
