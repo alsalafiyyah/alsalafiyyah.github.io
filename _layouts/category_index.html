@@ -5,13 +5,19 @@ active: category
 ---
 <table>	
  <tbody>     
+  <ul class="list-group">
   {% for p in site.categories[page.category] %}	
   <tr>
    <td>
-    <a title="{{ p.title }}" href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>  
-   </td>    
-   <td></td>
+    <a title="{{ p.title }}" href="{{ site.baseurl }}{{ p.url }}" class="list-group-item d-flex justify-content-between align-items-center">
+     {{ p.title | first | strip_html }}
+     <span class="badge text-bg-danger rounded-pill">
+      {{ site.categories[page.category].size }}
+     </span>
+    </a>
+   </td>
   </tr>      
   {% endfor %}	
+  </ul>
  </tbody>	
 </table>
