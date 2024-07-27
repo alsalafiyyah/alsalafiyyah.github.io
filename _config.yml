@@ -21,10 +21,10 @@ safe: true
 future: true
 locales: ["en", "ar"]
 language_default: en
-languages: ["en", "ar"]
 defaultLang: en
 note:
     text: "May Allah grant us success. May peace and blessings be upon our Prophet, his family and Companions"
+
 include:
   - _pages
 
@@ -116,7 +116,13 @@ defaults:
       type: posts
     values:
       layout: post
-      permalink: /wahhabism/:title      
+      permalink: /wahhabism/:title
+  - scope:
+      path: "_posts/biography/**"
+      type: posts
+    values:
+      layout: post
+      permalink: /biography/:title     
   - scope:
       path: "_pages"
       type: "pages"
@@ -130,26 +136,6 @@ defaults:
 
 
 collections:
-  refutals:
-    output: true
-    active: radd
-    permalink: /radd/:path/
-    layout: post
-  wahhabism:
-    output: true
-    active: wahhabi
-    permalink: /wahhabism/:path/
-    layout: post
-  muqolat:
-    output: true
-    active: muqolat
-    permalink: /muqolat/:title/
-    layout: post
-  audios:
-    output: true
-    active: audios
-    permalink: /audios/:title/
-    layout: post
   biography:
     output: true
     active: biography
