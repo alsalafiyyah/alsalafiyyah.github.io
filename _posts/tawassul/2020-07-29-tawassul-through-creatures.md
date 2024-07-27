@@ -1,24 +1,21 @@
-﻿---
+---
 layout: post
 title: "Tawassul through creatures"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 5441-2"
-category: [tawassul]
-hijri: Dhu al-Hijjah 8, 1441 AH
-date: 2020/07/29
-shaykhs: 
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Qa'ud
+source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 5441, Question 2"
+category: [fatwas, tawassul]
+hijri: Dhul-Hijjah 8, 1441
+date: 2020-07-29
+group1: true
+locale: en 
+lang: en
+excerpt: Thus, whoever claims that Allah is not above or below us or to our right or left has contradicted the evidence of the Qur'an and Sunnah.
 ---
 
-Question: 
-
+### Question: 
 One Friday, the Imam of a Masjid (mosque) who belongs to a Sufi order delivered the Khutbah (sermon), saying: "We should not say that Allah is above us, below us, to our left, or to our right." He, further, called people to perform Tawassul (supplicating to Allah through a means) through Allah's creatures, like the Prophets and Awliya' (pious people). He learns the Qur'an from people who do not perform the obligations enjoined by Allah, destroying families, and shouting at people walking in the streets and beating them; and yet he calls them Awliya'. Do these claims represent the ideology of the unity of the universe, immanentism and other many Bid'as (rejected innovations in religion)? Is it permissible to offer Salah (Prayer) behind such an Imam or even behind his Mu'adhin (caller to Prayer)? If not, is it permissible to offer the five obligatory daily Salahs (Prayers) at home? Is it permissible to offer the Jumu`ah (Friday) Prayer in another Masjid?
 
-Answer:
-
+### Answer:
 Firstly: According to conclusive evidence, Allah is above all of His Creation. He has risen over the Throne in a way that suits His Eminence. Allah (Exalted be He) says: "The Most Gracious (Allâh) rose over (Istawâ) the (Mighty) Throne (in a manner that suits His Majesty)." [TaHa: 5] This is the 'Aqidah (creed) of Ahl-ul-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream) from the Sahabah (companions of the Prophet), Tabi'un (followers, the generation after the companions) and those who followed them in righteousness. We recommend reading the book "Al-'Uluw lil-'Aliyy Al-Ghaffar" (The Exaltation of the All-High and Most-Forgiving) by Muhammad ibn Ahmad ibn 'Uthman ibn Qaymaz Al-Dhahabi. 
 
 Thus, whoever claims that Allah is not above or below us or to our right or left has contradicted the evidence of the Qur'an and Sunnah (whatever is reported from the Prophet) as well as the consensus of the people of knowledge and Iman (Faith) at the time of Sahabah (may Allah be pleased with them). Consequently, the truth should be clarified to this Imam. If he insists, he is to be deemed a Kafir (disbeliever) who apostatized from Islam. Accordingly, it is impermissible to offer Salah behind him.
@@ -40,7 +37,6 @@ Thirdly: Those who do not perform the obligations enjoined by Allah, destroy fam
 Fourthly: Salah should not be offered behind such an Imam, whether it is the Jumu`ah Prayer or the congregational ones. You should offer Salah in the nearest possible Masjid behind an Imam that you trust and are satisfied with his religion.
 
 Fifthly: Nothing is mentioned about the Mu'adhin regarding his opposition of Islam that we may give you a ruling on offering Salah behind him.
-
 
 May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
 
