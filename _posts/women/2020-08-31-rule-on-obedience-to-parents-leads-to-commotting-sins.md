@@ -5,7 +5,7 @@ title: "Ruling on obedience to parents leads to committing sins"
 source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 5994, Question 1"
 hijri: Muharram 12, 1442
 date: 2020-08-31
-category: [women,hijab]
+category: [fatwas,women,hijab]
 note: true
 group1: true
 locale: en
