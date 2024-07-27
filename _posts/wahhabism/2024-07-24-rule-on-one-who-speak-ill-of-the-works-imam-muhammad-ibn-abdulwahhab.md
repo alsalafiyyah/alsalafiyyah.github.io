@@ -5,12 +5,12 @@ title: Ruling on one who speaks ill of the works of Imam Muhammad bin 'Abdul-Wah
 source: Silsilatu sharhir-Rasail p.124.
 hijri: Muharram 18, 1446
 date: 2024-07-24
-category: [wahhabism,manhaj]
+category: [fatwas,wahhabism,manhaj]
 locale: en
 lang: en
 active: wahhabi
-translated_by: Abu 'Abdillah al-Kashmiri
-excerpt: This individual is upon either of two conditions: either he is an ignorant one who has not studied them and does not know about them, thus it is an obligation upon him to before he makes a judgement upon something that he studies it first and has knowledge of it.
+translated_by: "Abu 'Abdillah al-Kashmiri"
+excerpt: "This individual is upon either of two conditions: either he is an ignorant one who has not studied them and does not know about them, thus it is an obligation upon him to before he makes a judgement upon something that he studies it first and has knowledge of it."
 muftis:
   shaykh: 
     - name: Shaykh Salih Al-Fawzan
