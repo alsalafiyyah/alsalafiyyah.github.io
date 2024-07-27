@@ -1,13 +1,18 @@
 ---
 layout: page
 publisher: "alsalafiyyah@icloud.com"
-title: Shaykh Ibrahim ibn Muhammad Aal Al-Shaykh
+title: Biography of Shaykh Ibrahim Ibn Muhammad Aal Al-Shaykh
+hijri: Safar 6, 1442 AH
+date: 2020-09-23
+locale: en
+lang: en
+category: [biography]
 active: biography
 excerpt: He acquired knowledge from his father and many Shaykhs, including His Eminence Shaykh Ibn Baz, Shaykh Muhammad Al-Amin Al-Shanqyti, and many others.
 permalink: /biography/ibrahim/
 ---
 
-### His Name:
+### His Name and Lineage:
 Shaykh Ibrahim ibn Muhammad ibn Ibrahim ibn 'Abdul-Latif ibn 'Abdul-Rahman ibn Hasan ibn Imam Muhammad ibn 'Abdul-Wahhab
 
 ### His Birth:
