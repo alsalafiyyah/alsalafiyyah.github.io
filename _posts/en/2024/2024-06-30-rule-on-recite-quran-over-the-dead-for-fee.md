@@ -10,11 +10,18 @@ note: true
 locale: en
 lang: en
 excerpt: It is not permissible to recite the Qur'an in return for a payment and have this as a profession. This is because recitation of the Qur'an is an act of worship and a Qurbah (a good deed by which Allah's Pleasure is sought).
-shaykhs: 
- - Sh. Ibn Baz 
- - Sh. Abdul-Aziz Aal Ash-Shaykh
- - Sh. Salih Al-Fawzan 
- - Sh. Bakr Abu Zayd
+muftis:
+  chairman: 
+    - name: Shaykh Ibn Baz
+      url: /biography/binbaz
+  deputy_chairman:
+    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+      url: /biography/abdulaziz
+  members: 
+    - name: Shaykh Salih Al-Fawzan
+      url: /biography/fawzan
+    - name: Shaykh Bakr Abu Zayd
+      url: /biography/bakr
 ---
 
 ### Question: 
