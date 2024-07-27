@@ -4,11 +4,11 @@ publisher: alsalafiyyah@icloud.com
 title: Do Muslims Worship The Black Stone and The Ka'bah?
 date: 2024-07-27
 hijri: Muharram 21, 1446
-source: 'Aqidatul-Haaj Fee dawil-Kitab was-Sunnah, p.22-23
+source: "Aqidatul-Haaj Fee dawil-Kitab was-Sunnah, p.22-23"
 category: [fatwas,manhaj]
 locale: en
 lang: en
-excerpt: They contrive lies against us whilst we do not worship the Ka'bah but rather we worship the Lord of the Ka'bah.
+excerpt: "They contrive lies against us whilst we do not worship the Ka'bah but rather we worship the Lord of the Ka'bah."
 translated_by: Abu Abdillah al-Kashmiri
 muftis:
   shaykh: 
