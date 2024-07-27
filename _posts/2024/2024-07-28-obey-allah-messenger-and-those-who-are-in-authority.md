@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Obey Allah and the Messengerﷺ and those in authority"
+title: "Obey Allah, the Messengerﷺ and those who are in authority"
 date: 2024-07-28
 hijri: Muharram 22, 1446
 source: "Silsilatu Sharhir-Rasail p.52."
