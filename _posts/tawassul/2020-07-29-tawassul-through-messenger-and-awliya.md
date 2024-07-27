@@ -1,15 +1,15 @@
 ﻿---
 layout: post
 publisher: "alsalafiyyah@icloud.com"
-title: "Tawassul through the Messenger and Awliya"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 5156-3"
+title: "Rule on rawassul through the Messenger and Awliya"
+source: "Fatawa Al-Lajnah Ad-Da'imah no. 5156, Question 3"
 category: [fatwas,tawassul]
 hijri: Dhul-Hijjah 8, 1441
 date: 2020-07-29
 group1: true
 locale: en
 lang: en
-excerpt: A dispute arose between a person and me. This person has memorized the Qur'an and has already performed Hajj to the Sacred House of Allah.
+excerpt: "A dispute arose between a person and me. This person has memorized the Qur'an and has already performed Hajj to the Sacred House of Allah."
 ---
 
 ### Question: 
