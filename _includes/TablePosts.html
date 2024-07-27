@@ -64,35 +64,9 @@ ul {
       </span> View file 
      </a>            
       </li>
-      <button class="share-button" type="button" title="Share this article">
-  <span class="material-symbols-outlined">
-ios_share
-  </span>
-</button>
-    </ul>
-<script>
-const shareButton = document.querySelector('.share-button');
-const shareDialog = document.querySelector('.share-dialog');
-const closeButton = document.querySelector('.close-button');
-shareButton.addEventListener('click', event => {
-  if (navigator.share) { 
-   navigator.share({
-      title: '{{ post.title }}',
-      url: '{{ post.url }}'
-    }).then(() => {
-      console.log('Thanks for sharing!');
-    })
-    .catch(console.error);
-    } else {
-        shareDialog.classList.add('is-open');
-    }
-});
-closeButton.addEventListener('click', event => {
-  shareDialog.classList.remove('is-open');
-});  
-  </script>      
+    </ul> 
     </div>
-      <div class="iconav content-date"> 
+  <div class="iconav content-date"> 
   {% if post %}
     {% assign categories = post.categories %}
   {% else %}
@@ -102,10 +76,8 @@ closeButton.addEventListener('click', event => {
   <a href="{{site.baseurl}}/category/{{category|slugize}}"><span class="material-symbols-outlined">sell</span> {{category|capitalize}}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}        
-      </div>
+  </div>
    </td>    
   </tr>      
 {% endfor %}	
 </table>
-
-
