@@ -7,13 +7,10 @@ hijri: Muharram 18, 1446
 date: 2024-07-24
 category: [wahhabism,manhaj]
 locale: en
+lang: en
 active: wahhabi
 translated_by: Abu 'Abdillah al-Kashmiri
-excerpt: 
-article_taken_from: 
-  taken_from:
-    - web_title: The one who speaks ill of the works of Shaykhul-Islam Muhammad bin 'Abdul-Wahhab
-      web_url: https://www.fatwaislam.com/fis/index.cfm?scn=fd&ID=372
+excerpt: This individual is upon either of two conditions: either he is an ignorant one who has not studied them and does not know about them, thus it is an obligation upon him to before he makes a judgement upon something that he studies it first and has knowledge of it.
 muftis:
   shaykh: 
     - name: Shaykh Salih Al-Fawzan
