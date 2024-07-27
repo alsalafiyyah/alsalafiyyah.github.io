@@ -8,6 +8,10 @@ lang: en
 locale: en
 category: [fatwas,hadiths]
 excerpt: "Is the Hadith that says: 'There will come a day when Muslims will gain victory over the Jews, and then a stone behind which a Jew may hide, will speak and call the believer to go and kill the Jew hiding behind it' authentic?"
+article_taken_from: 
+  taken_from:
+    - web_title: اليوم الذي يسلط فيه المسلمون على اليهود
+      web_url: https://al-fatawa.com/fatwa/112385
 group1: true
 ---
 
@@ -15,13 +19,15 @@ group1: true
 Is the Hadith that says: **"There will come a day when Muslims will gain victory over the Jews, and then a stone behind which a Jew may hide, will speak and call the believer to go and kill the Jew hiding behind it"** authentic?
  
 ### Answer:
-It was reported that Ibn 'Umar (may Allah be pleased with them both) said: "I heard the Messenger of Allah (peace be upon him) saying: '**You (i.e. Muslims) will fight against the Jews and you will gain victory over them. The stones will (betray them) saying: 'O 'Abdullah (i.e. slave of Allah)! There is a Jew hiding behind me; so kill him.**' [^1] This Hadith was reported by Al-Bukhari. 
+It was reported that Ibn 'Umar (may Allah be pleased with them both) said: **"I heard the Messenger of Allah (peace be upon him) saying: 'You (i.e. Muslims) will fight against the Jews and you will gain victory over them. The stones will (betray them) saying: 'O 'Abdullah (i.e. slave of Allah)! There is a Jew hiding behind me; so kill him.**' [^1] This Hadith was reported by Al-Bukhari. 
 
 It was also reported on the authority of Ibn 'Umar (may Allah be pleased with them both) that the Messenger of Allah (peace be upon him) said: "**The Jews will fight against you and you will gain victory over them, till the stone says: 'O Muslim! There is a Jew hiding behind me; so kill him.'**" [^2] This Hadith was reported by Ahmad and Al-Tirmidhy who said that it is a Hasan, Sahih Hadith. 
 
 Ibn 'Umar (may Allah be pleased with them both) said that he heard the Messenger of Allah (peace be upon him) saying: "**The Antichrist will pass by this salty barren area i.e. Madinah, in a passage of a canal. Most of those who will come out to him will be women so that a man will return to his intimate wife, mother, daughter, sister or aunt to tie them up for fear that they might go out to him. Then, Allah will afflict him with Muslims who kill him and his followers and the Jews will hide behind a tree or a rock and the rock or the tree will say to the Muslim: There is a Jew behind me, come and kill him!**" [^3] This Hadith was reported by Ahmad in his Musnad. 
 
 It was also reported by Ibn Majah on the authority of Abu Umamah Al-Bahily who said that the Prophet (peace be upon him) said this Hadith about Al-Masih-ul-Dajjal (the Antichrist).
+
+May Allah grant us success. May peace and blessings be upon our Prophet, his family and Companions.
 
 ---
 
