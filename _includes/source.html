@@ -284,7 +284,6 @@
 
  {% if page.shaykhs %}
   <li class="list-group-item">
-   {{ site.data.locales[page.locale].page.muftis }}: 
   {% for sh in page.shaykhs %}
    <span class="fw-semibold">{{ sh }}</span>
    {% unless forloop.last %},{% endunless %}
@@ -296,7 +295,7 @@
    {% if page.muftis.shaykh %}
     {% for shaykh in page.muftis.shaykh %}
        <li class="list-group-item">
-        {{ site.data.locales[page.locale].page.mufti }}: <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}"><b>{{ shaykh.name }}</b></a>
+        <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}"><b>{{ shaykh.name }}</b></a>
        </li>
     {% endfor %}
    {% endif %}
