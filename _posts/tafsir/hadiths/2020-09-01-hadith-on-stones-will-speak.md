@@ -1,32 +1,20 @@
 ---
 layout: post
-title: "The Hadith: 'You will fight against the Jews and you will gain victory over them. The stones will saying: 'Oh slave of Allah! there is a Jew hiding behind me; so kill him'"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Daimah no. 5775-2"
-hijri: Muharram 13, 1442 AH
+title: "Concerning the Hadith: 'You will fight against the Jews and you will gain victory over them.'"
+source: "Fatawa Al-Lajnah Ad-Daimah, Fatwa no.5775, Question 2"
+hijri: Muharram 13, 1442
 lang: en
-category: ["tafsir", hadiths]
+locale: en
+category: [fatwas,hadiths]
 excerpt: "Is the Hadith that says: 'There will come a day when Muslims will gain victory over the Jews, and then a stone behind which a Jew may hide, will speak and call the believer to go and kill the Jew hiding behind it' authentic?"
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+group1: true
 ---
 
-Question:
-
-Is the Hadith that says: "There will come a day when Muslims will gain victory over the Jews, and then a stone behind which a Jew may hide, will speak and call the believer to go and kill the Jew hiding behind it" authentic?
+### Question:
+Is the Hadith that says: **"There will come a day when Muslims will gain victory over the Jews, and then a stone behind which a Jew may hide, will speak and call the believer to go and kill the Jew hiding behind it"** authentic?
  
-Answer:
-
+### Answer:
 It was reported that Ibn 'Umar (may Allah be pleased with them both) said: "I heard the Messenger of Allah (peace be upon him) saying: '**You (i.e. Muslims) will fight against the Jews and you will gain victory over them. The stones will (betray them) saying: 'O 'Abdullah (i.e. slave of Allah)! There is a Jew hiding behind me; so kill him.**' [^1] This Hadith was reported by Al-Bukhari. 
 
 It was also reported on the authority of Ibn 'Umar (may Allah be pleased with them both) that the Messenger of Allah (peace be upon him) said: "**The Jews will fight against you and you will gain victory over them, till the stone says: 'O Muslim! There is a Jew hiding behind me; so kill him.'**" [^2] This Hadith was reported by Ahmad and Al-Tirmidhy who said that it is a Hasan, Sahih Hadith. 
