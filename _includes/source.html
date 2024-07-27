@@ -1,64 +1,9 @@
 <section class="mt-5">
-<div class="card card-body bg-transparent border-danger">
-<ul class="list-group list-group-flush">
-       <li class="list-group-item">       
-        <span>
-          <time itemprop="datePublished" datetime="{{ page.date | date_to_string }}"> 
-          {% if page.hijri %}
-            {{ site.data.locales[page.locale].page.date }}:      
-            <b>{{ page.hijri }}</b> 
-           {% if page.date %}
-            <b>{{ page.date | date_to_string | prepend: " — " }}</b>
-           {% endif %}     
-          {% endif %}  
-          </time>
-        </span>
-      </li> 
-       <li class="list-group-item">
-           {% include read_time.html %}
-       </li>
- {% if page.source %}
-   <li class="list-group-item">
-   {{ site.data.locales[page.locale].page.source }}: <b>{{ page.source }}</b> {% else %}
-    </li>
- {% endif %}
- 
- {% if page.binbaz %}
-  {% if site.binbaz %}
-   <li class="list-group-item">
-    {{ site.data.locales[page.locale].page.mufti }}: 
-    <a title="{{ site.binbaz.name }}" href="{{ site.binbaz.url }}">{{ site.binbaz.name }}</a>
-    </li>
-  {% endif %}
- {% endif %}
- 
- {% if page.fawzan %}
-  {% if site.fawzan %}
-   <li class="list-group-item">
-    {{ site.data.locales[page.locale].page.mufti }}: 
-    <a title="{{ site.fawzan.name }}" href="{{ site.fawzan.url }}">{{ site.fawzan.name }}</a>
-    </li>
-  {% endif %}
- {% endif %}
+<div class="card bg-transparent border-danger mb-3">
+  <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">Muftis</div>
+  <div class="card-body">
+    <ul class="list-group list-group-flush">
 
- {% if page.uthaymeen %}
-  {% if site.uthaymeen %}
-   <li class="list-group-item">
-    {{ site.data.locales[page.locale].page.mufti }}: 
-    <a title="{{ site.uthaymeen.name }}" href="{{ site.uthaymeen.url }}">{{ site.uthaymeen.name }}</a>
-    </li>
-  {% endif %}
- {% endif %}
-
-  {% if page.uthaymeen_ar %}
-  {% if site.uthaymeen_ar %}
-   <li class="list-group-item">
-    {{ site.data.locales[page.locale].page.mufti }}: 
-    {{ site.uthaymeen.name }}
-    </li>
-  {% endif %}
- {% endif %}
- 
  {% if page.group1 %}
    {% if site.group1.chairman %}
     <li class="list-group-item">
@@ -107,8 +52,8 @@
         </ol>
       </li>
    {% endif %} 
- {% endif %}
-
+ {% endif %}           
+           
  {% if page.group3 %}
    {% if site.group3.chairman %}
     <li class="list-group-item">
@@ -276,7 +221,7 @@
         </ol>
       </li>
    {% endif %} 
- {% endif %}
+ {% endif %}           
 
   {% if page.group10 %}
    {% if site.group10.chairman %}
@@ -346,7 +291,7 @@
   {% endfor %}
   </li>
  {% endif %}
- 
+
   {% if page.muftis %}
    {% if page.muftis.shaykh %}
     {% for shaykh in page.muftis.shaykh %}
@@ -383,6 +328,34 @@
     {% endif %}
 
   {% endif %}      
+
+    </ul>
+  </div>
+</div>
+       
+<div class="card card-body bg-transparent border-danger">
+<ul class="list-group list-group-flush">
+       <li class="list-group-item">       
+        <span>
+          <time itemprop="datePublished" datetime="{{ page.date | date_to_string }}"> 
+          {% if page.hijri %}
+            {{ site.data.locales[page.locale].page.date }}:      
+            <b>{{ page.hijri }}</b> 
+           {% if page.date %}
+            <b>{{ page.date | date_to_string | prepend: " — " }}</b>
+           {% endif %}     
+          {% endif %}  
+          </time>
+        </span>
+      </li> 
+       <li class="list-group-item">
+           {% include read_time.html %}
+       </li>
+ {% if page.source %}
+   <li class="list-group-item">
+   {{ site.data.locales[page.locale].page.source }}: <b>{{ page.source }}</b> {% else %}
+    </li>
+ {% endif %}
  
   {% if page.article_taken_from %}
    {% if page.article_taken_from.taken_from %}
@@ -413,7 +386,6 @@
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}        
   </li>
-
     <li class="list-group-item" id='last-modified'></li>
 </ul>
 </div>
