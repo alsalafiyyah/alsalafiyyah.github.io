@@ -1,10 +1,14 @@
 ---
-layout: page
+layout: post
 publisher: "alsalafiyyah@icloud.com"
-title: Shaykh Abdul-Aziz Aal Al-Shaykh
+title: Biography of Shaykh Abdul-Aziz Aal Al-Shaykh
 active: biography
+category: [biography]
+locale: en
+lang: en
+date: 2020-09-10
+hijri: Muharram 22, 1442 AH
 excerpt: Grand Mufty of the Kingdom of Saudi Arabia and Chairman of the Departments of Scholarly Research and Ifta'
-permalink: /biography/abdulaziz/
 ---
 
 ### His Name: 
