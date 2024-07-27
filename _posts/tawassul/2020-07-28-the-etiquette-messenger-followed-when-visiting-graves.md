@@ -1,23 +1,23 @@
 ﻿---
 layout: post
-title: "The etiquette the Messenger followed when visiting graves"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 315"
-category: [tawassul]
-hijri: Dhu al-Hijjah 7, 1441 AH
+title: "The etiquette the Messenger followed when visiting graves"
+source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 315"
+category: [fatwas,tawassul]
+hijri: Dhul-Hijjah 7, 1441
 date: 2020/07/28
-shaykhs: 
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Sulayman Ibn Mani`
+locale: en
+lang: en
+group4: true
+excerpt: "The dead people should not be asked or sought as intercessors as this is one of the avenues that lead to Shirk or polytheism."
 ---
 
-Question: 
+### Question: 
+There is a grave in our village which is said to belong to one of the righteous people. A house was built over this grave and there are two people appointed to take care of it. These people inherited this mission from their fathers. They tell people: "This night, the dweller of this grave said so and so and asked for so and so. They have attracted people's hearts that live beside the grave. People believe everything that is said by these two people. Therefore, people make Tawaf (circumambulation) around the grave, sacrifice animals for its sake, etc. 
 
-There is a grave in our village which is said to belong to one of the righteous people. A house was built over this grave and there are two people appointed to take care of it. These people inherited this mission from their fathers. They tell people: "This night, the dweller of this grave said so and so and asked for so and so. They have attracted people's hearts that live beside the grave. People believe everything that is said by these two people. Therefore, people make Tawaf (circumambulation) around the grave, sacrifice animals for its sake, etc. What is the ruling on a person who thinks that this Waliy (pious person) brings benefit or causes harm? Is it permissible to vow or sacrifice for the sake of this Waliy? What should someone do if they know that these things contradict Shari`ah (Islamic law) especially if they live with these people?
+What is the ruling on a person who thinks that this Waliy (pious person) brings benefit or causes harm? Is it permissible to vow or sacrifice for the sake of this Waliy? What should someone do if they know that these things contradict Shari`ah (Islamic law) especially if they live with these people?
 
-Answer:
-
+### Answer:
 The guidance of the Messenger (peace be upon him) in visiting the graves is clear in Sahih Hadiths (Hadiths that have been transmitted by people known for their uprightness and exactitude; free from eccentricity and blemish). Muslim reported in his Sahih Book of Hadith that Buraydah (may Allah be pleased with him) said: **The Messenger of Allah (peace be upon him) used to teach them when they went out to the graveyard to say: 'Peace be upon the inhabitants of the graves from among believers and Muslims. Verily we will, In Sha’a-Allah (if Allah wills), join you. I beg of Allah peace for us and for you. You have preceded us. We ask Allah to give us and you good.**' [^1]
 
 Imam Ahmad and Al-Tirmidhy related, and the latter considered it to be Hasan (a Hadith whose chain of narration contains a narrator with weak exactitude, but is free from eccentricity or blemish), on the authority of Ibn `Abbas (may Allah be pleased with them both) that he said: "**The Messenger of Allah (peace be upon him) passed by the graves at Al-Madinah. He turned his face towards them and said: 'May you be granted safety, O dwellers of the graves. May Allah forgive us and you. You have preceded us, and we are to follow.**' [^2]
@@ -68,7 +68,7 @@ May Allah grant us success. May peace and blessings be upon our Prophet Muhammad
 [^5]: Muslim, Sahih, Book on asceticism and heart-softening narrations, no. 2985; Ibn Majah, Sunan, Book on asceticism, no. 4202; and Ahmad, Musnad, vol. 2, p. 301.
 [^6]: Imam Ahmad, vol. 1, pp. 96-129; Muslim, Sahih [Sharh Al-Nawawy], vol. 7, p. 36; Al-Nasa'i, vol. 4, pp. 88-89; and Al-Tirmidhy, vol. 3, p. 336.
 [^7]: Imam Ahmad, vol. 3, pp. 295-399 and vol. 6, p. 299; Muslim, Sahih [Sharh Al-Nawawy], vol. 7, p. 37; Al-Tirmidhy, vol. 3, p. 368; Abu Dawud, vol. 3, p. 552; Al-Nasa'i, vol. 4, pp. 86-87; and Ibn Majah, vol. 1, p. 498.
-[^8]: Muslim, Sahih [Sharh Al-Nawawy], vol. 2, pp. 21-22), and Abu Dawud, vol. 1, p. 677; Al-Tirmidhy, vol. 4, p. 407; Al-Nasa'i, vol. 8, p. 111; Ibn Majah, vol. 2, p. 230; and `Abd ibn Humayd, Al-Muntakhab, vol. 2, p. 72.
+[^8]: Muslim, Sahih [Sharh Al-Nawawy], vol. 2, pp. 21-22), and Abu Dawud, vol. 1, p. 677; Al-Tirmidhy, vol. 4, p. 407; Al-Nasa'i, vol. 8, p. 111; Ibn Majah, vol. 2, p. 230; and 'Abd ibn Humayd, Al-Muntakhab, vol. 2, p. 72.
 [^9]: Ahmad, vol. 6, p. 36; Al-Bukhari, vol. 7, pp. 233-234; Abu Dawud, vol. 3, p. 593; and Al-Tirmidhy, vol. 4, p. 104; Al-Nasa'i, vol. 7, p. 17; Ibn Majah, vol. 1, p. 687; Al-Darimy, vol. 2, p. 184; and Al-Tahawy, Sharh Ma`any Al-Athar, vol. 3, p. 133.
 [^10]: Abu Dawud, vol. 3, p. 607; and Al-Bayhaqy, Sunan, vol. 10, p. 83.
 
