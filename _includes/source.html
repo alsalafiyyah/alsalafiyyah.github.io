@@ -385,7 +385,19 @@
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}        
   </li>
-    <li class="list-group-item" id='last-modified'></li>
+  <li class="list-group-item" id='last-modified'></li>
+  <ul class="list-inline">
+      <li class="list-inline-item">
+       <a class="icon-link" type="button" href="https://www.github.com/{{ site.github_username }}/{{ site.git_repo }}/blob/master/{{ page.path }}" target="_blank">
+        <span class="badge text-bg-dark">Edit <i class="bi bi-pencil-square"></i></span>
+       </a>        
+      </li>
+      <li class="list-inline-item">
+       <a class="icon-link" href="https://raw.githubusercontent.com/{{ site.github_username }}/{{ site.git_repo }}/master/{{ page.path }}" target="_blank">
+        <span class="badge text-bg-dark">View file <i class="bi bi-box-arrow-up-right"></i></span>
+       </a>            
+      </li>
+  </ul>
 </ul>
 </div>
 </section>
