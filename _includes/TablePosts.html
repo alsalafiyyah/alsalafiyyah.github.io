@@ -9,11 +9,11 @@
      </a>
     </h3>
     </a>
-    <div class="iconav content-date">
-     <i class="bi bi-calendar-day"></i> {{ post.hijri }} - {{ post.date | date_to_string }} 
+    <div style="font-size: 8px;">
+     <i class="bi bi-calendar-day"></i> {{ post.hijri }} {{ post.date | date_to_string | prepend: " / " }} 
     </div>
     <p class="content-excerpt">
-      {{ post.expert | truncatewords: 20  | strip_html | normalize_whitespace | remove_first: "Question:" }}
+      {{ post.excerpt | truncatewords: 20  | strip_html | normalize_whitespace }}
     </p>
     <div class="iconav content-date">
     <ul class="inline">
@@ -38,7 +38,7 @@
   {% for category in categories %}
   <a href="{{site.baseurl}}/category/{{category|slugize}}">
     <span class="badge text-bg-light">{{category|capitalize}}</span></a>
-  {% unless forloop.last %}&nbsp;{% endunless %}
+    {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}        
   </div>
    </td>    
