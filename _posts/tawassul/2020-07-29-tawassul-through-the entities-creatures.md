@@ -2,23 +2,21 @@
 layout: post
 title: "Tawassul through the entities, honor, or right of creatures"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 4217-1"
-category: [tawassul]
-hijri: Dhu al-Hijjah 8, 1441 AH
-date: 2020/07/29
-shaykhs: 
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Qa'ud
+source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 4217, Question 1"
+category: [fatwas,tawassul,wahhabism]
+hijri: Dhul-Hijjah 8, 1441
+date: 2020-07-29
+locale: en
+lang: en
+note: true
+excerpt: "Beseeching in the name of a person, virtue, status or right of creatures, whether they are prophets or righteous people is a subject of controversy among the scholars."
+group1: true
 ---
 
-Question: 
-
+### Question: 
 Beseeching Allah (Tawassul) by virtue of one of His creatures. This is a confusing issue for the Ummah (nation), but most of the scholars approved it, including Imam Ahmad, the Imam of Ahl-ul-Sunnah (adherents to the Sunnah), Ibn Qudamah , Al-Nawawy , Al-Shawkany , Ibn Hajar Al-'Asqalany , Muhammad Ibn ‘Abdul-Wahhab and many other scholars. Did Shaykh Muhammad support this or not? Where does the truth lie regarding this issue with certified evidence to refute the claim that no one condemned this except Ibn Taymiyyah and Al-Albany; the only two scholars who prohibited Tawassul in the name of any of His creatures.
 
-Answer:
-
+### Answer:
 Beseeching in the name of a person, virtue, status or right of creatures, whether they are prophets or righteous people is a subject of controversy among the scholars. The scholarly opinion of the Jumhur (dominant majority of scholars) is prohibition, which is the opinion held by the Shaykh of Islam Ibn Taymiyyah and Shaykh Muhammad Ibn 'Abdul-Wahhab.
 
 The Committee was asked a similar question to which they replied:
@@ -39,8 +37,3 @@ Third: To ask Allah by virtue of the status of His Prophets or one of His Awliya
 It has not been reported that the Sahabah (may Allah be pleased with them) beseeched Allah by virtue of the status of the Prophet (peace be upon him) after his death, although theirs was the best generation who knew best his right over them and loved him the most.
 
 Fourth: that a servant asks Allah for something, adjuring Him in the name of His Prophet or Waliy, or by the right of His Prophet or Waliy saying, “O Allah! I ask You for such-and-such, by virtue of Your Waliy or by the right of Your prophet.” This is impermissible, for adjuring a creature in the name of another creature is prohibited; and it is even more prohibited when addressed to Allah, the Creator. No creature, for the mere piety and obedience he shows towards Allah, earns a right over the Creator that allows others to adjure Allah in his name or beseech Him by his virtue. This is what evidence attests to and what protects the Islamic ‘Aqidah (creed) from the avenues leading to Shirk (associating others with Allah in His Divinity or worship).
-
-
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
-
-
