@@ -13,7 +13,7 @@
      <i class="bi bi-calendar-day"></i> {{ post.hijri }} {{ post.date | date_to_string | prepend: " / " }} 
     </div>
     <p class="content-excerpt">
-      {{ post.excerpt | truncatewords: 20  | strip_html | normalize_whitespace }}
+      {{ post.excerpt | truncatewords: 20  | strip_html | normalize_whitespace  | remove_first: "Question:" }}
     </p>
     <div class="iconav content-date">
     <ul class="list-inline">
