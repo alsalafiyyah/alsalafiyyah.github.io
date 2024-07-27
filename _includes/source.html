@@ -385,7 +385,10 @@
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}        
   </li>
-  <li class="list-group-item" id='last-modified'></li>
+  <li class="list-group-item">
+    <p id='last-modified'></p>
+  </li>
+  <li class="list-group-item">
   <ul class="list-inline">
       <li class="list-inline-item">
        <a class="icon-link" type="button" href="https://www.github.com/{{ site.github_username }}/{{ site.git_repo }}/blob/master/{{ page.path }}" target="_blank">
@@ -398,6 +401,7 @@
        </a>            
       </li>
   </ul>
+  </li>
 </ul>
 </div>
 </section>
