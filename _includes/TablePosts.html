@@ -9,9 +9,9 @@
      </a>
     </h3>
     </a>
-    <div style="font-size: 12px;">
+    <p style="font-size: 14px;">
      <i class="bi bi-calendar-day"></i> {{ post.hijri }} {{ post.date | date_to_string | prepend: " / " }} 
-    </div>
+    </p>
     <p class="content-excerpt">
       {{ post.excerpt | truncatewords: 20  | strip_html | normalize_whitespace  | remove_first: "Question:" }}
     </p>
@@ -19,12 +19,12 @@
     <ul class="list-inline">
       <li class="list-inline-item">
        <a class="icon-link" type="button" href="https://www.github.com/{{ site.github_username }}/{{ site.git_repo }}/blob/master/{{ post.path }}" target="_blank">
-       Edit file <i class="bi bi-pencil-square"></i>
+        <span class="badge text-bg-dark">Edit file <i class="bi bi-pencil-square"></i></span>
        </a>        
       </li>
       <li class="list-inline-item">
        <a class="icon-link" href="https://raw.githubusercontent.com/{{ site.github_username }}/{{ site.git_repo }}/master/{{ post.path }}" target="_blank">
-        View file <i class="bi bi-box-arrow-up-right"></i>
+        <span class="badge text-bg-dark">View file <i class="bi bi-box-arrow-up-right"></i></span>
        </a>            
       </li>
     </ul>
