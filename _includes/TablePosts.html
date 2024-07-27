@@ -9,25 +9,25 @@
      </a>
     </h3>
     </a>
-    <div style="font-size: 8px;">
+    <div style="font-size: 11px;">
      <i class="bi bi-calendar-day"></i> {{ post.hijri }} {{ post.date | date_to_string | prepend: " / " }} 
     </div>
     <p class="content-excerpt">
       {{ post.excerpt | truncatewords: 20  | strip_html | normalize_whitespace }}
     </p>
     <div class="iconav content-date">
-    <ul class="inline">
-      <li>
-     <a class="icon-link" type="button" href="https://www.github.com/{{ site.github_username }}/{{ site.git_repo }}/blob/master/{{ post.path }}" target="_blank">
-      Edit file <i class="bi bi-pencil-square"></i>
-     </a>        
+    <ul class="list-inline">
+      <li class="list-inline-item">
+       <a class="icon-link" type="button" href="https://www.github.com/{{ site.github_username }}/{{ site.git_repo }}/blob/master/{{ post.path }}" target="_blank">
+       Edit file <i class="bi bi-pencil-square"></i>
+       </a>        
       </li>
-      <li>
-     <a class="icon-link" href="https://raw.githubusercontent.com/{{ site.github_username }}/{{ site.git_repo }}/master/{{ post.path }}" target="_blank">
-       View file <i class="bi bi-box-arrow-up-right"></i>
-     </a>            
+      <li class="list-inline-item">
+       <a class="icon-link" href="https://raw.githubusercontent.com/{{ site.github_username }}/{{ site.git_repo }}/master/{{ post.path }}" target="_blank">
+        View file <i class="bi bi-box-arrow-up-right"></i>
+       </a>            
       </li>
-    </ul> 
+    </ul>
     </div>
   <div class="iconav content-date"> 
   {% if post %}
