@@ -5,7 +5,7 @@ title: The ideology of the Khawarij in present times
 date: 2024-07-27
 hijri: Muharram 21, 1446
 source: "Al-Ijabat al-Muhimmah fee Mashakil il-Mudlahimmah, compiled by Muhammad bin Fahad al-Husayn"
-category: [fatwas,sects]
+category: [fatwas,rulership,sects]
 locale: en
 lang: en
 excerpt: The manhaj of the Khawarij comprises of three aspects namely disobedience to the ruler, takfir of the Muslims, and making permissible the blood of the Muslims.
