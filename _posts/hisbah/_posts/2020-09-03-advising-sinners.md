@@ -1,23 +1,22 @@
 ---
 layout: post
-title: "Advising sinners and disobedient people and one's attitude towards them"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 556"
-hijri: Muharram 14, 1442 AH
-date: 2020/09/3
-category: [hisbah]
-shaykhs: 
- - Shaykh Ibrahim ibn Muhammad Aal Al-Shaykh 
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Mani'
+title: "Advising sinners and disobedient people and one's attitude towards them"
+source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 556"
+hijri: Muharram 14, 1442
+date: 2020-09-03
+category: [fatwas,hisbah]
+locale: en
+lang: en
+note: true
+group11: true
+excerpt: A Muslim is obliged to enjoin right and forbid wrong with wisdom and good and wise argument.
 ---
 
-Question:
-
+### Question:
 How should a Muslim deal with an abusive man who speaks evil utterances of disbelief and oaths of divorce along with seeking the help of Jinn and consuming bribes. The worse is still to come, he demolished a Masjid and turned it into a house, then a cattle pen claiming that he would build a larger Masjid, and he really did, but the Masjid he built is not fit for congregational Salah like the first one was. Needless to say, there are other sins that he committed, and he refuses all kinds of advice. Kindly give us your Fatwa in this regard. 
 
-Answer:
-
+### Answer:
 A Muslim is obliged to enjoin right and forbid wrong with wisdom and good and wise argument. Allah (Exalted be He) says: "**You [true believers in Islâmic Monotheism, and real followers of Prophet Muhammad صلى الله عليه وسلم) and his Sunnah] are the best of peoples ever raised up for mankind; you enjoin Al-Ma‘rûf (i.e. Islâmic Monotheism and all that Islâm has ordained) and forbid Al-Munkar (polytheism, disbelief and all that Islâm has forbidden)**" [Aal Imran: 110]
 
 Allah also says: "**Let there arise out of you a group of people inviting to all that is good (Islâm), enjoining Al-Ma‘rûf (i.e. Islâmic Monotheism and all that Islâm orders one to do) and forbidding Al-Munkar (polytheism and disbelief and all that Islâm has forbidden). And it is they who are the successful. And be not as those who divided and differed among themselves after the clear proofs had come to them. It is they for whom there is an awful torment.**" [Aal Imran: 104-105]
@@ -38,10 +37,8 @@ Similarly, those who call to Allah (Exalted be He), commanding Al-Ma`ruf and for
 
 Therefore, the caller to Allah (Exalted be He) should know his status and ability as to how far he could go in the field of Da'wah; propagating virtue and preventing vice. He should call others to Allah (Exalted be He) according to his knowledge and affect he expects to have. He should not go beyond his ability, otherwise he will turn into a source of Fitnah (temptation) to others. Allah (Exalted be He) is the One who guides to the straight path.
 
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
-
 ---
 
-[^1]: Muslim, Sahih, Book on faith, no. 55; Al-Nasa'i, Sunan, Book on Al-Bay`ah, no. 4197; Abu Dawud, Sunan, Book on manners, no. 4944; and Ahmad ibn Hanbal, Musnad, vol. 4, p. 102.
+[^1]: Muslim, Sahih, Book on faith, no. 55; Al-Nasa'i, Sunan, Book on Al-Bay'ah, no. 4197; Abu Dawud, Sunan, Book on manners, no. 4944; and Ahmad ibn Hanbal, Musnad, vol. 4, p. 102.
 [^2]: Al-Bukhari, Sahih, Book on faith, no. 57; Muslim, Sahih, Book on faith, no. 56; Al-Tirmidhy, Sunan, Book on righteousness and upholding ties of kinship, no. 1925; Al-Nasa'i, Sunan, Book on Al-Bay`ah, no. 4175; Ahmad ibn Hanbal, Musnad, vol. 4, p. 365; and Al-Darimy, Sunan, Book on transactions, no. 2540.
 [^3]: Muslim, Sahih, Book on faith, no. 49; Al-Tirmidhy, Sunan, Book on trials, no. 2172; Al-Nasa'i, Sunan, Book on faith and its laws, no. 5009; Abu Dawud, Sunan, Book on Salah, no. 1140; Ibn Majah, Sunan, Book on performing Prayer and its Sunan, no. 1275; and Ahmad ibn Hanbal, Musnad, vol. 3, p. 54.
