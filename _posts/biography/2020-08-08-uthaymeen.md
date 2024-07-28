@@ -3,8 +3,8 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 title: Biography of Shaykh Muhammad Ibn Salih Al-Uthaymeen
 active: biography
-hijri: Muharram 17, 1446
-date: 2024-07-23
+hijri: Dhul-Hijjah 18, 1441
+date: 2020-08-08
 locale: en
 lang: en
 category: [biography]
