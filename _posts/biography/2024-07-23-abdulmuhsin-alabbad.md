@@ -1,8 +1,13 @@
 ---
-layout: page
+layout: post
 publisher: "alsalafiyyah@icloud.com"
-title: Shaykh Abdul-Muhsin Al-Abbad
+title: Biography of Shaykh Abdul-Muhsin Al-Abbad
 active: biography
+category: [biography]
+date: 2024-07-23
+hijri: Muharram 17, 1446
+locale: en
+lang: en
 excerpt: He is the great scholar and Muhaddith, Shaykh ‘Abdul-Muhsin bin Hamad bin ‘Abdil-Muhsin bin ‘Abdillah Al-‘Abbad Ali Badr.
 permalink: /biography/abdulmuhsin-alabbad/
 article_taken_from: 
