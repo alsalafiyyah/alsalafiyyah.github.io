@@ -43,27 +43,41 @@ shaykhs:
 ~~~
 
 #### Custom Variables
-~~~yaml
+~~~liquid
 article_taken_from: 
   taken_from:
     - web_title: 
       web_url: 
 ~~~
 
-~~~yaml
+~~~liquid
 muftis:
   shaykh: 
     - name: Shaykh Salih Al-Fawzan
       url: /biography/fawzan
 ~~~
 
-~~~yaml
+~~~liquid
 shaykhs: 
  - Sh. Ibn Baz
  - Sh. Abdullah ibn Ghudayyan
  - Sh. Abdul-Razzaq Al-Afifi
 ~~~
 
+~~~liquid
+muftis:
+  chairman: 
+    - name: Shaykh Ibn Baz
+      url: /biography/binbaz
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Afifi
+      url: /biography/afifi
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan
+    - name: Shaykh Abdullah ibn Qa'ud
+      url: /biography/qaud
+~~~     
 ___
 
 #### _config.yml boolean
