@@ -523,12 +523,12 @@
     Share on:
   </div>
   <div class="card-body">
-  <ul class="list-inline text-center">  
+  <ul class="list-inline d-flex justify-content-center text-center">  
    <li class="list-inline-item">  
     <a href="https://www.facebook.com/sharer.php?u={{ site.url }}{{site.baseurl}}{{ page.url }}" 
        target="_blank" 
        rel="nofollow">
-     <span class="badge text-bg-dark">
+     <span class="badge fs-3 text-bg-dark">
        <i class="bi bi-facebook"></i>  
      </span>
     </a>
@@ -537,22 +537,22 @@
     <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{site.baseurl}}{{ page.url }}" 
        target="_blank" 
        rel="nofollow">
-     <span class="badge text-bg-dark">
+     <span class="badge fs-3 text-bg-dark">
        <i class="bi bi-twitter"></i>
      </span>
     </a>
    </li> 
    <li class="list-inline-item">  
     <a href="https://t.me/share/url?url={{ site.url }}{{site.baseurl}}{{ page.url }}" target="_blank" rel="nofollow">
-     <span class="badge text-bg-dark">
+     <span class="badge fs-3 text-bg-dark">
        <i class="bi bi-telegram"></i> 
      </span>
     </a>
     <li class="list-inline-item">  
-    <a href="https://wa.me/?text={{ page.url }} {{ page.title }} {{ page.excerpt }}" 
+    <a href="https://wa.me/?text={{ site.url }}{{site.baseurl}}{{ page.url }} {{ page.title }}" 
        target="_blank" 
        rel="nofollow">
-     <span class="badge text-bg-dark">
+     <span class="badge fs-3 text-bg-dark">
        <i class="bi bi-whatsapp"></i>
      </span>
     </a>
