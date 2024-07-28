@@ -5,7 +5,7 @@ title: "The Ruling on pronouncing the intention to pray aloud"
 date: 2024-07-28
 hijri: Muharram 22, 1446
 source: "Fatawa Islamiyah 1/253"
-category: [fatwas,salah]
+category: [fatwas,salah,bidah]
 locale: en
 lang: en
 excerpt: "Pronouncing the intention is an innovation or bid'ah, and pronouncing it aloud is an even worse sin."
