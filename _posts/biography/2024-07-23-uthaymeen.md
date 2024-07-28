@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 publisher: alsalafiyyah@icloud.com
 title: Biography of Shaykh Muhammad Ibn Salih Al-Uthaymeen
 active: biography
