@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: Shaykh Muhammad ibn 'Abdul-Wahhab
+title: Biography of Shaykh Muhammad ibn 'Abdul-Wahhab
 active: biography
 source: "Majmu' Fatawa vol 1"
 hijri: Dhul-Hijjah 18, 1441
