@@ -3,8 +3,8 @@ layout: post
 publisher: "alsalafiyyah@icloud.com"
 title: Biography of Shaykh Ahmad Yahya An-Najmi
 active: biography
-date: 2024-07-23
-hijri: Muharram 17, 1446
+date: 2020-08-08
+hijri: Dhul-Hijjah 18, 1441
 locale: en
 lang: en
 category: [biography]
