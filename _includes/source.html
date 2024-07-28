@@ -402,26 +402,7 @@
   </ul>
   </div>
 </div>
-{% endif %}    
-
-{% if page.muftis %}
-<div class="card bg-transparent border-danger mb-3">
-  <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
-    Muftis
-  </div>
-  <div class="card-body">
-  <ul class="list-group list-group-flush">  
-   {% if page.muftis.shaykh %}
-    {% for shaykh in page.muftis.shaykh %}
-       <li class="list-group-item">
-        <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}"><b>{{ shaykh.name }}</b></a>
-       </li>
-    {% endfor %}
-   {% endif %}
-  </ul>
-  </div>
-</div>
-{% endif %}  
+{% endif %}
   
 {% if page.muftis %}
 <div class="card bg-transparent border-danger mb-3">
@@ -452,6 +433,13 @@
         </ol>
       </li>
     {% endif %}
+   {% if page.muftis.shaykh %}
+    {% for shaykh in page.muftis.shaykh %}
+       <li class="list-group-item">
+        <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}"><b>{{ shaykh.name }}</b></a>
+       </li>
+    {% endfor %}
+   {% endif %}     
    </ul>
   </div>
 </div>
