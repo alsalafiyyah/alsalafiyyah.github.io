@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "There is no such thing as a good bid’ah"
+title: "There is no such thing as a good bid’ah in the religion"
 date: 2024-07-28
 hijri: Muharram 22, 1446
 source: "Muhadharat fil-‘Aqidah wad-Da’wah vol.1 pages 196-197"
@@ -19,7 +19,7 @@ muftis:
 
 There is no such thing as a ‘good bid’ah (innovation)' as is claimed by some of the ignorant ones. Innovations – in their entirety are a going astray, as was judged by the Messenger of Allaah ﷺ in his saying: **"Every bid'ah is a going astray."** [^1] and in another narration: **"And every going astray is in the Hell-fire."** [^2].
 
-As for the saying of Ameer ul Mu’mineen ‘Umar bin Al-Khattaab (may Allah be pleased with him) concerning the Taraweeh prayer: **‘What a good bid’ah this is’** – then he did not intend by this the bid’ah (innovation) in the Religion. Since he said this statement when the people gathered to pray the Taraweeh prayer, and the Taraweeh prayer is not an innovation. Rather it is a Sunnah which has been established from the Messenger of Allaah ﷺ. He prayed it along with his companions on some of the nights of Ramadhaan. Then he kept away from them at the end for fear that it should seem obligatory upon them. The affair remained so during the Khilaafah of Abee Bakr, and for some time during the Khilaafah of ‘Umar, they would pray it separately whereupon ‘Umar gathered the people behind a single Imaam, just as they had gathered behind the Messenger of Allaah ﷺ.
+As for the saying of Ameer ul Mu’mineen ‘Umar bin Al-Khattab (may Allah be pleased with him) concerning the Taraweeh prayer: **‘What a good bid’ah this is’** – then he did not intend by this the bid’ah (innovation) in the Religion. Since he said this statement when the people gathered to pray the Taraweeh prayer, and the Taraweeh prayer is not an innovation. Rather it is a Sunnah which has been established from the Messenger of Allaah ﷺ. He prayed it along with his companions on some of the nights of Ramadhaan. Then he kept away from them at the end for fear that it should seem obligatory upon them. The affair remained so during the Khilaafah of Abee Bakr, and for some time during the Khilaafah of ‘Umar, they would pray it separately whereupon ‘Umar gathered the people behind a single Imaam, just as they had gathered behind the Messenger of Allaah ﷺ.
 
 Thus ‘Umar revived this Sunnah, since the object of caution had ceased; which was: taking it as an obligation. So he revived a Sunnah – he did not come with an innovation.
 
