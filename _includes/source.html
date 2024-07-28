@@ -517,4 +517,49 @@
   </li>
 </ul>
 </div>
+
+<div class="card bg-transparent border-danger mt-3">
+  <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
+    Share on:
+  </div>
+  <div class="card-body">
+  <ul class="list-inline text-center">  
+   <li class="list-inline-item">  
+    <a href="https://www.facebook.com/sharer.php?u={{ site.url }}{{site.baseurl}}{{ page.url }}" 
+       target="_blank" 
+       rel="nofollow">
+     <span class="badge text-bg-dark">
+       <i class="bi bi-facebook"></i>  
+     </span>
+    </a>
+   </li>
+   <li class="list-inline-item">  
+    <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{site.baseurl}}{{ page.url }}" 
+       target="_blank" 
+       rel="nofollow">
+     <span class="badge text-bg-dark">
+       <i class="bi bi-twitter"></i>
+     </span>
+    </a>
+   </li> 
+   <li class="list-inline-item">  
+    <a href="https://t.me/share/url?url={{ site.url }}{{site.baseurl}}{{ page.url }}" target="_blank" rel="nofollow">
+     <span class="badge text-bg-dark">
+       <i class="bi bi-telegram"></i> 
+     </span>
+    </a>
+    <li class="list-inline-item">  
+    <a href="https://wa.me/?text={{ page.title }},{{ page.excerpt }}{{ site.url }}{{site.baseurl}}{{ page.url }}" 
+       target="_blank" 
+       rel="nofollow">
+     <span class="badge text-bg-dark">
+       <i class="bi bi-whatsapp"></i>
+     </span>
+    </a>
+   </li> 
+   </li> 
+  </ul>
+  </div>
+</div>
+
 </section>
