@@ -14,5 +14,5 @@ excerpt: "He was born on Monday the 10th of Rabi-ul-Awwal 66l AH (22nd of Januar
 
 He is **Taqi al-Din Abu al-'Abbas Ahmad ibn 'Abd Al-Halim ibn 'Abd As-Salam Ibn Taymiyyah Al-Harrani Al-Hanbali**
 
-He was born on Monday the 10th of Rabi'-ul-Awwal 66l AH (22nd of January 1263 CE) in Harran in Iraq and died in 728 AH (may Allah have mercy on him).
+He is one of the prominent mujaddids (renewers and revivers) of Islam, and one of the greatest scholars in Islamic history. He was born on Monday the 10th of Rabi'-ul-Awwal 66l AH (22nd of January 1263 CE) in Harran in Iraq and died in 728 AH (September 26, 1328) (may Allah have mercy on him).
 
