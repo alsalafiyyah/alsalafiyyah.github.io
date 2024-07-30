@@ -3,9 +3,10 @@ layout: post
 title: "Do the Jinn know knowledge of Unseen?"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah, Fawa no.18645, Question 3"
-category: [unseen]
+category: [fatwas]
 hijri: Dhul-Hijjah 7, 1441 AH
 lang: en
+locale: en
 note: true
 excerpt: "Knowledge of Ghayb is one of the exclusive attributes of Rububiyyah (Lordship); no one knows the Ghayb of the heavens and the earth except Allah."
 muftis:
@@ -22,11 +23,11 @@ muftis:
       url: /biography/bakr/
 ---
 
-Question: 
+### Question: 
 
 Do the Jinn (creatures created from fire) know the Ghayb (the Unseen)? Please clarify this as soon as possible.
 
-Answer:
+### Answer:
 
 Knowledge of Ghayb is one of the exclusive attributes of Rububiyyah (Lordship); no one knows the Ghayb of the heavens and the earth except Allah. Allah (Exalted be He) says: "And with Him are the keys of the Ghaib (all that is hidden), none knows them but He." [al-An'am: 59] 
 
