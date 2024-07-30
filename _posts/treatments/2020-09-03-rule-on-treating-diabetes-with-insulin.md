@@ -2,18 +2,14 @@
 layout: post
 title: "Ruling on treating diabetes with a medicine extracted from pigs"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no.  3681"
+source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no.  3681"
 hijri: Muharram 15, 1442
 excerpt: It is Haram to use this type of insulin which is produced from pigs. This view is based on authentic evidence indicating the prohibition to use unlawful things as medications.
 date: 2020/09/3
 locale: en
 lang: en
 category: [treatments,fatwas]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Qa'ud
+group1: true
 ---
 
 ### Question:

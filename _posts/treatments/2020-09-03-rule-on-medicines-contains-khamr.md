@@ -2,18 +2,24 @@
 layout: post
 title: "Ruling on medicines containing Khamr"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 21097"
+source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 21097"
 hijri: Muharram 15, 1442
-excerpt: Using Dentinox is not permissible for it is authentically reported that the Prophet, peace and blessings be upon him.
+excerpt: "Using Dentinox is not permissible for it is authentically reported that the Prophet, peace and blessings be upon him."
 date: 2020/09/3
 category: [treatments,fatwas]
 locale: en
 lang: en
-shaykhs: 
- - Shaykh Salih Fawzan
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Bakr Abu Zayd
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+      url: /biography/abdulaziz/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Salih Al-Fawzan
+      url: /biography/fawzan/
+    - name: Shaykh Bakr Abu Zayd
+      url: /biography/zayd/
 ---
 
 ### Question:

@@ -2,19 +2,27 @@
 layout: post
 title: "Ruling on giving the father a medicine to quit smoking without his knowledge"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 16318-2"
+source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 16318, Question 2"
 hijri: Muharram 15, 1442
 excerpt: Smoking tobacco is Haram for it causes great harm and has no benefit at all. Whoever smokes should give it up and repent of it.
 locale: en
 lang: en
 date: 2020/09/3
 category: [treatments,fatwas]
-shaykhs: 
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Salih Fawzan
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Bakr Abu Zayd
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+      url: /biography/abdulaziz/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Salih Al-Fawzan
+      url: /biography/fawzan/
+    - name: Shaykh Bakr Abu Zayd
+      url: /biography/zayd/
 ---
 
 ### Question:

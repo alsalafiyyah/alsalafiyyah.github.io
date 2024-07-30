@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Rule on drink Khamr for relieve pains"
 hijri: "Rabi' Al-Thani 02, 1442"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 102-5"
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 102, Question 5"
 lang: en
 locale: en
 note: true

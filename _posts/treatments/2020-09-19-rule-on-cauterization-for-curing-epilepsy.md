@@ -7,7 +7,7 @@ lang: en
 locale: en
 note: true
 category: [treatments,fatwas]
-source: "Fatawa Al-Lajnah Al-Da'imah no.  7501-4"
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 7501, Question 4"
 excerpt: Is it permissible in this case to burn the Muslim woman with a firebrand so that the female jinni will leave her body?
 muftis:
   chairman: 

@@ -2,7 +2,7 @@
 layout: post
 title: "Ruling on treating women's breasts"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 20919"
+source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 20919"
 hijri: Muharram 15, 1442
 excerpt: My wife is ill with breast atrophy. Even though the breasts were improving during the period of breastfeeding, they would atrophy soon after.
 date: 2020/09/3
@@ -10,11 +10,17 @@ category: [treatments,fatwas]
 note: true
 lang: en
 locale: en
-shaykhs: 
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Salih Fawzan
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Bakr Abu Zayd
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+      url: /biography/abdulaziz/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Salih Al-Fawzan
+      url: /biography/fawzan/
+    - name: Shaykh Bakr Abu Zayd
+      url: /biography/zayd/
 ---
 
 ### Question:

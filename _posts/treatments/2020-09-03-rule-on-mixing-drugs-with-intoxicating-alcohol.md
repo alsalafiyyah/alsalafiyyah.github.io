@@ -2,18 +2,14 @@
 layout: post
 title: "Ruling on mixing drugs with intoxicating alcohol"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 3717"
+source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 3717"
 hijri: Muharram 15, 1442
 excerpt: It is impermissible to mix drugs with intoxicating alcohol. However, if it is mixed with alcohol in small proportion that has no effect on color, taste, and smell of drug, it will be permissible to take it.
 date: 2020/09/3
 category: [treatments,fatwas]
 locale: en
 lang: en
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+group1: true
 ---
 
 ### Question:

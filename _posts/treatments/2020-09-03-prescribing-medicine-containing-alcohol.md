@@ -2,17 +2,23 @@
 layout: post
 title: "Prescribing a medicine containing alcohol"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 4404"
+source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 4404"
 hijri: Muharram 15, 1442
-excerpt: It is not permissible to mix medicines with intoxicant alcohol.
+excerpt: "It is not permissible to mix medicines with intoxicant alcohol."
 locale: en
 lang: en
 date: 2020/09/3
 category: [treatments,fatwas]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Qa'ud
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Afifi
+      url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah ibn Qa'ud
+      url: /biography/qaud/
 ---
 
 ### Question:

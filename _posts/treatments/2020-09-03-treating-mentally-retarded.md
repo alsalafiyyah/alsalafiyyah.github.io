@@ -2,7 +2,7 @@
 layout: post
 title: "Treating the mentally retarded"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 20913-1"
+source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 20913, Question 1"
 hijri: Muharram 15, 1442
 excerpt: It is not permissible to refuse to treat the mentally and physically retarded if the cure is possible, even if his treatment costs a lot as long as it is affordable.
 date: 2020/09/3
@@ -10,10 +10,15 @@ category: [treatments,fatwas]
 locale: en
 lang: en
 note: true
-shaykhs: 
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Salih Fawzan
- - Shaykh Bakr Abu Zayd
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+      url: /biography/abdulaziz/
+  members: 
+    - name: Shaykh Salih Al-Fawzan
+      url: /biography/fawzan/
+    - name: Shaykh Bakr Abu Zayd
+      url: /biography/zayd/
 ---
 
 ### Question:
