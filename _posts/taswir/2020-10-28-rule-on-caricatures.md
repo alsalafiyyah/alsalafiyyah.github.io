@@ -2,24 +2,24 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "The ruling on caricatures"
-hijri: "Rabi' Al-Awwal 11, 1442 AH"
-source: "It was published in the book entitled 'Fatawa Islamiyyah', compiled by Shaykh Muhammad Al-Musnad p. 4/362"
+hijri: "Rabi' Al-Awwal 11, 1442"
+source: "It was published in the book entitled Fatawa Islamiyyah, compiled by Shaykh Muhammad Al-Musnad 4/362"
 lang: en
-category: [taswir]
+locale: en
+category: [fatwas,taswir]
 note: false
-uid: rule-on-caricatures
-excerpt: "The referred to drawing is not permissible. It is one of the widely common prohibited matters that should be abandoned due to the categorical purport of the Sahih (authentic) Hadiths establishing the prohibition of picturing animate objects, whether through photographing, drawing or anything else."
+excerpt: "The referred to drawing is not permissible. It is one of the widely common prohibited matters that should be abandoned due to the categorical purport of the authentic Hadiths establishing the prohibition of picturing animate objects, whether through photographing, drawing or anything else."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
       url: /biography/binbaz/
 ---
 
-Question: 
+### Question: 
 
 What is the ruling on caricatures in newspapers and magazines that include drawings of persons?
 
-Answer: 
+### Answer: 
 
 The referred to drawing is not permissible. It is one of the widely common prohibited matters that should be abandoned due to the categorical purport of the Sahih (authentic) Hadiths establishing the prohibition of picturing animate objects, whether through photographing, drawing or anything else. 
 

@@ -2,24 +2,24 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "The ruling on putting pictures in homes"
-hijri: "Rabi' Al-Awwal 11, 1442 AH"
+hijri: "Rabi' Al-Awwal 11, 1442"
 source: "One of the questions asked by Al-Da'wah magazine, His Eminence replied on 3/12/1418 A.H"
 lang: en
-category: [taswir]
+locale: en
+category: [fatwas,taswir]
 note: false
-uid: rule-on-putting-pictures-in-homes
-excerpt: "It is obligatory to remove these pictures. You should not keep them either in the bathroom or anywhere else at home, for the Prophet (peace be upon him) said to Ali (may Allah be pleased with him): Spare no portrait unwiped out, and leave not a high grave unleveled."
+excerpt: "It is obligatory to remove these pictures. You should not keep them either in the bathroom or anywhere else at home, for the Prophet -peace be upon him- said to Ali: Spare no portrait unwiped out, and leave not a high grave unleveled."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
       url: /biography/binbaz/
 ---
 
-Question: 
+### Question: 
 
 We know that hanging pictures in homes is Haram (prohibited). Can we hang them in the bathroom, whether they are tridimensional or not?
 
-Answer: 
+### Answer: 
 
 It is obligatory to remove these pictures. You should not keep them either in the bathroom or anywhere else at home, for the Prophet (peace be upon him) said to Ali (may Allah be pleased with him): "**Spare no portrait unwiped out, and leave not a high grave unleveled.**" [^1]
 

@@ -1,25 +1,25 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on Taswir (painting, drawing, sculpture, photography)"
-hijri: "Rabi' Al-Awwal 11, 1442 AH"
+title: "Ruling on painting, drawing, sculpture, photography"
+hijri: "Rabi' Al-Awwal 11, 1442"
 source: "One of the questions of Hajj for the year 1418 A.H"
 lang: en
-category: [taswir]
+locale: en
+category: [fatwas,taswir]
 note: false
-uid: rule-on-taswir-and-musawwir
-excerpt: "Every Muslim should avoid Taswir. It is authentically reported that the Prophet (peace be upon him) cursed the consumer of Riba (usury), the one who pays it, the Musawwir, she who tattoos and she who gets tattooed."
+excerpt: "Every Muslim should avoid Taswir. It is authentically reported that the Prophet - peace be upon him - cursed the consumer of usury, the one who pays it, the Musawwir, she who tattoos and she who gets tattooed."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
       url: /biography/binbaz/
 ---
 
-Question: 
+### Question: 
 
 What is your view concerning the claim that taking photographs of humans is permissible, while drawing pictures is Haram (prohibited)? What is your advice for Muslim women who issue Fatwa (legal opinion issued by a qualified Muslim scholar) without knowledge?
 
-Answer: 
+### Answer: 
 
 Taswir (painting, drawing, sculpture, and photography) is not permissible whether by hand or not. All kinds of Taswir are rejected. The Messenger of Allah (peace be upon him) cursed the Musawwir (one who makes pictures and statues, or photographs of living beings). He (peace be upon him) said: "**The people who will be most severely punished on the Day of Resurrection will be the Musawwirs.**" [^1]
 

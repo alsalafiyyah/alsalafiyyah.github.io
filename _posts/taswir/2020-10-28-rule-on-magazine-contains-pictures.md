@@ -2,12 +2,12 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "The ruling on keeping useful magazines that contain pictures"
-hijri: "Rabi' Al-Awwal 11, 1442 AH"
+hijri: "Rabi' Al-Awwal 11, 1442"
 source: "This was published in Al-Da'wah magazine, issue no. 1685 on 8/12/1419 A.H"
 lang: en
+locale: en
 category: [taswir]
 note: false
-uid: rule-on-magazine-contains-pictures
 excerpt: "What is the ruling on bringing home useful magazines and school books that contain pictures of living creatures? Does this come under the ruling introduced in the Hadith that reads: Angels do not enter a house in which there is a dog or a picture."
 muftis:
   shaykh: 
@@ -15,11 +15,11 @@ muftis:
       url: /biography/binbaz/
 ---
 
-Question: 
+### Question: 
 
 What is the ruling on bringing home useful magazines and school books that contain pictures of living creatures? Does this come under the ruling introduced in the Hadith that reads: "**Angels do not enter a house in which there is a dog or a picture.**" [^1]?
 
-Answer: 
+### Answer: 
 
 You should wipe out the head (in the pictured) , and then there would be no objection to it. May Allah grant us success. 
 
