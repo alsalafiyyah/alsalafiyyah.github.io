@@ -2,21 +2,30 @@
 layout: post
 title: "Making up for missed Salah due to sleep or other reasons"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 6196-1"
-hijri: Muharram 9, 1442 AH
+source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 6196, Question1"
+hijri: Muharram 9, 1442
+locale: en
+lang: en
 date: 2020/08/28
-category: ["salah"]
-shaykhs: 
- - Shaykh Abdul-'Aziz ibn 'Abdullah ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Qa'ud
+category: [fatwas, salah]
+excerpt: "The Salah you miss due to sleep or forgetfulness should be offered the moment you wake up or the moment you remember. It does not matter if you wake up or remember it after sunrise."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Afifi
+      url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah ibn Qa'ud
+      url: /biography/qaud/
 ---
 
-Question: 
+### Question: 
 
 Allah has guided me to obey Him. I offer the daily prayers on time except for Fajr (Dawn). Sometimes I get up late after sunrise. Is my Fajr Prayer offered at that time valid? How can a Muslim make up for the Salah they missed like 'Asr (Afternoon) Prayer? Will they make up for it at the time of the Maghrib (Sunset) Prayer or delay it until the next `Asr Prayer?
 
-Answer:
+### Answer:
 
 The Salah you miss due to sleep or forgetfulness should be offered the moment you wake up or the moment you remember. It does not matter if you wake up or remember it after sunrise. This is based on the Hadith in which the Prophet (peace be upon him) said: "**Anyone who misses a Salah because of sleep or forgetfulness should offer it when they remember it; there is no Kaffarah (expiation) for it except this.**" [^1]
 
