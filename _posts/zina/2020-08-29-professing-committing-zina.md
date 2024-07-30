@@ -2,12 +2,14 @@
 layout: post
 title: "Professing committing Zina"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 6477-4"
-hijri: Muharram 10, 1442 AH
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 6477, Question 4"
+hijri: Muharram 10, 1442
+date: 2020-08-29
+locale: en
 lang: en
 note: true
-category: [zina, misc]
-excerpt: "In our school, some students talk publicly about Zina (adultery) and admit to having committed it. What should I do in this case? Am I considered sinful?"
+category: [fatwas, zina]
+excerpt: "In our school, some students talk publicly about adultery and admit to having committed it. What should I do in this case? Am I considered sinful?"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz
@@ -22,11 +24,11 @@ muftis:
       url: /biography/qaud/
 ---
 
-Question: 
+### Question: 
 
 In our school, some students talk publicly about Zina (adultery) and admit to having committed it. What should I do in this case? Am I considered sinful?
 
-Answer:
+### Answer:
 
 You should rebuke them, advise them and tell them that Zina is one of the gravest crimes that endanger the family, and one of the grave sins whose perpetrator is threatened with Hellfire and deserves Hadd (ordained punishment for violating Allah’s Law). They should hide their sins and not disgrace themselves in public, according to the saying of the Prophet (peace be upon him), "**All people among my Ummah (i.e. Muslims) will be forgiven except for people committing sins and not being ashamed to announce it in public.**" [^1]
 

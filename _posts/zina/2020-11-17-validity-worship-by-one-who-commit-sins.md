@@ -2,11 +2,14 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Validity of acts of worship by someone committing a sin that entails executing the Hadd"
-hijri: "Rabi' Al-Thani 02, 1442 AH"
-source: "Fatawa Al-Lajnah Al-Da'imah no.  102-4"
+hijri: "Rabi' Al-Thani 02, 1442"
+date: 2020-11-17
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 102, Question 4"
 lang: en
 note: true
-category: [zina, intoxicants, salah]
+locale: en
+lang: en
+category: [fatwas, zina, intoxicants]
 excerpt: "Whoever drinks Khamr, commits Zina, or indulges in any sin while considering it Halal (lawful); is regarded as a Kafir (disbeliever) whose good deeds are rendered invalid."
 muftis:
   chairman: 
@@ -22,11 +25,11 @@ muftis:
       url: /biography/mani/
 ---
 
-Question:
+### Question:
 
 Someone drinks Khamr (intoxicants) and commits Zina (sexual intercourse outside marriage) but they perform Salah (Prayer) and the other fundamental deeds of Islam; is the 'Ibadah (worship) they perform considered valid?
 
-Answer:
+### Answer:
 
 Whoever drinks Khamr, commits Zina, or indulges in any sin while considering it Halal (lawful); is regarded as a Kafir (disbeliever) whose good deeds are rendered invalid. On the other hand, if that person commits sins because the weakness of their souls overcomes them but they acknowledge that such a sin is Haram (unlawful) and they hope that Allah may help them to avoid it; they will be considered believers for their sound beliefs though they are Fasiqs (those who flagrantly violate Islamic law) for the major sins they commit. 
 
