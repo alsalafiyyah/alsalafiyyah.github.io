@@ -2,13 +2,13 @@
 layout: post
 title: "Take not as friends the people who incurred the Wrath of Allah"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 4246-8"
-category: [walabara, quran]
-hijri: Dhul-Hijjah 6, 1441 AH
+source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 4246, Question 8"
+category: [fatwas,walabara]
+hijri: Dhul-Hijjah 6, 1441
+locale: en
 lang: en
 note: true
-uid: meaning-of-loyalty
-excerpt: "Allah (Exalted be He) forbids believers to establish with the Jews and other disbelievers an alliance of friendship, love, solidarity and support."
+excerpt: "Allah forbids believers to establish with the Jews and other disbelievers an alliance of friendship, love, solidarity and support."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz
@@ -23,11 +23,11 @@ muftis:
       url: /biography/qaud/
 ---
 
-Question: 
+### Question: 
  
 What is the meaning of Allah’s Saying: "**Take not as friends the people who incurred the Wrath of Allâh (i.e. the Jews).**" [al-Mumtahanah: 13] What is the meaning of aligning or allying oneself with them? Does it involve visiting, speaking and joking with them?
 
-Answer:
+### Answer:
 
 Allah (Exalted be He) forbids believers to establish with the Jews and other disbelievers an alliance of friendship, love, solidarity and support. Moreover, believers are forbidden to take disbelievers as retinue of advisors, consultants or helpers even if they are not Muharibs (those at war with Muslims). Allah (Exalted be He) says, "**You (O Muhammad صلى الله عليه وسلم) will not find any people who believe in Allâh and the Last Day, making friendship with those who oppose Allâh and His Messenger (Muhammad صلى الله عليه وسلم), even though they were their fathers or their sons or their brothers or their kindred (people). For such He has written Faith in their hearts, and strengthened them with Rûh (proofs, light and true guidance) from Himself.**" [al-Mujadilah: 22]
 

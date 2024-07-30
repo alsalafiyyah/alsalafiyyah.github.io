@@ -2,14 +2,13 @@
 layout: post
 title: "Ruling on sharing the same places of worship with non-Muslims"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 2234"
-category: [walabara]
-hijri: Dhul-Hijjah 6, 1441 AH
+source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 2234"
+category: [fatwas,walabara]
+hijri: Dhul-Hijjah 6, 1441
 lang: en
 note: true
 locale: en
-uid: ruling-on-sharing-same-places-worship-with-kafirs
-excerpt: "It is unanimously agreed upon that the Islamic Shari'ah was revealed to both jinn and mankind. Whoever claims that the Jews and the Christians are following the path of truth, whether from among them or not, is contradicting the Qur'an, Sunnah of the Prophet (peace be upon him), and the general consensus of the Muslim Ummah."
+excerpt: "It is unanimously agreed upon that the Islamic Shari'ah was revealed to both jinn and mankind. Whoever claims that the Jews and the Christians are following the path of truth, whether from among them or not, is contradicting the Qur'an, Sunnah of the Prophet, and the general consensus of the Muslim Ummah."
 muftis: 
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz
@@ -19,16 +18,16 @@ muftis:
       url: /biography/afifi/
 ---
 
-Questions: 
+### Questions: 
  
-1. Q 1: Is it legally valid for the followers of different religions to share one place of worship?
-2. Q 2: Is it valid for the followers of different religions to practice their worship in one place with reserved sections for ceremonial purposes?
-3. Q 3: What is the Islamic viewpoint concerning the free intermixing between men and women in gatherings where religious matters are discussed?
-4. Q 4: Is it Islamically permissible that a non-Muslim builds and runs a ceremonial building like a mosque?
-5. Q 5: Is it permissible for a Muslim to spend his money on building Masjids?
-6. Q 6: Is it Islamically permissible for a non-Muslim to finance Islamic projects like Masjids and schools?
+1. Question 1: Is it legally valid for the followers of different religions to share one place of worship?
+2. Question 2: Is it valid for the followers of different religions to practice their worship in one place with reserved sections for ceremonial purposes?
+3. Question 3: What is the Islamic viewpoint concerning the free intermixing between men and women in gatherings where religious matters are discussed?
+4. Question 4: Is it Islamically permissible that a non-Muslim builds and runs a ceremonial building like a mosque?
+5. Question 5: Is it permissible for a Muslim to spend his money on building Masjids?
+6. Question 6: Is it Islamically permissible for a non-Muslim to finance Islamic projects like Masjids and schools?
 
-Answer:
+### Answer:
 
 **First**: it is unanimously agreed upon that the Islamic Shari'ah was revealed to both jinn and mankind. Whoever claims that the Jews and the Christians are following the path of truth, whether from among them or not, is contradicting the Qur'an, Sunnah of the Prophet (peace be upon him), and the general consensus of the Muslim Ummah. If they claim so while being Muslims, they will be apostatizing from Islam. Allah (Exalted be He) says, "...this Qur’ân has been revealed to me that I may therewith warn you and whomsoever it may reach." [al-An'am: 19]
 

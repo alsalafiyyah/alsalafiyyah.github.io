@@ -2,13 +2,13 @@
 layout: post
 title: "Ruling on eating foods prepared for Neyruz feast after it"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 18412-1"
-category: [walabara]
-hijri: Dhul-Hijjah 6, 1441 AH
+source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 18412, Question1"
+category: [fatwas, walabara]
+hijri: Dhul-Hijjah 6, 1441
+locale: en
 lang: en
 note: true
-uid: ruling-on-eating-foods-prepared-for-neyruz-feast
-excerpt: "It is not permissible for a Muslim to observe any of the rituals of disbelief and Shirk (associating others with Allah in His Divinity or worship), including the religious occasions such as festivals and others."
+excerpt: "It is not permissible for a Muslim to observe any of the rituals of disbelief and Shirk, including the religious occasions such as festivals and others."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz
@@ -25,11 +25,11 @@ muftis:
       url: /biography/bakr/
 ---
 
-Question: 
+### Question: 
  
 We know that it is not permissible to celebrate what is called Neyruz (Iranian new year holiday), as it is one of the feasts of the Magi. The question is: Is it permissible to eat the foods served at these feasts several days later?
  
-Answer:
+### Answer:
 
 First: It is not permissible for a Muslim to observe any of the rituals of disbelief and Shirk (associating others with Allah in His Divinity or worship), including the religious occasions such as festivals and others.
 

@@ -2,13 +2,13 @@
 layout: post
 title: "Ruling on making friendship with a Christian"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 80521-4"
-category: [walabara]
-hijri: Dhul-Hijjah 6, 1441 AH
+source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 80521, Question 4"
+category: [fatwas,walabara]
+hijri: Dhul-Hijjah 6, 1441
 lang: en
+locale: en
 note: true
-uid: ruling-on-friendship-with-christian
-excerpt: "It is permissible for a Muslim to kindly treat Kafirs (disbelievers) who are not in a state of war with Islam, reciprocate their good treatment, as well as exchange beneficial things and presents with them."
+excerpt: "It is permissible for a Muslim to kindly treat disbelievers who are not in a state of war with Islam, reciprocate their good treatment, as well as exchange beneficial things and presents with them."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz
@@ -21,10 +21,10 @@ muftis:
       url: /biography/qaud/
 ---
 
-Question: 
+### Question: 
 
 Is it permissible for a Muslim to befriend, visit and study with a Christian friend?
 
-Answer:
+### Answer:
 
 It is permissible for a Muslim to kindly treat Kafirs (disbelievers) who are not in a state of war with Islam, reciprocate their good treatment, as well as exchange beneficial things and presents with them. However, a Muslim must not befriend non-Muslims in a way that involves deep feelings of affection and support for them.

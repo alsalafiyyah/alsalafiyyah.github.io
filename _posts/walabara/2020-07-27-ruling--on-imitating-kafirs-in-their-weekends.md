@@ -2,12 +2,12 @@
 layout: post
 title: "Ruling on imitating Jews and Christians in their weekends"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 3326-3"
-category: [walabara]
-hijri: Dhul-Hijjah 6, 1441 AH
+source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 3326, Question 3"
+category: [fatwas,walabara]
+hijri: Dhul-Hijjah 6, 1441
+locale: en
 lang: en
 note: true
-uid: ruling--on-imitating-kafirs-in-their-weekends
 excerpt: "It is not permissible to allocate either Saturdays or Sundays or both of them as weekends, since this implies imitating the Jews and Christians."
 muftis:
   chairman: 
@@ -23,11 +23,11 @@ muftis:
       url: /biography/qaud/
 ---
 
-Question: 
+### Question: 
  
 What is the ruling on a school owner who appoints its weekends on both Saturdays and Sundays, and allows studying on both Thursdays and Fridays? Is it permissible for him to lead Muslims in Salah (Prayer) or not?
 
-Answer:
+### Answer:
 
 It is not permissible to allocate either Saturdays or Sundays or both of them as weekends, since this implies imitating the Jews and Christians. For, the Jews have their weekends on Saturdays, whereas Christians have their weekends on Sundays, out of a sense of honoring them (these two days). 
 

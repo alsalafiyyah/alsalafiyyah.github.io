@@ -2,24 +2,25 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Rule on associating with the disbelievers"
-hijri: "Rabi' Al-Awwal 11, 1442 AH"
-source: "Majmu' Fatawa Al-Shaykh Ibn Baz p. 28/235"
+hijri: "Rabi' Al-Awwal 11, 1442"
+date: 2020-10-28
+source: "Majmu' Fatawa Al-Shaykh Ibn Baz 28/235"
 lang: en
-category: [walabara]
+category: [fatwas, walabara]
 note: false
-uid: rule-on-associating-with-kafirs
-excerpt: "Loving the Kafirs, helping them in falsehood and considering them friends are major sins and means leading to Kufr (disbelief) in Allah. If a person helps them against the Muslims, this is association which is considered one of the forms of apostasy"
+locale: en
+excerpt: "Loving the Kafirs, helping them in falsehood and considering them friends are major sins and means leading to disbelief in Allah. If a person helps them against the Muslims, this is association which is considered one of the forms of apostasy."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
       url: /biography/binbaz/
 ---
 
-Question: 
+### Question: 
 
 What is the association with Kafirs (disbelievers) that is prohibited by Shari`ah (Islamic Law)?
 
-Answer: 
+### Answer: 
 
 Loving the Kafirs, helping them in falsehood and considering them friends are major sins and means leading to Kufr (disbelief) in Allah. If a person helps them against the Muslims, this is association which is considered one of the forms of apostasy, according to Allah's (Glorified be He) Saying: "**O you who believe! Take not the Jews and the Christians as Auliyâ’ (friends, protectors, helpers), they are but Auliyâ’ of each other. And if any amongst you takes them as Auliyâ’, then surely he is one of them. Verily, Allâh guides not those people who are the Zâlimûn (polytheists and wrong-doers and unjust).**" [Al-Maidah: 51]
 

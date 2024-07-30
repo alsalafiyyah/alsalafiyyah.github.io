@@ -3,11 +3,11 @@ layout: post
 title: "Ruling on attending festivities of Christians"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 9254"
-category: [walabara]
-hijri: Dhul-Hijjah 6, 1441 AH
+category: [fatwas,walabara,festivals]
+hijri: Dhul-Hijjah 6, 1441
+locale: en
 lang: en
 note: true
-uid: ruling-on-attending-christians-festivities
 excerpt: "It is not permissible for Muslims to hold such celebrations, or attend them, or participate in them with the Christians, for such participation is a form of helping the occurrence of sin and transgression, whereas Allah has forbidden them."
 muftis:
   chairman: 
@@ -23,10 +23,10 @@ muftis:
       url: /biography/qaud/
 ---
 
-Question: 
+### Question: 
  
 What is the legal ruling on entertaining some Christian clergymen on the occasion of the Argentinean national celebrations that are held in their churches such as Independence Day, and participating in the Christian Arab celebrations such as Easter?
 
-Answer:
+### Answer:
 
 It is not permissible for Muslims to hold such celebrations, or attend them, or participate in them with the Christians, for such participation is a form of helping the occurrence of sin and transgression, whereas Allah has forbidden them.

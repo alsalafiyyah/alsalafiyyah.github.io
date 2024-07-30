@@ -2,13 +2,12 @@
 layout: post
 title: "Ruling on Muslims and Christians exchanging congratulations"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 18476-2"
-category: [walabara, mawlids]
-hijri: Dhul-Hijjah 6, 1441 AH
+source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 18476, Question 2"
+category: [fatwas,walabara, mawlids,festivals]
+hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-uid: ruling-on-muslims-christians-exchanging-congratulations
 excerpt: "It is not permissible to greet Christians or other disbelievers on their festivals and religious occasions, for this will be a sort of encouraging them in their falsehood and sharing in their sin."
 muftis:
   chairman: 
@@ -26,11 +25,11 @@ muftis:
       url: /biography/bakr/
 ---
 
-Question: 
+### Question: 
 
 Is it permissible for Muslims to exchange greetings with Christians on every occasion?
  
-Answer:
+### Answer:
 
 It is not permissible to greet Christians or other disbelievers on their festivals and religious occasions, for this will be a sort of encouraging them in their falsehood and sharing in their sin. Allah, the Exalted, states, "**...but do not help one another in sin and transgression.**" [al-Maidah: 2]
 

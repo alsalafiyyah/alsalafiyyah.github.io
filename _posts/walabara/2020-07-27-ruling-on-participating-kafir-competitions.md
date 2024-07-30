@@ -2,14 +2,14 @@
 layout: post
 title: "Ruling on participating in the missionary organizations competitions"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 17474"
-category: [walabara]
-hijri: Dhul-Hijjah 6, 1441 AH
+source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 17474"
+category: [fatwas,walabara]
+hijri: Dhul-Hijjah 6, 1441
 lang: en
 note: true
 locale: en
 uid: ruling-on-participating-kafir-competitions
-excerpt: "The Injil (Gospel) that exists today is not the same that Allah, Glorified and Exalted be He, sent down. It contains a great deal of Tahrif (distortion of the meaning), lies, additions, omissions, and sayings that are unbefitting to Allah, the Exalted."
+excerpt: "The Gospel that exists today is not the same that Allah, Glorified and Exalted be He, sent down. It contains a great deal of Tahrif (distortion of the meaning), lies, additions, omissions, and sayings that are unbefitting to Allah, the Exalted."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz
@@ -24,14 +24,14 @@ muftis:
       url: /biography/bakr/
 ---
 
-Question: 
+### Question: 
 
 Some Muslim youth began corresponding with Christian missionary clubs and agencies which in return send them lessons about the Injil (Gospel), video tapes of missionary lectures, and immoral magazines which have spread all over our Islamic countries including Algeria. I have enclosed for you a typical copy of the correspondences they sent to us.
 
-1. Q 1: Is it permissible according to Shari'ah (Islamic law) to correspond with such missionary agencies? What is the ruling on those who read Injil (Gospel)?
-2. Q 2: Is it permissible according to Shari'ah (Islamic law) to participate in the enticing competitions organized by such agencies?
+1. Question 1: Is it permissible according to Shari'ah (Islamic law) to correspond with such missionary agencies? What is the ruling on those who read Injil (Gospel)?
+2. Question 2: Is it permissible according to Shari'ah (Islamic law) to participate in the enticing competitions organized by such agencies?
  
-Answer:
+### Answer:
 
 The Injil (Gospel) that exists today is not the same that Allah, Glorified and Exalted be He, sent down. It contains a great deal of Tahrif (distortion of the meaning), lies, additions, omissions, and sayings that are unbefitting to Allah, the Exalted. Allah has declared this in His Book stating, "**And verily, among them is a party who distort the Book with their tongues (as they read), so that you may think it is from the Book, but it is not from the Book, and they say: "This is from Allâh," but it is not from Allâh; and they speak a lie against Allâh while they know it.**" [Aal Imran: 78]
 

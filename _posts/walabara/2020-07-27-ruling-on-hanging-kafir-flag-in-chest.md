@@ -2,9 +2,10 @@
 layout: post
 title: "Ruling on hanging a non-Muslim country's flag on a Muslim's chest"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 20597-2"
-category: [walabara]
-hijri: Dhul-Hijjah 6, 1441 AH
+source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 20597, Question 2"
+category: [fatwas,walabara]
+hijri: Dhul-Hijjah 6, 1441
+locale: en
 lang: en
 note: true
 uid: ruling-on-hanging-kafir-flag-in-chest
@@ -25,10 +26,10 @@ muftis:
       url: /biography/bakr/
 ---
 
-Question: 
+### Question: 
 
 Some foreign authorities distribute two types of flags, one for Saudi Arabia and the other one for their non-Muslim countries. A military official hangs these flags on people's chests. What is the ruling on this action?
 
-Answer:
+### Answer:
 
 It is not permissible for a Muslim to hang the disbelievers' distinctive symbols, such as crosses or other items, onto their chest.

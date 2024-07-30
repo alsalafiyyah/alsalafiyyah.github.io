@@ -2,13 +2,14 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: Ruling on the call to rapprochement between religions
-hijri: Safar 02, 1442 AH
+hijri: Safar 02, 1442
+date: 2020-09-19
 lang: en
 locale: en
 note: true
-category: [walabara, sects, fatwas]
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 7807-2"
-excerpt: "Druze, Al-Nusayriyyah, Al-Isma'iliyyah and those who follow them such as Babists and Baha'is have manipulated the religious texts; legislated for themselves what Allah has not permitted for them; and imitated the Jews and the Christians in their distortions"
+category: [fatwas, sects]
+source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 7807, Question 2"
+excerpt: "Druze, Nusayriyyah, Ismailiyyah and those who follow them such as Babists and Baha'is have manipulated the religious texts; legislated for themselves what Allah has not permitted for them; and imitated the Jews and the Christians in their distortions"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz
@@ -24,10 +25,13 @@ muftis:
 ---
 
 ### Question:
+
 Is the call for rapprochement between religions (Islam - Christianity - Judaism) a legitimate one? Is it permissible for a Muslim believer to support it? I heard that this is done by some scholars in Al-Az-har and other Islamic institutions. Is the call for rapprochement between Ahl-ul-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream) and the Shiites, Druze, Al-Isma'iliyyah, Al-Nusayriyyah and such sects useful for Muslims? Is reconciliation between them possible, although all of these sects entail Shirk (associating others with Allah in His Divinity or worship), offense to the Messenger of Allah (peace be upon him), and hostility towards Islam and Ahl-ul-Sunnah wal-Jama'ah? Is this rapprochement permissible according to Shari'ah? 
 
 ### Answer:
-### First
+
+#### First
+
 The roots of Iman (faith) which Allah has revealed to His Messengers in the Holy Books: Tawrah (Torah), Injil (Gospel), Zabur (Psalms), and the Qur'an; and which the Messengers Ibrahim (Abraham), Musa (Moses), 'Isa (Jesus), and other Messengers (peace be upon them) called to, are all the same. The former ones of them told the latter about them; and the latter confirmed what the former said, even if they differed in the branches, each according to the circumstances of their own era and the benefit of the people at their time. This is the wisdom and mercy of Allah, as He says, "**The Messenger (Muhammad صلى الله عليه وسلم) believes in what has been sent down to him from his Lord, and (so do) the believers. Each one believes in Allâh, His Angels, His Books, and His Messengers. (They say), "We make no distinction between one another of His Messengers" - and they say, "We hear, and we obey. (We seek) Your Forgiveness, our Lord, and to You is the return (of all).**" (Surah Al-Baqarah, 2: 285).
 
 Allah also says, "**And those who believe in Allâh and His Messengers and make no distinction between any of them (Messengers), We shall give them their rewards; and Allâh is Ever Oft-Forgiving, Most Merciful.**" (Surah Al-Nisa', 4: 152). 
@@ -48,7 +52,7 @@ He also says, "**And We have sent down to you (O Muhammad صلى الله علي
  
 It is authentically reported that the Prophet (peace be upon him) said, "**I am the nearest of all the people to 'Isa ibn Maryam (Jesus, son of Mary) in this world and in the hereafter. All the prophets are paternal brothers; they have different mothers, but their religion is the same.**" Narrated by Al-Bukhari. [^1]
 
-### Second
+#### Second
 
 The Jews and the Christians changed the words from their (right) places and carried out commands other than those given to them. Thus, they changed the principles of their religions and the rulings of Allah, such as the claim made by the Jews that 'Uzayr is the son of Allah. They claim that Allah got tired from creating the heavens, the earth, and what is in between in six days, so He rested on Saturday. They also claim that they crucified 'Isa (peace be upon him) and killed him. They consider hunting on Saturday legal, while Allah prohibits them from doing so. They also abrogated the Had (prescribed penalty) of Zina (adultery) for a married person. They said, "**Truly, Allâh is poor and we are rich!**" [Aal Imran: 181] They also said, "**Allâh’s Hand is tied up (i.e. He does not give and spend of His Bounty).**" [Al-Maidah: 64]
 
@@ -72,7 +76,7 @@ Allah also says, "**Many of the people of the Scripture (Jews and Christians) wi
 
 There are countless examples of their distortion, contradictions, and disgrace. We only intend to mention some examples of their status as an answer to the question.
 
-### Third
+#### Third
 
 According to what has been mentioned above, it is evident that the origin of religions legislated by Allah for the people is one, which needs no rapprochement. It is also evident that the Jews and the Christians have distorted what was revealed to them from Allah, until their religions became false, Kufr (disbelief) and misguidance. Thus, Allah sent them His Messenger Muhammad (peace be upon him) as well as to all the nations so that he would reveal the truth that they had concealed, correct the 'Aqidahs (creeds) and rulings they had distorted, and guide them to the right path.
 
@@ -102,7 +106,7 @@ He also says, "**Say: (O Muhammad صلى الله عليه وسلم to these Mus
 
 A person who thinks of compromising between Islam, Christianity, and Judaism is like a person who tries to match two contradictory things; truth and falsehood; Kufr and Iman.
 
-### Fourth
+#### Fourth
 
 If a person calls to declare a truce or a peace treaty between these sects in order to spare the blood of people, avoid wars, enable people to earn their living, maintain the earth, call to the truth, and guide people to justice, it will be a great and noble purpose. However, the truth should be protected, and this should not be done at the expense of Muslims. The participants may adulate the Mushrikun and give up some of the rulings ordained by Allah or some of their dignity. On the contrary, they should keep their self-respect and stick to the Qur'an and the Sunnah of their Prophet (peace be upon him), in obedience to the way of the Qur'an and following the Messenger (peace be upon him). Allah says, "**But if they incline to peace, you also incline to it, and (put your) trust in Allâh. Verily, He is the All-Hearer, the All-Knower.**" (Surah Al-Anfal, 8: 61). 
 
@@ -112,9 +116,9 @@ The Prophet (peace be upon him) applied this practically when he concluded a pea
 
 History and reality are the strongest proof of this for the impartial and sane people who are free from fanaticism and sophistry. Therein is indeed a reminder for those who have a heart or listen heedfully. Allah is the One Who guides to the straight path. He is Sufficient for us, and He is the Best Disposer of affairs.
 
-### Fifth
+#### Fifth
 
-[**Druze, Al-Nusayriyyah, Al-Isma'iliyyah**](/shiah/) and those who follow them such as [**Babists and Baha'is**](/refutals/on-bahaism-babism/) have manipulated the religious texts; legislated for themselves what Allah has not permitted for them; and imitated the Jews and the Christians in their distortions out of following the desire imitating the first leader of Fitnah (trial): **'Abdullah ibn Saba' Al-Himyary**, the head of Ibtida' (heresy), misguidance, and spreading conflict among the Muslims. His evil spread widely; many sects were deceived by him, so they turned to Kufr after having embraced Islam; and controversy spread among Muslims. 
+**Druze**, **Al-Nusayriyyah**, **Al-Isma'iliyyah** and those who follow them such as **Babists** and **Baha'is** have manipulated the religious texts; legislated for themselves what Allah has not permitted for them; and imitated the Jews and the Christians in their distortions out of following the desire imitating the first leader of Fitnah (trial): **'Abdullah ibn Saba' Al-Himyary**, the head of Ibtida' (heresy), misguidance, and spreading conflict among the Muslims. His evil spread widely; many sects were deceived by him, so they turned to Kufr after having embraced Islam; and controversy spread among Muslims. 
 
 Thus, the call for rapprochement between such sects and the Muslims is useless and futile, as they resemble the Jews and the Christians in their misguidance, Kufr, envy towards the Muslims and conspiring against them, even if their ways and intentions are different. Thus, they apply the same policy of the Jews and the Christians with the Muslims. For some reason, a group of Egyptian Azhari scholars attempted to make this rapprochement with the Iranian, Rafidi scholars of Qum after the Second World War.
 

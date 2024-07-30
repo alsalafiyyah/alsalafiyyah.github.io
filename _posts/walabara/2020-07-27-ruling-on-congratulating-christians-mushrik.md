@@ -2,12 +2,12 @@
 layout: post
 title: "Ruling on congratulating a Christian teacher or who commits acts of Shirk"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 18074-10"
-category: [walabara, mawlids]
-hijri: Dhul-Hijjah 6, 1441 AH
+source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 18074, Question 10"
+category: [fatwas, walabara, mawlids, festivals]
+hijri: Dhul-Hijjah 6, 1441
 lang: en
+locale: en
 note: true
-uid: ruling-on-congratulating-christians-mushrik
 excerpt: "It is not permissible either to attend the Christian festivals or congratulate them on such occasions; for this will be a sort of being pleased with what they do, flattering them for their falsehood and helping them in sin and transgression."
 muftis:
   chairman: 
@@ -24,11 +24,11 @@ muftis:
       url: /biography/bakr/
 ---
 
-Question: 
+### Question: 
 
 Most of our teachers are Mushriks (those who associate others with Allah in His Divinity or worship) or People of the Book either Jews or Christians. What is the ruling on congratulating them on their festivals? What is the ruling on returning their greeting, which is very important to them? What is the ruling on giving them presents whether in their festivals or other occasions?
  
-Answer:
+### Answer:
 
 First: It is not permissible either to attend the Christian festivals or congratulate them on such occasions; for this will be a sort of being pleased with what they do, flattering them for their falsehood and helping them in sin and transgression. Allah, the Exalted, says, "**Help you one another in Al-Birr and At-Taqwâ (virtue, righteousness and piety); but do not help one another in sin and transgression.**" [al-Maidah: 2]
 

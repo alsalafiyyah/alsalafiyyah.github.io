@@ -2,12 +2,12 @@
 layout: post
 title: "Permissibility of the People of the Book's food"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 3262-1"
-category: [walabara]
-hijri: Dhul-Hijjah 6, 1441 AH
+source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 3262, Question 1"
+category: [fatwas,walabara]
+hijri: Dhul-Hijjah 6, 1441
 lang: en
+locale: en
 note: true
-uid: permissibility-the-people-of-book-food
 excerpt: "It is permissible to eat from the food served by your Christian colleague, whether in his or another person's home, provided that the food itself is not prohibited or its status is unknown."
 muftis:
   chairman: 
@@ -23,10 +23,10 @@ muftis:
       url: /biography/qaud/
 ---
 
-Question: 
+### Question: 
  
 Some of my Christian colleagues invite me for meals in their homes. Is it permissible to eat if the food served is Halal (lawful)?
 
-Answer:
+### Answer:
 
 Yes, it is permissible to eat from the food served by your Christian colleague, whether in his or another person's home, provided that the food itself is not prohibited or its status is unknown. The principle regarding things is that they are permissible until it is proven otherwise. So, being a Christian does not prohibit his food, because Allah has made the food of the People of the Book lawful to us.

@@ -2,13 +2,12 @@
 layout: post
 title: "Ruling on those contradicts decisive texts from the Qur'an and authentic Hadith"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 6833"
-category: [walabara]
-hijri: Dhul-Hijjah 5, 1441 AH
+source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 6833"
+category: [fatwas,walabara]
+hijri: Dhul-Hijjah 5, 1441
 lang: en
 loacle: en
 note: true
-uid: ruling-on-contradicts-islam
 excerpt: "It is unlawful to support or ally oneself with him. It is the duty of the people qualified to advise and instruct others to admonish and guide him to the truth and establish against him the Evidence from Allah."
 muftis:
   chairman: 
@@ -24,7 +23,7 @@ muftis:
       url: /biography/qaud/
 ---
 
-Question: 
+### Question: 
 
 What is the opinion of the knowledgeable scholars on a man who contradicts decisive texts from the Qur’an and authentic Hadith? Upon receiving advice and admonition, he says: “There is nothing wrong with what I do.” If he judges among people, he gives false judgments contradicting the Qur’an and Hadith. This ruler rarely performs Salah (Prayer) or Sawm (Fast). Moreover, he allies himself with disbelievers, wicked people and followers of corrupted creeds. He permits what has been forbidden by Allah, like vowing to other than Allah, drinking alcohol, dealing in Riba (usury/interest), taking bribes, dishonest and illegal transactions. 
 
@@ -32,6 +31,6 @@ He also mocks the religiously committed sincere scholars. He says that they are 
 
 Is supporting or allying oneself with such a person permissible or prohibited in the purified Shari‘ah? Is this man still judged to be a Muslim or outside the pale of Islam? Guide us to the truth! May Allah grant you the best reward in the everlasting abode. I am submitting this question to spread your answer on it all over Pakistan. Therefore, we beg for a speedy answer from your eminence.
 
-Answer:
+### Answer:
 
 If the reality is as you mentioned, then the person in question who has such a character is a Kafir (disbeliever), whose Kufr (disbelief) has cast him outside the pale of Islam. It is unlawful to support or ally oneself with him. It is the duty of the people qualified to advise and instruct others to admonish and guide him to the truth and establish against him the Evidence from Allah. If he persists in his aberration, the Muslim ruler should inflict on him the punishment laid down by Shari‘ah.

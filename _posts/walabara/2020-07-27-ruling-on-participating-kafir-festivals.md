@@ -2,12 +2,11 @@
 layout: post
 title: "Ruling on participating in disbelievers' festivals"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. -31"
-category: [walabara]
-hijri: Dhul-Hijjah 6, 1441 AH
+source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no.31"
+category: [fatwas,walabara]
+hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
-uid: ruling-on-participating-kafir-festivals
 note: true
 excerpt: "It is not permissible to participate in their festivals or congratulate them, for this conduct shows a kind of intimacy and endorsement of their rituals. It is also a forbidden collaboration with them in sin and aggression."
 muftis:
@@ -19,11 +18,11 @@ muftis:
       url: /biography/afifi/
 ---
 
-Question: 
+### Question: 
 
 Is it permissible to attend their festivals?
 
-Answer:
+### Answer:
 
 It is not permissible to participate in their festivals or congratulate them, for this conduct shows a kind of intimacy and endorsement of their rituals. It is also a forbidden collaboration with them in sin and aggression. Allah forbids this and having intimate relationships with them. Allah states, "**You (O Muhammad صلى الله عليه وسلم) will not find any people who believe in Allâh and the Last Day, making friendship with those who oppose Allâh and His Messenger (Muhammad صلى الله عليه وسلم), even though they were their fathers or their sons or their brothers or their kindred (people). For such He has written Faith in their hearts, and strengthened them with Rûh (proofs, light and true guidance) from Himself. And He will admit them to Gardens (Paradise) under which rivers flow to dwell therein (forever). Allâh is pleased with them, and they with Him. They are the Party of Allâh. Verily, it is the Party of Allâh that will be the successful.**" [al-Mujadilah: 22]
 

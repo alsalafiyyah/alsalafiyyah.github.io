@@ -3,11 +3,11 @@ layout: post
 title: "The principle of Al-Wala' wal-Bara'"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 5/243, question no. 5. Meeting with His Eminence in His office at the General Presidency on 28/10/1410 A.H"
-hijri: Muharram 5, 1442 AH
+hijri: Muharram 5, 1442
 lang: en
+locale: en
 note: false
-uid: principle-wala-wal-bara
-category: ["walabara"]
+category: [fatwas,walabara]
 excerpt: "Al-Wala' wal-Bara' is to love and be loyal to the believers and to hate the disbelievers and their faith. Hostility and hatred to them do not mean that you are entitled to oppress or transgress against disbelievers, so long as they do not fight you."
 muftis:
   shaykh: 
@@ -15,11 +15,11 @@ muftis:
       url: /biography/binbaz/
 ---
 
-Question: 
+### Question: 
 
 Please explain for whom should be the principle of Al-Wala' wal-Bara' (loyalty and disassociation for Allah's Sake)? Is it permissible to be loyal to the disbelievers?
 
-Answer:
+### Answer:
 
 Al-Wala' wal-Bara' is to love and be loyal to the believers and to hate, alienate, and disavow the disbelievers and their faith. Allah (Glorified be He) states in Surah Al-Mumtahanah, "**Indeed there has been an excellent example for you in Ibrâhîm (Abraham) and those with him, when they said to their people: "Verily, we are free from you and whatever you worship besides Allâh: we have rejected you, and there has started between us and you hostility and hatred for ever until you believe in Allâh Alone"**" [al-Mumtahanah: 4]
 

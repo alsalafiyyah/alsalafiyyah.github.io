@@ -2,11 +2,11 @@
 layout: post
 title: "Ruling on granting the nationality of a Muslim country to a non-Muslim"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 6495-1"
-category: [walabara]
-hijri: Dhul-Hijjah 6, 1441 AH
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no.6495, Question 1"
+category: [fatwas,walabara]
+hijri: Dhul-Hijjah 6, 1441
 lang: en
-uid: granting-nationality-muslim-country-to-kafirs
+locale: en
 note: true
 excerpt: "It is permissible to grant a non-Muslim the nationality of a Muslim country provided that the danger of Fitnah (sedition) is secured and that his good intentions are sensed."
 muftis:
@@ -21,11 +21,11 @@ muftis:
       url: /biography/ghudayyan/
 ---
 
-Question: 
+### Question: 
  
 What is the ruling on granting the nationality of a Muslim country to a non-Muslim?
 
-Answer:
+### Answer:
 
 It is permissible to grant a non-Muslim the nationality of a Muslim country provided that the danger of Fitnah (sedition) is secured and that his good intentions are sensed. However, he is not allowed to reside in Arabia unless he embraces Islam. This is based on **the Prophet's command to expel the non-Muslims from the Arabian Peninsula** [^1].
 
