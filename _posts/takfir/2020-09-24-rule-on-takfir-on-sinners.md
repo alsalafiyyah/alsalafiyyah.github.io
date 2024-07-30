@@ -3,10 +3,10 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 title: "We do not declare a Muslim as a disbeliever for committing a sin unless he believes it is lawful."
 hijri: Safar 07, 1442
-locale: en
 source: "Majmu' Fatawa Ibn Baz 28/146, question 1"
 lang: en
-category: [takfir, sects]
+locale: en
+category: [fatwas,takfir, sects]
 excerpt: "Ahlus-Sunnah do not consider a person who commits sins while knowing that they are Haram as a kafir but he is regarded as disobedient and of weak belief and should be submitted to Had."
 muftis:
   shaykh: 
