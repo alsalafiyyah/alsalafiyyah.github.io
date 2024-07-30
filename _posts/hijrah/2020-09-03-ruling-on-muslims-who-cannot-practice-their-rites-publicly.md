@@ -2,10 +2,11 @@
 layout: post
 title: "Ruling on Muslims who cannot practice their rites publicly"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 2922-13"
+source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 2922, Question 13"
 hijri: Muharram 14, 1442 AH
-category: [hijrah]
+category: [fatwas,hijrah]
 lang: en
+locale: en
 excerpt: "It is impermissible to reside in a country where the Muslims are prevented from performing the Islamic rituals. If possible, the person should migrate to another country where Muslims are a majority and where they can perform the Islamic rituals overtly and find the means to cooperate with Muslims in righteousness and piety."
 muftis:
   chairman: 
@@ -21,11 +22,11 @@ muftis:
       url: /biography/qaud/
 ---
 
-Question:
+### Question:
 
 In Britain it is not allowed to call the Adhan (call to Prayer) loudly except inside the Masjid (mosque). Muslims can not break the English law. Does this mean they are sinners? 
 
-Answer:
+### Answer:
 
 It is impermissible to reside in a country where the Muslims are prevented from performing the Islamic rituals. If possible, the person should migrate to another country where Muslims are a majority and where they can perform the Islamic rituals overtly and find the means to cooperate with Muslims in righteousness and piety. They should be certain that their sustenance is available. Whoever fears Allah (Exalted be He) and keeps his duty to Him, He will make a way out for him (from every difficulty), and He will provide him from (sources) he never could have imagined. Moreover, whoever puts his trust in Allah (Exalted be He), He will suffice him. Verily, Allah (Exalted be He) will accomplish his purpose.
 

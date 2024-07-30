@@ -2,11 +2,13 @@
 layout: post
 title: "Conditions of Dar Al-Harb and Dar Al-Kufr"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 2635-1"
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 2635, Question 1"
 hijri: Muharram 14, 1442 AH
 lang: en
-category: [hijrah]
-excerpt: "The countries whose rulers and those in power uphold the limits set by Allah (Exalted be He) in their judgments and rule their subjects accordingly where people can act in accordance with the Shari'ah are considered Muslim lands."
+locale: en
+note: true
+category: [fatwas,hijrah]
+excerpt: "The countries whose rulers and those in power uphold the limits set by Allah in their judgments and rule their subjects accordingly where people can act in accordance with the Shari'ah are considered Muslim lands."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz
@@ -21,11 +23,11 @@ muftis:
       url: /biography/qaud/
 ---
 
-Question:
+### Question:
 
 What are the necessary conditions of Dar-ul-Harb (enemy territory/non-believers’ country)?
 
-Answer:
+### Answer:
 
 The countries whose rulers and those in power uphold the limits set by Allah (Exalted be He) in their judgments and rule their subjects accordingly where people can act in accordance with the Shari'ah are considered Muslim lands. Muslims must obey their rulers as long as they command what is good, be sincere to them, help them to run the affairs of the state and support them with great scientific and practical power. People should live there and should not leave except to another Islamic place which is in a better social status such as Madinah after the Prophet's migration and establishing the Islamic state there. Similarly, Makkah after the Opening, where Muslims assumed power and ruled it as a Muslim country after it had been Dar-ul-Harb (enemy territory) from which able Muslims should flee.
 

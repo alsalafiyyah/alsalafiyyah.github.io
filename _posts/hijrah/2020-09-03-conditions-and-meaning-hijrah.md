@@ -2,10 +2,11 @@
 layout: post
 title: "The meaning and conditions of Hijrah"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 7150-6"
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 7150, Question 6"
 hijri: Muharram 14, 1442 AH
-category: [hijrah]
+category: [fatwas,hijrah]
 lang: en
+locale: en
 excerpt: "Hijrah means leaving a non-Muslim to a Muslim country, which is obligatory."
 muftis:
   chairman: 
@@ -21,11 +22,11 @@ muftis:
       url: /biography/qaud/
 ---
 
-Question:
+### Question:
 
 What are the conditions of Hijrah (a believer’s migration to an Islamic land) according to Islam? What is meant by the Hadith: "**Worship (of Allah) at times of turmoil is like Hijrah to me.**" [^1]? 
 
-Answer:
+### Answer:
 
 Hijrah means leaving a non-Muslim to a Muslim country, which is obligatory. Allah (Exalted be He) says: "**Verily, as for those whom the angels take (in death) while they are wronging themselves (as they stayed among the disbelievers even though emigration was obligatory for them), they (angels) say (to them): “In what (condition) were you?”**" [al-Nisa: 97] Up to the part saying: "**Such men will find their abode in Hell - What an evil destination!**" [al-Nisa: 97]
 

@@ -4,8 +4,9 @@ publisher: alsalafiyyah@icloud.com
 title: "Living in a village where there are Bid'ahs"
 hijri: Muharram 27, 1442 AH
 lang: en
-source: "Fatwas of the Permanent Committee no. 12927"
-category: [hijrah]
+locale: en
+source: "Fatwas of the Permanent Committee, Fatwa no. 12927"
+category: [fatwas,hijrah,bidah]
 excerpt: "If you cannot find a suitable job in your town, you think that the people there will most probably reject your advice, or you fear that they might tempt you or your children with their Bidahs, there will be no sin on you"
 muftis:
   chairman: 
@@ -20,11 +21,11 @@ muftis:
 ---
 
 
-Question:
+### Question:
 
 The questioner explains his circumstances and those of the town where his mother is living. She keeps asking him to stay with her in the same town. 
  
-Answer:
+### Answer:
 
 Given that the situation is as you have mentioned, if you can find a job in your town that sustains you and your family, and you have the ability of advising your country people without being affected by their Bid'ahs (innovations in religion), it will be better to obey your mother out of maintaining the ties of kinship and hoping that the people of your town might be guided through you. 
 
@@ -36,7 +37,7 @@ He (Glorified be He) also says, "**So keep your duty to Allâh and fear Him as m
 
 The Prophet (peace be upon him) said, "**When I command you to do anything, do of it as much as you possibly can.**" [^1]
 
-Leaving the places of Fitnah (temptation) and Bid`ahs related to Shirk to a place where your religion is protected, where you cooperate with Ahl-ul-Sunnah (those adhering to Sunnah), and where you are able to earn your living lawfully, is considered a Hijrah (a believer's migration to an Islamic land) for the sake of Allah.
+Leaving the places of Fitnah (temptation) and Bid'ahs related to Shirk to a place where your religion is protected, where you cooperate with Ahl-ul-Sunnah (those adhering to Sunnah), and where you are able to earn your living lawfully, is considered a Hijrah (a believer's migration to an Islamic land) for the sake of Allah.
 
 ---
 
