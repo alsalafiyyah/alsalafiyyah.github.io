@@ -2,24 +2,23 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "The importance of women's face-veil"
-hijri: Safar 04, 1442 AH
+hijri: Safar 04, 1442
+locale: en
 lang: en
-category: [women, hijab, niqab]
+category: [fatwas,women]
 source: "Majmu' Fatawa of Shaykh Ibn Baz 3"
 note: false
-excerpt: "At the beginning of Islam, Hijab (veil) was not prescribed for women to display their faces and hands in front of men."
+excerpt: At the beginning of Islam, hijab was not prescribed for women to display their faces and hands in front of men. Then Allah prescribed it and made it obligatory for women to keep and protect them from the gazes of non-Mahrams.
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
       url: /biography/binbaz/
 ---
 
-Question:
-
+### Question:
 I would like Your Eminence to answer me concerning the importance of a woman covering her face. Is it Wajib (obligatory)? If so, what is the evidence? It is propagated that women used to cover their faces in the Arabian Peninsula during the Turkish era, and this was strictly practiced ever since, to the extent that people considered it to be obligatory for women. I have read also that women, at the time of the Prophet (peace be upon him) and the Rightly-Guided Caliphs, used to participate in many kinds of work and fight in war along with men. Is this true or am I mistaken? I am looking forward to your answer to know the truth. 
 
-Answer:
-
+### Answer:
 At the beginning of Islam, Hijab (veil) was not prescribed for women would display their faces and hands in front of men. Then Allah (Glorified be He) prescribed it and made it obligatory for women to keep and protect them from the gazes of non-Mahrams (not spouses or permanently unmarriageable relatives) and thus, blocked the way to Fitnah (temptation). This was after the revelation of the Ayah (Qur'anic verse) of Hijab in Surah Al-Ahzab: "**And when you ask (his wives) for anything you want, ask them from behind a screen: that is purer for your hearts and for their hearts.**" [Al-Ahzab: 53] This Ayah, despite being mentioned in respect of the wives of the Prophet (peace be upon him), addresses them and all women, based on the generality of the 'Illah (effective cause) and the meaning.
 
 In the same Surah, Allah (Glorified and Exalted be He) says: "**And stay in your houses, and do not display yourselves like that of the times of ignorance, and perform As-Salât (Iqamât-as-Salât), and give Zakât and obey Allâh and His Messenger.**" [Al-Ahzab: 33] This Ayah addresses them (wives of the Prophet) and all women according to Ijma' (consensus of scholars).

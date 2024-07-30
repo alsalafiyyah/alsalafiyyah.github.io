@@ -1,30 +1,20 @@
 ---
 layout: post
-title: "Ruling on women wearing a brassiere"
+title: "Ruling on wearing a brassiere"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 9090, Question 1"
-category: [women]
-hijri: Dhul-Hijjah 14, 1441 AH
+category: [fatwas,women]
+hijri: Dhul-Hijjah 14, 1441
 date: 2020/08/8
 note: true
-muftis:
-  chairman: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz
-  deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Afifi
-      url: /biography/afifi
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud
+group1: true
+locale: en
+lang: en
+excerpt: "Wearing a brassiere defines women's breasts and makes them a source of temptation, and as such, they are not permitted to wear them in front of non-Mahram men "
 ---
 
-Question: 
-
+### Question: 
 What is the ruling on women wearing a brassiere?
 
-Answer: 
-
+### Answer: 
 Wearing a brassiere defines women's breasts and makes them a source of Finah (temptation), and as such, they are not permitted to wear them in front of non-Mahram (not a spouse or an unmarriageable relative) men.

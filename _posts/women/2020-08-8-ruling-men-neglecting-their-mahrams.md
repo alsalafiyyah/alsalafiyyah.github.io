@@ -3,10 +3,12 @@ layout: post
 title: "Ruling on men neglecting their Mahrams"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 5320, Question 2"
-category: [women, hijab, niqab]
+category: [fatwas,women]
 hijri: Dhul-Hijjah 14, 1441
 date: 2020/08/8
 note: true
+locale: en
+lang: en
 excerpt: What is your opinion of a man who does not order his female household to cover themselves in front of non-Mahrams.
 muftis:
   chairman: 
