@@ -242,12 +242,13 @@
 {% else %}
 {% endif %}
 
-{% if post.author %}
+{% if post.authors %}
+{% if post.authors.author %} 
 <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
  <small><i class="bi bi-feather"></i> Posted by:</small>
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-  {% for author in post.author %}
-  <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover icon-link" itemprop="url" href="{{ author.url }}" rel="nofollow" target="_blank">
+  {% for author in post.authors.author %}
+  <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover icon-link" itemprop="url" href="https://instagram.com/{{ author.url }}" rel="nofollow" target="_blank">
    <small>
     <span itemprop="name">
      {{ author.name }}
@@ -258,6 +259,7 @@
   {% endfor %}
  </p> 
 {% endif %}
+{% endif %} 
 
  <!-- date -->
  <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
