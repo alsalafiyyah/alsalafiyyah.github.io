@@ -20,7 +20,7 @@
  <small><i class="bi bi-mortarboard"></i> Issued by:</small>
  {% for chairman in post.muftis.chairman %}
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-  <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="{{ chairman.name }}">
+  <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="{{ chairman.url }}">
    <small>
     <span itemprop="name">
      {{ chairman.name }}
@@ -28,7 +28,7 @@
    </small>
   </a>
  </span>
- {% endfor %} and others
+ {% endfor %} & others
  </p> 
 {% endif %} 
 {% endif %}
