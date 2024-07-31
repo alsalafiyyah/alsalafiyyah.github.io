@@ -1,12 +1,12 @@
 <section><!-- fatwas widget section -->
-
-<div class="list-group"><!-- posts -->
 <ul class="list-group">
   <li class="list-group-item d-flex justify-content-between align-items-center border-0">
     <h2>{{ site.data.locales[page.locale].page.fatwas }} <i class="bi bi-feather"></i></h2>
     <a href="/fatwas/" class="badge text-bg-danger rounded-pill icon-link">View all <i class="bi bi-chevron-double-right"></i></a>
   </li>
 </ul>
+  
+<div class="list-group"><!-- posts -->
 
 {% for post in site.posts limit:4 %}
 {% if post.url %}  
@@ -62,6 +62,8 @@
 {% endif %}
   
 </div><!-- /post -->   
+{% endif %}      
+{% endfor %}
 </div><!-- /posts -->
 
 <section class="mt-5">
