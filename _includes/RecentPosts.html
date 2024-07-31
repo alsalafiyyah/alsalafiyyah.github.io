@@ -8,13 +8,10 @@
     <div itemscope itemtype="https://schema.org/NewsArticle" class="list-group">
 {% for post in site.posts limit:4 %}
 {% if post.url %}     
-       <a href="{{ post.url }}" class="list-group-item list-group-item-action border-0" aria-current="true">
-   <article>   
+  <a href="{{ post.url }}" class="list-group-item list-group-item-action border-0" aria-current="true">   
     <meta itemprop="image" content="{{ '/assets/images/fb.jpg' | absolute_url }}" />
-    <div itemprop="headline" class="d-flex w-100 justify-content-between">
-      <header>  
+    <div itemprop="headline" class="d-flex w-100 justify-content-between">  
       <h3 class="mb-1">{{ post.title }}</h3>
-      </header>
     </div>
     <p class="mb-1 fst-italic">
      {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace | remove_first: "Question:" }}
@@ -23,6 +20,7 @@
       <i class="bi bi-calendar-day"></i> 
       {{ post.hijri }} // {{ post.date | date: "%b %d, %Y" }}
     </small>
+  </a>
      {% if post.muftis %}
       {% if post %} Answered by : 
        {% for shaykh in post.muftis.shaykh %}
@@ -39,9 +37,7 @@
           </a>
         </span>         
       {% endif %}
-     {% endif %}
-   </article> 
-  </a>
+     {% endif %} 
 {% endif %}
 {% endfor %}
     </div>
