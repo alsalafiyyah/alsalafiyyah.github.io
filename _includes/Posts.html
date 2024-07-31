@@ -30,19 +30,6 @@
  {% endfor %}  
  </p>      
 {% endif %}
-{% elsif post.group1 == true and post.group2 == true and post.group3 == true and post.group4 == true and post.group5 == true and post.group6 == true and post.group7 == true and post.group8 == true and post.group9 == true and post.group10 == true and post.group11 == true and post.group12 == true %}
- <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-mortarboard"></i> Issued by:</small>
- <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-  <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/">
-   <small>
-    <span itemprop="name">
-     The Permanent Committee for Scholarly Research & Ifta'
-    </span>
-   </small>
-  </a>
- </span>
- </p>   
 {% else %} 
  <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
  <small><i class="bi bi-mortarboard"></i> Issued by:</small>
@@ -57,6 +44,20 @@
  </span>
  </p>    
 {% endif %}
+{% if post.group1 == true and post.group2 == true and post.group3 == true and post.group4 == true and post.group5 == true and post.group6 == true and post.group7 == true and post.group8 == true and post.group9 == true and post.group10 == true and post.group11 == true and post.group12 == true %}
+ <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
+ <small><i class="bi bi-mortarboard"></i> Issued by:</small>
+ <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+  <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/">
+   <small>
+    <span itemprop="name">
+     The Permanent Committee for Scholarly Research & Ifta'
+    </span>
+   </small>
+  </a>
+ </span>
+ </p>   
+ {% endif %}
  <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
  <span itemprop="datePublished" content="{{ post.date | to_utc | date: "%Y%m%dT%H:%M:%S%:z" }}">
   <small><i class="bi bi-calendar-day"></i> {{ post.hijri }} / {{ post.date | date: "%b %d, %Y" }}</small>
