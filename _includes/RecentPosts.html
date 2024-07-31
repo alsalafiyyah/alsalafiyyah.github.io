@@ -25,13 +25,13 @@
 {% if post.muftis %}
 {% if post.muftis.shaykh %}  
  <p style="margin: 0px !important; padding: 0px !important;">
- <small>Issued by:</small>
+ <small><i class="bi bi-mortarboard"></i> Issued by:</small>
  {% for shaykh in post.muftis.shaykh %}  
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
   <a itemprop="url" href="{{ shaykh.url }}">
    <small class="text-body-secondary">
     <span itemprop="name">
-     <i class="bi bi-mortarboard"></i> {{ shaykh.name }}
+    {{ shaykh.name }}
     </span>
    </small>
   </a>
@@ -41,12 +41,12 @@
 {% endif %}
 {% else %}
  <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important;">
- <small>Answered by:</small>
+ <small><i class="bi bi-mortarboard"></i> Issued by:</small>
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
   <a itemprop="url" href="/biography/">
    <small>
     <span itemprop="name">
-     <i class="bi bi-mortarboard"></i> The Permanent Committee for Scholarly Research & Ifta'
+     The Permanent Committee for Scholarly Research & Ifta'
     </span>
    </small>
   </a>
