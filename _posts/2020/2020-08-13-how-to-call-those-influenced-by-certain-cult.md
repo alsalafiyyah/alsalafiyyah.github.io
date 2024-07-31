@@ -1,23 +1,26 @@
 ---
 layout: post
-title: "How to call those who are influenced by certain cultures to Islam"
 publisher: "alsalafiyyah@icloud.com"
+title: "How to call those who are influenced by certain cultures to Islam"
 source: "Majmu' Fatawa wa Maqalat 4/226, question 12"
 hijri: Dhul-Hijjah 23, 1441 AH
 date: 2020/08/13
 note: false
-category: [dawah]
+category: [fatwas,dawah]
+locale: en
+lang: en
+excerpt: "The caller to Islam must explain to them the defects and bid'ahs in the schools which they have been influenced by, the orders which they have been affiliated to, and the milieus where they live."
 muftis:
   shaykh: 
     - name: Shaykh Ibn Baz
       url: /biography/binbaz
 ---
 
-Question:
+### Question:
 
 What is the best way to practice Da'wah (calling to Islam) with people who are influenced by certain cultures or communities?
 
-Answer:
+### Answer:
 
 The Da'i (caller to Islam) must explain to them the defects and Bid'ahs (innovations in religion) in the schools which they have been influenced by, the orders which they have been affiliated to, and the milieus where they live. Also, the Da'i should clarify to them the acts which disagree with Shari`ah (Islamic law) and prevail in their communities and invite them to refer any disputable issue to the Qur'an and the Sunnah. If it agrees with both of them or even one of them, then it is recognized as Halal (lawful); if not, the originator of this act must be refuted whoever they are.
 
