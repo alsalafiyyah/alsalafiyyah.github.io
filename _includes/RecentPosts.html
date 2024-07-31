@@ -25,13 +25,13 @@
 {% if post.muftis %}
 {% if post.muftis.shaykh %}  
  <p style="margin: 0px !important; padding: 0px !important;">
- <small>Answered by:</small>
+ <small>Issued by:</small>
  {% for shaykh in post.muftis.shaykh %}  
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
   <a itemprop="url" href="{{ shaykh.url }}">
    <small class="text-body-secondary">
     <span itemprop="name">
-     {{ shaykh.name }}
+     <i class="bi bi-mortarboard"></i> {{ shaykh.name }}
     </span>
    </small>
   </a>
@@ -40,22 +40,22 @@
  </p>      
 {% endif %}
 {% else %}
- <p style="margin: 0px !important; padding: 0px !important;">
+ <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important;">
  <small>Answered by:</small>
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
   <a itemprop="url" href="/biography/">
-   <small class="text-body-secondary">
+   <small>
     <span itemprop="name">
-     Various Scholars
+     <i class="bi bi-mortarboard"></i> The Permanent Committee for Scholarly Research & Ifta'
     </span>
    </small>
   </a>
  </span>
  </p>   
 {% endif %}
- <p style="margin: 0px !important; padding: 0px !important;">
+ <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important;">
  <span itemprop="datePublished" content="{{ post.date | to_utc | date: "%Y%m%dT%H:%M:%S%:z" }}">
-  <small class="text-body-secondary"><i class="bi bi-calendar-day"></i> {{ post.hijri }} / {{ post.date | date: "%b %d, %Y" }}</small>
+  <small><i class="bi bi-calendar-day"></i> {{ post.hijri }} / {{ post.date | date: "%b %d, %Y" }}</small>
  </span>
  </p>
 </div>
