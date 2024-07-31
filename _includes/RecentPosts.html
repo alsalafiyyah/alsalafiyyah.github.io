@@ -10,6 +10,7 @@
 {% if post.url %}     
        <a href="{{ post.url }}" class="list-group-item list-group-item-action border-0" aria-current="true">
    <article>   
+    <meta itemprop="image" content="{{ '/assets/images/fb.jpg' | absolute_url }}" />
     <div itemprop="headline" class="d-flex w-100 justify-content-between">
       <header>  
       <h3 class="mb-1">{{ post.title }}</h3>
@@ -25,10 +26,18 @@
      {% if post.muftis %}
       {% if post %} Answered by : 
        {% for shaykh in post.muftis.shaykh %}
-        {{ shaykh.name }}
+        <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+          <a itemprop="url" href="{{ shaykh.url }}">
+            <span itemprop="name"><small>{{ shaykh.name }}</small></span>
+          </a>
+        </span>
        {% endfor %}
        {% else %}
-        Various Scholars
+        <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+          <a itemprop="url" href="{{ shaykh.url }}">
+            <span itemprop="name"><small>Various Scholars</small></span>
+          </a>
+        </span>         
       {% endif %}
      {% endif %}
    </article> 
