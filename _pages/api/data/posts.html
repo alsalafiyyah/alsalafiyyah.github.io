@@ -44,7 +44,7 @@ a {
    Lang : {{ post.lang }} <br/>
    Locale: {{ post.locale }}
   </td>
-  <td>{{ post.excerpt | truncate: 50 }}</td>
+  <td>{{ post.excerpt | truncate: 50 | strip_html | normalize_whitespace | strip }}</td>
   <td>{{ post.uid }}</td>
   <td>{{ post.category }}</td>
   <td>{{ post.path }}</td>
