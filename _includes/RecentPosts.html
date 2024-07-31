@@ -22,9 +22,9 @@
       <i class="bi bi-calendar-day"></i> 
       {{ post.hijri }} // {{ post.date | date: "%b %d, %Y" }}
     </small>
-     {% if page.muftis %}
-      {% if page.muftis.shaykh %} by : 
-       {% for shaykh in page.muftis.shaykh %}
+     {% if post.muftis %}
+      {% if post %} Answered by : 
+       {% for shaykh in post.muftis.shaykh %}
         {{ shaykh.name }}
        {% endfor %}
        {% else %}
