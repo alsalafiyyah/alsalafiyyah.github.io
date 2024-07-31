@@ -18,10 +18,19 @@
     <p class="mb-1 fst-italic">
      {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace | remove_first: "Question:" }}
      </p>
-    <small itemprop="datePublished" content="{{ post.date | date: "%b %d, %Y" }}">
+    <small itemprop="datePublished" content="{{ post.date | to_utc | date: "%Y%m%dT%H:%M:%S%:z" }}">
       <i class="bi bi-calendar-day"></i> 
       {{ post.hijri }} // {{ post.date | date: "%b %d, %Y" }}
     </small>
+     {% if page.muftis %}
+      {% if page.muftis.shaykh %} by : 
+       {% for shaykh in page.muftis.shaykh %}
+        {{ shaykh.name }}
+       {% endfor %}
+       {% else %}
+        Various Scholars
+      {% endif %}
+     {% endif %}
    </article> 
   </a>
 {% endif %}
