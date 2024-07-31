@@ -13,8 +13,21 @@
   {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace | remove_first: "Question:" }}
  </p>
  </a>
+ 
 {% if post.muftis %}
-{% if post.muftis.shaykh %}  
+<p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
+ <small><i class="bi bi-mortarboard"></i> Issued by:</small>
+ <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+  <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/">
+   <small>
+    <span itemprop="name">
+     The Permanent Committee for Scholarly Research & Ifta'
+    </span>
+   </small>
+  </a>
+ </span>
+ </p> 
+{% elsif post.muftis.shaykh %}  
  <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
  <small><i class="bi bi-mortarboard"></i> Issued by:</small>
  {% for shaykh in post.muftis.shaykh %}  
@@ -28,23 +41,11 @@
   </a>
  </span>
  {% endfor %}  
- </p>      
-{% endif %}
+ </p>
 {% else %} 
- <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-mortarboard"></i> Issued by:</small>
- <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-  <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/">
-   <small>
-    <span itemprop="name">
-     The Permanent Committee for Scholarly Research & Ifta'
-    </span>
-   </small>
-  </a>
- </span>
- </p>    
 {% endif %}
-{% if post.group1 == true %}
+ 
+{% if site.group1 == true %}
  <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
  <small><i class="bi bi-mortarboard"></i> Issued by:</small>
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
@@ -57,7 +58,7 @@
   </a>
  </span>
  </p>   
- {% elsif post.group2 == true %}
+ {% elsif site.group2 == true %}
  <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
  <small><i class="bi bi-mortarboard"></i> Issued by:</small>
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
