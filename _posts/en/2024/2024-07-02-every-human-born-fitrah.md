@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: Every human is born in a state of fitrah
+title: "Every human is born in a state of natural disposition of monotheism, then his parents make him into a Jew or a Christian or a Magian"
 date: 2024-07-02
 hijri: Dhul-Hijjah 26, 1445
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 18794 Question 1
