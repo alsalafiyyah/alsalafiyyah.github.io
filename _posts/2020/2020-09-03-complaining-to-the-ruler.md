@@ -5,11 +5,11 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 17834"
 hijri: Muharram 14, 1442 AH
 date: 2020/09/3
-category: [fatwas, rulership, hisbah]
+category: [fatwas,rulership,hisbah]
 locale: en
 lang: en
 note: true
-excerpt: ""
+excerpt: "Is it obligatory on me to complain to the Imam about someone who does not attend the congregational prayer or should I just advise him?"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz
