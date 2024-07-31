@@ -1,13 +1,14 @@
 <!-- fatwas widget section -->
+<section>
 <ul class="list-group">
   <li class="list-group-item d-flex justify-content-between align-items-center border-0">
     <h2>{{ site.data.locales[page.locale].page.fatwas }} <i class="bi bi-feather"></i></h2>
     <a href="/fatwas/" class="badge text-bg-danger rounded-pill icon-link">View all <i class="bi bi-chevron-double-right"></i></a>
   </li>
 </ul>
-<section class="list-group"><!-- posts -->
 {% for post in site.posts limit:5 %}
 {% if post.url %}    
+<div class="list-group"><!-- posts -->
 <div class="list-group-item list-group-item-action border-0" itemscope itemtype="https://schema.org/NewsArticle"><!-- post -->
 
 <a class="list-group-item list-group-item-action border-0 bg-transparent" href="{{ post.url }}" style="padding: 0px !important; margin: 0px !important;">
@@ -60,9 +61,10 @@
 {% endif %}
   
 </div><!-- /post -->   
+</div><!-- /posts -->
 {% endif %}      
 {% endfor %}  
-</section><!-- /posts -->
+</section>
 <!-- /fatwas widget section -->
 
 <section class="mt-5">
