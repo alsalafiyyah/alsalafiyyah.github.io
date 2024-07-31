@@ -53,6 +53,7 @@
 {% endif %}
  
 {% if site.group1 == true %}
+ {% assign post.group1 = true %}
  <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
  <small><i class="bi bi-mortarboard"></i> Issued by:</small>
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
@@ -66,6 +67,7 @@
  </span>
  </p>   
  {% elsif site.group2 == true %}
+ {% assign post.group2 = true %}
  <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
  <small><i class="bi bi-mortarboard"></i> Issued by:</small>
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
