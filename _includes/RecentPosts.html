@@ -5,12 +5,12 @@
     <a href="/fatwas/" class="badge text-bg-danger rounded-pill icon-link">View all <i class="bi bi-chevron-double-right"></i></a>
   </li>
 </ul>
-    <div class="list-group">
+    <div itemscope itemtype="https://schema.org/NewsArticle" class="list-group">
 {% for post in site.posts limit:4 %}
 {% if post.url %}     
        <a href="{{ post.url }}" class="list-group-item list-group-item-action border-0" aria-current="true">
    <article>   
-    <div class="d-flex w-100 justify-content-between">
+    <div itemprop="headline" class="d-flex w-100 justify-content-between">
       <header>  
       <h3 class="mb-1">{{ post.title }}</h3>
       </header>
@@ -18,7 +18,10 @@
     <p class="mb-1 fst-italic">
      {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace | remove_first: "Question:" }}
      </p>
-    <small><i class="bi bi-calendar-day"></i> {{ post.hijri }} // {{ post.date | date: "%b %d, %Y" }}</small>
+    <small itemprop="datePublished" content="{{ post.date | date: "%b %d, %Y" }}">
+      <i class="bi bi-calendar-day"></i> 
+      {{ post.hijri }} // {{ post.date | date: "%b %d, %Y" }}
+    </small>
    </article> 
   </a>
 {% endif %}
