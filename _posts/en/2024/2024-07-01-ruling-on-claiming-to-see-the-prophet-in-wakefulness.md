@@ -1,11 +1,11 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: Ruling on a man who claims that he saw the Prophet in a state of wakefulness
+title: "Ruling on one who claims that he saw the Prophet ﷺ in a state of wakefulness"
 date: 2024-07-01
 hijri: Dhul-Hijjah 25, 1445
 source: Fatawa Al-Lajnah Ad-Da'imah 2/19, Fatwa no. 12713, Question 1
-category: [fatwas]
+category: [fatwas,refutals]
 note: true
 locale: en
 lang: en
@@ -14,10 +14,7 @@ article_taken_from:
   taken_from:
     - web_title: رؤية الله في الدنيا
       web_url: https://al-fatawa.com/fatwa/105848
-shaykhs: 
- - Sh. Ibn Baz 
- - Sh. Abdur-Razzaq Al-Afifi
- - Sh. Abdullah ibn Ghudayyan
+group6: true
 ---
 
 ### Question :
