@@ -386,6 +386,34 @@
 </div>
 {% endif %}    
 
+{% if page.group13 %}
+<div class="card bg-transparent border-danger mb-3">
+  <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
+    Muftis
+  </div>
+  <div class="card-body">
+   <ul class="list-group list-group-flush"> 
+   {% if site.group13.chairman %}
+    <li class="list-group-item">
+     {{ site.data.locales[page.locale].page.chairman }} : 
+    {% for chairman in site.group13.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
+    </li>
+   {% endif %} 
+   {% if site.group13.members %}
+     <li class="list-group-item">
+        {{ site.data.locales[page.locale].page.members }} : 
+        <ol>
+         {% for members in site.group13.members %}
+         <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
+         {% endfor %}
+        </ol>
+      </li>
+   {% endif %}     
+   </ul>
+  </div>
+</div>
+{% endif %}    
+
 {% if page.shaykhs %}
 <div class="card bg-transparent border-danger mb-3">
   <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
