@@ -79,8 +79,8 @@
 <div class="list-group">
 
 <!-- loop -->  
-{% assign posts = site.posts | where_exp: "post", "post.categories contains 'audios'" %}  
-{% for post in site.posts limit:5 %}
+{% assign posts = site.posts | where_exp: "post", "post.categories contains 'audios'" %}
+{% for post in posts limit:5 %}      
 {% if post.url %}
 <div itemscope itemtype="https://schema.org/NewsArticle" class="list-group-item list-group-item-action border-0">
  <meta itemprop="image" content="{{ '/assets/images/fb.jpg' | absolute_url }}" />   
