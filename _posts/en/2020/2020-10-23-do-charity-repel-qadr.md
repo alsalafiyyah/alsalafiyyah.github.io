@@ -2,16 +2,19 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Do supplication and Sadaqah (voluntary charity) repel the Divine Decree and Predestination?"
+title: "Do supplication and voluntary charity repel the Divine Decree and Predestination?"
 hijri: "Rabi' Al-Awwal 06, 1442"
 date: 2020-10-23
 source: "Majmu' Fatawa 6/262"
 lang: en
 locale: en
-category: [charity,zakah,sadaqah,fatwas]
+category: [fatwas]
 note: false
 excerpt: "A Muslim should be keen to venture means of goodness and avoid means of evil, asking Allah to guide and help them do what pleases Him and avoid every evil."
-binbaz: true
+muftis:
+  shaykh: 
+    - name: Shaykh Ibn Baz
+      url: /biography/binbaz
 ---
 
 ### Question: 
@@ -30,15 +33,15 @@ The Prophet (peace be upon him) also said: "**Allah had ordained the measures (o
 
 The Prophet (may Allah's Peace and Blessings be upon him) also says: "**Every thing is decreed even incapability and ability**" Related by Muslim.[^4]
 
-There are many Ayahs (Qur'anic verses) and Hadiths to this effect. Actions are contingent on their causes as was authentically reported from the Prophet (peace be upon him), saying: "**A man is deprived of provision for a sin he commits. Only kindness prolongs life and only supplication averts the decree.**" [^5] It means that supplication averts only the Predestination, which is contingent on supplication.
+There are many Ayahs (Qur'anic verses) and Hadiths to this effect. Actions are contingent on their causes as was authentically reported from the Prophet (peace be upon him), saying: "**A man is deprived of provision for a sin he commits. Only kindness prolongs life and only supplication averts the decree.**" [^5] it means that supplication averts only the Predestination, which is contingent on supplication.
 
 Also, he (peace be upon him) said: "**Whoever is pleased that he be granted more wealth and that his term of life be prolonged, then he should keep good relations with his Kith and kin.**" [^6]
 
-Predestination is averted by other predestinations that Allah (Glorified be He) decided to counter, and the predestinations whose occurrence is contingent on the existence of things, such as dutifulness to parents, maintaining kinship ties and charity, coexist with them. All these are subject to the generic Predestination mentioned in Allah's saying: "Verily, We have created all things with Qadar (Divine Preordainments of all things before their creation as written in the Book of Decrees Al-Lauh Al-Mahfûz)." [Al-Qamar: 49] 
+Predestination is averted by other predestinations that Allah (Glorified be He) decided to counter, and the predestinations whose occurrence is contingent on the existence of things, such as dutifulness to parents, maintaining kinship ties and charity, coexist with them. All these are subject to the generic Predestination mentioned in Allah's saying: **"Verily, We have created all things with Qadar (Divine Preordainments of all things before their creation as written in the Book of Decrees Al-Lauh Al-Mahfûz)."** [Al-Qamar: 49] 
 
 And the Prophet's saying: "**and believe in the Divine Decree, whether good or bad.**" Examples of this type may be found in the saying of the Prophet (peace be upon him): "**Charity extinguishes (i.e., removes) the sins as water extinguishes fire.**" [^7] 
 
-The Prophet (peace be upon him) also said: "Hidden charity extinguishes the wrath of Allah and saves from an evil death."
+The Prophet (peace be upon him) also said: **"Hidden charity extinguishes the wrath of Allah and saves from an evil death."**
 
 All Ayahs and Hadiths quoted in this regard call a Muslim to believe that he will never be afflicted with anything except what Allah decreed for him and that whatever afflicts him can never escape him and whatever escapes him cannot afflict him. They also urge him to hasten to do good deeds and join others in acts of worship. A Muslim should be keen to venture means of goodness and avoid means of evil, asking Allah to guide and help them do what pleases Him and avoid every evil.
 
