@@ -30,7 +30,7 @@
  {% endfor %}  
  </p>      
 {% endif %}
-{% else %}
+{% elsif post.group1 | post.group2 | post.group3 | post.group4 | post.group5 | post.group6 | post.group7 | post.group8 | post.group9 | post.group10 | post.group11 | post.group12 %}
  <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
  <small><i class="bi bi-mortarboard"></i> Issued by:</small>
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
@@ -43,6 +43,19 @@
   </a>
  </span>
  </p>   
+{% else %} 
+ <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
+ <small><i class="bi bi-mortarboard"></i> Issued by:</small>
+ <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+  <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/">
+   <small>
+    <span itemprop="name">
+     The Permanent Committee for Scholarly Research & Ifta'
+    </span>
+   </small>
+  </a>
+ </span>
+ </p>    
 {% endif %}
  <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
  <span itemprop="datePublished" content="{{ post.date | to_utc | date: "%Y%m%dT%H:%M:%S%:z" }}">
