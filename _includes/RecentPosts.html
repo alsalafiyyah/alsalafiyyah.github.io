@@ -1,49 +1,68 @@
 <section><!-- fatwas widget section -->
+
+<div class="list-group"><!-- posts -->
 <ul class="list-group">
   <li class="list-group-item d-flex justify-content-between align-items-center border-0">
     <h2>{{ site.data.locales[page.locale].page.fatwas }} <i class="bi bi-feather"></i></h2>
     <a href="/fatwas/" class="badge text-bg-danger rounded-pill icon-link">View all <i class="bi bi-chevron-double-right"></i></a>
   </li>
 </ul>
-    <div itemscope itemtype="https://schema.org/NewsArticle" class="list-group">
+
 {% for post in site.posts limit:4 %}
-{% if post.url %}     
-  <a href="{{ post.url }}" class="list-group-item list-group-item-action border-0" aria-current="true">   
-    <meta itemprop="image" content="{{ '/assets/images/fb.jpg' | absolute_url }}" />
-    <div itemprop="headline" class="d-flex w-100 justify-content-between">  
-      <h3 class="mb-1">{{ post.title }}</h3>
-    </div>
-    <p class="mb-1 fst-italic">
-     {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace | remove_first: "Question:" }}
-     </p>
-    <small itemprop="datePublished" content="{{ post.date | to_utc | date: "%Y%m%dT%H:%M:%S%:z" }}">
-      <i class="bi bi-calendar-day"></i> 
-      {{ post.hijri }} // {{ post.date | date: "%b %d, %Y" }}
-    </small>
+{% if post.url %}  
+<div class="list-group-item list-group-item-action border-0" itemscope itemtype="https://schema.org/NewsArticle"><!-- post -->
+
+<a class="list-group-item list-group-item-action border-0 bg-transparent" href="{{ post.url }}" style="padding: 0px !important; margin: 0px !important;">
+ <h3 itemprop="headline" class="mb-1">
+   {{ post.title }}
+ </h3>
+</a>
+
+<meta itemprop="image" content="{{ '/assets/images/fb.jpg' | absolute_url }}" />
+
+<div><!-- post excerpt -->
+ <p class="mb-1 fst-italic">
+  {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace | remove_first: "Question:" }}
+ </p>     
+</div><!-- /post excerpt -->     
+
+<div><!-- post date -->
+ <span itemprop="datePublished" content="{{ post.date | to_utc | date: "%Y%m%dT%H:%M:%S%:z" }}">
+  <small>
+    <i class="bi bi-calendar-day"></i> 
+    {{ post.hijri }} / {{ post.date | date: "%b %d, %Y" }}
+  </small>
+ </span>
+</div><!-- /post date -->
+
+{% if post.muftis %}
+{% if post.muftis.shaykh %}         
+<div><!-- author -->
+<small>Answered by: 
+ {% for shaykh in post.muftis.shaykh %} 
+ <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+  <a itemprop="url" href="{{ shaykh.url }}">
+   <span itemprop="name">
+    {{ shaykh.name }}
+   </span>
   </a>
-     {% if post.muftis %}
-      {% if post.muftis.shaykh %}
-       {% for shaykh in post.muftis.shaykh %}
-        <span><small>Answered by:</small>small></span>
-        <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-          <a itemprop="url" href="{{ shaykh.url }}">
-            <span itemprop="name"><small>{{ shaykh.name }}</small></span>
-          </a>
-        </span>
-       {% endfor %}
-       {% else %}
-       <span><small>Answered by:</small>small></span>
-        <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-          <a itemprop="url" href="{{ shaykh.url }}">
-            <span itemprop="name"><small>Various Scholars</small></span>
-          </a>
-        </span>         
-      {% endif %}
-     {% endif %} 
+ </span>
+ {% endfor %} 
+{% else %}
+ <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+  <a itemprop="url" href="/biography/">
+   <span itemprop="name">
+    Various Scholars
+   </span>
+  </a>
+ </span>     
+</small>
+</div><!-- /author -->    
 {% endif %}
-{% endfor %}
-    </div>
-</section><!-- /fatwas widget section -->
+{% endif %}
+  
+</div><!-- /post -->   
+</div><!-- /posts -->
 
 <section class="mt-5">
 <ul class="list-group">
