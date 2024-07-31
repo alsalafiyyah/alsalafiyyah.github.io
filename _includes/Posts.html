@@ -1,20 +1,56 @@
 <section class="mt-3"><!-- fatwas section -->
+
 <div class="list-group">
-{% for post in paginator.posts %}     
-  <a property="url" href="{{ post.url }}" class="list-group-item list-group-item-action border-0" aria-current="true">
-   <article role="article" itemid="{{ post.url }}" itemscope itemtype="http://schema.org/BlogPosting">   
-    <div class="d-flex w-100 justify-content-between">
-      <header>  
-      <h3 class="mb-1" itemprop="headline">{{ post.title }}</h3>
-      </header>
-    </div>
-    <p class="mb-1 fst-italic">
-     {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace | remove_first: "Question:" }}
-     </p>
-    <small><i class="bi bi-calendar-day"></i> {{ post.hijri }} // {{ post.date | date: "%b %d, %Y" }}</small>
-   </article> 
+
+{% for post in paginator.posts %}
+<div itemscope itemtype="https://schema.org/NewsArticle" class="list-group-item list-group-item-action border-0">
+ <meta itemprop="image" content="{{ '/assets/images/fb.jpg' | absolute_url }}" />   
+ <a href="{{ post.url }}" class="list-group-item list-group-item-action border-0 bg-transparent" style="padding: 0px !important; margin: 0px !important;">
+ <h3 itemprop="headline" class="mb-1">
+  {{ post.title }}
+ </h3>
+ <p class="mb-1 fst-italic">
+  {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace | remove_first: "Question:" }}
+ </p>
+ </a>
+{% if post.muftis %}
+{% if post.muftis.shaykh %}  
+ <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
+ <small><i class="bi bi-mortarboard"></i> Issued by:</small>
+ {% for shaykh in post.muftis.shaykh %}  
+ <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+  <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="{{ shaykh.url }}">
+   <small>
+    <span itemprop="name">
+    {{ shaykh.name }}
+    </span>
+   </small>
   </a>
-  <link itemprop="mainEntityOfPage" href="{{ post.url }}"/>   
+ </span>
+ {% endfor %}  
+ </p>      
+{% endif %}
+{% else %}
+ <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
+ <small><i class="bi bi-mortarboard"></i> Issued by:</small>
+ <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+  <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/">
+   <small>
+    <span itemprop="name">
+     The Permanent Committee for Scholarly Research & Ifta'
+    </span>
+   </small>
+  </a>
+ </span>
+ </p>   
+{% endif %}
+ <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
+ <span itemprop="datePublished" content="{{ post.date | to_utc | date: "%Y%m%dT%H:%M:%S%:z" }}">
+  <small><i class="bi bi-calendar-day"></i> {{ post.hijri }} / {{ post.date | date: "%b %d, %Y" }}</small>
+ </span>
+ </p>
+</div>        
 {% endfor %}
+  
 </div>
 </section><!-- /fatwas section -->
