@@ -42,7 +42,7 @@ a {
    Lang : {{ post.lang }} <br/>
    Locale: {{ post.locale }}
   </td>
-  <td>{{ post.excerpt | truncate: 100 | strip_html | strip }}</td>
+  <td>{{ post.content | truncate: 100 | strip_html | strip }}</td>
   <td>{{ post.category }}</td>
   <td>
    <a type="button" href="https://raw.githubusercontent.com/{{ site.github_username }}/{{ site.git_repo }}/master/{{ post.path }}" target="_blank">
