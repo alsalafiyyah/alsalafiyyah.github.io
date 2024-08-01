@@ -105,8 +105,11 @@ table h3:hover,
 .footnotes::before {
   display: block;
   content: "Footnotes:";
+  font-weight: bold;
+  margin-bottom: 15px;
+  border-bottom: 3px solid;
 }
-sup li a {
+sup li a.footnote {
   background-color: var(--black);
   padding: 5px;
 }
