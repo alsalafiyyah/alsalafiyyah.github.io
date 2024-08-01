@@ -13,6 +13,10 @@ article_taken_from:
   taken_from:
     - web_title: Biography of Shaykh Abdul-Muhsin al-Abbaad
       web_url: https://abdurrahman.org/2017/10/22/scholars-biographies-shaykh-abdul-muhsin-al-abbaad/
+authors:
+  author: 
+    - name: Alsalafiyyah
+      url: alsalafiyyah      
 ---
 
 ### His Name and Lineage:
