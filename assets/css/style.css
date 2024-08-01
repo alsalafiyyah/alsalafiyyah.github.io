@@ -95,3 +95,18 @@ table h3:hover,
 .breadcrumb a:hover {
   color: var(--red) !important;
 }
+.margin-padding-remove {
+ margin: 0px !important;
+ padding: 0px !important;	
+}
+.font-size-16 {
+ font-size: 16px !important;
+}
+.footnotes::before {
+  display: block;
+  content: "Footnotes:";
+}
+sup li a {
+  background-color: var(--black);
+  padding: 5px;
+}
