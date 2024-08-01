@@ -1,0 +1,40 @@
+---
+layout: Page
+title: Categories
+active: categories
+excerpt: Browse all available fatwas by categories.
+permalink: /categories/
+---
+
+<div class="list-group">
+  <a href="/hudud" class="list-group-item list-group-item-action">
+    Hudud
+    <span class="badge text-bg-danger rounded-pill">
+      {{ site.categories.hudud | size }}
+    </span>
+  </a>
+  <a href="/rulership" class="list-group-item list-group-item-action">
+    Rulership
+    <span class="badge text-bg-danger rounded-pill">
+      {{ site.categories.rulership | size }}
+    </span>
+  </a>
+  <a href="/wahhabism" class="list-group-item list-group-item-action">
+    Wahhabism
+    <span class="badge text-bg-danger rounded-pill">
+      {{ site.categories.wahhabism | size }}
+    </span>
+  </a>
+  <a href="/bidah" class="list-group-item list-group-item-action">
+    Bid'ah
+    <span class="badge text-bg-danger rounded-pill">
+      {{ site.categories.bidah | size }}
+    </span>
+  </a>
+  <a href="/sects" class="list-group-item list-group-item-action">
+    Groups & Sects
+    <span class="badge text-bg-danger rounded-pill">
+      {{ site.categories.sects | size }}
+    </span>
+  </a>
+</div>
