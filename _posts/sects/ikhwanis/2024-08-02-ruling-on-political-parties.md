@@ -10,7 +10,7 @@ lang: en
 locale: en
 category: [fatwas,sects]
 note: false
-excerpt: 
+excerpt: "It is not permissible for Muslims to divide into separate religious groups and parties, with members cursing and fighting each other."
 group1: true
 --- 
 
@@ -22,7 +22,9 @@ It is not permissible for Muslims to divide into separate religious groups and p
 
 And Allah (Exalted be He) also says: **"And be not as those who divided and differed among themselves after the clear proofs had come to them. It is they for whom there is an awful torment."**
 
-He (Exalted be He) also says: **"Verily, those who divide their religion and break up into sects (all kinds of religious sects), you (O Muhammad صلى الله عليه وسلم) have no concern in them in the least. Their affair is only with Allâh, Who then will tell them what they used to do.} {Whoever brings a good deed (Islâmic Monotheism and deeds of obedience to Allâh and His Messenger صلى الله عليه وسلم) shall have ten times the like thereof to his credit, and whoever brings an evil deed (polytheism, disbelief, hypocrisy, and deeds of disobedience to Allâh and His Messenger صلى الله عليه وسلم) shall have only the recompense of the like thereof, and they will not be wronged."**
+He (Exalted be He) also says: **"Verily, those who divide their religion and break up into sects (all kinds of religious sects), you (O Muhammad صلى الله عليه وسلم) have no concern in them in the least. Their affair is only with Allâh, Who then will tell them what they used to do."** 
+
+**"Whoever brings a good deed (Islâmic Monotheism and deeds of obedience to Allâh and His Messenger صلى الله عليه وسلم) shall have ten times the like thereof to his credit, and whoever brings an evil deed (polytheism, disbelief, hypocrisy, and deeds of disobedience to Allâh and His Messenger صلى الله عليه وسلم) shall have only the recompense of the like thereof, and they will not be wronged."**
 
 It is authentically reported that the Prophet (peace be upon him) said, **"Do not become Kafirs (disbelievers) after me, striking the necks (cutting the throats) of each other."**
 
@@ -30,7 +32,7 @@ There are many Ayahs (Quranic veeses) and Hadith that condemn factionalism in th
 
 There is no harm, however, if the Muslim ruler organizes the Muslims and apportions activities to them to enable him to manage the duties he is responsible for, in terms of both the religious and worldly affairs of the Muslim community. In fact it is obligatory on every Muslim ruler to appoint people to different positions to carry out the various matters related to daily life and the Din (religion). So he may appoint a group to work in the field of the science of Hadith, its transmission, recording and differentiating between the Sahih (authentic) and Da`if (weak) narrations, etc. He may also appoint another group to understand, record, and teach the texts of the Hadith, and a third group may be appointed to understand the grammar, vocabulary, and expressions used in the Arabic language, and to reveal its secrets. A fourth group may also be trained for Jihad (fighting in the Cause of Allah), defending the Muslim lands, achieving Islamic conquests, and overcoming the obstacles to the dissemination of Islam. A fifth group may be appointed in industrial and agricultural production, and trade, and so on.
 
-These are considered to be the necessities of life, without which no nation can survive. Islam will only be protected and disseminated in this way; by everyone holding fast onto the Qur'an and the guidance of the Messenger of Allah (peace be upon him), his Rightly-Guided Caliphs, and the Salaf (righteous predecessors). Muslim groups should all unite with one goal, to co-operate for the success of Islam, to defend its frontiers, and effect all means that will lead to a happy and easy life. They should all gather under the banner of Islam; following Allah's Straight Path and avoiding the paths of misguided and doomed sects. 
+These are considered to be the necessities of life, without which no nation can survive. **Islam will only be protected and disseminated in this way; by everyone holding fast onto the Qur'an and the guidance of the Messenger of Allah (peace be upon him), his Rightly-Guided Caliphs, and the Salaf (righteous predecessors)**. Muslim groups should all unite with one goal, to co-operate for the success of Islam, to defend its frontiers, and effect all means that will lead to a happy and easy life. They should all gather under the banner of Islam; following Allah's Straight Path and avoiding the paths of misguided and doomed sects. 
 
 Allah (Exalted be He) says: **"And verily, this (i.e. Allâh’s Commandments mentioned in the above two Verses 151 and 152) is My Straight Path, so follow it, and follow not (other) paths, for they will separate you away from His Path. This He has ordained for you that you may become Al-Muttaqûn (the pious - see V.2:2)."**
 
