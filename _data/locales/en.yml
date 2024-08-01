@@ -97,7 +97,7 @@ page:
   similar_fatwas: Similar Fatwas
   comments: Comments
   comment: Comment
-  selected_fatwas: Highlighted Fatwas
+  selected_fatwas: Selected Fatwas
   book: Book
   vol: Vol
   end: "May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions."
@@ -106,3 +106,13 @@ page:
   member: Member
   members: Members
   alifta_scholars: The Permanent Committee for Scholarly Research & Ifta
+  created_at: Created at
+  hashtags: Hashtag 
+  back_to_top: Back to tp
+  all_rights_reserved: All rights reserved
+  powered_by: Powered by
+  github: GitHub
+  instagram: Instagram
+  twitter_x: Twitter X
+  telegram: Telegram
+  whatsapp: Whatsapp
