@@ -14,8 +14,8 @@ git_repo: alsalafiyyah.github.io
 github: [metadata]
 encoding: UTF-8
 permalink: pretty
-paginate: 20
-paginate_path: "/fatwas/:num/"
+paginate: nil
+paginate_path: nil
 markdown: kramdown
 safe: true
 future: true
@@ -49,7 +49,7 @@ exclude:
 pagination:
   enabled: true
   per_page: 2
-  permalink: '/page/:num/'
+  permalink: '/fatwas/:num/'
   title: ' - page :num'
   limit: 0
   sort_field: 'date'
