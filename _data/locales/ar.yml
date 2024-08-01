@@ -19,6 +19,8 @@ nav:
   - name: مقالات
     url: /ar/muqolat
     active: muqolat
+  - name: سيرة
+    url: /ar/biography/
   - name: التصنيفات
     url: /ar/category
     active: category
