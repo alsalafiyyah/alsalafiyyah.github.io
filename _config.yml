@@ -107,25 +107,25 @@ defaults:
       type: posts
     values:
       layout: post
-      permalink: /audios/:title
+      permalink: /audios/:title/
   - scope:
       path: "_posts/muqolat/**"
       type: posts
     values:
       layout: post
-      permalink: /muqolat/:title      
+      permalink: /muqolat/:title/      
   - scope:
       path: "_posts/wahhabism/**"
       type: posts
     values:
       layout: post
-      permalink: /wahhabism/:title
+      permalink: /wahhabism/:title/
   - scope:
       path: "_posts/biography/**"
       type: posts
     values:
       layout: post
-      permalink: /biography/:title     
+      permalink: /biography/:title/     
   - scope:
       path: "_pages"
       type: "pages"
