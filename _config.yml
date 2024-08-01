@@ -147,6 +147,22 @@ collections:
     output: true        
     locale: en
     permalink: /:collection/:slug
+  biography: 
+    output: true        
+    locale: en
+    permalink: /biography/:slug
+  muqolat: 
+    output: true        
+    locale: en
+    permalink: /muqolat/:slug
+  wahhabism: 
+    output: true        
+    locale: en
+    permalink: /wahhabism/:slug
+  audios: 
+    output: true        
+    locale: en
+    permalink: /audios/:slug
 
 
 # Alifta Scholars
