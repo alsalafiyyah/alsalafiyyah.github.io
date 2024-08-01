@@ -9,7 +9,7 @@
         itemprop="relatedLink/pagination" 
         rel="prev">
         <i class="bi bi-chevron-double-left text-danger"></i> 
-        Prev
+        {{ site.data.locales[page.locale].page.prev }}
       </a>
     </li>
     {% else %}
@@ -24,7 +24,7 @@
         itemprop="relatedLink/pagination" 
         rel="next" 
         class="page-link icon-link shadow-none border-danger bg-transparent text-danger">
-        Next 
+        {{ site.data.locales[page.locale].page.next }} 
         <i class="bi bi-chevron-double-right"></i>
       </a>
     </li>
