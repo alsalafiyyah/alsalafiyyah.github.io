@@ -8,6 +8,10 @@ hijri: Dhul-Hijjah 3, 1441
 lang: en
 locale: en
 excerpt: "What do you say to one who believes that the 'Aqidah (creed) of Al-Khawarij followed the 'Aqidah of Salafiyyah."
+article_taken_from: 
+  taken_from:
+    - web_title: حقيقة عقيدة الخوارج
+      web_url: https://binbaz.org.sa/fatwas/20152/%C2%A0%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%B9%D9%82%D9%8A%D8%AF%D8%A9-%D8%A7%D9%84%D8%AE%D9%88%D8%A7%D8%B1%D8%AC
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
@@ -20,7 +24,9 @@ What do you say to one who believes that the 'Aqidah (creed) of Al-Khawarij foll
 
 ### Answer:
 
-This is a false claim that was nullified by the Prophet (peace be upon him) who stated regarding Al-Khawarij: "**A group of rebels will emerge from my Ummah when they are separated. If you compare your prayers with their prayers and your recitation with their recitation, you will look down upon your prayer and recitation, in comparison to theirs. Yet they will go out of Islam as an arrow goes through the body of the prey. Kill them wherever you find them, for whoever kills them shall have reward.**" [^1]
+This is a false claim that was nullified by the Prophet (peace be upon him) who stated regarding Al-Khawarij: 
+
+"**A group of rebels will emerge from my Ummah when they are separated. If you compare your prayers with their prayers and your recitation with their recitation, you will look down upon your prayer and recitation, in comparison to theirs. Yet they will go out of Islam as an arrow goes through the body of the prey. Kill them wherever you find them, for whoever kills them shall have reward.**" [^1]
 
 There is another narration reported from the Prophet (peace be upon him) regarding Al-Khawarij: "**They would kill Muslims and spare the idolaters.**" [^2]
 
