@@ -54,7 +54,8 @@ footer, .footer {
  margin-bottom: 30px;
 }
 #navbar{
-  background: transparent !important;
+  background-color: rgba(255,255,255,0.5) !important;
+  -webkit-backdrop-filter: blur(10px);
   backdrop-filter: blur(10px);
 }
 .nav {
