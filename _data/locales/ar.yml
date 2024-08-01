@@ -6,6 +6,8 @@ site:
   ar: "عربي"
   en: "en"
   url_search: /ar/search
+  url_fatwas_widget: /ar/fatwas
+  url_audios_widget: /ar/audios
 
 nav:
   - name: فتاوى
