@@ -57,6 +57,13 @@
        </span>
         entries
       </span>
+       {% elsif page.active == "rulership" %}
+      <span class="badge text-bg-light">
+       <span class="badge text-bg-danger rounded-pill">
+         {{ site.categories.rulership | size }}
+       </span>
+        entries
+      </span>
       {% else %}
      {% endif %}
   </li>
