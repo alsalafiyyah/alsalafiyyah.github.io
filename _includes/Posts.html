@@ -23,12 +23,12 @@
   <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="{{ chairman.url }}">
    <small>
     <span itemprop="name">
-     {{ chairman.name }}
+     {{ chairman.name | append: " & others" }}
     </span>
    </small>
   </a>
  </span>
- {% endfor %} & others
+ {% endfor %}
  </p> 
 {% elsif post.muftis.deputy_chairman %} 
 <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
@@ -38,12 +38,12 @@
   <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="{{ deputy.url }}">
    <small>
     <span itemprop="name">
-     {{ deputy.name }}
+     {{ deputy.name | append: " & others" }}
     </span>
    </small>
   </a>
  </span>
- {% endfor %} & others
+ {% endfor %}
  </p>   
 {% endif %} 
 {% endif %}
