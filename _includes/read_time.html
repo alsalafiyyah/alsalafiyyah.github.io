@@ -1,8 +1,8 @@
 <span class="reading-time" title="Estimated read time">
   {% assign words = content | number_of_words %}
   {% if words < 360 %}
-    <span class="badge text-bg-danger">1</span> min read
+    <span class="badge text-bg-danger">1</span> {{ site.data.locales[page.locale].page.minute_read }}
   {% else %}
-    <span class="badge text-bg-danger">{{ words | divided_by:180 }}</span> mins read
+    <span class="badge text-bg-danger">{{ words | divided_by:180 }}</span> {{ site.data.locales[page.locale].page.minute_read }}
   {% endif %}
 </span>
