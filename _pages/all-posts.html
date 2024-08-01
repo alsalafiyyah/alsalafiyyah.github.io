@@ -5,10 +5,11 @@ permalink: /all-posts/
 ---
 
 <ol>
-{% assign posts = paginator.posts | where: "lang", page.lang %}
+{% assign posts = paginator.posts | where: "locale", page.locale %}
 {% for post in posts %}
  <li>
     {{ post.title }}
  </li>
 {% endfor %}
 </ol>
+{% include Pagination.html %}
