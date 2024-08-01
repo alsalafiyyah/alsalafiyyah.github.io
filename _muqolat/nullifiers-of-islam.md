@@ -5,6 +5,7 @@ publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
 source: "Majmu' Fatawa 1/130"
 hijri: Dhul-Hijjah 27, 1441
 date: 2020-08-17
+permalink: /muqolat/nullifiers-of-islam/
 excerpt: "A Muslim should know that Allah has made it obligatory for all mankind to embrace Islam, firmly abide by it and avoid what contradicts it."
 active: muqolat
 locale: en
