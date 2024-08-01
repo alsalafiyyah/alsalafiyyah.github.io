@@ -479,7 +479,7 @@
         <span>
           <time itemprop="datePublished" datetime="{{ page.date | date_to_string }}"> 
           {% if page.hijri %}
-            {{ site.data.locales[page.locale].page.date }}:      
+            {{ site.data.locales[page.locale].page.created_at }}:      
             <b>{{ page.hijri }}</b> 
            {% if page.date %}
             <b>{{ page.date | date_to_string | prepend: " — " }}</b>
