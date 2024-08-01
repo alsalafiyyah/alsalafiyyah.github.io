@@ -10,4 +10,5 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "liquid"
   gem "github-pages"
+  gem "jekyll-paginate-v2"
 end
