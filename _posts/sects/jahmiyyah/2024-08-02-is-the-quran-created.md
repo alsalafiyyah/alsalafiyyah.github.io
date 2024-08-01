@@ -16,9 +16,9 @@ muftis:
     - name: Shaykh Ibn Baz
       url: /biography/binbaz/
   members: 
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh/
-      url: /biography/abdulaziz  
-    - name: Shaykh Abdullah ibn Ghudayyan/
+    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+      url: /biography/abdulaziz/
+    - name: Shaykh Abdullah ibn Ghudayyan
       url: /biography/ghudayyan/
     - name: Shaykh Salih Al-Fawzan
       url: /biography/fawzan/
