@@ -9,21 +9,21 @@ source: "Fatawa al-Lajnah ad-Da'imah 3/15-16, Fatwa no. 17521, Question 1"
 lang: en
 locale: en
 category: [fatwas,sects,refutals]
-note: true
+note: false
 excerpt: "The Qur'an is the Words of Allah, not created. So, whoever claims that the Qur'an is created is a Jahmite and a disbeliever."
-group2:
+muftis:
   chairman: 
     - name: Shaykh Ibn Baz
-      url: /biography/binbaz
+      url: /biography/binbaz/
   members: 
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    - name: Shaykh Abdul-Aziz Aal Al-Shaykh/
       url: /biography/abdulaziz  
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan
+    - name: Shaykh Abdullah ibn Ghudayyan/
+      url: /biography/ghudayyan/
     - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan
+      url: /biography/fawzan/
     - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr
+      url: /biography/bakr/
 --- 
 
 ### Question: 
