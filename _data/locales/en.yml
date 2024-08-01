@@ -6,6 +6,8 @@ site:
   ar: "عربي"
   en: "en"
   url_search: /search
+  url_fatwas_widget: /fatwas
+  url_audios_widget: /audios
 
 nav:
   - name: Fatwas
@@ -26,7 +28,7 @@ nav:
     url: /radd/    
 
 aside_quick_links:
-  - name: Bid'ahs
+  - name: Bid'ah
     url: /bidah/
   - name: Wahhabism
     url: /wahhabism/
@@ -68,12 +70,12 @@ page:
   language: Language
   languages: Languages
   mufti: Mufti
-  muftis: Mufti(s)
+  muftis: Muftis
   date: Created at
   created_at: Created at
   last_updated: Last updated
   fatwa_num: Fatwa No.
-  source: Source(s)
+  source: Source
   website_is_under_maintenance: Website is under maintenance
   notSupportaudio: Your browser does not support the audio element.
   404: "The page you requested does not exist"
@@ -94,6 +96,7 @@ page:
   rss_feed: RSS Feed
   similar_fatwas: Similar Fatwas
   comments: Comments
+  comment: Comment
   selected_fatwas: Highlighted Fatwas
   book: Book
   vol: Vol
@@ -102,3 +105,4 @@ page:
   chairman: Chairman
   member: Member
   members: Members
+  alifta_scholars: The Permanent Committee for Scholarly Research & Ifta
