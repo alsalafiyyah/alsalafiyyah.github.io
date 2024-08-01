@@ -9,19 +9,19 @@
   <ul class="list-group list-group-flush">  
    {% if site.group1.chairman %}
     <li class="list-group-item">
-     {{ site.data.locales[page.locale].page.chairman }} : 
+     {{ site.data.locales[page.locale].page.chairman | append: " : " }}
     {% for chairman in site.group1.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
     </li>
    {% endif %} 
    {% if site.group1.deputy_chairman %}
      <li class="list-group-item">
-      {{ site.data.locales[page.locale].page.deputy_chairman }}: 
+      {{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}
       {% for deputy_chairman in site.group1.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
      </li>
    {% endif %}      
    {% if site.group1.members %}
      <li class="list-group-item">
-        {{ site.data.locales[page.locale].page.members }} : 
+        {{ site.data.locales[page.locale].page.members | append: " : " }}
         <ol>
          {% for members in site.group1.members %}
          <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
@@ -43,19 +43,19 @@
    <ul class="list-group list-group-flush"> 
    {% if site.group2.chairman %}
     <li class="list-group-item">
-     {{ site.data.locales[page.locale].page.chairman }} : 
+     {{ site.data.locales[page.locale].page.chairman | append: " : " }}
     {% for chairman in site.group2.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
     </li>
    {% endif %} 
    {% if site.group2.deputy_chairman %}
      <li class="list-group-item">
-       {{ site.data.locales[page.locale].page.deputy_chairman }} : 
+       {{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}
       {% for deputy_chairman in site.group2.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
      </li>
    {% endif %}      
    {% if site.group2.members %}
      <li class="list-group-item">
-        {{ site.data.locales[page.locale].page.members }} : 
+        {{ site.data.locales[page.locale].page.members | append: " : " }}
         <ol>
          {% for members in site.group2.members %}
          <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
@@ -77,19 +77,19 @@
    <ul class="list-group list-group-flush"> 
    {% if site.group3.chairman %}
     <li class="list-group-item">
-    {{ site.data.locales[page.locale].page.chairman }} : 
+    {{ site.data.locales[page.locale].page.chairman | append: " : " }}
     {% for chairman in site.group3.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
     </li>
    {% endif %} 
    {% if site.group3.deputy_chairman %}
      <li class="list-group-item">
-       {{ site.data.locales[page.locale].page.deputy_chairman }} : 
+       {{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}
       {% for deputy_chairman in site.group3.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
      </li>
    {% endif %}      
    {% if site.group3.members %}
      <li class="list-group-item">
-        {{ site.data.locales[page.locale].page.members }} : 
+        {{ site.data.locales[page.locale].page.members | append: " : " }}
         <ol>
          {% for members in site.group3.members %}
          <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
@@ -111,19 +111,19 @@
    <ul class="list-group list-group-flush"> 
    {% if site.group4.chairman %}
     <li class="list-group-item">
-     {{ site.data.locales[page.locale].page.chairman }} : 
+     {{ site.data.locales[page.locale].page.chairman | append: " : " }}
     {% for chairman in site.group4.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
     </li>
    {% endif %} 
    {% if site.group4.deputy_chairman %}
      <li class="list-group-item">
-       {{ site.data.locales[page.locale].page.deputy_chairman }} : 
+       {{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}
       {% for deputy_chairman in site.group4.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
      </li>
    {% endif %}      
    {% if site.group4.members %}
      <li class="list-group-item">
-        {{ site.data.locales[page.locale].page.members }} : 
+        {{ site.data.locales[page.locale].page.members | append: " : " }}
         <ol>
          {% for members in site.group4.members %}
          <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
@@ -145,19 +145,19 @@
    <ul class="list-group list-group-flush"> 
    {% if site.group5.chairman %}
     <li class="list-group-item">
-     {{ site.data.locales[page.locale].page.chairman }} : 
+     {{ site.data.locales[page.locale].page.chairman | append: " : " }}
     {% for chairman in site.group5.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
     </li>
    {% endif %} 
    {% if site.group5.deputy_chairman %}
      <li class="list-group-item">
-       {{ site.data.locales[page.locale].page.deputy_chairman }} : 
+       {{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}
       {% for deputy_chairman in site.group5.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
      </li>
    {% endif %}      
    {% if site.group5.members %}
      <li class="list-group-item">
-        {{ site.data.locales[page.locale].page.members }} : 
+        {{ site.data.locales[page.locale].page.members | append: " : " }}
         <ol>
          {% for members in site.group5.members %}
          <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
@@ -179,19 +179,19 @@
    <ul class="list-group list-group-flush"> 
    {% if site.group6.chairman %}
     <li class="list-group-item">
-     {{ site.data.locales[page.locale].page.chairman }} : 
+     {{ site.data.locales[page.locale].page.chairman | append: " : " }}
     {% for chairman in site.group6.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
     </li>
    {% endif %} 
    {% if site.group6.deputy_chairman %}
      <li class="list-group-item">
-       {{ site.data.locales[page.locale].page.deputy_chairman }} : 
+       {{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}
       {% for deputy_chairman in site.group6.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
      </li>
    {% endif %}      
    {% if site.group6.members %}
      <li class="list-group-item">
-        {{ site.data.locales[page.locale].page.members }} : 
+        {{ site.data.locales[page.locale].page.members | append: " : " }}
         <ol>
          {% for members in site.group6.members %}
          <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
@@ -213,19 +213,19 @@
    <ul class="list-group list-group-flush"> 
    {% if site.group7.chairman %}
     <li class="list-group-item">
-     {{ site.data.locales[page.locale].page.chairman }} : 
+     {{ site.data.locales[page.locale].page.chairman | append: " : " }}
     {% for chairman in site.group7.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
     </li>
    {% endif %} 
    {% if site.group7.deputy_chairman %}
      <li class="list-group-item">
-       {{ site.data.locales[page.locale].page.deputy_chairman }} : 
+       {{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}
       {% for deputy_chairman in site.group7.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
      </li>
    {% endif %}      
    {% if site.group7.members %}
      <li class="list-group-item">
-        {{ site.data.locales[page.locale].page.members }} : 
+        {{ site.data.locales[page.locale].page.members | append: " : " }}
         <ol>
          {% for members in site.group7.members %}
          <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
@@ -247,13 +247,13 @@
    <ul class="list-group list-group-flush"> 
    {% if site.group8.chairman %}
     <li class="list-group-item">
-     {{ site.data.locales[page.locale].page.chairman }} : 
+     {{ site.data.locales[page.locale].page.chairman | append: " : " }}
     {% for chairman in site.group8.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
     </li>
    {% endif %} 
    {% if site.group8.members %}
      <li class="list-group-item">
-        {{ site.data.locales[page.locale].page.members }} : 
+        {{ site.data.locales[page.locale].page.members | append: " : " }}
         <ol>
          {% for members in site.group8.members %}
          <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
@@ -275,19 +275,19 @@
    <ul class="list-group list-group-flush"> 
    {% if site.group9.chairman %}
     <li class="list-group-item">
-     {{ site.data.locales[page.locale].page.chairman }} : 
+     {{ site.data.locales[page.locale].page.chairman | append: " : " }}
     {% for chairman in site.group9.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
     </li>
    {% endif %} 
    {% if site.group9.deputy_chairman %}
      <li class="list-group-item">
-       {{ site.data.locales[page.locale].page.deputy_chairman }} : 
+       {{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}
       {% for deputy_chairman in site.group9.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
      </li>
    {% endif %}      
    {% if site.group9.members %}
      <li class="list-group-item">
-        {{ site.data.locales[page.locale].page.members }} : 
+        {{ site.data.locales[page.locale].page.members | append: " : " }}
         <ol>
          {% for members in site.group9.members %}
          <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
@@ -309,13 +309,13 @@
    <ul class="list-group list-group-flush"> 
    {% if site.group10.chairman %}
     <li class="list-group-item">
-     {{ site.data.locales[page.locale].page.chairman }} : 
+     {{ site.data.locales[page.locale].page.chairman | append: " : " }}
     {% for chairman in site.group10.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
     </li>
    {% endif %} 
    {% if site.group10.members %}
      <li class="list-group-item">
-        {{ site.data.locales[page.locale].page.members }} : 
+        {{ site.data.locales[page.locale].page.members | append: " : " }}
         <ol>
          {% for members in site.group10.members %}
          <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
@@ -337,19 +337,19 @@
    <ul class="list-group list-group-flush"> 
    {% if site.group11.chairman %}
     <li class="list-group-item">
-     {{ site.data.locales[page.locale].page.chairman }} : 
+     {{ site.data.locales[page.locale].page.chairman | append: " : " }}
     {% for chairman in site.group11.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
     </li>
    {% endif %} 
    {% if site.group11.deputy_chairman %}
      <li class="list-group-item">
-       {{ site.data.locales[page.locale].page.deputy_chairman }} : 
+       {{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}
       {% for deputy_chairman in site.group11.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
      </li>
    {% endif %}      
    {% if site.group11.members %}
      <li class="list-group-item">
-        {{ site.data.locales[page.locale].page.members }} : 
+        {{ site.data.locales[page.locale].page.members | append: " : " }}
         <ol>
          {% for members in site.group11.members %}
          <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
@@ -371,13 +371,13 @@
    <ul class="list-group list-group-flush"> 
    {% if site.group12.chairman %}
     <li class="list-group-item">
-     {{ site.data.locales[page.locale].page.chairman }} : 
+     {{ site.data.locales[page.locale].page.chairman | append: " : " }}
     {% for chairman in site.group12.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
     </li>
    {% endif %} 
    {% if site.group12.deputy_chairman %}
      <li class="list-group-item">
-       {{ site.data.locales[page.locale].page.deputy_chairman }} : 
+       {{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}
       {% for deputy_chairman in site.group12.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
      </li>
    {% endif %}    
@@ -395,13 +395,13 @@
    <ul class="list-group list-group-flush"> 
    {% if site.group13.chairman %}
     <li class="list-group-item">
-     {{ site.data.locales[page.locale].page.chairman }} : 
+     {{ site.data.locales[page.locale].page.chairman  | append: " : " }}
     {% for chairman in site.group13.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
     </li>
    {% endif %} 
    {% if site.group13.members %}
      <li class="list-group-item">
-        {{ site.data.locales[page.locale].page.members }} : 
+        {{ site.data.locales[page.locale].page.members  | append: " : " }}
         <ol>
          {% for members in site.group13.members %}
          <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
@@ -447,13 +447,13 @@
    {% endif %} 
    {% if page.muftis.deputy_chairman %}
      <li class="list-group-item">
-      {{ site.data.locales[page.locale].page.deputy_chairman }} : 
+      {{ site.data.locales[page.locale].page.deputy_chairman  | append: " : " }}
       {% for deputy_chairman in page.muftis.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
      </li>
    {% endif %}      
    {% if page.muftis.members %}
      <li class="list-group-item">
-        {{ site.data.locales[page.locale].page.members }} : 
+        {{ site.data.locales[page.locale].page.members  | append: " : " }}
         <ol>
          {% for members in page.muftis.members %}
          <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
@@ -479,7 +479,7 @@
         <span>
           <time itemprop="datePublished" datetime="{{ page.date | date_to_string }}"> 
           {% if page.hijri %}
-            {{ site.data.locales[page.locale].page.created_at }}:      
+            {{ site.data.locales[page.locale].page.created_at  | append: " : " }}     
             <b>{{ page.hijri }}</b> 
            {% if page.date %}
             <b>{{ page.date | date_to_string | prepend: " — " }}</b>
@@ -493,7 +493,7 @@
        </li>
  {% if page.source %}
    <li class="list-group-item">
-   {{ site.data.locales[page.locale].page.source }}: <b>{{ page.source }}</b> {% else %}
+   {{ site.data.locales[page.locale].page.source | append: " : " }} <b>{{ page.source }}</b> {% else %}
     </li>
  {% endif %}
  
@@ -501,7 +501,7 @@
    {% if page.article_taken_from.taken_from %}
     {% for p in page.article_taken_from.taken_from %}
        <li class="list-group-item">
-        Ref: <a class="icon-link" href="{{ p.web_url }}" target="_blank" rel="nofollow"><b>{{ p.web_title }} <i class="bi bi-box-arrow-up-right"></i></b></a>
+        {{ site.data.locales[page.locale].page.ref | append: " : " }} <a class="icon-link" href="{{ p.web_url }}" target="_blank" rel="nofollow"><b>{{ p.web_title }} <i class="bi bi-box-arrow-up-right"></i></b></a>
        </li>
     {% endfor %}
    {% endif %}
@@ -509,7 +509,7 @@
 
   {% if page.translated_by %}
    <li class="list-group-item">
-   Translated by: <b>{{ page.translated_by }}</b> {% else %}
+    {{ site.data.locales[page.locale].page.translated_by | append: " : " }} <b>{{ page.translated_by }}</b> {% else %}
     </li>
  {% endif %}
 
@@ -534,7 +534,7 @@
 
 <div class="card bg-transparent border-danger mt-4">
   <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
-    {{ site.data.locales[page.locale].page.share_on }}
+    {{ site.data.locales[page.locale].page.share_on | append: " : " }}
   </div>
   <div class="card-body">
   <div class="mt-3">  
