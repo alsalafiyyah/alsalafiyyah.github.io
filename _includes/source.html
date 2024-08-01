@@ -441,7 +441,7 @@
    <ul class="list-group list-group-flush"> 
    {% if page.muftis.chairman %}
     <li class="list-group-item">
-     {{ site.data.locales[page.locale].page.chairman }} : 
+     {{ site.data.locales[page.locale].page.chairman | append: " : " }}
     {% for chairman in page.muftis.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
     </li>
    {% endif %} 
@@ -479,7 +479,7 @@
         <span>
           <time itemprop="datePublished" datetime="{{ page.date | date_to_string }}"> 
           {% if page.hijri %}
-            {{ site.data.locales[page.locale].page.created_at  | append: " : " }}     
+            {{ site.data.locales[page.locale].page.created_at | append: " : " }}     
             <b>{{ page.hijri }}</b> 
            {% if page.date %}
             <b>{{ page.date | date_to_string | prepend: " — " }}</b>
