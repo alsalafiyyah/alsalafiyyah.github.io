@@ -28,7 +28,7 @@ He (Exalted be He) also says: **"Verily, those who divide their religion and bre
 
 It is authentically reported that the Prophet (peace be upon him) said, **"Do not become Kafirs (disbelievers) after me, striking the necks (cutting the throats) of each other."**
 
-There are many Ayahs (Quranic veeses) and Hadith that condemn factionalism in the Din (religion).
+There are many Ayahs (Quranic verses) and Hadith that condemn factionalism in the Din (religion).
 
 There is no harm, however, if the Muslim ruler organizes the Muslims and apportions activities to them to enable him to manage the duties he is responsible for, in terms of both the religious and worldly affairs of the Muslim community. In fact it is obligatory on every Muslim ruler to appoint people to different positions to carry out the various matters related to daily life and the Din (religion). So he may appoint a group to work in the field of the science of Hadith, its transmission, recording and differentiating between the Sahih (authentic) and Da`if (weak) narrations, etc. He may also appoint another group to understand, record, and teach the texts of the Hadith, and a third group may be appointed to understand the grammar, vocabulary, and expressions used in the Arabic language, and to reveal its secrets. A fourth group may also be trained for Jihad (fighting in the Cause of Allah), defending the Muslim lands, achieving Islamic conquests, and overcoming the obstacles to the dissemination of Islam. A fifth group may be appointed in industrial and agricultural production, and trade, and so on.
 
