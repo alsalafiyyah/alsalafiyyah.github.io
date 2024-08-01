@@ -2,7 +2,7 @@
 <div class="collapse" id="navbarToggleExternalContent" data-bs-theme="dark">  
  <div class="bg-dark p-4" itemscope itemtype="http://schema.org/WebSite">
    <p class="text-body-emphasis">
-     Search
+     {{ site.data.locales[page.locale].page.search }}
    </p>
   <meta itemprop="url" content="{{ site.data.locales[page.locale].site.url }}"/>
   <form class="d-flex" role="search" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" action="{{ site.data.locales[page.locale].site.url_search }}">
@@ -21,7 +21,7 @@
     pattern=".{3,}" 
     title="At least 3 characters" 
     required>
-  <button class="btn btn-danger" type="submit" id="button-addon2">Search</button>
+  <button class="btn btn-danger" type="submit" id="button-addon2">{{ site.data.locales[page.locale].page.search }}</button>
 </div>            
     </form>
   </div>
