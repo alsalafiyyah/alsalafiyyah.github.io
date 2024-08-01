@@ -29,6 +29,9 @@ note:
 include:
   - _pages
 
+gems:
+  - jekyll-paginate-v2
+
 plugins:
   - jekyll-feed
   - jekyll-paginate
@@ -42,6 +45,15 @@ exclude:
   - Gemfile
   - .gitignore
   - Gemfile.lock
+
+pagination:
+  enabled: true
+  per_page: 2
+  permalink: '/page/:num/'
+  title: ' - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
 
 Tags: '/tags/'
 tag_page: '/tags/'
