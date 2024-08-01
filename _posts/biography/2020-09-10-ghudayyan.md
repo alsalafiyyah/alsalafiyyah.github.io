@@ -8,7 +8,11 @@ active: biography
 locale: en
 lang: en
 category: [biography]
-excerpt: Shaykh Abdullah ibn Abdul-Rahman ibn Abdul-Razzaq Al-Ghudayyan Al-Tamimi. He descended from Al-Muhaddith from Banu Al-'Anbar from Banu 'Amr ibn Tamim.
+excerpt: "Shaykh Abdullah ibn Abdul-Rahman ibn Abdul-Razzaq Al-Ghudayyan Al-Tamimi. He descended from Al-Muhaddith from Banu Al-'Anbar from Banu 'Amr ibn Tamim."
+authors:
+  author: 
+    - name: Alsalafiyyah
+      url: alsalafiyyah
 ---
 
 ### His Name and Lineage: 
