@@ -22,6 +22,41 @@
   {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace | remove_first: "Question:" }}
  </p>
  </a>
+
+{% if post.muftis %}
+{% if post.muftis.chairman %} 
+<p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
+ <small><i class="bi bi-feather"></i> {{ site.data.locales[page.locale].page.issued_by | append: ":" }}</small>
+ {% for chairman in post.muftis.chairman %}
+ <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+  <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="{{ chairman.url }}">
+   <small>
+    <span itemprop="name">
+     {{ chairman.name | append: " & others" }}
+    </span>
+   </small>
+  </a>
+ </span>
+ {% endfor %}
+ </p> 
+{% elsif post.muftis.deputy_chairman %} 
+<p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
+ <small><i class="bi bi-feather"></i> {{ site.data.locales[page.locale].page.issued_by | append: ":" }}</small>
+ {% for deputy in post.muftis.deputy_chairman %}
+ <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+  <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="{{ deputy.url }}">
+   <small>
+    <span itemprop="name">
+     {{ deputy.name | append: " & others" }}
+    </span>
+   </small>
+  </a>
+ </span>
+ {% endfor %}
+ </p>   
+{% endif %} 
+{% endif %}  
+  
 {% if post.muftis %}
 {% if post.muftis.shaykh %}  
  <p class="text-body-secondary font-size-16 margin-padding-remove" style="padding: 0px !important; margin: 0px !important; font-size: 16px !important;">
