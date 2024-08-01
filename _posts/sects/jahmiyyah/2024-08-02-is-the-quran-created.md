@@ -27,7 +27,7 @@ group2:
 --- 
 
 ### Question: 
-Imam Ahmad ibn Hanbal stated in his book [As-Sunnah]: ****"The Qur'an is the Words of Allah, not created. So, whoever claims that the Qur'an is created is a Jahmite[^1], and a Kafir (disbeliever)."**** I would like to know from Your Eminence why those who claim that the Qur'an was created are considered Kafirs and judged as such by Imam Ahmad (may Allah be merciful to him)?
+Imam Ahmad ibn Hanbal stated in his book [As-Sunnah]: ***"The Qur'an is the Words of Allah, not created. So, whoever claims that the Qur'an is created is a Jahmite[^1], and a Kafir (disbeliever)."*** I would like to know from Your Eminence why those who claim that the Qur'an was created are considered Kafirs and judged as such by Imam Ahmad (may Allah be merciful to him)?
 
 ### Answer: 
 The Qur'an is truly the Word of Allah. It was sent down to our Prophet Muhammad (peace be upon him) as a revelation. Allah (Exalted be He) states: 
