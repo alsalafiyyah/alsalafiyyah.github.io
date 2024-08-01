@@ -2,13 +2,12 @@
 layout: post
 title: "Ruling on rebel against the rulers"
 publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat p. 8/202"
-category: ["rulership"]
+source: "Majmu' Fatawa wa Maqalat 8/202"
+category: [fatwas,rulership]
 hijri: Dhul-Qa'dah 30, 1441 AH
 lang: en
 note: false
 locale: en
-uid: ruling-on-rebel
 excerpt: "The Nas from the Sunnah explains the meaning and confines the absoluteness of the Ayah to obeying the Muslims in authority in what is judged to be Ma‘ruf."
 muftis:
   shaykh: 
@@ -16,11 +15,11 @@ muftis:
       url: /biography/binbaz/
 ---
 
-Question: 
+### Question: 
 
 Your Eminence Shaykh, there are people who think that, because some of the rulers commit major sins, we are obliged to rebel against them and attempt to change the status quo, even if this results in harm to the Muslims in that country and despite the many problems that the Muslim world is facing. What is your opinion?
 
-Answer: 
+### Answer: 
 
 Allah (Glorified and Exalted be He) says: "**O you who believe! Obey Allâh and obey the Messenger (Muhammad صلى الله عليه وسلم), and those of you (Muslims) who are in authority. (And) if you differ in anything amongst yourselves, refer it to Allâh and His Messenger (صلى الله عليه وسلم), if you believe in Allâh and in the Last Day. That is better and more suitable for final determination.**" [an-Nisa: 59] 
 
