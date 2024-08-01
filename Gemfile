@@ -9,4 +9,5 @@ group :jekyll_plugins do
   gem "jekyll-remote-theme"
   gem "liquid"
   gem "jekyll-paginate-v2"
+  gem "jekyll-paginate"
 end
