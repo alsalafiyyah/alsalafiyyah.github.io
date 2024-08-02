@@ -79,9 +79,6 @@ manifest_short_name:
 manifest_display: standalone
       
 defaults:
-  # default en
-  - values:
-      locale: en
   - scope:
       path: "_posts/**"
       type: posts
