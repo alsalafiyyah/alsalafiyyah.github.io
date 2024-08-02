@@ -2,12 +2,14 @@
 layout: compress
 ---
 <!DOCTYPE html>
-<html lang="{% if page.locale %}{{ page.locale }}{% elsif page.lang %}{{ page.lang }}{% else %}en{% endif %}">
+<html 
+ lang="{% if page.locale %}{{ page.locale }}{% elsif page.lang %}{{ page.lang }}{% else %}en{% endif %}" 
+ {% if page.locale == 'ar' %}dir="rtl"{% endif %}>
 <head>
 {% include metadata.html %}
 </head>
 <body role="document" itemscope itemtype="https://schema.org/WebPage" onload="setModifiedDate(); setAccessedDate();" 
- class="is-preload" {% if page.locale == 'ar' %}dir="rtl"{% endif %}>
+ class="is-preload">
 {% include Header.html %}
 <main role="main" class="container-md flex-shrink-0"><!-- main -->
  {{ content }}
