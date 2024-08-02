@@ -1,0 +1,127 @@
+site:
+  title: Manhaj Al-Salaf
+  desc: 
+  url: /
+  ar: "عربي"
+  en: "en"
+  url_search: /search
+  url_fatwas_widget: /fatwas
+  url_audios_widget: /audios
+
+nav:
+  - name: Fatwas
+    url: /fatwas
+    active: fatwas
+  - name: Audios
+    url: /audios
+    active: audios
+  - name: Muqolat
+    url: /muqolat
+    active: muqolat
+  - name: Biographies
+    url: /biography/    
+  - name: Categories
+    url: /category
+    active: category
+  - name: Radd
+    url: /radd/    
+
+aside_quick_links:
+  - name: Bid'ah
+    url: /bidah/
+  - name: Rulership
+    url: /rulership/
+  - name: Wahhabism
+    url: /wahhabism/
+  - name: Groups & Sects
+    url: /sects/
+
+aside_external_links:
+  - name: RSS Feed
+    url: /feed
+  - name: Sitemap
+    url: /sitemap
+  - name: AlFatawa.Com
+    url: https://al-fatawa.com/
+
+footer:
+  - name: Sitemap
+    url: /sitemap
+  - name: RSS Feed
+    url: /feed
+
+page:
+  next: Next
+  prev: Prev
+  nextPost: Next post
+  prevPost: Prev post
+  more: More
+  read_more: Read more
+  categories: Categories
+  category: Category
+  tag: Tag
+  tags: Tags
+  basmalah: In the Name of Allah, the Most Beneficent, the Most Merciful.
+  home: Home
+  search: Search
+  audios: Audios
+  fatwas: Fatwas
+  books: Books
+  articles: Muqolat
+  language: Language
+  languages: Languages
+  mufti: Mufti
+  muftis: Muftis
+  date: Created at
+  last_updated: Last updated
+  fatwa_num: Fatwa No.
+  source: Source
+  website_is_under_maintenance: Website is under maintenance
+  notSupportaudio: Your browser does not support the audio element.
+  404: "The page you requested does not exist"
+  404_text: "Page not found."
+  latest_fatwas: Latest Fatwas
+  latest_audios: Latest Audios
+  related_fatwas: Related Fatwas
+  recent: Recent
+  copy: Copy
+  published_on: Published on 
+  view_all: View all
+  category: Category
+  favorites: Favorites
+  add_to-favorite: Add to favorite
+  print: Print
+  share: Share
+  share_on: Share on
+  rss_feed: RSS Feed
+  similar_fatwas: Similar Fatwas
+  comments: Comments
+  comment: Comment
+  selected_fatwas: Selected Fatwas
+  book: Book
+  vol: Vol
+  end: "May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions."
+  deputy_chairman: Deputy Chairman
+  chairman: Chairman
+  member: Member
+  members: Members
+  alifta_scholars: Permanent Committee
+  created_at: Created at
+  hashtags: Hashtag 
+  back_to_top: Back to tp
+  all_rights_reserved: All rights reserved
+  powered_by: Powered by
+  github: GitHub
+  instagram: Instagram
+  twitter_x: Twitter X
+  telegram: Telegram
+  whatsapp: Whatsapp
+  translated_by: Translated by
+  ref: Ref
+  minute_read: min read
+  issued_by: Issued by
+  posted_by: Posted by
+  last_updated: Last updated
+  recent_fatwas: Recent Fatwas
+  recent_audios: Recent Audios
+
