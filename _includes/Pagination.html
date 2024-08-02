@@ -9,7 +9,7 @@
         itemprop="relatedLink/pagination" 
         rel="prev">
         <i class="bi bi-chevron-double-left text-danger"></i> 
-        {{ site.data.locales[page.locale].page.prev }}
+        {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.prev }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.prev }}{% else %}Prev{% endif %}
       </a>
     </li>
     {% else %}
@@ -23,8 +23,8 @@
         href="{{ paginator.next_page_path | prepend: site.baseurl }}" 
         itemprop="relatedLink/pagination" 
         rel="next" 
-        class="page-link icon-link shadow-none border-danger bg-transparent text-danger">
-        {{ site.data.locales[page.locale].page.next }} 
+        class="page-link icon-link shadow-none border-danger bg-transparent text-danger"> 
+        {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.next }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.next }}{% else %}Next{% endif %}
         <i class="bi bi-chevron-double-right"></i>
       </a>
     </li>
