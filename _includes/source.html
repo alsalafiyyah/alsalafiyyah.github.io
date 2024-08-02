@@ -3,13 +3,13 @@
 {% if page.group1 %}
 <div class="card bg-transparent border-danger mb-3">
   <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
-    {{ site.data.locales[page.locale].page.muftis }}
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.muftis }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.muftis }}{% else %}Muftis{% endif %}
   </div>
   <div class="card-body">
   <ul class="list-group list-group-flush">  
    {% if site.group1.chairman %}
     <li class="list-group-item">
-     {{ site.data.locales[page.locale].page.chairman | append: " : " }}
+     {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% else %}Chairman:{% endif %}
     {% for chairman in site.group1.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
     </li>
    {% endif %} 
@@ -37,13 +37,13 @@
 {% if page.group2 %}
 <div class="card bg-transparent border-danger mb-3">
   <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
-    {{ site.data.locales[page.locale].page.muftis }}
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.muftis }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.muftis }}{% else %}Muftis{% endif %}
   </div>
   <div class="card-body">
    <ul class="list-group list-group-flush"> 
    {% if site.group2.chairman %}
     <li class="list-group-item">
-     {{ site.data.locales[page.locale].page.chairman | append: " : " }}
+     {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% else %}Chairman:{% endif %}
     {% for chairman in site.group2.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
     </li>
    {% endif %} 
@@ -71,13 +71,13 @@
 {% if page.group3 %}
 <div class="card bg-transparent border-danger mb-3">
   <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
-    {{ site.data.locales[page.locale].page.muftis }}
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.muftis }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.muftis }}{% else %}Muftis{% endif %}
   </div>
   <div class="card-body">
    <ul class="list-group list-group-flush"> 
    {% if site.group3.chairman %}
     <li class="list-group-item">
-    {{ site.data.locales[page.locale].page.chairman | append: " : " }}
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% else %}Chairman:{% endif %}
     {% for chairman in site.group3.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
     </li>
    {% endif %} 
@@ -105,13 +105,13 @@
 {% if page.group4 %}
 <div class="card bg-transparent border-danger mb-3">
   <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
-    {{ site.data.locales[page.locale].page.muftis }}
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.muftis }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.muftis }}{% else %}Muftis{% endif %}
   </div>
   <div class="card-body">
    <ul class="list-group list-group-flush"> 
    {% if site.group4.chairman %}
     <li class="list-group-item">
-     {{ site.data.locales[page.locale].page.chairman | append: " : " }}
+     {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% else %}Chairman:{% endif %}
     {% for chairman in site.group4.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
     </li>
    {% endif %} 
@@ -139,13 +139,13 @@
 {% if page.group5 %}
 <div class="card bg-transparent border-danger mb-3">
   <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
-    {{ site.data.locales[page.locale].page.muftis }}
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.muftis }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.muftis }}{% else %}Muftis{% endif %}
   </div>
   <div class="card-body">
    <ul class="list-group list-group-flush"> 
    {% if site.group5.chairman %}
     <li class="list-group-item">
-     {{ site.data.locales[page.locale].page.chairman | append: " : " }}
+     {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% else %}Chairman:{% endif %}
     {% for chairman in site.group5.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
     </li>
    {% endif %} 
@@ -173,13 +173,13 @@
 {% if page.group6 %}
 <div class="card bg-transparent border-danger mb-3">
   <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
-    {{ site.data.locales[page.locale].page.muftis }}
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.muftis }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.muftis }}{% else %}Muftis{% endif %}
   </div>
   <div class="card-body">
    <ul class="list-group list-group-flush"> 
    {% if site.group6.chairman %}
     <li class="list-group-item">
-     {{ site.data.locales[page.locale].page.chairman | append: " : " }}
+     {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% else %}Chairman:{% endif %}
     {% for chairman in site.group6.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
     </li>
    {% endif %} 
@@ -207,13 +207,13 @@
 {% if page.group7 %}
 <div class="card bg-transparent border-danger mb-3">
   <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
-    {{ site.data.locales[page.locale].page.muftis }}
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.muftis }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.muftis }}{% else %}Muftis{% endif %}
   </div>
   <div class="card-body">
    <ul class="list-group list-group-flush"> 
    {% if site.group7.chairman %}
     <li class="list-group-item">
-     {{ site.data.locales[page.locale].page.chairman | append: " : " }}
+     {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% else %}Chairman:{% endif %}
     {% for chairman in site.group7.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
     </li>
    {% endif %} 
@@ -241,13 +241,13 @@
 {% if page.group8 %}
 <div class="card bg-transparent border-danger mb-3">
   <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
-    {{ site.data.locales[page.locale].page.muftis }}
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.muftis }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.muftis }}{% else %}Muftis{% endif %}
   </div>
   <div class="card-body">
    <ul class="list-group list-group-flush"> 
    {% if site.group8.chairman %}
     <li class="list-group-item">
-     {{ site.data.locales[page.locale].page.chairman | append: " : " }}
+     {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% else %}Chairman:{% endif %}
     {% for chairman in site.group8.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
     </li>
    {% endif %} 
@@ -269,13 +269,13 @@
 {% if page.group9 %}
 <div class="card bg-transparent border-danger mb-3">
   <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
-    {{ site.data.locales[page.locale].page.muftis }}
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.muftis }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.muftis }}{% else %}Muftis{% endif %}
   </div>
   <div class="card-body">
    <ul class="list-group list-group-flush"> 
    {% if site.group9.chairman %}
     <li class="list-group-item">
-     {{ site.data.locales[page.locale].page.chairman | append: " : " }}
+     {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% else %}Chairman:{% endif %}
     {% for chairman in site.group9.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
     </li>
    {% endif %} 
@@ -303,13 +303,13 @@
 {% if page.group10 %}
 <div class="card bg-transparent border-danger mb-3">
   <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
-    {{ site.data.locales[page.locale].page.muftis }}
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.muftis }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.muftis }}{% else %}Muftis{% endif %}
   </div>
   <div class="card-body">
    <ul class="list-group list-group-flush"> 
    {% if site.group10.chairman %}
     <li class="list-group-item">
-     {{ site.data.locales[page.locale].page.chairman | append: " : " }}
+     {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% else %}Chairman:{% endif %}
     {% for chairman in site.group10.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
     </li>
    {% endif %} 
@@ -331,13 +331,13 @@
 {% if page.group11 %}
 <div class="card bg-transparent border-danger mb-3">
   <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
-    {{ site.data.locales[page.locale].page.muftis }}
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.muftis }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.muftis }}{% else %}Muftis{% endif %}
   </div>
   <div class="card-body">
    <ul class="list-group list-group-flush"> 
    {% if site.group11.chairman %}
     <li class="list-group-item">
-     {{ site.data.locales[page.locale].page.chairman | append: " : " }}
+     {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% else %}Chairman:{% endif %}
     {% for chairman in site.group11.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
     </li>
    {% endif %} 
@@ -365,13 +365,13 @@
 {% if page.group12 %}
 <div class="card bg-transparent border-danger mb-3">
   <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
-    {{ site.data.locales[page.locale].page.muftis }}
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.muftis }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.muftis }}{% else %}Muftis{% endif %}
   </div>
   <div class="card-body">
    <ul class="list-group list-group-flush"> 
    {% if site.group12.chairman %}
     <li class="list-group-item">
-     {{ site.data.locales[page.locale].page.chairman | append: " : " }}
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% else %}Chairman:{% endif %}
     {% for chairman in site.group12.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
     </li>
    {% endif %} 
@@ -389,13 +389,13 @@
 {% if page.group13 %}
 <div class="card bg-transparent border-danger mb-3">
   <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
-    {{ site.data.locales[page.locale].page.muftis }}
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.muftis }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.muftis }}{% else %}Muftis{% endif %}
   </div>
   <div class="card-body">
    <ul class="list-group list-group-flush"> 
    {% if site.group13.chairman %}
     <li class="list-group-item">
-     {{ site.data.locales[page.locale].page.chairman  | append: " : " }}
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% else %}Chairman:{% endif %} 
     {% for chairman in site.group13.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
     </li>
    {% endif %} 
@@ -417,7 +417,7 @@
 {% if page.shaykhs %}
 <div class="card bg-transparent border-danger mb-3">
   <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
-    {{ site.data.locales[page.locale].page.muftis }}
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.muftis }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.muftis }}{% else %}Muftis{% endif %}
   </div>
   <div class="card-body">
   <ul class="list-group list-group-flush">  
@@ -435,25 +435,25 @@
 {% if page.muftis %}
 <div class="card bg-transparent border-danger mb-3">
   <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
-    {{ site.data.locales[page.locale].page.muftis }}
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.muftis }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.muftis }}{% else %}Muftis{% endif %}
   </div>
   <div class="card-body">
    <ul class="list-group list-group-flush"> 
    {% if page.muftis.chairman %}
     <li class="list-group-item">
-     {{ site.data.locales[page.locale].page.chairman | append: " : " }}
+     {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% else %}Chairman:{% endif %}
     {% for chairman in page.muftis.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
     </li>
    {% endif %} 
    {% if page.muftis.deputy_chairman %}
      <li class="list-group-item">
-      {{ site.data.locales[page.locale].page.deputy_chairman  | append: " : " }}
+      {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% else %}Deputy Chairman:{% endif %}
       {% for deputy_chairman in page.muftis.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
      </li>
    {% endif %}      
    {% if page.muftis.members %}
      <li class="list-group-item">
-        {{ site.data.locales[page.locale].page.members  | append: " : " }}
+        {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% else %}Members:{% endif %}
         <ol>
          {% for members in page.muftis.members %}
          <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
