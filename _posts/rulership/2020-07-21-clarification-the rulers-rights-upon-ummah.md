@@ -5,10 +5,11 @@ title: "Clarification of the rulers' rights upon the Ummah"
 hijri: "Dhul-Qa'dah 30, 1441"
 source: "Majmu' Fatawa Wa Maqalat 9/93"
 lang: en
-locale: rn
-category: [rulership, hisbah]
+locale: en
+active: muqolat
+category: [muqolat,rulership]
 note: false
-excerpt: "Iit is the duty of all Muslims in this kingdom to cooperate with this country and whoever calls to Allah everywhere in reinforcing good, observing Da'wah to Allah, spreading Islam, and calling to Al-Haqq, for this should also be followed by all countries."
+excerpt: "It is the duty of all Muslims in this kingdom to cooperate with this country and whoever calls to Allah everywhere in reinforcing good, observing Da'wah to Allah, spreading Islam, and calling to Al-Haqq, for this should also be followed by all countries."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
