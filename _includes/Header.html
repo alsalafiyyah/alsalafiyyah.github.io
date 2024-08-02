@@ -2,17 +2,23 @@
 <div class="collapse" id="navbarToggleExternalContent" data-bs-theme="dark">  
  <div class="bg-dark p-4" itemscope itemtype="http://schema.org/WebSite">
    <p class="text-body-emphasis">
+    {% if page.locale == 'en' %}
      {{ site.data.locales[page.locale].page.search }}
+    {% elsif page.locale == 'ar' %}
+     {{ site.data.locales[page.locale].page.search }}
+    {% else %}
+     Search
+    {% endif %}
    </p>
-  <meta itemprop="url" content="{{ site.data.locales[page.locale].site.url }}"/>
-  <form class="d-flex" role="search" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" action="{{ site.data.locales[page.locale].site.url_search }}">
-  <meta itemprop="target" content="{{ site.data.locales[page.locale].site.url_search }}?q={q}"/>  
+  <meta itemprop="url" content="{% if page.locale == 'en' %}{{ site.data.locales[page.locale].site.url }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].site.url }}{% else %}{{ site.url }}{% endif %}"/>
+  <form class="d-flex" role="search" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" action="{% if page.locale == 'en' %}{{ site.data.locales[page.locale].site.url_search }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].site.url_search }}{% else %}https://alsalafiyyah.github.io/search{% endif %}">
+  <meta itemprop="target" content="{% if page.locale == 'en' %}{{ site.data.locales[page.locale].site.url_search }}?q={q}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].site.url_search }}?q={q}{% else %}https://alsalafiyyah.github.io/search?q={q}{% endif %}"/>  
 <div class="input-group mb-3" itemprop="query-input" itemscope itemtype="http://schema.org/PropertyValueSpecification">
   <meta itemprop="valueName" content="q"/>
   <input 
     type="search" 
     class="form-control shadow-none border-danger" 
-    placeholder="{{ site.data.locales[page.locale].page.search }}" 
+    placeholder="{% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.search }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.search }}{% else %}Search{% endif %}" 
     aria-label="Search" 
     aria-describedby="button-addon2"
     name="q" 
@@ -21,7 +27,7 @@
     pattern=".{3,}" 
     title="At least 3 characters" 
     required>
-  <button class="btn btn-danger" type="submit" id="button-addon2">{{ site.data.locales[page.locale].page.search }}</button>
+  <button class="btn btn-danger" type="submit" id="button-addon2">{% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.search }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.search }}{% else %}Search{% endif %}</button>
 </div>            
     </form>
   </div>
@@ -29,7 +35,15 @@
 <nav class="navbar" id="navbar" role="navigation" vocab="http://schema.org" itemtype="SiteNavigationElement">
   <div class="container-fluid inline-flex">
     <a itemprop="url" class="navbar-brand" href="{{ site.data.locales[page.locale].site.url | default: site.url | escape }}">
-      <h1 itemprop="name" >{{ site.data.locales[page.locale].site.title | default: site.title | escape }}</h1> 
+      <h1 itemprop="name">
+       {% if page.locale == 'en' %}
+        {{ site.data.locales[page.locale].site.title | default: site.title | escape }}
+       {% elsif page.locale == 'ar' %}
+        {{ site.data.locales[page.locale].site.title | default: site.title | escape }}
+       {% else %}
+        {{ site.title }}
+       {% endif %}       
+      </h1> 
     </a>
     <button class="navbar-search shadow-none btn btn-danger" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="bi bi-search"></span>
