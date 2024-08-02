@@ -7,6 +7,8 @@ category: [fatwas,terminology]
 hijri: Dhul-Hijjah 23, 1441 AH
 date: 2020/08/13
 note: false
+locale: en
+lang: en
 excerpt: "Shirk is defined as associating others with Allah in worship, such as invoking, seeking relief, making vows, offering prayers, fasting, or slaughtering animals for the idols."
 muftis:
   shaykh: 
@@ -32,7 +34,9 @@ It is also Shirk if a person totally dedicates acts of worship to other than All
 
 Similarly, the atheists and those like them such as communists who deny the existence of Allah (Exalted be He) and claim that life is only matter are the worst disbelievers who flagrantly commit Shirk and live in error - may Allah save us from that. People who adopt such beliefs fall under the category of Shirk and Kufr alike. Perhaps some ignorant people erroneously view invoking or seeking relief from the dead as permissible means to be closer to Allah (Exalted be He). This is a great mistake since this act is one of the most abominable kinds of Shirk (associating others with Allah in His Divinity or worship). It is Shirk even if ignorant people and polytheists consider it a permissible means. In fact, this represents the belief of the pagans whom Allah (Exalted be He) dispraised and disparaged for holding this view. 
 
-Indeed, Allah (Exalted be He) sent His Messengers and revealed His Books to condemn and warn people against it. The means of approach mentioned in Allah's Saying: "**O you who believe! Do your duty to Allâh and fear Him. And seek the means of approach to Him, and strive hard in His Cause (as much as you can)**" [al-Ma'idah: 35] refers to drawing closer to Allah (Glorified be He) through obeying Him. Scholars unanimously agreed on that meaning. Actually, Salah, slaughtering sacrificial animals, observing fasting, giving charity, remembering Allah, and reading the Qur'an are all acts of worship that bring a Muslim closer to Allah (Glorified and Exalted be He). This is the meaning of Allah's Saying: "**Do your duty to Allâh and fear Him. And seek the means of approach to Him, and strive hard in His Cause (as much as you can)**" [al-Ma'idah: 35] i.e. seek the means of approach to Allah through obeying Him, as held by Ibn Kathir, Ibn Jarir, Al-Baghawy and other scholars of Tafsir (explanation/exegesis of the meanings of the Qur'an).
+Indeed, Allah (Exalted be He) sent His Messengers and revealed His Books to condemn and warn people against it. The means of approach mentioned in Allah's Saying: "**O you who believe! Do your duty to Allâh and fear Him. And seek the means of approach to Him, and strive hard in His Cause (as much as you can)**" [al-Ma'idah: 35] refers to drawing closer to Allah (Glorified be He) through obeying Him. Scholars unanimously agreed on that meaning. 
+
+Actually, Salah, slaughtering sacrificial animals, observing fasting, giving charity, remembering Allah, and reading the Qur'an are all acts of worship that bring a Muslim closer to Allah (Glorified and Exalted be He). This is the meaning of Allah's Saying: "**Do your duty to Allâh and fear Him. And seek the means of approach to Him, and strive hard in His Cause (as much as you can)**" [al-Ma'idah: 35] i.e. seek the means of approach to Allah through obeying Him, as held by Ibn Kathir, Ibn Jarir, Al-Baghawy and other scholars of Tafsir (explanation/exegesis of the meanings of the Qur'an).
 
 In other words, Muslims should seek the means of approach to Allah (Exalted be He) by obeying Him and doing lawful acts, such as Salah, fasting, and giving charity. Allah (Exalted be He) says: "**Those whom they call upon [like ‘Isâ (Jesus) - son of Maryam (Mary), ‘Uzair (Ezra), angel] desire (for themselves) means of access to their Lord (Allâh), as to which of them should be the nearest; and they [‘Isâ (Jesus), ‘Uzair (Ezra), angels and others] hope for His Mercy and fear His Torment.**" [al-Isra: 57]
 
