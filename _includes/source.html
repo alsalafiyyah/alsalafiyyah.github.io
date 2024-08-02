@@ -479,7 +479,7 @@
         <span>
           <time itemprop="datePublished" datetime="{{ page.date | date_to_string }}"> 
           {% if page.hijri %}
-            {{ site.data.locales[page.locale].page.created_at | append: " : " }}     
+            {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.created_at | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.created_at | append: " : " }}{% else %}Created at:{% endif %}     
             <b>{{ page.hijri }}</b> 
            {% if page.date %}
             <b>{{ page.date | date_to_string | prepend: " — " }}</b>
@@ -493,7 +493,7 @@
        </li>
  {% if page.source %}
    <li class="list-group-item">
-   {{ site.data.locales[page.locale].page.source | append: " : " }} <b>{{ page.source }}</b> {% else %}
+   {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.source | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.source | append: " : " }}{% else %}Source:{% endif %} <b>{{ page.source }}</b>
     </li>
  {% endif %}
  
@@ -509,7 +509,7 @@
 
   {% if page.translated_by %}
    <li class="list-group-item">
-    {{ site.data.locales[page.locale].page.translated_by | append: " : " }} <b>{{ page.translated_by }}</b> {% else %}
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.translated_by | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.translated_by | append: " : " }}{% else %}Translated by:{% endif %} <b>{{ page.translated_by }}</b> 
     </li>
  {% endif %}
 
@@ -534,7 +534,7 @@
 
 <div class="card bg-transparent border-danger mt-4">
   <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
-    {{ site.data.locales[page.locale].page.share_on | append: " : " }}
+   {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.share_on | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.share_on | append: " : " }}{% else %}Share on:{% endif %}
   </div>
   <div class="card-body">
   <div class="mt-3">  
