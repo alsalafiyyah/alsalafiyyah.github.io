@@ -2,22 +2,27 @@
 layout: post
 title: "Meaning of Shirk"
 publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa 4/32, question 1"
-category: [terminology]
+source: "Majmu' Fatawa 4/32, Question 1"
+category: [fatwas,terminology]
 hijri: Dhul-Hijjah 23, 1441 AH
 date: 2020/08/13
-binbaz: true
 note: false
-excerpt: "Shirk is defined as associating others with Allah in 'Ibadah (worship), such as invoking, seeking relief, making vows, offering Salah (prayers), fasting, or slaughtering animals for the idols."
+excerpt: "Shirk is defined as associating others with Allah in worship, such as invoking, seeking relief, making vows, offering prayers, fasting, or slaughtering animals for the idols."
+muftis:
+  shaykh: 
+    - name: Shaykh Ibn Baz
+      url: /biography/binbaz
 ---
 
-Question:
+### Question:
 
 What does Shirk mean? What is the meaning of Allah's Saying: "**O you who believe! Do your duty to Allâh and fear Him. And seek the means of approach to Him**" [al-Maidah: 35]?
 
-Answer:
+### Answer:
 
-Shirk is defined as associating others with Allah in 'Ibadah (worship), such as invoking, seeking relief, making vows, offering Salah (prayers), fasting, or slaughtering animals for the idols. For example, it is Shirk that a person slaughters animals for Al-Badawy or Al-'Aydarus, offers Salah for a human being, or asks help from the Messenger (peace be upon him) or 'Abdul-Qadir, Al-'Aydarus in Yemen or any deceased or absent people. These acts are called Shirk. Similarly, invoking the stars or the jinn, seeking their relief and help, or dedicating any acts of worship to inanimate objects, a deceased or absent person, are all forms of associating others with Allah (Glorified and Exalted be He) in worship. 
+Shirk is defined as associating others with Allah in 'Ibadah (worship), such as invoking, seeking relief, making vows, offering Salah (prayers), fasting, or slaughtering animals for the idols. For example, it is Shirk that a person slaughters animals for Al-Badawy or Al-'Aydarus, offers Salah for a human being, or asks help from the Messenger (peace be upon him) or 'Abdul-Qadir, Al-'Aydarus in Yemen or any deceased or absent people. These acts are called Shirk. 
+
+Similarly, invoking the stars or the jinn, seeking their relief and help, or dedicating any acts of worship to inanimate objects, a deceased or absent person, are all forms of associating others with Allah (Glorified and Exalted be He) in worship. 
 
 Allah (Glorified and Exalted be He) says: "**But if they had joined in worship others with Allâh, all that they used to do would have been of no benefit to them.**" [al-An'am: 88]
 
