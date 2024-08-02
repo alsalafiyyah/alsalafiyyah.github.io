@@ -50,13 +50,31 @@
     </button>
   </div>
   <ul class="nav nav-pills nav-fill border shadow-sm">
+ {% if page.locale == 'en' %} 
   {% for item in site.data.locales[page.locale].nav %}  
-  <li class="nav-item">
-    <a property="url" class="nav-link icon-link" aria-current="page" href="{{ item.url }}">
-     <span property="name">{{ item.name }}</span>
-    </a>
-  </li>
+    <li class="nav-item">
+     <a property="url" class="nav-link icon-link" aria-current="page" href="{{ item.url }}">
+      <span property="name">{{ item.name }}</span>
+     </a>
+   </li>
   {% endfor %}
+  {% elsif page.locale == 'ar' %} 
+   {% for item in site.data.locales[page.locale].nav %}  
+    <li class="nav-item">
+     <a property="url" class="nav-link icon-link" aria-current="page" href="{{ item.url }}">
+      <span property="name">{{ item.name }}</span>
+     </a>
+    </li>
+  {% endfor %}
+ {% else %}
+   {% for item in site.data.setting.nav %}  
+    <li class="nav-item">
+     <a property="url" class="nav-link icon-link" aria-current="page" href="{{ item.url }}">
+      <span property="name">{{ item.name }}</span>
+     </a>
+    </li>
+  {% endfor %}
+ {% endif %}
 </ul>
 </nav>
 </header>
