@@ -1,5 +1,5 @@
 <section class="mt-3"><!-- fatwas section -->
-
+ 
 <div class="list-group">
 
 {% for post in paginator.posts %}
@@ -17,7 +17,7 @@
 {% if post.muftis %}
 {% if post.muftis.chairman %} 
 <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {{ site.data.locales[page.locale].page.issued_by | append: ":" }}</small>
+ <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
  {% for chairman in post.muftis.chairman %}
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
   <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="{{ chairman.url }}">
@@ -32,7 +32,7 @@
  </p> 
 {% elsif post.muftis.deputy_chairman %} 
 <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {{ site.data.locales[page.locale].page.issued_by | append: ":" }}</small>
+ <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
  {% for deputy in post.muftis.deputy_chairman %}
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
   <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="{{ deputy.url }}">
@@ -51,7 +51,7 @@
 {% if post.muftis %} 
 {% if post.muftis.shaykh %}  
  <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {{ site.data.locales[page.locale].page.issued_by | append: ":" }}</small>
+ <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
  {% for shaykh in post.muftis.shaykh %}  
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
   <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="{{ shaykh.url }}">
@@ -69,7 +69,7 @@
 
 {% if post.shaykhs %}  
  <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {{ site.data.locales[page.locale].page.issued_by | append: ":" }}</small>
+ <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
   <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/">
    <small>
@@ -84,7 +84,7 @@
 
 {% if post.group1 %}
  <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {{ site.data.locales[page.locale].page.issued_by | append: ":" }}</small>
+ <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
   <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/">
    <small>
@@ -97,7 +97,7 @@
  </p>   
 {% elsif post.group2 %}
  <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {{ site.data.locales[page.locale].page.issued_by | append: ":" }}</small>
+ <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
   <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/">
    <small>
@@ -110,7 +110,7 @@
  </p> 
 {% elsif post.group3 %}
  <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {{ site.data.locales[page.locale].page.issued_by | append: ":" }}</small>
+ <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
   <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/">
    <small>
@@ -123,7 +123,7 @@
  </p> 
 {% elsif post.group4 %}
  <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {{ site.data.locales[page.locale].page.issued_by | append: ":" }}</small>
+ <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
   <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/">
    <small>
@@ -136,7 +136,7 @@
  </p>  
 {% elsif post.group5 %}
  <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {{ site.data.locales[page.locale].page.issued_by | append: ":" }}</small>
+ <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
   <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/">
    <small>
@@ -149,7 +149,7 @@
  </p> 
 {% elsif post.group6 %}
  <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {{ site.data.locales[page.locale].page.issued_by | append: ":" }}</small>
+ <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
   <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/">
    <small>
@@ -162,7 +162,7 @@
  </p>  
 {% elsif post.group7 %}
  <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {{ site.data.locales[page.locale].page.issued_by | append: ":" }}</small>
+ <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
   <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/">
    <small>
@@ -175,7 +175,7 @@
  </p>  
 {% elsif post.group8 %}
  <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {{ site.data.locales[page.locale].page.issued_by | append: ":" }}</small>
+ <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
   <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/">
    <small>
@@ -188,7 +188,7 @@
  </p> 
 {% elsif post.group9 %}
  <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {{ site.data.locales[page.locale].page.issued_by | append: ":" }}</small>
+ <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
   <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/">
    <small>
@@ -201,7 +201,7 @@
  </p> 
 {% elsif post.group10 %}
  <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {{ site.data.locales[page.locale].page.issued_by | append: ":" }}</small>
+ <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
   <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/">
    <small>
@@ -214,7 +214,7 @@
  </p> 
 {% elsif post.group11 %}
  <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {{ site.data.locales[page.locale].page.issued_by | append: ":" }}</small>
+ <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
   <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/">
    <small>
@@ -227,7 +227,7 @@
  </p> 
 {% elsif post.group12 %}
  <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {{ site.data.locales[page.locale].page.issued_by | append: ":" }}</small>
+ <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
   <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/">
    <small>
@@ -240,7 +240,7 @@
  </p> 
 {% elsif post.group13 %}
  <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {{ site.data.locales[page.locale].page.issued_by | append: ":" }}</small>
+ <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
   <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/">
    <small>
@@ -257,7 +257,7 @@
 {% if post.authors %}
 {% if post.authors.author %} 
 <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {{ site.data.locales[page.locale].page.posted_by | append: ":" }}</small>
+ <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.posted_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.posted_by | append: ":" }}{% else %}Posted by:{% endif %}</small>
  {% for author in post.authors.author %}
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
   <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover icon-link" itemprop="url" href="https://instagram.com/{{ author.url }}" rel="nofollow" target="_blank">
