@@ -9,7 +9,13 @@
     <a href="{% if page.locale == 'en' %}{{ site.data.locales[page.locale].site.url_fatwas_widget }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].site.url_fatwas_widget }}{% else %}/fatwas/{% endif %}" 
       class="badge text-bg-danger rounded-pill icon-link">
       {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.view_all }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.view_all }}{% else %}View all{% endif %}
-      <i class="bi bi-chevron-double-right"></i>
+      {% if page.locale == 'en' %}
+       <i class="bi bi-chevron-double-right"></i> 
+      {% if page.locale == 'ar' %} 
+       <i class="bi bi-chevron-double-left"></i>
+      {% else %} 
+       <i class="bi bi-chevron-double-right"></i>
+      {% endif %}
     </a>
   </li>
 </ul>
@@ -120,7 +126,13 @@
     <a href="{% if page.locale == 'en' %}{{ site.data.locales[page.locale].site.url_audios_widget }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].site.url_audios_widget }}{% else %}/audios/{% endif %}" 
       class="badge text-bg-danger rounded-pill icon-link">
       {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.view_all }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.view_all }}{% else %}View all{% endif %}
-      <i class="bi bi-chevron-double-right"></i>
+      {% if page.locale == 'en' %}
+       <i class="bi bi-chevron-double-right"></i> 
+      {% if page.locale == 'ar' %} 
+       <i class="bi bi-chevron-double-left"></i>
+      {% else %} 
+       <i class="bi bi-chevron-double-right"></i>
+      {% endif %}
     </a>
   </li>
 </ul>
