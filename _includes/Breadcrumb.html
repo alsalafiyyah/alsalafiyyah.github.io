@@ -4,7 +4,10 @@
       <li class="breadcrumb-item" itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
         <a class="link-opacity-50-hover" itemprop="item" href="{{ site.data.locales[page.locale].site.url }}">
-            <span itemprop="name">{{ site.data.locales[page.locale].page.home }}</span></a>
+         <span itemprop="name">
+          {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.home }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.home }}{% else %}Home{% endif %}
+         </span>
+        </a>
         <meta itemprop="position" content="1" />
        </li>   
       {% if page.layout == 'post' %}  
