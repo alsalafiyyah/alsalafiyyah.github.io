@@ -98,7 +98,7 @@ page:
   member: عضو
   members: عضو
   alifta_scholars: اللجنة الدائمة للبحوث العلمية والإفتاء
-  created_at: تم الإنشاء في
+  created_at: تم إنشاءه بتاريخ
   hashtags: علامات التصنيف
   back_to_top: العودة إلى أعلى
   all_rights_reserved: جميع الحقوق محفوظة
@@ -108,4 +108,13 @@ page:
   twitter_x: X تعتبر
   telegram: تيليجرام
   whatsapp: واتساب
+  translated_by: Translated by
+  ref: Ref
+  minute_read: min read
+  issued_by: Issued by
+  posted_by: تم النشــر بواسطة
+  last_updated: تم تحديث
+  recent_fatwas: جديد الفتاوى
+  recent_audios: جديد الصوتيات
   
+
