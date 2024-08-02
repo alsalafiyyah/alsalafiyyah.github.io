@@ -2,8 +2,15 @@
 <section>
 <ul class="list-group">
   <li class="list-group-item d-flex justify-content-between align-items-center border-0">
-    <h2>{{ site.data.locales[page.locale].page.fatwas }} <i class="bi bi-feather"></i></h2>
-    <a href="{{ site.data.locales[page.locale].site.url_fatwas_widget }}" class="badge text-bg-danger rounded-pill icon-link">{{ site.data.locales[page.locale].page.view_all }} <i class="bi bi-chevron-double-right"></i></a>
+    <h2>
+      {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.recent_fatwas }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.recent_fatwas }}{% else %}Recent Fatwas{% endif %}
+      <i class="bi bi-feather"></i>
+    </h2>
+    <a href="{% if page.locale == 'en' %}{{ site.data.locales[page.locale].site.url_fatwas_widget }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].site.url_fatwas_widget }}{% else %}/fatwas/{% endif %}" 
+      class="badge text-bg-danger rounded-pill icon-link">
+      {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.view_all }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.view_all }}{% else %}View all{% endif %}
+      <i class="bi bi-chevron-double-right"></i>
+    </a>
   </li>
 </ul>
 
@@ -26,7 +33,7 @@
 {% if post.muftis %}
 {% if post.muftis.chairman %} 
 <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {{ site.data.locales[page.locale].page.issued_by | append: ":" }}</small>
+ <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
  {% for chairman in post.muftis.chairman %}
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
   <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="{{ chairman.url }}">
@@ -41,7 +48,7 @@
  </p> 
 {% elsif post.muftis.deputy_chairman %} 
 <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {{ site.data.locales[page.locale].page.issued_by | append: ":" }}</small>
+ <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
  {% for deputy in post.muftis.deputy_chairman %}
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
   <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="{{ deputy.url }}">
@@ -60,7 +67,7 @@
 {% if post.muftis %}
 {% if post.muftis.shaykh %}  
  <p class="text-body-secondary font-size-16 margin-padding-remove" style="padding: 0px !important; margin: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {{ site.data.locales[page.locale].page.issued_by | append: ":" }}</small>
+ <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
  {% for shaykh in post.muftis.shaykh %}  
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
   <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="{{ shaykh.url }}">
@@ -76,7 +83,7 @@
 {% endif %}
 {% else %}
  <p class="text-body-secondary font-size-16 margin-padding-remove" style="padding: 0px !important; margin: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {{ site.data.locales[page.locale].page.issued_by | append: ":" }}</small>
+<small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
   <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/">
    <small>
@@ -106,8 +113,15 @@
 <section class="mt-5">
 <ul class="list-group">
   <li class="list-group-item d-flex justify-content-between align-items-center border-0">
-    <h2>{{ site.data.locales[page.locale].page.audios }} <i class="bi bi-cassette"></i></h2>
-    <a href="{{ site.data.locales[page.locale].site.url_audios_widget }}" class="badge text-bg-danger rounded-pill icon-link">{{ site.data.locales[page.locale].page.view_all }} <i class="bi bi-chevron-double-right"></i></a>
+    <h2>
+      {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.recent_audios }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.recent_audios }}{% else %}Recent Audios{% endif %}
+      <i class="bi bi-cassette"></i>
+    </h2>
+    <a href="{% if page.locale == 'en' %}{{ site.data.locales[page.locale].site.url_audios_widget }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].site.url_audios_widget }}{% else %}/audios/{% endif %}" 
+      class="badge text-bg-danger rounded-pill icon-link">
+      {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.view_all }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.view_all }}{% else %}View all{% endif %}
+      <i class="bi bi-chevron-double-right"></i>
+    </a>
   </li>
 </ul>
 
@@ -130,7 +144,7 @@
 {% if post.muftis %}
 {% if post.muftis.shaykh %}  
  <p class="text-body-secondary font-size-16 margin-padding-remove" style="padding: 0px !important; margin: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {{ site.data.locales[page.locale].page.issued_by | append: ":" }}</small>
+ <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
  {% for shaykh in post.muftis.shaykh %}  
  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
   <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="{{ shaykh.url }}">
