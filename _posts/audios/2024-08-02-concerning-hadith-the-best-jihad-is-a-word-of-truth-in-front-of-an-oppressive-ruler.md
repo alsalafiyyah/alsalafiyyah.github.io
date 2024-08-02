@@ -24,4 +24,4 @@ muftis:
 Does the Hadith **"The best Jihad is a word of truth in front of an oppressive ruler"** apply to someone who criticizes the ruler openly in the media?
 
 ### Answer: 
-No, the Hadith says "in front of" an oppressive ruler, meaning verbally, in front of him. It does not say that he criticizes him openly on the mimbars and on the streets, it says in front of him. Allah Jalla wa 'Ala said to Musa (Moses) and Harun (peace be upon them): **"So go you both to him"** [Ta Ha (20):47], meaning Fir'aun, **"And speak to him mildly"** [Ta Ha (20): 44]. 
+No, the Hadith says **"in front of"** an oppressive ruler, meaning verbally, in front of him. It does not say that he criticizes him openly on the mimbars and on the streets, it says in front of him. Allah Jalla wa 'Ala said to Musa (Moses) and Harun (peace be upon them): **"So go you both to him"** [Ta Ha (20):47], meaning Fir'aun (Pharaoh), **"And speak to him mildly"** [Ta Ha (20): 44]. 
