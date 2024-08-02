@@ -2,7 +2,7 @@
 layout: compress
 ---
 <!DOCTYPE html>
-<html lang="{{ page.locale }}">
+<html lang="{% if page.locale %}{{ page.locale }}{% elsif page.lang %}{{ page.lang }}{% else %}en{% endif %}">
 <head>
 {% include metadata.html %}
 </head>
