@@ -20,7 +20,16 @@
     </li>
     {% else %}
     <li class="page-item disabled">
-      <span class="page-link border-danger"><i class="bi bi-chevron-double-left"></i> Prev</span>
+      <span class="page-link border-danger">
+        {% if page.locale == 'en' %}
+         <i class="bi bi-chevron-double-left"></i> 
+        {% elsif page.locale == 'ar' %}
+         <i class="bi bi-chevron-double-right"></i>
+        {% else %}
+         <i class="bi bi-chevron-double-left"></i>
+        {% endif %}
+        {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.prev }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.prev }}{% else %}Prev{% endif %}
+      </span>
     </li>
    {% endif %}
    {% if paginator.next_page %}
@@ -30,7 +39,7 @@
         itemprop="relatedLink/pagination" 
         rel="next" 
         class="page-link icon-link shadow-none border-danger bg-transparent text-danger"> 
-        {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.next }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.next }}{% else %}Next{% endif %}
+        {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.next }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.next }}{% else %}Next{% endif %}        
         {% if page.locale == 'en' %}
          <i class="bi bi-chevron-double-right"></i>
         {% elsif page.locale == 'ar' %}
@@ -42,7 +51,16 @@
     </li>
     {% else %}
     <li class="page-item disabled">
-      <span class="page-link border-danger">Next <i class="bi bi-chevron-double-right"></i></span>
+      <span class="page-link border-danger">
+        {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.next }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.next }}{% else %}Next{% endif %} 
+        {% if page.locale == 'en' %}
+         <i class="bi bi-chevron-double-right"></i>
+        {% elsif page.locale == 'ar' %}
+         <i class="bi bi-chevron-double-left"></i>
+        {% else %}
+         <i class="bi bi-chevron-double-right"></i>
+        {% endif %}
+      </span>
     </li>
    {% endif %}   
   </ul>
