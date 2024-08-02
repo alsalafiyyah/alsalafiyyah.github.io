@@ -15,13 +15,13 @@
    {% endif %} 
    {% if site.group1.deputy_chairman %}
      <li class="list-group-item">
-      {{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}
+      {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% else %}Deputy Chairman:{% endif %}
       {% for deputy_chairman in site.group1.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
      </li>
    {% endif %}      
    {% if site.group1.members %}
      <li class="list-group-item">
-        {{ site.data.locales[page.locale].page.members | append: " : " }}
+        {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% else %}Members:{% endif %}
         <ol>
          {% for members in site.group1.members %}
          <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
@@ -49,13 +49,13 @@
    {% endif %} 
    {% if site.group2.deputy_chairman %}
      <li class="list-group-item">
-       {{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}
+       {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% else %}Deputy Chairman:{% endif %}
       {% for deputy_chairman in site.group2.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
      </li>
    {% endif %}      
    {% if site.group2.members %}
      <li class="list-group-item">
-        {{ site.data.locales[page.locale].page.members | append: " : " }}
+        {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% else %}Members:{% endif %}
         <ol>
          {% for members in site.group2.members %}
          <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
@@ -83,13 +83,13 @@
    {% endif %} 
    {% if site.group3.deputy_chairman %}
      <li class="list-group-item">
-       {{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}
+       {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% else %}Deputy Chairman:{% endif %}
       {% for deputy_chairman in site.group3.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
      </li>
    {% endif %}      
    {% if site.group3.members %}
      <li class="list-group-item">
-        {{ site.data.locales[page.locale].page.members | append: " : " }}
+        {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% else %}Members:{% endif %}
         <ol>
          {% for members in site.group3.members %}
          <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
@@ -117,13 +117,13 @@
    {% endif %} 
    {% if site.group4.deputy_chairman %}
      <li class="list-group-item">
-       {{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}
+       {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% else %}Deputy Chairman:{% endif %}
       {% for deputy_chairman in site.group4.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
      </li>
    {% endif %}      
    {% if site.group4.members %}
      <li class="list-group-item">
-        {{ site.data.locales[page.locale].page.members | append: " : " }}
+        {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% else %}Members:{% endif %}
         <ol>
          {% for members in site.group4.members %}
          <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
@@ -151,13 +151,13 @@
    {% endif %} 
    {% if site.group5.deputy_chairman %}
      <li class="list-group-item">
-       {{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}
+       {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% else %}Deputy Chairman:{% endif %}
       {% for deputy_chairman in site.group5.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
      </li>
    {% endif %}      
    {% if site.group5.members %}
      <li class="list-group-item">
-        {{ site.data.locales[page.locale].page.members | append: " : " }}
+        {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% else %}Members:{% endif %}
         <ol>
          {% for members in site.group5.members %}
          <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
@@ -185,13 +185,13 @@
    {% endif %} 
    {% if site.group6.deputy_chairman %}
      <li class="list-group-item">
-       {{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}
+       {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% else %}Deputy Chairman:{% endif %}
       {% for deputy_chairman in site.group6.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
      </li>
    {% endif %}      
    {% if site.group6.members %}
      <li class="list-group-item">
-        {{ site.data.locales[page.locale].page.members | append: " : " }}
+        {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% else %}Members:{% endif %}
         <ol>
          {% for members in site.group6.members %}
          <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
@@ -219,13 +219,13 @@
    {% endif %} 
    {% if site.group7.deputy_chairman %}
      <li class="list-group-item">
-       {{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}
+       {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% else %}Deputy Chairman:{% endif %}
       {% for deputy_chairman in site.group7.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
      </li>
    {% endif %}      
    {% if site.group7.members %}
      <li class="list-group-item">
-        {{ site.data.locales[page.locale].page.members | append: " : " }}
+        {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% else %}Members:{% endif %}
         <ol>
          {% for members in site.group7.members %}
          <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
@@ -253,7 +253,7 @@
    {% endif %} 
    {% if site.group8.members %}
      <li class="list-group-item">
-        {{ site.data.locales[page.locale].page.members | append: " : " }}
+        {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% else %}Members:{% endif %}
         <ol>
          {% for members in site.group8.members %}
          <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
@@ -281,13 +281,13 @@
    {% endif %} 
    {% if site.group9.deputy_chairman %}
      <li class="list-group-item">
-       {{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}
+      {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% else %}Deputy Chairman:{% endif %}
       {% for deputy_chairman in site.group9.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
      </li>
    {% endif %}      
    {% if site.group9.members %}
      <li class="list-group-item">
-        {{ site.data.locales[page.locale].page.members | append: " : " }}
+        {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% else %}Members:{% endif %}
         <ol>
          {% for members in site.group9.members %}
          <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
@@ -315,7 +315,7 @@
    {% endif %} 
    {% if site.group10.members %}
      <li class="list-group-item">
-        {{ site.data.locales[page.locale].page.members | append: " : " }}
+        {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% else %}Members:{% endif %}
         <ol>
          {% for members in site.group10.members %}
          <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
@@ -343,13 +343,13 @@
    {% endif %} 
    {% if site.group11.deputy_chairman %}
      <li class="list-group-item">
-       {{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}
+       {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% else %}Deputy Chairman:{% endif %}
       {% for deputy_chairman in site.group11.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
      </li>
    {% endif %}      
    {% if site.group11.members %}
      <li class="list-group-item">
-        {{ site.data.locales[page.locale].page.members | append: " : " }}
+        {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% else %}Members:{% endif %}
         <ol>
          {% for members in site.group11.members %}
          <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
@@ -377,7 +377,7 @@
    {% endif %} 
    {% if site.group12.deputy_chairman %}
      <li class="list-group-item">
-       {{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}
+       {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% else %}Deputy Chairman:{% endif %}
       {% for deputy_chairman in site.group12.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
      </li>
    {% endif %}    
@@ -401,7 +401,7 @@
    {% endif %} 
    {% if site.group13.members %}
      <li class="list-group-item">
-        {{ site.data.locales[page.locale].page.members  | append: " : " }}
+        {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% else %}Members:{% endif %}
         <ol>
          {% for members in site.group13.members %}
          <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
