@@ -3,15 +3,15 @@ layout: category
 title: Categories
 active: category
 ---
-<table>	
- <tbody>     
-  {% for p in site.categories[page.category] %}	
-  <tr>
-   <td>
-    <a title="{{ p.title }}" href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>  
-   </td>    
-   <td></td>
-  </tr>      
-  {% endfor %}	
- </tbody>	
+<table>	     
+{% for item in site.categories[page.category] %} 
+<tr>
+ <td>
+  <a class="link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" 
+     href="{{ site.baseurl }}{{ item.url }}">
+   <h3>{{ item.title }}</h3>
+  </a>
+ </td>
+</tr>
+{% endfor %} 
 </table>
