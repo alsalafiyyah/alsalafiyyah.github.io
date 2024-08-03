@@ -49,15 +49,57 @@ $( document ).ready(function() {
 });    
 </script>
 <script type="text/javascript">
-var clipboard = new ClipboardJS('.btn-copy');
-clipboard.on('success', function(e) {
-    console.info('Action:', e.action);
-    console.info('Text:', e.text);
-    console.info('Trigger:', e.trigger);
-    e.clearSelection();
+// Select elements
+const target = document.getElementById('copyUrl');
+const button = target.nextElementSibling;
+
+// Init clipboard -- for more info, please read the offical documentation: https://clipboardjs.com/
+clipboard = new ClipboardJS(button, {
+    target: target,
+    text: function () {
+        return target.innerHTML;
+    }
 });
-clipboard.on('error', function(e) {
-    console.error('Action:', e.action);
-    console.error('Trigger:', e.trigger);
+
+// Success action handler
+clipboard.on('success', function (e) {
+    var checkIcon = button.querySelector('.bi-check');
+    var copyIcon = button.querySelector('.bi-copy');
+
+    // Exit check icon when already showing
+    if (checkIcon) {
+        return;
+    }
+
+    // Create check icon
+    checkIcon = document.createElement('i'); checkIcon.classList.add('bi-check-lg'); checkIcon.classList.add('bi-check-lg');
+    checkIcon.classList.add('fs-2x');
+
+    // Append check icon
+    button.appendChild(checkIcon);
+
+    // Highlight target
+    const classes = ['text-danger', 'fw-boldest'];
+    target.classList.add(...classes);
+
+    // Highlight button button.classList.add('btn-outline-danger');
+
+    // Hide copy icon
+    copyIcon.classList.add('d-none');
+
+    // Revert button label after 3 seconds
+    setTimeout(function () {
+        // Remove check icon
+        copyIcon.classList.remove('d-none');
+
+        // Revert icon
+        button.removeChild(checkIcon);
+
+        // Remove target highlight
+        target.classList.remove(...classes);
+
+        // Remove button highlight
+        button.classList.remove('btn-danger');
+    }, 3000)
 });
 </script>
