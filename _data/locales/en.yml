@@ -2,40 +2,40 @@ name: English
 site:
   title: Manhaj Al-Salaf
   desc: 
-  url: /
+  url: /en/
   ar: "عربي"
   en: "en"
-  url_search: /search
-  url_fatwas_widget: /fatwas
-  url_audios_widget: /audios
+  url_search: /en/search
+  url_fatwas_widget: /en/fatwas/
+  url_audios_widget: /en/audios/
 
 nav:
   - name: Fatwas
-    url: /fatwas
+    url: /en/fatwas/
     active: fatwas
   - name: Audios
-    url: /audios
+    url: /en/audios/
     active: audios
   - name: Muqolat
-    url: /muqolat
+    url: /en/muqolat/
     active: muqolat
   - name: Biographies
-    url: /biography/    
+    url: /en/biography/    
   - name: Categories
-    url: /category
+    url: /en/category
     active: category
   - name: Radd
-    url: /radd/    
+    url: /en/radd/    
 
 aside_quick_links:
   - name: Bid'ah
-    url: /bidah/
+    url: /en/bidah/
   - name: Rulership
-    url: /rulership/
+    url: /en/rulership/
   - name: Wahhabism
-    url: /wahhabism/
+    url: /en/wahhabism/
   - name: Groups & Sects
-    url: /sects/
+    url: /en/sects/
 
 aside_external_links:
   - name: RSS Feed
