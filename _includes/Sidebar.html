@@ -7,21 +7,49 @@
 <div class="hstack gap-2">
   <div class="p-2 ms-auto">
 <div class="list-group">
+{% if page.locale == 'en' %}
  {% for item in site.data.locales[page.locale].aside_quick_links %}
   <a href="{{ item.url }}" class="list-group-item list-group-item-action border-none fw-semibold" aria-current="false">
     {{ item.name }}
   </a>
- {% endfor %}
+ {% endfor %}  
+{% elsif page.locale == 'ar' %}  
+ {% for item in site.data.locales[page.locale].aside_quick_links %}
+  <a href="{{ item.url }}" class="list-group-item list-group-item-action border-none fw-semibold" aria-current="false">
+    {{ item.name }}
+  </a>
+ {% endfor %}  
+{% else %}
+ {% for item in site.data.setting.aside_quick_links %}
+  <a href="{{ item.url }}" class="list-group-item list-group-item-action border-none fw-semibold" aria-current="false">
+    {{ item.name }}
+  </a>
+ {% endfor %}  
+{% endif %}  
 </div>    
   </div>
   <div class="vr"></div>
   <div class="p-2">      
 <div class="list-group">
+{% if page.locale == 'en' %}  
  {% for item in site.data.locales[page.locale].aside_external_links %}
   <a href="{{ item.url }}" target="_blank" class="list-group-item list-group-item-action border-none fw-semibold" aria-current="false">
     {{ item.name }}
   </a>
   {% endfor %}   
+{% elsif page.locale == 'ar' %}  
+ {% for item in site.data.locales[page.locale].aside_external_links %}
+  <a href="{{ item.url }}" target="_blank" class="list-group-item list-group-item-action border-none fw-semibold" aria-current="false">
+    {{ item.name }}
+  </a>
+  {% endfor %}  
+{% else %}  
+ {% for item in site.data.setting.aside_external_links %}
+  <a href="{{ item.url }}" target="_blank" class="list-group-item list-group-item-action border-none fw-semibold" aria-current="false">
+    {{ item.name }}
+  </a>
+  {% endfor %}  
+{% endif %}  
   </div>
    </div>
 </div>       
