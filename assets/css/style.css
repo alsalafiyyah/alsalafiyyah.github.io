@@ -114,3 +114,4 @@ sup li a.footnote {
   background-color: var(--black);
   padding: 5px;
 }
+dataTable-table>tbody>tr>td,.dataTable-table>tbody>tr>th,.dataTable-table>tfoot>tr>td,.dataTable-table>tfoot>tr>th,.dataTable-table>thead>tr>td,.dataTable-table>thead>tr>th{vertical-align:top;padding:8px 0px !important;}
