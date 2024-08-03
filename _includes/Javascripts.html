@@ -49,6 +49,19 @@ $( document ).ready(function() {
 });    
 </script>
 <script type="text/javascript">
+var clipboard = new ClipboardJS('.btn-copy');
+clipboard.on('success', function(e) {
+    console.info('Action:', e.action);
+    console.info('Text:', e.text);
+    console.info('Trigger:', e.trigger);
+    e.clearSelection();
+});
+clipboard.on('error', function(e) {
+    console.error('Action:', e.action);
+    console.error('Trigger:', e.trigger);
+});
+</script>
+<script type="text/javascript">
 // Select elements
 const target = document.getElementById('copyUrl');
 const button = target.nextElementSibling;
