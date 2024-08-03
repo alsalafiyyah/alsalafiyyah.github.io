@@ -13,13 +13,13 @@ active: category
    <p style="font-size: 16px !important;">
     <small>
      <i class="bi bi-calendar-day"></i>
-     {{ post.date | date: "%b %d, %Y" }} 
-     {{ post.hijri | prepend: " / " }}
+     {{ item.date | date: "%b %d, %Y" }} 
+     {{ item.hijri | prepend: " / " }}
     </small>
    </p>
   </a>
   <p class="mb-1 fst-italic">
-    {{ post.excerpt | escape | truncate: 150 | strip_html }} 
+    {{ item.excerpt | escape | truncate: 150 | strip_html }} 
   </p>
  </td>
 </tr>
