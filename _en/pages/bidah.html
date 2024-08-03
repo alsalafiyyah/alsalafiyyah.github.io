@@ -5,30 +5,20 @@ locale: en
 excerpt: The fundamental rule on the acts of ‘Ibadah (worship) is that it is Tawqifiyyah, i.e. bound by a religious text from the Qur’an and Sunnah, and not subject to personal opinion.
 permalink: /en/bidah/
 ---
-<p>
-  Muslims have to avoid bid'ahs (religious innovations) and beware of them for the Prophet ﷺ said, <b>"He who does an act which we have not commanded, will have it rejected (by Allah)."</b> and he ﷺ also said, <b>"Avoid novelties [in religion], for every novelty is a bid'ah, and every bid'ah is deviation."</b>.
-</p>
-<ol>
-  <li>
-    This Shari’ah is fully established by Allah, and needs no human to complete it, as Allah states, <b>“This day, I have perfected your religion for you, completed My Favour upon you, and have chosen for you Islam as your religion.”</b> (Surah Al-Ma’idah, 5: 3).
-  </li>
-  <li>
-    The fundamental rule on the acts of ‘Ibadah (worship) is that it is Tawqifiyyah (bound by a religious text from the Qur’an and Sunnah, and not subject to personal opinion). Whoever claims that an ‘Ibadah is legitimate should provide evidence to support it; otherwise, it is rejected. It is authentically reported that the Messenger of Allah ﷺ stated, <b>“He who innovates something in this matter of ours (i.e., Islam) that is not of it will have it rejected (by Allah).”</b> In another narration, <b>“He who does an act which we have not commanded, will have it rejected (by Allah)”</b>
-  </li>
-</ol>
-<p>
-  As for the meaning of Bid`ah, linguistically it means creating something new, with no previous example to follow; while in Shari’ah it means innovating a form of verbal, practical, or creedal ibadah which is not legislated by Allah (Praised and Exalted be He). Every Bid’ah leads to misguidance, according to what the Prophet ﷺ stated.
-</p>
-<p>
-  See also <a href="https://alsalafiyyah.github.io/rule-on-describing-wordly-investions-as-bidah">Ruling on describing wordly investions as bidah</a>
-</p>
-<h3>Fatwas on <a class="nowavy mark" href="https://alsalafiyyah.github.io/category/bidah/">Bid'ah</a> :</h3>
+{% include intro_bidah.html %}
 <table>
 {% for post in site.posts %}
 {% if post.categories contains 'bidah' %}
 <tr><td>
- <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
- <p><time>{{ post.date | date: "%b %d, %Y" }} / {{ post.hijri }}</time></p>
+ <a class="link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="{{ post.url }}">
+  <h3>{{ post.title }}</h3>
+ </a>
+ <p>
+  <small>{{ post.date | date: "%b %d, %Y" }} / {{ post.hijri }}</small>
+ </p>
+ <p class="mb-1 fst-italic">
+   {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace | remove_first: "Question:" }}
+ </p>
 </td></tr>
 {% endif %}
 {% endfor %}
