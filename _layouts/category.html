@@ -24,8 +24,17 @@ active: category
    </li>
   </ol>
 </nav> 
-<h2>
- Category: <mark>{{ page.title }}</mark>
-</h2>
+ <ul class="list-group">
+  <li class="list-group-item d-flex justify-content-between align-items-center">
+    <h2 itemprop="headline">{{ page.title }}</h2>
+     {% if page.active == "muqolat" %}
+      <span class="badge text-bg-light">
+       <span class="badge text-bg-danger rounded-pill">
+        {{ site.categories[page.category] | size }}
+       </span>
+        entries
+      </span>  
+  </li>
+ </ul>
 {{ content }}
 </section>
