@@ -43,7 +43,8 @@ Shaykh Ibn Baz (may Allah have mercy on him) said: 
 
 ---
 Shaykhul-Islam Ibn Taymiyyah (may Allah have mercy on him) said: 
-**"The Jews are in fact awaiting the dajjal (false messiah), for he is the one whom the Jews will follow. Seventy thousand of the Jews of Isfahan wearing tayalisah (a kind of head covering) will emerge with him. The Muslims will fight them with him, to the extent that trees and rocks will say: “O Muslim, here is a Jew behind me; come and kill him.”** [^7]
+
+**"The Jews are in fact awaiting the dajjal (false messiah), for he is the one whom the Jews will follow. Seventy thousand of the Jews of Isfahan[^7] wearing tayalisah (a kind of head covering) will emerge with him. The Muslims will fight them with him, to the extent that trees and rocks will say: “O Muslim, here is a Jew behind me; come and kill him.”** [^8]
 
 ---
 [^1]: Imam Ahmad, vol. 2, pp. 67, 122, 131, 149, 398, 417, and 530, and vol. 4, p. 217; Al-Bukhari, Fath-ul-Bari, no. 3593 and 2925; Muslim, nos. 2921 and 2922; and Al-Tirmidhi, Al-Jami', no. 2237.
@@ -52,5 +53,6 @@ Shaykhul-Islam Ibn Taymiyyah (may Allah have mercy on him) said:
 [^4]: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 5775, Question 2
 [^5]: Fath al-Bari 6/610
 [^6]: Fatawa Nur ‘ala ad-Darb by Ibn Baz 4/290
-[^7]: al-Jawab as-Sahih 2/30
+[^7]: Isfahan : City in Iran
+[^8]: al-Jawab as-Sahih 2/30
 
