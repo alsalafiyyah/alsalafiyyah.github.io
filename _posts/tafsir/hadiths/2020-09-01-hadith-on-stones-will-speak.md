@@ -53,6 +53,7 @@ Shaykhul-Islam Ibn Taymiyyah (may Allah have mercy on him) said:
 [^4]: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 5775, Question 2
 [^5]: Fath al-Bari 6/610
 [^6]: Fatawa Nur ‘ala ad-Darb by Ibn Baz 4/290
-[^7]: Isfahan : City in Iran
+[^7]: Isfahan: City in Iran. 
+The Dajjal will emerge from the direction of the east, from Khorasan, from among the Jews of Isfahan. Anas (may Allah be pleased with him) said: **“The Messenger of Allah (peace and blessings be upon him) said: ‘The Dajjal will emerge from among the Jews of Isfahan, and with him will be seventy thousand Jews, wearing crowns.’”** (Narrated by Ahmad, no. 12865). In another narration, he (peace and blessings be upon him) said: **“The Dajjal will emerge from a land in the east called Khurasan.”** (Narrated by al-Tirmidhi, no. 2163. Classed as sahih (authentic) by al-Albani, Sahih al-Jami’ al-Saghir, hadith 3398).
 [^8]: al-Jawab as-Sahih 2/30
 
