@@ -19,7 +19,7 @@ active: category
    </p>
   </a>
   <p class="mb-1 fst-italic">
-    {{ item.excerpt | escape | truncate: 150 | strip_html }} 
+    {{ item.excerpt | strip | escape | truncate: 150 | strip_html }} 
   </p>
  </td>
 </tr>
