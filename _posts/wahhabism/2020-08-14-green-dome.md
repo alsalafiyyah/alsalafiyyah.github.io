@@ -9,7 +9,7 @@ note: false
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_864/nour_86402.mp3
 lang: en
 active: wahhabi
-category: [fatwas,audios-wahhabism,manhaj]
+category: [fatwas,audios,wahhabism,manhaj]
 excerpt: "They say that Muhammad Ibn Abdul-Wahhab removed all the domes, with the exception of that dome; namely, the dome of the Prophet (peace be upon him)."
 muftis:
   shaykh: 
