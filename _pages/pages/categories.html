@@ -6,6 +6,8 @@ excerpt: Browse all available fatwas by categories.
 permalink: /categories/
 ---
 
+<table>
+<tr><td>
 <div class="list-group">
 {% for category in site.categories %}	
   <a href="{{ site.baseurl }}/category/{{ category[0] }}" class="list-group-item list-group-item-action">
@@ -18,3 +20,5 @@ permalink: /categories/
   </a>
 {% endfor %}
 </div>
+</td></tr>
+</table>
