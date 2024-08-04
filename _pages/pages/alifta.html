@@ -1,0 +1,15 @@
+---
+layout: Page
+title: Scholars of The Permanent Committee for Scholarly Research and Ifta
+active: category
+excerpt: A number of senior scholars from the Kingdom of Saudi Arabia. 
+permalink: /biography/alifta/
+---
+<div class="list-group bg-transparent">
+{% for item in site.data.alifta %}
+ <a href="{{ item.url }}" 
+   class="list-group-item list-group-item-action">
+   {{ item.title }}
+ </a>
+{% endfor %}
+</div>
