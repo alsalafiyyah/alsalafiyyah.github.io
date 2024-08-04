@@ -8,7 +8,7 @@ lang: en
 locale: en
 date: 2020-09-08
 note: false
-category: [refutals,non-muslims,sects,manhaj]
+category: [refutals,non-muslim,sects,manhaj]
 excerpt: "As for non-Muslims, they should be resented and opposed for their disbelief in Allah, the Glorified. It is prohibited to support or take care of them until they believe in Allah Alone and abandon their disbelief and deviation."
 muftis:
   shaykh: 
