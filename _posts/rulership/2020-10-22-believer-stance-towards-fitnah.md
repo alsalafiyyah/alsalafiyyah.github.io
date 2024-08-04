@@ -4,12 +4,11 @@ published: true
 publisher: alsalafiyyah@icloud.com
 title: "The Believer's Stance towards the Trials (Fitnah)"
 hijri: "Rabi' Al-Awwal 05, 1442 AH"
-source: "Majmu' Fatawa Wa Maqalat of Ibn Baz p. 6/103"
+source: "Majmu' Fatawa Wa Maqalat of Ibn Baz 6/103"
 lang: en
-category: [rulership, hishah, jihad]
+category: [rulership,hisbah,jihad]
 note: false
-uid: believer-stance-towards-fitnah
-excerpt: "Trial also takes place by means of doubts and lust. Many people were exposed to trial because of groundless doubts, like the Al-Jahmiyyah, Al-Mu'tazilah, Shi'ah (Shiites), Al-Murji'ah, and other deviant sects who were misguided by doubts and deviated from the way of Ahl-ul-Sunnah wal-Jama'ah."
+excerpt: "Trial also takes place by means of doubts and lust. Many people were exposed to trial because of groundless doubts, like the Al-Jahmiyyah, Al-Mu'tazilah, Shi'ah, Al-Murji'ah, and other deviant sects who were misguided by doubts and deviated from the way of Ahl-ul-Sunnah wal-Jama'ah."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
