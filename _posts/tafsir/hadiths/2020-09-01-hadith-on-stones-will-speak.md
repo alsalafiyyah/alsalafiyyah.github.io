@@ -27,10 +27,24 @@ Ibn 'Umar (may Allah be pleased with them both) said that he heard the Messenger
 
 It was also reported by Ibn Majah on the authority of Abu Umamah Al-Bahily who said that the Prophet (peace be upon him) said this Hadith about Al-Masih-ul-Dajjal (the Antichrist).
 
-And Allah is the Source of strength. May Allah grant us success. May peace and blessings be upon our Prophet, his family and Companions.
+And Allah is the Source of strength. May Allah grant us success. May peace and blessings be upon our Prophet, his family and Companions. [^4]
 
 ---
+
+Ibn Hajar (may Allah have mercy on him) said: 
+
+"**What is meant by fighting the Jews is that this will happen when the Dajjal emerges and ‘Isa (Jesus, peace be upon him) descends.**" [^5]
+
+---
+
+Shaykh Ibn Baz (may Allah have mercy on him) said: 
+
+**‘Isa (Jesus, peace be upon him) will fight him, supported by the Muslims, and he will kill him at the gate of al-Ludd (Lod), which is in Palestine, near al-Quds (Jerusalem). He will kill him with his spear, as it says in the sahih (authentic) hadith, and the Muslims who are with him will kill a great number of the Jews. It says in the hadith from the Prophet (Muhammad, peace and blessings be upon him) that the Muslims will fight the Jews, and will kill them and gain power over them, and trees and rocks will call out: "O Muslim, O slave of Allah, here is a Jew; come and kill him." and ‘Isa will kill the Dajjal and put an end to him.** [^6]
 
 [^1]: Imam Ahmad, vol. 2, pp. 67, 122, 131, 149, 398, 417, and 530, and vol. 4, p. 217; Al-Bukhari, Fath-ul-Bari, no. 3593 and 2925; Muslim, nos. 2921 and 2922; and Al-Tirmidhi, Al-Jami', no. 2237.
 [^2]: Al-Bukhari, Sahih, Book on merits and virtues, no. 2593; Muslim, Sahih, Book on trials and signs of the Hour, no. 2921; Al-Tirmidhy, Sunan, Book on trials, no. 2236; and Ahmad, vol. 2, p. 135.
 [^3]: Imam Ahmad, vol. 2, p. 67, vol. 3, p. 119, and vol. 4, p. 338; and Ibn Majah, no. 4128.
+[^4]: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 5775, Question 2
+[^5]: Fath al-Bari 6/610
+[^6]: Fatawa Nur ‘ala ad-Darb by Ibn Baz 4/290
+
