@@ -1,20 +1,21 @@
 ---
-layout: default
+layout: Page
 title: Categories
 active: category
 ---
-
-<table class="uk-table" id="table">	
- <tbody>     
+<table>	     
+  <ul class="list-group">
   {% for category in site.categories %}	
   <tr>
    <td>
-    <a href="../category/{{ category[0] }}">
-     {{ category[0] | capitalize }}    
+    <a href="{{ site.baseurl }}/category/{{ category[0] }}" class="list-group-item d-flex justify-content-between align-items-center">
+     {{ category | first | strip_html }}
+     <span class="badge text-bg-danger rounded-pill">
+      {{ category[1].size }}
+     </span>
     </a>
-   </td>    
-   <td>{{ category[1].size }}</td>
-  </tr>
+   </td>
+  </tr>      
   {% endfor %}	
- </tbody>	
-</table> 
+  </ul>	
+</table>
