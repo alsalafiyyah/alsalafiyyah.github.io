@@ -8,7 +8,7 @@ permalink: /categories/
 
 <div class="list-group">
 {% for category in site.categories %}	
-  <a href="/hudud" class="list-group-item list-group-item-action">
+  <a href="{{ site.baseurl }}/category/{{ category[0] }}" class="list-group-item list-group-item-action">
     <div class="d-flex w-100 justify-content-between">
       <h5 class="mb-1">{{ category | first | strip_html | capitalize }}</h5>
       <span class="badge text-bg-danger rounded-pill">
