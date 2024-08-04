@@ -3,10 +3,20 @@ layout: Page
 robots: noindex
 permalink: /test/
 ---
+
 {% for category in site.categories %}
-    {% assign cat = category[0] %}
-    <h6><a href="#">{{ cat }}</a></h6>
-    {% for post in site.categories[cat] %}
-        <a href="{{ post.url }}">{{ post.title }}</a> <small>{{ post.date }}</small>
-    {% endfor %}
+{% assign cat = category[0] %}
+<div class="card bg-transparent border-danger">
+  <div class="card-header">
+   {{ cat }}
+  </div>
+  <div class="list-group">
+  {% for post in site.categories[cat] %}    
+    <a href="{{ post.url }}" class="list-group-item list-group-item-action">
+        {{ post.title }}
+    </a> 
+    <p><small>{{ post.date }}</small></p> 
+  {% endfor %}      
+  </div>
+</div>
 {% endfor %}
