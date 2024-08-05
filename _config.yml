@@ -55,6 +55,15 @@ compress_html:
   startings: [html, head, body]
   endings: all
 
+jekyll_timeago:
+  depth: 2
+  translations_path: '/data/i18n/*.yaml'
+  default_locale: 'en'
+  fallbacks: true
+  available_locales:
+    - 'en'
+    - 'ar'
+
 tipue_search:
   include:
     pages: false
