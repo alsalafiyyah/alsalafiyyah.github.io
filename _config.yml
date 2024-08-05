@@ -35,8 +35,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-redirect-from
-  - utc_filter
+  - jekyll-timeago
+  - liquid
   - categories
+  - utc_filter
 
 exclude:
   - Gemfile
