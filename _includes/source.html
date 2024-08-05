@@ -478,16 +478,18 @@
 <ul class="list-group list-group-flush">
 
 <!-- Hijri Date -->  
-<li class="list-group-item">       
+<li class="list-group-item">      
+<div class="ms-2 me-auto">
  <time itemprop="datePublished" datetime="{{ post.date | to_utc | date: "%Y%m%dT%H:%M:%S%:z" }}"> 
   {% if page.hijri %}
-   {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.created_at | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.created_at | append: " : " }}{% else %}Created at:{% endif %}     
-    <b>{{ page.hijri }}</b> 
-  {% if page.date %}
-    <b>{{ page.date | date_to_string | prepend: " — " }}</b>
-  {% endif %}     
+   <div class="fw-semibold">{% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.created_at | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.created_at | append: " : " }}{% else %}Created at:{% endif %}</div>   
+    <span class="fw-bold">{{ page.hijri }}</span> 
+   {% if page.date %}
+    <span class="fw-bold">{{ page.date | date_to_string | prepend: " — " }}</span>
+   {% endif %}     
   {% endif %}  
  </time>
+</div>  
 </li> 
 
 <!-- read time -->  
