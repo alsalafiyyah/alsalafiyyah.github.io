@@ -482,15 +482,27 @@
 <div class="ms-2 me-auto">
  <time itemprop="datePublished" datetime="{{ post.date | to_utc | date: "%Y%m%dT%H:%M:%S%:z" }}"> 
   {% if page.hijri %}
-   <div class="fw-semibold">{% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.created_at | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.created_at | append: " : " }}{% else %}Created at:{% endif %}</div>   
-    <span class="fw-bold">{{ page.hijri }}</span> 
+   <div class="fw-normal">{% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.created_at | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.created_at | append: " : " }}{% else %}Created at:{% endif %}</div>   
+    <span class="fw-semibold">{{ page.hijri }}</span> 
    {% if page.date %}
-    <span class="fw-bold">{{ page.date | date_to_string | prepend: " — " }}</span>
+    <span class="fw-semibold">{{ page.date | date_to_string | prepend: " — " }}</span>
    {% endif %}     
   {% endif %}  
  </time>
 </div>  
 </li> 
+
+<!-- general publisher -->    
+<li class="list-group-item">
+ <div class="ms-2 me-auto">  
+  <div class="fw-normal">Posted by</div>
+   <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+    <a itemprop="url" href="https://instagram.com/alsalafiyyah" rel="nofollow" target="_blank">
+     <span class="fw-semibold" itemprop="name">@Alsalafiyyah</span>
+    </a>
+   </span>
+ </div>
+</li>
 
 <!-- read time -->  
 <li class="list-group-item">
@@ -500,19 +512,12 @@
 <!-- source -->  
 {% if page.source %}
  <li class="list-group-item">
-  {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.source | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.source | append: " : " }}{% else %}Source:{% endif %} <b>{{ page.source }}</b>
+  <div class="ms-2 me-auto">   
+   <div class="fw-normal">{% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.source | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.source | append: " : " }}{% else %}Source:{% endif %}</div>
+    <span class="fw-semibold">{{ page.source }}</span>
+  </div>
  </li>
 {% endif %}
-
-<!-- general publisher -->    
-<li class="list-group-item">
-  Posted by 
-   <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-    <a itemprop="url" href="https://instagram.com/alsalafiyyah" rel="nofollow" target="_blank">
-     <span class="fw-semibold" itemprop="name">@Alsalafiyyah</span>
-    </a>
-   </span>
-</li>
 
 <!-- reference -->  
 {% if page.article_taken_from %}
@@ -528,7 +533,10 @@
 <!-- if translated by on -->  
 {% if page.translated_by %}
  <li class="list-group-item">
-  {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.translated_by | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.translated_by | append: " : " }}{% else %}Translated by:{% endif %} <b>{{ page.translated_by }}</b> 
+   <div class="ms-2 me-auto">
+     <div class="fw-normal">{% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.translated_by | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.translated_by | append: " : " }}{% else %}Translated by:{% endif %}</div>
+     <span class="fw-semibold">{{ page.translated_by }}</span> 
+   </div>
  </li>
 {% endif %}
 
