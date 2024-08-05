@@ -35,7 +35,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-redirect-from
-  - jekyll-timeago
   - liquid
   - categories
   - utc_filter
@@ -54,15 +53,6 @@ compress_html:
   clippings: all
   startings: [html, head, body]
   endings: all
-
-jekyll_timeago:
-  depth: 2
-  translations_path: '/data/i18n/*.yaml'
-  default_locale: 'en'
-  fallbacks: true
-  available_locales:
-    - 'en'
-    - 'ar'
 
 tipue_search:
   include:
