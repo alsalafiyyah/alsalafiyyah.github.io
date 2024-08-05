@@ -10,4 +10,5 @@ group :jekyll_plugins do
   gem "liquid"
   gem "jekyll-timeago"
   gem "jekyll-paginate"
+  gem "mini_i18n"
 end
