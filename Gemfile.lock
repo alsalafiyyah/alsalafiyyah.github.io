@@ -84,9 +84,7 @@ DEPENDENCIES
   jekyll-remote-theme
   jekyll-seo-tag
   jekyll-sitemap
-  jekyll-timeago
   liquid
-  mini_i18n
 
 BUNDLED WITH
    2.4.22
