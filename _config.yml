@@ -38,6 +38,7 @@ plugins:
   - liquid
   - categories
   - utc_filter
+  - jekyll-paginate-category
 
 exclude:
   - Gemfile
@@ -48,6 +49,9 @@ Tags: '/tags/'
 tag_page: '/tags/'
 Categories: '/category/'
 category_page: '/category/'
+
+category_dir: "categories"
+category_layout: "index.html"
 
 compress_html:
   clippings: all
