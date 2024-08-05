@@ -477,7 +477,7 @@
 <ul class="list-group list-group-flush">
        <li class="list-group-item">       
         <span>
-          <time itemprop="datePublished" datetime="{{ page.date | date_to_string }}"> 
+          <time itemprop="datePublished" datetime="{{ post.date | to_utc | date: "%Y%m%dT%H:%M:%S%:z" }}"> 
           {% if page.hijri %}
             {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.created_at | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.created_at | append: " : " }}{% else %}Created at:{% endif %}     
             <b>{{ page.hijri }}</b> 
