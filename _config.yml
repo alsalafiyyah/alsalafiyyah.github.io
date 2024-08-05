@@ -40,8 +40,6 @@ plugins:
   - categories
   - utc_filter
 
-gems: [jekyll-timeago]
-
 exclude:
   - Gemfile
   - .gitignore
