@@ -522,16 +522,16 @@
 <!-- reference -->  
 {% if page.article_taken_from %}
  {% if page.article_taken_from.taken_from %}
-  <div class="ms-2 me-auto">
   {% for p in page.article_taken_from.taken_from %}
    <li class="list-group-item">
+   <div class="ms-2 me-auto">
     <div class="fw-normal">{% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.ref | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.ref | append: " : " }}{% else %}Reference:{% endif %}</div>
      <span class="fw-semibold">
        <a class="icon-link" href="{{ p.web_url }}" target="_blank" rel="nofollow">{{ p.web_title }} <i class="bi bi-box-arrow-up-right"></i></a>
      </span>
+   </div>
    </li>
   {% endfor %}
-  </div>
  {% endif %}
 {% endif %}
 
