@@ -11,11 +11,23 @@ locale: en
 category: [fatwas,rulership,terminology]
 note: true
 excerpt: "Al-Siyasah Al-Shar'iyyah is policy that is based on the Qur'an and Sunnah, by the ruler administering justice and the subjects giving loyalty and obedience."
-group1: true
 article_taken_from: 
   taken_from:
     - web_title: معنى السياسة الشرعية
       web_url: https://al-fatawa.com/fatwa/106102
+muftis:
+  chairman: 
+    - name: Shaykh Ibn Baz
+      url: /biography/binbaz
+  members: 
+    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+      url: /biography/abdulaziz
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan  
+    - name: Shaykh Salih Al-Fawzan
+      url: /biography/fawzan
+    - name: Shaykh Bakr Abu Zayd
+      url: /biography/bakr         
 --- 
 
 ### Question: 
