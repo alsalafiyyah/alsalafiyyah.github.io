@@ -1,21 +1,20 @@
-<div class="inline">
-<ul>
-      <li>
-        {{ site.data.locales[page.locale].page.date }}: 
-        <span>
-          <time itemprop="datePublished" datetime="{{ page.date | date_to_string }}"> 
-          {% if page.date %}
-            {{ page.date | date_to_string | append: " - " }}
-          {% endif %}  
-          {% if page.hijri %}
-           {{ page.hijri }}
-          {% endif %}
-          </time>
-        </span>
-      </li> 
-      <li>
-           {% include read_time.html %}
-      </li>
-      <li id='last-modified'></li> 
-   </ol>
-</div>
+<div class="ms-2 me-auto">
+ <time itemprop="datePublished" datetime="{{ page.date | to_utc | date: "%Y%m%dT%H:%M:%S%:z" }}"> 
+  {% if page.hijri %}
+   <div class="fw-normal">{% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.created_at | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.created_at | append: " : " }}{% else %}Created at:{% endif %}</div>   
+    <span class="fw-semibold">{{ page.hijri }}</span> 
+   {% if page.date %}
+    <span class="fw-semibold">
+   {% assign day = page.date | date: "%-d" %}
+   {% case day %}
+    {% when '1' or '21' or '31' %}{{ day }}st
+    {% when '2' or '22' %}{{ day }}nd
+    {% when '3' or '23' %}{{ day }}rd
+    {% else %}{{ day }}th
+   {% endcase %}
+    {{ page.date | date: "of %B, %Y"  | prepend: " — " }}
+    </span>
+   {% endif %}     
+  {% endif %}  
+ </time>
+</div> 
