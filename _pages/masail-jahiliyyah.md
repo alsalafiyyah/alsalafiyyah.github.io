@@ -17,17 +17,21 @@ muftis:
       url: /biography/abdul-wahhab
 ---
 
-These are the aspects that the people of the Days of Ignorance –both the people of the Book and the non-People of the Book– were upon, which Rasulullah [^1] ﷺ opposed. They are from the matters that every Muslim is required to possess knowledge of. This is since with (understanding) one side of the opposite, the goodness of the other side of the opposite can be made apparent. And it is by (making apparent the) opposite of something that matters become clarifed. 
+These are the aspects that the people of the Days of Ignorance –both the people of the Book and the non-People of the Book– were upon, which the Messenger of Allah (Muhammad, peace be upon him) opposed. They are from the matters that every Muslim is required to possess knowledge of. 
 
-The most important of these aspects (of the Days of Ignorance) and most severe in terms of danger was the absence of faith in the heart, for what Rasulullah ﷺ came with. And if approval for what the people of the Days of Ignorance were upon is further added to this (absence of faith), then the total ruin is achieved, as Allah says: **“And those who believe in the falsehood while disbelieving in Allah, it is they who are the losers.”** (al-Ankabut [29]:52). 
+This is since with (understanding) one side of the opposite, the goodness of the other side of the opposite can be made apparent. And it is by (making apparent the) opposite of something that matters become clarifed. 
+
+The most important of these aspects (of the Days of Ignorance) and most severe in terms of danger was the absence of faith in the heart, for what the Messenger of Allah (Muhammad, peace be upon him) came with. And if approval for what the people of the Days of Ignorance were upon is further added to this (absence of faith), then the total ruin is achieved, as Allah says: **“And those who believe in the falsehood while disbelieving in Allah, it is they who are the losers.”** (al-Ankabut [29]:52). 
 
 **[1]** They performed worship by mixing righteous people into their supplication and worship of Allah. They only did this desiring that these (righteous people) act as intercessors for them before Allah, based on their notion that Allah loved this and that these righteous people loved Him. 
 
 Allah says: **“And they worship besides Allah things that harm them not nor proft them, and they say: These are our intercessors with Allah.”** (Yunus [10]: 18)
 
-And He (subhanahu wa ta'ala [^2]) says: **“And those who take associates apart from Him, (say): We worship them only so that they may bring us nearer to Allah.”** (az-Zumar [39]: 3)
+And He (Glory be to Him, the Exalted) says: **“And those who take associates apart from Him, (say): We worship them only so that they may bring us nearer to Allah.”** (az-Zumar [39]: 3)
 
-This is the greatest of matters that Rasulullah ﷺ opposed them in. So he brought sincerity (i.e.,, doing deeds sincerely for Allah alone and not for anyone else) and informed that it was the Religion of Allah, which all the messengers were sent with. And he informed us that no deeds are accepted (by Allah), except those done sincerely (for Him alone). And he ﷺ informed that whosoever does what these (polytheists) approved of, and then Allah has forbidden Paradise for him and his fnal destination will be the Hellfre. It is due to this aspect that mankind becomes divided into Muslims and disbelievers. And it is due to it that enmity (between the two) occurs. And it is for this purpose that Jihad was legislated, as Allah says: **“And fght them (disbelievers) until there is no more Fitnah (evil/disbelief) left, and the religion is for Allah alone.”** (al-Anfal [8]: 39) 
+This is the greatest of matters that the Messenger of Allah (Muhammad, peace be upon him) opposed them in. So he brought sincerity (i.e.,, doing deeds sincerely for Allah alone and not for anyone else) and informed that it was the Religion of Allah, which all the messengers were sent with. And he informed us that no deeds are accepted (by Allah), except those done sincerely (for Him alone). 
+
+And he (peace be upon him) informed that whosoever does what these (polytheists) approved of, and then Allah has forbidden Paradise for him and his fnal destination will be the Hellfre. It is due to this aspect that mankind becomes divided into Muslims and disbelievers. And it is due to it that enmity (between the two) occurs. And it is for this purpose that Jihad was legislated, as Allah says: **“And fght them (disbelievers) until there is no more Fitnah (evil/disbelief) left, and the religion is for Allah alone.”** (al-Anfal [8]: 39) 
 
 **[2]** They divided into sects within their religion. 
 
@@ -41,9 +45,9 @@ He has forbidden us from being similar to them, saying: **“And be not like tho
 
 And He has forbidden us from splitting up into sects in the Religion: **“And hold frmly onto the Rope of Allah, all of you together, and be not divided.”** (Aal-'Imran [3]: 103).
 
-**[3]** They held the acts of opposing the fgure of authority and failing to comply with him as being something virtuous. And they saw the acts of hearing and obeying as being humiliating and degrading. So Rasulullah ﷺ opposed them and commanded that patience be observed when facing the oppression of the rulers. And he commanded with hearing and obeying them, as well as advising (them). And he ﷺ spoke extensively in regards to that and he constantly brought it up and repeated it. 
+**[3]** They held the acts of opposing the fgure of authority and failing to comply with him as being something virtuous. And they saw the acts of hearing and obeying as being humiliating and degrading. So the Messenger of Allah (Muhammad, peace be upon him) opposed them and commanded that patience be observed when facing the oppression of the rulers. And he commanded with hearing and obeying them, as well as advising (them). And he (peace be upon him) spoke extensively in regards to that and he constantly brought it up and repeated it. 
 
-These (first) three aspects (of the Days of Ignorance) have been gathered together in what has been related on Rasulullah ﷺ in Sahihayn (the two Sahih i.e., Bukhari & Muslim), that he said: **“Indeed, Allah is pleased with three things for you: That you not worship (anything else) except Allah and that you not associate anything with Him; that all of you, together, hold tightly onto the Rope of Allah and not be divided into groups, and; that you mutually advise he whom Allah has given authority over your affairs.”** There did not occur any defects in the religious and worldly affairs of mankind, except that it was due to a violation of these (first) three aspects, or one of them. 
+These (first) three aspects (of the Days of Ignorance) have been gathered together in what has been related on the Messenger of Allah (Muhammad, peace be upon him) in Sahihayn (the two Sahih i.e., Bukhari & Muslim), that he said: **“Indeed, Allah is pleased with three things for you: That you not worship (anything else) except Allah and that you not associate anything with Him; that all of you, together, hold tightly onto the Rope of Allah and not be divided into groups, and; that you mutually advise he whom Allah has given authority over your affairs.”** There did not occur any defects in the religious and worldly affairs of mankind, except that it was due to a violation of these (first) three aspects, or one of them. 
 
 **[4]** Their religion was built upon certain principles, the greatest of which was taqlid (blind following). 
 
@@ -51,7 +55,7 @@ So this was the biggest principle for all of the disbelievers –the frst and la
 
 And He says: **“And when it is said to them: Follow that which Allah has sent down! They say: Nay, we shall follow that which we found our forefathers (following). Would they do so even if the Devil invites them to the torment of the Fire?”** (Luqman [31]: 21) 
 
-So He revealed to them His saying: **“Say: I exhort you to one thing only –that you stand up for Allah’s sake in pairs and singly– and then refect (upon the life of the Prophet). There is no madness in your companion (Muhammad).”** (as-Saba [34]: 46) 
+So He revealed to them His saying: **“Say: I exhort you to one thing only –that you stand up for Allah’s sake in pairs and singly– and then refect (upon the life of the Prophet). There is no madness in your companion (Muhammad (peace be upon him)).”** (as-Saba [34]: 46) 
 
 And His saying: **“(Say to the disbelievers): Follow what has been sent down unto you from your Lord, and follow not any partners besides Him. Little do you remember!”** (al-A’raf [7]: 3)
 
@@ -87,23 +91,23 @@ And His saying: **“Do not go to extremes in your religion (by believing in som
 
 **[15]** They used the claim that they had a **“lack of comprehending”** as an excuse for not following what Allah revealed to them, as Allah says: **“(They said): Our hearts are sealed (with coverings).”** (al-Baqarah [2]: 88) 
 
-And He says: **“(They said): O Shuayb[^3], we do not understand much of what you say!”** (Hud [11]: 91) 
+And He says: **“(They said): O Shuayb (Jethro), we do not understand much of what you say!”** (Hud [11]: 91) 
 
 So Allah declared them to be liars and clarifed that their lack of understanding was due to the sealing of their hearts, and the sealing of their hearts was due to their disbelief.
 
 **[16]** They replaced what came to them from Allah with books of magic, as Allah mentions in His saying: **“And when there came to them a Messenger from Allah confrming what was with them, a party of those who were given the scripture threw the Book of Allah behind their backs, as if they did not know! And they followed (instead) what the devils gave out (falsely of magic) in the lifetime of Sulayman.”** (al-Baqarah [2]: 101-102)
 
-**[17]** They ascribed their falsehood to the prophets, as is found in Allah’s saying: **“And Sulayman[^4] did not disbelieve.”** (al-Baqarah [2]: 102) and His saying: **“Ibrahim[^5] was neither a Jew nor a Christian.”** (Aal 'Imran [3]: 67)
+**[17]** They ascribed their falsehood to the prophets, as is found in Allah’s saying: **“And Sulayman (Solomon) did not disbelieve.”** (al-Baqarah [2]: 102) and His saying: **“Ibrahim (Abraham) was neither a Jew nor a Christian.”** (Aal 'Imran [3]: 67)
 
 **[18]** They contradicted themselves in their ascriptions, for they would ascribe themselves to Ibrahim (Abraham, peace be upon him), yet openly manifest their lack of following him.
 
-**[19]** They slandered and accused righteous people based on the actions of others who “ascribed” themselves to these (righteous people). An example of this is found in the Jews' slander of Isa[^6] (Jesus, peace be upon him) and the Christians' and Jews' slander of Muhammad ﷺ. 
+**[19]** They slandered and accused righteous people based on the actions of others who “ascribed” themselves to these (righteous people). An example of this is found in the Jews' slander of 'Isa (Jesus) and the Christians' and Jews' slander of Muhammad ﷺ. 
 
 **[20]** They believed that the tricks of the sorcerers and their likes were from the miraculous endowments that Allah granted to some righteous people. And they attributed it to the prophets, such as their ascribing it to Sulayman (Solomon, peace be upon him).
 
-**[21]** They performed worship by whistling and clapping their hands.[^7]
+**[21]** They performed worship by whistling and clapping their hands.[^1]
 
-**22]** They took their Religion as an amusement and a game.
+**22]** They took their Religion as an amusement and a game. [^2]
 
 **[23]** They were deluded by the life of this world. So they perceived Allah’s bestowal of worldly material (on someone), as an indication of He was pleased (with that person), as He says: **“And they say: We are abundant in wealth and in children. And (because of that) we are not going to be punished.”** (Saba [34]: 35)
 
@@ -127,7 +131,7 @@ So Allah declared them to be liars and clarifed that their lack of understanding
 #### Enmity towards the True Religion and Love for the False Religion
 **[31]** It is also from the amazing signs of Allah that these people held the highest degree of hatred for the religion they affliated themselves with, while having love for the religion of the disbelievers; those who were enemies to them and their prophet. 
 
-And their trial was found in the extent of their love (for that religion of their enemies). As they did with Rasulullah ﷺ when they approached him with the religion of Musa[^8] (peace be upon him), while (in reality) they were following the books of magic. And that (magic) was from the religion of the people of Pharaoh.
+And their trial was found in the extent of their love (for that religion of their enemies). As they did with the Messenger of Allah (Muhammad, peace be upon him). when they approached him with the religion of Musa (Moses, peace be upon him), while (in reality) they were following the books of magic. And that (magic) was from the religion of the people of Pharaoh.
 
 #### Denying the Truth when it was with Others whom they did not Like.
 **[32]** They disbelieved in the truth if it was found with someone that they did not like or agree with. Allah says: **"The Jews say that the Christians follow nothing (i.e., are on the wrong Religion) and the Christians say that the Jews follow nothing."** (al-Baqarah [2]: 113)
@@ -153,16 +157,10 @@ And their trial was found in the extent of their love (for that religion of thei
 #### Denying Allah's Names 
 **[39]** They denied Allah's Names, as Allah says: **"While they disbelieve in ar-Rahman (The Most Merciful)."** (ar-Ra’d [13]: 30)
 
-#### Denial of the Lord 
 **[40]** They committed Ta’til (negation of Allah's Names and Attributes), as is found in the statement of the people of Pharaoh.
 
----
+**[41]** They attributed defciencies to Allah, such as (Him having) a child, a need and being tired, while (on the other hand), they would eliminate some of these defciencies from their religious leaders (i.e., monks).
 
-[^1]: Rasulullah: Messenger of Allah, peace be upon him. 
-[^2]: Subhanahu wa ta'ala : Glory be to Him, the Exalted. 
-[^3]: Shuaib/Shuayb : Jethro, peace be upon him. 
-[^4]: Sulayman: Solomon, peace be upon him. 
-[^5]: Ibrahim: Abraham, peace be upon him.
-[^6]: 'Isa : Jesus, peace be upon him.
-[^7]: Allah says: **“And their prayer at the House (Ka’bah) was nothing but whistling and clapping of hands. So taste the torment because of what you used to disbelieve.”** [Qur'an, Al-Anfal:35]. 
-[^8]: Musa : Moses, peace be upon him.
+---
+[^1]: Allah says: **“And their prayer at the House (Ka’bah) was nothing but whistling and clapping of hands. So taste the torment because of what you used to disbelieve.”** [al-Anfal:35].
+[^2]: Allah says: **"Who took their religion as an amusement and play, and the life of the world deceived them."..."** (al-A'raf [7]: 51)
