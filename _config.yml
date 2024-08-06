@@ -43,6 +43,7 @@ exclude:
   - Gemfile
   - .gitignore
   - Gemfile.lock
+  - vendor
 
 Tags: '/tags/'
 tag_page: '/tags/'
