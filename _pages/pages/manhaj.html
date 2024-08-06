@@ -9,11 +9,12 @@ permalink: /manhaj/
  <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2">
   {% for post in site.posts %}
   {% if post.categories contains 'manhaj' %}
-  <div class="col mb-3">
+  <div itemscope itemtype="https://schema.org/NewsArticle" class="col mb-3">
+   <meta itemprop="image" content="{{ '/assets/images/fb.jpg' | absolute_url }}" />
    <div style="margin:0px !important;padding: 0px !important;"> 
     <a style="margin:0px !important;padding: 0px !important;"
        href="{{ post.url }}">
-     <h3>{{ post.title }}</h3>
+     <h3 itemprop="headline">{{ post.title }}</h3>
     </a>
     <p class="mb-1 fst-italic">
      {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace | remove_first: "Question:" }}
@@ -23,26 +24,36 @@ permalink: /manhaj/
       {% if post.muftis %}
       {% if post.muftis.chairman %} 
       {% for chairman in post.muftis.chairman %}
-       <a class="fw-semibold" href="{{ chairman.url }}">{{ chairman.name | append: " & others" }}</a>
+      <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+       <a itemprop="url" class="fw-semibold" href="{{ chairman.url }}"><span itemprop="name">{{ chairman.name | append: " & others" }}</span></a>
+      </span>
       {% endfor %}
       {% elsif post.muftis.deputy_chairman %}
       {% for deputy in post.muftis.deputy_chairman %}
-       <a class="fw-semibold" href="{{ deputy.url }}">{{ deputy.name | append: " & others" }}</a>
+      <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+       <a itemprop="url" class="fw-semibold" href="{{ deputy.url }}"><span itemprop="name">{{ deputy.name | append: " & others" }}</span></a>
+      </span>
       {% endfor %}
       {% endif %}
       {% endif %}
       {% if post.muftis %}
       {% if post.muftis.shaykh %}  
       {% for shaykh in post.muftis.shaykh %} 
-       <a class="fw-semibold" href="{{ shaykh.url }}">{{ shaykh.name }}</a>
+      <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+       <a itemprop="url" class="fw-semibold" href="{{ shaykh.url }}"><span itemprop="name">{{ shaykh.name }}</span></a>
+      </span>
       {% endfor %}
       {% endif %}
       {% else %}
-       <a class="fw-semibold" href="{{ '/biography/alifta' | absolute_url }}">{% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% else %}Permanent Committee{% endif %}</a> 
+      <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+       <a itemprop="url" class="fw-semibold" href="{{ '/biography/alifta' | absolute_url }}"><span itemprop="name">{% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% else %}Permanent Committee{% endif %}</span></a> 
+      </span>
       {% endif %}
      </div> 
      <div class="text-wrap" style="width: 8rem;">
+      <span itemprop="datePublished" content="{{ post.date | to_utc | date: "%Y%m%dT%H:%M:%S%:z" }}">
        {{ post.hijri }},{{ post.date | date: "%b %d, %Y" }}
+      </span>
      </div>
     </div>    
    </div>
@@ -52,7 +63,11 @@ permalink: /manhaj/
  </div>
 </div>
 <style>
-.post-meta, .text-wrap{
+.col h3 a {
+ color: #000100 !important;
+ text-decoration: none !important;
+}
+.post-meta, .text-wrap {
  font-size: 14px !important;
 }    
 </style> 
