@@ -31,9 +31,16 @@ permalink: /manhaj/
       {% endfor %}
       {% endif %}
       {% endif %}
+      {% if post.muftis %}
+      {% if post.muftis.shaykh %}  
+      {% for shaykh in post.muftis.shaykh %} 
+       <a href="{{ shaykh.url }}">{{ shaykh.name }}</a>
+      {% endfor %}
+      {% endif %}
+      {% endif %}
      </div> 
      <div class="text-wrap" style="width: 8rem;">
-      {{ post.date | date: "%b %d, %Y" }} {{ post.hijri }}<
+      {{ post.date | date: "%b %d, %Y" }} {{ post.hijri }}
      </div>
     </div>    
    </div>
@@ -42,3 +49,8 @@ permalink: /manhaj/
   </div>   
  </div>
 </div>
+<style>
+.post-meta, .text-wrap{
+ font-size: 14px !important;
+}    
+</style> 
