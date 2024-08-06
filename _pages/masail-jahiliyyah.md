@@ -17,7 +17,7 @@ muftis:
       url: /biography/abdul-wahhab
 ---
 
-These are the aspects that the people of the Days of Ignorance –both the people of the Book and the non-People of the Book– were upon, which the Messenger of Allah (Muhammad, peace be upon him) opposed. They are from the matters that every Muslim is required to possess knowledge of. 
+These are the aspects that the people of the Days of Ignorance –both the people of the Book and the non-People of the Book– were upon, which the Messenger of Allah ﷺ opposed. They are from the matters that every Muslim is required to possess knowledge of. 
 
 This is since with (understanding) one side of the opposite, the goodness of the other side of the opposite can be made apparent. And it is by (making apparent the) opposite of something that matters become clarifed. 
 
@@ -31,9 +31,9 @@ Allah says: **“And they worship besides Allah things that harm them not nor pr
 
 And He (Glory be to Him, the Exalted) says: **“And those who take associates apart from Him, (say): We worship them only so that they may bring us nearer to Allah.”** (az-Zumar [39]: 3)
 
-This is the greatest of matters that the Messenger of Allah (Muhammad, peace be upon him) opposed them in. So he brought sincerity (i.e.,, doing deeds sincerely for Allah alone and not for anyone else) and informed that it was the Religion of Allah, which all the messengers were sent with. And he informed us that no deeds are accepted (by Allah), except those done sincerely (for Him alone). 
+This is the greatest of matters that the Messenger of Allah ﷺ opposed them in. So he brought sincerity (i.e. doing deeds sincerely for Allah alone and not for anyone else) and informed that it was the Religion of Allah, which all the messengers were sent with. And he informed us that no deeds are accepted (by Allah), except those done sincerely (for Him alone). 
 
-And he (peace be upon him) informed that whosoever does what these (polytheists) approved of, and then Allah has forbidden Paradise for him and his fnal destination will be the Hellfre. It is due to this aspect that mankind becomes divided into Muslims and disbelievers. And it is due to it that enmity (between the two) occurs. And it is for this purpose that Jihad was legislated, as Allah says: **“And fght them (disbelievers) until there is no more Fitnah (evil/disbelief) left, and the religion is for Allah alone.”** (al-Anfal [8]: 39) 
+And he (ﷺ) informed that whosoever does what these (polytheists) approved of, and then Allah has forbidden Paradise for him and his fnal destination will be the Hellfre. It is due to this aspect that mankind becomes divided into Muslims and disbelievers. And it is due to it that enmity (between the two) occurs. And it is for this purpose that Jihad was legislated, as Allah says: **“And fght them (disbelievers) until there is no more Fitnah (evil/disbelief) left, and the religion is for Allah alone.”** (al-Anfal [8]: 39) 
 
 **[2]** They divided into sects within their religion. 
 
@@ -47,9 +47,9 @@ He has forbidden us from being similar to them, saying: **“And be not like tho
 
 And He has forbidden us from splitting up into sects in the Religion: **“And hold frmly onto the Rope of Allah, all of you together, and be not divided.”** (Aal-'Imran [3]: 103).
 
-**[3]** They held the acts of opposing the fgure of authority and failing to comply with him as being something virtuous. And they saw the acts of hearing and obeying as being humiliating and degrading. So the Messenger of Allah (Muhammad, peace be upon him) opposed them and commanded that patience be observed when facing the oppression of the rulers. And he commanded with hearing and obeying them, as well as advising (them). And he (peace be upon him) spoke extensively in regards to that and he constantly brought it up and repeated it. 
+**[3]** They held the acts of opposing the fgure of authority and failing to comply with him as being something virtuous. And they saw the acts of hearing and obeying as being humiliating and degrading. So the Messenger of Allah ﷺ opposed them and commanded that patience be observed when facing the oppression of the rulers. And he commanded with hearing and obeying them, as well as advising (them). And he (ﷺ) spoke extensively in regards to that and he constantly brought it up and repeated it. 
 
-These (first) three aspects (of the Days of Ignorance) have been gathered together in what has been related on the Messenger of Allah (Muhammad, peace be upon him) in Sahihayn (the two Sahih i.e., Bukhari & Muslim), that he said: **“Indeed, Allah is pleased with three things for you: That you not worship (anything else) except Allah and that you not associate anything with Him; that all of you, together, hold tightly onto the Rope of Allah and not be divided into groups, and; that you mutually advise he whom Allah has given authority over your affairs.”** There did not occur any defects in the religious and worldly affairs of mankind, except that it was due to a violation of these (first) three aspects, or one of them. 
+These (first) three aspects (of the Days of Ignorance) have been gathered together in what has been related on the Messenger of Allah ﷺ in Sahihayn (the two Sahih i.e., Bukhari & Muslim), that he said: **“Indeed, Allah is pleased with three things for you: That you not worship (anything else) except Allah and that you not associate anything with Him; that all of you, together, hold tightly onto the Rope of Allah and not be divided into groups, and; that you mutually advise he whom Allah has given authority over your affairs.”** There did not occur any defects in the religious and worldly affairs of mankind, except that it was due to a violation of these (first) three aspects, or one of them. 
 
 **[4]** Their religion was built upon certain principles, the greatest of which was taqlid (blind following). 
 
@@ -121,42 +121,30 @@ So Allah declared them to be liars and clarifed that their lack of understanding
 
 **[27]** They authored books of falsehood and then attributed them to Allah, as is found in His saying: **“Then woe to those who write the Book with their own hands and then say: This is from Allah.”** (al-Baqarah [2]79) 
 
-#### Rejecting the Truth found with others
 **[28]** They did not accept anything from the truth, except for that which was (in accordance) with their party/group. Allah says: **“And when it is said to them (Jews): Believe in what Allah has sent down! They say: We will believe in (only) what was sent down to us. And they disbelieved in that which came after it; whereas it is the truth confrming what is with them.”** (al-Baqarah [2]: 91).
 
-#### Not Acting on the Views of those whom they claimed to Follow
 **[29]** But in spite of this, they did not even have knowledge of what the party/group (that they adhered to) used to believe, as Allah points out in His saying: **"Then why have you killed the prophets of Allah aforetime, if you indeed were believers?"** (al-Baqarah [2]: 91)
 
-#### Adhering to Division and Abandoning Unity 
 **[30]** It is from the amazing signs of Allah that when these people abandoned the command of Allah to unite and began to commit that which Allah forbade from evil, the matter became such as: **"Each group rejoicing in that which it has."**
 
-#### Enmity towards the True Religion and Love for the False Religion
 **[31]** It is also from the amazing signs of Allah that these people held the highest degree of hatred for the religion they affliated themselves with, while having love for the religion of the disbelievers; those who were enemies to them and their prophet. 
 
 And their trial was found in the extent of their love (for that religion of their enemies). As they did with the Messenger of Allah (Muhammad, peace be upon him). when they approached him with the religion of Musa (Moses, peace be upon him), while (in reality) they were following the books of magic. And that (magic) was from the religion of the people of Pharaoh.
 
-#### Denying the Truth when it was with Others whom they did not Like.
 **[32]** They disbelieved in the truth if it was found with someone that they did not like or agree with. Allah says: **"The Jews say that the Christians follow nothing (i.e., are on the wrong Religion) and the Christians say that the Jews follow nothing."** (al-Baqarah [2]: 113)
 
-#### Contradictions in Affrming and Denying
 **[33]** They rejected what they agreed was part of their Religion, as they did during the Hajj (pilgrimage) to the House (i.e., the Ka’bah). Allah says: **"And who turns away from the religion of Ibrahim (pure Tawhid), except he who fools himself."** (al-Baqarah [2]: 130). 
 
-#### Each Sect Praise itself apart from Others 
 **[34]** Every one of (their) groups claimed that they were the saved one. So Allah declared them to be liars with His saying: **"Bring forth your proof if you are indeed truthful.”** (al-Baqarah [2]: 111) Then He clarifes what is correct, saying: **"Rather, whosoever submits himself to Allah while he is a good-doer, his reward is with Allah.”** (al-Baqarah [2]: 112). 
 
-#### Seeking Nearness to Allah by Committing the Prohibited 
 **[35]** They performed their acts of worship while exposing their private parts, as Allah says: **"And when they committed an evil deed (i.e., going around the Ka’bah in a naked state), they said: We found our forefathers doing it.”** (al-A’raf [7]: 28). 
 
-#### Seeking Nearness to Allah by Prohibiting the Lawful and Permitting the Unlawful 
 **[36]** They performed worship by forbidding the lawful, in the same manner that they worshiped by ascribing partners to Allah.
 
-#### Taking the Rabbis and Monks as Lords besides Allah 
 **[37]** They observed their worship by taking their rabbis and monks (i.e., learned people) as lords besides Allah.
 
-#### Denying Allah's Names and Attributes
 **[38]** They denied Allah's Attributes, as Allah says: **"But you thought that Allah did not know much of what you were doing."** (Fussilat [41]: 122)
 
-#### Denying Allah's Names 
 **[39]** They denied Allah's Names, as Allah says: **"While they disbelieve in ar-Rahman (The Most Merciful)."** (ar-Ra’d [13]: 30)
 
 **[40]** They committed Ta’til (negation of Allah's Names and Attributes), as is found in the statement of the people of Pharaoh.
@@ -273,7 +261,7 @@ And He says (quoting Pharaoh): **“Verily, I fear that he will change your reli
 
 **[94]** Their religion consisted of holding people accountable for the crimes of others. So Allah revealed: **"And no bearer of burdens shall bear the burden of another."** (al-An'am [6]: 164)
 
-**[95]** They used to condemn a person due to what was found in someone else. This is seen in the Prophet’s saying (to Abu Dharr when he argued with Bilal and called him 'son of a black woman'): "Do you condemn him because of his mother? Indeed you are a man who has in him, (aspects of) Jaahiliyyah (the Days of Ignorance)!"
+**[95]** They used to condemn a person due to what was found in someone else. This is seen in the Prophet’s saying (to Abu Dharr when he argued with Bilal and called him 'son of a black woman'): **"Do you condemn him because of his mother? Indeed you are a man who has in him, (aspects of) Jaahiliyyah (the Days of Ignorance)!"**
 
 **[96]** They bragged and boasted that they were the caretakers of the House (of Allah, i.e., the Ka’bah). So Allah rebuked them, saying: **"In pride, they (Quraysh used to feel pride that they were the dwellers of the Makkah sanctuary) talked evil about it (the Qur'an) by night."** (al-Mu’minun [23]: 67)
 
@@ -346,5 +334,6 @@ And His saying: **“Spend of that with which We have provided you before a Day 
 ***And Allah knows best. May the peace and blessings of Allah be upon Muhammad, his family and his Companions.***
 
 ---
+
 [^1]: Allah says: **“And their prayer at the House (Ka’bah) was nothing but whistling and clapping of hands. So taste the torment because of what you used to disbelieve.”** [al-Anfal:35].
 [^2]: Allah says: **"Who took their religion as an amusement and play, and the life of the world deceived them."..."** (al-A'raf [7]: 51)
