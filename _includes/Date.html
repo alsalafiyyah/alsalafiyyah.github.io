@@ -12,7 +12,7 @@
     {% when '3' or '23' %}{{ day }}rd
     {% else %}{{ day }}th
    {% endcase %}
-    {{ page.date | date: "of %B, %Y"  | prepend: " — " }}
+    — {{ page.date | date: "%B, %Y" }}
     </span>
    {% endif %}     
   {% endif %}  
