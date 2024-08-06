@@ -17,7 +17,7 @@ permalink: /manhaj/
      <h3 itemprop="headline">{{ post.title }}</h3>
     </a>
     <p class="mb-1 fst-italic">
-     {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace | remove_first: "Question:" }}
+     {{ post.content | truncatewords: 20  | strip_html | normalize_whitespace | remove_first: "Question:" }}
     </p>
     <div class="post-meta d-flex justify-content-between mt-3">
      <div class="text-wrap" style="width: 10rem;">
@@ -50,9 +50,9 @@ permalink: /manhaj/
       </span>
       {% endif %}
      </div> 
-     <div class="text-wrap" style="width: 8rem;">
+     <div class="text-wrap" style="width: 9rem;">
       <span itemprop="datePublished" content="{{ post.date | to_utc | date: "%Y%m%dT%H:%M:%S%:z" }}">
-       {{ post.hijri }},{{ post.date | date: "%b %d, %Y" }}
+       {{ post.hijri }} - {{ post.date | date: "%b %d, %Y" }}
       </span>
      </div>
     </div>    
@@ -63,10 +63,6 @@ permalink: /manhaj/
  </div>
 </div>
 <style>
-.col h3 a {
- color: #000100 !important;
- text-decoration: none !important;
-}
 .post-meta, .text-wrap {
  font-size: 14px !important;
 }    
