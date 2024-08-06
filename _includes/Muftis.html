@@ -1,0 +1,438 @@
+{% if page.group1 %}
+<div class="card bg-transparent border-danger mb-3">
+  <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.muftis }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.muftis }}{% else %}Muftis{% endif %}
+  </div>
+  <div class="card-body">
+  <ul class="list-group list-group-flush">  
+   {% if site.group1.chairman %}
+    <li class="list-group-item">
+     {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% else %}Chairman:{% endif %}
+    {% for chairman in site.group1.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
+    </li>
+   {% endif %} 
+   {% if site.group1.deputy_chairman %}
+     <li class="list-group-item">
+      {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% else %}Deputy Chairman:{% endif %}
+      {% for deputy_chairman in site.group1.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
+     </li>
+   {% endif %}      
+   {% if site.group1.members %}
+     <li class="list-group-item">
+        {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% else %}Members:{% endif %}
+        <ol>
+         {% for members in site.group1.members %}
+         <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
+         {% endfor %}
+        </ol>
+      </li>
+   {% endif %}     
+  </ul>
+  </div>
+</div>
+{% endif %}  
+  
+{% if page.group2 %}
+<div class="card bg-transparent border-danger mb-3">
+  <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.muftis }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.muftis }}{% else %}Muftis{% endif %}
+  </div>
+  <div class="card-body">
+   <ul class="list-group list-group-flush"> 
+   {% if site.group2.chairman %}
+    <li class="list-group-item">
+     {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% else %}Chairman:{% endif %}
+    {% for chairman in site.group2.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
+    </li>
+   {% endif %} 
+   {% if site.group2.deputy_chairman %}
+     <li class="list-group-item">
+       {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% else %}Deputy Chairman:{% endif %}
+      {% for deputy_chairman in site.group2.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
+     </li>
+   {% endif %}      
+   {% if site.group2.members %}
+     <li class="list-group-item">
+        {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% else %}Members:{% endif %}
+        <ol>
+         {% for members in site.group2.members %}
+         <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
+         {% endfor %}
+        </ol>
+      </li>
+   {% endif %}     
+   </ul>
+  </div>
+</div>
+{% endif %}  
+
+{% if page.group3 %}
+<div class="card bg-transparent border-danger mb-3">
+  <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.muftis }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.muftis }}{% else %}Muftis{% endif %}
+  </div>
+  <div class="card-body">
+   <ul class="list-group list-group-flush"> 
+   {% if site.group3.chairman %}
+    <li class="list-group-item">
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% else %}Chairman:{% endif %}
+    {% for chairman in site.group3.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
+    </li>
+   {% endif %} 
+   {% if site.group3.deputy_chairman %}
+     <li class="list-group-item">
+       {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% else %}Deputy Chairman:{% endif %}
+      {% for deputy_chairman in site.group3.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
+     </li>
+   {% endif %}      
+   {% if site.group3.members %}
+     <li class="list-group-item">
+        {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% else %}Members:{% endif %}
+        <ol>
+         {% for members in site.group3.members %}
+         <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
+         {% endfor %}
+        </ol>
+      </li>
+   {% endif %}     
+   </ul>
+  </div>
+</div>
+{% endif %}    
+
+{% if page.group5 %}
+<div class="card bg-transparent border-danger mb-3">
+  <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.muftis }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.muftis }}{% else %}Muftis{% endif %}
+  </div>
+  <div class="card-body">
+   <ul class="list-group list-group-flush"> 
+   {% if site.group5.chairman %}
+    <li class="list-group-item">
+     {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% else %}Chairman:{% endif %}
+    {% for chairman in site.group5.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
+    </li>
+   {% endif %} 
+   {% if site.group5.deputy_chairman %}
+     <li class="list-group-item">
+       {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% else %}Deputy Chairman:{% endif %}
+      {% for deputy_chairman in site.group5.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
+     </li>
+   {% endif %}      
+   {% if site.group5.members %}
+     <li class="list-group-item">
+        {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% else %}Members:{% endif %}
+        <ol>
+         {% for members in site.group5.members %}
+         <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
+         {% endfor %}
+        </ol>
+      </li>
+   {% endif %}     
+   </ul>
+  </div>
+</div>
+{% endif %}    
+
+{% if page.group6 %}
+<div class="card bg-transparent border-danger mb-3">
+  <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.muftis }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.muftis }}{% else %}Muftis{% endif %}
+  </div>
+  <div class="card-body">
+   <ul class="list-group list-group-flush"> 
+   {% if site.group6.chairman %}
+    <li class="list-group-item">
+     {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% else %}Chairman:{% endif %}
+    {% for chairman in site.group6.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
+    </li>
+   {% endif %} 
+   {% if site.group6.deputy_chairman %}
+     <li class="list-group-item">
+       {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% else %}Deputy Chairman:{% endif %}
+      {% for deputy_chairman in site.group6.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
+     </li>
+   {% endif %}      
+   {% if site.group6.members %}
+     <li class="list-group-item">
+        {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% else %}Members:{% endif %}
+        <ol>
+         {% for members in site.group6.members %}
+         <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
+         {% endfor %}
+        </ol>
+      </li>
+   {% endif %}     
+   </ul>
+  </div>
+</div>
+{% endif %}    
+
+{% if page.group7 %}
+<div class="card bg-transparent border-danger mb-3">
+  <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.muftis }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.muftis }}{% else %}Muftis{% endif %}
+  </div>
+  <div class="card-body">
+   <ul class="list-group list-group-flush"> 
+   {% if site.group7.chairman %}
+    <li class="list-group-item">
+     {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% else %}Chairman:{% endif %}
+    {% for chairman in site.group7.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
+    </li>
+   {% endif %} 
+   {% if site.group7.deputy_chairman %}
+     <li class="list-group-item">
+       {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% else %}Deputy Chairman:{% endif %}
+      {% for deputy_chairman in site.group7.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
+     </li>
+   {% endif %}      
+   {% if site.group7.members %}
+     <li class="list-group-item">
+        {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% else %}Members:{% endif %}
+        <ol>
+         {% for members in site.group7.members %}
+         <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
+         {% endfor %}
+        </ol>
+      </li>
+   {% endif %}     
+   </ul>
+  </div>
+</div>
+{% endif %}    
+
+{% if page.group8 %}
+<div class="card bg-transparent border-danger mb-3">
+  <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.muftis }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.muftis }}{% else %}Muftis{% endif %}
+  </div>
+  <div class="card-body">
+   <ul class="list-group list-group-flush"> 
+   {% if site.group8.chairman %}
+    <li class="list-group-item">
+     {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% else %}Chairman:{% endif %}
+    {% for chairman in site.group8.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
+    </li>
+   {% endif %} 
+   {% if site.group8.members %}
+     <li class="list-group-item">
+        {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% else %}Members:{% endif %}
+        <ol>
+         {% for members in site.group8.members %}
+         <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
+         {% endfor %}
+        </ol>
+      </li>
+   {% endif %}     
+   </ul>
+  </div>
+</div>
+{% endif %}    
+
+{% if page.group9 %}
+<div class="card bg-transparent border-danger mb-3">
+  <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.muftis }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.muftis }}{% else %}Muftis{% endif %}
+  </div>
+  <div class="card-body">
+   <ul class="list-group list-group-flush"> 
+   {% if site.group9.chairman %}
+    <li class="list-group-item">
+     {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% else %}Chairman:{% endif %}
+    {% for chairman in site.group9.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
+    </li>
+   {% endif %} 
+   {% if site.group9.deputy_chairman %}
+     <li class="list-group-item">
+      {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% else %}Deputy Chairman:{% endif %}
+      {% for deputy_chairman in site.group9.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
+     </li>
+   {% endif %}      
+   {% if site.group9.members %}
+     <li class="list-group-item">
+        {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% else %}Members:{% endif %}
+        <ol>
+         {% for members in site.group9.members %}
+         <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
+         {% endfor %}
+        </ol>
+      </li>
+   {% endif %}     
+   </ul>
+  </div>
+</div>
+{% endif %}    
+
+{% if page.group10 %}
+<div class="card bg-transparent border-danger mb-3">
+  <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.muftis }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.muftis }}{% else %}Muftis{% endif %}
+  </div>
+  <div class="card-body">
+   <ul class="list-group list-group-flush"> 
+   {% if site.group10.chairman %}
+    <li class="list-group-item">
+     {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% else %}Chairman:{% endif %}
+    {% for chairman in site.group10.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
+    </li>
+   {% endif %} 
+   {% if site.group10.members %}
+     <li class="list-group-item">
+        {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% else %}Members:{% endif %}
+        <ol>
+         {% for members in site.group10.members %}
+         <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
+         {% endfor %}
+        </ol>
+      </li>
+   {% endif %}     
+   </ul>
+  </div>
+</div>
+{% endif %}    
+
+{% if page.group11 %}
+<div class="card bg-transparent border-danger mb-3">
+  <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.muftis }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.muftis }}{% else %}Muftis{% endif %}
+  </div>
+  <div class="card-body">
+   <ul class="list-group list-group-flush"> 
+   {% if site.group11.chairman %}
+    <li class="list-group-item">
+     {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% else %}Chairman:{% endif %}
+    {% for chairman in site.group11.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
+    </li>
+   {% endif %} 
+   {% if site.group11.deputy_chairman %}
+     <li class="list-group-item">
+       {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% else %}Deputy Chairman:{% endif %}
+      {% for deputy_chairman in site.group11.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
+     </li>
+   {% endif %}      
+   {% if site.group11.members %}
+     <li class="list-group-item">
+        {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% else %}Members:{% endif %}
+        <ol>
+         {% for members in site.group11.members %}
+         <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
+         {% endfor %}
+        </ol>
+      </li>
+   {% endif %}     
+   </ul>
+  </div>
+</div>
+{% endif %}    
+
+{% if page.group12 %}
+<div class="card bg-transparent border-danger mb-3">
+  <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.muftis }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.muftis }}{% else %}Muftis{% endif %}
+  </div>
+  <div class="card-body">
+   <ul class="list-group list-group-flush"> 
+   {% if site.group12.chairman %}
+    <li class="list-group-item">
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% else %}Chairman:{% endif %}
+    {% for chairman in site.group12.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
+    </li>
+   {% endif %} 
+   {% if site.group12.deputy_chairman %}
+     <li class="list-group-item">
+       {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% else %}Deputy Chairman:{% endif %}
+      {% for deputy_chairman in site.group12.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
+     </li>
+   {% endif %}    
+   </ul>
+  </div>
+</div>
+{% endif %}    
+
+{% if page.group13 %}
+<div class="card bg-transparent border-danger mb-3">
+  <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.muftis }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.muftis }}{% else %}Muftis{% endif %}
+  </div>
+  <div class="card-body">
+   <ul class="list-group list-group-flush"> 
+   {% if site.group13.chairman %}
+    <li class="list-group-item">
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% else %}Chairman:{% endif %} 
+    {% for chairman in site.group13.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
+    </li>
+   {% endif %} 
+   {% if site.group13.members %}
+     <li class="list-group-item">
+        {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% else %}Members:{% endif %}
+        <ol>
+         {% for members in site.group13.members %}
+         <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
+         {% endfor %}
+        </ol>
+      </li>
+   {% endif %}     
+   </ul>
+  </div>
+</div>
+{% endif %}    
+
+{% if page.shaykhs %}
+<div class="card bg-transparent border-danger mb-3">
+  <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.muftis }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.muftis }}{% else %}Muftis{% endif %}
+  </div>
+  <div class="card-body">
+  <ul class="list-group list-group-flush">  
+  <li class="list-group-item">  
+  {% for sh in page.shaykhs %}
+   <span class="fw-semibold">{{ sh }}</span>
+   {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+  </li>
+  </ul>
+  </div>
+</div>
+{% endif %}
+  
+{% if page.muftis %}
+<div class="card bg-transparent border-danger mb-3">
+  <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
+    {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.muftis }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.muftis }}{% else %}Muftis{% endif %}
+  </div>
+  <div class="card-body">
+   <ul class="list-group list-group-flush"> 
+   {% if page.muftis.chairman %}
+    <li class="list-group-item">
+     {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.chairman | append: " : " }}{% else %}Chairman:{% endif %}
+    {% for chairman in page.muftis.chairman %}<a title="{{ chairman.name }}" href="{{ chairman.url | relative_url }}">{{ chairman.name }}</a>{% endfor %}
+    </li>
+   {% endif %} 
+   {% if page.muftis.deputy_chairman %}
+     <li class="list-group-item">
+      {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.deputy_chairman | append: " : " }}{% else %}Deputy Chairman:{% endif %}
+      {% for deputy_chairman in page.muftis.deputy_chairman %}<a title="{{ deputy_chairman.name }}" href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }}</a>{% endfor %}
+     </li>
+   {% endif %}      
+   {% if page.muftis.members %}
+     <li class="list-group-item">
+        {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.members | append: " : " }}{% else %}Members:{% endif %}
+        <ol>
+         {% for members in page.muftis.members %}
+         <li><a title="{{ members.name }}" href="{{ members.url | relative_url }}">{{ members.name }}</a></li>
+         {% endfor %}
+        </ol>
+      </li>
+    {% endif %}
+   {% if page.muftis.shaykh %}
+    {% for shaykh in page.muftis.shaykh %}
+       <li class="list-group-item">
+        <a href="{{ shaykh.url | relative_url }}" title="{{ shaykh.name }}"><b>{{ shaykh.name }}</b></a>
+       </li>
+    {% endfor %}
+   {% endif %}     
+   </ul>
+  </div>
+</div>
+{% endif %}
