@@ -11,7 +11,7 @@ permalink: /manhaj/
   {% if post.categories contains 'manhaj' %}
   <div class="col mb-3">
    <div style="margin:0px !important;padding: 0px !important;"> 
-    <a style="margin:0px !important;padding: 0px !important;" class="list-group-item-action" 
+    <a style="margin:0px !important;padding: 0px !important;"
        href="{{ post.url }}">
      <h3>{{ post.title }}</h3>
     </a>
@@ -23,26 +23,26 @@ permalink: /manhaj/
       {% if post.muftis %}
       {% if post.muftis.chairman %} 
       {% for chairman in post.muftis.chairman %}
-       <a href="{{ chairman.url }}">{{ chairman.name | append: " & others" }}</a>
+       <a class="fw-semibold" href="{{ chairman.url }}">{{ chairman.name | append: " & others" }}</a>
       {% endfor %}
       {% elsif post.muftis.deputy_chairman %}
       {% for deputy in post.muftis.deputy_chairman %}
-       <a href="{{ deputy.url }}">{{ deputy.name | append: " & others" }}</a>
+       <a class="fw-semibold" href="{{ deputy.url }}">{{ deputy.name | append: " & others" }}</a>
       {% endfor %}
       {% endif %}
       {% endif %}
       {% if post.muftis %}
       {% if post.muftis.shaykh %}  
       {% for shaykh in post.muftis.shaykh %} 
-       <a href="{{ shaykh.url }}">{{ shaykh.name }}</a>
+       <a class="fw-semibold" href="{{ shaykh.url }}">{{ shaykh.name }}</a>
       {% endfor %}
       {% endif %}
       {% else %}
-       <a href="{{ '/biography/alifta' | absolute_url }}">{% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% else %}Permanent Committee{% endif %}</a> 
+       <a class="fw-semibold" href="{{ '/biography/alifta' | absolute_url }}">{% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% else %}Permanent Committee{% endif %}</a> 
       {% endif %}
      </div> 
      <div class="text-wrap" style="width: 8rem;">
-      {{ post.date | date: "%b %d, %Y" }} {{ post.hijri }}
+       {{ post.hijri }},{{ post.date | date: "%b %d, %Y" }}
      </div>
     </div>    
    </div>
