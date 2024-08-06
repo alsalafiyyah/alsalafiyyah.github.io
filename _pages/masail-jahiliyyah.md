@@ -23,7 +23,9 @@ This is since with (understanding) one side of the opposite, the goodness of the
 
 The most important of these aspects (of the Days of Ignorance) and most severe in terms of danger was the absence of faith in the heart, for what the Messenger of Allah (Muhammad, peace be upon him) came with. And if approval for what the people of the Days of Ignorance were upon is further added to this (absence of faith), then the total ruin is achieved, as Allah says: **“And those who believe in the falsehood while disbelieving in Allah, it is they who are the losers.”** (al-Ankabut [29]:52). 
 
+---
 ### Characteristics of the people of the age of ignorance (Jahiliyyah): 
+---
 
 #### 1. Supplicating to Righteous Individuals
 
@@ -37,6 +39,7 @@ This is the greatest of matters that the Messenger of Allah ﷺ opposed them in.
 
 And he (ﷺ) informed that whosoever does what these (polytheists) approved of, and then Allah has forbidden Paradise for him and his fnal destination will be the Hellfre. It is due to this aspect that mankind becomes divided into Muslims and disbelievers. And it is due to it that enmity (between the two) occurs. And it is for this purpose that Jihad was legislated, as Allah says: **“And fght them (disbelievers) until there is no more Fitnah (evil/disbelief) left, and the religion is for Allah alone.”** (al-Anfal [8]: 39) 
 
+---
 #### 2. Division of the People of Jahiliyyah with regard to their Worship and Religion
 
 They divided into sects within their religion. 
@@ -51,12 +54,14 @@ He has forbidden us from being similar to them, saying: **“And be not like tho
 
 And He has forbidden us from splitting up into sects in the Religion: **“And hold frmly onto the Rope of Allah, all of you together, and be not divided.”** (Aal-'Imran [3]: 103).
 
+---
 #### 3. Considering opposing the Ruler as a Virtue
 
 They held the acts of opposing the fgure of authority and failing to comply with him as being something virtuous. And they saw the acts of hearing and obeying as being humiliating and degrading. So the Messenger of Allah ﷺ opposed them and commanded that patience be observed when facing the oppression of the rulers. And he commanded with hearing and obeying them, as well as advising (them). And he (ﷺ) spoke extensively in regards to that and he constantly brought it up and repeated it. 
 
 These (first) three aspects (of the Days of Ignorance) have been gathered together in what has been related on the Messenger of Allah ﷺ in Sahihayn (the two Sahih i.e., Bukhari & Muslim), that he said: **“Indeed, Allah is pleased with three things for you: That you not worship (anything else) except Allah and that you not associate anything with Him; that all of you, together, hold tightly onto the Rope of Allah and not be divided into groups, and; that you mutually advise he whom Allah has given authority over your affairs.”** There did not occur any defects in the religious and worldly affairs of mankind, except that it was due to a violation of these (first) three aspects, or one of them. 
 
+---
 #### 4. Blind following
 
 Their religion was built upon certain principles, the greatest of which was taqlid (blind following). 
@@ -69,16 +74,19 @@ So He revealed to them His saying: **“Say: I exhort you to one thing only –t
 
 And His saying: **“(Say to the disbelievers): Follow what has been sent down unto you from your Lord, and follow not any partners besides Him. Little do you remember!”** (al-A’raf [7]: 3)
 
+---
 #### 5. Relying on what the Majority is upon as proof
 
 From their greatest principles was that they were deceived by (following) the majority, using that as a proof against the correctness of a matter. And they also used as evidence for declaring the falsehood of something, the fact that it was strange and that its adherents were few. So Allah prescribed the opposite of that and He clarifed this in many places of the Qur'an.
 
+---
 #### 6. Relying on what the Ancestors is upon as proof
 
 They relied upon (the actions of) their ancestors as evidence (for their doings), as is found in His saying: **“Then what about the generations of old?”** (Ta-Ha [20]51) 
 
 And His saying: **“We never heard of this thing (which you have brought), amongst (the speech of) our forefathers.”** (al-Mu’minun [23]: 24)
 
+---
 #### 7. Using what the Infuential are upon as proof
 
 They would use as a basis of proof that any people that had been given strength in understanding and works, as well as in dominion, wealth and status; that they were upon the truth. So Allah refuted that by saying: **“And indeed We had frmly established them (disbelievers of old) with that wherewith We have not established you (O Quraysh)!”** (al-Ahqaf [46]: 26) 
@@ -87,45 +95,75 @@ And saying: **“Although aforetime, they had invoked Allah (for the coming of M
 
 And saying: **“Those who have been given the Scripture recognize him (Muhammad) as they recognize their own sons.”** (al-Baqarah [2]: 146)
 
+---
 #### 8. Believing to what the Weak were upon was not the Truth
 
 They used as evidence for determining the falsehood of a matter, the fact that only the weak ones followed it, as is found in Allah's saying: **“They said: Shall we follow you, when the lowliest of people follow you?”** (ash-Shuara [26]: 111) 
 
 And He says (relating their statements): **“Is it these (poor believers) whom Allah has favored from amongst us?”** (al-An'am [6]: 53) So Allah refuted this claim, saying: **“Should not Allah know best those who are grateful?”** (al-An'am [6]: 53)
 
+---
 #### 9. Emulating the Wicked Scholars and Ignorant Worshippers
 
 They followed and took their example from their evil and wicked scholars and worshipers. So Allah revealed His saying: **“O you who believe! Verily, there are many of the (Jewish) rabbis and (Christian) monks that take the wealth of mankind unjustly and hinder them (mankind) from the way of Allah.”** (at-Tawbah [31]: 34) 
 
 And His saying: **“Do not go to extremes in your religion (by believing in something) other than the truth. And do not follow the vain desires of people that went astray, from times of past, and who misled many and strayed (themselves) from the Right Path.”** (al-Ma’idah [5]: 77)
 
+---
 #### 10. Accusing the Religious People of having Little Understanding and a Lack of Intellect
 
 They used the following argument for determining the falsehood of a religion that the ones who followed it possessed a short amount of understanding and lacked good memory, as Allah says: **“They followed you without thinking.”** (Hud [11]: 27)
 
-**[11]** They used a wicked and corrupt type of reasoning to establish evidence, as occurs in His saying: **“You are no more than human beings like us!”** (Ibrahim [14]: 10)
+---
+#### 11 & 12. Relying on a Corrupt Form of Reasoning while Rejecting the Correct Form of Reasoning
 
-**[12]** They rejected the correct and true way of reasoning. The reason for the occurrence of this aspect and the one before it was due to a lack of understanding, on their part, of (what consisted of) similarities and differences (i.e., similarities and differences between the prophets and normal human beings).
+11. They used a wicked and corrupt type of reasoning to establish evidence, as occurs in His saying: **“You are no more than human beings like us!”** (Ibrahim [14]: 10)
 
-**[13]** They went to extremes with regard to their scholars and righteous people, as is found in His saying: **“O People of the Book! Do not go to extremes in your religion (by exceeding the limits set forth by Allah). And do not speak concerning Allah, except that which is true.”** (an-Nisa [4]: 171) 
+12. They rejected the correct and true way of reasoning. The reason for the occurrence of this aspect and the one before it was due to a lack of understanding, on their part, of (what consisted of) similarities and differences (i.e., similarities and differences between the prophets and normal human beings).
 
-**[14]** Everything that has been mentioned previously is based upon a principle, which is denying and affrming (i.e., they denied what Allah affrmed and affrmed what Allah denied). So they followed vain desires and speculation while turning away from what Allah revealed to them.
+---
+#### 13. Extremism with regard to the People of Knowledge and Righteousness
 
-**[15]** They used the claim that they had a **“lack of comprehending”** as an excuse for not following what Allah revealed to them, as Allah says: **“(They said): Our hearts are sealed (with coverings).”** (al-Baqarah [2]: 88) 
+They went to extremes with regard to their scholars and righteous people, as is found in His saying: **“O People of the Book! Do not go to extremes in your religion (by exceeding the limits set forth by Allah). And do not speak concerning Allah, except that which is true.”** (an-Nisa [4]: 171) 
+
+---
+#### 14. Their negation of the Truth and Affrmation of Falsehood
+
+Everything that has been mentioned previously is based upon a principle, which is denying and affrming (i.e., they denied what Allah affrmed and affrmed what Allah denied). So they followed vain desires and speculation while turning away from what Allah revealed to them.
+
+---
+#### 15. Using False Excuses to not Accept the Truth
+
+They used the claim that they had a **“lack of comprehending”** as an excuse for not following what Allah revealed to them, as Allah says: **“(They said): Our hearts are sealed (with coverings).”** (al-Baqarah [2]: 88) 
 
 And He says: **“(They said): O Shuayb (Jethro), we do not understand much of what you say!”** (Hud [11]: 91) 
 
 So Allah declared them to be liars and clarifed that their lack of understanding was due to the sealing of their hearts, and the sealing of their hearts was due to their disbelief.
 
-**[16]** They replaced what came to them from Allah with books of magic, as Allah mentions in His saying: **“And when there came to them a Messenger from Allah confrming what was with them, a party of those who were given the scripture threw the Book of Allah behind their backs, as if they did not know! And they followed (instead) what the devils gave out (falsely of magic) in the lifetime of Sulayman.”** (al-Baqarah [2]: 101-102)
+---
+#### 16. The Jews replaced the Tawrah with Books of Magic
 
-**[17]** They ascribed their falsehood to the prophets, as is found in Allah’s saying: **“And Sulayman (Solomon) did not disbelieve.”** (al-Baqarah [2]: 102) and His saying: **“Ibrahim (Abraham) was neither a Jew nor a Christian.”** (Aal 'Imran [3]: 67)
+They replaced what came to them from Allah with books of magic, as Allah mentions in His saying: **“And when there came to them a Messenger from Allah confrming what was with them, a party of those who were given the scripture threw the Book of Allah behind their backs, as if they did not know! And they followed (instead) what the devils gave out (falsely of magic) in the lifetime of Sulayman.”** (al-Baqarah [2]: 101-102)
 
-**[18]** They contradicted themselves in their ascriptions, for they would ascribe themselves to Ibrahim (Abraham, peace be upon him), yet openly manifest their lack of following him.
+---
+#### 17. Ascribing Falsehood to the Prophets
 
-**[19]** They slandered and accused righteous people based on the actions of others who “ascribed” themselves to these (righteous people). An example of this is found in the Jews' slander of 'Isa (Jesus) and the Christians' and Jews' slander of Muhammad ﷺ. 
+They ascribed their falsehood to the prophets, as is found in Allah’s saying: **“And Sulayman (Solomon) did not disbelieve.”** (al-Baqarah [2]: 102) and His saying: **“Ibrahim (Abraham) was neither a Jew nor a Christian.”** (Aal 'Imran [3]: 67)
 
-**[20]** They believed that the tricks of the sorcerers and their likes were from the miraculous endowments that Allah granted to some righteous people. And they attributed it to the prophets, such as their ascribing it to Sulayman (Solomon, peace be upon him).
+---
+#### 18. They would Ascribe themselves to the Prophets in spite of Opposing them
+
+They contradicted themselves in their ascriptions, for they would ascribe themselves to Ibrahim (Abraham, peace be upon him), yet openly manifest their lack of following him.
+
+---
+#### 19. Blaming Righteous People based on the actions of some who Ascribe themselves to them
+
+They slandered and accused righteous people based on the actions of others who “ascribed” themselves to these (righteous people). An example of this is found in the Jews' slander of 'Isa (Jesus) and the Christians' and Jews' slander of Muhammad ﷺ. 
+
+---
+#### 20. Believing that the Act of Sorcerers and Magicians is from the Miraculous Endowments of the Righteous
+
+They believed that the tricks of the sorcerers and their likes were from the miraculous endowments that Allah granted to some righteous people. And they attributed it to the prophets, such as their ascribing it to Sulayman (Solomon, peace be upon him).
 
 **[21]** They performed worship by whistling and clapping their hands.[^1]
 
