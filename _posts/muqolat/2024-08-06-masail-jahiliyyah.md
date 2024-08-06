@@ -62,3 +62,24 @@ And His saying: **“We never heard of this thing (which you have brought), amon
 And saying: **“Although aforetime, they had invoked Allah (for the coming of Muhammad) in order to gain victory over those who disbelieved. Then when there came to them that which they recognized (i.e.,, the Prophet), they disbelieved in him.”** (al-Baqarah [2]: 89) 
 
 And saying: **“Those who have been given the Scripture recognize him (Muhammad) as they recognize their own sons.”** (al-Baqarah [2]: 146)
+
+**[8]** They used as evidence for determining the falsehood of a matter, the fact that only the weak ones followed it, as is found in Allah's saying: **“They said: Shall we follow you, when the lowliest of people follow you?”** (ash-Shuara [26]: 111) 
+
+And He says (relating their statements): **“Is it these (poor believers) whom Allah has favored from amongst us?”** (al-An'am [6]: 53) So Allah refuted this claim, saying: **“Should not Allah know best those who are grateful?”** (al-An'am [6]: 53)
+
+**[9]** They followed and took their example from their evil and wicked scholars and worshipers. So Allah revealed His saying: **“O you who believe! Verily, there are many of the (Jewish) rabbis and (Christian) monks that take the wealth of mankind unjustly and hinder them (mankind) from the way of Allah.”** (at-Tawbah [31]: 34) 
+
+And His saying: **“Do not go to extremes in your religion (by believing in something) other than the truth. And do not follow the vain desires of people that went astray, from times of past, and who misled many and strayed (themselves) from the Right Path.”** (al-Ma’idah [5]: 77)
+
+**[10]** They used the following argument for determining the falsehood of a religion that the ones who followed it possessed a short amount of understanding and lacked good memory, as Allah says: **“They followed you without thinking.”** (Hud [11]: 27)
+
+**[11]** They used a wicked and corrupt type of reasoning to establish evidence, as occurs in His saying: **“You are no more than human beings like us!”** (Ibrahim [14]: 10)
+
+**[12]** They rejected the correct and true way of reasoning. The reason for the occurrence of this aspect and the one before it was due to a lack of understanding, on their part, of (what consisted of) similarities and differences (i.e., similarities and differences between the prophets and normal human beings).
+
+**[13]** They went to extremes with regard to their scholars and righteous people, as is found in His saying: **“O People of the Book! Do not go to extremes in your religion (by exceeding the limits set forth by Allah). And do not speak concerning Allah, except that which is true.”** (an-Nisa [4]: 171) 
+
+**[14]** Everything that has been mentioned previously is based upon a principle, which is denying and affrming (i.e., they denied what Allah affrmed and affrmed what Allah denied). So they followed vain desires and speculation while turning away from what Allah revealed to them.
+
+**[15]** They used the claim that they had a **“lack of comprehending”** as an excuse for not following what Allah revealed to them, as Allah says: **“(They said): Our hearts are sealed (with coverings).”** (al-Baqarah [2]: 88) And He says: **“(They said): O Shuayb, we do not understand much of what you say!”** (Hud [11]: 91) So Allah declared them to be liars and clarifed that their lack of understanding was due to the sealing of their hearts, and the sealing of their hearts was due to their disbelief.
+
