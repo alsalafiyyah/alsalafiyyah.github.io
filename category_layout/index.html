@@ -1,0 +1,13 @@
+---
+layout: Page
+---
+
+{% if page.paginator %}
+{% assign paginator = page.paginator %}
+{% endif %}
+
+<ul>
+{% for post in paginator.posts %}
+ <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
