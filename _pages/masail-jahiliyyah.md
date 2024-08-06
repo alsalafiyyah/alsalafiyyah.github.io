@@ -10,7 +10,7 @@ lang: en
 active: muqolat
 robots: noindex
 permalink: /masail-jahiliyyah/
-excerpt: "These are the aspects that the people of the Days of Ignorance –both the people of the Book and the non-People of the Book– were upon, which Rasulullah ﷺ opposed."
+excerpt: "The following are some of the Characteristics of the Age of Ignorance which have returned to the Muslim nation."
 muftis:
   shaykh: 
     - name: Shaykh Muhammad ibn Abdul-Wahhab
@@ -22,6 +22,8 @@ These are the aspects that the people of the Days of Ignorance –both the peopl
 This is since with (understanding) one side of the opposite, the goodness of the other side of the opposite can be made apparent. And it is by (making apparent the) opposite of something that matters become clarifed. 
 
 The most important of these aspects (of the Days of Ignorance) and most severe in terms of danger was the absence of faith in the heart, for what the Messenger of Allah (Muhammad, peace be upon him) came with. And if approval for what the people of the Days of Ignorance were upon is further added to this (absence of faith), then the total ruin is achieved, as Allah says: **“And those who believe in the falsehood while disbelieving in Allah, it is they who are the losers.”** (al-Ankabut [29]:52). 
+
+### Characteristics of the Age of Ignorance : 
 
 **[1]** They performed worship by mixing righteous people into their supplication and worship of Allah. They only did this desiring that these (righteous people) act as intercessors for them before Allah, based on their notion that Allah loved this and that these righteous people loved Him. 
 
