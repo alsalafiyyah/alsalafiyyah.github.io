@@ -11,4 +11,5 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "kramdown"
   gem "github-pages"
+  gem "jekyll", "~> 4.2.0"
 end
