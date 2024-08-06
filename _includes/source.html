@@ -496,8 +496,11 @@
 
 <!-- read time -->  
 <li class="list-group-item">
- <abbr title="Estimated reading time"
-   data-bs-toggle="tooltip" data-bs-title="Estimated reading time">ERT</abbr> {% include read_time.html %}
+  <div class="ms-2 me-auto">
+   <abbr title="Estimated reading time"
+    data-bs-toggle="tooltip" data-bs-title="Estimated reading time">ERT</abbr> 
+    {% include read_time.html %}
+  </div>
 </li>
 
 <!-- source -->  
@@ -553,7 +556,9 @@
 
 <!-- last modified -->  
 <li class="list-group-item">
+  <div class="ms-2 me-auto">
     {% include LastModified.html %}
+  </div>
 </li>
 
 </ul>
