@@ -4,7 +4,7 @@
    <div class="fw-normal">{% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.created_at | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.created_at | append: " : " }}{% else %}Created at:{% endif %}</div>   
     <span class="fw-semibold">{{ page.hijri }}</span> 
    {% if page.date %}
-    <span class="fw-semibold">
+    <span class="fw-semibold"> — 
    {% assign day = page.date | date: "%-d" %}
    {% case day %}
     {% when '1' or '21' or '31' %}{{ day }}st
@@ -12,7 +12,7 @@
     {% when '3' or '23' %}{{ day }}rd
     {% else %}{{ day }}th
    {% endcase %}
-    — {{ page.date | date: "%B, %Y" }}
+    {{ page.date | date: "%B, %Y" }}
     </span>
    {% endif %}     
   {% endif %}  
