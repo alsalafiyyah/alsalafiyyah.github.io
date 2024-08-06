@@ -37,6 +37,8 @@ permalink: /manhaj/
        <a href="{{ shaykh.url }}">{{ shaykh.name }}</a>
       {% endfor %}
       {% endif %}
+      {% else %}
+       <a href="{{ '/biography/alifta' | absolute_url }}">{% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% else %}Permanent Committee{% endif %}</a> 
       {% endif %}
      </div> 
      <div class="text-wrap" style="width: 8rem;">
@@ -44,9 +46,9 @@ permalink: /manhaj/
      </div>
     </div>    
    </div>
-   {% endif %}
-   {% endfor %}
   </div>   
+  {% endif %}
+  {% endfor %}
  </div>
 </div>
 <style>
