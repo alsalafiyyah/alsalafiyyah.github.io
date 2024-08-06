@@ -55,7 +55,6 @@ exclude:
   - config
   - README
   
-
 Tags: '/tags/'
 tag_page: '/tags/'
 Categories: '/category/'
@@ -66,6 +65,7 @@ compress_html:
   startings: [html, head, body]
   endings: all
 
+# tipue search js
 tipue_search:
   include:
     pages: false
@@ -92,12 +92,14 @@ manifest_short_name:
 manifest_display: standalone
       
 defaults:
+  # _posts
   - scope:
       path: "_posts/**"
       type: posts
     values:
       layout: post
       permalink: /:title
+  # _posts/en/
   - scope:
       path: "_posts/en/**"
       type: posts
@@ -105,6 +107,7 @@ defaults:
       layout: post
       locale: en
       permalink: /en/:title
+  # _posts/ar/
   - scope:
       path: "_posts/ar/**"
       type: posts
@@ -112,30 +115,35 @@ defaults:
       layout: post
       locale: ar
       permalink: /ar/:title    
+  # _posts/audios/
   - scope:
       path: "_posts/audios/**"
       type: posts
     values:
       layout: post
       permalink: /audios/:title/
+  # _posts/muqolat/
   - scope:
       path: "_posts/muqolat/**"
       type: posts
     values:
       layout: post
-      permalink: /muqolat/:title/      
+      permalink: /muqolat/:title/    
+  # _posts/wahhabism/
   - scope:
       path: "_posts/wahhabism/**"
       type: posts
     values:
       layout: post
       permalink: /wahhabism/:title/
+  # _posts/biography/
   - scope:
       path: "_posts/biography/**"
       type: posts
     values:
       layout: post
-      permalink: /biography/:title/     
+      permalink: /biography/:title/   
+  # _pages
   - scope:
       path: "_pages"
       type: "pages"
@@ -147,7 +155,7 @@ defaults:
     values:
       layout: "Page"
 
-
+# Collections
 collections:
   ar:
     output: true
@@ -176,6 +184,8 @@ collections:
 
 
 # Alifta Scholars
+##
+###
 group1:
   chairman: 
     - name: Shaykh Ibn Baz
