@@ -101,14 +101,35 @@ So Allah declared them to be liars and clarifed that their lack of understanding
 
 **[20]** They believed that the tricks of the sorcerers and their likes were from the miraculous endowments that Allah granted to some righteous people. And they attributed it to the prophets, such as their ascribing it to Sulayman (Solomon, peace be upon him).
 
-[Next page >]()
+**[21]** They performed worship by whistling and clapping their hands.[^7]
+
+**22]** They took their Religion as an amusement and a game.
+
+**[23]** They were deluded by the life of this world. So they perceived Allah’s bestowal of worldly material (on someone), as an indication of He was pleased (with that person), as He says: **“And they say: We are abundant in wealth and in children. And (because of that) we are not going to be punished.”** (Saba [34]: 35)
+
+**[24]** They refused to enter into the truth when they saw that they had already been preceded to it by the weak and poor -out of pride and disdain- so Allah revealed: **“And turn not away those who invoke their Lord, morning and afternoon seeking His Face.”** (al-An'am [6]: 52). 
+
+**[25]** They determined the truth to be false based upon their argument that the weak and poor people took precedence in accepting it. This is as He says: **“(They said): Had it (i.e., Islam) been something good, they (poor and weak ones) would not have preceded us in (accepting) it.”** (al-Ahqaf [46]: 11) 
+
+**[26]** They distorted (i.e., Tahrif) the Book of Allah after having comprehended it, while doing so knowingly (i.e., deliberately and not out of ignorance). 
+
+**[27]** They authored books of falsehood and then attributed them to Allah, as is found in His saying: **“Then woe to those who write the Book with their own hands and then say: This is from Allah.”** (al-Baqarah [2]79) 
+
+**[28]** They did not accept anything from the truth, except for that which was (in accordance) with their party/group. Allah says: **“And when it is said to them (Jews): Believe in what Allah has sent down! They say: We will believe in (only) what was sent down to us. And they disbelieved in that which came after it; whereas it is the truth confrming what is with them.”** (al-Baqarah [2]: 91).
+
+**[29]** But in spite of this, they did not even have knowledge of what the party/group (that they adhered to) used to believe, as Allah points out in His saying: **"Then why have you killed the prophets of Allah aforetime, if you indeed were believers?"** (al-Baqarah [2]: 91)
+
+**[30]** It is from the amazing signs of Allah that when these people abandoned the command of Allah to unite and began to commit that which Allah forbade from evil, the matter became such as: **"Each group rejoicing in that which it has."**
+
+**[31]** It is also from the amazing signs of Allah that these people held the highest degree of hatred for the religion they affliated themselves with, while having love for the religion of the disbelievers; those who were enemies to them and their prophet. And their trial was found in the extent of their love (for that religion of their enemies). As they did with Rasulullah ﷺ when they approached him with the religion of Musa[^8] (peace be upon him), while (in reality) they were following the books of magic. And that (magic) was from the religion of the people of Pharaoh.
 
 ---
 
 [^1]: Rasulullah: Messenger of Allah, peace be upon him. 
 [^2]: Subhanahu wa ta'ala : Glory be to Him, the Exalted. 
-[^3]: Shuayb : Jethro, peace be upon him. 
+[^3]: Shuaib/Shuayb : Jethro, peace be upon him. 
 [^4]: Sulayman: Solomon, peace be upon him. 
 [^5]: Ibrahim: Abraham, peace be upon him.
 [^6]: 'Isa : Jesus, peace be upon him.
-
+[^7]: Allah says: **“And their prayer at the House (Ka’bah) was nothing but whistling and clapping of hands. So taste the torment because of what you used to disbelieve.”** [Qur'an, Al-Anfal:35]. 
+[^8]: Musa : Moses, peace be upon him.
