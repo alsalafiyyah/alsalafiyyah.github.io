@@ -101,11 +101,13 @@ So Allah declared them to be liars and clarifed that their lack of understanding
 
 **[20]** They believed that the tricks of the sorcerers and their likes were from the miraculous endowments that Allah granted to some righteous people. And they attributed it to the prophets, such as their ascribing it to Sulayman (Solomon, peace be upon him).
 
-[Next page]()
+[Next page >]()
 
-[^1]: Rasulullah: The Messenger of Allah. 
-[^2]: Subhanahu wa ta'ala : Glorified and Exalted be He. 
-[^3]: Shuayb : peace be upon him
+---
+
+[^1]: Rasulullah: Messenger of Allah, peace be upon him. 
+[^2]: Subhanahu wa ta'ala : Glory be to Him, the Exalted. 
+[^3]: Shuayb : Jethro, peace be upon him. 
 [^4]: Sulayman: Solomon, peace be upon him. 
 [^5]: Ibrahim: Abraham, peace be upon him.
 [^6]: 'Isa : Jesus, peace be upon him.
