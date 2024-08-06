@@ -4,21 +4,41 @@ title: Manhaj
 excerpt: The fundamental rule on the acts of ‘Ibadah (worship) is that it is Tawqifiyyah, i.e. bound by a religious text from the Qur’an and Sunnah, and not subject to personal opinion.
 permalink: /manhaj/
 ---
-<table class="bg-transparent">
-{% for post in site.posts %}
-{% if post.categories contains 'manhaj' %}
-<tr class="bg-transparent">
- <td class="bg-transparent">
- <a class="link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="{{ post.url }}">
-  <h3>{{ post.title }}</h3>
- </a>
- <p>
-  <small>{{ post.date | date: "%b %d, %Y" }} / {{ post.hijri }}</small>
- </p>
- <p class="mb-1 fst-italic">
-   {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace | remove_first: "Question:" }}
- </p>
-</td></tr>
-{% endif %}
-{% endfor %}
-</table>
+
+<div class="container-lg">
+ <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2">
+  {% for post in site.posts %}
+  {% if post.categories contains 'manhaj' %}
+  <div class="col mb-3">
+   <div style="margin:0px !important;padding: 0px !important;"> 
+    <a style="margin:0px !important;padding: 0px !important;" class="list-group-item-action" 
+       href="{{ post.url }}">
+     <h3>{{ post.title }}</h3>
+    </a>
+    <p class="mb-1 fst-italic">
+     {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace | remove_first: "Question:" }}
+    </p>
+    <div class="post-meta d-flex justify-content-between mt-3">
+     <div class="text-wrap" style="width: 10rem;">
+      {% if post.muftis %}
+      {% if post.muftis.chairman %} 
+      {% for chairman in post.muftis.chairman %}
+       <a href="{{ chairman.url }}">{{ chairman.name | append: " & others" }}</a>
+      {% endfor %}
+      {% elsif post.muftis.deputy_chairman %}
+      {% for deputy in post.muftis.deputy_chairman %}
+       <a href="{{ deputy.url }}">{{ deputy.name | append: " & others" }}</a>
+      {% endfor %}
+      {% endif %}
+      {% endif %}
+     </div> 
+     <div class="text-wrap" style="width: 8rem;">
+      {{ post.date | date: "%b %d, %Y" }} {{ post.hijri }}<
+     </div>
+    </div>    
+   </div>
+   {% endif %}
+   {% endfor %}
+  </div>   
+ </div>
+</div>
