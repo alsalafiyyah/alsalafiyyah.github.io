@@ -165,31 +165,67 @@ They slandered and accused righteous people based on the actions of others who �
 
 They believed that the tricks of the sorcerers and their likes were from the miraculous endowments that Allah granted to some righteous people. And they attributed it to the prophets, such as their ascribing it to Sulayman (Solomon, peace be upon him).
 
-**[21]** They performed worship by whistling and clapping their hands.[^1]
+---
+#### 21. Worshiping Allah by Whistling and Clapping Hands
 
-**22]** They took their Religion as an amusement and a game. [^2]
+They performed worship by whistling and clapping their hands.[^1]
 
-**[23]** They were deluded by the life of this world. So they perceived Allah’s bestowal of worldly material (on someone), as an indication of He was pleased (with that person), as He says: **“And they say: We are abundant in wealth and in children. And (because of that) we are not going to be punished.”** (Saba [34]: 35)
+---
+#### 22. Taking the Religion as an Amusement and Game
 
-**[24]** They refused to enter into the truth when they saw that they had already been preceded to it by the weak and poor -out of pride and disdain- so Allah revealed: **“And turn not away those who invoke their Lord, morning and afternoon seeking His Face.”** (al-An'am [6]: 52). 
+They took their Religion as an amusement and a game. [^2]
 
-**[25]** They determined the truth to be false based upon their argument that the weak and poor people took precedence in accepting it. This is as He says: **“(They said): Had it (i.e., Islam) been something good, they (poor and weak ones) would not have preceded us in (accepting) it.”** (al-Ahqaf [46]: 11) 
+---
+#### 23. Being Delude by the Worldly Life
 
-**[26]** They distorted (i.e., Tahrif) the Book of Allah after having comprehended it, while doing so knowingly (i.e., deliberately and not out of ignorance). 
+They were deluded by the life of this world. So they perceived Allah’s bestowal of worldly material (on someone), as an indication of He was pleased (with that person), as He says: **“And they say: We are abundant in wealth and in children. And (because of that) we are not going to be punished.”** (Saba [34]: 35)
 
-**[27]** They authored books of falsehood and then attributed them to Allah, as is found in His saying: **“Then woe to those who write the Book with their own hands and then say: This is from Allah.”** (al-Baqarah [2]79) 
+---
+#### 24. Abstaining from the Truth if the Weak Ones Follow it
 
-**[28]** They did not accept anything from the truth, except for that which was (in accordance) with their party/group. Allah says: **“And when it is said to them (Jews): Believe in what Allah has sent down! They say: We will believe in (only) what was sent down to us. And they disbelieved in that which came after it; whereas it is the truth confrming what is with them.”** (al-Baqarah [2]: 91).
+They refused to enter into the truth when they saw that they had already been preceded to it by the weak and poor -out of pride and disdain- so Allah revealed: **“And turn not away those who invoke their Lord, morning and afternoon seeking His Face.”** (al-An'am [6]: 52). 
 
-**[29]** But in spite of this, they did not even have knowledge of what the party/group (that they adhered to) used to believe, as Allah points out in His saying: **"Then why have you killed the prophets of Allah aforetime, if you indeed were believers?"** (al-Baqarah [2]: 91)
+---
+#### 25. Considering something to be False based on the Weak being the frst to Accept it
 
-**[30]** It is from the amazing signs of Allah that when these people abandoned the command of Allah to unite and began to commit that which Allah forbade from evil, the matter became such as: **"Each group rejoicing in that which it has."**
+They determined the truth to be false based upon their argument that the weak and poor people took precedence in accepting it. This is as He says: **“(They said): Had it (i.e., Islam) been something good, they (poor and weak ones) would not have preceded us in (accepting) it.”** (al-Ahqaf [46]: 11) 
 
-**[31]** It is also from the amazing signs of Allah that these people held the highest degree of hatred for the religion they affliated themselves with, while having love for the religion of the disbelievers; those who were enemies to them and their prophet. 
+---
+#### 26. Distorting the Evidences from the Book after Acknowledging them
+
+They distorted (i.e., Tahrif) the Book of Allah after having comprehended it, while doing so knowingly (i.e., deliberately and not out of ignorance). 
+
+---
+#### 27. Authoring Books of Falsehood and Ascribing them to Allah
+
+They authored books of falsehood and then attributed them to Allah, as is found in His saying: **“Then woe to those who write the Book with their own hands and then say: This is from Allah.”** (al-Baqarah [2]79) 
+
+---
+#### 28. Rejecting the Truth found with others
+
+They did not accept anything from the truth, except for that which was (in accordance) with their party/group. Allah says: **“And when it is said to them (Jews): Believe in what Allah has sent down! They say: We will believe in (only) what was sent down to us. And they disbelieved in that which came after it; whereas it is the truth confrming what is with them.”** (al-Baqarah [2]: 91).
+
+---
+#### 29. Not Acting on the Views of those whom they claimed to Follow
+
+But in spite of this, they did not even have knowledge of what the party/group (that they adhered to) used to believe, as Allah points out in His saying: **"Then why have you killed the prophets of Allah aforetime, if you indeed were believers?"** (al-Baqarah [2]: 91)
+
+---
+#### 30. Adhering to Division and Abandoning Unity
+
+It is from the amazing signs of Allah that when these people abandoned the command of Allah to unite and began to commit that which Allah forbade from evil, the matter became such as: **"Each group rejoicing in that which it has."**
+
+---
+#### 31. Enmity towards the True Religion and Love for the False Religion
+
+It is also from the amazing signs of Allah that these people held the highest degree of hatred for the religion they affliated themselves with, while having love for the religion of the disbelievers; those who were enemies to them and their prophet. 
 
 And their trial was found in the extent of their love (for that religion of their enemies). As they did with the Messenger of Allah (Muhammad, peace be upon him). when they approached him with the religion of Musa (Moses, peace be upon him), while (in reality) they were following the books of magic. And that (magic) was from the religion of the people of Pharaoh.
 
-**[32]** They disbelieved in the truth if it was found with someone that they did not like or agree with. Allah says: **"The Jews say that the Christians follow nothing (i.e., are on the wrong Religion) and the Christians say that the Jews follow nothing."** (al-Baqarah [2]: 113)
+---
+### 32. Denying the Truth when it was with Others whom they did not Like
+
+They disbelieved in the truth if it was found with someone that they did not like or agree with. Allah says: **"The Jews say that the Christians follow nothing (i.e., are on the wrong Religion) and the Christians say that the Jews follow nothing."** (al-Baqarah [2]: 113)
 
 **[33]** They rejected what they agreed was part of their Religion, as they did during the Hajj (pilgrimage) to the House (i.e., the Ka’bah). Allah says: **"And who turns away from the religion of Ibrahim (pure Tawhid), except he who fools himself."** (al-Baqarah [2]: 130). 
 
