@@ -36,10 +36,6 @@
        <a itemprop="url" class="fw-semibold" href="{{ shaykh.url }}"><span itemprop="name">{{ shaykh.name }}</span></a>
       </span>
       {% endfor %}
-      {% else %}
-      <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-       <a itemprop="url" class="fw-semibold" href="{{ '/biography/alifta' | absolute_url }}"><span itemprop="name">{% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% else %}Permanent Committee{% endif %}</span></a> 
-      </span>
       {% endif %}
       {% endif %}
       {% if post.shaykhs %}
