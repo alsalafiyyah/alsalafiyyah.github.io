@@ -19,7 +19,7 @@ permalink: /manhaj/
     <p class="mb-1 fst-italic">
      {{ post.content | truncatewords: 20  | strip_html | normalize_whitespace | remove_first: "Question:" }}
     </p>
-    <div class="post-meta d-flex justify-content-between mt-3">
+    <div class="post-meta d-flex justify-content-between mt-3" style="font-size: 14.8px !important;">
      <div class="text-wrap" style="width: 10rem;">
       {% if post.muftis %}
       {% if post.muftis.chairman %} 
@@ -43,11 +43,11 @@ permalink: /manhaj/
        <a itemprop="url" class="fw-semibold" href="{{ shaykh.url }}"><span itemprop="name">{{ shaykh.name }}</span></a>
       </span>
       {% endfor %}
-      {% endif %}
       {% else %}
       <span itemprop="author" itemscope itemtype="https://schema.org/Person">
        <a itemprop="url" class="fw-semibold" href="{{ '/biography/alifta' | absolute_url }}"><span itemprop="name">{% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% else %}Permanent Committee{% endif %}</span></a> 
       </span>
+      {% endif %}
       {% endif %}
       {% if post.group1 %}
        <span itemprop="author" itemscope itemtype="https://schema.org/Person">
@@ -115,11 +115,3 @@ permalink: /manhaj/
   {% endfor %}
  </div>
 </div>
-
-<style>
-.post-meta, 
-.text-wrap
-{
- font-size: 16px !important;
-} 
-</style>
