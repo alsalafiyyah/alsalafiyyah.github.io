@@ -14,11 +14,10 @@ html, body {
 }   
 h1, h2, h3, h4, h5, h6 {
   font-family: "Playfair Display", Georgia, "Times New Roman", serif/*rtl:Amiri, Georgia, "Times New Roman", serif*/;
-  font-weight: bold !important;
+  font-weight: bold;
 }
 a {
  color: var(--black);
- text-decoration: none !important;
 }
 a:hover {
   color: var(--link-hover);
@@ -34,14 +33,13 @@ p, section, main {
  font-size: 1.2rem;
 }
 .fatwas a {
- color: var(--black) !important;
- text-decoration: none !important; 
- font-weight: 800 !important;   
+ color: #f4511e !important;
+ text-decoration: none !important;   
+ opacity: 0.6;
+ transition: 0.3s;
 }
 .fatwas a {
- color: var(--red) !important;
- text-decoration: none !important; 
- font-weight: 800 !important;  
+ opacity: 1;
 }
 .post-meta a, 
 .text-wrap a
