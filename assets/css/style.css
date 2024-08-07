@@ -3,7 +3,7 @@
   --bg-footer: #E5DCD7;
   --red: #B04759;
   --black: #000100;
-  --link-hover: #333333;
+  --link-hover: #B04759;
 }    
 html, body { 
  height: 100%; 
@@ -17,8 +17,9 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 }
 a {
- color: var(--red);
+ color: var(--black) !important;
  text-decoration: none !important; 
+ font-weight: 800 !important;
 }
 a:link {
   text-decoration: none;
