@@ -43,10 +43,12 @@ plugins:
   - jekyll-include-cache
 
 exclude:
-  - Gemfile
+  - docs/
+  - vendor/
+  - Makefile
+  - README.md
+  - sample*.png
   - .gitignore
-  - Gemfile.lock
-  - vendor
   - README
   
 Tags: '/tags/'
