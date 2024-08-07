@@ -11,4 +11,5 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "kramdown"
   gem "github-pages"
+  gem 'faraday-retry', '~> 2.2', '>= 2.2.1'
 end
