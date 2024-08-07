@@ -28,11 +28,17 @@ a:visited {
   text-decoration: none;
 }
 a:hover {
-  text-decoration: none;
+  text-decoration: none !important;
   color: var(--link-hover) !important;
 }
 p, section, main {
  font-size: 1.2rem;
+}
+.post-meta a, 
+.text-wrap a
+{
+  color: var(--red) !important;
+  text-decoration: none !important; 
 }
 .navbar a {
   color: var(--black) !important;
