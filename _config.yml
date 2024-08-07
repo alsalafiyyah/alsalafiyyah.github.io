@@ -11,16 +11,12 @@ contact:
 note:
     text            : "May Allah grant us success. May peace and blessings be upon our Prophet, his family and Companions"
 
-source              : .
-destination         : ./_site
-collections_dir     : .
 plugins_dir         : _plugins
 layouts_dir         : _layouts
 data_dir            : _data
 includes_dir        : _includes
 encoding            : "utf-8"
 markdown_ext        : "markdown,mkdown,mkdn,mkd,md"
-strict_front_matter : false
 safe                : true
 future              : true
 permalink           : pretty
@@ -33,11 +29,6 @@ defaultLang         : en
 timezone            : Asia/Riyadh
 github_username     : alsalafiyyah
 git_repo            : alsalafiyyah.github.io
-
-liquid:
-  error_mode        : warn
-  strict_filters    : false
-  strict_variables  : false
 
 include:
   - _pages
