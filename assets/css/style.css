@@ -14,21 +14,21 @@ html, body {
 }   
 h1, h2, h3, h4, h5, h6 {
   font-family: "Playfair Display", Georgia, "Times New Roman", serif/*rtl:Amiri, Georgia, "Times New Roman", serif*/;
-  font-weight: bold;
+  font-weight: bold !important;
 }
 a {
  color: var(--black);
  text-decoration: none !important;
 }
-a:link {
-  text-decoration: none !important;
-}
-a:visited {
-  text-decoration: none;
-}
 a:hover {
+  color: var(--link-hover);
+}
+a,
+a:link,
+a:visited,
+a:hover
+{
   text-decoration: none !important;
-  color: var(--link-hover) !important;
 }
 p, section, main {
  font-size: 1.2rem;
