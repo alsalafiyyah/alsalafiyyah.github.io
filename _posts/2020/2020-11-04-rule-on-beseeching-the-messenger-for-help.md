@@ -7,7 +7,7 @@ hijri: "Rabi' Al-Awwal 18, 1442"
 source: "Fatawa Al-Shaykh Ibn Baz 7/420"
 lang: en
 locale: en
-category: [fatwas]
+category: [fatwas,prophets]
 note: false
 excerpt: "It is a fact that such doing was the essence of the religion of the early Mushriks of the disbelievers of Quraysh and others."
 muftis:
@@ -18,7 +18,7 @@ muftis:
 
 ### Question: 
 
-We hear some people calling [or invoking the Prophet, peace be upon him] by saying: "Help us, O Messenger of Allah" or "Help us, O Prophet", what is the ruling on this?
+We hear some people calling by saying: "Help us, O Messenger of Allah" or "Help us, O Prophet", what is the ruling on this?
 
 ### Answer: 
 
@@ -36,11 +36,11 @@ Allah (Glorified and Exalted be He) also says: "**(This is) a Book, the Verses w
 
 Moreover, Allah (Glorified be He) says: "**The revelation of this Book (the Qur’ân) is from Allâh, the All-Mighty, the All-Wise. Verily We have sent down the Book to you (O Muhammad صلى الله عليه وسلم) in truth: So worship Allâh (Alone) by doing religious deeds sincerely for Allâh’s sake only. Surely the religion (i.e. the worship and the obedience) is for Allâh only. And those who take Auliyâ’ (protectors, helpers, lords, gods) besides Him (say): "We worship them only that they may bring us near to Allâh." Verily Allâh will judge between them concerning that wherein they differ. Truly, Allâh guides not him who is a liar, and a disbeliever.**" [Al-Zumar: 1-3]
 
-Allah thus clarifies in the Ayahs quoted above that He (Exalted be He) sent His Messengers and revealed His Books in order for people to worship Him Alone and associate no partner with Him. Allah thus revealed His Din in order for people to offer all sorts of 'Ibadah (worship) such as Du'a (supplication), seeking help, fearing the Creator, having hope in His Mercy, Salah (Prayer), Sawm (Fast), slaughtering sacrifices, vowing etc. To Him Alone. Besides, Allah (Exalted be He) clarifies that the Mushriks of Quraysh along with other Mushriks used to tell messengers and people who called them to the truth: (**... We worship them only [i.e. False protectors, helpers, lords, and gods] that they may bring us near to Allah...**)
+Allah thus clarifies in the Ayahs quoted above that He (Exalted be He) sent His Messengers and revealed His Books in order for people to worship Him Alone and associate no partner with Him. Allah thus revealed His Din in order for people to offer all sorts of 'Ibadah (worship) such as Du'a (supplication), seeking help, fearing the Creator, having hope in His Mercy, Salah (Prayer), Sawm (Fast), slaughtering sacrifices, vowing etc. To Him Alone. Besides, Allah (Exalted be He) clarifies that the Mushriks of Quraysh along with other Mushriks used to tell messengers and people who called them to the truth: **"... We worship them only [i.e. False protectors, helpers, lords, and gods] that they may bring us near to Allah..."**
 
 This signifies that though they worshiped their false helpers to draw them closer to Allah and to intercede for them not because they believed that their false protectors could create, provide sustain, or run the affairs of the universe; Allah (Glorified be He) belies them and declares them as Kafirs for doing so. 
 
-He (Glorified be He) so says: "**Verily, Allâh will judge between them concerning that wherein they differ. Truly, Allâh guides not him who is a liar, and a disbeliever.**" [Al-Zumar: 3]
+He (Glorified be He) so says: **"Verily, Allâh will judge between them concerning that wherein they differ. Truly, Allâh guides not him who is a liar, and a disbeliever."** [Al-Zumar: 3]
 
 He (Glorified be He) thus explains that what Mushriks declare that they worship their false helpers, because they draw them closer to Allah is just a lie and that such people are considered Kafirs for doing so. 
 
