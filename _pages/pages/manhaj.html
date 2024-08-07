@@ -6,9 +6,12 @@ permalink: /manhaj/
 ---
 
 <div class="container-lg">
+<table class="bg-transparent"> 
  <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2">
   {% for post in site.posts %}
   {% if post.categories contains 'manhaj' %}
+  <tr class="bg-transparent">
+  <td class="bg-transparent">
   <div itemscope itemtype="https://schema.org/NewsArticle" class="col mb-3">
    <meta itemprop="image" content="{{ '/assets/images/fb.jpg' | absolute_url }}" />
    <div style="margin:0px !important;padding: 0px !important;"> 
@@ -125,7 +128,9 @@ permalink: /manhaj/
     </div>    
    </div>
   </div>   
+  </td></tr>
   {% endif %}
   {% endfor %}
  </div>
+</table>
 </div>
