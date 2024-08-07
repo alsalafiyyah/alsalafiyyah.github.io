@@ -33,7 +33,7 @@ p, section, main {
  font-size: 1.2rem;
 }
 .fatwas a {
- color: #f4511e !important;
+ color: var(--black) !important;
  text-decoration: none !important;   
  opacity: 0.6;
  transition: 0.3s;
