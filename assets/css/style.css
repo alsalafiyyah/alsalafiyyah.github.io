@@ -38,7 +38,7 @@ p, section, main {
  opacity: 0.6;
  transition: 0.3s;
 }
-.fatwas a {
+.fatwas a:hover {
  opacity: 1;
 }
 .post-meta a, 
