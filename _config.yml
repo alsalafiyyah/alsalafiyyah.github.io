@@ -47,12 +47,6 @@ exclude:
   - .gitignore
   - Gemfile.lock
   - vendor
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - LICENSE
-  - /local
-  - config
   - README
   
 Tags: '/tags/'
