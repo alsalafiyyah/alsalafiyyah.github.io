@@ -10,6 +10,7 @@ contact:
   email             : alsalafiyyah@icloud.com
 note:
     text            : "May Allah grant us success. May peace and blessings be upon our Prophet, his family and Companions"
+
 layouts_dir         : _layouts
 plugins_dir         : _plugins
 data_dir            : _data
@@ -30,10 +31,7 @@ defaultLang         : en
 timezone            : Asia/Riyadh
 github_username     : alsalafiyyah
 git_repo            : alsalafiyyah.github.io
-liquid:
-  error_mode        : warn
-  strict_filters    : false
-  strict_variables  : false
+
 kramdown:
   auto_ids          : true
   entity_output     : as_char
@@ -43,14 +41,17 @@ kramdown:
   hard_wrap         : false
   footnote_nr       : 1
   show_warnings     : false
+
 Tags                : '/tags/'
 tag_page            : '/tags/'
 Categories          : '/category/'
 category_page       : '/category/'
+
 compress_html:
   clippings         : all
   startings         : [html, head, body]
   endings           : all
+
 # tipue search js
 tipue_search:
   include:
