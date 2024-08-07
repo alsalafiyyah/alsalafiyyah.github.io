@@ -35,7 +35,7 @@ p, section, main {
 .fatwas a {
  color: var(--black) !important;
  text-decoration: none !important;   
- opacity: 0.6;
+ opacity: 0.8;
  transition: 0.3s;
 }
 .fatwas a:hover {
