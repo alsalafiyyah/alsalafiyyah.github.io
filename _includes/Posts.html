@@ -1,369 +1,124 @@
 <section class="mt-3"><!-- fatwas section -->
- 
-<div class="list-group">
-
-{% for post in paginator.posts %}
-<div itemscope itemtype="https://schema.org/NewsArticle" class="list-group-item list-group-item-action border-0">
- <meta itemprop="image" content="{{ '/assets/images/fb.jpg' | absolute_url }}" />   
- <a href="{{ post.url }}" class="list-group-item list-group-item-action border-0 bg-transparent" style="padding: 0px !important; margin: 0px !important;">
- <h3 itemprop="headline" class="mb-1">
-  {{ post.title }}
- </h3>
- <p class="mb-1 fst-italic">
-  {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace | remove_first: "Question:" }}
- </p>
- </a>
- 
-{% if post.muftis %}
-{% if post.muftis.chairman %} 
-<p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
- {% for chairman in post.muftis.chairman %}
- <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-  <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="{{ chairman.url }}">
-   <small>
-    <span itemprop="name">
-     {{ chairman.name | append: " & others" }}
-    </span>
-   </small>
-  </a>
- </span>
- {% endfor %}
- </p> 
-{% elsif post.muftis.deputy_chairman %} 
-<p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
- {% for deputy in post.muftis.deputy_chairman %}
- <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-  <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="{{ deputy.url }}">
-   <small>
-    <span itemprop="name">
-     {{ deputy.name | append: " & others" }}
-    </span>
-   </small>
-  </a>
- </span>
- {% endfor %}
- </p>   
-{% endif %} 
-{% endif %}
-
-{% if post.muftis %} 
-{% if post.muftis.shaykh %}  
- <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
- {% for shaykh in post.muftis.shaykh %}  
- <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-  <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="{{ shaykh.url }}">
-   <small>
-    <span itemprop="name">
-    {{ shaykh.name }}
-    </span>
-   </small>
-  </a>
- </span>
- {% endfor %}  
- </p>
-{% endif %} 
-{% endif %}
-
-{% if post.shaykhs %}  
- <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
- <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-  <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/alifta">
-   <small>
-    <span itemprop="name">
-     {% if page.locale == 'en' %}
-      {{ site.data.locales[page.locale].page.alifta_scholars }}
-     {% elsif page.locale == 'ar' %}
-      {{ site.data.locales[page.locale].page.alifta_scholars }}
-     {% else %}
-      Permanent Committee
-     {% endif %}
-    </span>
-   </small>
-  </a>
- </span>
- </p>
-{% endif %}
-
-{% if post.group1 %}
- <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
- <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-  <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/alifta">
-   <small>
-    <span itemprop="name">
-     {% if page.locale == 'en' %}
-      {{ site.data.locales[page.locale].page.alifta_scholars }}
-     {% elsif page.locale == 'ar' %}
-      {{ site.data.locales[page.locale].page.alifta_scholars }}
-     {% else %}
-      Permanent Committee
-     {% endif %}
-    </span>
-   </small>
-  </a>
- </span>
- </p>   
-{% elsif post.group2 %}
- <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
- <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-  <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/alifta">
-   <small>
-    <span itemprop="name">
-     {% if page.locale == 'en' %}
-      {{ site.data.locales[page.locale].page.alifta_scholars }}
-     {% elsif page.locale == 'ar' %}
-      {{ site.data.locales[page.locale].page.alifta_scholars }}
-     {% else %}
-      Permanent Committee
-     {% endif %}
-    </span>
-   </small>
-  </a>
- </span>
- </p> 
-{% elsif post.group3 %}
- <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
- <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-  <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/alifta">
-   <small>
-    <span itemprop="name">
-     {% if page.locale == 'en' %}
-      {{ site.data.locales[page.locale].page.alifta_scholars }}
-     {% elsif page.locale == 'ar' %}
-      {{ site.data.locales[page.locale].page.alifta_scholars }}
-     {% else %}
-      Permanent Committee
-     {% endif %}
-    </span>
-   </small>
-  </a>
- </span>
- </p> 
-{% elsif post.group4 %}
- <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
- <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-  <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/alifta">
-   <small>
-    <span itemprop="name">
-     {% if page.locale == 'en' %}
-      {{ site.data.locales[page.locale].page.alifta_scholars }}
-     {% elsif page.locale == 'ar' %}
-      {{ site.data.locales[page.locale].page.alifta_scholars }}
-     {% else %}
-      Permanent Committee
-     {% endif %}
-    </span>
-   </small>
-  </a>
- </span>
- </p>  
-{% elsif post.group5 %}
- <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
- <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-  <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/alifta">
-   <small>
-    <span itemprop="name">
-     {% if page.locale == 'en' %}
-      {{ site.data.locales[page.locale].page.alifta_scholars }}
-     {% elsif page.locale == 'ar' %}
-      {{ site.data.locales[page.locale].page.alifta_scholars }}
-     {% else %}
-      Permanent Committee
-     {% endif %}
-    </span>
-   </small>
-  </a>
- </span>
- </p> 
-{% elsif post.group6 %}
- <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
- <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-  <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/alifta">
-   <small>
-    <span itemprop="name">
-     {% if page.locale == 'en' %}
-      {{ site.data.locales[page.locale].page.alifta_scholars }}
-     {% elsif page.locale == 'ar' %}
-      {{ site.data.locales[page.locale].page.alifta_scholars }}
-     {% else %}
-      Permanent Committee
-     {% endif %}
-    </span>
-   </small>
-  </a>
- </span>
- </p>  
-{% elsif post.group7 %}
- <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
- <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-  <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/alifta">
-   <small>
-    <span itemprop="name">
-     {% if page.locale == 'en' %}
-      {{ site.data.locales[page.locale].page.alifta_scholars }}
-     {% elsif page.locale == 'ar' %}
-      {{ site.data.locales[page.locale].page.alifta_scholars }}
-     {% else %}
-      Permanent Committee
-     {% endif %}
-    </span>
-   </small>
-  </a>
- </span>
- </p>  
-{% elsif post.group8 %}
- <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
- <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-  <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/alifta">
-   <small>
-    <span itemprop="name">
-     {% if page.locale == 'en' %}
-      {{ site.data.locales[page.locale].page.alifta_scholars }}
-     {% elsif page.locale == 'ar' %}
-      {{ site.data.locales[page.locale].page.alifta_scholars }}
-     {% else %}
-      Permanent Committee
-     {% endif %}
-    </span>
-   </small>
-  </a>
- </span>
- </p> 
-{% elsif post.group9 %}
- <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
- <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-  <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/alifta">
-   <small>
-    <span itemprop="name">
-     {% if page.locale == 'en' %}
-      {{ site.data.locales[page.locale].page.alifta_scholars }}
-     {% elsif page.locale == 'ar' %}
-      {{ site.data.locales[page.locale].page.alifta_scholars }}
-     {% else %}
-      Permanent Committee
-     {% endif %}
-    </span>
-   </small>
-  </a>
- </span>
- </p> 
-{% elsif post.group10 %}
- <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
- <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-  <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/alifta">
-   <small>
-    <span itemprop="name">
-     {% if page.locale == 'en' %}
-      {{ site.data.locales[page.locale].page.alifta_scholars }}
-     {% elsif page.locale == 'ar' %}
-      {{ site.data.locales[page.locale].page.alifta_scholars }}
-     {% else %}
-      Permanent Committee
-     {% endif %}
-    </span>
-   </small>
-  </a>
- </span>
- </p> 
-{% elsif post.group11 %}
- <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
- <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-  <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/alifta">
-   <small>
-    <span itemprop="name">
-     {% if page.locale == 'en' %}
-      {{ site.data.locales[page.locale].page.alifta_scholars }}
-     {% elsif page.locale == 'ar' %}
-      {{ site.data.locales[page.locale].page.alifta_scholars }}
-     {% else %}
-      Permanent Committee
-     {% endif %}
-    </span>
-   </small>
-  </a>
- </span>
- </p> 
-{% elsif post.group12 %}
- <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
- <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-  <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/alifta">
-   <small>
-    <span itemprop="name">
-     {% if page.locale == 'en' %}
-      {{ site.data.locales[page.locale].page.alifta_scholars }}
-     {% elsif page.locale == 'ar' %}
-      {{ site.data.locales[page.locale].page.alifta_scholars }}
-     {% else %}
-      Permanent Committee
-     {% endif %}
-    </span>
-   </small>
-  </a>
- </span>
- </p> 
-{% elsif post.group13 %}
- <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
- <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-  <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="/biography/alifta">
-   <small>
-    <span itemprop="name">
-     {% if page.locale == 'en' %}
-      {{ site.data.locales[page.locale].page.alifta_scholars }}
-     {% elsif page.locale == 'ar' %}
-      {{ site.data.locales[page.locale].page.alifta_scholars }}
-     {% else %}
-      Permanent Committee
-     {% endif %}
-    </span>
-   </small>
-  </a>
- </span>
- </p> 
-{% else %}
-{% endif %}
-
-{% if post.authors %}
-{% if post.authors.author %} 
-<p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.posted_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.posted_by | append: ":" }}{% else %}Posted by:{% endif %}</small>
- {% for author in post.authors.author %}
- <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-  <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover icon-link" itemprop="url" href="https://instagram.com/{{ author.url }}" rel="nofollow" target="_blank">
-   <small>
-    <span itemprop="name">
-     {{ author.name }}
-    </span>
-   </small>
-  </a>
- </span>
+<div class="container-lg">
+ <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2">
+  {% for post in paginator.posts %}
+  <div itemscope itemtype="https://schema.org/NewsArticle" class="col mb-3">
+   <meta itemprop="image" content="{{ '/assets/images/fb.jpg' | absolute_url }}" />
+   <div style="margin:0px !important;padding: 0px !important;"> 
+    <a class="link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" style="margin:0px !important;padding: 0px !important;"
+       href="{{ post.url }}">
+     <h3 itemprop="headline">{{ post.title }}</h3>
+    </a>
+    <p class="mb-1 fst-italic">
+     {{ post.content | truncatewords: 20  | strip_html | normalize_whitespace | remove_first: "Question:" }}
+    </p>
+    <div class="post-meta d-flex justify-content-between mt-3" style="font-size: 14.8px !important;">
+     <div class="text-wrap" style="width: 10rem;">
+      {% if post.muftis %}
+      {% if post.muftis.chairman %} 
+      {% for chairman in post.muftis.chairman %}
+      <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+       <a itemprop="url" class="fw-semibold" href="{{ chairman.url }}"><span itemprop="name">{{ chairman.name | append: " & others" }}</span></a>
+      </span>
+      {% endfor %}
+      {% elsif post.muftis.deputy_chairman %}
+      {% for deputy in post.muftis.deputy_chairman %}
+      <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+       <a itemprop="url" class="fw-semibold" href="{{ deputy.url }}"><span itemprop="name">{{ deputy.name | append: " & others" }}</span></a>
+      </span>
+      {% endfor %}
+      {% endif %}
+      {% endif %}
+      {% if post.muftis %}
+      {% if post.muftis.shaykh %}  
+      {% for shaykh in post.muftis.shaykh %} 
+      <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+       <a itemprop="url" class="fw-semibold" href="{{ shaykh.url }}"><span itemprop="name">{{ shaykh.name }}</span></a>
+      </span>
+      {% endfor %}
+      {% else %}
+      <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+       <a itemprop="url" class="fw-semibold" href="{{ '/biography/alifta' | absolute_url }}"><span itemprop="name">{% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% else %}Permanent Committee{% endif %}</span></a> 
+      </span>
+      {% endif %}
+      {% endif %}
+      {% if post.shaykhs %}
+       <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+        <a itemprop="url" class="fw-semibold" href="/biography/"><span itemprop="name">{{ post.shaykhs }}</span></a>
+       </span>
+      {% endif %}
+      {% if post.authors %}
+       {% if post.authors.author %} 
+        {% for author in post.authors.author %}
+         <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+          <a itemprop="url" class="fw-semibold" href="https://instagram.com/{{ author.url }}" rel="nofollow" target="_blank"><span itemprop="name">{{ author.name }}</span></a>
+         </span>
+        {% endfor %}
+       {% endif %}
+      {% endif %}
+      {% if post.group1 %}
+       <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+        <a itemprop="url" class="fw-semibold" href="{{ '/biography/alifta' | absolute_url }}"><span itemprop="name">{% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% else %}Permanent Committee{% endif %}</span></a> 
+       </span>
+      {% elsif post.group2 %}
+       <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+        <a itemprop="url" class="fw-semibold" href="{{ '/biography/alifta' | absolute_url }}"><span itemprop="name">{% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% else %}Permanent Committee{% endif %}</span></a> 
+       </span>
+      {% elsif post.group3 %}
+       <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+        <a itemprop="url" class="fw-semibold" href="{{ '/biography/alifta' | absolute_url }}"><span itemprop="name">{% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% else %}Permanent Committee{% endif %}</span></a> 
+       </span>
+      {% elsif post.group4 %}
+       <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+        <a itemprop="url" class="fw-semibold" href="{{ '/biography/alifta' | absolute_url }}"><span itemprop="name">{% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% else %}Permanent Committee{% endif %}</span></a> 
+       </span>
+      {% elsif post.group5 %}
+       <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+        <a itemprop="url" class="fw-semibold" href="{{ '/biography/alifta' | absolute_url }}"><span itemprop="name">{% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% else %}Permanent Committee{% endif %}</span></a> 
+       </span>
+      {% elsif post.group6 %}
+       <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+        <a itemprop="url" class="fw-semibold" href="{{ '/biography/alifta' | absolute_url }}"><span itemprop="name">{% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% else %}Permanent Committee{% endif %}</span></a> 
+       </span>
+      {% elsif post.group7 %}
+       <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+        <a itemprop="url" class="fw-semibold" href="{{ '/biography/alifta' | absolute_url }}"><span itemprop="name">{% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% else %}Permanent Committee{% endif %}</span></a> 
+       </span>
+      {% elsif post.group8 %}
+       <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+        <a itemprop="url" class="fw-semibold" href="{{ '/biography/alifta' | absolute_url }}"><span itemprop="name">{% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% else %}Permanent Committee{% endif %}</span></a> 
+       </span>
+      {% elsif post.group9 %}
+       <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+        <a itemprop="url" class="fw-semibold" href="{{ '/biography/alifta' | absolute_url }}"><span itemprop="name">{% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% else %}Permanent Committee{% endif %}</span></a> 
+       </span>
+      {% elsif post.group10 %}
+       <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+        <a itemprop="url" class="fw-semibold" href="{{ '/biography/alifta' | absolute_url }}"><span itemprop="name">{% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% else %}Permanent Committee{% endif %}</span></a> 
+       </span>
+      {% elsif post.group11 %}
+       <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+        <a itemprop="url" class="fw-semibold" href="{{ '/biography/alifta' | absolute_url }}"><span itemprop="name">{% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% else %}Permanent Committee{% endif %}</span></a> 
+       </span>
+      {% elsif post.group12 %}
+       <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+        <a itemprop="url" class="fw-semibold" href="{{ '/biography/alifta' | absolute_url }}"><span itemprop="name">{% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% else %}Permanent Committee{% endif %}</span></a> 
+       </span>
+      {% elsif post.group13 %}
+       <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+        <a itemprop="url" class="fw-semibold" href="{{ '/biography/alifta' | absolute_url }}"><span itemprop="name">{% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.alifta_scholars }}{% else %}Permanent Committee{% endif %}</span></a> 
+       </span>
+      {% endif %}
+     </div> 
+     <div class="text-wrap" style="width: 9rem;">
+      <span itemprop="datePublished" content="{{ post.date | to_utc | date: "%Y%m%dT%H:%M:%S%:z" }}">
+       {{ post.hijri }} - {{ post.date | date: "%b %d, %Y" }}
+      </span>
+     </div>
+    </div>    
+   </div>
+  </div>   
   {% endfor %}
- </p> 
-{% endif %}
-{% endif %} 
-
- <!-- date -->
- <p class="text-body-secondary" style="margin: 0px !important; padding: 0px !important; font-size: 16px !important;">
- <span itemprop="datePublished" content="{{ post.date | to_utc | date: "%Y%m%dT%H:%M:%S%:z" }}">
-  <small><i class="bi bi-calendar-day"></i> {{ post.hijri }} / {{ post.date | date: "%b %d, %Y" }}</small>
- </span>
- </p>
-</div>        
-{% endfor %}
+ </div>
 </div>
 </section><!-- /fatwas section -->
