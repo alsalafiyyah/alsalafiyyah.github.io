@@ -36,14 +36,12 @@ p, section, main {
 .fatwas a {
  color: var(--black) !important;
  text-decoration: none !important; 
- font-weight: 800 !important;  
- opacity: 0.3 !important;  
+ font-weight: 800 !important;   
 }
 .fatwas a {
  color: var(--red) !important;
  text-decoration: none !important; 
  font-weight: 800 !important;  
- opacity: 0 !important;  
 }
 .post-meta a, 
 .text-wrap a
