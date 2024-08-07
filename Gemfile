@@ -10,7 +10,6 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag"
   gem "jekyll-remote-theme"
   gem "jekyll-paginate"
-  gem "kramdown"
   gem "github-pages"
   gem 'faraday-retry', '~> 2.2', '>= 2.2.1'
   gem "liquid"
