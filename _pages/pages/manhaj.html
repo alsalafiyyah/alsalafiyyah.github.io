@@ -12,7 +12,7 @@ permalink: /manhaj/
   <div itemscope itemtype="https://schema.org/NewsArticle" class="col mb-3">
    <meta itemprop="image" content="{{ '/assets/images/fb.jpg' | absolute_url }}" />
    <div style="margin:0px !important;padding: 0px !important;"> 
-    <a class="link-dark link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" style="margin:0px !important;padding: 0px !important;"
+    <a class="link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" style="margin:0px !important;padding: 0px !important;"
        href="{{ post.url }}">
      <h3 itemprop="headline">{{ post.title }}</h3>
     </a>
@@ -62,8 +62,4 @@ permalink: /manhaj/
   {% endfor %}
  </div>
 </div>
-<style>
-.post-meta, .text-wrap {
- font-size: 14px !important;
-}    
-</style> 
+{% include stylesheet.liquid %}
