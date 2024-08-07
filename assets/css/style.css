@@ -17,12 +17,11 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 }
 a {
- color: var(--black) !important;
- text-decoration: none !important; 
- font-weight: 800 !important;
+ color: var(--black);
+ text-decoration: none !important;
 }
 a:link {
-  text-decoration: none;
+  text-decoration: none !important;
 }
 a:visited {
   text-decoration: none;
@@ -33,6 +32,18 @@ a:hover {
 }
 p, section, main {
  font-size: 1.2rem;
+}
+.fatwas a {
+ color: var(--black) !important;
+ text-decoration: none !important; 
+ font-weight: 800 !important;  
+ opacity: 0.3 !important;  
+}
+.fatwas a {
+ color: var(--red) !important;
+ text-decoration: none !important; 
+ font-weight: 800 !important;  
+ opacity: 0 !important;  
 }
 .post-meta a, 
 .text-wrap a
