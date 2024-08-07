@@ -11,6 +11,13 @@ contact:
 note:
     text            : "May Allah grant us success. May peace and blessings be upon our Prophet, his family and Companions"
 
+source              : .
+destination         : ./_site
+collections_dir     : .
+plugins_dir         : _plugins
+layouts_dir         : _layouts
+data_dir            : _data
+includes_dir        : _includes
 encoding            : "utf-8"
 markdown_ext        : "markdown,mkdown,mkdn,mkd,md"
 strict_front_matter : false
@@ -26,6 +33,11 @@ defaultLang         : en
 timezone            : Asia/Riyadh
 github_username     : alsalafiyyah
 git_repo            : alsalafiyyah.github.io
+
+liquid:
+  error_mode        : warn
+  strict_filters    : false
+  strict_variables  : false
 
 include:
   - _pages
@@ -79,7 +91,7 @@ webmaster_verifications:
   bing             : 4F1A0A46CAA92F43191A0C4B37948DD7
   yandex           : ca07a6e68b1254db
   domain_verify    : 6a0545495b6d882089f54152a3ef5f2c
-  email            : arubalessandra@gmail.com
+  email_dev        : arubalessandra@gmail.com
   analytics        : G-QC20WKL1N2
 
 #Manifest
