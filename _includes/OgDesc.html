@@ -1,11 +1,8 @@
+{% assign pagecontent_description = page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | strip_html | strip_newlines | replace: '  ', ' ' | truncate: 160 %}
 <meta 
   name="description" 
-  content="
-  {% if page.excerpt and page.excerpt != empty %}
-   {{ page.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape }}
-  {% else %}
-   {{ site.description }}
-  {% endif %}"/>
+  content="{% if pagecontent_description.size > 10 %}{{ pagecontent_description }}{% else %}{{ site.description }}{% endif %}">
+
 <meta 
   name="summary'" 
   content="
