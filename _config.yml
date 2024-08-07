@@ -11,11 +11,6 @@ contact:
 note:
     text            : "May Allah grant us success. May peace and blessings be upon our Prophet, his family and Companions"
 
-layouts_dir         : _layouts
-plugins_dir         : _plugins
-data_dir            : _data
-includes_dir        : _includes
-collections_dir     : .
 encoding            : "utf-8"
 markdown_ext        : "markdown,mkdown,mkdn,mkd,md"
 strict_front_matter : false
@@ -32,15 +27,36 @@ timezone            : Asia/Riyadh
 github_username     : alsalafiyyah
 git_repo            : alsalafiyyah.github.io
 
-kramdown:
-  auto_ids          : true
-  entity_output     : as_char
-  toc_levels        : [1, 2, 3, 4, 5, 6]
-  smart_quotes      : lsquo,rsquo,ldquo,rdquo
-  input             : GFM
-  hard_wrap         : false
-  footnote_nr       : 1
-  show_warnings     : false
+include:
+  - _pages
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - liquid
+  - categories
+  - utc_filter
+  - jekyll-paginate-category
+  - jekyll-include-cache
+
+exclude:
+  - docs/
+  - vendor/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Makefile
+  - README.md
+  - sample*.png
+  - .gitignore
+  - README
+  - gemfile
+  - Gemfile.lock
+  - node_modules
 
 Tags                : '/tags/'
 tag_page            : '/tags/'
@@ -73,37 +89,6 @@ manifest_lang      : en
 manifest_background_color: "#fff"
 manifest_short_name:
 manifest_display   : standalone
-
-include:
-  - _pages
-
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-redirect-from
-  - liquid
-  - categories
-  - utc_filter
-  - jekyll-paginate-category
-  - jekyll-include-cache
-
-exclude:
-  - docs/
-  - vendor/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - Makefile
-  - README.md
-  - sample*.png
-  - .gitignore
-  - README
-  - gemfile
-  - Gemfile.lock
-  - node_modules
       
 defaults:
   # _posts
