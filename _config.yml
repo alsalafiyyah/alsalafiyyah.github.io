@@ -1,31 +1,77 @@
-title:          Manhaj Al-Salaf
-description:    "This site is dedicated to presenting the pure teachings of Islam and Sunnah, refuting bidahs, the lies and distortions."
-slogan:         "Revive the Sunnah. Leave the Bid'ah"
-baseurl:        "/"
-keywords:       "salafi, salaf, manhaj, islam, knowledge, shariah, muslim, islamic, fatwas, bidah, sunnah, muslimah, bid'ah, dawah, da'wah, lectures, arabic, sermon, musliman, community, ahlus sunnah wal jamaah, ahlus sunnah, sunnis, sunni, tawhid, tauhid, allah, prophets, prophet muhammad, rasul, rasulullah, muhammad, sahabah"
-url:            "https://alsalafiyyah.github.io"
-author:         "Instagram@Alsalafiyyah"
+title               : Manhaj Al-Salaf
+description         : "This site is dedicated to presenting the pure teachings of Islam and Sunnah, refuting bidahs, the lies and distortions."
+slogan              : "Revive the Sunnah. Leave the Bid'ah"
+baseurl             : "/"
+keywords            : "salafi, salaf, manhaj, islam, knowledge, shariah, muslim, islamic, fatwas, bidah, sunnah, muslimah, bid'ah, dawah, da'wah, lectures, arabic, sermon, musliman, community, ahlus sunnah wal jamaah, ahlus sunnah, sunnis, sunni, tawhid, tauhid, allah, prophets, prophet muhammad, rasul, rasulullah, muhammad, sahabah"
+url                 : "https://alsalafiyyah.github.io"
+author              : "Instagram@Alsalafiyyah"
 contact:
-  name:         Instagram@Alsalafiyyah
-  email:        alsalafiyyah@icloud.com
-
-github_username: alsalafiyyah
-git_repo: alsalafiyyah.github.io
-encoding: UTF-8
-permalink: pretty
-paginate: 20
-paginate_path: "/fatwas/:num/"
-markdown: kramdown
-highlighter: rouge
-safe: true
-future: true
-locales: ["en", "ar"]
-language_default: en
-defaultLang: en
-timezone: Asia/Riyadh
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+  name              : Instagram@Alsalafiyyah
+  email             : alsalafiyyah@icloud.com
 note:
-    text: "May Allah grant us success. May peace and blessings be upon our Prophet, his family and Companions"
+    text            : "May Allah grant us success. May peace and blessings be upon our Prophet, his family and Companions"
+layouts_dir         : _layouts
+plugins_dir         : _plugins
+data_dir            : _data
+includes_dir        : _includes
+collections_dir     : .
+encoding            : "utf-8"
+markdown_ext        : "markdown,mkdown,mkdn,mkd,md"
+strict_front_matter : false
+safe                : true
+future              : true
+permalink           : pretty
+paginate            : 20
+paginate_path       : "/fatwas/:num/"
+markdown            : kramdown
+highlighter         : rouge
+locales             : ["en", "ar"]
+defaultLang         : en
+timezone            : Asia/Riyadh
+github_username     : alsalafiyyah
+git_repo            : alsalafiyyah.github.io
+liquid:
+  error_mode        : warn
+  strict_filters    : false
+  strict_variables  : false
+kramdown:
+  auto_ids          : true
+  entity_output     : as_char
+  toc_levels        : [1, 2, 3, 4, 5, 6]
+  smart_quotes      : lsquo,rsquo,ldquo,rdquo
+  input             : GFM
+  hard_wrap         : false
+  footnote_nr       : 1
+  show_warnings     : false
+Tags                : '/tags/'
+tag_page            : '/tags/'
+Categories          : '/category/'
+category_page       : '/category/'
+compress_html:
+  clippings         : all
+  startings         : [html, head, body]
+  endings           : all
+# tipue search js
+tipue_search:
+  include:
+    pages          : false
+  exclude:
+    files          : [index.html, search.html, sitemap.xml, feed.xml, docs, BingSiteAuth.xml, Gemfile.lock, Gemfile, manifest.yml]
+webmaster_verifications:
+  google           : K7QDv3cEwylAu_9fndO3ebQmNowxxRYCpqDEzQKQOy4
+  bing             : 4F1A0A46CAA92F43191A0C4B37948DD7
+  yandex           : ca07a6e68b1254db
+  domain_verify    : 6a0545495b6d882089f54152a3ef5f2c
+  email            : arubalessandra@gmail.com
+  analytics        : G-QC20WKL1N2
+
+#Manifest
+manifest_name      : Manhaj Al-Salaf
+manifest_description: 
+manifest_lang      : en
+manifest_background_color: "#fff"
+manifest_short_name:
+manifest_display   : standalone
 
 include:
   - _pages
@@ -45,47 +91,18 @@ plugins:
 exclude:
   - docs/
   - vendor/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
   - Makefile
   - README.md
   - sample*.png
   - .gitignore
   - README
-  
-Tags: '/tags/'
-tag_page: '/tags/'
-Categories: '/category/'
-category_page: '/category/'
-
-compress_html:
-  clippings: all
-  startings: [html, head, body]
-  endings: all
-
-# tipue search js
-tipue_search:
-  include:
-    pages: false
-  exclude:
-    files: [index.html, search.html, sitemap.xml, feed.xml, docs, BingSiteAuth.xml, Gemfile.lock, Gemfile, manifest.yml]
-
-webmaster_verifications:
-  google: K7QDv3cEwylAu_9fndO3ebQmNowxxRYCpqDEzQKQOy4
-  bing: 4F1A0A46CAA92F43191A0C4B37948DD7
-  yandex: ca07a6e68b1254db
-  domain_verify: 6a0545495b6d882089f54152a3ef5f2c
-  email: arubalessandra@gmail.com
-  analytics: G-QC20WKL1N2
-  facebook_domain: 
-  baidu: 
-  alexa: 
-
-#Manifest
-manifest_name: Salafiyyah
-manifest_description: 
-manifest_lang: en
-manifest_background_color: "#fff"
-manifest_short_name:
-manifest_display: standalone
+  - gemfile
+  - Gemfile.lock
+  - node_modules
       
 defaults:
   # _posts
@@ -154,29 +171,13 @@ defaults:
 # Collections
 collections:
   ar:
-    output: true
-    locale: ar
-    permalink: /:collection/:slug
+    output          : true
+    locale          : ar
+    permalink       : /:collection/:slug
   en: 
-    output: true        
-    locale: en
-    permalink: /:collection/:slug
-  biography: 
-    output: true        
-    locale: en
-    permalink: /biography/:slug
-  muqolat: 
-    output: true        
-    locale: en
-    permalink: /muqolat/:slug
-  wahhabism: 
-    output: true        
-    locale: en
-    permalink: /wahhabism/:slug
-  audios: 
-    output: true        
-    locale: en
-    permalink: /audios/:slug
+    output          : true        
+    locale          : en
+    permalink       : /:collection/:slug
 
 
 # Alifta Scholars
