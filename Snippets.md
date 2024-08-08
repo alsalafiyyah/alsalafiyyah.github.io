@@ -43,28 +43,28 @@ shaykhs:
 ~~~
 
 #### Custom Variables
-~~~liquid
+~~~yaml
 article_taken_from: 
   taken_from:
     - web_title: 
       web_url: 
 ~~~
 
-~~~liquid
+~~~yaml
 muftis:
   shaykh: 
     - name: Shaykh Salih Al-Fawzan
       url: /biography/fawzan
 ~~~
 
-~~~liquid
+~~~yaml
 shaykhs: 
  - Sh. Ibn Baz
  - Sh. Abdullah ibn Ghudayyan
  - Sh. Abdul-Razzaq Al-Afifi
 ~~~
 
-~~~liquid
+~~~yaml
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz
@@ -161,7 +161,7 @@ permalink: /docs/
 ___
 
 #### Display Posts
-~~~liquid
+~~~yml
 // All posts
 {% for post in site.posts %}
   <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
@@ -246,7 +246,7 @@ ___
 ___
 
 #### Others
-~~~yml
+~~~yaml
 // Date modified
 <div id="last-modified"></div>
 
@@ -279,7 +279,7 @@ ___
 ___
 
 #### Display categories
-~~~liquid
+~~~yaml
 {% for category in site.categories %}
  <a href="{{ site.baseurl }}/category/{{ category[0] }}">
   {{ category[0] | capitalize }}
@@ -307,7 +307,7 @@ ___
 ___
 
 #### Diplay pagination in a content collection
-~~~yml
+~~~yaml
 
 // Muqolat collection
 {% for c in site.muqolat %}
