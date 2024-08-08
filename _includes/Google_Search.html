@@ -2,8 +2,14 @@
   method="get" 
   id="search-google" 
   action="https://www.google.com/search" 
-  target="_blank">
-  <div class="input-group mb-3">
+  target="_blank"
+  role="search" 
+  itemprop="potentialAction" 
+  itemscope 
+  itemtype="http://schema.org/SearchAction">
+  <meta itemprop="target" content="https://www.google.com/search"/>
+  <div itemprop="query-input" itemscope itemtype="http://schema.org/PropertyValueSpecification" class="input-group mb-3">
+  <meta itemprop="valueName" content="alsalafiyyah.github.io"/>
   <input 
     type="hidden" 
     name="sitesearch" 
@@ -15,7 +21,7 @@
     maxlength="255" 
     value="" 
     placeholder="Search via Google" 
-    class="form-control shadow-none"
+    class="form-control shadow-none border-danger"
     aria-describedby="button-addon2"/>
    <button class="btn btn-danger" type="submit" id="button-addon2">Search</button> 
   </div>
