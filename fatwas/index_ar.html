@@ -6,8 +6,9 @@ locale: ar
 permalink: /ar/fatwas/
 excerpt: Compilation of fatwas (legal opinions) issued by the scholars of ahlus-sunnah.
 ---
-{% assign posts_ar = (site.posts | where: "locale" , "ar") %}
-{% for post in posts_ar %}
+
+{% assign posts = site.posts | where:"locale", "ar" %}
+{% for post in posts %}
   <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
   <p>{{ post.excerpt }}</p>
   <date>{{ post.hijri }}</date>
@@ -15,7 +16,7 @@ excerpt: Compilation of fatwas (legal opinions) issued by the scholars of ahlus-
 <ul 
  class="no-bullets"
  typeof="ItemList" vocab="https://schema.org/ItemList">
- {% for post in paginator.posts_ar %}
+ {% for post in paginator.posts %}
    <li itemprop="itemListElement" typeof="ListItem">
     <a 
      property="url" 
