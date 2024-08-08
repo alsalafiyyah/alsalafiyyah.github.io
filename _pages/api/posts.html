@@ -1,12 +1,14 @@
 ---
 layout: null
+robots: noindex
 permalink: /api/posts
 ---
 [
-  {% assign posts_en = site.posts | where: "lang" , "page.lang" %}
-  {% for post in posts_en %}
+  {% assign posts = site.posts | where:"lang", page.lang %}
+  {% for post in posts %}
     {
-      "date": "{{ post.hijri }}",
+      "date": "{{ post.date }}",
+      "hijri_date": "{{ post.hijri }}",
       "title": "{{ post.title }}",
       "url": "{{ post.url }}"
     }
