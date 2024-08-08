@@ -5,18 +5,18 @@ robots: noindex
 permalink: /snippets/
 ---
 
-~~~liquid
+~~~yaml
 // date time
 {{ post.date }}
 {{ site.time }}
 ~~~
 
-~~~liquid
+~~~yaml
 // posts count
 {{ site.posts | size }}
 ~~~
 
-~~~liquid
+~~~yaml
 {% if page.locale == 'en' %}
  Hello
  {% elsif page.locale == 'ar' %}
@@ -28,14 +28,14 @@ permalink: /snippets/
 
 
 ### Custom Frontmatter
-~~~liquid
+~~~yaml
 muftis:
   shaykh: 
     - name: Shaykh Salih Al-Fawzan
       url: /biography/fawzan
 ~~~
 
-~~~liquid
+~~~yaml
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz
@@ -50,7 +50,7 @@ muftis:
       url: /biography/qaud
 ~~~
 
-~~~liquid
+~~~yaml
 // boolean
 group1 : true
 note: true
