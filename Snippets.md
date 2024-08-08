@@ -197,14 +197,6 @@ ___
 <span>Next</span>
 {% endif %}
 
-// Display post by lang
-{% assign posts_en = (site.posts | where: "locale" , "en") %}
-{% for post in posts_en %}
-  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-  <p>{{ post.excerpt }}</p>
-  <date>{{ post.hijri }}</date>
-{% endfor %}
-
 // Limit post
 {% for post in site.posts limit:5 %}
  {% if post.url %}
