@@ -16,4 +16,5 @@ group :jekyll_plugins do
   gem "liquid"
   gem 'jekyll-github-metadata', '~> 2.16', '>= 2.16.1'
   gem 'jekyll-include-cache', '~> 0.2.1'
+  gem 'jekyll-redirect-from'
 end
