@@ -77,21 +77,26 @@ tipue_search:
     pages          : false
   exclude:
     files          : [index.html, search.html, sitemap.xml, feed.xml, docs, BingSiteAuth.xml, Gemfile.lock, Gemfile, manifest.yml]
+
 webmaster_verifications:
-  google           : K7QDv3cEwylAu_9fndO3ebQmNowxxRYCpqDEzQKQOy4
-  bing             : 4F1A0A46CAA92F43191A0C4B37948DD7
-  yandex           : ca07a6e68b1254db
-  domain_verify    : 6a0545495b6d882089f54152a3ef5f2c
-  email_dev        : arubalessandra@gmail.com
-  analytics        : G-QC20WKL1N2
+  google                            : K7QDv3cEwylAu_9fndO3ebQmNowxxRYCpqDEzQKQOy4
+  bing                              : 4F1A0A46CAA92F43191A0C4B37948DD7
+  yandex                            : ca07a6e68b1254db
+  domain_verify                     : 6a0545495b6d882089f54152a3ef5f2c
+  email_dev                         : arubalessandra@gmail.com
+  analytics                         : G-QC20WKL1N2
+  google-adsense-account            : ca-pub-1975848559090325
+  norton-safeweb-site-verification  : LF7-5GIX8Y15K643FQAJRI-LV7F6YJ7L9QI00DEMVVHBY5CDFA2JKY-9DOUSGPUE2JJ9IUHL4LEG4EKRWB1X0O59N8-NK-V2ONW1I3JBMT--97TCYTW4QA3U3--ZUFNG
+  google-site-verification          : 
 
 #Manifest
-manifest_name      : Manhaj Al-Salaf
-manifest_description: 
-manifest_lang      : en
-manifest_background_color: "#fff"
-manifest_short_name:
-manifest_display   : standalone
+manifest_name                : Manhaj Al-Salaf
+manifest_description         : 
+manifest_lang                : en_EN
+manifest_background_color    : "#fff"
+manifest_short_name          :
+manifest_display             : standalone
+
       
 defaults:
   # _posts
