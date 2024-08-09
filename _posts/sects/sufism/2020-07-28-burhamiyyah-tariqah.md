@@ -3,7 +3,7 @@ layout: post
 title: "Ruling on Al-Burhamiyyah Tariqah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 4911"
-category: [sects]
+category: [fatwas,sects]
 hijri: Dhul-Hijjah 7, 1441
 lang: en
 locale: en
@@ -22,11 +22,11 @@ muftis:
       url: /biography/ghudayyan/
 ---
 
-Question: 
+### Question: 
 
 We trust Your Eminence and have confidence in your Fatwa; therefore, we wish that Your Eminence will read this book carefully and give us a legal opinion about it, bearing in mind that the book is distributed to a wide range of people who worship Allah through the regularly said supplications and utterances of Dhikr (remembrance of Allah) cited in this book. We want to know whether it is permissible to worship Allah through what is cited in it or not?
 
-Answer:
+### Answer:
 
 It is impermissible to worship Allah through what is cited in this book - i.e. Awrad Al-Burhamiyyah Tariqah (Invocations of Al-Burhamiyyah Order). To clarify, it involves reciting the Qur’an for the dead, or more correctly for specific dead people, more likely for the purpose of seeking their blessings, as in the openings dedicated to the so-called “Ahlul-Silsilah” (people of spiritual lineage). The latter practice involves the Bid‘ah of reciting such openings for Ahlul-Silsilah as an inauguration of the regular supplications. 
 
