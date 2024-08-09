@@ -1,0 +1,25 @@
+{
+  "name": "Alsalafiyyah",
+  "version": "0.0.1",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alsalafiyyah/alsalafiyyah.github.io.git"
+  },
+  "author": "alsalafiyyah@icloud.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alsalafiyyah/alsalafiyyah.github.io/issues"
+  },
+  "homepage": "https://alsalafiyyah.github.io",
+  "dependencies": {
+    "jekyll-paginate": "*",
+    "github-pages": "*",
+    "jekyll-sitemap": "*",
+    "jekyll-seo-tag": "*",
+    "jekyll-feed": "*"
+  }
+}
