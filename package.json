@@ -25,6 +25,10 @@
     "jekyll-remote-theme": "*",
     "kramdown": "*",
     "liquid": "*",
-    "faraday-retry": "*"
+    "faraday-retry": "*",
+    "ruby": "*",
+    "jekyll-github-metadata": "*",
+    "jekyll-include-cache": "*",
+    "jekyll-redirect-from": "*"
   }
 }
