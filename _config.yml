@@ -1,18 +1,16 @@
-title               : Manhaj Al-Salaf
+title               : "Manhaj Al-Salaf"
 description         : "This site is dedicated to presenting the pure teachings of Islam and Sunnah, refuting bidahs, the lies and distortions."
 slogan              : "Revive the Sunnah. Leave the Bid'ah"
 baseurl             : "/"
 keywords            : "salafi, salaf, manhaj, islam, knowledge, shariah, muslim, islamic, fatwas, bidah, sunnah, muslimah, bid'ah, dawah, da'wah, lectures, arabic, sermon, musliman, community, ahlus sunnah wal jamaah, ahlus sunnah, sunnis, sunni, tawhid, tauhid, allah, prophets, prophet muhammad, rasul, rasulullah, muhammad, sahabah"
 url                 : "https://alsalafiyyah.github.io"
 author              : "Instagram@Alsalafiyyah"
-contact:
-  name              : Instagram@Alsalafiyyah
-  email             : alsalafiyyah@icloud.com
 
-plugins_dir         : _plugins
-layouts_dir         : _layouts
-data_dir            : _data
-includes_dir        : _includes
+contact:
+  name              : "Instagram@Alsalafiyyah"
+  email             : "alsalafiyyah@icloud.com"
+
+g_search_value      : "alsalafiyyah.github.io" # google search value
 encoding            : "utf-8"
 markdown_ext        : "markdown,mkdown,mkdn,mkd,md"
 safe                : true
@@ -32,15 +30,41 @@ note:
     text            : "May Allah grant us success. May peace and blessings be upon our Prophet, his family and Companions"
 
 webmaster_verifications: 
-  google_site      : "K7QDv3cEwylAu_9fndO3ebQmNowxxRYCpqDEzQKQOy4" # google site verification
-  bing             : "4F1A0A46CAA92F43191A0C4B37948DD7" # msvalidate.01
-  yandex           : "ca07a6e68b1254db" # yandex verification
-  domain_verify    : "6a0545495b6d882089f54152a3ef5f2c" # p:domain_verify
-  analytics        : "G-QC20WKL1N2" 
-  google-ads       : "ca-pub-1975848559090325" # google-adsense-account
-  norton-safeweb   : "LF7-5GIX8Y15K643FQAJRI-LV7F6YJ7L9QI00DEMVVHBY5CDFA2JKY-9DOUSGPUE2JJ9IUHL4LEG4EKRWB1X0O59N8-NK-V2ONW1I3JBMT--97TCYTW4QA3U3--ZUFNG" # norton-safeweb-site-verification
-  email_webmaster  : "arubalessandra@gmail.com" 
-  g_search_id      : "86abb96a2158b40ed" # google search engine ID
+  google_site       : "K7QDv3cEwylAu_9fndO3ebQmNowxxRYCpqDEzQKQOy4" # google site verification
+  bing              : "4F1A0A46CAA92F43191A0C4B37948DD7" # msvalidate.01
+  yandex            : "ca07a6e68b1254db" # yandex verification
+  domain_verify     : "6a0545495b6d882089f54152a3ef5f2c" # p:domain_verify
+  analytics         : "G-QC20WKL1N2" 
+  google-ads        : "ca-pub-1975848559090325" # google-adsense-account
+  norton-safeweb    : "LF7-5GIX8Y15K643FQAJRI-LV7F6YJ7L9QI00DEMVVHBY5CDFA2JKY-9DOUSGPUE2JJ9IUHL4LEG4EKRWB1X0O59N8-NK-V2ONW1I3JBMT--97TCYTW4QA3U3--ZUFNG" # norton-safeweb-site-verification
+  email_webmaster   : "arubalessandra@gmail.com" 
+  g_search_id       : "86abb96a2158b40ed" # google search engine ID
+
+Tags                : '/tags/'
+tag_page            : '/tags/'
+Categories          : '/category/'
+category_page       : '/category/'
+
+# html compress
+compress_html:
+  clippings         : all
+  startings         : [html, head, body]
+  endings           : all
+
+# tipue search js
+tipue_search:
+  include:
+    pages          : false
+  exclude:
+    files          : [index.html, search.html, sitemap.xml, feed.xml, docs, BingSiteAuth.xml, Gemfile.lock, Gemfile, manifest.yml]
+
+# Manifest
+manifest_name      : "Manhaj Al-Salaf"
+manifest_desc      : "This site is dedicated to presenting the pure teachings of Islam and Sunnah, refuting bidahs, the lies and distortions."
+manifest_lang      : "en_EN"
+manifest_bg_color  : "#fff"
+manifest_short_name: "Salafiyyah"
+manifest_display   : "standalone"
 
 include:
   - _pages
@@ -54,7 +78,6 @@ plugins:
   - liquid
   - categories
   - utc_filter
-  - jekyll-paginate-category
   - jekyll-include-cache
 
 exclude:
@@ -73,32 +96,6 @@ exclude:
   - Gemfile.lock
   - node_modules
 
-Tags                : '/tags/'
-tag_page            : '/tags/'
-Categories          : '/category/'
-category_page       : '/category/'
-
-compress_html:
-  clippings         : all
-  startings         : [html, head, body]
-  endings           : all
-
-# tipue search js
-tipue_search:
-  include:
-    pages          : false
-  exclude:
-    files          : [index.html, search.html, sitemap.xml, feed.xml, docs, BingSiteAuth.xml, Gemfile.lock, Gemfile, manifest.yml]
-
-#Manifest
-manifest_name                : Manhaj Al-Salaf
-manifest_description         : 
-manifest_lang                : en_EN
-manifest_background_color    : "#fff"
-manifest_short_name          :
-manifest_display             : standalone
-
-      
 defaults:
   # _posts
   - scope:
@@ -170,14 +167,12 @@ collections:
     locale          : ar
     permalink       : /:collection/:slug
   en: 
-    output          : true        
+    output          : true      
     locale          : en
     permalink       : /:collection/:slug
 
 
 # Alifta Scholars
-##
-###
 group1:
   chairman: 
     - name: Shaykh Ibn Baz
