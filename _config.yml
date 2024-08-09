@@ -81,6 +81,7 @@ plugins:
   - categories
   - utc_filter
   - jekyll-include-cache
+  - jekyll-github-metadata
 
 exclude:
   - docs/
