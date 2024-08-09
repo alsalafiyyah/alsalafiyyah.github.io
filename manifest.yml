@@ -4,21 +4,21 @@ permalink: manifest.json
 
 {
   "lang": "{{ site.manifest_lang }}",
-  "background_color": "{{ site.manifest_background_color }}",
-  "theme_color": "{{ site.manifest_background_color }}",
+  "background_color": "{{ site.manifest_bg_color }}",
+  "theme_color": "{{ site.manifest_bg_color }}",
   "name": "{{ site.manifest_name }}",
   "short_name": "{{ site.manifest_name }}",
   "start_url": ".",
-  "display": "{{ site.manifest_display}}",
-  "description": "{{ site.manifest_description}}",
+  "display": "{{ site.manifest_display }}",
+  "description": "{{ site.manifest_desc }}",
   "icons": [
     {
-      "src": "assets/images/manifest/144X144-icon.png",
+      "src": "{{ '/assets/images/manifest/144X144-icon.png' | absolute_url }}",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "assets/images/manifest/512X512-icon.png",
+      "src": "{{ '/assets/images/manifest/512X512-icon.png' | absolute_url }}",
       "sizes": "512x512",
       "type": "image/png"
     }
