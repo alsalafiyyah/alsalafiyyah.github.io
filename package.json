@@ -16,10 +16,15 @@
   },
   "homepage": "https://alsalafiyyah.github.io",
   "dependencies": {
+    "jekyll": "*",
     "jekyll-paginate": "*",
     "github-pages": "*",
     "jekyll-sitemap": "*",
     "jekyll-seo-tag": "*",
-    "jekyll-feed": "*"
+    "jekyll-feed": "*",
+    "jekyll-remote-theme": "*",
+    "kramdown": "*",
+    "liquid": "*",
+    "faraday-retry": "*"
   }
 }
