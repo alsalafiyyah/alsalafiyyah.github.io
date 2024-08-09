@@ -38,7 +38,8 @@ webmaster_verifications:
   google-ads        : "ca-pub-1975848559090325" # google-adsense-account
   norton-safeweb    : "LF7-5GIX8Y15K643FQAJRI-LV7F6YJ7L9QI00DEMVVHBY5CDFA2JKY-9DOUSGPUE2JJ9IUHL4LEG4EKRWB1X0O59N8-NK-V2ONW1I3JBMT--97TCYTW4QA3U3--ZUFNG" # norton-safeweb-site-verification
   email_webmaster   : "arubalessandra@gmail.com" 
-  g_search_id       : "86abb96a2158b40ed" # google search engine ID
+  gsearch_id        : "86abb96a2158b40ed" # google search engine ID
+  gtag_manager      : "G-QC20WKL1N2"
 
 Tags                : '/tags/'
 tag_page            : '/tags/'
