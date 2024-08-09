@@ -11,15 +11,9 @@
 			]
 		}
 	}
-    "features": {
-			      "ghcr.io/devcontainers/features/terraform:1": {
-				           "version": "1.1",
-						            "tflint": "latest"
-									     },
-											   }
-	}
+							   
 	// Features to add to the dev container. More info: https://containers.dev/features.
-	// "features": {},
+	// "features": {"ghcr.io/devcontainers/features/terraform:1": {"version": "1.1","tflint": "latest"},}
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
