@@ -32,8 +32,7 @@
 <meta name="keywords" content="{{ site.keywords }}"/>
 <meta name="author" content="{{ site.author }}">
 <meta name="theme-color" content="Canvas">
-<link rel="alternate" hreflang="en" href="https://alsalafiyyah.github.io/en/" />
-<link rel="alternate" hreflang="ar" href="https://alsalafiyyah.github.io/ar/" />
+{% include alternate.html %}
 {% if page.url =='/' %}
 <link rel="canonical" href="{{ site.url }}" />
 <meta property="og:url" content="{{ site.url }}" />
