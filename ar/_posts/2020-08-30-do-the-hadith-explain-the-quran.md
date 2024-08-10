@@ -3,10 +3,11 @@ layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
 title: العمل بالسنة وحكم الإعراض عنها
-date: 2024-07-12
-hijri: محرم 06, 1446
+date: 2020-08-30
+hijri: محرم 11, 1442
 source: اللجنة الدائمة السؤال الثاني من الفتوى رقم 18444
 locale: ar
+lang: ar
 excerpt: السنة المطهرة هي الأصل الثاني من أصول الأدلة في الإسلام بإجماع العلماء، وهي مفسرة للقرآن، ومن أنكر حجية السنة فهو كافر
 article_taken_from: 
   taken_from:
