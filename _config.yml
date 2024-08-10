@@ -162,7 +162,18 @@ defaults:
       type: "pages"
     values:
       layout: "Page"
-
+  #languages
+  -
+    scope:
+      path: "en"
+    values:
+      lang: "en"
+  -
+    scope:
+      path: "ar"
+    values:
+      lang: "ar"
+  
 # Collections
 collections:
   ar:
