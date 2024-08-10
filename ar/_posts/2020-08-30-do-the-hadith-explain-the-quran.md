@@ -2,17 +2,32 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: العمل بالسنة وحكم الإعراض عنها
+title: "هل كتب الحديث تكمل القرآن الكريم"
 date: 2020-08-30
 hijri: محرم 11, 1442
 source: اللجنة الدائمة السؤال الثاني من الفتوى رقم 18444
 locale: ar
 lang: ar
-excerpt: السنة المطهرة هي الأصل الثاني من أصول الأدلة في الإسلام بإجماع العلماء، وهي مفسرة للقرآن، ومن أنكر حجية السنة فهو كافر
+uid: do-the-hadith-explain-the-quran
+excerpt: "السنة المطهرة هي الأصل الثاني من أصول الأدلة في الإسلام بإجماع العلماء، وهي مفسرة للقرآن، ومن أنكر حجية السنة فهو كافر"
 article_taken_from: 
   taken_from:
     - web_title:  العمل بالسنة وحكم الإعراض عنها
       web_url: https://al-fatawa.com/fatwa/103731
+muftis:
+  chairman: 
+    - name: Shaykh Ibn Baz
+      url: /biography/binbaz
+  deputy_chairman:
+    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+      url: /biography/abdulaziz
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan
+    - name: Shaykh Salih Al-Fawzan
+      url: /biography/fawzan
+    - name: Shaykh Bakr Abu Zayd
+      url: /biography/bakr      
 ---
 ### السؤال:
 هل كتب الحديث تكمل القرآن الكريم ، وهل صحيح أنه لا وجود للسنة في الإسلام وأنه ليس هناك إلا الفريضة، وأنه إذا أردنا النجاة في الآخرة فعلينا أن نترك السنة جانبًا و لا نعتمد إلا القرآن الكريم؟
