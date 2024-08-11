@@ -26,6 +26,9 @@ defaultLang         : en
 timezone            : Asia/Riyadh
 github_username     : alsalafiyyah
 git_repo            : alsalafiyyah.github.io
+kramdown:
+  syntax_highlighter_opts:
+      disable : true
 
 note:
     text            : "May Allah grant us success. May peace and blessings be upon our Prophet, his family and Companions"
