@@ -1,7 +1,7 @@
 <section class="mt-5">
 
 <!-- Muftis -->    
-{% include Muftis.html %}
+{% include_cached Muftis.html %}
 
 <!-- begin footer content info --> 
 <div class="card card-body bg-transparent border-danger">
@@ -9,7 +9,7 @@
 
 <!-- Date -->  
 <li class="list-group-item">     
-  {% include Date.html %}
+  {% include_cached Date.html %}
 </li>
 
 <!-- source -->  
@@ -66,7 +66,7 @@
 <!-- last modified -->  
 <li class="list-group-item">
   <div class="ms-2 me-auto">
-    {% include LastModified.html %}
+    {% include_cached LastModified.html %}
   </div>
 </li>
 
@@ -75,6 +75,6 @@
 <!-- / end footer content info --> 
   
 <!-- social share -->
-{% include Socials_Share.html %}
+{% include_cached Socials_Share.html %}
 
 </section>
