@@ -31,7 +31,7 @@
           {% else %}
            /en/fatwas
           {% endif %}">
-          {% elsif  page.locale == 'ar' %}
+          {% elsif page.locale == 'ar' %}
            <a class="link-opacity-50-hover" itemprop="item" 
           href="
           {% if page.active == "audios" %}
@@ -68,23 +68,44 @@
            /fatwas
           {% endif %}">  
           {% endif %}
+
+          {% if page.locale == 'ar' %} 
             <span itemprop="name">
               {% if page.active == "audios" %}
-               Audios
+               {{ site.data.locales[page.locale].page.audios }}
               {% elsif page.active == "biography" %}
-               Scholars Biographies
+               {{ site.data.locales[page.locale].page.biographies }}
               {% elsif page.active == "category" %}
-               Categories
+               {{ site.data.locales[page.locale].page.categories }}
               {% elsif page.active == "muqolat" %}
-               Muqolat
+               {{ site.data.locales[page.locale].page.muqolat }}
               {% elsif page.active == "wahhabi" %}
-               Wahhabism
+               {{ site.data.locales[page.locale].page.wahhabism }}
               {% elsif page.active == "radd" %}
-               Ar-Radd
+               {{ site.data.locales[page.locale].page.radd }}
               {% else %}
-               Fatwas
+               {{ site.data.locales[page.locale].page.fatwas }}
               {% endif %}
             </span>
+           {% else %}
+              <span itemprop="name">
+              {% if page.active == "audios" %}
+               {{ site.data.locales[page.locale].page.audios }}
+              {% elsif page.active == "biography" %}
+               {{ site.data.locales[page.locale].page.biographies }}
+              {% elsif page.active == "category" %}
+               {{ site.data.locales[page.locale].page.categories }}
+              {% elsif page.active == "muqolat" %}
+               {{ site.data.locales[page.locale].page.muqolat }}
+              {% elsif page.active == "wahhabi" %}
+               {{ site.data.locales[page.locale].page.wahhabism }}
+              {% elsif page.active == "radd" %}
+               {{ site.data.locales[page.locale].page.radd }}
+              {% else %}
+               {{ site.data.locales[page.locale].page.fatwas }}
+              {% endif %}
+              </span>      
+          {% endif %}
         </a>
         <meta itemprop="position" content="2" />
       </li>
