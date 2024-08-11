@@ -167,13 +167,16 @@ defaults:
     scope:
       path: "en"
     values:
-      lang: "en"
+      locale: "en"
+      permalink: /en/:title
   -
     scope:
       path: "ar"
     values:
-      lang: "ar"
-  
+      locale: "ar"
+      permalink: /ar/:title
+
+
 # Collections
 collections:
   ar:
