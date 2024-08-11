@@ -7,10 +7,15 @@ permalink: /en/fatwas/
 excerpt: Compilation of fatwas (legal opinions) issued by the scholars of ahlus-sunnah.
 ---
 
+{% assign posts = site.posts | where:"locale", "en" %}
+{% for post in posts %}
+  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+  <p>{{ post.excerpt }}</p>
+  <date>{{ post.hijri }}</date>
+{% endfor %}
 <ul 
  class="no-bullets"
  typeof="ItemList" vocab="https://schema.org/ItemList">
- {% assign posts = paginator.posts | where:"locale", "en" %}
  {% for post in paginator.posts %}
    <li itemprop="itemListElement" typeof="ListItem">
     <a 
