@@ -71,8 +71,7 @@ page:
   languages: Languages
   mufti: Mufti
   muftis: Muftis
-  date: Created at
-  last_updated: Last updated
+  date: Date
   fatwa_num: Fatwa No.
   source: Source
   website_is_under_maintenance: Website is under maintenance
@@ -105,7 +104,6 @@ page:
   member: Member
   members: Members
   alifta_scholars: Permanent Committee
-  created_at: Created at
   hashtags: Hashtag 
   back_to_top: Back to tp
   all_rights_reserved: All rights reserved
@@ -121,6 +119,9 @@ page:
   issued_by: Issued by
   posted_by: Posted by
   last_updated: Last updated
+  last_modified: Last modified
+  published: Published
+  created_at: Created at
   recent_fatwas: Recent Fatwas
   recent_audios: Recent Audios
   biographies: Scholars Biographies
