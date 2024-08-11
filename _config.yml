@@ -99,6 +99,48 @@ exclude:
   - Gemfile.lock
   - node_modules
 
+# nav menu
+t:
+  en:
+    fatwas:
+      name: "Fatwas"
+      url: "/fatwas/"
+    audios:
+      name: "Audios"
+      url: "/audios/"  
+    muqolat:
+      name: "Muqolat"
+      url: "/muqolat/"
+    biography:
+      name: "Biographies"
+      url: "/biography/"
+    categories:
+      name: "Categories"
+      url: "/category/"
+    radd:
+      name: "Radd"
+      url: "/radd/"
+  ar:
+    fatwas:
+      name: "الفتاوى"
+      url: "/ar/fatwas/"
+    audios:
+      name: "صوتيات"
+      url: "/ar/audios/" 
+    muqolat:
+      name: "مقالات"
+      url: "/ar/muqolat/"  
+    biography:
+      name: "سيرة"
+      url: "/ar/biography/"
+    categories:
+      name: "التصنيفات"
+      url: "/ar/category/"
+    radd:
+      name: "الرد"
+      url: "/radd/"
+
+
 defaults:
   # _posts
   - scope:
