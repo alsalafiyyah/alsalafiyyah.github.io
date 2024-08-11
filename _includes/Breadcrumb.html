@@ -13,8 +13,46 @@
       {% if page.layout == 'post' %}  
       <li class="breadcrumb-item" itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
-        <a class="link-opacity-50-hover" itemprop="item" 
-          href="{% if page.active == "audios" %}
+        {% if page.locale == 'en' %}
+         <a class="link-opacity-50-hover" itemprop="item" 
+          href="
+          {% if page.active == "audios" %}
+           /en/audios
+          {% elsif page.active == "biography" %}
+           /en/biography
+          {% elsif page.active == "category" %}
+           /category
+          {% elsif page.active == "muqolat" %}
+           /en/muqolat
+          {% elsif page.active == "wahhabi" %}
+           /en/wahhabism
+          {% elsif page.active == "radd" %}
+           /radd
+          {% else %}
+           /en/fatwas
+          {% endif %}">
+          {% elsif  page.locale == 'ar' %}
+           <a class="link-opacity-50-hover" itemprop="item" 
+          href="
+          {% if page.active == "audios" %}
+           /ar/audios
+          {% elsif page.active == "biography" %}
+           /biography
+          {% elsif page.active == "category" %}
+           /category
+          {% elsif page.active == "muqolat" %}
+           /ar/muqolat
+          {% elsif page.active == "wahhabi" %}
+           /wahhabism
+          {% elsif page.active == "radd" %}
+           /ar/radd
+          {% else %}
+           /ar/fatwas
+          {% endif %}">
+           {% else %}  
+           <a class="link-opacity-50-hover" itemprop="item" 
+          href="
+          {% if page.active == "audios" %}
            /audios
           {% elsif page.active == "biography" %}
            /biography
@@ -28,7 +66,8 @@
            /radd
           {% else %}
            /fatwas
-          {% endif %}">
+          {% endif %}">  
+          {% endif %}
             <span itemprop="name">
               {% if page.active == "audios" %}
                Audios
