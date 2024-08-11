@@ -1,7 +1,20 @@
-<div class="last-modified">
- <p property="dateModified">
-  <small>
-   <span id='last-modified'></span>
-  </small>
- </p>
-</div>
+ <li class="list-group-item">
+   <div class="ms-2 me-auto">
+     <div property="dateModified" class="fw-normal">
+      {% if page.locale == 'en' %}
+       {{ site.data.locales[page.locale].page.last_modified | append: " : " }}
+      {% elsif page.locale == 'ar' %}
+       {{ site.data.locales[page.locale].page.last_modified | append: " : " }}
+      {% else %}
+       Last modified:
+      {% endif %}
+     </div>
+     <span class="fw-semibold">
+      {% if page %}
+       <b><span id='last-modified'></span></b>
+      {% else %}
+       <b><span>-</span></b>
+      {% endif %}
+     </span> 
+   </div>
+ </li>
