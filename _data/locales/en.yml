@@ -58,7 +58,6 @@ page:
   prevPost: Prev post
   more: More
   read_more: Read more
-  categories: Categories
   category: Category
   tag: Tag
   tags: Tags
@@ -68,7 +67,6 @@ page:
   audios: Audios
   fatwas: Fatwas
   books: Books
-  articles: Muqolat
   language: Language
   languages: Languages
   mufti: Mufti
@@ -125,4 +123,9 @@ page:
   last_updated: Last updated
   recent_fatwas: Recent Fatwas
   recent_audios: Recent Audios
-
+  biographies: Scholars Biographies
+  categories: Categories
+  muqolat: Muqolat
+  articles: Muqolat
+  wahhabism: Wahhabism
+  radd: Refutals
