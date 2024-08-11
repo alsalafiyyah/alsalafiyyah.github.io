@@ -6,10 +6,16 @@ source: "Fatawa Al-Lajnah Ad-Da'imah no. 18444, Question 2"
 hijri: Muharram 11, 1442
 date: 2020-08-30
 note: true
+locale: en
+lang: en
 uid: do-the-hadith-explain-the-quran
 group2: true
 category: [fatwas,hadiths]
 excerpt: "The Sunnah explains the Qur'an. Anyone who denies the authority of the Sunnah is a kafir because they deny one of the agreed upon principles of Islam."
+article_taken_from: 
+  taken_from:
+    - web_title: العمل بالسنة وحكم الإعراض عنها
+      web_url: https://al-fatawa.com/fatwa/103731
 ---
 
 ### Question: 
