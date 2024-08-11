@@ -1,17 +1,16 @@
 ---
 layout: post
-title: "Do the books of Hadith explain the Qur'an?"
 publisher: "alsalafiyyah@icloud.com"
+title: "Do the books of Hadith explain the Qur'an?"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 18444, Question 2"
-hijri: Muharram 11, 1442
+hijri: "Muharram 11, 1442"
 date: 2020-08-30
 note: true
 locale: en
-lang: en
 uid: do-the-hadith-explain-the-quran
-group2: true
 category: [fatwas,hadiths]
 excerpt: "The Sunnah explains the Qur'an. Anyone who denies the authority of the Sunnah is a kafir because they deny one of the agreed upon principles of Islam."
+group2: true
 article_taken_from: 
   taken_from:
     - web_title: العمل بالسنة وحكم الإعراض عنها
