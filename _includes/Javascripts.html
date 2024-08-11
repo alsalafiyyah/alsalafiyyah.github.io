@@ -29,7 +29,7 @@ var table = new DataTable("table", {
           .then((commits) => {
             var modified = commits[0]['commit']['committer']['date'].slice(0,10);
             if(modified != "{{ page.date | date: "%d %b, %Y" }}") {
-              document.getElementById('last-modified').textContent = "Updated: " + modified + " ";
+              document.getElementById('last-modified').textContent = " " + modified + " ";
             }
           });
       }
