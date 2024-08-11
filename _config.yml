@@ -165,16 +165,16 @@ defaults:
   #languages
   -
     scope:
-      path: "en"
+      path: "en/_posts/**"
     values:
       locale: "en"
-      permalink: /en/:title
+      permalink: /en/:title/
   -
     scope:
-      path: "ar"
+      path: "ar/_posts/**"
     values:
       locale: "ar"
-      permalink: /ar/:title
+      permalink: /ar/:title/
 
 
 # Collections
