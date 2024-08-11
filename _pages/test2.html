@@ -3,8 +3,8 @@ layout: Page
 robots: noindex
 permalink: /test1/
 ---
-{{ site.posts | size | where:"locale", "en" }}<br/>
-{{ site.posts | size | where:"locale", "ar" }}
+{{ site.posts | size | where:"locale", page.locale }}<br/>
+{{ site.posts | size | where:"locale", page.locale }}
 {% assign posts=site.posts | where:"locale", page.locale %}
 <ul>
 {% for post in posts %}
