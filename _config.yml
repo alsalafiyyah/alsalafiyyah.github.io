@@ -21,7 +21,7 @@ paginate            : 20
 paginate_path       : "/fatwas/:num/"
 markdown            : kramdown
 highlighter         : rouge
-locales             : ["en", "ar"]
+locale              : ["en", "ar"]
 defaultLang         : en
 timezone            : Asia/Riyadh
 github_username     : alsalafiyyah
