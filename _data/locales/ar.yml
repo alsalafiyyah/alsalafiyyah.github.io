@@ -54,7 +54,6 @@ page:
   prev: السابق
   more: المزيد
   read_more: Read more
-  categories: التصنيفات
   basmalah: بسم الله الرحمن الرحيم
   search: بحث
   home: الرئيسية
@@ -114,6 +113,8 @@ page:
   issued_by: الصادر عـن
   posted_by: تم النشــر بواسطة
   last_updated: تم تحديث
+  last_modified:  تم تحديث
+  published: تاريخ النشر
   recent_fatwas: جديد الفتاوى
   recent_audios: جديد الصوتيات
   biographies: سيرة عالم من العلماء
