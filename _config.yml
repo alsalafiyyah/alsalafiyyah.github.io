@@ -98,6 +98,7 @@ exclude:
   - gemfile
   - Gemfile.lock
   - node_modules
+  - jekyll-cache
 
 # nav menu
 t:
