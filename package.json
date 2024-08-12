@@ -29,7 +29,6 @@
     "ruby": "*",
     "jekyll-github-metadata": "*",
     "jekyll-include-cache": "*",
-    "jekyll-redirect-from": "*",
-    "jekyll-livereload": "*"
+    "jekyll-redirect-from": "*"
   }
 }
