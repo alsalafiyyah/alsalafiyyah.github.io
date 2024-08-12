@@ -19,7 +19,7 @@
  </time>
  <br/>
 {% if page.locale == 'ar' %}
- {{ page.date | localize: "%d.%m.%Y" }}
+ {{ page.date | localize: "%d.%M.%Y" }}
  <time datetime="{{ page.date | html5date }}">{{ page.date | arabicDate }}</time>
 {% endif %}
 
