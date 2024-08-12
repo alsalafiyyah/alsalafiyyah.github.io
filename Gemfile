@@ -18,4 +18,5 @@ group :jekyll_plugins do
   gem 'jekyll-include-cache', '~> 0.2.1'
   gem 'jekyll-redirect-from'
   gem 'jekyll-livereload'
+  gem "jekyll-minifier"
 end

@@ -30,6 +30,7 @@
     "jekyll-github-metadata": "*",
     "jekyll-include-cache": "*",
     "jekyll-redirect-from": "*",
-    "jekyll-livereload": "*"
+    "jekyll-livereload": "*",
+    "jekyll-minifier": "*"
   }
 }
