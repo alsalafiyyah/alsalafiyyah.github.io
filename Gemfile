@@ -17,4 +17,5 @@ group :jekyll_plugins do
   gem 'jekyll-github-metadata', '~> 2.16', '>= 2.16.1'
   gem 'jekyll-include-cache', '~> 0.2.1'
   gem 'jekyll-redirect-from'
+  gem 'jekyll-livereload'
 end
