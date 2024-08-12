@@ -88,7 +88,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-github-metadata
   - jekyll-livereload
-  - jekyll-minifier
+
 
 exclude:
   - docs/
