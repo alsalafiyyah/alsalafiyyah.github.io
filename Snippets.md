@@ -143,6 +143,16 @@ group4:
     - name: Shaykh Abdullah ibn Mani'
       url: /biography/mani
 ~~~
+
+~~~yaml
+defaults:
+  - scope:
+      path: ""
+      type: drafts
+    values:
+      sitemap: false  #To hide from sitemap.xml
+      noindex: true   #To hide from robots and crawlers
+~~~
       
 ___
 
