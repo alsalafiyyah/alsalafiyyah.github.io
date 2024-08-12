@@ -85,6 +85,7 @@ plugins:
   - utc_filter
   - jekyll-include-cache
   - jekyll-github-metadata
+  - jekyll-livereload
 
 exclude:
   - docs/
