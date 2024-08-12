@@ -9,7 +9,7 @@ module ArabicDates
     # http://man7.org/linux/man-pages/man3/strftime.3.html
     def arabicDate(date)
         day = time(date).strftime("%e") 
-        month = time(date).strftime("%m")
+        month = time(date).strftime("%B")
         year = time(date).strftime("%Y")
         day+' '+MONTHS[month]+' '+year
     end
