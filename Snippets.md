@@ -144,6 +144,7 @@ group4:
       url: /biography/mani
 ~~~
 
+### _drafts
 ~~~yaml
 defaults:
   - scope:
@@ -152,6 +153,13 @@ defaults:
     values:
       sitemap: false  #To hide from sitemap.xml
       noindex: true   #To hide from robots and crawlers
+
+{% if page.noindex == true %}
+<meta name="robots"
+      content="noindex">
+{% endif %}
+
+drafts: true # YAML front matter
 ~~~
       
 ___
