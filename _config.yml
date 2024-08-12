@@ -5,17 +5,16 @@ baseurl             : "/"
 keywords            : "salafi, salaf, manhaj, islam, knowledge, shariah, muslim, islamic, fatwas, bidah, sunnah, muslimah, bid'ah, dawah, da'wah, lectures, arabic, sermon, musliman, community, ahlus sunnah wal jamaah, ahlus sunnah, sunnis, sunni, tawhid, tauhid, allah, prophets, prophet muhammad, rasul, rasulullah, muhammad, sahabah"
 url                 : "https://alsalafiyyah.github.io"
 author              : "Instagram@Alsalafiyyah"
-
 contact:
   name              : "Instagram@Alsalafiyyah"
   email             : "alsalafiyyah@icloud.com"
 
 incremental         : true
+safe                : true
+future              : true
 g_search_value      : "alsalafiyyah.github.io" # google search value
 encoding            : "utf-8"
 markdown_ext        : "markdown,mkdown,mkdn,mkd,md"
-safe                : true
-future              : true
 permalink           : pretty
 paginate            : 20
 paginate_path       : "/fatwas/:num/"
@@ -82,12 +81,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-redirect-from
-  - liquid
   - categories
   - utc_filter
   - jekyll-include-cache
   - jekyll-github-metadata
-  - jekyll-livereload
 
 
 exclude:
@@ -106,6 +103,8 @@ exclude:
   - Gemfile.lock
   - node_modules
   - jekyll-cache
+  - LICENSE
+  - CODE_OF-CONDUCT
 
 # nav menu
 t:
@@ -156,7 +155,7 @@ defaults:
       type: posts
     values:
       layout: post
-      permalink: /:title
+      permalink: /:title/
   # _posts/en/
   - scope:
       path: "_posts/en/**"
@@ -164,7 +163,7 @@ defaults:
     values:
       layout: post
       locale: en
-      permalink: /en/:title
+      permalink: /en/:title/
   # _posts/ar/
   - scope:
       path: "_posts/ar/**"
@@ -172,7 +171,7 @@ defaults:
     values:
       layout: post
       locale: ar
-      permalink: /ar/:title    
+      permalink: /ar/:title/    
   # _posts/audios/
   - scope:
       path: "_posts/audios/**"
