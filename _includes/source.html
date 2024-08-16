@@ -3,6 +3,41 @@
 <!-- Muftis -->    
 {% include Muftis.html %}
 
+{% if page.active == 'biography' %}
+<div class="card card-body bg-transparent border-danger">
+<ul class="list-group list-group-flush">
+<!-- country -->  
+{% if page.country %}
+ <li class="list-group-item">
+   <div class="ms-2 me-auto">
+     <div class="fw-normal">
+       Country
+     </div>
+     <span class="fw-semibold">{{ page.country }}</span> 
+   </div>
+ </li>
+{% endif %}
+<!-- official web -->  
+{% if page.official_web %}
+ {% if page.official_web.web %}
+  {% for item in page.official_web.web %}
+   <li class="list-group-item">
+   <div class="ms-2 me-auto">
+    <div class="fw-normal">
+      Official web :
+    </div>
+     <span class="fw-semibold">
+       <a class="icon-link" href="{{ item.url }}" target="_blank" rel="nofollow">{{ item.title }} <i class="bi bi-box-arrow-up-right"></i></a>
+     </span>
+   </div>
+   </li>
+  {% endfor %}
+ {% endif %}
+{% endif %}
+</ul>
+</div>
+{% endif %}
+
 <!-- begin footer content info --> 
 <div class="card card-body bg-transparent border-danger">
 <ul class="list-group list-group-flush">
@@ -36,36 +71,6 @@
    </li>
   {% endfor %}
  {% endif %}
-{% endif %}
-
-<!-- reference -->  
-{% if page.official_web %}
- {% if page.official_web.web %}
-  {% for item in page.official_web.web %}
-   <li class="list-group-item">
-   <div class="ms-2 me-auto">
-    <div class="fw-normal">
-      Official web :
-    </div>
-     <span class="fw-semibold">
-       <a class="icon-link" href="{{ item.url }}" target="_blank" rel="nofollow">{{ item.title }} <i class="bi bi-box-arrow-up-right"></i></a>
-     </span>
-   </div>
-   </li>
-  {% endfor %}
- {% endif %}
-{% endif %}
-
-<!-- if translated by on -->  
-{% if page.country %}
- <li class="list-group-item">
-   <div class="ms-2 me-auto">
-     <div class="fw-normal">
-       Country
-     </div>
-     <span class="fw-semibold">{{ page.country }}</span> 
-   </div>
- </li>
 {% endif %}
 
 <!-- if translated by on -->  
