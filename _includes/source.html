@@ -4,7 +4,10 @@
 {% include Muftis.html %}
 
 {% if page.active == 'biography' %}
-<div class="card card-body bg-transparent border-danger">
+<div class="card card-body bg-transparent border-danger mb-3">
+ <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
+  Personal Info
+ </div>
 <ul class="list-group list-group-flush">
 <!-- country -->  
 {% if page.country %}
