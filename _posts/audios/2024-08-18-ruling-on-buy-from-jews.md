@@ -12,7 +12,7 @@ category: [fatwas,audios,non-muslim]
 note: false
 source: "Silsilat Al-Huda wa an-Noor 623"
 excerpt: "If they are at war, then it is not permissible to have dealings with them, whether that is in the country they have invaded or occupied, such as the Jews in Palestine, or in their own state."
-mp3: "https://alathar.net/home/esound/index.php?op=pdit&cntid=5496"
+mp3: "https://alathar.net//home/esound/index.php?op=stream&co=486&cntid=5496&ftype=1"
 translated_by: Dr. Muhammad Aqib Hussain
 muftis:
   shaykh: 
@@ -28,7 +28,7 @@ article_taken_from:
 Since there is war between us and the Jews is it permissible to buy from the Jews and to have economic dealings with them in the European countries?
 
 ### The shaykh: 
-Buying from Jews?
+Buying from the Jews?
 
 ### Questioner: 
 Yes, and dealing with them in the lands of Europe?
