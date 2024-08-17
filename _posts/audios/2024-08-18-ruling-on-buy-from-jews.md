@@ -2,17 +2,17 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on buy from Jews who are in a state of war against the Muslims"
+title: "Ruling on buying from the Jews who are in a state of war against the Muslims"
 hijri: Muharram 27, 1446 AH
 date: 2024-08-18
 lang: en
 locale: en
 active: audios
-category: [fatwas,audios]
+category: [fatwas,audios,non-muslim]
 note: false
 source: "Silsilat Al-Huda wa an-Noor 623"
 excerpt: "If they are at war, then it is not permissible to have dealings with them, whether that is in the country they have invaded or occupied, such as the Jews in Palestine, or in their own state."
-mp3: https://alathar.net/home/esound/index.php?op=pdit&cntid=5496
+mp3: "https://alathar.net/home/esound/index.php?op=pdit&cntid=5496"
 translated_by: Dr. Muhammad Aqib Hussain
 muftis:
   shaykh: 
