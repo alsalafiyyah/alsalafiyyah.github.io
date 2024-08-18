@@ -3,6 +3,12 @@ layout: Page
 robots: noindex
 permalink: /test/
 ---
+{%- assign posts = site.posts | where_exp: 'post', 'post.lang' -%}
+{%- for post in posts -%}
+    Title: <a href="{{post.url |relative_url}}">{{post.title}} / {{post.film}}</a><br>
+{%- endfor -%}
+
+
 {% for category in site.categories %}
 {% assign cat = category[0] %}
 <div class="card bg-transparent border-danger">
