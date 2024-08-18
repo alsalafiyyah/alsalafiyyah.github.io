@@ -6,7 +6,7 @@ permalink: /test/
 
 <ol class="list-group list-group-numbered">
 {%- assign posts = site.posts | where_exp: 'post', 'post.locale' -%}
-{{ post.locale | size }} 
+{{ site.post.locale | size }} 
 {%- for post in posts -%}
  <li class="list-group-item">
   <a href="{{post.url |relative_url}}">
@@ -18,7 +18,7 @@ permalink: /test/
 
 <ol class="list-group list-group-numbered">
 {%- assign posts = site.posts | where_exp: 'post', 'post.lang' -%}
-{{ post.lang | size }}
+{{ site.post.lang | size }}
 {%- for post in posts -%}
  <li class="list-group-item">
   <a href="{{post.url |relative_url}}">
