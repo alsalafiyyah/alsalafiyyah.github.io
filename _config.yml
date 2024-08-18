@@ -16,7 +16,7 @@ g_search_value      : "alsalafiyyah.github.io" # google search value
 encoding            : "utf-8"
 markdown_ext        : "markdown,mkdown,mkdn,mkd,md"
 permalink           : pretty
-paginate            : 20
+paginate            : 10
 paginate_path       : "/fatwas/:num/"
 markdown            : kramdown
 highlighter         : rouge
@@ -28,6 +28,14 @@ git_repo            : alsalafiyyah.github.io
 kramdown:
   syntax_highlighter_opts:
       disable : true
+
+pagination: 
+    - paginate:
+        path:       /fatwas/:num/
+        per_page:   10
+    - paginate:
+        path:       /ar/fatwas/page:num/
+        per_page:   2
 
 note:
     text            : "May Allah grant us success. May peace and blessings be upon our Prophet, his family and Companions"
@@ -78,6 +86,7 @@ livereload: true
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-paginator
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-redirect-from
