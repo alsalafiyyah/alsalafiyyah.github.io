@@ -3,10 +3,12 @@ layout: Page
 robots: noindex
 permalink: /test/
 ---
+<ol class="list-group list-group-numbered">
 {%- assign posts = site.posts | where_exp: 'post', 'post.lang' -%}
 {%- for post in posts -%}
-    Title: <a href="{{post.url |relative_url}}">{{post.title}} / {{post.film}}</a><br>
+ <li class="list-group-item">Title: <a href="{{post.url |relative_url}}">{{post.title}} / {{post.lang}}</a><br></li>
 {%- endfor -%}
+</ol>
 
 
 {% for category in site.categories %}
