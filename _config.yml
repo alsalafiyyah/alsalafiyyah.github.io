@@ -34,8 +34,11 @@ pagination:
         path:       /fatwas/:num/
         per_page:   10
     - paginate:
-        path:       /ar/fatwas/page:num/
+        path:       /ar/fatwas/:num/
         per_page:   2
+    - paginate:
+        path:       /en/fatwas/:num/
+        per_page:   6
 
 note:
     text            : "May Allah grant us success. May peace and blessings be upon our Prophet, his family and Companions"
