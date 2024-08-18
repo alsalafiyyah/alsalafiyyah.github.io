@@ -1,4 +1,4 @@
-title               : "Manhaj Al-Salaf"
+title               : "Al-Salafiyyah"
 description         : "This site is dedicated to presenting the pure teachings of Islam and Sunnah, refuting bidahs, the lies and distortions."
 slogan              : "Revive the Sunnah. Leave the Bid'ah"
 baseurl             : "/"
@@ -85,7 +85,6 @@ plugins:
   - utc_filter
   - jekyll-include-cache
   - jekyll-github-metadata
-
 
 exclude:
   - docs/
