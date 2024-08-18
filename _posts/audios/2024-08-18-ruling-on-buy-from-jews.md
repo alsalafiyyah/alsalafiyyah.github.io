@@ -34,7 +34,7 @@ Buying from the Jews?
 Yes, and dealing with them in the lands of Europe?
 
 ### The Shaykh: 
-We do not differentiate between the Jews and the Christians in terms of dealing with them in those countries. It is well known that dealing with the Polytheists and Non-Muslims is permissible if they are amongst Ahlul Dhimmah (non Muslims living in protection of a Muslim state), living in the countries or states of Islam. And like that if they are peaceful, not at war, the ruling is the same as that. 
+We do not differentiate between the Jews and the Christians in terms of dealing with them in those countries. It is well known that dealing with the Polytheists and Non-Muslims is permissible if they are amongst Ahlul Dhimmmah (non-Muslims living under Muslim rule and enjoying the protection of the Muslim state), living in the countries or states of Islam. And like that if they are peaceful, not at war, the ruling is the same as that. 
 
 However, if they are at war, then it is not permissible to have dealings with them, whether that is in the country they have invaded or occupied, such as the Jews in Palestine, or in their own country/state. As long as they remain at war it is not permissible to have dealings with them at all. 
 
