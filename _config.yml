@@ -225,13 +225,13 @@ defaults:
       path: "en/_posts/**"
     values:
       locale: "en"
-      permalink: /en/:title/
+      permalink: /en/fatwas/:title/
   -
     scope:
       path: "ar/_posts/**"
     values:
       locale: "ar"
-      permalink: /ar/:title/
+      permalink: /ar/fatwas/:title/
 
 
 # Collections
