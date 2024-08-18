@@ -112,7 +112,8 @@
      </div> 
      <div class="text-wrap" style="width: 9rem;">
       <span itemprop="datePublished" content="{{ post.date | to_utc | date: "%Y%m%dT%H:%M:%S%:z" }}">
-       {{ post.hijri }} - {{ post.date | date: "%b %d, %Y" }}
+       {{ post.hijri }}
+       <a tabindex="0" class="btn btn-link" role="button" data-bs-toggle="popover" data-bs-trigger="focus" data-bs-title="Published date" data-bs-content="{{ post.date | date: "%b %d, %Y" }}"><i class="bi bi-question-diamond"></i></a>
       </span>
      </div>
     </div>    
