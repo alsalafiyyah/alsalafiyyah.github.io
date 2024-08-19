@@ -217,20 +217,23 @@ defaults:
       type: "posts"
     values:
       locale: "en"
-      permalink: /en/fatwas/:title/
+      lang: "en"
+      permalink: /en/:title/
   -
     scope:
       path: "ar/_posts/**"
       type: "posts"
     values:
       locale: "ar"
-      permalink: /ar/fatwas/:title/
+      lang: "ar"
+      permalink: /ar/:title/
   -
     scope:
       path: "en/_pages/**"
       type: "pages"
     values:
       locale: "en"
+      lang: "en"
       permalink: /en/:title/
   -
     scope:
@@ -238,6 +241,7 @@ defaults:
       type: "pages"
     values:
       locale: "ar"
+      lang: "ar"
       permalink: /ar/:title/
 
 
