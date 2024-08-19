@@ -210,19 +210,35 @@ defaults:
       type: "pages"
     values:
       layout: "Page"
-  #languages
+  #multilingual
   -
     scope:
       path: "en/_posts/**"
+      type: "posts"
     values:
       locale: "en"
       permalink: /en/fatwas/:title/
   -
     scope:
       path: "ar/_posts/**"
+      type: "posts"
     values:
       locale: "ar"
       permalink: /ar/fatwas/:title/
+  -
+    scope:
+      path: "en/_pages/**"
+      type: "pages"
+    values:
+      locale: "en"
+      permalink: /en/:title/
+  -
+    scope:
+      path: "ar/_pages/**"
+      type: "pages"
+    values:
+      locale: "ar"
+      permalink: /ar/:title/
 
 
 # Collections
