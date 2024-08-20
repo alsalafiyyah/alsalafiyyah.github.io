@@ -3,8 +3,7 @@ layout: compress
 ---
 <!DOCTYPE html>
 <html 
- lang="{{ page.locale | default: site.locale | default: 'en-gb' }}" 
- {% if page.locale == 'ar' %}dir="rtl"{% endif %}>
+ lang="{{ page.locale | default: 'en-gb' }}">
 <head>
 {% include metadata.html %}
 </head>
