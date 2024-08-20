@@ -76,7 +76,6 @@ include:
 livereload: true
 
 plugins:
-  - jekyll/vite
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
