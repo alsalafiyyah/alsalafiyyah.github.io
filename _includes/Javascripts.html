@@ -118,7 +118,9 @@ clipboard.on('success', function (e) {
 });
 </script>
 <script type="text/javascript">
-const popover = new bootstrap.Popover('.popover-dismiss', {
-  trigger: 'focus'
-})  
+  if('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('/sw.js')
+    })
+  }
 </script>
