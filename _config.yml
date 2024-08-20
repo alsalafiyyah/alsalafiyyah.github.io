@@ -10,6 +10,7 @@ contact:
   email             : "alsalafiyyah@icloud.com"
 
 incremental         : true
+livereload: true
 safe                : true
 future              : true
 g_search_value      : "alsalafiyyah.github.io" # google search value
@@ -70,10 +71,22 @@ manifest_bg_color  : "#fff"
 manifest_short_name: "Salafiyyah"
 manifest_display   : "standalone"
 
+pwa:
+  enabled: true # Optional
+  sw_src_filepath: service-worker.js # Optional
+  sw_dest_filename: service-worker.js # Optional
+  dest_js_directory: assets/js # Required
+  precache_recent_posts_num: 5 # Optional
+  precache_glob_directory: / # Optional
+  precache_glob_patterns: # Optional
+    - "{js,css,fonts}/**/*.{js,css,eot,svg,ttf,woff}"
+    - index.html
+  precache_glob_ignores: # Optional
+    - sw-register.js
+    - "fonts/**/*"
+  
 include:
   - _pages
-
-livereload: true
 
 plugins:
   - jekyll-feed
@@ -110,21 +123,6 @@ exclude:
   - jekyll-cache
   - LICENSE
   - CODE_OF-CONDUCT
-
-pwa:
-  enabled: false # Optional
-    sw_src_filepath: service-worker.js # Optional
-      sw_dest_filename: service-worker.js # Optional
-        dest_js_directory: assets/js # Required
-          precache_recent_posts_num: 5 # Optional
-            precache_glob_directory: / # Optional
-              precache_glob_patterns: # Optional
-                  - "{js,css,fonts}/**/*.{js,css,eot,svg,ttf,woff}"
-                      - index.html
-                        precache_glob_ignores: # Optional
-                            - sw-register.js
-                                - "fonts/**/*"
-
                                 
 # nav menu
 t:
