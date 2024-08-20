@@ -3,12 +3,13 @@ permalink: manifest.json
 ---
 
 {
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
   "lang": "{{ site.manifest_lang }}",
   "background_color": "{{ site.manifest_bg_color }}",
   "theme_color": "{{ site.manifest_bg_color }}",
   "name": "{{ site.manifest_name }}",
   "short_name": "{{ site.manifest_name }}",
-  "start_url": ".",
+  "start_url": "/",
   "display": "{{ site.manifest_display }}",
   "description": "{{ site.manifest_desc }}",
   "icons": [
