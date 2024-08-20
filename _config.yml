@@ -76,6 +76,7 @@ include:
 livereload: true
 
 plugins:
+  - jekyll/vite
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
@@ -87,6 +88,11 @@ plugins:
   - jekyll-github-metadata
 
 exclude:
+  - bin
+  - config
+  - vite.config.ts
+  - tmp
+  - Procfile.dev
   - docs/
   - vendor/
   - vendor/bundle/
