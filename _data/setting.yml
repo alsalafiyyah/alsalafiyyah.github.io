@@ -50,6 +50,20 @@ footer:
   - name: RSS Feed
     url: /feed
 
+social_icons_footer:
+  - name: Instagram
+    icon: intagram
+    url: https://instagram.com/alsalafiyyah
+  - name: RSS Feed
+    icon: rss
+    url: /feed
+  - name: Sitemap
+    icon: diagram-2-fill
+    url: /sitemap
+  - name: Github
+    icon: github
+    url: https://github.com/alsalafiyyah
+
 page:
   next: Next
   prev: Prev
