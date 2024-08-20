@@ -72,7 +72,7 @@ manifest_short_name: "Salafiyyah"
 manifest_display   : "standalone"
 
 pwa:
-  enabled: true # Optional
+  enabled: false # Optional
   sw_src_filepath: service-worker.js # Optional
   sw_dest_filename: service-worker.js # Optional
   dest_js_directory: assets/js # Required
