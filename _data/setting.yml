@@ -61,6 +61,10 @@ social_icons_footer:
     username: Alsalafiyyah
     icon: threads
     url: https://www.threads.net/@alsalafiyyah
+  - name: YouTube
+    username: Alsalafiyyah
+    icon: youtube
+    url: https://youtube.com/@alsalafiyyah
   - name: Github
     username: Alsalafiyyah
     icon: github
