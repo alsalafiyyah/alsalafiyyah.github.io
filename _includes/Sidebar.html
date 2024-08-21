@@ -1,4 +1,5 @@
 <!-- Sidebar -->
+<hr/>
 <aside role="complementary"
   itemscope 
   itemtype="http://schema.org/WPSideBar"><!-- Aside -->
@@ -29,8 +30,8 @@
 
   <div class="accordion-item bg-transparent">
     <h2 class="accordion-header">
-      <button class="accordion-button collapsed bg-transparent shadow-none h4" type="button" data-bs-toggle="collapse" data-bs-target="#aside_external_links" aria-expanded="false" aria-controls="aside_external_links">
-        Others
+      <button class="accordion-button collapsed bg-transparent shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#aside_external_links" aria-expanded="false" aria-controls="aside_external_links">
+        Site
       </button>
     </h2>
     <div id="aside_external_links" class="accordion-collapse collapse" data-bs-parent="#accordionFooter">
@@ -64,7 +65,7 @@
     </div>
     
     <div class="col">
-     <h4>Others</h4>
+     <h4>Site</h4>
      <ul class="list-group list-group-flush">
       {% for item in site.data.setting.aside_external_links %}
        <li class="list-group-item">
