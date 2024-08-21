@@ -6,7 +6,7 @@
   
   <div class="accordion-item border-danger bg-transparent">
     <h2 class="accordion-header">
-      <button class="accordion-button collapsed bg-transparent shadow-none h4" type="button" data-bs-toggle="collapse" data-bs-target="#footer_quick_links" aria-expanded="false" aria-controls="footer_quick_links" style="font-size: 1.5rem;">
+      <button class="accordion-button collapsed bg-transparent shadow-none h4" type="button" data-bs-toggle="collapse" data-bs-target="#footer_quick_links" aria-expanded="false" aria-controls="footer_quick_links" style="font-size: 1.2rem;">
         Quick Links
       </button>
     </h2>
@@ -14,7 +14,7 @@
      <div class="accordion-body">
       <ul class="list-group list-group-flush">
        {% for item in site.data.setting.aside_quick_links %}
-        <li class="list-group-item bg-transparent" style="margin: 0px !important;padding: 0px !important;font-size: 1.5rem;">
+        <li class="list-group-item bg-transparent" style="margin: 0px !important;padding: 0px !important;font-size: 1.2rem;">
          <a href="{{ item.url }}">{{ item.name }}</a>
         </li>
        {% endfor %}
@@ -25,7 +25,7 @@
 
   <div class="accordion-item border-danger bg-transparent">
     <h2 class="accordion-header">
-      <button class="accordion-button collapsed bg-transparent shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#aside_external_links" aria-expanded="false" aria-controls="aside_external_links" style="font-size: 1.5rem;">
+      <button class="accordion-button collapsed bg-transparent shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#aside_external_links" aria-expanded="false" aria-controls="aside_external_links" style="font-size: 1.2rem;">
         Site
       </button>
     </h2>
@@ -33,7 +33,7 @@
      <div class="accordion-body">
       <ul class="list-group list-group-flush">
        {% for item in site.data.setting.aside_external_links %}
-        <li class="list-group-item bg-transparent" style="margin: 0px !important;padding: 0px !important;font-size: 1.5rem;">
+        <li class="list-group-item bg-transparent" style="margin: 0px !important;padding: 0px !important;font-size: 1.2rem;">
          <a href="{{ item.url }}">{{ item.name }}</a>
         </li>
        {% endfor %}
@@ -44,7 +44,7 @@
 
   <div class="accordion-item border-danger bg-transparent">
     <h2 class="accordion-header">
-      <button class="accordion-button collapsed bg-transparent shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#social_media" aria-expanded="false" aria-controls="social_media" style="font-size: 1.5rem;">
+      <button class="accordion-button collapsed bg-transparent shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#social_media" aria-expanded="false" aria-controls="social_media" style="font-size: 1.2rem;">
         Social Media
       </button>
     </h2>
@@ -52,7 +52,7 @@
      <div class="accordion-body">
       <ul class="list-group list-group-flush">
        {% for item in site.data.setting.social_icons_footer %}
-        <li class="list-group-item bg-transparent" style="margin: 0px !important;padding: 0px !important;font-size: 1.5rem;">
+        <li class="list-group-item bg-transparent" style="margin: 0px !important;padding: 0px !important;font-size: 1.2rem;">
          <a href="{{ item.url }}"><i class="bi bi-{{ item.icon }}"></i> {{ item.name }}</a>
         </li>
        {% endfor %}
