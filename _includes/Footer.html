@@ -76,9 +76,9 @@
     {% for item in site.data.setting.social_icons_footer %}
     <li class="list-inline-item">
      <a target="_blank" 
-       href="{{ item.url }}">
-       <span class="badge rounded-pill text-bg-light">
-         <i class="bi bi-{{ item.icon }}"></i> Alsalafiyyah
+       href="{{ item.url }}" rel="nofollow">
+       <span class="badge rounded-pill text-bg-danger">
+         <i class="bi bi-{{ item.icon }}"></i> {{ item.username }}
        </span>
      </a> 
     </li>
