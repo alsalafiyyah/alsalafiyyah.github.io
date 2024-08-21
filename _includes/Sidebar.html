@@ -17,9 +17,9 @@
     <div id="footer_quick_links" class="accordion-collapse collapse" data-bs-parent="#accordionFooter">
      <div class="accordion-body">
       <ul class="list-group list-group-flush">
-       {% for item in site.data.locales[page.locale].aside_quick_links %}
+       {% for item in site.data.setting.aside_quick_links %}
         <li class="list-group-item">
-         <a href="{{ item.url }}">{{ item.title }}</a>
+         <a href="{{ item.url }}">{{ item.name }}</a>
         </li>
        {% endfor %}
       </ul>
@@ -36,9 +36,9 @@
     <div id="aside_external_links" class="accordion-collapse collapse" data-bs-parent="#accordionFooter">
      <div class="accordion-body">
       <ul class="list-group list-group-flush">
-       {% for item in site.data.locales[page.locale].aside_external_links %}
+       {% for item in site.data.setting.aside_external_links %}
         <li class="list-group-item">
-         <a href="{{ item.url }}">{{ item.title }}</a>
+         <a href="{{ item.url }}">{{ item.name }}</a>
         </li>
        {% endfor %}
       </ul>
@@ -48,6 +48,36 @@
   
 </div><!-- /Accordion footer --> 
 
+<!-- Desktop -->  
+<div class="is_desktop d-none d-lg-block">
+  <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2">
+    
+    <div class="col">
+     <h4>Quick Links</h4>
+     <ul class="list-group list-group-flush">
+      {% for item in site.data.setting.aside_quick_links %}
+       <li class="list-group-item">
+        <a href="{{ item.url }}">{{ item.name }}</a>
+       </li>
+      {% endfor %}
+     </ul>
+    </div>
+    
+    <div class="col">
+     <h4>Others</h4>
+     <ul class="list-group list-group-flush">
+      {% for item in site.data.setting.aside_external_links %}
+       <li class="list-group-item">
+        <a href="{{ item.url }}">{{ item.name }}</a>
+       </li>
+      {% endfor %}
+     </ul>
+    </div>
+    
+  </div>
+</div><!-- /Desktop -->
+  
 </div><!-- /Aside container -->
 </section><!-- /Aside section -->
 </aside><!-- /Aside -->
+<!-- /Sidebar -->
