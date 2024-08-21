@@ -52,9 +52,15 @@ footer:
 
 social_icons_footer:
   - name: Instagram
+    username: Alsalafiyyah
     icon: instagram
     url: https://instagram.com/alsalafiyyah
+  - name: Threads
+    username: Alsalafiyyah
+    icon: threads
+    url: https://www.threads.net/@alsalafiyyah
   - name: Github
+    username: Alsalafiyyah
     icon: github
     url: https://github.com/alsalafiyyah
 
