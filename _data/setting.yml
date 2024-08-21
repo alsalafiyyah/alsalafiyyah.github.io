@@ -41,12 +41,10 @@ aside_external_links:
     url: /feed
   - name: Sitemap
     url: /sitemap
-  - name: YouTube
-    url: https://youtube.com/@alsalafiyyah
-  - name: SoundCloud
-    url: https://soundcloud.com/alsalafiyyah
   - name: Search Fatwas (Arabic)
     url: https://al-fatawa.com/
+  - name: Brand logo
+    url: https://alsalafiyyah.github.io/assets/images/red_logo.png
 
 footer:
   - name: Sitemap
@@ -67,6 +65,14 @@ social_icons_footer:
     username: Alsalafiyyah
     icon: github
     url: https://github.com/alsalafiyyah
+  - name: YouTube
+    username: Alsalafiyyah
+    icon: youtube
+    url: https://youtube.com/@alsalafiyyah
+  - name: Soundcloud
+    username: Alsalafiyyah
+    icon: cloud
+    url: https://soundcloud.com/alsalafiyyah
 
 page:
   next: Next
