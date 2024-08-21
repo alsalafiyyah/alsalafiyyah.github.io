@@ -1,71 +1,53 @@
 <!-- Sidebar -->
 <aside role="complementary"
   itemscope 
-  itemtype="http://schema.org/WPSideBar">
-<section class="mt-5"  
-<div class="container">
- <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2">
-    
-  <div class="col mb-3">
-   <div class="card bg-transparent shadow-sm text-center">
-    <img src="https://alsalafiyyah.github.io/assets/images/banner.jpg" class="card-img" alt="{{ site.title }}">  
-   </div>            
+  itemtype="http://schema.org/WPSideBar"><!-- Aside -->
+
+<section class="mt-5"><!-- Aside section -->  
+<div class="container-lg"><!-- Aside container -->
+
+<div class="accordion accordion-flush is_mobile d-lg-none" id="accordionFooter"><!-- Accordion footer -->
+  
+  <div class="accordion-item bg-transparent">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed bg-transparent shadow-none h4" type="button" data-bs-toggle="collapse" data-bs-target="#footer_quick_links" aria-expanded="false" aria-controls="footer_quick_links">
+        Quick Links
+      </button>
+    </h2>
+    <div id="footer_quick_links" class="accordion-collapse collapse" data-bs-parent="#accordionFooter">
+     <div class="accordion-body">
+      <ul class="list-group list-group-flush">
+       {% for item in site.data.locales[page.locale].aside_quick_links %}
+        <li class="list-group-item">
+         <a href="{{ item.url }}">{{ item.title }}</a>
+        </li>
+       {% endfor %}
+      </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="accordion-item bg-transparent">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed bg-transparent shadow-none h4" type="button" data-bs-toggle="collapse" data-bs-target="#aside_external_links" aria-expanded="false" aria-controls="aside_external_links">
+        Others
+      </button>
+    </h2>
+    <div id="aside_external_links" class="accordion-collapse collapse" data-bs-parent="#accordionFooter">
+     <div class="accordion-body">
+      <ul class="list-group list-group-flush">
+       {% for item in site.data.locales[page.locale].aside_external_links %}
+        <li class="list-group-item">
+         <a href="{{ item.url }}">{{ item.title }}</a>
+        </li>
+       {% endfor %}
+      </ul>
+      </div>
+    </div>
   </div>
   
-  <div class="col mb-3">
-<div class="hstack gap-2">
-  <div class="p-2 ms-auto">
-<div class="list-group">
-{% if page.locale == 'en' %}
- {% for item in site.data.locales[page.locale].aside_quick_links %}
-  <a href="{{ item.url }}" class="list-group-item list-group-item-action border-none fw-semibold" aria-current="false">
-    {{ item.name }}
-  </a>
- {% endfor %}  
-{% elsif page.locale == 'ar' %}  
- {% for item in site.data.locales[page.locale].aside_quick_links %}
-  <a href="{{ item.url }}" class="list-group-item list-group-item-action border-none fw-semibold" aria-current="false">
-    {{ item.name }}
-  </a>
- {% endfor %}  
-{% else %}
- {% for item in site.data.setting.aside_quick_links %}
-  <a href="{{ item.url }}" class="list-group-item list-group-item-action border-none fw-semibold" aria-current="false">
-    {{ item.name }}
-  </a>
- {% endfor %}  
-{% endif %}  
-</div>    
-  </div>
-  <div class="vr"></div>
-  <div class="p-2">      
-<div class="list-group">
-{% if page.locale == 'en' %}  
- {% for item in site.data.locales[page.locale].aside_external_links %}
-  <a href="{{ item.url }}" target="_blank" class="list-group-item list-group-item-action border-none fw-semibold" aria-current="false">
-    {{ item.name }}
-  </a>
-  {% endfor %}   
-{% elsif page.locale == 'ar' %}  
- {% for item in site.data.locales[page.locale].aside_external_links %}
-  <a href="{{ item.url }}" target="_blank" class="list-group-item list-group-item-action border-none fw-semibold" aria-current="false">
-    {{ item.name }}
-  </a>
-  {% endfor %}  
-{% else %}  
- {% for item in site.data.setting.aside_external_links %}
-  <a href="{{ item.url }}" target="_blank" class="list-group-item list-group-item-action border-none fw-semibold" aria-current="false">
-    {{ item.name }}
-  </a>
-  {% endfor %}  
-{% endif %}  
-  </div>
-   </div>
-</div>       
-    
-  </div>
-   
- </div>
-</div>
-</section>
-</aside>
+</div><!-- /Accordion footer --> 
+
+</div><!-- /Aside container -->
+</section><!-- /Aside section -->
+</aside><!-- /Aside -->
