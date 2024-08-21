@@ -98,30 +98,19 @@
     </div>
   </div>
 </div><!-- /Desktop -->
+  
 <hr class="border-danger"/>
+
  <div class="row text-center mt-3 row-cols-1 row-cols-sm-2 row-cols-md-2">
   <div class="col">
-   <ul class="list-inline text-center d-none">
-    {% for item in site.data.setting.social_icons_footer %}
-    <li class="list-inline-item">
-     <a target="_blank" 
-       href="{{ item.url }}" rel="nofollow">
-       <span class="badge rounded-pill text-bg-dark">
-         <i class="bi bi-{{ item.icon }}"></i> {{ item.username }}
-       </span>
-     </a> 
-    </li>
-    {% endfor %}
-   </ul>
-  </div>
-  
- <div class="col">
   &copy; <span property="copyrightYear">{{ 'now' | date: "%Y" }}</span> <span property="copyrightHolder" vocab="http://schema.org" itemtype="Person">
     <span property="name">
      {{ site.title }}
     </span>
-   </span> 
-   <span class="font-size: 14px;">- Hosted by GitHub + Jekyll v{{ jekyll.version }}</span>
+   </span>
+  </div>
+ <div class="col">
+   <span>- Hosted by GitHub + Jekyll v{{ jekyll.version }}</span>
  </div>   
 </div>
  
