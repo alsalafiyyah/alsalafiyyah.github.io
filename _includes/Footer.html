@@ -75,9 +75,11 @@
    <ul class="list-inline text-center">
     {% for item in site.data.setting.social_icons_footer %}
     <li class="list-inline-item">
-     <a target="_blank" role="button" class="btn btn-danger shadow-none" href="{{ item.url }}">
-      <i class="bi bi-{{ item.icon }}" style="font-size:1.2rem;"></i>
-      <span class="visually-hidden">{{ item.name }}</span>
+     <a target="_blank" 
+       href="{{ item.url }}">
+       <span class="badge rounded-pill text-bg-light">
+         <i class="bi bi-{{ item.icon }}"></i> Alsalafiyyah
+       </span>
      </a> 
     </li>
     {% endfor %}
