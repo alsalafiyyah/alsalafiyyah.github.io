@@ -1,16 +1,16 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: The grave of Ishmael
-source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 4333, Question 3
+title: "Was Ishmael buried in Al-Hatim?"
+source: "Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 4333, Question 3"
 hijri: Muharram 7, 1442
 date: 2020/08/26
 group1: true
 note: true
 locale: en
 lang: en
-category: [prophets,fatwas]
-excerpt: The claim that Ishmael was buried in Al-Hatim is incorrect and totally unreliable.
+category: [prophets]
+excerpt: The claim that Ishmael (peace be upon him) was buried in Al-Hatim is not true and an unreliable statement.
 ---
 
 ### Question:
@@ -18,4 +18,4 @@ It is mentioned in the books of the biographies of the Prophet that Isma'il (Ish
 
 ### Answer: 
 
-The claim that Isma'il (peace be upon him) was buried in Al-Hatim is incorrect and totally unreliable.
+The claim that Ishmael (peace be upon him) was buried in Al-Hatim is not true, and an unreliable statement.
