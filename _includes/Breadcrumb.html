@@ -3,9 +3,10 @@
   <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
       <li class="breadcrumb-item" itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
-        <a class="link-opacity-50-hover" itemprop="item" href="{% if page.locale == 'en' %}/en/{% elsif page.locale == 'ar' %}/ar/{% else %}/{% endif %}">
+        <a class="link-opacity-50-hover" itemprop="item" 
+          href="/">
          <span itemprop="name">
-          {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.home }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.home }}{% else %}Home{% endif %}           
+           Home
          </span>
         </a>
         <meta itemprop="position" content="1" />
@@ -13,47 +14,10 @@
       {% if page.layout == 'post' %}  
       <li class="breadcrumb-item" itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
-        {% if page.locale == 'en' %}
          <a class="link-opacity-50-hover" itemprop="item" 
           href="
           {% if page.active == "audios" %}
            /en/audios
-          {% elsif page.active == "biography" %}
-           /en/biography
-          {% elsif page.active == "category" %}
-           /category
-          {% elsif page.active == "muqolat" %}
-           /en/muqolat
-          {% elsif page.active == "wahhabi" %}
-           /en/wahhabism
-          {% elsif page.active == "radd" %}
-           /radd
-          {% else %}
-           /en/fatwas
-          {% endif %}">
-          {% elsif page.locale == 'ar' %}
-           <a class="link-opacity-50-hover" itemprop="item" 
-          href="
-          {% if page.active == "audios" %}
-           /ar/audios
-          {% elsif page.active == "biography" %}
-           /biography
-          {% elsif page.active == "category" %}
-           /category
-          {% elsif page.active == "muqolat" %}
-           /ar/muqolat
-          {% elsif page.active == "wahhabi" %}
-           /wahhabism
-          {% elsif page.active == "radd" %}
-           /ar/radd
-          {% else %}
-           /ar/fatwas
-          {% endif %}">
-           {% else %}  
-           <a class="link-opacity-50-hover" itemprop="item" 
-          href="
-          {% if page.active == "audios" %}
-           /audios
           {% elsif page.active == "biography" %}
            /biography
           {% elsif page.active == "category" %}
@@ -66,50 +30,29 @@
            /radd
           {% else %}
            /fatwas
-          {% endif %}">  
-          {% endif %}
-
-          {% if page.locale == 'ar' %} 
+          {% endif %}">
             <span itemprop="name">
               {% if page.active == "audios" %}
-               {{ site.data.locales[page.locale].page.audios }}
+               Audios
               {% elsif page.active == "biography" %}
-               {{ site.data.locales[page.locale].page.biographies }}
+               Scholars Biographies
               {% elsif page.active == "category" %}
-               {{ site.data.locales[page.locale].page.categories }}
+               Categories
               {% elsif page.active == "muqolat" %}
-               {{ site.data.locales[page.locale].page.muqolat }}
+               Muqolat
               {% elsif page.active == "wahhabi" %}
-               {{ site.data.locales[page.locale].page.wahhabism }}
+               Wahhabism
               {% elsif page.active == "radd" %}
-               {{ site.data.locales[page.locale].page.radd }}
+               Refutals
               {% else %}
-               {{ site.data.locales[page.locale].page.fatwas }}
+               Fatwas
               {% endif %}
             </span>
-           {% else %}
-              <span itemprop="name">
-              {% if page.active == "audios" %}
-               {{ site.data.locales[page.locale].page.audios }}
-              {% elsif page.active == "biography" %}
-               {{ site.data.locales[page.locale].page.biographies }}
-              {% elsif page.active == "category" %}
-               {{ site.data.locales[page.locale].page.categories }}
-              {% elsif page.active == "muqolat" %}
-               {{ site.data.locales[page.locale].page.muqolat }}
-              {% elsif page.active == "wahhabi" %}
-               {{ site.data.locales[page.locale].page.wahhabism }}
-              {% elsif page.active == "radd" %}
-               {{ site.data.locales[page.locale].page.radd }}
-              {% else %}
-               {{ site.data.locales[page.locale].page.fatwas }}
-              {% endif %}
-              </span>      
-          {% endif %}
         </a>
         <meta itemprop="position" content="2" />
       </li>
       {% endif %}   
+    
       {% if page.layout == 'page' %}  
       <li class="breadcrumb-item" itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
@@ -118,11 +61,13 @@
         <meta itemprop="position" content="2" />
       </li>
       {% endif %}
+    
       <li class="breadcrumb-item" itemprop="itemListElement" itemscope
           itemtype="https://schema.org/ListItem">
         <span itemprop="name">{{ page.title | truncate: 50 }}</span>
         <meta itemprop="position" content="{% if page.layout == 'post' %}3{% else %}2{% endif %}" />
       </li>
+    
   </ol>
 </nav>
 <hr/>
