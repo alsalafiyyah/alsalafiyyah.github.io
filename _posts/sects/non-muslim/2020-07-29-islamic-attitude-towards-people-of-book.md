@@ -3,9 +3,10 @@ layout: post
 title: "Islam's attitude towards the People of the Book"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 1412"
-category: ["non-muslim"]
+category: [non-muslim]
 hijri: Dhul-Hijjah 8, 1441 AH
 lang: en
+locale: en
 excerpt: "The origin of the doctrines with which prophets and messengers were sent is one. Allah revealed scriptures that contained these doctrines to them."
 muftis:
   chairman: 
@@ -19,8 +20,7 @@ muftis:
       url: /biography/ghudayyan/
 ---
 
-Question: 
-
+### Question: 
 Allah (Exalted be He) says: "And whoever seeks a religion other than Islâm, it will never be accepted of him" [Aal Imran: 85]
 
 Allah also says: "Truly, the religion with Allâh is Islâm." [Aal Imran: 19]
@@ -31,7 +31,7 @@ Allah also says: "Not all of them are alike; a party of the people of the Script
 
 Due to working and dealing with Christians as some of them are my co-workers, sometimes we discuss certain issues such as whether Islam acknowledges Christianity or not. What is Islam's attitude towards Christians? They cite the Ayahs (verses) mentioned above and other ayahs like them to prove their views concerning many issues. I mentioned these Ayahs only as an example. Therefore, I hope that our eminent scholars will give us a sufficient, detailed, and persuasive answer as well as evidence for it. Are any of these Ayahs abrogated? The Christians claim that some of these Ayahs contradict each other. My diligence to protect Islam and Muslims urge me to write this letter to you.
 
-Answer:
+### Answer:
 
 The origin of the doctrines with which prophets and messengers were sent is one. Allah revealed scriptures that contained these doctrines to them. Those who preceded others recommended that their followers believe and support those who will come after them of the messengers and prophets, and those who came after recommend that their followers believe in those who were sent before. All that was revealed to the messengers and prophets is called Islam.
 

@@ -3,9 +3,10 @@ layout: post
 title: "Evidence on the invalidity of the Christian creed"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 16953-5"
-category: ["non-muslim", "walabara"]
+category: [non-muslim,walabara]
 hijri: Dhul-Hijjah 8, 1441 AH
 lang: en
+locale: en
 excerpt: "Christianity was distorted and beliefs of Shirk invaded it, such as believing that Jesus Christ is Allah's Son, Allah Himself, or the third Ilah (God). It is a false religion."
 muftis:
   chairman: 
@@ -21,11 +22,10 @@ muftis:
       url: /biography/bakr/
 ---
 
-Question: 
-
+### Question: 
 What is the evidence on the invalidity of the Christian 'Aqidah (creed)?
 
-Answer:
+### Answer:
 
 All religions, whether Christianity or any other, should not be followed after the mission of the Prophet (peace be upon him); everyone should embrace Islam and follow Prophet Muhammad (peace be upon him), according to Allah's saying, "**Say (O Muhammad صلى الله عليه وسلم to mankind): "If you (really) love Allâh then follow me (i.e. accept Islâmic Monotheism, follow the Qur’ân and the Sunnah), Allâh will love you and forgive you your sins.**" [Aal Imran: 31] 
 

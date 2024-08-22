@@ -3,9 +3,10 @@ layout: post
 title: "Ruling on reading Bible"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 8852-2"
-category: ["non-muslim", "walabara"]
+category: [non-muslims,walabara]
 hijri: Dhul-Hijjah 8, 1441 AH
 lang: en
+locale: en
 excerpt: "The Divine Books revealed before the Qur'an now include many distortions, alterations, and omissions, as Allah says in the Qur'an."
 muftis:
   chairman: 
@@ -21,10 +22,9 @@ muftis:
       url: /biography/qaud/
 ---
 
-Question: 
-
+### Question: 
 What is the ruling on reading the Bible?
 
-Answer:
+### Answer:
 
 The Divine Books revealed before the Qur'an now include many distortions, alterations, and omissions, as Allah says in the Qur'an. Therefore, it is not permissible for Muslims to read any of these Books unless they have deep-rooted knowledge of the Din (religion) and want to explain the distortions and inconsistencies in these books.

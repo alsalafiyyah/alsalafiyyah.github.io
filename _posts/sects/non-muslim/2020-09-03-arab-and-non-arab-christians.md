@@ -5,7 +5,8 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 8097-2"
 hijri: Muharram 14, 1442 AH
 lang: en
-category: [non-muslim]
+locale: en
+category: [non-muslims]
 excerpt: "Is there a difference between Arab Christians and non-Arab Christians?"
 muftis:
   chairman: 
@@ -21,10 +22,8 @@ muftis:
       url: /biography/qaud/
 ---
 
-Question:
-
+### Question:
 Is there a difference between Arab Christians and non-Arab Christians? 
 
-Answer:
-
+### Answer:
 No, there is no difference between them.
