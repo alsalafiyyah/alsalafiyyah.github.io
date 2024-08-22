@@ -3,7 +3,7 @@ layout: post
 title: "Ruling on reading Bible"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 8852-2"
-category: [non-muslims,walabara]
+category: [non-muslim,walabara]
 hijri: Dhul-Hijjah 8, 1441 AH
 lang: en
 locale: en

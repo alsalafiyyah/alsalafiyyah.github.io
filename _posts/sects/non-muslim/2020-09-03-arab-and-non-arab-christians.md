@@ -6,7 +6,7 @@ source: "Fatawa Al-Lajnah Al-Da'imah no. 8097-2"
 hijri: Muharram 14, 1442 AH
 lang: en
 locale: en
-category: [non-muslims]
+category: [non-muslim]
 excerpt: "Is there a difference between Arab Christians and non-Arab Christians?"
 muftis:
   chairman: 

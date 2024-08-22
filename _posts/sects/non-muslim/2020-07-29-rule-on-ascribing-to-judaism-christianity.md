@@ -3,7 +3,7 @@ layout: post
 title: "Ruling on ascribing a person to Judaism or Christianity"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 3418-2"
-category: [non-muslims,walabara]
+category: [non-muslim,walabara]
 hijri: Dhul-Hijjah 8, 1441 AH
 lang: en
 locale: en

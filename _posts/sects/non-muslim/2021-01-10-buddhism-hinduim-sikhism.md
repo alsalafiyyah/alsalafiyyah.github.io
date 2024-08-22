@@ -3,7 +3,7 @@ layout: post
 title: "Are Buddhism, Hinduism and Sikhism considered religions?"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa 28/273"
-category: [non-muslims]
+category: [non-muslim]
 hijri: "Jumada Al-Awwal 26, 1442 AH"
 lang: en
 locale: en

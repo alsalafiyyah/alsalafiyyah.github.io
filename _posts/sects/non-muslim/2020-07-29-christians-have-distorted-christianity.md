@@ -3,7 +3,7 @@ layout: post
 title: "The distortion that Christianity underwent is confirmed"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 9643-4"
-category: [non-muslims]
+category: [non-muslim]
 hijri: Dhul-Hijjah 8, 1441 AH
 lang: en
 locale: en

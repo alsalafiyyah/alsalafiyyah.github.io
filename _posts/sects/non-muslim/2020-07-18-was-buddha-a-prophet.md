@@ -3,7 +3,7 @@ layout: post
 title: "Was Buddha a Prophet?"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatwas of the Permanent Committee of KSA no. 21004"
-category: [non-muslims]
+category: [non-muslim]
 hijri: Dhul-Qa'dah 27, 1441 AH
 lang: en
 locale: en
