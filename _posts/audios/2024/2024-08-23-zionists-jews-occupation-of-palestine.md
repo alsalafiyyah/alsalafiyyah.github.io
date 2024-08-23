@@ -7,6 +7,7 @@ hijri: Safar 19, 1446 AH
 date: 2024-08-23
 lang: en
 locale: en
+active: audios
 category: [fatwas,audios,palestine]
 note: false
 excerpt: "We are upon certainty that the Jews will not have permanency in Palestine."

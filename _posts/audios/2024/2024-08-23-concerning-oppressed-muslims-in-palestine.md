@@ -7,6 +7,7 @@ hijri: Safar 19, 1446 AH
 date: 2024-08-23
 lang: en
 locale: en
+active: audios
 category: [fatwas,audios,palestine,zakah]
 note: false
 excerpt: "Assist them with wealth and donations. Because they are in need. There are among them families, the elderly, children and the poor. Assist them with wealth along with supplicating for them."

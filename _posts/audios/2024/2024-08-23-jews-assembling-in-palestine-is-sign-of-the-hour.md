@@ -7,6 +7,7 @@ hijri: Safar 19, 1446 AH
 date: 2024-08-23
 lang: en
 locale: en
+active: audios
 category: [fatwas,audios,palestine]
 note: false
 excerpt: "The Jews assembling in Palestine is from the signs of the Hour. They will assemble during the last days in Palestine awaiting the antichrist."
