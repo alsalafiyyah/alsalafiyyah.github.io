@@ -2,13 +2,13 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "The Jews assembling in Palestine is a sign of the Day of The Hour"
+title: "The Jews assembling in Palestine is from the signs of the Hour"
 hijri: Safar 19, 1446 AH
 date: 2024-08-23
 lang: en
 locale: en
 active: audios
-category: [fatwas,audios,palestine]
+category: [audios,palestine,hadiths]
 note: false
 excerpt: "The Jews assembling in Palestine is from the signs of the Hour. They will assemble during the last days in Palestine awaiting the antichrist."
 mp3: "https://phaven-prod.s3.amazonaws.com/files/audio_part/asset/3079625/jdiTTiQGyg64LklAeVfYJ5jASPQ/The_Jews_assembling_in_Palestine_is_a_sign_of_the_Day_of_Judgment.mp3"
