@@ -2,7 +2,7 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on fasting but does not pray"
+title: "Ruling on fasting without praying"
 hijri: Safar 19, 1446 AH
 date: 2024-08-23
 source: "Fatawa Islamiyah 3/247"
