@@ -124,3 +124,19 @@ clipboard.on('success', function (e) {
     })
   }
 </script>
+<script type="text/javascript">
+function callback(response) {
+    console.log(response);
+}
+function onShareCLick() {
+    if (navigator.share) {
+        navigator.share({
+                title: "{{ page.title }}",
+                text: "{{ page.excerpt }}",
+                url: window.location.href
+            })
+            .then(() => console.log('Successful share'))
+            .catch(error => console.log('Error sharing:', error));
+    }
+}  
+</script>
