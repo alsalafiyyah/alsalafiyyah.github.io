@@ -11,6 +11,7 @@ active: muqolat
 robots: noindex
 permalink: /masail-jahiliyyah/
 excerpt: "The following are some of the Characteristics of the Age of Ignorance which have returned to the Muslim nation."
+output: html_document
 muftis:
   shaykh: 
     - name: Shaykh Muhammad ibn Abdul-Wahhab
@@ -26,6 +27,70 @@ The most important of these aspects (of the Days of Ignorance) and most severe i
 ---
 ### Characteristics of the people of the age of ignorance (Jahiliyyah): 
 ---
+
+<div class="accordion accordion-flush" id="mj">
+  
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#mj1" aria-expanded="false" aria-controls="flush-collapseOne">
+        Supplicating to Righteous Individuals
+      </button>
+    </h2>
+    <div id="mj1" class="accordion-collapse collapse" data-bs-parent="#mj">
+      <div class="accordion-body">
+They performed worship by mixing righteous people into their supplication and worship of Allah. They only did this desiring that these (righteous people) act as intercessors for them before Allah, based on their notion that Allah loved this and that these righteous people loved Him. 
+
+Allah says: **“And they worship besides Allah things that harm them not nor proft them, and they say: These are our intercessors with Allah.”** (Yunus [10]: 18)
+
+And He (Glory be to Him, the Exalted) says: **“And those who take associates apart from Him, (say): We worship them only so that they may bring us nearer to Allah.”** (az-Zumar [39]: 3)
+
+This is the greatest of matters that the Messenger of Allah ﷺ opposed them in. So he brought sincerity (i.e. doing deeds sincerely for Allah alone and not for anyone else) and informed that it was the Religion of Allah, which all the messengers were sent with. And he informed us that no deeds are accepted (by Allah), except those done sincerely (for Him alone). 
+
+And he (ﷺ) informed that whosoever does what these (polytheists) approved of, and then Allah has forbidden Paradise for him and his fnal destination will be the Hellfre. It is due to this aspect that mankind becomes divided into Muslims and disbelievers. And it is due to it that enmity (between the two) occurs. And it is for this purpose that Jihad was legislated, as Allah says: **“And fght them (disbelievers) until there is no more Fitnah (evil/disbelief) left, and the religion is for Allah alone.”** (al-Anfal [8]: 39) 
+      </div>
+    </div>
+  </div>
+  
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+        They divided into sects within their religion
+      </button>
+    </h2>
+    <div id="flush-collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">
+They divided into sects within their religion. 
+
+Allah says: **“And do not be among the polytheists –of those who split up their religion and became divided into sects– each sect rejoicing in that which it has.”** (ar-Rum [30]: 32). 
+
+They also split up into divisions with regard to their worldly affairs, and they saw that as being the correct thing to do. So Allah prescribed unity and agreement in the Religion, saying: **“He has ordained for you the same religion which He ordained for Nuh and that which We have inspired in you (O Muhammad), and that which We ordained for Ibrahim, Musa and Isa, (saying): You should establish the Religion and make no divisions within it.”** (ash-Shura [42]: 13) 
+
+And He says: **“Verily, those who split up their religion and became sects; you have no concern with them in the least.”** (al-An'am [6]: 159) 
+
+He has forbidden us from being similar to them, saying: **“And be not like those who split up and differed after the clear signs came to them.”** (Aal-'Imran [3]: 105) 
+
+And He has forbidden us from splitting up into sects in the Religion: **“And hold frmly onto the Rope of Allah, all of you together, and be not divided.”** (Aal-'Imran [3]: 103).
+      </div>
+    </div>
+  </div>
+  
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+        Considering opposing the Ruler as a Virtue
+      </button>
+    </h2>
+    <div id="flush-collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">
+They held the acts of opposing the fgure of authority and failing to comply with him as being something virtuous. And they saw the acts of hearing and obeying as being humiliating and degrading. So the Messenger of Allah ﷺ opposed them and commanded that patience be observed when facing the oppression of the rulers. And he commanded with hearing and obeying them, as well as advising (them). And he (ﷺ) spoke extensively in regards to that and he constantly brought it up and repeated it. 
+
+These (first) three aspects (of the Days of Ignorance) have been gathered together in what has been related on the Messenger of Allah ﷺ in Sahihayn (the two Sahih i.e., Bukhari & Muslim), that he said: **“Indeed, Allah is pleased with three things for you: That you not worship (anything else) except Allah and that you not associate anything with Him; that all of you, together, hold tightly onto the Rope of Allah and not be divided into groups, and; that you mutually advise he whom Allah has given authority over your affairs.”** There did not occur any defects in the religious and worldly affairs of mankind, except that it was due to a violation of these (first) three aspects, or one of them. 
+      </div>
+    </div>
+  </div>
+  
+</div>
+
 
 #### 1. Supplicating to Righteous Individuals
 
