@@ -7,10 +7,8 @@
 <div class="card card-body bg-transparent border-danger">
 <ul class="list-group list-group-flush">
 
-<!-- Date -->  
-<li class="list-group-item">     
-  {% include Date.html %}
-</li>
+<!-- Date -->       
+{% include Date.html %}
 
 <!-- source -->  
 {% if page.source %}
@@ -20,6 +18,7 @@
     <span class="fw-semibold">{{ page.source }}</span>
   </div>
  </li>
+{% else %}  
 {% endif %}
 
 <!-- country -->  
@@ -32,6 +31,7 @@
      <span class="fw-semibold">{{ page.country }}</span> 
    </div>
  </li>
+ {% else %} 
 {% endif %}
 
 <!-- official web -->  
@@ -50,6 +50,7 @@
    </li>
   {% endfor %}
  {% endif %}
+{% else %}
 {% endif %}
 
 <!-- reference -->  
@@ -66,6 +67,7 @@
    </li>
   {% endfor %}
  {% endif %}
+ {% else %} 
 {% endif %}
 
 <!-- if translated by on -->  
@@ -76,9 +78,11 @@
      <span class="fw-semibold">{{ page.translated_by }}</span> 
    </div>
  </li>
+{% else %}  
 {% endif %}
 
 <!-- categories -->  
+{% if page.category %}  
 {% if post %}
 {% assign categories = post.categories %}
 {% else %}
@@ -92,6 +96,8 @@
    {% unless forloop.last %}&nbsp;{% endunless %}
  {% endfor %}        
 </li>
+{% else %}
+{% endif %}  
 
 <!-- last modified -->  
 <li class="list-group-item">
