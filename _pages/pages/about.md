@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About us
+date: 2019-03-07
+hijri: 30 Jumada al-Thani 1440
 permalink: /about/
 ---
 
