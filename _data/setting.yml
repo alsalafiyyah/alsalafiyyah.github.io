@@ -41,6 +41,8 @@ aside_external_links:
     url: /feed
   - name: Sitemap
     url: /sitemap
+  - name: Events
+    url: /events
   - name: Search Fatwas (Arabic)
     url: https://al-fatawa.com/
   - name: Brand logo
