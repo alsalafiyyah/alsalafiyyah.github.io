@@ -1,5 +1,5 @@
 ---
-layout: Page
+layout: page
 title: About us
 permalink: /about/
 ---
@@ -12,6 +12,6 @@ permalink: /about/
 5. To warn mankind of God's punishments.
 
 ### Our ‘Aqidah:
-We promotes tawhid (pure belief in the Oneness of Allah) or monotheism, the ‘aqidah of Ahlus-Sunnah wal-Jama‘ah, and the righteous Salaf (early generations of Islam). 
+We promotes tawhid (pure belief in the Oneness of Allah) or monotheism, the ‘aqidah of Ahlus-Sunnah wal-Jama‘ah or the ‘aqidah of the righteous Salaf (early generations of Islam). 
 
-Finally, may Allah grant us success and make us steadfast in adhering to the truth and the path of guidance.
+**Finally**, may Allah Ta'ala grant us success and make us steadfast in adhering to the truth and the path of guidance.
