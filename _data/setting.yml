@@ -23,7 +23,7 @@ nav:
   - name: Categories
     url: /category
     active: category
-  - name: About us
+  - name: About
     url: /about/    
 
 aside_quick_links:
