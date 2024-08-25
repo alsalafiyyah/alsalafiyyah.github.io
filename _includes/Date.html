@@ -1,10 +1,15 @@
+<!-- Date -->  
+{% if page.hijri %}
+<li class="list-group-item">
 <div class="ms-2 me-auto">
+
  <time itemprop="datePublished" datetime="{{ page.date | to_utc | date: "%Y%m%dT%H:%M:%S%:z" }}"> 
-  {% if page.hijri %}
-   <div class="fw-normal">{% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.published | append: " : " }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.published | append: " : " }}{% else %}Published:{% endif %}</div>   
+   <div class="fw-normal">
+    {{ "Published :" | capitalize }}
+   </div>   
     <span class="fw-semibold">{{ page.hijri }}</span> 
    {% if page.date %} — 
-    <span class="fw-semibold"> 
+   <span class="fw-semibold"> 
    {% assign day = page.date | date: "%-d" %}
    {% case day %}
     {% when '1' or '21' or '31' %}{{ day }}st
@@ -14,13 +19,10 @@
    {% endcase %}
     {{ page.date | date: "%b, %Y" }}
     </span>
-   {% endif %}     
-  {% endif %}  
+   {% endif %}
  </time>
- <br/>
-{% if page.locale == 'ar' %}
- {{ page.date | localize: "%d.%M.%Y" }}
- <time datetime="{{ page.date | html5date }}">{{ page.date | arabicDate }}</time>
-{% endif %}
 
 </div> 
+</li>
+{% else %}
+{% endif %}
