@@ -1,13 +1,7 @@
  <li class="list-group-item">
    <div class="ms-2 me-auto">
      <div property="dateModified" class="fw-normal">
-      {% if page.locale == 'en' %}
-       {{ site.data.locales[page.locale].page.last_modified | append: " : " }}
-      {% elsif page.locale == 'ar' %}
-       {{ site.data.locales[page.locale].page.last_modified | append: " : " }}
-      {% else %}
-       Last modified:
-      {% endif %}
+      {{ "Updated :" | capitalize }}
      </div>
      <span class="fw-semibold">
       {% if page %}
