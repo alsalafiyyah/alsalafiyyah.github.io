@@ -23,8 +23,8 @@ nav:
   - name: Categories
     url: /category
     active: category
-  - name: Radd
-    url: /radd/    
+  - name: About us
+    url: /about/    
 
 aside_quick_links:
   - name: Bid'ah
