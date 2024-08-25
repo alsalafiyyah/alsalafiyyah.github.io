@@ -1,7 +1,6 @@
 <!-- javacripts -->
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>  
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
 <script type="text/javascript" src="https://unpkg.com/vanilla-datatables@latest/dist/vanilla-dataTables.min.js"></script>  
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.4/clipboard.min.js"></script>
 {% include tipue.html %}
@@ -60,61 +59,6 @@ clipboard.on('success', function(e) {
 clipboard.on('error', function(e) {
     console.error('Action:', e.action);
     console.error('Trigger:', e.trigger);
-});
-</script>
-<script type="text/javascript">
-// Select elements
-const target = document.getElementById('copyUrl');
-const button = target.nextElementSibling;
-
-// Init clipboard -- for more info, please read the offical documentation: https://clipboardjs.com/
-clipboard = new ClipboardJS(button, {
-    target: target,
-    text: function () {
-        return target.innerHTML;
-    }
-});
-
-// Success action handler
-clipboard.on('success', function (e) {
-    var checkIcon = button.querySelector('.bi-check');
-    var copyIcon = button.querySelector('.bi-copy');
-
-    // Exit check icon when already showing
-    if (checkIcon) {
-        return;
-    }
-
-    // Create check icon
-    checkIcon = document.createElement('i'); checkIcon.classList.add('bi-check-lg'); checkIcon.classList.add('bi-check-lg');
-    checkIcon.classList.add('fs-2x');
-
-    // Append check icon
-    button.appendChild(checkIcon);
-
-    // Highlight target
-    const classes = ['text-danger', 'fw-boldest'];
-    target.classList.add(...classes);
-
-    // Highlight button button.classList.add('btn-outline-danger');
-
-    // Hide copy icon
-    copyIcon.classList.add('d-none');
-
-    // Revert button label after 3 seconds
-    setTimeout(function () {
-        // Remove check icon
-        copyIcon.classList.remove('d-none');
-
-        // Revert icon
-        button.removeChild(checkIcon);
-
-        // Remove target highlight
-        target.classList.remove(...classes);
-
-        // Remove button highlight
-        button.classList.remove('btn-danger');
-    }, 3000)
 });
 </script>
 <script type="text/javascript">
