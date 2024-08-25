@@ -1,8 +1,8 @@
 <!-- fatwas widget section -->
 <section>
 <div class="container-lg">
-<ul class="list-group" style="margin:0px !important;padding: 0px !important;">
-  <li class="list-group-item d-flex justify-content-between align-items-center border-0">
+<ul class="list-group">
+  <li class="list-group-item d-flex justify-content-between align-items-center border-0" style="margin:0px !important;padding: 0px !important;">
     <h2>
       {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.recent_fatwas }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.recent_fatwas }}{% else %}Recent Fatwas{% endif %}
       <i class="bi bi-feather"></i>
@@ -21,7 +21,7 @@
   </li>
 </ul>  
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2">
-{% for post in site.posts limit:5 %}
+{% for post in site.posts limit:6 %}
 {% if post.url %}
 <!-- Item loop -->
   <div itemscope itemtype="https://schema.org/NewsArticle" class="col mb-3 fatwas">
@@ -155,72 +155,3 @@
 
 </section>
 <!-- /fatwas widget section -->
-
-<section class="mt-5">
-<ul class="list-group">
-  <li class="list-group-item d-flex justify-content-between align-items-center border-0">
-    <h2>
-      {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.recent_audios }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.recent_audios }}{% else %}Recent Audios{% endif %}
-      <i class="bi bi-cassette"></i>
-    </h2>
-    <a href="{% if page.locale == 'en' %}{{ site.data.locales[page.locale].site.url_audios_widget }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].site.url_audios_widget }}{% else %}/audios/{% endif %}" 
-      class="badge text-bg-danger rounded-pill icon-link">
-      {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.view_all }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.view_all }}{% else %}View all{% endif %}
-      {% if page.locale == 'en' %}
-       <i class="bi bi-chevron-double-right"></i> 
-      {% elsif page.locale == 'ar' %} 
-       <i class="bi bi-chevron-double-left"></i>
-      {% else %} 
-       <i class="bi bi-chevron-double-right"></i>
-      {% endif %}
-    </a>
-  </li>
-</ul>
-
-<div class="list-group">
-
-<!-- loop -->  
-{% assign posts = site.posts | where_exp: "post", "post.categories contains 'audios'" %}
-{% for post in posts limit:5 %}      
-{% if post.url %}
-<div itemscope itemtype="https://schema.org/NewsArticle" class="list-group-item list-group-item-action border-0">
- <meta itemprop="image" content="{{ '/assets/images/fb.jpg' | absolute_url }}" />   
- <a href="{{ post.url }}" class="list-group-item list-group-item-action border-0 bg-transparent margin-padding-remove" style="padding: 0px !important; margin: 0px !important;">
- <h3 itemprop="headline" class="mb-1">
-  {{ post.title }}
- </h3>
- <p class="mb-1 fst-italic">
-  {{ post.content | truncatewords: 30  | strip_html | normalize_whitespace | remove_first: "Question:" }}
- </p>
- </a>
-{% if post.muftis %}
-{% if post.muftis.shaykh %}  
- <p class="text-body-secondary font-size-16 margin-padding-remove" style="padding: 0px !important; margin: 0px !important; font-size: 16px !important;">
- <small><i class="bi bi-feather"></i> {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.issued_by | append: ":" }}{% else %}Issued by:{% endif %}</small>
- {% for shaykh in post.muftis.shaykh %}  
- <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-  <a class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" itemprop="url" href="{{ shaykh.url }}">
-   <small>
-    <span itemprop="name">
-    {{ shaykh.name }}
-    </span>
-   </small>
-  </a>
- </span>
- {% endfor %}  
- </p>      
-{% endif %}
-{% else %}
-{% endif %}
- <p class="text-body-secondary font-size-16 margin-padding-remove" style="padding: 0px !important; margin: 0px !important; font-size: 16px !important;">
- <span itemprop="datePublished" content="{{ post.date | to_utc | date: "%Y%m%dT%H:%M:%S%:z" }}">
-  <small><i class="bi bi-calendar-day"></i> {{ post.hijri }} / {{ post.date | date: "%b %d, %Y" }}</small>
- </span>
- </p>
-</div>
-<!-- /loop -->  
-{% endif %}      
-{% endfor %}
-  
-</div>  
-</section>
