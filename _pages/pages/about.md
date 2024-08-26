@@ -9,6 +9,10 @@ permalink: /about/
 
 All praise be to Allah, The Lord of the worlds. And I testify that there is none worthy of worship except Allah, and that Muhammad (ﷺ) is the Messenger of Allah.
 
+### Methodology:
+This website promotes the ‘aqidah of Ahlus-Sunnah wal-Jama‘ah or the ‘aqidah of the righteous Salaf (early generations of Islam).
+
+---
 ### Our [‘aqidah](https://alsalafiyyah.github.io/muqolat/correct-aqidah/):
 
 **(1)**. The first and foremost, we believe in Allah and the oneness of Allah, and we do not worship anyone but Allah alone, and we worship Him in the way that He prescribed. 
@@ -66,10 +70,6 @@ Allah says in His Book: **“There has already been for you an excellent pattern
 The Prophet ﷺ said: **“The strongest bond of faith is taking believers as allies and friends for the sake of Allah and to regard disbelievers as enemies for the sake of Allah, to love for the sake of Allah and hate for the sake of Allah.”** [^11]
 
 **(14).** We do not declare a Muslim to be an unbeliever due to a major sin so long as his sin does not reach the level of shirk (polytheism) or kufr (disbelief).
-
----
-### Methodology:
-This website promotes the ‘aqidah of Ahlus-Sunnah wal-Jama‘ah or the ‘aqidah of the righteous Salaf (early generations of Islam).
 
 ---
 ### Aims: 
