@@ -33,4 +33,4 @@ This website promotes the ‘aqidah of Ahlus-Sunnah wal-Jama‘ah or the ‘aqid
 ---
 [^1]: Al-Bukhari 3672; Muslim 75.  
 [^2]: Muslim 867 and an-Nasa’i 1578.
-[^3]: 
+[^3]: Sahih Ibn Majah 224.
