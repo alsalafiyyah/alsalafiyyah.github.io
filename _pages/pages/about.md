@@ -9,11 +9,12 @@ permalink: /about/
 
 All praise be to Allah, The Lord of the worlds. And I testify that there is none worthy of worship except Allah, and that Muhammad (ﷺ) is the Messenger of Allah.
 
-### Methodology:
+### Our Methodology
+
 This website promotes the ‘aqidah of Ahlus-Sunnah wal-Jama‘ah or the ‘aqidah of the righteous Salaf (early generations of Islam).
 
 ---
-### Our [‘aqidah](https://alsalafiyyah.github.io/muqolat/correct-aqidah/):
+### Our [‘Aqidah](https://alsalafiyyah.github.io/muqolat/correct-aqidah/)
 
 **(1)**. The first and foremost, we believe in Allah and the oneness of Allah, and we do not worship anyone but Allah alone, and we worship Him in the way that He prescribed. 
 
@@ -59,7 +60,7 @@ And he ﷺ said: **“Whoever reviles my companions, upon him be the curse of Al
 
 And he ﷺ also said: **“Do not slander my companions, for if one of you were to spend an amount of gold equivalent to the size of Mount Uhud, you would not even come halfway up to their level.”** [^9]
 
-**(12).** We shun and reject all [bid’ahs](https://alsalafiyyah.github.io/bidah/)or innovations that are introduced into the religion, whether it be in matters of belief or action. 
+**(12).** We shun and reject all [bid’ahs](https://alsalafiyyah.github.io/bidah/) or innovations that are introduced into the religion, whether it be in matters of belief or action. 
 
 The Messenger of Allah ﷺ said: **“Beware of newly introduced matters, for every newly introduced matter is a bid'ah (an innovation), and every bid'ah (innovation in religion) is a going astray, and every going astray will be in the Fire.”** [^10]
 
@@ -72,16 +73,21 @@ The Prophet ﷺ said: **“The strongest bond of faith is taking believers as al
 **(14).** We do not declare a Muslim to be an unbeliever due to a major sin so long as his sin does not reach the level of shirk (polytheism) or kufr (disbelief).
 
 ---
-### Aims: 
+### Our Aims
+
 (1). To spread Islamic Monotheism, Prophetic Sunnah, and presenting the pure Islamic teachings. 
 
-(2). To enrich the viewers' knowledge and dispel ignorance, for seeking knowledge and asking the scholars is prescribed in Islam. And indeed the cure for ignorance is to question and to learn as the Prophet ﷺ said: **“Seeking knowledge is an obligation upon every Muslim.”** [^12], and Allah says in His Book: **“So ask those who possess knowledge if you do not know”** (Quran, an-Nahl [16]:43). and he ﷺ also said, **“Verily, the only cure for ignorance is to ask questions.”** [^13]
+(2). To enrich the viewers' knowledge and dispel ignorance, for seeking knowledge and asking the scholars is prescribed in Islam. And indeed the cure for ignorance is to question and to learn as the Prophet ﷺ said: **“Seeking knowledge is an obligation upon every Muslim.”** [^12], 
+
+Allah Ta'ala says: **“So ask those who possess knowledge if you do not know”** (Quran, an-Nahl [16]:43). 
+
+And The Prophet ﷺ said, **“Verily, the only cure for ignorance is to ask questions.”** [^13]
 
 (3). To increase the awareness of Muslims about the mission of Islam.
 
 (4). To refute the lies, distortions, and bidahs (innovations in religion), and to warn the people against it.
 
-Finally, may Allah Ta'ala grant us success and make us steadfast in adhering to the truth and the path of guidance. May Allah bless our Prophet Muhammad ﷺ, his family and companions.
+**Finally**, may Allah Ta'ala grant us success and make us steadfast in adhering to the truth and the path of guidance. May Allah bless our Prophet Muhammad ﷺ, his family and companions.
 
 ---
 [^1]: Muslim 16
