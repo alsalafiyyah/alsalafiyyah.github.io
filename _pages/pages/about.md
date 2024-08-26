@@ -19,7 +19,8 @@ All praise be to Allah, The Lord of the worlds. And I testify that there is none
 - We believe that the ruler is to be obeyed in matters that do not involve disobedience towards Allah and His Messenger ﷺ, whether he is righteous or sinful, and that one is obligated to be patient with the ruler, and rebellion against them is forbidden.
 - We do not insult or curses or hate the Sahabah (Companions of the Prophet ﷺ), may Allah be pleased with all of them. Loving them is part of faith, and hating them is kufr (disbelief) and hypocrisy. It was narrated that al-Bara’ (may Allah be pleased with him) said: **“I heard the Prophet ﷺ say: “The Ansar: no one loves them but a believer and no one hates them but a hypocrite. Whoever loves them, Allah will love him, and whoever hates them, Allah will hate him.””** [^3]
 - We do not introduce or promoting or practicing bid’ah. Rather we shun and reject all bid’ahs or innovations that are introduced into the religion, whether it be in matters of belief or action. The Messenger of Allah ﷺ said: **“Beware of newly introduced matters, for every newly introduced matter is a bid'ah (an innovation), and every bid'ah (innovation in religion) is a going astray, and every going astray will be in the Fire.”** [^4]
-- We do not declare a Muslim to be an unbeliever due to a major sin so long as his sin does not reach the level of shirk (polytheism) or kufr (disbelief). 
+- We do not declare a Muslim to be an unbeliever due to a major sin so long as his sin does not reach the level of shirk (polytheism) or kufr (disbelief).
+- We hold that tawhid will never be achieved until we apply the concept of al-Wala' Wal-Bara' (loyalty and disassociation for Allah's Sake). Allah says in His Book: **“There has already been for you an excellent pattern in Abraham and those with him, when they said to their people, ‘Indeed, we are disassociated from you and from whatever you worship other than Allah. We have denied you, and there has appeared between us and you animosity and hatred forever until you believe in Allah alone’”** (Quran, al-Mumtahinah [60]:4), and the Prophet ﷺ said: **“The strongest bond of faith is taking believers as allies and friends for the sake of Allah and to regard disbelievers as enemies for the sake of Allah, to love for the sake of Allah and hate for the sake of Allah.”** [^5]
 
 ### Methodology:
 This website promotes the ‘aqidah of Ahlus-Sunnah wal-Jama‘ah or the ‘aqidah of the righteous Salaf (early generations of Islam).
@@ -27,7 +28,7 @@ This website promotes the ‘aqidah of Ahlus-Sunnah wal-Jama‘ah or the ‘aqid
 ### Aims: 
 (1). To spread Islamic Monotheism, Prophetic Sunnah, and presenting the pure Islamic teachings. 
 
-(2). To enrich the viewers' knowledge and dispel ignorance, for seeking knowledge and asking the scholars is prescribed in Islam. And indeed the cure for ignorance is to question and to learn as the Prophet ﷺ said: **“Seeking knowledge is an obligation upon every Muslim.”** [^5], and Allah says in His Book: **“So ask those who possess knowledge if you do not know”** (Quran, an-Nahl [16]:43). and he ﷺ also said, **“Verily, the only cure for ignorance is to ask questions.”** [^6]
+(2). To enrich the viewers' knowledge and dispel ignorance, for seeking knowledge and asking the scholars is prescribed in Islam. And indeed the cure for ignorance is to question and to learn as the Prophet ﷺ said: **“Seeking knowledge is an obligation upon every Muslim.”** [^6], and Allah says in His Book: **“So ask those who possess knowledge if you do not know”** (Quran, an-Nahl [16]:43). and he ﷺ also said, **“Verily, the only cure for ignorance is to ask questions.”** [^7]
 
 (3). To increase the awareness of Muslims about the mission of Islam.
 
@@ -40,5 +41,6 @@ This website promotes the ‘aqidah of Ahlus-Sunnah wal-Jama‘ah or the ‘aqid
 [^2]: Al-Bukhari 5063; Muslim 1401. 
 [^3]: Al-Bukhari 3672; Muslim 75.  
 [^4]: Muslim 867 and an-Nasa’i 1578.
-[^5]: Sahih Ibn Majah 224.
-[^6]: Sunan Abi Dawud 336
+[^5]: Sahih al-Jami‘ as-Saghir by Al-Albani no. 2539.
+[^6]: Sahih Ibn Majah 224.
+[^7]: Sunan Abi Dawud 336
