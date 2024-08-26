@@ -12,7 +12,7 @@ permalink: /about/
 - We believe in His Angels, His Books, His Messengers, the Last Day, and Al-Qada wal Qadar (Divine will and decree).
 - We affirm the Names and Attributes of Allah mentioned in the Qur’an and authentic Sunnah/Hadiths.
 - We believe that the ruler is to be obeyed in matters that do not involve disobedience towards Allah and His Messenger ﷺ, whether he is righteous or sinful, and one is obligated to be patient with the tyrannical ruler, and rebellion against them is forbidden.
-- We do not insult or hate the Sahabah (Companions of the Prophet ﷺ), may Allah be pleased with all of them.
+- We do not insult or hate the Sahabah (Companions of the Prophet ﷺ), may Allah be pleased with all of them. Loving them is part of faith, and hating them is kufr (disbelief) and hypocrisy. It was narrated that al-Bara’ (may Allah be pleased with him) said: **“I heard the Prophet ﷺ say: “The Ansar: no one loves them but a believer and no one hates them but a hypocrite. Whoever loves them, Allah will love him, and whoever hates them, Allah will hate him.””** [^1]
 - We do not introduce or promoting bid'ah. Rather we reject all bid'ahs or innovations that are introduced into the religion, whether it be in matters of belief or action.
 - We do not declare a Muslim to be an unbeliever due to a major sin so long as his sin does not reach the level of shirk (polytheism) or kufr (disbelief). 
 
@@ -31,3 +31,6 @@ This website promotes the ‘aqidah of Ahlus-Sunnah wal-Jama‘ah or the ‘aqid
 The Messenger of Allah ﷺ said concerning bid'ah: **“Beware of newly introduced matters, for every newly introduced matter is a bid'ah (an innovation), and every bid'ah (in religion) is a going astray.”**
 
 **Finally**, may Allah Ta'ala grant us success and make us steadfast in adhering to the truth and the path of guidance. May Allah bless our Prophet Muhammad ﷺ.
+
+---
+[^1]: Narrated by al-Bukhari 3672 and Muslim 75.  
