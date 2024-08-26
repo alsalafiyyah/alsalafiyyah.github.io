@@ -11,7 +11,7 @@ All praise be to Allah, The Lord of the worlds. And I testify that there is none
 ### Our ‘aqidah:
 - We do not worship anyone but Allah alone, and we worship Him in the way that He prescribed.
 - We believe the Qur’an is the Words of Allah, not created.
-- We hold that the authentic Sunnah is revelation from Allah. The Prophet ﷺ said: **“Verily I have been given the Quran and something similar to it along with it.”** [^1]
+- We hold that the authentic Sunnah is revelation from Allah, and whether everything uttered by Prophet ﷺ is considered revelation. Allah Ta'ala says in His Book: **“By the star when it goes down (or vanishes). Your companion (Muhammad) has neither gone astray nor has erred. Nor does he speak of (his own) desire. It is only a Revelation revealed”** (Quran, an-Najm [53]:1-4), and the Prophet ﷺ said: **“Verily I have been given the Quran and something similar to it along with it.”** [^1]
 - We believe in His Angels, His Books, His Messengers, the Last Day, and Al-Qada wal Qadar (Divine will and decree).
 - We affirm the Names and Attributes of Allah mentioned in the Qur’an and authentic Sunnah/Hadiths.
 - We believe that the ruler is to be obeyed in matters that do not involve disobedience towards Allah and His Messenger ﷺ, whether he is righteous or sinful, and one is obligated to be patient with the tyrannical ruler, and rebellion against them is forbidden.
