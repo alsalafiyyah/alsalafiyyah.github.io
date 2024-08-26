@@ -6,10 +6,10 @@ hijri: 30 Jumada al-Thani 1440
 permalink: /about/
 ---
 
-### Our ‘Aqidah:
-We promotes tawhid (monotheism), the Qur'an and Sunnah, and the ‘aqidah of Ahlus-Sunnah wal-Jama‘ah or the ‘aqidah of the righteous Salaf (early generations of Islam).
+### Methodology:
+This website promotes tawhid (monotheism), the Qur'an and Sunnah, and the ‘aqidah of Ahlus-Sunnah wal-Jama‘ah or the ‘aqidah of the righteous Salaf (early generations of Islam).
 
-### Our Aims: 
+### Aims: 
 (1). To spread Islamic Monotheism, Prophetic Sunnah, and presenting the pure Islamic teachings. 
 
 With regard to tawhid, Allah says in His Book: **“That is Allah, your Lord, the Creator of all things, Laa ilaaha illa Huwa (none has the right to be worshipped but He).”** (Quran, Ghafir [40]:62). 
