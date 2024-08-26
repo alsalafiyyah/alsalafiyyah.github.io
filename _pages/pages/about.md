@@ -6,6 +6,8 @@ hijri: 30 Jumada al-Thani 1440
 permalink: /about/
 ---
 
+All praise be to Allah, The Lord of the worlds. And I testify that there is none worthy of worship except Allah, and that Muhammad (ﷺ) is the Messenger of Allah.
+
 ### Our ‘aqidah:
 - We do not worship anyone but Allah alone, and we worship Him in the way that He prescribed.
 - We believe the Qur’an is the Words of Allah, not created. And we hold that the authentic Sunnah is revelation from Allah.
