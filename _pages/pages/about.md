@@ -13,7 +13,7 @@ permalink: /about/
 - We affirm the Names and Attributes of Allah mentioned in the Qur’an and authentic Sunnah/Hadiths.
 - We believe that the ruler is to be obeyed in matters that do not involve disobedience towards Allah and His Messenger, whether he is righteous or sinful, and one is obligated to be patient with the tyrannical ruler, and rebellion against them is forbidden.
 - We reject all innovations that are introduced into the religion, whether it be in matters of belief, speech or action.
-- We do not declare a Muslim to be an unbeliever or an apostate due to a major sin so long as his sin does not reach the level of shirk (polytheism) or kufr (disbelief). 
+- We do not declare a Muslim to be an unbeliever due to a major sin so long as his sin does not reach the level of shirk (polytheism) or kufr (disbelief). 
 
 ### Methodology:
 This website promotes the ‘aqidah of Ahlus-Sunnah wal-Jama‘ah or the ‘aqidah of the righteous Salaf (early generations of Islam).
