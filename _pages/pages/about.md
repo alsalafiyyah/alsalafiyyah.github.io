@@ -11,53 +11,67 @@ All praise be to Allah, The Lord of the worlds. And I testify that there is none
 
 ### Our [‘aqidah](https://alsalafiyyah.github.io/muqolat/correct-aqidah/):
 
-(1) The first and foremost, we believe in Allah and the oneness of Allah, and we do not worship anyone but Allah alone, and we worship Him in the way that He prescribed. 
+**(1)**. The first and foremost, we believe in Allah and the oneness of Allah, and we do not worship anyone but Allah alone, and we worship Him in the way that He prescribed. 
 
-> **“That is Allah, your Lord, the Creator of all things, Laa ilaaha illa Huwa (none has the right to be worshipped but He).”** (Quran, Ghafir [40]:62).
+**“That is Allah, your Lord, the Creator of all things, Laa ilaaha illa Huwa (none has the right to be worshipped but He).”** (Quran, Ghafir [40]:62).
 
-(2) We testify that **there is none worthy of worship except Allah, and that Muhammad (ﷺ) is His slave and Messenger.[^1]**
+**(2).** We testify that **there is none worthy of worship except Allah, and that Muhammad (ﷺ) is His slave and Messenger.[^1]**
 
-(3) We believe the Qur’an is [the Words of Allah](https://alsalafiyyah.github.io/the-quran-is-the-word-of-allah/), not created.
+**(3).** We believe the Qur’an is [the Words of Allah](https://alsalafiyyah.github.io/the-quran-is-the-word-of-allah/), not created.
 
-(4) We hold that the authentic Sunnah is revelation from Allah, and whether everything uttered by Prophet ﷺ is considered revelation. 
+**(4).** We hold that the authentic Sunnah is revelation from Allah, and whether everything uttered by Prophet ﷺ is considered revelation. 
 
-> Allah Ta'ala says in His Book: **“By the star when it goes down (or vanishes). Your companion (Muhammad) has neither gone astray nor has erred. Nor does he speak of (his own) desire. It is only a Revelation revealed”** (Quran, an-Najm [53]:1-4)
-> The Prophet ﷺ said: **“Verily I have been given the Quran and something similar to it along with it.”** [^2]
+Allah Ta'ala says in His Book: **“By the star when it goes down (or vanishes). Your companion (Muhammad) has neither gone astray nor has erred. Nor does he speak of (his own) desire. It is only a Revelation revealed”** (Quran, an-Najm [53]:1-4)
 
-(5) We hold that following the Sunnah of Prophet ﷺ is obligatory. Allah says: **“O you who believe! Obey Allah and obey the Messenger”** (Quran, an-Nisa’ [4]:59) 
-> The Prophet ﷺ said: **“Whoever turns away from my Sunnah (way) has nothing to do with me.”** [^3]
-> And he ﷺ said: **“I urge you to adhere to my Sunnah and the way of the Rightly-Guided Caliphs who come after me. Adhere to it and cling firmly to it. And beware of newly introduced matters, for every newly introduced matter is a bid'ah (an innovation), and every bid'ah (innovation in religion) is a going astray, and every going astray will be in the Fire.”** [^4],
-> And he ﷺ said: **“Pay attention to my Sunnah (way) and the way of the Rightly-Guided Caliphs after me, adhere to it and hold fast to it.”** [^5]
-> He ﷺ also said in his Farewell Sermon: **“I am leaving behind among you something which, if you adhere to it, you will not go astray after that. It is the Book of Allah (Quran) and my Sunnah.”** [^6]
+The Prophet ﷺ said: **“Verily I have been given the Quran and something similar to it along with it.”** [^2]
 
-(6) We believe in His Angels, His Books, His Messengers, the Last Day, and Al-Qada wal Qadar (Divine will and decree).
+**(5).** We hold that following the Sunnah of Prophet ﷺ is obligatory. Allah says: **“O you who believe! Obey Allah and obey the Messenger”** (Quran, an-Nisa’ [4]:59) 
 
-(7) We affirm the Names and Attributes of Allah mentioned in the Qur’an and authentic Sunnah, and believe that there is none like unto Allah in His Names and Attributes.
+The Prophet ﷺ said: **“Whoever turns away from my Sunnah (way) has nothing to do with me.”** [^3]
 
-(8) We believe in the Resurrection after death, Paradise and Hell, the Sirat (a bridge over Hell in the Hereafter), the Cistern, the Throne, the punishment of the grave, intercession of the Prophet Muhammad ﷺ on Day of Resurrection, and and so on. We believe in them implicitly as narrated in the reports.
+And he ﷺ said: **“I urge you to adhere to my Sunnah and the way of the Rightly-Guided Caliphs who come after me. Adhere to it and cling firmly to it. And beware of newly introduced matters, for every newly introduced matter is a bid'ah (an innovation), and every bid'ah (innovation in religion) is a going astray, and every going astray will be in the Fire.”** [^4],
 
-(9) We believe that [the ruler](https://alsalafiyyah.github.io/rulership/) is to be obeyed in matters that do not involve disobedience towards Allah and His Messenger ﷺ, whether he is righteous or sinful, and that one is obligated to be patient with the ruler, and rebellion against them is forbidden. 
-> Allah Ta'ala says: **“O you who believe! Obey Allah and obey the Messenger (Muhammad (peace and blessings be upon him)), and [those of you (Muslims) who are in authority](https://alsalafiyyah.github.io/obey-allah-messenger-and-those-who-are-in-authority/).”** (An-Nisa’[4]:59). 
+And he ﷺ said: **“Pay attention to my Sunnah (way) and the way of the Rightly-Guided Caliphs after me, adhere to it and hold fast to it.”** [^5]
 
-(10) We love the family (ahlul-bayt) of the Prophet ﷺ, and whoever hates them hates Islam. 
+He ﷺ also said in his Farewell Sermon: **“I am leaving behind among you something which, if you adhere to it, you will not go astray after that. It is the Book of Allah (Quran) and my Sunnah.”** [^6]
 
-(11) We do not criticize, revile or hate the Sahabah (Companions of the Prophet ﷺ). Loving them is part of faith, and hating them is kufr (disbelief) and hypocrisy. 
-> It was narrated that al-Bara’ (may Allah be pleased with him) said: **“I heard the Prophet ﷺ say: “The Ansar: no one loves them but a believer and no one hates them but a hypocrite. Whoever loves them, Allah will love him, and whoever hates them, Allah will hate him.””** [^7]
-> And he ﷺ said: **“Whoever reviles my companions, upon him be the curse of Allah, the angels and all the people.”** [^8]
-> And he ﷺ also said: **“Do not slander my companions, for if one of you were to spend an amount of gold equivalent to the size of Mount Uhud, you would not even come halfway up to their level.”** [^9]
+**(6).** We believe in His Angels, His Books, His Messengers, the Last Day, and Al-Qada wal Qadar (Divine will and decree).
 
-(12) We shun and reject all [bid’ahs](https://alsalafiyyah.github.io/bidah/)or innovations that are introduced into the religion, whether it be in matters of belief or action. 
-> The Messenger of Allah ﷺ said: **“Beware of newly introduced matters, for every newly introduced matter is a bid'ah (an innovation), and every bid'ah (innovation in religion) is a going astray, and every going astray will be in the Fire.”** [^10]
+**(7).** We affirm the Names and Attributes of Allah mentioned in the Qur’an and authentic Sunnah, and believe that there is none like unto Allah in His Names and Attributes.
 
-(13) We hold that tawhid will never be achieved until we apply [the concept of al-Wala' Wal-Bara' (loyalty and disassociation for Allah's Sake)](https://alsalafiyyah.github.io/principle-wala-wal-bara/). 
-> Allah says in His Book: **“There has already been for you an excellent pattern in Abraham and those with him, when they said to their people, ‘Indeed, we are disassociated from you and from whatever you worship other than Allah. We have denied you, and there has appeared between us and you animosity and hatred forever until you believe in Allah alone’”** (Quran, al-Mumtahinah [60]:4)
-> The Prophet ﷺ said: **“The strongest bond of faith is taking believers as allies and friends for the sake of Allah and to regard disbelievers as enemies for the sake of Allah, to love for the sake of Allah and hate for the sake of Allah.”** [^11]
+**(8).** We believe in the Resurrection after death, Paradise and Hell, the Sirat (a bridge over Hell in the Hereafter), the Cistern, the Throne, the punishment of the grave, intercession of the Prophet Muhammad ﷺ on Day of Resurrection, and and so on. We believe in them implicitly as narrated in the reports.
 
-(14) We do not declare a Muslim to be an unbeliever due to a major sin so long as his sin does not reach the level of shirk (polytheism) or kufr (disbelief).
+**(9).** We believe that [the ruler](https://alsalafiyyah.github.io/rulership/) is to be obeyed in matters that do not involve disobedience towards Allah and His Messenger ﷺ, whether he is righteous or sinful, and that one is obligated to be patient with the ruler, and rebellion against them is forbidden. 
 
+Allah Ta'ala says: **“O you who believe! Obey Allah and obey the Messenger (Muhammad (peace and blessings be upon him)), and [those of you (Muslims) who are in authority](https://alsalafiyyah.github.io/obey-allah-messenger-and-those-who-are-in-authority/).”** (An-Nisa’[4]:59). 
+
+**(10).** We love the family (ahlul-bayt) of the Prophet ﷺ, and whoever hates them hates Islam. 
+
+**(11).** We do not criticize, revile or hate the Sahabah (Companions of the Prophet ﷺ). Loving them is part of faith, and hating them is kufr (disbelief) and hypocrisy. 
+
+It was narrated that al-Bara’ (may Allah be pleased with him) said: **“I heard the Prophet ﷺ say: “The Ansar: no one loves them but a believer and no one hates them but a hypocrite. Whoever loves them, Allah will love him, and whoever hates them, Allah will hate him.””** [^7]
+
+And he ﷺ said: **“Whoever reviles my companions, upon him be the curse of Allah, the angels and all the people.”** [^8]
+
+And he ﷺ also said: **“Do not slander my companions, for if one of you were to spend an amount of gold equivalent to the size of Mount Uhud, you would not even come halfway up to their level.”** [^9]
+
+**(12).** We shun and reject all [bid’ahs](https://alsalafiyyah.github.io/bidah/)or innovations that are introduced into the religion, whether it be in matters of belief or action. 
+
+The Messenger of Allah ﷺ said: **“Beware of newly introduced matters, for every newly introduced matter is a bid'ah (an innovation), and every bid'ah (innovation in religion) is a going astray, and every going astray will be in the Fire.”** [^10]
+
+**(13).** We hold that tawhid will never be achieved until we apply [the concept of al-Wala' Wal-Bara' (loyalty and disassociation for Allah's Sake)](https://alsalafiyyah.github.io/principle-wala-wal-bara/). 
+
+Allah says in His Book: **“There has already been for you an excellent pattern in Abraham and those with him, when they said to their people, ‘Indeed, we are disassociated from you and from whatever you worship other than Allah. We have denied you, and there has appeared between us and you animosity and hatred forever until you believe in Allah alone’”** (Quran, al-Mumtahinah [60]:4)
+
+The Prophet ﷺ said: **“The strongest bond of faith is taking believers as allies and friends for the sake of Allah and to regard disbelievers as enemies for the sake of Allah, to love for the sake of Allah and hate for the sake of Allah.”** [^11]
+
+**(14).** We do not declare a Muslim to be an unbeliever due to a major sin so long as his sin does not reach the level of shirk (polytheism) or kufr (disbelief).
+
+---
 ### Methodology:
 This website promotes the ‘aqidah of Ahlus-Sunnah wal-Jama‘ah or the ‘aqidah of the righteous Salaf (early generations of Islam).
 
+---
 ### Aims: 
 (1). To spread Islamic Monotheism, Prophetic Sunnah, and presenting the pure Islamic teachings. 
 
@@ -65,7 +79,7 @@ This website promotes the ‘aqidah of Ahlus-Sunnah wal-Jama‘ah or the ‘aqid
 
 (3). To increase the awareness of Muslims about the mission of Islam.
 
-(4) To refute the lies, distortions, and bidahs (innovations in religion), and to warn the people against it.
+(4). To refute the lies, distortions, and bidahs (innovations in religion), and to warn the people against it.
 
 Finally, may Allah Ta'ala grant us success and make us steadfast in adhering to the truth and the path of guidance. May Allah bless our Prophet Muhammad ﷺ, his family and companions.
 
