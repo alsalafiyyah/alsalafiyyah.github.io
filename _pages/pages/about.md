@@ -25,7 +25,7 @@ This website promotes the ‘aqidah of Ahlus-Sunnah wal-Jama‘ah or the ‘aqid
 ### Aims: 
 (1). To spread Islamic Monotheism, Prophetic Sunnah, and presenting the pure Islamic teachings. 
 
-(2). To enrich the viewers' knowledge and dispel ignorance, for seeking knowledge and asking is prescribed in Islam. The Prophet ﷺ said: **“Seeking knowledge is an obligation upon every Muslim.”** [^4], and Allah says in His Book: **“So ask those who possess knowledge if you do not know”** (Quran, an-Nahl [16]:43).
+(2). To enrich the viewers' knowledge and dispel ignorance, for seeking knowledge and asking the scholars is prescribed in Islam. And indeed the cure for ignorance is to question and to learn as the Prophet ﷺ said: **“Seeking knowledge is an obligation upon every Muslim.”** [^4], and Allah says in His Book: **“So ask those who possess knowledge if you do not know”** (Quran, an-Nahl [16]:43). and he ﷺ also said, **“Verily, the only cure for ignorance is to ask questions.”** [^5]
 
 (3). To increase the awareness of Muslims about the mission of Islam.
 
@@ -38,3 +38,4 @@ This website promotes the ‘aqidah of Ahlus-Sunnah wal-Jama‘ah or the ‘aqid
 [^2]: Al-Bukhari 3672; Muslim 75.  
 [^3]: Muslim 867 and an-Nasa’i 1578.
 [^4]: Sahih Ibn Majah 224.
+[^5]: Sunan Abi Dawud 336
