@@ -50,11 +50,13 @@ He ﷺ also said in his Farewell Sermon: **“I am leaving behind among you some
 
 Allah Ta'ala says: **“O you who believe! Obey Allah and obey the Messenger (Muhammad (peace and blessings be upon him)), and [those of you (Muslims) who are in authority](https://alsalafiyyah.github.io/obey-allah-messenger-and-those-who-are-in-authority/).”** (An-Nisa’[4]:59). 
 
-**(10).** We love the family (ahlul-bayt) of the Prophet ﷺ, and whoever hates them hates Islam. 
+**(10).** We love the ahlul-bayt (the family of the Prophet ﷺ). Whoever hates them hates Islam. And the term Ahl al-Bayt includes his wives. So, whoever slanders the Prophet's wife ‘Aishah (may Allah be pleased with her) and other mothers of believers is a kafir (disbeliever) and an apostate.
 
-**(11).** We do not criticize, revile or hate the Sahabah (Companions of the Prophet ﷺ). Loving them is part of faith, and hating them is kufr (disbelief) and hypocrisy. 
+Imam Ibn al-Qayyim (may Allah have mercy on him) said: **“The Muslim ummah is agreed that whoever slanders her is a kafir (disbeliever).”**
 
-It was narrated that al-Bara’ (may Allah be pleased with him) said: **“I heard the Prophet ﷺ say: “The Ansar: no one loves them but a believer and no one hates them but a hypocrite. Whoever loves them, Allah will love him, and whoever hates them, Allah will hate him.””** [^7]
+**(11).** We hate those who criticize and revile or hate the Sahabah (companions of the Prophet ﷺ, may Allah be pleased with them all), and we hold that loving them (Sahabah) is part of faith and hating them (Sahabah) is kufr (disbelief) and hypocrisy.
+
+It was narrated that al-Bara’ (may Allah be pleased with him) said: **“I heard the Prophet ﷺ say: ‘The Ansar: no one loves them but a believer and no one hates them but a hypocrite. Whoever loves them, Allah will love him, and whoever hates them, Allah will hate him.’”** [^7]
 
 And he ﷺ said: **“Whoever reviles my companions, upon him be the curse of Allah, the angels and all the people.”** [^8]
 
@@ -75,17 +77,17 @@ The Prophet ﷺ said: **“The strongest bond of faith is taking believers as al
 ---
 ### Our Aims
 
-(1). To spread Islamic Monotheism, Prophetic Sunnah, and presenting the pure Islamic teachings. 
+**(1).** To spread Islamic Monotheism, Prophetic Sunnah, and presenting the pure Islamic teachings. 
 
-(2). To enrich the viewers' knowledge and dispel ignorance, for seeking knowledge and asking the scholars is prescribed in Islam. And indeed the cure for ignorance is to question and to learn as the Prophet ﷺ said: **“Seeking knowledge is an obligation upon every Muslim.”** [^12], 
+**(2).** To enrich the viewers' knowledge and dispel ignorance, for seeking knowledge and asking the scholars is prescribed in Islam. And indeed the cure for ignorance is to question and to learn as the Prophet ﷺ said: **“Seeking knowledge is an obligation upon every Muslim.”** [^12]
 
-Allah Ta'ala says: **“So ask those who possess knowledge if you do not know”** (Quran, an-Nahl [16]:43). 
+And he ﷺ said, **“Verily, the only cure for ignorance is to ask questions.”** [^13]
 
-And The Prophet ﷺ said, **“Verily, the only cure for ignorance is to ask questions.”** [^13]
+Allah Ta'ala says: **“So ask those who possess knowledge if you do not know”** (Quran, an-Nahl [16]:43)
 
-(3). To increase the awareness of Muslims about the mission of Islam.
+**(3).** To increase the awareness of Muslims about the mission of Islam.
 
-(4). To refute the lies, distortions, and bidahs (innovations in religion), and to warn the people against it.
+**(4).** To refute the lies, distortions, and bidahs (innovations in religion), and to warn the people against it.
 
 **Finally**, may Allah Ta'ala grant us success and make us steadfast in adhering to the truth and the path of guidance. May Allah bless our Prophet Muhammad ﷺ, his family and companions.
 
