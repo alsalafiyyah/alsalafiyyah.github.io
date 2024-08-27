@@ -8,8 +8,9 @@
   --white: #ffffff;
   --display-flex: flex;
   --flex-direction: column;
-  --height100: 100%;
-  --font-weight: bold;
+  --height100: 100% !important;
+  --width100: 100% !important; 
+  --bold: bold; /* font weight */
   --text-decoration-none: none !important;
 }
 html, body { 
