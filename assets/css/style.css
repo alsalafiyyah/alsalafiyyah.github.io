@@ -5,17 +5,23 @@
   --black: #000100;
   --link-hover: #B04759;
   --white: #ffffff;
-}    
+  --display-flex: flex;
+  --flex-direction: column;
+  --height100: 100%;
+  --font-weight: bold;
+  --text-decoration-none: none !important;
+}
+
 html, body { 
  height: 100%; 
- display: flex;
- flex-direction: column;
+ display: var(--flex);
+ flex-direction: var(--flex-direction);
  background-color: var(--bg-body) !important;
  color: var(--black);
 }   
 h1, h2, h3, h4, h5, h6 {
   font-family: "Playfair Display", Georgia, "Times New Roman", serif/*rtl:Amiri, Georgia, "Times New Roman", serif*/;
-  font-weight: bold;
+  font-weight: var(--bold);
 }
 a {
  color: var(--red);
@@ -28,14 +34,14 @@ a:link,
 a:visited,
 a:hover
 {
-  text-decoration: none !important;
+  text-decoration: var(--text-decoration-none);
 }
 p, section, main {
  font-size: 1.2rem;
 }
 .fatwas a {
  color: var(--black) !important;
- text-decoration: none !important;   
+ text-decoration: var(--text-decoration-none);   
  opacity: 0.8;
  transition: 0.3s;
 }
@@ -46,11 +52,11 @@ p, section, main {
 .text-wrap a
 {
   color: var(--red) !important;
-  text-decoration: none !important; 
+  text-decoration: var(--text-decoration-none); 
 }
 .navbar a {
   color: var(--black) !important;
-  text-decoration: none !important;
+  text-decoration: var(--text-decoration-none);
 }
 .nav a {
  color: var(--black) !important;
@@ -135,5 +141,5 @@ dataTable-table>tbody>tr>td,.dataTable-table>tbody>tr>th,.dataTable-table>tfoot>
  background: var(--red) !important;
  padding: 0 8px 0px 8px !important;
  border-radius: 10px !important;
- text-decoration: none !important;
+ text-decoration: var(--text-decoration-none);
 }
