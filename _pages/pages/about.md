@@ -22,7 +22,7 @@ This website promotes the ‘aqidah of Ahlus-Sunnah wal-Jama‘ah or the ‘aqid
 
 **(2).** We testify that **there is none worthy of worship except Allah, and that Muhammad (ﷺ) is His slave and Messenger.[^1]**
 
-**(3).** We believe the Qur’an is [the Words of Allah](https://alsalafiyyah.github.io/the-quran-is-the-word-of-allah/), not created. Whoever states that the Qur’an is created is a kafir (disbeliever).
+**(3).** We believe the Qur’an is [the Words of Allah](https://alsalafiyyah.github.io/the-quran-is-the-word-of-allah/), and is not created. Whoever states that the Qur’an is created is a kafir (disbeliever).
 
 **(4).** We hold that the authentic Sunnah is revelation from Allah, and whether everything uttered by Prophet ﷺ is considered revelation. 
 
