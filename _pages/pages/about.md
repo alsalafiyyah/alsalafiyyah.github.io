@@ -70,7 +70,9 @@ Allah says in His Book: **“There has already been for you an excellent pattern
 
 The Prophet ﷺ said: **“The strongest bond of faith is taking believers as allies and friends for the sake of Allah and to regard disbelievers as enemies for the sake of Allah, to love for the sake of Allah and hate for the sake of Allah.”** [^11]
 
-**(15).** We do not declare a Muslim to be an unbeliever due to a major sin so long as his sin does not reach the level of shirk (polytheism) or kufr (disbelief).
+**(15).** We believe that Allah is above His heavens, over His Throne, distinct from His creation.
+
+**(16).** We do not declare a Muslim to be an unbeliever due to a major sin so long as his sin does not reach the level of shirk (polytheism) or kufr (disbelief).
 
 ---
 ### Our Aims
