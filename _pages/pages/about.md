@@ -48,7 +48,7 @@ He ﷺ also said in his Farewell Sermon: **“I am leaving behind among you some
 
 **(9).** We believe that [the ruler](https://alsalafiyyah.github.io/rulership/) is to be obeyed in matters that do not involve disobedience towards Allah and His Messenger ﷺ, whether he is righteous or sinful, and that one is obligated to be patient with the ruler, and rebellion against them is forbidden. 
 
-Allah Ta'ala says: **“O you who believe! Obey Allah and obey the Messenger (Muhammad (peace and blessings be upon him)), and [those of you (Muslims) who are in authority](https://alsalafiyyah.github.io/obey-allah-messenger-and-those-who-are-in-authority/).”** (An-Nisa’[4]:59). 
+Allah Ta'ala says: **“O you who believe! Obey Allah and obey the Messenger (Muhammad (peace and blessings be upon him)), and [`those who are in authority`](https://alsalafiyyah.github.io/obey-allah-messenger-and-those-who-are-in-authority/).”** (An-Nisa’[4]:59). 
 
 **(10).** We love the ahlul-bayt (the family of the Prophet ﷺ). Whoever hates them hates Islam. And the term Ahl al-Bayt includes his wives. So, whoever slanders the Prophet's wife ‘Aishah (may Allah be pleased with her) and other mothers of believers is a kafir (disbeliever) and an apostate.
 
@@ -64,7 +64,7 @@ And he ﷺ also said: **“Do not slander my companions, for if one of you were 
 
 **(12).** We shun and reject all [bid’ahs](https://alsalafiyyah.github.io/bidah/) or innovations that are introduced into the religion, whether it be in matters of belief or action, for the Prophet ﷺ warned us against bidah: **“Beware of newly introduced matters, for every newly introduced matter is a bid'ah (an innovation), and every bid'ah (innovation in religion) is a going astray, and every going astray will be in the Fire.”** [^10]
 
-**(13).** We hold that [there is no such thing as a **good bid’ah**](https://alsalafiyyah.github.io/muqolat/there-is-no-good-bidah/) in religion, because the Prophet ﷺ has stated that **every bid'ah is a going astray**. He ﷺ did not give any exception in that, he ﷺ said, “**Every bidah** is a going astray”.
+**(13).** We hold that [there is no such thing as a **good bid’ah**](https://alsalafiyyah.github.io/muqolat/there-is-no-good-bidah/) in religion, because the Prophet ﷺ has stated that **every bid'ah is a going astray**. He ﷺ did not give any exception in that, he ﷺ said, **“`Every bid'ah` is a going astray”**.
 
 **(14).** We hold that tawhid will never be achieved until we apply [the concept of al-Wala' Wal-Bara' (loyalty and disassociation for Allah's Sake)](https://alsalafiyyah.github.io/principle-wala-wal-bara/). 
 
