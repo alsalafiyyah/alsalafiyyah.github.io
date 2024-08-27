@@ -4,6 +4,7 @@
   --red: #B04759;
   --black: #000100;
   --link-hover: #B04759;
+  --white: #ffffff;
 }    
 html, body { 
  height: 100%; 
@@ -129,3 +130,10 @@ sup li a.footnote {
   padding: 5px;
 }
 dataTable-table>tbody>tr>td,.dataTable-table>tbody>tr>th,.dataTable-table>tfoot>tr>td,.dataTable-table>tfoot>tr>th,.dataTable-table>thead>tr>td,.dataTable-table>thead>tr>th{vertical-align:top;padding:8px 0px !important;}
+.footnote {
+ color: var(--white) !important;
+ background: var(--red) !important;
+ padding: 0 8px 0px 8px !important;
+ border-radius: 10px !important;
+ text-decoration: none !important;
+}
