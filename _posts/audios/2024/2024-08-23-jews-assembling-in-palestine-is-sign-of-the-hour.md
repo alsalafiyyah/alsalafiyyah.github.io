@@ -19,7 +19,7 @@ muftis:
       url: /biography/fawzan
 ---
 
-The Jews assembling in Palestine is from the signs of the Hour. They will assemble during the last days in Palestine awaiting the antichrist. The antichrist will emerge from their midst and Jesus (peace be upon him) will descend and kill him. Thus, their assembling in Palestine is from the signs of the Day of Judgment. The Prophet (peace be upon him) mentioned this. A battle will erupt between them and the Muslims in Palestine, fighting and a fierce battle will erupt between them. In the end the Muslims will be victorious over them and conquer them.
+The Jews assembling in Palestine is from the signs of the Hour. They will assemble during the last days in Palestine awaiting the antichrist. The antichrist will emerge from their midst and Jesus (peace be upon him) will descend and kill him. Thus, their assembling in Palestine is from the signs of the Day of Judgment. [The Prophet (peace be upon him) mentioned this](https://alsalafiyyah.github.io/hadith-on-stones-will-speak/). A battle will erupt between them and the Muslims in Palestine, fighting and a fierce battle will erupt between them. In the end the Muslims will be victorious over them and conquer them.
 
 Now the preliminaries and signs have begun. They are gathering from the corners of the world and assembling in Palestine. This is from the signs of the Day of Judgment. This is the prelude for the battle that will ensue, and the prelude for the appearance of the antichrist, because they are awaiting the antichrist. They are waiting for the antichrist because the antichrist is from them. And with Allah refuge is sought. He will emerge from among the Jews. The Jews will follow him.
 
