@@ -134,13 +134,19 @@ dataTable-table>tbody>tr>td,.dataTable-table>tbody>tr>th,.dataTable-table>tfoot>
  text-decoration: var(--text-decoration-none);
  font-size: 11px !important;
 }
+.footnotes {
+ border: 2px solid !important;
+ border-radius: 10px !important;
+ border-color: var(--red2) !important;
+ margin: 15px !important;
+}
 .footnotes::before {
  display: block;
  content: "Footnotes:";
  font-weight: var(--bold) !important;
  margin-top: 15px !important;
  margin-bottom: 15px !important;
- border-bottom: 3px solid;
+ border-bottom: 0px solid !important;
 }
 sup li a.footnote {
   background-color: var(--black);
