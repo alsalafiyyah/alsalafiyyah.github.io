@@ -166,6 +166,6 @@ sup li a.footnote {
  border-radius: 10px !important;
 }
 code {
-  background-color: #f7f7f7 !important; 
-  padding: 10px !important;
+  background-color: #d5d5d5 !important;
+  color: var(--black) !important;
 }
