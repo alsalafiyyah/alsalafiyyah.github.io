@@ -36,7 +36,7 @@ And he ﷺ said: **“Whoever turns away from my Sunnah (way) has nothing to do 
 
 And he ﷺ said: **“Pay attention to my Sunnah (way) and the way of the Rightly-Guided Caliphs after me, adhere to it and hold fast to it.”** [^5]
 
-**(5).** We affirm the Divine Attributes and Names and of Allah mentioned in the Qur’an and authentic Sunnah, and we believe that there is none like unto Allah in His Names and Attributes. Any attribute that He has ascribed to Himself or that His Prophet has ascribed to Him, is an attribute in a real sense, and is not metaphorical or likening Him to His creation. 
+**(5).** We affirm the Divine Attributes and Names of Allah mentioned in the Qur’an and authentic Sunnah, and we believe that there is none like unto Allah in His Names and Attributes. Any attribute that He has ascribed to Himself or that His Prophet has ascribed to Him, is an attribute in a real sense, and is not metaphorical or likening Him to His creation. 
 
 **(6).** We believe in the Resurrection after death, Paradise and Hell, His Angels, His Books, His Prophets and Messengers, the Last Day, Al-Qada wal Qadar (Divine will and decree), the Sirat (a bridge over Hell in the Hereafter), the Cistern, the Throne, the punishment of the grave, intercession of the Prophet Muhammad ﷺ on Day of Resurrection, and and so on. We believe in them implicitly as narrated in the reports.
 
