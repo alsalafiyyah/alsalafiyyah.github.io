@@ -64,13 +64,15 @@ And he ﷺ also said: **“Do not slander my companions, for if one of you were 
 
 **(12).** We shun and reject all [bid’ahs](https://alsalafiyyah.github.io/bidah/) or innovations that are introduced into the religion, whether it be in matters of belief or action, for the Prophet ﷺ warned us against bidah: **“Beware of newly introduced matters, for every newly introduced matter is a bid'ah (an innovation), and every bid'ah (innovation in religion) is a going astray, and every going astray will be in the Fire.”** [^10]
 
-**(13).** We hold that tawhid will never be achieved until we apply [the concept of al-Wala' Wal-Bara' (loyalty and disassociation for Allah's Sake)](https://alsalafiyyah.github.io/principle-wala-wal-bara/). 
+**(13).** We hold that [there is no such thing as a **good bid’ah**](https://alsalafiyyah.github.io/muqolat/there-is-no-good-bidah/) in religion, because the Prophet ﷺ has stated that **every bid'ah is a going astray**. He ﷺ did not give any exception in that, he ﷺ said, “**Every bidah** is a going astray”.
+
+**(14).** We hold that tawhid will never be achieved until we apply [the concept of al-Wala' Wal-Bara' (loyalty and disassociation for Allah's Sake)](https://alsalafiyyah.github.io/principle-wala-wal-bara/). 
 
 Allah says in His Book: **“There has already been for you an excellent pattern in Abraham and those with him, when they said to their people, ‘Indeed, we are disassociated from you and from whatever you worship other than Allah. We have denied you, and there has appeared between us and you animosity and hatred forever until you believe in Allah alone’”** (Quran, al-Mumtahinah [60]:4)
 
 The Prophet ﷺ said: **“The strongest bond of faith is taking believers as allies and friends for the sake of Allah and to regard disbelievers as enemies for the sake of Allah, to love for the sake of Allah and hate for the sake of Allah.”** [^11]
 
-**(14).** We do not declare a Muslim to be an unbeliever due to a major sin so long as his sin does not reach the level of shirk (polytheism) or kufr (disbelief).
+**(15).** We do not declare a Muslim to be an unbeliever due to a major sin so long as his sin does not reach the level of shirk (polytheism) or kufr (disbelief).
 
 ---
 ### Our Aims
