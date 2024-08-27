@@ -32,13 +32,11 @@ The Prophet ﷺ said: **“Verily I have been given the Quran and something simi
 
 **(5).** We hold that following the Sunnah of Prophet ﷺ is obligatory. Allah says: **“O you who believe! Obey Allah and obey the Messenger”** (Quran, an-Nisa’ [4]:59) 
 
-The Prophet ﷺ said: **“Whoever turns away from my Sunnah (way) has nothing to do with me.”** [^3]
+The Prophet ﷺ said in his Farewell Sermon: **“I am leaving behind among you something which, if you adhere to it, you will not go astray after that. It is the Book of Allah (Quran) and my Sunnah.”** [^3]
 
-And he ﷺ said: **“I urge you to adhere to my Sunnah and the way of the Rightly-Guided Caliphs who come after me. Adhere to it and cling firmly to it. And beware of newly introduced matters, for every newly introduced matter is a bid'ah (an innovation), and every bid'ah (innovation in religion) is a going astray, and every going astray will be in the Fire.”** [^4]
+And he ﷺ said: **“Whoever turns away from my Sunnah (way) has nothing to do with me.”** [^4]
 
 And he ﷺ said: **“Pay attention to my Sunnah (way) and the way of the Rightly-Guided Caliphs after me, adhere to it and hold fast to it.”** [^5]
-
-He ﷺ also said in his Farewell Sermon: **“I am leaving behind among you something which, if you adhere to it, you will not go astray after that. It is the Book of Allah (Quran) and my Sunnah.”** [^6]
 
 **(6).** We believe in His Angels, His Books, His Messengers, the Last Day, and Al-Qada wal Qadar (Divine will and decree).
 
@@ -52,7 +50,7 @@ Allah Ta'ala says: **“O you who believe! Obey Allah and obey the Messenger (Mu
 
 **(10).** We love the ahlul-bayt (the family of the Prophet ﷺ). Whoever hates them hates Islam. And the term Ahl al-Bayt includes his wives. So, whoever slanders the Prophet's wife ‘Aishah (may Allah be pleased with her) and other mothers of believers is a kafir (disbeliever) and an apostate.
 
-Imam Ibn al-Qayyim (may Allah have mercy on him) said: **“The Muslim ummah is agreed that whoever slanders her is a kafir (disbeliever).”**
+Imam Ibn al-Qayyim (may Allah have mercy on him) said: **“The Muslim ummah is agreed that whoever slanders her is a kafir (disbeliever).”** [^6]
 
 **(11).** We hate those who criticize and revile or hate the Sahabah (companions of the Prophet ﷺ, may Allah be pleased with them all), and we hold that loving them (Sahabah) is part of faith and hating them (Sahabah) is kufr (disbelief) and hypocrisy.
 
@@ -62,7 +60,7 @@ And he ﷺ said: **“Whoever reviles my companions, upon him be the curse of Al
 
 And he ﷺ also said: **“Do not slander my companions, for if one of you were to spend an amount of gold equivalent to the size of Mount Uhud, you would not even come halfway up to their level.”** [^9]
 
-**(12).** We shun and reject all [bid’ahs](https://alsalafiyyah.github.io/bidah/) or innovations that are introduced into the religion, whether it be in matters of belief or action, for the Prophet ﷺ warned us against bidah: **“Beware of newly introduced matters, for every newly introduced matter is a bid'ah (an innovation), and every bid'ah (innovation in religion) is a going astray, and every going astray will be in the Fire.”** [^10]
+**(12).** We shun and reject all [bid’ahs](https://alsalafiyyah.github.io/bidah/) or innovations that are introduced into the religion, whether it be in matters of belief or action, for the Prophet ﷺ warned us against bidah: **“I urge you to adhere to my Sunnah and the way of the Rightly-Guided Caliphs who come after me. Adhere to it and cling firmly to it. And beware of newly introduced matters, for every newly introduced matter is a bid'ah (an innovation), and every bid'ah (innovation in religion) is a going astray, and every going astray will be in the Fire.”** [^10]
 
 **(13).** We hold that [there is no such thing as a **`good bid’ah`**](https://alsalafiyyah.github.io/muqolat/there-is-no-good-bidah/) in religion, because the Prophet ﷺ has stated that **every bid'ah is a going astray**. He ﷺ did not give any exception in that, he ﷺ said, **“`Every bid'ah` is a going astray”**.
 
@@ -94,10 +92,10 @@ Allah Ta'ala says: **“So ask those who possess knowledge if you do not know”
 ---
 [^1]: Muslim 16
 [^2]: At-Tirmidhi 2664; al-Silsilah al-Sahihah by al-Albani 2870. 
-[^3]: Al-Bukhari 5063; Muslim 1401. 
-[^4]: Muslim 867 and an-Nasa’i 1578.
+[^3]: Sahih al-Jami’ by al-Albani 2937.
+[^4]: Al-Bukhari 5063; Muslim 1401.
 [^5]: Abu Dawud 4607, At-Tirmidhi 2676, Ibn Majah 44.
-[^6]: Sahih al-Jami’ by al-Albani 2937.
+[^6]: 
 [^7]: Al-Bukhari 3672; Muslim 75.  
 [^8]: Silsilat al-Ahadith al-Sahihah by al-Albani 2340. 
 [^9]: Al-Bukhari no. 3379. 
