@@ -78,7 +78,7 @@ The Prophet ﷺ said: **“The strongest bond of faith is taking believers as al
 
 **(15).** We believe that Allah is above His heavens, over His Throne, distinct from His creation.
 
-**(16).** We hold that Iman (faith) is belief in the heart, words on the tongue and actions of the body, and that Iman may increase or decrease.
+**(16).** We hold that Iman (Faith) is belief in the heart, words on the tongue and actions of the body, and that Faith may increases or decreases. Faith is increased by obeying Allah, and it decreases when one disobeys Him.
 
 **(17).** We do not declare a Muslim to be an unbeliever due to a major sin so long as his sin does not reach the level of kufr (disbelief).
 
