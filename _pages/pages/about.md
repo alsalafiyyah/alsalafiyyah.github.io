@@ -34,7 +34,7 @@ The Prophet ﷺ said: **“Verily I have been given the Quran and something simi
 
 The Prophet ﷺ said: **“Whoever turns away from my Sunnah (way) has nothing to do with me.”** [^3]
 
-And he ﷺ said: **“I urge you to adhere to my Sunnah and the way of the Rightly-Guided Caliphs who come after me. Adhere to it and cling firmly to it. And beware of newly introduced matters, for every newly introduced matter is a bid'ah (an innovation), and every bid'ah (innovation in religion) is a going astray, and every going astray will be in the Fire.”** [^4],
+And he ﷺ said: **“I urge you to adhere to my Sunnah and the way of the Rightly-Guided Caliphs who come after me. Adhere to it and cling firmly to it. And beware of newly introduced matters, for every newly introduced matter is a bid'ah (an innovation), and every bid'ah (innovation in religion) is a going astray, and every going astray will be in the Fire.”** [^4]
 
 And he ﷺ said: **“Pay attention to my Sunnah (way) and the way of the Rightly-Guided Caliphs after me, adhere to it and hold fast to it.”** [^5]
 
@@ -62,9 +62,7 @@ And he ﷺ said: **“Whoever reviles my companions, upon him be the curse of Al
 
 And he ﷺ also said: **“Do not slander my companions, for if one of you were to spend an amount of gold equivalent to the size of Mount Uhud, you would not even come halfway up to their level.”** [^9]
 
-**(12).** We shun and reject all [bid’ahs](https://alsalafiyyah.github.io/bidah/) or innovations that are introduced into the religion, whether it be in matters of belief or action. 
-
-The Messenger of Allah ﷺ said: **“Beware of newly introduced matters, for every newly introduced matter is a bid'ah (an innovation), and every bid'ah (innovation in religion) is a going astray, and every going astray will be in the Fire.”** [^10]
+**(12).** We shun and reject all [bid’ahs](https://alsalafiyyah.github.io/bidah/) or innovations that are introduced into the religion, whether it be in matters of belief or action, for the Prophet ﷺ warned us against bidah: **“Beware of newly introduced matters, for every newly introduced matter is a bid'ah (an innovation), and every bid'ah (innovation in religion) is a going astray, and every going astray will be in the Fire.”** [^10]
 
 **(13).** We hold that tawhid will never be achieved until we apply [the concept of al-Wala' Wal-Bara' (loyalty and disassociation for Allah's Sake)](https://alsalafiyyah.github.io/principle-wala-wal-bara/). 
 
