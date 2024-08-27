@@ -42,7 +42,7 @@ And he ﷺ said: **“Pay attention to my Sunnah (way) and the way of the Rightl
 
 **(6).** We believe in the Resurrection after death, Paradise and Hell, His Angels, His Books, His Prophets and Messengers, the Last Day, Al-Qada wal-Qadar (Divine will and decree), the Sirat (a bridge over Hell in the Hereafter), the Cistern, the Throne, the punishment of the grave, and so on. We believe in them implicitly as narrated in the reports.
 
-**(7).** We believe in the intercession of the Prophet ﷺ and those whom Allah has permitted on the Day of the Resurrection. 
+**(7).** We believe in the intercession of the Prophet ﷺ and those whom Allah has permitted on the Day of Resurrection. 
 
 Allah Ta'ala says: **“Say: All intercession belongs to Allah alone [and no one can intercede except by His leave]”** (az-Zumar [39]:44)
 
