@@ -2,6 +2,7 @@
   --bg-body: hsl(26.7,25.7%,93.1%); /* #f2ede9 , rgb(242,237,233), rgba(242, 237, 233, 1) */
   --bg-footer: #E5DCD7;
   --red: #B04759;
+  --red2: #dc3545;
   --black: #000100;
   --link-hover: #B04759;
   --white: #ffffff;
@@ -137,7 +138,7 @@ sup li a.footnote {
 dataTable-table>tbody>tr>td,.dataTable-table>tbody>tr>th,.dataTable-table>tfoot>tr>td,.dataTable-table>tfoot>tr>th,.dataTable-table>thead>tr>td,.dataTable-table>thead>tr>th{vertical-align:top;padding:8px 0px !important;}
 .footnote {
  color: var(--white) !important;
- background: var(--red) !important;
+ background: var(--red2) !important;
  padding: 0 8px 0px 8px !important;
  border-radius: 10px !important;
  text-decoration: var(--text-decoration-none);
