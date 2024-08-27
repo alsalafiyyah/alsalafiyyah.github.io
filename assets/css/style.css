@@ -145,8 +145,9 @@ dataTable-table>tbody>tr>td,.dataTable-table>tbody>tr>th,.dataTable-table>tfoot>
  content: "Footnotes:";
  font-weight: var(--bold) !important;
  border-bottom: 0px solid !important;
- padding-left: 10px !important;
+ padding-left: 15px !important;
  margin-bottom: 15px !important;
+ margin-top: 15px;
 }
 .footnotes ol li {
  margin-left: 10px !important;
@@ -157,7 +158,7 @@ sup li a.footnote {
  padding: 5px;
 }
 .reversefootnote {
- font-size: 11px !important;
+ font-size: 12px !important;
  font-weight: var(--bold) !important;
  text-decoration: var(--text-decoration-none);
  color: var(--white) !important;
