@@ -40,9 +40,9 @@ And he ﷺ said: **“Pay attention to my Sunnah (way) and the way of the Rightl
 
 **“There is nothing like unto Him, and He is the All-Hearer, the All-Seer”** (Quran, ash-Shura [42]:11)
 
-**(6).** We believe in His Angels, His Books, His Prophets and Messengers.
+**(6).** We believe in His Angels, His Books, His Prophets and Messengersz and al-Qada wal-Qadar (Divine will and decree). 
 
-**(7).** We believe in the Resurrection after death, Paradise and Hell, the Last Day, Al-Qada wal-Qadar (Divine will and decree), the Sirat (a bridge over Hell in the Hereafter), the Cistern, the Throne, the punishment of the grave, and so on. We believe in them implicitly as narrated in the reports.
+**(7).** We believe in the Resurrection after death, Paradise and Hell, the Last Day, the Sirat (a bridge over Hell in the Hereafter), the Cistern, the Throne, the punishment of the grave, and so on. We believe in them implicitly as narrated in the reports.
 
 **(8).** We believe in the intercession of the Prophet ﷺ and those whom Allah has permitted on the Day of Resurrection. 
 
@@ -78,7 +78,9 @@ The Prophet ﷺ said: **“The strongest bond of faith is taking believers as al
 
 **(15).** We believe that Allah is above His heavens, over His Throne, distinct from His creation.
 
-**(16).** We do not declare a Muslim to be an unbeliever due to a major sin so long as his sin does not reach the level of kufr (disbelief).
+**(16).** We hold that Iman (faith) is belief in the heart, words on the tongue and actions of the body, and that Iman may increase or decrease.
+
+**(17).** We do not declare a Muslim to be an unbeliever due to a major sin so long as his sin does not reach the level of kufr (disbelief).
 
 ---
 ### Our Aims
