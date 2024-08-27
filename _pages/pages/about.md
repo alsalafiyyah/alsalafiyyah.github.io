@@ -46,11 +46,11 @@ And he ﷺ said: **“Pay attention to my Sunnah (way) and the way of the Rightl
 
 **(9).** We believe that [the ruler](https://alsalafiyyah.github.io/rulership/) is to be obeyed in matters that do not involve disobedience towards Allah and His Messenger ﷺ, whether he is righteous or sinful, and that one is obligated to be patient with the ruler, and rebellion against them is forbidden. 
 
-Allah Ta'ala says: **“O you who believe! Obey Allah and obey the Messenger (Muhammad (peace and blessings be upon him)), and [`those who are in authority`](https://alsalafiyyah.github.io/obey-allah-messenger-and-those-who-are-in-authority/).”** (An-Nisa’[4]:59). 
+Allah Ta'ala says: **“O you who believe! Obey Allah and obey the Messenger (Muhammad (peace and blessings be upon him)), and [`those who are in authority`](https://alsalafiyyah.github.io/obey-allah-messenger-and-those-who-are-in-authority/).”** (Quran, An-Nisa’[4]:59). 
 
-**(10).** We love the ahlul-bayt (the family of the Prophet ﷺ). Whoever hates them hates Islam. And the term Ahl al-Bayt includes his wives. So, whoever slanders the Prophet's wife ‘Aishah (may Allah be pleased with her) and other mothers of believers is a kafir (disbeliever) and an apostate.
+**(10).** We love the ahlul-bayt (the family of the Prophet ﷺ). Whoever hates them hates Islam. And the term Ahl al-Bayt includes his wives. So, whoever slanders the Prophet's wife ‘Aishah (may Allah be pleased with her) and other Mothers of Believers is a kafir (disbeliever) and an apostate.
 
-Imam Ibn al-Qayyim (may Allah have mercy on him) said: **“The Muslim ummah is agreed that whoever slanders her is a kafir (disbeliever).”** [^6]
+Imam Ibn al-Qayyim (may Allah have mercy on him) said: **“The (Muslim) Ummah is agreed that whoever slanders the Mother of Believers ‘Aishah (may Allah be pleased with her) is a kafir (disbeliever).”** [^6]
 
 **(11).** We hate those who criticize and revile or hate the Sahabah (companions of the Prophet ﷺ, may Allah be pleased with them all), and we hold that loving them (Sahabah) is part of faith and hating them (Sahabah) is kufr (disbelief) and hypocrisy.
 
@@ -95,7 +95,7 @@ Allah Ta'ala says: **“So ask those who possess knowledge if you do not know”
 [^3]: Sahih al-Jami’ by al-Albani 2937.
 [^4]: Al-Bukhari 5063; Muslim 1401.
 [^5]: Abu Dawud 4607, At-Tirmidhi 2676, Ibn Majah 44.
-[^6]: 
+[^6]: Zaad al-Ma'ad by Ibn al-Qayyim 1/26
 [^7]: Al-Bukhari 3672; Muslim 75.  
 [^8]: Silsilat al-Ahadith al-Sahihah by al-Albani 2340. 
 [^9]: Al-Bukhari no. 3379. 
