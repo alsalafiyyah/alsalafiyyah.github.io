@@ -165,3 +165,7 @@ sup li a.footnote {
  background-color: var(--red2) !important;
  border-radius: 10px !important;
 }
+code {
+  background-color: #f7f7f7 !important; 
+  padding: 10px !important;
+}
