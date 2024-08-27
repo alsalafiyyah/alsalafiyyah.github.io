@@ -64,7 +64,7 @@ And he ﷺ also said: **“Do not slander my companions, for if one of you were 
 
 **(12).** We shun and reject all [bid’ahs](https://alsalafiyyah.github.io/bidah/) or innovations that are introduced into the religion, whether it be in matters of belief or action, for the Prophet ﷺ warned us against bidah: **“Beware of newly introduced matters, for every newly introduced matter is a bid'ah (an innovation), and every bid'ah (innovation in religion) is a going astray, and every going astray will be in the Fire.”** [^10]
 
-**(13).** We hold that [there is no such thing as a **good bid’ah**](https://alsalafiyyah.github.io/muqolat/there-is-no-good-bidah/) in religion, because the Prophet ﷺ has stated that **every bid'ah is a going astray**. He ﷺ did not give any exception in that, he ﷺ said, **“`Every bid'ah` is a going astray”**.
+**(13).** We hold that [there is no such thing as a **`good bid’ah`**](https://alsalafiyyah.github.io/muqolat/there-is-no-good-bidah/) in religion, because the Prophet ﷺ has stated that **every bid'ah is a going astray**. He ﷺ did not give any exception in that, he ﷺ said, **“`Every bid'ah` is a going astray”**.
 
 **(14).** We hold that tawhid will never be achieved until we apply [the concept of al-Wala' Wal-Bara' (loyalty and disassociation for Allah's Sake)](https://alsalafiyyah.github.io/principle-wala-wal-bara/). 
 
