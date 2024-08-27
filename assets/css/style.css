@@ -21,7 +21,7 @@ html, body {
 }   
 h1, h2, h3, h4, h5, h6 {
   font-family: "Playfair Display", Georgia, "Times New Roman", serif/*rtl:Amiri, Georgia, "Times New Roman", serif*/;
-  font-weight: var(--bold);
+  font-weight: var(--bold) !important;
 }
 a {
  color: var(--red);
@@ -60,7 +60,7 @@ p, section, main {
 }
 .nav a {
  color: var(--black) !important;
- font-weight: bold;
+ font-weight: var(--bold) !important;
  text-transform: uppercase !important;
  font-size: 100% !important;
 }
@@ -124,17 +124,6 @@ table h3:hover,
 .font-size-16 {
  font-size: 16px !important;
 }
-.footnotes::before {
-  display: block;
-  content: "Footnotes:";
-  font-weight: bold;
-  margin-bottom: 15px;
-  border-bottom: 3px solid;
-}
-sup li a.footnote {
-  background-color: var(--black);
-  padding: 5px;
-}
 dataTable-table>tbody>tr>td,.dataTable-table>tbody>tr>th,.dataTable-table>tfoot>tr>td,.dataTable-table>tfoot>tr>th,.dataTable-table>thead>tr>td,.dataTable-table>thead>tr>th{vertical-align:top;padding:8px 0px !important;}
 .footnote {
  color: var(--white) !important;
@@ -142,5 +131,17 @@ dataTable-table>tbody>tr>td,.dataTable-table>tbody>tr>th,.dataTable-table>tfoot>
  padding: 0 8px 0px 8px !important;
  border-radius: 10px !important;
  text-decoration: var(--text-decoration-none);
- font-size: 14px !important;
+ font-size: 12px !important;
+}
+.footnotes::before {
+ display: block;
+ content: "Footnotes:";
+ font-weight: var(--bold) !important;
+ margin-top: 10px !important;
+ margin-bottom: 15px !important;
+ border-bottom: 3px solid;
+}
+sup li a.footnote {
+  background-color: var(--black);
+  padding: 5px;
 }
