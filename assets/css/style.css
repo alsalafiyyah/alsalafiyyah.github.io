@@ -129,7 +129,7 @@ dataTable-table>tbody>tr>td,.dataTable-table>tbody>tr>th,.dataTable-table>tfoot>
 .footnote {
  color: var(--white) !important;
  background: var(--red2) !important;
- padding: 0px 2px 0px 2px !important;
+ padding: 0px 3px 0px 3px !important;
  border-radius: 10px !important;
  text-decoration: var(--text-decoration-none);
  font-size: 11px !important;
@@ -139,7 +139,6 @@ dataTable-table>tbody>tr>td,.dataTable-table>tbody>tr>th,.dataTable-table>tfoot>
  border-radius: 10px !important;
  border-color: var(--red2) !important;
  margin-top: 15px !important;
- margin-bottom: 15px !important;
 }
 .footnotes::before {
  display: block;
@@ -147,12 +146,18 @@ dataTable-table>tbody>tr>td,.dataTable-table>tbody>tr>th,.dataTable-table>tfoot>
  font-weight: var(--bold) !important;
  border-bottom: 0px solid !important;
  padding-left: 10px !important;
+ margin-bottom: 15px !important;
+}
+.footnotes ol li {
+ margin-left: 10px !important;
+ margin-right: 10px !important;
 }
 sup li a.footnote {
-  background-color: var(--black);
-  padding: 5px;
+ background-color: var(--black);
+ padding: 5px;
 }
 .reversefootnote {
+ font-size: 11px !important;
  font-weight: var(--bold) !important;
  text-decoration: var(--text-decoration-none);
  color: var(--white) !important;
