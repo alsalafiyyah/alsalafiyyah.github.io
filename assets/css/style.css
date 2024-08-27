@@ -11,7 +11,6 @@
   --font-weight: bold;
   --text-decoration-none: none !important;
 }
-
 html, body { 
  height: 100%; 
  display: var(--flex);
@@ -142,4 +141,5 @@ dataTable-table>tbody>tr>td,.dataTable-table>tbody>tr>th,.dataTable-table>tfoot>
  padding: 0 8px 0px 8px !important;
  border-radius: 10px !important;
  text-decoration: var(--text-decoration-none);
+ font-size: 14px !important;
 }
