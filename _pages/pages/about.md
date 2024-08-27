@@ -40,7 +40,7 @@ And he ﷺ said: **“Pay attention to my Sunnah (way) and the way of the Rightl
 
 **“There is nothing like unto Him, and He is the All-Hearer, the All-Seer”** (Quran, ash-Shura [42]:11)
 
-**(6).** We believe in the Resurrection after death, Paradise and Hell, His Angels, His Books, His Prophets and Messengers, the Last Day, Al-Qada wal Qadar (Divine will and decree), the Sirat (a bridge over Hell in the Hereafter), the Cistern, the Throne, the punishment of the grave, intercession of the Prophet Muhammad ﷺ on Day of Resurrection, and and so on. We believe in them implicitly as narrated in the reports.
+**(6).** We believe in the Resurrection after death, Paradise and Hell, His Angels, His Books, His Prophets and Messengers, the Last Day, Al-Qada wal-Qadar (Divine will and decree), the Sirat (a bridge over Hell in the Hereafter), the Cistern, the Throne, the punishment of the grave, intercession of the Prophet Muhammad ﷺ and those whom Allāh has permitted on Day of Resurrection, and so on. We believe in them implicitly as narrated in the reports.
 
 **(7).** We believe that [the ruler](https://alsalafiyyah.github.io/rulership/) is to be obeyed in matters that do not involve disobedience towards Allah and His Messenger ﷺ, whether he is righteous or sinful, and that one is obligated to be patient with the ruler, and rebellion against them is forbidden. 
 
