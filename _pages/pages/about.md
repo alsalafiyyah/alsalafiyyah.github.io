@@ -46,9 +46,9 @@ And he ﷺ said: **“Pay attention to my Sunnah (way) and the way of the Rightl
 
 **(9).** We believe that [the ruler](https://alsalafiyyah.github.io/rulership/) is to be obeyed in matters that do not involve disobedience towards Allah and His Messenger ﷺ, whether he is righteous or sinful, and that one is obligated to be patient with the ruler, and rebellion against them is forbidden. 
 
-Allah Ta'ala says: **“O you who believe! Obey Allah and obey the Messenger (Muhammad (peace and blessings be upon him)), and [`those who are in authority`](https://alsalafiyyah.github.io/obey-allah-messenger-and-those-who-are-in-authority/).”** (Quran, An-Nisa’[4]:59). 
+Allah Ta'ala says: **“O you who believe! Obey Allah and obey the Messenger (Muhammad (peace and blessings be upon him)), and [<mark>those who are in authority</mark>](https://alsalafiyyah.github.io/obey-allah-messenger-and-those-who-are-in-authority/).”** (Quran, An-Nisa’[4]:59). 
 
-**(10).** We love the ahlul-bayt (the family of the Prophet ﷺ). Whoever hates them hates Islam. And the term Ahl al-Bayt includes his wives. So, whoever slanders the Prophet's wife ‘Aishah (may Allah be pleased with her) and other Mothers of Believers is a kafir (disbeliever) and an apostate.
+**(10).** We love the ahlul-bayt (the family of the Prophet ﷺ). Whoever hates them hates Islam. And the term Ahl al-Bayt includes his wives. So, whoever slanders the Prophet's wife ‘Aishah (may Allah be pleased with her) and other Mothers of Believers (Prophet's wives) is a kafir (disbeliever) and an apostate.
 
 Imam Ibn al-Qayyim (may Allah have mercy on him) said: **“The (Muslim) Ummah is agreed that whoever slanders the Mother of Believers ‘Aishah (may Allah be pleased with her) is a kafir (disbeliever).”** [^6]
 
@@ -60,9 +60,9 @@ And he ﷺ said: **“Whoever reviles my companions, upon him be the curse of Al
 
 And he ﷺ also said: **“Do not slander my companions, for if one of you were to spend an amount of gold equivalent to the size of Mount Uhud, you would not even come halfway up to their level.”** [^9]
 
-**(12).** We shun and reject all [bid’ahs](https://alsalafiyyah.github.io/bidah/) or innovations that are introduced into the religion, whether it be in matters of belief or action, for the Prophet ﷺ warned us against bidah: **“I urge you to adhere to my Sunnah and the way of the Rightly-Guided Caliphs who come after me. Adhere to it and cling firmly to it. And beware of newly introduced matters, for every newly introduced matter is a bid'ah (an innovation), and every bid'ah (innovation in religion) is a going astray, and every going astray will be in the Fire.”** [^10]
+**(12).** We shun and reject all [bid’ahs](https://alsalafiyyah.github.io/bidah/) or innovations that are introduced into the religion, whether it be in matters of belief or action, for the Prophet ﷺ warned us against bid'ah: **“I urge you to adhere to my Sunnah and the way of the Rightly-Guided Caliphs who come after me. Adhere to it and cling firmly to it. And beware of newly introduced matters, for every newly introduced matter is a bid'ah (an innovation), and every bid'ah (innovation in religion) is a going astray, and every going astray will be in the Fire.”** [^10]
 
-**(13).** We hold that [there is no such thing as a **`good bid’ah`**](https://alsalafiyyah.github.io/muqolat/there-is-no-good-bidah/) in religion, because the Prophet ﷺ has stated that **every bid'ah is a going astray**. He ﷺ did not give any exception in that, he ﷺ said, **“`Every bid'ah` is a going astray”**.
+**(13).** We hold that [there is no such thing as a <mark>good bid’ah</mark>](https://alsalafiyyah.github.io/muqolat/there-is-no-good-bidah/) in religion, because the Prophet ﷺ has stated that **every bid'ah is a going astray**. He (ﷺ) did not give any exception in that, he (ﷺ) said, **“<mark>Every bid'ah</mark> is a going astray”**.
 
 **(14).** We hold that tawhid will never be achieved until we apply [the concept of al-Wala' Wal-Bara' (loyalty and disassociation for Allah's Sake)](https://alsalafiyyah.github.io/principle-wala-wal-bara/). 
 
