@@ -70,7 +70,7 @@ The Prophet ﷺ said: **“The strongest bond of faith is taking believers as al
 
 **(14).** We believe that Allah is above His heavens, over His Throne, distinct from His creation.
 
-**(15).** We do not declare a Muslim to be an unbeliever due to a major sin so long as his sin does not reach the level of shirk (polytheism) or kufr (disbelief).
+**(15).** We do not declare a Muslim to be an unbeliever due to a major sin so long as his sin does not reach the level of kufr (disbelief).
 
 ---
 ### Our Aims
