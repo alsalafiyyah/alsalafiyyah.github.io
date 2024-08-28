@@ -17,6 +17,20 @@ muftis:
       url: /biography/taymiyyah
 ---
 
+The mission of all Messengers was to call for the worship of Allah Alone without associating any partners with Him, and the word Islam, in its general meaning refers to worshipping Allah Alone without partners. Allah Ta'ala Says:
+
+**"And I did not create the jinn and mankind except to worship Me."** [Quran 51:56]
+
+**"And We sent not before you any messenger except that We revealed to him that, "There is no deity except Me, so worship Me."** [Quran 21:25]
+
+**"And We certainly sent into every nation a messenger, [saying], "Worship Allah and avoid Taghut (all false deities)."** [Quran 16:36]
+
+Allah tells us that Islam is the religion of all the Prophets.
+
+**"Abraham was neither a Jew nor a Christian, but he was one inclining toward truth, a Muslim [submitting to Allah]. And he was not of the polytheists."** [Quran 3:67]
+
+Shaykh al-Ialam Ibn Taymiyyah (may Allah have mercy on him) said: 
+
 This religion is the religion of Islam, besides which Allah will accept no other religion, either from the earlier or the later generations. All the Prophets followed Islam. 
 
 Allah Ta'ala says of Noah (peace be upon him): 
