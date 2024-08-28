@@ -82,7 +82,7 @@ The Prophet ﷺ said: **“The strongest bond of faith is taking believers as al
 
 **(17).** We do not declare a Muslim to be an unbeliever due to a major sin so long as his sin does not reach the level of kufr (disbelief).
 
-**(18).** We hold it to be impermissible to kill non-muslims living in Muslim lands or under Muslim rule, or transgress against their rights or to be unjust towards them, for Allah forbid us to do so, and He does not forbid us showing kindness to them (non-Muslims) who are not fighting Muslims. 
+**(18).** We hold it to be impermissible to kill non-muslims living in Muslim lands or under Muslim rule, or transgress against their rights or to be unjust towards them, for Allah and His Messenger Muhammad ﷺ forbid us to do so, and Allah does not forbid us showing kindness to them (non-Muslims) who are not fighting Muslims. 
 
 Concerning that the Prophet ﷺ said: **“Whoever kills a mu‘ahid (a non-Muslim living under Muslim rule) will not smell the fragrance of Paradise, although its fragrance may be detected from a distance of forty years.”** [^12] 
 
