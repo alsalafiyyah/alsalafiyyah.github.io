@@ -17,13 +17,13 @@ muftis:
       url: /biography/taymiyyah
 ---
 
-The mission of all Messengers was to call for the worship of Allah Alone without associating any partners with Him, and the word Islam, in its general meaning refers to worshipping Allah Alone without partners. Allah Ta'ala Says:
+The mission of all Messengers was to call for the worship of Allah Alone without associating any partners with Him, and the word Islam, in general meaning refers to worshipping Allah Alone without partners or <maek>submitting to Allah Alone</mark>. Allah Ta'ala Says:
 
-**"And I did not create the jinn and mankind except to worship Me."** [Quran 51:56]
+**"And I (Allah) did not create the jinn and mankind except to worship Me."** [Quran adh-Dhariyat :56]
 
-**"And We sent not before you any messenger except that We revealed to him that, "There is no deity except Me, so worship Me."** [Quran 21:25]
+**And We did not send any Messenger before you (O Muhammad) but We inspired him (saying): La ilaha illa Ana [none has the right to be worshipped but I (Allah)], so worship Me (Alone and none else)."** [Quran al-Anbiya:25]
 
-**"And We certainly sent into every nation a messenger, [saying], "Worship Allah and avoid Taghut (all false deities)."** [Quran 16:36]
+**"And We certainly sent into every nation a messenger, [saying], "Worship Allah and avoid Taghut (all false deities)."** [Quran an-Nahl:36]
 
 Allah tells us that Islam is the religion of all the Prophets.
 
