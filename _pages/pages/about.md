@@ -82,6 +82,12 @@ The Prophet ﷺ said: **“The strongest bond of faith is taking believers as al
 
 **(17).** We do not declare a Muslim to be an unbeliever due to a major sin so long as his sin does not reach the level of kufr (disbelief).
 
+**(18).** We hold it to be impermissible to kill or transgress against non-muslims living in a Muslim lands or under Muslim rule, and Allah does not forbid us to showing kindness to non-Muslims who are not fighting Muslims. 
+
+Concerning that the Prophet ﷺ said: **“Whoever kills a mu‘ahid (a non-Muslim living under Muslim rule) will not smell the fragrance of Paradise, although its fragrance may be detected from a distance of forty years.”** [^14] 
+
+Allah Ta'ala says: **“Allah does not forbid you to deal justly and kindly with those who fought not against you on account of religion and did not drive you out of your homes. Verily, Allah loves those who deal with equity.”** (al-Mumtahinah [60]:8)
+
 ---
 ### Our Aims
 
@@ -113,3 +119,4 @@ Allah Ta'ala says: **“So ask those who possess knowledge if you do not know”
 [^11]: Sahih al-Jami‘ as-Saghir by Al-Albani no. 2539.
 [^12]: Sahih Ibn Majah 224.
 [^13]: Sunan Abi Dawud 336
+[^14]: Al-Bukhari 2995 
