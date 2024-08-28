@@ -11,10 +11,10 @@ locale: en
 category: [muqolat]
 note: false
 excerpt: "The religion of all the Messengers is Islam, but their laws varied. This means obeying Allah at any given time by doing what He commanded at that time."
-muftis:
-  shaykh: 
-    - name: Shaykhul Islam Ibn Taymiyyah
-      url: /biography/taymiyyah
+authors:
+  author: 
+    - name: Alsalafiyyah
+      url: https://instagram.com/alsalafiyyah
 ---
 
 The mission of all Messengers was to call for the worship of Allah Alone without associating any partners with Him, and the word Islam, in general meaning refers to worshipping Allah Alone without partners or <mark>submitting to Allah Alone</mark>. Allah Ta'ala Says:
@@ -27,9 +27,13 @@ The mission of all Messengers was to call for the worship of Allah Alone without
 
 Allah tells us that Islam is the religion of all the Prophets.
 
-**"Abraham was neither a Jew nor a Christian, but he was one inclining toward truth, a Muslim [submitting to Allah]. And he was not of the polytheists."** [Quran 3:67]
+<p dir="rtl">
+مَا كَانَ اِبۡرٰهِيۡمُ يَهُوۡدِيًّا وَّلَا نَصۡرَانِيًّا وَّ لٰكِنۡ كَانَ حَنِيۡفًا <mark>مُّسۡلِمًا</mark> ؕ وَمَا كَانَ مِنَ الۡمُشۡرِكِيۡنَ‏ 
+</p>
 
-Shaykh al-Islam Ibn Taymiyyah (may Allah have mercy on him) said: 
+**"Abraham was neither a Jew nor a Christian, but he was one inclining toward truth, a Muslim [submitting to Allah]. And he was not of the polytheists."** [Quran Aal 'Imran :67]
+
+Shaykhul-Islam Ibn Taymiyyah (may Allah have mercy on him) said in ar-Risalah at-Tadmuriyyah p.173-174: 
 
 This religion is the religion of Islam, besides which Allah will accept no other religion, either from the earlier or the later generations. All the Prophets followed Islam. 
 
