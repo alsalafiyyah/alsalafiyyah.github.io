@@ -18,7 +18,7 @@ authors:
       url: https://instagram.com/alsalafiyyah
 ---
 
-The mission of all Messengers was to call for the worship of Allah Alone without associating any partners with Him, and the word Islam, in general meaning refers to worshipping Allah Alone without partners or <submitting to Allah Alone. Allah Ta'ala Says:
+The mission of all Messengers was to call for the worship of Allah Alone without associating any partners with Him, and the word Islam, in general meaning refers to worshipping or submitting to Allah Alone without partners. Allah Ta'ala Says:
 
 **"And I (Allah) did not create the jinn and mankind except to worship Me."** [Quran, adh-Dhariyat :56]
 
@@ -29,7 +29,7 @@ The mission of all Messengers was to call for the worship of Allah Alone without
 Allah tells us that Islam is the religion of all the Prophets.
 
 <p dir="rtl">
-مَا كَانَ اِبۡرٰهِيۡمُ يَهُوۡدِيًّا وَّلَا نَصۡرَانِيًّا وَّ لٰكِنۡ كَانَ حَنِيۡفًا <mark>مُّسۡلِمًا</mark> ؕ وَمَا كَانَ مِنَ الۡمُشۡرِكِيۡنَ‏ 
+﴿ مَا كَانَ اِبۡرٰهِيۡمُ يَهُوۡدِيًّا وَّلَا نَصۡرَانِيًّا وَّ لٰكِنۡ كَانَ حَنِيۡفًا <mark>مُّسۡلِمًا</mark> ؕ وَمَا كَانَ مِنَ الۡمُشۡرِكِيۡنَ‏ ﴾
 </p>
 
 **"Abraham was neither a Jew nor a Christian, but he was one inclining toward truth, a Muslim [submitting to Allah]. And he was not of the polytheists."** [Quran, Aal 'Imran :67]
@@ -84,6 +84,6 @@ And He tells us that Bilqis said:
 ﴿ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ ﴾ [النمل:44]
 </p>
 
-**“My Lord! Verily, I have wronged myself, and I submit [in Islam, together with Sulayman (Solomon)] to Allah, the Lord of the ‘Alamin(mankind, jinn and all that exists).”** [Quran, al-Naml 27:44]
+**“My Lord! Verily, I have wronged myself, and I submit [in Islam, together with Sulayman (Solomon)] to Allah, the Lord of the ‘Alamin(mankind, jinn and all that exists).”** [Quran, an-Naml 27:44]
 
 This is the religion of Islam, besides which Allah does not accept any other. This means obeying Allah at any given time by doing what He commanded at that time. So initially the command was to face towards the Rock [in Jerusalem] in prayer, then the command came to face towards the Ka’bah. Both actions come under the heading of the religion of Islam, because religion is obedience and worship in both cases, but the actions varied in some regards which was the direction faced in prayer. Similarly the religion of all the Messengers is one and the same, but their laws varied.
