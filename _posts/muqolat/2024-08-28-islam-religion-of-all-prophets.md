@@ -5,7 +5,6 @@ publisher: alsalafiyyah@icloud.com
 title: "Islam is the religion of all Prophets"
 hijri: Safar 24, 1446 AH
 date: 2024-08-28
-source: "ar-Risalah at-Tadmuriyyah p.173-174"
 lang: en
 locale: en
 active: muqolat
@@ -18,13 +17,25 @@ authors:
       url: https://instagram.com/alsalafiyyah
 ---
 
-The mission of all Messengers was to call for the worship of Allah Alone without associating any partners with Him, and the word Islam, in general meaning refers to worshipping or submitting to Allah Alone without partners. Allah Ta'ala Says:
+The mission of all Messengers was to call for the worship of Allah Alone without associating any partners with Him, and the word **Islam**, in general meaning, refers to **worshipping or submitting to Allah Alone without partners**. Allah Ta'ala Says:
 
-**"And I (Allah) did not create the jinn and mankind except to worship Me."** [Quran, adh-Dhariyat :56]
+<p dir="rtl">
+﴿ وَمَا خَلَقۡتُ الۡجِنَّ وَالۡاِنۡسَ اِلَّا لِيَعۡبُدُوۡنِ‏ ﴾
+</p>
 
-**And We did not send any Messenger before you (O Muhammad) but We inspired him (saying): La ilaha illa Ana [none has the right to be worshipped but I (Allah)], so worship Me (Alone and none else)."** [Quran, al-Anbiya:25]
+**"And I (Allah) created not the jinn and mankind except that they should worship Me (Alone)."** [Quran, adh-Dhariyat :56]
 
-**"And We certainly sent into every nation a messenger, [saying], "Worship Allah and avoid Taghut (all false deities)."** [Quran, an-Nahl:36]
+<p dir="rtl">
+﴿ وَمَاۤ اَرۡسَلۡنَا مِنۡ قَبۡلِكَ مِنۡ رَّسُوۡلٍ اِلَّا نُوۡحِىۡۤ اِلَيۡهِ اَنَّهٗ لَاۤ اِلٰهَ اِلَّاۤ اَنَا فَاعۡبُدُوۡنِ‏ ﴾ 
+</p>
+
+**"And We did not send any Messenger before you (O Muhammad) but We inspired him (saying): 'La ilaha illa Ana [none has the right to be worshipped but I (Allah)], so worship Me (Alone and none else).'"** [Quran, al-Anbiya:25]
+
+<p dir="rtl">
+﴿ وَلَـقَدۡ بَعَثۡنَا فِىۡ كُلِّ اُمَّةٍ رَّسُوۡلًا اَنِ اعۡبُدُوا اللّٰهَ وَاجۡتَنِبُوا الطَّاغُوۡتَ​ۚ ﴾
+</p>
+
+**"And verily, We have sent among every Ummah (community, nation) a Messenger (proclaiming): 'Worship Allâh (Alone), and avoid (or keep away from) Taghut (all false deities i.e. do not worship Taghut besides Allâh).'"** [Quran, an-Nahl:36]
 
 Allah tells us that Islam is the religion of all the Prophets.
 
@@ -32,7 +43,7 @@ Allah tells us that Islam is the religion of all the Prophets.
 ﴿ مَا كَانَ اِبۡرٰهِيۡمُ يَهُوۡدِيًّا وَّلَا نَصۡرَانِيًّا وَّ لٰكِنۡ كَانَ حَنِيۡفًا <mark>مُّسۡلِمًا</mark> ؕ وَمَا كَانَ مِنَ الۡمُشۡرِكِيۡنَ‏ ﴾
 </p>
 
-**"Abraham was neither a Jew nor a Christian, but he was one inclining toward truth, a Muslim [submitting to Allah]. And he was not of the polytheists."** [Quran, Aal 'Imran :67]
+**"Abraham was neither a Jew nor a Christian, but he was one inclining toward truth, a Muslim [submitting to Allah], and he was not of the polytheists."** [Quran, Aal 'Imran :67]
 
 Shaykhul-Islam Ibn Taymiyyah (may Allah have mercy on him) said in ar-Risalah at-Tadmuriyyah p.173-174: 
 
