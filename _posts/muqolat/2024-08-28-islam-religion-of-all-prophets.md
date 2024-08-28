@@ -8,6 +8,7 @@ date: 2024-08-28
 source: "ar-Risalah at-Tadmuriyyah p.173-174"
 lang: en
 locale: en
+active: muqolat
 category: [muqolat]
 note: false
 excerpt: "The religion of all the Messengers is Islam, but their laws varied. This means obeying Allah at any given time by doing what He commanded at that time."
@@ -17,13 +18,13 @@ authors:
       url: https://instagram.com/alsalafiyyah
 ---
 
-The mission of all Messengers was to call for the worship of Allah Alone without associating any partners with Him, and the word Islam, in general meaning refers to worshipping Allah Alone without partners or <mark>submitting to Allah Alone</mark>. Allah Ta'ala Says:
+The mission of all Messengers was to call for the worship of Allah Alone without associating any partners with Him, and the word Islam, in general meaning refers to worshipping Allah Alone without partners or <submitting to Allah Alone. Allah Ta'ala Says:
 
-**"And I (Allah) did not create the jinn and mankind except to worship Me."** [Quran adh-Dhariyat :56]
+**"And I (Allah) did not create the jinn and mankind except to worship Me."** [Quran, adh-Dhariyat :56]
 
-**And We did not send any Messenger before you (O Muhammad) but We inspired him (saying): La ilaha illa Ana [none has the right to be worshipped but I (Allah)], so worship Me (Alone and none else)."** [Quran al-Anbiya:25]
+**And We did not send any Messenger before you (O Muhammad) but We inspired him (saying): La ilaha illa Ana [none has the right to be worshipped but I (Allah)], so worship Me (Alone and none else)."** [Quran, al-Anbiya:25]
 
-**"And We certainly sent into every nation a messenger, [saying], "Worship Allah and avoid Taghut (all false deities)."** [Quran an-Nahl:36]
+**"And We certainly sent into every nation a messenger, [saying], "Worship Allah and avoid Taghut (all false deities)."** [Quran, an-Nahl:36]
 
 Allah tells us that Islam is the religion of all the Prophets.
 
@@ -31,7 +32,7 @@ Allah tells us that Islam is the religion of all the Prophets.
 مَا كَانَ اِبۡرٰهِيۡمُ يَهُوۡدِيًّا وَّلَا نَصۡرَانِيًّا وَّ لٰكِنۡ كَانَ حَنِيۡفًا <mark>مُّسۡلِمًا</mark> ؕ وَمَا كَانَ مِنَ الۡمُشۡرِكِيۡنَ‏ 
 </p>
 
-**"Abraham was neither a Jew nor a Christian, but he was one inclining toward truth, a Muslim [submitting to Allah]. And he was not of the polytheists."** [Quran Aal 'Imran :67]
+**"Abraham was neither a Jew nor a Christian, but he was one inclining toward truth, a Muslim [submitting to Allah]. And he was not of the polytheists."** [Quran, Aal 'Imran :67]
 
 Shaykhul-Islam Ibn Taymiyyah (may Allah have mercy on him) said in ar-Risalah at-Tadmuriyyah p.173-174: 
 
