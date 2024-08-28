@@ -82,9 +82,9 @@ The Prophet ﷺ said: **“The strongest bond of faith is taking believers as al
 
 **(17).** We do not declare a Muslim to be an unbeliever due to a major sin so long as his sin does not reach the level of kufr (disbelief).
 
-**(18).** We hold it to be impermissible to kill or transgress against non-muslims living in a Muslim lands or under Muslim rule, and Allah does not forbid us to showing kindness to non-Muslims who are not fighting Muslims. 
+**(18).** We hold it to be impermissible to kill non-muslims living in Muslim lands or under Muslim rule, or transgress against their rights or to be unjust towards them, for Allah forbid us to do so, and He does not forbid us showing kindness to them (non-Muslims) who are not fighting Muslims. 
 
-Concerning that the Prophet ﷺ said: **“Whoever kills a mu‘ahid (a non-Muslim living under Muslim rule) will not smell the fragrance of Paradise, although its fragrance may be detected from a distance of forty years.”** [^14] 
+Concerning that the Prophet ﷺ said: **“Whoever kills a mu‘ahid (a non-Muslim living under Muslim rule) will not smell the fragrance of Paradise, although its fragrance may be detected from a distance of forty years.”** [^12] 
 
 Allah Ta'ala says: **“Allah does not forbid you to deal justly and kindly with those who fought not against you on account of religion and did not drive you out of your homes. Verily, Allah loves those who deal with equity.”** (al-Mumtahinah [60]:8)
 
@@ -93,9 +93,9 @@ Allah Ta'ala says: **“Allah does not forbid you to deal justly and kindly with
 
 **(1).** To spread Islamic Monotheism, Prophetic Sunnah, and presenting the pure Islamic teachings. 
 
-**(2).** To enrich the viewers' knowledge and dispel ignorance, for seeking knowledge and asking the scholars is prescribed in Islam. And indeed the cure for ignorance is to question and to learn as the Prophet ﷺ said: **“Seeking knowledge is an obligation upon every Muslim.”** [^12]
+**(2).** To enrich the viewers' knowledge and dispel ignorance, for seeking knowledge and asking the scholars is prescribed in Islam. And indeed the cure for ignorance is to question and to learn as the Prophet ﷺ said: **“Seeking knowledge is an obligation upon every Muslim.”** [^13]
 
-And he ﷺ said, **“Verily, the only cure for ignorance is to ask questions.”** [^13]
+And he ﷺ said, **“Verily, the only cure for ignorance is to ask questions.”** [^14]
 
 Allah Ta'ala says: **“So ask those who possess knowledge if you do not know”** (Quran, an-Nahl [16]:43)
 
@@ -117,6 +117,6 @@ Allah Ta'ala says: **“So ask those who possess knowledge if you do not know”
 [^9]: Al-Bukhari no. 3379. 
 [^10]: Muslim 867 and an-Nasa’i 1578.
 [^11]: Sahih al-Jami‘ as-Saghir by Al-Albani no. 2539.
-[^12]: Sahih Ibn Majah 224.
-[^13]: Sunan Abi Dawud 336
-[^14]: Al-Bukhari 2995 
+[^12]: Al-Bukhari 2995 
+[^13]: Sahih Ibn Majah 224.
+[^14]: Sunan Abi Dawud 336
