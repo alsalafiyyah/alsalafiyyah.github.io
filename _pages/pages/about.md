@@ -80,13 +80,18 @@ The Prophet ﷺ said: **“The strongest bond of faith is taking believers as al
 
 **(16).** We hold that Iman (Faith) is belief in the heart, words on the tongue and actions of the body, and that Faith may increases or decreases. Faith is increased by obeying Allah, and it decreases when one disobeys Him.
 
-**(17).** We do not declare a Muslim to be an unbeliever due to a major sin so long as his sin does not reach the level of kufr (disbelief).
+**(17).** We do not declare a Muslim to be an unbeliever due to a major sin so long as his sin does not reach the level of kufr (disbelief). 
 
 **(18).** We hold it to be impermissible to kill non-muslims living in Muslim lands or under Muslim rule, or transgress against their rights or to be unjust towards them, for Allah and His Messenger Muhammad ﷺ forbid us to do so, and Allah does not forbid us showing kindness to them (non-Muslims) who are not fighting Muslims. 
 
 Concerning that the Prophet ﷺ said: **“Whoever kills a mu‘ahid (a non-Muslim living under Muslim rule) will not smell the fragrance of Paradise, although its fragrance may be detected from a distance of forty years.”** [^12] 
 
 Allah Ta'ala says: **“Allah does not forbid you to deal justly and kindly with those who fought not against you on account of religion and did not drive you out of your homes. Verily, Allah loves those who deal with equity.”** (al-Mumtahinah [60]:8)
+
+**(19).** We believe that the Prophet Muhammad ﷺ is the Seal of the Prophets and Messengers and that there is no Prophet or Messenger after him.  
+
+**“but he is the Messenger of Allah and the last (end) of the Prophets”** (Quran, al-Ahzab [33]:40)
+
 
 ---
 ### Our Aims
