@@ -1,7 +1,7 @@
 <table>
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2">
-{% for post in site.posts %}
-{% assign posts = site.posts | where_exp: "post", "post.categories contains 'muqolat'" %}  
+{% assign posts = site.posts | where_exp: "post", "post.categories contains 'muqolat'" %}
+{% for post in site.posts %}  
 {% if post.categories contains 'muqolat' %} 
 {% if post.url %}
 <tr><td> 
