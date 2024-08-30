@@ -1,0 +1,75 @@
+<header role="banner" vocab="http://schema.org" itemtype="WPHeader" class="fixed-top bg-transparent">
+<div class="collapse" id="navbarToggleExternalContent" data-bs-theme="dark">  
+ <div class="bg-dark p-4" itemscope itemtype="http://schema.org/WebSite">
+   <p class="text-body-emphasis">
+    {{ site.data.setting.page.search }}
+   </p>
+  <meta itemprop="url" content="{% if page.locale == 'en' %}{{ site.data.locales[page.locale].site.url }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].site.url }}{% else %}{{ site.url }}{% endif %}"/>
+  <form class="d-flex" role="search" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" action="{% if page.locale == 'en' %}{{ site.data.locales[page.locale].site.url_search }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].site.url_search }}{% else %}https://alsalafiyyah.github.io/search{% endif %}">
+  <meta itemprop="target" content="{% if page.locale == 'en' %}{{ site.data.locales[page.locale].site.url_search }}?q={q}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].site.url_search }}?q={q}{% else %}https://alsalafiyyah.github.io/search?q={q}{% endif %}"/>  
+<div class="input-group mb-3" itemprop="query-input" itemscope itemtype="http://schema.org/PropertyValueSpecification">
+  <meta itemprop="valueName" content="q"/>
+  <input 
+    type="search" 
+    class="form-control shadow-none border-danger" 
+    placeholder="{{ site.data.setting.page.search }}"
+    aria-label="Search" 
+    aria-describedby="button-addon2"
+    name="q" 
+    id="tipue_search_input" 
+    itemprop="query-input"
+    pattern=".{3,}" 
+    title="At least 3 characters" 
+    required>
+  <button 
+   class="btn btn-danger" 
+   type="submit" 
+   id="button-addon2">
+   {{ site.data.setting.page.search }}
+  </button>
+</div>            
+    </form>
+    <p class="mt-3"> 
+    <button 
+        type="button" 
+        class="btn btn-link"
+        data-bs-toggle="offcanvas" 
+        data-bs-target="#offcanvasBottom" 
+        aria-controls="offcanvasBottom">
+     Search with Google instead
+    </button>
+     </p>
+  </div>
+</div>        
+
+<nav class="navbar" id="navbar" role="navigation" vocab="http://schema.org" itemtype="SiteNavigationElement">
+<div class="hstack gap-3 shadow-sm card card-body bg-transparent border-0 border-radius-0" style="padding: 10px !important;">
+  <div class="container-fluid inline-flex">
+    <a itemprop="url" class="navbar-brand d-none d-lg-block" href="{{ site.url | escape }}">
+      <h1 itemprop="name">
+       {{ site.data.setting.site.title | default: site.title | escape }}
+      </h1>      
+    </a>
+    <a itemprop="url" href="{{ site.url | escape }}" class="d-block d-lg-none my-8">
+      <img src="https://alsalafiyyah.github.io/assets/images/red_logo.png" class="img-fluid" alt="logo of {{ site.title }}" width="100px"/>
+    </a>
+    <div class="vr text-dark"></div>
+    <button class="navbar-search shadow-none btn btn-danger" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="bi bi-search"></span>
+    </button>
+  </div>
+  <ul class="nav">
+    {% for item in site.data.setting.nav %}
+    <li class="nav-item">
+     <a property="url" class="nav-link icon-link" href="{{ item.url }}">
+      {{ item.name }}
+     </a>
+    </li>
+    {% endfor %}
+  </ul>
+  <button class="navbar-search shadow-none btn btn-danger" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="bi bi-search"></span>
+  </button>
+</nav>
+</div>
+</header>
