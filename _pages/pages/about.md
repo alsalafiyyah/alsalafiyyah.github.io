@@ -40,7 +40,7 @@ And he ﷺ said: **“Pay attention to my Sunnah (way) and the way of the Rightl
 
 **“There is nothing like unto Him, and He is the All-Hearer, the All-Seer”** (Quran, ash-Shura [42]:11)
 
-**(6).** We believe in His Angels, His Books, His Prophets and Messengersz and al-Qada wal-Qadar (Divine will and decree). 
+**(6).** We believe in His Angels, His Books, His Prophets and Messengers and al-Qada wal-Qadar (Divine will and decree). 
 
 **(7).** We believe in the Resurrection after death, Paradise and Hell, the Last Day, the Sirat (a bridge over Hell in the Hereafter), the Cistern, the Throne, the punishment of the grave, and so on. We believe in them implicitly as narrated in the reports.
 
