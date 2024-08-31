@@ -42,25 +42,6 @@
     </div>
   </div>
 
-  <div class="accordion-item border-danger bg-transparent">
-    <h2 class="accordion-header">
-      <button class="accordion-button collapsed bg-transparent fw-semibold shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#social_media" aria-expanded="false" aria-controls="social_media" style="font-size: 1.2rem;">
-        Social Media
-      </button>
-    </h2>
-    <div id="social_media" class="accordion-collapse collapse" data-bs-parent="#accordionFooter">
-     <div class="accordion-body">
-      <ul class="list-group list-group-flush">
-       {% for item in site.data.setting.social_icons_footer %}
-        <li class="list-group-item bg-transparent" style="margin: 0px !important;padding: 0px !important;font-size: 1.2rem;">
-         <a href="{{ item.url }}"><i class="bi bi-{{ item.icon }}"></i> {{ item.name }}</a>
-        </li>
-       {% endfor %}
-      </ul>
-      </div>
-    </div>
-  </div>
-
 </div><!-- /Accordion footer --> 
 
 <!-- Desktop -->  
