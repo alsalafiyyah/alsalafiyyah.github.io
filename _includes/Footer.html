@@ -86,31 +86,29 @@
       {% endfor %}
      </ul>
     </div>
-    <div class="col">
-     <h4>Social Media</h4>
-     <ul class="list-group list-group-flush">
-      {% for item in site.data.setting.social_icons_footer %}
-       <li class="list-group-item">
-        <a href="{{ item.url }}"><i class="bi bi-{{ item.icon }}"></i> {{ item.name }}</a>
-       </li>
-      {% endfor %}
-     </ul>
-    </div>
   </div>
 </div><!-- /Desktop -->
   
 <hr class="border-danger"/>
 
- <div class="row text-center mt-3 row-cols-1 row-cols-sm-2 row-cols-md-2">
-  <div class="col">
+<div class="row text-center mt-3 row-cols-1 row-cols-sm-2 row-cols-md-2">
+<div class="col">
+<ul class="list-inline text-center">
+  {% for item in site.data.setting.social_icons_footer %}
+  <li class="list-inline-item">
+   <a target="_blank" href="{{ item.url }}" rel="nofollow">
+    <span class="badge rounded-pill text-bg-danger"><i class="bi bi-{{ item.icon }} fs-5"></i></span></a>
+   </li>
+  {% endfor %}
+</ul>
+</div>
+<div class="col">
    &copy; <span property="copyrightYear">{{ 'now' | date: "%Y" }}</span> 
     <span property="copyrightHolder" vocab="http://schema.org" itemtype="Person">
      <span property="name">
      {{ site.title }}
      </span>
-    </span>
-  </div>
- <div class="col">
+    </span>   
    <span>
      {{ site.slogan }}
    </span>
