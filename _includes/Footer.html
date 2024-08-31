@@ -2,48 +2,6 @@
 <footer role="contentinfo" vocab="http://schema.org" itemtype="WPFooter" class="footer mt-auto py-3">
 <div class="container"><!-- Container -->  
 
-<div class="accordion accordion-flush is_mobile d-lg-none" id="accordionFooter"><!-- Accordion footer -->
-  
-  <div class="accordion-item border-danger bg-transparent">
-    <h2 class="accordion-header">
-      <button class="accordion-button collapsed bg-transparent fw-semibold shadow-none h4" type="button" data-bs-toggle="collapse" data-bs-target="#footer_quick_links" aria-expanded="false" aria-controls="footer_quick_links" style="font-size: 1.2rem;">
-        Subject
-      </button>
-    </h2>
-    <div id="footer_quick_links" class="accordion-collapse collapse" data-bs-parent="#accordionFooter">
-     <div class="accordion-body">
-      <ul class="list-group list-group-flush">
-       {% for item in site.data.setting.aside_quick_links %}
-        <li class="list-group-item bg-transparent" style="margin: 0px !important;padding: 0px !important;font-size: 1.2rem;">
-         <a href="{{ item.url }}">{{ item.name }}</a>
-        </li>
-       {% endfor %}
-      </ul>
-      </div>
-    </div>
-  </div>
-
-  <div class="accordion-item border-danger bg-transparent">
-    <h2 class="accordion-header">
-      <button class="accordion-button collapsed bg-transparent fw-semibold shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#aside_external_links" aria-expanded="false" aria-controls="aside_external_links" style="font-size: 1.2rem;">
-        Site
-      </button>
-    </h2>
-    <div id="aside_external_links" class="accordion-collapse collapse" data-bs-parent="#accordionFooter">
-     <div class="accordion-body">
-      <ul class="list-group list-group-flush">
-       {% for item in site.data.setting.aside_external_links %}
-        <li class="list-group-item bg-transparent" style="margin: 0px !important;padding: 0px !important;font-size: 1.2rem;">
-         <a href="{{ item.url }}">{{ item.name }}</a>
-        </li>
-       {% endfor %}
-      </ul>
-      </div>
-    </div>
-  </div>
-
-</div><!-- /Accordion footer --> 
-
 <!-- Desktop -->  
 <div class="is_desktop d-none d-lg-block">
   <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2">
@@ -72,13 +30,15 @@
   
 <hr class="border-danger"/>
 
+{% include Mobile_Footer.html %}
+  
 <div class="row text-center mt-3 row-cols-1 row-cols-sm-2 row-cols-md-2">
 <div class="col">
 <ul class="list-inline text-center">
   {% for item in site.data.setting.social_icons_footer %}
-  <li class="list-inline-item">
+  <li class="list-inline-item texr-dark">
    <a target="_blank" href="{{ item.url }}" rel="nofollow">
-    <span class="badge rounded-pill text-bg-danger"><i class="bi bi-{{ item.icon }}"></i></span></a>
+    <span><i class="bi bi-{{ item.icon }} fs-4"></i></span></a>
    </li>
   {% endfor %}
 </ul>
