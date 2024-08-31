@@ -15,7 +15,7 @@
 }
 html, body { 
  height: 100%; 
- display: var(--flex);
+ display: var(--display-flex) !important;
  flex-direction: var(--flex-direction);
  background-color: var(--bg-body) !important;
  color: var(--black);
