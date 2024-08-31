@@ -23,8 +23,6 @@ nav:
   - name: Categories
     url: /category
     active: category
-  - name: About
-    url: /about/    
 
 aside_quick_links:
   - name: Bid'ah
@@ -41,12 +39,10 @@ aside_external_links:
     url: /feed
   - name: Sitemap
     url: /sitemap
-  - name: Events
-    url: /events
+  - name: About us
+    url: /about
   - name: Search Fatwas (Arabic)
-    url: https://al-fatawa.com/
-  - name: Brand logo
-    url: https://alsalafiyyah.github.io/assets/images/red_logo.png
+    url: https://al-fatawa.com/ 
 
 footer:
   - name: Sitemap
@@ -71,10 +67,6 @@ social_icons_footer:
     username: Alsalafiyyah
     icon: youtube
     url: https://youtube.com/@alsalafiyyah
-  - name: Soundcloud
-    username: Alsalafiyyah
-    icon: cloud
-    url: https://soundcloud.com/alsalafiyyah
 
 page:
   next: Next
