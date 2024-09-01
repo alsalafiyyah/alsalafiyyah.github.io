@@ -33,27 +33,7 @@
   </a>
   <meta itemprop="position" content="2" />
   </li>
-  {% endif %}   
-
-  {% if page.active == "biography" %}
-   <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-    <a class="link-opacity-50-hover" itemprop="item" href="/biography">
-     <span itemprop="name">
-      Scholars Biographies
-     </span>
-    </a>
-    <meta itemprop="position" content="2" />
-   </li>
-   {% elsif page.active == "radd" %}
-   <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-    <a class="link-opacity-50-hover" itemprop="item" href="/radd">
-     <span itemprop="name">
-      Refutals
-     </span>
-    </a>
-    <meta itemprop="position" content="2" />
-  </li>
-  {% endif %}
+  {% endif %} 
     
   <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
    <span itemprop="name">{{ page.title | truncate: 50 }}</span>
