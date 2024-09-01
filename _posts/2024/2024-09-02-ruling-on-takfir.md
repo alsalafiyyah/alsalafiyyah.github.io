@@ -25,5 +25,5 @@ Takfir of a particular individual who commits what would necessitate kufr (disbe
 
 As for cursing a particular individual like the one who sinned from amongst the Muslims, then that which is correct is that it is impermissible, because the Prophet ﷺ said to ‘Umar in the incident when he said to Nu’ayman as is found in Sahih Al-Bukhari: **“May Allah disgrace you, how many times have you been bought out?” So the Prophet ﷺ said: "Do not aid the Satan upon your brother"**. 
 
-So the like of the takfir on a particular individual who commits what would necessitate kufr due to it – then Imam Ash-Shafi’i (may Allah Ta'ala have mercy o nhim) said concerning Hafs Al-Fard: **“He is a kafir due to the fact that he says: the Qur’an is created”**.
+So the like of the takfir on a particular individual who commits what would necessitate kufr due to it – then Imam Ash-Shafi’i (may Allah Ta'ala have mercy on him) said concerning Hafs Al-Fard: **“He is a kafir due to the fact that he says: the Qur’an is created”**.
 
