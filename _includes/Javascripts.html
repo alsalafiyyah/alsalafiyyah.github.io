@@ -46,7 +46,18 @@ $( document ).ready(function() {
      $('.navbar-search  .bi').addClass('bi-x-lg');
    }
   });
-});    
+});
+$(document).ready(function(){
+$('.navbar-menu').click(function(){ 
+if($('.navbar-menu').hasClass('collapsed')){
+$('.navbar-menu .bi').removeClass('bi-x-lg');
+$('.navbar-menu .bi').addClass('bi-list');
+}else{
+$('.navbar-menu .bi').removeClass('bi-list');
+$('.navbar-menu .bi').addClass('bi-x-lg');
+}
+});
+});  
 </script>
 <script type="text/javascript">
 var clipboard = new ClipboardJS('.btn-copy');
