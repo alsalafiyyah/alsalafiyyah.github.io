@@ -17,18 +17,18 @@ muftis:
 ---
 
 ### Question:
-Are the Prophets mentioned in the saying of Allah, the Most High: **“Verily, We have inspired you (O Muhammad) as We inspired Nooh…"**, Messengers or not? And who is the first Messenger?
+Are the Prophets mentioned in the saying of Allah, the Most High: **“Verily, We have inspired you (O Muhammad (peace and blessings be upon him)) as We inspired Nooh…"**, Messengers or not? And who is the first Messenger?
 
 ### Answer:
-The Prophets mentioned in the saying of Allaah, the Most High: **“Verily, We have inspired you (O Muhammad) as We inspired Nuh (Noah) and the Prophets after him.”** [An-Nisa’ (4):163]
+The Prophets mentioned in the saying of Allaah, the Most High: **“Verily, We have inspired you (O Muhammad (peace and blessings be upon him)) as We inspired Nuh (Noah) and the Prophets after him.”** [An-Nisa’ (4):163]
 
 The ones who are mentioned in the context of the saying of Allah, the Most High, are all Messengers: **“Messengers as bearers of good news as well as of warning in order that mankind should have no plea against Allah after the Messengers.”** [An-Nisa’ (4):165]
 
-And all the Prophets who are mentioned in the Qur’aan are Messengers because of the saying of Allaah, the Most High: **“And, indeed We have sent Messengers before you (O Muhammad); of some of them We have related to you their story and of some We have not related to you their story.”** [Ghafir (40):78]
+And all the Prophets who are mentioned in the Qur’an are Messengers because of the saying of Allah, the Most High: **“And, indeed We have sent Messengers before you (O Muhammad (peace and blessings be upon him)); of some of them We have related to you their story and of some We have not related to you their story.”** [Ghafir (40):78]
 
 And the first of the Messengers is Nuh (Noah and the last of them is Muhammad ﷺ because of the saying of Allaah, the Most High: **“As We inspired Nooh and the Prophets after him.”*** [An-Nisa (4):163]
 
-And it is established in a hadeeth regarding intercession that the people will come to Nooh and they will say to him: **“You are the first Messenger that Allaah sent to mankind.”**
+And it is established in a hadeeth regarding intercession that the people will come to Noah and they will say to him: **“You are the first Messenger that Allah sent to mankind.”**
 
 And to the saying of Allah, the Most High about Prophet Muhammad ﷺ: **“Muhammad is not the father of any man among you, but he is the Messenger of Allah and the last (end) of the Prophets.”** [Al-Ahzab (33):40]
 
