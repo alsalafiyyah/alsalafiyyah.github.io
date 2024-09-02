@@ -7,10 +7,16 @@ source: "Gharatul Ashritah 2/290"
 lang: en
 locale: en
 date: 2024-09-02
-category: [fatwas]
+category: [fatwas,audios]
 note: false
+active: audios
 excerpt: "Takfir of a particular individual who commits what would necessitate disbelief due to it, then there is nothing wrong in making takfir of him."
 translated_by: "Abu Hatim Muhammad Faruq"
+mp3: "https://www.muqbel.net/files/fatwa/muqbel-fatwa4337.mp3"
+article_taken_from: 
+  taken_from:
+    - web_title: هل يجوز تكفير المعين
+      web_url: https://www.muqbel.net/fatwa.php?fatwa_id=4337
 muftis:
   shaykh: 
     - name: "Shaykh Muqbil Ibn Hadi Al-Wadi'i"
