@@ -2,7 +2,6 @@
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>  
 <script type="text/javascript" src="https://unpkg.com/vanilla-datatables@latest/dist/vanilla-dataTables.min.js"></script>  
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.4/clipboard.min.js"></script>
 <script type="text/javascript" src="https://rawgit.com/melbon/jquery.copiq/master/jquery.copiq.min.js"></script>
 {% include tipue.html %}
 <script type="text/javascript" language="javascript">
@@ -61,19 +60,6 @@ $('.navbar-menu .bi').addClass('bi-x-lg');
 });  
 </script>
 <script type="text/javascript">
-var clipboard = new ClipboardJS('.btn-copy');
-clipboard.on('success', function(e) {
-    console.info('Action:', e.action);
-    console.info('Text:', e.text);
-    console.info('Trigger:', e.trigger);
-    e.clearSelection();
-});
-clipboard.on('error', function(e) {
-    console.error('Action:', e.action);
-    console.error('Trigger:', e.trigger);
-});
-</script>
-<script type="text/javascript">
   if('serviceWorker' in navigator) {
     window.addEventListener('load', () => {
       navigator.serviceWorker.register('/sw.js')
@@ -102,7 +88,7 @@ $(function () {
 })
 </script>
 <script type="text/javascript">
-    $('button').copiq({
+    $('.button-url-copy').copiq({
         parent: '.item',
         content: '.text',
         onSuccess: function($element, source, selection) {
