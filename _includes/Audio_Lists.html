@@ -114,15 +114,23 @@
       {% endif %}
      </div> 
      <div class="text-wrap" style="width: 9rem;">
-      <span itemprop="datePublished" content="{{ post.date | to_utc | date: "%Y%m%dT%H:%M:%S%:z" }}">
-       {{ post.hijri }}
-       <a role="button" 
-          class="text-danger" 
-          data-bs-toggle="tooltip" 
-          data-bs-title="{{ post.date | date: '%b %d, %Y' }}">
-          <i class="bi bi-info-circle"></i>
-       </a>
-      </span>
+     <button 
+       tabindex="0" 
+       role="button" 
+       type="button" 
+       class="btn btn-sm btn-link" 
+       style="padding: 0px; margin: 0px; text-align: left; text-decoration: none; color: #000100;" 
+       data-bs-toggle="popover" 
+       data-bs-title="Published Date" 
+       data-bs-trigger="focus" 
+       data-bs-custom-class="customDate" 
+       data-bs-content="{{ post.date | date: '%b %d, %Y' }}">
+       <i class="bi bi-info-circle text-danger"></i> 
+       <span itemprop="datePublished" 
+         content="{{ post.date | to_utc | date: "%Y%m%dT%H:%M:%S%:z" }}">
+         {{ post.hijri }}
+       </span>
+     </button>
      </div>
     </div>    
    </div>
