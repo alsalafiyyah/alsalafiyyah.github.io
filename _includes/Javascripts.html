@@ -5,7 +5,8 @@
 <script type="text/javascript" src="https://rawgit.com/melbon/jquery.copiq/master/jquery.copiq.min.js"></script>
 {% include tipue.html %}
 <script defer type="text/javascript">(function(a,b,c){if(c in b&&b[c]){var d,e=a.location,f=/^(a|html)$/i;a.addEventListener("click",function(a){d=a.target;while(!f.test(d.nodeName))d=d.parentNode;"href"in d&&(d.href.indexOf("http")||~d.href.indexOf(e.host))&&(a.preventDefault(),e.href=d.href)},!1)}})(document,window.navigator,"standalone")</script>
-  <script defer language="javascript" type="text/javascript">
+<script defer language="javascript" type="text/javascript">
+// Modified datw  
     function setAccessedDate() {
       if (document.getElementById('accessed-on')) {
         var now = new Date();
@@ -29,15 +30,14 @@
       }
     }
   </script>
-
-<script type="text/javascript" language="javascript">
+<script type="text/javascript">
   if('serviceWorker' in navigator) {
     window.addEventListener('load', () => {
       navigator.serviceWorker.register('/sw.js')
     })
   }
 </script>
-<script type="text/javascript" language="javascript">
+<script type="text/javascript">
 // Navigator share
 function callback(response) {
     console.log(response);
@@ -54,13 +54,14 @@ function onShareCLick() {
     }
 }  
 </script>
-
 <script type="text/javascript">
 // Table pagination
 var table = new DataTable("table", {
   searchable: false,
   perPageSelect: false
 });  
+</script>
+<script type="text/javascript">  
 // Animated navbar icon  
 $( document ).ready(function() {
   $('.navbar-search').click(function(){ 
@@ -84,7 +85,8 @@ $('.navbar-menu .bi').addClass('bi-x-lg');
 }
 });
 });  
-
+</script>
+<script type="text/javascript">
 // Copy to clipboard  
     $('.button-url-copy').copiq({
         parent: '.item',
@@ -96,7 +98,8 @@ $('.navbar-menu .bi').addClass('bi-x-lg');
             }, 2000);
         }
     });
-
+</script>
+<script type="text/javascript">
 // Popover & Tooltips    
     var popoverTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="popover"]'))
     var popoverList = popoverTriggerList.map(function (popoverTriggerEl) {
