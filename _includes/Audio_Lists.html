@@ -3,7 +3,7 @@
 {% for post in site.posts %}
 {% if post.categories contains 'audios' %} 
 {% if post.url %}
-<tr><td style="padding: 0px !important; margin: 0px !important;"> 
+<tr><td style="padding: 0px !important; margin: 10px !important;"> 
 <!-- Item loop -->
   <div itemscope itemtype="https://schema.org/NewsArticle" class="col mb-3 fatwas">
    <meta itemprop="image" content="{{ '/assets/images/fb.jpg' | absolute_url }}" />
@@ -115,9 +115,10 @@
      </div> 
      <div class="text-wrap" style="width: 9rem;">
        <a role="button" 
+          class="link-dark" 
           data-bs-toggle="tooltip" 
           data-bs-title="{{ post.date | date: '%b %d, %Y' }}">
-          <i class="bi bi-info-circle-fill text-danger"></i> 
+          <i class="bi bi-info-circle text-danger"></i> 
           <span itemprop="datePublished" content="{{ post.date | to_utc | date: '%Y%m%dT%H:%M:%S%:z' }}" class="texr-dark">{{ post.hijri }}</span>
        </a>
      </div>
