@@ -24,7 +24,7 @@ muftis:
 ---
 
 ### Question:
-Is it allowed to declare a particular individual a disbeliever and did the Salaf declare a particular individual a disbeliever?
+Is it allowed to declare a particular individual a disbeliever and did the Salaf in the past declare a particular individual a disbeliever?
 
 ### Answer:
 Takfir of a particular individual who commits what would necessitate kufr (disbelief) due to it – by either going against clear proofs or making something haram into something halal, then there is nothing wrong in making takfir of him – but with the condition, as has preceded that he commits what would necessitate kufr due to it, otherwise it is as the Prophet ﷺ said as is found in the ‘Sahih (authentic)’ **"Whoever says to his brother ‘O kafir’, if it is as he says then so, otherwise it returns back to him."**
