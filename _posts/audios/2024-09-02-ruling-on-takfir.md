@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Did the Salaf declare a particular individual a disbeliever?"
 hijri: "Safar 29, 1446"
-source: "Gharatul Ashritah 2/290"
+source: "Gharatul Ashritah 2/291"
 lang: en
 locale: en
 date: 2024-09-02
