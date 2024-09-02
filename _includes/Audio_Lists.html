@@ -3,7 +3,7 @@
 {% for post in site.posts %}
 {% if post.categories contains 'audios' %} 
 {% if post.url %}
-<tr><td> 
+<tr><td style="padding: 0px !important; margin: 0px !important;"> 
 <!-- Item loop -->
   <div itemscope itemtype="https://schema.org/NewsArticle" class="col mb-3 fatwas">
    <meta itemprop="image" content="{{ '/assets/images/fb.jpg' | absolute_url }}" />
@@ -114,23 +114,12 @@
       {% endif %}
      </div> 
      <div class="text-wrap" style="width: 9rem;">
-     <button 
-       tabindex="0" 
-       role="button" 
-       type="button" 
-       class="btn btn-sm btn-link" 
-       style="padding: 0px; margin: 0px; text-align: left; text-decoration: none; color: #000100;" 
-       data-bs-toggle="popover" 
-       data-bs-title="Published Date" 
-       data-bs-trigger="focus" 
-       data-bs-custom-class="customDate" 
-       data-bs-content="{{ post.date | date: '%b %d, %Y' }}">
-       <i class="bi bi-info-circle text-danger"></i> 
-       <span itemprop="datePublished" 
-         content="{{ post.date | to_utc | date: "%Y%m%dT%H:%M:%S%:z" }}">
-         {{ post.hijri }}
-       </span>
-     </button>
+       <a role="button" 
+          data-bs-toggle="tooltip" 
+          data-bs-title="{{ post.date | date: '%b %d, %Y' }}">
+          <i class="bi bi-info-circle-fill text-danger"></i> 
+          <span itemprop="datePublished" content="{{ post.date | to_utc | date: '%Y%m%dT%H:%M:%S%:z' }}" class="texr-dark">{{ post.hijri }}</span>
+       </a>
      </div>
     </div>    
    </div>
