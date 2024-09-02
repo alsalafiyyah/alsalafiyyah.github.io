@@ -58,12 +58,18 @@
   </ul>
   </div>
 
-<div class="item mt-4">
-<div class="input-group text">    
-  <input type="text" class="form-control shadow-none border-danger input-sm" placeholder="{{ site.url }}{{site.baseurl}}{{ page.url }}" aria-label="{{ site.url }}{{site.baseurl}}{{ page.url }}" aria-describedby="button-copy">
-  <button class="btn btn-outline-danger shadow-none btn-sm" type="button" id="button-copy" data-text="Copy" data-text-copied="Copied"><i class="bi bi-copy"></i> <span>Copy</span></button>
+  <div class="input-group input-group-sm flex-nowrap mt-4">
+   <input 
+     id="copyUrl" 
+     type="text" 
+     class="form-control shadow-none border-danger" 
+     value="{{ site.url }}{{site.baseurl}}{{ page.url }}">
+   <button 
+     data-clipboard-target="#copyUrl" 
+     class="btn btn-outline-danger input-group-text btn-copy">
+     <i class="bi bi-copy"></i>
+   </button>
   </div>
-</div>
   
   </div>
 </div>
