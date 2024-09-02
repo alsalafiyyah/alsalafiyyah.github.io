@@ -3,6 +3,7 @@
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>  
 <script type="text/javascript" src="https://unpkg.com/vanilla-datatables@latest/dist/vanilla-dataTables.min.js"></script>  
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.4/clipboard.min.js"></script>
+<script type="text/javascript" src="https://rawgit.com/melbon/jquery.copiq/master/jquery.copiq.min.js"></script>
 {% include tipue.html %}
 <script type="text/javascript" language="javascript">
 var table = new DataTable("table", {
@@ -99,4 +100,16 @@ function onShareCLick() {
 $(function () {
     $('[data-bs-toggle="tooltip"]').tooltip()
 })
+</script>
+<script type="text/javascript">
+    $('button').copiq({
+        parent: '.item',
+        content: '.text',
+        onSuccess: function($element, source, selection) {
+            $('span', $element).text($element.attr("data-text-copied"));
+            setTimeout(function() {
+                $('span', $element).text($element.attr("data-text"));
+            }, 2000);
+        }
+    });
 </script>
