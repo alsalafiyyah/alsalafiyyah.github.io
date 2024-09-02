@@ -94,6 +94,11 @@ $('.navbar-menu .bi').addClass('bi-x-lg');
         }
     });
 </script>
+<script type="text/javascript">
+$(function () {
+    $('[data-bs-toggle="tooltip"]').tooltip()
+})
+</script>
 <script type="text/javascript">    
     var popoverTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="popover"]'))
     var popoverList = popoverTriggerList.map(function (popoverTriggerEl) {
