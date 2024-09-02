@@ -4,12 +4,6 @@
 <script type="text/javascript" src="https://unpkg.com/vanilla-datatables@latest/dist/vanilla-dataTables.min.js"></script>  
 <script type="text/javascript" src="https://rawgit.com/melbon/jquery.copiq/master/jquery.copiq.min.js"></script>
 {% include tipue.html %}
-<script type="text/javascript" language="javascript">
-var table = new DataTable("table", {
-  searchable: false,
-  perPageSelect: false
-});
-</script>
 <script defer type="text/javascript">(function(a,b,c){if(c in b&&b[c]){var d,e=a.location,f=/^(a|html)$/i;a.addEventListener("click",function(a){d=a.target;while(!f.test(d.nodeName))d=d.parentNode;"href"in d&&(d.href.indexOf("http")||~d.href.indexOf(e.host))&&(a.preventDefault(),e.href=d.href)},!1)}})(document,window.navigator,"standalone")</script>
   <script defer language="javascript" type="text/javascript">
     function setAccessedDate() {
@@ -35,7 +29,39 @@ var table = new DataTable("table", {
       }
     }
   </script>
+
+<script type="text/javascript" language="javascript">
+  if('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('/sw.js')
+    })
+  }
+</script>
+<script type="text/javascript" language="javascript">
+// Navigator share
+function callback(response) {
+    console.log(response);
+}
+function onShareCLick() {
+    if (navigator.share) {
+        navigator.share({
+                title: "{{ page.title }}",
+                text: "{{ page.excerpt }}",
+                url: window.location.href
+            })
+            .then(() => console.log('Successful share'))
+            .catch(error => console.log('Error sharing:', error));
+    }
+}  
+</script>
+
 <script type="text/javascript">
+// Table pagination
+var table = new DataTable("table", {
+  searchable: false,
+  perPageSelect: false
+});  
+// Animated navbar icon  
 $( document ).ready(function() {
   $('.navbar-search').click(function(){ 
    if($('.navbar-search').hasClass('collapsed')){
@@ -58,36 +84,8 @@ $('.navbar-menu .bi').addClass('bi-x-lg');
 }
 });
 });  
-</script>
-<script type="text/javascript">
-  if('serviceWorker' in navigator) {
-    window.addEventListener('load', () => {
-      navigator.serviceWorker.register('/sw.js')
-    })
-  }
-</script>
-<script type="text/javascript">
-function callback(response) {
-    console.log(response);
-}
-function onShareCLick() {
-    if (navigator.share) {
-        navigator.share({
-                title: "{{ page.title }}",
-                text: "{{ page.excerpt }}",
-                url: window.location.href
-            })
-            .then(() => console.log('Successful share'))
-            .catch(error => console.log('Error sharing:', error));
-    }
-}  
-</script>
-<script type="text/javascript">
-$(function () {
-    $('[data-bs-toggle="tooltip"]').tooltip()
-})
-</script>
-<script type="text/javascript">
+
+// Copy to clipboard  
     $('.button-url-copy').copiq({
         parent: '.item',
         content: '.text',
@@ -97,5 +95,15 @@ $(function () {
                 $('span', $element).text($element.attr("data-text"));
             }, 2000);
         }
+    });
+
+// Popover & Tooltips    
+    var popoverTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="popover"]'))
+    var popoverList = popoverTriggerList.map(function (popoverTriggerEl) {
+      return new bootstrap.Popover(popoverTriggerEl)
+    })
+    var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+    var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+      return new bootstrap.Tooltip(tooltipTriggerEl)
     });
 </script>
