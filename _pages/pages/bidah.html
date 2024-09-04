@@ -123,15 +123,13 @@ permalink: /bidah/
       {% endif %}
      </div> 
      <div class="text-wrap" style="width: 9rem;">
-      <span itemprop="datePublished" content="{{ post.date | to_utc | date: "%Y%m%dT%H:%M:%S%:z" }}">
-       {{ post.hijri }}
-       <a role="button" 
-          class="text-danger" 
+      <a role="button" 
+          class="link-dark" 
           data-bs-toggle="tooltip" 
           data-bs-title="{{ post.date | date: '%b %d, %Y' }}">
-          <i class="bi bi-info-circle"></i>
-       </a>
-      </span>
+          <i class="bi bi-info-circle text-danger"></i> 
+          <span itemprop="datePublished" content="{{ post.date | to_utc | date: '%Y%m%dT%H:%M:%S%:z' }}" class="text-dark">{{ post.hijri }}</span>
+      </a>
      </div>
     </div>    
    </div>
