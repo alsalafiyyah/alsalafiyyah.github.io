@@ -9,6 +9,8 @@
    {{ page.title | escape }}
   {% elsif post.title %}
    {{ post.title | escape }}
+  {% elsif site.categories[page.category] %}
+   Category: {{ category }}
   {% else %}
    {{ site.title | escape | default: 'Al-Salafiyyah' }}
   {% endif %}
