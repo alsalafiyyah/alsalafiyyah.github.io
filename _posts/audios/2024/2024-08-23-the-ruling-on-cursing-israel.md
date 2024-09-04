@@ -19,11 +19,11 @@ muftis:
       url: /biography/fawzan
 ---
 
-The Jews; their known name is **Yahud** (Yehudi; Judah followers [^1]). However, they have begun to say: '**Israel**', and Israel is **Ya’qub** (Jacob [^2]). **Ya’qub ibn Ishaq** [^3]. This is from their deception. 
+The Jews; their known name is **Yahud** (Yehudi; Judah followers [^1]). However, they have begun to say: '**Israel**', and Israel is **Ya’qub** (Jacob [^2]). **Ya’qub ibn Ishaq** [^3]. <mark>This is from their deception</mark>. 
 
-The problem is that some people supplicate for Allah to curse Israel. Meaning, they are cursing [the Noble Prophet] Ya’qub (peace be upon him). The person should beware of this. Saying: **“May Allah’s curse be upon Israel,”** NO !! 
+The problem is that some people supplicate for Allah to curse Israel. Meaning: they are cursing [the Noble Prophet] Ya’qub (peace be upon him)?
 
-Say: **“May Allah’s curse be upon the Jews,”** or **“May Allah curse the Jews,”**. Do not say: **“[May Allah curse] Israel.”**
+The person should beware of this saying: **“May Allah’s curse be upon Israel,”** NO !! Say: **“May Allah’s curse be upon the Jews,”** or **“May Allah curse the Jews,”**. Do not say: **“[May Allah’s curse be upon] Israel.”**
 
 [^1]: The word 'Yehudi' derived from the name Judah, which was the name of one of Jacob's twelve sons. Yehudi referred specifically to members of the tribe of Judah who follows the religion of Judah son of Jacob called Judah-ism (Yehudim, Judaism). 
 [^2]: Jacob : Ya'akov in Hebrew. 
