@@ -38,12 +38,13 @@ webmaster_verifications:
   bing              : "4F1A0A46CAA92F43191A0C4B37948DD7" # msvalidate.01
   yandex            : "ca07a6e68b1254db" # yandex verification
   domain_verify     : "6a0545495b6d882089f54152a3ef5f2c" # p:domain_verify
-  analytics         : "G-QC20WKL1N2" 
+  analytics         : "G-QC20WKL1N2" # google analystic
   google-ads        : "ca-pub-1975848559090325" # google-adsense-account
   norton-safeweb    : "52A5Z1I99X-9SKMGBF3GZXFPIJW3M9OZNUFSIEUNQYQEAEY4KKQDC0HTSBPDJMUQL5H1EE8JK6-27UONEJJNQA1QHRAZKZWA3LRE3M19YL-LM7LW7HIO1EAW44XSXYH1" # norton-safeweb-site-verification
   email_webmaster   : "arubalessandra@gmail.com" 
   gsearch_id        : "86abb96a2158b40ed" # google search engine ID
-  gtag_manager      : "G-QC20WKL1N2"
+  gtag_manager      : "G-QC20WKL1N2" # google tag
+  wot-verification  : "5e71c40c8e8939cc0eb5" # web of trust
 
 Tags                : '/tags/'
 tag_page            : '/tags/'
