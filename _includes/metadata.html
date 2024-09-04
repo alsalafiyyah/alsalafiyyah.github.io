@@ -1,17 +1,5 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>
-  {% if page.title %}
-   {{ page.title | escape }}
-  {% elsif post.title %}
-   {{ post.title | escape }}
-  {% elsif site.categories[page.category] %}
-   Category: {{ category }}
-  {% else %}
-   {{ site.title | escape | default: 'Al-Salafiyyah' }}
-  {% endif %}
-</title>
-{% include OgDesc.html %}
 
 <!-- IOS Meta -->
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -54,7 +42,6 @@
 <meta http-equiv='Page-Enter' content='RevealTrans(Duration=2.0,Transition=2)'>
 <meta http-equiv='Page-Exit' content='RevealTrans(Duration=3.0,Transition=12)'>
 <meta name='mssmarttagspreventparsing' content='true'>
-<meta name='msapplication-window' content='width=800;height=600'>
 <meta name='msapplication-navbutton-color' content='red'>
 <meta name='msapplication-tooltip' content='Launch {{ site.title }} Site'>
 <meta name='msapplication-starturl' content='{{ site.url }}'>
@@ -88,6 +75,20 @@
 <meta http-equiv='imagetoolbar' content='no'>
 <meta http-equiv='x-dns-prefetch-control' content='off'>
 <meta name='url' content='{{ site.url }}'>
+
+<title>
+  {% if page.title %}
+   {{ page.title | escape }}
+  {% elsif post.title %}
+   {{ post.title | escape }}
+  {% elsif site.categories[page.category] %}
+   Category: {{ category }}
+  {% else %}
+   {{ site.title | escape | default: 'Al-Salafiyyah' }}
+  {% endif %}
+</title>
+
+{% include OgDesc.html %}
 
 <!-- Meta URL Cannonical -->
 {% if page.url =='/' %}
