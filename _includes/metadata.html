@@ -1,9 +1,5 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/> 
-<meta name="MobileOptimized" content="320" />
-<meta name="generator" content="Jekyll v{{ jekyll.version }}" />
-<meta http-equiv='content-language' content='en'>
 <title>
   {% if page.title %}
    {{ page.title | escape }}
@@ -16,25 +12,61 @@
   {% endif %}
 </title>
 {% include OgDesc.html %}
-<meta name="mobile-web-app-capable" content="yes">
+
+<!-- IOS Meta -->
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-touch-fullscreen" content="yes">
-<meta name="HandheldFriendly" content="True">
 <meta name="apple-mobile-web-app-title" content="{{ site.title }}" />
 <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+<meta name='viewport' content='width=device-width; content='width = 320; initial-scale=1.0; maximum-scale=1.0; user-scalable=yes; target-densitydpi=160dpi'>
 <meta name="format-detection" content="telephone=no">
+
+<!-- Meta OpenGraph -->
 <meta property="og:site_name" content="{{ site.title }}" />
 <meta property="og:title" content="{% if page.title %}{{ page.title }}{% endif %}" />
 <meta property="og:image" content="{{ '/assets/images/fb.jpg' | absolute_url }}" />
+<meta property="og:type" content="website" />
+{% if page.url =='/' %}
+<meta property="og:url" content="{{ site.url }}" />
+{% else %}
+<meta property="og:url" content="{{ page.url | absolute_url }}" />
+{% endif %}
+
+<!-- Meta X Twitter -->
 <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-<meta name="twitter:url" content="{% if page.url %}{{ site.url }}{{ page.url }}{% endif %}">
+{% if page.url =='/' %}
+<meta property="twitter:url" content="{{ site.url }}" />
+{% else %}
+<meta property="twitter:url" content="{{ page.url | absolute_url }}" />
+{% endif %}
+
+<!-- Meta Verifications -->
 <meta name="p:domain_verify" content="{{ site.webmaster_verifications.domain_verify }}"/>
 <meta name="google-site-verification" content="{{ site.webmaster_verifications.google_site }}" />
 <meta name="yandex-verification" content="{{ site.webmaster_verifications.yandex }}" />
 <meta name="msvalidate.01" content="{{ site.webmaster_verifications.bing }}" />
 <meta name="google-adsense-account" content="{{ site.webmaster_verifications.google-ads }}">
 <meta name="norton-safeweb-site-verification" content="{{ site.webmaster_verifications.norton-safeweb }}" />
-<meta name="wot-verification" content="5e71c40c8e8939cc0eb5"/>
+<meta name="wot-verification" content="{{ site.webmaster_verifications.wot-verification }}"/>
+
+<!-- IE Meta -->
+<meta http-equiv='cleartype' content='on'>
+<meta http-equiv='Page-Enter' content='RevealTrans(Duration=2.0,Transition=2)'>
+<meta http-equiv='Page-Exit' content='RevealTrans(Duration=3.0,Transition=12)'>
+<meta name='mssmarttagspreventparsing' content='true'>
+<meta name='msapplication-window' content='width=800;height=600'>
+<meta name='msapplication-navbutton-color' content='red'>
+<meta name='msapplication-tooltip' content='Launch {{ site.title }} Site'>
+<meta name='msapplication-starturl' content='{{ site.url }}'>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+
+<!-- Basic Meta -->
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="MobileOptimized" content="320" />
+<meta name="generator" content="Jekyll v{{ jekyll.version }}" />
+<meta http-equiv='content-language' content='en'>
+<meta name="HandheldFriendly" content="True">
+<meta name='date' content='{{ site.time }}'>
 <meta property="og:locale" content="{{ page.locale }}" />
 <meta name="directory" content="submission">
 <meta name="news_keywords" content="{{ site.keywords }}">
@@ -49,29 +81,19 @@
 <meta name='target' content='all'>
 <meta name='identifier-URL' content='{{ site.url }}'>
 <meta name='directory' content='submission'>
-<meta itemprop='name' content='jQTouch'>
+<meta itemprop='name' content='{{ site.title }}'>
 <meta http-equiv='Expires' content='0'>
 <meta http-equiv='Pragma' content='no-cache'>
 <meta http-equiv='Cache-Control' content='no-cache'>
 <meta http-equiv='imagetoolbar' content='no'>
 <meta http-equiv='x-dns-prefetch-control' content='off'>
+<meta name='url' content='{{ site.url }}'>
 
-{% if page.url =='/' %}
-<link rel="alternate" hreflang="en" href="{{ site.url }}" />
-{% elsif page.url =='/en/' %}
-<link rel="alternate" hreflang="en" href="{{ site.url }}/en/" />
-<link rel="alternate" hreflang="en" href="{{ page.url | absolute_url }}"" />
-{% elsif page.url =='/ar/' %}
-<link rel="alternate" hreflang="ar" href="{{ site.url }}/ar/" />
-<link rel="alternate" hreflang="ar" href="{{ page.url | absolute_url }}"" />
-{% endif %}
-
+<!-- Meta URL Cannonical -->
 {% if page.url =='/' %}
 <link rel="canonical" href="{{ site.url }}" />
-<meta property="og:url" content="{{ site.url }}" />
 {% else %}
 <link rel="canonical" href="{{ page.url | absolute_url }}" />
-<meta property="og:url" content="{{ page.url | absolute_url }}" />
 {% endif %}
 
 {% if page.date %}
@@ -80,12 +102,14 @@
 {% else %}
 <meta property="og:type" content="website" />
 {% endif %}
+
 {% if paginator.previous_page %}
 <link rel="prev" href="{{ paginator.previous_page_path | absolute_url }}" />
 {% endif %}
 {% if paginator.next_page %}
 <link rel="next" href="{{ paginator.next_page_path | absolute_url }}" />
 {% endif %}
+
 <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ '/feed.xml' | absolute_url }}">
 <link href="{{ '/assets/images/apple_splash_1125.png' | absolute_url }}" sizes="1125x2436" rel="apple-touch-startup-image"/>
 <link href="{{ '/assets/images/apple_splash_1242.png' | absolute_url }}" sizes="1242x2208" rel="apple-touch-startup-image"/>
