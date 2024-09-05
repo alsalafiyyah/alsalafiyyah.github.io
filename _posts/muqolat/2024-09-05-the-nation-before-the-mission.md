@@ -7,6 +7,7 @@ hijri: "Rabiul Awwal 02, 1446"
 source: "Hidayat al-hayara fi ajwibat al-Yahud wa al-Nasara"
 lang: en
 locale: en
+active: muqolat
 date: 2024-09-05
 category: [muqolat]
 note: false
