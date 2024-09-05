@@ -49,8 +49,11 @@
        {{ site.data.setting.site.title | default: site.title | escape }}
       </h1>      
     </a>
-    <a itemprop="url" href="{{ site.url | escape }}" class="d-block d-lg-none my-8">
-      <img src="https://alsalafiyyah.github.io/assets/images/red_logo.png" class="img-fluid" alt="logo of {{ site.title }}" width="100px"/>
+    <a itemprop="url" href="{{ site.url | escape }}" class="d-block d-lg-none my-8 navbar-brand logo">
+      <img src="{{ '/assets/images/logo.svg' | absolute_url }}" 
+       class="img-fluid" 
+       alt="{{ site.title }}" 
+       width="100px"/>
     </a>
  <div class="vr text-dark"></div>
   <ul class="nav">
