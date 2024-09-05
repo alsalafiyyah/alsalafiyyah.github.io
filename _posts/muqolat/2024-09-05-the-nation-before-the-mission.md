@@ -20,16 +20,16 @@ muftis:
 
 Praise be to Allah.
 
-When God sent Muhammad (peace be upon him) the people on earth were of two groups: (1) **the people of the Book**, and (2) **the pretenders of faith who followed no Book**. 
+When God (Allah in Arabic) sent Muhammad (peace be upon him) the people on earth were of two groups: (1) **the people of the Book**, and (2) **the pretenders of faith who followed no Book**. 
 
 The people of the Book are of two kinds: (a) **the cursed ones**, and (b) **those who went astray (strayers)**. 
 
 --- 
 
 #### (a) The cursed ones :
-The people who angered God are <mark>the Jews</mark>: the people of lies and falsifications, of perfidy, deception, and chicanery, the murderers of the prophets, the people of usury, and they are the most malicious of all people in intentions, the worst in temperament, the farthest to mercy, and the closest to vengeance. Hatred is their nature, enmity and bitterness are their habits: habits of machination, lies, and trickery. 
+The people who angered God are <mark>the Jews</mark>: the people of lies and falsifications, of perfidy, deception, and chicanery, the murderers of the prophets, the people of usury, and they are the most malicious of all people in intentions, the worst in temperament, the farthest to mercy, and the closest to vengeance. 
 
-They consider those who disagree with them in their rejection of Faith and in their belying of the prophets as undeserving and forbidden from having rights. They do not expect to find in a true believer a shred of trustworthiness, neither do they consider those who agree with them as worthy of right or pity, nor those who have something to share with them as worthy of fairness and equity, or those who mix with them as reliable and untrecherous, or those who give service to them as worthy to give advice. In their midst, the most wicked is the wisest, the shrewdest is the most deceitful, the level-headed, who is never found among them, is not a true Jew. 
+Hatred is their nature, enmity and bitterness are their habits: habits of machination, lies, and trickery. They consider those who disagree with them in their rejection of Faith and in their belying of the prophets as undeserving and forbidden from having rights. They do not expect to find in a true believer a shred of trustworthiness, neither do they consider those who agree with them as worthy of right or pity, nor those who have something to share with them as worthy of fairness and equity, or those who mix with them as reliable and untrecherous, or those who give service to them as worthy to give advice. In their midst, the most wicked is the wisest, the shrewdest is the most deceitful, the level-headed, who is never found among them, is not a true Jew. 
 
 Among all people, they are the shortest in patience, the most excessive in wrongdoing to their families at home, the most unmindful for cleanliness at home, the most vicious in disposition. Greeting them is maledictive, meeting them is ominous, for their slogan is indignation and their attire in rancour. 
 
@@ -44,7 +44,7 @@ The belief of this sect is the worship of the crosses and the appeal to the pict
 
 Their religion is drinking wine, eating pork, abandoning circumcision, indulgence in adoring unclean things, permissiveness in eating everything unblessed for human consumption from an elephant to a gnat. To them what is lawful or unlawful is what the priest decides it is, and their religion is what he sanctions, and it is he who forgives sins and salvages them from the chastisement of Hell fire.  
 
-**This is the case of those who have a book.**
+**This is the case of those who have a Book.**
 
 ---
 
