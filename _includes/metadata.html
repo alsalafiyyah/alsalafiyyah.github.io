@@ -130,35 +130,35 @@
   gtag('config', '{{ site.webmaster_verifications.gtag_manager }}');
 </script>
 <!-- Clarity tracking code for https://alsalafiyyah.github.io/ --><script>    (function(c,l,a,r,i,t,y){        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);    })(window, document, "clarity", "script", "n477hgra2y");</script>
-<script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-     {
-        "@type": "Question",
-        "name": "What is Salafiyyah",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Salafism or Salafiyyah means adherence to path of the Messenger ﷺ, and his Companions. "
-        }
-      }, 
-      {
-        "@type": "Question",
-        "name": "Who are the Salaf",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "In islam, Salaf are the Companions of Prophet Muhammad ﷺ and the three generations that came after them."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "What is the meaning of Bidah",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Bid'ah means something that has been introduced into the religion of Allah that has no basis to support it."
-        }
-      }
-     ]
+<script type="text/javascript">
+function ago(date) {
+    function render(n, unit) {
+        return n + " " + unit + ((n == 1) ? "" : "s") + " ago";
     }
+    var seconds = Math.floor((new Date() - date) / 1000);
+    var interval = Math.floor(seconds / (60 * 60 * 24 * 365));
+    if (Math.floor(seconds / (60 * 60 * 24 * 30 * 365)) >= 1) {
+        return render(interval, "year");
+    }
+    interval = Math.floor(seconds / (60 * 60 * 24 * 30));
+    if (interval >= 1) {
+        return render(interval, "month");
+    }
+    interval = Math.floor(seconds / (60 * 60 * 24));
+    if (interval >= 1) {
+        return render(interval, "day");
+    }
+    interval = Math.floor(seconds / (60 * 60));
+    if (interval >= 1) {
+        return render(interval, "hour");
+    }
+    interval = Math.floor(seconds / 60);
+    if (interval >= 1) {
+        return render(interval, "minute");
+    }
+    interval = Math.floor(seconds);
+    return render(interval, "second");
+}
+var date = Date.parse(document.getElementById("postedon").getAttribute("datetime"));
+document.getElementById("postedago").innerHTML = ago(date);  
 </script>
