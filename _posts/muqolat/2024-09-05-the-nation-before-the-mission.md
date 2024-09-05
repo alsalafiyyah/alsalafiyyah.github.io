@@ -4,7 +4,7 @@ published: true
 publisher: alsalafiyyah@icloud.com
 title: "The People On Earth Before The Mission of Islam"
 hijri: "Rabiul Awwal 02, 1446"
-source: "Hidayat al-hayara fi ajwibat al-Yahud wa al-Nasara"
+source: "Hidayat Al-hayara Fi Ajwibat al-Yahud wa al-Nasara"
 lang: en
 locale: en
 active: muqolat
@@ -36,7 +36,7 @@ Among all people, they are the shortest in patience, the most excessive in wrong
 #### (b) Those who went astray :
 The second kind are the people who went astray: <mark>They are the worshippers of the Cross or the Trinitarians</mark>. They blasphemed against God in an unprecedented way, and refused to admit that He is the One and Only, the Eternal Absolute, who begets not, nor is He begotten and there is none like unto Him. They did not conceive God as the Greatest of all things, but instead, they said about Him what: 
 
-**"Whereby the heavens are almost torn, and the earth is split asunder, and the mountains fall in ruins, That they ascribe a son (or offspring or children) to the Most Gracious (Allah)."** (Quran, Maryam [19]: 90-91). 
+***"Whereby the heavens are almost torn, and the earth is split asunder, and the mountains fall in ruins, That they ascribe a son (or offspring or children) to the Most Gracious (Allah)."** (Quran, Maryam [19]: 90-91).*
 
 Say whatever you wish to say about a sect the cornerstone of whose tenets is that God is a part of three, Mary is His companion, and the Messiah, His son! And that He descended from the Throne of His Magnificence and joined Himself to the womb of His companion. Needless to repeat the known events that allegedly took place, till he was crucified, died and buried.
 
@@ -44,7 +44,7 @@ The belief of this sect is the worship of the crosses and the appeal to the pict
 
 Their religion is drinking wine, eating pork, abandoning circumcision, indulgence in adoring unclean things, permissiveness in eating everything unblessed for human consumption from an elephant to a gnat. To them what is lawful or unlawful is what the priest decides it is, and their religion is what he sanctions, and it is he who forgives sins and salvages them from the chastisement of Hell fire.  
 
-**This is the case of those who have a Book.**
+This is the case of those who have a Book.
 
 ---
 
@@ -58,9 +58,9 @@ Islam is the only religion accepted by God, of which there is no other religion 
 
 Thanks to God who rescued us from the pitches of darkness by sending us Muhammad (peace be upon him), and opened the door of True Guidance in front of us till the Day of Judgement, and made us see through His light the strayers from the Right path floundering in their misguidance, wandering about in their inebriety, faltering in their ignorance, and dithering in their uncertainty. They do believe; but in idolatry! they seek a lord other than God. they do know; but only about the perceivable phenomenae of life on earth and they are oblivious about the Hereafter. They do prostrate but to the Cross, to idols and to the sun. They know how to deceive; but they are only deceiving themselves though they do not know it: 
 
-**"Indeed Allah conferred a great favour on the believers when He sent among them a Messenger (Muhammad) from among themselves, reciting unto them His Verses (the Qur’an), and purifying them (from sins by their following him), and instructing them (in) the Book (the Qur’an) and Al-Hikmah [the wisdom and the Sunnah of the Prophet (i.e. his legal ways, statements, acts of worship)], while before that they had been in manifest error."** (Quran, Aal 'Imran [3]: 164)
+***"Indeed Allah conferred a great favour on the believers when He sent among them a Messenger (Muhammad) from among themselves, reciting unto them His Verses (the Qur’an), and purifying them (from sins by their following him), and instructing them (in) the Book (the Qur’an) and Al-Hikmah [the wisdom and the Sunnah of the Prophet (i.e. his legal ways, statements, acts of worship)], while before that they had been in manifest error."** (Quran, Aal 'Imran [3]: 164)*
 
-**"Similarly (to complete My Blessings on you), We have sent among you a Messenger (Muhammad) of your own, reciting to you Our Verses (the Qur’an) and purifying you, and teaching you the Book (the Qur’an) and the Hikmah (i.e. Sunnah, Islamic laws and Fiqh - jurisprudence), and teaching you that which you used not to know."** (Quran, Al-Baqarah [2]: 151)
+And: ***"Similarly (to complete My Blessings on you), We have sent among you a Messenger (Muhammad) of your own, reciting to you Our Verses (the Qur’an) and purifying you, and teaching you the Book (the Qur’an) and the Hikmah (i.e. Sunnah, Islamic laws and Fiqh - jurisprudence), and teaching you that which you used not to know."** (Quran, Al-Baqarah [2]: 151)*
 
 Praise be to God who enriched us with His Sharia which exhorts wisdom and spiritual growth, and embraces the commands for justice and charity, and prohibits all sinful deeds and reprehensive acts and injustice. Kindness and favours return to God for what He bestowed upon us graciously and for selecting us to be above all nations (being the guardians to His True Religion Islam). To Him we supplicate to inspire us to be grateful and deserving for His blessing, and to open in front of us the doors for repentance, forgiveness, and a mercy, because the most endeared means to the benevolent is to supplicate to Him through his good deeds and to confess to Him that the whole matter belongs to Him, to His favours and kindness. We return to Him with gratitude for His blessing on us, we return to Him to forgive our sins, ignorance, unjustness, and the excesses we commit in managing our affairs. This is the plea in our hands to gain recompense and be rescued from the most severe penalty. As long as our mistakes are not deliberate, but are mistakes committed in the course of our pious endeavours, the blessing of God will not desert us. 
 
@@ -68,17 +68,17 @@ However, some of our mistakes may exhaust all of our good deeds and require more
 
 *One of the duties toward God is to parry those who disparage the apostle.*
 
-Some of the duties toward God is to parry those who disparage His Book, His Apostle, and His Religion, and to contend against them with reason and evidence, with heart and inspiration, with a sword or a spear (if they resort to similar means). No one would have faith as little as a grain of mustard if he relinquishes this duty. It came to us that some questions asked by some of the non-Muslims were not answered satisfyingly, and the Muslims failed to find the suitable remedy for the malady. They thought that answering by hitting back cruciatingly would generate the answer that would resolve the matter once for good. But the faith rejecters said: **«our companions were right when they said that Islam advanced by the sword not by the Book»**. 
+Some of the duties toward God is to parry those who disparage His Book, His Apostle, and His Religion, and to contend against them with reason and evidence, with heart and inspiration, with a sword or a spear (if they resort to similar means). No one would have faith as little as a grain of mustard if he relinquishes this duty. It came to us that some questions asked by some of the non-Muslims were not answered satisfyingly, and the Muslims failed to find the suitable remedy for the malady. They thought that answering by hitting back cruciatingly would generate the answer that would resolve the matter once for good. But the faith rejecters said: *«our companions were right when they said that Islam advanced by the sword not by the Book»*. 
 
-Both parties dispersed in disagreement: one as a striker, and the other being struck, and the grounds are lost between the asker, the asked, and what is asked for. A responsible replier would roll up the sleeves of the arm on firm will and stand up on the steady ground of diligence asking God for help to defend His cause and relying on Him to say and do what pleases Him. He should not say what the incapable ignorant had said: **«The Faith rejecters can only be treated with the sword and there is no need to reason with them»**. 
+Both parties dispersed in disagreement: one as a striker, and the other being struck, and the grounds are lost between the asker, the asked, and what is asked for. A responsible replier would roll up the sleeves of the arm on firm will and stand up on the steady ground of diligence asking God for help to defend His cause and relying on Him to say and do what pleases Him. He should not say what the incapable ignorant had said: *«The Faith rejecters can only be treated with the sword and there is no need to reason with them»*. 
 
 Such an attitude is an expression of resourcelessness and a resort to escape from the confrontation, incompetence and feebleness. One should follow the bidding of God in debating with the faith rejecters after calling them to embrace Islam. And that is by producing evidences, so that they cannot hide behind the excuse that they were not given proofs: 
 
-**"...So that those who were to be destroyed (for their rejecting the Faith) might be destroyed after a clear evidence, and those who were to live (i.e. believers) might live after a clear evidence. And surely, Allah is All-Hearer, All-Knower."** (Quran, Al-Anfal [8]: 42)
+***"...So that those who were to be destroyed (for their rejecting the Faith) might be destroyed after a clear evidence, and those who were to live (i.e. believers) might live after a clear evidence. And surely, Allah is All-Hearer, All-Knower."** (Quran, Al-Anfal [8]: 42)*
 
 The sword came but to put the proof into effect (to protect its implementation), and the to redress the obdurate opposer (who stands against the right of self-expression and freedom of speech), and a warning to the evading rejecter. God the Most Sublime said: 
 
-**"Indeed We have sent Our Messengers with clear proofs, and revealed with them the Scripture and the Balance (justice) that mankind may keep up justice. And We brought forth iron wherein is mighty power (in matters of war), as well as many benefits for mankind, that Allah may test who it is that will help Him (His religion) and His Messengers in the unseen. Verily, Allâh is All-Strong, All-Mighty."** (Quran, Al-Hadid [57]: 25)
+***"Indeed We have sent Our Messengers with clear proofs, and revealed with them the Scripture and the Balance (justice) that mankind may keep up justice. And We brought forth iron wherein is mighty power (in matters of war), as well as many benefits for mankind, that Allah may test who it is that will help Him (His religion) and His Messengers in the unseen. Verily, Allâh is All-Strong, All-Mighty."** (Quran, Al-Hadid [57]: 25)*
 
 The religion of Islam rose through the guiding Book, and was but defended through the sharp sword. The one and refined Revelation was its source, and through its light the cheeks of the seeker glow. It is the cure for the ill of every reasoning man. It is the remedy of the malady of ignorance. 
 
