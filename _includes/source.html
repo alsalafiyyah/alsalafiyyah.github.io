@@ -10,6 +10,9 @@
 <!-- Date -->       
 {% include Date.html %}
 
+<!-- ERT / Estimated Reading Time -->       
+{% include reading_time.html %}
+
 <!-- source -->  
 {% if page.source %}
  <li class="list-group-item">
@@ -53,7 +56,7 @@
 {% else %}
 {% endif %}
 
-<!-- reference -->  
+<!-- Reference -->  
 {% if page.article_taken_from %}
  {% if page.article_taken_from.taken_from %}
   {% for p in page.article_taken_from.taken_from %}
