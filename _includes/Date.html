@@ -6,10 +6,9 @@
  <time id="postedon" itemprop="datePublished" datetime="{{ page.date | to_utc | date: "%Y%m%dT%H:%M:%S%:z" }}"> 
    <div class="fw-normal">
     {{ "Published :" | capitalize }} 
-    <span id="postedago"></span> on 
    </div>   
     <span class="fw-semibold">{{ page.hijri }}</span> 
-   {% if page.date %} — 
+   {% if page.date %} | 
    <span class="fw-semibold"> 
    {% assign day = page.date | date: "%-d" %}
    {% case day %}
@@ -21,6 +20,7 @@
     {{ page.date | date: "%b, %Y" }}
     </span>
    {% endif %}
+   — <span id="postedago"></span>
  </time>
 
 </div> 
