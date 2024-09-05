@@ -2,7 +2,7 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "The Nation Before The Mission"
+title: "The People On Earth Before The Mission of Islam"
 hijri: "Rabiul Awwal 02, 1446"
 source: "Hidayat al-hayara fi ajwibat al-Yahud wa al-Nasara"
 lang: en
@@ -19,20 +19,16 @@ muftis:
 
 Praise be to Allah.
 
-*An excerpted from the book entitled **"Hidayat al-hayara fi ajwibat al-Yahud wa-al-Nasara"** by Imam Ibn Qayyim al-Jawzīyah (may Allah have mercy on him).* 
+*Excerpted from the book entitled **"Hidayat al-hayara fi ajwibat al-Yahud wa-al-Nasara"** by Imam Ibn Qayyim al-Jawzīyah (may Allah have mercy on him).*:
 
-When God sent Muhammad (peace be upon him) the people on earth were of two groups: 
+When God sent Muhammad (peace be upon him) the people on earth were of two groups: (1) **the people of the Book**, and (2) **the pretenders of Faith (the hypocrites) who followed no Book**. 
 
-1. the people of the Book, and
-2. the pretenders of Faith (the hypocrites) who followed no Book. 
+The people of the Book are of two kinds: (a) **the cursed ones**, and (b) **those who went astray (strayers)**. 
 
-The people of the Book are of two kinds: 
+#### a. The cursed ones :
+The people who angered God are the Jews: the people of lies and falsifications, of perfidy, deception, and chicanery, the murderers of the prophets, the people of usury, and they are the most malicious of all people in intentions, the worst in temperament, the farthest to mercy, and the closest to vengeance. Hatred is their nature, enmity and bitterness are their habits: habits of machination, lies, and trickery. 
 
-- (a) the cursed ones, and
-- (b) those who went astray (strayers). 
-
-#### a. The curses ones :
-The people who angered God are the Jews: the people of lies and falsifications, of perfidy, deception, and chicanery, the murderers of the prophets, the people of usury, and they are the most malicious of all people in intentions, the worst in temperament, the farthest to mercy, and the closest to vengeance. Hatred is their nature, enmity and bitterness are their habits: habits of machination, lies, and trickery. They consider those who disagree with them in their rejection of Faith and in their belying of the prophets as undeserving and forbidden from having rights. They do not expect to find in a true believer a shred of trustworthiness, neither do they consider those who agree with them as worthy of right or pity, nor those who have something to share with them as worthy of fairness and equity, or those who mix with them as reliable and untrecherous, or those who give service to them as worthy to give advice. In their midst, the most wicked is the wisest, the shrewdest is the most deceitful, the level-headed, who is never found among them, is not a true Jew. 
+They consider those who disagree with them in their rejection of Faith and in their belying of the prophets as undeserving and forbidden from having rights. They do not expect to find in a true believer a shred of trustworthiness, neither do they consider those who agree with them as worthy of right or pity, nor those who have something to share with them as worthy of fairness and equity, or those who mix with them as reliable and untrecherous, or those who give service to them as worthy to give advice. In their midst, the most wicked is the wisest, the shrewdest is the most deceitful, the level-headed, who is never found among them, is not a true Jew. 
 
 Among all people, they are the shortest in patience, the most excessive in wrongdoing to their families at home, the most unmindful for cleanliness at home, the most vicious in disposition. Greeting them is maledictive, meeting them is ominous, for their slogan is indignation and their attire in rancour. 
 
@@ -47,9 +43,13 @@ Their religion is drinking wine, eating pork, abandoning circumcision, indulgenc
 
 **This is the case of those who have a book.**
 
-As for those who do not, they fall between idolaters, fire worshippers, demonolaters, and bewildered Sabaists (astrolators). What is common among them is joining partners to God, belying the prophets, abolishing what God revealed and sanctioned, and repudiating the Day of Reckoning and the Resurrection. They do not follow any of God's religions, they do not worship Him with the rest of the worshippers and do not praise His Oneness with the praisers of His Oneness. As for the Magians, they sleep with their mothers daughters and sisters, let alone their maternal aunts. Their religion is fanfaronade and hullabaloo, their f ood is corpses, their drink is wine, their adored god is Fire, and their patron is the Devil. They are the most wicked of Adams breed in giving, they hold the most mischievous of creeds and the worst of beliefs. 
+As for those who do not, they fall between idolaters, fire worshippers, demonolaters, and bewildered Sabaists (astrolators). What is common among them is joining partners to God, belying the prophets, abolishing what God revealed and sanctioned, and repudiating the Day of Reckoning and the Resurrection. They do not follow any of God's religions, they do not worship Him with the rest of the worshippers and do not praise His Oneness with the praisers of His Oneness. 
 
-As for the pretenders of belief among the Sabaists, and the atheists among the philosophers, they do not believe in God, His angels, His Books, and the Day of Judgement. Nor do they believe in any principle or a return to God. To them the universe has no commander, for bidder, sender of prophets and Books, rewarder of the good-doers and punisher of the wrong-doers. In the account of their jurists there exists only nine orbits, ten minds, four pillars, and a chain arranging the succession of existing things, which is rather a chain for mad people than a plausible arrangement that can stand to reason! In general, among all of these (false) religions, Islam is the only religion accepted by God, of which there is no other religion on earth, and the rest are obscure like a tiny unknown planet behind a shroud of misty clouds. God looked at all the people on earth, Arabs and non-Arabs, and abhored them except a number of the people of the Book. In this dreary pitch-darkness, God raised up the sun of the Message like a luminous lantern, and bestowed it on the people of the earth a gift greater than thanks-giving, and the earth shone completely by its light, and this light emanated till it covered all corners and horizons, and the crescent of true Guidance matured to a full moon, and the True Religion of God progressed rapidly. 
+As for the Magians, they sleep with their mothers daughters and sisters, let alone their maternal aunts. Their religion is fanfaronade and hullabaloo, their food is corpses, their drink is wine, their adored god is Fire, and their patron is the Devil. They are the most wicked of Adams breed in giving, they hold the most mischievous of creeds and the worst of beliefs. 
+
+As for the pretenders of belief among the Sabaists, and the atheists among the philosophers, they do not believe in God, His angels, His Books, and the Day of Judgement. Nor do they believe in any principle or a return to God. To them the universe has no commander, for bidder, sender of prophets and Books, rewarder of the good-doers and punisher of the wrong-doers. In the account of their jurists there exists only nine orbits, ten minds, four pillars, and a chain arranging the succession of existing things, which is rather a chain for mad people than a plausible arrangement that can stand to reason! In general, among all of these (false) religions, Islam is the only religion accepted by God, of which there is no other religion on earth, and the rest are obscure like a tiny unknown planet behind a shroud of misty clouds. 
+
+God looked at all the people on earth, Arabs and non-Arabs, and abhored them except a number of the people of the Book. In this dreary pitch-darkness, God raised up the sun of the Message like a luminous lantern, and bestowed it on the people of the earth a gift greater than thanks-giving, and the earth shone completely by its light, and this light emanated till it covered all corners and horizons, and the crescent of true Guidance matured to a full moon, and the True Religion of God progressed rapidly. 
 
 Thanks to God who rescued us from the pitches of darkness by sending us Muhammad (peace be upon him), and opened the door of True Guidance in front of us till the Day of Judgement, and made us see through His light the strayers from the Right path floundering in their misguidance, wandering about in their inebriety, faltering in their ignorance, and dithering in their uncertainty. They do believe; but in idolatry! they seek a lord other than God. they do know; but only about the perceivable phenomenae of life on earth and they are oblivious about the Hereafter. They do prostrate but to the Cross, to idols and to the sun. They know how to deceive; but they are only deceiving themselves though they do not know it: 
 
