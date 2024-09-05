@@ -34,9 +34,10 @@
 <div class="col">
 <ul class="list-inline text-center">
   {% for item in site.data.setting.social_icons_footer %}
-  <li class="list-inline-item texr-dark">
-   <a target="_blank" href="{{ item.url }}" rel="nofollow">
-    <span><i class="bi bi-{{ item.icon }} fs-4"></i></span></a>
+  <li class="list-inline-item">
+   <a class="btn btn-dark btn-sm bg-gradient text-light" href="{{ item.url }}" role="button" rel="nofollow" target="_blank">
+     <i class="bi bi-{{ item.icon }} fs-5"></i>
+   </a>
    </li>
   {% endfor %}
 </ul>
