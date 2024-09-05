@@ -22,18 +22,20 @@ Praise be to Allah.
 
 When God (Allah in Arabic) sent Muhammad (peace be upon him) the people on earth were of two groups: (1) **the people of the Book**, and (2) **the pretenders of faith who followed no Book**. 
 
-The people of the Book are of two kinds: (a) **the cursed ones**, and (b) **those who went astray (strayers)**. 
+---
 
---- 
+### (1) The peoole of the Book
 
-#### (a) The cursed ones :
+The people of the Book are of two kinds: (a) **the cursed ones**, and (b) **those who went astray (strayers)**.
+
+#### (a) the cursed ones :
 The people who angered God are <mark>the Jews</mark>: the people of lies and falsifications, of perfidy, deception, and chicanery, the murderers of the prophets, the people of usury, and they are the most malicious of all people in intentions, the worst in temperament, the farthest to mercy, and the closest to vengeance. 
 
 Hatred is their nature, enmity and bitterness are their habits: habits of machination, lies, and trickery. They consider those who disagree with them in their rejection of Faith and in their belying of the prophets as undeserving and forbidden from having rights. They do not expect to find in a true believer a shred of trustworthiness, neither do they consider those who agree with them as worthy of right or pity, nor those who have something to share with them as worthy of fairness and equity, or those who mix with them as reliable and untrecherous, or those who give service to them as worthy to give advice. In their midst, the most wicked is the wisest, the shrewdest is the most deceitful, the level-headed, who is never found among them, is not a true Jew. 
 
 Among all people, they are the shortest in patience, the most excessive in wrongdoing to their families at home, the most unmindful for cleanliness at home, the most vicious in disposition. Greeting them is maledictive, meeting them is ominous, for their slogan is indignation and their attire in rancour. 
 
-#### (b) Those who went astray :
+#### (b) those who went astray :
 The second kind are the people who went astray: <mark>They are the worshippers of the Cross or the Trinitarians</mark>. They blasphemed against God in an unprecedented way, and refused to admit that He is the One and Only, the Eternal Absolute, who begets not, nor is He begotten and there is none like unto Him. They did not conceive God as the Greatest of all things, but instead, they said about Him what: 
 
 ***"Whereby the heavens are almost torn, and the earth is split asunder, and the mountains fall in ruins, That they ascribe a son (or offspring or children) to the Most Gracious (Allah)."** (Quran, Maryam [19]: 90-91).*
@@ -47,6 +49,8 @@ Their religion is drinking wine, eating pork, abandoning circumcision, indulgenc
 This is the case of those who have a Book.
 
 ---
+
+### (1) The pretenders of faith who followed no Book
 
 As for those who do not, they fall between idolaters, fire worshippers, demonolaters, and bewildered Sabaists (astrolators). What is common among them is joining partners to God, belying the prophets, abolishing what God revealed and sanctioned, and repudiating the Day of Reckoning and the Resurrection. They do not follow any of God's religions, they do not worship Him with the rest of the worshippers and do not praise His Oneness with the praisers of His Oneness. 
 
