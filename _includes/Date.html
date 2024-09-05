@@ -3,7 +3,7 @@
 <li class="list-group-item">
 <div class="ms-2 me-auto">
 
- <time id="postedon" itemprop="datePublished" datetime="{{ page.date | to_utc | date: "%Y%m%dT%H:%M:%S%:z" }}"> 
+ <time itemprop="datePublished" datetime="{{ page.date | to_utc | date: "%Y%m%dT%H:%M:%S%:z" }}"> 
    <div class="fw-normal">
     {{ "Published :" | capitalize }} 
    </div>   
@@ -20,7 +20,6 @@
     {{ page.date | date: "%b, %Y" }}
     </span>
    {% endif %}
-   — <span id="postedago"></span>
  </time>
 
 </div> 
