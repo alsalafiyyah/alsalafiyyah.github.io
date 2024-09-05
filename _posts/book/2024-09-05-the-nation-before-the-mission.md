@@ -85,4 +85,4 @@ To God I return for good luck, for He opens the doors of the good, and facilitat
 
 ---
 
-*Excerpted from the book entitled **"Hidayat al-hayara fi ajwibat al-Yahud wa-al-Nasara"** by Imam Ibn Qayyim al-Jawzīyah (may Allah have mercy on him).* — Part 1. 
+*Adapted from the book entitled **"Hidayat al-hayara fi ajwibat al-Yahud wa-al-Nasara"** by Imam Ibn Qayyim al-Jawziyah (may Allah have mercy on him).*
