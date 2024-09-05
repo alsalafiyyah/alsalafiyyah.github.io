@@ -2,7 +2,7 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "The People On Earth Before The Mission of Islam"
+title: "Types of People on Earth Before The Mission of Islam"
 hijri: "Rabiul Awwal 02, 1446"
 source: "Hidayat Al-hayara Fi Ajwibat al-Yahud wa al-Nasara"
 lang: en
@@ -24,7 +24,7 @@ When God (Allah in Arabic) sent Muhammad (peace be upon him) the people on earth
 
 ---
 
-### (1) The peoole of the Book
+### (1) The people of the Book
 
 The people of the Book are of two kinds: (a) **the cursed ones**, and (b) **those who went astray (strayers)**.
 
