@@ -20,11 +20,7 @@ muftis:
 
 Praise be to Allah.
 
-When God (Allah in Arabic) sent Muhammad (peace be upon him) the people on earth were of two groups: (1) **the people of the Book**, and (2) **the pretenders of faith who followed no Book**. 
-
----
-
-### (1) The people of the Book
+When God (Allah in Arabic) sent Muhammad (peace be upon him) the people on earth were of two groups: (1) **the people of the Book**, and (2) **the pretenders of faith who followed no Book**.
 
 The people of the Book are of two kinds: (a) **the cursed ones**, and (b) **those who went astray (strayers)**.
 
@@ -47,10 +43,6 @@ The belief of this sect is the worship of the crosses and the appeal to the pict
 Their religion is drinking wine, eating pork, abandoning circumcision, indulgence in adoring unclean things, permissiveness in eating everything unblessed for human consumption from an elephant to a gnat. To them what is lawful or unlawful is what the priest decides it is, and their religion is what he sanctions, and it is he who forgives sins and salvages them from the chastisement of Hell fire.  
 
 This is the case of those who have a Book.
-
----
-
-### (2) The pretenders of faith who followed no Book
 
 As for those who do not, they fall between idolaters, fire worshippers, demonolaters, and bewildered Sabaists (astrolators). What is common among them is joining partners to God, belying the prophets, abolishing what God revealed and sanctioned, and repudiating the Day of Reckoning and the Resurrection. They do not follow any of God's religions, they do not worship Him with the rest of the worshippers and do not praise His Oneness with the praisers of His Oneness. 
 
