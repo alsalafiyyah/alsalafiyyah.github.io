@@ -92,6 +92,9 @@ Allah Ta'ala says: **“Allah does not forbid you to deal justly and kindly with
 
 **“but he is the Messenger of Allah and the last (end) of the Prophets”** (Quran, al-Ahzab [33]:40)
 
+**(19).** We believe that there is no Muslim who worshipped Allah alone will remain in Hell forever, even if he committed major sins. And we believe that he will be removed from the Hellfire after being punished. 
+
+**(20).** We believe in the descent of ‘Isa ibn Maryam (Jesus son of Mary, peace be upon him) and he will kill the Dajjal (false messiah). 
 
 ---
 ### Our Aims
