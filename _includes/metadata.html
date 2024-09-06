@@ -29,6 +29,8 @@
 <meta http-equiv='x-dns-prefetch-control' content='off'>
 <meta name='url' content='{{ site.url }}'>
 <meta name='robots' content='index,follow'>
+<meta name="title" content="{% if page.title %}{{ page.title | escape }}{% elsif post.title %}{{ post.title | escape }}{% else %}{{ site.title | escape | default: 'Al-Salafiyyah' }}{% endif %}">
+<meta name='abstract' content='{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.description }}{% endif %}'>
 
 <!-- IOS Meta -->
 <meta name="apple-mobile-web-app-capable" content="yes">
