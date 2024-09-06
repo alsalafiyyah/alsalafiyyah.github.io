@@ -50,7 +50,7 @@ function onShareCLick() {
     if (navigator.share) {
         navigator.share({
                 title: "{{ page.title }}",
-                text: "{{ page.url }}",
+                text: "{{ site.url }}{{site.baseurl}}{{ page.url }}",
                 url: window.location.href
             })
             .then(() => console.log('Successful share'))
