@@ -10,7 +10,7 @@
       <img src="{{ '/assets/images/logo.svg' | absolute_url }}" 
        class="img-fluid" 
        alt="{{ site.title }}" 
-       width="130px" height="120px"/>
+       width="130px" height="80px"/>
     </a>
  <div class="vr text-dark"></div>
   <form class="d-flex" role="search" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" action="{% if page.locale == 'en' %}{{ site.data.locales[page.locale].site.url_search }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].site.url_search }}{% else %}https://alsalafiyyah.github.io/search{% endif %}">
