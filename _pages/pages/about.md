@@ -96,6 +96,10 @@ Allah Ta'ala says: **“Allah does not forbid you to deal justly and kindly with
 
 **(21).** We believe in the descent of ‘Isa ibn Maryam (Jesus son of Mary, peace be upon him) and he will kill the Dajjal (false messiah). 
 
+**(22.)** We reject all [the sects or cults and parties](https://alsalafiyyah.github.io/sects/) that claim to belong to Islam, such as Shiite, Sufism, etc, due to their contradiction to the Quran and Sunnah.
+
+***“Verily, those who divide their religion and break up into sects (all kinds of religious sects), you (O Muhammad) have no concern in them in the least. Their affair is only with Allah, Who then will tell them what they used to do” (Quran, al-An‘am [6]:159)***
+
 ---
 ### Our Aims
 
