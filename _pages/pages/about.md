@@ -14,31 +14,31 @@ All praise be to Allah, The Lord of the worlds. And I testify that there is none
 This website promotes the ‘aqidah of Ahlus-Sunnah wal-Jama‘ah or the ‘aqidah of the righteous Salaf (early generations of Islam).
 
 ---
-### Our [‘Aqidah](https://alsalafiyyah.github.io/muqolat/correct-aqidah/)
+### Our ‘Aqidah
 
-**(1)**. The first and foremost, we believe in Allah and the oneness of Allah, and we do not worship anyone but Allah alone, and we worship Him in the way that He prescribed. And we testify that **there is none worthy of worship except Allah, and that Muhammad (ﷺ) is His slave and Messenger.[^1]**
+**(1)**. The first and foremost, we believe in Allah and the oneness of Allah, and we do not worship anyone but Allah alone, and we worship Him in the way that He prescribed. And we testify that ***there is none worthy of worship except Allah, and that Muhammad (ﷺ) is His slave and Messenger.[^1]***
 
-**“That is Allah, your Lord, the Creator of all things, Laa ilaaha illa Huwa (none has the right to be worshipped but He).”** (Quran, Ghafir [40]:62).
+***“That is Allah, your Lord, the Creator of all things, Laa ilaaha illa Huwa (none has the right to be worshipped but He).”** (Quran, Ghafir [40]:62).*
 
 **(2).** We believe the Qur’an is [the Words of Allah](https://alsalafiyyah.github.io/the-quran-is-the-word-of-allah/), and is not created. Whoever states that the Qur’an is created is a kafir (disbeliever).
 
 **(3).** We hold that the authentic Sunnah is revelation from Allah, and whether everything uttered by Prophet ﷺ is considered revelation. 
 
-Allah Ta'ala says in His Book: **“By the star when it goes down (or vanishes). Your companion (Muhammad) has neither gone astray nor has erred. Nor does he speak of (his own) desire. It is only a Revelation revealed”** (Quran, an-Najm [53]:1-4)
+Allah Ta'ala says in His Book: ***“By the star when it goes down (or vanishes). Your companion (Muhammad) has neither gone astray nor has erred. Nor does he speak of (his own) desire. It is only a Revelation revealed”** (Quran, an-Najm [53]:1-4)*
 
-The Prophet ﷺ said: **“Verily I have been given the Quran and something similar to it along with it.”** [^2]
+The Prophet ﷺ said: ***“Verily I have been given the Quran and something similar to it along with it.”*** [^2]
 
-**(4).** We hold that following the Sunnah of Prophet ﷺ is obligatory. Allah says: **“O you who believe! Obey Allah and obey the Messenger”** (Quran, an-Nisa’ [4]:59) 
+**(4).** We hold that following the Sunnah of Prophet ﷺ is obligatory. Allah says: ***“O you who believe! Obey Allah and obey the Messenger”** (Quran, an-Nisa’ [4]:59)*
 
-The Prophet ﷺ said in his Farewell Sermon: **“I am leaving behind among you something which, if you adhere to it, you will not go astray after that. It is the Book of Allah (Quran) and my Sunnah.”** [^3]
+The Prophet ﷺ said in his Farewell Sermon: ***“I am leaving behind among you something which, if you adhere to it, you will not go astray after that. It is the Book of Allah (Quran) and my Sunnah.”*** [^3]
 
-And he ﷺ said: **“Whoever turns away from my Sunnah (way) has nothing to do with me.”** [^4]
+And he ﷺ said: ***“Whoever turns away from my Sunnah (way) has nothing to do with me.”*** [^4]
 
-And he ﷺ said: **“Pay attention to my Sunnah (way) and the way of the Rightly-Guided Caliphs after me, adhere to it and hold fast to it.”** [^5]
+And he ﷺ said: ***“Pay attention to my Sunnah (way) and the way of the Rightly-Guided Caliphs after me, adhere to it and hold fast to it.”*** [^5]
 
 **(5).** We affirm the Names and Attributes of Allah that are mentioned in the Qur’an and Sunnah, and interpreting them as they appear to mean, not metaphorically, for there is none like unto Allah in His Names and Attributes. Any attribute that He has ascribed to Himself or that His Prophet has ascribed to Him, is an attribute in a real sense, and is not metaphorical or a tamthil (likening Him to His creation).
 
-**“There is nothing like unto Him, and He is the All-Hearer, the All-Seer”** (Quran, ash-Shura [42]:11)
+***“There is nothing like unto Him, and He is the All-Hearer, the All-Seer”** (Quran, ash-Shura [42]:11)*
 
 **(6).** We believe in His Angels, His Books, His Prophets and Messengers and al-Qada wal-Qadar (Divine will and decree). 
 
@@ -46,35 +46,35 @@ And he ﷺ said: **“Pay attention to my Sunnah (way) and the way of the Rightl
 
 **(8).** We believe in the intercession of the Prophet ﷺ and those whom Allah has permitted on the Day of Resurrection. 
 
-Allah Ta'ala says: **“Say: All intercession belongs to Allah alone [and no one can intercede except by His leave]”** (az-Zumar [39]:44)
+Allah Ta'ala says: ***“Say: All intercession belongs to Allah alone [and no one can intercede except by His leave]”** (az-Zumar [39]:44)*
 
-And He says: **“None shall have the power of intercession, but such a one as has received permission (or promise) from the Most Beneficent (Allah).”** (Quran, Maryam[19]: 87)
+And He says: ***“None shall have the power of intercession, but such a one as has received permission (or promise) from the Most Beneficent (Allah).”** (Quran, Maryam[19]: 87)*
 
 **(9).** We believe that [the ruler](https://alsalafiyyah.github.io/rulership/) is to be obeyed in matters that do not involve disobedience towards Allah and His Messenger ﷺ, whether he is righteous or sinful, and that one is obligated to be patient with the ruler, and rebellion against them is forbidden. 
 
-Allah Ta'ala says: **“O you who believe! Obey Allah and obey the Messenger (Muhammad (peace and blessings be upon him)), and [<mark>those who are in authority</mark>](https://alsalafiyyah.github.io/obey-allah-messenger-and-those-who-are-in-authority/).”** (Quran, An-Nisa’[4]:59). 
+Allah Ta'ala says: ***“O you who believe! Obey Allah and obey the Messenger (Muhammad (peace and blessings be upon him)), and [<mark>those who are in authority</mark>](https://alsalafiyyah.github.io/obey-allah-messenger-and-those-who-are-in-authority/).”** (Quran, An-Nisa’[4]:59).*
 
 **(10).** We love the ahlul-bayt (the family of the Prophet ﷺ). Whoever hates them hates Islam. And the term Ahl al-Bayt includes his wives. So, whoever slanders the Prophet's wife ‘Aishah (may Allah be pleased with her) and other Mothers of Believers (Prophet's wives) is a kafir (disbeliever) and an apostate.
 
-Imam Ibn al-Qayyim (may Allah have mercy on him) said: **“The (Muslim) Ummah is agreed that whoever slanders the Mother of Believers ‘Aishah (may Allah be pleased with her) is a kafir (disbeliever).”** [^6]
+Imam Ibn al-Qayyim (may Allah have mercy on him) said: ***“The (Muslim) Ummah is agreed that whoever slanders the Mother of Believers ‘Aishah (may Allah be pleased with her) is a kafir (disbeliever).”*** [^6]
 
 **(11).** We hate those who criticize and revile or hate the Sahabah (companions of the Prophet ﷺ, may Allah be pleased with them all), and we hold that loving them (Sahabah) is part of faith and hating them (Sahabah) is kufr (disbelief) and hypocrisy.
 
-It was narrated that al-Bara’ (may Allah be pleased with him) said: **“I heard the Prophet ﷺ say: ‘The Ansar: no one loves them but a believer and no one hates them but a hypocrite. Whoever loves them, Allah will love him, and whoever hates them, Allah will hate him.’”** [^7]
+It was narrated that al-Bara’ (may Allah be pleased with him) said: ***“I heard the Prophet ﷺ say: ‘The Ansar: no one loves them but a believer and no one hates them but a hypocrite. Whoever loves them, Allah will love him, and whoever hates them, Allah will hate him.’”*** [^7]
 
-And he ﷺ said: **“Whoever reviles my companions, upon him be the curse of Allah, the angels and all the people.”** [^8]
+And he ﷺ said: ***“Whoever reviles my companions, upon him be the curse of Allah, the angels and all the people.”*** [^8]
 
-And he ﷺ also said: **“Do not slander my companions, for if one of you were to spend an amount of gold equivalent to the size of Mount Uhud, you would not even come halfway up to their level.”** [^9]
+And he ﷺ also said: ***“Do not slander my companions, for if one of you were to spend an amount of gold equivalent to the size of Mount Uhud, you would not even come halfway up to their level.”*** [^9]
 
-**(12).** We shun and reject all [bid’ahs](https://alsalafiyyah.github.io/bidah/) or innovations that are introduced into the religion, whether it be in matters of belief or action, for the Prophet ﷺ warned us against bid'ah: **“I urge you to adhere to my Sunnah and the way of the Rightly-Guided Caliphs who come after me. Adhere to it and cling firmly to it. And beware of newly introduced matters, for every newly introduced matter is a bid'ah (an innovation), and every bid'ah (innovation in religion) is a going astray, and every going astray will be in the Fire.”** [^10]
+**(12).** We shun and reject all [bid’ahs](https://alsalafiyyah.github.io/bidah/) or innovations that are introduced into the religion, whether it be in matters of belief or action, for the Prophet ﷺ warned us against bid'ah: ***“I urge you to adhere to my Sunnah and the way of the Rightly-Guided Caliphs who come after me. Adhere to it and cling firmly to it. And beware of newly introduced matters, for every newly introduced matter is a bid'ah (an innovation), and every bid'ah (innovation in religion) is a going astray, and every going astray will be in the Fire.”*** [^10]
 
-**(13).** We hold that [there is no such thing as a <mark>good bid’ah</mark>](https://alsalafiyyah.github.io/muqolat/there-is-no-good-bidah/) in religion, because the Prophet ﷺ has stated that **every bid'ah is a going astray**. He (ﷺ) did not give any exception in that, he (ﷺ) said, **“<mark>Every bid'ah</mark> is a going astray”**.
+**(13).** We hold that [there is no such thing as a <mark>good bid’ah</mark>](https://alsalafiyyah.github.io/muqolat/there-is-no-good-bidah/) in religion, because the Prophet ﷺ has stated that ***every bid'ah is a going astray***. He (ﷺ) did not give any exception in that, he (ﷺ) said, ***“<mark>Every bid'ah</mark> is a going astray”***.
 
 **(14).** We hold that tawhid will never be achieved until we apply [the concept of al-Wala' Wal-Bara' (loyalty and disassociation for Allah's Sake)](https://alsalafiyyah.github.io/principle-wala-wal-bara/). 
 
-Allah says in His Book: **“There has already been for you an excellent pattern in Abraham and those with him, when they said to their people, ‘Indeed, we are disassociated from you and from whatever you worship other than Allah. We have denied you, and there has appeared between us and you animosity and hatred forever until you believe in Allah alone’”** (Quran, al-Mumtahinah [60]:4)
+Allah says in His Book: ***“There has already been for you an excellent pattern in Abraham and those with him, when they said to their people, ‘Indeed, we are disassociated from you and from whatever you worship other than Allah. We have denied you, and there has appeared between us and you animosity and hatred forever until you believe in Allah alone’”** (Quran, al-Mumtahinah [60]:4)*
 
-The Prophet ﷺ said: **“The strongest bond of faith is taking believers as allies and friends for the sake of Allah and to regard disbelievers as enemies for the sake of Allah, to love for the sake of Allah and hate for the sake of Allah.”** [^11]
+The Prophet ﷺ said: ***“The strongest bond of faith is taking believers as allies and friends for the sake of Allah and to regard disbelievers as enemies for the sake of Allah, to love for the sake of Allah and hate for the sake of Allah.”*** [^11]
 
 **(15).** We believe that Allah is above His heavens, over His Throne, distinct from His creation.
 
@@ -84,13 +84,13 @@ The Prophet ﷺ said: **“The strongest bond of faith is taking believers as al
 
 **(18).** We hold it to be impermissible to kill non-muslims living in Muslim lands or under Muslim rule, or transgress against their rights or to be unjust towards them, for Allah and His Messenger Muhammad ﷺ forbid us to do so, and Allah does not forbid us showing kindness to them (non-Muslims) who are not fighting Muslims. 
 
-Concerning that the Prophet ﷺ said: **“Whoever kills a mu‘ahid (a non-Muslim living under Muslim rule) will not smell the fragrance of Paradise, although its fragrance may be detected from a distance of forty years.”** [^12] 
+Concerning that the Prophet ﷺ said: ***“Whoever kills a mu‘ahid (a non-Muslim living under Muslim rule) will not smell the fragrance of Paradise, although its fragrance may be detected from a distance of forty years.”*** [^12] 
 
-Allah Ta'ala says: **“Allah does not forbid you to deal justly and kindly with those who fought not against you on account of religion and did not drive you out of your homes. Verily, Allah loves those who deal with equity.”** (al-Mumtahinah [60]:8)
+Allah Ta'ala says: ***“Allah does not forbid you to deal justly and kindly with those who fought not against you on account of religion and did not drive you out of your homes. Verily, Allah loves those who deal with equity.”** (al-Mumtahinah [60]:8)*
 
 **(19).** We believe that the Prophet Muhammad ﷺ is the Seal of the Prophets and Messengers and that there is no Prophet or Messenger after him.  
 
-**“but he is the Messenger of Allah and the last (end) of the Prophets”** (Quran, al-Ahzab [33]:40)
+***“but he is the Messenger of Allah and the last (end) of the Prophets”** (Quran, al-Ahzab [33]:40)*
 
 **(20).** We believe that there is no Muslim who worshipped Allah alone will remain in Hell forever, even if he committed major sins. And we believe that he will be removed from the Hellfire after being punished. 
 
@@ -98,7 +98,7 @@ Allah Ta'ala says: **“Allah does not forbid you to deal justly and kindly with
 
 **(22.)** We reject all [the sects or cults and parties](https://alsalafiyyah.github.io/sects/) that claim to belong to Islam, such as Shiite, Sufism, etc, due to their contradiction to the Quran and Sunnah.
 
-***“Verily, those who divide their religion and break up into sects (all kinds of religious sects), you (O Muhammad) have no concern in them in the least. Their affair is only with Allah, Who then will tell them what they used to do” (Quran, al-An‘am [6]:159)***
+***“Verily, those who divide their religion and break up into sects (all kinds of religious sects), you (O Muhammad) have no concern in them in the least. Their affair is only with Allah, Who then will tell them what they used to do”** (Quran, al-An‘am [6]:159)*
 
 ---
 ### Our Aims
