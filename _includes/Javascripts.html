@@ -50,7 +50,7 @@ function onShareCLick() {
     if (navigator.share) {
         navigator.share({
                 title: "{{ page.title }}",
-                text: "{{ page.excerpt }}",
+                text: "{{ page.url }}",
                 url: window.location.href
             })
             .then(() => console.log('Successful share'))
@@ -98,14 +98,4 @@ $('.navbar-menu .bi').addClass('bi-x-lg');
 $(function () {
     $('[data-bs-toggle="tooltip"]').tooltip()
 })
-</script>
-<script type="text/javascript">    
-    var popoverTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="popover"]'))
-    var popoverList = popoverTriggerList.map(function (popoverTriggerEl) {
-      return new bootstrap.Popover(popoverTriggerEl)
-    })
-    var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
-    var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
-      return new bootstrap.Tooltip(tooltipTriggerEl)
-    });
 </script>
