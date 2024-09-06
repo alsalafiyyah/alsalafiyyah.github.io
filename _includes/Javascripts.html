@@ -36,13 +36,6 @@ var table = new DataTable("table", {
     }
   </script>
 <script type="text/javascript">
-  if('serviceWorker' in navigator) {
-    window.addEventListener('load', () => {
-      navigator.serviceWorker.register('/sw.js')
-    })
-  }
-</script>
-<script type="text/javascript">
 function callback(response) {
     console.log(response);
 }
