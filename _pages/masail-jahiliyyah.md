@@ -234,138 +234,148 @@ And their trial was found in the extent of their love (for that religion of thei
 [33]. They rejected what they agreed was part of their Religion, as they did during the Hajj (pilgrimage) to the House (i.e., the Ka’bah). Allah says: **"And who turns away from the religion of Ibrahim (pure Tawhid), except he who fools himself."** (al-Baqarah [2]: 130). 
 
 ---
-#### 34. Each Sect Praise itself apart from Others
+#### Each Sect Praise itself apart from Others
 
-Every one of (their) groups claimed that they were the saved one. So Allah declared them to be liars with His saying: **"Bring forth your proof if you are indeed truthful.”** (al-Baqarah [2]: 111) Then He clarifes what is correct, saying: **"Rather, whosoever submits himself to Allah while he is a good-doer, his reward is with Allah.”** (al-Baqarah [2]: 112). 
-
----
-#### 35. Seeking Nearness to Allah by Committing the Prohibited
-
-They performed their acts of worship while exposing their private parts, as Allah says: **"And when they committed an evil deed (i.e., going around the Ka’bah in a naked state), they said: We found our forefathers doing it.”** (al-A’raf [7]: 28). 
+[34]. Every one of (their) groups claimed that they were the saved one. So Allah declared them to be liars with His saying: **"Bring forth your proof if you are indeed truthful.”** (al-Baqarah [2]: 111) Then He clarifes what is correct, saying: **"Rather, whosoever submits himself to Allah while he is a good-doer, his reward is with Allah.”** (al-Baqarah [2]: 112). 
 
 ---
-#### 36. Seeking Nearness to Allah by Prohibiting the Lawful and Permitting the Unlawful
+#### Seeking Nearness to Allah by Committing the Prohibited
 
-They performed worship by forbidding the lawful, in the same manner that they worshiped by ascribing partners to Allah.
-
----
-#### 37. Taking the Rabbis and Monks as lords besides Allah
-They observed their worship by taking their rabbis and monks (i.e., learned people) as lords besides Allah.
+[35]. They performed their acts of worship while exposing their private parts, as Allah says: **"And when they committed an evil deed (i.e., going around the Ka’bah in a naked state), they said: We found our forefathers doing it.”** (al-A’raf [7]: 28). 
 
 ---
-#### 38. Denying Allah's Names and Attributes
+#### Seeking Nearness to Allah by Prohibiting the Lawful and Permitting the Unlawful
 
-They denied Allah's Attributes, as Allah says: **"But you thought that Allah did not know much of what you were doing."** (Fussilat [41]: 122)
-
----
-#### 39. Denying Allah's Names
-They denied Allah's Names, as Allah says: **"While they disbelieve in ar-Rahman (The Most Merciful)."** (ar-Ra’d [13]: 30)
+[36]. They performed worship by forbidding the lawful, in the same manner that they worshiped by ascribing partners to Allah.
 
 ---
-#### 40. Denial of the Lord
-They committed Ta’til (negation of Allah's Names and Attributes), as is found in the statement of the people of Pharaoh.
+#### Taking the Rabbis and Monks as lords besides Allah
+
+[37]. They observed their worship by taking their rabbis and monks (i.e., learned people) as lords besides Allah.
 
 ---
-#### 41. Describing Allah with Defciencies
+#### Denying Allah's Names and Attributes
 
-They attributed defciencies to Allah, such as (Him having) a child, a need and being tired, while (on the other hand), they would eliminate some of these defciencies from their religious leaders (i.e., monks).
-
----
-#### 42. Ascribing Partners to Allah with regard to His Dominion
-
-They committed Shirk in Allah's sovereignty (mulk), as is found in the beliefs of the Majus. 
+[38]. They denied Allah's Attributes, as Allah says: **"But you thought that Allah did not know much of what you were doing."** (Fussilat [41]: 122)
 
 ---
-#### 43. Denying Allah's Divine Pre-Decree
+#### Denying Allah's Names
 
-They rejected al-Qadar (Divine Pre-ordainment).
-
----
-#### 44. Using Allah's Divine Decree as an Excuse for their Disbelief
-
-They used al-Qadar as an excuse (for themselves) against Allah.
+[39]. They denied Allah's Names, as Allah says: **"While they disbelieve in ar-Rahman (The Most Merciful)."** (ar-Ra’d [13]: 30)
 
 ---
-#### 45. Claiming a Contradiction between Allah's Legislation and His Divine Decree
+#### Denial of the Lord
 
-They opposed Allah's Legislation (i.e., commandments) by using His Divine Pre-ordainment (as an argument).
-
----
-#### 46. Attributing Events to Time and Reviling it
-
-They reviled time as is found in their saying: **"There is nothing but our life of this world. We die and we live and nothing destroys us except ad-Dahr (time)."** (al-Jathiyah [45]: 24)
+[40]. They committed Ta’til (negation of Allah's Names and Attributes), as is found in the statement of the people of Pharaoh.
 
 ---
-#### 47. Denying Allah's Blessing
+#### Describing Allah with Defciencies
 
-They attributed Allah's blessings to someone other than Him, as He says: **"They recognize the blessings of Allah, yet they deny them (by worshiping others besides Allah)."** (an-Nahl [16]: 83)
-
----
-#### 48. Disbelieving in Allah's Verses in General
-They disbelieved in the signs of Allah.
+[41]. They attributed defciencies to Allah, such as (Him having) a child, a need and being tired, while (on the other hand), they would eliminate some of these defciencies from their religious leaders (i.e., monks).
 
 ---
-#### 49. Disbelieving in Some of Allah's Verses
-They rejected some of them (these signs).
+#### Ascribing Partners to Allah with regard to His Dominion
+
+[42]. They committed Shirk in Allah's sovereignty (mulk), as is found in the beliefs of the Majus. 
 
 ---
-#### 50. Denying Allah's Revelation of Books to Messengers
+#### Denying Allah's Divine Pre-Decree
 
-They said: **"Allah did not send down anything to a man."** (al-An'am [6]: 91) 
-
----
-#### 51. Describing the Qur'an as being the speech of a Human Being
-
-They said about the Qur’an: **"Verily, this is nothing but the word of a man."** (al-Muddaththir [74]:;25)
+[43]. They rejected al-Qadar (Divine Pre-ordainment).
 
 ---
-#### 52. Negating Wisdom from Allah's Actions
+#### Using Allah's Divine Decree as an Excuse for their Disbelief
 
-They attacked the wisdom of Allah, the Mighty.
+[44]. They used al-Qadar as an excuse (for themselves) against Allah.
 
 ---
-#### 53. Employing schemes to nullify Allah's Legislation
-They employed different schemes –both hidden and apparent– to repel what the messengers came with. This is as is found in His saying: **"And they (disbelievers) plotted, while Allah (too) plotted."** (Aal 'Imran [3]: 54) 
+#### Claiming a Contradiction between Allah's Legislation and His Divine Decree
+
+[45]. They opposed Allah's Legislation (i.e., commandments) by using His Divine Pre-ordainment (as an argument).
+
+---
+#### Attributing Events to Time and Reviling it
+
+[46]. They reviled time as is found in their saying: **"There is nothing but our life of this world. We die and we live and nothing destroys us except ad-Dahr (time)."** (al-Jathiyah [45]: 24)
+
+---
+#### Denying Allah's Blessing
+
+[47]. They attributed Allah's blessings to someone other than Him, as He says: **"They recognize the blessings of Allah, yet they deny them (by worshiping others besides Allah)."** (an-Nahl [16]: 83)
+
+---
+#### Disbelieving in Allah's Verses in General
+
+[48]. They disbelieved in the signs of Allah.
+
+---
+#### Disbelieving in Some of Allah's Verses
+
+[49]. They rejected some of them (these signs).
+
+---
+#### Denying Allah's Revelation of Books to Messengers
+
+[50]. They said: **"Allah did not send down anything to a man."** (al-An'am [6]: 91) 
+
+---
+#### Describing the Qur'an as being the speech of a Human Being
+
+[51]. They said about the Qur’an: **"Verily, this is nothing but the word of a man."** (al-Muddaththir [74]:;25)
+
+---
+#### Negating Wisdom from Allah's Actions
+
+[52]. They attacked the wisdom of Allah, the Mighty.
+
+---
+#### Employing schemes to nullify Allah's Legislation
+
+[53]. They employed different schemes –both hidden and apparent– to repel what the messengers came with. This is as is found in His saying: **"And they (disbelievers) plotted, while Allah (too) plotted."** (Aal 'Imran [3]: 54) 
 
 And His saying: **"And a party of the people of the Scripture say: Believe in the morning in that which is revealed to the believers, and reject it at the end of the day, so that they may turn back."** (Aal 'Imran [3]: 72)
 
 ---
-#### 54. Agreeing with the Truth as a means to Repel it
-They agreed with the truth in order to fnd a way to repel it, as Allah has stated in the aforementioned verse.
+#### Agreeing with the Truth as a means to Repel it
+
+[54]. They agreed with the truth in order to fnd a way to repel it, as Allah has stated in the aforementioned verse.
 
 ---
-#### 55. Fanatical Attachment to Falsehood
-They held fanaticism for a particular Madhhab (i.e., belief, school of thought), as is found in His saying concerning that (quoting from the disbelievers): **“And do not believe (in anyone), except he who follows your religion (way of thinking).”** (Aal 'Imran [3]: 73)
+#### Fanatical Attachment to Falsehood
+
+[55]. They held fanaticism for a particular Madhhab (i.e., belief, school of thought), as is found in His saying concerning that (quoting from the disbelievers): **“And do not believe (in anyone), except he who follows your religion (way of thinking).”** (Aal 'Imran [3]: 73)
 
 ---
-#### 56. Calling Tawhid Shirk
-They labeled the aspect of following Islam as being a form of Shirk (association of partners in the worship of Allah). This has been mentioned by Allah in His saying: **“It is not possible for a human being that Allah give him the Book, the rule and the prophethood and then he (turns around after that) saying to the people: Be my worshipers, rather than Allah's. On the contrary, (he would say): Be you Rabbaniyyun (learned religious men) because of your having taught and studied the Book. Nor would he order you to take angels and prophets as lords (i.e., gods). Would He order you to disbelieve after you have submitted to Allah's Will?”** (Aal 'Imran [3]: 79-80)
+#### Calling Tawhid Shirk
+
+[56]. They labeled the aspect of following Islam as being a form of Shirk (association of partners in the worship of Allah). This has been mentioned by Allah in His saying: **“It is not possible for a human being that Allah give him the Book, the rule and the prophethood and then he (turns around after that) saying to the people: Be my worshipers, rather than Allah's. On the contrary, (he would say): Be you Rabbaniyyun (learned religious men) because of your having taught and studied the Book. Nor would he order you to take angels and prophets as lords (i.e., gods). Would He order you to disbelieve after you have submitted to Allah's Will?”** (Aal 'Imran [3]: 79-80)
 
 ---
-#### 57 & 58 Distorting the Words and 
-Twisting the Meanings of Allah's Book
-They distorted (Allah’s) words from their original state (i.e., meanings). 
+#### Distorting the Words and Twisting the Meanings of Allah's Book
 
-They twisted (the meanings of) the words found in the Book.
+[57]. They distorted (Allah’s) words from their original state (i.e., meanings). 
 
----
-#### 59. Giving the People of Truth Horrendous Nicknames
-They labeled the people of guidance with evil names such as “Sabian” (one who apostates from the truth) and “Hashawi” (one without any beneft in his speech).
+[58]. They twisted (the meanings of) the words found in the Book.
 
 ---
-#### 60-61 Fabricating lies against Allah and Denying the Truth
+#### Giving the People of Truth Horrendous Nicknames
 
-They fabricated lies upon Allah.
-
-They disbelieved in the truth.
+[59]. They labeled the people of guidance with evil names such as “Sabian” (one who apostates from the truth) and “Hashawi” (one without any beneft in his speech).
 
 ---
-#### 62. Inciting Kings against People of truth
+#### Fabricating lies against Allah and Denying the Truth
 
-They held the condition that, whenever overcome by established proof (against them), they fed to complain to the king (or ruler), as Allah says: **"The chiefs of the people of Pharaoh said (to Pharaoh): Will you leave Musa and his people to spread mischief in the land?"** (al-A'raf [7]: 127)
+[60]. They fabricated lies upon Allah.
+
+[61]. They disbelieved in the truth.
 
 ---
-#### 63. Accusing the People of Truth with that which they are Free from
+#### Inciting Kings against People of truth
+
+[62]. They held the condition that, whenever overcome by established proof (against them), they fed to complain to the king (or ruler), as Allah says: **"The chiefs of the people of Pharaoh said (to Pharaoh): Will you leave Musa and his people to spread mischief in the land?"** (al-A'raf [7]: 127)
+
+---
+#### Accusing the People of Truth with that which they are Free from
 
 [63]. They accused them (i.e., the prophets who refuted them) of causing mischief in the land, as is stated in the (previous) verse. 
 
@@ -454,6 +464,7 @@ And He says (quoting Pharaoh): **“Verily, I fear that he will change your reli
 
 ---
 #### Preserving the Landmarks of Prestigious People
+
 [85]. They performed sacrifces at the grave sites.
 
 [86]. They glorifed the landmarks and relics of their (deceased) prestigious and revered ones, such as was the case with the central town meeting hall (Dar an-Nadwah). Those who were in its power used to brag and boast about it, as it was said to Hakim bin Hazzaam (when he sold Dar an-Nadwah): “You have sold the honor of Quraysh.” So he said: “All honor has passed away except that of piety (Taqwa).”
@@ -471,6 +482,7 @@ And He says (quoting Pharaoh): **“Verily, I fear that he will change your reli
 
 ---
 #### Their society is based on Transgression
+
 [91]. The most honorable of their virtues was showing transgression to others by challenging them. So Allah revealed concerning it, what He revealed.
 
 ---
@@ -480,51 +492,87 @@ And He says (quoting Pharaoh): **“Verily, I fear that he will change your reli
 
 ---
 #### The Condemned Form of Fanatical Attachment
+
 [93]. Holding individual fanaticism and zealotry for one's party/group whether they were upon truth or falsehood was a must according to them. So Allah revealed what He did concerning that matter.
 
 ---
 #### Holding a Person Accountable for the Crime of Another
+
 [94]. Their religion consisted of holding people accountable for the crimes of others. So Allah revealed: **"And no bearer of burdens shall bear the burden of another."** (al-An'am [6]: 164)
 
 ---
 #### Condemning a Person for the Defciencies of an Another Person
+
 [95]. They used to condemn a person due to what was found in someone else. This is seen in the Prophet’s saying (to Abu Dharr when he argued with Bilal and called him 'son of a black woman'): **"Do you condemn him because of his mother? Indeed you are a man who has in him, (aspects of) Jaahiliyyah (the Days of Ignorance)!"**
 
-**[96]** They bragged and boasted that they were the caretakers of the House (of Allah, i.e., the Ka’bah). So Allah rebuked them, saying: **"In pride, they (Quraysh used to feel pride that they were the dwellers of the Makkah sanctuary) talked evil about it (the Qur'an) by night."** (al-Mu’minun [23]: 67)
+---
+#### Boasting about One's Good Feats
 
-**[97]** They would boast about their condition of being from among the offspring of the prophets. So Allah revealed His saying: **“That was a nation that has passed away. They shall receive the reward of what they earned and you of what you earned."** (al-Baqarah [2]: 134)
+[96]. They bragged and boasted that they were the caretakers of the House (of Allah, i.e., the Ka’bah). So Allah rebuked them, saying: **"In pride, they (Quraysh used to feel pride that they were the dwellers of the Makkah sanctuary) talked evil about it (the Qur'an) by night."** (al-Mu’minun [23]: 67)
 
-**[98]** They would boast about their trades, just as the merchants do considering themselves above the farmers.
+---
+#### Boasting about Ascription to Righteous People in spite of Contradicting Them
 
-**[99]** The worldly life was glorifed in their hearts, as is found in His saying: **“And they say: Why is this Qur'an not sent down to some great man of the two towns (Makkah and Taif)?**  (az-Zukhruf [43]: 31)
+[97]. They would boast about their condition of being from among the offspring of the prophets. So Allah revealed His saying: **“That was a nation that has passed away. They shall receive the reward of what they earned and you of what you earned."** (al-Baqarah [2]: 134)
 
-**[100]** They made suggestions above Allah’s doings, as is seen in His (above) saying. 
+---
+#### Boasting about Professions
 
-**[101]** They looked down upon the poor folk. So Allah revealed His saying: **"And turn not away those who invoke their Lord morning and afternoon, seeking His Face."** (al-An'am [6]: 52)
+[98]. They would boast about their trades, just as the merchants do considering themselves above the farmers.
 
-**[102]** They accused those who followed the messengers of having a lack of sincerity and of desiring to achieve worldly ends. So Allah responded to them by saying: **“You are accountable for them in nothing."** (al-An'am [6]: 52) and other similar statements. 
+---
+#### Being Mesmerized by the Worldly Life
 
-**[103]** They disbelieved in the angels. 
+[99]. The worldly life was glorifed in their hearts, as is found in His saying: **“And they say: Why is this Qur'an not sent down to some great man of the two towns (Makkah and Taif)?**  (az-Zukhruf [43]: 31)
 
-**[104]** They disbelieved in the messengers (sent by Allah). 
+---
+#### Making Amendments and Suggestions over Allah
 
-**[105]** They disbelieved in the revealed books (of Allah). 
+[100]. They made suggestions above Allah’s doings, as is seen in His (above) saying. 
 
-**[106]** They turned away from (accepting) what was reported concerning Allah. 
+[101]. They looked down upon the poor folk. So Allah revealed His saying: **"And turn not away those who invoke their Lord morning and afternoon, seeking His Face."** (al-An'am [6]: 52)
 
-**[107]** They disbelieved in the Last Day. 
+---
+#### Accusing the Believers about their Intentions and Goals
 
-**[108]** They denied that they would meet Allah (on the Day of Judgment).
+[102]. They accused those who followed the messengers of having a lack of sincerity and of desiring to achieve worldly ends. So Allah responded to them by saying: **“You are accountable for them in nothing."** (al-An'am [6]: 52) and other similar statements. 
 
-**[109]** They denied some of the aspects that the messengers (of Allah) informed of concerning the Last Day, as is found in His saying: **“They are the ones who disbelieve in the verses of their Lord and in (their) Meeting (with) Him.”** (al-Kahf [18]: 105) This includes a denial of His saying: **“Master of the Day of Recompense.”** (al-Fatihah [1]: 2) 
+---
+#### Disbelieving in the Fundamentals of the Religion
+
+[103]. They disbelieved in the angels. 
+
+[104]. They disbelieved in the messengers (sent by Allah). 
+
+[105]. They disbelieved in the revealed books (of Allah). 
+
+[106]. They turned away from (accepting) what was reported concerning Allah. 
+
+[107]. They disbelieved in the Last Day. 
+
+[108]. They denied that they would meet Allah (on the Day of Judgment).
+
+---
+#### Disbelieving in some of what the Messengers Informed of
+
+[109]. They denied some of the aspects that the messengers (of Allah) informed of concerning the Last Day, as is found in His saying: **“They are the ones who disbelieve in the verses of their Lord and in (their) Meeting (with) Him.”** (al-Kahf [18]: 105) This includes a denial of His saying: **“Master of the Day of Recompense.”** (al-Fatihah [1]: 2) 
 
 And His saying: **“Spend of that with which We have provided you before a Day comes when there will be no bargaining nor friendship nor intercession."** (al-Baqarah [2]: 254) and His saying: **“Except for those who bear witness to the truth while knowing.”** (az-Zukhruf [43]: 86)
 
-**[110]** They killed those people who commanded towards justice and fairness. 
+---
+#### Enmity towards the Callers to Truth
 
-**[111]** They believed in al-Jibt and at-Taghout (false deities and religions).
+[110]. They killed those people who commanded towards justice and fairness. 
 
-**[112]** They preferred the religion of the polytheists over the religion of the Muslims.
+--- 
+#### Believing in Falsehood; al-Jibt and at-Taghout
+
+[111]. They believed in al-Jibt and at-Taghut (false deities and religions).
+
+---
+#### Preferring Disbelief over Faith
+
+[112]. They preferred the religion of the polytheists over the religion of the Muslims.
 
 **[113]** They covered the truth with falsehood.
 
