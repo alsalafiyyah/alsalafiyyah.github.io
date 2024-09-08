@@ -1,7 +1,7 @@
 <!-- fatwas widget section -->
 <section>
-<div class="container-lg">
-<ul class="list-group mb-3">
+<div class="container-lg mb-5">
+<ul class="list-group">
   <li class="list-group-item d-flex justify-content-between align-items-center border-0" style="margin:0px !important;padding: 0px !important;">
     <h2>
       {% if page.locale == 'en' %}{{ site.data.locales[page.locale].page.recent_fatwas }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].page.recent_fatwas }}{% else %}Recent Fatwas{% endif %}
