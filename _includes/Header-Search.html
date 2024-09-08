@@ -9,8 +9,7 @@
     <a itemprop="url" href="{{ site.url | escape }}" class="d-block d-lg-none my-8 logo text-center">
       <img src="{{ '/assets/images/logo.svg' | absolute_url }}" 
        class="img-fluid" 
-       alt="{{ site.title }}" 
-       width="130px" height="80px"/>
+       alt="{{ site.title }}"/>
     </a>
  <div class="vr text-dark"></div>
   <form class="d-flex" role="search" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" action="{% if page.locale == 'en' %}{{ site.data.locales[page.locale].site.url_search }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].site.url_search }}{% else %}https://alsalafiyyah.github.io/search{% endif %}">
