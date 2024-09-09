@@ -183,7 +183,16 @@ defaults:
       type: posts
     values:
       layout: post
+      active: audios
       permalink: /audios/:title/
+  # _posts/videos/    
+  - scope:
+      path: "_posts/videos/**"
+      type: posts
+    values:
+      layout: post
+      active: videos
+      permalink: /videos/:title/
   # _posts/muqolat/
   - scope:
       path: "_posts/muqolat/**"
