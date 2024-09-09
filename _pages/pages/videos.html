@@ -1,0 +1,27 @@
+---
+layout: Page
+title: Videos
+active: videos
+permalink: /videos/
+excerpt: Collection of video fatwas (legal opinions) issued by the scholars of ahlus-sunnah.
+---
+{% for post in site.posts %}
+{% if post.categories contains 'videos' %} 
+{% if post.url %}
+<div class="card mb-3" style="max-width: 540px;">
+  <div class="row g-0">
+    <div class="col-md-4">
+      <img src="http://img.youtube.com/vi/{{ post.videoID }}/mqdefault.jpg" class="img-fluid rounded-start" alt="{{ post.title }}">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body bg-transparent">
+        <h5 class="card-title">{{ post.title }}</h5>
+        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+        <p class="card-text"><small class="text-body-secondary">{{ post.hijri }}</small></p>
+      </div>
+    </div>
+  </div>
+</div>
+{% endif %}
+{% endif %}  
+{% endfor %}
