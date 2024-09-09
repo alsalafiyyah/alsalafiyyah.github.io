@@ -15,6 +15,9 @@ nav:
   - name: Audios
     url: /audios
     active: audios
+  - name: Videos
+    url: /videos
+    active: videos    
   - name: Muqolat
     url: /muqolat
     active: muqolat
