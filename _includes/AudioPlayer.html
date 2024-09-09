@@ -4,3 +4,8 @@
    <p>{{ site.data.locales[page.locale].page.notSupportaudio }}</p>
   </audio><br/><br/>
  {% endif %}
+{% if page.active == 'videos' %}
+<div class="ratio ratio-16x9">
+  <iframe src="{{ page.videoURL" title="{{ page.title }}" allowfullscreen></iframe>
+</div>
+{% endif %}
