@@ -8,15 +8,17 @@ excerpt: Collection of video fatwas (legal opinions) issued by the scholars of a
 {% for post in site.posts %}
 {% if post.categories contains 'videos' %} 
 {% if post.url %}
-<div class="card mb-3" style="max-width: 540px;">
+<div class="card bg-transparent border-danger mb-3" style="max-width: 540px;">
   <div class="row g-0">
     <div class="col-md-4">
-      <img src="http://img.youtube.com/vi/{{ post.videoID }}/mqdefault.jpg" class="img-fluid rounded-start" alt="{{ post.title }}">
+      <a href="{{ post.url }}">
+        <img src="http://img.youtube.com/vi/{{ post.videoID }}/mqdefault.jpg" class="img-fluid rounded-start" alt="{{ post.title }}">
+      </a>
     </div>
     <div class="col-md-8">
       <div class="card-body bg-transparent">
-        <h5 class="card-title">{{ post.title }}</h5>
-        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+        <h5 class="card-title"><a href="{{ post.url }}">{{ post.title }}</a></h5>
+        <p class="card-text">{{ post.content | truncatewords: 20  | strip_html | normalize_whitespace | remove_first: "Question:" }}</p>
         <p class="card-text"><small class="text-body-secondary">{{ post.hijri }}</small></p>
       </div>
     </div>
