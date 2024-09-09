@@ -1,11 +1,18 @@
- {% if page.mp3 %}
+{% if page.mp3 %}
+<div class="mb-4">
   <audio controls>
    <source src="{{ page.mp3 }}" type="audio/mpeg"/>
    <p>{{ site.data.locales[page.locale].page.notSupportaudio }}</p>
-  </audio><br/><br/>
- {% endif %}
-{% if page.active == 'videos' %}
-<div class="ratio ratio-16x9">
-  <iframe src="{{ page.videoURL }}" title="{{ page.title }}" allowfullscreen></iframe>
+  </audio>
 </div>
+{% endif %}
+{% if page.active == 'videos' %}
+ {% if page.videoID %}
+  <div class="mb-4 ratio ratio-16x9">
+   <iframe src="https://youtu.be/{{ page.videoID }}" 
+    title="{{ page.title }}" 
+    allowfullscreen>
+    </iframe>
+  </div>
+ {% endif %}
 {% endif %}
