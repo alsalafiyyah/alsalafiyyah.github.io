@@ -12,7 +12,7 @@
   {% if page.layout == 'post' %}  
   <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
    <a class="link-opacity-50-hover" itemprop="item" 
-    href="{% if page.active == "audios" %}/audios{% elsif page.active == "biography" %}/biography{% elsif page.active == "category" %}/category{% elsif page.active == "muqolat" %}/muqolat{% elsif page.active == "wahhabi" %}/wahhabism{% elsif page.active == "radd" %}/radd{% else %}/fatwas{% endif %}">
+    href="{% if page.active == "audios" %}/audios{% elsif page.active == "videos" %}/videos{% elsif page.active == "biography" %}/biography{% elsif page.active == "category" %}/category{% elsif page.active == "muqolat" %}/muqolat{% elsif page.active == "wahhabi" %}/wahhabism{% elsif page.active == "radd" %}/radd{% else %}/fatwas{% endif %}">
     <span itemprop="name">
      {% if page.active == "audios" %}
       Audios
@@ -26,6 +26,8 @@
       Wahhabism
      {% elsif page.active == "radd" %}
       Refutals
+     {% elsif page.active == "videos" %}
+      Videos
      {% else %}
       Fatwas
      {% endif %}
