@@ -14,8 +14,18 @@ excerpt: Collection of video fatwas (legal opinions) issued by the scholars of a
       <a href="{{ post.url }}"><img src="http://img.youtube.com/vi/{{ post.videoID }}/mqdefault.jpg" class="card-img-top" alt="{{ post.title }}"></a>
       <div class="card-body">
         <h5 class="card-title"><a href="{{ post.url }}">{{ post.title }}</a></h5>
-        <p class="card-text">{{ post.content | truncatewords: 20  | strip_html | normalize_whitespace | remove_first: "Question:" }}</p>
-        <p class="card-text"><small class="text-body-secondary">{{ post.hijri }}</small></p>
+        <p class="card-text fst-italic">{{ post.content | truncatewords: 20  | strip_html | normalize_whitespace | remove_first: "Question:" }}</p>
+        <p class="card-text">
+          <small class="text-body-secondary">
+          <a role="button" 
+          class="link-dark" 
+          data-bs-toggle="tooltip" 
+          data-bs-title="{{ post.date | date: '%b %d, %Y' }}">
+          <i class="bi bi-info-circle text-danger"></i> 
+          <span itemprop="datePublished" content="{{ post.date | to_utc | date: '%Y%m%dT%H:%M:%S%:z' }}" class="text-dark">{{ post.hijri }}</span>
+          </a>
+          </small>
+        </p>
       </div>
     </div>
   </div>
