@@ -8,11 +8,13 @@
 {% endif %}
 {% if page.active == 'videos' %}
  {% if page.videoID %}
-  <div class="mb-4 ratio ratio-16x9">
+<div class="card bg-transparent border-danger rounded-0 p-1 mb-5">
+ <div class="ratio ratio-16x9 card-body">
    <iframe src="https://www.youtube.com/embed/{{ page.videoID }}?rel=0" 
     title="{{ page.title }}" 
     allowfullscreen>
     </iframe>
   </div>
+</div>
  {% endif %}
 {% endif %}
