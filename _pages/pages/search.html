@@ -9,9 +9,14 @@ exclude_from_search: true
 ---
 <section class="container-md" style="margin-top: 120px !important;">
  <div id="tipue_search_content"></div>
-</section>  
+</section>
 <script>
 $(document).ready(function() {
-  $('#tipue_search_input').tipuesearch();
+ $('#tipue_search_input').tipuesearch({
+  'show': 20,
+  'title': true,
+  'newWindow': false,
+  'showTitleCount: true
+ });
 });
 </script>
