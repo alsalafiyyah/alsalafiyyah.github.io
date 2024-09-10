@@ -574,37 +574,71 @@ And His saying: **“Spend of that with which We have provided you before a Day 
 
 [112]. They preferred the religion of the polytheists over the religion of the Muslims.
 
-**[113]** They covered the truth with falsehood.
+---
+#### They covered the truth with falsehood.
 
-**[114]** They concealed the truth, while possessing full knowledge of it.
+[113]. They covered the truth with falsehood.
 
-**[115]** They enforced the source principle of misguidance, and that is speaking about Allah without any knowledge.
+[114]. They concealed the truth, while possessing full knowledge of it.
 
-**[116]** They found themselves in clear contradiction when they chose to disbelieve in the truth, as Allah says: **“But they disbelieved in the truth when it came to them, so they are in a state of utter confusion.”** (Qaf [50]: 5)
+---
+#### Speaking about Allah without Knowledge
+[115]. They enforced the source principle of misguidance, and that is speaking about Allah without any knowledge.
 
-**[117]** They believed in some parts of Allah’s revelation, while rejecting other parts.
+---
+#### Contradiction and Inconsistency in Statements
 
-**[118]** They differentiated between the messengers.
+[116]. They found themselves in clear contradiction when they chose to disbelieve in the truth, as Allah says: **“But they disbelieved in the truth when it came to them, so they are in a state of utter confusion.”** (Qaf [50]: 5)
 
-**[119]** They argued and challenged those things that they had no knowledge of.
+---
+#### Believing in Parts of the Revelation
 
-**[120]** They claimed to follow the Salaf (righteous predecessors), while (in fact) they openly opposed and contradicted them.
+[117]. They believed in some parts of Allah’s revelation, while rejecting other parts.
 
-**[121]** The hindered anyone who believed in Allah from His path.
+---
+#### Believing in some of the Messengers
 
-**[122]** They loved disbelief and the disbelievers.
+[118]. They differentiated between the messengers.
 
-**[123]** They used to believe in omens. 
+---
+#### Arguing in Matters one has no Knowledge of
 
-**[124]** They used to draw lines on the ground in order to predict future events (at-Tarq). 
+[119]. They argued and challenged those things that they had no knowledge of.
 
-**[125]** They would foretell upcoming events (omens) based upon the fight of birds (at-Tirah). 
+---
+#### Contradictions in the Following of others
 
-**[126]** They indulged in soothsaying and fortune telling. 
+[120]. They claimed to follow the Salaf (righteous predecessors), while (in fact) they openly opposed and contradicted them.
 
-**[127]** They appealed to at-Taghout (false deities and systems) for judgment. 
+---
+#### Hindering People from the Path of Allah
 
-**[128]** They hated that marriage be carried out between the two Ids (as they considered that a bad omen). 
+[121]. The hindered anyone who believed in Allah from His path.
+
+---
+#### Allegiance towards the Disbelievers
+
+[122]. They loved disbelief and the disbelievers.
+
+---
+#### Relying on False Notions and Superstitions and appealed to atTaghout for judgment
+
+---
+#### Relying on False Notions and Superstitions and appealed to atTaghout for judgment
+
+[123]. They used to believe in omens. 
+
+[124]. They used to draw lines on the ground in order to predict future events (at-Tarq). 
+
+[125]. They would foretell upcoming events (omens) based upon the fight of birds (at-Tirah). 
+
+[126]. They indulged in soothsaying and fortune telling. 
+
+[127]. They appealed to at-Taghout (false deities and systems) for judgment. 
+
+[128]. They hated that marriage be carried out between the two Ids (as they considered that a bad omen). 
+
+---
 
 ***And Allah knows best. May the peace and blessings of Allah be upon Muhammad, his family and his Companions.***
 
