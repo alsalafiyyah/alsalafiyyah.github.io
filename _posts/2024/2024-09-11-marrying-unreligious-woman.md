@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on marrying a woman who is not religious"
+title: "Ruling on marrying a woman who is not righteous"
 hijri: "Rabiul Awwal 08, 1446"
 source: "Fatwa no.446"
 lang: en
