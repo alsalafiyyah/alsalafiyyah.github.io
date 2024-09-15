@@ -1,6 +1,6 @@
 <div class="card bg-transparent border-danger mt-4">
   <div class="position-absolute top-0 start-50 translate-middle badge text-bg-danger">
-   Share
+   {% if page.locale == 'ar' %}{{ site.data.locales[page.locale].page.share }}{% elsif page.locale == 'en' %}{{ site.data.locales[page.locale].page.share }}{% else %}Share{% endif %}
   </div>
   <div class="card-body">
   <div class="mt-3">  
@@ -62,7 +62,7 @@
  <div class="input-group input-group-sm text">    
   <span class="input-group-text border-danger" id="button-copy"><i class="bi bi-link-45deg"></i></span> 
   <input type="text" class="form-control shadow-none border-danger" placeholder="{{ site.url }}{{site.baseurl}}{{ page.url }}" aria-label="{{ site.url }}{{site.baseurl}}{{ page.url }}" aria-describedby="button-copy" readonly>
-  <button class="btn btn-danger shadow-none btn-sm button-url-copy" type="button" id="button-copy" data-text="{% if page.locale == 'ar' %}{{ site.data.locales[page.locale].page.copy }}{% else %}Copy{% endif %}" data-text-copied="{% if page.locale == 'ar' %}{{ site.data.locales[page.locale].page.copied }}{% else %}Copied{% endif %}"><i class="bi bi-copy"></i> <span>Copy</span></button>
+  <button class="btn btn-danger shadow-none btn-sm button-url-copy" type="button" id="button-copy" data-text="{% if page.locale == 'ar' %}{{ site.data.locales[page.locale].page.copy }}{% elsif page.locale == 'en' %}{{ site.data.locales[page.locale].page.copy }}{% else %}Copy{% endif %}" data-text-copied="{% if page.locale == 'ar' %}{{ site.data.locales[page.locale].page.copied }}{% elsif page.locale == 'en' %}{{ site.data.locales[page.locale].page.copied }}{% else %}Copied{% endif %}"><i class="bi bi-copy"></i> <span>{% if page.locale == 'ar' %}{{ site.data.locales[page.locale].page.copy }}{% elsif page.locale == 'en' %}{{ site.data.locales[page.locale].page.copy }}{% else %}Copy{% endif %}</span></button>
  </div>
 </div><!-- /Copy clipboard -->
  </div>
