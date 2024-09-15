@@ -77,6 +77,7 @@ page:
   recent: جديد
   related_fatwas: فتاوى ذات صلة
   copy: نسخ
+  copied: تم نسخ
   published_on: تاريخ النشر
   view_all: تصفح الكل
   category: التصنيف
@@ -122,3 +123,4 @@ page:
   muqolat: مقالات
   wahhabism: الوهابية
   radd: الرد
+  estimated_reading_time: عداد قراءة
