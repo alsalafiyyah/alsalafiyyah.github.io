@@ -83,6 +83,7 @@ page:
   related_fatwas: Related Fatwas
   recent: Recent
   copy: Copy
+  copied: Copied
   published_on: Published on 
   view_all: View all
   category: Category
@@ -130,3 +131,5 @@ page:
   articles: Muqolat
   wahhabism: Wahhabism
   radd: Refutals
+  estimated_reading_time: Estimated Reading Time
+  
