@@ -5,7 +5,7 @@ site:
   url: /
   ar: "عربي"
   en: "en"
-  url_search: /en/search
+  url_search: /search
   url_fatwas_widget: /fatwas/
   url_audios_widget: /audios/
 
@@ -16,6 +16,9 @@ nav:
   - name: Audios
     url: /audios/
     active: audios
+  - name: Videos
+    url: /videos/   
+    active: videos
   - name: Muqolat
     url: /muqolat/
     active: muqolat
@@ -23,9 +26,7 @@ nav:
     url: /biography/    
   - name: Categories
     url: /category
-    active: category
-  - name: Radd
-    url: /radd/    
+    active: category    
 
 aside_quick_links:
   - name: Bid'ah
@@ -38,11 +39,13 @@ aside_quick_links:
     url: /sects/
 
 aside_external_links:
+  - name: About
+    url: /about
   - name: RSS Feed
     url: /feed
   - name: Sitemap
     url: /sitemap
-  - name: AlFatawa.Com
+  - name: Search Fatwas (Arabic)
     url: https://al-fatawa.com/
 
 footer:
@@ -132,4 +135,4 @@ page:
   wahhabism: Wahhabism
   radd: Refutals
   estimated_reading_time: Estimated Reading Time
-  
+  videos: Videos
