@@ -1,14 +1,16 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com - Instagram@ALSALAFIYYAH
+publisher: alsalafiyyah@icloud.com
 date: 2020-11-08
-hijri: 22 ربيع الأول 1442
+hijri: ٢٢ ربيع الأول ١٤٤٢
 title: ما الفرق بين النبي والرسول؟
 source: نور على الدرب 467
-output: html_document
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_467/46704.mp3
-muftis: الشيخ بن باز
-expert:
+muftis:
+  shaykh: 
+    - name: "الشيخ بن باز"
+      url: /biography/fawzan
+excerpt:
   المشهور عند العلماء أن النبي هو الذي يوحى إليه بشرع، ولكن لا يؤمر بتبليغ الناس، يوحى إليه يفعل كذا، ويفعل كذا، يصلي كذا، يصوم كذا، لكن لا يؤمر بالتبليغ، فهذا يقال له نبي. 
 ---
 
