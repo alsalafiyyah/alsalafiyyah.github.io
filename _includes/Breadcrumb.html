@@ -4,7 +4,7 @@
   
   <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
    <a class="link-opacity-50-hover" itemprop="item" href="{{ site.url }}">
-     <span itemprop="name">Home</span>
+     <span itemprop="name">{% if page.locale == 'ar' %}{{ site.data.locales[page.locale].page.home }}{% elsif page.locale == 'en' %}{{ site.data.locales[page.locale].page.home }}{% else %}{{ "Home" | capitalize }}{% endif %}</span>
    </a>
    <meta itemprop="position" content="1" />
   </li>   
@@ -15,21 +15,21 @@
     href="{% if page.active == "audios" %}/audios{% elsif page.active == "videos" %}/videos{% elsif page.active == "biography" %}/biography{% elsif page.active == "category" %}/category{% elsif page.active == "muqolat" %}/muqolat{% elsif page.active == "wahhabi" %}/wahhabism{% elsif page.active == "radd" %}/radd{% else %}/fatwas{% endif %}">
     <span itemprop="name">
      {% if page.active == "audios" %}
-      Audios
+      {% if page.locale == 'ar' %}{{ site.data.locales[page.locale].page.audios }}{% elsif page.locale == 'en' %}{{ site.data.locales[page.locale].page.audios }}{% else %}{{ "Audios" | capitalize }}{% endif %}
      {% elsif page.active == "biography" %}
-      Scholars Biographies
+      {% if page.locale == 'ar' %}{{ site.data.locales[page.locale].page.biographies }}{% elsif page.locale == 'en' %}{{ site.data.locales[page.locale].page.biographies }}{% else %}{{ "Scholars Biographies" | capitalize }}{% endif %}
      {% elsif page.active == "category" %}
-      Categories
+      {% if page.locale == 'ar' %}{{ site.data.locales[page.locale].page.categories }}{% elsif page.locale == 'en' %}{{ site.data.locales[page.locale].page.categories }}{% else %}{{ "Categories" | capitalize }}{% endif %}
      {% elsif page.active == "muqolat" %}
-      Muqolat
+      {% if page.locale == 'ar' %}{{ site.data.locales[page.locale].page.muqolat }}{% elsif page.locale == 'en' %}{{ site.data.locales[page.locale].page.muqolat }}{% else %}{{ "Muqolat" | capitalize }}{% endif %}
      {% elsif page.active == "wahhabi" %}
-      Wahhabism
+      {% if page.locale == 'ar' %}{{ site.data.locales[page.locale].page.wahhabism }}{% elsif page.locale == 'en' %}{{ site.data.locales[page.locale].page.wahhabism }}{% else %}{{ "Wahhabism" | capitalize }}{% endif %}
      {% elsif page.active == "radd" %}
-      Refutals
+      {% if page.locale == 'ar' %}{{ site.data.locales[page.locale].page.radd }}{% elsif page.locale == 'en' %}{{ site.data.locales[page.locale].page.radd }}{% else %}{{ "Refutals" | capitalize }}{% endif %}
      {% elsif page.active == "videos" %}
-      Videos
+      {% if page.locale == 'ar' %}{{ site.data.locales[page.locale].page.videos }}{% elsif page.locale == 'en' %}{{ site.data.locales[page.locale].page.videos }}{% else %}{{ "Videos" | capitalize }}{% endif %}
      {% else %}
-      Fatwas
+      {% if page.locale == 'ar' %}{{ site.data.locales[page.locale].page.fatwas }}{% elsif page.locale == 'en' %}{{ site.data.locales[page.locale].page.fatwas }}{% else %}{{ "Fatwas" | capitalize }}{% endif %}
      {% endif %}
     </span>
   </a>
