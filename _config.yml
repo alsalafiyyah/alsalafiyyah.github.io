@@ -169,14 +169,6 @@ defaults:
       layout: post
       locale: en
       permalink: /en/:title/
-  # _posts/ar/
-  - scope:
-      path: "_posts/ar/**"
-      type: posts
-    values:
-      layout: post
-      locale: ar
-      permalink: /ar/:title/    
   # _posts/audios/
   - scope:
       path: "_posts/audios/**"
@@ -228,14 +220,6 @@ defaults:
   #multilingual
   -
     scope:
-      path: "en/_posts/**"
-      type: "posts"
-    values:
-      locale: "en"
-      lang: "en"
-      permalink: /en/:title/
-  -
-    scope:
       path: "ar/_posts/**"
       type: "posts"
     values:
@@ -244,12 +228,12 @@ defaults:
       permalink: /ar/:title/
   -
     scope:
-      path: "en/_pages/**"
+      path: "ar/_posts/audios/**"
       type: "pages"
     values:
       locale: "en"
       lang: "en"
-      permalink: /en/:title/
+      permalink: /ar/audios/:title/
   -
     scope:
       path: "ar/_pages/**"
@@ -265,12 +249,8 @@ collections:
   ar:
     output          : true
     locale          : ar
+    lang            : ar
     permalink       : /:collection/:slug
-  en: 
-    output          : true      
-    locale          : en
-    permalink       : /:collection/:slug
-
 
 # Alifta Scholars
 group1:
