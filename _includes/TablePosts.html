@@ -1,6 +1,6 @@
 <table>  
-{% assign sortedPosts = site.posts | sort: 'locale' %}
-{% for post in sortedPosts %}
+{% assign posts=site.posts | where:"locale", page.locale %}
+{% for post in posts %}
   <tr>
    <td>
     <h3 class="content-title">
