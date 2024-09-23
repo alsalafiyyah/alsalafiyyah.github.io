@@ -2,7 +2,7 @@
 <div class="collapse" id="navbarToggleExternalContent" data-bs-theme="dark">  
  <div class="bg-dark p-4" itemscope itemtype="http://schema.org/WebSite">
    <p class="text-body-emphasis">
-    {{ site.data.setting.page.search }}
+    {{ site.data.locales[page.locale].page.search }}
    </p>
   <meta itemprop="url" content="{% if page.locale == 'en' %}{{ site.data.locales[page.locale].site.url }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].site.url }}{% else %}{{ site.url }}{% endif %}"/>
   <form class="d-flex" role="search" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" action="{% if page.locale == 'en' %}{{ site.data.locales[page.locale].site.url_search }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].site.url_search }}{% else %}https://alsalafiyyah.github.io/search{% endif %}">
@@ -12,7 +12,7 @@
   <input 
     type="search" 
     class="form-control shadow-none border-danger" 
-    placeholder="{{ site.data.setting.page.search }}"
+    placeholder="{{ site.data.locales[page.locale].page.search }}"
     aria-label="Search" 
     aria-describedby="button-addon2"
     name="q" 
@@ -25,7 +25,7 @@
    class="btn btn-danger" 
    type="submit" 
    id="button-addon2">
-   {{ site.data.setting.page.search }}
+   {{ site.data.locales[page.locale].page.search }}
   </button>
 </div>            
     </form>
@@ -44,12 +44,12 @@
 
 <nav class="navbar shadow-sm" id="navbar" role="navigation" vocab="http://schema.org" itemtype="SiteNavigationElement">
 <div class="hstack gap-3 card card-body bg-transparent border-0 border-radius-0" style="padding: 10px !important;">
-    <a itemprop="url" class="navbar-brand d-none d-lg-block" href="{{ site.url | escape }}">
+    <a itemprop="url" class="navbar-brand d-none d-lg-block" href="{{ site.data.locales[page.locale].site.url | default: site.url | escape }}">
       <h1 itemprop="name">
-       {{ site.data.setting.site.title | default: site.title | escape }}
+       {{ site.data.locales[page.locale].site.title | default: site.title | escape }}
       </h1>      
     </a>
-    <a itemprop="url" href="{{ site.url | escape }}" class="d-block d-lg-none my-8 logo text-center">
+    <a itemprop="url" href="{{ site.data.locales[page.locale].site.url | default: site.url | escape }}" class="d-block d-lg-none my-8 logo text-center">
       <img src="{{ '/assets/images/logo.svg' | absolute_url }}" 
        class="img-fluid" 
        alt="{{ site.title }}" 
@@ -57,7 +57,7 @@
     </a>
  <div class="vr text-dark"></div>
   <ul class="nav">
-    {% for item in site.data.setting.nav %}
+    {% for item in site.data.locales[page.locale].nav %}
     <li class="nav-item">
      <a property="url" class="nav-link icon-link" href="{{ item.url }}">
       {{ item.name }}
