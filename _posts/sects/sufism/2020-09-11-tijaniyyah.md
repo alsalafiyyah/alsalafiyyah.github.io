@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Tijaniyyah Tariqah (Sufi order)"
+title: "The Ruling on Tijaniyyah Sufi Order"
 hijri: Muharram 22, 1442
 locale: en
 lang: en
@@ -9,22 +9,20 @@ note: false
 uid: tijaniyyah
 category: [sects]
 source: "Majmu' Fatawa of Ibn Baz, vol 6"
-excerpt: "We have so many followers of the Tijaniyyah, but I have known from your Program that it is an innovated Tariqah (Sufi order)"
+excerpt: "Tijaniyyah is an innovated Tariqah and Muslims are not permitted to follow innovated Tariqahs, whether the Tijaniyyah or any other."
 muftis:
   shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
+    - name: Shaykh Ibn Baz
       url: /biography/binbaz/
 ---
 
-Question:
+### Question:
+We have so many followers of the Tijaniyyah (a deviant Sufi sect embracing strange beliefs far from Islam), but I have known from your Program "Nur 'ala Al-Darb" that it is an innovated Tariqah (Sufi order) that must not be followed. However, my family members recite the remembrance litanies of Shaykh Ahmad Al-Tijany, which is Salat-ul-Fatih (Remembrance from the Tijaniyyah order). They claim that Salat-ul-Fatih is the correct form of sending peace and blessings on the Prophet (peace be upon him); is this true? 
 
-We have so many followers of the Tijaniyyah (a deviant Sufi sect embracing strange beliefs far from Islam), but I have known from your Program "Nur 'ala Al-Darb" that it is an innovated [Tariqah (Sufi order)](/sufism) that must not be followed. However, my family members recite the remembrance litanies of Shaykh Ahmad Al-Tijany, which is Salat-ul-Fatih (Remembrance from the Tijaniyyah order). They claim that Salat-ul-Fatih is the correct form of sending peace and blessings on the Prophet (peace be upon him); is this true? 
+They also claim that whoever used to recite Salat-ul-Fatih and stop reciting it becomes a Kafir (disbeliever). They believe that if one cannot persist in reciting it and stops, no blame is there but if they are able to recite it and stop, they have turned into a Kafirs. I told my father that this is not correct and is not permissible but he accused me of being a follower of the Wahhabi order. Please, advise!
 
-They also claim that whoever used to recite Salat-ul-Fatih and stop reciting it becomes a Kafir (disbeliever). They believe that if one cannot persist in reciting it and stops, no blame is there but if they are able to recite it and stop, they have turned into a Kafirs. I told my father that this is not correct and is not permissible but he accused me of being a follower of [the Wahhabi](/wahhabism/) order. Please, advise!
-
-Answer:
-
-Undoubtedly, Tijaniyyah is an innovated Tariqah and Muslims are not permitted to follow innovated Tariqahs, whether the Tijaniyyah or any other. Rather, they must follow and adhere to what was revealed to the Messenger (peace be upon him), because Allah says: "**Say (O Muhammad صلى الله عليه وسلم to mankind): "If you (really) love Allâh then follow me (i.e. accept Islâmic Monotheism, follow the Qur’ân and the Sunnah), Allâh will love you and forgive you your sins.**" [Aal Imran: 31]
+### Answer:
+Undoubtedly, Tijaniyyah is an innovated Tariqah and **Muslims are not permitted to follow innovated Tariqahs (Sufi orders)**, whether the Tijaniyyah or any other. Rather, they must follow and adhere to what was revealed to the Messenger (peace be upon him), because Allah says: "**Say (O Muhammad صلى الله عليه وسلم to mankind): "If you (really) love Allâh then follow me (i.e. accept Islâmic Monotheism, follow the Qur’ân and the Sunnah), Allâh will love you and forgive you your sins.**" [Aal Imran: 31]
 
 This means that Allah is telling the Prophet (peace be upon him) to tell the people to follow him, if they love Allah so that Allah will love them and forgive their sins. Allah (Glorified and Exalted be He) also says: "**[Say (O Muhammad صلى الله عليه وسلم) to these idolaters (pagan Arabs) of your folk:] Follow what has been sent down unto you from your Lord (the Qur’ân and Prophet Muhammad’s Sunnah), and follow not any Auliyâ’ (protectors and helpers who order you to associate partners in worship with Allâh), besides Him (Allâh). Little do you remember!**" [Al-A'raf: 3]
 
@@ -59,8 +57,6 @@ In a third Hadith related by Muslim in his Sahih on the authority of Abu Mas'ud 
 These Hadiths and others conveying the same meaning show the wording of sending peace and blessings on the Prophet (peace be upon him), which he has prescribed for his Ummah (nation based on one creed).
 
 As for Salat-ul-Fatih, even if its intended meaning may be correct in general, it is not permissible to recite it and refrain from reciting what was authentically reported from the Prophet (peace be upon him) regarding how should we send peace and blessings on him, of which we are ordered. Even more, the phrase "The Opener of what is closed" is broad in meaning and can be falsely explained by those who follow their whims. Allah is the One Who grants success!
-
----
 
 [^1]: Al-Bukhari, Sahih, Book on reconciliation, no. 2697; Muslim, Sahih, Book on judicial decisions, no. 1718; Abu Dawud, Sunan, Book on Al-Sunnah, no. 4606; Ibn Majah, Sunan, Introduction, no. 14; and Ahmad, Musnad, vol. 6, p. 240.
 [^2]: Muslim, Sahih, Book on judicial decisions, no. 1718; and Ahmad ibn Hanbal, Musnad, vol. 6, p. 256.
