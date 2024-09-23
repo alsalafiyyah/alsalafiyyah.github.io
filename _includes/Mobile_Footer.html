@@ -7,13 +7,17 @@
   <div class="accordion-item border-danger bg-transparent">
     <h2 class="accordion-header">
       <button class="accordion-button collapsed bg-transparent fw-semibold shadow-none h4" type="button" data-bs-toggle="collapse" data-bs-target="#footer_quick_links" aria-expanded="false" aria-controls="footer_quick_links" style="font-size: 1.2rem;">
-        Subject
+        {% if page.locale == 'ar' %}
+         {{ site.data.locales[page.locale].page.subject }}
+        {% else %}
+         Subject
+        {% endif %}
       </button>
     </h2>
     <div id="footer_quick_links" class="accordion-collapse collapse" data-bs-parent="#accordionFooter">
      <div class="accordion-body">
       <ul class="list-group list-group-flush">
-       {% for item in site.data.setting.aside_quick_links %}
+       {% for item in site.data.locales[page.locale].aside_quick_links %}
         <li class="list-group-item bg-transparent" style="margin: 0px !important;padding: 0px !important;font-size: 1.2rem;">
          <a href="{{ item.url }}">{{ item.name }}</a>
         </li>
@@ -26,13 +30,17 @@
   <div class="accordion-item border-danger bg-transparent">
     <h2 class="accordion-header">
       <button class="accordion-button collapsed bg-transparent fw-semibold shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#aside_external_links" aria-expanded="false" aria-controls="aside_external_links" style="font-size: 1.2rem;">
-        Site
+        {% if page.locale == 'ar' %}
+         {{ site.data.locales[page.locale].page.site }}
+        {% else %}
+         Site
+        {% endif %}
       </button>
     </h2>
     <div id="aside_external_links" class="accordion-collapse collapse" data-bs-parent="#accordionFooter">
      <div class="accordion-body">
       <ul class="list-group list-group-flush">
-       {% for item in site.data.setting.aside_external_links %}
+       {% for item in site.data.locales[page.locale].aside_external_links %}
         <li class="list-group-item bg-transparent" style="margin: 0px !important;padding: 0px !important;font-size: 1.2rem;">
          <a href="{{ item.url }}">{{ item.name }}</a>
         </li>
