@@ -42,7 +42,7 @@ aside_quick_links:
 
 aside_external_links:
   - name: "عن الموقع"
-    url: /ar/about/
+    url: /about/
   - name: تغذية RSS
     url: /feed
   - name: خريطة الموقع
@@ -132,4 +132,5 @@ page:
   radd: الرد
   estimated_reading_time: "وقت القراءة المقدر"
   videos: "مرئيات"
+  subject: "الموضوع"
   
