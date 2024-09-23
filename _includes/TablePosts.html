@@ -1,5 +1,5 @@
 <table>     
-{% assign posts = site.posts %}
+{% assign posts = site.posts | sort: 'locale' %}  
 {% for post in site.posts %}	
   <tr>
    <td>
