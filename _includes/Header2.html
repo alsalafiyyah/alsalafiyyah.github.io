@@ -2,7 +2,7 @@
 <div class="collapse" id="navbarToggleExternalContent" data-bs-theme="dark">  
  <div class="bg-dark p-4" itemscope itemtype="http://schema.org/WebSite">
    <p class="text-body-emphasis">
-    {{ site.data.locales[page.locale].page.search }}
+    {% if page.locale %}{{ site.data.locales[page.locale].page.search }}{% else %}Search{% endif %}
    </p>
   <meta itemprop="url" content="{% if page.locale == 'en' %}{{ site.data.locales[page.locale].site.url }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].site.url }}{% else %}{{ site.url }}{% endif %}"/>
   <form class="d-flex" role="search" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" action="{% if page.locale == 'en' %}{{ site.data.locales[page.locale].site.url_search }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].site.url_search }}{% else %}https://alsalafiyyah.github.io/search{% endif %}">
@@ -12,7 +12,7 @@
   <input 
     type="search" 
     class="form-control shadow-none border-danger" 
-    placeholder="{{ site.data.locales[page.locale].page.search }}"
+    placeholder="{% if page.locale %}{{ site.data.locales[page.locale].page.search }}{% else %}Search{% endif %}"
     aria-label="Search" 
     aria-describedby="button-addon2"
     name="q" 
@@ -25,7 +25,7 @@
    class="btn btn-danger" 
    type="submit" 
    id="button-addon2">
-   {{ site.data.locales[page.locale].page.search }}
+   {% if page.locale %}{{ site.data.locales[page.locale].page.search }}{% else %}Search{% endif %}
   </button>
 </div>            
     </form>
@@ -57,6 +57,7 @@
     </a>
  <div class="vr text-dark"></div>
   <ul class="nav">
+   {% if page.locale %}
     {% for item in site.data.locales[page.locale].nav %}
     <li class="nav-item">
      <a property="url" class="nav-link icon-link" href="{{ item.url }}">
@@ -64,6 +65,15 @@
      </a>
     </li>
     {% endfor %}
+   {% else %}
+   {% for item in site.data.setting.nav %}
+    <li class="nav-item">
+     <a property="url" class="nav-link icon-link" href="{{ item.url }}">
+      {{ item.name }}
+     </a>
+    </li>   
+   {% endfor %}
+   {% endif %}
   </ul>
   <button class="navbar-search shadow-none btn btn-danger" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="bi bi-search"></span>
