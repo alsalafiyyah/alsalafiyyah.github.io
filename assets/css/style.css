@@ -172,7 +172,7 @@ code {
 	position: relative;
 	left: -9px;
 	display: inline-block;
-	padding: 3px 6px;
+	padding: 3px 4px;
 	background: rgba(0, 0, 0, 0.15);
 	border-radius: 3px 0 0 3px;
 }
