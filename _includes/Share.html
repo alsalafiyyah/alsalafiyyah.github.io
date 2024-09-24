@@ -3,10 +3,10 @@
    {% if page.locale == 'ar' %}{{ site.data.locales[page.locale].page.share }}{% elsif page.locale == 'en' %}{{ site.data.locales[page.locale].page.share }}{% else %}Share{% endif %}
  </div>
 <div class="card-body">  
-<div class="row mt-4">
-<div class="col-sm">
+<div class="row">
+<div class="col-sm mt-4">
 <a target="_blank" href="https://www.facebook.com/sharer.php?u={{ site.url }}{{site.baseurl}}{{ page.url }}" role="button" class="btn btn-labeled shadow-none btn-dark btn-sm"><span class="btn-label"><span class="bi bi-facebook"></span></span>Facebook</a>    
-<a target="_blank" href="https://x.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{site.baseurl}}{{ page.url }}" role="button" class="btn btn-labeled shadow-none btn-dark btn-sm"><span class="btn-label"><span class="bi bi-twitter-x"></span></span>X Twitter</a>
+<a target="_blank" href="https://x.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{site.baseurl}}{{ page.url }}" role="button" class="btn btn-labeled shadow-none btn-dark btn-sm"><span class="btn-label"><span class="bi bi-twitter-x"></span></span>Twitter</a>
 <a target="_blank" href="https://threads.net/intent/post?text={{ site.url }}{{site.baseurl}}{{ page.url }}" role="button" class="btn btn-labeled shadow-none btn-dark btn-sm"><span class="btn-label"><span class="bi bi-threads"></span></span>Threads</a>
 <a target="_blank" href="https://wa.me/?text={{ site.url }}{{site.baseurl}}{{ page.url }}" role="button" class="btn btn-labeled shadow-none btn-dark btn-sm"><span class="btn-label"><span class="bi bi-whatsapp"></span></span>Whatsapp</a>      
 <a href="https://t.me/share/url?url={{ site.url }}{{site.baseurl}}{{ page.url }}" role="button" class="btn btn-labeled shadow-none btn-dark btn-sm"><span class="btn-label"><span class="bi bi-telegram"></span></span>Telegram</a>    
@@ -18,11 +18,9 @@
   <span>Copy URL</span>
  </button>
 </span>
-
 </div>
-<div class="col-sm text-center">
- <div id="qrcode">
- </div>
+<div class="col-sm mt-4">
+ <div id="qrcode"></div>
 </div>
 </div>
 
