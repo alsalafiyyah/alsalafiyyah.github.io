@@ -13,14 +13,15 @@
 <a onclick="onShareCLick()" role="button" class="btn btn-labeled shadow-none btn-dark btn-sm"><span class="btn-label"><span class="bi bi-box-arrow-up"></span></span>More</a>
 <span class="item">
 <span class="text visually-hidden">{{ site.url }}{{site.baseurl}}{{ page.url }}</span>
- <button type="button" class="button-url-copy btn btn-labeled shadow-none btn-dark btn-sm" data-text="Copy URL" data-text-copied="URL Copied">
+ <button type="button" class="button-url-copy btn btn-labeled shadow-none btn-dark btn-sm" data-text="Copy Link" data-text-copied="Link Copied">
   <i class="bi bi-copy btn-label"></i>  
-  <span>Copy URL</span>
+  <span>Copy Link</span>
  </button>
 </span>
 </div>
-<div class="col-4 mt-4">
+<div class="col-4 mt-4 text-center">
  <div id="qrcode"></div>
+ <button class="btn btn-dark btn-sm shadow-none" data-qr-action="download">Download</button>
 </div>
 </div>
 
