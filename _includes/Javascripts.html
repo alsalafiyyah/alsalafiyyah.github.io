@@ -96,8 +96,8 @@ $(function () {
 <script>
 const qrcode = new QRCode(document.getElementById('qrcode'), {
   text: '{{ site.url }}{{site.baseurl}}{{ page.url }}',
-  width: 128,
-  height: 128,
+  width: 80,
+  height: 80,
   colorDark : '#000',
   colorLight : '#fff',
   correctLevel : QRCode.CorrectLevel.H
