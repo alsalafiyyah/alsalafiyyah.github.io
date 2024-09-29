@@ -78,14 +78,9 @@ include:
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-redirect-from
-  - categories
   - utc_filter
-  - jekyll-include-cache
-  - jekyll-github-metadata
-  - jekyll-pwa-plugin
 
 exclude:
   - bin
