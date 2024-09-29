@@ -24,14 +24,12 @@ defaultLang         : en
 timezone            : Asia/Riyadh
 github_username     : alsalafiyyah
 git_repo            : alsalafiyyah.github.io
+keep_files          : [images]
 kramdown:
   syntax_highlighter_opts:
       disable : true
 paginate            : 20
 paginate_path       : "/fatwas/:num/"
-
-note:
-    text            : "May Allah grant us success. May peace and blessings be upon our Prophet, his family and Companions"
 
 webmaster_verifications: 
   google_site       : "K7QDv3cEwylAu_9fndO3ebQmNowxxRYCpqDEzQKQOy4" # google site verification
