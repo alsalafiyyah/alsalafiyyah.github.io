@@ -5,7 +5,7 @@
   <div id="postContainer" itemscope itemtype="https://schema.org/NewsArticle" class="col mb-3 fatwas"
    data-name="{{ post.title | downcase }}" 
    data-category="{{ post.category }}"
-   data-slug="{{ post.uid }}"
+   data-slug="{{ post.url | remove: '/' }}"
    data-author="{{ post.shaykh }}">
    <meta itemprop="image" content="{{ '/assets/images/fb.jpg' | absolute_url }}" />
    <div style="margin:0px !important;padding: 0px !important;"> 
