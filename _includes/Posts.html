@@ -1,6 +1,6 @@
 <section class="mt-3 fatwas"><!-- fatwas section -->
 <div class="container-lg fatwas">
- <div id="postContainer" class="row row-cols-1 row-cols-sm-2 row-cols-md-2 fatwas">
+ <div id="postContainer" class="row row-cols-1 row-cols-sm-2 row-cols-md-3 fatwas">
   {% for post in paginator.posts %}
   <div itemscope itemtype="https://schema.org/NewsArticle" class="col mb-3 fatwas"
    data-name="{{ post.title | downcase }}" 
@@ -8,11 +8,22 @@
    data-slug="{{ post.url | remove: '/' }}"
    data-author="{{ post.shaykh }}">
    <meta itemprop="image" content="{{ '/assets/images/fb.jpg' | absolute_url }}" />
-   <div style="margin:0px !important;padding: 0px !important;"> 
+   <div class="m-0 p-0"> 
     <a class="link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" style="margin:0px !important;padding: 0px !important;"
        href="{{ post.url }}">
      <h3 itemprop="headline" class="text-truncate">{{ post.title }}</h3>
     </a>
+    <div class="row"><!-- date -->
+      <div class="col-10">
+       <h6 class="card-subtitle mb-2 text-body-secondary small">
+        <span itemprop="datePublished" content="{{ post.date | to_utc | date: '%Y%m%dT%H:%M:%S%:z' }}" class="text-dark">{{ post.hijri }}</span>
+        <p>{{ post.date | date: '%b %d, %Y' }}</p>
+       </h6>
+      </div>
+      <div class="col-2">
+       <i class="bi bi-bookmark" type="button" role="button" data-id="{{ post.url | remove: '/' }}"></i>
+      </div>
+     </div><!-- /date -->
     <p class="mb-1 fst-italic">
      {{ post.content | truncatewords: 20  | strip_html | normalize_whitespace | remove_first: "Question:" }}
     </p>
@@ -114,7 +125,7 @@
        </span>
       {% endif %}
      </div> 
-     <div class="text-wrap" style="width: 9rem;">
+     <div class="text-wrap d-none" style="width: 9rem;">
       <a role="button" 
           class="link-dark" 
           data-bs-toggle="tooltip" 
