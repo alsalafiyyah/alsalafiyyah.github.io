@@ -4,7 +4,7 @@
   {% for post in paginator.posts %}
   <div id="postContainer" itemscope itemtype="https://schema.org/NewsArticle" class="col mb-3 fatwas"
    data-name="{{ post.title | downcase }}" 
-   data-category="{{ post.categories | join: ',' }}"
+   data-category="{{ post.category | join: ',' }}"
    data-slug="{{ post.url | remove: '/' }}"
    data-author="{{ post.shaykh }}">
    <meta itemprop="image" content="{{ '/assets/images/fb.jpg' | absolute_url }}" />
