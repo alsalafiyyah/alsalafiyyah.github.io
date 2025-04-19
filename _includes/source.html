@@ -174,12 +174,12 @@
 <!-- social share -->
 {% include Share.html %} 
 <!-- /End social share -->
- 
-<div id="qrcode-wrapper-{{ page.slug }}" style="position: relative; display: inline-block;">
-  <div id="qrcode-{{ page.slug }}"></div>
-  <canvas id="qr-canvas-{{ page.slug }}" style="display: none;"></canvas>
-</div>
 
-<button onclick="downloadQRWithLogo('{{ page.slug }}')" class="btn btn-small small btn-secodary">Download QR</button>
+<div id="qr-container-{{ page.slug }}" style="margin-top: 20px;">
+  <h3>Scan this post:</h3>
+  <canvas id="qr-canvas-{{ page.slug }}" width="56" height="56" style="border-radius: 8px;"></canvas>
+  <br>
+  <button class="btn btn-small small btn-secondary" onclick="downloadQRWithLogo('{{ page.slug }}')">Download</button>
+</div>
 
 </section>

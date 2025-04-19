@@ -95,44 +95,42 @@ $(function () {
 </script>
 <script>
   const slug = '{{ page.slug }}';
-  const url = '{{ site.url }}{{ page.url }}';
-  const logoURL = 'https://alsalafiyyah.github.io/assets/images/logo.svg'; // replace with your actual logo path
-
-  // Create QR Code
-  new QRCode(document.getElementById("qrcode-" + slug), {
-    text: url,
+  const postURL = '{{ site.url }}{{ page.url }}';
+  const canvas = document.getElementById('qr-canvas-' + slug);
+  const ctx = canvas.getContext('2d');
+  const tempDiv = document.createElement('div');
+  const qr = new QRCode(tempDiv, {
+    text: postURL,
     width: 256,
     height: 256,
     correctLevel: QRCode.CorrectLevel.H
   });
 
-  // Overlay Logo & Enable Download
-  function downloadQRWithLogo(slug) {
-    const qrDiv = document.querySelector("#qrcode-" + slug + " canvas");
-    const canvas = document.getElementById("qr-canvas-" + slug);
-    const ctx = canvas.getContext("2d");
+  // Wait for QR code to render in the hidden tempDiv
+  setTimeout(() => {
+    const qrCanvas = tempDiv.querySelector('canvas');
+    if (!qrCanvas) return;
 
-    // Set same size as QR
-    canvas.width = qrDiv.width;
-    canvas.height = qrDiv.height;
+    // Draw the QR to our visible canvas
+    ctx.drawImage(qrCanvas, 0, 0);
 
-    // Draw QR to canvas
-    ctx.drawImage(qrDiv, 0, 0);
-
-    // Load logo
+    // Draw logo
     const logo = new Image();
-    logo.src = logoURL;
+    logo.src = 'https://alsalafiyyah.github.io/assets/images/logo.svg'; // Replace with your actual logo path
     logo.onload = () => {
-      const logoSize = canvas.width * 0.25; // 25% of QR code
+      const logoSize = canvas.width * 0.25;
       const x = (canvas.width - logoSize) / 2;
       const y = (canvas.height - logoSize) / 2;
       ctx.drawImage(logo, x, y, logoSize, logoSize);
-
-      // Trigger download
-      const link = document.createElement('a');
-      link.download = slug + '-qr.png';
-      link.href = canvas.toDataURL();
-      link.click();
     };
+  }, 500); // QRCode.js takes a tiny delay to render
+
+  // Download function
+  function downloadQRWithLogo(slug) {
+    const canvas = document.getElementById('qr-canvas-' + slug);
+    const link = document.createElement('a');
+    link.download = slug + '-qr.png';
+    link.href = canvas.toDataURL();
+    link.click();
   }
 </script>
