@@ -1,0 +1,49 @@
+---
+layout: default
+title: Saved fatwas
+permalink: /bookmark/
+---
+
+<h2>Saved Fatwas</h2>
+<div id="savedPostsContainer" class="row row-cols-1 row-cols-md-3 g-4">
+  <!-- Saved posts will appear here -->
+</div>
+
+<!-- Hidden container of all posts to reference from JS -->
+<div id="allPosts" style="display:none;">
+  {% for post in site.posts %}
+  <div class="post-template"
+       data-title="{{ post.title }}"
+       data-author="{{ post.shaykh }}"
+       data-category="{{ post.categories | join: ',' }}"
+       data-slug="{{ post.url | remove: '/' }}"
+       data-url="{{ post.url }}">
+    <div class="card h-100">
+      <div class="card-body">
+        <h5 class="card-title">{{ post.title }}</h5>
+        <p class="card-text small">{{ post.shaykh }} | {{ post.categories | join: ', ' }}</p>
+        <a href="{{ post.url }}" class="btn btn-primary btn-sm">Read More</a>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const savedSlugs = JSON.parse(localStorage.getItem("savedPosts")) || [];
+      const allTemplates = document.querySelectorAll("#allPosts .post-template");
+      const container = document.getElementById("savedPostsContainer");
+  
+      const savedCards = Array.from(allTemplates).filter(post => {
+        return savedSlugs.includes(post.dataset.slug);
+      }).map(post => post.innerHTML);
+  
+      if (savedCards.length) {
+        container.innerHTML = savedCards.map(html => `<div class="col">${html}</div>`).join('');
+      } else {
+        container.innerHTML = `<p class="text-muted">No saved posts yet.</p>`;
+      }
+    });
+  </script>
+  
