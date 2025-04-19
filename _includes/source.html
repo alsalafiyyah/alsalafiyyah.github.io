@@ -175,11 +175,4 @@
 {% include Share.html %} 
 <!-- /End social share -->
 
-<div id="qr-container-{{ page.slug }}" style="margin-top: 20px;">
-  <h3>Scan this post:</h3>
-  <canvas id="qr-canvas-{{ page.slug }}" width="56" height="56" style="border-radius: 8px;"></canvas>
-  <br>
-  <button class="btn btn-small small btn-secondary" onclick="downloadQRWithLogo('{{ page.slug }}')">Download</button>
-</div>
-
 </section>
