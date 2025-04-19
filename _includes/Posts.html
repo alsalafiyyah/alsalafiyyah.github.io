@@ -1,5 +1,23 @@
 <section class="mt-3 fatwas"><!-- fatwas section -->
 <div class="container-lg fatwas">
+<!-- Filters -->
+<div class="filters mb-3">
+  <select id="filterCategory" class="form-select d-inline w-auto me-2">
+    <option value="">All Categories</option>
+    {% assign categories = site.posts | map: 'category' | uniq %}
+    {% for cat in categories %}
+      <option value="{{ cat }}">{{ cat }}</option>
+    {% endfor %}
+  </select>
+  <select id="filterAuthor" class="form-select d-inline w-auto">
+    <option value="">All Authors</option>
+    {% assign authors = site.posts | map: 'shaykh' | uniq %}
+    {% for author in authors %}
+      <option value="{{ author }}">{{ author }}</option>
+    {% endfor %}
+  </select>
+</div>
+
  <div id="postContainer" class="row row-cols-1 row-cols-sm-2 row-cols-md-3 fatwas">
   {% for post in paginator.posts %}
   <div itemscope itemtype="https://schema.org/NewsArticle" class="col mb-3 fatwas"
@@ -141,7 +159,7 @@
  </div>
 </div>
 
-<h4 class="mt-5">Saved Posts</h4>
+
 <div id="savedPosts" class="saved-posts mb-4">
   <!-- JS will fill this -->
 </div>
