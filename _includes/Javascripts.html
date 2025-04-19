@@ -92,3 +92,81 @@ $(function () {
     $('[data-bs-toggle="tooltip"]').tooltip()
 })
 </script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const filterCategory = document.getElementById("filterCategory");
+    const filterAuthor = document.getElementById("filterAuthor");
+    const postCards = document.querySelectorAll(".post-card");
+    const savedSection = document.getElementById("savedPosts");
+
+    let savedPosts = JSON.parse(localStorage.getItem("savedPosts")) || [];
+
+    function filterPosts() {
+      const selectedCategory = filterCategory?.value;
+      const selectedAuthor = filterAuthor?.value;
+
+      postCards.forEach(card => {
+        const categories = card.dataset.category.split(',');
+        const author = card.dataset.author;
+        const matchesCategory = !selectedCategory || categories.includes(selectedCategory);
+        const matchesAuthor = !selectedAuthor || author === selectedAuthor;
+
+        card.style.display = (matchesCategory && matchesAuthor) ? "block" : "none";
+      });
+    }
+
+    function updateIcons() {
+      document.querySelectorAll(".save-post-icon").forEach(icon => {
+        const postId = icon.getAttribute("data-id");
+        if (savedPosts.includes(postId)) {
+          icon.classList.remove("bi-bookmark");
+          icon.classList.add("bi-bookmark-fill", "text-success");
+        } else {
+          icon.classList.remove("bi-bookmark-fill", "text-success");
+          icon.classList.add("bi-bookmark");
+        }
+      });
+    }
+
+    function updateSavedPostsDisplay() {
+      if (!savedSection) return;
+
+      const savedHTML = Array.from(postCards)
+        .filter(card => savedPosts.includes(card.dataset.slug))
+        .map(card => {
+          const title = card.querySelector(".card-title")?.textContent || "Untitled";
+          const url = card.dataset.slug;
+          return `<li><a href="/${url}">${title}</a></li>`;
+        }).join('');
+
+      savedSection.innerHTML = savedHTML
+        ? `<ul class="list-group">${savedHTML}</ul>`
+        : `<p class="text-muted">No saved posts yet.</p>`;
+    }
+
+    document.querySelectorAll(".save-post-icon").forEach(icon => {
+      icon.addEventListener("click", function () {
+        const postId = this.getAttribute("data-id");
+        const index = savedPosts.indexOf(postId);
+
+        if (index > -1) {
+          savedPosts.splice(index, 1);
+        } else {
+          savedPosts.push(postId);
+        }
+
+        localStorage.setItem("savedPosts", JSON.stringify(savedPosts));
+        updateIcons();
+        updateSavedPostsDisplay();
+      });
+    });
+
+    if (filterCategory) filterCategory.addEventListener("change", filterPosts);
+    if (filterAuthor) filterAuthor.addEventListener("change", filterPosts);
+
+    // Initial load
+    updateIcons();
+    updateSavedPostsDisplay();
+  });
+</script>
