@@ -9,8 +9,6 @@ contact:
   name              : "Instagram@Alsalafiyyah"
   email             : "alsalafiyyah@icloud.com"
 
-incremental         : true
-livereload          : true
 safe                : true
 future              : true
 g_search_value      : "alsalafiyyah.github.io" # google search value
