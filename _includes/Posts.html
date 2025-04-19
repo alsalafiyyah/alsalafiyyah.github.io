@@ -17,8 +17,8 @@
     <div class="row"><!-- date -->
       <div class="col-10">
        <h6 class="card-subtitle mb-2 text-body-secondary small">
-        <span itemprop="datePublished" content="{{ post.date | to_utc | date: '%Y%m%dT%H:%M:%S%:z' }}" class="text-dark">{{ post.hijri }}</span>
-        <p>{{ post.date | date: '%b %d, %Y' }}</p>
+        <span itemprop="datePublished" content="{{ post.date | to_utc | date: '%Y%m%dT%H:%M:%S%:z' }}">{{ post.hijri }}</span>
+        <p class="small">{{ post.date | date: '%b %d, %Y' }}</p>
        </h6>
       </div>
       <div class="col-2">
@@ -29,7 +29,7 @@
      {{ post.content | truncatewords: 20  | strip_html | normalize_whitespace | remove_first: "Question:" }}
     </p>
     <div class="post-meta d-flex justify-content-between mt-3" style="font-size: 14.8px !important;">
-     <div class="text-wrap" style="width: 10rem;">
+     <div class="text-wrap">
       {% if post.muftis %}
       {% if post.muftis.chairman %} 
       {% for chairman in post.muftis.chairman %}
