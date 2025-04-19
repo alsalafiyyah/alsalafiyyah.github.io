@@ -95,26 +95,10 @@ $(function () {
 
 <script>
   document.addEventListener("DOMContentLoaded", function () {
-    const filterCategory = document.getElementById("filterCategory");
-    const filterAuthor = document.getElementById("filterAuthor");
     const postCards = document.querySelectorAll(".post-card");
     const savedSection = document.getElementById("savedPosts");
 
     let savedPosts = JSON.parse(localStorage.getItem("savedPosts")) || [];
-
-    function filterPosts() {
-      const selectedCategory = filterCategory?.value;
-      const selectedAuthor = filterAuthor?.value;
-
-      postCards.forEach(card => {
-        const categories = card.dataset.category.split(',');
-        const author = card.dataset.author;
-        const matchesCategory = !selectedCategory || categories.includes(selectedCategory);
-        const matchesAuthor = !selectedAuthor || author === selectedAuthor;
-
-        card.style.display = (matchesCategory && matchesAuthor) ? "block" : "none";
-      });
-    }
 
     function updateIcons() {
       document.querySelectorAll(".save-post-icon").forEach(icon => {
@@ -161,9 +145,6 @@ $(function () {
         updateSavedPostsDisplay();
       });
     });
-
-    if (filterCategory) filterCategory.addEventListener("change", filterPosts);
-    if (filterAuthor) filterAuthor.addEventListener("change", filterPosts);
 
     // Initial load
     updateIcons();
