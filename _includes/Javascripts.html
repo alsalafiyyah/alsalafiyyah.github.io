@@ -3,7 +3,7 @@
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>  
 <script type="text/javascript" src="https://unpkg.com/vanilla-datatables@latest/dist/vanilla-dataTables.min.js"></script>  
 <script type="text/javascript" src="https://rawgit.com/melbon/jquery.copiq/master/jquery.copiq.min.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/davidshimjs/qrcodejs/qrcode.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
 {% include tipue.html %}
 <script type="text/javascript">
 var table = new DataTable("table", {
@@ -94,12 +94,45 @@ $(function () {
 })
 </script>
 <script>
-const qrcode = new QRCode(document.getElementById('qrcode'), {
-  text: '{{ site.url }}{{site.baseurl}}{{ page.url }}',
-  width: 80,
-  height: 80,
-  colorDark : '#000',
-  colorLight : '#fff',
-  correctLevel : QRCode.CorrectLevel.H
-});  
+  const slug = '{{ page.slug }}';
+  const url = '{{ site.url }}{{ page.url }}';
+  const logoURL = 'https://alsalafiyyah.github.io/assets/images/logo.svg'; // replace with your actual logo path
+
+  // Create QR Code
+  new QRCode(document.getElementById("qrcode-" + slug), {
+    text: url,
+    width: 256,
+    height: 256,
+    correctLevel: QRCode.CorrectLevel.H
+  });
+
+  // Overlay Logo & Enable Download
+  function downloadQRWithLogo(slug) {
+    const qrDiv = document.querySelector("#qrcode-" + slug + " canvas");
+    const canvas = document.getElementById("qr-canvas-" + slug);
+    const ctx = canvas.getContext("2d");
+
+    // Set same size as QR
+    canvas.width = qrDiv.width;
+    canvas.height = qrDiv.height;
+
+    // Draw QR to canvas
+    ctx.drawImage(qrDiv, 0, 0);
+
+    // Load logo
+    const logo = new Image();
+    logo.src = logoURL;
+    logo.onload = () => {
+      const logoSize = canvas.width * 0.25; // 25% of QR code
+      const x = (canvas.width - logoSize) / 2;
+      const y = (canvas.height - logoSize) / 2;
+      ctx.drawImage(logo, x, y, logoSize, logoSize);
+
+      // Trigger download
+      const link = document.createElement('a');
+      link.download = slug + '-qr.png';
+      link.href = canvas.toDataURL();
+      link.click();
+    };
+  }
 </script>

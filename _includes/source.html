@@ -38,7 +38,7 @@
 <!-- / End Date -->  
 
 <!-- pagewiews -->   
-<li class="list-group-item">
+<li class="list-group-item d-none">
  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Falsalafiyyah.github.io%2F{{ page.url }}&count_bg=%23DC3545&title_bg=%23111100&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </li>
 <!-- /pagewiews -->  
@@ -175,4 +175,11 @@
 {% include Share.html %} 
 <!-- /End social share -->
  
+<div id="qrcode-wrapper-{{ page.slug }}" style="position: relative; display: inline-block;">
+  <div id="qrcode-{{ page.slug }}"></div>
+  <canvas id="qr-canvas-{{ page.slug }}" style="display: none;"></canvas>
+</div>
+
+<button onclick="downloadQRWithLogo('{{ page.slug }}')">Download QR</button>
+
 </section>
