@@ -2,11 +2,4 @@
 
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3"
-
-group :jekyll_plugins do
-  gem "jekyll-sitemap"
-  gem "jekyll-paginate"
-  gem "kramdown"
-  gem "jekyll-redirect-from"
-end
+gem "github-pages", group: :jekyll_plugins
