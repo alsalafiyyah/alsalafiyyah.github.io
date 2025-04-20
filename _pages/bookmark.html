@@ -14,21 +14,19 @@ permalink: /fatwas/bookmark/
   {% for post in site.posts %}
   <div class="post-template"
        data-title="{{ post.title }}"
-       data-author="{{ post.shaykh }}"
-       data-category="{{ post.categories | join: ',' }}"
        data-slug="{{ post.url | remove: '/' }}"
-       data-url="{{ post.url }}">
+       data-url="{{ post.url }}"
+       data-id="{{ post.url | remove: '/' }}">
     <div class="card h-100">
       <div class="card-body">
-        <h5 class="card-title">{{ post.title }}</h5>
-        <p class="card-text small">{{ post.shaykh }} | {{ post.categories | join: ', ' }}</p>
-        <a href="{{ post.url }}" class="btn btn-primary btn-sm">Read More</a>
+        <a href="{{ post.url }}" class="btn btn-primary btn-sm">
+          <h5 class="card-title">{{ post.title }}</h5>
+        </a>
       </div>
     </div>
   </div>
   {% endfor %}
 </div>
-
 <script>
     document.addEventListener("DOMContentLoaded", function () {
       const savedSlugs = JSON.parse(localStorage.getItem("savedPosts")) || [];
