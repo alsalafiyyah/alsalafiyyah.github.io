@@ -103,13 +103,17 @@ permalink: /fatwas/bookmark/
   
     // Event delegation for delete buttons
     container.addEventListener("click", function (e) {
-      if (e.target.classList.contains("remove-post")) {
-        const id = e.target.getAttribute("data-id");
-        const newSaved = savedSlugs.filter(slug => slug !== id);
-        localStorage.setItem("savedPosts", JSON.stringify(newSaved));
-        location.reload(); // re-render the page
-      }
-    });
+  if (e.target.classList.contains("remove-post")) {
+    const id = e.target.getAttribute("data-id");
+    const index = savedSlugs.indexOf(id);
+    if (index > -1) {
+      savedSlugs.splice(index, 1); // update in place
+      updateStorage(savedSlugs);
+      renderSavedCards(); // re-render without reload
+    }
+  }
+});
+
   
     clearAllBtn.addEventListener("click", function () {
       if (confirm("Are you sure you want to clear all saved fatwas?")) {
