@@ -38,78 +38,83 @@ permalink: /fatwas/bookmark/
   </div>
   {% endfor %}
 </div>
+
 <script>
   document.addEventListener("DOMContentLoaded", function () {
     const POSTS_PER_PAGE = 6;
     let currentPage = 1;
-    let savedSlugs = JSON.parse(localStorage.getItem("savedPosts")) || [];
   
-    const allTemplates = document.querySelectorAll("#allPosts .post-template");
+    const savedSlugs = JSON.parse(localStorage.getItem("savedPosts")) || [];
+    const allTemplates = Array.from(document.querySelectorAll("#allPosts .post-template"));
     const container = document.getElementById("savedPostsContainer");
+  
     const paginationInfo = document.getElementById("paginationInfo");
     const prevBtn = document.getElementById("prevPage");
     const nextBtn = document.getElementById("nextPage");
     const clearAllBtn = document.getElementById("clearAllBtn");
   
     function renderSavedCards() {
-      const matchedPosts = Array.from(allTemplates).filter(post =>
-        savedSlugs.includes(post.dataset.slug)
+      const savedTemplates = allTemplates.filter(template =>
+        savedSlugs.includes(template.dataset.slug)
       );
   
-      const totalPages = Math.ceil(matchedPosts.length / POSTS_PER_PAGE);
-      currentPage = Math.min(currentPage, totalPages || 1); // stay in range
+      const totalPages = Math.ceil(savedTemplates.length / POSTS_PER_PAGE);
+      if (currentPage > totalPages) currentPage = totalPages || 1;
   
       const start = (currentPage - 1) * POSTS_PER_PAGE;
       const end = start + POSTS_PER_PAGE;
-      const paginatedPosts = matchedPosts.slice(start, end);
   
-      if (matchedPosts.length === 0) {
+      const paginatedTemplates = savedTemplates.slice(start, end);
+  
+      container.innerHTML = "";
+  
+      if (!paginatedTemplates.length) {
         container.innerHTML = `<p class="text-muted">No saved fatwas yet.</p>`;
         paginationInfo.textContent = "";
         return;
       }
   
-      container.innerHTML = paginatedPosts.map(post => {
-        const slug = post.dataset.slug;
-        const title = post.dataset.title;
-        const url = post.dataset.url;
-        return `
-          <div class="col">
-            <div class="card h-100">
-              <div class="card-body">
-                <a href="${url}">
-                  <h5 class="card-title">${title}</h5>
-                </a>
-                <button class="btn btn-sm btn-outline-danger mt-2 remove-post" data-id="${slug}">Remove</button>
-              </div>
-            </div>
-          </div>
-        `;
-      }).join("");
+      paginatedTemplates.forEach(template => {
+        const clone = template.cloneNode(true);
+        const slug = clone.dataset.slug;
+  
+        // Add delete button inside the card body
+        const body = clone.querySelector(".card-body");
+        const removeBtn = document.createElement("button");
+        removeBtn.textContent = "Remove";
+        removeBtn.className = "btn btn-sm btn-outline-danger mt-2 remove-post";
+        removeBtn.setAttribute("data-id", slug);
+        body.appendChild(removeBtn);
+  
+        const colDiv = document.createElement("div");
+        colDiv.className = "col";
+        colDiv.appendChild(clone);
+        container.appendChild(colDiv);
+      });
   
       paginationInfo.textContent = `Page ${currentPage} of ${totalPages}`;
       prevBtn.disabled = currentPage === 1;
       nextBtn.disabled = currentPage === totalPages;
     }
   
-    function updateLocalStorage() {
-      localStorage.setItem("savedPosts", JSON.stringify(savedSlugs));
+    function updateStorage(newList) {
+      localStorage.setItem("savedPosts", JSON.stringify(newList));
     }
   
+    // Event delegation for delete buttons
     container.addEventListener("click", function (e) {
       if (e.target.classList.contains("remove-post")) {
         const id = e.target.getAttribute("data-id");
-        savedSlugs = savedSlugs.filter(slug => slug !== id);
-        updateLocalStorage();
-        renderSavedCards();
+        const newSaved = savedSlugs.filter(slug => slug !== id);
+        localStorage.setItem("savedPosts", JSON.stringify(newSaved));
+        location.reload(); // re-render the page
       }
     });
   
     clearAllBtn.addEventListener("click", function () {
       if (confirm("Are you sure you want to clear all saved fatwas?")) {
-        savedSlugs = [];
-        updateLocalStorage();
-        renderSavedCards();
+        localStorage.removeItem("savedPosts");
+        location.reload();
       }
     });
   
@@ -128,4 +133,5 @@ permalink: /fatwas/bookmark/
     renderSavedCards();
   });
   </script>
+  
   
