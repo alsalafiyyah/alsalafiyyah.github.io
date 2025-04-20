@@ -1,3 +1,5 @@
+bookmark.html
+
 ---
 layout: default
 title: Saved fatwas
@@ -14,18 +16,21 @@ permalink: /fatwas/bookmark/
   {% for post in site.posts %}
   <div class="post-template"
        data-title="{{ post.title }}"
+       data-author="{{ post.shaykh }}"
+       data-category="{{ post.categories | join: ',' }}"
        data-slug="{{ post.url | remove: '/' }}"
        data-url="{{ post.url }}">
     <div class="card h-100">
       <div class="card-body">
-        <a href="{{ post.url }}">
-          <h5 class="card-title">{{ post.title }}</h5>
-        </a>
+        <h5 class="card-title">{{ post.title }}</h5>
+        <p class="card-text small">{{ post.shaykh }} | {{ post.categories | join: ', ' }}</p>
+        <a href="{{ post.url }}" class="btn btn-primary btn-sm">Read More</a>
       </div>
     </div>
   </div>
   {% endfor %}
 </div>
+
 <script>
     document.addEventListener("DOMContentLoaded", function () {
       const savedSlugs = JSON.parse(localStorage.getItem("savedPosts")) || [];
@@ -37,9 +42,9 @@ permalink: /fatwas/bookmark/
       }).map(post => post.innerHTML);
   
       if (savedCards.length) {
-        container.innerHTML = savedCards.map(html => <div class="col">${html}</div>).join('');
+        container.innerHTML = savedCards.map(html => `<div class="col">${html}</div>`).join('');
       } else {
-        container.innerHTML = <p class="text-muted">No saved fatwas yet.</p>;
+        container.innerHTML = `<p class="text-muted">No saved fatwas yet.</p>`;
       }
     });
   </script>
