@@ -5,17 +5,6 @@ permalink: /fatwas/bookmark/
 ---
 
 <h2>Saved Fatwas</h2>
-<div class="d-flex justify-content-between align-items-center mb-3">
-  <div>
-    <button id="clearAllBtn" class="btn btn-danger btn-sm">Clear All</button>
-  </div>
-  <div>
-    <span id="paginationInfo" class="small text-muted"></span>
-    <button id="prevPage" class="btn btn-outline-secondary btn-sm">Previous</button>
-    <button id="nextPage" class="btn btn-outline-secondary btn-sm">Next</button>
-  </div>
-</div>
-
 <div id="savedPostsContainer" class="row row-cols-1 row-cols-md-3 g-4">
   <!-- Saved posts will appear here -->
 </div>
@@ -38,104 +27,20 @@ permalink: /fatwas/bookmark/
   </div>
   {% endfor %}
 </div>
-
 <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const POSTS_PER_PAGE = 6;
-    let currentPage = 1;
+    document.addEventListener("DOMContentLoaded", function () {
+      const savedSlugs = JSON.parse(localStorage.getItem("savedPosts")) || [];
+      const allTemplates = document.querySelectorAll("#allPosts .post-template");
+      const container = document.getElementById("savedPostsContainer");
   
-    const savedSlugs = JSON.parse(localStorage.getItem("savedPosts")) || [];
-    const allTemplates = Array.from(document.querySelectorAll("#allPosts .post-template"));
-    const container = document.getElementById("savedPostsContainer");
+      const savedCards = Array.from(allTemplates).filter(post => {
+        return savedSlugs.includes(post.dataset.slug);
+      }).map(post => post.innerHTML);
   
-    const paginationInfo = document.getElementById("paginationInfo");
-    const prevBtn = document.getElementById("prevPage");
-    const nextBtn = document.getElementById("nextPage");
-    const clearAllBtn = document.getElementById("clearAllBtn");
-  
-    function renderSavedCards() {
-      const savedTemplates = allTemplates.filter(template =>
-       savedSlugs.includes(template.dataset.id)
-      );
-  
-      const totalPages = Math.ceil(savedTemplates.length / POSTS_PER_PAGE);
-      if (currentPage > totalPages) currentPage = totalPages || 1;
-  
-      const start = (currentPage - 1) * POSTS_PER_PAGE;
-      const end = start + POSTS_PER_PAGE;
-  
-      const paginatedTemplates = savedTemplates.slice(start, end);
-  
-      container.innerHTML = "";
-  
-      if (!paginatedTemplates.length) {
-        container.innerHTML = `<p class="text-muted">No saved fatwas yet.</p>`;
-        paginationInfo.textContent = "";
-        return;
-      }
-  
-      paginatedTemplates.forEach(template => {
-        const clone = template.cloneNode(true);
-        const slug = clone.dataset.slug;
-  
-        // Add delete button inside the card body
-        const body = clone.querySelector(".card-body");
-        const removeBtn = document.createElement("button");
-        removeBtn.textContent = "Remove";
-        removeBtn.className = "btn btn-sm btn-outline-danger mt-2 remove-post";
-        removeBtn.setAttribute("data-id", slug);
-        body.appendChild(removeBtn);
-  
-        const colDiv = document.createElement("div");
-        colDiv.className = "col";
-        colDiv.appendChild(clone);
-        container.appendChild(colDiv);
-      });
-  
-      paginationInfo.textContent = `Page ${currentPage} of ${totalPages}`;
-      prevBtn.disabled = currentPage === 1;
-      nextBtn.disabled = currentPage === totalPages;
-    }
-  
-    function updateStorage(newList) {
-      localStorage.setItem("savedPosts", JSON.stringify(newList));
-    }
-  
-    // Event delegation for delete buttons
-    container.addEventListener("click", function (e) {
-  if (e.target.classList.contains("remove-post")) {
-    const id = e.target.getAttribute("data-id");
-    const index = savedSlugs.indexOf(id);
-    if (index > -1) {
-      savedSlugs.splice(index, 1); // update in place
-      updateStorage(savedSlugs);
-      renderSavedCards(); // re-render without reload
-    }
-  }
-});
-
-  
-    clearAllBtn.addEventListener("click", function () {
-      if (confirm("Are you sure you want to clear all saved fatwas?")) {
-        localStorage.removeItem("savedPosts");
-        location.reload();
+      if (savedCards.length) {
+        container.innerHTML = savedCards.map(html => <div class="col">${html}</div>).join('');
+      } else {
+        container.innerHTML = <p class="text-muted">No saved fatwas yet.</p>;
       }
     });
-  
-    prevBtn.addEventListener("click", function () {
-      if (currentPage > 1) {
-        currentPage--;
-        renderSavedCards();
-      }
-    });
-  
-    nextBtn.addEventListener("click", function () {
-      currentPage++;
-      renderSavedCards();
-    });
-  
-    renderSavedCards();
-  });
   </script>
-  
-  
