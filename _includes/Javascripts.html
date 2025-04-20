@@ -102,9 +102,9 @@ $(function () {
         const postId = icon.getAttribute("data-id");
         if (savedPosts.includes(postId)) {
           icon.classList.remove("bi-bookmark");
-          icon.classList.add("bi-bookmark-fill", "text-success");
+          icon.classList.add("bi-bookmark-fill", "text-warning");
         } else {
-          icon.classList.remove("bi-bookmark-fill", "text-success");
+          icon.classList.remove("bi-bookmark-fill", "text-warning");
           icon.classList.add("bi-bookmark");
         }
       });
