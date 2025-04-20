@@ -55,7 +55,7 @@ permalink: /fatwas/bookmark/
   
     function renderSavedCards() {
       const savedTemplates = allTemplates.filter(template =>
-        savedSlugs.includes(template.dataset.slug)
+       savedSlugs.includes(template.dataset.id)
       );
   
       const totalPages = Math.ceil(savedTemplates.length / POSTS_PER_PAGE);
