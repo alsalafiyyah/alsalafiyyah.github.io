@@ -12,7 +12,7 @@ title: Audios
   const page = parseInt(urlParams.get("page")) || 1;
   const perPage = 5;
 
-  fetch('/json/audios.json') // ✅ fix here
+  fetch('https://alsalafiyyah.github.io/json/audios.json') // ✅ fix here
     .then(response => response.json())
     .then(projects => {
       const totalPages = Math.ceil(projects.length / perPage);
