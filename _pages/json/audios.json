@@ -7,9 +7,9 @@ permalink: /json/audios.json
   {% if post.categories contains 'audios' %} 
   {% if post.url %}
     {
-      "title": {{ {{ post.title }} | jsonify }},
+      "title": {{ post.title | jsonify }},
       "url": {{ post.url | jsonify }},
-      "description": {{ post.description | jsonify }}
+      "description": {{ post.content | truncatewords: 20 | jsonify }}
     }{% unless forloop.last %},{% endunless %}
   {% endif %}
   {% endif %}
