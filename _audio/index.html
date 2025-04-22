@@ -2,17 +2,31 @@
 layout: nill
 title: Audios
 ---
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Audios</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
+  </head>
+<body>
 
-<h1>Projects</h1>
-<div id="project-list"></div>
-<div id="pagination-controls"></div>
+<div class="container my-5">
+  <h1 class="mb-4">Projects</h1>
+  <div id="project-list" class="row gy-4"></div>
+  <nav>
+    <ul id="pagination-controls" class="pagination justify-content-center mt-4"></ul>
+  </nav>
+</div>
 
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
 <script>
   const urlParams = new URLSearchParams(window.location.search);
   const page = parseInt(urlParams.get("page")) || 1;
   const perPage = 5;
 
-  fetch('https://alsalafiyyah.github.io/json/audios.json') // ✅ fix here
+  fetch('https://alsalafiyyah.github.io/json/audios.json')
     .then(response => response.json())
     .then(projects => {
       const totalPages = Math.ceil(projects.length / perPage);
@@ -23,23 +37,39 @@ title: Audios
       const list = document.getElementById('project-list');
       currentProjects.forEach(project => {
         const item = document.createElement('div');
-        item.innerHTML = `<h2><a href="${project.url}">${project.title}</a></h2><p>${project.description}</p>`;
+        item.className = "col-md-6";
+        item.innerHTML = `
+          <div class="card h-100 shadow-sm">
+            <div class="card-body">
+              <h5 class="card-title">
+                <a href="${project.url}" class="text-decoration-none">${project.title}</a>
+              </h5>
+              <p class="card-text">${project.description}</p>
+            </div>
+          </div>
+        `;
         list.appendChild(item);
       });
 
-      // Pagination Controls
       const controls = document.getElementById('pagination-controls');
       for (let i = 1; i <= totalPages; i++) {
+        const li = document.createElement('li');
+        li.className = `page-item ${i === page ? 'active' : ''}`;
         const link = document.createElement('a');
+        link.className = 'page-link';
         link.href = `?page=${i}`;
         link.textContent = i;
-        if (i === page) link.style.fontWeight = 'bold';
-        controls.appendChild(link);
-        controls.appendChild(document.createTextNode(" "));
+        li.appendChild(link);
+        controls.appendChild(li);
       }
     })
     .catch(error => {
       console.error("Failed to fetch projects.json:", error);
-      document.getElementById('project-list').innerText = 'Failed to load projects.';
+      document.getElementById('project-list').innerHTML = `
+        <div class="alert alert-danger" role="alert">
+          Failed to load data.
+        </div>`;
     });
 </script>
+</body>
+</html>
