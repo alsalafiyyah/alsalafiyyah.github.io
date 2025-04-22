@@ -24,7 +24,7 @@ title: Audios
 <script>
   const urlParams = new URLSearchParams(window.location.search);
   const page = parseInt(urlParams.get("page")) || 1;
-  const perPage = 5;
+  const perPage = 10;
 
   fetch('https://alsalafiyyah.github.io/json/audios.json')
     .then(response => response.json())
