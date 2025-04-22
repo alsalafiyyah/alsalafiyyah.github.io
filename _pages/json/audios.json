@@ -1,0 +1,17 @@
+---
+layout: null
+permalink: /json/audios.json
+---
+[
+  {% for post in site.posts %}
+  {% if post.categories contains 'audios' %} 
+  {% if post.url %}
+    {
+      "title": {{ {{ post.title }} | jsonify }},
+      "url": {{ post.url | jsonify }},
+      "description": {{ post.description | jsonify }}
+    }{% unless forloop.last %},{% endunless %}
+  {% endif %}
+  {% endif %}
+  {% endfor %}
+]
