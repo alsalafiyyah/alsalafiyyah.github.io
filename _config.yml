@@ -244,6 +244,7 @@ collections:
     permalink       : /:collection/:slug
   audio:
     output: true
+    permalink       : /:collection/:slug
 
 # Alifta Scholars
 group1:
