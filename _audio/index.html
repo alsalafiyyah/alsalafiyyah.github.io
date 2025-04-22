@@ -1,14 +1,6 @@
 ---
-layout: nill
-title: Audios
+layout: basic
 ---
-<!DOCTYPE html>
-<html>
-  <head>
-    {% include metadata.html %}
-  </head>
-<body>
-
 <div class="container my-5">
   <h1 class="mb-4">Audio Fatwas</h1>
   <!-- Search Bar -->
@@ -24,7 +16,6 @@ title: Audios
     <ul id="pagination-controls" class="pagination justify-content-center mt-4"></ul>
   </nav>
 </div>
-
 <script>
   const urlParams = new URLSearchParams(window.location.search);
   let page = parseInt(urlParams.get("page")) || 1;
@@ -94,7 +85,7 @@ title: Audios
       console.error("Failed to fetch projects.json:", error);
       document.getElementById('project-list').innerHTML = `
         <div class="alert alert-danger" role="alert">
-          Failed to load projects.
+          Failed to load data.
         </div>`;
     });
 
@@ -103,5 +94,3 @@ title: Audios
     filterAndRender();
   });
 </script>
-</body>
-</html>
