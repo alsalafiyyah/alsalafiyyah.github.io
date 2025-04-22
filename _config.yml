@@ -242,6 +242,8 @@ collections:
     locale          : ar
     lang            : ar
     permalink       : /:collection/:slug
+  audio:
+    output: true
 
 # Alifta Scholars
 group1:
