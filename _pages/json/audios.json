@@ -2,16 +2,14 @@
 layout: null
 permalink: /json/audios.json
 ---
+
 [
-  {% for post in site.posts %}
-  {% if post.categories contains 'audios' %} 
-  {% if post.url %}
+  {% assign audio_posts = site.posts | where_exp: "post", "post.categories contains 'audios'" %}
+  {% for post in audio_posts %}
     {
       "title": {{ post.title | jsonify }},
       "url": {{ post.url | jsonify }},
       "description": {{ post.excerpt | truncatewords: 20 | jsonify }}
     }{% unless forloop.last %},{% endunless %}
-  {% endif %}
-  {% endif %}
   {% endfor %}
 ]
