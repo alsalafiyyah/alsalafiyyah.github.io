@@ -1,0 +1,41 @@
+---
+layout: default
+title: Audios
+---
+
+<h1>Projects</h1>
+<div id="project-list"></div>
+<div id="pagination-controls"></div>
+
+<script>
+  const urlParams = new URLSearchParams(window.location.search);
+  const page = parseInt(urlParams.get("page")) || 1;
+  const perPage = 5;
+
+  fetch('{{ site.url }}/json/audios.json')
+    .then(response => response.json())
+    .then(projects => {
+      const totalPages = Math.ceil(projects.length / perPage);
+      const start = (page - 1) * perPage;
+      const end = start + perPage;
+      const currentProjects = projects.slice(start, end);
+
+      const list = document.getElementById('project-list');
+      currentProjects.forEach(project => {
+        const item = document.createElement('div');
+        item.innerHTML = `<h2><a href="${project.url}">${project.title}</a></h2><p>${project.description}</p>`;
+        list.appendChild(item);
+      });
+
+      // Pagination Controls
+      const controls = document.getElementById('pagination-controls');
+      for (let i = 1; i <= totalPages; i++) {
+        const link = document.createElement('a');
+        link.href = `?page=${i}`;
+        link.textContent = i;
+        if (i === page) link.style.fontWeight = 'bold';
+        controls.appendChild(link);
+        controls.appendChild(document.createTextNode(" "));
+      }
+    });
+</script>
