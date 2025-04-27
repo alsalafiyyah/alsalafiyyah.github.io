@@ -83,7 +83,7 @@ document.addEventListener("DOMContentLoaded", function () {
     if (paginatedPosts.length) {
       container.innerHTML = paginatedPosts.map(post => `<div class="col">${post.innerHTML}</div>`).join('');
     } else {
-      container.innerHTML = `<p class="text-muted">No saved fatwas.</p>`;
+      container.innerHTML = `<p class="text-muted">No bookmarks.</p>`;
     }
 
     renderPagination(totalPages, currentPage);
