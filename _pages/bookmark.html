@@ -82,7 +82,7 @@ document.addEventListener("DOMContentLoaded", function () {
     if (paginatedPosts.length) {
       container.innerHTML = paginatedPosts.map(post => `<div class="col">${post.innerHTML}</div>`).join('');
     } else {
-      container.innerHTML = `<p class="text-muted">No saved fatwas found.</p>`;
+      container.innerHTML = `<p class="text-muted">No saved fatwas.</p>`;
     }
 
     renderPagination(totalPages, currentPage);
@@ -96,8 +96,8 @@ document.addEventListener("DOMContentLoaded", function () {
     }
     let html = '<ul class="pagination justify-content-center">';
     for (let i = 1; i <= totalPages; i++) {
-      html += `<li class="page-item bg-warning shadow-none ${i === currentPage ? 'active' : ''}">
-        <a class="page-link bg-warning shadow-none" href="?page=${i}">${i}</a></li>`;
+      html += `<li class="page-item bg-danger shadow-none ${i === currentPage ? 'active' : ''}">
+        <a class="page-link shadow-none" href="?page=${i}">${i}</a></li>`;
     }
     html += '</ul>';
     paginationNav.innerHTML = html;
