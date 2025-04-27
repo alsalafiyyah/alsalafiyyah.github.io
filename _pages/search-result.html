@@ -16,6 +16,7 @@ permalink: /search-result/
   {% for post in site.posts %}
   <div class="post-template"
        data-title="{{ post.title | escape }}"
+       data-content="{{ post.content | strip_html | normalize_whitespace | escape }}"
        data-url="{{ post.url }}">
     <div class="card h-100">
       <div class="card-body">
@@ -52,11 +53,21 @@ document.addEventListener("DOMContentLoaded", function () {
     history.replaceState({}, '', `${location.pathname}?${params.toString()}`);
   }
 
+  function highlightText(text, query) {
+    if (!query) return text;
+    const regex = new RegExp(`(${query})`, "gi");
+    return text.replace(regex, `<mark>$1</mark>`);
+  }
+
   function renderPosts() {
-    const query = getQueryParam('q').toLowerCase();
-    const filtered = allTemplates.filter(post =>
-      post.dataset.title.toLowerCase().includes(query)
-    );
+    const query = getQueryParam('q').trim();
+    const queryLower = query.toLowerCase();
+
+    const filtered = allTemplates.filter(post => {
+      const title = post.dataset.title.toLowerCase();
+      const content = post.dataset.content.toLowerCase();
+      return title.includes(queryLower) || content.includes(queryLower);
+    });
 
     const totalPages = Math.ceil(filtered.length / pageSize);
     let currentPage = getUrlPage();
@@ -68,7 +79,20 @@ document.addEventListener("DOMContentLoaded", function () {
     const paginated = filtered.slice((currentPage - 1) * pageSize, currentPage * pageSize);
 
     if (paginated.length) {
-      container.innerHTML = paginated.map(post => `<div class="col">${post.innerHTML}</div>`).join('');
+      container.innerHTML = paginated.map(post => {
+        const tempDiv = document.createElement('div');
+        tempDiv.innerHTML = post.innerHTML;
+
+        // Highlight inside title
+        const titleElem = tempDiv.querySelector(".card-title");
+        if (titleElem) {
+          titleElem.innerHTML = highlightText(titleElem.innerText, query);
+        }
+
+        // You can also highlight inside content if you are showing snippets
+        
+        return `<div class="col">${tempDiv.innerHTML}</div>`;
+      }).join('');
     } else {
       container.innerHTML = `<p class="text-muted">No results found for "<strong>${query}</strong>".</p>`;
     }
