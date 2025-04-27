@@ -120,9 +120,6 @@
 <link rel="icon" href="{{ '/assets/images/favicon.ico?v=3' | absolute_url }}" type="image/x-icon" />
 <link rel="manifest" href="{{ '/manifest.json' | prepend: site.baseurl }}">
 {% include CSS.html %}
-{% if page.active =='search' %}
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-{% endif %}
 <!-- Google tag (gtag.js) -->
 <link href="https://www.googletagmanager.com/gtag/js?id={{ site.webmaster_verifications.gtag_manager }}" rel="preload" as="script">
 <script>
