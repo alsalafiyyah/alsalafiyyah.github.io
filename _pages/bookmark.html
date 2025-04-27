@@ -30,7 +30,7 @@ permalink: /fatwas/bookmark/
     <div class="card h-100">
       <div class="card-body d-flex flex-column">
         <a href="{{ post.url }}"><h5 class="card-title">{{ post.title }}</h5></a>
-        <button class="btn btn-sm btn-danger mt-auto delete-btn" data-slug="{{ post.url | remove: '/' }}">Delete</button>
+        <button class="btn btn-sm btn-danger mt-auto delete-btn shadow-none" data-slug="{{ post.url | remove: '/' }}">Delete</button>
       </div>
     </div>
   </div>
@@ -96,7 +96,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
     let html = '<ul class="pagination justify-content-center">';
     for (let i = 1; i <= totalPages; i++) {
-      html += `<li class="page-item bg-danger shadow-none ${i === currentPage ? 'active' : ''}">
+      html += `<li class="page-item shadow-none ${i === currentPage ? 'active' : ''}">
         <a class="page-link shadow-none" href="?page=${i}">${i}</a></li>`;
     }
     html += '</ul>';
