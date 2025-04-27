@@ -1,46 +1,99 @@
 ---
-layout: Page
-robots: noindex
-permalink: /test/
+layout: default
+title: Muqolat
+permalink: /muqolat/articles/
 ---
 
-<ol class="list-group list-group-numbered">
-{%- assign posts = site.posts | where_exp: 'post', 'post.locale' -%}
-{{ site.post.locale | size }} 
-{%- for post in posts -%}
- <li class="list-group-item">
-  <a href="{{post.url |relative_url}}">
-   {{post.title}} / {{post.lang}}
-  </a>
- </li>
-{%- endfor -%}
-</ol>
-
-<ol class="list-group list-group-numbered">
-{%- assign posts = site.posts | where_exp: 'post', 'post.lang' -%}
-{{ site.post.lang | size }}
-{%- for post in posts -%}
- <li class="list-group-item">
-  <a href="{{post.url |relative_url}}">
-   {{post.title}} / {{post.lang}}
-  </a>
- </li>
-{%- endfor -%}
-</ol>
-
-
-{% for category in site.categories %}
-{% assign cat = category[0] %}
-<div class="card bg-transparent border-danger">
-  <div class="card-header">
-   {{ cat | capitalize }}
-  </div>
-  <div class="list-group">
-  {% for post in site.categories[cat] %}    
-   <a href="{{ post.url }}" class="list-group-item list-group-item-action">
-    {{ post.date }} / {{ post.title }}
-   </a> 
-  {% endfor %}      
-  </div>
+<div id="posts-container">
+  {% assign posts = site.posts | where_exp: "post", "post.categories contains 'muqolat'" %}
+  
+  {% for post in posts %}
+    <div class="post">
+      <h3 itemprop="headline">{{ post.title }}</h3>
+      <p>{{ post.excerpt }}</p>
+      <!-- You can add other post details here -->
+    </div>
+  {% endfor %}
 </div>
-{% endfor %}
+
+<div id="pagination-controls">
+  <a id="prev" href="?page=1" class="pagination-button">Previous</a>
+  <a id="next" href="?page=2" class="pagination-button">Next</a>
+</div>
+
+<script>
+// JavaScript Pagination
+
+// Number of posts per page
+const postsPerPage = 3;
+const posts = document.querySelectorAll(".post");
+const totalPosts = posts.length;
+const totalPages = Math.ceil(totalPosts / postsPerPage);
+
+// Get the current page from the URL query string (default to 1)
+const urlParams = new URLSearchParams(window.location.search);
+let currentPage = parseInt(urlParams.get('page')) || 1;
+
+// Function to update the displayed posts for the current page
+function paginate() {
+  // Limit the page number to valid values
+  if (currentPage < 1) currentPage = 1;
+  if (currentPage > totalPages) currentPage = totalPages;
+
+  // Calculate the range of posts to display
+  const startIndex = (currentPage - 1) * postsPerPage;
+  const endIndex = startIndex + postsPerPage;
+
+  // Hide all posts
+  posts.forEach((post, index) => {
+    if (index >= startIndex && index < endIndex) {
+      post.style.display = "block"; // Show post
+    } else {
+      post.style.display = "none"; // Hide post
+    }
+  });
+
+  // Update the "Previous" and "Next" buttons
+  document.getElementById("prev").style.display = currentPage > 1 ? "inline" : "none";
+  document.getElementById("next").style.display = currentPage < totalPages ? "inline" : "none";
+
+  // Update the URLs for the "Previous" and "Next" buttons
+  document.getElementById("prev").href = `?page=${currentPage - 1}`;
+  document.getElementById("next").href = `?page=${currentPage + 1}`;
+}
+
+// Initialize the pagination
+paginate();
+</script>
+
+<style>
+/* Simple Styles for Pagination */
+
+#posts-container .post {
+  display: none; /* Initially hide all posts */
+  margin-bottom: 20px;
+}
+
+#pagination-controls {
+  margin-top: 20px;
+}
+
+.pagination-button {
+  padding: 10px;
+  margin: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 5px;
+}
+
+.pagination-button:hover {
+  background-color: #0056b3;
+}
+
+.pagination-button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+</style>
