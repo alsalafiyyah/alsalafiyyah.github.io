@@ -22,6 +22,7 @@ permalink: /search-result/
       <div class="card-body">
         <a href="{{ post.url }}">
           <h5 class="card-title">{{ post.title }}</h5>
+          <p class="card-snippet d-none"></p> <!-- Snippet placeholder -->
         </a>
       </div>
     </div>
@@ -59,6 +60,25 @@ document.addEventListener("DOMContentLoaded", function () {
     return text.replace(regex, `<mark>$1</mark>`);
   }
 
+  function extractSnippet(content, query, length = 30) {
+    const contentLower = content.toLowerCase();
+    const queryLower = query.toLowerCase();
+    const index = contentLower.indexOf(queryLower);
+    
+    if (index === -1) return "";
+
+    const start = Math.max(0, index - length);
+    const end = Math.min(content.length, index + query.length + length);
+
+    let snippet = content.slice(start, end).trim();
+
+    // Add ellipsis if not full content
+    if (start > 0) snippet = "..." + snippet;
+    if (end < content.length) snippet = snippet + "...";
+
+    return highlightText(snippet, query);
+  }
+
   function renderPosts() {
     const query = getQueryParam('q').trim();
     const queryLower = query.toLowerCase();
@@ -83,14 +103,22 @@ document.addEventListener("DOMContentLoaded", function () {
         const tempDiv = document.createElement('div');
         tempDiv.innerHTML = post.innerHTML;
 
-        // Highlight inside title
+        // Highlight title
         const titleElem = tempDiv.querySelector(".card-title");
         if (titleElem) {
           titleElem.innerHTML = highlightText(titleElem.innerText, query);
         }
 
-        // You can also highlight inside content if you are showing snippets
-        
+        // Generate snippet
+        const snippetElem = tempDiv.querySelector(".card-snippet");
+        if (snippetElem) {
+          const snippet = extractSnippet(post.dataset.content, query);
+          if (snippet) {
+            snippetElem.classList.remove('d-none');
+            snippetElem.innerHTML = snippet;
+          }
+        }
+
         return `<div class="col">${tempDiv.innerHTML}</div>`;
       }).join('');
     } else {
