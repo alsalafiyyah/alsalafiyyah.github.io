@@ -1,0 +1,98 @@
+---
+layout: default
+title: Search
+permalink: /search-result/
+---
+
+{% include Breadcrumb.html %}
+<h2>Search Results</h2>
+
+<div id="searchResults" class="row row-cols-1 row-cols-md-3 g-4"></div>
+
+<nav id="paginationNav" class="mt-4"></nav>
+
+<!-- Hidden all posts -->
+<div id="allPosts" style="display:none;">
+  {% for post in site.posts %}
+  <div class="post-template"
+       data-title="{{ post.title | escape }}"
+       data-url="{{ post.url }}">
+    <div class="card h-100">
+      <div class="card-body">
+        <a href="{{ post.url }}">
+          <h5 class="card-title">{{ post.title }}</h5>
+        </a>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const allTemplates = Array.from(document.querySelectorAll("#allPosts .post-template"));
+  const container = document.getElementById("searchResults");
+  const paginationNav = document.getElementById("paginationNav");
+
+  const pageSize = 6; // posts per page
+
+  function getQueryParam(name) {
+    const params = new URLSearchParams(window.location.search);
+    return params.get(name) || "";
+  }
+
+  function getUrlPage() {
+    const params = new URLSearchParams(window.location.search);
+    return parseInt(params.get('page')) || 1;
+  }
+
+  function setUrlPage(page) {
+    const params = new URLSearchParams(window.location.search);
+    params.set('page', page);
+    history.replaceState({}, '', `${location.pathname}?${params.toString()}`);
+  }
+
+  function renderPosts() {
+    const query = getQueryParam('q').toLowerCase();
+    const filtered = allTemplates.filter(post =>
+      post.dataset.title.toLowerCase().includes(query)
+    );
+
+    const totalPages = Math.ceil(filtered.length / pageSize);
+    let currentPage = getUrlPage();
+    if (currentPage > totalPages) {
+      currentPage = totalPages || 1;
+      setUrlPage(currentPage);
+    }
+
+    const paginated = filtered.slice((currentPage - 1) * pageSize, currentPage * pageSize);
+
+    if (paginated.length) {
+      container.innerHTML = paginated.map(post => `<div class="col">${post.innerHTML}</div>`).join('');
+    } else {
+      container.innerHTML = `<p class="text-muted">No results found for "<strong>${query}</strong>".</p>`;
+    }
+
+    renderPagination(totalPages, currentPage);
+  }
+
+  function renderPagination(totalPages, currentPage) {
+    if (totalPages <= 1) {
+      paginationNav.innerHTML = '';
+      return;
+    }
+
+    let html = '<ul class="pagination justify-content-center">';
+    for (let i = 1; i <= totalPages; i++) {
+      const params = new URLSearchParams(window.location.search);
+      params.set('page', i);
+      html += `<li class="page-item ${i === currentPage ? 'active' : ''}">
+        <a class="page-link" href="?${params.toString()}">${i}</a></li>`;
+    }
+    html += '</ul>';
+    paginationNav.innerHTML = html;
+  }
+
+  renderPosts();
+});
+</script>
