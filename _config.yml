@@ -53,13 +53,6 @@ compress_html:
   startings         : [html, head, body]
   endings           : all
 
-# tipue search js
-tipue_search:
-  include:
-    pages          : false
-  exclude:
-    files          : [index.html, search.html, sitemap.xml, feed.xml, docs, BingSiteAuth.xml, Gemfile.lock, Gemfile, manifest.yml]
-
 # Manifest
 manifest_name      : "Manhaj Al-Salaf"
 manifest_desc      : "This site is dedicated to presenting the pure teachings of Islam and Sunnah, refuting bidahs, the lies and distortions."
