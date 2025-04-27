@@ -128,22 +128,67 @@ document.addEventListener("DOMContentLoaded", function () {
     renderPagination(totalPages, currentPage);
   }
 
-  function renderPagination(totalPages, currentPage) {
-    if (totalPages <= 1) {
-      paginationNav.innerHTML = '';
-      return;
+function renderPagination(totalPages, currentPage) {
+  if (totalPages <= 1) {
+    paginationNav.innerHTML = '';
+    return;
+  }
+
+  const params = new URLSearchParams(window.location.search);
+  const makePageLink = (page) => {
+    params.set('page', page);
+    return `<li class="page-item ${page === currentPage ? 'active' : ''}">
+      <a class="page-link" href="?${params.toString()}">${page}</a>
+    </li>`;
+  };
+
+  let html = '<ul class="pagination justify-content-center">';
+
+  if (currentPage > 1) {
+    params.set('page', currentPage - 1);
+    html += `<li class="page-item">
+      <a class="page-link" href="?${params.toString()}">&laquo;</a>
+    </li>`;
+  }
+
+  const pageLinks = [];
+  
+  if (totalPages <= 7) {
+    // Show all pages
+    for (let i = 1; i <= totalPages; i++) {
+      pageLinks.push(makePageLink(i));
+    }
+  } else {
+    // Show first 2 pages
+    pageLinks.push(makePageLink(1));
+    if (currentPage > 4) pageLinks.push(`<li class="page-item disabled"><span class="page-link">...</span></li>`);
+
+    const startPage = Math.max(2, currentPage - 1);
+    const endPage = Math.min(totalPages - 1, currentPage + 1);
+
+    for (let i = startPage; i <= endPage; i++) {
+      pageLinks.push(makePageLink(i));
     }
 
-    let html = '<ul class="pagination justify-content-center">';
-    for (let i = 1; i <= totalPages; i++) {
-      const params = new URLSearchParams(window.location.search);
-      params.set('page', i);
-      html += `<li class="page-item ${i === currentPage ? 'active' : ''}">
-        <a class="page-link" href="?${params.toString()}">${i}</a></li>`;
-    }
-    html += '</ul>';
-    paginationNav.innerHTML = html;
+    if (currentPage < totalPages - 3) pageLinks.push(`<li class="page-item disabled"><span class="page-link">...</span></li>`);
+    
+    pageLinks.push(makePageLink(totalPages));
   }
+
+  html += pageLinks.join('');
+
+  if (currentPage < totalPages) {
+    params.set('page', currentPage + 1);
+    html += `<li class="page-item">
+      <a class="page-link" href="?${params.toString()}">&raquo;</a>
+    </li>`;
+  }
+
+  html += '</ul>';
+
+  paginationNav.innerHTML = html;
+}
+
 
   renderPosts();
 });
