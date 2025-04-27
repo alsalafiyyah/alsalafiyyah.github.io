@@ -45,9 +45,6 @@
   <div class="collapse" id="collapseSearch">
 
    <div class="bg-light p-4" itemscope itemtype="http://schema.org/WebSite">
-   <p class="text-body-emphasis">
-    {% if page.locale %}{{ site.data.locales[page.locale].page.search }}{% else %}Search{% endif %}
-   </p>
   <meta itemprop="url" content="{% if page.locale == 'en' %}{{ site.data.locales[page.locale].site.url }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].site.url }}{% else %}{{ site.url }}{% endif %}"/>
   <form class="d-flex" role="search" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" action="{% if page.locale == 'en' %}{{ site.data.locales[page.locale].site.url_search }}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].site.url_search }}{% else %}https://alsalafiyyah.github.io/search{% endif %}">
   <meta itemprop="target" content="{% if page.locale == 'en' %}{{ site.data.locales[page.locale].site.url_search }}?q={q}{% elsif page.locale == 'ar' %}{{ site.data.locales[page.locale].site.url_search }}?q={q}{% else %}https://alsalafiyyah.github.io/search?q={q}{% endif %}"/>  
