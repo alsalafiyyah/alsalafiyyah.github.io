@@ -138,7 +138,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const query = params.get('q');
 
   if (query) {
-    const siteName = "YourSiteName"; // 🔥 Change this to your real site name
+    const siteName = "{{ site.title }}"; // 🔥 Change this to your real site name
     const newTitle = `Search results for "${query}" | ${siteName}`;
     const newDescription = `View search results for "${query}" on ${siteName}.`;
 
