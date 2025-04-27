@@ -96,8 +96,8 @@ document.addEventListener("DOMContentLoaded", function () {
     }
     let html = '<ul class="pagination justify-content-center">';
     for (let i = 1; i <= totalPages; i++) {
-      html += `<li class="page-item ${i === currentPage ? 'active' : ''}">
-        <a class="page-link" href="?page=${i}">${i}</a></li>`;
+      html += `<li class="page-item bg-warning shadow-none ${i === currentPage ? 'active' : ''}">
+        <a class="page-link bg-warning shadow-none" href="?page=${i}">${i}</a></li>`;
     }
     html += '</ul>';
     paginationNav.innerHTML = html;
