@@ -5,21 +5,24 @@ robots: noindex
 [
 {% for post in site.posts %}
   {
-    "no": {{forloop.index}},
+    "no": {{ forloop.index }},
     "title": {{ post.title | jsonify }},
-    "url": {{ post.url | jsonify }},
+    "slug": {{ post.url | jsonify }},
     "url": {{ post.url | prepend: site.baseurl | prepend: site.url | jsonify }},
     "date": {{ post.date | date_to_xmlschema | jsonify }},
     "hijri": {{ post.hijri | jsonify }},
-    "lang": "{{ post.lang | jsonify }}",
-    "uid": "{{ post.uid | jsonify }}",
-    "locale": "{{ post.locale | jsonify }}",
-    "layout": "{{ post.layout | jsonify }}",
-    "source": "{{ post.source | jsonify }}",
-    "author": "{{ post.publisher | jsonify }}",
-    "categories": "{{ post.categories | jsonify }}",
-    "category": "{{ post.category | jsonify }}",
-    "tags": "{{ post.tag | jsonify }}",
+    "lang": {{ post.lang | jsonify }},
+    "uid": {{ post.uid | jsonify }},
+    "locale": {{ post.locale | jsonify }},
+    "layout": {{ post.layout | jsonify }},
+    "source": {{ post.source | jsonify }}",
+    "publisher": {{ post.publisher | jsonify }},
+    "categories": {{ post.categories | jsonify }},
+    "category": {{ post.category }},
+    "tags": {{ post.tag | jsonify }},
+    "note": {{ post.note }},
+    "muftis": {{ post.muftis | jsonify }},
+    "shaykh": {{ post.shaykh | jsonify }},
     "excerpt": {{ post.excerpt | strip_html | strip_newlines | jsonify }}
   }{% if forloop.last == false %},{% endif %}
 {% endfor %}
