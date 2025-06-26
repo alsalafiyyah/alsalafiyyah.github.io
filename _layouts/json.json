@@ -22,7 +22,7 @@ robots: noindex
     "tags": {{ post.tag | jsonify }},
     "note": {{ post.note }},
     "muftis": {{ post.muftis | jsonify }},
-    "shaykh": {{ post.shaykh | jsonify }},
+    "shaykh": {{ post.shaykhs | jsonify }},
     "excerpt": {{ post.excerpt | strip_html | strip_newlines | jsonify }}
   }{% if forloop.last == false %},{% endif %}
 {% endfor %}
