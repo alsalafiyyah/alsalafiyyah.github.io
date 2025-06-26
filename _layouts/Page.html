@@ -1,8 +1,24 @@
 ---
 layout: default
 ---
-{% include Breadcrumb.html %}
-<section>
-{% include PageTitle.html %}
-{{ content }}
+<section class="container">
+ <article 
+  itemprop="mainEntity" 
+  itemscope 
+  itemtype="http://schema.org/BlogPosting" 
+  itemid="{{ page.url }}">
+  {% include Breadcrumb.html %}
+ <header itemprop="headline">  
+  <h2 class="display-2">{{ page.title }}</h2>
+ </header>
+ <br/>
+ <div property="articleBody">
+  {% include AudioPlayer.html %}
+  {{ content }}
+  {% if page.note %}
+   <p>{{ site.note.text }}</p>
+  {% endif %}  
+ </div>
+ {% include source.html %}
+ </article>
 </section>

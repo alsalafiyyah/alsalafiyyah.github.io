@@ -7,6 +7,7 @@ permalink: /api/fatwas
   "data": [
    {% for post in site.posts %}
     {
+      "no": {{forloop.index}},
       "title": {{ post.title | jsonify }},
       "date": {{ post.date | jsonify }},
       "hijri": {{ post.hijri | jsonify }},
