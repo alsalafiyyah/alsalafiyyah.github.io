@@ -15,7 +15,7 @@ robots: noindex
     "uid": {{ post.uid | jsonify }},
     "locale": {{ post.locale | jsonify }},
     "layout": {{ post.layout | jsonify }},
-    "source": {{ post.source | jsonify }}",
+    "source": {{ post.source | jsonify }},
     "publisher": {{ post.publisher | jsonify }},
     "categories": {{ post.categories | jsonify }},
     "category": {{ post.category }},
