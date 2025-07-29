@@ -4,7 +4,7 @@ publisher: alsalafiyyah@icloud.com
 title: The wisdom behind the difference in complexion colors of the servants of Allah
 date: 2025-07-29
 hijri: Safar 4, 1447 AH
-source: Fatawa Al-Lajnah Ad-Da'imah 9/10-22, Fatwa no. 18612, Question 31 
+source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no.145, Question 4 
 category: [fatwas, tafsirs, quran]
 note: true
 excerpt: "And among His Signs is the creation of the heavens and the earth, and the difference of your languages and colours. Verily, in that are indeed signs for men of sound knowledge."
