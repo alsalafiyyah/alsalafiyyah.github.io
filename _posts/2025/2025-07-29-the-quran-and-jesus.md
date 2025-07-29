@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: Which is better: The Qur'an or 'Isa (peace be upon him)
+title: "Which is better: The Qur'an or 'Isa (peace be upon him)"
 date: 2025-07-29
 hijri: Safar 4, 1447 AH
 source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 6793, Question 3
