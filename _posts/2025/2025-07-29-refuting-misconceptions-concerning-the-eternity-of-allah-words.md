@@ -34,4 +34,4 @@ As for describing the Words of Allah as "ancient," neither the Sahabah (Companio
 May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
 
 ---
-[^1]: Musnad Imam Ahmad (4/256 ، 377), Al-Bukhari (Fath al-Bari no. 1413 ، 1417 ، 3595 ، 6023 ، 6539 ، 6540 ، 6563 ، 7443 ، 7512), Muslim (1016), at-Thirmidi (2417), Ibn Majah (173)
+[^1]: Musnad Imam Ahmad (4/256 ، 377), Al-Bukhari (Fath al-Bari, no. 1413 ، 1417 ، 3595 ، 6023 ، 6539 ، 6540 ، 6563 ، 7443 ، 7512), Muslim (1016), at-Tirmidhi (2417), Ibn Majah (173)
