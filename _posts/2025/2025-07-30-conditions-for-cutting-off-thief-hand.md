@@ -18,7 +18,7 @@ muftis:
     - name: Shaykh Salih Al-Fawzan
       url: /biography/fawzan/
     - name: Shaykh Bakr Abu Zayd
-      url: /biography/zayd/
+      url: /biography/bakr/
 ---
 
 ### Question
