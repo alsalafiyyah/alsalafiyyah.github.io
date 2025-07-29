@@ -30,7 +30,7 @@ Describing the character of our Prophet Muhammad (peace be upon him) in Surah Al
 
 It is also related by Abu Dawud : **"On the authority of Um Salamah (may Allah be pleased with her) who narrated that the Prophet (peace be upon him) forbade every intoxicant and everything which produces languidness."** [^1]
 
-It is well known that narcotics cause stupor and are very harmful. The Prophet (peace be upon him) said, "There should be neither harming nor reciprocating harm." [^2]
+It is well known that narcotics cause stupor and are very harmful. The Prophet (peace be upon him) said, **"There should be neither harming nor reciprocating harm."** [^2]
 
 ---
 
