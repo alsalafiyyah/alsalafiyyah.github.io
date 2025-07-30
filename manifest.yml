@@ -1,5 +1,7 @@
 ---
 permalink: manifest.json
+layout: null
+content-type: application/manifest+json
 ---
 
 {
