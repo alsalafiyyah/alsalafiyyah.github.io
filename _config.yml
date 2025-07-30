@@ -54,11 +54,11 @@ compress_html:
   endings           : all
 
 # Manifest
-manifest_name      : "Manhaj Al-Salaf"
+manifest_name      : "Al-Salafiyyah"
 manifest_desc      : "This site is dedicated to presenting the pure teachings of Islam and Sunnah, refuting bidahs, the lies and distortions."
 manifest_lang      : "en_EN"
-manifest_bg_color  : "#fff"
-manifest_short_name: "Salafiyyah"
+manifest_bg_color  : "#E5DCD7"
+manifest_short_name: "Al-Salafiyyah"
 manifest_display   : "standalone"
 
 include:
