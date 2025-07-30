@@ -121,7 +121,7 @@
 <link rel="manifest" href="{{ '/manifest.json' | prepend: site.baseurl }}">
 {% include CSS.html %}
 <!-- Google tag (gtag.js) -->
-<link href="https://www.googletagmanager.com/gtag/js?id={{ site.webmaster_verifications.gtag_manager }}" rel="preload" as="script">
+<link href="https://www.googletagmanager.com/gtag/js?id={{ site.webmaster_verifications.gtag_manager }}" rel="prefetch" as="script">
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
