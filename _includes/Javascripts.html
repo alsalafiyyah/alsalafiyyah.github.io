@@ -166,7 +166,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   if (totalPages > 1) {
     const pagination = document.createElement("nav");
-    let html = `<div class="pagination d-flex gap-2 mt-5">`;
+    let html = `<div class="pagination d-flex gap-2 mt-5 justify-content-center">`;
 
     if (currentPage > 1) {
       html += `<a href="?page=${currentPage - 1}" class="btn btn-outline-danger">Previous</a>`;
