@@ -173,7 +173,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     for (let i = 1; i <= totalPages; i++) {
-      html += `<a href="?page=${i}" class="btn ${i === currentPage ? 'btn-primary' : 'btn-outline-danger'}">${i}</a>`;
+      html += `<a href="?page=${i}" class="btn ${i === currentPage ? 'btn-danger' : 'btn-outline-danger'}">${i}</a>`;
     }
 
     if (currentPage < totalPages) {
