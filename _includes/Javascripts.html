@@ -156,16 +156,30 @@ if (postsToShow.length === 0) {
 }
 
 // Pagination controls
-const pagination = document.createElement("nav");
-pagination.className = "mt-4";
+// After rendering posts
+if (totalPages > 1) {
+  const pagination = document.createElement("nav");
+  pagination.className = "mt-4";
 
-let html = "";
-if (currentPage > 1) {
-  html += `<a href="?page=${currentPage - 1}" class="btn btn-outline-primary me-2">Previous</a>`;
+  let html = `<div class="pagination d-flex gap-2">`;
+
+  // Previous
+  if (currentPage > 1) {
+    html += `<a href="?page=${currentPage - 1}" class="btn btn-outline-primary">Previous</a>`;
+  }
+
+  // Page numbers
+  for (let i = 1; i <= totalPages; i++) {
+    html += `<a href="?page=${i}" class="btn ${i === currentPage ? 'btn-primary' : 'btn-outline-primary'}">${i}</a>`;
+  }
+
+  // Next
+  if (currentPage < totalPages) {
+    html += `<a href="?page=${currentPage + 1}" class="btn btn-outline-primary">Next</a>`;
+  }
+
+  html += `</div>`;
+  pagination.innerHTML = html;
+  container.appendChild(pagination);
 }
-if (currentPage < totalPages) {
-  html += `<a href="?page=${currentPage + 1}" class="btn btn-outline-primary">Next</a>`;
-}
-pagination.innerHTML = html;
-container.appendChild(pagination);
 </script>
