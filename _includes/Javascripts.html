@@ -156,6 +156,9 @@ document.addEventListener("DOMContentLoaded", function () {
     <p class="mb-1 fst-italic">
      ${post.excerpt}
     </p>
+    <div class="post-meta d-flex justify-content-between mt-3" style="font-size: 14.8px !important;">
+     ${post.hijri}
+    </div>
   </div>
   `).join("");
 
@@ -163,18 +166,18 @@ document.addEventListener("DOMContentLoaded", function () {
 
   if (totalPages > 1) {
     const pagination = document.createElement("nav");
-    let html = `<div class="pagination d-flex gap-2">`;
+    let html = `<div class="pagination d-flex gap-2 mt-5">`;
 
     if (currentPage > 1) {
-      html += `<a href="?page=${currentPage - 1}" class="btn btn-outline-primary">Previous</a>`;
+      html += `<a href="?page=${currentPage - 1}" class="btn btn-outline-danger">Previous</a>`;
     }
 
     for (let i = 1; i <= totalPages; i++) {
-      html += `<a href="?page=${i}" class="btn ${i === currentPage ? 'btn-primary' : 'btn-outline-primary'}">${i}</a>`;
+      html += `<a href="?page=${i}" class="btn ${i === currentPage ? 'btn-primary' : 'btn-outline-danger'}">${i}</a>`;
     }
 
     if (currentPage < totalPages) {
-      html += `<a href="?page=${currentPage + 1}" class="btn btn-outline-primary">Next</a>`;
+      html += `<a href="?page=${currentPage + 1}" class="btn btn-outline-danger">Next</a>`;
     }
 
     html += `</div>`;
