@@ -129,28 +129,3 @@
   gtag('config', '{{ site.webmaster_verifications.gtag_manager }}');
 </script>
 <!-- Clarity tracking code for https://alsalafiyyah.github.io/ --><script>    (function(c,l,a,r,i,t,y){        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);    })(window, document, "clarity", "script", "n477hgra2y");</script>
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  const params = new URLSearchParams(window.location.search);
-  const query = params.get('q');
-
-  if (query) {
-    const siteName = "{{ site.title }}"; // 🔥 Change this to your real site name
-    const newTitle = `Search results for "${query}" | ${siteName}`;
-    const newDescription = `View search results for "${query}" on ${siteName}.`;
-
-    document.title = newTitle;
-
-    let metaDesc = document.querySelector('meta[name="description"]');
-    if (metaDesc) {
-      metaDesc.setAttribute('content', newDescription);
-    } else {
-      // If no meta description exists, create it
-      metaDesc = document.createElement('meta');
-      metaDesc.name = "description";
-      metaDesc.content = newDescription;
-      document.head.appendChild(metaDesc);
-    }
-  }
-});
-</script>
