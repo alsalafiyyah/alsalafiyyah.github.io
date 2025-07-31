@@ -132,54 +132,50 @@ $(function () {
     bindClickEvents();
   });
 </script>
+
 <script>
-const POSTS_PER_PAGE = 8;
-const urlParams = new URLSearchParams(window.location.search);
-const currentPage = parseInt(urlParams.get("page")) || 1;
+document.addEventListener("DOMContentLoaded", function () {
+  const POSTS_PER_PAGE = 8;
+  const urlParams = new URLSearchParams(window.location.search);
+  const currentPage = parseInt(urlParams.get("page")) || 1;
 
-const data = JSON.parse(document.getElementById("fatwa-data").textContent);
-const start = (currentPage - 1) * POSTS_PER_PAGE;
-const end = start + POSTS_PER_PAGE;
-const totalPages = Math.ceil(data.length / POSTS_PER_PAGE);
+  const raw = document.getElementById("fatwa-data");
+  const data = JSON.parse(raw.textContent);
+  const start = (currentPage - 1) * POSTS_PER_PAGE;
+  const end = start + POSTS_PER_PAGE;
+  const totalPages = Math.ceil(data.length / POSTS_PER_PAGE);
+  const container = document.getElementById("fatwa-container");
 
-const container = document.getElementById("fatwa-container");
-const postsToShow = data.slice(start, end);
+  const postsToShow = data.slice(start, end);
 
-if (postsToShow.length === 0) {
-  container.innerHTML = "<p>No content found for this page.</p>";
-} else {
   container.innerHTML = postsToShow.map(post => `
-    <a class="link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="${post.url}">
+    <a href="${post.url}" class="d-block mb-2">
       <h3>${post.title}</h3>
     </a>
   `).join("");
-}
 
-// Pagination controls
-// After rendering posts
-if (totalPages > 1) {
-  const pagination = document.createElement("nav");
-  pagination.className = "mt-4";
+  console.log("Rendering pagination...");
 
-  let html = `<div class="pagination d-flex gap-2">`;
+  if (totalPages > 1) {
+    const pagination = document.createElement("nav");
+    let html = `<div class="pagination d-flex gap-2">`;
 
-  // Previous
-  if (currentPage > 1) {
-    html += `<a href="?page=${currentPage - 1}" class="btn btn-outline-primary">Previous</a>`;
+    if (currentPage > 1) {
+      html += `<a href="?page=${currentPage - 1}" class="btn btn-outline-primary">Previous</a>`;
+    }
+
+    for (let i = 1; i <= totalPages; i++) {
+      html += `<a href="?page=${i}" class="btn ${i === currentPage ? 'btn-primary' : 'btn-outline-primary'}">${i}</a>`;
+    }
+
+    if (currentPage < totalPages) {
+      html += `<a href="?page=${currentPage + 1}" class="btn btn-outline-primary">Next</a>`;
+    }
+
+    html += `</div>`;
+    pagination.innerHTML = html;
+    container.appendChild(pagination);
   }
-
-  // Page numbers
-  for (let i = 1; i <= totalPages; i++) {
-    html += `<a href="?page=${i}" class="btn ${i === currentPage ? 'btn-primary' : 'btn-outline-primary'}">${i}</a>`;
-  }
-
-  // Next
-  if (currentPage < totalPages) {
-    html += `<a href="?page=${currentPage + 1}" class="btn btn-outline-primary">Next</a>`;
-  }
-
-  html += `</div>`;
-  pagination.innerHTML = html;
-  container.appendChild(pagination);
-}
+});
 </script>
+
