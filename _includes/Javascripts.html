@@ -184,3 +184,26 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 });
 </script>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const params = new URLSearchParams(window.location.search);
+  const query = params.get('q');
+  if (query) {
+    const siteName = "{{ site.title }}"; 
+    const newTitle = `Search results for "${query}" | ${siteName}`;
+    const newDescription = `View search results for "${query}" on ${siteName}.`;
+
+    document.title = newTitle;
+
+    let metaDesc = document.querySelector('meta[name="description"]');
+    if (metaDesc) {
+      metaDesc.setAttribute('content', newDescription);
+    } else {
+      metaDesc = document.createElement('meta');
+      metaDesc.name = "description";
+      metaDesc.content = newDescription;
+      document.head.appendChild(metaDesc);
+    }
+  }
+});
+</script>
