@@ -132,3 +132,40 @@ $(function () {
     bindClickEvents();
   });
 </script>
+<script>
+const POSTS_PER_PAGE = 5;
+const urlParams = new URLSearchParams(window.location.search);
+const currentPage = parseInt(urlParams.get("page")) || 1;
+
+const data = JSON.parse(document.getElementById("fatwa-data").textContent);
+const start = (currentPage - 1) * POSTS_PER_PAGE;
+const end = start + POSTS_PER_PAGE;
+const totalPages = Math.ceil(data.length / POSTS_PER_PAGE);
+
+const container = document.getElementById("fatwa-container");
+const postsToShow = data.slice(start, end);
+
+if (postsToShow.length === 0) {
+  container.innerHTML = "<p>No content found for this page.</p>";
+} else {
+  container.innerHTML = postsToShow.map(post => `
+    <a class="link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="${post.url}">
+      <h3>${post.title}</h3>
+    </a>
+  `).join("");
+}
+
+// Pagination controls
+const pagination = document.createElement("nav");
+pagination.className = "mt-4";
+
+let html = "";
+if (currentPage > 1) {
+  html += `<a href="?page=${currentPage - 1}" class="btn btn-outline-primary me-2">Previous</a>`;
+}
+if (currentPage < totalPages) {
+  html += `<a href="?page=${currentPage + 1}" class="btn btn-outline-primary">Next</a>`;
+}
+pagination.innerHTML = html;
+container.appendChild(pagination);
+</script>
