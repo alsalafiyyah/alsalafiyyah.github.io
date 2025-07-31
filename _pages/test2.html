@@ -3,13 +3,17 @@ layout: Page
 robots: noindex
 permalink: /test1/
 ---
-{{ site.posts | size | where:"locale", page.locale }}<br/>
-{{ site.posts | size | where:"locale", page.locale }}
-{% assign posts=site.posts | where:"locale", page.locale %}
-<ol>
-{% for post in posts %}
-    <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-{% endfor %}
-</ol>
+<div id="fatwa-container"></div>
+
+<script id="fatwa-data" type="application/json">
+[
+  {% assign posts = site.posts | where_exp: "post", "post.categories contains 'fatwa'" %}
+  {% for post in posts %}
+    {
+      "title": {{ post.title | jsonify }},
+      "url": "{{ post.url }}",
+      "date": "{{ post.date | date: '%Y-%m-%d' }}"
+    }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
+</script>
