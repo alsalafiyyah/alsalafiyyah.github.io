@@ -141,79 +141,80 @@ document.addEventListener("DOMContentLoaded", function () {
 
   const raw = document.getElementById("fatwa-data");
   const data = JSON.parse(raw.textContent);
-
+  const start = (currentPage - 1) * POSTS_PER_PAGE;
+  const end = start + POSTS_PER_PAGE;
   const totalPages = Math.ceil(data.length / POSTS_PER_PAGE);
   const container = document.getElementById("fatwa-container");
 
   const postsToShow = data.slice(start, end);
 
+  // Render posts
   container.innerHTML = postsToShow.map(post => `
-  <div itemscope itemtype="https://schema.org/NewsArticle" class="col mb-3 fatwas">
-    <a href="${post.url}" class="d-block mb-2">
-      <h3>${post.title}</h3>
-    </a>
-    <p class="mb-1 fst-italic">
-     ${post.excerpt}
-    </p>
-    <div class="post-meta mt-3">
-     ${post.hijri}
+    <div itemscope itemtype="https://schema.org/NewsArticle" class="col mb-3 fatwas">
+      <a href="${post.url}" class="d-block mb-2">
+        <h3>${post.title}</h3>
+      </a>
+      <p class="mb-1 fst-italic">
+        ${post.excerpt}
+      </p>
+      <div class="post-meta d-flex justify-content-between mt-3" style="font-size: 14.8px !important;">
+        ${post.hijri}
+      </div>
     </div>
-  </div>
   `).join("");
 
-if (totalPages > 1) {
-  const pagination = document.createElement("nav");
-  let html = `<div class="pagination d-flex gap-2 mt-5 justify-content-center">`;
+  // Render pagination if more than 1 page
+  if (totalPages > 1) {
+    const pagination = document.createElement("nav");
+    let html = `<div class="pagination d-flex gap-2 mt-5 justify-content-center flex-wrap">`;
 
-  const maxShown = 10;
-  const half = Math.floor(maxShown / 2);
-  let startPage = Math.max(1, currentPage - half);
-  let endPage = Math.min(totalPages, currentPage + half);
+    const maxShown = 5;
+    const half = Math.floor(maxShown / 2);
+    let startPage = Math.max(1, currentPage - half);
+    let endPage = Math.min(totalPages, currentPage + half);
 
-  if (endPage - startPage + 1 < maxShown) {
-    if (startPage === 1) {
-      endPage = Math.min(totalPages, startPage + maxShown - 1);
-    } else if (endPage === totalPages) {
-      startPage = Math.max(1, endPage - maxShown + 1);
+    if (endPage - startPage + 1 < maxShown) {
+      if (startPage === 1) {
+        endPage = Math.min(totalPages, startPage + maxShown - 1);
+      } else if (endPage === totalPages) {
+        startPage = Math.max(1, endPage - maxShown + 1);
+      }
     }
-  }
 
-  // Previous
-  if (currentPage > 1) {
-    html += `<a href="?page=${currentPage - 1}" class="btn btn-outline-danger">Previous</a>`;
-  }
-
-  // First page + ellipsis
-  if (startPage > 1) {
-    html += `<a href="?page=1" class="btn btn-outline-danger">1</a>`;
-    if (startPage > 2) {
-      html += `<span class="btn disabled">...</span>`;
+    // Previous button
+    if (currentPage > 1) {
+      html += `<a href="?page=${currentPage - 1}" class="btn btn-outline-danger">Previous</a>`;
     }
-  }
 
-  // Page number buttons
-  for (let i = startPage; i <= endPage; i++) {
-    html += `<a href="?page=${i}" class="btn ${i === currentPage ? 'btn-danger' : 'btn-outline-danger'}">${i}</a>`;
-  }
-
-  // Last page + ellipsis
-  if (endPage < totalPages) {
-    if (endPage < totalPages - 1) {
-      html += `<span class="btn disabled">...</span>`;
+    // First page + ...
+    if (startPage > 1) {
+      html += `<a href="?page=1" class="btn btn-outline-danger">1</a>`;
+      if (startPage > 2) {
+        html += `<span class="btn disabled">...</span>`;
+      }
     }
-    html += `<a href="?page=${totalPages}" class="btn btn-outline-danger">${totalPages}</a>`;
+
+    // Numbered buttons
+    for (let i = startPage; i <= endPage; i++) {
+      html += `<a href="?page=${i}" class="btn ${i === currentPage ? 'btn-danger' : 'btn-outline-danger'}">${i}</a>`;
+    }
+
+    // ... + last page
+    if (endPage < totalPages) {
+      if (endPage < totalPages - 1) {
+        html += `<span class="btn disabled">...</span>`;
+      }
+      html += `<a href="?page=${totalPages}" class="btn btn-outline-danger">${totalPages}</a>`;
+    }
+
+    // Next button
+    if (currentPage < totalPages) {
+      html += `<a href="?page=${currentPage + 1}" class="btn btn-outline-danger">Next</a>`;
+    }
+
+    html += `</div>`;
+    pagination.innerHTML = html;
+    container.appendChild(pagination);
   }
-
-  // Next
-  if (currentPage < totalPages) {
-    html += `<a href="?page=${currentPage + 1}" class="btn btn-outline-danger">Next</a>`;
-  }
-
-  html += `</div>`;
-  pagination.innerHTML = html;
-  container.appendChild(pagination);
-}
-
 });
 </script>
-
