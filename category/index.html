@@ -4,19 +4,14 @@ title: Categories
 active: category
 excerpt: Browse all available fatwas by categories.
 ---
-<table>	     
-<ul class="list-group">
-  {% for category in site.categories %}	
-  <tr>
-   <td>
-    <a href="{{ site.baseurl }}/category/{{ category[0] }}" class="list-group-item d-flex justify-content-between align-items-center">
-     <b>{{ category | first | strip_html | capitalize }}</b>
-     <span class="badge text-bg-danger rounded-pill">
-      {{ category[1].size }}
-     </span>
-    </a>
-   </td>
-  </tr>      
-  {% endfor %}	
-</ul>	
-</table>
+<div class="d-flex gap-2 py-1"> 
+{% for category in site.categories %}	
+<a href="{{ site.baseurl }}/category/{{ category[0] }}" class="text-decoration-none">
+ <span class="badge d-flex align-items-center p-1 pe-2 text-light-emphasis bg-light-subtle border border-dark-subtle rounded-pill"> 
+  <span class="px-1">{{ category | first | strip_html | capitalize }}</span> 
+  <span class="vr mx-2"></span> 
+  <span class="badge text-bg-danger rounded-pill">{{ category[1].size }}</span>
+ </span>
+</a>
+{% endfor %}
+</div>
