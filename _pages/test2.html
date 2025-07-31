@@ -7,7 +7,7 @@ permalink: /test1/
 
 <script id="fatwa-data" type="application/json">
 [
-  {% assign posts = site.posts | where_exp: "post", "post.categories contains 'wahhabism'" %}
+  {% assign posts = site.posts | where_exp: "post", "post.categories contains 'bidah'" %}
   {% for post in posts %}
     {
       "title": {{ post.title | jsonify }},
