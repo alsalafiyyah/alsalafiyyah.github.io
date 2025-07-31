@@ -18,12 +18,14 @@ content-type: application/manifest+json
     {
       "src": "{{ '/assets/images/manifest/144X144-icon.png' | absolute_url }}",
       "sizes": "144x144",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "maskable"
     },
     {
       "src": "{{ '/assets/images/manifest/512X512-icon.png' | absolute_url }}",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ]
 }
