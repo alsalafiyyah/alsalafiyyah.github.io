@@ -7,13 +7,17 @@ permalink: /test1/
 
 <script id="fatwa-data" type="application/json">
 [
-  {% assign posts = site.posts | where_exp: "post", "post.categories contains 'fatwa'" %}
+  {% assign posts = site.posts | where_exp: "post", "post.categories contains 'wahhabism'" %}
   {% for post in posts %}
+  {% if post.categories contains 'fatwa' %} 
+  {% if post.url %}
     {
       "title": {{ post.title | jsonify }},
       "url": "{{ post.url }}",
       "date": "{{ post.date | date: '%Y-%m-%d' }}"
     }{% unless forloop.last %},{% endunless %}
+{% endif %}
+{% endif %} 
   {% endfor %}
 ]
 </script>
