@@ -27,14 +27,8 @@ kramdown:
   syntax_highlighter_opts:
       disable : true
 
-  paginate:         20
-  pagination: 
-    - paginate:
-        path:       /fatwas/:num/
-        per_page:   20
-    - paginate:
-        path:       /ar/fatwas/:num/
-        per_page:   20
+paginate            : 20
+paginate_path       : "/fatwas/:num/"
 
 webmaster_verifications: 
   google_site       : "K7QDv3cEwylAu_9fndO3ebQmNowxxRYCpqDEzQKQOy4" # google site verification
