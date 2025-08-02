@@ -9,4 +9,5 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "kramdown"
   gem "jekyll-redirect-from"
+  gem "jekyll-paginator"
 end
