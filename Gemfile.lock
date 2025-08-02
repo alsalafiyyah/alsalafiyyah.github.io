@@ -40,6 +40,7 @@ GEM
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
     jekyll-paginate (1.1.0)
+    jekyll-paginator (0.1.0)
     jekyll-redirect-from (0.16.0)
       jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (3.1.0)
@@ -81,6 +82,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.3)
   jekyll-paginate
+  jekyll-paginator
   jekyll-redirect-from
   jekyll-sitemap
   kramdown

@@ -71,6 +71,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - utc_filter
+  - jekyll-paginator
 
 exclude:
   - bin
