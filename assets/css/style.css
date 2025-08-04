@@ -186,3 +186,14 @@ code {
 .btn {
 	margin-bottom: 2px;
 }
+.nav {
+  display: flex;
+  gap: 1rem;
+  white-space: nowrap;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.nav-link {
+  flex: 0 0 auto;
+}
