@@ -2,7 +2,7 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "The Purposes of the Believer's Trial"
-date: 2025-07-29
+date: 2025-08-07
 hijri: Safar 13, 1447 AH
 source: "Fatawa Islamiyah pg. 177-180"
 category: [fatwas]
