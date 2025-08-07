@@ -188,7 +188,7 @@ code {
 }
 .nav {
   display: flex;
-  gap: 1rem;
+  gap: 0.5rem;
   white-space: nowrap;
   padding: 0;
   margin: 0;
