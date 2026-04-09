@@ -18,8 +18,8 @@ muftis:
 ---
 
 ### Question: 
-How can Tawhid (belief in the Oneness of Allah/ monotheism) be achieved?
+This questioner, O Noble Sheikh, is asking: How does a Muslim achieve Tawheed (belief in in the Oneness of Allah)?
 
 ### Answer: 
-A Muslim can achieve Tawhid by avoiding sins, all means and elements of Shirk (associating 
-others with Allah in His Divinity or worship), and Bid'ah (innovation in Islam).
+
+He achieves it by avoiding sins and the means that lead to Shirk (associating others with Allah). He must be wary of the avenues of Shirk and be wary of sins; this is part of achieving Tawheed—purifying and cleansing it from the impurities of Shirk, innovations (Bid’ah), and sins. This is its realization: to be on guard against sins, innovations, and the means to Shirk. This is what it means to achieve it. Yes.
