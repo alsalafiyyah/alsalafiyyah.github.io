@@ -20,7 +20,7 @@ muftis:
 ---
 
 ### Question: 
-May Allah reward you with good and treat you well. Why do the Muslims symbolize the crescent moon on the minarets of their Masjids?
+May Allah reward you with goodness and be generous to you. Why do Muslims use the crescent symbol on the minarets of their mosques?
 
 ### Answer: 
-This is a custom they have taken and observed it. There is no basis for it from the standpoint of the religion. It is nothing more than a custom.
+This is a custom that they have adopted and followed; it has no basis in the religion. Rather, it is merely among the common customs. Yes.
