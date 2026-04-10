@@ -74,28 +74,35 @@ plugins:
   - jekyll-paginator
 
 exclude:
+  # Environments & System
   - bin
+  - tmp
+  - .jekyll-cache
+  - .jekyll-metadata
+  - .sass-cache
+  
+  # Configuration & Tools
   - config
   - vite.config.ts
-  - tmp
   - Procfile.dev
-  - docs/
-  - vendor/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
   - Makefile
-  - README.md
-  - sample*.png
   - .gitignore
+  
+  # Documentation & Legal
+  - docs
+  - README.md
   - README
-  - gemfile
-  - Gemfile.lock
-  - node_modules
-  - jekyll-cache
   - LICENSE
-  - CODE_OF-CONDUCT
+  - CODE_OF_CONDUCT.md 
+  
+  # Dependencies (Simplified)
+  - vendor
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+  
+  # Media Assets
+  - "sample*.png" 
                                 
 # nav menu
 t:
