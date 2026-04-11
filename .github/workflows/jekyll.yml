@@ -52,7 +52,11 @@ jobs:
           RUBY_GC_HEAP_FREE_SLOTS: 600000
           RUBY_GC_MALLOC_LIMIT: 40000000
           RUBY_GC_MALLOC_LIMIT_MAX: 160000000
-
+      - name: Minify HTML
+        uses: actions/languages-tools/html-minifier@v1
+        with:
+          directory: '_site'
+          rules: --collapse-whitespace --remove-comments --minify-js true --minify-css true
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
