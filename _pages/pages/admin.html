@@ -85,7 +85,7 @@ permalink: /admin/
       
       <div class="pt-20">
           <p class="text-[10px] font-mono tracking-widest opacity-40 leading-tight normal-case">
-              Collections of the sayings of Scholars regarding sectarianism.
+              {{ site.short_desc }}
           </p>
       </div>
     </ul>
@@ -144,11 +144,6 @@ permalink: /admin/
             <div>
                 <h3 class="text-sm font-black uppercase tracking-[0.2em] mb-6 border-b-2 border-current pb-2">Topics</h3>
                 <div class="flex flex-wrap gap-2">
-                    {% if post %}
-                    {% assign categories = post.categories %}
-                    {% else %}
-                    {% assign categories = page.categories %}
-                    {% endif %}
                     {% for category in categories %}
                     <a href="{{site.baseurl}}/category/{{category|slugize}}" class="px-4 py-2 border-2 border-current font-bold uppercase text-xs hover:bg-base-content hover:text-base-100 transition-all">{{category|capitalize}}</a>
                     {% endfor %}
