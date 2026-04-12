@@ -93,7 +93,7 @@ permalink: /admin/
 </div>
     <main class="max-w-6xl mx-auto p-8 md:p-12 grid grid-cols-1 lg:grid-cols-4 gap-16">
 
-        <section class="lg:col-span-3 space-y-24">
+        <section class="lg:col-span-3 space-y-10">
 {% assign posts=site.posts | where:"locale", page.locale %}
 {% for post in posts limit:5 %}
 <article class="group">
@@ -143,8 +143,8 @@ permalink: /admin/
             <div>
                 <h3 class="text-sm font-black uppercase tracking-[0.2em] mb-6 border-b-2 border-current pb-2">Topics</h3>
                 <div class="flex flex-wrap gap-2">
-                    {% for category in categories %}
-                    <a href="{{site.baseurl}}/category/{{category|slugize}}" class="px-4 py-2 border-2 border-current font-bold uppercase text-xs hover:bg-base-content hover:text-base-100 transition-all">{{category|capitalize}}</a>
+                    {% for category in site.categories %}
+                    <a href="{{site.baseurl}}/category/{{category|slugize}}" class="px-4 py-2 border-2 border-current font-bold uppercase text-xs hover:bg-base-content hover:text-base-100 transition-all">{{ category[0] }}</a>
                     {% endfor %}
                 </div>
             </div>
