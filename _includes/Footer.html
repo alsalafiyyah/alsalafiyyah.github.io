@@ -6,9 +6,9 @@
             
             <div style="max-width: 600px;">
                 <div class="d-flex align-items-center gap-3 mb-4">
-                    <span class="fs-4 fw-black text-uppercase tracking-tighter">{{ site.title }}</span>
+                    <span class="fs-4 fw-black text-uppercase tracking-tighter" property="copyrightHolder" vocab="http://schema.org" itemtype="Person"><span property="name">{{ site.title }}</span></span>
                     <span class="vr opacity-25" style="height: 1rem;"></span>
-                    <span class="small-mono opacity-50 text-uppercase">&copy; {{ 'now' | date: "%Y" }}</span>
+                    <span class="small-mono opacity-50 text-uppercase">&copy; <span property="copyrightYear">{{ 'now' | date: "%Y" }}</span></span>
                 </div>
                 
                 <p class="small-mono text-uppercase opacity-75 lh-lg mb-0" style="font-size: 0.7rem;">
