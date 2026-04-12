@@ -1,7 +1,166 @@
 ---
-layout: Page
-title: Admin Area
-robots: noindex
+layout: null
 permalink: /admin/
 ---
-{% include TablePosts.html %}
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Sunni</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;900&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@4.7.2/dist/full.min.css" rel="stylesheet" type="text/css" />
+    <script src="https://tailwindcss.com"></script>
+    <script>
+        const savedTheme = localStorage.getItem('theme');
+        const systemTheme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'black' : 'light';
+        const initialTheme = savedTheme || systemTheme;
+        document.documentElement.setAttribute('data-theme', initialTheme);
+    </script>
+    <style>
+        body { font-family: 'Inter', sans-serif; transition: background-color 0.3s, color 0.3s; }
+        input:focus, textarea:focus {
+            background-color: var(--fallback-bc,oklch(var(--bc)/1));
+            color: var(--fallback-b1,oklch(var(--b1)/1));
+            outline: none;
+        }
+        .optional-label::after { content: ' (Optional)'; opacity: 0.4; font-size: 0.7rem; letter-spacing: 0; }
+    </style>
+</head>
+<body class="min-h-screen bg-base-100 text-base-content flex flex-col">
+<div class="drawer drawer-end">
+  <input id="mobile-drawer" type="checkbox" class="drawer-toggle" />
+  
+  <div class="drawer-content flex flex-col">
+    <header class="sticky top-0 z-50 bg-base-100 border-b-2 border-current">
+        <nav class="max-w-6xl mx-auto flex justify-between items-center px-8 py-4">
+            
+            <div class="flex items-baseline gap-6">
+                <a href="index.html" class="text-2xl font-black tracking-tighter uppercase hover:italic transition-all">
+                    The Sunnis.
+                </a>
+                <span class="hidden lg:block font-mono uppercase opacity-40 tracking-widest border-l-2 border-current pl-6">
+                    Ahlus-Sunnah
+                </span>
+            </div>
+
+            <div class="flex items-center gap-8">
+                <ul class="hidden md:flex items-center gap-6 text-xs font-black uppercase tracking-widest">
+                    <li><a href="index.html" class="hover:italic transition-all">Index</a></li>
+                    <li><a href="search.html" class="hover:italic transition-all">Find</a></li>
+                    <li><a href="write.html" class="hover:italic transition-all">Write</a></li>
+                    <li><a href="contact.html" class="hover:italic transition-all">Hit Us Up</a></li>
+                </ul>
+
+                <div class="flex items-center gap-2">
+                    <label class="swap swap-rotate btn btn-sm btn-ghost btn-circle border border-current hover:bg-base-content hover:text-base-100 transition-colors">
+                        <input type="checkbox" id="theme-toggle" />
+                        <svg class="swap-on fill-current w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5.64,17l-.71.71a1,1,0,0,0,0,1.41,1,1,0,0,0,1.41,0l.71-.71A1,1,0,0,0,5.64,17ZM5,12a1,1,0,0,0-1-1H3a1,1,0,0,0,0,2H4A1,1,0,0,0,5,12Zm7-7a1,1,0,0,0,1-1V3a1,1,0,0,0-2,0V4A1,1,0,0,0,12,5ZM5.64,7.05a1,1,0,0,0,.7.29,1,1,0,0,0,0-1.41l-.71-.71A1,1,0,0,0,4.93,6.34Zm12,.29a1,1,0,0,0,.7-.29l.71-.71a1,1,0,1,0-1.41-1.41L17,5.64a1,1,0,0,0,0,1.41A1,1,0,0,0,17.66,7.34ZM21,11H20a1,1,0,0,0,0,2h1a1,1,0,0,0,0-2Zm-9,8a1,1,0,0,0-1,1v1a1,1,0,0,0,2,0V20A1,1,0,0,0,12,19ZM18.36,17A1,1,0,0,0,17,18.36l.71.71a1,1,0,0,0,1.41,0,1,1,0,0,0,0-1.41ZM12,6.5A5.5,5.5,0,1,0,17.5,12,5.51,5.51,0,0,0,12,6.5Zm0,9A3.5,3.5,0,1,1,15.5,12,3.5,3.5,0,0,1,12,15.5Z"/></svg>
+                        <svg class="swap-off fill-current w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21.64,13a1,1,0,0,0-1.05-.14,8.05,8.05,0,0,1-3.37.73A8.15,8.15,0,0,1,9.08,5.49a8.59,8.59,0,0,1,.25-2A1,1,0,0,0,8,2.36,10.14,10.14,0,1,0,22,14.05,1,1,0,0,0,21.64,13Zm-9.5,6.69A8.14,8.14,0,0,1,7.08,5.22v.27A10.15,10.15,0,0,0,17.22,15.63a9.79,9.79,0,0,0,2.1-.22A8.11,8.11,0,0,1,12.14,19.69Z"/></svg>
+                    </label>
+
+                    <label for="mobile-drawer" class="md:hidden btn btn-sm btn-ghost btn-circle border border-current hover:bg-base-content hover:text-base-100 transition-colors">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M4 6h16M4 12h16M4 18h16" />
+                        </svg>
+                    </label>
+                </div>
+            </div>
+        </nav>
+    </header>
+  </div> 
+
+  <div class="drawer-side z-[100]">
+    <label for="mobile-drawer" aria-label="close sidebar" class="drawer-overlay"></label>
+    <ul class="menu p-8 w-80 min-h-full bg-base-100 text-base-content border-l-4 border-current space-y-8 uppercase font-black tracking-tighter text-2xl">
+      <li class="flex items-end mb-10">
+          <label for="mobile-drawer" class="btn btn-outline border-2 border-current rounded-none font-black uppercase">CLOSE X</label>
+      </li>
+      <li><a href="index.html" class="hover:italic transition-all">Index</a></li>
+      <li><a href="search.html" class="hover:italic transition-all">Find</a></li>
+      <li><a href="write.html" class="hover:italic transition-all">Write</a></li>
+      <li><a href="contact.html" class="hover:italic transition-all">Hit Us Up</a></li>
+      
+      <div class="pt-20">
+          <p class="text-[10px] font-mono tracking-widest opacity-40 leading-tight normal-case">
+              Collections of the sayings of Scholars regarding sectarianism.
+          </p>
+      </div>
+    </ul>
+  </div>
+</div>
+    <main class="max-w-6xl mx-auto p-8 md:p-12 grid grid-cols-1 lg:grid-cols-4 gap-16">
+
+        <section class="lg:col-span-3 space-y-24">
+        {% include TablePosts.html %}
+        </section>
+
+        <aside class="lg:col-span-1 space-y-12">
+          <div class="sticky top-12 space-y-12">
+            <div>
+                <h3 class="text-sm font-black uppercase tracking-[0.2em] mb-6 border-b-2 border-current pb-2">Topics</h3>
+                <div class="flex flex-wrap gap-2">
+                    <a href="#" class="px-4 py-2 border-2 border-current font-bold uppercase text-xs hover:bg-base-content hover:text-base-100 transition-all">Creed</a>
+                    <a href="#" class="px-4 py-2 border-2 border-current font-bold uppercase text-xs hover:bg-base-content hover:text-base-100 transition-all">History</a>
+                    <a href="#" class="px-4 py-2 border-2 border-current font-bold uppercase text-xs hover:bg-base-content hover:text-base-100 transition-all">Sunnah</a>
+                    <a href="#" class="px-4 py-2 border-2 border-current font-bold uppercase text-xs hover:bg-base-content hover:text-base-100 transition-all">Refutation</a>
+                    <a href="#" class="px-4 py-2 border-2 border-current font-bold uppercase text-xs hover:bg-base-content hover:text-base-100 transition-all">Sahabah</a>
+                </div>
+            </div>
+
+            <div>
+                <h3 class="text-sm font-black uppercase tracking-[0.2em] mb-6 border-b-2 border-current pb-2">Newsletter</h3>
+                <div class="space-y-4">
+                    <input type="email" placeholder="YOUR@EMAIL.COM" class="w-full bg-transparent border-2 border-current p-3 font-bold uppercase text-sm focus:outline-none placeholder:opacity-30" />
+                    <button class="w-full py-3 bg-base-content text-base-100 font-black uppercase text-sm hover:italic transition-all">Subscribe</button>
+                </div>
+
+            </div>
+
+          </div>
+        </aside>
+
+    </main>
+<footer class="max-w-6xl mx-auto w-full px-8 md:px-12 mt-20 mb-12">
+    <div class="border-t-2 border-current pt-10">
+        
+        <div class="flex flex-col md:flex-row justify-between items-start gap-10">
+            
+            <div class="max-w-xl">
+                <div class="flex items-center gap-4 mb-6">
+                    <span class="text-2xl font-black uppercase tracking-tighter">The Sunnis.</span>
+                    <span class="h-4 w-[2px] bg-current opacity-20"></span>
+                    <span class="text-[9px] font-mono uppercase opacity-40 tracking-[0.2em]">Est. MMXXIV</span>
+                </div>
+                
+                <p class="text-[11px] md:text-xs font-mono uppercase tracking-[0.15em] opacity-60 leading-relaxed">
+                    Collections of the sayings of Scholars regarding sectarianism and division within the Muslim community. Dedicated to the preservation of authentic Creed.
+                </p>
+            </div>
+
+            <div class="flex items-center md:pt-1">
+                <button onclick="window.scrollTo({top: 0, behavior: 'smooth'})" 
+                        class="text-xs font-black uppercase tracking-[0.2em] hover:italic transition-all flex items-center gap-2 group whitespace-nowrap">
+                    Back to Top 
+                    <span class="group-hover:-translate-y-1 transition-transform duration-300 inline-block">↑</span>
+                </button>
+            </div>
+        </div>
+
+    </div>
+</footer>
+
+    <script>
+        const toggle = document.getElementById('theme-toggle');
+        const html = document.documentElement;
+        if (html.getAttribute('data-theme') === 'black') { toggle.checked = true; }
+        toggle.addEventListener('change', () => {
+            const newTheme = toggle.checked ? 'black' : 'light';
+            html.setAttribute('data-theme', newTheme);
+            localStorage.setItem('theme', newTheme);
+        });
+    </script>
+</body>
+</html>
