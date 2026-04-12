@@ -1,6 +1,6 @@
 <!-- Footer -->
 <footer role="contentinfo" vocab="http://schema.org" itemtype="WPFooter" class="container-xxl py-5 mt-5 mb-4">
-    <div class="border-top border-2 border-dark pt-5">
+    <div class="pt-5">
         
         <div class="d-flex flex-column flex-md-row justify-content-between align-items-start gap-4">
             
@@ -58,61 +58,3 @@
     }
 </style>
 
-<footer role="contentinfo" vocab="http://schema.org" itemtype="WPFooter" class="footer mt-auto py-3 d-none d-lg-block" style="display: none;">
-<div class="container"><!-- Container -->  
-
-<!-- Desktop -->  
-<div class="d-none d-lg-block">
-  <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2">
-    <div class="col">
-     <h4>Subject</h4>
-     <ul class="list-group list-group-flush">
-      {% for item in site.data.setting.aside_quick_links %}
-       <li class="list-group-item">
-        <a href="{{ item.url }}">{{ item.name }}</a>
-       </li>
-      {% endfor %}
-     </ul>
-    </div>
-    <div class="col">
-     <h4>Site</h4>
-     <ul class="list-group list-group-flush">
-      {% for item in site.data.setting.aside_external_links %}
-       <li class="list-group-item">
-        <a href="{{ item.url }}">{{ item.name }}</a>
-       </li>
-      {% endfor %}
-     </ul>
-    </div>
-  </div>
-</div><!-- /Desktop -->
-  
-<hr class="border-danger"/>
-  
-<div class="row text-center mt-3 row-cols-1 row-cols-sm-2 row-cols-md-2">
-<div class="col">
-<ul class="list-inline text-center">
-  {% for item in site.data.setting.social_icons_footer %}
-  <li class="list-inline-item">
-   <a class="btn btn-dark btn-sm bg-gradient text-light" href="{{ item.url }}" role="button" rel="nofollow" target="_blank">
-     <i class="bi bi-{{ item.icon }} fs-5"></i>
-   </a>
-   </li>
-  {% endfor %}
-</ul>
-</div>
-<div class="col">
-   &copy; <span property="copyrightYear">{{ 'now' | date: "%Y" }}</span> 
-    <span property="copyrightHolder" vocab="http://schema.org" itemtype="Person">
-     <span property="name">
-     {{ site.title }}
-     </span>
-    </span>   
-   <span>
-     {{ site.slogan }}
-   </span>
- </div>   
-</div>
- 
-</div><!-- /Container -->  
-</footer>
