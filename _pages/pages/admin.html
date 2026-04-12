@@ -94,7 +94,8 @@ permalink: /admin/
     <main class="max-w-6xl mx-auto p-8 md:p-12 grid grid-cols-1 lg:grid-cols-4 gap-16">
 
         <section class="lg:col-span-3 space-y-24">
-{% for post in posts %}
+{% assign posts=site.posts | where:"locale", page.locale %}
+{% for post in posts limit:5 %}
 <article class="group">
     <header class="flex flex-wrap items-center gap-3 mb-6">
         <span class="text-sm font-mono mr-2">{{ post.hijri }} {{ post.date | date_to_string | prepend: " / " }} </span>
@@ -163,13 +164,13 @@ permalink: /admin/
             
             <div class="max-w-xl">
                 <div class="flex items-center gap-4 mb-6">
-                    <span class="text-2xl font-black uppercase tracking-tighter">The Sunnis.</span>
+                    <span class="text-2xl font-black uppercase tracking-tighter">{{ site.title }}</span>
                     <span class="h-4 w-[2px] bg-current opacity-20"></span>
-                    <span class="text-[9px] font-mono uppercase opacity-40 tracking-[0.2em]">Est. MMXXIV</span>
+                    <span class="text-[9px] font-mono uppercase opacity-40 tracking-[0.2em]">{{ 'now' | date: "%Y" }}</span>
                 </div>
                 
                 <p class="text-[11px] md:text-xs font-mono uppercase tracking-[0.15em] opacity-60 leading-relaxed">
-                    Collections of the sayings of Scholars regarding sectarianism and division within the Muslim community. Dedicated to the preservation of authentic Creed.
+                   {{ site.short.desc }}
                 </p>
             </div>
 
