@@ -39,19 +39,19 @@ permalink: /admin/
             
             <div class="flex items-baseline gap-6">
                 <a href="index.html" class="text-2xl font-black tracking-tighter uppercase hover:italic transition-all">
-                    The Sunnis.
+                    {{ site.title }}
                 </a>
                 <span class="hidden lg:block font-mono uppercase opacity-40 tracking-widest border-l-2 border-current pl-6">
-                    Ahlus-Sunnah
+                    Salafi Manhaj
                 </span>
             </div>
 
             <div class="flex items-center gap-8">
                 <ul class="hidden md:flex items-center gap-6 text-xs font-black uppercase tracking-widest">
-                    <li><a href="index.html" class="hover:italic transition-all">Index</a></li>
-                    <li><a href="search.html" class="hover:italic transition-all">Find</a></li>
-                    <li><a href="write.html" class="hover:italic transition-all">Write</a></li>
-                    <li><a href="contact.html" class="hover:italic transition-all">Hit Us Up</a></li>
+                    <li><a href="{{ site.url }}" class="hover:italic transition-all">Index</a></li>
+                    <li><a href="/search" class="hover:italic transition-all">Find</a></li>
+                    <li><a href="#" class="hover:italic transition-all">Write</a></li>
+                    <li><a href="#" class="hover:italic transition-all">Hit Us Up</a></li>
                 </ul>
 
                 <div class="flex items-center gap-2">
@@ -78,10 +78,10 @@ permalink: /admin/
       <li class="flex items-end mb-10">
           <label for="mobile-drawer" class="btn btn-outline border-2 border-current rounded-none font-black uppercase">CLOSE X</label>
       </li>
-      <li><a href="index.html" class="hover:italic transition-all">Index</a></li>
-      <li><a href="search.html" class="hover:italic transition-all">Find</a></li>
-      <li><a href="write.html" class="hover:italic transition-all">Write</a></li>
-      <li><a href="contact.html" class="hover:italic transition-all">Hit Us Up</a></li>
+      <li><a href="{{ site.url }}" class="hover:italic transition-all">Index</a></li>
+      <li><a href="/search/" class="hover:italic transition-all">Find</a></li>
+      <li><a href="#" class="hover:italic transition-all">Write</a></li>
+      <li><a href="#" class="hover:italic transition-all">Hit Us Up</a></li>
       
       <div class="pt-20">
           <p class="text-[10px] font-mono tracking-widest opacity-40 leading-tight normal-case">
@@ -94,7 +94,42 @@ permalink: /admin/
     <main class="max-w-6xl mx-auto p-8 md:p-12 grid grid-cols-1 lg:grid-cols-4 gap-16">
 
         <section class="lg:col-span-3 space-y-24">
-        {% include TablePosts.html %}
+{% for post in posts %}
+<article class="group">
+    <header class="flex flex-wrap items-center gap-3 mb-6">
+        <span class="text-sm font-mono mr-2">{{ post.hijri }} {{ post.date | date_to_string | prepend: " / " }} </span>
+
+        <div class="flex items-center gap-2 mr-2 hidden">
+            <span class="w-6 h-6 rounded-full bg-current opacity-20"></span>
+            <span class="text-sm font-bold opacity-80">By Abu Bakr</span>
+        </div>
+
+        <div class="flex flex-wrap gap-2">
+         {% for category in categories %}
+          <a href="{{site.baseurl}}/category/{{category|slugize}}" class="px-3 py-1 inline-block rounded-full border-2 border-slate-200 text-slate-600 dark:border-white/20 dark:text-slate-300 hover:border-black hover:bg-black hover:text-white dark:hover:border-white dark:hover:bg-white dark:hover:text-black text-[10px] font-black uppercase tracking-widest transition-all duration-200">
+           {{category|capitalize}}
+          </a>
+          {% endfor %} 
+        </div>
+    </header>
+
+    <a href="{{ post.url }}" class="block">
+        <h2 class="text-2xl md:text-4xl font-black leading-tight tracking-tighter uppercase break-words group-hover:italic transition-all duration-300">
+            {{ post.title }}
+        </h2>
+    </a>
+    
+    <p class="mt-6 text-xl md:text-2xl leading-relaxed max-w-3xl opacity-80">
+       {{ post.excerpt | truncatewords: 20  | strip_html | normalize_whitespace  | remove_first: "Question:" }}
+    </p>
+
+    <div class="mt-8">
+        <a href="{{ post.url }}" class="text-lg font-black border-b-4 border-current hover:bg-base-content hover:text-base-100 px-1 transition-all inline-block">
+            Keep Reading
+        </a>
+    </div>
+</article>
+{% endfor %} 
         </section>
 
         <aside class="lg:col-span-1 space-y-12">
@@ -102,11 +137,9 @@ permalink: /admin/
             <div>
                 <h3 class="text-sm font-black uppercase tracking-[0.2em] mb-6 border-b-2 border-current pb-2">Topics</h3>
                 <div class="flex flex-wrap gap-2">
-                    <a href="#" class="px-4 py-2 border-2 border-current font-bold uppercase text-xs hover:bg-base-content hover:text-base-100 transition-all">Creed</a>
-                    <a href="#" class="px-4 py-2 border-2 border-current font-bold uppercase text-xs hover:bg-base-content hover:text-base-100 transition-all">History</a>
-                    <a href="#" class="px-4 py-2 border-2 border-current font-bold uppercase text-xs hover:bg-base-content hover:text-base-100 transition-all">Sunnah</a>
-                    <a href="#" class="px-4 py-2 border-2 border-current font-bold uppercase text-xs hover:bg-base-content hover:text-base-100 transition-all">Refutation</a>
-                    <a href="#" class="px-4 py-2 border-2 border-current font-bold uppercase text-xs hover:bg-base-content hover:text-base-100 transition-all">Sahabah</a>
+                    {% for category in categories %}
+                    <a href="{{site.baseurl}}/category/{{category|slugize}}" class="px-4 py-2 border-2 border-current font-bold uppercase text-xs hover:bg-base-content hover:text-base-100 transition-all">{{category|capitalize}}</a>
+                    {% endfor %}
                 </div>
             </div>
 
