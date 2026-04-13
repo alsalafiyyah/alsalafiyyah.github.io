@@ -2,19 +2,21 @@
 layout: compress
 ---
 <!DOCTYPE html>
-<html 
- lang="{{ page.locale | default: 'en' }}" class="h-100" {% if page.locale == 'ar' %}dir="rtl"{% endif %}>
+<html lang="en" class="h-100">
 <head>
 {% include metadata.html %}
 </head>
 <body role="document" itemscope itemtype="https://schema.org/WebPage" onload="setModifiedDate(); setAccessedDate();" 
  class="is-preload" class="d-flex flex-column h-100">
 {% include Header2.html %}
+<div itemscope itemtype="https://schema.org/WebSite">
+<meta itemprop="url" content="{{ page.url | replace:'/index.html','/' | absolute_url }}"/>
 <main role="main" style="margin-top: 110px !important;"><!-- main -->
  <div class="container-md">
  {{ content }}
  </div>
 </main><!-- /main -->
+</div>
 {% include offcanvas-bottom.html %}
 {% include Footer.html %}
 {% include Javascripts.html %} 
