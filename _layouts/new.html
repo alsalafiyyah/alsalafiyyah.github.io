@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="MobileOptimized" content="320" />
+    <meta name="generator" content="Jekyll v{{ jekyll.version }}" />
+    <meta http-equiv='content-language' content='en'>
+    <meta name="HandheldFriendly" content="True">
+    <title>{{ page.title | default: site.title | escape }}</title>
+    <meta name="title" content="{{ page.title | default: site.title | escape }}">
+    <link rel="canonical" href="{{ page.url | replace:'/index.html','/' | absolute_url }}" />
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body role="document" itemscope itemtype="https://schema.org/WebPage">
+ 
+<div itemscope itemtype="https://schema.org/WebSite">
+ <meta itemprop="url" content="{{ page.url | replace:'/index.html','/' | absolute_url }}"/>
+ <header itemscope itemtype="https://schema.org/WPHeader">
+ </header>
+</div>
+
+<main role="main">
+ <section itemscope itemtype="{% if page.date %}https://schema.org/BlogPosting{% else %}https://schema.org/Blog{% endif %}">
+  
+{% for post in paginator.posts %}
+  <article itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting" class="group">
+      <header class="flex flex-wrap items-center gap-3 mb-3">
+          <span class="text-sm font-mono opacity-50">{{ post.date | date: "%b %d, %Y" }}</span>
+          {% for category in post.categories %}
+            <a href="{{ site.baseurl }}/category/{{ category | slugify }}" 
+               class="px-2 py-1 border border-current text-xs font-bold uppercase tracking-widest hover:bg-base-content hover:text-base-100 transition-all">{{ category }}</a>
+          {% endfor %}
+      </header>
+      <a href="{{ post.url }}" class="block">
+          <h2 class="text-3xl md:text-3xl font-black leading-tight tracking-tighter uppercase break-words group-hover:italic transition-all duration-300">
+             {{ post.title }}
+          </h2>
+      </a>
+      <p class="mt-8 text-xl md:text-2xl leading-relaxed max-w-3xl opacity-90">
+          {% assign stripped_content = post.content | strip_html %}
+          {{ stripped_content | truncatewords: 30 }}
+      </p>
+      <div class="mt-10">
+          <a href="{{ post.url }}" class="text-xl font-black border-b-4 border-current hover:bg-base-content hover:text-base-100 px-2 py-1 transition-all inline-block">
+              Keep Reading
+          </a>
+      </div>
+  </article>
+{% endfor %}
+
+            <nav class="pt-10 border-t-4 border-current flex items-center justify-between font-black uppercase" aria-label="Pagination">
+                {% if paginator.previous_page %}
+                <a href="{{ paginator.previous_page_path }}" class="flex items-center gap-2 hover:italic group">
+                    <span class="group-hover:-translate-x-2 transition-transform">←</span> Go Back!
+                </a>
+                {% else %}
+                <a class="flex items-center gap-2 opacity-40 group">
+                    <span class="group-hover:-translate-x-2 transition-transform">←</span> Go Back!
+                </a>
+                {% endif %}
+                <div class="hidden md:flex gap-4">
+                     <span class="opacity-40 font-bold tracking-widest">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+                </div>
+                {% if paginator.next_page %}
+                <a href="{{ paginator.next_page_path }}" class="flex items-center gap-2 hover:italic group">
+                    Keep Going! <span class="group-hover:translate-x-2 transition-transform">→</span>
+                </a>
+                {% else %}
+                <a class="flex items-center gap-2 opacity-40 group">
+                    Keep Going! <span class="group-hover:translate-x-2 transition-transform">→</span>
+                </a>
+                {% endif %}
+            </nav>
+
+ </section>
+
+ <aside itemscope itemtype="https://schema.org/WPSideBar">
+  <section>
+   
+  </section>
+ </aside>
+</main>
+
+<footer role="contentinfo" itemscope itemtype="https://schema.org/WPFooter" class="max-w-6xl mx-auto w-full px-8 md:px-12 mt-auto pb-8">
+    <div class="border-t-2 border-current pt-10">
+        
+        <div class="flex flex-col md:flex-row justify-between items-start gap-8">
+            
+            <div class="max-w-2xl">
+                <div class="flex items-center gap-4 mb-4">
+                    <span class="text-2xl font-black uppercase tracking-tighter">{{ site.title }}.</span>
+                    <span class="h-4 w-[2px] bg-current opacity-20"></span>
+                    <span class="text-[9px] font-mono uppercase opacity-40 tracking-[0.2em]">{{ "now" | date: "%Y" }}</span>
+                </div>
+                
+                <p class="text-[11px] md:text-xs font-mono uppercase tracking-widest opacity-60 leading-relaxed">
+                    {{ site. desc }}
+                </p>
+            </div>
+
+            <div class="flex items-center self-end md:self-start">
+                <button onclick="window.scrollTo({top: 0, behavior: 'smooth'})" 
+                        class="text-xs font-black uppercase tracking-[0.2em] hover:italic transition-all flex items-center gap-2 group">
+                    Take Me Higher
+                    <span class="group-hover:-translate-y-1 transition-transform inline-block">↑</span>
+                </button>
+            </div>
+        </div>
+        
+    </div>
+</footer>
+
+</body>
+</html>
