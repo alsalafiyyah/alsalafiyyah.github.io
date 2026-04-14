@@ -7,6 +7,17 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&family=Playfair+Display:ital,wght@0,900;1,900&display=swap" rel="stylesheet">
     <style>
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  h1 { @apply text-4xl font-black mb-4; }
+  h2 { @apply text-3xl font-bold mb-3; }
+  h3 { @apply text-2xl font-bold mb-2; }
+  p { @apply mb-4 leading-relaxed; }
+  ul { @apply list-disc pl-5 mb-4; }
+}
         body { font-family: 'Inter', sans-serif; }
         .serif { font-family: 'Playfair Display', serif; }
         /* Custom scrollbar for that clean look */
