@@ -2,12 +2,12 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Was the Ka'bah clad with a covering at the time of the Messenger of Allah (peace be upon him)?"
+date: 2021-05-03
 hijri: Ramadan 21, 1442 AH
-source: "Fatawa Al-Lajnah Al-Daimah no. 21672-4"
-lang: en
+source: "Fatawa Al-Lajnah Al-Daimah no. 21672, question 4"
 category: [bidah, general]
-note: true
 excerpt: "The covering of the Ka'bah is a well known practice centuries before the Mission of the Prophet (peace be upon him). However, the historians differed concerning the first to have done that."
+author: "Permanent Committee of KSA"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Aal Al-Shaykh
@@ -21,11 +21,11 @@ muftis:
       url: /biography/bakr/
 ---
 
-Question: 
+### Question: 
 
 Was the Ka'bah clad with a covering at the time of the Messenger of Allah (peace be upon him)? When did this practice begin? Who was the first person to clothe the Ka'bah with such covering? Why? This question was raised when elaborating on the definition of Bid'ah (innovation in religion)? I replied to him with the Messenger's Hadith: "**Anyone who does a deed which is not congruent with our affair (Islam), that (deed) is to be rejected.**" [^1] He again asked: Was the covering of the Ka'bah provided by the order of the Prophet or during later times?
 
-Answer:
+### Answer:
 
 The covering of the Ka'bah is a well known practice centuries before the Mission of the Prophet (peace be upon him). However, the historians differed concerning the first to have done that. Some people said it was the tribe of Tubba', others said that Isma'il was the first to clothe it, and others said it was 'Adnan and there are many other views. Nevertheless, knowing such a matter does not entail any legal benefit. When the Din (religion) of Islam spread, the Prophet (peace be upon him) approved of the act of covering the Ka'bah. 
 

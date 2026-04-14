@@ -2,14 +2,12 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Ruling on eating from mixed money some of which can be ill-gotten"
-hijri: Ramadan 17, 1440
+hijri: "Ramadan 17, 1440"
 date: 2019-05-22
-source: "Fatawa Al-Lajnah Ad-Da'mah of KSA, fatwa no.4888 question 1 and fatwa no.4888 question 2"
-lang: en
-locale: en
+source: "Fatawa Al-Lajnah Ad-Da'mah, fatwa no.4888 question 1 and fatwa no.4888 question 2"
 category: [fatwas]
-note: true
 excerpt: "It is obligatory for a Muslim to try his best to adopt what is lawful in his food, drink, and clothing."
+author: "Permanent Committee of KSA"
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz

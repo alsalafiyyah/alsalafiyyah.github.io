@@ -2,16 +2,15 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Allah creating all things in general"
-hijri: Muharram 02, 1441
+date: 2019-09-01
+hijri: "Muharram 02, 1441 AH"
 source: "Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 16950, Question 1"
-lang: en
-locale: en
 category: [fatwas,tawhid]
-note: true
 excerpt: "The basic ruling is that Allah has created all things in general. Allah has created good and He enjoins and loves it, and He has created evil and He prohibits and dislikes it."
+author: "Permanent Committee of KSA"
 muftis:
   chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
+    - name: Shaykh Ibn Baz
       url: /biography/binbaz/
   members: 
     - name: Shaykh Abdullah ibn Ghudayyan

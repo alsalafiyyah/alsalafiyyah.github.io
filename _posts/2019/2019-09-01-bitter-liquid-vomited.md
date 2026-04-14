@@ -2,13 +2,12 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "The bitter liquid vomited after eating or drinking"
-hijri: Muharram 02, 1441 AH
+date: 2019-09-01
+hijri: "Muharram 02, 1441 AH"
 source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 9040-8"
-chapter: "Nullifications of Wudu' (Ablution)"
-lang: en
 category: [taharah, ablution]
-note: true
-excerpt: "Concerning the bitter-tasting liquid that may regurgitate into the mouth after drinking or eating but is a little quantity that does not fill the mouth or may come up the throat then flows back, does it invalidate Wudu’ (ablution)? "
+excerpt: "Concerning the bitter-tasting liquid that may regurgitate into the mouth after drinking or eating but is a little quantity that does not fill the mouth or may come up the throat then flows back, does it invalidate Wudu’ (ablution)?"
+author: "Permanent Committee of KSA"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz
@@ -23,10 +22,10 @@ muftis:
       url: /biography/qaud/
 ---
 
-Question : 
+### Question : 
 
 Concerning the bitter-tasting liquid that may regurgitate into the mouth after drinking or eating but is a little quantity that does not fill the mouth or may come up the throat then flows back, does it invalidate Wudu’ (ablution)? 
 
-Answer: 
+### Answer: 
 
 No, it neither breaks nor invalidates Wudu’.

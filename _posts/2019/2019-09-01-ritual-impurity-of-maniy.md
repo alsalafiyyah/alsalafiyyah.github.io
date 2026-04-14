@@ -2,13 +2,12 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Ritual Impurity of Maniy"
+date: 2019-09-01
 hijri: Muharram 02, 1441 AH
 source: "Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 1205"
-chapter: "Nullifications of Wudu' (Ablution)"
-lang: en
 category: [taharah,fasting,ablution]
-note: true
 excerpt: "If the discharged fluid was Maniy, he must perform Ghusl. It also invalidates fasting. Although this fluid is originally pure, it is repulsive."
+author: "Permanent Committee of KSA"
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz
@@ -21,11 +20,11 @@ muftis:
       url: /biography/mani/
 ---
 
-Question : 
+### Question : 
 
 After kissing, foreplay, or touching one’s wife, he finds some wetness discharged in his underpants from his member following erection. Does this affect the Taharah (ritual purification) and the validity of Sawm (fasting)?
 
-Answer: 
+### Answer: 
 
 All praise be to Allah Alone, and peace and blessings be upon His Messenger, and his family and Companions.
 

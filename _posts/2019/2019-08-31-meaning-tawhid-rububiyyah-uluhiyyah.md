@@ -2,20 +2,29 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "The meaning of Tawhid-ul-Rububiyyah and Tawhid-ul-Uluhiyyah"
-hijri: Muharram 01, 1441 AH
-source: "Fatawa Al-lajnah Al-Da'imah of KSA 11843-1"
-lang: en
+date: 2019-08-31
+hijri: "Muharram 01, 1441 AH"
+source: "Fatawa Al-lajnah Al-Da'imah no.11843 question 1"
 category: [terminology]
-note: true
-excerpt: "What is the meaning of Tawhid-ul-Rububiyyah and Tawhid-ul-Uluhiyyah?"
-group6: true
+excerpt: "The meaning of Tawhid-ul-Rububiyyah is the ascription of all Acts of Allah to none but Him Alone."
+author: "Permanent Committee of KSA"
+muftis:
+  chairman: 
+    - name: Shaykh Ibn Baz
+      url: /biography/binbaz
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Afifi
+      url: /biography/afifi     
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan   
 ---
 
-Question: 
+### Question: 
 
 What is the meaning of Tawhid-ul-Rububiyyah and Tawhid-ul-Uluhiyyah?
 
-Answer: 
+### Answer: 
 
 The meaning of Tawhid-ul-Rububiyyah (Oneness of Allah's Lordship) is the ascription of all Acts of Allah (Glorified and Exalted be He) to none but Him Alone, such as: creation, bringing into being, providing sustenance, giving life, and causing death.
 

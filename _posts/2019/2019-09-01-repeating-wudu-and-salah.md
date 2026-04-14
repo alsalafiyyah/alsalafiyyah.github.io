@@ -2,13 +2,12 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Repeating Wudu' and Salah if a person knows that some impurity was discharged during Salah"
+date: 2019-09-01
 hijri: Muharram 02, 1441 AH
-source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 4900-3"
-chapter: "Nullifications of Wudu' (Ablution)"
-lang: en
+source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 4900 question 3"
 category: [taharah, ablution, salah]
-note: true
 excerpt: "If the reality is as you mentioned, you should not stop your Salah because of this, based on what the Prophet (peace be upon him) said when some people complained to him about the case of a man who thought he felt something while in Salah."
+author: "Permanent Committee of KSA"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz
@@ -23,11 +22,11 @@ muftis:
       url: /biography/qaud/
 ---
 
-Question : 
+### Question : 
 
 I often feel drops of some fluid being emitted from my penis after performing Wudu’ (ablution) or during Salah (Prayer), but I am not sure whether it is urine or something else. Does this invalidate my Wudu’ and Salah? When I get that feeling, should I stop my Salah and repeat it or not? 
 
-Answer: 
+### Answer: 
 
 If the reality is as you mentioned, you should not stop your Salah because of this, based on what the Prophet (peace be upon him) said when some people complained to him about the case of a man who thought he felt something while in Salah. The Prophet (peace be upon him) said, “**He should not leave (prayer) unless he hears a sound or smells an odor.**” (Authenticity agreed upon by Al-Bukhari and Muslim) [^1]. 
 

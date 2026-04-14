@@ -2,13 +2,12 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Touching or shaking hands with woman"
+date: 2019-09-01
 hijri: Muharram 02, 1441 AH
-source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 4603-2"
-chapter: "Nullifications of Wudu' (Ablution)"
-lang: en
+source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 4603 question no. 2"
 category: [taharah, ablution, women]
-note: true
 excerpt: "According to the soundest opinion of the scholars, touching women or shaking hands with them does not nullify Wudu’ at all, whether these women are non-Mahram, one’s wife, or an unmarriageable female relative."
+author: "Permanent Committee of KSA"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz
@@ -23,11 +22,11 @@ muftis:
       url: /biography/qaud/
 ---
 
-Question : 
+### Question : 
 
 Is Wudu’ (ablution) nullified by touching or shaking hands with a non-Mahram woman (neither a spouse nor a permanently unmarriageable woman), an act which is already Haram (prohibited)? We have read in the books of Fiqh (Islamic jurisprudence) Hadiths which unconditionally indicate that touching women does not nullify Wudu’. Is this generalization restricted to touching Mahram women only (i.e. Spouse or permanently unmarriageable relative)? 
 
-Answer: 
+### Answer: 
 
 According to the soundest opinion of the scholars, touching women or shaking hands with them does not nullify Wudu’ at all, whether these women are non-Mahram, one’s wife, or an unmarriageable female relative. This is because the basic rule is Istis-hab (presumption of continuity) of Wudu’ until proven nullified by a legal evidence. The nullification of Wudu’ because of the stated reason has not been authentically reported in any Sahih Hadith (a Hadith that has been transmitted by people known for their uprightness and exactitude; free from eccentricity and blemish).
 

@@ -2,13 +2,12 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "When does passing wind become an annulment of Wudu'?"
+date: 2019-09-01
 hijri: Muharram 02, 1441 AH
-source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 10450"
-chapter: "Nullifications of Wudu' (Ablution)"
-lang: en
+source: "Fatawa Al-lajnah Al-Da'imah no. 10450"
 category: [taharah, ablution]
-note: true
 excerpt: "When does passing wind become an annulment of Wudu’ (ablution)? Is it by hearing a sound, detecting a smell, and feeling something, or only by hearing a sound or detecting a smell, excluding the feeling condition? Please explain this matter to me, may Allah grant you success, for I am confused."
+author: "Permanent Committee of KSA"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz
@@ -21,11 +20,11 @@ muftis:
       url: /biography/ghudayyan/
 ---
 
-Question: 
+### Question: 
 
 When does passing wind become an annulment of Wudu’ (ablution)? Is it by hearing a sound, detecting a smell, and feeling something, or only by hearing a sound or detecting a smell, excluding the feeling condition? Please explain this matter to me, may Allah grant you success, for I am confused. 
 
-Answer: 
+### Answer: 
 
 All praise is due to Allah Alone, and peace and blessings be upon His Messenger, his family, and Companions.
 

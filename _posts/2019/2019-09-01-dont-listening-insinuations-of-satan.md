@@ -2,13 +2,12 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Do not listen to the insinuations of Satan"
+date: 2019-09-01
 hijri: Muharram 02, 1441 AH
 source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 5935"
-chapter: "Nullifications of Wudu' (Ablution)"
-lang: en
 category: [taharah, ablution]
-note: true
 excerpt: "Sometimes I feel while I am washing my feet or directly or shortly after performing Wudu’ something coming out through the urethra in the form of drops. Then I look and I may find traces of one or more drops and I may find nothing at all."
+author: "Permanent Committee of KSA"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz
@@ -23,11 +22,11 @@ muftis:
       url: /biography/qaud/
 ---
 
-Question: 
+### Question: 
 
 Sometimes I feel while I am washing my feet or directly or shortly after performing Wudu’ something coming out through the urethra in the form of drops. Then I look and I may find traces of one or more drops and I may find nothing at all. This happens because I have no control over my urethra. Some doctors told me that this is something normal that afflicts young people and will end after I get married, while other doctors have different opinions. I cannot get rid of this and I am concerned in the first place with the ruling on Salah (prayer) and how this problem can be handled according to Shari‘ah. I frequently repeat Wudu’ but I am not pleased with this. I write to you hoping that you understand what I suffer from. What should I do if this happens after Wudu’? What is the ruling on my underwear? Please give me a decisive answer. 
 
-Answer: 
+### Answer: 
 
 All praise is due to Allah Alone, and peace and blessings be upon His Messenger, his family, and Companions.
 

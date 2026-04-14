@@ -2,13 +2,12 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Passing wind invalidates Wudu'"
+date: 2019-09-01
 hijri: Muharram 02, 1441 AH
-source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 11269-2"
-chapter: "Nullifications of Wudu' (Ablution)"
-lang: en
+source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 11269, question 2"
 category: [taharah, ablution]
-note: true
 excerpt: "Should a person perform Istinja’ (cleansing the private parts with water after urination or defecation) or Istijmar (cleansing the private parts with hard material after urination or defecation) after breaking wind? Does it invalidate Wudu’ (ablution)?"
+author: "Permanent Committee of KSA"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz
@@ -21,11 +20,11 @@ muftis:
       url: /biography/ghudayyan/
 ---
 
-Question: 
+### Question: 
 
 Should a person perform Istinja’ (cleansing the private parts with water after urination or defecation) or Istijmar (cleansing the private parts with hard material after urination or defecation) after breaking wind? Does it invalidate Wudu’ (ablution)? What is the religious ruling on a person who smells a bad odor after performing Wudu’? Is their Salah (prayer) valid? Some people say that it is valid, because breaking wind does not invalidate Wudu’. Kindly enlighten me, may Allah reward you! 
 
-Answer: 
+### Answer: 
 
 All praise is due to Allah Alone, and peace and blessings be upon His Messenger, his family and Companions.
 

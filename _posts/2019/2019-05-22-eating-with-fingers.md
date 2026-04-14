@@ -2,19 +2,25 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Eating With Fingers"
-date: 2019-02-22
-hijri: Ramadan 17, 1440
-source: "Fatawa Al-Lajnah Ad-Da'imah of KSA no. 8107"
+date: 2019-05-22
+hijri: "Ramadan 17, 1440"
+source: "Fatawa Al-Lajnah Ad-Da'imah no. 8107"
 category: [fatwas, sunnah]
 note: true
-locale: en
-lang: en
 excerpt: "Eating with one's fingers or using spoons is a part of customs. It was the guidance of the Prophet (peace be upon him) that he used to eat with three fingers."
-shaykhs: 
- - Sh. Abdul-Aziz ibn Baz
- - Sh. Abdur-Razzaq Afifi
- - Sh. Abdullah ibn Ghudayyan
- - Sh. Abdullah ibn Qa'ud
+author: "Permanent Committee of KSA"
+muftis:
+  chairman: 
+    - name: Shaykh Ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Abdullah ibn Qa'ud
+      url: /biography/qaud/
 ---
 
 ### Question: 
