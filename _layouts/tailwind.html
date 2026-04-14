@@ -96,19 +96,22 @@
 
             <aside class="md:col-span-3 space-y-12 sticky top-12 self-start hidden md:block">
                 <div class="border-t border-black pt-4">
-                    <span class="text-[10px] font-black uppercase tracking-widest text-gray-400">Read Time</span>
-                    <p class="text-lg font-bold">06 Minutes</p>
-                </div>
-                <div class="border-t border-black pt-4">
-                    <span class="text-[10px] font-black uppercase tracking-widest text-gray-400">Share</span>
-                    <div class="flex flex-col gap-2 mt-2">
-                        <a href="#" class="text-sm font-bold uppercase hover:line-through">Twitter / X</a>
-                        <a href="#" class="text-sm font-bold uppercase hover:line-through">Are.na</a>
-                    </div>
-                </div>
-                <div class="border-t border-black pt-4">
                     <span class="text-[10px] font-black uppercase tracking-widest text-gray-400">Tags</span>
-                    <p class="text-xs font-bold uppercase mt-2 leading-loose">#Minimalism / #Design / #DigitalFreedom</p>
+                    {% if page.category %}  
+{% if post %}
+{% assign categories = post.categories %}
+{% else %}
+{% assign categories = page.categories %}
+{% endif %}
+                    <p class="text-xs font-bold uppercase mt-2 leading-loose">
+                        {% for category in categories %}
+                        <a href="{{site.baseurl}}/category/{{category|slugize}}" class="group text-sm font-bold uppercase tracking-widest hover:text-gray-400 transition-colors">
+                            {{category|capitalize}}<span class="ml-4 text-black group-hover:text-black">/</span>
+                        </a>
+                        {% unless forloop.last %}&nbsp;{% endunless %}
+                        {% endfor %} 
+                    </p>
+                    {% endif %} 
                 </div>
             </aside>
 
