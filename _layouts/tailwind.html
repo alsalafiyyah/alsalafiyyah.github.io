@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ site.title }}</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&family=Playfair+Display:ital,wght@0,900;1,900&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+        .serif { font-family: 'Playfair Display', serif; }
+        /* Custom scrollbar for that clean look */
+        ::-webkit-scrollbar { width: 5px; }
+        ::-webkit-scrollbar-track { background: white; }
+        ::-webkit-scrollbar-thumb { background: black; }
+    </style>
+</head>
+<body class="bg-white text-black antialiased selection:bg-black selection:text-white">
+<nav class="flex justify-between items-center px-8 py-12 max-w-7xl mx-auto uppercase tracking-widest text-xs font-bold">
+    <div class="flex flex-1 items-center gap-8">
+        <div class="hidden md:flex gap-8">
+            <a href="{{ site.url }}" class="hover:line-through transition-all">Index</a>
+            <a href="/about" class="hover:line-through transition-all">About</a>
+        </div>
+
+        <div class="md:hidden">
+            <input type="checkbox" id="menu-toggle" class="hidden peer">
+            <label for="menu-toggle" class="cursor-pointer z-50 relative">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 8h16M4 16h16" />
+                </svg>
+            </label>
+
+            <div class="fixed inset-0 bg-black text-white z-40 flex flex-col justify-center items-center gap-8 transition-transform duration-500 translate-x-full peer-checked:translate-x-0">
+                <label for="menu-toggle" class="absolute top-12 left-8 cursor-pointer">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                    </svg>
+                </label>
+                <a href="{{ site.url }}" class="text-5xl font-black lowercase tracking-tighter serif italic">index</a>
+                <a href="/about" class="text-5xl font-black lowercase tracking-tighter serif italic">about</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="flex-none">
+        <a href="journal.html" class="text-3xl lowercase font-black tracking-tighter leading-none relative z-10">{{ site.title }}</a>
+    </div>
+
+    <div class="flex flex-1 justify-end">
+        <div class="relative flex items-center group">
+            <label for="search-input" class="cursor-pointer">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 md:h-3 md:w-3 opacity-100 md:opacity-40 group-focus-within:opacity-100 transition-opacity" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                </svg>
+            </label>
+            <input 
+                id="search-input"
+                type="text" 
+                placeholder="SEARCH..." 
+                class="bg-transparent border-b border-black md:border-gray-200 focus:border-black outline-none transition-all duration-300 w-0 focus:w-32 ml-2 md:ml-6 md:w-32 md:focus:w-48 text-[10px] py-1"
+            >
+        </div>
+    </div>
+</nav>
+
+<main class="max-w-7xl mx-auto px-8">
+
+        <header class="py-4 border-b-4 border-black text-center md:text-left">
+            <div class="flex flex-col md:flex-row md:items-end justify-between gap-8">
+                <div class="max-w-4xl">
+                    <a href="index.html" class="text-sm font-black uppercase tracking-widest border-b-2 border-black pb-1 hover:line-through transition-all">< Take me home</a>
+                    <h1 class="text-6xl md:text-[4vw] leading-[0.85] font-black uppercase tracking-tighter serif mt-8">
+                        {{ page.title }}
+                    </h1>
+                </div>
+                <div class="md:block pb-4 text-right">
+                    <p class="text-sm font-bold uppercase tracking-widest">Published</p>
+                    <p class="text-xl font-black">{{ page.date | date: "%b, %Y" }}</p>
+                </div>
+            </div>
+        </header>
+
+        <section class="grid grid-cols-1 md:grid-cols-12 gap-12 py-24 items-start">
+            <aside class="md:col-span-3 space-y-12 sticky top-12 self-start hidden md:block"></aside>
+            <article class="md:col-span-7 md:col-start-5 prose prose-xl max-w-none">
+                    {{ content }}
+            </article>
+            <div class="mt-24 pt-12 border-t-4 border-black">
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
+        
+        <div class="space-y-6">
+            <h5 class="text-xs font-black uppercase tracking-[0.3em] mb-6">Muftis</h5>
+            {% if page.muftis.shaykh %}
+             {% for shaykh in page.muftis.shaykh %}
+              <div class="flex border-b border-gray-100 pb-2">
+                <span class="text-[10px] font-bold uppercase w-32 opacity-40">Mufti</span>
+                {% for chairman in page.muftis.chairman %}
+                 <a href="{{ shaykh.url | relative_url }}" class="text-sm font-black italic serif">{{ shaykh.name }}</a>
+                {% endfor %}
+              </div>
+             {% endfor %}
+            {% endif %}
+            {% if page.muftis %}
+            {% if page.muftis.chairman %}
+            <div class="flex border-b border-gray-100 pb-2">
+                <span class="text-[10px] font-bold uppercase w-32 opacity-40">Chairman</span>
+                {% for chairman in page.muftis.chairman %}
+                 <a href="{{ chairman.url | relative_url }}" class="text-sm font-black italic serif">{{ chairman.name }}</a>
+                {% endfor %}
+            </div>
+            {% endif %}
+            {% if page.muftis.deputy_chairman %}
+            <div class="flex border-b border-gray-100 pb-2">
+                <span class="text-[10px] font-bold uppercase w-32 opacity-40">Deputy</span>
+                {% for deputy_chairman in page.muftis.deputy_chairman %}
+                <a href="{{ deputy_chairman.url | relative_url }}" class="text-sm font-black italic serif">{{ deputy_chairman.name }}</a>
+                {% endfor %}
+            </div>
+            {% endif %}
+            {% if page.muftis.members %}
+            <div class="flex items-start">
+                <span class="text-[10px] font-bold uppercase w-32 opacity-40 pt-1">Members</span>
+                <div class="flex flex-col gap-1">
+                    {% for members in page.muftis.members %}
+                    <a href="{{ members.url | relative_url }}" class="text-sm font-black italic serif">{{ members.name }}</a>
+                    {% endfor %}
+                </div>
+            </div>
+            {% endif %}
+            {% endif %}
+        </div>
+
+        <div class="space-y-8 md:pl-12 md:border-l border-gray-100">
+            <div>
+                <h5 class="text-[10px] font-black uppercase tracking-[0.3em] mb-2 text-gray-400">Reference Source</h5>
+                <p class="text-sm font-bold leading-relaxed">
+                    {% if page.source %}
+                     {{ page.source }}
+                    {% endif %}
+                </p>
+            </div>
+
+            <div class="flex justify-between items-end">
+                <div>
+                    <h5 class="text-[10px] font-black uppercase tracking-[0.3em] mb-2 text-gray-400">Last Modified</h5>
+                    <p class="text-sm font-black tracking-tighter tabular-nums" id='last-modified'>2026—04—14</p>
+                </div>
+                
+                <div class="text-right">
+                    <h5 class="text-[10px] font-black uppercase tracking-[0.3em] mb-2 text-gray-400 text-right">Spread</h5>
+                    <div class="flex gap-4 text-[10px] font-black uppercase underline decoration-1 underline-offset-4">
+                        <a href="#" class="hover:bg-black hover:text-white transition-colors">Fb</a>
+                        <a href="#" class="hover:bg-black hover:text-white transition-colors">Tg</a>
+                        <a href="#" class="hover:bg-black hover:text-white transition-colors">Tw</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+        </section>
+</main>
+
+    <footer class="border-t-4 border-black py-12 px-8 max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center text-[10px] font-black uppercase tracking-[0.2em]">
+        <p>&copy; 2026 {{ site.title }}</p>
+        <div class="flex gap-8 mt-4 md:mt-0">
+            <a href="#" class="hover:line-through">Telegram</a>
+            <a href="https://instagram.com/alsalafiyyah" class="hover:line-through" target="_blank">Instagram</a>
+        </div>
+    </footer>
+
+<script>
+    const audio = document.getElementById('main-audio');
+    const playBtn = document.getElementById('play-button');
+    const playIcon = document.getElementById('play-icon');
+    const pauseIcon = document.getElementById('pause-icon');
+    const progressBar = document.getElementById('progress-bar');
+    const progressContainer = document.getElementById('progress-container');
+    const timeDisplay = document.getElementById('time-display');
+
+    // Toggle Play/Pause
+    function togglePlay() {
+        if (audio.paused) {
+            audio.play();
+            showPauseIcon();
+        } else {
+            audio.pause();
+            showPlayIcon();
+        }
+    }
+
+    function showPlayIcon() {
+        playIcon.classList.remove('hidden');
+        pauseIcon.classList.add('hidden');
+    }
+
+    function showPauseIcon() {
+        playIcon.classList.add('hidden');
+        pauseIcon.classList.remove('hidden');
+    }
+
+    playBtn.addEventListener('click', togglePlay);
+
+    // Update Progress Bar & Time
+    audio.addEventListener('timeupdate', () => {
+        const percent = (audio.currentTime / audio.duration) * 100;
+        progressBar.style.width = percent + '%';
+        
+        updateTimeDisplay();
+    });
+
+    // FIX: Listen for when audio finishes
+    audio.addEventListener('ended', () => {
+        showPlayIcon();
+        progressBar.style.width = '0%';
+        audio.currentTime = 0; // Reset track to beginning
+        updateTimeDisplay();
+    });
+
+    // Seek Functionality
+    progressContainer.addEventListener('click', (e) => {
+        const width = progressContainer.clientWidth;
+        const clickX = e.offsetX;
+        const duration = audio.duration;
+        audio.currentTime = (clickX / width) * duration;
+    });
+
+    function updateTimeDisplay() {
+        let curMins = Math.floor(audio.currentTime / 60);
+        let curSecs = Math.floor(audio.currentTime - curMins * 60);
+        let durMins = Math.floor(audio.duration / 60) || 0;
+        let durSecs = Math.floor(audio.duration - durMins * 60) || 0;
+        
+        timeDisplay.innerText = `${curMins}:${curSecs < 10 ? '0'+curSecs : curSecs} / ${durMins}:${durSecs < 10 ? '0'+durSecs : durSecs}`;
+    }
+
+    // Initialize display on load
+    audio.addEventListener('loadedmetadata', updateTimeDisplay);
+</script>
+</body>
+</html>

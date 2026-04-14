@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: tailwind
 publisher: alsalafiyyah@icloud.com
 title: "Eating With Fingers"
 date: 2019-05-22
