@@ -3,11 +3,11 @@ layout: post
 title: "What is the kind of bell that is forbidden?"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da’imah 26/284, Fatwa no.18952, Question 4"
-hijri: Dhul-Hijjah 27, 1444
+date: 2023-07-15
+hijri: "Dhul-Hijjah 27, 1444 AH"
 category: [fatwas, music]
-lang: en
-note: false
-excerpt: "What is the kind of bell that is forbidden?"
+excerpt: "The bells that are used in houses, schools and so on are permissible, so long as they do not include anything haram, such as resembling the church bells of the Christians"
+author: "Permanent Committee of KSA"
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz
@@ -22,10 +22,10 @@ muftis:
       url: /biography/bakr/
 ---
 
-Question: 
+### Question: 
 
 What is the kind of bell that is forbidden? Please note that there are electric bells that make sounds like birds, or bells on alarm clocks where one piece of metal strikes another, and other kinds. 
 
-Answer: 
+### Answer: 
 
 The bells that are used in houses, schools and so on are permissible, so long as they do not include anything haram, such as resembling the church bells of the Christians, or have musical sounds. In that case they are haram for that reason.

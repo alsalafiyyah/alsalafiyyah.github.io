@@ -3,11 +3,11 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Which is better: The Qur'an or 'Isa (peace be upon him)"
 date: 2025-07-29
-hijri: Safar 4, 1447 AH
-source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 6793, Question 3
+hijri: "Safar 4, 1447 AH"
+source: "Fatawa Al-Lajnah Ad-Daimah no. 6793, Question 3"
 category: [fatwas, quran]
-note: true
 excerpt: "The Qur’an is the Speech of Allah; it was not created. 'Isa (peace be upon him) is a human being who was given birth to by Maryam bint 'Imran. Thus, the Qur’an is better."
+author: "Permanent Committee of KSA"
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz

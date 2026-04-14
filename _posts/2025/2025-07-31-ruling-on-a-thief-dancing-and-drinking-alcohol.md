@@ -3,11 +3,11 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Ruling on a thief, women dancing and drinking alcohol"
 date: 2025-07-31
-hijri: Safar 6, 1447 AH
-source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 6793, Question 3
+hijri: "Safar 6, 1447 AH"
+source: "Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 6793, Question 3"
 category: [fatwas, drugs, women, hudud]
-note: true
 excerpt: "Women dancing in front of men is Haram. Drinking alcoholic beverages is also Haram. They are, moreover, major sins. Furthermore, a man gazing at a woman other than his wife and listening to her singing are Haram."
+author: "Permanent Committee of KSA"
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz

@@ -2,12 +2,12 @@
 layout: post
 title: Ruling on Changing Names after Hajj
 publisher: alsalafiyyah@icloud.com
-source: Fatawa Al-Lajnah Al-Da’imah, Fatwa no. 3323, Question 9
+source: "Fatawa Al-Lajnah Al-Da’imah, Fatwa no. 3323, Question 9"
+date: 2023-07-22
 hijri: Muharram 04, 1445
 category: [fatwas,hajj]
-lang: en
-note: true
-excerpt: What is the ruling on a person changing their name like most of the Indonesian pilgrims do? Indonesians are used to changing their names when they go to Makkah Al-Mukarramah
+excerpt: "What is the ruling on a person changing their name like most of the Indonesian pilgrims do? Indonesians are used to changing their names when they go to Makkah Al-Mukarramah"
+author: "Permanent Committee of KSA"
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz
@@ -22,11 +22,11 @@ muftis:
       url: /biography/qaud/
 ---
 
-###### Question:
+### Question:
 
 What is the ruling on a person changing their name like most of the Indonesian pilgrims do? Indonesians are used to changing their names when they go to Makkah Al-Mukarramah or Al-Madinah Al-Munawwarah. Is this an act of Sunnah or not?
 
-###### Answer:
+### Answer:
 
 The Prophet (peace be upon him) used to change the bad names to good ones. If the pilgrims of Indonesia are changing their names for this purpose, not for finishing the rituals of Hajj or their visit to Al-Masjid Al-Nabawy (the Prophet’s Mosque in Madinah) to offer Salah (Prayer) therein, then this is permissible.
 

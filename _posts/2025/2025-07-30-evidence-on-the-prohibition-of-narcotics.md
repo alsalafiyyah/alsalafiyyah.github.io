@@ -1,13 +1,13 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: Evidence on the prohibition of narcotics
+title: "Evidence on the prohibition of narcotics"
 date: 2025-07-30
-hijri: Safar 5, 1447 AH
-source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 5001, Question 3
+hijri: "Safar 5, 1447 AH"
+source: "Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 5001, Question 3"
 category: [fatwas, drugs]
-note: true
 excerpt: "On the authority of Um Salamah (may Allah be pleased with her) who narrated that the Prophet (peace be upon him) forbade every intoxicant and everything which produces languidness."
+author: "Permanent Committee of KSA"
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz
@@ -30,7 +30,7 @@ Describing the character of our Prophet Muhammad (peace be upon him) in Surah Al
 
 It is also related by Abu Dawud : **"On the authority of Um Salamah (may Allah be pleased with her) who narrated that the Prophet (peace be upon him) forbade every intoxicant and everything which produces languidness."** [^1]
 
-It is well known that narcotics cause stupor and are very harmful. The Prophet (peace be upon him) said, **"There should be neither harming nor reciprocating harm."** [^2]
+It is well known that narcotics cause stupor and are very harmful. The Prophet (peace be upon him) said, "There should be neither harming nor reciprocating harm." [^2]
 
 ---
 
