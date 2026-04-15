@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Khomeneism"
+title: "The Inward Reality of the Iranian Regime"
 publisher: "alsalafiyyah@icloud.com"
-mp3: "https://alsalafiyyah.github.io/assets/about-shia-khomeneism.mp3"
+mp3: "https://alsalafiyyah.github.io/assets/audios/about-shia-khomeneism.mp3"
 hijri: "Shawwal 27, 1447AH"
 date: 2026-04-15
 active: audios
