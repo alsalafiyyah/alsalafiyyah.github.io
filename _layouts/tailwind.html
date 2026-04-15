@@ -127,94 +127,92 @@
         </div>
     </header>
 
-    <section class="grid grid-cols-1 md:grid-cols-12 gap-12 py-24 items-start">
-
-        <article class="md:col-span-8 md:col-start-5 max-w-none">
-            <div class="prose prose-xl prose-black">
-                {{ content }}
+<section class="grid grid-cols-1 md:grid-cols-12 gap-12 py-24 items-start">
+    
+    <aside class="hidden md:block md:col-span-3 space-y-12 sticky top-12 self-start">
+        
+        <div class="border-t-2 border-black pt-4">
+            <span class="text-[10px] font-black uppercase tracking-widest text-gray-400">Index</span>
+            <div class="flex flex-wrap gap-2 mt-4">
+                {% for category in page.categories %}
+                <a href="{{ site.baseurl }}/category/{{ category | slugize }}" class="group text-sm font-bold uppercase tracking-widest hover:text-gray-400 transition-colors">
+                    {{ category | capitalize }}<span class="ml-2 text-black group-hover:text-black">/</span>
+                </a>
+                {% endfor %}
             </div>
+        </div>
 
-            <div class="mt-24 pt-12 border-t-4 border-black">
-                <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
-                    <div class="space-y-6">
-                        <h5 class="text-xs font-black uppercase tracking-[0.3em] mb-6">The Committee</h5>
-                        
-                        {% if page.muftis.chairman %}
-                        <div class="flex border-b border-gray-100 pb-2">
-                            <span class="text-[10px] font-bold uppercase w-32 opacity-40">Chairman</span>
-                            <div class="flex flex-col">
-                                {% for chairman in page.muftis.chairman %}
-                                <span class="text-sm font-black italic serif">{{ chairman.name }}</span>
-                                {% endfor %}
-                            </div>
-                        </div>
-                        {% endif %}
+        <div class="border-t-2 border-black pt-4 space-y-6">
+            <span class="text-[10px] font-black uppercase tracking-widest text-gray-400">The Committee</span>
+            
+            {% if page.muftis.chairman %}
+                {% for chairman in page.muftis.chairman %}
+                <div>
+                    <span class="text-[9px] font-bold uppercase opacity-40 block">Chairman</span>
+                    <span class="text-sm font-black italic serif">{{ chairman.name }}</span>
+                </div>
+                {% endfor %}
+            {% endif %}
 
-                        {% if page.muftis.deputy_chairman %}
-                        <div class="flex border-b border-gray-100 pb-2">
-                            <span class="text-[10px] font-bold uppercase w-32 opacity-40">Deputy</span>
-                            <div class="flex flex-col">
-                                {% for deputy in page.muftis.deputy_chairman %}
-                                <span class="text-sm font-black italic serif">{{ deputy.name }}</span>
-                                {% endfor %}
-                            </div>
-                        </div>
-                        {% endif %}
-
-                        {% if page.muftis.members %}
-                        <div class="flex items-start">
-                            <span class="text-[10px] font-bold uppercase w-32 opacity-40 pt-1">Members</span>
-                            <div class="flex flex-col gap-1">
-                                {% for member in page.muftis.members %}
-                                <span class="text-sm font-black italic serif">{{ member.name }}</span>
-                                {% endfor %}
-                            </div>
-                        </div>
-                        {% endif %}
+            {% if page.muftis.members %}
+                <div>
+                    <span class="text-[9px] font-bold uppercase opacity-40 block">Members</span>
+                    <div class="flex flex-col gap-1">
+                        {% for member in page.muftis.members %}
+                        <span class="text-sm font-black italic serif">{{ member.name }}</span>
+                        {% endfor %}
                     </div>
+                </div>
+            {% endif %}
+        </div>
 
-                    <div class="space-y-8 md:pl-12 md:border-l border-gray-100">
-                        <div>
-                            <h5 class="text-[10px] font-black uppercase tracking-[0.3em] mb-2 text-gray-400">Reference Source</h5>
-                            <p class="text-sm font-bold leading-relaxed">
-                                {{ page.source | default: "General Archive" }}
-                            </p>
-                        </div>
+        <div class="border-t-2 border-black pt-4 space-y-6">
+            <div>
+                <span class="text-[10px] font-black uppercase tracking-widest text-gray-400">Reference</span>
+                <p class="text-xs font-bold leading-tight mt-2">{{ page.source | default: "Archive" }}</p>
+            </div>
+            
+            <div>
+                <span class="text-[10px] font-black uppercase tracking-widest text-gray-400">Spread</span>
+                <div class="flex gap-4 mt-2 text-[10px] font-black uppercase underline underline-offset-4">
+                    <a href="#" class="hover:bg-black hover:text-white transition-colors">Fb</a>
+                    <a href="#" class="hover:bg-black hover:text-white transition-colors">Tg</a>
+                    <a href="#" class="hover:bg-black hover:text-white transition-colors">Tw</a>
+                </div>
+            </div>
+        </div>
+    </aside>
 
-                        <div class="flex justify-between items-end">
-                            <div>
-                                <h5 class="text-[10px] font-black uppercase tracking-[0.3em] mb-2 text-gray-400">Last Modified</h5>
-                                <p class="text-sm font-black tracking-tighter tabular-nums">{{ page.last_modified_at | date: "%Y—%m—%d" | default: page.date | date: "%Y—%m—%d" }}</p>
-                            </div>
-                            
-                            <div class="text-right">
-                                <h5 class="text-[10px] font-black uppercase tracking-[0.3em] mb-2 text-gray-400">Spread</h5>
-                                <div class="flex gap-4 text-[10px] font-black uppercase underline decoration-1 underline-offset-4">
-                                    <a href="#" class="hover:bg-black hover:text-white transition-colors">Fb</a>
-                                    <a href="#" class="hover:bg-black hover:text-white transition-colors">Tg</a>
-                                    <a href="#" class="hover:bg-black hover:text-white transition-colors">Tw</a>
-                                </div>
-                            </div>
-                        </div>
+    <article class="md:col-span-8 md:col-start-5 max-w-none">
+        <div class="prose prose-xl prose-black">
+            {{ content }}
+        </div>
+
+        <div class="md:hidden mt-20 pt-12 border-t-4 border-black space-y-10">
+            <div>
+                <h5 class="text-[10px] font-black uppercase text-gray-400 mb-4">The Committee</h5>
+                <div class="text-lg font-black italic serif space-y-2">
+                    {% for chairman in page.muftis.chairman %}<p>{{ chairman.name }} (Chairman)</p>{% endfor %}
+                    {% for member in page.muftis.members %}<p>{{ member.name }}</p>{% endfor %}
+                </div>
+            </div>
+            
+            <div class="grid grid-cols-2 gap-4 border-t border-gray-100 pt-8">
+                <div>
+                    <h5 class="text-[10px] font-black uppercase text-gray-400 mb-1">Source</h5>
+                    <p class="text-xs font-bold">{{ page.source }}</p>
+                </div>
+                <div class="text-right">
+                    <h5 class="text-[10px] font-black uppercase text-gray-400 mb-1">Spread</h5>
+                    <div class="flex justify-end gap-3 text-[10px] font-black uppercase underline">
+                        <a href="#">Fb</a><a href="#">Tg</a><a href="#">Tw</a>
                     </div>
                 </div>
             </div>
-        </article>
+        </div>
+    </article>
 
-        <aside class="md:col-span-3 space-y-12 sticky top-12 self-start md:block">
-            <div class="border-t-2 border-black pt-4">
-                <span class="text-[10px] font-black uppercase tracking-widest text-gray-400">Index / Category</span>
-                <div class="flex flex-wrap gap-2 mt-4">
-                    {% for category in page.categories %}
-                    <a href="{{ site.baseurl }}/category/{{ category | slugize }}" class="group text-sm font-bold uppercase tracking-widest hover:text-gray-400 transition-colors">
-                        {{ category | capitalize }}<span class="ml-2 text-black group-hover:text-black">/</span>
-                    </a>
-                    {% endfor %}
-                </div>
-            </div>
-        </aside>
-
-    </section>
+</section>
 </main>
 
 <footer class="border-t-4 border-black py-12 px-8 max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center text-[10px] font-black uppercase tracking-[0.2em]">
