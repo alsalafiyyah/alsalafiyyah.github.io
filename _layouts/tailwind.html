@@ -10,7 +10,6 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
 @layer base {
   h1 { @apply text-4xl font-black mb-4; }
   h2 { @apply text-3xl font-bold mb-3; }
@@ -18,12 +17,23 @@
   p { @apply mb-4 leading-relaxed; }
   ul { @apply list-disc pl-5 mb-4; }
 }
-        body { font-family: 'Inter', sans-serif; }
-        .serif { font-family: 'Playfair Display', serif; }
-        /* Custom scrollbar for that clean look */
-        ::-webkit-scrollbar { width: 5px; }
-        ::-webkit-scrollbar-track { background: white; }
-        ::-webkit-scrollbar-thumb { background: black; }
+body { font-family: 'Inter', sans-serif; }
+.serif { font-family: 'Playfair Display', serif; }
+#question {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+#answer {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+.footnotes {
+  margin-top: 18px;
+}
+/* Custom scrollbar */
+::-webkit-scrollbar { width: 5px; }
+::-webkit-scrollbar-track { background: white; }
+::-webkit-scrollbar-thumb { background: black; }
     </style>
 </head>
 <body class="bg-white text-black antialiased selection:bg-black selection:text-white">
@@ -115,7 +125,7 @@
                 </div>
             </aside>
 
-            <article class="md:col-span-7 md:col-start-5 prose prose-xl max-w-none">
+            <article class="prose lg:prose-xl md:col-span-7 md:col-start-5 prose prose-xl max-w-none">
                     {{ content }}
             
 
