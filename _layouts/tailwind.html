@@ -261,7 +261,7 @@
         <a href="https://instagram.com/" class="hover:line-through" target="_blank">Instagram</a>
     </div>
 </footer>
-
+{% if page.active == 'audios' %}
 <script>
     const audio = document.getElementById('main-audio');
     const playBtn = document.getElementById('play-button');
@@ -330,5 +330,6 @@
     // Initialize display on load
     audio.addEventListener('loadedmetadata', updateTimeDisplay);
 </script>
+{% endif %}
 </body>
 </html>

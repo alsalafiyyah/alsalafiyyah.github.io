@@ -1,6 +1,6 @@
 ---
 layout: tailwind
-title: "No human being existed before Adam"
+title: "Were There Humans Before Adam?"
 publisher: "alsalafiyyah@icloud.com"
 mp3: "https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_637/nour_63710.mp3"
 hijri: "Rabi' Al-Awwal 22, 1442 AH"
@@ -16,7 +16,7 @@ muftis:
 ---
 
 ### Question: 
-Brother M. M. Y. from Al-Judeidah district, the Republic of Yemen, asks: Some people claim that before Adam there existed a primitive human species, but they then disappeared. Is this correct? 
+The listener (M. M. Y.) from the Yemen Arab Republic, Al Hudaydah Governorate, sent a message asking: "I heard from some people that there was a primitive human before Adam who disappeared before Adam appeared. Is this correct?"
 
 ### Answer: 
-This claim is a groundless and meaningless superstition because no human being ever existed before Adam (peace be upon him).
+There is no basis for this; rather, this is one of the myths. There was no other human before Adam. Yes.
