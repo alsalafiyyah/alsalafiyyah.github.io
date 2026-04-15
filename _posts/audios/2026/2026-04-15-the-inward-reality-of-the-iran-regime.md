@@ -16,12 +16,12 @@ muftis:
 ---
 
 ### Questioner: 
-Your Eminence Sheikh, are the Khomeinists among the Rafida?
+Your Eminence Sheikh, are the Khomeinists among the Rafida (shia)?
 
-​### The Sheikh: 
+### The Sheikh: 
 Yes, Khomeini is one of the heads (leaders) of the Rafida.
 
-​### Questioner: 
+### Questioner: 
 Among their heads?
 
 ### The Sheikh: 
@@ -29,7 +29,7 @@ Yes, they and their followers are Rafida. They are those who exaggerate regardin
 
 ​We ask Allah to return them to repentance and to protect the Muslims from their evil and the evil of those like them; because they have claimed Islam while they oppose Islam, and in reality, they are at war with Islam. Yes.
 
-​### Questioner: 
+### Questioner: 
 This has become clear, without a doubt.
 
 ### The Sheikh: 
@@ -43,5 +43,4 @@ We advise Muslims not to be deceived by the calls of [Khomeinism]. The claims th
 
 The point is that Khomeini and his followers are among the prominent figures of the Rafida (Shia), and among those who glorify and adhere to the Rafida creed. They are those who glorify the Twelve Imams and claim that they are the [rightful] Imams, that the leadership (Wilayah) must belong to them, and that the leadership of others is invalid. At the top of their list is Ali (may Allah be pleased with him). 
 
-Regarding Ali, they spoke the truth in that Ali is a righteous man; he is the fourth [Caliph] after the [first] three, and he is the best of them after the three—the best of the Companions after the three. Likewise, al-Hasan and al-Husayn are among the Companions (may Allah be pleased with them).
-However, they did not assume leadership except for al-Hasan, who ruled for a short time and then stepped down, handing the Imamate and leadership to Mu’awiya (may Allah be pleased with him). As for al-Husayn and those after him, they never assumed leadership. But the Rafida lack insight; they have nothing but claims with no foundation. Yes.
+Regarding Ali, they spoke the truth in that Ali is a righteous man; he is the fourth [Caliph] after the [first] three, and he is the best of them after the three—the best of the Companions after the three. Likewise, al-Hasan and al-Husayn are among the Companions (may Allah be pleased with them). However, they did not assume leadership except for al-Hasan, who ruled for a short time and then stepped down, handing the Imamate and leadership to Mu’awiya (may Allah be pleased with him). As for al-Husayn and those after him, they never assumed leadership. But the Rafida lack insight; they have nothing but claims with no foundation/basis. Yes.
