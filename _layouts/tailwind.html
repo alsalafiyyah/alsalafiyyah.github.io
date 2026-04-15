@@ -208,7 +208,7 @@ article p {
               <div class="flex border-b border-gray-100 pb-2">
                 <span class="text-[10px] font-bold uppercase w-32 opacity-40">Mufti</span>
                 {% for chairman in page.muftis.chairman %}
-                 <a href="{{ shaykh.url | relative_url }}" class="text-sm font-black italic serif">{{ shaykh.name }}</a>
+                 <a href="{{ shaykh.url | relative_url }}" class="text-sm font-black italic serif hover:line-through">{{ shaykh.name }}</a>
                 {% endfor %}
               </div>
              {% endfor %}
@@ -218,7 +218,7 @@ article p {
             <div class="flex border-b border-gray-100 pb-2">
                 <span class="text-[10px] font-bold uppercase w-32 opacity-40">Chairman</span>
                 {% for chairman in page.muftis.chairman %}
-                 <a href="{{ chairman.url | relative_url }}" class="text-sm font-black italic serif">{{ chairman.name }}</a>
+                 <a href="{{ chairman.url | relative_url }}" class="text-sm font-black italic serif hover:line-through">{{ chairman.name }}</a>
                 {% endfor %}
             </div>
             {% endif %}
@@ -226,7 +226,7 @@ article p {
             <div class="flex border-b border-gray-100 pb-2">
                 <span class="text-[10px] font-bold uppercase w-32 opacity-40">Deputy</span>
                 {% for deputy_chairman in page.muftis.deputy_chairman %}
-                <a href="{{ deputy_chairman.url | relative_url }}" class="text-sm font-black italic serif">{{ deputy_chairman.name }}</a>
+                <a href="{{ deputy_chairman.url | relative_url }}" class="text-sm font-black italic serif hover:line-through">{{ deputy_chairman.name }}</a>
                 {% endfor %}
             </div>
             {% endif %}
@@ -235,7 +235,7 @@ article p {
                 <span class="text-[10px] font-bold uppercase w-32 opacity-40 pt-1">Members</span>
                 <div class="flex flex-col gap-1">
                     {% for members in page.muftis.members %}
-                    <a href="{{ members.url | relative_url }}" class="text-sm font-black italic serif">{{ members.name }}</a>
+                    <a href="{{ members.url | relative_url }}" class="text-sm font-black italic serif hover:line-through">{{ members.name }}</a>
                     {% endfor %}
                 </div>
             </div>
