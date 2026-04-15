@@ -128,18 +128,6 @@
     </header>
 
     <section class="grid grid-cols-1 md:grid-cols-12 gap-12 py-24 items-start">
-        <aside class="md:col-span-3 space-y-12 sticky top-12 self-start hidden md:block">
-            <div class="border-t-2 border-black pt-4">
-                <span class="text-[10px] font-black uppercase tracking-widest text-gray-400">Index / Category</span>
-                <div class="flex flex-wrap gap-2 mt-4">
-                    {% for category in page.categories %}
-                    <a href="{{ site.baseurl }}/category/{{ category | slugize }}" class="group text-sm font-bold uppercase tracking-widest hover:text-gray-400 transition-colors">
-                        {{ category | capitalize }}<span class="ml-2 text-black group-hover:text-black">/</span>
-                    </a>
-                    {% endfor %}
-                </div>
-            </div>
-        </aside>
 
         <article class="md:col-span-8 md:col-start-5 max-w-none">
             <div class="prose prose-xl prose-black">
@@ -212,6 +200,20 @@
                 </div>
             </div>
         </article>
+
+        <aside class="md:col-span-3 space-y-12 sticky top-12 self-start md:block">
+            <div class="border-t-2 border-black pt-4">
+                <span class="text-[10px] font-black uppercase tracking-widest text-gray-400">Index / Category</span>
+                <div class="flex flex-wrap gap-2 mt-4">
+                    {% for category in page.categories %}
+                    <a href="{{ site.baseurl }}/category/{{ category | slugize }}" class="group text-sm font-bold uppercase tracking-widest hover:text-gray-400 transition-colors">
+                        {{ category | capitalize }}<span class="ml-2 text-black group-hover:text-black">/</span>
+                    </a>
+                    {% endfor %}
+                </div>
+            </div>
+        </aside>
+
     </section>
 </main>
 
