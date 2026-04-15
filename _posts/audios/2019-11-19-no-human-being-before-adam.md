@@ -1,13 +1,10 @@
 ---
-layout: post
+layout: tailwind
 title: "No human being existed before Adam"
 publisher: "alsalafiyyah@icloud.com"
-mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_637/nour_63710.mp3
-hijri: Rabi' Al-Awwal 22, 1442
+mp3: "https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_637/nour_63710.mp3"
+hijri: "Rabi' Al-Awwal 22, 1442 AH"
 date: 2019-11-19
-lang: en
-note: false
-locale: en
 active: audios
 category: [fatwas,audios,prophets]
 url: "https://binbaz.org.sa/fatwas/13216/%D9%87%D9%84-%D9%8A%D9%88%D8%AC%D8%AF-%D8%A7%D9%86%D8%B3%D8%A7%D9%86-%D9%82%D8%A8%D9%84-%D8%A7%D8%AF%D9%85-%D8%B9%D9%84%D9%8A%D9%87-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85"

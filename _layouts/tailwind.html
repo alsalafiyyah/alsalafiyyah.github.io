@@ -194,6 +194,35 @@
 
     <article class="md:col-span-8 md:col-start-5 max-w-none">
         <div class="prose prose-xl prose-black">
+            {% if page.mp3 %}
+<div class="my-12 p-8 border-4 border-black flex flex-col md:flex-row items-center gap-8">
+    <button id="play-button" class="flex-none w-16 h-16 bg-black text-white flex items-center justify-center hover:bg-gray-800 transition-colors focus:outline-none">
+        <svg id="play-icon" xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M8 5v14l11-7z" />
+        </svg>
+        <svg id="pause-icon" xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 hidden" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z" />
+        </svg>
+    </button>
+
+    <div class="flex-1 w-full">
+        <div class="flex justify-between items-end mb-2">
+            <div>
+                <span class="text-[10px] font-black uppercase tracking-[0.2em] block">Audio Version</span>
+                <h4 class="text-lg font-bold italic serif">{{ page.title }]</h4>
+            </div>
+            <span id="time-display" class="text-[10px] font-black">0:00 / 0:00</span>
+        </div>
+        
+        <div class="relative w-full h-2 bg-gray-100 cursor-pointer" id="progress-container">
+            <div id="progress-bar" class="absolute h-full bg-black w-0 transition-all duration-100"></div>
+        </div>
+    </div>
+
+    <audio id="main-audio" src="{{ page.mp3 }}"></audio>
+</div>
+            {% endif %}
+
             {{ content }}
         </div>
 
@@ -233,5 +262,73 @@
     </div>
 </footer>
 
+<script>
+    const audio = document.getElementById('main-audio');
+    const playBtn = document.getElementById('play-button');
+    const playIcon = document.getElementById('play-icon');
+    const pauseIcon = document.getElementById('pause-icon');
+    const progressBar = document.getElementById('progress-bar');
+    const progressContainer = document.getElementById('progress-container');
+    const timeDisplay = document.getElementById('time-display');
+
+    // Toggle Play/Pause
+    function togglePlay() {
+        if (audio.paused) {
+            audio.play();
+            showPauseIcon();
+        } else {
+            audio.pause();
+            showPlayIcon();
+        }
+    }
+
+    function showPlayIcon() {
+        playIcon.classList.remove('hidden');
+        pauseIcon.classList.add('hidden');
+    }
+
+    function showPauseIcon() {
+        playIcon.classList.add('hidden');
+        pauseIcon.classList.remove('hidden');
+    }
+
+    playBtn.addEventListener('click', togglePlay);
+
+    // Update Progress Bar & Time
+    audio.addEventListener('timeupdate', () => {
+        const percent = (audio.currentTime / audio.duration) * 100;
+        progressBar.style.width = percent + '%';
+        
+        updateTimeDisplay();
+    });
+
+    // FIX: Listen for when audio finishes
+    audio.addEventListener('ended', () => {
+        showPlayIcon();
+        progressBar.style.width = '0%';
+        audio.currentTime = 0; // Reset track to beginning
+        updateTimeDisplay();
+    });
+
+    // Seek Functionality
+    progressContainer.addEventListener('click', (e) => {
+        const width = progressContainer.clientWidth;
+        const clickX = e.offsetX;
+        const duration = audio.duration;
+        audio.currentTime = (clickX / width) * duration;
+    });
+
+    function updateTimeDisplay() {
+        let curMins = Math.floor(audio.currentTime / 60);
+        let curSecs = Math.floor(audio.currentTime - curMins * 60);
+        let durMins = Math.floor(audio.duration / 60) || 0;
+        let durSecs = Math.floor(audio.duration - durMins * 60) || 0;
+        
+        timeDisplay.innerText = `${curMins}:${curSecs < 10 ? '0'+curSecs : curSecs} / ${durMins}:${durSecs < 10 ? '0'+durSecs : durSecs}`;
+    }
+
+    // Initialize display on load
+    audio.addEventListener('loadedmetadata', updateTimeDisplay);
+</script>
 </body>
 </html>
