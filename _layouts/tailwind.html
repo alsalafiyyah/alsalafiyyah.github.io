@@ -129,7 +129,7 @@
 
 <section class="grid grid-cols-1 md:grid-cols-12 gap-12 py-24 items-start">
     
-    <aside class="md:block md:col-span-3 space-y-12 sticky top-12 self-start">
+    <aside class="hidden md:block md:col-span-3 space-y-12 sticky top-12 self-start">
         
         <div class="border-t-2 border-black pt-4">
             <span class="text-[10px] font-black uppercase tracking-widest text-gray-400">Index</span>
@@ -150,6 +150,15 @@
                 <div>
                     <span class="text-[9px] font-bold uppercase opacity-40 block">Chairman</span>
                     <span class="text-sm font-black italic serif">{{ chairman.name }}</span>
+                </div>
+                {% endfor %}
+            {% endif %}
+
+            {% if page.muftis.deputy_chairman %}
+                {% for deputy_chairman in page.muftis.deputy_chairman %}
+                <div>
+                    <span class="text-[9px] font-bold uppercase opacity-40 block">Deputy Chairman</span>
+                    <span class="text-sm font-black italic serif">{{ deputy_chairman.name }}</span>
                 </div>
                 {% endfor %}
             {% endif %}
@@ -193,7 +202,8 @@
                 <h5 class="text-[10px] font-black uppercase text-gray-400 mb-4">The Committee</h5>
                 <div class="text-lg font-black italic serif space-y-2">
                     {% for chairman in page.muftis.chairman %}<p>{{ chairman.name }} (Chairman)</p>{% endfor %}
-                    {% for member in page.muftis.members %}<p>{{ member.name }}</p>{% endfor %}
+                    {% for deputy_chairman in page.muftis.deputy_chairman %}<p>{{ deputy_chairman.name }} (Deputy Chairman)</p>{% endfor %}
+                    {% for member in page.muftis.members %}<p>{{ member.name }} (Member)</p>{% endfor %}
                 </div>
             </div>
             
