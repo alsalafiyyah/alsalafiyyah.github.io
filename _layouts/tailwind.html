@@ -22,10 +22,14 @@ body { font-family: 'Inter', sans-serif; }
 #question {
   font-size: 1.25rem;
   line-height: 1.75rem;
+  font-weight: 500;
+  padding-bottom: 14px;
 }
 #answer {
   font-size: 1.25rem;
   line-height: 1.75rem;
+  font-weight: 500;
+  padding-bottom: 14px;
 }
 .footnotes {
   margin-top: 18px;
@@ -36,7 +40,8 @@ body { font-family: 'Inter', sans-serif; }
 ::-webkit-scrollbar-thumb { background: black; }
     </style>
 </head>
-<body class="bg-white text-black antialiased selection:bg-black selection:text-white">
+<body itemscope itemtype="https://schema.org/WebPage" class="bg-white text-black antialiased selection:bg-black selection:text-white">
+<div itemscope itemtype="https://schema.org/WebSite">
 <nav class="flex justify-between items-center px-8 py-12 max-w-7xl mx-auto uppercase tracking-widest text-xs font-bold">
     <div class="flex flex-1 items-center gap-8">
         <div class="hidden md:flex gap-8">
@@ -84,6 +89,7 @@ body { font-family: 'Inter', sans-serif; }
         </div>
     </div>
 </nav>
+</div>
 
 <main class="max-w-7xl mx-auto px-8">
 
@@ -125,7 +131,7 @@ body { font-family: 'Inter', sans-serif; }
                 </div>
             </aside>
 
-            <article class="prose lg:prose-xl md:col-span-7 md:col-start-5 prose prose-xl max-w-none">
+            <article class="prose lg:prose-xl text-xl md:col-span-7 md:col-start-5 prose prose-xl max-w-none">
                     {{ content }}
             
 
