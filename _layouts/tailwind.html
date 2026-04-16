@@ -402,17 +402,16 @@ document.addEventListener("DOMContentLoaded", function () {
   const postsToShow = data.slice(start, end);
 
   container.innerHTML = postsToShow.map(post => `
-  <div itemscope itemtype="https://schema.org/NewsArticle" class="col mb-3 fatwas">
-    <a href="${post.url}" class="d-block mb-2">
-      <h3>${post.title}</h3>
-    </a>
-    <p class="mb-1 fst-italic">
+  <article class="group cursor-pointer">
+    <span class="text-sm font-bold uppercase tracking-widest text-gray-400 group-hover:text-black transition-colors">
+    ${post.hijri}
+    </span>
+    <h2 class="text-4xl md:text-4xl font-black mt-4 mb-8 leading-[0.9] group-hover:italic transition-all">${post.title}</h2>
+    <p class="mt-8 text-xl text-gray-600 leading-relaxed max-w-xl">
      ${post.excerpt}
     </p>
-    <div class="post-meta d-flex justify-content-between mt-0 mb-3 text-danger">
-     ${post.hijri}
-    </div>
-  </div>
+    <a href="${post.url}" class="inline-block mt-8 border-b-2 border-black pb-1 font-bold uppercase text-sm tracking-widest hover:bg-black hover:text-white transition-colors">Read Article</a>
+  </article>
   `).join("");
 
   if (totalPages > 1) {
