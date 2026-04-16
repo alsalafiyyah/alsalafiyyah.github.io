@@ -390,50 +390,59 @@
     </script>
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-  const POSTS_PER_PAGE = 20;
-  const urlParams = new URLSearchParams(window.location.search);
-  const currentPage = parseInt(urlParams.get("page")) || 1;
-  const raw = document.getElementById("fatwa-data");
-  const data = JSON.parse(raw.textContent);
-  const start = (currentPage - 1) * POSTS_PER_PAGE;
-  const end = start + POSTS_PER_PAGE;
-  const totalPages = Math.ceil(data.length / POSTS_PER_PAGE);
-  const container = document.getElementById("fatwa-container");
-  const postsToShow = data.slice(start, end);
+    const POSTS_PER_PAGE = 20;
+    const urlParams = new URLSearchParams(window.location.search);
+    const currentPage = parseInt(urlParams.get("page")) || 1;
+    
+    const raw = document.getElementById("fatwa-data");
+    const data = JSON.parse(raw.textContent);
+    
+    const totalPages = Math.ceil(data.length / POSTS_PER_PAGE);
+    const start = (currentPage - 1) * POSTS_PER_PAGE;
+    const end = start + POSTS_PER_PAGE;
+    
+    const container = document.getElementById("fatwa-container");
+    const postsToShow = data.slice(start, end);
 
-  container.innerHTML = postsToShow.map(post => `
-  <article class="group cursor-pointer">
-    <span class="text-sm font-bold uppercase tracking-widest text-gray-400 group-hover:text-black transition-colors">
-    ${post.hijri}
-    </span>
-    <h2 class="text-4xl md:text-4xl font-black mt-4 mb-8 leading-[0.9] group-hover:italic transition-all">${post.title}</h2>
-    <p class="mt-8 text-xl text-gray-600 leading-relaxed max-w-xl">
-     ${post.excerpt}
-    </p>
-    <a href="${post.url}" class="inline-block mt-8 border-b-2 border-black pb-1 font-bold uppercase text-sm tracking-widest hover:bg-black hover:text-white transition-colors">Read Article</a>
-  </article>
-  `).join("");
+    // 1. Render Posts
+    container.innerHTML = postsToShow.map(post => `
+        <article class="group cursor-pointer py-20 border-b border-gray-100 dark:border-zinc-800 last:border-0">
+            <span class="text-[10px] font-bold uppercase tracking-[0.3em] text-gray-400 group-hover:text-black dark:group-hover:text-white transition-colors">
+                ${post.hijri || ''}
+            </span>
+            <h2 class="text-4xl md:text-5xl font-black mt-4 mb-8 leading-[0.85] uppercase tracking-tighter group-hover:italic transition-all">
+                <a href="${post.url}">${post.title}</a>
+            </h2>
+            <p class="mt-8 text-xl text-gray-600 dark:text-gray-400 leading-relaxed max-w-xl">
+                ${post.excerpt}
+            </p>
+            <a href="${post.url}" class="inline-block mt-8 border-b-2 border-black dark:border-white pb-1 font-bold uppercase text-sm tracking-widest hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-colors">
+                Read Article
+            </a>
+        </article>
+    `).join("");
 
-  if (totalPages > 1) {
-    const pagination = document.createElement("nav");
-    let html = `<div class="pagination d-flex gap-2 mt-5 justify-content-center">`;
+    // 2. Handle Pagination UI
+    const prevLink = document.getElementById("prev-link");
+    const nextLink = document.getElementById("next-link");
+    const currentDisplay = document.getElementById("current-page-display");
+    const totalDisplay = document.getElementById("total-pages-display");
 
+    // Update numbers (with leading zero for style)
+    currentDisplay.textContent = currentPage < 10 ? `0${currentPage}` : currentPage;
+    totalDisplay.textContent = totalPages < 10 ? `0${totalPages}` : totalPages;
+
+    // Show/Hide Newer
     if (currentPage > 1) {
-      html += `<a href="?page=${currentPage - 1}" class="btn btn-outline-danger">Previous</a>`;
+        prevLink.classList.remove("invisible");
+        prevLink.href = `?page=${currentPage - 1}`;
     }
 
-    for (let i = 1; i <= totalPages; i++) {
-      html += `<a href="?page=${i}" class="btn ${i === currentPage ? 'btn-danger' : 'btn-outline-danger'}">${i}</a>`;
-    }
-
+    // Show/Hide Older
     if (currentPage < totalPages) {
-      html += `<a href="?page=${currentPage + 1}" class="btn btn-outline-danger">Next</a>`;
+        nextLink.classList.remove("invisible");
+        nextLink.href = `?page=${currentPage + 1}`;
     }
-
-    html += `</div>`;
-    pagination.innerHTML = html;
-    container.appendChild(pagination);
-  }
 });
 </script>
 
