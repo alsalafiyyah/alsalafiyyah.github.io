@@ -195,10 +195,11 @@
             <div>
                 <span class="text-[10px] font-black uppercase tracking-widest text-gray-400">Spread</span>
                 <div class="flex gap-4 mt-2 text-[10px] font-black uppercase underline underline-offset-4">
-                    <a href="#" class="hover:bg-black hover:text-white transition-colors"><i class="fa-brands fa-facebook-f fa-lg"></i></a>
-                    <a href="#" class="hover:bg-black hover:text-white transition-colors"><i class="fa-brands fa-x-twitter fa-lg"></i></a>
-                    <a href="#" class="hover:bg-black hover:text-white transition-colors"><i class="fa-brands fa-telegram fa-lg"></i></a>
-                    <a href="#" class="hover:bg-black hover:text-white transition-colors"><i class="fa-brands fa-whatsapp fa-lg"></i></a>
+                    <a href="https://www.facebook.com/sharer.php?u={{ site.url }}{{site.baseurl}}{{ page.url }}" class="hover:bg-black hover:text-white transition-colors"><i class="fa-brands fa-facebook-f fa-lg"></i></a>
+                    <a href="https://x.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{site.baseurl}}{{ page.url }}" class="hover:bg-black hover:text-white transition-colors"><i class="fa-brands fa-x-twitter fa-lg"></i></a>
+                    <a href="https://t.me/share/url?url={{ site.url }}{{site.baseurl}}{{ page.url }}" class="hover:bg-black hover:text-white transition-colors"><i class="fa-brands fa-telegram fa-lg"></i></a>
+                    <a href="https://wa.me/?text={{ site.url }}{{site.baseurl}}{{ page.url }}" class="hover:bg-black hover:text-white transition-colors"><i class="fa-brands fa-whatsapp fa-lg"></i></a>
+                    <a href="https://threads.net/intent/post?text={{ site.url }}{{site.baseurl}}{{ page.url }}" class="hover:bg-black hover:text-white transition-colors"><i class="fa-brands fa-threads fa-lg"></i></a>
                 </div>
             </div>
         </div>
@@ -256,10 +257,11 @@
                 <div class="text-right">
                     <h5 class="text-[10px] font-black uppercase text-gray-400 mb-1">Spread</h5>
                     <div class="flex justify-end gap-3 text-[10px] font-black uppercase underline">
-                        <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
-                        <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
-                        <a href="#"><i class="fa-brands fa-telegram"></i></a>
-                        <a href="#"><i class="fa-brands fa-whatsapp"></i></a>
+                        <a href="https://www.facebook.com/sharer.php?u={{ site.url }}{{site.baseurl}}{{ page.url }}"><i class="fa-brands fa-facebook-f"></i></a>
+                        <a href="https://x.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{site.baseurl}}{{ page.url }}"><i class="fa-brands fa-x-twitter"></i></a>
+                        <a href="https://t.me/share/url?url={{ site.url }}{{site.baseurl}}{{ page.url }}"><i class="fa-brands fa-telegram"></i></a>
+                        <a href="https://wa.me/?text={{ site.url }}{{site.baseurl}}{{ page.url }}"><i class="fa-brands fa-whatsapp"></i></a>
+                        <a href="https://threads.net/intent/post?text={{ site.url }}{{site.baseurl}}{{ page.url }}"><i class="fa-brands fa-threads"></i></a>
                     </div>
                 </div>
             </div>
