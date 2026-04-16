@@ -90,11 +90,10 @@
             </div>
 
             <div class="md:hidden">
-                <input type="checkbox" id="menu-toggle" class="hidden peer">
-                <label for="menu-toggle" class="absolute top-12 left-8 cursor-pointer">
-                    <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
-                    </svg>
+                <label for="menu-toggle" class="cursor-pointer z-50 relative">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 8h16M4 16h16" />
+                </svg>
                 </label>
                 <div class="fixed inset-0 bg-black text-white z-40 flex flex-col justify-center items-center gap-8 transition-transform duration-500 translate-x-full peer-checked:translate-x-0">
                     <a href="{{ site.url | relative_url }}" class="text-5xl font-black lowercase tracking-tighter serif italic">index</a>
@@ -102,6 +101,36 @@
                 </div>
             </div>
         </div>
+
+    <div class="flex flex-1 items-center gap-8">
+        <div class="hidden md:flex gap-8">
+            <a href="{{ site.url | relative_url }}" class="hover:line-through transition-all">Index</a>
+            <a href="{{ '/fatwas' | relative_url }}" class="hover:line-through transition-all">Fatwas</a>
+            <a href="{{ '/audios' | relative_url }}" class="hover:line-through transition-all">Audios</a>
+            <a href="{{ '/videos' | relative_url }}" class="hover:line-through transition-all">Videos</a>
+        </div>
+
+        <div class="md:hidden">
+            <input type="checkbox" id="menu-toggle" class="hidden peer">
+            <label for="menu-toggle" class="cursor-pointer z-50 relative">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 8h16M4 16h16" />
+                </svg>
+            </label>
+
+            <div class="fixed inset-0 bg-black text-white z-40 flex flex-col justify-center items-center gap-8 transition-transform duration-500 translate-x-full peer-checked:translate-x-0">
+                <label for="menu-toggle" class="absolute top-12 left-8 cursor-pointer">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                    </svg>
+                </label>
+                <a href="{{ site.url | relative_url }}" class="text-5xl font-black lowercase tracking-tighter serif italic">index</a>
+                <a href="{{ '/fatwas' | relative_url }}" class="hover:line-through transition-all">Fatwas</a>
+                <a href="{{ '/audios' | relative_url }}" class="hover:line-through transition-all">Audios</a>
+                <a href="{{ '/videos' | relative_url }}" class="hover:line-through transition-all">Videos</a>
+            </div>
+        </div>
+    </div>
 
         <div class="flex-none">
             <a href="{{ site.url | relative_url }}" class="text-3xl lowercase font-black tracking-tighter leading-none relative z-10">
@@ -273,8 +302,8 @@
 <footer class="border-t-4 border-black bg-white text-black dark:border-white dark:bg-zinc-950 dark:text-white py-12 px-8 max-w-7xl mx-auto flex justify-between items-center text-[10px] font-black uppercase tracking-[0.2em] transition-colors duration-300">
     <p>&copy; {{ "now" | date: "%Y" }} {{ site.title }}</p>
     <div class="flex items-center gap-8">
-        <a href="#" class="hover:line-through">Instagram</a>
-        
+        <a href="#" class="hover:line-through transition-all">Instagram</a>
+        <a href="{{ '/about' | relative_url }}" class="hover:line-through transition-all">About</a>
         <button id="theme-toggle" type="button" class="text-black dark:text-white hover:opacity-50 transition-opacity focus:outline-none">
             <svg id="theme-toggle-dark-icon" class="hidden w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
                 <path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z"></path>
