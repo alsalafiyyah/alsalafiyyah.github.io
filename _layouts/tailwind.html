@@ -390,7 +390,7 @@
     </script>
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-    const POSTS_PER_PAGE = 20;
+    const POSTS_PER_PAGE = 10;
     const urlParams = new URLSearchParams(window.location.search);
     const currentPage = parseInt(urlParams.get("page")) || 1;
     
@@ -406,17 +406,17 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // 1. Render Posts
     container.innerHTML = postsToShow.map(post => `
-        <article class="group cursor-pointer py-20 border-b border-gray-100 dark:border-zinc-800 last:border-0">
+        <article class="group cursor-pointer py-10 border-b border-gray-100 dark:border-zinc-800 last:border-0">
             <span class="text-[10px] font-bold uppercase tracking-[0.3em] text-gray-400 group-hover:text-black dark:group-hover:text-white transition-colors">
                 ${post.hijri || ''}
             </span>
-            <h2 class="text-4xl md:text-5xl font-black mt-4 mb-8 leading-[0.85] uppercase tracking-tighter group-hover:italic transition-all">
+            <h2 class="text-4xl md:text-5xl font-black mt-4 mb-6 leading-[0.85] uppercase tracking-tighter group-hover:italic transition-all">
                 <a href="${post.url}">${post.title}</a>
             </h2>
-            <p class="mt-8 text-xl text-gray-600 dark:text-gray-400 leading-relaxed max-w-xl">
+            <p class="mt-6 text-xl text-gray-600 dark:text-gray-400 leading-relaxed max-w-xl">
                 ${post.excerpt}
             </p>
-            <a href="${post.url}" class="inline-block mt-8 border-b-2 border-black dark:border-white pb-1 font-bold uppercase text-sm tracking-widest hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-colors">
+            <a href="${post.url}" class="inline-block mt-4 border-b-2 border-black dark:border-white pb-1 font-bold uppercase text-sm tracking-widest hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-colors">
                 Read Article
             </a>
         </article>
