@@ -66,17 +66,19 @@
         hr { border: none; border-top: 2px solid black; margin: 3rem 0; }
     </style>
 </head>
-<body class="bg-white dark:bg-zinc-950 dark:text-zinc-100 text-black antialiased selection:bg-black selection:text-white dark:selection:bg-white dark:selection:text-black transition-colors duration-300">
-
-<header class="border-b border-gray-100">
-    <nav class="flex justify-between items-center px-8 py-12 max-w-7xl mx-auto uppercase tracking-widest text-xs font-bold">
+<body itemscope itemtype="https://schema.org/WebPage" class="bg-white dark:bg-zinc-950 dark:text-zinc-100 text-black antialiased selection:bg-black selection:text-white dark:selection:bg-white dark:selection:text-black transition-colors duration-300">
+<div itemscope itemtype="https://schema.org/WebSite">
+<meta itemprop="url" content="https://example.com/"/>
+<header itemscope itemtype="https://schema.org/WPHeader" class="border-b border-gray-100">
+    
+    <nav itemscope itemtype="https://schema.org/SiteNavigationElement" aria-label="Main Navigation" class="flex justify-between items-center px-8 py-12 max-w-7xl mx-auto uppercase tracking-widest text-xs font-bold">
 
     <div class="flex flex-1 items-center gap-8">
         <div class="hidden md:flex gap-8">
-            <a href="{{ site.url | relative_url }}" class="hover:line-through transition-all">Index</a>
-            <a href="{{ '/fatwas' | relative_url }}" class="hover:line-through transition-all">Fatwas</a>
-            <a href="{{ '/audios' | relative_url }}" class="hover:line-through transition-all">Audios</a>
-            <a href="{{ '/videos' | relative_url }}" class="hover:line-through transition-all">Videos</a>
+            <a itemprop="url" href="{{ site.url | relative_url }}" class="hover:line-through transition-all"><span itemprop="name">Index</span></a>
+            <a itemprop="url" href="{{ '/fatwas' | relative_url }}" class="hover:line-through transition-all"><span itemprop="name">Fatwas</span></a>
+            <a itemprop="url" href="{{ '/audios' | relative_url }}" class="hover:line-through transition-all"><span itemprop="name">Audios</span></a>
+            <a itemprop="url" href="{{ '/videos' | relative_url }}" class="hover:line-through transition-all"><span itemprop="name">Videos</span></a>
         </div>
 
         <div class="md:hidden">
@@ -93,41 +95,42 @@
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
                     </svg>
                 </label>
-                <a href="{{ site.url | relative_url }}" class="text-4xl font-black lowercase tracking-tighter serif italic hover:line-through transition-all">index</a>
-                <a href="{{ '/fatwas' | relative_url }}" class="text-4xl font-black lowercase tracking-tighter serif italic hover:line-through transition-all">Fatwas</a>
-                <a href="{{ '/audios' | relative_url }}" class="text-4xl font-black lowercase tracking-tighter serif italic hover:line-through transition-all">Audios</a>
-                <a href="{{ '/videos' | relative_url }}" class="text-4xl font-black lowercase tracking-tighter serif italic hover:line-through transition-all">Videos</a>
+                <a itemprop="url" href="{{ site.url | relative_url }}" class="text-4xl font-black lowercase tracking-tighter serif italic hover:line-through transition-all"><span itemprop="name">Index</span></a>
+                <a itemprop="url" href="{{ '/fatwas' | relative_url }}" class="text-4xl font-black lowercase tracking-tighter serif italic hover:line-through transition-all"><span itemprop="name">Fatwas</span></a>
+                <a itemprop="url" href="{{ '/audios' | relative_url }}" class="text-4xl font-black lowercase tracking-tighter serif italic hover:line-through transition-all"><span itemprop="name">Audios</span></a>
+                <a itemprop="url" href="{{ '/videos' | relative_url }}" class="text-4xl font-black lowercase tracking-tighter serif italic hover:line-through transition-all"><span itemprop="name">Videos</span></a>
             </div>
         </div>
     </div>
 
         <div class="flex-none">
-            <a href="{{ site.url | relative_url }}" class="text-3xl lowercase font-black tracking-tighter leading-none relative z-10">
-                {{ site.title }}
+            <a itemprop="url" href="{{ site.url | relative_url }}" class="text-3xl lowercase font-black tracking-tighter leading-none relative z-10">
+                <span itemprop="name">{{ site.title }}</span>
             </a>
         </div>
 
-        <div class="flex flex-1 justify-end">
-            <form action="{{ '/search' | relative_url }}" method="get" class="relative flex items-center group">
+        <div role="search" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction" class="flex flex-1 justify-end">
+            <form itemprop="target" action="{{ '/search' | relative_url }}" method="get" class="relative flex items-center group">
+                <meta itemprop="urlTemplate" content="{{ '/search' | relative_url }}?q={search_term_string}"/>
                 <label for="search-input" class="cursor-pointer">
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 md:h-3 md:w-3 opacity-40 group-focus-within:opacity-100 transition-opacity" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
                     </svg>
                 </label>
-                <input id="search-input" type="search" name="q" placeholder="SEARCH..." 
+                <input itemprop="query-input" id="search-input" type="search" name="q" placeholder="SEARCH..." 
                     class="bg-transparent border-b border-gray-200 focus:border-black outline-none transition-all duration-300 w-0 focus:w-32 ml-2 md:ml-6 md:w-32 md:focus:w-48 text-[10px] py-1">
             </form>
         </div>
 
     </nav>
 </header>
-
-<main class="max-w-7xl mx-auto px-8">
+</div>
+<main role="main" {% if page.layout == 'post' %}itemscope itemtype="https://schema.org/BlogPosting" {% else %} itemscope itemtype="https://schema.org/Blog" {% endif %} class="max-w-7xl mx-auto px-8">
     <header class="py-12 border-b-4 border-black dark:border-white">
         <div class="flex flex-col md:flex-row md:items-end justify-between gap-8">
             <div class="max-w-4xl">
                 <a href="{{ site.url | relative_url }}" class="text-sm font-black uppercase tracking-widest border-b-2 border-black pb-1 hover:line-through"><i class="fa-solid fa-arrow-left"></i> Take me home</a>
-                <h1 class="text-5xl md:text-[5vw] leading-[0.9] font-black uppercase tracking-tighter serif mt-8">
+                <h1 itemprop="headline" class="text-5xl md:text-[5vw] leading-[0.9] font-black uppercase tracking-tighter serif mt-8">
                     {{ page.title }}
                 </h1>
             </div>
@@ -140,7 +143,7 @@
 
 <section class="grid grid-cols-1 md:grid-cols-12 gap-12 py-24 items-start">
     
-    <aside class="hidden md:block md:col-span-3 space-y-12 sticky top-12 self-start">
+    <aside itemscope itemtype="https://schema.org/WPSideBar" class="hidden md:block md:col-span-3 space-y-12 sticky top-12 self-start">
         
         <div class="border-t-2 border-black pt-4 dark:border-white">
             <span class="text-[10px] font-black uppercase tracking-widest text-gray-400">Index</span>
@@ -270,10 +273,15 @@
 
 </section>
 </main>
-<footer class="border-t-4 border-black bg-white text-black dark:border-white dark:bg-zinc-950 dark:text-white py-12 px-8 max-w-7xl mx-auto flex justify-between items-center text-[10px] font-black uppercase tracking-[0.2em] transition-colors duration-300">
-    <p>&copy; {{ "now" | date: "%Y" }} {{ site.title }}</p>
+<footer itemscope itemtype="https://schema.org/WPFooter" class="border-t-4 border-black bg-white text-black dark:border-white dark:bg-zinc-950 dark:text-white py-12 px-8 max-w-7xl mx-auto flex justify-between items-center text-[10px] font-black uppercase tracking-[0.2em] transition-colors duration-300">
+  <div itemscope itemtype="https://schema.org/Organization">
+    <p>
+        &copy; {{ "now" | date: "%Y" }} <span itemprop="name">{{ site.title }}</span>
+        <meta itemprop="url" content="{{ site.url }}">
+        <link itemprop="logo" href="/assets/images/logo.jpg">
+    </p>
     <div class="flex items-center gap-8">
-        <a href="https://instagram.com/alsalafiyyah" target="_blank" class="hover:line-through transition-all">Instagram</a>
+        <a itemprop="sameAs" href="https://instagram.com/alsalafiyyah" target="_blank" class="hover:line-through transition-all">Instagram</a>
         <a href="{{ '/about' | relative_url }}" class="hover:line-through transition-all">About</a>
         <button id="theme-toggle" type="button" class="text-black dark:text-white hover:opacity-50 transition-opacity focus:outline-none">
             <svg id="theme-toggle-dark-icon" class="hidden w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
@@ -284,6 +292,7 @@
             </svg>
         </button>
     </div>
+  </div>
 </footer>
 {% if page.active == 'audios' %}
 <script>
