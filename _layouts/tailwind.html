@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title | default: site.title | escape }}</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&family=Playfair+Display:ital,wght@0,900;1,900&display=swap" rel="stylesheet">
     <style>
@@ -204,9 +205,10 @@
             <div>
                 <span class="text-[10px] font-black uppercase tracking-widest text-gray-400">Spread</span>
                 <div class="flex gap-4 mt-2 text-[10px] font-black uppercase underline underline-offset-4">
-                    <a href="#" class="hover:bg-black hover:text-white transition-colors">Fb</a>
-                    <a href="#" class="hover:bg-black hover:text-white transition-colors">Tg</a>
-                    <a href="#" class="hover:bg-black hover:text-white transition-colors">Tw</a>
+                    <a href="#" class="hover:bg-black hover:text-white transition-colors"><i class="fa-brands fa-facebook-f"></i></a>
+                    <a href="#" class="hover:bg-black hover:text-white transition-colors"><i class="fa-brands fa-x-twitter"></i></a>
+                    <a href="#" class="hover:bg-black hover:text-white transition-colors"><i class="fa-brands fa-telegram"></i></a>
+                    <a href="#" class="hover:bg-black hover:text-white transition-colors"><i class="fa-brands fa-whatsapp"></i></a>
                 </div>
             </div>
         </div>
@@ -264,7 +266,10 @@
                 <div class="text-right">
                     <h5 class="text-[10px] font-black uppercase text-gray-400 mb-1">Spread</h5>
                     <div class="flex justify-end gap-3 text-[10px] font-black uppercase underline">
-                        <a href="#">Fb</a><a href="#">Tg</a><a href="#">Tw</a>
+                        <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                        <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+                        <a href="#"><i class="fa-brands fa-x-telegram"></i></a>
+                        <a href="#"><i class="fa-brands fa-whatsapp"></i></a>
                     </div>
                 </div>
             </div>
