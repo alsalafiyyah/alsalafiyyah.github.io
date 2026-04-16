@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" theme="light">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,9 +8,6 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&family=Playfair+Display:ital,wght@0,900;1,900&display=swap" rel="stylesheet">
     <style>
-        tailwind.config = {
-          darkMode: 'class'
-        }
         body { font-family: 'Inter', sans-serif; }
         .serif { font-family: 'Playfair Display', serif; }
         /* Custom scrollbar */
@@ -69,14 +66,6 @@
         }
 
         hr { border: none; border-top: 2px solid black; margin: 3rem 0; }
- <script>
-    // On page load or when changing themes, best to add inline in `head` to avoid FOUC
-    if (localStorage.getItem('theme') === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-        document.documentElement.classList.add('dark');
-    } else {
-        document.documentElement.classList.remove('dark');
-    }
-</script>
     </style>
 </head>
 <body class="bg-white text-black antialiased selection:bg-black selection:text-white">
@@ -348,32 +337,5 @@
     audio.addEventListener('loadedmetadata', updateTimeDisplay);
 </script>
 {% endif %}
-<script>
-const themeToggleDarkIcon = document.getElementById('theme-toggle-dark-icon');
-const themeToggleLightIcon = document.getElementById('theme-toggle-light-icon');
-const themeToggleBtn = document.getElementById('theme-toggle');
-
-// Change the icons based on current theme
-if (document.documentElement.classList.contains('dark')) {
-    themeToggleLightIcon.classList.remove('hidden');
-} else {
-    themeToggleDarkIcon.classList.remove('hidden');
-}
-
-themeToggleBtn.addEventListener('click', function() {
-    // Toggle icons
-    themeToggleDarkIcon.classList.toggle('hidden');
-    themeToggleLightIcon.classList.toggle('hidden');
-
-    // If is dark mode
-    if (document.documentElement.classList.contains('dark')) {
-        document.documentElement.classList.remove('dark');
-        localStorage.setItem('theme', 'light');
-    } else {
-        document.documentElement.classList.add('dark');
-        localStorage.setItem('theme', 'dark');
-    }
-});
-</script>
 </body>
 </html>
