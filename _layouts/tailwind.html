@@ -156,6 +156,13 @@
                     {{ category | capitalize }}<span class="ml-2 text-black group-hover:text-black">/</span>
                 </a>
                 {% endfor %}
+                {% for category in site.categories %}
+                 {% capture category_name %}{{ category | first }}{% endcapture %}
+                 <a href="{{ site.baseurl }}/category/{{ category_name | slugify }}" class="group text-sm font-bold uppercase tracking-widest hover:text-gray-400 transition-colors">
+                    {{ category_name }} ({{ site.categories[category_name].size }})
+                </a>
+                {% endfor %}
+
             </div>
         </div>
 
