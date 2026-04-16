@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" theme="light">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -91,9 +91,9 @@
 
             <div class="md:hidden">
                 <input type="checkbox" id="menu-toggle" class="hidden peer">
-                <label for="menu-toggle" class="cursor-pointer z-50 relative">
-                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 8h16M4 16h16" />
+                <label for="menu-toggle" class="absolute top-12 left-8 cursor-pointer">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
                     </svg>
                 </label>
                 <div class="fixed inset-0 bg-black text-white z-40 flex flex-col justify-center items-center gap-8 transition-transform duration-500 translate-x-full peer-checked:translate-x-0">
@@ -119,14 +119,6 @@
                 <input id="search-input" type="search" name="q" placeholder="SEARCH..." 
                     class="bg-transparent border-b border-gray-200 focus:border-black outline-none transition-all duration-300 w-0 focus:w-32 ml-2 md:ml-6 md:w-32 md:focus:w-48 text-[10px] py-1">
             </form>
-<button id="theme-toggle" class="p-2 ml-4 hover:bg-gray-100 dark:hover:bg-zinc-800 transition-colors rounded-full">
-    <svg id="theme-toggle-light-icon" class="hidden w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
-        <path d="M10 2a1 1 0 011 1v1a1 1 0 11-2 0V3a1 1 0 011-1zm4 8a4 4 0 11-8 0 4 4 0 018 0zm-.464 4.95l.707.707a1 1 0 001.414-1.414l-.707-.707a1 1 0 00-1.414 1.414zm2.12-10.607a1 1 0 010 1.414l-.706.707a1 1 0 11-1.414-1.414l.707-.707a1 1 0 011.414 0zM17 11a1 1 0 100-2h-1a1 1 0 100 2h1zm-7 4a1 1 0 011 1v1a1 1 0 11-2 0v-1a1 1 0 011-1zM5.05 6.464A1 1 0 106.465 5.05l-.708-.707a1 1 0 00-1.414 1.414l.707.707zm1.414 8.486l-.707.707a1 1 0 01-1.414-1.414l.707-.707a1 1 0 011.414 1.414zM4 11a1 1 0 100-2H3a1 1 0 000 2h1z"></path>
-    </svg>
-    <svg id="theme-toggle-dark-icon" class="hidden w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
-        <path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z"></path>
-    </svg>
-</button>
         </div>
 
     </nav>
@@ -136,7 +128,7 @@
     <header class="py-12 border-b-4 border-black">
         <div class="flex flex-col md:flex-row md:items-end justify-between gap-8">
             <div class="max-w-4xl">
-                <a href="{{ site.url | relative_url }}" class="text-sm font-black uppercase tracking-widest border-b-2 border-black pb-1 hover:line-through">← Take me home</a>
+                <a href="{{ site.url | relative_url }}" class="text-sm font-black uppercase tracking-widest border-b-2 border-black pb-1 hover:line-through"><i class="fa-solid fa-arrow-left"></i> Take me home</a>
                 <h1 class="text-5xl md:text-[5vw] leading-[0.9] font-black uppercase tracking-tighter serif mt-8">
                     {{ page.title }}
                 </h1>
