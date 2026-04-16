@@ -259,12 +259,19 @@
 
 </section>
 </main>
-
-<footer class="border-t-4 border-black py-12 px-8 max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center text-[10px] font-black uppercase tracking-[0.2em]">
+<footer class="border-t-4 border-black bg-white text-black dark:border-white dark:bg-zinc-950 dark:text-white py-12 px-8 max-w-7xl mx-auto flex justify-between items-center text-[10px] font-black uppercase tracking-[0.2em] transition-colors duration-300">
     <p>&copy; {{ "now" | date: "%Y" }} {{ site.title }}</p>
-    <div class="flex gap-8 mt-4 md:mt-0">
-        <a href="#" class="hover:line-through">Telegram</a>
-        <a href="https://instagram.com/" class="hover:line-through" target="_blank">Instagram</a>
+    <div class="flex items-center gap-8">
+        <a href="#" class="hover:line-through">Instagram</a>
+        
+        <button id="theme-toggle" type="button" class="text-black dark:text-white hover:opacity-50 transition-opacity focus:outline-none">
+            <svg id="theme-toggle-dark-icon" class="hidden w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                <path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z"></path>
+            </svg>
+            <svg id="theme-toggle-light-icon" class="hidden w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                <path d="M10 2a1 1 0 011 1v1a1 1 0 11-2 0V3a1 1 0 011-1zm4 8a4 4 0 11-8 0 4 4 0 018 0zm-.464 4.95l.707.707a1 1 0 001.414-1.414l-.707-.707a1 1 0 00-1.414 1.414zm2.12-10.607a1 1 0 010 1.414l-.706.707a1 1 0 11-1.414-1.414l.707-.707a1 1 0 011.414 0zM17 11a1 1 0 100-2h-1a1 1 0 100 2h1zm-7 4a1 1 0 011 1v1a1 1 0 11-2 0v-1a1 1 0 011-1zM5.05 6.464A1 1 0 106.465 5.05l-.708-.707a1 1 0 00-1.414 1.414l.707.707zm1.414 8.486l-.707.707a1 1 0 01-1.414-1.414l.707-.707a1 1 0 011.414 1.414zM4 11a1 1 0 100-2H3a1 1 0 000 2h1z"></path>
+            </svg>
+        </button>
     </div>
 </footer>
 {% if page.active == 'audios' %}
