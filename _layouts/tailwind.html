@@ -150,7 +150,7 @@
     
     <aside itemscope itemtype="https://schema.org/WPSideBar" class="hidden md:block md:col-span-3 space-y-12 sticky top-12 self-start">
 
-<div class="border-t-2 border-black dark:border-white pt-4">
+ <div class="border-t-2 border-black dark:border-white pt-4">
     <span class="text-[10px] font-black uppercase tracking-widest text-gray-400 block mb-4">Categories</span>
     <div class="relative group">
         <select 
@@ -174,56 +174,6 @@
     </div>
 </div>
 
-        <div class="border-t-2 border-black pt-4 space-y-6 dark:border-white">
-            <span class="text-[10px] font-black uppercase tracking-widest text-gray-400">The Committee</span>
-            
-            {% if page.muftis.chairman %}
-                {% for chairman in page.muftis.chairman %}
-                <div>
-                    <span class="text-[9px] font-bold uppercase opacity-40 block">Chairman</span>
-                    <span class="text-sm font-black italic serif">{{ chairman.name }}</span>
-                </div>
-                {% endfor %}
-            {% endif %}
-
-            {% if page.muftis.deputy_chairman %}
-                {% for deputy_chairman in page.muftis.deputy_chairman %}
-                <div>
-                    <span class="text-[9px] font-bold uppercase opacity-40 block">Deputy Chairman</span>
-                    <span class="text-sm font-black italic serif">{{ deputy_chairman.name }}</span>
-                </div>
-                {% endfor %}
-            {% endif %}
-
-            {% if page.muftis.members %}
-                <div>
-                    <span class="text-[9px] font-bold uppercase opacity-40 block">Members</span>
-                    <div class="flex flex-col gap-1">
-                        {% for member in page.muftis.members %}
-                        <span class="text-sm font-black italic serif">{{ member.name }}</span>
-                        {% endfor %}
-                    </div>
-                </div>
-            {% endif %}
-        </div>
-
-        <div class="border-t-2 border-black pt-4 space-y-6 dark:border-white">
-            <div>
-                <span class="text-[10px] font-black uppercase tracking-widest text-gray-400">Reference</span>
-                <p class="text-xs font-bold leading-tight mt-2">{{ page.source | default: "Archive" }}</p>
-            </div>
-            
-            <div>
-                <span class="text-[10px] font-black uppercase tracking-widest text-gray-400">Spread</span>
-                <div class="flex gap-4 mt-2 text-[10px] font-black uppercase underline underline-offset-4">
-                    <a href="https://www.facebook.com/sharer.php?u={{ site.url }}{{site.baseurl}}{{ page.url }}" class="hover:bg-black hover:text-white transition-colors"><i class="fa-brands fa-facebook-f fa-lg"></i></a>
-                    <a href="https://x.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{site.baseurl}}{{ page.url }}" class="hover:bg-black hover:text-white transition-colors"><i class="fa-brands fa-x-twitter fa-lg"></i></a>
-                    <a href="https://t.me/share/url?url={{ site.url }}{{site.baseurl}}{{ page.url }}" class="hover:bg-black hover:text-white transition-colors"><i class="fa-brands fa-telegram fa-lg"></i></a>
-                    <a href="https://wa.me/?text={{ site.url }}{{site.baseurl}}{{ page.url }}" class="hover:bg-black hover:text-white transition-colors"><i class="fa-brands fa-whatsapp fa-lg"></i></a>
-                    <a href="https://threads.net/intent/post?text={{ site.url }}{{site.baseurl}}{{ page.url }}" class="hover:bg-black hover:text-white transition-colors"><i class="fa-brands fa-threads fa-lg"></i></a>
-                </div>
-            </div>
-        </div>
     </aside>
 
     <article class="md:col-span-8 md:col-start-5 max-w-none">
@@ -260,9 +210,9 @@
             {{ content }}
         </div>
 
-        <div class="md:hidden mt-20 pt-12 border-t-4 border-black space-y-10">
+        <div class="mt-20 pt-12 border-t-4 border-black space-y-10">
             <div>
-                <h5 class="text-[10px] font-black uppercase text-gray-400 mb-4">The Committee</h5>
+                <h5 class="text-[10px] font-black uppercase text-gray-400 mb-4">Muftis</h5>
                 <div class="text-lg font-black italic serif space-y-2">
                     {% for chairman in page.muftis.chairman %}<p>{{ chairman.name }} (Chairman)</p>{% endfor %}
                     {% for deputy_chairman in page.muftis.deputy_chairman %}<p>{{ deputy_chairman.name }} (Deputy Chairman)</p>{% endfor %}
