@@ -103,17 +103,19 @@ Allah Ta'ala says: ***“Allah does not forbid you to deal justly and kindly wit
 
 **(1).** Clarity: To present the pure teachings of Islam, rooted in Tawheed and the authentic Sunnah.
 
-**(2).** Education: To provide a remedy for ignorance by promoting the pursuit of sacred knowledge. We uphold the Prophetic principle that the cure for ignorance is to ask and to learn, fulfilling the obligation of knowledge-seeking upon every Muslim. 
+**(2).** Education: To provide a remedy for ignorance by promoting the pursuit of knowledge. We uphold the Prophetic principle that the cure for ignorance is to ask and to learn, fulfilling the obligation of knowledge-seeking upon every Muslim. 
 
 The Prophet ﷺ said: **“Seeking knowledge is an obligation upon every Muslim.”** [^13]
+
+**(3).** Cultivating Scholarly Inquiry: To eradicate ignorance by encouraging the community to refer back to the people of knowledge.
 
 And he ﷺ said, **“Verily, the only cure for ignorance is to ask questions.”** [^14]
 
 Allah Ta'ala says: **“So ask those who possess knowledge if you do not know”** (Quran, an-Nahl [16]:43)
 
-**(3).** Awareness: To awaken a deeper understanding of the Islamic mission within the hearts of the Ummah.
+**(4).** Awareness: To awaken a deeper understanding of the Islamic mission within the hearts of the Ummah.
 
-**(4).** Preservation: To safeguard the religion by refuting falsehoods and warning against distortions and bid’ah (innovations) that deviate from the Prophetic path. 
+**(5).** Preservation: To safeguard the religion by refuting falsehoods and warning against distortions and bid’ah (innovations) that deviate from the Prophetic path. 
 
 **Finally**, We ask Allah, the Most High, to grant us success and to keep us steadfast upon the truth and the path of guidance. We pray that He allows us to remain firm in our adherence to His religion until we meet Him. May the peace and blessings of Allah be upon our Prophet Muhammad, and upon his family and all of his companions.
 
