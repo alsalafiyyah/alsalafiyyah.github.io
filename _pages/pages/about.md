@@ -95,7 +95,7 @@ Allah Ta'ala says: ***“Allah does not forbid you to deal justly and kindly wit
 
 **(21).** We affirm our belief in the descent of ‘Isa ibn Maryam (Jesus, son of Mary, peace be upon him) toward the end of time. We believe he will return as a just ruler, following the Law of Muhammad (ﷺ), and will ultimately slay the Dajjal (the False Messiah), as established in the authentic Prophetic narrations.
 
-**(22.)** 
+**(22.)** We reject all sects, parties, and movements that deviate from the clear path of the Qur’an and the Sunnah. This includes groups such as the Shi’a, the various orders of Sufism, and other sects whose core tenets and practices contradict the foundational teachings of Islam. We believe that true unity is only achieved by adhering strictly to the way of the Prophet (ﷺ) and his Companions.
 
 ***“Verily, those who divide their religion and break up into sects (all kinds of religious sects), you (O Muhammad) have no concern in them in the least. Their affair is only with Allah, Who then will tell them what they used to do”** (Quran, al-An‘am [6]:159)*
 
