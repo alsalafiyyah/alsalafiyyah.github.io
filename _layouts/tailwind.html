@@ -156,13 +156,31 @@
                     {{ category | capitalize }}<span class="ml-2 text-black group-hover:text-black">/</span>
                 </a>
                 {% endfor %}
-                {% for category in site.categories %}
-                 {% capture category_name %}{{ category | first }}{% endcapture %}
-                 <a href="{{ site.baseurl }}/category/{{ category_name | slugify }}" class="group text-sm font-bold uppercase tracking-widest hover:text-gray-400 transition-colors">
-                    {{ category_name }} ({{ site.categories[category_name].size }})
-                </a>
-                {% endfor %}
 
+<div class="border-t-2 border-black dark:border-white pt-4">
+    <span class="text-[10px] font-black uppercase tracking-widest text-gray-400 block mb-4">Jump to Category</span>
+    
+    <div class="relative group">
+        <select 
+            onchange="window.location.href=this.value" 
+            class="w-full bg-transparent border-2 border-black dark:border-white px-4 py-3 text-[10px] font-black uppercase tracking-widest appearance-none cursor-pointer focus:bg-black focus:text-white dark:focus:bg-white dark:focus:text-black transition-all outline-none"
+        >
+            <option value="" disabled selected>Select Category</option>
+            {% for category in site.categories %}
+                {% capture category_name %}{{ category | first }}{% endcapture %}
+                <option value="{{ site.baseurl }}/category/{{ category_name | slugify }}">
+                    {{ category_name }} ({{ site.categories[category_name].size }})
+                </option>
+            {% endfor %}
+        </select>
+        
+        <div class="absolute right-4 top-1/2 -translate-y-1/2 pointer-events-none">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-3 w-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M19 9l-7 7-7-7" />
+            </svg>
+        </div>
+    </div>
+</div>
             </div>
         </div>
 
