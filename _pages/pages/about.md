@@ -3,7 +3,7 @@ layout: tailwind
 title: About
 date: 2019-03-07
 hijri: 30 Jumada al-Thani 1440
-excerpt: "This website promotes the ‘aqidah of Ahlus-Sunnah wal-Jama‘ah or the ‘aqidah of the righteous Salaf (early generations of Islam)."
+excerpt: "Our content is rooted in the authentic ‘aqidah of Ahlus-Sunnah wal-Jama‘ah. We strive to preserve and share the creed as understood and practiced by the first generations of Muslims (the Salaf)."
 permalink: /about/
 ---
 
@@ -11,24 +11,23 @@ All praise be to Allah, The Lord of the worlds. And I testify that there is none
 
 ### Our Methodology
 
-This website promotes the ‘aqidah of Ahlus-Sunnah wal-Jama‘ah or the ‘aqidah of the righteous Salaf (early generations of Islam).
+Our content is rooted in the authentic ‘aqidah (creed) of Ahlus-Sunnah wal-Jama‘ah. We strive to preserve and share the creed as understood and practiced by the first generations of Muslims (the Salaf).
 
----
 ### Our ‘Aqidah
 
-**(1)**. The first and foremost, we believe in Allah and the oneness of Allah, and we do not worship anyone but Allah alone, and we worship Him in the way that He prescribed. And we testify that ***there is none worthy of worship except Allah, and that Muhammad (ﷺ) is His slave and Messenger.[^1]***
+**(1)**. First and foremost, we uphold the Tawheed (Oneness) of Allah. Our worship is dedicated solely to Him, performed in the manner He has legislated, and we solemnly bear witness that **there is none worthy of worship except Allah, and that Muhammad (ﷺ) is His bondman and Messenger.[^1]**
 
 ***“That is Allah, your Lord, the Creator of all things, Laa ilaaha illa Huwa (none has the right to be worshipped but He).”** (Quran, Ghafir [40]:62).*
 
-**(2).** We believe the Qur’an is [the Words of Allah](https://alsalafiyyah.github.io/the-quran-is-the-word-of-allah/), and is not created. Whoever states that the Qur’an is created is a kafir (disbeliever).
+**(2).** We believe [the Qur’an is the Speech of Allah and is not created](https://alsalafiyyah.github.io/the-quran-is-the-word-of-allah/). Consistent with the consensus of Ahlus-Sunnah, anyone who claims the Qur’an is created has strayed into disbelief.
 
-**(3).** We hold that the authentic Sunnah is revelation from Allah, and whether everything uttered by Prophet ﷺ is considered revelation. 
+**(3).** We believe the authentic Sunnah is revelation sent down by Allah. We uphold that the Prophet ﷺ was guided by revelation in all matters of religion, fulfilling the Quranic truth that "he does not speak of his own inclination."
 
 Allah Ta'ala says in His Book: ***“By the star when it goes down (or vanishes). Your companion (Muhammad) has neither gone astray nor has erred. Nor does he speak of (his own) desire. It is only a Revelation revealed”** (Quran, an-Najm [53]:1-4)*
 
 The Prophet ﷺ said: ***“Verily I have been given the Quran and something similar to it along with it.”*** [^2]
 
-**(4).** We hold that following the Sunnah of Prophet ﷺ is obligatory. Allah says: ***“O you who believe! Obey Allah and obey the Messenger”** (Quran, an-Nisa’ [4]:59)*
+**(4).** We hold that adherence to the authentic Sunnah is mandatory, as obedience to the Messenger (ﷺ) is inseparable from obedience to Allah. Allah explicitly commands us: **“O you who believe! Obey Allah and obey the Messenger”** (Quran, an-Nisa’ [4]:59). We take his guidance as the final authority.
 
 The Prophet ﷺ said in his Farewell Sermon: ***“I am leaving behind among you something which, if you adhere to it, you will not go astray after that. It is the Book of Allah (Quran) and my Sunnah.”*** [^3]
 
@@ -100,7 +99,6 @@ Allah Ta'ala says: ***“Allah does not forbid you to deal justly and kindly wit
 
 ***“Verily, those who divide their religion and break up into sects (all kinds of religious sects), you (O Muhammad) have no concern in them in the least. Their affair is only with Allah, Who then will tell them what they used to do”** (Quran, al-An‘am [6]:159)*
 
----
 ### Our Aims
 
 **(1).** To spread Islamic Monotheism, Prophetic Sunnah, and presenting the pure Islamic teachings. 
