@@ -150,6 +150,24 @@
     
     <aside itemscope itemtype="https://schema.org/WPSideBar" class="hidden md:block md:col-span-3 space-y-12 sticky top-12 self-start">
 
+<div class="border-t-2 border-black dark:border-white pt-4">
+    <span class="text-[10px] font-black uppercase tracking-widest text-gray-400 block mb-6">Latest Insights</span>
+    
+    <div class="space-y-8">
+        {% for post in site.posts limit:3 %}
+        <a href="{{ post.url | relative_url }}" class="group block">
+            <span class="text-[9px] font-bold uppercase tracking-widest opacity-40 group-hover:opacity-100 transition-opacity">
+                {{ post.hijri | default: (post.date | date: "%d %b %Y") }}
+            </span>
+            
+            <h4 class="text-sm font-black leading-tight uppercase mt-1 group-hover:bg-black group-hover:text-white dark:group-hover:bg-white dark:group-hover:text-black transition-all p-1 -ml-1">
+                {{ post.title }}
+            </h4>
+        </a>
+        {% endfor %}
+    </div>
+</div>
+
  <div class="border-t-2 border-black dark:border-white pt-4">
     <span class="text-[10px] font-black uppercase tracking-widest text-gray-400 block mb-4">Categories</span>
     <div class="relative group">
@@ -214,9 +232,15 @@
             <div>
                 <h5 class="text-[10px] font-black uppercase text-gray-400 mb-4">Muftis</h5>
                 <div class="text-lg font-black italic serif space-y-2">
-                    {% for chairman in page.muftis.chairman %}<p>{{ chairman.name }} (Chairman)</p>{% endfor %}
-                    {% for deputy_chairman in page.muftis.deputy_chairman %}<p>{{ deputy_chairman.name }} (Deputy Chairman)</p>{% endfor %}
-                    {% for member in page.muftis.members %}<p>{{ member.name }} (Member)</p>{% endfor %}
+                    {% for chairman in page.muftis.chairman %}
+                     <a href="{{ chairman.url | relative_url }}">{{ chairman.name }} (Chairman)</a>
+                    {% endfor %}
+                    {% for deputy_chairman in page.muftis.deputy_chairman %}
+                     <a href="{{ deputy_chairman.url | relative_url }}">{{ deputy_chairman.name }} (Deputy Chairman)</a>
+                    {% endfor %}
+                    {% for member in page.muftis.members %}
+                     <a href="{{ member.url | relative_url }}">{{ member.name }} (Member)</a>
+                    {% endfor %}
                 </div>
             </div>
             
