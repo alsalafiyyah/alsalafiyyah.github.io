@@ -1,61 +1,22 @@
 <!-- Footer -->
-<footer role="contentinfo" vocab="http://schema.org" itemtype="WPFooter" class="container-xxl py-5 mt-1 mb-3">
-    <div>
-        
-        <div class="d-flex flex-column flex-md-row justify-content-between align-items-start gap-4">
-            
-            <div style="max-width: 600px;">
-                <div class="d-flex align-items-center gap-3 mb-4">
-                    <span class="fs-4 fw-black text-uppercase tracking-tighter" property="copyrightHolder" vocab="http://schema.org" itemtype="Person"><span property="name">{{ site.title }}</span></span>
-                    <span class="vr opacity-25" style="height: 1rem;"></span>
-                    <span class="small-mono opacity-50 text-uppercase">&copy; <span property="copyrightYear">{{ 'now' | date: "%Y" }}</span></span>
-                    <a href="https://instagram.com/alsalafiyyah" target="_blank" class="small-mono text-uppercase">Instagram</a>
-                </div>
-                
-                <p class="small-mono text-uppercase opacity-75 lh-lg mb-0" style="font-size: 0.7rem;">
-                    {{ site.short_desc }}
-                </p>
-            </div>
+ <footer class="container py-5 mt-5" style="border-top: 1px solid currentColor;">
+    <div class="row align-items-end g-4">
+        <div class="col-lg-8">
+            <h2 class="fw-bold text-uppercase mb-3" style="letter-spacing: -0.03em; font-size: 2.5rem;">{{ site.title }}</h2>
+            <p class="text-muted mb-0" style="max-width: 450px; line-height: 1.6; font-size: 0.95rem;">
+                {{ site.short_desc }}
+            </p>
+        </div>
 
-            <div class="pt-md-1">
-                <button onclick="window.scrollTo({top: 0, behavior: 'smooth'})" 
-                        class="btn-back-to-top text-decoration-none bg-transparent border-0 p-0 fw-black text-uppercase">
-                    Back to Top <span class="arrow">↑</span>
-                </button>
+        <div class="col-lg-4 text-lg-end">
+            <div class="d-flex flex-column flex-lg-row justify-content-lg-end gap-lg-4 gap-3">
+                <a href="/about" class="text-decoration-none text-reset text-uppercase fw-bold small" style="letter-spacing: 0.15em;">
+                    About Site
+                </a>
+                <a href="https://instagram.com/alsalafiyyah" target="_blank" class="text-decoration-none text-reset text-uppercase fw-bold small" style="letter-spacing: 0.15em;">
+                    Instagram ↗
+                </a>
             </div>
-
         </div>
     </div>
 </footer>
-
-<style>
-    .fw-black { font-weight: 900; }
-    
-    .tracking-tighter { letter-spacing: -0.05em; }
-    
-    .small-mono {
-        font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-        letter-spacing: 0.15em;
-    }
-
-    .btn-back-to-top {
-        font-size: 0.75rem;
-        letter-spacing: 0.2em;
-        transition: all 0.3s ease;
-    }
-
-    .btn-back-to-top:hover {
-        font-style: italic;
-    }
-
-    .btn-back-to-top:hover .arrow {
-        transform: translateY(-4px);
-        display: inline-block;
-    }
-
-    .arrow {
-        transition: transform 0.3s ease;
-        display: inline-block;
-    }
-</style>
-
