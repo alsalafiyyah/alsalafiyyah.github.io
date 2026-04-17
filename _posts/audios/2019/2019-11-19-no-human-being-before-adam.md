@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: tailwind
 title: "Were There Humans Before Adam?"
 publisher: "alsalafiyyah@icloud.com"
 mp3: "https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_637/nour_63710.mp3"
