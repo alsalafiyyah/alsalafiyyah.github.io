@@ -109,9 +109,9 @@ The Prophet ﷺ said: **“Seeking knowledge is an obligation upon every Muslim.
 
 **(3).** Cultivating Scholarly Inquiry: To eradicate ignorance by encouraging the community to refer back to the people of knowledge.
 
-And he ﷺ said, **“Verily, the only cure for ignorance is to ask questions.”** [^14]
-
 Allah Ta'ala says: **“So ask those who possess knowledge if you do not know”** (Quran, an-Nahl [16]:43)
+
+The Prophet ﷺ said, **“Verily, the only cure for ignorance is to ask questions.”** [^14]
 
 **(4).** Awareness: To awaken a deeper understanding of the Islamic mission within the hearts of the Ummah.
 
