@@ -81,6 +81,7 @@
             <a itemprop="url" href="{{ '/fatwas' | relative_url }}" class="hover:line-through transition-all"><span itemprop="name">Fatwas</span></a>
             <a itemprop="url" href="{{ '/audios' | relative_url }}" class="hover:line-through transition-all"><span itemprop="name">Audios</span></a>
             <a itemprop="url" href="{{ '/videos' | relative_url }}" class="hover:line-through transition-all"><span itemprop="name">Videos</span></a>
+            <a itemprop="url" href="{{ '/muqolat' | relative_url }}" class="hover:line-through transition-all"><span itemprop="name">Muqolat</span></a>
         </div>
 
         <div class="md:hidden">
@@ -101,6 +102,7 @@
                 <a itemprop="url" href="{{ '/fatwas' | relative_url }}" class="text-4xl font-black lowercase tracking-tighter serif italic hover:line-through transition-all"><span itemprop="name">Fatwas</span></a>
                 <a itemprop="url" href="{{ '/audios' | relative_url }}" class="text-4xl font-black lowercase tracking-tighter serif italic hover:line-through transition-all"><span itemprop="name">Audios</span></a>
                 <a itemprop="url" href="{{ '/videos' | relative_url }}" class="text-4xl font-black lowercase tracking-tighter serif italic hover:line-through transition-all"><span itemprop="name">Videos</span></a>
+                <a itemprop="url" href="{{ '/muqolat' | relative_url }}" class="text-4xl font-black lowercase tracking-tighter serif italic hover:line-through transition-all"><span itemprop="name">Muqolat</span></a>
             </div>
         </div>
     </div>
@@ -147,19 +149,9 @@
 <section class="grid grid-cols-1 md:grid-cols-12 gap-12 py-24 items-start">
     
     <aside itemscope itemtype="https://schema.org/WPSideBar" class="hidden md:block md:col-span-3 space-y-12 sticky top-12 self-start">
-        
-        <div class="border-t-2 border-black pt-4 dark:border-white">
-            <span class="text-[10px] font-black uppercase tracking-widest text-gray-400">Index</span>
-            <div class="flex flex-wrap gap-2 mt-4">
-                {% for category in page.categories %}
-                <a href="{{ site.baseurl }}/category/{{ category | slugize }}" class="group text-sm font-bold uppercase tracking-widest hover:text-gray-400 transition-colors">
-                    {{ category | capitalize }}<span class="ml-2 text-black group-hover:text-black">/</span>
-                </a>
-                {% endfor %}
 
 <div class="border-t-2 border-black dark:border-white pt-4">
-    <span class="text-[10px] font-black uppercase tracking-widest text-gray-400 block mb-4">Jump to Category</span>
-    
+    <span class="text-[10px] font-black uppercase tracking-widest text-gray-400 block mb-4">Categories</span>
     <div class="relative group">
         <select 
             onchange="window.location.href=this.value" 
@@ -181,8 +173,6 @@
         </div>
     </div>
 </div>
-            </div>
-        </div>
 
         <div class="border-t-2 border-black pt-4 space-y-6 dark:border-white">
             <span class="text-[10px] font-black uppercase tracking-widest text-gray-400">The Committee</span>
