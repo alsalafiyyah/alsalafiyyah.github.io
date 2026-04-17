@@ -35,29 +35,29 @@ And he ﷺ said: ***“Whoever turns away from my Sunnah (way) has nothing to do
 
 And he ﷺ said: ***“Pay attention to my Sunnah (way) and the way of the Rightly-Guided Caliphs after me, adhere to it and hold fast to it.”*** [^5]
 
-**(5).** We affirm the Names and Attributes of Allah that are mentioned in the Qur’an and Sunnah, and interpreting them as they appear to mean, not metaphorically, for there is none like unto Allah in His Names and Attributes. Any attribute that He has ascribed to Himself or that His Prophet has ascribed to Him, is an attribute in a real sense, and is not metaphorical or a tamthil (likening Him to His creation).
+**(5).** We affirm the Names and Attributes of Allah as they are established in the Qur’an and the authentic Sunnah. We accept them according to their apparent meaning without metaphorical interpretation (ta’wil), for there is nothing like unto Allah. Any attribute He has ascribed to Himself, or that His Prophet (ﷺ) has ascribed to Him, is affirmed in a real sense, free from both metaphorical distortion and any likeness to His creation (tamthil).
 
 ***“There is nothing like unto Him, and He is the All-Hearer, the All-Seer”** (Quran, ash-Shura [42]:11)*
 
-**(6).** We believe in His Angels, His Books, His Prophets and Messengers and al-Qada wal-Qadar (Divine will and decree). 
+**(6).** We uphold faith in Allah’s Angels, His revealed Books, and His chosen Prophets and Messengers. We also believe in the Divine Decree (al-Qada’ wal-Qadar), accepting both the good and the perceived evil thereof as being from Allah.
 
-**(7).** We believe in the Resurrection after death, Paradise and Hell, the Last Day, the Sirat (a bridge over Hell in the Hereafter), the Cistern, the Throne, the punishment of the grave, and so on. We believe in them implicitly as narrated in the reports.
+**(7).** We believe in the Resurrection after death and the events of the Last Day, including the Reckoning, the Bridge (as-Sirat), and the Cistern. We affirm the reality of Paradise and Hell, the Throne, and the punishment and bliss of the grave. We believe in all matters of the Unseen exactly as they have been established in the authentic narrations.
 
-**(8).** We believe in the intercession of the Prophet ﷺ and those whom Allah has permitted on the Day of Resurrection. 
+**(8).** We affirm our belief in the intercession (Shafa‘ah) of the Prophet (ﷺ) and those whom Allah has permitted to intercede on the Day of Resurrection. We believe this honor is granted only by Allah’s leave and only for those with whom He is pleased. 
 
 Allah Ta'ala says: ***“Say: All intercession belongs to Allah alone [and no one can intercede except by His leave]”** (az-Zumar [39]:44)*
 
 And He says: ***“None shall have the power of intercession, but such a one as has received permission (or promise) from the Most Beneficent (Allah).”** (Quran, Maryam[19]: 87)*
 
-**(9).** We believe that [the ruler](https://alsalafiyyah.github.io/rulership/) is to be obeyed in matters that do not involve disobedience towards Allah and His Messenger ﷺ, whether he is righteous or sinful, and that one is obligated to be patient with the ruler, and rebellion against them is forbidden. 
+**(9).** We maintain that obedience to the Muslim [ruler](https://alsalafiyyah.github.io/rulership/) is an obligation in all matters that do not involve disobedience to Allah and His Messenger (ﷺ). This duty remains constant, whether the ruler is righteous or sinful. We believe in the obligation of patience during times of hardship and affirm that rebellion against the established authorities is strictly forbidden. 
 
 Allah Ta'ala says: ***“O you who believe! Obey Allah and obey the Messenger (Muhammad (peace and blessings be upon him)), and [<mark>those who are in authority</mark>](https://alsalafiyyah.github.io/obey-allah-messenger-and-those-who-are-in-authority/).”** (Quran, An-Nisa’[4]:59).*
 
-**(10).** We love the ahlul-bayt (the family of the Prophet ﷺ). Whoever hates them hates Islam. And the term Ahl al-Bayt includes his wives. So, whoever slanders the Prophet's wife ‘Aishah (may Allah be pleased with her) and other Mothers of Believers (Prophet's wives) is a kafir (disbeliever) and an apostate.
+**(10).** We love the Ahl al-Bayt and recognize their high station; to hate them is to harbor hatred for the religion. This honor includes the wives of the Prophet (ﷺ). We uphold the consensus that slandering our mother ‘Aishah (may Allah be pleased with her)—whom Allah Himself cleared of all false accusations—or any of the Mothers of the Believers, is a clear act of apostasy.
 
 Imam Ibn al-Qayyim (may Allah have mercy on him) said: ***“The (Muslim) Ummah is agreed that whoever slanders the Mother of Believers ‘Aishah (may Allah be pleased with her) is a kafir (disbeliever).”*** [^6]
 
-**(11).** We hate those who criticize and revile or hate the Sahabah (companions of the Prophet ﷺ, may Allah be pleased with them all), and we hold that loving them (Sahabah) is part of faith and hating them (Sahabah) is kufr (disbelief) and hypocrisy.
+**(11).** We hold a deep love and respect for all the Companions (Sahabah) of the Prophet (ﷺ) and distance ourselves from those who criticize, revile, or harbor hatred toward them. We maintain that loving the Sahabah is an integral part of faith (Iman) and righteousness, while hating them is an act of disbelief (kufr), hypocrisy, and transgression.
 
 It was narrated that al-Bara’ (may Allah be pleased with him) said: ***“I heard the Prophet ﷺ say: ‘The Ansar: no one loves them but a believer and no one hates them but a hypocrite. Whoever loves them, Allah will love him, and whoever hates them, Allah will hate him.’”*** [^7]
 
@@ -65,11 +65,11 @@ And he ﷺ said: ***“Whoever reviles my companions, upon him be the curse of A
 
 And he ﷺ also said: ***“Do not slander my companions, for if one of you were to spend an amount of gold equivalent to the size of Mount Uhud, you would not even come halfway up to their level.”*** [^9]
 
-**(12).** We shun and reject all [bid’ahs](https://alsalafiyyah.github.io/bidah/) or innovations that are introduced into the religion, whether it be in matters of belief or action, for the Prophet ﷺ warned us against bid'ah: ***“I urge you to adhere to my Sunnah and the way of the Rightly-Guided Caliphs who come after me. Adhere to it and cling firmly to it. And beware of newly introduced matters, for every newly introduced matter is a bid'ah (an innovation), and every bid'ah (innovation in religion) is a going astray, and every going astray will be in the Fire.”*** [^10]
+**(12).** We shun and reject all forms of Bid’ah (religious innovation), whether they pertain to matters of creed (‘aqidah) or practice (‘ibadah). We believe the religion was perfected during the lifetime of the Prophet (ﷺ); therefore, we heed his solemn warning: **“I urge you to adhere to my Sunnah and the way of the Rightly-Guided Caliphs who come after me. Adhere to it and cling firmly to it. And beware of newly introduced matters, for every newly introduced matter is a bid'ah (an innovation), and every bid'ah (innovation in religion) is a going astray, and every going astray will be in the Fire.”** [^10]
 
-**(13).** We hold that [there is no such thing as a <mark>good bid’ah</mark>](https://alsalafiyyah.github.io/muqolat/there-is-no-good-bidah/) in religion, because the Prophet ﷺ has stated that ***every bid'ah is a going astray***. He (ﷺ) did not give any exception in that, he (ﷺ) said, ***“<mark>Every bid'ah</mark> is a going astray”***.
+**(13).** We hold that all religious innovations are rejected, without exception. We do not recognize the concept of a "good bid’ah," as it contradicts the explicit and general warning of the Prophet (ﷺ): **“Every bid’ah is a going astray.”**
 
-**(14).** We hold that tawhid will never be achieved until we apply [the concept of al-Wala' Wal-Bara' (loyalty and disassociation for Allah's Sake)](https://alsalafiyyah.github.io/principle-wala-wal-bara/). 
+**(14).** We maintain that the realization of Tawheed remains incomplete without the application of al-Wala’ wal-Bara’ (loyalty and disassociation for the sake of Allah). This entails directing one's love, alliance, and support toward what Allah loves, and distancing oneself from all that He dislikes and forbids. 
 
 Allah says in His Book: ***“There has already been for you an excellent pattern in Abraham and those with him, when they said to their people, ‘Indeed, we are disassociated from you and from whatever you worship other than Allah. We have denied you, and there has appeared between us and you animosity and hatred forever until you believe in Allah alone’”** (Quran, al-Mumtahinah [60]:4)*
 
