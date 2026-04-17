@@ -77,7 +77,7 @@ The Prophet ﷺ said: ***“The strongest bond of faith is taking believers as a
 
 **(15).** We affirm that Allah is above His heavens, ascended over His Throne in a manner that befits His Majesty. He is distinct and separate from His creation, and nothing of His essence is mixed with His creatures, nor is anything of His creatures mixed with His essence.
 
-**(16).** We hold that Iman consists of belief, speech, and action. It is a dynamic state that flourishes through righteousness and obedience, and diminishes through neglect and disobedience to Allah’s commands.
+**(16).** We hold that Iman (Faith) consists of belief, speech, and action. It is a dynamic state that flourishes through righteousness and obedience, and diminishes through neglect and disobedience to Allah’s commands.
 
 **(17).** We do not declare a Muslim to be a disbeliever (kafir) due to the commission of a major sin, provided that the sin itself does not constitute disbelief. We believe that a person remains within the fold of Islam despite their shortcomings, as long as they do not violate the foundational tenets of the faith. 
 
