@@ -1,10 +1,8 @@
 ---
-layout: page
-title: About us
+layout: tailwind
+title: About
 date: 2019-03-07
 hijri: 30 Jumada al-Thani 1440
-locale: en
-lang: en
 excerpt: "This website promotes the ‘aqidah of Ahlus-Sunnah wal-Jama‘ah or the ‘aqidah of the righteous Salaf (early generations of Islam)."
 permalink: /about/
 ---
