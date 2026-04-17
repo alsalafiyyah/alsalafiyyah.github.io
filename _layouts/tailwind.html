@@ -139,10 +139,12 @@
                     {{ page.title }}
                 </h1>
             </div>
+            {% if page.hijri %}
             <div class="text-left md:text-right pb-4">
                 <p class="text-sm font-bold uppercase tracking-widest opacity-40">Published</p>
-                <p class="text-xl font-black">{{ page.date | date: "%b %d, %Y" }}</p>
+                <p class="text-xl font-black">{{ page.date | date: "%b %d, %Y" }}, {{ page.hijri }}</p>
             </div>
+            {% endif %}
         </div>
     </header>
 
@@ -240,6 +242,9 @@
                     {% endfor %}
                     {% for member in page.muftis.members %}
                      <a href="{{ member.url | relative_url }}">{{ member.name }} (Member)</a>
+                    {% endfor %}
+                    {% for shaykh in page.muftis.shaykh %}
+                     <a href="{{ shaykh.url | relative_url }}">{{ shaykh.name }}</a>
                     {% endfor %}
                 </div>
             </div>
