@@ -75,27 +75,27 @@ Allah says in His Book: ***“There has already been for you an excellent patter
 
 The Prophet ﷺ said: ***“The strongest bond of faith is taking believers as allies and friends for the sake of Allah and to regard disbelievers as enemies for the sake of Allah, to love for the sake of Allah and hate for the sake of Allah.”*** [^11]
 
-**(15).** We believe that Allah is above His heavens, over His Throne, distinct from His creation.
+**(15).** We affirm that Allah is above His heavens, ascended over His Throne in a manner that befits His Majesty. He is distinct and separate from His creation, and nothing of His essence is mixed with His creatures, nor is anything of His creatures mixed with His essence.
 
-**(16).** We hold that Iman (Faith) is belief in the heart, words on the tongue and actions of the body, and that Faith may increases or decreases. Faith is increased by obeying Allah, and it decreases when one disobeys Him.
+**(16).** We hold that Iman consists of belief, speech, and action. It is a dynamic state that flourishes through righteousness and obedience, and diminishes through neglect and disobedience to Allah’s commands.
 
-**(17).** We do not declare a Muslim to be an unbeliever due to a major sin so long as his sin does not reach the level of kufr (disbelief). 
+**(17).** We do not declare a Muslim to be a disbeliever (kafir) due to the commission of a major sin, provided that the sin itself does not constitute disbelief. We believe that a person remains within the fold of Islam despite their shortcomings, as long as they do not violate the foundational tenets of the faith. 
 
-**(18).** We hold it to be impermissible to kill non-muslims living in Muslim lands or under Muslim rule, or transgress against their rights or to be unjust towards them, for Allah and His Messenger Muhammad ﷺ forbid us to do so, and Allah does not forbid us showing kindness to them (non-Muslims) who are not fighting Muslims. 
+**(18).** We maintain that it is strictly impermissible to take the lives of non-Muslims living under Muslim authority or to transgress against their rights. We reject all forms of injustice toward them, as Allah and His Messenger (ﷺ) have forbidden such oppression. Furthermore, we uphold the Quranic principle of showing kindness and fair treatment to those non-Muslims who do not wage war against Muslims.
 
 Concerning that the Prophet ﷺ said: ***“Whoever kills a mu‘ahid (a non-Muslim living under Muslim rule) will not smell the fragrance of Paradise, although its fragrance may be detected from a distance of forty years.”*** [^12] 
 
 Allah Ta'ala says: ***“Allah does not forbid you to deal justly and kindly with those who fought not against you on account of religion and did not drive you out of your homes. Verily, Allah loves those who deal with equity.”** (al-Mumtahinah [60]:8)*
 
-**(19).** We believe that the Prophet Muhammad ﷺ is the Seal of the Prophets and Messengers and that there is no Prophet or Messenger after him.  
+**(19).** We hold as a core tenet of faith that Muhammad (ﷺ) is the final Messenger of Allah. No Prophet or Messenger will be sent after him; he is the completion of the divine message and the final guide for all of humanity.
 
 ***“but he is the Messenger of Allah and the last (end) of the Prophets”** (Quran, al-Ahzab [33]:40)*
 
-**(20).** We believe that there is no Muslim who worshipped Allah alone will remain in Hell forever, even if he committed major sins. And we believe that he will be removed from the Hellfire after being punished. 
+**(20).** We believe that no Muslim who worshipped Allah alone—associating no partners with Him—will remain in Hellfire eternally. Even if such a person committed major sins and was punished for them in the Hereafter, we affirm that they will eventually be removed from the Fire by the mercy of Allah.
 
-**(21).** We believe in the descent of ‘Isa ibn Maryam (Jesus son of Mary, peace be upon him) and he will kill the Dajjal (false messiah). 
+**(21).** We affirm our belief in the descent of ‘Isa ibn Maryam (Jesus, son of Mary, peace be upon him) toward the end of time. We believe he will return as a just ruler, following the Law of Muhammad (ﷺ), and will ultimately slay the Dajjal (the False Messiah), as established in the authentic Prophetic narrations.
 
-**(22.)** We reject all [the sects or cults and parties](https://alsalafiyyah.github.io/sects/) that claim to belong to Islam, such as Shiite, Sufism, etc, due to their contradiction to the Quran and Sunnah.
+**(22.)** 
 
 ***“Verily, those who divide their religion and break up into sects (all kinds of religious sects), you (O Muhammad) have no concern in them in the least. Their affair is only with Allah, Who then will tell them what they used to do”** (Quran, al-An‘am [6]:159)*
 
