@@ -1,5 +1,5 @@
 ---
-layout: tailwind
+layout: page
 title: About
 date: 2019-03-07
 hijri: 30 Jumada al-Thani 1440
@@ -101,19 +101,21 @@ Allah Ta'ala says: ***“Allah does not forbid you to deal justly and kindly wit
 
 ### Our Aims
 
-**(1).** To spread Islamic Monotheism, Prophetic Sunnah, and presenting the pure Islamic teachings. 
+**(1).** Clarity: To present the pure teachings of Islam, rooted in Tawheed and the authentic Sunnah.
 
-**(2).** To enrich the viewers' knowledge and dispel ignorance, for seeking knowledge and asking the scholars is prescribed in Islam. And indeed the cure for ignorance is to question and to learn as the Prophet ﷺ said: **“Seeking knowledge is an obligation upon every Muslim.”** [^13]
+**(2).** Education: To provide a remedy for ignorance by promoting the pursuit of sacred knowledge. We uphold the Prophetic principle that the cure for ignorance is to ask and to learn, fulfilling the obligation of knowledge-seeking upon every Muslim. 
+
+The Prophet ﷺ said: **“Seeking knowledge is an obligation upon every Muslim.”** [^13]
 
 And he ﷺ said, **“Verily, the only cure for ignorance is to ask questions.”** [^14]
 
 Allah Ta'ala says: **“So ask those who possess knowledge if you do not know”** (Quran, an-Nahl [16]:43)
 
-**(3).** To increase the awareness of Muslims about the mission of Islam.
+**(3).** Awareness: To awaken a deeper understanding of the Islamic mission within the hearts of the Ummah.
 
-**(4).** To refute the lies, distortions, and bidahs (innovations in religion), and to warn the people against it.
+**(4).** Preservation: To safeguard the religion by refuting falsehoods and warning against distortions and bid’ah (innovations) that deviate from the Prophetic path. 
 
-**Finally**, may Allah Ta'ala grant us success and make us steadfast in adhering to the truth and the path of guidance. May Allah bless our Prophet Muhammad ﷺ, his family and companions.
+**Finally**, We ask Allah, the Most High, to grant us success and to keep us steadfast upon the truth and the path of guidance. We pray that He allows us to remain firm in our adherence to His religion until we meet Him. May the peace and blessings of Allah be upon our Prophet Muhammad, and upon his family and all of his companions.
 
 ---
 [^1]: Muslim 16
