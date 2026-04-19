@@ -229,7 +229,7 @@
 
             {{ content }}
         </div>
-
+        {% if page.date %}
         <div class="mt-20 pt-12 border-t-4 border-black dark:border-white space-y-10">
             {% if page.muftis %}{% if page.shaykhs %}
             <div>
@@ -250,7 +250,6 @@
                 </div>
             </div>
             {% endif %}{% endif %}
-            {% if page.date %}
             <div class="grid grid-cols-2 gap-4 border-t border-gray-100 pt-8">
                 <div>
                 {% if page.source %}
@@ -269,8 +268,8 @@
                     </div>
                 </div>
             </div>
-            {% endif %}
         </div>
+        {% endif %}
     </article>
 
 </section>
