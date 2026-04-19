@@ -231,7 +231,7 @@
         </div>
         {% if page.date %}
         <div class="mt-20 pt-12 border-t-4 border-black dark:border-white space-y-10">
-            {% if page.muftis %}{% if page.shaykhs %}
+            {% if page.muftis %}
             <div>
                 <h5 class="text-[10px] font-black uppercase text-gray-400 mb-4">Muftis</h5>
                 <div class="text-lg font-black italic serif space-y-2">
@@ -244,12 +244,14 @@
                     {% for member in page.muftis.members %}
                      <a class="hover:line-through transition-all" href="{{ member.url | relative_url }}">{{ member.name }} (Member)</a>
                     {% endfor %}
+                </div>
+            </div>
+            {% endif %}
+            {% if page.shaykhs %}
                     {% for shaykh in page.muftis.shaykh %}
                      <a class="hover:line-through transition-all" href="{{ shaykh.url | relative_url }}">{{ shaykh.name }}</a>
                     {% endfor %}
-                </div>
-            </div>
-            {% endif %}{% endif %}
+            {% endif %}
             <div class="grid grid-cols-2 gap-4 border-t border-gray-100 pt-8">
                 <div>
                 {% if page.source %}
