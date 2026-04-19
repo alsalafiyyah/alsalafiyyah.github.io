@@ -92,11 +92,11 @@ document.addEventListener("DOMContentLoaded", function () {
 
         if (paginated.length) {
             container.innerHTML = paginated.map(post => `
-                <article class="group py-16 border-b border-gray-100 dark:border-zinc-800 last:border-0">
+                <article class="group py-4 border-b border-gray-100 dark:border-zinc-800 last:border-0">
                     <span class="text-[10px] font-bold uppercase tracking-[0.3em] text-gray-400">
                         ${post.dataset.hijri || 'Archive'}
                     </span>
-                    <h2 class="text-3xl md:text-5xl font-black mt-2 mb-6 leading-[0.85] uppercase tracking-tighter group-hover:italic transition-all">
+                    <h2 class="text-3xl md:text-4xl font-black mt-2 mb-6 leading-[0.85] uppercase tracking-tighter group-hover:italic transition-all">
                         <a href="${post.dataset.url}">${highlightText(post.dataset.title, query)}</a>
                     </h2>
                     <p class="text-lg text-gray-600 dark:text-zinc-400 leading-relaxed max-w-2xl">
