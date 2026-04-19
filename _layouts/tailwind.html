@@ -259,6 +259,13 @@
         {% endfor %}
     </div>
     {% endif %}
+    {% if page.shaykhs %}
+     {% for sh in page.shaykhs %}
+     <span class="text-xl font-black italic serif leading-none dark:text-white">
+        {{ sh }}
+     </span> {% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    {% endif %}
             <div class="grid grid-cols-2 gap-4 border-t border-gray-100 pt-8">
                 <div>
                 {% if page.source %}
