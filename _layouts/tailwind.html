@@ -233,7 +233,7 @@
 {% if page.date %}
 <div class="mt-20 pt-12 border-t-4 border-black dark:border-white space-y-10">
 {% if page.muftis %}
-    <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400 mb-4">Muftis</h5>
+    <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400 mb-4">Mufti (s)</h5>
     <div class="space-y-3">
         {% for chairman in page.muftis.chairman %}
         <a href="{{ chairman.url | relative_url }}" class="block text-xl font-black italic serif leading-none hover:line-through dark:text-white transition-all">
@@ -260,11 +260,14 @@
     </div>
     {% endif %}
     {% if page.shaykhs %}
+    <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400 mb-4">Mufti (s)</h5>
+    <div class="space-y-3">
      {% for sh in page.shaykhs %}
      <span class="text-xl font-black italic serif leading-none dark:text-white">
         {{ sh }}
      </span> {% unless forloop.last %},{% endunless %}
       {% endfor %}
+      </div>
     {% endif %}
             <div class="grid grid-cols-2 gap-4 border-t border-gray-100 pt-8">
                 <div>
