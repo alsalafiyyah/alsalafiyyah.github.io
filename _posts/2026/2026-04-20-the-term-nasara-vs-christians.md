@@ -5,7 +5,7 @@ date: 2026-04-20
 hijri: "Dhu al-Qidah 3, 1447 AH"
 title: "The Naming of the People of the Book: Nasara vs. Christians"
 source: "Liqa' al-Bab al-Maftuh tape 30"
-category: [fatwas,terminology,sects]
+category: [fatwas,terminology,sects,audios]
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/mm_030_09.mp3"
 active: audios
 excerpt: "This is a term commonly recognized today. However, Allah the Exalted named them in His Book as the Nasara."
