@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: Biography of Shaykh Muhammad Ibn Salih Al-Uthaymeen
+title: "Biography of Shaykh Muhammad Ibn Salih Al-Uthaymeen"
 active: biography
 hijri: Dhul-Hijjah 18, 1441
 date: 2020-08-08

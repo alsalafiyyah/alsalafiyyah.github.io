@@ -1,14 +1,12 @@
 ---
 layout: post
 publisher: "alsalafiyyah@icloud.com"
-title: Biography of Shaykh Ahmad Yahya An-Najmi
+title: "Biography of Shaykh Ahmad Yahya An-Najmi"
 active: biography
 date: 2020-08-08
 hijri: Dhul-Hijjah 18, 1441
-locale: en
-lang: en
 category: [biography]
-excerpt: The Shaikh was born in the village of Najamiyyah on the 22nd of Shawal of 1346H, and was raised in the house of his two righteous parents. 
+excerpt: "The Shaikh was born in the village of Najamiyyah on the 22nd of Shawal of 1346H, and was raised in the house of his two righteous parents."
 permalink: /biography/ahmad-alnajmi/
 article_taken_from: 
   taken_from:
