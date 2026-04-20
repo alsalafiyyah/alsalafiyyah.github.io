@@ -1,13 +1,10 @@
 ---
-layout: Main
+layout: default
 title: Fatwas
 active: fatwas
-locale: en
-lang: en
-excerpt: Compilation of fatwas (legal opinions) issued by the scholars of ahlus-sunnah.
+excerpt: "Compilation of fatwas (legal opinions) issued by the scholars of ahlus-sunnah."
 ---
 
-<div class="border-t-4 border-black dark:border-white">
     {% for post in paginator.posts %}
     <article class="group py-12 border-b border-gray-100 dark:border-zinc-800 last:border-0">
         <div class="grid grid-cols-1 md:grid-cols-12 gap-4 items-start">
@@ -17,7 +14,7 @@ excerpt: Compilation of fatwas (legal opinions) issued by the scholars of ahlus-
                     ENTRY NO. {{ forloop.index | prepend: '0' | slice: -2, 2 }}
                 </span>
                 <span class="text-[10px] font-black uppercase tracking-widest text-gray-400">
-                    {{ post.date | date: "%d %b %Y" }}
+                    {{ post.hijri }} | {{ post.date | date: "%d %b %Y" }}
                 </span>
             </div>
 
@@ -33,7 +30,6 @@ excerpt: Compilation of fatwas (legal opinions) issued by the scholars of ahlus-
         </div>
     </article>
     {% endfor %}
-</div>
 
 {% if paginator.total_pages > 1 %}
 <nav class="flex items-center justify-between border-t-4 border-black dark:border-white pt-12 mt-12 mb-24 transition-colors">
