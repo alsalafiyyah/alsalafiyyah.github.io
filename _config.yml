@@ -72,7 +72,6 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-redirect-from
 
 exclude:
   # Environments & System
@@ -165,7 +164,7 @@ defaults:
 
 # Collections
 collections:
-  audio:
+  fawaid:
     output: true
     permalink       : /:collection/:slug
 
