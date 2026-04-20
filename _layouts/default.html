@@ -9,6 +9,8 @@ layout: null
 <body itemscope itemtype="https://schema.org/WebPage" class="bg-white dark:bg-zinc-950 dark:text-zinc-100 text-black antialiased selection:bg-black selection:text-white dark:selection:bg-white dark:selection:text-black transition-colors duration-300 is-preload" onload="setModifiedDate(); setAccessedDate();">
 {% include navbar.html %}
 <main role="main" {% if page.layout == 'post' %}itemscope itemtype="https://schema.org/BlogPosting" {% else %} itemscope itemtype="https://schema.org/Blog" {% endif %} class="max-w-7xl mx-auto px-8">
+    
+    {% unless page.url == "/" %}
     <header class="py-12 border-b-4 border-black dark:border-white">
         <div class="flex flex-col md:flex-row md:items-end justify-between gap-8">
             <div class="max-w-4xl">
@@ -24,13 +26,15 @@ layout: null
             {% endif %}
         </div>
     </header>
-<section class="grid grid-cols-1 md:grid-cols-12 gap-12 py-24 items-start">
- {% include aside.html %}
-<article class="md:col-span-8 md:col-start-5 max-w-none">
- {{ content }}
-</article>
-</section>
-</main><!-- /main -->
+    {% endunless %}
+
+    <section class="grid grid-cols-1 md:grid-cols-12 gap-12 py-24 items-start">
+        {% include aside.html %}
+        <article class="md:col-span-8 md:col-start-5 max-w-none">
+            {{ content }}
+        </article>
+    </section>
+</main>
 {% include footer.html %}
 {% include scripts.html %} 
 </body>
