@@ -74,7 +74,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
-  - jekyll-paginator
 
 exclude:
   # Environments & System
@@ -116,14 +115,6 @@ defaults:
     values:
       layout: post
       permalink: /:title/
-  # _posts/en/
-  - scope:
-      path: "_posts/en/**"
-      type: posts
-    values:
-      layout: post
-      locale: en
-      permalink: /en/:title/
   # _posts/audios/
   - scope:
       path: "_posts/audios/**"
