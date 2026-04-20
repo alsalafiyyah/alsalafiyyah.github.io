@@ -6,5 +6,64 @@ locale: en
 lang: en
 excerpt: Compilation of fatwas (legal opinions) issued by the scholars of ahlus-sunnah.
 ---
-{% include Posts.html %}
-{% include Pagination.html %}
+
+<div class="border-t-4 border-black dark:border-white">
+    {% for post in paginator.posts %}
+    <article class="group py-12 border-b border-gray-100 dark:border-zinc-800 last:border-0">
+        <div class="grid grid-cols-1 md:grid-cols-12 gap-4 items-start">
+            
+            <div class="md:col-span-3 flex flex-col gap-1">
+                <span class="text-[10px] font-black tabular-nums opacity-20 group-hover:opacity-100 transition-opacity">
+                    ENTRY NO. {{ forloop.index | prepend: '0' | slice: -2, 2 }}
+                </span>
+                <span class="text-[10px] font-black uppercase tracking-widest text-gray-400">
+                    {{ post.date | date: "%d %b %Y" }}
+                </span>
+            </div>
+
+            <div class="md:col-span-9">
+                <h3 class="text-3xl md:text-5xl font-black uppercase tracking-tighter leading-[0.85] group-hover:italic transition-all">
+                    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                </h3>
+                <p class="mt-6 text-sm text-gray-500 dark:text-zinc-500 leading-relaxed max-w-xl line-clamp-2">
+                    {{ post.content | strip_html | truncatewords: 25 }}
+                </p>
+            </div>
+
+        </div>
+    </article>
+    {% endfor %}
+</div>
+
+{% if paginator.total_pages > 1 %}
+<nav class="flex items-center justify-between border-t-4 border-black dark:border-white pt-12 mt-12 mb-24 transition-colors">
+    
+    {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | relative_url }}" class="text-sm font-black uppercase tracking-widest hover:line-through">
+            ← Newer
+        </a>
+    {% else %}
+        <span class="text-sm font-black uppercase tracking-widest opacity-10 cursor-not-allowed">
+            ← Newer
+        </span>
+    {% endif %}
+
+    <div class="text-sm font-black uppercase tracking-widest tabular-nums">
+        Page 
+        <span>{{ paginator.page | prepend: '0' | slice: -2, 2 }}</span> 
+        of 
+        <span>{{ paginator.total_pages | prepend: '0' | slice: -2, 2 }}</span>
+    </div>
+
+    {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | relative_url }}" class="text-sm font-black uppercase tracking-widest hover:line-through">
+            Older →
+        </a>
+    {% else %}
+        <span class="text-sm font-black uppercase tracking-widest opacity-10 cursor-not-allowed">
+            Older →
+        </span>
+    {% endif %}
+    
+</nav>
+{% endif %}
