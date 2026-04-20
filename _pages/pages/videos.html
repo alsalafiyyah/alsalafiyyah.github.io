@@ -1,11 +1,50 @@
 ---
-layout: Page
+layout: tailwind
 title: Videos
 active: videos
 permalink: /videos/
 excerpt: Collection of video fatwas (legal opinions) issued by the scholars of ahlus-sunnah.
 ---
-<div class="row row-cols-1 row-cols-md-2 g-4">
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-x-12 gap-y-24">
+    {% assign videos = site.posts | where_exp: "post", "post.categories contains 'videos'" %}
+    {% for post in videos %}
+    <article class="group relative flex flex-col">
+        <a href="{{ post.url | relative_url }}" class="relative aspect-video overflow-hidden border-2 border-black dark:border-white bg-gray-100">
+            <img 
+                src="https://img.youtube.com/vi/{{ post.videoID }}/maxresdefault.jpg" 
+                alt="{{ post.title }}"
+                class="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-500 scale-105 group-hover:scale-100"
+                onerror="this.src='https://img.youtube.com/vi/{{ post.videoID }}/mqdefault.jpg';"
+            >
+            <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity bg-black/20">
+                <div class="w-16 h-16 bg-white text-black flex items-center justify-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="currentColor" viewBox="0 0 24 24">
+                        <path d="M8 5v14l11-7z" />
+                    </svg>
+                </div>
+            </div>
+        </a>
+
+        <div class="mt-6">
+            <span class="text-[10px] font-bold uppercase tracking-widest text-gray-400">
+                {{ post.hijri | default: (post.date | date: "%B %Y") }}
+            </span>
+            <h2 class="text-2xl md:text-3xl font-black mt-2 mb-4 leading-none uppercase tracking-tighter group-hover:italic transition-all">
+                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            </h2>
+            <p class="text-sm text-gray-600 dark:text-zinc-400 leading-relaxed line-clamp-2 mb-6">
+                {{ post.content | strip_html | normalize_whitespace | remove: "Question:" }}
+            </p>
+            <a href="{{ post.url | relative_url }}" class="inline-block border-b-2 border-black dark:border-white pb-1 font-black uppercase text-[10px] tracking-widest hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-all">
+                Watch Now
+            </a>
+        </div>
+    </article>
+    {% endfor %}
+</div>
+
+<div class="row row-cols-1 row-cols-md-2 g-4" style="display:none !important;">
 {% for post in site.posts %}
 {% if post.categories contains 'videos' %} 
 {% if post.url %}
