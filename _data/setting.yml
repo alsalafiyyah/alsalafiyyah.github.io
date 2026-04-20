@@ -45,8 +45,6 @@ aside_external_links:
 footer:
   - name: About
     url: "/about"
-  - name: Sitemap
-    url: "/sitemap"
   - name: RSS Feed
     url: "/feed"
 
