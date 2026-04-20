@@ -8,7 +8,7 @@ layout: default
             <div class="max-w-2xl">
                 <div class="flex items-center gap-4 mb-2">
                     <span class="text-[10px] font-bold tabular-nums opacity-30">{{ forloop.index | prepend: '0' | slice: -2, 2 }}</span>
-                    <span class="text-[10px] font-black uppercase tracking-widest text-gray-400">{{ post.date | date: "%d %b %Y" }}</span>
+                    <span class="text-[10px] font-black uppercase tracking-widest text-gray-400">{{ post.date | date: "%d %b %Y" }} / {{ post.hijri }}</span>
                 </div>
                 <h3 class="text-3xl md:text-4xl font-black uppercase tracking-tighter leading-[0.85] group-hover:italic transition-all">
                     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
