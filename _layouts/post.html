@@ -56,7 +56,80 @@ layout: default
         </div>
 
 {% if page.date %}
-<div class="mt-20 pt-12 border-t-4 border-black dark:border-white space-y-10">
+<div class="mt-24 border-t-4 border-black dark:border-white pt-12 space-y-12 transition-colors">
+    
+    {% if page.muftis %}
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8 border-b border-gray-100 dark:border-zinc-800 pb-12">
+        <div class="space-y-4">
+            <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400">Chairman</h5>
+            <div class="flex flex-col gap-2">
+                {% for person in page.muftis.chairman %}
+                <a href="{{ person.url | relative_url }}" class="text-lg font-black italic serif hover:line-through">{{ person.name }}</a>
+                {% endfor %}
+            </div>
+        </div>
+        <div class="space-y-4">
+            <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400">Deputy</h5>
+            <div class="flex flex-col gap-2">
+                {% for person in page.muftis.deputy_chairman %}
+                <a href="{{ person.url | relative_url }}" class="text-lg font-black italic serif hover:line-through">{{ person.name }}</a>
+                {% endfor %}
+            </div>
+        </div>
+        <div class="space-y-4">
+            <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400">Members</h5>
+            <div class="flex flex-col gap-2">
+                {% for person in page.muftis.members %}
+                <a href="{{ person.url | relative_url }}" class="text-lg font-black italic serif hover:line-through">{{ person.name }}</a>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    {% endif %}
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-12 text-[10px] font-black uppercase tracking-widest">
+        
+        <div class="space-y-6">
+            {% if page.source %}
+            <div>
+                <span class="text-gray-400 block mb-1">Source</span>
+                <p class="leading-relaxed">{{ page.source }}</p>
+            </div>
+            {% endif %}
+
+            {% if page.article_taken_from %}
+            <div>
+                <span class="text-gray-400 block mb-1">Taken From</span>
+                {% for t in page.article_taken_from.taken_from %}
+                <a href="{{ t.web_url }}" rel="nofollow" target="_blank" class="border-b border-black dark:border-white hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-all">
+                    {{ t.web_title }}
+                </a>
+                {% endfor %}
+            </div>
+            {% endif %}
+        </div>
+
+        <div class="space-y-6 md:text-right">
+            {% if page.translated_by %}
+            <div>
+                <span class="text-gray-400 block mb-1">Translator</span>
+                <p>{{ page.translated_by }}</p>
+            </div>
+            {% endif %}
+
+            <div>
+                <span class="text-gray-400 block mb-4">Share</span>
+                <div class="flex md:justify-end gap-6">
+                    <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ site.url }}{{ page.url }}" target="_blank" class="hover:line-through">Twitter</a>
+                    <a href="https://wa.me/?text={{ page.title | url_encode }}%20{{ site.url }}{{ page.url }}" target="_blank" class="hover:line-through">WhatsApp</a>
+                    <a href="mailto:?subject={{ page.title }}&body={{ site.url }}{{ page.url }}" class="hover:line-through">Email</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="mt-20 pt-12 border-t-4 border-black dark:border-white space-y-10 hidden">
 {% if page.muftis %}
     <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400 mb-4">Mufti (s)</h5>
     <div class="space-y-3">
