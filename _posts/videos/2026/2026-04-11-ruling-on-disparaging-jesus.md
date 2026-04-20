@@ -3,8 +3,6 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 title: "The Ruling on Disparaging Jesus in Retaliation"
 hijri: "Shawwal 23, 1447 AH"
-lang: en
-locale: en
 date: 2026-04-11
 category: [fatwas,videos]
 active: videos

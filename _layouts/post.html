@@ -2,6 +2,27 @@
 layout: default
 ---
 <div class="prose prose-xl prose-black">
+{% if page.videoURL %}
+<div class="mb-6">
+    <div class="bg-black text-white px-4 py-2 flex justify-between items-center">
+        <span class="text-[10px] font-black uppercase tracking-[0.2em]">Stream / External</span>
+        <div class="flex gap-2">
+            <div class="w-2 h-2 bg-white rounded-full"></div>
+            <div class="w-2 h-2 bg-white opacity-20 rounded-full"></div>
+        </div>
+    </div>    
+    <div class="relative w-full overflow-hidden border-x-4 border-b-4 border-black" style="padding-top: 56.25%;">
+        <iframe 
+            class="absolute top-0 left-0 bottom-0 right-0 w-full h-full"
+            src="{{ page.videoURL }}" 
+            title="YouTube video player" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+        </iframe>
+    </div>
+</div>
+{% endif %}
 {% if page.mp3 %}
 <div class="p-8 mb-6 border-4 border-black dark:border-white bg-white dark:bg-zinc-950 flex flex-col md:flex-row items-center gap-8 transition-colors">
     <button id="play-button" class="flex-none w-16 h-16 bg-black text-white dark:bg-white dark:text-black flex items-center justify-center hover:opacity-80 transition-all focus:outline-none">

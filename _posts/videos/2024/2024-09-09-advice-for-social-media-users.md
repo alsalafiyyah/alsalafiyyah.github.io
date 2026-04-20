@@ -3,8 +3,6 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Advice for Social Media Users"
 hijri: "Rabiul Awwal 06, 1446 AH"
-lang: en
-locale: en
 date: 2024-09-09
 category: [fatwas,videos]
 active: videos

@@ -1,12 +1,5 @@
 site:
   title: Al-Salafiyyah
-  desc: 
-  url: /
-  ar: "عربي"
-  en: "en"
-  url_search: /search
-  url_fatwas_widget: /fatwas
-  url_audios_widget: /audios
 
 nav:
   - name: Fatwas
@@ -23,24 +16,6 @@ nav:
     active: muqolat
   - name: "Al-Qur'an"
     url: /quran
-
-aside_quick_links:
-  - name: Bid'ah
-    url: /bidah/
-  - name: Rulership
-    url: /rulership/
-  - name: Wahhabism
-    url: /wahhabism/
-  - name: Groups & Sects
-    url: /sects/
-
-aside_external_links:
-  - name: RSS Feed
-    url: /feed
-  - name: Sitemap
-    url: /sitemap
-  - name: About us
-    url: /about
 
 footer:
   - name: About
