@@ -56,34 +56,55 @@ layout: default
         </div>
 
 {% if page.date %}
-<div class="mt-24 border-t-4 border-black dark:border-white pt-12 space-y-12 transition-colors">
+<footer class="mt-24 border-t-4 border-black dark:border-white pt-12 space-y-12 transition-colors">
     
     {% if page.muftis %}
     <div class="grid grid-cols-1 md:grid-cols-3 gap-8 border-b border-gray-100 dark:border-zinc-800 pb-12">
-        <div class="space-y-4">
-            <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400">Chairman</h5>
-            <div class="flex flex-col gap-2">
-                {% for person in page.muftis.chairman %}
-                <a href="{{ person.url | relative_url }}" class="text-lg font-black italic serif hover:line-through">{{ person.name }}</a>
-                {% endfor %}
+        
+        {% if page.muftis.chairman or page.muftis.deputy_chairman or page.muftis.members %}
+            {% if page.muftis.chairman %}
+            <div class="space-y-4">
+                <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400">Chairman</h5>
+                <div class="flex flex-col gap-2">
+                    {% for person in page.muftis.chairman %}
+                    <a href="{{ person.url | relative_url }}" class="text-lg font-black italic serif hover:line-through">{{ person.name }}</a>
+                    {% endfor %}
+                </div>
             </div>
-        </div>
-        <div class="space-y-4">
-            <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400">Deputy</h5>
-            <div class="flex flex-col gap-2">
-                {% for person in page.muftis.deputy_chairman %}
-                <a href="{{ person.url | relative_url }}" class="text-lg font-black italic serif hover:line-through">{{ person.name }}</a>
-                {% endfor %}
+            {% endif %}
+
+            {% if page.muftis.deputy_chairman %}
+            <div class="space-y-4">
+                <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400">Deputy</h5>
+                <div class="flex flex-col gap-2">
+                    {% for person in page.muftis.deputy_chairman %}
+                    <a href="{{ person.url | relative_url }}" class="text-lg font-black italic serif hover:line-through">{{ person.name }}</a>
+                    {% endfor %}
+                </div>
             </div>
-        </div>
-        <div class="space-y-4">
-            <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400">Members</h5>
-            <div class="flex flex-col gap-2">
-                {% for person in page.muftis.members %}
-                <a href="{{ person.url | relative_url }}" class="text-lg font-black italic serif hover:line-through">{{ person.name }}</a>
-                {% endfor %}
+            {% endif %}
+
+            {% if page.muftis.members %}
+            <div class="space-y-4">
+                <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400">Members</h5>
+                <div class="flex flex-col gap-2">
+                    {% for person in page.muftis.members %}
+                    <a href="{{ person.url | relative_url }}" class="text-lg font-black italic serif hover:line-through">{{ person.name }}</a>
+                    {% endfor %}
+                </div>
             </div>
-        </div>
+            {% endif %}
+
+        {% elsif page.muftis.shaykh %}
+            <div class="md:col-span-3 space-y-4">
+                <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400">Scholars</h5>
+                <div class="flex flex-wrap gap-x-8 gap-y-2">
+                    {% for person in page.muftis.shaykh %}
+                    <a href="{{ person.url | relative_url }}" class="text-lg font-black italic serif hover:line-through">{{ person.name }}</a>
+                    {% endfor %}
+                </div>
+            </div>
+        {% endif %}
     </div>
     {% endif %}
 
@@ -118,16 +139,18 @@ layout: default
             {% endif %}
 
             <div>
-                <span class="text-gray-400 block mb-4">Share</span>
-                <div class="flex md:justify-end gap-6">
-                    <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ site.url }}{{ page.url }}" target="_blank" class="hover:line-through">Twitter</a>
+                <span class="text-gray-400 block mb-4">Share Discovery</span>
+                <div class="flex flex-wrap md:justify-end gap-x-6 gap-y-2">
+                    <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ site.url }}{{ page.url }}" target="_blank" class="hover:line-through">X</a>
+                    <a href="https://www.threads.net/intent/post?text={{ page.title | url_encode }}%20{{ site.url }}{{ page.url }}" target="_blank" class="hover:line-through">Threads</a>
+                    <a href="https://t.me/share/url?url={{ site.url }}{{ page.url }}&text={{ page.title | url_encode }}" target="_blank" class="hover:line-through">Telegram</a>
                     <a href="https://wa.me/?text={{ page.title | url_encode }}%20{{ site.url }}{{ page.url }}" target="_blank" class="hover:line-through">WhatsApp</a>
-                    <a href="mailto:?subject={{ page.title }}&body={{ site.url }}{{ page.url }}" class="hover:line-through">Email</a>
+                    <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" target="_blank" class="hover:line-through">Facebook</a>
                 </div>
             </div>
         </div>
     </div>
-</div>
+</footer>
 
 <div class="mt-20 pt-12 border-t-4 border-black dark:border-white space-y-10 hidden">
 {% if page.muftis %}
