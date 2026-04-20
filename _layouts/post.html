@@ -105,6 +105,38 @@ layout: default
                 </div>
             </div>
         {% endif %}
+
+{% assign groups = "group1,group2,group3,group4,group5,group6,group7,group8,group9,group10,group11,group12,group13" | split: "," %}
+
+{% for group_name in groups %}
+  {% if page[group_name] %}
+    {% assign group_data = site[group_name] %}
+    
+    <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400 mb-4">Mufti (s)</h5>
+    <div class="space-y-3">
+      
+      {% if group_data.chairman %}
+        {% for chairman in group_data.chairman %}
+          <a href="{{ chairman.url | relative_url }}" class="block text-xl font-black italic serif leading-none hover:line-through dark:text-white transition-all">{{ chairman.name }}</a>
+        {% endfor %}
+      {% endif %} 
+
+      {% if group_data.deputy_chairman %}
+        {% for deputy in group_data.deputy_chairman %}
+          <a href="{{ deputy.url | relative_url }}" class="block text-xl font-black italic serif leading-none hover:line-through dark:text-white transition-all">{{ deputy.name }}</a>
+        {% endfor %}
+      {% endif %} 
+
+      {% if group_data.members %}
+        {% for member in group_data.members %}
+          <a href="{{ member.url | relative_url }}" class="block text-xl font-black italic serif leading-none hover:line-through dark:text-white transition-all">{{ member.name }}</a>
+        {% endfor %}
+      {% endif %}
+
+    </div>
+    {% break %} {% endif %}
+{% endfor %}
+
     </div>
     {% endif %}
 
