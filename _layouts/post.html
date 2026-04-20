@@ -106,7 +106,6 @@ layout: default
             </div>
         {% endif %}
 
-    </div>
     {% else %}
 {% assign groups = "group1,group2,group3,group4,group5,group6,group7,group8,group9,group10,group11,group12,group13" | split: "," %}
 {% for group_name in groups %}
@@ -149,6 +148,8 @@ layout: default
       {% endif %}
     {% break %} {% endif %}
 {% endfor %}
+
+    </div>
     {% endif %}
 
     <div class="grid grid-cols-1 md:grid-cols-2 gap-12 text-[10px] font-black uppercase tracking-widest">
