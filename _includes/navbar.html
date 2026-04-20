@@ -6,12 +6,9 @@
 
     <div class="flex flex-1 items-center gap-8">
         <div class="hidden md:flex gap-8">
-            <a itemprop="url" href="{{ site.url | relative_url }}" class="hover:line-through transition-all"><span itemprop="name">Index</span></a>
-            <a itemprop="url" href="{{ '/fatwas' | relative_url }}" class="hover:line-through transition-all"><span itemprop="name">Fatwas</span></a>
-            <a itemprop="url" href="{{ '/audios' | relative_url }}" class="hover:line-through transition-all"><span itemprop="name">Audios</span></a>
-            <a itemprop="url" href="{{ '/videos' | relative_url }}" class="hover:line-through transition-all"><span itemprop="name">Videos</span></a>
-            <a itemprop="url" href="{{ '/muqolat' | relative_url }}" class="hover:line-through transition-all"><span itemprop="name">Muqolat</span></a>
-            <a itemprop="url" href="{{ '/quran' | relative_url }}" class="hover:line-through transition-all"><span itemprop="name">Al-Quran</span></a>
+            {% for item in site.data.setting.nav %}
+             <a itemprop="url" href="{{ item.url | relative_url }}" class="hover:line-through transition-all"><span itemprop="name">{{ item.name }}</span></a>
+            {% endfor %}
         </div>
 
         <div class="md:hidden">

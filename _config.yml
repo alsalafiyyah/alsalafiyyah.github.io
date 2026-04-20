@@ -214,40 +214,9 @@ defaults:
       type: "pages"
     values:
       layout: "Page"
-  #multilingual
-  -
-    scope:
-      path: "ar/_posts/**"
-      type: "posts"
-    values:
-      locale: "ar"
-      lang: "ar"
-      permalink: /ar/:title/
-  -
-    scope:
-      path: "ar/_posts/audios/**"
-      type: "pages"
-    values:
-      locale: "en"
-      lang: "en"
-      permalink: /ar/audios/:title/
-  -
-    scope:
-      path: "ar/_pages/**"
-      type: "pages"
-    values:
-      locale: "ar"
-      lang: "ar"
-      permalink: /ar/:title/
-
 
 # Collections
 collections:
-  ar:
-    output          : true
-    locale          : ar
-    lang            : ar
-    permalink       : /:collection/:slug
   audio:
     output: true
     permalink       : /:collection/:slug

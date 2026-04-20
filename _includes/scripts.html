@@ -1,3 +1,28 @@
+<script defer type="text/javascript">(function(a,b,c){if(c in b&&b[c]){var d,e=a.location,f=/^(a|html)$/i;a.addEventListener("click",function(a){d=a.target;while(!f.test(d.nodeName))d=d.parentNode;"href"in d&&(d.href.indexOf("http")||~d.href.indexOf(e.host))&&(a.preventDefault(),e.href=d.href)},!1)}})(document,window.navigator,"standalone")</script>
+<script defer language="javascript" type="text/javascript">
+    function setAccessedDate() {
+      if (document.getElementById('accessed-on')) {
+        var now = new Date();
+        var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+        var formattedDate = now.getDate().padStart(2,'0')+" "+months[now.getMonth()]+" "+now.getFullYear();
+        document.getElementById('accessed-on').textContent = " (accessed " + formattedDate + ")";
+      }
+    }
+    function setModifiedDate() {
+      if (document.getElementById('last-modified')) {
+        fetch("https://api.github.com/repos/alsalafiyyah/alsalafiyyah.github.io/commits?path={{ page.path }}")
+          .then((response) => {
+            return response.json();
+          })
+          .then((commits) => {
+            var modified = commits[0]['commit']['committer']['date'].slice(0,10);
+            if(modified != "{{ page.date | date: "%d %b, %Y" }}") {
+              document.getElementById('last-modified').textContent = " " + modified + " ";
+            }
+          });
+      }
+    }
+  </script>
 {% if page.active == 'search' %}
 <script>
 document.addEventListener("DOMContentLoaded", function () {

@@ -21,11 +21,8 @@ nav:
   - name: Muqolat
     url: /muqolat
     active: muqolat
-  - name: Biographies
-    url: /biography/    
-  - name: Categories
-    url: /category
-    active: category
+  - name: "Al-Qur'an"
+    url: /quran
 
 aside_quick_links:
   - name: Bid'ah
@@ -46,10 +43,12 @@ aside_external_links:
     url: /about
 
 footer:
+  - name: About
+    url: "/about"
   - name: Sitemap
-    url: /sitemap
+    url: "/sitemap"
   - name: RSS Feed
-    url: /feed
+    url: "/feed"
 
 social_icons_footer:
   - name: Instagram
