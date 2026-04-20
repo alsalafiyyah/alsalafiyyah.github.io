@@ -114,27 +114,39 @@ layout: default
     {% assign group_data = site[group_name] %}
     
     <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400 mb-4">Mufti (s)</h5>
-    <div class="space-y-3">
       
       {% if group_data.chairman %}
+       <div class="space-y-4">
+         <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400">Chairman</h5>
+        <div class="flex flex-col gap-2">
         {% for chairman in group_data.chairman %}
-          <a href="{{ chairman.url | relative_url }}" class="block text-xl font-black italic serif leading-none hover:line-through dark:text-white transition-all">{{ chairman.name }}</a>
+          <a href="{{ chairman.url | relative_url }}" class="text-lg font-black italic serif hover:line-through">{{ chairman.name }}</a>
         {% endfor %}
+        </div>
+       </div>
       {% endif %} 
 
       {% if group_data.deputy_chairman %}
+       <div class="space-y-4">
+         <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400">Deputy Chairman</h5>
+        <div class="flex flex-col gap-2">
         {% for deputy in group_data.deputy_chairman %}
-          <a href="{{ deputy.url | relative_url }}" class="block text-xl font-black italic serif leading-none hover:line-through dark:text-white transition-all">{{ deputy.name }}</a>
+          <a href="{{ deputy.url | relative_url }}" class="text-lg font-black italic serif hover:line-through">{{ deputy.name }}</a>
         {% endfor %}
+        </div>
+       </div>
       {% endif %} 
 
       {% if group_data.members %}
+       <div class="space-y-4">
+         <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400">Members</h5>
+        <div class="flex flex-col gap-2">
         {% for member in group_data.members %}
-          <a href="{{ member.url | relative_url }}" class="block text-xl font-black italic serif leading-none hover:line-through dark:text-white transition-all">{{ member.name }}</a>
+          <a href="{{ member.url | relative_url }}" class="text-lg font-black italic serif hover:line-through">{{ member.name }}</a>
         {% endfor %}
+        </div>
+        </div>
       {% endif %}
-
-    </div>
     {% break %} {% endif %}
 {% endfor %}
     {% endif %}
