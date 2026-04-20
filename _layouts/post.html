@@ -1,7 +1,100 @@
 ---
 layout: default
 ---
-<section class="container">  
+<div class="prose prose-xl prose-black">
+{% if page.mp3 %}
+<div class="p-8 mb-6 border-4 border-black dark:border-white bg-white dark:bg-zinc-950 flex flex-col md:flex-row items-center gap-8 transition-colors">
+    <button id="play-button" class="flex-none w-16 h-16 bg-black text-white dark:bg-white dark:text-black flex items-center justify-center hover:opacity-80 transition-all focus:outline-none">
+        <svg id="play-icon" xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M8 5v14l11-7z" />
+        </svg>
+        <svg id="pause-icon" xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 hidden" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z" />
+        </svg>
+    </button>
+
+    <div class="flex-1 w-full">
+        <div class="flex justify-between items-end mb-2">
+            <div>
+                <span class="text-[10px] font-black uppercase tracking-[0.2em] block text-gray-400">Audio Version</span>
+                <h4 class="text-lg font-bold italic serif dark:text-white truncate max-w-[250px] md:max-w-[400px]" title="{{ page.title }}">{{ page.title }}</h4>
+            </div>
+            <span id="time-display" class="text-[10px] font-black tabular-nums dark:text-white">0:00 / 0:00</span>
+        </div>
+        
+        <div class="relative w-full h-2 bg-gray-100 dark:bg-zinc-800 cursor-pointer" id="progress-container">
+            <div id="progress-bar" class="absolute h-full bg-black dark:bg-white w-0 transition-all duration-100"></div>
+        </div>
+    </div>
+
+    <audio id="main-audio" src="{{ page.mp3 }}"></audio>
+</div>
+            {% endif %}
+
+            {{ content }}
+        </div>
+
+{% if page.date %}
+<div class="mt-20 pt-12 border-t-4 border-black dark:border-white space-y-10">
+{% if page.muftis %}
+    <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400 mb-4">Mufti (s)</h5>
+    <div class="space-y-3">
+        {% for chairman in page.muftis.chairman %}
+        <a href="{{ chairman.url | relative_url }}" class="block text-xl font-black italic serif leading-none hover:line-through dark:text-white transition-all">
+            {{ chairman.name }} <span class="not-italic text-[10px] uppercase tracking-tighter opacity-40 ml-2">Chairman</span>
+        </a>
+        {% endfor %}
+
+        {% for deputy_chairman in page.muftis.deputy_chairman %}
+        <a href="{{ deputy_chairman.url | relative_url }}" class="block text-xl font-black italic serif leading-none hover:line-through dark:text-white transition-all">
+            {{ deputy_chairman.name }} <span class="not-italic text-[10px] uppercase tracking-tighter opacity-40 ml-2">Deputy Chairman</span>
+        </a>
+        {% endfor %}
+
+        {% for member in page.muftis.members %}
+        <a href="{{ member.url | relative_url }}" class="block text-xl font-black italic serif leading-none hover:line-through dark:text-white transition-all">
+            {{ member.name }} <span class="not-italic text-[10px] uppercase tracking-tighter opacity-40 ml-2">Member</span>
+        </a>
+        {% endfor %}
+        {% for shaykh in page.muftis.shaykh %}
+        <a href="{{ shaykh.url | relative_url }}" class="block text-xl font-black italic serif leading-none hover:line-through dark:text-white transition-all">
+            {{ shaykh.name }}
+        </a>
+        {% endfor %}
+    </div>
+    {% endif %}
+    {% if page.shaykhs %}
+    <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400 mb-4">Mufti (s)</h5>
+    <div class="space-y-3">
+     {% for sh in page.shaykhs %}
+     <span class="text-xl font-black italic serif leading-none dark:text-white">
+        {{ sh }}
+     </span> {% unless forloop.last %},{% endunless %}
+      {% endfor %}
+      </div>
+    {% endif %}
+            <div class="grid grid-cols-2 gap-4 border-t border-gray-100 pt-8">
+                <div>
+                {% if page.source %}
+                    <h5 class="text-[10px] font-black uppercase text-gray-400 mb-1">Source</h5>
+                    <p class="text-xs font-bold">{{ page.source }}</p>
+                {% endif %}
+                </div>
+                <div class="text-right">
+                    <h5 class="text-[10px] font-black uppercase text-gray-400 mb-1">Spread</h5>
+                    <div class="flex justify-end gap-3 text-[10px] font-black uppercase underline">
+                        <a href="https://www.facebook.com/sharer.php?u={{ site.url }}{{site.baseurl}}{{ page.url }}"><i class="fa-brands fa-facebook-f fa-lg"></i></a>
+                        <a href="https://x.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{site.baseurl}}{{ page.url }}"><i class="fa-brands fa-x-twitter fa-lg"></i></a>
+                        <a href="https://t.me/share/url?url={{ site.url }}{{site.baseurl}}{{ page.url }}"><i class="fa-brands fa-telegram fa-lg"></i></a>
+                        <a href="https://wa.me/?text={{ site.url }}{{site.baseurl}}{{ page.url }}"><i class="fa-brands fa-whatsapp fa-lg"></i></a>
+                        <a href="https://threads.net/intent/post?text={{ site.url }}{{site.baseurl}}{{ page.url }}"><i class="fa-brands fa-threads fa-lg"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endif %}
+        
+<section class="container" style="display: none !important">  
  <article 
   itemprop="mainEntity" 
   itemscope 

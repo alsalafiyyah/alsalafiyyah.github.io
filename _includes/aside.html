@@ -1,0 +1,45 @@
+<aside itemscope itemtype="https://schema.org/WPSideBar" class="hidden md:block md:col-span-3 space-y-12 sticky top-12 self-start">
+
+<div class="border-t-2 border-black dark:border-white pt-4">
+    <span class="text-[10px] font-black uppercase tracking-widest text-gray-400 block mb-6">Latest Insights</span>
+    
+    <div class="space-y-8">
+        {% for post in site.posts limit:3 %}
+        <a href="{{ post.url | relative_url }}" class="group block">
+            <span class="text-[9px] font-bold uppercase tracking-widest opacity-40 group-hover:opacity-100 transition-opacity">
+                {{ post.hijri | default: (post.date | date: "%d %b %Y") }}
+            </span>
+            
+            <h4 class="text-sm font-black leading-tight uppercase mt-1 group-hover:bg-black group-hover:text-white dark:group-hover:bg-white dark:group-hover:text-black transition-all p-1 -ml-1">
+                {{ post.title }}
+            </h4>
+        </a>
+        {% endfor %}
+    </div>
+</div>
+
+ <div class="border-t-2 border-black dark:border-white pt-4">
+    <span class="text-[10px] font-black uppercase tracking-widest text-gray-400 block mb-4">Categories</span>
+    <div class="relative group">
+        <select 
+            onchange="window.location.href=this.value" 
+            class="w-full bg-transparent border-2 border-black dark:border-white px-4 py-3 text-[10px] font-black uppercase tracking-widest appearance-none cursor-pointer focus:bg-black focus:text-white dark:focus:bg-white dark:focus:text-black transition-all outline-none"
+        >
+            <option value="" disabled selected>Select Category</option>
+            {% for category in site.categories %}
+                {% capture category_name %}{{ category | first }}{% endcapture %}
+                <option value="{{ site.baseurl }}/category/{{ category_name | slugify }}">
+                    {{ category_name }} ({{ site.categories[category_name].size }})
+                </option>
+            {% endfor %}
+        </select>
+        
+        <div class="absolute right-4 top-1/2 -translate-y-1/2 pointer-events-none">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-3 w-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M19 9l-7 7-7-7" />
+            </svg>
+        </div>
+    </div>
+</div>
+
+    </aside>

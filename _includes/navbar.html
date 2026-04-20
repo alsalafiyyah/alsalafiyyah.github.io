@@ -1,0 +1,60 @@
+<div itemscope itemtype="https://schema.org/WebSite">
+<meta itemprop="url" content="{{ site.url }}"/>
+<header itemscope itemtype="https://schema.org/WPHeader" class="border-b border-gray-100">
+    
+    <nav itemscope itemtype="https://schema.org/SiteNavigationElement" aria-label="Main Navigation" class="flex justify-between items-center px-8 py-12 max-w-7xl mx-auto uppercase tracking-widest text-xs font-bold">
+
+    <div class="flex flex-1 items-center gap-8">
+        <div class="hidden md:flex gap-8">
+            <a itemprop="url" href="{{ site.url | relative_url }}" class="hover:line-through transition-all"><span itemprop="name">Index</span></a>
+            <a itemprop="url" href="{{ '/fatwas' | relative_url }}" class="hover:line-through transition-all"><span itemprop="name">Fatwas</span></a>
+            <a itemprop="url" href="{{ '/audios' | relative_url }}" class="hover:line-through transition-all"><span itemprop="name">Audios</span></a>
+            <a itemprop="url" href="{{ '/videos' | relative_url }}" class="hover:line-through transition-all"><span itemprop="name">Videos</span></a>
+            <a itemprop="url" href="{{ '/muqolat' | relative_url }}" class="hover:line-through transition-all"><span itemprop="name">Muqolat</span></a>
+        </div>
+
+        <div class="md:hidden">
+            <input type="checkbox" id="menu-toggle" class="hidden peer">
+            <label for="menu-toggle" class="cursor-pointer z-40 relative">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 8h16M4 16h16" />
+                </svg>
+            </label>
+
+            <div class="fixed inset-0 bg-black text-white z-50 flex flex-col justify-center items-center gap-8 transition-transform duration-500 translate-x-full peer-checked:translate-x-0">
+                <label for="menu-toggle" class="absolute top-12 left-8 cursor-pointer">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                    </svg>
+                </label>
+                <a itemprop="url" href="{{ site.url | relative_url }}" class="text-4xl font-black lowercase tracking-tighter serif italic hover:line-through transition-all"><span itemprop="name">Index</span></a>
+                <a itemprop="url" href="{{ '/fatwas' | relative_url }}" class="text-4xl font-black lowercase tracking-tighter serif italic hover:line-through transition-all"><span itemprop="name">Fatwas</span></a>
+                <a itemprop="url" href="{{ '/audios' | relative_url }}" class="text-4xl font-black lowercase tracking-tighter serif italic hover:line-through transition-all"><span itemprop="name">Audios</span></a>
+                <a itemprop="url" href="{{ '/videos' | relative_url }}" class="text-4xl font-black lowercase tracking-tighter serif italic hover:line-through transition-all"><span itemprop="name">Videos</span></a>
+                <a itemprop="url" href="{{ '/muqolat' | relative_url }}" class="text-4xl font-black lowercase tracking-tighter serif italic hover:line-through transition-all"><span itemprop="name">Muqolat</span></a>
+            </div>
+        </div>
+    </div>
+
+        <div class="flex-none">
+            <a itemprop="url" href="{{ site.url | relative_url }}" class="text-3xl lowercase font-black tracking-tighter leading-none relative z-10">
+                <span itemprop="name">{{ site.title }}</span>
+            </a>
+        </div>
+
+        <div role="search" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction" class="flex flex-1 justify-end">
+            <form itemprop="target" action="{{ '/search' | relative_url }}" method="get" class="relative flex items-center group">
+                <meta itemprop="urlTemplate" content="{{ '/search' | relative_url }}?q={search_term_string}"/>
+                <label for="search-input" class="cursor-pointer">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 md:h-3 md:w-3 opacity-40 group-focus-within:opacity-100 transition-opacity" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                    </svg>
+                </label>
+                <input itemprop="query-input" id="search-input" type="search" name="q" placeholder="SEARCH..." 
+                    class="bg-transparent border-b border-gray-200 focus:border-black outline-none transition-all duration-300 w-0 focus:w-32 ml-2 md:ml-6 md:w-32 md:focus:w-48 text-[10px] py-1">
+            </form>
+        </div>
+
+    </nav>
+</header>
+</div>

@@ -1,0 +1,150 @@
+{% if page.active == 'audios' %}
+<script>
+    const audio = document.getElementById('main-audio');
+    const playBtn = document.getElementById('play-button');
+    const playIcon = document.getElementById('play-icon');
+    const pauseIcon = document.getElementById('pause-icon');
+    const progressBar = document.getElementById('progress-bar');
+    const progressContainer = document.getElementById('progress-container');
+    const timeDisplay = document.getElementById('time-display');
+
+    // Toggle Play/Pause
+    function togglePlay() {
+        if (audio.paused) {
+            audio.play();
+            showPauseIcon();
+        } else {
+            audio.pause();
+            showPlayIcon();
+        }
+    }
+
+    function showPlayIcon() {
+        playIcon.classList.remove('hidden');
+        pauseIcon.classList.add('hidden');
+    }
+
+    function showPauseIcon() {
+        playIcon.classList.add('hidden');
+        pauseIcon.classList.remove('hidden');
+    }
+
+    playBtn.addEventListener('click', togglePlay);
+
+    // Update Progress Bar & Time
+    audio.addEventListener('timeupdate', () => {
+        const percent = (audio.currentTime / audio.duration) * 100;
+        progressBar.style.width = percent + '%';
+        
+        updateTimeDisplay();
+    });
+
+    // FIX: Listen for when audio finishes
+    audio.addEventListener('ended', () => {
+        showPlayIcon();
+        progressBar.style.width = '0%';
+        audio.currentTime = 0; // Reset track to beginning
+        updateTimeDisplay();
+    });
+
+    // Seek Functionality
+    progressContainer.addEventListener('click', (e) => {
+        const width = progressContainer.clientWidth;
+        const clickX = e.offsetX;
+        const duration = audio.duration;
+        audio.currentTime = (clickX / width) * duration;
+    });
+
+    function updateTimeDisplay() {
+        let curMins = Math.floor(audio.currentTime / 60);
+        let curSecs = Math.floor(audio.currentTime - curMins * 60);
+        let durMins = Math.floor(audio.duration / 60) || 0;
+        let durSecs = Math.floor(audio.duration - durMins * 60) || 0;
+        
+        timeDisplay.innerText = `${curMins}:${curSecs < 10 ? '0'+curSecs : curSecs} / ${durMins}:${durSecs < 10 ? '0'+durSecs : durSecs}`;
+    }
+
+    // Initialize display on load
+    audio.addEventListener('loadedmetadata', updateTimeDisplay);
+</script>
+{% endif %}
+    <script>
+        const themeToggleDarkIcon = document.getElementById('theme-toggle-dark-icon');
+        const themeToggleLightIcon = document.getElementById('theme-toggle-light-icon');
+        const themeToggleBtn = document.getElementById('theme-toggle');
+
+        if (document.documentElement.classList.contains('dark')) {
+            themeToggleLightIcon.classList.remove('hidden');
+        } else {
+            themeToggleDarkIcon.classList.remove('hidden');
+        }
+
+        themeToggleBtn.addEventListener('click', function() {
+            themeToggleDarkIcon.classList.toggle('hidden');
+            themeToggleLightIcon.classList.toggle('hidden');
+            if (document.documentElement.classList.contains('dark')) {
+                document.documentElement.classList.remove('dark');
+                localStorage.setItem('theme', 'light');
+            } else {
+                document.documentElement.classList.add('dark');
+                localStorage.setItem('theme', 'dark');
+            }
+        });
+    </script>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    const POSTS_PER_PAGE = 10;
+    const urlParams = new URLSearchParams(window.location.search);
+    const currentPage = parseInt(urlParams.get("page")) || 1;
+    
+    const raw = document.getElementById("fatwa-data");
+    const data = JSON.parse(raw.textContent);
+    
+    const totalPages = Math.ceil(data.length / POSTS_PER_PAGE);
+    const start = (currentPage - 1) * POSTS_PER_PAGE;
+    const end = start + POSTS_PER_PAGE;
+    
+    const container = document.getElementById("fatwa-container");
+    const postsToShow = data.slice(start, end);
+
+    // 1. Render Posts
+    container.innerHTML = postsToShow.map(post => `
+        <article class="group cursor-pointer mb-10 border-b border-gray-100 dark:border-zinc-800 last:border-0">
+            <span class="text-[10px] font-bold uppercase tracking-[0.3em] text-gray-400 group-hover:text-black dark:group-hover:text-white transition-colors">
+                ${post.hijri || ''}
+            </span>
+            <h2 class="text-4xl md:text-5xl font-black mt-4 mb-6 leading-[0.85] uppercase tracking-tighter group-hover:italic transition-all">
+                <a href="${post.url}">${post.title}</a>
+            </h2>
+            <p class="mt-6 text-xl text-gray-600 dark:text-gray-400 leading-relaxed max-w-full">
+                ${post.excerpt}
+            </p>
+            <a href="${post.url}" class="inline-block mt-4 border-b-2 border-black dark:border-white pb-1 font-bold uppercase text-sm tracking-widest hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-colors">
+                Read Article
+            </a>
+        </article>
+    `).join("");
+
+    // 2. Handle Pagination UI
+    const prevLink = document.getElementById("prev-link");
+    const nextLink = document.getElementById("next-link");
+    const currentDisplay = document.getElementById("current-page-display");
+    const totalDisplay = document.getElementById("total-pages-display");
+
+    // Update numbers (with leading zero for style)
+    currentDisplay.textContent = currentPage < 10 ? `0${currentPage}` : currentPage;
+    totalDisplay.textContent = totalPages < 10 ? `0${totalPages}` : totalPages;
+
+    // Show/Hide Newer
+    if (currentPage > 1) {
+        prevLink.classList.remove("invisible");
+        prevLink.href = `?page=${currentPage - 1}`;
+    }
+
+    // Show/Hide Older
+    if (currentPage < totalPages) {
+        nextLink.classList.remove("invisible");
+        nextLink.href = `?page=${currentPage + 1}`;
+    }
+});
+</script>

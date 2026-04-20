@@ -4,4 +4,32 @@ title: Al-Salafiyyah
 locale: en
 lang: en
 ---
-{% include RecentPosts.html %}
+
+    <div class="divide-y border-b border-black dark:border-white divide-gray-100 dark:divide-zinc-800">
+        {% for post in site.posts limit:5 %}
+        <article class="group py-12 flex flex-col md:flex-row md:items-center justify-between gap-6">
+            <div class="max-w-2xl">
+                <div class="flex items-center gap-4 mb-2">
+                    <span class="text-[10px] font-bold tabular-nums opacity-30">{{ forloop.index | prepend: '0' | slice: -2, 2 }}</span>
+                    <span class="text-[10px] font-black uppercase tracking-widest text-gray-400">{{ post.date | date: "%d %b %Y" }}</span>
+                </div>
+                <h3 class="text-3xl md:text-4xl font-black uppercase tracking-tighter leading-[0.85] group-hover:italic transition-all">
+                    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                </h3>
+            </div>
+            
+            <div class="flex-none">
+                <a href="{{ post.url | relative_url }}" class="text-[10px] font-black uppercase tracking-widest border border-black dark:border-white px-6 py-3 hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-all">
+                    Read →
+                </a>
+            </div>
+        </article>
+        {% endfor %}
+    </div>
+
+    <div class="mt-24 flex justify-center">
+        <a href="{{ '/fatwas' | relative_url }}" class="group relative inline-block px-12 py-6 bg-black dark:bg-white text-white dark:text-black font-black uppercase tracking-[0.4em] text-sm hover:scale-105 transition-transform duration-300">
+            View All Fatwas
+            <div class="absolute inset-0 border-2 border-black dark:border-white translate-x-2 translate-y-2 -z-10 group-hover:translate-x-0 group-hover:translate-y-0 transition-all"></div>
+        </a>
+    </div>
