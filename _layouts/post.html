@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="prose prose-xl prose-black">
-{% if page.active == 'audios' %}
+{% if page.videoID %}
 <div class="mb-6">
     <div class="bg-black text-white px-4 py-2 flex justify-between items-center">
         <span class="text-[10px] font-black uppercase tracking-[0.2em]">Stream / External</span>
@@ -14,7 +14,7 @@ layout: default
     <div class="relative w-full overflow-hidden border-x-4 border-b-4 border-black" style="padding-top: 56.25%;">
         <iframe 
             class="absolute top-0 left-0 bottom-0 right-0 w-full h-full"
-            src="{{ page.videoURL }}" 
+            src="https://www.youtube.com/embed/{{page.videoID}}?modestbranding=1&rel=0" 
             title="YouTube video player" 
             frameborder="0" 
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -114,21 +114,3 @@ layout: default
             </div>
         </div>
         {% endif %}
-        
-<section class="container" style="display: none !important">  
- <article 
-  itemprop="mainEntity" 
-  itemscope 
-  itemtype="http://schema.org/BlogPosting" 
-  itemid="{{ post.url }}">
-  {% include Breadcrumb.html %}
- <header itemprop="headline" class="mb-3">  
-  <h2 class="display-4">{{ page.title }}</h2>
- </header>
- <div property="articleBody">
-  {% include AudioPlayer.html %}
-  {{ content }}
- </div>
- {% include source.html %}
-</article>
-</section>

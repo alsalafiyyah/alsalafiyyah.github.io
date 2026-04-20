@@ -15,7 +15,7 @@ muftis:
       url: "/biography/fawzan/"
 ---
 
-​Question: 
+### ​Question: 
 
 A newspaper from Azerbaijan was found this week depicting Jesus (Peace Be Upon Him) and his mother Mary (Peace Be Upon Them) in a hideous/vile manner. This was done, according to their claims, in response to what the Danish newspapers did regarding our Prophet Muhammad ﷺ. Does the person who did this to Jesus and his mother commit disbelief (kufr) and apostatize from the religion of Islam—bearing in mind that those who did this affiliate themselves with Islam?
 
