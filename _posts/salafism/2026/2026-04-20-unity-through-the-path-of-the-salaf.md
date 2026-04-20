@@ -6,6 +6,8 @@ hijri: "Dhu al-Qidah 3, 1447 AH"
 title: "Unity Through the Path of the Salaf"
 source: "Liqa' al-Bab al-Maftuh tape 33"
 category: [fatwas,manhaj,sects]
+mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_033_05.mp3"
+active: audios
 excerpt: "I believe it is the duty of everyone to be brothers for the sake of Allah and to follow the path of the Salaf."
 muftis:
   shaykh: 

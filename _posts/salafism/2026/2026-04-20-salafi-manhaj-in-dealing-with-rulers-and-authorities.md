@@ -6,6 +6,8 @@ hijri: "Dhu al-Qidah 3, 1447 AH"
 title: "The Salafi Methodology in Dealing with Rulers and Authorities"
 source: "Liqa' al-Bab al-Maftuh tape 57"
 category: [fatwas,rulers]
+mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_057_30.mp3"
+active: audios
 excerpt: "There is no doubt that the manhaj (methodology) of the Salaf is to be patient with the harm of the rulers, to supplicate for them, and to establish the Friday and Eid prayers with them."
 muftis:
   shaykh: 
