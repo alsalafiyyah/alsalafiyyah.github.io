@@ -138,60 +138,21 @@
 
         hr { border: none; border-top: 0px solid black; margin: 3rem 0; }
         
-/* 1. The Inline Footnote Reference */
-sup[role="doc-noteref"] {
-    @apply ml-0.5;
-}
-
-sup[role="doc-noteref"] a {
-    @apply text-[10px] font-black bg-black text-white dark:bg-white dark:text-black 
-           px-1 py-0.5 no-underline hover:bg-gray-400 transition-colors tabular-nums;
-    vertical-align: super;
-}
-
-/* 2. The Footnotes Section */
-.footnotes {
-    @apply mt-24 pt-12 border-t-4 border-black dark:border-white transition-colors;
-}
-
-.footnotes::before {
-    content: "Citations & References";
-    @apply block text-[10px] font-black uppercase tracking-[0.3em] text-gray-400 mb-8 italic;
-}
-
-.footnotes ol {
-    @apply space-y-6 list-none !important; /* Removing default decimal to use custom styling */
-    counter-reset: footnote-counter;
-}
-
-.footnotes li {
-    counter-increment: footnote-counter;
-    @apply text-sm leading-relaxed text-gray-600 dark:text-zinc-400 relative pl-10;
-}
-
-/* Custom Large Footnote Numbers */
-.footnotes li::before {
-    content: counter(footnote-counter, decimal-leading-zero);
-    @apply absolute left-0 top-0 text-[10px] font-black tabular-nums text-black dark:text-white;
-}
-
-/* The 'Back to Reference' arrow */
-.reversefootnote {
-    @apply ml-2 text-black dark:text-white no-underline font-black hover:italic transition-all;
-}
-
-/* 3. Article Content Spacing */
-article p {
-    @apply mb-8 text-xl leading-[1.6] transition-colors;
-}
-
-article ol, article ul {
-    @apply my-8 space-y-4 ml-6;
-}
-
-article ol {
-    @apply list-decimal font-bold;
-}
+        .footnotes {
+            margin-top: 4rem;
+            padding-top: 2rem;
+            border-top: 1px solid #e5e5e5;
+            font-size: 0.875rem;
+            color: #666;
+        }
+        .footnotes ol { list-style-type: decimal; !important; padding-bottom: 14px;}
+        article ol { list-style-type: decimal; !important; padding-bottom: 14px;}
+        article ul { list-style-type: circle; !important;padding-bottom: 14px;}
+        article p {
+            margin-bottom: 1.5rem;
+            font-size: 1.125rem;
+            line-height: 1.75;
+        }
     </style>
 <!-- Google tag (gtag.js) -->
 <link href="https://www.googletagmanager.com/gtag/js?id={{ site.webmaster_verifications.gtag_manager }}" rel="prefetch" as="script">
