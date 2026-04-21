@@ -4,7 +4,7 @@ publisher: alsalafiyyah@icloud.com
 date: 2026-04-21
 hijri: "Dhu al-Qidah 4, 1447 AH"
 title: "Guidance on Following the Salaf vs. Adhering to Sufi Orders"
-source: "Fatawa Nur Ala ad-Darb Tape No.200"
+source: "Fatawa Nur Ala ad-Darb Tape No.43"
 category: [fatwas,sects,sufism]
 url: "https://binothaimeen.net/s/WE2q1Z1X"
 summary: "What I advise you to do is to seek out a scholar from among the scholars of the Sunnah, who are known for following the Pious Predecessors (Al-Salaf al-Salih)."
