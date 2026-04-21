@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-04-20
 hijri: "Dhu al-Qidah 3, 1447 AH"
-title: "Sufism: The Path of Innovation"
+title: "The Path of Innovation: Sufism"
 source: "Fatawa Nur Ala ad-Darb, Tape No.200"
 category: [fatwas,sects, sufism]
 excerpt: "The Sufi path is an innovated path for which Allah has sent down no authority. Neither the Messenger of Allah ﷺ, nor his Rightly Guided Caliphs, nor the guided Imams followed it."
