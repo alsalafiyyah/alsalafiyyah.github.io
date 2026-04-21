@@ -29,7 +29,7 @@ layout: null
     {% endunless %}
 
     <section class="grid grid-cols-1 md:grid-cols-12 gap-12 py-24 items-start">
-        {% include aside.html %}
+        {% cached_include aside.html %}
         <article class="md:col-span-8 md:col-start-5 max-w-none">
             {{ content }}
         </article>

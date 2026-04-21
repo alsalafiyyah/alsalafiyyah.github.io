@@ -27,7 +27,7 @@ summary: "Collection of video fatwas (legal opinions) issued by the scholars of 
         </a>
         <div class="mt-6">
             <span class="text-[10px] font-bold uppercase tracking-widest text-gray-400">
-                {{ post.hijri }} | {{ post.hijri | default: (post.date | date: "%B %Y") }}
+                {{ post.hijri }} | {{ post.date | date: "%B %Y" }}
             </span>
             <h2 class="text-2xl md:text-3xl font-black mt-2 mb-4 leading-none uppercase tracking-tighter group-hover:italic transition-all">
                 <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
