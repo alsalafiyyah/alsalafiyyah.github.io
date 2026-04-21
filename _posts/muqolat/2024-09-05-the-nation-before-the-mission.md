@@ -3,10 +3,8 @@ layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
 title: "Types of People on Earth Before The Mission of Islam"
-hijri: "Rabiul Awwal 02, 1446"
-source: "Hidayat Al-hayara Fi Ajwibat al-Yahud wa al-Nasara"
-lang: en
-locale: en
+hijri: "Rabiul Awwal 02, 1446 AH"
+source: "Hidayat Al-hayara Fi Ajwibat al-Yahud wa al-Nasara 1/227-230"
 active: muqolat
 date: 2024-09-05
 category: [muqolat]
@@ -25,6 +23,7 @@ When God (Allah in Arabic) sent Muhammad (peace be upon him) the people on earth
 The people of the Book are of two kinds: (a) **the cursed ones**, and (b) **those who went astray (strayers)**.
 
 #### (a) the cursed ones :
+
 The people who angered God are <mark>the Jews</mark>: the people of lies and falsifications, of perfidy, deception, and chicanery, the murderers of the prophets, the people of usury, and they are the most malicious of all people in intentions, the worst in temperament, the farthest to mercy, and the closest to vengeance. 
 
 Hatred is their nature, enmity and bitterness are their habits: habits of machination, lies, and trickery. They consider those who disagree with them in their rejection of Faith and in their belying of the prophets as undeserving and forbidden from having rights. They do not expect to find in a true believer a shred of trustworthiness, neither do they consider those who agree with them as worthy of right or pity, nor those who have something to share with them as worthy of fairness and equity, or those who mix with them as reliable and untrecherous, or those who give service to them as worthy to give advice. In their midst, the most wicked is the wisest, the shrewdest is the most deceitful, the level-headed, who is never found among them, is not a true Jew. 
@@ -32,6 +31,7 @@ Hatred is their nature, enmity and bitterness are their habits: habits of machin
 Among all people, they are the shortest in patience, the most excessive in wrongdoing to their families at home, the most unmindful for cleanliness at home, the most vicious in disposition. Greeting them is maledictive, meeting them is ominous, for their slogan is indignation and their attire in rancour. 
 
 #### (b) those who went astray :
+
 The second kind are the people who went astray: <mark>They are the worshippers of the Cross or the Trinitarians</mark>. They blasphemed against God in an unprecedented way, and refused to admit that He is the One and Only, the Eternal Absolute, who begets not, nor is He begotten and there is none like unto Him. They did not conceive God as the Greatest of all things, but instead, they said about Him what: 
 
 ***"Whereby the heavens are almost torn, and the earth is split asunder, and the mountains fall in ruins, That they ascribe a son (or offspring or children) to the Most Gracious (Allah)."** (Quran, Maryam [19]: 90-91).*
@@ -80,8 +80,5 @@ The religion of Islam rose through the guiding Book, and was but defended throug
 
 To God I return for good luck, for He opens the doors of the good, and facilitates the means to reach it. 
 
----
-
-*Adapted from the book entitled **"Hidayat al-hayara fi ajwibat al-Yahud wa-al-Nasara"** by Imam Ibn Qayyim al-Jawziyah (may Allah have mercy on him).*
 
 [^1]: God The Exalted says in His Book: **"Indeed, the religion in the sight of Allah is Islam."** (Quran, Aal 'Imran [3]: 19).
