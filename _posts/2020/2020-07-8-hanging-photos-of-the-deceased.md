@@ -2,14 +2,20 @@
 layout: post
 title: "Ruling on hanging photos of the deceased at home"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatwas of the Permanent Committee of KSA no.5088-5"
-category: [bidah, funerals]
-hijri: Dhul-Qa'dah 7, 1441
-summary: It is impermissible to hang pictures of animate objects at home or elsewhere; whether they are living or dead people, and whether as memories or otherwise. 
-shyakhs: 
- - Shaykh Ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Qa'ud
+source: "Fatwas of the Permanent Committee of KSA, Fatwa no.5088, Question 5"
+category: [fatwas, bidah, funerals]
+hijri: "Dhul-Qa'dah 7, 1441 AH"
+summary: "It is impermissible to hang pictures of animate objects at home or elsewhere; whether they are living or dead people, and whether as memories or otherwise."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman: 
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah ibn Qaud
+      url: /biography/qaud/
 ---
 
 ### Question: 

@@ -4,13 +4,18 @@ title: "Ruling on setting up tents beside the graves"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatwas of the Permanent Committee of KSA no.5848 question 1"
 category: [bidah, funerals, fatwas]
-hijri: Dhul-Qa'dah 25, 1441
-summary: It is impermissible for anyone to set up a tent beside the grave where reciters keep reciting Qur’an, granting the reward to the dead, then taking a wage for their action.
-note: true
-shaykhs: 
- - Shaykh Ibn Baz
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+hijri: "Dhul-Qa'dah 25, 1441AH"
+summary: "It is impermissible for anyone to set up a tent beside the grave where reciters keep reciting Qur’an, granting the reward to the dead, then taking a wage for their action."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+  members: 
+    - name: Shaykh Abdullah ibn Qaud
+      url: /biography/qaud/
 ---
 
 ### Question: 

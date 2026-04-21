@@ -2,16 +2,22 @@
 layout: post
 title: "Ruling on  placing Henna in the Grave with the Deceased"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatwas of the Permanent Committee of KSA no.6433-6"
-category: [bidah, funerals, fatwas]
-hijri: Dhul-Qa'dah 9, 1441
-summary: As for putting henna in the grave, this has no basis in Shari'ah; it should be abandoned.
-note: true
-shaykhs: 
- - Shaykh Ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud 
+source: "Fatwas of the Permanent Committee of KSA, Fatwa no.6433, Question 6"
+category: [fatwas, bidah, funerals, fatwas]
+hijri: "Dhul-Qa'dah 9, 1441AH"
+summary: "As for putting henna in the grave, this has no basis in Shari'ah; it should be abandoned."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman: 
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Abdullah ibn Qaud
+      url: /biography/qaud/
 ---
 
 ### Question: 

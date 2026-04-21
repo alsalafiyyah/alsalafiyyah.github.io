@@ -3,14 +3,21 @@ layout: post
 title: "Ruling on placing book in the grave"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatwas of the Permanent Committee of KSA no.3596-1"
-category: [bidah, funerals, fatwas]
-hijri: Dhul-Qa'dah 9, 1441
-summary: It is not permissible to place any books with the dead person believing that they will make them stand firm while answering the two angels’ questions.
-shaykhs: 
- - Shaykh Ibn Baz
- - Shaykh Abdul-Razzaq al-Afifi
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud 
+category: [fatwas, bidah, funerals, fatwas]
+hijri: "Dhul-Qa'dah 9, 1441AH"
+summary: "It is not permissible to place any books with the dead person believing that they will make them stand firm while answering the two angels’ questions."
+muftis:
+  chairman: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
+  deputy_chairman: 
+    - name: Shaykh Abdul-Razzaq Al-Afifi
+      url: /biography/afifi/
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan/
+    - name: Shaykh Abdullah ibn Qaud
+      url: /biography/qaud/
 ---
 
 ### Question: 

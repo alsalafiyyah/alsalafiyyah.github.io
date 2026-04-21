@@ -2,7 +2,7 @@
 layout: post
 title: "Ruling on Prophet's songs"
 publisher: "alsalafiyyah@icloud.com"
-category: [bidah, music, festivals]
+category: [fatwas, bidah, music, festivals]
 source: "Fatawa Al-Lajnah Al-Da'imah no. 18440-2"
 hijri: Dhul-Qa'dah 20, 1441 AH
 lang: en
