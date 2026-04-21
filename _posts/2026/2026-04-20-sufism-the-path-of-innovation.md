@@ -6,6 +6,7 @@ hijri: "Dhu al-Qidah 3, 1447 AH"
 title: "The Path of Innovation: Sufism"
 source: "Fatawa Nur Ala ad-Darb, Tape No.200"
 category: [fatwas,sects, sufism]
+link: "https://binothaimeen.net/s/Sld7QLIj"
 excerpt: "The Sufi path is an innovated path for which Allah has sent down no authority. Neither the Messenger of Allah ﷺ, nor his Rightly Guided Caliphs, nor the guided Imams followed it."
 muftis:
   shaykh: 
@@ -21,7 +22,7 @@ This episode begins with a letter received from a listener named Nizamuddin, a P
 
 All praise is due to Allah, Lord of the Worlds. I send peace and blessings upon our Prophet Muhammad, and upon his family, his companions, and those who follow them in righteousness until the Day of Judgment. To proceed: 
 
-The best of speech is the Book of Allah, and the best of guidance is the guidance of Muhammad ﷺ. The worst of matters are those newly invented [in religion]; every newly invented matter is an innovation (bid’ah), every innovation is a misguidance, and every misguidance is in the Fire 
+***The best of speech is the Book of Allah, and the best of guidance is the guidance of Muhammad ﷺ. The worst of matters are those newly invented [in religion]; every newly invented matter is an innovation (bid’ah), every innovation is a misguidance, and every misguidance is in the Fire.***
 
 ​Perhaps this opening sermon (khutbah) alone is sufficient as an answer to this question. This is because **the Sufi path is an innovated path for which Allah has sent down no authority. Neither the Messenger of Allah ﷺ, nor his Rightly Guided Caliphs, nor the guided Imams followed it.**
 
