@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 8, 1441
 date: 2020-07-29
 locale: en
 lang: en
-excerpt: "It is permissible to make Tawassul by the Qur’an, because it is the Speech of Allah in word and meaning, and His Speech is one of His Attributes."
+summary: "It is permissible to make Tawassul by the Qur’an, because it is the Speech of Allah in word and meaning, and His Speech is one of His Attributes."
 group1: true
 ---
 

@@ -10,7 +10,7 @@ note: false
 locale: en
 lang: en
 category: [rulership,muqolat]
-excerpt: "According to consensus of scholars, it is permissible to seek the help of the hypocrites for the Prophet, peace be upon him, sought the help of Abdullah ibn Ubay and his people."
+summary: "According to consensus of scholars, it is permissible to seek the help of the hypocrites for the Prophet, peace be upon him, sought the help of Abdullah ibn Ubay and his people."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -10,7 +10,7 @@ locale: en
 lang: en
 note: true
 group2: true
-excerpt: It is impermissible for you to either be in his company or associate with him. You should rather condemn him and warn people against him.
+summary: It is impermissible for you to either be in his company or associate with him. You should rather condemn him and warn people against him.
 ---
 
 ### Question: 

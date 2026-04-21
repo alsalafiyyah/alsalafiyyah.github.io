@@ -10,7 +10,7 @@ locale: en
 lang: en
 active: wahhabi
 category: [fatwas,wahhabism,manhaj]
-excerpt: "Is it true that Wahhabism antagonizes Al-ul-Bayt (members of the Prophet's extended Muslim family) and criticizes the Prophet (peace be upon him)?"
+summary: "Is it true that Wahhabism antagonizes Al-ul-Bayt (members of the Prophet's extended Muslim family) and criticizes the Prophet (peace be upon him)?"
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

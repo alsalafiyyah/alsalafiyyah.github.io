@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "It is not permissible for a Muslim to read the Bible as it has almost entirely undergone interpolation. Even the parts of the Bible that have undergone no interpolation are needless as the Qur'an replaces them."
+summary: "It is not permissible for a Muslim to read the Bible as it has almost entirely undergone interpolation. Even the parts of the Bible that have undergone no interpolation are needless as the Qur'an replaces them."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

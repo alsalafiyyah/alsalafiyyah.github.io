@@ -7,7 +7,7 @@ category: [books, walabara, knowledge]
 hijri: Dhul-Hijjah 8, 1441 AH
 lang: en
 note: true
-excerpt: "The Injil (Gospel) of today is not the same that Allah (Glorified and Exalted be He) sent down. Many distortions, lies, additions, omissions, and blasphemous statements are included."
+summary: "The Injil (Gospel) of today is not the same that Allah (Glorified and Exalted be He) sent down. Many distortions, lies, additions, omissions, and blasphemous statements are included."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

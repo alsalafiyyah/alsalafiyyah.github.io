@@ -9,7 +9,7 @@ date: 2020-07-29
 group1: true
 locale: en 
 lang: en
-excerpt: Thus, whoever claims that Allah is not above or below us or to our right or left has contradicted the evidence of the Qur'an and Sunnah.
+summary: Thus, whoever claims that Allah is not above or below us or to our right or left has contradicted the evidence of the Qur'an and Sunnah.
 ---
 
 ### Question: 

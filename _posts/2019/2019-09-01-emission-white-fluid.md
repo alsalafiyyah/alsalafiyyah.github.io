@@ -6,7 +6,7 @@ date: 2019-09-01
 hijri: Muharram 02, 1441 AH
 source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 8322, question 2"
 category: [taharah, ablution]
-excerpt: "This fluid is considered Najis and it comes under the same ruling as urine. Therefore, you should make Wudu’ after performing Istinja’ (cleansing the private parts with water after urination or defecation)."
+summary: "This fluid is considered Najis and it comes under the same ruling as urine. Therefore, you should make Wudu’ after performing Istinja’ (cleansing the private parts with water after urination or defecation)."
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

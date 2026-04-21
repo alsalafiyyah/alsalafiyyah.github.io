@@ -8,7 +8,7 @@ date: 2020/08/24
 locale: en
 lang: en
 category: [sects, funerals]
-excerpt: "Sitting on graves is not permissible as it is desecration of the graves. Therefore, it is not permissible to urinate or defecate on them or to do any act that is considered desecration of graves."
+summary: "Sitting on graves is not permissible as it is desecration of the graves. Therefore, it is not permissible to urinate or defecate on them or to do any act that is considered desecration of graves."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

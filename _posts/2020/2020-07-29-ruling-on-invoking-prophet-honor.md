@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 8, 1441
 date: 2020-07-29
 note: true
 group1: true
-excerpt: Scholars say that whoever utters such words is a Mushrik, because he is placing an intermediary between Allah and himself.
+summary: Scholars say that whoever utters such words is a Mushrik, because he is placing an intermediary between Allah and himself.
 ---
 
 ### Question: 

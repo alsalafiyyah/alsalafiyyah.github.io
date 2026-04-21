@@ -6,7 +6,7 @@ source: "Fatawa Al-Lajnah Ad-Da'imah no. 16641"
 hijri: Muharram 10, 1442
 date: 2020/08/29
 category: [masturbation,fasting,fatwas]
-excerpt: Masturbation is prohibited, as it involves drawing sexual pleasure in a way that Allah has made unlawful.
+summary: Masturbation is prohibited, as it involves drawing sexual pleasure in a way that Allah has made unlawful.
 note: true
 shaykhs: 
  - Shaykh Abdul-'Aziz ibn Baz

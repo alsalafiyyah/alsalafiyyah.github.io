@@ -9,7 +9,7 @@ category: [fatwas,salah]
 note: true
 locale: en
 lang: en
-excerpt: "If a person offers Salah with all its obligatory acts and fulfills its conditions, it is considered valid. They will be rewarded for it, and they will be sinful for drinking Khamr."
+summary: "If a person offers Salah with all its obligatory acts and fulfills its conditions, it is considered valid. They will be rewarded for it, and they will be sinful for drinking Khamr."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -6,7 +6,7 @@ date: 2025-07-29
 hijri: "Safar 4, 1447 AH"
 source: "Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 3239, Question 4"
 category: [fatwas, quran]
-excerpt: "The Qur’an is the Speech of Allah; it was not created. 'Isa (peace be upon him) is a human being who was given birth to by Maryam bint 'Imran. Thus, the Qur’an is better."
+summary: "The Qur’an is the Speech of Allah; it was not created. 'Isa (peace be upon him) is a human being who was given birth to by Maryam bint 'Imran. Thus, the Qur’an is better."
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

@@ -6,7 +6,7 @@ date: 2019-09-01
 hijri: Muharram 02, 1441 AH
 source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 8885, question 2"
 category: [taharah, ablution, salah]
-excerpt: "While a man performs Salah (Prayer), his penis becomes erect discharging nothing. Is his Wudu' (ablution) nullified? If so, should he interrupt or end his Salah, in case he has not yet completed it?"
+summary: "While a man performs Salah (Prayer), his penis becomes erect discharging nothing. Is his Wudu' (ablution) nullified? If so, should he interrupt or end his Salah, in case he has not yet completed it?"
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

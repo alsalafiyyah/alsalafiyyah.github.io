@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "You should not use such phrases with a Kafir (non-Muslim), but rather ask Allah to guide him to Islam."
+summary: "You should not use such phrases with a Kafir (non-Muslim), but rather ask Allah to guide him to Islam."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "It is obligatory on a Muslim to return the lost property of a disbeliever who is under Islamic protection if he finds it."
+summary: "It is obligatory on a Muslim to return the lost property of a disbeliever who is under Islamic protection if he finds it."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

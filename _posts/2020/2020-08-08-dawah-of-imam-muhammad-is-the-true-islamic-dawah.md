@@ -10,7 +10,7 @@ lang: en
 note: false
 active: wahhabi
 category: [wahhabism,muqolat,manhaj]
-excerpt: "In fact, the call of Imam Muhammad ibn 'Abdul-Wahhab is the true Islamic call of the Messenger of Allah, the Sahabah, and the Salaf."
+summary: "In fact, the call of Imam Muhammad ibn 'Abdul-Wahhab is the true Islamic call of the Messenger of Allah, the Sahabah, and the Salaf."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

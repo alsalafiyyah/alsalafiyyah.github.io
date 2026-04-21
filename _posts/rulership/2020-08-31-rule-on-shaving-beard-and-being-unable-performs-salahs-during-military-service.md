@@ -8,7 +8,7 @@ lang: en
 note: true
 uid: rule-on-shaving-beard-and-being-unable-performs-salahs-during-military-service
 category: [rulership]
-excerpt: "It is not permissible for a Muslim to indulge in something that entails all these forbidden acts or even some of them; for this leads to disobedience to Allah and His Messenger (peace be upon him)."
+summary: "It is not permissible for a Muslim to indulge in something that entails all these forbidden acts or even some of them; for this leads to disobedience to Allah and His Messenger (peace be upon him)."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

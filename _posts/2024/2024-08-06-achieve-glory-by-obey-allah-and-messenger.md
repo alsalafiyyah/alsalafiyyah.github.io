@@ -10,7 +10,7 @@ lang: en
 locale: en
 category: [fatwas]
 note: true
-excerpt: "How can glory and might be to Muslims when they are so weak in a corrupted world that Christians and Jews predominate?"
+summary: "How can glory and might be to Muslims when they are so weak in a corrupted world that Christians and Jews predominate?"
 group5: true
 article_taken_from: 
   taken_from:

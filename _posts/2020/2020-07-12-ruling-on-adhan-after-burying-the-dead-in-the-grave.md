@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatwas of the Permanent Committee of KSA no.3549"
 category: [bidah, funerals, fatwas]
 hijri: Dhul-Qa'dah 25, 1441
-excerpt: It is not permissible to call the Adhan or Iqamah at the grave after burying the dead or before burying him.
+summary: It is not permissible to call the Adhan or Iqamah at the grave after burying the dead or before burying him.
 note: true
 shaykhs: 
  - Shaykh Ibn Baz

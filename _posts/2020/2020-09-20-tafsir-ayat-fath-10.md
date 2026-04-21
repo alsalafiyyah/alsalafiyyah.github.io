@@ -10,7 +10,7 @@ note: false
 uid: tafsir-ayat-fath-10
 category: [quran]
 source: "Majmu' Fatawa 24/273"
-excerpt: "Please be informed that our 'Aqidah is to affirm Allah's Attribute of having a Hand and the other attributes stated by Him in His Noble Book or by His Messenger Muhammad (peace be upon him) in the purified Sunnah."
+summary: "Please be informed that our 'Aqidah is to affirm Allah's Attribute of having a Hand and the other attributes stated by Him in His Noble Book or by His Messenger Muhammad (peace be upon him) in the purified Sunnah."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -9,7 +9,7 @@ category: [fatwas,hisbah]
 group1: true
 locale: en
 lang: en
-excerpt: "It is permissible if it is done gently and with the intention of giving advice so that such a person might be prevented from making a mistake."
+summary: "It is permissible if it is done gently and with the intention of giving advice so that such a person might be prevented from making a mistake."
 ---
 
 ### Question:

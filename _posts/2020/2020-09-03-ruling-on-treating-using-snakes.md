@@ -4,7 +4,7 @@ title: "Ruling on treating using snakes"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 6990, Question 1"
 hijri: Muharram 15, 1442
-excerpt: It is impermissible to use snakes or the fat cooked with it in treatment. According to the preponderant view, eating the flesh of snakes is impermissible and the flesh of a dead snake is considered Najis.
+summary: It is impermissible to use snakes or the fat cooked with it in treatment. According to the preponderant view, eating the flesh of snakes is impermissible and the flesh of a dead snake is considered Najis.
 date: 2020/09/3
 category: [treatments,fatwas]
 lang: en

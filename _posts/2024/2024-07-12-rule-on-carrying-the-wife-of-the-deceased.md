@@ -10,7 +10,7 @@ note: true
 group6: true
 locale: en
 lang: en
-excerpt: This practice is prohibited as it is considered an act of Bid`ah. Introducing innovations in religion is not permissible.
+summary: This practice is prohibited as it is considered an act of Bid`ah. Introducing innovations in religion is not permissible.
 article_taken_from: 
   taken_from:
     - web_title: حمل زوجة المتوفى والطواف بها على القبر

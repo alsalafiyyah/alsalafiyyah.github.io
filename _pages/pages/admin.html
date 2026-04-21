@@ -126,7 +126,7 @@ permalink: /admin/
     </a>
     
     <p class="mt-6 text-xl md:text-2xl leading-relaxed max-w-3xl opacity-80">
-       {{ post.excerpt | truncatewords: 20  | strip_html | normalize_whitespace  | remove_first: "Question:" }}
+       {{ post.summary | truncatewords: 20  | strip_html | normalize_whitespace  | remove_first: "Question:" }}
     </p>
 
     <div class="mt-8">

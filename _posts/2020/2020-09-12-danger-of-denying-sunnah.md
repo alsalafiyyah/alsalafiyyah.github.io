@@ -8,7 +8,7 @@ locale: en
 date: 2020-09-12
 source: Majmu' Fatawa vol. 27
 category: [refutals,muqolat]
-excerpt: "I considered it necessary to make things clear regarding the claims of this man, and expose his reality before the Muslims so that they would be aware of his fallacies. Also, I want to fulfill the pledge, escape blame, and guide the Muslim Ummah."
+summary: "I considered it necessary to make things clear regarding the claims of this man, and expose his reality before the Muslims so that they would be aware of his fallacies. Also, I want to fulfill the pledge, escape blame, and guide the Muslim Ummah."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

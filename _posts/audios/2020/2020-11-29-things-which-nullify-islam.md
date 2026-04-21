@@ -11,7 +11,7 @@ locale: en
 active: audios
 category: [fatwas,audios]
 url: "https://binbaz.org.sa/fatwas/10816/%D9%86%D9%88%D8%A7%D9%82%D8%B6-%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85"
-excerpt: "There are certain matters that nullify Islam. A Muslim is obliged to be cautious about these things. Scholars have mentioned them in the chapter of the ruling on the Murtad (apostate). They defined them as the Muslim who becomes a Kafir after his Islam."
+summary: "There are certain matters that nullify Islam. A Muslim is obliged to be cautious about these things. Scholars have mentioned them in the chapter of the ruling on the Murtad (apostate). They defined them as the Muslim who becomes a Kafir after his Islam."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

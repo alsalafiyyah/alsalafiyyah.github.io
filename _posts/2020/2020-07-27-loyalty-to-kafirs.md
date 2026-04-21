@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "Loyalties to disbelievers that render a Muslim a disbeliever is loving and supporting them against Muslims, but they do not include dealing with them justly"
+summary: "Loyalties to disbelievers that render a Muslim a disbeliever is loving and supporting them against Muslims, but they do not include dealing with them justly"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

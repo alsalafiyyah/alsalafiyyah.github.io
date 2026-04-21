@@ -5,7 +5,7 @@ title: "Ruling on reciting some Ayahs incorrectly"
 hijri: Muharram 21, 1442 AH
 lang: en
 source: Fatwa of the Permanent Committee no. 5948-1
-excerpt: "There are some Ayahs (Qur'anic verses) which I cannot pronounce properly, for I have never been to schools. Is it permissible for me to recite the Noble Qur’an in this incorrect manner?"
+summary: "There are some Ayahs (Qur'anic verses) which I cannot pronounce properly, for I have never been to schools. Is it permissible for me to recite the Noble Qur’an in this incorrect manner?"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

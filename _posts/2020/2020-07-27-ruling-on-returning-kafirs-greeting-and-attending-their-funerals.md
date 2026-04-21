@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "It is not permissible for a Muslim to follow the funeral procession of a Non-Muslim, as it is Haram for a Muslim to take them as allies."
+summary: "It is not permissible for a Muslim to follow the funeral procession of a Non-Muslim, as it is Haram for a Muslim to take them as allies."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 3, 1441
 locale: en
 lang: en
 note: false
-excerpt: "he Isma'ilites get their name from their acceptance of Isma'il ibn Ja'far as the divinely appointed spiritual successor (Imam) to Ja'far Al-Sadiq) that oppose our purified Shari'ah (Islamic law)."
+summary: "he Isma'ilites get their name from their acceptance of Isma'il ibn Ja'far as the divinely appointed spiritual successor (Imam) to Ja'far Al-Sadiq) that oppose our purified Shari'ah (Islamic law)."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 14, 1441
 date: 2020/08/8
 locale: en
 lang: en
-excerpt: "If the matter is exactly as what is mentioned in the question, it is permissible for women attending weddings to wear ornamented clothes provided that they do not intermix with men."
+summary: "If the matter is exactly as what is mentioned in the question, it is permissible for women attending weddings to wear ornamented clothes provided that they do not intermix with men."
 note: true
 muftis:
   chairman: 

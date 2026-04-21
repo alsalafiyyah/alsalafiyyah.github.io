@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "It is not permissible to take photos of non-Muslim rituals or circulate them among Muslims because they contain acts of disbelief in Allah and His Messenger and contradict Islam. "
+summary: "It is not permissible to take photos of non-Muslim rituals or circulate them among Muslims because they contain acts of disbelief in Allah and His Messenger and contradict Islam. "
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Aal Al-Shaykh

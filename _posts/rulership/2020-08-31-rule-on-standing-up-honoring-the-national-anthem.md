@@ -8,7 +8,7 @@ lang: en
 note: true
 uid: rule-on-standing-up-honoring-the-national-anthem
 category: [rulership, walabara]
-excerpt: "It is not permissible for a Muslim to stand in honor of a national anthem or flag; this is a repudiated Bid'ah (innovation in religion) as it did not happen during the time of the Messenger of Allah (peace be upon him) or that of the Rightly-Guided Caliphs (may Allah be pleased with them)."
+summary: "It is not permissible for a Muslim to stand in honor of a national anthem or flag; this is a repudiated Bid'ah (innovation in religion) as it did not happen during the time of the Messenger of Allah (peace be upon him) or that of the Rightly-Guided Caliphs (may Allah be pleased with them)."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

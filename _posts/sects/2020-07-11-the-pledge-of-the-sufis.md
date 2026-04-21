@@ -8,7 +8,7 @@ hijri: Dhul-Qa'dah 20, 1441
 locale: en
 lang: en
 note: true
-excerpt: "This kind of pledge is not valid. You have done well by repenting to Allah (Exalted be He). You have to hold firm with the Book of Allah (Exalted be He) and the Sunnah of the Prophet (peace be upon him) by 'Aqidah (creed) and by saying, without taking the pledge to follow a leader of these sects."
+summary: "This kind of pledge is not valid. You have done well by repenting to Allah (Exalted be He). You have to hold firm with the Book of Allah (Exalted be He) and the Sunnah of the Prophet (peace be upon him) by 'Aqidah (creed) and by saying, without taking the pledge to follow a leader of these sects."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

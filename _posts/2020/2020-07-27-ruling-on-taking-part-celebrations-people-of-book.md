@@ -9,7 +9,7 @@ date: 2020-07-27
 lang: en
 locale: en
 note: true
-excerpt: "It is not permissible for a Muslim to join the non-Muslims in their festivals and to express joy and happiness on these occasions, or to take the day off work, whether the occasion is religious or secular, because this is a kind of imitating the Enemies of Allah, which is forbidden, and a kind of co-operating with them in falsehood."
+summary: "It is not permissible for a Muslim to join the non-Muslims in their festivals and to express joy and happiness on these occasions, or to take the day off work, whether the occasion is religious or secular, because this is a kind of imitating the Enemies of Allah, which is forbidden, and a kind of co-operating with them in falsehood."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -9,7 +9,7 @@ source: "Fatawa Islamiyah 6/280"
 lang: en
 locale: en
 category: [fatwas]
-excerpt: "If the above-mentioned meats were imported from the lands of the People of the Scripture, then it is permissible to eat them, as long as you do not know of anything which would be an evidence for its prohibition."
+summary: "If the above-mentioned meats were imported from the lands of the People of the Scripture, then it is permissible to eat them, as long as you do not know of anything which would be an evidence for its prohibition."
 muftis:
   shaykh: 
     - name: Shaykh Ibn Baz

@@ -8,7 +8,7 @@ lang: en
 locale: en
 note: true
 category: [fatwas,hijrah]
-excerpt: "My children can not read Arabic well as there is no Muslim in this city except me. I am very sad and depressed, and I cry copiously over my circumstances among this large majority of non Muslims."
+summary: "My children can not read Arabic well as there is no Muslim in this city except me. I am very sad and depressed, and I cry copiously over my circumstances among this large majority of non Muslims."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

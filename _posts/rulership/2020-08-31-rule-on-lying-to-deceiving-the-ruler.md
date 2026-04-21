@@ -8,7 +8,7 @@ lang: en
 note: true
 uid: rule-on-lying-to-deceiving-the-ruler
 category: [rulership]
-excerpt: "If that is the status quo (in your country), then you are not allowed to do that, because it involves lying to and deceiving the authorities, and using trickery to violate the regulations which they set to maintain the flow of governmental work, which was entrusted to you to serve the nation, and guard public interest against self-interest."
+summary: "If that is the status quo (in your country), then you are not allowed to do that, because it involves lying to and deceiving the authorities, and using trickery to violate the regulations which they set to maintain the flow of governmental work, which was entrusted to you to serve the nation, and guard public interest against self-interest."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -10,7 +10,7 @@ date: 2020-09-20
 note: true
 source: "Fatawa al-Lajnah ad-Da'imah 1/31, Fatwa no. 5167, Question 5"
 category: [fatwas,sects,refutals]
-excerpt: "This statement is false; the evidence on that is that Allah has clarified in the Qur’an the stages of Adam’s creation."
+summary: "This statement is false; the evidence on that is that Allah has clarified in the Qur’an the stages of Adam’s creation."
 article_taken_from: 
   taken_from:
     - web_title: ما صحة القول بأن الإنسان كان قردا وتطور

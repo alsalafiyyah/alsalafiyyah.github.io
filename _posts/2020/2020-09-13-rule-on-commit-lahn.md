@@ -5,7 +5,7 @@ title: "Ruling on committing Lahn while reciting Qur'an"
 hijri: Muharram 21, 1442 AH
 lang: en
 source: Fatwa of the Permanent Committee no. 9550
-excerpt: "Is there sin on the reciter? Is the Salah (Prayer) of the one who corrected him valid? Please give us your opinion along with the relevant proof."
+summary: "Is there sin on the reciter? Is the Salah (Prayer) of the one who corrected him valid? Please give us your opinion along with the relevant proof."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

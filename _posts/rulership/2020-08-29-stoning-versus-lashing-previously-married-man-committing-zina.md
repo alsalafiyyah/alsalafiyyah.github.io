@@ -8,7 +8,7 @@ lang: en
 note: true
 uid: stoning-versus-lashing-previously-married-man-committing-zina
 category: ["rulership", hudud, zina, hisbah]
-excerpt: "It is impermissible to cut one's own hand to apply the Hadd of stealing or to kill oneself if there is a reason to do it. A person should perform Tawbah instead, seek Allah's forgiveness, regret what they had done and determine not to do it again."
+summary: "It is impermissible to cut one's own hand to apply the Hadd of stealing or to kill oneself if there is a reason to do it. A person should perform Tawbah instead, seek Allah's forgiveness, regret what they had done and determine not to do it again."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

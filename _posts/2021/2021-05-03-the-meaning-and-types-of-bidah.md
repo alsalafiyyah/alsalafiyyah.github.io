@@ -7,7 +7,7 @@ source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 3230, Question 7"
 lang: en
 category: [bidah,terminology]
 note: true
-excerpt: "Bid'ah is an act of worship that was not legislated by Allah such as celebrating the birth of the Prophet (peace be upon him), Isra' (Night Journey), and Mi'raj (Ascension to Heaven) and the raising of the Mu'adhin's (caller to Prayer) voice in offering peace and blessings upon the Prophet (peace be upon him) after pronouncing Adhan (call to prayer) and the like."
+summary: "Bid'ah is an act of worship that was not legislated by Allah such as celebrating the birth of the Prophet (peace be upon him), Isra' (Night Journey), and Mi'raj (Ascension to Heaven) and the raising of the Mu'adhin's (caller to Prayer) voice in offering peace and blessings upon the Prophet (peace be upon him) after pronouncing Adhan (call to prayer) and the like."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

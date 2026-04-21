@@ -9,7 +9,7 @@ lang: en
 note: false
 uid: seeking-help-from-kafirs
 category: [rulership]
-excerpt: "It is permissible to seek the help of Mushriks to fight against other Mushriks, if they are willing to help. It is not permissible to give them a share of the booty as it was not authentically reported that the Prophet (peace be upon him) did so."
+summary: "It is permissible to seek the help of Mushriks to fight against other Mushriks, if they are willing to help. It is not permissible to give them a share of the booty as it was not authentically reported that the Prophet (peace be upon him) did so."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

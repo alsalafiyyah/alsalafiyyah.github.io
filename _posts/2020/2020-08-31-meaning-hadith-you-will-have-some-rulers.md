@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 17320"
 hijri: Muharram 12, 1442 AH
 lang: en
-excerpt: Your Eminence, is this Hadith Sahih (authentic)? We read it in Sahih Al-Jami' Al-Saghir Wa Zyadatih.
+summary: Your Eminence, is this Hadith Sahih (authentic)? We read it in Sahih Al-Jami' Al-Saghir Wa Zyadatih.
 category: ["tafsir", hadiths, rulership]
 muftis:
   chairman: 

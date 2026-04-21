@@ -8,7 +8,7 @@ date: 2020/09/3
 category: [fatwas,hisbah]
 locale: en
 lang: en
-excerpt: "A Muslim is obliged to enjoin right and forbid wrong with wisdom and good and wise argument."
+summary: "A Muslim is obliged to enjoin right and forbid wrong with wisdom and good and wise argument."
 muftis:
   chairman: 
     - name: Shaykh Ibrahim ibn Muhammad Aal Al-Shaykh 

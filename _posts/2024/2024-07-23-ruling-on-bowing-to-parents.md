@@ -10,7 +10,7 @@ note: true
 group1: true
 locale: en
 lang: en
-excerpt: This is impermissible and is tantamount to Shirk. Bowing is a form of worship, just like prostration; therefore, it is impermissible.
+summary: This is impermissible and is tantamount to Shirk. Bowing is a form of worship, just like prostration; therefore, it is impermissible.
 article_taken_from: 
   taken_from:
     - web_title: الركوع لأحد مثل الوالدين 

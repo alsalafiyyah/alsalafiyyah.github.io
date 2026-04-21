@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 date: 2020/07/27
 locale: en
 lang: en
-excerpt: Wahhabism is based on fulfilling the testimony that Muhammad is the Messenger of Allah and shunning Bid'ahs and superstitions as well as anything that contradicts the legislation brought by the Messenger of Allah.
+summary: Wahhabism is based on fulfilling the testimony that Muhammad is the Messenger of Allah and shunning Bid'ahs and superstitions as well as anything that contradicts the legislation brought by the Messenger of Allah.
 muftis:
   shaykh: 
     - name: Shaykh Ibn Baz

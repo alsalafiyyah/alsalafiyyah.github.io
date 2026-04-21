@@ -6,7 +6,7 @@ date: 2019-09-01
 hijri: "Muharram 02, 1441 AH"
 source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 20164"
 category: [fatwas,tawhid]
-excerpt: "Allah created the Earth on Saturday, He created the mountains on Sunday, He created the trees on Monday, He created the things entailing labor on Tuesday, He created light on Wednesday, He spread out the animals on Thursday, and He created Adam (peace be upon him) after 'Asr (Afternoon) on Friday. It is the last of creation in the last hour of the day, between `Asr and the night"
+summary: "Allah created the Earth on Saturday, He created the mountains on Sunday, He created the trees on Monday, He created the things entailing labor on Tuesday, He created light on Wednesday, He spread out the animals on Thursday, and He created Adam (peace be upon him) after 'Asr (Afternoon) on Friday. It is the last of creation in the last hour of the day, between `Asr and the night"
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

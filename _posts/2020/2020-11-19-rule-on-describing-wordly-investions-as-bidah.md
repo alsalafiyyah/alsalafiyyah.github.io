@@ -8,7 +8,7 @@ lang: en
 category: [bidah]
 note: false
 url: "https://al-maktaba.org/book/33940/916"
-excerpt: "Worldly affairs cannot be described as Bid'ahs in terms of the religious connotation of the word. What is Munkar and should be rejected, however, is what people have innovated in Din, such as acts of 'Ibadah (worship) that are not prescribed in Islam."
+summary: "Worldly affairs cannot be described as Bid'ahs in terms of the religious connotation of the word. What is Munkar and should be rejected, however, is what people have innovated in Din, such as acts of 'Ibadah (worship) that are not prescribed in Islam."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

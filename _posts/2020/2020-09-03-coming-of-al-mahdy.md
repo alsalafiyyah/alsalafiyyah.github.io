@@ -8,7 +8,7 @@ hijri: Muharram 15, 1442 AH
 lang: en
 locale: en
 note: true
-excerpt: "There are many Hadiths that indicate the emergence of Al-Mahdy. They were reported in many chains of transmission. A group of scholars said that these Hadiths are morally Mutawatir."
+summary: "There are many Hadiths that indicate the emergence of Al-Mahdy. They were reported in many chains of transmission. A group of scholars said that these Hadiths are morally Mutawatir."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

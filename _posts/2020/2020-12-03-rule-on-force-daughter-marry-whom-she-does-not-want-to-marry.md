@@ -7,7 +7,7 @@ source: "Fatawa Shaykh Ibn Baz p. 30/317"
 lang: en
 category: [marriage]
 note: false
-excerpt: "A father or any other person is not allowed to force the girls towards whom they act as Walis to marry one whom she does not want to be married to."
+summary: "A father or any other person is not allowed to force the girls towards whom they act as Walis to marry one whom she does not want to be married to."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

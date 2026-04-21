@@ -6,7 +6,7 @@ date: 2025-07-29
 hijri: "Safar 4, 1447 AH"
 source: "Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 3239, Question 4"
 category: [fatwas, quran]
-excerpt: "As for describing the Words of Allah as “ancient,” neither the Sahabah (Companions of the Prophet) nor the Imams of Salaf were reported to have described Allah’s Words as ancient."
+summary: "As for describing the Words of Allah as “ancient,” neither the Sahabah (Companions of the Prophet) nor the Imams of Salaf were reported to have described Allah’s Words as ancient."
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

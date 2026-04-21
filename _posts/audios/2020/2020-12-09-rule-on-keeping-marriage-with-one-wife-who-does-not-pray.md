@@ -11,7 +11,7 @@ locale: en
 active: audios
 category: [fatwas,audios,marriage]
 url: "https://binbaz.org.sa/fatwas/7057/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D9%84%D8%A7-%D8%AA%D8%B5%D9%84%D9%8A-%D9%88%D9%84%D8%A7-%D8%AA%D9%84%D8%AA%D8%B2%D9%85-%D8%A8%D8%A7%D9%84%D8%AD%D8%AC%D8%A7%D8%A8-%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D9%8A"
-excerpt: "If she does not pray at all, then the marriage is over since whoever abandons Salah (Prayer) has no religion; rather, such a person is a Kafir (disbeliever). May Allah keep us safe."
+summary: "If she does not pray at all, then the marriage is over since whoever abandons Salah (Prayer) has no religion; rather, such a person is a Kafir (disbeliever). May Allah keep us safe."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

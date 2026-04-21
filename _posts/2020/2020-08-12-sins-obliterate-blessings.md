@@ -7,7 +7,7 @@ hijri: Dhul-Hijjah 22, 1441 AH
 lang: en
 note: false
 category: [misc]
-excerpt: "Undoubtedly, committing sins is one of the causes of Allah’s Wrath, loss of blessings, withholding of rain and being overtaken by the enemy."
+summary: "Undoubtedly, committing sins is one of the causes of Allah’s Wrath, loss of blessings, withholding of rain and being overtaken by the enemy."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

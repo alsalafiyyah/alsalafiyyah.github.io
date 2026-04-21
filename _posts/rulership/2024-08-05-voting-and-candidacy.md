@@ -10,7 +10,7 @@ lang: en
 locale: en
 category: [fatwas,rulership,politics]
 note: true
-excerpt: "It is not permissible for a Muslim to nominate himself hoping to be a part of a system disagreeing with the Islamic revealed law."
+summary: "It is not permissible for a Muslim to nominate himself hoping to be a part of a system disagreeing with the Islamic revealed law."
 group1: true
 article_taken_from: 
   taken_from:

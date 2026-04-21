@@ -6,7 +6,7 @@ source: Fatawa Al-Lajnah Ad-Da'imah no. 1621, question 7
 hijri: Muharram 9, 1442
 date: 2020-08-28
 category: [prophets,sects,fatwas]
-excerpt: Surely, in disbelief are they who say that Allâh is the Messiah, son of Mary.
+summary: Surely, in disbelief are they who say that Allâh is the Messiah, son of Mary.
 group1: true
 locale: en
 lang: en

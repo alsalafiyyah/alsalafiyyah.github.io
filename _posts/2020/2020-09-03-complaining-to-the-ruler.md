@@ -9,7 +9,7 @@ category: [fatwas,rulership,hisbah]
 locale: en
 lang: en
 note: true
-excerpt: "Is it obligatory on me to complain to the Imam about someone who does not attend the congregational prayer or should I just advise him?"
+summary: "Is it obligatory on me to complain to the Imam about someone who does not attend the congregational prayer or should I just advise him?"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

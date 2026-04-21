@@ -8,7 +8,7 @@ lang: en
 locale: en
 category: [fatwas,walabara,hijrah]
 note: false
-excerpt: "All the Muslims living in non-believers' countries should migrate to Islamic countries where the rites of Islam are being performed if possible. If they cannot move to such countries, they should migrate to less evil countries"
+summary: "All the Muslims living in non-believers' countries should migrate to Islamic countries where the rites of Islam are being performed if possible. If they cannot move to such countries, they should migrate to less evil countries"
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

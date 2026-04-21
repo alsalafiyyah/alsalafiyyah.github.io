@@ -7,7 +7,7 @@ category: [books, knowledge]
 hijri: Dhul-Hijjah 11, 1441 AH
 lang: en
 note: true
-excerpt: "It is Haram (prohibited) for a person to write such false stories. The stories mentioned the Qur'an, the Sunnah and other factual stories suffice and serve as moral lessons."
+summary: "It is Haram (prohibited) for a person to write such false stories. The stories mentioned the Qur'an, the Sunnah and other factual stories suffice and serve as moral lessons."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

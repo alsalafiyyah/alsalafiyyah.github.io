@@ -4,7 +4,7 @@ title: "Treating the mentally retarded"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 20913, Question 1"
 hijri: Muharram 15, 1442
-excerpt: It is not permissible to refuse to treat the mentally and physically retarded if the cure is possible, even if his treatment costs a lot as long as it is affordable.
+summary: It is not permissible to refuse to treat the mentally and physically retarded if the cure is possible, even if his treatment costs a lot as long as it is affordable.
 date: 2020/09/3
 category: [treatments,fatwas]
 locale: en

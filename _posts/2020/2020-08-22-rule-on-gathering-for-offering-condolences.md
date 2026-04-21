@@ -4,7 +4,7 @@ title: "Ruling on gathering for offering condolences"
 publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 14705"
 hijri: Muharram 3, 1442
-excerpt: A person is rewarded when offering condolences because he or she is soothing the pain and sorrow of the bereaved family and through supplicating for them.
+summary: A person is rewarded when offering condolences because he or she is soothing the pain and sorrow of the bereaved family and through supplicating for them.
 category: [funerals, fatwas]
 date: 2020/08/22
 shaykhs: 

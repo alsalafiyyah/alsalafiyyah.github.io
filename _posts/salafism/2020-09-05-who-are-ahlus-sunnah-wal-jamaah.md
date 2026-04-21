@@ -9,7 +9,7 @@ locale: en
 lang: en
 note: true
 group1: true
-excerpt: Ahl Al-Sunnah wal Jama‘ah are the Muslims who follow the very same way which Prophet Muhammad ibn Abdullah (peace and blessings be upon him) and his Companions followed.
+summary: Ahl Al-Sunnah wal Jama‘ah are the Muslims who follow the very same way which Prophet Muhammad ibn Abdullah (peace and blessings be upon him) and his Companions followed.
 category: [fatwas,manhaj,sects]
 article_taken_from: 
   taken_from:

@@ -8,7 +8,7 @@ lang: en
 category: [rulership, hisbah]
 note: false
 uid: is-enjoining-maruf-forbid-munkar-a-right-for-muslims-or-the-authorities
-excerpt: "Correcting the wrong is a right for all Muslims according to their ability. However, changing by the hand must be based on ability that will not result in greater corruption or evil. Man has the right to rectify matters with his hand (by taking action) in his home, with his children, wife, and servants; and a manager has the authority to make changes with the hand within the organization they are responsible for, in accordance with the instructions that were given to them."
+summary: "Correcting the wrong is a right for all Muslims according to their ability. However, changing by the hand must be based on ability that will not result in greater corruption or evil. Man has the right to rectify matters with his hand (by taking action) in his home, with his children, wife, and servants; and a manager has the authority to make changes with the hand within the organization they are responsible for, in accordance with the instructions that were given to them."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

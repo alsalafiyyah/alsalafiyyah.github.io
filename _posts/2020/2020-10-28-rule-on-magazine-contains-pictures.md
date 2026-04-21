@@ -8,7 +8,7 @@ lang: en
 locale: en
 category: [taswir]
 note: false
-excerpt: "What is the ruling on bringing home useful magazines and school books that contain pictures of living creatures? Does this come under the ruling introduced in the Hadith that reads: Angels do not enter a house in which there is a dog or a picture."
+summary: "What is the ruling on bringing home useful magazines and school books that contain pictures of living creatures? Does this come under the ruling introduced in the Hadith that reads: Angels do not enter a house in which there is a dog or a picture."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

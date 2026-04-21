@@ -10,7 +10,7 @@ locale: en
 lang: en
 group1: true
 category: [prophets,fatwas]
-excerpt: Indeed, humankind are in dire need for the messengers, as human beings minds differ greatly in reason. Moreover, they are unable to recognize - independently - the words and deeds that please or displease Allah.
+summary: Indeed, humankind are in dire need for the messengers, as human beings minds differ greatly in reason. Moreover, they are unable to recognize - independently - the words and deeds that please or displease Allah.
 ---
 
 ### Question:

@@ -10,7 +10,7 @@ locale: en
 note: false
 active: wahhabi
 source: Majmu' Fatawa Ibn Baz 1/377
-excerpt: "This claim is groundless. In fact, it is a lie and a way of hindering others from the truth. Rather, it is known that when the followers of Imam Muhammad entered Madinah, they spread the call of Salafiyyah."
+summary: "This claim is groundless. In fact, it is a lie and a way of hindering others from the truth. Rather, it is known that when the followers of Imam Muhammad entered Madinah, they spread the call of Salafiyyah."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

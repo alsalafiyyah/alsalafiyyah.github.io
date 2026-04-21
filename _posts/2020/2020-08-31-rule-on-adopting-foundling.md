@@ -11,7 +11,7 @@ group2: true
 locale: en
 lang: en
 uid: rule-on-adopting-a-foundling
-excerpt: "Bringing up the foundling and being benevolent toward him is a good deed for which you will be rewarded."
+summary: "Bringing up the foundling and being benevolent toward him is a good deed for which you will be rewarded."
 ---
 
 ### Question: 

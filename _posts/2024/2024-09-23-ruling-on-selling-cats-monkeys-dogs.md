@@ -8,7 +8,7 @@ locale: en
 date: 2024-09-23
 category: [fatwas,animals]
 source: "Fatawa al-Lajnah ad-Da'imah 13/37, Fatwa no.18564‏"
-excerpt: "It is not permissible to sell cats, monkeys and dogs, and other carnivores that have fangs, because the Prophet ﷺ forbade that and denounced it."
+summary: "It is not permissible to sell cats, monkeys and dogs, and other carnivores that have fangs, because the Prophet ﷺ forbade that and denounced it."
 group13: true
 ---
 

@@ -8,7 +8,7 @@ source: "Al-Ijabat al-Muhimmah fee Mashakil il-Mudlahimmah, compiled by Muhammad
 category: [fatwas,rulership,sects]
 locale: en
 lang: en
-excerpt: The manhaj of the Khawarij comprises of three aspects namely disobedience to the ruler, takfir of the Muslims, and making permissible the blood of the Muslims.
+summary: The manhaj of the Khawarij comprises of three aspects namely disobedience to the ruler, takfir of the Muslims, and making permissible the blood of the Muslims.
 translated_by: Abul-Irbad Abid Zargar
 muftis:
   shaykh: 

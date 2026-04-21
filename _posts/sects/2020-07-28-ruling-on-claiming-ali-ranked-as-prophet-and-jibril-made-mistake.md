@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 7, 1441
 locale: en
 lang: en
 note: true
-excerpt: "Shiites have been divided into many sects. Whoever among them says that 'Ali (may Allah be pleased with him) is ranked as a prophet and that Jibril (Gabriel) (peace be upon him) mistakenly descended to the Prophet Muhammad (peace be upon him) counts as Kafir (disbeliever)."
+summary: "Shiites have been divided into many sects. Whoever among them says that 'Ali (may Allah be pleased with him) is ranked as a prophet and that Jibril (Gabriel) (peace be upon him) mistakenly descended to the Prophet Muhammad (peace be upon him) counts as Kafir (disbeliever)."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

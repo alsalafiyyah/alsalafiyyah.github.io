@@ -9,7 +9,7 @@ date: 2020/08/8
 locale: en
 lang: en
 note: true
-excerpt: "It is not permissible for women to remove anything from eyebrows whether by trimming, cutting, or shaving."
+summary: "It is not permissible for women to remove anything from eyebrows whether by trimming, cutting, or shaving."
 muftis:
   chairman: 
     - name: Shaykh Ibn baz

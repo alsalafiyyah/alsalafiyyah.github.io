@@ -8,7 +8,7 @@ source: "Liqa' al-Bab al-Maftuh tape 30"
 category: [fatwas,terminology,sects,audios]
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/mm_030_09.mp3"
 active: audios
-excerpt: "This is a term commonly recognized today. However, Allah the Exalted named them in His Book as the Nasara."
+summary: "This is a term commonly recognized today. However, Allah the Exalted named them in His Book as the Nasara."
 muftis:
   shaykh: 
     - name: Shaykh Ibn Uthaymeen 

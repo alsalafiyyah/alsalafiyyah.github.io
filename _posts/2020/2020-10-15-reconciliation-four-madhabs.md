@@ -7,7 +7,7 @@ source: "Fatawa Al-lajnah Al-Da'imah no. 5560"
 lang: en
 category: [madhabs]
 note: true
-excerpt: "A Muslim is not required to combine between the ways followed by the four Madhabs (Schools of Jurisprudence) in his deeds."
+summary: "A Muslim is not required to combine between the ways followed by the four Madhabs (Schools of Jurisprudence) in his deeds."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -8,7 +8,7 @@ hijri: Muharram 15, 1442 AH
 lang: en
 locale: en
 note: true
-excerpt: "It is authentically reported from the Prophet - peace be upon him - that Al-Masih Al-Dajjal will appear at the end of time and will command the sky to rain, so it will, and command the earth to bring forth vegetation, so it will."
+summary: "It is authentically reported from the Prophet - peace be upon him - that Al-Masih Al-Dajjal will appear at the end of time and will command the sky to rain, so it will, and command the earth to bring forth vegetation, so it will."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

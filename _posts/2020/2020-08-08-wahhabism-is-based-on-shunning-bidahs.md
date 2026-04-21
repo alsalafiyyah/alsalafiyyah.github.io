@@ -10,7 +10,7 @@ lang: en
 note: false
 active: wahhabi
 category: [wahhabism]
-excerpt: "Wahhabism is based on fulfilling the testimony that Muhammad is the Messenger of Allah and shunning Bid’ahs and superstitions as well as anything that contradicts the legislation brought by the Messenger of Allah, Muhammad peace be upon him."
+summary: "Wahhabism is based on fulfilling the testimony that Muhammad is the Messenger of Allah and shunning Bid’ahs and superstitions as well as anything that contradicts the legislation brought by the Messenger of Allah, Muhammad peace be upon him."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

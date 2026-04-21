@@ -9,7 +9,7 @@ locale: en
 note: true
 category: [fatwas, sects]
 source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 7807, Question 2"
-excerpt: "Druze, Nusayriyyah, Ismailiyyah and those who follow them such as Babists and Baha'is have manipulated the religious texts; legislated for themselves what Allah has not permitted for them; and imitated the Jews and the Christians in their distortions"
+summary: "Druze, Nusayriyyah, Ismailiyyah and those who follow them such as Babists and Baha'is have manipulated the religious texts; legislated for themselves what Allah has not permitted for them; and imitated the Jews and the Christians in their distortions"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

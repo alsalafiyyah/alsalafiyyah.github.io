@@ -8,7 +8,7 @@ hijri: Muharram 16, 1442
 date: 2020-09-04
 lang: en
 locale: en
-excerpt: "We often address each other using the word Sayyid (Master or Sir) for people whose ancestry can be traced to a particular family. Is it permissible to do this?"
+summary: "We often address each other using the word Sayyid (Master or Sir) for people whose ancestry can be traced to a particular family. Is it permissible to do this?"
 muftis:
   shaykh: 
     - name: Shaykh Ibn Baz

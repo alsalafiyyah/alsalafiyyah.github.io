@@ -7,7 +7,7 @@ category: [non-muslim]
 hijri: Dhul-Qa'dah 27, 1441 AH
 lang: en
 locale: en
-excerpt: "Buddha was not a prophet; he was an atheist philosopher, who led an ascetic life of non-conformity with Divine Religion. Anyone who believes in his prophethood is a Kafir (disbeliever)."
+summary: "Buddha was not a prophet; he was an atheist philosopher, who led an ascetic life of non-conformity with Divine Religion. Anyone who believes in his prophethood is a Kafir (disbeliever)."
 muftis:
   chairman: 
     - name: Abdul-Aziz ibn Abdullah Aal Al-Shaykh

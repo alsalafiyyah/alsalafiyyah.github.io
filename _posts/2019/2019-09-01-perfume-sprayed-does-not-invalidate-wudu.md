@@ -6,7 +6,7 @@ date: 2019-09-01
 hijri: Muharram 02, 1441 AH
 source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 7726 question 3"
 category: [taharah, ablution]
-excerpt: "I work in a pharmacy where perfumes are also sold. My hands touch these perfumes while dealing with the perfume tester bottles tried by the buyers who want to check the quality of the perfume they buy."
+summary: "I work in a pharmacy where perfumes are also sold. My hands touch these perfumes while dealing with the perfume tester bottles tried by the buyers who want to check the quality of the perfume they buy."
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

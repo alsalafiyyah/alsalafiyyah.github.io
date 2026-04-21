@@ -6,7 +6,7 @@ source: "Fatawa Al-Lajnah Ad-Da'imah no. 3122-9"
 hijri: Muharram 11, 1442 AH
 lang: en
 category: ["tafsir", hadiths]
-excerpt: The Hadith refers to the strength of faith. A believer who has strong faith is far better than a believer who has weak faith. With regard to physical strength, if it does not make the person do good deeds, it will be of no avail.
+summary: The Hadith refers to the strength of faith. A believer who has strong faith is far better than a believer who has weak faith. With regard to physical strength, if it does not make the person do good deeds, it will be of no avail.
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

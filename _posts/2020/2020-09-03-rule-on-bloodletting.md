@@ -4,7 +4,7 @@ title: "Ruling on bloodletting"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah"
 hijri: Muharram 15, 1442
-excerpt: "This process should be handled by an expert in bloodletting to determine the case properly and choose the right spot in the body to be treated in this way as well as the right time."
+summary: "This process should be handled by an expert in bloodletting to determine the case properly and choose the right spot in the body to be treated in this way as well as the right time."
 lang: en
 locale: en
 date: 2020/09/3

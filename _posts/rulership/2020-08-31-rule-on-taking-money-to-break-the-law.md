@@ -8,7 +8,7 @@ lang: en
 note: true
 uid: rule-on-taking-money-to-break-the-law
 category: [rulership]
-excerpt: "The mentioned agreement is not permissible because it involves lying, forging, cheating authorities, and violation of regulations set for the public interest and does not contradict Shari‘ah. Both parties are at risk if this agreement is revealed to authorities."
+summary: "The mentioned agreement is not permissible because it involves lying, forging, cheating authorities, and violation of regulations set for the public interest and does not contradict Shari‘ah. Both parties are at risk if this agreement is revealed to authorities."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

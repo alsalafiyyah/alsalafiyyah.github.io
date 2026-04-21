@@ -6,7 +6,7 @@ date: 2019-09-01
 hijri: Muharram 02, 1441 AH
 source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 4279"
 category: [taharah, ablution]
-excerpt: "Soon after I have performed Istinja' (cleansing the private parts with water) after urination, I feel some small drops of urine being emitted."
+summary: "Soon after I have performed Istinja' (cleansing the private parts with water) after urination, I feel some small drops of urine being emitted."
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

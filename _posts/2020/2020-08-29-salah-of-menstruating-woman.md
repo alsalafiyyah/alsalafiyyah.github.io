@@ -9,7 +9,7 @@ locale: en
 lang: en
 category: [fatwas, salah, women]
 note: true
-excerpt: "If a woman becomes purified from menstruation or postpartum bleeding before the end of the due time of any Salah, she should offer this Salah and the one which can be combined with it."
+summary: "If a woman becomes purified from menstruation or postpartum bleeding before the end of the due time of any Salah, she should offer this Salah and the one which can be combined with it."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

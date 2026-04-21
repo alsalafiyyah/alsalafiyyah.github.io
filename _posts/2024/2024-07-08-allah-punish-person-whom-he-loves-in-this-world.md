@@ -10,7 +10,7 @@ note: true
 group2: true
 locale: en
 lang: en
-excerpt: When Allah wills good for His Slave, He hastens to punish them in this worldly life, and when He wills evil for His Slave, He withholds punishing them for their sin until they come to Him with that sin on the Day of Resurrection.
+summary: When Allah wills good for His Slave, He hastens to punish them in this worldly life, and when He wills evil for His Slave, He withholds punishing them for their sin until they come to Him with that sin on the Day of Resurrection.
 article_taken_from: 
   taken_from:
     - web_title: صحة القول بأن من أحبه الله عجل له العقوبة في الدنيا

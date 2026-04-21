@@ -8,7 +8,7 @@ hijri: Muharram 15, 1442 AH
 lang: en
 locale: en
 note: true
-excerpt: "Al-Jassasah mentioned in the Hadith reported by Tamim Al-Dary is different from the creature which Allah will bring out from the earth at the end of time as a Greater Sign of the Hour (Doomsday)."
+summary: "Al-Jassasah mentioned in the Hadith reported by Tamim Al-Dary is different from the creature which Allah will bring out from the earth at the end of time as a Greater Sign of the Hour (Doomsday)."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

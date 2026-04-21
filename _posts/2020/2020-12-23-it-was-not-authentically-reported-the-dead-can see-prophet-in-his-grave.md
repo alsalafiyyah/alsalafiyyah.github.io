@@ -8,7 +8,7 @@ lang: en
 locale: en
 category: [fatwas]
 note: true
-excerpt: "When the person dies and people bury him in the grave, two angels come to ask him about his Lord, his prophet, and his religion. The angels will speak to him in a language that he understands."
+summary: "When the person dies and people bury him in the grave, two angels come to ask him about his Lord, his prophet, and his religion. The angels will speak to him in a language that he understands."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

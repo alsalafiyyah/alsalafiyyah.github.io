@@ -6,7 +6,7 @@ date: 2021-05-03
 hijri: Ramadan 21, 1442 AH
 source: "Fatawa Al-Lajnah Al-Daimah no. 21672, question 4"
 category: [bidah, general]
-excerpt: "The covering of the Ka'bah is a well known practice centuries before the Mission of the Prophet (peace be upon him). However, the historians differed concerning the first to have done that."
+summary: "The covering of the Ka'bah is a well known practice centuries before the Mission of the Prophet (peace be upon him). However, the historians differed concerning the first to have done that."
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

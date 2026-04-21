@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatwas of the Permanent Committee of KSA no.5275 question 1"
 category: [bidah, funerals, fatwas]
 hijri: Dhul-Qa'dah 25, 1441
-excerpt: The habit of holding Ma'tam and staying to meet people who come for consolation is a type of Bid'ah.
+summary: The habit of holding Ma'tam and staying to meet people who come for consolation is a type of Bid'ah.
 shaykhs: 
  - Shaykh Ibn Baz
  - Shaykh Abdul-Razzaq Afify

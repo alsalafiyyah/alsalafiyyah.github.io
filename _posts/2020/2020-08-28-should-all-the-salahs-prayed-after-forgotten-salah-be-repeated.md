@@ -8,7 +8,7 @@ locale: en
 lang: en
 date: 2020/08/28
 category: [fatwas,salah]
-excerpt: "That person should offer Fajr Prayer only, and they do not have to repeat all the mentioned Salahs, as they offered them while in a state of forgetfulness that the Fajr Prayer is still due."
+summary: "That person should offer Fajr Prayer only, and they do not have to repeat all the mentioned Salahs, as they offered them while in a state of forgetfulness that the Fajr Prayer is still due."
 group1: true
 ---
 

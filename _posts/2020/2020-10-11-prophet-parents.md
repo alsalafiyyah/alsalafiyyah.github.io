@@ -7,7 +7,7 @@ source: "Fatawa Al-Lajnah Al-Da'imah no. 16426 "
 lang: en
 note: true
 category: [ahl-fatrah, prophets]
-excerpt: "Parents of the Prophet (peace be upon him) did not belong to Ahl-ul-Fatrah because the Arabs followed the faith of Ibrahim (peace be upon him), particularly the people in the lands of Hijaz. Later, Shirk (associating others with Allah in His Divinity or worship) reached them during the era of 'Amr ibn Luhay Al-Khuza'i, but they were still practicing some rites of Ibrahim's faith, such as Hajj."
+summary: "Parents of the Prophet (peace be upon him) did not belong to Ahl-ul-Fatrah because the Arabs followed the faith of Ibrahim (peace be upon him), particularly the people in the lands of Hijaz. Later, Shirk (associating others with Allah in His Divinity or worship) reached them during the era of 'Amr ibn Luhay Al-Khuza'i, but they were still practicing some rites of Ibrahim's faith, such as Hajj."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

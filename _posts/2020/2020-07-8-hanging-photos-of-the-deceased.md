@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatwas of the Permanent Committee of KSA no.5088-5"
 category: [bidah, funerals]
 hijri: Dhul-Qa'dah 7, 1441
-excerpt: It is impermissible to hang pictures of animate objects at home or elsewhere; whether they are living or dead people, and whether as memories or otherwise. 
+summary: It is impermissible to hang pictures of animate objects at home or elsewhere; whether they are living or dead people, and whether as memories or otherwise. 
 shyakhs: 
  - Shaykh Ibn Baz
  - Shaykh Abdul-Razzaq al-Afify

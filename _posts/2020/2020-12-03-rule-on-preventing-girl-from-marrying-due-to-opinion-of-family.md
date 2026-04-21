@@ -7,7 +7,7 @@ source: "Fatawa Shaykh Ibn Baz p. 20/417"
 lang: en
 category: [marriage]
 note: false
-excerpt: "None is allowed to object because of personal desire, hatred or desire for worldly gains. All these reasons should be disregarded. The most important factor is the religious commitment and good character the suitor has."
+summary: "None is allowed to object because of personal desire, hatred or desire for worldly gains. All these reasons should be disregarded. The most important factor is the religious commitment and good character the suitor has."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

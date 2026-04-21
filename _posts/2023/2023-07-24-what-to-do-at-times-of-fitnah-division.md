@@ -6,7 +6,7 @@ date: 2023-07-24
 hijri: "Muharram 06, 1445 AH"
 source: "Fatawa Al-Lajnah Al-Da’imah 3/95, Fatwa no.7703, Question 1"
 category: [hadiths, tafsir]
-excerpt: When the people do not have an leader and they split into sects and parties, do not follow any of these groups; keep away from all of them if possible, lest one fall into evil. 
+summary: When the people do not have an leader and they split into sects and parties, do not follow any of these groups; keep away from all of them if possible, lest one fall into evil. 
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

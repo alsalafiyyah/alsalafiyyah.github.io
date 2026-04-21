@@ -9,7 +9,7 @@ locale: en
 date: 2020-07-20
 note: false
 category: [refutals]
-excerpt: "The statement which the BBC reported from me on its morning news in London that I said that celebrating the Mawlid is an act of Kufr is a mere lie and groundless."
+summary: "The statement which the BBC reported from me on its morning news in London that I said that celebrating the Mawlid is an act of Kufr is a mere lie and groundless."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

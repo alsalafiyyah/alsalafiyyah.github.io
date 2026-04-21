@@ -7,7 +7,7 @@ lang: en
 note: false
 source: "Majmu' Fatawa Al-Shaykh Ibn Baz p. 7/182, question 2"
 category: [sects, fatwas]
-excerpt: "A Muslim must not belong to innovated parties. We should only belong to Allah's Book and the Sunnah of His Prophet (peace be upon him) and cooperate in this regard with sincerity and truth so as to be part of Allah's Party."
+summary: "A Muslim must not belong to innovated parties. We should only belong to Allah's Book and the Sunnah of His Prophet (peace be upon him) and cooperate in this regard with sincerity and truth so as to be part of Allah's Party."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

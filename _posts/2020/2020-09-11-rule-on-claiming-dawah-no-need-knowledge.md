@@ -6,7 +6,7 @@ hijri: Muharram 22, 1442 AH
 category: [dawah, knowledge, general]
 source: Majmu' Fatawa of Ibn Baz vol 28, question no. 21
 lang: en
-excerpt: "They say that the Call to Islam does not need knowledge or Fiqh based on Hadith: 'Convey (my teachings) to the people even if it were a single sentence.'"
+summary: "They say that the Call to Islam does not need knowledge or Fiqh based on Hadith: 'Convey (my teachings) to the people even if it were a single sentence.'"
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

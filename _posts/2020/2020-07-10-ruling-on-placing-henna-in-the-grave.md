@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatwas of the Permanent Committee of KSA no.6433-6"
 category: [bidah, funerals, fatwas]
 hijri: Dhul-Qa'dah 9, 1441
-excerpt: As for putting henna in the grave, this has no basis in Shari'ah; it should be abandoned.
+summary: As for putting henna in the grave, this has no basis in Shari'ah; it should be abandoned.
 note: true
 shaykhs: 
  - Shaykh Ibn Baz

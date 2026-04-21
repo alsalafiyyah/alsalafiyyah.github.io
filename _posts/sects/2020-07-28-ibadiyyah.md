@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 7, 1441
 lang: en
 locale: en
 note: true
-excerpt: "Al-Ibadiyyah is one of the deviant sects because of their aggression and rebellion against 'Uthman ibn 'Affan and 'Ali (may Allah be pleased with them both), and it is not permissible to pray behind them."
+summary: "Al-Ibadiyyah is one of the deviant sects because of their aggression and rebellion against 'Uthman ibn 'Affan and 'Ali (may Allah be pleased with them both), and it is not permissible to pray behind them."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

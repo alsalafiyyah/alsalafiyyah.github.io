@@ -8,7 +8,7 @@ source: "Ar-Riyadus-Sa’udiyyah Newspaper, issue no. 12674, dated Friday, the 4
 category: [fatwas,refutals,manhaj,sects]
 locale: en
 lang: en
-excerpt: "The refutations upon the people of innovation are from Jihad in the path of Allah. They are from safeguarding the Shari’ah from having other than it attached to it."
+summary: "The refutations upon the people of innovation are from Jihad in the path of Allah. They are from safeguarding the Shari’ah from having other than it attached to it."
 translated_by: Maaz Qureshi
 muftis:
   shaykh: 

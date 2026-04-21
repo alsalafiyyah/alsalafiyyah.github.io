@@ -4,7 +4,7 @@ title: "Ruling on medicines containing Khamr"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 21097"
 hijri: Muharram 15, 1442
-excerpt: "Using Dentinox is not permissible for it is authentically reported that the Prophet, peace and blessings be upon him."
+summary: "Using Dentinox is not permissible for it is authentically reported that the Prophet, peace and blessings be upon him."
 date: 2020/09/3
 category: [treatments,fatwas]
 locale: en

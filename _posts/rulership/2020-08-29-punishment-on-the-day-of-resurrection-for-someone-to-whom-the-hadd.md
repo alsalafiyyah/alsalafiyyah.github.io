@@ -8,7 +8,7 @@ lang: en
 note: true
 uid: punishment-on-the-day-of-resurrection-for-someone-to-whom-the-hadd
 category: ["rulership", hudud]
-excerpt: "Will a sinner who receives the Hadd (ordained punishment for violating Allah’s Law) in worldly life be punished on the day of Resurrection?"
+summary: "Will a sinner who receives the Hadd (ordained punishment for violating Allah’s Law) in worldly life be punished on the day of Resurrection?"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

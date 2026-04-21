@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 5, 1441
 locale: en
 lang: en
 note: true
-excerpt: "You should call those whom you mentioned to the path of Allah, show them their manifest error, and advise them, may Allah guide them to the right path. If they respond positively, all praise be to Allah."
+summary: "You should call those whom you mentioned to the path of Allah, show them their manifest error, and advise them, may Allah guide them to the right path. If they respond positively, all praise be to Allah."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

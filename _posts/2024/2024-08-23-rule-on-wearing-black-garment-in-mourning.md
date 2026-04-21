@@ -10,7 +10,7 @@ lang: en
 locale: en
 category: [fatwas,women,funerals]
 note: false
-excerpt: "Wearing black at the time of calamities is a distinction that is invalid, with no basis to it."
+summary: "Wearing black at the time of calamities is a distinction that is invalid, with no basis to it."
 muftis:
   shaykh: 
     - name: Shaykh Ibn 'Uthaymeen

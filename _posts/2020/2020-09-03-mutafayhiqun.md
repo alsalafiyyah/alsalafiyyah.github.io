@@ -8,7 +8,7 @@ date: 2020-09-03
 category: [fatwas,terminology]
 locale: en
 lang: en
-excerpt: "Who are the Mutafayhiqun? They are those given to ostentatious, braggart speech."
+summary: "Who are the Mutafayhiqun? They are those given to ostentatious, braggart speech."
 group6: true
 note: true
 ---

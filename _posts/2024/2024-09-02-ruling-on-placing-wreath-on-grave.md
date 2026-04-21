@@ -9,7 +9,7 @@ locale: en
 date: 2024-09-02
 category: [fatwas,funerals,bidah]
 note: false
-excerpt: "This practice is a bidah, and excess in terms of revering the dead, and it is similar to the practice of those who over-rever pious people."
+summary: "This practice is a bidah, and excess in terms of revering the dead, and it is similar to the practice of those who over-rever pious people."
 muftis:
   shaykh: 
     - name: "Permanent Committee"

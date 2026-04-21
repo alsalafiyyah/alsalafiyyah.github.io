@@ -7,7 +7,7 @@ hijri: Muharram 11, 1442 AH
 date: 2020/08/30
 lang: en
 category: ["tafsir", hadiths]
-excerpt: I would like Your Eminence to explain the meaning of this honorable Hadith, as I conversed with a Muslim brother regarding it.
+summary: I would like Your Eminence to explain the meaning of this honorable Hadith, as I conversed with a Muslim brother regarding it.
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

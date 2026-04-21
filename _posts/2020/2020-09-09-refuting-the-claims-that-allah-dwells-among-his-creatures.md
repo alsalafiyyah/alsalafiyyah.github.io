@@ -10,7 +10,7 @@ locale: en
 note: false
 date: 2020-09-09
 category: [refutals,sects,manhaj]
-excerpt: "Generally, the corrupt belief adopted by the denying Jahmiyyah and their followers from among the Mubtadi's (those who introduce innovations in religion) is one of the most wicked and harmful beliefs."
+summary: "Generally, the corrupt belief adopted by the denying Jahmiyyah and their followers from among the Mubtadi's (those who introduce innovations in religion) is one of the most wicked and harmful beliefs."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

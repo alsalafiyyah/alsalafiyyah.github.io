@@ -10,7 +10,7 @@ lang: en
 locale: en
 category: [fatwas]
 note: false
-excerpt: "The people you have described those whose understanding has been distorted until they see good as evil and evil as good."
+summary: "The people you have described those whose understanding has been distorted until they see good as evil and evil as good."
 muftis:
   shaykh: 
     - name: Shaykh Ibn 'Uthaymeen

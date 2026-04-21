@@ -12,7 +12,7 @@ type: audios
 category: [fatwas,sects,audios]
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_935/nour_93503.mp3
 url: https://binbaz.org.sa/fatwas/18619/%D9%85%D8%AC%D9%88%D8%B3-%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%A7%D9%85%D8%A9
-excerpt: They are the Qadariyyah who deny fate and say that everything is predestined. It is a fact that Magians say that humanity has two gods; the god of light and the god of darkness.
+summary: They are the Qadariyyah who deny fate and say that everything is predestined. It is a fact that Magians say that humanity has two gods; the god of light and the god of darkness.
 shaykhs: 
  - Shaykh Ibn Baz
 ---

@@ -8,7 +8,7 @@ source: "Silsilatu Sharhir-Rasail p.118"
 category: [fatwas]
 locale: en
 lang: en
-excerpt: The land which is not upon practicing the religion and one which has open lewdness and evil within it, then it is not allowed for a person to travel to it.
+summary: The land which is not upon practicing the religion and one which has open lewdness and evil within it, then it is not allowed for a person to travel to it.
 translated_by: Abu Abdillah al-Kashmiri
 muftis:
   shaykh: 

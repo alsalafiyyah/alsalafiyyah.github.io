@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 locale: en
 lang: en
 note: true
-excerpt: "The Shari'ah has prohibited imitating disbelievers in their clothes, customs or morals, for this is a means of being influenced by them, inclining to and loving them, which is prohibited."
+summary: "The Shari'ah has prohibited imitating disbelievers in their clothes, customs or morals, for this is a means of being influenced by them, inclining to and loving them, which is prohibited."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

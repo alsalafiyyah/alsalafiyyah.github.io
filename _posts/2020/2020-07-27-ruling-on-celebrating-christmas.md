@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "It is not permissible to join the Christians in their celebrations, even if those who claim knowledge join them, because this increases their numbers and is a kind of support to them in sin and transgression."
+summary: "It is not permissible to join the Christians in their celebrations, even if those who claim knowledge join them, because this increases their numbers and is a kind of support to them in sin and transgression."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

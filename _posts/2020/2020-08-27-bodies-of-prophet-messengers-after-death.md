@@ -9,7 +9,7 @@ locale: en
 lang: en
 category: [prophets,fatwas]
 group1: true
-excerpt: You should be aware of the fact that Jesus the son of Mary did not die, rather he was raised to heaven and will descend at the end of time and then die.
+summary: You should be aware of the fact that Jesus the son of Mary did not die, rather he was raised to heaven and will descend at the end of time and then die.
 ---
 
 ### Question: 

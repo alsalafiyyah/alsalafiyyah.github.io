@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 7, 1441
 locale: en
 lang: en
 note: true
-excerpt: "It is not permissible to allow them to marry Muslim women, and it is not permissible for us to marry their women, or to eat the meat of their sacrificed animals. "
+summary: "It is not permissible to allow them to marry Muslim women, and it is not permissible for us to marry their women, or to eat the meat of their sacrificed animals. "
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

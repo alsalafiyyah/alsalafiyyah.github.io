@@ -9,7 +9,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: true
 note: true
-excerpt: "It is not permissible to accept or make use of the gifts given by disbelievers to Muslims on their festivals and religious occasions."
+summary: "It is not permissible to accept or make use of the gifts given by disbelievers to Muslims on their festivals and religious occasions."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

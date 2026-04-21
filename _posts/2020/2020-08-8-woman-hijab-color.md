@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 14, 1441
 date: 2020/08/8
 note: true
 lang: en
-excerpt: "A Muslim woman does not have to dress in black. It is permissible for her to wear any color she likes, as long as it covers her Awrah."
+summary: "A Muslim woman does not have to dress in black. It is permissible for her to wear any color she likes, as long as it covers her Awrah."
 group1: true
 ---
 

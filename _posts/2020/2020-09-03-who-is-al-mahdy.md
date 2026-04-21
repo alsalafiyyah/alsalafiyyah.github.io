@@ -8,7 +8,7 @@ hijri: Muharram 15, 1442 AH
 lang: en
 locale: en
 note: true
-excerpt: "Al-Mahdy is a man from Ahlul-Bayt , who will appear before the descent of Jesus, peace be upon him, to call to Islam."
+summary: "Al-Mahdy is a man from Ahlul-Bayt , who will appear before the descent of Jesus, peace be upon him, to call to Islam."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -6,7 +6,7 @@ source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 7425, Question 1"
 hijri: Muharram 12, 1442 AH
 lang: en
 category: [transaction,riba]
-excerpt: "Is it permissible to deal with this card taking into account that a person can avoid dealing with Riba (usury/interest) if they pay the bill during the twenty five days grace period?"
+summary: "Is it permissible to deal with this card taking into account that a person can avoid dealing with Riba (usury/interest) if they pay the bill during the twenty five days grace period?"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

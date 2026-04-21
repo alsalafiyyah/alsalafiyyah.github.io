@@ -7,7 +7,7 @@ category: [non-muslim]
 hijri: Dhul-Hijjah 8, 1441 AH
 lang: en
 locale: en
-excerpt: "The Christians have distorted Christianity from the original religion revealed to their prophet, Jesus, peace be upon him. The evidence for this is their claims that Jesus is the son of Allah and that they say that Allah is one of three."
+summary: "The Christians have distorted Christianity from the original religion revealed to their prophet, Jesus, peace be upon him. The evidence for this is their claims that Jesus is the son of Allah and that they say that Allah is one of three."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

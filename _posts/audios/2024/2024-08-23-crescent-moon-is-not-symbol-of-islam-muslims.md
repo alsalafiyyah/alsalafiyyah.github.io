@@ -10,7 +10,7 @@ locale: en
 active: audios
 category: [audios]
 note: false
-excerpt: "There is no basis in shariah for taking the crescent moon or star as a symbol of the Muslims or Islam."
+summary: "There is no basis in shariah for taking the crescent moon or star as a symbol of the Muslims or Islam."
 mp3: "https://phaven-prod.s3.amazonaws.com/files/audio_part/asset/3008953/1Aok-km1hvB25V732Imy-1CO8cU/Crescent_is_not_Islamic_symbol.mp3"
 translated_by: Rasheed ibn Estes Barbee
 muftis:

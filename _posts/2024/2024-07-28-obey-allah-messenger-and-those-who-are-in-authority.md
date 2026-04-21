@@ -8,7 +8,7 @@ source: "Silsilatu Sharhir-Rasail p.52."
 category: [fatwas,quran,rulership]
 locale: en
 lang: en
-excerpt: This Quranic verse is inclusive, including the Scholars and the Rulers, this is what is correct.
+summary: This Quranic verse is inclusive, including the Scholars and the Rulers, this is what is correct.
 translated_by: Abu 'Abdillah al-Kashmiri
 muftis:
   shaykh: 

@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 note: true
 locale: en
-excerpt: "The care of 'Abdul-Muttalib, and protection of Abu Talib given to the Prophet (peace be upon him), and the latter's support for him should not lead us to love them."
+summary: "The care of 'Abdul-Muttalib, and protection of Abu Talib given to the Prophet (peace be upon him), and the latter's support for him should not lead us to love them."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

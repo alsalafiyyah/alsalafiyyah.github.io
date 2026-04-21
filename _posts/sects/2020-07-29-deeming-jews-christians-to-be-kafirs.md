@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 6505, Question 14"
 category: [non-muslim]
 hijri: Dhul-Hijjah 8, 1441 AH
-excerpt: "What is the ruling of Islam on the Jews and the Christians, for example, to whom the message of Prophet Muhammad (peace be upon him) has been conveyed."
+summary: "What is the ruling of Islam on the Jews and the Christians, for example, to whom the message of Prophet Muhammad (peace be upon him) has been conveyed."
 lang: en
 locale: en
 muftis:

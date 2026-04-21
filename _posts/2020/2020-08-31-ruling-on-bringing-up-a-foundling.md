@@ -11,7 +11,7 @@ lang: en
 uid: ruling-on-bringing-up-a-foundling
 category: [fatwas,foundling]
 group2: true
-excerpt: "Adopting and bringing up foundlings upon good manners and Islamic etiquette is a noble act."
+summary: "Adopting and bringing up foundlings upon good manners and Islamic etiquette is a noble act."
 ---
 
 ### Question: 

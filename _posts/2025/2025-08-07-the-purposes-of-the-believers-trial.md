@@ -6,7 +6,7 @@ date: 2025-08-07
 hijri: "Safar 13, 1447 AH"
 source: "Fatawa Islamiyah pg. 177-180"
 category: [fatwas]
-excerpt: "Allah, the Almighty, the Majestic is Wiser, Greater, More Powerful and More Able; thus it is incumbent upon us to accept His Decree with a complete acceptance, both those which He allows to happen without necessitating His approval, and those which happen with His liking and approval. This is because we are unable to appreciate the design and purpose behind the Wisdom of Him, the Almighty, the Majestic."
+summary: "Allah, the Almighty, the Majestic is Wiser, Greater, More Powerful and More Able; thus it is incumbent upon us to accept His Decree with a complete acceptance, both those which He allows to happen without necessitating His approval, and those which happen with His liking and approval. This is because we are unable to appreciate the design and purpose behind the Wisdom of Him, the Almighty, the Majestic."
 muftis:
   shaykh: 
     - name: Shaykh Ibn Uthaymeen

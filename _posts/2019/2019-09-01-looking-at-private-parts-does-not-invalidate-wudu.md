@@ -6,7 +6,7 @@ date: 2019-09-01
 hijri: Muharram 02, 1441 AH
 source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 3236, question 4"
 category: [taharah, ablution, salah]
-excerpt: "Is it permissible for a person to touch the Mushaf or offer Salah (Prayer) if it happened that they looked at their 'Awrah (parts of the body that must be covered in public) while performing Wudu' (ablution)?"
+summary: "Is it permissible for a person to touch the Mushaf or offer Salah (Prayer) if it happened that they looked at their 'Awrah (parts of the body that must be covered in public) while performing Wudu' (ablution)?"
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

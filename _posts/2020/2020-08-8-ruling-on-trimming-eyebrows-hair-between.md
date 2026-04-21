@@ -9,7 +9,7 @@ date: 2020/08/8
 locale: en
 lang: en
 note: true
-excerpt: "It is not permissible to trim eyebrows, because this is removing hair from the face or eyebrows. The Prophet cursed whoever does it."
+summary: "It is not permissible to trim eyebrows, because this is removing hair from the face or eyebrows. The Prophet cursed whoever does it."
 muftis:
   chairman: 
     - name: Shaykh Ibn baz

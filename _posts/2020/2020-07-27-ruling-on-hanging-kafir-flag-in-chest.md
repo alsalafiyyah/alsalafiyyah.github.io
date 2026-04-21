@@ -9,7 +9,7 @@ locale: en
 lang: en
 note: true
 uid: ruling-on-hanging-kafir-flag-in-chest
-excerpt: "It is not permissible for a Muslim to hang the disbelievers' distinctive symbols, such as crosses or other items, onto their chest."
+summary: "It is not permissible for a Muslim to hang the disbelievers' distinctive symbols, such as crosses or other items, onto their chest."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

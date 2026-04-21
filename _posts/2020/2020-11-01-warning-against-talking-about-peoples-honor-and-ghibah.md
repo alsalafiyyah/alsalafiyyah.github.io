@@ -7,7 +7,7 @@ source: "Published in Al-Madinah newspaper on 27/10/1416 A.H"
 lang: en
 category: [ghibah, fitnahs]
 note: false
-excerpt: "Saying things about Muslims which they dislike is a major reprehensible matter in religion, falling under the prohibited backbiting."
+summary: "Saying things about Muslims which they dislike is a major reprehensible matter in religion, falling under the prohibited backbiting."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

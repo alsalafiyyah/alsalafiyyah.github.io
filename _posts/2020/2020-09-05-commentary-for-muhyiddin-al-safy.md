@@ -8,7 +8,7 @@ date: 2020-09-05
 lang: en
 locale: en
 category: [refutals,muqolat]
-excerpt: "The Salaf and those who have followed in their footsteps attributed to Allah the Attributes of Perfection, which He has attributed to Himself or which His Messenger (peace be upon him) has attributed to Him."
+summary: "The Salaf and those who have followed in their footsteps attributed to Allah the Attributes of Perfection, which He has attributed to Himself or which His Messenger (peace be upon him) has attributed to Him."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -7,7 +7,7 @@ category: [fitnahs]
 hijri: Dhul-Hijjah 11, 1441 AH
 lang: en
 note: true
-excerpt: "In fact, the aim of doing so is clarifying the truth and advising Muslims, not belittling such great personalities as Al-Suyuty and others. Thus, their errors are to be avoided while their knowledge is to be benefited from, for their virtues undoubtedly outweigh their errors."
+summary: "In fact, the aim of doing so is clarifying the truth and advising Muslims, not belittling such great personalities as Al-Suyuty and others. Thus, their errors are to be avoided while their knowledge is to be benefited from, for their virtues undoubtedly outweigh their errors."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

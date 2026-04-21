@@ -8,7 +8,7 @@ lang: en
 note: true
 uid: permissibility-of-the-victim-guardian-giving-up-the-right-of-executing-the-hadd
 category: ["rulership", hudud]
-excerpt: "The guardian of the victim is not permitted to forgo, for executing the punishment is Allah's right, and the ruler is the one responsible for the execution."
+summary: "The guardian of the victim is not permitted to forgo, for executing the punishment is Allah's right, and the ruler is the one responsible for the execution."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

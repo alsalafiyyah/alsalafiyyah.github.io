@@ -7,7 +7,7 @@ hijri: Dhul-Hijjah 23, 1441
 locale: en
 lang: en
 note: false
-excerpt: "Yes, this has a great effect on one's faith. Committing the grave sins such as Zina (sexual intercourse outside marriage), drinking wine, killing unjustly, consuming Riba (usury), backbiting, tale-bearing, etc., has an impact on one's faith in the Oneness of Allah and believing in Him."
+summary: "Yes, this has a great effect on one's faith. Committing the grave sins such as Zina (sexual intercourse outside marriage), drinking wine, killing unjustly, consuming Riba (usury), backbiting, tale-bearing, etc., has an impact on one's faith in the Oneness of Allah and believing in Him."
 category: [fatwas, sects]
 muftis:
   shaykh: 

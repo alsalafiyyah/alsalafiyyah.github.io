@@ -4,7 +4,7 @@ title: "Ruling on swearing by Al-Bukhari's Book of Hadith"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'mah, Fatwa no.18379"
 category: [fatwas, oaths]
-excerpt: Swearing, whether by the Qur'an or by Al-Bukhari's Book of Hadith is groundless in Shariah; it is done only by ignorant people.
+summary: Swearing, whether by the Qur'an or by Al-Bukhari's Book of Hadith is groundless in Shariah; it is done only by ignorant people.
 hijri: Dhul-Qa'dah 25, 1441
 muftis:
   chairman:

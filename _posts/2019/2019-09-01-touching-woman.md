@@ -6,7 +6,7 @@ date: 2019-09-01
 hijri: Muharram 02, 1441 AH
 source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 4603 question no. 2"
 category: [taharah, ablution, women]
-excerpt: "According to the soundest opinion of the scholars, touching women or shaking hands with them does not nullify Wudu’ at all, whether these women are non-Mahram, one’s wife, or an unmarriageable female relative."
+summary: "According to the soundest opinion of the scholars, touching women or shaking hands with them does not nullify Wudu’ at all, whether these women are non-Mahram, one’s wife, or an unmarriageable female relative."
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

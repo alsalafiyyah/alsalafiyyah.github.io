@@ -8,7 +8,7 @@ lang: en
 locale: en
 note: true
 category: [fatwas]
-excerpt: "It is not (proper) for the Prophet and those who believe to ask Allâh’s Forgiveness for the Mushrikûn (polytheists, idolaters, pagans, disbelievers in the Oneness of Allâh), even though they be of kin, after it has become clear to them that they are the dwellers of the Fire (because they died in a state of disbelief)."
+summary: "It is not (proper) for the Prophet and those who believe to ask Allâh’s Forgiveness for the Mushrikûn (polytheists, idolaters, pagans, disbelievers in the Oneness of Allâh), even though they be of kin, after it has become clear to them that they are the dwellers of the Fire (because they died in a state of disbelief)."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

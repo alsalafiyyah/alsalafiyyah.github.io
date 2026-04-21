@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "Sufism is a Bid'ah or innovation in Islam, and every Bid'ah is a means of going astray."
+summary: "Sufism is a Bid'ah or innovation in Islam, and every Bid'ah is a means of going astray."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

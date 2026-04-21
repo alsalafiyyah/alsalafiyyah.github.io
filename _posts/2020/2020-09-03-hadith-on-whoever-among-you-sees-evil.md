@@ -6,7 +6,7 @@ source: "Fatawa Al-Lajnah Ad-Da'imah no. 4262-4"
 hijri: Muharram 14, 1442 AH
 lang: en
 category: ["tafsir", hadiths, hisbah]
-excerpt: "What is the meaning of the Hadith reported on the authority of Abu Hurayrah (may Allah be pleased with him) in which the Prophet (peace be upon him) said: 'Whoever, among you, sees something abominable should rectify it with his hand'"
+summary: "What is the meaning of the Hadith reported on the authority of Abu Hurayrah (may Allah be pleased with him) in which the Prophet (peace be upon him) said: 'Whoever, among you, sees something abominable should rectify it with his hand'"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -10,7 +10,7 @@ locale: en
 lang: en
 note: true
 group1: true
-excerpt: "It is not obligatory for women to dress in black; they can wear any other color that is typical of women, provided that they do not attract attention or arouse temptation. "
+summary: "It is not obligatory for women to dress in black; they can wear any other color that is typical of women, provided that they do not attract attention or arouse temptation. "
 ---
 
 ### Question: 

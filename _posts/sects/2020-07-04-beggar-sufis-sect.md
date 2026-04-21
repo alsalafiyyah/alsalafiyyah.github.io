@@ -8,7 +8,7 @@ hijri: Dhul-Qa'dah 13, 1441
 locale: en
 lang: en
 note: false
-excerpt: "Such people should not be given money or helped by any means, as this is considered encouraging them to continue this abominable act. If they beat themselves, you will not be accountable for that; rather, they will be."
+summary: "Such people should not be given money or helped by any means, as this is considered encouraging them to continue this abominable act. If they beat themselves, you will not be accountable for that; rather, they will be."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

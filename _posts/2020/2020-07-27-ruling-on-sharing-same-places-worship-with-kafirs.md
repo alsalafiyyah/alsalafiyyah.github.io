@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 note: true
 locale: en
-excerpt: "It is unanimously agreed upon that the Islamic Shari'ah was revealed to both jinn and mankind. Whoever claims that the Jews and the Christians are following the path of truth, whether from among them or not, is contradicting the Qur'an, Sunnah of the Prophet, and the general consensus of the Muslim Ummah."
+summary: "It is unanimously agreed upon that the Islamic Shari'ah was revealed to both jinn and mankind. Whoever claims that the Jews and the Christians are following the path of truth, whether from among them or not, is contradicting the Qur'an, Sunnah of the Prophet, and the general consensus of the Muslim Ummah."
 muftis: 
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

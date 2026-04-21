@@ -10,7 +10,7 @@ locale: en
 active: muqolat
 category: [muqolat]
 note: false
-excerpt: "The religion of all the Messengers is Islam, but their laws varied. This means obeying Allah at any given time by doing what He commanded at that time."
+summary: "The religion of all the Messengers is Islam, but their laws varied. This means obeying Allah at any given time by doing what He commanded at that time."
 authors:
   author: 
     - name: Alsalafiyyah

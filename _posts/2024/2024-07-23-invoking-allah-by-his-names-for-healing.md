@@ -10,7 +10,7 @@ note: true
 group1: true
 locale: en
 lang: en
-excerpt: It is permissible to do so due to the general saying of Allah 'And (all) the Most Beautiful Names belong to Allâh, so call on Him by them'.
+summary: It is permissible to do so due to the general saying of Allah 'And (all) the Most Beautiful Names belong to Allâh, so call on Him by them'.
 article_taken_from: 
   taken_from:
     - web_title: الدعاء بأسماء الله سبحانه لشفاء الأمراض

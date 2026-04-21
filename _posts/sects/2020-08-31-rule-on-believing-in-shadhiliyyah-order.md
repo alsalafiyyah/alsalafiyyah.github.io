@@ -9,7 +9,7 @@ locale: en
 note: true
 uid: rule-on-believing-in-shadhiliyyah-order
 category: [sects]
-excerpt: "You should follow the way of truthful believers who believe in what Allah has revealed and His Messenger (peace be upon him) has explained, and act upon the Book of Allah and the Sunnah of His Messenger (peace be upon him)."
+summary: "You should follow the way of truthful believers who believe in what Allah has revealed and His Messenger (peace be upon him) has explained, and act upon the Book of Allah and the Sunnah of His Messenger (peace be upon him)."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

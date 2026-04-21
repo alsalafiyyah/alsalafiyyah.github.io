@@ -7,7 +7,7 @@ source: "Fatawa Al-Shaykh Ibn Baz p.8/291"
 lang: en
 category: [quran]
 note: false
-excerpt: "It indicate that if someone promises Allah to do something and then breaks their promise is characterized by the traits of hypocrites, and is endangered with being punished with hypocrisy for breaking the promise and lying."
+summary: "It indicate that if someone promises Allah to do something and then breaks their promise is characterized by the traits of hypocrites, and is endangered with being punished with hypocrisy for breaking the promise and lying."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

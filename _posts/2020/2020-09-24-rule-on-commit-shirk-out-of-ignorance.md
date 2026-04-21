@@ -7,7 +7,7 @@ source: "Majmu' Fatawa Ibn Baz 28/146, question 4"
 lang: en
 locale: en
 category: [fatwas, bidah]
-excerpt: "What is the ruling on making prostration and slaughtering for other than Allah out of ignorance?"
+summary: "What is the ruling on making prostration and slaughtering for other than Allah out of ignorance?"
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

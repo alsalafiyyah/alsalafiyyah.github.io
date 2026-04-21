@@ -10,7 +10,7 @@ lang: en
 locale: en
 category: [fatwas,rulership,sahabah]
 note: true
-excerpt: "What this author wrote is all lies and falsehood. It is not permissible to spread this, because it is a revilement to the Companions of the Messenger of Allah."
+summary: "What this author wrote is all lies and falsehood. It is not permissible to spread this, because it is a revilement to the Companions of the Messenger of Allah."
 group2: true
 article_taken_from: 
   taken_from:

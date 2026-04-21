@@ -10,7 +10,7 @@ lang: en
 locale: en
 category: [fatwas,politics]
 note: true
-excerpt: "Never will Allah grant to the disbelievers a way to triumph over the believers."
+summary: "Never will Allah grant to the disbelievers a way to triumph over the believers."
 group1: true
 ---
 

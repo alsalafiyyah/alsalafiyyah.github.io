@@ -10,7 +10,7 @@ group1: true
 note: true
 locale: en
 lang: en
-excerpt: "People should not visit graves to supplicate to the dead or ask for their help or intercession, as this is Shirk. It is also not permissible to travel far to visit graves or to travel to do so, even if it is not far."
+summary: "People should not visit graves to supplicate to the dead or ask for their help or intercession, as this is Shirk. It is also not permissible to travel far to visit graves or to travel to do so, even if it is not far."
 ---
 
 ### Question: 

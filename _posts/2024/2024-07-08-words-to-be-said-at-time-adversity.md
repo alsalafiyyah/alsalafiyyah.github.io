@@ -10,7 +10,7 @@ note: true
 group1: true
 locale: en
 lang: en
-excerpt: I live with my parents, brothers, and sisters. We all love and respect each other, all praise be to Allah. I love my family very much and this makes me very worried when any member of my family falls sick to the extent that I cannot speak of anything.
+summary: I live with my parents, brothers, and sisters. We all love and respect each other, all praise be to Allah. I love my family very much and this makes me very worried when any member of my family falls sick to the extent that I cannot speak of anything.
 article_taken_from: 
   taken_from:
     - web_title: ما يقال عند المصيبة

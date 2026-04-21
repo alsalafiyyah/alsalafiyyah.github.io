@@ -9,7 +9,7 @@ chapter: "Knowledge"
 lang: en
 category: [jihad, dawah, knowledge]
 note: true
-excerpt: "It is obligatory on every Muslim to convey the knowledge they have, whether it is much or little to those who do not know it, without any limitations on time or the amount of knowledge. It is necessary for them to explain what they know and convey it, and this becomes obligatory if there is no one else who can do it."
+summary: "It is obligatory on every Muslim to convey the knowledge they have, whether it is much or little to those who do not know it, without any limitations on time or the amount of knowledge. It is necessary for them to explain what they know and convey it, and this becomes obligatory if there is no one else who can do it."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

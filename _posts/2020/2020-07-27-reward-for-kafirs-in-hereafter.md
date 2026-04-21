@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 locale: en
 lang: en
 note: true
-excerpt: "If a disbeliever does good for the Muslims, he is rewarded for this in this life; however, it is not a reason for him to enter Paradise."
+summary: "If a disbeliever does good for the Muslims, he is rewarded for this in this life; however, it is not a reason for him to enter Paradise."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

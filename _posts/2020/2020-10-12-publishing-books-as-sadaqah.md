@@ -7,7 +7,7 @@ source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 20062-2"
 lang: en
 note: true
 category: [knowledge, books, misc, charity]
-excerpt: "The printing of useful books that benefit people in their religious and worldly affairs is a good act, for which the Muslim will be rewarded during their life and it will be of ongoing benefit and reward after their death."
+summary: "The printing of useful books that benefit people in their religious and worldly affairs is a good act, for which the Muslim will be rewarded during their life and it will be of ongoing benefit and reward after their death."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

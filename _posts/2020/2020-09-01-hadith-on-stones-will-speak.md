@@ -7,7 +7,7 @@ hijri: Muharram 13, 1442
 lang: en
 locale: en
 category: [fatwas,hadiths,palestine]
-excerpt: "Is the Hadith that says: 'There will come a day when Muslims will gain victory over the Jews, and then a stone behind which a Jew may hide, will speak and call the believer to go and kill the Jew hiding behind it' authentic?"
+summary: "Is the Hadith that says: 'There will come a day when Muslims will gain victory over the Jews, and then a stone behind which a Jew may hide, will speak and call the believer to go and kill the Jew hiding behind it' authentic?"
 article_taken_from: 
   taken_from:
     - web_title: اليوم الذي يسلط فيه المسلمون على اليهود

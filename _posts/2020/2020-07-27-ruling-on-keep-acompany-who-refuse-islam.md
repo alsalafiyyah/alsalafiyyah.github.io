@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "Is it permissible to keep company with a non-Muslim brother whom you called to accept Islam but he refused?"
+summary: "Is it permissible to keep company with a non-Muslim brother whom you called to accept Islam but he refused?"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

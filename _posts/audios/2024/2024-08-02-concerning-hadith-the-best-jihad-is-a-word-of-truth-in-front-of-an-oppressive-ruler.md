@@ -10,7 +10,7 @@ locale: en
 active: audios
 category: [fatwas,audios,rulership,hadiths]
 note: false
-excerpt: "This Hadith does not mean that he should criticizes the ruler openly on the mimbars and on the streets, it says in front of him."
+summary: "This Hadith does not mean that he should criticizes the ruler openly on the mimbars and on the streets, it says in front of him."
 mp3: https://www.alfawzan.af.org.sa/sites/default/files/e-062.mp3
 url: https://mail.alfawzan.af.org.sa/ar/node/14227
 translated_by: Abdurrahim Ibn Muhammad Al-Hadhrami

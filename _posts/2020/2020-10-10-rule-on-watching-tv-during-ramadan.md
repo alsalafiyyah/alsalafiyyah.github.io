@@ -8,7 +8,7 @@ lang: en
 locale: en
 note: false
 category: [fatwas,fasting]
-excerpt: "Muslims, whether fasting or not, should fear Allah with regard to what they do or do not do at all times. They should avoid forbidden matters such as watching obscene movies which depict things that Allah has prohibited including naked and semi-naked pictures."
+summary: "Muslims, whether fasting or not, should fear Allah with regard to what they do or do not do at all times. They should avoid forbidden matters such as watching obscene movies which depict things that Allah has prohibited including naked and semi-naked pictures."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

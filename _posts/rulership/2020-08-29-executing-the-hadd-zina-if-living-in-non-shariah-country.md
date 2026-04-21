@@ -8,7 +8,7 @@ lang: en
 note: true
 uid: executing-the-hadd-zina-if-living-in-non-shariah-country
 category: ["rulership", hudud, zina]
-excerpt: "You are not entitled to execute the punishment; because execution of Hudud (ordained punishments for violating Allah’s Law) against the fornicator or any criminal, is the responsibility of the ruler or his deputy officers."
+summary: "You are not entitled to execute the punishment; because execution of Hudud (ordained punishments for violating Allah’s Law) against the fornicator or any criminal, is the responsibility of the ruler or his deputy officers."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

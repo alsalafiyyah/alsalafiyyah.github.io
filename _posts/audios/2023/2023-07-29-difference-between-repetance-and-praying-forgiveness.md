@@ -10,7 +10,7 @@ locale: en
 active: audios
 category: [terminology,fatwas,audios]
 url: http://www.binbaz.org.sa/mat/10479
-excerpt: "Repentance is regret for what has passed, giving it up, and resolving not to go back to it. This is called repentance. As for praying for forgiveness, it may be repentance or it may be mere words."
+summary: "Repentance is regret for what has passed, giving it up, and resolving not to go back to it. This is called repentance. As for praying for forgiveness, it may be repentance or it may be mere words."
 muftis:
   shaykh: 
     - name: Shaykh Ibn Baz

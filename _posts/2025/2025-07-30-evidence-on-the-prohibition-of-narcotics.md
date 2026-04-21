@@ -6,7 +6,7 @@ date: 2025-07-30
 hijri: "Safar 5, 1447 AH"
 source: "Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 5001, Question 3"
 category: [fatwas, drugs]
-excerpt: "On the authority of Um Salamah (may Allah be pleased with her) who narrated that the Prophet (peace be upon him) forbade every intoxicant and everything which produces languidness."
+summary: "On the authority of Um Salamah (may Allah be pleased with her) who narrated that the Prophet (peace be upon him) forbade every intoxicant and everything which produces languidness."
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

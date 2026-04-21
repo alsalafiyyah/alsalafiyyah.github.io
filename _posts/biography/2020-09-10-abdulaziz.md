@@ -6,7 +6,7 @@ active: biography
 category: [biography]
 date: 2020-09-10
 hijri: Muharram 22, 1442 AH
-excerpt: "Grand Mufty of the Kingdom of Saudi Arabia and Chairman of the Departments of Scholarly Research and Ifta"
+summary: "Grand Mufty of the Kingdom of Saudi Arabia and Chairman of the Departments of Scholarly Research and Ifta"
 authors:
   author: 
     - name: Alsalafiyyah

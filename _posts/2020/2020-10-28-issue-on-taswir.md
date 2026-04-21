@@ -8,7 +8,7 @@ lang: en
 locale: en
 category: [fatwas,taswir]
 note: false
-excerpt: "It is not permissible for a teacher or any other person to depict pictures of animate beings, because the Prophet -peace be upon him- cursed the one who makes pictures and statues, or photographs of living beings and said that they are among the people most tormented on the Day of Resurrection."
+summary: "It is not permissible for a teacher or any other person to depict pictures of animate beings, because the Prophet -peace be upon him- cursed the one who makes pictures and statues, or photographs of living beings and said that they are among the people most tormented on the Day of Resurrection."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -10,7 +10,7 @@ note: true
 group1: true
 locale: en
 lang: en
-excerpt: Al-Husayn (may Allah be pleased with him) was killed in Iraq in Muharram, 61 A.H. And his body was buried in Iraq. As for the claim that his head was taken to Egypt and buried there, we do not know of any basis for this.
+summary: Al-Husayn (may Allah be pleased with him) was killed in Iraq in Muharram, 61 A.H. And his body was buried in Iraq. As for the claim that his head was taken to Egypt and buried there, we do not know of any basis for this.
 article_taken_from: 
   taken_from:
     - web_title:  أين يوجد قبر الحسين رضي الله عنه

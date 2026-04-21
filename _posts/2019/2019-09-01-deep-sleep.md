@@ -7,7 +7,7 @@ hijri: "Muharram 02, 1441 AH"
 source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 3030, question 1"
 chapter: "Nullifications of Wudu' (Ablution)"
 category: [taharah, ablution, salah]
-excerpt: "Some people may fall asleep while engaged in Dhikr (Remembrance of Allah) in the Masjid (mosque) using Misbahah (counting beads).Do they have to perform Wudu’ (ablution) before the next Salah (Prayer)?"
+summary: "Some people may fall asleep while engaged in Dhikr (Remembrance of Allah) in the Masjid (mosque) using Misbahah (counting beads).Do they have to perform Wudu’ (ablution) before the next Salah (Prayer)?"
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

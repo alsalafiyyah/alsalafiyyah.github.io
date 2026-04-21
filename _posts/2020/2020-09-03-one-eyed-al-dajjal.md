@@ -8,7 +8,7 @@ hijri: Muharram 15, 1442 AH
 lang: en
 locale: en
 note: true
-excerpt: "Al-Masih Al-Dajjal or The Antichrist exists now and he is actually one-eyed, for the basic ruling states that the literal meaning takes precedence over other possible meanings, unless the opposite is proved."
+summary: "Al-Masih Al-Dajjal or The Antichrist exists now and he is actually one-eyed, for the basic ruling states that the literal meaning takes precedence over other possible meanings, unless the opposite is proved."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

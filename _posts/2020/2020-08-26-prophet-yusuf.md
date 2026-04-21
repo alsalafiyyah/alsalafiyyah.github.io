@@ -10,7 +10,7 @@ group12: true
 locale: en
 lang: en
 category: [prophets,fatwas]
-excerpt: Yusuf, peace be upon him, and his brothers are the sons of Ya'qub (Jacob, also known as Israel, peace be upon him).
+summary: Yusuf, peace be upon him, and his brothers are the sons of Ya'qub (Jacob, also known as Israel, peace be upon him).
 ---
 
 ### Question:

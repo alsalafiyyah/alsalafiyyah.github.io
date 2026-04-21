@@ -7,7 +7,7 @@ hijri: Muharram 14, 1442 AH
 category: [fatwas,hijrah]
 lang: en
 locale: en
-excerpt: "Hijrah means leaving a non-Muslim to a Muslim country, which is obligatory."
+summary: "Hijrah means leaving a non-Muslim to a Muslim country, which is obligatory."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -8,7 +8,7 @@ lang: en
 date: 2024-09-02
 category: [prophets]
 note: false
-excerpt: "A Prophet is one who receives Revelation from Allah of a law, but he is not commanded to propagate it, only to practice it himself, without being called upon to disseminate it."
+summary: "A Prophet is one who receives Revelation from Allah of a law, but he is not commanded to propagate it, only to practice it himself, without being called upon to disseminate it."
 muftis:
   shaykh: 
     - name: Shaykh Ibn 'Uthaymeen

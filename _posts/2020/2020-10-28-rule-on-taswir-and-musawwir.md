@@ -8,7 +8,7 @@ lang: en
 locale: en
 category: [fatwas,taswir]
 note: false
-excerpt: "Every Muslim should avoid Taswir. It is authentically reported that the Prophet - peace be upon him - cursed the consumer of usury, the one who pays it, the Musawwir, she who tattoos and she who gets tattooed."
+summary: "Every Muslim should avoid Taswir. It is authentically reported that the Prophet - peace be upon him - cursed the consumer of usury, the one who pays it, the Musawwir, she who tattoos and she who gets tattooed."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

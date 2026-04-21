@@ -8,7 +8,7 @@ hijri: Dhul-Qa'dah 20, 1441
 locale: en
 lang: en
 note: true
-excerpt: The Sufi orders have nothing to do with the guidance of the Prophet and a Muslim has to follow the Prophet and his Sunnah.
+summary: The Sufi orders have nothing to do with the guidance of the Prophet and a Muslim has to follow the Prophet and his Sunnah.
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

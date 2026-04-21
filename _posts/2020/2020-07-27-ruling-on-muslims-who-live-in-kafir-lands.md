@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "Whoever resides in non-Muslim countries with no legal reason and does not emigrate to Muslim countries to practice his religion though able to do so, is exposing themselves to punishment and wrath of Allah as mentioned in the Holy Qur'an and Prophetic Hadith."
+summary: "Whoever resides in non-Muslim countries with no legal reason and does not emigrate to Muslim countries to practice his religion though able to do so, is exposing themselves to punishment and wrath of Allah as mentioned in the Holy Qur'an and Prophetic Hadith."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Aal Al-Shaykh

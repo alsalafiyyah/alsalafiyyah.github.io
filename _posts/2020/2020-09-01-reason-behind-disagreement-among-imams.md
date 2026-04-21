@@ -6,7 +6,7 @@ source: "Fatawa Al-Lajnah Al-Daimah no. 4875"
 hijri: Muharram 13, 1442 AH
 lang: en
 category: [madhabs]
-excerpt: "What are the causes of disagreement in legal opinions among Imams Malik, Al-Shafi'i and Ahmad ibn Hanbal (may Allah be Merciful with them)?"
+summary: "What are the causes of disagreement in legal opinions among Imams Malik, Al-Shafi'i and Ahmad ibn Hanbal (may Allah be Merciful with them)?"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

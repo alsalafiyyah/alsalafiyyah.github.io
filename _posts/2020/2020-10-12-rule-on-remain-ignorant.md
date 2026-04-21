@@ -7,7 +7,7 @@ source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 21030-3"
 lang: en
 note: true
 category: [knowledge, misc]
-excerpt: "It is impermissible for a person to remain ignorant. They have to learn what they must know about their Din (religion) and gain religious knowledge from scholars."
+summary: "It is impermissible for a person to remain ignorant. They have to learn what they must know about their Din (religion) and gain religious knowledge from scholars."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Aal Al-Shaykh

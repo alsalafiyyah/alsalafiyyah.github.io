@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Shaykh Ibn Baz p. 7/152"
 category: ["madhabs"]
 hijri: Dhul-Hijjah 8, 1441 AH
-excerpt: "These Four Madhabs are well-known schools which have spread during the second century and the later centuries."
+summary: "These Four Madhabs are well-known schools which have spread during the second century and the later centuries."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

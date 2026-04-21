@@ -10,7 +10,7 @@ lang: en
 locale: en
 category: [fatwas,taswir]
 note: false
-excerpt: "Pictures of the living -humans and animals- are unlawful except for necessity such as identity, passport, or photos of criminals."
+summary: "Pictures of the living -humans and animals- are unlawful except for necessity such as identity, passport, or photos of criminals."
 muftis:
   shaykh: 
     - name: Permanent Committee

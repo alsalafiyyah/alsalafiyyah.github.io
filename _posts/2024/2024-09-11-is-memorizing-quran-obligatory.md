@@ -9,7 +9,7 @@ locale: en
 date: 2024-09-11
 category: [fatwas,quran]
 note: false
-excerpt: "Memorizing the Qur'an is one of the best forms of worship and contains great reward if a Muslim acts according to its ordinances and follows its limits and rulings."
+summary: "Memorizing the Qur'an is one of the best forms of worship and contains great reward if a Muslim acts according to its ordinances and follows its limits and rulings."
 group2: true
 ---
 

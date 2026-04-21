@@ -9,7 +9,7 @@ lang: en
 note: true
 locale: en
 uid: false-story
-excerpt: "It is not permissible to read the book of Fada'il A'mal (Faza'il-e-A'mal) or any similar book that contains superstitions and lies to the people in Masjids or elsewhere, for this implies misleading people and spreading superstitions among them."
+summary: "It is not permissible to read the book of Fada'il A'mal (Faza'il-e-A'mal) or any similar book that contains superstitions and lies to the people in Masjids or elsewhere, for this implies misleading people and spreading superstitions among them."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Aal Al-Shaykh

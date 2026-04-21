@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 7, 1441
 locale: en
 lang: en
 note: true
-excerpt: "Any person who follows one of the leaders of Kufr (disbelief) and misguidance and supports their chiefs and masters in oppression and enmity will receive their same ruling, that is, being deemed among the Kafirs and Fasiqs."
+summary: "Any person who follows one of the leaders of Kufr (disbelief) and misguidance and supports their chiefs and masters in oppression and enmity will receive their same ruling, that is, being deemed among the Kafirs and Fasiqs."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

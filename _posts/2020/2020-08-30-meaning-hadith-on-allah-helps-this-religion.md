@@ -7,7 +7,7 @@ hijri: Muharram 11, 1442 AH
 date: 2020/08/30
 lang: en
 category: ["tafsir", hadiths]
-excerpt: "What is the meaning of the following Hadith: 'Verily, Allah helps this religion (Islam) even through a wicked person.' What is its meaning?"
+summary: "What is the meaning of the following Hadith: 'Verily, Allah helps this religion (Islam) even through a wicked person.' What is its meaning?"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

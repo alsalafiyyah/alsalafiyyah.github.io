@@ -9,7 +9,7 @@ date: 2020/08/8
 note: true
 locale: en
 lang: en
-excerpt: "These women would not enter Paradise nor perceive its odor, even though its odor can be perceived at such and such very remote distance."
+summary: "These women would not enter Paradise nor perceive its odor, even though its odor can be perceived at such and such very remote distance."
 muftis:
   chairman: 
     - name: Shaykh Ibn baz

@@ -10,7 +10,7 @@ note: true
 locale: en
 lang: en
 category: [fatwas, zina, intoxicants]
-excerpt: "Whoever drinks Khamr, commits Zina, or indulges in any sin while considering it Halal (lawful); is regarded as a Kafir (disbeliever) whose good deeds are rendered invalid."
+summary: "Whoever drinks Khamr, commits Zina, or indulges in any sin while considering it Halal (lawful); is regarded as a Kafir (disbeliever) whose good deeds are rendered invalid."
 muftis:
   chairman: 
     - name: Shaykh Ibrahim Ibn Muhammad Aal Al-Shaykh

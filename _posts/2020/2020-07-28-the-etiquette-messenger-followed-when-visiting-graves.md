@@ -9,7 +9,7 @@ date: 2020-07-28
 locale: en
 lang: en
 group4: true
-excerpt: "The dead people should not be asked or sought as intercessors as this is one of the avenues that lead to Shirk or polytheism."
+summary: "The dead people should not be asked or sought as intercessors as this is one of the avenues that lead to Shirk or polytheism."
 ---
 
 ### Question: 

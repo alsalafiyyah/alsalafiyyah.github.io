@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "There is no harm in buying the useful books from anyone because of their great benefit. As for the books that contain heresy and error, it is not permissible to deal in them."
+summary: "There is no harm in buying the useful books from anyone because of their great benefit. As for the books that contain heresy and error, it is not permissible to deal in them."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Aal Al-Shaykh

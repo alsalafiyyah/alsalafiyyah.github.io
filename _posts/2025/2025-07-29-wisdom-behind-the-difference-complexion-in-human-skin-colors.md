@@ -6,7 +6,7 @@ date: 2025-07-29
 hijri: "Safar 4, 1447 AH"
 source: "Fatawa Al-Lajnah Ad-Daimah, Fatwa no.145, Question 4"
 category: [fatwas, tafsirs, quran]
-excerpt: "And among His Signs is the creation of the heavens and the earth, and the difference of your languages and colours. Verily, in that are indeed signs for men of sound knowledge."
+summary: "And among His Signs is the creation of the heavens and the earth, and the difference of your languages and colours. Verily, in that are indeed signs for men of sound knowledge."
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

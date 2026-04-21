@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "It is Haram for Muslims to let any disbeliever enter Al-Masjid Al-Haram (the Sacred Mosque in Makkah) or any part of the Sanctuary"
+summary: "It is Haram for Muslims to let any disbeliever enter Al-Masjid Al-Haram (the Sacred Mosque in Makkah) or any part of the Sanctuary"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

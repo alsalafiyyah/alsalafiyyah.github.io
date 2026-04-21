@@ -8,7 +8,7 @@ source: "Fatawa Islamiyah 1/253"
 category: [fatwas,salah,bidah]
 locale: en
 lang: en
-excerpt: "Pronouncing the intention is an innovation or bid'ah, and pronouncing it aloud is an even worse sin."
+summary: "Pronouncing the intention is an innovation or bid'ah, and pronouncing it aloud is an even worse sin."
 muftis:
   shaykh: 
     - name: Shaykh Ibn Baz

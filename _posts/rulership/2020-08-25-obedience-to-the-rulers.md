@@ -8,7 +8,7 @@ lang: en
 locale: en
 note: false
 category: [fatwas,rulership,hadiths]
-excerpt: "This ruling is general and its meaning is qualified by other Hadiths from the Sunnah, as both the Quran and the Sunnah are integrated and their rulings restrict each other. That is to say, the general meaning in the book of Allah can be defined by a Hadith of the Prophet (peace be upon him) and vice versa."
+summary: "This ruling is general and its meaning is qualified by other Hadiths from the Sunnah, as both the Quran and the Sunnah are integrated and their rulings restrict each other. That is to say, the general meaning in the book of Allah can be defined by a Hadith of the Prophet (peace be upon him) and vice versa."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

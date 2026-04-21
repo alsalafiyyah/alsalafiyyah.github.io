@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "It is not permissible to prefer non-Muslims to Muslims, either in terms of how they deal with others or in anything else."
+summary: "It is not permissible to prefer non-Muslims to Muslims, either in terms of how they deal with others or in anything else."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

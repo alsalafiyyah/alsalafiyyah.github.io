@@ -8,7 +8,7 @@ lang: en
 locale: en
 note: true
 category: [fatwas,walabara]
-excerpt: "It's not permissible to bow to greet a Muslim or a non-Muslim whether by the upper part of the body or with the head, because bowing is a religious act of worship and 'Ibadah should be devoted to Allah Alone."
+summary: "It's not permissible to bow to greet a Muslim or a non-Muslim whether by the upper part of the body or with the head, because bowing is a religious act of worship and 'Ibadah should be devoted to Allah Alone."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

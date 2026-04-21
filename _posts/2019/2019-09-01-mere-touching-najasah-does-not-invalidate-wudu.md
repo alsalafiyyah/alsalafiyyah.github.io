@@ -6,7 +6,7 @@ date: 2019-09-01
 hijri: Muharram 02, 1441 AH
 source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 10552, question 2"
 category: [taharah, ablution]
-excerpt: "Wudu’ is not invalidated if a person’s clothes get soiled with Najasah due to contact with young children (when changing them), after their clothes get wet with urine or anything similar."
+summary: "Wudu’ is not invalidated if a person’s clothes get soiled with Najasah due to contact with young children (when changing them), after their clothes get wet with urine or anything similar."
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

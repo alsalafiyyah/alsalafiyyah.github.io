@@ -8,7 +8,7 @@ lang: en
 locale: en
 category: [fatwas]
 note: true
-excerpt: "Fulfilling the obligations which Allah has ordained upon His servants, refraining from what He has prohibited, repentance and seeking forgiveness frequently, good acts of worship, and seeking refuge with Allah are all acts that may protect from the punishment in the grave."
+summary: "Fulfilling the obligations which Allah has ordained upon His servants, refraining from what He has prohibited, repentance and seeking forgiveness frequently, good acts of worship, and seeking refuge with Allah are all acts that may protect from the punishment in the grave."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -8,7 +8,7 @@ hijri: Dhul-Qa'dah 11, 1441
 lang: en
 locale: en
 note: true
-excerpt: "Working according to Bid'ahs (innovations in religion) prevails in most of the Sufi orders. We advise you to follow the guidance of the Prophet (peace be upon him) and his Companions with regard to acts of worship and other things."
+summary: "Working according to Bid'ahs (innovations in religion) prevails in most of the Sufi orders. We advise you to follow the guidance of the Prophet (peace be upon him) and his Companions with regard to acts of worship and other things."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

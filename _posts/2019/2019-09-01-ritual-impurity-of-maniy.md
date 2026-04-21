@@ -6,7 +6,7 @@ date: 2019-09-01
 hijri: Muharram 02, 1441 AH
 source: "Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 1205"
 category: [taharah,fasting,ablution]
-excerpt: "If the discharged fluid was Maniy, he must perform Ghusl. It also invalidates fasting. Although this fluid is originally pure, it is repulsive."
+summary: "If the discharged fluid was Maniy, he must perform Ghusl. It also invalidates fasting. Although this fluid is originally pure, it is repulsive."
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

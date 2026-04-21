@@ -9,7 +9,7 @@ lang: en
 locale: en
 note: false
 uid: believing-have-right-to-break-the-laws-by-rulers
-excerpt: "This is Batil (null and void) and Munkar. I have already said that it is not permissible to rebel against rulers or to change matters with your hand."
+summary: "This is Batil (null and void) and Munkar. I have already said that it is not permissible to rebel against rulers or to change matters with your hand."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

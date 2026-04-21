@@ -6,7 +6,7 @@ source: "Fatwas of the Permanent Committee of KSA no.5728-1"
 category: [bidah, funerals, fatwas]
 hijri: 22 Dhul-Qaidah 1441
 note: true
-excerpt: We do not know any legal basis about this in the Book of Allah or the authentic Sunnah of the Messenger of Allah. It is a Bid'ah.
+summary: We do not know any legal basis about this in the Book of Allah or the authentic Sunnah of the Messenger of Allah. It is a Bid'ah.
 shaykhs: 
  - Shaykh Ibn Baz
  - Shaykh Abdul-Razzaq Afify

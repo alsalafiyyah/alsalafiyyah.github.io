@@ -7,7 +7,7 @@ source: "Majmu' Fatawa Al-Shaykh Ibn Baz p. 9/452, published in Al-Da'wah magazi
 lang: en
 category: [parenting]
 note: false
-excerpt: "A father should be fair with his sons and daughters according to the laws of inheritance. It is impermissible for him to dedicate any special thing to one of them unless the rest approve of it if they are of legal age, not out of fear, but willingly and without being threatened by their father."
+summary: "A father should be fair with his sons and daughters according to the laws of inheritance. It is impermissible for him to dedicate any special thing to one of them unless the rest approve of it if they are of legal age, not out of fear, but willingly and without being threatened by their father."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

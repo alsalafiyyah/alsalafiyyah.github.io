@@ -7,7 +7,7 @@ locale: en
 lang: en
 note: true
 source: Fatawa Al-Lajnah Al-Da'imah no. 16696-2
-excerpt: "What do you advise us concerning dealing with Sufi shaykhs and their followers?"
+summary: "What do you advise us concerning dealing with Sufi shaykhs and their followers?"
 category: [sects]
 muftis:
   chairman: 

@@ -8,7 +8,7 @@ hijri: Dhul-Qa'dah 20, 1441
 lang: en
 locale: en
 note: true
-excerpt: "This was not done with the Prophet (peace be upon him) or with the Rightly-Guided Caliphs. Moreover, these practices may be a means leading to major Shirk (associating others with Allah in His Divinity or worship)."
+summary: "This was not done with the Prophet (peace be upon him) or with the Rightly-Guided Caliphs. Moreover, these practices may be a means leading to major Shirk (associating others with Allah in His Divinity or worship)."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

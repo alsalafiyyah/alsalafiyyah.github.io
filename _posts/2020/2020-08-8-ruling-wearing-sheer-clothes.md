@@ -9,7 +9,7 @@ date: 2020/08/8
 note: true
 lang: en
 locale: en
-excerpt: "It is not permissible for women to wear sheer clothes. Whoever does this is considered to be of those women that are dressed yet naked, whom the Prophet stated will not enter Paradise nor smell its fragrance."
+summary: "It is not permissible for women to wear sheer clothes. Whoever does this is considered to be of those women that are dressed yet naked, whom the Prophet stated will not enter Paradise nor smell its fragrance."
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz

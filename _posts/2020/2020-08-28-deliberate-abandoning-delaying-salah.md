@@ -8,7 +8,7 @@ date: 2020/08/28
 category: [fatwas,salah,women]
 locale: en
 lang: en
-excerpt: "If she is as what you have mentioned, she is an apostate. By doing this, she is causing great harm to her daughters. She must be asked to repent."
+summary: "If she is as what you have mentioned, she is an apostate. By doing this, she is causing great harm to her daughters. She must be asked to repent."
 group1: true
 ---
 

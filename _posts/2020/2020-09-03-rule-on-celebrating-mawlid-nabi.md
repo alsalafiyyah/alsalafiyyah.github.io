@@ -6,7 +6,7 @@ source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 7136, Question 11"
 category: [festivals, bidah]
 hijri: Muharram 15, 1442 AH
 lang: en
-excerpt: "Holding a celebration to commemorate the birth of the Prophet (peace be upon him) is impermissible, and that was never done by the Prophet (peace be upon him)"
+summary: "Holding a celebration to commemorate the birth of the Prophet (peace be upon him) is impermissible, and that was never done by the Prophet (peace be upon him)"
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz

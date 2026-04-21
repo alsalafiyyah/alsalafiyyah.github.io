@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "These people deal with each other so kindly and friendly that they invite each other to their respective rooms to eat take-away meals, drinks, fruits or the like. I expect to be invited by any of them, Christians or atheist."
+summary: "These people deal with each other so kindly and friendly that they invite each other to their respective rooms to eat take-away meals, drinks, fruits or the like. I expect to be invited by any of them, Christians or atheist."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

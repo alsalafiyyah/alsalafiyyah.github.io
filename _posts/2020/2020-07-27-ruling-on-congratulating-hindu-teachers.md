@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "It is not permissible for Muslims to take part with the Hindu disbelievers in celebrating their festivals and religious occasions."
+summary: "It is not permissible for Muslims to take part with the Hindu disbelievers in celebrating their festivals and religious occasions."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

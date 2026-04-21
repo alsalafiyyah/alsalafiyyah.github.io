@@ -9,7 +9,7 @@ lang: en
 locale: en
 note: true
 uid: sufi-books
-excerpt: "Seeking the help of the dead for fulfilling needs of people is a major polytheistic act. Anyone who maintains other than that is committing major disbelief that drives him out of the pale of Islam."
+summary: "Seeking the help of the dead for fulfilling needs of people is a major polytheistic act. Anyone who maintains other than that is committing major disbelief that drives him out of the pale of Islam."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

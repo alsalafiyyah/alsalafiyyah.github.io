@@ -7,7 +7,7 @@ lang: en
 locale: en
 source: "Fatwas of the Permanent Committee, Fatwa no. 12927"
 category: [fatwas,hijrah,bidah]
-excerpt: "If you cannot find a suitable job in your town, you think that the people there will most probably reject your advice, or you fear that they might tempt you or your children with their Bidahs, there will be no sin on you"
+summary: "If you cannot find a suitable job in your town, you think that the people there will most probably reject your advice, or you fear that they might tempt you or your children with their Bidahs, there will be no sin on you"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

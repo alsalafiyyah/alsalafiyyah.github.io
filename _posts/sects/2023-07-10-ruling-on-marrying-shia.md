@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 22, 1444
 locale: en
 lang: en
 note: true
-excerpt: "And do not marry Al-Mushrikat (idolatresses) till they believe (worship Allaah Alone). And indeed a slave woman who believes is better than a (free) Mushrikah (idolatress), even though she pleases you."
+summary: "And do not marry Al-Mushrikat (idolatresses) till they believe (worship Allaah Alone). And indeed a slave woman who believes is better than a (free) Mushrikah (idolatress), even though she pleases you."
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz

@@ -9,7 +9,7 @@ lang: en
 locale: en
 note: true
 category: [misc, fatwas, shirk, polytheism]
-excerpt: "It is impermissible for a Muslim to invoke Allah's Forgiveness for their grandparents or others, if they died in Shirk."
+summary: "It is impermissible for a Muslim to invoke Allah's Forgiveness for their grandparents or others, if they died in Shirk."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

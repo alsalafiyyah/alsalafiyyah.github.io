@@ -8,7 +8,7 @@ lang: en
 category: [madhabs]
 note: true
 active: fatwas
-excerpt: "Some scholars defined Taqlid as following a person's religious view without knowing the evidence upon which it is based. Some other scholars said that Taqlid means the acceptance of a person's religious view with no evidence."
+summary: "Some scholars defined Taqlid as following a person's religious view without knowing the evidence upon which it is based. Some other scholars said that Taqlid means the acceptance of a person's religious view with no evidence."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

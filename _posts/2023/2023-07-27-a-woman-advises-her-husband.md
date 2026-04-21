@@ -6,7 +6,7 @@ hijri: "Muharram 09, 1445 AH"
 date: 2023-07-27
 source: "Al-Hisbah Magazine, Issue no.39, p.15"
 category: [marriage, women]
-excerpt: "What is prescribed is that the advice should be given in a kindly and polite manner, because that makes it more acceptable and more beneficial."
+summary: "What is prescribed is that the advice should be given in a kindly and polite manner, because that makes it more acceptable and more beneficial."
 muftis:
   shaykh: 
     - name: Shaykh Ibn Baz

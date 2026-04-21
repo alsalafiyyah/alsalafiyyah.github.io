@@ -9,7 +9,7 @@ lang: en
 note: false
 locale: en
 uid: rule-on-giving-bayah-to-other-than-rulers
-excerpt: "There is no doubt that giving Bay'ah (pledge of allegiance) for some people results in dissention and rebellion against the general ruler, which renders this unlawful and must be abandoned."
+summary: "There is no doubt that giving Bay'ah (pledge of allegiance) for some people results in dissention and rebellion against the general ruler, which renders this unlawful and must be abandoned."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

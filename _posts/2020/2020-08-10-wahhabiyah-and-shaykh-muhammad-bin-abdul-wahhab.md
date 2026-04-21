@@ -11,7 +11,7 @@ lang: en
 active: wahhabi
 group1: true
 category: [fatwas,wahhabism,manhaj]
-excerpt: Some people told me that there is a thing called Wahhabiyyah, but I explained to them that there is no such thing called Wahabiyyah; that this is merely a name given by those who claim to be Ashraf to turn people away from the reformative call.
+summary: Some people told me that there is a thing called Wahhabiyyah, but I explained to them that there is no such thing called Wahabiyyah; that this is merely a name given by those who claim to be Ashraf to turn people away from the reformative call.
 ---
 
 ### Question:

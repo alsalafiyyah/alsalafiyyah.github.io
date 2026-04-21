@@ -10,7 +10,7 @@ group1: true
 note: true
 locale: en
 lang: en
-excerpt: As far as we know, there is no evidence affirming that Al-Khadir is an exception. Therefore, we should accept this until the contrary is proved through an authentic proof.
+summary: As far as we know, there is no evidence affirming that Al-Khadir is an exception. Therefore, we should accept this until the contrary is proved through an authentic proof.
 ---
 
 ### Question: 

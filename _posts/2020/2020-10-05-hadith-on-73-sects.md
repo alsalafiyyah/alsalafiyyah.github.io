@@ -2,7 +2,7 @@
 layout: post
 author: "Instagram@Alsalafiyyah"
 title: "The Hadith: 'All of them will be in Hellfire except one'"
-excerpt: "The one saved sect will be Ahl-ul-Sunnah wal-Jama'ah who abided by the Sunnah of the Prophet (peace be upon him) and remained adhering to the very same way of the Prophet (peace be upon him) and his Companions (may Allah be pleased with them) in all affairs."
+summary: "The one saved sect will be Ahl-ul-Sunnah wal-Jama'ah who abided by the Sunnah of the Prophet (peace be upon him) and remained adhering to the very same way of the Prophet (peace be upon him) and his Companions (may Allah be pleased with them) in all affairs."
 source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 4246-3"
 category: ["tafsir", hadiths, sects]
 lang: en

@@ -8,7 +8,7 @@ lang: en
 category: [fatwas]
 note: true
 locale: en
-excerpt: "The evidence on the rulings of Shari'ah are established through the Qur'an as well as the authentically established Sunnah reported from the Messenger of Allah - peace be upon him, whether in the form of verbal expression, actions or approval, as Allah orders us in general to apply the texts of the Qur'an and the Sunnah that reached us."
+summary: "The evidence on the rulings of Shari'ah are established through the Qur'an as well as the authentically established Sunnah reported from the Messenger of Allah - peace be upon him, whether in the form of verbal expression, actions or approval, as Allah orders us in general to apply the texts of the Qur'an and the Sunnah that reached us."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

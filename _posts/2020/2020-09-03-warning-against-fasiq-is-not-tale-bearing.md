@@ -8,7 +8,7 @@ date: 2020/09/3
 locale: en
 lang: en
 category: [fatwas,hisbah]
-excerpt: "Warning against Fasiqs or people flagrantly violating Islamic law and those who commit major sins is obligatory."
+summary: "Warning against Fasiqs or people flagrantly violating Islamic law and those who commit major sins is obligatory."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

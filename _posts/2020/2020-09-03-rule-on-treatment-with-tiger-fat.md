@@ -4,7 +4,7 @@ title: "Ruling on treatment with tiger fat"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 18419, Question 2"
 hijri: Muharram 15, 1442
-excerpt: The impermissibility mentioned above applies to using the fat of these animals for medical treatment as well.
+summary: The impermissibility mentioned above applies to using the fat of these animals for medical treatment as well.
 date: 2020/09/3
 category: [treatments,fatwas]
 lang: en

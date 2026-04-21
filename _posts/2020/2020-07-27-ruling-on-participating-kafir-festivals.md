@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "It is not permissible to participate in their festivals or congratulate them, for this conduct shows a kind of intimacy and endorsement of their rituals. It is also a forbidden collaboration with them in sin and aggression."
+summary: "It is not permissible to participate in their festivals or congratulate them, for this conduct shows a kind of intimacy and endorsement of their rituals. It is also a forbidden collaboration with them in sin and aggression."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

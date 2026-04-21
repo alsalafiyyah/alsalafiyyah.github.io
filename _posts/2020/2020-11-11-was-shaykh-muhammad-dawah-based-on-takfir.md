@@ -10,7 +10,7 @@ lang: en
 locale: en
 source: Kitab Rasa'il wa Fatawa Abdulaziz Aal Al-Shaykh p.151
 active: wahhabi
-excerpt: "The Ever-Glorious Qur'an declares anyone who contradicts truth and right guidance to be a disbeliever. Thus, there is evidence of Takfir in the Qur'an and Sunnah."
+summary: "The Ever-Glorious Qur'an declares anyone who contradicts truth and right guidance to be a disbeliever. Thus, there is evidence of Takfir in the Qur'an and Sunnah."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz Aal ash-Shaykh

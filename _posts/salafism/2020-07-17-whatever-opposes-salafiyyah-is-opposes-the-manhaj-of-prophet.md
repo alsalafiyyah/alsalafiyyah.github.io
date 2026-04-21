@@ -8,7 +8,7 @@ source: "Taken from the audio cassette entitled, Fatawaa ’Ulama‘ fil-Jamaa�
 category: [fatwas,manhaj]
 locale: en
 lang: en
-excerpt: The Jama’ah of al-Salafiyyah is the Jama’ah which is upon the truth, and it is the one that it is obligatory to belong to.
+summary: The Jama’ah of al-Salafiyyah is the Jama’ah which is upon the truth, and it is the one that it is obligatory to belong to.
 translated_by: Maaz Qureshi
 muftis:
   shaykh: 

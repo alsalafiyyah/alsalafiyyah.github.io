@@ -7,7 +7,7 @@ hijri: Muharram 11, 1442 AH
 date: 2020/08/30
 lang: en
 category: ["tafsir", hadiths]
-excerpt: "What is the meaning of the following Hadith: 'When Allah wills good for His servant, He uses him.'"
+summary: "What is the meaning of the following Hadith: 'When Allah wills good for His servant, He uses him.'"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

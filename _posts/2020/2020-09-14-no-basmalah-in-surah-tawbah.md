@@ -10,7 +10,7 @@ note: true
 uid: no-basmalah-in-surah-tawbah
 source: Fatwas of the Permanent Committee no. 3810-12
 category: [quran, hadiths]
-excerpt: "Why is not the Basmalah written at the beginning of Surah Al-Tawbah?"
+summary: "Why is not the Basmalah written at the beginning of Surah Al-Tawbah?"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

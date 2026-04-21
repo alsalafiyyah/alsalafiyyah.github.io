@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 23, 1444
 locale: en
 lang: en
 note: true
-excerpt: "It is not permissible to give the daughters of Sunni families in marriage to the sons of Shi’is or Communists. If the marriage takes place, it is invalid."
+summary: "It is not permissible to give the daughters of Sunni families in marriage to the sons of Shi’is or Communists. If the marriage takes place, it is invalid."
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz

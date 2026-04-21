@@ -9,7 +9,7 @@ category: [fatwas,sects,rulership]
 locale: en
 lang: en
 translated_by: Abul-Irbad Abid Zargar
-excerpt: Those who declare the Muslim rulers to be disbelievers in general, then these are from the most extreme of the Khawarij.
+summary: Those who declare the Muslim rulers to be disbelievers in general, then these are from the most extreme of the Khawarij.
 muftis:
   shaykh: 
     - name: Shaykh Salih Al-Fawzan

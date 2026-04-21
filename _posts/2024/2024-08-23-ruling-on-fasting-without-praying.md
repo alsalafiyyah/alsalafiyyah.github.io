@@ -10,7 +10,7 @@ lang: en
 locale: en
 category: [fatwas,fasting,salah]
 note: false
-excerpt: "When it is ruled that he is a disbeliever, then his fasting and other acts of worship are nullified."
+summary: "When it is ruled that he is a disbeliever, then his fasting and other acts of worship are nullified."
 muftis:
   shaykh: 
     - name: Permanent Committee

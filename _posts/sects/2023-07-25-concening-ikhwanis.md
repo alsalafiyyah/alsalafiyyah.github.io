@@ -8,7 +8,7 @@ lang: en
 locale: en
 category: [sects]
 note: false
-excerpt: The founder of this methodology was a Sufi. He had a connection with Sufism.
+summary: The founder of this methodology was a Sufi. He had a connection with Sufism.
 article_taken_from: 
   taken_from:
     - web_title: Modern Day Devient Groups

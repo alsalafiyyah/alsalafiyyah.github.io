@@ -7,7 +7,7 @@ hijri: Muharram 10, 1442 AH
 lang: en
 note: true
 category: [homosexual,masturbation,lesbianism]
-excerpt: "Lesbianism is Haram (prohibited), and is a major sin because it is an act that contradicts the Ayahs (Qur'anic verses)"
+summary: "Lesbianism is Haram (prohibited), and is a major sin because it is an act that contradicts the Ayahs (Qur'anic verses)"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

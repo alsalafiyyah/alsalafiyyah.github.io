@@ -11,7 +11,7 @@ note: false
 locale: en
 active: audios
 category: [audios, sects]
-excerpt: "Yes, all the Sufi orders are innovations in the religion. However, some actions of these ways might match with the truth."
+summary: "Yes, all the Sufi orders are innovations in the religion. However, some actions of these ways might match with the truth."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

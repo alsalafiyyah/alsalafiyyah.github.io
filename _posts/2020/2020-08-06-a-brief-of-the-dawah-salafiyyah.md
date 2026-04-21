@@ -10,7 +10,7 @@ category: [fatwas,audios,wahhabism,manhaj]
 note: false
 lang: en
 active: wahhabi
-excerpt: "I would like to have an idea about the Da'wah Salafiyyah, i.e. based on the approach of the Salaf or the righteous predecessors, and Shaykh-ul-Islam Muhammad ibn Abdul-Wahhab?"
+summary: "I would like to have an idea about the Da'wah Salafiyyah, i.e. based on the approach of the Salaf or the righteous predecessors, and Shaykh-ul-Islam Muhammad ibn Abdul-Wahhab?"
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

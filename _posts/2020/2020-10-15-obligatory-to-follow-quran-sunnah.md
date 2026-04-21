@@ -7,7 +7,7 @@ source: "Fatawa Al-lajnah Al-Da'imah no. 2872-3"
 lang: en
 category: [madhabs]
 note: true
-excerpt: "The basic rule states that it is incumbent upon every Muslim to follow the Book of Allah and the Sunnah of His Messenger (peace be upon him)."
+summary: "The basic rule states that it is incumbent upon every Muslim to follow the Book of Allah and the Sunnah of His Messenger (peace be upon him)."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -9,7 +9,7 @@ locale: en
 lang: en
 date: 2020-08-08
 note: true
-excerpt: "It is impermissible to wear artificial nails, false eyelashes and colored contact lenses, because they are harmful to the body, and they also entail deception and changing the creation of Allah."
+summary: "It is impermissible to wear artificial nails, false eyelashes and colored contact lenses, because they are harmful to the body, and they also entail deception and changing the creation of Allah."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Aal Al-Shaykh

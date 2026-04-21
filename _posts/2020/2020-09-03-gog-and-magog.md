@@ -8,7 +8,7 @@ hijri: Muharram 15, 1442 AH
 lang: en
 locale: en
 note: true
-excerpt: "Ya'juj and Ma'juj are two great nations from the descendents of Prophet Adam. At the end of time, they will emerge and will cause mischief."
+summary: "Ya'juj and Ma'juj are two great nations from the descendents of Prophet Adam. At the end of time, they will emerge and will cause mischief."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

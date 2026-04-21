@@ -6,7 +6,7 @@ hijri: "Shawwal 23, 1447 AH"
 date: 2026-04-11
 category: [fatwas,videos]
 active: videos
-excerpt: "We respect Messiah and we respect all the Prophets, and we believe that whoever disparages even one of them is a disbelieve."
+summary: "We respect Messiah and we respect all the Prophets, and we believe that whoever disparages even one of them is a disbelieve."
 videoURL: "https://youtu.be/ZPCxmLxiFj0"
 videoID: "ZPCxmLxiFj0"
 muftis:

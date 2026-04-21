@@ -7,7 +7,7 @@ lang: en
 note: false
 source: "Majmu' Fatawa Al-Shaykh Ibn Baz p. 7/119, question 5"
 category: [sects, fatwas]
-excerpt: "The group we should follow and comply with its methodology is that which follows Al-Sirat-ul-Mustaqim (the Straight Path), the Prophet (peace be upon him) and his Sunnah and the Qur'an."
+summary: "The group we should follow and comply with its methodology is that which follows Al-Sirat-ul-Mustaqim (the Straight Path), the Prophet (peace be upon him) and his Sunnah and the Qur'an."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

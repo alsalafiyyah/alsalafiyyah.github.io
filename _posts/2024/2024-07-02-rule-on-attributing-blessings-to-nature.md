@@ -10,7 +10,7 @@ note: true
 group1: true
 locale: en
 lang: en
-excerpt: It is not permissible to say this sentence 'There are still some natural gifts in our world,' or to write it, even if it is claimed to be metaphorical, because it causes confusion.
+summary: It is not permissible to say this sentence 'There are still some natural gifts in our world,' or to write it, even if it is claimed to be metaphorical, because it causes confusion.
 article_taken_from: 
   taken_from:
     - web_title: النسبة إلى الطبيعة

@@ -4,7 +4,7 @@ title: "Ruling on drinking the blood of human beings as a treatment for rabies"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 18253, Question 1"
 hijri: Muharram 15, 1442
-excerpt: "Seeking a cure by drinking the blood of any of these two tribes is not known to have a basis in the Shari'ah of Islam."
+summary: "Seeking a cure by drinking the blood of any of these two tribes is not known to have a basis in the Shari'ah of Islam."
 lang: en
 locale: en
 date: 2020/09/3

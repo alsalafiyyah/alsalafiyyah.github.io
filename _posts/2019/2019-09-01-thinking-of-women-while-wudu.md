@@ -6,7 +6,7 @@ date: 2019-09-01
 hijri: Muharram 02, 1441 AH
 source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 10368"
 category: [taharah, ablution]
-excerpt: "Sometimes, while performing Wudu’ (ablution) many thoughts cross the mind which are irrelevant to Salah (Prayer) or Wudu’, such as men thinking about women while performing Wudu’."
+summary: "Sometimes, while performing Wudu’ (ablution) many thoughts cross the mind which are irrelevant to Salah (Prayer) or Wudu’, such as men thinking about women while performing Wudu’."
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

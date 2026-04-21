@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "It is not permissible to greet Christians or other disbelievers on their festivals and religious occasions, for this will be a sort of encouraging them in their falsehood and sharing in their sin."
+summary: "It is not permissible to greet Christians or other disbelievers on their festivals and religious occasions, for this will be a sort of encouraging them in their falsehood and sharing in their sin."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

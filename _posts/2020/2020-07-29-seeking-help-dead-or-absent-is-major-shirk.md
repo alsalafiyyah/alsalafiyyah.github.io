@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 8, 1441
 lang: en
 locale: en
 note: true
-excerpt: "Yes, seeking help from someone who is dead or absent is considered an act of major Shirk and doing so puts the doer outside the fold of Islam"
+summary: "Yes, seeking help from someone who is dead or absent is considered an act of major Shirk and doing so puts the doer outside the fold of Islam"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

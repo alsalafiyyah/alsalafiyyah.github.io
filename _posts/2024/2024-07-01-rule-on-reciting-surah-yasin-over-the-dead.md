@@ -9,7 +9,7 @@ category: [fatwas,funerals,bidah]
 note: true
 locale: en
 lang: en
-excerpt: A Hadith has been reported concerning the recitation of Surah Ya-Sin upon the dying person, but it is a da'if (weak) Hadith that does not stand as proof.
+summary: A Hadith has been reported concerning the recitation of Surah Ya-Sin upon the dying person, but it is a da'if (weak) Hadith that does not stand as proof.
 article_taken_from: 
   taken_from:
     - web_title: قراءة سورة يس للأموات وإهداء ثوابها إليهم

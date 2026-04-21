@@ -8,7 +8,7 @@ hijri: Dhul-Qa'dah 30, 1441
 locale: en
 lang: en
 note: false
-excerpt: "Such people are thereby disobedient to Allah and His Messenger. They have weak faith and are in great danger. This is one of the diseases of the heart and may result in Allah's immediate or later punishment."
+summary: "Such people are thereby disobedient to Allah and His Messenger. They have weak faith and are in great danger. This is one of the diseases of the heart and may result in Allah's immediate or later punishment."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -27,7 +27,7 @@ robots: noindex
     "translated_by": {{ post.translated_by | jsonify }},
     "article_taken_from": {{ post.article_taken_from | jsonify }},
     "audio": {{ post.mp3 | jsonify }},
-    "excerpt": {{ post.excerpt | strip_html | strip_newlines | jsonify }},
+    "summary": {{ post.summary | strip_html | strip_newlines | jsonify }},
     "content": {{ post.content | strip_newlines | jsonify }}
   }{% if forloop.last == false %},{% endif %}
 {% endfor %}

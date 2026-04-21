@@ -10,7 +10,7 @@ locale: en
 date: 2020-09-06
 note: false
 category: [refutals,bidah,festivals]
-excerpt: "It is not allowed to celebrate the birthday of the Messenger or other birthdays; rather, such celebrations should be prevented, because they are newly-invented practices in religion."
+summary: "It is not allowed to celebrate the birthday of the Messenger or other birthdays; rather, such celebrations should be prevented, because they are newly-invented practices in religion."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

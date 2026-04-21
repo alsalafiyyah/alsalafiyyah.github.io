@@ -7,7 +7,7 @@ source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 19185"
 lang: en
 note: true
 category: [knowledge, books]
-excerpt: "After reviewing the mentioned book (Kashf Al-Akinnah), I realized that its author is not one of the reliable scholars in respect of the rulings of Shari'ah (Islamic law)."
+summary: "After reviewing the mentioned book (Kashf Al-Akinnah), I realized that its author is not one of the reliable scholars in respect of the rulings of Shari'ah (Islamic law)."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

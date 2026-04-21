@@ -9,7 +9,7 @@ category: [fatwas, waqf]
 note: true
 lang: en
 locale: en
-excerpt: "Are the payments for having permission to hire Waqf or endowment included in its revenue or a part of the Waqf itself?"
+summary: "Are the payments for having permission to hire Waqf or endowment included in its revenue or a part of the Waqf itself?"
 muftis:
   deputy_chairman:
     - name: Shaykh Abdul-Razzaq Al-Afifi

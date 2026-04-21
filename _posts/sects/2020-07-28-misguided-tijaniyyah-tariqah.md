@@ -9,7 +9,7 @@ lang: en
 locale: en
 uid: misguided-tijaniyyah-tariqah
 note: true
-excerpt: "As for the claim of some Sufis that they see the Prophet (peace be upon him) while they are awake, this is absolutely baseless, and Batil (null and void). The Prophet will be seen on the Day of Resurrection when the dead emerge from their graves."
+summary: "As for the claim of some Sufis that they see the Prophet (peace be upon him) while they are awake, this is absolutely baseless, and Batil (null and void). The Prophet will be seen on the Day of Resurrection when the dead emerge from their graves."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -11,7 +11,7 @@ locale: en
 active: audios
 category: [fatwas,audios]
 url: "https://binbaz.org.sa/fatwas/17747/%D8%A7%D9%84%D8%AD%D9%83%D9%85-%D8%B9%D9%84%D9%89-%D9%85%D9%86-%D9%8A%D8%AF%D8%B9%D9%8A-%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%BA%D9%8A%D8%A8"
-excerpt: "People should not pay attention to him, rely on him or fear him, for he is a swindler and a charlatan who is of no benefit and who uses these words to intimidate and scare the general public to take their money unlawfully by deceiving them."
+summary: "People should not pay attention to him, rely on him or fear him, for he is a swindler and a charlatan who is of no benefit and who uses these words to intimidate and scare the general public to take their money unlawfully by deceiving them."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -10,7 +10,7 @@ lang: en
 locale: en
 active: muqolat
 category: [muqolat,manhaj]
-excerpt: A Muslim should recognize what is good and evil by acquiring knowledge and understanding the teachings of Islam, then, undertake the obligation of enjoining good and forbidding evil. Knowing and understanding the teachings of Islam constitute a sign of man's happiness and that Allah (Exalted be He) wants to do good to him.
+summary: A Muslim should recognize what is good and evil by acquiring knowledge and understanding the teachings of Islam, then, undertake the obligation of enjoining good and forbidding evil. Knowing and understanding the teachings of Islam constitute a sign of man's happiness and that Allah (Exalted be He) wants to do good to him.
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

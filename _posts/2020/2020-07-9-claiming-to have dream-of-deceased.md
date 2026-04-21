@@ -4,7 +4,7 @@ title: "Claiming to have dream of deceased who command him to build a shrine for
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatwas of the Permanent Committee of KSA no.9774"
 category: [bidah, funerals]
-excerpt: Transferring the deceased from one grave to another one is not permissible unless there is a necessity to do so according to the Islamic Shari'ah.
+summary: Transferring the deceased from one grave to another one is not permissible unless there is a necessity to do so according to the Islamic Shari'ah.
 hijri: Dhul-Qa'dah 8, 1441
 shaykhs: 
  - Shaykh Ibn Baz

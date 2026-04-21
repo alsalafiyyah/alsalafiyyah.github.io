@@ -9,7 +9,7 @@ lang: en
 category: [rulership, hisbah]
 note: false
 uid: there-is-no-way-to-achieve-that-unless-advice-is-exchanged
-excerpt: "It is obligatory upon citizens to acknowledge the services provided to them by the state and thank it for that. They should help the state to reform its affairs through good words and good manners and not through attacking and publicizing the negative aspects of the state in newspapers and on the Minbar (pulpit)."
+summary: "It is obligatory upon citizens to acknowledge the services provided to them by the state and thank it for that. They should help the state to reform its affairs through good words and good manners and not through attacking and publicizing the negative aspects of the state in newspapers and on the Minbar (pulpit)."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

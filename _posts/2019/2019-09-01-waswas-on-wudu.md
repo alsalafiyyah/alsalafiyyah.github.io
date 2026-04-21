@@ -6,7 +6,7 @@ date: 2019-09-01
 hijri: Muharram 02, 1441 AH
 source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 7789 question no.2"
 category: [taharah, ablution]
-excerpt: "If you have performed Wudu’ (ablution), the basic rule is that you are Tahir (ritually pure), and this is based upon certitude. You should not, therefore, pay any attention to what contradicts this ruling by doubts and suspicions that something may have been emitted that would nullify your Wudu’"
+summary: "If you have performed Wudu’ (ablution), the basic rule is that you are Tahir (ritually pure), and this is based upon certitude. You should not, therefore, pay any attention to what contradicts this ruling by doubts and suspicions that something may have been emitted that would nullify your Wudu’"
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

@@ -6,7 +6,7 @@ source: "Majmu' Fatawa wa Maqalat p.9/72"
 category: [sacrifice,festivals,music,bidah]
 lang: en
 hijri: Dhul-Qa'dah 28, 1441 AH
-excerpt: "What is the ruling on slaughtering animals, engaging in Dhikr (Remembrance of Allah) and beating drums during celebrations of Mawlid"
+summary: "What is the ruling on slaughtering animals, engaging in Dhikr (Remembrance of Allah) and beating drums during celebrations of Mawlid"
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

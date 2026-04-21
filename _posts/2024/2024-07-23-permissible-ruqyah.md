@@ -10,7 +10,7 @@ note: true
 group1: true
 locale: en
 lang: en
-excerpt: There is no harm in Ruqyah as long as it does not entail Shirk.
+summary: There is no harm in Ruqyah as long as it does not entail Shirk.
 article_taken_from: 
   taken_from:
     - web_title: الرقية بما ليس فيه شرك  

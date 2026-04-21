@@ -9,7 +9,7 @@ locale: en
 active: muqolat
 category: [muqolat,rulership]
 note: false
-excerpt: "It is the duty of all Muslims in this kingdom to cooperate with this country and whoever calls to Allah everywhere in reinforcing good, observing Da'wah to Allah, spreading Islam, and calling to Al-Haqq, for this should also be followed by all countries."
+summary: "It is the duty of all Muslims in this kingdom to cooperate with this country and whoever calls to Allah everywhere in reinforcing good, observing Da'wah to Allah, spreading Islam, and calling to Al-Haqq, for this should also be followed by all countries."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

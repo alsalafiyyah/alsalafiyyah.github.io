@@ -7,7 +7,7 @@ hijri: Muharram 10, 1442 AH
 note: true
 lang: en
 category: [fitnahs]
-excerpt: "Accusing a Muslim by another Muslim brother is not permissible and it is one of the major sins which necessitate repentance and forgiveness from the insulted person. It is his right, if he does not forgive him, to demand his right by legal means."
+summary: "Accusing a Muslim by another Muslim brother is not permissible and it is one of the major sins which necessitate repentance and forgiveness from the insulted person. It is his right, if he does not forgive him, to demand his right by legal means."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -10,7 +10,7 @@ lang: en
 locale: en
 category: [fatwas,quran]
 note: false
-excerpt: "To translate the Qur'an into another language is an impossible task, for the wording of the Qur'an in Arabic is a miracle, one that cannot be replicated in another language."
+summary: "To translate the Qur'an into another language is an impossible task, for the wording of the Qur'an in Arabic is a miracle, one that cannot be replicated in another language."
 muftis:
   shaykh: 
     - name: Shaykh Ibn 'Uthaymeen

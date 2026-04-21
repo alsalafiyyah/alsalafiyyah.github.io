@@ -3,7 +3,7 @@ layout: page
 title: About The Site
 date: 2019-03-07
 hijri: 30 Jumada al-Thani 1440 AH
-excerpt: "Our content is rooted in the authentic ‘aqidah of Ahlus-Sunnah wal-Jama‘ah. We strive to preserve and share the creed as understood and practiced by the first generations of Muslims (the Salaf)."
+summary: "Our content is rooted in the authentic ‘aqidah of Ahlus-Sunnah wal-Jama‘ah. We strive to preserve and share the creed as understood and practiced by the first generations of Muslims (the Salaf)."
 permalink: /about/
 ---
 

@@ -8,7 +8,7 @@ hijri: "Dhul-Hijjah 23, 1444"
 lang: en
 locale: en
 note: false
-excerpt: "Rapprochement between the Rafidah (Shi'ah) and the Sunnis is not possible, because their beliefs are different."
+summary: "Rapprochement between the Rafidah (Shi'ah) and the Sunnis is not possible, because their beliefs are different."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

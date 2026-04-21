@@ -9,7 +9,7 @@ locale: en
 lang: en
 date: 2020-09-03
 note: true
-excerpt: "Some people say that Islam is not just to perform Salah or Prayer, but it is to be of good manners. What is your opinion regarding that?"
+summary: "Some people say that Islam is not just to perform Salah or Prayer, but it is to be of good manners. What is your opinion regarding that?"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -10,7 +10,7 @@ lang: en
 locale: en
 category: [fatwas,sects,refutals]
 note: false
-excerpt: "The Qur'an is the Words of Allah, not created. So, whoever claims that the Qur'an is created is a Jahmite and a disbeliever."
+summary: "The Qur'an is the Words of Allah, not created. So, whoever claims that the Qur'an is created is a Jahmite and a disbeliever."
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz

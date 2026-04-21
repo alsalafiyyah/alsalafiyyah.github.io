@@ -10,7 +10,7 @@ lang: en
 locale: en
 category: [fatwas,rulership,politics]
 note: true
-excerpt: "As for evil politics that are based on corruption, delusion, lies, violating covenants, deceit and breaking promises, this was not prescribed by Shari'ah."
+summary: "As for evil politics that are based on corruption, delusion, lies, violating covenants, deceit and breaking promises, this was not prescribed by Shari'ah."
 group6: true
 article_taken_from: 
   taken_from:

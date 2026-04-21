@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 5, 1441
 date: 2020/07/26
 locale: en
 lang: en
-excerpt: Salaf are Ahl-us-Sunnah wal-Jama'ah. Accordingly, it is permissible for a person to relate themselves to Salaf.
+summary: Salaf are Ahl-us-Sunnah wal-Jama'ah. Accordingly, it is permissible for a person to relate themselves to Salaf.
 muftis:
   shaykh: 
     - name: Shaykh Ibn Baz

@@ -9,7 +9,7 @@ locale: en
 active: muqolat
 category: [muqolat]
 source: "An article issued by the office of His Eminence on 14/3/1402 A.H. no. 91, and Fatawa Al-Shaykh Ibn Baz p. 9/157"
-excerpt: "All the signs that happen in this universe that arouse sympathy like thunderbolts, fierce wind, floods that destroy everything, earthquakes that cause great destruction to lofty buildings, great trees, properties and mankind, volcanoes that destroy all that surrounds them, solar and lunar eclipses and other things with which Allah tries His servant, are but means of frightening and warning them to give up aggression. This also may urge them to fear Allah (Exalted be He) and return to Him."
+summary: "All the signs that happen in this universe that arouse sympathy like thunderbolts, fierce wind, floods that destroy everything, earthquakes that cause great destruction to lofty buildings, great trees, properties and mankind, volcanoes that destroy all that surrounds them, solar and lunar eclipses and other things with which Allah tries His servant, are but means of frightening and warning them to give up aggression. This also may urge them to fear Allah (Exalted be He) and return to Him."
 active: muqolat
 muftis:
   shaykh: 

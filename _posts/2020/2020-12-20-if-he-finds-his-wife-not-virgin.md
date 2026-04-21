@@ -7,7 +7,7 @@ source: "Fatawa Shaykh Ibn Baz p. 20/286"
 lang: en
 category: [marriage]
 note: false
-excerpt: "This may be due to several reasons; virginity may be lost due to other reasons than Zina, so he should think well of her if she is apparently good and righteous."
+summary: "This may be due to several reasons; virginity may be lost due to other reasons than Zina, so he should think well of her if she is apparently good and righteous."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

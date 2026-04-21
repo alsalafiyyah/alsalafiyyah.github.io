@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "It is not permissible to spend the night in the house of a Mushrik from among those who glorify shrines and sacrifice for anyone other than Allah."
+summary: "It is not permissible to spend the night in the house of a Mushrik from among those who glorify shrines and sacrifice for anyone other than Allah."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

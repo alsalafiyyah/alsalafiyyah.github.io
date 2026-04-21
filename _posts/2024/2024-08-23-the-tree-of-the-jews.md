@@ -10,7 +10,7 @@ lang: en
 locale: en
 category: [fatwas,non-muslim,palestine]
 note: false
-excerpt: "The Prophet ﷺ informed us that when the Muslims fight the Jews, the Jews will try to hide behind trees, every tree will inform the Muslims that a Jew is hiding behind it, except for the Gharqad tree."
+summary: "The Prophet ﷺ informed us that when the Muslims fight the Jews, the Jews will try to hide behind trees, every tree will inform the Muslims that a Jew is hiding behind it, except for the Gharqad tree."
 muftis:
   shaykh: 
     - name: Shaykh Ibn 'Uthaymeen

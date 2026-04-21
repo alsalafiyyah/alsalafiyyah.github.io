@@ -7,7 +7,7 @@ hijri: Muharram 17, 1442
 date: 2020-09-05
 locale: en
 lang: en
-excerpt: They are the first three praised generations from the Companions of the Prophet, and those that followed them (at-Tabi’un) and those that followed them [Atba’ at-Tabi’in].
+summary: They are the first three praised generations from the Companions of the Prophet, and those that followed them (at-Tabi’un) and those that followed them [Atba’ at-Tabi’in].
 category: [fatwas,manhaj]
 translated_by: Abu Abdillah al-Kashmiri
 article_taken_from: 

@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 3, 1441
 locale: en
 lang: en
 note: false
-excerpt: "We should differentiate between Kafirs (disbelievers), Muslims, Shiites, and other sects. Shi'ah are Mubtadi's (those who introduce innovations in religion)."
+summary: "We should differentiate between Kafirs (disbelievers), Muslims, Shiites, and other sects. Shi'ah are Mubtadi's (those who introduce innovations in religion)."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

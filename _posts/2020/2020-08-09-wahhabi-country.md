@@ -10,7 +10,7 @@ locale: en
 note: false
 lang: en
 active: wahhabi
-excerpt: "The ignorant people and the enemies of Allah accused the prophets and the Salaf (righteous predecessors) of more than this."
+summary: "The ignorant people and the enemies of Allah accused the prophets and the Salaf (righteous predecessors) of more than this."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

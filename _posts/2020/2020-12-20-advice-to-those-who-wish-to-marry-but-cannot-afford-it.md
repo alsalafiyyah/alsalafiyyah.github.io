@@ -7,7 +7,7 @@ source: "Fatawa Shaykh Ibn Baz p. 20/399"
 lang: en
 category: [marriage]
 note: false
-excerpt: "O brother! Fear Allah and adhere to His Religion, and observe Sawm (Fast) as often as possible until you can marry. You should ask your Lord to grant you safety and steadfastness on what is right and to facilitate your affairs."
+summary: "O brother! Fear Allah and adhere to His Religion, and observe Sawm (Fast) as often as possible until you can marry. You should ask your Lord to grant you safety and steadfastness on what is right and to facilitate your affairs."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

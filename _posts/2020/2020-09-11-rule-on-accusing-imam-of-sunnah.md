@@ -6,7 +6,7 @@ hijri: Muharram 23, 1442 AH
 category: [fitnahs]
 source: Majmu' Fatawa of Ibn Baz vol 28
 lang: en
-excerpt: "What is the ruling on accusing a number of the Imams of Ahl Al-Sunnah of being innovators because they made errors"
+summary: "What is the ruling on accusing a number of the Imams of Ahl Al-Sunnah of being innovators because they made errors"
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

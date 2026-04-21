@@ -9,7 +9,7 @@ permalink: /json/audios.json
     {
       "title": {{ post.title | jsonify }},
       "url": {{ post.url | jsonify }},
-      "description": {{ post.excerpt | truncatewords: 20 | jsonify }}
+      "description": {{ post.summary | truncatewords: 20 | jsonify }}
     }{% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]

@@ -9,7 +9,7 @@ date: 2020-07-27
 lang: en
 locale: en
 note: true
-excerpt: "Muslims' participation with non-Muslims in collecting a sum of money to hold a party to see off non-Muslims is a kind of respect and honor to them which is not permissible for a Muslim to do or even take part in."
+summary: "Muslims' participation with non-Muslims in collecting a sum of money to hold a party to see off non-Muslims is a kind of respect and honor to them which is not permissible for a Muslim to do or even take part in."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

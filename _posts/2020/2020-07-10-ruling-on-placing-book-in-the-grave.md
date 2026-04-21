@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatwas of the Permanent Committee of KSA no.3596-1"
 category: [bidah, funerals, fatwas]
 hijri: Dhul-Qa'dah 9, 1441
-excerpt: It is not permissible to place any books with the dead person believing that they will make them stand firm while answering the two angels’ questions.
+summary: It is not permissible to place any books with the dead person believing that they will make them stand firm while answering the two angels’ questions.
 shaykhs: 
  - Shaykh Ibn Baz
  - Shaykh Abdul-Razzaq al-Afifi

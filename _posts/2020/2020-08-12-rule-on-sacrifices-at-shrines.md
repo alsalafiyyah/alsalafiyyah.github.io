@@ -8,7 +8,7 @@ locale: en
 lang: en
 category: [fatwas]
 note: false
-excerpt: "It is well-known through the Qur’an and the Sunnah that offering sacrifices to get close to other than Allah, whether they are the Awliya’, the Jinn, idols, or others, is Shirk and one of the actions of Jahiliyyah and the Mushriks."
+summary: "It is well-known through the Qur’an and the Sunnah that offering sacrifices to get close to other than Allah, whether they are the Awliya’, the Jinn, idols, or others, is Shirk and one of the actions of Jahiliyyah and the Mushriks."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

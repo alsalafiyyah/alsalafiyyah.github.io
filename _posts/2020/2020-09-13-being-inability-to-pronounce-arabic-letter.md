@@ -5,7 +5,7 @@ title: "Inability to properly pronounce the Arabic letter 'ض' [dad]"
 hijri: Muharram 21, 1442 AH
 lang: en
 source: Fatwa of the Permanent Committee no. 511
-excerpt: "If they fail after exerting effort to pronounce it properly, they are excused and they may pronounce it in the way they can. "
+summary: "If they fail after exerting effort to pronounce it properly, they are excused and they may pronounce it in the way they can. "
 muftis:
   deputy_chairman:
     - name: Shaykh Abdul-Razzaq Al-Afifi

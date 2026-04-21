@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatwas of the Permanent Committee of KSA no.17976-1"
 category: [bidah, funerals, fatwas]
 hijri: Dhul-Qa'dah 21, 1441
-excerpt: In Algeria when a man dies, his wife wears a white dress and does not take a bath or change her clothes until the next Wednesday night following the husband’s death.
+summary: In Algeria when a man dies, his wife wears a white dress and does not take a bath or change her clothes until the next Wednesday night following the husband’s death.
 shaykhs: 
  - Shaykh Ibn Baz
  - Shaykh Abdul-Aziz Aal ash-Shaykh

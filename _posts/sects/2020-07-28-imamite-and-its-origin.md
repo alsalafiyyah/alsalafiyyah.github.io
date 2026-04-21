@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 7, 1441
 locale: en
 lang: en
 note: true
-excerpt: "It was not the way of the Prophet (peace be upon him) or his the Rightly-Guided Caliphs (may Allah be pleased with them) to recite the Qur'an by the graves or celebrate the anniversaries of the dead."
+summary: "It was not the way of the Prophet (peace be upon him) or his the Rightly-Guided Caliphs (may Allah be pleased with them) to recite the Qur'an by the graves or celebrate the anniversaries of the dead."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

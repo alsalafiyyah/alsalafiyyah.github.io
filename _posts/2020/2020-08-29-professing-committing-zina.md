@@ -9,7 +9,7 @@ locale: en
 lang: en
 note: true
 category: [fatwas, zina]
-excerpt: "In our school, some students talk publicly about adultery and admit to having committed it. What should I do in this case? Am I considered sinful?"
+summary: "In our school, some students talk publicly about adultery and admit to having committed it. What should I do in this case? Am I considered sinful?"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

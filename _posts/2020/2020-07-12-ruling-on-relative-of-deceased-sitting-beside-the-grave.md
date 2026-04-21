@@ -6,7 +6,7 @@ source: "Fatwas of the Permanent Committee of KSA no.11057 question 5"
 category: [bidah, funerals, fatwas]
 hijri: Dhul-Qa'idah 8, 1441
 note: true
-excerpt: It is impermissible bid’ah that a relative of the deceased sits at the grave after burial for half an hour.
+summary: It is impermissible bid’ah that a relative of the deceased sits at the grave after burial for half an hour.
 shaykhs: 
  - Shaykh Ibn Baz
  - Shaykh Abdul-Razzaq al-Afify

@@ -10,7 +10,7 @@ lang: en
 locale: en
 category: [fatwas,sects]
 note: true
-excerpt: "It is not permissible for Muslims to divide into separate religious groups and parties, with members cursing and fighting each other."
+summary: "It is not permissible for Muslims to divide into separate religious groups and parties, with members cursing and fighting each other."
 group1: true
 --- 
 

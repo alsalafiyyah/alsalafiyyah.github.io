@@ -6,7 +6,7 @@ date: 2025-07-29
 hijri: "Safar 4, 1447 AH"
 source: "Fatawa al-Lajnah ad-Da'imah no. 7482, Question 4"
 category: [fatwas, quran]
-excerpt: "The Qur’an is the Words of Allah. Jibril (Gabriel, peace be upon him) was commissioned by Allah to hear and convey His Words to Muhammad (peace be upon him) which he recited for him."
+summary: "The Qur’an is the Words of Allah. Jibril (Gabriel, peace be upon him) was commissioned by Allah to hear and convey His Words to Muhammad (peace be upon him) which he recited for him."
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

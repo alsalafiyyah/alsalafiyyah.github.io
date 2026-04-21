@@ -6,7 +6,7 @@ source: "Fatawa Al-Lajnah Ad-Da'imah no. 6931-1"
 hijri: Muharram 12, 1442 AH
 lang: en
 category: [foundling, tafsir, hadiths]
-excerpt: The Hadith which is mentioned in the question generally applies to eating from unlawful sources. It is a threatening Hadith that does not by any means include a foundling.
+summary: The Hadith which is mentioned in the question generally applies to eating from unlawful sources. It is a threatening Hadith that does not by any means include a foundling.
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

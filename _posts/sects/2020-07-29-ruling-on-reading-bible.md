@@ -7,7 +7,7 @@ category: [non-muslim,walabara]
 hijri: Dhul-Hijjah 8, 1441 AH
 lang: en
 locale: en
-excerpt: "The Divine Books revealed before the Qur'an now include many distortions, alterations, and omissions, as Allah says in the Qur'an."
+summary: "The Divine Books revealed before the Qur'an now include many distortions, alterations, and omissions, as Allah says in the Qur'an."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

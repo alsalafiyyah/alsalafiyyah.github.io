@@ -9,7 +9,7 @@ category: [muqolat,bidah]
 locale: en
 lang: en
 active: muqolat
-excerpt: "There is no such thing as a good bid’ah as is claimed by some of the ignorant ones. Innovations – in their entirety are a going astray, as was judged by the Messenger of Allah ﷺ."
+summary: "There is no such thing as a good bid’ah as is claimed by some of the ignorant ones. Innovations – in their entirety are a going astray, as was judged by the Messenger of Allah ﷺ."
 translated_by: Abu Hatim Muhammad Faruq
 muftis:
   shaykh: 

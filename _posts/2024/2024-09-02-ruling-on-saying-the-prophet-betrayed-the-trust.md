@@ -9,7 +9,7 @@ locale: en
 date: 2024-09-02
 category: [fatwas, prophets, sects]
 note: false
-excerpt: "There is no doubt in the unbelief of the one who says this; rather this is the severest of unbelief."
+summary: "There is no doubt in the unbelief of the one who says this; rather this is the severest of unbelief."
 translated_by: "Abu Maryam Tariq bin 'Ali"
 muftis:
   shaykh: 

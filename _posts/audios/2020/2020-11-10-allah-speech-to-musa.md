@@ -10,7 +10,7 @@ lang: en
 locale: en
 category: [fatwas,audios,prophets]
 url: "https://binbaz.org.sa/fatwas/13144/%D9%83%D9%85-%D9%85%D8%B1%D8%A9-%D9%83%D9%84%D9%85-%D8%A7%D9%84%D9%84%D9%87-%D9%85%D9%88%D8%B3%D9%89-%D8%B9%D9%84%D9%8A%D9%87-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85"
-excerpt: "As for the number of times; Allah (Exalted be He) knows that best, as I do not know about the number of times."
+summary: "As for the number of times; Allah (Exalted be He) knows that best, as I do not know about the number of times."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -7,7 +7,7 @@ hijri: Muharram 9, 1442 AH
 date: 2020/08/28
 locale: en
 lang: en
-excerpt: "When a child reaches the age of seven, the guardian should command them to perform Salah in order to get them used to it."
+summary: "When a child reaches the age of seven, the guardian should command them to perform Salah in order to get them used to it."
 category: [fatwas,salah]
 group1: true
 ---

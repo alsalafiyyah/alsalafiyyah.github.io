@@ -7,7 +7,7 @@ hijri: Muharram 19, 1446 AH
 date: 2024-07-25
 locale: en
 lang: en
-excerpt: The concept of demonstrations is a new, modern issue. It was not known in the time of the Prophet, nor in the time of the rightly-guided Khalifahs, nor in the time of any of the Companions.
+summary: The concept of demonstrations is a new, modern issue. It was not known in the time of the Prophet, nor in the time of the rightly-guided Khalifahs, nor in the time of any of the Companions.
 category: [fatwas]
 muftis:
   shaykh: 

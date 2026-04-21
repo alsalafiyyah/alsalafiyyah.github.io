@@ -10,7 +10,7 @@ note: true
 group9: true
 locale: en
 lang: en
-excerpt: If they insist on offering Sujud to anyone other than Allah after being informed, they should be sentenced to death for apostasy.
+summary: If they insist on offering Sujud to anyone other than Allah after being informed, they should be sentenced to death for apostasy.
 ---
 
 ### Question: 

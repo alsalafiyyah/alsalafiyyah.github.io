@@ -8,7 +8,7 @@ source: "Fatawa Al-Shaykh Ibn Baz vol. 25"
 lang: en
 category: [fitnahs, ghibah]
 note: false
-excerpt: "Though Shaykh Al-Albani is not infallible and might err in declaring a Hadith as Sahih (authentic) or Da'if (weak); it is not permissible to insult, dispraise, or backbite him."
+summary: "Though Shaykh Al-Albani is not infallible and might err in declaring a Hadith as Sahih (authentic) or Da'if (weak); it is not permissible to insult, dispraise, or backbite him."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

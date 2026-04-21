@@ -10,7 +10,7 @@ group1: true
 locale: en
 lang: en
 category: [prophets,fatwas]
-excerpt: It is not permissible to act the messengers and the prophets, which will be necessary to film their stories.
+summary: It is not permissible to act the messengers and the prophets, which will be necessary to film their stories.
 ---
 
 ### Question:

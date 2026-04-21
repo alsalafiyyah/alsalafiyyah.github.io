@@ -8,7 +8,7 @@ lang: en
 category: [marriage]
 note: false
 url: "https://binbaz.org.sa/fatwas/2314/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%B2%D9%88%D8%AC-%D8%A7%D9%84%D8%B0%D9%8A-%D9%84%D8%A7-%D9%8A%D8%B9%D8%A7%D8%B4%D8%B1-%D8%A8%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%88%D9%81"
-excerpt: "You also have to check yourself and follow your religion properly. Repent to Allah from any bad deeds and sins that you may have committed with regard to Allah’s Rights, your husband’s rights, and the rights of anyone else. Perhaps, he has been sent against you because of some sins that you have committed."
+summary: "You also have to check yourself and follow your religion properly. Repent to Allah from any bad deeds and sins that you may have committed with regard to Allah’s Rights, your husband’s rights, and the rights of anyone else. Perhaps, he has been sent against you because of some sins that you have committed."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

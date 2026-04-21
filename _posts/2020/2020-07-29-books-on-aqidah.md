@@ -7,7 +7,7 @@ category: [books, knowledge]
 hijri: Dhul-Hijjah 8, 1441 AH
 lang: en
 note: false
-excerpt: "The most important book in 'Aqidah is the Qur'an; it is the most truthful, the greatest and the noblest book. You should adhere to it as much as possible and recite it often. It includes 'Aqidah, guidance to goodness and warning against evil."
+summary: "The most important book in 'Aqidah is the Qur'an; it is the most truthful, the greatest and the noblest book. You should adhere to it as much as possible and recite it often. It includes 'Aqidah, guidance to goodness and warning against evil."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz Ibn Baz

@@ -8,7 +8,7 @@ source: "Fatawa Nur Ala ad-Darb, Tape No.110"
 category: [fatwas,sects,sufism,audios]
 link: "https://binothaimeen.net/s/96lshzp3"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_110_07.mp3"
-excerpt: "Our view is that a believer must make the Messenger of Allah (peace and blessings of Allah be upon him) the one followed above all else."
+summary: "Our view is that a believer must make the Messenger of Allah (peace and blessings of Allah be upon him) the one followed above all else."
 muftis:
   shaykh: 
     - name: Shaykh Ibn Uthaymeen 

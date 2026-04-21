@@ -7,7 +7,7 @@ source: "Fatawa Al-Lajnah Al-Da'imah no. 11043"
 lang: en
 note: true
 category: [takfir, sects, ahl-fatrah]
-excerpt: "It is impermissible for the adherents of Tawhid (monotheism), who hold that the worshippers of graves are disbelievers, to call their fellow monotheists as Kafirs (disbelievers) while they are uncertain of the judgment before establishing proofs and clarification on them."
+summary: "It is impermissible for the adherents of Tawhid (monotheism), who hold that the worshippers of graves are disbelievers, to call their fellow monotheists as Kafirs (disbelievers) while they are uncertain of the judgment before establishing proofs and clarification on them."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

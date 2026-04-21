@@ -8,7 +8,7 @@ locale: en
 note: false
 source: "Fatawa Al-Shaykh Ibn Baz 15/48"
 category: [fatwas,fasting]
-excerpt: "I advise my Muslim brothers everywhere on the occasion of the beginning of blessed Ramadan 1413 A.H. to fear Allah, compete to do good, advise one another to do what is right, and be patient in this regard. Cooperate to do the good and be pious, be careful to avoid what Allah forbids everywhere."
+summary: "I advise my Muslim brothers everywhere on the occasion of the beginning of blessed Ramadan 1413 A.H. to fear Allah, compete to do good, advise one another to do what is right, and be patient in this regard. Cooperate to do the good and be pious, be careful to avoid what Allah forbids everywhere."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

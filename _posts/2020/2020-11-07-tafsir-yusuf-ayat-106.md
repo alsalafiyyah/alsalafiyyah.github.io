@@ -7,7 +7,7 @@ source: "Fatawa Al-Shaykh Ibn Baz p.8/292"
 lang: en
 category: [quran]
 note: false
-excerpt: "Abu Jahl and his like believed that Allah was their Creator and Provider, the Creator of the heavens and the earth, but this did not avail them anything, because they associated others with Allah by worshipping idols and statues."
+summary: "Abu Jahl and his like believed that Allah was their Creator and Provider, the Creator of the heavens and the earth, but this did not avail them anything, because they associated others with Allah by worshipping idols and statues."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

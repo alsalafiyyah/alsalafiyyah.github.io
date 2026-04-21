@@ -9,7 +9,7 @@ lang: en
 locale: en
 note: false
 uid: giving-pledge-of-allegiance-for-those-in-authority
-excerpt: "One of the entailments of giving the pledge of allegiance is to advise the ruler. It is a part of this advice to supplicate to Allah for the ruler that they may be granted success, guidance, righteous intentions and actions, and an upright retinue."
+summary: "One of the entailments of giving the pledge of allegiance is to advise the ruler. It is a part of this advice to supplicate to Allah for the ruler that they may be granted success, guidance, righteous intentions and actions, and an upright retinue."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

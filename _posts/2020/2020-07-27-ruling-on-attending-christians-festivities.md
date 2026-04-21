@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 locale: en
 lang: en
 note: true
-excerpt: "It is not permissible for Muslims to hold such celebrations, or attend them, or participate in them with the Christians, for such participation is a form of helping the occurrence of sin and transgression, whereas Allah has forbidden them."
+summary: "It is not permissible for Muslims to hold such celebrations, or attend them, or participate in them with the Christians, for such participation is a form of helping the occurrence of sin and transgression, whereas Allah has forbidden them."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

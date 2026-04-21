@@ -6,7 +6,7 @@ date: 2025-07-29
 hijri: "Safar 4, 1447 AH"
 source: "Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 6137"
 category: [fatwas, quran]
-excerpt: "The Qur’an is Allah’s Words which Gabriel (peace be upon him) received from Allah and recited to Muhammad (peace be upon him), who in turn listened and learned it carefully from Gabriel exactly as spoken by Allah."
+summary: "The Qur’an is Allah’s Words which Gabriel (peace be upon him) received from Allah and recited to Muhammad (peace be upon him), who in turn listened and learned it carefully from Gabriel exactly as spoken by Allah."
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

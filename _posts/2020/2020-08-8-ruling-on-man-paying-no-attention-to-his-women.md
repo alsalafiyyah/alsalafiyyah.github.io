@@ -9,7 +9,7 @@ locale: en
 lang: en
 date: 2020/08/8
 note: true
-excerpt: "It is not permissible for a woman to curse her children in her husband's house or in any other place."
+summary: "It is not permissible for a woman to curse her children in her husband's house or in any other place."
 muftis:
   chairman: 
     - name: Shaykh Ibn baz

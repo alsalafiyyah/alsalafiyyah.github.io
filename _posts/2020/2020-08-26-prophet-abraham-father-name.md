@@ -10,7 +10,7 @@ note: true
 locale: en
 lang: en
 category: [prophets,fatwas]
-excerpt: Azar is a Persian name of the father of Abraham, peace be upon him, according to the most authentic scholars' opinions. 
+summary: Azar is a Persian name of the father of Abraham, peace be upon him, according to the most authentic scholars' opinions. 
 ---
 
 ### Question:

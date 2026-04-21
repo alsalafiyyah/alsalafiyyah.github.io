@@ -10,7 +10,7 @@ note: true
 group3: true
 locale: en
 lang: en
-excerpt: If a woman wants to go out, she should inform her husband about the place she is going to and take his permission as he knows what benefits her.
+summary: If a woman wants to go out, she should inform her husband about the place she is going to and take his permission as he knows what benefits her.
 article_taken_from: 
   taken_from:
     - web_title: الخروج إلى السوق دون إذن الزوج

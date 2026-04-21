@@ -6,7 +6,7 @@ hijri: Muharram 27, 1442
 locale: en
 lang: en
 source: "Fatawa al-Lajnah ad-Da'imah, Fatwa no. 315"
-excerpt: "In case that the aim of staying beside the grave is to offer worship to Allah Alone, it is still not permissible as it combines between the sin of staying beside the grave and the sin of offering 'Ibadah to Allah beside the graves."
+summary: "In case that the aim of staying beside the grave is to offer worship to Allah Alone, it is still not permissible as it combines between the sin of staying beside the grave and the sin of offering 'Ibadah to Allah beside the graves."
 category: [fatwas,sacrifice,udhiyah]
 muftis:
   chairman: 

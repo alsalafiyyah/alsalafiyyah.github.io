@@ -9,7 +9,7 @@ category: [muqolat]
 lang: en
 locale: en
 active: muqolat
-excerpt: Truly, the Qur'an contains guidance and light. It is the strong Rope and Right Path of Allah. It is the Wise Reminder, whoever adheres to it will be saved, whereas whoever is lead astray from it perishes.
+summary: Truly, the Qur'an contains guidance and light. It is the strong Rope and Right Path of Allah. It is the Wise Reminder, whoever adheres to it will be saved, whereas whoever is lead astray from it perishes.
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

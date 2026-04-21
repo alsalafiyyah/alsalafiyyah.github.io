@@ -6,7 +6,7 @@ date: 2019-09-01
 hijri: Muharram 02, 1441 AH
 source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 11269, question 2"
 category: [taharah, ablution]
-excerpt: "Should a person perform Istinja’ (cleansing the private parts with water after urination or defecation) or Istijmar (cleansing the private parts with hard material after urination or defecation) after breaking wind? Does it invalidate Wudu’ (ablution)?"
+summary: "Should a person perform Istinja’ (cleansing the private parts with water after urination or defecation) or Istijmar (cleansing the private parts with hard material after urination or defecation) after breaking wind? Does it invalidate Wudu’ (ablution)?"
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

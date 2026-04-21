@@ -8,7 +8,7 @@ lang: en
 note: true
 uid: paying-money-instead-of-executing-the-hadd
 category: ["rulership", hudud]
-excerpt: "It is not permissible to substitute the Hudud (ordained punishments for violating Allah’s Law) that Allah decreed with monetary fines; because the Hadud are Tawqifi (bound by a religious text and not amenable to personal opinion) and it is not permissible to change them."
+summary: "It is not permissible to substitute the Hudud (ordained punishments for violating Allah’s Law) that Allah decreed with monetary fines; because the Hadud are Tawqifi (bound by a religious text and not amenable to personal opinion) and it is not permissible to change them."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

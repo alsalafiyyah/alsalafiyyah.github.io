@@ -8,7 +8,7 @@ locale: en
 date: 2024-09-12
 category: [fatwas]
 source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 6575‏, Question 2"
-excerpt: "The Muslim has to learn such fundamental knowledge even if this requires traveling to another land if there is no one to teach him."
+summary: "The Muslim has to learn such fundamental knowledge even if this requires traveling to another land if there is no one to teach him."
 group1: true
 ---
 

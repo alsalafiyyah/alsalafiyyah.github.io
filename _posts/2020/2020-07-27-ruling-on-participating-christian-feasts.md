@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "It is not permissible to participate in the feasts of the Christians or any of the disbelievers since this falls under cooperation in sin and transgression, approval to Munkar, and declaring loyalty to the Kuffar."
+summary: "It is not permissible to participate in the feasts of the Christians or any of the disbelievers since this falls under cooperation in sin and transgression, approval to Munkar, and declaring loyalty to the Kuffar."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

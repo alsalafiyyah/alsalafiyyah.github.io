@@ -10,7 +10,7 @@ note: true
 group9: true
 locale: en
 lang: en
-excerpt: It is a reprehensible act, for immortality belongs to Allah (Praised be He) alone and creatures do not live forever.
+summary: It is a reprehensible act, for immortality belongs to Allah (Praised be He) alone and creatures do not live forever.
 article_taken_from: 
   taken_from:
     - web_title: تذييل الخطابات والعرائض بكلمة ودمتم

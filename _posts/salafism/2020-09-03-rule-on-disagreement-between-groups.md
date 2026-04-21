@@ -10,7 +10,7 @@ group2: true
 note: true
 locale: en
 lang: en
-excerpt: If any conflict should occur, it will be necessary to refer it to the Qur'an and Sunnah to know the truth and adopt it.
+summary: If any conflict should occur, it will be necessary to refer it to the Qur'an and Sunnah to know the truth and adopt it.
 ---
 
 ### Question: 

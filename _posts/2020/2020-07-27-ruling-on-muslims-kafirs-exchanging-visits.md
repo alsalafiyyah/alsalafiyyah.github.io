@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "If your intention of visiting is to advise and invite them to Islam, then inviting to Islam is a noble aim. Therefore, your invitation and visit at their houses is a means to realize this noble objective; the means are judged the same as their objectives."
+summary: "If your intention of visiting is to advise and invite them to Islam, then inviting to Islam is a noble aim. Therefore, your invitation and visit at their houses is a means to realize this noble objective; the means are judged the same as their objectives."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

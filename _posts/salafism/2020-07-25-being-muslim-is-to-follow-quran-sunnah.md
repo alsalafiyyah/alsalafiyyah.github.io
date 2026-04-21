@@ -10,7 +10,7 @@ note: true
 locale: en
 lang: en
 group1: true
-excerpt: The duty of every Muslim is to adhere to what came in the Book of Allah and the Sunnah of His Messenger in words, deeds, and beliefs.
+summary: The duty of every Muslim is to adhere to what came in the Book of Allah and the Sunnah of His Messenger in words, deeds, and beliefs.
 ---
 
 ### Question: 

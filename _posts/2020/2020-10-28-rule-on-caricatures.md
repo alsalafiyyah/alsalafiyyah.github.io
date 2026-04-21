@@ -8,7 +8,7 @@ lang: en
 locale: en
 category: [fatwas,taswir]
 note: false
-excerpt: "The referred to drawing is not permissible. It is one of the widely common prohibited matters that should be abandoned due to the categorical purport of the authentic Hadiths establishing the prohibition of picturing animate objects, whether through photographing, drawing or anything else."
+summary: "The referred to drawing is not permissible. It is one of the widely common prohibited matters that should be abandoned due to the categorical purport of the authentic Hadiths establishing the prohibition of picturing animate objects, whether through photographing, drawing or anything else."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

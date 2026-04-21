@@ -9,7 +9,7 @@ lang: en
 locale: en
 note: false
 uid: false-baseless-sufi-claim
-excerpt: "What all Muslims have to do is to fear Allah and adhere to His Shari'ah, which is indicated in His Noble Book and in the Sunnah of His trustworthy Messenger, and beware of anything that goes against that."
+summary: "What all Muslims have to do is to fear Allah and adhere to His Shari'ah, which is indicated in His Noble Book and in the Sunnah of His trustworthy Messenger, and beware of anything that goes against that."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

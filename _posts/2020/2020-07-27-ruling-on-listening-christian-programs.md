@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "It is not permissible to listen to Christian missionary programs, unless you have the basic knowledge that will make you sure of their absurdities and differentiate between truth and falsehood, in which case they cannot influence your beliefs and faith."
+summary: "It is not permissible to listen to Christian missionary programs, unless you have the basic knowledge that will make you sure of their absurdities and differentiate between truth and falsehood, in which case they cannot influence your beliefs and faith."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -11,7 +11,7 @@ locale: en
 active: audios
 category: [fatwas,audios,prophets]
 url: "https://binbaz.org.sa/fatwas/13300/%D9%87%D9%84-%D9%8A%D8%B9%D8%B1%D9%81-%D9%82%D8%A8%D8%B1%D8%A7-%D8%A7%D9%8A%D9%88%D8%A8-%D9%88%D8%B9%D9%85%D8%B1%D8%A7%D9%86-%D8%B9%D9%84%D9%8A%D9%87%D9%85%D8%A7-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D9%88%D8%AD%D9%83%D9%85-%D8%B2%D9%8A%D8%A7%D8%B1%D8%AA%D9%87%D9%85%D8%A7"
-excerpt: "These claims have no basis, for the sites of the graves of all prophets are unknown, except the grave of Prophet Muhammad (peace be upon him) which is in Madinah and the grave of Prophet Ibrahim in Khalil."
+summary: "These claims have no basis, for the sites of the graves of all prophets are unknown, except the grave of Prophet Muhammad (peace be upon him) which is in Madinah and the grave of Prophet Ibrahim in Khalil."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

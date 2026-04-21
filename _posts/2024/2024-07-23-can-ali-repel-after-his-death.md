@@ -10,7 +10,7 @@ note: true
 group1: true
 locale: en
 lang: en
-excerpt: A person who believes that Ali, or any other dead person, can bring benefit or ward off harm is a Mushrik, because this is particular to Allah, the Exalted, alone.
+summary: A person who believes that Ali, or any other dead person, can bring benefit or ward off harm is a Mushrik, because this is particular to Allah, the Exalted, alone.
 article_taken_from: 
   taken_from:
     - web_title: القول بأن علي رضي الله عنه يدفع المصائب عن غيره بعد موته 

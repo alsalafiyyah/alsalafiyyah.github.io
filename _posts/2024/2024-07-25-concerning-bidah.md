@@ -7,7 +7,7 @@ hijri: Muharram 19, 1446 AH
 date: 2024-07-25
 locale: en
 lang: en
-excerpt: Bi'dah in reality are indirect criticisms of the Shari’ah; because they necessicate the implication that the Shar’iah is incomplete and that the innovation is a more perfect form of worship to seek nearness to Allaah as the innovator claims.
+summary: Bi'dah in reality are indirect criticisms of the Shari’ah; because they necessicate the implication that the Shar’iah is incomplete and that the innovation is a more perfect form of worship to seek nearness to Allaah as the innovator claims.
 category: [fatwas,bidah]
 muftis:
   shaykh: 

@@ -10,7 +10,7 @@ note: true
 group1: true
 locale: en
 lang: en
-excerpt: The knowledge about this matter will not increase or decrease our faith. Thus, we should neither believe nor deny what they say.
+summary: The knowledge about this matter will not increase or decrease our faith. Thus, we should neither believe nor deny what they say.
 ---
 
 ### Question: 

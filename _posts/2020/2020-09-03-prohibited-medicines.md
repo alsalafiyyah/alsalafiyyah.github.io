@@ -4,7 +4,7 @@ title: "Prohibited medicines"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 16805, Question 3"
 hijri: Muharram 15, 1442
-excerpt: "A Muslim is forbidden to make use of any harmful herb such as intoxicant herbs, as they affect the mind and religion. They may cause sterility, weakness or the like."
+summary: "A Muslim is forbidden to make use of any harmful herb such as intoxicant herbs, as they affect the mind and religion. They may cause sterility, weakness or the like."
 locale: en
 lang: en
 date: 2020/09/3

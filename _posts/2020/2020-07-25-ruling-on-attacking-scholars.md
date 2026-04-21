@@ -7,7 +7,7 @@ category: [fitnahs]
 hijri: Dhul-Hijjah 4, 1441 AH
 lang: en
 note: true
-excerpt: "Abusing scholars unjustly and ascribing them to innovations and Fisq (flagrant violation of Islamic law) or belittling their status and degrading their opinions are of the most grievous kinds of injustice"
+summary: "Abusing scholars unjustly and ascribing them to innovations and Fisq (flagrant violation of Islamic law) or belittling their status and degrading their opinions are of the most grievous kinds of injustice"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

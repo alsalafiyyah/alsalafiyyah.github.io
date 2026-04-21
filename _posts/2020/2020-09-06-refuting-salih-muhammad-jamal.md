@@ -9,7 +9,7 @@ locale: en
 date: 2020-09-06
 note: false
 category: [refutals]
-excerpt: "Anything that was not prescribed in the era of the Prophet (peace be upon him) and his Sahabah (may Allah be pleased with them) cannot be made permissible later. If this door is opened, Islam will be misrepresented and innovated ideas will enter it."
+summary: "Anything that was not prescribed in the era of the Prophet (peace be upon him) and his Sahabah (may Allah be pleased with them) cannot be made permissible later. If this door is opened, Islam will be misrepresented and innovated ideas will enter it."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

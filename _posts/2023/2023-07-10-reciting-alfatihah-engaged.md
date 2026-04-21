@@ -7,7 +7,7 @@ hijri: Dhul-Hijjah 22, 1444 AH
 lang: en
 note: false
 category: [bidah,engagement]
-excerpt: "Reciting Al-Fatihah at the time of a man's proposal to a woman or at the time of his marriage contract with her is bid'ah."
+summary: "Reciting Al-Fatihah at the time of a man's proposal to a woman or at the time of his marriage contract with her is bid'ah."
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz

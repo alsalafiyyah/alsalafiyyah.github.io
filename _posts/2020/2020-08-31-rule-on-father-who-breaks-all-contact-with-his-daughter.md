@@ -9,7 +9,7 @@ category: [fatwas,women]
 note: true
 locale: en
 lang: en
-excerpt: "Thus, she must not obey him in this regard, because her act of wearing Hijab is an act of obedience to Allah."
+summary: "Thus, she must not obey him in this regard, because her act of wearing Hijab is an act of obedience to Allah."
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz

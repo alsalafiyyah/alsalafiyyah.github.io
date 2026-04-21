@@ -9,7 +9,7 @@ locale: en
 date: 2024-09-11
 category: [fatwas]
 note: false
-excerpt: "Issuing fatwas and religious guidance should be given by those who are well-versed in the knowledge of the Quran and the Sunnah as well as the opinions of scholars."
+summary: "Issuing fatwas and religious guidance should be given by those who are well-versed in the knowledge of the Quran and the Sunnah as well as the opinions of scholars."
 group13: true
 ---
 

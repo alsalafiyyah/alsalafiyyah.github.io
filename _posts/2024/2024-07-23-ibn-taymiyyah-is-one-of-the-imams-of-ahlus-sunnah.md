@@ -10,7 +10,7 @@ note: true
 group1: true
 locale: en
 lang: en
-excerpt: Shaykh Ahmad ibn Abdul-Halim Ibn Taymiyyah is one of the imams of Ahlus-Sunnah wal-Jama’ah who called people to the truth and to the straight path.
+summary: Shaykh Ahmad ibn Abdul-Halim Ibn Taymiyyah is one of the imams of Ahlus-Sunnah wal-Jama’ah who called people to the truth and to the straight path.
 article_taken_from: 
   taken_from:
     - web_title: هل الإمام ابن تيمية من أهل السنة 

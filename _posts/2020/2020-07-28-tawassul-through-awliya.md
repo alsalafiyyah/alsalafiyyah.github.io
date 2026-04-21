@@ -10,7 +10,7 @@ group3: true
 locale: en
 lang: en
 note: true
-excerpt: "Is it permissible for a Muslim to make Tawassul by virtue of the status of the prophets and the righteous people?"
+summary: "Is it permissible for a Muslim to make Tawassul by virtue of the status of the prophets and the righteous people?"
 ---
 
 ### Question: 

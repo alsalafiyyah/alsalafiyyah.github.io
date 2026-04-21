@@ -13,7 +13,7 @@ active: audios
 type: audios
 category: [audios, sects, bidah]
 locale: en
-excerpt: "During festivals some people carry colorful flags bearing some Ayahs (Qur'anic verses) and expressions; for example, the magnate, great reliever and mighty scholar Ahmad Al-Rifa'i, Ahmad Al-Badawi, or Abdul-Qadir Al-Jilani."
+summary: "During festivals some people carry colorful flags bearing some Ayahs (Qur'anic verses) and expressions; for example, the magnate, great reliever and mighty scholar Ahmad Al-Rifa'i, Ahmad Al-Badawi, or Abdul-Qadir Al-Jilani."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

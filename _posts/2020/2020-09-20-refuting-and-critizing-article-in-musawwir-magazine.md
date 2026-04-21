@@ -8,7 +8,7 @@ locale: en
 source: "Majmu' Fatawa 3/156, 2/98"
 date: 2020-09-20
 category: [refutals]
-excerpt: "Thus, how on earth could Ahmad Baha' Al-Din or those who have transmitted this news to him propagate such falsehood and attribute it to an article that was published and read by people everywhere, may Allah be Glorified! I wonder how brazen-faced is that slanderer!"
+summary: "Thus, how on earth could Ahmad Baha' Al-Din or those who have transmitted this news to him propagate such falsehood and attribute it to an article that was published and read by people everywhere, may Allah be Glorified! I wonder how brazen-faced is that slanderer!"
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

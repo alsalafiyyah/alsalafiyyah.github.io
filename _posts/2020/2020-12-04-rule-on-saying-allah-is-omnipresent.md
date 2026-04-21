@@ -7,7 +7,7 @@ source: "Fatawa Al-Lajnah Al-Da'imah no. 16376-1"
 lang: en
 category: [fatwas,sects]
 note: true
-excerpt: "The foregoing is a false saying and it is tantamount to Kufr (disbelief) in Allah (Glorified and Exalted be He)."
+summary: "The foregoing is a false saying and it is tantamount to Kufr (disbelief) in Allah (Glorified and Exalted be He)."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

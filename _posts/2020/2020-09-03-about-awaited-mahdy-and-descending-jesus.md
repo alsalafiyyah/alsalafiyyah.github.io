@@ -8,7 +8,7 @@ hijri: Muharram 15, 1442 AH
 lang: en
 locale: en
 note: true 
-excerpt: "As far as we know, there is no Sahih Hadith which specifies the time of his descent. The only piece of information is that he descends after Al-Masih-ul-Dajjal or the Antichrist."
+summary: "As far as we know, there is no Sahih Hadith which specifies the time of his descent. The only piece of information is that he descends after Al-Masih-ul-Dajjal or the Antichrist."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

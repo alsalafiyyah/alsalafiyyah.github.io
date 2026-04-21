@@ -4,7 +4,7 @@ title: "Is a tree growing on a grave a sign of anything?"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 4/372, question 8"
 hijri: Dhul-Hijjah 23, 1441
-excerpt: This is a groundless belief. Trees or herbs growing on graves are no sign of the righteousness of their occupants; this is a false assumption.
+summary: This is a groundless belief. Trees or herbs growing on graves are no sign of the righteousness of their occupants; this is a false assumption.
 date: 2020/08/13
 category: [funerals, fatwas]
 shaykhs: Shaykh Ibn Baz

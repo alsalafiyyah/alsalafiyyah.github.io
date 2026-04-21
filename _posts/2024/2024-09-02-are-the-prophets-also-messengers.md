@@ -9,7 +9,7 @@ locale: en
 date: 2024-09-02
 category: [fatwas,prophets]
 note: false
-excerpt: "If Muhammad ﷺ was the last of the Prophets, then he (ﷺ) was also the last of the Messengers for there is no Messengership without Prophethood."
+summary: "If Muhammad ﷺ was the last of the Prophets, then he (ﷺ) was also the last of the Messengers for there is no Messengership without Prophethood."
 muftis:
   shaykh: 
     - name: Shaykh Ibn 'Uthaymeen

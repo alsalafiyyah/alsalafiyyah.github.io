@@ -10,7 +10,7 @@ note: true
 locale: en
 lang: en
 category: [prophets,fatwas]
-excerpt: Whoever claims that Jesus was crucified or killed is a Kafir as he will be opposing the explicit texts of the Qur'an.
+summary: Whoever claims that Jesus was crucified or killed is a Kafir as he will be opposing the explicit texts of the Qur'an.
 ---
 
 ### Question:

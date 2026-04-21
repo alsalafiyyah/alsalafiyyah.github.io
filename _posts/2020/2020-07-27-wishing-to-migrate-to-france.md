@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 note: true
 locale: en
-excerpt: "You should call to the path of Allah as much as you can. We ask Allah, the Benevolent, to grant you success and provide you with good wherever you are. Verily Allah is the One to be sought for achieving this and the only One Who is Able to do so."
+summary: "You should call to the path of Allah as much as you can. We ask Allah, the Benevolent, to grant you success and provide you with good wherever you are. Verily Allah is the One to be sought for achieving this and the only One Who is Able to do so."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

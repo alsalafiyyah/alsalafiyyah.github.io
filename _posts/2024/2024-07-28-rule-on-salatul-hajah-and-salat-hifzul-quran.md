@@ -8,7 +8,7 @@ source: "Fatawa Islamiyah 2/314"
 category: [fatwas,salah,bidah]
 locale: en
 lang: en
-excerpt: "They are both incorrect; neither Salatul-Hajah nor Salat Hifzul-Qur’an are correct, because it is not possible to confirm such acts of worship except by some legal evidence and there is no legal evidence by which to make them lawful."
+summary: "They are both incorrect; neither Salatul-Hajah nor Salat Hifzul-Qur’an are correct, because it is not possible to confirm such acts of worship except by some legal evidence and there is no legal evidence by which to make them lawful."
 muftis:
   shaykh: 
     - name: Shaykh Ibn ‘Uthaymeen

@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "Is it permissible for a Muslim to participate with Christians in their non-religious celebrations and share in their sorrows, such as birthday celebrations or sending condolences to the bereaved in or outside the cemetery?"
+summary: "Is it permissible for a Muslim to participate with Christians in their non-religious celebrations and share in their sorrows, such as birthday celebrations or sending condolences to the bereaved in or outside the cemetery?"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

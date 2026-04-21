@@ -6,7 +6,7 @@ active: biography
 category: [biography]
 date: 2020-08-08
 hijri: Dhul-Hijjah 18, 1441
-excerpt: "He is the great scholar and Muhaddith, Shaykh ‘Abdul-Muhsin bin Hamad bin ‘Abdil-Muhsin bin ‘Abdillah Al-‘Abbad Ali Badr."
+summary: "He is the great scholar and Muhaddith, Shaykh ‘Abdul-Muhsin bin Hamad bin ‘Abdil-Muhsin bin ‘Abdillah Al-‘Abbad Ali Badr."
 article_taken_from: 
   taken_from:
     - web_title: Biography of Shaykh Abdul-Muhsin al-Abbaad

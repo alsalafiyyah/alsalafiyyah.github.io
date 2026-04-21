@@ -8,7 +8,7 @@ hijri: Dhul-Qa'dah 20, 1441
 locale: en
 note: true
 lang: en
-excerpt: "Muslims have to hold fast to the Qur'an, Sunnah, and to the way of the Salaf with regard to both beliefs and deeds. May Allah help us all to acquire beneficial knowledge and to increase our good deeds!"
+summary: "Muslims have to hold fast to the Qur'an, Sunnah, and to the way of the Salaf with regard to both beliefs and deeds. May Allah help us all to acquire beneficial knowledge and to increase our good deeds!"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -10,7 +10,7 @@ note: true
 group1: true
 locale: en
 lang: en
-excerpt: "It is not permissible for a woman to appear before non-Mahrams or go out into the streets and markets wearing tight clothes that define her body."
+summary: "It is not permissible for a woman to appear before non-Mahrams or go out into the streets and markets wearing tight clothes that define her body."
 ---
 
 ### Question: 

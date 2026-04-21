@@ -8,7 +8,7 @@ lang: en
 locale: en
 note: true
 category: [fatwas,hisbah]
-excerpt: "She should forbid the wrong gently in an amiable way using kind words. Perhaps, the wrongdoer is ignorant or savage and he may increase his evil when he is harshly forbidden."
+summary: "She should forbid the wrong gently in an amiable way using kind words. Perhaps, the wrongdoer is ignorant or savage and he may increase his evil when he is harshly forbidden."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

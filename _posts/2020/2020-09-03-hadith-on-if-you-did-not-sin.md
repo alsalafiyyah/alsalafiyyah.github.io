@@ -6,7 +6,7 @@ source: "Fatawa Al-Lajnah Ad-Da'imah no. 6338-2"
 hijri: Muharram 14, 1442 AH
 lang: en
 category: ["tafsir", hadiths, mawdu-daif]
-excerpt: "what is the meaning of the Hadith of the Prophet (peace be upon him) that says: 'If you had not sinned and asked for forgiveness, Allah would have brought other than you who would sin and ask for forgiveness.'"
+summary: "what is the meaning of the Hadith of the Prophet (peace be upon him) that says: 'If you had not sinned and asked for forgiveness, Allah would have brought other than you who would sin and ask for forgiveness.'"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

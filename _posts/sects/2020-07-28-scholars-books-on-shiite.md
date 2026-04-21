@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 7, 1441
 locale: en
 lang: en
 note: true
-excerpt: "Shiites have numerous sects, some are extremists and others are not. Hence, we recommend you read books written by scholars about their sects and the 'Aqidah (creed) of each."
+summary: "Shiites have numerous sects, some are extremists and others are not. Hence, we recommend you read books written by scholars about their sects and the 'Aqidah (creed) of each."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

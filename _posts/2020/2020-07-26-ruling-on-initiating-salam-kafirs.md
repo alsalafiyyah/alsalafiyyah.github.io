@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 5, 1441
 lang: en
 note: true
 locale: en
-excerpt: "It is not permissible to greet a disbeliever first even if they occupy high positions, because of the general prohibition mentioned in the Hadith"
+summary: "It is not permissible to greet a disbeliever first even if they occupy high positions, because of the general prohibition mentioned in the Hadith"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

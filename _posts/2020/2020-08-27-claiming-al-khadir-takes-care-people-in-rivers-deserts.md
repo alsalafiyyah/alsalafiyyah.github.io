@@ -7,7 +7,7 @@ hijri: Muharram 8, 1442
 note: true
 group1: true
 date: 2020/08/27
-excerpt: Is Al-Khadir a guardian of the rivers and deserts and does he help those who get lost if they call him?
+summary: Is Al-Khadir a guardian of the rivers and deserts and does he help those who get lost if they call him?
 category: [fatwas,prophets]
 ---
 

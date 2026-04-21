@@ -9,7 +9,7 @@ locale: en
 lang: en
 note: true
 uid: barelwiyyah
-excerpt: "It is impermissible to offer Salah behind an Imam who adopts such beliefs. If the Ma'mum knows that the Imam adopts these beliefs, then the Salah of the former will not be valid."
+summary: "It is impermissible to offer Salah behind an Imam who adopts such beliefs. If the Ma'mum knows that the Imam adopts these beliefs, then the Salah of the former will not be valid."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

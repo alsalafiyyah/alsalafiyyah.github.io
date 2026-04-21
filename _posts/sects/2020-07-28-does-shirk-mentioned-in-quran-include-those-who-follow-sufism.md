@@ -9,7 +9,7 @@ lang: en
 locale: en
 uid: does-shirk-mentioned-in-quran-include-those-who-follow-sufism
 note: true
-excerpt: "Shirk mentioned in this Ayah includes those who seek the help of jinn, the dead and the absent instead of Allah and those who wear amulets containing anything other than the Qur'an seeking its benefit and recovery from illness."
+summary: "Shirk mentioned in this Ayah includes those who seek the help of jinn, the dead and the absent instead of Allah and those who wear amulets containing anything other than the Qur'an seeking its benefit and recovery from illness."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -10,7 +10,7 @@ category: [muqolat]
 locale: en
 lang: en
 active: muqolat
-excerpt: "These are the aspects that the people of the Days of Ignorance –both the people of the Book and the non-People of the Book– were upon, which Rasulullah ﷺ opposed."
+summary: "These are the aspects that the people of the Days of Ignorance –both the people of the Book and the non-People of the Book– were upon, which Rasulullah ﷺ opposed."
 muftis:
   shaykh: 
     - name: Shaykh Muhammad ibn Abdul-Wahhab

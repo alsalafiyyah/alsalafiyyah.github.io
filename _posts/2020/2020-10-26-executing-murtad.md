@@ -5,7 +5,7 @@ title: "Executing one who apostatizes from Islam"
 hijri: "Rabi' Al-Awwal 9, 1442 AH"
 lang: en
 source: "One of the questions asked in Al-Arabiyyah Magazine, dictated by His Eminence on 3/6/1416 A.H"
-excerpt: "The Noble Qur'an and the purified Sunnah have verified the obligation of executing a Murtad if they refuse to repent and this is understood in Allah's statement (Glorified be He) in Surah Al-Tawbah"
+summary: "The Noble Qur'an and the purified Sunnah have verified the obligation of executing a Murtad if they refuse to repent and this is understood in Allah's statement (Glorified be He) in Surah Al-Tawbah"
 active: fatwas
 category: [hudud]
 uid: executing-murtad

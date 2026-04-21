@@ -10,7 +10,7 @@ group1: true
 note: true
 locale: en
 lang: en
-excerpt: Prophet Nuh was the first messenger sent to the people on earth after Adam. This is based on the long Hadith of intercession narrated in the Two Sahihs.
+summary: Prophet Nuh was the first messenger sent to the people on earth after Adam. This is based on the long Hadith of intercession narrated in the Two Sahihs.
 ---
 
 ### Question:

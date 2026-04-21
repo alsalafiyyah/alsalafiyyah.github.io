@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "It is impermissible to have a friendly relationship with non-Muslims or to mingle with them in a manner that may tempt (mislead) a Muslim away from Islam."
+summary: "It is impermissible to have a friendly relationship with non-Muslims or to mingle with them in a manner that may tempt (mislead) a Muslim away from Islam."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

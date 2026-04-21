@@ -7,7 +7,7 @@ hijri: Muharram 12, 1442
 date: 2020/08/31
 locale: en
 lang: en
-excerpt: "Therefore, the girl should stick to wearing the Niqab, and try to convince her parents by explaining the legal ruling, without being bothered by their threats."
+summary: "Therefore, the girl should stick to wearing the Niqab, and try to convince her parents by explaining the legal ruling, without being bothered by their threats."
 category: [fatwas,women]
 muftis:
   chairman: 

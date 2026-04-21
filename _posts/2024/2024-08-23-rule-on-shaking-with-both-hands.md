@@ -10,7 +10,7 @@ lang: en
 locale: en
 category: [fatwas]
 note: false
-excerpt: "As for shaking with both of his hands, we are not aware of anything in that regard, rather, it should not be done."
+summary: "As for shaking with both of his hands, we are not aware of anything in that regard, rather, it should not be done."
 muftis:
   shaykh: 
     - name: Permanent Committee

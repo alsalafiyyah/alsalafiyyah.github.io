@@ -10,7 +10,7 @@ active: audios
 locale: en
 category: [fatwas,audios,terminology]
 url: "https://binbaz.org.sa/fatwas/29242/%D8%A7%D9%84%D9%81%D8%B1%D9%82-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%A7%D9%8A%D9%85%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85"
-excerpt: "Islam is submission and obedience to Allah by Tawhid (belief in the Oneness of Allah/monotheism), sincere devotion to Allah, obedience to His Commands, and avoidance of His Prohibitions. Thus, when they are used in general context, they bear the same meaning."
+summary: "Islam is submission and obedience to Allah by Tawhid (belief in the Oneness of Allah/monotheism), sincere devotion to Allah, obedience to His Commands, and avoidance of His Prohibitions. Thus, when they are used in general context, they bear the same meaning."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

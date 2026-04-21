@@ -10,7 +10,7 @@ group1: true
 locale: en
 lang: en
 note: true
-excerpt: "This person is regarded as a disobedient Muslim who should be advised and instructed so that perhaps Allah will show him true guidance."
+summary: "This person is regarded as a disobedient Muslim who should be advised and instructed so that perhaps Allah will show him true guidance."
 ---
 
 ### Question:

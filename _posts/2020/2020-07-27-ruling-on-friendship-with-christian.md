@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "It is permissible for a Muslim to kindly treat disbelievers who are not in a state of war with Islam, reciprocate their good treatment, as well as exchange beneficial things and presents with them."
+summary: "It is permissible for a Muslim to kindly treat disbelievers who are not in a state of war with Islam, reciprocate their good treatment, as well as exchange beneficial things and presents with them."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

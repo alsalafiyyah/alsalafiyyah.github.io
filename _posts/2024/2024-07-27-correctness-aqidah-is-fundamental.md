@@ -8,7 +8,7 @@ source: Fatawa as-Siyasah ash-Shar'iyyah, Question 1
 category: [fatwas,manhaj]
 locale: en
 lang: en
-excerpt: Faith is not faith except if the aqidah (creed) is correct. And if the aqidah is not correct, then there is no iman, and (there is) no deen (religion).
+summary: Faith is not faith except if the aqidah (creed) is correct. And if the aqidah is not correct, then there is no iman, and (there is) no deen (religion).
 translated_by: Masjid Uthaymeen
 muftis:
   shaykh: 

@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 7, 1441
 locale: en
 lang: en
 note: true
-excerpt: "They are committing an act of Shirk (associating others with Allah in His Divinity or worship) and thus they are apostates. Therefore, it is unlawful to eat from the meat of the animals they sacrifice"
+summary: "They are committing an act of Shirk (associating others with Allah in His Divinity or worship) and thus they are apostates. Therefore, it is unlawful to eat from the meat of the animals they sacrifice"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

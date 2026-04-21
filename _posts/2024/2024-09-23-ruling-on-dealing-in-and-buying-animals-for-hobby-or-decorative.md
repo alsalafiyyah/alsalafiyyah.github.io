@@ -8,7 +8,7 @@ locale: en
 date: 2024-09-23
 category: [fatwas,animals]
 source: "Fatawa al-Lajnah ad-Da'imah, Fatwa no.18807‏"
-excerpt: ""
+summary: ""
 group13: true
 ---
 

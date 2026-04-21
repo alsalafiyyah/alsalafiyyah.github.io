@@ -6,7 +6,7 @@ date: 2019-09-01
 hijri: Muharram 02, 1441 AH
 source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 2461, question 2"
 category: [taharah, ablution, salah]
-excerpt: "We do not know of any Islamic legal evidence signifying that bleeding from any part of the body other than the vagina invalidates Wudu’ (ablution)."
+summary: "We do not know of any Islamic legal evidence signifying that bleeding from any part of the body other than the vagina invalidates Wudu’ (ablution)."
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

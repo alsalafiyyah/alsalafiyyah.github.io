@@ -10,7 +10,7 @@ note: true
 group1: true
 locale: en
 lang: en
-excerpt: Nothing is authentically reported from the Prophet ﷺ in this regard. So avoiding this practice would be better. And Allah knows best.
+summary: Nothing is authentically reported from the Prophet ﷺ in this regard. So avoiding this practice would be better. And Allah knows best.
 article_taken_from: 
   taken_from:
     - web_title: كتابة شيء من آيات القرآن الكريم 

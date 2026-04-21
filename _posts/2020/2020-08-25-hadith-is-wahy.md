@@ -6,7 +6,7 @@ source: "Majmu' Fatawa wa Maqalat 9/462"
 hijri: Muharram 6, 1442 AH
 lang: en
 note: false
-excerpt: "As for the Hadith, Allah (Exalted be He) revealed them to the Prophet (peace be upon him) through Jibril. At other times, Jibril would assume the form of a human and say the revelation, as was related in a Hadith Sahih (authentic Hadith) on the authority of 'Aishah (may Allah be pleased with her)."
+summary: "As for the Hadith, Allah (Exalted be He) revealed them to the Prophet (peace be upon him) through Jibril. At other times, Jibril would assume the form of a human and say the revelation, as was related in a Hadith Sahih (authentic Hadith) on the authority of 'Aishah (may Allah be pleased with her)."
 category: [hadiths]
 muftis:
   shaykh: 

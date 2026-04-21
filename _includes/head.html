@@ -29,7 +29,7 @@
 <meta name="url" content="{{ page.url | replace:/index.html','/' | absolute_url }}">
 <meta name="robots" content="index,follow">
 <meta name="title" content="{{ page.title | default: site.title | escape }}">
-<meta name="abstract" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+<meta name="abstract" content="{{ page.summary | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 <meta itemprop="image" content="{{ '/assets/images/fb.jpg' | absolute_url }}"/>
 
 <!-- IOS Meta -->
@@ -45,12 +45,12 @@
 <meta property="og:image" content="{{ '/assets/images/fb.jpg' | absolute_url }}" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ page.url | replace:'/index.html','/' | absolute_url }}" />
-<meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}"/>
+<meta property="og:description" content="{{ page.summary | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}"/>
 
 <!-- Meta X Twitter -->
 <meta name="twitter:title" content="{{ page.title | default: site.title | escape }}">
 <meta property="twitter:url" content="{{ page.url | replace:'/index.html','/' | absolute_url }}" />
-<meta name="twitter:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}"/>
+<meta name="twitter:description" content="{{ page.summary | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}"/>
 <meta name="twitter:image" content="{{ '/assets/images/fb.jpg' | absolute_url }}"/>
 
 <!-- Meta Verifications -->
@@ -73,8 +73,8 @@
 <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
 <meta name='msapplication-window' content='width=800;height=600'>
 <title>{{ page.title | default: site.title | escape }}</title>
-<meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}"/>
-<meta name="summary" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}"/>
+<meta name="description" content="{{ page.summary | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}"/>
+<meta name="summary" content="{{ page.summary | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}"/>
 <link rel="canonical" href="{{ page.url | replace:'/index.html','/' | absolute_url }}" />
 <link rel="shortlink" href="{{ page.url | replace:'/index.html','/' | absolute_url }}"/>
 <link rel="bookmark" title="{{ page.title | default: site.title | escape }}" href="{{ page.url | replace:'/index.html','/' | absolute_url }}">

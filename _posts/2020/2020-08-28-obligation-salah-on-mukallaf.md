@@ -9,7 +9,7 @@ lang: en
 date: 2020/08/28
 category: [fatwas,salah]
 note: true
-excerpt: "Salah is obligatory upon every Mukallaf either man or woman, five times a day."
+summary: "Salah is obligatory upon every Mukallaf either man or woman, five times a day."
 group9: true
 ---
 

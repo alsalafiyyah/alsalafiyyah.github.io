@@ -6,7 +6,7 @@ source: "Majmu' Fatawa 9/63"
 hijri: Muharram 06, 1442
 date: 2020-08-25
 category: [muqolat]
-excerpt: "Tawhid is the essence of religion and the basis of the revelations of all Messengers, peace be upon them."
+summary: "Tawhid is the essence of religion and the basis of the revelations of all Messengers, peace be upon them."
 active: muqolat
 lang: en
 locale: en

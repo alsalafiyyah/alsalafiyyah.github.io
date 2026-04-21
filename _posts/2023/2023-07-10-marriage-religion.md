@@ -6,7 +6,7 @@ source: "Fatawa Al-Lajnah Al-Da’imah 18/31, Fatwa no.18121"
 date: 2023-07-10
 hijri: "Dhul-Hijjah 22, 1444 AH"
 category: [fatwas,marriage]
-excerpt: "The Sunnah indicates that it is prescribed to get married, and that it is one of the Sunnahs of the Messengers."
+summary: "The Sunnah indicates that it is prescribed to get married, and that it is one of the Sunnahs of the Messengers."
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

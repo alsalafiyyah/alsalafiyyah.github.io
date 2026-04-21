@@ -9,7 +9,7 @@ locale: en
 lang: en
 active: wahhabi
 category: [fatwas,wahhabism,manhaj,refutals]
-excerpt: "What is the ruling on someone who attacks and slanders Imam Muhammad Ibn 'Abdul-Wahhab and his Da'wah."
+summary: "What is the ruling on someone who attacks and slanders Imam Muhammad Ibn 'Abdul-Wahhab and his Da'wah."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

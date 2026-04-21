@@ -9,7 +9,7 @@ note: false
 date: 2020-09-16
 category: [sects,refutals]
 source: "Majmu' Fatawa by Shaykh Ibn Baz 13/169"
-excerpt: "The Babists carried out an armed terrorist movement in which they shed a great deal of blood and killed hundreds of people."
+summary: "The Babists carried out an armed terrorist movement in which they shed a great deal of blood and killed hundreds of people."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

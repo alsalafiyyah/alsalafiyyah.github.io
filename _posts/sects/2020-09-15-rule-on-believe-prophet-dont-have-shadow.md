@@ -9,7 +9,7 @@ lang: en
 locale: en
 note: true
 uid: rule-on-believe-prophet-dont-have-shadow
-excerpt: "This is a false belief which is incongruous with the explicit texts of the Qur'an and Sunnah"
+summary: "This is a false belief which is incongruous with the explicit texts of the Qur'an and Sunnah"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

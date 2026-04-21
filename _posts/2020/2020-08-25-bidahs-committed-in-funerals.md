@@ -6,7 +6,7 @@ source: "Majmu' Fatawa wa Maqalat 9/318"
 hijri: Muharram 6, 1442
 date: 2020/08/25
 category: [funerals, bidah, fatwas]
-excerpt: Such traditions are baseless in the purified Shariah. Rather, they are bid'ahs related to Jahiliyyah.
+summary: Such traditions are baseless in the purified Shariah. Rather, they are bid'ahs related to Jahiliyyah.
 shaykhs: Shaykh Ibn Baz
 ---
 

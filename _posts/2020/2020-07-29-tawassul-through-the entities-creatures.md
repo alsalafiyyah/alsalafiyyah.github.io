@@ -9,7 +9,7 @@ date: 2020-07-29
 locale: en
 lang: en
 note: true
-excerpt: "Beseeching in the name of a person, virtue, status or right of creatures, whether they are prophets or righteous people is a subject of controversy among the scholars."
+summary: "Beseeching in the name of a person, virtue, status or right of creatures, whether they are prophets or righteous people is a subject of controversy among the scholars."
 group1: true
 ---
 

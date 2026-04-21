@@ -10,7 +10,7 @@ locale: en
 active: audios
 category: [audios,palestine]
 note: false
-excerpt: "This act is not appropriate. It is not permissible to establish pictures for the injured."
+summary: "This act is not appropriate. It is not permissible to establish pictures for the injured."
 mp3: "https://alsalafiyyah.github.io/assets/audios/rule-on-showing-wounds-palestine.mp3"
 translated_by: Aqeel Walker
 muftis:

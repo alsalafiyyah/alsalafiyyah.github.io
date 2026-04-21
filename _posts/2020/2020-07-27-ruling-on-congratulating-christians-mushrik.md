@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "It is not permissible either to attend the Christian festivals or congratulate them on such occasions; for this will be a sort of being pleased with what they do, flattering them for their falsehood and helping them in sin and transgression."
+summary: "It is not permissible either to attend the Christian festivals or congratulate them on such occasions; for this will be a sort of being pleased with what they do, flattering them for their falsehood and helping them in sin and transgression."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

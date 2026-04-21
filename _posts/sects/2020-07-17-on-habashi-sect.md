@@ -7,7 +7,7 @@ category: [sects]
 lang: en
 note: false
 hijri: Dhul-Qa'dah 26, 1441 AH
-excerpt: "I would like to tell you that this sect is known to us. It is a misguided sect and their leader Abdullah Al-Habashy is notorious for his deviation and aberration."
+summary: "I would like to tell you that this sect is known to us. It is a misguided sect and their leader Abdullah Al-Habashy is notorious for his deviation and aberration."
 muftis:
   shyakh: 
     - name: Shaykh Ibn Baz

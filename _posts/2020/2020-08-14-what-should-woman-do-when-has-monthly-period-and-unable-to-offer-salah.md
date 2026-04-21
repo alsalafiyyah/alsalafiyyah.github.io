@@ -9,7 +9,7 @@ category: [fatwas,women]
 locale: en
 lang: en
 note: true
-excerpt: "A woman is exempted from offering Salah during her menstrual period. In fact it is prohibited for her to offer Salah during menstrual days and she is not required to make up for the Salah she missed after she is purified from menses out of Allah’s Mercy and Grace, to make things easy for women."
+summary: "A woman is exempted from offering Salah during her menstrual period. In fact it is prohibited for her to offer Salah during menstrual days and she is not required to make up for the Salah she missed after she is purified from menses out of Allah’s Mercy and Grace, to make things easy for women."
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz

@@ -7,7 +7,7 @@ source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 18453"
 lang: en
 category: [transaction,fatwas]
 note: true
-excerpt: "It is not permissible for a person to make copies of software programs protected by copyright unless the person obtains permission from the owner of these programs."
+summary: "It is not permissible for a person to make copies of software programs protected by copyright unless the person obtains permission from the owner of these programs."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

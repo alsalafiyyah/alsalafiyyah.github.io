@@ -10,7 +10,7 @@ note: true
 group10: true
 locale: en
 lang: en
-excerpt: It is permissible to treat sick people with the Qur'an. But having amulets that contain some parts of the Qur'an is prohibited.
+summary: It is permissible to treat sick people with the Qur'an. But having amulets that contain some parts of the Qur'an is prohibited.
 article_taken_from: 
   taken_from:
     - web_title: التداوي من القرآن والتراقي به واتخاذ المعوذات والتمائم منه 

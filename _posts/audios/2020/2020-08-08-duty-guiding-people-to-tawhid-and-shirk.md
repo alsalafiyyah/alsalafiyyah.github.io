@@ -10,7 +10,7 @@ lang: en
 category: [fatwas,audios]
 active: audios
 locale: en
-excerpt: "It is obligatory that the scholars guide people to the reality of Tawhid (belief in the Oneness of Allah/monotheism) and the reality of Shirk (associating others with Allah in His Divinity or worship), so that these blinded lay people know the falsity of their beliefs."
+summary: "It is obligatory that the scholars guide people to the reality of Tawhid (belief in the Oneness of Allah/monotheism) and the reality of Shirk (associating others with Allah in His Divinity or worship), so that these blinded lay people know the falsity of their beliefs."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

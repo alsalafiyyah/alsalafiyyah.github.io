@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "A Muslim is not allowed to enter the places of worship of disbelievers as this leads to increasing their number."
+summary: "A Muslim is not allowed to enter the places of worship of disbelievers as this leads to increasing their number."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

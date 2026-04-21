@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 7, 1441
 lang: en
 note: true
 locale: en
-excerpt: "Al-Tijaniyyah Order is one of the worst sects in terms of deviation and misguidance and propagation of Bid'ahs (innovations in religion) which are sanctioned neither by Allah (Glorified be He) nor by His Messenger. It is not permissible to pray behind an Imam who follows this Tariqah for Salah behind him is invalid."
+summary: "Al-Tijaniyyah Order is one of the worst sects in terms of deviation and misguidance and propagation of Bid'ahs (innovations in religion) which are sanctioned neither by Allah (Glorified be He) nor by His Messenger. It is not permissible to pray behind an Imam who follows this Tariqah for Salah behind him is invalid."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

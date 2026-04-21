@@ -9,7 +9,7 @@ lang: en
 active: audios
 category: [fatwas,audios,terminology]
 url: "https://binbaz.org.sa/fatwas/12767/%D8%A7%D9%84%D9%81%D8%B1%D9%82-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%AD%D9%84%D9%85-%D9%88%D8%A7%D9%84%D8%B5%D8%A8%D8%B1-%D9%81%D9%8A-%D8%B5%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D9%84%D9%87-%D8%B9%D8%B2%D9%88%D8%AC%D9%84"
-excerpt: "Al-Hilm is to delay the punishment for a servant (granting them respite so that they may repent from their sins). Allah (Glorified and Exalted be He) is described as Al-Halim (the All-Forbearing) and the Patient as narrated in the following Hadith Sahih"
+summary: "Al-Hilm is to delay the punishment for a servant (granting them respite so that they may repent from their sins). Allah (Glorified and Exalted be He) is described as Al-Halim (the All-Forbearing) and the Patient as narrated in the following Hadith Sahih"
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

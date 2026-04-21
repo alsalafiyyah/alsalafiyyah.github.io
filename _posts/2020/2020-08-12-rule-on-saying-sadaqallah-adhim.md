@@ -6,7 +6,7 @@ source: "Majmu' Fatawa wa Maqalat p.7/333"
 hijri: Dhul-Hijjah 22, 1441 AH
 lang: en
 category: [bidah]
-excerpt: "People’s custom of saying 'Sadaqallah-ul-Adhim' when finishing a session of recitation is a baseless act that should not be taken as a habit."
+summary: "People’s custom of saying 'Sadaqallah-ul-Adhim' when finishing a session of recitation is a baseless act that should not be taken as a habit."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

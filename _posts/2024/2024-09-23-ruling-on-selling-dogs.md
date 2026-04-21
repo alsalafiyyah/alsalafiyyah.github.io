@@ -8,7 +8,7 @@ locale: en
 date: 2024-09-23
 category: [fatwas,animals]
 source: "Fatawa al-Lajnah ad-Da'imah 13/36, Fatwa no.6554"
-excerpt: "It is not permissible to sell dogs, and their price is not lawful, whether they are guard dogs, hunting dogs or any other kind."
+summary: "It is not permissible to sell dogs, and their price is not lawful, whether they are guard dogs, hunting dogs or any other kind."
 group1: true
 ---
 

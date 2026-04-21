@@ -9,7 +9,7 @@ lang: en
 locale: en
 note: false
 uid: if-we-suppose-to-rebel-against-ruler
-excerpt: "I informed you before that it is not permissible to rebel against the ruler, except under two conditions"
+summary: "I informed you before that it is not permissible to rebel against the ruler, except under two conditions"
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da’imah 26/227-228, Fatwa no. 6914, Question 14"
 date: 2023-07-16
 hijri: Dhul-Hijjah 28, 1444
-excerpt: "If the supplications are tinged with bid'ah, this is even worse, for it combines amusement and heresy."
+summary: "If the supplications are tinged with bid'ah, this is even worse, for it combines amusement and heresy."
 category: [fatwas,bidah,music]
 author: "Permanent Committee of KSA"
 muftis:

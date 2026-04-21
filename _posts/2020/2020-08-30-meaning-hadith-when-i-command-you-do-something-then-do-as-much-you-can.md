@@ -6,7 +6,7 @@ source: "Fatawa Al-Lajnah Ad-Da'imah no. 10593-1"
 hijri: Muharram 11, 1442 AH
 lang: en
 category: ["tafsir", hadiths]
-excerpt: "The Prophet (peace be upon him) said: 'Anything I command you to do, perform of it as much as you can; and anything I forbid you to do, abandon it.'"
+summary: "The Prophet (peace be upon him) said: 'Anything I command you to do, perform of it as much as you can; and anything I forbid you to do, abandon it.'"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

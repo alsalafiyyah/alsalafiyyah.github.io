@@ -9,7 +9,7 @@ date: 2020/08/13
 note: false
 locale: en
 lang: en
-excerpt: "Shirk is defined as associating others with Allah in worship, such as invoking, seeking relief, making vows, offering prayers, fasting, or slaughtering animals for the idols."
+summary: "Shirk is defined as associating others with Allah in worship, such as invoking, seeking relief, making vows, offering prayers, fasting, or slaughtering animals for the idols."
 muftis:
   shaykh: 
     - name: Shaykh Ibn Baz

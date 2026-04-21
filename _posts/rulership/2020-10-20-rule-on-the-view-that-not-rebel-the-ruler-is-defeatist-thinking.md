@@ -10,7 +10,7 @@ lang: en
 note: false
 locale: en
 uid: rule-on-the-view-that-not-rebel-the-ruler-is-defeatist-thinking
-excerpt: "This is a mistake on the part of those who said this and shows their lack of understanding, as they neither understand the Sunnah nor know it in the correct way."
+summary: "This is a mistake on the part of those who said this and shows their lack of understanding, as they neither understand the Sunnah nor know it in the correct way."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

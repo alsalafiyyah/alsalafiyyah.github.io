@@ -8,7 +8,7 @@ hijri: Dhul-Qa'dah 20, 1441
 locale: en
 note: true
 lang: en
-excerpt: "It is worth mentioning that such people are very dangerous to Islam and thus you have to beware of them and warn others against them."
+summary: "It is worth mentioning that such people are very dangerous to Islam and thus you have to beware of them and warn others against them."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

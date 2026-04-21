@@ -6,7 +6,7 @@ date: 2019-09-01
 hijri: Muharram 02, 1441 AH
 source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 7044"
 category: [taharah, ablution, women]
-excerpt: "Passing wind from the front passage does not invalidate Wudu’."
+summary: "Passing wind from the front passage does not invalidate Wudu’."
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

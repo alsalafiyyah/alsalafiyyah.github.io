@@ -2,7 +2,7 @@
 layout: post
 author: "Instagram@Alsalafiyyah"
 title: "Correct 'Aqidah and its antithesis"
-excerpt: "One of the bases of Iman is to believe in the Perfectly Magnificent Names of Allah and His Sublime Attributes that are stated in His Glorious Book and are authentically reported from the Prophet without Tahrif, Ta'til, Takyif or Tamthil."
+summary: "One of the bases of Iman is to believe in the Perfectly Magnificent Names of Allah and His Sublime Attributes that are stated in His Glorious Book and are authentically reported from the Prophet without Tahrif, Ta'til, Takyif or Tamthil."
 hijri: Dhul-Hijjah 03, 1441
 date: 2020-07-24
 category: [muqolat]

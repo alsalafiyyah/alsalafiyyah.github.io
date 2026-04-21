@@ -9,7 +9,7 @@ category: [fatwas, hisbah]
 group1: true
 locale: en
 lang: en
-excerpt: "Is it allowed to reprove a Muslim because he believes that pictures are permissible? What things are permissible to denounce?"
+summary: "Is it allowed to reprove a Muslim because he believes that pictures are permissible? What things are permissible to denounce?"
 ---
 
 ### Question:

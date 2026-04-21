@@ -9,7 +9,7 @@ lang: en
 locale: en
 note: true
 uid: rule-on-wirds-tijaniyyah-qadiriyyah
-excerpt: "It is better for Muslims to take Wird for themselves from the Qur'an and remember Allah with Dhikr reported from the Prophet (peace be upon him)."
+summary: "It is better for Muslims to take Wird for themselves from the Qur'an and remember Allah with Dhikr reported from the Prophet (peace be upon him)."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

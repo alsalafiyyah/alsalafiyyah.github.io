@@ -10,7 +10,7 @@ locale: en
 category: [quran]
 note: false
 uid: tafsir-surah-fatir-28
-excerpt: "This lofty Ayah indicates that those who possess knowledge about Allah, His Din (Religion), His Glorious Book, and the Sunnah of His Prophet have the most perfect fear of Allah (Glorified be He) among mankind."
+summary: "This lofty Ayah indicates that those who possess knowledge about Allah, His Din (Religion), His Glorious Book, and the Sunnah of His Prophet have the most perfect fear of Allah (Glorified be He) among mankind."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

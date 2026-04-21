@@ -10,7 +10,7 @@ group5: true
 note: true
 locale: en
 lang: en
-excerpt: "The health insurance mentioned in your Fatwa request is one form of commercial insurance which is legally prohibited since it involves fraudulence, gambling and using people's money unjustly."
+summary: "The health insurance mentioned in your Fatwa request is one form of commercial insurance which is legally prohibited since it involves fraudulence, gambling and using people's money unjustly."
 ---
 
 ### Question: 

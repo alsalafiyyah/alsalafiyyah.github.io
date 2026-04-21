@@ -10,7 +10,7 @@ lang: en
 locale: en
 category: [fatwas,treatments]
 note: false
-excerpt: "If the doctors that specialize in that field decided that she would not be harmed by the removal of her kidney, there is nothing wrong with that."
+summary: "If the doctors that specialize in that field decided that she would not be harmed by the removal of her kidney, there is nothing wrong with that."
 muftis:
   shaykh: 
     - name: Shaykh Ibn Baz

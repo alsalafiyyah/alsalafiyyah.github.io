@@ -9,7 +9,7 @@ lang: en
 locale: en
 note: true
 category: [fatwas, zina, women]
-excerpt: "Having a girlfriend is considered Zina, which is prohibited according to the Book of Allah, the Sunnah and the Ijma' (consensus of scholars). These two individuals must separate"
+summary: "Having a girlfriend is considered Zina, which is prohibited according to the Book of Allah, the Sunnah and the Ijma' (consensus of scholars). These two individuals must separate"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

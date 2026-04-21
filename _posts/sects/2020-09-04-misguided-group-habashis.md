@@ -7,7 +7,7 @@ category: [sects]
 hijri: Muharram 16, 1442 AH
 lang: en
 note: true
-excerpt: "Jama'at-ul-Ahbash (the Habashis) is a misguided group which is against Ahl-ul-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream). They must return to the truth which was followed by the Sahabah and Tabi'un in all aspects of religion; actions and belief. This is better and more lasting for them."
+summary: "Jama'at-ul-Ahbash (the Habashis) is a misguided group which is against Ahl-ul-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream). They must return to the truth which was followed by the Sahabah and Tabi'un in all aspects of religion; actions and belief. This is better and more lasting for them."
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz

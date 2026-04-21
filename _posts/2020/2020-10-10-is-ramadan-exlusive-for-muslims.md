@@ -8,7 +8,7 @@ locale: en
 source: "Fatawa Al-Shaykh Ibn Baz 15/7"
 category: [fatwas,fasting]
 note: false
-excerpt: "Is the month of Ramadan an exclusive feature of our Muslim nation only or it was also prescribed upon previous nations?"
+summary: "Is the month of Ramadan an exclusive feature of our Muslim nation only or it was also prescribed upon previous nations?"
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

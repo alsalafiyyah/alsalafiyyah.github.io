@@ -7,7 +7,7 @@ source: "Fatawa Al-Lajnah Al-Da'imah no. 6397-5"
 lang: en
 note: true
 category: [ahl-fatrah]
-excerpt: "As for those whom Da'wah has not reached in an uncorrupted manner, they are left to the Will of Allah. The most authentic opinion of the scholars about them is that they are tested on the Day of Judgment; those who obey will enter Jannah, while those who disobey will enter Hellfire."
+summary: "As for those whom Da'wah has not reached in an uncorrupted manner, they are left to the Will of Allah. The most authentic opinion of the scholars about them is that they are tested on the Day of Judgment; those who obey will enter Jannah, while those who disobey will enter Hellfire."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

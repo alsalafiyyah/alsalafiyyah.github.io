@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 7, 1441
 locale: en
 lang: en
 note: true
-excerpt: "The belief that Allah is incarnated in 'Ali or in any other being is sheer disbelief that excludes a person from Islam. Likewise, the belief that any being other than Allah (Glorified be He) can control the heavens and earth, is disbelief as well."
+summary: "The belief that Allah is incarnated in 'Ali or in any other being is sheer disbelief that excludes a person from Islam. Likewise, the belief that any being other than Allah (Glorified be He) can control the heavens and earth, is disbelief as well."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

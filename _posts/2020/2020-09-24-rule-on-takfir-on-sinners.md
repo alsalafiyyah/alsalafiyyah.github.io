@@ -7,7 +7,7 @@ source: "Majmu' Fatawa Ibn Baz 28/146, question 1"
 lang: en
 locale: en
 category: [fatwas,takfir, sects]
-excerpt: "Ahlus-Sunnah do not consider a person who commits sins while knowing that they are Haram as a kafir but he is regarded as disobedient and of weak belief and should be submitted to Had."
+summary: "Ahlus-Sunnah do not consider a person who commits sins while knowing that they are Haram as a kafir but he is regarded as disobedient and of weak belief and should be submitted to Had."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "If one may be harmed due to not being generous to them, then it is permissible. However, offering them illegal foods and drinks prohibited by Allah as swine flesh and wine is not permissible."
+summary: "If one may be harmed due to not being generous to them, then it is permissible. However, offering them illegal foods and drinks prohibited by Allah as swine flesh and wine is not permissible."
 muftis:
   deputy_chairman:
     - name: Shaykh Abdul-Razzaq Al-Afifi

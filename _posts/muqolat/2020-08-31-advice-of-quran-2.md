@@ -8,7 +8,7 @@ date: 2020-08-31
 category: [muqolat]
 lang: en
 locale: en
-excerpt: "Do not attack or betray anyone, whether poor or rich, and avoid Zhulm in transactions and in everything. Do not do injustice to workers, if you are a company owner"
+summary: "Do not attack or betray anyone, whether poor or rich, and avoid Zhulm in transactions and in everything. Do not do injustice to workers, if you are a company owner"
 active: muqolat
 muftis:
   shaykh: 

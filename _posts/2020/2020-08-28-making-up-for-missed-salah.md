@@ -9,7 +9,7 @@ note: true
 locale: en
 lang: en
 category: [fatwas,salah]
-excerpt: "If he was conscious during the period when he abandoned Salah, he should make up for the missed Salahs according to his ability, whether standing, sitting, or lying on his side or back."
+summary: "If he was conscious during the period when he abandoned Salah, he should make up for the missed Salahs according to his ability, whether standing, sitting, or lying on his side or back."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

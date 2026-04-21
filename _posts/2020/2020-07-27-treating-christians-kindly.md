@@ -9,7 +9,7 @@ date: 2020-07-27
 lang: en
 note: true
 locale: en
-excerpt: "Offering benefits and doing good to non-hostile unbelievers are from the worldly matters which are permissible, as long as a Muslim denies their beliefs and religion."
+summary: "Offering benefits and doing good to non-hostile unbelievers are from the worldly matters which are permissible, as long as a Muslim denies their beliefs and religion."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

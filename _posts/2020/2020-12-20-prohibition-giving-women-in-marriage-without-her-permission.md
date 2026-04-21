@@ -7,7 +7,7 @@ source: "Fatawa Shaykh Ibn Baz p. 20/409"
 lang: en
 category: [marriage]
 note: false
-excerpt: "This manner of marriage is Munkar and invalid according to the most correct view of scholars. This is because the Prophet (peace be upon him) forbade giving women in marriage, except with their permission."
+summary: "This manner of marriage is Munkar and invalid according to the most correct view of scholars. This is because the Prophet (peace be upon him) forbade giving women in marriage, except with their permission."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

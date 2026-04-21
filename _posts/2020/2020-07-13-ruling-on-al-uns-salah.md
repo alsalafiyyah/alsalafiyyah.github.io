@@ -6,7 +6,7 @@ source: "Fatwas of the Permanent Committee of KSA no.16128 question 1"
 category: [bidah, funerals, fatwas]
 hijri: Dhul-Qa'dah 22, 1441
 note: true
-excerpt: Al-Uns Salah is one of the innovated Salah. It is an impermissible Bid'ah because acts of worship are based on divine texts. 
+summary: Al-Uns Salah is one of the innovated Salah. It is an impermissible Bid'ah because acts of worship are based on divine texts. 
 shaykhs: 
  - Shaykh Ibn Baz
  - Shaykh Abdul-Razzaq Afifi

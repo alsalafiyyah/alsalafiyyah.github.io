@@ -10,7 +10,7 @@ note: true
 group1: true
 locale: en
 lang: en
-excerpt: No one knows their number except Allah. Those who are known are those who are mentioned in the Qur'an or authentically reported in the Sunnah.
+summary: No one knows their number except Allah. Those who are known are those who are mentioned in the Qur'an or authentically reported in the Sunnah.
 ---
 
 ### Question:

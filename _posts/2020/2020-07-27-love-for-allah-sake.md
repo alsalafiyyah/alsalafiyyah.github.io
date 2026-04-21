@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "Loving and hating for the Sake of Allah is the most trustworthy handhold in faith. However, loving for Allah's Sake is not limited to a particular person; rather, it should be for all believers."
+summary: "Loving and hating for the Sake of Allah is the most trustworthy handhold in faith. However, loving for Allah's Sake is not limited to a particular person; rather, it should be for all believers."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Aal Al-Shaykh

@@ -10,7 +10,7 @@ note: true
 group1: true
 locale: en
 lang: en
-excerpt: Ruqyah (reciting Qur'an and saying supplications over the sick seeking healing) is permissible to be done by one Muslim for another.
+summary: Ruqyah (reciting Qur'an and saying supplications over the sick seeking healing) is permissible to be done by one Muslim for another.
 article_taken_from: 
   taken_from:
     - web_title: رقية المسلم أخاه بقراءة القرآن عليه مشروعة 

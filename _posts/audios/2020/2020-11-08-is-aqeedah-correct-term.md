@@ -9,7 +9,7 @@ type: audio
 active: audios
 category: [fatwas,audios,terminology]
 url: "https://binbaz.org.sa/fatwas/11533/%D9%85%D8%B5%D8%B7%D9%84%D8%AD-%D8%A7%D9%84%D8%B9%D9%82%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D9%83%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D8%A7%D8%A1"
-excerpt: "Some people say that the term 'Aqeedah/Aqidah' is not correct and has no basis."
+summary: "Some people say that the term 'Aqeedah/Aqidah' is not correct and has no basis."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

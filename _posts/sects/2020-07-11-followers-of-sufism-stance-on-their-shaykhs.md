@@ -8,7 +8,7 @@ note: true
 lang: en
 locale: en
 hijri: Dhul-Qa'dah 20, 1441
-excerpt: "It is the duty of a Muslim to follow what Allah (Exalted be He) has revealed to His Prophet (peace be upon him); the Qur'an and Sunnah which contain guidance and light. Adhere to them, understand their meanings, act according to them and bear harm for the sake of holding firm to the straight way of Allah (Exalted be He) to which the Prophet (peace be upon him) and his Companions used to hold."
+summary: "It is the duty of a Muslim to follow what Allah (Exalted be He) has revealed to His Prophet (peace be upon him); the Qur'an and Sunnah which contain guidance and light. Adhere to them, understand their meanings, act according to them and bear harm for the sake of holding firm to the straight way of Allah (Exalted be He) to which the Prophet (peace be upon him) and his Companions used to hold."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Aal Al-Shaykh

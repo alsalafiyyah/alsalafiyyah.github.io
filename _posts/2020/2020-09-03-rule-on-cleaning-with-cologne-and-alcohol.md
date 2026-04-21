@@ -4,7 +4,7 @@ title: "Ruling on cleaning with cologne and alcohol"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no.3900, Question 2"
 hijri: Muharram 15, 1442
-excerpt: "There is no harm in using cologne with alcohol for medical purposes such as a disinfectant for injuries."
+summary: "There is no harm in using cologne with alcohol for medical purposes such as a disinfectant for injuries."
 lang: en
 locale: en
 date: 2020/09/3

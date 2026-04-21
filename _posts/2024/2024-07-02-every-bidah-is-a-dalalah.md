@@ -10,7 +10,7 @@ note: true
 group4: true
 locale: en
 lang: en
-excerpt: Beware of newly-invented matters (in religion), for every newly-invented matter is a Bid‘ah, and every Bid‘ah is a Dalalah.
+summary: Beware of newly-invented matters (in religion), for every newly-invented matter is a Bid‘ah, and every Bid‘ah is a Dalalah.
 article_taken_from: 
   taken_from:
     - web_title: البدعة الحسنة والبدعة السيئة

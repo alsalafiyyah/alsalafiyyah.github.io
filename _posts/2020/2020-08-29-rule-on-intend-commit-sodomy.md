@@ -7,7 +7,7 @@ hijri: Muharram 10, 1442 AH
 lang: en
 note: true
 category: [homosexual]
-excerpt: "Thank Allah for protecting you against the crime of sodomy. Seek Allah's forgiveness and do many good deeds."
+summary: "Thank Allah for protecting you against the crime of sodomy. Seek Allah's forgiveness and do many good deeds."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

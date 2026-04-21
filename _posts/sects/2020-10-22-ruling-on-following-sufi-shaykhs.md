@@ -9,7 +9,7 @@ locale: en
 category: [sects]
 note: false
 uid: ruling-on-following-sufi-shaykhs
-excerpt: "What the questioner mentions about having in their country shaykhs whom they follow and the belief that one who does not have a shaykh will be astray in this world and the Hereafter is Munkar. It is not permissible to follow or believe in such things."
+summary: "What the questioner mentions about having in their country shaykhs whom they follow and the belief that one who does not have a shaykh will be astray in this world and the Hereafter is Munkar. It is not permissible to follow or believe in such things."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

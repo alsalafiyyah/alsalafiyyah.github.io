@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "He should be informed that wearing a cross is an indication of being satisfied with and belonging to the Christians and their beliefs. If he insists on the act, he will be regarded as a disbeliever."
+summary: "He should be informed that wearing a cross is an indication of being satisfied with and belonging to the Christians and their beliefs. If he insists on the act, he will be regarded as a disbeliever."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

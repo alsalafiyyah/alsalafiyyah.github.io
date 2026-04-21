@@ -10,7 +10,7 @@ lang: en
 locale: en
 category: [fatwas,salah,fasting]
 note: false
-excerpt: "These people who fast and do not pray, their fast is not accepted. Rather, it is rejected as long as we say that they are disbelievers."
+summary: "These people who fast and do not pray, their fast is not accepted. Rather, it is rejected as long as we say that they are disbelievers."
 muftis:
   shaykh: 
     - name: Shaykh Ibn 'Uthaymeen

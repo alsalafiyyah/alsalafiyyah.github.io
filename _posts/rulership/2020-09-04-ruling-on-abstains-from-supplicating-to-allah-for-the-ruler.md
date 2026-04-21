@@ -9,7 +9,7 @@ lang: en
 note: false
 locale: en
 uid: ruling-on-abstains-from-supplicating-to-allah-for-the-ruler
-excerpt: "The Mu'min (believer) should pray Allah to grant all good for people and the ruler in particular, for his reform is a reform for the Ummah (nation)."
+summary: "The Mu'min (believer) should pray Allah to grant all good for people and the ruler in particular, for his reform is a reform for the Ummah (nation)."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

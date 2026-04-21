@@ -10,7 +10,7 @@ group1: true
 note: true
 locale: en
 lang: en
-excerpt: "What are the rulings on the following: Using the pious people as a means of healing from illnesses, visiting graves, vowing to make sacrifices to the dead"
+summary: "What are the rulings on the following: Using the pious people as a means of healing from illnesses, visiting graves, vowing to make sacrifices to the dead"
 ---
 
 ### Question: 

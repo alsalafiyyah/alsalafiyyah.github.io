@@ -9,7 +9,7 @@ source: "Fatawa Islamiyah 7/98-100"
 lang: en
 locale: en
 category: [fatwas,history]
-excerpt: "The meaning of 'building' is the mosque that the hypocrites built, the purpose of which Allah described in the above-mentioned verse."
+summary: "The meaning of 'building' is the mosque that the hypocrites built, the purpose of which Allah described in the above-mentioned verse."
 muftis:
   shaykh: 
     - name: Shaykh Ibn 'Uthaymeen

@@ -11,7 +11,7 @@ active: audios
 category: [fatwas,audios,palestine,non-muslim]
 note: false
 source: "Silsilat Al-Huda wa an-Noor 623"
-excerpt: "If they are at war, then it is not permissible to have dealings with them, whether that is in the country they have invaded or occupied, such as the Jews in Palestine, or in their own state."
+summary: "If they are at war, then it is not permissible to have dealings with them, whether that is in the country they have invaded or occupied, such as the Jews in Palestine, or in their own state."
 mp3: "https://alathar.net//home/esound/index.php?op=stream&co=486&cntid=5496&ftype=1"
 translated_by: Dr. Muhammad Aqib Hussain
 muftis:

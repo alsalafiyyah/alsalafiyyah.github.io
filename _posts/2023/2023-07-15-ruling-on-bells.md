@@ -6,7 +6,7 @@ source: "Fatawa Al-Lajnah Al-Da’imah 26/284, Fatwa no.18952, Question 4"
 date: 2023-07-15
 hijri: "Dhul-Hijjah 27, 1444 AH"
 category: [fatwas, music]
-excerpt: "The bells that are used in houses, schools and so on are permissible, so long as they do not include anything haram, such as resembling the church bells of the Christians"
+summary: "The bells that are used in houses, schools and so on are permissible, so long as they do not include anything haram, such as resembling the church bells of the Christians"
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

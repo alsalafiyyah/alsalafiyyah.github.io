@@ -9,7 +9,7 @@ date: 2020/07/28
 group1: true
 locale: en
 lang: en
-excerpt: "What is the Islamic ruling on supplicating to Allah through a means through prophets and pious people?"
+summary: "What is the Islamic ruling on supplicating to Allah through a means through prophets and pious people?"
 ---
 
 ### Question: 

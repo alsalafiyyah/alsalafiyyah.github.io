@@ -10,7 +10,7 @@ group1: true
 locale: en
 lang: en
 category: [prophets,fatwas]
-excerpt: Allah explicitly states in the Qur'an that the Jews killed the prophets unjustly.
+summary: Allah explicitly states in the Qur'an that the Jews killed the prophets unjustly.
 ---
 
 ### Question:

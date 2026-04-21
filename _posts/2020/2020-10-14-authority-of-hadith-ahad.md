@@ -8,7 +8,7 @@ lang: en
 category: [hadiths,fatwas]
 note: true
 key: quranism, sects, hadith, hadiths, sunnah, islam, disbeliever
-excerpt: "What about a person who denies the punishment in the grave, because the reports in this regard are Hadith-ul-Ahad (Hadiths which at some point in the chain have only a single narrator) which -they hold- can never be taken as basis for beliefs?"
+summary: "What about a person who denies the punishment in the grave, because the reports in this regard are Hadith-ul-Ahad (Hadiths which at some point in the chain have only a single narrator) which -they hold- can never be taken as basis for beliefs?"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

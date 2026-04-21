@@ -8,7 +8,7 @@ hijri: Dhul-Qa'dah 30, 1441 AH
 lang: en
 note: false
 locale: en
-excerpt: "The Nas from the Sunnah explains the meaning and confines the absoluteness of the Ayah to obeying the Muslims in authority in what is judged to be Ma‘ruf."
+summary: "The Nas from the Sunnah explains the meaning and confines the absoluteness of the Ayah to obeying the Muslims in authority in what is judged to be Ma‘ruf."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -8,7 +8,7 @@ source: "Fatawa Al-Shaykh Ibn Baz p. 7/319"
 lang: en
 category: [ghibah, fitnahs]
 note: false
-excerpt: "It has become prevalent nowadays that many of those who claim to be scholars and Du'ah (callers to Islam) backbite their fellow Du'ah and knowledge seekers, whether in private or in public. They might even record this on tapes to be distributed among the people, or in lectures they give in Masjids (mosques)."
+summary: "It has become prevalent nowadays that many of those who claim to be scholars and Du'ah (callers to Islam) backbite their fellow Du'ah and knowledge seekers, whether in private or in public. They might even record this on tapes to be distributed among the people, or in lectures they give in Masjids (mosques)."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

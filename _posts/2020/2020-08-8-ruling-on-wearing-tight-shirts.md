@@ -9,7 +9,7 @@ date: 2020/08/8
 note: true
 locale: en
 lang: en
-excerpt: "You should order the women of your household to dress in the islamically lawful way; do not pay attention to the people's comments. "
+summary: "You should order the women of your household to dress in the islamically lawful way; do not pay attention to the people's comments. "
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz

@@ -9,7 +9,7 @@ locale: en
 lang: en
 note: true
 group1: true
-excerpt: Salaf are Ahl-ul-Sunnah wal-Jama'ah who are the followers of the Prophet Muhammad such as the Sahabah and those who follow in their footsteps until the Day of Resurrection.
+summary: Salaf are Ahl-ul-Sunnah wal-Jama'ah who are the followers of the Prophet Muhammad such as the Sahabah and those who follow in their footsteps until the Day of Resurrection.
 category: [fatwas,manhaj]
 article_taken_from: 
   taken_from:

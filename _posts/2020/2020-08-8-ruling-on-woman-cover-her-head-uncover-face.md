@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 14, 1441
 date: 2020/08/8
 locale: en
 lang: en
-excerpt: "It is ordained for a woman to wear clothes that conceal her whole body, including her face and hands."
+summary: "It is ordained for a woman to wear clothes that conceal her whole body, including her face and hands."
 group1: true
 note: true
 ---

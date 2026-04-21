@@ -8,7 +8,7 @@ hijri: Dhul-Qa'dah 30, 1441
 lang: en
 locale: en
 note: true
-excerpt: "Ikhwan-ul-Muslimin Movement is being criticized by some scholars because they have no activity in the spread of Tawhid (monotheism), the prohibition of Shirk (associating others with Allah in His Divinity or worship) and Bid'ah."
+summary: "Ikhwan-ul-Muslimin Movement is being criticized by some scholars because they have no activity in the spread of Tawhid (monotheism), the prohibition of Shirk (associating others with Allah in His Divinity or worship) and Bid'ah."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

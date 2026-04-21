@@ -8,7 +8,7 @@ date: 2020-09-01
 lang: en
 locale: en
 group11: true
-excerpt: The Hadith on This Ummah will split into seventy-three sects, all of them will be in Hellfire except one.
+summary: The Hadith on This Ummah will split into seventy-three sects, all of them will be in Hellfire except one.
 category: [fatwas, hadiths, sects]
 ---
 

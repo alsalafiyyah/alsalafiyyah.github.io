@@ -10,7 +10,7 @@ locale: en
 active: audios
 category: [fatwas,audios,palestine,zakah]
 note: false
-excerpt: "Assist them with wealth and donations. Because they are in need. There are among them families, the elderly, children and the poor. Assist them with wealth along with supplicating for them."
+summary: "Assist them with wealth and donations. Because they are in need. There are among them families, the elderly, children and the poor. Assist them with wealth along with supplicating for them."
 mp3: "https://phaven-prod.s3.amazonaws.com/files/audio_part/asset/3161342/bgXga_j7NRASJ0PCeRQWxmmk_yA/Responsibility_towards_Palestine_.mp3"
 translated_by: Rasheed ibn Estes Barbee
 muftis:

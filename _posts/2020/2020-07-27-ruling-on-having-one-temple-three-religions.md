@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "It is not permissible to have one place of worship that gathers the three religions. This is because this place will not be established on piety, but will be established on Shirk and worshipping people other than Allah."
+summary: "It is not permissible to have one place of worship that gathers the three religions. This is because this place will not be established on piety, but will be established on Shirk and worshipping people other than Allah."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

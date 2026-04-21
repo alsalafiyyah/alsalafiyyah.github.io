@@ -9,7 +9,7 @@ group1: true
 note: true
 lang: en
 locale: en
-excerpt: If a person suffers hair loss and becomes bald, will it be permissible to use medication to generate hair growth?
+summary: If a person suffers hair loss and becomes bald, will it be permissible to use medication to generate hair growth?
 ---
 
 ### Question:

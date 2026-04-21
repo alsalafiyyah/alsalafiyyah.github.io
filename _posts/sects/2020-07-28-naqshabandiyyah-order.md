@@ -9,7 +9,7 @@ lang: en
 locale: en
 note: true
 uid: naqshabandiyyah-order
-excerpt: "You should devote your attention to the Qur'an, reciting it regularly and contemplating its meanings, as the Qur'an is the root of all that is good. You should then attend to the Sunnah of the Prophet (peace be upon him)."
+summary: "You should devote your attention to the Qur'an, reciting it regularly and contemplating its meanings, as the Qur'an is the root of all that is good. You should then attend to the Sunnah of the Prophet (peace be upon him)."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

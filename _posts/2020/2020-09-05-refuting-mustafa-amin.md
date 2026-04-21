@@ -9,7 +9,7 @@ locale: en
 date: 2020-09-05
 note: false
 category: [refutals,festivals]
-excerpt: "Glorifying monuments is not by building memorials, inscriptions, and following in the footsteps of non-Muslims. The true celebration of these monuments is to follow in the footsteps of the people who did these brilliant exploits, to imitate their good morality, and their struggle in the Cause of Allah patiently and sincerely with words and actions."
+summary: "Glorifying monuments is not by building memorials, inscriptions, and following in the footsteps of non-Muslims. The true celebration of these monuments is to follow in the footsteps of the people who did these brilliant exploits, to imitate their good morality, and their struggle in the Cause of Allah patiently and sincerely with words and actions."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

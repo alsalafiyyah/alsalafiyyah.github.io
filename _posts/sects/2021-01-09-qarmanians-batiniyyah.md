@@ -8,7 +8,7 @@ hijri: "Jumada Al-Awwal 25, 1442"
 locale: en
 lang: en
 note: true
-excerpt: "Both the Qarmatians and Al-Batiniyyah do not belong to Islam. Rather, they are Kafirs (disbelievers) and heretics."
+summary: "Both the Qarmatians and Al-Batiniyyah do not belong to Islam. Rather, they are Kafirs (disbelievers) and heretics."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

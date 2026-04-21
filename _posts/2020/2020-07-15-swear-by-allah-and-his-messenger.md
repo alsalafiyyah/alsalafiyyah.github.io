@@ -6,7 +6,7 @@ source: "Fatawa Al-Lajnah Al-Da'mah, Fatwa no.5611, Question 11"
 category: [fatwas, oaths]
 hijri: Dhul-Qa'dah 25, 1441
 note: true
-excerpt: It is impermissible to do so, for the Messenger of Allah said, Whoever makes an oath should swear by Allah or else remain silent.
+summary: It is impermissible to do so, for the Messenger of Allah said, Whoever makes an oath should swear by Allah or else remain silent.
 muftis:
   chairman:
     - name: Shaykh Ibn Baz

@@ -9,7 +9,7 @@ lang: en
 locale: en
 note: true
 uid: burhamiyyah-tariqah
-excerpt: "It is impermissible to worship Allah through what is cited in this book - i.e. Awrad Al-Burhamiyyah Tariqah (Invocations of Al-Burhamiyyah Order)."
+summary: "It is impermissible to worship Allah through what is cited in this book - i.e. Awrad Al-Burhamiyyah Tariqah (Invocations of Al-Burhamiyyah Order)."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

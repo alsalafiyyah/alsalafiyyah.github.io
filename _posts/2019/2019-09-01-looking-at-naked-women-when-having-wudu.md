@@ -6,7 +6,7 @@ date: 2019-09-01
 hijri: Muharram 02, 1441 AH
 source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 6541"
 category: [taharah, ablution]
-excerpt: "Does looking at naked men and women or at one's own `Awrah (parts of the body that must be covered in public) invalidate Wudu’ (ablution)?"
+summary: "Does looking at naked men and women or at one's own `Awrah (parts of the body that must be covered in public) invalidate Wudu’ (ablution)?"
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

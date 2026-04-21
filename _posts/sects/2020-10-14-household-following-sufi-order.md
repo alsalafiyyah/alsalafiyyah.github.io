@@ -10,7 +10,7 @@ category: [sects]
 note: true
 uid: household-following-sufi-order
 locale: en
-excerpt: "I am a monotheist but my household follow Al-Mirghaniyyah Tariqah (Sufi order) which is known here in Sudan as Al-Khatmiyyah. Since I was guided to monotheism, I started calling my family to follow it but they refuse, as I am the youngest son."
+summary: "I am a monotheist but my household follow Al-Mirghaniyyah Tariqah (Sufi order) which is known here in Sudan as Al-Khatmiyyah. Since I was guided to monotheism, I started calling my family to follow it but they refuse, as I am the youngest son."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

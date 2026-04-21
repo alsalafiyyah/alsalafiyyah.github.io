@@ -10,7 +10,7 @@ group6: true
 note: true
 locale: en
 lang: en
-excerpt: "Observing Taqwa entails obeying all that Allah has ordered and abstaining from all that He has forbidden. Thus, a Muslim should abide by the actions and sayings which Muslims are ordered to follow and abstain from prohibited deeds and sayings."
+summary: "Observing Taqwa entails obeying all that Allah has ordered and abstaining from all that He has forbidden. Thus, a Muslim should abide by the actions and sayings which Muslims are ordered to follow and abstain from prohibited deeds and sayings."
 ---
 
 ### Question: 

@@ -8,7 +8,7 @@ hijri: Muharram 15, 1442 AH
 lang: en
 locale: en
 note: true
-excerpt: "There are Hadiths that are Sahih and Mutawatir about the appearance of Al-Masih-ul-Dajjal. His appearance is one of the Signs of the Hour."
+summary: "There are Hadiths that are Sahih and Mutawatir about the appearance of Al-Masih-ul-Dajjal. His appearance is one of the Signs of the Hour."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

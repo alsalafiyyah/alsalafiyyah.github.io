@@ -10,7 +10,7 @@ note: true
 group8: true
 locale: en
 lang: en
-excerpt: Celebrating the Mawlid is an act of bid‘ah (deviant innovation). The Prophet ﷺ neither celebrated it nor ordered that it be celebrated.
+summary: Celebrating the Mawlid is an act of bid‘ah (deviant innovation). The Prophet ﷺ neither celebrated it nor ordered that it be celebrated.
 article_taken_from: 
   taken_from:
     - web_title: الاجتماع لمولد الرسول عليه الصلاة والسلام

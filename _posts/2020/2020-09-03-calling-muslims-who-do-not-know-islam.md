@@ -10,7 +10,7 @@ group2: true
 locale: en
 lang: en
 note: true
-excerpt: "They should be called to Islam with wisdom and fair preaching and be argued with in a way that is best. You must adopt all possible means and use the language they understand."
+summary: "They should be called to Islam with wisdom and fair preaching and be argued with in a way that is best. You must adopt all possible means and use the language they understand."
 ---
 
 ### Question:

@@ -9,7 +9,7 @@ category: [fatwas, quran, funerals, bidah]
 note: true
 locale: en
 lang: en
-excerpt: Reciting the Qur'an for the souls of the dead or reciting it in the graves or hiring someone to recite it is an act of bid`ah and is not permissible.
+summary: Reciting the Qur'an for the souls of the dead or reciting it in the graves or hiring someone to recite it is an act of bid`ah and is not permissible.
 group6: true
 ---
 

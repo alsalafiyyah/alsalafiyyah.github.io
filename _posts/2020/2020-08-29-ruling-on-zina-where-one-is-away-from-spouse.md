@@ -9,7 +9,7 @@ lang: en
 locale: en
 note: true
 category: [zina, marriage]
-excerpt: "A Muslim is prohibited to commit Zina, even if he is away from his wife for one or two years or more. He has to travel to his wife to satisfy his desire through lawful means and to achieve chastity."
+summary: "A Muslim is prohibited to commit Zina, even if he is away from his wife for one or two years or more. He has to travel to his wife to satisfy his desire through lawful means and to achieve chastity."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

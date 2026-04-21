@@ -7,7 +7,7 @@ hijri: Muharram 14, 1442 AH
 category: [fatwas,hijrah]
 lang: en
 locale: en
-excerpt: "It is impermissible to reside in a country where the Muslims are prevented from performing the Islamic rituals. If possible, the person should migrate to another country where Muslims are a majority and where they can perform the Islamic rituals overtly and find the means to cooperate with Muslims in righteousness and piety."
+summary: "It is impermissible to reside in a country where the Muslims are prevented from performing the Islamic rituals. If possible, the person should migrate to another country where Muslims are a majority and where they can perform the Islamic rituals overtly and find the means to cooperate with Muslims in righteousness and piety."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

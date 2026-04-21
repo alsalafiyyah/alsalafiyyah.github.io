@@ -8,7 +8,7 @@ hijri: Muharram 15, 1442 AH
 lang: en
 locale: en
 note: true
-excerpt: "The most authentic books in this regard that come after the Qur'an are Sahih Al-Bukhari, Sahih Muslim, Sunan Abu Dawud, Sunan Al-Nasa'i, Jami' Al-Tirmidhy, and Sunan Ibn Majah. The most comprehensive books in this regard are Al-Nihayah that was written by Ibn Kathir and Ithaf Al-Jama'ah fi Akhbar Al-Fitan wa Al-Malahim wa Ashrat Al-Sa'ah that was written by Shaykh Hammud ibn 'Abdullah Al-Tuwayjiry."
+summary: "The most authentic books in this regard that come after the Qur'an are Sahih Al-Bukhari, Sahih Muslim, Sunan Abu Dawud, Sunan Al-Nasa'i, Jami' Al-Tirmidhy, and Sunan Ibn Majah. The most comprehensive books in this regard are Al-Nihayah that was written by Ibn Kathir and Ithaf Al-Jama'ah fi Akhbar Al-Fitan wa Al-Malahim wa Ashrat Al-Sa'ah that was written by Shaykh Hammud ibn 'Abdullah Al-Tuwayjiry."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

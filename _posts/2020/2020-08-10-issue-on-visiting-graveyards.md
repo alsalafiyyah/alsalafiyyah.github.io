@@ -9,7 +9,7 @@ locale: en
 lang: en
 active: wahhabi
 category: [fatwas,sects,festivals,funerals]
-excerpt: "Common people from among the Sufis attend the celebration of the Prophet's birth, believing that these celebrations constitute (true) Islam."
+summary: "Common people from among the Sufis attend the celebration of the Prophet's birth, believing that these celebrations constitute (true) Islam."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -10,7 +10,7 @@ lang: en
 locale: en
 category: [fatwas]
 note: false
-excerpt: "Card playing has an evil effect on society. It deters people from praying in the mosque; it causes enmity and ill will."
+summary: "Card playing has an evil effect on society. It deters people from praying in the mosque; it causes enmity and ill will."
 muftis:
   shaykh: 
     - name: Permanent Committee

@@ -8,7 +8,7 @@ locale: en
 note: true
 source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 17056"
 category: [fatwas,tawassul,tabarruk]
-excerpt: "Tabarruk, this is not permissible after his death, as these things ended with his death and can no longer be obtained."
+summary: "Tabarruk, this is not permissible after his death, as these things ended with his death and can no longer be obtained."
 group2: true
 ---
 

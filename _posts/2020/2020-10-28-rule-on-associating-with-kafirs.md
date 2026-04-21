@@ -9,7 +9,7 @@ lang: en
 category: [fatwas, walabara]
 note: false
 locale: en
-excerpt: "Loving the Kafirs, helping them in falsehood and considering them friends are major sins and means leading to disbelief in Allah. If a person helps them against the Muslims, this is association which is considered one of the forms of apostasy."
+summary: "Loving the Kafirs, helping them in falsehood and considering them friends are major sins and means leading to disbelief in Allah. If a person helps them against the Muslims, this is association which is considered one of the forms of apostasy."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

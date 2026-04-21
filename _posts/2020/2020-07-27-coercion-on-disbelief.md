@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 note: true
 locale: en
-excerpt: "If coercion is actually existent, then the apparent declaration of disbelief is tolerated on condition that a person's heart is assured of faith"
+summary: "If coercion is actually existent, then the apparent declaration of disbelief is tolerated on condition that a person's heart is assured of faith"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 13, 1441
 locale: en
 lang: en
 note: false
-excerpt: "The Magi of the Muslim Ummah are Al-Qadariyyah who denied Predestination and went astray in this regard, saying that matters are not known to Allah before their occurrence."
+summary: "The Magi of the Muslim Ummah are Al-Qadariyyah who denied Predestination and went astray in this regard, saying that matters are not known to Allah before their occurrence."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz Ibn Baz

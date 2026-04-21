@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 7, 1441
 locale: en
 lang: en
 note: true
-excerpt: "As to the claim that in today's Muslim world Iran is the only state that abides by Allah's rules and that there is no true Muslim leader but Ayatollah Khomeini, it is sheer falsehood and a lie."
+summary: "As to the claim that in today's Muslim world Iran is the only state that abides by Allah's rules and that there is no true Muslim leader but Ayatollah Khomeini, it is sheer falsehood and a lie."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

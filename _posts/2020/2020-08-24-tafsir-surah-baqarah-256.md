@@ -10,7 +10,7 @@ locale: en
 category: [quran]
 note: false
 uid: tafsir-surah-baqarah-256
-excerpt: "Allah (Exalted be He) says, 'There is no compulsion in religion.' [al-Baqarah: 256] Is this Ayah confined in application to the Jews and Christians or is it general in meaning?"
+summary: "Allah (Exalted be He) says, 'There is no compulsion in religion.' [al-Baqarah: 256] Is this Ayah confined in application to the Jews and Christians or is it general in meaning?"
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

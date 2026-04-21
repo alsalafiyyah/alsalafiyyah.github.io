@@ -9,7 +9,7 @@ lang: en
 note: false
 locale: en
 uid: simaniyyah-tariqah
-excerpt: "Here in Sudan, we have a shaykh who has many followers who compete in serving and obeying him. They travel to visit him, thinking he is one of the Awliya' (pious people)."
+summary: "Here in Sudan, we have a shaykh who has many followers who compete in serving and obeying him. They travel to visit him, thinking he is one of the Awliya' (pious people)."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -4,7 +4,7 @@ title: "Ruling on treatment with narcotics"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 4243, Question 5"
 hijri: Muharram 15, 1442
-excerpt: Treatment is not allowed by means of unlawful matters, for the legal evidence that proves its prohibition.
+summary: Treatment is not allowed by means of unlawful matters, for the legal evidence that proves its prohibition.
 date: 2020/09/3
 category: [treatments,fatwas]
 lang: en

@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "The ideal way for Muslims when dealing with a Dhimmy is to honor the agreement made with them according to the Qur'anic verses and Hadith that command the fulfillment of agreements and dealing kindly and justly with them."
+summary: "The ideal way for Muslims when dealing with a Dhimmy is to honor the agreement made with them according to the Qur'anic verses and Hadith that command the fulfillment of agreements and dealing kindly and justly with them."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

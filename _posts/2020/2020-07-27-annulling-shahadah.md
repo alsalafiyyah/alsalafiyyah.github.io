@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441 AH
 date: 2020/07/27
 group6: true
 note: true
-excerpt: "What is the separating line between Kufr (disbelief) and Islam?"
+summary: "What is the separating line between Kufr (disbelief) and Islam?"
 ---
 
 Question: 

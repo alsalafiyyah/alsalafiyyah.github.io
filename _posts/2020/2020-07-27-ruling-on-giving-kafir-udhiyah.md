@@ -9,7 +9,7 @@ lang: en
 locale: en
 note: true
 uid: ruling-on-giving-kafir-udhiyah
-excerpt: "It is permissible to give a non-Muslim from the meat of an Udhiyah or ‘Aqiqah, as a way of showing kindness to neighbors and discharging neighborhood duties."
+summary: "It is permissible to give a non-Muslim from the meat of an Udhiyah or ‘Aqiqah, as a way of showing kindness to neighbors and discharging neighborhood duties."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

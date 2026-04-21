@@ -6,7 +6,7 @@ source: "Majmu' Fatawa wa Maqalat 2/5"
 hijri: Dhul-Hijjah 12, 1441
 date: 2020-08-02
 category: [muqolat]
-excerpt: "This indicates that the Mushriks understood that the meaning of 'La ilaha illa Allah' superseded their deities and necessitated dedicating their acts of worship to Allah Alone."
+summary: "This indicates that the Mushriks understood that the meaning of 'La ilaha illa Allah' superseded their deities and necessitated dedicating their acts of worship to Allah Alone."
 active: muqolat
 locale: en
 lang: en

@@ -10,7 +10,7 @@ locale: en
 category: [quran]
 note: false
 uid: tafsir-surah-maryam-71
-excerpt: "This phrase means passing over (the Sirat) as it was proved by authentic Hadith reported from the Prophet (peace be upon him). Allah will save those who fear Allah and leave the Mushriks (those who associate others with Allah in His Divinity or worship) and wrongdoers therein humbled on their knees."
+summary: "This phrase means passing over (the Sirat) as it was proved by authentic Hadith reported from the Prophet (peace be upon him). Allah will save those who fear Allah and leave the Mushriks (those who associate others with Allah in His Divinity or worship) and wrongdoers therein humbled on their knees."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 locale: en
 lang: en
 note: true
-excerpt: "It is not permissible to allocate either Saturdays or Sundays or both of them as weekends, since this implies imitating the Jews and Christians."
+summary: "It is not permissible to allocate either Saturdays or Sundays or both of them as weekends, since this implies imitating the Jews and Christians."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

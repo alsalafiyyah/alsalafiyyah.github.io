@@ -6,7 +6,7 @@ date: 2019-09-01
 hijri: "Muharram 02, 1441 AH"
 source: "Fatawa Al-lajnah Ad-Da'imah of KSA no. 6895, question 3"
 category: [taharah, ablution, salah]
-excerpt: "If you entertain doubts of Hadath (ritual impurity invalidating ablution) after having performed Taharah (ritual purification), cast doubts away and act based upon your state of Taharah, because certainty is not overruled by doubt."
+summary: "If you entertain doubts of Hadath (ritual impurity invalidating ablution) after having performed Taharah (ritual purification), cast doubts away and act based upon your state of Taharah, because certainty is not overruled by doubt."
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

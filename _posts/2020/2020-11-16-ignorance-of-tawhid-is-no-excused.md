@@ -8,7 +8,7 @@ lang: en
 link: "https://binbaz.org.sa/fatwas/2351/%D8%A7%D9%85%D9%88%D8%B1-%D8%A7%D9%84%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D9%84%D8%A7-%D8%B9%D8%B0%D8%B1-%D9%81%D9%8A%D9%87%D8%A7"
 category: [riddah]
 note: false
-excerpt: "No person can be excused for their ignorance regarding issues of Tawhid so long as they live amongst Muslims. On the other hand, whoever lives amongst Muslims and hears the Word of Allah and His Messenger without adhering to them but instead worships the graves and seeks their help or insults Din, such people are Kafirs (disbelievers)."
+summary: "No person can be excused for their ignorance regarding issues of Tawhid so long as they live amongst Muslims. On the other hand, whoever lives amongst Muslims and hears the Word of Allah and His Messenger without adhering to them but instead worships the graves and seeks their help or insults Din, such people are Kafirs (disbelievers)."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

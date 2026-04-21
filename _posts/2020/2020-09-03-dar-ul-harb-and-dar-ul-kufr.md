@@ -8,7 +8,7 @@ lang: en
 locale: en
 note: true
 category: [fatwas,hijrah]
-excerpt: "The countries whose rulers and those in power uphold the limits set by Allah in their judgments and rule their subjects accordingly where people can act in accordance with the Shari'ah are considered Muslim lands."
+summary: "The countries whose rulers and those in power uphold the limits set by Allah in their judgments and rule their subjects accordingly where people can act in accordance with the Shari'ah are considered Muslim lands."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

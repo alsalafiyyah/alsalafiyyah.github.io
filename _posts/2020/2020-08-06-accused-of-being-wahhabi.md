@@ -12,7 +12,7 @@ note: false
 lang: en
 locale: en
 active: wahhabi
-excerpt: "There is a group of people, if we perform Da'wah to them, call them to Allah advise them to abandon shirk, they will accuse us of being a Wahhabi. How do we deal with them?"
+summary: "There is a group of people, if we perform Da'wah to them, call them to Allah advise them to abandon shirk, they will accuse us of being a Wahhabi. How do we deal with them?"
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

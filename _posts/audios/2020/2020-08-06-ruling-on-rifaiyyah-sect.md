@@ -13,7 +13,7 @@ locale: en
 type: audios
 active: audios
 category: [audios, sects]
-excerpt: These Sufi orders are all null and void. All these orders are mere cults and lies. In fact, such people neither stab nor cut themselves.
+summary: These Sufi orders are all null and void. All these orders are mere cults and lies. In fact, such people neither stab nor cut themselves.
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

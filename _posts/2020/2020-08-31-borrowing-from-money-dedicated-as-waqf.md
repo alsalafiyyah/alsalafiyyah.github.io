@@ -9,7 +9,7 @@ locale: en
 lang: en
 category: [fatwas, waqf]
 note: true
-excerpt: "If the reality is as you mentioned, meaning, that you returned the money you took for a good purpose and more, you are not sinful. However, it would have been more precautionary if you had borrowed from elsewhere."
+summary: "If the reality is as you mentioned, meaning, that you returned the money you took for a good purpose and more, you are not sinful. However, it would have been more precautionary if you had borrowed from elsewhere."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

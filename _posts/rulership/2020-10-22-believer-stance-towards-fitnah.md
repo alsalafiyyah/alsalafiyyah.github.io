@@ -8,7 +8,7 @@ source: "Majmu' Fatawa Wa Maqalat of Ibn Baz 6/103"
 lang: en
 category: [rulership,hisbah,jihad]
 note: false
-excerpt: "Trial also takes place by means of doubts and lust. Many people were exposed to trial because of groundless doubts, like the Al-Jahmiyyah, Al-Mu'tazilah, Shi'ah, Al-Murji'ah, and other deviant sects who were misguided by doubts and deviated from the way of Ahl-ul-Sunnah wal-Jama'ah."
+summary: "Trial also takes place by means of doubts and lust. Many people were exposed to trial because of groundless doubts, like the Al-Jahmiyyah, Al-Mu'tazilah, Shi'ah, Al-Murji'ah, and other deviant sects who were misguided by doubts and deviated from the way of Ahl-ul-Sunnah wal-Jama'ah."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

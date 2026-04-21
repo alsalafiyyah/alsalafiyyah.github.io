@@ -10,7 +10,7 @@ note: true
 locale: en
 lang: en
 category: [prophets]
-excerpt: The claim that Ishmael (peace be upon him) was buried in Al-Hatim is not true and an unreliable statement.
+summary: The claim that Ishmael (peace be upon him) was buried in Al-Hatim is not true and an unreliable statement.
 ---
 
 ### Question:

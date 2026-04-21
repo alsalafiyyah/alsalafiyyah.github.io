@@ -10,7 +10,7 @@ group6: true
 note: true
 locale: en
 lang: en
-excerpt: Whoever responds to him, embraces Allah's Religion, obeys Allah's Commands, and avoids His Prohibitions will enter Paradise. Whoever rejects faith, disobeys the Messenger, and refuses to embrace Allah's Religion will enter Hellfire. 
+summary: Whoever responds to him, embraces Allah's Religion, obeys Allah's Commands, and avoids His Prohibitions will enter Paradise. Whoever rejects faith, disobeys the Messenger, and refuses to embrace Allah's Religion will enter Hellfire. 
 ---
 
 ### Question: 

@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "It is not permissible for a Muslim to employ a Kafir or non-Muslim as a servant, driver, or anything else in the Arabian Peninsula."
+summary: "It is not permissible for a Muslim to employ a Kafir or non-Muslim as a servant, driver, or anything else in the Arabian Peninsula."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

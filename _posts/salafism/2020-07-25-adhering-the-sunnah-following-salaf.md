@@ -10,7 +10,7 @@ note: true
 group7: true
 locale: en
 lang: en
-excerpt: The Muslim youth have to seek beneficial knowledge from trustworthy scholars & adhere to the Sunnah as well as belonging to the mainstream Muslims who are following the way of the Salaf and averting all suspicious and vague trends.
+summary: The Muslim youth have to seek beneficial knowledge from trustworthy scholars & adhere to the Sunnah as well as belonging to the mainstream Muslims who are following the way of the Salaf and averting all suspicious and vague trends.
 ---
 
 ### Question: 

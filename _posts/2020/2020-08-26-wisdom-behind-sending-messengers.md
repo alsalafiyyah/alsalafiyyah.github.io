@@ -10,7 +10,7 @@ note: true
 locale: en
 lang: en
 category: [prophets,fatwas]
-excerpt: What is the wisdom behind sending the prophets and messengers over sporadic periods of time? Why were they not sent in the same time period?
+summary: What is the wisdom behind sending the prophets and messengers over sporadic periods of time? Why were they not sent in the same time period?
 ---
 
 ### Question:

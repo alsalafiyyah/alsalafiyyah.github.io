@@ -9,7 +9,7 @@ date: 2020/08/8
 note: true
 locale: en
 lang: en
-excerpt: What is your opinion of a man who does not order his female household to cover themselves in front of non-Mahrams.
+summary: What is your opinion of a man who does not order his female household to cover themselves in front of non-Mahrams.
 muftis:
   chairman: 
     - name: Shaykh Ibn baz

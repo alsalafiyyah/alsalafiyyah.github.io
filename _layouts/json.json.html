@@ -20,7 +20,7 @@ robots: noindex
     "categories": "{{ post.categories | jsonify }}",
     "category": "{{ post.category | jsonify }}",
     "tags": "{{ post.tag | jsonify }}",
-    "excerpt": {{ post.excerpt | strip_html | strip_newlines | jsonify }}
+    "summary": {{ post.summary | strip_html | strip_newlines | jsonify }}
   }{% if forloop.last == false %},{% endif %}
 {% endfor %}
 ]

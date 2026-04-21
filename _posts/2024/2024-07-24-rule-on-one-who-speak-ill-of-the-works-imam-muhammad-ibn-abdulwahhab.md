@@ -10,7 +10,7 @@ locale: en
 lang: en
 active: wahhabi
 translated_by: "Abu 'Abdillah al-Kashmiri"
-excerpt: "This individual is upon either of two conditions: either he is an ignorant one who has not studied them and does not know about them, thus it is an obligation upon him to before he makes a judgement upon something that he studies it first and has knowledge of it."
+summary: "This individual is upon either of two conditions: either he is an ignorant one who has not studied them and does not know about them, thus it is an obligation upon him to before he makes a judgement upon something that he studies it first and has knowledge of it."
 muftis:
   shaykh: 
     - name: Shaykh Salih Al-Fawzan

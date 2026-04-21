@@ -10,7 +10,7 @@ lang: en
 locale: en
 category: [fatwas,dawah]
 note: true
-excerpt: "It is your duty to work for Islam through calling the people to the Book of Allah and the Sunnah of the Prophet according to the methodology with which Allah guided and commanded the Prophet."
+summary: "It is your duty to work for Islam through calling the people to the Book of Allah and the Sunnah of the Prophet according to the methodology with which Allah guided and commanded the Prophet."
 group1: true
 article_taken_from: 
   taken_from:

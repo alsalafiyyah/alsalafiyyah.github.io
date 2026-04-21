@@ -8,7 +8,7 @@ hijri: Muharram 15, 1442 AH
 lang: en
 locale: en
 note: true
-excerpt: "Al-Masih-ul-Dajjal will appear to those living only. Dead people will not be resurrected except on the Day of Judgment."
+summary: "Al-Masih-ul-Dajjal will appear to those living only. Dead people will not be resurrected except on the Day of Judgment."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

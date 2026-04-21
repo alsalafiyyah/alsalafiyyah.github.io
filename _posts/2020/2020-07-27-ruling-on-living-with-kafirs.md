@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "Shari'ah is based on providing ease, tolerance and avoiding hardship. Thus, you may continue living with them as you cannot live alone."
+summary: "Shari'ah is based on providing ease, tolerance and avoiding hardship. Thus, you may continue living with them as you cannot live alone."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

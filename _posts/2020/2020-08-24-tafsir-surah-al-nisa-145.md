@@ -10,7 +10,7 @@ uid: tafsir-surah-al-nisa-145
 note: false
 locale: en
 category: [quran]
-excerpt: "The hypocrites are those who make a false pretense of Islam, whereas they are hiding otherwise. They claim to be Muslims, although deep down they disbelieve in Allah and belie the Messenger (peace be upon him)."
+summary: "The hypocrites are those who make a false pretense of Islam, whereas they are hiding otherwise. They claim to be Muslims, although deep down they disbelieve in Allah and belie the Messenger (peace be upon him)."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

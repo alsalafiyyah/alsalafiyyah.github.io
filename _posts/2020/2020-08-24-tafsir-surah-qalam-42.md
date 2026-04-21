@@ -10,7 +10,7 @@ note: false
 locale: en
 category: [quran]
 uid: tafsir-surah-qalam-42
-excerpt: "The Messenger of Allah (peace be upon him) explained this Ayah (Qur'anic verse) saying that Allah (Glorified be He) will come on the Day of Resurrection and reveal His Shin to His believing Slaves."
+summary: "The Messenger of Allah (peace be upon him) explained this Ayah (Qur'anic verse) saying that Allah (Glorified be He) will come on the Day of Resurrection and reveal His Shin to His believing Slaves."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -6,7 +6,7 @@ source: Majmu' Fatawa wa Maqalat 9/321
 hijri: Muharram 6, 1442
 date: 2020-08-25
 category: [funerals, bidah, fatwas]
-excerpt: Reciting the Quran over or for the sake of the dead is bidah and taking rewards for that is impermissible, for there is no legal foundation in this regard.
+summary: Reciting the Quran over or for the sake of the dead is bidah and taking rewards for that is impermissible, for there is no legal foundation in this regard.
 shaykhs: Shaykh Ibn Baz
 ---
 

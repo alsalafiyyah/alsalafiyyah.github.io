@@ -8,7 +8,7 @@ lang: en
 locale: en
 category: [fatwas,taswir]
 note: false
-excerpt: "It is obligatory to remove these pictures. You should not keep them either in the bathroom or anywhere else at home, for the Prophet -peace be upon him- said to Ali: Spare no portrait unwiped out, and leave not a high grave unleveled."
+summary: "It is obligatory to remove these pictures. You should not keep them either in the bathroom or anywhere else at home, for the Prophet -peace be upon him- said to Ali: Spare no portrait unwiped out, and leave not a high grave unleveled."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

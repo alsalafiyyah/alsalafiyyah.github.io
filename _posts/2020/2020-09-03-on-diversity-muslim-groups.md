@@ -10,7 +10,7 @@ locale: en
 lang: en
 group7: true
 note: true
-excerpt: "You have to follow the path of Ahlus-Sunnah wal-Jama'ah to which the Prophet guided us when sects first started to appear."
+summary: "You have to follow the path of Ahlus-Sunnah wal-Jama'ah to which the Prophet guided us when sects first started to appear."
 ---
 
 ### Question: 

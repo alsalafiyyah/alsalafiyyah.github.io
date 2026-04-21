@@ -6,7 +6,7 @@ source: "Fatawa Al-Lajnah Ad-Da'imah no. 20355-1"
 hijri: Muharram 11, 1442 AH
 lang: en
 category: ["tafsir", hadiths, mawdu-daif]
-excerpt: "Research and verification show that the phrase that you have mentioned in the question reading: 'May Allah be merciful to the one who knows his own limits' has no origin in any of the variant narrations."
+summary: "Research and verification show that the phrase that you have mentioned in the question reading: 'May Allah be merciful to the one who knows his own limits' has no origin in any of the variant narrations."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

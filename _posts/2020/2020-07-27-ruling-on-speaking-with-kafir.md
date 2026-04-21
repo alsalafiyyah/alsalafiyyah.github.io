@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "It is permissible, if there is no fear of temptation, and only as much as is necessary."
+summary: "It is permissible, if there is no fear of temptation, and only as much as is necessary."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -9,7 +9,7 @@ locale: en
 lang: en
 note: true
 group1: true
-excerpt: It refers to those following the way of the Salaf of the early Muslim generation in their adherence to the Qur‘an and the Sunnah.
+summary: It refers to those following the way of the Salaf of the early Muslim generation in their adherence to the Qur‘an and the Sunnah.
 category: [fatwas,manhaj]
 article_taken_from: 
   taken_from:

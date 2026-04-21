@@ -12,7 +12,7 @@ locale: en
 active: audios
 lang: en
 note: false
-excerpt: "The only path that must be adopted is that of the Prophet (peace be upon him). It is the way of Ahl-us-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream). It is the way of the Sahabah (Companions of the Prophet)"
+summary: "The only path that must be adopted is that of the Prophet (peace be upon him). It is the way of Ahl-us-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream). It is the way of the Sahabah (Companions of the Prophet)"
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

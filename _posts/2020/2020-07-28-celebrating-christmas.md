@@ -9,7 +9,7 @@ date: 2020-07-28
 lang: en
 locale: en
 note: true
-excerpt: "It is not permissible for Muslims who believe in Allah and the Last Day to express their interest in celebrating the millennium and other occasions related to the Christians or other non-Muslims"
+summary: "It is not permissible for Muslims who believe in Allah and the Last Day to express their interest in celebrating the millennium and other occasions related to the Christians or other non-Muslims"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Aal Al-Shaykh

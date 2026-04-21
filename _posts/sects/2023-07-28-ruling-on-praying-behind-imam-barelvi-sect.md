@@ -9,7 +9,7 @@ locale: en
 lang: en
 note: false
 category: [fatwas,salah,sects]
-excerpt: "What is the ruling on praying behind an imam from the bareilawi sect, who believes that the Prophet ﷺ is alive and present and can see us."
+summary: "What is the ruling on praying behind an imam from the bareilawi sect, who believes that the Prophet ﷺ is alive and present and can see us."
 muftis:
   shaykh: 
     - name: Shaykh Ibn 'Uthaymeen

@@ -10,7 +10,7 @@ locale: en
 active: audios
 category: [audios,palestine,hadiths]
 note: false
-excerpt: "The Jews assembling in Palestine is from the signs of the Hour. They will assemble during the last days in Palestine awaiting the antichrist."
+summary: "The Jews assembling in Palestine is from the signs of the Hour. They will assemble during the last days in Palestine awaiting the antichrist."
 mp3: "https://phaven-prod.s3.amazonaws.com/files/audio_part/asset/3079625/jdiTTiQGyg64LklAeVfYJ5jASPQ/The_Jews_assembling_in_Palestine_is_a_sign_of_the_Day_of_Judgment.mp3"
 translated_by: Rasheed ibn Estes Barbee
 muftis:

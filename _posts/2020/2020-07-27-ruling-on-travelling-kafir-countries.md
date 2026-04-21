@@ -9,7 +9,7 @@ date: 2020-07-27
 lang: en
 locale: en
 note: true
-excerpt: "If the person who wants to travel to the land of the disbelievers needs to travel, for example, to maintain ties of kinship which is obligatory, can avoid temptation and guard his Islamic obligations, it is permissible for him to travel. However, he must not stay there for long."
+summary: "If the person who wants to travel to the land of the disbelievers needs to travel, for example, to maintain ties of kinship which is obligatory, can avoid temptation and guard his Islamic obligations, it is permissible for him to travel. However, he must not stay there for long."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Aal Al-Shaykh

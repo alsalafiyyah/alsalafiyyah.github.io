@@ -8,7 +8,7 @@ lang: en
 locale: en
 note: false
 category: [fatwas,doomsday]
-excerpt: "Al-Dajjal claims and makes things through which he confuses people. He is called Al-Dajjal due to his telling many lies and the extraordinary things he does, such as ordering the heaven to rain and the earth to grow plants and his killing of some people who will be brought to life again."
+summary: "Al-Dajjal claims and makes things through which he confuses people. He is called Al-Dajjal due to his telling many lies and the extraordinary things he does, such as ordering the heaven to rain and the earth to grow plants and his killing of some people who will be brought to life again."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -6,7 +6,7 @@ source: "Fatawa al-Lajnah ad-Daimah no. 5576"
 category: [fatwas]
 hijri: Dhul-Hijjah 24, 1441
 date: 2020/08/14
-excerpt: It is not permissible to make scale models for Al-Haramayn Al-Sharifayn as they may contain pictures of the people in Al-Masjid Al-Haram while making Tawaf.
+summary: It is not permissible to make scale models for Al-Haramayn Al-Sharifayn as they may contain pictures of the people in Al-Masjid Al-Haram while making Tawaf.
 shaykhs: 
  - Shaykh Abdul-Aziz ibn Baz
  - Shaykh Abdul-Razzaq al-Afify

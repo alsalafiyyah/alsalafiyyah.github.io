@@ -6,7 +6,7 @@ source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 18521"
 hijri: Muharram 12, 1442 AH
 lang: en
 category: [transaction]
-excerpt: "We would like your Eminence to advise us regarding using Saudi Payments Network (SPAN). For example, a person buys items from a store that cost 150 riyals, he presents the card to the seller who passes it through a machine and the required money is immediately deducted from the customer's account and is added to the seller's account before the customer leaves the store."
+summary: "We would like your Eminence to advise us regarding using Saudi Payments Network (SPAN). For example, a person buys items from a store that cost 150 riyals, he presents the card to the seller who passes it through a machine and the required money is immediately deducted from the customer's account and is added to the seller's account before the customer leaves the store."
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz

@@ -7,7 +7,7 @@ source: "Fatawa Al-Lajnah Al-Da'imah no. 6397-5"
 lang: en
 note: true
 category: [ahl-fatrah, hadiths, tafsir, non-muslim]
-excerpt: "Is it reported in any Hadith that the Messenger of Allah (peace be upon him) saw 'Amr ibn Luhay turning from side to side in Hellfire, because he was the one who brought the worship of statues into the Ka'bah or into the Arabian Peninsula?"
+summary: "Is it reported in any Hadith that the Messenger of Allah (peace be upon him) saw 'Amr ibn Luhay turning from side to side in Hellfire, because he was the one who brought the worship of statues into the Ka'bah or into the Arabian Peninsula?"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

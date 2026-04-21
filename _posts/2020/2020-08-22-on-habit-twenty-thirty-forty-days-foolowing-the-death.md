@@ -6,7 +6,7 @@ source: "Fatawa Al-Lajnah Ad-Daimah no. 14247 Question2 "
 hijri: Muharram 3, 1442
 date: 2020/08/22
 category: [funerals,fatwas,bidah]
-excerpt: We have a custom that whenever any distress like an accident or death befalls a person or any of his family.
+summary: We have a custom that whenever any distress like an accident or death befalls a person or any of his family.
 shaykhs: 
  - Shaykh Ibn Baz
  - Shaykh Abdullah ibn Ghudayyan

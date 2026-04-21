@@ -6,7 +6,7 @@ date: 2019-09-01
 hijri: Muharram 02, 1441 AH
 source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 10552, question 1"
 category: [taharah, ablution]
-excerpt: "Ablution is not invalidated just by looking at women, with or without lust."
+summary: "Ablution is not invalidated just by looking at women, with or without lust."
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

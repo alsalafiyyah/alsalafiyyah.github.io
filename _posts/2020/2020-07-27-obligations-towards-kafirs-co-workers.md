@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 locale: en
 lang: en
 note: true
-excerpt: "You should invite them to Islam, enjoin Ma'ruf (that which is judged as good, beneficial, or fitting by Islamic law and Muslims of sound intellect) on them, and forbid them from Munkar (that which is unacceptable or disapproved of)."
+summary: "You should invite them to Islam, enjoin Ma'ruf (that which is judged as good, beneficial, or fitting by Islamic law and Muslims of sound intellect) on them, and forbid them from Munkar (that which is unacceptable or disapproved of)."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

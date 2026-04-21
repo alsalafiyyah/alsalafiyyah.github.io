@@ -7,7 +7,7 @@ source: "Fatawa Shaykh Ibn Baz p. 20/285"
 lang: en
 category: [marriage]
 note: false
-excerpt: "It is up to her. If a person proposes to marry her, she refuses and wants only one of the sons of her paternal uncles, she should be advised that it is not conditioned that you marry one of your cousins."
+summary: "It is up to her. If a person proposes to marry her, she refuses and wants only one of the sons of her paternal uncles, she should be advised that it is not conditioned that you marry one of your cousins."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

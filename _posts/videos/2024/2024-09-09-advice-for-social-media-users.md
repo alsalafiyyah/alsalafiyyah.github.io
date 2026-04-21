@@ -6,7 +6,7 @@ hijri: "Rabiul Awwal 06, 1446 AH"
 date: 2024-09-09
 category: [fatwas,videos]
 active: videos
-excerpt: "Knowledge is not obtained from websites or social media networks; it is obtained directly from scholars, and not obtained from social media networks, rumors, or websites"
+summary: "Knowledge is not obtained from websites or social media networks; it is obtained directly from scholars, and not obtained from social media networks, rumors, or websites"
 translated_by: "Abul Baraa Muhammad Amreeki"
 videoURL: "https://youtu.be/NV1hWQJmVQM"
 videoID: "NV1hWQJmVQM"

@@ -10,7 +10,7 @@ note: true
 group2: true
 locale: en
 lang: en
-excerpt: It is not permissible to bury a Mushaf in the grave with the dead. This act has no basis in the Qur'an and Sunnah.
+summary: It is not permissible to bury a Mushaf in the grave with the dead. This act has no basis in the Qur'an and Sunnah.
 article_taken_from: 
   taken_from:
     - web_title: دفن المصحف أو القرآن الكريم في قبر المتوفى

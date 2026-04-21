@@ -4,7 +4,7 @@ title: "Ruling on holding funeral ceremonies"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 5/345"
 hijri: Dhul-Hijjah 23, 1441
-excerpt: Your practice is not in accordance with the Sunnah and we do not know of any basis for it in Shari‘ah.
+summary: Your practice is not in accordance with the Sunnah and we do not know of any basis for it in Shari‘ah.
 date: 2020/08/13
 category: [funerals, fatwas, bidah]
 shaykhs: Shaykh Ibn Baz

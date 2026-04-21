@@ -9,7 +9,7 @@ category: [fatwas,salah]
 note: true
 locale: en
 lang: en
-excerpt: "It is not permissible to wear a watch that has a cross on it, be it in Salah or otherwise. This cross must be removed either by scraping it off or by covering it with some paint."
+summary: "It is not permissible to wear a watch that has a cross on it, be it in Salah or otherwise. This cross must be removed either by scraping it off or by covering it with some paint."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

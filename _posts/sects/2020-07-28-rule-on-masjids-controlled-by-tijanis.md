@@ -9,7 +9,7 @@ lang: en
 note: true
 locale: en
 uid: rule-on-masjids-controlled-by-tijanis
-excerpt: "Refuting the superstitions and Bid'ah of the Tijanys is an obligation on the knowledgeable people of Ahl Al-Sunnah wal-Jama'ah (those adhering to the Sunnah and the Muslim community)."
+summary: "Refuting the superstitions and Bid'ah of the Tijanys is an obligation on the knowledgeable people of Ahl Al-Sunnah wal-Jama'ah (those adhering to the Sunnah and the Muslim community)."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

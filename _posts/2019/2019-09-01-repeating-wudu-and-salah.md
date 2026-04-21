@@ -6,7 +6,7 @@ date: 2019-09-01
 hijri: Muharram 02, 1441 AH
 source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 4900 question 3"
 category: [taharah, ablution, salah]
-excerpt: "If the reality is as you mentioned, you should not stop your Salah because of this, based on what the Prophet (peace be upon him) said when some people complained to him about the case of a man who thought he felt something while in Salah."
+summary: "If the reality is as you mentioned, you should not stop your Salah because of this, based on what the Prophet (peace be upon him) said when some people complained to him about the case of a man who thought he felt something while in Salah."
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

@@ -7,7 +7,7 @@ source: "Fatawa Shaykh Ibn Baz p. 20/420"
 lang: en
 category: [marriage]
 note: false
-excerpt: "It is not permissible to delay the marriage of the younger daughter until the elder one gets married."
+summary: "It is not permissible to delay the marriage of the younger daughter until the elder one gets married."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

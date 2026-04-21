@@ -9,7 +9,7 @@ date: 2020-07-29
 note: true
 locale: en
 lang: en
-excerpt: "What is the ruling on a person who speaks words like, in the name of or by the blessing of the Prophet, the shaykh, or the Qur’an?"
+summary: "What is the ruling on a person who speaks words like, in the name of or by the blessing of the Prophet, the shaykh, or the Qur’an?"
 group1: true
 ---
 

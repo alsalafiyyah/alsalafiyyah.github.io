@@ -7,7 +7,7 @@ source: "Fatawa Shaykh Ibn Baz p. 20/406"
 lang: en
 category: [marriage]
 note: false
-excerpt: "Consequently, every Muslim, male or female, should obey the Prophet's (peace be upon him) instructions and hasten to marry to achieve the mentioned above benefits. Staying without marriage entails a grave danger."
+summary: "Consequently, every Muslim, male or female, should obey the Prophet's (peace be upon him) instructions and hasten to marry to achieve the mentioned above benefits. Staying without marriage entails a grave danger."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

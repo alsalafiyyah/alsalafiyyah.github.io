@@ -6,7 +6,7 @@ date: 2019-09-01
 hijri: "Muharram 02, 1441 AH"
 source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 6505-17"
 category: [taharah, ablution, salah]
-excerpt: "I performed Wudu' (ablution) for Salah (prayer), then I held a baby that stained my clothes with urine."
+summary: "I performed Wudu' (ablution) for Salah (prayer), then I held a baby that stained my clothes with urine."
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

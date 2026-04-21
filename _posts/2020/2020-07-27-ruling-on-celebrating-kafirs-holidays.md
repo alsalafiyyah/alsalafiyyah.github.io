@@ -9,7 +9,7 @@ locale: en
 lang: en
 note: true
 uid: ruling-on-celebrating-kafirs-holidays
-excerpt: "What is the ruling on Muslims who celebrate holidays of non-Muslims that Allah did not sanction, such as the Mother's Day, Sham Al-Nasim and Christmas?"
+summary: "What is the ruling on Muslims who celebrate holidays of non-Muslims that Allah did not sanction, such as the Mother's Day, Sham Al-Nasim and Christmas?"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

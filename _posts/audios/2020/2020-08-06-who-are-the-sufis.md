@@ -11,7 +11,7 @@ note: false
 locale: en
 active: audios
 category: [audios, sects]
-excerpt: "Sufis are groups of people who are known for their innovating methods of worship that are not ordained by Allah in their prayers, Dhikr (Remembrance of Allah) and devotional retreats."
+summary: "Sufis are groups of people who are known for their innovating methods of worship that are not ordained by Allah in their prayers, Dhikr (Remembrance of Allah) and devotional retreats."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

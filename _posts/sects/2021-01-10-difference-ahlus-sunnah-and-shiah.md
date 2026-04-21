@@ -8,7 +8,7 @@ hijri: "Jumada Al-Awwal 26, 1442"
 locale: en
 lang: en
 note: false
-excerpt: "Shiites have many sects. Some of them are Kafirs (disbelievers) who worship 'Ali and call upon him, and they worship Fatimah, Al-Husayn and others."
+summary: "Shiites have many sects. Some of them are Kafirs (disbelievers) who worship 'Ali and call upon him, and they worship Fatimah, Al-Husayn and others."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

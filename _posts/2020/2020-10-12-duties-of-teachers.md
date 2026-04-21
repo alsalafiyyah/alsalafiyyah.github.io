@@ -7,7 +7,7 @@ source: "Fatawa Al-shaykh Ibn Baz p.1/349"
 lang: en
 category: [knowledge, fatwas]
 note: false
-excerpt: "It is obligatory for the teacher to devote care to this issue and first be the living example of it by showing sincerity to Allah in all their deeds and maintaining a good reputation and conduct, as students follow the example of their teachers in both the good and bad things."
+summary: "It is obligatory for the teacher to devote care to this issue and first be the living example of it by showing sincerity to Allah in all their deeds and maintaining a good reputation and conduct, as students follow the example of their teachers in both the good and bad things."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

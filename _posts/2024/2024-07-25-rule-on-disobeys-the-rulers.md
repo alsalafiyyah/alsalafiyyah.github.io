@@ -9,7 +9,7 @@ category: [fatwas,sects,rulership]
 locale: en
 lang: en
 translated_by: Abul-Irbad Abid Zargar
-excerpt: If he criticises the ruler, then this is the madhab of the Khawarij who criticise the rulers, speak about them and incite the people against them.
+summary: If he criticises the ruler, then this is the madhab of the Khawarij who criticise the rulers, speak about them and incite the people against them.
 muftis:
   shaykh: 
     - name: Shaykh Salih Al-Fawzan

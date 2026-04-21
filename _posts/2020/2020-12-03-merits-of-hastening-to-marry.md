@@ -7,7 +7,7 @@ source: "Fatawa Shaykh Ibn Baz p. 20/421"
 lang: en
 category: [marriage]
 note: false
-excerpt: "It is most required to hasten to marry. Young men should not delay marriage due to studying. Marriage is not an obstacle in the way of this. It is also possible that a young man gets married in order to guard his religion and manners and lower his gaze, and continue in studying."
+summary: "It is most required to hasten to marry. Young men should not delay marriage due to studying. Marriage is not an obstacle in the way of this. It is also possible that a young man gets married in order to guard his religion and manners and lower his gaze, and continue in studying."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

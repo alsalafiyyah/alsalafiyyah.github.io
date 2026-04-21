@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 8, 1441
 note: true
 locale: en
 lang: en
-excerpt: "Making Du'a to others instead of Allah such as pious people to remove harm, cure the sick, or secure a road is Shirk Akbar  that takes its doer away from the realm of Islam."
+summary: "Making Du'a to others instead of Allah such as pious people to remove harm, cure the sick, or secure a road is Shirk Akbar  that takes its doer away from the realm of Islam."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

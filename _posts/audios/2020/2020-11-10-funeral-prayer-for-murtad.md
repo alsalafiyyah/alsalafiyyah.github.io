@@ -10,7 +10,7 @@ active: audios
 locale: en
 category: [fatwas,audios,funerals]
 url: "https://binbaz.org.sa/fatwas/5509/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%83%D8%A7%D9%81%D8%B1-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%8A"
-excerpt: "If the person transgressing the Shar'ah is deemed a Murtad (apostate), the funeral Prayer should not be offered for him."
+summary: "If the person transgressing the Shar'ah is deemed a Murtad (apostate), the funeral Prayer should not be offered for him."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -13,7 +13,7 @@ locale: en
 active: audios
 category: [audios, sects]
 type: audios
-excerpt: "Sufism has different branches, and its followers are, mostly, Mubtadi's. They have invocations and acts of worship that have no basis in the Qur'an or the Sunnah. One of the Sufis is Ibn 'Arabi."
+summary: "Sufism has different branches, and its followers are, mostly, Mubtadi's. They have invocations and acts of worship that have no basis in the Qur'an or the Sunnah. One of the Sufis is Ibn 'Arabi."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

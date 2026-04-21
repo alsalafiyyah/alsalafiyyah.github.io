@@ -4,7 +4,7 @@ title: "Ruling on giving the father a medicine to quit smoking without his knowl
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 16318, Question 2"
 hijri: Muharram 15, 1442
-excerpt: Smoking tobacco is Haram for it causes great harm and has no benefit at all. Whoever smokes should give it up and repent of it.
+summary: Smoking tobacco is Haram for it causes great harm and has no benefit at all. Whoever smokes should give it up and repent of it.
 locale: en
 lang: en
 date: 2020/09/3

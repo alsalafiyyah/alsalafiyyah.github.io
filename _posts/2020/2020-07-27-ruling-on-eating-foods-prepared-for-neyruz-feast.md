@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 locale: en
 lang: en
 note: true
-excerpt: "It is not permissible for a Muslim to observe any of the rituals of disbelief and Shirk, including the religious occasions such as festivals and others."
+summary: "It is not permissible for a Muslim to observe any of the rituals of disbelief and Shirk, including the religious occasions such as festivals and others."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

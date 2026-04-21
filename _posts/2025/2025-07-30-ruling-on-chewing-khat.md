@@ -6,7 +6,7 @@ date: 2025-07-30
 hijri: "Safar 5, 1447 AH"
 source: "Fatawa Al-Lajnah Ad-Daimah, Question 3, Fatwa No. 16097"
 category: [fatwas, drugs]
-excerpt: "Eating Khat is forbidden because it causes intoxication and it also distracts from the remembrance of Allah and from Salah."
+summary: "Eating Khat is forbidden because it causes intoxication and it also distracts from the remembrance of Allah and from Salah."
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

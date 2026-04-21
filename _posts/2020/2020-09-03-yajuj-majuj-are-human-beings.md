@@ -8,7 +8,7 @@ hijri: Muharram 15, 1442 AH
 lang: en
 locale: en
 note: true
-excerpt: "They are human beings from the children of Adam, the father of mankind. They are living on this earth in the Furthest East."
+summary: "They are human beings from the children of Adam, the father of mankind. They are living on this earth in the Furthest East."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

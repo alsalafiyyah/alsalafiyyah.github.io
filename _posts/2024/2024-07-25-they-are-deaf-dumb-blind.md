@@ -7,7 +7,7 @@ hijri: Muharram 19, 1446 AH
 date: 2024-07-25
 locale: en
 lang: en
-excerpt: These are three qualities that Allah Almighty described the hypocrites with – deaf, they do not listen to or hear the truth.
+summary: These are three qualities that Allah Almighty described the hypocrites with – deaf, they do not listen to or hear the truth.
 category: [fatwas,tafsir]
 muftis:
   shaykh: 

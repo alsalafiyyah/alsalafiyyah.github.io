@@ -8,7 +8,7 @@ hijri: Muharram 15, 1442 AH
 lang: en
 locale: en
 note: true
-excerpt: "Abdullah ibn Sayyad appeared in the lifetime of the Prophet, and some Sahabah thought he was Al-Dajjal."
+summary: "Abdullah ibn Sayyad appeared in the lifetime of the Prophet, and some Sahabah thought he was Al-Dajjal."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

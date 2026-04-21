@@ -10,7 +10,7 @@ group1: true
 note: true
 locale: en
 lang: en
-excerpt: According to the creed of the Salaf whom the Prophet described as the best generation, Jesus was not killed or crucified, nor did he die.
+summary: According to the creed of the Salaf whom the Prophet described as the best generation, Jesus was not killed or crucified, nor did he die.
 ---
 
 ### Question: 

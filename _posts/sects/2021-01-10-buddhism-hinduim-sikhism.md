@@ -8,7 +8,7 @@ hijri: "Jumada Al-Awwal 26, 1442 AH"
 lang: en
 locale: en
 note: false
-excerpt: "Islam is to worship Allah Alone associating no partners with Him, obey His Commands, avoid His Prohibitions, abide by the limits He has set, and believe in what Allah and His Messenger informed us about regarding the past and the future."
+summary: "Islam is to worship Allah Alone associating no partners with Him, obey His Commands, avoid His Prohibitions, abide by the limits He has set, and believe in what Allah and His Messenger informed us about regarding the past and the future."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

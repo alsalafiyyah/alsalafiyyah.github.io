@@ -7,7 +7,7 @@ category: [books, knowledge]
 hijri: Dhul-Hijjah 8, 1441 AH
 lang: en
 note: true
-excerpt: "It is impermissible to publish, print, obtain or promote this book (Al-Ta'rif bil-Shaykh Sayyidi by Al-Hadi Bashawat) as it calls to Shirk, Bid'ahs, superstitions and satanic practices."
+summary: "It is impermissible to publish, print, obtain or promote this book (Al-Ta'rif bil-Shaykh Sayyidi by Al-Hadi Bashawat) as it calls to Shirk, Bid'ahs, superstitions and satanic practices."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Aal Al-Shaykh

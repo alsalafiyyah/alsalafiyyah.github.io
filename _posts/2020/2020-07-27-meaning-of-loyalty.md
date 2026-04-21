@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 locale: en
 lang: en
 note: true
-excerpt: "Allah forbids believers to establish with the Jews and other disbelievers an alliance of friendship, love, solidarity and support."
+summary: "Allah forbids believers to establish with the Jews and other disbelievers an alliance of friendship, love, solidarity and support."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

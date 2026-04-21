@@ -7,7 +7,7 @@ category: [non-muslim,walabara]
 hijri: Dhul-Hijjah 8, 1441 AH
 lang: en
 locale: en
-excerpt: "A person becomes a Jew if they believe in the beliefs of the Jews and act upon them. Likewise, they become a Christian if they believe in the beliefs of the Christians and act upon them."
+summary: "A person becomes a Jew if they believe in the beliefs of the Jews and act upon them. Likewise, they become a Christian if they believe in the beliefs of the Christians and act upon them."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -11,7 +11,7 @@ locale: en
 active: audios
 category: [fatwas,audios,prophets,terminology]
 url: "https://binbaz.org.sa/fatwas/28998/%D9%85%D8%A7-%D9%85%D8%B9%D9%86%D9%89-%D8%A7%D9%84%D8%BA%D9%84%D9%88-%D9%81%D9%8A-%D8%AD%D8%A8-%D8%A7%D9%84%D9%86%D8%A8%D9%8A--%D8%B5%D9%84%D9%89-%D8%A7%D9%84%D9%84%D9%87-%D8%B9%D9%84%D9%8A%D9%87-%D9%88%D8%B3%D9%84%D9%85"
-excerpt: "Ghulu means an increase or doing something more than what is ordained by Allah (Exalted be He)."
+summary: "Ghulu means an increase or doing something more than what is ordained by Allah (Exalted be He)."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -9,7 +9,7 @@ locale: en
 lang: en
 date: 2020/08/8
 note: true
-excerpt: "The evidence is that permissibility is the basic ruling. Besides, a woman has to beautify herself for her husband and there is no other evidence against this except the Prophet's prohibition of Nams."
+summary: "The evidence is that permissibility is the basic ruling. Besides, a woman has to beautify herself for her husband and there is no other evidence against this except the Prophet's prohibition of Nams."
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz

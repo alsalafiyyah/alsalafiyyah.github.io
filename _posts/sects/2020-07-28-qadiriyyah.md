@@ -9,7 +9,7 @@ lang: en
 locale: en
 note: true
 uid: qadiriyyah
-excerpt: "The poem that was sent by the questioner shows that the one who wrote it was ignorant, as the things that he ascribes to himself are Kufr (disbelief) and misguidance. "
+summary: "The poem that was sent by the questioner shows that the one who wrote it was ignorant, as the things that he ascribes to himself are Kufr (disbelief) and misguidance. "
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

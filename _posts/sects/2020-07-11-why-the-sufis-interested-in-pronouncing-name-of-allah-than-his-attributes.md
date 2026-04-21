@@ -8,7 +8,7 @@ hijri: Dhul-Qa'dah 20, 1441
 locale: en
 note: false
 lang: en
-excerpt: "This is verily an act of Bid'ah (innovation in religion) and people should not adhere to this, for it had not been reported from the Prophet (peace be upon him) or any of his Companions (may Allah be pleased with them)."
+summary: "This is verily an act of Bid'ah (innovation in religion) and people should not adhere to this, for it had not been reported from the Prophet (peace be upon him) or any of his Companions (may Allah be pleased with them)."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

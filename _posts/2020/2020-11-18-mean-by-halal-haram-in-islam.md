@@ -8,7 +8,7 @@ source: "Fatawa Al-Lajnah Al-Da'imah no. 17706"
 lang: en
 category: [terminology]
 note: true
-excerpt: "Halal and Haram are two Shar'i (Islamic legal) rulings, the knowledge of which is acquired from the Qur'an and the Sunnah."
+summary: "Halal and Haram are two Shar'i (Islamic legal) rulings, the knowledge of which is acquired from the Qur'an and the Sunnah."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

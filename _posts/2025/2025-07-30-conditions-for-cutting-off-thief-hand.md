@@ -6,7 +6,7 @@ date: 2025-07-30
 hijri: "Safar 5, 1447 AH"
 source: "Fatawa Al-Lajnah Ad-Da'imah, Question 5, Fatwa No. 17627"
 category: [fatwas, hudud]
-excerpt: "That the conviction of the thief is proven before the judge by the testimony of two male 'Adl (of upright character) witnesses or by the confession of the thief."
+summary: "That the conviction of the thief is proven before the judge by the testimony of two male 'Adl (of upright character) witnesses or by the confession of the thief."
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

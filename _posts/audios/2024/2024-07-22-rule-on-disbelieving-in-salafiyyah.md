@@ -10,7 +10,7 @@ note: false
 locale: en
 active: audios
 translated_by: Faisal Ibn Abdul Qaadir Ibn Hassan, Abu Sulaymaan
-excerpt: This is ignorance and trespassing the truth. If he intends that using this term is not necessary and that it is not necessary for a person to say I am Salafi, then the affair is easy.
+summary: This is ignorance and trespassing the truth. If he intends that using this term is not necessary and that it is not necessary for a person to say I am Salafi, then the affair is easy.
 category: [fatwas,audios,manhaj]
 muftis:
   shaykh: 

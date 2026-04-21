@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 locale: en
 lang: en
 note: true
-excerpt: "It is not permissible for a Muslim to have Wala' (loyalty) to unbelievers, represented in this particular situation by attending the celebration of your brother-in-law's marriage and traveling with him for this purpose. The wedding celebrations and the like include some rites associated with Kufr (disbelief)."
+summary: "It is not permissible for a Muslim to have Wala' (loyalty) to unbelievers, represented in this particular situation by attending the celebration of your brother-in-law's marriage and traveling with him for this purpose. The wedding celebrations and the like include some rites associated with Kufr (disbelief)."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

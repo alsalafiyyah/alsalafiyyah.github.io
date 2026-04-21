@@ -7,7 +7,7 @@ hijri: Dhul-Hijjah 22, 1441
 lang: en
 note: false
 category: [fatwas,music]
-excerpt: "I advise Muslim men and women to abstain from listening to songs, for they lead to great dangers. Nowadays, songs are everywhere on the radio, TV, tapes and it is a trial to Muslims."
+summary: "I advise Muslim men and women to abstain from listening to songs, for they lead to great dangers. Nowadays, songs are everywhere on the radio, TV, tapes and it is a trial to Muslims."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

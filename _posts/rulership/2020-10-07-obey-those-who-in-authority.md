@@ -9,7 +9,7 @@ note: false
 uid: obey-those-who-in-authority
 source: "Majmu' Fatawa Al-Shaykh Ibn Baz p. 7/119"
 category: [rulership, quran]
-excerpt: "Those in authority refer to Muslim scholars and rulers. Their orders should be followed if they agree with Shari'ah and should be disregarded if they disagree with Shari'ah."
+summary: "Those in authority refer to Muslim scholars and rulers. Their orders should be followed if they agree with Shari'ah and should be disregarded if they disagree with Shari'ah."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

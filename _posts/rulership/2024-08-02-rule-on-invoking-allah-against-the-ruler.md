@@ -10,7 +10,7 @@ locale: en
 category: [fatwas,rulership]
 source: "Fatawa al-Lajnah ad-Da'imah, Fatwa no. 6361, Question 4"
 note: true
-excerpt: "What is the ruling on invoking Allah against a ruler who does not judge according to Allah’s revealed Law?"
+summary: "What is the ruling on invoking Allah against a ruler who does not judge according to Allah’s revealed Law?"
 article_taken_from: 
   taken_from:
     - web_title: الدعاء على الحاكم الذي لا يحكم بما أنزل الله

@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatwas of the Permanent Committee of KSA no.16343 question 1"
 category: [bidah, funerals, fatwas]
 hijri: Dhul-Qa'dah 23, 1441
-excerpt: Slaughtering for the deceased after burial is an act of Bid’ah for which there is no evidence in the Qur’an and the Sunnah.
+summary: Slaughtering for the deceased after burial is an act of Bid’ah for which there is no evidence in the Qur’an and the Sunnah.
 shaykhs: 
  - Shaykh Ibn Baz
  - Shaykh Abdul-Razzaq al-Afify

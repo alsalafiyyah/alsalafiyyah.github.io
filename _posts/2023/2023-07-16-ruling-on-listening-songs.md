@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da’imah, Fatwa no. 16301, Question 3"
 hijri: "Dhul-Hijjah 28, 1444 AH"
 category: [fatwas,music]
-excerpt: "Listening to songs is haram, for Allah (Exalted be He) says, And of mankind is he who purchases idle talks (i.e. music, singing) to mislead (men) from the path of Allah."
+summary: "Listening to songs is haram, for Allah (Exalted be He) says, And of mankind is he who purchases idle talks (i.e. music, singing) to mislead (men) from the path of Allah."
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

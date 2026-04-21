@@ -8,7 +8,7 @@ lang: en
 note: true
 uid: executing-hadd-in-the-absence-of-the-ruler
 category: ["rulership", hudud]
-excerpt: "Only a Muslim ruler or his deputy is entitled to execute the Hudud, so as to keep order, prevent transgression, and oppression, and provide security."
+summary: "Only a Muslim ruler or his deputy is entitled to execute the Hudud, so as to keep order, prevent transgression, and oppression, and provide security."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

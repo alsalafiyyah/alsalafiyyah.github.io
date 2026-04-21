@@ -8,7 +8,7 @@ lang: en
 locale: en
 note: true
 category: [treatments,fatwas]
-excerpt: Khamr is Haram. It is impermissible to be used as a treatment. A proof for the foregoing is the Hadith.
+summary: Khamr is Haram. It is impermissible to be used as a treatment. A proof for the foregoing is the Hadith.
 muftis:
   chairman: 
     - name: Shaykh Ibrahim Ibn Muhammad Aal Al-Shaykh

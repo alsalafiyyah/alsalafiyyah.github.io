@@ -6,7 +6,7 @@ source: "Fatawa Al-Lajnah Ad-Daimah no. 16712"
 hijri: Muharram 3, 1442
 category: [funerals, bidah, fatwas]
 date: 2020/08/22
-excerpt: Calling upon the Messenger when digging a grave through repeating the word Muhammad, Muhammad, is not permissible, as it is a form of seeking help from other than Allah.
+summary: Calling upon the Messenger when digging a grave through repeating the word Muhammad, Muhammad, is not permissible, as it is a form of seeking help from other than Allah.
 shaykhs: 
  - Shaykh Ibn Baz
  - Shaykh Abdul-Aziz Aal Al-Shaykh

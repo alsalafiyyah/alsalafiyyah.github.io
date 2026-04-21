@@ -9,7 +9,7 @@ category: [fatwas]
 note: false
 locale: en
 lang: en
-excerpt: If a person does something that is indeed unlawful such as fornication, and then people say about him Haram meaning it is unlawful for him to fornicate, then there is no harm in people saying that.
+summary: If a person does something that is indeed unlawful such as fornication, and then people say about him Haram meaning it is unlawful for him to fornicate, then there is no harm in people saying that.
 muftis:
   shaykh: 
     - name: Shaykh Ibn 'Uthaymeen

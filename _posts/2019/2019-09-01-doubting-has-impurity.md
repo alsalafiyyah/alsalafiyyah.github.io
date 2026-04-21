@@ -6,7 +6,7 @@ date: 2019-09-01
 hijri: Muharram 02, 1441 AH
 source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 8732, question 1"
 category: [taharah, ablution]
-excerpt: "Does doubt count for anything in case of a person having Wudu’ (ablution) yet is not sure whether or not he passed urine, feces or broke wind due to the long period he stayed ritually pure?"
+summary: "Does doubt count for anything in case of a person having Wudu’ (ablution) yet is not sure whether or not he passed urine, feces or broke wind due to the long period he stayed ritually pure?"
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

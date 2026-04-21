@@ -11,7 +11,7 @@ note: true
 group6: true
 active: wahhabi
 category: [fatwas,wahhabism]
-excerpt: "Wahhabism is the term which the enemies of Shaykh Muhammad ibn 'Abdul-Wahhab gave to his call to purify Tawhid from all forms of Shirk and to renounce all the ways except that of Muhammad Ibn ‘Abdullah (peace be upon him)."
+summary: "Wahhabism is the term which the enemies of Shaykh Muhammad ibn 'Abdul-Wahhab gave to his call to purify Tawhid from all forms of Shirk and to renounce all the ways except that of Muhammad Ibn ‘Abdullah (peace be upon him)."
 ---
 
 ### Question: 

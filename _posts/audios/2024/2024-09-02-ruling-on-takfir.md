@@ -10,7 +10,7 @@ date: 2024-09-02
 category: [fatwas,audios]
 note: false
 active: audios
-excerpt: "Takfir of a particular individual who commits what would necessitate disbelief due to it, then there is nothing wrong in making takfir of him."
+summary: "Takfir of a particular individual who commits what would necessitate disbelief due to it, then there is nothing wrong in making takfir of him."
 translated_by: "Abu Hatim Muhammad Faruq"
 mp3: "https://www.muqbel.net/files/fatwa/muqbel-fatwa4337.mp3"
 article_taken_from: 

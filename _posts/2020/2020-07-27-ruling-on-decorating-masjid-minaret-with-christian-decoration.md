@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "It is not permissible for Muslims to imitate the disbelievers in their festivals, their places of worship and the like. The Prophet said: Anyone who copies a people is one of them."
+summary: "It is not permissible for Muslims to imitate the disbelievers in their festivals, their places of worship and the like. The Prophet said: Anyone who copies a people is one of them."
 muftis:
   chairman: 
     - name: Abdul-Aziz Ibn Baz

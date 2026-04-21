@@ -9,7 +9,7 @@ group1: true
 locale: en
 lang: en
 category: [prophets,fatwas]
-excerpt: They are either accusing Maryam of Zina, as the Jews did, or claiming that Jesus is the son of Allah, as the Christians do.
+summary: They are either accusing Maryam of Zina, as the Jews did, or claiming that Jesus is the son of Allah, as the Christians do.
 ---
 
 ### Question:

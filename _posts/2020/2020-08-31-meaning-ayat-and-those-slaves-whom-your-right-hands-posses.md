@@ -10,7 +10,7 @@ locale: en
 category: [quran]
 note: true
 uid: meaning-ayat-and-those-slaves-whom-your-right-hands-posses
-excerpt: "It is not permissible for the master of a male or female bondservant to treat them according to his desire or mere opinion; but he must be just as ordained by Shari'ah."
+summary: "It is not permissible for the master of a male or female bondservant to treat them according to his desire or mere opinion; but he must be just as ordained by Shari'ah."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

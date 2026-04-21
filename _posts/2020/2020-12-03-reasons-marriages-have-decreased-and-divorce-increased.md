@@ -7,7 +7,7 @@ source: "Fatawa Shaykh Ibn Baz p. 30/317"
 lang: en
 category: [marriage]
 note: false
-excerpt: "They should not demand excessive dowries and wedding costs so that the number of marriages increase and the number of the singles decreases, and thus the number of spinsters will grow less."
+summary: "They should not demand excessive dowries and wedding costs so that the number of marriages increase and the number of the singles decreases, and thus the number of spinsters will grow less."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

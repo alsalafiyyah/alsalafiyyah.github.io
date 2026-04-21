@@ -7,7 +7,7 @@ hijri: Muharram 10, 1442 AH
 lang: en
 category: [madhabs]
 lang: en
-excerpt: "People differ in preparedness, knowledge, reasoning, and background; some are intelligent and others are simple, some are well educated and others are illiterate."
+summary: "People differ in preparedness, knowledge, reasoning, and background; some are intelligent and others are simple, some are well educated and others are illiterate."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

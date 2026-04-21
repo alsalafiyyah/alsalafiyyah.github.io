@@ -6,7 +6,7 @@ hijri: Muharram 26, 1442 AH
 lang: en
 category: [hadiths, general]
 source: Fatwas of the Permanent Committee no. 11304
-excerpt: " The term Hadith Qudsy refers to Revelations from Allah in the Prophet’s words. Such Revelations were sent to the Prophet through the angel Jibril (Gabriel, peace be upon him) or by direct inspiration in wakefulness or sleep"
+summary: " The term Hadith Qudsy refers to Revelations from Allah in the Prophet’s words. Such Revelations were sent to the Prophet through the angel Jibril (Gabriel, peace be upon him) or by direct inspiration in wakefulness or sleep"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

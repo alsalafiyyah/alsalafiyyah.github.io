@@ -10,7 +10,7 @@ note: true
 group6: true
 locale: en
 lang: en
-excerpt: If such people die in the state which you describe, it is not permissible to follow their funeral procession, to pray over them, to make Du'a and seek forgiveness for them.
+summary: If such people die in the state which you describe, it is not permissible to follow their funeral procession, to pray over them, to make Du'a and seek forgiveness for them.
 article_taken_from: 
   taken_from:
     - web_title: تشييع جنازة عباد القبور

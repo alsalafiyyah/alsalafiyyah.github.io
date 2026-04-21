@@ -11,7 +11,7 @@ note: false
 locale: en
 active: audios
 category: [fatwas,audios,manhaj]
-excerpt: "I think there is nothing wrong in calling someone as Athari if it is true. If someone accepts the Prophetic Hadiths and follows the Sunnah and the way of the Salaf (righteous predecessors)"
+summary: "I think there is nothing wrong in calling someone as Athari if it is true. If someone accepts the Prophetic Hadiths and follows the Sunnah and the way of the Salaf (righteous predecessors)"
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

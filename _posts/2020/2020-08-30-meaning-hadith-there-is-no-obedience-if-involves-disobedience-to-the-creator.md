@@ -6,7 +6,7 @@ source: "Fatawa Al-Lajnah Ad-Da'imah no. 20145-4"
 hijri: Muharram 11, 1442 AH
 lang: en
 category: ["tafsir", hadiths]
-excerpt: "Is the following Hadith considered Sahih (authentic): 'There is no obedience to a creature if it involves disobedience to the Creator'? Please mention the narrator and Sanad (chain of narrators) of this Hadith?"
+summary: "Is the following Hadith considered Sahih (authentic): 'There is no obedience to a creature if it involves disobedience to the Creator'? Please mention the narrator and Sanad (chain of narrators) of this Hadith?"
 shaykhs: 
  - Shaykh Abdul-Aziz ibn Baz
  - Shaykh Abdul-Aziz Aal al-Shaykh

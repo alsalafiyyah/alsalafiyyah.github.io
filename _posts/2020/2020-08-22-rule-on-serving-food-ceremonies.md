@@ -4,7 +4,7 @@ title: "Ruling on the family of the deceased serving food for people and holding
 publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 17458 question 2"
 hijri: Muharram 3, 1442
-excerpt: It is islamically permissible to serve sufficient food for the deceased's family to satisfy their need, since they will be too busy with their calamity to prepare food for themselves.
+summary: It is islamically permissible to serve sufficient food for the deceased's family to satisfy their need, since they will be too busy with their calamity to prepare food for themselves.
 category: [funerals,fatwas,]
 date: 2020/08/22
 shaykhs: 

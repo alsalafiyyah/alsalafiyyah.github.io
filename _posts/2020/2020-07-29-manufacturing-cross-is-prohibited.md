@@ -9,7 +9,7 @@ date: 2020-07-29
 lang: en
 locale: en
 note: true
-excerpt: "It is not permissible to have crosses in mosques, houses or educational buildings like schools, institutes and so on."
+summary: "It is not permissible to have crosses in mosques, houses or educational buildings like schools, institutes and so on."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

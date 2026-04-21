@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 11, 1441
 lang: en
 note: true
 locale: en
-excerpt: "The method which should be followed is the Qur'an and the Sunnah. A person should seek the help of Allah (Exalted be He), then the views of the Salaf (righteous predecessors) in order to understand them."
+summary: "The method which should be followed is the Qur'an and the Sunnah. A person should seek the help of Allah (Exalted be He), then the views of the Salaf (righteous predecessors) in order to understand them."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

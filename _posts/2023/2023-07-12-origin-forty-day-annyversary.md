@@ -7,7 +7,7 @@ source: "Majmu’ Fatawa 13/398"
 lang: en
 category: [bidah,funerals]
 note: false
-excerpt: "The origin of this is a Pharaonic custom which was practised by the Pharaohs before Islam."
+summary: "The origin of this is a Pharaonic custom which was practised by the Pharaohs before Islam."
 muftis:
   shaykh: 
     - name: Shaykh Ibn Baz

@@ -9,7 +9,7 @@ lang: en
 note: true
 locale: en
 uid: rule-on-reading-the-virtues-shaykh-abdul-qadir
-excerpt: "Love of the Awliya' of Allah and honoring a guest are among the most outstanding virtues of Shari'ah and exhorted by the Qur'an and the Sunnah."
+summary: "Love of the Awliya' of Allah and honoring a guest are among the most outstanding virtues of Shari'ah and exhorted by the Qur'an and the Sunnah."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -8,7 +8,7 @@ lang: en
 locale: en
 category: [fatwas,taswir]
 note: false
-excerpt: "Yes, this is permissible according to the Fatwa issued by the interpreter of the Qur'an and the knowledgeable scholar of the Muslim nation, Abdullah ibn 'Abbas - may Allah be pleased with him and his father."
+summary: "Yes, this is permissible according to the Fatwa issued by the interpreter of the Qur'an and the knowledgeable scholar of the Muslim nation, Abdullah ibn 'Abbas - may Allah be pleased with him and his father."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

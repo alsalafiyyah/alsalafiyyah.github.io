@@ -11,7 +11,7 @@ lang: en
 active: wahhabi
 group13: true
 category: [fatwas,manhaj,wahhabism]
-excerpt: Anyone who alleges that the Shaykh of Islam Ibn Taymiyyah believed in anthropomorphism is totally ignorant of the creed of Ahl-ul-Sunnah wal-Jama'ah.
+summary: Anyone who alleges that the Shaykh of Islam Ibn Taymiyyah believed in anthropomorphism is totally ignorant of the creed of Ahl-ul-Sunnah wal-Jama'ah.
 article_taken_from: 
   taken_from:
     - web_title: رمي شيخ الإسلام ابن تيمية بالتجسيم

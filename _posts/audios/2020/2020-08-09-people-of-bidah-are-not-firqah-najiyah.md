@@ -11,7 +11,7 @@ category: [fatwas,audios,sects]
 lang: en
 locale: en
 active: audios
-excerpt: "The triumphant group is Ahl-ul-Sunnah waI-Jama'ah (adherents to the Sunnah and the Muslim mainstream). They are the followers of the Book and the Sunnah who introduce no Bid'ah (innovation in the religion) and abide by the commands of Allah (Exalted be He)."
+summary: "The triumphant group is Ahl-ul-Sunnah waI-Jama'ah (adherents to the Sunnah and the Muslim mainstream). They are the followers of the Book and the Sunnah who introduce no Bid'ah (innovation in the religion) and abide by the commands of Allah (Exalted be He)."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "It is not permissible to listen to a Christian radio station that calls for embracing the Christian faith in order to avoid temptation, except for the scholars who want to dispel their misconceptions, refute their propaganda, and warn Muslims against their evils."
+summary: "It is not permissible to listen to a Christian radio station that calls for embracing the Christian faith in order to avoid temptation, except for the scholars who want to dispel their misconceptions, refute their propaganda, and warn Muslims against their evils."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

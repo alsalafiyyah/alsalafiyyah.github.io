@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 5, 1441 AH
 lang: en
 note: false
 uid: ruling-on-sitting-with-people-of-bidah
-excerpt: "It is not permissible for you to sit with or consider them friends. You have to forbid them from doing such Bid'ahs and warn them against their dangers. May Allah protect us!"
+summary: "It is not permissible for you to sit with or consider them friends. You have to forbid them from doing such Bid'ahs and warn them against their dangers. May Allah protect us!"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

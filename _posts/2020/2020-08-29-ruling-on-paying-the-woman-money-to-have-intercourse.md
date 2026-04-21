@@ -9,7 +9,7 @@ lang: en
 locale: en
 note: true
 category: [fatwas, zina, women]
-excerpt: "You should protect yourself and stay away from the avenues leading to Zina and hasten to get married if you can; otherwise, you should observe fast."
+summary: "You should protect yourself and stay away from the avenues leading to Zina and hasten to get married if you can; otherwise, you should observe fast."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

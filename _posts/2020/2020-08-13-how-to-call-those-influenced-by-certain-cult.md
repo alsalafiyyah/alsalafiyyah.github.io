@@ -9,7 +9,7 @@ note: false
 category: [fatwas,dawah]
 locale: en
 lang: en
-excerpt: "The caller to Islam must explain to them the defects and bid'ahs in the schools which they have been influenced by, the orders which they have been affiliated to, and the milieus where they live."
+summary: "The caller to Islam must explain to them the defects and bid'ahs in the schools which they have been influenced by, the orders which they have been affiliated to, and the milieus where they live."
 muftis:
   shaykh: 
     - name: Shaykh Ibn Baz

@@ -10,7 +10,7 @@ lang: en
 locale: en
 category: [fatwas,rulership,terminology]
 note: true
-excerpt: "Al-Siyasah Al-Shar'iyyah is policy that is based on the Qur'an and Sunnah, by the ruler administering justice and the subjects giving loyalty and obedience."
+summary: "Al-Siyasah Al-Shar'iyyah is policy that is based on the Qur'an and Sunnah, by the ruler administering justice and the subjects giving loyalty and obedience."
 article_taken_from: 
   taken_from:
     - web_title: معنى السياسة الشرعية

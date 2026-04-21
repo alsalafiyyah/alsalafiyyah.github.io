@@ -8,7 +8,7 @@ locale: en
 lang: en
 date: 2020/08/28
 category: [fatwas, salah]
-excerpt: "The Salah you miss due to sleep or forgetfulness should be offered the moment you wake up or the moment you remember. It does not matter if you wake up or remember it after sunrise."
+summary: "The Salah you miss due to sleep or forgetfulness should be offered the moment you wake up or the moment you remember. It does not matter if you wake up or remember it after sunrise."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

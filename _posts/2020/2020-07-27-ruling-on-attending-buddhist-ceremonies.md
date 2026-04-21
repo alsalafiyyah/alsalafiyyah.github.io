@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 locale: en
 lang: en
 note: true
-excerpt: "It is not permissible to do any of the things mentioned. In fact, doing them is Haram, as it is sharing in their disbelief and helping them in what is not permissible in Islam."
+summary: "It is not permissible to do any of the things mentioned. In fact, doing them is Haram, as it is sharing in their disbelief and helping them in what is not permissible in Islam."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

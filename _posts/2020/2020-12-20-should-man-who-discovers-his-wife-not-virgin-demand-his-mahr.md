@@ -7,7 +7,7 @@ source: "Fatawa Shaykh Ibn Baz p. 20/288"
 lang: en
 category: [marriage]
 note: false
-excerpt: "If it is necessary to show the bride's virtuousness by blood on her garment according to their traditions, the husband can use any other blood to protect her, if otherwise she would be accused of Zina"
+summary: "If it is necessary to show the bride's virtuousness by blood on her garment according to their traditions, the husband can use any other blood to protect her, if otherwise she would be accused of Zina"
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

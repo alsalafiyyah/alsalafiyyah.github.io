@@ -9,7 +9,7 @@ category: [fatwas,hisbah]
 group1: true
 locale: en 
 lang: en
-excerpt: "What is the attitude of Islam towards these parties, and towards Muslims who take part in them? Is their Islam sound? "
+summary: "What is the attitude of Islam towards these parties, and towards Muslims who take part in them? Is their Islam sound? "
 ---
 
 ### Question:

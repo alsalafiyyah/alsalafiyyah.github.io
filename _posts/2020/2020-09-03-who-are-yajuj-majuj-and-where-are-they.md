@@ -8,7 +8,7 @@ hijri: Muharram 15, 1442 AH
 lang: en
 locale: en
 note: true
-excerpt: "Ya'juj and Ma'juj are from Bani Adam or human beings, from the line of Yafith ibn Nuh. They live in Asia, in northern China."
+summary: "Ya'juj and Ma'juj are from Bani Adam or human beings, from the line of Yafith ibn Nuh. They live in Asia, in northern China."
 muftis:
   deputy_chairman:
     - name: Shaykh Abdul-Razzaq Al-Afifi

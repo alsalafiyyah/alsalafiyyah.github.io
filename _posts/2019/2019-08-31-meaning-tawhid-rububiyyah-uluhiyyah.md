@@ -6,7 +6,7 @@ date: 2019-08-31
 hijri: "Muharram 01, 1441 AH"
 source: "Fatawa Al-lajnah Al-Da'imah no.11843 question 1"
 category: [terminology]
-excerpt: "The meaning of Tawhid-ul-Rububiyyah is the ascription of all Acts of Allah to none but Him Alone."
+summary: "The meaning of Tawhid-ul-Rububiyyah is the ascription of all Acts of Allah to none but Him Alone."
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

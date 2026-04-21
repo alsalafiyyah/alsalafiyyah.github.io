@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatwas of the Permanent Committee of KSA no.5848 question 1"
 category: [bidah, funerals, fatwas]
 hijri: Dhul-Qa'dah 25, 1441
-excerpt: It is impermissible for anyone to set up a tent beside the grave where reciters keep reciting Qur’an, granting the reward to the dead, then taking a wage for their action.
+summary: It is impermissible for anyone to set up a tent beside the grave where reciters keep reciting Qur’an, granting the reward to the dead, then taking a wage for their action.
 note: true
 shaykhs: 
  - Shaykh Ibn Baz

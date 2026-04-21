@@ -4,7 +4,7 @@ title: "When there is a funeral, lines of lamps are hung, chairs are brought and
 publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
 source: "Fatawa Al-Lajnah Ad-Daimah no. 20855"
 hijri: Muharram 3, 1442
-excerpt: As for the other practices such as holding funeral ceremony, hanging lines of lamps, brining chairs, hiring reciters of the Qur'an using loudspeakers, feeding people, etc., they are newly-invented practices in religion.
+summary: As for the other practices such as holding funeral ceremony, hanging lines of lamps, brining chairs, hiring reciters of the Qur'an using loudspeakers, feeding people, etc., they are newly-invented practices in religion.
 category: [funerals, fatwas, bidah]
 date: 2020/08/22
 shaykhs: 

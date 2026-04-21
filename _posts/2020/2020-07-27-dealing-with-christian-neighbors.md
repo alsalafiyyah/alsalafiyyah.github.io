@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "It is permissible to treat Christian people who are at close proximity to you, neighbors or classmates, gently and help them do lawful things."
+summary: "It is permissible to treat Christian people who are at close proximity to you, neighbors or classmates, gently and help them do lawful things."
 muftis:
   chairman: 
     - name: Abdul-Aziz bin Abdullah Aal Al-Shaykh

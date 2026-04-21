@@ -8,7 +8,7 @@ date: 2026-04-15
 active: audios
 category: [fatwas,audios,sects]
 url: "https://binbaz.org.sa/fatwas/4834/%D9%85%D8%A7-%D8%AD%D9%83%D9%85-%D8%AA%D9%83%D9%81%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D9%8A%D8%B9%D8%A9"
-excerpt: "The rulers of Iran today are among the most misguided and most disbelieving of people, even if they outwardly profess Islam. This is because they are callers to polytheism."
+summary: "The rulers of Iran today are among the most misguided and most disbelieving of people, even if they outwardly profess Islam. This is because they are callers to polytheism."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

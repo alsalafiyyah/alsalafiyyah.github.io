@@ -8,7 +8,7 @@ lang: en
 note: true
 uid: tawbah-prevent-the-execution-of-the-hadd
 category: ["rulership", hudud]
-excerpt: "If Hudud come to the knowledge of the ruler and are proven by sufficient evidence, they should be carried out and should not be waived by Tawbah according to the consent of scholars."
+summary: "If Hudud come to the knowledge of the ruler and are proven by sufficient evidence, they should be carried out and should not be waived by Tawbah according to the consent of scholars."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

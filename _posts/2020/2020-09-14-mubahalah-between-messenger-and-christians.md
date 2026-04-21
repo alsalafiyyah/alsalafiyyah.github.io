@@ -6,7 +6,7 @@ hijri: Muharram 26, 1442 AH
 lang: en
 category: [prophets]
 source: Fatwas of the Permanent Committee no. 6238-4
-excerpt: "Mubahalah is not exclusive to the event that took place between the Messenger (peace be upon him) and the Christians. In fact, its ruling is general and it can be used by the Prophet (peace be upon him) and his Ummah (nation) with the Christians and non-Christians."
+summary: "Mubahalah is not exclusive to the event that took place between the Messenger (peace be upon him) and the Christians. In fact, its ruling is general and it can be used by the Prophet (peace be upon him) and his Ummah (nation) with the Christians and non-Christians."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

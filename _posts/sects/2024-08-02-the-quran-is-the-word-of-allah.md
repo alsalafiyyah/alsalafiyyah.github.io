@@ -10,7 +10,7 @@ lang: en
 locale: en
 category: [fatwas,sects,refutals,hudud]
 note: false
-excerpt: "The difference between the two statements is that claiming that the Qur'an is created is a statement of disbelief that takes the Muslim out of Islam."
+summary: "The difference between the two statements is that claiming that the Qur'an is created is a statement of disbelief that takes the Muslim out of Islam."
 article_taken_from: 
   taken_from:
     - web_title: الفرق بين قول لفظي بالقرآن مخلوق وقول القرآن مخلوق

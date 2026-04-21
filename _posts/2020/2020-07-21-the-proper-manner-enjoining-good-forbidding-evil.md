@@ -7,7 +7,7 @@ category: [hisbah]
 hijri: Dhul-Qa'dah 30, 1441 AH
 date: 2020/07/21
 binbaz: true
-excerpt: "What is the proper manner of enjoining right and forbidding evil?"
+summary: "What is the proper manner of enjoining right and forbidding evil?"
 ---
 
 Question: 

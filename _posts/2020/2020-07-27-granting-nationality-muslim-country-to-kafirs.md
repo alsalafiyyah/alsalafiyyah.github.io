@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "It is permissible to grant a non-Muslim the nationality of a Muslim country provided that the danger of Fitnah (sedition) is secured and that his good intentions are sensed."
+summary: "It is permissible to grant a non-Muslim the nationality of a Muslim country provided that the danger of Fitnah (sedition) is secured and that his good intentions are sensed."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

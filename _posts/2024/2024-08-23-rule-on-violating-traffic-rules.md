@@ -10,7 +10,7 @@ lang: en
 locale: en
 category: [fatwas]
 note: false
-excerpt: "Because of the grave dangers involved in breaking traffic rules, it is not allowed for a Muslim or non Muslim - to break those rules."
+summary: "Because of the grave dangers involved in breaking traffic rules, it is not allowed for a Muslim or non Muslim - to break those rules."
 muftis:
   shaykh: 
     - name: Shaykh Ibn Baz

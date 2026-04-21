@@ -7,7 +7,7 @@ hijri: Muharram 4, 1445 AH
 date: 2023/07/22
 note: true
 category: [bidah]
-excerpt: This habit is an invented practice from Jahiliyyah and it is not permissible for a Muslim to do it.
+summary: This habit is an invented practice from Jahiliyyah and it is not permissible for a Muslim to do it.
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz

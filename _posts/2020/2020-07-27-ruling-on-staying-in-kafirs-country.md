@@ -9,7 +9,7 @@ date: 2020-07-27
 lang: en
 note: true
 locale: en
-excerpt: "On the other hand, Muslims who are able to migrate to Muslim countries, yet prefer to live suppressed or servile in non-believers’ countries at the compromise of their religion are doing wrong to themselves, to their religion and to Muslims on the whole."
+summary: "On the other hand, Muslims who are able to migrate to Muslim countries, yet prefer to live suppressed or servile in non-believers’ countries at the compromise of their religion are doing wrong to themselves, to their religion and to Muslims on the whole."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

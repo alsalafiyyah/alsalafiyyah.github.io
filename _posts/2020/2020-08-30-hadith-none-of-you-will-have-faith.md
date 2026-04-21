@@ -7,7 +7,7 @@ hijri: Muharram 11, 1442 AH
 date: 2020/08/30
 lang: en
 category: ["tafsir", hadiths]
-excerpt: "Would you please explain the meaning of the following Hadith: 'None of you will have faith until his desire is in accordance with what I have brought.'"
+summary: "Would you please explain the meaning of the following Hadith: 'None of you will have faith until his desire is in accordance with what I have brought.'"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

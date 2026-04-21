@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no.7699, Question 3"
 category: [fatwas,oaths]
 hijri: Dhul-Qa'dah 25, 1441
-excerpt: It is enough to swear by Allah without having to put the hand on the Mushaf.
+summary: It is enough to swear by Allah without having to put the hand on the Mushaf.
 note: true
 muftis:
   chairman:

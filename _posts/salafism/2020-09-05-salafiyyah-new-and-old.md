@@ -9,7 +9,7 @@ date: 2020-09-05
 locale: en
 lang: en
 note: true
-excerpt: There is only one Salafiyyah, the one who claims that there is an old and new Salafiyyah has lied. 
+summary: There is only one Salafiyyah, the one who claims that there is an old and new Salafiyyah has lied. 
 category: [fatwas,manhaj]
 translated_by: Muhammad Elmi
 muftis:

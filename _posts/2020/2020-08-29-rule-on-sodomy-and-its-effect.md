@@ -7,7 +7,7 @@ hijri: Muharram 10, 1442 AH
 lang: en
 category: [homosexual,zina,hudud]
 note: true
-excerpt: "Sodomy is one of the major sins, whether it is committed with a boy or an adult, and whether it is with or without their consent."
+summary: "Sodomy is one of the major sins, whether it is committed with a boy or an adult, and whether it is with or without their consent."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

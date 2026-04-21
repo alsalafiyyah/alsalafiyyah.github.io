@@ -7,7 +7,7 @@ source: "Fatawa Al-Shaykh Ibn Baz 8/398 and published in Al-Da'wah magazine, iss
 lang: en
 category: [marriage]
 note: false
-excerpt: "It is not permissible to curse one’s wife. Cursing her is not a form of divorce and she is still married to him. He has to repent to Allah (Exalted be He) and seek her forgiveness for this insult."
+summary: "It is not permissible to curse one’s wife. Cursing her is not a form of divorce and she is still married to him. He has to repent to Allah (Exalted be He) and seek her forgiveness for this insult."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

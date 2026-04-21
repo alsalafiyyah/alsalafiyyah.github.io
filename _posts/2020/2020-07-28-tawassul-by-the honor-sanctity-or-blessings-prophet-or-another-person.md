@@ -9,7 +9,7 @@ date: 2020/07/28
 locale: en
 lang: en
 group1: true
-excerpt: "The Prophet, peace be upon him, forbade people from taking graves as places for worship, fearing that people might worship the graves."
+summary: "The Prophet, peace be upon him, forbade people from taking graves as places for worship, fearing that people might worship the graves."
 ---
 
 ### Question: 

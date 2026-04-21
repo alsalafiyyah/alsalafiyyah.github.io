@@ -6,7 +6,7 @@ date: 2019-09-01
 hijri: Muharram 02, 1441 AH
 source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 5935"
 category: [taharah, ablution]
-excerpt: "Sometimes I feel while I am washing my feet or directly or shortly after performing Wudu’ something coming out through the urethra in the form of drops. Then I look and I may find traces of one or more drops and I may find nothing at all."
+summary: "Sometimes I feel while I am washing my feet or directly or shortly after performing Wudu’ something coming out through the urethra in the form of drops. Then I look and I may find traces of one or more drops and I may find nothing at all."
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

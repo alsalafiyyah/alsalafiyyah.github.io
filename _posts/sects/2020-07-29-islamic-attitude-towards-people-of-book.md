@@ -7,7 +7,7 @@ category: [non-muslim]
 hijri: Dhul-Hijjah 8, 1441 AH
 lang: en
 locale: en
-excerpt: "The origin of the doctrines with which prophets and messengers were sent is one. Allah revealed scriptures that contained these doctrines to them."
+summary: "The origin of the doctrines with which prophets and messengers were sent is one. Allah revealed scriptures that contained these doctrines to them."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

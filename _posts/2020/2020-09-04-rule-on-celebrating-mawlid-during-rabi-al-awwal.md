@@ -6,7 +6,7 @@ source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 3257, Question 1"
 category: [festivals, bidah]
 hijri: Muharram 16, 1442 AH
 lang: en
-excerpt: "What is the ruling on celebrating the Mawlid (the Prophet’s birthday) in Rabi‘ Al-Awwal as a tribute to the Prophet"
+summary: "What is the ruling on celebrating the Mawlid (the Prophet’s birthday) in Rabi‘ Al-Awwal as a tribute to the Prophet"
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz

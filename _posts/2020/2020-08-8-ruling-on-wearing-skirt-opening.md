@@ -9,7 +9,7 @@ date: 2020/08/8
 note: true
 locale: en
 lang: en
-excerpt: "It is prohibited to wear clothes with drawings of beings with souls. This is based on the general prohibition on making Taswir of beings with souls or hanging their photos in the home."
+summary: "It is prohibited to wear clothes with drawings of beings with souls. This is based on the general prohibition on making Taswir of beings with souls or hanging their photos in the home."
 group1: true
 ---
 

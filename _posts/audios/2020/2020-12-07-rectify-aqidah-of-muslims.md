@@ -12,7 +12,7 @@ locale: en
 active: audios
 category: [fatwas,audios,manhaj]
 url: "https://binbaz.org.sa/fatwas/27649/%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A7%D9%84%D8%B9%D9%82%D9%8A%D8%AF%D8%A9"
-excerpt: "The Muslim who seeks knowledge must ponder over the Ayahs (verses) of the Qur'an and the words of the Hadiths."
+summary: "The Muslim who seeks knowledge must ponder over the Ayahs (verses) of the Qur'an and the words of the Hadiths."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

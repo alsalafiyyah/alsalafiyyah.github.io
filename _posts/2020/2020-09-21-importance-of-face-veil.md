@@ -8,7 +8,7 @@ lang: en
 category: [fatwas,women]
 source: "Majmu' Fatawa of Shaykh Ibn Baz 3"
 note: false
-excerpt: At the beginning of Islam, hijab was not prescribed for women to display their faces and hands in front of men. Then Allah prescribed it and made it obligatory for women to keep and protect them from the gazes of non-Mahrams.
+summary: At the beginning of Islam, hijab was not prescribed for women to display their faces and hands in front of men. Then Allah prescribed it and made it obligatory for women to keep and protect them from the gazes of non-Mahrams.
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa al-Lajnah ad-Daimah no. 8263-4"
 category: [funerals, fatwas, bidah]
 hijri: Dhul-Hijjah 24, 1441
-excerpt: It is impermissible to make such a Qiyas or analogy to conclude the permissibility of building domes on the graves of the dead, whether righteous people or otherwise.
+summary: It is impermissible to make such a Qiyas or analogy to conclude the permissibility of building domes on the graves of the dead, whether righteous people or otherwise.
 date: 2020/08/14
 shaykhs: 
  - Shaykh Abdul-Aziz ibn Baz

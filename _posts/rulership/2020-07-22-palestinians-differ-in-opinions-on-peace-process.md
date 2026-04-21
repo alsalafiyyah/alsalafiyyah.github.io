@@ -8,7 +8,7 @@ hijri: Dhul-Qa'dah 31, 1441 AH
 lang: en
 note: false
 locale: en
-excerpt: "My advice for all the Palestinians is to agree upon making peace and cooperate in righteousness and piety in order to spare the blood of the people, gather them on Al-Haqq, and defeat the enemies who call for separation and conflict."
+summary: "My advice for all the Palestinians is to agree upon making peace and cooperate in righteousness and piety in order to spare the blood of the people, gather them on Al-Haqq, and defeat the enemies who call for separation and conflict."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

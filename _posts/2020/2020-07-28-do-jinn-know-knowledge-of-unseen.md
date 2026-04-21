@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 7, 1441 AH
 lang: en
 locale: en
 note: true
-excerpt: "Knowledge of Ghayb is one of the exclusive attributes of Rububiyyah (Lordship); no one knows the Ghayb of the heavens and the earth except Allah."
+summary: "Knowledge of Ghayb is one of the exclusive attributes of Rububiyyah (Lordship); no one knows the Ghayb of the heavens and the earth except Allah."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

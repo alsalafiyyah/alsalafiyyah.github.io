@@ -7,7 +7,7 @@ hijri: Muharram 11, 1442 AH
 date: 2020/08/30
 lang: en
 category: ["tafsir", hadiths, mawdu-daif]
-excerpt: "It is said that the Messenger of Allah (peace be upon him) said: 'Fear Allah, and fear those who fear Him.' Is this a Sahih (authentic) Hadith?"
+summary: "It is said that the Messenger of Allah (peace be upon him) said: 'Fear Allah, and fear those who fear Him.' Is this a Sahih (authentic) Hadith?"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

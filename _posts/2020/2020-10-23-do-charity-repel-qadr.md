@@ -10,7 +10,7 @@ lang: en
 locale: en
 category: [fatwas]
 note: false
-excerpt: "A Muslim should be keen to venture means of goodness and avoid means of evil, asking Allah to guide and help them do what pleases Him and avoid every evil."
+summary: "A Muslim should be keen to venture means of goodness and avoid means of evil, asking Allah to guide and help them do what pleases Him and avoid every evil."
 muftis:
   shaykh: 
     - name: Shaykh Ibn Baz

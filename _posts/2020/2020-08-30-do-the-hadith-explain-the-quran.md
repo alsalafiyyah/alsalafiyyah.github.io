@@ -9,7 +9,7 @@ note: true
 locale: en
 uid: do-the-hadith-explain-the-quran
 category: [fatwas,hadiths]
-excerpt: "The Sunnah explains the Qur'an. Anyone who denies the authority of the Sunnah is a kafir because they deny one of the agreed upon principles of Islam."
+summary: "The Sunnah explains the Qur'an. Anyone who denies the authority of the Sunnah is a kafir because they deny one of the agreed upon principles of Islam."
 group2: true
 article_taken_from: 
   taken_from:

@@ -10,7 +10,7 @@ lang: en
 note: false
 locale: en
 uid: tablighi-jamaat-offering-salah-in-masjids-containing-graves
-excerpt: "Jama'at Tabligh does not have good knowledge in matters related to 'Aqidah (creed). Thus, it is not permissible for anyone to set out with them."
+summary: "Jama'at Tabligh does not have good knowledge in matters related to 'Aqidah (creed). Thus, it is not permissible for anyone to set out with them."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

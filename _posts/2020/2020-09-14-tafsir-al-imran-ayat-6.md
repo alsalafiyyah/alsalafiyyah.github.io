@@ -10,7 +10,7 @@ uid: tafsir-al-imran-ayat-6
 category: [quran]
 note: true
 source: "Fatwas of the Permanent Committee no. 1542-2"
-excerpt: "Allah is the All-Wise in His disposing of affairs, in His creation and in His legislation. This also refutes the allegations of the Christians who allege that Jesus is the son of Allah, because Allah is He who fashioned him in the womb of his mother Maryam."
+summary: "Allah is the All-Wise in His disposing of affairs, in His creation and in His legislation. This also refutes the allegations of the Christians who allege that Jesus is the son of Allah, because Allah is He who fashioned him in the womb of his mother Maryam."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

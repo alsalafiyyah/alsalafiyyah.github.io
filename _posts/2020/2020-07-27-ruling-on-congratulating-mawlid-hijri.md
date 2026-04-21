@@ -7,7 +7,7 @@ category: [festivals, bidah]
 hijri: Dhu al-Hijjah 6, 1441 AH
 lang: en
 note: true
-excerpt: "Is it permissible to congratulate non-Muslims on the occasion of the new Gregorian year, the new Hijri (lunar) year and Mawlid?"
+summary: "Is it permissible to congratulate non-Muslims on the occasion of the new Gregorian year, the new Hijri (lunar) year and Mawlid?"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Aal Al-Shaykh

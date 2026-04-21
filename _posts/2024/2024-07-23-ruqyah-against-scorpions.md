@@ -10,7 +10,7 @@ note: true
 group1: true
 locale: en
 lang: en
-excerpt: The Ruqyah (recitation for healing or protection) you mentioned is false. Only authentic Ruqyah with Qur'an and supplications authentically reported from the Prophet is permissible.
+summary: The Ruqyah (recitation for healing or protection) you mentioned is false. Only authentic Ruqyah with Qur'an and supplications authentically reported from the Prophet is permissible.
 article_taken_from: 
   taken_from:
     - web_title: الرقية الصحيحة ما كانت بالقرآن والأدعية الثابتة  

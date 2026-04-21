@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 7, 1441
 lang: en
 locale: en
 note: true
-excerpt: "The claim that this man is Al-Mahdy and that the Prophet (peace be upon him) used to walk before his army and give him glad tidings of triumph is an open lie and contradiction to the Shari'ah and the realities agreed upon among Muslims."
+summary: "The claim that this man is Al-Mahdy and that the Prophet (peace be upon him) used to walk before his army and give him glad tidings of triumph is an open lie and contradiction to the Shari'ah and the realities agreed upon among Muslims."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

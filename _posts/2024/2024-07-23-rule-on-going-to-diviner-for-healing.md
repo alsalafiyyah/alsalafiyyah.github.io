@@ -10,7 +10,7 @@ note: true
 group6: true
 locale: en
 lang: en
-excerpt: It is unlawful to go to soothsayers and diviners who claim the knowledge of the unseen and work with talisman and polytheistic spells even if people describe them as Al-Sayyid.
+summary: It is unlawful to go to soothsayers and diviners who claim the knowledge of the unseen and work with talisman and polytheistic spells even if people describe them as Al-Sayyid.
 article_taken_from: 
   taken_from:
     - web_title: الذهاب إلى السيد في حالات المرض 

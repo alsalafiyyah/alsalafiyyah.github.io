@@ -6,7 +6,7 @@ date: 2019-09-01
 hijri: "Muharram 02, 1441 AH"
 source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 10542"
 category: [taharah, ablution]
-excerpt: "If a person performs Wudu’ (ablution) and hears his stomach rumble, but does not pass wind from his back passage, what is the ruling on this? Does he still have Wudu’ or does this nullify it?"
+summary: "If a person performs Wudu’ (ablution) and hears his stomach rumble, but does not pass wind from his back passage, what is the ruling on this? Does he still have Wudu’ or does this nullify it?"
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

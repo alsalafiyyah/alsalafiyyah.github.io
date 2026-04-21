@@ -11,7 +11,7 @@ lang: en
 note: false
 locale: en
 uid: ruling-on-sufis-who-stab-themselves-with-daggers-knives
-excerpt: "These people are liars and impostors whose acts have no evidence at all. Rather, they are liars who use things and tricks that confuse people in order to make them think that they stab themselves."
+summary: "These people are liars and impostors whose acts have no evidence at all. Rather, they are liars who use things and tricks that confuse people in order to make them think that they stab themselves."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

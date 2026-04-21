@@ -3,7 +3,7 @@ layout: post
 title: "Ruling on organ transplants"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 8/34"
-excerpt: "I have a reservation with regard to this matter. The Muslim should be respected and taking away any of his organs will cause harm."
+summary: "I have a reservation with regard to this matter. The Muslim should be respected and taking away any of his organs will cause harm."
 category: [treatments,fatwas]
 hijri: Dhul-Qa'dah 31, 1441
 date: 2020/07/22

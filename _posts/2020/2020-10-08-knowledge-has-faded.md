@@ -6,7 +6,7 @@ hijri: Safar 21, 1442 AH
 category: [misc]
 lang: en
 source: "Majmu' Fatawa p. 7/231, question 1"
-excerpt: "Indeed, Allah does not take away (religious) knowledge by pulling it away from the (chests of) people. However, Allah takes the (religious) knowledge by taking away (inflicting death on) the scholars, till when none of the (religious learned men) remains, people will take as their leaders ignorant persons, who when consulted will give their verdict without knowledge. So they will go astray and will lead the people astray."
+summary: "Indeed, Allah does not take away (religious) knowledge by pulling it away from the (chests of) people. However, Allah takes the (religious) knowledge by taking away (inflicting death on) the scholars, till when none of the (religious learned men) remains, people will take as their leaders ignorant persons, who when consulted will give their verdict without knowledge. So they will go astray and will lead the people astray."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

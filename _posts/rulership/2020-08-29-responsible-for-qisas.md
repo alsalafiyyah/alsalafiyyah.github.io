@@ -8,7 +8,7 @@ lang: en
 note: true
 uid: responsible-for-qisas
 category: ["rulership", hudud]
-excerpt: "It is not permissible to resort to Qisas (just retaliation) unless the crime is legally confirmed through the legal court. Only the ruler should bring the retaliation not the individuals because they are not entitled to do so; because this would result in much harm and chaos."
+summary: "It is not permissible to resort to Qisas (just retaliation) unless the crime is legally confirmed through the legal court. Only the ruler should bring the retaliation not the individuals because they are not entitled to do so; because this would result in much harm and chaos."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -9,7 +9,7 @@ locale: en
 lang: en
 date: 2020/08/8
 note: true
-excerpt: "This claim is speaking in the Name of Allah without knowledge and ruling according to one's own desires."
+summary: "This claim is speaking in the Name of Allah without knowledge and ruling according to one's own desires."
 muftis:
   chairman: 
     - name: Shaykh Ibn baz

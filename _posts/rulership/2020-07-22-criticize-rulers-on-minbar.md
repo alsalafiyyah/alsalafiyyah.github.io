@@ -8,7 +8,7 @@ hijri: Dhul-Qa'dah 31, 1441 AH
 lang: en
 note: false
 uid: criticize-rulers-on-minbar
-excerpt: "It was not the practice of the Salaf to make the defects of their rulers known by mentioning them on the Minbar. This is because doing so results in anarchy, disobedience, and harmful consequences."
+summary: "It was not the practice of the Salaf to make the defects of their rulers known by mentioning them on the Minbar. This is because doing so results in anarchy, disobedience, and harmful consequences."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

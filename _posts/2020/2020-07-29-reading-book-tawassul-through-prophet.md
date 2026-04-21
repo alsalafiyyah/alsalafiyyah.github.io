@@ -10,7 +10,7 @@ group1: true
 note: true
 locale: en
 lang: en
-excerpt: "What is the ruling on reading the book entitled Dala’il Al-Khayrat by Imam Muhammad ibn Sulayman Al-Jazuly which contains daily Awrad (oft-recited invocations)"
+summary: "What is the ruling on reading the book entitled Dala’il Al-Khayrat by Imam Muhammad ibn Sulayman Al-Jazuly which contains daily Awrad (oft-recited invocations)"
 ---
 
 ### Question: 

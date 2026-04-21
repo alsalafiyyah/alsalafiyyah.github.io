@@ -11,7 +11,7 @@ active: muqolat
 date: 2024-09-05
 category: [muqolat]
 note: false
-excerpt: "When God sent Muhammad (peace be upon him) the people on earth were of two groups: the people of the Book, and the pretenders of Faith (the hypocrites) who followed no Book."
+summary: "When God sent Muhammad (peace be upon him) the people on earth were of two groups: the people of the Book, and the pretenders of Faith (the hypocrites) who followed no Book."
 muftis:
   shaykh: 
     - name: "Imam Ibn Al-Qayyim"

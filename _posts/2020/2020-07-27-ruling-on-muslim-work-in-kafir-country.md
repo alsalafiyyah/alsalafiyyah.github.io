@@ -7,7 +7,7 @@ category: [fatwas,walabara]
 hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
-excerpt: "It is permissible for Muslims to work in non-Muslim countries if they feel safe in themselves from temptation in their religion."
+summary: "It is permissible for Muslims to work in non-Muslim countries if they feel safe in themselves from temptation in their religion."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

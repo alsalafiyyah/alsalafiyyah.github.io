@@ -10,7 +10,7 @@ lang: en
 locale: en
 active: wahhabi
 category: [fatwas,audios,wahhabism]
-excerpt: "Wahhabism is a word used by the enemies of Salafiyyah. They use it to describe those who followed Imam Muhammad ibn 'Abdul-Wahhab ibn Sulayman ibn Ali Al-Tamimi Al-Hanbali, who died in 1206 AH in Al-Dir'iyyah."
+summary: "Wahhabism is a word used by the enemies of Salafiyyah. They use it to describe those who followed Imam Muhammad ibn 'Abdul-Wahhab ibn Sulayman ibn Ali Al-Tamimi Al-Hanbali, who died in 1206 AH in Al-Dir'iyyah."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

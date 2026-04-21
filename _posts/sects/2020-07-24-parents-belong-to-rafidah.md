@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 3, 1441
 locale: en
 lang: en
 note: false
-excerpt: "He should call them to Allah and advise them. Yet, If he realizes that they are adhering to that which is false, he should disown them, but at the same time fear Allah in dealing with them."
+summary: "He should call them to Allah and advise them. Yet, If he realizes that they are adhering to that which is false, he should disown them, but at the same time fear Allah in dealing with them."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

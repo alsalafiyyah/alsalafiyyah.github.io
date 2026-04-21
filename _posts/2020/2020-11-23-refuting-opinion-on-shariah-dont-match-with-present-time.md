@@ -8,7 +8,7 @@ lang: en
 locale: en
 category: [refutals,fatwas,riddah]
 note: false
-excerpt: "Whoever claims that overlooking these rulings leads to more well-being, or deliberately supports such claim, is considered Kafir (disbeliever)."
+summary: "Whoever claims that overlooking these rulings leads to more well-being, or deliberately supports such claim, is considered Kafir (disbeliever)."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

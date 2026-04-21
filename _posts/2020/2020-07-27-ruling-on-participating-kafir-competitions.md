@@ -9,7 +9,7 @@ lang: en
 note: true
 locale: en
 uid: ruling-on-participating-kafir-competitions
-excerpt: "The Gospel that exists today is not the same that Allah, Glorified and Exalted be He, sent down. It contains a great deal of Tahrif (distortion of the meaning), lies, additions, omissions, and sayings that are unbefitting to Allah, the Exalted."
+summary: "The Gospel that exists today is not the same that Allah, Glorified and Exalted be He, sent down. It contains a great deal of Tahrif (distortion of the meaning), lies, additions, omissions, and sayings that are unbefitting to Allah, the Exalted."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

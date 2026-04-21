@@ -9,7 +9,7 @@ category: [fatwas,sects,rulership]
 locale: en
 lang: en
 translated_by: Abul-Irbad Abid Zargar
-excerpt: Rebellion against the rulers occurs by the sword which is the most extreme form of rebellion and it also occurs by speech, by way of criticising, abusing, and speaking about them in gatherings and on pulpits.
+summary: Rebellion against the rulers occurs by the sword which is the most extreme form of rebellion and it also occurs by speech, by way of criticising, abusing, and speaking about them in gatherings and on pulpits.
 muftis:
   shaykh: 
     - name: Shaykh Salih Al-Fawzan

@@ -6,7 +6,7 @@ category: [bidah, music, festivals]
 source: "Fatawa Al-Lajnah Al-Da'imah no. 18440-2"
 hijri: Dhul-Qa'dah 20, 1441 AH
 lang: en
-excerpt: "Many Muslims celebrate the Prophethood of our Messenger with musical songs just as the Jews and Christians do. They mention Allah while music is played."
+summary: "Many Muslims celebrate the Prophethood of our Messenger with musical songs just as the Jews and Christians do. They mention Allah while music is played."
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz

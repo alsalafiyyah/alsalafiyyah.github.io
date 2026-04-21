@@ -3,7 +3,7 @@ layout: page
 title: Rulership
 active: rulership
 permalink: /rulership/
-excerpt: "Collection of fatwas concerning the rulers, obeying them, and the ruling on rebel against them, and so on."
+summary: "Collection of fatwas concerning the rulers, obeying them, and the ruling on rebel against them, and so on."
 ---
 <div id="fatwa-container"></div>
 <script id="fatwa-data" type="application/json">
@@ -15,7 +15,7 @@ excerpt: "Collection of fatwas concerning the rulers, obeying them, and the ruli
       "url": {{ post.url | jsonify }},
       "date": {{ post.date | date: "%Y-%m-%d" | jsonify }},
       "hijri": {{ post.hijri | jsonify }},
-      "excerpt": {{ post.content | strip_html | truncatewords: 20 | jsonify }}
+      "summary": {{ post.content | strip_html | truncatewords: 20 | jsonify }}
     }{% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]

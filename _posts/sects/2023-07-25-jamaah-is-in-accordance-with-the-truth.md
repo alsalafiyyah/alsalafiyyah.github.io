@@ -7,7 +7,7 @@ source: "Majmu’ Fatawa 8/179"
 lang: en
 category: [sects]
 note: false
-excerpt: The Muslim has to seek the truth. If he finds an Islamic center which promotes the truth, or a group in any place which promotes the truth.
+summary: The Muslim has to seek the truth. If he finds an Islamic center which promotes the truth, or a group in any place which promotes the truth.
 muftis:
   shaykh: 
     - name: Shaykh Ibn Baz

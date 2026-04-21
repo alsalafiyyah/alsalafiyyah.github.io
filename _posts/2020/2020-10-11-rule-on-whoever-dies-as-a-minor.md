@@ -7,7 +7,7 @@ source: "Fatawa Al-Lajnah Al-Da'imah no. 7790-4"
 lang: en
 note: true
 category: [ahl-fatrah, non-muslim]
-excerpt: "This baby will be dealt with in this world as his family. If he is born to a Muslim family, then his body will be washed and the funeral prayer will be performed for him."
+summary: "This baby will be dealt with in this world as his family. If he is born to a Muslim family, then his body will be washed and the funeral prayer will be performed for him."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

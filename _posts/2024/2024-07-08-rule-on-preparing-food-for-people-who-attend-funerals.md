@@ -10,7 +10,7 @@ note: true
 group1: true
 locale: en
 lang: en
-excerpt: Is it permissible for the family of the deceased to cook food during the same day in which a person passes away to serve it to those who attend the funeral procession.
+summary: Is it permissible for the family of the deceased to cook food during the same day in which a person passes away to serve it to those who attend the funeral procession.
 article_taken_from: 
   taken_from:
     - web_title:  دعوى أن القبر مظلم حتى يطعم عن الميت

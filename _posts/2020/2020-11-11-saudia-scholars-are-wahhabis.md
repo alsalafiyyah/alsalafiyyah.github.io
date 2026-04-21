@@ -11,7 +11,7 @@ category: [fatwas,audios,wahhabism]
 mp3: https://alsalafiyyah.github.io/assets/audios/saudia-scholars-wahhabis.mp3
 link: http://www.albaseerah.org/forum/showpost.php?p=14449&postcount=9
 translated_by: Albaseerah
-excerpt: "The four madhahib are studies for their benefit and this is to know the proofs that they come with and to take the best opinion from between them. We take from the strongest saying even if it is in opposition to the Hanbali madhab."
+summary: "The four madhahib are studies for their benefit and this is to know the proofs that they come with and to take the best opinion from between them. We take from the strongest saying even if it is in opposition to the Hanbali madhab."
 muftis:
   shaykh: 
     - name: Shaykh Salih Fawzan

@@ -9,7 +9,7 @@ date: 2020-09-20
 note: true
 source: "Fatawa al-Lajnah ad-Da'imah, Fatwa no. 2872, Question 1"
 category: [fatwas,sects,refutals]
-excerpt: "The theory of Evolution which is renowned as the theory of Darwin contradicts the Qur'an, Sunnah, and consensus of scholars."
+summary: "The theory of Evolution which is renowned as the theory of Darwin contradicts the Qur'an, Sunnah, and consensus of scholars."
 article_taken_from: 
   taken_from:
     - web_title: التطور والارتقاء نظرية داروين

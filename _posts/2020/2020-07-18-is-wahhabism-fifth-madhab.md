@@ -9,7 +9,7 @@ locale: en
 lang: en
 active: wahhabi
 category: [fatwas,manhaj,wahhabism]
-excerpt: "What is Wahhabism? is it a fifth Madhab (School of Jurisprudence) or follows one of the four Madhabs?"
+summary: "What is Wahhabism? is it a fifth Madhab (School of Jurisprudence) or follows one of the four Madhabs?"
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

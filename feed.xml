@@ -68,8 +68,8 @@ layout: null
                 <category term="{{ tag | xml_escape }}" />
             {% endfor %}
 
-            {% if post.excerpt and post.excerpt != empty %}
-                <summary type="html">{{ post.excerpt | markdownify | strip_html | normalize_whitespace | xml_escape }}</summary>
+            {% if post.summary and post.summary != empty %}
+                <summary type="html">{{ post.summary | markdownify | strip_html | normalize_whitespace | xml_escape }}</summary>
             {% endif %}
 
             {% capture mastheadImagePath %}{{ site.url }}/img/{{ post.path | replace:'_posts','posts' | replace:'.html','' | replace:'.md','' }}.jpg{% endcapture %}

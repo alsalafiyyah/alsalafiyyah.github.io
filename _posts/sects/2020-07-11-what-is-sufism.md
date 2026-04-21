@@ -8,7 +8,7 @@ hijri: Dhul-Qa'dah 20, 1441
 locale: en
 lang: en
 note: true
-excerpt: "In general, Sufism as it exists at the present time refers to a misguided group, which adopts a Manhaj (methodology) in 'Ibadah (worship) that opposes the Sunnah."
+summary: "In general, Sufism as it exists at the present time refers to a misguided group, which adopts a Manhaj (methodology) in 'Ibadah (worship) that opposes the Sunnah."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

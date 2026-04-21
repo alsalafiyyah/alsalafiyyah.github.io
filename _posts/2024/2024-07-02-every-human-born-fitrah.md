@@ -10,7 +10,7 @@ note: true
 group2: true
 locale: en
 lang: en
-excerpt: Every child is born in a state of divinely endowed natural disposition of monotheism/Islam, then his parents make him into a Jew or a Christian or a Magian.
+summary: Every child is born in a state of divinely endowed natural disposition of monotheism/Islam, then his parents make him into a Jew or a Christian or a Magian.
 article_taken_from: 
   taken_from:
     - web_title: الإنسان يولد على فطرة التوحيد

@@ -8,7 +8,7 @@ hijri: Muharram 15, 1442 AH
 lang: en
 locale: en
 note: true
-excerpt: "There are many Signs of the Hour, and some of them are included in the answer that the Prophet gave to Gabriel when he asked him about the Signs of the Hour."
+summary: "There are many Signs of the Hour, and some of them are included in the answer that the Prophet gave to Gabriel when he asked him about the Signs of the Hour."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

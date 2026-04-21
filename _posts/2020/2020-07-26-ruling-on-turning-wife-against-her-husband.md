@@ -9,7 +9,7 @@ date: 2020/07/26
 locale: en
 lang: en
 note: true
-excerpt: It is Haram to turn a wife against her husband, based on the evidence reported in this regard.
+summary: It is Haram to turn a wife against her husband, based on the evidence reported in this regard.
 shaykhs: 
  - Shaykh Abdul-Aziz ibn Baz
  - Shaykh Abdul-Razzaq al-Afifi

@@ -8,7 +8,7 @@ lang: en
 locale: en
 category: [hadiths,fatwas]
 note: true
-excerpt: "This was not a regular practice of the Prophet, but was only done twice or thrice according to the number of incidents. The Prophet's Sahabah, being the earnest of men to follow the Prophet's line of conduct and to benefit their fellow Muslims, are not known to have performed this practice."
+summary: "This was not a regular practice of the Prophet, but was only done twice or thrice according to the number of incidents. The Prophet's Sahabah, being the earnest of men to follow the Prophet's line of conduct and to benefit their fellow Muslims, are not known to have performed this practice."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

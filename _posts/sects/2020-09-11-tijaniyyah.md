@@ -9,7 +9,7 @@ note: false
 uid: tijaniyyah
 category: [sects]
 source: "Majallat al-Buhuth, issue no. 39, pg. 145-148"
-excerpt: "Tijaniyyah is an innovated Tariqah and Muslims are not permitted to follow innovated Tariqahs, whether the Tijaniyyah or any other."
+summary: "Tijaniyyah is an innovated Tariqah and Muslims are not permitted to follow innovated Tariqahs, whether the Tijaniyyah or any other."
 muftis:
   shaykh: 
     - name: Shaykh Ibn Baz

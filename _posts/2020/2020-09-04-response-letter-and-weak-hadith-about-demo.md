@@ -8,7 +8,7 @@ hijri: Muharram 16, 1442
 date: 2020-09-04
 lang: en
 note: false
-excerpt: "These acts are done out of displaying the rites of Islam and have nothing to do with demonstrations."
+summary: "These acts are done out of displaying the rites of Islam and have nothing to do with demonstrations."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

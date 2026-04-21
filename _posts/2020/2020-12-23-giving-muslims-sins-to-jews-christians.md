@@ -7,7 +7,7 @@ source: "Fatawa Al-Lajnah Al-Da'imah no. 2718-2"
 lang: en
 category: [afterlife]
 note: true
-excerpt: "Those who invite others to follow the misguidance that they follow, will carry the same sins as those committed by those who follow them, without their own sins being reduced at all."
+summary: "Those who invite others to follow the misguidance that they follow, will carry the same sins as those committed by those who follow them, without their own sins being reduced at all."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

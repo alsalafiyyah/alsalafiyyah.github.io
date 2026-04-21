@@ -4,7 +4,7 @@ title: "Ruling on treating women's breasts"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 20919"
 hijri: Muharram 15, 1442
-excerpt: My wife is ill with breast atrophy. Even though the breasts were improving during the period of breastfeeding, they would atrophy soon after.
+summary: My wife is ill with breast atrophy. Even though the breasts were improving during the period of breastfeeding, they would atrophy soon after.
 date: 2020/09/3
 category: [treatments,fatwas]
 note: true

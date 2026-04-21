@@ -9,7 +9,7 @@ locale: en
 lang: en
 note: true
 category: [fatwas, zina]
-excerpt: "There are other reasons unknown to many people behind the prohibition of Zina and protecting lineage is only one of them. Even if we assume that it is the only reason, Zina cannot be considered permissible once the risk of pregnancy is eliminated."
+summary: "There are other reasons unknown to many people behind the prohibition of Zina and protecting lineage is only one of them. Even if we assume that it is the only reason, Zina cannot be considered permissible once the risk of pregnancy is eliminated."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

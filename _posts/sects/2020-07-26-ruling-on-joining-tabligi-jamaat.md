@@ -9,7 +9,7 @@ lang: en
 note: true
 locale: en
 uid: ruling-on-joining-tabligi-jamaat
-excerpt: "The acts of the group you mentioned count as Bid'ahs (innovations in religion). You are not allowed to join them unless they adhere to the teachings stated in the Book of Allah and in the Sunnah and stop observing Bid'ah in deeds, words and beliefs."
+summary: "The acts of the group you mentioned count as Bid'ahs (innovations in religion). You are not allowed to join them unless they adhere to the teachings stated in the Book of Allah and in the Sunnah and stop observing Bid'ah in deeds, words and beliefs."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

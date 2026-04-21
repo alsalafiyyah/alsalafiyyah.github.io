@@ -9,7 +9,7 @@ date: 2020-07-27
 lang: en
 locale: en
 note: true
-excerpt: "It is permissible to visit such relatives on condition that the person visiting them advises and instructs them to stop their love of disbelievers."
+summary: "It is permissible to visit such relatives on condition that the person visiting them advises and instructs them to stop their love of disbelievers."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

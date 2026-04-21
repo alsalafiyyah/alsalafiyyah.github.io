@@ -7,7 +7,7 @@ category: [sects]
 hijri: Dhul-Hijjah 7, 1441
 locale: en
 lang: en
-excerpt: "What you have mentioned in regards to women who belong to Bohras and kiss the hands and feet of their leader and each of his family members, is impermissible. There is no report affirming that this act was done to the Prophet (peace be upon him) or any of the Rightly-Guided Caliphs."
+summary: "What you have mentioned in regards to women who belong to Bohras and kiss the hands and feet of their leader and each of his family members, is impermissible. There is no report affirming that this act was done to the Prophet (peace be upon him) or any of the Rightly-Guided Caliphs."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

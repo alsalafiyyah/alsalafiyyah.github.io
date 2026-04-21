@@ -6,7 +6,7 @@ source: "Fatawa Al-Lajnah Al-Da'imah no. 21279"
 hijri: Muharram 10, 1442 AH
 lang: en
 category: [misc]
-excerpt: "Having sex with animals is a bad deed, transgression to bounds set by Allah and contradicts the Fitrah (natural disposition) with which a man was created. Allah (Glorified be He) does not allow people to have sex except with one's wife or slave girl."
+summary: "Having sex with animals is a bad deed, transgression to bounds set by Allah and contradicts the Fitrah (natural disposition) with which a man was created. Allah (Glorified be He) does not allow people to have sex except with one's wife or slave girl."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Aal Al-Shaykh

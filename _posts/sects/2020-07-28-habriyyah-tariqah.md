@@ -9,7 +9,7 @@ lang: en
 locale: en
 note: true
 uid: habriyyah-tariqah
-excerpt: "The only sound and truthful order is that which was introduced by the Prophet (peace be upon him) and followed by his Companions. Thus, the one who follows his example will be on the right path."
+summary: "The only sound and truthful order is that which was introduced by the Prophet (peace be upon him) and followed by his Companions. Thus, the one who follows his example will be on the right path."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

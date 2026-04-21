@@ -7,7 +7,7 @@ source: "Fatawa Al-Lajnah Al-Da'imah no. 6542-8"
 lang: en
 note: true
 category: [ahl-fatrah, non-muslim]
-excerpt: "The preponderant view is that Allah will test them with some commands on the Day of Resurrection; whoever is obedient on that day will enter Jannah (Paradise) and whoever disobeys will enter Hell."
+summary: "The preponderant view is that Allah will test them with some commands on the Day of Resurrection; whoever is obedient on that day will enter Jannah (Paradise) and whoever disobeys will enter Hell."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

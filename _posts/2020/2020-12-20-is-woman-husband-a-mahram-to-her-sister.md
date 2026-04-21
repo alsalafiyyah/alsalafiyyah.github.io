@@ -7,7 +7,7 @@ source: "Fatawa Shaykh Ibn Baz p. 20/289"
 lang: en
 category: [marriage]
 note: false
-excerpt: "No, a woman's husband is not a Mahram to her sister or paternal aunt. The husband of a woman is a Mahram neither to her sister, nor to her maternal or paternal aunts."
+summary: "No, a woman's husband is not a Mahram to her sister or paternal aunt. The husband of a woman is a Mahram neither to her sister, nor to her maternal or paternal aunts."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

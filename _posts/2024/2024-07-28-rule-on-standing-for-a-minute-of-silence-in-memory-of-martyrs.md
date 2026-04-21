@@ -8,7 +8,7 @@ source: "Fatawa al-Lajnah ad-Da'imah, Fatwa no.1674‏, Question 4"
 category: [fatwas, funerals]
 locale: en
 lang: en
-excerpt: This is considered as unacceptable or disapproved of by Islamic law and Muslims of sound intellect, and bid`ah, 
+summary: This is considered as unacceptable or disapproved of by Islamic law and Muslims of sound intellect, and bid`ah, 
 group6: true
 note: true
 article_taken_from: 

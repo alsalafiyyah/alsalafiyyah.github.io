@@ -9,7 +9,7 @@ category: [fatwas]
 note: false
 locale: en
 lang: en
-excerpt: Shyness that prevents you from speaking the truth is not shyness at all, but only weakness. The shyness that is approved by the Shariah is shyness that prevents you from falsehood and evil.
+summary: Shyness that prevents you from speaking the truth is not shyness at all, but only weakness. The shyness that is approved by the Shariah is shyness that prevents you from falsehood and evil.
 article_taken_from: 
   taken_from:
     - web_title: To Be Shy From Speaking the Truth is Merely to Be Weak

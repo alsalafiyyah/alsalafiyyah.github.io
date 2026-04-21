@@ -7,7 +7,7 @@ source: "Fatawa Al-Lajnah Al-Da'imah no. 1353-2"
 lang: en
 category: [afterlife]
 note: true
-excerpt: "Jannah cannot be the corresponding reward for one's good deeds. In other words, deeds, however great they may be, are not enough a price for entering Jannah. Rather, doing good deeds should be accompanied by Allah's forgiveness and mercy in order to qualify for entering Jannah."
+summary: "Jannah cannot be the corresponding reward for one's good deeds. In other words, deeds, however great they may be, are not enough a price for entering Jannah. Rather, doing good deeds should be accompanied by Allah's forgiveness and mercy in order to qualify for entering Jannah."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

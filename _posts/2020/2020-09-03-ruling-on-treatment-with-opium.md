@@ -4,7 +4,7 @@ title: "Ruling on treatment with opium"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 3201"
 hijri: Muharram 15, 1442
-excerpt: It is not permissible to seek treatment through anything that Allah has prohibited, like opium, hashish, alcoholic drinks or any drug or intoxicant of the sort.
+summary: It is not permissible to seek treatment through anything that Allah has prohibited, like opium, hashish, alcoholic drinks or any drug or intoxicant of the sort.
 locale: en
 lang: en
 note: true

@@ -8,7 +8,7 @@ lang: en
 locale: en
 note: false
 category: [fatwas,walabara]
-excerpt: "Al-Wala' wal-Bara' is to love and be loyal to the believers and to hate the disbelievers and their faith. Hostility and hatred to them do not mean that you are entitled to oppress or transgress against disbelievers, so long as they do not fight you."
+summary: "Al-Wala' wal-Bara' is to love and be loyal to the believers and to hate the disbelievers and their faith. Hostility and hatred to them do not mean that you are entitled to oppress or transgress against disbelievers, so long as they do not fight you."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz Ibn Baz

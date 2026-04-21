@@ -8,7 +8,7 @@ locale: en
 date: 2024-09-12
 category: [fatwas]
 note: true
-excerpt: "If there is a religious or worldly need for learning the English language or other foreign languages, there is no harm in learning it."
+summary: "If there is a religious or worldly need for learning the English language or other foreign languages, there is no harm in learning it."
 group1: true
 ---
 

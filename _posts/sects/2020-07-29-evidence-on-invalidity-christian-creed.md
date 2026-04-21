@@ -7,7 +7,7 @@ category: [non-muslim,walabara]
 hijri: Dhul-Hijjah 8, 1441 AH
 lang: en
 locale: en
-excerpt: "Christianity was distorted and beliefs of Shirk invaded it, such as believing that Jesus Christ is Allah's Son, Allah Himself, or the third Ilah (God). It is a false religion."
+summary: "Christianity was distorted and beliefs of Shirk invaded it, such as believing that Jesus Christ is Allah's Son, Allah Himself, or the third Ilah (God). It is a false religion."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

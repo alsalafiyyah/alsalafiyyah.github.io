@@ -10,7 +10,7 @@ note: true
 group7: true
 locale: en
 lang: en
-excerpt: Visiting the graves of the pious people for the purpose of seeking their blessings or drawing closer to them, etc, is an act of Shirk.
+summary: Visiting the graves of the pious people for the purpose of seeking their blessings or drawing closer to them, etc, is an act of Shirk.
 article_taken_from: 
   taken_from:
     - web_title: زيارة قبر سيدي أرواز والإهداء له

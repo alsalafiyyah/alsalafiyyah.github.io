@@ -7,7 +7,7 @@ source: "Fatawa Al-Lajnah Al-Daimah no. 2467"
 lang: en
 category: [bidah]
 note: true
-excerpt: "The fundamental rule on the acts of 'Ibadah (worship) is that it is Tawqifiyyah (bound by a religious text and not subject to personal opinion)"
+summary: "The fundamental rule on the acts of 'Ibadah (worship) is that it is Tawqifiyyah (bound by a religious text and not subject to personal opinion)"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

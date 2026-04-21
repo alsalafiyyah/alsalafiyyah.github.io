@@ -9,7 +9,7 @@ category: [fatwas, hisbah]
 group1: true
 locale: en
 lang: en
-excerpt: "The ruling on this varies according to the degree of availability of the scholars and their level of knowledge and rank."
+summary: "The ruling on this varies according to the degree of availability of the scholars and their level of knowledge and rank."
 ---
 
 ### Question:

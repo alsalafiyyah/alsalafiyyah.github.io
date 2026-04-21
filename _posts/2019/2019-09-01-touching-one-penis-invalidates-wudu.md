@@ -6,7 +6,7 @@ date: 2019-09-01
 hijri: Muharram 02, 1441 AH
 source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 6990 question no. 2"
 category: [taharah, ablution, hadiths, mawdu-daif]
-excerpt: "Hadith that indicates that if someone touches his penis he must perform Wudu’. The basic ruling is that the imperative in these Hadith denotes obligation or duty."
+summary: "Hadith that indicates that if someone touches his penis he must perform Wudu’. The basic ruling is that the imperative in these Hadith denotes obligation or duty."
 author: "Permanent Committee of KSA"
 muftis:
   chairman: 

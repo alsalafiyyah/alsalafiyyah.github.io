@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "It is not permissible to import pocketknives on which the logo referred to above, i.e. A cross, is inscribed. Actually, it involves propagating the Christian logo among Muslims."
+summary: "It is not permissible to import pocketknives on which the logo referred to above, i.e. A cross, is inscribed. Actually, it involves propagating the Christian logo among Muslims."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

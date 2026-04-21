@@ -5,7 +5,7 @@ title: "A poem attributed to Imam Abu Hanifah"
 hijri: Muharram 27, 1442 AH
 lang: en
 source: Fatwas of the Permanent Committee no. 21285
-excerpt: "This poem is a lie against Imam Abu Hanifah. It is, thus, not permissible to attribute it to him."
+summary: "This poem is a lie against Imam Abu Hanifah. It is, thus, not permissible to attribute it to him."
 category: [fatwas,tawassul]
 muftis:
   chairman: 

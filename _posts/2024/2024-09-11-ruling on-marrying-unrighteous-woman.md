@@ -9,7 +9,7 @@ locale: en
 date: 2024-09-11
 category: [fatwas,marriage,women]
 note: false
-excerpt: "What I would like to advise the Sunni husband is to choose a woman who brings him happiness in his worldly life as well as in the Hereafter."
+summary: "What I would like to advise the Sunni husband is to choose a woman who brings him happiness in his worldly life as well as in the Hereafter."
 article_taken_from: 
   taken_from:
     - web_title: Concerning asking in marriage women who are not religiously committed 

@@ -2,7 +2,7 @@
 layout: post
 title: "The meaning of 'Newly invented things'"
 publisher: "alsalafiyyah@icloud.com"
-excerpt: "The Hadith of the Prophet (peace be upon him): Beware of newly invented things (in religion) includes all things which people have introduced into the Islamic religion."
+summary: "The Hadith of the Prophet (peace be upon him): Beware of newly invented things (in religion) includes all things which people have introduced into the Islamic religion."
 hijri: Safar 8, 1442
 date: 2020-10-03
 source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 2139 Question 1"

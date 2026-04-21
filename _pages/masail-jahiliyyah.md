@@ -10,7 +10,7 @@ lang: en
 active: muqolat
 robots: noindex
 permalink: /masail-jahiliyyah/
-excerpt: "The following are some of the Characteristics of the Age of Ignorance which have returned to the Muslim nation."
+summary: "The following are some of the Characteristics of the Age of Ignorance which have returned to the Muslim nation."
 output: html_document
 muftis:
   shaykh: 

@@ -8,7 +8,7 @@ hijri: Dhul-Qa'dah 20, 1441
 locale: en
 lang: en
 note: true
-excerpt: "What is mentioned in the question is a false and superstitious talk and it is not permissible to believe it; because this is a means leading to Shirk (associating others with Allah in His Divinity or worship)."
+summary: "What is mentioned in the question is a false and superstitious talk and it is not permissible to believe it; because this is a means leading to Shirk (associating others with Allah in His Divinity or worship)."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -6,7 +6,7 @@ hijri: Muharram 27, 1442 AH
 lang: en
 locale: en
 source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 5276, Question 11"
-excerpt: "What is meant by this Hadith is the prohibition of offering sacrifices to the dead prophets or pious people, seeking their blessing; or offering sacrifices to the Jinn, so as to please them and in return seek fulfillment of demands or to ward off their evil."
+summary: "What is meant by this Hadith is the prohibition of offering sacrifices to the dead prophets or pious people, seeking their blessing; or offering sacrifices to the Jinn, so as to please them and in return seek fulfillment of demands or to ward off their evil."
 category: [fatwas,shirk,udhiyah]
 group1: true
 ---

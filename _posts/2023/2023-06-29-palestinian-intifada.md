@@ -6,7 +6,7 @@ date: 2023-06-29
 hijri: "Dhul-Hijjah 11, 1444 AH"
 source: Majmu' Fatawa of Ibn Baz 5/269, Question 10
 category: [fatwas, palestine]
-excerpt: All they have to do is to persevere in patience and constancy, and vie in such perseverance, for the promise of Allah is true and Allah will help those who help His cause.
+summary: All they have to do is to persevere in patience and constancy, and vie in such perseverance, for the promise of Allah is true and Allah will help those who help His cause.
 muftis:
   shaykh: 
     - name: Shaykh Ibn Baz

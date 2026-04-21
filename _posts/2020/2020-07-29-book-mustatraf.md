@@ -7,7 +7,7 @@ category: [books, knowledge]
 hijri: Dhul-Hijjah 8, 1441 AH
 lang: en
 note: true
-excerpt: "The book entitled 'Al-Mustatraf' includes good and bad information. Therefore, one should not rely on it either regarding knowledge or religion."
+summary: "The book entitled 'Al-Mustatraf' includes good and bad information. Therefore, one should not rely on it either regarding knowledge or religion."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Aal Al-Shaykh

@@ -10,7 +10,7 @@ lang: en
 locale: en
 active: audios
 url: "https://binbaz.org.sa/fatwas/9419/%D9%83%D9%8A%D9%81-%D9%8A%D8%AC%D8%AF-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85-%D8%AD%D9%84%D8%A7%D9%88%D8%A9-%D8%A7%D9%84%D8%A7%D9%8A%D9%85%D8%A7%D9%86"
-excerpt: "Turn to Allah, paying a lot of attention to your worship and making your heart present in your worship, think about and ponder on Allah's Sublimity and His Kindness, and remember Jannah (Paradise) and Hellfire and death."
+summary: "Turn to Allah, paying a lot of attention to your worship and making your heart present in your worship, think about and ponder on Allah's Sublimity and His Kindness, and remember Jannah (Paradise) and Hellfire and death."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -9,7 +9,7 @@ chapter: "Knowledge, books"
 lang: en
 category: [jihad, dawah, knowledge]
 note: true
-excerpt: "The book of Al-Jawahir fi 'Uqubat Ahl Al-Kaba'ir by Shaykh Zayn Al-Din Al-Malibary is not considered a reliable source with regard to rulings, distinguishing between major sins and minor ones, Du'a's (supplications), or Adhkar (invocations)."
+summary: "The book of Al-Jawahir fi 'Uqubat Ahl Al-Kaba'ir by Shaykh Zayn Al-Din Al-Malibary is not considered a reliable source with regard to rulings, distinguishing between major sins and minor ones, Du'a's (supplications), or Adhkar (invocations)."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

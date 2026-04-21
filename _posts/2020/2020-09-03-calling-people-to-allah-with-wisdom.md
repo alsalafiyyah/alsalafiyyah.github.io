@@ -10,7 +10,7 @@ group2: true
 locale: en
 lang: en
 category: [fatwas,dawah]
-excerpt: "You have to call to Allah with wisdom, good admonition and arguing with people in the best manner. You should follow the command of Allah in His Saying."
+summary: "You have to call to Allah with wisdom, good admonition and arguing with people in the best manner. You should follow the command of Allah in His Saying."
 ---
 
 ### Question:

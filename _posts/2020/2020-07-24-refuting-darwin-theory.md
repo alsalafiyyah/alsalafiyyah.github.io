@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 3, 1441
 date: 2020/07/24
 locale: en
 lang: en
-excerpt: Allah created a life for the sons of Adam and granted them minds and the ability to speak. This abominable theory is false according to consensus of scholars. Apes are a species, dogs are a species and so are the pigs, cats, lions, tigers, cheetahs, etc.
+summary: Allah created a life for the sons of Adam and granted them minds and the ability to speak. This abominable theory is false according to consensus of scholars. Apes are a species, dogs are a species and so are the pigs, cats, lions, tigers, cheetahs, etc.
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

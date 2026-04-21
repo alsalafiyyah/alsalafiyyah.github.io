@@ -9,7 +9,7 @@ locale: en
 lang: en
 note: true
 uid: sufism-and-their-false-ancriptions
-excerpt: "The Problem of Sufism: What does it mean and what is the attitude of Islam toward it? I mean Al-Tijaniyyah and Al-Qadiriyyah (a deviant sect that claims Allah has no power over His Creation and humans are independent of Him), as well as the Shi'ah."
+summary: "The Problem of Sufism: What does it mean and what is the attitude of Islam toward it? I mean Al-Tijaniyyah and Al-Qadiriyyah (a deviant sect that claims Allah has no power over His Creation and humans are independent of Him), as well as the Shi'ah."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

@@ -7,7 +7,7 @@ hijri: Muharram 14, 1442 AH
 lang: en
 locale: en
 category: [fatwas,hijrah]
-excerpt: "it is permissible for a Muslim to migrate from his homeland to another land where he feels secure about himself and his religion."
+summary: "it is permissible for a Muslim to migrate from his homeland to another land where he feels secure about himself and his religion."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

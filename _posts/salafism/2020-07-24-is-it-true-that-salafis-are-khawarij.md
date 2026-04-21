@@ -7,7 +7,7 @@ category: [manhaj,wahhabism,sects]
 hijri: Dhul-Hijjah 3, 1441
 lang: en
 locale: en
-excerpt: "What do you say to one who believes that the 'Aqidah (creed) of Al-Khawarij followed the 'Aqidah of Salafiyyah."
+summary: "What do you say to one who believes that the 'Aqidah (creed) of Al-Khawarij followed the 'Aqidah of Salafiyyah."
 article_taken_from: 
   taken_from:
     - web_title: حقيقة عقيدة الخوارج

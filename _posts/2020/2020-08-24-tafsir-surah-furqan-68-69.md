@@ -9,7 +9,7 @@ lang: en
 locale: en
 note: false
 uid: tafsir-surah-furqan-68-69
-excerpt: "These great Ayahs warn against Shirk (associating others with Allah in His Divinity or worship), Qatl (murder), and Zina (sexual intercourse outside marriage). "
+summary: "These great Ayahs warn against Shirk (associating others with Allah in His Divinity or worship), Qatl (murder), and Zina (sexual intercourse outside marriage). "
 category: [quran]
 muftis:
   shaykh: 

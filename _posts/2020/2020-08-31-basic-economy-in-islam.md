@@ -6,7 +6,7 @@ source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 17627, Question 6"
 hijri: Muharram 12, 1442 AH
 category: [transaction]
 lang: en
-excerpt: "The Islamic economy depends on Shar'i (Islamically lawful) trade through investing money in ways that Allah (Exalted be He) made Halal (Lawful) according to the regulations of Shar'i dealings and transactions."
+summary: "The Islamic economy depends on Shar'i (Islamically lawful) trade through investing money in ways that Allah (Exalted be He) made Halal (Lawful) according to the regulations of Shar'i dealings and transactions."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

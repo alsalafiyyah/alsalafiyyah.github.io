@@ -6,7 +6,7 @@ source: "Fatawa Al-Lajnah Ad-Daimah no. 18068 question 6"
 hijri: Muharram 3, 1442
 category: [funerals, bidah, fatwas]
 date: 2020/08/22
-excerpt: All the practices referred to in the question mentioned above are newly-invented bid'ahs, except for the practice of offering condolences to the bereaved family.
+summary: All the practices referred to in the question mentioned above are newly-invented bid'ahs, except for the practice of offering condolences to the bereaved family.
 shaykhs: 
  - Shaykh Ibn Baz
  - Shaykh Abdul-Aziz Aal Al-Shaykh

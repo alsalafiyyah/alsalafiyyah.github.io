@@ -11,7 +11,7 @@ note: true
 group1: true
 locale: en
 lang: en
-excerpt: "It is not sufficient to partially cover her head with a scarf, leaving some hair uncovered, in the presence of Ajanib."
+summary: "It is not sufficient to partially cover her head with a scarf, leaving some hair uncovered, in the presence of Ajanib."
 ---
 
 ### Question: 

@@ -10,7 +10,7 @@ group6: true
 note: true
 locale: en
 lang: en
-excerpt: One of the principles of Ahlus-Sunnah is not to declare whether a person from Ahlul-Qiblah will enter Paradise or Hell.
+summary: One of the principles of Ahlus-Sunnah is not to declare whether a person from Ahlul-Qiblah will enter Paradise or Hell.
 ---
 
 ### Question: 

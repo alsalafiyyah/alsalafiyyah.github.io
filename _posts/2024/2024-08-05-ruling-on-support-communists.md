@@ -10,7 +10,7 @@ lang: en
 locale: en
 category: [fatwas,sects]
 note: true
-excerpt: "It is impermissible for a Muslim to become acquainted with those who adopt false creeds, such as communists, Nasiriyyah, Druze, Qadyaniyyah and other corrupted sects, for other than a Shar'i interest."
+summary: "It is impermissible for a Muslim to become acquainted with those who adopt false creeds, such as communists, Nasiriyyah, Druze, Qadyaniyyah and other corrupted sects, for other than a Shar'i interest."
 group1: true
 article_taken_from: 
   taken_from:

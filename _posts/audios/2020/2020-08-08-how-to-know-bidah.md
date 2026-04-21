@@ -10,7 +10,7 @@ category: [fatwas,audios,bidah]
 lang: en
 locale: en
 active: audios
-excerpt: "A Bid'ah is what people introduce into Allah's Purified Shar'i (Law) and contradicts it In other words all that people introduce into Din (religion) is called a Bid'ah, such as, celebrating the Mawlid (the Prophet's birthday), building Masjids (rnosques) on graves and constructing domes on graves."
+summary: "A Bid'ah is what people introduce into Allah's Purified Shar'i (Law) and contradicts it In other words all that people introduce into Din (religion) is called a Bid'ah, such as, celebrating the Mawlid (the Prophet's birthday), building Masjids (rnosques) on graves and constructing domes on graves."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

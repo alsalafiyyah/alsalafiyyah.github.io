@@ -7,7 +7,7 @@ hijri: Muharram 19, 1446 AH
 date: 2024-07-25
 locale: en
 lang: en
-excerpt: This means whoever turns away from my way that I follow, then he is not of me. This is because they have chosen another way than the path of the Prophet ﷺ.
+summary: This means whoever turns away from my way that I follow, then he is not of me. This is because they have chosen another way than the path of the Prophet ﷺ.
 category: [fatwas,hadiths,manhaj]
 muftis:
   shaykh: 

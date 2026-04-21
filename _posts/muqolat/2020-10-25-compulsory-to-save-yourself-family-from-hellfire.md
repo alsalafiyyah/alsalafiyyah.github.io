@@ -8,7 +8,7 @@ category: [muqolat]
 lang: en
 locale: en
 source: A speech delivered by His Eminence at Al-Ifta' mosque in Riyadh on Wednesday 6/6/1415 A.H.
-excerpt: The greatest responsibility is to take care of what saves them from the Punishment of Allah, by advising them to fear Allah and abide by His Orders and warning them against the Prohibitions of Allah. One should continue doing this until he meets his Lord.
+summary: The greatest responsibility is to take care of what saves them from the Punishment of Allah, by advising them to fear Allah and abide by His Orders and warning them against the Prohibitions of Allah. One should continue doing this until he meets his Lord.
 active: muqolat
 muftis:
   shaykh: 

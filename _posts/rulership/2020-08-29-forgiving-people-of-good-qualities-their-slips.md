@@ -8,7 +8,7 @@ lang: en
 note: true
 uid: forgiving-people-of-good-qualities-their-slips
 category: ["rulership", hudud, hadiths]
-excerpt: "The Hadith means that it is desirable to forgive people of good qualities if they commit a small or trivial mistake but not a sin that requires the execution of a Hadd (ordained punishment for violating Allah’s Law) decreed by Allah (Exalted be He) if the ruler knows about the sin in which case it must be executed."
+summary: "The Hadith means that it is desirable to forgive people of good qualities if they commit a small or trivial mistake but not a sin that requires the execution of a Hadd (ordained punishment for violating Allah’s Law) decreed by Allah (Exalted be He) if the ruler knows about the sin in which case it must be executed."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

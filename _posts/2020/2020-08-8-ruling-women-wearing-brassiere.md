@@ -10,7 +10,7 @@ note: true
 group1: true
 locale: en
 lang: en
-excerpt: "Wearing a brassiere defines women's breasts and makes them a source of temptation, and as such, they are not permitted to wear them in front of non-Mahram men "
+summary: "Wearing a brassiere defines women's breasts and makes them a source of temptation, and as such, they are not permitted to wear them in front of non-Mahram men "
 ---
 
 ### Question: 

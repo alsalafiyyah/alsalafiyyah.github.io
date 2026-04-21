@@ -6,7 +6,7 @@ source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 5832"
 hijri: Muharram 12, 1442 AH
 lang: en
 category: [transaction,loan,riba]
-excerpt: "Some companies issue cards with a set loan that the borrower can present at any bank and receive the specified loan amount on the card."
+summary: "Some companies issue cards with a set loan that the borrower can present at any bank and receive the specified loan amount on the card."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

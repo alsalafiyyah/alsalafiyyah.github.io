@@ -8,7 +8,7 @@ hijri: Muharram 15, 1442 AH
 lang: en
 locale: en
 note: true
-excerpt: "Imam Al-Bukhari has a chapter in his Sahih Book of Hadith dedicated to References to Al-Masih- ad-Dajjal that includes ten Hadiths about him."
+summary: "Imam Al-Bukhari has a chapter in his Sahih Book of Hadith dedicated to References to Al-Masih- ad-Dajjal that includes ten Hadiths about him."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

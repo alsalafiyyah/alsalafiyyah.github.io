@@ -10,7 +10,7 @@ locale: en
 lang: en
 category: [prophets,fatwas]
 date: 2020/08/26
-excerpt: Anyone who denies that Abraham was thrown into the fire is a disbeliever as they belie the Qur'an and the authentic Sunnah.
+summary: Anyone who denies that Abraham was thrown into the fire is a disbeliever as they belie the Qur'an and the authentic Sunnah.
 ---
 
 ### Question:

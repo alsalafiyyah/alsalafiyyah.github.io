@@ -7,7 +7,7 @@ hijri: Muharram 14, 1442 AH
 lang: en
 locale: en
 category: [fatwas,hijrah]
-excerpt: "If you are unable to immigrate, you should abandon all these sects. If this is difficult for you, then you must hold tight to the Din of Allah until you die."
+summary: "If you are unable to immigrate, you should abandon all these sects. If this is difficult for you, then you must hold tight to the Din of Allah until you die."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

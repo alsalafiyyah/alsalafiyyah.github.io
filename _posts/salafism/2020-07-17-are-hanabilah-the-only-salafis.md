@@ -5,7 +5,7 @@ title: Are the Hanbalis are the only Salafis
 source: Majmu' Fatawa 9/238
 category: [fatwas,manhaj]
 hijri: Dhul-Qa'dah 26, 1441
-excerpt: This is not true. The Salaf were the Sahabah and those who followed their way from among the Tabi'un.
+summary: This is not true. The Salaf were the Sahabah and those who followed their way from among the Tabi'un.
 lang: en
 locale: en
 note: false

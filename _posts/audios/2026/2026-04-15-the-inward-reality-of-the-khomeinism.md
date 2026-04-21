@@ -8,7 +8,7 @@ date: 2026-04-15
 active: audios
 category: [fatwas,audios,sects]
 url: "https://binbaz.org.sa/fatwas/17185/%D8%A8%D9%8A%D8%A7%D9%86-%D9%81%D8%B6%D9%84-%D8%A7%D8%A8%D9%8A-%D8%A8%D9%83%D8%B1-%D8%B1%D8%B6%D9%8A-%D8%A7%D9%84%D9%84%D9%87-%D8%B9%D9%86%D9%87-%D9%88%D8%A7%D9%84%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%B1%D8%A7%D9%81%D8%B6%D8%A9"
-excerpt: "They are merely outward Islamic appearances, while the inward reality is contrary to Islam. The inward reality is paganism, hostility toward Islam, and hostility toward the Prophet of Islam and all of his Companions"
+summary: "They are merely outward Islamic appearances, while the inward reality is contrary to Islam. The inward reality is paganism, hostility toward Islam, and hostility toward the Prophet of Islam and all of his Companions"
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

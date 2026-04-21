@@ -7,7 +7,7 @@ hijri: Muharram 19, 1446 AH
 date: 2024-07-25
 locale: en
 lang: en
-excerpt: This practice appears to be taken from non-Muslims; therefore, it is not an appropriate thing for a Muslim to do.
+summary: This practice appears to be taken from non-Muslims; therefore, it is not an appropriate thing for a Muslim to do.
 category: [fatwas]
 muftis:
   shaykh: 

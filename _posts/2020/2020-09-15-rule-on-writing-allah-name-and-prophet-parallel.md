@@ -5,7 +5,7 @@ title: "Ruling on writing the Exalted Name 'Allah' and 'Muhammad' (peace be upon
 hijri: Muharram 27, 1442 AH
 lang: en
 source: Fatwas of the Permanent Committee no. 21801
-excerpt: "It is not permissible to write the Exalted Name 'Allah' and 'Muhammad' (peace be upon him) parallel to each other on a paper, portrait or a wall."
+summary: "It is not permissible to write the Exalted Name 'Allah' and 'Muhammad' (peace be upon him) parallel to each other on a paper, portrait or a wall."
 category: [shirk, polytheism, prophets]
 muftis:
   chairman: 

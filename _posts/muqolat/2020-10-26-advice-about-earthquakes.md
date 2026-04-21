@@ -8,7 +8,7 @@ lang: en
 locale: en
 category: [muqolat]
 source: "Published in the local newspapers: Al-Riyadh, Al-Jazirah, Al-Madinah, and Okaz on Saturday 13/7/1416 A.H"
-excerpt: There is no doubt that what happens these days of earthquakes in many countries are of these portents that Allah brings to make His servant fear Him. All the earthquakes that happen in this world and other things that cause harm to people are because of Shirk and evil deeds.
+summary: There is no doubt that what happens these days of earthquakes in many countries are of these portents that Allah brings to make His servant fear Him. All the earthquakes that happen in this world and other things that cause harm to people are because of Shirk and evil deeds.
 active: muqolat
 muftis:
   shaykh: 

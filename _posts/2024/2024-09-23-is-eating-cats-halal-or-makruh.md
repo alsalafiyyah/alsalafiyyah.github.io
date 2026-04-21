@@ -8,7 +8,7 @@ locale: en
 date: 2024-09-23
 category: [fatwas,animals]
 source: "Fatawa al-Lajnah ad-Da'imah 22/292, Fatwa no.14701"
-excerpt: "It is prohibited to eat cats, for they are of the fanged animals."
+summary: "It is prohibited to eat cats, for they are of the fanged animals."
 group6: true
 ---
 

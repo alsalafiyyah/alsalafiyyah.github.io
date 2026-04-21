@@ -10,7 +10,7 @@ note: true
 lang: en
 locale: en
 group1: true
-excerpt: "The palms of a woman's hands are awrah, which may not be uncovered in the presence of non-Mahrams men."
+summary: "The palms of a woman's hands are awrah, which may not be uncovered in the presence of non-Mahrams men."
 ---
 
 ### Question: 

@@ -8,7 +8,7 @@ hijri: Dhul-Hijjah 6, 1441
 lang: en
 locale: en
 note: true
-excerpt: "It is permissible to eat from the food served by your Christian colleague, whether in his or another person's home, provided that the food itself is not prohibited or its status is unknown."
+summary: "It is permissible to eat from the food served by your Christian colleague, whether in his or another person's home, provided that the food itself is not prohibited or its status is unknown."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Ibn Baz

@@ -10,7 +10,7 @@ locale: en
 note: false
 uid: -tafsir-surah-baqarah-258
 category: [quran]
-excerpt: "This Ayah (Qur'anic verse) is very clear to whoever contemplates it. Ibrahim, Khalil Al-Rahman (the close friend of Allah), was sent to call his people to Tawhid (belief in the Oneness of Allah/ monotheism) and warn them against Shirk (associating others with Allah in His Divinity or worship)."
+summary: "This Ayah (Qur'anic verse) is very clear to whoever contemplates it. Ibrahim, Khalil Al-Rahman (the close friend of Allah), was sent to call his people to Tawhid (belief in the Oneness of Allah/ monotheism) and warn them against Shirk (associating others with Allah in His Divinity or worship)."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz

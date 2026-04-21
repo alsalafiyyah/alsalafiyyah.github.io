@@ -6,7 +6,7 @@ hijri: Muharram 25, 1442 AH
 lang: en
 category: [knowledge,quran]
 source: "Fatawa Al-Lajnah Al-Da'imah no. 9566, Question 2"
-excerpt: "How can I learn Tajwid and in which book can I find the rules of Tajwid?"
+summary: "How can I learn Tajwid and in which book can I find the rules of Tajwid?"
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

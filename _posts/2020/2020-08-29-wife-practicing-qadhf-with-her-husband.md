@@ -7,7 +7,7 @@ hijri: Muharram 10, 1442 AH
 lang: en
 note: true
 category: [marriage]
-excerpt: "The Hadd (ordained punishment for violating Allah’s Law) of Qadhf (falsely accusing a chaste person of involvement in prohibited sexual relations) is applicable to males and females because of the general meaning of the Ayah (Qur'anic verse)."
+summary: "The Hadd (ordained punishment for violating Allah’s Law) of Qadhf (falsely accusing a chaste person of involvement in prohibited sexual relations) is applicable to males and females because of the general meaning of the Ayah (Qur'anic verse)."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

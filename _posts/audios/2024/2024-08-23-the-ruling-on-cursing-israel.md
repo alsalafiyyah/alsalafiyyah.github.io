@@ -10,7 +10,7 @@ locale: en
 active: audios
 category: [fatwas,audios,palestine]
 note: false
-excerpt: "Do not say May God’s curse be upon Israel, but say May God’s curse be upon the Jews or Yahudi instead."
+summary: "Do not say May God’s curse be upon Israel, but say May God’s curse be upon the Jews or Yahudi instead."
 mp3: "https://phaven-prod.s3.amazonaws.com/files/audio_part/asset/1210612/rk9PLYaSzQoB6HQZuXYhfGOLblw/Cursing_Israel.mp3"
 muftis:
   shaykh: 

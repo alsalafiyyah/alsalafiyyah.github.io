@@ -9,7 +9,7 @@ date: 2024-09-13
 category: [fatwas,hudud]
 note: true
 source: "Fatawa al-Lajnah ad-Da'imah, Fatwa no.19657‏"
-excerpt: "It is impermissible to replace stoning to death with killing by sword or shooting with a gun, because stoning to death is more deterring and preventive from committing Zina, which is the gravest crime after Shirk and killing."
+summary: "It is impermissible to replace stoning to death with killing by sword or shooting with a gun, because stoning to death is more deterring and preventive from committing Zina, which is the gravest crime after Shirk and killing."
 group2: true
 ---
 

@@ -9,7 +9,7 @@ lang: en
 note: true
 locale: en
 uid: rule-on-recitation-tijaniyyah-qadiriyyah
-excerpt: "It is not permissible to supplicate to Allah through these utterances, offer Salah behind people who worship Allah through them, or perform the funeral prayer for them after their death."
+summary: "It is not permissible to supplicate to Allah through these utterances, offer Salah behind people who worship Allah through them, or perform the funeral prayer for them after their death."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

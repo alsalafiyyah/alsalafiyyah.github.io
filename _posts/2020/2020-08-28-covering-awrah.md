@@ -8,7 +8,7 @@ date: 2020/08/28
 category: [women]
 note: true
 group1: true
-excerpt: "According to the consensus of Muslim scholars, covering the Awrah is Wajib (obligatory)."
+summary: "According to the consensus of Muslim scholars, covering the Awrah is Wajib (obligatory)."
 ---
 
 Question: 

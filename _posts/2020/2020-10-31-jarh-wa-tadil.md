@@ -8,7 +8,7 @@ source: "Published in Al-Riyadh newspaper, issue no. 10736, dated 19/8/1418 A.H"
 lang: en
 category: [hadiths]
 note: false
-excerpt: "No, this is not true. The fact is that Jarh, Ta'dil and investigating of Hadith still remain; and scholars should take care of it and revise Hadith in order to distinguish those which are Sahih from those which are Da'if (a Hadith that fails to reach the status of Hasan"
+summary: "No, this is not true. The fact is that Jarh, Ta'dil and investigating of Hadith still remain; and scholars should take care of it and revise Hadith in order to distinguish those which are Sahih from those which are Da'if (a Hadith that fails to reach the status of Hasan"
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
