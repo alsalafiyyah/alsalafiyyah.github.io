@@ -5,8 +5,9 @@ date: 2026-04-21
 hijri: "Dhu al-Qidah 4, 1447 AH"
 title: "An Overview of the Mu'tazilah Sect"
 source: "Fatawa Nur Ala ad-Darb, Tape No.284"
-category: [fatwas,sects]
+category: [fatwas,sects,audios]
 url: "https://binothaimeen.net/s/9Y4Pm6y0"
+mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_284_20.mp3"
 summary: "The Mu'tazilah are an innovated sect. Regarding Allah, His Speech, and His Actions, they hold views that contradict the creed of Ahl al-Sunnah wal-Jama'ah."
 muftis:
   shaykh: 
@@ -22,7 +23,7 @@ May Allah bless you, O Virtuous Sheikh. The questioner has a second point, askin
 
 The Mu'tazilah are an innovated sect. Regarding Allah, His Speech, and His Actions, they hold views that contradict the creed of Ahl al-Sunnah wal-Jama'ah. 
 
-​Their leaders were Amr ibn Ubayd and Wasil ibn Ata. They were named 'Mu'tazilah' (The Seceders/Withdrawers) because they withdrew from the circle of Al-Hasan al-Basri. This occurred when he was affirming that one who commits a major sin does not exit the fold of faith (Iman); rather, such a person is a 'believer with deficient faith,' or 'a believer by virtue of his faith and a sinner (fasiq) by virtue of his major sin.' 
+​Their leaders were Amr ibn Ubayd and Wasil ibn Ata. They were named 'Mu'tazilah' (The Seceders/Withdrawers) because they withdrew from the circle of Al-Hasan al-Basri. This occurred when he was affirming that one who commits a major sin does not exit the fold of faith (Iman); rather, such a person is a 'believer with deficient faith,' or 'a believer by virtue of his faith and a sinner by virtue of his major sin.' 
 
 ​They withdrew from this circle—the circle of Al-Hasan al-Basri—and declared their famous doctrine: that the one who commits a major sin is in a 'position between two positions'. Thus, [according to them], he is neither a believer nor a disbeliever, yet despite that, he is eternally in the Hellfire. 
 
