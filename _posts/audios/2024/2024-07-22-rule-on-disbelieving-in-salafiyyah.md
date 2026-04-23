@@ -1,16 +1,12 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: Ruling on disbelieving in Salafiyyah
-mp3: https://alsalafiyyah.github.io/assets/audios/rule-on-saying-disbelieve-in-salafiyyah.mp3
-hijri: Muharram 16, 1446
+title: "Ruling on disbelieving in Salafiyyah"
+mp3: "https://alsalafiyyah.github.io/assets/audios/rule-on-saying-disbelieve-in-salafiyyah.mp3"
+hijri: "Muharram 16, 1446AH"
 date: 2024-07-22
-lang: en
-note: false
-locale: en
 active: audios
-translated_by: Faisal Ibn Abdul Qaadir Ibn Hassan, Abu Sulaymaan
-summary: This is ignorance and trespassing the truth. If he intends that using this term is not necessary and that it is not necessary for a person to say I am Salafi, then the affair is easy.
+summary: "if he means by that statement that he disbelieves in the methodology of the Salaf, their way, and the truth they were upon, then this is disbelief in the Book [of Allah] (Quran) and the Sunnah, and in what the Salaf of this Ummah (nation) were upon."
 category: [fatwas,audios,manhaj]
 muftis:
   shaykh: 
@@ -19,7 +15,11 @@ muftis:
 ---
 
 ### Question: 
-What is your opinion, Oh virtuous Shaikh, about the one who says: that he is a disbeliever in Salafiyyah?
+
+What is your eminence's opinion regarding someone who says: "I disbelieve in Salafiyyah"?
 
 ### Answer: 
-This is ignorance and trespassing the truth. If he intends that using this term is not necessary and that it is not necessary for a person to say: **I am Salafi**, then the affair is easy. If he intends by it that he is a disbeliever in the methodology of the Salaf, their path and the truth which they were upon, then this disbelief in the Book and Sunnah and what the Salaf of this nation were upon.
+
+This is ignorance and an assault upon the truth. If the person means that the use of this specific word is inappropriate, or that a person should not say "I am a Salafi," then the matter in that case is easier. 
+
+However, if he means by that statement that he disbelieves in the methodology (Manhaj) of the Salaf, their way, and the truth they were upon, then this is disbelief (Kufr) in the Book [of Allah] (Quran) and the Sunnah [of His Messenger], and in what the Salaf of this Ummah (nation) were upon.
