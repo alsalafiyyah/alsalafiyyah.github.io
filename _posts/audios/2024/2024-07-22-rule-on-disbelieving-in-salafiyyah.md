@@ -6,7 +6,7 @@ mp3: "https://alsalafiyyah.github.io/assets/audios/rule-on-saying-disbelieve-in-
 hijri: "Muharram 16, 1446AH"
 date: 2024-07-22
 active: audios
-summary: "if he means by that statement that he disbelieves in the methodology of the Salaf, their way, and the truth they were upon, then this is disbelief in the Book [of Allah] (Quran) and the Sunnah, and in what the Salaf of this Ummah (nation) were upon."
+summary: "If he means by that statement that he disbelieves in the methodology of the Salaf, their way, and the truth they were upon, then this is disbelief in the Book [of Allah] (Quran) and the Sunnah, and in what the Salaf of this Ummah (nation) were upon."
 category: [fatwas,audios,manhaj]
 muftis:
   shaykh: 
