@@ -2,12 +2,19 @@
 layout: page
 title: Bid'ah
 active: bidah
-locale: en
-lang: en
-summary: The fundamental rule on the acts of ‘Ibadah (worship) is that it is Tawqifiyyah, i.e. bound by a religious text from the Qur’an and Sunnah, and not subject to personal opinion.
+summary: "The fundamental rule on the acts of ‘Ibadah (worship) is that it is Tawqifiyyah, i.e. bound by a religious text from the Qur’an and Sunnah, and not subject to personal opinion."
 permalink: /bidah/
 ---
-<div id="fatwa-container" class="mt-5"></div>
+<div id="fatwa-container"></div>
+<nav id="pagination-nav" class="flex items-center justify-between border-t-4 border-black dark:border-white pt-12 mt-12 mb-24">
+    <a id="prev-link" href="#" class="text-sm font-black uppercase tracking-widest hover:line-through invisible">← Newer</a>
+    
+    <div class="text-sm font-black uppercase tracking-widest tabular-nums">
+      <span id="current-page-display">01</span> / <span id="total-pages-display">01</span>
+    </div>
+    
+    <a id="next-link" href="#" class="text-sm font-black uppercase tracking-widest hover:line-through invisible">Older →</a>
+</nav>
 <script id="fatwa-data" type="application/json">
 [
   {% assign posts = site.posts | where_exp: "post", "post.categories contains 'bidah'" %}
