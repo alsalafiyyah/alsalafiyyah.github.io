@@ -37,7 +37,7 @@
             font-size: 0.875rem;
             color: #666;
         }
-        .footnotes ol { list-style-type: decimal; !important; list-style-position: inside;}
+        .footnotes ol { list-style-type: decimal; !important; list-style-position: inside;font-size: 0.875rem;}
         article ol { list-style-type: decimal; !important; padding-bottom: 24px;list-style-position: inside;font-size: 1.125rem;line-height: 1.75;}
         article ul { list-style-type: circle; !important;padding-bottom: 24px;list-style-position: inside;font-size: 1.125rem;line-height: 1.75;}
         article p {
@@ -45,48 +45,3 @@
             font-size: 1.125rem;
             line-height: 1.75;
         }
-        
-/* Standard Link Styling for Article Content */
-article a {
-    font-weight: 700;
-    text-decoration: none;
-    transition: all 0.2s ease-in-out;
-    padding: 0 2px;
-    /* This creates the thin underline */
-    border-bottom: 2px solid rgba(0, 0, 0, 0.1); 
-    color: #000000;
-}
-
-/* Dark Mode adjustment */
-@media (prefers-color-scheme: dark) {
-    article a {
-        color: #ffffff;
-        border-bottom-color: rgba(255, 255, 255, 0.1);
-    }
-}
-
-/* Hover State: The Inversion Effect */
-article a:hover {
-    font-style: italic;
-    background-color: #000000;
-    color: #ffffff;
-    border-bottom-color: #000000;
-}
-
-/* Dark Mode Hover */
-@media (prefers-color-scheme: dark) {
-    article a:hover {
-        background-color: #ffffff;
-        color: #000000;
-        border-bottom-color: #ffffff;
-    }
-}
-
-/* External Link Indicator */
-article a[href^="http"]::after {
-    content: " ↗";
-    font-size: 10px;
-    font-weight: 900;
-    opacity: 0.5;
-    vertical-align: super;
-}
