@@ -9,7 +9,7 @@ category: [fatwas,sects,audios]
 url: "https://binothaimeen.net/s/RgOLg223"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_134_06.mp3"
 active: audios
-summary: "This is a term commonly used today. However, Allah named them in His Book as the Nasara."
+summary: "Jesus’s announcement of the glad tidings of the Prophet Muhammad proves that it is obligatory for his followers to follow him."
 muftis:
   shaykh: 
     - name: Shaykh Ibn Uthaymeen 
