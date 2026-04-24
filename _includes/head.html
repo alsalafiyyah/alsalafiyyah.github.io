@@ -5,12 +5,6 @@
 <meta name="generator" content="Jekyll v{{ jekyll.version }}" />
 <meta http-equiv='content-language' content='en'>
 <meta name="HandheldFriendly" content="True">
-<meta name="date" content="{{ page.date | date_to_xmlschema }}">
-<meta property="og:locale" content="{{ page.locale | default: 'en-gb' }}" />
-<meta name="directory" content="submission">
-<meta name="news_keywords" content="{{ site.keywords }}">
-<meta name="keywords" content="{{ site.keywords }}"/>
-<meta name="author" content="{{ site.author }}">
 <meta name="theme-color" content="Canvas">
 <meta name="coverage" content="Worldwide">
 <meta name="distribution" content="Global">
@@ -103,57 +97,10 @@
 <link rel="icon" href="{{ '/assets/images/favicon.ico?v=3' | absolute_url }}" type="image/x-icon" />
 <link rel="manifest" href="{{ '/manifest.json' | prepend: site.baseurl }}">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<script src="{{ '/assets/tailwindcss.js' | absolute_url }}"></script>
 <script src="https://cdn.tailwindcss.com"></script>
+<link rel="stylesheet" href="{{ '/assets/custom-styles.css' | absolute_url }}">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&family=Playfair+Display:ital,wght@0,900;1,900&display=swap" rel="stylesheet">
-    <style>
-        body { font-family: 'Inter', sans-serif; }
-        .serif { font-family: 'Playfair Display', serif; }
-        /* Custom scrollbar */
-        ::-webkit-scrollbar { width: 5px; }
-        ::-webkit-scrollbar-track { background: transparent; }
-        ::-webkit-scrollbar-thumb { background: black; }
-        .dark ::-webkit-scrollbar-thumb { background: white; }
-
-        /* --- Jekyll Markdown Custom Styles --- */
-        h3, h4, h5, h6 {
-            font-family: 'Inter', sans-serif;
-            font-weight: 900;
-            text-transform: uppercase;
-            letter-spacing: -0.05em; /* Fixed: 'tracking' is not CSS, use letter-spacing */
-            line-height: 0.9;
-            margin-top: 2.5rem;
-            margin-bottom: 1.5rem;
-        }
-
-        h1 { font-size: 4rem; text-transform: none; font-family: 'Playfair Display', serif; }
-        h2 { font-size: 3rem; border-bottom: 4px solid padding-bottom: 0.5rem; font-weight: 900; }
-        
-        #question, #answer {
-            font-family: 'Inter', sans-serif;
-            font-size: 1.25rem;
-            line-height: 1.8;
-            margin-bottom: 1.5rem;
-            font-weight: bold;
-        }
-
-        hr { border: none; border-top: 0px solid black; margin: 3rem 0; }
-        
-        .footnotes {
-            margin-top: 4rem;
-            padding-top: 2rem;
-            border-top: 1px solid #e5e5e5;
-            font-size: 0.875rem;
-            color: #666;
-        }
-        .footnotes ol { list-style-type: decimal; !important; list-style-position: inside;}
-        article ol { list-style-type: decimal; !important; padding-bottom: 24px;list-style-position: inside;font-size: 1.125rem;line-height: 1.75;}
-        article ul { list-style-type: circle; !important;padding-bottom: 24px;list-style-position: inside;font-size: 1.125rem;line-height: 1.75;}
-        article p {
-            margin-bottom: 1.5rem;
-            font-size: 1.125rem;
-            line-height: 1.75;
-        }
-    </style>
 <!-- Google tag (gtag.js) -->
 <link href="https://www.googletagmanager.com/gtag/js?id={{ site.webmaster_verifications.gtag_manager }}" rel="prefetch" as="script">
 <script>

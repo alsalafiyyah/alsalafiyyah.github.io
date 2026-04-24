@@ -1,0 +1,92 @@
+        body { font-family: 'Inter', sans-serif; }
+        .serif { font-family: 'Playfair Display', serif; }
+        /* Custom scrollbar */
+        ::-webkit-scrollbar { width: 5px; }
+        ::-webkit-scrollbar-track { background: transparent; }
+        ::-webkit-scrollbar-thumb { background: black; }
+        .dark ::-webkit-scrollbar-thumb { background: white; }
+
+        /* --- Jekyll Markdown Custom Styles --- */
+        h3, h4, h5, h6 {
+            font-family: 'Inter', sans-serif;
+            font-weight: 900;
+            text-transform: uppercase;
+            letter-spacing: -0.05em; /* Fixed: 'tracking' is not CSS, use letter-spacing */
+            line-height: 0.9;
+            margin-top: 2.5rem;
+            margin-bottom: 1.5rem;
+        }
+
+        h1 { font-size: 4rem; text-transform: none; font-family: 'Playfair Display', serif; }
+        h2 { font-size: 3rem; border-bottom: 4px solid padding-bottom: 0.5rem; font-weight: 900; }
+        
+        #question, #answer {
+            font-family: 'Inter', sans-serif;
+            font-size: 1.25rem;
+            line-height: 1.8;
+            margin-bottom: 1.5rem;
+            font-weight: bold;
+        }
+
+        hr { border: none; border-top: 0px solid black; margin: 3rem 0; }
+        
+        .footnotes {
+            margin-top: 4rem;
+            padding-top: 2rem;
+            border-top: 1px solid #e5e5e5;
+            font-size: 0.875rem;
+            color: #666;
+        }
+        .footnotes ol { list-style-type: decimal; !important; list-style-position: inside;}
+        article ol { list-style-type: decimal; !important; padding-bottom: 24px;list-style-position: inside;font-size: 1.125rem;line-height: 1.75;}
+        article ul { list-style-type: circle; !important;padding-bottom: 24px;list-style-position: inside;font-size: 1.125rem;line-height: 1.75;}
+        article p {
+            margin-bottom: 1.5rem;
+            font-size: 1.125rem;
+            line-height: 1.75;
+        }
+        
+/* Standard Link Styling for Article Content */
+article a {
+    font-weight: 700;
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+    padding: 0 2px;
+    /* This creates the thin underline */
+    border-bottom: 2px solid rgba(0, 0, 0, 0.1); 
+    color: #000000;
+}
+
+/* Dark Mode adjustment */
+@media (prefers-color-scheme: dark) {
+    article a {
+        color: #ffffff;
+        border-bottom-color: rgba(255, 255, 255, 0.1);
+    }
+}
+
+/* Hover State: The Inversion Effect */
+article a:hover {
+    font-style: italic;
+    background-color: #000000;
+    color: #ffffff;
+    border-bottom-color: #000000;
+}
+
+/* Dark Mode Hover */
+@media (prefers-color-scheme: dark) {
+    article a:hover {
+        background-color: #ffffff;
+        color: #000000;
+        border-bottom-color: #ffffff;
+    }
+}
+
+/* External Link Indicator */
+article a[href^="http"]::after {
+    content: " ↗";
+    font-size: 10px;
+    font-weight: 900;
+    opacity: 0.5;
+    vertical-align: super;
+}
