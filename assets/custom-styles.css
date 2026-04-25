@@ -49,6 +49,6 @@
             font-size: 1.125rem;
             line-height: 1.75;
         }
-        article a {
-            color: #00a6f4;
+        .post a {
+            color: #00a6f4 !important;
         }
