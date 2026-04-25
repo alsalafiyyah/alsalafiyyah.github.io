@@ -42,17 +42,16 @@ layout: default
             </div>
             <span id="time-display" class="text-[10px] font-black tabular-nums dark:text-white">0:00 / 0:00</span>
         </div>
-        
         <div class="relative w-full h-2 bg-gray-100 dark:bg-zinc-800 cursor-pointer" id="progress-container">
             <div id="progress-bar" class="absolute h-full bg-black dark:bg-white w-0 transition-all duration-100"></div>
         </div>
     </div>
-
     <audio id="main-audio" src="{{ page.mp3 }}"></audio>
 </div>
 {% endif %}
-
+         <div class="post">
             {{ content }}
+         </div>
         </div>
 
 {% if page.date %}
