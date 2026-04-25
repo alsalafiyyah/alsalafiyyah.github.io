@@ -21,10 +21,12 @@ You mentioned belief in Al-Qadar (Divine Decree), and there is a group known as 
 
 ### Answer:
 
-The Qadariyah means: those who deny Divine Decree (Qadar). This is an example of a 'negative attribution'; usually, someone attributed to a thing is one who affirms it, but in this case, it is the opposite. They are attributed to Qadar even though they do not believe in it.
+The term Al-Qadariyyah (the Qadarites) refers to those who deny Al-Qadar. This is considered a negative attribution (attribution by negation). Conventionally, when someone is attributed to a thing, it means they affirm or possess it. However, in this case, it is the opposite: these people are attributed to al-Qadar even though they do not believe in it.
 
-The Qadiri claims that the human being is entirely independent in his actions and that Allah has no involvement in them. Some of them go to extremes, even saying: 'Allah does not know the actions of His servant until they have actually occurred.'
+The Qadari (the one who denies Divine Decree) claims that a human being is entirely independent in their actions, and that Allah has no involvement in them. Some of them go to such extremes that they even say: "Allah does not know of the servant's action until after it has occurred."
 
-Among the Ahl al-Sunnah, they are referred to as the 'Magians' (Zoroastrians). They say: **'The Qadariyah are the Magians of this Ummah.'** How so? The Magians say this universe has two creators: Light and Darkness. Whatever is evil is created by darkness, and whatever is good is created by light; thus, they assigned two creators to all events and beings.
+These individuals are referred to by the Ahl al-Sunnah as the "Magians", they say: **'The Qadariyah are the Magians of this Ummah.'** 
+
+How is that so? The Qadaris say this universe has two creators: Light and Darkness: Whatever is evil is created by darkness, and whatever is good is created by light; thus, they assigned two creators to all events and beings.
 
 The Qadariyah are similar in this regard: they claim that a servant is independent in their actions and what occurs from them, while what Allah does belongs to Allah. By doing this, they resemble the Magians. Therefore, they were given this title. There is a Hadith regarding this, though it is weak (da'if), yet the people of Sunnah have adopted this title.
