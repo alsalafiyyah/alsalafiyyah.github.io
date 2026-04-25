@@ -53,6 +53,20 @@
 <script src="https://cdn.tailwindcss.com"></script>
 <link rel="stylesheet" href="{{ '/assets/custom-styles.css' | absolute_url }}">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&family=Playfair+Display:ital,wght@0,900;1,900&display=swap" rel="stylesheet">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "{% if page.date %}BlogPosting{% else %}WebPage{% endif %}",
+  "headline": {{ page.title | default: site.title | jsonify }},
+  "description": {{ page.summary | default: site.description | strip_html | jsonify }},
+  "url": {{ page.url | absolute_url | jsonify }},
+  {% if page.date %}"datePublished": "{{ page.date | date_to_xmlschema }}",{% endif %}
+  "publisher": {
+    "@type": "Organization",
+    "name": "The Dispatch"
+  }
+}
+</script>
 <!-- Google tag (gtag.js) -->
 <link href="https://www.googletagmanager.com/gtag/js?id={{ site.webmaster_verifications.gtag_manager }}" rel="prefetch" as="script">
 <script>
