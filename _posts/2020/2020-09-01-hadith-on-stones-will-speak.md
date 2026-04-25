@@ -3,7 +3,7 @@ layout: post
 publisher: "alsalafiyyah@icloud.com, Instagram@Alsalafiyyah"
 title: "Concerning the Hadith: 'You will fight against the Jews and you will gain victory over them.'"
 source: "Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 5775, Question 2"
-hijri: Muharram 13, 1442
+hijri: "Muharram 13, 1442AH"
 category: [fatwas,hadiths,palestine]
 summary: "Is the Hadith that says: 'There will come a day when Muslims will gain victory over the Jews, and then a stone behind which a Jew may hide, will speak and call the believer to go and kill the Jew hiding behind it' authentic?"
 article_taken_from: 
@@ -27,11 +27,11 @@ Ibn 'Umar (may Allah be pleased with them both) said that he heard the Messenger
 
 It was also reported by Ibn Majah on the authority of Abu Umamah Al-Bahily who said that the Prophet (peace be upon him) said this Hadith about Al-Masih-ul-Dajjal (the Antichrist). And Allah is the Source of strength. May Allah grant us success. May peace and blessings be upon our Prophet, his family and Companions.[^4]
 
->> Ibn Hajar (may Allah have mercy on him) said: "**What is meant by fighting the Jews is that this will happen when the Dajjal emerges and ‘Isa (Jesus, peace be upon him) descends.**"[^5]
+> Ibn Hajar (may Allah have mercy on him) said: "**What is meant by fighting the Jews is that this will happen when the Dajjal emerges and ‘Isa (Jesus, peace be upon him) descends.**"[^5]
 
->> Shaykh Ibn Baz (may Allah have mercy on him) said: **‘Isa (Jesus, peace be upon him) will fight him (Dajjal), supported by the Muslims, and he will kill him at the gate of al-Ludd (Lod), which is in Palestine, near al-Quds (Jerusalem). He will kill him with his spear, as it says in the sahih (authentic) hadith, and the Muslims who are with him will kill a great number of the Jews. It says in the hadith from the Prophet (Muhammad, peace and blessings be upon him) that the Muslims will fight the Jews, and will kill them and gain power over them, and trees and rocks will call out: *"O Muslim, O slave of Allah, here is a Jew; come and kill him."* and ‘Isa will kill the Dajjal and put an end to him.**[^6]
+> Shaykh Ibn Baz (may Allah have mercy on him) said: **‘Isa (Jesus, peace be upon him) will fight him (Dajjal), supported by the Muslims, and he will kill him at the gate of al-Ludd (Lod), which is in Palestine, near al-Quds (Jerusalem). He will kill him with his spear, as it says in the sahih (authentic) hadith, and the Muslims who are with him will kill a great number of the Jews. It says in the hadith from the Prophet (Muhammad, peace and blessings be upon him) that the Muslims will fight the Jews, and will kill them and gain power over them, and trees and rocks will call out: *"O Muslim, O slave of Allah, here is a Jew; come and kill him."* and ‘Isa will kill the Dajjal and put an end to him.**[^6]
 
->> Shaykhul-Islam Ibn Taymiyyah (may Allah have mercy on him) said: **"The Jews are in fact awaiting the dajjal, for he is the one whom the Jews will follow. Seventy thousand of the Jews of Isfahan (City in Iran)[^7] wearing tayalisah (a kind of head covering) will emerge with him. The Muslims will fight them with him, to the extent that trees and rocks will say: *“O Muslim, here is a Jew behind me; come and kill him.”*** [^8]
+> Shaykhul-Islam Ibn Taymiyyah (may Allah have mercy on him) said: **"The Jews are in fact awaiting the dajjal, for he is the one whom the Jews will follow. Seventy thousand of the Jews of Isfahan (City in Iran)[^7] wearing tayalisah (a kind of head covering) will emerge with him. The Muslims will fight them with him, to the extent that trees and rocks will say: *“O Muslim, here is a Jew behind me; come and kill him.”*** [^8]
 
 Also read: 
 
