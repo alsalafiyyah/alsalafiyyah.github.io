@@ -56,7 +56,7 @@ layout: default
         </div>
 
 {% if page.date %}
-<footer class="mt-24 border-t-4 border-black dark:border-white pt-12 space-y-12 transition-colors">
+<footer class="mt-24 border-t-4 footer-post border-black dark:border-white pt-12 space-y-12 transition-colors">
     
 <div class="grid grid-cols-1 md:grid-cols-3 gap-8 border-b border-gray-100 dark:border-zinc-800 pb-12 transition-colors">
     {% if page.muftis %}
@@ -190,7 +190,7 @@ layout: default
             {% endif %}
 
             <div>
-                <span class="text-gray-400 block mb-4">Share</span>
+                <span class="text-gray-400 block mb-4">Spread</span>
                 <div class="flex flex-wrap md:justify-end gap-x-6 gap-y-2">
                     <a href="https://x.com/intent/tweet?text={{ page.title | url_encode }}&url={{ site.url }}{{ page.url }}" target="_blank" class="hover:line-through"><i class="fa-brands fa-x-twitter fa-lg"></i></a>
                     <a href="https://www.threads.net/intent/post?text={{ page.title | url_encode }}%20{{ site.url }}{{ page.url }}" target="_blank" class="hover:line-through"><i class="fa-brands fa-threads fa-lg"></i></a>

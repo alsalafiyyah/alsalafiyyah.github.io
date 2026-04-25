@@ -18,7 +18,7 @@
         }
 
         h1 { font-size: 4rem; text-transform: none; font-family: 'Playfair Display', serif; }
-        h2 { font-size: 3rem; border-bottom: 4px solid padding-bottom: 0.5rem; font-weight: 900; }
+        h2 { font-size: 3rem; border-bottom: 4px solid; padding-bottom: 0.5rem; font-weight: 900; }
         
         #question, #answer {
             font-family: 'Inter', sans-serif;
@@ -50,5 +50,5 @@
             line-height: 1.75;
         }
         article a {
-            color: #00a6f4 !important;
+            color: #00a6f4;
         }
