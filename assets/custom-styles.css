@@ -45,3 +45,6 @@
             font-size: 1.125rem;
             line-height: 1.75;
         }
+        article a {
+            color: oklch(68.5% 0.169 237.323) !important;
+        }
