@@ -34,13 +34,13 @@
             margin-top: 4rem;
             padding-top: 2rem;
             border-top: 1px solid #e5e5e5;
-            font-size: 0.875rem;
+            font-size: x-small;
             color: #666;
         }
         .footnotes ol { 
             list-style-type: decimal !important; 
             list-style-position: inside; 
-            font-size: 0.875rem;
+            font-size: x-small;
         }
         article ol { list-style-type: decimal !important; padding-bottom: 24px;list-style-position: inside;font-size: 1.125rem;line-height: 1.75;}
         article ul { list-style-type: circle !important;padding-bottom: 24px;list-style-position: inside;font-size: 1.125rem;line-height: 1.75;}
@@ -51,7 +51,12 @@
         }
         .post a {
             color: #00a6f4 !important;
+            text-decoration: none;
         }
+.post a:hover {
+    color: #00a6f4 !important;
+    text-decoration: underline;
+}
 /* Blockquote Styling */
 blockquote {
     margin: 4rem 0;
