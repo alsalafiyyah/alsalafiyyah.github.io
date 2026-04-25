@@ -37,14 +37,18 @@
             font-size: 0.875rem;
             color: #666;
         }
-        .footnotes ol { list-style-type: decimal; !important; list-style-position: inside;font-size: 0.875rem;}
-        article ol { list-style-type: decimal; !important; padding-bottom: 24px;list-style-position: inside;font-size: 1.125rem;line-height: 1.75;}
-        article ul { list-style-type: circle; !important;padding-bottom: 24px;list-style-position: inside;font-size: 1.125rem;line-height: 1.75;}
+        .footnotes ol { 
+            list-style-type: decimal !important; 
+            list-style-position: inside; 
+            font-size: 0.875rem;
+        }
+        article ol { list-style-type: decimal !important; padding-bottom: 24px;list-style-position: inside;font-size: 1.125rem;line-height: 1.75;}
+        article ul { list-style-type: circle !important;padding-bottom: 24px;list-style-position: inside;font-size: 1.125rem;line-height: 1.75;}
         article p {
             margin-bottom: 1.5rem;
             font-size: 1.125rem;
             line-height: 1.75;
         }
         article a {
-            color: oklch(68.5% 0.169 237.323) !important;
+            color: #00a6f4 !important;
         }

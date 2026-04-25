@@ -24,7 +24,7 @@ This is a letter that reached us from a listener named Abd al-Hamid al-Barbari, 
 
 The People of the Book (Ahl al-Kitab) are the Jews and the Nazarenes (Nasara)—those who call themselves Christians. They are named the "People of the Book" because Allah, the Exalted, revealed scriptures to His messengers. He revealed the Torah to Moses (peace and blessings be upon him), which the Jews follow, and He revealed the Gospel to Isa (Jesus, peace and blessings be upon him), which the Nazarenes—who now call themselves Christians—follow. 
 
-The religion of the Jews was abrogated by the religion of the Nazarenes; meaning, it was obligatory for the Jews to follow the religion of the Nazarenes. Subsequently, the religion of the Nazarenes and all other religions were abrogated by the religion of Islam, with which the Prophet (Muhammad, peace and blessings be upon him) was sent. 
+The religion of the Jews was abrogated by the religion of the Nazarenes; meaning, it was obligatory for the Jews to follow the religion of the Nazarenes. Subsequently, **the religion of the Nazarenes and all other religions were abrogated by the religion of Islam, with which the Prophet (Muhammad, peace and blessings be upon him) was sent.** 
 
 Thus, the religion of Islam became the abrogator of all previous religions, and no religion is accepted by Allah except Islam. Allah, the Exalted, says: **"Truly, the religion with Allah is Islam."** [Aal Imran:19](https://alsalafiyyah.github.io/quran/?verse=3:19). This phrasing implies exclusivity—that there is no religion recognized by Allah other than Islam. 
 
