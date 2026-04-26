@@ -30,21 +30,6 @@
 
         hr { border: none; border-top: 0px solid black; margin: 3rem 0; }
         
-        .footnotes {
-            margin-top: 4rem;
-            padding-top: 2rem;
-            border-top: 1px solid #e5e5e5;
-            font-size: 10px !important;
-            color: #666;
-        }
-        .footnotes ol { 
-            list-style-type: decimal !important; 
-            list-style-position: inside; 
-            font-size: 9px !important;
-        }
-        .footnotes li { 
-            font-size: 9px !important;
-        }
         article ol { list-style-type: decimal !important; padding-bottom: 24px;list-style-position: inside;font-size: 1.125rem;line-height: 1.75;}
         article ul { list-style-type: circle !important;padding-bottom: 24px;list-style-position: inside;font-size: 1.125rem;line-height: 1.75;}
         article p {
@@ -60,3 +45,34 @@
             color: #00a6f4 !important;
             text-decoration: underline;
         }
+/* The Footnote Container */
+.footnotes {
+    margin-top: 4rem;
+    padding-top: 2rem;
+    border-top: 1px solid #e5e5e5;
+    font-size: 10px !important; 
+    color: #666;
+}
+.footnotes ol { 
+    list-style-type: decimal !important; 
+    list-style-position: inside; 
+    margin: 0;
+    padding: 0;
+}
+.footnotes li, 
+.footnotes li p, 
+.footnotes li a { 
+    font-size: 9px !important;
+    line-height: 1.4 !important;
+    display: inline;
+}
+.reversefootnote {
+    font-size: 8px !important;
+    margin-left: 4px;
+    text-decoration: none;
+    color: #00a6f4 !important;
+}
+.footnotes a:hover {
+    background: none !important;
+    text-decoration: underline;
+}
