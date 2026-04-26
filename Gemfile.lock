@@ -309,7 +309,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.17.0)
-  jekyll-include-cache (~> 0.2.1)
   jekyll-paginate (~> 1.1)
   jekyll-sitemap (~> 1.4)
 
