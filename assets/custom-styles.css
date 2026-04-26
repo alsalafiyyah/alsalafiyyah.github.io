@@ -37,9 +37,12 @@
             font-size: 10px !important;
             color: #666;
         }
-        .footnotes ol { 
+        .footnotes ol li { 
             list-style-type: decimal !important; 
             list-style-position: inside; 
+            font-size: 10px !important
+        }
+        .footnotes li { 
             font-size: 10px !important
         }
         article ol { list-style-type: decimal !important; padding-bottom: 24px;list-style-position: inside;font-size: 1.125rem;line-height: 1.75;}
