@@ -49,30 +49,30 @@
 .footnotes {
     margin-top: 4rem;
     padding-top: 2rem;
-    border-top: 1px solid #e5e5e5;
-    font-size: 10px !important; 
-    color: #666;
 }
-.footnotes ol { 
-    list-style-type: decimal !important; 
-    list-style-position: inside; 
-    margin: 0;
-    padding: 0;
-}
-.footnotes li, 
-.footnotes li p, 
-.footnotes li a { 
-    font-size: 9px !important;
+
+.footnotes ol li p {
+    font-size: 10px !important;
     line-height: 1.4 !important;
+    color: #666 !important;
+    margin: 0 !important; 
     display: inline;
 }
+
+.footnotes ol li {
+    font-size: 10px !important;
+    color: #999;
+    margin-bottom: 0.5rem;
+}
+
 .reversefootnote {
-    font-size: 8px !important;
-    margin-left: 4px;
-    text-decoration: none;
+    font-size: 10px !important;
+    text-decoration: none !important;
+    margin-left: 5px;
     color: #00a6f4 !important;
 }
-.footnotes a:hover {
-    background: none !important;
-    text-decoration: underline;
+
+.reversefootnote:hover {
+    background: none !important; 
+    text-decoration: underline !important;
 }
