@@ -1,0 +1,149 @@
+{% if page.date %}
+<footer class="mt-24 border-t-4 footer-post border-black dark:border-white pt-12 space-y-12 transition-colors">
+    
+<div class="grid grid-cols-1 md:grid-cols-3 gap-8 border-b border-gray-100 dark:border-zinc-800 pb-12 transition-colors">
+    {% if page.muftis %}
+        {% if page.muftis.chairman or page.muftis.deputy_chairman or page.muftis.members %}
+            {% if page.muftis.chairman %}
+            <div class="space-y-4">
+                <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400">Chairman</h5>
+                <div class="flex flex-col gap-2">
+                    {% for person in page.muftis.chairman %}
+                    <a href="{{ person.url | relative_url }}" class="text-lg font-black italic serif hover:line-through">{{ person.name }}</a>
+                    {% endfor %}
+                </div>
+            </div>
+            {% endif %}
+
+            {% if page.muftis.deputy_chairman %}
+            <div class="space-y-4">
+                <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400">Deputy</h5>
+                <div class="flex flex-col gap-2">
+                    {% for person in page.muftis.deputy_chairman %}
+                    <a href="{{ person.url | relative_url }}" class="text-lg font-black italic serif hover:line-through">{{ person.name }}</a>
+                    {% endfor %}
+                </div>
+            </div>
+            {% endif %}
+
+            {% if page.muftis.members %}
+            <div class="space-y-4">
+                <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400">Members</h5>
+                <div class="flex flex-col gap-2">
+                    {% for person in page.muftis.members %}
+                    <a href="{{ person.url | relative_url }}" class="text-lg font-black italic serif hover:line-through">{{ person.name }}</a>
+                    {% endfor %}
+                </div>
+            </div>
+            {% endif %}
+
+        {% elsif page.muftis.shaykh %}
+            <div class="md:col-span-3 space-y-4">
+                <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400">Scholars</h5>
+                <div class="flex flex-wrap gap-x-8 gap-y-2">
+                    {% for person in page.muftis.shaykh %}
+                    <a href="{{ person.url | relative_url }}" class="text-lg font-black italic serif hover:line-through">{{ person.name }}</a>
+                    {% endfor %}
+                </div>
+            </div>
+        {% endif %}
+
+    {% elsif page.shaykhs %}
+        <div class="md:col-span-3 space-y-4">
+            <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400">Scholars</h5>
+            <p class="text-lg font-black italic serif">
+                {% for sh in page.shaykhs %}
+                    <span>{{ sh }}</span>{% unless forloop.last %}, {% endunless %}
+                {% endfor %}
+            </p>
+        </div>
+
+    {% else %}
+        {% assign groups = "group1,group2,group3,group4,group5,group6,group7,group8,group9,group10,group11,group12,group13" | split: "," %}
+        {% for group_name in groups %}
+            {% if page[group_name] %}
+                {% assign group_data = site[group_name] %}
+                
+                {% if group_data.chairman %}
+                <div class="space-y-4">
+                    <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400">Chairman</h5>
+                    <div class="flex flex-col gap-2">
+                        {% for chairman in group_data.chairman %}
+                        <a href="{{ chairman.url | relative_url }}" class="text-lg font-black italic serif hover:line-through">{{ chairman.name }}</a>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endif %}
+
+                {% if group_data.deputy_chairman %}
+                <div class="space-y-4">
+                    <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400">Deputy</h5>
+                    <div class="flex flex-col gap-2">
+                        {% for deputy in group_data.deputy_chairman %}
+                        <a href="{{ deputy.url | relative_url }}" class="text-lg font-black italic serif hover:line-through">{{ deputy.name }}</a>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endif %}
+
+                {% if group_data.members %}
+                <div class="space-y-4">
+                    <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400">Members</h5>
+                    <div class="flex flex-col gap-2">
+                        {% for member in group_data.members %}
+                        <a href="{{ member.url | relative_url }}" class="text-lg font-black italic serif hover:line-through">{{ member.name }}</a>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endif %}
+                {% break %}
+            {% endif %}
+        {% endfor %}
+    {% endif %}
+</div>
+    
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-12 text-[10px] font-black uppercase tracking-widest">
+        
+        <div class="space-y-6">
+            {% if page.source %}
+            <div>
+                <span class="text-gray-400 block mb-1">Source</span>
+                <p class="leading-relaxed">{{ page.source }}</p>
+            </div>
+            {% endif %}
+
+            {% if page.article_taken_from %}
+            <div>
+                <span class="text-gray-400 block mb-1">Taken From</span>
+                {% for t in page.article_taken_from.taken_from %}
+                <a href="{{ t.web_url }}" rel="nofollow" target="_blank" class="border-b border-black dark:border-white hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-all">
+                    {{ t.web_title }}
+                </a>
+                {% endfor %}
+            </div>
+            {% endif %}
+        </div>
+
+        <div class="space-y-6 md:text-right">
+            {% if page.translated_by %}
+            <div>
+                <span class="text-gray-400 block mb-1">Translator</span>
+                <p>{{ page.translated_by }}</p>
+            </div>
+            {% endif %}
+
+            <div>
+                <span class="text-gray-400 block mb-4">Spread</span>
+                <div class="flex flex-wrap md:justify-end gap-x-6 gap-y-2">
+                    <a href="https://x.com/intent/tweet?text={{ page.title | url_encode }}&url={{ site.url }}{{ page.url }}" target="_blank" class="hover:line-through"><i class="fa-brands fa-x-twitter fa-lg"></i></a>
+                    <a href="https://www.threads.net/intent/post?text={{ page.title | url_encode }}%20{{ site.url }}{{ page.url }}" target="_blank" class="hover:line-through"><i class="fa-brands fa-threads fa-lg"></i></a>
+                    <a href="https://t.me/share/url?url={{ site.url }}{{ page.url }}&text={{ page.title | url_encode }}" target="_blank" class="hover:line-through"><i class="fa-brands fa-telegram fa-lg"></i></a>
+                    <a href="https://wa.me/?text={{ page.title | url_encode }}%20{{ site.url }}{{ page.url }}" target="_blank" class="hover:line-through"><i class="fa-brands fa-whatsapp fa-lg"></i></a>
+                    <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" target="_blank" class="hover:line-through"><i class="fa-brands fa-facebook fa-lg"></i></a>
+                    <a onclick="onShareCLick()" role="button" class="hover:line-through"><i class="fa-solid fa-arrow-up-from-bracket"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+{% endif %}

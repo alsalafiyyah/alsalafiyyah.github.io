@@ -1,0 +1,24 @@
+<div class="p-8 mb-6 border-4 border-black dark:border-white bg-white dark:bg-zinc-950 flex flex-col md:flex-row items-center gap-8 transition-colors">
+    <button id="play-button" class="flex-none w-16 h-16 bg-black text-white dark:bg-white dark:text-black flex items-center justify-center hover:opacity-80 transition-all focus:outline-none">
+        <svg id="play-icon" xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M8 5v14l11-7z" />
+        </svg>
+        <svg id="pause-icon" xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 hidden" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z" />
+        </svg>
+    </button>
+
+    <div class="flex-1 w-full">
+        <div class="flex justify-between items-end mb-2">
+            <div>
+                <span class="text-[10px] font-black uppercase tracking-[0.2em] block text-gray-400">Audio Version</span>
+                <h4 class="text-lg font-bold italic serif dark:text-white truncate max-w-[250px] md:max-w-[400px]" title="{{ page.title }}">{{ page.title }}</h4>
+            </div>
+            <span id="time-display" class="text-[10px] font-black tabular-nums dark:text-white">0:00 / 0:00</span>
+        </div>
+        <div class="relative w-full h-2 bg-gray-100 dark:bg-zinc-800 cursor-pointer" id="progress-container">
+            <div id="progress-bar" class="absolute h-full bg-black dark:bg-white w-0 transition-all duration-100"></div>
+        </div>
+    </div>
+    <audio id="main-audio" src="{{ page.mp3 }}"></audio>
+</div>
