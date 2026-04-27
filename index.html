@@ -2,8 +2,54 @@
 layout: default
 ---
 
-    <div class="divide-y border-b border-black dark:border-white divide-gray-100 dark:divide-zinc-800">
-        {% for post in site.posts limit:5 %}
+{% assign featured_post = site.posts | where: "featured", true | first %}
+
+{% if featured_post %}
+<section class="mb-24 border-b-8 border-black dark:border-white pb-16">
+    <div class="flex items-center gap-4 mb-8 text-[10px] font-black uppercase tracking-[0.3em] text-gray-400 italic">
+        <span class="text-black dark:text-white">Selected Fatwas</span>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-12 items-start">
+        <div>
+            <h2 class="text-5xl md:text-[6vw] font-black uppercase tracking-tighter leading-[0.8] serif italic mb-8">
+                <a href="{{ featured_post.url | relative_url }}" class="hover:line-through transition-all">
+                    {{ featured_post.title }}
+                </a>
+            </h2>
+            <div class="flex items-center gap-6 text-[10px] font-black uppercase tracking-widest opacity-50">
+                <span>{{ featured_post.date | date: "%d %B %Y" }}</span>
+                <span>/</span>
+                <span>{{ featured_post.hijri }}</span>
+            </div>
+        </div>
+
+        <div class="flex flex-col justify-between h-full space-y-8">
+            <p class="text-xl md:text-2xl font-bold leading-tight opacity-80">
+                {% if featured_post.summary %}
+                    {{ featured_post.summary | strip_html | truncatewords: 30 }}
+                {% else %}
+                   
+                {% endif %}
+            </p>
+            <div>
+                <a href="{{ featured_post.url | relative_url }}" class="inline-block bg-black text-white dark:bg-white dark:text-black px-10 py-5 font-black uppercase tracking-widest text-xs hover:scale-105 transition-transform">
+                    Read →
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+{% endif %}
+
+<div class="flex items-center gap-4 mb-8 text-[10px] font-black uppercase tracking-[0.3em] text-gray-400">
+    <span>Recent Fatwas</span>
+</div>
+
+<div class="divide-y border-b border-black dark:border-white divide-gray-100 dark:divide-zinc-800">
+    {% for post in site.posts limit:5 %}
+        {% if post.url == featured_post.url %}{% continue %}{% endif %}
+        
         <article class="group py-12 flex flex-col md:flex-row md:items-center justify-between gap-6">
             <div class="max-w-2xl">
                 <div class="flex items-center gap-4 mb-2">
@@ -21,12 +67,12 @@ layout: default
                 </a>
             </div>
         </article>
-        {% endfor %}
-    </div>
+    {% endfor %}
+</div>
 
-    <div class="mt-24 flex justify-center">
-        <a href="{{ '/fatwas' | relative_url }}" class="group relative inline-block px-12 py-6 bg-black dark:bg-white text-white dark:text-black font-black uppercase tracking-[0.4em] text-sm hover:scale-105 transition-transform duration-300">
-            View All Fatwas
-            <div class="absolute inset-0 border-2 border-black dark:border-white translate-x-2 translate-y-2 -z-10 group-hover:translate-x-0 group-hover:translate-y-0 transition-all"></div>
-        </a>
-    </div>
+<div class="mt-24 flex justify-center">
+    <a href="{{ '/fatwas' | relative_url }}" class="group relative inline-block px-12 py-6 bg-black dark:bg-white text-white dark:text-black font-black uppercase tracking-[0.4em] text-sm hover:scale-105 transition-transform duration-300">
+        View All Fatwas
+        <div class="absolute inset-0 border-2 border-black dark:border-white translate-x-2 translate-y-2 -z-10 group-hover:translate-x-0 group-hover:translate-y-0 transition-all"></div>
+    </a>
+</div>
