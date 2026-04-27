@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-04-26
 hijri: "Dhu al-Qidah 9, 1447 AH"
-title: "Whoe Are The Salaf"
+title: "Who Are The Salaf"
 source: "Fatawa Nur ala Ad-Darb, Tape no. 175"
 category: [fatwas,audios,manhaj]
 url: "https://binothaimeen.net/s/gmkXp3oG"
