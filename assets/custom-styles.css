@@ -20,7 +20,7 @@
         h1 { font-size: 4rem; text-transform: none; font-family: 'Playfair Display', serif; }
         h2 { font-size: 3rem; border-bottom: 4px solid; padding-bottom: 0.5rem; font-weight: 900; }
         
-        #question, #answer {
+        #question, #answer, .post h3, .post h2, .post h4 {
             font-family: 'Inter', sans-serif;
             font-size: 1.25rem;
             line-height: 1.8;
@@ -28,7 +28,7 @@
             font-weight: bold;
         }
 
-        hr { border: none; border-top: 0px solid black; margin: 3rem 0; }
+        hr { border: none; border-top: 0px solid black; margin: 4rem 0; }
         
         article ol { list-style-type: decimal !important; padding-bottom: 24px;list-style-position: inside;font-size: 1.125rem;line-height: 1.75;}
         article ul { list-style-type: circle !important;padding-bottom: 24px;list-style-position: inside;font-size: 1.125rem;line-height: 1.75;}
