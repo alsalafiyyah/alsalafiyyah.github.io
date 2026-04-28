@@ -5,7 +5,7 @@ date: 2026-04-20
 hijri: "Dhu al-Qidah 3, 1447 AH"
 title: "The Salafi Methodology in Dealing with Rulers and Authorities"
 source: "Liqa' al-Bab al-Maftuh tape 57"
-category: [fatwas,rulers,audios]
+category: [fatwas,rulers,audios,rulership]
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_057_30.mp3"
 active: audios
 summary: "There is no doubt that the manhaj (methodology) of the Salaf is to be patient with the harm of the rulers, to supplicate for them, and to establish the Friday and Eid prayers with them."
@@ -16,9 +16,11 @@ muftis:
 ---
 
 ### Question: 
+
 You mentioned in your speech regarding Salafism. The question is: if there is a man who outwardly appears to follow the Salaf, his creed (’aqidah) is sound, and he possesses many good deeds, yet he contradicts the Salaf in the methodology of dealing with the ruler—does he [then] exit the fold of Salafism and is he to be declared an innovator (a mubtadi')?
 
 ### Answer: 
+
 There is no doubt that the manhaj (methodology) of the Salaf is to be patient with the harm of the rulers, to supplicate for them, and to establish the Friday and Eid prayers with them. As Sheikhul-Islam [Ibn Taymiyyah], may Allah have mercy on him, stated in Al-Aqidah al-Wasitiyyah: **'Among the ways of Ahl al-Sunnah wal-Jama'ah is performing the Friday prayers, the Eids, the Hajj, and Jihad with the leaders—whether they are righteous or wicked.'** 
 
 Just as Imam Ahmad and other Imams used to treat the leaders according to what the situation required: by praying for them, asking for guidance for them, and not broadcasting their faults in front of the people. For remaining silent about a mistake is an error, and publicizing the mistake is [also] an error. The correct way is between this and that, as it is with all things; it is the middle path, and the middle path is best : **"And those who, when they spend, are neither extravagant nor niggardly, but hold a medium (way) between those (extremes)."** (al-Quran, Furqan 25:67)
