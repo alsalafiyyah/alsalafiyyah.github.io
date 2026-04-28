@@ -10,8 +10,8 @@ active: audios
 summary: "We do not love the polytheists or the disbelievers, but we do not treat them unjustly without right."
 muftis:
   shaykh: 
-    - name: Shaykh Salih al-Fawzan 
-      url: /biography/fawzan/
+    - name: "Shaykh Salih al-Fawzan"
+      url: "/biography/fawzan/"
 ---
 
 ### Question: 
