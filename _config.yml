@@ -65,36 +65,26 @@ plugins:
   - jekyll-sitemap
 
 exclude:
-  # Environments & System
   - bin
   - tmp
   - .jekyll-cache
   - .jekyll-metadata
   - .sass-cache
-  
-  # Configuration & Tools
   - config
   - vite.config.ts
   - Procfile.dev
   - Makefile
   - .gitignore
-  
-  # Documentation & Legal
   - docs
   - README.md
   - README
   - LICENSE
   - CODE_OF_CONDUCT.md 
-  
-  # Dependencies (Simplified)
   - vendor
   - node_modules
   - Gemfile
   - Gemfile.lock
-  
-  # Media Assets
   - "sample*.png" 
-                                
 
 defaults:
   # _posts
