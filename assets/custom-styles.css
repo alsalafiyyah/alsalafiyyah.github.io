@@ -20,7 +20,7 @@
         h1 { font-size: 4rem; text-transform: none; font-family: 'Playfair Display', serif; }
         h2 { font-size: 3rem; border-bottom: 4px solid; padding-bottom: 0.5rem; font-weight: 900; }
         
-        #question, #answer, .post h3, .post h2, .post h4 {
+        #question, #answer, .post h3, .post h2, .post h4, .page h3 {
             font-family: 'Inter', sans-serif;
             font-size: 1.25rem;
             line-height: 1.8;
