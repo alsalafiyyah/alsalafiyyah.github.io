@@ -3,7 +3,7 @@ layout: page
 title: About The Site
 date: 2019-03-07
 hijri: 30 Jumada al-Thani 1440 AH
-summary: "Our content is rooted in the authentic ‘aqidah of Ahlus-Sunnah wal-Jama‘ah. We strive to preserve and share the creed as understood and practiced by the first generations of Muslims (the Salaf)."
+summary: "We are dedicated to preserving and sharing this creed as it was understood and practiced by the Salaf as-Salih (the Pious Predecessors) of this Ummah."
 permalink: /about/
 ---
 
@@ -15,7 +15,7 @@ Our content is rooted in the authentic ‘aqidah (creed) of Ahlus-Sunnah wal-Jam
 
 ### Our ‘Aqidah
 
-**(1)**. First and foremost, we uphold the Tawheed (Oneness) of Allah. Our worship is dedicated solely to Him, performed in the manner He has legislated, and we solemnly bear witness that **there is none worthy of worship except Allah, and that Muhammad (ﷺ) is His bondman and Messenger.[^1]**
+**(1)**. First and foremost, we uphold the Tawheed (Oneness) of Allah. Our worship is dedicated solely to Him, performed in the manner He has legislated, and we solemnly bear witness that ***there is none worthy of worship except Allah, and that Muhammad (ﷺ) is His bondman and Messenger.[^1]***
 
 ***“That is Allah, your Lord, the Creator of all things, Laa ilaaha illa Huwa (none has the right to be worshipped but He).”** (Quran, Ghafir [40]:62).*
 
@@ -27,7 +27,7 @@ Allah Ta'ala says in His Book: ***“By the star when it goes down (or vanishes)
 
 The Prophet ﷺ said: ***“Verily I have been given the Quran and something similar to it along with it.”*** [^2]
 
-**(4).** We hold that adherence to the authentic Sunnah is mandatory, as obedience to the Messenger (ﷺ) is inseparable from obedience to Allah. Allah explicitly commands us: **“O you who believe! Obey Allah and obey the Messenger”** (Quran, an-Nisa’ [4]:59). We take his guidance as the final authority.
+**(4).** We hold that adherence to the authentic Sunnah is mandatory, as obedience to the Messenger (ﷺ) is inseparable from obedience to Allah. Allah explicitly commands us: ***“O you who believe! Obey Allah and obey the Messenger”*** (Quran, an-Nisa’ [4]:59). We take his guidance as the final authority.
 
 The Prophet ﷺ said in his Farewell Sermon: ***“I am leaving behind among you something which, if you adhere to it, you will not go astray after that. It is the Book of Allah (Quran) and my Sunnah.”*** [^3]
 
@@ -53,9 +53,9 @@ And He says: ***“None shall have the power of intercession, but such a one as 
 
 Allah Ta'ala says: ***“O you who believe! Obey Allah and obey the Messenger (Muhammad (peace and blessings be upon him)), and [<mark>those who are in authority</mark>](https://alsalafiyyah.github.io/obey-allah-messenger-and-those-who-are-in-authority/).”** (Quran, An-Nisa’[4]:59).*
 
-The Prophet (ﷺ) said, **“It is obligatory upon a Muslim to listen (to the ruler) and obey whether he likes it or not, except when he is ordered to do a sinful thing; in such case, there is no obligation to listen or to obey.”** [Al-Bukhari and Muslim].
+The Prophet (ﷺ) said, ***“It is obligatory upon a Muslim to listen (to the ruler) and obey whether he likes it or not, except when he is ordered to do a sinful thing; in such case, there is no obligation to listen or to obey.”*** [Al-Bukhari and Muslim].
 
-Shaykhul-Islam [Ibn Taymiyyah], may Allah have mercy on him, stated in Al-Aqidah al-Wasitiyyah: [**‘Among the ways of Ahl al-Sunnah wal-Jama’ah is performing the Friday prayers, the Eids, the Hajj, and Jihad with the leaders—whether they are righteous or wicked.’**](https://alsalafiyyah.github.io/salafi-manhaj-in-dealing-with-rulers-and-authorities/)
+Shaykhul-Islam [Ibn Taymiyyah], may Allah have mercy on him, stated in Al-Aqidah al-Wasitiyyah: [***‘Among the ways of Ahl al-Sunnah wal-Jama’ah is performing the Friday prayers, the Eids, the Hajj, and Jihad with the leaders—whether they are righteous or wicked.’***](https://alsalafiyyah.github.io/salafi-manhaj-in-dealing-with-rulers-and-authorities/)
 
 **(10).** We love the Ahl al-Bayt and recognize their high station; to hate them is to harbor hatred for the religion. This honor includes the wives of the Prophet (ﷺ). We uphold the consensus that slandering our mother ‘Aishah (may Allah be pleased with her)—whom Allah Himself cleared of all false accusations—or any of the Mothers of the Believers, is a clear act of apostasy.
 
@@ -69,9 +69,9 @@ And he ﷺ said: ***“Whoever reviles my companions, upon him be the curse of A
 
 And he ﷺ also said: ***“Do not slander my companions, for if one of you were to spend an amount of gold equivalent to the size of Mount Uhud, you would not even come halfway up to their level.”*** [^9]
 
-**(12).** We shun and reject all forms of Bid’ah (religious innovation), whether they pertain to matters of creed (‘aqidah) or practice (‘ibadah). We believe the religion was perfected during the lifetime of the Prophet (ﷺ); therefore, we heed his solemn warning: **“I urge you to adhere to my Sunnah and the way of the Rightly-Guided Caliphs who come after me. Adhere to it and cling firmly to it. And beware of newly introduced matters, for every newly introduced matter is a bid'ah (an innovation), and every bid'ah (innovation in religion) is a going astray, and every going astray will be in the Fire.”** [^10]
+**(12).** We shun and reject all forms of Bid’ah (religious innovation), whether they pertain to matters of creed (‘aqidah) or practice (‘ibadah). We believe the religion was perfected during the lifetime of the Prophet (ﷺ); therefore, we heed his solemn warning: ***“I urge you to adhere to my Sunnah and the way of the Rightly-Guided Caliphs who come after me. Adhere to it and cling firmly to it. And beware of newly introduced matters, for every newly introduced matter is a bid'ah (an innovation), and every bid'ah (innovation in religion) is a going astray, and every going astray will be in the Fire.”*** [^10]
 
-**(13).** We hold that all religious innovations are rejected, without exception. We do not recognize the concept of a "good bid’ah," as it contradicts the explicit and general warning of the Prophet (ﷺ): **“Every bid’ah is a going astray.”**
+**(13).** We hold that all religious innovations are rejected, without exception. We do not recognize the concept of a "good bid’ah," as it contradicts the explicit and general warning of the Prophet (ﷺ): ***“Every bid’ah is a going astray.”***
 
 **(14).** We maintain that the realization of Tawheed remains incomplete without the application of al-Wala’ wal-Bara’ (loyalty and disassociation for the sake of Allah). This entails directing one's love, alliance, and support toward what Allah loves, and distancing oneself from all that He dislikes and forbids. 
 
@@ -109,13 +109,13 @@ Allah Ta'ala says: ***“Allah does not forbid you to deal justly and kindly wit
 
 **(2).** Education: To provide a remedy for ignorance by promoting the pursuit of knowledge. We uphold the Prophetic principle that the cure for ignorance is to ask and to learn, fulfilling the obligation of knowledge-seeking upon every Muslim. 
 
-The Prophet ﷺ said: **“Seeking knowledge is an obligation upon every Muslim.”** [^13]
+The Prophet ﷺ said: ***“Seeking knowledge is an obligation upon every Muslim.”*** [^13]
 
 **(3).** Cultivating Scholarly Inquiry: To eradicate ignorance by encouraging the community to refer back to the people of knowledge.
 
-Allah Ta'ala says: **“So ask those who possess knowledge if you do not know”** (Quran, an-Nahl [16]:43)
+Allah Ta'ala says: ***“So ask those who possess knowledge if you do not know”*** (Quran, an-Nahl [16]:43)
 
-The Prophet ﷺ said, **“Verily, the only cure for ignorance is to ask questions.”** [^14]
+The Prophet ﷺ said, ***“Verily, the only cure for ignorance is to ask questions.”*** [^14]
 
 **(4).** Awareness: To awaken a deeper understanding of the Islamic mission within the hearts of the Ummah.
 
