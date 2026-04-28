@@ -53,6 +53,8 @@ And He says: ***“None shall have the power of intercession, but such a one as 
 
 Allah Ta'ala says: ***“O you who believe! Obey Allah and obey the Messenger (Muhammad (peace and blessings be upon him)), and [<mark>those who are in authority</mark>](https://alsalafiyyah.github.io/obey-allah-messenger-and-those-who-are-in-authority/).”** (Quran, An-Nisa’[4]:59).*
 
+The Prophet (ﷺ) said, **“It is obligatory upon a Muslim to listen (to the ruler) and obey whether he likes it or not, except when he is ordered to do a sinful thing; in such case, there is no obligation to listen or to obey.”** [Al-Bukhari and Muslim].
+
 **(10).** We love the Ahl al-Bayt and recognize their high station; to hate them is to harbor hatred for the religion. This honor includes the wives of the Prophet (ﷺ). We uphold the consensus that slandering our mother ‘Aishah (may Allah be pleased with her)—whom Allah Himself cleared of all false accusations—or any of the Mothers of the Believers, is a clear act of apostasy.
 
 Imam Ibn al-Qayyim (may Allah have mercy on him) said: ***“The (Muslim) Ummah is agreed that whoever slanders the Mother of Believers ‘Aishah (may Allah be pleased with her) is a kafir (disbeliever).”*** [^6]
