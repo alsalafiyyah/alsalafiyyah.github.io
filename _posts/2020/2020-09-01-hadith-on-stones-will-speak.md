@@ -35,7 +35,7 @@ It was also reported by Ibn Majah on the authority of Abu Umamah Al-Bahily who s
 
 Also read: 
 
-- [The Jews assembling in Palestine is from the signs of the Hour](https://alsalafiyyah.github.io/audios/jews-assembling-in-palestine-is-sign-of-the-hour/)
+- [The Jews assembling in Palestine is from the signs of the Hour](https://alsalafiyyah.github.io/audios/-jews-gathering-in-palestine-is-sign-of-the-hour/)
 - [What is the future of occupied Jerusalem?](https://alsalafiyyah.github.io/audios/zionists-jews-occupation-of-palestine/)
 - [Gharqad the tree of the Jews](https://alsalafiyyah.github.io/the-tree-of-the-jews/)
     
