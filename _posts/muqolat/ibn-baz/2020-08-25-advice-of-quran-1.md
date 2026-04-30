@@ -5,9 +5,6 @@ title: "Advice of Allah's Book [Part 1]"
 source: "Majmu' Fatawa 9/14"
 hijri: Muharram 06, 1442
 date: 2020-08-25
-category: [muqolat]
-lang: en
-locale: en
 active: muqolat
 summary: Truly, the Qur'an contains guidance and light. It is the strong Rope and Right Path of Allah. It is the Wise Reminder, whoever adheres to it will be saved, whereas whoever is lead astray from it perishes.
 muftis:

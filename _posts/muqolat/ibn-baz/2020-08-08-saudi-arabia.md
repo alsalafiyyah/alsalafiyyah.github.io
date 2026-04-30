@@ -5,9 +5,6 @@ title: By the Mercy of Allah and His Benevolence the rulers of this country appl
 source: Majmu' Fatawa 23/188
 hijri: Dhul-Hijjah 18, 1441
 date: 2020-08-08
-locale: en
-note: false
-lang: en
 active: muqolat
 category: [muqolat,manhaj]
 summary: "By Allah's Mercy and Benevolence, the rulers of this country were guided since the time of Imam Muhammad ibn Sa'ud to the time of the Custodian of the Two Sacred Mosques apply Shari'ah, which is one of Allah’s greatest favors."

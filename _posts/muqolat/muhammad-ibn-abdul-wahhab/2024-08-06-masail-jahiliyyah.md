@@ -7,8 +7,6 @@ date: 2024-08-06
 hijri: Safar 02, 1446
 source: "Masa'il Jahiliyyah"
 category: [muqolat]
-locale: en
-lang: en
 active: muqolat
 summary: "These are the aspects that the people of the Days of Ignorance –both the people of the Book and the non-People of the Book– were upon, which Rasulullah ﷺ opposed."
 muftis:
