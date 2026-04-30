@@ -268,7 +268,7 @@ document.addEventListener("DOMContentLoaded", function () {
     container.innerHTML = postsToShow.map(post => `
         <article class="group cursor-pointer mb-10 border-b border-gray-100 dark:border-zinc-800 last:border-0">
             <span class="text-[10px] font-bold uppercase tracking-[0.3em] text-gray-400 group-hover:text-black dark:group-hover:text-white transition-colors">
-                ${post.hijri || ''}
+                ${post.hijri || ''} / ${post.date}
             </span>
             <h2 class="text-4xl md:text-5xl font-black mt-4 mb-6 leading-[0.85] uppercase tracking-tighter group-hover:italic transition-all">
                 <a href="${post.url}">${post.title}</a>
@@ -277,7 +277,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ${post.summary}
             </p>
             <a href="${post.url}" class="inline-block mt-4 border-b-2 border-black dark:border-white pb-1 font-bold uppercase text-sm tracking-widest hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-colors">
-                Read Article
+                Read More
             </a>
         </article>
     `).join("");
@@ -288,7 +288,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const currentDisplay = document.getElementById("current-page-display");
     const totalDisplay = document.getElementById("total-pages-display");
 
-    // Update numbers (with leading zero for style)
+    // Update numbers 
     currentDisplay.textContent = currentPage < 10 ? `0${currentPage}` : currentPage;
     totalDisplay.textContent = totalPages < 10 ? `0${totalPages}` : totalPages;
 
