@@ -31,11 +31,7 @@ Accordingly, Salafiyyah in this context is defined by its methodology. Thus, any
 
 ---
 
-The Shaykh also said: "I call upon my Muslim brothers everywhere to adhere to the guidance of the Pious Predecessors, for that is better. Adhering to their guidance is what Allah—Mighty and Majestic—intended by His saying: “And the first forerunners [in the faith] among the Muhajireen and the Ansar and those who followed them with good conduct” (At-Tawbah 9:100). It is essential that we follow them in good conduct, neither exceeding their way nor falling short of it." [^1]
-
----
-
-Fatwas from the "Permanent Committee for Scholarly Research and Ifta'" of KSA regarding this topic:
+Fatwas from the "Permanent Committee for Scholarly Research and Ifta'" of KSA :
 
 ### Who are the Salaf?
 
