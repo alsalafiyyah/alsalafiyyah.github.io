@@ -4,9 +4,7 @@ publisher: alsalafiyyah@icloud.com
 title: "Acts of worship are Tawqifi"
 hijri: Ramadan 21, 1442 AH
 source: "Fatawa Al-Lajnah Al-Daimah no. 2467"
-lang: en
 category: [bidah]
-note: true
 summary: "The fundamental rule on the acts of 'Ibadah (worship) is that it is Tawqifiyyah (bound by a religious text and not subject to personal opinion)"
 muftis:
   chairman: 
@@ -22,14 +20,14 @@ muftis:
       url: /biography/qaud/
 ---
 
-Question: 
+### Question: 
 
 Please comment on the Hadith mentioned below, as it is controversial among the students of knowledge. I would like you to explain it in writing, so that they can all read the explanation and correct this misconception. The Hadith states: "**Jabir ibn 'Abdullah (may Allah be pleased with him) narrated that Whenever Allah's Messenger (peace he upon him) delivered a Khutbah (sermon), his eyes would become red, his tone loud, and his anger increased as if he were warning against an attacking army, saying: "The enemy is about to strike in the morning and is advancing against you in the evening." He would also say: "The last Hour and I have been sent like these two"; he would join his forefinger and middle finger; and would further say: "The best of speech is embodied in the Book of Allah, and the best of guidance is that given by Muhammad (peace be upon him). The most evil affairs are novelties; and every Bid'ah leads to misguidance." Then, he would say: "I should be dearer to Muslims than themselves. If a person leaves behind property, it will be for their families. If a person dies while in debt or leaves children (in need), the responsibility (of paying their debt and bringing up their children) lies on me.**" Narrated by Muslim [^1]. It is mentioned in the Hadith that "**every Bid'ah leads to misguidance.**" [^2]
 
 I oppose Bid'ah, and I refute it with the authentic Sunnah. Thus, I am asking that you explain this Hadith in order to clarify the linguistic and the Shar'i definition of Bid'ah, so that I might not renounce something which is not a Bid'ah. Some Fuqaha' (Muslim jurists) said that there are five rulings on Bid'ah. Is there any evidence for this? They claim that it may be Wajib (obligatory), Mubah (permissible), Makruh (disliked), Mandub (commendable), or Haram (prohibited). Please, your honor, explain this in detail, as the students of knowledge have greatly disagreed on the meaning of "every Bid'ah leads to misguidance". They say that the word "every" makes it all-inclusive, unless it is followed by an exception. Abu Dawud and Al-Tirmidhy also narrated a lengthy Hadith in which a part of it reads, "**Hold fast to my Sunnah and the examples of the Rightly-Guided Caliphs who will come after me. Adhere to them and hold to them fast. Avoid novelties (in religion), for every novelty is a Bid'ah, and every Bid'ah leads to misguidance.**" [^3] It is narrated in the exact wording: "**every novelty is a Bid'ah**". I hope Your honor that you will settle this problematic issue for me, which no one else has been able to.
 
 
-Answer:
+### Answer:
 
 First, this Shari'ah is fully established by Allah, and needs no human to complete it, as Allah states, "**This day, I have perfected your religion for you, completed My Favour upon you, and have chosen for you Islâm as your religion.**" (Surah Al-Ma'idah, 5: 3). 
 

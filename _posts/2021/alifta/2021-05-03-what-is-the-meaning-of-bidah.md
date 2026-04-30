@@ -21,11 +21,10 @@ muftis:
       url: /biography/zayd/
 ---
 
-Question: 
+### Question: 
 
 What is the meaning of Bid'ah? We want you to define this term clearly. Indeed, there are some people who say that everything that was not practiced during the lifetime of the Prophet (peace be upon him) and his Sahabah (Companions of the Prophet) is a Bid`ah. How should we reply to them?
 
-Answer:
 
 The word Bid'ah (innovation in religion) is literally taken from Al-Bid` which is initiating something without any precedent, as Allah (Exalted be He) says: "**The Originator of the heavens and the earth.**" [Al-Baqarah: 117] This means that it is Allah Who created them in the most beautiful and splendid way without any precedent. 
 
