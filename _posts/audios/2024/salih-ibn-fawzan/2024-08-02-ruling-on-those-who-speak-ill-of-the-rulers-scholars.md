@@ -5,11 +5,8 @@ publisher: alsalafiyyah@icloud.com
 title: "Ruling on those who speak ill of the Muslim rulers and the scholars"
 hijri: Muharram 27, 1446 AH
 date: 2024-08-02
-lang: en
-locale: en
 active: audios
 category: [fatwas,audios,rulership,sects]
-note: false
 summary: "Be aware of them and warn against them. Or they are people who backbite and slander others; that they are not Khawarij but instead people who backbite and slander others."
 mp3: https://www.alfawzan.af.org.sa/sites/default/files/6594.mp3
 translated_by: Abdurrahim Ibn Muhammad Al-Hadhrami

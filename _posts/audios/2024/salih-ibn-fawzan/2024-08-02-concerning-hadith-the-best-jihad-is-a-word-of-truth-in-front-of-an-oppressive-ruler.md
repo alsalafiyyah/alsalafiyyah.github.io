@@ -5,8 +5,6 @@ publisher: alsalafiyyah@icloud.com
 title: "Concerning the Hadith 'The best Jihad is a word of truth in front of an oppressive ruler'"
 hijri: Muharram 27, 1446 AH
 date: 2024-08-02
-lang: en
-locale: en
 active: audios
 category: [fatwas,audios,rulership,hadiths]
 note: false
