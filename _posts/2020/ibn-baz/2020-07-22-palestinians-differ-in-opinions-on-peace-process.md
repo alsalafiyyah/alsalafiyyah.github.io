@@ -5,9 +5,6 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 8/-"
 category: [rulership,palestine]
 hijri: Dhul-Qa'dah 31, 1441 AH
-lang: en
-note: false
-locale: en
 summary: "My advice for all the Palestinians is to agree upon making peace and cooperate in righteousness and piety in order to spare the blood of the people, gather them on Al-Haqq, and defeat the enemies who call for separation and conflict."
 muftis:
   shaykh: 
@@ -16,9 +13,11 @@ muftis:
 ---
 
 ### Question: 
+
 The Palestinians differ in their opinions regarding the peace process, while Hamas opposes it and calls for resistance, the Palestinian National Authority approves it, and the rest of people seem to support the Authority. Who should the people obey? What is our attitude abroad? Please clarify Al-Haqq (the Truth), as we are afraid that the Palestinians themselves may fight each other. Finally, as you are loved by the people, I would like to ask Your Eminence to dedicate a word to the people of this Ummah (nation) that will help them achieve happiness in this world and in the Hereafter, and guarantee the superiority of religion. May Allah guide us and you to all goodness! Amin.
 
 ### Answer: 
+
 My advice for all the Palestinians is to agree upon making peace and cooperate in righteousness and piety in order to spare the blood of the people, gather them on Al-Haqq, and defeat the enemies who call for separation and conflict. The president and all officials should refer to Shari'ah (Islamic law) and impose it upon the Palestinians, as it achieves happiness and welfare for everyone and this is ordained by Allah upon the Muslims when they can do it, according to His saying in Surah Al-Ma'idah, **"And so judge (you O Muhammad صلى الله عليه وسلم) among them by what Allâh has revealed and follow not their vain desires"** [al-Maidah: 49] until His saying, **"Do they then seek the judgement of (the days of) Ignorance? And who is better in judgement than Allâh for a people who have firm Faith."** [al-Maidah: 50]
 
 He (Glorified be He) says in Surah Al-Nisa', **"But no, by your Lord, they can have no Faith, until they make you (O Muhammad صلى الله عليه وسلم) judge in all disputes between them, and find in themselves no resistance against your decisions, and accept (them) with full submission"** [An-Nisa: 64] 

@@ -4,10 +4,7 @@ title: "Ruling on rebel against the rulers"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 8/202"
 category: [fatwas,rulership]
-hijri: Dhul-Qa'dah 30, 1441 AH
-lang: en
-note: false
-locale: en
+hijri: "Dhul-Qa'dah 30, 1441 AH"
 summary: "The Nas from the Sunnah explains the meaning and confines the absoluteness of the Ayah to obeying the Muslims in authority in what is judged to be Ma‘ruf."
 muftis:
   shaykh: 

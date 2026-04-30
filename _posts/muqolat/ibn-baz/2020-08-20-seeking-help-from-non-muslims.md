@@ -5,10 +5,6 @@ publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa, Instagram@Alsalafiyy
 source: "Majmu' Fatawa Al-Shaykh Ibn Baz 6/183"
 hijri: Muharram 1, 1442
 date: 2020-08-20
-lang: en
-note: false
-locale: en
-lang: en
 category: [rulership,muqolat]
 summary: "According to consensus of scholars, it is permissible to seek the help of the hypocrites for the Prophet, peace be upon him, sought the help of Abdullah ibn Ubay and his people."
 muftis:

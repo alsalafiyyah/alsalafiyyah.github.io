@@ -3,10 +3,7 @@ layout: post
 title: "No obedience in matters involving disobedience to Allah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 3552-8"
-hijri: Muharram 12, 1442 AH
-lang: en
-note: true
-uid: no-obedience-in-matters-involving-disobedience-to-allah
+hijri: "Muharram 12, 1442 AH"
 category: [rulership, hisbah]
 summary: "A believer should abandon such sins, and follow the Book of Allah and the Sunnah of His Messenger (peace be upon him). This is an established fact. They should neither obey the ruler nor anyone else in what leads to the disobedience of Allah (Glorified and Exalted be He)."
 muftis:
@@ -23,11 +20,11 @@ muftis:
       url: /biography/qaud/
 ---
 
-Question: 
+### Question: 
 
 Is it permissible for a true believer to commit some minor sins to please a ruler or some people, or does he have to strictly follow the Book of Allah and the Sunnah?
 
-Answer:
+### Answer:
 
 A believer should abandon such sins, and follow the Book of Allah and the Sunnah of His Messenger (peace be upon him). This is an established fact. They should neither obey the ruler nor anyone else in what leads to the disobedience of Allah (Glorified and Exalted be He). The Prophet (peace be upon him) said, "**Truly, obedience is only in what is good.** [^1]
 

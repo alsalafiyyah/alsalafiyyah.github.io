@@ -3,10 +3,7 @@ layout: post
 title: "Punishment on the Day of Resurrection for someone to whom the Hadd has been administered"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 6341-1"
-hijri: Muharram 10, 1442 AH
-lang: en
-note: true
-uid: punishment-on-the-day-of-resurrection-for-someone-to-whom-the-hadd
+hijri: "Muharram 10, 1442 AH"
 category: ["rulership", hudud]
 summary: "Will a sinner who receives the Hadd (ordained punishment for violating Allah’s Law) in worldly life be punished on the day of Resurrection?"
 muftis:
@@ -23,11 +20,11 @@ muftis:
       url: /biography/qaud/
 ---
 
-Question: 
+### Question: 
 
 Will a sinner who receives the Hadd (ordained punishment for violating Allah’s Law) in worldly life be punished on the day of Resurrection?
 
-Answer:
+### Answer:
 
 It is reported in the Two Sahih (authentic) Books of Hadith (i.e. Al-Bukhari and Muslim) and in other books, from 'Ubadah ibn Al-Samit (may Allah be pleased with him) from the Prophet (peace be upon him) that he said, "**Give me the oath (Pledge of allegiance) to: (1) Not join anything in worship along with Allah, (2) Not steal, (3) Not commit illegal sexual intercourse, (4) Not kill the soul that Allah made inviolable except for a valid reason. Whoever amongst you fulfils his pledge, his reward will be with Allah, and whoever commits any of those sins and receives the legal punishment in this world for that sin, then that punishment will be an expiation for that sin, and whoever commits any of those sins and Allah does not expose him, then it is up to Allah if He wishes He will punish him or if He wishes, He will forgive him.**" [^1]
 

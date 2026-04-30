@@ -4,22 +4,20 @@ publisher: alsalafiyyah@icloud.com
 title: "Is enjoining Ma'ruf and forbidding Munkar by the hand is a right for all Muslims or is it just confined to those in authority and their deputies?"
 hijri: "Dhul-Qa'dah 30, 1441 AH"
 source: "Fatawa Al-Shaykh Ibn Baz 8/207, question 8"
-lang: en
 category: [rulership, hisbah]
-note: false
 uid: is-enjoining-maruf-forbid-munkar-a-right-for-muslims-or-the-authorities
-summary: "Correcting the wrong is a right for all Muslims according to their ability. However, changing by the hand must be based on ability that will not result in greater corruption or evil. Man has the right to rectify matters with his hand (by taking action) in his home, with his children, wife, and servants; and a manager has the authority to make changes with the hand within the organization they are responsible for, in accordance with the instructions that were given to them."
+summary: "Correcting the wrong is a right for all Muslims according to their ability. However, changing by the hand must be based on ability that will not result in greater corruption or evil."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
       url: /biography/binbaz/
 ---
 
-Question:
+### Question:
 
 Is enjoining Ma‘ruf and forbidding Munkar, namely correcting the wrong by the hand, a right for all Muslims or is it just confined to those in authority and their deputies?
 
-Answer:
+### Answer:
 
 Correcting the wrong is a right for all Muslims according to their ability, because the Messenger (peace be upon him) said, “**Anyone of you who sees Munkar (that which is unacceptable or disapproved of by Islamic law and Muslims of sound intellect), let them change it with their hand (by taking action); if they cannot, then with their tongue (by speaking out); and if they cannot, then with their heart (by hating it and feeling that it is wrong); and that is the weakest of Iman (faith).**” [^1]
 

@@ -4,8 +4,6 @@ publisher: alsalafiyyah@icloud.com
 title: "Clarification of the rulers' rights upon the Ummah"
 hijri: "Dhul-Qa'dah 30, 1441"
 source: "Majmu' Fatawa Wa Maqalat 9/93"
-lang: en
-locale: en
 active: muqolat
 category: [muqolat,rulership]
 note: false

@@ -4,10 +4,7 @@ title: "Ruling on criticize rulers openly on the Minbar (pulpit)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 8/210"
 category: ["rulership"]
-hijri: Dhul-Qa'dah 31, 1441 AH
-lang: en
-note: false
-uid: criticize-rulers-on-minbar
+hijri: "Dhul-Qa'dah 31, 1441 AH"
 summary: "It was not the practice of the Salaf to make the defects of their rulers known by mentioning them on the Minbar. This is because doing so results in anarchy, disobedience, and harmful consequences."
 muftis:
   shaykh: 
@@ -15,11 +12,11 @@ muftis:
       url: /biography/binbaz/
 ---
 
-Question: 
+### Question: 
 
 Was it the practice of our Salaf (righteous predecessors) to criticize rulers openly on the Minbar (pulpit)? If not, how would they advise their rulers?  
 
-Answer: 
+### Answer: 
 
 It was not the practice of the Salaf to make the defects of their rulers known by mentioning them on the Minbar. This is because doing so results in anarchy, disobedience, and harmful consequences. Our Salaf used to advise their rulers in privacy either by writing to them or by conveying the guiding message to them through scholars who would normally meet them. As for forbidding Munkar (that which is unacceptable or disapproved of by Islamic law and Muslims of sound intellect) such as Zina (premarital sexual intercourse and/or adultery), Khamr (intoxicant), and Riba (usury) without mentioning the names of the committers of these major sins, it is Wajib (obligatory) for the generality of the proofs in this regard.
 

@@ -3,10 +3,7 @@ layout: post
 title: "Forgiving the people of good qualities their slips"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 18732"
-hijri: Muharram 10, 1442 AH
-lang: en
-note: true
-uid: forgiving-people-of-good-qualities-their-slips
+hijri: "Muharram 10, 1442 AH"
 category: ["rulership", hudud, hadiths]
 summary: "The Hadith means that it is desirable to forgive people of good qualities if they commit a small or trivial mistake but not a sin that requires the execution of a Hadd (ordained punishment for violating Allah’s Law) decreed by Allah (Exalted be He) if the ruler knows about the sin in which case it must be executed."
 muftis:
@@ -25,11 +22,11 @@ muftis:
       url: /biography/fawzan/
 ---
 
-Question: 
+### Question: 
 
 What is the degree of authenticity of the Hadith narrated by Abu Dawud and others which reads: "**Forgive the people of good qualities their slips**" Is it permissible to consider this Hadith religious evidence? Based on my narrow background of scholars' views, I know that Ibn Hajar, the author of (Bulugh Al-Maram) said that there are different views about the authenticity of this Hadith. I also know that the verifier of the book (Al-Muwafaqat) questions the authenticity of this Hadith saying, "It contradicts the Qur'an which calls for establishing justice and equality." Please, explain the decisive judgment concerning this Hadith.
 
-Answer:
+### Answer:
 
 This Hadith is narrated by Imam Ahmad, Abu Dawud, Al-Nasa'i, Al-Bayhaqi, and others from 'Aishah (may Allah be pleased with her) that the Prophet (peace be upon him) said, "**Forgive the people of good qualities their slips unless it be in Hudud (ordained punishments for violating Allah’s Law).**" [^1] This Hadith has different chains of narrations but they are all criticized by scholars of Hadith. However, the diversity of narrations raises it up to the level of a Hadith Hasan (good Hadith).
 

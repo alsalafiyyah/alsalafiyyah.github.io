@@ -3,10 +3,7 @@ layout: post
 title: "Executing Hadd in the absence of the ruler"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 16815-3"
-hijri: Muharram 10, 1442 AH
-lang: en
-note: true
-uid: executing-hadd-in-the-absence-of-the-ruler
+hijri: "Muharram 10, 1442 AH"
 category: ["rulership", hudud]
 summary: "Only a Muslim ruler or his deputy is entitled to execute the Hudud, so as to keep order, prevent transgression, and oppression, and provide security."
 muftis:
@@ -24,11 +21,11 @@ muftis:
       url: /biography/bakr/
 ---
 
-Question: 
+### Question: 
 
 Is it permissible to execute Hudud (ordained punishments for violating Allah’s Law) when there is no Muslim ruler?
 
-Answer:
+### Answer:
 
 Only a Muslim ruler or his deputy is entitled to execute the Hudud, so as to keep order, prevent transgression, and oppression, and provide security. A sinner has to repent to Allah, seek His Forgiveness and increase his good deeds. If he returns to Allah in genuine repentance, Allah will forgive him and pardon him out of His Grace and Clemency. Allah (Exalted be He) says, "**And those who invoke not any other ilâh (god) along with Allâh, nor kill such person as Allâh has forbidden, except for just cause, nor commit illegal sexual intercourse - and whoever does this shall receive the punishment. The torment will be doubled to him on the Day of Resurrection, and he will abide therein in disgrace; Except those who repent and believe (in Islâmic Monotheism), and do righteous deeds; for those, Allâh will change their sins into good deeds, and Allâh is Oft-Forgiving, Most Merciful.**" [al-Furqan: 68-70]
 

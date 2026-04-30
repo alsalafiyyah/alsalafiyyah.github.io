@@ -3,10 +3,7 @@ layout: post
 title: "Obedience to the ruler"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 9/103"
-hijri: Muharram 6, 1442 AH
-lang: en
-locale: en
-note: false
+hijri: "Muharram 6, 1442 AH"
 category: [fatwas,rulership,hadiths]
 summary: "This ruling is general and its meaning is qualified by other Hadiths from the Sunnah, as both the Quran and the Sunnah are integrated and their rulings restrict each other. That is to say, the general meaning in the book of Allah can be defined by a Hadith of the Prophet (peace be upon him) and vice versa."
 muftis:
