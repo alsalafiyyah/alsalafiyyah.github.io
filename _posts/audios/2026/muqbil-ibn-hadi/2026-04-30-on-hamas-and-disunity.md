@@ -23,3 +23,5 @@ What is your opinion on Islamic Jihad and the Islamic Resistance Movement (Hamas
 As for the movement (Hamas), it will not be a victory for Islam, for it includes Shias and partisan Ikhwanis (Muslim Brotherhood members). Yasser Arafat deceived the people a great deal even though he was an agent for Israel; then, in the end, he sold out Palestine through this 'self-rule.' If Muslim governments were to leave the Muslims alone, they are the ones who would be able to cleanse Jerusalem of the Jews.
 
 As for the Hamas group, it is a partisan group that does not enjoin what is right nor forbid what is wrong, and they denounce the People of the Sunnah (Ahl al-Sunnah). If they were to achieve victory, they would do exactly what was done in Afghanistan—turning cannons and machine guns against one another—because they are not of one heart.
+
+[ما رأيك في الجهاد الإسلامي وحركة المقاومة الإسلامية (حماس) في الأراضي العربية المحتلة في فلسطين؟](https://www.muqbel.net/fatwa.php?fatwa_id=608)
