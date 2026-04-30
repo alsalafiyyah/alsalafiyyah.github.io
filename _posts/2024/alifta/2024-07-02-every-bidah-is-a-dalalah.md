@@ -6,10 +6,7 @@ date: 2024-07-02
 hijri: Dhul-Hijjah 26, 1445
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 948, Question 3
 category: [fatwas,bidah,hadiths]
-note: true
 group4: true
-locale: en
-lang: en
 summary: Beware of newly-invented matters (in religion), for every newly-invented matter is a Bid‘ah, and every Bid‘ah is a Dalalah.
 article_taken_from: 
   taken_from:

@@ -6,9 +6,6 @@ date: 2024-06-30
 hijri: Dhul-Hijjah 24, 1445
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 18224, Question 3
 category: [fatwas,bidah,sects]
-note: true
-locale: en
-lang: en
 summary: It is not permissible to recite the Qur'an in return for a payment and have this as a profession. This is because recitation of the Qur'an is an act of worship and a Qurbah (a good deed by which Allah's Pleasure is sought).
 muftis:
   chairman: 

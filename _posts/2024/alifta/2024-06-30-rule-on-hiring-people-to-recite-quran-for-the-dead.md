@@ -6,9 +6,6 @@ date: 2024-06-30
 hijri: Dhul-Hijjah 24, 1445
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 14409, Question 2
 category: [fatwas, quran, funerals, bidah]
-note: true
-locale: en
-lang: en
 summary: Reciting the Qur'an for the souls of the dead or reciting it in the graves or hiring someone to recite it is an act of bid`ah and is not permissible.
 group6: true
 ---

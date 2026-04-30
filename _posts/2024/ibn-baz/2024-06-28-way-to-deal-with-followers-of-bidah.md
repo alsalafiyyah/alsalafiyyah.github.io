@@ -10,8 +10,10 @@ note: false
 locale: en
 lang: en
 summary: "You must avoid whoever exposes their Bid'ah and reveres the Prophet's family members excessively whether 'Ali, Fatimah, etc. or even any one of the other Sahabah. This is because worshipping the Prophet's family members and revering the Sahabah excessively is disbelief and apostasy."
-shaykhs: 
- - Shaykh Ibn Baz
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
 ### Question

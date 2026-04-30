@@ -6,10 +6,7 @@ date: 2024-07-02
 hijri: Dhul-Hijjah 26, 1445
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 8886, Question 1
 category: [fatwas]
-note: true
 group1: true
-locale: en
-lang: en
 summary: It is not permissible to say this sentence 'There are still some natural gifts in our world,' or to write it, even if it is claimed to be metaphorical, because it causes confusion.
 article_taken_from: 
   taken_from:
