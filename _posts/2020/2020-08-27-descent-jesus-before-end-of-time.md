@@ -3,21 +3,18 @@ layout: post
 title: "The descent of Jesus before the end of the time"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 1621-3"
-hijri: Muharram 8, 1442 AH
-date: 2020/08/27
-category: ["prophets"]
-shaykhs: 
- - Shaykh Abdul-'Aziz ibn 'Abdullah ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+hijri: "Muharram 8, 1442 AH"
+date: 2020-08-27
+category: ["prophets", fatwas]
+summary: "Yes, Prophet 'Isa, the Son of Maryam (Mary), will come down to the earth again at the end of time. He will rule according to the Shari`ah of Prophet Muhammad (peace be upon him)"
+group1: true
 ---
 
-Question: 
+### Question: 
 
 Supposing that Prophet 'Isa (Jesus) (peace be upon him) is alive now, will he descend at the end of time and rule over people according to the religion of Muhammad (peace be upon him)? If so, what is your proof and how can we refute those who claim this statement is invalid?
 
-Answer:
+### Answer:
 
 Yes, Prophet 'Isa, the Son of Maryam (Mary), will come down to the earth again at the end of time. He will rule according to the Shari`ah of Prophet Muhammad (peace be upon him), break the cross, kill the pigs, abolish Jizyah (poll tax required from non-Muslims living in an Islamic state) and will not accept any religion except Islam. Moreover, before his death, all the people of the Book (the Jews and Christians) will believe in him after his descent at the end of time. Allah (Exalted be He) says, "And there is none of the people of the Scripture (Jews and Christians) but must believe in him [‘Isâ (Jesus), son of Maryam (Mary), as only a Messenger of Allâh and a human being] before his [‘Isâ (Jesus) عليه السلام) or a Jew’s or a Christian’s] death (at the time of the appearance of the angel of death). And on the Day of Resurrection, he [‘Isâ (Jesus)] will be a witness against them." [al-Nisa: 159]
 

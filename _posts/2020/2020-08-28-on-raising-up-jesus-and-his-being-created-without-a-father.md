@@ -3,17 +3,14 @@ layout: post
 title: "On raising up of Jesus and his being created without a father and the reason behind the permissibility of Jihad"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 6426"
-hijri: Muharram 9, 1442 AH
-date: 2020/08/28
-category: ["prophets"]
-shaykhs: 
- - Shaykh Abdul-'Aziz ibn 'Abdullah ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+hijri: "Muharram 9, 1442 AH"
+date: 2020-08-28
+category: ["prophets", fatwas]
+summary: "Jesus was raised alive, in both body and soul, to the heavens. He is not yet dead; he was not killed by the Jews nor crucified, but it appeared so to them as it was someone to them who resembled him"
+group1: true
 ---
 
-Question: 
+### Question: 
 
 Is it a necessity to believe in the following matters in Islam or not:
 
@@ -22,7 +19,7 @@ Is it a necessity to believe in the following matters in Islam or not:
 3. Jihad (fighting in the Cause of Allah) in Dar-ul-Harb (enemy territory) means attacking to seize power and get non-Muslims to enter the religion of Islam?
 
 
-Answer:
+### Answer:
 
 It is obligatory to have belief in the following:
 
