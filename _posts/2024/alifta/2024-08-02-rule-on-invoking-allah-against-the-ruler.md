@@ -3,13 +3,10 @@ layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
 title: "The ruling on invoking Allah against a ruler who does not judge according to Shari'ah"
-hijri: Muharram 27, 1446 AH
+hijri: "Muharram 27, 1446 AH"
 date: 2024-08-02
-lang: en
-locale: en
 category: [fatwas,rulership]
 source: "Fatawa al-Lajnah ad-Da'imah, Fatwa no. 6361, Question 4"
-note: true
 summary: "What is the ruling on invoking Allah against a ruler who does not judge according to Allah’s revealed Law?"
 article_taken_from: 
   taken_from:

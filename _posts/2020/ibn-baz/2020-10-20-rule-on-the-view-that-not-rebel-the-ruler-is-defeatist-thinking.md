@@ -4,12 +4,8 @@ published: true
 title: "Ruling on the view that not rebel against the ruler as a defeatist thinking which manifests weakness"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat p. 8/206, question 2"
-category: [rulership, sects]
+category: [fatwas,rulership, sects]
 hijri: "Rabi' Al-Awwal 03, 1442"
-lang: en
-note: false
-locale: en
-uid: rule-on-the-view-that-not-rebel-the-ruler-is-defeatist-thinking
 summary: "This is a mistake on the part of those who said this and shows their lack of understanding, as they neither understand the Sunnah nor know it in the correct way."
 muftis:
   shaykh: 
@@ -17,11 +13,11 @@ muftis:
       url: /biography/binbaz/
 ---
 
-Question: 
+### Question: 
 
 Your Eminence, we know that this forms one of the foundational beliefs of Ahl-ul-Sunnah wal-Jama‘ah (those adhering to the Sunnah and the Muslim main body), but unfortunately, some adherents to Ahl-ul-Sunnah wal-Jama‘ah see this as defeatist thinking, which manifests weakness. This opinion has been expressed, for this reason they call the youth to adopt violence to change conditions. 
 
-Answer:
+### Answer:
 
 This is a mistake on the part of those who said this and shows their lack of understanding, as they neither understand the Sunnah nor know it in the correct way. In fact, their enthusiasm and jealous protectionism to remove Munkar (that which is unacceptable or disapproved of by Islamic law and Muslims of sound intellect) pushes them to do that which contradicts the Shari‘ah (Islamic law), as was done by Al-Khawarij (separatist group that believes committing a major sin amounts to disbelief) and Al-Mu'tazilah (a deviant Islamic sect claiming that those who commit major sins are in a state between belief and disbelief). These groups had so much love to support Al-Haqq (the Truth) or make changes for it that they themselves fell into falsehood, to the extent that they declared sinful Muslims to be Kafirs (disbelievers), as Al-Khawarij did, or said that their sins will cause them to dwell eternally in the Fire, as did Al-Mu'tazilah.
 
@@ -39,6 +35,5 @@ It is obligatory on those who are zealous for Allah and the Du‘ah (callers to 
 
 A believer should also supplicate to and beseech Allah to guide those in authority and help them renounce falsehood and establish Al-Haqq in a good manner and in ways that are best. They should behave the same way towards their zealous brothers; they should advise, instruct, and remind them for them to be active in their Da‘wah (calling to Islam) in a good way, not aggressively or harshly. This will increase good and reduce evil. May Allah guide those in authority to the good and to abidance by it, and give a good outcome to everyone.
 
----
 
 [^1]: Al-Nasa'i, Sunan, Book on Zakah, no. 2578.

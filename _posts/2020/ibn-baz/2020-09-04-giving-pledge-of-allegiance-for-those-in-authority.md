@@ -3,12 +3,8 @@ layout: post
 title: "Does giving the pledge of allegiance entail supplicating to Allah for those in authority?"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat p. 8/209"
-category: [rulership]
-hijri: Muharram 16, 1442 AH
-lang: en
-locale: en
-note: false
-uid: giving-pledge-of-allegiance-for-those-in-authority
+category: [fatwas,rulership]
+hijri: "Muharram 16, 1442 AH"
 summary: "One of the entailments of giving the pledge of allegiance is to advise the ruler. It is a part of this advice to supplicate to Allah for the ruler that they may be granted success, guidance, righteous intentions and actions, and an upright retinue."
 muftis:
   shaykh: 
@@ -16,11 +12,11 @@ muftis:
       url: /biography/binbaz/
 ---
 
-Question: 
+### Question: 
 
 Does giving the pledge of allegiance entail supplicating to Allah for those in authority? 
 
-Answer:
+### Answer:
 
 One of the entailments of giving the pledge of allegiance is to advise the ruler. It is a part of this advice to supplicate to Allah for the ruler that they may be granted success, guidance, righteous intentions and actions, and an upright retinue. Because one of the means by which the ruler is granted success by Allah is to have truthful ministers who help him do good, remind him when he forgets, and support him when he remembers; this is a means to have Allah’s Support.
 

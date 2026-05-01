@@ -2,11 +2,9 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Correct methodology for advising the rulers"
-hijri: Rajab 13, 1443 AH
+hijri: "Rajab 13, 1443 AH"
 source: "Al-Ajwibah Al-Mufidah p. 47-52"
-lang: en
-category: [rulership]
-note: false
+category: [fatwas,rulership]
 summary: "No one is Infallible except for Allahs Messenger (peace be upon him). Rulers are humans and they make errors. So no doubt they have errors and mistakes as they are not infallible. However, you should not make their errors a cause for you to publicize them and stop obeying them, even if they may be oppressive and unjust or sinful, so long as they do not commit clear disbelief."
 muftis:
   shaykh: 
@@ -14,11 +12,11 @@ muftis:
       url: /biography/fawzan/
 --- 
 
-Question: 
+### Question: 
 
 What is the correct methodology for advising, particularly with regard to advising rulers? Should it be done by publicizing their evil actions from the mimbars or by advising them in private? I would like to know what the correct methodology is concerning this matter. 
 
-Answer: 
+### Answer: 
 
 No one is Infallible except for Allah's Messenger (peace be upon him). Rulers are humans and they make errors. So no doubt they have errors and mistakes as they are not infallible. However, you should not make their errors a cause for you to publicize them and stop obeying them, even if they may be oppressive and unjust or sinful, so long as they do not commit clear disbelief. This is what the Prophet (peace be upon him) commanded us with. If they have sins and commit oppression and injustice, then indeed being patient while continuing to obey them keeps the unity, maintains the unification of the Muslims, and protects the lands of the Muslims. Furthermore, the evils that result from opposing them and seceding from them are far greater than the evils that (may) come from them. So there may occur greater evil than that which comes from them in the first place, provided this evil (on their part) is less than disbelief (Kufr) and polytheism (Shirk). We are not saying that one should remain silent about the errors that come from the rulers. No, rather they should be corrected. But they must be corrected in a pure way, which is by advising them in private and writing to them personally. By writing to them, we don't mean that which is written down, passed through the hands of a group of individuals and then spread amongst people. This is not permissible. Rather, a confidential letter containing one's advice should be written and handed over to the ruler or read to him orally. As for a letter that is written and then photocopied and distributed to the people, this act is not permissible since it is publicizing (his errors), and it is just like speaking against him from the mimbar. In fact, it is worse because it is possible for a person to forget some speech he hears, but as for a written letter, it remains and passes through hands. So this is not from the truth. 
 

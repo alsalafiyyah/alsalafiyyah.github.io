@@ -5,8 +5,7 @@ publisher: alsalafiyyah@icloud.com
 title: "The Believer's Stance towards the Trials (Fitnah)"
 hijri: "Rabi' Al-Awwal 05, 1442 AH"
 source: "Majmu' Fatawa Wa Maqalat of Ibn Baz 6/103"
-lang: en
-category: [rulership,hisbah,jihad]
+category: [rulership,hisbah,jihad,muqolat]
 note: false
 summary: "Trial also takes place by means of doubts and lust. Many people were exposed to trial because of groundless doubts, like the Al-Jahmiyyah, Al-Mu'tazilah, Shi'ah, Al-Murji'ah, and other deviant sects who were misguided by doubts and deviated from the way of Ahl-ul-Sunnah wal-Jama'ah."
 muftis:
@@ -111,7 +110,6 @@ May Allah guide all our neighboring countries to adhere to Allah's Book, make th
 
 See also: [**Ruling on seeking the help of the disbelievers to fight other disbelievers**](/seeking-help-from-non-muslims)
 
----
 
 [^1]: Al-Tirmidhi, Sunan, Book on the virtues of the Qur'an, no. 2906; and Al-Darimi, Sunan, Book on the virtues of the Qur'an, no. 3331.
 [^2]: Muslim, Sahih, Book on Jihad and Military expeditions, no. 1817; Al-Tirmidhi, Sunan, Book on military expeditions, no. 1558; Abu Dawud, Sunan, Book on Jihad, no. 2732; Ibn Majah, Sunan, Book on Jihad, no. 2832; and Al-Darimy, Sunan, Book on military expeditions, no. 2496.
