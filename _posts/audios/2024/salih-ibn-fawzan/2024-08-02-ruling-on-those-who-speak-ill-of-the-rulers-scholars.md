@@ -2,14 +2,13 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on those who speak ill of the Muslim rulers and the scholars"
-hijri: Muharram 27, 1446 AH
+title: "Categorizing Those Who Speak Against People of Authority"
+hijri: "Muharram 27, 1446 AH"
 date: 2024-08-02
 active: audios
 category: [fatwas,audios,rulership,sects]
-summary: "Be aware of them and warn against them. Or they are people who backbite and slander others; that they are not Khawarij but instead people who backbite and slander others."
+summary: "These people fall into two categories: Either they are Kharijites who promote the ideology of the Khawarij"
 mp3: https://www.alfawzan.af.org.sa/sites/default/files/6594.mp3
-translated_by: Abdurrahim Ibn Muhammad Al-Hadhrami
 muftis:
   shaykh: 
     - name: Shaykh Salih Al-Fawzan
@@ -17,12 +16,17 @@ muftis:
 --- 
 
 ### Question: 
-This one (the questioner) says: How should our stance be towards those who speak ill of the (Muslim) rulers and the scholars. And if they are from our (Muslim) brothers, is it enough to only abandon (boycott) them, or is it obligatory upon us to report them (to the authorities)?
+
+This [questioner] asks: What should our stance be toward those who speak ill of the [Muslim] rulers and the scholars? And if they are among our brothers, is it sufficient to boycott them, or must we report them?
 
 ### Answer: 
-They (these people) are of two types. Either they are Khawarij and are spreading the ideology of the Khawarij, hence you have to be aware of them and (also) warn against them. Be aware of them and warn against them. Or they are people who backbite and slander others; that they are not Khawarij but instead people who backbite and slander others. They eat the flesh of the people, and Allah is the One with whom refuge is sought. And backbiting is something very evil as he (the Prophet), may the peace and blessings be upon him, said when he explained His (Allah's) statement, the Exalted: **"and neither backbite one another"** [Al-Hujurat (49):12]
 
-so he (the Prophet, may peace and blessings be upon him said): **"Backbiting (Gheebah) is saying something about your brother that he dislikes." He (one of those present) then said: "Oh Messenger of Allah, what if, what I say about my brother is true?" He (the Prophet, may peace and blessings be upon him) replied: "If what you say about him is true then you have backbitten him, and if what you say about him is untrue, then you have slandered him"** meaning you have lied on him. 
+These people fall into two categories: Either they are Kharijites who promote the ideology of the Khawarij; in this case, beware of them and warn others against them. Beware of them and warn others against them. 
 
-So therefore the backbiter is nothing but sinful; either he is a liar or he is a backbiter who eats the flesh of the people. And eating the flesh of the scholars and the Muslim rulers is (even) more severe, due to what results from that from disunity and evil suspicion towards the Muslim rulers and the scholars. Thus what follows on from that is evil suspicion and division between the Muslims. So therefore these people don't go beyond being either Khawarij or people who backbite and slander others. Subsequently it is not permissible to sit with them except out of giving advice to them, so that they may perhaps leave that what they are doing.
+Or, they are people of Ghibah (backbiting) and Namima (slanderous gossip). They are not Kharijites, but they are backbiters and slanderers. They 'eat the flesh of people'—we seek refuge in Allah from that. 
 
+Backbiting is an evil, as the Prophet ﷺ said when explaining the verse: **'And do not backbite one another.'** (Al-Hujurat [49]:12), he said: **'Backbiting is to mention your brother with something he dislikes.'** Someone asked: **'O Messenger of Allah, what if what I say about my brother is true?'** He replied: **'If it is true, then you have backbitten him, and if it is not true, then you have slandered (maligned) him'** — meaning you lied about him. Thus, the backbiter is never free from sin.
+
+He is either a liar or a backbiter who 'eats the flesh' of people. And 'eating the flesh' of the scholars and the rulers is even more severe because of the consequences: the splitting of unity and the cultivation of suspicion toward the rulers and the scholars. This results in ill-will and division among the Muslims.
+
+​Therefore, these individuals are either Khawarij or people of backbiting and slander. It is not permissible to sit with them, except for the purpose of offering sincere advice (Nasiha), in the hope that they might abandon this behavior.
