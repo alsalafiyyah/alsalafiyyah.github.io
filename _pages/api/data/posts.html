@@ -46,9 +46,7 @@ a {
   <td>{{ post.content | truncate: 100 | strip_html | strip }}</td>
   <td>{{ post.summary | truncate: 100 | strip_html | strip }}</td>
   <td>
-    {% for post in post.categories %}
-     {{ post.category }}{% unless forloop.last %}, {% endunless %}
-    {% endfor %}
+    {{ post.categories | join: ', ' }}
   </td>
   <td>
    <a href="https://raw.githubusercontent.com/{{ site.github_username }}/{{ site.git_repo }}/master/{{ post.path }}" target="_blank">
