@@ -2,22 +2,19 @@
 layout: post
 title: "Is Al-Khadir a prophet or a righteous man?"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 5513-2"
-hijri: Muharram 8, 1442 AH
-date: 2020/08/27
-category: ["prophets"]
-shaykhs: 
- - Shaykh Abdul-Aziz Bin Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+source: "Fatawa Al-Lajnah Ad-Da'imah no. 5513, question 2"
+hijri: "Muharram 8, 1442 AH"
+date: 2020-08-27
+category: ["prophets", fatwas]
+summary: "The correct opinion is that Al-Khadir (peace be upon him) is a prophet. This is based on his story with Musa (peace be upon him) narrated in Surah Al-Kahf (The Cave)."
+group1: true
 ---
 
-Question: 
+### Question: 
 
 Is Al-Khadir a prophet or a righteous man?
 
-Answer:
+### Answer:
 
 The correct opinion is that Al-Khadir (peace be upon him) is a prophet. This is based on his story with Musa (peace be upon him) narrated in Surah Al-Kahf (The Cave). Allah (Exalted be He) states that Al-Khadir scuttled the boat owned by poor fishermen, killed an apparently innocent boy, and built a wall for two orphan boys in a village whose people refused to feed them. After much criticism on the part of Musa, Al-Khadir explained the reasons for what he had done.
 

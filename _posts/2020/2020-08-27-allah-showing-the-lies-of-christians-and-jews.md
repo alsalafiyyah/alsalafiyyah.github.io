@@ -3,16 +3,14 @@ layout: post
 title: "The gospels' glad tidings of sending Muhammad and Allah's showing the lies of the Christians and Jews"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 11419"
-hijri: Muharram 8, 1442 AH
-date: 2020/08/27
-category: ["prophets"]
-shaykhs: 
- - Shaykh Abdul-'Aziz ibn 'Abdullah ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
+hijri: "Muharram 8, 1442 AH"
+date: 2020-08-27
+category: [prophets, fatwas]
+summary: "Allah mentions the Injil in the Qur'an and asks its people to judge according to what was revealed by Allah in it, to believe in the good news Allah sent of the mission of Muhammad (peace be upon him)"
+group6: true
 ---
 
-Question: 
+### Question: 
 
 A friend of mine sent me a pamphlet and I have enclosed a copy of it. Would you please answer the following questions:
 

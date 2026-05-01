@@ -4,20 +4,17 @@ title: "Ruling on claiming that Maryam (Mary) the daughter of 'Imran got married
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 7647"
 hijri: Muharram 8, 1442 AH
-date: 2020/08/27
-category: ["prophets"]
-shaykhs: 
- - Shaykh Abdul-'Aziz ibn 'Abdullah ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+date: 2020-08-27
+category: [prophets, fatwas]
+summary: "There is nothing in the Qur'an nor in the Sunnah of the Prophet to indicate that Maryam bint 'Imran got married after 'Isa (Jesus) was born."
+group1: true
 ---
 
-Question: 
+### Question: 
 
 An Egyptian doctor working in Britain told me that Maryam (Mary, peace be upon her), the daughter of 'Imran got married to a man after she gave birth to `Isa and that she bore this man two children. Is this true? If it is true, what is the evidence from the Holy Qur'an or the Sunnah (whatever is reported from the Prophet)? Since that Egyptian doctor was unable to bring any evidence, please explain this issue.
 
-Answer:
+### Answer:
 
 There is nothing in the Qur'an nor in the Sunnah of the Prophet (peace be upon him) to indicate that Maryam bint 'Imran got married after 'Isa (peace be upon him) was born. There is also no evidence to the effect that she bore any children other than 'Isa (peace be upon him).
 
