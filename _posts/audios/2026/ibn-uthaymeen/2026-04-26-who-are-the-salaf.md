@@ -10,7 +10,7 @@ url: "https://binothaimeen.net/s/gmkXp3oG"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_175_18.mp3"
 active: audios
 featured: true
-summary: "When the term Salaf is used in a specific Islamic context, it refers to the three favored generations, they are the Companions (Sahabah), the Successors (Tabi’un), and those who followed the Successors. "
+summary: "Al-Salaf al-Salih (the Pious Predecessors) are the Sahabah (Companions) and those who followed their path among the Tabi’un (Successors) and the Atba’ al-Tabi’un (Successors of the Successors)."
 muftis:
   shaykh: 
     - name: Shaykh Ibn Uthaymeen 
