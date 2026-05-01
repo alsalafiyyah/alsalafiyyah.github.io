@@ -3,14 +3,11 @@ layout: post
 title: "Ruling on Insurance"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 21563"
-hijri: Muharram 12, 1442 AH
-date: 2020/08/31
-category: [insurance]
-shaykhs: 
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Salih Fawzan
- - Shaykh Bakr Abu Zayd
+hijri: "Muharram 12, 1442 AH"
+date: 2020-08-31
+category: [insurance,fatwas]
+summary: "After examining the Fatwa request, the Committee replied that a Fatwa was issued from the Permanent Committee for Scholarly Research and Ifta' no. (55) prohibiting Commercial Insurance in all forms because of its harmful effects and great risks including using up people's money unjustly."
+group5: true
 ---
 
 All praise is due to Allah Alone and peace and blessings be upon the Last of the Prophets. To proceed:
@@ -31,7 +28,7 @@ We have a great desire for development and modernization so long as it coincides
 
 So, we hope that Your Eminence will kindly clarify this issue for us. May Allah grant you success.
 
-Answer:
+### Answer:
 
 After examining the Fatwa request, the Committee replied that a Fatwa was issued from the Permanent Committee for Scholarly Research and Ifta' no. (55) prohibiting Commercial Insurance in all forms because of its harmful effects and great risks including using up people's money unjustly; its practices are legally prohibited and forbidden. A decree has also been issued by the Council of Senior Scholars no. 51 announcing that cooperative insurance is permissible but it should consist of the endowments of good donors and it should be meant for the help of the needy and the devastated without any profits for the participants even their capital, profits, or any return on investment since the participants intended Thawab (reward from Allah) (Glorified and Exalted be He) through helping the needy and not any worldly gain. This is included in what Allah (Exalted be He) says: "**Help you one another in Al-Birr and At-Taqwâ (virtue, righteousness and piety); but do not help one another in sin and transgression.**" [al-Maidah: 2]
 
