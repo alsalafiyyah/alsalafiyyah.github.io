@@ -2,10 +2,10 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Ruling on committing Lahn while reciting Qur'an"
-hijri: Muharram 21, 1442 AH
-lang: en
-source: Fatwa of the Permanent Committee no. 9550
+hijri: "Muharram 21, 1442 AH"
+source: "Fatwa of the Permanent Committee no. 9550"
 summary: "Is there sin on the reciter? Is the Salah (Prayer) of the one who corrected him valid? Please give us your opinion along with the relevant proof."
+category: [fatwas]
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz
@@ -18,11 +18,11 @@ muftis:
       url: /biography/ghudayyan/
 ---
 
-Question:
+### Question:
 
 A person committed Lahn (incorrect recitation due to mispronunciation of letters or grammatical mistakes), so another person who was praying beside him and was reciting Tashahhud (a recitation in the sitting position in the second/last unit of Prayer) corrected the man’s recitation. Is there sin on the reciter? Is the Salah (Prayer) of the one who corrected him valid? Please give us your opinion along with the relevant proof.  
 
-Answer:
+### Answer:
 
 Firstly, there is no sin if the reciter is a beginner in learning the Qur’an by heart, who encounters difficulty while attempting a proper recitation of the Qur’an. On the contrary, he will be rewarded for his efforts. The Prophet (peace be upon him) said: "**The one who is proficient in the Qur’an (i.e. Masterfully recites and perfectly memorizes it) will be with the noble, dutiful scribes (angels); and the one who recites the Qur’an and falters in it, and recites it with difficulty, will have a double reward**" (Related by Al-Bukhari and Muslim) [^1] 
 

@@ -14,11 +14,9 @@ muftis:
 ---
 
 ### Question:
-
 Is it permissible to shake using both hands?
 
 ### Answer: 
-
 For a Muslim male to shake his brother's hand is permissible due to what has been narrated that proves that. As for a man shaking the hand of a woman whom he is not a Mahram to, then this is not allowed. 
 
 As for shaking with both of his hands, we are not aware of anything in that regard, rather, it should not be done. It is better that it to be done with only one hand.
