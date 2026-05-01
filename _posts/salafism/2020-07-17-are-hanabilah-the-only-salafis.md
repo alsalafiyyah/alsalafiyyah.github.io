@@ -1,23 +1,23 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: Are the Hanbalis are the only Salafis
-source: Majmu' Fatawa 9/238
+title: "Is Salafiyyah Limited to the Hanbali Madhab?"
+source: "Majmu' Fatawa 9/238"
 category: [fatwas,manhaj]
-hijri: Dhul-Qa'dah 26, 1441
-summary: This is not true. The Salaf were the Sahabah and those who followed their way from among the Tabi'un.
-lang: en
-locale: en
-note: false
+hijri: "Dhul-Qa'dah 26, 1441 AH"
+summary: "This is not true. The Salaf were the Sahabah and those who followed their way from among the Tabi'un."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz Ibn Baz
       url: /biography/binbaz/
 ---
 
-### Question:
-Is it correct that Al-Hanabilah (Hanbalis, the followers of Imam Ahmad's School of Jurisprudence) are the only Salafiyyah (those who following the way of the righteous predecessors)? What is the truth about the Salafiyyah? Is it a synonym for strictness and rigidity as some propagate? 
+### Question: 
+
+Is it true that Salafism is exclusive to the Hanbalis? And what is the reality of Salafiyyah? Is it synonymous with extremism and strictness as some claim?
 
 ### Answer:
-This is not true. The Salaf (righteous predecessors) were the Sahabah (Companions of the Prophet, may Allah be pleased with them) and those who followed their way from among the Tabi'un (Followers, the generation after the Companions of the Prophet) and their successors among Al-Hanafiyyah (the followers of Imam Abu Hanifah's School of Jurisprudence), Al-Malikiyyah, Al-Shafi'iyyah Al-Hanabilah and others who followed Al-Haqq (the Truth) and adhered to the glorious Qur'an and the purified Sunnah in regard to Tawhid (belief in the Oneness of Allah/ monotheism), the Names and Attributes of Allah, and all matters of the Din (religion of Islam). We ask Allah to make us among them and to help all Muslims everywhere - governments and people - to adhere to His Glorious Qur'an and the Sunnah of His Honest Messenger, to rule by them, to seek judgments from them, and to avoid anything that contradicts them. He is the Guardian of this and the One Who is Capable of doing so. May Allah grant us success. 
- 
+
+This statement is not correct. Rather, Al-Salaf al-Salih (the Pious Predecessors) are the Companions (may Allah be pleased with them) and those who followed their path among the Tabi’un (Successors) and the Atba’ al-Tabi’un (Successors of the Successors). This includes those from the Hanafi, Maliki, Shafi'i, and Hanbali, as well as others who walked upon the truth and adhered to the Mighty Book and the Purified Sunnah regarding Monotheism (Tawhid), the Names and Attributes [of Allah], and all matters of religion.
+
+​We ask Allah to make us among them, and to grant success to all Muslims—governments and peoples alike, in every place—to adhere to His Mighty Book and the Sunnah of His Trustworthy Messenger, to take them as a judge, to refer to them for judgment, and to beware of everything that opposes them. Indeed, He is the Guardian of that and the One Capable of it. And Allah is the Granter of success.
