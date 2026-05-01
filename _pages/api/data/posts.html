@@ -23,7 +23,8 @@ a {
     <th>Layout</th>
     <th>Title</th>
     <th>Lang/Locale</th>
-    <th>summary</th>    
+    <th>Post Content</th>    
+    <th>Post Summary</th> 
     <th>Tags, Categories</th>
     <th>Action</th>
   </thead>
@@ -43,15 +44,17 @@ a {
    Locale: {{ post.locale }}
   </td>
   <td>{{ post.content | truncate: 100 | strip_html | strip }}</td>
+  <td>{{ post.summary | truncate: 100 | strip_html | strip }}</td>
   <td>
-    {% for post in site.categories[page.categories] %}
-     {{ post.category }}{% unless forloop.last %}, {% endunless %}{% endfor %}
+    {% for post in site.categories[post.categories] %}
+     {{ post.category }}{% unless forloop.last %}, {% endunless %}
+    {% endfor %}
   </td>
   <td>
-   <a type="button" href="https://raw.githubusercontent.com/{{ site.github_username }}/{{ site.git_repo }}/master/{{ post.path }}" target="_blank">
+   <a href="https://raw.githubusercontent.com/{{ site.github_username }}/{{ site.git_repo }}/master/{{ post.path }}" target="_blank">
     View file
    </a><br/>
-   <a type="button" href="https://www.github.com/{{ site.github_username }}/{{ site.git_repo }}/blob/master/{{ post.path }}" target="_blank">
+   <a href="https://www.github.com/{{ site.github_username }}/{{ site.git_repo }}/blob/master/{{ post.path }}" target="_blank">
     Edit file
    </a>
   </td>
