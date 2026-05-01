@@ -5,11 +5,11 @@ publisher: alsalafiyyah@icloud.com
 title: "The Condition of Proximity in Advising Rulers"
 hijri: "Muharram 27, 1446 AH"
 date: 2024-08-02
-active: audios
-category: [fatwas,audios,rulership,hadiths]
+active: videos
+videoURL: "https://youtu.be/JJakiOP-YYk"
+videoID: "JJakiOP-YYk"
+category: [fatwas,videos,rulership,hadiths]
 summary: "This Hadith does not mean that he should criticizes the ruler openly on the mimbars and on the streets, it says in his presence."
-mp3: "https://www.alfawzan.af.org.sa/sites/default/files/e-062.mp3"
-url: "https://mail.alfawzan.af.org.sa/ar/node/14227"
 muftis:
   shaykh: 
     - name: Shaykh Salih Al-Fawzan
