@@ -10,6 +10,7 @@ active: videos
 summary: "The Ayats (verses) of Allah forbid reviling the Muslim rulers and forbid attacking the honor of [any] Muslims."
 videoURL: "https://youtu.be/q6ycncXQpoo"
 videoID: "q6ycncXQpoo"
+source: "Fatawa Duroos 39 (4717)"
 muftis:
   shaykh: 
     - name: "Shaykh Salih Al-Fawzan"
