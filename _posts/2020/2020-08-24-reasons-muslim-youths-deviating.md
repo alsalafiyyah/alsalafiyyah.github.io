@@ -3,17 +3,21 @@ layout: post
 title: "Reasons for many young people deviating from the Din (Religion)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 5/252, question 4"
-hijri: Muharram 5, 1442 AH
-date: 2020/08/24
-category: [misc]
-shaykhs: Shaykh Ibn Baz
+hijri: "Muharram 5, 1442 AH"
+date: 2020-08-24
+category: [manhaj,fatwas]
+summary: "What are the reasons for many young people deviating from the Din (religion of Islam) and becoming alienated from it?"
+muftis:
+  shaykh: 
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
 
-Question: 
+### Question: 
 
 What are the reasons for many young people deviating from the Din (religion of Islam) and becoming alienated from it?
 
-Answer:
+### Answer:
 
 As you mentioned, many young people are deviating from Islam and becoming alienated from all that is related to the Din, and there are many reasons, among which are: Their lack of knowledge and ignorance of the reality and merits of Islam; their inattention to the Qur’an; and the lack of educators who have knowledge and ability to explain the reality of Islam and its merits to those young people, its goals, and the good that will be attained through it in this world and in the Hereafter. There are also other reasons, such as their milieus; the radio; television; traveling abroad; mixing with visitors who have false ‘Aqidahs (creeds) and deviant morals combined with ignorance; and other factors that alienate them from Islam and attract them to atheism and immorality. 
 

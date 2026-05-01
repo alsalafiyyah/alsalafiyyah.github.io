@@ -4,11 +4,8 @@ title: "Ruling on trimming eyebrows"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no.19771, Question 5"
 category: [fatwas,women]
-hijri: Dhul-Hijjah 14, 1441
-date: 2020/08/8
-locale: en
-lang: en
-note: true
+hijri: "Dhul-Hijjah 14, 1441"
+date: 2020-08-08
 summary: "It is not permissible for women to remove anything from eyebrows whether by trimming, cutting, or shaving."
 muftis:
   chairman: 
@@ -32,4 +29,4 @@ What is the ruling on women trimming eyebrows?
 
 ### Answer: 
 
-It is not permissible for women to remove anything from eyebrows whether by trimming, cutting, or shaving. This is considered Nams (removing hair from the face/eyebrows) and the Prophet peace be upon him) cursed women who did this. Nams, therefore, is considered one of the major sins. 
+It is not permissible for women to remove anything from eyebrows whether by trimming, cutting, or shaving. This is considered Nams (removing hair from the face/eyebrows) and the Prophet (peace be upon him) cursed women who did this. Nams, therefore, is considered one of the major sins. 
