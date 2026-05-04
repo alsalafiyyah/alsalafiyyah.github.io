@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: "alsalafiyyah@icloud.com"
-title: "The Origin of Man: A Scholarly Critique of Darwinian Theory"
+title: "A Scholarly Critique of Darwinian Theory"
 source: "Majmu' Fatawa wa Maqalat 28/275"
 category: [fatwas,darwinism]
 hijri: "Dhul-Hijjah 3, 1441 AH"
@@ -20,8 +20,8 @@ It is known that some people believe their origin is animal, in agreement with W
 
 ### Answer: 
 
-Darwin’s theory claims that the origin of man is an ape, and that the son of Adam is a "speaking animal"—that we are all animals. While Allah did create life for the son of Adam and granted him intellect and speech. **This malicious theory is false according to the consensus of the scholars**. 
+Darwin’s theory claims that the origin of man is an ape, and that the son of Adam is a "speaking animal"—that we are all animals. While Allah did create life for the son of Adam and granted him intellect and speech. **This malicious theory (i.e., Darwin’s theory) is false according to the consensus of the scholars**. 
 
-Apes are a distinct nation among nations, as are dogs, pigs, cats, and likewise lions, tigers, leopards, and others. As for man, he is a distinct, speaking, and rational being whom God created from a lowly fluid, whereas our father Adam (peace and blessings be upon him) was created by God from clay. 
+Apes are a distinct nation among nations, as are dogs, pigs, cats, and likewise lions, tigers, leopards, and others. As for man, he is a distinct, speaking, and rational being whom Allah created from a lowly fluid, whereas our father Adam (peace and blessings be upon him) was created by Allah from clay. 
 
 Thus, humans are a distinct creature and a self-standing nation—the children of Adam. The Jinn are also a standing nation created from a smokeless flame of fire. Every species of animal is a distinct nation, even the ants are a nation.
