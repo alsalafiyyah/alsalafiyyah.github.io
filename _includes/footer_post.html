@@ -151,15 +151,11 @@
             </div>
             {% endif %}
 
-            <!-- Last Modified Logic -->
+            <!-- Last Modified -->
             <div>
                 <span class="text-gray-400 block mb-1">Last Modified</span>
                 <p class="tabular-nums">
-                    {% if page.last_modified_at %}
-                        {{ page.last_modified_at | date: "%d %b %Y" }}
-                    {% else %}
-                        {{ page.date | date: "%d %b %Y" }}
-                    {% endif %}
+                    <b><span id='last-modified'></span></b>
                 </p>
             </div>
 
