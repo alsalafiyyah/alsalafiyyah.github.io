@@ -115,7 +115,7 @@
                 <span class="text-gray-400 block mb-1">Classified Under</span>
                 <div class="flex flex-wrap gap-2">
                     {% for category in page.categories %}
-                    <a href="{{ '/categories' | relative_url }}#{{ category | slugify }}" class="border border-black dark:border-white px-2 py-1 hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-all">
+                    <a href="{{ '/category' | relative_url }}/{{ category | slugify }}" class="border border-black dark:border-white px-2 py-1 hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-all">
                         {{ category }}
                     </a>
                     {% endfor %}
