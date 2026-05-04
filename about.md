@@ -93,7 +93,9 @@ Allah Ta'ala says: ***“Allah does not forbid you to deal justly and kindly wit
 
 **(19).** We hold as a core tenet of faith that Muhammad (ﷺ) is the final Messenger of Allah. No Prophet or Messenger will be sent after him; he is the completion of the divine message and the final guide for all of humanity.
 
-***“but he is the Messenger of Allah and the last (end) of the Prophets”** (Quran, al-Ahzab [33]:40)*
+***“Muhammad is not the father of any of your men, but [he is] the Messenger of Allah and the final seal of the Prophets.”** (Quran, al-Ahzab [33]:40)*
+
+The Prophet (ﷺ) said: **“And there is no prophet after me”** [at-Tirmidhi 616, Ahmad 22258, Ibn Hibban 900]
 
 **(20).** We believe that no Muslim who worshipped Allah alone—associating no partners with Him—will remain in Hellfire eternally. Even if such a person committed major sins and was punished for them in the Hereafter, we affirm that they will eventually be removed from the Fire by the mercy of Allah.
 
