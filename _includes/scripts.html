@@ -305,3 +305,29 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 });
 </script>
+<script>
+    function updateClock() {
+    const now = new Date();
+
+    // Gregorian Format: 20 May 2026
+    const gregOptions = { day: '2-digit', month: 'short', year: 'numeric' };
+    const gregDate = now.toLocaleDateString('en-GB', gregOptions);
+
+    // Hijri Format: 03 Dhul-Qi'dah 1447
+    // 'islamic-uma' is the standard Saudi/Umm al-Qura calendar
+    const hijriOptions = { 
+        day: '2-digit', 
+        month: 'long', 
+        year: 'numeric', 
+        calendar: 'islamic-uma' 
+    };
+    const hijriDate = new Intl.DateTimeFormat('en-u-ca-islamic-uma-nu-latn', hijriOptions).format(now);
+
+    // Inject into DOM
+    document.getElementById('gregorian-date').textContent = gregDate;
+    document.getElementById('hijri-date').textContent = hijriDate;
+}
+
+// Run on load
+document.addEventListener('DOMContentLoaded', updateClock);
+</script>
