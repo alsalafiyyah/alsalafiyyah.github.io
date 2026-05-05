@@ -1,7 +1,3 @@
----
-title: About The Site
-permalink: /our-call/
----
 
 All praise be to Allah, The Lord of the worlds. And I testify that there is none worthy of worship except Allah, and that Muhammad (ﷺ) is the Messenger of Allah.
 
@@ -9,7 +5,7 @@ All praise be to Allah, The Lord of the worlds. And I testify that there is none
 
 Our content is rooted in the authentic ‘aqidah (creed) of Ahlus-Sunnah wal-Jama‘ah, adheres strictly to the Book of Allah and the Sunnah of His Messenger ﷺ. We are dedicated to preserving and sharing this creed as it was understood and practiced by [the Salaf as-Salih (the Pious Predecessors)](https://alsalafiyyah.github.io/audios/who-are-the-salaf/) of this Ummah.
 
-### Our ‘Aqidah
+### Our ‘Aqidah (Creed)
 
 **(1)**. First and foremost, we uphold the Tawheed (Oneness) of Allah. Our worship is dedicated solely to Him, performed in the manner He has legislated, and we solemnly bear witness that ***there is none worthy of worship except Allah, and that Muhammad (ﷺ) is His bondman and Messenger.[^1]***
 
