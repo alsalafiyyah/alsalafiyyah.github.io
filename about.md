@@ -7,6 +7,8 @@ summary: "We are dedicated to preserving and sharing this creed as it was unders
 permalink: /about/
 ---
 
+In the name of Allah, the Most Gracious, the Most Merciful.
+
 All praise be to Allah, The Lord of the worlds. And I testify that there is none worthy of worship except Allah, and that Muhammad (ﷺ) is the Messenger of Allah.
 
 ### Our Methodology
