@@ -17,15 +17,15 @@ Our content is rooted in the authentic ‘aqidah (creed) of Ahlus-Sunnah wal-Jam
 
 1) First and foremost, we uphold the Tawheed (Oneness) of Allah. Our worship is dedicated solely to Him, performed in the manner He has legislated, and we solemnly bear witness that ***there is none worthy of worship except Allah, and that Muhammad (ﷺ) is His bondman and Messenger.[^1]***
 
->“That is Allah, your Lord, the Creator of all things, Laa ilaaha illa Huwa (none has the right to be worshipped but He).”** (Quran, Ghafir [40]:62).*
+> **“That is Allah, your Lord, the Creator of all things, Laa ilaaha illa Huwa (none has the right to be worshipped but He).”** (Quran, Ghafir [40]:62).
 
 2) We believe [the Qur'an is the Speech of Allah and is not created](https://alsalafiyyah.github.io/the-quran-is-the-word-of-allah/). Consistent with the consensus of Ahlus-Sunnah, anyone who claims the Qur'an is created has strayed into disbelief.
 
 3) We hold as a core tenet of faith that Muhammad (ﷺ) is the final Messenger of Allah. No Prophet or Messenger will be sent after him; he is the completion of the divine message and the final guide for all of humanity.
 
-> Allah Ta'ala says:“Muhammad is not the father of any of your men, but [he is] the Messenger of Allah and the final seal of the Prophets.” (Quran, al-Ahzab [33]:40)
+> Allah Ta'ala says: **“Muhammad is not the father of any of your men, but [he is] the Messenger of Allah and the final seal of the Prophets.”** (Quran, al-Ahzab [33]:40)
 
-> The Prophet (ﷺ) said: “And there is no prophet after me”[^2] 
+> The Prophet (ﷺ) said: **“And there is no prophet after me”** [^2] 
 
 4) We believe the authentic Sunnah is revelation sent down by Allah. We uphold that the Prophet ﷺ was guided by revelation in all matters of religion, fulfilling the Quranic truth that "he does not speak of his own inclination."
 
