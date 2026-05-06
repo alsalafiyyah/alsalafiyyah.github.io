@@ -27,8 +27,8 @@ This varies. If his departure from the boundaries entails Kufr (disbelief), then
 
 ​But if his sin entails Riddah (apostasy) that removes him from Islam, then the funeral prayer is not offered for him. Examples include:
 
-• ​Leaving the prayer (Salah)—we seek refuge in Allah—while denying that it is obligatory
-• ​Deeming adultery lawful (regarding it as Halal).
-• ​Insulting the religion, insulting the Messenger (peace and blessings of Allah be upon him), or mocking the Messenger (peace and blessings of Allah be upon him).
+- Leaving the prayer (Salah)—we seek refuge in Allah—while denying that it is obligatory.
+- ​Deeming adultery lawful (regarding it as Halal).
+- Insulting the religion, insulting the Messenger (peace and blessings of Allah be upon him), or mocking the Messenger (peace and blessings of Allah be upon him).
 
 ​Whoever dies in such a state is not prayed over, because this constitutes apostasy from Islam. We ask Allah for safety.
