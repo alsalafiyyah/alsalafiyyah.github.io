@@ -23,6 +23,6 @@ This inquirer is asking about the authenticity of the hadith narrated from the P
 
 The hadith is authentic, but it occurred during the period of general permission. Initially, everyone was forbidden from visiting graves, then permission was granted to everyone. Subsequently, the final Sunnah established a prohibition for women, while continuing to command men to visit them.
 
-In the early days of Islam, the Prophet ﷺ forbade people from visiting graves because they had recently left disbelief (Jahiliyyah). This was a protection for them against polytheism (shirk) and a means to distance them from it. Later, he ﷺ granted permission to everyone. **Ultimately, the Sunnah settled on prohibiting women from visiting while commanding men to do so**. 
+In the early days of Islam, the Prophet ﷺ forbade people from visiting graves because they had recently left disbelief. This was a protection for them against polytheism (shirk) and a means to distance them from it. Later, he ﷺ granted permission to everyone. **Ultimately, the Sunnah settled on prohibiting women from visiting while commanding men to do so**. 
 
 His ﷺ words to Aisha occurred during the period when visiting was permitted for both men and women. Yes.
