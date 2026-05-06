@@ -1,13 +1,11 @@
 ---
 layout: post
 publisher: "alsalafiyyah@icloud.com"
-title: Allah's Speech to Moses
+title: "On the Number of Times Allah Spoke to Moses"
 active: audios
-mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_636/nour_63614.mp3
-hijri: Rabi' Al-Awwal 24, 1442
+mp3: "https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_636/nour_63614.mp3"
+hijri: "Rabi' Al-Awwal 24, 1442"
 date: 2020-11-10
-lang: en
-locale: en
 category: [fatwas,audios,prophets]
 url: "https://binbaz.org.sa/fatwas/13144/%D9%83%D9%85-%D9%85%D8%B1%D8%A9-%D9%83%D9%84%D9%85-%D8%A7%D9%84%D9%84%D9%87-%D9%85%D9%88%D8%B3%D9%89-%D8%B9%D9%84%D9%8A%D9%87-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85"
 summary: "As for the number of times; Allah (Exalted be He) knows that best, as I do not know about the number of times."
@@ -18,7 +16,9 @@ muftis:
 ---
 
 ### Question:
-How many times did Allah speak to Musa (Moses, peace be upon him)? Did He speak to him at the same place where He first spoke to him, if this happened more than once? 
+
+How many times did Allah speak to Moses? And did He speak to him in the same location where He spoke to him the first time, if He spoke to him on other occasions?
 
 ### Answer:
-Allah knows best, Allah (Exalted be He) says: "**and to Musa (Moses) Allah spoke directly.**" [Al-Nisa: 164] As for the number of times; Allah (Exalted be He) knows that best, as I do not know about the number of times.
+
+Allah knows best, Allah (Exalted be He) says: "**and to Musa (Moses) Allah spoke directly.**" [Al-Nisa: 164] As for the number of times [He spoke to him], Allah (Exalted be He) knows that best; I have no knowledge of a specific number in this regard..
