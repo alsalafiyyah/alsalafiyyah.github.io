@@ -21,7 +21,7 @@ All praise is due to Allah, the Lord of all worlds. The [best] outcome is for th
 
 To proceed: 
 
-This question is directed to the Honorable Sheikh. In America, O Sheikh, we have a group called **"The Nation of Islam"** which claims to be part of Islam. However, they hold the following beliefs:
+This question is directed to the Honorable Sheikh. In America, O Sheikh, we have a group called **"[The Nation of Islam](https://en.wikipedia.org/wiki/Nation_of_Islam)"** which claims to be part of Islam. However, they hold the following beliefs:
 
 1. They believe that Allah dwells within every Black individual in general, and that He was specifically incarnated in a man named Fard Muhammad. Furthermore, they believe that white people are "devils."
 2. They believe that prophethood did not end with Muhammad (peace be upon him), but rather that the "Seal of the Prophets" is Elijah Muhammad. They also claim he is the Messiah and the awaited Mahdi.
