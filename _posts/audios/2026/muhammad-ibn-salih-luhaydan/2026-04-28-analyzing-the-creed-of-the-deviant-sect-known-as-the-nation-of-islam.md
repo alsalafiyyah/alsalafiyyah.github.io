@@ -78,7 +78,7 @@ Red camels were the most precious form of wealth among the Arabs. This Sahih (au
 
 We should also be certain of what the Prophet ﷺ said: **"No time shall come upon you except that the time following it will be worse, until you meet your Lord."** (Sahih al-Bukhari [Book on Trials] no. 7068)
 
-Worship is only valid if it aligns with what Muhammad prescribed. No one should invent acts of worship, claiming "This is good," or "This is a birthday celebration," or the like. 
+Worship is only valid if it aligns with what Muhammad ﷺ prescribed. No one should invent acts of worship, claiming "This is good," or "This is a birthday celebration," or the like. 
 
 The Prophet ﷺ said: **"Whoever performs a deed that is not in accordance with our matter [religion], it is rejected."** (Sahih Muslim 1718, Sunan Ibn Majah [Book on Sunnah] no. 14)
 
