@@ -23,7 +23,7 @@ To proceed:
 
 This question is directed to the Honorable Sheikh. In America, O Sheikh, we have a group called **"The Nation of Islam"** which claims to be part of Islam. However, they hold the following beliefs:
 
-1. They believe that God dwells within every Black individual in general, and that He was specifically incarnated in a man named Fard Muhammad. Furthermore, they believe that white people are "devils."
+1. They believe that Allah dwells within every Black individual in general, and that He was specifically incarnated in a man named Fard Muhammad. Furthermore, they believe that white people are "devils."
 2. They believe that prophethood did not end with Muhammad (peace be upon him), but rather that the "Seal of the Prophets" is Elijah Muhammad. They also claim he is the Messiah and the awaited Mahdi.
 3. They deny the physical Resurrection, viewing it metaphorically as a transition from ignorance to knowledge, along with other clear acts of apostasy. 
 
@@ -40,34 +40,33 @@ In the name of Allah, the Most Gracious, the Most Merciful.
 
 All praise is due to Allah. Peace and blessings be upon the Messenger of Allah, whom Allah (the Mighty and Majestic) sent as a mercy to the worlds and appointed as the Seal of the Prophets and Messengers—there is no prophet nor messenger after him. May the best of prayers and peace be upon him.
 
-Regarding what has been mentioned about their characteristics in these questions: These people are not Muslims. One must ask: did they ever embrace Islam before this and then commit apostasy, such that we would call them "apostates"? It does not appear that they ever truly entered Islam. Rather, this is a form of incarnationism (Hululiyyah); however, they claim God dwells in Black people and that white people are "devils." This is merely a form of spite directed at white people.
+Regarding what has been mentioned about their characteristics in these questions: These people are not Muslims. One must ask: did they ever embrace Islam before this and then commit apostasy, such that we would call them "apostates"? It does not appear that they ever truly entered Islam. Rather, this is a form of incarnationism (Hululiyyah); however, they claim Allah dwells in Black people and that white people are "devils." This is merely a form of spite directed at white people.
 
-In reality, a Muslim is the brother of a Muslim. The requirements for Islam are that one testifies that “There is no deity worthy of worship but Allah and that Muhammad is the Messenger of Allah” —and that there is no prophet after him—and to believe in Allah, His angels, His books, His messengers, the Last Day, and Divine Decree (al-Qadr), both the good and the bad of it. Whoever does not believe in these things is neither a Muslim nor a believer. As for those who follow what has been described in these questions: This person is neither a Muslim, nor a Christian, nor a Jew. 
+In reality, a Muslim is the brother of a Muslim. The requirements for Islam are that one testifies that **“There is no deity worthy of worship but Allah and that Muhammad is the Messenger of Allah”** — and that there is no prophet after him and to believe in Allah, His angels, His books, His messengers, the Last Day, and Divine Decree (al-Qadr), both the good and the bad of it. Whoever does not believe in these things is neither a Muslim nor a believer. 
 
-Indeed, after the mission of Muhammad (peace be upon him), no Jew or Christian will have their deeds accepted unless they believe in Muhammad and enter the true religion of Allah. Their destination is the Fire, for the Prophet said: "There is no Jew or Christian [who hears of me] and does not believe in me and follow what I have brought, except that he will be among the inhabitants of the Fire."
+As for those who follow what has been described in these questions: **This person is neither a Muslim, nor a Christian, nor a Jew**. 
+
+Indeed, after the mission of Muhammad ﷺ, no Jew or Christian will have their deeds accepted unless they believe in Muhammad and enter the true religion of Allah. Their destination is the Fire, for the Prophet ﷺ said: **"There is no Jew or Christian [who hears of me] and does not believe in me and follow what I have brought, except that he will be among the inhabitants of the Fire."**
 
 I do not believe that any Muslim who understands Islam could hesitate regarding the disbelief (kufr) of these people. There is no doubt concerning their disbelief. 
 
-Furthermore, the laypeople are not excused. The Prophet did not excuse the Arab polytheists—those who died before his mission or those who remained alive until he was sent and fought them. He did not excuse anyone by saying, "He is excused because he is ignorant." When a man asked the Prophet, "Where is my father?" he replied, "Your father is in the Fire," and added, "My father and your father are in the Fire." 
+Furthermore, the laypeople are not excused. The Prophet ﷺ did not excuse the Arab polytheists—those who died before his mission or those who remained alive until he was sent and fought them. He did not excuse anyone by saying, "He is excused because he is ignorant." When a man asked the Prophet ﷺ, **"Where is my father?"** he replied, **"Your father is in the Fire,"** and added, **"My father and your father are in the Fire."**
 
-Allah says: "It is not for the Prophet and those who have believed to ask forgiveness for the polytheists, even if they were relatives." 
+Allah Ta'ala says: **"It is not for the Prophet and those who have believed to ask forgiveness for the polytheists, even if they were relatives."**
 
 Therefore, no Muslim has the right to seek forgiveness for anyone who dies in a state of disbelief.
 
-
-As for these people [The Nation of Islam], there is no doubt regarding their disbelief, and there is no doubt regarding the disbelief of anyone who knows their reality and then refuses to declare them disbelievers.
-
-In truth, there are no "religions" in the world today [that are valid]. "Indeed, the religion in the sight of Allah is Islam." And "Whoever desires at a religion other than Islam, it will never be accepted from him." 
+As for these people [The Nation of Islam], there is no doubt regarding their disbelief, and there is no doubt regarding the disbelief of anyone who knows their reality and then refuses to declare them disbelievers. In truth, there are no "religions" in the world today [that are valid]. [Allah says] **"Indeed, the religion in the sight of Allah is Islam."** And **"Whoever desires at a religion other than Islam, it will never be accepted from him."**
 
 For this reason, we should not say "the religions, the religions" [as if they are equal]. No; there are no valid religions in the world now. Anyone who practices a religion other than Islam is practicing falsehood. There is no difference between a Jew, a Christian, a Magian, or an idolater —those who know nothing of Magianism but simply worship a grave or worship deities of their own invention. All of that is disbelief beyond any doubt.
 
-Nevertheless, those who are able to advise them should do so. Allah (the Mighty and Majestic) does not dwell within any of His creation, nor does His creation dwell within Him. These people have distorted the concept of "Incarnation" (Hulul) from the concept of "Unity of Existence" (Wahdat al-Wujud). The "Unity of Existence" claim is that man is God and God is man—or even more extreme—that animals and other things are also God. Those who believe in Incarnation or Unity of Existence essentially claim that existence is a single entity; that there is no "God and servant," but rather everything is one and the same. This is clear and manifest delusion. No one is saved except those who follow the path of Muhammad (peace be upon him) and his Companions. May Allah bless you all.
+Nevertheless, those who are able to advise them should do so. Allah (the Mighty and Majestic) does not dwell within any of His creation, nor does His creation dwell within Him. These people have distorted the concept of "Incarnation" (Hulul) from the concept of "Unity of Existence" (Wahdat al-Wujud). The "Unity of Existence" claim is that man is Allah and Allah is man—or even more extreme—that animals and other things are also Allah. Those who believe in Incarnation or Unity of Existence essentially claim that existence is a single entity; that there is no "Allah and servant," but rather everything is one and the same. This is clear and manifest delusion. No one is saved except those who follow the path of Muhammad ﷺ and his Companions. May Allah bless you all.
 
-Allah says: "Invite to the way of your Lord with wisdom and good instruction, and argue with them in a way that is best." And: "Say, 'This is my way; I invite to Allah as a matter of insight, I and those who follow me.'" 
+Allah says: **"Invite to the way of your Lord with wisdom and good instruction, and argue with them in a way that is best."** And: **"Say, 'This is my way; I invite to Allah as a matter of insight, I and those who follow me.'"**
 
 Therefore, whoever dedicates himself to calling others should be gentle with them. He should make it clear that he is only calling them out of a sincere desire to save them from punishment.
 
-The Prophet (peace be upon him) said to Ali during the Battle of Khaybar: "For Allah to guide a single man through you is better for you than possessing red camels." 
+The Prophet ﷺ said to Ali during the Battle of Khaybar: **"For Allah to guide a single man through you is better for you than possessing red camels."**
 
 Red camels were the most precious form of wealth among the Arabs. This Sahih (authentic) Hadith means that guiding just one person is better than possessing the most valuable worldly riches. We ask Allah to guide those who appear to be Muslims first and foremost, and then to make Muslims a cause for the guidance of all humanity.
 
@@ -75,7 +74,7 @@ We should also be certain of what the Prophet said: "No time shall come upon you
 
 Worship is only valid if it aligns with what Muhammad prescribed. No one should invent acts of worship, claiming "This is good," or "This is a birthday celebration," or the like. 
 
-> The Prophet ﷺ said: **"Whoever performs a deed that is not in accordance with our matter [religion], it is rejected."**
+The Prophet ﷺ said: **"Whoever performs a deed that is not in accordance with our matter [religion], it is rejected."**
 
 ### Questioner: 
 
@@ -83,7 +82,7 @@ Just to confirm, Sheikh, is it impermissible to doubt their disbelief?
 
 ### Sheikh: 
 
-SubhanAllah! No sane person would doubt their disbelief. Even the pagan Arabs in the Pre-Islamic era (Jahiliyyah), despite being polytheists, never claimed that God dwells within a human being.
+SubhanAllah! No sane person would doubt their disbelief. Even the pagan Arabs in the Pre-Islamic era (Jahiliyyah), despite being polytheists, never claimed that Allah dwells within a human being.
 
 ### Questioner: 
 
