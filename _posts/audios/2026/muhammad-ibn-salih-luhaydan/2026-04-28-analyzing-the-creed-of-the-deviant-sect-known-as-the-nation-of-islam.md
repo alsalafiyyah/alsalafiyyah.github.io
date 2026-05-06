@@ -11,7 +11,7 @@ active: audios
 summary: "Regarding what has been mentioned about their characteristics in these questions, these people are not Muslims."
 muftis:
   shaykh: 
-    - name: "Muhammad ibn Salih al-Luhaydan"
+    - name: "Shaykh Muhammad ibn Salih al-Luhaydan"
       url: "/biography/salih-luhaydan/"
 ---
 
