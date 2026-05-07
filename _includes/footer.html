@@ -11,7 +11,7 @@
 
     <div class="flex items-center gap-8">
         {% for item in site.footer_navigation %}
-         <a itemprop="sameAs" href="{{ item.url | relative_url }}" class="hover:line-through transition-all">{{ item.name }}</a>
+         <a itemprop="sameAs" href="{{ item.url | relative_url }}" class="hover:line-through transition-all">{{ item.title }}</a>
         {% endfor %}
         <button id="theme-toggle" type="button" class="text-black dark:text-white hover:opacity-50 transition-opacity focus:outline-none" aria-label="Toggle Theme">
             <svg id="theme-toggle-dark-icon" class="hidden w-5 h-5" fill="currentColor" viewBox="0 0 20 20">

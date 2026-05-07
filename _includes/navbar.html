@@ -7,7 +7,7 @@
     <div class="flex flex-1 items-center gap-8">
         <div class="hidden md:flex gap-8">
             {% for item in site.menu_navigation %}
-             <a itemprop="url" href="{{ item.url | relative_url }}" class="hover:line-through transition-all"><span itemprop="name">{{ item.name }}</span></a>
+             <a itemprop="url" href="{{ item.url | relative_url }}" class="hover:line-through transition-all"><span itemprop="name">{{ item.title }}</span></a>
             {% endfor %}
         </div>
 
