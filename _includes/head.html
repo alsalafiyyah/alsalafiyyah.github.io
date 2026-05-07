@@ -10,20 +10,20 @@
 <meta property="og:site_name" content="{{ site.title | escape }}" />
 <meta property="og:title" content="{{ page.title | default: site.title | escape }}" />
 <meta property="og:description" content="{{ page.summary | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}"/>
-<meta property="og:image" content="{{ page.image | default: '/assets/images/fb.jpg' | absolute_url }}" />
+<meta property="og:image" content="https://alsalafiyyah.github.io/assets/images/fb.jpg" />
 <meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}" />
 <meta property="og:url" content="{{ page.url | replace:'/index.html','/' | absolute_url }}" />
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{{ page.title | default: site.title | escape }}">
 <meta name="twitter:description" content="{{ page.summary | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}"/>
-<meta name="twitter:image" content="{{ page.image | default: '/assets/images/fb.jpg' | absolute_url }}"/>
+<meta name="twitter:image" content="https://alsalafiyyah.github.io/assets/images/fb.jpg"/>
 
 <meta name="theme-color" content="#000000"> <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<link rel="manifest" href="{{ '/manifest.json' | absolute_url }}">
-<link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/apple-touch-icon.png' | absolute_url }}">
-<link rel="icon" type="image/x-icon" href="{{ '/assets/images/favicon.ico' | absolute_url }}" />
+<link rel="manifest" href="https://alsalafiyyah.github.io/manifest.json">
+<link rel="apple-touch-icon" sizes="180x180" href="https://alsalafiyyah.github.io/assets/apple-touch-icon.png">
+<link rel="icon" type="image/x-icon" href="https://alsalafiyyah.github.io/assets/images/favicon.ico />
 
 {% if site.webmaster_verifications %}
 <meta name="p:domain_verify" content="{{ site.webmaster_verifications.domain_verify }}"/>
@@ -46,12 +46,12 @@
 <link rel="next" href="{{ paginator.next_page_path | absolute_url }}" />
 {% endif %}
 
-<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}">
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="https://alsalafiyyah.github.io/feed.xml">
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-<script src="{{ '/assets/tailwindcss.js' | absolute_url }}"></script>
+<script src="https://alsalafiyyah.github.io//assets/tailwindcss.js"></script>
 <script src="https://cdn.tailwindcss.com"></script>
-<link rel="stylesheet" href="{{ '/assets/custom-styles.css' | absolute_url }}">
+<link rel="stylesheet" href="https://alsalafiyyah.github.io/assets/custom-styles.css">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&family=Playfair+Display:ital,wght@0,900;1,900&display=swap" rel="stylesheet">
 <script type="application/ld+json">
 [
