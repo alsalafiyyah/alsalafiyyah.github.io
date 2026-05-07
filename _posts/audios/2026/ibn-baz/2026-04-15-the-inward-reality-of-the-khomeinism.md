@@ -15,9 +15,11 @@ muftis:
       url: /biography/binbaz/
 ---
 
-### ​Questioner: Your Eminence, are the Khomeinists [followers of Khomeini] among the Rafida?
+### ​Questioner: 
+Your Eminence, are the Khomeinists [followers of Khomeini] among the Rafida?
 
-### ​The Sheikh: Yes, Khomeini is one of the heads of the Rafida—one of their leaders.
+### ​The Sheikh: 
+Yes, Khomeini is one of the heads of the Rafida—one of their leaders.
 
 ### The Sheikh: 
 They and their followers are Rafida. They are those who exaggerate regarding the Twelve Imams; they exaggerate regarding them and glorify them, believing that they [the Imams] know the unseen (Al-Ghayb) and that they are infallible. They call upon them instead of Allah, seek their aid, and make vows to them. This is present in their books; anyone who reviews Al-Kafi or other than Al-Kafi will find that. We ask Allah for safety. We ask Allah to return them to repentance.
