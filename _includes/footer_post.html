@@ -59,7 +59,13 @@
                 {% endfor %}
             </p>
         </div>
-
+    {% elsif page.scholar %}
+        <div class="md:col-span-3 space-y-4">
+            <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400">Scholar</h5>
+            <p class="text-lg font-black italic serif">
+                {{ page.scholar }}
+            </p>
+        </div>
     {% else %}
         {% assign groups = "group1,group2,group3,group4,group5,group6,group7,group8,group9,group10,group11,group12,group13" | split: "," %}
         {% for group_name in groups %}
