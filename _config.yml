@@ -78,6 +78,13 @@ footer_navigation:
   - title: RSS
     url: /feed/
 
+# Footer Navigation
+site_elements:
+published: "Published"
+next: "Next"
+prev: "Prev"
+last_m
+
 include:
   - _pages
 

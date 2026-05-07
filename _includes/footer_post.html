@@ -52,7 +52,7 @@
 
     {% elsif page.shaykhs %}
         <div class="md:col-span-3 space-y-4">
-            <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400">Scholars</h5>
+            <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400">{{ site.site_elements.scholars }}</h5>
             <p class="text-lg font-black italic serif">
                 {% for sh in page.shaykhs %}
                     <span>{{ sh }}</span>{% unless forloop.last %}, {% endunless %}
@@ -61,7 +61,7 @@
         </div>
     {% elsif page.scholar %}
         <div class="md:col-span-3 space-y-4">
-            <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400">Scholar</h5>
+            <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400">{{ site.site_elements.scholar }}</h5>
             <p class="text-lg font-black italic serif">
                 {{ page.scholar }}
             </p>
@@ -118,7 +118,7 @@
         <div class="space-y-6">
             {% if page.categories.size > 0 %}
             <div>
-                <span class="text-gray-400 block mb-1">Classified Under</span>
+                <span class="text-gray-400 block mb-1">{{ site.site_elements.classified_under }}</span>
                 <div class="flex flex-wrap gap-2">
                     {% for category in page.categories %}
                     <a href="{{ '/category' | relative_url }}/{{ category | slugify }}" class="border border-black dark:border-white px-2 py-1 hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-all">
@@ -131,14 +131,14 @@
 
             {% if page.source %}
             <div>
-                <span class="text-gray-400 block mb-1">Source</span>
+                <span class="text-gray-400 block mb-1">{{ site.site_elements.source }}</span>
                 <p class="leading-relaxed">{{ page.source }}</p>
             </div>
             {% endif %}
 
             {% if page.article_taken_from %}
             <div>
-                <span class="text-gray-400 block mb-1">Taken From</span>
+                <span class="text-gray-400 block mb-1">{{ site.site_elements.taken_from }}</span>
                 {% for t in page.article_taken_from.taken_from %}
                 <a href="{{ t.web_url }}" rel="nofollow" target="_blank" class="border-b border-black dark:border-white hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-all">
                     {{ t.web_title }}
@@ -152,21 +152,21 @@
         <div class="space-y-6 md:text-right">
             {% if page.translated_by %}
             <div>
-                <span class="text-gray-400 block mb-1">Translator</span>
+                <span class="text-gray-400 block mb-1">{{ site.site_elements.translator }}</span>
                 <p>{{ page.translated_by }}</p>
             </div>
             {% endif %}
 
             <!-- Last Modified -->
             <div>
-                <span class="text-gray-400 block mb-1">Last Modified</span>
+                <span class="text-gray-400 block mb-1">{{ site.site_elements.last_modified }}</span>
                 <p class="tabular-nums">
                     <b><span id='last-modified'></span></b>
                 </p>
             </div>
 
             <div>
-                <span class="text-gray-400 block mb-4">Spread</span>
+                <span class="text-gray-400 block mb-4">{{ site.site_elements.share }}</span>
                 <div class="flex flex-wrap md:justify-end gap-x-6 gap-y-2">
                     <a href="https://x.com/intent/tweet?text={{ page.title | url_encode }}&url={{ site.url }}{{ page.url }}" target="_blank" class="hover:line-through"><i class="fa-brands fa-x-twitter fa-lg"></i></a>
                     <a href="https://www.threads.net/intent/post?text={{ page.title | url_encode }}%20{{ site.url }}{{ page.url }}" target="_blank" class="hover:line-through"><i class="fa-brands fa-threads fa-lg"></i></a>

@@ -36,11 +36,11 @@ summary: "Compilation of fatwas (legal opinions) issued by the scholars of ahlus
     
     {% if paginator.previous_page %}
         <a href="{{ paginator.previous_page_path | relative_url }}" class="text-sm font-black uppercase tracking-widest hover:line-through">
-            ← Newer
+            ← {{ site.site_elements.next }}
         </a>
     {% else %}
         <span class="text-sm font-black uppercase tracking-widest opacity-10 cursor-not-allowed">
-            ← Newer
+            ← {{ site.site_elements.next }}
         </span>
     {% endif %}
 
@@ -53,11 +53,11 @@ summary: "Compilation of fatwas (legal opinions) issued by the scholars of ahlus
 
     {% if paginator.next_page %}
         <a href="{{ paginator.next_page_path | relative_url }}" class="text-sm font-black uppercase tracking-widest hover:line-through">
-            Older →
+            {{ site.site_elements.prev }} →
         </a>
     {% else %}
         <span class="text-sm font-black uppercase tracking-widest opacity-10 cursor-not-allowed">
-            Older →
+            {{ site.site_elements.prev }} →
         </span>
     {% endif %}
     
