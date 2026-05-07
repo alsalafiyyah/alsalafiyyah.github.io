@@ -9,6 +9,11 @@ layout: default
   {% include audio_player.html %}
  {% endif %}
  <div class="post">
+   {% if page.scholar %}
+   <p class="text-[124px] font-black uppercase tracking-[0.15em] text-black dark:text-white mb-3">
+    {{ page.scholar }}
+   </p>
+   {% endif %}
    {{ content }}
  </div>
  </div>
