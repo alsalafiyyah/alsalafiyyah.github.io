@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: post
 title: "The Roots of Public Affliction"
+date: 2026-05-07
 scholar: "Imam Ibn al-Qayyim"
 source: "Al-Turuq Al-Hukmiyyah p.408"
 summary: "Among the greatest causes of mass death and persistent plagues is the prevalence of adultery, stemming from women being empowered to intermingle with men and walk among them displaying their beauty and finery."

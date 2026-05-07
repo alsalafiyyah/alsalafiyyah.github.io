@@ -56,6 +56,28 @@ manifest_bg_color  : "#E5DCD7"
 manifest_short_name: "Al-Salafiyyah"
 manifest_display   : "standalone"
 
+# Menu Navigation
+menu_navigation:
+  - title: Fatwas
+    url: /fatwas/
+  - title: Audios
+    url: /audios/
+  - title: Videos
+    url: /videos/
+  - title: Muqolat
+    url: /muqolat/
+  - title: "al-Qur'an"
+    url: "/quran/"
+
+# Footer Navigation
+footer_navigation:
+  - title: Instagram
+    url: "https://instagram.com/alsalafiyyah"
+  - title: About
+    url: /about/
+  - title: RSS
+    url: /feed/
+
 include:
   - _pages
 

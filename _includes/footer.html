@@ -11,7 +11,7 @@
 
     <div class="flex items-center gap-8">
         <a itemprop="sameAs" href="https://instagram.com/alsalafiyyah" target="_blank" class="hover:line-through transition-all">Instagram</a>
-        {% for item in site.data.setting.footer %}
+        {% for item in site.footer_navigation %}
          <a itemprop="sameAs" href="{{ item.url | relative_url }}" class="hover:line-through transition-all">{{ item.name }}</a>
         {% endfor %}
         <button id="theme-toggle" type="button" class="text-black dark:text-white hover:opacity-50 transition-opacity focus:outline-none" aria-label="Toggle Theme">
