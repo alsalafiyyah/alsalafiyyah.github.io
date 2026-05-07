@@ -104,7 +104,7 @@ document.addEventListener("DOMContentLoaded", function () {
             container.innerHTML = paginated.map(post => `
                 <article class="group py-4 border-b border-gray-100 dark:border-zinc-800 last:border-0">
                     <span class="text-[10px] font-bold uppercase tracking-[0.3em] text-gray-400">
-                        ${post.dataset.hijri || 'Archive'}
+                        ${post.dataset.hijri}
                     </span>
                     <h2 class="text-3xl md:text-4xl font-black mt-2 mb-6 leading-[0.85] uppercase tracking-tighter group-hover:italic transition-all">
                         <a href="${post.dataset.url}">${highlightText(post.dataset.title, query)}</a>
@@ -268,7 +268,7 @@ document.addEventListener("DOMContentLoaded", function () {
     container.innerHTML = postsToShow.map(post => `
         <article class="group cursor-pointer mb-10 border-b border-gray-100 dark:border-zinc-800 last:border-0">
             <span class="text-[10px] font-bold uppercase tracking-[0.3em] text-gray-400 group-hover:text-black dark:group-hover:text-white transition-colors">
-                ${post.hijri || ''} / ${post.date}
+                ${post.hijri || ''} ${post.date} ${post.scholar}
             </span>
             <h2 class="text-4xl md:text-5xl font-black mt-4 mb-6 leading-[0.85] uppercase tracking-tighter group-hover:italic transition-all">
                 <a href="${post.url}">${post.title}</a>
