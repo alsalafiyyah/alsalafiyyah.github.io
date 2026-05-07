@@ -180,12 +180,6 @@ defaults:
     values:
       layout: "Page"
 
-# Collections
-collections:
-  fawaid:
-    output: true
-    permalink       : /:collection/:slug
-
 # Alifta Scholars
 group1:
   chairman: 
