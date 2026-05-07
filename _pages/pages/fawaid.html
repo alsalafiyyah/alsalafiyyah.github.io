@@ -19,7 +19,6 @@ permalink: /fawaid/
     {
       "title": {{ entry.title | jsonify }},
       "url": {{ entry.url | jsonify }},
-      "scholar": {{ entry.scholar | jsonify }},
       "date": {{ entry.date | date: "%Y-%m-%d" | jsonify }},
       "hijri": {{ entry.hijri | jsonify }},
       "summary": {{ entry.content | strip_html | truncatewords: 20 | jsonify }}
