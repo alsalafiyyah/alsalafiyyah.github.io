@@ -78,12 +78,27 @@ footer_navigation:
   - title: RSS
     url: /feed/
 
-# Footer Navigation
+# Site Elements
 site_elements:
-published: "Published"
-next: "Next"
-prev: "Prev"
-last_m
+  published: "Published"
+  next: "Newer"
+  prev: "Older"
+  last_modified: "Last Modified"
+  share: "Spread"
+  source: "Source"
+  categories: "Categories"
+  translator: "Translator"
+  latest_posts: "Latest Insights"
+  selected_post: "Selected Fatwas"
+  recent_posts: "Recent Fatwas"
+  read_more: "Read"
+  view_all_posts: "View All Fatwas"
+  classified_under: "Classified Under"
+  taken_from: "Taken From"
+  search: "Search"
+  select_category: "Select Category"
+  scholars: "Scholars"
+  scholar: "Scholar"
 
 include:
   - _pages
