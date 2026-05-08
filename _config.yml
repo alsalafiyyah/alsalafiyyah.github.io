@@ -123,6 +123,10 @@ exclude:
   - Gemfile.lock
   - "sample*.png" 
 
+collections:
+  categories:
+    output: true
+
 defaults:
   # _posts
   - scope:
@@ -168,6 +172,13 @@ defaults:
     values:
       layout: post
       permalink: /biography/:title/   
+  # _categories
+  - scope:
+      path: "_categories"
+      type: "categories"
+    values:
+      layout: "category"
+      permalink: /category/:title/ 
   # _pages
   - scope:
       path: "_pages"
