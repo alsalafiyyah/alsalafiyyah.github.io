@@ -36,11 +36,6 @@ webmaster_verifications:
   gtag_manager      : "G-QC20WKL1N2" # google tag
   wot-verification  : "5e71c40c8e8939cc0eb5" # web of trust
 
-Tags                : '/tags/'
-tag_page            : '/tags/'
-Categories          : '/category/'
-category_page       : '/category/'
-
 # Manifest
 manifest_name      : "Al-Salafiyyah"
 manifest_desc      : "This site is dedicated to presenting the pure teachings of Islam and Sunnah, refuting bidahs, the lies and distortions."

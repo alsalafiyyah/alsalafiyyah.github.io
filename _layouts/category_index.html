@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: default
 title: Categories
 active: category
 ---
@@ -8,20 +8,23 @@ active: category
     <a id="prev-link" href="#" class="text-sm font-black uppercase tracking-widest hover:line-through invisible">← Newer</a>
     
     <div class="text-sm font-black uppercase tracking-widest tabular-nums">
-        Page <span id="current-page-display">01</span> of <span id="total-pages-display">01</span>
+      <span id="current-page-display">01</span> / <span id="total-pages-display">01</span>
     </div>
     
     <a id="next-link" href="#" class="text-sm font-black uppercase tracking-widest hover:line-through invisible">Older →</a>
 </nav>
 <script id="fatwa-data" type="application/json">
 [
-  {% for post in site.categories[page.category] %}
+  {% assign category_posts = site.posts | where_exp: "post", "post.category contains page.category" %}
+  
+  {% for post in category_posts %}
     {
       "title": {{ post.title | jsonify }},
-      "url": {{ post.url | jsonify }},
+      "url": {{ post.url | relative_url | jsonify }},
       "date": {{ post.date | date: "%Y-%m-%d" | jsonify }},
       "hijri": {{ post.hijri | jsonify }},
-      "summary": {{ post.content | strip_html | truncatewords: 20 | jsonify }}
+      "scholar": {{ post.scholar | jsonify }},
+      "summary": {{ post.summary | default: "" | jsonify }}
     }{% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
