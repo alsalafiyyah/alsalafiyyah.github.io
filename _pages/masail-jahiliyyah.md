@@ -1,12 +1,10 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Characteristics of the people of the age of ignorance"
+title: "Matters of Pre-Islamic Ignorance"
 date: 2024-08-06
-hijri: Safar 02, 1446
+hijri: "Safar 02, 1446 AH"
 source: "Masa'il Jahiliyyah"
-locale: en
-lang: en
 active: muqolat
 robots: noindex
 permalink: /masail-jahiliyyah/
