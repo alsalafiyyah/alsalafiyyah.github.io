@@ -178,7 +178,7 @@ defaults:
       path: ""
       type: "pages"
     values:
-      layout: "Page"
+      layout: "page"
 
 # Alifta Scholars
 group1:
