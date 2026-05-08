@@ -26,10 +26,9 @@
             class="w-full bg-transparent border-2 border-black dark:border-white px-4 py-3 text-[10px] font-black uppercase tracking-widest appearance-none cursor-pointer focus:bg-black focus:text-white dark:focus:bg-white dark:focus:text-black transition-all outline-none"
         >
             <option value="" disabled selected>{{ site.site_elements.select_category }}</option>
-            {% for category in site.categories %}
-                {% capture category_name %}{{ category | first }}{% endcapture %}
-                <option value="{{ site.baseurl }}/category/{{ category_name | slugify }}">
-                    {{ category_name }} ({{ site.categories[category_name].size }})
+            {% for cat in site.categories %}
+                <option value="{{ cat.url | relative_url }}">
+                    {{ cat.title | default: cat.category }}
                 </option>
             {% endfor %}
         </select>
