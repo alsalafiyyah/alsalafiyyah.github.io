@@ -225,16 +225,18 @@ document.addEventListener("DOMContentLoaded", function () {
     audio.addEventListener('loadedmetadata', updateTimeDisplay);
 </script>
 {% endif %}
-    <script>
+<script>
 document.addEventListener('DOMContentLoaded', function() {
     const themeToggleDarkIcon = document.getElementById('theme-toggle-dark-icon');
     const themeToggleLightIcon = document.getElementById('theme-toggle-light-icon');
     const themeToggleBtn = document.getElementById('theme-toggle');
 
-    // 1. Critical Check: If elements aren't found, stop the script to avoid errors
-    if (!themeToggleBtn || !themeToggleDarkIcon || !themeToggleLightIcon) return;
+    if (!themeToggleBtn) {
+        console.error("Theme toggle button not found!");
+        return;
+    }
 
-    // 2. Sync Icons with Current State
+    // Sync Icons with Current State
     if (document.documentElement.classList.contains('dark')) {
         themeToggleLightIcon.classList.remove('hidden');
         themeToggleDarkIcon.classList.add('hidden');
@@ -243,7 +245,6 @@ document.addEventListener('DOMContentLoaded', function() {
         themeToggleLightIcon.classList.add('hidden');
     }
 
-    // 3. Toggle Logic
     themeToggleBtn.addEventListener('click', function() {
         // Toggle icons
         themeToggleDarkIcon.classList.toggle('hidden');
@@ -252,14 +253,14 @@ document.addEventListener('DOMContentLoaded', function() {
         // Toggle Theme & Persist
         if (document.documentElement.classList.contains('dark')) {
             document.documentElement.classList.remove('dark');
-            localStorage.setItem('color-theme', 'light'); // Use 'color-theme' to match standard setups
+            localStorage.setItem('color-theme', 'light');
         } else {
             document.documentElement.classList.add('dark');
             localStorage.setItem('color-theme', 'dark');
         }
     });
 });
-    </script>
+</script>
 <script>
 document.addEventListener("DOMContentLoaded", function () {
     const POSTS_PER_PAGE = 10;
