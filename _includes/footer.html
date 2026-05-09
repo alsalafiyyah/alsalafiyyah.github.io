@@ -94,17 +94,16 @@
             <a itemprop="sameAs" href="{{ item.url | relative_url }}" class="hover:line-through transition-all">{{ item.title }}</a>
         {% endfor %}
         
-<div class="flex items-center gap-3 p-4">
-    
-    <!-- Light Mode Button -->
+<div class="flex gap-4 p-4 relative z-50">
     <button id="theme-light" 
-            class="w-6 h-6 border-2 border-black bg-white hover:scale-110 transition-all focus:outline-none" 
-            title="Light Mode"></button>
+            type="button"
+            class="w-8 h-8 border-2 border-black bg-white cursor-pointer" 
+            aria-label="Light Mode"></button>
             
-    <!-- Dark Mode Button -->
     <button id="theme-dark" 
-            class="w-6 h-6 border-2 border-white bg-black hover:scale-110 transition-all focus:outline-none" 
-            title="Dark Mode"></button>
+            type="button"
+            class="w-8 h-8 border-2 border-white bg-black cursor-pointer" 
+            aria-label="Dark Mode"></button>
 </div>
 
     </div>
