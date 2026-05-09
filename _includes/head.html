@@ -49,6 +49,21 @@
 
 <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="https://alsalafiyyah.github.io/feed.xml">
 
+<script>
+    window.tailwind = {
+        config: {
+            darkMode: 'class'
+        }
+    }
+
+    if (localStorage.getItem('color-theme') === 'dark' || 
+        (!('color-theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        document.documentElement.classList.add('dark');
+    } else {
+        document.documentElement.classList.remove('dark');
+    }
+</script>
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <script src="https://alsalafiyyah.github.io//assets/tailwindcss.js"></script>
 <script src="https://cdn.tailwindcss.com"></script>
@@ -118,17 +133,3 @@
   gtag('config', '{{ site.webmaster_verifications.gtag_manager }}');
 </script>
 <!-- Clarity tracking code for https://alsalafiyyah.github.io/ --><script>    (function(c,l,a,r,i,t,y){        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);    })(window, document, "clarity", "script", "n477hgra2y");</script>
-<script>
-    window.tailwind = {
-        config: {
-            darkMode: 'class'
-        }
-    }
-
-    if (localStorage.getItem('color-theme') === 'dark' || 
-        (!('color-theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-        document.documentElement.classList.add('dark');
-    } else {
-        document.documentElement.classList.remove('dark');
-    }
-</script>
