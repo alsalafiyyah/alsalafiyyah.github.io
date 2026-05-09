@@ -16,13 +16,13 @@ content-type: application/manifest+json
   "description": "{{ site.manifest_desc }}",
   "icons": [
     {
-      "src": "{{ '/assets/images/manifest/144X144-icon.png' | absolute_url }}",
-      "sizes": "144x144",
+      "src": "{{ '/assets/icons/web-app-manifest-192x192.png' | absolute_url }}",
+      "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "{{ '/assets/images/manifest/512X512-icon.png' | absolute_url }}",
+      "src": "{{ '/assets/icons/web-app-manifest-512x512.png' | absolute_url }}",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
