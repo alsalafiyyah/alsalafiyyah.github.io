@@ -79,30 +79,3 @@
     background: none !important; 
     text-decoration: underline !important;
 }
-
-
-/* LIGHT THEME COLORS */
-:root[data-theme='light'] {
-  --bg-color: #ffffff;
-  --text-color: #000000;
-  --icon-sun: none;
-  --icon-moon: block;
-}
-
-/* DARK THEME COLORS */
-:root[data-theme='dark'] {
-  --bg-color: #09090b; /* Zinc-950 */
-  --text-color: #ffffff;
-  --icon-sun: block;
-  --icon-moon: none;
-}
-
-/* Apply variables globally */
-body {
-  background-color: var(--bg-color);
-  color: var(--text-color);
-}
-
-/* Auto-hide/show icons based on the HTML attribute */
-#sun-icon { display: var(--icon-sun); }
-#moon-icon { display: var(--icon-moon); }
