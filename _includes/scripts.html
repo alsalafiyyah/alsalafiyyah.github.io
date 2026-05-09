@@ -226,39 +226,36 @@ document.addEventListener("DOMContentLoaded", function () {
 </script>
 {% endif %}
 <script>
-document.addEventListener('DOMContentLoaded', function() {
-    const themeToggleDarkIcon = document.getElementById('theme-toggle-dark-icon');
-    const themeToggleLightIcon = document.getElementById('theme-toggle-light-icon');
-    const themeToggleBtn = document.getElementById('theme-toggle');
+document.addEventListener('DOMContentLoaded', () => {
+    const lightBtn = document.getElementById('theme-light');
+    const darkBtn = document.getElementById('theme-dark');
 
-    if (!themeToggleBtn) {
-        console.error("Theme toggle button not found!");
-        return;
-    }
-
-    // Sync Icons with Current State
-    if (document.documentElement.classList.contains('dark')) {
-        themeToggleLightIcon.classList.remove('hidden');
-        themeToggleDarkIcon.classList.add('hidden');
-    } else {
-        themeToggleDarkIcon.classList.remove('hidden');
-        themeToggleLightIcon.classList.add('hidden');
-    }
-
-    themeToggleBtn.addEventListener('click', function() {
-        // Toggle icons
-        themeToggleDarkIcon.classList.toggle('hidden');
-        themeToggleLightIcon.classList.toggle('hidden');
-
-        // Toggle Theme & Persist
-        if (document.documentElement.classList.contains('dark')) {
+    // Theme Switcher
+    if (lightBtn && darkBtn) {
+        lightBtn.addEventListener('click', () => {
             document.documentElement.classList.remove('dark');
-            localStorage.setItem('color-theme', 'light');
-        } else {
+            localStorage.setItem('theme', 'light');
+        });
+
+        darkBtn.addEventListener('click', () => {
             document.documentElement.classList.add('dark');
-            localStorage.setItem('color-theme', 'dark');
-        }
-    });
+            localStorage.setItem('theme', 'dark');
+        });
+    }
+
+    // Simple Search Filter
+    const searchInput = document.querySelector('.search-input');
+    if (searchInput) {
+        searchInput.addEventListener('input', (e) => {
+            const term = e.target.value.toLowerCase();
+            const cards = document.querySelectorAll('.content-card');
+            
+            cards.forEach(card => {
+                const title = card.querySelector('h2, h3')?.innerText.toLowerCase() || "";
+                card.style.display = title.includes(term) ? 'block' : 'none';
+            });
+        });
+    }
 });
 </script>
 <script>
