@@ -6,6 +6,7 @@
 <meta name="description" content="{{ page.summary | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}"/>
 <link rel="canonical" href="{{ page.url | replace:'/index.html','/' | absolute_url }}" />
 <meta name="robots" content="index, follow">
+<meta name="mobile-web-app-capable" content="yes">
 
 <meta property="og:site_name" content="{{ site.title | escape }}" />
 <meta property="og:title" content="{{ page.title | default: site.title | escape }}" />
