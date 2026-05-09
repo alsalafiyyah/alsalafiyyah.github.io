@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-05-08
 hijri: "Dhu al-Qidah 21, 1447 AH"
-title: "Prohibition of Artificial Eyelashes and Their Resemblance to Hair Extensions"
+title: "Prohibition of Artificial Eyelashes"
 source: "Fatawa Nur ala ad-Darb tape no.330"
 category: [fatwas,audios,women]
 link: "https://binothaimeen.net/s/ckDKl4uw"
