@@ -229,7 +229,6 @@ document.addEventListener("DOMContentLoaded", function () {
 document.addEventListener('DOMContentLoaded', () => {
     const lightBtn = document.getElementById('theme-light');
     const darkBtn = document.getElementById('theme-dark');
-
     // Theme Switcher
     if (lightBtn && darkBtn) {
         lightBtn.addEventListener('click', () => {
@@ -240,20 +239,6 @@ document.addEventListener('DOMContentLoaded', () => {
         darkBtn.addEventListener('click', () => {
             document.documentElement.classList.add('dark');
             localStorage.setItem('theme', 'dark');
-        });
-    }
-
-    // Simple Search Filter
-    const searchInput = document.querySelector('.search-input');
-    if (searchInput) {
-        searchInput.addEventListener('input', (e) => {
-            const term = e.target.value.toLowerCase();
-            const cards = document.querySelectorAll('.content-card');
-            
-            cards.forEach(card => {
-                const title = card.querySelector('h2, h3')?.innerText.toLowerCase() || "";
-                card.style.display = title.includes(term) ? 'block' : 'none';
-            });
         });
     }
 });
