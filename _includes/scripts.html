@@ -282,27 +282,13 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 });
 </script>
-<script>
-document.addEventListener('DOMContentLoaded', () => {
-    const lightBtn = document.getElementById('theme-light');
-    const darkBtn = document.getElementById('theme-dark');
-
-    if (lightBtn && darkBtn) {
-        console.log("Theme buttons detected."); // Check your F12 console for this!
-
-        lightBtn.onclick = () => {
-            document.documentElement.classList.remove('dark');
-            localStorage.setItem('theme', 'light');
-            console.log("Theme set to light");
-        };
-
-        darkBtn.onclick = () => {
-            document.documentElement.classList.add('dark');
-            localStorage.setItem('theme', 'dark');
-            console.log("Theme set to dark");
-        };
-    } else {
-        console.error("Theme buttons NOT found in DOM.");
-    }
-});
-</script>
+    <script>
+        const toggle = document.getElementById('theme-toggle');
+        const html = document.documentElement;
+        if (html.getAttribute('data-theme') === 'black') { toggle.checked = true; }
+        toggle.addEventListener('change', () => {
+            const newTheme = toggle.checked ? 'black' : 'light';
+            html.setAttribute('data-theme', newTheme);
+            localStorage.setItem('theme', newTheme);
+        });
+    </script>
