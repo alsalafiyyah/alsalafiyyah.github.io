@@ -21,9 +21,9 @@ Is there a treatment for infertility? Can an infertile person have children if t
 
 ### Answer:
 
-As for what Allah, Almighty and Exalted, has decreed, there is no one who can change it, as Allah Almighty said: "And Allah judges, there is none to put back His Judgement.." [ar-Ra'ad 13:41. Allah, Glorified and Exalted is He, has clarified that to Him belongs the dominion of the heavens and the earth and that He does what He wills. 
+As for what Allah, Almighty and Exalted, has decreed, there is no one who can change it, as Allah Almighty said: **"And Allah judges, there is none to put back His Judgement.."** [ar-Ra'd 13:41]. 
 
-He, the Blessed and Exalted, said: "To Allah belongs the kingdom of the heavens and the earth. He creates what He wills. He bestows female (offspring) upon whom He wills, and bestows male (offspring) upon whom He wills. Or He bestows both males and females, and He renders barren whom He wills. Verily, He is the All-Knower and is Able to do all things." [ash-Shura' 42:49-50)
+Allah, Glorified and Exalted is He, has clarified that to Him belongs the dominion of the heavens and the earth and that He does what He wills. He, the Blessed and Exalted, said: **"To Allah belongs the kingdom of the heavens and the earth. He creates what He wills. He bestows female (offspring) upon whom He wills, and bestows male (offspring) upon whom He wills. Or He bestows both males and females, and He renders barren whom He wills. Verily, He is the All-Knower and is Able to do all things."** [ash-Shura' 42:49-50)
 
 These are four categories: 
 
