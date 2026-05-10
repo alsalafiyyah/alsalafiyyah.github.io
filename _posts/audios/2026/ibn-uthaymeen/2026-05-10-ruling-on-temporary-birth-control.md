@@ -3,12 +3,12 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-05-10
 hijri: "Dhu al-Qidah 23, 1447 AH"
-title: "The Ruling on Temporary Birth Control and Family Planning in Islam"
+title: "The Ruling on Temporary Birth Control"
 source: "Fatawa Nur 'ala al-Darb 203 no.1"
 category: [fatwas,audios,women]
 link: "https://binothaimeen.net/s/FZvuCALb"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_203_01.mp3"
-summary: "If a person possessed strong faith and trust (in Allah), they would know that Allah, Glorified and Exalted be He, does not create a soul except that He has guaranteed its provision"
+summary: "If a person possessed strong faith and trust (in Allah), they would know that Allah does not create a soul except that He has guaranteed its provision"
 muftis:
   shaykh: 
     - name: Shaykh Ibn Uthaymeen 
@@ -25,7 +25,7 @@ Praise be to Allah, Lord of the Worlds. I send peace and blessings upon our Prop
 
 This is an important question. The enemies of the Muslims have deceived the Muslims regarding the increase in offspring; they have deluded them into believing that a high birth rate leads to economic hardship and crises for both governments and individuals. It is well known that such things—meaning economic hardship and crises—cause chaos and disparity among people. They depict a high birth rate in a terrifying and horrifying manner, and those with weak souls and weak faith are led to believe that this is a necessary form of regulation. 
 
-However, if a person possessed strong faith and trust (in Allah), they would know that Allah, Glorified and Exalted be He, does not create a soul except that He has guaranteed its provision, as Allah, Exalted is He, says: **'And no moving (living) creature is there on earth but its provision is due from Allâh. And He knows its dwelling place and its deposit (in the uterus, grave).'** [Hud 11:6]}}. 
+However, if a person possessed strong faith and trust (in Allah), they would know that Allah, Glorified and Exalted be He, does not create a soul except that He has guaranteed its provision, as Allah, Exalted is He, says: **'And no moving (living) creature is there on earth but its provision is due from Allâh. And He knows its dwelling place and its deposit (in the uterus, grave).'** [Hud 11:6]. 
 
 And He, the Exalted, says: **'And kill not your children for fear of poverty. We shall provide for them as well as for you. Surely, the killing of them is a great sin.' [Al-Isra' 17:31]. 
 
