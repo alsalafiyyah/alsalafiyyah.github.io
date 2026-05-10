@@ -1,8 +1,8 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-date: 2026-04-26
-hijri: "Dhu al-Qidah 9, 1447 AH"
+date: 2019-11-19
+hijri: "Rabi' Al-Awwal 22, 1442 AH"
 title: "Who Are The Salaf"
 source: "Fatawa Nur ala Ad-Darb, Tape no. 175"
 category: [fatwas,audios,manhaj]
