@@ -8,7 +8,6 @@ date: 2020-09-05
 group1: true
 summary: "It refers to those following the way of the Salaf of the early Muslim generation in their adherence to the Qur‘an and the Sunnah."
 category: [fatwas,manhaj]
-featured: true
 article_taken_from: 
   taken_from:
     - web_title: ماهي السلفية 
