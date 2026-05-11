@@ -108,6 +108,18 @@
     }
   }
   {% endif %}
+  {% if page.mp3 %}
+  ,{
+    "@context": "https://schema.org",
+    "@type": "AudioObject",
+    "name": "{{ page.title | default: site.title | jsonify }}",
+    "description": "{{ page.summary | default: site.description | strip_html | jsonify }}",
+    "contentUrl": "{{ page.url | absolute_url | jsonify }}",
+    {% if page.date %}"uploadDate": "{{ page.date | date_to_xmlschema }}",{% endif %}
+    "duration": "",
+    "encodingFormat": "audio/mpeg"
+  }
+  {% endif %}
 ]
 </script>
 <!-- Google tag (gtag.js) -->
