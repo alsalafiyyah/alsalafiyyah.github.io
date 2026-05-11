@@ -184,12 +184,13 @@
     {% endfor %}
   ],
   "uploadDate": "2026-05-11T08:00:00+00:00",
-  {% assign videos = site.posts | where_exp: "post", "post.categories contains 'videos'" %}
-  {% for post in videos %}
   "contentUrl": [
+    {% assign videos = site.posts | where_exp: "post", "post.categories contains 'videos'" %}
+  {% for post in videos %}
     "{{ post.url | absolute_url }}",
-  ],
+    {% unless forloop.last %},{% endunless %}
   {% endfor %}
+  ],
   "author": {
     "@type": "Person",
     "name": "{{ site title }}"
