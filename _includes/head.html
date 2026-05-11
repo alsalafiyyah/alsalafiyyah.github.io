@@ -55,6 +55,27 @@
 <script src="https://alsalafiyyah.github.io//assets/tailwindcss.js"></script>
 <link rel="stylesheet" href="https://alsalafiyyah.github.io/assets/custom-styles.css">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&family=Playfair+Display:ital,wght@0,900;1,900&display=swap" rel="stylesheet">
+<!-- Google tag (gtag.js) -->
+<link href="https://www.googletagmanager.com/gtag/js?id={{ site.webmaster_verifications.gtag_manager }}" rel="prefetch" as="script">
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ site.webmaster_verifications.gtag_manager }}');
+</script>
+<!-- Clarity tracking code for https://alsalafiyyah.github.io/ --><script>    (function(c,l,a,r,i,t,y){        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);    })(window, document, "clarity", "script", "n477hgra2y");</script>
+
+  <script>
+  tailwind.config = {
+    darkMode: 'class'
+  }
+        // Theme initialization
+        if (localStorage.getItem('theme') === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.classList.add('dark');
+        } else {
+            document.documentElement.classList.remove('dark');
+        }
+    </script>
 <script type="application/ld+json">
 [
   {
@@ -120,39 +141,19 @@
   }
   {% endif %}
   {% if page.videoID %}
-,{
-  "@context": "https://schema.org",
-  "@type": "VideoObject",
-  "name": {{ page.title | default: site.title | jsonify }},
-  "description": {{ page.summary | default: site.description | strip_html | jsonify }},
-  "thumbnailUrl": "https://img.youtube.com/vi/{{ page.videoID }}/maxresdefault.jpg",
-  {% if page.date %}"uploadDate": "{{ page.date | date_to_xmlschema }}",{% endif %}
-  "embedUrl": "https://www.youtube.com/embed/{{page.videoID}}?modestbranding=1&rel=0",
-  "author": {
-    "@type": "Person",
-    "name": "{{ site.title }}"
+  ,{
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": {{ page.title | default: site.title | jsonify }},
+    "description": {{ page.summary | default: site.description | strip_html | jsonify }},
+    "thumbnailUrl": "https://img.youtube.com/vi/{{ page.videoID }}/maxresdefault.jpg",
+    {% if page.date %}"uploadDate": "{{ page.date | date_to_xmlschema }}",{% endif %}
+    "embedUrl": "https://www.youtube.com/embed/{{ page.videoID }}?modestbranding=1&rel=0",
+    "author": {
+      "@type": "Person",
+      "name": "{{ site.title }}"
+    }
   }
   {% endif %}
 ]
 </script>
-<!-- Google tag (gtag.js) -->
-<link href="https://www.googletagmanager.com/gtag/js?id={{ site.webmaster_verifications.gtag_manager }}" rel="prefetch" as="script">
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', '{{ site.webmaster_verifications.gtag_manager }}');
-</script>
-<!-- Clarity tracking code for https://alsalafiyyah.github.io/ --><script>    (function(c,l,a,r,i,t,y){        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);    })(window, document, "clarity", "script", "n477hgra2y");</script>
-
-  <script>
-  tailwind.config = {
-    darkMode: 'class'
-  }
-        // Theme initialization
-        if (localStorage.getItem('theme') === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-            document.documentElement.classList.add('dark');
-        } else {
-            document.documentElement.classList.remove('dark');
-        }
-    </script>
