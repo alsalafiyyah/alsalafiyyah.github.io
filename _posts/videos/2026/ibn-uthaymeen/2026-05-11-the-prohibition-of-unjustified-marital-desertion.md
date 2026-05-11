@@ -11,6 +11,7 @@ summary: "If the woman has fulfilled her marital obligations, then the husbandâ€
 videoURL: "https://youtu.be/KA3IODk0KP8"
 videoID: "KA3IODk0KP8"
 source: "Fatawa Nur ala ad-Darb"
+url: "https://fatawapedia.com/%D8%AD%D9%83%D9%85-%D9%86%D9%88%D9%85-%D8%A7%D9%84%D8%B2%D9%88%D8%AC-%D9%81%D9%8A-%D8%BA%D8%B1%D9%81%D8%A9-%D8%A8%D8%B9%D9%8A%D8%AF%D8%A9-%D8%B9%D9%86-%D8%B2%D9%88%D8%AC%D8%AA%D9%87-23050"
 muftis:
   shaykh: 
     - name: "Shaykh Ibn 'Uthaymeen"
