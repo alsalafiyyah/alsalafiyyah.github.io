@@ -170,20 +170,5 @@
       {% endfor %}
     ]
   }
-,{
-    "@context": "https://schema.org",
-    "@type": "ItemList",
-    "name": "Footer Navigation",
-    "itemListElement": [
-      {% for item in site.footer_navigation %}
-      {
-        "@type": "ListItem",
-        "position": {{ forloop.index }},
-        "name": "{{ item.title }}",
-        "url": "{{ item.url | absolute_url }}"
-      }{% unless forloop.last %},{% endunless %}
-      {% endfor %}
-    ]
-  }
 ]
 </script>
