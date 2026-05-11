@@ -123,7 +123,7 @@
 ,{
   "@context": "https://schema.org",
   "@type": "VideoObject",
-  "name": "{{ page.title | default: site.title | jsonify }}",
+  "name": {{ page.title | default: site.title | jsonify }},
   "description": {{ page.summary | default: site.description | strip_html | jsonify }},
   "thumbnailUrl": "https://img.youtube.com/vi/{{ page.videoID }}/maxresdefault.jpg",
   {% if page.date %}"uploadDate": "{{ page.date | date_to_xmlschema }}",{% endif %}
