@@ -155,5 +155,20 @@
     }
   }
   {% endif %}
+  ,{
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "Navigation Menu",
+    "itemListElement": [
+      {% for item in site.menu_navigation %}
+      {
+        "@type": "ListItem",
+        "position": {{ forloop.index }},
+        "name": "{{ item.title }}",
+        "url": "{{ item.url | absolute_url }}"
+      }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
+  }
 ]
 </script>
