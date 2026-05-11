@@ -19,12 +19,14 @@ muftis:
 
 ### Question: 
 
-What is the Islamic legal ruling regarding one who dislikes daughters and becomes angry if his wife gives birth to a girl?
+What is the Islamic legal ruling, in Your Eminence’s view, regarding someone who dislikes daughters and becomes angry when a girl is born to him?
 
 ### Answer: 
 
-This person has imitated the enemies of Allah, the disbelievers, as Allah—the Mighty and Majestic—said: **“And when the news of (the birth of) a female (child) is brought to any of them, his face becomes dark, and he is filled with inward grief!"** [An-Nahl: 58]. 
+This [behavior] resembles the enemies of Allah, the disbelievers, as Allah (Mighty and Majestic) says: **“And when the news of (the birth of) a female (child) is brought to any of them, his face becomes dark, and he is filled with inward grief!"** (An-Nahl: 58).
 
-This is not permissible; it is an evil act. It is not allowed to imitate the enemies of Allah. Rather, he should praise Allah and ask Allah for her righteousness and that Allah makes her beneficial. How many daughters has Allah made into the best of women? This is Aisha—may Allah be pleased with her and make her content—the most virtuous of the women of the worlds. 
+This is not permissible; it is an evil act. It is not allowed to imitate the enemies of Allah. Rather, one should praise Allah and ask Him for her righteousness and that Allah makes her beneficial. 
 
-The intent is: that a person should not dislike [having] a daughter; rather, he should praise Allah and ask for her righteousness and success. He must not harbor dislike for that, as disliking daughters is among the deeds of the Pre-Islamic Period of Ignorance (Jahiliyyah). We ask Allah for well-being.
+How many a daughter has Allah provided who is better than a son? Here is 'Aisha (may Allah be pleased with her and make her content)—she is among the most virtuous women of the worlds.
+
+The point is: a person should not dislike [having] daughters; rather, they should praise Allah and ask for her righteousness and success. One must not harbor such dislike, as disliking daughters is a practice from the Days of Ignorance (Jahiliyyah). We ask Allah for well-being. 
