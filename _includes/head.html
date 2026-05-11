@@ -116,7 +116,6 @@
     "description": {{ page.summary | default: site.description | strip_html | jsonify }},
     "contentUrl": {{ page.url | absolute_url | jsonify }},
     {% if page.date %}"uploadDate": "{{ page.date | date_to_xmlschema }}",{% endif %}
-    "duration": "",
     "encodingFormat": "audio/mpeg"
   }
   {% endif %}
