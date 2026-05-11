@@ -120,6 +120,22 @@
     "encodingFormat": "audio/mpeg"
   }
   {% endif %}
+  {% if page.videoID %}
+,{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "{{ page.title | default: site.title | jsonify }}",
+  "description": {{ page.summary | default: site.description | strip_html | jsonify }},
+  "thumbnailUrl": "https://img.youtube.com/vi/{{ post.videoID }}/maxresdefault.jpg",
+  {% if page.date %}"uploadDate": "{{ page.date | date_to_xmlschema }}",{% endif %}
+  "duration": "PT1M30S",
+  "contentUrl": "https://example.com/video.mp4",
+  "embedUrl": "https://www.youtube.com/embed/{{page.videoID}}?modestbranding=1&rel=0",
+  "author": {
+    "@type": "Person",
+    "name": "{{ site.title }}"
+  }
+  {% endif %}
 ]
 </script>
 <!-- Google tag (gtag.js) -->
