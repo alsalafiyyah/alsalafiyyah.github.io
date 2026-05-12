@@ -65,8 +65,8 @@ footer_navigation:
     url: "https://instagram.com/alsalafiyyah"
   - title: About
     url: /about/
-  - title: RSS
-    url: /feed/
+  - title: Arabic
+    url: /ar/
 
 # Site Elements
 site_elements:
