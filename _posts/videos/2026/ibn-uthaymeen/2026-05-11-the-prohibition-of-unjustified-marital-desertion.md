@@ -7,6 +7,7 @@ hijri: "Dhu al-Qidah 24, 1447 AH"
 date: 2026-05-11
 category: [fatwas,videos,women]
 active: videos
+translation: true
 summary: "If the woman has fulfilled her marital obligations, then the husband’s desertion of her is strictly prohibited."
 videoURL: "https://youtu.be/KA3IODk0KP8"
 videoID: "KA3IODk0KP8"
