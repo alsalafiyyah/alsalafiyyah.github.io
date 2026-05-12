@@ -139,7 +139,7 @@
             {% if page.translation == true %}
             <div>
                 <span class="text-gray-400 block mb-1">{{ site.site_elements.translations }}</span>
-                 {% if page.url contains '/ar/' %}
+                 {% if page.lang == 'ar' %}
                   <a href="{{ page.url | remove_first: '/ar' | absolute_url }}">{{ site.site_elements.translation }}</a>
                  {% else %}
                   <a href="{{ page.url | prepend: '/ar' | absolute_url }}">{{ site.site_elements.translation }}</a>
