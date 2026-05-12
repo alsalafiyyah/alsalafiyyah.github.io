@@ -138,8 +138,13 @@
 
             {% if page.translation == true %}
             <div>
-                <span class="text-gray-400 block mb-1">{{ site.site_elements.translation }}</span>
+                <span class="text-gray-400 block mb-1">{{ site.site_elements.translations }}</span>
                  <a href="{{ page.url | prepend: '/ar' | absolute_url }}">{{ site.site_elements.translation }}</a>
+                 {% if page.url contains '/ar/' %}
+  <a href="{{ page.url | remove_first: '/ar' | absolute_url }}">Read in English</a>
+{% else %}
+  <a href="{{ page.url | prepend: '/ar' | absolute_url }}">Read in Arabic</a>
+{% endif %}
             </div>
             {% endif %}
 
