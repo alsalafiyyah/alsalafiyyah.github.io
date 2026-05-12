@@ -7,6 +7,8 @@ hijri: "Dhu al-Qidah 24, 1447 AH"
 date: 2026-05-11
 category: [fatwas,videos,women]
 active: videos
+lang: en
+translation: true
 summary: "A person should not dislike [having] a daughter; rather, he should praise Allah and ask for her righteousness and success."
 videoURL: "https://youtu.be/tNUYJ0s2yas"
 videoID: "tNUYJ0s2yas"
