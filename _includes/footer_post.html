@@ -139,9 +139,7 @@
             {% if page.translation == true %}
             <div>
                 <span class="text-gray-400 block mb-1">{{ site.site_elements.translation }}</span>
-                <p class="leading-relaxed">
-                 <a href="{{ '/ar/page.url' | absolute_url }}">Read on Arabic</a>
-                </p>
+                 <a href="{{ page.url | prepend: '/ar' | absolute_url }}">Read in Arabic</a>
             </div>
             {% endif %}
 
