@@ -44,6 +44,8 @@ manifest_bg_color  : "#E5DCD7"
 manifest_short_name: "Al-Salafiyyah"
 manifest_display   : "standalone"
 
+categories_select: true
+
 # Menu Navigation
 menu_navigation:
   - title: Fatwas
@@ -76,7 +78,7 @@ site_elements:
   source: "Source"
   categories: "Categories"
   translator: "Translator"
-  latest_posts: "Latest Insights"
+  latest_posts: "Latest Fatwas"
   selected_post: "Selected Fatwa"
   recent_posts: "Recent Fatwas"
   read_more: "Read"

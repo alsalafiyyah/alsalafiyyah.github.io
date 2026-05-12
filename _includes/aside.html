@@ -15,7 +15,7 @@
         {% endfor %}
     </div>
 </div>
-
+{% if site.categories_select == true %}
  <div class="border-t-2 border-black dark:border-white pt-4">
     <span class="text-[10px] font-black uppercase tracking-widest text-gray-400 block mb-4">{{ site.site_elements.categories }}</span>
     <div class="relative group">
@@ -38,5 +38,5 @@
         </div>
     </div>
 </div>
-
+{% endif %}
     </aside>
