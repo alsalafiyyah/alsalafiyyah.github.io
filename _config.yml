@@ -94,6 +94,7 @@ site_elements:
   subscribe_newsletter: "Subscrib to Our Newsletter"
   dir: "ltr"
   lang: "en"
+  telegram: "Telegram"
 
 include:
   - _pages

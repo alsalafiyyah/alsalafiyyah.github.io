@@ -41,7 +41,7 @@
         <div role="search" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction" class="flex flex-1 justify-end">
             <form itemprop="target" action="{{ '/search' | relative_url }}" method="get" class="relative flex items-center group">
                 <meta itemprop="urlTemplate" content="{{ '/search' | relative_url }}?q={search_term_string}"/>
-                <label for="search-input" class="cursor-pointer">
+                <label for="search-input" class="cursor-pointer" dir="{{ site.site_elements.dir }}">
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 md:h-3 md:w-3 opacity-40 group-focus-within:opacity-100 transition-opacity" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
                     </svg>
