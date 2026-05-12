@@ -92,7 +92,7 @@ site_elements:
   most_read: "Most Read"
   home: "Home"
   subscribe_newsletter: "Subscrib to Our Newsletter"
-  direction: "ltr"
+  dir: "ltr"
 
 include:
   - _pages
