@@ -10,6 +10,8 @@ url: "https://binothaimeen.net/s/gmkXp3oG"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_175_18.mp3"
 active: audios
 featured: true
+translation: true
+lang: en
 summary: "Al-Salaf al-Salih (the Pious Predecessors) are the Sahabah (Companions) and those who followed their path among the Tabi’un (Successors) and the Atba’ al-Tabi’un (Successors of the Successors)."
 muftis:
   shaykh: 
