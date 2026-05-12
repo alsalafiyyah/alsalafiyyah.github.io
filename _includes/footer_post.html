@@ -135,12 +135,12 @@
                 <p class="leading-relaxed">{{ page.source }}</p>
             </div>
             {% endif %}
-            
+
             {% if page.translation == true %}
             <div>
                 <span class="text-gray-400 block mb-1">{{ site.site_elements.translation }}</span>
                 <p class="leading-relaxed">
-                 <a href="/ar/{{ page.url }}">Read on Arabic</a>
+                 <a href="ar{{ page.url }}">Read on Arabic</a>
                 </p>
             </div>
             {% endif %}
