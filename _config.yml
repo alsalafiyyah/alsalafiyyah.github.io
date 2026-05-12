@@ -93,6 +93,7 @@ site_elements:
   home: "Home"
   subscribe_newsletter: "Subscrib to Our Newsletter"
   dir: "ltr"
+  lang: "en"
 
 include:
   - _pages
