@@ -97,6 +97,7 @@ site_elements:
   dir: "ltr"
   lang: "en"
   telegram: "Telegram"
+  translation: "Read in Arabic"
 
 include:
   - _pages
