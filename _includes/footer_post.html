@@ -140,7 +140,7 @@
             <div>
                 <span class="text-gray-400 block mb-1"></span>
                  {% if page.lang == 'ar' %}
-                  <a href="{{ page.url | remove_first: '/ar' }}">{{ site.site_elements.translation }}</a>
+                  <a href="https://alsalafiyyah.github.io{{ page.url | remove_first: '/ar' }}">Read in English</a>
                  {% else %}
                   <a href="{{ page.url | prepend: '/ar' }}">{{ site.site_elements.translation }}</a>
                  {% endif %}
