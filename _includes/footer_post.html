@@ -41,7 +41,7 @@
 
         {% elsif page.muftis.shaykh %}
             <div class="md:col-span-3 space-y-4">
-                <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400">Scholars</h5>
+                <h5 class="text-[10px] font-black uppercase tracking-widest text-gray-400">{{ site.site_elements.scholars }}</h5>
                 <div class="flex flex-wrap gap-x-8 gap-y-2">
                     {% for person in page.muftis.shaykh %}
                     <a href="{{ person.url | relative_url }}" class="text-lg font-black italic serif hover:line-through">{{ person.name }}</a>
