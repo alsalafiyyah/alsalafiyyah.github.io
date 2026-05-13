@@ -26,7 +26,13 @@
             {% if page.hijri %}
             <div class="text-left md:text-right pb-4">
                 <p class="text-sm font-bold uppercase tracking-widest opacity-40">{{ site.site_elements.published }}</p>
-                <p class="text-xl font-black">{{ page.date | date: "%b %d, %Y" }} / {{ page.hijri }}</p>
+                <p class="text-xl font-black">
+                    {% if page.lang == 'ar' %}
+                     {{ post.date | date: "%m/%d/%Y" }}
+                     {% else %}
+                     {{ page.date | date: "%b %d, %Y" }} 
+                     {% endif %}
+                </p>
             </div>
             {% endif %}
         </div>
