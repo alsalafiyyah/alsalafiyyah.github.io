@@ -15,7 +15,7 @@
         <div class="flex flex-col">
             <p>
                 &copy; {{ "now" | date: "%Y" }} 
-                <span itemprop="name">{{ site.title }}</span>
+                <span itemprop="name">{{ site.title }} {{ site.site_elements.all_rights_reserved }}</span>
                 <meta itemprop="url" content="{{ site.url }}">
                 <link itemprop="logo" href="{{ '/assets/logos/logo.svg' | relative_url }}">
             </p>

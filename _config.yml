@@ -98,6 +98,10 @@ site_elements:
   lang: "en"
   telegram: "Telegram"
   translation: "Read in Arabic"
+  contact_us: "Contact us"
+  privacy_policy: "Privacy Policy"
+  tos: "Terms of Service"
+  all_rights_reserved: "All Rights Reserved"
 
 include:
   - _pages
