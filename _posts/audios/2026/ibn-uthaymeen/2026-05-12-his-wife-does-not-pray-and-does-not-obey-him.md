@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-05-12
 hijri: "Dhu al-Qidah 24, 1447 AH"
-title: "His wife does not pray and does not obey him; should he divorce her?"
+title: "His wife does not pray and does not obey him. Should he divorce her?"
 source: "Fatawa Nur 'ala al-Darb / Tape no: 8"
 category: [fatwas, audios, women, marriage]
 link: "https://binothaimeen.net/s/R1yxRXdu"
