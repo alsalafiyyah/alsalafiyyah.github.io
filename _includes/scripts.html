@@ -254,7 +254,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 ${post.summary}
             </p>
             <a href="${post.url}" class="inline-block mt-4 border-b-2 border-black dark:border-white pb-3 font-bold uppercase text-sm tracking-widest hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-colors">
-                Read More
+                {{ site.site_elements.read_more }}
             </a>
         </article>
     `).join("");
