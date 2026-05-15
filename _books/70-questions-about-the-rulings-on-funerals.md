@@ -1,5 +1,6 @@
 ---
 layout: page
+published: false
 title: "70 Questions about the Rulings on Funerals"
 author_book: "Shaykh Ibn Uthaymeen"
 published_by: "Shaykh Muhammad ibn Salih al-‘Uthaymīn Charity Foundation"
