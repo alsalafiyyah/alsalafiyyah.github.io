@@ -142,6 +142,8 @@ exclude:
 collections:
   categories:
     output: true
+  books:
+    output: true
 
 defaults:
   # _posts
