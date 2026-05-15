@@ -245,9 +245,8 @@ document.addEventListener("DOMContentLoaded", function () {
         container.innerHTML = `
             <div class="py-20 text-center">
                 <h2 class="text-4xl md:text-5xl font-black uppercase tracking-tighter opacity-20">
-                    No entries found
+                    {{ site.site_elements.no_entries_found }}
                 </h2>
-                <p class="text-sm font-bold uppercase tracking-widest mt-4">Check back later</p>
             </div>
         `;
         // Hide pagination if no data exists
