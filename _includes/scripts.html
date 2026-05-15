@@ -240,8 +240,21 @@ document.addEventListener("DOMContentLoaded", function () {
     
     const container = document.getElementById("fatwa-container");
     const postsToShow = data.slice(start, end);
+// 1. Render Posts
+    if (data.length === 0) {
+        container.innerHTML = `
+            <div class="py-20 text-center">
+                <h2 class="text-4xl md:text-5xl font-black uppercase tracking-tighter opacity-20">
+                    No entries found
+                </h2>
+                <p class="text-sm font-bold uppercase tracking-widest mt-4">Check back later</p>
+            </div>
+        `;
+        // Hide pagination if no data exists
+        document.getElementById("pagination-nav").classList.add("hidden");
+        return; 
+    }
 
-    // 1. Render Posts
     container.innerHTML = postsToShow.map(post => `
         <article class="group cursor-pointer mb-10 border-b border-gray-100 dark:border-zinc-800 last:border-0">
             <span class="text-[10px] font-bold uppercase tracking-[0.3em] text-gray-400 group-hover:text-black dark:group-hover:text-white transition-colors">
