@@ -115,7 +115,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 </article>
             `).join('');
         } else {
-            container.innerHTML = `<p class="py-20 text-xl font-bold opacity-30 uppercase tracking-widest text-center">No matches found.</p>`;
+            container.innerHTML = `<p class="py-20 text-xl font-bold opacity-30 uppercase tracking-widest text-center">{{ site.site_elements.no_entries_found }}</p>`;
         }
 
         renderPagination(totalPages, currentPage);

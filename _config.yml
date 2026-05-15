@@ -103,6 +103,7 @@ site_elements:
   tos: "Terms of Service"
   all_rights_reserved: "All Rights Reserved"
   no_entries_found: "No entries found"
+  search_result: "Search Result"
 
 include:
   - _pages
