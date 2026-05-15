@@ -105,6 +105,9 @@ site_elements:
   no_entries_found: "No entries found"
   search_results: "Search Result"
   all_entries: "All Entries"
+  page_not_found: "Page not found"
+  page_not_found_text: "The page you requested was not found."
+
 
 include:
   - _pages
