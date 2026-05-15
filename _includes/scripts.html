@@ -84,7 +84,7 @@ document.addEventListener("DOMContentLoaded", function () {
     function renderPosts() {
         const query = getQueryParam('q').trim();
         const queryLower = query.toLowerCase();
-        termDisplay.innerText = query || "All Posts";
+        termDisplay.innerText = query || "{{ site.site_elements.all_entries }}";
 
         const filtered = allTemplates.filter(post => {
             const title = post.dataset.title.toLowerCase();

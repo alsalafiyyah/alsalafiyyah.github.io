@@ -104,6 +104,7 @@ site_elements:
   all_rights_reserved: "All Rights Reserved"
   no_entries_found: "No entries found"
   search_results: "Search Result"
+  all_entries: "All Entries"
 
 include:
   - _pages
