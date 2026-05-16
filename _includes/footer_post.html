@@ -192,9 +192,9 @@
                 </p>
             </div>
 
-            <div dir="{{ site.site_elements.dir }}">
+            <div>
                 <span class="text-gray-400 block mb-4">{{ site.site_elements.share }}</span>
-                <div class="flex flex-wrap md:justify-end gap-x-6 gap-y-2">
+                <div class="flex flex-wrap md:justify-end gap-x-6 gap-y-2" dir="{{ site.site_elements.dir }}">
                     <a href="https://x.com/intent/tweet?text={{ page.title | url_encode }}&url={{ site.url }}{{ page.url }}" target="_blank" class="hover:line-through"><i class="fa-brands fa-x-twitter fa-lg"></i></a>
                     <a href="https://www.threads.net/intent/post?text={{ page.title | url_encode }}%20{{ site.url }}{{ page.url }}" target="_blank" class="hover:line-through"><i class="fa-brands fa-threads fa-lg"></i></a>
                     <a href="https://t.me/share/url?url={{ site.url }}{{ page.url }}&text={{ page.title | url_encode }}" target="_blank" class="hover:line-through"><i class="fa-brands fa-telegram fa-lg"></i></a>
