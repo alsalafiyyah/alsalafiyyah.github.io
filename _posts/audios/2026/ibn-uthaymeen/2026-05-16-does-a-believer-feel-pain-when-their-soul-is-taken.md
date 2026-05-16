@@ -22,6 +22,8 @@ This questioner, M. 'A. from Jordan, says: Virtuous Sheikh, does a believer expe
 ​
 ### Answer: 
 
+All praise is due to Allah, Lord of the Worlds. And I send blessings and peace upon our Prophet Muhammad, and upon his family, his companions, and whoever follows them in righteousness until the Day of Judgment.
+
 Death has its agonies and its severity. Allah, Blessed and Exalted be He, says: **"And the agony of death will come in truth: 'This is what you were trying to avoid.'"** 
 
 And in the Hadith from the Prophet (may the peace and blessings of Allah be upon him and his family): **"Indeed, death has agonies."**
