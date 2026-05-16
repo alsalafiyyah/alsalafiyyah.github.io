@@ -123,6 +123,15 @@
         
         <!-- Left Column -->
         <div class="space-y-6">
+            <div>
+                <span class="text-gray-400 block mb-1">{{ site.site_elements.published }}</span>
+                    {% if page.lang == 'ar' %}
+                    <p class="leading-relaxed">{{ post.date | date: "%m/%d/%Y" }}</p>
+                     {% else %}
+                    <p class="leading-relaxed">{{ page.date | date: "%b %d, %Y" }} </p>
+                    {% endif %}
+            </div>
+
             {% if page.categories.size > 0 %}
             <div>
                 <span class="text-gray-400 block mb-1">{{ site.site_elements.classified_under }}</span>
