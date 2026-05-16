@@ -173,11 +173,11 @@
             <div>
                 <span class="text-gray-400 block mb-1">{{ site.site_elements.translate }}</span>
                 {% if page.lang == 'ar' %}
-                 <a href="https://alsalafiyyah.github.io{{ page.url | remove_first: '/ar' }}" class="inline-block border-2 border-black dark:border-white px-4 py-2 text-[10px] font-black uppercase tracking-widest hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-colors">
+                 <a href="https://alsalafiyyah.github.io{{ page.url | remove_first: '/ar' }}" class="border border-black dark:border-white px-2 py-1 hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-all">
                    {{ site.site_elements.translation }}
                  </a>
                 {% else %}
-                  <a href="https://alsalafiyyah.github.io{{ page.url | prepend: '/ar' }}" class="inline-block border-2 border-black dark:border-white px-4 py-2 text-sm font-bold font-serif hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-colors">
+                  <a href="https://alsalafiyyah.github.io{{ page.url | prepend: '/ar' }}" class="border border-black dark:border-white px-2 py-1 hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-all">
                    {{ site.site_elements.translation }}
                   </a>
                 {% endif %}
