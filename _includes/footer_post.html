@@ -118,26 +118,6 @@
 
     </div>
     
-{% if page.translation == true %}
-<div class="mt-12 p-6 border-4 border-black dark:border-white bg-zinc-50 dark:bg-zinc-900 flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
-    <div>
-        <h4 class="text-xs font-black uppercase tracking-wider mb-1">Language Options</h4>
-        <p class="hidden text-[10px] text-gray-500 dark:text-gray-400 uppercase tracking-tight">This manuscript is available in multiple translations for comparative study.</p>
-    </div>
-    <div class="flex-none">
-        {% if page.lang == 'ar' %}
-            <a href="https://alsalafiyyah.github.io{{ page.url | remove_first: '/ar' }}" class="inline-block border-2 border-black dark:border-white px-4 py-2 text-[10px] font-black uppercase tracking-widest hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-colors">
-                View English Text
-            </a>
-        {% else %}
-            <a href="https://alsalafiyyah.github.io{{ page.url | prepend: '/ar' }}" class="inline-block border-2 border-black dark:border-white px-4 py-2 text-sm font-bold font-serif hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-colors">
-                {{ site.site_elements.translation }}
-            </a>
-        {% endif %}
-    </div>
-</div>
-{% endif %}
-
     <!-- Metadata Grid: Source, Categories, Translation, Sharing -->
     <div class="grid grid-cols-1 md:grid-cols-2 gap-12 text-[10px] font-black uppercase tracking-widest">
         
@@ -214,5 +194,26 @@
             </div>
         </div>
     </div>
+
+{% if page.translation == true %}
+<div class="mt-12 p-6 border-4 border-black dark:border-white bg-zinc-50 dark:bg-zinc-900 flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
+    <div>
+        <h4 class="text-xs font-black uppercase tracking-wider mb-1">Language Options</h4>
+        <p class="hidden text-[10px] text-gray-500 dark:text-gray-400 uppercase tracking-tight">This manuscript is available in multiple translations for comparative study.</p>
+    </div>
+    <div class="flex-none">
+        {% if page.lang == 'ar' %}
+            <a href="https://alsalafiyyah.github.io{{ page.url | remove_first: '/ar' }}" class="inline-block border-2 border-black dark:border-white px-4 py-2 text-[10px] font-black uppercase tracking-widest hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-colors">
+                View English Text
+            </a>
+        {% else %}
+            <a href="https://alsalafiyyah.github.io{{ page.url | prepend: '/ar' }}" class="inline-block border-2 border-black dark:border-white px-4 py-2 text-sm font-bold font-serif hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-colors">
+                {{ site.site_elements.translation }}
+            </a>
+        {% endif %}
+    </div>
+</div>
+{% endif %}
+
 </footer>
 {% endif %}
