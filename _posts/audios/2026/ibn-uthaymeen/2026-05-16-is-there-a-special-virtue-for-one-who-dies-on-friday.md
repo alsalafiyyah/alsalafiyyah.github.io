@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-05-16
 title: "Is there a special virtue for one who dies on Friday?"
-source: "Fatawa Nur 'ala al-Darb / Tape no: 374"
+source: "Fatawa Nur 'ala al-Darb / Tape no: 299"
 category: [fatwas, audios, funerals]
 link: "https://binothaimeen.net/s/LrFojahf"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_299_18.mp3"
