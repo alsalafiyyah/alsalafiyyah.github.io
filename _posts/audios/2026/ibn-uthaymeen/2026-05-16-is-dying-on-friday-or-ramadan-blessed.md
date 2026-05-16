@@ -28,7 +28,7 @@ By Allah, I do not know about this; I do not know anything about this.
 
 How authentic is what is said: that whoever dies in Ramadan or on Friday is not punished with the punishment of the grave?
 
-​### The Shaykh: 
+### The Shaykh:
 
 The punishment of the grave is established for everyone who deserves it, whether they die on Friday, in Ramadan, or at any other time. Because of this, Muslims say in their prayer—in every single one of their prayers during the final Tashahhud: **"I seek refuge with Allah from the punishment of Hell, from the punishment of the grave, from the trials of life and death, and from the trial of Al-Masih ad-Dajjal (the False Messiah)."**
 
