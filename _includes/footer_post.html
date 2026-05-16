@@ -125,7 +125,7 @@
         <div class="space-y-6">
             <div>
                 <span class="text-gray-400 block mb-1">{{ site.site_elements.published }}</span>
-                    <p class="leading-relaxed">{{ post.date | date: "%m/%d/%Y" }}</p>
+                    <p class="leading-relaxed">{{ page.date | date: "%m/%d/%Y" }}</p>
             </div>
 
             {% if page.categories.size > 0 %}
@@ -192,7 +192,7 @@
                 </p>
             </div>
 
-            <div>
+            <div dir="{{ site.site_elements.dir }}">
                 <span class="text-gray-400 block mb-4">{{ site.site_elements.share }}</span>
                 <div class="flex flex-wrap md:justify-end gap-x-6 gap-y-2">
                     <a href="https://x.com/intent/tweet?text={{ page.title | url_encode }}&url={{ site.url }}{{ page.url }}" target="_blank" class="hover:line-through"><i class="fa-brands fa-x-twitter fa-lg"></i></a>
