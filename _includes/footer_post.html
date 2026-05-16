@@ -130,7 +130,7 @@
 
             {% if page.categories.size > 0 %}
             <div>
-                <span class="text-gray-400 block mb-1">{{ site.site_elements.classified_under }}</span>
+                <span class="text-gray-400 block mb-2">{{ site.site_elements.classified_under }}</span>
                 <div class="flex flex-wrap gap-2">
                     {% for category in page.categories %}
                     <a href="{{ '/category' | relative_url }}/{{ category | slugify }}" class="border border-black dark:border-white px-2 py-1 hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-all">
@@ -171,7 +171,7 @@
 
             {% if page.translation == true %}
             <div>
-                <span class="text-gray-400 block mb-1">{{ site.site_elements.translate }}</span>
+                <span class="text-gray-400 block mb-2">{{ site.site_elements.translate }}</span>
                 {% if page.lang == 'ar' %}
                  <a href="https://alsalafiyyah.github.io{{ page.url | remove_first: '/ar' }}" class="border border-black dark:border-white px-2 py-1 hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-all">
                    {{ site.site_elements.translation }}
