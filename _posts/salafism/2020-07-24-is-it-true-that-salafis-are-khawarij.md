@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Is it true that Salafis are Khawarij?"
+title: "Are the Kharijites Considered Salafis?"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 28/254"
-category: [manhaj,wahhabism,sects]
-hijri: Dhul-Hijjah 3, 1441
+category: [manhaj]
+hijri: "Dhul-Hijjah 3, 1441"
+date: 2020-07-24
 lang: en
 summary: "This is a false claim, and the Prophet ﷺ has already invalidated it by his statement regarding the Kharijites."
 url: "https://binbaz.org.sa/fatwas/20152/%C2%A0%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%B9%D9%82%D9%8A%D8%AF%D8%A9-%D8%A7%D9%84%D8%AE%D9%88%D8%A7%D8%B1%D8%AC"
