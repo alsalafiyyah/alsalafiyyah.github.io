@@ -53,11 +53,9 @@ He (may Allah preserve him) replied:
 
 The Salaf are the Companions (Sahabah), the Successors (Tabi'un), and the followers of the Successors (Atba al-Tabi'un). They are the favored generations praised by the Messenger of Allah ﷺ when he said: **"The best of people are my generation, then those who follow them, then those who follow them." The narrator added: "I do not know if he mentioned two or three generations after his."**
 
-Therefore, the favored generations are the Righteous Predecessors (al-Salaf al-Salih), whom Allah said regarding them: **"And the first forerunners [in the faith] among the Emigrants and the Helpers and those who followed them with good conduct—Allah is pleased with them and they are pleased with Him."** [At-Tawbah: 100].
+Therefore, the favored generations are the Righteous Predecessors (al-Salaf al-Salih), whom Allah said regarding them: **"And the first to embrace Islam of the Muhajirun (those who migrated from Makkah to Al-Madinah) and the Ansar (the citizens of Al-Madinah who helped and gave aid to the Muhajirun) and also those who followed them exactly (in Faith). Allah is well-pleased with them as they are well-pleased with Him."** [At-Tawbah: 100].
 
 ---
-
-### Footnotes:
 
 [^1]: Fatawa Nur Ala ad-Darb by Ibn 'Uthaymeen, tape no.370-14.
 [^2]: Ahl al-Sunnah wa al-Jama'ah: "They are, whoever is upon the like of what Muhammad bin Abdullah ﷺ and his companions (may Allah be pleased with them all) were upon." (Fatwas of the Permanent Committee of KSA, Fatwa no. 4143, Question 2).
