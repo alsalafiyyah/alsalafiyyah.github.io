@@ -33,7 +33,7 @@ Accordingly, Salafiyyah in this context is defined by its methodology. Thus, any
 
 ---
 
-Fatwas from the "Permanent Committee for Scholarly Research and Ifta'" of KSA :
+## Fatwas from the "Permanent Committee for Scholarly Research and Ifta'" of KSA :
 
 ### Who are the Salaf?
 
@@ -46,6 +46,20 @@ Salafiyyah is an attribution to the Salaf. The Salaf are the companions of the M
 ### What are the foundations and principles of the Salafi Da'wah?
 
 The Salafi Da'wah is the call to that which the Messenger ﷺ, his companions (may Allah be pleased with them), and those who followed them in righteousness were upon. This is done through wisdom, fair preaching, and arguing in a way that is best, while also striving against one's own self (Jihad al-Nafs) to act upon what one calls others to. [^7]
+
+---
+
+Shaykh Salih al-Fawzan (may Allah preserve him) was asked: The questioner asks Who are the Salaf whose speech is argued with from the Book and the Sunnah?
+
+He (may Allah preserve him) replied: 
+
+The Salaf are the Companions (Sahabah), the Successors (Tabi'un), and the followers of the Successors (Atba al-Tabi'un). They are the favored generations praised by the Messenger of Allah ﷺ when he said: **"The best of people are my generation, then those who follow them, then those who follow them." The narrator added: "I do not know if he mentioned two or three generations after his."**
+
+Therefore, the favored generations are the Righteous Predecessors (al-Salaf al-Salih), whom Allah said regarding them: **"And the first forerunners [in the faith] among the Emigrants and the Helpers and those who followed them with good conduct—Allah is pleased with them and they are pleased with Him."** [At-Tawbah: 100].
+
+---
+
+### Footnotes:
 
 [^1]: Fatawa Nur Ala ad-Darb by Ibn 'Uthaymeen, tape no.370-14.
 [^2]: Ahl al-Sunnah wa al-Jama'ah: "They are, whoever is upon the like of what Muhammad bin Abdullah ﷺ and his companions (may Allah be pleased with them all) were upon." (Fatwas of the Permanent Committee of KSA, Fatwa no. 4143, Question 2).
