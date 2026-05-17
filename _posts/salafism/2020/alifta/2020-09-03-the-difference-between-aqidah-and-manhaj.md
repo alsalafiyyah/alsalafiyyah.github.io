@@ -1,14 +1,12 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: The difference between 'Aqidah and Manhaj
-source: Fatawa Al-Lajnah Al-Da'imah no. 18870, Question 1
+title: "The difference between 'Aqidah and Manhaj"
+source: "Fatawa Al-Lajnah Al-Da'imah no. 18870, Question 1"
 category: [manhaj,terminology,fatwas]
-hijri: Muharram 15, 1442
-date: 2020/09/03
+hijri: "Muharram 15, 1442"
+date: 2020-09-03-the-difference-between-aqidah-and-manhaj.md
 group2: true
-note: true
-locale: en
 lang: en
 summary: Accordingly, there is no difference between Aqidah and Manhaj; they refer to the same thing which all Muslims must observe and hold fast to.
 ---
