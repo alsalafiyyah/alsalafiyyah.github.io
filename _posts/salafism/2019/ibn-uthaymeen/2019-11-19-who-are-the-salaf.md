@@ -63,6 +63,7 @@ Therefore, the favored generations are the Righteous Predecessors (al-Salaf al-S
 - [Is Salafiyyah Just Another Islamic Sect?](/is-salafiyyah-just-another-islamic-sect) - Shaykh Salih al-Fawzan
 - [Are the Kharijites Considered Salafis?](/is-it-true-that-salafis-are-khawarij) - Shaykh Ibn Baz
 - [The Difference Between the Salaf and Ahl al-Sunnah](/the-difference-between-the-salaf-and-ahlus-sunnah) - Shaykh Ibn Baz
+- [Ruling on Affiliating with the Salaf and Saying 'I am Salafi'](/ruling-on-affiliating-with-the-salaf-and-saying-iam-salafi) - Shaykh Ibn 'Uthaymeen
 
 ---
 
