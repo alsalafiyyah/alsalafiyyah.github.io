@@ -61,7 +61,7 @@ Therefore, the favored generations are the Righteous Predecessors (al-Salaf al-S
 
 - [Is Salafiyyah Limited to the Hanbali Madhab?](/is-salafiyyah-limited-to-the-hanbali-madhab) - Shaykh Ibn Baz
 - [Whatever opposes Salafiyyah, then it opposes the manhaj of the Messenger ﷺ](/whatever-opposes-salafiyyah-is-opposes-the-manhaj-of-prophet) - Shaykh Salih al-Fawzan
-- [Is it true that Salafis are Khawarij?](/is-it-true-that-salafis-are-khawarij) - Shaykh Ibn Baz
+- [Are the Kharijites Considered Salafis?](/is-it-true-that-salafis-are-khawarij) - Shaykh Ibn Baz
 
 ---
 
