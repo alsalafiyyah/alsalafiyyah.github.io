@@ -31,9 +31,7 @@ This is a female listener from Riyadh with a group of questions. In her first qu
 
 Accordingly, Salafiyyah in this context is defined by its methodology. Thus, anyone who adheres to the path of the Companions, the Successors, and those who followed them in righteousness is a Salafi, even if they live in our current era—the fourteenth century after the Hijrah (AH).
 
----
-
-## Fatwas from the "Permanent Committee for Scholarly Research and Ifta'" of KSA :
+## Fatwas from the Permanent Committee for Scholarly Research and Ifta':
 
 ### Who are the Salaf?
 
