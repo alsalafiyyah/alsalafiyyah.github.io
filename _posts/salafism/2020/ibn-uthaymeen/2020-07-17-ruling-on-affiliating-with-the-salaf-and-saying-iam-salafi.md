@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2020-07-17
 title: "Ruling on Affiliating with the Salaf and Saying 'I am Salafi'"
-source: "From the fatwas of Shaykh Al-Fawzan regarding the term Salafiyyah and the Salafi"
+source: "Fatawa Nur 'ala al-Darb 53"
 category: [fatwas, audios, manhaj]
 link: "https://alathar.net/home/esound/index.php?op=codevi&coid=116831"
 mp3: "https://www.alathar.net//files/sound/alothaymeen/almasjedalnabawy/split-53a-5.mp3"
