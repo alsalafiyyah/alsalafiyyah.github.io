@@ -3,8 +3,8 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Is Salafiyyah Just Another Islamic Sect?"
 date: 2020-07-17
-hijri: Dhul-Qa'dah 26, 1441
-source: "Taken from the audio cassette entitled, Fatawaa ’Ulama‘ fil-Jamaa’aat, via Minhaajus-Sunnah Recordings in ar-Riyad."
+hijri: "Dhul-Qa'dah 26, 1441"
+source: "Al-Muntaqa min Fataawa Fadilah ash-Shaykh Salih al-Fawzan p.12-13"
 category: [fatwas,manhaj]
 lang: en
 summary: "The Salafi group is the foundational, original body that must be followed, whose methodology must be traversed, and which one must join and strive alongside."
