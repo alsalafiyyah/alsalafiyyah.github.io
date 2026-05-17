@@ -2,7 +2,7 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "The Foundations and Principles of the Salafi Call"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 6265, Question 1"
+source: "Fatawa Al-Lajnah Ad-Da'imah 12/241-242, Fatwa no. 6265, Question 1"
 category: [manhaj, fatwas]
 lang: en
 hijri: "Muharram 15, 1442 AH"
