@@ -38,6 +38,8 @@ Yes. The correct response [here] is 'Bala' (nay/on the contrary). Allah, Exalted
 
 Do not find it strange that the people of evil label the people of goodness with pejorative epithets. Do you not know that those who deny the attributes of Allah—Mighty and Majestic is He—describe those who affirm them as anthropomorphists, as redundant text-literalists, and as aberrant upstarts? Thus, it causes no harm.
 
-Indeed, if it is assumed that a Salafi develops a deviation from the Salaf in his methodology, then in this specific case we say: "This individual is Talif (ruined)." However, we do not attribute that to the madhhab itself. This is because there are some among our brothers who adhere to the madhhab of the Salaf—or rather, who desire the madhhab of the Salaf—yet deviate from the Salaf in their conduct, thereby causing more harm to Islam and the adherents of Islam than they do good. It is possible that this speaker observed an individual among the Salafis whose conduct and methodology were abrasive, and consequently remarked, "The Salaf is al-talaf (destruction)." 
+Indeed, if it is assumed that a Salafi diverges from the path of the Salaf in his methodology, then at this juncture we say: 'This individual is talif (ruined).' However, we do not ascribe his deviation to the methodology itself. 
 
-We do not know the reality [of his intent]. However, if he intended the true Salafi methodology itself, we say: "You are the one who is Talif (ruined), not the Madhhab of the Salaf."
+This is because there are some among our brothers who adhere to the school of the Salaf—or rather, who desire the school of the Salaf—yet deviate from the Salaf in their conduct, thereby causing more harm to Islam and the adherents of Islam than they do good. It is possible that this speaker observed an individual among the Salafis whose conduct and methodology were abrasive, and consequently remarked, "The Salaf is destruction (al-talaf)."
+
+We do not know the reality [of his intent]. However, if he intended the true Salafi methodology itself, we say: "You are the one who is Talif (ruined), not the path of the Salaf."
