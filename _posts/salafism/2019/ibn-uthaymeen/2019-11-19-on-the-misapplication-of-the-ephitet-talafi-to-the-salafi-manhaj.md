@@ -34,7 +34,7 @@ Yes.
 
 ### The Shaykh: 
 
-Yes. The correct response [here] is 'Bala' (nay/on the contrary). Allah, Exalted be He, said: **"Likewise, there came not to those before them any messenger except that they said, 'A sorcerer or a madman.'"** [Sūrat al-Dhāriyāt: 52]. Did this epithet harm the Prophets? The answer is No. The ultimate outcome is in their favor, praise be to Allah. 
+Yes. The correct response [here] is 'Bala' (nay/on the contrary). Allah, Exalted be He, said: **"Likewise, there came not to those before them any messenger except that they said, 'A sorcerer or a madman.'"** [al-Dhariyāt: 52]. Did this epithet harm the Prophets? The answer is No. The ultimate outcome is in their favor, praise be to Allah. 
 
 Do not find it strange that the people of evil label the people of goodness with pejorative epithets. Do you not know that those who deny the attributes of Allah—Mighty and Majestic is He—describe those who affirm them as anthropomorphists, as redundant text-literalists, and as aberrant upstarts? Thus, it causes no harm.
 
