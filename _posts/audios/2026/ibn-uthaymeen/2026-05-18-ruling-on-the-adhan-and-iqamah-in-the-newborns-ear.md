@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-date: 2026-05-18-ruling-on-the-adhan-and-iqamah-in-the-newborns-ear.md
+date: 2026-05-18
 title: "The Ruling on the Adhan and Iqamah in the Newborn's Ear"
 source: "Liqa'a al-Bab al-Maftuh, Tape 60"
 category: [fatwas, audios, women]
