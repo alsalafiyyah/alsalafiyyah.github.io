@@ -2,7 +2,7 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-05-18
-title: "What to Recite During Labor"
+title: "What to Recite During Childbirth"
 source: "Liqa'a al-Bab al-Maftuh, Tape 143"
 category: [fatwas, audios, women]
 link: "https://binothaimeen.net/s/AzlquDnY"
