@@ -65,6 +65,7 @@ Therefore, the favored generations are the Righteous Predecessors (al-Salaf al-S
 - [The Difference Between the Salaf and Ahl al-Sunnah](/audios/the-difference-between-the-salaf-and-ahlus-sunnah) - Shaykh Ibn Baz
 - [Ruling on Affiliating with the Salaf and Saying 'I am Salafi'](/audios/ruling-on-affiliating-with-the-salaf-and-saying-iam-salafi) - Shaykh Ibn 'Uthaymeen
 - [The Foundations and Principles of the Salafi Call](/the-origins-and-principles-of-the-salafi-dawah) - Permanent Committee
+- [What is meant by the Salafi Methodology?](/what-is-meant-by-the-salafi-methodology) - Shaykh Salih al-Fawzan
 
 ---
 
