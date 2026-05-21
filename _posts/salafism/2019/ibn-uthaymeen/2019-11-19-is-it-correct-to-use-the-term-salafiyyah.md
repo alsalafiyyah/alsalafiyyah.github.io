@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-date: 2019-11-19-is-it-correct-to-use-the-term-salafiyyah.md
+date: 2019-11-19
 hijri: "Rabi' Al-Awwal 22, 1442 AH"
 title: "Is it correct to use the term 'Salafiyyah' in this day and age?"
 source: "Fatawa Nur ala Ad-Darb"
@@ -12,7 +12,7 @@ featured: true
 translation: false
 lang: en
 permalink: "/audios/is-it-correct-to-use-the-term-salafiyyah"
-summary: ""
+summary: "It is Salafiyyah in 'aqidah (creed), even if it is not Salafiyyah in time, because the Salaf came before us chronologically."
 muftis:
   shaykh: 
     - name: Shaykh Ibn Uthaymeen 
@@ -28,10 +28,8 @@ The important point is that we say that among the people of the Qiblah (Muslims)
 ​The way of the Salaf in this regard is safer, more knowledgeable, and wiser.
 
 - Safer: Because they did not delve into anything beyond the texts.
-
 - ​More knowledgeable: Because they derived their creed from the Book of Allah and the Sunnah of His Messenger ﷺ.
-
-- ​Wiser: Because they followed the path that must be followed, which is to accept the texts according to their apparent meaning that is befitting to Allah, the Mighty and Sublime.
+- Wiser: Because they followed the path that must be followed, which is to accept the texts according to their apparent meaning that is befitting to Allah, the Mighty and Sublime.
 
 ​Who are these Salaf? They are the Companions (of the Prophet), those who followed them in righteousness, and the leaders of the Muslims—such as Imam Ahmad ibn Hanbal, Malik, al-Shafi'i, Abu Hanifah, Sufyan al-Thawri, al-Awza'i, and others among the leaders of the Muslims.
 
