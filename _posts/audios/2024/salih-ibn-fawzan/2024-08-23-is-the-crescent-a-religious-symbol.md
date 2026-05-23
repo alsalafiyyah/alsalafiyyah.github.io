@@ -28,4 +28,4 @@ This is a custom they adopted and continued to practice, and **it has no basis i
 
 #### Also read:
 
-[The Ruling on Placing Crescents on Minarets](/the-ruling-on-placing-crescents-on-minarets) — Shaykh Ibn Uthaymeen 
+[The Ruling on Placing Crescents on Minarets](/audios/the-ruling-on-placing-crescents-on-minarets) — Shaykh Ibn Uthaymeen 
