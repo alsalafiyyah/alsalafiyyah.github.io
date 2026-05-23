@@ -8,13 +8,13 @@ lang: en
 translated: false
 active: audios
 category: [audios,fatwas]
-note: false
+source: "Fatawa Nur ala ad-Darb, tape no.258"
 link: "https://binothaimeen.net/s/h1KCxuef"
 summary: "It is not proper to place crescents atop minarets due to this resemblance, and because of the waste of wealth and time it entails."
 muftis:
   shaykh: 
-    - name: Shaykh Ibn Uthaymeen
-      url: /biography/uthaymeen
+    - name: "Shaykh Ibn Uthaymeen"
+      url: "/biography/uthaymeen"
 ---
 
 ### Question: 
