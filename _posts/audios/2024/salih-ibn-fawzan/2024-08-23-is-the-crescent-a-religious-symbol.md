@@ -2,7 +2,7 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "The crescent moon is not a symbol of Islam"
+title: "Is the Crescent a Religious Symbol?"
 hijri: Safar 19, 1446 AH
 date: 2024-08-23
 lang: en
