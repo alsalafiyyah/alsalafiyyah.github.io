@@ -26,3 +26,6 @@ May Allah reward you with goodness and be generous to you, why do Muslims use th
 
 This is a custom they adopted and continued to practice, and **it has no basis in religion**; rather, it is just one of many customs.
 
+#### Also read:
+
+[The Ruling on Placing Crescents on Minarets](/the-ruling-on-placing-crescents-on-minarets) — Shaykh Ibn Uthaymeen 
