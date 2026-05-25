@@ -2,20 +2,13 @@
 layout: post
 title: "Paying money instead of executing the Hadd"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 14445"
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 14445"
 hijri: "Muharram 10, 1442 AH"
-category: ["rulership", hudud]
-summary: "It is not permissible to substitute the Hudud (ordained punishments for violating Allah’s Law) that Allah decreed with monetary fines; because the Hadud are Tawqifi (bound by a religious text and not amenable to personal opinion) and it is not permissible to change them."
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
+category: [rulership]
+group6: true
+lang: en
+translation: false
+summary: "It is not permissible to substitute the Hudud that Allah decreed with monetary fines; because the Hadud are Tawqifi and it is not permissible to change them."
 ---
 
 ### Question: 

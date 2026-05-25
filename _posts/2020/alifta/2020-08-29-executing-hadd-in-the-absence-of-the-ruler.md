@@ -2,23 +2,15 @@
 layout: post
 title: "Executing Hadd in the absence of the ruler"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 16815-3"
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 16815, Question 3"
+date: 2020-08-29
 hijri: "Muharram 10, 1442 AH"
-category: ["rulership", hudud]
+category: [rulership]
+tag: [alifta]
+lang: en
+translation: false
+group14: true
 summary: "Only a Muslim ruler or his deputy is entitled to execute the Hudud, so as to keep order, prevent transgression, and oppression, and provide security."
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  members: 
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
 ---
 
 ### Question: 
@@ -35,6 +27,5 @@ The Prophet (peace be upon him) said, "**Islam wipes out all that have gone befo
 
 He (peace be upon him) also said, "**Whoever repents of sins is like a sinless person.**" [^2]
 
----
 [^1]: Muslim, Sahih, Book on faith, no. 121; Book on remembrance of Allah, supplication, repentance and seeking forgiveness, 4, p. 199.
 [^2]: Ibn Majah, vol. 2, p. 1420, no. 4250; Al-Tabarany, vol. 10, p. 185, no. 10281 and vol. 22, p. 306, no. 775; Al-Quda'i, Musnad Al-Shihab, vol. 1, p. 97, no. 108; Abu Nu'aym, Al-Hilyah, vol. 4, p. 210 and vol. 10, p. 398; Al-Sahmy, Tarikh Jurjan, p. 399, no. 674; and Al-Bayhaqy, vol. 10, p. 154.

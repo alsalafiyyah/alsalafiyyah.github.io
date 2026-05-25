@@ -2,22 +2,15 @@
 layout: post
 title: "A family executing the Hadd of Zina if living in a country that does not apply Shari'ah"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah of KSA no. 7488"
+source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 7488"
 hijri: "Muharram 10, 1442 AH"
-category: ["rulership", hudud, zina]
+date: 2020-08-29
+category: [rulership]
+tag: [alifta]
+translation: false
+lang: en
+group1: true
 summary: "You are not entitled to execute the punishment; because execution of Hudud (ordained punishments for violating Allah’s Law) against the fornicator or any criminal, is the responsibility of the ruler or his deputy officers."
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
 ---
 
 ### Question: 

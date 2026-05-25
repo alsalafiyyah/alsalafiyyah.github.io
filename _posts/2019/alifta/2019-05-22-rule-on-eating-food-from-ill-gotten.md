@@ -7,7 +7,7 @@ date: 2019-05-22
 source: "Fatawa Al-Lajnah Ad-Da'mah, fatwa no.4888 question 1 and fatwa no.4888 question 2"
 category: [fatwas]
 summary: "It is obligatory for a Muslim to try his best to adopt what is lawful in his food, drink, and clothing."
-author: "Permanent Committee of KSA"
+author: "Permanent Committee"
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz
@@ -37,7 +37,6 @@ The Prophet (peace be upon him) said: "**Leave what causes you doubt and turn to
 
 There is no harm for you to remain with your father and brothers and eat from their earnings, as long as you do not know that their earning is prohibited. You will reap much goodness by remaining together with them. If your brothers committed something that Allah (Exalted be He) prohibited, it would be obligatory for you to advise them and instruct them to do good, hoping that Allah (Exalted be He) will guide them through you.
 
----
 [^1]: Narrated by Al-Tabarany, Al-Awsat, vol. 7, p. 255, no. 6491, verified by Al-Tahhan.
 [^2]: Muslim, Sahih, Book on Zakah, no. 1015; Al-Tirmidhy, Sunan, Book on Tafsir, no. 2989; Ahmad ibn Hanbal, Musnad, vol. 2, p. 328; and Al-Darimy, Sunan, Book on heart-softening narrations, no. 2717.
 [^3]: Al-Tirmidhy, Sunan, Book on Resurrection, heart-softening narrations, and piety, no. 2518; Al-Nasa*y, Sunan, Book on drinks, no. 5711; Ahmad, Musnad, vol. 1, p. 200; Al-Darimy, Sunan; Book on transactions, no. 2532.
