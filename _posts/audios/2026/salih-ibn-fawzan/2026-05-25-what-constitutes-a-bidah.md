@@ -19,7 +19,7 @@ muftis:
 
 The questioner asks: Are there levels and degrees to bid'ah (religious innovations), and when should the perpetrator of an innovation be boycotted?
 
-​### Answer: 
+### Answer: 
 
 Bid'ah is whatever is introduced into the religion that is not a part of it; this is the defining criterion of innovation. 
 
