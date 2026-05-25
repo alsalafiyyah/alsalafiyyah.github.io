@@ -151,6 +151,8 @@ exclude:
 collections:
   categories:
     output: true
+  tag:
+    output: true
   books:
     output: true
 
