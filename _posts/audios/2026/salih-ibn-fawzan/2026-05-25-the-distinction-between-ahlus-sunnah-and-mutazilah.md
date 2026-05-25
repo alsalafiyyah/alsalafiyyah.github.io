@@ -5,6 +5,8 @@ date: 2026-05-25
 title: "The Distinction Between Ahl al-Sunnah and the Mu'tazilah in Source and Creed"
 category: [fatwas,audios,sects]
 mp3: "https://audio.alfawzan.live/2819.mp3"
+url: "https://alfawzan.live/content/9543/"
+source: "Fatwa No. 9543"
 active: audios
 summary: "The Mu'tazilah do not derive their creed from the Book [the Quran] and the Sunnah; rather, they derive it from Ilm al-Kalam."
 muftis:
