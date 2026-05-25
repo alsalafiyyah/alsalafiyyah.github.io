@@ -15,7 +15,7 @@ muftis:
       url: "/biography/fawzan/"
 ---
 
-​### Question: 
+​### Question:
 
 May Allah be generous to you, O Eminent Shaykh. This questioner says: In my village, there is only one mosque, which belongs to the Tijaniyyah [Sufi order], and they practice their bid'ahs (religious innovations) in this mosque. Is there any prohibition if I pray in my home with my family?
 
