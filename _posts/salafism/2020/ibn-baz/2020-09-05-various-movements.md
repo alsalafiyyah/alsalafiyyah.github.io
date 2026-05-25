@@ -5,7 +5,6 @@ title: Ruling on various Islamic movements
 source: Majmu' Fatawa 4/166
 hijri: Muharram 17, 1442
 date: 2020-09-05
-locale: en
 lang: en
 summary: In Sudan, an Islamic Organization among the various movements of Sufism and Salafism has been established.
 category: [fatwas,manhaj,sects]

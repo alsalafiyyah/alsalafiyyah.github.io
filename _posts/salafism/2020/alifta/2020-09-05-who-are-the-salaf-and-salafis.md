@@ -5,9 +5,7 @@ title: What is the explanation of the word Salaf and who are Al-Salafiyun?
 source: Fatawa al-Lajnah ad-Daimah no. 6149, Question 2
 hijri: Muharram 17, 1442
 date: 2020-09-05
-locale: en
 lang: en
-note: true
 group1: true
 summary: Salaf are Ahl-ul-Sunnah wal-Jama'ah who are the followers of the Prophet Muhammad such as the Sahabah and those who follow in their footsteps until the Day of Resurrection.
 category: [fatwas,manhaj]
