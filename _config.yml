@@ -208,6 +208,13 @@ defaults:
     values:
       layout: "category"
       permalink: /category/:title/ 
+  # _tag
+  - scope:
+      path: "_tag"
+      type: "tag"
+    values:
+      layout: "tag"
+      permalink: /tag/:title/ 
   # _pages
   - scope:
       path: "_pages"
