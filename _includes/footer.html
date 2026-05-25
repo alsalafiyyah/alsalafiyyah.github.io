@@ -25,19 +25,14 @@
             </button>
         </div>
 
-        <!-- Short Description Insertion -->
-        <p class="normal-case tracking-normal font-normal text-xs text-zinc-600 dark:text-zinc-400 leading-relaxed mt-2">
-            {{ site.short_desc }}
-        </p>
-
-        <div class="flex flex-col mt-4">
+        <div class="flex flex-col mt-2">
             <p>
                 &copy; {{ "now" | date: "%Y" }} 
                 <span itemprop="name">{{ site.title }}</span>
                 <meta itemprop="url" content="{{ site.url }}">
                 <link itemprop="logo" href="{{ '/assets/logos/logo.svg' | relative_url }}">
             </p>
-            <span class="opacity-30 text-[8px] tracking-[0.4em] mt-1">{{ site.site_elements.footer_slogan }}</span>
+            <span class="text-[8px] tracking-[0.4em] mt-1">{{ site.site_elements.footer_slogan }}</span>
         </div>
     </div>
 
