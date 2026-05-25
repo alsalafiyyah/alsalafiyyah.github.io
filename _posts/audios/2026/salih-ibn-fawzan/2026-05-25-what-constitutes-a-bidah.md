@@ -15,7 +15,7 @@ muftis:
       url: "/biography/fawzan/"
 ---
 
-###Question: 
+### Question: 
 
 The questioner asks: Are there levels and degrees to bid'ah (religious innovations), and when should the perpetrator of an innovation be boycotted?
 
