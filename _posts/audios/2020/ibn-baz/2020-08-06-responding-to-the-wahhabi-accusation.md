@@ -4,9 +4,9 @@ publisher: "alsalafiyyah@icloud.com"
 title: "Responding to the Wahhabi Accusation"
 date: 2020-08-06
 source: "Fatawa Nur 'Ala al-Darb vol 3, tape no. 124, question 16"
-mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_887/nour_88708.mp3
+mp3: "https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_887/nour_88708.mp3"
 link: "https://binbaz.org.sa/fatwas/18383/%D9%85%D8%A7-%D9%8A%D9%81%D8%B9%D9%84%D9%87-%D9%85%D9%86-%D9%8A%D8%AA%D9%87%D9%85-%D8%A8%D8%A7%D9%84%D9%88%D9%87%D8%A7%D8%A8%D9%8A%D8%A9-%D9%84%D8%AF%D8%B9%D9%88%D8%AA%D9%87-%D8%A7%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D9%88%D8%AD%D9%8A%D8%AF"
-category: [fatwas,audios,wahhabism,manhaj]
+category: [fatwas,audios,manhaj]
 lang: en
 summary: "Such is the case with the followers of truth; they are not harmed if it is said to them Wahhabi"
 muftis:
