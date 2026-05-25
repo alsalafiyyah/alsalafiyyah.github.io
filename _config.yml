@@ -68,6 +68,14 @@ footer_navigation:
   - title: "عربي"
     url: /ar/
 
+external_links:
+  - name: "Shaykh Ibn Baz"
+    url: "https://binbaz.org.sa/"
+  - name: "Shaykh Salih al-Fawzan"
+    url: "https://alfawzan.live/"
+  - name: "Shaykh Ibn al-'Uthaymeen"
+    url: "https://binothaimeen.net/"
+
 # Site Elements
 site_elements:
   published: "Published"
