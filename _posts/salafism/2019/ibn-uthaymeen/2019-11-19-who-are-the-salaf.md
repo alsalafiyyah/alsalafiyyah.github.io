@@ -13,7 +13,7 @@ featured: true
 translation: true
 lang: en
 permalink: "/audios/who-are-the-salaf"
-summary: "Al-Salaf al-Salih (the Pious Predecessors) are the Sahabah (Companions) and those who followed their path among the Tabi’un (Successors) and the Atba’ al-Tabi’un (Successors of the Successors)."
+summary: "The Salaf al-Salih (Pious Predecessors) are the Sahabah (Companions of the Prophet ﷺ) and those who followed their path among the Tabi’un (Successors) and the Atba’ al-Tabi’un (Successors of the Successors)."
 muftis:
   shaykh: 
     - name: Shaykh Ibn Uthaymeen 
