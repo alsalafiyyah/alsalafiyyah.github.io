@@ -6,6 +6,7 @@ date: 2024-07-28
 hijri: Muharram 22, 1446
 source: "Muhadharat fil-‘Aqidah wad-Da’wah vol.1 pages 196-197"
 category: [muqolat,bidah]
+tags: [salih-ibn-fawzan]
 locale: en
 lang: en
 active: muqolat

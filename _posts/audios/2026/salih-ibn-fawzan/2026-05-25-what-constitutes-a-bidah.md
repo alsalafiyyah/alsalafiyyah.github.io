@@ -4,7 +4,7 @@ publisher: alsalafiyyah@icloud.com
 date: 2026-05-25
 title: "What Constitutes a Bidʿah?"
 category: [fatwas,audios,bidah]
-tags: [salih-fawzan]
+tags: [salih-ibn-fawzan]
 mp3: "https://audio.alfawzan.live/17_0.mp3"
 url: "https://alfawzan.live/content/14518/"
 source: "Fatwa No. 14518"

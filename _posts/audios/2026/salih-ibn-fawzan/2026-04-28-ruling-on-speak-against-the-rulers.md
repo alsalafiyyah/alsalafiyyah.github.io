@@ -5,7 +5,7 @@ date: 2026-04-28
 hijri: "Dhu al-Qidah 11, 1447 AH"
 title: "The Ruling on Publicly Disclosing the Faults of the Ruler"
 category: [fatwas,audios,rulership]
-tags: [salih-fawzan]
+tags: [salih-ibn-fawzan]
 mp3: "/assets/audios/ruling-on-speak-against-the-rulers.mp3"
 active: audios
 summary: "It is not permissible to speak against the rulers. Because this causes evil and fragmentation within society and divides the unity of the Muslims."

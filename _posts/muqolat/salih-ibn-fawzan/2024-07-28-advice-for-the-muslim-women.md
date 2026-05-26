@@ -7,6 +7,7 @@ title: "Advice for the Muslim Woman"
 date: 2024-07-28
 source: "Friday Sermon, Sermon No. 13060"
 category: [muqolat,women]
+tags: [salih-ibn-fawzan]
 lang: en
 active: muqolat
 summary: ""

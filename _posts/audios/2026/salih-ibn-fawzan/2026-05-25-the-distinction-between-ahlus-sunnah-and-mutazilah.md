@@ -4,7 +4,7 @@ publisher: alsalafiyyah@icloud.com
 date: 2026-05-25
 title: "The Distinction Between Ahl al-Sunnah and the Mu'tazilah in Source and Creed"
 category: [fatwas,audios,sects]
-tags: [salih-fawzan]
+tags: [salih-ibn-fawzan]
 mp3: "https://audio.alfawzan.live/2819.mp3"
 url: "https://alfawzan.live/content/9543/"
 source: "Fatwa No. 9543"

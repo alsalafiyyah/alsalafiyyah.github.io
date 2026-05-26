@@ -6,6 +6,7 @@ date: 2024-07-27
 hijri: "Muharram 21, 1446"
 source: "al-Fatawa al-Shar'iyyah fi al-Qadhaya Al-'Asriyyah"
 category: [fatwas,rulership,sects]
+tags: [salih-ibn-fawzan]
 summary: "Declaring Muslims to be disbelievers, and—even worse than that—killing Muslims and attacking them. This is ideology of the Khawarij."
 muftis:
   shaykh: 

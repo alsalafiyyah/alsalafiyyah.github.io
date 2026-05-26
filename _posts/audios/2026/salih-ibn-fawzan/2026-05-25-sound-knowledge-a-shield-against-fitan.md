@@ -4,7 +4,7 @@ publisher: alsalafiyyah@icloud.com
 date: 2026-05-25
 title: "Sound Knowledge: A Shield Against Tribulation"
 category: [fatwas,audios]
-tags: [salih-fawzan]
+tags: [salih-ibn-fawzan]
 mp3: "https://audio.alfawzan.live/2021-09/m015.mp3"
 url: "https://alfawzan.live/content/18432/"
 source: "Fatwa No. 18432"
