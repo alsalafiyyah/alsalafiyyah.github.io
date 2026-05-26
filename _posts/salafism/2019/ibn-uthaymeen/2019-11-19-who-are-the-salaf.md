@@ -6,7 +6,7 @@ hijri: "Rabi' Al-Awwal 22, 1442 AH"
 title: "Who Are The Salaf"
 source: "Fatawa Nur ala Ad-Darb, Tape no. 175"
 category: [fatwas,audios,manhaj]
-tags: [salih-fawzan]
+tags: [ibn-uthaymeen]
 url: "https://binothaimeen.net/s/gmkXp3oG"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_175_18.mp3"
 active: audios
