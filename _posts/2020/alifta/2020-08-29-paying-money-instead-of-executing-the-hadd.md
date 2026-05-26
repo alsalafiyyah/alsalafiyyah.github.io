@@ -8,6 +8,7 @@ category: [rulership]
 group6: true
 lang: en
 translation: false
+tags: [alifta]
 summary: "It is not permissible to substitute the Hudud that Allah decreed with monetary fines; because the Hadud are Tawqifi and it is not permissible to change them."
 ---
 

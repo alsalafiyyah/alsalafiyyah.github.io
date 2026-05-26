@@ -6,7 +6,7 @@ source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 7488"
 hijri: "Muharram 10, 1442 AH"
 date: 2020-08-29
 category: [rulership]
-tag: [alifta]
+tags: [alifta]
 translation: false
 lang: en
 group1: true

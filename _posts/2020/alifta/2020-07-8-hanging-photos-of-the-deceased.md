@@ -6,7 +6,7 @@ hijri: "Dhul-Qa'dah 7, 1441 AH"
 title: "Ruling on hanging photos of the deceased at home"
 source: "Fatawa al-Lajnah al-Da'imah, Fatwa no.5088, Question 5"
 category: [funerals]
-tag: [alifta]
+tags: [alifta]
 translation: false
 group9: true
 lang: en

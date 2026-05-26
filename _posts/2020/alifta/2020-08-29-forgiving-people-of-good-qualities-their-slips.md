@@ -7,7 +7,7 @@ hijri: "Muharram 10, 1442 AH"
 date: 2020-08-29
 lang: en
 translation: false
-tag: [alifta]
+tags: [alifta]
 category: ["rulership", hudud, hadiths]
 group2: true
 summary: "The Hadith means that it is desirable to forgive people of good qualities if they commit a small or trivial mistake but not a sin that requires the execution of a Hadd decreed by Allah if the ruler knows about the sin in which case it must be executed."
