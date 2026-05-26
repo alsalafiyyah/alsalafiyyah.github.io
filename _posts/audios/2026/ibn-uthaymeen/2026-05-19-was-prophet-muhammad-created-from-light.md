@@ -5,6 +5,7 @@ date: 2026-05-19-was-prophet-muhammad-created-from-light.md
 title: "Was the Prophet Muhammad ﷺ Created from Light?"
 source: "Fatawa Nur 'ala al-Darb 331"
 category: [fatwas, audios, prophets]
+tags: [ibn-uthaymeen]
 link: "https://binothaimeen.net/s/sLtvNkRY"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_331_23.mp3"
 summary: "This statement is batil (false). Muhammad, peace and blessings of Allah be upon him, is from the children of Adam"

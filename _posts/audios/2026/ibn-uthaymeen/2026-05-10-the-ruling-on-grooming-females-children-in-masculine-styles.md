@@ -6,6 +6,7 @@ hijri: "Dhu al-Qidah 23, 1447 AH"
 title: "The Ruling on Grooming Female Children in Masculine Styles"
 source: "al-Liqa'a al-Shahri 20 no.10"
 category: [fatwas,audios,women]
+tags: [ibn-uthaymeen]
 link: "https://binothaimeen.net/s/uFs3VPho"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/mm_031_10.mp3"
 summary: "She is sinful for this act, and this is the crux of the matter. It is a sin to cut her daughter’s hair so that it resembles a male’s hair, because the Prophet cursed women who imitate men."

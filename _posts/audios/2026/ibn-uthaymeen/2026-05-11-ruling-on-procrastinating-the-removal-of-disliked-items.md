@@ -6,6 +6,7 @@ hijri: "Dhu al-Qidah 24, 1447 AH"
 title: "The Ruling on Procrastinating the Removal of Disliked Items"
 source: "Liqa’at al-Bab al-Maftuh, No. 131"
 category: [fatwas, audios]
+tags: [ibn-uthaymeen]
 link: "https://binothaimeen.net/s/6qjLGmuf"
 mp3: "https://www.alathar.net//files/sound/alothaymeen/leqamaftooh/split-131b-9.mp3"
 summary: "This is procrastination; undoubtedly, he bears a sin for it."

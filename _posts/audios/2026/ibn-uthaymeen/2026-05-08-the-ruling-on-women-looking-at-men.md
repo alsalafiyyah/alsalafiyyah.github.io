@@ -6,6 +6,7 @@ hijri: "Dhu al-Qidah 21, 1447 AH"
 title: "The Ruling on Women Looking at Men"
 source: "Fatawa Nur ala ad-Darb tape no.277"
 category: [fatwas,audios,women]
+tags: [ibn-uthaymeen]
 link: "https://binothaimeen.net/s/SoIolUpU"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_277_17.mp3"
 summary: "If she looks at a man with pleasure or desire, then that is forbidden for her. In that case, she must divert her gaze."

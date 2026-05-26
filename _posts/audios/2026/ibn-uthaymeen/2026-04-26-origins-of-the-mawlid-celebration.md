@@ -6,6 +6,7 @@ hijri: "Dhu al-Qidah 9, 1447 AH"
 title: "The Origins of the Mawlid Celebration"
 source: "Liqa' al-Bab al-Maftuh 210-08"
 category: [fatwas,audios,bidah]
+tags: [ibn-uthaymeen]
 url: "https://binothaimeen.net/s/wCoC88ni"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_210_08.mp3"
 active: audios

@@ -6,6 +6,7 @@ hijri: "Dhu al-Qidah 23, 1447 AH"
 title: "Must a Man Disclose Infertility to a Prospective Spouse?"
 source: "Liqa’a al-Bab al-Maftuh 7 no.27"
 category: [fatwas,audios,women]
+tags: [ibn-uthaymeen]
 link: "https://binothaimeen.net/s/JoS9t1sg"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_007_27.mp3"
 summary: "Anyone who has a physical defect or condition must disclose it to those from whom he is seeking marriage, especially such a significant matter as infertility."

@@ -6,6 +6,7 @@ hijri: "Dhu al-Qidah 8, 1447 AH"
 title: "When Did Bid'ah Become Known?"
 source: "Fatawa Nur Ala ad-Darb, tape no.287-02"
 category: [fatwas,audios,bidah,sects]
+tags: [ibn-uthaymeen]
 url: "https://binothaimeen.net/s/guEyzXjr"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_287_02.mp3"
 active: audios

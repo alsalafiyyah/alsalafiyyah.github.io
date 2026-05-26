@@ -6,6 +6,7 @@ hijri: "Dhu al-Qidah 5, 1447 AH"
 title: "The Ruling on Visiting and Socializing with the Rafidah (Shiites)"
 source: "Liqa' al-Bab al-Maftuh 1"
 category: [fatwas,sects,audios]
+tags: [ibn-uthaymeen]
 url: "https://binothaimeen.net/s/Fw3XZFmb"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_001_24.mp3"
 summary: "He must advise them, clarify the truth to them, and demonstrate that the path they are on is not the truth."

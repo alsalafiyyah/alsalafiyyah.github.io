@@ -6,6 +6,7 @@ hijri: "Dhu al-Qidah 24, 1447 AH"
 title: "The Legal Status of the Mother-in-Law’s Rights over the Wife"
 source: "Liqa’at al-Bab al-Maftuh, No. 68"
 category: [fatwas,audios,women]
+tags: [ibn-uthaymeen]
 link: "https://binothaimeen.net/s/qnEKCDqm"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_068_15.mp3"
 summary: "As for it being an obligation, then no; because the consorting with kindness is specifically between the husband and the wife."

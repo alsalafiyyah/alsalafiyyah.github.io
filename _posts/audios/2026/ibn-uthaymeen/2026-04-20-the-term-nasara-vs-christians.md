@@ -6,6 +6,7 @@ hijri: "Dhu al-Qidah 3, 1447 AH"
 title: "The Naming of the People of the Book: Nasara (Nazarenes) vs. Christians (Masihiyyun)"
 source: "Liqa' al-Bab al-Maftuh tape 30"
 category: [fatwas,terminology,sects,audios]
+tags: [ibn-uthaymeen]
 url: "https://binothaimeen.net/s/RhTs9Io3"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/mm_030_09.mp3"
 active: audios

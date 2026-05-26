@@ -5,6 +5,7 @@ date: 2026-05-18
 title: "What to Recite During Childbirth"
 source: "Liqa'a al-Bab al-Maftuh, Tape 143"
 category: [fatwas, audios, women]
+tags: [ibn-uthaymeen]
 link: "https://binothaimeen.net/s/AzlquDnY"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_143_02.mp3"
 summary: "In the case of a difficult labor, a person may write verses in a vessel that indicate the relieving or bringing forth of things"

@@ -6,6 +6,7 @@ hijri: "Dhu al-Qidah 8, 1447 AH"
 title: "On the Custom of Quranic Recitation and Slaughtering Animals for the Deceased"
 source: "Fatawa Nur Ala ad-Darb, tape no.370-14"
 category: [fatwas,audios,bidah]
+tags: [ibn-uthaymeen]
 url: "https://binothaimeen.net/s/2glEvvFh"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_370_14.mp3"
 active: audios

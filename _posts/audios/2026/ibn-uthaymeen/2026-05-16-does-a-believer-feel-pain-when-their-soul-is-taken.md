@@ -5,6 +5,7 @@ date: 2026-05-16
 title: "Does a believer feel pain when their soul is taken?"
 source: "Fatawa Nur 'ala al-Darb / Tape no: 339"
 category: [fatwas, audios, funerals]
+tags: [ibn-uthaymeen]
 link: "https://binothaimeen.net/s/cTOCfMws"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_339_17.mp3"
 summary: "The extraction—meaning the extraction of the soul from the body—is severe. However, it is eased for one person and intensified for another."

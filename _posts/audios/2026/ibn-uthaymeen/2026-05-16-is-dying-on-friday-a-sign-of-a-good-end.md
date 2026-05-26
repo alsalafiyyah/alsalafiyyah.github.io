@@ -5,6 +5,7 @@ date: 2026-05-16
 title: "Is dying on Friday a sign of a good end?"
 source: "Fatawa Nur 'ala al-Darb / Tape no: 374"
 category: [fatwas, audios, funerals]
+tags: [ibn-uthaymeen]
 link: "https://binothaimeen.net/s/MEewUFMK"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_374_43.mp3"
 summary: "No, death happens equally on any day. If any day had a special privilege, Monday would have been more deserving of it."

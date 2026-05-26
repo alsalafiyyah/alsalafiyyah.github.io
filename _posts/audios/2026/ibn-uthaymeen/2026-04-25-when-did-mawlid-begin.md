@@ -6,6 +6,7 @@ hijri: "Dhu al-Qidah 8, 1447 AH"
 title: "When Did Mawlid Begin?"
 source: "Fatawa Nur Ala ad-Darb, tape no.375"
 category: [fatwas,audios,bidah]
+tags: [ibn-uthaymeen]
 url: "https://binothaimeen.net/s/xTsqFCZv"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_375_20.mp3"
 active: audios

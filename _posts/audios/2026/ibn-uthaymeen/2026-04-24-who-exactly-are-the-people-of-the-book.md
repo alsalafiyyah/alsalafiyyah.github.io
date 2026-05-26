@@ -6,6 +6,7 @@ hijri: "Dhu al-Qidah 7, 1447 AH"
 title: "Who exactly are the People of the Book?"
 source: "Liqa' al-Bab al-Maftuh tape no. 134"
 category: [fatwas,sects,audios]
+tags: [ibn-uthaymeen]
 url: "https://binothaimeen.net/s/RgOLg223"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_134_06.mp3"
 active: audios

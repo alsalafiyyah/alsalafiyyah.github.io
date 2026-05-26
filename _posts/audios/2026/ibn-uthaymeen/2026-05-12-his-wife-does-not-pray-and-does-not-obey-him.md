@@ -6,6 +6,7 @@ hijri: "Dhu al-Qidah 24, 1447 AH"
 title: "His wife does not pray and does not obey him. Should he divorce her?"
 source: "Fatawa Nur 'ala al-Darb / Tape no: 8"
 category: [fatwas, audios, women, marriage]
+tags: [ibn-uthaymeen]
 link: "https://binothaimeen.net/s/R1yxRXdu"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_008_02.mp3"
 summary: "If your wife does not pray, neglects the prayer, and is persistent in abandoning it, then she is a disbeliever—we seek refuge in Allah from that."

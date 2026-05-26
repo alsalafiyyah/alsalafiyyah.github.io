@@ -5,6 +5,7 @@ date: 2026-05-16
 title: "Is there a special virtue for one who dies on Friday?"
 source: "Fatawa Nur 'ala al-Darb / Tape no: 299"
 category: [fatwas, audios, funerals]
+tags: [ibn-uthaymeen]
 link: "https://binothaimeen.net/s/LrFojahf"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_299_18.mp3"
 summary: "This hadith narrated regarding the virtue of dying on Friday is not Sahih (authentic). This is because a person is only rewarded for an action they performed themselves and in which they had a choice."
