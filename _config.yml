@@ -214,7 +214,7 @@ defaults:
       type: "tag"
     values:
       layout: "tag"
-      permalink: /tag/:title/ 
+      permalink: /scholars/:title/
   # _pages
   - scope:
       path: "_pages"
