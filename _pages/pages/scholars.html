@@ -8,19 +8,19 @@ summary: "Find fatwas by Scholars of the Sunnah."
 <div class="flex flex-col gap-2 font-black text-[10px] uppercase tracking-widest">
     <span>Scholars:</span>
     <ul>
+    {% for tag in site.tags %}
         <li class="flex justify-between border-b border-black/10 py-1">
-            <span>Ibn Uthaymeen</span>
-            <span class="tabular-nums">({{ site.tags["ibn-uthaymeen"] | size | default: 0 }})</span>
+          <a href="{{ '/scholars/' | relative_url }}{{ tag[0] }}/">
+            <span>{{ tag[0] | replace: '-', ' ' }}</span>
+            <span class="tabular-nums">[{{ tag[1] | size }}]</span>
+          </a>
         </li>
-        <li class="flex justify-between border-b border-black/10 py-1">
-            <span>Salih Al-Fawzan</span>
-            <span class="tabular-nums">({{ site.tags["salih-fawzan"] | size | default: 0 }})</span>
-        </li>
+    {% endfor %}
     </ul>
 </div>
 
 
-<div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+<div class="grid grid-cols-1 md:grid-cols-3 gap-4 mt-5">
     {% for tag in site.tags %}
     <!-- tag[0] is the tag name/slug, tag[1] is the array of posts -->
     <a href="{{ '/scholars/' | relative_url }}{{ tag[0] }}/" 
