@@ -7,26 +7,21 @@ summary: "Find fatwas by Scholars of the Sunnah."
 
 <div class="flex flex-col gap-2 font-black text-[10px] uppercase tracking-widest">
     <span>Scholars:</span>
-    <ul>
+    <ul class="w-full">
     {% for tag in site.tags %}
-        <li class="flex justify-between border-b border-black/10 py-1">
-          <a href="{{ '/scholars/' | relative_url }}{{ tag[0] }}/">
-            <span>{{ tag[0] | replace: '-', ' ' }}</span>
-            <span class="tabular-nums">[{{ tag[1] | size }}]</span>
-          </a>
+        <!-- 1. Find the file in your collection where tag matches the current slug loop -->
+        {% assign scholar_page = site.tag | where: "tag", tag[0] | first %}
+        
+        <!-- 2. Fall back to the cleaned slug if you haven't created the file yet -->
+        {% assign formal_title = scholar_page.title | default: (tag[0] | replace: '-', ' ') %}
+
+        <li class="border-b border-black/10 dark:border-white/10 py-1.5 hover:opacity-70 transition-opacity">
+            <a href="{{ '/scholars/' | relative_url }}{{ tag[0] }}/" class="flex justify-between items-center w-full">
+                <!-- Displays "Permanent Committee" instead of "alifta" -->
+                <span>{{ formal_title }}</span>
+                <span class="tabular-nums opacity-60">[{{ tag[1] | size }}]</span>
+            </a>
         </li>
     {% endfor %}
     </ul>
-</div>
-
-
-<div class="grid grid-cols-1 md:grid-cols-3 gap-4 mt-5">
-    {% for tag in site.tags %}
-    <!-- tag[0] is the tag name/slug, tag[1] is the array of posts -->
-    <a href="{{ '/scholars/' | relative_url }}{{ tag[0] }}/" 
-       class="border-2 border-black dark:border-white p-4 flex justify-between items-center bg-white dark:bg-zinc-950 hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-colors">
-        <span class="text-xs font-black uppercase tracking-tight">{{ tag[0] | replace: '-', ' ' }}</span>
-        <span class="text-[10px] font-mono opacity-60 tabular-nums">[{{ tag[1] | size }}]</span>
-    </a>
-    {% endfor %}
 </div>

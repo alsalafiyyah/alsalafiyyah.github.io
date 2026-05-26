@@ -4,11 +4,8 @@ title: "Ruling on Simaniyyah Tariqah (Sufi order)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 6/417"
 hijri: Dhul-Hijjah 22, 1441
-tag: [sects]
+tag: [ibn-baz]
 lang: en
-note: false
-locale: en
-uid: simaniyyah-tariqah
 summary: "Here in Sudan, we have a shaykh who has many followers who compete in serving and obeying him. They travel to visit him, thinking he is one of the Awliya' (pious people)."
 muftis:
   shaykh: 
@@ -16,11 +13,11 @@ muftis:
       url: /biography/binbaz/
 ---
 
-Question:
+### Question:
 
 Here in Sudan, we have a shaykh who has many followers who compete in serving and obeying him. They travel to visit him, thinking he is one of the Awliya' (pious people). He has established the Simaniyyah Tariqah (Sufi order). He has a large dome for his father under which his followers seek blessing and pay money willingly. They perform Dhikr (Remembrance of Allah) by playing the Duff (a tambourine-like instrument without bells), beating drums and reciting poetry. This year, the shaykh ordered them to visit the grave of another shaykh, so they all traveled, men and women, in a hundred car to carry out his order. What is your advice to them?
 
-Answer:
+### Answer:
 
 This is a great Munkar (that which is unacceptable or disapproved of by Islamic law and Muslims of sound intellect) and evil. Traveling to visit graves itself is a Munkar, according to the saying of the Prophet (peace be upon him), "**Do not set out on a journey but to three Masjids: Al-Masjid Al-Haram (the Sacred Mosque in Makkah), this Masjid of mine (the Prophet's Mosque in Madinah), and Al-Masjid Al-Aqsa (the Aqsa Mosque in Jerusalem).**" [^1] 
 
