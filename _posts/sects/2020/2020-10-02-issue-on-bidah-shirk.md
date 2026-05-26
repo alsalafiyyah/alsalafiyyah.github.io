@@ -2,11 +2,11 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Answering a question presented by a Muslim brother on some issues of Bid'ah and Shirk"
-hijri: Safar 15, 1442
-locale: en
+hijri: "Safar 15, 1442"
 lang: en
 category: [sects]
-note: false
+tags: [ibn-baz]
+translation: false
 source: "Majmu' Fatawa Al-Shaykh Ibn Baz 4/259"
 summary: "As for the claim that this sect (i.e. shi'ah/shiites) is the saved group and that they are following the truth and others are following falsehood, this is replied to by saying: whoever claims something, their claim should not be taken for granted but the necessary proof should be established first. Produce your proof if you are truthful"
 muftis:
@@ -15,11 +15,11 @@ muftis:
       url: /biography/binbaz/
 ---
 
-Question: 
+### Question: 
  
 What is the religious ruling of Allah and His Messenger on a person who commits the following: During the Adhan (call to prayer) he says, (I bear witness that 'Ali is Allah's Waliy (pious person)), (Come to the best of deeds), (the kin of Muhammad), ('Ali is the best kin). Moreover, if any of them die, the family would slaughter a sheep which they call "'Aqiqah" without breaking any of its bones, after which, they bury its bones and feces claiming that this is a good deed that should be observed. What should a Sunni Muslim who has a kin relation with them act towards this? Is it legally permissible for him to be kind to them, have a good relationship with them, be related by marriage to them? It should be mentioned that they openly declare their conviction and state that they are the saved group, the ones adhering to truth, and that they are following the truth and that we are following falsehood. 
  
-Answer:
+### Answer:
  
 Allah (Glorified and Exalted be He) has clarified the words of the Adhan (Call to Prayer) and Iqamah (Call to start the Prayer) through His Prophet Muhammad (peace be upon him). It is reported that **'Abdullah ibn Zayd ibn 'Abd Rabbuh Al-Ansari had seen the Adhan in a dream, so he related it to the Prophet (peace be upon him) who (peace be upon him) told him that it is a true dream and ordered him to dictate it to Bilal since he had a more beautiful voice than his to pronounce. So, Bilal used to pronounce the Adhan in the presence of the Messenger of Allah (peace be upon him) until he died.**" [^1] 
 

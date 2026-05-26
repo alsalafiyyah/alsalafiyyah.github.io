@@ -3,14 +3,12 @@ layout: post
 title: "Ruling on sufis who stab themselves with daggers and knives and other tools"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Muqalat 9/285"
-category: [sects, audios]
-mp3: 
+category: [sects]
 link: https://cutt.ly/gdDI3Ju
-hijri: Dhul-Hijjah 16, 1441
+hijri: "Dhul-Hijjah 16, 1441"
 lang: en
-note: false
-locale: en
-uid: ruling-on-sufis-who-stab-themselves-with-daggers-knives
+tags: [ibn-baz]
+translation: false
 summary: "These people are liars and impostors whose acts have no evidence at all. Rather, they are liars who use things and tricks that confuse people in order to make them think that they stab themselves."
 muftis:
   shaykh: 
@@ -18,11 +16,11 @@ muftis:
       url: /biography/binbaz/
 ---
 
-Question:
+### Question:
 
 What is your opinion regarding those who call themselves dervish and stab themselves with daggers and knives and other tools? They do such acts while one of them chants: "0 Allah, 0 Rifa'i". What is the Islamic ruling on these acts? Is there any evidence supporting their acts? 
 
-Answer:
+### Answer:
 
 These people are liars and impostors whose acts have no evidence at all. Rather, they are liars who use things and tricks that confuse people in order to make them think that they stab themselves. In fact, it is not real stabbing; rather, it is just confusing and tricking the eyes and bewitching the people, as Allah says about the magicians of Pharaoh that they struck terror into the people and bewitched their eyes. What is meant here is that this is a group of people who are wicked and crooks, who have no basis for what they do and who should not be believed. They are liars and impostors, who confuse people. 
 

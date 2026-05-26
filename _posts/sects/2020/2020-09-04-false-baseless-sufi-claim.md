@@ -4,11 +4,10 @@ title: "The Messenger (peace be upon him) did not stretch his hand from his grav
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat p. 9/310"
 category: [sects]
-hijri: Muharram 16, 1442
+hijri: "Muharram 16, 1442"
 lang: en
-locale: en
-note: false
-uid: false-baseless-sufi-claim
+tags: [ibn-baz]
+translation: false
 summary: "What all Muslims have to do is to fear Allah and adhere to His Shari'ah, which is indicated in His Noble Book and in the Sunnah of His trustworthy Messenger, and beware of anything that goes against that."
 muftis:
   shaykh: 
@@ -16,11 +15,11 @@ muftis:
       url: /biography/binbaz/
 ---
 
-Question:
+### Question:
 
 A brother from Dar'a, Syria asks: What is the correct opinion about the stories narrated from one of the famous leaders of Sufism, Al-Sayyid Ahmad Al-Rifa'i that he visited the Mosque of the Prophet (peace be upon him) in Al-Madinah and supplicated at the Prophet's grave. The Messenger (peace be upon him) then stretched his hand out to him and he kissed it? This is a widespread belief among the followers of his Tariqah (Sufi order). It is a belief they hold firmly, even though he lived in the 6th century A.H. How true is this story? 
 
-Answer:
+### Answer:
 
 This is false and baseless, because the Prophet (peace be upon him) died as decreed by Allah (Glorified be He) who says: "**Verily you (O Muhammad صلى الله عليه وسلم) will die, and verily they (too) will die.**" [al-Zumar: 30]
 

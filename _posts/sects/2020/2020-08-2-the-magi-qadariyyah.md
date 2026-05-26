@@ -4,10 +4,10 @@ title: "The Magi of the Muslim Ummah are Al-Qadariyyah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Shaykh Ibn Baz vol 28"
 category: [sects]
-hijri: Dhul-Hijjah 13, 1441
-locale: en
+tags: [ibn-baz]
+hijri: "Dhul-Hijjah 13, 1441"
 lang: en
-note: false
+translation: false
 summary: "The Magi of the Muslim Ummah are Al-Qadariyyah who denied Predestination and went astray in this regard, saying that matters are not known to Allah before their occurrence."
 muftis:
   shaykh: 
@@ -15,11 +15,11 @@ muftis:
       url: /biography/binbaz/
 ---
 
-Question: 
+### Question: 
 
 Many people engage in false conversations about Predestination and Divine Decree. Do you have any instructions in this regard? 
 
-Answer: 
+### Answer: 
 
 This issue was meddled with by early people who committed many mistakes in this regard. One should beware of this issue. Every believing man and woman should submit to Allah (Glorified and Exalted be He) and believe in His Divine Decree, be keen to adopt the good beneficial means and keep away from the bad harmful means. It is also for that reason that Allah taught and enabled His Servants to do so and also bestowed on them of reasoning and capacity that help them worship Him (Glorified and Exalted be He) and abandon sins. It is obligatory not to meddle with this issue and to believe that Allah has encompassed, reckoned and predestined all things; that what Allah wills comes to pass and what He does not will does not come to pass; that Allah is the Most Great Creator, Who is All-Omnipotent; that all that exists is created and predestined by Him (Glorified and Exalted be He) and that He has given man intellect and the means and power to do either good or evil. As one can eat and drink, wear clothes, get married, travel and reside, sleep and wake up, etc., one can also either obey or disobey.
 

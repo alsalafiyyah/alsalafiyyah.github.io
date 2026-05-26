@@ -2,13 +2,13 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Dealing with Sufi shaykhs and their followers"
-hijri: Muharram 27, 1442
-locale: en
+hijri: "Muharram 27, 1442"
 lang: en
-note: true
-source: Fatawa Al-Lajnah Al-Da'imah no. 16696-2
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 16696, Question 2"
 summary: "What do you advise us concerning dealing with Sufi shaykhs and their followers?"
 category: [sects]
+tags: [alifta]
+translation: false
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz
@@ -23,11 +23,11 @@ muftis:
 ---
 
 
-Question:
+### Question:
 
 As a pioneer of the Salafiyyah Call (Da'wah) and the current Islamic awakening, what do you advise us concerning dealing with Sufi shaykhs and their followers? I appreciate your guidance. May Allah reward you
  
-Answer:
+### Answer:
 
 You should call the shaykhs of [**Sufism**](/sufism/) and others to Allah (Exalted be He) with wisdom, fair preaching, and argue with them in the best way as Allah has ordered His Prophet (peace be upon him). You should urge them to abide by the Sunnah and abandon any Bid'ah (innovation in religion). 
 

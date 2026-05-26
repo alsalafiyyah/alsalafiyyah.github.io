@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Ruling on Simaniyyah Tariqah (Sufi order)"
+title: "Ruling on Simaniyyah Sufi order"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 6/417"
-hijri: Dhul-Hijjah 22, 1441
-tag: [ibn-baz]
+hijri: "Dhul-Hijjah 22, 1441"
+tags: [ibn-baz]
+translation: false
 lang: en
 summary: "Here in Sudan, we have a shaykh who has many followers who compete in serving and obeying him. They travel to visit him, thinking he is one of the Awliya' (pious people)."
 muftis:

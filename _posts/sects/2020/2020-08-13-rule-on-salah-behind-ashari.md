@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Ruling on offering Salah behind a man who opposes Ahl Al-Sunnah wal-Jama'ah such as Al-Ash'ari and the like"
+title: "Ruling on Prayer behind a man who opposes Ahl Al-Sunnah wal-Jama'ah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 5/426"
-hijri: Dhul-Hijjah 23, 1441 AH
-note: false
+hijri: "Dhul-Hijjah 23, 1441 AH"
 lang: en
 category: [sects]
+tags: [ibn-baz]
+translation: false
 summary: "Is it permissible to offer Salah behind a man believing in a doctrine different from Ahl Al-Sunnah wal-Jama'ah such as Al-Ash'ari"
 muftis:
   shaykh: 
@@ -14,11 +15,11 @@ muftis:
       url: /biography/binbaz/
 ---
 
-Question:
+### Question:
 
 Is it permissible to offer Salah behind a man believing in a doctrine different from Ahl Al-Sunnah wal-Jama'ah such as Al-Ash'ari (a follower of Asha'irah i.e. a Muslim group that bases its creedal issues on logic), for example?
 
-Answer:
+### Answer:
 
 The more preponderant opinion - and Allah knows best - is that it is permissible to offer prayer behind any Muslim while it is impermissible to do so behind non-Muslims. This is the opinion of a group of scholars and it is the correct opinion. As for a person who says that it is impermissible to offer prayer behind a sinner, such an opinion is not the best since the Prophet (peace be upon him) permitted offering Salah behind rulers. Yet, many among them are wrongdoers. Ibn ‘Umar, Anas, and a group of Muslim scholars offered prayer behind Al-Hajjaj who was one of the worst wrongdoers.
 

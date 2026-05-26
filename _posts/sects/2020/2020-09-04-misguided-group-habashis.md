@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Jama'at Al-Ahbash"
+title: "Ruling on Jama'at Al-Ahbash"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 19606"
 category: [sects]
-hijri: Muharram 16, 1442 AH
+hijri: "Muharram 16, 1442 AH"
 lang: en
-note: true
+tags: [alifta]
+translation: false
 summary: "Jama'at-ul-Ahbash (the Habashis) is a misguided group which is against Ahl-ul-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream). They must return to the truth which was followed by the Sahabah and Tabi'un in all aspects of religion; actions and belief. This is better and more lasting for them."
 muftis:
   chairman: 
@@ -150,8 +151,6 @@ Peace be upon our Prophet Muhammad, his family, Companions and those who followe
 
 [See also Shaykh Ibn Baz (May Allah be merciful to him) on Habashis](/shaykh-ibn-baz-on-abdullah-habashy)
 
-
----
 
 [^1]: Al-Bukhari, Sahih, Book on testimonies, no. 2652; Muslim, Sahih, Book on merits and virtues, no. 2533; Al-Tirmidhi, Sunan, Book on virtues of the Companions, no. 3859; Ibn Majah, Sunan, Book on judgments, no. 2362; and Ahmad, vol. 1, p. 434.
 [^2]: Al-Tirmidhy, Sunan, Book on knowledge, no. 2676; Abu Dawud, Sunan, Book on Al-Sunnah, no. 4607; Ibn Majah, Sunan, Introduction, no. 44; Ahmad ibn Hanbal, Musnad, vol. 4, p. 126; and Al-Darimy, Sunan, Introduction, no. 95.

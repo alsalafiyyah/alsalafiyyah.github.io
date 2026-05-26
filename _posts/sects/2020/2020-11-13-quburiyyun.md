@@ -2,12 +2,12 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Quburiyyun (grave worshippers)"
+title: "Ruling on Quburiyyun (grave worshippers)"
 hijri: "Rabi' Al-Awwal 27, 1442"
 lang: en
-locale: en
 category: [sects]
-note: false
+tags: [ibn-baz]
+translation: false
 summary: "Worship is not defined through people's views but it is determined through Allah's Judgment (Glorified and Exalted be He). The early Mushriks are divided into different categories, such as those who worshipped idols, those who worshipped prophets, those who worshipped righteous people, those who worshipped trees, those who worshipped stones, and those who worshipped other things."
 muftis:
   shaykh: 
@@ -17,7 +17,7 @@ muftis:
 
 > Question: It is said that the early Mushriks (those who associate others with Allah in His Divinity or worship) admitted that they worshipped their gods only to bring them near to Allah. They were in fact idol worshippers, so how can you declare those you call Quburiyyun i.e. grave worshippers, to be Mushriks although they do not worship idols or claim that the dead should be worshipped, but they only seek blessings through them? [^1]
 
-Answer: 
+### Answer: 
 
 Worship is not defined through people's views but it is determined through Allah's Judgment (Glorified and Exalted be He). The early Mushriks are divided into different categories, such as those who worshipped idols, those who worshipped prophets, those who worshipped righteous people, those who worshipped trees, those who worshipped stones, and those who worshipped other things. Thus, they are not on an equal level. However, Allah declared them all to be disbelievers until they enter His Religion and worship Him Alone. He (Exalted be He) says: "**Nor would he order you to take angels and Prophets for lords (gods). Would he order you to disbelieve after you have submitted to Allâh’s Will? (Tafsir At-Tabarî).**" [Aal Imran: 80] 
 
@@ -44,7 +44,7 @@ It means that all scholars have unanimously agreed that whoever worships other t
 
 > Question: What about the questioner's saying that such worshippers claimed that they worshipped them only to bring them near to Allah, thus acknowledging their worship of them, while the latter (group) claimed that they did not worship them but only sought their blessings? [^2]
 
-Answer: 
+### Answer: 
 
 Consideration is given to facts and meaning and not to words. Thus, if they say that they do not worship them but rather seek their blessings, it would not avail them as long as they perform the practices of the Mushriks preceding them, even if they do not call it worship (as they call it seeking their intercession or blessings). Seeking other than Allah and invoking the dead, the prophets, and the righteous, and offering sacrifices to them, prostrating to or calling for their help - are all acts of worship, even if they call it service or anything else, since what count are facts and not names, as explained above.
 
@@ -52,7 +52,6 @@ An example of this is the saying of the group who went out with the Prophet (pea
 
 Thus, the Prophet (peace be upon him) regarded the two statements equal to each other even though the latter said: "**Assign for us a Dhat Anwat**", comparing their saying to that of the Children of Israel, since what counts is the meaning and essence, not just the words.
 
----
 
 [^1]: Fatawa Shaykh Ibn Baz p.3/136
 [^2]: Fatawa Shaykh Ibn Baz p.3/139

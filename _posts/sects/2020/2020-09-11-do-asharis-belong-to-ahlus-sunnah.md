@@ -2,11 +2,12 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Do the Al-Asha'irah belong to Ahl Al-Sunnah wal-Jama'ah or not?"
-hijri: Muharram 22, 1442 AH
+hijri: "Muharram 22, 1442 AH"
 category: [sects]
-source: Majmu' Fatawa of Ibn Baz vol 28
+source: "Majmu' Fatawa of Ibn Baz vol 28"
 lang: en
-note: false
+tags: [ibn-baz]
+translation: false
 summary: "Do the Al-Asha'irah (Asha'rites/Ash'aris) belong to Ahl Al-Sunnah wal-Jama'ah or not?"
 muftis:
   shaykh: 
@@ -14,11 +15,11 @@ muftis:
       url: /biography/binbaz/
 ---
 
-Question:
+### Question:
 
 Do the Al-Asha'irah belong to Ahl Al-Sunnah wal-Jama'ah (those adhering to the Sunnah and the Muslim community) or not? Can we judge them to be Muslims or disbelievers? [^1]
 
-Answer:
+### Answer:
 
 [Al-Asha'irah](/asharis/) (a Muslim group that bases its creedal issues on logic) belongs to Ahl Al-Sunnah (those adhering to the Sunnah) in most of their affairs, except their allegorically interpreting the Divine Attributes. Yet they are not disbelievers, rather among them are Imams, scholars and outstanding figures. 
 

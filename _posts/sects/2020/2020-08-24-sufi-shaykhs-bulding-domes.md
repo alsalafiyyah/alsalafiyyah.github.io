@@ -3,11 +3,11 @@ layout: post
 title: "Some Sufi shaykhs pay a great deal of attention to making domes on graves and people believe in its usefulness and blessings"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 5"
-hijri: Muharram 5, 1442 AH
-date: 2020/08/24
-locale: en
+hijri: "Muharram 5, 1442 AH"
 lang: en
 category: [sects, funerals]
+tags: [ibn-baz]
+translation: false
 summary: "Sitting on graves is not permissible as it is desecration of the graves. Therefore, it is not permissible to urinate or defecate on them or to do any act that is considered desecration of graves."
 muftis:
   shaykh: 
@@ -15,11 +15,11 @@ muftis:
       url: /biography/binbaz/
 ---
 
-Question: 
+### Question: 
 
 Some Sufi shaykhs pay a great deal of attention to making domes and graves and people believe in their usefulness and blessings. If this is not lawful, what is your advice to those people, as they are considered as religious examples for a large number of people? Appreciate your guidance, may Allah guide you.
 
-Answer:
+### Answer:
 
 The advice to Sufi and other scholars is to hold on to what is stated in Allah's Book (the Qur'an) and the Sunnah of His Messenger (peace be upon him) and to teach this to people. Moreover, I exhort them not to follow their antecedents in anything that opposes the Qur'an and the Sunnah. Religion is not to be acquired through imitation of shaykhs or others; it is to be taken from the Book of Allah, the Sunnah of His Messenger, Muhammad (peace be upon him), what was unanimously agreed upon by scholars and what was related about Sahabah (Companions of the Prophet, may Allah be pleased with them). This is how the knowledge of Religion is acquired, not through imitation of individuals, Sufi shaykhs or others. The authentic Sunnah of Allah's Messenger (peace be upon him) illustrates that it is not permissible to build Masjids, domes or anything else over graves for this is prohibited according to the sayings of the Messenger (peace be upon him). 
 
@@ -73,7 +73,6 @@ On the other hand, seeking help from the dead and those who are absent using una
 
 I again emphasize that building on graves and establishing Masjids or domes over them is an abominable act known to the people of knowledge, and the Islamic Shari'ah forbade them as they lead to Shirk. Muslim scholars, once again, should have Taqwa, wherever they are, and advise people and teach them the true Shari'ah of Allah, and should not be amiable with those who practice Shirk and Kufr. They should warn everyone, whether he is a ruler, poor, young or old that these things are unallowable and he should guide them to Allah's Shari'ah. It is their duty to do this everywhere and in every possible way, whether verbally, in writing, by composing a book or delivering sermons on Fridays or others, by phone, fax, or any possible means of communication that is available nowadays and can be used to convey Da'wah (calling to Islam) and guide people to Allah's Correct Path. Allah is the One Who grants success.
 
----
 
 [^1]: Al-Bukhari, Sahih, Book on Salah, no. 436; Muslim, Sahih, Book on Masjids and places for Salah, no. 529; Al-Nasa'i, Sunan, Book on Masjids, no. 703; Ahmad ibn Hanbal, Musnad, vol. 6, p. 146; and Al-Darimy, Sunan, Book on Salah, no. 1403.
 [^2]: Al-Bukhari, Sahih, Book on Salah, no. 427; Muslim, Sahih, Book on Masjids and places for Salah, no. 528; Al-Nasa'i, Sunan, Book on Masjids, no. 704; and Ahmad ibn Hanbal, Musnad, vol. 6, p. 51.

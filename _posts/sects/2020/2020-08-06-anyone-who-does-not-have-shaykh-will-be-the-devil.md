@@ -7,11 +7,11 @@ source: "Fatawa Nur 'Ala al-Darb vol 3"
 category: [sects, audios]
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_715/nour_71510.mp3
 link: https://cutt.ly/KdDevcg
-hijri: Dhul-Hijjah 16, 1441
-locale: en
+hijri: "Dhul-Hijjah 16, 1441"
 active: audios
 lang: en
-note: false
+tags: [ibn-baz]
+translation: false
 summary: "The only path that must be adopted is that of the Prophet (peace be upon him). It is the way of Ahl-us-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream). It is the way of the Sahabah (Companions of the Prophet)"
 muftis:
   shaykh: 
@@ -20,9 +20,11 @@ muftis:
 ---
 
 ### Question:
+
 This questioner from Cairo asks a long question: Your Eminence Shaykh, is it obligatory to have a mediator between one and Allah (Glorified and Exalted be He)? For instance, can I not attain the Good Pleasure of Allah except by means of a shaykh. Those who claim this use the Hadith: "**Anyone who does not have a shaykh, his shaykh will be the devil.**" They also say that this shaykh follows the way of Shaykh Al-Rifa'i and this Shaykh follows the way of Shaykh Al-Shadhili. Are these so-called saints have supernatural powers gifted to them by Allah after their death? Do they have certain ways which we have to follow after their death so they will be pleased with us in their graves for continuing to follow their ways? The questioner continues in his question about this issue, may Allah reward you with the best. 
 
 ### Answer:
+
 All these Tariqahs (Sufi orders) are innovations in Islam: **Al-Shadhiliyyah**, **Al-Rifa'iyyah**, **Al-Naqshabandiyyah**, **Al-Khalwatiyah**, **Al-Qadiriyyah** and other cults are **all Sufi invented ways which should be shunned**. 
 
 The only path that must be adopted is that of the Prophet (peace be upon him). It is the way of Ahl-us-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream). It is the way of the Sahabah (Companions of the Prophet), whom Allah was pleased with and they were pleased with Him, who were taught directly by the Prophet (peace be upon him). Therefore, you must follow what is legislated in the Book of Allah and the Sunnah of His Messenger (peace be upon him) and ask the true scholars of the Sunnah about any unclear issues. This is your obligation. 

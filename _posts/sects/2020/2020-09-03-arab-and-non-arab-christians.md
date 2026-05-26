@@ -2,24 +2,14 @@
 layout: post
 title: "The difference between Arab and non-Arab Christians"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 8097-2"
-hijri: Muharram 14, 1442 AH
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 8097, Question 2"
+hijri: "Muharram 14, 1442 AH"
 lang: en
-locale: en
 category: [non-muslim]
+tags: [alifta]
+translation: false
 summary: "Is there a difference between Arab Christians and non-Arab Christians?"
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+group1: true
 ---
 
 ### Question:
