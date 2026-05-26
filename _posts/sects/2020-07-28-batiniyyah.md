@@ -2,26 +2,17 @@
 layout: post
 title: "Al-Batiniyyah"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 5508"
+source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 5508"
 category: [sects]
-hijri: Dhul-Hijjah 7, 1441
-locale: en
+tags: [alifta]
+hijri: "Dhul-Hijjah 7, 1441"
 lang: en
-note: true
+translation: false
 summary: "The belief that Allah is incarnated in 'Ali or in any other being is sheer disbelief that excludes a person from Islam. Likewise, the belief that any being other than Allah (Glorified be He) can control the heavens and earth, is disbelief as well."
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
+group6: true
 ---
 
-Question: 
+### Question: 
 
 What is the view of Sunni scholars regarding Al-Isma'iliyyah and Agha Khani sects who live in many places and most of them live in the north of Pakistan. Following are some of their views that explain their doctrine.
 
@@ -42,7 +33,7 @@ What is the view of Sunni scholars regarding Al-Isma'iliyyah and Agha Khani sect
 
 In the Name of Allah, the Great, we ask you to answer our request for Fatwa to dispel the doubts in many Muslims' minds. In the past, the followers of this sect used to hide their false 'Aqidah (creed), therefore the early Muslim shaykhs called them Al-Batiniyyah (those who hide their real faith). Nowadays, they overtly call people to their false 'Aqidah (creed) to lead Muslims astray in matters related to 'Aqidah (creed) and for some other purposes we do not yet know.
 
-Answer:
+### Answer:
 
 First: The belief that Allah is incarnated in 'Ali or in any other being is sheer disbelief that excludes a person from Islam. Likewise, the belief that any being other than Allah (Glorified be He) can control the heavens and earth, is disbelief as well. Allah (Exalted be He) says: "Indeed your Lord is Allâh, Who created the heavens and the earth in Six Days, and then He rose over (Istawâ) the Throne (really in a manner that suits His Majesty). He brings the night as a cover over the day, seeking it rapidly, and (He created) the sun, the moon, the stars subjected to His Command. Surely, His is the Creation and Commandment. Blessed is Allâh, the Lord of the 'Alamîn (mankind, jinn and all that exists)!" [al-A'raf: 54]
 

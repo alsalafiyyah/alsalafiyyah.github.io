@@ -2,32 +2,20 @@
 layout: post
 title: "Ruling on the followers of Al-Imamiyyah"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 9247-2"
+source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 9247, Question 2"
 category: [sects]
-hijri: Dhul-Hijjah 7, 1441
-locale: en
+hijri: "Dhul-Hijjah 7, 1441"
 lang: en
-note: true
+translation: false
 summary: "Any person who follows one of the leaders of Kufr (disbelief) and misguidance and supports their chiefs and masters in oppression and enmity will receive their same ruling, that is, being deemed among the Kafirs and Fasiqs."
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  mufti_chairman: 
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah Ibn Qa'ud
-      url: /biography/qaud/
+group1: true
 ---
 
-Question: 
+### Question: 
 
 What is the ruling on the followers of Al-Imamiyyah Al-Ithna 'Ashriyyah (the Twelve Imami Shi'ites), which is one of the Rafidi sects (Shiitic sects which openly reject the legitimacy of the Caliphs before 'Ali ibn Abu Talib)? Is there a difference between the scholars of any deviant Muslim sect and its mere followers regarding being deemed as Kaffirs (disbelievers) or Fasiqs (those who openly and flagrantly violate Islamic law)?
 
-Answer:
+### Answer:
 
 Any person who follows one of the leaders of Kufr (disbelief) and misguidance and supports their chiefs and masters in oppression and enmity will receive their same ruling, that is, being deemed among the Kaffirs and Fasiqs.
 

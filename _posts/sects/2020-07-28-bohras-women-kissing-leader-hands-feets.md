@@ -2,31 +2,21 @@
 layout: post
 title: "Dawoodi Bohras women kissing their leader's hands and feet and those of his family"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 2289-2"
+source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 2289, Question 2"
 category: [sects]
-hijri: Dhul-Hijjah 7, 1441
-locale: en
+tags: [alifta]
+hijri: "Dhul-Hijjah 7, 1441"
+translation: false
 lang: en
 summary: "What you have mentioned in regards to women who belong to Bohras and kiss the hands and feet of their leader and each of his family members, is impermissible. There is no report affirming that this act was done to the Prophet (peace be upon him) or any of the Rightly-Guided Caliphs."
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah Ibn Qa'ud
-      url: /biography/qaud/
+group1: true
 ---
 
-Question: 
+### Question: 
 
 It is a tradition for women to kiss the hands and feet of the leader of their sect. They even kiss the hands and feet of each one of his family members. Is it permissible in Islam for women to touch the hands of these non-Mahram men?
 
-Answer:
+### Answer:
 
 Firstly, what you have mentioned in regards to women who belong to Bohras and kiss the hands and feet of their leader and each of his family members, is impermissible. There is no report affirming that this act was done to the Prophet (peace be upon him) or any of the Rightly-Guided Caliphs. The reason behind the impermissibility of this act is the excessive reverence it involves of a person which may be a means leading to Shirk (associating others with Allah in His Divinity or worship).
 
@@ -38,6 +28,6 @@ Although there was a good reason for shaking hands, the Messenger of Allah (peac
 
 Also, Allah (Glorified and Exalted be He) says, "Indeed in the Messenger of Allâh (Muhammad صلى الله عليه وسلم) you have a good example to follow" (Surah Al-Ahzab, 33:21)
 
----
+
 [^1]: Imam Ahmad, vol. 6, pp. 163 and 270; Al-Bukhari, Fat-h-ul-Bary, nos. 4180, 4181, 4891, and 7214; Muslim, Sahih [Sharh Al-Nawawy], vol. 13, p. 10; Al-Tirmidhy, no. 3306; and Ibn Majah, no. 2875.
 [^2]: Imam Ahmad, vol. 6, p. 357; Imam Malik, Al-Muwatta, vol. 2, p. 982; Ibn Majah, no. 2874; and Ahmad, vol. 6, pp. 454 and 459, with another wording.

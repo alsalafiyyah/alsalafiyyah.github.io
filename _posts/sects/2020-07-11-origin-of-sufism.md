@@ -3,31 +3,21 @@ layout: post
 title: "Origin and the creeds of Sufism"
 publisher: "alsalafiyyah@icloud.com"
 category: [sects]
-source: "Fatwas of the Permanent Committee of KSA no.19521"
-hijri: Dhul-Qa'dah 20, 1441
+tags: [alifta]
+source: "Fatwas of the Permanent Committee of KSA, Fatwa no.19521"
+hijri: "Dhul-Qa'dah 20, 1441"
 locale: en
 lang: en
-note: true
+translation: false
 summary: "All the Sufi sects or what is so called now Tasawwuf (mysticism) are full of Bid'ah and the means which leads to it and corrupted thoughts which are against the Book of Allah and the Sunnah of the Prophet"
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+group13: true
 ---
 
-Question: 
+### Question: 
 
 I ask your eminence to reply to us in short about Sufism and Sufis; what is Sufism, their 'Aqidah (creed) and what is the opinion of Ahl-ul-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream) about them? What should Ahl-ul-Sunnah wal-Jama'ah do regarding them and how should we treat Sufis while they insist on their 'Aqidah (creed)? They believe that they are on the truth even after the facts are revealed before them? I ask Allah (Exalted be He) to benefit the people who are in need to understand this matter from your knowledge. May Allah guide all of us to what pleases Him. May Allah reward you. 
 
-Answer: 
+### Answer: 
 
 Al-Sufiyyah (Sufism) is derived from Suf (wool) because it was their costume. This is the nearest meaning in language and to reality. As for the saying that Al-Sufiyyah is derived from Al-Suffah because they look like the poor Companions (may Allah be pleased with them) who used to go to a place in Al-Masjid Al-Nabawy (the Prophet’s Mosque in Madinah) which is called Suffah, or ascribed to Safwah (purity) because of the purity of their hearts and actions; all these sayings are not true. This is because the ascription form of Suffah is Saffyy with double f and y. The ascription form of Safwah is Safawy and because these two meanings are not in conformity with their attributes because of their ill-thoughts, bad 'Aqidah and frequent Bid'ah (innovation in religion).
 

@@ -3,21 +3,23 @@ layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
 title: "The ruling on political and religious parties Hizb ut-Tahrir and the Ikhwanul-Muslimin"
-hijri: Muharram 27, 1446 AH
+hijri: "Muharram 27, 1446 AH"
 date: 2024-08-02
 source: "Fatawa al-Lajnah ad-Da'imah, Fatwa no.1674"
+category: [sects]
+tags: [alifta]
+translation: false
 lang: en
-locale: en
-category: [fatwas,sects]
-note: true
 summary: "It is not permissible for Muslims to divide into separate religious groups and parties, with members cursing and fighting each other."
 group1: true
 --- 
 
 ### Question: 
+
 What is the ruling on political and religious parties, such as the Hizb ut-Tahrir and the Ikhwan-ul-Muslimin (the Muslim Brotherhood)?
 
 ### Answer: 
+
 It is not permissible for Muslims to divide into separate religious groups and parties, with members cursing and fighting each other. Allah not only forbids such factionalism, but censures those who introduce or follow them and threatens them with grievous punishment. Both Allah and His Messenger (peace be upon him) renounced this practice. 
 
 Allah (Exalted be He) says: **"And hold fast, all of you together, to the Rope of Allâh (i.e. this Qur’ân), and be not divided among yourselves"** [Aal 'Imran (3):103]

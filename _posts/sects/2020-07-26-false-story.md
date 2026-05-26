@@ -2,28 +2,17 @@
 layout: post
 title: "False story made by the Sufi Shaykh of Jama'at Tabligh"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Daimah no. 21412"
+source: "Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 21412"
 category: [sects]
-hijri: Dhul-Hijjah 5, 1441
+tags: [alifta]
+hijri: "Dhul-Hijjah 5, 1441"
 lang: en
-note: true
-locale: en
-uid: false-story
+translation: false
 summary: "It is not permissible to read the book of Fada'il A'mal (Faza'il-e-A'mal) or any similar book that contains superstitions and lies to the people in Masjids or elsewhere, for this implies misleading people and spreading superstitions among them."
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+group5: true
 ---
 
-Question: 
+### Question: 
 
 Shaykh Muhammad Zakariyya Kandahlwi (a Deobandi scholar) is one of the most famous religious scholars in India and Pakistan, especially among the followers of Jama'at Tabligh. He has numerous publications; of which is: **Fada'il A'mal (Faza'il-e-A'mal)**, which is read in the religious circles of Jama'at Tabligh, and which the members of the group consider as Sahih Al-Bukhari. 
 
@@ -41,8 +30,7 @@ In the light of this story, I would like to raise the following questions:
 
 Your Eminence, could you please guide us to the satisfactory answer so that I could translate it into the local languages and distribute it among my friends, colleagues and all Muslims I talk with in this regard?
 
-
-Answer:
+### Answer:
 
 This story is false and utterly baseless. The basic ruling concerning the dead; a prophet or otherwise, is that he cannot move in his grave. What is claimed that the Prophet (peace be upon him) extended out his hand to Al-Rifa'i or any one else is not true; rather, it is a baseless Wahm (illusion), which should not be believed. 
 

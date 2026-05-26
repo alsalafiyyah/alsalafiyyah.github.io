@@ -1,34 +1,22 @@
 ---
 layout: post
-title: "Exaggeration of the Qadiriyyah order"
+title: "Exaggeration of the Qadiriyyah Sufi order"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 1304"
 category: [sects]
-hijri: Dhul-Hijjah 7, 1441
+tags: [alifta]
+hijri: "Dhul-Hijjah 7, 1441"
 lang: en
-locale: en
-note: true
-uid: qadiriyyah
+translation: false
 summary: "The poem that was sent by the questioner shows that the one who wrote it was ignorant, as the things that he ascribes to himself are Kufr (disbelief) and misguidance. "
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Mani
-      url: /biography/mani/
+group3: true
 ---
 
-Question: 
+### Question: 
 
 The questioner would like to be given a general idea about the Qadiriyyah Tariqah (Sufi order). He read one of the Qadiriyyah books: "Al-Fiyudat Al-Rabbaniyyah fi Al-Ma'athir wa Al-Awrad Al-Qadiriyyah", and saw a poem including some of the claims and feats performed by the shaykh of this Tariqah. He asks if what is said in this poem is true or untrue. The questioner sent the poem along with his question to ask for a general Fatwa (legal opinion issued by a qualified Muslim scholar) on it.
 
-Answer:
+### Answer:
 
 The poem that was sent by the questioner shows that the one who wrote it was ignorant, as the things that he ascribes to himself are Kufr (disbelief) and misguidance. He claims that all the scholars' knowledge has been derived from his knowledge and is part of him. He also claims that the Servants' behavior is according to what he legislates for them and that he would be able to close the Fire due to his greatness, except for a prior pledge taken from the Prophet. He says he can help those of his Murid (students) who are loyal to him and save them from ordeals, protect them in this world and in the Hereafter, secure them from fear, and be with them at the Mizan (the Scales for weighing deeds) on the Day of Resurrection.
 

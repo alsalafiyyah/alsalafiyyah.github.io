@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "On Habashi Sect"
+title: "Ruling on Habashi Sect"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa Shaykh ibn Baz 9/315"
 category: [sects]
+tags: [ibn-baz]
 lang: en
-note: false
-hijri: Dhul-Qa'dah 26, 1441 AH
+translation: false
+hijri: "Dhul-Qa'dah 26, 1441 AH"
 summary: "I would like to tell you that this sect is known to us. It is a misguided sect and their leader Abdullah Al-Habashy is notorious for his deviation and aberration."
 muftis:
   shyakh: 

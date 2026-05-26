@@ -2,31 +2,17 @@
 layout: post
 title: "Ruling on joining Jama'at Tabligh"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 17776-2"
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 17776, Question 2"
 category: [sects]
-hijri: Dhul-Hijjah 5, 1441
+tags: [alifta]
+hijri: "Dhul-Hijjah 5, 1441"
 lang: en
-note: true
-locale: en
-uid: ruling-on-joining-tabligi-jamaat
+translation: false
 summary: "The acts of the group you mentioned count as Bid'ahs (innovations in religion). You are not allowed to join them unless they adhere to the teachings stated in the Book of Allah and in the Sunnah and stop observing Bid'ah in deeds, words and beliefs."
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Aziz bin Abdullah Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+group2: true
 ---
 
-Question: 
+### Question: 
 
 I joined this group and made use of the knowledge they provide. However, they observe some acts that are not mentioned in the Book of Allah or in the Sunnah. The following are some examples:
 
@@ -37,6 +23,6 @@ I joined this group and made use of the knowledge they provide. However, they ob
 
 If I join this group, what should I do with these acts which are not mentioned in the Book of Allah or in the Sunnah? Furthermore, changing the group's method is impossible. Please, advise.
 
-Answer:
+### Answer:
 
 The acts of the group you mentioned count as Bid'ahs (innovations in religion). You are not allowed to join them unless they adhere to the teachings stated in the Book of Allah and in the Sunnah and stop observing Bid'ah in deeds, words and beliefs. 

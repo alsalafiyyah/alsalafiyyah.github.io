@@ -3,30 +3,19 @@ layout: post
 title: "What is the ruling of Islam on the Sufi orders that exist today"
 publisher: "alsalafiyyah@icloud.com"
 category: [sects]
-source: "Fatwas of the Permanent Committee of KSA no.6433-5"
-hijri: Dhul-Qa'dah 11, 1441
+tags: [alifta]
+source: "Fatwas of the Permanent Committee of KSA, Fatwa no.6433, Question 5"
+hijri: "Dhul-Qa'dah 11, 1441"
 lang: en
-locale: en
-note: true
+translation: false
 summary: "Working according to Bid'ahs (innovations in religion) prevails in most of the Sufi orders. We advise you to follow the guidance of the Prophet (peace be upon him) and his Companions with regard to acts of worship and other things."
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+group1: true
 ---
 
-Question: 
+### Question: 
 
 What is the ruling of Islam on the Sufi orders that exist today?
 
-Answer: 
+### Answer: 
 
 Working according to Bid'ahs (innovations in religion) prevails in most of the Sufi orders. We advise you to follow the guidance of the Prophet (peace be upon him) and his Companions with regard to acts of worship and other things. You can read, the book written by 'Abdul Rahman Al-Wakil (may Allah be Merciful with him) entitled, "Hadhhi Hiya Al-Sufiyyah (This is Sufism)" in this regard.

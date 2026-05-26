@@ -3,11 +3,11 @@ layout: post
 title: "The beggar sufis sect"
 publisher: "alsalafiyyah@icloud.com"
 category: [sects]
+tags: [ibn-baz]
 source: "Majmu' Fatawa wa Maqalat 3/447"
-hijri: Dhul-Qa'dah 13, 1441
-locale: en
+hijri: "Dhul-Qa'dah 13, 1441"
+translation: false
 lang: en
-note: false
 summary: "Such people should not be given money or helped by any means, as this is considered encouraging them to continue this abominable act. If they beat themselves, you will not be accountable for that; rather, they will be."
 muftis:
   shaykh: 
@@ -15,11 +15,11 @@ muftis:
       url: /biography/binbaz/
 ---
 
-Question: 
+### Question: 
 
 An inquirer from Syria says: We have some people who claim that they are the children of Shaykh 'Isa or of other shaykh known to us. They come to beg wearing green silky turbans on their heads and iron bars in their hands. If they are given, they will be pleased; if they are not, they will be enraged and start beating themselves in the stomach and head with the iron bars.
 
-Answer: 
+### Answer: 
 
 These people belong to the sect of Sufis who manipulate people claiming that they are the children of so-and-so, and being so they deserve people's help. Yet, they should be prevented from this practice, and even punished by officials in order to protect people from their deception and begging in such a contemptuous way. Such people should not be given money or helped by any means, as this is considered encouraging them to continue this abominable act. If they beat themselves, you will not be accountable for that; rather, they will be. 
 

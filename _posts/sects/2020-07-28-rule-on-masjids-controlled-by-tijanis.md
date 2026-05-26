@@ -1,30 +1,18 @@
 ---
 layout: post
-title: "Ruling on Masjid controlled by Al-Tijaniyyah followers"
+title: "Ruling on Masjid controlled by Tijaniyyah followers"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 2931"
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 2931"
 category: [sects]
-hijri: Dhul-Hijjah 7, 1441 
+tags: [alifta]
+hijri: "Dhul-Hijjah 7, 1441"
 lang: en
-note: true
-locale: en
-uid: rule-on-masjids-controlled-by-tijanis
-summary: "Refuting the superstitions and Bid'ah of the Tijanys is an obligation on the knowledgeable people of Ahl Al-Sunnah wal-Jama'ah (those adhering to the Sunnah and the Muslim community)."
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+translation: false
+summary: "Refuting the superstitions and Bid'ah of the Tijanis is an obligation on the knowledgeable people of Ahl Al-Sunnah wal-Jama'ah (those adhering to the Sunnah and the Muslim community)."
+group1: true
 ---
 
-Question: 
+### Question: 
 
 There is a village with a relatively large population. It has a spacious Masjid (mosque) where a group of righteous people offers the five congregational Salahs, for it is the only Masjid in the village. Despite its being able to accommodate a large number of people, it is always vacant as not all villagers maintain the congregational Salah there, except for few righteous people. This dedicated group has seceded from the villagers and admonished them about their Bid'ah (innovation in religion), to say nothing of their differences and negligence in performing their religious obligations incompletely and incorrectly. These villagers adhere to the Tijaniyyah Sufi order. 
 
@@ -32,7 +20,7 @@ The small (righteous) group has decided to abandon congregational Salah behind t
 
 What is the ruling on this newly established Masjid? Can it be branded as "Masjid Dirar"? What is the ruling on resisting the Tijanys? What degree of Iman (Faith) do they have? Is it permissible for a student of knowledge to try and rectify this deviant Tijany sect from within their Masjid, while keeping away from the other group that follows the Truth to avoid Fitnah (temptation/trial/sedition) resulting from the establishment of the new Masjid? Should a student of knowledge stand with the minority righteous party and leave the others?
 
-Answer:
+### Answer:
 
 First: If the situation is as mentioned - that is, the only Masjid in the village is controlled by followers of the Tijaniyyah Sufi order who practice Bid'ah and superstitions, and that the righteous group has resisted their acts, but they have not responded; resulting in the righteous group leaving to establish a Masjid to offer prayers in ...Etc. Then, this Masjid is not Dirar. 
 

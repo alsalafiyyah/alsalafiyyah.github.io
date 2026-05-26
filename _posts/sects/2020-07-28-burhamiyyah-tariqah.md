@@ -1,25 +1,15 @@
 ---
 layout: post
-title: "Ruling on Al-Burhamiyyah Tariqah"
+title: "Ruling on Burhamiyyah Tariqah"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 4911"
-category: [fatwas,sects]
-hijri: Dhul-Hijjah 7, 1441
+source: "Fatawa Al-Lajnah Ad-Da'imah, Farwa no. 4911"
+category: [sects]
+tags: [alifta]
+hijri: "Dhul-Hijjah 7, 1441"
 lang: en
-locale: en
-note: true
-uid: burhamiyyah-tariqah
+translation: false
 summary: "It is impermissible to worship Allah through what is cited in this book - i.e. Awrad Al-Burhamiyyah Tariqah (Invocations of Al-Burhamiyyah Order)."
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
+group6: true
 ---
 
 ### Question: 

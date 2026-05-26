@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Al-Ikhwan Al-Muslimun (the Muslim Brotherhood) group"
+title: "On Al-Ikhwan Al-Muslimun (the Muslim Brotherhood)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 8/34"
 category: [sects]
-hijri: Dhul-Qa'dah 30, 1441
+tags: [ibn-baz]
+hijri: "Dhul-Qa'dah 30, 1441"
 lang: en
-locale: en
-note: true
+translation: false
 summary: "Ikhwan-ul-Muslimin Movement is being criticized by some scholars because they have no activity in the spread of Tawhid (monotheism), the prohibition of Shirk (associating others with Allah in His Divinity or worship) and Bid'ah."
 muftis:
   shaykh: 
@@ -15,11 +15,11 @@ muftis:
       url: /biography/binbaz/
 ---
 
-Question: 
+### Question: 
 
 Your Eminence, Al-Ikhwan Al-Muslimun (the Muslim Brotherhood; a political group also calling to Islam) Movement spread in the Kingdom especially among the students. What is your opinion with regard to this movement? To what extent is it in conformity with the Manhaj (methodology) of Ahl-ul-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream)?
 
-Answer: 
+### Answer: 
 
 Ikhwan-ul-Muslimin Movement is being criticized by some scholars because they have no activity in the spread of Tawhid (monotheism), the prohibition of Shirk (associating others with Allah in His Divinity or worship) and Bid'ah. They have their own way but they fall short in Da'wah and directing others to the true creed, which is of Ahl-ul-Sunnah wal-Jama'ah.The Muslim Brotherhood should call to the Manhaj of the Salaf (righteous predecessors) and Monotheism, deny worshipping, revering, and seeking the help of the dead such as Al-Husayn Al-Hasan, Al-Badawy, and the like. 
  

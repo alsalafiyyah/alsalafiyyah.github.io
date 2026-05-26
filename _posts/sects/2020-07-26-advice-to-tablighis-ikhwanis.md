@@ -1,15 +1,13 @@
 ---
 layout: post
-title: "Advice to the Jama'at Tabligh and Al-Ikhwan Al-Muslimun"
+title: "Advice to Jama'at Tabligh and Al-Ikhwan Al-Muslimun"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 28/57"
 category: [sects]
-hijri: Dhul-Hijjah 5, 1441
-locale: en
+tags: [ibn-baz]
+hijri: "Dhul-Hijjah 5, 1441"
 lang: en
-note: false
-locale: en
-uid: advice-to-tablighis-ikhwanis
+translation: false
 summary: "They all have some defects. They should judge themselves, adhere to the truth and fulfill the obligations of Tawhid (belief in the Oneness of Allah), Iman (faith) and sincerity towards Allah and following His Shari'ah as indicated in the Qur'an and Sunnah. "
 muftis:
   shaykh: 
@@ -17,11 +15,11 @@ muftis:
       url: /biography/binbaz/
 ---
 
-Question: 
+### Question: 
 
 Someone asks about the Islamic groups such as Jama'at Tabligh and the Muslim Brotherhood Group (al-Ikhwan al-Muslimun). Are these groups considered to be among Ahl-us-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream)?
 
-Answer:
+### Answer:
 
 They all have some defects. They should judge themselves, adhere to the truth and fulfill the obligations of Tawhid (belief in the Oneness of Allah), Iman (faith) and sincerity towards Allah and following His Shari'ah as indicated in the Qur'an and Sunnah. 
 

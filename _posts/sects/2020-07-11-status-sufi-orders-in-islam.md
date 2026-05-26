@@ -2,30 +2,18 @@
 layout: post
 title: "Status of the Sufi orders in Islam"
 publisher: "alsalafiyyah@icloud.com"
-category: [sects,fatwas]
-source: "Fatwas of the Permanent Committee of KSA no. 16862"
-hijri: Dhul-Qa'dah 20, 1441
-locale: en
+category: [sects]
+tags: [alifta]
+source: "Fatwas of the Permanent Committee of KSA, Fatwa no. 16862"
+hijri: "Dhul-Qa'dah 20, 1441"
 lang: en
-note: true
-summary: The Sufi orders have nothing to do with the guidance of the Prophet and a Muslim has to follow the Prophet and his Sunnah.
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+translation: false
+summary: "The Sufi orders have nothing to do with the guidance of the Prophet and a Muslim has to follow the Prophet and his Sunnah."
+group2: true
 ---
 
 ### Question: 
+
 I am forwarding to you this message that was sent to me by a woman who says her husband, Mohamed Al-Faytury Hamudah, follows a Sufi order. She wants to know the truth. I convinced her and she accepted advice, but I failed to convince her husband and his father. They told me they were right and asked me to bring forth proof from a well-known scholar to prove the opposite. I also hope you will comment on the enclosed poems, written by this Muhammad Hammudah. 
 
 ### Answer: 
@@ -37,8 +25,7 @@ He (peace be upon him) said: "My Ummah (nation) shall be split into seventy thre
 And he (peace be upon him) also said: "You must follow my Sunnah and that of the Rightly-Guided Caliphs. Stick to them and hold fast to them. Avoid novelties, for every novelty is an innovation, and every innovation is an error." [^2] 
 
 May Allah grant you and us success in doing all that leads to goodness and righteousness.
- 
----
+
 
 [^1]: Al-Tirmidhy [Book on faith] no. 2640; Abu Dawud [Book on Sunnah] no. 4596; Musnad Ahmad p. 2/332
 [^2]: Abu Dawud [Book on Al-Sunnah] no. 4607; Ibn Majah [Introduction] no. 42; Musnad Ahmad  p. 4/127; Al-Darimi [Introduction] no. 95.

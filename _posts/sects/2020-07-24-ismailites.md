@@ -4,11 +4,11 @@ title: "Isma'ilism sect"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 28"
 category: [sects]
-hijri: Dhul-Hijjah 3, 1441
-locale: en
+tags: [ibn-baz]
+hijri: "Dhul-Hijjah 3, 1441"
 lang: en
-note: false
-summary: "he Isma'ilites get their name from their acceptance of Isma'il ibn Ja'far as the divinely appointed spiritual successor (Imam) to Ja'far Al-Sadiq) that oppose our purified Shari'ah (Islamic law)."
+translation: false
+summary: "Isma'ilites get their name from their acceptance of Isma'il ibn Ja'far as the divinely appointed spiritual successor (Imam) to Ja'far Al-Sadiq) that oppose our purified Shari'ah (Islamic law)."
 muftis:
   shaykh: 
     - name: Shaykh Abdul-Aziz ibn Baz
@@ -37,7 +37,6 @@ It is related in a Hadith Sahih that the Prophet (peace be upon him) said to 'Al
 
 I ask Allah (Glorified and Exalted be He) to bless you and make you guiding and guided. May Allah enable you to benefit your Muslim brothers! May He keep us firm on guidance! Verily, Allah is the Most Gracious, the Most Bountiful! 
 
----
 
 [^1]: Related by Al-Bukhari, Book on testimonies, Chapter on one should not bear witness in support of an injustice if called upon to do so, no. 2652; and Muslim, Book on merits of the Companions, Chapter on the merits of the Companions of the Prophet (peace be upon him) and of those who are next to them, no. 2533.
 [^2]: Related by Ibn Majah, Introduction, Chapter on following the practice of the rightly guided Caliphs, no. 42.

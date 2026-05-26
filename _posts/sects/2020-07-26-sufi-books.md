@@ -1,32 +1,18 @@
 ---
 layout: post
-title: "Ruling on book of Deobandi Jama'at Tabligh entitled 'Tablighi Nisab'"
+title: "Ruling on book of Deobandi Jama'at Tabligh entitled Tablighi Nisab"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 20234"
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 20234"
 category: [sects]
-hijri: Dhul-Hijjah 5, 1441
+tags: [alifta]
+hijri: "Dhul-Hijjah 5, 1441"
 lang: en
-locale: en
-note: true
-uid: sufi-books
+translation: false
 summary: "Seeking the help of the dead for fulfilling needs of people is a major polytheistic act. Anyone who maintains other than that is committing major disbelief that drives him out of the pale of Islam."
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+group2: true
 ---
 
-Question: 
+### Question: 
 
 I am a Muslim man living in Britain and want to follow the way of Ahl-ul-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream) in all the affairs of my life. Accordingly, I tried to read some religious books written in the Urdu language. During my reading some books compiled by the renowned and prominent Indian scholar, who is a member of the Deobandis, Shaykh Muhammad Zakariyya Kandahlawy, a scholar of Hadith studies, I found that the fifth chapter of his book Tablighi Nisab, p. 113, containing a story the author quoted from the book entitled "Rawnaq Al-Majalis". It relates an account of a merchant who died and his wealth was distributed between his two sons. 
 
@@ -36,7 +22,7 @@ I have also read another book titled "The History of the Shaykhs of Jathat" by t
 
 I would like to hear Your opinions in this regard.Is the author who relates this story still a Muslim after the creed evidently manifested in his books? Kindly, clarify the point and substantiate your argument with the relevant evidence from the Qur'an and the Sunnah. If he is not considered a Muslim, then what is the evidence from the Qur'an and the Sunnah that he is a renegade?
 
-Answer:
+### Answer:
 
 The content these books impart like the accounts you mentioned in the question about the false innovations in religion and superstitions are groundless, for there is no evidence in their support in Allah's Book and the Sunnah of His Prophet. Only those of false nature and blind vision may adopt these beliefs. As for claiming that the Prophet's hair still exists and brings richness to whoever possesses it, and the claim of seeing the Prophet in dream and the advice the Prophet gave to supplicate by this man's grave, these are baseless lies. 
 
@@ -50,5 +36,5 @@ Furthermore, the authentic Hadith in this regard state that when a person dies, 
 
 Seeking the help of the dead for fulfilling needs of people is a major polytheistic act. Anyone who maintains other than that is committing major disbelief that drives him out of the pale of Islam, Allah forbid! Indeed, he denies the authentic evidence of the Qur'an and the Sunnah of the Prophet (peace be upon him). Therefore, anyone who does that must sincerely repent to Allah and resolve not to commit such acts again. He should follow the way of the early righteous Muslims to gain Allah's content and escape His punishment.
 
----
+
 [^1]: Al-Bukhari, Sahih, Book on knowledge, no. 110; Muslim, Sahih, Book on dreams, no. 2266; Al-Tirmidhy, Sunan, Book on dreams, no. 2280; Abu Dawud, Sunan, Book on manners, no. 5023; Ibn Majah, Sunan, Book on dream interpretation, no. 3901; and Ahmad, Musnad, vol. 5, p. 306.

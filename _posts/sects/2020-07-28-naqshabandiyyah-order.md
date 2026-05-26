@@ -1,36 +1,24 @@
 ---
 layout: post
-title: "Ruling on Naqshabandiyyah Order"
+title: "Ruling on Naqshabandiyyah Sufi Order"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 3934"
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa  no. 3934"
 category: [sects]
-hijri: Dhul-Hijjah 7, 1441
+tags: [alifta]
+hijri: "Dhul-Hijjah 7, 1441"
 lang: en
-locale: en
-note: true
-uid: naqshabandiyyah-order
+translation: false
 summary: "You should devote your attention to the Qur'an, reciting it regularly and contemplating its meanings, as the Qur'an is the root of all that is good. You should then attend to the Sunnah of the Prophet (peace be upon him)."
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+group6: true
 ---
 
-Question: 
+### Question: 
 
 I am seeking knowledge and Iman (Faith) that may please Allah and His Messenger (peace be upon him). Which Islamic books would you advise me to read to strengthen me, especially nowadays when there are many books that contain doubtful matters and falsehoods about the Din (religion)?
 
 Secondly: What is the ruling, in your understanding, on the Sufi Tariqahs (orders) in general, and the Naqshabandiyyah order in particular?
 
-Answer:
+### Answer:
 
 Firstly: You should devote your attention to the Qur'an, reciting it regularly and contemplating its meanings, as the Qur'an is the root of all that is good. You should then attend to the Sunnah of the Prophet (peace be upon him). We recommend the following books on Tawhid (monotheism): "Sharh Al-'Aqidah Al-Tahawiyyah", "Tat-hir Al-I'tiqad" by Al-San'any, "Al-Tawhid" by Ibn Khuzaymah, "Mukhtasar Al-Sawa'iq Al-Mursalah" by Al-Mawsily. "Kashf Al-Shubuhat" and "Al-Tawhid" by Shaykh Muhammad ibn 'Abdul-Wahab, "Al-'Aqidah Al-Wasitiyyah" by Ibn Taymiyyah, along with its commentaries, and also his two books: "Al-Hamawiyyah" and "Al-Tadmuriyyah." 
 

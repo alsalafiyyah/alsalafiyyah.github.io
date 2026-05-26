@@ -2,34 +2,22 @@
 layout: post
 title: "The followers of Sufism stance on their shaykhs"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatwas of the Permanent Committee of KSA no.21025-3"
+hijri: "Dhul-Qa'dah 20, 1441"
+date: 2020-07-11
+source: "Fatwas of the Permanent Committee of KSA, Fatwa no.21025, Question 3"
 category: [sects]
-note: true
+tags: [alifta]
 lang: en
-locale: en
-hijri: Dhul-Qa'dah 20, 1441
+translation: false
 summary: "It is the duty of a Muslim to follow what Allah (Exalted be He) has revealed to His Prophet (peace be upon him); the Qur'an and Sunnah which contain guidance and light. Adhere to them, understand their meanings, act according to them and bear harm for the sake of holding firm to the straight way of Allah (Exalted be He) to which the Prophet (peace be upon him) and his Companions used to hold."
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+group16: true
 ---
 
-Question: 
+### Question: 
 
 Some ignorant Sufis follow their Shaykhs in their error and immorality. The Sufi before his Shaykh is like a dead person before his washer to dispose of him as he wants supposing that the Shaykh is a Waliy (pious person) who must be followed because of His saying: "...and follow the path of him who turns to Me in repentance and in obedience." [Luqman: 15] The worst is that they claim to know the unseen and set the proofs to this by Allah's saying: "And they will never compass anything of His Knowledge except that which He wills." [al-Baqarah: 255] So how could we refute their claims? What is the correct explanation to these two Ayahs? 
 
-Answer: 
+### Answer: 
 
 It is the duty of a Muslim to follow what Allah (Exalted be He) has revealed to His Prophet (peace be upon him); the Qur'an and Sunnah which contain guidance and light. Adhere to them, understand their meanings, act according to them and bear harm for the sake of holding firm to the straight way of Allah (Exalted be He) to which the Prophet (peace be upon him) and his Companions used to hold. Allah (Exalted be He) says: "And verily, this (i.e. Allâh’s Commandments mentioned in the above two Verses 151 and 152) is My Straight Path, so follow it, and follow not (other) paths, for they will separate you away from His Path. This He has ordained for you that you may become Al-Muttaqûn (the pious - see V.2:2)." [al-An'am: 153] 
 

@@ -2,33 +2,21 @@
 layout: post
 title: "Ruling on Al-Habriyyah tariqah"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 3545"
+source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 3545"
 category: [sects]
-hijri: Dhul-Hijjah 7, 1441
+tags: [alifta]
+hijri: "Dhul-Hijjah 7, 1441"
 lang: en
-locale: en
-note: true
-uid: habriyyah-tariqah
+translation: false
 summary: "The only sound and truthful order is that which was introduced by the Prophet (peace be upon him) and followed by his Companions. Thus, the one who follows his example will be on the right path."
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+group1: true
 ---
 
-Question: 
+### Question: 
 
 What is the Shari'ah ruling on the two Tariqahs (Sufi orders) that are prevalent in Algeria called Al-Habriyyun. They were named after their grand shaykh Al-Habry, who is beloved by them. They believe that they alone are on the right path while other Muslims are in error. Is this Tariqah truthful?
 
-Answer:
+### Answer:
 
 The only sound and truthful order is that which was introduced by the Prophet (peace be upon him) and followed by his Companions. Thus, the one who follows his example will be on the right path. However, any order that was innovated after the Prophet (peace be upon him) are to be referred to the Shari'ah. In this way they will be authorized if they are in line with the Sunnah. Otherwise, they will be rejected.
 

@@ -1,33 +1,21 @@
 ---
 layout: post
-title: "Ruling on the Wirds of Al-Tijaniyyah, Al-Qadiriyyah and others"
+title: "Ruling on the Wirds of the Tijaniyyah, Qadiriyyah and others"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 6460-6"
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 6460, Question 6"
 category: [sects]
-hijri: Dhul-Hijjah 7, 1441
+tags: [alifta]
+hijri: "Dhul-Hijjah 7, 1441"
 lang: en
-locale: en
-note: true
-uid: rule-on-wirds-tijaniyyah-qadiriyyah
+translation: false
 summary: "It is better for Muslims to take Wird for themselves from the Qur'an and remember Allah with Dhikr reported from the Prophet (peace be upon him)."
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+group1: true
 ---
 
-Question: 
+### Question: 
 
 What is the ruling on the Wird (sayings recited with consistency) of the Tijaniyyah, Qadiriyyah and other Sufi Tariqahs (orders)?
 
-Answer:
+### Answer:
 
 Their Wirds are full of the Bid'ah (rejected innovations in religion) and innovated Dhikr (Remembrances of Allah) like other Sufi orders. It is better for Muslims to take Wird for themselves from the Qur'an and remember Allah with Dhikr reported from the Prophet (peace be upon him).

@@ -2,34 +2,25 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "The Quran is the Word of Allah and is not created"
-hijri: Muharram 27, 1446 AH
+title: "The Quran is the Words of Allah and not created"
+hijri: "Muharram 27, 1446 AH"
 date: 2024-08-02
 source: "Fatawa al-Lajnah ad-Da'imah, Fatwa no. 19022, Question 1"
+category: [sects]
+tags: [alifta]
+translation: false
 lang: en
-locale: en
-category: [fatwas,sects,refutals,hudud]
-note: false
 summary: "The difference between the two statements is that claiming that the Qur'an is created is a statement of disbelief that takes the Muslim out of Islam."
-article_taken_from: 
-  taken_from:
-    - web_title: الفرق بين قول لفظي بالقرآن مخلوق وقول القرآن مخلوق
-      web_url: https://al-fatawa.com/fatwa/104228
-muftis:
-  chairman: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz/
-  members: 
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-    - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan/
+link: "https://al-fatawa.com/fatwa/104228"
+group15: true
 --- 
 
 ### Question: 
+
 What is the difference between one who says: "My articulation of the Qur'an is created" and one who says: "The Qur'an is created" ?
 
 ### Answer: 
+
 The difference between the two statements is that claiming that the Qur'an is created is a statement of Kufr (disbelief) that takes the Muslim out of Islam. The authoritative Muslim ruler must ask such a person to repent; if he repents and desists from saying this, he is forgiven; otherwise, he is subject to capital punishment after presenting the truth to him. 
 
 Whoever claims this is similar to the heretics of pantheism, unionism, Al-Jahmiyyah (a deviant sect denying some Attributes of Allah, claiming they are ascribed to people and cannot be ascribed to Allah) and Al-Mu'tazilah (a deviant  sect claiming that those who commit major sins are in a state between belief and disbelief) who claimed that the Qur'an was created. Indeed, the Qur'an is Allah's Words, for speech is one of Allah's Attributes. He (Glorified be He) is characterized by all Perfect Attributes, and His Attributes are inherently inseparable from His Divine Self. 

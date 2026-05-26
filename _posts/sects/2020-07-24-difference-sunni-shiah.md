@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Difference between Ahlus-Sunnah and Shi'ah"
+title: "The Difference between Ahlus-Sunnah and Shiites"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 28/261"
 category: [sects]
-hijri: Dhul-Hijjah 3, 1441
-locale: en
+tags: [ibn-baz]
+hijri: "Dhul-Hijjah 3, 1441"
+translation: false
 lang: en
-note: false
 summary: "We should differentiate between Kafirs (disbelievers), Muslims, Shiites, and other sects. Shi'ah are Mubtadi's (those who introduce innovations in religion)."
 muftis:
   shaykh: 
@@ -15,11 +15,11 @@ muftis:
       url: /biography/binbaz/
 ---
 
-Question: 
+### Question: 
 
 What is the difference between Ahlus-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream) and Shi'ah (Shi'ites)?
 
-Answer: 
+### Answer: 
 
 There are differences between the two sects. Allah has neither created the people who do righteous deeds equal to those who commit evil deeds nor did He create the pious equal to the wicked people.
 

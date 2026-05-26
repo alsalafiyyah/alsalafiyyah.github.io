@@ -1,30 +1,20 @@
 ---
 layout: post
-title: "The creed of Barelwiyyah (Barelvis) Sufi Order"
+title: "On The creed of Barelvis Sufi Order"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 3090"
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 3090"
 category: [sects]
-hijri: Dhul-Hijjah 7, 1441
-locale: en
+tags: [alifta]
+hijri: "Dhul-Hijjah 7, 1441"
 lang: en
-note: true
-uid: barelwiyyah
+translation: false
 summary: "It is impermissible to offer Salah behind an Imam who adopts such beliefs. If the Ma'mum knows that the Imam adopts these beliefs, then the Salah of the former will not be valid."
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afify
-    - url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+group9: true
 ---
 
-Question: 
+### Question: 
 
-In Pakistan, there is an order known as [the Barelvis (Bareilwi)](/sufism/) or the order of Nawary, as named after its current leader Nuwary. I ask Your Eminence about the ruling of Shari'ah (Islamic law) on this order, its beliefs and the validity of offering Salah (Prayer) behind one of its members. May your answer relieve many confused hearts that are unaware of the truth! I again remind you of some of their common myths and beliefs, which are:
+In Pakistan, there is an order known as the Barelvis (Bareilwi) or the order of Nawary, as named after its current leader Nuwary. I ask Your Eminence about the ruling of Shari'ah (Islamic law) on this order, its beliefs and the validity of offering Salah (Prayer) behind one of its members. May your answer relieve many confused hearts that are unaware of the truth! I again remind you of some of their common myths and beliefs, which are:
 
 1. Believing that the Messenger (peace be upon him) is alive
 2. Believing that the Messenger (peace be upon him) knows the Ghayb (unseen) and is present, especially after the Jumu'ah (Friday) Prayer
@@ -44,7 +34,7 @@ In Pakistan, there is an order known as [the Barelvis (Bareilwi)](/sufism/) or t
 
 It is worth mentioning that I am a medical school student, living in Karachi near a Masjid subject to the supervision of the Barelvi order.
 
-Answer:
+### Answer:
 
 It is impermissible to offer Salah behind an Imam who adopts such beliefs. If the Ma'mum knows that the Imam adopts these beliefs, then the Salah of the former will not be valid. Most of these beliefs entail Kufr (disbelief) and Bid'ah (rejected innovations in religion). They also contradict Tawhid (belief in the Oneness of Allah), which Allah revealed to His Messengers and in His Books, and are incongruous with the plain texts of the Qur'an. For example, Allah (Glorified be He) says: "**Verily you (O Muhammad صلى الله عليه وسلم) will die, and verily they (too) will die**" [al-Zumar: 30]
 
