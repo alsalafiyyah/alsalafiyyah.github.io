@@ -13,10 +13,10 @@ active: tag
     
     <a id="next-link" href="#" class="text-sm font-black uppercase tracking-widest hover:line-through invisible">Older →</a>
 </nav>
+
 <script id="fatwa-data" type="application/json">
 [
-  {% assign tag_posts = site.posts | where_exp: "post", "post.tags contains page.tags" %}
-  
+  {% assign tag_posts = site.posts | where_exp: "post", "post.tags contains page.tag" %}
   {% for post in tag_posts %}
     {
       "title": {{ post.title | jsonify }},
