@@ -6,6 +6,7 @@ hijri: "Safar 29, 1446"
 source: "Gharatul Ashritah 2/291"
 date: 2024-09-02
 category: [fatwas,audios]
+tags: [muqbil-ibn-hadi]
 active: audios
 summary: "Takfir of a particular individual who commits what would necessitate disbelief due to it, then there is nothing wrong in making takfir of him."
 translated_by: "Abu Hatim Muhammad Faruq"

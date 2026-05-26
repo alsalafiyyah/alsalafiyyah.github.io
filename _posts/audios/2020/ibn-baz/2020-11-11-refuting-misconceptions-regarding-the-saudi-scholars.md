@@ -5,6 +5,7 @@ title: "Refuting Misconceptions Regarding the Scholars of Saudi Arabia and the F
 hijri: "Rabi' Al-Awwal 25, 1442"
 date: 2020-11-11
 category: [fatwas,audios,manhaj]
+tags: [ibn-baz]
 mp3: "https://alsalafiyyah.github.io/assets/audios/saudia-scholars-wahhabis.mp3"
 link: http://www.albaseerah.org/forum/showpost.php?p=14449&postcount=9
 translated_by: Albaseerah

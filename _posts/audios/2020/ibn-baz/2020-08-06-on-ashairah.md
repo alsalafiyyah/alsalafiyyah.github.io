@@ -11,6 +11,7 @@ note: false
 locale: en
 active: audios
 category: [audios, sects]
+tags: [ibn-baz]
 summary: "Is the sect of Asha'irah (a Muslim group that bases its creedal issues on logic) part of Ahl-ul-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream)? Please provide an explanation. "
 muftis:
   shaykh: 

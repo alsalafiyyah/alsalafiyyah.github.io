@@ -9,6 +9,7 @@ lang: en
 locale: en
 active: audios
 category: [terminology,fatwas,audios]
+tags: [ibn-baz]
 url: http://www.binbaz.org.sa/mat/10479
 summary: "Repentance is regret for what has passed, giving it up, and resolving not to go back to it. This is called repentance. As for praying for forgiveness, it may be repentance or it may be mere words."
 muftis:

@@ -7,6 +7,7 @@ hijri: Muharram 27, 1446 AH
 date: 2024-08-18
 active: audios
 category: [fatwas,audios,palestine,non-muslim]
+tags: [albani]
 source: "Silsilat Al-Huda wa an-Noor 623"
 summary: "If they are at war, then it is not permissible to have dealings with them, whether that is in the country they have invaded or occupied, such as the Jews in Palestine, or in their own state."
 mp3: "https://alathar.net//home/esound/index.php?op=stream&co=486&cntid=5496&ftype=1"

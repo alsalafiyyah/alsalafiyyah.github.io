@@ -12,6 +12,7 @@ note: false
 locale: en
 active: audios
 category: [audios, sects]
+tags: [ibn-baz]
 type: audios
 summary: "Sufism has different branches, and its followers are, mostly, Mubtadi's. They have invocations and acts of worship that have no basis in the Qur'an or the Sunnah. One of the Sufis is Ibn 'Arabi."
 muftis:

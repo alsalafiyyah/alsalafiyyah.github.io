@@ -7,6 +7,7 @@ hijri: "Rabi' Al-Thani 05, 1442"
 date: 2020-11-20
 active: audios
 category: [fatwas,audios,sects]
+tags: [ibn-baz]
 url: "https://binbaz.org.sa/fatwas/17747/%D8%A7%D9%84%D8%AD%D9%83%D9%85-%D8%B9%D9%84%D9%89-%D9%85%D9%86-%D9%8A%D8%AF%D8%B9%D9%8A-%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%BA%D9%8A%D8%A8"
 summary: "This man must be reported to the responsible authorities, if there is an authority in the country responsible for such cases, so that he may be deterred from his evil actions and held accountable."
 muftis:

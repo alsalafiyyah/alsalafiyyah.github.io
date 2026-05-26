@@ -11,6 +11,7 @@ locale: en
 active: audios
 type: audios
 category: [audios, sects]
+tags: [ibn-baz]
 summary: "Sufi orders are newly-invented ways in Islam, which fall under Bid'ah (innovation in religion) whose seriousness varies from group to group. Some are worse than others."
 muftis:
   shaykh: 

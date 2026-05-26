@@ -7,6 +7,7 @@ hijri: Safar 19, 1446 AH
 date: 2024-08-23
 active: audios
 category: [fatwas,audios,palestine]
+tags: [albani]
 summary: "We are upon certainty that the Jews will not have permanency in Palestine."
 mp3: "https://phaven-prod.s3.amazonaws.com/files/audio_part/asset/3185610/NT0gkf1R8df0NCrEqxIQs-o0abs/Jewish_Occupation_of_Jerusalem.mp3"
 translated_by: Rasheed ibn Estes Barbee

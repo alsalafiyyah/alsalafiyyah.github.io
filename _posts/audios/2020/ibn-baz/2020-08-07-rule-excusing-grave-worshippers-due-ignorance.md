@@ -12,6 +12,7 @@ note: false
 locale: en
 active: audios
 category: [fatwas,audios,sects]
+tags: [ibn-baz]
 summary: "Are those who worship graves excused because of their ignorance, even though among them are people calling to Tawhid (belief in the Oneness of Allah/ monotheism)?"
 muftis:
   shaykh: 

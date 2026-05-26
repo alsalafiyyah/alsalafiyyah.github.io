@@ -8,6 +8,7 @@ hijri: Dhul-Hijjah 18, 1441
 date: 2020-08-08
 lang: en
 category: [fatwas,audios]
+tags: [ibn-baz]
 active: audios
 locale: en
 summary: "It is obligatory that the scholars guide people to the reality of Tawhid (belief in the Oneness of Allah/monotheism) and the reality of Shirk (associating others with Allah in His Divinity or worship), so that these blinded lay people know the falsity of their beliefs."

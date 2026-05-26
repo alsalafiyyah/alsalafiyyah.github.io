@@ -10,6 +10,7 @@ note: false
 locale: en
 active: audios
 category: [fatwas,audios,manhaj]
+tags: [ibn-baz]
 summary: "Shaykh Muhammad ibn Abdul-Wahhab is of the scholars of Sunnah and the scholars of the people of truth. His Da'wah is not a fifth Madhab, rather it is a Da'wah to the creed of the Salaf."
 muftis:
   shaykh: 

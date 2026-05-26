@@ -13,6 +13,7 @@ locale: en
 type: audios
 active: audios
 category: [audios, sects]
+tags: [ibn-baz]
 summary: These Sufi orders are all null and void. All these orders are mere cults and lies. In fact, such people neither stab nor cut themselves.
 muftis:
   chairman: 

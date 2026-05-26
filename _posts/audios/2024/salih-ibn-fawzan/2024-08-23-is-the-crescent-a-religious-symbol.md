@@ -9,6 +9,7 @@ lang: en
 translated: false
 active: audios
 category: [audios]
+tags: [salih-ibn-fawzan]
 note: false
 summary: "This is a custom they adopted, and it has no basis in religion."
 mp3: "https://phaven-prod.s3.amazonaws.com/files/audio_part/asset/3008953/1Aok-km1hvB25V732Imy-1CO8cU/Crescent_is_not_Islamic_symbol.mp3"

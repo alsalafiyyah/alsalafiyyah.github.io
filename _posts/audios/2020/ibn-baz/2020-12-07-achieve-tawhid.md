@@ -6,6 +6,7 @@ mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_595/59
 hijri: Rabi'ul-Awwal 22, 1442
 date: 2020-12-07
 category: [fatwas,audios]
+tags: [ibn-baz]
 lang: en
 locale: en
 active: audios

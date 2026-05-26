@@ -6,6 +6,7 @@ mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_168/16
 hijri: Rabi' Al-Awwal 28, 1442
 date: 2020-11-14
 category: [fatwas,sahabah,audios]
+tags: [ibn-baz]
 lang: en
 locale: en
 active: audios

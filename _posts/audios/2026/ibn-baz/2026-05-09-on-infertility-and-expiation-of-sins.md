@@ -6,6 +6,7 @@ hijri: "Dhu al-Qidah 22, 1447 AH"
 title: "On Infertility and the Expiation of Sins"
 source: "Fatawa Nur ala ad-Darb 122 no. 12202"
 category: [fatwas,audios,women]
+tags: [ibn-baz]
 link: "https://binbaz.org.sa/fatwas/6430/%D9%85%D8%A7-%D8%B5%D8%AD%D8%A9-%D8%AD%D8%AF%D9%8A%D8%AB-%D9%85%D8%A7-%D8%A7%D8%B5%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D9%88%D9%85%D9%86-%D9%85%D9%86-%D9%87%D9%85-%D9%88%D9%85%D8%A7-%D9%85%D8%B9%D9%86%D8%A7%D9%87"
 mp3: "https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_122/12202.mp3"
 summary: "There is no doubt that infertility is among the calamities; therefore, it is something through which sins are expiated."

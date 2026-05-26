@@ -8,6 +8,7 @@ lang: en
 translated: false
 active: audios
 category: [audios,fatwas]
+tags: [ibn-uthaymeen]
 source: "Fatawa Nur ala ad-Darb, tape no.258"
 link: "https://binothaimeen.net/s/h1KCxuef"
 summary: "It is not proper to place crescents atop minarets due to this resemblance, and because of the waste of wealth and time it entails."

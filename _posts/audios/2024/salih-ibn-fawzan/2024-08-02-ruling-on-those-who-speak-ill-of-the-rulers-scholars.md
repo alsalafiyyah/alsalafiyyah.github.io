@@ -7,6 +7,7 @@ hijri: "Muharram 27, 1446 AH"
 date: 2024-08-02
 active: audios
 category: [fatwas,audios,rulership,sects]
+tags: [salih-ibn-fawzan]
 summary: "These people fall into two categories: Either they are Kharijites who promote the ideology of the Khawarij"
 mp3: https://www.alfawzan.af.org.sa/sites/default/files/6594.mp3
 muftis:

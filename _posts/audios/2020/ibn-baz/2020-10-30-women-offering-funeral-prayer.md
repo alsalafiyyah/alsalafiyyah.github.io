@@ -10,6 +10,7 @@ locale: en
 active: audios
 output: html_document
 category: [fatwas,audios,funerals]
+tags: [ibn-baz]
 url: "https://binbaz.org.sa/fatwas/17061/%D8%AD%D9%83%D9%85-%D8%B5%D9%84%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%B2%D8%A9"
 summary: "Yes, generally, it is Mashru' (Islamically prescribed) for any Muslim to offer Janazah Prayer, whether they are a man or a woman. A woman can join the Janazah Prayer in the Masjid (mosque), or offer it at home."
 muftis:

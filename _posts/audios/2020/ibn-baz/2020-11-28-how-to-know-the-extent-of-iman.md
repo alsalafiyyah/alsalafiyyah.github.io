@@ -6,6 +6,7 @@ mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_596/59
 hijri: "Rabi' Al-Thani 13, 1442"
 date: 2020-11-28
 category: [fatwas,audios]
+tags: [ibn-baz]
 lang: en
 locale: en
 active: audios

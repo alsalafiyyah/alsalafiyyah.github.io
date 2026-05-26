@@ -9,6 +9,7 @@ note: false
 locale: en
 active: audios
 category: [fatwas,audios]
+tags: [ibn-baz]
 url: "https://binbaz.org.sa/fatwas/15107/%D9%85%D8%A7-%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D8%A8%D8%A7%D9%84%D9%82%D9%81%D8%A7%D8%B2%D9%8A%D9%86"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_581/58121.mp3
 summary: "There is nothing wrong with this. Wearing gloves is similar to wearing Khuffs (leather socks). All praise is due to Allah for this."

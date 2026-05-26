@@ -6,6 +6,7 @@ hijri: "Safar 19, 1446 AH"
 date: 2024-08-23
 active: audios
 category: [audios,palestine]
+tags: [salih-ibn-fawzan]
 summary: "The gathering of Jews in Palestine is among the signs of the Hour, for they gather in the end of times in Palestine awaiting the Antichrist."
 mp3: "https://phaven-prod.s3.amazonaws.com/files/audio_part/asset/3079625/jdiTTiQGyg64LklAeVfYJ5jASPQ/The_Jews_assembling_in_Palestine_is_a_sign_of_the_Day_of_Judgment.mp3"
 muftis:

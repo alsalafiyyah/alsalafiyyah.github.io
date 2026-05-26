@@ -8,6 +8,7 @@ hijri: "Rabi' Al-Awwal 22, 1442"
 date: 2020-12-07
 active: audios
 category: [fatwas,audios,manhaj]
+tags: [ibn-baz]
 url: "https://binbaz.org.sa/fatwas/18125/%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85-%D9%84%D8%B9%D9%82%D9%8A%D8%AF%D8%AA%D9%87"
 summary: "By gaining a deep understanding of the religion, seeking insight, and learning until they know the creed and can preserve it."
 muftis:
