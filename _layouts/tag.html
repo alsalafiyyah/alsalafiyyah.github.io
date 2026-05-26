@@ -6,8 +6,8 @@ active: tag
 
 {% assign current_tag = page.tag %}
 
-    <div class="text-[10px] font-black uppercase tracking-widest bg-black text-white dark:bg-white dark:text-black px-2 py-0.5 tabular-nums">
-        {{ site.tags[current_tag] | size | default: 0 }} Posts
+    <div class="text-[10px] font-black uppercase tracking-widest bg-black text-white dark:bg-white dark:text-black px-2 py-0.5 tabular-nums mb-5">
+        {{ site.tags[current_tag] | size | default: 0 }} Entries
     </div>
 
 <div id="fatwa-container"></div>
