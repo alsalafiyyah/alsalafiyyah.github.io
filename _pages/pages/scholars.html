@@ -18,3 +18,15 @@ summary: "Scholars of the Sunnah"
         </li>
     </ul>
 </div>
+
+
+<div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+    {% for tag in site.tags %}
+    <!-- tag[0] is the tag name/slug, tag[1] is the array of posts -->
+    <a href="{{ '/authors/' | relative_url }}{{ tag[0] }}/" 
+       class="border-2 border-black dark:border-white p-4 flex justify-between items-center bg-white dark:bg-zinc-950 hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-colors">
+        <span class="text-xs font-black uppercase tracking-tight">{{ tag[0] | replace: '-', ' ' }}</span>
+        <span class="text-[10px] font-mono opacity-60 tabular-nums">[{{ tag[1] | size }}]</span>
+    </a>
+    {% endfor %}
+</div>
