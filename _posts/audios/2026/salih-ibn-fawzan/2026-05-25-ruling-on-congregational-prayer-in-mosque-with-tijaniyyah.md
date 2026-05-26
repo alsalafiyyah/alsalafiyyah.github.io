@@ -4,6 +4,7 @@ publisher: alsalafiyyah@icloud.com
 date: 2026-05-25
 title: "Ruling on Congregational Prayer in Mosque with Tijaniyyah Sufi Order"
 category: [fatwas,audios,sects]
+tags: [salih-fawzan]
 mp3: "https://audio.alfawzan.live/2019-12/18_0.mp3"
 url: "https://alfawzan.live/content/18235/"
 source: "Fatwa No. 18235"

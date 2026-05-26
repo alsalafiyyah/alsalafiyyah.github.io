@@ -5,6 +5,7 @@ date: 2026-04-28
 hijri: "Dhu al-Qidah 11, 1447 AH"
 title: "Justice vs. Disavowal: Dealing with Non-Muslims"
 category: [fatwas,audios,non-muslim,walabara]
+tags: [salih-fawzan]
 mp3: "/assets/audios/wisdom-over-revenge.mp3"
 active: audios
 summary: "We do not love the polytheists or the disbelievers, but we do not treat them unjustly without right."
