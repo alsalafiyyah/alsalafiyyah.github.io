@@ -5,6 +5,7 @@ title: "Duty Toward Palestine: A Call to Repentance and Return to Faith"
 hijri: "Dhu al-Qidah 13, 1447 AH"
 date: 2026-04-30
 category: [fatwas,videos,palestine]
+tags: [salih-fawzan]
 active: videos
 summary: "They must rectify their souls, repent to Allah, return to their religion, and establish the Sharia (Law) of their Lord."
 videoURL: "https://youtu.be/CIU4ZNqJ144"

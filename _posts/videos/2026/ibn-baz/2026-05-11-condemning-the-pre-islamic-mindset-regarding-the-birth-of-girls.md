@@ -6,6 +6,7 @@ title: "Condemning the Pre-Islamic Mindset Regarding the Birth of Girls"
 hijri: "Dhu al-Qidah 24, 1447 AH"
 date: 2026-05-11
 category: [fatwas,videos,women]
+tags: [ibn-baz]
 active: videos
 lang: en
 translation: true

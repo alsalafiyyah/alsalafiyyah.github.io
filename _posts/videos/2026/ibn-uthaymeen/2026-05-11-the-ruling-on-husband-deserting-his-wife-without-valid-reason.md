@@ -6,6 +6,7 @@ title: "The ruling on a husband deserting his wife without a valid reason"
 hijri: "Dhu al-Qidah 24, 1447 AH"
 date: 2026-05-11
 category: [fatwas,videos,women]
+tags: [ibn-uthaymeen]
 active: videos
 translation: true
 lang: en
