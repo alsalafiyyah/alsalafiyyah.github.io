@@ -68,6 +68,7 @@ Therefore, the favored generations are the Righteous Predecessors (al-Salaf al-S
 - [The Foundations and Principles of the Salafi Call](/the-origins-and-principles-of-the-salafi-dawah) - Permanent Committee
 - [What is meant by the Salafi Methodology?](/what-is-meant-by-the-salafi-methodology) - Shaykh Salih al-Fawzan
 - [Is it correct to use the term 'Salafiyyah' in this day and age?](/audios/is-it-correct-to-use-the-term-salafiyyah) - Shaykh Ibn 'Uthaymeen
+- [Ruling on disbelieving in Salafiyyah](/audios/rule-on-disbelieving-in-salafiyyah/) - Shaykh Abdul-Muhsin al-Abbad
 
 ---
 
