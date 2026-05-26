@@ -69,12 +69,14 @@ footer_navigation:
     url: /ar/
 
 external_links:
-  - name: "Shaykh Ibn Baz"
+  - name: "Shaykh Abdul-Aziz ibn Baz"
     url: "https://binbaz.org.sa/"
-  - name: "Shaykh Salih al-Fawzan"
+  - name: "Shaykh Salih ibn Fawzan al-Fawzan"
     url: "https://alfawzan.live/"
-  - name: "Shaykh Ibn al-'Uthaymeen"
+  - name: "Shaykh Muhammad ibn Salih al-'Uthaymeen"
     url: "https://binothaimeen.net/"
+  - name: "Shaykh Abdul-Razzaq ibn Abdul-Muhsin al-Badr"
+    url: "https://www.al-badr.net/"
 
 # Site Elements
 site_elements:
