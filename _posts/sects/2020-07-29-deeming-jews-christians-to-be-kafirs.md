@@ -1,28 +1,19 @@
 ---
 layout: post
-title: "Deeming Jews and Christians, who do not believe in Muhammad, to be disbelievers"
+title: "Rule on Deeming Jews and Christians to be disbelievers"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 6505, Question 14"
 category: [non-muslim]
-hijri: Dhul-Hijjah 8, 1441 AH
+hijri: "Dhul-Hijjah 8, 1441 AH"
 summary: "What is the ruling of Islam on the Jews and the Christians, for example, to whom the message of Prophet Muhammad (peace be upon him) has been conveyed."
 lang: en
-locale: en
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+translation: false
+tags: [alifta]
+group1: true
 ---
 
 ### Question: 
+
 What is the ruling of Islam on the Jews and the Christians, for example, to whom the message of Prophet Muhammad (peace be upon him) has been conveyed; so they know about it but they do not follow it and follow their own religions instead?
 
 ### Answer:

@@ -2,27 +2,18 @@
 layout: post
 title: "Evidence on the invalidity of the Christian creed"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 16953-5"
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 16953, Question 5"
 category: [non-muslim,walabara]
-hijri: Dhul-Hijjah 8, 1441 AH
+hijri: "Dhul-Hijjah 8, 1441 AH"
 lang: en
-locale: en
+translation: false
+tags: [alifta]
 summary: "Christianity was distorted and beliefs of Shirk invaded it, such as believing that Jesus Christ is Allah's Son, Allah Himself, or the third Ilah (God). It is a false religion."
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Aziz Aal al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+group13: true
 ---
 
 ### Question: 
+
 What is the evidence on the invalidity of the Christian 'Aqidah (creed)?
 
 ### Answer:

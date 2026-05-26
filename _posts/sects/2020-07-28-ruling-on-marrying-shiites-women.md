@@ -1,35 +1,24 @@
 ---
 layout: post
-title: "Ruling on marrying from those who invoke Al-Hasan, Al-Husayn and 'Aly apart from Allah"
+title: "Ruling on marrying from those who invoke Al-Hasan, Al-Husayn and 'Ali apart from Allah"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 3008-1"
+source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 3008, Question 1"
 category: [sects]
-hijri: Dhul-Hijjah 7, 1441
-locale: en
+hijri: "Dhul-Hijjah 7, 1441"
 lang: en
-note: true
+translation: false
+tags: [alifta]
 summary: "It is not permissible to allow them to marry Muslim women, and it is not permissible for us to marry their women, or to eat the meat of their sacrificed animals. "
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah Ibn Qa'ud
-      url: /biography/qaud/
+group1: true
 ---
 
-Question: 
+### Question: 
 
 We are from a tribe living on the northern borders (of Saudi Arabia), and we mix with tribes from Iraq . Those people are idolatrous Shiites who worship shrines and call them Al-Hasan, Al-Husayn and 'Ali. When one of them stands up he says: O 'Aly, O Husayn. 
 
 Some people from our tribe have intermarried with them and mix with them in all circumstances. We have tried to teach them but they do not listen. I do not have enough knowledge to teach them but I hate what they do, and I do not mix with them. I have heard that we cannot eat the meat of their sacrificed animals, but some people eat their meat and do not care. Could you please clarify this matter for us?
 
-Answer:
+### Answer:
 
 If the situation is as you have mentioned, and those people invoke 'Ali, Al-Hasan and Al-Husayn, and the like, then they are committing major Shirk (associating others with Allah in His Divinity or worship), which takes them out of Islam. It is not permissible to allow them to marry Muslim women, and it is not permissible for us to marry their women, or to eat the meat of their sacrificed animals. 
 

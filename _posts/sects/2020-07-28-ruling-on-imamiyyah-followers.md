@@ -4,6 +4,7 @@ title: "Ruling on the followers of Al-Imamiyyah"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 9247, Question 2"
 category: [sects]
+tags: [alifta]
 hijri: "Dhul-Hijjah 7, 1441"
 lang: en
 translation: false

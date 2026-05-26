@@ -2,25 +2,18 @@
 layout: post
 title: "Islam's attitude towards the People of the Book"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 1412"
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 1412"
 category: [non-muslim]
-hijri: Dhul-Hijjah 8, 1441 AH
+hijri: "Dhul-Hijjah 8, 1441 AH"
 lang: en
-locale: en
+translation: false
+tags: [alifta]
 summary: "The origin of the doctrines with which prophets and messengers were sent is one. Allah revealed scriptures that contained these doctrines to them."
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
+group6: true
 ---
 
-### Question: 
+### Question:
+
 Allah (Exalted be He) says: "And whoever seeks a religion other than Islâm, it will never be accepted of him" [Aal Imran: 85]
 
 Allah also says: "Truly, the religion with Allâh is Islâm." [Aal Imran: 19]
