@@ -6,6 +6,7 @@ hijri: "Dhu al-Qidah 24, 1447 AH"
 date: 2026-05-11
 source: "Fath dhi al-Jalali wa al-Ikram bi Sharh Bulugh al-Maram 4/566"
 category: [fatwas,women]
+tags: [ibn-uthaymeen]
 summary: "The woman certainly has a right to request intercourse, but it is not identical to the right of the man; for he is the one who holds the primary prerogative in this matter."
 muftis:
   shaykh: 
