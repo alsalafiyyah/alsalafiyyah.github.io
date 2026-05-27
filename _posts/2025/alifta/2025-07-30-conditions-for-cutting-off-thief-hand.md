@@ -5,9 +5,11 @@ title: "What are the conditions of cutting off a thief's hand?"
 date: 2025-07-30
 hijri: "Safar 5, 1447 AH"
 source: "Fatawa Al-Lajnah Ad-Da'imah, Question 5, Fatwa No. 17627"
-category: [fatwas, hudud]
+category: [rulership]
+tags: [alifta]
+lang: en
+translation: false
 summary: "That the conviction of the thief is proven before the judge by the testimony of two male 'Adl (of upright character) witnesses or by the confession of the thief."
-author: "Permanent Committee of KSA"
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz
@@ -21,10 +23,12 @@ muftis:
       url: /biography/zayd/
 ---
 
-### Question
+### Question:
+
 What are the conditions of cutting off a thief's hand? 
 
 ### Answer:
+
 Nine conditions have to be met before cutting off the hand of a thief:
 1. The existence of an incidence of theft i.e. stealing while concealing oneself. Thus the hand is not to be cut off for snatching.
 2. That the thief is Mukallaf (person meeting the conditions to be held legally accountable for their actions). Accordingly, no Hadd (ordained punishment for violating Allah’s Law) is to be applied to a child or a mad person.

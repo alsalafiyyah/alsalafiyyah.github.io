@@ -5,21 +5,12 @@ title: "Refuting misconceptions concerning the eternity of Allah's Words"
 date: 2025-07-29
 hijri: "Safar 4, 1447 AH"
 source: "Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 3239, Question 4"
-category: [fatwas, quran]
+category: [quran]
+tags: [alifta]
+lang: en
+translation: false
 summary: "The Qur’an is the Speech of Allah; it was not created. 'Isa (peace be upon him) is a human being who was given birth to by Maryam bint 'Imran. Thus, the Qur’an is better."
-author: "Permanent Committee of KSA"
-muftis:
-  chairman: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+group1: true
 ---
 
 ### Question
@@ -34,5 +25,5 @@ As for describing the Words of Allah as "ancient," neither the Sahabah (Companio
 
 May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
 
----
+
 [^1]: Musnad Imam Ahmad (4/256 ، 377), Al-Bukhari (Fath al-Bari no. 1413 ، 1417 ، 3595 ، 6023 ، 6539 ، 6540 ، 6563 ، 7443 ، 7512), Muslim (1016), at-Thirmidi (2417), Ibn Majah (173)
