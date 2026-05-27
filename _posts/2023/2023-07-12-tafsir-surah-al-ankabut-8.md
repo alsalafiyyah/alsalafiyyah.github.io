@@ -4,11 +4,11 @@ published: true
 title: "Tafsir Surat Al-Ankabut Ayat 8"
 publisher: "alsalafiyyah@icloud.com"
 source: "Tafsir Ibn Kathir 6/264-265"
-hijri: Dhul-Hijjah 24, 1444
+hijri: "Dhul-Hijjah 24, 1444"
+tags: [ibn-kathir]
 lang: en
-note: false
-locale: en
-category: [quran, tafsir]
+translation: false
+category: [quran]
 summary: "And We have enjoined on man to be good and dutiful to his parents; but if they strive to make you join with Me (in worship) anything (as a partner) of which you have no knowledge, then obey them not."
 muftis:
   shaykh: 

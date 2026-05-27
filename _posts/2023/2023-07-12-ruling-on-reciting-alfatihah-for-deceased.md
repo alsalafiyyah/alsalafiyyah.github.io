@@ -2,10 +2,12 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Ruling on reciting Al-Fatihah for the deceased when visiting his grave"
-hijri: Dhul-Hijjah 24, 1444 AH
+hijri: "Dhul-Hijjah 24, 1444 AH"
 source: "Majmu' 13/340-341"
-lang: en
 category: [bidah, funerals]
+tags: [ibn-baz]
+lang: en
+translation: false
 note: false
 summary: "There is no report that the Prophet ﷺ recited a surah of the Qur’an or any verses thereof for the dead, even though he visited them often."
 muftis:
@@ -14,11 +16,11 @@ muftis:
       url: /biography/binbaz/
 --- 
 
-Question: 
+### Question: 
 
 Is it permissible to read Al-Fatihah or anything from the Qur’an for the deceased when visiting his grave, and does that benefit him? 
 
-Answer: 
+### Answer: 
 
 It is proven that the Prophet ﷺ used to visit graves, and he would recite du’as (supplications) for the dead that he taught to his Companions and they learned them from him. For example: **“Al-salamu ‘alaykum ahl al-diyar min al-mu’minin wa’l-Muslimin, wa inna in sha Allah bikum lahiqun, nas’al Allaha lana wa lakum al-‘afiyah (Peace be upon you, O people of the dwellings, believers and Muslims. If Allah wills we will join you. We ask Allah to grant us and you safety).”** 
 

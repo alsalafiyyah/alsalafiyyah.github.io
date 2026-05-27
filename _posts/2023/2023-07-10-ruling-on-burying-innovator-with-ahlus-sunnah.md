@@ -6,6 +6,9 @@ source: "Majmu' Fatawa Wa Rasa'il 17/215"
 date: 2023-07-10
 hijri: "Dhul-Hijjah 22, 1444 AH"
 category: [funerals]
+tags: [ibn-uthaymeen]
+lang: en
+translation: false
 summary: "If the innovator is a disbeliever because of his bid'ah, then it is not permissible to bury him in the Muslim graveyard, because the kafir should be buried separately from the Muslims."
 muftis:
   shaykh: 

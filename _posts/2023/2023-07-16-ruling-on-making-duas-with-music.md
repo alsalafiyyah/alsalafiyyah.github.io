@@ -4,10 +4,12 @@ title: "The ruling on supplications accompanied by music"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da’imah 26/227-228, Fatwa no. 6914, Question 14"
 date: 2023-07-16
-hijri: Dhul-Hijjah 28, 1444
+hijri: "Dhul-Hijjah 28, 1444"
 summary: "If the supplications are tinged with bid'ah, this is even worse, for it combines amusement and heresy."
-category: [fatwas,bidah,music]
-author: "Permanent Committee of KSA"
+category: [bidah,music]
+tags: [alifta]
+translation: false
+lang: en
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz

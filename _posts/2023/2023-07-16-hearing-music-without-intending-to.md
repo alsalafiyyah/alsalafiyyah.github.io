@@ -5,7 +5,10 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da’imah 26/238, Fatwa no.9259, Question 3"
 date: 2023-07-16
 hijri: "Dhul-Hijjah 28, 1444 AH"
-category: [fatwas,music]
+category: [music]
+tags: [alifta]
+translation: false
+lang: en
 summary: "Listening to songs is not permissible. As for hearing them without intending to, as happens in the street or on television, then we hope that there is nothing wrong with it."
 author: "Permanent Committee of KSA"
 muftis:

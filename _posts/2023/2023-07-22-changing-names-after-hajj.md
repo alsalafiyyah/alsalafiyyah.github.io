@@ -1,13 +1,15 @@
 ---
 layout: post
-title: Ruling on Changing Names after Hajj
+title: "Ruling on Changing Names after Hajj"
 publisher: alsalafiyyah@icloud.com
 source: "Fatawa Al-Lajnah Al-Da’imah, Fatwa no. 3323, Question 9"
 date: 2023-07-22
-hijri: Muharram 04, 1445
-category: [fatwas,hajj]
+hijri: "Muharram 04, 1445"
+category: [hajj]
+tags: [alifta]
+translation: false
+lang: en
 summary: "What is the ruling on a person changing their name like most of the Indonesian pilgrims do? Indonesians are used to changing their names when they go to Makkah Al-Mukarramah"
-author: "Permanent Committee of KSA"
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz

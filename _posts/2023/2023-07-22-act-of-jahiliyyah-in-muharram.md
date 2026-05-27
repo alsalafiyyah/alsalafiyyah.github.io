@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Act of Jahiliyyah in Muharram
+title: "Act of Jahiliyyah in Muharram"
 publisher: alsalafiyyah@icloud.com
-source: Fatawa Al-Lajnah Al-Da'imah, Question 3
-hijri: Muharram 4, 1445 AH
-date: 2023/07/22
-note: true
+source: "Fatawa Al-Lajnah Al-Da'imah, Question 3"
+hijri: "Muharram 4, 1445 AH"
 category: [bidah]
+tags: [alifta]
+translation: false
+lang: en
 summary: This habit is an invented practice from Jahiliyyah and it is not permissible for a Muslim to do it.
 muftis:
   chairman: 
