@@ -9,12 +9,8 @@ summary: "Find fatwas by Scholars of the Sunnah."
     <span>Scholars:</span>
     <ul class="w-full">
     {% for tag in site.tags %}
-        <!-- 1. Find the file in your collection where tag matches the current slug loop -->
         {% assign scholar_page = site.tag | where: "tag", tag[0] | first %}
-        
-        <!-- 2. Fall back to the cleaned slug if you haven't created the file yet -->
         {% assign formal_title = scholar_page.title | default: (tag[0] | replace: '-', ' ') %}
-
         <li class="border-b border-black/10 dark:border-white/10 py-1.5 hover:opacity-70 transition-opacity">
             <a href="{{ '/scholars/' | relative_url }}{{ tag[0] }}/" class="flex justify-between items-center w-full">
                 <!-- Displays "Permanent Committee" instead of "alifta" -->
