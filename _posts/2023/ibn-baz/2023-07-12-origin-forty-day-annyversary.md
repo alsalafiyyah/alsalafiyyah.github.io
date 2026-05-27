@@ -5,7 +5,7 @@ title: "What is the origin of the forty-day anniversary?"
 hijri: Dhul-Hijjah 24, 1444 AH
 source: "Majmu’ Fatawa 13/398"
 category: [bidah,funerals]
-tags: [ibn-Baz]
+tags: [ibn-baz]
 lang: en
 translation: false
 note: false
