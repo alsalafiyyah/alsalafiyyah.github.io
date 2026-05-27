@@ -6,8 +6,8 @@ source: "Majmu' Fatawa 28/273"
 category: [non-muslim]
 hijri: "Jumada Al-Awwal 26, 1442 AH"
 lang: en
-locale: en
-note: false
+translation: false
+tags: [ibn-baz]
 summary: "Islam is to worship Allah Alone associating no partners with Him, obey His Commands, avoid His Prohibitions, abide by the limits He has set, and believe in what Allah and His Messenger informed us about regarding the past and the future."
 muftis:
   shaykh: 
@@ -16,6 +16,7 @@ muftis:
 ---
 
 ### Question: 
+
 On the evening of Friday, 4th of Safar 1403 A.H., I watched the TV show "The Natural World". The episode was about India. While giving a quick introduction to the episode, the announcer said that India is indeed called the land of religions where you can find Hinduism, Buddhism, Sikhism, etc. Please explain the following: Are the beliefs the announcer mentioned considered to be real faiths? Were they revealed and sent down by Allah? 
 
 ### Answer:

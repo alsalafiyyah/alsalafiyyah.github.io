@@ -7,19 +7,10 @@ hijri: "Muharram 02, 1441 AH"
 source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 9040-8"
 category: [taharah, ablution]
 summary: "Concerning the bitter-tasting liquid that may regurgitate into the mouth after drinking or eating but is a little quantity that does not fill the mouth or may come up the throat then flows back, does it invalidate Wudu’ (ablution)?"
-author: "Permanent Committee of KSA"
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah Ibn Qa'ud
-      url: /biography/qaud/
+tags: [alifta]
+lang: en
+translation: false
+group1: true
 ---
 
 ### Question : 

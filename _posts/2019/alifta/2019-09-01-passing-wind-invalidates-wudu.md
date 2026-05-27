@@ -1,13 +1,15 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Passing wind invalidates Wudu'"
+title: "Passing wind invalidates ablution"
 date: 2019-09-01
-hijri: Muharram 02, 1441 AH
-source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 11269, question 2"
+hijri: "Muharram 02, 1441 AH"
+source: "Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 11269, question 2"
 category: [taharah, ablution]
 summary: "Should a person perform Istinja’ (cleansing the private parts with water after urination or defecation) or Istijmar (cleansing the private parts with hard material after urination or defecation) after breaking wind? Does it invalidate Wudu’ (ablution)?"
-author: "Permanent Committee of KSA"
+tags: [alifta]
+lang: en
+translation: false
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

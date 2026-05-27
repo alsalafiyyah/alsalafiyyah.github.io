@@ -1,25 +1,16 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on looking at naked men and women by a person having Wudu'"
+title: "Ruling on looking at naked men and women when a person having ablution"
 date: 2019-09-01
-hijri: Muharram 02, 1441 AH
-source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 6541"
+hijri: "Muharram 02, 1441 AH"
+source: "Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 6541"
 category: [taharah, ablution]
 summary: "Does looking at naked men and women or at one's own `Awrah (parts of the body that must be covered in public) invalidate Wudu’ (ablution)?"
-author: "Permanent Committee of KSA"
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah Ibn Qa'ud
-      url: /biography/qaud/
+tags: [alifta]
+lang: en
+translation: false
+group1: true
 ---
 
 ### Question : 

@@ -1,13 +1,15 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "The meaning of Tawhid-ul-Rububiyyah and Tawhid-ul-Uluhiyyah"
+title: "The meaning of Tawhid Rububiyyah and Tawhid Uluhiyyah"
 date: 2019-08-31
 hijri: "Muharram 01, 1441 AH"
-source: "Fatawa Al-lajnah Al-Da'imah no.11843 question 1"
+source: "Fatawa Al-lajnah Al-Da'imah, Fatwa no.11843 Question 1"
 category: [terminology]
 summary: "The meaning of Tawhid-ul-Rububiyyah is the ascription of all Acts of Allah to none but Him Alone."
-author: "Permanent Committee of KSA"
+tags: [alifta]
+lang: en
+translation: false
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz

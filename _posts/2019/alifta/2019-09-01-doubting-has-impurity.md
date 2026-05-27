@@ -3,11 +3,13 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Doubting that he has undergone ritual impurity"
 date: 2019-09-01
-hijri: Muharram 02, 1441 AH
-source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 8732, question 1"
+hijri: "Muharram 02, 1441 AH"
+source: "Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 8732, question 1"
 category: [taharah, ablution]
 summary: "Does doubt count for anything in case of a person having Wudu’ (ablution) yet is not sure whether or not he passed urine, feces or broke wind due to the long period he stayed ritually pure?"
-author: "Permanent Committee of KSA"
+tags: [alifta]
+lang: en
+translation: false
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz
@@ -30,7 +32,6 @@ Does doubt count for anything in case of a person having Wudu’ (ablution) yet 
 
 It is also reported that the Prophet (peace be upon him) said: “**If any one of you feels something in his stomach, and is not sure whether something came out of him or not, he should not leave the Masjid (to renew his ablution) unless he hears a sound or smells an odor.**” (Related by Muslim and Al-Tirmidhi) [^2]
 
----
 
 [^1]: Al-Bukhari, Sahih, Book on Wudu', no. 177; and Abu Dawud, Sunan, Book on purification, no. 176.
 [^2]: Muslim, Sahih, Book on menstruation, no. 362.

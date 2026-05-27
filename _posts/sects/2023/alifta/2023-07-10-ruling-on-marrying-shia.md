@@ -3,31 +3,20 @@ layout: post
 title: "Ruling on a Muslim Marrying a Shi’i"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da’imah 2/264, Fatwa no.3008, Question 1"
-category: [sects, marriage]
-hijri: Dhul-Hijjah 22, 1444
-locale: en
+category: [sects, marriage, women]
+hijri: "Dhul-Hijjah 22, 1444"
 lang: en
-note: true
+tags: [alifta]
+translation: false
 summary: "And do not marry Al-Mushrikat (idolatresses) till they believe (worship Allaah Alone). And indeed a slave woman who believes is better than a (free) Mushrikah (idolatress), even though she pleases you."
-muftis:
-  chairman: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah Ibn Qa'ud
-      url: /biography/qaud/
+group1: true
 ---
 
-Question: 
+### Question: 
 
 We come from a tribe that lives on the northern borders [of Saudi Arabia], and we mix with tribes from Iraq who are idolatrous Shi’ah; they worship domes and call them al-Hasan and al-Husayn and ‘Ali. When one of them stands up he says. “O ‘Ali, O Husayn.” Some people from our tribe have intermarried with them and mix with them in all circumstances. We have tried to teach them but they do not listen. I do not have enough knowledge to teach them but I hate what they do, and I do not mix with them. I have heard that we cannot eat meat slaughtered by them, but these people eat their meat and do not care. We are asking you what are our obligations in this case? 
 
-Answer: 
+### Answer: 
 
 If the situation is as you describe – that they call upon ‘Ali, al-Hasan and al-Husayn, and so on – then they are mushrikeen who are guilty of major shirk, which puts them beyond the pale of Islam. It is not permissible for Muslim women to marry them, and it is not permissible for us to marry their women, or to eat meat slaughtered by them. 
 

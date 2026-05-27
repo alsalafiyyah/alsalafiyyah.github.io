@@ -3,23 +3,14 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Emission of white fluid"
 date: 2019-09-01
-hijri: Muharram 02, 1441 AH
-source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 8322, question 2"
+hijri: "Muharram 02, 1441 AH"
+source: "Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 8322, question 2"
 category: [taharah, ablution]
 summary: "This fluid is considered Najis and it comes under the same ruling as urine. Therefore, you should make Wudu’ after performing Istinja’ (cleansing the private parts with water after urination or defecation)."
-author: "Permanent Committee of KSA"
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah Ibn Qa'ud
-      url: /biography/qaud/
+tags: [alifta]
+lang: en
+translation: false
+group1: true
 ---
 
 ### Question: 

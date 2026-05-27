@@ -1,25 +1,17 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Performing Wudu' (ablution) in case of certainty that some impurity was discharged"
+title: "Performing ablution in case of certainty"
 date: 2019-09-01
-hijri: Muharram 02, 1441 AH
-source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 7789 question no.2"
+hijri: "Muharram 02, 1441 AH"
+source: "Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 7789 question no.2"
 category: [taharah, ablution]
-summary: "If you have performed Wudu’ (ablution), the basic rule is that you are Tahir (ritually pure), and this is based upon certitude. You should not, therefore, pay any attention to what contradicts this ruling by doubts and suspicions that something may have been emitted that would nullify your Wudu’"
+tags: [alifta]
+lang: en
+translation: false
+summary: "If you have performed ablution, the basic rule is that you are Tahir (ritually pure), and this is based upon certitude. You should not, therefore, pay any attention to what contradicts this ruling by doubts and suspicions that something may have been emitted that would nullify your Wudu’"
 author: "Permanent Committee of KSA"
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah Ibn Qa'ud
-      url: /biography/qaud/
+group1: true
 ---
 
 ### Question: 

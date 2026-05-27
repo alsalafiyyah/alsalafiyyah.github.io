@@ -3,10 +3,11 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 title: "What is the meaning of Bid'ah?"
 hijri: Ramadan 21, 1442 AH
-source: "Fatawa Al-Lajnah Al-Daimah no. 17522-1"
-lang: en
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 17522-1"
 category: [bidah, terminology]
-note: true
+translation: false
+lang: en
+tags: [alifta]
 summary: "What is the meaning of Bid'ah? We want you to define this term clearly. Indeed, there are some people who say that everything that was not practiced during the lifetime of the Prophet (peace be upon him) and his Sahabah (Companions of the Prophet) is a Bid'ah."
 muftis:
   chairman: 
@@ -25,8 +26,9 @@ muftis:
 
 What is the meaning of Bid'ah? We want you to define this term clearly. Indeed, there are some people who say that everything that was not practiced during the lifetime of the Prophet (peace be upon him) and his Sahabah (Companions of the Prophet) is a Bid`ah. How should we reply to them?
 
+### Answer:
 
-The word Bid'ah (innovation in religion) is literally taken from Al-Bid` which is initiating something without any precedent, as Allah (Exalted be He) says: "**The Originator of the heavens and the earth.**" [Al-Baqarah: 117] This means that it is Allah Who created them in the most beautiful and splendid way without any precedent. 
+The word Bid'ah (innovation in religion) is literally taken from al-Bid`a which is initiating something without any precedent, as Allah (Exalted be He) says: "**The Originator of the heavens and the earth.**" [Al-Baqarah: 117] This means that it is Allah Who created them in the most beautiful and splendid way without any precedent. 
 
 He (Exalted be He) further says: "**Say (O Muhammad صلى الله عليه وسلم): "I am not a new thing among the Messengers (of Allâh i.e. I am not the first Messenger)**" [Al-Ahqaf: 9] i.e. I am not the first Prophet to receive Revelation from Allah; rather Allah sent Messengers before me to bring glad tidings of Jannah (Paradise) to those who believed and the warning of Hell to those who disbelieved and I am following their way.
 
@@ -48,7 +50,6 @@ And he (peace be upon him) used to say: "**I have been sent before the Hour as t
 
 This impermissibility varies in degrees, as some innovations might amount to Kufr, such as circumambulating the graves as a kind of worship to its occupants as well as slaughtering and vowing for them. Other innovations are means leading to Kufr, such as building on graves, and performing Salah (Prayer) and supplicating to Allah (Exalted be He) by them. Others pertain to corrupt doctrines as we mentioned, and others are considered sins such as celibacy/abstinence (from intercourse) and castrating oneself to avoid sexual desire.
 
----
 
 [^1]: Al-Bukhari, Sahih, Book on reconciliation, no. 2697; Muslim, Sahih, Book on judicial decisions, no. 1718; Abu Dawud, Sunan, Book on Al-Sunnah, no. 4606; Ibn Majah, Sunan, Introduction, no. 14; and Ahmad, Musnad, vol. 6, p. 240.
 [^2]: Muslim, Sahih, Book on judicial decisions, no. 1718; and Ahmad ibn Hanbal, Musnad, vol. 6, p. 180.

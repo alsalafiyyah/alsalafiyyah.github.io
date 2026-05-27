@@ -2,23 +2,24 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: "The Jama'ah Is What Conforms To The Truth Even If You Are Alone"
-hijri: Muharram 07, 1445
+hijri: "Muharram 07, 1445"
 source: "Majmu’ Fatawa 8/179"
 lang: en
+tags: [ibn-baz]
+translation: false
 category: [sects]
-note: false
-summary: The Muslim has to seek the truth. If he finds an Islamic center which promotes the truth, or a group in any place which promotes the truth.
+summary: "The Muslim has to seek the truth. If he finds an Islamic center which promotes the truth, or a group in any place which promotes the truth."
 muftis:
   shaykh: 
     - name: Shaykh Ibn Baz
       url: /biography/binbaz/
 --- 
 
-###### Question: 
+### Question: 
 
 There are some who say that the groups which we are commanded to shun in the hadith of Hudhayfah are the Islamic groups such as the Salafis, the Ikhwan (Muslim Brotherhood, Al-Ikhwan Al-Muslimun) and the Tablighis (Jama'at Al-Tabligh). What do you say concerning that?
 
-###### Answer: 
+### Answer: 
 
 When Hudhayfah asked, “O Messenger of Allah, we were in a state of ignorance and evil, then Allah brought us this good. Will there be any evil after this good?” the Prophet ﷺ said, “Yes.” Hudahyfah asked, “Will there be any good after that evil?” He said, “Yes, but it would be tainted with dakhan (i.e. a little evil).” I asked, “What will its dakhan be?” He said, “There will be some people who will guide (people) according to something other than my guidance and will lead them according to something other than my Sunnah. You will see their actions and disapprove of them.” Hudhayfah said, “Will there be any evil after that good?” He said, “Yes, there will be some people who will invite others to the doors of Hell, and whoever accepts their invitation to it will be thrown in it (by them).” Hudhayfah said, “O Messenger of Allah, describe those people to us.” He said, “They will be from among us and speak our language (i.e., from among the Arabs).” Hudhayfah asked, “What do you command us to do at that point?” He said, “Adhere to the jamaa’ah (group) of the Muslims and their leader.” Hudhayfah asked, “What if there is no jama’ah and no leader?” He said, “Keep away from all those different sects, even if you have to bite (i.e. eat) the root of a tree, till you die while you are still in that state.” (Narrated by Al-Bukhari and Muslim). 
 

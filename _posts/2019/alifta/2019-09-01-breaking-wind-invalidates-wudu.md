@@ -1,13 +1,15 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Breaking wind invalidates Wudu"
+title: "Breaking wind invalidates ablution"
 date: 2019-09-01
 hijri: "Muharram 02, 1441 AH"
-source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 7371, question 2"
+source: "Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 7371, question 2"
 category: [taharah, ablution]
 summary: "Does breaking wind nullify Wudu’? Should a person perform Istinja’ (cleansing the private parts with water after urination or defecation) after it? Or is it sufficient to perform regular Wudu’ without washing the urethra and anus?"
-author: "Permanent Committee of KSA"
+tags: [alifta]
+lang: en
+translation: false
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

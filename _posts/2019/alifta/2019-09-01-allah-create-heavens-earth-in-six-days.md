@@ -1,13 +1,15 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Period during which the heavens, earth and what lies in them were created"
+title: "Period during which the heavens and earth were created"
 date: 2019-09-01
 hijri: "Muharram 02, 1441 AH"
-source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 20164"
-category: [fatwas,tawhid]
+source: "Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 20164"
+category: [tawhid]
 summary: "Allah created the Earth on Saturday, He created the mountains on Sunday, He created the trees on Monday, He created the things entailing labor on Tuesday, He created light on Wednesday, He spread out the animals on Thursday, and He created Adam (peace be upon him) after 'Asr (Afternoon) on Friday. It is the last of creation in the last hour of the day, between `Asr and the night"
-author: "Permanent Committee of KSA"
+tags: [alifta]
+lang: en
+translation: false
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz
@@ -40,6 +42,5 @@ The days are: Sunday, Monday, Tuesday, Wednesday, Thursday, and Friday. Nothing 
 
 It is recorded by Imam Ahmad, Al-Nasa'i, and Muslim according to more than one narration. It involves the stated seven days. Al-Bukhari and more than one of the Imams of Hadith said that the Hadith of Abu Hurayrah on the authority of Ka`b Al-Ahbar is not Hadith Marfu' (a Hadith narrated from the Prophet with a connected or disconnected chain of narration). However, some narrators related it to the Prophet (peace be upon him). Therefore, it is Hadith Maqtu' (a Hadith narrated from a Follower; the generation after the Prophet’s Companions) and does not contradict the Ayahs and the authentic Hadith. Accordingly, such a Hadith cannot be used as evidence. Thus, the ambiguity is resolved and both can be reconciled.
 
----
 
 [^1]: Muslim, Sahih, Book on the description of the Resurrection, Paradise, and Hellfire, no. 2789; and Ahmad, Musnad, vol. 2, p. 327.

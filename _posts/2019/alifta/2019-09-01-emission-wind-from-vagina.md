@@ -3,11 +3,13 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Emission of wind from a woman’s vagina"
 date: 2019-09-01
-hijri: Muharram 02, 1441 AH
-source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 7044"
+hijri: "Muharram 02, 1441 AH"
+source: "Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 7044"
 category: [taharah, ablution, women]
 summary: "Passing wind from the front passage does not invalidate Wudu’."
-author: "Permanent Committee of KSA"
+tags: [alifta]
+lang: en
+translation: false
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

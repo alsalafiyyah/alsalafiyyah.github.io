@@ -3,23 +3,14 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Some drops of urine are released after Istinja"
 date: 2019-09-01
-hijri: Muharram 02, 1441 AH
-source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 4279"
+hijri: "Muharram 02, 1441 AH"
+source: "Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 4279"
 category: [taharah, ablution]
 summary: "Soon after I have performed Istinja' (cleansing the private parts with water) after urination, I feel some small drops of urine being emitted."
-author: "Permanent Committee of KSA"
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah Ibn Qa'ud
-      url: /biography/qaud/
+tags: [alifta]
+lang: en
+translation: false
+group1: true
 ---
 
 ### Question : 

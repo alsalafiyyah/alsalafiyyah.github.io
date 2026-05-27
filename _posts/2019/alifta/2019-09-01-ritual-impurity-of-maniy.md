@@ -3,11 +3,13 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Ritual Impurity of Maniy"
 date: 2019-09-01
-hijri: Muharram 02, 1441 AH
+hijri: "Muharram 02, 1441 AH"
 source: "Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 1205"
 category: [taharah,fasting,ablution]
 summary: "If the discharged fluid was Maniy, he must perform Ghusl. It also invalidates fasting. Although this fluid is originally pure, it is repulsive."
-author: "Permanent Committee of KSA"
+tags: [alifta]
+lang: en
+translation: false
 muftis:
   chairman: 
     - name: Shaykh Ibn Baz
@@ -16,7 +18,7 @@ muftis:
     - name: Shaykh Abdul-Razzaq Al-Afifi
       url: /biography/afifi/
   members: 
-    - name: Shaykh Abdullah Ibn Mani'
+    - name: Shaykh Abdullah Ibn Muni'
       url: /biography/mani/
 ---
 

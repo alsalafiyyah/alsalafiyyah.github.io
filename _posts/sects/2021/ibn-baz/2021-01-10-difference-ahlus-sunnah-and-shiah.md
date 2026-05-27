@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "The differences between the Ahl-ul-Sunnah and Shiites"
+title: "The differences between the Ahlus-Sunnah and Shiites"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Shaykh Ibn Baz p. 28/258"
 category: [sects]
 hijri: "Jumada Al-Awwal 26, 1442"
-locale: en
 lang: en
-note: false
+translation: false
+tags: [ibn-baz]
 summary: "Shiites have many sects. Some of them are Kafirs (disbelievers) who worship 'Ali and call upon him, and they worship Fatimah, Al-Husayn and others."
 muftis:
   shaykh: 
@@ -15,11 +15,11 @@ muftis:
       url: /biography/binbaz/
 ---
 
-Question: 
+### Question: 
 
 We are in urgent need of information about the differences between the Ahl-ul-Sunnah (adherents to the Sunnah) and Shiites. We hope that you can explain something about their beliefs? 
 
-Answer:  
+### Answer:  
 
 Shiites have many sects. It is not easy to mention them in detail in a short time. In brief, some of them are Kafirs (disbelievers) who worship 'Ali and call upon him, and they worship Fatimah, Al-Husayn and others. Some of them claim that Jibril (peace be upon him) betrayed the trust and that Prophethood belonged to `Ali not to Muhammad. There are also others among them, such as **Al-Imamiyyah , i.e. Al-Rafidah Al-Ithna 'Ashriyyah** (a Shiitic group) who worship 'Ali and say that their Imams are better than the angels and Prophets. There are many groups among them; some are Kafirs (disbelievers) and some are not Kafirs (disbelievers). 
 

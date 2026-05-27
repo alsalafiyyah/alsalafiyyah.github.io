@@ -1,13 +1,15 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Was the Ka'bah clad with a covering at the time of the Messenger of Allah (peace be upon him)?"
+title: "Was the Ka'bah clad with a covering at the time of the Messenger (peace be upon him)?"
 date: 2021-05-03
-hijri: Ramadan 21, 1442 AH
+hijri: "Ramadan 21, 1442 AH"
 source: "Fatawa Al-Lajnah Al-Daimah no. 21672, question 4"
-category: [bidah, general]
-summary: "The covering of the Ka'bah is a well known practice centuries before the Mission of the Prophet (peace be upon him). However, the historians differed concerning the first to have done that."
-author: "Permanent Committee of KSA"
+category: [misc]
+translation: false
+lang: en
+tags: [alifta]
+summary: "The covering of the Ka'bah is a well known practice centuries before the Mission of the Prophet. However, the historians differed concerning the first to have done that."
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz Aal Al-Shaykh
@@ -33,7 +35,6 @@ On the day of the Liberation of Makkah when it was mentioned before the Prophet 
 
 The same was done by the Sahabah (Companions of the Prophet), and later Muslims to the extent that the Caliphs and Kings of Islam became keen on honoring the Ka'bah and providing it with its covering each year until our present time. Praise be to Allah, the Lord of the Worlds.
 
----
 
 [^1]: Muslim, Sahih, Book on judicial decisions, no. 1718; and Ahmad ibn Hanbal, Musnad, vol. 6, p. 180.
 [^2]: Al-Bukhari, Sahih, Book on expeditions, no. 4280.

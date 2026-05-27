@@ -1,13 +1,15 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Thinking of women while performing Wudu'"
+title: "Thinking of women while performing ablution"
 date: 2019-09-01
-hijri: Muharram 02, 1441 AH
-source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 10368"
+hijri: "Muharram 02, 1441 AH"
+source: "Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 10368"
 category: [taharah, ablution]
 summary: "Sometimes, while performing Wudu’ (ablution) many thoughts cross the mind which are irrelevant to Salah (Prayer) or Wudu’, such as men thinking about women while performing Wudu’."
-author: "Permanent Committee of KSA"
+tags: [alifta]
+lang: en
+translation: false
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

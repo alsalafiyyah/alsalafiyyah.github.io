@@ -6,8 +6,8 @@ source: "Majmu' Fatawa 27/325"
 category: [sects]
 hijri: "Dhul-Hijjah 23, 1444"
 lang: en
-locale: en
-note: false
+tags: [ibn-baz]
+translation: false
 summary: "Rapprochement between the Rafidah (Shi'ah) and the Sunnis is not possible, because their beliefs are different."
 muftis:
   shaykh: 

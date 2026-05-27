@@ -1,25 +1,16 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Touching or shaking hands with woman"
+title: "Ruling on shaking hands with woman"
 date: 2019-09-01
-hijri: Muharram 02, 1441 AH
-source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 4603 question no. 2"
+hijri: "Muharram 02, 1441 AH"
+source: "Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 4603 question no. 2"
 category: [taharah, ablution, women]
 summary: "According to the soundest opinion of the scholars, touching women or shaking hands with them does not nullify Wudu’ at all, whether these women are non-Mahram, one’s wife, or an unmarriageable female relative."
-author: "Permanent Committee of KSA"
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah Ibn Qa'ud
-      url: /biography/qaud/
+tags: [alifta]
+lang: en
+translation: false
+group1: true
 ---
 
 ### Question : 

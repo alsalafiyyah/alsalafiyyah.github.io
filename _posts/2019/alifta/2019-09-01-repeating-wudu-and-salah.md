@@ -1,25 +1,16 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Repeating Wudu' and Salah if a person knows that some impurity was discharged during Salah"
+title: "Repeating ablution and Prayer if a person knows that some impurity was discharged during Salah"
 date: 2019-09-01
-hijri: Muharram 02, 1441 AH
-source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 4900 question 3"
+hijri: "Muharram 02, 1441 AH"
+source: "Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 4900 question 3"
 category: [taharah, ablution, salah]
 summary: "If the reality is as you mentioned, you should not stop your Salah because of this, based on what the Prophet (peace be upon him) said when some people complained to him about the case of a man who thought he felt something while in Salah."
-author: "Permanent Committee of KSA"
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah Ibn Qa'ud
-      url: /biography/qaud/
+tags: [alifta]
+lang: en
+translation: false
+group1: true
 ---
 
 ### Question : 
@@ -32,6 +23,5 @@ If the reality is as you mentioned, you should not stop your Salah because of th
 
 This is from Satan, who wants to spoil your Wudu’ and Salah, so you should not pay any attention to it, unless you are sure that something has come out of you, as indicated in the Hadith mentioned above. In this case, you have to repeat your Wudu’ and Salah, if you know that you let out something during Salah, whether you were the Imam (the one who leads congregational Prayer), praying alone, or Ma’mum (a person being led by an Imam in Prayer).
 
----
 
 [^1]: Al-Bukhari, Sahih, Book on Wudu*, no. 177; and Abu Dawud, Sunan, Book on purification, no. 176.

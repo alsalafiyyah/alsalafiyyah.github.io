@@ -3,21 +3,13 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Acts of worship are Tawqifi"
 hijri: Ramadan 21, 1442 AH
-source: "Fatawa Al-Lajnah Al-Daimah no. 2467"
+source: "Fatawa Al-Lajnah Al-Daimah, Fatwa no. 2467"
 category: [bidah]
-summary: "The fundamental rule on the acts of 'Ibadah (worship) is that it is Tawqifiyyah (bound by a religious text and not subject to personal opinion)"
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah Ibn Qa'ud
-      url: /biography/qaud/
+translation: false
+lang: en
+tags: [alifta]
+summary: "The fundamental rule on the acts of worship is that it is bound by a religious text and not subject to personal opinion"
+group1: true
 ---
 
 ### Question: 
@@ -40,8 +32,6 @@ Third, as for the meaning of Bid'ah (innovation in religion), linguistically it 
 Fourth, as for dividing Bid'ah in religion into five categories, this is groundless in Shari'ah. We recommend that you refer to the book entitled "Al-I'tisam" by Al-Shatibi, where he speaks about Bida' in an incomparable way; "Al-Sunan wal-Mubtada'at", "Al-Ibda' fi Madarr Al-Ibtida'", and "Tanbih Al-Ghafilin" by Al-Nahhas; "Zad Al-Mi'ad" by the great scholar Ibn Al-Qayyim, and "Iqtida' Al-Sirat Al-Mustaqim" by the Sheikh of Islam Ibn Taymiyyah. 
 
 Fifth, the word "every" does not denote exclusion, but inclusion as stated in the science of Usul-ul-Fiqh (principles of Islamic jurisprudence).
-
----
 
 [^1]: Muslim, Sahih, Book on Friday, no. 867; Al-Nasa'i, Sunan, Book on the two 'Eid Prayers, no. 1578; Abu Dawud, Sunan, Book on tribute, spoils, and rulership, no. 2954; Ibn Majah, Sunan, Introduction, no. 45; Ahmad, Musnad, vol. 3, p. 311; and Al-Darimy, Sunan, Introduction, p. 206.
 [^2]: Muslim, Sahih, Book on Friday, no. 867; Al-Nasa'i, Sunan, Book on the two 'Eid Prayers, no. 1578; Abu Dawud, Sunan, Book on tribute, spoils, and rulership, no. 2954; Ibn Majah, Sunan, Introduction, no. 45; Ahmad, Musnad, vol. 3, p. 311; and Al-Darimy, Sunan, Introduction, p. 206.
