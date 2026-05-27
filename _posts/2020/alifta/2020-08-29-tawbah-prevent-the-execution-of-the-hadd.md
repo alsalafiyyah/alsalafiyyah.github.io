@@ -2,22 +2,14 @@
 layout: post
 title: "Tawbah to prevent the execution of the Hadd"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 9000"
+source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 9000"
 hijri: "Muharram 10, 1442 AH"
-category: ["rulership", hudud]
+category: [rulership]
+tags: [alifta]
+lang: en
+translation: false
 summary: "If Hudud come to the knowledge of the ruler and are proven by sufficient evidence, they should be carried out and should not be waived by Tawbah according to the consent of scholars."
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+group1: true
 ---
 
 ### Question: 
@@ -30,6 +22,5 @@ If Hudud come to the knowledge of the ruler and are proven by sufficient evidenc
 
 Nevertheless, he executed the prescribed penalty. This can be done only by the ruler. However, if the ruler knows nothing about the sin, the Muslim should conceal his sin and repent faithfully to Allah, in order that Allah may accept his repentance.
 
----
 
 [^1]: Muslim, Sahih, Book on ordained punishments, no. 1696; Al-Tirmidhy, Sunan, Book on ordained punishments, no. 1435; Al-Nasa'i, Sunan, Book on funerals, no. 1957; Abu Dawud, Sunan, Book on ordained punishments, no. 4440; Ahmad ibn Hanbal, Musnad, vol. 4, p. 430; and Al-Darimy, Sunan, Book on ordained punishments, no. 2325.

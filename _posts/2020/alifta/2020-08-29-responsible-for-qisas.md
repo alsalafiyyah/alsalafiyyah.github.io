@@ -2,9 +2,12 @@
 layout: post
 title: "Responsible for Qisas"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 18804-4"
+source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 18804 Question 4"
 hijri: "Muharram 10, 1442 AH"
-category: ["rulership", hudud]
+category: [rulership]
+translation: false
+tags: [alifta]
+lang: en
 summary: "It is not permissible to resort to Qisas (just retaliation) unless the crime is legally confirmed through the legal court. Only the ruler should bring the retaliation not the individuals because they are not entitled to do so; because this would result in much harm and chaos."
 muftis:
   chairman: 

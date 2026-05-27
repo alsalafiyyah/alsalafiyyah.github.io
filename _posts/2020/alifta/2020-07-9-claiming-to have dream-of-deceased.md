@@ -6,7 +6,9 @@ source: "Fatwas of the Permanent Committee of KSA, Fatwa no.9774"
 category: [fatwas, bidah, funerals]
 summary: "Transferring the deceased from one grave to another one is not permissible unless there is a necessity to do so according to the Islamic Shari'ah."
 hijri: "Dhul-Qa'dah 8, 1441 AH"
-author: "Permanent Committee of KSA"
+translation: false
+tags: [alifta]
+lang: en
 muftis:
   chairman: 
     - name: Shaykh Abdul-Aziz ibn Baz

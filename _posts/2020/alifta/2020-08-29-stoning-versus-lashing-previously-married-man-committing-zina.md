@@ -2,9 +2,12 @@
 layout: post
 title: "Stoning versus lashing a previously married man committing Zina"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 18612-28"
+source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 18612 Question 28"
 hijri: "Muharram 10, 1442 AH"
 category: ["rulership", hudud, zina, hisbah]
+tags: [alifta]
+lang: en
+translation: false
 summary: "It is impermissible to cut one's own hand to apply the Hadd of stealing or to kill oneself if there is a reason to do it. A person should perform Tawbah instead, seek Allah's forgiveness, regret what they had done and determine not to do it again."
 muftis:
   chairman: 

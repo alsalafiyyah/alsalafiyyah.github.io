@@ -2,22 +2,14 @@
 layout: post
 title: "Ruling on taking money to break the law"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 7726-1"
+source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 7726 Question 1"
 hijri: "Muharram 12, 1442 AH"
-category: [fatwas,rulership]
+category: [rulership]
+translation: false
+tags: [alifta]
+lang: en
 summary: "The mentioned agreement is not permissible because it involves lying, forging, cheating authorities, and violation of regulations set for the public interest and does not contradict Shari‘ah. Both parties are at risk if this agreement is revealed to authorities."
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+group1: true
 ---
 
 ### Question: 

@@ -2,22 +2,14 @@
 layout: post
 title: "No obedience in matters involving disobedience to Allah"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 3552-8"
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 3552 Question 8"
 hijri: "Muharram 12, 1442 AH"
-category: [rulership, hisbah]
+category: [rulership]
+tags: [alifta]
+lang: en
+translation: false
 summary: "A believer should abandon such sins, and follow the Book of Allah and the Sunnah of His Messenger (peace be upon him). This is an established fact. They should neither obey the ruler nor anyone else in what leads to the disobedience of Allah (Glorified and Exalted be He)."
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+group1: true
 ---
 
 ### Question: 
@@ -30,7 +22,6 @@ A believer should abandon such sins, and follow the Book of Allah and the Sunnah
 
 He (peace be upon him) also said, "**There is no obedience to a creature in matters involving disobedience to the Creator.**" [^2]
 
----
 
 [^1]: Al-Bukhari, Fath-ul-Bary, nos. 4340, 7145, and 7257; Muslim, Sahih [Sharh Al-Nawawi], vol. 12, p. 226; Abu Dawud, no. 2625; and Al-Nasa'i, Al-Mujtaba, vol. 7, p. 159.
 [^2]: Imam Ahmad, and the wording is his, vol. 1, p. 49 and vol. 5, p. 66; Al-Bukhari, Fath-ul-Bari, no. 7144; Muslim, Sahih [Sharh Al-Nawawi], vol. 12, p. 226; and Al-Tirmidhi, no. 1707; Abu Dawud, no. 2626; and Al-Nasa’i, Al-Mujtaba, vol. 7, p. 160.

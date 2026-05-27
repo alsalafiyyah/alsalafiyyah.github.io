@@ -2,9 +2,12 @@
 layout: post
 title: "Permissibility of the victim's guardian giving up the right of executing the Hadd"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah of KSA no. 13432"
+source: "Fatawa Al-Lajnah Ad-Da'imah of KSA, Fatwa  no. 13432"
 hijri: "Muharram 10, 1442 AH"
 category: ["rulership", hudud]
+translation: false
+tags: [alifta]
+lang: en
 summary: "The guardian of the victim is not permitted to forgo, for executing the punishment is Allah's right, and the ruler is the one responsible for the execution."
 muftis:
   chairman: 

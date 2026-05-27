@@ -2,22 +2,14 @@
 layout: post
 title: "Ruling on standing up as a way of honoring the national anthem"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 2123"
+source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 2123"
 hijri: "Muharram 12, 1442 AH"
-category: [fatwas, rulership, walabara]
+category: [rulership, walabara]
+tags: [alifta]
+lang: en
+translation: false
 summary: "It is not permissible for a Muslim to stand in honor of a national anthem or flag; this is a repudiated Bid'ah (innovation in religion) as it did not happen during the time of the Messenger of Allah (peace be upon him) or that of the Rightly-Guided Caliphs (may Allah be pleased with them)."
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+group1: true
 ---
 
 ### Question: 
