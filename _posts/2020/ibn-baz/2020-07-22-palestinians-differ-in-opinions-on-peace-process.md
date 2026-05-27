@@ -2,9 +2,12 @@
 layout: post
 title: "The Palestinians differ in their opinions regarding the peace process"
 publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat 8/-"
+source: "Majmu' Fatawa wa Maqalat 8"
 category: [rulership,palestine]
-hijri: Dhul-Qa'dah 31, 1441 AH
+translation: false
+tags: [ibn-baz]
+lang: en
+hijri: "Dhul-Qa'dah 31, 1441 AH"
 summary: "My advice for all the Palestinians is to agree upon making peace and cooperate in righteousness and piety in order to spare the blood of the people, gather them on Al-Haqq, and defeat the enemies who call for separation and conflict."
 muftis:
   shaykh: 

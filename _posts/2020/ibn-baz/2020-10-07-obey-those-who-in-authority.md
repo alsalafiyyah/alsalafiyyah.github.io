@@ -4,7 +4,10 @@ publisher: alsalafiyyah@icloud.com
 title: "Obeying rulers and scholars in Ma'ruf to set things right"
 hijri: "Safar 20, 1442 AH"
 source: "Majmu' Fatawa Al-Shaykh Ibn Baz p. 7/119"
-category: [rulership, quran]
+category: [rulership]
+translation: false
+tags: [ibn-baz]
+lang: en
 summary: "Those in authority refer to Muslim scholars and rulers. Their orders should be followed if they agree with Shari'ah and should be disregarded if they disagree with Shari'ah."
 muftis:
   shaykh: 

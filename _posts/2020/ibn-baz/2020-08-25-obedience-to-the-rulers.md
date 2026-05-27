@@ -4,7 +4,10 @@ title: "Obedience to the ruler"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 9/103"
 hijri: "Muharram 6, 1442 AH"
-category: [fatwas,rulership,hadiths]
+category: [rulership,hadiths]
+translation: false
+tags: [ibn-baz]
+lang: en
 summary: "This ruling is general and its meaning is qualified by other Hadiths from the Sunnah, as both the Quran and the Sunnah are integrated and their rulings restrict each other. That is to say, the general meaning in the book of Allah can be defined by a Hadith of the Prophet (peace be upon him) and vice versa."
 muftis:
   shaykh: 
@@ -38,7 +41,6 @@ Another narration states: **"No, so long as they establish Salah (prayer) among 
 
 Accordingly, submission and obedience to rulers are established by the authentic Hadiths but are restricted to the lawful matters.
 
----
 
 [^1]: Al-Bukhari, Sahih, Book on Jihad and military expeditions, no. 2957; and Ahmad ibn Hanbal, Musnad, vol. 2, p. 253.
 [^2]: Narrated by Al-Bukhari, Book on Jihad and military expeditions, no. 2737; Muslim, Book on rulership, no. 3418; and Ahmad, Rest of the section on the Hadiths narrated by the Companions who narrated a large number of Hadiths, no. 9655, and the wording is his.

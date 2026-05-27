@@ -1,9 +1,12 @@
 ---
 layout: post
-title: "Ruling on criticize rulers openly on the Minbar (pulpit)"
+title: "Ruling on criticize rulers openly on the pulpit"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 8/210"
-category: ["rulership"]
+category: [rulership]
+translation: false
+tags: [ibn-baz]
+lang: en
 hijri: "Dhul-Qa'dah 31, 1441 AH"
 summary: "It was not the practice of the Salaf to make the defects of their rulers known by mentioning them on the Minbar. This is because doing so results in anarchy, disobedience, and harmful consequences."
 muftis:
@@ -28,6 +31,5 @@ However, 'Iyad ibn Ghanam Al-'Ash'ari narrated that the Messenger of Allah (peac
 
 May Allah grant me and all Muslims good health and protection against all evils! Verily, He is All-Hearer and Responsive. May peace and blessings be upon our Prophet Muhammad, his family, and Companions! 
 
----
 
 [^1]: Narrated by Ahmad, Musnad, vol. 3, pp. 403-404; and Ibn Abu 'Asim, Book on Sunnah, vol. 2, p. 521.

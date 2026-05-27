@@ -3,7 +3,10 @@ layout: post
 title: "It is not permissible to rebel against him if revolution leads to greater harm"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Shaykh Ibn Baz p. 28/250"
-category: [fatwas,rulership]
+category: [rulership]
+translation: false
+tags: [ibn-baz]
+lang: en
 hijri: "Rabi' Al-Awwal 03, 1442 AH"
 summary: "There is no doubt that giving Bay'ah (pledge of allegiance) for some people results in dissention and rebellion against the general ruler, which renders this unlawful and must be abandoned."
 muftis:

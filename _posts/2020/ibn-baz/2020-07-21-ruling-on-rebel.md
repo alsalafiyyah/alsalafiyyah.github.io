@@ -3,8 +3,11 @@ layout: post
 title: "Ruling on rebel against the rulers"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 8/202"
-category: [fatwas,rulership]
+category: [rulership]
 hijri: "Dhul-Qa'dah 30, 1441 AH"
+translation: false
+tags: [ibn-baz]
+lang: en
 summary: "The Nas from the Sunnah explains the meaning and confines the absoluteness of the Ayah to obeying the Muslims in authority in what is judged to be Ma‘ruf."
 muftis:
   shaykh: 
@@ -38,7 +41,6 @@ However, if this is beyond their ability, they should not rebel. Also, if rebell
 
 On the other hand, if rebellion would result in greater corruption, chaos, oppression, and the assassination of those who do not deserve to be assassinated, and other forms of major corruption, it is not permitted. It is obligatory, in this case, to be patient, and to hear and obey in what is Ma‘ruf, offer sincere advice to the authorities, supplicate for them that they may be guided to the good, and to strive to reduce evil and increase good. This is the correct way that must be followed, because this is in the general interest of the Muslims and because it will reduce evil, increase good, keep the peace, and protect the Muslims from a greater evil. We ask Allah to grant guidance and success to all.
 
----
 
 [^1]: Muslim, Sahih, Book on rulership, no. 1855; Ahmad ibn Hanbal, Musnad, vol. 6, p. 24, and Al-Darimy, Sunan, Book on heart-softening narrations, no. 2797.
 [^2]: Muslim, Sahih, Book on rulership, no. 1848; Al-Nasa'i, Sunan, Book on sanctity of blood, no. 4114; Ibn Majah, Sunan, Book on trials, no. 3948; and Ahmad ibn Hanbal, Musnad, vol. 2, p. 296.

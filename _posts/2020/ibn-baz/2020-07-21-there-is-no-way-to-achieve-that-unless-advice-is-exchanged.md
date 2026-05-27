@@ -5,7 +5,10 @@ publisher: alsalafiyyah@icloud.com
 title: "There is no way to achieve that unless advice is exchanged"
 hijri: "Dhul-Qa'dah 30, 1441 AH"
 source: "Fatawa Al-Shaykh Ibn Baz vol 7, question 5"
-category: [rulership, hisbah]
+category: [rulership]
+translation: false
+tags: [ibn-baz]
+lang: en
 summary: "It is obligatory upon citizens to acknowledge the services provided to them by the state and thank it for that. They should help the state to reform its affairs through good words and good manners and not through attacking and publicizing the negative aspects of the state in newspapers and on the Minbar (pulpit)."
 muftis:
   shaykh: 

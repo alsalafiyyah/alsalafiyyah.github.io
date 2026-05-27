@@ -4,6 +4,9 @@ title: "If we suppose that a certain group has a lawful excuse to rebel against 
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat p. 8/206"
 category: [fatwas,rulership]
+translation: false
+tags: [ibn-baz]
+lang: en
 hijri: "Muharram 16, 1442 AH"
 summary: "I informed you before that it is not permissible to rebel against the ruler, except under two conditions"
 muftis:
