@@ -6,7 +6,10 @@ title: "False accusations against Uthman"
 hijri: "Safar 01, 1446 AH"
 date: 2024-08-05
 source: "Fatawa al-Lajnah ad-Da'imah, Fatwa no.20607"
-category: [fatwas,rulership,sahabah]
+category: [rulership,sahabah]
+tags: [alifta]
+lang: en
+translation: false
 summary: "What this author wrote is all lies and falsehood. It is not permissible to spread this, because it is a revilement to the Companions of the Messenger of Allah."
 group2: true
 article_taken_from: 

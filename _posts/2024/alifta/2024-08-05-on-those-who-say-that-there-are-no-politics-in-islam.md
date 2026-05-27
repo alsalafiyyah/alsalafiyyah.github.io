@@ -6,7 +6,10 @@ title: "On those who say that there are no politics in Islam and no Islam in pol
 hijri: "Safar 01, 1446 AH"
 date: 2024-08-05
 source: "Fatawa al-Lajnah ad-Da'imah, Fatwa no.9880, Question 9"
-category: [fatwas,rulership,politics]
+category: [rulership]
+tags: [alifta]
+lang: en
+translation: false
 summary: "As for evil politics that are based on corruption, delusion, lies, violating covenants, deceit and breaking promises, this was not prescribed by Shari'ah."
 group6: true
 article_taken_from: 

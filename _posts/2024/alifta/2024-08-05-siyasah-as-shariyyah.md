@@ -6,7 +6,10 @@ title: "What is meant by Al-Siyasah Al-Shar'iyyah?"
 hijri: "Safar 01, 1446 AH"
 date: 2024-08-05
 source: "Fatawa al-Lajnah ad-Da'imah, Fatwa no.15631, Question 5"
-category: [fatwas,rulership,terminology]
+category: [rulership,terminology]
+tags: [alifta]
+lang: en
+translation: false
 summary: "Al-Siyasah Al-Shar'iyyah is policy that is based on the Qur'an and Sunnah, by the ruler administering justice and the subjects giving loyalty and obedience."
 article_taken_from: 
   taken_from:

@@ -5,7 +5,10 @@ publisher: alsalafiyyah@icloud.com
 title: "The ruling on invoking Allah against a ruler who does not judge according to Shari'ah"
 hijri: "Muharram 27, 1446 AH"
 date: 2024-08-02
-category: [fatwas,rulership]
+category: [rulership]
+tags: [alifta]
+lang: en
+translation: false
 source: "Fatawa al-Lajnah ad-Da'imah, Fatwa no. 6361, Question 4"
 summary: "What is the ruling on invoking Allah against a ruler who does not judge according to Allah’s revealed Law?"
 article_taken_from: 
@@ -16,7 +19,9 @@ group1: true
 --- 
 
 ### Question: 
+
 What is the ruling on invoking Allah against a ruler who does not judge according to Allah’s revealed Law? 
 
 ### Answer: 
+
 You should supplicate to Allah to guide him and grant him success, and bring about through him reformation among his people, so that he rules them by Allah’s revealed Law.

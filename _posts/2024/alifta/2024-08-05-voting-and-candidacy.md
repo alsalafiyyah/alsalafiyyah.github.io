@@ -6,7 +6,10 @@ title: "Ruling on voting and candidacy"
 hijri: "Safar 01, 1446 AH"
 date: 2024-08-05
 source: "Fatawa al-Lajnah ad-Da'imah, Fatwa no.4029, Question 5"
-category: [fatwas,rulership,politics]
+category: [rulership]
+tags: [alifta]
+lang: en
+translation: false
 summary: "It is not permissible for a Muslim to nominate himself hoping to be a part of a system disagreeing with the Islamic revealed law."
 group1: true
 article_taken_from: 

@@ -5,7 +5,10 @@ title: Ruling on hiring people to recite Qur'an for the dead
 date: 2024-06-30
 hijri: Dhul-Hijjah 24, 1445
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 14409, Question 2
-category: [fatwas, quran, funerals, bidah]
+category: [quran, funerals, bidah]
+tags: [alifta]
+lang: en
+translation: false
 summary: Reciting the Qur'an for the souls of the dead or reciting it in the graves or hiring someone to recite it is an act of bid`ah and is not permissible.
 group6: true
 ---
@@ -20,5 +23,5 @@ It was authentically narrated that the Prophet (peace be upon him) used to exten
 
 Similarly, people's gathering to visit the graves following forty days or one year after someone's death is also an act of Bid'ah that has no origin in the Shari'ah (Islamic law). In fact, this habit took place at the time when the Ummah (Muslim nation) was ignorant and weak.
 
----
+
 [^1]: Musnad Ahmad, vol. 2, pp. 284, 373, and 388; Muslim, vol. 1, p. 539, no. 780; Al-Tirmidhy, vol. 5, p. 175, no. 2877; Al-Nasa'y, Al-Sunan Al-Kubra, vol. 7, p. 257, vol. 9, p. 754, nos. 7961 and 10735; Ibn Hibban, vol. 3, p. 62, no. 783.

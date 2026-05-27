@@ -6,7 +6,10 @@ title: "Ruling on voting the kuffar in elections"
 hijri: "Safar 01, 1446 AH"
 date: 2024-08-05
 source: "Fatawa al-Lajnah ad-Da'imah 1/790, Fatwa no.7796 , Question 3"
-category: [fatwas,politics,non-muslim]
+category: [rulership]
+tags: [alifta]
+lang: en
+translation: false
 summary: "Never will Allah grant to the disbelievers a way to triumph over the believers."
 group1: true
 ---
