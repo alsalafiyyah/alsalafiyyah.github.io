@@ -5,8 +5,11 @@ title: "The Islamic Perspective on Human Origins and Darwinism"
 hijri: "Dhu al-Qidah 17, 1447 AH"
 date: 2026-05-04
 source: "Fatawa al-Lajnah ad-Da'imah, Fatwa no.8139, Question 3"
-category: [fatwas,darwinism]
+category: [darwinism]
 summary: "The claim that the origin of man is a monkey is a lie and a fabrication against the law of Allah."
+tags: [alifta]
+lang: en
+translation: false
 article_taken_from: 
   taken_from:
     - web_title: "حقيقة أصل الإنسان"
