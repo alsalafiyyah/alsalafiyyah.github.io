@@ -7,8 +7,6 @@ mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_477/47
 hijri: Dhul-Hijjah 16, 1441
 date: 2020-08-06
 lang: en
-note: false
-locale: en
 active: audios
 category: [audios, sects]
 tags: [ibn-baz]

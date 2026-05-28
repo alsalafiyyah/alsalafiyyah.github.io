@@ -5,9 +5,8 @@ title: Actions and deeds that bring a person closer to Paradise
 hijri: Rabi' Al-Thani 14, 1442
 date: 2020-11-29
 lang: en
-locale: en
 active: audios
-category: [fatwas,audios]
+category: [audios]
 tags: [ibn-baz]
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_283/28311.mp3
 url: "https://binbaz.org.sa/fatwas/8697/%D9%85%D8%A7-%D9%8A%D9%82%D8%B1%D8%A8-%D8%A7%D9%84%D9%89-%D8%A7%D9%84%D8%AC%D9%86%D8%A9-%D9%88%D9%85%D8%A7-%D9%8A%D8%A8%D8%A7%D8%B9%D8%AF-%D8%B9%D9%86-%D8%A7%D9%84%D9%86%D8%A7%D8%B1"

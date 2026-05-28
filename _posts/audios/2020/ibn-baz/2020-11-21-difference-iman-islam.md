@@ -3,12 +3,11 @@ layout: post
 publisher: "alsalafiyyah@icloud.com"
 title: "Difference between Iman and Islam"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/%D8%A7%D9%84%D9%81%D8%B1%D9%82%20%D8%A8%D9%8A%D9%86%20%D8%A7%D9%84%D8%A5%D9%8A%D9%85%D8%A7%D9%86%20%D9%88%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85.mp3
-hijri: Rabi' Al-Thani 06, 1442
+hijri: "Rabi' Al-Thani 06, 1442"
 date: 2020-11-21
 lang: en
 active: audios
-locale: en
-category: [fatwas,audios,terminology]
+category: [audios,terminology]
 tags: [ibn-baz]
 url: "https://binbaz.org.sa/fatwas/29242/%D8%A7%D9%84%D9%81%D8%B1%D9%82-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%A7%D9%8A%D9%85%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85"
 summary: "Islam is submission and obedience to Allah by Tawhid (belief in the Oneness of Allah/monotheism), sincere devotion to Allah, obedience to His Commands, and avoidance of His Prohibitions. Thus, when they are used in general context, they bear the same meaning."

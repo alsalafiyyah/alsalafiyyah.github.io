@@ -7,8 +7,6 @@ link: https://cutt.ly/tdGpd4W
 hijri: Dhul-Hijjah 17, 1441
 date: 2020-08-07
 lang: en
-note: false
-locale: en
 active: audios
 category: [audios, sects]
 tags: [ibn-baz]

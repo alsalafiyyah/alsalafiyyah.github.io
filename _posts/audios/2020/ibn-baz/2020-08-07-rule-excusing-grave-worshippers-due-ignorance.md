@@ -8,10 +8,8 @@ link: https://cutt.ly/4dHosHF
 hijri: Dhul-Hijjah 17, 1441
 date: 2020-08-07
 lang: en
-note: false
-locale: en
 active: audios
-category: [fatwas,audios,sects]
+category: [audios,sects]
 tags: [ibn-baz]
 summary: "Are those who worship graves excused because of their ignorance, even though among them are people calling to Tawhid (belief in the Oneness of Allah/ monotheism)?"
 muftis:

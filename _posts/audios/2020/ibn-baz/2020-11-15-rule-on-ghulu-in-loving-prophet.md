@@ -6,10 +6,8 @@ mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/%D9%85%D8%A7%20%D9%85%D8%B9
 hijri: Rabi' Al-Awwal 29, 1442
 date: 2020-11-15
 lang: en
-note: false
-locale: en
 active: audios
-category: [fatwas,audios,prophets,terminology]
+category: [audios,prophets,terminology]
 tags: [ibn-baz]
 url: "https://binbaz.org.sa/fatwas/28998/%D9%85%D8%A7-%D9%85%D8%B9%D9%86%D9%89-%D8%A7%D9%84%D8%BA%D9%84%D9%88-%D9%81%D9%8A-%D8%AD%D8%A8-%D8%A7%D9%84%D9%86%D8%A8%D9%8A--%D8%B5%D9%84%D9%89-%D8%A7%D9%84%D9%84%D9%87-%D8%B9%D9%84%D9%8A%D9%87-%D9%88%D8%B3%D9%84%D9%85"
 summary: "Ghulu means an increase or doing something more than what is ordained by Allah (Exalted be He)."

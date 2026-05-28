@@ -3,11 +3,9 @@ layout: post
 publisher: "alsalafiyyah@icloud.com"
 title: "Exposing Sufi orders"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_923/nour_92304.mp3
-hijri: Dhul-Hijjah 16, 1441
+hijri: "Dhul-Hijjah 16, 1441"
 date: 2020-08-06
 lang: en
-note: false
-locale: en
 active: audios
 type: audios
 category: [audios, sects]

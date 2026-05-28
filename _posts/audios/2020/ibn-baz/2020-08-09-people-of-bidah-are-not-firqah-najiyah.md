@@ -7,10 +7,9 @@ mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_724/no
 link: https://cutt.ly/IdB5rcq
 hijri: Dhul-Hijjah 19, 1441
 date: 2020-08-09
-category: [fatwas,audios,sects]
+category: [audios,sects]
 tags: [ibn-baz]
 lang: en
-locale: en
 active: audios
 summary: "The triumphant group is Ahl-ul-Sunnah waI-Jama'ah (adherents to the Sunnah and the Muslim mainstream). They are the followers of the Book and the Sunnah who introduce no Bid'ah (innovation in the religion) and abide by the commands of Allah (Exalted be He)."
 muftis:

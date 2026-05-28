@@ -5,10 +5,9 @@ title: "The location of the grave of Al-Husayn"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_168/16806.mp3
 hijri: Rabi' Al-Awwal 28, 1442
 date: 2020-11-14
-category: [fatwas,sahabah,audios]
+category: [sahabah,audios]
 tags: [ibn-baz]
 lang: en
-locale: en
 active: audios
 url: "https://binbaz.org.sa/fatwas/7060/%D9%85%D9%83%D8%A7%D9%86-%D9%82%D8%A8%D8%B1-%D8%A7%D9%84%D8%AD%D8%B3%D9%8A%D9%86-%D8%B1%D8%B6%D9%8A-%D8%A7%D9%84%D9%84%D9%87-%D8%B9%D9%86%D9%87-%D9%88%D8%A7%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9%D9%8A%D8%A9-%D9%84%D9%84%D9%82%D8%A8%D9%88%D8%B1"
 summary: The correct opinion is that what exists in Egypt is neither the grave nor the head of Al-Husayn. A number of scholars have written essays on this and explained that there is no evidence to support that the head of Al-Husayn is in Egypt.

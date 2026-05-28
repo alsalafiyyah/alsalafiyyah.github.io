@@ -5,10 +5,8 @@ title: "The ruling on smiling during Salah"
 hijri: "Rabi' Al-Thani 02, 1442"
 date: 2020-11-17
 lang: en
-note: false
-locale: en
 active: audios
-category: [fatwas,audios]
+category: [audios]
 tags: [ibn-baz]
 url: "https://binbaz.org.sa/fatwas/8749/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%AA%D8%A8%D8%B3%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_323/32309.mp3

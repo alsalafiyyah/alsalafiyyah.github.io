@@ -5,7 +5,7 @@ title: "The Ruling on Funeral Prayers for Those Who Violate Sharia Boundaries"
 hijri: "Rabi' Al-Awwal 24, 1442"
 date: 2020-11-10
 active: audios
-category: [fatwas,audios,funerals]
+category: [audios,funerals]
 tags: [ibn-baz]
 url: "https://binbaz.org.sa/fatwas/5509/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%83%D8%A7%D9%81%D8%B1-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%8A"
 mp3: "https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_069/06913.mp3"

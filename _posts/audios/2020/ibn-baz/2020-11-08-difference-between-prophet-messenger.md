@@ -5,7 +5,7 @@ title: "The difference between a prophet and a messenger"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_467/46704.mp3
 hijri: Rabi' Al-Awwal 22, 1442
 date: 2020-11-08
-category: [fatwas,audios,prophets,terminology]
+category: [audios,prophets,terminology]
 tags: [ibn-baz]
 active: audios
 lang: en

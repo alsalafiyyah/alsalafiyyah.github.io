@@ -7,7 +7,7 @@ link: https://cutt.ly/0dCGyqq
 hijri: Dhul-Hijjah 18, 1441
 date: 2020-08-08
 lang: en
-category: [fatwas,audios]
+category: [audios]
 tags: [ibn-baz]
 active: audios
 locale: en

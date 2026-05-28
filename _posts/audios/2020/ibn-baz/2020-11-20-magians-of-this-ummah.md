@@ -5,11 +5,8 @@ publisher: alsalafiyyah@icloud.com
 hijri: Rabi' Al-Thani 05, 1442
 date: 2020-11-20
 lang: en
-locale: en
-note: false
 active: audios
-type: audios
-category: [fatwas,sects,audios]
+category: [sects,audios]
 tags: [ibn-baz]
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_935/nour_93503.mp3
 url: https://binbaz.org.sa/fatwas/18619/%D9%85%D8%AC%D9%88%D8%B3-%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%A7%D9%85%D8%A9

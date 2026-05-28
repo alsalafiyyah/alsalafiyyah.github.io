@@ -4,12 +4,11 @@ title: "How to know the Bid'ah and its divisions"
 publisher: "alsalafiyyah@icloud.com"
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_512/51202.mp3
 link: https://cutt.ly/4dB5HEc
-hijri: Dhul-Hijjah 18, 1441
+hijri: "Dhul-Hijjah 18, 1441"
 date: 2020-08-08
-category: [fatwas,audios,bidah]
+category: [audios,bidah]
 tags: [ibn-baz]
 lang: en
-locale: en
 active: audios
 summary: "A Bid'ah is what people introduce into Allah's Purified Shar'i (Law) and contradicts it In other words all that people introduce into Din (religion) is called a Bid'ah, such as, celebrating the Mawlid (the Prophet's birthday), building Masjids (rnosques) on graves and constructing domes on graves."
 muftis:

@@ -7,10 +7,8 @@ mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_422/42
 hijri: Dhul-Hijjah 13, 1441
 date: 2020-08-03
 lang: en
-note: false
-locale: en
 active: audios
-category: [fatwas,audios,manhaj]
+category: [audios,manhaj]
 tags: [ibn-baz]
 summary: "I think there is nothing wrong in calling someone as Athari if it is true. If someone accepts the Prophetic Hadiths and follows the Sunnah and the way of the Salaf (righteous predecessors)"
 muftis:

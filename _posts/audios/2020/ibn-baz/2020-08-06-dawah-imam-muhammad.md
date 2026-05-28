@@ -6,10 +6,8 @@ mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_828/no
 hijri: Dhul-Hijjah 16, 1441
 date: 2020-08-06
 lang: en
-note: false
-locale: en
 active: audios
-category: [fatwas,audios,manhaj]
+category: [audios,manhaj]
 tags: [ibn-baz]
 summary: "Shaykh Muhammad ibn Abdul-Wahhab is of the scholars of Sunnah and the scholars of the people of truth. His Da'wah is not a fifth Madhab, rather it is a Da'wah to the creed of the Salaf."
 muftis:

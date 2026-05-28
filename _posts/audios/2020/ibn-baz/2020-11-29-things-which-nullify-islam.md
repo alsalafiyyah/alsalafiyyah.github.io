@@ -6,10 +6,8 @@ mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_414/41
 hijri: "Rabi' Al-Thani 14, 1442"
 date: 2020-11-29
 lang: en
-note: false
-locale: en
 active: audios
-category: [fatwas,audios]
+category: [audios]
 tags: [ibn-baz]
 url: "https://binbaz.org.sa/fatwas/10816/%D9%86%D9%88%D8%A7%D9%82%D8%B6-%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85"
 summary: "There are certain matters that nullify Islam. A Muslim is obliged to be cautious about these things. Scholars have mentioned them in the chapter of the ruling on the Murtad (apostate). They defined them as the Muslim who becomes a Kafir after his Islam."

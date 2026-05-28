@@ -7,8 +7,7 @@ hijri: "Rabi' Al-Awwal 22, 1442"
 date: 2020-11-08
 lang: en
 active: audios
-locale: en
-category: [fatwas,audios]
+category: [audios]
 tags: [ibn-baz]
 url: "https://binbaz.org.sa/fatwas/18450/%D9%85%D8%B9%D9%86%D9%89-%D8%A7%D9%84%D9%83%D9%81%D8%B1-%D8%A8%D8%A7%D9%84%D8%B7%D8%A7%D8%BA%D9%88%D8%AA"
 summary: "It means to declare oneself free from worshipping false deities and to believe that all deities worshipped along with Allah are false."
