@@ -21,7 +21,7 @@ Our content is rooted in the authentic ‘aqidah (creed) of Ahlus-Sunnah wal-Jam
 
 > **“That is Allah, your Lord, the Creator of all things, Laa ilaaha illa Huwa (none has the right to be worshipped but He).”** (Quran, Ghafir [40]:62).
 
-2) We believe [the Qur'an is the Speech of Allah and is not created](https://alsalafiyyah.github.io/the-quran-is-the-word-of-allah/). Consistent with the consensus of Ahlus-Sunnah, anyone who claims the Qur'an is created has strayed into disbelief.
+2) We believe [the Qur'an is the Speech of Allah and is not created](https://alsalafiyyah.github.io/the-quran-is-the-word-of-allah/). Consistent with the consensus of Ahlus-Sunnah (People of the Sunnah), anyone who claims the Qur'an is created has strayed into disbelief.
 
 3) We hold as a core tenet of faith that Muhammad (ﷺ) is the final Messenger of Allah. No Prophet or Messenger will be sent after him; he is the completion of the divine message and the final guide for all of humanity.
 
