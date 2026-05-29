@@ -93,17 +93,11 @@ Shaykhul-Islam [Ibn Taymiyyah], may Allah have mercy on him, stated in Al-Aqidah
 
 18) We do not declare a Muslim to be a disbeliever (kafir) due to the commission of a major sin, provided that the sin itself does not constitute disbelief. We believe that a person remains within the fold of Islam despite their shortcomings, as long as they do not violate the foundational tenets of the faith. 
 
-19) We maintain that it is strictly impermissible to take the lives of non-Muslims living under Muslim authority or to transgress against their rights. We reject all forms of injustice toward them, as Allah and His Messenger (ﷺ) have forbidden such oppression. Furthermore, we uphold the Quranic principle of showing kindness and fair treatment to those non-Muslims who do not wage war against Muslims.
+19) We believe that no Muslim who worshipped Allah alone—associating no partners with Him—will remain in Hellfire eternally. Even if such a person committed major sins and was punished for them in the Hereafter, we affirm that they will eventually be removed from the Fire by the mercy of Allah.
 
-> Allah Ta'ala says: ***“Allah does not forbid you to deal justly and kindly with those who fought not against you on account of religion and did not drive you out of your homes. Verily, Allah loves those who deal with equity.”** (al-Mumtahinah [60]:8)*
+20) We affirm our belief in the descent of ‘Isa ibn Maryam (Jesus, son of Mary, peace be upon him) toward the end of time. We believe he will return as a just ruler, following the Law of Muhammad (ﷺ), and will ultimately slay the Dajjal (the False Messiah), as established in the authentic Prophetic narrations.
 
-> The Prophet ﷺ said: ***“Whoever kills a mu'ahid (a non-Muslim living under Muslim rule) will not smell the fragrance of Paradise, although its fragrance may be detected from a distance of forty years.”*** [^14] 
-
-20) We believe that no Muslim who worshipped Allah alone—associating no partners with Him—will remain in Hellfire eternally. Even if such a person committed major sins and was punished for them in the Hereafter, we affirm that they will eventually be removed from the Fire by the mercy of Allah.
-
-21) We affirm our belief in the descent of ‘Isa ibn Maryam (Jesus, son of Mary, peace be upon him) toward the end of time. We believe he will return as a just ruler, following the Law of Muhammad (ﷺ), and will ultimately slay the Dajjal (the False Messiah), as established in the authentic Prophetic narrations.
-
-22) We reject all sects, parties, and movements that deviate from the clear path of the Qur’an and the Sunnah. This includes groups such as the Shi’a, the various orders of Sufism, and other sects whose core tenets and practices contradict the foundational teachings of Islam. We believe that true unity is only achieved by adhering strictly to the way of the Prophet (ﷺ) and his Companions.
+21) We reject all sects, parties, and movements that deviate from the clear path of the Qur’an and the Sunnah. This includes groups such as the Shi’a, the various orders of Sufism, and other sects whose core tenets and practices contradict the foundational teachings of Islam. We believe that true unity is only achieved by adhering strictly to the way of the Prophet (ﷺ) and his Companions.
 
 > ***“Verily, those who divide their religion and break up into sects (all kinds of religious sects), you (O Muhammad) have no concern in them in the least. Their affair is only with Allah, Who then will tell them what they used to do”** (Quran, al-An‘am [6]:159)*
 
@@ -126,6 +120,19 @@ The Prophet ﷺ said, ***“Verily, the only cure for ignorance is to ask questi
 **(5).** Preservation: To safeguard the religion by refuting falsehoods and warning against distortions and bid’ah (innovations) that deviate from the Prophetic path. 
 
 **Finally**, We ask Allah, the Most High, to grant us success and to keep us steadfast upon the truth and the path of guidance. We pray that He allows us to remain firm in our adherence to His religion until we meet Him. May the peace and blessings of Allah be upon our Prophet Muhammad, and upon his family and all of his companions.
+
+***O Allah, send blessings and peace upon Your servant and Messenger, our Prophet Muhammad. O Allah, be pleased with his Rightly Guided Caliphs, the guiding imams: Abu Bakr, Umar, Uthman, and Ali; and with all of the Companions, the Tabi'un (Successors), and those who follow them in righteousness until the Day of Judgment.***
+
+​***O Allah, grant honor and strength to Islam and the Muslims, humiliate polytheism and the polytheists, destroy the enemies of the religion, and make this land safe and secure, as well as all other Muslim lands in general, O Lord of the Worlds.***
+
+​***O Allah, rectify our rulers and leaders. O Allah, guide them to that which contains their own goodness and the goodness of Islam and the Muslims. O Allah, rectify their inner circle/advisors, and keep away from them evil and corrupt entourages.***
+
+***​O Allah, we seek refuge in You from misleading trials. O Allah, we seek refuge in You from the callers to misguidance. O Allah, we seek refuge in You from the callers to strife and turmoil.***
+
+***O Allah, we seek refuge in You from the soldiers of Satan. O Allah, protect us from their sparks/evils. O Allah, repel their harm from us.***
+
+***​O Allah, keep us firmly holding onto our religion. Rectify for us our religion, which is the safeguard of our affairs; rectify for us our worldly life, in which is our livelihood; and rectify for us our Hereafter, to which is our return. Make life an increase for us in every good, and make death a comfort for us from every evil.***
+
 
 [^1]: Sahih Muslim 16 : The Messenger of Allah (ﷺ) said: **"Islam is built upon five [pillars]: testifying that there is none worthy of worship except Allah and that Muhammad is His servant and messenger, establishing prayer, giving zakah (obligatory charity), making the pilgrimage to the House (Ka'bah), and fasting in Ramadan."**
 [^2]: at-Tirmidhi 616, Ahmad 22258, Ibn Hibban 900.
