@@ -13,7 +13,7 @@ All praise be to Allah, The Lord of the worlds. And I testify that there is none
 
 ### Our Methodology
 
-Our content is rooted in the authentic ‘aqidah (creed) of Ahlus-Sunnah wal-Jama‘ah, adheres strictly to the Book of Allah and the Sunnah of His Messenger ﷺ, and dedicated to preserving and sharing this creed as it was understood and practiced by [the Salaf as-Salih (the Pious Predecessors)](https://alsalafiyyah.github.io/audios/who-are-the-salaf/) of this Ummah (Muslim nation).
+Our content is rooted in the authentic ‘aqidah (creed) of Ahlus-Sunnah wal-Jama‘ah, adheres strictly to the Book of Allah (the Qur'an) and the Sunnah of His Messenger ﷺ, and dedicated to preserving and sharing this creed as it was understood and practiced by [<mark>the Salaf as-Salih</mark> (the Pious Predecessors)](https://alsalafiyyah.github.io/audios/who-are-the-salaf/) of this Ummah (Muslim nation).
 
 ### Our ‘Aqidah (Creed)
 
