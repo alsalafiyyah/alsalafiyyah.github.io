@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on Divorce Due to Discovered Impiety of a Wife and"
+title: "Ruling on Divorce Due to Discovered Impiety of a Wife"
 date: 2026-06-02
 source: "Fatawa Nur ala al-Darb 21/148-150"
 category: [fatwas,women,marriage]
