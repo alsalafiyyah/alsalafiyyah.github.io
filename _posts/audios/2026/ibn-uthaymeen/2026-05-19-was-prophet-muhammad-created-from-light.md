@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-date: 2026-05-19-was-prophet-muhammad-created-from-light.md
+date: 2026-05-19
 title: "Was the Prophet Muhammad ﷺ Created from Light?"
 source: "Fatawa Nur 'ala al-Darb 331"
 category: [fatwas, audios, prophets]
