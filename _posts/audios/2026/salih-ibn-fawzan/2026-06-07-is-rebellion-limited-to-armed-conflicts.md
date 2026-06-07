@@ -8,7 +8,8 @@ tags: [salih-ibn-fawzan]
 mp3: "https://audio.alfawzan.live/e-010.mp3"
 link: "https://alfawzan.live/content/14279"
 active: audios
-translation: false
+translation: true
+lang: en
 source: "Fatwa no.14279"
 summary: "Rebellion is of various types. Among them is rebellion through speech, which occurs when someone incites or encourages rebellion against the ruler."
 muftis:
