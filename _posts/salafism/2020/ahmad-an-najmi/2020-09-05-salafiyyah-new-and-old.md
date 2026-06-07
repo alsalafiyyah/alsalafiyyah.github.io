@@ -6,7 +6,7 @@ title: "Ruling on the Categorization of Salafism into 'Old' and 'New'"
 date: 2020-09-05
 lang: en
 summary: "Salafism is a single Salafism, and whoever claims that there is an old Salafism and a new Salafism has lied."
-category: [fatwas,manhaj]
+category: [manhaj]
 tags: [ahmad-ibn-yahya]
 muftis:
   shaykh: 
