@@ -2,22 +2,22 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Is there a new and old Salafiyyah?"
-source: "al-Fataawah al-Jaleeyah 'an al-Manaahij ad-Da'waiyyah"
+title: "Ruling on the Categorization of Salafism into 'Old' and 'New'"
 date: 2020-09-05
 lang: en
-summary: "There is only one Salafiyyah, the one who claims that there is an old and new Salafiyyah has lied."
+summary: "Salafism is a single Salafism, and whoever claims that there is an old Salafism and a new Salafism has lied."
 category: [fatwas,manhaj]
-translated_by: Muhammad Elmi
+tags: [ahmad-ibn-yahya]
 muftis:
   shaykh: 
     - name: Shaykh Ahmad bin Yahya An-Najmi
       url: /biography/ahmad-alnajmi
 ---
+
 ### Question:
 
-Is there a 'Salafiyyah Qadeemah (old)' and 'Salafiyyah Jadeedah (new)', or is there just one Salafiyyah?
+Is there an old al-Salafiyyah (Salafism) and a new Salafism, or is it a single Salafism?
 
 ### Answer:
 
-There is only one Salafiyyah, the one who claims that there is an old and new Salafiyyah has lied. If we contemplate over the 'aqeedah of the Salaf from the time of the sahaabah to our time today, we find it to be one 'aqeedah, never contradicting each other. Even if they differed in the subsidiary legislations which are not from the fundamentals and beliefs, then surely they disagree in this (subsidiary legislations). Not one of them belittles the other. This was the way of the sahaabaah, may Allaah the most high be pleased with them all. As for the beliefs, then their manhaj (methodology) in this regard is one from the time of the Companions until now.
+Salafism is a single Salafism, and whoever claims that there is an old Salafism and a new Salafism has lied. If we contemplate the creed ('aqīdah) of the Salaf, from the era of the Companions until this day of ours, we find it to be a single creed; they do not differ concerning it. Even if they differed in the subsidiary rulings that are not part of the fundamentals and creeds—for they do differ in this, and none blames another—this was the way of the Companions, may Allah be pleased with them. As for creeds, their methodology (manhaj) regarding them has been one, from the era of the Companions until now.

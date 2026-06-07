@@ -60,7 +60,7 @@ Therefore, the favored generations are the Righteous Predecessors (al-Salaf al-S
 
 ## Further reading:
 
-- [What is Salafiyyah?](https://alsalafiyyah.github.io/what-is-salafiyyah/) - Permanent Committee
+- [What is Salafiyyah?](/what-is-salafiyyah/) - Permanent Committee
 - [Is Salafiyyah Limited to the Hanbali Madhab?](/is-salafiyyah-limited-to-the-hanbali-madhab) - Shaykh Ibn Baz
 - [Is Salafiyyah Just Another Islamic Sect?](/is-salafiyyah-just-another-islamic-sect) - Shaykh Salih al-Fawzan
 - [Are the Khawarij Considered Salafis?](/is-it-true-that-salafis-are-khawarij) - Shaykh Ibn Baz
@@ -70,6 +70,7 @@ Therefore, the favored generations are the Righteous Predecessors (al-Salaf al-S
 - [What is meant by the Salafi Methodology?](/what-is-meant-by-the-salafi-methodology) - Shaykh Salih al-Fawzan
 - [Is it correct to use the term 'Salafiyyah' in this day and age?](/audios/is-it-correct-to-use-the-term-salafiyyah) - Shaykh Ibn 'Uthaymeen
 - [Ruling on disbelieving in Salafiyyah](/audios/rule-on-disbelieving-in-salafiyyah/) - Shaykh Abdul-Muhsin al-Abbad
+- [Ruling on the Categorization of Salafism into 'Old' and 'New'](/salafiyyah-new-and-old/) - Shaykh Ahmad ibn Yahya al-Najmi
 
 ---
 
