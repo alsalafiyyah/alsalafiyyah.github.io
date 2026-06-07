@@ -56,7 +56,7 @@ He (may Allah preserve him) replied:
 
 The Salaf are the Companions (Sahabah), the Successors (Tabi'un), and the followers of the Successors (Atba al-Tabi'un). They are the favored generations praised by the Messenger of Allah ﷺ when he said: **"The best of people are my generation, then those who follow them, then those who follow them." The narrator added: "I do not know if he mentioned two or three generations after his."**
 
-Therefore, the favored generations are the Righteous Predecessors (al-Salaf al-Salih), whom Allah said regarding them: **"And the first to embrace Islam of the Muhajirun (those who migrated from Makkah to Al-Madinah) and the Ansar (the citizens of Al-Madinah who helped and gave aid to the Muhajirun) and also those who followed them exactly (in Faith). Allah is well-pleased with them as they are well-pleased with Him."** [At-Tawbah: 100].
+Therefore, the favored generations are the Righteous Predecessors (al-Salaf al-Salih), whom Allah said regarding them: **"And the first to embrace Islam of the Muhajirun (those who migrated from Makkah to Al-Madinah) and the Ansar (the citizens of Al-Madinah who helped and gave aid to the Muhajirun) and also those who followed them exactly (in Faith). Allah is well-pleased with them as they are well-pleased with Him."** [At-Tawbah: 100]. [^8]
 
 ## Further reading:
 
@@ -85,4 +85,5 @@ Therefore, the favored generations are the Righteous Predecessors (al-Salaf al-S
 [^5]: Musnad Ahmad 4/426, 4/427, 4/479; Al-Bukhari [Fath-ul-Bari] no. 2651, 3650, 6428, and 6695; Muslim no. 2535; Abu Dawud no. 4657; and Al-Tirmidhi, nos. 2222, 2223.
 [^6]: Fatwas of the Permanent Committee of KSA, Fatwa no. 1361, Question 2.
 [^7]: Fatwas of the Permanent Committee of KSA 12/241, Fatwa no. 6265, Question 1.
+[^8]: Fatwas of the Permanent Committee of KSA Question 346
 
