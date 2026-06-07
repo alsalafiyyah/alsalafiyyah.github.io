@@ -72,6 +72,7 @@ Therefore, the favored generations are the Righteous Predecessors (al-Salaf al-S
 - [Ruling on disbelieving in Salafiyyah](/audios/rule-on-disbelieving-in-salafiyyah/) - Shaykh Abdul-Muhsin al-Abbad
 - [Ruling on the Categorization of Salafism into 'Old' and 'New'](/salafiyyah-new-and-old/) - Shaykh Ahmad ibn Yahya al-Najmi
 - [A Response Regarding the Definition of the Salafi Methodology](/response-regarding-the-definition-of-the-salafi-manhaj) - Shaykh Ahmad Yahya al-Najmi
+- [The Legal Ruling on Openly Declaring Oneself a Salafi](/the-legal-ruling-on-openly-declaring-oneself-a-salafi) - Shaykh Ahmad Yahya al-Najmi
 
 ---
 
