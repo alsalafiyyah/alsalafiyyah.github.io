@@ -21,7 +21,7 @@ muftis:
 
 Regarding someone who calls for rebellion and claims that "rebellion against the Muslim community" does not refer to demonstrations and expressing opinions, but rather that the forbidden form of rebellion is strictly armed rebellion?
 
-​### Answer: 
+### Answer: 
 
 Rebellion is of various types. Among them is rebellion through speech, which occurs when someone incites or encourages rebellion against the ruler. This is considered rebellion even if they do not carry weapons; in fact, this may be more dangerous than carrying weapons. Whoever spreads the ideology of the Khawarij and encourages it is more dangerous than someone carrying weapons.
 
