@@ -46,7 +46,7 @@ How do you advise Muslims to confront this ideology, which has begun to spread i
 
 ### The Sheikh: 
 
-We advise Muslims not to be deceived by their claims. For the claims they make and their assertions that they adhere to the entirety of Islam have no basis and no truth to them; it is all the work of hypocrisy. They are the people of nifaq (hypocrisy) and the people of taqiyyah (dissimulation). Anyone who has studied their books would know this.
+We advise Muslims not to be deceived by their claims. For the claims they make and their assertions that they adhere to the entirety of Islam have no basis and no truth to them; it is all the work of hypocrisy. **They are the people of nifaq (hypocrisy) and the people of taqiyyah (dissimulation).** Anyone who has studied their books would know this.
 
 What is incumbent upon the believers and Muslims is to recognize that these claims, and the claim of the **"Islamic Republic,"** are entirely baseless. It is merely an Islamic facade, while the reality within is contrary to Islam. The reality within is idolatry, hostility toward Islam, and hostility toward the Prophet of Islam and all of his Sahabah (Companions)—refusing to pray for Allah to be pleased with them, and instead declaring them to be disbelievers and transgressors, except for a very small number [of the Companions].
 
