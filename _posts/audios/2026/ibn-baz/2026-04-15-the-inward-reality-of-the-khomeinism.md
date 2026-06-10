@@ -62,3 +62,4 @@ We ask Allah to guide them.
 
 ## See also: 
 - [The Islamic Ruling on the Ideology of Khomeini and the Iranian State](/islamic-ruling-on-the-ideology-of-khomeini) - Permanent Committee
+- [Clarification on the Meaning of 'Shia' and 'Rafidah'](/clarification-on-the-meaning-of-shia-and-rafidah) - Shaykh Ibn Uthaymeen
