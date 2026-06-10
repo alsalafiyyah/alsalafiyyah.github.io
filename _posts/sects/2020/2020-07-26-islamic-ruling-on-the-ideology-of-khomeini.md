@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Islamic Ruling on the Ideology of Khomeini"
+title: "The Islamic Ruling on the Ideology of Khomeini and the Iranian State"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 11461"
 category: [sects]
