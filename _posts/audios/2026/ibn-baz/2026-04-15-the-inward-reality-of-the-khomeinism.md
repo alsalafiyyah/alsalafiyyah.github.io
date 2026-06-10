@@ -18,7 +18,7 @@ muftis:
 
 ### ​Questioner: 
 
-Your Eminence, are the Khomeinists [followers of Khomeini] among the Rafida?
+Are the Khomeinists, Your Eminence Shaykh, from among the Rafida (the Shia)?
 
 ### ​The Sheikh: 
 
@@ -44,7 +44,7 @@ We ask Allah for well-being.
 
 How do you advise Muslims to confront this ideology, which has begun to spread in recent times, Shaykh Abd al-Aziz?
 
-### The Shaykh: 
+### The Sheikh: 
 
 We advise Muslims not to be deceived by their claims. For the claims they make and their assertions that they adhere to the entirety of Islam have no basis and no truth to them; it is all the work of hypocrisy. They are the people of nifaq (hypocrisy) and the people of taqiyyah (dissimulation). Anyone who has studied their books would know this.
 
