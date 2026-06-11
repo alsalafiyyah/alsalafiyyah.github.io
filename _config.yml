@@ -191,6 +191,12 @@ defaults:
     values:
       layout: post
       permalink: /audios/:title/
+  - scope:
+      path: "_posts/ibn-baz/audios/**"
+      type: posts
+    values:
+      layout: post
+      permalink: /audios/:title/
   
   # _posts/videos/    
   - scope:
@@ -212,6 +218,13 @@ defaults:
     values:
       layout: post
       permalink: /videos/:title/
+  - scope:
+      path: "_posts/ibn-baz/videos/**"
+      type: posts
+    values:
+      layout: post
+      permalink: /videos/:title/
+ 
   # _posts/muqolat/
   - scope:
       path: "_posts/muqolat/**"
