@@ -1,0 +1,16 @@
+---
+layout: page
+title: "Scholars"
+permalink: /scholar/
+---
+
+{% assign folder_path = "_pages/subfolder" %}
+{% assign target_files = site.pages | where_exp: "item", "item.path contains folder_path" %}
+
+<ul>
+  {% for file in target_files %}
+    <li>
+      <a href="{{ file.url | relative_url }}">{{ file.title | default: file.name }}</a>
+    </li>
+  {% endfor %}
+</ul>
