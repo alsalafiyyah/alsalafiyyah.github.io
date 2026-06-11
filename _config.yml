@@ -178,6 +178,12 @@ defaults:
       layout: post
       active: audios
       permalink: /audios/:title/
+  - scope:
+      path: "_posts/salih-ibn-fawzan/audios/**"
+      type: posts
+    values:
+      layout: post
+      permalink: /videos/:title/
   # _posts/videos/    
   - scope:
       path: "_posts/videos/**"
