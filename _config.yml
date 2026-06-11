@@ -170,6 +170,7 @@ defaults:
     values:
       layout: post
       permalink: /:title/
+
   # _posts/audios/
   - scope:
       path: "_posts/audios/**"
@@ -190,6 +191,7 @@ defaults:
     values:
       layout: post
       permalink: /audios/:title/
+  
   # _posts/videos/    
   - scope:
       path: "_posts/videos/**"
