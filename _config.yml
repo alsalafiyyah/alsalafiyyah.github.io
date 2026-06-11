@@ -197,6 +197,30 @@ defaults:
     values:
       layout: post
       permalink: /audios/:title/
+  - scope:
+      path: "_posts/abdul-muhsin/audios/**"
+      type: posts
+    values:
+      layout: post
+      permalink: /audios/:title/
+  - scope:
+      path: "_posts/albani/audios/**"
+      type: posts
+    values:
+      layout: post
+      permalink: /audios/:title/
+  - scope:
+      path: "_posts/muqbil-ibn-hadi/audios/**"
+      type: posts
+    values:
+      layout: post
+      permalink: /audios/:title/
+  - scope:
+      path: "_posts/muhammad-ibn-salih-luhaydan/audios/**"
+      type: posts
+    values:
+      layout: post
+      permalink: /audios/:title/
   
   # _posts/videos/    
   - scope:
