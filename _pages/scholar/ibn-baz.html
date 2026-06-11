@@ -21,8 +21,7 @@ permalink: /scholar/ibn-baz/
 
 <script id="fatwa-data" type="application/json">
 [
-  {% for post in site.posts %}
-   {% if post.path contains "_posts/ibn-baz/" %}
+  {% for post in ulama_posts %}
     {
       "title": {{ post.title | jsonify }},
       "url": {{ post.url | jsonify }},
@@ -30,7 +29,6 @@ permalink: /scholar/ibn-baz/
       "hijri": {{ post.hijri | jsonify }},
       "summary": {{ post.content | strip_html | truncatewords: 20 | jsonify }}
     }{% unless forloop.last %},{% endunless %}
-   {% endif %}
   {% endfor %}
 ]
 </script>
