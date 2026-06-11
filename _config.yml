@@ -255,7 +255,20 @@ defaults:
       type: posts
     values:
       layout: post
-      permalink: /muqolat/:title/    
+      permalink: /muqolat/:title/   
+  - scope:
+      path: "_posts/salih-ibn-fawzan/**"
+      type: posts
+    values:
+      layout: post
+      permalink: /muqolat/:title/ 
+  - scope:
+      path: "_posts/ibn-baz/**"
+      type: posts
+    values:
+      layout: post
+      permalink: /muqolat/:title/ 
+      
   # _posts/wahhabism/
   - scope:
       path: "_posts/wahhabism/**"

@@ -5,7 +5,7 @@ title: "What is Meant by the Salafi Methodology?"
 date: 2020-07-17
 hijri: "Dhul-Qa'dah 26, 1441"
 source: "Al-Muntaqa min Fataawa Fadilah ash-Shaykh Salih al-Fawzan, Fatwa no. 7080"
-category: [fatwas,manhaj]
+category: [manhaj]
 tags: [salih-ibn-fawzan]
 lang: en
 summary: "What is meant by the Salafi methodology is that which the Salaf (righteous predecessors) of this Ummah."
