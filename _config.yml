@@ -186,6 +186,12 @@ defaults:
       layout: post
       active: videos
       permalink: /videos/:title/
+  - scope:
+      path: "_posts/salih-ibn-fawzan/videos/**"
+      type: posts
+    values:
+      layout: post
+      permalink: /videos/:title/
   # _posts/muqolat/
   - scope:
       path: "_posts/muqolat/**"

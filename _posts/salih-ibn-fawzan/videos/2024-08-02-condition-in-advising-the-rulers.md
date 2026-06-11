@@ -8,7 +8,7 @@ date: 2024-08-02
 active: videos
 videoURL: "https://youtu.be/JJakiOP-YYk"
 videoID: "JJakiOP-YYk"
-category: [fatwas,videos,rulership,hadiths]
+category: [videos,rulership,hadiths]
 tags: [salih-ibn-fawzan]
 summary: "This Hadith does not mean that he should criticizes the ruler openly on the mimbars and on the streets, it says in his presence."
 muftis:

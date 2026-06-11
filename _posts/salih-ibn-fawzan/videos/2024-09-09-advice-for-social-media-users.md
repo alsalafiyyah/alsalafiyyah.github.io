@@ -4,7 +4,7 @@ publisher: alsalafiyyah@icloud.com
 title: "Advice for Social Media Users"
 hijri: "Rabiul Awwal 06, 1446 AH"
 date: 2024-09-09
-category: [fatwas,videos]
+category: [videos]
 tags: [salih-ibn-fawzan]
 active: videos
 summary: "Knowledge is not obtained from websites or social media networks; it is obtained directly from scholars, and not obtained from social media networks, rumors, or websites"
