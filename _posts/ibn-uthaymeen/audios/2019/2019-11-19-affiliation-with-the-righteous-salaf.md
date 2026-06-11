@@ -12,7 +12,6 @@ mp3: "https://www.alathar.net//files/sound/alothaymeen/almasjedalnabawy/split-53
 active: audios
 translation: false
 lang: en
-permalink: "/audios/affiliation-with-the-righteous-salaf"
 summary: "Affiliation with the Righteous Salaf is obligatory, because the Righteous Salaf are those who adhered to that which the Prophet (peace and blessings of Allah be upon him) was upon."
 muftis:
   shaykh: 

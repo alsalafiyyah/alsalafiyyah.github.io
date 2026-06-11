@@ -11,7 +11,6 @@ active: audios
 featured: true
 translation: false
 lang: en
-permalink: "/audios/is-it-correct-to-use-the-term-salafiyyah"
 summary: "It is Salafiyyah in 'aqidah (creed), even if it is not Salafiyyah in time, because the Salaf came before us chronologically."
 muftis:
   shaykh: 

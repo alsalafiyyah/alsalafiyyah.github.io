@@ -13,7 +13,6 @@ active: audios
 featured: true
 translation: true
 lang: en
-permalink: "/audios/who-are-the-salaf"
 summary: "The Righteous Salaf are the Sahabah (Companions of the Prophet ﷺ) and those who followed their path among the Tabi’un (Successors), and the Atba’ al-Tabi’un (Successors of the Successors)."
 muftis:
   shaykh: 

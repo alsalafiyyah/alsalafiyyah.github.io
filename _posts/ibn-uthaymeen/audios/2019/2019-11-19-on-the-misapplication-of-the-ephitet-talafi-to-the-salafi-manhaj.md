@@ -12,7 +12,6 @@ mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_235_12.mp3"
 active: audios
 translation: false
 lang: en
-permalink: "/audios/on-the-misapplication-of-the-ephitet-talafi-to-the-salafi-manhaj"
 summary: "Its ruling is that he himself is the one who is Talif (ruined). You should not find it strange, my brother, that the people of goodness are given pejorative epithets."
 muftis:
   shaykh: 

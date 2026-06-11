@@ -12,7 +12,6 @@ mp3: "https://www.alathar.net//files/sound/alothaymeen/leqamaftooh/split-220b-11
 active: audios
 translation: false
 lang: en
-permalink: "/audios/on-the-scope-of-the-term-salafi-and-rejection-of-factional-divisions"
 summary: "We must know that the term 'Salafi' is not confined to a specific group. Anyone who adheres to the methodology (madhhab) of the Salaf is a Salafi—that is the definition of a Salafi"
 muftis:
   shaykh: 
