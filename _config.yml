@@ -204,6 +204,12 @@ defaults:
     values:
       layout: post
       permalink: /videos/:title/
+  - scope:
+      path: "_posts/ibn-uthaymeen/videos/**"
+      type: posts
+    values:
+      layout: post
+      permalink: /videos/:title/
   # _posts/muqolat/
   - scope:
       path: "_posts/muqolat/**"
