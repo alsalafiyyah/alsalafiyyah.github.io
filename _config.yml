@@ -184,6 +184,12 @@ defaults:
     values:
       layout: post
       permalink: /videos/:title/
+  - scope:
+      path: "_posts/ibn-uthaymeen/audios/**"
+      type: posts
+    values:
+      layout: post
+      permalink: /videos/:title/
   # _posts/videos/    
   - scope:
       path: "_posts/videos/**"
