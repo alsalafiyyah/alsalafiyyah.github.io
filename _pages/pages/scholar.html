@@ -4,12 +4,6 @@ title: "Scholars"
 permalink: /scholar/
 ---
 
----
-layout: page
-title: "Scholars"
-permalink: /scholar/
----
-
 {% assign folder_path = "_pages/scholar" %}
 {% assign target_files = site.pages | where_exp: "item", "item.path contains folder_path" | where_exp: "item", "item.url != page.url" %}
 
