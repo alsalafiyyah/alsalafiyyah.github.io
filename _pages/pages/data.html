@@ -3,6 +3,11 @@ layout: page
 title: "Data"
 permalink: /data/
 ---
+
+{% assign alifta_posts = site.posts | where_exp:"item", "item.path contains '_posts/alifta/'" %}
+
+<p>Total Alifta Posts: {{ alifta_posts.size }}</p>
+
 <div id="fatwa-container"></div>
 <nav id="pagination-nav" class="flex items-center justify-between border-t-4 border-black dark:border-white pt-12 mt-12 mb-24">
     <a id="prev-link" href="#" class="text-sm font-black uppercase tracking-widest hover:line-through invisible">← Newer</a>
