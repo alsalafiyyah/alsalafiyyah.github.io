@@ -4,7 +4,7 @@ publisher: alsalafiyyah@icloud.com
 date: 2026-06-11
 title: "Islam’s Innocence from the Crimes of Bombing and Terrorizing the Peaceful"
 source: "Liqa' al-Bab al-Maftuh 129, Question 2"
-category: [audios, sects]
+category: [audios, sects, terrorism]
 tags: [ibn-uthaymeen]
 translation: false
 lang: en
