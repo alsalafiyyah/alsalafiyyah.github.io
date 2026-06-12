@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-date: 2026-06-12-on-the-fallacy-of-justifying-terror-as-jihad.md
+date: 2026-06-12
 title: "On the Fallacy of Justifying Terror as Jihad"
 category: [audios, rulers, sects, terrorism]
 tags: [salih-ibn-fawzan]
