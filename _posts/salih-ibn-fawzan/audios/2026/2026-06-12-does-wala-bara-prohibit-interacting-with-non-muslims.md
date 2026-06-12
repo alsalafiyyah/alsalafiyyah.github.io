@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-06-12-does-wala-bara-prohibit-interacting-with-non-muslims.md
 title: "Does Al-Wala' wal-Bara' Prohibit Interacting and Speaking with Non-Muslims?"
-category: [audios, rulers, wala-bara, non-muslim]
+category: [audios, wala-bara, non-muslim]
 tags: [salih-ibn-fawzan]
 mp3: "https://audio.alfawzan.live/fth0528--01.mp3"
 link: "https://alfawzan.live/content/14475/"
