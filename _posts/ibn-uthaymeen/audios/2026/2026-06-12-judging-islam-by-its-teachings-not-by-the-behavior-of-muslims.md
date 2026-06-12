@@ -31,6 +31,6 @@ A lizard's hole is well-known to be winding and not straight. Yet, even if they 
 
 Therefore, it is obligatory for a person who truly wants to attain faith in Allah (the Mighty and Majestic) to examine Islam itself, not Muslims. 
 
-As for Muslims today, as you can see, among them are those who engage in lying, cheating, fornication, homosexuality, theft, usury, shirk, and unjustified aggression. Such traits are completely inappropriate for them. Furthermore, these characteristics are not prevalent among all Muslims. However, this man might happen to encounter only those who display such bad manners, while the victorious, sound group of Muslims is elsewhere, and he knows nothing about them.
+As for Muslims today, as you can see, among them are those who engage in lying, cheating, fornication, homosexuality, theft, usury, shirk (polytheism), and unjustified aggression. Such traits are completely inappropriate for them. Furthermore, these characteristics are not prevalent among all Muslims. However, this man might happen to encounter only those who display such bad manners, while the victorious, sound group of Muslims is elsewhere, and he knows nothing about them.
 
 The duty—as I have said and repeat—is that a person must look solely at the teachings of Islam, not at the behavior of Muslims.
