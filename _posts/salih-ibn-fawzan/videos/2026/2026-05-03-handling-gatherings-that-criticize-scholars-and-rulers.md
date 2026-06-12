@@ -5,7 +5,7 @@ publisher: alsalafiyyah@icloud.com
 title: "When to Leave: Handling Gatherings that Criticize Scholars and Rulers"
 hijri: "Dhu al-Qidah 14, 1447 AH"
 date: 2026-05-03
-category: [fatwas,videos,rulership]
+category: [videos,rulership]
 tags: [salih-ibn-fawzan]
 active: videos
 summary: "The Ayats (verses) of Allah forbid reviling the Muslim rulers and forbid attacking the honor of [any] Muslims."
