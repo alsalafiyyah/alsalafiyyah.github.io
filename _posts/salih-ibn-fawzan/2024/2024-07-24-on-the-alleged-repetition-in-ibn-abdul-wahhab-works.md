@@ -7,6 +7,7 @@ date: 2024-07-24-on-the-alleged-repetition-in-ibn-abdul-wahhab-works.md
 category: [wahhabism,manhaj]
 tags: [salih-ibn-fawzan]
 lang: en
+link: "https://www.al-amen.com/vb/showthread.php?t=21291"
 summary: "It is either an ignorant individual who has neither studied them nor grasped their reality."
 muftis:
   shaykh: 
