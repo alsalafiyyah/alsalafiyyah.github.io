@@ -2,7 +2,7 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-06-14
-title: "Responding to the Claim that Tawhid al-Uluhiyyah is an Innovation"
+title: "Is Tawhid al-Uluhiyyah an Innovation of Shaykh Muhammad ibn Abd al-Wahhab?"
 source: "Liqa' al-Bab al-Maftuh 52"
 category: [manhaj, videos]
 tags: [ibn-uthaymeen]
