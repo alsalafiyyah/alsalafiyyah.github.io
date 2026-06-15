@@ -2,7 +2,6 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-06-14
-hijri: "Dhu al-Qidah 3, 1447 AH"
 title: "When is Ignorance Not an Excuse?"
 source: "Fatawa al-Haram al-Maki 1411"
 category: [manhaj,audios]
