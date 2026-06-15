@@ -8,7 +8,7 @@ source: "Fatawa al-Haram al-Maki 1411"
 category: [manhaj,audios]
 tags: [ibn-uthaymeen]
 link: "https://alathar.net/home/esound/index.php?op=codevi&coid=120248"
-mp3: "https://www.alathar.net//files/sound/alothaymeen/fatawaalharam/1411/split-09a-23.mp3"
+mp3: "/assets/audios/when-ignorance-is-not-an-excuse.mp3"
 summary: "This is to be understood as referring to ignorance resulting from negligence on the part of the individual in failing to learn."
 muftis:
   shaykh: 
