@@ -2,7 +2,7 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-06-14
-title: "Responding to the Claim that Tawhid al-Uluhiyyah is Wahhabism"
+title: "Responding to the Claim that Tawhid al-Uluhiyyah is an Innovation"
 source: "Liqa' al-Bab al-Maftuh 52"
 category: [manhaj, videos]
 tags: [ibn-uthaymeen]
@@ -20,7 +20,7 @@ muftis:
 
 ### Question:
 
-If a man dislikes Tawhid al-Uluhiyyah (Oneness of Divinity) and says, "This is merely something innovated by Muhammad ibn Abd al-Wahhab al-Najdi," how should we respond to him?
+If a man dislikes Tawhid al-Uluhiyyah (The Oneness of Divinity in Worship) and says, "This is merely something innovated by Muhammad ibn Abd al-Wahhab al-Najdi," how should we respond to him?
 
 ### Answer:
 
