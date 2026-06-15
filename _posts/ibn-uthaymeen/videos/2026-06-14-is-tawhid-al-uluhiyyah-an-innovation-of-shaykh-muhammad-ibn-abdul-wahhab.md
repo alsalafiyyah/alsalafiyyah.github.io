@@ -20,22 +20,26 @@ muftis:
 
 ### Question:
 
-If a man dislikes Tawhid al-Uluhiyyah (The Oneness of Divinity in Worship) and says, "This is merely something innovated by Muhammad ibn Abd al-Wahhab al-Najdi," how should we respond to him?
+If this man is a Sufi and hates this Tawhid [al-Uluhiyyah (Oneness of Allah, monotheism)], saying, 'This is something innovated by Muhammad ibn Abd al-Wahhab al-Najdi,' how do we respond to him and what arguments do we use against him?
 
 ### Answer:
 
-We respond to him by asking: "Did Muhammad ibn Abd al-Wahhab al-Najdi come before the Quran or after the Quran?"
+We respond to him by asking: Did Muhammad ibn Abd al-Wahhab al-Najdi come before the Quran or after the Quran?
 
-He will definitely reply: "After the Quran."
+Questioner: After the Quran.
 
-So we say to him: The entire Quran is filled with the establishment of Tawhid al-Uluhiyyah. We then recite some verses to him regarding this:
+Shaykh: He will say 'after the Quran, absolutely.'  The Quran in its entirety is filled with the realization (and establishing) of Tawhid al-Uluhiyyah (the Oneness of Divinity in worship).
 
-**"Allah witnesses that there is no deity except Him, and [so do] the angels and those of knowledge—[that He is] maintaining [creation] in justice. There is no deity except Him, the Exalted in Might, the Wise."** [Al 'Imran: 18]
+**“Allâh bears witness that Lâ ilâha illa Huwa (none has the right to be worshipped but He), and the angels, and those having knowledge (also give this witness); (He always) maintains His creation in Justice. Lâ ilâha illa Huwa (none has the right to be worshipped but He), the All-Mighty, the All-Wise.”** [Al ‘Imran: 18]
 
-**"O mankind, worship your Lord, who created you and those before you, that you may become righteous."** [Al-Baqarah: 21]
+**“O mankind! Worship your Lord (Allâh), Who created you and those who were before you so that you may become Al-Muttaqûn (the pious).”** [Al-Baqarah: 21]
 
-**"And We sent not before you any messenger except that We revealed to him that, 'There is no deity except Me, so worship Me'."** [Al-Anbiya: 25]
+**“And We did not send any Messenger before you (O Muhammad) but We revealed to him (saying): 'Lâ ilâha illa Ana [none has the right to be worshipped but I (Allâh)], so worship Me (Alone and none else).'”** [Al-Anbiya: 25]
 
-**"And We certainly sent into every nation a messenger, [saying], 'Worship Allah and avoid Taghut (false deities)'."** [An-Nahl: 36]
+**“And verily, We have sent among every Ummah (community, nation) a Messenger (proclaiming): "Worship Allâh (Alone), and avoid (or keep away from) Tâghût1 (all false deities i.e. do not worship Tâghût besides Allâh)’.”** [An-Nahl: 36]
 
-The verses on this matter are numerous, and the Quran is filled with them. Therefore, it is the Quran itself that called to Tawhid al-Uluhiyyah, made it obligatory, and bound people to it.
+The verses regarding this are many, and the Quran is filled with them. 
+
+Was Muhammad ibn Abd al-Wahhab before the Quran or after it? He will say, after it, correct?
+
+Therefore, it is the Quran itself that called to Tawhid al-Uluhiyyah, made it obligatory, and bound people to it.
