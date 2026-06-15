@@ -1,9 +1,9 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-date: 2026-06-14-responding-to-the-laim-that-the-monotheism-of-worship-is-wahhabism.md
-title: "Responding to the Claim that the Monotheism of Worship is Wahhabism"
-source: "Liqa'al-Bab al-Maftuh, Tape 52"
+date: 2026-06-14
+title: "Responding to the Claim that the Tawhid of Worship is Wahhabism"
+source: "Liqa' al-Bab al-Maftuh 52"
 category: [manhaj]
 tags: [ibn-uthaymeen]
 link: "https://fatawapedia.com/%D9%87%D9%84-%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D8%A7%D9%84%D8%A3%D9%84%D9%88%D9%87%D9%8A%D8%A9-%D9%85%D9%85%D8%A7-%D8%A3%D8%AD%D8%AF%D8%AB%D9%87-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%88%D9%87%D8%A7%D8%A8-11754"
