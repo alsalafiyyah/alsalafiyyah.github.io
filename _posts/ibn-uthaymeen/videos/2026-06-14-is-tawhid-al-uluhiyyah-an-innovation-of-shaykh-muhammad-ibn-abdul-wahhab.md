@@ -20,7 +20,7 @@ muftis:
 
 ### Question:
 
-If this man is a Sufi and hates this Tawhid [al-Uluhiyyah (Oneness of Allah, monotheism)], saying, 'This is something innovated by Muhammad ibn Abd al-Wahhab al-Najdi,' how do we respond to him and what arguments do we use against him?
+If this man is a Sufi and hates this Tawhid [al-Uluhiyyah (Oneness of Divinity in worship)], saying, 'This is something innovated by Muhammad ibn Abd al-Wahhab al-Najdi,' how do we respond to him and what arguments do we use against him?
 
 ### Answer:
 
@@ -28,7 +28,9 @@ We respond to him by asking: Did Muhammad ibn Abd al-Wahhab al-Najdi come before
 
 Questioner: After the Quran.
 
-Shaykh: He will say 'after the Quran, absolutely.'  The Quran in its entirety is filled with the realization (and establishing) of Tawhid al-Uluhiyyah (the Oneness of Divinity in worship).
+Shaykh: He will say 'after the Quran, absolutely.'  
+
+The Quran in its entirety is filled with the realization (and establishing) of Tawhid al-Uluhiyyah (the Oneness of Divinity in worship).
 
 **“Allâh bears witness that Lâ ilâha illa Huwa (none has the right to be worshipped but He), and the angels, and those having knowledge (also give this witness); (He always) maintains His creation in Justice. Lâ ilâha illa Huwa (none has the right to be worshipped but He), the All-Mighty, the All-Wise.”** [Al ‘Imran: 18]
 
