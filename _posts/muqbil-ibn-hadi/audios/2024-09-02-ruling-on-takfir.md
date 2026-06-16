@@ -1,15 +1,15 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Did the Salaf declare a particular individual a disbeliever?"
+title: "The Ruling on Declaring a Specific Individual a Disbeliever"
 hijri: "Safar 29, 1446"
 source: "Gharatul Ashritah 2/291"
 date: 2024-09-02
-category: [fatwas,audios]
+category: [audios, manhaj]
 tags: [muqbil-ibn-hadi]
 active: audios
-summary: "Takfir of a particular individual who commits what would necessitate disbelief due to it, then there is nothing wrong in making takfir of him."
-translated_by: "Abu Hatim Muhammad Faruq"
+lang: en
+summary: "Regarding declaring a specific individual a disbeliever when they commit an act that necessitates disbelief—such as contradicting a definitive text or deeming a forbidden matter as permissible—there is no harm in doing so"
 mp3: "https://www.muqbel.net/files/fatwa/muqbel-fatwa4337.mp3"
 article_taken_from: 
   taken_from:
@@ -21,13 +21,18 @@ muftis:
       url: "/biography/muqbil/"
 ---
 
-### Question:
-Is it allowed to declare a particular individual a disbeliever and did the Salaf in the past declare a particular individual a disbeliever?
+### Question: 
 
-### Answer:
-Takfir of a particular individual who commits what would necessitate kufr (disbelief) due to it – by either going against clear proofs or making something haram into something halal, then there is nothing wrong in making takfir of him – but with the condition, as has preceded that he commits what would necessitate kufr due to it, otherwise it is as the Prophet ﷺ said as is found in the ‘Sahih (authentic)’ **"Whoever says to his brother ‘O kafir’, if it is as he says then so, otherwise it returns back to him."**
+Is it permissible to declare a specific individual a disbeliever, and did the Salaf declare specific individuals as disbelievers in the past?
 
-As for cursing a particular individual like the one who sinned from amongst the Muslims, then that which is correct is that it is impermissible, because the Prophet ﷺ said to ‘Umar in the incident when he said to Nu’ayman as is found in Sahih Al-Bukhari: **“May Allah disgrace you, how many times have you been bought out?” So the Prophet ﷺ said: "Do not aid the Satan upon your brother"**. 
+### Answer: 
 
-So the like of the takfir on a particular individual who commits what would necessitate kufr due to it – then Imam Ash-Shafi’i (may Allah Ta'ala have mercy on him) said concerning Hafs Al-Fard: **“He is a kafir due to the fact that he says: the Qur’an is created”**.
+Praise be to Allah, Lord of the Worlds, and may peace and blessings be upon our Prophet Muhammad, and upon all his family and companions. I bear witness that there is no deity worthy of worship except Allah alone, without partner, and I bear witness that Muhammad is His servant and Messenger.
 
+To proceed: 
+
+Regarding declaring a specific individual a disbeliever when they commit an act that necessitates disbelief—such as contradicting a definitive text or deeming a forbidden matter as permissible—there is no harm in doing so, provided that (as previously mentioned) they actually commit what necessitates disbelief. Otherwise, the Prophet (peace and blessings of Allah be upon him and his family) said, as recorded in Al-Sahih: **"Whoever says to his brother, 'O disbeliever,' it will apply to him if it is true; otherwise, it will return upon the one who said it."**
+
+As for cursing a specific individual who is a sinner among the Muslims, the correct view is that it is not permissible. This is because the Prophet (peace and blessings of Allah be upon him and his family) said to Umar—when he spoke to Nu'ayman, as recorded in Sahih al-Bukhari: **"May Allah disgrace you, how often you are brought [for drinking alcohol]!"—the Prophet (peace and blessings of Allah be upon him and his family) said: "Do not aid Satan against your brother."**
+
+However, regarding declaring a specific individual a disbeliever when they commit what necessitates disbelief, Imam al-Shafi’i (may Allah the Exalted have mercy on him) said to Hafs al-Fard: **"Indeed, he is a disbeliever,"** because he claimed that the Qur'an is created.
