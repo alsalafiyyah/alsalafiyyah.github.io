@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-date: 2026-06-16-islamic-solidarity-and-the-status-of-non-muslim-workers.md
+date: 2026-06-16
 title: "Islamic Solidarity and the Status of Non-Muslim Workers"
 source: "Liqa' al-Shahri Tape 6, Question 6"
 category: [non-muslim,audios]
