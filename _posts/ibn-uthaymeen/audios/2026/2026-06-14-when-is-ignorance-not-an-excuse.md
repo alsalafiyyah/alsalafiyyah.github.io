@@ -6,6 +6,7 @@ title: "When is Ignorance Not an Excuse?"
 source: "Fatawa al-Haram al-Maki 1411"
 category: [manhaj,audios]
 tags: [ibn-uthaymeen]
+lang: en
 link: "https://alathar.net/home/esound/index.php?op=codevi&coid=120248"
 mp3: "https://alsalafiyyah.github.io/assets/audios/when-ignorance-is-not-an-excuse.mp3"
 summary: "This is to be understood as referring to ignorance resulting from negligence on the part of the individual in failing to learn."

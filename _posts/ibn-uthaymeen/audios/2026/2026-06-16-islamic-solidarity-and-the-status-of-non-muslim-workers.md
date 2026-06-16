@@ -6,6 +6,7 @@ title: "Islamic Solidarity and the Status of Non-Muslim Workers"
 source: "Liqa' al-Shahri Tape 6, Question 6"
 category: [non-muslim,audios]
 tags: [ibn-uthaymeen]
+lang: en
 link: "https://binothaimeen.net/s/9GUwzRNo"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/mm_006_06.mp3"
 summary: "There is no doubt that the enmity of the disbelievers toward Muslims is ancient and deep-rooted."
