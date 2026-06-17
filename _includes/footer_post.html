@@ -125,7 +125,7 @@
         <div class="space-y-6">
             <div>
                 <span class="text-gray-400 block mb-1">{{ site.site_elements.published }}</span>
-                    <p class="leading-relaxed">{{ page.date | date: "%m/%d/%Y" }}</p>
+                    <p class="leading-relaxed">{{ post.date | date: "%d.%m.%Y" }}</p>
             </div>
 
             {% if page.categories.size > 0 %}
