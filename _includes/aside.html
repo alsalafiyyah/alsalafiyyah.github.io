@@ -1,7 +1,7 @@
 <aside itemscope itemtype="https://schema.org/WPSideBar" class="hidden md:block md:col-span-3 space-y-12 sticky top-12 self-start">
 
  <div class="border-t-2 border-black dark:border-white pt-4">
-    <span class="text-[10px] font-black uppercase tracking-widest text-gray-400 block mb-4">Scholars</span>
+    <span class="text-[10px] font-black uppercase tracking-widest text-gray-400 block mb-4">{{ site.site_elements.scholars }}</span>
     <div class="relative group">
 {% assign folder_path = "_pages/scholar" %}
 {% assign target_files = site.pages | where_exp: "item", "item.path contains folder_path" | where_exp: "item", "item.url != page.url" %}
