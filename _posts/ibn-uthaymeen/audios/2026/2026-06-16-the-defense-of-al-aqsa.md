@@ -2,7 +2,7 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-06-16
-title: "The Defense of Al-Aqsa"
+title: "Al-Aqsa Crisis"
 source: "Liqa' al-Shahri Tape 38, Question 9"
 category: [palestine,audios]
 tags: [ibn-uthaymeen]
