@@ -34,7 +34,7 @@ summary: "Compilation of fatwas (legal opinions) issued by the scholars of ahlus
                 
                 <!-- Text Abstract: Tight, clear paragraph rhythm -->
                 {% assign abstract = post.summary | default: post.content %}
-                <p class="text-xs text-zinc-500 dark:text-zinc-400 lowercase normal-case leading-relaxed max-w-2xl line-clamp-2 font-normal">
+                <p class="text-sm text-zinc-500 dark:text-zinc-400 lowercase normal-case leading-relaxed max-w-2xl line-clamp-2 font-normal">
                     {{ abstract | strip_html | strip_newlines | truncate: 140 }}
                 </p>
             </div>
