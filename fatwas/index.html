@@ -5,13 +5,19 @@ active: fatwas
 summary: "Compilation of fatwas (legal opinions) issued by the scholars of ahlus-sunnah."
 ---
 
-    {% for post in paginator.posts %}
+{% for post in paginator.posts %}
+    {% assign path_parts = post.path | split: '/' %}
+    
+    {% assign scholar_slug = path_parts[1] %}
+    
+    {% assign scholar_name = scholar_slug | replace: "-", " " | capitalize %}
+
     <article class="group py-4 border-b border-gray-100 dark:border-zinc-800 last:border-0">
         <div class="grid grid-cols-1 md:grid-cols-12 gap-4 items-start">
             
             <div class="md:col-span-3 flex flex-col gap-1">
-                <span class="text-[10px] font-black tabular-nums opacity-20 group-hover:opacity-100 transition-opacity">
-                    ENTRY NO. {{ forloop.index | prepend: '0' | slice: -2, 2 }}
+                <span class="text-[10px] font-black uppercase tabular-nums opacity-20 group-hover:opacity-100 transition-opacity">
+                    {{ scholar_name }}
                 </span>
                 <span class="text-[10px] font-black uppercase tracking-widest text-gray-400">
                     {{ post.date | date_to_string: "ordinal" }}
@@ -29,7 +35,7 @@ summary: "Compilation of fatwas (legal opinions) issued by the scholars of ahlus
 
         </div>
     </article>
-    {% endfor %}
+{% endfor %}
 
 {% if paginator.total_pages > 1 %}
 <nav class="flex items-center justify-between border-t-4 border-black dark:border-white pt-12 mt-12 mb-24 transition-colors">
