@@ -22,7 +22,7 @@ active: category
     {
       "title": {{ post.title | jsonify }},
       "url": {{ post.url | relative_url | jsonify }},
-      "date": {{ post.date | date: "%Y-%m-%d" | jsonify }},
+      "date": {{ post.date | date: "%d.%m.%Y" | jsonify }},
       "hijri": {{ post.hijri | jsonify }},
       "scholar": {{ post.scholar | jsonify }},
       "summary": {{ post.summary | default: "" | jsonify }}

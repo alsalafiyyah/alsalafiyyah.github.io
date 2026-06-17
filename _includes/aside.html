@@ -6,7 +6,7 @@
         {% for post in site.posts limit:3 %}
         <a href="{{ post.url | relative_url }}" class="group block">
             <span class="text-[9px] font-bold uppercase tracking-widest opacity-40 group-hover:opacity-100 transition-opacity">
-                {{ post.date | date: "%m/%d/%Y" }}
+                {{ post.date | date: "%d.%m.%Y" }}
             </span>
             <h4 class="text-sm font-black leading-tight uppercase mt-1 group-hover:bg-black group-hover:text-white dark:group-hover:bg-white dark:group-hover:text-black transition-all p-1 -ml-1">
                 {{ post.title }}
