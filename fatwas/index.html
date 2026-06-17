@@ -7,33 +7,39 @@ summary: "Compilation of fatwas (legal opinions) issued by the scholars of ahlus
 
 {% for post in paginator.posts %}
     {% assign path_parts = post.path | split: '/' %}
-    
     {% assign scholar_slug = path_parts[1] %}
-    
-    {% assign scholar_name = scholar_slug | replace: "-", " " | capitalize %}
+    {% assign scholar_name = scholar_slug | replace: "-", " " | uppercase %}
 
-    <article class="group py-4 border-b border-gray-100 dark:border-zinc-800 last:border-0">
-        <div class="grid grid-cols-1 md:grid-cols-12 gap-4 items-start">
+    <article class="group block border-b border-black/10 dark:border-white/10 hover:border-black dark:hover:border-white transition-colors duration-300 py-8 first:pt-4 last:border-b-0">
+        <a href="{{ post.url | relative_url }}" class="grid grid-cols-1 md:grid-cols-12 gap-4 md:gap-8 items-baseline w-full">
             
-            <div class="md:col-span-3 flex flex-col gap-1">
-                <span class="text-[10px] font-black uppercase tabular-nums opacity-20 group-hover:opacity-100 transition-opacity">
+            <!-- Metadata: Alignment Column -->
+            <div class="md:col-span-3 flex flex-row md:flex-col justify-between md:justify-start gap-2 text-[10px] font-black uppercase tracking-[0.2em]">
+                <!-- Scholar Source -->
+                <span class="text-zinc-400 dark:text-zinc-500 group-hover:text-black dark:group-hover:text-white transition-colors">
                     {{ scholar_name }}
                 </span>
-                <span class="text-[10px] font-black uppercase tracking-widest text-gray-400">
-                    {{ post.date | date_to_string: "ordinal" }}
+                <!-- Post Date Layout -->
+                <span class="text-zinc-400 dark:text-zinc-600 tabular-nums">
+                    {{ post.date | date: "%d.%m.%Y" }}
                 </span>
             </div>
 
-            <div class="md:col-span-9">
-                <h3 class="text-3xl md:text-5xl font-black uppercase tracking-tighter leading-[0.85] group-hover:italic transition-all">
-                    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            <!-- Content Area Column -->
+            <div class="md:col-span-9 flex flex-col gap-2">
+                <!-- Title: Structured & Highly Scalable -->
+                <h3 class="text-lg md:text-xl font-bold uppercase tracking-tight leading-snug text-black dark:text-white group-hover:underline decoration-2 underline-offset-4">
+                    {{ post.title }}
                 </h3>
-                <p class="mt-6 text-sm text-gray-500 dark:text-zinc-500 leading-relaxed max-w-xl line-clamp-2">
-                    {{ post.content | strip_html | truncatewords: 25 }}
+                
+                <!-- Text Abstract: Tight, clear paragraph rhythm -->
+                {% assign abstract = post.summary | default: post.content %}
+                <p class="text-xs text-zinc-500 dark:text-zinc-400 lowercase normal-case leading-relaxed max-w-2xl line-clamp-2 font-normal">
+                    {{ abstract | strip_html | strip_newlines | truncate: 140 }}
                 </p>
             </div>
 
-        </div>
+        </a>
     </article>
 {% endfor %}
 
