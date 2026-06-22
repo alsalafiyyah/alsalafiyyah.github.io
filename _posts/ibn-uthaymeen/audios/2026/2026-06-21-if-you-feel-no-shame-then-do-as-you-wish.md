@@ -26,6 +26,6 @@ Yes, the meaning of this hadith—**"If you feel no shame, then do as you wish"*
 
 The First Meaning: You should not do anything unless it is something that will not cause you embarrassment, whether from the perspective of Shariah or custom. In other words, if you intend to do an action, look to see if it is something to be ashamed of according to Shariah or custom; if it is, do not do it. If it is not something to be ashamed of according to Shariah or custom, then do it. This is one meaning.
 
-The Second Meaning: A person who has no shame will do whatever they want and will not care. You will find that someone who lacks shame does things that people blame them for, yet they do not care about the blame of others because they have no shame.
-​
+The Second Meaning: A person who has no shame will do whatever they want and will not care. You will find that someone who lacks shame does things that people blame them for, yet they do not care about the blame of others because they have no shame. 
+
 Both meanings are correct. A person who lacks shame is found doing everything, completely unconcerned by people's blame or criticism because they have no shame. Alternatively, the second possible meaning of the hadith is that a person who possesses shame is one who does not do anything unless they know it is not something to be ashamed of. Yes.
