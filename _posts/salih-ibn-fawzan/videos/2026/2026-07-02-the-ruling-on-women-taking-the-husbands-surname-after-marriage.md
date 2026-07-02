@@ -3,7 +3,7 @@ layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
 title: "Ruling on women taking the husband's surname after marriage"
-date: 2026-06-12
+date: 2026-07-02
 category: [videos,marriage,women]
 tags: [salih-ibn-fawzan]
 active: videos
