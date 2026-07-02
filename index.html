@@ -48,9 +48,9 @@ layout: default
 {% for post in site.posts limit:5 %}
     {% if post.url == featured_post.url %}{% continue %}{% endif %}
     
-    {% assign path_parts = post.id | split: '/' %}
+    {% assign path_parts = post.path | split: '/' %}
     {% assign scholar_slug = path_parts[1] %}
-    {% assign scholar_name = scholar_slug | replace: '-', ' ' | capitalize %}
+    {% assign scholar_name = scholar_slug | replace: "-", " " | uppercase %}
     
     <article class="group py-12 flex flex-col md:flex-row md:items-center justify-between gap-6">
         <div class="max-w-2xl">
