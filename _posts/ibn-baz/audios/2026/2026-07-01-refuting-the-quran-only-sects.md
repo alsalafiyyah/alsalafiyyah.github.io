@@ -4,7 +4,7 @@ title: "Refuting the 'Qur'an-Only' Sects"
 publisher: "alsalafiyyah@icloud.com"
 date: 2026-07-01
 active: audios
-category: ["sects",audios,quranists]
+category: ["sects",audios,quranism]
 translation: false
 tags: [ibn-baz]
 lang: en

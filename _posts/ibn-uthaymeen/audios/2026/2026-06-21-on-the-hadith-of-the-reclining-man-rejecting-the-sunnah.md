@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-06-21
 title: "On the Hadith of the Reclining Man Rejecting the Sunnah"
-category: ["sects",audios,hadiths,quranists]
+category: ["sects",audios,hadiths,quranism]
 tags: [ibn-uthaymeen]
 lang: en
 source: "Liqa' al-Bab al-Maftuh, Tape 87, Question 3"
