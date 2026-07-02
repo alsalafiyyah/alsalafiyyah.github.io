@@ -55,9 +55,7 @@ layout: default
     <article class="group py-12 flex flex-col md:flex-row md:items-center justify-between gap-6">
         <div class="max-w-2xl">
             <div class="flex items-center gap-4 mb-2">
-                <span class="text-[10px] font-bold tabular-nums opacity-30">{{ forloop.index | prepend: '0' | slice: -2, 2 }}</span>
                 <span class="text-[10px] font-black uppercase tracking-widest text-gray-400">{{ post.date | date: "%d.%m.%Y" }}</span>
-                
                 {% if scholar_name != "" %}
                     <span class="text-[10px] font-black uppercase tracking-widest text-indigo-500">| {{ scholar_name }}</span>
                 {% endif %}
