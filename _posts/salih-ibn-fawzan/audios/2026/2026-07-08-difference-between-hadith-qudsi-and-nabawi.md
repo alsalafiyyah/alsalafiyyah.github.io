@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-date: 2026-07-08-difference-between-hadith-qudsi-and-nabawi.md
+date: 2026-07-08
 title: "The Difference Between Hadith Qudsi and Nabawi"
 category: [audios, hadiths]
 tags: [salih-ibn-fawzan]
