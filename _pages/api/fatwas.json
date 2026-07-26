@@ -6,17 +6,19 @@ permalink: /api/fatwas.json
   {% for post in site.posts %}
   {
     "title": {{ post.title | default: "" | jsonify }},
+    "hijri_date": {{ post.hijri | jsonify }},
     "date": "{{ post.date | date_to_xmlschema }}",
     "url": {{ post.url | absolute_url | jsonify }},
-    "layout": {{ post.layout | jsonify }},
     "publisher": {{ post.publisher | jsonify }},
-    "mp3": {{ post.mp3 | default: "" | jsonify }},
-    "hijri": {{ post.hijri | default: "" | jsonify }},
+    "audio": {{ post.mp3 | default: "" | jsonify }},
     "link": {{ post.link | jsonify }},
     "summary": {{ post.summary | default: "" | jsonify }},
-    "category": {{ post.category | default: post.categories | jsonify }},
+    "categories": {{ post.category | default: post.categories | jsonify }},
     "tags": {{ post.tags | jsonify }},
     "article_taken_from": {{ post.article_taken_from | jsonify }},
+    "translated_by": {{ post.translated_by | jsonify }},
+    "lang": {{ post.lang | jsonify }},
+    "base_url": {{ site.url | default: "https://alsalafiyyah.github.io" | jsonify }},
     "shaykhs": {{ post.shaykhs | jsonify }},
     "muftis": {{ post.muftis | jsonify }},
     "content": {{ post.content | strip_html | strip_newlines | jsonify }}
