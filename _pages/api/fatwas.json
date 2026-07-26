@@ -18,6 +18,7 @@ permalink: /api/fatwas.json
     "translated_by": {{ post.translated_by | jsonify }},
     "lang": {{ post.lang | jsonify }},
     "base_url": {{ site.url | default: "https://alsalafiyyah.github.io" | jsonify }},
+    "ig_url": {{ site.url | default: "https://instagram.com/Alsalafiyyah" | jsonify }},
     "shaykhs": {{ post.shaykhs | jsonify }},
     "muftis": {{ post.muftis | jsonify }},
     "summary": {{ post.summary | default: "" | jsonify }},
