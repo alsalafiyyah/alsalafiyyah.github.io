@@ -5,12 +5,12 @@ permalink: /api/fatwas.json
 [
   {% for post in site.posts %}
   {
+    "publisher": {{ post.publisher | jsonify }},
     "title": {{ post.title | default: "" | jsonify }},
     "hijri_date": {{ post.hijri | jsonify }},
     "date": "{{ post.date | date_to_xmlschema }}",
     "url": {{ post.url | absolute_url | jsonify }},
-    "publisher": {{ post.publisher | jsonify }},
-    "audio": {{ post.mp3 | default: "" | jsonify }},
+    "audio": {{ post.mp3 | jsonify }},
     "link": {{ post.link | jsonify }},
     "summary": {{ post.summary | default: "" | jsonify }},
     "categories": {{ post.category | default: post.categories | jsonify }},
