@@ -12,7 +12,6 @@ permalink: /api/fatwas.json
     "url": {{ post.url | absolute_url | jsonify }},
     "audio": {{ post.mp3 | jsonify }},
     "link": {{ post.link | jsonify }},
-    "summary": {{ post.summary | default: "" | jsonify }},
     "categories": {{ post.category | default: post.categories | jsonify }},
     "tags": {{ post.tags | jsonify }},
     "article_taken_from": {{ post.article_taken_from | jsonify }},
@@ -21,6 +20,7 @@ permalink: /api/fatwas.json
     "base_url": {{ site.url | default: "https://alsalafiyyah.github.io" | jsonify }},
     "shaykhs": {{ post.shaykhs | jsonify }},
     "muftis": {{ post.muftis | jsonify }},
+    "summary": {{ post.summary | default: "" | jsonify }},
     "content": {{ post.content | strip_html | strip_newlines | jsonify }}
   }{% unless forloop.last %},{% endunless %}
   {% endfor %}
