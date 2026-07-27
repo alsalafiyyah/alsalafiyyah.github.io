@@ -4,17 +4,17 @@ title: "Sufi superstitions"
 publisher: "alsalafiyyah@icloud.com"
 category: [sects]
 tags: [alifta]
-source: "Fatwas of the Permanent Committee of KSA, question 1"
+source: "Fatwas al-Lajnah al-Da'imah 2/95-96, Question 1"
 hijri: "Dhul-Qa'dah 20, 1441"
 lang: en
 translation: false
-summary: "What is mentioned in the question is a false and superstitious talk and it is not permissible to believe it; because this is a means leading to Shirk (associating others with Allah in His Divinity or worship)."
+summary: "What is mentioned in the question is among the false superstitions that are not permissible to believe in, as it is a means leading to polytheism (shirk)."
 group2: true
 ---
 
 ### Question: 
 
-The aforementioned Imam states that one day, Safi al-Din ibn Ahmad (a prominent Sufi leader of the Shattariyya order) was passing along the road in that city and found a rock. He then divided it into four parts using his siwak (tooth-stick). He told one of the parts, "Go to Iraq," and distributed the other parts to different areas within the same city, while one piece remained on a mountain in the city of Sabr, according to his claim. Is this considered one of the Karamat (miracles) of the righteous saints as some people claim, or is it a result of utilizing the jinn?
+The aforementioned Imam states that one day, Safi al-Din ibn Ahmad (a prominent Sufi leader of the Shattariyya order) was passing along the road in that city and found a rock. He then divided it into four parts using his siwak (tooth-stick). He told one of the parts, "Go to Iraq," and distributed the other parts to different areas within the same city, while one piece remained on a mountain in the city of Sabr, according to his claim. Is this considered one of the Karamah (miracle) of the righteous saints as some people claim, or is it a result of utilizing the jinn?
 
 ### Answer: 
 
