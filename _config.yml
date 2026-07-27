@@ -301,7 +301,7 @@ defaults:
   # _biography
   - scope:
       path: "_biography"
-      type: "page"
+      type: "pages"
     values:
       layout: "post"
       permalink: /biography/:title/
