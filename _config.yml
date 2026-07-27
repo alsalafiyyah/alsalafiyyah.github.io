@@ -1,9 +1,9 @@
 title               : "Al-Salafiyyah"
-description         : "Explore Islamic legal rulings issued by the scholars of the Sunnah and the Imam of the Salaf from among Ahlus-Sunnah wal-Jama'ah on worship, creed, bidah, family law and so many on. "
+description         : "Explore Islamic legal rulings issued by the scholars of the Sunnah and the Imam of the Salaf from among Ahlus-Sunnah wal-Jama'ah on worship, creed, bidah, family law and so many on."
 slogan              : "For Islamic Verdicts"
 short_desc          : "A repository of Fatwas issued by the prominent scholars of Ahlus-Sunnah."
 baseurl             : "/"
-keywords            : "salafi, salaf, manhaj, islam, knowledge, shariah, muslim, islamic, fatwas, bidah, sunnah, muslimah, bid'ah, dawah, da'wah, lectures, arabic, sermon, musliman, community, ahlus sunnah wal jamaah, ahlus sunnah, sunnis, sunni, tawhid, tauhid, allah, prophets, prophet muhammad, rasul, rasulullah, muhammad, sahabah"
+keywords            : "salafi, salaf, manhaj, islam, knowledge, shariah, sharia, muslim, islamic, fatwas, bidah, sunnah, muslimah, bid'ah, dawah, da'wah, lectures, arabic, sermon, musliman, community, ahlus sunnah wal-jamaah, ahlus sunnah, sunnis, sunni, tawhid, tauhid, allah, prophets, prophet muhammad, rasul, rasulullah, muhammad, sahabah, companions"
 url                 : "https://alsalafiyyah.github.io"
 author              : "Instagram@Alsalafiyyah"
 contact:
@@ -123,7 +123,6 @@ site_elements:
   page_not_found: "Page not found"
   page_not_found_text: "The page you requested was not found."
 
-
 include:
   - _pages
 
@@ -160,6 +159,8 @@ collections:
   tag:
     output: true
   books:
+    output: true
+  biography:
     output: true
 
 defaults:
@@ -297,6 +298,13 @@ defaults:
     values:
       layout: "tag"
       permalink: /scholars/:title/
+  # _biography
+  - scope:
+      path: "_biography"
+      type: "page"
+    values:
+      layout: "post"
+      permalink: /biography/:title/
   # _pages
   - scope:
       path: "_pages"
