@@ -37,4 +37,3 @@ It is incumbent upon the Muslim ruler to demand their repentance. If they repent
 
 We ask Allah to suppress the enemies of Islam wherever they may be and to frustrate their plots. Indeed, He is capable of all things. Allah is sufficient for us, and He is the best Disposer of affairs. Praise be to Allah, Lord of the Worlds. And with Allah lies all success. May the peace and blessings of Allah be upon our Prophet Muhammad, his family, and his companions.
 
-
