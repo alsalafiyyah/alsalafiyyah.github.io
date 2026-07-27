@@ -1,11 +1,10 @@
 <div class="p-8 mb-6 border-4 border-black dark:border-white bg-white dark:bg-zinc-950 flex flex-col gap-4 transition-colors">
     <div class="flex flex-col">
-        <span class="text-[10px] font-black uppercase tracking-[0.2em] block text-gray-400">Audio Version</span>
+        <span class="text-[10px] font-black uppercase tracking-[0.2em] block text-gray-400">Audio</span>
         <h4 class="text-lg font-bold italic serif dark:text-white truncate" title="{{ page.title }}">
             {{ page.title }}
         </h4>
     </div>
-
     <!-- Native HTML5 Player -->
     <audio controls class="w-full h-10 accent-black dark:accent-white" preload="metadata">
         <source src="{{ page.mp3 }}" type="audio/mpeg">
