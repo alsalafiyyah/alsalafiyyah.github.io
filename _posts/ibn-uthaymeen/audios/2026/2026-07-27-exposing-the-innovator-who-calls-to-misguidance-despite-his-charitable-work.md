@@ -9,7 +9,7 @@ lang: en
 translated: false
 source: "Liqa' al-Bab al-Maftuh, Tape no.226"
 link: "https://alathar.net/home/esound/index.php?op=codevi&coid=66129"
-mp3: "https://www.alathar.net//files/sound/alothaymeen/leqamaftooh/split-226b-8.mp3"
+mp3: "/assets/audios/exposing-innovator.mp3"
 summary: "If this man is an active caller and influential, he must be exposed and people must be warned against him—even if he stops his charitable giving."
 muftis:
   shaykh: 
