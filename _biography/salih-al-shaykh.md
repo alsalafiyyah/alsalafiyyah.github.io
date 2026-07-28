@@ -70,3 +70,5 @@ He has authored many books and scholarly works, some of which have been publishe
 12. Member of the Supreme Committee for Education Policy.
 13. Chairman of the Endowment Committee for Disabled Children.
 14. Active Member of the Saudi Fiqh Society.
+
+Source: [السيرة الذاتية لمعالي الشيخ صالح بن عبد العزيز آل الشيخ](https://saleh.af.org.sa/ar/node/132)
