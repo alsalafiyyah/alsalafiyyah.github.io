@@ -2,7 +2,7 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-07-27
-title: "Refuting Sufi Claims on Grave Miracles"
+title: "Refuting Sufi Claims on Grave Karamat"
 category: [audios, sects]
 tags: [ibn-uthaymeen]
 lang: en
