@@ -21,7 +21,7 @@ muftis:
 
 Some Sufis claim that the occupants of graves possess miracles (karamat), citing as evidence the statement of the Almighty in Surah Al-Kahf: **“And as for the wall, it belonged to two orphan boys”** [Al-Kahf: 82]. They also say: "Had their father not been a righteous man, the treasure would not have emerged," counting this as one of his miracles after his death. 
 
-Honorable Shayhkh, I hope for an explanation and clarification to remove this ambiguity. We hope for a response refuting the false claim of the Sufis, which has led many servants astray. Also, Shaykh Muhammad, in a note at the end of his letter, he says: "We in Sudan live in a society where 'polytheistic acts' (shirk), superstitions, and 'religious innovations' (bid'ah) are widespread. We ask Allah for deliverance. Your program plays a great role in this deliverance, and many families have turned to it. We hope for your guidance, and may Allah reward you with goodness."
+Honorable Shaykh, I hope for an explanation and clarification to remove this ambiguity. We hope for a response refuting the false claim of the Sufis, which has led many servants astray. Also, Shaykh Muhammad, in a note at the end of his letter, he says: "We in Sudan live in a society where 'polytheistic acts' (shirk), superstitions, and 'religious innovations' (bid'ah) are widespread. We ask Allah for deliverance. Your program plays a great role in this deliverance, and many families have turned to it. We hope for your guidance, and may Allah reward you with goodness."
 
 ### Answer:
 
