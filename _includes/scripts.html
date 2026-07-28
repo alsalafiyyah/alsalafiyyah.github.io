@@ -248,3 +248,52 @@ document.addEventListener("DOMContentLoaded", function () {
             }
         });
     </script>
+{% if page.active == 'contact' %}
+<script>
+    const form = document.getElementById('contactForm');
+    const statusMsg = document.getElementById('status-msg');
+    const submitBtn = document.getElementById('submitBtn');
+
+    form.addEventListener('submit', function(e) {
+        e.preventDefault();
+        
+        submitBtn.disabled = true;
+        submitBtn.innerText = "Sending...";
+        
+        // Show status badge
+        statusMsg.classList.remove('hidden', 'border-green-600', 'text-green-600', 'border-red-600', 'text-red-600');
+        statusMsg.classList.add('border-black', 'dark:border-white', 'text-black', 'dark:text-white');
+        statusMsg.textContent = "Sending your message...";
+
+        const formData = new FormData(form);
+
+        fetch(form.action, {
+            method: 'POST',
+            body: formData
+        })
+        .then(response => response.json())
+        .then(data => {
+            statusMsg.classList.remove('border-black', 'dark:border-white', 'text-black', 'dark:text-white');
+            
+            if(data.result === 'success') {
+                statusMsg.textContent = "Thank you! Your message was sent successfully.";
+                statusMsg.classList.add('border-green-600', 'text-green-600', 'bg-green-50', 'dark:bg-green-950/30');
+                form.reset();
+            } else {
+                statusMsg.textContent = "Error submitting data: " + (data.error || "Unknown error");
+                statusMsg.classList.add('border-red-600', 'text-red-600', 'bg-red-50', 'dark:bg-red-950/30');
+            }
+        })
+        .catch(error => {
+            statusMsg.classList.remove('border-black', 'dark:border-white', 'text-black', 'dark:text-white');
+            statusMsg.textContent = "Submission error. Check web app permissions.";
+            statusMsg.classList.add('border-red-600', 'text-red-600', 'bg-red-50', 'dark:bg-red-950/30');
+            console.error('Error:', error);
+        })
+        .finally(() => {
+            submitBtn.disabled = false;
+            submitBtn.innerText = "Send Message";
+        });
+    });
+</script>
+{% endif %}
