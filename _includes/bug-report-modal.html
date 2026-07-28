@@ -1,0 +1,127 @@
+<!-- Modal Backdrop & Window -->
+<div id="reportModal" class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/60 backdrop-blur-sm hidden transition-opacity">
+    <div class="relative w-full max-w-lg p-6 bg-white dark:bg-zinc-950 border-4 border-black dark:border-white shadow-2xl transition-all">
+        
+        <!-- Modal Header -->
+        <div class="flex items-center justify-between pb-4 mb-4 border-b-2 border-black dark:border-white">
+            <div class="flex items-center gap-2">
+                <span class="w-3 h-3 bg-red-600 inline-block"></span>
+                <h3 class="text-lg font-bold italic serif dark:text-white">Report an Error</h3>
+            </div>
+            <button id="closeReportModal" type="button" class="text-black dark:text-white font-bold text-xl hover:opacity-60 focus:outline-none px-2">&times;</button>
+        </div>
+
+        <!-- Form -->
+        <form id="bugReportForm" action="https://script.google.com/macros/s/AKfycbwUIXfTBCrH3CUL9PoiwOi_TIl2wevG7fnOTFFMgVs5bR4f4yh4CMD0PzGG1EMrBtyd/exec" method="POST" class="space-y-4">
+            
+            <!-- Hidden Jekyll Auto-Populated Inputs -->
+            <input type="hidden" name="title" value="{{ page.title | escape }}">
+            <input type="hidden" name="url" value="{{ page.url | absolute_url }}">
+
+            <!-- Readonly info summary -->
+            <div class="p-3 bg-gray-100 dark:bg-zinc-900 border border-gray-300 dark:border-zinc-800 text-xs text-gray-600 dark:text-gray-400 space-y-1">
+                <p><strong>Post:</strong> {{ page.title }}</p>
+                <p class="truncate"><strong>URL:</strong> {{ page.url | absolute_url }}</p>
+            </div>
+
+            <!-- User Message Input -->
+            <div class="flex flex-col gap-1.5">
+                <label for="bug-message" class="text-[11px] font-black uppercase tracking-wider text-black dark:text-white">Describe the error</label>
+                <textarea id="bug-message" name="message" rows="4" required placeholder="e.g. Typos, broken links, formatting issues, or audio error..." 
+                          class="w-full p-3 border-2 border-black dark:border-white bg-transparent text-black dark:text-white focus:outline-none focus:ring-2 focus:ring-black dark:focus:ring-white transition-all font-medium text-sm resize-none"></textarea>
+            </div>
+
+            <!-- Status Banner -->
+            <div id="bugStatusMsg" class="hidden text-xs font-bold uppercase tracking-wider p-3 border-2"></div>
+
+            <!-- Submit Button -->
+            <div class="flex justify-end gap-3 pt-2">
+                <button type="button" id="cancelReportModal" class="px-4 py-2 border-2 border-black dark:border-white text-black dark:text-white text-xs font-black uppercase tracking-wider hover:bg-gray-100 dark:hover:bg-zinc-900 focus:outline-none">
+                    Cancel
+                </button>
+                <button type="submit" id="submitBugBtn" class="px-6 py-2 bg-black text-white dark:bg-white dark:text-black text-xs font-black uppercase tracking-wider hover:opacity-80 disabled:opacity-50 transition-all focus:outline-none">
+                    Submit Report
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const modal = document.getElementById('reportModal');
+        const openBtn = document.getElementById('openReportModal');
+        const closeBtn = document.getElementById('closeReportModal');
+        const cancelBtn = document.getElementById('cancelReportModal');
+        const form = document.getElementById('bugReportForm');
+        const statusMsg = document.getElementById('bugStatusMsg');
+        const submitBtn = document.getElementById('submitBugBtn');
+
+        function openModal() {
+            modal.classList.remove('hidden');
+        }
+
+        function closeModal() {
+            modal.classList.add('hidden');
+            form.reset();
+            statusMsg.classList.add('hidden');
+        }
+
+        openBtn.addEventListener('click', openModal);
+        closeBtn.addEventListener('click', closeModal);
+        cancelBtn.addEventListener('click', closeModal);
+
+        // Close on backdrop click
+        modal.addEventListener('click', (e) => {
+            if (e.target === modal) closeModal();
+        });
+
+        // Close on Escape key
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape' && !modal.classList.contains('hidden')) {
+                closeModal();
+            }
+        });
+
+        // Form Submission via Fetch
+        form.addEventListener('submit', function(e) {
+            e.preventDefault();
+
+            submitBtn.disabled = true;
+            submitBtn.innerText = "Submitting...";
+
+            statusMsg.className = "text-xs font-bold uppercase tracking-wider p-3 border-2 border-black dark:border-white text-black dark:text-white bg-transparent";
+            statusMsg.textContent = "Sending report...";
+            statusMsg.classList.remove('hidden');
+
+            const formData = new FormData(form);
+
+            fetch(form.action, {
+                method: 'POST',
+                body: formData
+            })
+            .then(res => res.json())
+            .then(data => {
+                if (data.result === 'success') {
+                    statusMsg.className = "text-xs font-bold uppercase tracking-wider p-3 border-2 border-green-600 text-green-600 bg-green-50 dark:bg-green-950/30";
+                    statusMsg.textContent = "Report submitted successfully. Thank you!";
+                    form.reset();
+                    setTimeout(() => {
+                        closeModal();
+                    }, 2000);
+                } else {
+                    throw new Error(data.error || 'Submission failed');
+                }
+            })
+            .catch(err => {
+                statusMsg.className = "text-xs font-bold uppercase tracking-wider p-3 border-2 border-red-600 text-red-600 bg-red-50 dark:bg-red-950/30";
+                statusMsg.textContent = "Error sending report. Please try again.";
+                console.error(err);
+            })
+            .finally(() => {
+                submitBtn.disabled = false;
+                submitBtn.innerText = "Submit Report";
+            });
+        });
+    });
+</script>
