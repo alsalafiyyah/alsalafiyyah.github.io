@@ -260,13 +260,13 @@ defaults:
       layout: post
       permalink: /muqolat/:title/   
   - scope:
-      path: "_posts/salih-ibn-fawzan/**"
+      path: "_posts/salih-ibn-fawzan/muqolat/**"
       type: posts
     values:
       layout: post
       permalink: /muqolat/:title/ 
   - scope:
-      path: "_posts/ibn-baz/**"
+      path: "_posts/ibn-baz/muqolat/**"
       type: posts
     values:
       layout: post
