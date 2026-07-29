@@ -28,4 +28,5 @@ Enjoining good and forbidding evil is an obligation in every era, especially whe
 2. Second: As for the one who does not possess authority, he denounces the evil with his tongue by clarifying, advising, admonishing, reminding, reporting the matter to those in authority, and notifying [authorities] about this evil. He must not remain silent when he has the ability to speak out in denunciation of the evil.
 3. Third: The third state is when one is unable to denounce it with his tongue; in this case, he detests the evil in his heart, rejects it in his heart, and distances himself from it and from its people. This is the weakest of faith, as the Prophet ﷺ said. In another narration: "And beyond that, there is not even a mustard seed's weight of faith."
 ​
+
 Therefore, denouncing evil is a must, but it is carried out according to one's capability and capacity.
