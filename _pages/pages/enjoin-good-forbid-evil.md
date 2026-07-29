@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Enjoin Good Forbid Evil
 permalink: /enjoin-good-forbid-evil/
 summary: ""

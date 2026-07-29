@@ -133,6 +133,14 @@ site_elements:
   contact_us: "Contact us"
   quick_links: "Quick Links"
   important_links: "Important Links"
+  error_report: "Report an Error"
+  error_text: "Describe the Error"
+  message: "Describe the Error"
+  name: "Name"
+  email: "Email"
+  link_error: "Url"
+  submit: "Submit report"
+  cancel: "Cancel"
 
 include:
   - _pages
