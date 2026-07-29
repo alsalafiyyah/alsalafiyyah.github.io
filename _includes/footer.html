@@ -41,7 +41,7 @@
         
         <!-- Column 2: External Link List -->
         <div class="flex flex-col gap-3 min-w-[140px]">
-            <span class="text-gray-400 dark:text-zinc-600 text-[9px] tracking-[0.3em]">{{ site.site_elements.links }}</span>
+            <span class="text-gray-400 dark:text-zinc-600 text-[9px] tracking-[0.3em]">{{ site.site_elements.important_links }}</span>
             <div class="flex flex-col gap-2">
                 {% for link in site.external_links %}
                     <a href="{{ link.url }}" target="_blank" rel="noopener" class="hover:line-through transition-all lowercase tracking-normal font-normal text-zinc-600 dark:text-zinc-400 dark:hover:text-white hover:text-black">
