@@ -128,6 +128,8 @@ site_elements:
   all_entries: "All Entries"
   page_not_found: "Page not found"
   page_not_found_text: "The page you requested was not found."
+  navigation: "Navigation"
+  links: "Links"
 
 include:
   - _pages
