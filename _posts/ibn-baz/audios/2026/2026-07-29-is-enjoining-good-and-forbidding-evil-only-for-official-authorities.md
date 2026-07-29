@@ -55,7 +55,7 @@ This is a severe warning indicating that if people take the command to do good a
 
 If an adequate number of people in a town or village perform it, it ceases to be obligatory upon the rest. But if an adequate number do not perform it, the rest become obligated to do so and incur sin for abandoning it. If you are in a place—whether a village, town, mosque, or neighborhood—where an open evil exists and is not being forbidden, it becomes mandatory upon you to forbid it and not treat it lightly, because no one else is present to forbid it and take your place. Therefore, it is your duty to forbid the evil wherever you are, according to your capability, just as the Prophet ﷺ said: 
 
-**"Whoever among you sees an evil, let him change it with his hand (by taking action); if he is unable, then with his tongue (by speaking out); and if he is unable, then with his heart (by hating it), and that is the weakest of faith." Recorded by Muslim in his Sahih.
+**"Whoever among you sees an evil, let him change it with his hand (by taking action); if he is unable, then with his tongue (by speaking out); and if he is unable, then with his heart (by hating it), and that is the weakest of faith."** Recorded by Muslim in his Sahih.
 
 This indicates that it has levels, that it is an obligation upon every Muslim, and that one must forbid it according to one's capacity: first with the hand, then with the tongue, then with the heart. Prohibition with the heart takes the form of altering one's expression, showing displeasure, detesting it, and leaving the gathering where the evil is taking place if the people do not respond to one's prohibition and disapproval. This is how the believer acts. The Prophet ﷺ also said: 
 
