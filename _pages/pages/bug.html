@@ -1,0 +1,57 @@
+---
+layout: page
+title: Bugs
+active: contact
+permalink: /bug/
+summary: "Data error report"
+---
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+    <div id="table-container">Loading data...</div>
+
+    <script>
+        const csvUrl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSfj52RdV4ZumswF-P25LvPrMRXtb0tp0KoRoUq8ip_0YbGIBYtZF8cKZdi92C8fP2pxfAuwUg-J1De/pub?gid=0&single=true&output=csv';
+
+        function loadSheetData() {
+            Papa.parse(csvUrl, {
+                download: true,
+                header: true, 
+                skipEmptyLines: true, // Prevents crashing on empty trailing rows
+                complete: function(results) {
+                    renderTable(results.data);
+                },
+                error: function(err) {
+                    document.getElementById('table-container').innerHTML = "Error loading data.";
+                    console.error(err);
+                }
+            });
+        }
+
+        function renderTable(data) {
+            if (!data || data.length === 0) {
+                document.getElementById('table-container').innerHTML = "No data found.";
+                return;
+            }
+            
+            let html = '<table><thead><tr>';
+            
+            // Generate Headers from the first row object keys
+            Object.keys(data[0]).forEach(key => {
+                html += `<th>${key}</th>`;
+            });
+            html += '</tr></thead><tbody>';
+            
+            // Generate Rows
+            data.forEach(row => {
+                html += '<tr>';
+                Object.values(row).forEach(val => {
+                    html += `<td>${val || ''}</td>`;
+                });
+                html += '</tr>';
+            });
+            html += '</tbody></table>';
+            
+            document.getElementById('table-container').innerHTML = html;
+        }
+
+        window.onload = loadSheetData;
+    </script>
