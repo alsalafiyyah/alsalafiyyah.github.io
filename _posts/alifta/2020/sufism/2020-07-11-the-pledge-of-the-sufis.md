@@ -2,7 +2,7 @@
 layout: post
 title: "The pledge of the Sufis"
 publisher: "alsalafiyyah@icloud.com"
-category: [sects]
+category: ["sects", sufism]
 tags: [alifta]
 source: "Fatwas of the Permanent Committee of KSA, Fatwa no.11056, Question 3"
 hijri: "Dhul-Qa'dah 20, 1441"

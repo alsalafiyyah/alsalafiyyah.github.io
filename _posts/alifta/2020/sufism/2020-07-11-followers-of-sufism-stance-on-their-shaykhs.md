@@ -5,7 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 hijri: "Dhul-Qa'dah 20, 1441"
 date: 2020-07-11
 source: "Fatwas of the Permanent Committee of KSA, Fatwa no.21025, Question 3"
-category: [sects]
+category: ["sects", sufism]
 tags: [alifta]
 lang: en
 translation: false

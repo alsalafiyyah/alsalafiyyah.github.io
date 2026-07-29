@@ -2,7 +2,7 @@
 layout: post
 title: "Ruling on kissing the hands and feet of the Sufi Shaykh"
 publisher: "alsalafiyyah@icloud.com"
-category: [sects]
+category: ["sects", sufism]
 tags: [alifta]
 translation: false
 source: "Fatwas of the Permanent Committee of KSA, question 11"

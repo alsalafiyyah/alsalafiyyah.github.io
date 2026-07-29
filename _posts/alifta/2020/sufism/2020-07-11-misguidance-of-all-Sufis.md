@@ -2,7 +2,7 @@
 layout: post
 title: "Misguidance of the Sufis"
 publisher: "alsalafiyyah@icloud.com"
-category: [sects]
+category: ["sects", sufism]
 tags: [alifta]
 source: "Fatwas of the Permanent Committee of KSA, Fatwa no. 19433"
 hijri: "Dhul-Qa'dah 20, 1441"

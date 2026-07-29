@@ -2,7 +2,7 @@
 layout: post
 title: "The beggar sufis sect"
 publisher: "alsalafiyyah@icloud.com"
-category: [sects]
+category: ["sects", sufism]
 tags: [ibn-baz]
 source: "Majmu' Fatawa wa Maqalat 3/447"
 hijri: "Dhul-Qa'dah 13, 1441"

@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-07-27
 title: "Refuting Sufi Claims on Grave Karamat"
-category: [audios, sects]
+category: ["sects", sufism, sects]
 tags: [ibn-uthaymeen]
 lang: en
 translated: false

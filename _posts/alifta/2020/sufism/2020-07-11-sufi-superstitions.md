@@ -2,7 +2,7 @@
 layout: post
 title: "Sufi superstitions"
 publisher: "alsalafiyyah@icloud.com"
-category: [sects]
+category: ["sects", sufism]
 tags: [alifta]
 source: "Fatwas al-Lajnah al-Da'imah 2/95-96, Question 1"
 hijri: "Dhul-Qa'dah 20, 1441"

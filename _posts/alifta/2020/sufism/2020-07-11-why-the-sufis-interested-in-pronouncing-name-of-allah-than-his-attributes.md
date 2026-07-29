@@ -3,7 +3,7 @@ layout: post
 title: "Why are the Sufis interested in pronouncing the name of Allah rather than referring to His Attributes"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa Shaykh Ibn Baz 8"
-category: [sects]
+category: ["sects", sufism]
 tags: [ibn-baz]
 hijri: "Dhul-Qa'dah 20, 1441"
 translation: false

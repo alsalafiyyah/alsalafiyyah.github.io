@@ -2,7 +2,7 @@
 layout: post
 title: "Sufis beats themselves with skewers"
 publisher: "alsalafiyyah@icloud.com"
-category: [sects]
+category: ["sects", sufism]
 tags: [alifta]
 source: "Fatwas of the Permanent Committee of KSA, Fatwa no. 18466, Question 1"
 hijri: "Dhul-Qa'dah 20, 1441"

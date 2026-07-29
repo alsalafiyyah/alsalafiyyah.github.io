@@ -2,11 +2,12 @@
 layout: post
 title: "Sufism and their false ancriptions"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA no.6899, Question 6"
+source: "Fatawa Al-Lajnah Al-Da'imah no.6899, Question 6"
 hijri: "Dhul-Qa'dah 10, 1441"
 lang: en
+translation: false
 tags: [alifta]
-category: [sects]
+category: ["sects", sufism]
 summary: "The Problem of Sufism: What does it mean and what is the attitude of Islam toward it? I mean Al-Tijaniyyah and Al-Qadiriyyah (a deviant sect that claims Allah has no power over His Creation and humans are independent of Him), as well as the Shi'ah."
 group1: true
 ---

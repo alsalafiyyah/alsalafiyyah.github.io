@@ -2,7 +2,7 @@
 layout: post
 title: "What is Sufism"
 publisher: "alsalafiyyah@icloud.com"
-category: [sects]
+category: ["sects", sufism]
 tags: [alifta]
 source: "Fatwas of the Permanent Committee of KSA, Fatwa no. 17558, Question 2"
 hijri: "Dhul-Qa'dah 20, 1441"

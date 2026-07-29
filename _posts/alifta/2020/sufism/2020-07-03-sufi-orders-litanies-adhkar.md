@@ -2,11 +2,12 @@
 layout: post
 title: "Sufi orders, litanies, and Adhkar"
 publisher: "alsalafiyyah@icloud.com"
-category: [sects]
+category: ["sects", sufism]
 tags: [alifta]
 source: "Fatwas of the Permanent Committee of KSA, Fatwa no. 7140"
 hijri: "Dhul-Qa'dah 12, 1441"
 lang: en
+translation: false
 summary: "The Sufi orders and the litanies are considered acts of Bid'ah (innovation in religion) like the famous religious orders of Al-Tijaniyyah and Al-Kattaniyyah. "
 translation: false
 group1: true

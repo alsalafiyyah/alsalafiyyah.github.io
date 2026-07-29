@@ -2,7 +2,7 @@
 layout: post
 title: "The Ruling on pledge taken from a Sufi Shaykh"
 publisher: "alsalafiyyah@icloud.com"
-category: [sects]
+category: ["sects", sufism]
 tags: [alifta]
 source: "Fatwas of the Permanent Committee of KSA, Fatwa no.16098, Question 2"
 hijri: "Dhul-Qa'dah 20, 1441"

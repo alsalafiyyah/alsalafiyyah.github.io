@@ -2,7 +2,7 @@
 layout: post
 title: "What is the ruling of Islam on the Sufi orders that exist today"
 publisher: "alsalafiyyah@icloud.com"
-category: [sects]
+category: ["sects", sufism]
 tags: [alifta]
 source: "Fatwas of the Permanent Committee of KSA, Fatwa no.6433, Question 5"
 hijri: "Dhul-Qa'dah 11, 1441"

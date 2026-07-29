@@ -5,7 +5,7 @@ date: 2026-04-20
 hijri: "Dhu al-Qidah 3, 1447 AH"
 title: "Adhering to the Prophetic Sunnah vs. Innovated Paths"
 source: "Fatawa Nur Ala ad-Darb, Tape No.110"
-category: [fatwas,sects,sufism,audios]
+category: ["sects",sufism,audios]
 tags: [ibn-uthaymeen]
 link: "https://binothaimeen.net/s/96lshzp3"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_110_07.mp3"

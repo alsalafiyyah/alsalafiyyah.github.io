@@ -5,7 +5,7 @@ date: 2026-04-20
 hijri: "Dhu al-Qidah 3, 1447 AH"
 title: "The Path of Innovation: Sufism"
 source: "Fatawa Nur Ala ad-Darb, Tape No.200"
-category: [fatwas,sects,sufism,audios]
+category: ["sects",sufism,audios]
 tags: [ibn-uthaymeen]
 link: "https://binothaimeen.net/s/Sld7QLIj"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_200_08.mp3"
