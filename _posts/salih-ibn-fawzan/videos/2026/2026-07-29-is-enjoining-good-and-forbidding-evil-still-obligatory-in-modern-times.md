@@ -4,7 +4,7 @@ published: true
 publisher: alsalafiyyah@icloud.com
 title: "Is Enjoining Good and Forbidding Evil Still Obligatory in Modern Times?"
 date: 2026-07-29
-category: [videos]
+category: [videos, amar-maruf]
 tags: [salih-ibn-fawzan]
 active: videos
 summary: "Enjoining good and forbidding evil is an obligation in every era, especially when evil deeds become widespread."

@@ -4,7 +4,7 @@ title: "Is Enjoining Good and Forbidding Evil Only for Official Authorities?"
 publisher: "alsalafiyyah@icloud.com"
 date: 2026-07-29
 active: audios
-category: [audios]
+category: [audios, amar-maruf]
 translation: false
 tags: [ibn-baz]
 lang: en

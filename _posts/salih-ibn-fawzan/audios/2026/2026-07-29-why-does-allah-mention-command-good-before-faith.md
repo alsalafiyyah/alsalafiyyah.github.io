@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-07-29
 title: "Why Does Allah Mention Command Good Before Faith?"
-category: [audios]
+category: [audios, amar-maruf]
 tags: [salih-ibn-fawzan]
 mp3: "https://audio.alfawzan.live/16_1.mp3"
 link: "https://alfawzan.live/content/14517/"
