@@ -130,6 +130,9 @@ site_elements:
   page_not_found_text: "The page you requested was not found."
   navigation: "Navigation"
   links: "Links"
+  contact_us: "Contact us"
+  quick_links: "Quick Links"
+  important_links: "Important Links"
 
 include:
   - _pages
