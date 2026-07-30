@@ -5,10 +5,9 @@ title: "Biography of Shaykh Sulaiman al-Ruhali"
 active: biography
 hijri: Dhul-Hijjah 18, 1441
 date: 2020-08-08
-locale: en
 lang: en
 category: [biography]
-summary: "He was born on the night of the 27th of the blessed month of Ramadan in the year 1347 AH in ‘Unayzah—one of the governorates of Al-Qassim—in the Kingdom of Saudi Arabia."
+summary: "I am Sulayman ibn Sulaym Allah ibn Raja' Allah ibn Buti Al-Ruhayli, from the tribe of Harb."
 ---
 
 ## **The Shaykh Translating His Own Biography:**
