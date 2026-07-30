@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: Is the Qur'an mere words or supplications as claimed by some people?
+title: "Is the Qur'an mere words or supplications as claimed by some people?"
 date: 2025-07-29
 hijri: "Safar 4, 1447 AH"
 source: "Fatawa al-Lajnah ad-Da'imah no. 7482, Question 4"
@@ -9,7 +9,7 @@ category: [quran]
 tags: [alifta]
 lang: en
 translation: false
-summary: "The Qur’an is the Words of Allah. Jibril (Gabriel, peace be upon him) was commissioned by Allah to hear and convey His Words to Muhammad (peace be upon him) which he recited for him."
+summary: "The Qur’an is the Words of Allah. Jibril (Gabriel) was commissioned by Allah to hear and convey His Words to Muhammad (peace be upon him) which he recited for him."
 group1: true
 ---
 
