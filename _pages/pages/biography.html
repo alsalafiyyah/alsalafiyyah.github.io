@@ -43,6 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const container = document.getElementById('scholar-container');
   const dataScript = document.getElementById('scholar-data');
 
+  // Guard clause to prevent "null reading textContent" errors
   if (!container || !dataScript) return;
 
   let scholars = [];
@@ -56,10 +57,20 @@ document.addEventListener('DOMContentLoaded', () => {
   if (!scholars.length) return;
 
   container.innerHTML = scholars.map(scholar => {
+    // Extract web URL string safely regardless of whether YAML was string, object, or array
+    let webUrl = '';
+    if (typeof scholar.official_web === 'string') {
+      webUrl = scholar.official_web;
+    } else if (Array.isArray(scholar.official_web) && scholar.official_web.length > 0) {
+      webUrl = scholar.official_web[0].url || scholar.official_web[0] || '';
+    } else if (scholar.official_web && typeof scholar.official_web === 'object') {
+      webUrl = scholar.official_web.url || (scholar.official_web.web && scholar.official_web.web[0]?.url) || '';
+    }
 
+    // Clean up domain name safely
     let displayDomain = '';
-    if (scholar.official_web) {
-      displayDomain = scholar.official_web
+    if (typeof webUrl === 'string' && webUrl.trim() !== '') {
+      displayDomain = webUrl
         .replace(/^https?:\/\//, '')
         .replace(/\/$/, '');
     }
@@ -84,9 +95,9 @@ document.addEventListener('DOMContentLoaded', () => {
           </p>
 
           <!-- External Official Web Link -->
-          ${scholar.official_web ? `
+          ${displayDomain ? `
             <div class="mb-6 pt-4 border-t border-neutral-200 dark:border-neutral-800">
-              <a href="${scholar.official_web}" target="_blank" rel="noopener noreferrer" 
+              <a href="${webUrl}" target="_blank" rel="noopener noreferrer" 
                  class="inline-flex items-center gap-1 text-xs font-bold uppercase tracking-wider underline hover:no-underline">
                  🌐 ${displayDomain}
               </a>
