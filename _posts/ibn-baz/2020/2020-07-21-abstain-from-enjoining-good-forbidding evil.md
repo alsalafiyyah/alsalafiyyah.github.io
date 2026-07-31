@@ -3,11 +3,9 @@ layout: post
 title: "Ruling on those who abstain from enjoining good and forbidding evil"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat by Shaykh Ibn Baz 6/504"
-category: [fatwas, jihad, hisbah]
+category: [amar-maruf]
 hijri: Dhul-Qa'dah 30, 1441
-locale: en
 lang: en
-note: false
 summary: "Such people are thereby disobedient to Allah and His Messenger. They have weak faith and are in great danger. This is one of the diseases of the heart and may result in Allah's immediate or later punishment."
 muftis:
   shaykh: 
