@@ -12,6 +12,7 @@ official_web:
     - title: alfawzan.af.org.sa
       url: https://alfawzan.af.org.sa/
 country: Saudi Arabia
+fatwa_url: "/scholar/salih-ibn-fawzan"
 ---
 
 ### His Name and Lineage:
