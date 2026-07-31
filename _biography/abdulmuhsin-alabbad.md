@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: "alsalafiyyah@icloud.com"
-title: "Biography of Shaykh Abdul-Muhsin Al-Abbad"
+title: "Shaykh Abdul-Muhsin Al-Abbad"
 active: biography
 category: [biography]
 date: 2020-08-08
