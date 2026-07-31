@@ -5,7 +5,6 @@ summary: ""
 permalink: /scholar/
 ---
 
-{% assign bio = site.biography %}
 {% assign folder_path = "_pages/scholar" %}
 {% assign target_files = site.pages | where_exp: "item", "item.path contains folder_path" | where_exp: "item", "item.url != page.url" %}
 
@@ -20,8 +19,6 @@ permalink: /scholar/
     <li>
       <a class="no-underline hover:underline text-blue-600" href="{{ file.url | relative_url }}">{{ file.title | default: file.name }}</a> 
       <span>({{ scholar_post_count }} entries)</span>
-      <span><a class="no-underline hover:underline text-blue-600" href="{{ item.url }}">Biography</a></span>
-      {% if item.official_web %}<span><a class="no-underline hover:underline text-blue-600" href="{{ item.official_web }}">Biography</a></span>{% endif %}
     </li>
   {% endfor %}
 </ul>
