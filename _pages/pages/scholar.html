@@ -12,7 +12,6 @@ permalink: /scholar/
 
 <ul>
   {% for file in target_files %}
-  {% for item in bio %}
     {% assign scholar_slug = file.name | replace: ".md", "" | replace: ".html", "" %}
     {% assign scholar_posts_path = "_posts/" | append: scholar_slug | append: "/" %}
     {% assign scholar_post_count = site.posts | where_exp: "post", "post.path contains scholar_posts_path" | size %}
