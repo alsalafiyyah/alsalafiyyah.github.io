@@ -23,13 +23,15 @@ summary: "Biography of Imams and scholars of the Sunnah who stood firm upon the 
 [
   {% assign items = site.biography %}
   {% for item in items %}
+    {% assign fallback_summary = item.content | strip_html | truncatewords: 20 %}
+    {% assign summary_text = item.excerpt | default: fallback_summary %}
     {
       "title": {{ item.title | jsonify }},
       "url": {{ item.url | jsonify }},
       "date": {{ item.date | date: "%Y-%m-%d" | jsonify }},
       "hijri": {{ item.hijri | jsonify }},
       "country": {{ item.country | jsonify }},
-      "summary": {{ item.excerpt | default: (item.content | strip_html | truncatewords: 20) | jsonify }},
+      "summary": {{ summary_text | jsonify }},
       "official_web": {% if item.official_web %}{{ item.official_web | jsonify }}{% else %}[]{% endif %},
       "fatwa_url": {{ item.fatwa_url | jsonify }}
     }{% unless forloop.last %},{% endunless %}
