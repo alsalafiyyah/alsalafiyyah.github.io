@@ -6,10 +6,9 @@ source: "Majmu' Fatawa Shaykh ibn Baz 9/230"
 note: false
 hijri: Dhul-Qa'dah 26, 1441
 date: 2020-07-17
-locale: en
 lang: en
 active: wahhabi
-category: [fatwas,wahhabism,manhaj]
+category: [wahhabism,manhaj]
 summary: "Is it true that Wahhabism antagonizes Al-ul-Bayt (members of the Prophet's extended Muslim family) and criticizes the Prophet (peace be upon him)?"
 muftis:
   shaykh: 
@@ -18,6 +17,7 @@ muftis:
 ---
 
 ### Question: 
+
 Is it true that Wahhabism antagonizes Al-ul-Bayt (members of the Prophet's extended Muslim family) and criticizes the Prophet (peace be upon him)? What is the essence of this Da'wah (call)? Why is it fought?
 
 ### Answer: 

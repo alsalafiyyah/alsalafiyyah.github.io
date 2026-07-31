@@ -3,11 +3,9 @@ layout: post
 title: "Ruling on attending mushrik weddings"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 21587, Question 5"
-category: [fatwas,walabara,bidah]
+category: [walabara,bidah]
 hijri: Dhul-Hijjah 5, 1441
 lang: en
-locale: en
-note: true
 summary: "It is not permissible to share in their (Disbelievers) occasions, which involve Shirk (associating others with Allah in His Divinity or worship) or Bid'ah (innovation in Islam)."
 muftis:
   chairman: 

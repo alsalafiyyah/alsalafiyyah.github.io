@@ -3,7 +3,7 @@ layout: post
 title: "Ruling on attacking scholars"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah no. 16873"
-category: [fitnahs]
+category: [fitnahs,manhaj]
 hijri: Dhul-Hijjah 4, 1441 AH
 lang: en
 note: true
@@ -24,11 +24,11 @@ muftis:
       url: /biography/bakr/
 ---
 
-Question: 
+### Question: 
 
 Some people claim that they are following the way of Salaf (righteous predecessors), but they are constantly attacking scholars and accuse them of introducing innovations in the religion. It is as if their tongues are created to utter such accusations despite their claim that they follow the Salaf. Now, I would like to ask Your Eminence, may Allah keep you safe: What is the true concept of Salafiyyah, and its attitude towards the modern Islamic sects? May Allah reward you the best reward for benefiting Muslims. Indeed, He is the All-Hearer of supplication.
 
-Answer:
+### Answer:
 
 If the reality is as you have mentioned, then attacking scholars and ascribing them to innovations is not the way of the Salaf, who were the best of this Ummah (nation). Rather, theirs is the way of adhering to the teachings of the Qur'an and the Sunnah as well as understanding the religion of Islam in the same manner of the Sahabah (Companions of the Prophet) and those who follow them in righteousness who called to Allah with wisdom, fair preaching, and arguing in a way that is best. This also necessitates acting according to what is preached and the principal rulings of Islam, calling to co-operation in good and union of all Muslims on the truth in addition to avoiding all causes of dissention, such as grudges, envy, and abusing people's honor, as well as other reasons that separate Muslims into sects and groups that curse and abuse each other. 
 

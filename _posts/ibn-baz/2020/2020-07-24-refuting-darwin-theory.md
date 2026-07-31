@@ -3,7 +3,7 @@ layout: post
 publisher: "alsalafiyyah@icloud.com"
 title: "A Scholarly Critique of Darwinian Theory"
 source: "Majmu' Fatawa wa Maqalat 28/275"
-category: [fatwas,darwinism]
+category: [darwinism]
 hijri: "Dhul-Hijjah 3, 1441 AH"
 date: 2020/07/24
 url: "https://binbaz.org.sa/fatwas/20168/%C2%A0%D8%A7%D9%84%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D9%86%D8%B8%D8%B1%D9%8A%D8%A9-%D8%A7%D9%86-%D8%A7%D9%84%D8%A7%D9%86%D8%B3%D8%A7%D9%86-%D8%A7%D8%B5%D9%84%D9%87-%D9%82%D8%B1%D8%AF"

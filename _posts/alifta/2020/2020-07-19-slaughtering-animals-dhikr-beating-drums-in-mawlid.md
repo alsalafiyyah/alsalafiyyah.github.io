@@ -5,6 +5,7 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat p.9/72"
 category: [sacrifice,festivals,music,bidah]
 lang: en
+tags: [ibn-baz]
 hijri: Dhul-Qa'dah 28, 1441 AH
 summary: "What is the ruling on slaughtering animals, engaging in Dhikr (Remembrance of Allah) and beating drums during celebrations of Mawlid"
 muftis:
@@ -13,11 +14,11 @@ muftis:
       url: /biography/binbaz/
 ---
 
-Question:
+### Question:
 
 What is the ruling on slaughtering animals, engaging in Dhikr (Remembrance of Allah) and beating drums during celebrations of Mawlid (the Prophet’s birthday)?
 
-Answer:
+### Answer:
 
 All this is Bid‘ah (innovation in religion) and it is obligatory that they should be renounced, as dictated by the scholars, as these things were not done during the lifetime of the Prophet (peace be upon him). He neither ordered these practices nor performed them, nor did his Sahabah (Companions, may Allah be pleased with them) or the Salaf (righteous predecessors). This Bid‘ah was not practiced by them; they did not celebrate the Mawlid (birthday) of the Prophet (peace be upon him) or that of Al-Siddiq, 'Umar, 'Uthman, 'Ali, or anyone else. 
 
@@ -37,7 +38,6 @@ The Prophet (peace be upon him) used to say during the Friday Khutbah (sermon): 
 
 As for sacrificing animals, this has a different ruling: If they are slaughtered for the one whose Mawlid is being celebrated, this is major Shirk; but if they are slaughtered just to be eaten, there is nothing wrong with that. But Muslims should neither eat from them nor attend (the feast) as a way of denouncing them in word and in deed, unless they attend to advise people without joining them in eating or anything else. May Allah grant us success.
 
----
 
 [^1]: Al-Bukhari, Sahih, Book on reconciliation, no. 2697; Muslim, Sahih, Book on judicial decisions, no. 1718; Abu Dawud, Sunan, Book on Al-Sunnah, no. 4606; Ibn Majah, Sunan, Introduction, no. 14; and Ahmad, Musnad, vol. 6, p. 240.
 [^2]: Muslim, Sahih, Book on judicial decisions, no. 1718; and Ahmad ibn Hanbal, Musnad, vol. 6, p. 180.

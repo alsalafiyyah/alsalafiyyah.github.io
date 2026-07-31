@@ -6,8 +6,6 @@ source: "Majmu' Fatawa Shaykh Ibn Baz 9/315"
 hijri: "Dhul-Qa'dah 26, 1441"
 date: 2020-07-17
 lang: en
-locale: en
-note: false
 category: [fatwas,sects,refutals]
 summary: "I would like to tell you that this sect is known to us. It is a misguided sect and their leader Abdullah Al-Habashy is notorious for his deviation and aberration. Thus, it is obligatory to boycott them and condemn their 'Aqidah (creed) and warn people against them."
 muftis:

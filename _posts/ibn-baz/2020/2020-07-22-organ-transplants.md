@@ -7,7 +7,6 @@ summary: "I have a reservation with regard to this matter. The Muslim should be 
 category: [treatments,fatwas]
 hijri: Dhul-Qa'dah 31, 1441
 date: 2020/07/22
-locale: en
 lang: en
 muftis:
   shaykh: 

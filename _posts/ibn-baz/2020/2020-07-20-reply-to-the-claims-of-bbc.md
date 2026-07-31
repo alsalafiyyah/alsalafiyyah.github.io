@@ -5,7 +5,6 @@ publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa Shaykh Ibn Baz 2/380"
 hijri: Dhul-Qa'dah 29, 1441
 lang: en
-locale: en
 date: 2020-07-20
 note: false
 category: [refutals]

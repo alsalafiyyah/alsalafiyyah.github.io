@@ -3,11 +3,9 @@ layout: post
 title: "Dealing with Christian neighbors"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 8691, Question 10"
-category: [fatwas,walabara, non-muslim]
+category: [walabara, non-muslim]
 hijri: Dhul-Hijjah 6, 1441
 lang: en
-locale: en
-note: true
 summary: "It is permissible to treat Christian people who are at close proximity to you, neighbors or classmates, gently and help them do lawful things."
 muftis:
   chairman: 
