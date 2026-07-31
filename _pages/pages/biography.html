@@ -34,6 +34,7 @@ summary: "Biography of Imams and scholars of the Sunnah who stood firm upon the 
       "url": {{ item.url | jsonify }},
       "official_web": {{ item.official_web | jsonify }},
       "fatwa_url": {{ item.fatwa_url | default: default_fatwa_url | jsonify }},
+      "bio_url": {{ item.bio_url | jsonify }},
       "fatwa_count": {{ fatwa_count }}
     }{% unless forloop.last %},{% endunless %}
   {% endfor %}
@@ -96,7 +97,7 @@ document.addEventListener('DOMContentLoaded', () => {
           <!-- Read Biography -->
           <a href="${scholar.url || '#'}" 
              class="flex-1 text-center py-2.5 px-3 text-xs font-black uppercase tracking-wider bg-black text-white dark:bg-white dark:text-black hover:opacity-80 transition-opacity">
-            Read Biography
+            Biography
           </a>
           
           <!-- Official Website Link -->
