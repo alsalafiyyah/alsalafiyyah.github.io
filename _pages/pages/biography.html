@@ -22,17 +22,19 @@ summary: "Biography of Imams and scholars of the Sunnah who stood firm upon the 
 [
   {% assign items = site.biography %}
   {% for item in items %}
-    {% assign fallback_summary = item.content | strip_html | truncatewords: 20 %}
-    {% assign summary_text = item.excerpt | default: fallback_summary %}
+    {% comment %} Extract slug from file path to count associated fatwas/posts {% endcomment %}
+    {% assign scholar_slug = item.slug | default: item.name | replace: ".md", "" | replace: ".html", "" %}
+    {% assign scholar_posts_path = "_posts/" | append: scholar_slug | append: "/" %}
+    {% assign fatwa_count = site.posts | where_exp: "post", "post.path contains scholar_posts_path" | size %}
+    
+    {% assign default_fatwa_url = "/fatwas/?scholar=" | append: scholar_slug %}
+    
     {
       "title": {{ item.title | jsonify }},
       "url": {{ item.url | jsonify }},
-      "date": {{ item.date | date: "%Y-%m-%d" | jsonify }},
-      "hijri": {{ item.hijri | jsonify }},
-      "country": {{ item.country | jsonify }},
-      "summary": {{ summary_text | jsonify }},
       "official_web": {{ item.official_web | jsonify }},
-      "fatwa_url": {{ item.fatwa_url | jsonify }}
+      "fatwa_url": {{ item.fatwa_url | default: default_fatwa_url | jsonify }},
+      "fatwa_count": {{ fatwa_count }}
     }{% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
@@ -43,7 +45,6 @@ document.addEventListener('DOMContentLoaded', () => {
   const container = document.getElementById('scholar-container');
   const dataScript = document.getElementById('scholar-data');
 
-  // Guard clause to prevent "null reading textContent" errors
   if (!container || !dataScript) return;
 
   let scholars = [];
@@ -57,7 +58,7 @@ document.addEventListener('DOMContentLoaded', () => {
   if (!scholars.length) return;
 
   container.innerHTML = scholars.map(scholar => {
-    // Extract web URL string safely regardless of whether YAML was string, object, or array
+    // Extract web URL string safely regardless of YAML structure
     let webUrl = '';
     if (typeof scholar.official_web === 'string') {
       webUrl = scholar.official_web;
@@ -67,55 +68,43 @@ document.addEventListener('DOMContentLoaded', () => {
       webUrl = scholar.official_web.url || (scholar.official_web.web && scholar.official_web.web[0]?.url) || '';
     }
 
-    // Clean up domain name safely
+    // Clean display domain
     let displayDomain = '';
     if (typeof webUrl === 'string' && webUrl.trim() !== '') {
-      displayDomain = webUrl
-        .replace(/^https?:\/\//, '')
-        .replace(/\/$/, '');
+      displayDomain = webUrl.replace(/^https?:\/\//, '').replace(/\/$/, '');
     }
 
     return `
       <article class="border-2 border-black dark:border-white p-6 bg-white dark:bg-neutral-900 flex flex-col justify-between shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] dark:shadow-[4px_4px_0px_0px_rgba(255,255,255,1)]">
         <div>
-          <!-- Header Metadata -->
-          <div class="flex items-center justify-between gap-2 text-xs font-mono uppercase tracking-widest text-neutral-600 dark:text-neutral-400 mb-2">
-            <span>${scholar.country || 'Scholar'}</span>
-            <span>${scholar.hijri || ''}</span>
+          <!-- Header: Fatwa Count Badge -->
+          <div class="flex items-center justify-between gap-2 mb-4">
+            <a href="${scholar.fatwa_url || '#'}" 
+               class="inline-flex items-center gap-1.5 px-2.5 py-1 text-xs font-mono font-bold uppercase tracking-widest border border-black dark:border-white bg-neutral-100 dark:bg-neutral-800 hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-colors">
+              <span>📚</span>
+              <span>${scholar.fatwa_count || 0} Fatwas</span>
+            </a>
           </div>
 
-          <!-- Scholar Title -->
-          <h2 class="text-2xl font-black tracking-tight mb-3">
+          <!-- Scholar Name -->
+          <h2 class="text-2xl font-black tracking-tight mb-6">
             <a href="${scholar.url || '#'}" class="hover:underline">${scholar.title || 'Untitled'}</a>
           </h2>
-
-          <!-- Excerpt -->
-          <p class="text-sm text-neutral-700 dark:text-neutral-300 leading-relaxed mb-6">
-            ${scholar.summary || ''}
-          </p>
-
-          <!-- External Official Web Link -->
-          ${displayDomain ? `
-            <div class="mb-6 pt-4 border-t border-neutral-200 dark:border-neutral-800">
-              <a href="${webUrl}" target="_blank" rel="noopener noreferrer" 
-                 class="inline-flex items-center gap-1 text-xs font-bold uppercase tracking-wider underline hover:no-underline">
-                 🌐 ${displayDomain}
-              </a>
-            </div>
-          ` : ''}
         </div>
 
-        <!-- Action Bar -->
-        <div class="flex items-center gap-3 pt-4 border-t-2 border-black dark:border-white">
+        <!-- Action Bar Buttons -->
+        <div class="flex flex-col sm:flex-row items-stretch gap-3 pt-4 border-t-2 border-black dark:border-white">
+          <!-- Read Biography -->
           <a href="${scholar.url || '#'}" 
-             class="flex-1 text-center py-2 px-3 text-xs font-black uppercase tracking-wider bg-black text-white dark:bg-white dark:text-black hover:opacity-80 transition-opacity">
+             class="flex-1 text-center py-2.5 px-3 text-xs font-black uppercase tracking-wider bg-black text-white dark:bg-white dark:text-black hover:opacity-80 transition-opacity">
             Read Biography
           </a>
           
-          ${scholar.fatwa_url ? `
-            <a href="${scholar.fatwa_url}" 
-               class="flex-1 text-center py-2 px-3 text-xs font-black uppercase tracking-wider border border-black dark:border-white hover:bg-neutral-100 dark:hover:bg-neutral-800 transition-colors">
-              See Fatwas
+          <!-- Official Website Link -->
+          ${displayDomain ? `
+            <a href="${webUrl}" target="_blank" rel="noopener noreferrer" 
+               class="flex-1 text-center py-2.5 px-3 text-xs font-black uppercase tracking-wider border border-black dark:border-white hover:bg-neutral-100 dark:hover:bg-neutral-800 transition-colors inline-flex items-center justify-center gap-1">
+              🌐 ${displayDomain}
             </a>
           ` : ''}
         </div>
