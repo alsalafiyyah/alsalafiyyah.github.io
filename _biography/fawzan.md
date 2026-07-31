@@ -5,7 +5,6 @@ title: "Shaykh Salih Al-Fawzan"
 active: biography
 date: 2020-09-10
 hijri: Muharram 22, 1442 AH
-category: [biography]
 summary: "Shaykh Dr. Salih Ibn Fawzan ibn 'Abdullah Al-Fawzan from the family of Fawzan from the people of Al-Shamasyah from the tribe of Al-Dawasir."
 country: Saudi Arabia
 official_web: https://alfawzan.af.org.sa/
