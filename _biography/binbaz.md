@@ -1,16 +1,12 @@
 ---
 layout: post
-title: "Biography of Shaykh Ibn Baz"
+title: "Shaykh Ibn Baz"
 publisher: alsalafiyyah@icloud.com
 active: biography
 hijri: Muharram 12, 1442 AH
 date: 2020-08-31
 category: [biography]
 summary: "Shaykh Ibn Baz was born in 1330 A.H. in Dhul-Hijjah, in Riyadh. He enjoyed normal eyesight until his eyes were inflicted with a disease in 1346 A.H."
-authors:
-  author: 
-    - name: Alsalafiyyah
-      url: alsalafiyyah
 official_web: 
   web:
     - title: binbaz.org.sa

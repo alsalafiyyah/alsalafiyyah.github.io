@@ -2,7 +2,7 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Biography of Shaykh Al-Albani"
+title: "Shaykh Al-Albani"
 active: biography
 category: [biography]
 hijri: Dhul-Hijjah 28, 1444 AH

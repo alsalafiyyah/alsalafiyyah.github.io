@@ -1,16 +1,12 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Biography of Shaykh 'Abdullah Ibn Ghudayyan"
+title: "Shaykh 'Abdullah Ibn Ghudayyan"
 hijri: Muharram 22, 1442 AH
 date: 2020-09-10
 active: biography 
 category: [biography]
 summary: "Shaykh Abdullah ibn Abdul-Rahman ibn Abdul-Razzaq Al-Ghudayyan Al-Tamimi. He descended from Al-Muhaddith from Banu Al-'Anbar from Banu 'Amr ibn Tamim."
-authors:
-  author: 
-    - name: Alsalafiyyah
-      url: alsalafiyyah
 ---
 
 ### His Name and Lineage: 

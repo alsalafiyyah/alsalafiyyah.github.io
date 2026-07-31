@@ -2,7 +2,7 @@
 layout: post
 published: false
 publisher: "alsalafiyyah@icloud.com"
-title: "Biography of Shaykh Al-Islam Ibn Taymiyyah"
+title: "Shaykh Al-Islam Ibn Taymiyyah"
 active: biography
 hijri: Safar 6, 1442 AH
 date: 2020-09-23

@@ -1,9 +1,8 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Biography of Shaykh As-Sa'di"
+title: "Shaykh As-Sa'di"
 active: biography
-category: [biography]
 hijri: Dhul-Hijjah 28, 1444 AH
 date: 2023-07-16
 summary: "He was born in Unayzah, in al-Qasim, on the twelfth of Muharram 1307H, and he lived as an orphan, without either of his parents."
@@ -11,10 +10,6 @@ article_taken_from:
   taken_from:
     - web_title: Biography of Shaykh Abdurrahman ibn Nasir As-Sa'di
       web_url: https://alitisaambissunnah.wordpress.com/2011/11/09/biography-of-shaikh-abdur-rahmaan-ibn-naasir-as-sadee-rahimahullaah/
-authors:
-  author: 
-    - name: Alsalafiyyah
-      url: alsalafiyyah
 ---
 
 #### His lineage

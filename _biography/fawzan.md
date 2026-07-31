@@ -1,16 +1,12 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Biography of Shaykh Salih Al-Fawzan"
+title: "Shaykh Salih Al-Fawzan"
 active: biography
 date: 2020-09-10
 hijri: Muharram 22, 1442 AH
 category: [biography]
 summary: "Shaykh Dr. Salih Ibn Fawzan ibn 'Abdullah Al-Fawzan from the family of Fawzan from the people of Al-Shamasyah from the tribe of Al-Dawasir."
-authors:
-  author: 
-    - name: Alsalafiyyah
-      url: alsalafiyyah
 official_web: 
   web:
     - title: alfawzan.af.org.sa

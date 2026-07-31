@@ -1,11 +1,10 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Biography of Shaykh Muhammad Ibn Salih Al-Uthaymeen"
+title: "Shaykh Muhammad Ibn Salih Al-Uthaymeen"
 active: biography
 hijri: Dhul-Hijjah 18, 1441
 date: 2020-08-08
-locale: en
 lang: en
 category: [biography]
 summary: "He was born on the night of the 27th of the blessed month of Ramadan in the year 1347 AH in ‘Unayzah—one of the governorates of Al-Qassim—in the Kingdom of Saudi Arabia."

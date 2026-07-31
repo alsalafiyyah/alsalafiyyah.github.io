@@ -1,16 +1,12 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Biography of Shaykh Bakr Abu Zayd"
+title: "Shaykh Bakr Abu Zayd"
 active: biography
 hijri: Safar 6, 1442 AH
 date: 2020-09-23
 category: [biography]
 summary: "Shaykh Bakr studied until the second year of elementary school, and then in 1375AH. he moved to Riyadh where he continued his elementary studies, joined the Educational Institute."
-authors:
-  author: 
-    - name: Alsalafiyyah
-      url: alsalafiyyah
 ---
 
 ### His Name and Lineage:

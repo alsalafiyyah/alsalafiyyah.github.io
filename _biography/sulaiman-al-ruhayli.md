@@ -1,12 +1,11 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Biography of Shaykh Sulaiman al-Ruhali"
+title: "Shaykh Sulaiman al-Ruhali"
 active: biography
 hijri: Dhul-Hijjah 18, 1441
 date: 2020-08-08
 lang: en
-category: [biography]
 summary: "I am Sulayman ibn Sulaymullah ibn Raja' Allah ibn Buti Al-Ruhayli, from the tribe of Harb."
 ---
 

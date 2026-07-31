@@ -1,16 +1,11 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Biography of Shaykh 'Abdullah Ibn Mani'"
+title: "Shaykh 'Abdullah Ibn Muni'"
 active: biography
-category: [biography]
 date: 2020-08-31
 hijri: Muharram 12, 1442 AH
 summary: "Shaykh Abdullah ibn Sulayman ibn Muhammad ibn Mani' from the tribe of Banu Zayd, whose lineage goes back to Qada'ah from Qahtan, whose most important city is Shaqra’."
-authors:
-  author: 
-    - name: Alsalafiyyah
-      url: alsalafiyyah
 ---
 
 ### His Name and Lineage: 

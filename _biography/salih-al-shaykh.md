@@ -1,11 +1,10 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Biography of Shaykh Saleh bin Abdulaziz Al-Shaykh"
+title: "Shaykh Saleh bin Abdul Aziz Al-Shaykh"
 active: biography
 date: 2026-07-28
 lang: en
-category: [biography]
 summary: "His Excellency, the Eminent Shaykh Saleh bin Abdulaziz bin Muhammad bin Ibrahim bin Abdul Latif bin Abdul Rahman bin Hassan bin the Shaykh, Imam, and Reformer Muhammad bin Abdul Wahhab—from whom the noble Al-Shaykh family descends."
 ---
 
