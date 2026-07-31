@@ -27,7 +27,7 @@ summary: "Biography of Imams and scholars of the Sunnah who stood firm upon the 
     {% assign scholar_posts_path = "_posts/" | append: scholar_slug | append: "/" %}
     {% assign fatwa_count = site.posts | where_exp: "post", "post.path contains scholar_posts_path" | size %}
     
-    {% assign default_fatwa_url = "/fatwas/?scholar=" | append: scholar_slug %}
+    {% assign default_fatwa_url = "/scholar/" | append: scholar_slug %}
     
     {
       "title": {{ item.title | jsonify }},
@@ -58,7 +58,7 @@ document.addEventListener('DOMContentLoaded', () => {
   if (!scholars.length) return;
 
   container.innerHTML = scholars.map(scholar => {
-    // Extract web URL string safely regardless of YAML structure
+
     let webUrl = '';
     if (typeof scholar.official_web === 'string') {
       webUrl = scholar.official_web;
@@ -68,7 +68,6 @@ document.addEventListener('DOMContentLoaded', () => {
       webUrl = scholar.official_web.url || (scholar.official_web.web && scholar.official_web.web[0]?.url) || '';
     }
 
-    // Clean display domain
     let displayDomain = '';
     if (typeof webUrl === 'string' && webUrl.trim() !== '') {
       displayDomain = webUrl.replace(/^https?:\/\//, '').replace(/\/$/, '');
