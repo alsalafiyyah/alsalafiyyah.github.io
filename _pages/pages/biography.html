@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Scholars Biographies
+title: "Scholar Biographies"
 active: biography
 permalink: /biography/
 summary: "Biography of Imams and scholars of the Sunnah who stood firm upon the creed of the Salaf and preserving the authentic Sunnah."
 ---
 
-<!-- Container where JavaScript renders profile cards -->
 <div id="scholar-container" class="grid grid-cols-1 md:grid-cols-2 gap-6"></div>
 
 <!-- Pagination Controls -->
@@ -20,7 +19,6 @@ summary: "Biography of Imams and scholars of the Sunnah who stood firm upon the 
   <a id="next-link" href="#" class="text-sm font-black uppercase tracking-widest hover:line-through invisible">Older →</a>
 </nav>
 
-<!-- Liquid JSON Generator -->
 <script id="scholar-data" type="application/json">
 [
   {% assign items = site.biography %}
