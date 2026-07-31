@@ -41,47 +41,64 @@ summary: "Biography of Imams and scholars of the Sunnah who stood firm upon the 
 
 <script>
 document.addEventListener('DOMContentLoaded', () => {
-  const rawData = document.getElementById('scholar-data').textContent;
-  const scholars = JSON.parse(rawData);
   const container = document.getElementById('scholar-container');
+  const dataScript = document.getElementById('scholar-data');
 
-  if (!container || !scholars.length) return;
+  if (!container) {
+    console.error('Scholar Container (#scholar-container) not found in DOM.');
+    return;
+  }
+
+  if (!dataScript) {
+    console.error('Scholar Data script (#scholar-data) not found in DOM.');
+    return;
+  }
+
+  let scholars = [];
+  try {
+    scholars = JSON.parse(dataScript.textContent.trim());
+  } catch (err) {
+    console.error('Failed to parse scholar JSON data:', err);
+    container.innerHTML = `<p class="p-4 border-2 border-red-500 text-red-500 font-mono text-xs">JSON Parse Error: Check Browser Console for details.</p>`;
+    return;
+  }
+
+  if (!scholars.length) {
+    container.innerHTML = `<p class="p-4 border-2 border-black dark:border-white font-mono text-xs">No biographies found in site.biography collection.</p>`;
+    return;
+  }
 
   container.innerHTML = scholars.map(scholar => {
-    // Generate official web links
-    const webLinks = (scholar.official_web || []).map(link => `
+    // Safely parse web links array
+    const links = Array.isArray(scholar.official_web) ? scholar.official_web : [];
+    const webLinks = links.map(link => `
       <a href="${link.url}" target="_blank" rel="noopener noreferrer" 
          class="inline-flex items-center gap-1 text-xs font-bold uppercase tracking-wider underline hover:no-underline">
-         🌐 ${link.title}
+         🌐 ${link.title || link.url}
       </a>
     `).join(' ');
 
     return `
       <article class="border-2 border-black dark:border-white p-6 bg-white dark:bg-neutral-900 flex flex-col justify-between shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] dark:shadow-[4px_4px_0px_0px_rgba(255,255,255,1)]">
         <div>
-          <!-- Header Metadata -->
           <div class="flex items-center justify-between gap-2 text-xs font-mono uppercase tracking-widest text-neutral-600 dark:text-neutral-400 mb-2">
             <span>${scholar.country || 'Scholar'}</span>
             <span>${scholar.hijri || ''}</span>
           </div>
 
-          <!-- Scholar Title -->
           <h2 class="text-2xl font-black tracking-tight mb-3">
-            <a href="${scholar.url}" class="hover:underline">${scholar.title}</a>
+            <a href="${scholar.url || '#'}" class="hover:underline">${scholar.title || 'Untitled'}</a>
           </h2>
 
-          <!-- Excerpt -->
           <p class="text-sm text-neutral-700 dark:text-neutral-300 leading-relaxed mb-6">
-            ${scholar.summary}
+            ${scholar.summary || ''}
           </p>
 
-          <!-- External Links -->
           ${webLinks ? `<div class="mb-6 pt-4 border-t border-neutral-200 dark:border-neutral-800 flex flex-wrap gap-3">${webLinks}</div>` : ''}
         </div>
 
-        <!-- Action Bar -->
         <div class="flex items-center gap-3 pt-4 border-t-2 border-black dark:border-white">
-          <a href="${scholar.url}" 
+          <a href="${scholar.url || '#'}" 
              class="flex-1 text-center py-2 px-3 text-xs font-black uppercase tracking-wider bg-black text-white dark:bg-white dark:text-black hover:opacity-80 transition-opacity">
             Read Biography
           </a>
