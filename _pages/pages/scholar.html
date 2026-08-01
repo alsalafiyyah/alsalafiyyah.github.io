@@ -40,13 +40,13 @@ permalink: /scholar/
           </div>
 
           <!-- Scholar Name -->
-          <h2 class="text-2xl font-black tracking-tight mb-6">
+          <h3 class="text-2xl font-black tracking-tight mb-6">
             <a href="{{ file.url | relative_url }}" class="hover:underline">{{ file.title | default: file.name }}</a>
-          </h2>
+          </h3>
         </div>
 
         <!-- Action Bar Buttons -->
-        <div class="flex flex-col sm:flex-row items-stretch gap-3 pt-4">
+        <div class="flex flex-col sm:flex-row items-stretch gap-3 pt-4 border-t-4 border-black dark:border-white">
           <!-- Fatwas URL -->
           <a href="{{ file.url | relative_url }}" 
              class="flex-1 text-center py-2.5 px-3 text-xs font-black uppercase tracking-wider bg-black text-white dark:bg-white dark:text-black hover:opacity-80 transition-opacity">
