@@ -6,6 +6,7 @@ title: "Man and the Traits of Animals"
 date: 2026-08-01
 lang: en
 translation: false
+source: "Muqolat no. 3041"
 summary: "Many people insist on resembling animals in their traits, carrying a portion of those traits based on whatever nature dominates them."
 category: [muqolat]
 muftis:
