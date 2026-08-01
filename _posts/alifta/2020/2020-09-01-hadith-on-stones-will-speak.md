@@ -39,7 +39,9 @@ Also read:
 - [What is the future of occupied Jerusalem?](https://alsalafiyyah.github.io/audios/zionists-jews-occupation-of-palestine/)
 - [Gharqad the tree of the Jews](https://alsalafiyyah.github.io/the-tree-of-the-jews/)
 - [The Danger of the Jews](https://alsalafiyyah.github.io/muqolat/the-danger-of-the-jews/)
-    
+- [Al-Aqsa Crisis](https://alsalafiyyah.github.io/audios/al-aqsa-crisis/)
+
+
 [^1]: Musnad Imam Ahmad, vol. 2, pp. 67, 122, 131, 149, 398, 417, and 530, and vol. 4, p. 217; Al-Bukhari, Fathul-Bari, no. 3593 and 2925; Muslim, nos. 2921 and 2922; and Al-Tirmidhi, Al-Jami', no. 2237.
 [^2]: Al-Bukhari, Sahih, Book on merits and virtues, no. 2593; Muslim, Sahih, Book on trials and signs of the Hour, no. 2921; At-Tirmidhi, Sunan, Book on trials, no. 2236; and Musnad Ahmad, vol. 2, p. 135.
 [^3]: Imam Ahmad, vol. 2, p. 67, vol. 3, p. 119, and vol. 4, p. 338; and Ibn Majah, no. 4128.
