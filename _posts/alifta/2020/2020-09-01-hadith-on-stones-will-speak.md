@@ -40,6 +40,7 @@ Also read:
 - [Gharqad the tree of the Jews](https://alsalafiyyah.github.io/the-tree-of-the-jews/)
 - [The Danger of the Jews](https://alsalafiyyah.github.io/muqolat/the-danger-of-the-jews/)
 - [Al-Aqsa Crisis](https://alsalafiyyah.github.io/audios/al-aqsa-crisis/)
+- [The Qur'an Insights into Israelite History](https://alsalafiyyah.github.io/muqolat/the-quran-insights-into-israelite-history/)
 
 
 [^1]: Musnad Imam Ahmad, vol. 2, pp. 67, 122, 131, 149, 398, 417, and 530, and vol. 4, p. 217; Al-Bukhari, Fathul-Bari, no. 3593 and 2925; Muslim, nos. 2921 and 2922; and Al-Tirmidhi, Al-Jami', no. 2237.
