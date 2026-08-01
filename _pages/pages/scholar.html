@@ -18,7 +18,7 @@ permalink: /scholar/
     <li>
       <a class="no-underline hover:underline text-blue-600" href="{{ file.url | relative_url }}">{{ file.title | default: file.name }}</a> 
       <span>({{ scholar_post_count }} entries)</span>
-      <a href="{{ bio_url }}">Biography</a>
+      <a href="{{ file.bio_url }}">Biography</a>
     </li>
   {% endfor %}
 </ul>
