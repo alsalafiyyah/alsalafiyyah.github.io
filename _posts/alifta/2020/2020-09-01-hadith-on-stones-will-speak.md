@@ -1,10 +1,10 @@
 ---
 layout: post
 publisher: "alsalafiyyah@icloud.com, Instagram@Alsalafiyyah"
-title: "Concerning the Hadith: 'You will fight against the Jews and you will gain victory over them.'"
+title: "Concerning the Hadith: 'You will fight against the Jews and you will gain victory over them'"
 source: "Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 5775, Question 2"
 hijri: "Muharram 13, 1442AH"
-category: [fatwas,hadiths,palestine]
+category: [hadiths, palestine, non-muslim]
 summary: "Is the Hadith that says: 'There will come a day when Muslims will gain victory over the Jews, and then a stone behind which a Jew may hide, will speak and call the believer to go and kill the Jew hiding behind it' authentic?"
 article_taken_from: 
   taken_from:
