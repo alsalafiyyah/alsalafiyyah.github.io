@@ -290,6 +290,12 @@ defaults:
     values:
       layout: post
       permalink: /muqolat/:title/ 
+  - scope:
+      path: "_posts/abdul-razzaq-al-badr/muqolat/**"
+      type: posts
+    values:
+      layout: post
+      permalink: /muqolat/:title/
       
   # _posts/wahhabism/
   - scope:
