@@ -57,7 +57,7 @@ Throughout history, they have lived as a center of corruption in societies and t
 
 The enmity of the Jews toward Islam is an ancient enmity dating back to the first dawn of Islam. Their animosity and hatred toward its people are well known to both the common and elite, in ancient times and modern. This is because Islam exposed their state, uncovered their reality, unveiled their ignominies, and laid bare their ugly atrocities. Thus, their affairs became public instead of secret, and apparent to everyone after being hidden.
 
-Verses of the Holy Quran descended one after another, stripping away their cover, clarifying the reality of their condition, and exposing all their plot, cunning, and deception. Allah spoke the truth when He said: 
+Verses of the Noble Quran descended one after another, stripping away their cover, clarifying the reality of their condition, and exposing all their plot, cunning, and deception. Allah spoke the truth when He said: 
 
 **“And thus do We explain the Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) in detail, that the way of the Mujrimun (criminals, polytheists, sinners), may become manifest.”** [Al-An'am: 55].
 
