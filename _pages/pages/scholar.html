@@ -10,19 +10,6 @@ permalink: /scholar/
 
 <p>Total Scholars: {{ target_files.size }}</p>
 
-<ul class="hidden">
-  {% for file in target_files %}
-    {% assign scholar_slug = file.name | replace: ".md", "" | replace: ".html", "" %}
-    {% assign scholar_posts_path = "_posts/" | append: scholar_slug | append: "/" %}
-    {% assign scholar_post_count = site.posts | where_exp: "post", "post.path contains scholar_posts_path" | size %}
-    <li>
-      <a class="no-underline hover:underline text-blue-600" href="{{ file.url | relative_url }}">{{ file.title | default: file.name }}</a> 
-      <span>({{ scholar_post_count }} entries)</span>
-      <a href="{{ file.bio_url }}">Biography</a>
-    </li>
-  {% endfor %}
-</ul>
-
 <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
   {% for file in target_files %}
     {% assign scholar_slug = file.name | replace: ".md", "" | replace: ".html", "" %}
