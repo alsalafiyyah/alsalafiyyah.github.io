@@ -1,0 +1,80 @@
+{% capture head_content %}
+  {% include head.html %}
+{% endcapture %}
+{% capture aside_content %}
+  {% include aside.html %}
+{% endcapture %}
+{% capture footer_content %}
+  {% include footer.html %}
+{% endcapture %}
+<!DOCTYPE html>
+<html lang="{{ site.site_elements.lang }}" dir="{{ site.site_elements.dir }}">
+<head>
+{{ head_content }}
+<script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
+<body dir="{{ site.site_elements.dir }}" itemscope itemtype="https://schema.org/WebPage" class="bg-white dark:bg-zinc-950 dark:text-zinc-100 text-black antialiased selection:bg-black selection:text-white dark:selection:bg-white dark:selection:text-black transition-colors duration-300 is-preload" onload="setModifiedDate(); setAccessedDate();">
+{% include navbar.html %}
+<main role="main" class="max-w-7xl mx-auto px-8">
+    {% unless page.url == "/" or page.url == "/ar" %}
+    <header class="py-12 border-b-4 border-black dark:border-white">
+            <div class="max-w-7xl">
+                <h1 itemprop="headline" class="text-4xl md:text-[4vw] leading-[0.9] font-black uppercase tracking-tighter serif mt-8">
+                    {{ page.title }}
+                </h1>
+            </div>
+    </header>
+    {% endunless %}
+    <section class="grid grid-cols-1 md:grid-cols-12 gap-12 py-24 items-start">
+        {{ aside_content }}
+        <article class="md:col-span-8 md:col-start-5 max-w-none" id="logged-out-view">
+            {{ content }}
+        </article>
+    </section>
+</main>
+{{ footer_content }}
+{% include scripts.html %} 
+  <script>
+    // Get HTML elements
+    const loginBtn = document.getElementById('login-btn');
+    const logoutBtn = document.getElementById('logout-btn');
+    const loggedOutView = document.getElementById('logged-out-view');
+    const loggedInView = document.getElementById('logged-in-view');
+    const userName = document.getElementById('user-name');
+
+    // 1. Open the login modal when clicking the login button
+    loginBtn.addEventListener('click', () => netlifyIdentity.open('login'));
+
+    // 2. Trigger logout when clicking the logout button
+    logoutBtn.addEventListener('click', () => netlifyIdentity.logout());
+
+    // 3. Listen for the 'init' event to check if a user is already logged in
+    netlifyIdentity.on('init', (user) => {
+      updateUI(user);
+    });
+
+    // 4. Listen for successful logins
+    netlifyIdentity.on('login', (user) => {
+      updateUI(user);
+      netlifyIdentity.close(); // Close the modal
+    });
+
+    // 5. Listen for logouts
+    netlifyIdentity.on('logout', () => {
+      updateUI(null);
+    });
+
+    // Helper function to update the user interface dynamically using Tailwind's 'hidden' class
+    function updateUI(user) {
+      if (user) {
+        loggedOutView.classList.add('hidden');
+        loggedInView.classList.remove('hidden');
+        userName.textContent = user.user_metadata?.full_name || user.email;
+      } else {
+        loggedOutView.classList.remove('hidden');
+        loggedInView.classList.add('hidden');
+      }
+    }
+  </script>
+</body>
+</html>
