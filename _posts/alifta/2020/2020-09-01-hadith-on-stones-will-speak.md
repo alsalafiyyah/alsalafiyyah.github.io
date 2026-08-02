@@ -5,7 +5,7 @@ title: "Concerning the Hadith: 'You will fight against the Jews and you will gai
 source: "Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 5775, Question 2"
 hijri: "Muharram 13, 1442AH"
 category: [hadiths, palestine, non-muslim]
-summary: "Is the Hadith that says: 'There will come a day when Muslims will gain victory over the Jews, and then a stone behind which a Jew may hide, will speak and call the believer to go and kill the Jew hiding behind it' authentic?"
+summary: "Is the Hadith that says 'There will come a day when Muslims will gain victory over the Jews, and then a stone behind which a Jew may hide, will speak and call the believer to go and kill the Jew hiding behind it' authentic?"
 article_taken_from: 
   taken_from:
     - web_title: اليوم الذي يسلط فيه المسلمون على اليهود
@@ -41,6 +41,7 @@ Also read:
 - [The Danger of the Jews](https://alsalafiyyah.github.io/muqolat/the-danger-of-the-jews/)
 - [Al-Aqsa Crisis](https://alsalafiyyah.github.io/audios/al-aqsa-crisis/)
 - [The Qur'an Insights into Israelite History](https://alsalafiyyah.github.io/muqolat/the-quran-insights-into-israelite-history/)
+- [Understanding the Hadith of the Stone and the Tree](https://alsalafiyyah.github.io/audios/understanding-the-hadith-of-the-stone-and-the-tree/)
 
 
 [^1]: Musnad Imam Ahmad, vol. 2, pp. 67, 122, 131, 149, 398, 417, and 530, and vol. 4, p. 217; Al-Bukhari, Fathul-Bari, no. 3593 and 2925; Muslim, nos. 2921 and 2922; and Al-Tirmidhi, Al-Jami', no. 2237.
