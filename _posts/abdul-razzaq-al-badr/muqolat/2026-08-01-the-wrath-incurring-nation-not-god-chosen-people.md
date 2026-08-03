@@ -2,7 +2,7 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "The Danger of the Jews"
+title: "The Wrath-Incurring Nation, Not God's Chosen People"
 date: 2026-08-01
 lang: en
 translation: false
@@ -70,7 +70,7 @@ It is no wonder that their enmity toward Islam was severe, for Islam came demoli
 * **Islam** protects rights, respects covenants, and forbids injustice; **they** recognize no right, keep no covenant or pledge, and never abandon injustice and aggression.
 * **Islam** forbids taking a life unjustly, prohibits theft, and forbids adultery; **they** deem it permissible to shed the blood of non-Jews, steal their wealth, and violate their honor.
 
-Despite all this misguidance in which they exist, they believe regarding themselves that they are "God's chosen people," His children, and His beloved, and that their souls are distinct from the rest of human souls in that they are a part of God. They believe that had the Jews not been created, blessing would have ceased from the earth, rain would not fall, and good things would not exist. Regarding everyone else, they believe they are akin to donkeys created in human form merely to be fit to serve them. May the faces of the utter losers be blackened, and may the curse of Allah be upon the criminals!
+**Despite all this misguidance in which they exist, they believe regarding themselves that they are **"God's chosen people,"** His children, and His beloved, and that their souls are distinct from the rest of human souls in that they are a part of God. They believe that had the Jews not been created, blessing would have ceased from the earth, rain would not fall, and good things would not exist. Regarding everyone else, they believe they are akin to donkeys created in human form merely to be fit to serve them.** May the faces of the utter losers be blackened, and may the curse of Allah be upon the criminals!
 
 ### The Reality of the Struggle for Palestine and the Path Forward
 
