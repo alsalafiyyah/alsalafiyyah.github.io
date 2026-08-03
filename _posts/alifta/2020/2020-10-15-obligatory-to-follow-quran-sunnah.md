@@ -22,11 +22,11 @@ muftis:
       url: /biography/qaud/
 ---
 
-Question:
+### Question:
 
 There are four Madhabs (Schools of Jurisprudence) in Islam. What criteria do I apply in selecting to follow one of them? Can I follow more than one school of Jurisprudence? 
 
-Answer:
+### Answer:
 
 The basic rule states that it is incumbent upon every Muslim to follow the Book of Allah and the Sunnah of His Messenger (peace be upon him). A Muslim should seek scholars' views whether he follows one of the Four Schools of Jurisprudence or not. One is not obliged to follow a particular school, if one is able to research legal judgments on one's own or by choosing a view from the scholars of Jurisprudence; provided that one is qualified to choose with no obstacle that may hinder the process of deduction. However, if one is not qualified, one should follow the scholars one trusts. Regarding the Four Schools of jurisprudence, each one of them is related to an Imam for whom it was named after. Each Imam is known for his juristic discretion and reasoning to infer legal judgment of the Qur'an and the Sunnah, and people of knowledge followed his school. Juristic fanaticism is impermissible; it is obligatory to follow the evidence regardless as to whether it conforms with a specific school or not.
 

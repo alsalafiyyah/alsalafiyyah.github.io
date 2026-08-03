@@ -5,7 +5,7 @@ title: "Ruling on Mirghaniyyah or Khatmiyyah Sufi order"
 hijri: "Safar 27, 1442"
 source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 10578, Question 1"
 lang: en
-category: [sects]
+category: [sects, sufism]
 tags: [alifta]
 translation: false
 summary: "I am a monotheist but my household follow Al-Mirghaniyyah Tariqah (Sufi order) which is known here in Sudan as Al-Khatmiyyah. Since I was guided to monotheism, I started calling my family to follow it but they refuse, as I am the youngest son."

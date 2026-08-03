@@ -8,7 +8,7 @@ source: "Fatawa Al-Lajnah Ad-Da'imah no. 11248"
 lang: en
 locale: en
 note: true
-category: [misc, fatwas, shirk, polytheism]
+category: [misc, shirk, polytheism]
 summary: "It is impermissible for a Muslim to invoke Allah's Forgiveness for their grandparents or others, if they died in Shirk."
 muftis:
   chairman: 
