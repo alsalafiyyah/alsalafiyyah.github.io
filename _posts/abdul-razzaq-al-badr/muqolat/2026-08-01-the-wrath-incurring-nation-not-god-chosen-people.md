@@ -38,7 +38,7 @@ And Almighty says:
 
 And Almighty says:
 
-> **“Verily! Those who disbelieve in the Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) of Allah and kill the Prophets without right, and kill those men who order just dealings,  announce to them a painful torment.”** [Aal-Imran: 21]
+> **“Verily! Those who disbelieve in the Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) of Allah and kill the Prophets without right, and kill those men who order just dealings, announce to them a painful torment.”** [Aal-Imran: 21]
 
 This harshness with which Allah characterized them in the Quran remains attached to them throughout the ages and across time, down to our present day.
 
