@@ -70,7 +70,9 @@ It is no wonder that their enmity toward Islam was severe, for Islam came demoli
 * **Islam** protects rights, respects covenants, and forbids injustice; **they** recognize no right, keep no covenant or pledge, and never abandon injustice and aggression.
 * **Islam** forbids taking a life unjustly, prohibits theft, and forbids adultery; **they** deem it permissible to shed the blood of non-Jews, steal their wealth, and violate their honor.
 
-**Despite all this misguidance in which they exist, they believe regarding themselves that they are **"God's chosen people,"** His children, and His beloved, and that their souls are distinct from the rest of human souls in that they are a part of God. They believe that had the Jews not been created, blessing would have ceased from the earth, rain would not fall, and good things would not exist. Regarding everyone else, they believe they are akin to donkeys created in human form merely to be fit to serve them.** May the faces of the utter losers be blackened, and may the curse of Allah be upon the criminals!
+**Despite all this misguidance in which they exist, they believe regarding themselves that they are **"God's chosen people,"** His children, and His beloved, and that their souls are distinct from the rest of human souls in that they are a part of God. They believe that had the Jews not been created, blessing would have ceased from the earth, rain would not fall, and good things would not exist. Regarding everyone else, they believe they are akin to donkeys created in human form merely to be fit to serve them.** 
+
+May the faces of the utter losers be blackened, and may the curse of Allah be upon the criminals!
 
 ### The Reality of the Struggle for Palestine and the Path Forward
 
@@ -84,5 +86,3 @@ Thus, there must be a sincere return and praiseworthy repentance to Allah—Exal
 
 > **“Allah has promised those among you who believe, and do righteous good deeds, that He will certainly grant them succession to (the present rulers) in the earth, as He granted it to those before them, and that He will grant them the authority to practise their religion, that which He has chosen for them (i.e. Islam). And He will surely give them in exchange a safe security after their fear (provided) they (believers) worship Me and do not associate anything (in worship) with Me. But whoever disbelieved after this, they are the Fasiqun (rebellious, disobedient to Allah). And perform As-Salat (Iqamat-as-Salat), and give Zakat and obey the Messenger (Muhammad ﷺ) that you may receive mercy (from Allah).”** [An-Nur: 55-56]
 
-
-Source: [خطر اليهود](https://www.al-badr.net/muqolat/2565)
