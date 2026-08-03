@@ -37,6 +37,3 @@ Ibn al-Qayyim (may Allah Ta'ala have mercy on him) said:
 
 
 **O Allah, grant our souls their piety and purify them, for You are the best to purify them; You are their Guardian and Master.**
-
-
-Source: [الإنسان وطباع الحيوان](https://al-badr.net/muqolat/3041)
