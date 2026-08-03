@@ -40,7 +40,7 @@ Also read:
 - [Gharqad the tree of the Jews](https://alsalafiyyah.github.io/the-tree-of-the-jews/)
 - [The Danger of the Jews](https://alsalafiyyah.github.io/muqolat/the-danger-of-the-jews/)
 - [Al-Aqsa Crisis](https://alsalafiyyah.github.io/audios/al-aqsa-crisis/)
-- [The Qur'an Insights into Israelite History](https://alsalafiyyah.github.io/muqolat/the-quran-insights-into-israelite-history/)
+- [The Wrath-Incurring Nation](https://alsalafiyyah.github.io/muqolat/the-wrath-incurring-nation/)
 - [Understanding the Hadith of the Stone and the Tree](https://alsalafiyyah.github.io/audios/understanding-the-hadith-of-the-stone-and-the-tree/)
 
 

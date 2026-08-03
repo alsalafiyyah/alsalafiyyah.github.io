@@ -2,7 +2,7 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "The Qur'an Insights into Israelite History"
+title: "The Wrath-Incurring Nation"
 date: 2026-08-01
 lang: en
 translation: false

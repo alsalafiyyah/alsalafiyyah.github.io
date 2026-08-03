@@ -3,10 +3,9 @@ layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
 title: "What is the future of occupied Jerusalem?"
-hijri: Safar 19, 1446 AH
 date: 2024-08-23
 active: audios
-category: [fatwas,audios,palestine]
+category: [audios,palestine]
 tags: [albani]
 summary: "We are upon certainty that the Jews will not have permanency in Palestine."
 mp3: "https://phaven-prod.s3.amazonaws.com/files/audio_part/asset/3185610/NT0gkf1R8df0NCrEqxIQs-o0abs/Jewish_Occupation_of_Jerusalem.mp3"
@@ -18,9 +17,11 @@ muftis:
 ---
 
 ### Question: 
+
 A key point, what is the future of occupied Jerusalem and its destination after the peace treaty with the Jews?
 
 ### Answer: 
+
 There is no peace. There is no peace except with Islam. The day you see Islam ruling the people then proclaim peace. But we are upon certainty that the Jews will not have permanency in Palestine. This is as Allah the Exalted said: **“It is the truth, just as it is the truth that you can speak.”** (Adh-Dhariyat 51:23)
 
 Because there are authentic narrations that clearly state that when the Dajjal (anti-Christ) appears during the last days, Jesus (peace be upon him) will be in Masjid Al-Aqsa. The Dajjal will appear followed by seventy thousand Jews of Isfahan wearing Persian shawls. They will come with the Dajjal om Isfahan. Therefore, Jesus will be in Jerusalem, where will the Jews be? They will have become a thing of the past. But during this current time, as Allah the Exalted said: **“And these days [of varying conditions] We alternate among the people.”** (Aal `Imrān 3:140).
