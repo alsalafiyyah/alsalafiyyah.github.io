@@ -6,7 +6,7 @@ permalink: /videos/
 summary: "Collection of video fatwas (legal opinions) issued by the scholars of ahlus-sunnah."
 ---
 
-<div class="grid grid-cols-1 md:grid-cols-2 gap-x-12 gap-y-24">
+<div class="grid grid-cols-1 md:grid-cols-3 gap-x-12 gap-y-24">
     {% assign videos = site.posts | where_exp: "post", "post.categories contains 'videos'" %}
     {% for post in videos %}
     <article class="group relative flex flex-col">
