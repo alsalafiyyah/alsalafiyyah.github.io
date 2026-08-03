@@ -5,7 +5,7 @@ title: "Darwinian Theory"
 hijri: "Safar 03, 1442"
 date: 2020-09-20
 source: "Fatawa al-Lajnah ad-Da'imah, Fatwa no. 2872, Question 1"
-category: [fatwas,darwinism]
+category: [darwinism, darwinian, non-muslim]
 summary: "The theory of evolution, known as Darwin’s theory, contradicts the Book of Allah, the Sunnah of His Messenger ﷺ, and the consensus of the people of knowledge and faith."
 article_taken_from: 
   taken_from:

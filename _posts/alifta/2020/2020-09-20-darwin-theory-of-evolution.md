@@ -6,7 +6,7 @@ title: "Darwin's theory of evolution"
 hijri: "Safar 03, 1442"
 date: 2020-09-20
 source: "Fatawa al-Lajnah ad-Da'imah 1/31, Fatwa no. 5167, Question 5"
-category: [fatwas,darwinism]
+category: [darwinism, darwinian, non-muslim]
 summary: "This claim is not correct. The evidence for this is that Allah clarified in the Quran the stages of the creation of Adam."
 article_taken_from: 
   taken_from:
