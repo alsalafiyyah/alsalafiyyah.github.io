@@ -38,7 +38,8 @@ Also read:
 - [The Jews gathering in Palestine is from the signs of the Hour](https://alsalafiyyah.github.io/audios/jews-gathering-in-palestine-is-sign-of-the-hour/)
 - [What is the future of occupied Jerusalem?](https://alsalafiyyah.github.io/audios/zionists-jews-occupation-of-palestine/)
 - [Gharqad the tree of the Jews](https://alsalafiyyah.github.io/the-tree-of-the-jews/)
-- [The Danger of the Jews](https://alsalafiyyah.github.io/muqolat/the-danger-of-the-jews/)
+- [The Wrath-Incurring Nation, Not God's Chosen People
+](https://alsalafiyyah.github.io/muqolat/the-wrath-incurring-nation-not-god-chosen-people/)
 - [Al-Aqsa Crisis](https://alsalafiyyah.github.io/audios/al-aqsa-crisis/)
 - [The Wrath-Incurring Nation](https://alsalafiyyah.github.io/muqolat/the-wrath-incurring-nation/)
 - [Understanding the Hadith of the Stone and the Tree](https://alsalafiyyah.github.io/audios/understanding-the-hadith-of-the-stone-and-the-tree/)
