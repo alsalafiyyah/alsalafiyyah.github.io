@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: no_sidebar
 title: "Scholars"
 summary: ""
 permalink: /scholar/
@@ -10,7 +10,7 @@ permalink: /scholar/
 
 <p>Total Scholars: {{ target_files.size }}</p>
 
-<div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+<div class="grid grid-cols-1 md:grid-cols-3 gap-6">
   {% for file in target_files %}
     {% assign scholar_slug = file.name | replace: ".md", "" | replace: ".html", "" %}
     {% assign scholar_posts_path = "_posts/" | append: scholar_slug | append: "/" %}
