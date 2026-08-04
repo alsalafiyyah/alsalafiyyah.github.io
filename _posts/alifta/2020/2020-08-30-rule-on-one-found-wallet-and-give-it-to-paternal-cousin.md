@@ -1,17 +1,19 @@
 ---
-layout: post
-title: "Ruling on one when he was young he found a wallet in the street and gave it to his paternal cousin"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 18253-2"
-hijri: Muharram 11, 1442 AH
 date: 2020/08/30
-category: [luqatah]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Salih Fawzan
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Bakr Abu Zayd
- - Shaykh Abdullah ibn Ghudayyan
+hijri: Muharram 11, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+shaykhs:
+- Shaykh Abdul-Aziz ibn Baz
+- Shaykh Salih Fawzan
+- Shaykh Abdul-Aziz Aal al-Shaykh
+- Shaykh Bakr Abu Zayd
+- Shaykh Abdullah ibn Ghudayyan
+source: Fatawa Al-Lajnah Ad-Da'imah no. 18253-2
+title: Ruling on one when he was young he found a wallet in the street and gave it
+  to his paternal cousin
 ---
 
 Question: 

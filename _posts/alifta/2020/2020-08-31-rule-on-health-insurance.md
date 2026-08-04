@@ -1,16 +1,17 @@
 ---
-layout: post
-title: "Ruling on health Insurance"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 21667"
-hijri: Muharram 12, 1442 AH
 date: 2020/08/31
-category: [insurance]
-shaykhs: 
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Salih Fawzan
- - Shaykh Bakr Abu Zayd
+hijri: Muharram 12, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+shaykhs:
+- Shaykh Abdul-Aziz Aal al-Shaykh
+- Shaykh Abdullah ibn Ghudayyan
+- Shaykh Salih Fawzan
+- Shaykh Bakr Abu Zayd
+source: Fatawa Al-Lajnah Ad-Da'imah no. 21667
+title: Ruling on health Insurance
 ---
 
 Question: 

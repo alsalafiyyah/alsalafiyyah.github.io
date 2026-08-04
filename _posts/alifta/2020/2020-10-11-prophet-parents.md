@@ -1,29 +1,32 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "The Prophet's parents"
 hijri: Safar 24, 1442 AH
-source: "Fatawa Al-Lajnah Al-Da'imah no. 16426 "
 lang: en
-note: true
-category: [ahl-fatrah, prophets]
-summary: "Parents of the Prophet (peace be upon him) did not belong to Ahl-ul-Fatrah because the Arabs followed the faith of Ibrahim (peace be upon him), particularly the people in the lands of Hijaz. Later, Shirk (associating others with Allah in His Divinity or worship) reached them during the era of 'Amr ibn Luhay Al-Khuza'i, but they were still practicing some rites of Ibrahim's faith, such as Hajj."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: 'Fatawa Al-Lajnah Al-Da''imah no. 16426 '
+summary: Parents of the Prophet (peace be upon him) did not belong to Ahl-ul-Fatrah
+  because the Arabs followed the faith of Ibrahim (peace be upon him), particularly
+  the people in the lands of Hijaz. Later, Shirk (associating others with Allah in
+  His Divinity or worship) reached them during the era of 'Amr ibn Luhay Al-Khuza'i,
+  but they were still practicing some rites of Ibrahim's faith, such as Hajj.
+title: The Prophet's parents
 ---
 
 Question:

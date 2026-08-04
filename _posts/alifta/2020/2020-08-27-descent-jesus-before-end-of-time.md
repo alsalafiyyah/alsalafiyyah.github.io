@@ -1,13 +1,16 @@
 ---
-layout: post
-title: "The descent of Jesus before the end of the time"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 1621-3"
-hijri: "Muharram 8, 1442 AH"
 date: 2020-08-27
-category: ["prophets", fatwas]
-summary: "Yes, Prophet 'Isa, the Son of Maryam (Mary), will come down to the earth again at the end of time. He will rule according to the Shari`ah of Prophet Muhammad (peace be upon him)"
 group1: true
+hijri: Muharram 8, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah no. 1621-3
+summary: Yes, Prophet 'Isa, the Son of Maryam (Mary), will come down to the earth
+  again at the end of time. He will rule according to the Shari`ah of Prophet Muhammad
+  (peace be upon him)
+title: The descent of Jesus before the end of the time
 ---
 
 ### Question: 
@@ -35,4 +38,3 @@ May Allah grant us success. May peace and blessings be upon our Prophet Muhammad
 ---
 [^1]: Muslim, Sahih, Book on faith, no. 155; and Ahmad, Musnad, vol. 2, p. 336.
 [^2]: Muslim, Sahih, Book on faith, no. 156; and Ahmad, Musnad, vol. 3, p. 384.
-

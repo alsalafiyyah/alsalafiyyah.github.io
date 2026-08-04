@@ -1,28 +1,30 @@
 ---
-layout: post
-title: "Ruling on Prophet's songs"
-publisher: "alsalafiyyah@icloud.com"
-category: [bidah, music, festivals]
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 18440 Question 2"
-hijri: "Dhul-Qa'dah 20, 1441 AH"
-summary: "Many Muslims celebrate the Prophethood of our Messenger with musical songs just as the Jews and Christians do. They mention Allah while music is played."
-tags: [alifta]
+hijri: Dhul-Qa'dah 20, 1441 AH
 lang: en
-translation: false
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 18440 Question 2
+summary: Many Muslims celebrate the Prophethood of our Messenger with musical songs
+  just as the Jews and Christians do. They mention Allah while music is played.
+tags:
+- alifta
+title: Ruling on Prophet's songs
+translation: false
 ---
 
 ### Question: 

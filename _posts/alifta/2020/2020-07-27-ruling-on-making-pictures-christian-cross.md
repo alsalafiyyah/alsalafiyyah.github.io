@@ -1,25 +1,25 @@
 ---
-layout: post
-title: "Ruling on making pictures of Christian symbols such as the cross"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 21570, Question 1"
-category: [fatwas,walabara]
 hijri: Dhul-Hijjah 6, 1441
 lang: en
-locale: en
-note: true
-summary: "It is not permissible to take photos of non-Muslim rituals or circulate them among Muslims because they contain acts of disbelief in Allah and His Messenger and contradict Islam. "
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  chairman:
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 21570, Question 1
+summary: 'It is not permissible to take photos of non-Muslim rituals or circulate
+  them among Muslims because they contain acts of disbelief in Allah and His Messenger
+  and contradict Islam. '
+title: Ruling on making pictures of Christian symbols such as the cross
 ---
 
 ### Question: 

@@ -1,29 +1,29 @@
 ---
-layout: post
-published: true
-title: "Ruling on presents given by disbelievers and worshippers of idols to Muslims in their festivals"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 20400, Question 2"
-category: [fatwas,walabara]
 hijri: Dhul-Hijjah 6, 1441
 lang: en
-locale: true
-note: true
-summary: "It is not permissible to accept or make use of the gifts given by disbelievers to Muslims on their festivals and religious occasions."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+published: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 20400, Question 2
+summary: It is not permissible to accept or make use of the gifts given by disbelievers
+  to Muslims on their festivals and religious occasions.
+title: Ruling on presents given by disbelievers and worshippers of idols to Muslims
+  in their festivals
 ---
 
 ### Question: 
@@ -33,4 +33,3 @@ In India some festivals related to the Hindus (worshippers of idols) are celebra
 ### Answer:
 
 It is not permissible to accept or make use of the gifts given by disbelievers to Muslims on their festivals and religious occasions. Accepting such gifts is a sort of approval of their falsehood and being satisfied with what they do. Consequently, a Muslim should be mindful and be careful when it comes to matters related to his faith.
-

@@ -1,26 +1,29 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "The wisdom behind the difference in complexion colors of the servants of Allah"
+author: Permanent Committee of KSA
 date: 2025-07-29
-hijri: "Safar 4, 1447 AH"
-source: "Fatawa Al-Lajnah Ad-Daimah, Fatwa no.145, Question 4"
-category: [quran]
-tags: [alifta]
+hijri: Safar 4, 1447 AH
 lang: en
-translation: false
-summary: "And among His Signs is the creation of the heavens and the earth, and the difference of your languages and colours. Verily, in that are indeed signs for men of sound knowledge."
-author: "Permanent Committee of KSA"
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Razzaq Afifi
-      url: /biography/afifi/
+  chairman:
+  - name: Shaykh Abdul-Razzaq Afifi
+    url: /biography/afifi/
   deputy_chairman:
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-  members: 
-    - name: Shaykh Abdullah ibn Muni'
-      url: /biography/mani/
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  members:
+  - name: Shaykh Abdullah ibn Muni'
+    url: /biography/mani/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no.145, Question 4
+summary: And among His Signs is the creation of the heavens and the earth, and the
+  difference of your languages and colours. Verily, in that are indeed signs for men
+  of sound knowledge.
+tags:
+- alifta
+title: The wisdom behind the difference in complexion colors of the servants of Allah
+translation: false
 ---
 
 ### Question:

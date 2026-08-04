@@ -1,28 +1,28 @@
 ---
-layout: post
-title: "Treating enuresis"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 18584, Question 3"
-hijri: Muharram 15, 1442
-summary: The guidance of the Prophet was to seek treatment and encourage the patient from among his family and Companions to seek it. 
 date: 2020/09/3
+hijri: Muharram 15, 1442
 lang: en
-locale: en
-category: [fatwas,treatments]
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/zayd/
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/zayd/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 18584, Question 3
+summary: The guidance of the Prophet was to seek treatment and encourage the patient
+  from among his family and Companions to seek it.
+title: Treating enuresis
 ---
 
 ### Question:

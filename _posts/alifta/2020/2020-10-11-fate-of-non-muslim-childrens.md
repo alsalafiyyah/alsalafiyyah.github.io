@@ -1,20 +1,21 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "The fate of the children of the disbelievers"
 hijri: Safar 24, 1442 AH
-source: "Fatawa Al-Lajnah Al-Da'imah no. 6542-8"
 lang: en
-note: true
-category: [ahl-fatrah, non-muslim]
-summary: "The preponderant view is that Allah will test them with some commands on the Day of Resurrection; whoever is obedient on that day will enter Jannah (Paradise) and whoever disobeys will enter Hell."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah no. 6542-8
+summary: The preponderant view is that Allah will test them with some commands on
+  the Day of Resurrection; whoever is obedient on that day will enter Jannah (Paradise)
+  and whoever disobeys will enter Hell.
+title: The fate of the children of the disbelievers
 ---
 
 Question:

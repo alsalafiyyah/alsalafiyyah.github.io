@@ -1,15 +1,15 @@
 ---
-layout: post
-title: "Matters that need disapproval of evil"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 4245, Question 1"
-hijri: Muharram 14, 1442 AH
 date: 2020/09/3
-category: [fatwas, hisbah]
 group1: true
-locale: en
+hijri: Muharram 14, 1442 AH
 lang: en
-summary: "Is it allowed to reprove a Muslim because he believes that pictures are permissible? What things are permissible to denounce?"
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 4245, Question 1
+summary: Is it allowed to reprove a Muslim because he believes that pictures are permissible?
+  What things are permissible to denounce?
+title: Matters that need disapproval of evil
 ---
 
 ### Question:

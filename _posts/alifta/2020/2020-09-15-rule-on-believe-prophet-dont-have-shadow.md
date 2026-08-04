@@ -1,26 +1,29 @@
 ---
-layout: post
-title: "Ruling on believing the Prophet (peace be upon him) did not have a shadow like ordinary human beings"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, fatwa no. 6534"
-category: [sects]
-hijri: "Muharram 27, 1442"
+hijri: Muharram 27, 1442
 lang: en
-tags: [alifta]
-translation: false
-summary: "This is a false belief which is incongruous with the explicit texts of the Qur'an and Sunnah"
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, fatwa no. 6534
+summary: This is a false belief which is incongruous with the explicit texts of the
+  Qur'an and Sunnah
+tags:
+- alifta
+title: Ruling on believing the Prophet (peace be upon him) did not have a shadow like
+  ordinary human beings
+translation: false
 ---
 
 ### Question:

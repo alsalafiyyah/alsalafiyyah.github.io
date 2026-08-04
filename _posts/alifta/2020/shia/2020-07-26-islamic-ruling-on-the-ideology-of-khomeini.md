@@ -1,15 +1,18 @@
 ---
-layout: post
-title: "The Islamic Ruling on the Ideology of Khomeini and the Iranian State"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 11461"
-category: [sects]
-tags: [alifta]
 date: 2020-07-26-islamic-ruling-on-the-ideology-of-khomeini.md
-lang: en
-translation: false
-summary: "As to the claim that in today's Muslim world Iran is the only state that abides by Allah's rules and that there is no true Muslim leader but Ayatollah Khomeini, it is a lie."
 group6: true
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 11461
+summary: As to the claim that in today's Muslim world Iran is the only state that
+  abides by Allah's rules and that there is no true Muslim leader but Ayatollah Khomeini,
+  it is a lie.
+tags:
+- alifta
+title: The Islamic Ruling on the Ideology of Khomeini and the Iranian State
+translation: false
 ---
 
 ### Question:
@@ -39,5 +42,3 @@ This is indeed a blatant lie and a manifest slander.
 We advise you to read the book Mukhtasar al-Tuhfah al-Ithna Ashariyyah by the scholar Mahmud Shukri al-Alusi, the treatise Al-Khutoot al-Aredah (The Broad Outlines) by Muhibb al-Din al-Khatib, the book Minhaj as-Sunnah an-Nabawiyyah fi Naqd Kalam ash-Shiah wal-Qadariyyah by the scholar Sheikh Ahmad ibn Abd al-Halim ibn Taymiyyah, and the book Al-Muntaqa min Minhaj as-Sunnah by Al-Dhahabi.
 
 And with Allah lies all success. May Allah send blessings and peace upon our Prophet Muhammad, his family, and his companions.
-
-

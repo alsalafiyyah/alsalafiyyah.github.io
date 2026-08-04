@@ -1,24 +1,26 @@
 ---
-layout: post
-title: "The Hadith: 'Whoever among you sees an evil'"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 4262-4"
 hijri: Muharram 14, 1442 AH
 lang: en
-category: ["tafsir", hadiths, hisbah]
-summary: "What is the meaning of the Hadith reported on the authority of Abu Hurayrah (may Allah be pleased with him) in which the Prophet (peace be upon him) said: 'Whoever, among you, sees something abominable should rectify it with his hand'"
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah no. 4262-4
+summary: 'What is the meaning of the Hadith reported on the authority of Abu Hurayrah
+  (may Allah be pleased with him) in which the Prophet (peace be upon him) said: ''Whoever,
+  among you, sees something abominable should rectify it with his hand'''
+title: 'The Hadith: ''Whoever among you sees an evil'''
 ---
 
 Question:

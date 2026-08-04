@@ -1,26 +1,25 @@
 ---
-layout: post
-title: "Do the Jinn know knowledge of Unseen?"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fawa no.18645, Question 3"
-category: [fatwas]
 hijri: Dhul-Hijjah 7, 1441 AH
 lang: en
-locale: en
-note: true
-summary: "Knowledge of Ghayb is one of the exclusive attributes of Rububiyyah (Lordship); no one knows the Ghayb of the heavens and the earth except Allah."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fawa no.18645, Question 3
+summary: Knowledge of Ghayb is one of the exclusive attributes of Rububiyyah (Lordship);
+  no one knows the Ghayb of the heavens and the earth except Allah.
+title: Do the Jinn know knowledge of Unseen?
 ---
 
 ### Question: 

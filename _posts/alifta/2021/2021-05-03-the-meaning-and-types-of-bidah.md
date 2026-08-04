@@ -1,15 +1,17 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "The meaning and types of Bid'ah"
-hijri: Ramadan 21, 1442 AH
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 3230, Question 7"
-category: [bidah,terminology]
-translation: false
-lang: en
-tags: [alifta]
-summary: "Bid'ah is an act of worship that was not legislated by Allah such as celebrating the birth of the Prophet, Isra' (Night Journey), and Mi'raj (Ascension to Heaven)"
 group1: true
+hijri: Ramadan 21, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 3230, Question 7
+summary: Bid'ah is an act of worship that was not legislated by Allah such as celebrating
+  the birth of the Prophet, Isra' (Night Journey), and Mi'raj (Ascension to Heaven)
+tags:
+- alifta
+title: The meaning and types of Bid'ah
+translation: false
 ---
 
 ### Question: 
@@ -24,4 +26,3 @@ Bid'ah is an act of worship that was not legislated by Allah such as celebrating
 2. Al-Ibda' fi Madar Al-Ibtida' (The masterpiece about the harms of innovation in religion) by Shaykh 'Ali Mahfuzh.
 
 Both scholars are Egyptian. There were two other books written a long time ago. They are Bida' wa Al-Nahi 'Anha (Bid'ahs and the commands that prohibits them) by Imam Muhammad ibn Waddah and Al-'Itisam by Al-Shatiby.
-

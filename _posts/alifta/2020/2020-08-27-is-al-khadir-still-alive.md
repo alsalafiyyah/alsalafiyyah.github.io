@@ -1,3 +1,8 @@
+---
+lang: en
+mass_edited: true
+---
+
 ﻿---
 layout: post
 title: "Is Al-Khadir (peace be upon him) still alive?"
@@ -13,11 +18,11 @@ shaykhs:
  - Shaykh Abdullah ibn Qa'ud
 ---
 
-Question: 
+### Question: 
 
- Is Al-Khadir (peace be upon him) still alive as is claimed?
+Is Al-Khadir (peace be upon him) still alive as is claimed?
 
-Answer:
+### Answer:
 
 The most authentic of the two opinions of scholars is that of the Jumhur (dominant majority of scholars) who said that Al-Khadir (peace be upon him) has died. This is based on the general rule in the saying of Allah (Exalted be He): "**And We granted not to any human being immortality before you (O Muhammad صلى الله عليه وسلم.) **" [al-Anbiya: 34]
 

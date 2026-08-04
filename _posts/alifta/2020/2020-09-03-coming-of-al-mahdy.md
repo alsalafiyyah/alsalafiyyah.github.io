@@ -1,26 +1,26 @@
 ---
-layout: post
-title: "The coming out of Al-Mahdy"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 2844"
-category: [fatwas,doomsday]
 hijri: Muharram 15, 1442 AH
 lang: en
-locale: en
-note: true
-summary: "There are many Hadiths that indicate the emergence of Al-Mahdy. They were reported in many chains of transmission. A group of scholars said that these Hadiths are morally Mutawatir."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 2844
+summary: There are many Hadiths that indicate the emergence of Al-Mahdy. They were
+  reported in many chains of transmission. A group of scholars said that these Hadiths
+  are morally Mutawatir.
+title: The coming out of Al-Mahdy
 ---
 
 ### Question: 

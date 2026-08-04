@@ -1,20 +1,21 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: Words to be said at times of adversity
-date: 2024-07-08
-hijri: Muharram 02, 1446
-source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 8860, Question 6
-category: [fatwas]
-note: true
-group1: true
-locale: en
-lang: en
-summary: I live with my parents, brothers, and sisters. We all love and respect each other, all praise be to Allah. I love my family very much and this makes me very worried when any member of my family falls sick to the extent that I cannot speak of anything.
-article_taken_from: 
+article_taken_from:
   taken_from:
-    - web_title: ما يقال عند المصيبة
-      web_url: https://al-fatawa.com/fatwa/110969
+  - web_title: ما يقال عند المصيبة
+    web_url: https://al-fatawa.com/fatwa/110969
+date: 2024-07-08
+group1: true
+hijri: Muharram 02, 1446
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 8860, Question 6
+summary: I live with my parents, brothers, and sisters. We all love and respect each
+  other, all praise be to Allah. I love my family very much and this makes me very
+  worried when any member of my family falls sick to the extent that I cannot speak
+  of anything.
+title: Words to be said at times of adversity
 ---
 
 ### Question: 

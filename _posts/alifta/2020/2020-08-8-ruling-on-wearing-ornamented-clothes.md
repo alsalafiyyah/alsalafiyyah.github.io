@@ -1,25 +1,25 @@
 ---
-layout: post
-title: "Ruling on wearing ornamented clothes at weddings"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 10549, Question 2"
-category: [fatwas,women]
-hijri: Dhul-Hijjah 14, 1441
 date: 2020/08/8
-locale: en
+hijri: Dhul-Hijjah 14, 1441
 lang: en
-summary: "If the matter is exactly as what is mentioned in the question, it is permissible for women attending weddings to wear ornamented clothes provided that they do not intermix with men."
-note: true
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz
+  chairman:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Afifi
-      url: /biography/afifi
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan
+  - name: Shaykh Abdul-Razzaq Afifi
+    url: /biography/afifi
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 10549, Question 2
+summary: If the matter is exactly as what is mentioned in the question, it is permissible
+  for women attending weddings to wear ornamented clothes provided that they do not
+  intermix with men.
+title: Ruling on wearing ornamented clothes at weddings
 ---
 
 ### Question: 
@@ -28,4 +28,4 @@ Is it permissible for women to wear ornamented clothes at weddings while non-Mah
 
 ### Answer: 
 
-If the matter is exactly as what is mentioned in the question, it is permissible for women attending weddings to wear ornamented clothes provided that they do not intermix with men. However, it is Wajib (obligatory) on her to put on Hijab once she sees or is seen by non-Mahrams. 
+If the matter is exactly as what is mentioned in the question, it is permissible for women attending weddings to wear ornamented clothes provided that they do not intermix with men. However, it is Wajib (obligatory) on her to put on Hijab once she sees or is seen by non-Mahrams.

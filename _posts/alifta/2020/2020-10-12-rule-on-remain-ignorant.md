@@ -1,22 +1,22 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "It is impermissible for a person to remain ignorant"
 hijri: Safar 25, 1442 AH
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 21030-3"
 lang: en
-note: true
-category: [knowledge, misc]
-summary: "It is impermissible for a person to remain ignorant. They have to learn what they must know about their Din (religion) and gain religious knowledge from scholars."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  chairman:
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA no. 21030-3
+summary: It is impermissible for a person to remain ignorant. They have to learn what
+  they must know about their Din (religion) and gain religious knowledge from scholars.
+title: It is impermissible for a person to remain ignorant
 ---
 
 Question:

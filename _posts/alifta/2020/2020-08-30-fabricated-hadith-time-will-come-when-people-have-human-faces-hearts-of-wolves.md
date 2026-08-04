@@ -1,16 +1,18 @@
 ---
-layout: post
-title: "Fabricated Hadith: 'A time will come when most people have the faces of human beings and the hearts of wolves'"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 19042-3"
-hijri: Muharram 11, 1442 AH
 date: 2020/08/30
-category: [tafsir, hadiths, mawdu-daif]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Salih Fawzan
- - Shaykh Abdullah ibn Ghudayyan
+hijri: Muharram 11, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+shaykhs:
+- Shaykh Abdul-Aziz ibn Baz
+- Shaykh Abdul-Aziz Aal al-Shaykh
+- Shaykh Salih Fawzan
+- Shaykh Abdullah ibn Ghudayyan
+source: Fatawa Al-Lajnah Ad-Da'imah no. 19042-3
+title: 'Fabricated Hadith: ''A time will come when most people have the faces of human
+  beings and the hearts of wolves'''
 ---
 
 Question: 

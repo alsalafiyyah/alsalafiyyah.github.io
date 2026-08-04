@@ -1,26 +1,26 @@
 ---
-layout: post
-title: "Ruling on obedience to parents leads to committing sins"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 5994, Question 1"
-hijri: Muharram 12, 1442
 date: 2020/08/31
-locale: en
+hijri: Muharram 12, 1442
 lang: en
-summary: "Therefore, the girl should stick to wearing the Niqab, and try to convince her parents by explaining the legal ruling, without being bothered by their threats."
-category: [fatwas,women]
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz
+  chairman:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Afifi
-      url: /biography/afifi
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud
+  - name: Shaykh Abdul-Razzaq Afifi
+    url: /biography/afifi
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 5994, Question 1
+summary: Therefore, the girl should stick to wearing the Niqab, and try to convince
+  her parents by explaining the legal ruling, without being bothered by their threats.
+title: Ruling on obedience to parents leads to committing sins
 ---
 
 ### Question: 
@@ -39,4 +39,3 @@ Therefore, the girl should stick to wearing the Niqab, and try to convince her p
 
 [^1]: Al-Bukhari, Sahih, Book on marriage, no. 5063; Muslim, Sahih, Book on marriage, no. 1401; Al-Nasa'i, Sunan, Book on marriage, no. 3217; and Ahmad, Musnad, vol. 3, p. 285.
 [^2]: Al-Bukhari, Sahih, Book on judgments, no. 7145; Muslim, Sahih, Book on rulership, no. 1840; Al-Nasa'i, Sunan, Book on Al-Bay`ah, no. 4205; Abu Dawud, Sunan, Book on Jihad, no. 2625; and Ahmad, Musnad, vol. 1, p. 82.
-

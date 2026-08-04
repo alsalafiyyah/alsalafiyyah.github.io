@@ -1,20 +1,20 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: Ruling on following the funeral of grave-worshippers
-date: 2024-07-12
-hijri: Muharram 06, 1446
-source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 3548, Question 1
-category: [fatwas,funerals,sects]
-note: true
-group6: true
-locale: en
-lang: en
-summary: If such people die in the state which you describe, it is not permissible to follow their funeral procession, to pray over them, to make Du'a and seek forgiveness for them.
-article_taken_from: 
+article_taken_from:
   taken_from:
-    - web_title: تشييع جنازة عباد القبور
-      web_url: https://al-fatawa.com/fatwa/110973
+  - web_title: تشييع جنازة عباد القبور
+    web_url: https://al-fatawa.com/fatwa/110973
+date: 2024-07-12
+group6: true
+hijri: Muharram 06, 1446
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 3548, Question 1
+summary: If such people die in the state which you describe, it is not permissible
+  to follow their funeral procession, to pray over them, to make Du'a and seek forgiveness
+  for them.
+title: Ruling on following the funeral of grave-worshippers
 ---
 
 ### Question: 
@@ -29,4 +29,4 @@ If such people die in the state which you describe, it is not permissible to fol
 
 Moreover, it was authentically reported that the Prophet ﷺ said, **"I sought Allah's permission to beg forgiveness for my mother, but He did not grant it to me. I sought permission from Him to visit her grave, and He granted me permission."** 
 
-Such people cannot be excused by saying that no one told them or explained to them that the things they were doing were Shirk, because the evidence on that in the Qur'an are very clear, and there were knowledgeable people among them whom they could have asked about whether what they were doing was Shirk or not. However, they turned away and were content with what they were doing. 
+Such people cannot be excused by saying that no one told them or explained to them that the things they were doing were Shirk, because the evidence on that in the Qur'an are very clear, and there were knowledgeable people among them whom they could have asked about whether what they were doing was Shirk or not. However, they turned away and were content with what they were doing.

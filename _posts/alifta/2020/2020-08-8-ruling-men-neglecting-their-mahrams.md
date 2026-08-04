@@ -1,27 +1,26 @@
 ---
-layout: post
-title: "Ruling on men neglecting their Mahrams"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 5320, Question 2"
-category: [fatwas,women]
-hijri: Dhul-Hijjah 14, 1441
 date: 2020/08/8
-note: true
-locale: en
+hijri: Dhul-Hijjah 14, 1441
 lang: en
-summary: What is your opinion of a man who does not order his female household to cover themselves in front of non-Mahrams.
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Ibn baz
-      url: /biography/binbaz
+  chairman:
+  - name: Shaykh Ibn baz
+    url: /biography/binbaz
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Afifi
-      url: /biography/afifi
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud
+  - name: Shaykh Abdul-Razzaq Afifi
+    url: /biography/afifi
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 5320, Question 2
+summary: What is your opinion of a man who does not order his female household to
+  cover themselves in front of non-Mahrams.
+title: Ruling on men neglecting their Mahrams
 ---
 
 ### Question: 

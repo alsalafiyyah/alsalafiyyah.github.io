@@ -1,24 +1,25 @@
 ---
-layout: post
-title: "Making up for missed Salah due to sleep or other reasons"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 6196, Question1"
-hijri: Muharram 9, 1442
-locale: en
-lang: en
 date: 2020/08/28
-category: [fatwas, salah]
-summary: "The Salah you miss due to sleep or forgetfulness should be offered the moment you wake up or the moment you remember. It does not matter if you wake up or remember it after sunrise."
+hijri: Muharram 9, 1442
+lang: en
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 6196, Question1
+summary: The Salah you miss due to sleep or forgetfulness should be offered the moment
+  you wake up or the moment you remember. It does not matter if you wake up or remember
+  it after sunrise.
+title: Making up for missed Salah due to sleep or other reasons
 ---
 
 ### Question: 
@@ -43,6 +44,3 @@ May Allah grant us success. May peace and blessings be upon our Prophet Muhammad
 [^1]: Related by Ahmad, Al-Musnad, vol. 3, pp. 100, 243, 267, and 282, from the Hadith narrated by Anas; Al-Bukhari, Fath-ul-Bary, no. 597; Muslim, Sahih, no. 684; Imam Ahmad, vol. 5, p. 22; Abu Dawud, no. 442, verified by Ezzat 'Ubayd Al-Da'as; Al-Tirmidhy, no. 187, ed. Dar Al-Fikr; and Al-Nasa'i, vol. 1, pp. 236-237, ed. Al-Halabi.
 [^2]: Related by Ahmad, Al-Musnad, vol. 5, p. 346; Al-Tirmidhy, Book on general issues, no. 2623, he ranked this Hadith as Hasan Sahih Gharib; Al-Nasa'i, Al-Mujtaba, vol. 1, p. 231; Ibn Majah, Al-Sunan, no. 1065; Ibn Abu Shaybah, Book on faith, no. 46; Ibn Hibban, Sahih, vol. 3, p. 8; Muhammad ibn Nasr Al-Marwazy, Ta'zhim Qadr Al-Salah, nos. 894 and 895; Al-Daraqutny, Al-Sunan, vol. 2, p. 55; Al-Hakim, Al-Mustadrak, vol. 1, p. 7; Al-Dhahaby supported Al-Hakim*s view from the Hadith narrated by Buraydah.
 [^3]: Related by Ahmad, Al-Musnad, vol. 3, p. 370; Muslim, Sahih, no. 82; Abu Dawud, Al-Sunan, no. 4678; Al-Tirmidhy, Book on general issues, nos. 2621 and 2622; Ibn Majah, Al-Sunan, no. 1064; Ibn Abu Shaybah, Book on faith, no. 44; Ibn Hibban, Sahih, vol. 3, p. 8; and Muhammad ibn Nasr Al-Marwazy, Ta`zhim Qadr Al-Salah, nos. 886, 887, and 888, from the Hadith narrated by Jabir.
-
-
-

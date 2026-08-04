@@ -1,15 +1,16 @@
 ---
-layout: post
-title: "New revert entering the Sacred Precincts without changing his name"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 11014"
-hijri: Muharram 12, 1442
 date: 2020/08/31
-category: [hajj,fatwas]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdul-Razzaq al-Afify
+hijri: Muharram 12, 1442
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+shaykhs:
+- Shaykh Abdul-Aziz ibn Baz
+- Shaykh Abdullah ibn Ghudayyan
+- Shaykh Abdul-Razzaq al-Afify
+source: Fatawa Al-Lajnah Ad-Da'imah no. 11014
+title: New revert entering the Sacred Precincts without changing his name
 ---
 
 ### Question:

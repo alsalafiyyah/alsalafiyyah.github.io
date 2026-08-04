@@ -1,23 +1,25 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "The fate of Ahl Al-Fatrah"
 hijri: Safar 24, 1442 AH
-source: "Fatawa Al-Lajnah Al-Da'imah no. 6397-5"
 lang: en
-note: true
-category: [ahl-fatrah]
-summary: "As for those whom Da'wah has not reached in an uncorrupted manner, they are left to the Will of Allah. The most authentic opinion of the scholars about them is that they are tested on the Day of Judgment; those who obey will enter Jannah, while those who disobey will enter Hellfire."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
   members:
-    - name: Shaykh Abdullah Ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdullah Ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah no. 6397-5
+summary: As for those whom Da'wah has not reached in an uncorrupted manner, they are
+  left to the Will of Allah. The most authentic opinion of the scholars about them
+  is that they are tested on the Day of Judgment; those who obey will enter Jannah,
+  while those who disobey will enter Hellfire.
+title: The fate of Ahl Al-Fatrah
 ---
 
 Question:

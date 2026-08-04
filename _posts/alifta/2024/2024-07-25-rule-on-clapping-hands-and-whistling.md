@@ -1,18 +1,18 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: Ruling on Clapping One's Hands and Whistling
-source: Fatawa Islamiyah, Vol. 8, Page 125
-hijri: Muharram 19, 1446 AH
 date: 2024-07-25
-locale: en
+hijri: Muharram 19, 1446 AH
 lang: en
-summary: This practice appears to be taken from non-Muslims; therefore, it is not an appropriate thing for a Muslim to do.
-category: [fatwas]
+layout: post
+mass_edited: true
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn 'Uthaymeen
-      url: /biography/uthaymeen
+  shaykh:
+  - name: Shaykh Ibn 'Uthaymeen
+    url: /biography/uthaymeen
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Islamiyah, Vol. 8, Page 125
+summary: This practice appears to be taken from non-Muslims; therefore, it is not
+  an appropriate thing for a Muslim to do.
+title: Ruling on Clapping One's Hands and Whistling
 ---
 
 ### Question:

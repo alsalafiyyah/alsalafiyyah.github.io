@@ -1,26 +1,27 @@
 ---
-layout: post
-title: "Ruling on having one temple for the three religions; Judaism, Christianity, and Islam"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 6364, Question15"
-category: [fatwas,walabara]
 hijri: Dhul-Hijjah 6, 1441
 lang: en
-locale: en
-note: true
-summary: "It is not permissible to have one place of worship that gathers the three religions. This is because this place will not be established on piety, but will be established on Shirk and worshipping people other than Allah."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 6364, Question15
+summary: It is not permissible to have one place of worship that gathers the three
+  religions. This is because this place will not be established on piety, but will
+  be established on Shirk and worshipping people other than Allah.
+title: Ruling on having one temple for the three religions; Judaism, Christianity,
+  and Islam
 ---
 
 ### Question: 

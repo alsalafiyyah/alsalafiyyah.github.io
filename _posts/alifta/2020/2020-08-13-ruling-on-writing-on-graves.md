@@ -1,3 +1,8 @@
+---
+lang: en
+mass_edited: true
+---
+
 ﻿---
 layout: post
 title: "Ruling on writing on graves"
@@ -19,5 +24,3 @@ It is not permissible to inscribe Qur'anic Ayahs or any thing else on graves. Li
 ---
 [^1]: Muslim, Sahih, Book on funerals, no. 970; Al-Tirmidhi, Sunan, Book on funerals, no. 1052; Al-Nasa'i, Sunan, Book on funerals, no. 2027; Abu Dawud, Sunan, Book on funerals, no. 3225; Ibn Majah, Sunan, Book on funerals, no. 1563; Book on remembrance of Allah, supplication, repentance and seeking forgiveness, 3, p. 339.
 [^2]: Al-Tirmidhi, Sunan, Book on funerals, no. 1052; Al-Nasa'i, Sunan, Book on funerals, no. 2027; and Ibn Majah, Sunan, Book on funerals, no. 1563.
-
-

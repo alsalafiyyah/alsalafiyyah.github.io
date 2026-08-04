@@ -1,24 +1,22 @@
 ---
-layout: post
-title: "Clothing for women during Salah"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 8708, Question 8"
-hijri: Muharram 9, 1442 AH
 date: 2020/08/28
-category: [fatwas, salah, women]
-note: true
-locale: en
+hijri: Muharram 9, 1442 AH
 lang: en
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 8708, Question 8
+title: Clothing for women during Salah
 ---
 
 ### Question: 

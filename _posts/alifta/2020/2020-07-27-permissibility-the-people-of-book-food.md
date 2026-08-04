@@ -1,26 +1,26 @@
 ---
-layout: post
-title: "Permissibility of the People of the Book's food"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 3262, Question 1"
-category: [fatwas,walabara]
 hijri: Dhul-Hijjah 6, 1441
 lang: en
-locale: en
-note: true
-summary: "It is permissible to eat from the food served by your Christian colleague, whether in his or another person's home, provided that the food itself is not prohibited or its status is unknown."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz Ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah Ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah Ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah Ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 3262, Question 1
+summary: It is permissible to eat from the food served by your Christian colleague,
+  whether in his or another person's home, provided that the food itself is not prohibited
+  or its status is unknown.
+title: Permissibility of the People of the Book's food
 ---
 
 ### Question: 

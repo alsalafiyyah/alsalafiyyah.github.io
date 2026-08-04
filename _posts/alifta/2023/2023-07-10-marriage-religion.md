@@ -1,29 +1,31 @@
 ---
-layout: post
-title: "Marriage is Half Your Religion"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da’imah 18/31, Fatwa no.18121"
 date: 2023-07-10
-hijri: "Dhul-Hijjah 22, 1444 AH"
-category: [marriage, hadiths]
-summary: "The Sunnah indicates that it is prescribed to get married, and that it is one of the Sunnahs of the Messengers."
-tags: [alifta]
+hijri: Dhul-Hijjah 22, 1444 AH
 lang: en
-translation: false
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Ibn Baz
-      url: /biography/baz/
+  chairman:
+  - name: Shaykh Ibn Baz
+    url: /biography/baz/
   deputy_chairman:
-    - name: Shaykh Abdul-Aziz Ibn Abdullah Aal Shaykh
-      url: /biography/abdulaziz/
+  - name: Shaykh Abdul-Aziz Ibn Abdullah Aal Shaykh
+    url: /biography/abdulaziz/
   members:
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  - name: Shaykh Abdullah Ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da’imah 18/31, Fatwa no.18121
+summary: The Sunnah indicates that it is prescribed to get married, and that it is
+  one of the Sunnahs of the Messengers.
+tags:
+- alifta
+title: Marriage is Half Your Religion
+translation: false
 ---
 
 The Sunnah indicates that it is prescribed to get married, and that it is one of the Sunnahs of the Messengers. By getting married a person can, with the help of Allah, overcome many of the traps of evil, for marriage helps him to lower his gaze and guard his chastity, as the Prophet ﷺ said in the hadith, **“O young men, whoever among you can afford it, let him get married, for it is more effective in lowering the gaze and guarding chastity…”** (Agreed upon). 
@@ -32,4 +34,4 @@ Al-Hakim narrated in Al-Mustadrak from Anas, in a marfu’ report: **“Whomever
 
 Al-Bayhaqi narrated in Shu’ab Al-Iman from Al-Raqashi: **“When a person gets married he has completed half of his religion, so let him fear Allah with regard to the other half.”**
 
-And Allah is the Source of strength. 
+And Allah is the Source of strength.

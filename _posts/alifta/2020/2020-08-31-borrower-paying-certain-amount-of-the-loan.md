@@ -1,22 +1,23 @@
 ---
-layout: post
-title: "Borrower paying a certain amount of the loan when delaying repayment"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 5832"
 hijri: Muharram 12, 1442 AH
 lang: en
-category: [transaction,loan,riba]
-summary: "Some companies issue cards with a set loan that the borrower can present at any bank and receive the specified loan amount on the card."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 5832
+summary: Some companies issue cards with a set loan that the borrower can present
+  at any bank and receive the specified loan amount on the card.
+title: Borrower paying a certain amount of the loan when delaying repayment
 ---
 
 Question:

@@ -1,28 +1,28 @@
 ---
-layout: post
-title: "Fleeing with religion from non-Muslim countries"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 19670"
 hijri: Muharram 14, 1442 AH
 lang: en
-locale: en
-note: true
-category: [fatwas,hijrah]
-summary: "My children can not read Arabic well as there is no Muslim in this city except me. I am very sad and depressed, and I cry copiously over my circumstances among this large majority of non Muslims."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Aziz Aal al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  - name: Shaykh Abdul-Aziz Aal al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 19670
+summary: My children can not read Arabic well as there is no Muslim in this city except
+  me. I am very sad and depressed, and I cry copiously over my circumstances among
+  this large majority of non Muslims.
+title: Fleeing with religion from non-Muslim countries
 ---
 
 ### Question:

@@ -1,20 +1,19 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: Is ruqyah performed by a Muslim to another permissible?
-date: 2024-07-23
-hijri: Muharram 17, 1446
-source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.7804, Question 3
-category: [fatwas,treatments]
-note: true
-group1: true
-locale: en
-lang: en
-summary: Ruqyah (reciting Qur'an and saying supplications over the sick seeking healing) is permissible to be done by one Muslim for another.
-article_taken_from: 
+article_taken_from:
   taken_from:
-    - web_title: رقية المسلم أخاه بقراءة القرآن عليه مشروعة 
-      web_url: https://al-fatawa.com/fatwa/112046
+  - web_title: رقية المسلم أخاه بقراءة القرآن عليه مشروعة
+    web_url: https://al-fatawa.com/fatwa/112046
+date: 2024-07-23
+group1: true
+hijri: Muharram 17, 1446
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.7804, Question 3
+summary: Ruqyah (reciting Qur'an and saying supplications over the sick seeking healing)
+  is permissible to be done by one Muslim for another.
+title: Is ruqyah performed by a Muslim to another permissible?
 ---
 
 ### Question: 

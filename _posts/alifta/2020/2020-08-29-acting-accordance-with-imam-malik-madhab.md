@@ -1,22 +1,22 @@
 ---
-layout: post
-title: "Ruling on acting in accordance with Imam Malik's School of Jurisprudence"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 2573"
 hijri: Muharram 10, 1442 AH
 lang: en
-category: [madhabs]
-lang: en
-summary: "People differ in preparedness, knowledge, reasoning, and background; some are intelligent and others are simple, some are well educated and others are illiterate."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah no. 2573
+summary: People differ in preparedness, knowledge, reasoning, and background; some
+  are intelligent and others are simple, some are well educated and others are illiterate.
+title: Ruling on acting in accordance with Imam Malik's School of Jurisprudence
 ---
 
 Question: 
@@ -37,4 +37,3 @@ Thus, Allah advises all to seek the evidence when problems arise. Allah also com
 As for unlettered and educated people who are not qualified to arrive at legal decisions through the evidence, they must ask the religious scholars who are knowledgeable in Shari'ah. Allah (Exalted be He) states: "**So ask the people of the Scripture, if you do not know.**" [al-Nahl: 43] This is a well-established tradition followed by people throughout generations. On the other hand, if some regard themselves as Mujtahids (a scholar qualified to exercise juristic effort to infer expert legal rulings), they should follow the path of Ijtihad, become versed in the sciences required for Ijtihad and train themselves on juristic examination and research. They should imitate the late scholars and make use of the wealth of information they left until Allah favors them with being able to infer the rulings from the proofs. Thus, they can employ Ijtihad in some issues.
 
 For more information on Ijtihad and Taqlid (strictly following a specific School of Jurisprudence), refer to the books written by the great scholar Ibn Al-Qayyim including his book entitled **A'lam Al-Muwaqi'een** and other relevant books.
-

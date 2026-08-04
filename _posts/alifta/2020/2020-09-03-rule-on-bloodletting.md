@@ -1,24 +1,25 @@
 ---
-layout: post
-title: "Ruling on bloodletting"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah"
-hijri: Muharram 15, 1442
-summary: "This process should be handled by an expert in bloodletting to determine the case properly and choose the right spot in the body to be treated in this way as well as the right time."
-lang: en
-locale: en
 date: 2020/09/3
-category: [treatments,fatwas]
+hijri: Muharram 15, 1442
+lang: en
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
+  - name: Shaykh Abdul-Razzaq Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah
+summary: This process should be handled by an expert in bloodletting to determine
+  the case properly and choose the right spot in the body to be treated in this way
+  as well as the right time.
+title: Ruling on bloodletting
 ---
 
 ### Question:

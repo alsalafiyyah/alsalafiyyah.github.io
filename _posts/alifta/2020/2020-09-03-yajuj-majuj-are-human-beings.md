@@ -1,23 +1,22 @@
 ---
-layout: post
-title: "The existence of Gog and Magog and attributing them to human beings"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 6951, Question 2"
-category: [fatwas,doomsday]
 hijri: Muharram 15, 1442 AH
 lang: en
-locale: en
-note: true
-summary: "They are human beings from the children of Adam, the father of mankind. They are living on this earth in the Furthest East."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 6951, Question 2
+summary: They are human beings from the children of Adam, the father of mankind. They
+  are living on this earth in the Furthest East.
+title: The existence of Gog and Magog and attributing them to human beings
 ---
 
 ### Question: 

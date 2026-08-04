@@ -1,22 +1,24 @@
 ---
-layout: post
-title: "The Hadith: 'Before the Last Hour there will be Fitnahs like pieces of a dark night'"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Daimah no. 10511-2"
 hijri: Muharram 12, 1442 AH
 lang: en
-category: ["tafsir", hadiths]
-summary: "I want to ask about a Hadith which reads as follows: Al-Hasan Al-Basri (may Allah be merciful to him)"
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Daimah no. 10511-2
+summary: 'I want to ask about a Hadith which reads as follows: Al-Hasan Al-Basri (may
+  Allah be merciful to him)'
+title: 'The Hadith: ''Before the Last Hour there will be Fitnahs like pieces of a
+  dark night'''
 ---
 
 Question:
@@ -40,5 +42,3 @@ The exit from Fitnahs is to resort to Allah (Exalted be He) and avoid all disput
 [^3]: Muslim, Sahih, Book on faith, no. 118; Al-Tirmidhi, Sunan, Book on trials, no. 2195; Ahmad, Musnad, vol. 2, p. 390.
 [^4]: Muslim, Sahih, Book on faith, no. 118; Al-Tirmidhi, Sunan, Book on trials, no. 2195; Ahmad, Musnad, vol. 2, p. 390.
 [^5]: Malik, vol. 2, p. 970; Ahmad, vol. 3, pp. 6, 30, 43, and 57; Al-Bukhari, vol. 1, p. 10, vol. 4, p. 97, vol. 7, p. 188, vol. 8, p. 94; Abu Dawud, vol. 4, pp. 461-462, no. 4267; Al-Nasa*y, vol. 8, p. 124, no. 5036; and Ibn Majah, vol. 2, p. 1317, no. 3980.
-
-

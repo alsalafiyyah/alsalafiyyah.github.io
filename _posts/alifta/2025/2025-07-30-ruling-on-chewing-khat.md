@@ -1,31 +1,33 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Ruling on chewing Khat"
 date: 2025-07-30
-hijri: "Safar 5, 1447 AH"
-source: "Fatawa Al-Lajnah Ad-Daimah, Question 3, Fatwa No. 16097"
-category: [drugs]
-summary: "Eating Khat is forbidden because it causes intoxication and it also distracts from the remembrance of Allah and from Salah."
-tags: [alifta]
+hijri: Safar 5, 1447 AH
 lang: en
-translation: false
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdul-Aziz Aal Ash-Shaykh
-      url: /biography/abdulaziz/
-    - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  - name: Shaykh Abdul-Razzaq Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdul-Aziz Aal Ash-Shaykh
+    url: /biography/abdulaziz/
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Daimah, Question 3, Fatwa No. 16097
+summary: Eating Khat is forbidden because it causes intoxication and it also distracts
+  from the remembrance of Allah and from Salah.
+tags:
+- alifta
+title: Ruling on chewing Khat
+translation: false
 ---
 
 ### Question

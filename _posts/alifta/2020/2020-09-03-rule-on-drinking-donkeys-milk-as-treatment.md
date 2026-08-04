@@ -1,15 +1,15 @@
 ---
-layout: post
-title: "Ruling on drinking donkey's milk as treatment"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 6838"
-hijri: Muharram 15, 1442
-summary: It is not permissible for a Muslim to seek treatment through drinking the milk of the domestic donkeys. 
-locale: en
-lang: en
 date: 2020/09/3
-category: [treatments,fatwas]
 group1: true
+hijri: Muharram 15, 1442
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 6838
+summary: It is not permissible for a Muslim to seek treatment through drinking the
+  milk of the domestic donkeys.
+title: Ruling on drinking donkey's milk as treatment
 ---
 
 ### Question:
@@ -18,4 +18,4 @@ Some people drink the milk of domestic donkeys. Whenever I inform them about its
 ### Answer:
 It is not permissible for a Muslim to seek treatment through drinking the milk of the domestic donkeys. 
 
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions. 
+May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.

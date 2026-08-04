@@ -1,15 +1,17 @@
 ---
-layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "The translation of the Qur’an by Muhammad Asad contains fatal errors and flagrant false beliefs"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 2190"
+date: 2020-08-27
+group1: true
 hijri: Muharram 8, 1442
 lang: en
-locale: en
-date: 2020-08-27
-category: [fatwas,refutals]
-summary: "The translation by Muhammad Asad contains fatal errors and flagrant false beliefs. As a result, the Constitutional Council of the Muslim World League in Makkah Al-Mukarramah issued a decree banning the print and publication of this translation."
-group1: true
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah no. 2190
+summary: The translation by Muhammad Asad contains fatal errors and flagrant false
+  beliefs. As a result, the Constitutional Council of the Muslim World League in Makkah
+  Al-Mukarramah issued a decree banning the print and publication of this translation.
+title: The translation of the Qur’an by Muhammad Asad contains fatal errors and flagrant
+  false beliefs
 ---
 
 ### Question:

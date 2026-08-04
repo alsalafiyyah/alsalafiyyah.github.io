@@ -1,20 +1,19 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: Enduring diseases
-date: 2024-07-08
-hijri: Muharram 02, 1446
-source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 11112, Question 2
-category: [fatwas]
-note: true
-group6: true
-locale: en
-lang: en
-summary: Illness and the like can also be a means of punishment or an expiation for those who show patience on affliction, and hope for Allah’s Reward.
-article_taken_from: 
+article_taken_from:
   taken_from:
-    - web_title: الصبر على المرض 
-      web_url: https://al-fatawa.com/fatwa/110968
+  - web_title: الصبر على المرض
+    web_url: https://al-fatawa.com/fatwa/110968
+date: 2024-07-08
+group6: true
+hijri: Muharram 02, 1446
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 11112, Question 2
+summary: Illness and the like can also be a means of punishment or an expiation for
+  those who show patience on affliction, and hope for Allah’s Reward.
+title: Enduring diseases
 ---
 
 ### Question: 
@@ -32,4 +31,3 @@ Also, adversities - such as illness, physical disability, and grief - are all me
 Abdullah ibn Mas'ud, (may Allah be pleased with him) narrated, **“I visited the Messenger of Allah ﷺ when he was suffering pain and fever. I touched him with my hand and said, ‘O Messenger of Allah! You are severely sick and feverish.’ The Messenger of Allah ﷺ said, ‘Yes, I ache as much as two men from you ache.” I said, ‘Is it because you get a double reward?’ The Messenger of Allah ﷺ said, ‘Yes, never a Muslim is afflicted with harm, because of illness or anything like it, but Allah will thereby let fall their sins as a tree letting fall its leaves.’”** (Related by Al-Bukhari and Muslim)
 
 Illness and the like can also be a means of punishment or an expiation for those who show patience on affliction, and hope for Allah’s Reward, according to the general meaning referred to by the previously mentioned texts and Allah’s Saying (Glorified be He): **"And whatever of misfortune befalls you, it is because of what your hands have earned. And He pardons much. (See the Qur’ân Verse 35:45)."** (ash-Shura' : 30).
-

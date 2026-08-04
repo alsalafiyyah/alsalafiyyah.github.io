@@ -1,20 +1,19 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: Ruling on carrying the wife of the deceased
-date: 2024-07-12
-hijri: Muharram 06, 1446
-source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 12256
-category: [fatwas,funerals,bidah]
-note: true
-group6: true
-locale: en
-lang: en
-summary: This practice is prohibited as it is considered an act of Bid`ah. Introducing innovations in religion is not permissible.
-article_taken_from: 
+article_taken_from:
   taken_from:
-    - web_title: حمل زوجة المتوفى والطواف بها على القبر
-      web_url: https://al-fatawa.com/fatwa/110530
+  - web_title: حمل زوجة المتوفى والطواف بها على القبر
+    web_url: https://al-fatawa.com/fatwa/110530
+date: 2024-07-12
+group6: true
+hijri: Muharram 06, 1446
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 12256
+summary: This practice is prohibited as it is considered an act of Bid`ah. Introducing
+  innovations in religion is not permissible.
+title: Ruling on carrying the wife of the deceased
 ---
 
 ### Question: 

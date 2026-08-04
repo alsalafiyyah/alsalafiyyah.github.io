@@ -1,27 +1,29 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Extent of obligatory knowledge"
+book: Jihad and Hisbah
+chapter: Knowledge
 hijri: Safar 27, 1442 AH
-source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 4138"
-book: "Jihad and Hisbah"
-chapter: "Knowledge"
 lang: en
-category: [jihad, dawah, knowledge]
-note: true
-summary: "It is obligatory on every Muslim to convey the knowledge they have, whether it is much or little to those who do not know it, without any limitations on time or the amount of knowledge. It is necessary for them to explain what they know and convey it, and this becomes obligatory if there is no one else who can do it."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah Ibn Qa'ud
-      url: /biography/qaud/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+  deputy_chairman:
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah Ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah Ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-lajnah Al-Da'imah of KSA no. 4138
+summary: It is obligatory on every Muslim to convey the knowledge they have, whether
+  it is much or little to those who do not know it, without any limitations on time
+  or the amount of knowledge. It is necessary for them to explain what they know and
+  convey it, and this becomes obligatory if there is no one else who can do it.
+title: Extent of obligatory knowledge
 ---
 
 Question : 

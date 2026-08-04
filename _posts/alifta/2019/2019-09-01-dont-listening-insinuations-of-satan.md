@@ -1,16 +1,20 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Do not listen to the insinuations of Satan"
 date: 2019-09-01
-hijri: "Muharram 02, 1441 AH"
-source: "Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 5935"
-category: [taharah, ablution]
-summary: "Sometimes I feel while I am washing my feet or directly or shortly after performing Wudu’ something coming out through the urethra in the form of drops. Then I look and I may find traces of one or more drops and I may find nothing at all."
-tags: [alifta]
-lang: en
-translation: false
 group1: true
+hijri: Muharram 02, 1441 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 5935
+summary: Sometimes I feel while I am washing my feet or directly or shortly after
+  performing Wudu’ something coming out through the urethra in the form of drops.
+  Then I look and I may find traces of one or more drops and I may find nothing at
+  all.
+tags:
+- alifta
+title: Do not listen to the insinuations of Satan
+translation: false
 ---
 
 ### Question: 

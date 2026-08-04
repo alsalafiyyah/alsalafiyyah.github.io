@@ -1,25 +1,24 @@
 ---
-layout: post
-title: "Ruling on treatment with sedatives and tranquilizers"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 7359, Questionn1"
-hijri: Muharram 15, 1442
-summary: It is not permissible to take medical treatment with the mentioned substances, or anything that is prohibited by Shariah.
-lang: en
-locale: en
-note: true
 date: 2020/09/3
-category: [treatments,fatwas]
+hijri: Muharram 15, 1442
+lang: en
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 7359, Questionn1
+summary: It is not permissible to take medical treatment with the mentioned substances,
+  or anything that is prohibited by Shariah.
+title: Ruling on treatment with sedatives and tranquilizers
 ---
 
 ### Question:

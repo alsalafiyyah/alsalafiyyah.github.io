@@ -1,24 +1,25 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Ruling on asking forgiveness for the disbelievers"
 hijri: Safar 24, 1442
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 10615 question 1"
 lang: en
-locale: en
-note: true
-category: [shirk]
-summary: "It is not (proper) for the Prophet and those who believe to ask Allâh’s Forgiveness for the Mushrikûn (polytheists, idolaters, pagans, disbelievers in the Oneness of Allâh), even though they be of kin, after it has become clear to them that they are the dwellers of the Fire (because they died in a state of disbelief)."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
   members:
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
+  - name: Shaykh Abdullah Ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah no. 10615 question 1
+summary: It is not (proper) for the Prophet and those who believe to ask Allâh’s Forgiveness
+  for the Mushrikûn (polytheists, idolaters, pagans, disbelievers in the Oneness of
+  Allâh), even though they be of kin, after it has become clear to them that they
+  are the dwellers of the Fire (because they died in a state of disbelief).
+title: Ruling on asking forgiveness for the disbelievers
 ---
 
 ### Question:

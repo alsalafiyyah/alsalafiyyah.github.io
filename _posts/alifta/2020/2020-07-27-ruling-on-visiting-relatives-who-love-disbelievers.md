@@ -1,27 +1,26 @@
 ---
-layout: post
-title: "Ruling on visiting relatives who love disbelievers"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 6541, Question 1"
-category: [fatwas, walabara]
-hijri: Dhul-Hijjah 6, 1441
 date: 2020-07-27
+hijri: Dhul-Hijjah 6, 1441
 lang: en
-locale: en
-note: true
-summary: "It is permissible to visit such relatives on condition that the person visiting them advises and instructs them to stop their love of disbelievers."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 6541, Question 1
+summary: It is permissible to visit such relatives on condition that the person visiting
+  them advises and instructs them to stop their love of disbelievers.
+title: Ruling on visiting relatives who love disbelievers
 ---
 
 ### Question: 

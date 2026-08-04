@@ -1,18 +1,19 @@
 ---
-layout: post
-title: "Obligation of repaying the deceased's debt before the inheritance"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 16225"
-hijri: Muharram 12, 1442 AH
 date: 2020/08/31
-category: [inheritance]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Salih Fawzan
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Bakr Abu Zayd
+hijri: Muharram 12, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+shaykhs:
+- Shaykh Abdul-Aziz ibn Baz
+- Shaykh Abdul-Razzaq al-Afify
+- Shaykh Abdullah ibn Ghudayyan
+- Shaykh Salih Fawzan
+- Shaykh Abdul-Aziz Aal al-Shaykh
+- Shaykh Bakr Abu Zayd
+source: Fatawa Al-Lajnah Ad-Da'imah no. 16225
+title: Obligation of repaying the deceased's debt before the inheritance
 ---
 
 Question:

@@ -1,3 +1,8 @@
+---
+lang: en
+mass_edited: true
+---
+
 ﻿---
 layout: post
 title: "Merit of Hajj"
@@ -32,7 +37,3 @@ Secondly, it is permissible to trade during the Hajj season, due to what Al-Taba
 [^2]: Al-Bukhari, Sahih, Book on Hajj, no. 1773; Muslim, Sahih, Book on Hajj, no. 1349; Al-Tirmidhy, Sunan, Book on Hajj, no. 933; Al-Nasa'i, Sunan, Book on Hajj rituals, no. 2622; Ibn Majah, Sunan, Book on rituals, no. 2888; Ahmad ibn Hanbal, Musnad, vol. 2, p. 246; Malik, Al-Muwatta, Book on Hajj, no. 776; and Al-Darimy, Sunan, Book on rituals, no. 1795.
 [^3]: Related by Ahmad, vol. 2, pp. 229, 359, 400, 414, 484, and 506; Muslim, vol. 1, p. 209, no. 233; and the wording is his; Al-Tirmidhy, vol. 1, p. 418, no. 214; Ibn Majah, vol. 1, pp. 196 and 345, nos. 598 and 1086; Ibn Khuzaymah, vol. 1, p. 162 and vol. 3, p. 158, nos. 314 and 1814; Ibn Hibban, vol. 5, p. 25 and vol. 6, p. 176, nos. 1733 and 2418; Al-Tabarany, vol. 4, p. 155, no. 3989; Al-Hakim, vol. 1, pp. 119 and 120 and vol. 4, p. 259, Abu `Awanah, vol. 2, p. 20; Al-Bayhaqy, vol. 2, pp. 466 and 467 and vol. 10, p. 187; and Al-Baghawy, vol. 2, p. 177, no. 345
 [^4]: Tafsir Ibn Jarir, vol. 4, p. 162, no. 3761, verified by Ahmad Shakir; and Ibn Abu Hatim, Al-Durr Al-Manthur, vol. 1, p. 222.
-
-
-
-

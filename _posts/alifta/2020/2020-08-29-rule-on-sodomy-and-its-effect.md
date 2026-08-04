@@ -1,25 +1,25 @@
 ---
-layout: post
-title: "Ruling on sodomy and the effect on illegitimate children"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 4324-2"
 hijri: Muharram 10, 1442 AH
 lang: en
-category: [homosexual,zina,hudud]
-note: true
-summary: "Sodomy is one of the major sins, whether it is committed with a boy or an adult, and whether it is with or without their consent."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah no. 4324-2
+summary: Sodomy is one of the major sins, whether it is committed with a boy or an
+  adult, and whether it is with or without their consent.
+title: Ruling on sodomy and the effect on illegitimate children
 ---
 
 Question: 

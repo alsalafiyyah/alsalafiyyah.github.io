@@ -1,21 +1,22 @@
 ---
-layout: post
-title: "Dealing with Christian neighbors"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 8691, Question 10"
-category: [walabara, non-muslim]
 hijri: Dhul-Hijjah 6, 1441
 lang: en
-summary: "It is permissible to treat Christian people who are at close proximity to you, neighbors or classmates, gently and help them do lawful things."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Abdul-Aziz bin Abdullah Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  chairman:
+  - name: Abdul-Aziz bin Abdullah Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 8691, Question 10
+summary: It is permissible to treat Christian people who are at close proximity to
+  you, neighbors or classmates, gently and help them do lawful things.
+title: Dealing with Christian neighbors
 ---
 
 ### Question: 

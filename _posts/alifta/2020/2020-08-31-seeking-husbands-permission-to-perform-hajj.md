@@ -1,13 +1,16 @@
 ---
-layout: post
-title: "Seeking husband's permission to perform obligatory Hajj"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 5659"
-hijri: "Muharram 12, 1442"
 date: 2020-08-31
-summary: "If your situation with your husband is as you described, you are obliged to travel with the said Mahrams, even if your husband does not give you the permission and provided that you have never performed the obligatory Hajj or Umrah before."
-category: [hajj,fatwas,marriage]
 group1: true
+hijri: Muharram 12, 1442
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah no. 5659
+summary: If your situation with your husband is as you described, you are obliged
+  to travel with the said Mahrams, even if your husband does not give you the permission
+  and provided that you have never performed the obligatory Hajj or Umrah before.
+title: Seeking husband's permission to perform obligatory Hajj
 ---
 
 ### Question:

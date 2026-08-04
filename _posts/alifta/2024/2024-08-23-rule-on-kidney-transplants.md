@@ -1,20 +1,19 @@
 ---
+date: 2024-08-23
+hijri: Safar 19, 1446 AH
+lang: en
 layout: post
+mass_edited: true
+muftis:
+  shaykh:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz/
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on Kidney Transplants"
-hijri: Safar 19, 1446 AH
-date: 2024-08-23
-source: "Fatawa Islamiyah 8/232"
-lang: en
-locale: en
-category: [fatwas,treatments]
-note: false
-summary: "If the doctors that specialize in that field decided that she would not be harmed by the removal of her kidney, there is nothing wrong with that."
-muftis:
-  shaykh: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz/
+source: Fatawa Islamiyah 8/232
+summary: If the doctors that specialize in that field decided that she would not be
+  harmed by the removal of her kidney, there is nothing wrong with that.
+title: Ruling on Kidney Transplants
 ---
 
 ### Question: 

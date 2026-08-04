@@ -1,21 +1,21 @@
 ---
-layout: post
-title: "Ruling on attending Buddhist ceremonies"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 6397"
-category: [fatwas,walabara,festivals]
 hijri: Dhul-Hijjah 6, 1441
-locale: en
 lang: en
-note: true
-summary: "It is not permissible to do any of the things mentioned. In fact, doing them is Haram, as it is sharing in their disbelief and helping them in what is not permissible in Islam."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Ibn Baz
-      url: /biography/binbaz/
-  members: 
-    - name: Shaykh Abdullah Ibn Qa'ud
-      url: /biography/qaud/
+  chairman:
+  - name: Shaykh Abdul-Aziz Ibn Baz
+    url: /biography/binbaz/
+  members:
+  - name: Shaykh Abdullah Ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA no. 6397
+summary: It is not permissible to do any of the things mentioned. In fact, doing them
+  is Haram, as it is sharing in their disbelief and helping them in what is not permissible
+  in Islam.
+title: Ruling on attending Buddhist ceremonies
 ---
 
 ### Question: 

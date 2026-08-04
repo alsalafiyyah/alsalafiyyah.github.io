@@ -1,28 +1,29 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: Tafsir Surah Aal Imran Ayat 6
 hijri: Muharram 26, 1442 AH
 lang: en
-locale: en
-published: true
-uid: tafsir-al-imran-ayat-6
-category: [quran]
-note: true
-source: "Fatwas of the Permanent Committee no. 1542-2"
-summary: "Allah is the All-Wise in His disposing of affairs, in His creation and in His legislation. This also refutes the allegations of the Christians who allege that Jesus is the son of Allah, because Allah is He who fashioned him in the womb of his mother Maryam."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+published: true
+publisher: alsalafiyyah@icloud.com
+source: Fatwas of the Permanent Committee no. 1542-2
+summary: Allah is the All-Wise in His disposing of affairs, in His creation and in
+  His legislation. This also refutes the allegations of the Christians who allege
+  that Jesus is the son of Allah, because Allah is He who fashioned him in the womb
+  of his mother Maryam.
+title: Tafsir Surah Aal Imran Ayat 6
+uid: tafsir-al-imran-ayat-6
 ---
 
 Question:
@@ -36,4 +37,3 @@ Answer:
 He also has the Perfect Wisdom in all that He legislates, creates, judges and predestines, as His creation of 'Isa (Jesus, peace be upon him) and His Will that his mother should conceive him without a father as a sign to mankind testifying to the absolute perfection of Allah’s Knowledge, Might and extensive Wisdom, just as He created Adam from dust and said unto him: "Be!" so he was according to what Allah willed. Therefore, these creatures have no right to be worshipped beside Allah, for worship is the exclusive Right of Allah, the Lord of the worlds, Who has no partner. There is no deity but He, the Omnipotent, Who cannot be defeated and nothing whatsoever escapes Him. He is the All-Wise in His disposing of affairs, in His creation and in His legislation. 
 
 This also refutes the allegations of the Christians who allege that 'Isa is the son of Allah, because Allah is He who fashioned him in the womb of his mother Maryam. Therefore, how can he be Allah’s son or a deity with him! Glorified and High is Allah above the great falsehood that they say!
-

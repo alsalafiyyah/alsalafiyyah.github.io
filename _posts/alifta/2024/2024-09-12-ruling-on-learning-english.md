@@ -1,15 +1,14 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Is learning English haram?"
-hijri: "Rabiul Awwal 09, 1446"
-lang: en
-locale: en
 date: 2024-09-12
-category: [fatwas]
-note: true
-summary: "If there is a religious or worldly need for learning the English language or other foreign languages, there is no harm in learning it."
 group1: true
+hijri: Rabiul Awwal 09, 1446
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+summary: If there is a religious or worldly need for learning the English language
+  or other foreign languages, there is no harm in learning it.
+title: Is learning English haram?
 ---
 
 ### Question: 
@@ -27,4 +26,4 @@ Is it Haram (prohibited) or Halal (lawful) to learn and study foreign languages,
 It is permissible to learn languages other than the Arabic language for the purpose of Da'wah (calling to Islam), which might bring benefit or repel harm. It might also be Wajib (obligatory) according to the different circumstances, times, places, people and intentions. [^2]
 
 [^1]: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no.4967‏, Question 3
-[^2]: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no.8864‏, Question 6 
+[^2]: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no.8864‏, Question 6

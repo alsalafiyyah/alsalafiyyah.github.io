@@ -1,27 +1,27 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Dealing with Sufi shaykhs and their followers"
-hijri: "Muharram 27, 1442"
+hijri: Muharram 27, 1442
 lang: en
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 16696, Question 2"
-summary: "What do you advise us concerning dealing with Sufi shaykhs and their followers?"
-category: [sects]
-tags: [alifta]
-translation: false
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  members: 
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+  members:
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 16696, Question 2
+summary: What do you advise us concerning dealing with Sufi shaykhs and their followers?
+tags:
+- alifta
+title: Dealing with Sufi shaykhs and their followers
+translation: false
 ---
-
 
 ### Question:
 

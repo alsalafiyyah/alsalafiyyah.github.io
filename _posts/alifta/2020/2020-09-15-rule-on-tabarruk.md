@@ -1,17 +1,15 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Ruling on Tabarruk from the Messenger ﷺ after his death"
+group2: true
 hijri: Muharram 27, 1442 AH
 lang: en
-locale: en
-note: true
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 17056"
-category: [fatwas,tawassul,tabarruk]
-summary: "Tabarruk, this is not permissible after his death, as these things ended with his death and can no longer be obtained."
-group2: true
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 17056
+summary: Tabarruk, this is not permissible after his death, as these things ended
+  with his death and can no longer be obtained.
+title: Ruling on Tabarruk from the Messenger ﷺ after his death
 ---
-
 
 ### Question:
 

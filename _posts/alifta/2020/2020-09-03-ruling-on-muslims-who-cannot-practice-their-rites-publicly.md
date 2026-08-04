@@ -1,25 +1,27 @@
 ---
-layout: post
-title: "Ruling on Muslims who cannot practice their rites publicly"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 2922, Question 13"
 hijri: Muharram 14, 1442 AH
-category: [fatwas,hijrah]
 lang: en
-locale: en
-summary: "It is impermissible to reside in a country where the Muslims are prevented from performing the Islamic rituals. If possible, the person should migrate to another country where Muslims are a majority and where they can perform the Islamic rituals overtly and find the means to cooperate with Muslims in righteousness and piety."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 2922, Question 13
+summary: It is impermissible to reside in a country where the Muslims are prevented
+  from performing the Islamic rituals. If possible, the person should migrate to another
+  country where Muslims are a majority and where they can perform the Islamic rituals
+  overtly and find the means to cooperate with Muslims in righteousness and piety.
+title: Ruling on Muslims who cannot practice their rites publicly
 ---
 
 ### Question:

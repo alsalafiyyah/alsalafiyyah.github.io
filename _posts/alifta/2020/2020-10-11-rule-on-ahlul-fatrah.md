@@ -1,25 +1,29 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Ruling on Ahl Al-Fatrah"
 hijri: Safar 24, 1442 AH
-source: "Fatawa Al-Lajnah Al-Da'imah no. 6465"
 lang: en
-note: true
-category: [ahl-fatrah, prophets]
-summary: "Those who refused to embrace Islam after its message was conveyed to them, whether in the period before or during the time of the Prophet (peace be upon him) are treated as Kafirs (disbelievers). As for those whom the message of Islam has not reached, they will be held to account on the Day of Resurrection. This view is supported by authentic Hadiths narrated from the Messenger of Allah (peace be upon him)"
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah Ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah Ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah no. 6465
+summary: Those who refused to embrace Islam after its message was conveyed to them,
+  whether in the period before or during the time of the Prophet (peace be upon him)
+  are treated as Kafirs (disbelievers). As for those whom the message of Islam has
+  not reached, they will be held to account on the Day of Resurrection. This view
+  is supported by authentic Hadiths narrated from the Messenger of Allah (peace be
+  upon him)
+title: Ruling on Ahl Al-Fatrah
 ---
 
 Question:

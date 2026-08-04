@@ -1,19 +1,18 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Ruling on placing a wreath on a grave"
-hijri: "Safar 29, 1446"
-source: "Fatawa Islamiyah 1/29"
-lang: en
-locale: en
 date: 2024-09-02
-category: [fatwas,funerals,bidah]
-note: false
-summary: "This practice is a bidah, and excess in terms of revering the dead, and it is similar to the practice of those who over-rever pious people."
+hijri: Safar 29, 1446
+lang: en
+layout: post
+mass_edited: true
 muftis:
-  shaykh: 
-    - name: "Permanent Committee"
-      url: "/biography/alifta/"
+  shaykh:
+  - name: Permanent Committee
+    url: /biography/alifta/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Islamiyah 1/29
+summary: This practice is a bidah, and excess in terms of revering the dead, and it
+  is similar to the practice of those who over-rever pious people.
+title: Ruling on placing a wreath on a grave
 ---
 
 ### Question:

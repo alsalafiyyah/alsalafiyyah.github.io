@@ -1,16 +1,15 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: The name of Abraham's father
-source: "Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 4804, Question 6"
-hijri: Muharram 7, 1442
 date: 2020/08/26
 group1: true
-note: true
-locale: en
+hijri: Muharram 7, 1442
 lang: en
-category: [prophets,fatwas]
-summary: Azar is a Persian name of the father of Abraham, peace be upon him, according to the most authentic scholars' opinions. 
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 4804, Question 6
+summary: Azar is a Persian name of the father of Abraham, peace be upon him, according
+  to the most authentic scholars' opinions.
+title: The name of Abraham's father
 ---
 
 ### Question:

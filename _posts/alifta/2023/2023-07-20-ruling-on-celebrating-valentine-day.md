@@ -1,25 +1,27 @@
 ---
-layout: post
-title: "Ruling on Celebrating Valentine’s Day"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da’imah 2/262-264, Fatwa no. 21203"
-hijri: "Muharram 02, 1445 AH"
-category: [bidah, festivals]
-tags: [alifta]
-translation: false
+hijri: Muharram 02, 1445 AH
 lang: en
-summary: "The Muslim must adhere to the Qur'an and Sunnah in all his affairs, especially at times of fitan (temptation and tribulation) and when corruption is widespread."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
+  chairman:
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
   members:
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/  
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da’imah 2/262-264, Fatwa no. 21203
+summary: The Muslim must adhere to the Qur'an and Sunnah in all his affairs, especially
+  at times of fitan (temptation and tribulation) and when corruption is widespread.
+tags:
+- alifta
+title: Ruling on Celebrating Valentine’s Day
+translation: false
 ---
 
 ##### Question: 
@@ -40,4 +42,4 @@ Valentine’s Day comes under this heading because it is an idolatrous Christian
 
 It is also haram for the Muslim to help with this festival or any other haram celebration in any way, be it food, drink, buying, selling, manufacturing, corresponding, advertising or in any other way, because all of that constitutes helping one another in sin, transgression and disobedience towards Allah and His Messenger, and Allah says: **“Help you one another in Al‑Birr and At‑Taqwa (virtue, righteousness and piety); but do not help one another in sin and transgression. And fear Allah. Verily, Allah is Severe in punishment”** [Al-Ma’idah 5:2]  
 
-So the Muslim must adhere to the Qur'an and Sunnah in all his affairs, especially at times of fitan (temptation and tribulation) and when corruption is widespread. He should be smart and be careful to avoid falling into the misguidance of those who have earned the anger of Allah and of those who went astray, and of the evildoers who hope not for reward from Allah and do not show any respect towards Islam. The Muslim should seek refuge with Allah and ask for His guidance and for help to adhere steadfastly to it, because none can guide except Allah and none can make us remain steadfast except Him. And Allah is the Source of strength. 
+So the Muslim must adhere to the Qur'an and Sunnah in all his affairs, especially at times of fitan (temptation and tribulation) and when corruption is widespread. He should be smart and be careful to avoid falling into the misguidance of those who have earned the anger of Allah and of those who went astray, and of the evildoers who hope not for reward from Allah and do not show any respect towards Islam. The Muslim should seek refuge with Allah and ask for His guidance and for help to adhere steadfastly to it, because none can guide except Allah and none can make us remain steadfast except Him. And Allah is the Source of strength.

@@ -1,23 +1,24 @@
 ---
-layout: post
-title: "Hadith: 'Fear Allah and fear those who fear Him'"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 14160-2"
-hijri: Muharram 11, 1442 AH
 date: 2020/08/30
+hijri: Muharram 11, 1442 AH
 lang: en
-category: ["tafsir", hadiths, mawdu-daif]
-summary: "It is said that the Messenger of Allah (peace be upon him) said: 'Fear Allah, and fear those who fear Him.' Is this a Sahih (authentic) Hadith?"
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah no. 14160-2
+summary: 'It is said that the Messenger of Allah (peace be upon him) said: ''Fear
+  Allah, and fear those who fear Him.'' Is this a Sahih (authentic) Hadith?'
+title: 'Hadith: ''Fear Allah and fear those who fear Him'''
 ---
 
 Question: 

@@ -1,3 +1,8 @@
+---
+lang: en
+mass_edited: true
+---
+
 ﻿---
 layout: post
 title: "Ruling on Adhan after burying the dead in the grave"

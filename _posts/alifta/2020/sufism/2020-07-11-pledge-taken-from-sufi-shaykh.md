@@ -1,15 +1,19 @@
 ---
-layout: post
-title: "The Ruling on pledge taken from a Sufi Shaykh"
-publisher: "alsalafiyyah@icloud.com"
-category: ["sects", sufism]
-tags: [alifta]
-source: "Fatwas of the Permanent Committee of KSA, Fatwa no.16098, Question 2"
-hijri: "Dhul-Qa'dah 20, 1441"
-translation: false
-lang: en
-summary: "It is not permissible to make a pledge of allegiance to anyone except to a Muslim ruler. It is not permissible to make it to the shaykh of a Sufi order or any other person, for this has not been authentically reported from the Prophet (peace be upon him)."
 group7: true
+hijri: Dhul-Qa'dah 20, 1441
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatwas of the Permanent Committee of KSA, Fatwa no.16098, Question 2
+summary: It is not permissible to make a pledge of allegiance to anyone except to
+  a Muslim ruler. It is not permissible to make it to the shaykh of a Sufi order or
+  any other person, for this has not been authentically reported from the Prophet
+  (peace be upon him).
+tags:
+- alifta
+title: The Ruling on pledge taken from a Sufi Shaykh
+translation: false
 ---
 
 ### Question: 

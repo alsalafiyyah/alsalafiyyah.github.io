@@ -1,26 +1,25 @@
 ---
-layout: post
-title: "Ruling on Muslims entering non-Muslim places of worship"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 6876, Question 2"
-category: [fatwas,walabara]
 hijri: Dhul-Hijjah 6, 1441
 lang: en
-locale: en
-note: true
-summary: "A Muslim is not allowed to enter the places of worship of disbelievers as this leads to increasing their number."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 6876, Question 2
+summary: A Muslim is not allowed to enter the places of worship of disbelievers as
+  this leads to increasing their number.
+title: Ruling on Muslims entering non-Muslim places of worship
 ---
 
 ### Question: 

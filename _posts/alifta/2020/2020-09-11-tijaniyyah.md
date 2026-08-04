@@ -1,18 +1,20 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "The Ruling on Tijaniyyah Sufi Order"
-hijri: "Muharram 22, 1442"
+hijri: Muharram 22, 1442
 lang: en
-tags: [ibn-baz]
-translation: false
-category: [sects]
-source: "Majallat al-Buhuth, issue no. 39, pg. 145-148"
-summary: "Tijaniyyah is an innovated Tariqah and Muslims are not permitted to follow innovated Tariqahs, whether the Tijaniyyah or any other."
+layout: post
+mass_edited: true
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz/
+publisher: alsalafiyyah@icloud.com
+source: Majallat al-Buhuth, issue no. 39, pg. 145-148
+summary: Tijaniyyah is an innovated Tariqah and Muslims are not permitted to follow
+  innovated Tariqahs, whether the Tijaniyyah or any other.
+tags:
+- ibn-baz
+title: The Ruling on Tijaniyyah Sufi Order
+translation: false
 ---
 
 ### Question:

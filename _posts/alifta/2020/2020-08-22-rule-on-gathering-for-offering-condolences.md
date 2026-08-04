@@ -1,15 +1,17 @@
 ---
-layout: post
-title: "Ruling on gathering for offering condolences"
-publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
-source: "Fatawa Al-Lajnah Ad-Daimah no. 14705"
-hijri: Muharram 3, 1442
-summary: A person is rewarded when offering condolences because he or she is soothing the pain and sorrow of the bereaved family and through supplicating for them.
-category: [funerals, fatwas]
 date: 2020/08/22
-shaykhs: 
- - Shaykh Abdul-Aziz Bin Baz
- - Shaykh Abdul-Razzaq al-Afifi
+hijri: Muharram 3, 1442
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com, salafiyyah@outlook.sa
+shaykhs:
+- Shaykh Abdul-Aziz Bin Baz
+- Shaykh Abdul-Razzaq al-Afifi
+source: Fatawa Al-Lajnah Ad-Daimah no. 14705
+summary: A person is rewarded when offering condolences because he or she is soothing
+  the pain and sorrow of the bereaved family and through supplicating for them.
+title: Ruling on gathering for offering condolences
 ---
 
 ### Question: 
@@ -33,4 +35,3 @@ We identify it as a Bid`ah when a place or time is specified for this purpose an
 ---
 [^1]: Al-Bukhari, Sahih, Book on funerals, no. 1284; Muslim, Sahih, Book on funerals, no. 923; Al-Nasa'i, Sunan, Book on funerals, no. 1868; Ibn Majah, Sunan, Book on funerals, no. 1588.
 [^2]: Muslim, Sahih, Book on funerals, no. 918; Abu Dawud, Sunan, Book on funerals, no. 3119; Ahmad, Musnad, vol. 6, p. 309; and Malik, Al-Muwatta, Book on funerals no. 558.
-

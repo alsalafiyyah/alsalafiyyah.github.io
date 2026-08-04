@@ -1,19 +1,21 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Refutation upon the followers of bid'ah and deviation"
 date: 2024-07-28
 hijri: Muharram 22, 1446
-source: "Ar-Riyadus-Sa’udiyyah Newspaper, issue no. 12674, dated Friday, the 4th of al-Muharram"
-category: [fatwas,refutals,manhaj,sects]
-locale: en
 lang: en
-summary: "The refutations upon the people of innovation are from Jihad in the path of Allah. They are from safeguarding the Shari’ah from having other than it attached to it."
-translated_by: Maaz Qureshi
+layout: post
+mass_edited: true
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz Aal al-Shaykh
-      url: /biography/abdulaziz
+  shaykh:
+  - name: Shaykh Abdul-Aziz Aal al-Shaykh
+    url: /biography/abdulaziz
+publisher: alsalafiyyah@icloud.com
+source: Ar-Riyadus-Sa’udiyyah Newspaper, issue no. 12674, dated Friday, the 4th of
+  al-Muharram
+summary: The refutations upon the people of innovation are from Jihad in the path
+  of Allah. They are from safeguarding the Shari’ah from having other than it attached
+  to it.
+title: Refutation upon the followers of bid'ah and deviation
+translated_by: Maaz Qureshi
 ---
 
 ### Question:

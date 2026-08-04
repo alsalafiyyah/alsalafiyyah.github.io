@@ -1,31 +1,30 @@
 ---
-layout: post
-title: "Ruling on celebrating holidays of Non-Muslims"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Daimah, Fatwa no. 16419, Question 1"
-category: [walabara, mawlids, festivals]
 hijri: Dhul-Hijjah 6, 1441
-locale: en
 lang: en
-note: true
-uid: ruling-on-celebrating-kafirs-holidays
-summary: "What is the ruling on Muslims who celebrate holidays of non-Muslims that Allah did not sanction, such as the Mother's Day, Sham Al-Nasim and Christmas?"
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Daimah, Fatwa no. 16419, Question 1
+summary: What is the ruling on Muslims who celebrate holidays of non-Muslims that
+  Allah did not sanction, such as the Mother's Day, Sham Al-Nasim and Christmas?
+title: Ruling on celebrating holidays of Non-Muslims
+uid: ruling-on-celebrating-kafirs-holidays
 ---
 
 ### Question: 

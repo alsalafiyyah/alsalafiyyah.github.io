@@ -1,15 +1,18 @@
 ---
-layout: post
-title: "The difference between Sunnis and Shi'ah"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 8852, Question 1"
-category: [sects]
-tags: [alifta]
-hijri: "Dhul-Hijjah 7, 1441"
-lang: en
-translation: false
-summary: "The differences between Ahl-us-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream) and the Shiites are major regarding Tawhid (Oneness of Allah), Prophecy, Imamah (leadership or governance) and more."
 group1: true
+hijri: Dhul-Hijjah 7, 1441
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 8852, Question 1
+summary: The differences between Ahl-us-Sunnah wal-Jama'ah (adherents to the Sunnah
+  and the Muslim mainstream) and the Shiites are major regarding Tawhid (Oneness of
+  Allah), Prophecy, Imamah (leadership or governance) and more.
+tags:
+- alifta
+title: The difference between Sunnis and Shi'ah
+translation: false
 ---
 
 ### Question: 

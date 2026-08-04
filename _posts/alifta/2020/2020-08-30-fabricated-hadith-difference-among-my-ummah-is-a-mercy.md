@@ -1,17 +1,18 @@
 ---
-layout: post
-title: "Fabricated Hadith: 'Difference among my Ummah is a mercy'"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 16113"
-hijri: Muharram 11, 1442 AH
 date: 2020/08/30
-category: [tafsir, hadiths, mawdu-daif]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Salih Fawzan
- - Shaykh Bakr Abu Zayd
+hijri: Muharram 11, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+shaykhs:
+- Shaykh Abdul-Aziz ibn Baz
+- Shaykh Abdul-Aziz Aal al-Shaykh
+- Shaykh Abdullah ibn Ghudayyan
+- Shaykh Salih Fawzan
+- Shaykh Bakr Abu Zayd
+source: Fatawa Al-Lajnah Ad-Da'imah no. 16113
+title: 'Fabricated Hadith: ''Difference among my Ummah is a mercy'''
 ---
 
 Question: 
@@ -27,4 +28,3 @@ In his book (Al-Jami' Al-Saghir), Al-Suyuti (may Allah be merciful to him) could
 Consequently, it is not permissible to ascribe this saying to the Prophet (peace be upon him) nor mention it as religious proof. Anyone who ascribes it to the Prophet (peace be upon him) should be notified of this. The difference among scholars on religious issues should be supported by evidence from the Qur'an and Sunnah (whatever is reported from the Prophet) because in them there is mercy, guidance and light. A mistaken scholar is rewarded once and a correct scholar is rewarded twice.
 
 May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
-

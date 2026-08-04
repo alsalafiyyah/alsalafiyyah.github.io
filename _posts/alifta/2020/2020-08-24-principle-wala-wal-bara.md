@@ -1,18 +1,20 @@
 ---
-layout: post
-title: "The principle of Al-Wala' wal-Bara'"
-publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat 5/243, question no. 5. Meeting with His Eminence in His office at the General Presidency on 28/10/1410 A.H"
 hijri: Muharram 5, 1442
 lang: en
-locale: en
-note: false
-category: [fatwas,walabara]
-summary: "Al-Wala' wal-Bara' is to love and be loyal to the believers and to hate the disbelievers and their faith. Hostility and hatred to them do not mean that you are entitled to oppress or transgress against disbelievers, so long as they do not fight you."
+layout: post
+mass_edited: true
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz Ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz Ibn Baz
+    url: /biography/binbaz/
+publisher: alsalafiyyah@icloud.com
+source: Majmu' Fatawa wa Maqalat 5/243, question no. 5. Meeting with His Eminence
+  in His office at the General Presidency on 28/10/1410 A.H
+summary: Al-Wala' wal-Bara' is to love and be loyal to the believers and to hate the
+  disbelievers and their faith. Hostility and hatred to them do not mean that you
+  are entitled to oppress or transgress against disbelievers, so long as they do not
+  fight you.
+title: The principle of Al-Wala' wal-Bara'
 ---
 
 ### Question: 
@@ -33,5 +35,4 @@ Allah states, "**Invite (mankind, O Muhammad صلى الله عليه و سلم)
 
 It is permissible for you to call them to Allah and to instruct and guide them to the truth; perhaps Allah may guide them to the straight path through you. Furthermore, there is no wrong in giving them Sadaqah (voluntary charity) and dealing with them in kindness, as Allah (Glorified and Exalted be He) states, "**Allâh does not forbid you to deal justly and kindly with those who fought not against you on account of religion nor drove you out of your homes. Verily, Allâh loves those who deal with equity.**" [al-Mumtahanah: 8]
 
-It was authentically reported in the Two Sahih (authentic) Books of Hadith (i.e. Al-Bukhari and Muslim) that the Prophet (peace be upon him) ordered Asma' bint Abu Bakr (may Allah be pleased with her) to maintain good ties with her disbelieving mother during the truce between the Prophet (peace be upon him) and the people of Makkah in the year of Al-Hudaybiyah. 
-
+It was authentically reported in the Two Sahih (authentic) Books of Hadith (i.e. Al-Bukhari and Muslim) that the Prophet (peace be upon him) ordered Asma' bint Abu Bakr (may Allah be pleased with her) to maintain good ties with her disbelieving mother during the truce between the Prophet (peace be upon him) and the people of Makkah in the year of Al-Hudaybiyah.

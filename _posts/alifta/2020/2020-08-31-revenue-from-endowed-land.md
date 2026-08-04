@@ -1,24 +1,23 @@
 ---
-layout: post
-title: "Revenue from endowed land"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 148"
-hijri: Muharram 12, 1442
 date: 2020-08-31
-category: [fatwas, waqf]
-note: true
+hijri: Muharram 12, 1442
 lang: en
-locale: en
-summary: "Are the payments for having permission to hire Waqf or endowment included in its revenue or a part of the Waqf itself?"
+layout: post
+mass_edited: true
 muftis:
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Mani'
-      url: /biography/mani/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Mani'
+    url: /biography/mani/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 148
+summary: Are the payments for having permission to hire Waqf or endowment included
+  in its revenue or a part of the Waqf itself?
+title: Revenue from endowed land
 ---
 
 ### Question: 

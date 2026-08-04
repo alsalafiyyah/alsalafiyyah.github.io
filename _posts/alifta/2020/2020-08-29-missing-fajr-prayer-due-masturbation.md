@@ -1,18 +1,19 @@
 ---
-layout: post
-title: "Ruling on missing the Fajr prayer due to practicing masturbation"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 16540"
-hijri: Muharram 10, 1442 AH
 date: 2020/08/29
-category: [masturbation, salah]
-shaykhs: 
- - Shaykh Abdul-'Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Salih Fawzan
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Bakr Abu Zayd
+hijri: Muharram 10, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+shaykhs:
+- Shaykh Abdul-'Aziz ibn Baz
+- Shaykh Abdul-Razzaq al-Afify
+- Shaykh Abdullah ibn Ghudayyan
+- Shaykh Salih Fawzan
+- Shaykh Abdul-Aziz Aal al-Shaykh
+- Shaykh Bakr Abu Zayd
+source: Fatawa Al-Lajnah Ad-Da'imah no. 16540
+title: Ruling on missing the Fajr prayer due to practicing masturbation
 ---
 
 Question: 

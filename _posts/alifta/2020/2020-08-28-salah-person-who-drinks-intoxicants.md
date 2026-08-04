@@ -1,25 +1,25 @@
 ---
-layout: post
-title: "Salah of a person who drinks intoxicants"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 11293, Question 2"
-hijri: Muharram 9, 1442
 date: 2020/08/28
-category: [fatwas,salah]
-note: true
-locale: en
+hijri: Muharram 9, 1442
 lang: en
-summary: "If a person offers Salah with all its obligatory acts and fulfills its conditions, it is considered valid. They will be rewarded for it, and they will be sinful for drinking Khamr."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
+  - name: Shaykh Abdul-Razzaq Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 11293, Question 2
+summary: If a person offers Salah with all its obligatory acts and fulfills its conditions,
+  it is considered valid. They will be rewarded for it, and they will be sinful for
+  drinking Khamr.
+title: Salah of a person who drinks intoxicants
 ---
 
 ### Question: 

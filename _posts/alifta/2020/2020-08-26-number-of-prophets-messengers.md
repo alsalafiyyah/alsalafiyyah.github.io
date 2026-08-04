@@ -1,16 +1,15 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: Number of prophets and messengers
-source: Fatawa Al-Lajnah Ad-Daimah no. 5611, Question 10
-hijri: Muharram 7, 1442
 date: 2020/08/26
-category: [prophets,fatwas]
-note: true
 group1: true
-locale: en
+hijri: Muharram 7, 1442
 lang: en
-summary: No one knows their number except Allah. Those who are known are those who are mentioned in the Qur'an or authentically reported in the Sunnah.
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Daimah no. 5611, Question 10
+summary: No one knows their number except Allah. Those who are known are those who
+  are mentioned in the Qur'an or authentically reported in the Sunnah.
+title: Number of prophets and messengers
 ---
 
 ### Question:

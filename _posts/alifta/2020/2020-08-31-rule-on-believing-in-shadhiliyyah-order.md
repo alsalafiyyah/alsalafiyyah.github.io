@@ -1,15 +1,18 @@
 ---
-layout: post
-title: "Ruling on believing in Shadhiliyyah Sufi order"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 2986"
-hijri: "Muharram 12, 1442"
-lang: en
-tags: [alifta]
-translation: false
-category: [sects]
-summary: "You should follow the way of truthful believers who believe in what Allah has revealed and His Messenger (peace be upon him) has explained, and act upon the Book of Allah and the Sunnah of His Messenger (peace be upon him)."
 group1: true
+hijri: Muharram 12, 1442
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah no. 2986
+summary: You should follow the way of truthful believers who believe in what Allah
+  has revealed and His Messenger (peace be upon him) has explained, and act upon the
+  Book of Allah and the Sunnah of His Messenger (peace be upon him).
+tags:
+- alifta
+title: Ruling on believing in Shadhiliyyah Sufi order
+translation: false
 ---
 
 ### Question: 

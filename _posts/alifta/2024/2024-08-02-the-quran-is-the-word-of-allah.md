@@ -1,19 +1,21 @@
 ---
+date: 2024-08-02
+group15: true
+hijri: Muharram 27, 1446 AH
+lang: en
 layout: post
+link: https://al-fatawa.com/fatwa/104228
+mass_edited: true
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "The Quran is the Words of Allah and not created"
-hijri: "Muharram 27, 1446 AH"
-date: 2024-08-02
-source: "Fatawa al-Lajnah ad-Da'imah, Fatwa no. 19022, Question 1"
-category: [sects]
-tags: [alifta]
+source: Fatawa al-Lajnah ad-Da'imah, Fatwa no. 19022, Question 1
+summary: The difference between the two statements is that claiming that the Qur'an
+  is created is a statement of disbelief that takes the Muslim out of Islam.
+tags:
+- alifta
+title: The Quran is the Words of Allah and not created
 translation: false
-lang: en
-summary: "The difference between the two statements is that claiming that the Qur'an is created is a statement of disbelief that takes the Muslim out of Islam."
-link: "https://al-fatawa.com/fatwa/104228"
-group15: true
---- 
+---
 
 ### Question: 
 
@@ -33,4 +35,4 @@ Sufyan Al-Thawry (may Allah be merciful to him) said: **"Whoever claims that the
 
 Similarly, Imam Malik, Ibn 'Uyaynah, Yahya ibn Ma'in and others maintain that such a person is a Kafir.
 
-As for those who say that one's articulation of the Qur'an is created, it is an ambiguous statement that should be examined. If they mean the voice, it will be accepted; however, if they mean the words uttered, i.e. the Qur'an, it is falsehood. This is the doctrine of Al-Jahmiyyah and Al-Mu'tazilah. So, one must refrain from this general expression and be precise in order to avoid falling into what the heretics have fallen into. 
+As for those who say that one's articulation of the Qur'an is created, it is an ambiguous statement that should be examined. If they mean the voice, it will be accepted; however, if they mean the words uttered, i.e. the Qur'an, it is falsehood. This is the doctrine of Al-Jahmiyyah and Al-Mu'tazilah. So, one must refrain from this general expression and be precise in order to avoid falling into what the heretics have fallen into.

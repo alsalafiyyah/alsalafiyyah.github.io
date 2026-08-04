@@ -1,26 +1,27 @@
 ---
-layout: post
-title: "Ruling on those contradicts decisive texts from the Qur'an and authentic Hadith"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 6833"
-category: [fatwas,walabara]
 hijri: Dhul-Hijjah 5, 1441
 lang: en
+layout: post
 loacle: en
-note: true
-summary: "It is unlawful to support or ally oneself with him. It is the duty of the people qualified to advise and instruct others to admonish and guide him to the truth and establish against him the Evidence from Allah."
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 6833
+summary: It is unlawful to support or ally oneself with him. It is the duty of the
+  people qualified to advise and instruct others to admonish and guide him to the
+  truth and establish against him the Evidence from Allah.
+title: Ruling on those contradicts decisive texts from the Qur'an and authentic Hadith
 ---
 
 ### Question: 

@@ -1,29 +1,30 @@
 ---
-layout: post
-title: "There is many a reciter of the Qur'an whom the Qur'an curses"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 16131"
-hijri: Muharram 11, 1442 AH
 date: 2020/08/30
+hijri: Muharram 11, 1442 AH
 lang: en
-category: ["tafsir", hadiths]
-summary: I would like Your Eminence to explain the meaning of this honorable Hadith, as I conversed with a Muslim brother regarding it.
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Aziz Aal al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Abdul-Razzaq al-Afify
-      url: /biography/afifi/
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  - name: Shaykh Abdul-Aziz Aal al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Abdul-Razzaq al-Afify
+    url: /biography/afifi/
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah no. 16131
+summary: I would like Your Eminence to explain the meaning of this honorable Hadith,
+  as I conversed with a Muslim brother regarding it.
+title: There is many a reciter of the Qur'an whom the Qur'an curses
 ---
 
 Question: 

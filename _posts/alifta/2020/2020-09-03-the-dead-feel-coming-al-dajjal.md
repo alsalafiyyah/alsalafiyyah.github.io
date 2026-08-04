@@ -1,26 +1,25 @@
 ---
-layout: post
-title: "Will the dead feel the coming of Al-Dajjal?"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 8097, Question 9"
-category: [fatwas,doomsday]
 hijri: Muharram 15, 1442 AH
 lang: en
-locale: en
-note: true
-summary: "Al-Masih-ul-Dajjal will appear to those living only. Dead people will not be resurrected except on the Day of Judgment."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 8097, Question 9
+summary: Al-Masih-ul-Dajjal will appear to those living only. Dead people will not
+  be resurrected except on the Day of Judgment.
+title: Will the dead feel the coming of Al-Dajjal?
 ---
 
 ### Question: 

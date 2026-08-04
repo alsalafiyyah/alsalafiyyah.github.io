@@ -1,15 +1,19 @@
 ---
-layout: post
-title: "No obedience in matters involving disobedience to Allah"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 3552 Question 8"
-hijri: "Muharram 12, 1442 AH"
-category: [rulership]
-tags: [alifta]
-lang: en
-translation: false
-summary: "A believer should abandon such sins, and follow the Book of Allah and the Sunnah of His Messenger (peace be upon him). This is an established fact. They should neither obey the ruler nor anyone else in what leads to the disobedience of Allah (Glorified and Exalted be He)."
 group1: true
+hijri: Muharram 12, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 3552 Question 8
+summary: A believer should abandon such sins, and follow the Book of Allah and the
+  Sunnah of His Messenger (peace be upon him). This is an established fact. They should
+  neither obey the ruler nor anyone else in what leads to the disobedience of Allah
+  (Glorified and Exalted be He).
+tags:
+- alifta
+title: No obedience in matters involving disobedience to Allah
+translation: false
 ---
 
 ### Question: 

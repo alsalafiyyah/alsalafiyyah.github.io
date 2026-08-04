@@ -1,15 +1,16 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Shaykh Muhammad Ibn Abd al-Wahhab’s Lifelong Adherence to the Sunnah"
-source: "Fatawa Al-Lajnah Ad-Da'imah 2/254-255, Fatwa no. 6477, Question 3"
-hijri: "Dhul-Hijjah 20, 1441"
 date: 2020-08-10
-lang: en
 group1: true
-link: "https://fatawapedia.com/%D8%AD%D9%83%D9%85-%D9%85%D8%A7-%D9%8A%D9%82%D8%A7%D9%84-%D9%85%D9%86-%D8%A7%D9%86%D8%AD%D8%B1%D8%A7%D9%81-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%88%D9%87%D8%A7%D8%A8-%D9%81%D9%8A-%D8%A2%D8%AE%D8%B1-%D8%AD%D9%8A%D8%A7%D8%AA%D9%87-12772"
-category: [fatwas,wahhabism,manhaj]
-summary: "Shaykh Muhammad ibn Abd al-Wahhab—may Allah have mercy on him—is among the greatest callers to Salafiyyah, the sound creed, and the upright methodology"
+hijri: Dhul-Hijjah 20, 1441
+lang: en
+layout: post
+link: https://fatawapedia.com/%D8%AD%D9%83%D9%85-%D9%85%D8%A7-%D9%8A%D9%82%D8%A7%D9%84-%D9%85%D9%86-%D8%A7%D9%86%D8%AD%D8%B1%D8%A7%D9%81-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%88%D9%87%D8%A7%D8%A8-%D9%81%D9%8A-%D8%A2%D8%AE%D8%B1-%D8%AD%D9%8A%D8%A7%D8%AA%D9%87-12772
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah 2/254-255, Fatwa no. 6477, Question 3
+summary: Shaykh Muhammad ibn Abd al-Wahhab—may Allah have mercy on him—is among the
+  greatest callers to Salafiyyah, the sound creed, and the upright methodology
+title: Shaykh Muhammad Ibn Abd al-Wahhab’s Lifelong Adherence to the Sunnah
 ---
 
 ### Question:

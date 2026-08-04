@@ -1,15 +1,16 @@
 ---
-layout: post
-title: "Hajj performed by a person who committed an act of Kufr"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 836 Question 3"
-hijri: Muharram 12, 1442
 date: 2020/08/31
-category: [fatwas,hajj]
-shaykhs: 
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Mani'
+hijri: Muharram 12, 1442
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+shaykhs:
+- Shaykh Abdul-Razzaq al-Afify
+- Shaykh Abdullah ibn Ghudayyan
+- Shaykh Abdullah ibn Mani'
+source: Fatawa Al-Lajnah Ad-Da'imah no. 836 Question 3
+title: Hajj performed by a person who committed an act of Kufr
 ---
 
 ### Question:
@@ -31,4 +32,3 @@ May Allah grant us success. May peace and blessings be upon our Prophet Muhammad
 [^1]: Al-Bukhari, Sahih, Book on faith, no. 8; Muslim, Sahih, Book on faith, no. 16; Al-Tirmidhy, Sunan, Book on faith, no. 2609; Al-Nasa*y, Sunan, Book on faith and its laws, no. 5001; and Ahmad ibn Hanbal, Musnad, vol. 2, p. 93.
 [^2]: Al-Tirmidhy, Sunan, Book on faith, no. 2621; Al-Nasa*y, Sunan, Book on Salah, no. 463; Ibn Majah, Sunan, Book on performing Prayer and its Sunan, no. 1079; and Ahmad, Musnad, vol. 5, no. 346.
 [^3]: Ahmad, vol. 1, p. 200 and vol. 3, p. 153; Al-Tirmidhy, vol. 4, p. 668, no. 2518; Al-Nasa'i, vol. 8, pp. 327 and 328, no. 5711; Al-Darimy, vol. 2, p. 245; 'Abdul-Razzaq, vol. 4, p. 117, no. 4984; Ibn Khuzaymah, vol. 4, p. 59, no. 2348; Ibn Hibban, vol. 2, p. 498, no. 722; Abu Ya`la, vol. 12, p. 132, no. 6762; Al-Hakim, vol. 2, p. 13 and vol. 4, p. 99; Al-Tabarany, Al-Kabir, vol. 3, pp. 75 and 76, nos. 2708 and 2711, and Al-Saghir, vol. 1, p. 102; Al-Tayalisy, p. 163, no. 1178; Al-Bayhaqy, vol. 5, p. 335; and Al-Baghawy, Sharh Al-Sunnah, vol. 8, pp. 16 and 17, no. 2032.
-

@@ -1,22 +1,25 @@
 ---
+article_taken_from:
+  taken_from:
+  - web_title: انتخاب من يعتنق الفكر الشيوعي أو يسخر بالدين
+    web_url: https://al-fatawa.com/fatwa/106117
+date: 2024-08-05
+group1: true
+hijri: Safar 01, 1446 AH
+lang: en
 layout: post
+mass_edited: true
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "It is impermissible for a Muslim to elect a communist"
-hijri: "Safar 01, 1446 AH"
-date: 2024-08-05
-source: "Fatawa al-Lajnah ad-Da'imah, Fatwa no. 3105, Question 1"
-category: [rulership,sects]
-tags: [alifta]
-lang: en
+source: Fatawa al-Lajnah ad-Da'imah, Fatwa no. 3105, Question 1
+summary: It is impermissible for a Muslim to elect a communist, a person who mocks
+  religion or one whose loyalty is to nationality, not religion, to represent them
+  in municipal councils.
+tags:
+- alifta
+title: It is impermissible for a Muslim to elect a communist
 translation: false
-summary: "It is impermissible for a Muslim to elect a communist, a person who mocks religion or one whose loyalty is to nationality, not religion, to represent them in municipal councils."
-group1: true
-article_taken_from: 
-  taken_from:
-    - web_title: انتخاب من يعتنق الفكر الشيوعي أو يسخر بالدين 
-      web_url: https://al-fatawa.com/fatwa/106117
---- 
+---
 
 ### Question: 
 

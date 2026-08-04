@@ -1,16 +1,14 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: The Jews killing prophets
-source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 1883, Question 3
-hijri: Muharram 7, 1442
 date: 2020/08/26
-note: true
 group1: true
-locale: en
+hijri: Muharram 7, 1442
 lang: en
-category: [prophets,fatwas]
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 1883, Question 3
 summary: Allah explicitly states in the Qur'an that the Jews killed the prophets unjustly.
+title: The Jews killing prophets
 ---
 
 ### Question:

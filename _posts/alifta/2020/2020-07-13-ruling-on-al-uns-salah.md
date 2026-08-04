@@ -1,15 +1,17 @@
 ---
-layout: post
-title: "Ruling on Al-Uns Salah"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatwas of the Permanent Committee of KSA, Fatwa no.16128, Question 1"
-hijri: "Dhul-Qa'dah 22, 1441"
-lang: en
-tags: [alifta]
-category: [bidah, funerals]
-translation: false
-summary: "Al-Uns Salah is one of the innovated Salah. It is an impermissible Bid'ah because acts of worship are based on divine texts."
 group19: true
+hijri: Dhul-Qa'dah 22, 1441
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatwas of the Permanent Committee of KSA, Fatwa no.16128, Question 1
+summary: Al-Uns Salah is one of the innovated Salah. It is an impermissible Bid'ah
+  because acts of worship are based on divine texts.
+tags:
+- alifta
+title: Ruling on Al-Uns Salah
+translation: false
 ---
 
 ### Question: 

@@ -1,16 +1,16 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Ruling on replacing stoning the adulterer to death with a sword or gun"
-hijri: "Rabiul Awwal 10, 1446"
-lang: en
-locale: en
 date: 2024-09-13
-category: [fatwas,hudud]
-note: true
-source: "Fatawa al-Lajnah ad-Da'imah, Fatwa no.19657‏"
-summary: "It is impermissible to replace stoning to death with killing by sword or shooting with a gun, because stoning to death is more deterring and preventive from committing Zina, which is the gravest crime after Shirk and killing."
 group2: true
+hijri: Rabiul Awwal 10, 1446
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.19657‏
+summary: It is impermissible to replace stoning to death with killing by sword or
+  shooting with a gun, because stoning to death is more deterring and preventive from
+  committing Zina, which is the gravest crime after Shirk and killing.
+title: Ruling on replacing stoning the adulterer to death with a sword or gun
 ---
 
 ### Question: 

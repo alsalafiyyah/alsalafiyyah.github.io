@@ -1,15 +1,15 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "It is the duty of every Muslim to study his religion"
-hijri: "Rabiul Awwal 09, 1446"
-lang: en
-locale: en
 date: 2024-09-12
-category: [fatwas]
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 6575‏, Question 2"
-summary: "The Muslim has to learn such fundamental knowledge even if this requires traveling to another land if there is no one to teach him."
 group1: true
+hijri: Rabiul Awwal 09, 1446
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 6575‏, Question 2
+summary: The Muslim has to learn such fundamental knowledge even if this requires
+  traveling to another land if there is no one to teach him.
+title: It is the duty of every Muslim to study his religion
 ---
 
 ### Question: 

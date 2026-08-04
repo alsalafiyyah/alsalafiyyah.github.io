@@ -1,3 +1,8 @@
+---
+lang: en
+mass_edited: true
+---
+
 ﻿---
 layout: post
 title: "Ruling on claiming that Maryam (Mary) the daughter of 'Imran got married after giving birth to Isa (Jesus, peace be upon him)"

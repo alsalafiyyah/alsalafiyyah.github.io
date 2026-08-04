@@ -1,27 +1,26 @@
 ---
-layout: post
-title: "Professing committing Zina"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 6477, Question 4"
-hijri: Muharram 10, 1442
 date: 2020-08-29
-locale: en
+hijri: Muharram 10, 1442
 lang: en
-note: true
-category: [fatwas, zina]
-summary: "In our school, some students talk publicly about adultery and admit to having committed it. What should I do in this case? Am I considered sinful?"
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 6477, Question 4
+summary: In our school, some students talk publicly about adultery and admit to having
+  committed it. What should I do in this case? Am I considered sinful?
+title: Professing committing Zina
 ---
 
 ### Question: 
@@ -37,4 +36,3 @@ This also leads to spreading sin and corruption among the Mu'minun (believers), 
 ---
 
 [^1]: Narrated on the authority of Abu Hurayrah (may Allah be pleased with him) by Al-Bukhari, vol. 7, p. 89; and Muslim, vol. 4, p. 2291, no. 2990. Narrated on the authority of Abu Qatadah Al-Ansari (may Allah be pleased with him) by Al-Tabarani, Al-Awsat, vol. 5, pp. 251 and 252, no. 4495, verified: Al-Tahan, and Al-Saghir, vol. 1, p. 277; and Abu Nu'aym, Akhbar Asbahan, vol. 2, pp. 64 and 65.
-

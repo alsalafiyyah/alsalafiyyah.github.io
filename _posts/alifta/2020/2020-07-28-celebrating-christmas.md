@@ -1,26 +1,27 @@
 ---
-layout: post
-title: "Impermissibility for Muslims to celebrating the millennium or other occasions of Non-Muslims"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 21040"
-category: [fatwas,walabara, mawlids,festivals]
-hijri: Dhul-Hijjah 7, 1441
 date: 2020-07-28
+hijri: Dhul-Hijjah 7, 1441
 lang: en
-locale: en
-note: true
-summary: "It is not permissible for Muslims who believe in Allah and the Last Day to express their interest in celebrating the millennium and other occasions related to the Christians or other non-Muslims"
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  chairman:
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 21040
+summary: It is not permissible for Muslims who believe in Allah and the Last Day to
+  express their interest in celebrating the millennium and other occasions related
+  to the Christians or other non-Muslims
+title: Impermissibility for Muslims to celebrating the millennium or other occasions
+  of Non-Muslims
 ---
 
 ### Question: 
@@ -41,4 +42,3 @@ Muslims must not follow their false beliefs, imitate their behavior and style of
 
 ---
 [^1]: Abu Dawud [Book on clothing] no. 4031.
-

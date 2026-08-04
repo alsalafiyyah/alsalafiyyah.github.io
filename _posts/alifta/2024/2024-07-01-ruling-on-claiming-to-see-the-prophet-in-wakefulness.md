@@ -1,20 +1,21 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Ruling on one who claims that he saw the Prophet ﷺ in a state of wakefulness"
-date: 2024-07-01
-hijri: "Dhul-Hijjah 25, 1445"
-source: "Fatawa Al-Lajnah Ad-Da'imah 2/19, Fatwa no. 12713, Question 1"
-category: [prophets,sects]
-tags: [alifta]
-lang: en
-translation: false
-summary: "Claiming to see, while awake, the Prophet after his death is a false claim."
-article_taken_from: 
+article_taken_from:
   taken_from:
-    - web_title: رؤية الله في الدنيا
-      web_url: https://al-fatawa.com/fatwa/105848
+  - web_title: رؤية الله في الدنيا
+    web_url: https://al-fatawa.com/fatwa/105848
+date: 2024-07-01
 group6: true
+hijri: Dhul-Hijjah 25, 1445
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah 2/19, Fatwa no. 12713, Question 1
+summary: Claiming to see, while awake, the Prophet after his death is a false claim.
+tags:
+- alifta
+title: Ruling on one who claims that he saw the Prophet ﷺ in a state of wakefulness
+translation: false
 ---
 
 ### Question :

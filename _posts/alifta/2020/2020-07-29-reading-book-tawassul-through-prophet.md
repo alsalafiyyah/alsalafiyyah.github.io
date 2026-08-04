@@ -1,16 +1,16 @@
 ---
-layout: post
-title: "Ruling on reading a book that includes Tawassul through the Prophet and asking for his intercession"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 8879"
-category: [fatwas,tawassul]
-hijri: Dhul-Hijjah 8, 1441
 date: 2020/07/29
 group1: true
-note: true
-locale: en
+hijri: Dhul-Hijjah 8, 1441
 lang: en
-summary: "What is the ruling on reading the book entitled Dala’il Al-Khayrat by Imam Muhammad ibn Sulayman Al-Jazuly which contains daily Awrad (oft-recited invocations)"
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 8879
+summary: What is the ruling on reading the book entitled Dala’il Al-Khayrat by Imam
+  Muhammad ibn Sulayman Al-Jazuly which contains daily Awrad (oft-recited invocations)
+title: Ruling on reading a book that includes Tawassul through the Prophet and asking
+  for his intercession
 ---
 
 ### Question: 

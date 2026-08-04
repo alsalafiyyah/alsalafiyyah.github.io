@@ -1,16 +1,16 @@
 ---
-layout: post
-title: "Ruling on someone committing some misdeeds such as trailing the garment, shaving the beard, backbiting and tale-bearing"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 6632, Question 1"
-hijri: Muharram 14, 1442 AH
 date: 2020/09/3
-category: [hisbah]
 group1: true
-locale: en
+hijri: Muharram 14, 1442 AH
 lang: en
-note: true
-summary: "This person is regarded as a disobedient Muslim who should be advised and instructed so that perhaps Allah will show him true guidance."
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 6632, Question 1
+summary: This person is regarded as a disobedient Muslim who should be advised and
+  instructed so that perhaps Allah will show him true guidance.
+title: Ruling on someone committing some misdeeds such as trailing the garment, shaving
+  the beard, backbiting and tale-bearing
 ---
 
 ### Question:

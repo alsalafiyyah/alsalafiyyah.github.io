@@ -1,16 +1,17 @@
 ---
-layout: post
-title: "Sufi orders, litanies, and Adhkar"
-publisher: "alsalafiyyah@icloud.com"
-category: ["sects", sufism]
-tags: [alifta]
-source: "Fatwas of the Permanent Committee of KSA, Fatwa no. 7140"
-hijri: "Dhul-Qa'dah 12, 1441"
-lang: en
-translation: false
-summary: "The Sufi orders and the litanies are considered acts of Bid'ah (innovation in religion) like the famous religious orders of Al-Tijaniyyah and Al-Kattaniyyah. "
-translation: false
 group1: true
+hijri: Dhul-Qa'dah 12, 1441
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatwas of the Permanent Committee of KSA, Fatwa no. 7140
+summary: 'The Sufi orders and the litanies are considered acts of Bid''ah (innovation
+  in religion) like the famous religious orders of Al-Tijaniyyah and Al-Kattaniyyah. '
+tags:
+- alifta
+title: Sufi orders, litanies, and Adhkar
+translation: false
 ---
 
 ### Question:
@@ -25,4 +26,3 @@ As to the false claim that some people entered upon Al-Kattany and saw the Proph
 
 [^1]: Refer to Chapter on Al-Tariqah Al-Tijaniyyah, p. 315
 [^2]: Musnad Imam Ahmad, vol. 1, pp. 281, 282, 295, and 296, vol. 2, pp. 264 and 540, and vol. 3, pp. 2, 10, 11, 33, 144, and 145; Imam Muslim no. 2278; Abu Dawud [Al-Sunan] no. 4673; Al-Tirmidhi no. 3693.
-

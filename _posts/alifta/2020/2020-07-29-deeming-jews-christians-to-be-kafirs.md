@@ -1,15 +1,17 @@
 ---
-layout: post
-title: "Rule on Deeming Jews and Christians to be disbelievers"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 6505, Question 14"
-category: [non-muslim]
-hijri: "Dhul-Hijjah 8, 1441 AH"
-summary: "What is the ruling of Islam on the Jews and the Christians, for example, to whom the message of Prophet Muhammad (peace be upon him) has been conveyed."
-lang: en
-translation: false
-tags: [alifta]
 group1: true
+hijri: Dhul-Hijjah 8, 1441 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 6505, Question 14
+summary: What is the ruling of Islam on the Jews and the Christians, for example,
+  to whom the message of Prophet Muhammad (peace be upon him) has been conveyed.
+tags:
+- alifta
+title: Rule on Deeming Jews and Christians to be disbelievers
+translation: false
 ---
 
 ### Question: 
@@ -21,4 +23,3 @@ What is the ruling of Islam on the Jews and the Christians, for example, to whom
 They are deemed to be Kafirs (disbelievers) and should be treated as such regarding the rulings in this world and the Hereafter. It will be of no avail for them to adhere to their religions with their Kufr (disbelief) in the Revelation that was sent to our Prophet Muhammad (peace be upon him).
 
 May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
-

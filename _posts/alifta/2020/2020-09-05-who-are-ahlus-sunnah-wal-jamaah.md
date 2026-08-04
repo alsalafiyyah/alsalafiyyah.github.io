@@ -1,18 +1,20 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: Who are Ahl Al-Sunnah wal Jama‘ah
-source: Fatawa al-Lajnah ad-Daimah no. 4143, Question 2
-hijri: Muharram 17, 1442
-date: 2020-09-05
-lang: en
-group1: true
-summary: Ahl Al-Sunnah wal Jama‘ah are the Muslims who follow the very same way which Prophet Muhammad ibn Abdullah (peace and blessings be upon him) and his Companions followed.
-category: [fatwas,manhaj,sects]
-article_taken_from: 
+article_taken_from:
   taken_from:
-    - web_title: من هم أهل السنة والجماعة
-      web_url: https://al-fatawa.com/fatwa/112703
+  - web_title: من هم أهل السنة والجماعة
+    web_url: https://al-fatawa.com/fatwa/112703
+date: 2020-09-05
+group1: true
+hijri: Muharram 17, 1442
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa al-Lajnah ad-Daimah no. 4143, Question 2
+summary: Ahl Al-Sunnah wal Jama‘ah are the Muslims who follow the very same way which
+  Prophet Muhammad ibn Abdullah (peace and blessings be upon him) and his Companions
+  followed.
+title: Who are Ahl Al-Sunnah wal Jama‘ah
 ---
 
 ### Question:

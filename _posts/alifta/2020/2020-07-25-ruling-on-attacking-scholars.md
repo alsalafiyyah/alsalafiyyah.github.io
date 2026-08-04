@@ -1,27 +1,28 @@
 ---
-layout: post
-title: "Ruling on attacking scholars"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 16873"
-category: [fitnahs,manhaj]
 hijri: Dhul-Hijjah 4, 1441 AH
 lang: en
-note: true
-summary: "Abusing scholars unjustly and ascribing them to innovations and Fisq (flagrant violation of Islamic law) or belittling their status and degrading their opinions are of the most grievous kinds of injustice"
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+  deputy_chairman:
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Abdullah Ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah no. 16873
+summary: Abusing scholars unjustly and ascribing them to innovations and Fisq (flagrant
+  violation of Islamic law) or belittling their status and degrading their opinions
+  are of the most grievous kinds of injustice
+title: Ruling on attacking scholars
 ---
 
 ### Question: 

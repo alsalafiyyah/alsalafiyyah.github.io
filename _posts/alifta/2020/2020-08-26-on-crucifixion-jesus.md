@@ -1,16 +1,15 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com, salafiyyah@outlook.sa
-title: On the Jews and Christians concerning the crucifixion of Jesus
-source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 1883, Question 4
-hijri: Muharram 7, 1442
 date: 2020/08/26
 group1: true
-note: true
-locale: en
+hijri: Muharram 7, 1442
 lang: en
-category: [prophets,fatwas]
-summary: Whoever claims that Jesus was crucified or killed is a Kafir as he will be opposing the explicit texts of the Qur'an.
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com, salafiyyah@outlook.sa
+source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 1883, Question 4
+summary: Whoever claims that Jesus was crucified or killed is a Kafir as he will be
+  opposing the explicit texts of the Qur'an.
+title: On the Jews and Christians concerning the crucifixion of Jesus
 ---
 
 ### Question:

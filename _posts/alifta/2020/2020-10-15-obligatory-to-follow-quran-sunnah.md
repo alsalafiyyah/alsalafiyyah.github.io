@@ -1,25 +1,25 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "It is obligatory on Muslims to follow the Qur'an and Sunnah"
 hijri: Safar 28, 1442 AH
-source: "Fatawa Al-lajnah Al-Da'imah no. 2872-3"
 lang: en
-category: [madhabs]
-note: true
-summary: "The basic rule states that it is incumbent upon every Muslim to follow the Book of Allah and the Sunnah of His Messenger (peace be upon him)."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-lajnah Al-Da'imah no. 2872-3
+summary: The basic rule states that it is incumbent upon every Muslim to follow the
+  Book of Allah and the Sunnah of His Messenger (peace be upon him).
+title: It is obligatory on Muslims to follow the Qur'an and Sunnah
 ---
 
 ### Question:

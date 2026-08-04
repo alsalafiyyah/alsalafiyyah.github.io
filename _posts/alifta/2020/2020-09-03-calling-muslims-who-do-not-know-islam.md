@@ -1,16 +1,16 @@
 ---
-layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "Calling Muslims who do not know Islam"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no.17941, Question 6"
-hijri: Muharram 14, 1442
 date: 2020-09-03
-category: [fatwas,dawah]
 group2: true
-locale: en
+hijri: Muharram 14, 1442
 lang: en
-note: true
-summary: "They should be called to Islam with wisdom and fair preaching and be argued with in a way that is best. You must adopt all possible means and use the language they understand."
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no.17941, Question 6
+summary: They should be called to Islam with wisdom and fair preaching and be argued
+  with in a way that is best. You must adopt all possible means and use the language
+  they understand.
+title: Calling Muslims who do not know Islam
 ---
 
 ### Question:

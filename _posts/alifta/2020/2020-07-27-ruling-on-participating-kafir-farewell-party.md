@@ -1,31 +1,31 @@
 ---
-layout: post
-title: "Ruling on Muslim participating and paying in a farewell party for a non-Muslim"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 16439"
-category: [fatwas,walabara]
-hijri: Dhul-Hijjah 6, 1441 AH
 date: 2020-07-27
+hijri: Dhul-Hijjah 6, 1441 AH
 lang: en
-locale: en
-note: true
-summary: "Muslims' participation with non-Muslims in collecting a sum of money to hold a party to see off non-Muslims is a kind of respect and honor to them which is not permissible for a Muslim to do or even take part in."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  chairman:
+  - name: Shaykh Abdul-Aziz Ibn Baz
+    url: /biography/binbaz/
+  deputy_chairman:
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 16439
+summary: Muslims' participation with non-Muslims in collecting a sum of money to hold
+  a party to see off non-Muslims is a kind of respect and honor to them which is not
+  permissible for a Muslim to do or even take part in.
+title: Ruling on Muslim participating and paying in a farewell party for a non-Muslim
 ---
 
 ### Question: 

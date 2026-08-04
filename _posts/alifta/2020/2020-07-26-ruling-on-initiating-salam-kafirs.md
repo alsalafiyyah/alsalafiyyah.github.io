@@ -1,21 +1,20 @@
 ---
-layout: post
-title: "Ruling on initiating Salam with non-Muslims"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 12087, Question 30"
-category: [fatwas, walabara]
 hijri: Dhul-Hijjah 5, 1441
 lang: en
-note: true
-locale: en
-summary: "It is not permissible to greet a disbeliever first even if they occupy high positions, because of the general prohibition mentioned in the Hadith"
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 12087, Question 30
+summary: It is not permissible to greet a disbeliever first even if they occupy high
+  positions, because of the general prohibition mentioned in the Hadith
+title: Ruling on initiating Salam with non-Muslims
 ---
 
 ### Question: 

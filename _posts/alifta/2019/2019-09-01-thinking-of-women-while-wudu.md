@@ -1,25 +1,28 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Thinking of women while performing ablution"
 date: 2019-09-01
-hijri: "Muharram 02, 1441 AH"
-source: "Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 10368"
-category: [taharah, ablution]
-summary: "Sometimes, while performing Wudu’ (ablution) many thoughts cross the mind which are irrelevant to Salah (Prayer) or Wudu’, such as men thinking about women while performing Wudu’."
-tags: [alifta]
+hijri: Muharram 02, 1441 AH
 lang: en
-translation: false
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+  deputy_chairman:
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah Ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 10368
+summary: Sometimes, while performing Wudu’ (ablution) many thoughts cross the mind
+  which are irrelevant to Salah (Prayer) or Wudu’, such as men thinking about women
+  while performing Wudu’.
+tags:
+- alifta
+title: Thinking of women while performing ablution
+translation: false
 ---
 
 ### Question : 
@@ -29,4 +32,3 @@ Sometimes, while performing Wudu’ (ablution) many thoughts cross the mind whic
 ### Answer: 
 
 Thinking about conjugal relations has no impact on the validity of Wudu’ as long as there is no emission of Maniy (spermatic fluid) or Madhy (thin white viscid fluid secreted when having sexual thoughts or desire). Mere thinking is not one of the annulments of Wudu’.
-

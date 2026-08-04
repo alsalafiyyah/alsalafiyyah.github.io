@@ -1,15 +1,15 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "What is the ruling on selling dogs?"
-hijri: "Rabiul Awwal 20, 1446"
-lang: en
-locale: en
 date: 2024-09-23
-category: [fatwas,animals]
-source: "Fatawa al-Lajnah ad-Da'imah 13/36, Fatwa no.6554"
-summary: "It is not permissible to sell dogs, and their price is not lawful, whether they are guard dogs, hunting dogs or any other kind."
 group1: true
+hijri: Rabiul Awwal 20, 1446
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa al-Lajnah ad-Da'imah 13/36, Fatwa no.6554
+summary: It is not permissible to sell dogs, and their price is not lawful, whether
+  they are guard dogs, hunting dogs or any other kind.
+title: What is the ruling on selling dogs?
 ---
 
 ### Question: 

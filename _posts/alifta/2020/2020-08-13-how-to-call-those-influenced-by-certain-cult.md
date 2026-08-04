@@ -1,19 +1,19 @@
 ---
-layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "How to call those who are influenced by certain cultures to Islam"
-source: "Majmu' Fatawa wa Maqalat 4/226, question 12"
-hijri: Dhul-Hijjah 23, 1441 AH
 date: 2020/08/13
-note: false
-category: [fatwas,dawah]
-locale: en
+hijri: Dhul-Hijjah 23, 1441 AH
 lang: en
-summary: "The caller to Islam must explain to them the defects and bid'ahs in the schools which they have been influenced by, the orders which they have been affiliated to, and the milieus where they live."
+layout: post
+mass_edited: true
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz
+  shaykh:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz
+publisher: alsalafiyyah@icloud.com
+source: Majmu' Fatawa wa Maqalat 4/226, question 12
+summary: The caller to Islam must explain to them the defects and bid'ahs in the schools
+  which they have been influenced by, the orders which they have been affiliated to,
+  and the milieus where they live.
+title: How to call those who are influenced by certain cultures to Islam
 ---
 
 ### Question:

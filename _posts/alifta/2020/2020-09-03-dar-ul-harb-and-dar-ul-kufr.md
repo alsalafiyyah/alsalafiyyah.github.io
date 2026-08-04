@@ -1,26 +1,26 @@
 ---
-layout: post
-title: "Conditions of Dar Al-Harb and Dar Al-Kufr"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 2635, Question 1"
 hijri: Muharram 14, 1442 AH
 lang: en
-locale: en
-note: true
-category: [fatwas,hijrah]
-summary: "The countries whose rulers and those in power uphold the limits set by Allah in their judgments and rule their subjects accordingly where people can act in accordance with the Shari'ah are considered Muslim lands."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 2635, Question 1
+summary: The countries whose rulers and those in power uphold the limits set by Allah
+  in their judgments and rule their subjects accordingly where people can act in accordance
+  with the Shari'ah are considered Muslim lands.
+title: Conditions of Dar Al-Harb and Dar Al-Kufr
 ---
 
 ### Question:

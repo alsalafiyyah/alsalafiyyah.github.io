@@ -1,20 +1,21 @@
 ---
-layout: post
-title: "Some practices done upon burial"
-publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
-source: "Fatawa Al-Lajnah Ad-Daimah no. 18068 question 6"
-hijri: Muharram 3, 1442
-category: [funerals, bidah, fatwas]
 date: 2020/08/22
-summary: All the practices referred to in the question mentioned above are newly-invented bid'ahs, except for the practice of offering condolences to the bereaved family.
-shaykhs: 
- - Shaykh Ibn Baz
- - Shaykh Abdul-Aziz Aal Al-Shaykh
- - Shaykh Salih Fawzan
- - Shaykh Bakr Abu Zayd
- - Shaykh Abdullah ibn Ghudayyan
+hijri: Muharram 3, 1442
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com, salafiyyah@outlook.sa
+shaykhs:
+- Shaykh Ibn Baz
+- Shaykh Abdul-Aziz Aal Al-Shaykh
+- Shaykh Salih Fawzan
+- Shaykh Bakr Abu Zayd
+- Shaykh Abdullah ibn Ghudayyan
+source: Fatawa Al-Lajnah Ad-Daimah no. 18068 question 6
+summary: All the practices referred to in the question mentioned above are newly-invented
+  bid'ahs, except for the practice of offering condolences to the bereaved family.
+title: Some practices done upon burial
 ---
-
 
 ### Question: 
 When someone dies, people have certain practices that I am going to list, hoping that you will comment and show the juristic ruling on these practices:

@@ -1,23 +1,25 @@
 ---
-layout: post
-title: "The Hadith: 'You will have rulers some of whom you will approve of and some you will disapprove of'"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Daimah no. 17320"
 hijri: Muharram 12, 1442 AH
 lang: en
-summary: Your Eminence, is this Hadith Sahih (authentic)? We read it in Sahih Al-Jami' Al-Saghir Wa Zyadatih.
-category: ["tafsir", hadiths, rulership]
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Daimah no. 17320
+summary: Your Eminence, is this Hadith Sahih (authentic)? We read it in Sahih Al-Jami'
+  Al-Saghir Wa Zyadatih.
+title: 'The Hadith: ''You will have rulers some of whom you will approve of and some
+  you will disapprove of'''
 ---
 
 Question:

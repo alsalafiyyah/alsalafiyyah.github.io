@@ -1,29 +1,32 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "What to do when there is too much fitnah and division"
 date: 2023-07-24
-hijri: "Muharram 06, 1445 AH"
-source: "Fatawa Al-Lajnah Al-Da’imah 3/95, Fatwa no.7703, Question 1"
-category: [hadiths]
-summary: When the people do not have an leader and they split into sects and parties, do not follow any of these groups; keep away from all of them if possible, lest one fall into evil. 
-tags: [alifta]
+hijri: Muharram 06, 1445 AH
 lang: en
-translation: false
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz
+  chairman:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz
   deputy_chairman:
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan
-    - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da’imah 3/95, Fatwa no.7703, Question 1
+summary: When the people do not have an leader and they split into sects and parties,
+  do not follow any of these groups; keep away from all of them if possible, lest
+  one fall into evil.
+tags:
+- alifta
+title: What to do when there is too much fitnah and division
+translation: false
 ---
 
 ### Question:

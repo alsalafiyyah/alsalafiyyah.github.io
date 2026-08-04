@@ -1,25 +1,26 @@
 ---
-layout: post
-title: "Ruling on the Muslims who live in the lands of the disbelievers"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 21676, Question 1"
-category: [fatwas,walabara, hadiths]
 hijri: Dhul-Hijjah 6, 1441
 lang: en
-locale: en
-note: true
-summary: "Whoever resides in non-Muslim countries with no legal reason and does not emigrate to Muslim countries to practice his religion though able to do so, is exposing themselves to punishment and wrath of Allah as mentioned in the Holy Qur'an and Prophetic Hadith."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  chairman:
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 21676, Question 1
+summary: Whoever resides in non-Muslim countries with no legal reason and does not
+  emigrate to Muslim countries to practice his religion though able to do so, is exposing
+  themselves to punishment and wrath of Allah as mentioned in the Holy Qur'an and
+  Prophetic Hadith.
+title: Ruling on the Muslims who live in the lands of the disbelievers
 ---
 
 ### Question: 

@@ -1,16 +1,18 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "The ruling on shaking with both hands"
-hijri: "Safar 19, 1446 AH"
 date: 2024-08-23
-source: "Fatawa Islamiyah 8/217"
-category: [fatwas]
-summary: "As for shaking with both of his hands, we are not aware of anything in that regard, rather, it should not be done."
+hijri: Safar 19, 1446 AH
+lang: en
+layout: post
+mass_edited: true
 muftis:
-  shaykh: 
-    - name: Permanent Committee
-      url: /biography/alifta
+  shaykh:
+  - name: Permanent Committee
+    url: /biography/alifta
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Islamiyah 8/217
+summary: As for shaking with both of his hands, we are not aware of anything in that
+  regard, rather, it should not be done.
+title: The ruling on shaking with both hands
 ---
 
 ### Question:

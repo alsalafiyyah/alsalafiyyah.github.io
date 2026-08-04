@@ -1,29 +1,34 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Period during which the heavens and earth were created"
 date: 2019-09-01
-hijri: "Muharram 02, 1441 AH"
-source: "Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 20164"
-category: [tawhid]
-summary: "Allah created the Earth on Saturday, He created the mountains on Sunday, He created the trees on Monday, He created the things entailing labor on Tuesday, He created light on Wednesday, He spread out the animals on Thursday, and He created Adam (peace be upon him) after 'Asr (Afternoon) on Friday. It is the last of creation in the last hour of the day, between `Asr and the night"
-tags: [alifta]
+hijri: Muharram 02, 1441 AH
 lang: en
-translation: false
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+  deputy_chairman:
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 20164
+summary: Allah created the Earth on Saturday, He created the mountains on Sunday,
+  He created the trees on Monday, He created the things entailing labor on Tuesday,
+  He created light on Wednesday, He spread out the animals on Thursday, and He created
+  Adam (peace be upon him) after 'Asr (Afternoon) on Friday. It is the last of creation
+  in the last hour of the day, between `Asr and the night
+tags:
+- alifta
+title: Period during which the heavens and earth were created
+translation: false
 ---
 
 ### Question: 

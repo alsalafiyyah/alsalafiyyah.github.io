@@ -1,17 +1,18 @@
 ---
-layout: post
-title: "Fabricated Hadith: 'I am the best person for the wicked people of my Ummah'"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 18721-2"
-hijri: Muharram 11, 1442 AH
 date: 2020/08/30
-category: [tafsir, hadiths, mawdu-daif]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Salih Fawzan
- - Shaykh Bakr Abu Zayd
+hijri: Muharram 11, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+shaykhs:
+- Shaykh Abdul-Aziz ibn Baz
+- Shaykh Abdul-Aziz Aal al-Shaykh
+- Shaykh Abdullah ibn Ghudayyan
+- Shaykh Salih Fawzan
+- Shaykh Bakr Abu Zayd
+source: Fatawa Al-Lajnah Ad-Da'imah no. 18721-2
+title: 'Fabricated Hadith: ''I am the best person for the wicked people of my Ummah'''
 ---
 
 Question: 

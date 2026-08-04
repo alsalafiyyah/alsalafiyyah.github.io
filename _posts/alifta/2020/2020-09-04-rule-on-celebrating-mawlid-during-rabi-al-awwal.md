@@ -1,24 +1,25 @@
 ---
-layout: post
-title: "Ruling on celebrating the Prophet's Mawlid during Rabi' Al-Awwal in his honor"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 3257, Question 1"
-category: [festivals, bidah]
 hijri: Muharram 16, 1442 AH
 lang: en
-summary: "What is the ruling on celebrating the Mawlid (the Prophet’s birthday) in Rabi‘ Al-Awwal as a tribute to the Prophet"
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 3257, Question 1
+summary: What is the ruling on celebrating the Mawlid (the Prophet’s birthday) in
+  Rabi‘ Al-Awwal as a tribute to the Prophet
+title: Ruling on celebrating the Prophet's Mawlid during Rabi' Al-Awwal in his honor
 ---
 
 Question : 

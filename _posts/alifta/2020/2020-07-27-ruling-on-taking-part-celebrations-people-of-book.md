@@ -1,27 +1,29 @@
 ---
-layout: post
-title: "Ruling on taking part in the celebrations of the People of the Book"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 2540"
-category: [fatwas,walabara]
-hijri: Dhul-Hijjah 6, 1441
 date: 2020-07-27
+hijri: Dhul-Hijjah 6, 1441
 lang: en
-locale: en
-note: true
-summary: "It is not permissible for a Muslim to join the non-Muslims in their festivals and to express joy and happiness on these occasions, or to take the day off work, whether the occasion is religious or secular, because this is a kind of imitating the Enemies of Allah, which is forbidden, and a kind of co-operating with them in falsehood."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 2540
+summary: It is not permissible for a Muslim to join the non-Muslims in their festivals
+  and to express joy and happiness on these occasions, or to take the day off work,
+  whether the occasion is religious or secular, because this is a kind of imitating
+  the Enemies of Allah, which is forbidden, and a kind of co-operating with them in
+  falsehood.
+title: Ruling on taking part in the celebrations of the People of the Book
 ---
 
 ### Question: 
@@ -41,4 +43,3 @@ We advise you to refer to the book entitled [Iqtida' Al-Sirat-ul-Mustaqim] by th
 ---
 [^1]: Al-Tirmidhy, Sunan, Book on knowledge, no. 2676; Ibn Majah, Sunan, Introduction, no. 44; Ahmad ibn Hanbal, Musnad, vol. 4, p. 126; and Al-Darimy, Introduction, no. 95.
 [^2]: Ahmad, vol. 2, pp. 50 and 92; Abu Dawud, no. 4031; Ibn Abu Shaybah, Al-Musannaf, vol. 5, p. 313; 'Abd ibn Hamid, Al-Muntakhab, no. 846; Abu Ya'la, Musnad, and Al-Kanz, vol. 4, p. 287; Al-Tabarany, Al-Kabir, and Majma' Al-Zawa'id, vol. 5, p. 267. See Iqtidaa Al-Sirat Al-Mustaqim by Shaykh Al-Islam, vol. 1, p. 236.
-

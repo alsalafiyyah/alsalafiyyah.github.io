@@ -1,25 +1,26 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Ruling on whoever dies as a minor"
 hijri: Safar 24, 1442 AH
-source: "Fatawa Al-Lajnah Al-Da'imah no. 7790-4"
 lang: en
-note: true
-category: [ahl-fatrah, non-muslim]
-summary: "This baby will be dealt with in this world as his family. If he is born to a Muslim family, then his body will be washed and the funeral prayer will be performed for him."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
   members:
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah Ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdullah Ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah Ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah no. 7790-4
+summary: This baby will be dealt with in this world as his family. If he is born to
+  a Muslim family, then his body will be washed and the funeral prayer will be performed
+  for him.
+title: Ruling on whoever dies as a minor
 ---
 
 Question:

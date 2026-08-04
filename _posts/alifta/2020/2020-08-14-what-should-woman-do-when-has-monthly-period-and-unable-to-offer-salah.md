@@ -1,24 +1,26 @@
 ---
-layout: post
-title: "What should a woman do when she has her monthly period and she is unable to offer Salah"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no.3377, Question 2"
-hijri: Dhul-Hijjah 24, 1441
 date: 2020/08/14
-category: [fatwas,women]
-locale: en
+hijri: Dhul-Hijjah 24, 1441
 lang: en
-note: true
-summary: "A woman is exempted from offering Salah during her menstrual period. In fact it is prohibited for her to offer Salah during menstrual days and she is not required to make up for the Salah she missed after she is purified from menses out of Allah’s Mercy and Grace, to make things easy for women."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz   
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan
-    - name: Shaykh Abdullah ibn qa'ud
-      url: /biography/qaud
+  chairman:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan
+  - name: Shaykh Abdullah ibn qa'ud
+    url: /biography/qaud
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no.3377, Question 2
+summary: A woman is exempted from offering Salah during her menstrual period. In fact
+  it is prohibited for her to offer Salah during menstrual days and she is not required
+  to make up for the Salah she missed after she is purified from menses out of Allah’s
+  Mercy and Grace, to make things easy for women.
+title: What should a woman do when she has her monthly period and she is unable to
+  offer Salah
 ---
 
 ### Question:

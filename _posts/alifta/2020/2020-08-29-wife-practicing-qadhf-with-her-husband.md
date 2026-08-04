@@ -1,25 +1,26 @@
 ---
-layout: post
-title: "Ruling on a wife practicing Qadhf with her husband"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 18911-5"
 hijri: Muharram 10, 1442 AH
 lang: en
-note: true
-category: [marriage]
-summary: "The Hadd (ordained punishment for violating Allah’s Law) of Qadhf (falsely accusing a chaste person of involvement in prohibited sexual relations) is applicable to males and females because of the general meaning of the Ayah (Qur'anic verse)."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah no. 18911-5
+summary: The Hadd (ordained punishment for violating Allah’s Law) of Qadhf (falsely
+  accusing a chaste person of involvement in prohibited sexual relations) is applicable
+  to males and females because of the general meaning of the Ayah (Qur'anic verse).
+title: Ruling on a wife practicing Qadhf with her husband
 ---
 
 Question: 

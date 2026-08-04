@@ -1,16 +1,15 @@
 ---
-layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "Rule on tawassul through the blessing of the Qur'an or some creatures"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 8817, Question 4"
-category: [fatwas,tawassul]
-hijri: Dhul-Hijjah 8, 1441
 date: 2020-07-29
-note: true
-locale: en
-lang: en
-summary: "What is the ruling on a person who speaks words like, in the name of or by the blessing of the Prophet, the shaykh, or the Qur’an?"
 group1: true
+hijri: Dhul-Hijjah 8, 1441
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 8817, Question 4
+summary: What is the ruling on a person who speaks words like, in the name of or by
+  the blessing of the Prophet, the shaykh, or the Qur’an?
+title: Rule on tawassul through the blessing of the Qur'an or some creatures
 ---
 
 ### Question: 

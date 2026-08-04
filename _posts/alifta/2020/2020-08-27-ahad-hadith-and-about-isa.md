@@ -1,16 +1,16 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: Working according to Ahad Hadith in matters of creed and Muslims' creed about Jesus
-source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 6263
-hijri: Muharram 8, 1442
 date: 2020/08/27
-category: [prophets,fatwas]
 group1: true
-note: true
-locale: en
+hijri: Muharram 8, 1442
 lang: en
-summary: According to the creed of the Salaf whom the Prophet described as the best generation, Jesus was not killed or crucified, nor did he die.
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 6263
+summary: According to the creed of the Salaf whom the Prophet described as the best
+  generation, Jesus was not killed or crucified, nor did he die.
+title: Working according to Ahad Hadith in matters of creed and Muslims' creed about
+  Jesus
 ---
 
 ### Question: 

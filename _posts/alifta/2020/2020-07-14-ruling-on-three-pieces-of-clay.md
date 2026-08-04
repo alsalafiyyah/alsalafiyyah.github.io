@@ -1,14 +1,17 @@
 ---
-layout: post
-title: "Ruling on three pieces of clay for the dead"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatwas of the Permanent Committee of KSA, Fatwa no.5728, Question 1"
-category: [bidah, funerals]
-tags: [alifta]
-translation: false
-hijri: "22 Dhul-Qaidah 1441"
-summary: "We do not know any legal basis about this in the Book of Allah or the authentic Sunnah of the Messenger of Allah. It is a Bid'ah."
 group1: true
+hijri: 22 Dhul-Qaidah 1441
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatwas of the Permanent Committee of KSA, Fatwa no.5728, Question 1
+summary: We do not know any legal basis about this in the Book of Allah or the authentic
+  Sunnah of the Messenger of Allah. It is a Bid'ah.
+tags:
+- alifta
+title: Ruling on three pieces of clay for the dead
+translation: false
 ---
 
 ### Question: 

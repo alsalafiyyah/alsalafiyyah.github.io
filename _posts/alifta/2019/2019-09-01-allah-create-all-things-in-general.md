@@ -1,28 +1,31 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Allah creating all things"
 date: 2019-09-01
-hijri: "Muharram 02, 1441 AH"
-source: "Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 16950, Question 1"
-category: [misc]
-summary: "The basic ruling is that Allah has created all things in general. Allah has created good and He enjoins and loves it, and He has created evil and He prohibits and dislikes it."
-tags: [alifta]
+hijri: Muharram 02, 1441 AH
 lang: en
-translation: false
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  chairman:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 16950, Question 1
+summary: The basic ruling is that Allah has created all things in general. Allah has
+  created good and He enjoins and loves it, and He has created evil and He prohibits
+  and dislikes it.
+tags:
+- alifta
+title: Allah creating all things
+translation: false
 ---
 
 ### Question: 

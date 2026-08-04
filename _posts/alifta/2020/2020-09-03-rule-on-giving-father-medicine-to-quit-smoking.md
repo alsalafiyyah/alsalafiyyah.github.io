@@ -1,28 +1,28 @@
 ---
-layout: post
-title: "Ruling on giving the father a medicine to quit smoking without his knowledge"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 16318, Question 2"
-hijri: Muharram 15, 1442
-summary: Smoking tobacco is Haram for it causes great harm and has no benefit at all. Whoever smokes should give it up and repent of it.
-locale: en
-lang: en
 date: 2020/09/3
-category: [treatments,fatwas]
+hijri: Muharram 15, 1442
+lang: en
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/zayd/
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/zayd/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 16318, Question 2
+summary: Smoking tobacco is Haram for it causes great harm and has no benefit at all.
+  Whoever smokes should give it up and repent of it.
+title: Ruling on giving the father a medicine to quit smoking without his knowledge
 ---
 
 ### Question:
@@ -31,4 +31,4 @@ My father smokes tobacco, but we have found a drug that will rid him of this hab
 ### Answer:
 Smoking tobacco is Haram (prohibited) for it causes great harm and has no benefit at all. Whoever smokes should give it up and repent of it. As for your father, you should advise him. Concerning giving him a drug that makes him ill for two days in order to give up smoking, this is not permissible without his knowledge. Allah knows best.
 
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions. 
+May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.

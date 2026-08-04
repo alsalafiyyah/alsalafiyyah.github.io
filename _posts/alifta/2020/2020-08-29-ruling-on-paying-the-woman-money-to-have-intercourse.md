@@ -1,27 +1,26 @@
 ---
-layout: post
-title: "Ruling on paying the woman money to have intercourse"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 7994, Question 4"
-hijri: Muharram 10, 1442
 date: 2020-08-29
+hijri: Muharram 10, 1442
 lang: en
-locale: en
-note: true
-category: [fatwas, zina, women]
-summary: "You should protect yourself and stay away from the avenues leading to Zina and hasten to get married if you can; otherwise, you should observe fast."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 7994, Question 4
+summary: You should protect yourself and stay away from the avenues leading to Zina
+  and hasten to get married if you can; otherwise, you should observe fast.
+title: Ruling on paying the woman money to have intercourse
 ---
 
 ### Question: 

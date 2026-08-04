@@ -1,23 +1,22 @@
 ---
-layout: post
-title: "Who are Gog and Magog and where are they?"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 845, Question 3"
-category: [fatwas,doomsday]
 hijri: Muharram 15, 1442 AH
 lang: en
-locale: en
-note: true
-summary: "Ya'juj and Ma'juj are from Bani Adam or human beings, from the line of Yafith ibn Nuh. They live in Asia, in northern China."
+layout: post
+mass_edited: true
 muftis:
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah Ibn Mani'
-      url: /biography/mani/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah Ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah Ibn Mani'
+    url: /biography/mani/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 845, Question 3
+summary: Ya'juj and Ma'juj are from Bani Adam or human beings, from the line of Yafith
+  ibn Nuh. They live in Asia, in northern China.
+title: Who are Gog and Magog and where are they?
 ---
 
 ### Question: 

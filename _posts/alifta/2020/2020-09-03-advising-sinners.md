@@ -1,24 +1,24 @@
 ---
-layout: post
-title: "Advising sinners and disobedient people and one's attitude towards them"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 556"
-hijri: Muharram 14, 1442 AH
 date: 2020/09/3
-category: [fatwas,hisbah]
-locale: en
+hijri: Muharram 14, 1442 AH
 lang: en
-summary: "A Muslim is obliged to enjoin right and forbid wrong with wisdom and good and wise argument."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Ibrahim ibn Muhammad Aal Al-Shaykh 
-      url: /biography/ibrahim/
+  chairman:
+  - name: Shaykh Ibrahim ibn Muhammad Aal Al-Shaykh
+    url: /biography/ibrahim/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Muni'
-      url: /biography/mani/
+  - name: Shaykh Abdul-Razzaq Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Muni'
+    url: /biography/mani/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 556
+summary: A Muslim is obliged to enjoin right and forbid wrong with wisdom and good
+  and wise argument.
+title: Advising sinners and disobedient people and one's attitude towards them
 ---
 
 ### Question:

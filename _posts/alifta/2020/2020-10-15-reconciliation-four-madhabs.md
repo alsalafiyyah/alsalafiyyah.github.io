@@ -1,23 +1,23 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Reconciliation of the Four Schools of Jurisprudence"
 hijri: Safar 28, 1442 AH
-source: "Fatawa Al-lajnah Al-Da'imah no. 5560"
 lang: en
-category: [madhabs]
-note: true
-summary: "A Muslim is not required to combine between the ways followed by the four Madhabs (Schools of Jurisprudence) in his deeds."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-lajnah Al-Da'imah no. 5560
+summary: A Muslim is not required to combine between the ways followed by the four
+  Madhabs (Schools of Jurisprudence) in his deeds.
+title: Reconciliation of the Four Schools of Jurisprudence
 ---
 
 ### Question:

@@ -1,20 +1,22 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Every bid'ah is a going astray"
-date: 2024-07-02
-hijri: "Dhul-Hijjah 26, 1445"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 948, Question 3"
-category: [bidah]
-tags: [alifta]
-lang: en
-translation: false
-group4: true
-summary: "Beware of newly-invented matters (in religion), for every newly-invented matter is a Bid‘ah, and every Bid‘ah is a Dalalah."
-article_taken_from: 
+article_taken_from:
   taken_from:
-    - web_title: البدعة الحسنة والبدعة السيئة
-      web_url: https://al-fatawa.com/fatwa/112205
+  - web_title: البدعة الحسنة والبدعة السيئة
+    web_url: https://al-fatawa.com/fatwa/112205
+date: 2024-07-02
+group4: true
+hijri: Dhul-Hijjah 26, 1445
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 948, Question 3
+summary: Beware of newly-invented matters (in religion), for every newly-invented
+  matter is a Bid‘ah, and every Bid‘ah is a Dalalah.
+tags:
+- alifta
+title: Every bid'ah is a going astray
+translation: false
 ---
 
 ### Question: 

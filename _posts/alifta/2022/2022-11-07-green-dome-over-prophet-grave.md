@@ -1,15 +1,18 @@
 ---
-layout: post
 author: Instagram@Alsalafiyyah
-title: "Green Dome over the Prophet’s grave"
-hijri: "Rabi Al-Thani 13, 1444"
 date: 2022-11-07
-category: [misc]
-summary: "There is no proof in the fact that a dome was set up over the Prophet’s grave for those who take it as an excuse for building domes of the graves of the saints and righteous people"
 group9: true
-tags: [alifta]
-translation: false
+hijri: Rabi Al-Thani 13, 1444
 lang: en
+layout: post
+mass_edited: true
+summary: There is no proof in the fact that a dome was set up over the Prophet’s grave
+  for those who take it as an excuse for building domes of the graves of the saints
+  and righteous people
+tags:
+- alifta
+title: Green Dome over the Prophet’s grave
+translation: false
 ---
 
 ### Question:

@@ -1,16 +1,18 @@
 ---
-layout: post
-title: "Ruling on masturbation"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 1376"
-hijri: "Muharram 10, 1442 AH"
 date: 2020-08-29
-category: [masturbation]
-translation: false
-tags: [alifta]
-lang: en
-summary: "The preponderant of scholars' views about masturbation commonly referred to as Secret Habit is that it is an unlawful sexual activity."
 group3: true
+hijri: Muharram 10, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 1376
+summary: The preponderant of scholars' views about masturbation commonly referred
+  to as Secret Habit is that it is an unlawful sexual activity.
+tags:
+- alifta
+title: Ruling on masturbation
+translation: false
 ---
 
 ### Question: 

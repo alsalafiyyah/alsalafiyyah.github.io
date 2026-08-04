@@ -1,14 +1,16 @@
 ---
-layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "Rule on invoking the Prophet’s honor or parents pleasure upon rising from one's seat"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 5156, Question 2"
-category: [fatwas,tawassul]
-hijri: Dhul-Hijjah 8, 1441
 date: 2020-07-29
-note: true
 group1: true
-summary: Scholars say that whoever utters such words is a Mushrik, because he is placing an intermediary between Allah and himself.
+hijri: Dhul-Hijjah 8, 1441
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 5156, Question 2
+summary: Scholars say that whoever utters such words is a Mushrik, because he is placing
+  an intermediary between Allah and himself.
+title: Rule on invoking the Prophet’s honor or parents pleasure upon rising from one's
+  seat
 ---
 
 ### Question: 

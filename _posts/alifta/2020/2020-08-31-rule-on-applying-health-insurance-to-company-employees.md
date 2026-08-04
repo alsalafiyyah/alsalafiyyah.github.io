@@ -1,17 +1,18 @@
 ---
-layout: post
-title: "Ruling on applying health insurance to company employees"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 20693"
-hijri: Muharram 12, 1442 AH
 date: 2020/08/31
-category: [insurance]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Salih Fawzan
- - Shaykh Bakr Abu Zayd
+hijri: Muharram 12, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+shaykhs:
+- Shaykh Abdul-Aziz ibn Baz
+- Shaykh Abdul-Aziz Aal al-Shaykh
+- Shaykh Abdullah ibn Ghudayyan
+- Shaykh Salih Fawzan
+- Shaykh Bakr Abu Zayd
+source: Fatawa Al-Lajnah Ad-Da'imah no. 20693
+title: Ruling on applying health insurance to company employees
 ---
 
 Question: 
@@ -23,4 +24,3 @@ Answer:
 The commercial insurance - which includes the Health insurance- is Muharram (prohibited) in all its forms as it involves using people's money unjustly. It also implies fraudulence, ignorance and gambling. Hence, it is obligatory upon every Muslim not to take part in such systems or even to use them if he is working in any company that applies this to its employees. Moreover, he has to treat himself from his personal money and to keep away from Haram practices.
 
 May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
-

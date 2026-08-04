@@ -1,14 +1,16 @@
 ---
-layout: post
-title: "Impermissibility of paying Sadaqah from the inheritance without the heirs' permission"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 4990-5"
-hijri: Muharram 12, 1442 AH
 date: 2020/08/31
-category: [inheritance]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdullah ibn Qa'ud
+hijri: Muharram 12, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+shaykhs:
+- Shaykh Abdul-Aziz ibn Baz
+- Shaykh Abdullah ibn Qa'ud
+source: Fatawa Al-Lajnah Ad-Da'imah no. 4990-5
+title: Impermissibility of paying Sadaqah from the inheritance without the heirs'
+  permission
 ---
 
 Question:

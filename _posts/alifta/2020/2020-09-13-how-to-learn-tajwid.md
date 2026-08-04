@@ -1,22 +1,22 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: How to learn Tajwid
 hijri: Muharram 25, 1442 AH
 lang: en
-category: [knowledge,quran]
-source: "Fatawa Al-Lajnah Al-Da'imah no. 9566, Question 2"
-summary: "How can I learn Tajwid and in which book can I find the rules of Tajwid?"
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah no. 9566, Question 2
+summary: How can I learn Tajwid and in which book can I find the rules of Tajwid?
+title: How to learn Tajwid
 ---
 
 Question: 
@@ -26,5 +26,3 @@ How can I learn Tajwid (reciting the Qur'an following the rules of recitation) a
 Answer:
 
 You can achieve learning the proper recitation of the Qur’an by studying the rules of Tajwid from the book "Kitab Al-Hidayah" and other books, on condition that you get taught by a skilled teacher of Qur’anic recitation. You should also practice Tajwid often. You can get help in that respect by listening to the Qur’an programs that are broadcast by the Holy Qur’an Radio - Saudi Arabia.
-
-

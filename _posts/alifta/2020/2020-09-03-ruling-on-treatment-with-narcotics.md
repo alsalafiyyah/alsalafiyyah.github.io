@@ -1,23 +1,23 @@
 ---
-layout: post
-title: "Ruling on treatment with narcotics"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 4243, Question 5"
-hijri: Muharram 15, 1442
-summary: Treatment is not allowed by means of unlawful matters, for the legal evidence that proves its prohibition.
 date: 2020/09/3
-category: [treatments,fatwas]
+hijri: Muharram 15, 1442
 lang: en
-locale: en
+layout: post
+mass_edited: true
 muftis:
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdulla ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdulla ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 4243, Question 5
+summary: Treatment is not allowed by means of unlawful matters, for the legal evidence
+  that proves its prohibition.
+title: Ruling on treatment with narcotics
 ---
 
 ### Question:

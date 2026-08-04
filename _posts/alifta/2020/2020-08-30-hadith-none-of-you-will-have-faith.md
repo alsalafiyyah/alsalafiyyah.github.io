@@ -1,27 +1,29 @@
 ---
-layout: post
-title: "The Hadith: 'None of you will have faith until his desire is in accordance with what I have brought.'"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 17555"
-hijri: Muharram 11, 1442 AH
 date: 2020/08/30
+hijri: Muharram 11, 1442 AH
 lang: en
-category: ["tafsir", hadiths]
-summary: "Would you please explain the meaning of the following Hadith: 'None of you will have faith until his desire is in accordance with what I have brought.'"
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Aziz Aal al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  - name: Shaykh Abdul-Aziz Aal al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah no. 17555
+summary: 'Would you please explain the meaning of the following Hadith: ''None of
+  you will have faith until his desire is in accordance with what I have brought.'''
+title: 'The Hadith: ''None of you will have faith until his desire is in accordance
+  with what I have brought.'''
 ---
 
 Question: 

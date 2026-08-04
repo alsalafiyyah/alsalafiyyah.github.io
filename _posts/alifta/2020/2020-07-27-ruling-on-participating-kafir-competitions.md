@@ -1,27 +1,27 @@
 ---
-layout: post
-title: "Ruling on participating in the missionary organizations competitions"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 17474"
-category: [fatwas,walabara]
 hijri: Dhul-Hijjah 6, 1441
 lang: en
-note: true
-locale: en
-uid: ruling-on-participating-kafir-competitions
-summary: "The Gospel that exists today is not the same that Allah, Glorified and Exalted be He, sent down. It contains a great deal of Tahrif (distortion of the meaning), lies, additions, omissions, and sayings that are unbefitting to Allah, the Exalted."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  chairman:
+  - name: Shaykh Abdul-Aziz Ibn Baz
+    url: /biography/binbaz/
+  deputy_chairman:
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 17474
+summary: The Gospel that exists today is not the same that Allah, Glorified and Exalted
+  be He, sent down. It contains a great deal of Tahrif (distortion of the meaning),
+  lies, additions, omissions, and sayings that are unbefitting to Allah, the Exalted.
+title: Ruling on participating in the missionary organizations competitions
+uid: ruling-on-participating-kafir-competitions
 ---
 
 ### Question: 

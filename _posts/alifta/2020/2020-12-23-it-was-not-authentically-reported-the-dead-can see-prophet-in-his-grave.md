@@ -1,24 +1,28 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "It was not authentically reported that a dead person can see the Prophet in his grave"
-hijri: "Jumada Al-Awwal 8, 1442 AH"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 9886, Question 2"
+date: 2020-12-23
+hijri: Jumada Al-Awwal 8, 1442 AH
 lang: en
-locale: en
-category: [fatwas]
-note: true
-summary: "When the person dies and people bury him in the grave, two angels come to ask him about his Lord, his prophet, and his religion. The angels will speak to him in a language that he understands."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 9886, Question 2
+summary: When the person dies and people bury him in the grave, two angels come to
+  ask him about his Lord, his prophet, and his religion. The angels will speak to
+  him in a language that he understands.
+tags:
+- alifta
+title: It was not authentically reported that a dead person can see the Prophet in
+  his grave
 ---
 
 ### Question:
@@ -29,4 +33,4 @@ After death and burial, does a person see the Prophet (peace be upon him) in the
 
 When the person dies and people bury him in the grave, two angels come to ask him about his Lord, his prophet, and his religion. The angels will speak to him in a language that he understands. The believers will answer while the disbelievers will not. Even if many people die at the same time, the angels will ask them. There is nothing strange about this because angels are unlike humans. It is not authentically reported that the dead person sees the Prophet (peace be upon him) in the grave as far as we know. 
 
-For further information in this regard and other relevant issues, refer to the books Al-Aqidah Al-Wasitiyyah by Shaykhul-Islam Ibn Taymiyyah, and Al-Usoul Al-Thalathah by Shaykhul-Islam Muhammad ibn Abdul-Wahhab. 
+For further information in this regard and other relevant issues, refer to the books Al-Aqidah Al-Wasitiyyah by Shaykhul-Islam Ibn Taymiyyah, and Al-Usoul Al-Thalathah by Shaykhul-Islam Muhammad ibn Abdul-Wahhab.

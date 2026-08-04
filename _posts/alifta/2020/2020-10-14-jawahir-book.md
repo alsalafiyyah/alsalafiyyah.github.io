@@ -1,25 +1,27 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "The book: 'Al-Jawahir by Shaykh Zayn Al-Din Al-Malibary' is not considered a reliable source"
+book: Jihad and Hisbah
+chapter: Knowledge, books
 hijri: Safar 27, 1442 AH
-source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 9897-1"
-book: "Jihad and Hisbah"
-chapter: "Knowledge, books"
 lang: en
-category: [jihad, dawah, knowledge]
-note: true
-summary: "The book of Al-Jawahir fi 'Uqubat Ahl Al-Kaba'ir by Shaykh Zayn Al-Din Al-Malibary is not considered a reliable source with regard to rulings, distinguishing between major sins and minor ones, Du'a's (supplications), or Adhkar (invocations)."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+  deputy_chairman:
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah Ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-lajnah Al-Da'imah of KSA no. 9897-1
+summary: The book of Al-Jawahir fi 'Uqubat Ahl Al-Kaba'ir by Shaykh Zayn Al-Din Al-Malibary
+  is not considered a reliable source with regard to rulings, distinguishing between
+  major sins and minor ones, Du'a's (supplications), or Adhkar (invocations).
+title: 'The book: ''Al-Jawahir by Shaykh Zayn Al-Din Al-Malibary'' is not considered
+  a reliable source'
 ---
 
 Question : 

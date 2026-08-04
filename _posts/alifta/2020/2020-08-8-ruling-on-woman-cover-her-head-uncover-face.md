@@ -1,16 +1,15 @@
 ---
-layout: post
-title: "Ruling on a woman who cover her head and uncover her face"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 3079, Question 4"
-category: [fatwas,women]
-hijri: Dhul-Hijjah 14, 1441
 date: 2020/08/8
-locale: en
-lang: en
-summary: "It is ordained for a woman to wear clothes that conceal her whole body, including her face and hands."
 group1: true
-note: true
+hijri: Dhul-Hijjah 14, 1441
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 3079, Question 4
+summary: It is ordained for a woman to wear clothes that conceal her whole body, including
+  her face and hands.
+title: Ruling on a woman who cover her head and uncover her face
 ---
 
 ### Question: 

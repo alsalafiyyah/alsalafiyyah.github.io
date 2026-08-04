@@ -1,13 +1,15 @@
 ---
-layout: post
-title: "Ruling on sleeping on the ground for forty days as mourning over the dead"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatwas of the Permanent Committee of KSA no.5275 question 1"
-category: [bidah, funerals]
 date: 2020-07-16
-hijri: Dhul-Qa'dah 25, 1441
-summary: "The habit of holding Ma'tam and staying to meet people who come for consolation is a type of Bid'ah."
 group1: true
+hijri: Dhul-Qa'dah 25, 1441
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatwas of the Permanent Committee of KSA no.5275 question 1
+summary: The habit of holding Ma'tam and staying to meet people who come for consolation
+  is a type of Bid'ah.
+title: Ruling on sleeping on the ground for forty days as mourning over the dead
 ---
 
 ### Question: 
@@ -23,5 +25,3 @@ Similarly, slaughtering animals a week or forty days after the death of someone 
 May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions. 
 
 [^1]: Sahih Al-Bukhari [Book on reconciliation] no. 2697; Sahih Muslim [Book on judicial decisions] no. 1718; Abu Dawud[Book on Al-Sunnah] no. 4606; Ibn Majah [Introduction] no. 14; Musnad Ahmad p. 6/240.
-
-

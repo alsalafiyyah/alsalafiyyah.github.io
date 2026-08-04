@@ -1,23 +1,24 @@
 ---
-layout: post
-title: "The Hadith: 'Verily, Allah helps this religion even through a wicked person'"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 13619-1"
-hijri: Muharram 11, 1442 AH
 date: 2020/08/30
+hijri: Muharram 11, 1442 AH
 lang: en
-category: ["tafsir", hadiths]
-summary: "What is the meaning of the following Hadith: 'Verily, Allah helps this religion (Islam) even through a wicked person.' What is its meaning?"
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah no. 13619-1
+summary: 'What is the meaning of the following Hadith: ''Verily, Allah helps this
+  religion (Islam) even through a wicked person.'' What is its meaning?'
+title: 'The Hadith: ''Verily, Allah helps this religion even through a wicked person'''
 ---
 
 Question: 

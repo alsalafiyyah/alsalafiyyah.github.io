@@ -1,21 +1,22 @@
 ---
-layout: post
-title: "Ruling on sharing the same places of worship with non-Muslims"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 2234"
-category: [fatwas,walabara]
 hijri: Dhul-Hijjah 6, 1441
 lang: en
-note: true
-locale: en
-summary: "It is unanimously agreed upon that the Islamic Shari'ah was revealed to both jinn and mankind. Whoever claims that the Jews and the Christians are following the path of truth, whether from among them or not, is contradicting the Qur'an, Sunnah of the Prophet, and the general consensus of the Muslim Ummah."
-muftis: 
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+layout: post
+mass_edited: true
+muftis:
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 2234
+summary: It is unanimously agreed upon that the Islamic Shari'ah was revealed to both
+  jinn and mankind. Whoever claims that the Jews and the Christians are following
+  the path of truth, whether from among them or not, is contradicting the Qur'an,
+  Sunnah of the Prophet, and the general consensus of the Muslim Ummah.
+title: Ruling on sharing the same places of worship with non-Muslims
 ---
 
 ### Questions: 

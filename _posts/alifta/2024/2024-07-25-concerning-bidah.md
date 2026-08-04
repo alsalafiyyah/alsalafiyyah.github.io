@@ -1,18 +1,19 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: Concerning bid'ah or innovations in the religion
-source: Majmu' Fatawa wa Rasa'il, vol 2, no. 345
-hijri: Muharram 19, 1446 AH
 date: 2024-07-25
-locale: en
+hijri: Muharram 19, 1446 AH
 lang: en
-summary: Bi'dah in reality are indirect criticisms of the Shari’ah; because they necessicate the implication that the Shar’iah is incomplete and that the innovation is a more perfect form of worship to seek nearness to Allaah as the innovator claims.
-category: [fatwas,bidah]
+layout: post
+mass_edited: true
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn 'Uthaymeen
-      url: /biography/uthaymeen
+  shaykh:
+  - name: Shaykh Ibn 'Uthaymeen
+    url: /biography/uthaymeen
+publisher: alsalafiyyah@icloud.com
+source: Majmu' Fatawa wa Rasa'il, vol 2, no. 345
+summary: Bi'dah in reality are indirect criticisms of the Shari’ah; because they necessicate
+  the implication that the Shar’iah is incomplete and that the innovation is a more
+  perfect form of worship to seek nearness to Allaah as the innovator claims.
+title: Concerning bid'ah or innovations in the religion
 ---
 
 ### Question: 

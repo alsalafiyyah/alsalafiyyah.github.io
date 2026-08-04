@@ -1,15 +1,17 @@
 ---
-layout: post
-title: "Islam's attitude towards the People of the Book"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 1412"
-category: [non-muslim]
-hijri: "Dhul-Hijjah 8, 1441 AH"
-lang: en
-translation: false
-tags: [alifta]
-summary: "The origin of the doctrines with which prophets and messengers were sent is one. Allah revealed scriptures that contained these doctrines to them."
 group6: true
+hijri: Dhul-Hijjah 8, 1441 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 1412
+summary: The origin of the doctrines with which prophets and messengers were sent
+  is one. Allah revealed scriptures that contained these doctrines to them.
+tags:
+- alifta
+title: Islam's attitude towards the People of the Book
+translation: false
 ---
 
 ### Question:

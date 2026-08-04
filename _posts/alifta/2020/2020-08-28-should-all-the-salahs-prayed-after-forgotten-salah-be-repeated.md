@@ -1,15 +1,17 @@
 ---
-layout: post
-title: "Should all the Salahs prayed after a forgotten Salah be repeated when this Salah is remembered?"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 8972, Question1"
-hijri: Muharram 9, 1442
-locale: en
-lang: en
 date: 2020/08/28
-category: [fatwas,salah]
-summary: "That person should offer Fajr Prayer only, and they do not have to repeat all the mentioned Salahs, as they offered them while in a state of forgetfulness that the Fajr Prayer is still due."
 group1: true
+hijri: Muharram 9, 1442
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 8972, Question1
+summary: That person should offer Fajr Prayer only, and they do not have to repeat
+  all the mentioned Salahs, as they offered them while in a state of forgetfulness
+  that the Fajr Prayer is still due.
+title: Should all the Salahs prayed after a forgotten Salah be repeated when this
+  Salah is remembered?
 ---
 
 ### Question: 
@@ -24,4 +26,3 @@ May Allah grant us success. May peace and blessings be upon our Prophet Muhammad
 
 ---
 [^1]: Related by Muslim, Sahih, no. 126; and Al-Tirmidhy, Book on miscellaneous matters, no. 2995 from the Hadith of ibn 'Abbas (may Allah be pleased with him and his father).
-

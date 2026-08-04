@@ -1,20 +1,19 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: Ruling on gathering on the Prophet's Mawlid
-date: 2024-07-07
-hijri: Muharram 01, 1446
-source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 5005‏, Question 13
-category: [fatwas,bidah]
-note: true
-group8: true
-locale: en
-lang: en
-summary: Celebrating the Mawlid is an act of bid‘ah (deviant innovation). The Prophet ﷺ neither celebrated it nor ordered that it be celebrated.
-article_taken_from: 
+article_taken_from:
   taken_from:
-    - web_title: الاجتماع لمولد الرسول عليه الصلاة والسلام
-      web_url: https://al-fatawa.com/fatwa/112130
+  - web_title: الاجتماع لمولد الرسول عليه الصلاة والسلام
+    web_url: https://al-fatawa.com/fatwa/112130
+date: 2024-07-07
+group8: true
+hijri: Muharram 01, 1446
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 5005‏, Question 13
+summary: Celebrating the Mawlid is an act of bid‘ah (deviant innovation). The Prophet
+  ﷺ neither celebrated it nor ordered that it be celebrated.
+title: Ruling on gathering on the Prophet's Mawlid
 ---
 
 ### Question: 

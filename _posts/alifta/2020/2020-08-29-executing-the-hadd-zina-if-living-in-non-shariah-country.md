@@ -1,16 +1,20 @@
 ---
-layout: post
-title: "A family executing the Hadd of Zina if living in a country that does not apply Shari'ah"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 7488"
-hijri: "Muharram 10, 1442 AH"
 date: 2020-08-29
-category: [rulership]
-tags: [alifta]
-translation: false
-lang: en
 group1: true
-summary: "You are not entitled to execute the punishment; because execution of Hudud (ordained punishments for violating Allah’s Law) against the fornicator or any criminal, is the responsibility of the ruler or his deputy officers."
+hijri: Muharram 10, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 7488
+summary: You are not entitled to execute the punishment; because execution of Hudud
+  (ordained punishments for violating Allah’s Law) against the fornicator or any criminal,
+  is the responsibility of the ruler or his deputy officers.
+tags:
+- alifta
+title: A family executing the Hadd of Zina if living in a country that does not apply
+  Shari'ah
+translation: false
 ---
 
 ### Question: 

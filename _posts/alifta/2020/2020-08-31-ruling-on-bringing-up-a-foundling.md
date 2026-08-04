@@ -1,17 +1,16 @@
 ---
-layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "Ruling on bringing up a foundling"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 15308"
-hijri: Muharram 12, 1442 AH
 date: 2020/08/31
-note: true
-locale: en
-lang: en
-uid: ruling-on-bringing-up-a-foundling
-category: [fatwas,foundling]
 group2: true
-summary: "Adopting and bringing up foundlings upon good manners and Islamic etiquette is a noble act."
+hijri: Muharram 12, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 15308
+summary: Adopting and bringing up foundlings upon good manners and Islamic etiquette
+  is a noble act.
+title: Ruling on bringing up a foundling
+uid: ruling-on-bringing-up-a-foundling
 ---
 
 ### Question: 

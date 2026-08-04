@@ -1,16 +1,15 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: Was there any messenger before Noah?
-source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 6147, Question 7
-hijri: Muharram 7, 1442
 date: 2020/08/26
-category: [prophets,fatwas]
 group1: true
-note: true
-locale: en
+hijri: Muharram 7, 1442
 lang: en
-summary: Prophet Nuh was the first messenger sent to the people on earth after Adam. This is based on the long Hadith of intercession narrated in the Two Sahihs.
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 6147, Question 7
+summary: Prophet Nuh was the first messenger sent to the people on earth after Adam.
+  This is based on the long Hadith of intercession narrated in the Two Sahihs.
+title: Was there any messenger before Noah?
 ---
 
 ### Question:

@@ -1,15 +1,18 @@
 ---
-layout: post
-title: "Origin and the creeds of Sufism"
-publisher: "alsalafiyyah@icloud.com"
-category: ["sects", sufism]
-tags: [alifta]
-source: "Fatwas of the Permanent Committee of KSA, Fatwa no.19521"
-hijri: "Dhul-Qa'dah 20, 1441"
-lang: en
-translation: false
-summary: "All the Sufi sects or what is so called now Tasawwuf (mysticism) are full of Bid'ah and the means which leads to it and corrupted thoughts which are against the Book of Allah and the Sunnah of the Prophet"
 group13: true
+hijri: Dhul-Qa'dah 20, 1441
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatwas of the Permanent Committee of KSA, Fatwa no.19521
+summary: All the Sufi sects or what is so called now Tasawwuf (mysticism) are full
+  of Bid'ah and the means which leads to it and corrupted thoughts which are against
+  the Book of Allah and the Sunnah of the Prophet
+tags:
+- alifta
+title: Origin and the creeds of Sufism
+translation: false
 ---
 
 ### Question: 
@@ -26,5 +29,4 @@ Sufism has innovated Wird (portion of Qur'an recited with consistency) and not p
 
 A Muslim must not sit in their sessions and must keep away from mixing with them in order not to be affected by their ill-thoughts, Bid'ah or polytheism. He must advise them and explain the truth to them perhaps Allah (Exalted be He) guides them through him and approve the actions which are in conformity with the Qur'an and Sunnah. We disapprove of the matters which are against the methodology of Ahl-ul-Sunnah wal-Jama'ah in order to be safe. 
 
-Whoever wants to know the conditions of Sufism and their 'Aqidah in details, he may read the book of Madarij Al-Salikin by Ibn Qayyim Al-Jawziyyah, and the book of "This is Sufism" by 'Abdul-Rahman Al-Wakil. 
-
+Whoever wants to know the conditions of Sufism and their 'Aqidah in details, he may read the book of Madarij Al-Salikin by Ibn Qayyim Al-Jawziyyah, and the book of "This is Sufism" by 'Abdul-Rahman Al-Wakil.

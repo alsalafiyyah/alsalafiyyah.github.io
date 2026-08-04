@@ -1,15 +1,18 @@
 ---
-layout: post
-title: "Ruling on kissing the hands and feet of the Sufi Shaykh"
-publisher: "alsalafiyyah@icloud.com"
-category: ["sects", sufism]
-tags: [alifta]
-translation: false
-source: "Fatwas of the Permanent Committee of KSA, question 11"
-hijri: "Dhul-Qa'dah 20, 1441"
-lang: en
-summary: "This was not done with the Prophet (peace be upon him) or with the Rightly-Guided Caliphs. Moreover, these practices may be a means leading to major Shirk (associating others with Allah in His Divinity or worship)."
 group6: true
+hijri: Dhul-Qa'dah 20, 1441
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatwas of the Permanent Committee of KSA, question 11
+summary: This was not done with the Prophet (peace be upon him) or with the Rightly-Guided
+  Caliphs. Moreover, these practices may be a means leading to major Shirk (associating
+  others with Allah in His Divinity or worship).
+tags:
+- alifta
+title: Ruling on kissing the hands and feet of the Sufi Shaykh
+translation: false
 ---
 
 ### Question: 

@@ -1,17 +1,20 @@
 ---
-layout: post
-title: "Ruling on following the funeral of a Kafir and attending his burial"
-publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
-source: "Fatawa Al-Lajnah Ad-Daimah no. 19584"
-hijri: "Muharram 3, 1442"
-category: [fatwas, funerals]
-summary: "It is not permissible for a Muslim to follow the funeral of a non-Muslim or to attend his burial, because Allah has forbidden us from supporting and befriending Kafirs."
 date: 2020-08-22
-shaykhs: 
- - Shaykh Ibn Baz
- - Shaykh Abdul-Aziz Aal Al-Shaykh
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Salih Fawzan
+hijri: Muharram 3, 1442
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com, salafiyyah@outlook.sa
+shaykhs:
+- Shaykh Ibn Baz
+- Shaykh Abdul-Aziz Aal Al-Shaykh
+- Shaykh Abdullah ibn Ghudayyan
+- Shaykh Salih Fawzan
+source: Fatawa Al-Lajnah Ad-Daimah no. 19584
+summary: It is not permissible for a Muslim to follow the funeral of a non-Muslim
+  or to attend his burial, because Allah has forbidden us from supporting and befriending
+  Kafirs.
+title: Ruling on following the funeral of a Kafir and attending his burial
 ---
 
 ### Question: 

@@ -1,23 +1,23 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: The Ruling on feeling shy or fear from speaking the truth
+article_taken_from:
+  taken_from:
+  - web_title: To Be Shy From Speaking the Truth is Merely to Be Weak
+    web_url: https://www.fatwaislam.com/fis/index.cfm?scn=fd&ID=1294
 date: 2024-07-25
 hijri: Muharram 19, 1446 AH
-source: Fatawa Islamiyah Vol. 8 Page 75
-category: [fatwas]
-note: false
-locale: en
 lang: en
-summary: Shyness that prevents you from speaking the truth is not shyness at all, but only weakness. The shyness that is approved by the Shariah is shyness that prevents you from falsehood and evil.
-article_taken_from: 
-  taken_from:
-    - web_title: To Be Shy From Speaking the Truth is Merely to Be Weak
-      web_url: https://www.fatwaislam.com/fis/index.cfm?scn=fd&ID=1294
+layout: post
+mass_edited: true
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz
+  shaykh:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Islamiyah Vol. 8 Page 75
+summary: Shyness that prevents you from speaking the truth is not shyness at all,
+  but only weakness. The shyness that is approved by the Shariah is shyness that prevents
+  you from falsehood and evil.
+title: The Ruling on feeling shy or fear from speaking the truth
 ---
 
 ### Question:

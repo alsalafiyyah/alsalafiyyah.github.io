@@ -1,22 +1,24 @@
 ---
+article_taken_from:
+  taken_from:
+  - web_title: التصويت في الانتخابات والترشيح لها
+    web_url: https://al-fatawa.com/fatwa/106105
+date: 2024-08-05
+group1: true
+hijri: Safar 01, 1446 AH
+lang: en
 layout: post
+mass_edited: true
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on voting and candidacy"
-hijri: "Safar 01, 1446 AH"
-date: 2024-08-05
-source: "Fatawa al-Lajnah ad-Da'imah, Fatwa no.4029, Question 5"
-category: [rulership]
-tags: [alifta]
-lang: en
+source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.4029, Question 5
+summary: It is not permissible for a Muslim to nominate himself hoping to be a part
+  of a system disagreeing with the Islamic revealed law.
+tags:
+- alifta
+title: Ruling on voting and candidacy
 translation: false
-summary: "It is not permissible for a Muslim to nominate himself hoping to be a part of a system disagreeing with the Islamic revealed law."
-group1: true
-article_taken_from: 
-  taken_from:
-    - web_title: التصويت في الانتخابات والترشيح لها 
-      web_url: https://al-fatawa.com/fatwa/106105
---- 
+---
 
 ### Question: 
 

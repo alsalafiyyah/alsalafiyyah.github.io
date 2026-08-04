@@ -1,24 +1,25 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Meaning and types of Taqlid and the ruling on each type"
-hijri: Safar 28, 1442 AH
-source: "Fatawa Al-lajnah Al-Da'imah no. 11296-2"
-lang: en
-category: [madhabs]
-note: true
 active: fatwas
-summary: "Some scholars defined Taqlid as following a person's religious view without knowing the evidence upon which it is based. Some other scholars said that Taqlid means the acceptance of a person's religious view with no evidence."
+hijri: Safar 28, 1442 AH
+lang: en
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-lajnah Al-Da'imah no. 11296-2
+summary: Some scholars defined Taqlid as following a person's religious view without
+  knowing the evidence upon which it is based. Some other scholars said that Taqlid
+  means the acceptance of a person's religious view with no evidence.
+title: Meaning and types of Taqlid and the ruling on each type
 ---
 
 Question:

@@ -1,16 +1,18 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Ruling on looking at naked men and women when a person having ablution"
 date: 2019-09-01
-hijri: "Muharram 02, 1441 AH"
-source: "Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 6541"
-category: [taharah, ablution]
-summary: "Does looking at naked men and women or at one's own `Awrah (parts of the body that must be covered in public) invalidate Wudu’ (ablution)?"
-tags: [alifta]
-lang: en
-translation: false
 group1: true
+hijri: Muharram 02, 1441 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 6541
+summary: Does looking at naked men and women or at one's own `Awrah (parts of the
+  body that must be covered in public) invalidate Wudu’ (ablution)?
+tags:
+- alifta
+title: Ruling on looking at naked men and women when a person having ablution
+translation: false
 ---
 
 ### Question : 

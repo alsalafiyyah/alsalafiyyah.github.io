@@ -1,15 +1,15 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "The ruling on selling cats, monkeys and dogs"
-hijri: "Rabiul Awwal 20, 1446"
-lang: en
-locale: en
 date: 2024-09-23
-category: [fatwas,animals]
-source: "Fatawa al-Lajnah ad-Da'imah 13/37, Fatwa no.18564‏"
-summary: "It is not permissible to sell cats, monkeys and dogs, and other carnivores that have fangs, because the Prophet ﷺ forbade that and denounced it."
 group13: true
+hijri: Rabiul Awwal 20, 1446
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa al-Lajnah ad-Da'imah 13/37, Fatwa no.18564‏
+summary: It is not permissible to sell cats, monkeys and dogs, and other carnivores
+  that have fangs, because the Prophet ﷺ forbade that and denounced it.
+title: The ruling on selling cats, monkeys and dogs
 ---
 
 ### Question: 

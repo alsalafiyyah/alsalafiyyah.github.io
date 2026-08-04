@@ -1,14 +1,17 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "The Hadith: 'Allah curses the person who offers a sacrifice to anyone other than Allah'"
+group1: true
 hijri: Muharram 27, 1442 AH
 lang: en
-locale: en
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 5276, Question 11"
-summary: "What is meant by this Hadith is the prohibition of offering sacrifices to the dead prophets or pious people, seeking their blessing; or offering sacrifices to the Jinn, so as to please them and in return seek fulfillment of demands or to ward off their evil."
-category: [fatwas,shirk,udhiyah]
-group1: true
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 5276, Question 11
+summary: What is meant by this Hadith is the prohibition of offering sacrifices to
+  the dead prophets or pious people, seeking their blessing; or offering sacrifices
+  to the Jinn, so as to please them and in return seek fulfillment of demands or to
+  ward off their evil.
+title: 'The Hadith: ''Allah curses the person who offers a sacrifice to anyone other
+  than Allah'''
 ---
 
 ### Question:

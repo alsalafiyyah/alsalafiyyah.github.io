@@ -1,18 +1,22 @@
 ---
-layout: post
-title: "Why are the Sufis interested in pronouncing the name of Allah rather than referring to His Attributes"
-publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa Shaykh Ibn Baz 8"
-category: ["sects", sufism]
-tags: [ibn-baz]
-hijri: "Dhul-Qa'dah 20, 1441"
-translation: false
+hijri: Dhul-Qa'dah 20, 1441
 lang: en
-summary: "This is verily an act of Bid'ah (innovation in religion) and people should not adhere to this, for it had not been reported from the Prophet (peace be upon him) or any of his Companions (may Allah be pleased with them)."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+publisher: alsalafiyyah@icloud.com
+source: Majmu' Fatawa Shaykh Ibn Baz 8
+summary: This is verily an act of Bid'ah (innovation in religion) and people should
+  not adhere to this, for it had not been reported from the Prophet (peace be upon
+  him) or any of his Companions (may Allah be pleased with them).
+tags:
+- ibn-baz
+title: Why are the Sufis interested in pronouncing the name of Allah rather than referring
+  to His Attributes
+translation: false
 ---
 
 ### Question: 

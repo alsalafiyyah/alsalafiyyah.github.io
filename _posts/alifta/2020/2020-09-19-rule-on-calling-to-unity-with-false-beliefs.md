@@ -1,24 +1,28 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Ruling on the call to rapprochement between religions"
-hijri: "Safar 02, 1442"
 date: 2020-09-19
-category: [fatwas, sects]
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 7807, Question 2"
-summary: "Druze, Nusayriyyah, Ismailiyyah and those who follow them such as Babists and Baha'is have manipulated the religious texts; legislated for themselves what Allah has not permitted for them; and imitated the Jews and the Christians in their distortions"
+hijri: Safar 02, 1442
+lang: en
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 7807, Question 2
+summary: Druze, Nusayriyyah, Ismailiyyah and those who follow them such as Babists
+  and Baha'is have manipulated the religious texts; legislated for themselves what
+  Allah has not permitted for them; and imitated the Jews and the Christians in their
+  distortions
+title: Ruling on the call to rapprochement between religions
 ---
 
 ### Question:

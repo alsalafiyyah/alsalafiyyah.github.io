@@ -1,20 +1,19 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "The ruling on one who say that The Prophet ﷺ betrayed the trust"
-hijri: "Safar 29, 1446"
-source: "p.128"
-lang: en
-locale: en
 date: 2024-09-02
-category: [fatwas, prophets, sects]
-note: false
-summary: "There is no doubt in the unbelief of the one who says this; rather this is the severest of unbelief."
-translated_by: "Abu Maryam Tariq bin 'Ali"
+hijri: Safar 29, 1446
+lang: en
+layout: post
+mass_edited: true
 muftis:
-  shaykh: 
-    - name: Shaykh Ahmad Ibn Yahya an-Najmi
-      url: /biography/ahmad-alnajmi/
+  shaykh:
+  - name: Shaykh Ahmad Ibn Yahya an-Najmi
+    url: /biography/ahmad-alnajmi/
+publisher: alsalafiyyah@icloud.com
+source: p.128
+summary: There is no doubt in the unbelief of the one who says this; rather this is
+  the severest of unbelief.
+title: The ruling on one who say that The Prophet ﷺ betrayed the trust
+translated_by: Abu Maryam Tariq bin 'Ali
 ---
 
 ### Question:

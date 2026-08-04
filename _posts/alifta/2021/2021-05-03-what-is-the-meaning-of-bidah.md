@@ -1,25 +1,29 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "What is the meaning of Bid'ah?"
 hijri: Ramadan 21, 1442 AH
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 17522-1"
-category: [bidah, terminology]
-translation: false
 lang: en
-tags: [alifta]
-summary: "What is the meaning of Bid'ah? We want you to define this term clearly. Indeed, there are some people who say that everything that was not practiced during the lifetime of the Prophet (peace be upon him) and his Sahabah (Companions of the Prophet) is a Bid'ah."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  members: 
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-    - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/zayd/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+  members:
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/zayd/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 17522-1
+summary: What is the meaning of Bid'ah? We want you to define this term clearly. Indeed,
+  there are some people who say that everything that was not practiced during the
+  lifetime of the Prophet (peace be upon him) and his Sahabah (Companions of the Prophet)
+  is a Bid'ah.
+tags:
+- alifta
+title: What is the meaning of Bid'ah?
+translation: false
 ---
 
 ### Question: 

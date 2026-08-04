@@ -1,27 +1,30 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Preserving the Qur'an against distortion"
 date: 2025-07-29
-hijri: "Safar 4, 1447 AH"
-source: "Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 6137"
-category: [quran]
-summary: "The Qur’an is Allah’s Words which Gabriel (peace be upon him) received from Allah and recited to Muhammad (peace be upon him), who in turn listened and learned it carefully from Gabriel exactly as spoken by Allah."
-tags: [alifta]
+hijri: Safar 4, 1447 AH
 lang: en
-translation: false
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 6137
+summary: The Qur’an is Allah’s Words which Gabriel (peace be upon him) received from
+  Allah and recited to Muhammad (peace be upon him), who in turn listened and learned
+  it carefully from Gabriel exactly as spoken by Allah.
+tags:
+- alifta
+title: Preserving the Qur'an against distortion
+translation: false
 ---
 
 ### Question

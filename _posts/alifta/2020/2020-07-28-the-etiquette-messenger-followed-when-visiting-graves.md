@@ -1,15 +1,15 @@
 ---
-layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "The etiquette the Messenger followed when visiting graves"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 315"
-category: [fatwas,tawassul]
-hijri: Dhul-Hijjah 7, 1441
 date: 2020-07-28
-locale: en
-lang: en
 group4: true
-summary: "The dead people should not be asked or sought as intercessors as this is one of the avenues that lead to Shirk or polytheism."
+hijri: Dhul-Hijjah 7, 1441
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 315
+summary: The dead people should not be asked or sought as intercessors as this is
+  one of the avenues that lead to Shirk or polytheism.
+title: The etiquette the Messenger followed when visiting graves
 ---
 
 ### Question: 
@@ -71,5 +71,3 @@ May Allah grant us success. May peace and blessings be upon our Prophet Muhammad
 [^8]: Muslim, Sahih [Sharh Al-Nawawy], vol. 2, pp. 21-22), and Abu Dawud, vol. 1, p. 677; Al-Tirmidhy, vol. 4, p. 407; Al-Nasa'i, vol. 8, p. 111; Ibn Majah, vol. 2, p. 230; and 'Abd ibn Humayd, Al-Muntakhab, vol. 2, p. 72.
 [^9]: Ahmad, vol. 6, p. 36; Al-Bukhari, vol. 7, pp. 233-234; Abu Dawud, vol. 3, p. 593; and Al-Tirmidhy, vol. 4, p. 104; Al-Nasa'i, vol. 7, p. 17; Ibn Majah, vol. 1, p. 687; Al-Darimy, vol. 2, p. 184; and Al-Tahawy, Sharh Ma`any Al-Athar, vol. 3, p. 133.
 [^10]: Abu Dawud, vol. 3, p. 607; and Al-Bayhaqy, Sunan, vol. 10, p. 83.
-
-

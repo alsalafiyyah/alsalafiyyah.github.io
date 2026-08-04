@@ -1,24 +1,27 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Ruling on Mirghaniyyah or Khatmiyyah Sufi order"
-hijri: "Safar 27, 1442"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 10578, Question 1"
+hijri: Safar 27, 1442
 lang: en
-category: [sects, sufism]
-tags: [alifta]
-translation: false
-summary: "I am a monotheist but my household follow Al-Mirghaniyyah Tariqah (Sufi order) which is known here in Sudan as Al-Khatmiyyah. Since I was guided to monotheism, I started calling my family to follow it but they refuse, as I am the youngest son."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 10578, Question 1
+summary: I am a monotheist but my household follow Al-Mirghaniyyah Tariqah (Sufi order)
+  which is known here in Sudan as Al-Khatmiyyah. Since I was guided to monotheism,
+  I started calling my family to follow it but they refuse, as I am the youngest son.
+tags:
+- alifta
+title: Ruling on Mirghaniyyah or Khatmiyyah Sufi order
+translation: false
 ---
 
 ### Question:

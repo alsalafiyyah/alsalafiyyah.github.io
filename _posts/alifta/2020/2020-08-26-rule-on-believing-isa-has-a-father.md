@@ -1,15 +1,15 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com, salafiyyah@outlook.sa
-title: Ruling on believing that Jesus has a father
-source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 1883, Question 1
-hijri: Muharram 7, 1442
 date: 2020/08/26
 group1: true
-locale: en
+hijri: Muharram 7, 1442
 lang: en
-category: [prophets,fatwas]
-summary: They are either accusing Maryam of Zina, as the Jews did, or claiming that Jesus is the son of Allah, as the Christians do.
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com, salafiyyah@outlook.sa
+source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 1883, Question 1
+summary: They are either accusing Maryam of Zina, as the Jews did, or claiming that
+  Jesus is the son of Allah, as the Christians do.
+title: Ruling on believing that Jesus has a father
 ---
 
 ### Question:

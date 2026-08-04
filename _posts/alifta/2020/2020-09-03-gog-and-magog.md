@@ -1,26 +1,25 @@
 ---
-layout: post
-title: "Gog and Magog"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 18645, Question 1"
-category: [fatwas,doomsday]
 hijri: Muharram 15, 1442 AH
 lang: en
-locale: en
-note: true
-summary: "Ya'juj and Ma'juj are two great nations from the descendents of Prophet Adam. At the end of time, they will emerge and will cause mischief."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 18645, Question 1
+summary: Ya'juj and Ma'juj are two great nations from the descendents of Prophet Adam.
+  At the end of time, they will emerge and will cause mischief.
+title: Gog and Magog
 ---
 
 ### Question: 
@@ -36,4 +35,3 @@ It was authentically reported on the authority of Abu Sa'id Al-Khudry (may Allah
 ---
 
 [^1]: Al-Bukhari, Sahih, Book on Tawhid, no. 7483; Muslim, Sahih, Book on faith, no. 222; and Ahmad, Musnad, vol. 3, p. 33.
-

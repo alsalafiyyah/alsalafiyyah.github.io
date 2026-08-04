@@ -1,3 +1,8 @@
+---
+lang: en
+mass_edited: true
+---
+
 ﻿---
 layout: post
 title: "Ruling on denying the Hadiths of the Messenger (peace be upon him)"

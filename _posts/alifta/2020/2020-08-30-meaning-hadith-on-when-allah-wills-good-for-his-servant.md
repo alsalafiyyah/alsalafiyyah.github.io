@@ -1,23 +1,24 @@
 ---
-layout: post
-title: "The Hadith: 'When Allah wills good for His servant, He uses him'"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 14535-2"
-hijri: Muharram 11, 1442 AH
 date: 2020/08/30
+hijri: Muharram 11, 1442 AH
 lang: en
-category: ["tafsir", hadiths]
-summary: "What is the meaning of the following Hadith: 'When Allah wills good for His servant, He uses him.'"
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah no. 14535-2
+summary: 'What is the meaning of the following Hadith: ''When Allah wills good for
+  His servant, He uses him.'''
+title: 'The Hadith: ''When Allah wills good for His servant, He uses him'''
 ---
 
 Question: 

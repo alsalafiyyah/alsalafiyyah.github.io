@@ -1,18 +1,19 @@
 ---
-layout: post
-title: "If some person finds a sum of money but none asks about it"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 16482"
-hijri: Muharram 11, 1442 AH
 date: 2020/08/30
-category: [luqatah]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Salih Fawzan
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Bakr Abu Zayd
- - Shaykh Abdullah ibn Ghudayyan
+hijri: Muharram 11, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+shaykhs:
+- Shaykh Abdul-Aziz ibn Baz
+- Shaykh Abdul-Razzaq al-Afify
+- Shaykh Salih Fawzan
+- Shaykh Abdul-Aziz Aal al-Shaykh
+- Shaykh Bakr Abu Zayd
+- Shaykh Abdullah ibn Ghudayyan
+source: Fatawa Al-Lajnah Ad-Da'imah no. 16482
+title: If some person finds a sum of money but none asks about it
 ---
 
 Question: 

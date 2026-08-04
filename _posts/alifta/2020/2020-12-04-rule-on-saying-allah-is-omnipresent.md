@@ -1,29 +1,29 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Ruling on saying Allah is Omnipresent"
-hijri: "Rabi' Al-Thani 19, 1442"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 16376-1"
+hijri: Rabi' Al-Thani 19, 1442
 lang: en
-category: [fatwas,sects]
-note: true
-summary: "The foregoing is a false saying and it is tantamount to Kufr (disbelief) in Allah (Glorified and Exalted be He)."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah no. 16376-1
+summary: The foregoing is a false saying and it is tantamount to Kufr (disbelief)
+  in Allah (Glorified and Exalted be He).
+title: Ruling on saying Allah is Omnipresent
 ---
 
 ### Question:

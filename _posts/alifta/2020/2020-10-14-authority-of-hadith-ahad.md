@@ -1,24 +1,25 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "The authority of Hadith-ul-Ahad"
 hijri: Safar 27, 1442 AH
-source: "Fatawa Al-lajnah Al-Da'imah of KSA no. 9377-1"
-lang: en
-category: [hadiths,fatwas]
-note: true
 key: quranism, sects, hadith, hadiths, sunnah, islam, disbeliever
-summary: "What about a person who denies the punishment in the grave, because the reports in this regard are Hadith-ul-Ahad (Hadiths which at some point in the chain have only a single narrator) which -they hold- can never be taken as basis for beliefs?"
+lang: en
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-lajnah Al-Da'imah of KSA no. 9377-1
+summary: What about a person who denies the punishment in the grave, because the reports
+  in this regard are Hadith-ul-Ahad (Hadiths which at some point in the chain have
+  only a single narrator) which -they hold- can never be taken as basis for beliefs?
+title: The authority of Hadith-ul-Ahad
 ---
 
 ### Question:

@@ -1,16 +1,16 @@
 ---
-layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "What is the way to attain Taqwa?"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no.10530, Question 1"
-category: [fatwas]
-hijri: Muharram 15, 1442
 date: 2020-09-03
 group6: true
-note: true
-locale: en
+hijri: Muharram 15, 1442
 lang: en
-summary: "Observing Taqwa entails obeying all that Allah has ordered and abstaining from all that He has forbidden. Thus, a Muslim should abide by the actions and sayings which Muslims are ordered to follow and abstain from prohibited deeds and sayings."
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no.10530, Question 1
+summary: Observing Taqwa entails obeying all that Allah has ordered and abstaining
+  from all that He has forbidden. Thus, a Muslim should abide by the actions and sayings
+  which Muslims are ordered to follow and abstain from prohibited deeds and sayings.
+title: What is the way to attain Taqwa?
 ---
 
 ### Question: 

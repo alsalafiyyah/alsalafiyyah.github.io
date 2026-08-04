@@ -1,21 +1,23 @@
 ---
-layout: post
-title: "Ruling on attending mushrik weddings"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 21587, Question 5"
-category: [walabara,bidah]
 hijri: Dhul-Hijjah 5, 1441
 lang: en
-summary: "It is not permissible to share in their (Disbelievers) occasions, which involve Shirk (associating others with Allah in His Divinity or worship) or Bid'ah (innovation in Islam)."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz bin Abdullah Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  chairman:
+  - name: Shaykh Abdul-Aziz bin Abdullah Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 21587, Question 5
+summary: It is not permissible to share in their (Disbelievers) occasions, which involve
+  Shirk (associating others with Allah in His Divinity or worship) or Bid'ah (innovation
+  in Islam).
+title: Ruling on attending mushrik weddings
 ---
 
 ### Question: 

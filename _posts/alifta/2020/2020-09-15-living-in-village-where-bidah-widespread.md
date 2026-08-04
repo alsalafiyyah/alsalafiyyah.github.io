@@ -1,25 +1,25 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Living in a village where there are Bid'ahs"
 hijri: Muharram 27, 1442 AH
 lang: en
-locale: en
-source: "Fatwas of the Permanent Committee, Fatwa no. 12927"
-category: [fatwas,hijrah,bidah]
-summary: "If you cannot find a suitable job in your town, you think that the people there will most probably reject your advice, or you fear that they might tempt you or your children with their Bidahs, there will be no sin on you"
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afify
-      url: /biography/afifi/
+  - name: Shaykh Abdul-Razzaq Al-Afify
+    url: /biography/afifi/
   members:
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatwas of the Permanent Committee, Fatwa no. 12927
+summary: If you cannot find a suitable job in your town, you think that the people
+  there will most probably reject your advice, or you fear that they might tempt you
+  or your children with their Bidahs, there will be no sin on you
+title: Living in a village where there are Bid'ahs
 ---
-
 
 ### Question:
 

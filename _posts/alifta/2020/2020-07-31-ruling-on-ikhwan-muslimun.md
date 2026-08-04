@@ -1,26 +1,26 @@
 ---
-layout: post
-title: "The ruling on Al-Ikhwan-ul-Muslimun (the Muslim Brotherhood) group"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Daimah no. 9018-1"
-category: [sects]
 hijri: Dhul-Hijjah 11, 1441
 lang: en
-note: true
-locale: en
-summary: "The method which should be followed is the Qur'an and the Sunnah. A person should seek the help of Allah (Exalted be He), then the views of the Salaf (righteous predecessors) in order to understand them."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Daimah no. 9018-1
+summary: The method which should be followed is the Qur'an and the Sunnah. A person
+  should seek the help of Allah (Exalted be He), then the views of the Salaf (righteous
+  predecessors) in order to understand them.
+title: The ruling on Al-Ikhwan-ul-Muslimun (the Muslim Brotherhood) group
 ---
 
 Question: 

@@ -1,22 +1,22 @@
 ---
-layout: post
-title: "Making up for missed Salah due to unconsciousness or sickness"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 2259"
-hijri: Muharram 9, 1442
 date: 2020/08/28
-note: true
-locale: en
+hijri: Muharram 9, 1442
 lang: en
-category: [fatwas,salah]
-summary: "If he was conscious during the period when he abandoned Salah, he should make up for the missed Salahs according to his ability, whether standing, sitting, or lying on his side or back."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 2259
+summary: If he was conscious during the period when he abandoned Salah, he should
+  make up for the missed Salahs according to his ability, whether standing, sitting,
+  or lying on his side or back.
+title: Making up for missed Salah due to unconsciousness or sickness
 ---
 
 ### Question: 

@@ -1,16 +1,17 @@
 ---
-layout: post
-title: "Ruling on attributing the Laqit to its adopter"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 122"
-hijri: Muharram 12, 1442 AH
 date: 2020/08/31
-category: [foundling]
-shaykhs: 
- - Shaykh Ibrahim ibn Muhammad Aal Al-Shaykh
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Sulaiman ibn Mani'
+hijri: Muharram 12, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+shaykhs:
+- Shaykh Ibrahim ibn Muhammad Aal Al-Shaykh
+- Shaykh Abdul-Razzaq al-Afify
+- Shaykh Abdullah ibn Ghudayyan
+- Shaykh Abdullah ibn Sulaiman ibn Mani'
+source: Fatawa Al-Lajnah Ad-Da'imah no. 122
+title: Ruling on attributing the Laqit to its adopter
 ---
 
 Question: 

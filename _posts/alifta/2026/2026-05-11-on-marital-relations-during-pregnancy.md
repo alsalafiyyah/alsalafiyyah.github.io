@@ -1,20 +1,23 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "On Marital Relations During Pregnancy"
-hijri: "Dhu al-Qidah 24, 1447 AH"
-date: 2026-05-11
-source: "Fatawa al-Lajnah ad-Da'imah 19/353, Fatwa no.18371, Question 2"
-category: [women]
-tags: [alifta]
-lang: en
-translation: false
-summary: "Sexual intercourse during pregnancy is permissible provided it does not cause harm to the pregnancy. Rather, prohibition is strictly applied to intercourse during menstruation."
-article_taken_from: 
+article_taken_from:
   taken_from:
-    - web_title: "حكم جماع الحامل"
-      web_url: "https://fatawapedia.com/حكم-جماع-الحامل-22870"
+  - web_title: حكم جماع الحامل
+    web_url: https://fatawapedia.com/حكم-جماع-الحامل-22870
+date: 2026-05-11
 group2: true
+hijri: Dhu al-Qidah 24, 1447 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa al-Lajnah ad-Da'imah 19/353, Fatwa no.18371, Question 2
+summary: Sexual intercourse during pregnancy is permissible provided it does not cause
+  harm to the pregnancy. Rather, prohibition is strictly applied to intercourse during
+  menstruation.
+tags:
+- alifta
+title: On Marital Relations During Pregnancy
+translation: false
 ---
 
 ### Question: 

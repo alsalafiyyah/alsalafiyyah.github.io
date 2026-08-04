@@ -1,24 +1,27 @@
 ---
-layout: post
-title: "Stipulating the payment of usurious interests upon delay in repaying the financial card"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 7425, Question 1"
 hijri: Muharram 12, 1442 AH
 lang: en
-category: [transaction,riba]
-summary: "Is it permissible to deal with this card taking into account that a person can avoid dealing with Riba (usury/interest) if they pay the bill during the twenty five days grace period?"
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 7425, Question 1
+summary: Is it permissible to deal with this card taking into account that a person
+  can avoid dealing with Riba (usury/interest) if they pay the bill during the twenty
+  five days grace period?
+title: Stipulating the payment of usurious interests upon delay in repaying the financial
+  card
 ---
 
 Question:

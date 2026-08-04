@@ -1,15 +1,16 @@
 ---
-layout: post
-title: "Comparison between masturbation and looking at women"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 6412-3"
-hijri: Muharram 10, 1442 AH
 date: 2020/08/29
-category: [masturbation]
-shaykhs: 
- - Shaykh Abdul-'Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Qa'ud
+hijri: Muharram 10, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+shaykhs:
+- Shaykh Abdul-'Aziz ibn Baz
+- Shaykh Abdul-Razzaq al-Afify
+- Shaykh Abdullah ibn Qa'ud
+source: Fatawa Al-Lajnah Ad-Da'imah no. 6412-3
+title: Comparison between masturbation and looking at women
 ---
 
 Question: 
@@ -24,4 +25,3 @@ May Allah grant us success. May peace and blessings be upon our Prophet Muhammad
 
 ---
 [^1]: Al-Bukhari, Sahih, Book on fasting, no. 1905; Muslim, Sahih, Book on marriage, no. 1400; Al-Tirmidhi, Sunan, Book on marriage, no. 1081; Al-Nasa'i, Sunan, Book on fasting, no. 2239; Abu Dawud, Sunan, Book on marriage, no. 2046; Ibn Majah, Sunan, Book on marriage, no. 1845; Ahmad, Musnad, vol. 1, p. 424; and Al-Darimi, Sunan, Book on marriage, no. 2166.
-

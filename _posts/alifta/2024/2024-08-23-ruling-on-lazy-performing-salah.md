@@ -1,20 +1,19 @@
 ---
+date: 2024-08-23
+hijri: Safar 19, 1446 AH
+lang: en
 layout: post
+mass_edited: true
+muftis:
+  shaykh:
+  - name: Shaykh Ibn 'Uthaymeen
+    url: /biography/uthaymeen
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on lazy performing prayers"
-hijri: Safar 19, 1446 AH
-date: 2024-08-23
-source: "Fatawa Islamiyah 3/245-246"
-lang: en
-locale: en
-category: [fatwas,salah,fasting]
-note: false
-summary: "These people who fast and do not pray, their fast is not accepted. Rather, it is rejected as long as we say that they are disbelievers."
-muftis:
-  shaykh: 
-    - name: Shaykh Ibn 'Uthaymeen
-      url: /biography/uthaymeen
+source: Fatawa Islamiyah 3/245-246
+summary: These people who fast and do not pray, their fast is not accepted. Rather,
+  it is rejected as long as we say that they are disbelievers.
+title: Ruling on lazy performing prayers
 ---
 
 ### Question: 

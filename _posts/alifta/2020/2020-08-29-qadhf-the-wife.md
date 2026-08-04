@@ -1,22 +1,23 @@
 ---
-layout: post
-title: "Qadhf of the wife"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 302"
 hijri: Muharram 10, 1442 AH
 lang: en
-note: true
-category: [marriage]
-summary: "This word is one of the clear words of Qadhf (falsely accusing a chaste person of involvement in prohibited sexual relations). Claiming that it was said unintentionally has nothing to do with its effect."
+layout: post
+mass_edited: true
 muftis:
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah Ibn Mani'
-      url: /biography/mani/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah Ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah Ibn Mani'
+    url: /biography/mani/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah no. 302
+summary: This word is one of the clear words of Qadhf (falsely accusing a chaste person
+  of involvement in prohibited sexual relations). Claiming that it was said unintentionally
+  has nothing to do with its effect.
+title: Qadhf of the wife
 ---
 
 Question: 

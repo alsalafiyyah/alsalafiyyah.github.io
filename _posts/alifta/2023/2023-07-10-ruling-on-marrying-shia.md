@@ -1,15 +1,18 @@
 ---
-layout: post
-title: "Ruling on a Muslim Marrying a Shi’i"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da’imah 2/264, Fatwa no.3008, Question 1"
-category: [sects, marriage, women]
-hijri: "Dhul-Hijjah 22, 1444"
-lang: en
-tags: [alifta]
-translation: false
-summary: "And do not marry Al-Mushrikat (idolatresses) till they believe (worship Allaah Alone). And indeed a slave woman who believes is better than a (free) Mushrikah (idolatress), even though she pleases you."
 group1: true
+hijri: Dhul-Hijjah 22, 1444
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da’imah 2/264, Fatwa no.3008, Question 1
+summary: And do not marry Al-Mushrikat (idolatresses) till they believe (worship Allaah
+  Alone). And indeed a slave woman who believes is better than a (free) Mushrikah
+  (idolatress), even though she pleases you.
+tags:
+- alifta
+title: Ruling on a Muslim Marrying a Shi’i
+translation: false
 ---
 
 ### Question: 

@@ -1,15 +1,19 @@
 ---
-layout: post
-title: "Ruling on marrying from those who invoke Al-Hasan, Al-Husayn and 'Ali apart from Allah"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 3008, Question 1"
-category: [sects]
-hijri: "Dhul-Hijjah 7, 1441"
-lang: en
-translation: false
-tags: [alifta]
-summary: "It is not permissible to allow them to marry Muslim women, and it is not permissible for us to marry their women, or to eat the meat of their sacrificed animals. "
 group1: true
+hijri: Dhul-Hijjah 7, 1441
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 3008, Question 1
+summary: 'It is not permissible to allow them to marry Muslim women, and it is not
+  permissible for us to marry their women, or to eat the meat of their sacrificed
+  animals. '
+tags:
+- alifta
+title: Ruling on marrying from those who invoke Al-Hasan, Al-Husayn and 'Ali apart
+  from Allah
+translation: false
 ---
 
 ### Question: 
@@ -23,4 +27,3 @@ Some people from our tribe have intermarried with them and mix with them in all 
 If the situation is as you have mentioned, and those people invoke 'Ali, Al-Hasan and Al-Husayn, and the like, then they are committing major Shirk (associating others with Allah in His Divinity or worship), which takes them out of Islam. It is not permissible to allow them to marry Muslim women, and it is not permissible for us to marry their women, or to eat the meat of their sacrificed animals. 
 
 Allah (Exalted be He) says: "And do not marry Al-Mushrikât (idolatresses, etc.) till they believe (worship Allâh Alone). And indeed a slave woman who believes is better than a (free) Mushrikah (idolatress), even though she pleases you. And give not (your daughters) in marriage to Al-Mushrikûn till they believe (in Allâh Alone) and verily, a believing slave is better than a (free) Mushrik (idolater), even though he pleases you. Those (Al-Mushrikûn) invite you to the Fire, but Allâh invites (you) to Paradise and Forgiveness by His Leave, and makes His Ayât (proofs, evidence, verses, lessons, signs, revelations, etc.) clear to mankind that they may remember." [al-Baqarah: 221]
-

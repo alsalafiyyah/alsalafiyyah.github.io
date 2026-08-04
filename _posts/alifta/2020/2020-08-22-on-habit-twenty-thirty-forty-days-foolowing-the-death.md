@@ -1,16 +1,18 @@
 ---
-layout: post
-title: "On a habit dated to occur twenty, thirty or forty days after the time of death"
-publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
-source: "Fatawa Al-Lajnah Ad-Daimah no. 14247 Question2 "
-hijri: Muharram 3, 1442
 date: 2020/08/22
-category: [funerals,fatwas,bidah]
-summary: We have a custom that whenever any distress like an accident or death befalls a person or any of his family.
-shaykhs: 
- - Shaykh Ibn Baz
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdul-Razzaq al-Afify
+hijri: Muharram 3, 1442
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com, salafiyyah@outlook.sa
+shaykhs:
+- Shaykh Ibn Baz
+- Shaykh Abdullah ibn Ghudayyan
+- Shaykh Abdul-Razzaq al-Afify
+source: 'Fatawa Al-Lajnah Ad-Daimah no. 14247 Question2 '
+summary: We have a custom that whenever any distress like an accident or death befalls
+  a person or any of his family.
+title: On a habit dated to occur twenty, thirty or forty days after the time of death
 ---
 
 ### Question: 

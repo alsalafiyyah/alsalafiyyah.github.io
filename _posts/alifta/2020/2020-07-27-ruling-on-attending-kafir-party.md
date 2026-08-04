@@ -1,26 +1,27 @@
 ---
-layout: post
-title: "Ruling on attending the parties of a related unbeliever"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 20188"
-category: [fatwas,walabara]
 hijri: Dhul-Hijjah 6, 1441
-locale: en
 lang: en
-note: true
-summary: "It is not permissible for a Muslim to have Wala' (loyalty) to unbelievers, represented in this particular situation by attending the celebration of your brother-in-law's marriage and traveling with him for this purpose. The wedding celebrations and the like include some rites associated with Kufr (disbelief)."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz Ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah Ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah Ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah Ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 20188
+summary: It is not permissible for a Muslim to have Wala' (loyalty) to unbelievers,
+  represented in this particular situation by attending the celebration of your brother-in-law's
+  marriage and traveling with him for this purpose. The wedding celebrations and the
+  like include some rites associated with Kufr (disbelief).
+title: Ruling on attending the parties of a related unbeliever
 ---
 
 ### Question: 

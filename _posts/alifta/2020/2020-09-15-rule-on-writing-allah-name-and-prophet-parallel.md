@@ -1,23 +1,24 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Ruling on writing the Exalted Name 'Allah' and 'Muhammad' (peace be upon him) parallel on a paper, portraits, wall or the like"
 hijri: Muharram 27, 1442 AH
 lang: en
-source: Fatwas of the Permanent Committee no. 21801
-summary: "It is not permissible to write the Exalted Name 'Allah' and 'Muhammad' (peace be upon him) parallel to each other on a paper, portrait or a wall."
-category: [shirk, polytheism, prophets]
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
+  chairman:
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatwas of the Permanent Committee no. 21801
+summary: It is not permissible to write the Exalted Name 'Allah' and 'Muhammad' (peace
+  be upon him) parallel to each other on a paper, portrait or a wall.
+title: Ruling on writing the Exalted Name 'Allah' and 'Muhammad' (peace be upon him)
+  parallel on a paper, portraits, wall or the like
 ---
-
 
 Question:
 

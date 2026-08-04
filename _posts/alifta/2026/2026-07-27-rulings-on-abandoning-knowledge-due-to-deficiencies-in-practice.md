@@ -1,15 +1,17 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Rulings on Abandoning Knowledge Due to Deficiencies in Practice"
 date: 2026-07-27
-source: "Fatawa Al-Lajnah Al-Da’imah 12/96, Fatwa no. 17811"
-category: [knowledge,sects]
-tags: [alifta]
-lang: en
-translation: false
 group2: true
-summary: "Abandoning the pursuit of knowledge out of fear of falling short in implementation is a deception from Satan to mislead the children of Adam."
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da’imah 12/96, Fatwa no. 17811
+summary: Abandoning the pursuit of knowledge out of fear of falling short in implementation
+  is a deception from Satan to mislead the children of Adam.
+tags:
+- alifta
+title: Rulings on Abandoning Knowledge Due to Deficiencies in Practice
+translation: false
 ---
 
 ### Question:

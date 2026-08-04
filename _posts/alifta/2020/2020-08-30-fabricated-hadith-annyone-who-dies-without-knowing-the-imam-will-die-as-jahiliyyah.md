@@ -1,17 +1,19 @@
 ---
-layout: post
-title: "Fabricated Hadith: 'Anyone who dies without knowing the Imam of his time will die the death of one belonging to Jahiliyyah'"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 19867-1"
-hijri: Muharram 11, 1442 AH
 date: 2020/08/30
-category: [tafsir, hadiths, mawdu-daif]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Salih Fawzan
- - Shaykh Bakr Abu Zayd
+hijri: Muharram 11, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+shaykhs:
+- Shaykh Abdul-Aziz ibn Baz
+- Shaykh Abdul-Aziz Aal al-Shaykh
+- Shaykh Abdullah ibn Ghudayyan
+- Shaykh Salih Fawzan
+- Shaykh Bakr Abu Zayd
+source: Fatawa Al-Lajnah Ad-Da'imah no. 19867-1
+title: 'Fabricated Hadith: ''Anyone who dies without knowing the Imam of his time
+  will die the death of one belonging to Jahiliyyah'''
 ---
 
 Question: 

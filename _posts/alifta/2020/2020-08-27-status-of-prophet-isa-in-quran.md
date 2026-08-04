@@ -1,3 +1,8 @@
+---
+lang: en
+mass_edited: true
+---
+
 ﻿---
 layout: post
 title: "The status of Prophet 'Isa according to the Qur'an and Sunnah"

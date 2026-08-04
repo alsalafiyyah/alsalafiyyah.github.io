@@ -1,24 +1,25 @@
 ---
-layout: post
-title: "Ruling on the book entitled: 'Biography of Master Shaykh Ubayd Al-Sharif'"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 21547"
-category: [books, knowledge]
 hijri: Dhul-Hijjah 8, 1441 AH
 lang: en
-note: true
-summary: "It is impermissible to publish, print, obtain or promote this book (Al-Ta'rif bil-Shaykh Sayyidi by Al-Hadi Bashawat) as it calls to Shirk, Bid'ahs, superstitions and satanic practices."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
+  chairman:
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
   members:
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  - name: Shaykh Abdullah Ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA no. 21547
+summary: It is impermissible to publish, print, obtain or promote this book (Al-Ta'rif
+  bil-Shaykh Sayyidi by Al-Hadi Bashawat) as it calls to Shirk, Bid'ahs, superstitions
+  and satanic practices.
+title: 'Ruling on the book entitled: ''Biography of Master Shaykh Ubayd Al-Sharif'''
 ---
 
 Question: 

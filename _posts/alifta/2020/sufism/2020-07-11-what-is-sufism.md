@@ -1,15 +1,18 @@
 ---
-layout: post
-title: "What is Sufism"
-publisher: "alsalafiyyah@icloud.com"
-category: ["sects", sufism]
-tags: [alifta]
-source: "Fatwas of the Permanent Committee of KSA, Fatwa no. 17558, Question 2"
-hijri: "Dhul-Qa'dah 20, 1441"
-lang: en
-translation: false
-summary: "In general, Sufism as it exists at the present time refers to a misguided group, which adopts a Manhaj (methodology) in 'Ibadah (worship) that opposes the Sunnah."
 group13: true
+hijri: Dhul-Qa'dah 20, 1441
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatwas of the Permanent Committee of KSA, Fatwa no. 17558, Question 2
+summary: In general, Sufism as it exists at the present time refers to a misguided
+  group, which adopts a Manhaj (methodology) in 'Ibadah (worship) that opposes the
+  Sunnah.
+tags:
+- alifta
+title: What is Sufism
+translation: false
 ---
 
 ### Question: 

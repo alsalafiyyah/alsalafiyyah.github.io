@@ -1,23 +1,26 @@
 ---
+hijri: Muharram 19, 1442 AH
+lang: en
 layout: post
-title: "Hadith: 'Run away from the leper as you would run away from a lion'"
+mass_edited: true
+muftis:
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+  deputy_chairman:
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
 publisher: alsalafiyyah@icloud.com
 source: Fatawa Al-Lajnah Ad-Da'imah no. 6335
-hijri: Muharram 19, 1442 AH
-category: ["tafsir", hadiths]
-summary: "Dear Shaykh, kindly confirm the degree of authenticity or weakness of the Hadith reported from the Messenger of Allah (peace be upon him) which states, 'Run away from the leper as you would run away from a lion.'"
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+summary: Dear Shaykh, kindly confirm the degree of authenticity or weakness of the
+  Hadith reported from the Messenger of Allah (peace be upon him) which states, 'Run
+  away from the leper as you would run away from a lion.'
+title: 'Hadith: ''Run away from the leper as you would run away from a lion'''
 ---
 
 Question:

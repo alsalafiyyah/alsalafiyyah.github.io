@@ -1,21 +1,23 @@
 ---
-layout: post
-title: "The Hadith: 'Much laughter kills the heart'"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 20355-1"
 hijri: Muharram 11, 1442 AH
 lang: en
-category: ["tafsir", hadiths, mawdu-daif]
-summary: "Research and verification show that the phrase that you have mentioned in the question reading: 'May Allah be merciful to the one who knows his own limits' has no origin in any of the variant narrations."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  members: 
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+  members:
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah no. 20355-1
+summary: 'Research and verification show that the phrase that you have mentioned in
+  the question reading: ''May Allah be merciful to the one who knows his own limits''
+  has no origin in any of the variant narrations.'
+title: 'The Hadith: ''Much laughter kills the heart'''
 ---
 
 Question: 

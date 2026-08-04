@@ -1,15 +1,17 @@
 ---
-layout: post
-title: "Paying money instead of executing the Hadd"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 14445"
-hijri: "Muharram 10, 1442 AH"
-category: [rulership]
 group6: true
+hijri: Muharram 10, 1442 AH
 lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 14445
+summary: It is not permissible to substitute the Hudud that Allah decreed with monetary
+  fines; because the Hadud are Tawqifi and it is not permissible to change them.
+tags:
+- alifta
+title: Paying money instead of executing the Hadd
 translation: false
-tags: [alifta]
-summary: "It is not permissible to substitute the Hudud that Allah decreed with monetary fines; because the Hadud are Tawqifi and it is not permissible to change them."
 ---
 
 ### Question: 

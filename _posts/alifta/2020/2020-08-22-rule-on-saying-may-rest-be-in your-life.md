@@ -1,18 +1,21 @@
 ---
-layout: post
-title: "Ruling on offering condolences to the deceased's family to say: may rest be in your life"
-publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
-source: "Fatawa Al-Lajnah Ad-Daimah no. 16743, Question1"
-hijri: Muharram 3, 1442
-summary: Is it permissible to say to the family of the deceased May the rest be in your life? What is the Islamic ruling regarding this?
-category: [funerals, fatwas]
 date: 2020/08/22
-shaykhs: 
- - Shaykh Ibn Baz
- - Shaykh Abdul-Aziz Aal Al-Shaykh
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Salih Fawzan
- - Shaykh Bakr Abu Zayd
+hijri: Muharram 3, 1442
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com, salafiyyah@outlook.sa
+shaykhs:
+- Shaykh Ibn Baz
+- Shaykh Abdul-Aziz Aal Al-Shaykh
+- Shaykh Abdullah ibn Ghudayyan
+- Shaykh Salih Fawzan
+- Shaykh Bakr Abu Zayd
+source: Fatawa Al-Lajnah Ad-Daimah no. 16743, Question1
+summary: Is it permissible to say to the family of the deceased May the rest be in
+  your life? What is the Islamic ruling regarding this?
+title: 'Ruling on offering condolences to the deceased''s family to say: may rest
+  be in your life'
 ---
 
 ### Question: 

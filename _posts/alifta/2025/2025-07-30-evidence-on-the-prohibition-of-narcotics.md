@@ -1,26 +1,29 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Evidence on the prohibition of narcotics"
+author: Permanent Committee of KSA
 date: 2025-07-30
-hijri: "Safar 5, 1447 AH"
-source: "Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 5001, Question 3"
-category: [drugs]
-tags: [alifta]
+hijri: Safar 5, 1447 AH
 lang: en
-translation: false
-summary: "On the authority of Um Salamah (may Allah be pleased with her) who narrated that the Prophet (peace be upon him) forbade every intoxicant and everything which produces languidness."
-author: "Permanent Committee of KSA"
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-  members: 
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  members:
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 5001, Question 3
+summary: On the authority of Um Salamah (may Allah be pleased with her) who narrated
+  that the Prophet (peace be upon him) forbade every intoxicant and everything which
+  produces languidness.
+tags:
+- alifta
+title: Evidence on the prohibition of narcotics
+translation: false
 ---
 
 ### Question

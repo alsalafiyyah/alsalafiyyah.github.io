@@ -1,15 +1,16 @@
 ---
-layout: post
-title: "Repaying the debt of a deceased debtor to a deceased creditor"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 9341-1"
-hijri: Muharram 12, 1442 AH
 date: 2020/08/31
-category: [inheritance]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
+hijri: Muharram 12, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+shaykhs:
+- Shaykh Abdul-Aziz ibn Baz
+- Shaykh Abdul-Razzaq al-Afify
+- Shaykh Abdullah ibn Ghudayyan
+source: Fatawa Al-Lajnah Ad-Da'imah no. 9341-1
+title: Repaying the debt of a deceased debtor to a deceased creditor
 ---
 
 Question: 

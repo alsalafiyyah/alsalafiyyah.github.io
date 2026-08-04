@@ -1,18 +1,19 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: Concerning Demonstrations
-source: Fatawa Islamiyah, Vol. 8, No.87
-hijri: Muharram 19, 1446 AH
 date: 2024-07-25
-locale: en
+hijri: Muharram 19, 1446 AH
 lang: en
-summary: The concept of demonstrations is a new, modern issue. It was not known in the time of the Prophet, nor in the time of the rightly-guided Khalifahs, nor in the time of any of the Companions.
-category: [fatwas]
+layout: post
+mass_edited: true
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn 'Uthaymeen
-      url: /biography/uthaymeen
+  shaykh:
+  - name: Shaykh Ibn 'Uthaymeen
+    url: /biography/uthaymeen
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Islamiyah, Vol. 8, No.87
+summary: The concept of demonstrations is a new, modern issue. It was not known in
+  the time of the Prophet, nor in the time of the rightly-guided Khalifahs, nor in
+  the time of any of the Companions.
+title: Concerning Demonstrations
 ---
 
 ### Question:

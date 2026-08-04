@@ -1,26 +1,27 @@
 ---
-layout: post
-title: "Wishing to migrate to France where things are tough on Muslims"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 19581"
-category: [fatwas,walabara]
 hijri: Dhul-Hijjah 6, 1441
 lang: en
-note: true
-locale: en
-summary: "You should call to the path of Allah as much as you can. We ask Allah, the Benevolent, to grant you success and provide you with good wherever you are. Verily Allah is the One to be sought for achieving this and the only One Who is Able to do so."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 19581
+summary: You should call to the path of Allah as much as you can. We ask Allah, the
+  Benevolent, to grant you success and provide you with good wherever you are. Verily
+  Allah is the One to be sought for achieving this and the only One Who is Able to
+  do so.
+title: Wishing to migrate to France where things are tough on Muslims
 ---
 
 ### Question: 

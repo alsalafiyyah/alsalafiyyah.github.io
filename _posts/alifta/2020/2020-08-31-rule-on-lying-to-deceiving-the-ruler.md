@@ -1,24 +1,29 @@
 ---
-layout: post
-title: "Ruling on lying to and deceiving the ruler"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 9524"
-hijri: "Muharram 12, 1442 AH"
-category: [rulership]
-tags: [alifta]
+hijri: Muharram 12, 1442 AH
 lang: en
-translation: false
-summary: "If that is the status quo (in your country), then you are not allowed to do that, because it involves lying to and deceiving the authorities, and using trickery to violate the regulations which they set to maintain the flow of governmental work, which was entrusted to you to serve the nation, and guard public interest against self-interest."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 9524
+summary: If that is the status quo (in your country), then you are not allowed to
+  do that, because it involves lying to and deceiving the authorities, and using trickery
+  to violate the regulations which they set to maintain the flow of governmental work,
+  which was entrusted to you to serve the nation, and guard public interest against
+  self-interest.
+tags:
+- alifta
+title: Ruling on lying to and deceiving the ruler
+translation: false
 ---
 
 ### Question: 

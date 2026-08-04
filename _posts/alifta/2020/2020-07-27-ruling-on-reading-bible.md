@@ -1,28 +1,28 @@
 ---
-layout: post
-title: "Ruling on reading the Bible and swearing by it"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 15662, Question 2"
-category: [fatwas,walabara]
 hijri: Dhul-Hijjah 6, 1441
 lang: en
-locale: en
-note: true
-summary: "It is not permissible for a Muslim to read the Bible as it has almost entirely undergone interpolation. Even the parts of the Bible that have undergone no interpolation are needless as the Qur'an replaces them."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 15662, Question 2
+summary: It is not permissible for a Muslim to read the Bible as it has almost entirely
+  undergone interpolation. Even the parts of the Bible that have undergone no interpolation
+  are needless as the Qur'an replaces them.
+title: Ruling on reading the Bible and swearing by it
 ---
 
 ### Question: 

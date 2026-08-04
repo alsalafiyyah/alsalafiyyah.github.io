@@ -1,16 +1,19 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Deep sleep probably invalidates Ablution"
 date: 2019-09-01
-hijri: "Muharram 02, 1441 AH"
-source: "Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 3030, question 1"
-category: [taharah, ablution, salah]
-summary: "Some people may fall asleep while engaged in Dhikr (Remembrance of Allah) in the Masjid (mosque) using Misbahah (counting beads).Do they have to perform Wudu’ (ablution) before the next Salah (Prayer)?"
-tags: [alifta]
-lang: en
-translation: false
 group1: true
+hijri: Muharram 02, 1441 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 3030, question 1
+summary: Some people may fall asleep while engaged in Dhikr (Remembrance of Allah)
+  in the Masjid (mosque) using Misbahah (counting beads).Do they have to perform Wudu’
+  (ablution) before the next Salah (Prayer)?
+tags:
+- alifta
+title: Deep sleep probably invalidates Ablution
+translation: false
 ---
 
 ### Question : 

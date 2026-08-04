@@ -1,15 +1,18 @@
 ---
-layout: post
-title: "Was Buddha a Prophet?"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatwas of the Permanent Committee of KSA, Fatwa no. 21004"
-category: [non-muslim]
-tags: [alifta]
-hijri: "Dhul-Qa'dah 27, 1441 AH"
-lang: en
-translation: false
-summary: "Buddha was not a prophet; he was an atheist philosopher, who led an ascetic life of non-conformity with Divine Religion. Anyone who believes in his prophethood is a Kafir (disbeliever)."
 group17: true
+hijri: Dhul-Qa'dah 27, 1441 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatwas of the Permanent Committee of KSA, Fatwa no. 21004
+summary: Buddha was not a prophet; he was an atheist philosopher, who led an ascetic
+  life of non-conformity with Divine Religion. Anyone who believes in his prophethood
+  is a Kafir (disbeliever).
+tags:
+- alifta
+title: Was Buddha a Prophet?
+translation: false
 ---
 
 ### Question:

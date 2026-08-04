@@ -1,24 +1,24 @@
 ---
-layout: post
-title: "Ruling on making friendship with a Christian"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 80521, Question 4"
-category: [fatwas,walabara]
 hijri: Dhul-Hijjah 6, 1441
 lang: en
-locale: en
-note: true
-summary: "It is permissible for a Muslim to kindly treat disbelievers who are not in a state of war with Islam, reciprocate their good treatment, as well as exchange beneficial things and presents with them."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah Ibn Qa'ud
-      url: /biography/qaud/
+  chairman:
+  - name: Shaykh Abdul-Aziz Ibn Baz
+    url: /biography/binbaz/
+  deputy_chairman:
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah Ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 80521, Question 4
+summary: It is permissible for a Muslim to kindly treat disbelievers who are not in
+  a state of war with Islam, reciprocate their good treatment, as well as exchange
+  beneficial things and presents with them.
+title: Ruling on making friendship with a Christian
 ---
 
 ### Question: 

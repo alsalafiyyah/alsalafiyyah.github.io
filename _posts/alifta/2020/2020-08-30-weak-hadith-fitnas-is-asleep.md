@@ -1,17 +1,19 @@
 ---
-layout: post
-title: "Weak Hadiths: 'Fitnah is asleep. May Allah the Curse of Allah be upon the one who wakes it up' and 'Stay away from verdure growing in manure'"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 17867-3"
-hijri: Muharram 11, 1442 AH
 date: 2020/08/30
-category: [tafsir, hadiths, mawdu-daif]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Salih Fawzan
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Bakr Abu Zayd
+hijri: Muharram 11, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+shaykhs:
+- Shaykh Abdul-Aziz ibn Baz
+- Shaykh Abdul-Aziz Aal al-Shaykh
+- Shaykh Salih Fawzan
+- Shaykh Abdullah ibn Ghudayyan
+- Shaykh Bakr Abu Zayd
+source: Fatawa Al-Lajnah Ad-Da'imah no. 17867-3
+title: 'Weak Hadiths: ''Fitnah is asleep. May Allah the Curse of Allah be upon the
+  one who wakes it up'' and ''Stay away from verdure growing in manure'''
 ---
 
 Question: 

@@ -1,19 +1,18 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Are the Prophets also Messengers?"
-hijri: "Safar 29, 1446"
-source: "Majmu' Fatawa wa Rasa'il Vol.1/No.122"
-lang: en
-locale: en
 date: 2024-09-02
-category: [fatwas,prophets]
-note: false
-summary: "If Muhammad ﷺ was the last of the Prophets, then he (ﷺ) was also the last of the Messengers for there is no Messengership without Prophethood."
+hijri: Safar 29, 1446
+lang: en
+layout: post
+mass_edited: true
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn 'Uthaymeen
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn 'Uthaymeen
+    url: /biography/uthaymeen/
+publisher: alsalafiyyah@icloud.com
+source: Majmu' Fatawa wa Rasa'il Vol.1/No.122
+summary: If Muhammad ﷺ was the last of the Prophets, then he (ﷺ) was also the last
+  of the Messengers for there is no Messengership without Prophethood.
+title: Are the Prophets also Messengers?
 ---
 
 ### Question:

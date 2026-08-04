@@ -1,20 +1,22 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Every human is born in a state of natural disposition of monotheism"
-date: 2024-07-02
-hijri: "Dhul-Hijjah 26, 1445"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 18794 Question 1"
-category: [misc,hadiths]
-tags: [alifta]
-lang: en
-translation: false
-group2: true
-summary: "Every child is born in a state of divinely endowed natural disposition of monotheism/Islam, then his parents make him into a Jew or a Christian or a Magian."
-article_taken_from: 
+article_taken_from:
   taken_from:
-    - web_title: الإنسان يولد على فطرة التوحيد
-      web_url: https://al-fatawa.com/fatwa/105815
+  - web_title: الإنسان يولد على فطرة التوحيد
+    web_url: https://al-fatawa.com/fatwa/105815
+date: 2024-07-02
+group2: true
+hijri: Dhul-Hijjah 26, 1445
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 18794 Question 1
+summary: Every child is born in a state of divinely endowed natural disposition of
+  monotheism/Islam, then his parents make him into a Jew or a Christian or a Magian.
+tags:
+- alifta
+title: Every human is born in a state of natural disposition of monotheism
+translation: false
 ---
 
 ### Question: 

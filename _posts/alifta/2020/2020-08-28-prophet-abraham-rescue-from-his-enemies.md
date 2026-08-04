@@ -1,13 +1,17 @@
 ---
-layout: post
-title: "Prophet Ibrahim's (Abraham, peace be upon him) rescue from his enemies"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 7786"
-hijri: "Muharram 9, 1442 AH"
 date: 2020-08-28
-category: ["prophets", fatwas]
-summary: "What is intended here is to clarify that Ibrahim (peace be upon him) conveyed the message plainly, and established proof against the Kafirun (disbelievers), and that he was befallen by this great affliction and endured it all for the sake of Allah."
 group1: true
+hijri: Muharram 9, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah no. 7786
+summary: What is intended here is to clarify that Ibrahim (peace be upon him) conveyed
+  the message plainly, and established proof against the Kafirun (disbelievers), and
+  that he was befallen by this great affliction and endured it all for the sake of
+  Allah.
+title: Prophet Ibrahim's (Abraham, peace be upon him) rescue from his enemies
 ---
 
 ### Question: 

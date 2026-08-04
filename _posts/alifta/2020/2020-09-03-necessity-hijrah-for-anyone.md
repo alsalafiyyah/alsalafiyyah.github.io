@@ -1,25 +1,25 @@
 ---
-layout: post
-title: "Necessity of Hijrah for anyone who fears for his religion in his country"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 7485, Question 2"
 hijri: Muharram 14, 1442 AH
 lang: en
-locale: en
-category: [fatwas,hijrah]
-summary: "it is permissible for a Muslim to migrate from his homeland to another land where he feels secure about himself and his religion."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 7485, Question 2
+summary: it is permissible for a Muslim to migrate from his homeland to another land
+  where he feels secure about himself and his religion.
+title: Necessity of Hijrah for anyone who fears for his religion in his country
 ---
 
 ### Question:

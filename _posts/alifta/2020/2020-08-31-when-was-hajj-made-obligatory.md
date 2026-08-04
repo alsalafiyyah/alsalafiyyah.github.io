@@ -1,21 +1,23 @@
 ---
-layout: post
-title: When was Hajj made obligatory?
-publisher: alsalafiyyah@icloud.com
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 4624, Question 6"
-hijri: "Muharram 12, 1442"
 date: 2020-08-31
-category: [hajj,fatwas]
-summary: "Scholars have differed concerning the year in which Hajj was made obligatory. It was said that it was in the fifth year after Hijrah."
+hijri: Muharram 12, 1442
+lang: en
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz/
   members:
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 4624, Question 6
+summary: Scholars have differed concerning the year in which Hajj was made obligatory.
+  It was said that it was in the fifth year after Hijrah.
+title: When was Hajj made obligatory?
 ---
 
 ### Question:

@@ -1,15 +1,16 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: Adhering to the Sunnah and following the Salaf
-source: Fatawa al-Lajnah ad-Daimah no. 16250
-category: [manhaj]
-hijri: Dhul-Hijjah 4, 1441
 date: 2020-07-25
-note: true
 group7: true
+hijri: Dhul-Hijjah 4, 1441
 lang: en
-summary: The Muslim youth have to seek beneficial knowledge from trustworthy scholars & adhere to the Sunnah as well as belonging to the mainstream Muslims who are following the way of the Salaf and averting all suspicious and vague trends.
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa al-Lajnah ad-Daimah no. 16250
+summary: The Muslim youth have to seek beneficial knowledge from trustworthy scholars
+  & adhere to the Sunnah as well as belonging to the mainstream Muslims who are following
+  the way of the Salaf and averting all suspicious and vague trends.
+title: Adhering to the Sunnah and following the Salaf
 ---
 
 ### Question: 

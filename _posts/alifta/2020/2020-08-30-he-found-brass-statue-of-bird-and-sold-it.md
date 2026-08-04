@@ -1,17 +1,18 @@
 ---
-layout: post
-title: "He found a brass statue of a bird and sold it"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 16269"
-hijri: Muharram 11, 1442 AH
 date: 2020/08/30
-category: [luqatah]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Salih Fawzan
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Bakr Abu Zayd
+hijri: Muharram 11, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+shaykhs:
+- Shaykh Abdul-Aziz ibn Baz
+- Shaykh Abdul-Razzaq al-Afify
+- Shaykh Salih Fawzan
+- Shaykh Abdul-Aziz Aal al-Shaykh
+- Shaykh Bakr Abu Zayd
+source: Fatawa Al-Lajnah Ad-Da'imah no. 16269
+title: He found a brass statue of a bird and sold it
 ---
 
 Question: 

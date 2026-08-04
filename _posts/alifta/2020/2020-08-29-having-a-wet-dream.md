@@ -1,17 +1,18 @@
 ---
-layout: post
-title: "Is having a wet dream similar to masturbation?"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 18019"
-hijri: Muharram 10, 1442 AH
 date: 2020/08/29
-category: [masturbation]
-shaykhs: 
- - Shaykh Abdul-'Aziz ibn Baz
- - Shaykh Salih Fawzan
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdul-Aziz Aal al-Shayykh
- - Shaykh Bakr Abu Zayd
+hijri: Muharram 10, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+shaykhs:
+- Shaykh Abdul-'Aziz ibn Baz
+- Shaykh Salih Fawzan
+- Shaykh Abdullah ibn Ghudayyan
+- Shaykh Abdul-Aziz Aal al-Shayykh
+- Shaykh Bakr Abu Zayd
+source: Fatawa Al-Lajnah Ad-Da'imah no. 18019
+title: Is having a wet dream similar to masturbation?
 ---
 
 Question: 

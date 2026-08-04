@@ -1,21 +1,22 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "A poem attributed to Imam Abu Hanifah"
 hijri: Muharram 27, 1442 AH
 lang: en
-source: Fatwas of the Permanent Committee no. 21285
-summary: "This poem is a lie against Imam Abu Hanifah. It is, thus, not permissible to attribute it to him."
-category: [fatwas,tawassul]
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  chairman:
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatwas of the Permanent Committee no. 21285
+summary: This poem is a lie against Imam Abu Hanifah. It is, thus, not permissible
+  to attribute it to him.
+title: A poem attributed to Imam Abu Hanifah
 ---
 
 ### Question:

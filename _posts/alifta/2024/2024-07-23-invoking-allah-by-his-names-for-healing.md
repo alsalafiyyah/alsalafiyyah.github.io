@@ -1,20 +1,19 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: Ruling on invoking Allah by His Names for healing
-date: 2024-07-23
-hijri: Muharram 17, 1446
-source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.9120‏, Question 2
-category: [fatwas, treatments]
-note: true
-group1: true
-locale: en
-lang: en
-summary: It is permissible to do so due to the general saying of Allah 'And (all) the Most Beautiful Names belong to Allâh, so call on Him by them'.
-article_taken_from: 
+article_taken_from:
   taken_from:
-    - web_title: الدعاء بأسماء الله سبحانه لشفاء الأمراض
-      web_url: https://al-fatawa.com/fatwa/106361
+  - web_title: الدعاء بأسماء الله سبحانه لشفاء الأمراض
+    web_url: https://al-fatawa.com/fatwa/106361
+date: 2024-07-23
+group1: true
+hijri: Muharram 17, 1446
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.9120‏, Question 2
+summary: It is permissible to do so due to the general saying of Allah 'And (all)
+  the Most Beautiful Names belong to Allâh, so call on Him by them'.
+title: Ruling on invoking Allah by His Names for healing
 ---
 
 ### Question: 

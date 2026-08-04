@@ -1,15 +1,15 @@
 ---
-layout: post
-title: "Ruling on cleaning with cologne and alcohol"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no.3900, Question 2"
-hijri: Muharram 15, 1442
-summary: "There is no harm in using cologne with alcohol for medical purposes such as a disinfectant for injuries."
-lang: en
-locale: en
 date: 2020/09/3
-category: [treatments,fatwas]
 group1: true
+hijri: Muharram 15, 1442
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah no.3900, Question 2
+summary: There is no harm in using cologne with alcohol for medical purposes such
+  as a disinfectant for injuries.
+title: Ruling on cleaning with cologne and alcohol
 ---
 
 ### Question:
@@ -18,4 +18,4 @@ What is the ruling on using cologne with alcohol for medical purposes such as a 
 ### Answer:
 There is no harm in using cologne with alcohol for medical purposes such as a disinfectant for injuries. As for beer, if it contains even a small amount of alcohol which causes intoxication in large amount, it is not permissible to drink it. If it is free from alcohol, the basic rule is that all things are lawful.
 
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions. 
+May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.

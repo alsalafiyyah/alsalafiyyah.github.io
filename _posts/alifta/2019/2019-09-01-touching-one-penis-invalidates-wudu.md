@@ -1,25 +1,27 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Touching one's penis invalidates ablution"
 date: 2019-09-01
-hijri: "Muharram 02, 1441 AH"
-source: "Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 6990 question no. 2"
-category: [taharah, ablution, hadiths, mawdu-daif]
-summary: "Hadith that indicates that if someone touches his penis he must perform Wudu’. The basic ruling is that the imperative in these Hadith denotes obligation or duty."
-tags: [alifta]
+hijri: Muharram 02, 1441 AH
 lang: en
-translation: false
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+  deputy_chairman:
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah Ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 6990 question no. 2
+summary: Hadith that indicates that if someone touches his penis he must perform Wudu’.
+  The basic ruling is that the imperative in these Hadith denotes obligation or duty.
+tags:
+- alifta
+title: Touching one's penis invalidates ablution
+translation: false
 ---
 
 ### Question : 

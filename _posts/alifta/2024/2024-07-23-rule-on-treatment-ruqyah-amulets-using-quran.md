@@ -1,20 +1,19 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: Ruling on treatment, ruqyah and amulets using Qur'an
-date: 2024-07-23
-hijri: Muharram 17, 1446
-source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.2392, Question 4
-category: [fatwas,treatments]
-note: true
-group10: true
-locale: en
-lang: en
-summary: It is permissible to treat sick people with the Qur'an. But having amulets that contain some parts of the Qur'an is prohibited.
-article_taken_from: 
+article_taken_from:
   taken_from:
-    - web_title: التداوي من القرآن والتراقي به واتخاذ المعوذات والتمائم منه 
-      web_url: https://al-fatawa.com/fatwa/112047
+  - web_title: التداوي من القرآن والتراقي به واتخاذ المعوذات والتمائم منه
+    web_url: https://al-fatawa.com/fatwa/112047
+date: 2024-07-23
+group10: true
+hijri: Muharram 17, 1446
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.2392, Question 4
+summary: It is permissible to treat sick people with the Qur'an. But having amulets
+  that contain some parts of the Qur'an is prohibited.
+title: Ruling on treatment, ruqyah and amulets using Qur'an
 ---
 
 ### Question: 

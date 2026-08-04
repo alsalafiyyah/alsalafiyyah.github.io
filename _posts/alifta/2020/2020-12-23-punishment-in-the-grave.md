@@ -1,26 +1,28 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Punishment in the Grave"
-hijri: "Jumada Al-Awwal 8, 1442 AH"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no.1979"
+hijri: Jumada Al-Awwal 8, 1442 AH
 lang: en
-category: [fatwas]
-note: true
-locale: en
-summary: "The evidence on the rulings of Shari'ah are established through the Qur'an as well as the authentically established Sunnah reported from the Messenger of Allah - peace be upon him, whether in the form of verbal expression, actions or approval, as Allah orders us in general to apply the texts of the Qur'an and the Sunnah that reached us."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no.1979
+summary: The evidence on the rulings of Shari'ah are established through the Qur'an
+  as well as the authentically established Sunnah reported from the Messenger of Allah
+  - peace be upon him, whether in the form of verbal expression, actions or approval,
+  as Allah orders us in general to apply the texts of the Qur'an and the Sunnah that
+  reached us.
+title: Punishment in the Grave
 ---
 
 ### Question:
@@ -72,4 +74,4 @@ The questioning and the bliss or punishment in the grave takes place after the b
 [^1]: Ahmad, vol. 2, pp. 237, 288, 298, 416, 423, 454, and 467; Muslim, no. 588; Abu Dawud, no. 983; Al-Nasa'i, Al-Mujtaba, vol. 3, p. 58; and Ibn Majah, no. 909.
 [^2]: Al-Bukhari, Fath-ul-Bary, nos. 1049, 1055, 1272, and 6366; Muslim, no. 903; and Al-Bayhaqy, the evidence confirming the torment of the grave, nos. 177-178.
 [^3]: Ahmad, vol. 2, p. 441; Al-Bukhari, Fat-h-ul-Bary, nos. 1361 and 378; Muslim, no. 292; Al-Bayhaqy, the evidence confirming the torment of the grave, nos. 117, 118, 119, 122, 123, 125, 127, and 233; and ibn Abu Shaybah, Al-Musannaf, vol. 1, p. 112.
-[^4]: Abu Dawud, Sunan, Book on Al-Sunnah, no. 4753; and Ahmad, Musnad, vol. 4, p. 296; Sharh Al-Tahawiyyah, pp. 447-448, Al-Maktab Al-Islami edition. 
+[^4]: Abu Dawud, Sunan, Book on Al-Sunnah, no. 4753; and Ahmad, Musnad, vol. 4, p. 296; Sharh Al-Tahawiyyah, pp. 447-448, Al-Maktab Al-Islami edition.

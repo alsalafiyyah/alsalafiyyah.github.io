@@ -1,23 +1,26 @@
 ---
+hijri: Muharram 21, 1442 AH
+lang: en
 layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Ruling on reciting some Ayahs incorrectly"
-hijri: "Muharram 21, 1442 AH"
-source: "Fatwa of the Permanent Committee no. 5948-1"
-category: [fatwas]
-summary: "There are some Ayahs (Qur'anic verses) which I cannot pronounce properly, for I have never been to schools. Is it permissible for me to recite the Noble Qur’an in this incorrect manner?"
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatwa of the Permanent Committee no. 5948-1
+summary: There are some Ayahs (Qur'anic verses) which I cannot pronounce properly,
+  for I have never been to schools. Is it permissible for me to recite the Noble Qur’an
+  in this incorrect manner?
+title: Ruling on reciting some Ayahs incorrectly
 ---
 
 ### Question:

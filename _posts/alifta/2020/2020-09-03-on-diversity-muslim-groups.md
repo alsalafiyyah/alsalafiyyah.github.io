@@ -1,16 +1,15 @@
 ---
-layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "What is the ruling on having multiple Islamic groups?"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no.16063, Question 2"
-category: [fatwas,sects]
-hijri: Muharram 15, 1442
 date: 2020-09-03
-locale: en
-lang: en
 group7: true
-note: true
-summary: "You have to follow the path of Ahlus-Sunnah wal-Jama'ah to which the Prophet guided us when sects first started to appear."
+hijri: Muharram 15, 1442
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no.16063, Question 2
+summary: You have to follow the path of Ahlus-Sunnah wal-Jama'ah to which the Prophet
+  guided us when sects first started to appear.
+title: What is the ruling on having multiple Islamic groups?
 ---
 
 ### Question: 

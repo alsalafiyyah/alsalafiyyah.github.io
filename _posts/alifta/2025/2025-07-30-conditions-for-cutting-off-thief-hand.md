@@ -1,26 +1,28 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "What are the conditions of cutting off a thief's hand?"
 date: 2025-07-30
-hijri: "Safar 5, 1447 AH"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Question 5, Fatwa No. 17627"
-category: [rulership]
-tags: [alifta]
+hijri: Safar 5, 1447 AH
 lang: en
-translation: false
-summary: "That the conviction of the thief is proven before the judge by the testimony of two male 'Adl (of upright character) witnesses or by the confession of the thief."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz/
-  members: 
-    - name: Shaykh Abdul-Aziz Aal Ash-Shaykh
-      url: /biography/abdulaziz/
-    - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/zayd/
+  chairman:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz/
+  members:
+  - name: Shaykh Abdul-Aziz Aal Ash-Shaykh
+    url: /biography/abdulaziz/
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/zayd/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Question 5, Fatwa No. 17627
+summary: That the conviction of the thief is proven before the judge by the testimony
+  of two male 'Adl (of upright character) witnesses or by the confession of the thief.
+tags:
+- alifta
+title: What are the conditions of cutting off a thief's hand?
+translation: false
 ---
 
 ### Question:

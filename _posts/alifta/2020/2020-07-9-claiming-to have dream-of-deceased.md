@@ -1,24 +1,27 @@
 ---
-layout: post
-title: "Claiming to have dream of deceased who command him to build a shrine for the deceased"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatwas of the Permanent Committee of KSA, Fatwa no.9774"
-category: [fatwas, bidah, funerals]
-summary: "Transferring the deceased from one grave to another one is not permissible unless there is a necessity to do so according to the Islamic Shari'ah."
-hijri: "Dhul-Qa'dah 8, 1441 AH"
-translation: false
-tags: [alifta]
+hijri: Dhul-Qa'dah 8, 1441 AH
 lang: en
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+  deputy_chairman:
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatwas of the Permanent Committee of KSA, Fatwa no.9774
+summary: Transferring the deceased from one grave to another one is not permissible
+  unless there is a necessity to do so according to the Islamic Shari'ah.
+tags:
+- alifta
+title: Claiming to have dream of deceased who command him to build a shrine for the
+  deceased
+translation: false
 ---
 
 ### Question: 
@@ -33,4 +36,4 @@ Secondly: As for the vision or dream, it is not true but they are Satanic insinu
 
 Thirdly: Building domes over the graves is a Munkar (disapproved by Islamic Shari'ah) act which should not be done and what has been built, should be destroyed because the Prophet (peace be upon him) forbade building anything on graves and ordered us to level the high graves.
 
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions. 
+May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.

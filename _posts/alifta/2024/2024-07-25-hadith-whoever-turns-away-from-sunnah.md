@@ -1,18 +1,18 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: Concerning the Hadith 'Whoever Turns Away From My Sunnah'
-source: Fatawa Islamiyah, Vol. 7, Page 168
-hijri: Muharram 19, 1446 AH
 date: 2024-07-25
-locale: en
+hijri: Muharram 19, 1446 AH
 lang: en
-summary: This means whoever turns away from my way that I follow, then he is not of me. This is because they have chosen another way than the path of the Prophet ﷺ.
-category: [fatwas,hadiths,manhaj]
+layout: post
+mass_edited: true
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn 'Uthaymeen
-      url: /biography/uthaymeen
+  shaykh:
+  - name: Shaykh Ibn 'Uthaymeen
+    url: /biography/uthaymeen
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Islamiyah, Vol. 7, Page 168
+summary: This means whoever turns away from my way that I follow, then he is not of
+  me. This is because they have chosen another way than the path of the Prophet ﷺ.
+title: Concerning the Hadith 'Whoever Turns Away From My Sunnah'
 ---
 
 ### Question:

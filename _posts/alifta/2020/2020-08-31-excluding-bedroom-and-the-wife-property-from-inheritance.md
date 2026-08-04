@@ -1,3 +1,8 @@
+---
+lang: en
+mass_edited: true
+---
+
 ﻿---
 layout: post
 title: "Excluding the bedroom and the wife's property from the husband's inheritance"

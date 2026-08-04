@@ -1,18 +1,18 @@
 ---
-layout: post
-title: "Ruling on using the word 'Sayyid'"
-publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa 9/290"
-category: [general]
-hijri: Muharram 16, 1442
 date: 2020-09-04
+hijri: Muharram 16, 1442
 lang: en
-locale: en
-summary: "We often address each other using the word Sayyid (Master or Sir) for people whose ancestry can be traced to a particular family. Is it permissible to do this?"
+layout: post
+mass_edited: true
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz
+  shaykh:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz
+publisher: alsalafiyyah@icloud.com
+source: Majmu' Fatawa 9/290
+summary: We often address each other using the word Sayyid (Master or Sir) for people
+  whose ancestry can be traced to a particular family. Is it permissible to do this?
+title: Ruling on using the word 'Sayyid'
 ---
 
 ### Question:

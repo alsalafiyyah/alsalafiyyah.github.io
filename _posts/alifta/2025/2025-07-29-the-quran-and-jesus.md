@@ -1,27 +1,30 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Which is better: The Qur'an or 'Isa (peace be upon him)"
 date: 2025-07-29
-hijri: "Safar 4, 1447 AH"
-source: "Fatawa Al-Lajnah Ad-Daimah no. 6793, Question 3"
-category: [quran]
-summary: "The Qur’an is the Speech of Allah; it was not created. 'Isa (peace be upon him) is a human being who was given birth to by Maryam bint 'Imran. Thus, the Qur’an is better."
-tags: [alifta]
+hijri: Safar 4, 1447 AH
 lang: en
-translation: false
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Daimah no. 6793, Question 3
+summary: The Qur’an is the Speech of Allah; it was not created. 'Isa (peace be upon
+  him) is a human being who was given birth to by Maryam bint 'Imran. Thus, the Qur’an
+  is better.
+tags:
+- alifta
+title: 'Which is better: The Qur''an or ''Isa (peace be upon him)'
+translation: false
 ---
 
 ### Question"

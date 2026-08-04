@@ -1,17 +1,21 @@
 ---
-layout: post
-title: "When there is a funeral, lines of lamps are hung, chairs are brought and reciters of the Qur'an are hired to recite the Qur'an"
-publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
-source: "Fatawa Al-Lajnah Ad-Daimah no. 20855"
-hijri: Muharram 3, 1442
-summary: As for the other practices such as holding funeral ceremony, hanging lines of lamps, brining chairs, hiring reciters of the Qur'an using loudspeakers, feeding people, etc., they are newly-invented practices in religion.
-category: [funerals, fatwas, bidah]
 date: 2020/08/22
-shaykhs: 
- - Shaykh Abdul-Aziz Aal Al-Shaykh
- - Shaykh Salih Fawzan
- - Shaykh Bakr Abu Zayd
- - Shaykh Abdullah ibn Ghudayyan
+hijri: Muharram 3, 1442
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com, salafiyyah@outlook.sa
+shaykhs:
+- Shaykh Abdul-Aziz Aal Al-Shaykh
+- Shaykh Salih Fawzan
+- Shaykh Bakr Abu Zayd
+- Shaykh Abdullah ibn Ghudayyan
+source: Fatawa Al-Lajnah Ad-Daimah no. 20855
+summary: As for the other practices such as holding funeral ceremony, hanging lines
+  of lamps, brining chairs, hiring reciters of the Qur'an using loudspeakers, feeding
+  people, etc., they are newly-invented practices in religion.
+title: When there is a funeral, lines of lamps are hung, chairs are brought and reciters
+  of the Qur'an are hired to recite the Qur'an
 ---
 
 ### Question: 
@@ -28,6 +32,3 @@ May Allah grant us success. May peace and blessings be upon our Prophet Muhammad
 
 ---
 [^1]: Al-Tirmidhi, Sunan, Book on funerals, no. 998; Abu Dawud, Sunan, Book on funerals, no. 3132; Ibn Majah, Sunan, Book on funerals, no. 1610; and Ahmad, Musnad, vol. 1, p. 205.
-
-
-

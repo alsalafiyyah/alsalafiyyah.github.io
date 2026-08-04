@@ -1,15 +1,17 @@
 ---
-layout: post
-title: "Ruling on reading the virtues of Shaykh Abdul-Qadir"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 3323, Question 10"
-category: [sects]
-tags: [alifta]
-hijri: "Dhul-Hijjah 7, 1441"
-lang: en
-translation: false
-summary: "Love of the Awliya' of Allah and honoring a guest are among the most outstanding virtues of Shari'ah and exhorted by the Qur'an and the Sunnah."
 group1: true
+hijri: Dhul-Hijjah 7, 1441
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 3323, Question 10
+summary: Love of the Awliya' of Allah and honoring a guest are among the most outstanding
+  virtues of Shari'ah and exhorted by the Qur'an and the Sunnah.
+tags:
+- alifta
+title: Ruling on reading the virtues of Shaykh Abdul-Qadir
+translation: false
 ---
 
 ### Question: 
@@ -26,4 +28,3 @@ It may also be a means leading to Shirk like supplicating to Allah by the Shaykh
 
 
 [^1]: Al-Bukhari, Sahih, Book on manners, no. 6018; Muslim, Sahih, Book on faith, no. 47; and Ahmad, Musnad, vol. 2, p. 433.
-

@@ -1,13 +1,15 @@
 ---
-layout: post
-title: "Should illegitimate children be attributed to their known father?"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 14063"
-hijri: "Muharram 12, 1442 AH"
 date: 2020-08-31
-category: [foundling, zina]
-summary: "Many misguided Muslim youth who work in France have illegal relationships with women and make sexual intercourse with them outside the bond of marriage."
 group6: true
+hijri: Muharram 12, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah no. 14063
+summary: Many misguided Muslim youth who work in France have illegal relationships
+  with women and make sexual intercourse with them outside the bond of marriage.
+title: Should illegitimate children be attributed to their known father?
 ---
 
 ### Question: 

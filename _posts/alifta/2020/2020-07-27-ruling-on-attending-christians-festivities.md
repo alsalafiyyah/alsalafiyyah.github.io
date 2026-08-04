@@ -1,26 +1,26 @@
 ---
-layout: post
-title: "Ruling on attending festivities of Christians"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 9254"
-category: [fatwas,walabara,festivals]
 hijri: Dhul-Hijjah 6, 1441
-locale: en
 lang: en
-note: true
-summary: "It is not permissible for Muslims to hold such celebrations, or attend them, or participate in them with the Christians, for such participation is a form of helping the occurrence of sin and transgression, whereas Allah has forbidden them."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz Ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah Ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah Ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah Ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA no. 9254
+summary: It is not permissible for Muslims to hold such celebrations, or attend them,
+  or participate in them with the Christians, for such participation is a form of
+  helping the occurrence of sin and transgression, whereas Allah has forbidden them.
+title: Ruling on attending festivities of Christians
 ---
 
 ### Question: 

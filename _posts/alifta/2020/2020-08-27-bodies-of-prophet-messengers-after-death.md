@@ -1,15 +1,15 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: The bodies of messengers are still intact and do not decay after death
-source: Fatawa Al-Lajnah Ad-Da'imah no. 8257, Question 3
-hijri: Muharram 8, 1442
 date: 2020/08/27
-locale: en
-lang: en
-category: [prophets,fatwas]
 group1: true
-summary: You should be aware of the fact that Jesus the son of Mary did not die, rather he was raised to heaven and will descend at the end of time and then die.
+hijri: Muharram 8, 1442
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah no. 8257, Question 3
+summary: You should be aware of the fact that Jesus the son of Mary did not die, rather
+  he was raised to heaven and will descend at the end of time and then die.
+title: The bodies of messengers are still intact and do not decay after death
 ---
 
 ### Question: 

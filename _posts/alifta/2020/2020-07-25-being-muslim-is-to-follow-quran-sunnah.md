@@ -1,14 +1,15 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: The duty of a Muslim is to follow the teachings of the Qur'an and Sunnah
-source: Fatawa al-Lajnah ad-Daimah no. 4161
-category: [manhaj]
-hijri: Dhul-Hijjah 4, 1441
 date: 2020-07-25
-lang: en
 group1: true
-summary: The duty of every Muslim is to adhere to what came in the Book of Allah and the Sunnah of His Messenger in words, deeds, and beliefs.
+hijri: Dhul-Hijjah 4, 1441
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa al-Lajnah ad-Daimah no. 4161
+summary: The duty of every Muslim is to adhere to what came in the Book of Allah and
+  the Sunnah of His Messenger in words, deeds, and beliefs.
+title: The duty of a Muslim is to follow the teachings of the Qur'an and Sunnah
 ---
 
 ### Question: 

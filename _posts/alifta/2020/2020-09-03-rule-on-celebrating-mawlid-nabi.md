@@ -1,24 +1,25 @@
 ---
-layout: post
-title: "Ruling on celebrating the Prophet's Mawlid"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 7136, Question 11"
-category: [festivals, bidah]
 hijri: Muharram 15, 1442 AH
 lang: en
-summary: "Holding a celebration to commemorate the birth of the Prophet (peace be upon him) is impermissible, and that was never done by the Prophet (peace be upon him)"
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 7136, Question 11
+summary: Holding a celebration to commemorate the birth of the Prophet (peace be upon
+  him) is impermissible, and that was never done by the Prophet (peace be upon him)
+title: Ruling on celebrating the Prophet's Mawlid
 ---
 
 Question:
@@ -28,4 +29,3 @@ Celebrating the Mawlid (the Prophet’s birthday): a meeting is held in commemor
 Answer:
 
 Holding a celebration to commemorate the birth of the Prophet (peace be upon him) is impermissible, for being a Bid‘ah (innovation in religion) that was never done by the Prophet (peace be upon him), the Rightly-guided Caliphs, or any of the scholars of the best three generations.
-

@@ -1,26 +1,25 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Ruling on cauterization as a way of curing epilepsy"
 hijri: Safar 04, 1442
 lang: en
-locale: en
-note: true
-category: [treatments,fatwas]
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 7501, Question 4"
-summary: Is it permissible in this case to burn the Muslim woman with a firebrand so that the female jinni will leave her body?
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 7501, Question 4
+summary: Is it permissible in this case to burn the Muslim woman with a firebrand
+  so that the female jinni will leave her body?
+title: Ruling on cauterization as a way of curing epilepsy
 ---
 
 ### Question:

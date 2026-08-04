@@ -1,25 +1,27 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Entering Jannah is by the bounty of Allah, not by good deeds"
-hijri: "Jumada Al-Awwal 8, 1442 AH"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 1353-2"
+hijri: Jumada Al-Awwal 8, 1442 AH
 lang: en
-category: [afterlife]
-note: true
-summary: "Jannah cannot be the corresponding reward for one's good deeds. In other words, deeds, however great they may be, are not enough a price for entering Jannah. Rather, doing good deeds should be accompanied by Allah's forgiveness and mercy in order to qualify for entering Jannah."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+  deputy_chairman:
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah no. 1353-2
+summary: Jannah cannot be the corresponding reward for one's good deeds. In other
+  words, deeds, however great they may be, are not enough a price for entering Jannah.
+  Rather, doing good deeds should be accompanied by Allah's forgiveness and mercy
+  in order to qualify for entering Jannah.
+title: Entering Jannah is by the bounty of Allah, not by good deeds
 ---
 
 Question:

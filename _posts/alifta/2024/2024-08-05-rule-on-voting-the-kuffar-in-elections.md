@@ -1,17 +1,18 @@
 ---
+date: 2024-08-05
+group1: true
+hijri: Safar 01, 1446 AH
+lang: en
 layout: post
+mass_edited: true
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on voting the kuffar in elections"
-hijri: "Safar 01, 1446 AH"
-date: 2024-08-05
-source: "Fatawa al-Lajnah ad-Da'imah 1/790, Fatwa no.7796 , Question 3"
-category: [rulership]
-tags: [alifta]
-lang: en
+source: Fatawa al-Lajnah ad-Da'imah 1/790, Fatwa no.7796 , Question 3
+summary: Never will Allah grant to the disbelievers a way to triumph over the believers.
+tags:
+- alifta
+title: Ruling on voting the kuffar in elections
 translation: false
-summary: "Never will Allah grant to the disbelievers a way to triumph over the believers."
-group1: true
 ---
 
 ### Question: 
@@ -22,4 +23,4 @@ Is it permissible for a Muslim to vote in elections? If yes, is it permissible f
 
 It is impermissible for Muslims to vote for Kuffar, as this may lead to exalt their status and boost their power and authority, resulting in them having ascendancy over Muslims. 
 
-Allah (Glorified be He) says: **"And never will Allâh grant to the disbelievers a way (to triumph) over the believers."** [An-Nisa: 141]. 
+Allah (Glorified be He) says: **"And never will Allâh grant to the disbelievers a way (to triumph) over the believers."** [An-Nisa: 141].

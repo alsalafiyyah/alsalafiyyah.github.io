@@ -1,17 +1,19 @@
 ---
-layout: post
-title: "Ruling on some person found an amount of money that is inconsiderable in the eyes of common people"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 17290-2"
-hijri: Muharram 11, 1442 AH
 date: 2020/08/30
-category: [luqatah]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Salih Fawzan
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Bakr Abu Zayd
- - Shaykh Abdullah ibn Ghudayyan
+hijri: Muharram 11, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+shaykhs:
+- Shaykh Abdul-Aziz ibn Baz
+- Shaykh Salih Fawzan
+- Shaykh Abdul-Aziz Aal al-Shaykh
+- Shaykh Bakr Abu Zayd
+- Shaykh Abdullah ibn Ghudayyan
+source: Fatawa Al-Lajnah Ad-Da'imah no. 17290-2
+title: Ruling on some person found an amount of money that is inconsiderable in the
+  eyes of common people
 ---
 
 Question: 
@@ -27,4 +29,3 @@ May Allah grant us success. May peace and blessings be upon our Prophet Muhammad
 ---
 
 [^1]: Al-Bukhari, Sahih, Book on transactions, no. 2090; and Ahmad, Musnad, vol. 1, p. 259.
-

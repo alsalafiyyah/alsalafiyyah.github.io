@@ -1,20 +1,21 @@
 ---
-layout: post
-title: "Ruling on writing fiction"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Daimah no. 6252-7"
-category: [books, knowledge]
 hijri: Dhul-Hijjah 11, 1441 AH
 lang: en
-note: true
-summary: "It is Haram (prohibited) for a person to write such false stories. The stories mentioned the Qur'an, the Sunnah and other factual stories suffice and serve as moral lessons."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
+  chairman:
+  - name: Shaykh Abdul-Aziz Ibn Baz
+    url: /biography/binbaz/
+  deputy_chairman:
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Daimah no. 6252-7
+summary: It is Haram (prohibited) for a person to write such false stories. The stories
+  mentioned the Qur'an, the Sunnah and other factual stories suffice and serve as
+  moral lessons.
+title: Ruling on writing fiction
 ---
 
 Question: 

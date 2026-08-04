@@ -1,17 +1,19 @@
 ---
-layout: post
-title: "Fabricated Hadith: 'Rajab is the Month of Allah, Sha'ban is my month, and Ramadan is the month of my Ummah'"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 15677"
-hijri: Muharram 11, 1442 AH
 date: 2020/08/30
-category: [tafsir, hadiths, mawdu-daif]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Salih Fawzan
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Bakr Abu Zayd
+hijri: Muharram 11, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+shaykhs:
+- Shaykh Abdul-Aziz ibn Baz
+- Shaykh Abdul-Aziz Aal al-Shaykh
+- Shaykh Salih Fawzan
+- Shaykh Abdullah ibn Ghudayyan
+- Shaykh Bakr Abu Zayd
+source: Fatawa Al-Lajnah Ad-Da'imah no. 15677
+title: 'Fabricated Hadith: ''Rajab is the Month of Allah, Sha''ban is my month, and
+  Ramadan is the month of my Ummah'''
 ---
 
 Question: 

@@ -1,21 +1,21 @@
 ---
-layout: post
-title: "Ruling on participating in disbelievers' festivals"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no.31"
-category: [fatwas,walabara]
 hijri: Dhul-Hijjah 6, 1441
 lang: en
-locale: en
-note: true
-summary: "It is not permissible to participate in their festivals or congratulate them, for this conduct shows a kind of intimacy and endorsement of their rituals. It is also a forbidden collaboration with them in sin and aggression."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
+  chairman:
+  - name: Shaykh Abdul-Aziz Ibn Baz
+    url: /biography/binbaz/
+  deputy_chairman:
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no.31
+summary: It is not permissible to participate in their festivals or congratulate them,
+  for this conduct shows a kind of intimacy and endorsement of their rituals. It is
+  also a forbidden collaboration with them in sin and aggression.
+title: Ruling on participating in disbelievers' festivals
 ---
 
 ### Question: 

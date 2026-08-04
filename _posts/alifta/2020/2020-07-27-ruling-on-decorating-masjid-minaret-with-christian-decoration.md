@@ -1,28 +1,28 @@
 ---
-layout: post
-title: "Ruling on decorating the Masjid minaret with Christian decoration"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 20549"
-category: [fatwas,walabara]
 hijri: Dhul-Hijjah 6, 1441
 lang: en
-locale: en
-note: true
-summary: "It is not permissible for Muslims to imitate the disbelievers in their festivals, their places of worship and the like. The Prophet said: Anyone who copies a people is one of them."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Abdul-Aziz Ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  chairman:
+  - name: Abdul-Aziz Ibn Baz
+    url: /biography/binbaz/
+  deputy_chairman:
+  - name: Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 20549
+summary: 'It is not permissible for Muslims to imitate the disbelievers in their festivals,
+  their places of worship and the like. The Prophet said: Anyone who copies a people
+  is one of them.'
+title: Ruling on decorating the Masjid minaret with Christian decoration
 ---
 
 ### Question: 

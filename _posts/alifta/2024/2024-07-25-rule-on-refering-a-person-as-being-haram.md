@@ -1,19 +1,19 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: The ruling on referring a person as being Haram
 date: 2024-07-25
 hijri: Muharram 19, 1446 AH
-source: Fatawa Islamiyah Vol.8 Page 324
-category: [fatwas]
-note: false
-locale: en
 lang: en
-summary: If a person does something that is indeed unlawful such as fornication, and then people say about him Haram meaning it is unlawful for him to fornicate, then there is no harm in people saying that.
+layout: post
+mass_edited: true
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn 'Uthaymeen
-      url: /biography/uthaymeen
+  shaykh:
+  - name: Shaykh Ibn 'Uthaymeen
+    url: /biography/uthaymeen
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Islamiyah Vol.8 Page 324
+summary: If a person does something that is indeed unlawful such as fornication, and
+  then people say about him Haram meaning it is unlawful for him to fornicate, then
+  there is no harm in people saying that.
+title: The ruling on referring a person as being Haram
 ---
 
 ### Question:

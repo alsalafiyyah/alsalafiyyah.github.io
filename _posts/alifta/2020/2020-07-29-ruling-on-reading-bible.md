@@ -1,25 +1,25 @@
 ---
-layout: post
-title: "Ruling on reading Bible"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 8852-2"
-category: [non-muslim,walabara]
 hijri: Dhul-Hijjah 8, 1441 AH
 lang: en
-locale: en
-summary: "The Divine Books revealed before the Qur'an now include many distortions, alterations, and omissions, as Allah says in the Qur'an."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah no. 8852-2
+summary: The Divine Books revealed before the Qur'an now include many distortions,
+  alterations, and omissions, as Allah says in the Qur'an.
+title: Ruling on reading Bible
 ---
 
 ### Question: 

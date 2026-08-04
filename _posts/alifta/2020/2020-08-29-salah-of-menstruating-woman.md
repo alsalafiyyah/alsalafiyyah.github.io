@@ -1,25 +1,25 @@
 ---
-layout: post
-title: "Salah of a menstruating woman"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 5502"
-hijri: Muharram 10, 1442
 date: 2020/08/29
-locale: en
+hijri: Muharram 10, 1442
 lang: en
-category: [fatwas, salah, women]
-note: true
-summary: "If a woman becomes purified from menstruation or postpartum bleeding before the end of the due time of any Salah, she should offer this Salah and the one which can be combined with it."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
+  - name: Shaykh Abdul-Razzaq Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 5502
+summary: If a woman becomes purified from menstruation or postpartum bleeding before
+  the end of the due time of any Salah, she should offer this Salah and the one which
+  can be combined with it.
+title: Salah of a menstruating woman
 ---
 
 ### Question: 

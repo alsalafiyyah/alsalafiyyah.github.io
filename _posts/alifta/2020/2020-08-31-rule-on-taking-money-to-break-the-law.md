@@ -1,15 +1,19 @@
 ---
-layout: post
-title: "Ruling on taking money to break the law"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 7726 Question 1"
-hijri: "Muharram 12, 1442 AH"
-category: [rulership]
-translation: false
-tags: [alifta]
-lang: en
-summary: "The mentioned agreement is not permissible because it involves lying, forging, cheating authorities, and violation of regulations set for the public interest and does not contradict Shari‘ah. Both parties are at risk if this agreement is revealed to authorities."
 group1: true
+hijri: Muharram 12, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 7726 Question 1
+summary: The mentioned agreement is not permissible because it involves lying, forging,
+  cheating authorities, and violation of regulations set for the public interest and
+  does not contradict Shari‘ah. Both parties are at risk if this agreement is revealed
+  to authorities.
+tags:
+- alifta
+title: Ruling on taking money to break the law
+translation: false
 ---
 
 ### Question: 

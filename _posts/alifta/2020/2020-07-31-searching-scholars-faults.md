@@ -1,26 +1,28 @@
 ---
-layout: post
-title: "The Shari'ah's stance regarding searching for Scholars faults"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Daimah -3"
-category: [fitnahs]
 hijri: Dhul-Hijjah 11, 1441 AH
 lang: en
-note: true
-summary: "In fact, the aim of doing so is clarifying the truth and advising Muslims, not belittling such great personalities as Al-Suyuty and others. Thus, their errors are to be avoided while their knowledge is to be benefited from, for their virtues undoubtedly outweigh their errors."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Ibn Baz
-      url: /biography/binbaz/
-  members: 
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  chairman:
+  - name: Shaykh Abdul-Aziz Ibn Baz
+    url: /biography/binbaz/
+  members:
+  - name: Shaykh Abdullah Ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Daimah -3
+summary: In fact, the aim of doing so is clarifying the truth and advising Muslims,
+  not belittling such great personalities as Al-Suyuty and others. Thus, their errors
+  are to be avoided while their knowledge is to be benefited from, for their virtues
+  undoubtedly outweigh their errors.
+title: The Shari'ah's stance regarding searching for Scholars faults
 ---
 
 Question: 
@@ -36,4 +38,3 @@ Anyway, adherents of Bid'ahs (innovations in religion) or of unsound creed must 
 ---
 
 [^1]: Al-Bukhari, Sahih, Book on holding fast to the Book and the Sunnah, no. 7352; Muslim, Sahih, Book on judicial decisions, no. 1716; Al-Tirmidhy, Sunan, Book on judgments, no. 1326; Abu Dawud, Sunan, Book on judicial decisions, no. 3574; Ibn Majah, Sunan, Book on judgments, no. 2314; and Ahmad ibn Hanbal, Musnad, vol. 4, p. 198.
-

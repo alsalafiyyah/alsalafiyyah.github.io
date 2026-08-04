@@ -1,24 +1,26 @@
 ---
-layout: post
-title: "Act of Jahiliyyah in Muharram"
-publisher: alsalafiyyah@icloud.com
-source: "Fatawa Al-Lajnah Al-Da'imah, Question 3"
-hijri: "Muharram 4, 1445 AH"
-category: [bidah]
-tags: [alifta]
-translation: false
+hijri: Muharram 4, 1445 AH
 lang: en
-summary: This habit is an invented practice from Jahiliyyah and it is not permissible for a Muslim to do it.
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Afifi
-      url: /biography/afifi/
+  - name: Shaykh Abdul-Razzaq Afifi
+    url: /biography/afifi/
   members:
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Question 3
+summary: This habit is an invented practice from Jahiliyyah and it is not permissible
+  for a Muslim to do it.
+tags:
+- alifta
+title: Act of Jahiliyyah in Muharram
+translation: false
 ---
 
 ###### Question:

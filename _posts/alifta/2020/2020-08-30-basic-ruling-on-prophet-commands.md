@@ -1,3 +1,8 @@
+---
+lang: en
+mass_edited: true
+---
+
 ﻿---
 layout: post
 title: "The basic rule concerning any commands of the Prophet (peace be upon him) is that they denote obligation"

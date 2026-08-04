@@ -1,26 +1,25 @@
 ---
-layout: post
-title: "Some of the signs of the Hour"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 5253, Question 2"
-category: [fatwas,doomsday]
 hijri: Muharram 15, 1442 AH
 lang: en
-locale: en
-note: true
-summary: "There are many Signs of the Hour, and some of them are included in the answer that the Prophet gave to Gabriel when he asked him about the Signs of the Hour."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 5253, Question 2
+summary: There are many Signs of the Hour, and some of them are included in the answer
+  that the Prophet gave to Gabriel when he asked him about the Signs of the Hour.
+title: Some of the signs of the Hour
 ---
 
 ### Question: 
@@ -38,4 +37,3 @@ You should read the book entitled Al-Nihayah by Ibn Kathir (may Allah have mercy
 ---
 
 [^1]: Al-Bukhari, Sahih, Book on Tafsir, no. 50; Muslim, Sahih, Book on faith, no. 10; Al-Nasa'i, Sunan, Book on faith and its laws, no. 4991; Ibn Majah, Sunan, Introduction, no. 64; Ahmad, Musnad, vol. 2, p. 426.
-

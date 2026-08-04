@@ -1,15 +1,15 @@
 ---
-layout: post
-title: "Tawassul through creatures"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 5441, Question 2"
-category: [fatwas, tawassul]
-hijri: Dhul-Hijjah 8, 1441
 date: 2020-07-29
 group1: true
-locale: en 
+hijri: Dhul-Hijjah 8, 1441
 lang: en
-summary: Thus, whoever claims that Allah is not above or below us or to our right or left has contradicted the evidence of the Qur'an and Sunnah.
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 5441, Question 2
+summary: Thus, whoever claims that Allah is not above or below us or to our right
+  or left has contradicted the evidence of the Qur'an and Sunnah.
+title: Tawassul through creatures
 ---
 
 ### Question: 
@@ -44,4 +44,3 @@ May Allah grant us success. May peace and blessings be upon our Prophet Muhammad
 [^1]: Al-Bukhari, Sahih, Book on funerals, no. 1390; Muslim, Sahih, Book on Masjids and places for Salah, no. 531; Al-Nasa*y, Sunan, Book on Masjids, no. 703; Ahmad, Musnad, vol. 6, p. 274; and Al-Darimy, Sunan, Book on Salah, no. 1403.
 [^2]: Muslim, Sahih, Book on judicial decisions, no. 1718; and Ahmad ibn Hanbal, Musnad, vol. 6, p. 180.
 [^3]: Imam Ahmad, vol. 5, p. 346; Al-Nasa*y, vol. 1, p. 231; Ibn Majah, vol. 1, p. 342; Al-Hakim, vol. 1, p. 7; Al-Bayhaqy, Sunan, vol. 3, p. 366; and Al-Daraqutny, vol. 2, p. 52.
-

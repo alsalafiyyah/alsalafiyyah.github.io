@@ -1,17 +1,19 @@
 ---
-layout: post
-title: "His daughter left his house and then returned bearing an illegitimate male child"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 16843-5"
-hijri: Muharram 12, 1442 AH
 date: 2020/08/31
-category: [foundling, zina]
-shaykhs: 
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Salih Fawzan
- - Shaykh Bakr Abu Zayd
- - Shaykh Abdullah ibn Ghudayyan
+hijri: Muharram 12, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+shaykhs:
+- Shaykh Abdul-Aziz Aal al-Shaykh
+- Shaykh Abdul-Aziz ibn Baz
+- Shaykh Salih Fawzan
+- Shaykh Bakr Abu Zayd
+- Shaykh Abdullah ibn Ghudayyan
+source: Fatawa Al-Lajnah Ad-Da'imah no. 16843-5
+title: His daughter left his house and then returned bearing an illegitimate male
+  child
 ---
 
 Question: 

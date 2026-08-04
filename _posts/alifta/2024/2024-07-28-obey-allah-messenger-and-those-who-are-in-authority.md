@@ -1,19 +1,19 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Obey Allah, the Messengerﷺ and those who are in authority"
 date: 2024-07-28
 hijri: Muharram 22, 1446
-source: "Silsilatu Sharhir-Rasail p.52."
-category: [fatwas,quran,rulership]
-locale: en
 lang: en
-summary: This Quranic verse is inclusive, including the Scholars and the Rulers, this is what is correct.
-translated_by: Abu 'Abdillah al-Kashmiri
+layout: post
+mass_edited: true
 muftis:
-  shaykh: 
-    - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan
+  shaykh:
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan
+publisher: alsalafiyyah@icloud.com
+source: Silsilatu Sharhir-Rasail p.52.
+summary: This Quranic verse is inclusive, including the Scholars and the Rulers, this
+  is what is correct.
+title: Obey Allah, the Messengerﷺ and those who are in authority
+translated_by: Abu 'Abdillah al-Kashmiri
 ---
 
 ### Question:

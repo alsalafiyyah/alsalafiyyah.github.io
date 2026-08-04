@@ -1,25 +1,26 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Ruling on book entitled 'Kashf Al-Akinnah' by Abdul-Wahhab Mahiyyah"
 hijri: Safar 25, 1442 AH
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 19185"
 lang: en
-note: true
-category: [knowledge, books]
-summary: "After reviewing the mentioned book (Kashf Al-Akinnah), I realized that its author is not one of the reliable scholars in respect of the rulings of Shari'ah (Islamic law)."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
+  chairman:
+  - name: Shaykh Abdul-Aziz Ibn Baz
+    url: /biography/binbaz/
+  deputy_chairman:
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
   members:
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA no. 19185
+summary: After reviewing the mentioned book (Kashf Al-Akinnah), I realized that its
+  author is not one of the reliable scholars in respect of the rulings of Shari'ah
+  (Islamic law).
+title: Ruling on book entitled 'Kashf Al-Akinnah' by Abdul-Wahhab Mahiyyah
 ---
 
 Question:

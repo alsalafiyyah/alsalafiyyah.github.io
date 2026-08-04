@@ -1,16 +1,18 @@
 ---
-layout: post
-title: "The descent of Jesus before the end of time as a prophet and messenger is one of the major signs of the Hour"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 2982"
-hijri: Muharram 9, 1442 AH
 date: 2020/08/28
-category: ["prophets"]
-shaykhs: 
- - Shaykh Abdul-'Aziz ibn 'Abdullah ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+hijri: Muharram 9, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+shaykhs:
+- Shaykh Abdul-'Aziz ibn 'Abdullah ibn Baz
+- Shaykh Abdul-Razzaq al-Afify
+- Shaykh Abdullah ibn Ghudayyan
+- Shaykh Abdullah ibn Qa'ud
+source: Fatawa Al-Lajnah Ad-Da'imah no. 2982
+title: The descent of Jesus before the end of time as a prophet and messenger is one
+  of the major signs of the Hour
 ---
 
 Question: 

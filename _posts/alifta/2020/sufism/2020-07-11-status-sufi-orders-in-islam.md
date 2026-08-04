@@ -1,15 +1,17 @@
 ---
-layout: post
-title: "Status of the Sufi orders in Islam"
-publisher: "alsalafiyyah@icloud.com"
-category: ["sects", sufism]
-tags: [alifta]
-source: "Fatwas of the Permanent Committee of KSA, Fatwa no. 16862"
-hijri: "Dhul-Qa'dah 20, 1441"
-lang: en
-translation: false
-summary: "The Sufi orders have nothing to do with the guidance of the Prophet and a Muslim has to follow the Prophet and his Sunnah."
 group2: true
+hijri: Dhul-Qa'dah 20, 1441
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatwas of the Permanent Committee of KSA, Fatwa no. 16862
+summary: The Sufi orders have nothing to do with the guidance of the Prophet and a
+  Muslim has to follow the Prophet and his Sunnah.
+tags:
+- alifta
+title: Status of the Sufi orders in Islam
+translation: false
 ---
 
 ### Question: 
@@ -29,4 +31,3 @@ May Allah grant you and us success in doing all that leads to goodness and right
 
 [^1]: Al-Tirmidhy [Book on faith] no. 2640; Abu Dawud [Book on Sunnah] no. 4596; Musnad Ahmad p. 2/332
 [^2]: Abu Dawud [Book on Al-Sunnah] no. 4607; Ibn Majah [Introduction] no. 42; Musnad Ahmad  p. 4/127; Al-Darimi [Introduction] no. 95.
-

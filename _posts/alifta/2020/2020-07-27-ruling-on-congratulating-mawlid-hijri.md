@@ -1,24 +1,25 @@
 ---
-layout: post
-title: "Ruling on congratulating others in the new Gregorian or Hijri years or the Mawlid"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 19991, Question 1"
-category: [festivals, bidah]
 hijri: Dhu al-Hijjah 6, 1441 AH
 lang: en
-note: true
-summary: "Is it permissible to congratulate non-Muslims on the occasion of the new Gregorian year, the new Hijri (lunar) year and Mawlid?"
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  chairman:
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 19991, Question 1
+summary: Is it permissible to congratulate non-Muslims on the occasion of the new
+  Gregorian year, the new Hijri (lunar) year and Mawlid?
+title: Ruling on congratulating others in the new Gregorian or Hijri years or the
+  Mawlid
 ---
 
 Question: 

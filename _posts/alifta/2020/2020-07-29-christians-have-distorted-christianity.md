@@ -1,15 +1,18 @@
 ---
-layout: post
-title: "The distortion that Christianity underwent is confirmed"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 9643, Question 4"
-category: [non-muslim]
-hijri: "Dhul-Hijjah 8, 1441 AH"
-lang: en
-translation: false
-tags: [alifta]
-summary: "The Christians have distorted Christianity from the original religion revealed to their prophet, Jesus, peace be upon him. The evidence for this is their claims that Jesus is the son of Allah and that they say that Allah is one of three."
 group6: true
+hijri: Dhul-Hijjah 8, 1441 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 9643, Question 4
+summary: The Christians have distorted Christianity from the original religion revealed
+  to their prophet, Jesus, peace be upon him. The evidence for this is their claims
+  that Jesus is the son of Allah and that they say that Allah is one of three.
+tags:
+- alifta
+title: The distortion that Christianity underwent is confirmed
+translation: false
 ---
 
 ### Question: 

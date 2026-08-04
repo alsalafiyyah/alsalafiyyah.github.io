@@ -1,15 +1,19 @@
 ---
-layout: post
-title: "Does the Shirk mentioned in the Qur'an: 'And do not marry Al-Mushrikât till they believe' include those who follow some Tariqahs (sufi orders) such as Al-Tijaniyyah?"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 2229, Question 2"
-category: [sects]
-tags: [alifta]
-hijri: "Dhul-Hijjah 7, 1441"
-lang: en
-translation: false
-summary: "Shirk mentioned in this Ayah includes those who seek the help of jinn, the dead and the absent instead of Allah and those who wear amulets containing anything other than the Qur'an seeking its benefit and recovery from illness."
 group1: true
+hijri: Dhul-Hijjah 7, 1441
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 2229, Question 2
+summary: Shirk mentioned in this Ayah includes those who seek the help of jinn, the
+  dead and the absent instead of Allah and those who wear amulets containing anything
+  other than the Qur'an seeking its benefit and recovery from illness.
+tags:
+- alifta
+title: 'Does the Shirk mentioned in the Qur''an: ''And do not marry Al-Mushrikât till
+  they believe'' include those who follow some Tariqahs (sufi orders) such as Al-Tijaniyyah?'
+translation: false
 ---
 
 ### Question: 

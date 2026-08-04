@@ -1,16 +1,17 @@
 ---
-layout: post
-title: "The prophet sent before Prophet Muhammad (peace be upon him)"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 8381-2"
-hijri: Muharram 8, 1442 AH
 date: 2020/08/27
-category: ["prophets"]
-shaykhs: 
- - Shaykh Abdul-'Aziz ibn 'Abdullah ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+hijri: Muharram 8, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+shaykhs:
+- Shaykh Abdul-'Aziz ibn 'Abdullah ibn Baz
+- Shaykh Abdul-Razzaq al-Afify
+- Shaykh Abdullah ibn Ghudayyan
+- Shaykh Abdullah ibn Qa'ud
+source: Fatawa Al-Lajnah Ad-Da'imah no. 8381-2
+title: The prophet sent before Prophet Muhammad (peace be upon him)
 ---
 
 Question: 

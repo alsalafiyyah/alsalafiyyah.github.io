@@ -1,29 +1,28 @@
 ---
-layout: post
-title: "Treating tooth problems"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 21104, Question 1"
-hijri: Muharram 15, 1442
-note: true
 date: 2020/09/3
-category: [treatments,fatwas]
+hijri: Muharram 15, 1442
 lang: en
-locale: en
-summary: Is pulling out natural teeth and replacing them with artificial ones considered an offence of trying to change the creation of Allah?
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/zayd/
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/zayd/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah no. 21104, Question 1
+summary: Is pulling out natural teeth and replacing them with artificial ones considered
+  an offence of trying to change the creation of Allah?
+title: Treating tooth problems
 ---
 
 ### Question:

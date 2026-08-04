@@ -1,26 +1,26 @@
 ---
-layout: post
-title: "Reports about the Awaited Al-Mahdy and the descending of 'Isa"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 1615, Question11"
-category: [fatwas, doomsday]
 hijri: Muharram 15, 1442 AH
 lang: en
-locale: en
-note: true 
-summary: "As far as we know, there is no Sahih Hadith which specifies the time of his descent. The only piece of information is that he descends after Al-Masih-ul-Dajjal or the Antichrist."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 1615, Question11
+summary: As far as we know, there is no Sahih Hadith which specifies the time of his
+  descent. The only piece of information is that he descends after Al-Masih-ul-Dajjal
+  or the Antichrist.
+title: Reports about the Awaited Al-Mahdy and the descending of 'Isa
 ---
 
 ### Question: 

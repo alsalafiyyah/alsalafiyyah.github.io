@@ -1,26 +1,26 @@
 ---
-layout: post
-title: "The meaning of the existence of Dajjal and describing him as one-eyed"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 7114, Question 3"
-category: [fatwas,doomsday]
 hijri: Muharram 15, 1442 AH
 lang: en
-locale: en
-note: true
-summary: "Al-Masih Al-Dajjal or The Antichrist exists now and he is actually one-eyed, for the basic ruling states that the literal meaning takes precedence over other possible meanings, unless the opposite is proved."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 7114, Question 3
+summary: Al-Masih Al-Dajjal or The Antichrist exists now and he is actually one-eyed,
+  for the basic ruling states that the literal meaning takes precedence over other
+  possible meanings, unless the opposite is proved.
+title: The meaning of the existence of Dajjal and describing him as one-eyed
 ---
 
 ### Question: 

@@ -1,23 +1,23 @@
 ---
-layout: post
-title: "Ruling on taking hypnotic drugs"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 4276, Question 6"
-hijri: Muharram 15, 1442
-summary: Yes, it is permissible to use a hypnotic drug when needed with a medical prescription from a specialist.
 date: 2020/09/3
-category: [treatments,fatwas]
-locale: en
+hijri: Muharram 15, 1442
 lang: en
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 4276, Question 6
+summary: Yes, it is permissible to use a hypnotic drug when needed with a medical
+  prescription from a specialist.
+title: Ruling on taking hypnotic drugs
 ---
 
 ### Question:
@@ -26,4 +26,4 @@ Is it permissible to use a hypnotic drug (sleeping pills)?
 ### Answer:
 Yes, it is permissible to use a hypnotic drug when needed with a medical prescription from a specialist.
 
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions. 
+May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.

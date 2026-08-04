@@ -1,16 +1,18 @@
 ---
-layout: post
-title: "Executing Hadd in the absence of the ruler"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 16815, Question 3"
 date: 2020-08-29
-hijri: "Muharram 10, 1442 AH"
-category: [rulership]
-tags: [alifta]
-lang: en
-translation: false
 group14: true
-summary: "Only a Muslim ruler or his deputy is entitled to execute the Hudud, so as to keep order, prevent transgression, and oppression, and provide security."
+hijri: Muharram 10, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 16815, Question 3
+summary: Only a Muslim ruler or his deputy is entitled to execute the Hudud, so as
+  to keep order, prevent transgression, and oppression, and provide security.
+tags:
+- alifta
+title: Executing Hadd in the absence of the ruler
+translation: false
 ---
 
 ### Question: 

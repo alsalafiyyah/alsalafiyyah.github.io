@@ -1,24 +1,28 @@
 ---
-layout: post
-title: "Ruling on shaving the beard and being unable to perform some Salahs during military service"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 3177"
-hijri: "Muharram 12, 1442 AH"
-category: [rulership]
-tags: [alifta]
+hijri: Muharram 12, 1442 AH
 lang: en
-translation: false
-summary: "It is not permissible for a Muslim to indulge in something that entails all these forbidden acts or even some of them; for this leads to disobedience to Allah and His Messenger (peace be upon him)."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 3177
+summary: It is not permissible for a Muslim to indulge in something that entails all
+  these forbidden acts or even some of them; for this leads to disobedience to Allah
+  and His Messenger (peace be upon him).
+tags:
+- alifta
+title: Ruling on shaving the beard and being unable to perform some Salahs during
+  military service
+translation: false
 ---
 
 ### Question: 

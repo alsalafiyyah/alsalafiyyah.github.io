@@ -1,27 +1,27 @@
 ---
-layout: post
-title: "Ruling on a father who breaks all contact with his daughter due to her wearing Hijab"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 5953, Question 6"
-hijri: Muharram 12, 1442
 date: 2020/08/31
-category: [fatwas,women]
-note: true
-locale: en
+hijri: Muharram 12, 1442
 lang: en
-summary: "Thus, she must not obey him in this regard, because her act of wearing Hijab is an act of obedience to Allah."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz
+  chairman:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Afifi
-      url: /biography/afifi
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud
+  - name: Shaykh Abdul-Razzaq Afifi
+    url: /biography/afifi
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 5953, Question 6
+summary: Thus, she must not obey him in this regard, because her act of wearing Hijab
+  is an act of obedience to Allah.
+title: Ruling on a father who breaks all contact with his daughter due to her wearing
+  Hijab
 ---
 
 ### Question: 

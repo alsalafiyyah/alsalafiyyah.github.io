@@ -1,15 +1,17 @@
 ---
-layout: post
-title: "I found a sum of money somewhere and asked people there about it but it was not theirs"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 14893-8"
-hijri: Muharram 11, 1442 AH
 date: 2020/08/30
-category: [luqatah]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
+hijri: Muharram 11, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+shaykhs:
+- Shaykh Abdul-Aziz ibn Baz
+- Shaykh Abdul-Razzaq al-Afify
+- Shaykh Abdullah ibn Ghudayyan
+source: Fatawa Al-Lajnah Ad-Da'imah no. 14893-8
+title: I found a sum of money somewhere and asked people there about it but it was
+  not theirs
 ---
 
 Question: 

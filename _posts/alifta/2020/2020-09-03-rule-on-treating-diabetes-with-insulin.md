@@ -1,15 +1,16 @@
 ---
-layout: post
-title: "Ruling on treating diabetes with a medicine extracted from pigs"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no.  3681"
-hijri: Muharram 15, 1442
-summary: It is Haram to use this type of insulin which is produced from pigs. This view is based on authentic evidence indicating the prohibition to use unlawful things as medications.
 date: 2020/09/3
-locale: en
-lang: en
-category: [treatments,fatwas]
 group1: true
+hijri: Muharram 15, 1442
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no.  3681
+summary: It is Haram to use this type of insulin which is produced from pigs. This
+  view is based on authentic evidence indicating the prohibition to use unlawful things
+  as medications.
+title: Ruling on treating diabetes with a medicine extracted from pigs
 ---
 
 ### Question:
@@ -18,5 +19,4 @@ Diabetes is a widespread disease which develops as a result of deficiency of ins
 ### Answer:
 It is Haram to use this type of insulin which is produced from pigs. This view is based on authentic evidence indicating the prohibition to use unlawful things as medications and on the fact that Allah (Exalted be He) does not make unlawful things a means of bringing about recovery from illnesses. An authentic narration related in this regard is the Hadith in which the Prophet (peace be upon him) is reported to have said, "**O Allah's servants! Treat yourselves medically, but use nothing unlawful.**" (Abu Dawud [Book on Medicine] no. 3874.)
 
-May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions. 
-
+May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.

@@ -1,15 +1,14 @@
 ---
-layout: post
-title: "Ruling on using hair medicines"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 8256, Question 4"
-hijri: Muharram 15, 1442
-category: [treatments,fatwas]
 group1: true
-note: true
+hijri: Muharram 15, 1442
 lang: en
-locale: en
-summary: If a person suffers hair loss and becomes bald, will it be permissible to use medication to generate hair growth?
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 8256, Question 4
+summary: If a person suffers hair loss and becomes bald, will it be permissible to
+  use medication to generate hair growth?
+title: Ruling on using hair medicines
 ---
 
 ### Question:

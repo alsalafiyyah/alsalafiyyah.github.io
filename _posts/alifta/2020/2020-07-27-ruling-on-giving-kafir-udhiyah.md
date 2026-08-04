@@ -1,25 +1,24 @@
 ---
-layout: post
-title: "Ruling on giving a non-Muslim neighbor from the Udhiyah"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 11754, Question 1"
-category: [fatwa,walabara]
 hijri: Dhul-Hijjah 6, 1441
 lang: en
-locale: en
-note: true
-uid: ruling-on-giving-kafir-udhiyah
-summary: "It is permissible to give a non-Muslim from the meat of an Udhiyah or ‘Aqiqah, as a way of showing kindness to neighbors and discharging neighborhood duties."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
+  chairman:
+  - name: Shaykh Abdul-Aziz Ibn Baz
+    url: /biography/binbaz/
+  deputy_chairman:
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 11754, Question 1
+summary: It is permissible to give a non-Muslim from the meat of an Udhiyah or ‘Aqiqah,
+  as a way of showing kindness to neighbors and discharging neighborhood duties.
+title: Ruling on giving a non-Muslim neighbor from the Udhiyah
+uid: ruling-on-giving-kafir-udhiyah
 ---
 
 ### Question: 

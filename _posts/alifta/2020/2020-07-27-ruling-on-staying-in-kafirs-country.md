@@ -1,27 +1,28 @@
 ---
-layout: post
-title: "Ruling on Staying in non-Muslim country"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 1177"
-category: [fatwas,walabara]
-hijri: Dhul-Hijjah 6, 1441
 date: 2020-07-27
+hijri: Dhul-Hijjah 6, 1441
 lang: en
-note: true
-locale: en
-summary: "On the other hand, Muslims who are able to migrate to Muslim countries, yet prefer to live suppressed or servile in non-believers’ countries at the compromise of their religion are doing wrong to themselves, to their religion and to Muslims on the whole."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Mani'
-      url: /biography/mani/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Mani'
+    url: /biography/mani/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 1177
+summary: On the other hand, Muslims who are able to migrate to Muslim countries, yet
+  prefer to live suppressed or servile in non-believers’ countries at the compromise
+  of their religion are doing wrong to themselves, to their religion and to Muslims
+  on the whole.
+title: Ruling on Staying in non-Muslim country
 ---
 
 ### Question: 

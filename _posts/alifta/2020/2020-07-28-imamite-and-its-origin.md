@@ -1,15 +1,18 @@
 ---
-layout: post
-title: "Ruling on Imamite Shiites sect in Islam and its origin"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 9420, Question 3"
-category: [sects]
-tags: [alifta]
-hijri: "Dhul-Hijjah 7, 1441"
-lang: en
-translation: false
-summary: "It was not the way of the Prophet (peace be upon him) or his the Rightly-Guided Caliphs (may Allah be pleased with them) to recite the Qur'an by the graves or celebrate the anniversaries of the dead."
 group6: true
+hijri: Dhul-Hijjah 7, 1441
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 9420, Question 3
+summary: It was not the way of the Prophet (peace be upon him) or his the Rightly-Guided
+  Caliphs (may Allah be pleased with them) to recite the Qur'an by the graves or celebrate
+  the anniversaries of the dead.
+tags:
+- alifta
+title: Ruling on Imamite Shiites sect in Islam and its origin
+translation: false
 ---
 
 ### Question: 

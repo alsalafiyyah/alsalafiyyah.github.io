@@ -1,16 +1,19 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Certainty is not removed by doubt"
 date: 2019-09-01
-hijri: "Muharram 02, 1441 AH"
-source: "Fatawa Al-lajnah Ad-Da'imah of KSA, Fatwa no. 6895, Question 3"
-category: [taharah, ablution, salah]
-summary: "If you entertain doubts of Hadath (ritual impurity invalidating ablution) after having performed Taharah (ritual purification), cast doubts away and act based upon your state of Taharah, because certainty is not overruled by doubt."
-tags: [alifta]
-lang: en
-translation: false
 group1: true
+hijri: Muharram 02, 1441 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-lajnah Ad-Da'imah of KSA, Fatwa no. 6895, Question 3
+summary: If you entertain doubts of Hadath (ritual impurity invalidating ablution)
+  after having performed Taharah (ritual purification), cast doubts away and act based
+  upon your state of Taharah, because certainty is not overruled by doubt.
+tags:
+- alifta
+title: Certainty is not removed by doubt
+translation: false
 ---
 
 ### Question : 

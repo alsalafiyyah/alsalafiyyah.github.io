@@ -1,3 +1,8 @@
+---
+lang: en
+mass_edited: true
+---
+
 ﻿---
 layout: post
 title: "The gospels' glad tidings of sending Muhammad and Allah's showing the lies of the Christians and Jews"
@@ -97,6 +102,3 @@ Indeed, there are so many Ayahs indicating the textual evidence with the People 
 Understanding the above exegesis of the relevant Ayahs juxtaposed to other similar Ayahs giving details and decisive explanation to each other will specify the meaning of the Mutashabihat (similar and dependent Qur'anic verses, open to more than one interpretation or whose meaning is known only to Allah). Understanding these Ayahs provides the answer to the doubts posed by the Christian American missionary. It contains a full response to the suspicions and doubts he raised in the beginning of his speech.
 
 May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
-
-
-

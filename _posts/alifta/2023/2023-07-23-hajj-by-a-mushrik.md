@@ -1,27 +1,29 @@
 ---
-layout: post
-title: Hajj by a Mushrik
-publisher: alsalafiyyah@icloud.com
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa No. 4459, Question 2"
-hijri: "Muharram 4, 1445 AH"
 date: 2023-07-23
-category: [hajj]
-summary: "If anyone performs Hajj while committing major disbelief and then returns to Islam, their Hajj will not count as the obligatory Hajj of Islam."
-tags: [alifta]
+hijri: Muharram 4, 1445 AH
 lang: en
-translation: false
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Afifi
-      url: /biography/afifi/
+  - name: Shaykh Abdul-Razzaq Afifi
+    url: /biography/afifi/
   members:
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa No. 4459, Question 2
+summary: If anyone performs Hajj while committing major disbelief and then returns
+  to Islam, their Hajj will not count as the obligatory Hajj of Islam.
+tags:
+- alifta
+title: Hajj by a Mushrik
+translation: false
 ---
 
 ### Question: 
@@ -32,4 +34,4 @@ A Mushrik (one who associates others with Allah) performed Hajj and a long time 
 
 If anyone performs Hajj while committing major Kufr (disbelief) and then returns to Islam, their Hajj will not count as the obligatory Hajj of Islam. However, if a Muslim apostatizes by committing an act that takes them out of Islam and then they make Tawbah (repentance to Allah) and return to Islam, their Hajj will count as the obligatory Hajj of Islam. This is because they were Muslims when they performed Hajj. 
 
-The Qur’an shows that the deeds performed by a Murtad (apostate from Islam) before their apostasy are rendered worthless if they die as a Kafir (disbeliever), because Allah (Exalted be He) says: **"And whosoever of you turns back from his religion and dies as a disbeliever, then his deeds will be lost in this life and in the Hereafter, and they will be the dwellers of the Fire. They will abide therein forever."** [Al-Baqarah: 217]. 
+The Qur’an shows that the deeds performed by a Murtad (apostate from Islam) before their apostasy are rendered worthless if they die as a Kafir (disbeliever), because Allah (Exalted be He) says: **"And whosoever of you turns back from his religion and dies as a disbeliever, then his deeds will be lost in this life and in the Hereafter, and they will be the dwellers of the Fire. They will abide therein forever."** [Al-Baqarah: 217].

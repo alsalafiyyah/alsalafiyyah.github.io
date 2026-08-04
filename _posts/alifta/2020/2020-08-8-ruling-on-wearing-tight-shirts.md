@@ -1,25 +1,24 @@
 ---
-layout: post
-title: "Ruling on wearing tight shirts"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 12824, Question 1"
-category: [fatwas,women]
-hijri: Dhul-Hijjah 14, 1441
 date: 2020/08/8
-note: true
-locale: en
+hijri: Dhul-Hijjah 14, 1441
 lang: en
-summary: "You should order the women of your household to dress in the islamically lawful way; do not pay attention to the people's comments. "
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz
+  chairman:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Afifi
-      url: /biography/afifi
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan
+  - name: Shaykh Abdul-Razzaq Afifi
+    url: /biography/afifi
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 12824, Question 1
+summary: 'You should order the women of your household to dress in the islamically
+  lawful way; do not pay attention to the people''s comments. '
+title: Ruling on wearing tight shirts
 ---
 
 ### Question: 
@@ -28,4 +27,4 @@ Women here in our country wear tight shirts that reveal the shape of their bodie
 
 ### Answer: 
 
-You should order the women of your household to dress in the Shar'i (Islamically lawful) way; do not pay attention to the people's comments. 
+You should order the women of your household to dress in the Shar'i (Islamically lawful) way; do not pay attention to the people's comments.

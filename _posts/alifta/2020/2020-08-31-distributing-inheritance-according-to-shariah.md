@@ -1,16 +1,17 @@
 ---
-layout: post
-title: "Distributing the inheritance according to Shari'ah"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 4912"
-hijri: Muharram 12, 1442 AH
 date: 2020/08/31
-category: [inheritance]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Qa'ud
+hijri: Muharram 12, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+shaykhs:
+- Shaykh Abdul-Aziz ibn Baz
+- Shaykh Abdullah ibn Ghudayyan
+- Shaykh Abdul-Razzaq al-Afify
+- Shaykh Abdullah ibn Qa'ud
+source: Fatawa Al-Lajnah Ad-Da'imah no. 4912
+title: Distributing the inheritance according to Shari'ah
 ---
 
 Question:

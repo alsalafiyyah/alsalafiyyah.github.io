@@ -1,26 +1,30 @@
 ---
-layout: post
-title: "Ruling on Jama'at Al-Ahbash"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 19606"
-category: [sects]
-hijri: "Muharram 16, 1442 AH"
+hijri: Muharram 16, 1442 AH
 lang: en
-tags: [alifta]
-translation: false
-summary: "Jama'at-ul-Ahbash (the Habashis) is a misguided group which is against Ahl-ul-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream). They must return to the truth which was followed by the Sahabah and Tabi'un in all aspects of religion; actions and belief. This is better and more lasting for them."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 19606
+summary: Jama'at-ul-Ahbash (the Habashis) is a misguided group which is against Ahl-ul-Sunnah
+  wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream). They must return
+  to the truth which was followed by the Sahabah and Tabi'un in all aspects of religion;
+  actions and belief. This is better and more lasting for them.
+tags:
+- alifta
+title: Ruling on Jama'at Al-Ahbash
+translation: false
 ---
 
 Praise be to Allah Alone. Peace and blessings be upon the last Prophet, his family, and Companions. 

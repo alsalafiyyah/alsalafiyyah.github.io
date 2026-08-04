@@ -1,15 +1,18 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "On the Deviant Beliefs of the Tolu-e-Islam Sect"
 date: 2026-07-01
-source: "Fatawa Al-Lajnah Al-Da’imah 2/117-120, Fatwa no. 21168"
-category: ["sects",quranism]
-tags: [alifta]
-lang: en
-translation: false
 group5: true
-summary: "Whoever follows this sect Tolu-e-Islam, advocates for it, or beautifies its views to the people through any media is a disbeliever who has apostatized from the religion of Islam."
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da’imah 2/117-120, Fatwa no. 21168
+summary: Whoever follows this sect Tolu-e-Islam, advocates for it, or beautifies its
+  views to the people through any media is a disbeliever who has apostatized from
+  the religion of Islam.
+tags:
+- alifta
+title: On the Deviant Beliefs of the Tolu-e-Islam Sect
+translation: false
 ---
 
 ### Question: 
@@ -36,4 +39,3 @@ Whoever follows this group, advocates for it, or beautifies its views to the peo
 It is incumbent upon the Muslim ruler to demand their repentance. If they repent, desist, and return to true Islam, [they are accepted]; otherwise, they are executed as a disbeliever. It is mandatory for all Muslims to be cautious of and warn against this misguided group and other sects that have deviated from Islam, such as the Qadiyaniyyah (Ahmadiyya), the Baha'iyyah, and similar groups. We advise our Muslim brothers to hold fast to the Qur'an and the Sunnah, and to follow the Sahahah (Companions of the Prophet ﷺ), the Tabi'un (Successors), and the guided Imams after them who are recognized for their knowledge and piety. 
 
 We ask Allah to suppress the enemies of Islam wherever they may be and to frustrate their plots. Indeed, He is capable of all things. Allah is sufficient for us, and He is the best Disposer of affairs. Praise be to Allah, Lord of the Worlds. And with Allah lies all success. May the peace and blessings of Allah be upon our Prophet Muhammad, his family, and his companions.
-

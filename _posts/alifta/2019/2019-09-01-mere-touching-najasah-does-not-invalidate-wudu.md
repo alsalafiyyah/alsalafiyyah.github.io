@@ -1,25 +1,28 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Mere touching Najasah does not invalidate ablution"
 date: 2019-09-01
-hijri: "Muharram 02, 1441 AH"
-source: "Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 10552, question 2"
-category: [taharah, ablution]
-summary: "Wudu’ is not invalidated if a person’s clothes get soiled with Najasah due to contact with young children (when changing them), after their clothes get wet with urine or anything similar."
-tags: [alifta]
+hijri: Muharram 02, 1441 AH
 lang: en
-translation: false
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+  deputy_chairman:
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah Ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 10552, question 2
+summary: Wudu’ is not invalidated if a person’s clothes get soiled with Najasah due
+  to contact with young children (when changing them), after their clothes get wet
+  with urine or anything similar.
+tags:
+- alifta
+title: Mere touching Najasah does not invalidate ablution
+translation: false
 ---
 
 ### Question : 

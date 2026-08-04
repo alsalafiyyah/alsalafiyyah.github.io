@@ -1,16 +1,15 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com, salafiyyah@outlook.sa
-title: Prophet Joseph, peace be upon him
-source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 9308, Question 2
-hijri: Muharram 7, 1442
 date: 2020/08/26
-note: true
 group12: true
-locale: en
+hijri: Muharram 7, 1442
 lang: en
-category: [prophets,fatwas]
-summary: Yusuf, peace be upon him, and his brothers are the sons of Ya'qub (Jacob, also known as Israel, peace be upon him).
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com, salafiyyah@outlook.sa
+source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 9308, Question 2
+summary: Yusuf, peace be upon him, and his brothers are the sons of Ya'qub (Jacob,
+  also known as Israel, peace be upon him).
+title: Prophet Joseph, peace be upon him
 ---
 
 ### Question:

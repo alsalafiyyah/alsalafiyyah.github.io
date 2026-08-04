@@ -1,19 +1,19 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: Ruling on the one who disobeys the rulers
 date: 2024-07-25
 hijri: Muharram 19, 1446 AH
-source: Al-Ijabat al-Muhimmah fee Mashakil il-Mudlahimmah by Muhammad bin Fahad al-Husayn
-category: [fatwas,sects,rulership]
-locale: en
 lang: en
-translated_by: Abul-Irbad Abid Zargar
-summary: If he criticises the ruler, then this is the madhab of the Khawarij who criticise the rulers, speak about them and incite the people against them.
+layout: post
+mass_edited: true
 muftis:
-  shaykh: 
-    - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan
+  shaykh:
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan
+publisher: alsalafiyyah@icloud.com
+source: Al-Ijabat al-Muhimmah fee Mashakil il-Mudlahimmah by Muhammad bin Fahad al-Husayn
+summary: If he criticises the ruler, then this is the madhab of the Khawarij who criticise
+  the rulers, speak about them and incite the people against them.
+title: Ruling on the one who disobeys the rulers
+translated_by: Abul-Irbad Abid Zargar
 ---
 
 ### Question:

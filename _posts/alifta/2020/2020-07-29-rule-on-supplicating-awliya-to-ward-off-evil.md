@@ -1,26 +1,27 @@
 ---
-layout: post
-title: "Ruling on supplicating to the Awliya to ward off evil and pretending to know the Ghayb"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 5476, Question 4"
-category: [fatwas,sects]
 hijri: Dhul-Hijjah 8, 1441
-note: true
-locale: en
 lang: en
-summary: "Making Du'a to others instead of Allah such as pious people to remove harm, cure the sick, or secure a road is Shirk Akbar  that takes its doer away from the realm of Islam."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 5476, Question 4
+summary: Making Du'a to others instead of Allah such as pious people to remove harm,
+  cure the sick, or secure a road is Shirk Akbar  that takes its doer away from the
+  realm of Islam.
+title: Ruling on supplicating to the Awliya to ward off evil and pretending to know
+  the Ghayb
 ---
 
 ### Question: 

@@ -1,15 +1,16 @@
 ---
-layout: post
-title: "Ibrahim's proclamation to mankind to perform Hajj"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 6147-4"
-hijri: Muharram 12, 1442
 date: 2020/08/31
-category: [hajj,fatwas]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+hijri: Muharram 12, 1442
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+shaykhs:
+- Shaykh Abdul-Aziz ibn Baz
+- Shaykh Abdullah ibn Ghudayyan
+- Shaykh Abdullah ibn Qa'ud
+source: Fatawa Al-Lajnah Ad-Da'imah no. 6147-4
+title: Ibrahim's proclamation to mankind to perform Hajj
 ---
 
 ### Qestion:

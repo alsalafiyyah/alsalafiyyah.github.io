@@ -1,3 +1,8 @@
+---
+lang: en
+mass_edited: true
+---
+
 ﻿---
 layout: post
 title: "Ruling on making distinctions between the prophets and deeming one of them to be superior to others"

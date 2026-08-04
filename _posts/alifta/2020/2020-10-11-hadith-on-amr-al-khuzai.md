@@ -1,25 +1,27 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "The Hadith: 'I saw 'Amr ibn 'Amir Al-Khuza'i dragging his intestines in the Fire'"
 hijri: Safar 24, 1442 AH
-source: "Fatawa Al-Lajnah Al-Da'imah no. 6397-5"
 lang: en
-note: true
-category: [ahl-fatrah, hadiths, tafsir, non-muslim]
-summary: "Is it reported in any Hadith that the Messenger of Allah (peace be upon him) saw 'Amr ibn Luhay turning from side to side in Hellfire, because he was the one who brought the worship of statues into the Ka'bah or into the Arabian Peninsula?"
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
   members:
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah Ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdullah Ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah Ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah no. 6397-5
+summary: Is it reported in any Hadith that the Messenger of Allah (peace be upon him)
+  saw 'Amr ibn Luhay turning from side to side in Hellfire, because he was the one
+  who brought the worship of statues into the Ka'bah or into the Arabian Peninsula?
+title: 'The Hadith: ''I saw ''Amr ibn ''Amir Al-Khuza''i dragging his intestines in
+  the Fire'''
 ---
 
 Question:

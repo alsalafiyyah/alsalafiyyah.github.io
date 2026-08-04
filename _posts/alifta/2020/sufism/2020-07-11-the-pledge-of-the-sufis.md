@@ -1,15 +1,19 @@
 ---
-layout: post
-title: "The pledge of the Sufis"
-publisher: "alsalafiyyah@icloud.com"
-category: ["sects", sufism]
-tags: [alifta]
-source: "Fatwas of the Permanent Committee of KSA, Fatwa no.11056, Question 3"
-hijri: "Dhul-Qa'dah 20, 1441"
-lang: en
-translation: false
-summary: "This kind of pledge is not valid. You have done well by repenting to Allah (Exalted be He). You have to hold firm with the Book of Allah (Exalted be He) and the Sunnah of the Prophet (peace be upon him) by 'Aqidah (creed) and by saying, without taking the pledge to follow a leader of these sects."
 group6: true
+hijri: Dhul-Qa'dah 20, 1441
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatwas of the Permanent Committee of KSA, Fatwa no.11056, Question 3
+summary: This kind of pledge is not valid. You have done well by repenting to Allah
+  (Exalted be He). You have to hold firm with the Book of Allah (Exalted be He) and
+  the Sunnah of the Prophet (peace be upon him) by 'Aqidah (creed) and by saying,
+  without taking the pledge to follow a leader of these sects.
+tags:
+- alifta
+title: The pledge of the Sufis
+translation: false
 ---
 
 ### Question: 
@@ -24,4 +28,3 @@ This kind of pledge is not valid. You have done well by repenting to Allah (Exal
 
 ---
 [^1]: Sahih Muslim [Book on judicial decisions] no. 1718; Musnad Ahmad ibn Hanbal p. 6/180.
-

@@ -1,26 +1,26 @@
 ---
-layout: post
-title: "Ruling on Celebrating Christmas"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 8848"
-category: [fatwas,walabara, mawlids,festivals]
 hijri: Dhul-Hijjah 6, 1441
 lang: en
-locale: en
-note: true
-summary: "It is not permissible to join the Christians in their celebrations, even if those who claim knowledge join them, because this increases their numbers and is a kind of support to them in sin and transgression."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 8848
+summary: It is not permissible to join the Christians in their celebrations, even
+  if those who claim knowledge join them, because this increases their numbers and
+  is a kind of support to them in sin and transgression.
+title: Ruling on Celebrating Christmas
 ---
 
 ### Question: 
@@ -30,4 +30,3 @@ Is it permissible for a Muslim to join the Christians in their celebrations, suc
 ### Answer:
 
 It is not permissible to join the Christians in their celebrations, even if those who claim knowledge join them, because this increases their numbers and is a kind of support to them in sin and transgression. Allah (Exalted be He) says: "**Help you one another in Al-Birr and At-Taqwâ (virtue, righteousness and piety); but do not help one another in sin and transgression.**" [al-Maidah: 2]
-

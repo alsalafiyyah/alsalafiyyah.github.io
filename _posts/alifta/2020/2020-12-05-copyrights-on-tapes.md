@@ -1,25 +1,25 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Copyrights on tapes"
-hijri: "Rabi' Al-Thani 19, 1442"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 18453"
+hijri: Rabi' Al-Thani 19, 1442
 lang: en
-category: [transaction,fatwas]
-note: true
-summary: "It is not permissible for a person to make copies of software programs protected by copyright unless the person obtains permission from the owner of these programs."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 18453
+summary: It is not permissible for a person to make copies of software programs protected
+  by copyright unless the person obtains permission from the owner of these programs.
+title: Copyrights on tapes
 ---
 
 ### Question:
@@ -35,4 +35,3 @@ This applies to any person who owns these software programs whether a Muslim or 
 [^1]: Al-Tirmidhi, Sunan, Book on judgments, no. 1352.
 [^2]: Ahmad ibn Hanbal, Musnad, vol. 5, p. 73.
 [^3]: Al-Bukhari, Al-Tarikh Al-Kabir, vol. 2, p. 62, no. 1690; Abu Dawud, vol. 3, p. 453, no. 3071; Al-Tabarany, vol. 1, p. 280, no. 814; Abu Nu'aym, Ma'rifat Al-Sahabah, vol. 1, p. 3046, no. 1070, verified: 'Adel Al-'Azazy; Abu Al-Qasim Al-Baghawy, Mu'jam Al-Sahabah, vol. 1, p. 173, no. 121, verified: Muhammad Al-Amin Al-Janky; Ibn Sa'd, vol. 7, p. 73; Al-Bayhaqy, vol. 6, p. 142; and Al-Diya* Al-Maqdasy, Al-Mukhtarah, vol. 4, p. 228, no. 1434, verified: Ibn Dahish.
-

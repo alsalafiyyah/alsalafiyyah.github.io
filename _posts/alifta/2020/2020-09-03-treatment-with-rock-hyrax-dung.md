@@ -1,29 +1,28 @@
 ---
-layout: post
-title: "Treatment with rock hyrax dung"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, fatwa no. 16685, question 2"
-hijri: Muharram 15, 1442
 date: 2020/09/3
-note: true
+hijri: Muharram 15, 1442
 lang: en
-locale: en
-category: [treatments,fatwas]
-summary: The dung of rock hyrax is used as a cure for many diseases and is sold by spice traders. Is it permissible to use it for treatment?
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/zayd/
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/zayd/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, fatwa no. 16685, question 2
+summary: The dung of rock hyrax is used as a cure for many diseases and is sold by
+  spice traders. Is it permissible to use it for treatment?
+title: Treatment with rock hyrax dung
 ---
 
 ### Question:

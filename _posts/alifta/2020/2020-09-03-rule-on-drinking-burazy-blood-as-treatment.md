@@ -1,28 +1,28 @@
 ---
-layout: post
-title: "Ruling on drinking the blood of human beings as a treatment for rabies"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 18253, Question 1"
-hijri: Muharram 15, 1442
-summary: "Seeking a cure by drinking the blood of any of these two tribes is not known to have a basis in the Shari'ah of Islam."
-lang: en
-locale: en
 date: 2020/09/3
-category: [treatments,fatwas]
+hijri: Muharram 15, 1442
+lang: en
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/zayd/
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/zayd/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 18253, Question 1
+summary: Seeking a cure by drinking the blood of any of these two tribes is not known
+  to have a basis in the Shari'ah of Islam.
+title: Ruling on drinking the blood of human beings as a treatment for rabies
 ---
 
 ### Question:

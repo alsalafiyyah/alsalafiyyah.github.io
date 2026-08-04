@@ -1,16 +1,15 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: Ruling on prostrate to anyone other than Allah
 date: 2024-07-23
-hijri: Muharram 17, 1446
-source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.4400‏, Question 2
-category: [fatwas]
-note: true
 group9: true
-locale: en
+hijri: Muharram 17, 1446
 lang: en
-summary: If they insist on offering Sujud to anyone other than Allah after being informed, they should be sentenced to death for apostasy.
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.4400‏, Question 2
+summary: If they insist on offering Sujud to anyone other than Allah after being informed,
+  they should be sentenced to death for apostasy.
+title: Ruling on prostrate to anyone other than Allah
 ---
 
 ### Question: 

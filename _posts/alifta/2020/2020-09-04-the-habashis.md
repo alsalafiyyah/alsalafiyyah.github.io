@@ -1,27 +1,28 @@
 ---
-layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "Jama'at-ul-Ahbash (the Habashis)"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 19606"
+date: 2020-09-04
 hijri: Muharram 16, 1442
 lang: en
-locale: en
-note: false
-date: 2020-09-04
-category: [sects,refutals]
-summary: "One of the most important characteristics by which those first generations were distinguished and by which they achieved a higher level of righteousness than other people, was the fact that they referred all their affairs to the Qur’an and the Sunnah."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+  deputy_chairman:
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah no. 19606
+summary: One of the most important characteristics by which those first generations
+  were distinguished and by which they achieved a higher level of righteousness than
+  other people, was the fact that they referred all their affairs to the Qur’an and
+  the Sunnah.
+title: Jama'at-ul-Ahbash (the Habashis)
 ---
 
 Praise be to Allah Alone. Peace and blessings be upon the last Prophet, his family, and Companions. 

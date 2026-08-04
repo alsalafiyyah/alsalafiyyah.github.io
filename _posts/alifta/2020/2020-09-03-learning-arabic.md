@@ -1,23 +1,23 @@
 ---
-layout: post
-title: "Learning Arabic"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah of KSA no. 9845-3"
 hijri: Muharram 14, 1442 AH
 lang: en
-note: true
-category: [knowledge, misc]
-summary: "What should I do to learn the Arabic Language and write it very well? Indeed, I did not have a good education and I want to enrich my knowledge in Arabic."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
+  chairman:
+  - name: Shaykh Abdul-Aziz Ibn Baz
+    url: /biography/binbaz/
+  deputy_chairman:
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah Ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah of KSA no. 9845-3
+summary: What should I do to learn the Arabic Language and write it very well? Indeed,
+  I did not have a good education and I want to enrich my knowledge in Arabic.
+title: Learning Arabic
 ---
 
 Question:

@@ -1,21 +1,21 @@
 ---
+article_taken_from:
+  taken_from:
+  - web_title: العزة للمؤمنين
+    web_url: https://al-fatawa.com/fatwa/104830
+date: 2024-08-06
+group5: true
+hijri: Safar 02, 1446 AH
+lang: en
 layout: post
+mass_edited: true
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Muslims can not achieve glory or overcome their enemies unless they obey Allah and His Messenger"
-hijri: Safar 02, 1446 AH
-date: 2024-08-06
-source: "Fatawa al-Lajnah ad-Da'imah 26/46-49, Fatwa no. 21009, Question 1"
-lang: en
-locale: en
-category: [fatwas]
-note: true
-summary: "How can glory and might be to Muslims when they are so weak in a corrupted world that Christians and Jews predominate?"
-group5: true
-article_taken_from: 
-  taken_from:
-    - web_title: العزة للمؤمنين
-      web_url: https://al-fatawa.com/fatwa/104830
+source: Fatawa al-Lajnah ad-Da'imah 26/46-49, Fatwa no. 21009, Question 1
+summary: How can glory and might be to Muslims when they are so weak in a corrupted
+  world that Christians and Jews predominate?
+title: Muslims can not achieve glory or overcome their enemies unless they obey Allah
+  and His Messenger
 ---
 
 ### Question: 

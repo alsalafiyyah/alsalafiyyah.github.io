@@ -1,16 +1,17 @@
 ---
-layout: post
-title: "Ruling on masturbation for medical purposes"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 1376"
-hijri: Muharram 10, 1442 AH
 date: 2020/08/29
-category: [masturbation]
-shaykhs: 
- - Shaykh Abdul-'Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+hijri: Muharram 10, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+shaykhs:
+- Shaykh Abdul-'Aziz ibn Baz
+- Shaykh Abdul-Razzaq al-Afify
+- Shaykh Abdullah ibn Ghudayyan
+- Shaykh Abdullah ibn Qa'ud
+source: Fatawa Al-Lajnah Ad-Da'imah no. 1376
+title: Ruling on masturbation for medical purposes
 ---
 
 Question: 

@@ -1,27 +1,29 @@
 ---
-layout: post
-title: "The ruling on supplications accompanied by music"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da’imah 26/227-228, Fatwa no. 6914, Question 14"
 date: 2023-07-16
-hijri: "Dhul-Hijjah 28, 1444"
-summary: "If the supplications are tinged with bid'ah, this is even worse, for it combines amusement and heresy."
-category: [bidah,music]
-tags: [alifta]
-translation: false
+hijri: Dhul-Hijjah 28, 1444
 lang: en
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Afifi
-      url: /biography/afifi/
+  - name: Shaykh Abdul-Razzaq Afifi
+    url: /biography/afifi/
   members:
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da’imah 26/227-228, Fatwa no. 6914, Question 14
+summary: If the supplications are tinged with bid'ah, this is even worse, for it combines
+  amusement and heresy.
+tags:
+- alifta
+title: The ruling on supplications accompanied by music
+translation: false
 ---
 
 ### Question: 

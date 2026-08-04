@@ -1,24 +1,27 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Mubahalah between the Messenger (peace be upon him) and the Christians"
 hijri: Muharram 26, 1442 AH
 lang: en
-category: [prophets]
-source: Fatwas of the Permanent Committee no. 6238-4
-summary: "Mubahalah is not exclusive to the event that took place between the Messenger (peace be upon him) and the Christians. In fact, its ruling is general and it can be used by the Prophet (peace be upon him) and his Ummah (nation) with the Christians and non-Christians."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatwas of the Permanent Committee no. 6238-4
+summary: Mubahalah is not exclusive to the event that took place between the Messenger
+  (peace be upon him) and the Christians. In fact, its ruling is general and it can
+  be used by the Prophet (peace be upon him) and his Ummah (nation) with the Christians
+  and non-Christians.
+title: Mubahalah between the Messenger (peace be upon him) and the Christians
 ---
 
 Question:

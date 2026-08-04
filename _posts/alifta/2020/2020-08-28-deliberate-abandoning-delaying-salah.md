@@ -1,15 +1,15 @@
 ---
-layout: post
-title: "Ruling on deliberate abandoning or delaying of Salah after its prescribed time"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 2255, Question 2"
-hijri: Muharram 9, 1442 AH
 date: 2020/08/28
-category: [fatwas,salah,women]
-locale: en
-lang: en
-summary: "If she is as what you have mentioned, she is an apostate. By doing this, she is causing great harm to her daughters. She must be asked to repent."
 group1: true
+hijri: Muharram 9, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 2255, Question 2
+summary: If she is as what you have mentioned, she is an apostate. By doing this,
+  she is causing great harm to her daughters. She must be asked to repent.
+title: Ruling on deliberate abandoning or delaying of Salah after its prescribed time
 ---
 
 ### Question: 

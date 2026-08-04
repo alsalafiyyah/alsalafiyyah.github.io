@@ -1,27 +1,27 @@
 ---
+hijri: Rabi' Al-Thani 02, 1442 AH
+lang: en
 layout: post
+mass_edited: true
+muftis:
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "What is meant by Halal (lawful) and Haram (prohibited) in Islam"
-hijri: "Rabi' Al-Thani 02, 1442 AH"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 17706"
-lang: en
-category: [terminology]
-note: true
-summary: "Halal and Haram are two Shar'i (Islamic legal) rulings, the knowledge of which is acquired from the Qur'an and the Sunnah."
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+source: Fatawa Al-Lajnah Al-Da'imah no. 17706
+summary: Halal and Haram are two Shar'i (Islamic legal) rulings, the knowledge of
+  which is acquired from the Qur'an and the Sunnah.
+title: What is meant by Halal (lawful) and Haram (prohibited) in Islam
 ---
 
 Question:

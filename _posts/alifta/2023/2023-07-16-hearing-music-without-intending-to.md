@@ -1,28 +1,31 @@
 ---
-layout: post
-title: "Ruling on hearing songs or music without intending"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da’imah 26/238, Fatwa no.9259, Question 3"
+author: Permanent Committee of KSA
 date: 2023-07-16
-hijri: "Dhul-Hijjah 28, 1444 AH"
-category: [music]
-tags: [alifta]
-translation: false
+hijri: Dhul-Hijjah 28, 1444 AH
 lang: en
-summary: "Listening to songs is not permissible. As for hearing them without intending to, as happens in the street or on television, then we hope that there is nothing wrong with it."
-author: "Permanent Committee of KSA"
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Afifi
-      url: /biography/afifi/
+  - name: Shaykh Abdul-Razzaq Afifi
+    url: /biography/afifi/
   members:
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da’imah 26/238, Fatwa no.9259, Question 3
+summary: Listening to songs is not permissible. As for hearing them without intending
+  to, as happens in the street or on television, then we hope that there is nothing
+  wrong with it.
+tags:
+- alifta
+title: Ruling on hearing songs or music without intending
+translation: false
 ---
 
 ### Question: 

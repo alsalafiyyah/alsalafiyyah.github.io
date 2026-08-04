@@ -1,15 +1,18 @@
 ---
-layout: post
-title: "Ruling on book of Deobandi Jama'at Tabligh entitled Tablighi Nisab"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 20234"
-category: ["sects", sufism]
-tags: [alifta]
-hijri: "Dhul-Hijjah 5, 1441"
-lang: en
-translation: false
-summary: "Seeking the help of the dead for fulfilling needs of people is a major polytheistic act. Anyone who maintains other than that is committing major disbelief that drives him out of the pale of Islam."
 group2: true
+hijri: Dhul-Hijjah 5, 1441
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 20234
+summary: Seeking the help of the dead for fulfilling needs of people is a major polytheistic
+  act. Anyone who maintains other than that is committing major disbelief that drives
+  him out of the pale of Islam.
+tags:
+- alifta
+title: Ruling on book of Deobandi Jama'at Tabligh entitled Tablighi Nisab
+translation: false
 ---
 
 ### Question: 

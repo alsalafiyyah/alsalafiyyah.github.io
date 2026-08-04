@@ -1,3 +1,8 @@
+---
+lang: en
+mass_edited: true
+---
+
 ﻿---
 layout: post
 publisher: "alsalafiyyah@icloud.com"
@@ -34,4 +39,3 @@ May Allah grant us success. May peace and blessings be upon our Prophet Muhammad
 
 ---
 [^1]: Muslim, Sahih, Book on judicial decisions, no. 1718; and Ahmad ibn Hanbal, Musnad, vol. 6, p. 180.
-

@@ -1,16 +1,17 @@
 ---
-layout: post
-title: "The Ayahs that state the prohibited immoral sexual practices"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 3056-7"
-hijri: Muharram 10, 1442 AH
 date: 2020/08/29
-category: [masturbation, homosexual]
-shaykhs: 
- - Shaykh Abdul-Aziz Ibn Baz
- - Shaykh Abdull-Razzaq al-Afify
- - Shaykh Abdullah ibn Qa'ud
- - Shaykh Abdullah ibn Ghudayyan
+hijri: Muharram 10, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+shaykhs:
+- Shaykh Abdul-Aziz Ibn Baz
+- Shaykh Abdull-Razzaq al-Afify
+- Shaykh Abdullah ibn Qa'ud
+- Shaykh Abdullah ibn Ghudayyan
+source: Fatawa Al-Lajnah Ad-Da'imah no. 3056-7
+title: The Ayahs that state the prohibited immoral sexual practices
 ---
 
 Question: 

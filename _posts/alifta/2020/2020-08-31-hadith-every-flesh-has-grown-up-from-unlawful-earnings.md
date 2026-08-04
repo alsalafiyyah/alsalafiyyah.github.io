@@ -1,21 +1,24 @@
 ---
-layout: post
-title: "The Hadith: 'Every flesh that has grown up from unlawful earnings, Hellfire is most entitled to it'"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 6931-1"
 hijri: Muharram 12, 1442 AH
 lang: en
-category: [foundling, tafsir, hadiths]
-summary: The Hadith which is mentioned in the question generally applies to eating from unlawful sources. It is a threatening Hadith that does not by any means include a foundling.
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah no. 6931-1
+summary: The Hadith which is mentioned in the question generally applies to eating
+  from unlawful sources. It is a threatening Hadith that does not by any means include
+  a foundling.
+title: 'The Hadith: ''Every flesh that has grown up from unlawful earnings, Hellfire
+  is most entitled to it'''
 ---
 
 Question: 

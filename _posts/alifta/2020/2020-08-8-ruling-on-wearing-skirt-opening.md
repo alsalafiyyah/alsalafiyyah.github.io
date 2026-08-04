@@ -1,16 +1,16 @@
 ---
-layout: post
-title: "Ruling on wearing skirt's opening"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no.4680"
-category: [fatwas,women]
-hijri: Dhul-Hijjah 14, 1441
 date: 2020/08/8
-note: true
-locale: en
-lang: en
-summary: "It is prohibited to wear clothes with drawings of beings with souls. This is based on the general prohibition on making Taswir of beings with souls or hanging their photos in the home."
 group1: true
+hijri: Dhul-Hijjah 14, 1441
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no.4680
+summary: It is prohibited to wear clothes with drawings of beings with souls. This
+  is based on the general prohibition on making Taswir of beings with souls or hanging
+  their photos in the home.
+title: Ruling on wearing skirt's opening
 ---
 
 ### Question: 

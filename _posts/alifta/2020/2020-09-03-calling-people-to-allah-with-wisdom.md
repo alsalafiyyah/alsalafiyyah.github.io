@@ -1,16 +1,15 @@
 ---
-layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "Calling people to Allah with wisdom and fair preaching"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no.17743, Question 5"
-hijri: Muharram 14, 1442
 date: 2020-09-03
-note: true
 group2: true
-locale: en
+hijri: Muharram 14, 1442
 lang: en
-category: [fatwas,dawah]
-summary: "You have to call to Allah with wisdom, good admonition and arguing with people in the best manner. You should follow the command of Allah in His Saying."
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no.17743, Question 5
+summary: You have to call to Allah with wisdom, good admonition and arguing with people
+  in the best manner. You should follow the command of Allah in His Saying.
+title: Calling people to Allah with wisdom and fair preaching
 ---
 
 ### Question:

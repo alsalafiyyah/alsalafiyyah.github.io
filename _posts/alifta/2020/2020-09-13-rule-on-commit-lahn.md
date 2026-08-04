@@ -1,21 +1,23 @@
 ---
+hijri: Muharram 21, 1442 AH
+lang: en
 layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Ruling on committing Lahn while reciting Qur'an"
-hijri: "Muharram 21, 1442 AH"
-source: "Fatwa of the Permanent Committee no. 9550"
-summary: "Is there sin on the reciter? Is the Salah (Prayer) of the one who corrected him valid? Please give us your opinion along with the relevant proof."
-category: [fatwas]
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatwa of the Permanent Committee no. 9550
+summary: Is there sin on the reciter? Is the Salah (Prayer) of the one who corrected
+  him valid? Please give us your opinion along with the relevant proof.
+title: Ruling on committing Lahn while reciting Qur'an
 ---
 
 ### Question:

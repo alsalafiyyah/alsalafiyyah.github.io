@@ -1,16 +1,19 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Refuting misconceptions concerning the eternity of Allah's Words"
 date: 2025-07-29
-hijri: "Safar 4, 1447 AH"
-source: "Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 3239, Question 4"
-category: [quran]
-tags: [alifta]
-lang: en
-translation: false
-summary: "The Qur’an is the Speech of Allah; it was not created. 'Isa (peace be upon him) is a human being who was given birth to by Maryam bint 'Imran. Thus, the Qur’an is better."
 group1: true
+hijri: Safar 4, 1447 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 3239, Question 4
+summary: The Qur’an is the Speech of Allah; it was not created. 'Isa (peace be upon
+  him) is a human being who was given birth to by Maryam bint 'Imran. Thus, the Qur’an
+  is better.
+tags:
+- alifta
+title: Refuting misconceptions concerning the eternity of Allah's Words
+translation: false
 ---
 
 ### Question

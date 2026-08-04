@@ -1,16 +1,15 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: The wisdom behind sending Messengers over sporadic periods
-source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 8381, Question 1
-hijri: Muharram 7, 1442
 date: 2020/08/26
 group1: true
-note: true
-locale: en
+hijri: Muharram 7, 1442
 lang: en
-category: [prophets,fatwas]
-summary: What is the wisdom behind sending the prophets and messengers over sporadic periods of time? Why were they not sent in the same time period?
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 8381, Question 1
+summary: What is the wisdom behind sending the prophets and messengers over sporadic
+  periods of time? Why were they not sent in the same time period?
+title: The wisdom behind sending Messengers over sporadic periods
 ---
 
 ### Question:

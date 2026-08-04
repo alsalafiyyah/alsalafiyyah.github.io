@@ -1,25 +1,24 @@
 ---
-layout: post
-title: "Ruling on parting hair on side"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no.1456, Question 3"
-category: [fatwas, women]
-hijri: Dhul-Hijjah 14, 1441
 date: 2020/08/8
-note: true
-locale: en
+hijri: Dhul-Hijjah 14, 1441
 lang: en
-summary: "These women would not enter Paradise nor perceive its odor, even though its odor can be perceived at such and such very remote distance."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Ibn baz
-      url: /biography/binbaz
+  chairman:
+  - name: Shaykh Ibn baz
+    url: /biography/binbaz
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Afifi
-      url: /biography/afifi
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan
+  - name: Shaykh Abdul-Razzaq Afifi
+    url: /biography/afifi
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no.1456, Question 3
+summary: These women would not enter Paradise nor perceive its odor, even though its
+  odor can be perceived at such and such very remote distance.
+title: Ruling on parting hair on side
 ---
 
 ### Question: 

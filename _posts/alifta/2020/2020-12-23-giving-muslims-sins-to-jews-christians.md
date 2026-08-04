@@ -1,22 +1,23 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Giving the Muslims' sins to the Jews and Christians"
-hijri: "Jumada Al-Awwal 8, 1442 AH"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 2718-2"
+hijri: Jumada Al-Awwal 8, 1442 AH
 lang: en
-category: [afterlife]
-note: true
-summary: "Those who invite others to follow the misguidance that they follow, will carry the same sins as those committed by those who follow them, without their own sins being reduced at all."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah no. 2718-2
+summary: Those who invite others to follow the misguidance that they follow, will
+  carry the same sins as those committed by those who follow them, without their own
+  sins being reduced at all.
+title: Giving the Muslims' sins to the Jews and Christians
 ---
 
 Question:

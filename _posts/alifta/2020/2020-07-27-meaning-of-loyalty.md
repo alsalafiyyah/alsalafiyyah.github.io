@@ -1,26 +1,25 @@
 ---
-layout: post
-title: "Take not as friends the people who incurred the Wrath of Allah"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 4246, Question 8"
-category: [fatwas,walabara]
 hijri: Dhul-Hijjah 6, 1441
-locale: en
 lang: en
-note: true
-summary: "Allah forbids believers to establish with the Jews and other disbelievers an alliance of friendship, love, solidarity and support."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz Ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah Ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah Ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah Ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 4246, Question 8
+summary: Allah forbids believers to establish with the Jews and other disbelievers
+  an alliance of friendship, love, solidarity and support.
+title: Take not as friends the people who incurred the Wrath of Allah
 ---
 
 ### Question: 

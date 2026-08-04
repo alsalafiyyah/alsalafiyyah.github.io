@@ -1,28 +1,28 @@
 ---
-layout: post
-title: "Warning against the bad deeds of Fasiq persons is not tale-bearing"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 18452, Question10"
-hijri: Muharram 14, 1442 AH
 date: 2020/09/3
-locale: en
+hijri: Muharram 14, 1442 AH
 lang: en
-category: [fatwas,hisbah]
-summary: "Warning against Fasiqs or people flagrantly violating Islamic law and those who commit major sins is obligatory."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/zayd/
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/zayd/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 18452, Question10
+summary: Warning against Fasiqs or people flagrantly violating Islamic law and those
+  who commit major sins is obligatory.
+title: Warning against the bad deeds of Fasiq persons is not tale-bearing
 ---
 
 ### Question:

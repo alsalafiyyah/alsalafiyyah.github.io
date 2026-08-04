@@ -1,24 +1,24 @@
 ---
-layout: post
-title: "Ruling on book entitled: 'Al-Mustatraf'"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 21561-3"
-category: [books, knowledge]
 hijri: Dhul-Hijjah 8, 1441 AH
 lang: en
-note: true
-summary: "The book entitled 'Al-Mustatraf' includes good and bad information. Therefore, one should not rely on it either regarding knowledge or religion."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
+  chairman:
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
   members:
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  - name: Shaykh Abdullah Ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA no. 21561-3
+summary: The book entitled 'Al-Mustatraf' includes good and bad information. Therefore,
+  one should not rely on it either regarding knowledge or religion.
+title: 'Ruling on book entitled: ''Al-Mustatraf'''
 ---
 
 Question: 

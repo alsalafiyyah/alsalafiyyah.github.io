@@ -1,23 +1,25 @@
 ---
-layout: post
-title: "The Gospel of today is not the same that Allah (Glorified and Exalted be He) sent down"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 13167-2"
-category: [books, walabara, knowledge]
 hijri: Dhul-Hijjah 8, 1441 AH
 lang: en
-note: true
-summary: "The Injil (Gospel) of today is not the same that Allah (Glorified and Exalted be He) sent down. Many distortions, lies, additions, omissions, and blasphemous statements are included."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
+  chairman:
+  - name: Shaykh Abdul-Aziz Ibn Baz
+    url: /biography/binbaz/
+  deputy_chairman:
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
   members:
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
+  - name: Shaykh Abdullah Ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA no. 13167-2
+summary: The Injil (Gospel) of today is not the same that Allah (Glorified and Exalted
+  be He) sent down. Many distortions, lies, additions, omissions, and blasphemous
+  statements are included.
+title: The Gospel of today is not the same that Allah (Glorified and Exalted be He)
+  sent down
 ---
 
 Question: 

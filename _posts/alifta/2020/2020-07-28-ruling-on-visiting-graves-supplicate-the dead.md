@@ -1,16 +1,17 @@
 ---
-layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "Ruling on visiting the graves to supplicate to the dead or ask for their help or intercession"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 3207, Question 3"
-category: [fatwas,tawassul,bidah]
-hijri: Dhul-Hijjah 7, 1441
 date: 2020/07/28
 group1: true
-note: true
-locale: en
+hijri: Dhul-Hijjah 7, 1441
 lang: en
-summary: "People should not visit graves to supplicate to the dead or ask for their help or intercession, as this is Shirk. It is also not permissible to travel far to visit graves or to travel to do so, even if it is not far."
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 3207, Question 3
+summary: People should not visit graves to supplicate to the dead or ask for their
+  help or intercession, as this is Shirk. It is also not permissible to travel far
+  to visit graves or to travel to do so, even if it is not far.
+title: Ruling on visiting the graves to supplicate to the dead or ask for their help
+  or intercession
 ---
 
 ### Question: 

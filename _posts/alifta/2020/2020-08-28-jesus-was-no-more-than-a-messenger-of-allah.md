@@ -1,15 +1,14 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: Jesus was no more than a Messenger of Allah
-source: Fatawa Al-Lajnah Ad-Da'imah no. 1621, question 7
-hijri: Muharram 9, 1442
 date: 2020-08-28
-category: [prophets,sects,fatwas]
-summary: Surely, in disbelief are they who say that Allâh is the Messiah, son of Mary.
 group1: true
-locale: en
+hijri: Muharram 9, 1442
 lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah no. 1621, question 7
+summary: Surely, in disbelief are they who say that Allâh is the Messiah, son of Mary.
+title: Jesus was no more than a Messenger of Allah
 ---
 
 ## Question:
@@ -226,4 +225,4 @@ Also Al-Bukhari and others narrated on the authority of ‘Aishah (may Allah be 
 
 From all this it becomes clear to the person asking these questions that he should refer to the previously explained Ayahs to understand the rest of the similar Ayahs. May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
 
-[^1]: Al-Bukhari, Sahih, Book on Tafsir, no. 4547; Muslim, Sahih, Book on knowledge, no. 2665; Al-Tirmidhy, Sunan, Book on Tafsir, no. 2994; Abu Dawud, Sunan, Book on Al-Sunnah, no. 4598; Ibn Majah, Sunan, Introduction, no. 47; Ahmad, Musnad, vol. 6, p. 48; and Al-Darimy, Sunan Introduction, no. 145. 
+[^1]: Al-Bukhari, Sahih, Book on Tafsir, no. 4547; Muslim, Sahih, Book on knowledge, no. 2665; Al-Tirmidhy, Sunan, Book on Tafsir, no. 2994; Abu Dawud, Sunan, Book on Al-Sunnah, no. 4598; Ibn Majah, Sunan, Introduction, no. 47; Ahmad, Musnad, vol. 6, p. 48; and Al-Darimy, Sunan Introduction, no. 145.

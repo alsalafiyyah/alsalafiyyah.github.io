@@ -1,18 +1,19 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Is there any difference between a Messenger and a Prophet?"
-hijri: "Safar 29, 1446"
-source: "Fatawa Islamiyyah 1/226"
-lang: en
 date: 2024-09-02
-category: [prophets]
-note: false
-summary: "A Prophet is one who receives Revelation from Allah of a law, but he is not commanded to propagate it, only to practice it himself, without being called upon to disseminate it."
+hijri: Safar 29, 1446
+lang: en
+layout: post
+mass_edited: true
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn 'Uthaymeen
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn 'Uthaymeen
+    url: /biography/uthaymeen/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Islamiyyah 1/226
+summary: A Prophet is one who receives Revelation from Allah of a law, but he is not
+  commanded to propagate it, only to practice it himself, without being called upon
+  to disseminate it.
+title: Is there any difference between a Messenger and a Prophet?
 ---
 
 ### Question:

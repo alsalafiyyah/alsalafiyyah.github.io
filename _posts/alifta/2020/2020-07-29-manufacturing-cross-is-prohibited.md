@@ -1,27 +1,26 @@
 ---
-layout: post
-title: "Manufacturing crosses is not permissible"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 7266"
-category: [fatwas,walabara]
-hijri: Dhul-Hijjah 8, 1441
 date: 2020-07-29
+hijri: Dhul-Hijjah 8, 1441
 lang: en
-locale: en
-note: true
-summary: "It is not permissible to have crosses in mosques, houses or educational buildings like schools, institutes and so on."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah Ibn Qa'ud
-      url: /biography/qaud/
+  chairman:
+  - name: Shaykh Abdul-Aziz Ibn Baz
+    url: /biography/binbaz/
+  deputy_chairman:
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah Ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah Ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 7266
+summary: It is not permissible to have crosses in mosques, houses or educational buildings
+  like schools, institutes and so on.
+title: Manufacturing crosses is not permissible
 ---
 
 ### Question: 

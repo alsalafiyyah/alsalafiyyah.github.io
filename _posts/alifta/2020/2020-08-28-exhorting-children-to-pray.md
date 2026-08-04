@@ -1,15 +1,15 @@
 ---
-layout: post
-title: "Exhorting children to pray"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 5133, Question 3"
-hijri: Muharram 9, 1442 AH
 date: 2020/08/28
-locale: en
-lang: en
-summary: "When a child reaches the age of seven, the guardian should command them to perform Salah in order to get them used to it."
-category: [fatwas,salah]
 group1: true
+hijri: Muharram 9, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 5133, Question 3
+summary: When a child reaches the age of seven, the guardian should command them to
+  perform Salah in order to get them used to it.
+title: Exhorting children to pray
 ---
 
 ### Question: 

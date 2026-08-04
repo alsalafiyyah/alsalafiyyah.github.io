@@ -1,13 +1,15 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Islamic ruling on dealing in and buying animals for hobby or decorative purposes"
-hijri: "Rabiul Awwal 20, 1446"
 date: 2024-09-23
-category: [fatwas,animals]
-source: "Fatawa al-Lajnah ad-Da'imah, Fatwa no.18807"
-summary: "Selling decorative birds like parrots, colorful birds and nightingales for their voices is permissible because looking at and listening to them is permissible."
 group13: true
+hijri: Rabiul Awwal 20, 1446
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.18807
+summary: Selling decorative birds like parrots, colorful birds and nightingales for
+  their voices is permissible because looking at and listening to them is permissible.
+title: Islamic ruling on dealing in and buying animals for hobby or decorative purposes
 ---
 
 ### Question: 
@@ -26,5 +28,4 @@ Al-Hafiz (a Muslim scholar memorizing 100,000 Hadith at least) Ibn Hajar said in
 
 **Secondly**, among the conditions of valid sales is that the sold object should be something which is absolutely permissible to use and benefit from, without such permissibility being conditional on the existence of a need or a dire need. There is no benefit in snakes, which are indeed harmful, so it is not permissible to buy or sell them. The same applies to lizards – there is no benefit in them, so it is not permissible to sell or buy them. 
 
-**Thirdly**, it is not permissible to sell predators such as wolves, lions, foxes or any other fanged carnivore, because the Prophet ﷺ forbade that, and because it is a waste of money, which was also forbidden by the Prophet ﷺ. 
-
+**Thirdly**, it is not permissible to sell predators such as wolves, lions, foxes or any other fanged carnivore, because the Prophet ﷺ forbade that, and because it is a waste of money, which was also forbidden by the Prophet ﷺ.

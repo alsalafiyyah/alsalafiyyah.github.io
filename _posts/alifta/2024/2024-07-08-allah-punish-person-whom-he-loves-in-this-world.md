@@ -1,20 +1,20 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: Allah will punish the person whom He loves beforehand in this world
-date: 2024-07-08
-hijri: Muharram 02, 1446
-source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 16523, Question 2
-category: [fatwas,hadiths]
-note: true
-group2: true
-locale: en
-lang: en
-summary: When Allah wills good for His Slave, He hastens to punish them in this worldly life, and when He wills evil for His Slave, He withholds punishing them for their sin until they come to Him with that sin on the Day of Resurrection.
-article_taken_from: 
+article_taken_from:
   taken_from:
-    - web_title: صحة القول بأن من أحبه الله عجل له العقوبة في الدنيا
-      web_url: https://al-fatawa.com/fatwa/103645
+  - web_title: صحة القول بأن من أحبه الله عجل له العقوبة في الدنيا
+    web_url: https://al-fatawa.com/fatwa/103645
+date: 2024-07-08
+group2: true
+hijri: Muharram 02, 1446
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 16523, Question 2
+summary: When Allah wills good for His Slave, He hastens to punish them in this worldly
+  life, and when He wills evil for His Slave, He withholds punishing them for their
+  sin until they come to Him with that sin on the Day of Resurrection.
+title: Allah will punish the person whom He loves beforehand in this world
 ---
 
 ### Question:

@@ -1,15 +1,15 @@
 ---
-layout: post
-title: "Scholars are obliged to enjoin good and forbid evil"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 1254"
-hijri: Muharram 14, 1442 AH
 date: 2020/09/3
-category: [fatwas, hisbah]
 group1: true
-locale: en
+hijri: Muharram 14, 1442 AH
 lang: en
-summary: "The ruling on this varies according to the degree of availability of the scholars and their level of knowledge and rank."
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 1254
+summary: The ruling on this varies according to the degree of availability of the
+  scholars and their level of knowledge and rank.
+title: Scholars are obliged to enjoin good and forbid evil
 ---
 
 ### Question:
@@ -23,4 +23,3 @@ The ruling on this varies according to the degree of availability of the scholar
 It is an individual obligation upon this scholar to do these tasks. On the other hand, there may be many scholars who are all able to do these tasks, in which case, it is a collective obligation upon them to do so. If some fulfill the tasks, the burden will be lifted from the others, but if not, they are all considered to be sinners.
 
 May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
-

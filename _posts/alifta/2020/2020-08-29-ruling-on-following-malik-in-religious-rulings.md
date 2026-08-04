@@ -1,24 +1,26 @@
 ---
-layout: post
-title: "Ruling on following Malik in religious rulings as he derived them"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 4476-4"
 hijri: Muharram 10, 1442 AH
-category: [madhabs]
 lang: en
-summary: "Imam Malik is one of the Imams in religious knowledge, but at the same time he is a human who sometimes errs and at other times is correct, and his words may be accepted or rejected."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah no. 4476-4
+summary: Imam Malik is one of the Imams in religious knowledge, but at the same time
+  he is a human who sometimes errs and at other times is correct, and his words may
+  be accepted or rejected.
+title: Ruling on following Malik in religious rulings as he derived them
 ---
 
 Question: 

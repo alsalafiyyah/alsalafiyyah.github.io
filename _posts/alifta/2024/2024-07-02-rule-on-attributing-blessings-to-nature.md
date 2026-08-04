@@ -1,20 +1,23 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Ruling on attributing blessings to nature"
-date: 2024-07-02
-hijri: "Dhul-Hijjah 26, 1445"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 8886, Question 1"
-category: [misc]
-tags: [alifta]
-lang: en
-translation: false
-group1: true
-summary: It is not permissible to say this sentence 'There are still some natural gifts in our world,' or to write it, even if it is claimed to be metaphorical, because it causes confusion.
-article_taken_from: 
+article_taken_from:
   taken_from:
-    - web_title: النسبة إلى الطبيعة
-      web_url: https://al-fatawa.com/fatwa/111947
+  - web_title: النسبة إلى الطبيعة
+    web_url: https://al-fatawa.com/fatwa/111947
+date: 2024-07-02
+group1: true
+hijri: Dhul-Hijjah 26, 1445
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 8886, Question 1
+summary: It is not permissible to say this sentence 'There are still some natural
+  gifts in our world,' or to write it, even if it is claimed to be metaphorical, because
+  it causes confusion.
+tags:
+- alifta
+title: Ruling on attributing blessings to nature
+translation: false
 ---
 
 ### Question: 
@@ -23,4 +26,4 @@ A bottled water company wrote a strange sentence on a roadside advertising billb
 
 ### Answer: 
 
-It is not permissible to say this sentence: "**There are still some natural gifts in our world**," or to write it, even if it is claimed to be metaphorical, because it causes confusion. It makes the heart content with what atheists believe in, as there are many Kafirs (disbelievers) who still deny the existence of Allah, and attribute all incidents, good and evil, to other than Him. Therefore, Muslims should protect their tongues and pens to safeguard themselves from using slogans and expressions used frequently by the atheists in their speech, and to be inwardly and outwardly safe from traces of Shirk (associating others with Allah in His Divinity or worship). It is obligatory on them to accept your advice, and not to be reluctant in correcting their mistake. They should not make excuses to justify their attitude. The truth has more right to be followed, and as the predecessors "**Beware of what you have to apologize for.**" 
+It is not permissible to say this sentence: "**There are still some natural gifts in our world**," or to write it, even if it is claimed to be metaphorical, because it causes confusion. It makes the heart content with what atheists believe in, as there are many Kafirs (disbelievers) who still deny the existence of Allah, and attribute all incidents, good and evil, to other than Him. Therefore, Muslims should protect their tongues and pens to safeguard themselves from using slogans and expressions used frequently by the atheists in their speech, and to be inwardly and outwardly safe from traces of Shirk (associating others with Allah in His Divinity or worship). It is obligatory on them to accept your advice, and not to be reluctant in correcting their mistake. They should not make excuses to justify their attitude. The truth has more right to be followed, and as the predecessors "**Beware of what you have to apologize for.**"

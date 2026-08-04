@@ -1,28 +1,28 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Validity of acts of worship by someone committing a sin that entails executing the Hadd"
-hijri: "Rabi' Al-Thani 02, 1442"
 date: 2020-11-17
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 102, Question 4"
+hijri: Rabi' Al-Thani 02, 1442
 lang: en
-note: true
-locale: en
-lang: en
-category: [fatwas, zina, intoxicants]
-summary: "Whoever drinks Khamr, commits Zina, or indulges in any sin while considering it Halal (lawful); is regarded as a Kafir (disbeliever) whose good deeds are rendered invalid."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Ibrahim Ibn Muhammad Aal Al-Shaykh
-      url: /biography/ibrahim/
+  chairman:
+  - name: Shaykh Ibrahim Ibn Muhammad Aal Al-Shaykh
+    url: /biography/ibrahim/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Mani'
-      url: /biography/mani/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Mani'
+    url: /biography/mani/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 102, Question 4
+summary: Whoever drinks Khamr, commits Zina, or indulges in any sin while considering
+  it Halal (lawful); is regarded as a Kafir (disbeliever) whose good deeds are rendered
+  invalid.
+title: Validity of acts of worship by someone committing a sin that entails executing
+  the Hadd
 ---
 
 ### Question:

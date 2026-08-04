@@ -1,26 +1,26 @@
 ---
-layout: post
-title: "The trial of Al-Dajjal"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 1758"
-category: [fatwas,doomsday]
 hijri: Muharram 15, 1442 AH
 lang: en
-locale: en
-note: true
-summary: "It is authentically reported from the Prophet - peace be upon him - that Al-Masih Al-Dajjal will appear at the end of time and will command the sky to rain, so it will, and command the earth to bring forth vegetation, so it will."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 1758
+summary: It is authentically reported from the Prophet - peace be upon him - that
+  Al-Masih Al-Dajjal will appear at the end of time and will command the sky to rain,
+  so it will, and command the earth to bring forth vegetation, so it will.
+title: The trial of Al-Dajjal
 ---
 
 ### Question: 

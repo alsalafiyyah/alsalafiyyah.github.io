@@ -1,15 +1,18 @@
 ---
-layout: post
-title: "Misguidance of the Sufis"
-publisher: "alsalafiyyah@icloud.com"
-category: ["sects", sufism]
-tags: [alifta]
-source: "Fatwas of the Permanent Committee of KSA, Fatwa no. 19433"
-hijri: "Dhul-Qa'dah 20, 1441"
-translation: false
-lang: en
-summary: "Muslims have to hold fast to the Qur'an, Sunnah, and to the way of the Salaf with regard to both beliefs and deeds. May Allah help us all to acquire beneficial knowledge and to increase our good deeds!"
 group13: true
+hijri: Dhul-Qa'dah 20, 1441
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatwas of the Permanent Committee of KSA, Fatwa no. 19433
+summary: Muslims have to hold fast to the Qur'an, Sunnah, and to the way of the Salaf
+  with regard to both beliefs and deeds. May Allah help us all to acquire beneficial
+  knowledge and to increase our good deeds!
+tags:
+- alifta
+title: Misguidance of the Sufis
+translation: false
 ---
 
 ### Question: 

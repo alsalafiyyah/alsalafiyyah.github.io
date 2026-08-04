@@ -1,25 +1,27 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Ritual Impurity of Maniy"
 date: 2019-09-01
-hijri: "Muharram 02, 1441 AH"
-source: "Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 1205"
-category: [taharah,fasting,ablution]
-summary: "If the discharged fluid was Maniy, he must perform Ghusl. It also invalidates fasting. Although this fluid is originally pure, it is repulsive."
-tags: [alifta]
+hijri: Muharram 02, 1441 AH
 lang: en
-translation: false
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah Ibn Muni'
-      url: /biography/mani/
+  chairman:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz/
+  deputy_chairman:
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah Ibn Muni'
+    url: /biography/mani/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 1205
+summary: If the discharged fluid was Maniy, he must perform Ghusl. It also invalidates
+  fasting. Although this fluid is originally pure, it is repulsive.
+tags:
+- alifta
+title: Ritual Impurity of Maniy
+translation: false
 ---
 
 ### Question : 
@@ -33,4 +35,3 @@ All praise be to Allah Alone, and peace and blessings be upon His Messenger, and
 The inquirer did not define whether the fluid discharged as a result of foreplay was Maniy (spermatic fluid) or not. He only mentioned that he finds wetness in his underpants. It seems that he finds Madhy (pre-seminal fluid) not semen. Madhy is Najis (ritually impure) and necessitates washing the penis and testicles. Likewise, if the fluid affected his clothing, the defiled parts of it must be washed. Then, the Islamically prescribed Wudu’ (ablution) must be performed after washing the penis and testicles. As to the effect of this fluid on Sawm, according to the soundest scholarly opinions, it does not invalidate fasting nor require Ghusl (ritual bath).
 
 However, if the discharged fluid was Maniy, he must perform Ghusl. It also invalidates fasting. Although this fluid is originally pure, it is repulsive. It is prescribed to wash off the contaminated spots on clothes and underpants. The person observing Sawm must take precautions abandoning whatever arouses his sexual desire.
-

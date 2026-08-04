@@ -1,18 +1,20 @@
 ---
+date: 2024-08-02
+group1: true
+hijri: Muharram 27, 1446 AH
+lang: en
 layout: post
+mass_edited: true
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "The ruling on political and religious parties Hizb ut-Tahrir and the Ikhwanul-Muslimin"
-hijri: "Muharram 27, 1446 AH"
-date: 2024-08-02
-source: "Fatawa al-Lajnah ad-Da'imah, Fatwa no.1674"
-category: [sects]
-tags: [alifta]
+source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.1674
+summary: It is not permissible for Muslims to divide into separate religious groups
+  and parties, with members cursing and fighting each other.
+tags:
+- alifta
+title: The ruling on political and religious parties Hizb ut-Tahrir and the Ikhwanul-Muslimin
 translation: false
-lang: en
-summary: "It is not permissible for Muslims to divide into separate religious groups and parties, with members cursing and fighting each other."
-group1: true
---- 
+---
 
 ### Question: 
 
@@ -39,4 +41,3 @@ There is no harm, however, if the Muslim ruler organizes the Muslims and apporti
 These are considered to be the necessities of life, without which no nation can survive. ***Islam will only be protected and disseminated in this way; by everyone holding fast onto the Qur'an and the guidance of the Messenger of Allah (peace be upon him), his Rightly-Guided Caliphs, and the Salaf (righteous predecessors)***. Muslim groups should all unite with one goal, to co-operate for the success of Islam, to defend its frontiers, and effect all means that will lead to a happy and easy life. They should all gather under the banner of Islam; following Allah's Straight Path and avoiding the paths of misguided and doomed sects. 
 
 Allah (Exalted be He) says: **"And verily, this (i.e. Allâh’s Commandments mentioned in the above two Verses 151 and 152) is My Straight Path, so follow it, and follow not (other) paths, for they will separate you away from His Path. This He has ordained for you that you may become Al-Muttaqûn (the pious - see V.2:2)."** [Al-An'am (6): 153]
-

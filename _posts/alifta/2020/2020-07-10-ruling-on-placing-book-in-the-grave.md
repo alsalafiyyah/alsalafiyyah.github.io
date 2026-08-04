@@ -1,15 +1,17 @@
 ---
-layout: post
-title: "Ruling on placing book in the grave"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatwas of the Permanent Committee of KSA, Fatwa no.3596, Question 1"
-category: [bidah, funerals]
-hijri: "Dhul-Qa'dah 9, 1441AH"
-summary: "It is not permissible to place any books with the dead person believing that they will make them stand firm while answering the two angels’ questions."
-tags: [alifta]
-lang: en
-translation: false
 group1: true
+hijri: Dhul-Qa'dah 9, 1441AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatwas of the Permanent Committee of KSA, Fatwa no.3596, Question 1
+summary: It is not permissible to place any books with the dead person believing that
+  they will make them stand firm while answering the two angels’ questions.
+tags:
+- alifta
+title: Ruling on placing book in the grave
+translation: false
 ---
 
 ### Question: 

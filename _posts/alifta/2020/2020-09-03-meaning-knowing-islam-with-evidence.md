@@ -1,16 +1,16 @@
 ---
-layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "The meaning of knowing Islam with evidence"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 13507, Question 3"
-category: [fatwas]
-hijri: Muharram 15, 1442
 date: 2020-09-03
 group6: true
-note: true
-locale: en
+hijri: Muharram 15, 1442
 lang: en
-summary: Whoever responds to him, embraces Allah's Religion, obeys Allah's Commands, and avoids His Prohibitions will enter Paradise. Whoever rejects faith, disobeys the Messenger, and refuses to embrace Allah's Religion will enter Hellfire. 
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 13507, Question 3
+summary: Whoever responds to him, embraces Allah's Religion, obeys Allah's Commands,
+  and avoids His Prohibitions will enter Paradise. Whoever rejects faith, disobeys
+  the Messenger, and refuses to embrace Allah's Religion will enter Hellfire.
+title: The meaning of knowing Islam with evidence
 ---
 
 ### Question: 

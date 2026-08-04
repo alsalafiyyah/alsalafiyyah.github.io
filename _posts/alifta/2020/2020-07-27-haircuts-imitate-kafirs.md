@@ -1,24 +1,24 @@
 ---
-layout: post
-title: "Ruling on haircuts that imitate disbelievers"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 11610, Question 2"
-category: [fatwas,walabara]
 hijri: Dhul-Hijjah 6, 1441
-locale: en
 lang: en
-note: true
-summary: "The Shari'ah has prohibited imitating disbelievers in their clothes, customs or morals, for this is a means of being influenced by them, inclining to and loving them, which is prohibited."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz Ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah Ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 11610, Question 2
+summary: The Shari'ah has prohibited imitating disbelievers in their clothes, customs
+  or morals, for this is a means of being influenced by them, inclining to and loving
+  them, which is prohibited.
+title: Ruling on haircuts that imitate disbelievers
 ---
 
 ### Question: 

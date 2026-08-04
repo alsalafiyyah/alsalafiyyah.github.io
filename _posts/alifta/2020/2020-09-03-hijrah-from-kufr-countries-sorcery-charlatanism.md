@@ -1,23 +1,23 @@
 ---
-layout: post
-title: "Hijrah from countries of Kufr, sorcery and charlatanism"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 9629"
 hijri: Muharram 14, 1442 AH
 lang: en
-locale: en
-category: [fatwas,hijrah]
-summary: "If you are unable to immigrate, you should abandon all these sects. If this is difficult for you, then you must hold tight to the Din of Allah until you die."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 9629
+summary: If you are unable to immigrate, you should abandon all these sects. If this
+  is difficult for you, then you must hold tight to the Din of Allah until you die.
+title: Hijrah from countries of Kufr, sorcery and charlatanism
 ---
 
 ### Question:

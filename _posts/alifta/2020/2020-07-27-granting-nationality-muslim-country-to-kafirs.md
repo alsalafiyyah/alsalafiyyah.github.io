@@ -1,24 +1,24 @@
 ---
-layout: post
-title: "Ruling on granting the nationality of a Muslim country to a non-Muslim"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no.6495, Question 1"
-category: [fatwas,walabara]
 hijri: Dhul-Hijjah 6, 1441
 lang: en
-locale: en
-note: true
-summary: "It is permissible to grant a non-Muslim the nationality of a Muslim country provided that the danger of Fitnah (sedition) is secured and that his good intentions are sensed."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz Ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah Ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no.6495, Question 1
+summary: It is permissible to grant a non-Muslim the nationality of a Muslim country
+  provided that the danger of Fitnah (sedition) is secured and that his good intentions
+  are sensed.
+title: Ruling on granting the nationality of a Muslim country to a non-Muslim
 ---
 
 ### Question: 

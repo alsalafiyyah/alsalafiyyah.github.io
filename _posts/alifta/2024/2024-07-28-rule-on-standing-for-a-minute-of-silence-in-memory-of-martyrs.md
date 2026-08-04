@@ -1,20 +1,19 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "The ruling standing for a minute of silence in memory of martyrs"
-date: 2024-07-28
-hijri: Muharram 22, 1446
-source: "Fatawa al-Lajnah ad-Da'imah, Fatwa no.1674‏, Question 4"
-category: [fatwas, funerals]
-locale: en
-lang: en
-summary: This is considered as unacceptable or disapproved of by Islamic law and Muslims of sound intellect, and bid`ah, 
-group6: true
-note: true
-article_taken_from: 
+article_taken_from:
   taken_from:
-    - web_title: الوقوف حدادا على الشهداء
-      web_url: https://al-fatawa.com/fatwa/112710
+  - web_title: الوقوف حدادا على الشهداء
+    web_url: https://al-fatawa.com/fatwa/112710
+date: 2024-07-28
+group6: true
+hijri: Muharram 22, 1446
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.1674‏, Question 4
+summary: This is considered as unacceptable or disapproved of by Islamic law and Muslims
+  of sound intellect, and bid`ah,
+title: The ruling standing for a minute of silence in memory of martyrs
 ---
 
 ### Question: 
@@ -27,4 +26,4 @@ In fact, some Muslims who lack knowledge of their religion imitate the disbeliev
 
 Among the rights that are known in Islam are supplicating to Allah for deceased Muslims, giving Sadaqah (voluntary charity) on their behalf, mentioning their virtues, and refraining from mentioning their evils. 
 
-There are many other proprieties that Islam has clarified and urged Muslims to observe with their fellow Muslims, whether they are alive or dead; standing silently in memory of the martyrs or well-known personalities is not among them. Actually, the basic principles of Islam reject such a ritual. 
+There are many other proprieties that Islam has clarified and urged Muslims to observe with their fellow Muslims, whether they are alive or dead; standing silently in memory of the martyrs or well-known personalities is not among them. Actually, the basic principles of Islam reject such a ritual.

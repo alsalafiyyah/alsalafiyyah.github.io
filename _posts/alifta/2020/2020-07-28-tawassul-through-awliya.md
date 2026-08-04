@@ -1,16 +1,15 @@
 ---
-layout: post
-title: "Tawassul through the Awliya'"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 1328, Question 2"
-category: [fatwas,tawassul]
-hijri: Dhul-Hijjah 7, 1441
 date: 2020/07/28
 group3: true
-locale: en
+hijri: Dhul-Hijjah 7, 1441
 lang: en
-note: true
-summary: "Is it permissible for a Muslim to make Tawassul by virtue of the status of the prophets and the righteous people?"
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 1328, Question 2
+summary: Is it permissible for a Muslim to make Tawassul by virtue of the status of
+  the prophets and the righteous people?
+title: Tawassul through the Awliya'
 ---
 
 ### Question: 
@@ -28,4 +27,3 @@ Secondly, asking Allah through the love of His Prophet and following his Sunnah,
 Thirdly, asking Allah through the virtue and honor of His Prophets or one of His Awliya' by saying, "O, Allah, I ask You by virtue of Your Prophet or by the honor of Al-Husayn..." and this kind of Tawassul is not permissible. Though the honor of the Awliya' is great, especially that of Prophet Muhammad (peace be upon him), it cannot be relied on as a means of answering the Du`a'. That is why when the Sahabah suffered from drought, they did not make Tawassul to Allah for rain by virtue of the Prophet's honor. They asked the Prophet's uncle Al-'Abbas to supplicate to Allah, although the Prophet's honor is the greatest. Moreover, it has never been narrated on the authority of any of the Sahabah (may Allah be pleased with them) that they made Tawassul through the Prophet (peace be upon him) after his death, while they are the best of Muslim generations, who knew well his esteem and were the most loving of him.
 
 Fourthly, a servant asking His Lord for their need swearing by one of His Awliya' or Prophets, or by their virtue saying, "O, Allah! I ask You to grant me such-and-such thing by virtue of so-and-so or by the right of Your Prophet so-and-so." This again is impermissible because just adjuring a person by the life or virtue of another is prohibited; and is even more prohibited when it comes to Allah. Furthermore, no servant of Allah, no matter how pious and obedient they are, is entitled to such status that makes others adjure Allah or beseech Him by their virtue. This opinion is supported by legal proofs, and on the basis of which the Islamic creed is protected, and is regarded a means to block the ways leading to Shirk.
-

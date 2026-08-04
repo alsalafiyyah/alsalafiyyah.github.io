@@ -1,20 +1,20 @@
 ---
+date: 2024-08-23
+hijri: Safar 19, 1446 AH
+lang: en
 layout: post
+mass_edited: true
+muftis:
+  shaykh:
+  - name: Shaykh Ibn 'Uthaymeen
+    url: /biography/uthaymeen
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Gharqad the tree of the Jews"
-hijri: Safar 19, 1446 AH
-date: 2024-08-23
-source: "Fatawa Islamiyah 8/393"
-lang: en
-locale: en
-category: [fatwas,non-muslim,palestine]
-note: false
-summary: "The Prophet ﷺ informed us that when the Muslims fight the Jews, the Jews will try to hide behind trees, every tree will inform the Muslims that a Jew is hiding behind it, except for the Gharqad tree."
-muftis:
-  shaykh: 
-    - name: Shaykh Ibn 'Uthaymeen
-      url: /biography/uthaymeen
+source: Fatawa Islamiyah 8/393
+summary: The Prophet ﷺ informed us that when the Muslims fight the Jews, the Jews
+  will try to hide behind trees, every tree will inform the Muslims that a Jew is
+  hiding behind it, except for the Gharqad tree.
+title: Gharqad the tree of the Jews
 ---
 
 ### Question:

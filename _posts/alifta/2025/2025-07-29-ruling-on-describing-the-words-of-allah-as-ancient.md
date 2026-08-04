@@ -1,27 +1,30 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Ruling on describing the Words of Allah as ancient"
 date: 2025-07-29
-hijri: "Safar 4, 1447 AH"
-source: "Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 3239, Question 4"
-category: [fatwas, quran]
-summary: "As for describing the Words of Allah as “ancient,” neither the Sahabah (Companions of the Prophet) nor the Imams of Salaf were reported to have described Allah’s Words as ancient."
-tags: [alifta]
+hijri: Safar 4, 1447 AH
 lang: en
-translation: false
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 3239, Question 4
+summary: As for describing the Words of Allah as “ancient,” neither the Sahabah (Companions
+  of the Prophet) nor the Imams of Salaf were reported to have described Allah’s Words
+  as ancient.
+tags:
+- alifta
+title: Ruling on describing the Words of Allah as ancient
+translation: false
 ---
 
 ### Question:

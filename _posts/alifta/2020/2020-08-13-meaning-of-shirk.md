@@ -1,19 +1,19 @@
 ---
-layout: post
-title: "Meaning of Shirk"
-publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa 4/32, Question 1"
-category: [fatwas,terminology]
-hijri: Dhul-Hijjah 23, 1441 AH
 date: 2020/08/13
-note: false
-locale: en
+hijri: Dhul-Hijjah 23, 1441 AH
 lang: en
-summary: "Shirk is defined as associating others with Allah in worship, such as invoking, seeking relief, making vows, offering prayers, fasting, or slaughtering animals for the idols."
+layout: post
+mass_edited: true
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz
+  shaykh:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz
+publisher: alsalafiyyah@icloud.com
+source: Majmu' Fatawa 4/32, Question 1
+summary: Shirk is defined as associating others with Allah in worship, such as invoking,
+  seeking relief, making vows, offering prayers, fasting, or slaughtering animals
+  for the idols.
+title: Meaning of Shirk
 ---
 
 ### Question:
@@ -43,4 +43,3 @@ In other words, Muslims should seek the means of approach to Allah (Exalted be H
 The Messengers and their followers draw closer to Allah (Exalted be He) through the means He ordained, such as making Jihad (fighting), fasting, Salah, Dhikr (Remembrance of Allah), and reading the Qur'an. Thus, it is false that some people believe that invoking or seeking relief from 'Awliya' is a proper means of drawing closer to Allah (Exalted be He).
 
 On the contrary, this is the belief of the polytheists about whom Allah (Exalted be He) says: "**And they worship besides Allâh things that harm them not, nor profit them, and they say: “These are our intercessors with Allâh.**” [Yunus: 18] Allah (Glorified be He) replied to them, saying: "**...Say: “Do you inform Allâh of that which He knows not in the heavens and on the earth?” Glorified and Exalted is He above all that which they associate as partners (with Him)!**" [Yunus: 18]
-

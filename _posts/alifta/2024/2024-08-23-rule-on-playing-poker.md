@@ -1,20 +1,19 @@
 ---
+date: 2024-08-23
+hijri: Safar 19, 1446 AH
+lang: en
 layout: post
+mass_edited: true
+muftis:
+  shaykh:
+  - name: Permanent Committee
+    url: /biography/alifta
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on playing poker"
-hijri: Safar 19, 1446 AH
-date: 2024-08-23
-source: "Fatawa Islamiyah 8/262-264"
-lang: en
-locale: en
-category: [fatwas]
-note: false
-summary: "Card playing has an evil effect on society. It deters people from praying in the mosque; it causes enmity and ill will."
-muftis:
-  shaykh: 
-    - name: Permanent Committee
-      url: /biography/alifta
+source: Fatawa Islamiyah 8/262-264
+summary: Card playing has an evil effect on society. It deters people from praying
+  in the mosque; it causes enmity and ill will.
+title: Ruling on playing poker
 ---
 
 ### Question: 
@@ -28,4 +27,3 @@ Allah Almighty says: **"O you who believe! Intoxicants (all kinds of alcoholic d
 People who play cards are sinning by doing so, and are also sinning for all unlawful acts that accompany it, such as cursing, smoking, making false oaths, and not praying in congregation.
 
 You asked about the effects card playing has on society. The secure society is made up of two things: following what Allah Almighty ordered us to do and refraining from what He Almighty has prohibited. And because society degenerates when an obligatory deed is forsaken and when an evil deed is perpetrated, card playing has an evil effect on society. It deters people from praying in the Masjid; it causes enmity and ill will; it instills laziness in people, causing them to neglect working to support their families; it encourages people to do what is unlawful. If money is involved, then the profits derived from card playing are also unlawful.
-

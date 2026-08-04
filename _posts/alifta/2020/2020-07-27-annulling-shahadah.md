@@ -1,14 +1,14 @@
 ---
-layout: post
-title: "Annulling Shahadah"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 10684"
-category: [misc]
-hijri: Dhul-Hijjah 6, 1441 AH
 date: 2020/07/27
 group6: true
-note: true
-summary: "What is the separating line between Kufr (disbelief) and Islam?"
+hijri: Dhul-Hijjah 6, 1441 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah no. 10684
+summary: What is the separating line between Kufr (disbelief) and Islam?
+title: Annulling Shahadah
 ---
 
 Question: 

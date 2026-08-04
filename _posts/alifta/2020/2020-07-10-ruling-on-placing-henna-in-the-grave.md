@@ -1,15 +1,17 @@
 ---
-layout: post
-title: "Ruling on  placing Henna in the Grave with the Deceased"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatwas of the Permanent Committee of KSA, Fatwa no.6433, Question 6"
-category: [bidah, funerals]
-hijri: "Dhul-Qa'dah 9, 1441 AH"
-summary: "As for putting henna in the grave, this has no basis in Shari'ah; it should be abandoned."
-tags: [alifta]
-lang: en
-translation: false
 group1: true
+hijri: Dhul-Qa'dah 9, 1441 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatwas of the Permanent Committee of KSA, Fatwa no.6433, Question 6
+summary: As for putting henna in the grave, this has no basis in Shari'ah; it should
+  be abandoned.
+tags:
+- alifta
+title: Ruling on  placing Henna in the Grave with the Deceased
+translation: false
 ---
 
 ### Question: 

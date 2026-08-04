@@ -1,18 +1,18 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "The Ruling on pronouncing the intention to pray aloud"
 date: 2024-07-28
 hijri: Muharram 22, 1446
-source: "Fatawa Islamiyah 1/253"
-category: [fatwas,salah,bidah]
-locale: en
 lang: en
-summary: "Pronouncing the intention is an innovation or bid'ah, and pronouncing it aloud is an even worse sin."
+layout: post
+mass_edited: true
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz
+  shaykh:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Islamiyah 1/253
+summary: Pronouncing the intention is an innovation or bid'ah, and pronouncing it
+  aloud is an even worse sin.
+title: The Ruling on pronouncing the intention to pray aloud
 ---
 
 ### Question:

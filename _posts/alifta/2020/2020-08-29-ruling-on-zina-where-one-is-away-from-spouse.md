@@ -1,25 +1,25 @@
 ---
-layout: post
-title: "Ruling on Zina especially where one is away from the spouse"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 4765, Question 1"
-hijri: Muharram 10, 1442
 date: 2020-08-29
+hijri: Muharram 10, 1442
 lang: en
-locale: en
-note: true
-category: [zina, marriage]
-summary: "A Muslim is prohibited to commit Zina, even if he is away from his wife for one or two years or more. He has to travel to his wife to satisfy his desire through lawful means and to achieve chastity."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 4765, Question 1
+summary: A Muslim is prohibited to commit Zina, even if he is away from his wife for
+  one or two years or more. He has to travel to his wife to satisfy his desire through
+  lawful means and to achieve chastity.
+title: Ruling on Zina especially where one is away from the spouse
 ---
 
 ### Question: 

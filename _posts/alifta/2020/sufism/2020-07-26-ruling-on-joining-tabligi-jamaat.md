@@ -1,15 +1,18 @@
 ---
-layout: post
-title: "Ruling on joining Jama'at Tabligh"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 17776, Question 2"
-category: [sects,sufism]
-tags: [alifta]
-hijri: "Dhul-Hijjah 5, 1441"
-lang: en
-translation: false
-summary: "The acts of the group you mentioned count as Bid'ahs (innovations in religion). You are not allowed to join them unless they adhere to the teachings stated in the Book of Allah and in the Sunnah and stop observing Bid'ah in deeds, words and beliefs."
 group2: true
+hijri: Dhul-Hijjah 5, 1441
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 17776, Question 2
+summary: The acts of the group you mentioned count as Bid'ahs (innovations in religion).
+  You are not allowed to join them unless they adhere to the teachings stated in the
+  Book of Allah and in the Sunnah and stop observing Bid'ah in deeds, words and beliefs.
+tags:
+- alifta
+title: Ruling on joining Jama'at Tabligh
+translation: false
 ---
 
 ### Question: 
@@ -25,4 +28,4 @@ If I join this group, what should I do with these acts which are not mentioned i
 
 ### Answer:
 
-The acts of the group you mentioned count as Bid'ahs (innovations in religion). You are not allowed to join them unless they adhere to the teachings stated in the Book of Allah and in the Sunnah and stop observing Bid'ah in deeds, words and beliefs. 
+The acts of the group you mentioned count as Bid'ahs (innovations in religion). You are not allowed to join them unless they adhere to the teachings stated in the Book of Allah and in the Sunnah and stop observing Bid'ah in deeds, words and beliefs.

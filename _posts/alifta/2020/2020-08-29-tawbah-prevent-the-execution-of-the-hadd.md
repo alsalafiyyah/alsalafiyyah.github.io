@@ -1,15 +1,18 @@
 ---
-layout: post
-title: "Tawbah to prevent the execution of the Hadd"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 9000"
-hijri: "Muharram 10, 1442 AH"
-category: [rulership]
-tags: [alifta]
-lang: en
-translation: false
-summary: "If Hudud come to the knowledge of the ruler and are proven by sufficient evidence, they should be carried out and should not be waived by Tawbah according to the consent of scholars."
 group1: true
+hijri: Muharram 10, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 9000
+summary: If Hudud come to the knowledge of the ruler and are proven by sufficient
+  evidence, they should be carried out and should not be waived by Tawbah according
+  to the consent of scholars.
+tags:
+- alifta
+title: Tawbah to prevent the execution of the Hadd
+translation: false
 ---
 
 ### Question: 

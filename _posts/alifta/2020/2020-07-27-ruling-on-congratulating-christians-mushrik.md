@@ -1,27 +1,27 @@
 ---
-layout: post
-title: "Ruling on congratulating a Christian teacher or who commits acts of Shirk"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 18074, Question 10"
-category: [fatwas, walabara, mawlids, festivals]
 hijri: Dhul-Hijjah 6, 1441
 lang: en
-locale: en
-note: true
-summary: "It is not permissible either to attend the Christian festivals or congratulate them on such occasions; for this will be a sort of being pleased with what they do, flattering them for their falsehood and helping them in sin and transgression."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 18074, Question 10
+summary: It is not permissible either to attend the Christian festivals or congratulate
+  them on such occasions; for this will be a sort of being pleased with what they
+  do, flattering them for their falsehood and helping them in sin and transgression.
+title: Ruling on congratulating a Christian teacher or who commits acts of Shirk
 ---
 
 ### Question: 

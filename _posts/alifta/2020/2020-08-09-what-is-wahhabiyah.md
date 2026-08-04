@@ -1,17 +1,17 @@
 ---
-layout: post
-title: "What is Wahhabiyah"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 9420, Question 2"
-hijri: Dhul-Hijjah 19, 1441
-date: 2020-08-09
-lang: en
-locale: en
-note: true
-group6: true
 active: wahhabi
-category: [fatwas,wahhabism]
-summary: "Wahhabism is the term which the enemies of Shaykh Muhammad ibn 'Abdul-Wahhab gave to his call to purify Tawhid from all forms of Shirk and to renounce all the ways except that of Muhammad Ibn ‘Abdullah (peace be upon him)."
+date: 2020-08-09
+group6: true
+hijri: Dhul-Hijjah 19, 1441
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 9420, Question 2
+summary: Wahhabism is the term which the enemies of Shaykh Muhammad ibn 'Abdul-Wahhab
+  gave to his call to purify Tawhid from all forms of Shirk and to renounce all the
+  ways except that of Muhammad Ibn ‘Abdullah (peace be upon him).
+title: What is Wahhabiyah
 ---
 
 ### Question: 

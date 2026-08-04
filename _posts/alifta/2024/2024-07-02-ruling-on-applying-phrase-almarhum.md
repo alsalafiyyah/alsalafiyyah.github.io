@@ -1,20 +1,19 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: Ruling on applying the phrase Al-Marhum and Al-Maghfur Lahu to the deceased
-date: 2024-07-02
-hijri: Dhul-Hijjah 26, 1445
-source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 8217
-category: [fatwas]
-note: true
-group1: true
-locale: en
-lang: en
-summary: It is impermissible for anyone to declare that Allah has bestowed forgiveness or mercy upon a deceased person unless there is a clear text. 
-article_taken_from: 
+article_taken_from:
   taken_from:
-    - web_title: إطلاق لفظ المرحوم والمغفور له على المتوفى
-      web_url: https://al-fatawa.com/fatwa/111941
+  - web_title: إطلاق لفظ المرحوم والمغفور له على المتوفى
+    web_url: https://al-fatawa.com/fatwa/111941
+date: 2024-07-02
+group1: true
+hijri: Dhul-Hijjah 26, 1445
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 8217
+summary: It is impermissible for anyone to declare that Allah has bestowed forgiveness
+  or mercy upon a deceased person unless there is a clear text.
+title: Ruling on applying the phrase Al-Marhum and Al-Maghfur Lahu to the deceased
 ---
 
 ### Question:

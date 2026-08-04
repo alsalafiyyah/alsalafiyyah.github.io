@@ -1,16 +1,15 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: On movie entitled A Man from Babel about the life story of Prophet Abraham
-source: Fatawa Al-Lajnah Ad-Daimah no. 4054
-hijri: Muharram 7, 1442
 date: 2020/08/26
-note: true
 group1: true
-locale: en
+hijri: Muharram 7, 1442
 lang: en
-category: [prophets,fatwas]
-summary: It is not permissible to act the messengers and the prophets, which will be necessary to film their stories.
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Daimah no. 4054
+summary: It is not permissible to act the messengers and the prophets, which will
+  be necessary to film their stories.
+title: On movie entitled A Man from Babel about the life story of Prophet Abraham
 ---
 
 ### Question:

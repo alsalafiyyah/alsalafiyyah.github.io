@@ -1,20 +1,19 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: Ruling on visiting the grave of Arwaz and making offerings for him 
-date: 2024-07-22
-hijri: Muharram 16, 1446
-source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.16105, Question 2
-category: [fatwas,funerals]
-note: true
-group7: true
-locale: en
-lang: en
-summary: Visiting the graves of the pious people for the purpose of seeking their blessings or drawing closer to them, etc, is an act of Shirk.
-article_taken_from: 
+article_taken_from:
   taken_from:
-    - web_title: زيارة قبر سيدي أرواز والإهداء له
-      web_url: https://al-fatawa.com/fatwa/104892
+  - web_title: زيارة قبر سيدي أرواز والإهداء له
+    web_url: https://al-fatawa.com/fatwa/104892
+date: 2024-07-22
+group7: true
+hijri: Muharram 16, 1446
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.16105, Question 2
+summary: Visiting the graves of the pious people for the purpose of seeking their
+  blessings or drawing closer to them, etc, is an act of Shirk.
+title: Ruling on visiting the grave of Arwaz and making offerings for him
 ---
 
 ### Question:

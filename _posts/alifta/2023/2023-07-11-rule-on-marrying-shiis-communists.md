@@ -1,28 +1,31 @@
 ---
-layout: post
-title: "It is not permissible to give the daughters of Sunni families in marriage to the sons of Shi’is or Communists"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da’imah 18/298-300, Fatwa no. 20011"
-category: [sects, marriage, women]
-hijri: "Dhul-Hijjah 23, 1444"
+hijri: Dhul-Hijjah 23, 1444
 lang: en
-tags: [alifta]
-translation: false
-summary: "It is not permissible to give the daughters of Sunni families in marriage to the sons of Shi’is or Communists. If the marriage takes place, it is invalid."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  chairman:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz/
+  deputy_chairman:
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Abdullah Ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da’imah 18/298-300, Fatwa no. 20011
+summary: It is not permissible to give the daughters of Sunni families in marriage
+  to the sons of Shi’is or Communists. If the marriage takes place, it is invalid.
+tags:
+- alifta
+title: It is not permissible to give the daughters of Sunni families in marriage to
+  the sons of Shi’is or Communists
+translation: false
 ---
 
 ### Question: 
@@ -33,4 +36,4 @@ Respected mufti, my question is: What is the shar’i ruling on my staying with 
 
 ### Answer: 
 
-It is not permissible to give the daughters of Sunni families in marriage to the sons of Shi’is or Communists. If the marriage takes place, it is invalid, because it is well known that the Shi’ah offer supplication (du’a) to Ahl al-Bayt (the Prophet’s family) and seek help through them, and this is major shirk; and the communists are atheists and have no religion at all. You have to go back to your family and not allow this man to be intimate with you, and you have to refer the matter to the authorities in your own country. 
+It is not permissible to give the daughters of Sunni families in marriage to the sons of Shi’is or Communists. If the marriage takes place, it is invalid, because it is well known that the Shi’ah offer supplication (du’a) to Ahl al-Bayt (the Prophet’s family) and seek help through them, and this is major shirk; and the communists are atheists and have no religion at all. You have to go back to your family and not allow this man to be intimate with you, and you have to refer the matter to the authorities in your own country.

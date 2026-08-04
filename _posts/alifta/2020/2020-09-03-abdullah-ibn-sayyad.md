@@ -1,28 +1,27 @@
 ---
-layout: post
-title: "Abdullah ibn Sayyad"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 17521, Question 2"
-category: [fatwas,doomsday]
 hijri: Muharram 15, 1442 AH
 lang: en
-locale: en
-note: true
-summary: "Abdullah ibn Sayyad appeared in the lifetime of the Prophet, and some Sahabah thought he was Al-Dajjal."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-  members: 
-    - name: Shaykh Abdul-Aziz Aal al-Shaykh
-      url: /biography/abdulaziz/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  - name: Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  members:
+  - name: Shaykh Abdul-Aziz Aal al-Shaykh
+    url: /biography/abdulaziz/
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 17521, Question 2
+summary: Abdullah ibn Sayyad appeared in the lifetime of the Prophet, and some Sahabah
+  thought he was Al-Dajjal.
+title: Abdullah ibn Sayyad
 ---
 
 ### Question: 

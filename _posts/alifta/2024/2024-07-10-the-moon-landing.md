@@ -1,16 +1,15 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: The Moon Landing
 date: 2024-07-10
-hijri: Muharram 04, 1446
-source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 1615, Question 12
-category: [fatwas]
-note: true
 group1: true
-locale: en
+hijri: Muharram 04, 1446
 lang: en
-summary: The knowledge about this matter will not increase or decrease our faith. Thus, we should neither believe nor deny what they say.
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 1615, Question 12
+summary: The knowledge about this matter will not increase or decrease our faith.
+  Thus, we should neither believe nor deny what they say.
+title: The Moon Landing
 ---
 
 ### Question: 

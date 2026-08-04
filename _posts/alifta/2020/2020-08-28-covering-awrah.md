@@ -1,14 +1,15 @@
 ---
-layout: post
-title: "Covering the Awrah"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 5128"
-hijri: Muharram 9, 1442 AH
 date: 2020/08/28
-category: [women]
-note: true
 group1: true
-summary: "According to the consensus of Muslim scholars, covering the Awrah is Wajib (obligatory)."
+hijri: Muharram 9, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah no. 5128
+summary: According to the consensus of Muslim scholars, covering the Awrah is Wajib
+  (obligatory).
+title: Covering the Awrah
 ---
 
 Question: 

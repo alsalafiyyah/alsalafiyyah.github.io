@@ -1,15 +1,18 @@
+---
+lang: en
+mass_edited: true
+---
+
 ﻿---
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: The life of Jesus, his descent, destroying the cross, killing pigs and calling to the truth
 source: Fatawa Al-Lajnah Ad-Da'imah no.4745
 hijri: Muharram 8, 1442
-locale: en
 lang: en
-note: true
 group1: true
 date: 2020/08/27
-category: [prophets,fatwas,sects]
+category: [prophets,sects]
 summary: Proofs from the Qur'an and the Sunnah confirm that 'Isa (peace be upon him) was not murdered or crucified, and did not die as well.
 ---
 

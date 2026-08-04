@@ -1,16 +1,15 @@
 ---
-layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "Obligation of Salah on a Mukallaf"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 4321, Question 3"
-hijri: "Muharram 9, 1442"
-locale: en
-lang: en
 date: 2020/08/28
-category: [fatwas,salah]
-note: true
-summary: "Salah is obligatory upon every Mukallaf either man or woman, five times a day."
 group9: true
+hijri: Muharram 9, 1442
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 4321, Question 3
+summary: Salah is obligatory upon every Mukallaf either man or woman, five times a
+  day.
+title: Obligation of Salah on a Mukallaf
 ---
 
 ### Question: 

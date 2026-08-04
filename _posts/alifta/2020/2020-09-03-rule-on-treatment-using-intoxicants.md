@@ -1,15 +1,15 @@
 ---
-layout: post
-title: "Ruling on treatment with intoxicants"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 3163, Question 2"
-hijri: Muharram 15, 1442
-locale: en
-lang: en
-summary: "What is the ruling on drinking Khamr (intoxicants) in case of necessity, i.e. Being advised by the doctor to do so?"
 date: 2020/09/3
-category: [treatments,fatwas]
 group1: true
+hijri: Muharram 15, 1442
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 3163, Question 2
+summary: What is the ruling on drinking Khamr (intoxicants) in case of necessity,
+  i.e. Being advised by the doctor to do so?
+title: Ruling on treatment with intoxicants
 ---
 
 ### Question:

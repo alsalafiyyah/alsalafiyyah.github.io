@@ -1,26 +1,25 @@
 ---
-layout: post
-title: "Authenticity of the Hadiths mentioning Al-Dajjal"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 3381, Question 2"
-category: [fatwas,doomsday,hadiths]
 hijri: Muharram 15, 1442 AH
 lang: en
-locale: en
-note: true
-summary: "There are Hadiths that are Sahih and Mutawatir about the appearance of Al-Masih-ul-Dajjal. His appearance is one of the Signs of the Hour."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 3381, Question 2
+summary: There are Hadiths that are Sahih and Mutawatir about the appearance of Al-Masih-ul-Dajjal.
+  His appearance is one of the Signs of the Hour.
+title: Authenticity of the Hadiths mentioning Al-Dajjal
 ---
 
 ### Question: 

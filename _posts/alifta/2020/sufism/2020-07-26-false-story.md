@@ -1,15 +1,19 @@
 ---
-layout: post
-title: "False story made by the Sufi Shaykh of Jama'at Tabligh"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 21412"
-category: [sects]
-tags: [alifta]
-hijri: "Dhul-Hijjah 5, 1441"
-lang: en
-translation: false
-summary: "It is not permissible to read the book of Fada'il A'mal (Faza'il-e-A'mal) or any similar book that contains superstitions and lies to the people in Masjids or elsewhere, for this implies misleading people and spreading superstitions among them."
 group5: true
+hijri: Dhul-Hijjah 5, 1441
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 21412
+summary: It is not permissible to read the book of Fada'il A'mal (Faza'il-e-A'mal)
+  or any similar book that contains superstitions and lies to the people in Masjids
+  or elsewhere, for this implies misleading people and spreading superstitions among
+  them.
+tags:
+- alifta
+title: False story made by the Sufi Shaykh of Jama'at Tabligh
+translation: false
 ---
 
 ### Question: 

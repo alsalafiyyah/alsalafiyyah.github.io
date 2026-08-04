@@ -1,16 +1,18 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: Ruling on hiring people to recite Qur'an for the dead
 date: 2024-06-30
-hijri: Dhul-Hijjah 24, 1445
-source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 14409, Question 2
-category: [quran, funerals, bidah]
-tags: [alifta]
-lang: en
-translation: false
-summary: Reciting the Qur'an for the souls of the dead or reciting it in the graves or hiring someone to recite it is an act of bid`ah and is not permissible.
 group6: true
+hijri: Dhul-Hijjah 24, 1445
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 14409, Question 2
+summary: Reciting the Qur'an for the souls of the dead or reciting it in the graves
+  or hiring someone to recite it is an act of bid`ah and is not permissible.
+tags:
+- alifta
+title: Ruling on hiring people to recite Qur'an for the dead
+translation: false
 ---
 
 ### Question:

@@ -1,23 +1,23 @@
 ---
-layout: post
-title: "Ruling on intending to commit sodomy"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 10572-3"
 hijri: Muharram 10, 1442 AH
 lang: en
-note: true
-category: [homosexual]
-summary: "Thank Allah for protecting you against the crime of sodomy. Seek Allah's forgiveness and do many good deeds."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah no. 10572-3
+summary: Thank Allah for protecting you against the crime of sodomy. Seek Allah's
+  forgiveness and do many good deeds.
+title: Ruling on intending to commit sodomy
 ---
 
 Question: 

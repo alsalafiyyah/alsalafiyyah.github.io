@@ -1,29 +1,28 @@
 ---
-layout: post
-title: "Ruling on hanging a non-Muslim country's flag on a Muslim's chest"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 20597, Question 2"
-category: [fatwas,walabara]
 hijri: Dhul-Hijjah 6, 1441
-locale: en
 lang: en
-note: true
-uid: ruling-on-hanging-kafir-flag-in-chest
-summary: "It is not permissible for a Muslim to hang the disbelievers' distinctive symbols, such as crosses or other items, onto their chest."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  chairman:
+  - name: Shaykh Abdul-Aziz Ibn Baz
+    url: /biography/binbaz/
+  deputy_chairman:
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 20597, Question 2
+summary: It is not permissible for a Muslim to hang the disbelievers' distinctive
+  symbols, such as crosses or other items, onto their chest.
+title: Ruling on hanging a non-Muslim country's flag on a Muslim's chest
+uid: ruling-on-hanging-kafir-flag-in-chest
 ---
 
 ### Question: 

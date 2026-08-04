@@ -1,19 +1,22 @@
 ---
-layout: post
-title: "Ruling on the family of the deceased serving food for people and holding ceremonies on certain days"
-publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
-source: "Fatawa Al-Lajnah Ad-Daimah no. 17458 question 2"
-hijri: Muharram 3, 1442
-summary: It is islamically permissible to serve sufficient food for the deceased's family to satisfy their need, since they will be too busy with their calamity to prepare food for themselves.
-category: [funerals,fatwas,]
 date: 2020/08/22
-shaykhs: 
- - Shaykh Ibn Baz
- - Shaykh Abdul-Aziz Aal Al-Shaykh
- - Shaykh Salih Fawzan
- - Shaykh Bakr Abu Zayd
+hijri: Muharram 3, 1442
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com, salafiyyah@outlook.sa
+shaykhs:
+- Shaykh Ibn Baz
+- Shaykh Abdul-Aziz Aal Al-Shaykh
+- Shaykh Salih Fawzan
+- Shaykh Bakr Abu Zayd
+source: Fatawa Al-Lajnah Ad-Daimah no. 17458 question 2
+summary: It is islamically permissible to serve sufficient food for the deceased's
+  family to satisfy their need, since they will be too busy with their calamity to
+  prepare food for themselves.
+title: Ruling on the family of the deceased serving food for people and holding ceremonies
+  on certain days
 ---
-
 
 ### Question: 
 A few groups of scholars, who call themselves Ahl-us-Sunnah (adherents to the Sunnah), have appeared in our country. They state the following claims: 
@@ -37,4 +40,3 @@ There is another Hadith related on the authority of Jabir (may Allah be pleased 
 [^1]: Al-Tirmidhi, Sunan, Books on funerals, no. 998; Abu Dawud, Sunan, Book on funerals, no. 3132; and Ibn Majah, Book on funerals, no. 1610.
 [^2]: Al-Bukhari, Sahih, Book on clothing, no. 5816; Muslim, Sahih, Book on Masjids and places for Salah, no. 531; Al-Nasa'i, Sunan, Book on Masjids, no. 703; Ahmad, Musnad, vol. 1, p. 218, and Al-Darimy, Sunan, Book on Salah, no. 1403.
 [^3]: Muslim, Sahih, Book on funerals, no. 970; Al-Tirmidhy, Sunan, Book on funerals, no. 1052; Al-Nasa'i, Sunan, Book on funerals, no. 2027; Ibn Majah, Sunan, Book on funerals, no. 1562; and Ahmad, Musnad, vol. 3, p. 295.
-

@@ -1,23 +1,23 @@
 ---
-layout: post
-title: "Ruling on offering a non-Muslim guest unlawful food"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 443, Question 4"
-category: [fatwas,walabara]
 hijri: Dhul-Hijjah 6, 1441
 lang: en
-locale: en
-note: true
-summary: "If one may be harmed due to not being generous to them, then it is permissible. However, offering them illegal foods and drinks prohibited by Allah as swine flesh and wine is not permissible."
+layout: post
+mass_edited: true
 muftis:
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah Ibn Mani'
-      url: /biography/mani/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah Ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah Ibn Mani'
+    url: /biography/mani/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA no. 443, Question 4
+summary: If one may be harmed due to not being generous to them, then it is permissible.
+  However, offering them illegal foods and drinks prohibited by Allah as swine flesh
+  and wine is not permissible.
+title: Ruling on offering a non-Muslim guest unlawful food
 ---
 
 ### Question: 

@@ -1,24 +1,24 @@
 ---
-layout: post
-title: "Obligations towards non-Muslim co-workers"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 9355, Question 2"
-category: [fatwas,walabara]
 hijri: Dhul-Hijjah 6, 1441
-locale: en
 lang: en
-note: true
-summary: "You should invite them to Islam, enjoin Ma'ruf (that which is judged as good, beneficial, or fitting by Islamic law and Muslims of sound intellect) on them, and forbid them from Munkar (that which is unacceptable or disapproved of)."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz Ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah Ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 9355, Question 2
+summary: You should invite them to Islam, enjoin Ma'ruf (that which is judged as good,
+  beneficial, or fitting by Islamic law and Muslims of sound intellect) on them, and
+  forbid them from Munkar (that which is unacceptable or disapproved of).
+title: Obligations towards non-Muslim co-workers
 ---
 
 ### Question: 

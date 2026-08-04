@@ -1,27 +1,31 @@
 ---
-layout: post
-title: "Responsible for Qisas"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 18804 Question 4"
-hijri: "Muharram 10, 1442 AH"
-category: [rulership]
-translation: false
-tags: [alifta]
+hijri: Muharram 10, 1442 AH
 lang: en
-summary: "It is not permissible to resort to Qisas (just retaliation) unless the crime is legally confirmed through the legal court. Only the ruler should bring the retaliation not the individuals because they are not entitled to do so; because this would result in much harm and chaos."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 18804 Question 4
+summary: It is not permissible to resort to Qisas (just retaliation) unless the crime
+  is legally confirmed through the legal court. Only the ruler should bring the retaliation
+  not the individuals because they are not entitled to do so; because this would result
+  in much harm and chaos.
+tags:
+- alifta
+title: Responsible for Qisas
+translation: false
 ---
 
 ### Question: 

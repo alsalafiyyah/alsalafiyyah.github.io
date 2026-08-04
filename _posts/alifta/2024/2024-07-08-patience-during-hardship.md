@@ -1,20 +1,20 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: Patience During Hardship
-date: 2024-07-08
-hijri: Muharram 02, 1446
-source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 6365, Question 8
-category: [fatwas]
-note: true
-group1: true
-locale: en
-lang: en
-summary: A Muslim should depend on Allah and hold firm to His Rope in bringing benefit and removing harm. If a person is inflicted with a calamity or adversity, they should be patient and seek Allah's Reward for it.
-article_taken_from: 
+article_taken_from:
   taken_from:
-    - web_title:  الصبر عند المصيبة
-      web_url: https://al-fatawa.com/fatwa/110967
+  - web_title: الصبر عند المصيبة
+    web_url: https://al-fatawa.com/fatwa/110967
+date: 2024-07-08
+group1: true
+hijri: Muharram 02, 1446
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 6365, Question 8
+summary: A Muslim should depend on Allah and hold firm to His Rope in bringing benefit
+  and removing harm. If a person is inflicted with a calamity or adversity, they should
+  be patient and seek Allah's Reward for it.
+title: Patience During Hardship
 ---
 
 ### Question: 

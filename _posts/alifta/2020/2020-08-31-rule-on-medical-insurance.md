@@ -1,16 +1,16 @@
 ---
-layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "Ruling on medical insurance"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 21238"
-hijri: Muharram 12, 1442
 date: 2020/08/31
-category: [fatwas,insurance]
 group5: true
-note: true
-locale: en
+hijri: Muharram 12, 1442
 lang: en
-summary: "The health insurance mentioned in your Fatwa request is one form of commercial insurance which is legally prohibited since it involves fraudulence, gambling and using people's money unjustly."
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 21238
+summary: The health insurance mentioned in your Fatwa request is one form of commercial
+  insurance which is legally prohibited since it involves fraudulence, gambling and
+  using people's money unjustly.
+title: Ruling on medical insurance
 ---
 
 ### Question: 

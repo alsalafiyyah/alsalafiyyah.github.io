@@ -1,14 +1,15 @@
 ---
-layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "Ruling on claiming that Al-Khadir takes care of people in rivers and deserts"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 1727, Question 6"
-hijri: Muharram 8, 1442
-note: true
-group1: true
 date: 2020/08/27
-summary: Is Al-Khadir a guardian of the rivers and deserts and does he help those who get lost if they call him?
-category: [fatwas,prophets]
+group1: true
+hijri: Muharram 8, 1442
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah no. 1727, Question 6
+summary: Is Al-Khadir a guardian of the rivers and deserts and does he help those
+  who get lost if they call him?
+title: Ruling on claiming that Al-Khadir takes care of people in rivers and deserts
 ---
 
 ### Question: 

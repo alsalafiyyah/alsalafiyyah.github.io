@@ -1,15 +1,16 @@
 ---
-layout: post
-title: "Hastening to fulfill religious obligations"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 11133"
-hijri: Muharram 12, 1442
 date: 2020/08/31
-category: [fatwas,hajj]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdul-Razzaq al-Afifi
+hijri: Muharram 12, 1442
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+shaykhs:
+- Shaykh Abdul-Aziz ibn Baz
+- Shaykh Abdullah ibn Ghudayyan
+- Shaykh Abdul-Razzaq al-Afifi
+source: Fatawa Al-Lajnah Ad-Da'imah no. 11133
+title: Hastening to fulfill religious obligations
 ---
 
 ### Question:

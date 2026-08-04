@@ -1,16 +1,20 @@
 ---
-layout: post
-title: "Forgiving the people of good qualities their slips"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 18732"
-hijri: "Muharram 10, 1442 AH"
 date: 2020-08-29
-lang: en
-translation: false
-tags: [alifta]
-category: ["rulership", hudud, hadiths]
 group2: true
-summary: "The Hadith means that it is desirable to forgive people of good qualities if they commit a small or trivial mistake but not a sin that requires the execution of a Hadd decreed by Allah if the ruler knows about the sin in which case it must be executed."
+hijri: Muharram 10, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 18732
+summary: The Hadith means that it is desirable to forgive people of good qualities
+  if they commit a small or trivial mistake but not a sin that requires the execution
+  of a Hadd decreed by Allah if the ruler knows about the sin in which case it must
+  be executed.
+tags:
+- alifta
+title: Forgiving the people of good qualities their slips
+translation: false
 ---
 
 ### Question: 

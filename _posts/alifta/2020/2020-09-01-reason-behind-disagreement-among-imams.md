@@ -1,24 +1,25 @@
 ---
-layout: post
-title: "Reason behind disagreement among Imams Malik, Ahmad and Al-Shafi'i"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Daimah no. 4875"
 hijri: Muharram 13, 1442 AH
 lang: en
-category: [madhabs]
-summary: "What are the causes of disagreement in legal opinions among Imams Malik, Al-Shafi'i and Ahmad ibn Hanbal (may Allah be Merciful with them)?"
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Daimah no. 4875
+summary: What are the causes of disagreement in legal opinions among Imams Malik,
+  Al-Shafi'i and Ahmad ibn Hanbal (may Allah be Merciful with them)?
+title: Reason behind disagreement among Imams Malik, Ahmad and Al-Shafi'i
 ---
 
 Question:

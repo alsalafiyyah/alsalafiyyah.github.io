@@ -1,15 +1,17 @@
 ---
-layout: post
-title: "Fabricated Hadith: 'The best among you is the one whose first child is a girl'"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 19329-5"
-hijri: Muharram 11, 1442 AH
 date: 2020/08/30
-category: [tafsir, hadiths, mawdu-daif]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Salih Fawzan
+hijri: Muharram 11, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+shaykhs:
+- Shaykh Abdul-Aziz ibn Baz
+- Shaykh Abdul-Aziz Aal al-Shaykh
+- Shaykh Salih Fawzan
+source: Fatawa Al-Lajnah Ad-Da'imah no. 19329-5
+title: 'Fabricated Hadith: ''The best among you is the one whose first child is a
+  girl'''
 ---
 
 Question: 

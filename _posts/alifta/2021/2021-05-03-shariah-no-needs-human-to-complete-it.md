@@ -1,15 +1,17 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Acts of worship are Tawqifi"
-hijri: Ramadan 21, 1442 AH
-source: "Fatawa Al-Lajnah Al-Daimah, Fatwa no. 2467"
-category: [bidah]
-translation: false
-lang: en
-tags: [alifta]
-summary: "The fundamental rule on the acts of worship is that it is bound by a religious text and not subject to personal opinion"
 group1: true
+hijri: Ramadan 21, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Daimah, Fatwa no. 2467
+summary: The fundamental rule on the acts of worship is that it is bound by a religious
+  text and not subject to personal opinion
+tags:
+- alifta
+title: Acts of worship are Tawqifi
+translation: false
 ---
 
 ### Question: 

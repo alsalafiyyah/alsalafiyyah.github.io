@@ -1,18 +1,20 @@
 ---
+article_taken_from:
+  taken_from:
+  - web_title: ما صحة القول بأن الإنسان كان قردا وتطور
+    web_url: https://al-fatawa.com/fatwa/111609
+date: 2020-09-20
+group1: true
+hijri: Safar 03, 1442
+lang: en
 layout: post
+mass_edited: true
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Darwin's theory of evolution"
-hijri: "Safar 03, 1442"
-date: 2020-09-20
-source: "Fatawa al-Lajnah ad-Da'imah 1/31, Fatwa no. 5167, Question 5"
-category: [darwinism, darwinian, non-muslim]
-summary: "This claim is not correct. The evidence for this is that Allah clarified in the Quran the stages of the creation of Adam."
-article_taken_from: 
-  taken_from:
-    - web_title: ما صحة القول بأن الإنسان كان قردا وتطور
-      web_url: https://al-fatawa.com/fatwa/111609
-group1: true
+source: Fatawa al-Lajnah ad-Da'imah 1/31, Fatwa no. 5167, Question 5
+summary: This claim is not correct. The evidence for this is that Allah clarified
+  in the Quran the stages of the creation of Adam.
+title: Darwin's theory of evolution
 ---
 
 ### Question: 
@@ -26,4 +28,3 @@ This claim is not correct. The evidence for this is that Allah clarified in the 
 As for the stages through which the creation of Adam's progeny passes, Allah the Exalted says: **“And indeed We created man (Adam) out of an extract of clay (water and earth). Thereafter We made him (the offspring of Adam) as a Nutfah (mixed drops of the male and female sexual discharge and lodged it) in a safe lodging (womb of the woman). Then We made the Nutfah into a clot (a piece of thick coagulated blood), then We made the clot into a little lump of flesh, then We made out of that little lump of flesh bones, then We clothed the bones with flesh, and then We brought it forth as another creation. So Blessed is Allâh, the Best of creators.”** (Al-Mu'minun, 23:12-14). 
 
 As for Adam’s wife (Eve), Allah the Exalted clarified that He created her from him, saying: **“O mankind! Be dutiful to your Lord, Who created you from a single person (Adam), and from him (Adam) He created his wife [Hawwâ’ (Eve)], and from them both He created many men and women.”** (An-Nisa, 4:1).
-

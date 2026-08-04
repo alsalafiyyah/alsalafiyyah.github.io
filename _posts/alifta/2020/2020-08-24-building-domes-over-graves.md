@@ -1,3 +1,8 @@
+---
+lang: en
+mass_edited: true
+---
+
 ﻿---
 layout: post
 title: "Ruling on building domes over graves"
@@ -28,5 +33,3 @@ There are other Ayahs which order us to obey Allah and His Messenger. Building d
 ---
 [^1]: Muslim, Sahih, Book on funerals, no. 969; Al-Tirmidhi, Sunan, Book on funerals, no. 1049; Al-Nasa'i, Sunan, Book on funerals, no. 2031; Abu Dawud, Book on funerals, no. 3218; and Ahmad, Musnad, vol. 1, p. 139.
 [^2]: Muslim, Sahih, Book on funerals, no. 970; Al-Tirmidhi, Sunan, Book on funerals, no. 1052; Al-Nasa'i, Sunan, Book on funerals, no. 2027; Abu Dawud, Sunan, Book on funerals, no. 3225; Ibn Majah, Sunan, Book on funerals, no. 1563; Book on remembrance of Allah, supplication, repentance and seeking forgiveness, 3, p. 339.
-
-

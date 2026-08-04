@@ -1,15 +1,17 @@
 ---
-layout: post
-title: "Sufis beats themselves with skewers"
-publisher: "alsalafiyyah@icloud.com"
-category: ["sects", sufism]
-tags: [alifta]
-source: "Fatwas of the Permanent Committee of KSA, Fatwa no. 18466, Question 1"
-hijri: "Dhul-Qa'dah 20, 1441"
-translation: false
-lang: en
-summary: "It is worth mentioning that such people are very dangerous to Islam and thus you have to beware of them and warn others against them."
 group2: true
+hijri: Dhul-Qa'dah 20, 1441
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatwas of the Permanent Committee of KSA, Fatwa no. 18466, Question 1
+summary: It is worth mentioning that such people are very dangerous to Islam and thus
+  you have to beware of them and warn others against them.
+tags:
+- alifta
+title: Sufis beats themselves with skewers
+translation: false
 ---
 
 ### Question: 

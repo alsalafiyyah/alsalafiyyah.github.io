@@ -1,23 +1,22 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Ruling on marrying a woman who is not righteous"
-hijri: "Rabiul Awwal 08, 1446"
-source: "Fatwa no.446"
-lang: en
-locale: en
-date: 2024-09-11
-category: [fatwas,marriage,women]
-note: false
-summary: "What I would like to advise the Sunni husband is to choose a woman who brings him happiness in his worldly life as well as in the Hereafter."
-article_taken_from: 
+article_taken_from:
   taken_from:
-    - web_title: Concerning asking in marriage women who are not religiously committed 
-      web_url: https://www.ferkous.app/home/index.php?q=en/fatwa-en-446
+  - web_title: Concerning asking in marriage women who are not religiously committed
+    web_url: https://www.ferkous.app/home/index.php?q=en/fatwa-en-446
+date: 2024-09-11
+hijri: Rabiul Awwal 08, 1446
+lang: en
+layout: post
+mass_edited: true
 muftis:
-  shaykh: 
-    - name: Shaykh Muhammad Ali Ferkus
-      url: /biography/ferkus
+  shaykh:
+  - name: Shaykh Muhammad Ali Ferkus
+    url: /biography/ferkus
+publisher: alsalafiyyah@icloud.com
+source: Fatwa no.446
+summary: What I would like to advise the Sunni husband is to choose a woman who brings
+  him happiness in his worldly life as well as in the Hereafter.
+title: Ruling on marrying a woman who is not righteous
 ---
 
 ### Question:
@@ -31,4 +30,4 @@ This is among the meanings of virtue, righteousness and chastity that Islam is h
 
 Even more, it is feared that he will be attracted to her character and fall into her temptations, and accordingly he will drift away from what he was yearning for the meanings of the Islamic life that unite people on the love and obedience of Allah عزَّ وجلَّ; therefore, he will regret what he tempted in, so **“Select the pious woman, may you be blessed”** [^1].
 
-[^1]: Reported by Al-Bukhârî (5090), by Muslim (1/ 670) (n° 1466), by Abû Dâwûd (2047), by An-Naşâ’î (3230), by Ibn Mâjah (1858) and by Ahmad (9521), from the hadith of Abû Hurayrah. 
+[^1]: Reported by Al-Bukhârî (5090), by Muslim (1/ 670) (n° 1466), by Abû Dâwûd (2047), by An-Naşâ’î (3230), by Ibn Mâjah (1858) and by Ahmad (9521), from the hadith of Abû Hurayrah.

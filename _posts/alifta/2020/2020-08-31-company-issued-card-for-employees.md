@@ -1,24 +1,26 @@
 ---
-layout: post
-title: "A company issued a card for employees to use when buying a commodity"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 3675"
 hijri: Muharram 12, 1442 AH
 lang: en
-category: [transaction,riba]
-summary: "If the matter is as you have mentioned, the extra amount which the company takes is a form of Riba (Usury). It is not permissible for it to take this amount because Riba is Haram according to the Qur'an, the Sunnah and consensus."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah no. 3675
+summary: If the matter is as you have mentioned, the extra amount which the company
+  takes is a form of Riba (Usury). It is not permissible for it to take this amount
+  because Riba is Haram according to the Qur'an, the Sunnah and consensus.
+title: A company issued a card for employees to use when buying a commodity
 ---
 
 Question:

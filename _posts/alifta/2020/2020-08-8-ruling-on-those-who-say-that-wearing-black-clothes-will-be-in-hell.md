@@ -1,27 +1,27 @@
 ---
-layout: post
-title: "Ruling on those who believes that wearing black clothes will be in Hellfire forever"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 3635, Question 3"
-category: [fatwas, women]
-hijri: Dhul-Hijjah 14, 1441
-locale: en
-lang: en
 date: 2020/08/8
-note: true
-summary: "This claim is speaking in the Name of Allah without knowledge and ruling according to one's own desires."
+hijri: Dhul-Hijjah 14, 1441
+lang: en
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Ibn baz
-      url: /biography/binbaz
+  chairman:
+  - name: Shaykh Ibn baz
+    url: /biography/binbaz
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Afifi
-      url: /biography/afifi
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud
+  - name: Shaykh Abdul-Razzaq Afifi
+    url: /biography/afifi
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 3635, Question 3
+summary: This claim is speaking in the Name of Allah without knowledge and ruling
+  according to one's own desires.
+title: Ruling on those who believes that wearing black clothes will be in Hellfire
+  forever
 ---
 
 ### Question: 

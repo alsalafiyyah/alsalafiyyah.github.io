@@ -1,25 +1,24 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "A Muslim is not permitted to seek forgiveness for grandparents who die as Mushriks"
-hijri: Safar 24, 1442 AH
 date: 2020-10-11
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 11248"
+hijri: Safar 24, 1442 AH
 lang: en
-locale: en
-note: true
-category: [misc, shirk, polytheism]
-summary: "It is impermissible for a Muslim to invoke Allah's Forgiveness for their grandparents or others, if they died in Shirk."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
   members:
-    - name: Shaykh Abdullah Ibn Ghudayyan
-      url: /biography/ghudayyan/
+  - name: Shaykh Abdullah Ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Da'imah no. 11248
+summary: It is impermissible for a Muslim to invoke Allah's Forgiveness for their
+  grandparents or others, if they died in Shirk.
+title: A Muslim is not permitted to seek forgiveness for grandparents who die as Mushriks
 ---
 
 ### Question:

@@ -1,16 +1,17 @@
 ---
-layout: post
-title: "The remaining amount of Mahr with the husband as a part of the wife's inheritance"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 3176"
-hijri: Muharram 12, 1442 AH
 date: 2020/08/31
-category: [inheritance, marriage]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Qa'ud
+hijri: Muharram 12, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+shaykhs:
+- Shaykh Abdul-Aziz ibn Baz
+- Shaykh Abdullah ibn Ghudayyan
+- Shaykh Abdul-Razzaq al-Afify
+- Shaykh Abdullah ibn Qa'ud
+source: Fatawa Al-Lajnah Ad-Da'imah no. 3176
+title: The remaining amount of Mahr with the husband as a part of the wife's inheritance
 ---
 
 Question:

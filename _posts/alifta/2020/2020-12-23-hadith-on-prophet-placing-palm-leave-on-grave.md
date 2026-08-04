@@ -1,26 +1,27 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Hadith about the Prophet putting a palm leave on the graves"
-hijri: "Jumada Al-Awwal 8, 1442"
-source: "Fatawa Al-Lajnah Al-Da'imah no. 1333, Question 3"
+hijri: Jumada Al-Awwal 8, 1442
 lang: en
-locale: en
-category: [hadiths,fatwas]
-note: true
-summary: "This was not a regular practice of the Prophet, but was only done twice or thrice according to the number of incidents. The Prophet's Sahabah, being the earnest of men to follow the Prophet's line of conduct and to benefit their fellow Muslims, are not known to have performed this practice."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Mani'
-      url: /biography/mani/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Mani'
+    url: /biography/mani/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah no. 1333, Question 3
+summary: This was not a regular practice of the Prophet, but was only done twice or
+  thrice according to the number of incidents. The Prophet's Sahabah, being the earnest
+  of men to follow the Prophet's line of conduct and to benefit their fellow Muslims,
+  are not known to have performed this practice.
+title: Hadith about the Prophet putting a palm leave on the graves
 ---
 
 ### Question:

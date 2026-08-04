@@ -1,23 +1,24 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Publishing Islamic books as a Sadaqah Jariyah (ongoing charity)"
 hijri: Safar 25, 1442 AH
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 20062-2"
 lang: en
-note: true
-category: [knowledge, books, misc, charity]
-summary: "The printing of useful books that benefit people in their religious and worldly affairs is a good act, for which the Muslim will be rewarded during their life and it will be of ongoing benefit and reward after their death."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz Ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
+  chairman:
+  - name: Shaykh Abdul-Aziz Ibn Baz
+    url: /biography/binbaz/
+  deputy_chairman:
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
   members:
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA no. 20062-2
+summary: The printing of useful books that benefit people in their religious and worldly
+  affairs is a good act, for which the Muslim will be rewarded during their life and
+  it will be of ongoing benefit and reward after their death.
+title: Publishing Islamic books as a Sadaqah Jariyah (ongoing charity)
 ---
 
 Question:

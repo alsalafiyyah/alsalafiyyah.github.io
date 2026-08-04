@@ -1,16 +1,15 @@
 ---
-layout: post
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 10955, Question 5"
-title: "Who are Ahl-ul-Qiblah?"
-category: [fatwas,terminology]
-hijri: Muharram 15, 1442
 date: 2020-09-03
 group6: true
-note: true
-locale: en
+hijri: Muharram 15, 1442
 lang: en
-summary: One of the principles of Ahlus-Sunnah is not to declare whether a person from Ahlul-Qiblah will enter Paradise or Hell.
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 10955, Question 5
+summary: One of the principles of Ahlus-Sunnah is not to declare whether a person
+  from Ahlul-Qiblah will enter Paradise or Hell.
+title: Who are Ahl-ul-Qiblah?
 ---
 
 ### Question: 

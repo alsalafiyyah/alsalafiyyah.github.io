@@ -1,18 +1,21 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "What is Salafiyyah?"
-source: "Fatawa al-Lajnah ad-Daimah no. 1361, Question 2"
-hijri: "Muharram 17, 1442 AH"
+article_taken_from:
+  taken_from:
+  - web_title: ماهي السلفية
+    web_url: https://al-fatawa.com/fatwa/112698
 date: 2020-09-05
 group1: true
-summary: "It refers to those following the way of the Salaf of the early Muslim generation in their adherence to the Qur‘an and the Sunnah."
-category: [fatwas,manhaj]
-tags: [alifta]
-article_taken_from: 
-  taken_from:
-    - web_title: ماهي السلفية 
-      web_url: https://al-fatawa.com/fatwa/112698
+hijri: Muharram 17, 1442 AH
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa al-Lajnah ad-Daimah no. 1361, Question 2
+summary: It refers to those following the way of the Salaf of the early Muslim generation
+  in their adherence to the Qur‘an and the Sunnah.
+tags:
+- alifta
+title: What is Salafiyyah?
 ---
 
 ### Question:

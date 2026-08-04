@@ -1,15 +1,15 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: The Hadith on splitting of this Ummah into seventy-three sects
-source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 830
-hijri: Muharram 13, 1442
 date: 2020-09-01
-lang: en
-locale: en
 group11: true
-summary: The Hadith on This Ummah will split into seventy-three sects, all of them will be in Hellfire except one.
-category: [fatwas, hadiths, sects]
+hijri: Muharram 13, 1442
+lang: en
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 830
+summary: The Hadith on This Ummah will split into seventy-three sects, all of them
+  will be in Hellfire except one.
+title: The Hadith on splitting of this Ummah into seventy-three sects
 ---
 
 ### Question:

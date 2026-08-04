@@ -1,29 +1,28 @@
 ---
-layout: post
-title: "The claim that Islam is based on morals and not Salah"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 17114, Question1"
-category: [fatwas, salah]
-hijri: Muharram 15, 1442
-locale: en
-lang: en
 date: 2020-09-03
-note: true
-summary: "Some people say that Islam is not just to perform Salah or Prayer, but it is to be of good manners. What is your opinion regarding that?"
+hijri: Muharram 15, 1442
+lang: en
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/zayd/
+  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
+    url: /biography/abdulaziz/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan/
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/zayd/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 17114, Question1
+summary: Some people say that Islam is not just to perform Salah or Prayer, but it
+  is to be of good manners. What is your opinion regarding that?
+title: The claim that Islam is based on morals and not Salah
 ---
 
 ### Question: 

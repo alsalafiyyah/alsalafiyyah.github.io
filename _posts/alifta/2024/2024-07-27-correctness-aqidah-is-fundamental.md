@@ -1,19 +1,19 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: All acts of worship depends on correct aqidah
 date: 2024-07-27
 hijri: Muharram 21, 1446
-source: Fatawa as-Siyasah ash-Shar'iyyah, Question 1
-category: [fatwas,manhaj]
-locale: en
 lang: en
-summary: Faith is not faith except if the aqidah (creed) is correct. And if the aqidah is not correct, then there is no iman, and (there is) no deen (religion).
-translated_by: Masjid Uthaymeen
+layout: post
+mass_edited: true
 muftis:
-  shaykh: 
-    - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan
+  shaykh:
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan
+publisher: alsalafiyyah@icloud.com
+source: Fatawa as-Siyasah ash-Shar'iyyah, Question 1
+summary: Faith is not faith except if the aqidah (creed) is correct. And if the aqidah
+  is not correct, then there is no iman, and (there is) no deen (religion).
+title: All acts of worship depends on correct aqidah
+translated_by: Masjid Uthaymeen
 ---
 
 ### Question:

@@ -1,16 +1,18 @@
 ---
-layout: post
-publisher: "alsalafiyyah@icloud.com"
 date: 2020-07-08
-hijri: "Dhul-Qa'dah 7, 1441 AH"
-title: "Ruling on hanging photos of the deceased at home"
-source: "Fatawa al-Lajnah al-Da'imah, Fatwa no.5088, Question 5"
-category: [funerals]
-tags: [alifta]
-translation: false
 group9: true
+hijri: Dhul-Qa'dah 7, 1441 AH
 lang: en
-summary: "It is impermissible to hang pictures of animate objects at home or elsewhere; whether they are living or dead people, and whether as memories or otherwise."
+layout: post
+mass_edited: true
+publisher: alsalafiyyah@icloud.com
+source: Fatawa al-Lajnah al-Da'imah, Fatwa no.5088, Question 5
+summary: It is impermissible to hang pictures of animate objects at home or elsewhere;
+  whether they are living or dead people, and whether as memories or otherwise.
+tags:
+- alifta
+title: Ruling on hanging photos of the deceased at home
+translation: false
 ---
 
 ### Question:

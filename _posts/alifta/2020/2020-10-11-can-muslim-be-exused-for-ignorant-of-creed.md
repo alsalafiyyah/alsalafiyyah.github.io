@@ -1,20 +1,22 @@
 ---
-layout: post
-publisher: alsalafiyyah@icloud.com
-title: "Can a Muslim's ignorance of creed be excused?"
 hijri: Safar 24, 1442 AH
-source: "Fatawa Al-Lajnah Al-Da'imah no. 11043"
 lang: en
-note: true
-category: [takfir, sects, ahl-fatrah]
-summary: "It is impermissible for the adherents of Tawhid (monotheism), who hold that the worshippers of graves are disbelievers, to call their fellow monotheists as Kafirs (disbelievers) while they are uncertain of the judgment before establishing proofs and clarification on them."
+layout: post
+mass_edited: true
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah no. 11043
+summary: It is impermissible for the adherents of Tawhid (monotheism), who hold that
+  the worshippers of graves are disbelievers, to call their fellow monotheists as
+  Kafirs (disbelievers) while they are uncertain of the judgment before establishing
+  proofs and clarification on them.
+title: Can a Muslim's ignorance of creed be excused?
 ---
 
 Question:
