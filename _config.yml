@@ -146,6 +146,7 @@ site_elements:
 
 include:
   - _pages
+  - "*.liquid"
 
 plugins:
   - jekyll-feed
