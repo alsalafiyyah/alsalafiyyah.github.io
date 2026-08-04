@@ -4,7 +4,7 @@ title: About The Site
 date: 2019-03-07
 hijri: 30 Jumada al-Thani 1440 AH
 summary: "We are dedicated to preserving and sharing this creed as it was understood and practiced by the Salaf as-Salih (the Pious Predecessors) of this Ummah."
-permalink: /about-us/
+permalink: /about/
 ---
 
 In the name of Allah, the Most Gracious, the Most Merciful.
