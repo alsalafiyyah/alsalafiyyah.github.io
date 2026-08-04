@@ -74,7 +74,8 @@ Therefore, the favored generations are the Righteous Predecessors (al-Salaf al-S
 - [The Legal Ruling on Openly Declaring Oneself a Salafi](/the-legal-ruling-on-openly-declaring-oneself-a-salafi) - Shaykh Ahmad ibn Yahya al-Najmi
 - [On the Scope of the Term 'Salafi' and the Rejection of Factional Divisions](/audios/on-the-scope-of-the-term-salafi-and-rejection-of-factional-divisions) - Shaykh Ibn 'Uthaymeen
 - [Affiliation with the Righteous Salaf: An Obligation, Not a Faction](/audios/affiliation-with-the-righteous-salaf) - Shaykh Ibn 'Uthaymeen
-- [Salafism: Its Reality and Characteristics](/audios/salafism-its-reality-and-characteristics)
+- [Salafism: Its Reality and Characteristics](/audios/salafism-its-reality-and-characteristics) - Shaykh Salih al-Fawzan
+- [Distinguishing Between the Salafi](/distinguishing-between-the-salafi/) - Shaykh Salih al-Fawzan
 
 ---
 
