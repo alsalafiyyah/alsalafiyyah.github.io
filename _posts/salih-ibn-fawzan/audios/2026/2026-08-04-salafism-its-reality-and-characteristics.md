@@ -98,36 +98,36 @@ There is no salvation, righteousness, or success except by clinging to the Strai
 
 Allah made it obligatory upon us to recite Surah Al-Fatihah in every unit of prayer, concluding with:
 
-> *"Guide us to the Straight Path" [al-Fatihah: 6]*—meaning guide us, direct us, and make us firm upon the Straight Path.
+**"Guide us to the Straight Path" [al-Fatihah: 6]**—meaning guide us, direct us, and make us firm upon the Straight Path.
 
-> *"The path of those upon whom You have bestowed favor."* [al-Fatihah: 7] 
+**"The path of those upon whom You have bestowed favor."** [al-Fatihah: 7] 
 
 Who are those walking this path?
 
-> *"And whoso obeys Allah and the Messenger (Muhammad ﷺ), then they will be in the company of those on whom Allah has bestowed His Grace, of the Prophets, the Siddiqun (those followers of the Prophets who were first and foremost to believe in them, like Abu Bakr As-Siddiq), the martyrs, and the righteous. And how excellent these companions are!"* [An-Nisa: 69]
+**"And whoso obeys Allah and the Messenger (Muhammad ﷺ), then they will be in the company of those on whom Allah has bestowed His Grace, of the Prophets, the Siddiqun (those followers of the Prophets who were first and foremost to believe in them, like Abu Bakr As-Siddiq), the martyrs, and the righteous. And how excellent these companions are!"** [An-Nisa: 69]
 
 These are your companions on this journey. Therefore, do not feel lonely while walking this path, even if other roads and sects multiply. You are on the path of Allah.
 
-> *"Not of those who have evoked [Your] anger or of those who are astray."* [al-Fatihah: 7]
+**"Not of those who have evoked [Your] anger or of those who are astray."** [al-Fatihah: 7]
 
-* **Those who evoked anger:** Those who possess knowledge but do not act upon it, such as the Jews. Knowledge without action becomes an evidence against its owner on the Day of Resurrection. Knowledge without action is like a tree without fruit.
+**Those who evoked anger:** Those who possess knowledge but do not act upon it, such as the Jews. Knowledge without action becomes an evidence against its owner on the Day of Resurrection. Knowledge without action is like a tree without fruit.
 
-* **Those who are astray:** Those who perform acts of worship and asceticism, but without knowledge or guidance from Allah, such as the Christians. Their deeds become scattered dust because they are lost from the Straight Path.
+**Those who are astray:** Those who perform acts of worship and asceticism, but without knowledge or guidance from Allah, such as the Christians. Their deeds become scattered dust because they are lost from the Straight Path.
 
 In Islam, ***groups like the Sufis tread a similar misstep: they engage in worship and asceticism while abandoning knowledge. They discourage people from seeking knowledge or sitting with scholars, claiming that knowledge distracts from worship, or that knowledge comes automatically if one simply worships enough. This is pure misguidance.***
 
 Knowledge can only be acquired through learning from people of knowledge and insight. Knowledge precedes both speech and action. Imam Al-Bukhari titled a chapter in his *Sahih*: **"Chapter: Knowledge Before Speech and Action,"** citing the verse:
 
-> *"So know (O Muhammad ﷺ) that La ilaha ill-Allah (none has the right to be worshipped but Allah), and ask forgiveness for your sin..."* [Muhammad: 19]
+**"So know (O Muhammad ﷺ) that La ilaha ill-Allah (none has the right to be worshipped but Allah), and ask forgiveness for your sin..."** [Muhammad: 19]
 
 First learn, then seek forgiveness and act. Knowledge is the guide to Allah Almighty. He sent His Messenger with **beneficial knowledge** and **righteous action**:
 
-> *"It is He Who has sent His Messenger (Muhammad ﷺ) with guidance and the religion of truth (Islam)..."* [At-Tawbah: 33]
+**"It is He Who has sent His Messenger (Muhammad ﷺ) with guidance and the religion of truth (Islam)..."** [At-Tawbah: 33]
 
 * **Guidance:** Beneficial knowledge.
 * **Religion of Truth:** Righteous action.
 
-Both must be combined. This is authentic **Salafism** (al-Salafiyyah), and these are the core traits of the Salaf al-Salih (Pious Predecessors): beneficial knowledge paired with righteous action.
+Both must be combined. This is authentic Salafism (al-Salafiyyah), and these are the core traits of the Salaf al-Salih (Pious Predecessors): beneficial knowledge paired with righteous action.
 
-> *"Our Lord! Forgive us and our brethren who have preceded us in Faith, and put not in our hearts any hatred against those who have believed."* [Al-Hashr: 10]
+> **"Our Lord! Forgive us and our brethren who have preceded us in Faith, and put not in our hearts any hatred against those who have believed."** [Al-Hashr: 10]
 
