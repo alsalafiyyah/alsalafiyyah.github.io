@@ -24,8 +24,6 @@ Ibn al-Qayyim was born on the 7th day of Safar in the year 691 AH in the village
 
 ## Teachers of Imam Ibn al-Qayyim
 
-We will mention some of Imam Ibn al-Qayyim's teachers:
-
 ### 1. His Teachers in Hadith:
 
 * **Al-Shihab al-'Abir:** Ahmad ibn Abd al-Rahman ibn Abd al-Mun'im, al-Hanbali, Abu al-Abbas, the dream interpreter.
@@ -68,8 +66,6 @@ Imam Ibn al-Qayyim studied jurisprudence under a group of the eminent scholars o
 *(Source: Ibn Qayyim al-Jawziyya, Jamal Muhammad al-Sayyid, Vol. 1, pp. 146–174)*
 
 ## Students of Ibn al-Qayyim
-
-We will mention some of Imam Ibn al-Qayyim's students:
 
 * **His son:** Ibrahim ibn Muhammad ibn Abi Bakr.
 * **His son:** Abdullah ibn Muhammad ibn Abi Bakr.
@@ -125,6 +121,4 @@ Imam Ibn al-Qayyim authored more than sixty books across various disciplines of 
 
 ## Death of Imam Ibn al-Qayyim
 
-Imam Ibn al-Qayyim (may Allah have mercy on him) passed away on Thursday night, the 13th of Rajab, at the time of the call to the Isha prayer. Funeral prayers were performed for him the following day after the Dhuhr prayer at the Umayyad Mosque.
-
-His funeral was deeply attended; it was witnessed by judges, notables, the righteous, and people from all walks of life. The crowds surged to carry his bier, and he was buried alongside his mother at the **Bab al-Saghir Cemetery**. *(Source: Al-Bidayah wa al-Nihayah by Ibn Kathir, Vol. 18/523)*
+Imam Ibn al-Qayyim (may Allah have mercy on him) passed away on Thursday night, the 13th of Rajab, at the time of the call to the Isha prayer. Funeral prayers were performed for him the following day after the Dhuhr prayer at the Umayyad Mosque. His funeral was deeply attended; it was witnessed by judges, notables, the righteous, and people from all walks of life. The crowds surged to carry his bier, and he was buried alongside his mother at the **Bab al-Saghir Cemetery**. *(Source: Al-Bidayah wa al-Nihayah by Ibn Kathir, Vol. 18/523)*
