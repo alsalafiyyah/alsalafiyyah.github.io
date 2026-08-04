@@ -85,7 +85,7 @@ His statement **"they will not be harmed by those who forsake them or oppose the
 
 This aligns with Luqman’s advice to his son: **"O my son, establish prayer, enjoin what is right, forbid what is wrong, and be patient over what befalls you. Verily! These are some of the important commandments ordered by Allah with no exemption."** [Luqman: 17]
 
-This is the methodology of the *Salaf*, their demeanor, and their trait. Allah Almighty says: *""And verily, this (i.e. Allah's Commandments mentioned in the above two Verses 151 and 152) is my Straight Path, so follow it, and follow not (other) paths, for they will separate you away from His Path. This He has ordained for you that you may become Al-Muttaqun (the pious - see V. 2:2).""** [Al-An'am: 153]
+This is the methodology of the *Salaf*, their demeanor, and their trait. Allah Almighty says: **""And verily, this (i.e. Allah's Commandments mentioned in the above two Verses 151 and 152) is my Straight Path, so follow it, and follow not (other) paths, for they will separate you away from His Path. This He has ordained for you that you may become Al-Muttaqun (the pious - see V. 2:2).""** [Al-An'am: 153]
 
 * **"This is Straight Path":** He attributed the path to Himself as an honor and nobility for the path and for those who walk upon it.
 * **"Straight":** Meaning upright and balanced.
