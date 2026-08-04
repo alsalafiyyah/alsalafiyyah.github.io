@@ -89,7 +89,7 @@ This is the methodology of the *Salaf*, their demeanor, and their trait. Allah A
 
 * **"This is Straight Path":** He attributed the path to Himself as an honor and nobility for the path and for those who walk upon it.
 * **"Straight":** Meaning upright and balanced.
-* **"So follow it, and do not follow [other] ways":** This indicates that there are other paths—many unspecified ways.
+* **"So follow it, and follow not (other) paths":** This indicates that there are other paths—many unspecified ways.
 * **"for they will separate you away from His Path":** These deviated methodologies lead away from Allah's singular path, trapping people in confusion, error, and destruction.
 
 There is no salvation, righteousness, or success except by clinging to the Straight Path—Allah's path. Every other path is a path of Satan, with a devil at every crossroad calling people toward it. We must beware of this and not be deceived by the large number of opponents, nor care about their doubts, insults, or put-downs. We move forward toward Allah with clear insight.
