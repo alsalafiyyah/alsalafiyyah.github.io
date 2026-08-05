@@ -7,7 +7,7 @@ source: "Majmu' Fatawa wa Maqalat 5/416"
 category: [non-muslim]
 tags: [ibn-baz]
 lang: en
-translation: true
+translation: false
 summary: "They claim to attribute themselves to Jesus, while he is innocent of them."
 muftis:
   shaykh: 
