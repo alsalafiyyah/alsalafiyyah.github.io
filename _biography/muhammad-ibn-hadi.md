@@ -2,7 +2,7 @@
 layout: post
 publisher: "alsalafiyyah@icloud.com"
 published: true
-title: "Shaykh Muhammad Ibn Hadi Al-Madkhali"
+title: "Shaykh Muhammad ibn Hadi Al-Madkhali"
 active: biography
 date: 2020-08-08
 hijri: Dhul-Hijjah 18, 1441
