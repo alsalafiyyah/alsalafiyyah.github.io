@@ -9,7 +9,36 @@ permalink: /scholar/ibn-uthaymeen/
 
 {% assign ulama_posts = site.posts | where_exp:"item", "item.path contains '_posts/ibn-uthaymeen/'" %}
 
-<p>Total Entries: {{ ulama_posts.size }}</p>
+<header class="py-8 md:py-12 border-b-4 border-black dark:border-white">
+  <div class="max-w-7xl">
+    <div class="grid grid-cols-1 md:grid-cols-12 gap-6 items-end">
+      
+      <!-- Title Block (8 Columns) -->
+      <div class="md:col-span-8">
+        <h1 itemprop="headline" class="text-3xl md:text-[3vw] leading-[0.9] font-black uppercase tracking-tighter serif">
+          {{ page.title }}
+        </h1>
+      </div>
+
+      <div class="md:col-span-4 flex flex-col sm:flex-row md:flex-col items-start sm:items-center md:items-end justify-between md:justify-end gap-4">
+        
+        <!-- Total Entries Counter -->
+        <p class="text-xs md:text-sm font-black uppercase tracking-widest px-3 py-1 bg-black text-white dark:bg-white dark:text-black">
+          Total Entries: {{ ulama_posts.size }}
+        </p>
+
+        <!-- Biography Button Link -->
+        {% if page.bio_url %}
+        <a href="{{ page.bio_url | relative_url }}" class="inline-block text-xs md:text-sm font-black uppercase tracking-widest px-4 py-2 border-2 border-black dark:border-white hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-colors">
+          Biography →
+        </a>
+        {% endif %}
+
+      </div>
+
+    </div>
+  </div>
+</header>
 
 <div id="fatwa-container"></div>
 <nav id="pagination-nav" class="flex items-center justify-between border-t-4 border-black dark:border-white pt-12 mt-12 mb-24">
