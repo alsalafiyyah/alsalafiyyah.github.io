@@ -91,6 +91,10 @@ external_links:
     url: "https://www.sualruhaily.com/"
   - name: "Shaykh Abdul-Aziz al-Rajihi"
     url: "https://shrajhi.com.sa/"
+  - name: "Shaykh Muhammad ibn Hadi al-Madkhali"
+    url: "https://www.almadkhaliweb.com/"
+  - name: "Shaykh Rabi' ibn Hadi al-Madkhali"
+    url: "https://rabee.net/"
 
 # Site Elements
 site_elements:
