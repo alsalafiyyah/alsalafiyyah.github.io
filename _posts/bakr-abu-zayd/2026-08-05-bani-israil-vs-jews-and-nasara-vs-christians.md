@@ -6,7 +6,7 @@ date: 2026-08-05
 lang: en
 translation: false
 summary: "None of the virtues that belonged to the Children of Israel apply to the Jews."
-category: [palestine]
+category: [palestine, non-muslim]
 tags: [bakr-abu-zayd]
 source: "Mu'jam al-Manahi al-Lafziyyah p. 89"
 muftis:
