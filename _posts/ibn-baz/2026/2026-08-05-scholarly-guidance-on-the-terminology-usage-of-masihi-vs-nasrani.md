@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Scholarly Guidance on the Linguistic and The Terminology Usage of Masihi vs. Nasrani"
+title: "Scholarly Guidance on The Terminology Usage of Masihi vs. Nasrani"
 date: 2026-08-05
 source: "Majmu' Fatawa wa Maqalat 5/416"
 category: [non-muslim]
