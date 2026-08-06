@@ -47,6 +47,21 @@ permalink: /prayer-times/
     </div>
 </div>
 
+    <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-lg w-80 transition-colors duration-200 border border-slate-200 dark:border-slate-700 mt-8">
+        <label for="gregorianPicker" class="block text-sm font-semibold mb-2">Select Date:</label>
+        <input type="date" id="gregorianPicker" class="w-full px-3 py-2 rounded-lg border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-900 text-slate-800 dark:text-slate-100 focus:outline-none focus:ring-2 focus:ring-blue-500 mb-4">
+        <div class="space-y-1 text-sm border-t border-slate-200 dark:border-slate-700 pt-3">
+<div class="flex justify-between">
+                <span class="text-slate-500 dark:text-slate-400">Date:</span> 
+                <span id="gregorianOutput" class="font-medium">-</span>
+            </div>
+            <div class="flex justify-between">
+                <span class="text-slate-500 dark:text-slate-400">Hijri:</span> 
+                <span id="hijriOutput" class="font-medium">-</span>
+            </div>
+        </div>
+    </div>
+
 <!-- Widget Logic Script -->
 <script>
 document.addEventListener("DOMContentLoaded", () => {
@@ -148,3 +163,47 @@ function formatTimeTo12Hour(timeStr) {
     return `${h}:${minutes} ${ampm}`;
 }
 </script>
+    <script>
+        const picker = document.getElementById('gregorianPicker');
+        const gregorianOutput = document.getElementById('gregorianOutput');
+        const hijriOutput = document.getElementById('hijriOutput');
+
+        // Set default to today's date
+        const today = new Date();
+        const isoToday = today.toISOString().split('T')[0];
+        picker.value = isoToday;
+        updateDates(today);
+
+        // Listen for changes when the user picks a date
+        picker.addEventListener('change', function(e) {
+            if (e.target.value) {
+                // Parse local date safely without timezone shifting issues
+                const [year, month, day] = e.target.value.split('-').map(Number);
+                const selectedDate = new Date(year, month - 1, day);
+                updateDates(selectedDate);
+            }
+        });
+
+        function updateDates(dateObj) {
+            // Display Gregorian
+            gregorianOutput.textContent = dateObj.toISOString().split('T')[0];
+
+            // Convert and Display Hijri (Umm al-Qura)
+            const hijriFormatter = new Intl.DateTimeFormat('en-u-ca-islamic-umalqura', {
+                year: 'numeric',
+                month: '2-digit',
+                day: '2-digit'
+            });
+
+            const parts = hijriFormatter.formatToParts(dateObj);
+            let hYear = '', hMonth = '', hDay = '';
+
+            parts.forEach(part => {
+                if (part.type === 'year') hYear = part.value;
+                if (part.type === 'month') hMonth = part.value;
+                if (part.type === 'day') hDay = part.value;
+            });
+
+            hijriOutput.textContent = `${hYear}-${hMonth}-${hDay}`;
+        }
+    </script>
