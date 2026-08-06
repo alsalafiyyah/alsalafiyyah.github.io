@@ -5,7 +5,7 @@ title: "Shaykh Abdul-Aziz bin Abdullah Al-Rajhi"
 active: biography
 category: [biography]
 date: 2020-09-10
-summary: ""
+summary: "He is the Eminent Sheikh and Scholar Abdul-Aziz bin Abdullah bin Abdul-Rahman Al-Rajhi. His lineage traces back to the renowned Bani Zayd tribe in Najd, which descends from Quda'ah—a famous Qahtanite tribe."
 ---
 
 ### Lineage
