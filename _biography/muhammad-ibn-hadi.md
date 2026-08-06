@@ -10,7 +10,7 @@ official_web: https://www.almadkhaliweb.com/
 summary: "He is our venerable Shaykh, the eminent Hadith scholar, the noble memorizer and jurist, Abu Anas Muhammad bin Hadi bin Ali Faqih bin Muhammad bin Muhsin bin Husain bin Ahmad bin Umar Jurdi Al-Madkhali Al-Shubaili."
 ---
 
-The Shaykh, the Scholar, Muhammad bin Hadi Al-Madkhali, may Allah the Most High preserve him
+The Shaykh, the Scholar, Muhammad bin Hadi Al-Madkhali, may Allah Ta'ala preserve him
 
 ### His Name and Lineage:
 
