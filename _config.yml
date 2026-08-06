@@ -61,16 +61,20 @@ menu_navigation:
 
 # Footer Navigation
 footer_navigation:
-  - title: Scholars & Biographies
-    url: /scholar/
-  - title: Instagram @Alsalafiyyah
+  - title: Instagram
     url: "https://instagram.com/alsalafiyyah"
-  - title: About The Site
+  - title: About
     url: /about/
   - title: Contact Us
     url: /contact/
   - title: "عربي"
     url: /ar/
+
+footer_navigation_2:
+  - title: Scholars & Biographies
+    url: /scholar/
+  - title: Prayer Times
+    url: /prayer-times/
 
 external_links:
   - name: "Shaykh Abdul-Aziz ibn Baz"
