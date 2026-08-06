@@ -4,10 +4,7 @@ published: false
 publisher: "alsalafiyyah@icloud.com"
 title: "Shaykh Al-Islam Ibn Taymiyyah"
 active: biography
-hijri: Safar 6, 1442 AH
-date: 2020-09-23
-category: [biography]
-summary: "He is Shaykh al-Islam, the Imam, Abu al-Abbas, Ahmad ibn Abd al-Halim ibn Abd al-Salam ibn Abd Allah ibn Muhammad ibn al-Khidr ibn Muhammad ibn al-Khidr ibn Ali ibn Abd Allah ibn Taymiyyah al-Harrani, then al-Dimashqi (of Damascus)."
+summary: "He was born on Monday, the 10th of Rabi' al-Awwal, in Harran in the year 661 AH. When he reached seven years of age, he relocated with his father to Damascus to flee from the invading Tatars."
 ---
 
 ## His Name and Lineage
