@@ -2,6 +2,7 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-08-05
+hijri: 1448-02-23
 title: "The Religious Foundation of the Muslim-Jewish Conflict"
 category: [audios, palestine]
 tags: [salih-ibn-fawzan]
