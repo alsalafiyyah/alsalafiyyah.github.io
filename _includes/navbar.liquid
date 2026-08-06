@@ -32,9 +32,15 @@
         </div>
     </div>
 
+        <!-- Logo Section -->
         <div class="flex-none">
-            <a itemprop="url" href="{{ '/' | relative_url }}" class="text-3xl lowercase font-black tracking-tighter leading-none relative z-10">
-                <span itemprop="name">{{ site.title }}</span>
+            <a itemprop="url" href="{{ '/' | relative_url }}" class="flex items-center relative z-10">
+                <img 
+                    src="{{ '/assets/logos/logo.svg' | relative_url }}" 
+                    alt="{{ site.title }} Logo" 
+                    class="w-8 h-8 object-contain dark:invert transition-all duration-300"
+                >
+                <span itemprop="name" class="sr-only">{{ site.title }}</span>
             </a>
         </div>
 
