@@ -61,6 +61,8 @@ menu_navigation:
 
 # Footer Navigation
 footer_navigation:
+  - title: Scholars & Biographies
+    url: /scholar/
   - title: Instagram
     url: "https://instagram.com/alsalafiyyah"
   - title: About
