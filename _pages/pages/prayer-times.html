@@ -4,45 +4,45 @@ title: "Prayer Times"
 permalink: /prayer-times/
 ---
 
-<div class="max-w-md mx-auto bg-white border border-gray-100 rounded-2xl p-6 shadow-sm font-sans" id="prayer-widget">
+<div class="max-w-md mx-auto bg-white dark:bg-zinc-900 border border-gray-100 dark:border-zinc-800 rounded-2xl p-6 shadow-sm font-sans transition-colors duration-300" id="prayer-widget">
     <!-- Header / Location -->
-    <div class="flex justify-between items-center border-b border-gray-100 pb-4 mb-4">
+    <div class="flex justify-between items-center border-b border-gray-100 dark:border-zinc-800 pb-4 mb-4">
         <div>
-            <h3 class="text-xs uppercase tracking-widest font-bold text-black">Prayer Times</h3>
-            <p id="prayer-date" class="text-[10px] text-gray-400 uppercase tracking-wider mt-0.5">Loading date...</p>
+            <h3 class="text-xs uppercase tracking-widest font-bold text-black dark:text-white">Prayer Times</h3>
+            <p id="prayer-date" class="text-[10px] text-gray-400 dark:text-zinc-500 uppercase tracking-wider mt-0.5">Loading date...</p>
         </div>
         <div class="flex items-center gap-2">
-            <span id="prayer-location-display" class="text-[10px] uppercase tracking-widest font-bold bg-gray-50 border border-gray-100 px-2.5 py-1 rounded-full text-black">
+            <span id="prayer-location-display" class="text-[10px] uppercase tracking-widest font-bold bg-gray-50 dark:bg-zinc-800 border border-gray-100 dark:border-zinc-700 px-2.5 py-1 rounded-full text-black dark:text-zinc-200">
                 Riyadh, Saudi Arabia
             </span>
-            <button id="toggle-location-btn" class="text-[10px] uppercase tracking-widest font-bold text-gray-400 hover:text-black transition-colors" title="Change Location">
+            <button id="toggle-location-btn" class="text-[10px] uppercase tracking-widest font-bold text-gray-400 dark:text-zinc-500 hover:text-black dark:hover:text-white transition-colors" title="Change Location">
                 Edit
             </button>
         </div>
     </div>
 
     <!-- Hidden Location Input Form -->
-    <form id="location-form" class="hidden mb-4 p-3 bg-gray-50 rounded-xl border border-gray-100 space-y-3">
+    <form id="location-form" class="hidden mb-4 p-3 bg-gray-50 dark:bg-zinc-800/50 rounded-xl border border-gray-100 dark:border-zinc-800 space-y-3">
         <div class="grid grid-cols-2 gap-2">
             <div>
-                <label class="block text-[9px] uppercase tracking-widest text-gray-400 font-bold mb-1">City</label>
-                <input type="text" id="city-input" placeholder="e.g. Makkah" required class="w-full bg-white border border-gray-200 rounded-lg px-2.5 py-1.5 text-xs text-black outline-none focus:border-black">
+                <label class="block text-[9px] uppercase tracking-widest text-gray-400 dark:text-zinc-500 font-bold mb-1">City</label>
+                <input type="text" id="city-input" placeholder="e.g. Makkah" required class="w-full bg-white dark:bg-zinc-900 border border-gray-200 dark:border-zinc-700 rounded-lg px-2.5 py-1.5 text-xs text-black dark:text-white outline-none focus:border-black dark:focus:border-white">
             </div>
             <div>
-                <label class="block text-[9px] uppercase tracking-widest text-gray-400 font-bold mb-1">Country</label>
-                <input type="text" id="country-input" placeholder="e.g. Saudi Arabia" required class="w-full bg-white border border-gray-200 rounded-lg px-2.5 py-1.5 text-xs text-black outline-none focus:border-black">
+                <label class="block text-[9px] uppercase tracking-widest text-gray-400 dark:text-zinc-500 font-bold mb-1">Country</label>
+                <input type="text" id="country-input" placeholder="e.g. Saudi Arabia" required class="w-full bg-white dark:bg-zinc-900 border border-gray-200 dark:border-zinc-700 rounded-lg px-2.5 py-1.5 text-xs text-black dark:text-white outline-none focus:border-black dark:focus:border-white">
             </div>
         </div>
-        <button type="submit" class="w-full bg-black text-white text-[10px] uppercase tracking-widest font-bold py-2 rounded-lg hover:bg-gray-800 transition-colors">
+        <button type="submit" class="w-full bg-black dark:bg-white text-white dark:text-black text-[10px] uppercase tracking-widest font-bold py-2 rounded-lg hover:opacity-80 transition-opacity">
             Update Location
         </button>
     </form>
 
     <!-- Prayer List Container -->
     <div id="prayer-list" class="space-y-2.5">
-        <div class="flex justify-between items-center py-2 px-3 rounded-lg text-xs animate-pulse bg-gray-50">
-            <span class="text-gray-400 font-medium">Loading timings...</span>
-            <span class="text-gray-400 font-bold">--:--</span>
+        <div class="flex justify-between items-center py-2 px-3 rounded-lg text-xs animate-pulse bg-gray-50 dark:bg-zinc-800/50">
+            <span class="text-gray-400 dark:text-zinc-500 font-medium">Loading timings...</span>
+            <span class="text-gray-400 dark:text-zinc-500 font-bold">--:--</span>
         </div>
     </div>
 </div>
@@ -50,11 +50,8 @@ permalink: /prayer-times/
 <!-- Widget Logic Script -->
 <script>
 document.addEventListener("DOMContentLoaded", () => {
-    // Load saved location from localStorage or default to Riyadh, Saudi Arabia
     let currentCity = localStorage.getItem("prayer_city") || "Riyadh";
     let currentCountry = localStorage.getItem("prayer_country") || "Saudi Arabia";
-    
-    // Default calculation method (4 = Umm Al-Qura University, good for Saudi Arabia/Middle East)
     const method = 4; 
 
     const locationDisplay = document.getElementById("prayer-location-display");
@@ -63,33 +60,27 @@ document.addEventListener("DOMContentLoaded", () => {
     const cityInput = document.getElementById("city-input");
     const countryInput = document.getElementById("country-input");
 
-    // Set input values to current preferences
     cityInput.value = currentCity;
     countryInput.value = currentCountry;
 
-    // Toggle form visibility
     toggleBtn.addEventListener("click", () => {
         locationForm.classList.toggle("hidden");
         toggleBtn.textContent = locationForm.classList.contains("hidden") ? "Edit" : "Close";
     });
 
-    // Handle form submission
     locationForm.addEventListener("submit", (e) => {
         e.preventDefault();
         currentCity = cityInput.value.trim();
         currentCountry = countryInput.value.trim();
 
-        // Save to browser storage
         localStorage.setItem("prayer_city", currentCity);
         localStorage.setItem("prayer_country", currentCountry);
 
-        // Hide form and reload times
         locationForm.classList.add("hidden");
         toggleBtn.textContent = "Edit";
         fetchPrayerTimes(currentCity, currentCountry, method);
     });
 
-    // Initial fetch
     fetchPrayerTimes(currentCity, currentCountry, method);
 });
 
@@ -99,9 +90,9 @@ async function fetchPrayerTimes(city, country, method) {
     
     locationDisplay.textContent = `${city}, ${country}`;
     prayerListEl.innerHTML = `
-        <div class="flex justify-between items-center py-2 px-3 rounded-lg text-xs animate-pulse bg-gray-50">
-            <span class="text-gray-400 font-medium">Loading timings...</span>
-            <span class="text-gray-400 font-bold">--:--</span>
+        <div class="flex justify-between items-center py-2 px-3 rounded-lg text-xs animate-pulse bg-gray-50 dark:bg-zinc-800/50">
+            <span class="text-gray-400 dark:text-zinc-500 font-medium">Loading timings...</span>
+            <span class="text-gray-400 dark:text-zinc-500 font-bold">--:--</span>
         </div>
     `;
 
@@ -130,11 +121,11 @@ async function fetchPrayerTimes(city, country, method) {
             targetPrayers.forEach(prayer => {
                 let time12 = formatTimeTo12Hour(timings[prayer.key]);
                 const row = document.createElement("div");
-                row.className = "flex justify-between items-center py-2 px-3 rounded-lg text-xs font-bold uppercase tracking-wider transition-colors hover:bg-gray-50 border border-transparent hover:border-gray-100";
+                row.className = "flex justify-between items-center py-2 px-3 rounded-lg text-xs font-bold uppercase tracking-wider transition-colors hover:bg-gray-50 dark:hover:bg-zinc-800 border border-transparent hover:border-gray-100 dark:hover:border-zinc-700";
                 
                 row.innerHTML = `
-                    <span class="text-gray-600">${prayer.label}</span>
-                    <span class="text-black font-black">${time12}</span>
+                    <span class="text-gray-600 dark:text-zinc-400">${prayer.label}</span>
+                    <span class="text-black dark:text-white font-black">${time12}</span>
                 `;
                 prayerListEl.appendChild(row);
             });
