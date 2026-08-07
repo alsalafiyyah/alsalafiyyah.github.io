@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-date: 2026-08-08-ways-to-honor-deceased-parents-and-maintain-their-ties.md
+date: 2026-08-08
 hijri: 1448-02-25
 title: "Ways to Honor Deceased Parents and Maintain Their Ties"
 category: [audios, funerals]
