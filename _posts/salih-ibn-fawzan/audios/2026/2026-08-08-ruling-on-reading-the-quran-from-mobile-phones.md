@@ -4,7 +4,7 @@ publisher: alsalafiyyah@icloud.com
 date: 2026-08-08
 hijri: 1448-02-25
 title: "Ruling on Reading the Qur'an from Mobile Phones"
-category: [audios, hadiths,  funerals]
+category: [audios]
 tags: [salih-ibn-fawzan]
 mp3: "https://audio.alfawzan.live/07_47.mp3"
 link: "https://alfawzan.live/content/16805/"
