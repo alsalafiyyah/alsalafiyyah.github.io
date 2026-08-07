@@ -12,6 +12,7 @@ active: audios
 translation: false
 lang: en
 source: "Fatwa No. 16838"
+summary: "This is unlawful and impermissible. It is speaking about Allah without knowledge, which is even greater than shirk."
 muftis:
   shaykh: 
     - name: "Shaykh Salih al-Fawzan"
