@@ -27,6 +27,6 @@ I heard someone say, "Recite Surah Ya-Sin over your dead." When should this be d
 
 First, this hadith is not authentic; it is weak. 
 
-Second, the meaning of "recite [Ya-Sin] over your dead" refers to those who are on the verge of death (the dying). 
+Second, the meaning of "recite over your dead" refers to those who are on the verge of death (the dying). 
 
 As for after death, nothing is to be recited over the deceased, neither before the burial nor after it; doing so is bid'ah (an innovation).
