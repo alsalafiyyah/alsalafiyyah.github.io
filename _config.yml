@@ -26,7 +26,7 @@ paginate_path       : "/fatwas/:num/"
 webmaster_verifications: 
   google_site       : "K7QDv3cEwylAu_9fndO3ebQmNowxxRYCpqDEzQKQOy4" # google site verification
   bing              : "4F1A0A46CAA92F43191A0C4B37948DD7" # msvalidate.01
-  yandex            : "ca07a6e68b1254db" # yandex verification
+  yandex            : "54739341b2d542f7" # yandex verification
   domain_verify     : "6a0545495b6d882089f54152a3ef5f2c" # p:domain_verify
   analytics         : "G-QC20WKL1N2" # google analystic
   google-ads        : "ca-pub-1975848559090325" # google-adsense-account
