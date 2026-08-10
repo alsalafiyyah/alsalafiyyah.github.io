@@ -1,4 +1,4 @@
-<div class="max-w-7xl mx-auto p-4 font-sans">
+
     <div class="grid grid-cols-1 gap-6 items-start">
         
         <!-- Prayer Times Widget -->
@@ -36,13 +36,12 @@
                 </button>
             </form>
 
-            <!-- Prayer List Container (Horizontal Responsive Grid) -->
-            <div id="prayer-list" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6 gap-2.5">
-                <div class="flex flex-col sm:flex-row justify-between items-center py-2.5 px-3 rounded-lg text-xs animate-pulse bg-gray-50 dark:bg-zinc-800/50 col-span-full">
+            <!-- Prayer List Container: Mobile Horizontally Scrollable, Desktop Grid -->
+            <div id="prayer-list" class="flex md:grid md:grid-cols-6 gap-3 overflow-x-auto md:overflow-visible [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden pb-1 md:pb-0">
+                <div class="flex flex-col items-center justify-center p-3 rounded-xl text-xs animate-pulse bg-gray-50 dark:bg-zinc-800/50 min-w-[110px] md:min-w-0 col-span-full">
                     <span class="text-gray-400 dark:text-zinc-500 font-medium">Loading timings...</span>
                     <span class="text-gray-400 dark:text-zinc-500 font-bold">--:--</span>
                 </div>
             </div>
         </div>
     </div>
-</div>

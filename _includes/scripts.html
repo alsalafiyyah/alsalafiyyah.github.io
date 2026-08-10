@@ -388,26 +388,32 @@ document.addEventListener("DOMContentLoaded", () => {
     const cityInput = document.getElementById("city-input");
     const countryInput = document.getElementById("country-input");
 
-    cityInput.value = currentCity;
-    countryInput.value = currentCountry;
+    if (cityInput && countryInput) {
+        cityInput.value = currentCity;
+        countryInput.value = currentCountry;
+    }
 
-    toggleBtn.addEventListener("click", () => {
-        locationForm.classList.toggle("hidden");
-        toggleBtn.textContent = locationForm.classList.contains("hidden") ? "Edit" : "Close";
-    });
+    if (toggleBtn) {
+        toggleBtn.addEventListener("click", () => {
+            locationForm.classList.toggle("hidden");
+            toggleBtn.textContent = locationForm.classList.contains("hidden") ? "Edit" : "Close";
+        });
+    }
 
-    locationForm.addEventListener("submit", (e) => {
-        e.preventDefault();
-        currentCity = cityInput.value.trim();
-        currentCountry = countryInput.value.trim();
+    if (locationForm) {
+        locationForm.addEventListener("submit", (e) => {
+            e.preventDefault();
+            currentCity = cityInput.value.trim();
+            currentCountry = countryInput.value.trim();
 
-        localStorage.setItem("prayer_city", currentCity);
-        localStorage.setItem("prayer_country", currentCountry);
+            localStorage.setItem("prayer_city", currentCity);
+            localStorage.setItem("prayer_country", currentCountry);
 
-        locationForm.classList.add("hidden");
-        toggleBtn.textContent = "Edit";
-        fetchPrayerTimes(currentCity, currentCountry, method);
-    });
+            locationForm.classList.add("hidden");
+            toggleBtn.textContent = "Edit";
+            fetchPrayerTimes(currentCity, currentCountry, method);
+        });
+    }
 
     fetchPrayerTimes(currentCity, currentCountry, method);
 });
@@ -416,9 +422,14 @@ async function fetchPrayerTimes(city, country, method) {
     const locationDisplay = document.getElementById("prayer-location-display");
     const prayerListEl = document.getElementById("prayer-list");
     
-    locationDisplay.textContent = `${city}, ${country}`;
+    if (!prayerListEl) return;
+
+    if (locationDisplay) {
+        locationDisplay.textContent = `${city}, ${country}`;
+    }
+    
     prayerListEl.innerHTML = `
-        <div class="flex flex-col sm:flex-row justify-between items-center py-2.5 px-3 rounded-lg text-xs animate-pulse bg-gray-50 dark:bg-zinc-800/50 col-span-full">
+        <div class="flex flex-col items-center justify-center p-3 rounded-xl text-xs animate-pulse bg-gray-50 dark:bg-zinc-800/50 min-w-[110px] md:min-w-0 col-span-full">
             <span class="text-gray-400 dark:text-zinc-500 font-medium">Loading timings...</span>
             <span class="text-gray-400 dark:text-zinc-500 font-bold">--:--</span>
         </div>
@@ -433,7 +444,8 @@ async function fetchPrayerTimes(city, country, method) {
         if (result.code === 200) {
             const data = result.data;
             const timings = data.timings;
-            document.getElementById("prayer-date").textContent = data.date.readable;
+            const dateEl = document.getElementById("prayer-date");
+            if (dateEl) dateEl.textContent = data.date.readable;
 
             const targetPrayers = [
                 { key: "Fajr", label: "Fajr" },
@@ -449,7 +461,8 @@ async function fetchPrayerTimes(city, country, method) {
             targetPrayers.forEach(prayer => {
                 let time12 = formatTimeTo12Hour(timings[prayer.key]);
                 const card = document.createElement("div");
-                card.className = "flex flex-col items-center justify-center p-3 rounded-xl text-xs font-bold uppercase tracking-wider transition-colors bg-gray-50/50 dark:bg-zinc-800/30 hover:bg-gray-50 dark:hover:bg-zinc-800 border border-gray-100 dark:border-zinc-800 hover:border-gray-200 dark:hover:border-zinc-700 text-center";
+                // flex-shrink-0 prevents cards from squishing on mobile screens while allowing horizontal swipe
+                card.className = "flex flex-col items-center justify-center p-3 rounded-xl text-xs font-bold uppercase tracking-wider transition-colors bg-gray-50/50 dark:bg-zinc-800/30 hover:bg-gray-50 dark:hover:bg-zinc-800 border border-gray-100 dark:border-zinc-800 hover:border-gray-200 dark:hover:border-zinc-700 text-center min-w-[110px] flex-shrink-0 md:flex-shrink md:min-w-0";
                 
                 card.innerHTML = `
                     <span class="text-[10px] text-gray-400 dark:text-zinc-500 mb-1">${prayer.label}</span>
