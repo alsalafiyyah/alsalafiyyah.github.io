@@ -1,5 +1,4 @@
-
-    <div class="grid grid-cols-1 gap-6 items-start mt-4">
+    <div class="grid grid-cols-1 gap-6 items-start mt-6">
         
         <!-- Prayer Times Widget -->
         <div class="bg-white dark:bg-zinc-900 border border-gray-100 dark:border-zinc-800 rounded-2xl p-6 shadow-sm transition-colors duration-300" id="prayer-widget">
@@ -7,7 +6,11 @@
             <div class="flex justify-between items-center border-b border-gray-100 dark:border-zinc-800 pb-4 mb-4">
                 <div>
                     <h3 class="text-xs uppercase tracking-widest font-bold text-black dark:text-white">Prayer Times</h3>
-                    <p id="prayer-date" class="text-[10px] text-gray-400 dark:text-zinc-500 uppercase tracking-wider mt-0.5">Loading date...</p>
+                    <div class="flex items-center gap-2 mt-0.5">
+                        <p id="prayer-date" class="text-[10px] text-gray-400 dark:text-zinc-500 uppercase tracking-wider">Loading date...</p>
+                        <span class="text-[10px] text-gray-300 dark:text-zinc-600">•</span>
+                        <p id="prayer-hijri-date" class="text-[10px] text-gray-400 dark:text-zinc-500 uppercase tracking-wider">Loading hijri...</p>
+                    </div>
                 </div>
                 <div class="flex items-center gap-2">
                     <span id="prayer-location-display" class="text-[10px] uppercase tracking-widest font-bold bg-gray-50 dark:bg-zinc-800 border border-gray-100 dark:border-zinc-700 px-2.5 py-1 rounded-full text-black dark:text-zinc-200">
@@ -39,7 +42,7 @@
             <!-- Prayer List Container: Mobile Horizontally Scrollable, Desktop Grid -->
             <div id="prayer-list" class="flex md:grid md:grid-cols-6 gap-3 overflow-x-auto md:overflow-visible [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden pb-1 md:pb-0">
                 <div class="flex flex-col items-center justify-center p-3 rounded-xl text-xs animate-pulse bg-gray-50 dark:bg-zinc-800/50 min-w-[110px] md:min-w-0 col-span-full">
-                    <span class="text-gray-400 dark:text-zinc-500 font-medium">Loading...</span>
+                    <span class="text-gray-400 dark:text-zinc-500 font-medium">Loading timings...</span>
                     <span class="text-gray-400 dark:text-zinc-500 font-bold">--:--</span>
                 </div>
             </div>
