@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-08-10
 title: "Condolence or Bid'ah? The Truth About Mourning Feasts"
-category: [audios, funerals]
+category: [audios, funerals, bidah]
 tags: [ibn-uthaymeen]
 lang: en
 translated: false

@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 title: "The Islamic Perspective on Post-Death Gatherings and the Etiquette of Condolences"
 date: 2026-08-10
-category: [manhaj,funerals]
+category: [manhaj,funerals,bidah]
 tags: [salih-ibn-fawzan]
 source: "Majmu' Fatawa Fadhilat ash-Shaykh Salih al-Fawzan, Vol. 2, pp. 682-684"
 summary: "These mourning gatherings that are held—what they call condolences, setting up tents, gathering people in them, hiring Qur'an reciters, preparing food and drinks, and so on—are all newly invented innovations."
