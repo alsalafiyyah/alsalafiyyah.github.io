@@ -23,7 +23,7 @@ These mourning gatherings that are held—what they call condolences, setting up
 
 This is especially true if these gatherings are funded from the estate of the deceased, while the deceased may have outstanding debts, or may have young, minor heirs who are in dire need of the money. In such a case, the matter is even more sinful and greater in harm, because alongside being an innovation and a munkar (reprehensible act), it is also an injustice to those with rightful claims. This is because the estate transfers to the heirs upon death, and if there are debts, they belong to the creditors. Thus, taking from it for these innovative mourning gatherings combines two things:
 
-​- First: It is a reprehensible act.
+- First: It is a reprehensible act.
 - Second: It is an injustice to those with rightful claims.
 
 ​A third hazard: Holding these mourning gatherings involves an element of impatience and discontent regarding the calamity. Holding these gatherings for such a long time and gathering people in them is a manifestation of impatience over the deceased.
