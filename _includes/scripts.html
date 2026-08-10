@@ -376,3 +376,103 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     });
 </script>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+    let currentCity = localStorage.getItem("prayer_city") || "Riyadh";
+    let currentCountry = localStorage.getItem("prayer_country") || "Saudi Arabia";
+    const method = 4; 
+
+    const locationDisplay = document.getElementById("prayer-location-display");
+    const locationForm = document.getElementById("location-form");
+    const toggleBtn = document.getElementById("toggle-location-btn");
+    const cityInput = document.getElementById("city-input");
+    const countryInput = document.getElementById("country-input");
+
+    cityInput.value = currentCity;
+    countryInput.value = currentCountry;
+
+    toggleBtn.addEventListener("click", () => {
+        locationForm.classList.toggle("hidden");
+        toggleBtn.textContent = locationForm.classList.contains("hidden") ? "Edit" : "Close";
+    });
+
+    locationForm.addEventListener("submit", (e) => {
+        e.preventDefault();
+        currentCity = cityInput.value.trim();
+        currentCountry = countryInput.value.trim();
+
+        localStorage.setItem("prayer_city", currentCity);
+        localStorage.setItem("prayer_country", currentCountry);
+
+        locationForm.classList.add("hidden");
+        toggleBtn.textContent = "Edit";
+        fetchPrayerTimes(currentCity, currentCountry, method);
+    });
+
+    fetchPrayerTimes(currentCity, currentCountry, method);
+});
+
+async function fetchPrayerTimes(city, country, method) {
+    const locationDisplay = document.getElementById("prayer-location-display");
+    const prayerListEl = document.getElementById("prayer-list");
+    
+    locationDisplay.textContent = `${city}, ${country}`;
+    prayerListEl.innerHTML = `
+        <div class="flex flex-col sm:flex-row justify-between items-center py-2.5 px-3 rounded-lg text-xs animate-pulse bg-gray-50 dark:bg-zinc-800/50 col-span-full">
+            <span class="text-gray-400 dark:text-zinc-500 font-medium">Loading timings...</span>
+            <span class="text-gray-400 dark:text-zinc-500 font-bold">--:--</span>
+        </div>
+    `;
+
+    const endpoint = `https://api.aladhan.com/v1/timingsByCity?city=${encodeURIComponent(city)}&country=${encodeURIComponent(country)}&method=${method}`;
+
+    try {
+        const response = await fetch(endpoint);
+        const result = await response.json();
+
+        if (result.code === 200) {
+            const data = result.data;
+            const timings = data.timings;
+            document.getElementById("prayer-date").textContent = data.date.readable;
+
+            const targetPrayers = [
+                { key: "Fajr", label: "Fajr" },
+                { key: "Sunrise", label: "Sunrise" },
+                { key: "Dhuhr", label: "Dhuhr" },
+                { key: "Asr", label: "Asr" },
+                { key: "Maghrib", label: "Maghrib" },
+                { key: "Isha", label: "Isha" }
+            ];
+
+            prayerListEl.innerHTML = ""; 
+
+            targetPrayers.forEach(prayer => {
+                let time12 = formatTimeTo12Hour(timings[prayer.key]);
+                const card = document.createElement("div");
+                card.className = "flex flex-col items-center justify-center p-3 rounded-xl text-xs font-bold uppercase tracking-wider transition-colors bg-gray-50/50 dark:bg-zinc-800/30 hover:bg-gray-50 dark:hover:bg-zinc-800 border border-gray-100 dark:border-zinc-800 hover:border-gray-200 dark:hover:border-zinc-700 text-center";
+                
+                card.innerHTML = `
+                    <span class="text-[10px] text-gray-400 dark:text-zinc-500 mb-1">${prayer.label}</span>
+                    <span class="text-black dark:text-white font-black text-xs sm:text-sm">${time12}</span>
+                `;
+                prayerListEl.appendChild(card);
+            });
+        } else {
+            prayerListEl.innerHTML = `<p class="text-xs text-red-500 text-center py-2 col-span-full">City not found. Try again.</p>`;
+        }
+    } catch (error) {
+        console.error("Error fetching prayer times:", error);
+        prayerListEl.innerHTML = `<p class="text-xs text-red-500 text-center py-2 col-span-full">Network error.</p>`;
+    }
+}
+
+function formatTimeTo12Hour(timeStr) {
+    if (!timeStr) return "";
+    let [hours, minutes] = timeStr.split(':');
+    let h = parseInt(hours, 10);
+    let ampm = h >= 12 ? 'PM' : 'AM';
+    h = h % 12;
+    h = h ? h : 12; 
+    return `${h}:${minutes} ${ampm}`;
+}
+</script>

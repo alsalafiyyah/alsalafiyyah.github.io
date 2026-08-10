@@ -1,0 +1,48 @@
+<div class="max-w-7xl mx-auto p-4 font-sans">
+    <div class="grid grid-cols-1 gap-6 items-start">
+        
+        <!-- Prayer Times Widget -->
+        <div class="bg-white dark:bg-zinc-900 border border-gray-100 dark:border-zinc-800 rounded-2xl p-6 shadow-sm transition-colors duration-300" id="prayer-widget">
+            <!-- Header / Location -->
+            <div class="flex justify-between items-center border-b border-gray-100 dark:border-zinc-800 pb-4 mb-4">
+                <div>
+                    <h3 class="text-xs uppercase tracking-widest font-bold text-black dark:text-white">Prayer Times</h3>
+                    <p id="prayer-date" class="text-[10px] text-gray-400 dark:text-zinc-500 uppercase tracking-wider mt-0.5">Loading date...</p>
+                </div>
+                <div class="flex items-center gap-2">
+                    <span id="prayer-location-display" class="text-[10px] uppercase tracking-widest font-bold bg-gray-50 dark:bg-zinc-800 border border-gray-100 dark:border-zinc-700 px-2.5 py-1 rounded-full text-black dark:text-zinc-200">
+                        Riyadh, Saudi Arabia
+                    </span>
+                    <button id="toggle-location-btn" class="text-[10px] uppercase tracking-widest font-bold text-gray-400 dark:text-zinc-500 hover:text-black dark:hover:text-white transition-colors" title="Change Location">
+                        Edit
+                    </button>
+                </div>
+            </div>
+
+            <!-- Hidden Location Input Form -->
+            <form id="location-form" class="hidden mb-4 p-3 bg-gray-50 dark:bg-zinc-800/50 rounded-xl border border-gray-100 dark:border-zinc-800 space-y-3">
+                <div class="grid grid-cols-2 gap-2">
+                    <div>
+                        <label class="block text-[9px] uppercase tracking-widest text-gray-400 dark:text-zinc-500 font-bold mb-1">City</label>
+                        <input type="text" id="city-input" placeholder="e.g. Makkah" required class="w-full bg-white dark:bg-zinc-900 border border-gray-200 dark:border-zinc-700 rounded-lg px-2.5 py-1.5 text-xs text-black dark:text-white outline-none focus:border-black dark:focus:border-white">
+                    </div>
+                    <div>
+                        <label class="block text-[9px] uppercase tracking-widest text-gray-400 dark:text-zinc-500 font-bold mb-1">Country</label>
+                        <input type="text" id="country-input" placeholder="e.g. Saudi Arabia" required class="w-full bg-white dark:bg-zinc-900 border border-gray-200 dark:border-zinc-700 rounded-lg px-2.5 py-1.5 text-xs text-black dark:text-white outline-none focus:border-black dark:focus:border-white">
+                    </div>
+                </div>
+                <button type="submit" class="w-full bg-black dark:bg-white text-white dark:text-black text-[10px] uppercase tracking-widest font-bold py-2 rounded-lg hover:opacity-80 transition-opacity">
+                    Update Location
+                </button>
+            </form>
+
+            <!-- Prayer List Container (Horizontal Responsive Grid) -->
+            <div id="prayer-list" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6 gap-2.5">
+                <div class="flex flex-col sm:flex-row justify-between items-center py-2.5 px-3 rounded-lg text-xs animate-pulse bg-gray-50 dark:bg-zinc-800/50 col-span-full">
+                    <span class="text-gray-400 dark:text-zinc-500 font-medium">Loading timings...</span>
+                    <span class="text-gray-400 dark:text-zinc-500 font-bold">--:--</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
