@@ -186,7 +186,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     container.innerHTML = postsToShow.map(post => `
-        <article class="group cursor-pointer mb-10 border-b border-gray-100 dark:border-zinc-800 last:border-0">
+        <article class="group cursor-pointer mb-10 mt-8 border-b border-gray-100 dark:border-zinc-800 last:border-0">
             <span class="text-[10px] font-bold uppercase tracking-[0.3em] text-gray-400 group-hover:text-black dark:group-hover:text-white transition-colors">
                 ${post.hijri ? `${post.hijri} / ` : ''}${post.date}
             </span>
