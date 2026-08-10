@@ -2,19 +2,25 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-05-10
-hijri: "Dhu al-Qidah 23, 1447 AH"
-title: "The Ruling on Temporary Birth Control"
-source: "Fatawa Nur 'ala al-Darb 203 no.1"
-category: [fatwas,audios,women]
-tags: [ibn-uthaymeen]
-link: "https://binothaimeen.net/s/FZvuCALb"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_203_01.mp3"
-summary: "If a person possessed strong faith and trust (in Allah), they would know that Allah does not create a soul except that He has guaranteed its provision"
+hijri: '1447-11-23'
+title: The Ruling on Temporary Birth Control
+source: Fatawa Nur 'ala al-Darb 203 no.1
+category:
+- fatwas
+- audios
+- women
+tags:
+- ibn-uthaymeen
+link: https://binothaimeen.net/s/FZvuCALb
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_203_01.mp3
+summary: If a person possessed strong faith and trust (in Allah), they would know
+  that Allah does not create a soul except that He has guaranteed its provision
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
 ---
+
 
 ### Question:
 

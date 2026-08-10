@@ -1,20 +1,27 @@
 ---
 layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "Refuting Misconceptions Regarding the Scholars of Saudi Arabia and the Four Madhahib"
-hijri: "Rabi' Al-Awwal 25, 1442"
+publisher: alsalafiyyah@icloud.com
+title: Refuting Misconceptions Regarding the Scholars of Saudi Arabia and the Four
+  Madhahib
+hijri: '1442-03-25'
 date: 2020-11-11
-category: [audios,manhaj]
-tags: [ibn-baz]
-mp3: "https://alsalafiyyah.github.io/assets/audios/saudia-scholars-wahhabis.mp3"
+category:
+- audios
+- manhaj
+tags:
+- ibn-baz
+mp3: https://alsalafiyyah.github.io/assets/audios/saudia-scholars-wahhabis.mp3
 link: http://www.albaseerah.org/forum/showpost.php?p=14449&postcount=9
 translated_by: Albaseerah
-summary: "The four madhahib are studies for their benefit and this is to know the proofs that they come with and to take the best opinion from between them. We take from the strongest saying even if it is in opposition to the Hanbali madhab."
+summary: The four madhahib are studies for their benefit and this is to know the proofs
+  that they come with and to take the best opinion from between them. We take from
+  the strongest saying even if it is in opposition to the Hanbali madhab.
 muftis:
-  shaykh: 
-    - name: Shaykh Salih Fawzan
-      url: /biography/fawzan/
+  shaykh:
+  - name: Shaykh Salih Fawzan
+    url: /biography/fawzan/
 ---
+
 
 ### Question:
 

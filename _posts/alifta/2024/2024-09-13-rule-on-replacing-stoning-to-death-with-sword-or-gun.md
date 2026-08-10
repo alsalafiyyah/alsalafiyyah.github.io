@@ -1,7 +1,7 @@
 ---
 date: 2024-09-13
 group2: true
-hijri: Rabiul Awwal 10, 1446
+hijri: '1446-03-10'
 lang: en
 layout: post
 mass_edited: true
@@ -12,6 +12,7 @@ summary: It is impermissible to replace stoning to death with killing by sword o
   committing Zina, which is the gravest crime after Shirk and killing.
 title: Ruling on replacing stoning the adulterer to death with a sword or gun
 ---
+
 
 ### Question: 
 Is it permissible to change the Hadd (ordained punishment for violating Allah’s Law) of a married person who commits Zina from stoning to death to killing with a sword or shooting with a gun?

@@ -2,20 +2,27 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-04-26
-hijri: "Dhu al-Qidah 9, 1447 AH"
-title: "The Origins of the Mawlid Celebration"
-source: "Liqa' al-Bab al-Maftuh 210-08"
-category: [fatwas,audios,bidah]
-tags: [ibn-uthaymeen]
-url: "https://binothaimeen.net/s/wCoC88ni"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_210_08.mp3"
+hijri: '1447-11-09'
+title: The Origins of the Mawlid Celebration
+source: Liqa' al-Bab al-Maftuh 210-08
+category:
+- fatwas
+- audios
+- bidah
+tags:
+- ibn-uthaymeen
+url: https://binothaimeen.net/s/wCoC88ni
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_210_08.mp3
 active: audios
-summary: "The first to introduce it were the Fatimids in Egypt during the 4th century AH. In the 7th century, it was introduced by the King of Erbil in Iraq, and subsequently spread among Muslims."
+summary: The first to introduce it were the Fatimids in Egypt during the 4th century
+  AH. In the 7th century, it was introduced by the King of Erbil in Iraq, and subsequently
+  spread among Muslims.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
 ---
+
 
 ### Question: 
 

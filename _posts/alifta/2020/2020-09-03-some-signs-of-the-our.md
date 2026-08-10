@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 15, 1442 AH
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: There are many Signs of the Hour, and some of them are included in the 
   that the Prophet gave to Gabriel when he asked him about the Signs of the Hour.
 title: Some of the signs of the Hour
 ---
+
 
 ### Question: 
 

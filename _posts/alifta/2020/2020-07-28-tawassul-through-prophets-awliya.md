@@ -1,7 +1,7 @@
 ---
 date: 2020/07/28
 group1: true
-hijri: Dhul-Hijjah 7, 1441
+hijri: '1441-12-07'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: What is the Islamic ruling on supplicating to Allah through a means thr
   prophets and pious people?
 title: Ruling on tawassul through prophets and Awliya
 ---
+
 
 ### Question: 
 What is the Islamic ruling on Tawassul (supplicating to Allah through a means) through prophets and Awliya' (pious people)?

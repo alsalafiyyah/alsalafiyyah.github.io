@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 8, 1441 AH
+hijri: '1441-12-08'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: The Injil (Gospel) of today is not the same that Allah (Glorified and E
 title: The Gospel of today is not the same that Allah (Glorified and Exalted be He)
   sent down
 ---
+
 
 Question: 
 

@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Qa'dah 25, 1441
+hijri: '1441-11-25'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: Swearing, whether by the Qur'an or by Al-Bukhari's Book of Hadith is gr
   in Shariah; it is done only by ignorant people.
 title: Ruling on swearing by Al-Bukhari's Book of Hadith
 ---
+
 
 ### Question: 
 In our country, people are used to swearing by Al-Bukhari's Book of Hadith.  If a person loses hope in taking their right from their Muslim brothers, they make them swear by Al-Bukhari, not the Qur'an. If they swear by the Qur'an, they might lie with a clear conscience. However, if asked to swear by Al-Bukhari's Book of Hadith, they cannot lie. What is the ruling on those who swear by Al-Bukhari and refuse to swear by the Qur'an?

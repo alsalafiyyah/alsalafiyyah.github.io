@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -19,6 +19,7 @@ summary: It is permissible for Muslims to work in non-Muslim countries if they f
   safe in themselves from temptation in their religion.
 title: Ruling on a Muslim working in non-Muslim country
 ---
+
 
 ### Question: 
  

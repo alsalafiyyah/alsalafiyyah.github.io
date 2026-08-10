@@ -3,17 +3,21 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 title: The Salaf are Ahl-us-Sunnah wal-Jama'ah
 source: Majmu' Fatawa 28/50
-category: [manhaj,fatwas]
-hijri: Dhul-Hijjah 5, 1441
+category:
+- manhaj
+- fatwas
+hijri: '1441-12-05'
 date: 2020/07/26
 locale: en
 lang: en
-summary: Salaf are Ahl-us-Sunnah wal-Jama'ah. Accordingly, it is permissible for a person to relate themselves to Salaf.
+summary: Salaf are Ahl-us-Sunnah wal-Jama'ah. Accordingly, it is permissible for a
+  person to relate themselves to Salaf.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz
+  shaykh:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz
 ---
+
 
 ### Question: 
 Some people do not define themselves as Ahl-us-Sunnah wal-Jama`ah (adherents to the Sunnah and the Muslim mainstream) claiming that all people do so. They say that it is more accurate for Muslims to relate themselves to Salaf (righteous predecessors). Is this correct?

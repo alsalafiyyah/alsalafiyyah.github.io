@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -17,6 +17,7 @@ summary: It is not permissible to participate in their festivals or congratulate
   also a forbidden collaboration with them in sin and aggression.
 title: Ruling on participating in disbelievers' festivals
 ---
+
 
 ### Question: 
 

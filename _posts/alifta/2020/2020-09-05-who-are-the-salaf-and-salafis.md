@@ -5,7 +5,7 @@ article_taken_from:
     web_url: https://al-fatawa.com/fatwa/112709
 date: 2020-09-05
 group1: true
-hijri: Muharram 17, 1442
+hijri: '1442-01-17'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ summary: Salaf are Ahl-ul-Sunnah wal-Jama'ah who are the followers of the Prophe
   of Resurrection.
 title: What is the explanation of the word Salaf and who are Al-Salafiyun?
 ---
+
 
 ### Question: 
 What is the explanation of the word **“Salaf”** and who are **“Al-Salafiyun (Salafis)”**? Could you give me an abstract of “Al-‘Aqidah Al-Wasitiyyah” book? What is the interpretation of the first five Ayahs of Surah Al-Kahf?

@@ -1,20 +1,23 @@
 ---
 layout: post
-title: "Introduction to Islam"
-publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat vol.28"
-hijri: Dhul-Hijjah 03, 1441
+title: Introduction to Islam
+publisher: alsalafiyyah@icloud.com
+source: Majmu' Fatawa wa Maqalat vol.28
+hijri: '1441-12-03'
 date: 2020-07-24
-category: [muqolat]
-summary: "The origin and basis of the Islam is Tawhid or belief in the Oneness of Allah and devoting all worship to Allah alone."
+category:
+- muqolat
+summary: The origin and basis of the Islam is Tawhid or belief in the Oneness of Allah
+  and devoting all worship to Allah alone.
 active: muqolat
 lang: en
 locale: en
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 Praise be to Allah, the Lord of Creation and the good end is for Al-Muttaqin (the pious) and peace and blessings be upon His beloved Servant, Messenger, and His chosen one amongst His creatures, our Prophet, and leader Muhammad ibn 'Abdullah, and upon his family and Companions and those who follow his example and guidance until the Day of Judgment.
 

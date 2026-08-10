@@ -1,6 +1,6 @@
 ---
 date: 2020-07-28
-hijri: Dhul-Hijjah 7, 1441
+hijri: '1441-12-07'
 lang: en
 layout: post
 mass_edited: true
@@ -23,6 +23,7 @@ summary: It is not permissible for Muslims who believe in Allah and the Last Day
 title: Impermissibility for Muslims to celebrating the millennium or other occasions
   of Non-Muslims
 ---
+
 
 ### Question: 
 

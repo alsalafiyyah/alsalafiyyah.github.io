@@ -1,6 +1,6 @@
 ---
 date: 2020-09-05
-hijri: Muharram 17, 1442
+hijri: '1442-01-17'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ summary: The Salaf and those who have followed in their footsteps attributed to 
 title: A commentary and explanation of an article by Dr. Muhiy Al-Din Al-Safy entitled
   'In order to be the most powerful Ummah'
 ---
+
 
 Praise be to Allah and peace and blessings be upon the Messenger of Allah and upon his family and Companions!
 

@@ -1,23 +1,29 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Understanding the Hadith of the Stone and the Tree"
+title: Understanding the Hadith of the Stone and the Tree
 date: 2024-06-28
-hijri: "Dhul-Hijjah 22, 1445"
-source: "Fatawa Nur 'ala, Tape No. 666, Question No. 2"
-category: [audios, hadiths, palestine]
-tags: [ibn-baz]
+hijri: '1445-12-22'
+source: Fatawa Nur 'ala, Tape No. 666, Question No. 2
+category:
+- audios
+- hadiths
+- palestine
+tags:
+- ibn-baz
 lang: en
 translation: false
 active: audios
-link: "https://binbaz.org.sa/fatwas/13685/%D8%A8%D9%8A%D8%A7%D9%86-%D8%AD%D8%AF%D9%8A%D8%AB-%D9%82%D8%AA%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%D9%8A%D9%86-%D9%84%D9%84%D9%8A%D9%87%D9%88%D8%AF-%D9%88%D9%81%D9%8A-%D8%A7%D9%8A-%D8%B2%D9%85%D9%86"
-mp3: "https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_666/nour_66602.mp3"
-summary: "The Hadith is authentic. It was narrated by the two Shaykhs (Al-Bukhari and Muslim) in their Sahihs (authentic books of Prophetic Hadiths) and others."
+link: https://binbaz.org.sa/fatwas/13685/%D8%A8%D9%8A%D8%A7%D9%86-%D8%AD%D8%AF%D9%8A%D8%AB-%D9%82%D8%AA%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%D9%8A%D9%86-%D9%84%D9%84%D9%8A%D9%87%D9%88%D8%AF-%D9%88%D9%81%D9%8A-%D8%A7%D9%8A-%D8%B2%D9%85%D9%86
+mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_666/nour_66602.mp3
+summary: The Hadith is authentic. It was narrated by the two Shaykhs (Al-Bukhari and
+  Muslim) in their Sahihs (authentic books of Prophetic Hadiths) and others.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question:
 

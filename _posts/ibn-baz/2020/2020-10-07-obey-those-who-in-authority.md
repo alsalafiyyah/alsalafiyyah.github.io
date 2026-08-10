@@ -1,19 +1,24 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Obeying rulers and scholars in Ma'ruf to set things right"
-hijri: "Safar 20, 1442 AH"
-source: "Majmu' Fatawa Al-Shaykh Ibn Baz p. 7/119"
-category: [rulership]
+title: Obeying rulers and scholars in Ma'ruf to set things right
+hijri: '1442-02-20'
+source: Majmu' Fatawa Al-Shaykh Ibn Baz p. 7/119
+category:
+- rulership
 translation: false
-tags: [ibn-baz]
+tags:
+- ibn-baz
 lang: en
-summary: "Those in authority refer to Muslim scholars and rulers. Their orders should be followed if they agree with Shari'ah and should be disregarded if they disagree with Shari'ah."
+summary: Those in authority refer to Muslim scholars and rulers. Their orders should
+  be followed if they agree with Shari'ah and should be disregarded if they disagree
+  with Shari'ah.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 > **Question 1: What is meant by obeying those in authority in the Ayah (Qur'anic verse)? Does the term refer to scholars or rulers, who may be unjust?**
 

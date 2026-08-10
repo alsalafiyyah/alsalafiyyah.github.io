@@ -1,19 +1,26 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on following Sufi Shaykhs"
-hijri: "Rabi' Al-Awwal 05, 1442 AH"
-source: "Fatawa Al-Shaykh Ibn Baz p. 5/383"
+title: Ruling on following Sufi Shaykhs
+hijri: '1442-03-05'
+source: Fatawa Al-Shaykh Ibn Baz p. 5/383
 lang: en
-category: [sects, sufism]
-tags: [ibn-baz]
+category:
+- sects
+- sufism
+tags:
+- ibn-baz
 translation: false
-summary: "What the questioner mentions about having in their country shaykhs whom they follow and the belief that one who does not have a shaykh will be astray in this world and the Hereafter is Munkar. It is not permissible to follow or believe in such things."
+summary: What the questioner mentions about having in their country shaykhs whom they
+  follow and the belief that one who does not have a shaykh will be astray in this
+  world and the Hereafter is Munkar. It is not permissible to follow or believe in
+  such things.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question:
 

@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 16, 1442
+hijri: '1442-01-16'
 lang: en
 layout: post
 mass_edited: true
@@ -18,6 +18,7 @@ title: The Messenger (peace be upon him) did not stretch his hand from his grave
   anyone
 translation: false
 ---
+
 
 ### Question:
 

@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 12, 1442 AH
+hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
@@ -24,6 +24,7 @@ summary: We would like your Eminence to advise us regarding using Saudi Payments
   before the customer leaves the store.
 title: A card that transfers the money from the buyer's account to the seller's immediately
 ---
+
 
 Question:
 

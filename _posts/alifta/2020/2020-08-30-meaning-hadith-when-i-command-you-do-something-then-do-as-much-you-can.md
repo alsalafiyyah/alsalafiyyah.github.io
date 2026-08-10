@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 11, 1442 AH
+hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
@@ -20,6 +20,7 @@ summary: 'The Prophet (peace be upon him) said: ''Anything I command you to do, 
 title: 'The Hadith: ''Anything I command you to do, perform of it as much as you can;
   and anything I forbid you to do, abandon it'''
 ---
+
 
 Question: 
 

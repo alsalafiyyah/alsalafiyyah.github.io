@@ -2,20 +2,28 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-06-11
-title: "Islam’s Innocence from the Crimes of Bombing and Terrorizing the Peaceful"
-source: "Liqa' al-Bab al-Maftuh 129, Question 2"
-category: [audios, sects, terrorism]
-tags: [ibn-uthaymeen]
+title: Islam’s Innocence from the Crimes of Bombing and Terrorizing the Peaceful
+source: Liqa' al-Bab al-Maftuh 129, Question 2
+category:
+- audios
+- sects
+- terrorism
+tags:
+- ibn-uthaymeen
 translation: false
 lang: en
-link: "https://binothaimeen.net/s/xh9iHOPw"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_129_02.mp3"
-summary: "By Allah, there is no doubt that this act is something no one approves of. Every sane person, let alone a believer, rejects it, because it goes against the Qur'an and the Sunnah."
+link: https://binothaimeen.net/s/xh9iHOPw
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_129_02.mp3
+summary: By Allah, there is no doubt that this act is something no one approves of.
+  Every sane person, let alone a believer, rejects it, because it goes against the
+  Qur'an and the Sunnah.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
+hijri: '1447-12-25'
 ---
+
 
 ### Question
 

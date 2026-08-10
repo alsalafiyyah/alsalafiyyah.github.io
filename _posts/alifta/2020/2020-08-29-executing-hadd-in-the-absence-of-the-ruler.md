@@ -1,7 +1,7 @@
 ---
 date: 2020-08-29
 group14: true
-hijri: Muharram 10, 1442 AH
+hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
@@ -14,6 +14,7 @@ tags:
 title: Executing Hadd in the absence of the ruler
 translation: false
 ---
+
 
 ### Question: 
 

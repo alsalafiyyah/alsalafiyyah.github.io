@@ -1,7 +1,7 @@
 ---
 date: 2020/08/31
 group2: true
-hijri: Muharram 12, 1442 AH
+hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
@@ -12,6 +12,7 @@ summary: Adopting and bringing up foundlings upon good manners and Islamic etiqu
 title: Ruling on bringing up a foundling
 uid: ruling-on-bringing-up-a-foundling
 ---
+
 
 ### Question: 
 

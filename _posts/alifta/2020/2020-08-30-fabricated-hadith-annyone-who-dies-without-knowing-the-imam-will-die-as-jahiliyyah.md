@@ -1,6 +1,6 @@
 ---
 date: 2020/08/30
-hijri: Muharram 11, 1442 AH
+hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ source: Fatawa Al-Lajnah Ad-Da'imah no. 19867-1
 title: 'Fabricated Hadith: ''Anyone who dies without knowing the Imam of his time
   will die the death of one belonging to Jahiliyyah'''
 ---
+
 
 Question: 
 

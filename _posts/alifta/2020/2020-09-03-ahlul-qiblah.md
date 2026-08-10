@@ -1,7 +1,7 @@
 ---
 date: 2020-09-03
 group6: true
-hijri: Muharram 15, 1442
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: One of the principles of Ahlus-Sunnah is not to declare whether a perso
   from Ahlul-Qiblah will enter Paradise or Hell.
 title: Who are Ahl-ul-Qiblah?
 ---
+
 
 ### Question: 
 One of the principles of Ahlus-Sunnah (adherents to the Sunnah) is not to declare whether a person from Ahl-ul-Qiblah (literally: People who face Ka`bah-direction in Prayer) will enter Paradise or Hell. They should merely hope that the righteous will be rewarded and fear that the guilty be punished. Who are Ahl-ul-Qiblah? 

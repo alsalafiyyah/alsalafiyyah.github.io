@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 15, 1442 AH
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: Al-Mahdy is a man from Ahlul-Bayt , who will appear before the descent 
   Jesus, peace be upon him, to call to Islam.
 title: Who is Imam Al-Mahdy?
 ---
+
 
 ### Question: 
 

@@ -1,6 +1,6 @@
 ---
 date: 2024-08-23
-hijri: Safar 19, 1446 AH
+hijri: '1446-02-19'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: If the doctors that specialize in that field decided that she would not
   harmed by the removal of her kidney, there is nothing wrong with that.
 title: Ruling on Kidney Transplants
 ---
+
 
 ### Question: 
 A friend of mine donated her kidney to her brother, who was suffering from kidney failure. She was told, however, that what she was doing was unlawful, unlawful because the body we have been given is a trust, and we will be asked about that trust on the Day of Judgement.

@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 10, 1442 AH
+hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: The Hadd (ordained punishment for violating Allah’s Law) of Qadhf (fa
   to males and females because of the general meaning of the Ayah (Qur'anic verse).
 title: Ruling on a wife practicing Qadhf with her husband
 ---
+
 
 Question: 
 

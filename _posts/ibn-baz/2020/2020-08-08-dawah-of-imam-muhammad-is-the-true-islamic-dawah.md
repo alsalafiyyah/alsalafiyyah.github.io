@@ -1,7 +1,7 @@
 ---
 active: wahhabi
 date: 2020-08-08
-hijri: Dhul-Hijjah 18, 1441
+hijri: '1441-12-18'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: In fact, the call of Imam Muhammad ibn 'Abdul-Wahhab is the true Islami
   call of the Messenger of Allah, the Sahabah, and the Salaf.
 title: The Da'wah of Imam Muhammad ibn Abdul-Wahhab is the true Islamic Da'wah
 ---
+
 
 All praise be to Allah, Lord of the worlds. May peace and blessings be upon the most honorable Prophet and Messenger, Muhammad, and upon his family and Companions.
 

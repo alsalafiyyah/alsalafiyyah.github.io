@@ -5,7 +5,7 @@ article_taken_from:
     web_url: https://al-fatawa.com/fatwa/105815
 date: 2024-07-02
 group2: true
-hijri: Dhul-Hijjah 26, 1445
+hijri: '1445-12-26'
 lang: en
 layout: post
 mass_edited: true
@@ -18,6 +18,7 @@ tags:
 title: Every human is born in a state of natural disposition of monotheism
 translation: false
 ---
+
 
 ### Question: 
 

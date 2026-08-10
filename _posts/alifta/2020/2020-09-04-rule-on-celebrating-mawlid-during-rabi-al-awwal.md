@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 16, 1442 AH
+hijri: '1442-01-16'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: What is the ruling on celebrating the Mawlid (the Prophet’s birthday)
   Rabi‘ Al-Awwal as a tribute to the Prophet
 title: Ruling on celebrating the Prophet's Mawlid during Rabi' Al-Awwal in his honor
 ---
+
 
 Question : 
 

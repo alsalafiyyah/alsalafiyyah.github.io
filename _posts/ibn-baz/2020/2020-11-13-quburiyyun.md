@@ -2,18 +2,25 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on Quburiyyun (grave worshippers)"
-hijri: "Rabi' Al-Awwal 27, 1442"
+title: Ruling on Quburiyyun (grave worshippers)
+hijri: '1442-03-27'
 lang: en
-category: [sects]
-tags: [ibn-baz]
+category:
+- sects
+tags:
+- ibn-baz
 translation: false
-summary: "Worship is not defined through people's views but it is determined through Allah's Judgment (Glorified and Exalted be He). The early Mushriks are divided into different categories, such as those who worshipped idols, those who worshipped prophets, those who worshipped righteous people, those who worshipped trees, those who worshipped stones, and those who worshipped other things."
+summary: Worship is not defined through people's views but it is determined through
+  Allah's Judgment (Glorified and Exalted be He). The early Mushriks are divided into
+  different categories, such as those who worshipped idols, those who worshipped prophets,
+  those who worshipped righteous people, those who worshipped trees, those who worshipped
+  stones, and those who worshipped other things.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 > Question: It is said that the early Mushriks (those who associate others with Allah in His Divinity or worship) admitted that they worshipped their gods only to bring them near to Allah. They were in fact idol worshippers, so how can you declare those you call Quburiyyun i.e. grave worshippers, to be Mushriks although they do not worship idols or claim that the dead should be worshipped, but they only seek blessings through them? [^1]
 

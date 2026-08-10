@@ -1,22 +1,28 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "There is no such thing as a good bid’ah in the religion"
+title: There is no such thing as a good bid’ah in the religion
 date: 2024-07-28
-hijri: Muharram 22, 1446
-source: "Muhadharat fil-‘Aqidah wad-Da’wah vol.1 pages 196-197"
-category: [muqolat,bidah]
-tags: [salih-ibn-fawzan]
+hijri: '1446-01-22'
+source: Muhadharat fil-‘Aqidah wad-Da’wah vol.1 pages 196-197
+category:
+- muqolat
+- bidah
+tags:
+- salih-ibn-fawzan
 locale: en
 lang: en
 active: muqolat
-summary: "There is no such thing as a good bid’ah as is claimed by some of the ignorant ones. Innovations – in their entirety are a going astray, as was judged by the Messenger of Allah ﷺ."
+summary: There is no such thing as a good bid’ah as is claimed by some of the ignorant
+  ones. Innovations – in their entirety are a going astray, as was judged by the Messenger
+  of Allah ﷺ.
 translated_by: Abu Hatim Muhammad Faruq
 muftis:
-  shaykh: 
-    - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan
+  shaykh:
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan
 ---
+
 
 There is no such thing as a ‘**good bid’ah (innovation)**' as is claimed by some of the ignorant ones. Innovations – in their entirety are a going astray, as was judged by the Messenger of Allah ﷺ in his saying: **"Every bid'ah (innovation) is a going astray."** [^1] and in another narration: **"And every going astray is in the Hell-fire."** [^2].
 

@@ -1,20 +1,25 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Rule on associating with the disbelievers"
-hijri: "Rabi' Al-Awwal 11, 1442"
+title: Rule on associating with the disbelievers
+hijri: '1442-03-11'
 date: 2020-10-28
-source: "Majmu' Fatawa Al-Shaykh Ibn Baz 28/235"
+source: Majmu' Fatawa Al-Shaykh Ibn Baz 28/235
 lang: en
-category: [fatwas, walabara]
+category:
+- fatwas
+- walabara
 note: false
 locale: en
-summary: "Loving the Kafirs, helping them in falsehood and considering them friends are major sins and means leading to disbelief in Allah. If a person helps them against the Muslims, this is association which is considered one of the forms of apostasy."
+summary: Loving the Kafirs, helping them in falsehood and considering them friends
+  are major sins and means leading to disbelief in Allah. If a person helps them against
+  the Muslims, this is association which is considered one of the forms of apostasy.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

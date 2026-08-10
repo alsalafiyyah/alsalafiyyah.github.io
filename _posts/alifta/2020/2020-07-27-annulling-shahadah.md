@@ -1,7 +1,7 @@
 ---
 date: 2020/07/27
 group6: true
-hijri: Dhul-Hijjah 6, 1441 AH
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -10,6 +10,7 @@ source: Fatawa Al-Lajnah Al-Da'imah no. 10684
 summary: What is the separating line between Kufr (disbelief) and Islam?
 title: Annulling Shahadah
 ---
+
 
 Question: 
  

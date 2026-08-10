@@ -1,5 +1,5 @@
 ---
-hijri: Safar 25, 1442 AH
+hijri: '1442-02-25'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: After reviewing the mentioned book (Kashf Al-Akinnah), I realized that 
   (Islamic law).
 title: Ruling on book entitled 'Kashf Al-Akinnah' by Abdul-Wahhab Mahiyyah
 ---
+
 
 Question:
 

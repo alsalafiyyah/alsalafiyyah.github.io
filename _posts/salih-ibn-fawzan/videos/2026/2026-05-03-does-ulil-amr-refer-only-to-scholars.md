@@ -2,21 +2,27 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Does Ulil-Amr Refer Only to Scholars?"
-hijri: "Dhu al-Qidah 14, 1447 AH"
+title: Does Ulil-Amr Refer Only to Scholars?
+hijri: '1447-11-16'
 date: 2026-05-03
-category: [fatwas,videos,rulership]
-tags: [salih-ibn-fawzan]
+category:
+- fatwas
+- videos
+- rulership
+tags:
+- salih-ibn-fawzan
 active: videos
-summary: "Those in authority are both the scholars and the rulers, as you have heard. In fact, the outward, apparent meaning of the term refers to the rulers."
-videoURL: "https://youtu.be/7CL7K-BYVy8"
-videoID: "7CL7K-BYVy8"
-source: "Fatawa Duroos 963/1350"
+summary: Those in authority are both the scholars and the rulers, as you have heard.
+  In fact, the outward, apparent meaning of the term refers to the rulers.
+videoURL: https://youtu.be/7CL7K-BYVy8
+videoID: 7CL7K-BYVy8
+source: Fatawa Duroos 963/1350
 muftis:
-  shaykh: 
-    - name: "Shaykh Salih Al-Fawzan"
-      url: "/biography/fawzan/"
+  shaykh:
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan/
 ---
+
 
 ### Question: 
 

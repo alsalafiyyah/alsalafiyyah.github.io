@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 22, 1441
+hijri: '1441-12-22'
 lang: en
 layout: post
 mass_edited: true
@@ -14,6 +14,7 @@ summary: I advise Muslim men and women to abstain from listening to songs, for t
   it is a trial to Muslims.
 title: Ruling on listening to songs
 ---
+
 
 Question:
 

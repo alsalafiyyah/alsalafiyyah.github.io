@@ -1,6 +1,6 @@
 ---
 date: 2020/08/30
-hijri: Muharram 11, 1442 AH
+hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
@@ -14,6 +14,7 @@ source: Fatawa Al-Lajnah Ad-Da'imah no. 21204
 title: Ruling on a man found a collection of golden ornaments and sold them because
   he was ignorant of the ruling of Luqatah in Al-Haram
 ---
+
 
 Question: 
 

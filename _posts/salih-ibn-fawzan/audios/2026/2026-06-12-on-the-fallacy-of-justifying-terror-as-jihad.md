@@ -2,21 +2,29 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-06-12
-title: "On the Fallacy of Justifying Terror as Jihad"
-category: [audios, rulers, sects, terrorism]
-tags: [salih-ibn-fawzan]
-mp3: "https://audio.alfawzan.live/NEW_10.mp3"
-link: "https://alfawzan.live/content/13282/"
+title: On the Fallacy of Justifying Terror as Jihad
+category:
+- audios
+- rulers
+- sects
+- terrorism
+tags:
+- salih-ibn-fawzan
+mp3: https://audio.alfawzan.live/NEW_10.mp3
+link: https://alfawzan.live/content/13282/
 active: audios
 translation: false
 lang: en
-source: "Fatwa no.13282"
-summary: "The disbelievers themselves are likely the ones who trained them in these matters."
+source: Fatwa no.13282
+summary: The disbelievers themselves are likely the ones who trained them in these
+  matters.
 muftis:
-  shaykh: 
-    - name: "Shaykh Salih al-Fawzan"
-      url: "/biography/fawzan/"
+  shaykh:
+  - name: Shaykh Salih al-Fawzan
+    url: /biography/fawzan/
+hijri: '1447-12-26'
 ---
+
 
 ### Question: 
 

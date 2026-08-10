@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: It is not permissible for Muslims to hold such celebrations, or attend 
   helping the occurrence of sin and transgression, whereas Allah has forbidden them.
 title: Ruling on attending festivities of Christians
 ---
+
 
 ### Question: 
  

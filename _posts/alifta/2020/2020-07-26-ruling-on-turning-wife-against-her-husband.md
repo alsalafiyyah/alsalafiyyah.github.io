@@ -1,6 +1,6 @@
 ---
 date: 2020/07/26
-hijri: Dhul-Hijjah 5, 1441
+hijri: '1441-12-05'
 lang: en
 layout: post
 mass_edited: true
@@ -14,6 +14,7 @@ summary: It is Haram to turn a wife against her husband, based on the evidence r
   in this regard.
 title: Ruling on turning a wife against her husband
 ---
+
 
 ### Question: 
 A woman's family is turning her against her husband, preventing her from going to him by force, and threatening her. Even more, they are asking him to divorce her. What is the ruling of Islam on people who do these acts nowadays? Please give us your Fatwa (legal opinion issued by a qualified Muslim scholar). May Allah reward you.

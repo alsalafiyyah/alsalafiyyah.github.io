@@ -1,7 +1,7 @@
 ---
 date: 2024-09-23
 group13: true
-hijri: Rabiul Awwal 20, 1446
+hijri: '1446-03-20'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: It is not permissible to sell cats, monkeys and dogs, and other carnivo
   that have fangs, because the Prophet ﷺ forbade that and denounced it.
 title: The ruling on selling cats, monkeys and dogs
 ---
+
 
 ### Question: 
 I would like to work in the field of trading in tame animals such as cats and birds. One of these animals is monkeys that are trained and used for the sake of amusement and attracting customers to shops. Moreover, these kinds of animals are used for amusement and attracting customers in order to increase sales. But these animals are very expensive. Some brothers – may Allah reward them – told me that trading in monkeys is prohibited as they are a sign for Allah's Wrath and Punishment; they are not created to be used this way; and this is a waste of money. What is the ruling on that?

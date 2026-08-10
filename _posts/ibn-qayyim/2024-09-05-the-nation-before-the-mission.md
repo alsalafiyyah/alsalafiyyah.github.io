@@ -2,19 +2,23 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Types of People on Earth Before The Mission of Islam"
-hijri: "Rabiul Awwal 02, 1446 AH"
-source: "Hidayat Al-hayara Fi Ajwibat al-Yahud wa al-Nasara 1/227-230"
+title: Types of People on Earth Before The Mission of Islam
+hijri: '1446-03-02'
+source: Hidayat Al-hayara Fi Ajwibat al-Yahud wa al-Nasara 1/227-230
 active: muqolat
 date: 2024-09-05
-category: [muqolat]
+category:
+- muqolat
 note: false
-summary: "When God sent Muhammad (peace be upon him) the people on earth were of two groups: the people of the Book, and the pretenders of Faith (the hypocrites) who followed no Book."
+summary: 'When God sent Muhammad (peace be upon him) the people on earth were of two
+  groups: the people of the Book, and the pretenders of Faith (the hypocrites) who
+  followed no Book.'
 muftis:
-  shaykh: 
-    - name: "Imam Ibn Al-Qayyim"
-      url: "/biography/alqayyim/"
+  shaykh:
+  - name: Imam Ibn Al-Qayyim
+    url: /biography/alqayyim/
 ---
+
 
 Praise be to Allah.
 

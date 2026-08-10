@@ -1,7 +1,7 @@
 ---
 date: 2020/09/3
 group1: true
-hijri: Muharram 14, 1442 AH
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -12,6 +12,7 @@ summary: This person is regarded as a disobedient Muslim who should be advised a
 title: Ruling on someone committing some misdeeds such as trailing the garment, shaving
   the beard, backbiting and tale-bearing
 ---
+
 
 ### Question:
 

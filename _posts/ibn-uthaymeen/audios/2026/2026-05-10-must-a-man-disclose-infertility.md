@@ -2,19 +2,25 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-05-10
-hijri: "Dhu al-Qidah 23, 1447 AH"
-title: "Must a Man Disclose Infertility to a Prospective Spouse?"
-source: "Liqa’a al-Bab al-Maftuh 7 no.27"
-category: [fatwas,audios,women]
-tags: [ibn-uthaymeen]
-link: "https://binothaimeen.net/s/JoS9t1sg"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_007_27.mp3"
-summary: "Anyone who has a physical defect or condition must disclose it to those from whom he is seeking marriage, especially such a significant matter as infertility."
+hijri: '1447-11-23'
+title: Must a Man Disclose Infertility to a Prospective Spouse?
+source: Liqa’a al-Bab al-Maftuh 7 no.27
+category:
+- fatwas
+- audios
+- women
+tags:
+- ibn-uthaymeen
+link: https://binothaimeen.net/s/JoS9t1sg
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_007_27.mp3
+summary: Anyone who has a physical defect or condition must disclose it to those from
+  whom he is seeking marriage, especially such a significant matter as infertility.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
 ---
+
 
 ### Question:
 

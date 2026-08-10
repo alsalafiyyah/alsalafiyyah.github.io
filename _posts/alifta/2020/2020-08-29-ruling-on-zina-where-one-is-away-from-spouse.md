@@ -1,6 +1,6 @@
 ---
 date: 2020-08-29
-hijri: Muharram 10, 1442
+hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: A Muslim is prohibited to commit Zina, even if he is away from his wife
   lawful means and to achieve chastity.
 title: Ruling on Zina especially where one is away from the spouse
 ---
+
 
 ### Question: 
 

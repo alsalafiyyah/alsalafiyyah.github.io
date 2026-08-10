@@ -1,19 +1,25 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "The Ruling on a Husband Refusing his Wife’s Request for Intimacy"
-hijri: "Dhu al-Qidah 24, 1447 AH"
+title: The Ruling on a Husband Refusing his Wife’s Request for Intimacy
+hijri: '1447-11-24'
 date: 2026-05-11
-source: "Fath dhi al-Jalali wa al-Ikram bi Sharh Bulugh al-Maram 4/566"
-category: [fatwas,women]
-tags: [ibn-uthaymeen]
+source: Fath dhi al-Jalali wa al-Ikram bi Sharh Bulugh al-Maram 4/566
+category:
+- fatwas
+- women
+tags:
+- ibn-uthaymeen
 lang: en
-summary: "The woman certainly has a right to request intercourse, but it is not identical to the right of the man; for he is the one who holds the primary prerogative in this matter."
+summary: The woman certainly has a right to request intercourse, but it is not identical
+  to the right of the man; for he is the one who holds the primary prerogative in
+  this matter.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
 ---
+
 
 ### Question: 
 

@@ -13,7 +13,9 @@ tags:
 - alifta
 title: On the Deviant Beliefs of the Tolu-e-Islam Sect
 translation: false
+hijri: '1448-01-16'
 ---
+
 
 ### Question: 
 

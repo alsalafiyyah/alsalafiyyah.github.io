@@ -1,17 +1,24 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "The Essential Prerequisite of Knowledge Before Calling to Islam"
+title: The Essential Prerequisite of Knowledge Before Calling to Islam
 date: 2026-07-27
-category: [knowledge,sects]
-tags: [salih-ibn-fawzan]
-link: "http://www.ajurry.com/vb/showthread.php?t=7086"
-summary: "That claim is among the myths of the misguided Sufis, because action without knowledge is misguidance, and coveting the attainment of knowledge without learning is a false delusion."
+category:
+- knowledge
+- sects
+tags:
+- salih-ibn-fawzan
+link: http://www.ajurry.com/vb/showthread.php?t=7086
+summary: That claim is among the myths of the misguided Sufis, because action without
+  knowledge is misguidance, and coveting the attainment of knowledge without learning
+  is a false delusion.
 muftis:
-  shaykh: 
-    - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan
+  shaykh:
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan
+hijri: '1448-02-13'
 ---
+
 
 ### Question:
 

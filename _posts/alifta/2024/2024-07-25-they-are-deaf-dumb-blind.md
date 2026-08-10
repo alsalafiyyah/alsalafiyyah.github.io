@@ -1,6 +1,6 @@
 ---
 date: 2024-07-25
-hijri: Muharram 19, 1446 AH
+hijri: '1446-01-19'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: These are three qualities that Allah Almighty described the hypocrites 
 title: Explanation of the Quranic verse 'They are Deaf, Dumb, and Blind, so They Return
   Not'
 ---
+
 
 ### Question:
 What is the explanation of the verse : **"They are deaf, dumb, and blind, so they return not"** (Al-Baqarah 2:18) ?

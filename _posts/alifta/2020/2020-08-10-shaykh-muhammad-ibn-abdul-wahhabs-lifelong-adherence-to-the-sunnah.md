@@ -1,7 +1,7 @@
 ---
 date: 2020-08-10
 group1: true
-hijri: Dhul-Hijjah 20, 1441
+hijri: '1441-12-20'
 lang: en
 layout: post
 link: https://fatawapedia.com/%D8%AD%D9%83%D9%85-%D9%85%D8%A7-%D9%8A%D9%82%D8%A7%D9%84-%D9%85%D9%86-%D8%A7%D9%86%D8%AD%D8%B1%D8%A7%D9%81-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%88%D9%87%D8%A7%D8%A8-%D9%81%D9%8A-%D8%A2%D8%AE%D8%B1-%D8%AD%D9%8A%D8%A7%D8%AA%D9%87-12772
@@ -12,6 +12,7 @@ summary: Shaykh Muhammad ibn Abd al-Wahhab—may Allah have mercy on him—is am
   greatest callers to Salafiyyah, the sound creed, and the upright methodology
 title: Shaykh Muhammad Ibn Abd al-Wahhab’s Lifelong Adherence to the Sunnah
 ---
+
 
 ### Question:
 

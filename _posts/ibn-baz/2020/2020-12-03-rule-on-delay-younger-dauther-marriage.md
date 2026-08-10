@@ -1,18 +1,21 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "It is not permissible to delay the marriage of the younger girl"
-hijri: "Rabi' Al-Thani 18, 1442 AH"
-source: "Fatawa Shaykh Ibn Baz p. 20/420"
+title: It is not permissible to delay the marriage of the younger girl
+hijri: '1442-04-18'
+source: Fatawa Shaykh Ibn Baz p. 20/420
 lang: en
-category: [marriage]
+category:
+- marriage
 note: false
-summary: "It is not permissible to delay the marriage of the younger daughter until the elder one gets married."
+summary: It is not permissible to delay the marriage of the younger daughter until
+  the elder one gets married.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question:
 

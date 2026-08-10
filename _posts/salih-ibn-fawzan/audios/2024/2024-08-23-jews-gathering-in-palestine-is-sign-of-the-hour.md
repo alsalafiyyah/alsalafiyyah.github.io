@@ -1,19 +1,24 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "The Gathering of The Jews in Palestine and the Signs of the Hour"
-hijri: "Safar 19, 1446 AH"
+title: The Gathering of The Jews in Palestine and the Signs of the Hour
+hijri: '1446-02-19'
 date: 2024-08-23
 active: audios
-category: [audios,palestine]
-tags: [salih-ibn-fawzan]
-summary: "The gathering of Jews in Palestine is among the signs of the Hour, for they gather in the end of times in Palestine awaiting the Antichrist."
-mp3: "https://phaven-prod.s3.amazonaws.com/files/audio_part/asset/3079625/jdiTTiQGyg64LklAeVfYJ5jASPQ/The_Jews_assembling_in_Palestine_is_a_sign_of_the_Day_of_Judgment.mp3"
+category:
+- audios
+- palestine
+tags:
+- salih-ibn-fawzan
+summary: The gathering of Jews in Palestine is among the signs of the Hour, for they
+  gather in the end of times in Palestine awaiting the Antichrist.
+mp3: https://phaven-prod.s3.amazonaws.com/files/audio_part/asset/3079625/jdiTTiQGyg64LklAeVfYJ5jASPQ/The_Jews_assembling_in_Palestine_is_a_sign_of_the_Day_of_Judgment.mp3
 muftis:
-  shaykh: 
-    - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan
+  shaykh:
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan
 ---
+
 
 The gathering of Jews in Palestine is among the signs of the Hour, for they gather in the end of times in Palestine awaiting the Dajjal (the Antichrist). The Dajjal will emerge among them, then 'Isa (Jesus, peace be upon him) will descend and kill him. Their gathering in Palestine is one of the signs of the Hour that the Prophet ﷺ informed us of. Battles and great epics will occur between them and the Muslims in Palestine; in the end, the Muslims will prevail over them and defeat them decisively.
 

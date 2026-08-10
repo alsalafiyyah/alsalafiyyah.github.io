@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -20,6 +20,7 @@ summary: You should invite them to Islam, enjoin Ma'ruf (that which is judged as
   forbid them from Munkar (that which is unacceptable or disapproved of).
 title: Obligations towards non-Muslim co-workers
 ---
+
 
 ### Question: 
  

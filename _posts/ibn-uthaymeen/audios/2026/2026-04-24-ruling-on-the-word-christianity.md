@@ -2,19 +2,26 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-04-24
-hijri: "Dhu al-Qidah 7, 1447 AH"
-title: "The Ruling on the Word 'Masihiyyah' (Christianity)"
-source: "Liqa' al-Bab al-Maftuh 43"
-category: [fatwas,sects,audios]
-tags: [ibn-uthaymeen]
-url: "https://binothaimeen.net/s/vgFcEdWX"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_043_09.mp3"
-summary: "Our view is that we should call the Nasara (Nazarenes) by the name 'Nasara,' just as Allah named them, and as is well-known in the books of the scholars of the past; they used to refer to them as 'The Jews and the Nasara.'"
+hijri: '1447-11-07'
+title: The Ruling on the Word 'Masihiyyah' (Christianity)
+source: Liqa' al-Bab al-Maftuh 43
+category:
+- fatwas
+- sects
+- audios
+tags:
+- ibn-uthaymeen
+url: https://binothaimeen.net/s/vgFcEdWX
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_043_09.mp3
+summary: Our view is that we should call the Nasara (Nazarenes) by the name 'Nasara,'
+  just as Allah named them, and as is well-known in the books of the scholars of the
+  past; they used to refer to them as 'The Jews and the Nasara.'
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
 ---
+
 
 ### Question: 
 

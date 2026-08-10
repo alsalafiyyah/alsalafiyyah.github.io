@@ -1,6 +1,6 @@
 ---
 group1: true
-hijri: Muharram 14, 1442 AH
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -12,6 +12,7 @@ tags:
 title: The difference between Arab and non-Arab Christians
 translation: false
 ---
+
 
 ### Question:
 Is there a difference between Arab Christians and non-Arab Christians? 

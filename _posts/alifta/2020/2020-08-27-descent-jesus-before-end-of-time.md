@@ -1,7 +1,7 @@
 ---
 date: 2020-08-27
 group1: true
-hijri: Muharram 8, 1442 AH
+hijri: '1442-01-08'
 lang: en
 layout: post
 mass_edited: true
@@ -12,6 +12,7 @@ summary: Yes, Prophet 'Isa, the Son of Maryam (Mary), will come down to the eart
   (peace be upon him)
 title: The descent of Jesus before the end of the time
 ---
+
 
 ### Question: 
 

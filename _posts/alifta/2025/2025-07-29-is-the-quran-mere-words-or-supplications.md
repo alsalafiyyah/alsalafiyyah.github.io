@@ -1,7 +1,7 @@
 ---
 date: 2025-07-29
 group1: true
-hijri: Safar 4, 1447 AH
+hijri: '1447-02-04'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,8 @@ tags:
 title: Is the Qur'an mere words or supplications as claimed by some people?
 translation: false
 ---
+
+
 
 ### Question
 

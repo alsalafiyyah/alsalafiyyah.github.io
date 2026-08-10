@@ -1,18 +1,22 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on making Sujud and slaughtering for other than Allah out of ignorance"
-hijri: Safar 07, 1442 AH
-source: "Majmu' Fatawa Ibn Baz 28/146, question 4"
+title: Ruling on making Sujud and slaughtering for other than Allah out of ignorance
+hijri: '1442-02-07'
+source: Majmu' Fatawa Ibn Baz 28/146, question 4
 lang: en
 locale: en
-category: [fatwas, bidah]
-summary: "What is the ruling on making prostration and slaughtering for other than Allah out of ignorance?"
+category:
+- fatwas
+- bidah
+summary: What is the ruling on making prostration and slaughtering for other than
+  Allah out of ignorance?
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

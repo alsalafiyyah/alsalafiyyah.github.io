@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: It is Haram for Muslims to let any disbeliever enter Al-Masjid Al-Haram
   Sacred Mosque in Makkah) or any part of the Sanctuary
 title: Ruling on Non-Muslims entering Masjids
 ---
+
 
 ### Question: 
  

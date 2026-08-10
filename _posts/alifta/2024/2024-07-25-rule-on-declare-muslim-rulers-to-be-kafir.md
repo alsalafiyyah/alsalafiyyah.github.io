@@ -1,6 +1,6 @@
 ---
 date: 2024-07-25
-hijri: Muharram 19, 1446 AH
+hijri: '1446-01-19'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: Those who declare the Muslim rulers to be disbelievers in general, then
 title: Those who declare the Muslim rulers to be disbelievers are from the Khawarij
 translated_by: Abul-Irbad Abid Zargar
 ---
+
 
 ### Question:
 What is our position towards those who make takfeer of the Muslim rulers today, generally and in detail? Are they (those who make takfir of the rulers) considered to be from the Khawarij?

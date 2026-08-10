@@ -5,7 +5,7 @@ article_taken_from:
     web_url: https://al-fatawa.com/fatwa/106103
 date: 2024-08-05
 group6: true
-hijri: Safar 01, 1446 AH
+hijri: '1446-02-01'
 lang: en
 layout: post
 mass_edited: true
@@ -19,6 +19,7 @@ tags:
 title: On those who say that there are no politics in Islam and no Islam in politics
 translation: false
 ---
+
 
 ### Question: 
 

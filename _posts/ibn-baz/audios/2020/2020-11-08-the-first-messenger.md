@@ -1,25 +1,29 @@
 ---
 layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "Noah was the first messenger"
-source: "Fatawa Nur 'Ala al-Darb vol 1"
+publisher: alsalafiyyah@icloud.com
+title: Noah was the first messenger
+source: Fatawa Nur 'Ala al-Darb vol 1
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_596/59630.mp3
-hijri: "Rabi' Al-Awwal 22, 1442"
+hijri: '1442-03-22'
 date: 2020-11-08
 lang: en
 active: audios
 note: false
 locale: en
-active: audios
-category: [audios,prophets]
-tags: [ibn-baz]
-url: "https://binbaz.org.sa/fatwas/16763/%D9%85%D9%86-%D8%A7%D9%88%D9%84-%D8%A7%D9%84%D8%A7%D9%86%D8%A8%D9%8A%D8%A7%D8%A1"
-summary: "Nuh was the first Messenger to be sent when Shirk (associating others with Allah in His Divinity or worship, polytheism) appeared among the people."
+category:
+- audios
+- prophets
+tags:
+- ibn-baz
+url: https://binbaz.org.sa/fatwas/16763/%D9%85%D9%86-%D8%A7%D9%88%D9%84-%D8%A7%D9%84%D8%A7%D9%86%D8%A8%D9%8A%D8%A7%D8%A1
+summary: Nuh was the first Messenger to be sent when Shirk (associating others with
+  Allah in His Divinity or worship, polytheism) appeared among the people.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 A questioner asks: Who was the first Prophet: Idris (Enoch) or Nuh (Noah) (peace be 

@@ -1,6 +1,6 @@
 ---
 date: 2020/08/30
-hijri: Muharram 11, 1442 AH
+hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
@@ -14,6 +14,7 @@ source: Fatawa Al-Lajnah Ad-Da'imah no. 19042-3
 title: 'Fabricated Hadith: ''A time will come when most people have the faces of human
   beings and the hearts of wolves'''
 ---
+
 
 Question: 
 

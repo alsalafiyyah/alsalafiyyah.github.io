@@ -1,22 +1,29 @@
 ---
 layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "People of Bid'ah are not of Al-Firqah Al-Najiyah"
-source: "Fatawa Nur 'Ala al-Darb of Ibn Baz tape no. 307 question 4"
+publisher: alsalafiyyah@icloud.com
+title: People of Bid'ah are not of Al-Firqah Al-Najiyah
+source: Fatawa Nur 'Ala al-Darb of Ibn Baz tape no. 307 question 4
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_724/nour_72406.mp3
 link: https://cutt.ly/IdB5rcq
-hijri: Dhul-Hijjah 19, 1441
+hijri: '1441-12-19'
 date: 2020-08-09
-category: [audios,sects]
-tags: [ibn-baz]
+category:
+- audios
+- sects
+tags:
+- ibn-baz
 lang: en
 active: audios
-summary: "The triumphant group is Ahl-ul-Sunnah waI-Jama'ah (adherents to the Sunnah and the Muslim mainstream). They are the followers of the Book and the Sunnah who introduce no Bid'ah (innovation in the religion) and abide by the commands of Allah (Exalted be He)."
+summary: The triumphant group is Ahl-ul-Sunnah waI-Jama'ah (adherents to the Sunnah
+  and the Muslim mainstream). They are the followers of the Book and the Sunnah who
+  introduce no Bid'ah (innovation in the religion) and abide by the commands of Allah
+  (Exalted be He).
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 Is a Mubtadi' (one who introduces innovations in religion) excluded from the Al-Firqah Al-Najiyah (the Saved Sect) and the triumphant group?

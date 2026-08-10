@@ -1,19 +1,26 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Issue on painting, drawing, sculpture, photography"
-hijri: "Rabi' Al-Awwal 11, 1442"
-source: "Issued by the office of His Eminence when he was the President of the Islamic University, on 25/3/1395 A.H., no. 841"
+title: Issue on painting, drawing, sculpture, photography
+hijri: '1442-03-11'
+source: Issued by the office of His Eminence when he was the President of the Islamic
+  University, on 25/3/1395 A.H., no. 841
 lang: en
 locale: en
-category: [fatwas,taswir]
+category:
+- fatwas
+- taswir
 note: false
-summary: "It is not permissible for a teacher or any other person to depict pictures of animate beings, because the Prophet -peace be upon him- cursed the one who makes pictures and statues, or photographs of living beings and said that they are among the people most tormented on the Day of Resurrection."
+summary: It is not permissible for a teacher or any other person to depict pictures
+  of animate beings, because the Prophet -peace be upon him- cursed the one who makes
+  pictures and statues, or photographs of living beings and said that they are among
+  the people most tormented on the Day of Resurrection.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

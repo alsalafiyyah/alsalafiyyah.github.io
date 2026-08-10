@@ -3,18 +3,25 @@ published: false
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-04-28
-hijri: "Dhu al-Qidah 11, 1447 AH"
-title: "Analyzing the Creed of the Deviant Sect Known as NOI (the Nation of Islam)"
-category: [fatwas,audios,non-muslim,sects]
-tags: [muhammad-salih-luhaydan]
-mp3: "/assets/audios/shaykh-luhaydan-on-noi.mp3"
+hijri: '1447-11-11'
+title: Analyzing the Creed of the Deviant Sect Known as NOI (the Nation of Islam)
+category:
+- fatwas
+- audios
+- non-muslim
+- sects
+tags:
+- muhammad-salih-luhaydan
+mp3: /assets/audios/shaykh-luhaydan-on-noi.mp3
 active: audios
-summary: "Regarding what has been mentioned about their characteristics in these questions, these people are not Muslims."
+summary: Regarding what has been mentioned about their characteristics in these questions,
+  these people are not Muslims.
 muftis:
-  shaykh: 
-    - name: "Shaykh Muhammad ibn Salih al-Luhaydan"
-      url: "/biography/salih-luhaydan/"
+  shaykh:
+  - name: Shaykh Muhammad ibn Salih al-Luhaydan
+    url: /biography/salih-luhaydan/
 ---
+
 
 ### Question:
 

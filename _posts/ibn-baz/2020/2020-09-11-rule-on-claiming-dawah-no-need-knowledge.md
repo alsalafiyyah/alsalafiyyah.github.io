@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 22, 1442 AH
+hijri: '1442-01-23'
 lang: en
 layout: post
 mass_edited: true
@@ -13,6 +13,7 @@ summary: 'They say that the Call to Islam does not need knowledge or Fiqh based 
   Hadith: ''Convey (my teachings) to the people even if it were a single sentence.'''
 title: Ruling on claiming that the Call to Islam does not need knowledge
 ---
+
 
 Question:
 

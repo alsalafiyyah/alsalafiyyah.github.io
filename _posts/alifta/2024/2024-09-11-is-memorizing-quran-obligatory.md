@@ -1,7 +1,7 @@
 ---
 date: 2024-09-11
 group2: true
-hijri: Rabiul Awwal 08, 1446
+hijri: '1446-03-08'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: Memorizing the Qur'an is one of the best forms of worship and contains 
   reward if a Muslim acts according to its ordinances and follows its limits and rulings.
 title: Is memorizing the Qur'an obligatory?
 ---
+
 
 ### Question: 
 Is memorizing the Qur'an obligatory?

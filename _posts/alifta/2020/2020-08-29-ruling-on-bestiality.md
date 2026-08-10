@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 10, 1442 AH
+hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
@@ -25,6 +25,7 @@ summary: Having sex with animals is a bad deed, transgression to bounds set by A
   girl.
 title: Ruling on bestiality
 ---
+
 
 Question: 
 

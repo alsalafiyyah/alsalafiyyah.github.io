@@ -1,6 +1,6 @@
 ---
 date: 2020/08/30
-hijri: Muharram 11, 1442 AH
+hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
@@ -26,6 +26,7 @@ summary: I would like Your Eminence to explain the meaning of this honorable Had
   as I conversed with a Muslim brother regarding it.
 title: There is many a reciter of the Qur'an whom the Qur'an curses
 ---
+
 
 Question: 
 

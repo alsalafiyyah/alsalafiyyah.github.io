@@ -1,6 +1,6 @@
 ---
 date: 2020/08/30
-hijri: Muharram 11, 1442 AH
+hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ source: Fatawa Al-Lajnah Ad-Da'imah no. 18901
 title: Ruling on together with his brothers they found a sum of money in the street
   and gave it to their father
 ---
+
 
 Question: 
 

@@ -1,20 +1,25 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on Palestinian Intifada"
+title: Ruling on Palestinian Intifada
 date: 2023-06-29
-hijri: "Dhul-Hijjah 11, 1444 AH"
-source: "Majmu' Fatawa of Ibn Baz 5/269, Question 10"
-category: [palestine]
-tags: [ibn-baz]
+hijri: '1444-12-11'
+source: Majmu' Fatawa of Ibn Baz 5/269, Question 10
+category:
+- palestine
+tags:
+- ibn-baz
 lang: en
 translation: false
-summary: All they have to do is to persevere in patience and constancy, and vie in such perseverance, for the promise of Allah is true and Allah will help those who help His cause.
+summary: All they have to do is to persevere in patience and constancy, and vie in
+  such perseverance, for the promise of Allah is true and Allah will help those who
+  help His cause.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz
+  shaykh:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz
 ---
+
 
 ### Question:
 

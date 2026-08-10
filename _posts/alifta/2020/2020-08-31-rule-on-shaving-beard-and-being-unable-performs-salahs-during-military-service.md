@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 12, 1442 AH
+hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
@@ -24,6 +24,7 @@ title: Ruling on shaving the beard and being unable to perform some Salahs durin
   military service
 translation: false
 ---
+
 
 ### Question: 
 

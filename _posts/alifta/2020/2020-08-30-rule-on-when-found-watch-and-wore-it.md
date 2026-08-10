@@ -1,6 +1,6 @@
 ---
 date: 2020/08/30
-hijri: Muharram 11, 1442 AH
+hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
@@ -14,6 +14,7 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 18934-2
 title: Found a watch in the street, took and wore it but later it broke down
 ---
+
 
 Question: 
 

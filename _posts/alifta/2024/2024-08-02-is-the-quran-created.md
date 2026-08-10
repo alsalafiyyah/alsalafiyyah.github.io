@@ -1,6 +1,6 @@
 ---
 date: 2024-08-02
-hijri: Muharram 27, 1446 AH
+hijri: '1446-01-27'
 lang: en
 layout: post
 mass_edited: true
@@ -27,6 +27,7 @@ tags:
 title: Is the Qur'an created?
 translation: false
 ---
+
 
 ### Question: 
 

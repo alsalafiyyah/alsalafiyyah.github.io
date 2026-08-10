@@ -2,20 +2,26 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-08-06
-title: "The Distinction Between Religious Worship and Cultural Customs"
-category: [audios, women]
-tags: [ibn-uthaymeen]
+title: The Distinction Between Religious Worship and Cultural Customs
+category:
+- audios
+- women
+tags:
+- ibn-uthaymeen
 lang: en
 translated: false
-source: "Fatawa Nur 'ala al-darb, Tape no.210, Question no.9"
-link: "https://binothaimeen.net/s/yaovVjBk"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_210_09.mp3"
-summary: "​There is no doubt that this is a deeply erroneous statement. Hijab is not a custom; rather, it is an act of worship commanded by Allah."
+source: Fatawa Nur 'ala al-darb, Tape no.210, Question no.9
+link: https://binothaimeen.net/s/yaovVjBk
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_210_09.mp3
+summary: ​There is no doubt that this is a deeply erroneous statement. Hijab is not
+  a custom; rather, it is an act of worship commanded by Allah.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
+hijri: '1448-02-23'
 ---
+
 
 ### Question: 
 

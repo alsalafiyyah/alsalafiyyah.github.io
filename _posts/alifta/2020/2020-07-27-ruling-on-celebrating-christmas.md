@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: It is not permissible to join the Christians in their celebrations, eve
   is a kind of support to them in sin and transgression.
 title: Ruling on Celebrating Christmas
 ---
+
 
 ### Question: 
  

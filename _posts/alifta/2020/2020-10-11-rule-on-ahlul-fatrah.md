@@ -1,5 +1,5 @@
 ---
-hijri: Safar 24, 1442 AH
+hijri: '1442-02-24'
 lang: en
 layout: post
 mass_edited: true
@@ -25,6 +25,7 @@ summary: Those who refused to embrace Islam after its message was conveyed to th
   upon him)
 title: Ruling on Ahl Al-Fatrah
 ---
+
 
 Question:
 

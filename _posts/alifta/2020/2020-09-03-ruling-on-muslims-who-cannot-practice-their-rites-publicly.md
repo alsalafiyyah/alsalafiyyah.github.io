@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 14, 1442 AH
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -23,6 +23,7 @@ summary: It is impermissible to reside in a country where the Muslims are preven
   overtly and find the means to cooperate with Muslims in righteousness and piety.
 title: Ruling on Muslims who cannot practice their rites publicly
 ---
+
 
 ### Question:
 

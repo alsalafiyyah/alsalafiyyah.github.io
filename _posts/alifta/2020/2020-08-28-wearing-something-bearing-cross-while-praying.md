@@ -1,6 +1,6 @@
 ---
 date: 2020/08/28
-hijri: Muharram 9, 1442
+hijri: '1442-01-09'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: It is not permissible to wear a watch that has a cross on it, be it in 
   it with some paint.
 title: Ruling on wearing something bearing a cross while praying
 ---
+
 
 ### Question: 
 

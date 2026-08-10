@@ -2,22 +2,27 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-08-06
-hijri: 1448-02-23
-title: "Refuting The Claim That Salafi Da'wah Fails to Keep Pace with the Modern Era"
-category: [audios, manhaj]
-tags: [salih-ibn-fawzan]
-mp3: "https://audio.alfawzan.live/7112.mp3"
-link: "https://alfawzan.live/content/7192/"
+hijri: '1448-02-23'
+title: Refuting The Claim That Salafi Da'wah Fails to Keep Pace with the Modern Era
+category:
+- audios
+- manhaj
+tags:
+- salih-ibn-fawzan
+mp3: https://audio.alfawzan.live/7112.mp3
+link: https://alfawzan.live/content/7192/
 active: audios
 translation: false
 lang: en
-source: "Fatwa No. 7192"
-summary: "The questioner, or the one who utters this statement, is the one who has failed to keep pace with what humanity is upon."
+source: Fatwa No. 7192
+summary: The questioner, or the one who utters this statement, is the one who has
+  failed to keep pace with what humanity is upon.
 muftis:
-  shaykh: 
-    - name: "Shaykh Salih al-Fawzan"
-      url: "/biography/fawzan/"
+  shaykh:
+  - name: Shaykh Salih al-Fawzan
+    url: /biography/fawzan/
 ---
+
 
 ### Question: 
 

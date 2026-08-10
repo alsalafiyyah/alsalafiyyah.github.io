@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -19,6 +19,7 @@ summary: If one may be harmed due to not being generous to them, then it is perm
   and wine is not permissible.
 title: Ruling on offering a non-Muslim guest unlawful food
 ---
+
 
 ### Question: 
  

@@ -1,7 +1,7 @@
 ---
 date: 2020/08/27
 group1: true
-hijri: Muharram 8, 1442
+hijri: '1442-01-08'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: Is Al-Khadir a guardian of the rivers and deserts and does he help thos
   who get lost if they call him?
 title: Ruling on claiming that Al-Khadir takes care of people in rivers and deserts
 ---
+
 
 ### Question: 
 Is Al-Khadir (peace be upon him) a guardian of the rivers and deserts and does he help those who get lost if they call him?

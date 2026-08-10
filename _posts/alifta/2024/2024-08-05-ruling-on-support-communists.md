@@ -5,7 +5,7 @@ article_taken_from:
     web_url: https://al-fatawa.com/fatwa/106117
 date: 2024-08-05
 group1: true
-hijri: Safar 01, 1446 AH
+hijri: '1446-02-01'
 lang: en
 layout: post
 mass_edited: true
@@ -17,6 +17,7 @@ summary: It is impermissible for a Muslim to become acquainted with those who ad
   sects, for other than a Shar'i interest.
 title: Is it permissible for a Muslim to support communists?
 ---
+
 
 ### Question: 
 Is it permissible for a Muslim to become acquainted with communists and support them? What is the ruling on a person who does so? 

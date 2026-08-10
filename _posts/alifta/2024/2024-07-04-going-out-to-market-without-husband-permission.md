@@ -5,7 +5,7 @@ article_taken_from:
     web_url: https://al-fatawa.com/fatwa/107894
 date: 2024-07-04
 group3: true
-hijri: Dhul-Hijjah 28, 1445
+hijri: '1445-12-28'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: If a woman wants to go out, she should inform her husband about the pla
   she is going to and take his permission as he knows what benefits her.
 title: Ruling on going out to the market without husband permission
 ---
+
 
 ### Question: 
 What is the ruling on a woman going out to the market without her husband's permission?

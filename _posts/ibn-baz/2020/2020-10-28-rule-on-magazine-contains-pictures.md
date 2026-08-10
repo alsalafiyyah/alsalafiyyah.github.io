@@ -1,19 +1,24 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "The ruling on keeping useful magazines that contain pictures"
-hijri: "Rabi' Al-Awwal 11, 1442"
-source: "This was published in Al-Da'wah magazine, issue no. 1685 on 8/12/1419 A.H"
+title: The ruling on keeping useful magazines that contain pictures
+hijri: '1442-03-11'
+source: This was published in Al-Da'wah magazine, issue no. 1685 on 8/12/1419 A.H
 lang: en
 locale: en
-category: [taswir]
+category:
+- taswir
 note: false
-summary: "What is the ruling on bringing home useful magazines and school books that contain pictures of living creatures? Does this come under the ruling introduced in the Hadith that reads: Angels do not enter a house in which there is a dog or a picture."
+summary: 'What is the ruling on bringing home useful magazines and school books that
+  contain pictures of living creatures? Does this come under the ruling introduced
+  in the Hadith that reads: Angels do not enter a house in which there is a dog or
+  a picture.'
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

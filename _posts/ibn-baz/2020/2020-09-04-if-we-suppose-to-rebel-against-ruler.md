@@ -1,19 +1,24 @@
 ---
 layout: post
-title: "If we suppose that a certain group has a lawful excuse to rebel against a ruler"
-publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat p. 8/206"
-category: [fatwas,rulership]
+title: If we suppose that a certain group has a lawful excuse to rebel against a ruler
+publisher: alsalafiyyah@icloud.com
+source: Majmu' Fatawa wa Maqalat p. 8/206
+category:
+- fatwas
+- rulership
 translation: false
-tags: [ibn-baz]
+tags:
+- ibn-baz
 lang: en
-hijri: "Muharram 16, 1442 AH"
-summary: "I informed you before that it is not permissible to rebel against the ruler, except under two conditions"
+hijri: '1442-01-16'
+summary: I informed you before that it is not permissible to rebel against the ruler,
+  except under two conditions
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

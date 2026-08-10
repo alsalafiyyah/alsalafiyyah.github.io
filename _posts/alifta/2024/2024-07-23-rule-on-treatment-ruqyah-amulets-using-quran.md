@@ -5,7 +5,7 @@ article_taken_from:
     web_url: https://al-fatawa.com/fatwa/112047
 date: 2024-07-23
 group10: true
-hijri: Muharram 17, 1446
+hijri: '1446-01-17'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: It is permissible to treat sick people with the Qur'an. But having amul
   that contain some parts of the Qur'an is prohibited.
 title: Ruling on treatment, ruqyah and amulets using Qur'an
 ---
+
 
 ### Question: 
 What is the ruling on treating the sick, making Ruqyah (recitation for healing or protection) or amulets or charms using the Qur'an?

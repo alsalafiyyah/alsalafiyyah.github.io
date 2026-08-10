@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 5, 1442 AH
+hijri: '1442-01-05'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ summary: The hypocrites are those who make a false pretense of Islam, whereas th
 title: Tafsir Surah Al-Nisa Ayat 145
 uid: tafsir-surah-al-nisa-145
 ---
+
 
 Question: 
 

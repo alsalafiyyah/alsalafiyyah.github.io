@@ -2,20 +2,25 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-08-06
-title: "Using 'Allah Knows Best' to Avoid Intrusive Questions"
-category: [audios]
-tags: [ibn-uthaymeen]
+title: Using 'Allah Knows Best' to Avoid Intrusive Questions
+category:
+- audios
+tags:
+- ibn-uthaymeen
 lang: en
 translated: false
-source: "Fatawa Nur 'ala al-darb, Tape no.292, Question no.24"
-link: "https://binothaimeen.net/s/FewP2Rh3"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_292_24.mp3"
-summary: "Yes. There is no harm if a questioner asks you about something you do not like to tell them.​"
+source: Fatawa Nur 'ala al-darb, Tape no.292, Question no.24
+link: https://binothaimeen.net/s/FewP2Rh3
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_292_24.mp3
+summary: Yes. There is no harm if a questioner asks you about something you do not
+  like to tell them.​
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
+hijri: '1448-02-23'
 ---
+
 
 ### Question: 
 

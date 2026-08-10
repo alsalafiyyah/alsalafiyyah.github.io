@@ -1,6 +1,6 @@
 ---
 date: 2020-10-03
-hijri: Safar 8, 1442
+hijri: '1442-02-16'
 lang: en
 layout: post
 mass_edited: true
@@ -19,6 +19,7 @@ summary: 'The Hadith of the Prophet (peace be upon him): Beware of newly invente
   religion.'
 title: The meaning of 'Newly invented things'
 ---
+
 
 ### Question:
 What are the "Newly invented things" (mentioned in a Hadith)?

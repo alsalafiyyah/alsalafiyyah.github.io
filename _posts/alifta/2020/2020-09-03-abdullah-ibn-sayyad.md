@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 15, 1442 AH
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -23,6 +23,7 @@ summary: Abdullah ibn Sayyad appeared in the lifetime of the Prophet, and some S
   thought he was Al-Dajjal.
 title: Abdullah ibn Sayyad
 ---
+
 
 ### Question: 
 

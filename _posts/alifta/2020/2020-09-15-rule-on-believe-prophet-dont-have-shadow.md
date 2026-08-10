@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 27, 1442
+hijri: '1442-01-27'
 lang: en
 layout: post
 mass_edited: true
@@ -25,6 +25,7 @@ title: Ruling on believing the Prophet (peace be upon him) did not have a shadow
   ordinary human beings
 translation: false
 ---
+
 
 ### Question:
 

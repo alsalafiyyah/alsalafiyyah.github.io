@@ -1,6 +1,6 @@
 ---
 date: 2020/08/30
-hijri: Muharram 11, 1442 AH
+hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
@@ -25,6 +25,7 @@ summary: 'Would you please explain the meaning of the following Hadith: ''None o
 title: 'The Hadith: ''None of you will have faith until his desire is in accordance
   with what I have brought.'''
 ---
+
 
 Question: 
 

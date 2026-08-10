@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 6, 1442 AH
+hijri: '1442-01-06'
 lang: en
 layout: post
 mass_edited: true
@@ -17,6 +17,7 @@ summary: This Ayah (Qur'anic verse) is very clear to whoever contemplates it. Ib
 title: Tafsir Surah Al-Baqarah Ayat 258
 uid: -tafsir-surah-baqarah-258
 ---
+
 
 Question:
 

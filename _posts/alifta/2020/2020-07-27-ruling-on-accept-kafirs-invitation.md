@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: These people deal with each other so kindly and friendly that they invi
   like. I expect to be invited by any of them, Christians or atheist.
 title: Ruling on accept kafirs invitation
 ---
+
 
 ### Question: 
 

@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 27, 1442 AH
+hijri: '1442-01-27'
 lang: en
 layout: post
 mass_edited: true
@@ -18,6 +18,7 @@ summary: This poem is a lie against Imam Abu Hanifah. It is, thus, not permissib
   to attribute it to him.
 title: A poem attributed to Imam Abu Hanifah
 ---
+
 
 ### Question:
 

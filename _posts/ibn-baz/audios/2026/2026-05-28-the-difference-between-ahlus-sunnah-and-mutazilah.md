@@ -1,22 +1,27 @@
 ---
 layout: post
-title: "The Difference Between Ahlus-Sunnah and Mu'tazilah"
-publisher: "alsalafiyyah@icloud.com"
-hijri: "Shawwal 27, 1447AH"
+title: The Difference Between Ahlus-Sunnah and Mu'tazilah
+publisher: alsalafiyyah@icloud.com
+hijri: '1447-12-11'
 date: 2026-05-28
 active: audios
-category: [audios,sects]
+category:
+- audios
+- sects
 translation: false
-tags: [ibn-baz]
+tags:
+- ibn-baz
 lang: en
-mp3: "https://files.zadapps.info/binbaz.org.sa/fatawa/jame3_kabeer/fjk6_1421.mp3"
-url: "https://binbaz.org.sa/fatwas/3014/%D9%85%D8%B8%D8%A7%D9%87%D8%B1-%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%81-%D8%A8%D9%8A%D9%86-%D8%A7%D9%87%D9%84-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D8%AA%D8%B2%D9%84%D8%A9"
-summary: "The Mu'tazilah is an innovated sect that holds many misguidances. The greatest and most heinous of these is their claim that Allah has no attributes."
+mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/jame3_kabeer/fjk6_1421.mp3
+url: https://binbaz.org.sa/fatwas/3014/%D9%85%D8%B8%D8%A7%D9%87%D8%B1-%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%81-%D8%A8%D9%8A%D9%86-%D8%A7%D9%87%D9%84-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D8%AA%D8%B2%D9%84%D8%A9
+summary: The Mu'tazilah is an innovated sect that holds many misguidances. The greatest
+  and most heinous of these is their claim that Allah has no attributes.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

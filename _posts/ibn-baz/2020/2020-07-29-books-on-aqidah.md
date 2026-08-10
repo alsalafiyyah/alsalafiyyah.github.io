@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 8, 1441 AH
+hijri: '1441-12-08'
 lang: en
 layout: post
 mass_edited: true
@@ -14,6 +14,7 @@ summary: The most important book in 'Aqidah is the Qur'an; it is the most truthf
   recite it often. It includes 'Aqidah, guidance to goodness and warning against evil.
 title: The most important books in Aqidah (Creed)
 ---
+
 
 ### Question: 
 

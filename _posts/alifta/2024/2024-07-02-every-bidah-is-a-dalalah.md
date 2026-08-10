@@ -5,7 +5,7 @@ article_taken_from:
     web_url: https://al-fatawa.com/fatwa/112205
 date: 2024-07-02
 group4: true
-hijri: Dhul-Hijjah 26, 1445
+hijri: '1445-12-26'
 lang: en
 layout: post
 mass_edited: true
@@ -18,6 +18,7 @@ tags:
 title: Every bid'ah is a going astray
 translation: false
 ---
+
 
 ### Question: 
 

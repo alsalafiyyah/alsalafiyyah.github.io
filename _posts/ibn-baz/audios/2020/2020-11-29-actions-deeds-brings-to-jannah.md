@@ -2,20 +2,25 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: Actions and deeds that bring a person closer to Paradise
-hijri: Rabi' Al-Thani 14, 1442
+hijri: '1442-04-14'
 date: 2020-11-29
 lang: en
 active: audios
-category: [audios]
-tags: [ibn-baz]
+category:
+- audios
+tags:
+- ibn-baz
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_283/28311.mp3
-url: "https://binbaz.org.sa/fatwas/8697/%D9%85%D8%A7-%D9%8A%D9%82%D8%B1%D8%A8-%D8%A7%D9%84%D9%89-%D8%A7%D9%84%D8%AC%D9%86%D8%A9-%D9%88%D9%85%D8%A7-%D9%8A%D8%A8%D8%A7%D8%B9%D8%AF-%D8%B9%D9%86-%D8%A7%D9%84%D9%86%D8%A7%D8%B1"
-summary: The deeds and actions which bring a person closer to Jannah are obeying Allah and His Prophet, carrying out all what is ordered and legislated by Allah and His Messenger (peace be upon him), performing obligatory and supererogatory Salah.
+url: https://binbaz.org.sa/fatwas/8697/%D9%85%D8%A7-%D9%8A%D9%82%D8%B1%D8%A8-%D8%A7%D9%84%D9%89-%D8%A7%D9%84%D8%AC%D9%86%D8%A9-%D9%88%D9%85%D8%A7-%D9%8A%D8%A8%D8%A7%D8%B9%D8%AF-%D8%B9%D9%86-%D8%A7%D9%84%D9%86%D8%A7%D8%B1
+summary: The deeds and actions which bring a person closer to Jannah are obeying Allah
+  and His Prophet, carrying out all what is ordered and legislated by Allah and His
+  Messenger (peace be upon him), performing obligatory and supererogatory Salah.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 He (the questioner) is asking about actions and deeds that bring a person closer to Jannah (Paradise) and further them away from Hellfire? 

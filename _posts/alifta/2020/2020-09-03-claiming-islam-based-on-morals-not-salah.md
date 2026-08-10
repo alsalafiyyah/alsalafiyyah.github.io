@@ -1,6 +1,6 @@
 ---
 date: 2020-09-03
-hijri: Muharram 15, 1442
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -24,6 +24,7 @@ summary: Some people say that Islam is not just to perform Salah or Prayer, but 
   is to be of good manners. What is your opinion regarding that?
 title: The claim that Islam is based on morals and not Salah
 ---
+
 
 ### Question: 
 

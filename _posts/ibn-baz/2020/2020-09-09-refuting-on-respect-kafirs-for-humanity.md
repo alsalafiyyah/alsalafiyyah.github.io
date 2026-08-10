@@ -1,6 +1,6 @@
 ---
 date: 2020-09-09
-hijri: Muharram 21, 1442
+hijri: '1442-01-21'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ summary: With these brief words, I wanted to clarify what was written by this wr
 title: Refuting an article which states:'We should avoid all conflicts between our
   two religions...'
 ---
+
 
 All praise be to Allah, and peace and blessings be upon the Messenger of Allah, and his family and Companions, and whoever is guided by his guidance. 
 

@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 22, 1444 AH
+hijri: '1444-12-22'
 lang: en
 layout: post
 mass_edited: true
@@ -19,6 +19,7 @@ tags:
 title: Ruling On Reciting Al-Fatihah At The Time Of A Man's Proposal To A Woman
 translation: false
 ---
+
 
 ### Question: 
 

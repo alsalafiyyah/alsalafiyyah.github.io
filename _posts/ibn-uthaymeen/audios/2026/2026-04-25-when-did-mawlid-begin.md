@@ -2,20 +2,26 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-04-25
-hijri: "Dhu al-Qidah 8, 1447 AH"
-title: "When Did Mawlid Begin?"
-source: "Fatawa Nur Ala ad-Darb, tape no.375"
-category: [fatwas,audios,bidah]
-tags: [ibn-uthaymeen]
-url: "https://binothaimeen.net/s/xTsqFCZv"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_375_20.mp3"
+hijri: '1447-11-08'
+title: When Did Mawlid Begin?
+source: Fatawa Nur Ala ad-Darb, tape no.375
+category:
+- fatwas
+- audios
+- bidah
+tags:
+- ibn-uthaymeen
+url: https://binothaimeen.net/s/xTsqFCZv
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_375_20.mp3
 active: audios
-summary: "It appeared in the fourth century [AH]. Its foundation and its standing in the Sharia has no basis in the law of Allah"
+summary: It appeared in the fourth century [AH]. Its foundation and its standing in
+  the Sharia has no basis in the law of Allah
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
 ---
+
 
 ### Question: 
 

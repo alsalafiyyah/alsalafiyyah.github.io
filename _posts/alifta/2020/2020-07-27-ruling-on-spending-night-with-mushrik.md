@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: It is not permissible to spend the night in the house of a Mushrik from
   those who glorify shrines and sacrifice for anyone other than Allah.
 title: Ruling on spending the night in the house of a Mushrik
 ---
+
 
 ### Question: 
  

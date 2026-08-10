@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 10, 1442 AH
+hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: Sodomy is one of the major sins, whether it is committed with a boy or 
   adult, and whether it is with or without their consent.
 title: Ruling on sodomy and the effect on illegitimate children
 ---
+
 
 Question: 
 

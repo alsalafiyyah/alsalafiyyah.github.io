@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Qa'dah 20, 1441 AH
+hijri: '1441-11-20'
 lang: en
 layout: post
 mass_edited: true
@@ -26,6 +26,7 @@ tags:
 title: Ruling on Prophet's songs
 translation: false
 ---
+
 
 ### Question: 
 

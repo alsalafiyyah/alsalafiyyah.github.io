@@ -1,6 +1,6 @@
 ---
 date: 2024-06-30
-hijri: Dhul-Hijjah 24, 1445
+hijri: '1445-12-24'
 lang: en
 layout: post
 mass_edited: true
@@ -26,6 +26,7 @@ tags:
 title: Ruling on reciting the Qur'an over the dead for a fee
 translation: false
 ---
+
 
 ### Question: 
 

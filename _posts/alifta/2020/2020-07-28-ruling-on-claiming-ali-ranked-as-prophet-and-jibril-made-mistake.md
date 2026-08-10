@@ -1,6 +1,6 @@
 ---
 group1: true
-hijri: Dhul-Hijjah 7, 1441
+hijri: '1441-12-07'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ tags:
 title: Ruling on claiming that 'Ali is ranked as a prophet and Jibril made a mistake
 translation: false
 ---
+
 
 ### Question: 
 

@@ -1,6 +1,6 @@
 ---
 group13: true
-hijri: Dhul-Qa'dah 20, 1441
+hijri: '1441-11-20'
 lang: en
 layout: post
 mass_edited: true
@@ -14,6 +14,8 @@ tags:
 title: Misguidance of the Sufis
 translation: false
 ---
+
+
 
 ### Question: 
 

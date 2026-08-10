@@ -1,20 +1,25 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on reciting Al-Fatihah for the deceased when visiting his grave"
-hijri: "Dhul-Hijjah 24, 1444 AH"
-source: "Majmu' 13/340-341"
-category: [bidah, funerals]
-tags: [ibn-baz]
+title: Ruling on reciting Al-Fatihah for the deceased when visiting his grave
+hijri: '1444-12-24'
+source: Majmu' 13/340-341
+category:
+- bidah
+- funerals
+tags:
+- ibn-baz
 lang: en
 translation: false
 note: false
-summary: "There is no report that the Prophet ﷺ recited a surah of the Qur’an or any verses thereof for the dead, even though he visited them often."
+summary: There is no report that the Prophet ﷺ recited a surah of the Qur’an or any
+  verses thereof for the dead, even though he visited them often.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz/
---- 
+  shaykh:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz/
+---
+ 
 
 ### Question: 
 

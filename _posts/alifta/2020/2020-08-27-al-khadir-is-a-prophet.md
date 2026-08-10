@@ -1,7 +1,7 @@
 ---
 date: 2020-08-27
 group1: true
-hijri: Muharram 8, 1442 AH
+hijri: '1442-01-08'
 lang: en
 layout: post
 mass_edited: true
@@ -12,6 +12,7 @@ summary: The correct opinion is that Al-Khadir (peace be upon him) is a prophet.
   Cave).
 title: Is Al-Khadir a prophet or a righteous man?
 ---
+
 
 ### Question: 
 

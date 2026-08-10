@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 15, 1442 AH
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: The most authentic books in this regard that come after the Qur'an are 
   wa Ashrat Al-Sa'ah that was written by Shaykh Hammud ibn 'Abdullah Al-Tuwayjiry.
 title: Authentic book that deals with the signs of the Day of Judgment and the battles
 ---
+
 
 ### Question: 
 

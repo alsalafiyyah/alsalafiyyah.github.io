@@ -2,20 +2,27 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-05-16
-title: "Is Al-Khidr Still Alive Today?"
-source: "Fatawa Nur 'ala al-Darb / Tape no: 340"
-category: [fatwas, audios, prophets]
-tags: [ibn-uthaymeen]
-link: "https://binothaimeen.net/s/fXbOoBvj"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_340_04.mp3"
-summary: "As for him being alive, no, he is not alive. If he were alive, it would have been obligatory for him to believe in the Prophet Muhammad."
+title: Is Al-Khidr Still Alive Today?
+source: 'Fatawa Nur ''ala al-Darb / Tape no: 340'
+category:
+- fatwas
+- audios
+- prophets
+tags:
+- ibn-uthaymeen
+link: https://binothaimeen.net/s/fXbOoBvj
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_340_04.mp3
+summary: As for him being alive, no, he is not alive. If he were alive, it would have
+  been obligatory for him to believe in the Prophet Muhammad.
 lang: en
 translation: true
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
+hijri: '1447-11-29'
 ---
+
 
 ### Question: 
 

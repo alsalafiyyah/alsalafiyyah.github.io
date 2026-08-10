@@ -2,17 +2,22 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on the Categorization of Salafism into 'Old' and 'New'"
+title: Ruling on the Categorization of Salafism into 'Old' and 'New'
 date: 2020-09-05
 lang: en
-summary: "Salafism is a single Salafism, and whoever claims that there is an old Salafism and a new Salafism has lied."
-category: [manhaj]
-tags: [ahmad-ibn-yahya]
+summary: Salafism is a single Salafism, and whoever claims that there is an old Salafism
+  and a new Salafism has lied.
+category:
+- manhaj
+tags:
+- ahmad-ibn-yahya
 muftis:
-  shaykh: 
-    - name: Shaykh Ahmad bin Yahya An-Najmi
-      url: /biography/ahmad-alnajmi
+  shaykh:
+  - name: Shaykh Ahmad bin Yahya An-Najmi
+    url: /biography/ahmad-alnajmi
+hijri: '1442-01-17'
 ---
+
 
 ### Question:
 

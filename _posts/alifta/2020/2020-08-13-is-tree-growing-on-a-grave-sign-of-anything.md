@@ -1,6 +1,6 @@
 ---
 date: 2020/08/13
-hijri: Dhul-Hijjah 23, 1441
+hijri: '1441-12-23'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: This is a groundless belief. Trees or herbs growing on graves are no si
   of the righteousness of their occupants; this is a false assumption.
 title: Is a tree growing on a grave a sign of anything?
 ---
+
 
 ### Question:
 I noticed that when some people see a tree growing on a grave, they describe the inhabitant of the grave as having such and such characteristics. Is a tree growing on a grave a sign of anything?

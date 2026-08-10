@@ -1,7 +1,7 @@
 ---
 book: Jihad and Hisbah
 chapter: Knowledge, books
-hijri: Safar 27, 1442 AH
+hijri: '1442-02-27'
 lang: en
 layout: post
 mass_edited: true
@@ -24,6 +24,7 @@ summary: What is the ruling of the Shari'ah (Islamic law) on someone who does no
   I can learn these rules?
 title: Learning the Glorious Qur'an
 ---
+
 
 Question : 
 

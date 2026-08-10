@@ -1,18 +1,24 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Tafsir Surah Al-Tawbah, Ayah 4: 'Except those of the Mushrikun with whom you have a treaty...'"
-hijri: "Rabi' Al-Awwal 21, 1442 A.H"
-source: "Fatawa Al-Shaykh Ibn Baz p.8/290"
+title: 'Tafsir Surah Al-Tawbah, Ayah 4: ''Except those of the Mushrikun with whom
+  you have a treaty...'''
+hijri: '1442-03-21'
+source: Fatawa Al-Shaykh Ibn Baz p.8/290
 lang: en
-category: [quran]
+category:
+- quran
 note: false
-summary: "In this Ayah Allah (Exalted be He) commands His Messenger (peace be upon him) to complete the treaty which he concluded with the polytheists to its full term so long as they prove faithful to the terms of the treaty and abstain from giving support to the enemies of Muslims."
+summary: In this Ayah Allah (Exalted be He) commands His Messenger (peace be upon
+  him) to complete the treaty which he concluded with the polytheists to its full
+  term so long as they prove faithful to the terms of the treaty and abstain from
+  giving support to the enemies of Muslims.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

@@ -1,21 +1,27 @@
 ---
 layout: post
-title: "On Sufi Charlatanism & Tomb Veneration"
-publisher: "alsalafiyyah@icloud.com"
+title: On Sufi Charlatanism & Tomb Veneration
+publisher: alsalafiyyah@icloud.com
 date: 2026-07-02
 active: audios
-category: ["sects",audios]
+category:
+- sects
+- audios
 translation: false
-tags: [ibn-baz]
+tags:
+- ibn-baz
 lang: en
-source: "Fatawa al-Jami' al-Kabir, tape 1023"
-mp3: "https://files.zadapps.info/binbaz.org.sa/fatawa/jame3_kabeer/fjk5_1023.mp3"
-summary: "These people are called the Sufis. They have many paths (tariqas) and practice various forms of charlatanism."
+source: Fatawa al-Jami' al-Kabir, tape 1023
+mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/jame3_kabeer/fjk5_1023.mp3
+summary: These people are called the Sufis. They have many paths (tariqas) and practice
+  various forms of charlatanism.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+hijri: '1448-01-17'
 ---
+
 
 ### Question: 
 

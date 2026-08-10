@@ -1,6 +1,6 @@
 ---
 date: 2020/08/31
-hijri: Muharram 12, 1442 AH
+hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
@@ -13,6 +13,7 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 3176
 title: The remaining amount of Mahr with the husband as a part of the wife's inheritance
 ---
+
 
 Question:
 

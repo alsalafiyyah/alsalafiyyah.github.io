@@ -2,21 +2,27 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-07-29
-title: "Why Does Allah Mention Command Good Before Faith?"
-category: [audios, amar-maruf]
-tags: [salih-ibn-fawzan]
-mp3: "https://audio.alfawzan.live/16_1.mp3"
-link: "https://alfawzan.live/content/14517/"
+title: Why Does Allah Mention Command Good Before Faith?
+category:
+- audios
+- amar-maruf
+tags:
+- salih-ibn-fawzan
+mp3: https://audio.alfawzan.live/16_1.mp3
+link: https://alfawzan.live/content/14517/
 active: audios
 translation: false
 lang: en
-source: "Fatwa no. 14517"
-summary: "Because this indicates special concern and importance. Enjoining good and forbidding evil is already encompassed within belief in Allah."
+source: Fatwa no. 14517
+summary: Because this indicates special concern and importance. Enjoining good and
+  forbidding evil is already encompassed within belief in Allah.
 muftis:
-  shaykh: 
-    - name: "Shaykh Salih al-Fawzan"
-      url: "/biography/fawzan/"
+  shaykh:
+  - name: Shaykh Salih al-Fawzan
+    url: /biography/fawzan/
+hijri: '1448-02-15'
 ---
+
 
 ### Question: 
 

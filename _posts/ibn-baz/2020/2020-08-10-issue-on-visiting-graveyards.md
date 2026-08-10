@@ -1,7 +1,7 @@
 ---
 active: wahhabi
 date: 2020-08-10
-hijri: Dhul-Hijjah 20, 1441
+hijri: '1441-12-20'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: Common people from among the Sufis attend the celebration of the Prophe
   birth, believing that these celebrations constitute (true) Islam.
 title: Issue On Visiting Graveyards
 ---
+
 
 ### Question: 
 Dear Shaykh, Common people from among the Sufis attend the celebration of the Prophet's birth, believing that these celebrations constitute (true) Islam, i.e. they think that this is the core of Islam, religion and worship. They thus travel to shrines and graves believing that this is part of the religion. So, what is the ruling on this? 

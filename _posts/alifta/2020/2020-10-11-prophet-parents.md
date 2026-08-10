@@ -1,5 +1,5 @@
 ---
-hijri: Safar 24, 1442 AH
+hijri: '1442-02-24'
 lang: en
 layout: post
 mass_edited: true
@@ -28,6 +28,7 @@ summary: Parents of the Prophet (peace be upon him) did not belong to Ahl-ul-Fat
   but they were still practicing some rites of Ibrahim's faith, such as Hajj.
 title: The Prophet's parents
 ---
+
 
 Question:
 

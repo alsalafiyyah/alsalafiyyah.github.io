@@ -5,7 +5,7 @@ article_taken_from:
     web_url: https://al-fatawa.com/fatwa/104821
 date: 2024-08-05
 group2: true
-hijri: Safar 01, 1446 AH
+hijri: '1446-02-01'
 lang: en
 layout: post
 mass_edited: true
@@ -19,6 +19,7 @@ tags:
 title: False accusations against Uthman
 translation: false
 ---
+
 
 ### Question: 
 

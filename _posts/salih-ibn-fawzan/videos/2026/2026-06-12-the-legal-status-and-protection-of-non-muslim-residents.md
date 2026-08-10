@@ -2,20 +2,28 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "The Legal Status and Protection of Non-Muslim Residents"
+title: The Legal Status and Protection of Non-Muslim Residents
 date: 2026-06-12
-category: [videos,rulership,non-muslim,terrorism]
-tags: [salih-ibn-fawzan]
+category:
+- videos
+- rulership
+- non-muslim
+- terrorism
+tags:
+- salih-ibn-fawzan
 active: videos
-summary: "It is not permissible to attack a non-Muslim if they have entered Muslim lands under a covenant of security (peace/visa/agreement)"
-link: "https://shamela.ws/book/8612/683"
-videoURL: "https://youtu.be/h-sB7nwmKCk"
-videoID: "h-sB7nwmKCk"
+summary: It is not permissible to attack a non-Muslim if they have entered Muslim
+  lands under a covenant of security (peace/visa/agreement)
+link: https://shamela.ws/book/8612/683
+videoURL: https://youtu.be/h-sB7nwmKCk
+videoID: h-sB7nwmKCk
 muftis:
-  shaykh: 
-    - name: "Shaykh Salih Al-Fawzan"
-      url: "/biography/fawzan/"
+  shaykh:
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan/
+hijri: '1447-12-26'
 ---
+
 
 ### Question:
 

@@ -2,18 +2,22 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Man and the Traits of Animals"
+title: Man and the Traits of Animals
 date: 2026-08-01
 lang: en
 translation: false
-source: "Muqolat no. 3041"
-summary: "Many people insist on resembling animals in their traits, carrying a portion of those traits based on whatever nature dominates them."
-category: [muqolat]
+source: Muqolat no. 3041
+summary: Many people insist on resembling animals in their traits, carrying a portion
+  of those traits based on whatever nature dominates them.
+category:
+- muqolat
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul Razzaq al-Badr
-      url: /biography/abdul-razzaq-al-badr
+  shaykh:
+  - name: Shaykh Abdul Razzaq al-Badr
+    url: /biography/abdul-razzaq-al-badr
+hijri: '1448-02-18'
 ---
+
 
 Allah has honored, elevated, and distinguished mankind, as He—Glorified be He—says: **“And We have certainly honored the children of Adam and carried them on the land and sea and provided for them of the good things and preferred them over much of what We have created, with [definite] preference.”** That is, over all other animals and categories of creation. However, many people insist on resembling animals in their traits, carrying a portion of those traits based on whatever nature dominates them.
 

@@ -2,20 +2,23 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "The Ruling on Violating Traffic Rules"
-hijri: Safar 19, 1446 AH
+title: The Ruling on Violating Traffic Rules
+hijri: '1446-02-19'
 date: 2024-08-23
-source: "Fatawa Islamiyah 8/411"
+source: Fatawa Islamiyah 8/411
 lang: en
 locale: en
-category: [fatwas]
+category:
+- fatwas
 note: false
-summary: "Because of the grave dangers involved in breaking traffic rules, it is not allowed for a Muslim or non Muslim - to break those rules."
+summary: Because of the grave dangers involved in breaking traffic rules, it is not
+  allowed for a Muslim or non Muslim - to break those rules.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz
+  shaykh:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz
 ---
+
 
 ### Question: 
 What is the Islamic ruling regarding someone who disregards traffic rules, someone, for example, who passes through a red light?

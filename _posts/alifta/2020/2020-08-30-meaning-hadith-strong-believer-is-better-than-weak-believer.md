@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 11, 1442 AH
+hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: The Hadith refers to the strength of faith. A believer who has strong f
   if it does not make the person do good deeds, it will be of no avail.
 title: 'The Hadith: ''A strong believer is better than a weak believer'''
 ---
+
 
 Question: 
 

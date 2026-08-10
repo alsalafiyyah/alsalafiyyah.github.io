@@ -2,18 +2,23 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Jarh wa Ta'dil and investigating Hadith still remain"
-hijri: "Rabi' Al-Awwal 14, 1442 AH"
-source: "Published in Al-Riyadh newspaper, issue no. 10736, dated 19/8/1418 A.H"
+title: Jarh wa Ta'dil and investigating Hadith still remain
+hijri: '1442-03-14'
+source: Published in Al-Riyadh newspaper, issue no. 10736, dated 19/8/1418 A.H
 lang: en
-category: [hadiths]
+category:
+- hadiths
 note: false
-summary: "No, this is not true. The fact is that Jarh, Ta'dil and investigating of Hadith still remain; and scholars should take care of it and revise Hadith in order to distinguish those which are Sahih from those which are Da'if (a Hadith that fails to reach the status of Hasan"
+summary: No, this is not true. The fact is that Jarh, Ta'dil and investigating of
+  Hadith still remain; and scholars should take care of it and revise Hadith in order
+  to distinguish those which are Sahih from those which are Da'if (a Hadith that fails
+  to reach the status of Hasan
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

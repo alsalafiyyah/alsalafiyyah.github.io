@@ -1,5 +1,5 @@
 ---
-hijri: Safar 28, 1442 AH
+hijri: '1442-02-28'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: The basic rule states that it is incumbent upon every Muslim to follow 
   Book of Allah and the Sunnah of His Messenger (peace be upon him).
 title: It is obligatory on Muslims to follow the Qur'an and Sunnah
 ---
+
 
 ### Question:
 

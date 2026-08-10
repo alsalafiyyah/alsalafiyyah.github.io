@@ -1,7 +1,7 @@
 ---
 date: 2020-07-29
 group1: true
-hijri: Dhul-Hijjah 8, 1441
+hijri: '1441-12-08'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: Thus, whoever claims that Allah is not above or below us or to our righ
   or left has contradicted the evidence of the Qur'an and Sunnah.
 title: Tawassul through creatures
 ---
+
 
 ### Question: 
 One Friday, the Imam of a Masjid (mosque) who belongs to a Sufi order delivered the Khutbah (sermon), saying: "We should not say that Allah is above us, below us, to our left, or to our right." He, further, called people to perform Tawassul (supplicating to Allah through a means) through Allah's creatures, like the Prophets and Awliya' (pious people). He learns the Qur'an from people who do not perform the obligations enjoined by Allah, destroying families, and shouting at people walking in the streets and beating them; and yet he calls them Awliya'. Do these claims represent the ideology of the unity of the universe, immanentism and other many Bid'as (rejected innovations in religion)? Is it permissible to offer Salah (Prayer) behind such an Imam or even behind his Mu'adhin (caller to Prayer)? If not, is it permissible to offer the five obligatory daily Salahs (Prayers) at home? Is it permissible to offer the Jumu`ah (Friday) Prayer in another Masjid?

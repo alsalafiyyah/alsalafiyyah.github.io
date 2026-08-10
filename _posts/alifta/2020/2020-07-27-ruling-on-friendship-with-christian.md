@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -20,6 +20,7 @@ summary: It is permissible for a Muslim to kindly treat disbelievers who are not
   beneficial things and presents with them.
 title: Ruling on making friendship with a Christian
 ---
+
 
 ### Question: 
 

@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 8, 1441
+hijri: '1441-12-08'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: Awliya’ have no authority over anyone; whatever Allah has given them 
   they cannot take non-human forms, like snakes, lions, monkeys or other animals.
 title: Do Awliya’ have authority over anyone?
 ---
+
 
 ### Question: 
 

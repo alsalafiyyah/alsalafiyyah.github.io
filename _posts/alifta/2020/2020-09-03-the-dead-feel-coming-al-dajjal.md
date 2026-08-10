@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 15, 1442 AH
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: Al-Masih-ul-Dajjal will appear to those living only. Dead people will n
   be resurrected except on the Day of Judgment.
 title: Will the dead feel the coming of Al-Dajjal?
 ---
+
 
 ### Question: 
 

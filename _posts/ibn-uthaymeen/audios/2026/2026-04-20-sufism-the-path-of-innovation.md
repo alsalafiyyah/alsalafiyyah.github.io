@@ -2,19 +2,26 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-04-20
-hijri: "Dhu al-Qidah 3, 1447 AH"
-title: "The Path of Innovation: Sufism"
-source: "Fatawa Nur Ala ad-Darb, Tape No.200"
-category: ["sects",sufism,audios]
-tags: [ibn-uthaymeen]
-link: "https://binothaimeen.net/s/Sld7QLIj"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_200_08.mp3"
-summary: "The Sufi path is an innovated path for which Allah has sent down no authority. Neither the Messenger of Allah ﷺ, nor his Rightly Guided Caliphs, nor the guided Imams followed it."
+hijri: '1447-11-03'
+title: 'The Path of Innovation: Sufism'
+source: Fatawa Nur Ala ad-Darb, Tape No.200
+category:
+- sects
+- sufism
+- audios
+tags:
+- ibn-uthaymeen
+link: https://binothaimeen.net/s/Sld7QLIj
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_200_08.mp3
+summary: The Sufi path is an innovated path for which Allah has sent down no authority.
+  Neither the Messenger of Allah ﷺ, nor his Rightly Guided Caliphs, nor the guided
+  Imams followed it.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
 ---
+
 
 ### Question: 
 

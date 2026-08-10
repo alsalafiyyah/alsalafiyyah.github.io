@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 12, 1442 AH
+hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
@@ -19,6 +19,7 @@ summary: Some companies issue cards with a set loan that the borrower can presen
   at any bank and receive the specified loan amount on the card.
 title: Borrower paying a certain amount of the loan when delaying repayment
 ---
+
 
 Question:
 

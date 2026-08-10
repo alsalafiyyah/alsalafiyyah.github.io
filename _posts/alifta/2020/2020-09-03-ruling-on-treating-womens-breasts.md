@@ -1,6 +1,6 @@
 ---
 date: 2020/09/3
-hijri: Muharram 15, 1442
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: My wife is ill with breast atrophy. Even though the breasts were improv
   during the period of breastfeeding, they would atrophy soon after.
 title: Ruling on treating women's breasts
 ---
+
 
 ### Question:
 My wife is ill with breast atrophy. Even though the breasts were improving during the period of breastfeeding, they would atrophy soon after. The matter worsened last year with the breasts becoming the same size as a man's. I took her to a Qatari doctor who advised performing a silicone breast implant in order to increase the size of the breast. Attached to my inquiry is a translated case report. I am going through a two-fold problem:

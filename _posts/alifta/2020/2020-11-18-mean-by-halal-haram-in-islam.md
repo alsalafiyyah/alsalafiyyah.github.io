@@ -1,5 +1,5 @@
 ---
-hijri: Rabi' Al-Thani 02, 1442 AH
+hijri: '1442-04-03'
 lang: en
 layout: post
 mass_edited: true
@@ -23,6 +23,7 @@ summary: Halal and Haram are two Shar'i (Islamic legal) rulings, the knowledge o
   which is acquired from the Qur'an and the Sunnah.
 title: What is meant by Halal (lawful) and Haram (prohibited) in Islam
 ---
+
 
 Question:
 

@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 8, 1441
+hijri: '1441-12-08'
 lang: en
 layout: post
 mass_edited: true
@@ -19,6 +19,7 @@ summary: Yes, seeking help from someone who is dead or absent is considered an a
   of major Shirk and doing so puts the doer outside the fold of Islam
 title: Seeking the help of the dead or the absent is major Shirk
 ---
+
 
 ### Question: 
 

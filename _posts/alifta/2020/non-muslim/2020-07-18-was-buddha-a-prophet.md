@@ -1,6 +1,6 @@
 ---
 group17: true
-hijri: Dhul-Qa'dah 27, 1441 AH
+hijri: '1441-11-27'
 lang: en
 layout: post
 mass_edited: true
@@ -14,6 +14,8 @@ tags:
 title: Was Buddha a Prophet?
 translation: false
 ---
+
+
 
 ### Question:
 

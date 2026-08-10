@@ -2,22 +2,27 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-08-08
-hijri: 1448-02-25
-title: "The Responsibility of Youth and Parents in the Digital Era"
-category: [audios]
-tags: [salih-ibn-fawzan]
-mp3: "https://audio.alfawzan.live/11_35.mp3"
-link: "https://alfawzan.live/content/16767/"
+hijri: '1448-02-25'
+title: The Responsibility of Youth and Parents in the Digital Era
+category:
+- audios
+tags:
+- salih-ibn-fawzan
+mp3: https://audio.alfawzan.live/11_35.mp3
+link: https://alfawzan.live/content/16767/
 active: audios
 translation: false
 lang: en
-source: "Fatwa No. 16767"
-summary: "​It is essential to be cautious of them mingling with deviant youth, and to protect them from deviant ideologies transmitted through corrupt media outlets or modern and newly introduced means that bring forth harmful ideas."
+source: Fatwa No. 16767
+summary: ​It is essential to be cautious of them mingling with deviant youth, and
+  to protect them from deviant ideologies transmitted through corrupt media outlets
+  or modern and newly introduced means that bring forth harmful ideas.
 muftis:
-  shaykh: 
-    - name: "Shaykh Salih al-Fawzan"
-      url: "/biography/fawzan/"
+  shaykh:
+  - name: Shaykh Salih al-Fawzan
+    url: /biography/fawzan/
 ---
+
 
 ### Question: 
 

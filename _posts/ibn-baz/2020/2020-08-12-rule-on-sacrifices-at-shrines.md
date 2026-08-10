@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 22, 1441
+hijri: '1441-12-22'
 lang: en
 layout: post
 mass_edited: true
@@ -14,6 +14,7 @@ summary: It is well-known through the Qur’an and the Sunnah that offering sacr
   or others, is Shirk and one of the actions of Jahiliyyah and the Mushriks.
 title: Ruling on offering sacrifices at the shrines and supplicating to their inhabitants
 ---
+
 
 ### Question:
 

@@ -1,6 +1,6 @@
 ---
 date: 2020/09/3
-hijri: Muharram 14, 1442 AH
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -25,6 +25,7 @@ summary: Is it obligatory on me to complain to the Imam about someone who does n
 title: Advising or complaining to the ruler from someone abandoning the congregational
   Salah
 ---
+
 
 ### Question:
 

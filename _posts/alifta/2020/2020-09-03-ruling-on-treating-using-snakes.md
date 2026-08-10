@@ -1,6 +1,6 @@
 ---
 date: 2020/09/3
-hijri: Muharram 15, 1442
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -18,6 +18,7 @@ summary: It is impermissible to use snakes or the fat cooked with it in treatmen
   and the flesh of a dead snake is considered Najis.
 title: Ruling on treating using snakes
 ---
+
 
 ### Question:
 Someone uses snakes in treatment and claims that this is permissible when necessary. He puts a live snake into a pot with boiling fat. He then uses the fat cooked with the snake in the treatment. The one who is treated in this manner falls into a state of slight drunkenness. Is it permissible to use this method of treatment, if it has proved useful? Is it permissible to put the snake in boiling fat?

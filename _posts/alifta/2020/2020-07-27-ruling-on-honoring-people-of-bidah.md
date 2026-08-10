@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -23,6 +23,7 @@ summary: Sufism is a Bid'ah or innovation in Islam, and every Bid'ah is a means 
   going astray.
 title: Ruling on honoring the people of Bid'ah
 ---
+
 
 ### Question: 
 

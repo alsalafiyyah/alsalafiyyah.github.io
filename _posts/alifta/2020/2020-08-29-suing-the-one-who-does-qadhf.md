@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 10, 1442 AH
+hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: Accusing a Muslim by another Muslim brother is not permissible and it i
   means.
 title: Suing the one who does Qadhf
 ---
+
 
 Question: 
 

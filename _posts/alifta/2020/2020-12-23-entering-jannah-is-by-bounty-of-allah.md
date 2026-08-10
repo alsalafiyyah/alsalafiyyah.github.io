@@ -1,5 +1,5 @@
 ---
-hijri: Jumada Al-Awwal 8, 1442 AH
+hijri: '1442-05-08'
 lang: en
 layout: post
 mass_edited: true
@@ -23,6 +23,7 @@ summary: Jannah cannot be the corresponding reward for one's good deeds. In othe
   in order to qualify for entering Jannah.
 title: Entering Jannah is by the bounty of Allah, not by good deeds
 ---
+
 
 Question:
 

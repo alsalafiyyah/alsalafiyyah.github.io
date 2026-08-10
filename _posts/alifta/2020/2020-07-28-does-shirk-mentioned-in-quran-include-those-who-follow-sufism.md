@@ -1,6 +1,6 @@
 ---
 group1: true
-hijri: Dhul-Hijjah 7, 1441
+hijri: '1441-12-07'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ title: 'Does the Shirk mentioned in the Qur''an: ''And do not marry Al-Mushrikâ
   they believe'' include those who follow some Tariqahs (sufi orders) such as Al-Tijaniyyah?'
 translation: false
 ---
+
 
 ### Question: 
 

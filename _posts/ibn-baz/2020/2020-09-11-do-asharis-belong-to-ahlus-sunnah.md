@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 22, 1442 AH
+hijri: '1442-01-23'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ tags:
 title: Do the Al-Asha'irah belong to Ahl Al-Sunnah wal-Jama'ah or not?
 translation: false
 ---
+
 
 ### Question:
 

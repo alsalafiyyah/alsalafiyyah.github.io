@@ -2,22 +2,27 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-08-06
-hijri: 1448-02-23
-title: "The Ruling on Reading and Studying al-Burdah"
-category: [audios]
-tags: [salih-ibn-fawzan]
-mp3: "https://audio.alfawzan.live/2019-12/19_1.mp3"
-link: "https://alfawzan.live/content/18272/"
+hijri: '1448-02-23'
+title: The Ruling on Reading and Studying al-Burdah
+category:
+- audios
+tags:
+- salih-ibn-fawzan
+mp3: https://audio.alfawzan.live/2019-12/19_1.mp3
+link: https://alfawzan.live/content/18272/
 active: audios
 translation: false
 lang: en
-source: "Fatwa No. 18272"
-summary: "It is not permissible to occupy oneself with it, nor is this permissible. Because, as you know, its style and composition are good from a linguistic standpoint, and it might tempt whoever reads it."
+source: Fatwa No. 18272
+summary: It is not permissible to occupy oneself with it, nor is this permissible.
+  Because, as you know, its style and composition are good from a linguistic standpoint,
+  and it might tempt whoever reads it.
 muftis:
-  shaykh: 
-    - name: "Shaykh Salih al-Fawzan"
-      url: "/biography/fawzan/"
+  shaykh:
+  - name: Shaykh Salih al-Fawzan
+    url: /biography/fawzan/
 ---
+
 
 ### Question: 
 

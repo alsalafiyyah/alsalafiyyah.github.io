@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 15, 1442 AH
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: 'Celebrating the birth of the Prophet is Bid‘ah (innovation in religi
   did he see one celebrating it and remained silent about it. '
 title: Celebrating the Prophet's Mawlid
 ---
+
 
 Question 1: 
 

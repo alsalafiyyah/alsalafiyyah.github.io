@@ -1,7 +1,7 @@
 ---
 date: 2020/07/28
 group1: true
-hijri: Dhul-Hijjah 7, 1441
+hijri: '1441-12-07'
 lang: en
 layout: post
 mass_edited: true
@@ -13,6 +13,7 @@ summary: People should not visit graves to supplicate to the dead or ask for the
 title: Ruling on visiting the graves to supplicate to the dead or ask for their help
   or intercession
 ---
+
 
 ### Question: 
 I found contradictory and controversial Hadith in the book: "Shifa' Al-Siqam fy Ziyarat Khayr Al-Anam" by Shaykh Taqy Al-Din Al-Subky Al-Shafi'i, in the chapter on Tawassul (supplicating to Allah through a means) through the Prophet (peace be upon him) and seeking his help and intercession, specifically between pages 160 and 178. Please advise us about this book, especially the chapter on Tawassul.

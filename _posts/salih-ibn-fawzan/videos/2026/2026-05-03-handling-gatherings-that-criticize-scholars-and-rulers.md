@@ -2,21 +2,26 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "When to Leave: Handling Gatherings that Criticize Scholars and Rulers"
-hijri: "Dhu al-Qidah 14, 1447 AH"
+title: 'When to Leave: Handling Gatherings that Criticize Scholars and Rulers'
+hijri: '1447-11-16'
 date: 2026-05-03
-category: [videos,rulership]
-tags: [salih-ibn-fawzan]
+category:
+- videos
+- rulership
+tags:
+- salih-ibn-fawzan
 active: videos
-summary: "The Ayats (verses) of Allah forbid reviling the Muslim rulers and forbid attacking the honor of [any] Muslims."
-videoURL: "https://youtu.be/q6ycncXQpoo"
-videoID: "q6ycncXQpoo"
-source: "Fatawa Duroos 39 (4717)"
+summary: The Ayats (verses) of Allah forbid reviling the Muslim rulers and forbid
+  attacking the honor of [any] Muslims.
+videoURL: https://youtu.be/q6ycncXQpoo
+videoID: q6ycncXQpoo
+source: Fatawa Duroos 39 (4717)
 muftis:
-  shaykh: 
-    - name: "Shaykh Salih Al-Fawzan"
-      url: "/biography/fawzan/"
+  shaykh:
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan/
 ---
+
 
 ### Question: 
 

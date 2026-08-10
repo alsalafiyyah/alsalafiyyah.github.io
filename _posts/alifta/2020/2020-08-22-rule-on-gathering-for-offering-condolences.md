@@ -1,6 +1,6 @@
 ---
 date: 2020/08/22
-hijri: Muharram 3, 1442
+hijri: '1442-01-03'
 lang: en
 layout: post
 mass_edited: true
@@ -13,6 +13,7 @@ summary: A person is rewarded when offering condolences because he or she is soo
   the pain and sorrow of the bereaved family and through supplicating for them.
 title: Ruling on gathering for offering condolences
 ---
+
 
 ### Question: 
 We wrote to you two years ago about establishing a house for offering or receiving condolences in the south of Jeddah without recitation of the Glorious Qur’an in it. There is no house for this purpose, contrary to the north of Jeddah, in which a house for this purpose was built two years ago on the hand of Shaykh Muhammad 'Awad ibn Ladin (may Allah have mercy upon all people). The reason behind building a house for offering or receiving condolences is that many families live in small flats of only two or three rooms. When a member of the family dies, the flats cannot accommodate those who come to offer condolences to their male or female relatives and neighbors besides the bereaved family. Thereupon, we thought that a house would serve this purpose as a pious act intended to please Allah. We referred this question to your honor to examine it and guide us to what is appropriate.

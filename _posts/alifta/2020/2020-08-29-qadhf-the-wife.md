@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 10, 1442 AH
+hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
@@ -19,6 +19,7 @@ summary: This word is one of the clear words of Qadhf (falsely accusing a chaste
   has nothing to do with its effect.
 title: Qadhf of the wife
 ---
+
 
 Question: 
 

@@ -1,6 +1,6 @@
 ---
 date: 2023-07-10
-hijri: Dhul-Hijjah 22, 1444 AH
+hijri: '1444-12-22'
 lang: en
 layout: post
 mass_edited: true
@@ -27,6 +27,7 @@ tags:
 title: Marriage is Half Your Religion
 translation: false
 ---
+
 
 The Sunnah indicates that it is prescribed to get married, and that it is one of the Sunnahs of the Messengers. By getting married a person can, with the help of Allah, overcome many of the traps of evil, for marriage helps him to lower his gaze and guard his chastity, as the Prophet ﷺ said in the hadith, **“O young men, whoever among you can afford it, let him get married, for it is more effective in lowering the gaze and guarding chastity…”** (Agreed upon). 
 

@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 23, 1442 AH
+hijri: '1442-01-23'
 lang: en
 layout: post
 mass_edited: true
@@ -14,6 +14,7 @@ summary: What is the ruling on accusing a number of the Imams of Ahl Al-Sunnah o
 title: Ruling on accusing some of the Imams of Ahl Al-Sunnah of committing Bid'ah
   (innovation in Islam)
 ---
+
 
 Question:
 

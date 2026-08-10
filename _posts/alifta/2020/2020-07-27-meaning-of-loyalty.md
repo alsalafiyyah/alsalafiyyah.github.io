@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: Allah forbids believers to establish with the Jews and other disbelieve
   an alliance of friendship, love, solidarity and support.
 title: Take not as friends the people who incurred the Wrath of Allah
 ---
+
 
 ### Question: 
  

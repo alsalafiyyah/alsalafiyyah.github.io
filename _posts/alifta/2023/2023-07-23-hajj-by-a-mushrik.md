@@ -1,6 +1,6 @@
 ---
 date: 2023-07-23
-hijri: Muharram 4, 1445 AH
+hijri: '1445-01-05'
 lang: en
 layout: post
 mass_edited: true
@@ -25,6 +25,7 @@ tags:
 title: Hajj by a Mushrik
 translation: false
 ---
+
 
 ### Question: 
 

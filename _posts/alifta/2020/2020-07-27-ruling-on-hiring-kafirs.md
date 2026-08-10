@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -19,6 +19,7 @@ summary: It is not permissible for a Muslim to employ a Kafir or non-Muslim as a
   driver, or anything else in the Arabian Peninsula.
 title: Ruling on hiring a non-Muslim
 ---
+
 
 ### Question: 
  

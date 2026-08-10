@@ -1,6 +1,6 @@
 ---
 date: 2020/09/3
-hijri: Muharram 15, 1442
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -24,6 +24,7 @@ summary: The dung of rock hyrax is used as a cure for many diseases and is sold 
   spice traders. Is it permissible to use it for treatment?
 title: Treatment with rock hyrax dung
 ---
+
 
 ### Question:
 The dung of rock hyrax is used as a cure for many diseases and is sold by spice traders. Is it permissible to use it for treatment?  

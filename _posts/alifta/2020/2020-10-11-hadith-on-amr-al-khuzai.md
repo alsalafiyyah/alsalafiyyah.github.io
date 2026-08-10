@@ -1,5 +1,5 @@
 ---
-hijri: Safar 24, 1442 AH
+hijri: '1442-02-24'
 lang: en
 layout: post
 mass_edited: true
@@ -23,6 +23,7 @@ summary: Is it reported in any Hadith that the Messenger of Allah (peace be upon
 title: 'The Hadith: ''I saw ''Amr ibn ''Amir Al-Khuza''i dragging his intestines in
   the Fire'''
 ---
+
 
 Question:
 

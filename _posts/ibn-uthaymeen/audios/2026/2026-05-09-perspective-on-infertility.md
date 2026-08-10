@@ -2,19 +2,26 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-05-09
-hijri: "Dhu al-Qidah 22, 1447 AH"
-title: "Decree and Delay: A Perspective on Infertility"
-source: "Fatawa Nur ala ad-Darb 34"
-category: [fatwas,audios,women]
-tags: [ibn-uthaymeen]
-link: "https://alathar.net/home/esound/index.php?op=codevi&coid=59338"
-mp3: "https://www.alathar.net//files/sound/alothaymeen/nooralaaldarb/split-324a-14.mp3"
-summary: "Thus, for whomever Allah has decreed to be barren, it is not possible for them to give birth. But for whomever Allah has decreed a delay in childbearing or conception."
+hijri: '1447-11-22'
+title: 'Decree and Delay: A Perspective on Infertility'
+source: Fatawa Nur ala ad-Darb 34
+category:
+- fatwas
+- audios
+- women
+tags:
+- ibn-uthaymeen
+link: https://alathar.net/home/esound/index.php?op=codevi&coid=59338
+mp3: https://www.alathar.net//files/sound/alothaymeen/nooralaaldarb/split-324a-14.mp3
+summary: Thus, for whomever Allah has decreed to be barren, it is not possible for
+  them to give birth. But for whomever Allah has decreed a delay in childbearing or
+  conception.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
 ---
+
 
 ### Question:
 

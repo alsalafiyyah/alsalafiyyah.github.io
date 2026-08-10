@@ -2,19 +2,25 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-05-04
-hijri: "Dhu al-Qidah 17, 1447 AH"
-title: "The Dangers of Teaching False Theories to Muslim Youth"
-source: "Fatawa Nur Ala ad-Darb, Tape 55 - 06"
-category: [fatwas,audios,darwinism]
-tags: [ibn-uthaymeen]
-link: "https://binothaimeen.net/s/T7hNBnEO"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_055_06.mp3"
-summary: "This man’s admission regarding himself—that he is among the apes—is accepted. However, his claim that others are apes is rejected."
+hijri: '1447-11-17'
+title: The Dangers of Teaching False Theories to Muslim Youth
+source: Fatawa Nur Ala ad-Darb, Tape 55 - 06
+category:
+- fatwas
+- audios
+- darwinism
+tags:
+- ibn-uthaymeen
+link: https://binothaimeen.net/s/T7hNBnEO
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_055_06.mp3
+summary: This man’s admission regarding himself—that he is among the apes—is accepted.
+  However, his claim that others are apes is rejected.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
 ---
+
 
 ### Question:
 

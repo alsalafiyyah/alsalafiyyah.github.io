@@ -5,7 +5,7 @@ article_taken_from:
     web_url: https://al-fatawa.com/fatwa/111947
 date: 2024-07-02
 group1: true
-hijri: Dhul-Hijjah 26, 1445
+hijri: '1445-12-26'
 lang: en
 layout: post
 mass_edited: true
@@ -19,6 +19,7 @@ tags:
 title: Ruling on attributing blessings to nature
 translation: false
 ---
+
 
 ### Question: 
 

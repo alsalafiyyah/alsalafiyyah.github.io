@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 27, 1442 AH
+hijri: '1442-01-27'
 lang: en
 layout: post
 mass_edited: true
@@ -19,6 +19,7 @@ summary: It is not permissible to write the Exalted Name 'Allah' and 'Muhammad' 
 title: Ruling on writing the Exalted Name 'Allah' and 'Muhammad' (peace be upon him)
   parallel on a paper, portraits, wall or the like
 ---
+
 
 Question:
 

@@ -1,6 +1,6 @@
 ---
 date: 2020/08/27
-hijri: Muharram 8, 1442 AH
+hijri: '1442-01-08'
 lang: en
 layout: post
 mass_edited: true
@@ -13,6 +13,7 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 1621-6
 title: The reason behind calling Jesus (peace be upon him) as Al-Masih
 ---
+
 
 Question: 
 

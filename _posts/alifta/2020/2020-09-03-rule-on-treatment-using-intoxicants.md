@@ -1,7 +1,7 @@
 ---
 date: 2020/09/3
 group1: true
-hijri: Muharram 15, 1442
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: What is the ruling on drinking Khamr (intoxicants) in case of necessity
   i.e. Being advised by the doctor to do so?
 title: Ruling on treatment with intoxicants
 ---
+
 
 ### Question:
 What is the ruling on drinking Khamr (intoxicants) in case of necessity, i.e. Being advised by the doctor to do so? 

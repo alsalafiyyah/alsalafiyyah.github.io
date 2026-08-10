@@ -2,23 +2,31 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Concerning Oppressed Muslims in Palestine"
-hijri: Safar 19, 1446 AH
+title: Concerning Oppressed Muslims in Palestine
+hijri: '1446-02-19'
 date: 2024-08-23
 lang: en
 locale: en
 active: audios
-category: [fatwas,audios,palestine,zakah]
-tags: [salih-ibn-fawzan]
+category:
+- fatwas
+- audios
+- palestine
+- zakah
+tags:
+- salih-ibn-fawzan
 note: false
-summary: "Assist them with wealth and donations. Because they are in need. There are among them families, the elderly, children and the poor. Assist them with wealth along with supplicating for them."
-mp3: "https://phaven-prod.s3.amazonaws.com/files/audio_part/asset/3161342/bgXga_j7NRASJ0PCeRQWxmmk_yA/Responsibility_towards_Palestine_.mp3"
+summary: Assist them with wealth and donations. Because they are in need. There are
+  among them families, the elderly, children and the poor. Assist them with wealth
+  along with supplicating for them.
+mp3: https://phaven-prod.s3.amazonaws.com/files/audio_part/asset/3161342/bgXga_j7NRASJ0PCeRQWxmmk_yA/Responsibility_towards_Palestine_.mp3
 translated_by: Rasheed ibn Estes Barbee
 muftis:
-  shaykh: 
-    - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan
+  shaykh:
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan
 ---
+
 
 ### Question: 
 May Allah reward you with good, this questioner says, what is your advice for the Muslims in light of the conditions which they are living under in Palestine and what actions are obligatory upon the Muslims to do?

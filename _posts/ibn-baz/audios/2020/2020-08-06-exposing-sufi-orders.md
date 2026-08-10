@@ -1,21 +1,26 @@
 ---
 layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "Exposing Sufi orders"
+publisher: alsalafiyyah@icloud.com
+title: Exposing Sufi orders
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_923/nour_92304.mp3
-hijri: "Dhul-Hijjah 16, 1441"
+hijri: '1441-12-16'
 date: 2020-08-06
 lang: en
 active: audios
 type: audios
-category: [audios, sects]
-tags: [ibn-baz]
-summary: "Sufi orders are newly-invented ways in Islam, which fall under Bid'ah (innovation in religion) whose seriousness varies from group to group. Some are worse than others."
+category:
+- audios
+- sects
+tags:
+- ibn-baz
+summary: Sufi orders are newly-invented ways in Islam, which fall under Bid'ah (innovation
+  in religion) whose seriousness varies from group to group. Some are worse than others.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question:
 Are all Sufi orders wrong? Please give me a decisive answer, may Allah reward you.

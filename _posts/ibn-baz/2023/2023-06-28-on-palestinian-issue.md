@@ -1,20 +1,26 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "What is the way of solving the Palestinian issue"
+title: What is the way of solving the Palestinian issue
 date: 2023-06-28
-hijri: "Dhul-Hijjah 10, 1444 AH"
-source: "Majmu' Fatawa of al-Shaykh Ibn Baz 1/227"
-category: [palestine]
-tags: [ibn-baz]
+hijri: '1444-12-10'
+source: Majmu' Fatawa of al-Shaykh Ibn Baz 1/227
+category:
+- palestine
+tags:
+- ibn-baz
 lang: en
 translation: false
-summary: "A solution cannot be reached in this matter unless it is regarded as an Islamic issue and the Muslims cooperate to find a solution, and wage an Islamic jihad against the Jews, until the land is given back to its people and the Jewish immigrants go back to the countries from which they came."
+summary: A solution cannot be reached in this matter unless it is regarded as an Islamic
+  issue and the Muslims cooperate to find a solution, and wage an Islamic jihad against
+  the Jews, until the land is given back to its people and the Jewish immigrants go
+  back to the countries from which they came.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz
+  shaykh:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz
 ---
+
 
 ### Question:
 

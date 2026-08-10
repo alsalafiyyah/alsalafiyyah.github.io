@@ -1,21 +1,28 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Allah's Wisdom behind trying His Slaves with calamities and ordeals"
-hijri: "Rabi' Al-Awwal 09, 1442"
+title: Allah's Wisdom behind trying His Slaves with calamities and ordeals
+hijri: '1442-03-09'
 date: 2020-10-26
 lang: en
 locale: en
 active: muqolat
-category: [muqolat]
-source: "An article issued by the office of His Eminence on 14/3/1402 A.H. no. 91, and Fatawa Al-Shaykh Ibn Baz p. 9/157"
-summary: "All the signs that happen in this universe that arouse sympathy like thunderbolts, fierce wind, floods that destroy everything, earthquakes that cause great destruction to lofty buildings, great trees, properties and mankind, volcanoes that destroy all that surrounds them, solar and lunar eclipses and other things with which Allah tries His servant, are but means of frightening and warning them to give up aggression. This also may urge them to fear Allah (Exalted be He) and return to Him."
-active: muqolat
+category:
+- muqolat
+source: An article issued by the office of His Eminence on 14/3/1402 A.H. no. 91,
+  and Fatawa Al-Shaykh Ibn Baz p. 9/157
+summary: All the signs that happen in this universe that arouse sympathy like thunderbolts,
+  fierce wind, floods that destroy everything, earthquakes that cause great destruction
+  to lofty buildings, great trees, properties and mankind, volcanoes that destroy
+  all that surrounds them, solar and lunar eclipses and other things with which Allah
+  tries His servant, are but means of frightening and warning them to give up aggression.
+  This also may urge them to fear Allah (Exalted be He) and return to Him.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 From [**'Abdul-Aziz ibn 'Abdullah ibn Baz**](/biography/binbaz/) to all Muslims. May Allah help us do what pleases Him and safeguard us against what causes His wrath and punishment! Amen!
 

@@ -1,6 +1,6 @@
 ---
 date: 2023-07-15
-hijri: Dhul-Hijjah 27, 1444 AH
+hijri: '1444-12-27'
 lang: en
 layout: post
 mass_edited: true
@@ -26,6 +26,7 @@ tags:
 title: What is the kind of bell that is forbidden?
 translation: false
 ---
+
 
 ### Question: 
 

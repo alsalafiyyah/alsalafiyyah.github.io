@@ -1,6 +1,6 @@
 ---
 date: 2020/08/31
-hijri: Muharram 12, 1442 AH
+hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
@@ -13,6 +13,7 @@ source: Fatawa Al-Lajnah Ad-Da'imah no. 13052
 title: Repaying the deceased's debt to the Real Estate Development Fund before fulfilling
   the will, unless one of the children repays it
 ---
+
 
 Questions:
 

@@ -1,17 +1,22 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Ibn Taymiyyah did not approve celebrating the Prophet's Mawlid"
-hijri: Muharram 29, 1442 AH
+title: Ibn Taymiyyah did not approve celebrating the Prophet's Mawlid
+hijri: '1442-01-29'
 lang: en
-source: "One of the questions asked by Al-'Arabiyyah Magazine, dictated by His Eminence on 29/5/1417 A.H."
-summary: "Ibn Taymiyyah did not approve celebrating the Prophet's Mawlid, rather he condemned doing so and was of the view that doing so is a Bid'ah."
-category: [festivals, bidah]
+source: One of the questions asked by Al-'Arabiyyah Magazine, dictated by His Eminence
+  on 29/5/1417 A.H.
+summary: Ibn Taymiyyah did not approve celebrating the Prophet's Mawlid, rather he
+  condemned doing so and was of the view that doing so is a Bid'ah.
+category:
+- festivals
+- bidah
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 
 ### Question:

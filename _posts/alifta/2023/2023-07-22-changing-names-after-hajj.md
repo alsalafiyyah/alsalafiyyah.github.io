@@ -1,6 +1,6 @@
 ---
 date: 2023-07-22
-hijri: Muharram 04, 1445
+hijri: '1445-01-04'
 lang: en
 layout: post
 mass_edited: true
@@ -26,6 +26,7 @@ tags:
 title: Ruling on Changing Names after Hajj
 translation: false
 ---
+
 
 ### Question:
 

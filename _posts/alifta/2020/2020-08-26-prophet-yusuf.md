@@ -1,7 +1,7 @@
 ---
 date: 2020/08/26
 group12: true
-hijri: Muharram 7, 1442
+hijri: '1442-01-07'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: Yusuf, peace be upon him, and his brothers are the sons of Ya'qub (Jaco
   also known as Israel, peace be upon him).
 title: Prophet Joseph, peace be upon him
 ---
+
 
 ### Question:
 Does the word Asbat (Descendants of Jacob) mentioned in the Qur'an include Prophet Yusuf's (Joseph) brothers who threw him into the bottom of a well? If they were Prophets, how could their course of action with Yusuf be justified? Or did they plot against him before they were chosen for prophethood?

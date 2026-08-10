@@ -1,5 +1,5 @@
 ---
-hijri: Rabi' Al-Thani 19, 1442
+hijri: '1442-04-19'
 lang: en
 layout: post
 mass_edited: true
@@ -25,6 +25,7 @@ summary: The foregoing is a false saying and it is tantamount to Kufr (disbelief
   in Allah (Glorified and Exalted be He).
 title: Ruling on saying Allah is Omnipresent
 ---
+
 
 ### Question:
 What is the ruling on saying that Allah (Glorified be He) exists everywhere? 

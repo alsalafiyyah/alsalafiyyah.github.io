@@ -2,19 +2,25 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Is Enjoining Good and Forbidding Evil Still Obligatory in Modern Times?"
+title: Is Enjoining Good and Forbidding Evil Still Obligatory in Modern Times?
 date: 2026-07-29
-category: [videos, amar-maruf]
-tags: [salih-ibn-fawzan]
+category:
+- videos
+- amar-maruf
+tags:
+- salih-ibn-fawzan
 active: videos
-summary: "Enjoining good and forbidding evil is an obligation in every era, especially when evil deeds become widespread."
-videoURL: "https://youtu.be/eRiU4hdxZmI"
-videoID: "eRiU4hdxZmI"
+summary: Enjoining good and forbidding evil is an obligation in every era, especially
+  when evil deeds become widespread.
+videoURL: https://youtu.be/eRiU4hdxZmI
+videoID: eRiU4hdxZmI
 muftis:
-  shaykh: 
-    - name: "Shaykh Salih Al-Fawzan"
-      url: "/biography/fawzan/"
+  shaykh:
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan/
+hijri: '1448-02-15'
 ---
+
 
 ### Question: 
 

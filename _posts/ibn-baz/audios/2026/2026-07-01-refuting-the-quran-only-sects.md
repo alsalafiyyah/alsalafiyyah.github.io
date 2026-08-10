@@ -1,21 +1,28 @@
 ---
 layout: post
-title: "Refuting the 'Qur'an-Only' Sects"
-publisher: "alsalafiyyah@icloud.com"
+title: Refuting the 'Qur'an-Only' Sects
+publisher: alsalafiyyah@icloud.com
 date: 2026-07-01
 active: audios
-category: ["sects",audios,quranism]
+category:
+- sects
+- audios
+- quranism
 translation: false
-tags: [ibn-baz]
+tags:
+- ibn-baz
 lang: en
-source: "Fatwa Nur ala al-Darb of Shaykh Ibn Baz, tape no. 388, question 7"
-mp3: "https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_388/38807.mp3"
-summary: "This group which believes that the Sunnah cannot be used as an authority at all is a disbelieving, misguided group."
+source: Fatwa Nur ala al-Darb of Shaykh Ibn Baz, tape no. 388, question 7
+mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_388/38807.mp3
+summary: This group which believes that the Sunnah cannot be used as an authority
+  at all is a disbelieving, misguided group.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+hijri: '1448-01-16'
 ---
+
 
 ### Question:
 

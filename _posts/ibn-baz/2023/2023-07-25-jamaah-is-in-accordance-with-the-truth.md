@@ -1,19 +1,23 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "The Jama'ah Is What Conforms To The Truth Even If You Are Alone"
-hijri: "Muharram 07, 1445"
-source: "Majmu’ Fatawa 8/179"
+title: The Jama'ah Is What Conforms To The Truth Even If You Are Alone
+hijri: '1445-01-07'
+source: Majmu’ Fatawa 8/179
 lang: en
-tags: [ibn-baz]
+tags:
+- ibn-baz
 translation: false
-category: [sects]
-summary: "The Muslim has to seek the truth. If he finds an Islamic center which promotes the truth, or a group in any place which promotes the truth."
+category:
+- sects
+summary: The Muslim has to seek the truth. If he finds an Islamic center which promotes
+  the truth, or a group in any place which promotes the truth.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz/
---- 
+  shaykh:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz/
+---
+ 
 
 ### Question: 
 

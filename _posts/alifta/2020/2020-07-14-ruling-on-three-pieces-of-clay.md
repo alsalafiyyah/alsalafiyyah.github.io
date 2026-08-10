@@ -1,6 +1,6 @@
 ---
 group1: true
-hijri: 22 Dhul-Qaidah 1441
+hijri: '1441-11-23'
 lang: en
 layout: post
 mass_edited: true
@@ -13,6 +13,7 @@ tags:
 title: Ruling on three pieces of clay for the dead
 translation: false
 ---
+
 
 ### Question: 
 

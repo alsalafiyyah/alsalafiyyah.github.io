@@ -1,21 +1,25 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on wearing gloves while praying"
-hijri: "Rabi' Al-Thani 02, 1442"
+title: Ruling on wearing gloves while praying
+hijri: '1442-04-02'
 date: 2020-11-17
 lang: en
 active: audios
-category: [audios]
-tags: [ibn-baz]
-url: "https://binbaz.org.sa/fatwas/15107/%D9%85%D8%A7-%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D8%A8%D8%A7%D9%84%D9%82%D9%81%D8%A7%D8%B2%D9%8A%D9%86"
+category:
+- audios
+tags:
+- ibn-baz
+url: https://binbaz.org.sa/fatwas/15107/%D9%85%D8%A7-%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D8%A8%D8%A7%D9%84%D9%82%D9%81%D8%A7%D8%B2%D9%8A%D9%86
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_581/58121.mp3
-summary: "There is nothing wrong with this. Wearing gloves is similar to wearing Khuffs (leather socks). All praise is due to Allah for this."
+summary: There is nothing wrong with this. Wearing gloves is similar to wearing Khuffs
+  (leather socks). All praise is due to Allah for this.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question:
 Abdullah Abu Omar from Jordan asks: In winter, my hands become very cold, can I wear woolen gloves while praying? Does this contradict (the rule that a praying person should prostrate) on the seven organs, including the hands? 

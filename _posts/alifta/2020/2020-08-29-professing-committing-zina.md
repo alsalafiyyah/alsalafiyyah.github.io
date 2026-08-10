@@ -1,6 +1,6 @@
 ---
 date: 2020-08-29
-hijri: Muharram 10, 1442
+hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: In our school, some students talk publicly about adultery and admit to 
   committed it. What should I do in this case? Am I considered sinful?
 title: Professing committing Zina
 ---
+
 
 ### Question: 
 

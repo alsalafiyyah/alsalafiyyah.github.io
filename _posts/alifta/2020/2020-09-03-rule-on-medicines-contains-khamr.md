@@ -1,6 +1,6 @@
 ---
 date: 2020/09/3
-hijri: Muharram 15, 1442
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: Using Dentinox is not permissible for it is authentically reported that
   Prophet, peace and blessings be upon him.
 title: Ruling on medicines containing Khamr
 ---
+
 
 ### Question:
 I came across a medicine called Dentinox in one pharmacy in Al-Madinah Al-Munawwarah. This medicine is used for looking after babies' teeth but it contains Khamr (intoxicant) that is called Ethanol in the brochure as chemists know. The brochure concerned is attached to the letter. I hope that you, may Allah keep you safe, will instruct those who import this medicine from the country that makes it i.e. Britain, as this has to be stopped. 

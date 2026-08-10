@@ -1,7 +1,7 @@
 ---
 date: 2020-07-11
 group16: true
-hijri: Dhul-Qa'dah 20, 1441
+hijri: '1441-11-20'
 lang: en
 layout: post
 mass_edited: true
@@ -17,6 +17,8 @@ tags:
 title: The followers of Sufism stance on their shaykhs
 translation: false
 ---
+
+
 
 ### Question: 
 

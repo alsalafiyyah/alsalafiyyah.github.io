@@ -5,7 +5,7 @@ article_taken_from:
     web_url: https://al-fatawa.com/fatwa/112710
 date: 2024-07-28
 group6: true
-hijri: Muharram 22, 1446
+hijri: '1446-01-22'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: This is considered as unacceptable or disapproved of by Islamic law and
   of sound intellect, and bid`ah,
 title: The ruling standing for a minute of silence in memory of martyrs
 ---
+
 
 ### Question: 
 Is it permissible to stand for a minute of silence in memory of the martyrs? Whenever specific social events start here, the people stand for a minute of silence to mourn or honor the martyrs.

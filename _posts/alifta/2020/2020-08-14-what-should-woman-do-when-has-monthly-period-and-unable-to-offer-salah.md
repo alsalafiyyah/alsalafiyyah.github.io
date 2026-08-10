@@ -1,6 +1,6 @@
 ---
 date: 2020/08/14
-hijri: Dhul-Hijjah 24, 1441
+hijri: '1441-12-24'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: A woman is exempted from offering Salah during her menstrual period. In
 title: What should a woman do when she has her monthly period and she is unable to
   offer Salah
 ---
+
 
 ### Question:
 

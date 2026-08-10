@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 8, 1441 AH
+hijri: '1441-12-08'
 lang: en
 layout: post
 mass_edited: true
@@ -20,6 +20,7 @@ summary: The book entitled 'Al-Mustatraf' includes good and bad information. The
   one should not rely on it either regarding knowledge or religion.
 title: 'Ruling on book entitled: ''Al-Mustatraf'''
 ---
+
 
 Question: 
 

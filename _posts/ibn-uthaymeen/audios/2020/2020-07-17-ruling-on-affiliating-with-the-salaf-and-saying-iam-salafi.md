@@ -2,20 +2,26 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2020-07-17
-title: "Ruling on Affiliating with the Salaf and Saying 'I am Salafi'"
-source: "Fatawa Nur 'ala al-Darb 53"
-category: [fatwas, audios, manhaj]
-link: "https://alathar.net/home/esound/index.php?op=codevi&coid=116831"
-mp3: "https://www.alathar.net//files/sound/alothaymeen/almasjedalnabawy/split-53a-5.mp3"
-summary: "Affiliating oneself with the Salaf al-Salih is obligatory, because the Salaf are those who were upon what the Prophet was upon."
-permalink: "/audios/ruling-on-affiliating-with-the-salaf-and-saying-iam-salafi"
+title: Ruling on Affiliating with the Salaf and Saying 'I am Salafi'
+source: Fatawa Nur 'ala al-Darb 53
+category:
+- fatwas
+- audios
+- manhaj
+link: https://alathar.net/home/esound/index.php?op=codevi&coid=116831
+mp3: https://www.alathar.net//files/sound/alothaymeen/almasjedalnabawy/split-53a-5.mp3
+summary: Affiliating oneself with the Salaf al-Salih is obligatory, because the Salaf
+  are those who were upon what the Prophet was upon.
+permalink: /audios/ruling-on-affiliating-with-the-salaf-and-saying-iam-salafi
 lang: en
 translation: false
 muftis:
-  shaykh: 
-    - name: "Shaykh Ibn 'Uthaymeen" 
-      url: "/biography/uthaymeen"
+  shaykh:
+  - name: Shaykh Ibn 'Uthaymeen
+    url: /biography/uthaymeen
+hijri: '1441-11-26'
 ---
+
 
 ### Question:
 

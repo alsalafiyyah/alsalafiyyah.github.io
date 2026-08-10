@@ -1,7 +1,7 @@
 ---
 date: 2024-09-12
 group1: true
-hijri: Rabiul Awwal 09, 1446
+hijri: '1446-03-09'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: The Muslim has to learn such fundamental knowledge even if this require
   traveling to another land if there is no one to teach him.
 title: It is the duty of every Muslim to study his religion
 ---
+
 
 ### Question: 
 If a person wants to learn but finds no one to teach him, is he sinful if he does not learn?

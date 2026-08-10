@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 5, 1442 AH
+hijri: '1442-01-05'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: 'These great Ayahs warn against Shirk (associating others with Allah in
 title: Tafsir Surah Al-Furqan Ayat 68-69
 uid: tafsir-surah-furqan-68-69
 ---
+
 
 Question: 
 

@@ -4,7 +4,7 @@ article_taken_from:
   - web_title: اليوم الذي يسلط فيه المسلمون على اليهود
     web_url: https://al-fatawa.com/fatwa/112385
 group1: true
-hijri: Muharram 13, 1442AH
+hijri: '1442-01-13'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ summary: Is the Hadith that says 'There will come a day when Muslims will gain v
 title: 'Concerning the Hadith: ''You will fight against the Jews and you will gain
   victory over them'''
 ---
+
 
 ### Question:
 

@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 22, 1442
+hijri: '1442-01-23'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ tags:
 title: The Ruling on Tijaniyyah Sufi Order
 translation: false
 ---
+
 
 ### Question:
 

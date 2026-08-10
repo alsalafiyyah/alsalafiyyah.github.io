@@ -2,20 +2,26 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-08-06
-title: "Ruling on Mentioning the Sins of the Deceased"
-category: [audios, funerals]
-tags: [ibn-uthaymeen]
+title: Ruling on Mentioning the Sins of the Deceased
+category:
+- audios
+- funerals
+tags:
+- ibn-uthaymeen
 lang: en
 translated: false
-source: "Fatawa Nur 'ala al-darb, Tape no.306, Question no.8"
-link: "https://binothaimeen.net/s/8sIWahO8"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_306_08.mp3"
-summary: "Mentioning the dead for their bad deeds has been forbidden by the Messenger, peace and blessings be upon him​."
+source: Fatawa Nur 'ala al-darb, Tape no.306, Question no.8
+link: https://binothaimeen.net/s/8sIWahO8
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_306_08.mp3
+summary: Mentioning the dead for their bad deeds has been forbidden by the Messenger,
+  peace and blessings be upon him​.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
+hijri: '1448-02-23'
 ---
+
 
 ### Question: 
 

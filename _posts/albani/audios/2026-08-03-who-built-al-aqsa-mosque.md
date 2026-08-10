@@ -2,18 +2,22 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Who Built Al-Aqsa Mosque?"
+title: Who Built Al-Aqsa Mosque?
 date: 2026-08-03
-category: [palestine]
-tags: [albani]
-source: "Fatawa 'abra al-hatif wal-sayyarah, Tape: 135"
-link: "https://www.al-albany.com/audios/content/146688/"
-summary: "We are upon certainty that the Jews will not have permanency in Palestine."
+category:
+- palestine
+tags:
+- albani
+source: 'Fatawa ''abra al-hatif wal-sayyarah, Tape: 135'
+link: https://www.al-albany.com/audios/content/146688/
+summary: We are upon certainty that the Jews will not have permanency in Palestine.
 muftis:
-  shaykh: 
-    - name: Shaykh Al-Albani
-      url: /biography/albani
+  shaykh:
+  - name: Shaykh Al-Albani
+    url: /biography/albani
+hijri: '1448-02-20'
 ---
+
 
 Questioner: Is it known when the Al-Aqsa Mosque was built?
 

@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 5, 1441
+hijri: '1441-12-05'
 lang: en
 layout: post
 loacle: en
@@ -23,6 +23,7 @@ summary: It is unlawful to support or ally oneself with him. It is the duty of t
   truth and establish against him the Evidence from Allah.
 title: Ruling on those contradicts decisive texts from the Qur'an and authentic Hadith
 ---
+
 
 ### Question: 
 

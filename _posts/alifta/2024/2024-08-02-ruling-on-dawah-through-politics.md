@@ -5,7 +5,7 @@ article_taken_from:
     web_url: https://al-fatawa.com/fatwa/112716
 date: 2024-08-02
 group1: true
-hijri: Muharram 27, 1446 AH
+hijri: '1446-01-27'
 lang: en
 layout: post
 mass_edited: true
@@ -17,6 +17,7 @@ summary: It is your duty to work for Islam through calling the people to the Boo
   guided and commanded the Prophet.
 title: Ruling on calling people to Islam through politics
 ---
+
 
 ### Question: 
 Which is better; to work for the benefit of Islam through politics or through calling people to work according to the example of the Prophet (peace be upon him)?

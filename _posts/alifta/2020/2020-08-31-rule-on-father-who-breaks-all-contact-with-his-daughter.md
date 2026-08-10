@@ -1,6 +1,6 @@
 ---
 date: 2020/08/31
-hijri: Muharram 12, 1442
+hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
@@ -23,6 +23,7 @@ summary: Thus, she must not obey him in this regard, because her act of wearing 
 title: Ruling on a father who breaks all contact with his daughter due to her wearing
   Hijab
 ---
+
 
 ### Question: 
 

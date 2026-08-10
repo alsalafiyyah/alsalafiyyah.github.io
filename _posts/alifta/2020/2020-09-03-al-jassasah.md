@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 15, 1442 AH
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -24,6 +24,7 @@ summary: Al-Jassasah mentioned in the Hadith reported by Tamim Al-Dary is differ
   a Greater Sign of the Hour (Doomsday).
 title: Al-Jassasah
 ---
+
 
 ### Question: 
 

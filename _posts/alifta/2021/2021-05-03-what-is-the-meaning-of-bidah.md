@@ -1,5 +1,5 @@
 ---
-hijri: Ramadan 21, 1442 AH
+hijri: '1442-09-21'
 lang: en
 layout: post
 mass_edited: true
@@ -25,6 +25,7 @@ tags:
 title: What is the meaning of Bid'ah?
 translation: false
 ---
+
 
 ### Question: 
 

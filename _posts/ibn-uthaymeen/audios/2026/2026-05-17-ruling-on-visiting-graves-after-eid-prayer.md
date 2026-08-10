@@ -2,20 +2,27 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-05-17
-title: "The Ruling on Visiting graves after Eid prayer"
-source: "Fatawa Nur 'ala al-Darb, Tape no: 339"
-category: [fatwas, audios, funerals]
-tags: [ibn-uthaymeen]
-link: "https://binothaimeen.net/s/XLgvpslo"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_339_36.mp3"
-summary: "The Prophet did not use to go out on the day of Eid to visit the graves, nor did he command his nation to go out to visit them on that day."
+title: The Ruling on Visiting graves after Eid prayer
+source: 'Fatawa Nur ''ala al-Darb, Tape no: 339'
+category:
+- fatwas
+- audios
+- funerals
+tags:
+- ibn-uthaymeen
+link: https://binothaimeen.net/s/XLgvpslo
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_339_36.mp3
+summary: The Prophet did not use to go out on the day of Eid to visit the graves,
+  nor did he command his nation to go out to visit them on that day.
 lang: en
 translation: true
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
+hijri: '1447-11-30'
 ---
+
 
 ### Question: 
 

@@ -1,6 +1,6 @@
 ---
 group3: true
-hijri: Dhul-Hijjah 7, 1441
+hijri: '1441-12-07'
 lang: en
 layout: post
 mass_edited: true
@@ -14,6 +14,8 @@ tags:
 title: Exaggeration of the Qadiriyyah Sufi order
 translation: false
 ---
+
+
 
 ### Question: 
 

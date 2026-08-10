@@ -5,7 +5,7 @@ article_taken_from:
     web_url: https://al-fatawa.com/fatwa/111941
 date: 2024-07-02
 group1: true
-hijri: Dhul-Hijjah 26, 1445
+hijri: '1445-12-26'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: It is impermissible for anyone to declare that Allah has bestowed forgi
   or mercy upon a deceased person unless there is a clear text.
 title: Ruling on applying the phrase Al-Marhum and Al-Maghfur Lahu to the deceased
 ---
+
 
 ### Question:
 I often hear people say some words about which I would like to know the Islamic viewpoint. For example, when a person dies some people call him "Al-Marhum" (The person upon whom Allah's mercy is bestowed). And if the person is of a high rank, they say, "Al-Maghfur Lahu (The Forgiven) such and such." Have they looked into Al-Lawh Al-Mahfuzh (The Preserved Tablet) to know that someone is forgiven or has been granted Allah's Mercy? This is why I am inquiring about this issue. Allah (Exalted be He) stated in His Glorious Book: "**(And remember) when Allâh took a covenant from those who were given the Scripture (Jews and Christians) to make it (the news of the coming of Prophet Muhammad and the religious knowledge) known and clear to mankind, and not to hide it**" (Aal 'Imran: 187) I would appreciate your guidance in this matter.

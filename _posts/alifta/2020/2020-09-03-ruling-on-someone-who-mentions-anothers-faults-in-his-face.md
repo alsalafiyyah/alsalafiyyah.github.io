@@ -1,7 +1,7 @@
 ---
 date: 2020/09/3
 group1: true
-hijri: Muharram 14, 1442 AH
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: It is permissible if it is done gently and with the intention of giving
   so that such a person might be prevented from making a mistake.
 title: Someone who mentions another's faults in his face
 ---
+
 
 ### Question:
 

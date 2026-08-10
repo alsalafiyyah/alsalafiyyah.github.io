@@ -1,20 +1,28 @@
 ---
 layout: post
-title: "Refuting the Claim That Humans Evolved from Monkeys"
-publisher: "alsalafiyyah@icloud.com"
+title: Refuting the Claim That Humans Evolved from Monkeys
+publisher: alsalafiyyah@icloud.com
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_175/17501.mp3
-hijri: "Rabi' Al-Awwal 22, 1442"
+hijri: '1442-03-22'
 date: 2020-11-08
 active: audios
-category: [audios, darwinism, darwinian, non-muslim]
-tags: [ibn-baz]
-url: "https://binbaz.org.sa/fatwas/7143/%D8%A7%D9%84%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D9%86%D8%B8%D8%B1%D9%8A%D8%A9-%D8%AF%D8%A7%D8%B1%D9%88%D9%8A%D9%86"
-summary: "Allah created Adam from clay and molded him in His Image. Adam was sixty cubits tall, but people have been decreasing in stature since then. He was created in the form and shape of today humans."
+category:
+- audios
+- darwinism
+- darwinian
+- non-muslim
+tags:
+- ibn-baz
+url: https://binbaz.org.sa/fatwas/7143/%D8%A7%D9%84%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D9%86%D8%B8%D8%B1%D9%8A%D8%A9-%D8%AF%D8%A7%D8%B1%D9%88%D9%8A%D9%86
+summary: Allah created Adam from clay and molded him in His Image. Adam was sixty
+  cubits tall, but people have been decreasing in stature since then. He was created
+  in the form and shape of today humans.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

@@ -2,19 +2,25 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-05-10
-hijri: "Dhu al-Qidah 23, 1447 AH"
-title: "Ruling on Revealing Clothing at Wedding Celebrations"
-source: "al-Liqa'a al-Shahri 20 Question no.11"
-category: [fatwas,audios,women]
-tags: [ibn-uthaymeen]
-link: "https://binothaimeen.net/s/eCpNHx3h"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/mm_020_11.mp3"
-summary: "The ruling on this is prohibition. It is not permissible for a woman to wear anything except loose, wide, and ample clothing."
+hijri: '1447-11-23'
+title: Ruling on Revealing Clothing at Wedding Celebrations
+source: al-Liqa'a al-Shahri 20 Question no.11
+category:
+- fatwas
+- audios
+- women
+tags:
+- ibn-uthaymeen
+link: https://binothaimeen.net/s/eCpNHx3h
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/mm_020_11.mp3
+summary: The ruling on this is prohibition. It is not permissible for a woman to wear
+  anything except loose, wide, and ample clothing.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
 ---
+
 
 ### Question:
 

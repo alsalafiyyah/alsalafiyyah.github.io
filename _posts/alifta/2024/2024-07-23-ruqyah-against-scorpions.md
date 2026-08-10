@@ -5,7 +5,7 @@ article_taken_from:
     web_url: https://al-fatawa.com/fatwa/112060
 date: 2024-07-23
 group1: true
-hijri: Muharram 17, 1446
+hijri: '1446-01-17'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ summary: The Ruqyah (recitation for healing or protection) you mentioned is fals
   the Prophet is permissible.
 title: Ruqyah against Scorpions
 ---
+
 
 ### Question: 
 There are invocations claimed to protect against scorpions which have been tried and proven effective. It reads: "O Allah! This is the spell of scorpions and reptiles passed by the Jews and Christians. It says: 'What makes you cry, O Messenger of Allah?' He said, 'A reptile consigned to Hellfire; its tail like a saw with small chest like a dinar. Gabriel descended on its blood. Gabriel descended on its poison crying out thrice to Allah, 'Be admitted to Allah's Glory and written in a Preserved Tablet.'" 

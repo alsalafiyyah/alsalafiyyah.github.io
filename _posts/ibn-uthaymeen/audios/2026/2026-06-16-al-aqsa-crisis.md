@@ -2,19 +2,26 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-06-16
-title: "Al-Aqsa Crisis"
-source: "Liqa' al-Shahri Tape 38, Question 9"
-category: [palestine,audios]
-tags: [ibn-uthaymeen]
+title: Al-Aqsa Crisis
+source: Liqa' al-Shahri Tape 38, Question 9
+category:
+- palestine
+- audios
+tags:
+- ibn-uthaymeen
 lang: en
-link: "https://binothaimeen.net/s/fnwEriyY"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/mm_038_09.mp3"
-summary: "These are the characteristics of the Jews; it is no surprise that they break treaties and betray. They even betrayed the one most faithful to covenants, the Messenger of Allah ﷺ."
+link: https://binothaimeen.net/s/fnwEriyY
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/mm_038_09.mp3
+summary: These are the characteristics of the Jews; it is no surprise that they break
+  treaties and betray. They even betrayed the one most faithful to covenants, the
+  Messenger of Allah ﷺ.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
+hijri: '1448-01-01'
 ---
+
 
 ### Question: 
 

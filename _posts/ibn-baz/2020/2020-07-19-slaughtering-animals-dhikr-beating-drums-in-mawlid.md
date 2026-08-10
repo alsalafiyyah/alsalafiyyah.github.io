@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Qa'dah 28, 1441 AH
+hijri: '1441-11-28'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ tags:
 title: Ruling on slaughtering animals, engaging in Dhikr and beating drums during
   celebrations of Mawlid
 ---
+
 
 ### Question:
 

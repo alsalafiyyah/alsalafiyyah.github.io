@@ -1,20 +1,25 @@
 ---
 layout: post
-title: "The importance of Fiqh"
-publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa 10/5"
-hijri: Muharram 6, 1442
+title: The importance of Fiqh
+publisher: alsalafiyyah@icloud.com
+source: Majmu' Fatawa 10/5
+hijri: '1442-01-06'
 date: 2020-08-25
 lang: en
 locale: en
-category: [muqolat]
-summary: "Scholars are the heirs of the prophets and the prophets left no Dinar or Dirham, but they left knowledge and anyone who takes it will be among the fortunate. Being knowledgeable about the religion and knowing the rulings of the Qur'an and Sunnah lead a servant to happiness and is a sign of their success."
+category:
+- muqolat
+summary: Scholars are the heirs of the prophets and the prophets left no Dinar or
+  Dirham, but they left knowledge and anyone who takes it will be among the fortunate.
+  Being knowledgeable about the religion and knowing the rulings of the Qur'an and
+  Sunnah lead a servant to happiness and is a sign of their success.
 active: muqolat
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 In the Name of Allah, the Most Merciful, the Most Compassionate
 

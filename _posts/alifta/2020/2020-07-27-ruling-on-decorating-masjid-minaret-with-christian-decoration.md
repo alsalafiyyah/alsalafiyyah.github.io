@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -24,6 +24,7 @@ summary: 'It is not permissible for Muslims to imitate the disbelievers in their
   is one of them.'
 title: Ruling on decorating the Masjid minaret with Christian decoration
 ---
+
 
 ### Question: 
  

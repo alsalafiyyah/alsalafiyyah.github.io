@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 4, 1441 AH
+hijri: '1441-12-04'
 lang: en
 layout: post
 mass_edited: true
@@ -24,6 +24,7 @@ summary: Abusing scholars unjustly and ascribing them to innovations and Fisq (f
   are of the most grievous kinds of injustice
 title: Ruling on attacking scholars
 ---
+
 
 ### Question: 
 

@@ -2,20 +2,26 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-07-27
-title: "Exposing the Innovator Who Calls to Misguidance Despite His Charitable Work"
-category: [audios, sects]
-tags: [ibn-uthaymeen]
+title: Exposing the Innovator Who Calls to Misguidance Despite His Charitable Work
+category:
+- audios
+- sects
+tags:
+- ibn-uthaymeen
 lang: en
 translated: false
-source: "Liqa' al-Bab al-Maftuh, Tape no.226"
-link: "https://alathar.net/home/esound/index.php?op=codevi&coid=66129"
-mp3: "/assets/audios/exposing-innovator.mp3"
-summary: "If this man is an active caller and influential, he must be exposed and people must be warned against him—even if he stops his charitable giving."
+source: Liqa' al-Bab al-Maftuh, Tape no.226
+link: https://alathar.net/home/esound/index.php?op=codevi&coid=66129
+mp3: /assets/audios/exposing-innovator.mp3
+summary: If this man is an active caller and influential, he must be exposed and people
+  must be warned against him—even if he stops his charitable giving.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
+hijri: '1448-02-13'
 ---
+
 
 ### Questioner: 
 

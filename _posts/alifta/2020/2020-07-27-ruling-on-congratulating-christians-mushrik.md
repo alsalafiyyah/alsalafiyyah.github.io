@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -23,6 +23,7 @@ summary: It is not permissible either to attend the Christian festivals or congr
   do, flattering them for their falsehood and helping them in sin and transgression.
 title: Ruling on congratulating a Christian teacher or who commits acts of Shirk
 ---
+
 
 ### Question: 
 

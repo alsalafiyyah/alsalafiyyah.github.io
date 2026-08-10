@@ -1,7 +1,7 @@
 ---
 date: 2020/08/27
 group1: true
-hijri: Muharram 8, 1442
+hijri: '1442-01-08'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: You should be aware of the fact that Jesus the son of Mary did not die,
   he was raised to heaven and will descend at the end of time and then die.
 title: The bodies of messengers are still intact and do not decay after death
 ---
+
 
 ### Question: 
 It is well known that all the prophets have died. However, during the journey of Isra' (Night Journey) and Mi`raj (Ascension to Heaven), the Messenger of Allah (peace be upon him) saw a prophet in each heaven and led them in Salah (Prayer). Does this imply that Awliya' (pious people) are also raised to heaven? A few days ago, I read in a book, the title of which I forget, that the bodies of messengers are still intact and do not decay after death. I mean that these bodies are not eaten by worms as is the case with other bodies. What is your opinion?

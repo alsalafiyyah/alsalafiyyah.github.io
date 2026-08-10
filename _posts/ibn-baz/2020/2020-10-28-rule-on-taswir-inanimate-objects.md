@@ -1,19 +1,24 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "The ruling on Taswir of an inanimate objects"
-hijri: "Rabi' Al-Awwal 11, 1442"
-source: "This was published in the Magazine of the Islamic University in Madinah"
+title: The ruling on Taswir of an inanimate objects
+hijri: '1442-03-11'
+source: This was published in the Magazine of the Islamic University in Madinah
 lang: en
 locale: en
-category: [fatwas,taswir]
+category:
+- fatwas
+- taswir
 note: false
-summary: "Yes, this is permissible according to the Fatwa issued by the interpreter of the Qur'an and the knowledgeable scholar of the Muslim nation, Abdullah ibn 'Abbas - may Allah be pleased with him and his father."
+summary: Yes, this is permissible according to the Fatwa issued by the interpreter
+  of the Qur'an and the knowledgeable scholar of the Muslim nation, Abdullah ibn 'Abbas
+  - may Allah be pleased with him and his father.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Qa'dah 30, 1441
+hijri: '1441-11-30'
 lang: en
 layout: post
 mass_edited: true
@@ -17,6 +17,7 @@ tags:
 title: On Al-Ikhwan Al-Muslimun (the Muslim Brotherhood)
 translation: false
 ---
+
 
 ### Question: 
 

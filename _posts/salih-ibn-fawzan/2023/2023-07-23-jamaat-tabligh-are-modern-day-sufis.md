@@ -1,20 +1,25 @@
 ---
 layout: post
-title: "Jama'at Al-Tabligh are Modern-Day Sufism"
-publisher: "alsalafiyyah@icloud.com"
-source: "Al-Ajwibah Al-Mufidah p.32-35, Question no.11"
-hijri: "Muharram 05, 1445"
+title: Jama'at Al-Tabligh are Modern-Day Sufism
+publisher: alsalafiyyah@icloud.com
+source: Al-Ajwibah Al-Mufidah p.32-35, Question no.11
+hijri: '1445-01-05'
 date: 2023-07-23
 lang: en
-category: [sects]
-tags: [salih-ibn-fawzan]
+category:
+- sects
+tags:
+- salih-ibn-fawzan
 translation: false
-summary: "Even those who went out with the Jama'at at-Tabligh and studied with them wrote against them. Many people wrote about them and presented the errors that they have."
+summary: Even those who went out with the Jama'at at-Tabligh and studied with them
+  wrote against them. Many people wrote about them and presented the errors that they
+  have.
 muftis:
-  shaykh: 
-    - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan/
+  shaykh:
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan/
 ---
+
 
 ### Question: 
 

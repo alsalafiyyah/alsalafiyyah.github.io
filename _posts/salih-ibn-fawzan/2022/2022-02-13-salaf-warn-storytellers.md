@@ -1,19 +1,23 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "The Salaf warned against the story-tellers"
-hijri: "Rajab 12, 1443"
-source: "Al-Ajwibah Al-Mufidah p. 224"
+title: The Salaf warned against the story-tellers
+hijri: '1443-07-12'
+source: Al-Ajwibah Al-Mufidah p. 224
 lang: en
-tags: [salih-ibn-fawzan]
+tags:
+- salih-ibn-fawzan
 translation: false
-category: [sects]
-summary: "The Salaf warned against story-tellers since for the most part their intention was to affect people by telling them stories and tales that were not authentic."
+category:
+- sects
+summary: The Salaf warned against story-tellers since for the most part their intention
+  was to affect people by telling them stories and tales that were not authentic.
 muftis:
-  shaykh: 
-    - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan/
---- 
+  shaykh:
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan/
+---
+ 
 
 ### Question: 
 

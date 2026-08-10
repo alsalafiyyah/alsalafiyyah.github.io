@@ -1,6 +1,6 @@
 ---
 group1: true
-hijri: Dhul-Hijjah 7, 1441
+hijri: '1441-12-07'
 lang: en
 layout: post
 mass_edited: true
@@ -14,6 +14,7 @@ tags:
 title: Scholars' books on Shiite 'Aqidah and their details
 translation: false
 ---
+
 
 ### Question: 
 

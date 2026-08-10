@@ -1,22 +1,28 @@
 ---
 layout: post
-title: "The Guidelines and Conduct of Enjoining Good and Forbidding Evil"
-publisher: "alsalafiyyah@icloud.com"
+title: The Guidelines and Conduct of Enjoining Good and Forbidding Evil
+publisher: alsalafiyyah@icloud.com
 date: 2026-07-29
 active: audios
-category: [audios, amar-maruf]
+category:
+- audios
+- amar-maruf
 translation: false
-tags: [ibn-baz]
+tags:
+- ibn-baz
 lang: en
-source: "Fatawa Nur ala al-Darb, Tape no. 603, Question 8"
-link: "https://binbaz.org.sa/fatwas/12237/%D8%A7%D9%84%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D9%8A%D8%AD%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A7%D9%85%D8%B1-%D8%A8%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%88%D9%81-%D9%88%D8%A7%D9%84%D9%86%D9%87%D9%8A-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D9%86%D9%83%D8%B1"
-mp3: "https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_603/60308.mp3"
-summary: "Enjoining good and forbidding evil is one of the most important duties and obligations in Islam."
+source: Fatawa Nur ala al-Darb, Tape no. 603, Question 8
+link: https://binbaz.org.sa/fatwas/12237/%D8%A7%D9%84%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D9%8A%D8%AD%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A7%D9%85%D8%B1-%D8%A8%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%88%D9%81-%D9%88%D8%A7%D9%84%D9%86%D9%87%D9%8A-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D9%86%D9%83%D8%B1
+mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_603/60308.mp3
+summary: Enjoining good and forbidding evil is one of the most important duties and
+  obligations in Islam.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+hijri: '1448-02-15'
 ---
+
 
 ### **Question:**
 

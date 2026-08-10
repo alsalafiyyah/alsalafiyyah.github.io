@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 23, 1441
+hijri: '1441-12-23'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: Yes, this has a great effect on one's faith. Committing the grave sins 
   in the Oneness of Allah and believing in Him.
 title: Committing major sins affects one's faith
 ---
+
 
 ### Question:
 What is the ruling on committing sins, particularly major sins? Does this affect one's faith?

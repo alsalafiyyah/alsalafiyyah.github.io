@@ -2,19 +2,26 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-06-20
-title: "Explanation of the Hadith: 'When a Son of Adam Dies, His Deeds Come to an End"
-category: [audios,hadiths]
-tags: [ibn-uthaymeen]
+title: 'Explanation of the Hadith: ''When a Son of Adam Dies, His Deeds Come to an
+  End'
+category:
+- audios
+- hadiths
+tags:
+- ibn-uthaymeen
 lang: en
-source: "Fatawa Nur ala ad-Darb, Tape no. 134"
-link: "https://binothaimeen.net/s/Ds7cfUrT"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_134_03.mp3"
-summary: "It is well known that when a person dies, their actions come to an end because they have passed away, and actions only take place during life."
+source: Fatawa Nur ala ad-Darb, Tape no. 134
+link: https://binothaimeen.net/s/Ds7cfUrT
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_134_03.mp3
+summary: It is well known that when a person dies, their actions come to an end because
+  they have passed away, and actions only take place during life.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
+hijri: '1448-01-05'
 ---
+
 
 ### Question: 
 

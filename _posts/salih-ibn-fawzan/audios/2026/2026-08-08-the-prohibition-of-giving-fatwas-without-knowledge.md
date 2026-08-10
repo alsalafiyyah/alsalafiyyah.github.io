@@ -2,22 +2,27 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-08-08
-hijri: 1448-02-25
-title: "The Prohibition of Giving Fatwas Without Knowledge"
-category: [audios, manhaj]
-tags: [salih-ibn-fawzan]
-mp3: "https://audio.alfawzan.live/49_0.mp3"
-link: "https://alfawzan.live/content/16838/"
+hijri: '1448-02-25'
+title: The Prohibition of Giving Fatwas Without Knowledge
+category:
+- audios
+- manhaj
+tags:
+- salih-ibn-fawzan
+mp3: https://audio.alfawzan.live/49_0.mp3
+link: https://alfawzan.live/content/16838/
 active: audios
 translation: false
 lang: en
-source: "Fatwa No. 16838"
-summary: "This is unlawful and impermissible. It is speaking about Allah without knowledge, which is even greater than shirk."
+source: Fatwa No. 16838
+summary: This is unlawful and impermissible. It is speaking about Allah without knowledge,
+  which is even greater than shirk.
 muftis:
-  shaykh: 
-    - name: "Shaykh Salih al-Fawzan"
-      url: "/biography/fawzan/"
+  shaykh:
+  - name: Shaykh Salih al-Fawzan
+    url: /biography/fawzan/
 ---
+
 
 ### Question: 
 

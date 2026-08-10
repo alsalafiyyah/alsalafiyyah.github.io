@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 10, 1442 AH
+hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: Lesbianism is Haram (prohibited), and is a major sin because it is an a
   that contradicts the Ayahs (Qur'anic verses)
 title: Ruling on lesbianism
 ---
+
 
 Question: 
 

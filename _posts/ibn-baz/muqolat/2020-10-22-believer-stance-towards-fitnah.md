@@ -2,17 +2,25 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "The Believer's Stance towards the Trials (Fitnah)"
-hijri: "Rabi' Al-Awwal 05, 1442 AH"
-source: "Majmu' Fatawa Wa Maqalat of Ibn Baz 6/103"
-category: [rulership,hisbah,jihad,muqolat]
+title: The Believer's Stance towards the Trials (Fitnah)
+hijri: '1442-03-05'
+source: Majmu' Fatawa Wa Maqalat of Ibn Baz 6/103
+category:
+- rulership
+- hisbah
+- jihad
+- muqolat
 note: false
-summary: "Trial also takes place by means of doubts and lust. Many people were exposed to trial because of groundless doubts, like the Al-Jahmiyyah, Al-Mu'tazilah, Shi'ah, Al-Murji'ah, and other deviant sects who were misguided by doubts and deviated from the way of Ahl-ul-Sunnah wal-Jama'ah."
+summary: Trial also takes place by means of doubts and lust. Many people were exposed
+  to trial because of groundless doubts, like the Al-Jahmiyyah, Al-Mu'tazilah, Shi'ah,
+  Al-Murji'ah, and other deviant sects who were misguided by doubts and deviated from
+  the way of Ahl-ul-Sunnah wal-Jama'ah.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 Praise be to Allah, the Lord of the Worlds. May the good end be for the pious people. Peace be upon Muhammad, His Messenger and His Slave, and upon his wives and offspring just like He sent His peace upon Prophet Ibrahim and his family. May Allah bless Prophet Muhammad, his wives, and offspring just like He blessed Prophet Ibrahim and his family. He (Glorified be He) is indeed Praiseworthy and Glorious.
 

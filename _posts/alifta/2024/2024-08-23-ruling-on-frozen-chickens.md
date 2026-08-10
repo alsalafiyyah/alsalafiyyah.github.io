@@ -1,6 +1,6 @@
 ---
 date: 2024-08-23
-hijri: Safar 19, 1446 AH
+hijri: '1446-02-19'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ summary: If the above-mentioned meats were imported from the lands of the People
   anything which would be an evidence for its prohibition.
 title: Islamic ruling on frozen chickens
 ---
+
 
 ### Question: 
 What is the ruling on meats imported from abroad and also frozen chicken about whose slaughter we do not know anything, since some of the scholars do not encourage buying them?

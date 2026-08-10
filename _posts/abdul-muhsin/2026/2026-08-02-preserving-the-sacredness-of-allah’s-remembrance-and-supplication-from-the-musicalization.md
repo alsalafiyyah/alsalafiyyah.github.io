@@ -1,21 +1,30 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Preserving the Sacredness of Allah’s Remembrance and Supplication from the Musicalization"
-hijri: "Muharram 16, 1446AH"
+title: Preserving the Sacredness of Allah’s Remembrance and Supplication from the
+  Musicalization
+hijri: '1448-02-19'
 date: 2026-08-02
 lang: en
 translation: false
 link: https://al-abbaad.com/articles/14-1430-08-05
-summary: "As for singing lyrics containing the remembrance of Allah accompanied by vocal melodies, rhythm, swaying, bodily gestures, and indulging in vocal fascination and delight—as is the habit of singers—this is an invented matter."
-category: [audios, music, sects, sufism]
-tags: [abdul-muhsin]
-source: "Muqolat No.14, Dated 5/8/1430 AH"
+summary: As for singing lyrics containing the remembrance of Allah accompanied by
+  vocal melodies, rhythm, swaying, bodily gestures, and indulging in vocal fascination
+  and delight—as is the habit of singers—this is an invented matter.
+category:
+- audios
+- music
+- sects
+- sufism
+tags:
+- abdul-muhsin
+source: Muqolat No.14, Dated 5/8/1430 AH
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Muhsin ibn Hamad Al-Abbad Al-Badr
-      url: /biography/abdulmuhsin-alabbad
+  shaykh:
+  - name: Shaykh Abdul-Muhsin ibn Hamad Al-Abbad Al-Badr
+    url: /biography/abdulmuhsin-alabbad
 ---
+
 
 Praise be to Allah, and peace, blessings, and benedictions be upon the Messenger of Allah, our Prophet Muhammad, and upon his family, his companions, and whoever follows his guidance.
 

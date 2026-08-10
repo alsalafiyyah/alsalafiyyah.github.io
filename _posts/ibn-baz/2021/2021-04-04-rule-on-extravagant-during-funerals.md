@@ -1,21 +1,26 @@
 ---
 layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "Ruling on extravagant and lavishness during funerals"
+publisher: alsalafiyyah@icloud.com
+title: Ruling on extravagant and lavishness during funerals
 date: 2021-04-04
-hijri: "Sha'ban 22, 1442"
-source: "Fatawa Shaykh Ibn Baz p. 4/119"
-link: "https://binbaz.org.sa/fatwas/732/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%A8%D8%B0%D8%AE-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%B1%D8%A7%D9%81-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B2%D8%A7%D8%A1"
-category: [bidah,funerals]
+hijri: '1442-08-22'
+source: Fatawa Shaykh Ibn Baz p. 4/119
+link: https://binbaz.org.sa/fatwas/732/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%A8%D8%B0%D8%AE-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%B1%D8%A7%D9%81-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B2%D8%A7%D8%A1
+category:
+- bidah
+- funerals
 translation: false
 lang: en
-tags: [ibn-baz]
-summary: "What is the ruling on extravagance in funerals? The bereaved family serve dinners for those who come to offer condolences."
+tags:
+- ibn-baz
+summary: What is the ruling on extravagance in funerals? The bereaved family serve
+  dinners for those who come to offer condolences.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

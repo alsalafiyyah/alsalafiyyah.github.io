@@ -1,19 +1,23 @@
 ---
 layout: post
-title: "Ruling On The Ba'ath Party"
-publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat 28/270"
-category: [sects]
-tags: [ibn-baz]
-hijri: "Dhu al-Hijjah 3, 1441 AH"
+title: Ruling On The Ba'ath Party
+publisher: alsalafiyyah@icloud.com
+source: Majmu' Fatawa wa Maqalat 28/270
+category:
+- sects
+tags:
+- ibn-baz
+hijri: '1441-12-03'
 lang: en
 translation: false
-summary: "All Ba'athists are Kafirs including the president of Iraq as they oppose Shari'ah (Islamic law) and feud with it."
+summary: All Ba'athists are Kafirs including the president of Iraq as they oppose
+  Shari'ah (Islamic law) and feud with it.
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

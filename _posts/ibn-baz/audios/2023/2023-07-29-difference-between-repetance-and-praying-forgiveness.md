@@ -1,22 +1,28 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Difference between repentance and praying for forgiveness"
-mp3: "https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_734/nour_73405.mp3"
-hijri: "Muharram 11, 1445"
+title: Difference between repentance and praying for forgiveness
+mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_734/nour_73405.mp3
+hijri: '1445-01-11'
 date: 2023-07-29
 lang: en
 translation: false
 active: audios
-category: [terminology,audios]
-tags: [ibn-baz]
+category:
+- terminology
+- audios
+tags:
+- ibn-baz
 url: http://www.binbaz.org.sa/mat/10479
-summary: "Repentance is regret for what has passed, giving it up, and resolving not to go back to it. This is called repentance. As for praying for forgiveness, it may be repentance or it may be mere words."
+summary: Repentance is regret for what has passed, giving it up, and resolving not
+  to go back to it. This is called repentance. As for praying for forgiveness, it
+  may be repentance or it may be mere words.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz
+  shaykh:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz
 ---
+
 
 #### Question: 
 What is the difference between repentance and praying for forgiveness? 

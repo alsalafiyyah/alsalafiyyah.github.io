@@ -1,21 +1,27 @@
 ---
 layout: post
-title: "On Dreams, Myths, and Sufism"
-publisher: "alsalafiyyah@icloud.com"
+title: On Dreams, Myths, and Sufism
+publisher: alsalafiyyah@icloud.com
 date: 2026-07-02
 active: audios
-category: ["sects",audios]
+category:
+- sects
+- audios
 translation: false
-tags: [ibn-baz]
+tags:
+- ibn-baz
 lang: en
-source: "Fatawa al-Jami' al-Kabir, tape 599"
-mp3: "https://files.zadapps.info/binbaz.org.sa/fatawa/jame3_kabeer/fjk3_599.mp3"
-summary: "Religion is the adherence to the legislation of Allah brought forth by the Book of Allah and the Sunnah of His Messenger—peace and blessings be upon him."
+source: Fatawa al-Jami' al-Kabir, tape 599
+mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/jame3_kabeer/fjk3_599.mp3
+summary: Religion is the adherence to the legislation of Allah brought forth by the
+  Book of Allah and the Sunnah of His Messenger—peace and blessings be upon him.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+hijri: '1448-01-17'
 ---
+
 
 ### Question: 
 

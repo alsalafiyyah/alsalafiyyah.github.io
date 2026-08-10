@@ -1,5 +1,5 @@
 ---
-hijri: Safar 27, 1442 AH
+hijri: '1442-02-27'
 key: quranism, sects, hadith, hadiths, sunnah, islam, disbeliever
 lang: en
 layout: post
@@ -21,6 +21,7 @@ summary: What about a person who denies the punishment in the grave, because the
   only a single narrator) which -they hold- can never be taken as basis for beliefs?
 title: The authority of Hadith-ul-Ahad
 ---
+
 
 ### Question:
 What about a person who denies the punishment in the grave, because the reports in this regard are Hadith-ul-Ahad (Hadiths which at some point in the chain have only a single narrator) which -they hold- can never be taken as basis for beliefs? They do not judge reports in terms of authenticity, acceptability, and weakness, but in terms of the numerous chains of transmission; whether it is a singular report or recurrently reported at each generation of narrators. Upon finding out that a certain report is singular, they reject it. How does one respond to this? 

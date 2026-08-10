@@ -2,19 +2,25 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-06-21
-title: "The world is a prison for the believer and a paradise for the disbeliever"
-category: [audios,hadiths]
-tags: [ibn-uthaymeen]
+title: The world is a prison for the believer and a paradise for the disbeliever
+category:
+- audios
+- hadiths
+tags:
+- ibn-uthaymeen
 lang: en
-source: "Fatawa Nur ala ad-Darb, Tape no. 165, Question 11"
-link: "https://binothaimeen.net/s/HAvslsoR"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_165_11.mp3"
-summary: "This is because the believer looks forward to a bliss that is far better, more perfect, and loftier in the Hereafter."
+source: Fatawa Nur ala ad-Darb, Tape no. 165, Question 11
+link: https://binothaimeen.net/s/HAvslsoR
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_165_11.mp3
+summary: This is because the believer looks forward to a bliss that is far better,
+  more perfect, and loftier in the Hereafter.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
+hijri: '1448-01-06'
 ---
+
 
 ### Question: 
 

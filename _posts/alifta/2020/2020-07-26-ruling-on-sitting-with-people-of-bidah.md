@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 5, 1441 AH
+hijri: '1441-12-05'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: It is not permissible for you to sit with or consider them friends. You
 title: Ruling on sitting with Mubtadi's (ones who introduces innovations in religion)
 uid: ruling-on-sitting-with-people-of-bidah
 ---
+
 
 Question: 
 

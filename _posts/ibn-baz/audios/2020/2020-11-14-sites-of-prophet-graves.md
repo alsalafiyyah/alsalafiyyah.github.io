@@ -3,19 +3,25 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 title: Sites of the Prophets' graves
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_638/nour_63813.mp3
-hijri: Rabi' Al-Awwal 28, 1442
+hijri: '1442-03-28'
 date: 2020-11-14
 lang: en
 active: audios
-category: [audios,prophets]
-tags: [ibn-baz]
-url: "https://binbaz.org.sa/fatwas/13300/%D9%87%D9%84-%D9%8A%D8%B9%D8%B1%D9%81-%D9%82%D8%A8%D8%B1%D8%A7-%D8%A7%D9%8A%D9%88%D8%A8-%D9%88%D8%B9%D9%85%D8%B1%D8%A7%D9%86-%D8%B9%D9%84%D9%8A%D9%87%D9%85%D8%A7-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D9%88%D8%AD%D9%83%D9%85-%D8%B2%D9%8A%D8%A7%D8%B1%D8%AA%D9%87%D9%85%D8%A7"
-summary: "These claims have no basis, for the sites of the graves of all prophets are unknown, except the grave of Prophet Muhammad (peace be upon him) which is in Madinah and the grave of Prophet Ibrahim in Khalil."
+category:
+- audios
+- prophets
+tags:
+- ibn-baz
+url: https://binbaz.org.sa/fatwas/13300/%D9%87%D9%84-%D9%8A%D8%B9%D8%B1%D9%81-%D9%82%D8%A8%D8%B1%D8%A7-%D8%A7%D9%8A%D9%88%D8%A8-%D9%88%D8%B9%D9%85%D8%B1%D8%A7%D9%86-%D8%B9%D9%84%D9%8A%D9%87%D9%85%D8%A7-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D9%88%D8%AD%D9%83%D9%85-%D8%B2%D9%8A%D8%A7%D8%B1%D8%AA%D9%87%D9%85%D8%A7
+summary: These claims have no basis, for the sites of the graves of all prophets are
+  unknown, except the grave of Prophet Muhammad (peace be upon him) which is in Madinah
+  and the grave of Prophet Ibrahim in Khalil.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 In the Sultanate of Oman, particularly in the South, there is a Masjid (mosque) and a grave in the mountain of Zhafar. The people of Zhafar claim that it is the grave of Prophet Ayyub. People visit the grave and travel to it in groups. A similar grave exists in Salalah and people claim that it is the grave of Imran. Likewise, people make it a place to frequent. Would you please comment on these actions and publicize the ruling on the radio? May Allah reward you with the best! 

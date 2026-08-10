@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 23, 1441 AH
+hijri: '1441-12-23'
 lang: en
 layout: post
 mass_edited: true
@@ -18,6 +18,7 @@ tags:
 title: Difference between the words Nasara and Masihi
 translation: false
 ---
+
 
 ### Question:
 

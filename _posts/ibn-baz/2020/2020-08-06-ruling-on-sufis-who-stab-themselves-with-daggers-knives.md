@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 16, 1441
+hijri: '1441-12-16'
 lang: en
 layout: post
 link: https://cutt.ly/gdDI3Ju
@@ -18,6 +18,7 @@ tags:
 title: Ruling on sufis who stab themselves with daggers and knives and other tools
 translation: false
 ---
+
 
 ### Question:
 

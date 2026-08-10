@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: The ideal way for Muslims when dealing with a Dhimmy is to honor the ag
   of agreements and dealing kindly and justly with them.
 title: Dealing with a Dhimmy
 ---
+
 
 ### Question: 
  

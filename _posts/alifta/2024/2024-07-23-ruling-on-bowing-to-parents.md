@@ -5,7 +5,7 @@ article_taken_from:
     web_url: https://al-fatawa.com/fatwa/112302
 date: 2024-07-23
 group1: true
-hijri: Muharram 17, 1446
+hijri: '1446-01-17'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: This is impermissible and is tantamount to Shirk. Bowing is a form of w
   just like prostration; therefore, it is impermissible.
 title: Ruling on bowing to one’s parents
 ---
+
 
 ### Question: 
 Is it permissible to perform Ruku‘ (bowing) to one’s parents?

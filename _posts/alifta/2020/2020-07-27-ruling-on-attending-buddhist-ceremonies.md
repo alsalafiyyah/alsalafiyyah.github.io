@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -17,6 +17,7 @@ summary: It is not permissible to do any of the things mentioned. In fact, doing
   in Islam.
 title: Ruling on attending Buddhist ceremonies
 ---
+
 
 ### Question: 
  

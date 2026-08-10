@@ -1,6 +1,6 @@
 ---
 date: 2024-07-25
-hijri: Muharram 19, 1446 AH
+hijri: '1446-01-19'
 lang: en
 layout: post
 mass_edited: true
@@ -14,6 +14,7 @@ summary: This practice appears to be taken from non-Muslims; therefore, it is no
   an appropriate thing for a Muslim to do.
 title: Ruling on Clapping One's Hands and Whistling
 ---
+
 
 ### Question:
 What is the ruling on people whistling and clapping their hands in parties?

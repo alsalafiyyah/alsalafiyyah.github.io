@@ -1,7 +1,7 @@
 ---
 date: 2020-09-03-the-difference-between-aqidah-and-manhaj.md
 group2: true
-hijri: Muharram 15, 1442
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: Accordingly, there is no difference between Aqidah and Manhaj; they ref
   to the same thing which all Muslims must observe and hold fast to.
 title: The difference between 'Aqidah and Manhaj
 ---
+
 
 ### Question: 
 There is a current debate about the difference between 'Aqidah (creed) and Manhaj (methodology) and people have started to say that so-and-so adopts the 'Aqidah of Ahl-ul-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream) or the Salafiyyah (those following the way of the righteous predecessors) although their Manhaj is not that of Ahl-us-Sunnah wal-Jama'ah. Similar words are said about some of the followers of Jama'at Tabligh, the Muslim Brotherhood, and some other groups. What differentiates between the Manhaj of Ahl-ul-Sunnah wal-Jama'ah and that of Salafiyyah? Is it correct to differentiate between 'Aqidah and Manhaj?  

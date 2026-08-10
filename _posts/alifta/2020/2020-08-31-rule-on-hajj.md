@@ -1,6 +1,6 @@
 ---
 date: 2020/08/31
-hijri: Muharram 12, 1442
+hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
@@ -13,6 +13,7 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 6315-2
 title: Ruling on Hajj
 ---
+
 
 ### Question:
 Some people claim that there is no obligation to go to the holy lands to perform Hajj. They also say that whoever goes there, comes back more coarse and merciless. Most of these people are financially and physically capable of performing Hajj, but they are reluctant. What is the ruling on whoever says this? Do they come under the same mentioned Ayah (Qur'anic verse) with regard to the fifth nullifier of Islam?

@@ -1,6 +1,6 @@
 ---
 date: 2020/08/22
-hijri: Muharram 3, 1442
+hijri: '1442-01-03'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ summary: All the practices referred to in the question mentioned above are newly
   bid'ahs, except for the practice of offering condolences to the bereaved family.
 title: Some practices done upon burial
 ---
+
 
 ### Question: 
 When someone dies, people have certain practices that I am going to list, hoping that you will comment and show the juristic ruling on these practices:

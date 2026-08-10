@@ -2,17 +2,24 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "A Response Regarding the Definition of the Salafi Methodology"
+title: A Response Regarding the Definition of the Salafi Methodology
 date: 2020-09-05
 lang: en
-summary: "It is an attribution to the Salaf (the Righteous Predecessors). The Salaf are the Companions of the Messenger of Allah (peace and blessings of Allah be upon him) and those who followed them in righteousness from the people of the three favored generations and those after them."
-category: [manhaj]
-tags: [ahmad-ibn-yahya]
+summary: It is an attribution to the Salaf (the Righteous Predecessors). The Salaf
+  are the Companions of the Messenger of Allah (peace and blessings of Allah be upon
+  him) and those who followed them in righteousness from the people of the three favored
+  generations and those after them.
+category:
+- manhaj
+tags:
+- ahmad-ibn-yahya
 muftis:
-  shaykh: 
-    - name: Shaykh Ahmad bin Yahya An-Najmi
-      url: /biography/ahmad-alnajmi
+  shaykh:
+  - name: Shaykh Ahmad bin Yahya An-Najmi
+    url: /biography/ahmad-alnajmi
+hijri: '1442-01-17'
 ---
+
 
 ### Question: 
 

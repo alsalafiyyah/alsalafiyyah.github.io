@@ -2,19 +2,26 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "The Wrath-Incurring Nation, Not God's Chosen People"
+title: The Wrath-Incurring Nation, Not God's Chosen People
 date: 2026-08-01
 lang: en
 translation: false
-source: "Muqolat No. 2565"
-summary: "The enmity of the Jews toward Islam is an ancient enmity dating back to the first dawn of Islam. Their animosity and hatred toward its people are well known to both the common and elite, in ancient times and modern."
-category: [muqolat, palestine, non-muslim]
-link: "https://www.al-badr.net/muqolat/2565"
+source: Muqolat No. 2565
+summary: The enmity of the Jews toward Islam is an ancient enmity dating back to the
+  first dawn of Islam. Their animosity and hatred toward its people are well known
+  to both the common and elite, in ancient times and modern.
+category:
+- muqolat
+- palestine
+- non-muslim
+link: https://www.al-badr.net/muqolat/2565
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul Razzaq al-Badr
-      url: /biography/abdul-razzaq-al-badr
+  shaykh:
+  - name: Shaykh Abdul Razzaq al-Badr
+    url: /biography/abdul-razzaq-al-badr
+hijri: '1448-02-18'
 ---
+
 
 Anyone who reflects upon history across its long course, and contemplates the conditions, manners, and dealings of nations, will find that the nation with the worst morals and the most evil conduct is the nation of the Jews—that wrath-incurring, cursed nation. A nation of falsehood, tyranny, debauchery, disobedience, disbelief, and atheism; a nation abhorred by people due to the harshness of their hearts, the severity of their hatred and envy, and the greatness of their transgression and tyranny. 
 

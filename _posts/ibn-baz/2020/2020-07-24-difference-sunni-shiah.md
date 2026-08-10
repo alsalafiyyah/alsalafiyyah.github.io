@@ -1,19 +1,23 @@
 ---
 layout: post
-title: "The Difference between Ahlus-Sunnah and Shiites"
-publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat 28/261"
-category: [sects]
-tags: [ibn-baz]
-hijri: "Dhul-Hijjah 3, 1441"
+title: The Difference between Ahlus-Sunnah and Shiites
+publisher: alsalafiyyah@icloud.com
+source: Majmu' Fatawa wa Maqalat 28/261
+category:
+- sects
+tags:
+- ibn-baz
+hijri: '1441-12-03'
 translation: false
 lang: en
-summary: "We should differentiate between Kafirs (disbelievers), Muslims, Shiites, and other sects. Shi'ah are Mubtadi's (those who introduce innovations in religion)."
+summary: We should differentiate between Kafirs (disbelievers), Muslims, Shiites,
+  and other sects. Shi'ah are Mubtadi's (those who introduce innovations in religion).
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

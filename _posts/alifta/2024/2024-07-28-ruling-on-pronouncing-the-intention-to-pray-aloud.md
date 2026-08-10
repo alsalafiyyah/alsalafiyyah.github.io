@@ -1,6 +1,6 @@
 ---
 date: 2024-07-28
-hijri: Muharram 22, 1446
+hijri: '1446-01-22'
 lang: en
 layout: post
 mass_edited: true
@@ -14,6 +14,7 @@ summary: Pronouncing the intention is an innovation or bid'ah, and pronouncing i
   aloud is an even worse sin.
 title: The Ruling on pronouncing the intention to pray aloud
 ---
+
 
 ### Question:
 What is the ruling on pronouncing the intention to pray aloud?

@@ -2,19 +2,25 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-04-21
-hijri: "Dhu al-Qidah 4, 1447 AH"
-title: "An Overview of the Mu'tazilah Sect"
-source: "Fatawa Nur Ala ad-Darb, Tape No.284"
-category: [fatwas,sects,audios]
-tags: [ibn-uthaymeen]
-url: "https://binothaimeen.net/s/9Y4Pm6y0"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_284_20.mp3"
-summary: "The Mu'tazilah are an innovated sect. Regarding Allah, His Speech, and His Actions, they hold views that contradict the creed of Ahl al-Sunnah wal-Jama'ah."
+hijri: '1447-11-04'
+title: An Overview of the Mu'tazilah Sect
+source: Fatawa Nur Ala ad-Darb, Tape No.284
+category:
+- fatwas
+- sects
+- audios
+tags:
+- ibn-uthaymeen
+url: https://binothaimeen.net/s/9Y4Pm6y0
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_284_20.mp3
+summary: The Mu'tazilah are an innovated sect. Regarding Allah, His Speech, and His
+  Actions, they hold views that contradict the creed of Ahl al-Sunnah wal-Jama'ah.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
 ---
+
 
 ### Question: 
 

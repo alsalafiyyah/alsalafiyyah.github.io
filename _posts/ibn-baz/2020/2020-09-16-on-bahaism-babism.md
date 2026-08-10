@@ -1,6 +1,6 @@
 ---
 date: 2020-09-16
-hijri: Muharram 28, 1442
+hijri: '1442-01-28'
 lang: en
 layout: post
 mass_edited: true
@@ -14,6 +14,7 @@ summary: The Babists carried out an armed terrorist movement in which they shed 
   great deal of blood and killed hundreds of people.
 title: A brief look at Babism and Bahaism and their hatred towards the Muslims
 ---
+
 
 All Praise is due to Allah. May peace and blessings be upon the Messenger of Allah, his family and Companions. To proceed:
 

@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 15, 1442 AH
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: There are many Hadiths that indicate the emergence of Al-Mahdy. They we
   are morally Mutawatir.
 title: The coming out of Al-Mahdy
 ---
+
 
 ### Question: 
 

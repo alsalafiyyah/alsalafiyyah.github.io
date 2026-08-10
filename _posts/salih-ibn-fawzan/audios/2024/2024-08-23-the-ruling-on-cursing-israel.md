@@ -2,22 +2,28 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "The Ruling on Cursing Israel"
-hijri: Safar 19, 1446 AH
+title: The Ruling on Cursing Israel
+hijri: '1446-02-19'
 date: 2024-08-23
 lang: en
 locale: en
 active: audios
-category: [fatwas,audios,palestine]
-tags: [salih-ibn-fawzan]
+category:
+- fatwas
+- audios
+- palestine
+tags:
+- salih-ibn-fawzan
 note: false
-summary: "Do not say May God’s curse be upon Israel, but say May God’s curse be upon the Jews or Yahudi instead."
-mp3: "https://phaven-prod.s3.amazonaws.com/files/audio_part/asset/1210612/rk9PLYaSzQoB6HQZuXYhfGOLblw/Cursing_Israel.mp3"
+summary: Do not say May God’s curse be upon Israel, but say May God’s curse be upon
+  the Jews or Yahudi instead.
+mp3: https://phaven-prod.s3.amazonaws.com/files/audio_part/asset/1210612/rk9PLYaSzQoB6HQZuXYhfGOLblw/Cursing_Israel.mp3
 muftis:
-  shaykh: 
-    - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan
+  shaykh:
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan
 ---
+
 
 The Jews are known by the name 'the Jews,' but they began calling themselves 'Israel.' And Israel—peace be upon him—is actually Jacob, the son of Isaac. This is part of their deception. 
 

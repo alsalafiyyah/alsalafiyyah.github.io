@@ -5,7 +5,7 @@ article_taken_from:
     web_url: https://al-fatawa.com/fatwa/106197
 date: 2026-05-04
 group1: true
-hijri: Dhu al-Qidah 17, 1447 AH
+hijri: '1447-11-17'
 lang: en
 layout: post
 mass_edited: true
@@ -18,6 +18,7 @@ tags:
 title: The Islamic Perspective on Human Origins and Darwinism
 translation: false
 ---
+
 
 ### Question: 
 

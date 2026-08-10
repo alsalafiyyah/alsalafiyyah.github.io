@@ -2,20 +2,26 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-04-24
-hijri: "Dhu al-Qidah 7, 1447 AH"
-title: "Who exactly are the People of the Book?"
-source: "Liqa' al-Bab al-Maftuh tape no. 134"
-category: [fatwas,sects,audios]
-tags: [ibn-uthaymeen]
-url: "https://binothaimeen.net/s/RgOLg223"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_134_06.mp3"
+hijri: '1447-11-07'
+title: Who exactly are the People of the Book?
+source: Liqa' al-Bab al-Maftuh tape no. 134
+category:
+- fatwas
+- sects
+- audios
+tags:
+- ibn-uthaymeen
+url: https://binothaimeen.net/s/RgOLg223
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_134_06.mp3
 active: audios
-summary: "Jesus’s announcement of the glad tidings of the Prophet Muhammad proves that it is obligatory for his followers to follow him."
+summary: Jesus’s announcement of the glad tidings of the Prophet Muhammad proves that
+  it is obligatory for his followers to follow him.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
 ---
+
 
 ### Question:
 

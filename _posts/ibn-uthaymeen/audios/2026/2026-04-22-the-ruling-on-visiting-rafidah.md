@@ -2,19 +2,25 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-04-22
-hijri: "Dhu al-Qidah 5, 1447 AH"
-title: "The Ruling on Visiting and Socializing with the Rafidah (Shiites)"
-source: "Liqa' al-Bab al-Maftuh 1"
-category: [fatwas,sects,audios]
-tags: [ibn-uthaymeen]
-url: "https://binothaimeen.net/s/Fw3XZFmb"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_001_24.mp3"
-summary: "He must advise them, clarify the truth to them, and demonstrate that the path they are on is not the truth."
+hijri: '1447-11-05'
+title: The Ruling on Visiting and Socializing with the Rafidah (Shiites)
+source: Liqa' al-Bab al-Maftuh 1
+category:
+- fatwas
+- sects
+- audios
+tags:
+- ibn-uthaymeen
+url: https://binothaimeen.net/s/Fw3XZFmb
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_001_24.mp3
+summary: He must advise them, clarify the truth to them, and demonstrate that the
+  path they are on is not the truth.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
 ---
+
 
 ### Question:
 A man lived with the Rafidah (Shiites) for a period of time, after which he moved away to a distant region and promised to visit them. Is it permissible for him to fulfill his promise to them or not? Is it permissible for him to greet them (with Salam) and kiss them? And is it permissible for him to eat their food and drink their water?

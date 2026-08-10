@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 11, 1442 AH
+hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
@@ -19,6 +19,7 @@ summary: 'Research and verification show that the phrase that you have mentioned
   has no origin in any of the variant narrations.'
 title: 'The Hadith: ''Much laughter kills the heart'''
 ---
+
 
 Question: 
 

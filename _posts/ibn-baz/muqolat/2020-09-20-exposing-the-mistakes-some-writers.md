@@ -1,19 +1,23 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Exposing the mistakes of some writers"
-hijri: Safar 03, 1442
+title: Exposing the mistakes of some writers
+hijri: '1442-02-03'
 lang: en
 locale: en
 date: 2020-09-20
-category: [muqolat]
-source: "Majmu' Fatawa vol 3"
-summary: "I deemed it necessary to point out, in this comment, the serious mistakes in the published article to advise the writer and the whole Ummah and defend our fellow brothers against accusations of which, we are quite sure, they are innocent."
+category:
+- muqolat
+source: Majmu' Fatawa vol 3
+summary: I deemed it necessary to point out, in this comment, the serious mistakes
+  in the published article to advise the writer and the whole Ummah and defend our
+  fellow brothers against accusations of which, we are quite sure, they are innocent.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 In the Name of Allah, the All-Merciful, the Ever-Merciful 
 

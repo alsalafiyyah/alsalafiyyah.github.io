@@ -1,19 +1,24 @@
 ---
 layout: post
-title: "Are Buddhism, Hinduism and Sikhism considered religions?"
-publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa 28/273"
-category: [non-muslim]
-hijri: "Jumada Al-Awwal 26, 1442 AH"
+title: Are Buddhism, Hinduism and Sikhism considered religions?
+publisher: alsalafiyyah@icloud.com
+source: Majmu' Fatawa 28/273
+category:
+- non-muslim
+hijri: '1442-05-26'
 lang: en
 translation: false
-tags: [ibn-baz]
-summary: "Islam is to worship Allah Alone associating no partners with Him, obey His Commands, avoid His Prohibitions, abide by the limits He has set, and believe in what Allah and His Messenger informed us about regarding the past and the future."
+tags:
+- ibn-baz
+summary: Islam is to worship Allah Alone associating no partners with Him, obey His
+  Commands, avoid His Prohibitions, abide by the limits He has set, and believe in
+  what Allah and His Messenger informed us about regarding the past and the future.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

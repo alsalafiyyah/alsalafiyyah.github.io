@@ -2,21 +2,24 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-08-08
-hijri: 1448-02-25
-title: "The Danger of Relying on and Attaching the Heart to Others"
-category: [videos]
-tags: [salih-ibn-fawzan]
-videoURL: "https://youtu.be/RuOrc5SSPxc"
-videoID: "RuOrc5SSPxc"
+hijri: '1448-02-25'
+title: The Danger of Relying on and Attaching the Heart to Others
+category:
+- videos
+tags:
+- salih-ibn-fawzan
+videoURL: https://youtu.be/RuOrc5SSPxc
+videoID: RuOrc5SSPxc
 active: videos
 translation: false
 lang: en
-summary: "There is no doubt that the heart's attachment to other than Allah is shirk."
+summary: There is no doubt that the heart's attachment to other than Allah is shirk.
 muftis:
-  shaykh: 
-    - name: "Shaykh Salih al-Fawzan"
-      url: "/biography/fawzan/"
+  shaykh:
+  - name: Shaykh Salih al-Fawzan
+    url: /biography/fawzan/
 ---
+
 
 ### Question: 
 

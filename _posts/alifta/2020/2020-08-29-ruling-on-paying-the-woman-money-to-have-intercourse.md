@@ -1,6 +1,6 @@
 ---
 date: 2020-08-29
-hijri: Muharram 10, 1442
+hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: You should protect yourself and stay away from the avenues leading to Z
   and hasten to get married if you can; otherwise, you should observe fast.
 title: Ruling on paying the woman money to have intercourse
 ---
+
 
 ### Question: 
 I am an unmarried man; I fear committing sins. What is the ruling if I give a woman a sum of money to kiss and have sexual intercourse with her considering this money to be a Mahr (mandatory gift to a bride from her groom)

@@ -1,20 +1,27 @@
 ---
 layout: post
 published: true
-title: "Ruling on the view that not rebel against the ruler as a defeatist thinking which manifests weakness"
-publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat p. 8/206, question 2"
-category: [rulership, sects]
-tags: [ibn-baz]
+title: Ruling on the view that not rebel against the ruler as a defeatist thinking
+  which manifests weakness
+publisher: alsalafiyyah@icloud.com
+source: Majmu' Fatawa wa Maqalat p. 8/206, question 2
+category:
+- rulership
+- sects
+tags:
+- ibn-baz
 lang: en
 translation: false
-hijri: "Rabi' Al-Awwal 03, 1442"
-summary: "This is a mistake on the part of those who said this and shows their lack of understanding, as they neither understand the Sunnah nor know it in the correct way."
+hijri: '1442-03-03'
+summary: This is a mistake on the part of those who said this and shows their lack
+  of understanding, as they neither understand the Sunnah nor know it in the correct
+  way.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

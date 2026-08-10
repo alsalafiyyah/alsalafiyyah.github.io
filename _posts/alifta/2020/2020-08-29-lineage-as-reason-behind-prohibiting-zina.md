@@ -1,6 +1,6 @@
 ---
 date: 2020-08-29
-hijri: Muharram 10, 1442
+hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: There are other reasons unknown to many people behind the prohibition o
   eliminated.
 title: Confusion in lineage as a reason behind prohibiting Zina
 ---
+
 
 ### Question: 
 

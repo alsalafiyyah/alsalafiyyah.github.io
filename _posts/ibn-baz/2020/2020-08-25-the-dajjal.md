@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 6, 1442 AH
+hijri: '1442-01-06'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: Al-Dajjal claims and makes things through which he confuses people. He 
   of some people who will be brought to life again.
 title: The Anti-Christ
 ---
+
 
 ### Question:
 

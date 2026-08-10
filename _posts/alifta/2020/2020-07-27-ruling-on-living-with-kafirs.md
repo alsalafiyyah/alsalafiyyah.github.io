@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: Shari'ah is based on providing ease, tolerance and avoiding hardship. T
   you may continue living with them as you cannot live alone.
 title: Ruling on living with non-Muslims
 ---
+
 
 ### Question: 
 

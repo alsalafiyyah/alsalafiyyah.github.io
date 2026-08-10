@@ -1,7 +1,7 @@
 ---
 date: 2024-09-11
 group13: true
-hijri: Rabiul Awwal 08, 1446
+hijri: '1446-03-08'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: Issuing fatwas and religious guidance should be given by those who are 
   in the knowledge of the Quran and the Sunnah as well as the opinions of scholars.
 title: Who is entitled to issuing fatwas?
 ---
+
 
 ### Question: 
 Who should be responsible for issuing Fatwas and guidance in religious matters? Some religious people here speak English and a little Urdu but they can not speak the beloved Arabic; the language of the Qur'an and Sunnah. Are these people qualified for Ifta' and guidance in religious matters?

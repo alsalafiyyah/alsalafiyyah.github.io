@@ -1,7 +1,7 @@
 ---
 date: 2020/08/28
 group1: true
-hijri: Muharram 9, 1442 AH
+hijri: '1442-01-09'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: If she is as what you have mentioned, she is an apostate. By doing this
   she is causing great harm to her daughters. She must be asked to repent.
 title: Ruling on deliberate abandoning or delaying of Salah after its prescribed time
 ---
+
 
 ### Question: 
 

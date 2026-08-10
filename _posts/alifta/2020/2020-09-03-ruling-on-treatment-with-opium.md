@@ -1,7 +1,7 @@
 ---
 date: 2020/09/3
 group1: true
-hijri: Muharram 15, 1442
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: It is not permissible to seek treatment through anything that Allah has
   like opium, hashish, alcoholic drinks or any drug or intoxicant of the sort.
 title: Ruling on treatment with opium
 ---
+
 
 ### Question:
 Is it permissible to use opium or alcoholic drinks like vinegar as medication for curing illnesses? 

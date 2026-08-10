@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 02, 1445 AH
+hijri: '1445-01-02'
 lang: en
 layout: post
 mass_edited: true
@@ -23,6 +23,7 @@ tags:
 title: Ruling on Celebrating Valentine’s Day
 translation: false
 ---
+
 
 ##### Question: 
 

@@ -1,20 +1,24 @@
 ---
 layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "Do Wahhabism criticizes the Prophet's family"
-source: "Majmu' Fatawa Shaykh ibn Baz 9/230"
+publisher: alsalafiyyah@icloud.com
+title: Do Wahhabism criticizes the Prophet's family
+source: Majmu' Fatawa Shaykh ibn Baz 9/230
 note: false
-hijri: Dhul-Qa'dah 26, 1441
+hijri: '1441-11-26'
 date: 2020-07-17
 lang: en
 active: wahhabi
-category: [wahhabism,manhaj]
-summary: "Is it true that Wahhabism antagonizes Al-ul-Bayt (members of the Prophet's extended Muslim family) and criticizes the Prophet (peace be upon him)?"
+category:
+- wahhabism
+- manhaj
+summary: Is it true that Wahhabism antagonizes Al-ul-Bayt (members of the Prophet's
+  extended Muslim family) and criticizes the Prophet (peace be upon him)?
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

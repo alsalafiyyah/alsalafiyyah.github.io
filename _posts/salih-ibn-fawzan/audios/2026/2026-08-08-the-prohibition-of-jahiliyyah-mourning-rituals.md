@@ -2,22 +2,28 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-08-08
-hijri: 1448-02-25
-title: "The Prohibition of Jahiliyyah Mourning Rituals"
-category: [audios, hadiths, funerals]
-tags: [salih-ibn-fawzan]
-mp3: "https://audio.alfawzan.live/13_31.mp3"
-link: "https://alfawzan.live/content/16818/"
+hijri: '1448-02-25'
+title: The Prohibition of Jahiliyyah Mourning Rituals
+category:
+- audios
+- hadiths
+- funerals
+tags:
+- salih-ibn-fawzan
+mp3: https://audio.alfawzan.live/13_31.mp3
+link: https://alfawzan.live/content/16818/
 active: audios
 translation: false
 lang: en
-source: "Fatwa No. 16818"
-summary: "Yes, this hadith is a prohibition against wailing over the dead. What is obligatory is patience and seeking reward from Allah."
+source: Fatwa No. 16818
+summary: Yes, this hadith is a prohibition against wailing over the dead. What is
+  obligatory is patience and seeking reward from Allah.
 muftis:
-  shaykh: 
-    - name: "Shaykh Salih al-Fawzan"
-      url: "/biography/fawzan/"
+  shaykh:
+  - name: Shaykh Salih al-Fawzan
+    url: /biography/fawzan/
 ---
+
 
 ### Question: 
 

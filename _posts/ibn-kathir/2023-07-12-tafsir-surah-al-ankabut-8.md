@@ -1,20 +1,25 @@
 ---
 layout: post
 published: true
-title: "Tafsir Surat Al-Ankabut Ayat 8"
-publisher: "alsalafiyyah@icloud.com"
-source: "Tafsir Ibn Kathir 6/264-265"
-hijri: "Dhul-Hijjah 24, 1444"
-tags: [ibn-kathir]
+title: Tafsir Surat Al-Ankabut Ayat 8
+publisher: alsalafiyyah@icloud.com
+source: Tafsir Ibn Kathir 6/264-265
+hijri: '1444-12-24'
+tags:
+- ibn-kathir
 lang: en
 translation: false
-category: [quran]
-summary: "And We have enjoined on man to be good and dutiful to his parents; but if they strive to make you join with Me (in worship) anything (as a partner) of which you have no knowledge, then obey them not."
+category:
+- quran
+summary: And We have enjoined on man to be good and dutiful to his parents; but if
+  they strive to make you join with Me (in worship) anything (as a partner) of which
+  you have no knowledge, then obey them not.
 muftis:
-  shaykh: 
-    - name: Ibn Kathir
-      url: /biography/kathir/
+  shaykh:
+  - name: Ibn Kathir
+    url: /biography/kathir/
 ---
+
 
 **“And We have enjoined on man to be good and dutiful to his parents; but if they strive to make you join with Me (in worship) anything (as a partner) of which you have no knowledge, then obey them not. Unto Me is your return and I shall tell you what you used to do”** [Al-‘Ankabut :8]
 

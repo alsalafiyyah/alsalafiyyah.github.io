@@ -1,18 +1,24 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "The ideology of the Khawarij in present times"
+title: The ideology of the Khawarij in present times
 date: 2024-07-27
-hijri: "Muharram 21, 1446"
-source: "al-Fatawa al-Shar'iyyah fi al-Qadhaya Al-'Asriyyah"
-category: [fatwas,rulership,sects]
-tags: [salih-ibn-fawzan]
-summary: "Declaring Muslims to be disbelievers, and—even worse than that—killing Muslims and attacking them. This is ideology of the Khawarij."
+hijri: '1446-01-21'
+source: al-Fatawa al-Shar'iyyah fi al-Qadhaya Al-'Asriyyah
+category:
+- fatwas
+- rulership
+- sects
+tags:
+- salih-ibn-fawzan
+summary: Declaring Muslims to be disbelievers, and—even worse than that—killing Muslims
+  and attacking them. This is ideology of the Khawarij.
 muftis:
-  shaykh: 
-    - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan
+  shaykh:
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan
 ---
+
 
 ### Question:
 

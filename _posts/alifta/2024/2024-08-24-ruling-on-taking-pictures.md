@@ -1,6 +1,6 @@
 ---
 date: 2024-08-24
-hijri: Safar 20, 1446 AH
+hijri: '1446-02-20'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: Pictures of the living -humans and animals- are unlawful except for nec
   such as identity, passport, or photos of criminals.
 title: The ruling on taking pictures
 ---
+
 
 ### Question: 
 What is the ruling on photographs, when they are for necessity and when they are for adornment?

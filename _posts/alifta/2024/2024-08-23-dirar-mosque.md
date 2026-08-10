@@ -1,6 +1,6 @@
 ---
 date: 2024-08-23
-hijri: Safar 19, 1446 AH
+hijri: '1446-02-19'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: The meaning of 'building' is the mosque that the hypocrites built, the 
   of which Allah described in the above-mentioned verse.
 title: Concerning al-Dirar Mosque (the mosque built by the hypocrites)
 ---
+
 
 ### Question: 
 What does this verse mean and what building is it referring to?

@@ -1,7 +1,7 @@
 ---
 date: 2020-09-03
 group6: true
-hijri: Muharram 14, 1442
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: Who are the Mutafayhiqun? They are those given to ostentatious, braggar
   speech.
 title: Who are the Mutafayhiqun?
 ---
+
 
 ### Question:
 Who are the “Mutafayhiqun”?

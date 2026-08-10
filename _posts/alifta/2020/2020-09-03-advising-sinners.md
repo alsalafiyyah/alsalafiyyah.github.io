@@ -1,6 +1,6 @@
 ---
 date: 2020/09/3
-hijri: Muharram 14, 1442 AH
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -20,6 +20,7 @@ summary: A Muslim is obliged to enjoin right and forbid wrong with wisdom and go
   and wise argument.
 title: Advising sinners and disobedient people and one's attitude towards them
 ---
+
 
 ### Question:
 

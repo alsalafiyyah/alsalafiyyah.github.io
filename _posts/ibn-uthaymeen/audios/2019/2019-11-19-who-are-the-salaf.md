@@ -2,23 +2,29 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2019-11-19
-hijri: "Rabi' Al-Awwal 22, 1442 AH"
-title: "Who Are The Salaf"
-source: "Fatawa Nur ala Ad-Darb, Tape no. 175"
-category: [audios,manhaj]
-tags: [ibn-uthaymeen]
-url: "https://binothaimeen.net/s/gmkXp3oG"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_175_18.mp3"
+hijri: '1441-03-22'
+title: Who Are The Salaf
+source: Fatawa Nur ala Ad-Darb, Tape no. 175
+category:
+- audios
+- manhaj
+tags:
+- ibn-uthaymeen
+url: https://binothaimeen.net/s/gmkXp3oG
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_175_18.mp3
 active: audios
 featured: true
 translation: true
 lang: en
-summary: "The Righteous Salaf are the Sahabah (Companions of the Prophet ﷺ) and those who followed their path among the Tabi’un (Successors), and the Atba’ al-Tabi’un (Successors of the Successors)."
+summary: The Righteous Salaf are the Sahabah (Companions of the Prophet ﷺ) and those
+  who followed their path among the Tabi’un (Successors), and the Atba’ al-Tabi’un
+  (Successors of the Successors).
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
 ---
+
 
 ### Question: 
 

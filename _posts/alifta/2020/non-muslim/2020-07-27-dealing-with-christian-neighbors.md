@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -18,6 +18,8 @@ summary: It is permissible to treat Christian people who are at close proximity 
   you, neighbors or classmates, gently and help them do lawful things.
 title: Dealing with Christian neighbors
 ---
+
+
 
 ### Question: 
  

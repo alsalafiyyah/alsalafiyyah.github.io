@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 10, 1442 AH
+hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
@@ -18,6 +18,7 @@ summary: People differ in preparedness, knowledge, reasoning, and background; so
   are intelligent and others are simple, some are well educated and others are illiterate.
 title: Ruling on acting in accordance with Imam Malik's School of Jurisprudence
 ---
+
 
 Question: 
 

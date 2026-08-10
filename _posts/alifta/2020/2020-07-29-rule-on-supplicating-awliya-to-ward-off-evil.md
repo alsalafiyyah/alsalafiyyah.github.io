@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 8, 1441
+hijri: '1441-12-08'
 lang: en
 layout: post
 mass_edited: true
@@ -23,6 +23,7 @@ summary: Making Du'a to others instead of Allah such as pious people to remove h
 title: Ruling on supplicating to the Awliya to ward off evil and pretending to know
   the Ghayb
 ---
+
 
 ### Question: 
 

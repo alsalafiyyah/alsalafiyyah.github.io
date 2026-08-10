@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: He should be informed that wearing a cross is an indication of being sa
   he will be regarded as a disbeliever.
 title: Ruling on Muslim wearing a cross
 ---
+
 
 ### Question: 
  

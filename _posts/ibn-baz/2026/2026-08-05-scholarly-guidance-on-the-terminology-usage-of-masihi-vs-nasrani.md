@@ -1,19 +1,23 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Scholarly Guidance on The Terminology Usage of Masihi vs. Nasrani"
+title: Scholarly Guidance on The Terminology Usage of Masihi vs. Nasrani
 date: 2026-08-05
-source: "Majmu' Fatawa wa Maqalat 5/416"
-category: [non-muslim]
-tags: [ibn-baz]
+source: Majmu' Fatawa wa Maqalat 5/416
+category:
+- non-muslim
+tags:
+- ibn-baz
 lang: en
 translation: false
-summary: "They claim to attribute themselves to Jesus, while he is innocent of them."
+summary: They claim to attribute themselves to Jesus, while he is innocent of them.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Baz 
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz/
+hijri: '1448-02-22'
 ---
+
 
 ### Question:
 

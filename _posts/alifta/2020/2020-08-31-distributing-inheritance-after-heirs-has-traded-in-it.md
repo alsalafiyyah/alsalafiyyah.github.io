@@ -1,6 +1,6 @@
 ---
 date: 2020/08/31
-hijri: Muharram 12, 1442 AH
+hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
@@ -13,6 +13,7 @@ source: Fatawa Al-Lajnah Ad-Da'imah no. 11102
 title: Distributing the inheritance after one of the heirs has traded in it and made
   profits
 ---
+
 
 Question:
 

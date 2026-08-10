@@ -1,6 +1,6 @@
 ---
 date: 2020-12-23
-hijri: Jumada Al-Awwal 8, 1442 AH
+hijri: '1442-05-08'
 lang: en
 layout: post
 mass_edited: true
@@ -24,6 +24,7 @@ tags:
 title: It was not authentically reported that a dead person can see the Prophet in
   his grave
 ---
+
 
 ### Question:
 

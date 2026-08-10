@@ -1,17 +1,22 @@
 ---
 layout: post
-title: "Ruling on seeking the help of Kafirs in fighting other Kafirs"
-publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa, Instagram@Alsalafiyyah"
-source: "Majmu' Fatawa Al-Shaykh Ibn Baz 6/183"
-hijri: Muharram 1, 1442
+title: Ruling on seeking the help of Kafirs in fighting other Kafirs
+publisher: alsalafiyyah@icloud.com, salafiyyah@outlook.sa, Instagram@Alsalafiyyah
+source: Majmu' Fatawa Al-Shaykh Ibn Baz 6/183
+hijri: '1442-01-01'
 date: 2020-08-20
-category: [rulership,muqolat]
-summary: "According to consensus of scholars, it is permissible to seek the help of the hypocrites for the Prophet, peace be upon him, sought the help of Abdullah ibn Ubay and his people."
+category:
+- rulership
+- muqolat
+summary: According to consensus of scholars, it is permissible to seek the help of
+  the hypocrites for the Prophet, peace be upon him, sought the help of Abdullah ibn
+  Ubay and his people.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 Praise be to Allah. May peace and blessings be upon our Prophet Muhammad, his family, his Companions, and those who follow them in righteousness until the Day of Resurrection. 
 

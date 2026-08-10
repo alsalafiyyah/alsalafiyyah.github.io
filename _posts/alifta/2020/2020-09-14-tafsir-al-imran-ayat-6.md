@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 26, 1442 AH
+hijri: '1442-01-26'
 lang: en
 layout: post
 mass_edited: true
@@ -25,6 +25,7 @@ summary: Allah is the All-Wise in His disposing of affairs, in His creation and 
 title: Tafsir Surah Aal Imran Ayat 6
 uid: tafsir-al-imran-ayat-6
 ---
+
 
 Question:
 

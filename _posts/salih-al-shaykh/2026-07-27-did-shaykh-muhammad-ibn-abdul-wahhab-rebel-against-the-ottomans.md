@@ -1,18 +1,23 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Did Shaykh Muhammad ibn Abd al-Wahhab Rebel Against the Ottomans?"
+title: Did Shaykh Muhammad ibn Abd al-Wahhab Rebel Against the Ottomans?
 date: 2026-07-27
-category: [manhaj]
-tags: [salih-al-shaykh]
-source: "Al-Ajwibah wal-Buhuth wal-Mudarasat 2/24–26"
-link: "https://fatawapedia.com/%D8%B3%D8%A8%D8%A8-%D8%B9%D8%AF%D9%85-%D9%85%D8%A8%D8%A7%D9%8A%D8%B9%D8%A9-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%88%D9%87%D8%A7%D8%A8-%D8%B1%D8%AD%D9%85%D9%87-%D8%A7%D9%84%D9%84%D9%87-%D9%84%D9%84%D8%B9%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D9%8A%D9%86"
-summary: "Najd during the time of the Shaykh—as I mentioned to you—was not under Ottoman authority. In fact, Najd had been independent since the year 260 AH."
+category:
+- manhaj
+tags:
+- salih-al-shaykh
+source: Al-Ajwibah wal-Buhuth wal-Mudarasat 2/24–26
+link: https://fatawapedia.com/%D8%B3%D8%A8%D8%A8-%D8%B9%D8%AF%D9%85-%D9%85%D8%A8%D8%A7%D9%8A%D8%B9%D8%A9-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%88%D9%87%D8%A7%D8%A8-%D8%B1%D8%AD%D9%85%D9%87-%D8%A7%D9%84%D9%84%D9%87-%D9%84%D9%84%D8%B9%D8%AB%D9%85%D8%A7%D9%86%D9%8A%D9%8A%D9%86
+summary: Najd during the time of the Shaykh—as I mentioned to you—was not under Ottoman
+  authority. In fact, Najd had been independent since the year 260 AH.
 muftis:
-  shaykh: 
-    - name: Shaykh Salih Al al-Shaykh
-      url: /biography/salih-al-shaykh
+  shaykh:
+  - name: Shaykh Salih Al al-Shaykh
+    url: /biography/salih-al-shaykh
+hijri: '1448-02-13'
 ---
+
 
 ### Question:
 

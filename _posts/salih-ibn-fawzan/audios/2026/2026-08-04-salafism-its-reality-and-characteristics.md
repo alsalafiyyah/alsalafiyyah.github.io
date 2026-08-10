@@ -2,21 +2,28 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-08-04
-title: "Salafism: Its Reality and Characteristics"
-category: [audios, manhaj]
-tags: [salih-ibn-fawzan]
-mp3: "https://audio.alfawzan.live/ls--14330613.mp3"
-link: "https://alfawzan.live/content/14381/"
+title: 'Salafism: Its Reality and Characteristics'
+category:
+- audios
+- manhaj
+tags:
+- salih-ibn-fawzan
+mp3: https://audio.alfawzan.live/ls--14330613.mp3
+link: https://alfawzan.live/content/14381/
 active: audios
 translation: false
 lang: en
-source: "Lecture No. 14381"
-summary: "The Prophet ﷺ informed us that division would occur in this nation just as it occurred in previous nations. He advised us, when that happens, to hold fast to what he ﷺ and his companions were upon."
+source: Lecture No. 14381
+summary: The Prophet ﷺ informed us that division would occur in this nation just as
+  it occurred in previous nations. He advised us, when that happens, to hold fast
+  to what he ﷺ and his companions were upon.
 muftis:
-  shaykh: 
-    - name: "Shaykh Salih al-Fawzan"
-      url: "/biography/fawzan/"
+  shaykh:
+  - name: Shaykh Salih al-Fawzan
+    url: /biography/fawzan/
+hijri: '1448-02-21'
 ---
+
 
 In the name of Allah, the Most Gracious, the Most Merciful. All praise is due to Allah, the Lord of all the worlds, and may peace and blessings be upon our Prophet Muhammad, his family, and all his companions.
 

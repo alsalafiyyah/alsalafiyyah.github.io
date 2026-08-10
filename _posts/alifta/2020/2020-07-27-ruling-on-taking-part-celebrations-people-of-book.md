@@ -1,6 +1,6 @@
 ---
 date: 2020-07-27
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -25,6 +25,7 @@ summary: It is not permissible for a Muslim to join the non-Muslims in their fes
   falsehood.
 title: Ruling on taking part in the celebrations of the People of the Book
 ---
+
 
 ### Question: 
  

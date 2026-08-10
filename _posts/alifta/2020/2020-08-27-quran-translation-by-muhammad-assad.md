@@ -1,7 +1,7 @@
 ---
 date: 2020-08-27
 group1: true
-hijri: Muharram 8, 1442
+hijri: '1442-01-08'
 lang: en
 layout: post
 mass_edited: true
@@ -13,6 +13,7 @@ summary: The translation by Muhammad Asad contains fatal errors and flagrant fal
 title: The translation of the Qur’an by Muhammad Asad contains fatal errors and flagrant
   false beliefs
 ---
+
 
 ### Question:
 We were informed that a translation of the Qur'an by Muhammad Asad would be published soon in  Dublin, Ireland. This translation will be distributed here. A committee, from among Indian Muslim Professors, has been formed to publish this translation.  Muhammad Asad alleges in his translation that Prophet 'Isa (Jesus) died and that the Muslims' belief in his return is not true. In the light of this allegation, I would like to ask the following questions: 

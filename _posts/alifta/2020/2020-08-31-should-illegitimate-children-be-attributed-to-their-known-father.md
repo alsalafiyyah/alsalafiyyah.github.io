@@ -1,7 +1,7 @@
 ---
 date: 2020-08-31
 group6: true
-hijri: Muharram 12, 1442 AH
+hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: Many misguided Muslim youth who work in France have illegal relationshi
   with women and make sexual intercourse with them outside the bond of marriage.
 title: Should illegitimate children be attributed to their known father?
 ---
+
 
 ### Question: 
 

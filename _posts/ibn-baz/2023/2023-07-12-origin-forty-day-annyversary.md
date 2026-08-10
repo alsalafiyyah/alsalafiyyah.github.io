@@ -1,20 +1,25 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "What is the origin of the forty-day anniversary?"
-hijri: Dhul-Hijjah 24, 1444 AH
-source: "Majmu’ Fatawa 13/398"
-category: [bidah,funerals]
-tags: [ibn-baz]
+title: What is the origin of the forty-day anniversary?
+hijri: '1444-12-24'
+source: Majmu’ Fatawa 13/398
+category:
+- bidah
+- funerals
+tags:
+- ibn-baz
 lang: en
 translation: false
 note: false
-summary: "The origin of this is a Pharaonic custom which was practised by the Pharaohs before Islam."
+summary: The origin of this is a Pharaonic custom which was practised by the Pharaohs
+  before Islam.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz/
---- 
+  shaykh:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz/
+---
+ 
 
 ### Question: 
 

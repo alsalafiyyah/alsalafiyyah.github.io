@@ -1,6 +1,6 @@
 ---
 date: 2024-07-28
-hijri: Muharram 22, 1446
+hijri: '1446-01-22'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: This Quranic verse is inclusive, including the Scholars and the Rulers,
 title: Obey Allah, the Messengerﷺ and those who are in authority
 translated_by: Abu 'Abdillah al-Kashmiri
 ---
+
 
 ### Question:
 May Allaah reward you, noble shaykh, what is your opinion with regards to the one who says: that which is intended by "**those in authority**" that are mentioned in the Ayah (Qur'anic Verse) they are the Ulema (scholars) and not the Rulers?

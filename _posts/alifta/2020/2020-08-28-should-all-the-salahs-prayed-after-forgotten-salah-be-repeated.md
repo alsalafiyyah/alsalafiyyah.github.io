@@ -1,7 +1,7 @@
 ---
 date: 2020/08/28
 group1: true
-hijri: Muharram 9, 1442
+hijri: '1442-01-09'
 lang: en
 layout: post
 mass_edited: true
@@ -13,6 +13,7 @@ summary: That person should offer Fajr Prayer only, and they do not have to repe
 title: Should all the Salahs prayed after a forgotten Salah be repeated when this
   Salah is remembered?
 ---
+
 
 ### Question: 
 

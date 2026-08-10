@@ -2,20 +2,26 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-06-10
-title: "The Reality of Bid'ah (Innovation)"
-source: "Fatawa Nur 'ala al-Darb, Tape no. 29"
-category: [audios, bidah]
-tags: [ibn-uthaymeen]
+title: The Reality of Bid'ah (Innovation)
+source: Fatawa Nur 'ala al-Darb, Tape no. 29
+category:
+- audios
+- bidah
+tags:
+- ibn-uthaymeen
 translation: true
 lang: en
-link: "https://binothaimeen.net/s/0zMJcPcH"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_029_01.mp3"
-summary: "Anyone who involves themselves in bid'ah (an innovation)—whether initiating it or continuing it—incurs sin."
+link: https://binothaimeen.net/s/0zMJcPcH
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_029_01.mp3
+summary: Anyone who involves themselves in bid'ah (an innovation)—whether initiating
+  it or continuing it—incurs sin.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
+hijri: '1447-12-24'
 ---
+
 
 Questioner:  Welcome, Your Eminence, Shaykh Muhammad.
 

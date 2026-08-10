@@ -2,20 +2,27 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-05-17
-title: "The Ruling on Visiting Graveyards After the Eid Prayer"
-source: "Fatawa Nur 'ala al-Darb, Tape no: 216"
-category: [fatwas, audios, funerals]
-tags: [ibn-uthaymeen]
-link: "https://binothaimeen.net/s/qTdhNx4R"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_216_23.mp3"
-summary: "This practice is a bid’ah (religious innovation). It was not the practice during the era of the Messenger, peace and blessings of Allah be upon him."
+title: The Ruling on Visiting Graveyards After the Eid Prayer
+source: 'Fatawa Nur ''ala al-Darb, Tape no: 216'
+category:
+- fatwas
+- audios
+- funerals
+tags:
+- ibn-uthaymeen
+link: https://binothaimeen.net/s/qTdhNx4R
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_216_23.mp3
+summary: This practice is a bid’ah (religious innovation). It was not the practice
+  during the era of the Messenger, peace and blessings of Allah be upon him.
 lang: en
 translation: true
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
+hijri: '1447-11-30'
 ---
+
 
 ### Question: 
 

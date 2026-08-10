@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 5, 1442 AH
+hijri: '1442-01-05'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ summary: This lofty Ayah indicates that those who possess knowledge about Allah,
 title: Tafsir Surah Fatir Ayat 28
 uid: tafsir-surah-fatir-28
 ---
+
 
 Question: 
 

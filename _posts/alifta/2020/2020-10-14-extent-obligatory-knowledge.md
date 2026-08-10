@@ -1,7 +1,7 @@
 ---
 book: Jihad and Hisbah
 chapter: Knowledge
-hijri: Safar 27, 1442 AH
+hijri: '1442-02-27'
 lang: en
 layout: post
 mass_edited: true
@@ -25,6 +25,7 @@ summary: It is obligatory on every Muslim to convey the knowledge they have, whe
   convey it, and this becomes obligatory if there is no one else who can do it.
 title: Extent of obligatory knowledge
 ---
+
 
 Question : 
 

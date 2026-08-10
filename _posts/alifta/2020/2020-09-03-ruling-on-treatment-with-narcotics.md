@@ -1,6 +1,6 @@
 ---
 date: 2020/09/3
-hijri: Muharram 15, 1442
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -19,6 +19,7 @@ summary: Treatment is not allowed by means of unlawful matters, for the legal ev
   that proves its prohibition.
 title: Ruling on treatment with narcotics
 ---
+
 
 ### Question:
 As a physician, it is sometimes necessary to use narcotics such as Morphine, Cocaine, and Valium in treatment. What is the ruling on this? What is the ruling on post-mortem anatomy? 

@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 12, 1442 AH
+hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: Your Eminence, is this Hadith Sahih (authentic)? We read it in Sahih Al
 title: 'The Hadith: ''You will have rulers some of whom you will approve of and some
   you will disapprove of'''
 ---
+
 
 Question:
 

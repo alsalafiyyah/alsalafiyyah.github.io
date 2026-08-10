@@ -2,20 +2,28 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-05-14
-title: "Is he permitted to marry off his daughter to one who commits major sins?"
-source: "Fatawa Nur 'ala al-Darb / Tape no: 157"
-category: [fatwas, audios, women, marriage]
-tags: [ibn-uthaymeen]
-link: "https://binothaimeen.net/s/wcvKCWXV"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_157_09.mp3"
-summary: "It is not permissible for you to marry your daughter to a man who commits adultery until his repentance is evident and his conduct becomes upright."
+title: Is he permitted to marry off his daughter to one who commits major sins?
+source: 'Fatawa Nur ''ala al-Darb / Tape no: 157'
+category:
+- fatwas
+- audios
+- women
+- marriage
+tags:
+- ibn-uthaymeen
+link: https://binothaimeen.net/s/wcvKCWXV
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_157_09.mp3
+summary: It is not permissible for you to marry your daughter to a man who commits
+  adultery until his repentance is evident and his conduct becomes upright.
 lang: en
 translation: true
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
+hijri: '1447-11-27'
 ---
+
 
 ### Question: 
 

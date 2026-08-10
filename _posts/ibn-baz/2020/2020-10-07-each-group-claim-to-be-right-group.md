@@ -1,18 +1,23 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Each group claims to be the right group"
-hijri: Safar 20, 1442
+title: Each group claims to be the right group
+hijri: '1442-02-20'
 lang: en
 note: false
-source: "Majmu' Fatawa Al-Shaykh Ibn Baz p. 7/119, question 5"
-category: [sects, fatwas]
-summary: "The group we should follow and comply with its methodology is that which follows Al-Sirat-ul-Mustaqim (the Straight Path), the Prophet (peace be upon him) and his Sunnah and the Qur'an."
+source: Majmu' Fatawa Al-Shaykh Ibn Baz p. 7/119, question 5
+category:
+- sects
+- fatwas
+summary: The group we should follow and comply with its methodology is that which
+  follows Al-Sirat-ul-Mustaqim (the Straight Path), the Prophet (peace be upon him)
+  and his Sunnah and the Qur'an.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question:
 Your Eminence, Fitnahs (temptations) have spread in the arena of Da'wah (calling to Islam) due to the presence of many Islamic groups. Among these groups are Jama'at Tabligh, Al-Ikhwan-ul-Muslimun (the Muslim Brotherhood; a political group also calling to Islam), Al-Salafiyyah (following the way of the salaf) and many others. Each group claims to be the right group in following the Sunnah. Would you please name the groups which are truthful and which of them are more entitled to be followed? 

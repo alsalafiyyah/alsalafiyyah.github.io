@@ -1,6 +1,6 @@
 ---
 date: 2020/09/3
-hijri: Muharram 15, 1442
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -24,6 +24,7 @@ summary: Seeking a cure by drinking the blood of any of these two tribes is not 
   to have a basis in the Shari'ah of Islam.
 title: Ruling on drinking the blood of human beings as a treatment for rabies
 ---
+
 
 ### Question:
 What is the ruling on drinking the blood of the Burazy family belonging to the two tribes of Al-Suhul and Matir if a person is bitten by a frantic animal? Why these two tribes in particular? Why do people not drink the blood of any other tribe? 

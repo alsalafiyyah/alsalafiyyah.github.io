@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -23,6 +23,7 @@ summary: You should call to the path of Allah as much as you can. We ask Allah, 
   do so.
 title: Wishing to migrate to France where things are tough on Muslims
 ---
+
 
 ### Question: 
 

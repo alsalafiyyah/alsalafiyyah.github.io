@@ -1,6 +1,6 @@
 ---
 date: 2019-08-31
-hijri: Muharram 01, 1441 AH
+hijri: '1441-01-01'
 lang: en
 layout: post
 mass_edited: true
@@ -23,6 +23,7 @@ tags:
 title: The meaning of Tawhid Rububiyyah and Tawhid Uluhiyyah
 translation: false
 ---
+
 
 ### Question: 
 

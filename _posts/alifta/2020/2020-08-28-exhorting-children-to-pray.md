@@ -1,7 +1,7 @@
 ---
 date: 2020/08/28
 group1: true
-hijri: Muharram 9, 1442 AH
+hijri: '1442-01-09'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: When a child reaches the age of seven, the guardian should command them
   perform Salah in order to get them used to it.
 title: Exhorting children to pray
 ---
+
 
 ### Question: 
 

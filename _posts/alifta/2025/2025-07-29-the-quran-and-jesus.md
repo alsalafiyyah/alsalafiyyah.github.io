@@ -1,6 +1,6 @@
 ---
 date: 2025-07-29
-hijri: Safar 4, 1447 AH
+hijri: '1447-02-04'
 lang: en
 layout: post
 mass_edited: true
@@ -26,6 +26,8 @@ tags:
 title: 'Which is better: The Qur''an or ''Isa (peace be upon him)'
 translation: false
 ---
+
+
 
 ### Question"
 

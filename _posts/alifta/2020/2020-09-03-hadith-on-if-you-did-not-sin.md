@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 14, 1442 AH
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: 'what is the meaning of the Hadith of the Prophet (peace be upon him) t
   other than you who would sin and ask for forgiveness.'''
 title: 'Hadith: ''By the One in Whose Hand is my soul, if you did not sin'''
 ---
+
 
 Question:
 

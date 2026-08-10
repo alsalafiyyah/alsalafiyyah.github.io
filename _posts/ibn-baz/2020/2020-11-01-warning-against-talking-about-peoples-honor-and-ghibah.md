@@ -1,18 +1,22 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Warning against talking about people's honor and Ghibah"
-hijri: "Rabi' Al-Awwal 15, 1442 AH"
-source: "Published in Al-Madinah newspaper on 27/10/1416 A.H"
+title: Warning against talking about people's honor and Ghibah
+hijri: '1442-03-15'
+source: Published in Al-Madinah newspaper on 27/10/1416 A.H
 lang: en
-category: [ghibah, fitnahs]
+category:
+- ghibah
+- fitnahs
 note: false
-summary: "Saying things about Muslims which they dislike is a major reprehensible matter in religion, falling under the prohibited backbiting."
+summary: Saying things about Muslims which they dislike is a major reprehensible matter
+  in religion, falling under the prohibited backbiting.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

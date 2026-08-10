@@ -1,7 +1,7 @@
 ---
 date: 2020/09/3
 group1: true
-hijri: Muharram 15, 1442
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: There is no harm in using cologne with alcohol for medical purposes suc
   as a disinfectant for injuries.
 title: Ruling on cleaning with cologne and alcohol
 ---
+
 
 ### Question:
 What is the ruling on using cologne with alcohol for medical purposes such as a disinfectant for injuries? Also what is the ruling on beer, and what about alcohol-free beer?  

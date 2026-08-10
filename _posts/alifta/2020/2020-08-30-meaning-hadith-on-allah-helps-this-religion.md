@@ -1,6 +1,6 @@
 ---
 date: 2020/08/30
-hijri: Muharram 11, 1442 AH
+hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
@@ -20,6 +20,7 @@ summary: 'What is the meaning of the following Hadith: ''Verily, Allah helps thi
   religion (Islam) even through a wicked person.'' What is its meaning?'
 title: 'The Hadith: ''Verily, Allah helps this religion even through a wicked person'''
 ---
+
 
 Question: 
 

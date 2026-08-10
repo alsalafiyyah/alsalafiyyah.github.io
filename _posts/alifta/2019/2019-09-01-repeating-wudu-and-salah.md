@@ -1,7 +1,7 @@
 ---
 date: 2019-09-01
 group1: true
-hijri: Muharram 02, 1441 AH
+hijri: '1441-01-02'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ title: Repeating ablution and Prayer if a person knows that some impurity was di
   during Salah
 translation: false
 ---
+
 
 ### Question : 
 

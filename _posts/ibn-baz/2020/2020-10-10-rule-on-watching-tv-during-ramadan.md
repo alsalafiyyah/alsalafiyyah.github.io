@@ -1,19 +1,26 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on watching movies and television and playing cards during the daytime in Ramadan"
-hijri: Safar 23, 1442
-source: "Fatawa Al-Shaykh Ibn Baz 15/316"
+title: Ruling on watching movies and television and playing cards during the daytime
+  in Ramadan
+hijri: '1442-02-23'
+source: Fatawa Al-Shaykh Ibn Baz 15/316
 lang: en
 locale: en
 note: false
-category: [fatwas,fasting]
-summary: "Muslims, whether fasting or not, should fear Allah with regard to what they do or do not do at all times. They should avoid forbidden matters such as watching obscene movies which depict things that Allah has prohibited including naked and semi-naked pictures."
+category:
+- fatwas
+- fasting
+summary: Muslims, whether fasting or not, should fear Allah with regard to what they
+  do or do not do at all times. They should avoid forbidden matters such as watching
+  obscene movies which depict things that Allah has prohibited including naked and
+  semi-naked pictures.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

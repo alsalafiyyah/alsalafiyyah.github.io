@@ -1,6 +1,6 @@
 ---
 group1: true
-hijri: Muharram 12, 1442
+hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
@@ -14,6 +14,7 @@ tags:
 title: Ruling on believing in Shadhiliyyah Sufi order
 translation: false
 ---
+
 
 ### Question: 
 

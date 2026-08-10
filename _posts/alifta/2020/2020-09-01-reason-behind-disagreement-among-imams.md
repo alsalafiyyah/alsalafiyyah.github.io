@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 13, 1442 AH
+hijri: '1442-01-13'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: What are the causes of disagreement in legal opinions among Imams Malik
   Al-Shafi'i and Ahmad ibn Hanbal (may Allah be Merciful with them)?
 title: Reason behind disagreement among Imams Malik, Ahmad and Al-Shafi'i
 ---
+
 
 Question:
 

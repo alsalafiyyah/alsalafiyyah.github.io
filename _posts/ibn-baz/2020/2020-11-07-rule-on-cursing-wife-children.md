@@ -1,18 +1,23 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on cursing one's children or wife"
-hijri: "Rabi' Al-Awwal 21, 1442 AH"
-source: "Fatawa Al-Shaykh Ibn Baz 8/398 and published in Al-Da'wah magazine, issue no. 1320, on 6/6/1412 A.H"
+title: Ruling on cursing one's children or wife
+hijri: '1442-03-21'
+source: Fatawa Al-Shaykh Ibn Baz 8/398 and published in Al-Da'wah magazine, issue
+  no. 1320, on 6/6/1412 A.H
 lang: en
-category: [marriage]
+category:
+- marriage
 note: false
-summary: "It is not permissible to curse one’s wife. Cursing her is not a form of divorce and she is still married to him. He has to repent to Allah (Exalted be He) and seek her forgiveness for this insult."
+summary: It is not permissible to curse one’s wife. Cursing her is not a form of divorce
+  and she is still married to him. He has to repent to Allah (Exalted be He) and seek
+  her forgiveness for this insult.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question:
 

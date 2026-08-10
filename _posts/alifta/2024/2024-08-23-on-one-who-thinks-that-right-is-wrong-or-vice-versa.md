@@ -1,6 +1,6 @@
 ---
 date: 2024-08-23
-hijri: Safar 19, 1446 AH
+hijri: '1446-02-19'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: The people you have described those whose understanding has been distor
   until they see good as evil and evil as good.
 title: 'The ruling on one who thinks that ''right is wrong and vice versa'' '
 ---
+
 
 ### Question:
 What is your opinion about people whose judgements have become perverse: **they deem evil to be good, and good to be evil** ?

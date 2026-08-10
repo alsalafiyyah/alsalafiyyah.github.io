@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 5, 1441
+hijri: '1441-12-05'
 lang: en
 layout: post
 mass_edited: true
@@ -19,6 +19,7 @@ summary: It is not permissible to share in their (Disbelievers) occasions, which
   in Islam).
 title: Ruling on attending mushrik weddings
 ---
+
 
 ### Question: 
 

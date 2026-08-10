@@ -1,6 +1,6 @@
 ---
 active: audios
-hijri: Dhul-Hijjah 16, 1441
+hijri: '1441-12-16'
 lang: en
 layout: post
 link: https://cutt.ly/KdDevcg
@@ -21,6 +21,7 @@ title: 'On false statement: ''Anyone who does not have a shaykh, his shaykh will
   the devil'''
 translation: false
 ---
+
 
 ### Question:
 

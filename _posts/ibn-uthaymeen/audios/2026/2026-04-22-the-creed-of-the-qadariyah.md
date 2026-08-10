@@ -2,19 +2,25 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-04-22
-hijri: "Dhu al-Qidah 5, 1447 AH"
-title: "The Creed of the Qadariyah: Deniers of Divine Decree"
-source: "Liqa' al-Bab al-Maftuh 233"
-category: [fatwas,sects,audios]
-tags: [ibn-uthaymeen]
-url: "https://binothaimeen.net/s/dRK8Mfpd"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_233_04.mp3"
-summary: "The Qadariyah means those who deny Divine Decree. They are attributed to Qadar even though they do not believe in it."
+hijri: '1447-11-05'
+title: 'The Creed of the Qadariyah: Deniers of Divine Decree'
+source: Liqa' al-Bab al-Maftuh 233
+category:
+- fatwas
+- sects
+- audios
+tags:
+- ibn-uthaymeen
+url: https://binothaimeen.net/s/dRK8Mfpd
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_233_04.mp3
+summary: The Qadariyah means those who deny Divine Decree. They are attributed to
+  Qadar even though they do not believe in it.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
 ---
+
 
 ### Question: 
 

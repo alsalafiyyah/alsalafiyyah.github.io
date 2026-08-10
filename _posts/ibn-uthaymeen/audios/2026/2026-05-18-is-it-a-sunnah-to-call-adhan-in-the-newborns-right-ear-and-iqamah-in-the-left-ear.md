@@ -2,20 +2,28 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-05-18
-title: "Is it a Sunnah to Call the Adhan in the Newborn's Right Ear and the Iqamah in the Left Ear?"
-source: "Liqa'a al-Bab al-Maftuh 183"
-category: [fatwas, audios, women]
-tags: [ibn-uthaymeen]
-link: "https://binothaimeen.net/s/h2FGolem"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_183_05.mp3"
-summary: "As for the Adhan, it has an established basis, and the narration concerning it is good (Hasan) and acceptable."
+title: Is it a Sunnah to Call the Adhan in the Newborn's Right Ear and the Iqamah
+  in the Left Ear?
+source: Liqa'a al-Bab al-Maftuh 183
+category:
+- fatwas
+- audios
+- women
+tags:
+- ibn-uthaymeen
+link: https://binothaimeen.net/s/h2FGolem
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_183_05.mp3
+summary: As for the Adhan, it has an established basis, and the narration concerning
+  it is good (Hasan) and acceptable.
 lang: en
 translation: true
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
+hijri: '1447-12-01'
 ---
+
 
 ### Question: 
 

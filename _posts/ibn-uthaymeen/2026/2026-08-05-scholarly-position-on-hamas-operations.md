@@ -1,18 +1,24 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Scholarly Position on Hamas Operations"
+title: Scholarly Position on Hamas Operations
 date: 2026-08-05
-source: "Liqa' al-Bab al-Maftuh 54/10"
-category: [palestine]
-tags: [ibn-uthaymeen]
+source: Liqa' al-Bab al-Maftuh 54/10
+category:
+- palestine
+tags:
+- ibn-uthaymeen
 lang: en
-summary: "We hear that they carry out operations against the Jews, and we view the Jews as a people of treachery and betrayal, incapable of fulfilling promises to anyone, no matter what they pretend to show."
+summary: We hear that they carry out operations against the Jews, and we view the
+  Jews as a people of treachery and betrayal, incapable of fulfilling promises to
+  anyone, no matter what they pretend to show.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
+hijri: '1448-02-22'
 ---
+
 
 ### Question: 
 

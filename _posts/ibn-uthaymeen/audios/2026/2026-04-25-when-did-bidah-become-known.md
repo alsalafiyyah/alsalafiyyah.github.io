@@ -2,20 +2,27 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-04-25
-hijri: "Dhu al-Qidah 8, 1447 AH"
-title: "When Did Bid'ah Become Known?"
-source: "Fatawa Nur Ala ad-Darb, tape no.287-02"
-category: [fatwas,audios,bidah,sects]
-tags: [ibn-uthaymeen]
-url: "https://binothaimeen.net/s/guEyzXjr"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_287_02.mp3"
+hijri: '1447-11-08'
+title: When Did Bid'ah Become Known?
+source: Fatawa Nur Ala ad-Darb, tape no.287-02
+category:
+- fatwas
+- audios
+- bidah
+- sects
+tags:
+- ibn-uthaymeen
+url: https://binothaimeen.net/s/guEyzXjr
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_287_02.mp3
 active: audios
-summary: "Bid'ah appeared toward the end of the era of the Companions (may Allah be pleased with them), but you would find them as innovations regarding specific issues."
+summary: Bid'ah appeared toward the end of the era of the Companions (may Allah be
+  pleased with them), but you would find them as innovations regarding specific issues.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
 ---
+
 
 ### Question: 
 

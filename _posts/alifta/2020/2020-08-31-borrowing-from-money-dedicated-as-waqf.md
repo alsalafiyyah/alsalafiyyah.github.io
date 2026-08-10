@@ -1,6 +1,6 @@
 ---
 date: 2020-08-31
-hijri: Muharram 12, 1442
+hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: If the reality is as you mentioned, meaning, that you returned the mone
   been more precautionary if you had borrowed from elsewhere.
 title: Ruling on borrowing from money dedicated as Waqf
 ---
+
 
 ### Question: 
 

@@ -1,7 +1,7 @@
 ---
 date: 2020/08/26
 group1: true
-hijri: Muharram 7, 1442
+hijri: '1442-01-07'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: Prophet Nuh was the first messenger sent to the people on earth after A
   This is based on the long Hadith of intercession narrated in the Two Sahihs.
 title: Was there any messenger before Noah?
 ---
+
 
 ### Question:
 Allah sent 313 messengers; the first of them was Nuh (Noah) and the last was Muhammad. Was there a messenger sent before Nuh?

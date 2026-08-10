@@ -2,18 +2,25 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-04-28
-hijri: "Dhu al-Qidah 11, 1447 AH"
-title: "Justice vs. Disavowal: Dealing with Non-Muslims"
-category: [fatwas,audios,non-muslim,walabara]
-tags: [salih-ibn-fawzan]
-mp3: "/assets/audios/wisdom-over-revenge.mp3"
+hijri: '1447-11-11'
+title: 'Justice vs. Disavowal: Dealing with Non-Muslims'
+category:
+- fatwas
+- audios
+- non-muslim
+- walabara
+tags:
+- salih-ibn-fawzan
+mp3: /assets/audios/wisdom-over-revenge.mp3
 active: audios
-summary: "We do not love the polytheists or the disbelievers, but we do not treat them unjustly without right."
+summary: We do not love the polytheists or the disbelievers, but we do not treat them
+  unjustly without right.
 muftis:
-  shaykh: 
-    - name: "Shaykh Salih al-Fawzan"
-      url: "/biography/fawzan/"
+  shaykh:
+  - name: Shaykh Salih al-Fawzan
+    url: /biography/fawzan/
 ---
+
 
 ### Question: 
 

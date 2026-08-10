@@ -2,19 +2,25 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-05-25
-title: "Sound Knowledge: A Shield Against Tribulation"
-category: [fatwas,audios]
-tags: [salih-ibn-fawzan]
-mp3: "https://audio.alfawzan.live/2021-09/m015.mp3"
-url: "https://alfawzan.live/content/18432/"
-source: "Fatwa No. 18432"
+title: 'Sound Knowledge: A Shield Against Tribulation'
+category:
+- fatwas
+- audios
+tags:
+- salih-ibn-fawzan
+mp3: https://audio.alfawzan.live/2021-09/m015.mp3
+url: https://alfawzan.live/content/18432/
+source: Fatwa No. 18432
 active: audios
-summary: "I advise you to seek knowledge, to seek knowledge from the people of knowledge (the scholars), and to be eager in seeking knowledge."
+summary: I advise you to seek knowledge, to seek knowledge from the people of knowledge
+  (the scholars), and to be eager in seeking knowledge.
 muftis:
-  shaykh: 
-    - name: "Shaykh Salih al-Fawzan"
-      url: "/biography/fawzan/"
+  shaykh:
+  - name: Shaykh Salih al-Fawzan
+    url: /biography/fawzan/
+hijri: '1447-12-08'
 ---
+
 
 ### Question: 
 

@@ -5,7 +5,7 @@ article_taken_from:
     web_url: https://al-fatawa.com/fatwa/106117
 date: 2024-08-05
 group1: true
-hijri: Safar 01, 1446 AH
+hijri: '1446-02-01'
 lang: en
 layout: post
 mass_edited: true
@@ -20,6 +20,7 @@ tags:
 title: It is impermissible for a Muslim to elect a communist
 translation: false
 ---
+
 
 ### Question: 
 

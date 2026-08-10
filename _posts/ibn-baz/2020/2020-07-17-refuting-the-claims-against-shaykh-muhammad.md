@@ -1,19 +1,23 @@
 ---
 layout: post
 title: Refuting the claims against Shaykh Muhammad ibn Abdul-Wahhab and his Da'wah
-publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa al-Shaykh ibn Baz 9/234"
+publisher: alsalafiyyah@icloud.com
+source: Majmu' Fatawa al-Shaykh ibn Baz 9/234
 date: 2020-07-17
-hijri: Dhul-Qa'dah 26, 1441
+hijri: '1441-11-26'
 lang: en
 active: wahhabi
-category: [wahhabism,manhaj]
-summary: "What is the ruling on someone who attacks and slanders Imam Muhammad Ibn 'Abdul-Wahhab and his Da'wah."
+category:
+- wahhabism
+- manhaj
+summary: What is the ruling on someone who attacks and slanders Imam Muhammad Ibn
+  'Abdul-Wahhab and his Da'wah.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

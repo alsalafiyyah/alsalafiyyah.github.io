@@ -1,6 +1,6 @@
 ---
 date: 2024-07-25
-hijri: Muharram 19, 1446 AH
+hijri: '1446-01-19'
 lang: en
 layout: post
 mass_edited: true
@@ -14,6 +14,7 @@ summary: This means whoever turns away from my way that I follow, then he is not
   me. This is because they have chosen another way than the path of the Prophet ﷺ.
 title: Concerning the Hadith 'Whoever Turns Away From My Sunnah'
 ---
+
 
 ### Question:
 What is the meaning of the Hadith: **"Whoever turns away from my Sunnah, then he is not of me."** Does one fall under this category when he doesn't pray the Sunnah prayers that come before and after the obligatory one?

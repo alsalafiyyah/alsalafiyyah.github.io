@@ -1,7 +1,7 @@
 ---
 date: 2020-08-28
 group1: true
-hijri: Muharram 9, 1442
+hijri: '1442-01-09'
 lang: en
 layout: post
 mass_edited: true
@@ -10,6 +10,7 @@ source: Fatawa Al-Lajnah Ad-Da'imah no. 1621, question 7
 summary: Surely, in disbelief are they who say that Allâh is the Messiah, son of Mary.
 title: Jesus was no more than a Messenger of Allah
 ---
+
 
 ## Question:
 This question includes Ayahs (Qur’anic verses) which the Qadianis (a deviant sect) quote as evidence for their opinion. They say that ‘Isa (Jesus) is dead and buried. I hope you will explain these Ayahs (Quranic verses) and refute their claims :

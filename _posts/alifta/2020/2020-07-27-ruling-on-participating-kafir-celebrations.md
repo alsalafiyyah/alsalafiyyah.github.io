@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -17,6 +17,7 @@ summary: Is it permissible for a Muslim to participate with Christians in their 
   condolences to the bereaved in or outside the cemetery?
 title: Ruling on participating with Christians in their non-religious celebrations
 ---
+
 
 ### Question: 
 

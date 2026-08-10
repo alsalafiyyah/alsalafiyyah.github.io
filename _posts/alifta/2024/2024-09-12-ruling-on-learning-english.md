@@ -1,7 +1,7 @@
 ---
 date: 2024-09-12
 group1: true
-hijri: Rabiul Awwal 09, 1446
+hijri: '1446-03-09'
 lang: en
 layout: post
 mass_edited: true
@@ -10,6 +10,7 @@ summary: If there is a religious or worldly need for learning the English langua
   or other foreign languages, there is no harm in learning it.
 title: Is learning English haram?
 ---
+
 
 ### Question: 
 Is it Haram (prohibited) or Halal (lawful) to learn the English language?

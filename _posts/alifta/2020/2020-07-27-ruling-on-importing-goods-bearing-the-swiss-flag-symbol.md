@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -20,6 +20,7 @@ summary: It is not permissible to import pocketknives on which the logo referred
   logo among Muslims.
 title: Ruling on importing goods bearing the Swiss flag symbol
 ---
+
 
 ### Question: 
 

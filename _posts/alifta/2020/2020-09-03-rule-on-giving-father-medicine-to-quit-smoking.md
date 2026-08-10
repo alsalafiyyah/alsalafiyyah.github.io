@@ -1,6 +1,6 @@
 ---
 date: 2020/09/3
-hijri: Muharram 15, 1442
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -24,6 +24,7 @@ summary: Smoking tobacco is Haram for it causes great harm and has no benefit at
   Whoever smokes should give it up and repent of it.
 title: Ruling on giving the father a medicine to quit smoking without his knowledge
 ---
+
 
 ### Question:
 My father smokes tobacco, but we have found a drug that will rid him of this habit forever. The drug will cause him to be ill for two or three days; is it permissible for me to give it to him without his knowledge? You should bear in mind that he refuses to take it, while smoking causes him a number of problems.

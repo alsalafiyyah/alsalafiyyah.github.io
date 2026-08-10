@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 8, 1441 AH
+hijri: '1441-12-08'
 lang: en
 layout: post
 mass_edited: true
@@ -13,6 +13,7 @@ summary: These Four Madhabs are well-known schools which have spread during the 
   century and the later centuries.
 title: The Four Juristic Schools and their authenticity
 ---
+
 
 Question: 
 

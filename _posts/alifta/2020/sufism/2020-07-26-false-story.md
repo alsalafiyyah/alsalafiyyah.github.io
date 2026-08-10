@@ -1,6 +1,6 @@
 ---
 group5: true
-hijri: Dhul-Hijjah 5, 1441
+hijri: '1441-12-05'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,8 @@ tags:
 title: False story made by the Sufi Shaykh of Jama'at Tabligh
 translation: false
 ---
+
+
 
 ### Question: 
 

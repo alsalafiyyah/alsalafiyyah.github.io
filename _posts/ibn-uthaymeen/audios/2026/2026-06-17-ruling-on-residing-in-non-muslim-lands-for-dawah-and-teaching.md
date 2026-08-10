@@ -2,18 +2,24 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-06-17
-title: "Ruling on Residing in Non-Muslim Lands for Da'wah and Teaching"
-category: [audios,hijrah]
-tags: [ibn-uthaymeen]
+title: Ruling on Residing in Non-Muslim Lands for Da'wah and Teaching
+category:
+- audios
+- hijrah
+tags:
+- ibn-uthaymeen
 lang: en
-link: "https://alathar.net/home/esound/index.php?op=codevi&coid=62338"
-mp3: "https://www.alathar.net//files/sound/alothaymeen/leqamaftooh/split-057a-3.mp3"
-summary: "Residing among the polytheists undoubtedly causes harm, and a person exposes themselves to tribulation and evil."
+link: https://alathar.net/home/esound/index.php?op=codevi&coid=62338
+mp3: https://www.alathar.net//files/sound/alothaymeen/leqamaftooh/split-057a-3.mp3
+summary: Residing among the polytheists undoubtedly causes harm, and a person exposes
+  themselves to tribulation and evil.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
+hijri: '1448-01-02'
 ---
+
 
 ### Question:
 

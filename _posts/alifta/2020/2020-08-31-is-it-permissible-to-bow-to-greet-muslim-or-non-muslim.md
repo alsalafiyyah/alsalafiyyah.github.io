@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 12, 1442
+hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: It's not permissible to bow to greet a Muslim or a non-Muslim whether b
   worship and 'Ibadah should be devoted to Allah Alone.
 title: Is it permissible to bow to greet a Muslim or a non-Muslim?
 ---
+
 
 ### Question: 
 

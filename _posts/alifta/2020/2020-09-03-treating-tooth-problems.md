@@ -1,6 +1,6 @@
 ---
 date: 2020/09/3
-hijri: Muharram 15, 1442
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -24,6 +24,7 @@ summary: Is pulling out natural teeth and replacing them with artificial ones co
   an offence of trying to change the creation of Allah?
 title: Treating tooth problems
 ---
+
 
 ### Question:
 Is pulling out natural teeth and replacing them with artificial ones considered an offence of trying to change the creation of Allah? 

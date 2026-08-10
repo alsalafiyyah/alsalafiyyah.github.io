@@ -1,18 +1,25 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "We do not declare a Muslim as a disbeliever for committing a sin unless he believes it is lawful."
-hijri: Safar 07, 1442
-source: "Majmu' Fatawa Ibn Baz 28/146, question 1"
+title: We do not declare a Muslim as a disbeliever for committing a sin unless he
+  believes it is lawful.
+hijri: '1442-02-07'
+source: Majmu' Fatawa Ibn Baz 28/146, question 1
 lang: en
 locale: en
-category: [fatwas,takfir, sects]
-summary: "Ahlus-Sunnah do not consider a person who commits sins while knowing that they are Haram as a kafir but he is regarded as disobedient and of weak belief and should be submitted to Had."
+category:
+- fatwas
+- takfir
+- sects
+summary: Ahlus-Sunnah do not consider a person who commits sins while knowing that
+  they are Haram as a kafir but he is regarded as disobedient and of weak belief and
+  should be submitted to Had.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 Some people ascribe the following saying of Salaf (righteous predecessor): "**We do not declare a Muslim as a disbeliever for committing a sin unless he believes it is lawful.**" to Al-Murji'ah (a deviant Islamic sect claiming that Faith is restricted to belief not deeds), is this right?

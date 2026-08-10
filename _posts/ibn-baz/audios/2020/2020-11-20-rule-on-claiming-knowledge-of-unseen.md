@@ -1,20 +1,26 @@
 ---
 layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "The Ruling on Claimants of the Unseen and Vows to the Deceased"
-mp3: "https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_871/nour_87107.mp3"
-hijri: "Rabi' Al-Thani 05, 1442"
+publisher: alsalafiyyah@icloud.com
+title: The Ruling on Claimants of the Unseen and Vows to the Deceased
+mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_871/nour_87107.mp3
+hijri: '1442-04-05'
 date: 2020-11-20
 active: audios
-category: [audios,sects]
-tags: [ibn-baz]
-url: "https://binbaz.org.sa/fatwas/17747/%D8%A7%D9%84%D8%AD%D9%83%D9%85-%D8%B9%D9%84%D9%89-%D9%85%D9%86-%D9%8A%D8%AF%D8%B9%D9%8A-%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%BA%D9%8A%D8%A8"
-summary: "This man must be reported to the responsible authorities, if there is an authority in the country responsible for such cases, so that he may be deterred from his evil actions and held accountable."
+category:
+- audios
+- sects
+tags:
+- ibn-baz
+url: https://binbaz.org.sa/fatwas/17747/%D8%A7%D9%84%D8%AD%D9%83%D9%85-%D8%B9%D9%84%D9%89-%D9%85%D9%86-%D9%8A%D8%AF%D8%B9%D9%8A-%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%BA%D9%8A%D8%A8
+summary: This man must be reported to the responsible authorities, if there is an
+  authority in the country responsible for such cases, so that he may be deterred
+  from his evil actions and held accountable.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question:
 

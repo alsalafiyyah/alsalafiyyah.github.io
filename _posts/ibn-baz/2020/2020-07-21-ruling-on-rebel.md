@@ -1,19 +1,23 @@
 ---
 layout: post
-title: "Ruling on rebel against the rulers"
-publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat 8/202"
-category: [rulership]
-hijri: "Dhul-Qa'dah 30, 1441 AH"
+title: Ruling on rebel against the rulers
+publisher: alsalafiyyah@icloud.com
+source: Majmu' Fatawa wa Maqalat 8/202
+category:
+- rulership
+hijri: '1441-11-30'
 translation: false
-tags: [ibn-baz]
+tags:
+- ibn-baz
 lang: en
-summary: "The Nas from the Sunnah explains the meaning and confines the absoluteness of the Ayah to obeying the Muslims in authority in what is judged to be Ma‘ruf."
+summary: The Nas from the Sunnah explains the meaning and confines the absoluteness
+  of the Ayah to obeying the Muslims in authority in what is judged to be Ma‘ruf.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

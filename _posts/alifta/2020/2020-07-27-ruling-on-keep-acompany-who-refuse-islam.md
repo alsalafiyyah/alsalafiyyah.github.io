@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -19,6 +19,7 @@ summary: Is it permissible to keep company with a non-Muslim brother whom you ca
   to accept Islam but he refused?
 title: Ruling on keeping the company of a brother who refuses to enter Islam
 ---
+
 
 ### Question: 
 

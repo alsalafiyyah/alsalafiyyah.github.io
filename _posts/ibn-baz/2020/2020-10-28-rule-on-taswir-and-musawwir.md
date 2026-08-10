@@ -1,19 +1,24 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on painting, drawing, sculpture, photography"
-hijri: "Rabi' Al-Awwal 11, 1442"
-source: "One of the questions of Hajj for the year 1418 A.H"
+title: Ruling on painting, drawing, sculpture, photography
+hijri: '1442-03-11'
+source: One of the questions of Hajj for the year 1418 A.H
 lang: en
 locale: en
-category: [fatwas,taswir]
+category:
+- fatwas
+- taswir
 note: false
-summary: "Every Muslim should avoid Taswir. It is authentically reported that the Prophet - peace be upon him - cursed the consumer of usury, the one who pays it, the Musawwir, she who tattoos and she who gets tattooed."
+summary: Every Muslim should avoid Taswir. It is authentically reported that the Prophet
+  - peace be upon him - cursed the consumer of usury, the one who pays it, the Musawwir,
+  she who tattoos and she who gets tattooed.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

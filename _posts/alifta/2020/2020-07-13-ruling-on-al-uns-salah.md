@@ -1,6 +1,6 @@
 ---
 group19: true
-hijri: Dhul-Qa'dah 22, 1441
+hijri: '1441-11-22'
 lang: en
 layout: post
 mass_edited: true
@@ -13,6 +13,7 @@ tags:
 title: Ruling on Al-Uns Salah
 translation: false
 ---
+
 
 ### Question: 
 

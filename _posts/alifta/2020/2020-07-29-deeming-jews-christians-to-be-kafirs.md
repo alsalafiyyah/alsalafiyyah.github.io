@@ -1,6 +1,6 @@
 ---
 group1: true
-hijri: Dhul-Hijjah 8, 1441 AH
+hijri: '1441-12-08'
 lang: en
 layout: post
 mass_edited: true
@@ -13,6 +13,7 @@ tags:
 title: Rule on Deeming Jews and Christians to be disbelievers
 translation: false
 ---
+
 
 ### Question: 
 

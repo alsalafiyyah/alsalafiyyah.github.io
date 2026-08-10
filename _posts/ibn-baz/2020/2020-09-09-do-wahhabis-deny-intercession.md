@@ -5,7 +5,7 @@ article_taken_from:
   - web_title: لا ينكر مسلم شفاعة الرسول
     web_url: https://binbaz.org.sa/fatwas/27/%D9%84%D8%A7-%D9%8A%D9%86%D9%83%D8%B1-%D9%85%D8%B3%D9%84%D9%85-%D8%B4%D9%81%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%84
 date: 2020-09-09
-hijri: Dhul-Hijjah 19, 1441
+hijri: '1442-01-21'
 lang: en
 layout: post
 mass_edited: true
@@ -20,6 +20,7 @@ summary: Do Wahhabis deny intercession by the Messenger of Allah, peace and bles
   be upon him?
 title: Do Wahhabis deny Shafa’ah (intercession)
 ---
+
 
 ### Question: 
 Do Wahhabis deny Shafa’ah (intercession) by the Messenger of Allah (peace be upon him)?

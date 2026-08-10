@@ -1,6 +1,6 @@
 ---
 group1: true
-hijri: Muharram 12, 1442 AH
+hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ tags:
 title: Ruling on standing up as a way of honoring the national anthem
 translation: false
 ---
+
 
 ### Question: 
 

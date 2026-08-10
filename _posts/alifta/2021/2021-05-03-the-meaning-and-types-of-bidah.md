@@ -1,6 +1,6 @@
 ---
 group1: true
-hijri: Ramadan 21, 1442 AH
+hijri: '1442-09-21'
 lang: en
 layout: post
 mass_edited: true
@@ -13,6 +13,7 @@ tags:
 title: The meaning and types of Bid'ah
 translation: false
 ---
+
 
 ### Question: 
 

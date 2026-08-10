@@ -1,6 +1,6 @@
 ---
 group1: true
-hijri: Dhul-Qa'dah 9, 1441AH
+hijri: '1441-11-19'
 lang: en
 layout: post
 mass_edited: true
@@ -13,6 +13,7 @@ tags:
 title: Ruling on placing book in the grave
 translation: false
 ---
+
 
 ### Question: 
 

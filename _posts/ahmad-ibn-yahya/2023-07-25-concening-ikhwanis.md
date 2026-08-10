@@ -1,23 +1,26 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Who Are The Ikhwanul Muslimin"
-hijri: "Muharram 07, 1445"
-source: "Al-Fatawa Al-Jaliyyah ‘anil-Manahij Al-Da’wiyyah pg. 51-55"
+title: Who Are The Ikhwanul Muslimin
+hijri: '1445-01-07'
+source: Al-Fatawa Al-Jaliyyah ‘anil-Manahij Al-Da’wiyyah pg. 51-55
 lang: en
-category: [sects]
-tags: [ahmad-ibn-yahya]
+category:
+- sects
+tags:
+- ahmad-ibn-yahya
 translation: false
-summary: "The founder of this methodology was a Sufi. He had a connection with Sufism."
-article_taken_from: 
+summary: The founder of this methodology was a Sufi. He had a connection with Sufism.
+article_taken_from:
   taken_from:
-    - web_title: Modern Day Devient Groups
-      web_url: "https://abdurrahman.org/2014/01/15/moderndaydevientgroups/"
+  - web_title: Modern Day Devient Groups
+    web_url: https://abdurrahman.org/2014/01/15/moderndaydevientgroups/
 muftis:
-  shaykh: 
-    - name: Shaykh Ahmad Ibn Yahya An-Najmi
-      url: /biography/ahmad-alnajmi
---- 
+  shaykh:
+  - name: Shaykh Ahmad Ibn Yahya An-Najmi
+    url: /biography/ahmad-alnajmi
+---
+ 
 
 They are the followers of Hasan Al-Banna. There are several points to be noted about their methodology, the most important of which are the following:
 

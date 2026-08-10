@@ -5,7 +5,7 @@ article_taken_from:
     web_url: https://al-fatawa.com/fatwa/104830
 date: 2024-08-06
 group5: true
-hijri: Safar 02, 1446 AH
+hijri: '1446-02-02'
 lang: en
 layout: post
 mass_edited: true
@@ -17,6 +17,7 @@ summary: How can glory and might be to Muslims when they are so weak in a corrup
 title: Muslims can not achieve glory or overcome their enemies unless they obey Allah
   and His Messenger
 ---
+
 
 ### Question: 
 How can glory and might be to Muslims when they are so weak in a corrupted world that Christians and Jews predominate?

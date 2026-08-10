@@ -1,6 +1,6 @@
 ---
 date: 2020/09/3
-hijri: Muharram 15, 1442
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -24,6 +24,7 @@ summary: The impermissibility mentioned above applies to using the fat of these 
   for medical treatment as well.
 title: Ruling on treatment with tiger fat
 ---
+
 
 ### Question:
 What is the ruling on so-called (tiger fat) that is currently widespread in the market? Is it permissible to use it for treatment? 

@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -19,6 +19,7 @@ summary: It is impermissible to have a friendly relationship with non-Muslims or
   mingle with them in a manner that may tempt (mislead) a Muslim away from Islam.
 title: Ruling on loving and mingling with Kafirs
 ---
+
 
 ### Question: 
  

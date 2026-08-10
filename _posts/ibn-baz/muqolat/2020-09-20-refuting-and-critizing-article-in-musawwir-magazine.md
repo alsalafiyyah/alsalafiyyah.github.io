@@ -1,19 +1,24 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Refuting and criticizing an article published in Al-Musawwir magazine"
-hijri: Safar 03, 1442
+title: Refuting and criticizing an article published in Al-Musawwir magazine
+hijri: '1442-02-03'
 lang: en
 locale: en
-source: "Majmu' Fatawa 3/156, 2/98"
+source: Majmu' Fatawa 3/156, 2/98
 date: 2020-09-20
-category: [muqolat]
-summary: "Thus, how on earth could Ahmad Baha' Al-Din or those who have transmitted this news to him propagate such falsehood and attribute it to an article that was published and read by people everywhere, may Allah be Glorified! I wonder how brazen-faced is that slanderer!"
+category:
+- muqolat
+summary: Thus, how on earth could Ahmad Baha' Al-Din or those who have transmitted
+  this news to him propagate such falsehood and attribute it to an article that was
+  published and read by people everywhere, may Allah be Glorified! I wonder how brazen-faced
+  is that slanderer!
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 All praise be to Allah, and peace and blessings be upon the Messenger of Allah, his family, his Companions, and those who follow his guidance.
 

@@ -1,7 +1,7 @@
 ---
 date: 2020/08/26
 group1: true
-hijri: Muharram 7, 1442
+hijri: '1442-01-07'
 lang: en
 layout: post
 mass_edited: true
@@ -10,6 +10,7 @@ source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 1883, Question 3
 summary: Allah explicitly states in the Qur'an that the Jews killed the prophets unjustly.
 title: The Jews killing prophets
 ---
+
 
 ### Question:
 He misinterpreted the verses declaring that the Israelites murdered their prophets and rejected them under the claim that they were just attempts to kill but no crime took place?

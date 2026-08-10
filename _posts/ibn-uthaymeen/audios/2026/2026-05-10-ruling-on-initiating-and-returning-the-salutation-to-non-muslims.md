@@ -2,19 +2,25 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-05-10
-hijri: "Dhu al-Qidah 23, 1447 AH"
-title: "Ruling on Initiating and Returning the Salutation to Non-Muslims"
-source: "Fatawa Nur 'ala ad-Darb Tape 1"
-category: [fatwas,audios,non-muslim]
-tags: [ibn-uthaymeen]
-link: "https://binothaimeen.net/s/gfDcqNIT"
-mp3: "https://sounds.binothaimeen.net/storage/sounds/2023-10-25/B59rF4OjRPjq6SVKGsMd1EyjBGvqG4HAl5gufx2I.mp3"
-summary: "It is not permissible to initiate the greeting of Salam to a non-Muslim—meaning, you should not be the first to say As-Salamu Alaykum to him."
+hijri: '1447-11-23'
+title: Ruling on Initiating and Returning the Salutation to Non-Muslims
+source: Fatawa Nur 'ala ad-Darb Tape 1
+category:
+- fatwas
+- audios
+- non-muslim
+tags:
+- ibn-uthaymeen
+link: https://binothaimeen.net/s/gfDcqNIT
+mp3: https://sounds.binothaimeen.net/storage/sounds/2023-10-25/B59rF4OjRPjq6SVKGsMd1EyjBGvqG4HAl5gufx2I.mp3
+summary: It is not permissible to initiate the greeting of Salam to a non-Muslim—meaning,
+  you should not be the first to say As-Salamu Alaykum to him.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
 ---
+
 
 ### Question:
 

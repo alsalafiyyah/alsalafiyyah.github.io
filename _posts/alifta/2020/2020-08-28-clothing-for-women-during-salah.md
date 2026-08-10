@@ -1,6 +1,6 @@
 ---
 date: 2020/08/28
-hijri: Muharram 9, 1442 AH
+hijri: '1442-01-09'
 lang: en
 layout: post
 mass_edited: true
@@ -18,6 +18,7 @@ publisher: alsalafiyyah@icloud.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 8708, Question 8
 title: Clothing for women during Salah
 ---
+
 
 ### Question: 
 

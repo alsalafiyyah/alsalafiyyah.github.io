@@ -1,6 +1,6 @@
 ---
 date: 2020-09-04
-hijri: Muharram 16, 1442
+hijri: '1442-01-16'
 lang: en
 layout: post
 mass_edited: true
@@ -14,6 +14,7 @@ summary: We often address each other using the word Sayyid (Master or Sir) for p
   whose ancestry can be traced to a particular family. Is it permissible to do this?
 title: Ruling on using the word 'Sayyid'
 ---
+
 
 ### Question:
 We often address each other using the word "Sayyid" (Master or Sir) for people whose ancestry can be traced to a particular family. Is it permissible to do this? 

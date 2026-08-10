@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 14, 1442 AH
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -20,6 +20,7 @@ source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 7150, Question 6
 summary: Hijrah means leaving a non-Muslim to a Muslim country, which is obligatory.
 title: The meaning and conditions of Hijrah
 ---
+
 
 ### Question:
 

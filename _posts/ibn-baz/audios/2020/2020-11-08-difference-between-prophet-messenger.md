@@ -1,22 +1,29 @@
 ---
 layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "The difference between a prophet and a messenger"
+publisher: alsalafiyyah@icloud.com
+title: The difference between a prophet and a messenger
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_467/46704.mp3
-hijri: Rabi' Al-Awwal 22, 1442
+hijri: '1442-03-22'
 date: 2020-11-08
-category: [audios,prophets,terminology]
-tags: [ibn-baz]
+category:
+- audios
+- prophets
+- terminology
+tags:
+- ibn-baz
 active: audios
 lang: en
 translation: true
-url: "https://binbaz.org.sa/fatwas/11104/%D8%A7%D9%84%D9%81%D8%B1%D9%82-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%86%D8%A8%D9%8A-%D9%88%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%84"
-summary: "The well-known view of scholars is that a prophet is one to whom a system of law is revealed but was not commanded to convey it. He is ordered to pray and fast, etc., but not commanded to deliver what was revealed to him."
+url: https://binbaz.org.sa/fatwas/11104/%D8%A7%D9%84%D9%81%D8%B1%D9%82-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%86%D8%A8%D9%8A-%D9%88%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%84
+summary: The well-known view of scholars is that a prophet is one to whom a system
+  of law is revealed but was not commanded to convey it. He is ordered to pray and
+  fast, etc., but not commanded to deliver what was revealed to him.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

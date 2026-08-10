@@ -2,20 +2,26 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-06-12
-title: "Judging Islam by Its Teachings, Not by the Behavior of Muslims"
-source: "Liqa' al-Bab al-Maftuh 120, Question 10"
-category: [audios, sects]
-tags: [ibn-uthaymeen]
+title: Judging Islam by Its Teachings, Not by the Behavior of Muslims
+source: Liqa' al-Bab al-Maftuh 120, Question 10
+category:
+- audios
+- sects
+tags:
+- ibn-uthaymeen
 translation: false
 lang: en
-link: "https://binothaimeen.net/s/NN46tl5b"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_120_10.mp3"
-summary: "The duty of anyone who truly desires Islam—with a sincere intent—is to look into the teachings and guidance of Islam itself, not at the actions of Muslims."
+link: https://binothaimeen.net/s/NN46tl5b
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_120_10.mp3
+summary: The duty of anyone who truly desires Islam—with a sincere intent—is to look
+  into the teachings and guidance of Islam itself, not at the actions of Muslims.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
+hijri: '1447-12-26'
 ---
+
 
 ### Question:
 

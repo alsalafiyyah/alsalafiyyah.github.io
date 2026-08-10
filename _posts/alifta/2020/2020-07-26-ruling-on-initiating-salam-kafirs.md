@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 5, 1441
+hijri: '1441-12-05'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ summary: It is not permissible to greet a disbeliever first even if they occupy 
   positions, because of the general prohibition mentioned in the Hadith
 title: Ruling on initiating Salam with non-Muslims
 ---
+
 
 ### Question: 
 

@@ -1,19 +1,23 @@
 ---
 layout: post
-title: "The differences between the Ahlus-Sunnah and Shiites"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Shaykh Ibn Baz p. 28/258"
-category: [sects]
-hijri: "Jumada Al-Awwal 26, 1442"
+title: The differences between the Ahlus-Sunnah and Shiites
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Shaykh Ibn Baz p. 28/258
+category:
+- sects
+hijri: '1442-05-26'
 lang: en
 translation: false
-tags: [ibn-baz]
-summary: "Shiites have many sects. Some of them are Kafirs (disbelievers) who worship 'Ali and call upon him, and they worship Fatimah, Al-Husayn and others."
+tags:
+- ibn-baz
+summary: Shiites have many sects. Some of them are Kafirs (disbelievers) who worship
+  'Ali and call upon him, and they worship Fatimah, Al-Husayn and others.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

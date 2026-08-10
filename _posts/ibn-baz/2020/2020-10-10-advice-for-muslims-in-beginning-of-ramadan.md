@@ -1,19 +1,25 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Advise for Muslims on the occasion of the beginning of blessed Ramadan"
-hijri: Safar 23, 1442
+title: Advise for Muslims on the occasion of the beginning of blessed Ramadan
+hijri: '1442-02-23'
 lang: en
 locale: en
 note: false
-source: "Fatawa Al-Shaykh Ibn Baz 15/48"
-category: [fatwas,fasting]
-summary: "I advise my Muslim brothers everywhere on the occasion of the beginning of blessed Ramadan 1413 A.H. to fear Allah, compete to do good, advise one another to do what is right, and be patient in this regard. Cooperate to do the good and be pious, be careful to avoid what Allah forbids everywhere."
+source: Fatawa Al-Shaykh Ibn Baz 15/48
+category:
+- fatwas
+- fasting
+summary: I advise my Muslim brothers everywhere on the occasion of the beginning of
+  blessed Ramadan 1413 A.H. to fear Allah, compete to do good, advise one another
+  to do what is right, and be patient in this regard. Cooperate to do the good and
+  be pious, be careful to avoid what Allah forbids everywhere.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

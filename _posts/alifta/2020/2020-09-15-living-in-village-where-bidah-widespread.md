@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 27, 1442 AH
+hijri: '1442-01-27'
 lang: en
 layout: post
 mass_edited: true
@@ -20,6 +20,7 @@ summary: If you cannot find a suitable job in your town, you think that the peop
   or your children with their Bidahs, there will be no sin on you
 title: Living in a village where there are Bid'ahs
 ---
+
 
 ### Question:
 

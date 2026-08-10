@@ -1,7 +1,7 @@
 ---
 date: 2020/08/26
 group1: true
-hijri: Muharram 7, 1442
+hijri: '1442-01-07'
 lang: en
 layout: post
 mass_edited: true
@@ -12,6 +12,7 @@ summary: Indeed, humankind are in dire need for the messengers, as human beings 
   - the words and deeds that please or displease Allah.
 title: People's need for Allah's Messengers
 ---
+
 
 ### Question:
 In light of being honored with faculties of reason and natural disposition, do humans stand in need of Prophets? If 'yes', why are the prophets human beings?

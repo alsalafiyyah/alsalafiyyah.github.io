@@ -1,5 +1,5 @@
 ---
-hijri: Safar 28, 1442 AH
+hijri: '1442-02-28'
 lang: en
 layout: post
 mass_edited: true
@@ -19,6 +19,7 @@ summary: A Muslim is not required to combine between the ways followed by the fo
   Madhabs (Schools of Jurisprudence) in his deeds.
 title: Reconciliation of the Four Schools of Jurisprudence
 ---
+
 
 ### Question:
 

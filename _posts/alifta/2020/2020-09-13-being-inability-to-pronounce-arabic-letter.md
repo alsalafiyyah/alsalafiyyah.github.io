@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 21, 1442 AH
+hijri: '1442-01-25'
 lang: en
 layout: post
 mass_edited: true
@@ -18,6 +18,7 @@ summary: 'If they fail after exerting effort to pronounce it properly, they are 
   and they may pronounce it in the way they can. '
 title: Inability to properly pronounce the Arabic letter 'ض' [dad]
 ---
+
 
 ### Question:
 

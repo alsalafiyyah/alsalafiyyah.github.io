@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 7, 1441 AH
+hijri: '1441-12-07'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: Knowledge of Ghayb is one of the exclusive attributes of Rububiyyah (Lo
   no one knows the Ghayb of the heavens and the earth except Allah.
 title: Do the Jinn know knowledge of Unseen?
 ---
+
 
 ### Question: 
 

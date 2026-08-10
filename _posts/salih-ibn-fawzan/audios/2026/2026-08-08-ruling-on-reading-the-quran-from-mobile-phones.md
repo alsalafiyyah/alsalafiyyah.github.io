@@ -2,22 +2,25 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-08-08
-hijri: 1448-02-25
-title: "Ruling on Reading the Qur'an from Mobile Phones"
-category: [audios]
-tags: [salih-ibn-fawzan]
-mp3: "https://audio.alfawzan.live/07_47.mp3"
-link: "https://alfawzan.live/content/16805/"
+hijri: '1448-02-25'
+title: Ruling on Reading the Qur'an from Mobile Phones
+category:
+- audios
+tags:
+- salih-ibn-fawzan
+mp3: https://audio.alfawzan.live/07_47.mp3
+link: https://alfawzan.live/content/16805/
 active: audios
 translation: false
 lang: en
-source: "Fatwa No. 16805"
-summary: "There is no objection to that. You may read the Quran from the mobile phone."
+source: Fatwa No. 16805
+summary: There is no objection to that. You may read the Quran from the mobile phone.
 muftis:
-  shaykh: 
-    - name: "Shaykh Salih al-Fawzan"
-      url: "/biography/fawzan/"
+  shaykh:
+  - name: Shaykh Salih al-Fawzan
+    url: /biography/fawzan/
 ---
+
 
 ### Question: 
 

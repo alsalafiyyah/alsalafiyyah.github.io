@@ -1,5 +1,5 @@
 ---
-hijri: Rabi' Al-Thani 19, 1442
+hijri: '1442-04-20'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: It is not permissible for a person to make copies of software programs 
   by copyright unless the person obtains permission from the owner of these programs.
 title: Copyrights on tapes
 ---
+
 
 ### Question:
 I work in the field of information technology. Since I started work in this field, I have made CD copies of software programs I use in my work without purchasing the original CDs. It is important to note that these CDs have statements printed on them warning against making copies. The statements are similar to the 'All rights are reserved' statements we find printed on books. These CDs may be the intellectual property of a Muslim or a non-Muslim. My question now is: Is it permissible to make copies of such software programs? 

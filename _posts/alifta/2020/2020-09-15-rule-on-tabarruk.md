@@ -1,6 +1,6 @@
 ---
 group2: true
-hijri: Muharram 27, 1442 AH
+hijri: '1442-01-27'
 lang: en
 layout: post
 mass_edited: true
@@ -10,6 +10,7 @@ summary: Tabarruk, this is not permissible after his death, as these things ende
   with his death and can no longer be obtained.
 title: Ruling on Tabarruk from the Messenger ﷺ after his death
 ---
+
 
 ### Question:
 

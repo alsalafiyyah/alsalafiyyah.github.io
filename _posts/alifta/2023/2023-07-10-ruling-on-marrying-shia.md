@@ -1,6 +1,6 @@
 ---
 group1: true
-hijri: Dhul-Hijjah 22, 1444
+hijri: '1444-12-22'
 lang: en
 layout: post
 mass_edited: true
@@ -14,6 +14,7 @@ tags:
 title: Ruling on a Muslim Marrying a Shi’i
 translation: false
 ---
+
 
 ### Question: 
 

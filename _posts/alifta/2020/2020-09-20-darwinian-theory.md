@@ -5,7 +5,7 @@ article_taken_from:
     web_url: https://al-fatawa.com/fatwa/106194
 date: 2020-09-20
 group1: true
-hijri: Safar 03, 1442
+hijri: '1442-02-03'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ summary: The theory of evolution, known as Darwin’s theory, contradicts the Bo
   and faith.
 title: Darwinian Theory
 ---
+
 
 ### Question:
 

@@ -2,7 +2,7 @@
 active: wahhabi
 date: 2020-08-09
 group6: true
-hijri: Dhul-Hijjah 19, 1441
+hijri: '1441-12-19'
 lang: en
 layout: post
 mass_edited: true
@@ -13,6 +13,7 @@ summary: Wahhabism is the term which the enemies of Shaykh Muhammad ibn 'Abdul-W
   ways except that of Muhammad Ibn ‘Abdullah (peace be upon him).
 title: What is Wahhabiyah
 ---
+
 
 ### Question: 
 What is Wahhabism?

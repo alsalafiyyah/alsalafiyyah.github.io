@@ -1,6 +1,6 @@
 ---
 date: 2020/08/30
-hijri: Muharram 11, 1442 AH
+hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
@@ -13,6 +13,7 @@ source: Fatawa Al-Lajnah Ad-Da'imah no. 14893-8
 title: I found a sum of money somewhere and asked people there about it but it was
   not theirs
 ---
+
 
 Question: 
 

@@ -1,6 +1,6 @@
 ---
 date: 2025-07-31
-hijri: Safar 6, 1447 AH
+hijri: '1447-02-06'
 lang: en
 layout: post
 mass_edited: true
@@ -24,6 +24,8 @@ tags:
 title: Ruling on a thief, women dancing and drinking alcohol
 translation: false
 ---
+
+
 
 ### Question
 

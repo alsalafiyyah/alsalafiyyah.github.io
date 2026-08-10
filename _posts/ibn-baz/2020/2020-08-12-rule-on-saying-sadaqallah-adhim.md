@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 22, 1441 AH
+hijri: '1441-12-22'
 lang: en
 layout: post
 mass_edited: true
@@ -13,6 +13,7 @@ summary: People’s custom of saying 'Sadaqallah-ul-Adhim' when finishing a sess
   of recitation is a baseless act that should not be taken as a habit.
 title: Ruling on saying Sadaqallah Al-Adhim when finishing reading the Qur'an
 ---
+
 
 Question:
 

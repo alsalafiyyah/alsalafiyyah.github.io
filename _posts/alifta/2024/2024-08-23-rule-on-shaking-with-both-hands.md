@@ -1,6 +1,6 @@
 ---
 date: 2024-08-23
-hijri: Safar 19, 1446 AH
+hijri: '1446-02-19'
 lang: en
 layout: post
 mass_edited: true
@@ -14,6 +14,7 @@ summary: As for shaking with both of his hands, we are not aware of anything in 
   regard, rather, it should not be done.
 title: The ruling on shaking with both hands
 ---
+
 
 ### Question:
 Is it permissible to shake using both hands?

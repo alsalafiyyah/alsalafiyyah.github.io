@@ -1,5 +1,5 @@
 ---
-hijri: Rabi' Al-Thani 02, 1442
+hijri: '1442-04-02'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: Khamr is Haram. It is impermissible to be used as a treatment. A proof 
   the foregoing is the Hadith.
 title: Rule on drink Khamr for relieve pains
 ---
+
 
 ### Question:
 Is it permissible for a believer to drink Khamr claiming that it relieves some of their pains?

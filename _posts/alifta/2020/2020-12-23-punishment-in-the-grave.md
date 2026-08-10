@@ -1,5 +1,5 @@
 ---
-hijri: Jumada Al-Awwal 8, 1442 AH
+hijri: '1442-05-08'
 lang: en
 layout: post
 mass_edited: true
@@ -24,6 +24,7 @@ summary: The evidence on the rulings of Shari'ah are established through the Qur
   reached us.
 title: Punishment in the Grave
 ---
+
 
 ### Question:
 

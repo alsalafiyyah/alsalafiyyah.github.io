@@ -1,7 +1,7 @@
 ---
 date: 2019-09-01
 group1: true
-hijri: Muharram 02, 1441 AH
+hijri: '1441-01-02'
 lang: en
 layout: post
 mass_edited: true
@@ -14,6 +14,7 @@ tags:
 title: Ruling on looking at naked men and women when a person having ablution
 translation: false
 ---
+
 
 ### Question : 
 

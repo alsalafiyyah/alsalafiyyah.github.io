@@ -2,19 +2,26 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Does Failing to Object to Evil Negate Faith Entirely?"
+title: Does Failing to Object to Evil Negate Faith Entirely?
 date: 2026-07-31
-category: [videos, amar-maruf]
-tags: [salih-ibn-fawzan]
+category:
+- videos
+- amar-maruf
+tags:
+- salih-ibn-fawzan
 active: videos
-summary: "If he does not object to the evil—if he says, There is nothing wrong with it, such as saying fornication is fine, theft is fine, and does not view it as an evil—then he is a disbeliever who denies Allah and His Messenger."
-videoURL: "https://youtu.be/3SXImSaiBro"
-videoID: "3SXImSaiBro"
+summary: If he does not object to the evil—if he says, There is nothing wrong with
+  it, such as saying fornication is fine, theft is fine, and does not view it as an
+  evil—then he is a disbeliever who denies Allah and His Messenger.
+videoURL: https://youtu.be/3SXImSaiBro
+videoID: 3SXImSaiBro
 muftis:
-  shaykh: 
-    - name: "Shaykh Salih Al-Fawzan"
-      url: "/biography/fawzan/"
+  shaykh:
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan/
+hijri: '1448-02-17'
 ---
+
 
 ### Question: 
 

@@ -1,18 +1,22 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "It is permissible to refuse marriage when there is a Shar'i excuse"
-hijri: "Jumada Al-Awwal 05, 1442 AH"
-source: "Fatawa Shaykh Ibn Baz p. 20/406"
+title: It is permissible to refuse marriage when there is a Shar'i excuse
+hijri: '1442-05-05'
+source: Fatawa Shaykh Ibn Baz p. 20/406
 lang: en
-category: [marriage]
+category:
+- marriage
 note: false
-summary: "Consequently, every Muslim, male or female, should obey the Prophet's (peace be upon him) instructions and hasten to marry to achieve the mentioned above benefits. Staying without marriage entails a grave danger."
+summary: Consequently, every Muslim, male or female, should obey the Prophet's (peace
+  be upon him) instructions and hasten to marry to achieve the mentioned above benefits.
+  Staying without marriage entails a grave danger.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question:
 

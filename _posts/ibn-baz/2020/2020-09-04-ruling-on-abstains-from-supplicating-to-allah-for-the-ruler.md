@@ -1,19 +1,23 @@
 ---
 layout: post
-title: "Ruling on abstains from supplicating to Allah for the ruler"
-publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat p. 8/209"
-category: [rulership]
+title: Ruling on abstains from supplicating to Allah for the ruler
+publisher: alsalafiyyah@icloud.com
+source: Majmu' Fatawa wa Maqalat p. 8/209
+category:
+- rulership
 translation: false
-tags: [ibn-baz]
+tags:
+- ibn-baz
 lang: en
-hijri: "Muharram 16, 1442 AH"
-summary: "The Mu'min (believer) should pray Allah to grant all good for people and the ruler in particular, for his reform is a reform for the Ummah (nation)."
+hijri: '1442-01-16'
+summary: The Mu'min (believer) should pray Allah to grant all good for people and
+  the ruler in particular, for his reform is a reform for the Ummah (nation).
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

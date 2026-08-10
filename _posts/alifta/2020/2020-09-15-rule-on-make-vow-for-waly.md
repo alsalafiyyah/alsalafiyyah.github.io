@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 27, 1442
+hijri: '1442-01-27'
 lang: en
 layout: post
 mass_edited: true
@@ -19,6 +19,7 @@ summary: In case that the aim of staying beside the grave is to offer worship to
   the grave and the sin of offering 'Ibadah to Allah beside the graves.
 title: Is it permissible to vow and sacrifice for the sake of the Waliy?
 ---
+
 
 ### Question:
 

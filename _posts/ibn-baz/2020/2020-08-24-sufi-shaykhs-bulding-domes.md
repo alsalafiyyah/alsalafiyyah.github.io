@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 5, 1442 AH
+hijri: '1442-01-05'
 lang: en
 layout: post
 mass_edited: true
@@ -18,6 +18,7 @@ title: Some Sufi shaykhs pay a great deal of attention to making domes on graves
   people believe in its usefulness and blessings
 translation: false
 ---
+
 
 ### Question: 
 

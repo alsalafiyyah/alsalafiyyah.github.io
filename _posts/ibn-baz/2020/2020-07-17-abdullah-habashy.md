@@ -1,18 +1,25 @@
 ---
 layout: post
-title: "On Abdullah Al-Habashy"
-publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa Shaykh Ibn Baz 9/315"
-hijri: "Dhul-Qa'dah 26, 1441"
+title: On Abdullah Al-Habashy
+publisher: alsalafiyyah@icloud.com
+source: Majmu' Fatawa Shaykh Ibn Baz 9/315
+hijri: '1441-11-26'
 date: 2020-07-17
 lang: en
-category: [fatwas,sects,refutals]
-summary: "I would like to tell you that this sect is known to us. It is a misguided sect and their leader Abdullah Al-Habashy is notorious for his deviation and aberration. Thus, it is obligatory to boycott them and condemn their 'Aqidah (creed) and warn people against them."
+category:
+- fatwas
+- sects
+- refutals
+summary: I would like to tell you that this sect is known to us. It is a misguided
+  sect and their leader Abdullah Al-Habashy is notorious for his deviation and aberration.
+  Thus, it is obligatory to boycott them and condemn their 'Aqidah (creed) and warn
+  people against them.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 From Abdul-Aziz ibn Abdullah ibn Baz to our dear respected brother, **T.M**. May Allah protect you. As-salamu 'alaykum warahmatullah wabarakatuh (May Allah's Peace, Mercy, and Blessings be upon you!). 
 

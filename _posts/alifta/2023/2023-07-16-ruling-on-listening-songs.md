@@ -1,6 +1,6 @@
 ---
 author: Permanent Committee of KSA
-hijri: Dhul-Hijjah 28, 1444 AH
+hijri: '1444-12-28'
 lang: en
 layout: post
 mass_edited: true
@@ -30,6 +30,7 @@ tags:
 title: Ruling on listening to songs
 translation: false
 ---
+
 
 ### Question: 
 

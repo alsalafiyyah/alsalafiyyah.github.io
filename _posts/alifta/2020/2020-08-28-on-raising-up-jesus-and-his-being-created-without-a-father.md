@@ -1,7 +1,7 @@
 ---
 date: 2020-08-28
 group1: true
-hijri: Muharram 9, 1442 AH
+hijri: '1442-01-09'
 lang: en
 layout: post
 mass_edited: true
@@ -13,6 +13,7 @@ summary: Jesus was raised alive, in both body and soul, to the heavens. He is no
 title: On raising up of Jesus and his being created without a father and the reason
   behind the permissibility of Jihad
 ---
+
 
 ### Question: 
 

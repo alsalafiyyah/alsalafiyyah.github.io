@@ -1,22 +1,28 @@
 ---
 layout: post
-title: "Is Enjoining Good and Forbidding Evil Only for Official Authorities?"
-publisher: "alsalafiyyah@icloud.com"
+title: Is Enjoining Good and Forbidding Evil Only for Official Authorities?
+publisher: alsalafiyyah@icloud.com
 date: 2026-07-29
 active: audios
-category: [audios, amar-maruf]
+category:
+- audios
+- amar-maruf
 translation: false
-tags: [ibn-baz]
+tags:
+- ibn-baz
 lang: en
-source: "Fatawa Nur ala al-Darb, Tape no. 58, Question 3"
-link: "https://binbaz.org.sa/fatwas/5352/%D9%85%D8%A7-%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%A7%D9%85%D8%B1-%D8%A8%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%88%D9%81-%D9%88%D8%A7%D9%84%D9%86%D9%87%D9%8A-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D9%86%D9%83%D8%B1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
-mp3: "https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_058/05803.mp3"
-summary: "This is not exclusive to men to the exclusion of women, nor to women to the exclusion of men; rather, it is incumbent upon everyone."
+source: Fatawa Nur ala al-Darb, Tape no. 58, Question 3
+link: https://binbaz.org.sa/fatwas/5352/%D9%85%D8%A7-%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%A7%D9%85%D8%B1-%D8%A8%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%88%D9%81-%D9%88%D8%A7%D9%84%D9%86%D9%87%D9%8A-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D9%86%D9%83%D8%B1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9
+mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_058/05803.mp3
+summary: This is not exclusive to men to the exclusion of women, nor to women to the
+  exclusion of men; rather, it is incumbent upon everyone.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+hijri: '1448-02-15'
 ---
+
 
 ### Question: 
 

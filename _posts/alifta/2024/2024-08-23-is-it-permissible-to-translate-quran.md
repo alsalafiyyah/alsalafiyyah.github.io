@@ -1,6 +1,6 @@
 ---
 date: 2024-08-23
-hijri: Safar 19, 1446 AH
+hijri: '1446-02-19'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ summary: To translate the Qur'an into another language is an impossible task, fo
   in another language.
 title: Is it permissible to translate the Quran?
 ---
+
 
 ### Question:
 Is it permissible to translate the Qur'an, for example, into English, French, or Hebrew?

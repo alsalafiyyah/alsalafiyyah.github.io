@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: A Muslim is not allowed to enter the places of worship of disbelievers 
   this leads to increasing their number.
 title: Ruling on Muslims entering non-Muslim places of worship
 ---
+
 
 ### Question: 
  

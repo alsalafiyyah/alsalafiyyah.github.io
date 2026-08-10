@@ -1,19 +1,23 @@
 ---
 layout: post
-title: "Jama'at Tabligh and the offering Prayers in Masjids containing graves"
-publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa Shaykh Ibn Baz 8/331"
-category: [sects]
-tags: [ibn-baz]
-hijri: "Dhul-Qa'dah 20, 1441"
+title: Jama'at Tabligh and the offering Prayers in Masjids containing graves
+publisher: alsalafiyyah@icloud.com
+source: Majmu' Fatawa Shaykh Ibn Baz 8/331
+category:
+- sects
+tags:
+- ibn-baz
+hijri: '1441-11-20'
 translation: false
 lang: en
-summary: "Jama'at Tabligh does not have good knowledge in matters related to 'Aqidah (creed). Thus, it is not permissible for anyone to set out with them."
+summary: Jama'at Tabligh does not have good knowledge in matters related to 'Aqidah
+  (creed). Thus, it is not permissible for anyone to set out with them.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

@@ -1,6 +1,6 @@
 ---
 group5: true
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -14,6 +14,7 @@ tags:
 title: Ruling on buying books from Ibadiyyah sect
 translation: false
 ---
+
 
 ### Question: 
  

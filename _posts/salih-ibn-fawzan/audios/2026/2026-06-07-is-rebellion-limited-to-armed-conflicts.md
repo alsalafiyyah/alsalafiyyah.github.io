@@ -2,21 +2,27 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-06-07
-title: "Is Rebellion Limited to Armed Conflict?"
-category: [audios, rulers]
-tags: [salih-ibn-fawzan]
-mp3: "https://audio.alfawzan.live/e-010.mp3"
-link: "https://alfawzan.live/content/14279"
+title: Is Rebellion Limited to Armed Conflict?
+category:
+- audios
+- rulers
+tags:
+- salih-ibn-fawzan
+mp3: https://audio.alfawzan.live/e-010.mp3
+link: https://alfawzan.live/content/14279
 active: audios
 translation: true
 lang: en
-source: "Fatwa no.14279"
-summary: "Rebellion is of various types. Among them is rebellion through speech, which occurs when someone incites or encourages rebellion against the ruler."
+source: Fatwa no.14279
+summary: Rebellion is of various types. Among them is rebellion through speech, which
+  occurs when someone incites or encourages rebellion against the ruler.
 muftis:
-  shaykh: 
-    - name: "Shaykh Salih al-Fawzan"
-      url: "/biography/fawzan/"
+  shaykh:
+  - name: Shaykh Salih al-Fawzan
+    url: /biography/fawzan/
+hijri: '1447-12-21'
 ---
+
 
 ### Question: 
 

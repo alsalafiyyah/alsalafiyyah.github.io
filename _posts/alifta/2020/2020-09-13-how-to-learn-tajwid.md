@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 25, 1442 AH
+hijri: '1442-01-25'
 lang: en
 layout: post
 mass_edited: true
@@ -18,6 +18,7 @@ source: Fatawa Al-Lajnah Al-Da'imah no. 9566, Question 2
 summary: How can I learn Tajwid and in which book can I find the rules of Tajwid?
 title: How to learn Tajwid
 ---
+
 
 Question: 
 

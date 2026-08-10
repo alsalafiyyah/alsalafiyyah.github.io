@@ -1,19 +1,24 @@
 ---
 layout: post
-title: "Ruling on Qarmatians and Batiniyyah"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 18952, Question 6"
-category: [sects]
-hijri: "Jumada Al-Awwal 25, 1442"
-tags: [ibn-baz, alifta]
+title: Ruling on Qarmatians and Batiniyyah
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 18952, Question 6
+category:
+- sects
+hijri: '1442-05-25'
+tags:
+- ibn-baz
+- alifta
 lang: en
 translation: false
-summary: "Both the Qarmatians and Al-Batiniyyah do not belong to Islam. Rather, they are Kafirs (disbelievers) and heretics."
+summary: Both the Qarmatians and Al-Batiniyyah do not belong to Islam. Rather, they
+  are Kafirs (disbelievers) and heretics.
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 8, 1441 AH
+hijri: '1441-12-08'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: It is impermissible to publish, print, obtain or promote this book (Al-
   and satanic practices.
 title: 'Ruling on the book entitled: ''Biography of Master Shaykh Ubayd Al-Sharif'''
 ---
+
 
 Question: 
 

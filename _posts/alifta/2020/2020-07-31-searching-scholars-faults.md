@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 11, 1441 AH
+hijri: '1441-12-10'
 lang: en
 layout: post
 mass_edited: true
@@ -24,6 +24,7 @@ summary: In fact, the aim of doing so is clarifying the truth and advising Musli
   undoubtedly outweigh their errors.
 title: The Shari'ah's stance regarding searching for Scholars faults
 ---
+
 
 Question: 
 

@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 5, 1442 AH
+hijri: '1442-01-05'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ summary: Scholars like Ibn 'Abbas and others explained that this Ayah means that
 title: Tafsir Surah Yusuf Ayat 106
 uid: tafsir-surah-yusuf-106
 ---
+
 
 Question: 
 

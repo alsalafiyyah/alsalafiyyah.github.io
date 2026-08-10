@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 5, 1442 AH
+hijri: '1442-01-05'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ summary: The Messenger of Allah (peace be upon him) explained this Ayah (Qur'ani
 title: Tafsir Surah Al-Qalam Ayat 42
 uid: tafsir-surah-qalam-42
 ---
+
 
 Question: 
 

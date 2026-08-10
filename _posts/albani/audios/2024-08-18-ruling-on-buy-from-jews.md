@@ -2,25 +2,33 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on buying from the Jews who are in a state of war against the Muslims"
-hijri: Muharram 27, 1446 AH
+title: Ruling on buying from the Jews who are in a state of war against the Muslims
+hijri: '1446-02-14'
 date: 2024-08-18
 active: audios
-category: [fatwas,audios,palestine,non-muslim]
-tags: [albani]
-source: "Silsilat Al-Huda wa an-Noor 623"
-summary: "If they are at war, then it is not permissible to have dealings with them, whether that is in the country they have invaded or occupied, such as the Jews in Palestine, or in their own state."
-mp3: "https://alathar.net//home/esound/index.php?op=stream&co=486&cntid=5496&ftype=1"
+category:
+- fatwas
+- audios
+- palestine
+- non-muslim
+tags:
+- albani
+source: Silsilat Al-Huda wa an-Noor 623
+summary: If they are at war, then it is not permissible to have dealings with them,
+  whether that is in the country they have invaded or occupied, such as the Jews in
+  Palestine, or in their own state.
+mp3: https://alathar.net//home/esound/index.php?op=stream&co=486&cntid=5496&ftype=1
 translated_by: Dr. Muhammad Aqib Hussain
 muftis:
-  shaykh: 
-    - name: Shaykh Al-Albani
-      url: /biography/albani/
-article_taken_from: 
+  shaykh:
+  - name: Shaykh Al-Albani
+    url: /biography/albani/
+article_taken_from:
   taken_from:
-    - web_title: هل يجوز الشراء و العمل مع اليهود ؟
-      web_url: https://alathar.net/home/esound/index.php?op=codevi&coid=5496
---- 
+  - web_title: هل يجوز الشراء و العمل مع اليهود ؟
+    web_url: https://alathar.net/home/esound/index.php?op=codevi&coid=5496
+---
+ 
 
 ### Questioner: 
 Since there is war between us and the Jews is it permissible to buy from the Jews and to have economic dealings with them in the European countries?

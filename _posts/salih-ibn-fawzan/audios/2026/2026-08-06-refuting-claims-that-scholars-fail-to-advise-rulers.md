@@ -2,22 +2,27 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-08-06
-hijri: 1448-02-23
-title: "Refuting Claims That Scholars Fail to Advise Rulers"
-category: [audios, rulers]
-tags: [salih-ibn-fawzan]
-mp3: "https://audio.alfawzan.live/2018-04/34.mp3"
-link: "https://alfawzan.live/content/17737/"
+hijri: '1448-02-23'
+title: Refuting Claims That Scholars Fail to Advise Rulers
+category:
+- audios
+- rulers
+tags:
+- salih-ibn-fawzan
+mp3: https://audio.alfawzan.live/2018-04/34.mp3
+link: https://alfawzan.live/content/17737/
 active: audios
 translation: false
 lang: en
-source: "Fatwa No. 17737"
-summary: "This person is a liar. How does he know that the scholars do not offer sincere advice to those in authority?"
+source: Fatwa No. 17737
+summary: This person is a liar. How does he know that the scholars do not offer sincere
+  advice to those in authority?
 muftis:
-  shaykh: 
-    - name: "Shaykh Salih al-Fawzan"
-      url: "/biography/fawzan/"
+  shaykh:
+  - name: Shaykh Salih al-Fawzan
+    url: /biography/fawzan/
 ---
+
 
 ### Question: 
 

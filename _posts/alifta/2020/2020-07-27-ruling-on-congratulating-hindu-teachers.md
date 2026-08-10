@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -23,6 +23,7 @@ summary: It is not permissible for Muslims to take part with the Hindu disbeliev
   in celebrating their festivals and religious occasions.
 title: Ruling on students congratulating Hindu teachers on their feasts
 ---
+
 
 ### Question: 
 

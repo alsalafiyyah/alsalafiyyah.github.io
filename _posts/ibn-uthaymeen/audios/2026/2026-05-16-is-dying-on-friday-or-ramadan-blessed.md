@@ -2,20 +2,27 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-05-16
-title: "Are Those Who Die on Friday or in Ramadan Spared from Grave Punishment?"
-source: "Fatawa Nur 'ala al-Darb / Tape no: 207"
-category: [fatwas, audios, funerals]
-tags: [ibn-uthaymeen]
-link: "https://binothaimeen.net/s/QcfijNfE"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_207_14.mp3"
-summary: "The punishment of the grave is established for everyone who deserves it, whether they die on Friday, in Ramadan, or at any other time."
+title: Are Those Who Die on Friday or in Ramadan Spared from Grave Punishment?
+source: 'Fatawa Nur ''ala al-Darb / Tape no: 207'
+category:
+- fatwas
+- audios
+- funerals
+tags:
+- ibn-uthaymeen
+link: https://binothaimeen.net/s/QcfijNfE
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_207_14.mp3
+summary: The punishment of the grave is established for everyone who deserves it,
+  whether they die on Friday, in Ramadan, or at any other time.
 lang: en
 translation: true
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
+hijri: '1447-11-29'
 ---
+
 
 ### Question: 
 

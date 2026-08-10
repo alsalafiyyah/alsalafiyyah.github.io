@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 21, 1442 AH
+hijri: '1442-01-25'
 lang: en
 layout: post
 mass_edited: true
@@ -19,6 +19,7 @@ summary: Is there sin on the reciter? Is the Salah (Prayer) of the one who corre
   him valid? Please give us your opinion along with the relevant proof.
 title: Ruling on committing Lahn while reciting Qur'an
 ---
+
 
 ### Question:
 

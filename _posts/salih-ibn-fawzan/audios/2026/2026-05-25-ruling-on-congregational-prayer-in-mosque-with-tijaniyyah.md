@@ -2,19 +2,26 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-05-25
-title: "Ruling on Congregational Prayer in Mosque with Tijaniyyah Sufi Order"
-category: [fatwas,audios,sects]
-tags: [salih-ibn-fawzan]
-mp3: "https://audio.alfawzan.live/2019-12/18_0.mp3"
-url: "https://alfawzan.live/content/18235/"
-source: "Fatwa No. 18235"
+title: Ruling on Congregational Prayer in Mosque with Tijaniyyah Sufi Order
+category:
+- fatwas
+- audios
+- sects
+tags:
+- salih-ibn-fawzan
+mp3: https://audio.alfawzan.live/2019-12/18_0.mp3
+url: https://alfawzan.live/content/18235/
+source: Fatwa No. 18235
 active: audios
-summary: "If you do not find anyone, then pray in your home with your children and your family."
+summary: If you do not find anyone, then pray in your home with your children and
+  your family.
 muftis:
-  shaykh: 
-    - name: "Shaykh Salih al-Fawzan"
-      url: "/biography/fawzan/"
+  shaykh:
+  - name: Shaykh Salih al-Fawzan
+    url: /biography/fawzan/
+hijri: '1447-12-08'
 ---
+
 
 ​### Question:
 

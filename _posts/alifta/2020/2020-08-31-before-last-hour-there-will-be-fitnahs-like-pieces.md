@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 12, 1442 AH
+hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
@@ -20,6 +20,7 @@ summary: 'I want to ask about a Hadith which reads as follows: Al-Hasan Al-Basri
 title: 'The Hadith: ''Before the Last Hour there will be Fitnahs like pieces of a
   dark night'''
 ---
+
 
 Question:
 

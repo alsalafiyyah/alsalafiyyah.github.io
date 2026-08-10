@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 14, 1442 AH
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -19,6 +19,7 @@ summary: If you are unable to immigrate, you should abandon all these sects. If 
   is difficult for you, then you must hold tight to the Din of Allah until you die.
 title: Hijrah from countries of Kufr, sorcery and charlatanism
 ---
+
 
 ### Question:
 

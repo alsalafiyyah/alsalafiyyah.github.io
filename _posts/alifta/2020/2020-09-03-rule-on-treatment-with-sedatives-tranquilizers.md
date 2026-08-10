@@ -1,6 +1,6 @@
 ---
 date: 2020/09/3
-hijri: Muharram 15, 1442
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -20,6 +20,7 @@ summary: It is not permissible to take medical treatment with the mentioned subs
   or anything that is prohibited by Shariah.
 title: Ruling on treatment with sedatives and tranquilizers
 ---
+
 
 ### Question:
 What is the ruling on medical treatment with sedatives, tranquilizers, and drugs that affect the brain and overall awareness? 

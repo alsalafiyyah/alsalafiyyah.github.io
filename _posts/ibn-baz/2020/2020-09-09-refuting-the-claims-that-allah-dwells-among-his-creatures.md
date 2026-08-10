@@ -1,6 +1,6 @@
 ---
 date: 2020-09-09
-hijri: Muharram 21, 1442
+hijri: '1442-01-21'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ summary: Generally, the corrupt belief adopted by the denying Jahmiyyah and thei
   is one of the most wicked and harmful beliefs.
 title: Refuting those who say that Allah dwells among His creatures
 ---
+
 
 There are repeated questions about the claim that Allah (Glorified be He) dwells among His creatures and mingles with them. They claim that this is the meaning of the general Ma'iyyah (accompaniment). They take as evidence the Ayah (Qur'anic verse), saying: "**And you (O Muhammad صلى الله عليه وسلم) were not on the western side (of the Mount)...**" [Al-Qasas: 44] And: "**You were not with them, when they cast lots with their pens as to which of them should be charged with the care of Maryam (Mary); nor were you with them when they disputed.**" [Aal Imran: 44] They claim that these two Ayahs denote that the Prophet (peace be upon him) was not with them, but Allah was present in person with them, because He is present everywhere.
 

@@ -1,6 +1,6 @@
 ---
 date: 2020-09-19
-hijri: Safar 02, 1442
+hijri: '1442-02-02'
 lang: en
 layout: post
 mass_edited: true
@@ -24,6 +24,7 @@ summary: Druze, Nusayriyyah, Ismailiyyah and those who follow them such as Babis
   distortions
 title: Ruling on the call to rapprochement between religions
 ---
+
 
 ### Question:
 

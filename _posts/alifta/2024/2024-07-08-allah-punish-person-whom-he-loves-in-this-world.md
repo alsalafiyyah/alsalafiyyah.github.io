@@ -5,7 +5,7 @@ article_taken_from:
     web_url: https://al-fatawa.com/fatwa/103645
 date: 2024-07-08
 group2: true
-hijri: Muharram 02, 1446
+hijri: '1446-01-02'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ summary: When Allah wills good for His Slave, He hastens to punish them in this 
   sin until they come to Him with that sin on the Day of Resurrection.
 title: Allah will punish the person whom He loves beforehand in this world
 ---
+
 
 ### Question:
 How correct is the statement '**Allah will punish the person whom He loves beforehand in this world**'? Does (affliction with) disease belong to the punishment by which sins are forgiven? 

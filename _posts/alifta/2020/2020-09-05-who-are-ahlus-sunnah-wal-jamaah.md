@@ -5,7 +5,7 @@ article_taken_from:
     web_url: https://al-fatawa.com/fatwa/112703
 date: 2020-09-05
 group1: true
-hijri: Muharram 17, 1442
+hijri: '1442-01-17'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ summary: Ahl Al-Sunnah wal Jama‘ah are the Muslims who follow the very same wa
   followed.
 title: Who are Ahl Al-Sunnah wal Jama‘ah
 ---
+
 
 ### Question:
 What is the definition of the term “Ahl Al-Sunnah wal Jama‘ah”? Are the scholars of the Barelwi school of thought in India considered from Ahl Al-Sunnah wal Jama‘ah?

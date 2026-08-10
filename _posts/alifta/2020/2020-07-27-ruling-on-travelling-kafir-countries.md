@@ -1,6 +1,6 @@
 ---
 date: 2020-07-27
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -24,6 +24,7 @@ summary: If the person who wants to travel to the land of the disbelievers needs
   However, he must not stay there for long.
 title: Ruling on traveling to non-Muslim countries
 ---
+
 
 ### Question: 
 

@@ -1,20 +1,24 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "False Karamahs"
-hijri: "Rabi' Al-Thani 01, 1442"
-source: "Fatawa Al-Shaykh Ibn Baz 6/513"
+title: False Karamahs
+hijri: '1442-04-01'
+source: Fatawa Al-Shaykh Ibn Baz 6/513
 lang: en
-link: "https://binbaz.org.sa/fatwas/1994/%D8%AA%D9%81%D9%86%D9%8A%D8%AF-%D9%85%D8%B2%D8%A7%D8%B9%D9%85-%D8%A7%D9%84%D9%83%D8%B1%D8%A7%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%B1%D8%A7%D9%81%D9%8A%D8%A9-%D9%85%D9%86-%D8%A8%D8%B9%D8%B6-%D8%A7%D9%84%D8%B5%D9%88%D9%81%D9%8A%D8%A9"
-category: [sects]
-tags: [ibn-baz]
+link: https://binbaz.org.sa/fatwas/1994/%D8%AA%D9%81%D9%86%D9%8A%D8%AF-%D9%85%D8%B2%D8%A7%D8%B9%D9%85-%D8%A7%D9%84%D9%83%D8%B1%D8%A7%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%B1%D8%A7%D9%81%D9%8A%D8%A9-%D9%85%D9%86-%D8%A8%D8%B9%D8%B6-%D8%A7%D9%84%D8%B5%D9%88%D9%81%D9%8A%D8%A9
+category:
+- sects
+tags:
+- ibn-baz
 translation: false
-summary: "Such things are baseless in Shari'ah and are superstitious invented by some people. Some Sufis pretend to have Karamahs."
+summary: Such things are baseless in Shari'ah and are superstitious invented by some
+  people. Some Sufis pretend to have Karamahs.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question:
 

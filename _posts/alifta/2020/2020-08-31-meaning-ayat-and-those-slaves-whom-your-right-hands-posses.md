@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 12, 1442 AH
+hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
@@ -23,6 +23,7 @@ title: 'Meaning of the Qur''anic verse: ''...and those (slaves) whom your right 
   possess'''
 uid: meaning-ayat-and-those-slaves-whom-your-right-hands-posses
 ---
+
 
 Question: 
 

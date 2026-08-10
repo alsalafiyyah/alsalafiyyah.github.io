@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 6, 1442 AH
+hijri: '1442-01-06'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: As for the Hadith, Allah (Exalted be He) revealed them to the Prophet (
   authority of 'Aishah (may Allah be pleased with her).
 title: Revelation of Hadith
 ---
+
 
 Question:
 

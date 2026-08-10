@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 12, 1442 AH
+hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
@@ -23,6 +23,7 @@ summary: Is it permissible to deal with this card taking into account that a per
 title: Stipulating the payment of usurious interests upon delay in repaying the financial
   card
 ---
+
 
 Question:
 

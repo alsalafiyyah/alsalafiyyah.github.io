@@ -1,6 +1,6 @@
 ---
 date: 2024-08-23
-hijri: Safar 19, 1446 AH
+hijri: '1446-02-19'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: These people who fast and do not pray, their fast is not accepted. Rath
   it is rejected as long as we say that they are disbelievers.
 title: Ruling on lazy performing prayers
 ---
+
 
 ### Question: 
 Some of the young men - may Allah guide them - are lazy about performing the prayer during Ramadhan and other times. However, they strictly guard the fast of Ramadhan, while patiently bearing the thirst and hunger. What do you advise them and what is the ruling on their fast?

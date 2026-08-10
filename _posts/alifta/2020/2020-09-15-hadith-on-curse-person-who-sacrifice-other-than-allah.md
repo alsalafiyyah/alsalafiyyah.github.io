@@ -1,6 +1,6 @@
 ---
 group1: true
-hijri: Muharram 27, 1442 AH
+hijri: '1442-01-27'
 lang: en
 layout: post
 mass_edited: true
@@ -13,6 +13,7 @@ summary: What is meant by this Hadith is the prohibition of offering sacrifices 
 title: 'The Hadith: ''Allah curses the person who offers a sacrifice to anyone other
   than Allah'''
 ---
+
 
 ### Question:
 

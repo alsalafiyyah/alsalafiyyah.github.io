@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 23, 1444
+hijri: '1444-12-23'
 lang: en
 layout: post
 mass_edited: true
@@ -27,6 +27,7 @@ title: It is not permissible to give the daughters of Sunni families in marriage
   the sons of Shi’is or Communists
 translation: false
 ---
+
 
 ### Question: 
 

@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 11, 1442 AH
+hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
@@ -31,6 +31,7 @@ summary: 'Is the following Hadith considered Sahih (authentic): ''There is no ob
 title: 'The Hadith: ''There is no obedience to a creature if it involves disobedience
   to the Creator'''
 ---
+
 
 Question: 
 

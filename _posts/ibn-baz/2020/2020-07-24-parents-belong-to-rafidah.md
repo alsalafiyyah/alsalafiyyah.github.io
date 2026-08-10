@@ -1,19 +1,24 @@
 ---
 layout: post
-title: "Ruling on parents belong to the Rafidah (a Shiitic group)"
-publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat 28/260"
-category: [sects]
-tags: [ibn-baz]
-hijri: "Dhul-Hijjah 3, 1441"
+title: Ruling on parents belong to the Rafidah (a Shiitic group)
+publisher: alsalafiyyah@icloud.com
+source: Majmu' Fatawa wa Maqalat 28/260
+category:
+- sects
+tags:
+- ibn-baz
+hijri: '1441-12-03'
 lang: en
 translation: false
-summary: "He should call them to Allah and advise them. Yet, If he realizes that they are adhering to that which is false, he should disown them, but at the same time fear Allah in dealing with them."
+summary: He should call them to Allah and advise them. Yet, If he realizes that they
+  are adhering to that which is false, he should disown them, but at the same time
+  fear Allah in dealing with them.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

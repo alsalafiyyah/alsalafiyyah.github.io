@@ -2,22 +2,28 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2019-11-19
-hijri: "Rabi' Al-Awwal 22, 1442 AH"
-title: "On the Scope of the Term 'Salafi' and the Rejection of Factional Divisions"
-source: "Liqa' al-Bab al-Maftuh 220, Question 11"
-category: [audios,manhaj]
-tags: [ibn-uthaymeen]
-url: "https://alathar.net/home/esound/index.php?op=codevi&coid=65983"
-mp3: "https://www.alathar.net//files/sound/alothaymeen/leqamaftooh/split-220b-11.mp3"
+hijri: '1441-03-22'
+title: On the Scope of the Term 'Salafi' and the Rejection of Factional Divisions
+source: Liqa' al-Bab al-Maftuh 220, Question 11
+category:
+- audios
+- manhaj
+tags:
+- ibn-uthaymeen
+url: https://alathar.net/home/esound/index.php?op=codevi&coid=65983
+mp3: https://www.alathar.net//files/sound/alothaymeen/leqamaftooh/split-220b-11.mp3
 active: audios
 translation: false
 lang: en
-summary: "We must know that the term 'Salafi' is not confined to a specific group. Anyone who adheres to the methodology (madhhab) of the Salaf is a Salafi—that is the definition of a Salafi"
+summary: We must know that the term 'Salafi' is not confined to a specific group.
+  Anyone who adheres to the methodology (madhhab) of the Salaf is a Salafi—that is
+  the definition of a Salafi
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
 ---
+
 
 Questioner: It has become customary to describe a specific group of Muslims as Salafis...
 

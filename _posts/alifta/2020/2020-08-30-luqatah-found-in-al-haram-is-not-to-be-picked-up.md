@@ -1,6 +1,6 @@
 ---
 date: 2020/08/30
-hijri: Muharram 11, 1442 AH
+hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ source: Fatawa Al-Lajnah Ad-Da'imah no. 17654
 title: Luqatah in Al-Haram is not to be picked up except by someone who will make
   a public announcement about it
 ---
+
 
 Question: 
 

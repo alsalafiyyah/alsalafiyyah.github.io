@@ -1,6 +1,6 @@
 ---
 group2: true
-hijri: Dhul-Hijjah 5, 1441
+hijri: '1441-12-05'
 lang: en
 layout: post
 mass_edited: true
@@ -14,6 +14,8 @@ tags:
 title: Ruling on book of Deobandi Jama'at Tabligh entitled Tablighi Nisab
 translation: false
 ---
+
+
 
 ### Question: 
 

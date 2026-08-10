@@ -1,6 +1,6 @@
 ---
 group7: true
-hijri: Dhul-Qa'dah 20, 1441
+hijri: '1441-11-20'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,8 @@ tags:
 title: The Ruling on pledge taken from a Sufi Shaykh
 translation: false
 ---
+
+
 
 ### Question: 
 

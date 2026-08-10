@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 12, 1442 AH
+hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
@@ -20,6 +20,7 @@ summary: The Hadith which is mentioned in the question generally applies to eati
 title: 'The Hadith: ''Every flesh that has grown up from unlawful earnings, Hellfire
   is most entitled to it'''
 ---
+
 
 Question: 
 

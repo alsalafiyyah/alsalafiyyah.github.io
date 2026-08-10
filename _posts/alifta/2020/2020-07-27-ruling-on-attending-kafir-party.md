@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -23,6 +23,7 @@ summary: It is not permissible for a Muslim to have Wala' (loyalty) to unbelieve
   like include some rites associated with Kufr (disbelief).
 title: Ruling on attending the parties of a related unbeliever
 ---
+
 
 ### Question: 
  

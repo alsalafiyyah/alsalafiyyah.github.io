@@ -2,20 +2,28 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-07-08
-title: "Ruling on Colored Contact Lenses"
-category: [audios,women,marriage]
-tags: [ibn-uthaymeen]
+title: Ruling on Colored Contact Lenses
+category:
+- audios
+- women
+- marriage
+tags:
+- ibn-uthaymeen
 lang: en
 translated: false
-source: "Fatawa Nur ala ad-Darb, Tape no.232, Question 4"
-link: "https://binothaimeen.net/s/s3uCiceU"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_232_04.mp3"
-summary: "It is not permissible for a woman to wear these lenses if doctors determine that they are harmful to her eyes. However, even if there is no harm, my advice to women is not to wear them."
+source: Fatawa Nur ala ad-Darb, Tape no.232, Question 4
+link: https://binothaimeen.net/s/s3uCiceU
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_232_04.mp3
+summary: It is not permissible for a woman to wear these lenses if doctors determine
+  that they are harmful to her eyes. However, even if there is no harm, my advice
+  to women is not to wear them.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
+hijri: '1448-01-23'
 ---
+
 
 ### Question: 
 

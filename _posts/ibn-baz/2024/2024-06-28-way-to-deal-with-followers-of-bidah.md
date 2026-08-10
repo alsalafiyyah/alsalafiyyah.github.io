@@ -1,20 +1,24 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Way to deal with the followers of Batiniyyah and Ahlul-bi'dah"
+title: Way to deal with the followers of Batiniyyah and Ahlul-bi'dah
 date: 2024-06-28
-hijri: "Dhul-Hijjah 22, 1445"
-source: "Majmu' Fatawa of Ibn Baz 28/47"
-category: [sects]
-tags: [ibn-baz]
+hijri: '1445-12-22'
+source: Majmu' Fatawa of Ibn Baz 28/47
+category:
+- sects
+tags:
+- ibn-baz
 lang: en
 translation: false
-summary: "You must avoid whoever exposes their Bid'ah and reveres the Prophet's family members excessively whether 'Ali, Fatimah, etc. or even any one of the other Sahabah."
+summary: You must avoid whoever exposes their Bid'ah and reveres the Prophet's family
+  members excessively whether 'Ali, Fatimah, etc. or even any one of the other Sahabah.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question:
 

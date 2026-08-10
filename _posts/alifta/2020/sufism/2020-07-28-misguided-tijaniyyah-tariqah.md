@@ -1,6 +1,6 @@
 ---
 group1: true
-hijri: Dhul-Hijjah 7, 1441 AH
+hijri: '1441-12-07'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,8 @@ tags:
 title: Al-Tijaniyyah is one of the most disbelieving and misguided sufi order
 translation: false
 ---
+
+
 
 ### Question: 
 

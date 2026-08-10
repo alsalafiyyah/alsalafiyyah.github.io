@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -23,6 +23,7 @@ summary: The Gospel that exists today is not the same that Allah, Glorified and 
 title: Ruling on participating in the missionary organizations competitions
 uid: ruling-on-participating-kafir-competitions
 ---
+
 
 ### Question: 
 

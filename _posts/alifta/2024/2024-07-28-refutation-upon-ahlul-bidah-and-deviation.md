@@ -1,6 +1,6 @@
 ---
 date: 2024-07-28
-hijri: Muharram 22, 1446
+hijri: '1446-01-22'
 lang: en
 layout: post
 mass_edited: true
@@ -17,6 +17,7 @@ summary: The refutations upon the people of innovation are from Jihad in the pat
 title: Refutation upon the followers of bid'ah and deviation
 translated_by: Maaz Qureshi
 ---
+
 
 ### Question:
 What do you say concerning the statement of the speaker: Indeed, the refutations upon the people of innovations and deviation were not the habitual practice of the Salaf, and that it is not befitting to spread the books of refutations, except amongst the students of knowledge and that they should not be spread amongst other than them?

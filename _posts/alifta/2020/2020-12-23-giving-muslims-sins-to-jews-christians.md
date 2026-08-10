@@ -1,5 +1,5 @@
 ---
-hijri: Jumada Al-Awwal 8, 1442 AH
+hijri: '1442-05-08'
 lang: en
 layout: post
 mass_edited: true
@@ -19,6 +19,7 @@ summary: Those who invite others to follow the misguidance that they follow, wil
   sins being reduced at all.
 title: Giving the Muslims' sins to the Jews and Christians
 ---
+
 
 Question:
 

@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 10, 1442 AH
+hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
@@ -25,6 +25,7 @@ summary: Lesbianism stands for homosexuality between females. It is forbidden an
 title: Lesbianism and its Hadd
 uid: lesbianism-and-its-hadd
 ---
+
 
 Question: 
 

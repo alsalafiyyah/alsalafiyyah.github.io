@@ -1,6 +1,6 @@
 ---
 date: 2024-08-23
-hijri: Safar 19, 1446 AH
+hijri: '1446-02-19'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: Wearing black at the time of calamities is a distinction that is invali
   with no basis to it.
 title: Ruling on wearing black garment in mourning for the dead
 ---
+
 
 ### Question:
 Is it permissible to wear a black garment for (mourning) the dead, in particular a deceased husband?

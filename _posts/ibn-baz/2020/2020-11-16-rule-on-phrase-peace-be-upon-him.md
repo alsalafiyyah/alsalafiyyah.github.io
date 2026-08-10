@@ -1,19 +1,24 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on using phrase 'peace be upon him' to anyone other than the Messenger"
-hijri: "Rabi' Al-Thani 01, 1442 AH"
-source: "Fatawa Al-Shaykh Ibn Baz p. 6/501"
+title: Ruling on using phrase 'peace be upon him' to anyone other than the Messenger
+hijri: '1442-04-01'
+source: Fatawa Al-Shaykh Ibn Baz p. 6/501
 lang: en
-link: "https://binbaz.org.sa/fatwas/1885/%D8%A7%D8%B7%D9%84%D8%A7%D9%82-%D9%83%D9%84%D9%85%D8%A9-%D8%B9%D9%84%D9%8A%D9%87-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D9%84%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%84-%EF%B7%BA"
-category: [prophets, sahabah]
+link: https://binbaz.org.sa/fatwas/1885/%D8%A7%D8%B7%D9%84%D8%A7%D9%82-%D9%83%D9%84%D9%85%D8%A9-%D8%B9%D9%84%D9%8A%D9%87-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D9%84%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%84-%EF%B7%BA
+category:
+- prophets
+- sahabah
 note: false
-summary: "There is no evidence on singling him out with this phrase to the exclusion of other Sahabah. Likewise, there is no evidence on singling him out with the phrase May Allah honor his face"
+summary: There is no evidence on singling him out with this phrase to the exclusion
+  of other Sahabah. Likewise, there is no evidence on singling him out with the phrase
+  May Allah honor his face
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question:
 

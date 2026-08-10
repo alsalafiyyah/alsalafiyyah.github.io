@@ -1,6 +1,6 @@
 ---
 group1: true
-hijri: Muharram 15, 1442
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -10,6 +10,7 @@ summary: If a person suffers hair loss and becomes bald, will it be permissible 
   use medication to generate hair growth?
 title: Ruling on using hair medicines
 ---
+
 
 ### Question:
 If a person suffers hair loss and becomes bald, will it be permissible to use medication to generate hair growth?

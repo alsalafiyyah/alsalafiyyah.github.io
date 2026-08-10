@@ -1,7 +1,7 @@
 ---
 date: 2020-09-01
 group11: true
-hijri: Muharram 13, 1442
+hijri: '1442-01-13'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: The Hadith on This Ummah will split into seventy-three sects, all of th
   will be in Hellfire except one.
 title: The Hadith on splitting of this Ummah into seventy-three sects
 ---
+
 
 ### Question:
 I read a Hadith mentioned by the Shaykh of Islam Muhammad ibn 'Abdul-Wahhab, in his book entitled “Mukhtasar Sirat Al-Rasul” (The Abridged Biography of the Prophet), which states: "**This Ummah (nation) will split into seventy-three sects, all of them will be in Hellfire except one.**"

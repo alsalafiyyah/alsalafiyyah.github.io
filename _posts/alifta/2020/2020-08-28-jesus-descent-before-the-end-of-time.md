@@ -1,6 +1,6 @@
 ---
 date: 2020/08/28
-hijri: Muharram 9, 1442 AH
+hijri: '1442-01-09'
 lang: en
 layout: post
 mass_edited: true
@@ -14,6 +14,7 @@ source: Fatawa Al-Lajnah Ad-Da'imah no. 2982
 title: The descent of Jesus before the end of time as a prophet and messenger is one
   of the major signs of the Hour
 ---
+
 
 Question: 
 

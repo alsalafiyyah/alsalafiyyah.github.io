@@ -1,6 +1,6 @@
 ---
 date: 2020/08/30
-hijri: Muharram 11, 1442 AH
+hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
@@ -20,6 +20,7 @@ summary: 'It is said that the Messenger of Allah (peace be upon him) said: ''Fea
   Allah, and fear those who fear Him.'' Is this a Sahih (authentic) Hadith?'
 title: 'Hadith: ''Fear Allah and fear those who fear Him'''
 ---
+
 
 Question: 
 

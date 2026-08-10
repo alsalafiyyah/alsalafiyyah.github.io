@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 14, 1442 AH
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: it is permissible for a Muslim to migrate from his homeland to another 
   where he feels secure about himself and his religion.
 title: Necessity of Hijrah for anyone who fears for his religion in his country
 ---
+
 
 ### Question:
 

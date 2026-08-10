@@ -1,19 +1,24 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on describing worldly inventions as Bid'ah"
-hijri: "Rabi' Al-Thani 03, 1442 AH"
-source: "Nur 'Ala Al-Darb tape no. 176"
+title: Ruling on describing worldly inventions as Bid'ah
+hijri: '1442-04-04'
+source: Nur 'Ala Al-Darb tape no. 176
 lang: en
-category: [bidah]
+category:
+- bidah
 note: false
-url: "https://al-maktaba.org/book/33940/916"
-summary: "Worldly affairs cannot be described as Bid'ahs in terms of the religious connotation of the word. What is Munkar and should be rejected, however, is what people have innovated in Din, such as acts of 'Ibadah (worship) that are not prescribed in Islam."
+url: https://al-maktaba.org/book/33940/916
+summary: Worldly affairs cannot be described as Bid'ahs in terms of the religious
+  connotation of the word. What is Munkar and should be rejected, however, is what
+  people have innovated in Din, such as acts of 'Ibadah (worship) that are not prescribed
+  in Islam.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question:
 

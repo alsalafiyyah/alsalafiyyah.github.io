@@ -1,18 +1,23 @@
 ---
 layout: post
-publisher: "alsalafiyyah@icloud.com"
+publisher: alsalafiyyah@icloud.com
 title: The dome on the grave of the Prophet is no pretext
-hijri: Dhul-Hijjah 24, 1441
+hijri: '1441-12-24'
 date: 2020-08-14
 lang: en
-mp3: "https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_864/nour_86402.mp3"
-category: [audios,wahhabism,manhaj]
-summary: "They say that Muhammad Ibn Abdul-Wahhab removed all the domes, with the exception of that dome; namely, the dome of the Prophet (peace be upon him)."
+mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_864/nour_86402.mp3
+category:
+- audios
+- wahhabism
+- manhaj
+summary: They say that Muhammad Ibn Abdul-Wahhab removed all the domes, with the exception
+  of that dome; namely, the dome of the Prophet (peace be upon him).
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 I know that building domes on graves is impermissible; however, some people say it is permissible and they take the dome on the grave of the Prophet (peace be upon him) as evidence to support their stance. They say that Muhammad Ibn Abdul-Wahhab removed all the domes, with the exception of that dome; namely, the dome of the Prophet (peace be upon him). How can we refute the argument of such people? Appreciate your guidance, may Allah guide you. 

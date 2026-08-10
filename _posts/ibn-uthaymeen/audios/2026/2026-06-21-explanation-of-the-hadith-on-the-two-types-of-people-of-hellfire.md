@@ -2,19 +2,25 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-06-21
-title: "Explanation of the Hadith on the Two Types of People of Hellfire"
-category: [audios,hadiths]
-tags: [ibn-uthaymeen]
+title: Explanation of the Hadith on the Two Types of People of Hellfire
+category:
+- audios
+- hadiths
+tags:
+- ibn-uthaymeen
 lang: en
-source: "Fatawa Nur ala ad-Darb, Tape no. 321"
-link: "https://binothaimeen.net/s/HhgjTNRO"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_321_23.mp3"
-summary: "A people with whips like the tails of cattle with which they strike the people, and women who are clothed yet naked."
+source: Fatawa Nur ala ad-Darb, Tape no. 321
+link: https://binothaimeen.net/s/HhgjTNRO
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_321_23.mp3
+summary: A people with whips like the tails of cattle with which they strike the people,
+  and women who are clothed yet naked.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
+hijri: '1448-01-06'
 ---
+
 
 ### Question: 
 

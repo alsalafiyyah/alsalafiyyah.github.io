@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -23,6 +23,7 @@ summary: If your intention of visiting is to advise and invite them to Islam, th
   as their objectives.
 title: Ruling on Muslims and non-Muslims exchanging visits
 ---
+
 
 ### Question: 
  

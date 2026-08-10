@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 10, 1442 AH
+hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
@@ -19,6 +19,7 @@ summary: Thank Allah for protecting you against the crime of sodomy. Seek Allah'
   forgiveness and do many good deeds.
 title: Ruling on intending to commit sodomy
 ---
+
 
 Question: 
 

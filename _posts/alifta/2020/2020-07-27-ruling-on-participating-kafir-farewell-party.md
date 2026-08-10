@@ -1,6 +1,6 @@
 ---
 date: 2020-07-27
-hijri: Dhul-Hijjah 6, 1441 AH
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -27,6 +27,7 @@ summary: Muslims' participation with non-Muslims in collecting a sum of money to
   permissible for a Muslim to do or even take part in.
 title: Ruling on Muslim participating and paying in a farewell party for a non-Muslim
 ---
+
 
 ### Question: 
 

@@ -1,6 +1,6 @@
 ---
 date: 2024-07-25
-hijri: Muharram 19, 1446 AH
+hijri: '1446-01-19'
 lang: en
 layout: post
 mass_edited: true
@@ -17,6 +17,7 @@ title: Does rebellion against the rulers occur only by the sword or does it incl
   slandering them?
 translated_by: Abul-Irbad Abid Zargar
 ---
+
 
 ### Question:
 Does rebellion against the rulers occur only by the sword or does it include slandering them, inciting the people to disobey them and rising up against them?

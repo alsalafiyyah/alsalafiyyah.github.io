@@ -1,25 +1,30 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Advice for Social Media Users"
-hijri: "Rabiul Awwal 06, 1446 AH"
+title: Advice for Social Media Users
+hijri: '1446-03-06'
 date: 2024-09-09
-category: [videos]
-tags: [salih-ibn-fawzan]
+category:
+- videos
+tags:
+- salih-ibn-fawzan
 active: videos
-summary: "Knowledge is not obtained from websites or social media networks; it is obtained directly from scholars, and not obtained from social media networks, rumors, or websites"
-translated_by: "Abul Baraa Muhammad Amreeki"
-videoURL: "https://youtu.be/NV1hWQJmVQM"
-videoID: "NV1hWQJmVQM"
-article_taken_from: 
+summary: Knowledge is not obtained from websites or social media networks; it is obtained
+  directly from scholars, and not obtained from social media networks, rumors, or
+  websites
+translated_by: Abul Baraa Muhammad Amreeki
+videoURL: https://youtu.be/NV1hWQJmVQM
+videoID: NV1hWQJmVQM
+article_taken_from:
   taken_from:
-    - web_title: "Advice For Social Media Users & Platforms"
-      web_url: "https://islamsfinest.online/2023/03/08/shaykh-fawzan-advice-for-social-media-users-platforms/"
+  - web_title: Advice For Social Media Users & Platforms
+    web_url: https://islamsfinest.online/2023/03/08/shaykh-fawzan-advice-for-social-media-users-platforms/
 muftis:
-  shaykh: 
-    - name: "Shaykh Salih Al-Fawzan"
-      url: "/biography/fawzan/"
+  shaykh:
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan/
 ---
+
 
 ### Question: 
 May Allah protect you, honorable Shaykh. The questioner here asks you to provide advice to social media users.

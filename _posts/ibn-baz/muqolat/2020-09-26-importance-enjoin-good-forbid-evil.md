@@ -3,19 +3,24 @@ layout: post
 active: muqolat
 publisher: alsalafiyyah@icloud.com
 title: Obligation of enjoining good and forbidding evil
-hijri: Safar 09, 1442
+hijri: '1442-02-09'
 date: 2020-09-26
 source: Majmu' Fatawa Al-Shaykh Ibn Baz 5/58
 lang: en
 locale: en
-active: muqolat
-category: [muqolat,manhaj]
-summary: A Muslim should recognize what is good and evil by acquiring knowledge and understanding the teachings of Islam, then, undertake the obligation of enjoining good and forbidding evil. Knowing and understanding the teachings of Islam constitute a sign of man's happiness and that Allah (Exalted be He) wants to do good to him.
+category:
+- muqolat
+- manhaj
+summary: A Muslim should recognize what is good and evil by acquiring knowledge and
+  understanding the teachings of Islam, then, undertake the obligation of enjoining
+  good and forbidding evil. Knowing and understanding the teachings of Islam constitute
+  a sign of man's happiness and that Allah (Exalted be He) wants to do good to him.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 All praise be to Allah, and peace and blessings be upon our Prophet Muhammad, his family, his Companions, and those who follow his guidance! To proceed: 
  

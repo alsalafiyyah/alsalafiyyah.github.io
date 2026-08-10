@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 14, 1442 AH
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: The countries whose rulers and those in power uphold the limits set by 
   with the Shari'ah are considered Muslim lands.
 title: Conditions of Dar Al-Harb and Dar Al-Kufr
 ---
+
 
 ### Question:
 

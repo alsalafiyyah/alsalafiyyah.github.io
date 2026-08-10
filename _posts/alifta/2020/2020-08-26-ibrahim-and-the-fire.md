@@ -1,7 +1,7 @@
 ---
 date: 2020/08/26
 group1: true
-hijri: Muharram 7, 1442
+hijri: '1442-01-07'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: Anyone who denies that Abraham was thrown into the fire is a disbelieve
   as they belie the Qur'an and the authentic Sunnah.
 title: Ruling on denies Abraham was thrown in the fire
 ---
+
 
 ### Question:
 What is the ruling on he who denies that Ibrahim (Abraham) (peace be upon him) was thrown in the fire and says that his enemies conspired against him to do that but Allah disclosed their conspiracies?

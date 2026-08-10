@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 16, 1442 AH
+hijri: '1442-01-16'
 lang: en
 layout: post
 mass_edited: true
@@ -26,6 +26,7 @@ tags:
 title: Ruling on Jama'at Al-Ahbash
 translation: false
 ---
+
 
 Praise be to Allah Alone. Peace and blessings be upon the last Prophet, his family, and Companions. 
 

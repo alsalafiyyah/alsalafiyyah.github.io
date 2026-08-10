@@ -1,6 +1,6 @@
 ---
 date: 2019-09-01
-hijri: Muharram 02, 1441 AH
+hijri: '1441-01-02'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ tags:
 title: Does looking at women with or without lust invalidate ablution?
 translation: false
 ---
+
 
 ### Question : 
 

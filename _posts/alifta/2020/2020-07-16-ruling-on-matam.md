@@ -1,7 +1,7 @@
 ---
 date: 2020-07-16
 group1: true
-hijri: Dhul-Qa'dah 25, 1441
+hijri: '1441-11-25'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: The habit of holding Ma'tam and staying to meet people who come for con
   is a type of Bid'ah.
 title: Ruling on sleeping on the ground for forty days as mourning over the dead
 ---
+
 
 ### Question: 
 

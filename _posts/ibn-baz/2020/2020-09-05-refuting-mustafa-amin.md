@@ -1,6 +1,6 @@
 ---
 date: 2020-09-05
-hijri: Muharram 17, 1442
+hijri: '1442-01-17'
 lang: en
 layout: post
 mass_edited: true
@@ -17,6 +17,7 @@ summary: Glorifying monuments is not by building memorials, inscriptions, and fo
   with words and actions.
 title: Refuting Mustafa Amin
 ---
+
 
 All praise be to Allah, Lord of the worlds, peace and blessings be upon the Honest Prophet Muhammad. 
 

@@ -1,5 +1,5 @@
 ---
-hijri: Safar 25, 1442 AH
+hijri: '1442-02-25'
 lang: en
 layout: post
 mass_edited: true
@@ -18,6 +18,7 @@ summary: It is impermissible for a person to remain ignorant. They have to learn
   they must know about their Din (religion) and gain religious knowledge from scholars.
 title: It is impermissible for a person to remain ignorant
 ---
+
 
 Question:
 

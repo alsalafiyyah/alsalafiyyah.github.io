@@ -2,19 +2,24 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-07-02
-title: "Theological Deviancy in Sufi Leadership"
-category: [audios,sects]
-tags: [ibn-uthaymeen]
+title: Theological Deviancy in Sufi Leadership
+category:
+- audios
+- sects
+tags:
+- ibn-uthaymeen
 lang: en
-source: "Fatawa Nur ala ad-Darb, Tape no.131, question 8"
-link: "https://binothaimeen.net/s/eMTUJrR4"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_131_08.mp3"
-summary: ""
+source: Fatawa Nur ala ad-Darb, Tape no.131, question 8
+link: https://binothaimeen.net/s/eMTUJrR4
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_131_08.mp3
+summary: ''
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
+hijri: '1448-01-17'
 ---
+
 
 ### Question: 
 

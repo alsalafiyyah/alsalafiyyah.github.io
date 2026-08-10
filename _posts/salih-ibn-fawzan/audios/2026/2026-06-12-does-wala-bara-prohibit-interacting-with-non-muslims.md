@@ -2,21 +2,28 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-06-12-does-wala-bara-prohibit-interacting-with-non-muslims.md
-title: "Does Al-Wala' wal-Bara' Prohibit Interacting and Speaking with Non-Muslims?"
-category: [audios, walabara, non-muslim]
-tags: [salih-ibn-fawzan]
-mp3: "https://audio.alfawzan.live/fth0528--01.mp3"
-link: "https://alfawzan.live/content/14475/"
+title: Does Al-Wala' wal-Bara' Prohibit Interacting and Speaking with Non-Muslims?
+category:
+- audios
+- walabara
+- non-muslim
+tags:
+- salih-ibn-fawzan
+mp3: https://audio.alfawzan.live/fth0528--01.mp3
+link: https://alfawzan.live/content/14475/
 active: audios
 translation: false
 lang: en
-source: "Fatwa no.14475"
-summary: "​It is only a matter of religion; we absolutely do not compromise with them regarding our faith."
+source: Fatwa no.14475
+summary: ​It is only a matter of religion; we absolutely do not compromise with them
+  regarding our faith.
 muftis:
-  shaykh: 
-    - name: "Shaykh Salih al-Fawzan"
-      url: "/biography/fawzan/"
+  shaykh:
+  - name: Shaykh Salih al-Fawzan
+    url: /biography/fawzan/
+hijri: '1447-12-26'
 ---
+
 
 ### Question:
 

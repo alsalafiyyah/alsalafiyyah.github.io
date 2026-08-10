@@ -2,19 +2,26 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-05-08
-hijri: "Dhu al-Qidah 21, 1447 AH"
-title: "The Limits of Women's Dress in the Presence of Mahrams"
-source: "Liqa’a al-Shahri 11"
-category: [fatwas,audios,women]
-tags: [ibn-uthaymeen]
-link: "https://binothaimeen.net/s/Y8p7pgtx"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/mm_011_07.mp3"
-summary: "My advice to my sisters among women is to avoid these garments and ensure their clothing is concealing. My advice to their guardians is to not permit women to wear clothing that contradicts the requirements of the Sharia."
+hijri: '1447-11-21'
+title: The Limits of Women's Dress in the Presence of Mahrams
+source: Liqa’a al-Shahri 11
+category:
+- fatwas
+- audios
+- women
+tags:
+- ibn-uthaymeen
+link: https://binothaimeen.net/s/Y8p7pgtx
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/mm_011_07.mp3
+summary: My advice to my sisters among women is to avoid these garments and ensure
+  their clothing is concealing. My advice to their guardians is to not permit women
+  to wear clothing that contradicts the requirements of the Sharia.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
 ---
+
 
 ### Question: 
 

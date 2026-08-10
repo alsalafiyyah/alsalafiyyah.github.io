@@ -1,23 +1,29 @@
 ---
 layout: post
-title: "Revealing the misguidance of the Sufi scholar Ibn 'Arabi"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Nur 'Ala al-Darb vol 3"
+title: Revealing the misguidance of the Sufi scholar Ibn 'Arabi
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Nur 'Ala al-Darb vol 3
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_718/nour_71815.mp3
 link: https://cutt.ly/rdGfqSg
-hijri: "Dhul-Hijjah 16, 1441"
+hijri: '1441-12-16'
 date: 2020-08-06
 lang: en
 active: audios
-category: [audios, sects]
-tags: [ibn-baz]
+category:
+- audios
+- sects
+tags:
+- ibn-baz
 type: audios
-summary: "Sufism has different branches, and its followers are, mostly, Mubtadi's. They have invocations and acts of worship that have no basis in the Qur'an or the Sunnah. One of the Sufis is Ibn 'Arabi."
+summary: Sufism has different branches, and its followers are, mostly, Mubtadi's.
+  They have invocations and acts of worship that have no basis in the Qur'an or the
+  Sunnah. One of the Sufis is Ibn 'Arabi.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question:
 A questioner from the Syrian Arab Republic asks: I am inquiring about Sufis and their reality and superstitions, because we hear a lot about them, especially what is written in the books of Muhyiddin ibn 'Arabi the Sufi. Please guide us. May Allah reward you with the best. 

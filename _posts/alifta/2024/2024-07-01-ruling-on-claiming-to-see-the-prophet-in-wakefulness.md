@@ -5,7 +5,7 @@ article_taken_from:
     web_url: https://al-fatawa.com/fatwa/105848
 date: 2024-07-01
 group6: true
-hijri: Dhul-Hijjah 25, 1445
+hijri: '1445-12-25'
 lang: en
 layout: post
 mass_edited: true
@@ -17,6 +17,7 @@ tags:
 title: Ruling on one who claims that he saw the Prophet ﷺ in a state of wakefulness
 translation: false
 ---
+
 
 ### Question :
 

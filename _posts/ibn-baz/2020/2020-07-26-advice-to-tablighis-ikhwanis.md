@@ -1,19 +1,25 @@
 ---
 layout: post
-title: "Advice to Jama'at Tabligh and Al-Ikhwan Al-Muslimun"
-publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat 28/57"
-category: [sects]
-tags: [ibn-baz]
-hijri: "Dhul-Hijjah 5, 1441"
+title: Advice to Jama'at Tabligh and Al-Ikhwan Al-Muslimun
+publisher: alsalafiyyah@icloud.com
+source: Majmu' Fatawa wa Maqalat 28/57
+category:
+- sects
+tags:
+- ibn-baz
+hijri: '1441-12-05'
 lang: en
 translation: false
-summary: "They all have some defects. They should judge themselves, adhere to the truth and fulfill the obligations of Tawhid (belief in the Oneness of Allah), Iman (faith) and sincerity towards Allah and following His Shari'ah as indicated in the Qur'an and Sunnah. "
+summary: 'They all have some defects. They should judge themselves, adhere to the
+  truth and fulfill the obligations of Tawhid (belief in the Oneness of Allah), Iman
+  (faith) and sincerity towards Allah and following His Shari''ah as indicated in
+  the Qur''an and Sunnah. '
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

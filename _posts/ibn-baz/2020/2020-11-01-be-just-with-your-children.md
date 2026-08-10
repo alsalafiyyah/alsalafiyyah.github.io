@@ -1,18 +1,24 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Be fair and equitable with your children"
-hijri: "Rabi' Al-Awwal 15, 1442 AH"
-source: "Majmu' Fatawa Al-Shaykh Ibn Baz p. 9/452, published in Al-Da'wah magazine, issue no. 1535, on 9/11/1416 A.H"
+title: Be fair and equitable with your children
+hijri: '1442-03-15'
+source: Majmu' Fatawa Al-Shaykh Ibn Baz p. 9/452, published in Al-Da'wah magazine,
+  issue no. 1535, on 9/11/1416 A.H
 lang: en
-category: [parenting]
+category:
+- parenting
 note: false
-summary: "A father should be fair with his sons and daughters according to the laws of inheritance. It is impermissible for him to dedicate any special thing to one of them unless the rest approve of it if they are of legal age, not out of fear, but willingly and without being threatened by their father."
+summary: A father should be fair with his sons and daughters according to the laws
+  of inheritance. It is impermissible for him to dedicate any special thing to one
+  of them unless the rest approve of it if they are of legal age, not out of fear,
+  but willingly and without being threatened by their father.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

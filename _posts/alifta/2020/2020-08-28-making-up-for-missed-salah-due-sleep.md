@@ -1,6 +1,6 @@
 ---
 date: 2020/08/28
-hijri: Muharram 9, 1442
+hijri: '1442-01-09'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: The Salah you miss due to sleep or forgetfulness should be offered the 
   it after sunrise.
 title: Making up for missed Salah due to sleep or other reasons
 ---
+
 
 ### Question: 
 

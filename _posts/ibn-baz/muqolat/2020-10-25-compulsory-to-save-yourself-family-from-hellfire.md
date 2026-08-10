@@ -2,19 +2,25 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: It is Compulsory to save yourself and family from Hellfire
-hijri: Rabi' Al-Awwal 08, 1442
+hijri: '1442-03-08'
 date: 2020-10-25
-category: [muqolat]
+category:
+- muqolat
 lang: en
 locale: en
-source: A speech delivered by His Eminence at Al-Ifta' mosque in Riyadh on Wednesday 6/6/1415 A.H.
-summary: The greatest responsibility is to take care of what saves them from the Punishment of Allah, by advising them to fear Allah and abide by His Orders and warning them against the Prohibitions of Allah. One should continue doing this until he meets his Lord.
+source: A speech delivered by His Eminence at Al-Ifta' mosque in Riyadh on Wednesday
+  6/6/1415 A.H.
+summary: The greatest responsibility is to take care of what saves them from the Punishment
+  of Allah, by advising them to fear Allah and abide by His Orders and warning them
+  against the Prohibitions of Allah. One should continue doing this until he meets
+  his Lord.
 active: muqolat
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 In the Name of Allah, the Most Gracious, the Most Merciful. Allah's Peace and Blessings be upon the Messenger of Allah.
 

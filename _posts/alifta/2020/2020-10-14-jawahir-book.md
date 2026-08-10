@@ -1,7 +1,7 @@
 ---
 book: Jihad and Hisbah
 chapter: Knowledge, books
-hijri: Safar 27, 1442 AH
+hijri: '1442-02-27'
 lang: en
 layout: post
 mass_edited: true
@@ -23,6 +23,7 @@ summary: The book of Al-Jawahir fi 'Uqubat Ahl Al-Kaba'ir by Shaykh Zayn Al-Din 
 title: 'The book: ''Al-Jawahir by Shaykh Zayn Al-Din Al-Malibary'' is not considered
   a reliable source'
 ---
+
 
 Question : 
 

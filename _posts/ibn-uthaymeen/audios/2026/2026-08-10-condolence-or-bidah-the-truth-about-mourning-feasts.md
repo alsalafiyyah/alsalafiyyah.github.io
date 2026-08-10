@@ -2,20 +2,27 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-08-10
-title: "Condolence or Bid'ah? The Truth About Mourning Feasts"
-category: [audios, funerals, bidah]
-tags: [ibn-uthaymeen]
+title: Condolence or Bid'ah? The Truth About Mourning Feasts
+category:
+- audios
+- funerals
+- bidah
+tags:
+- ibn-uthaymeen
 lang: en
 translated: false
-source: "Liqa' al-Bab al-Maftuh, Tape no. 172, Question 18"
-link: "https://binothaimeen.net/s/htmIo9HB"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_172_18.mp3"
-summary: "​Some contemporary scholars, may Allah grant them success, have stated that the origin of this practice is taken from the Christians."
+source: Liqa' al-Bab al-Maftuh, Tape no. 172, Question 18
+link: https://binothaimeen.net/s/htmIo9HB
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_172_18.mp3
+summary: ​Some contemporary scholars, may Allah grant them success, have stated that
+  the origin of this practice is taken from the Christians.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
+hijri: '1448-02-27'
 ---
+
 
 ### Question: 
 

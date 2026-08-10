@@ -1,6 +1,6 @@
 ---
 group1: true
-hijri: Dhul-Qa'dah 12, 1441
+hijri: '1441-11-12'
 lang: en
 layout: post
 mass_edited: true
@@ -13,6 +13,8 @@ tags:
 title: Sufi orders, litanies, and Adhkar
 translation: false
 ---
+
+
 
 ### Question:
 

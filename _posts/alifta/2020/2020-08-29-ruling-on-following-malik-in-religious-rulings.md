@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 10, 1442 AH
+hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: Imam Malik is one of the Imams in religious knowledge, but at the same 
   be accepted or rejected.
 title: Ruling on following Malik in religious rulings as he derived them
 ---
+
 
 Question: 
 

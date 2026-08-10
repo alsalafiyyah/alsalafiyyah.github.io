@@ -1,22 +1,27 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "The Ruling on Disparaging Jesus in Retaliation"
-hijri: "Shawwal 23, 1447 AH"
+title: The Ruling on Disparaging Jesus in Retaliation
+hijri: '1447-10-23'
 date: 2026-04-11
-category: [videos,prophets]
-tags: [salih-ibn-fawzan]
+category:
+- videos
+- prophets
+tags:
+- salih-ibn-fawzan
 lang: en
 active: videos
 translation: false
-summary: "We respect Messiah and we respect all the Prophets, and we believe that whoever disparages even one of them is a disbelieve."
-videoURL: "https://youtu.be/ZPCxmLxiFj0"
-videoID: "ZPCxmLxiFj0"
+summary: We respect Messiah and we respect all the Prophets, and we believe that whoever
+  disparages even one of them is a disbelieve.
+videoURL: https://youtu.be/ZPCxmLxiFj0
+videoID: ZPCxmLxiFj0
 muftis:
-  shaykh: 
-    - name: "Shaykh Salih Al-Fawzan"
-      url: "/biography/fawzan/"
+  shaykh:
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan/
 ---
+
 
 ### ​Question: 
 

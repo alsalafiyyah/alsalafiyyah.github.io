@@ -1,7 +1,7 @@
 ---
 author: Permanent Committee of KSA
 date: 2023-07-16
-hijri: Dhul-Hijjah 28, 1444 AH
+hijri: '1444-12-28'
 lang: en
 layout: post
 mass_edited: true
@@ -27,6 +27,7 @@ tags:
 title: Ruling on hearing songs or music without intending
 translation: false
 ---
+
 
 ### Question: 
 

@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -23,6 +23,7 @@ summary: It is not permissible for a Muslim to observe any of the rituals of dis
   and Shirk, including the religious occasions such as festivals and others.
 title: Ruling on eating foods prepared for Neyruz feast after it
 ---
+
 
 ### Question: 
  

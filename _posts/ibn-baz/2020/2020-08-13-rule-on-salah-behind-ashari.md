@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 23, 1441 AH
+hijri: '1441-12-23'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ tags:
 title: Ruling on Prayer behind a man who opposes Ahl Al-Sunnah wal-Jama'ah
 translation: false
 ---
+
 
 ### Question:
 

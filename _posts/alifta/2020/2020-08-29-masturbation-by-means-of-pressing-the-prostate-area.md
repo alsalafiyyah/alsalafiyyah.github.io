@@ -1,6 +1,6 @@
 ---
 date: 2020/08/29
-hijri: Muharram 10, 1442 AH
+hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 16055
 title: Ruling on masturbation by means of pressing the prostate area
 ---
+
 
 Question: 
 

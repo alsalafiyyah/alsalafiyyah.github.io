@@ -1,19 +1,25 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "The ruling on putting pictures in homes"
-hijri: "Rabi' Al-Awwal 11, 1442"
-source: "One of the questions asked by Al-Da'wah magazine, His Eminence replied on 3/12/1418 A.H"
+title: The ruling on putting pictures in homes
+hijri: '1442-03-11'
+source: One of the questions asked by Al-Da'wah magazine, His Eminence replied on
+  3/12/1418 A.H
 lang: en
 locale: en
-category: [fatwas,taswir]
+category:
+- fatwas
+- taswir
 note: false
-summary: "It is obligatory to remove these pictures. You should not keep them either in the bathroom or anywhere else at home, for the Prophet -peace be upon him- said to Ali: Spare no portrait unwiped out, and leave not a high grave unleveled."
+summary: 'It is obligatory to remove these pictures. You should not keep them either
+  in the bathroom or anywhere else at home, for the Prophet -peace be upon him- said
+  to Ali: Spare no portrait unwiped out, and leave not a high grave unleveled.'
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

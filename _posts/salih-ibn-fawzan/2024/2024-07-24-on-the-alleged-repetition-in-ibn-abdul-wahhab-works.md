@@ -1,19 +1,24 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "On the Alleged Repetition in Ibn Abd al-Wahhab’s Works"
-hijri: "Muharram 18, 1446"
+title: On the Alleged Repetition in Ibn Abd al-Wahhab’s Works
+hijri: '1446-01-18'
 date: 2024-07-24-on-the-alleged-repetition-in-ibn-abdul-wahhab-works.md
-category: [wahhabism,manhaj]
-tags: [salih-ibn-fawzan]
+category:
+- wahhabism
+- manhaj
+tags:
+- salih-ibn-fawzan
 lang: en
-link: "https://www.al-amen.com/vb/showthread.php?t=21291"
-summary: "It is either an ignorant individual who has neither studied them nor grasped their reality."
+link: https://www.al-amen.com/vb/showthread.php?t=21291
+summary: It is either an ignorant individual who has neither studied them nor grasped
+  their reality.
 muftis:
-  shaykh: 
-    - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan
+  shaykh:
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan
 ---
+
 
 ### Question: 
 

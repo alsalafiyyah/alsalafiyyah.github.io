@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: It is not permissible to allocate either Saturdays or Sundays or both o
   them as weekends, since this implies imitating the Jews and Christians.
 title: Ruling on imitating Jews and Christians in their weekends
 ---
+
 
 ### Question: 
  

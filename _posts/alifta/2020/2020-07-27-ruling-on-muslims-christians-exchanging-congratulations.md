@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -24,6 +24,7 @@ summary: It is not permissible to greet Christians or other disbelievers on thei
   their falsehood and sharing in their sin.
 title: Ruling on Muslims and Christians exchanging congratulations
 ---
+
 
 ### Question: 
 

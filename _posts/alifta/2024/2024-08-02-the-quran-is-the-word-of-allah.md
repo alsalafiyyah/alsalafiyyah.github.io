@@ -1,7 +1,7 @@
 ---
 date: 2024-08-02
 group15: true
-hijri: Muharram 27, 1446 AH
+hijri: '1446-01-27'
 lang: en
 layout: post
 link: https://al-fatawa.com/fatwa/104228
@@ -16,6 +16,7 @@ tags:
 title: The Quran is the Words of Allah and not created
 translation: false
 ---
+
 
 ### Question: 
 

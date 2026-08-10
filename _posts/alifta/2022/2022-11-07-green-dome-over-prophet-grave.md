@@ -2,7 +2,7 @@
 author: Instagram@Alsalafiyyah
 date: 2022-11-07
 group9: true
-hijri: Rabi Al-Thani 13, 1444
+hijri: '1444-04-13'
 lang: en
 layout: post
 mass_edited: true
@@ -14,6 +14,7 @@ tags:
 title: Green Dome over the Prophet’s grave
 translation: false
 ---
+
 
 ### Question:
 

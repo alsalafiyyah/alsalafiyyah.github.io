@@ -2,19 +2,25 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-06-21
-title: "If You Feel No Shame, Then Do As You Wish"
-source: "Fatawa Nur ala ad-Darb, Tape no. 193, Question 2"
-category: [audios,hadiths]
-tags: [ibn-uthaymeen]
+title: If You Feel No Shame, Then Do As You Wish
+source: Fatawa Nur ala ad-Darb, Tape no. 193, Question 2
+category:
+- audios
+- hadiths
+tags:
+- ibn-uthaymeen
 lang: en
-link: "https://binothaimeen.net/s/mUy0XyxF"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_193_02.mp3"
-summary: "A person who lacks shame is found doing everything, completely unconcerned by people's blame or criticism because they have no shame."
+link: https://binothaimeen.net/s/mUy0XyxF
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_193_02.mp3
+summary: A person who lacks shame is found doing everything, completely unconcerned
+  by people's blame or criticism because they have no shame.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
+hijri: '1448-01-06'
 ---
+
 
 ### Question: 
 

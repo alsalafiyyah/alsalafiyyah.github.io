@@ -2,18 +2,24 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: Muslim world has corrupt in Aqidah
-hijri: Dhul-Hijjah 24, 1441
+hijri: '1441-12-24'
 date: 2020-08-14
-source: "Fatwa Nur 'Ala Al-Darb vol 2"
+source: Fatwa Nur 'Ala Al-Darb vol 2
 lang: en
 active: wahhabi
-category: [wahhabism,manhaj,sects]
-summary: "It becomes evident through messages sent to this program that our Muslim world is full of many things that contradict the religion of Islam. One of these things is Sufism and seeking blessings from the graves, Awliya and the like."
+category:
+- wahhabism
+- manhaj
+- sects
+summary: It becomes evident through messages sent to this program that our Muslim
+  world is full of many things that contradict the religion of Islam. One of these
+  things is Sufism and seeking blessings from the graves, Awliya and the like.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question:
 Our Shaykh, it becomes evident through messages sent to this program that our Muslim world is full of many things that contradict the religion of Islam. One of these things is Sufism and seeking blessings from the graves, Awliya and the like. It seems that this affair require another Shaykh like Muhammad Ibn 'Abdul-Wahhab.

@@ -1,6 +1,6 @@
 ---
 date: 2020-09-06
-hijri: Muharram 18, 1442
+hijri: '1442-01-18'
 lang: en
 layout: post
 mass_edited: true
@@ -17,6 +17,7 @@ summary: It is not allowed to celebrate the birthday of the Messenger or other b
 title: Response to Urdu newspaper Idarat who launched a press campaign against the
   Kingdom of Saudi Arabia
 ---
+
 
 All praise be to Allah Who has perfected the religion for us, completed His Favor upon us and approved Islam as a religion for us. May peace and blessings be upon His slave and Messenger, who invited mankind to obey their Lord and warned against excessiveness, innovations in religion and disobedience. May peace be upon his family, his Companions, and those who have followed his path and guidance until the Day of Judgment. To proceed:
 

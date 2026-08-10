@@ -1,7 +1,7 @@
 ---
 date: 2020/08/26
 group1: true
-hijri: Muharram 7, 1442
+hijri: '1442-01-07'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: No one knows their number except Allah. Those who are known are those w
   are mentioned in the Qur'an or authentically reported in the Sunnah.
 title: Number of prophets and messengers
 ---
+
 
 ### Question:
 How many Prophets and Messengers (peace be upon them) were there?

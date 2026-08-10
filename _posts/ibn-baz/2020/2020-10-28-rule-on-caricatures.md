@@ -1,19 +1,26 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "The ruling on caricatures"
-hijri: "Rabi' Al-Awwal 11, 1442"
-source: "It was published in the book entitled Fatawa Islamiyyah, compiled by Shaykh Muhammad Al-Musnad 4/362"
+title: The ruling on caricatures
+hijri: '1442-03-11'
+source: It was published in the book entitled Fatawa Islamiyyah, compiled by Shaykh
+  Muhammad Al-Musnad 4/362
 lang: en
 locale: en
-category: [fatwas,taswir]
+category:
+- fatwas
+- taswir
 note: false
-summary: "The referred to drawing is not permissible. It is one of the widely common prohibited matters that should be abandoned due to the categorical purport of the authentic Hadiths establishing the prohibition of picturing animate objects, whether through photographing, drawing or anything else."
+summary: The referred to drawing is not permissible. It is one of the widely common
+  prohibited matters that should be abandoned due to the categorical purport of the
+  authentic Hadiths establishing the prohibition of picturing animate objects, whether
+  through photographing, drawing or anything else.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

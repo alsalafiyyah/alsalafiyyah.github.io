@@ -1,6 +1,6 @@
 ---
 date: 2020-08-31
-hijri: Muharram 12, 1442
+hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
@@ -19,6 +19,7 @@ summary: Scholars have differed concerning the year in which Hajj was made oblig
   It was said that it was in the fifth year after Hijrah.
 title: When was Hajj made obligatory?
 ---
+
 
 ### Question:
 In which year, following the Hijrah (Prophet’s migration to Madinah), was Hajj made obligatory? What is the most authentic report in this regard?

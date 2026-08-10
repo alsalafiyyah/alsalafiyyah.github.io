@@ -1,7 +1,7 @@
 ---
 date: 2020-08-28
 group1: true
-hijri: Muharram 9, 1442 AH
+hijri: '1442-01-09'
 lang: en
 layout: post
 mass_edited: true
@@ -13,6 +13,7 @@ summary: What is intended here is to clarify that Ibrahim (peace be upon him) co
   Allah.
 title: Prophet Ibrahim's (Abraham, peace be upon him) rescue from his enemies
 ---
+
 
 ### Question: 
 

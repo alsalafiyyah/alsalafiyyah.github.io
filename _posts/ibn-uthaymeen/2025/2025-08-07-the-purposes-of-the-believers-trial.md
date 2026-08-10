@@ -1,20 +1,26 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "The Purposes of the Believer's Trial"
+title: The Purposes of the Believer's Trial
 date: 2025-08-07
-hijri: "Safar 13, 1447 AH"
-source: "Fatawa Islamiyah pg. 177-180"
-category: [misc]
-tags: [ibn-uthaymeen]
+hijri: '1447-02-13'
+source: Fatawa Islamiyah pg. 177-180
+category:
+- misc
+tags:
+- ibn-uthaymeen
 lang: en
 translation: false
-summary: "Allah, the Almighty, the Majestic is Wiser, Greater, More Powerful and More Able; thus it is incumbent upon us to accept His Decree with a complete acceptance, both those which He allows to happen without necessitating His approval, and those which happen with His liking and approval."
+summary: Allah, the Almighty, the Majestic is Wiser, Greater, More Powerful and More
+  Able; thus it is incumbent upon us to accept His Decree with a complete acceptance,
+  both those which He allows to happen without necessitating His approval, and those
+  which happen with His liking and approval.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
 ---
+
 
 ### Question: 
 

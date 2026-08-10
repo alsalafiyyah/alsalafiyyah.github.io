@@ -4,7 +4,7 @@ article_taken_from:
   - web_title: قراءة سورة يس للأموات وإهداء ثوابها إليهم
     web_url: https://al-fatawa.com/fatwa/104387
 date: 2024-07-01
-hijri: Dhul-Hijjah 25, 1445
+hijri: '1445-12-25'
 lang: en
 layout: post
 mass_edited: true
@@ -26,6 +26,7 @@ tags:
 title: Ruling on reciting Surah Ya-Sin over the dead
 translation: false
 ---
+
 
 ### Question: 
 

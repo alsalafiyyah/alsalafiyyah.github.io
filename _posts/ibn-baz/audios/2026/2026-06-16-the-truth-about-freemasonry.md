@@ -1,21 +1,27 @@
 ---
 layout: post
-title: "The truth about Freemasonry"
-publisher: "alsalafiyyah@icloud.com"
+title: The truth about Freemasonry
+publisher: alsalafiyyah@icloud.com
 date: 2026-06-16
 active: audios
-category: [audios,sects]
+category:
+- audios
+- sects
 translation: false
-tags: [ibn-baz]
+tags:
+- ibn-baz
 lang: en
-mp3: "https://files.zadapps.info/binbaz.org.sa/fatawa/jame3_kabeer/fjk5_1142.mp3"
-link: "https://binbaz.org.sa/fatwas/2646/%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D8%B3%D9%88%D9%86%D9%8A%D8%A9"
-summary: "This is what they hold in secret. As for what they display outwardly, they only call for brotherhood and cooperation."
+mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/jame3_kabeer/fjk5_1142.mp3
+link: https://binbaz.org.sa/fatwas/2646/%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D8%B3%D9%88%D9%86%D9%8A%D8%A9
+summary: This is what they hold in secret. As for what they display outwardly, they
+  only call for brotherhood and cooperation.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+hijri: '1448-01-01'
 ---
+
 
 ### Question: 
 

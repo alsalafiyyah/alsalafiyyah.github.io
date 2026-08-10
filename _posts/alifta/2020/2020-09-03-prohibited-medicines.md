@@ -1,6 +1,6 @@
 ---
 date: 2020/09/3
-hijri: Muharram 15, 1442
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -25,6 +25,7 @@ summary: A Muslim is forbidden to make use of any harmful herb such as intoxican
   or the like.
 title: Prohibited medicines
 ---
+
 
 ### Question:
 What are the kinds of herbs a Muslim is forbidden to make use of for treatment?

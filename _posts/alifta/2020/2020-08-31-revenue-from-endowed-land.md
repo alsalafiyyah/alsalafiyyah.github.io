@@ -1,6 +1,6 @@
 ---
 date: 2020-08-31
-hijri: Muharram 12, 1442
+hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
@@ -19,6 +19,7 @@ summary: Are the payments for having permission to hire Waqf or endowment includ
   in its revenue or a part of the Waqf itself?
 title: Revenue from endowed land
 ---
+
 
 ### Question: 
 

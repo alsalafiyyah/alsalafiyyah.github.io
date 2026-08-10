@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 11, 1441
+hijri: '1441-12-10'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: The method which should be followed is the Qur'an and the Sunnah. A per
   predecessors) in order to understand them.
 title: The ruling on Al-Ikhwan-ul-Muslimun (the Muslim Brotherhood) group
 ---
+
 
 Question: 
 

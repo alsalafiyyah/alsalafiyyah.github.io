@@ -1,21 +1,27 @@
 ---
 layout: post
 title: Was Shaykh Muhammad ibn Abdul-Wahhab's Da'wah based on Takfir?
-publisher: "alsalafiyyah@icloud.com"
-hijri: "Rabi' Al-Awwal 25, 1442"
+publisher: alsalafiyyah@icloud.com
+hijri: '1442-03-25'
 date: 2020-11-11
-category: [fatwas,wahhabism,manhaj]
+category:
+- fatwas
+- wahhabism
+- manhaj
 note: false
 lang: en
 locale: en
 source: Kitab Rasa'il wa Fatawa Abdulaziz Aal Al-Shaykh p.151
 active: wahhabi
-summary: "The Ever-Glorious Qur'an declares anyone who contradicts truth and right guidance to be a disbeliever. Thus, there is evidence of Takfir in the Qur'an and Sunnah."
+summary: The Ever-Glorious Qur'an declares anyone who contradicts truth and right
+  guidance to be a disbeliever. Thus, there is evidence of Takfir in the Qur'an and
+  Sunnah.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz Aal ash-Shaykh
-      url: /biography/abdulaziz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz Aal ash-Shaykh
+    url: /biography/abdulaziz/
 ---
+
 
 ### Question:
 Some claim that Takfir (declaring someone to be a disbeliever) that is known nowadays was the product of Shaykh Muhammad ibn 'Abdul-Wahhab's da'wah. They also claim that some of his books, such as Kashf Al-Shubuhat and Al-Durar Al-Saniyyah, establish the approach to Takfir. What is Your Eminence's answer to those who make this claim? May Allah bless you.

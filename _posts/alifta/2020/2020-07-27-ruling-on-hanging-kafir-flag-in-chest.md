@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -24,6 +24,7 @@ summary: It is not permissible for a Muslim to hang the disbelievers' distinctiv
 title: Ruling on hanging a non-Muslim country's flag on a Muslim's chest
 uid: ruling-on-hanging-kafir-flag-in-chest
 ---
+
 
 ### Question: 
 

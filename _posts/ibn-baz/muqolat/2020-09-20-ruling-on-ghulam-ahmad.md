@@ -1,20 +1,27 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "The Shari'ah ruling on Ghulam Ahmad Pervez"
-hijri: Safar 03, 1442
+title: The Shari'ah ruling on Ghulam Ahmad Pervez
+hijri: '1442-02-03'
 lang: en
 locale: en
 date: 2020-09-20
 note: false
-source: "Majmu' Fatawa 3/268"
-category: [sects,refutals,non-muslim,muqolat]
-summary: "This atheist, Ghulam Ahmad Pervez, has never believed in what Allah sent down to Muhammad, peace be upon him, and to the preceding messengers. Rather, he wholeheartedly denied it."
+source: Majmu' Fatawa 3/268
+category:
+- sects
+- refutals
+- non-muslim
+- muqolat
+summary: This atheist, Ghulam Ahmad Pervez, has never believed in what Allah sent
+  down to Muhammad, peace be upon him, and to the preceding messengers. Rather, he
+  wholeheartedly denied it.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 All praise be to Allah Alone, and peace and blessings be upon His Messenger, and his family and Companions.
 

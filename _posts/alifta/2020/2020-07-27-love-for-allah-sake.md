@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: Loving and hating for the Sake of Allah is the most trustworthy handhol
   rather, it should be for all believers.
 title: Love for the Sake of Allah
 ---
+
 
 ### Question: 
 

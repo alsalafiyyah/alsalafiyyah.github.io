@@ -1,6 +1,6 @@
 ---
 date: 2024-07-25
-hijri: Muharram 19, 1446 AH
+hijri: '1446-01-19'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: The concept of demonstrations is a new, modern issue. It was not known 
   the time of any of the Companions.
 title: Concerning Demonstrations
 ---
+
 
 ### Question:
 Are demonstrations considered to be a means from the legitimate means of Da’wah?

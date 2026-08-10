@@ -2,23 +2,29 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Condemning the Pre-Islamic Mindset Regarding the Birth of Girls"
-hijri: "Dhu al-Qidah 24, 1447 AH"
+title: Condemning the Pre-Islamic Mindset Regarding the Birth of Girls
+hijri: '1447-11-24'
 date: 2026-05-11
-category: [fatwas,videos,women]
-tags: [ibn-baz]
+category:
+- fatwas
+- videos
+- women
+tags:
+- ibn-baz
 active: videos
 lang: en
 translation: true
-summary: "A person should not dislike [having] a daughter; rather, he should praise Allah and ask for her righteousness and success."
-videoURL: "https://youtu.be/tNUYJ0s2yas"
-videoID: "tNUYJ0s2yas"
-source: "Fatawa Nur ala ad-Darb 21/439-440"
+summary: A person should not dislike [having] a daughter; rather, he should praise
+  Allah and ask for her righteousness and success.
+videoURL: https://youtu.be/tNUYJ0s2yas
+videoID: tNUYJ0s2yas
+source: Fatawa Nur ala ad-Darb 21/439-440
 muftis:
-  shaykh: 
-    - name: "Shaykh Ibn Baz"
-      url: "/biography/binbaz/"
+  shaykh:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

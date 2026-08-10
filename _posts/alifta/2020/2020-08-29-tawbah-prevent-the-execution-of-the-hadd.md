@@ -1,6 +1,6 @@
 ---
 group1: true
-hijri: Muharram 10, 1442 AH
+hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
@@ -14,6 +14,7 @@ tags:
 title: Tawbah to prevent the execution of the Hadd
 translation: false
 ---
+
 
 ### Question: 
 

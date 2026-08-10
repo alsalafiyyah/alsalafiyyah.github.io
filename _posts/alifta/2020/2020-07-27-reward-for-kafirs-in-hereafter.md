@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -19,6 +19,7 @@ summary: If a disbeliever does good for the Muslims, he is rewarded for this in 
   life; however, it is not a reason for him to enter Paradise.
 title: Reward in the Hereafter for a disbeliever treating a Muslim kindly
 ---
+
 
 ### Question: 
 

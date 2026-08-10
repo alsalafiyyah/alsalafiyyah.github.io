@@ -2,20 +2,28 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-08-06
-title: "Responding to the Misuse of 'For You Is Your Religion' when Enjoining Good and Forbidding Evil"
-category: [audios, amar-maruf]
-tags: [ibn-uthaymeen]
+title: Responding to the Misuse of 'For You Is Your Religion' when Enjoining Good
+  and Forbidding Evil
+category:
+- audios
+- amar-maruf
+tags:
+- ibn-uthaymeen
 lang: en
 translated: false
-source: "Fatawa Nur 'ala al-darb, Tape no.72, Question no.7"
-link: "https://binothaimeen.net/s/sUdCmulH"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_072_07.mp3"
-summary: "Yes, for you is your religion and for me is my religion, but my religion commands me to command you to do good and forbid you from evil, so that is part of my religion."
+source: Fatawa Nur 'ala al-darb, Tape no.72, Question no.7
+link: https://binothaimeen.net/s/sUdCmulH
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_072_07.mp3
+summary: Yes, for you is your religion and for me is my religion, but my religion
+  commands me to command you to do good and forbid you from evil, so that is part
+  of my religion.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
+hijri: '1448-02-23'
 ---
+
 
 ### Question: 
 

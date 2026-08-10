@@ -2,20 +2,28 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-05-18-
-title: "Is There an Authentic Hadith Regarding the Adhan and Iqamah in the Newborn's Ears?"
-source: "Fatawa Nur 'ala al-Darb, Tape no. 339"
-category: [fatwas, audios, women]
-tags: [ibn-uthaymeen]
-link: "https://binothaimeen.net/s/JHHbSbzG"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_339_23.mp3"
-summary: "As for the narrations (Hadiths) regarding the Iqamah in the left ear, they are weak."
+title: Is There an Authentic Hadith Regarding the Adhan and Iqamah in the Newborn's
+  Ears?
+source: Fatawa Nur 'ala al-Darb, Tape no. 339
+category:
+- fatwas
+- audios
+- women
+tags:
+- ibn-uthaymeen
+link: https://binothaimeen.net/s/JHHbSbzG
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_339_23.mp3
+summary: As for the narrations (Hadiths) regarding the Iqamah in the left ear, they
+  are weak.
 lang: en
 translation: true
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
+hijri: '1447-12-01'
 ---
+
 
 ### Question: 
 

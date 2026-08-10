@@ -2,20 +2,30 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-05-14
-title: "His wife is demanding that he shave his beard, should he obey her?"
-source: "Fatawa Nur 'ala al-Darb / Tape no: 44"
-category: [fatwas, audios, women, marriage, sunnah]
-tags: [ibn-uthaymeen]
-link: "https://binothaimeen.net/s/O2mDL5Yq"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_044_13.mp3"
-summary: "He must never obey his wife, his mother, his father, nor his superiors in committing a sin, for there is no obedience to a created being if it involves disobedience to the Creator."
+title: His wife is demanding that he shave his beard, should he obey her?
+source: 'Fatawa Nur ''ala al-Darb / Tape no: 44'
+category:
+- fatwas
+- audios
+- women
+- marriage
+- sunnah
+tags:
+- ibn-uthaymeen
+link: https://binothaimeen.net/s/O2mDL5Yq
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_044_13.mp3
+summary: He must never obey his wife, his mother, his father, nor his superiors in
+  committing a sin, for there is no obedience to a created being if it involves disobedience
+  to the Creator.
 lang: en
 translation: true
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
+hijri: '1447-11-27'
 ---
+
 
 ### Question: 
 

@@ -1,18 +1,22 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Is it permissible for a father to force his daughter to marry a person whom she does not want to marry?"
-hijri: "Rabi' Al-Thani 18, 1442 AH"
-source: "Fatawa Shaykh Ibn Baz p. 30/317"
+title: Is it permissible for a father to force his daughter to marry a person whom
+  she does not want to marry?
+hijri: '1442-04-18'
+source: Fatawa Shaykh Ibn Baz p. 30/317
 lang: en
-category: [marriage]
+category:
+- marriage
 note: false
-summary: "A father or any other person is not allowed to force the girls towards whom they act as Walis to marry one whom she does not want to be married to."
+summary: A father or any other person is not allowed to force the girls towards whom
+  they act as Walis to marry one whom she does not want to be married to.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question:
 

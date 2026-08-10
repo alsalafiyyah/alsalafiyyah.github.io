@@ -2,22 +2,29 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-08-06
-hijri: 1448-02-23
-title: "Why the Prophet's Grave Was Included in the Mosque"
-category: [audios, sects, sufism]
-tags: [salih-ibn-fawzan]
-mp3: "https://audio.alfawzan.live/2019-12/08_0.mp3"
-link: "https://alfawzan.live/content/18243/"
+hijri: '1448-02-23'
+title: Why the Prophet's Grave Was Included in the Mosque
+category:
+- audios
+- sects
+- sufism
+tags:
+- salih-ibn-fawzan
+mp3: https://audio.alfawzan.live/2019-12/08_0.mp3
+link: https://alfawzan.live/content/18243/
 active: audios
 translation: false
 lang: en
-source: "Fatwa No. 18243"
-summary: "He is not [originally] inside his mosque; he is buried inside his mosque, peace and blessings be upon him, [because] the rooms were originally outside the mosque."
+source: Fatwa No. 18243
+summary: He is not [originally] inside his mosque; he is buried inside his mosque,
+  peace and blessings be upon him, [because] the rooms were originally outside the
+  mosque.
 muftis:
-  shaykh: 
-    - name: "Shaykh Salih al-Fawzan"
-      url: "/biography/fawzan/"
+  shaykh:
+  - name: Shaykh Salih al-Fawzan
+    url: /biography/fawzan/
 ---
+
 
 ### Question: 
 

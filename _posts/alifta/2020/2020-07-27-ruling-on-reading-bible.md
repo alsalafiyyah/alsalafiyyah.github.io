@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -24,6 +24,7 @@ summary: It is not permissible for a Muslim to read the Bible as it has almost e
   are needless as the Qur'an replaces them.
 title: Ruling on reading the Bible and swearing by it
 ---
+
 
 ### Question: 
 

@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 26, 1442 AH
+hijri: '1442-01-26'
 lang: en
 layout: post
 mass_edited: true
@@ -23,6 +23,7 @@ summary: Mubahalah is not exclusive to the event that took place between the Mes
   and non-Christians.
 title: Mubahalah between the Messenger (peace be upon him) and the Christians
 ---
+
 
 Question:
 

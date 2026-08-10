@@ -1,5 +1,5 @@
 ---
-hijri: Safar 24, 1442 AH
+hijri: '1442-02-24'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: As for those whom Da'wah has not reached in an uncorrupted manner, they
   while those who disobey will enter Hellfire.
 title: The fate of Ahl Al-Fatrah
 ---
+
 
 Question:
 

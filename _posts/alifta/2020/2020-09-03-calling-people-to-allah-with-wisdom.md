@@ -1,7 +1,7 @@
 ---
 date: 2020-09-03
 group2: true
-hijri: Muharram 14, 1442
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: You have to call to Allah with wisdom, good admonition and arguing with
   in the best manner. You should follow the command of Allah in His Saying.
 title: Calling people to Allah with wisdom and fair preaching
 ---
+
 
 ### Question:
 All the inhabitants of the village embraced Islam. But about half of the village have idols in their houses. We advised them to relinquish all these idols, but they refused. We entered every house in the village to destroy these idols by force. Fights broke out and led to the killing of one person. Is this Jihad? Is the dead person a martyr? 

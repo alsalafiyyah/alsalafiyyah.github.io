@@ -2,20 +2,28 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-06-02
-title: "Is a Husband Sinful If He Does Not Love His Wife?"
-source: "Fatawa Nur 'ala al-Darb, Tape no. 168"
-category: [audios, women, marriage]
-tags: [ibn-uthaymeen]
-link: "https://binothaimeen.net/s/o90bkJPc"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_168_05.mp3"
-summary: "The matter of a wife is not like any other; indeed, the separation of spouses from one another carries its own dangers, especially if there are children between them."
+title: Is a Husband Sinful If He Does Not Love His Wife?
+source: Fatawa Nur 'ala al-Darb, Tape no. 168
+category:
+- audios
+- women
+- marriage
+tags:
+- ibn-uthaymeen
+link: https://binothaimeen.net/s/o90bkJPc
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_168_05.mp3
+summary: The matter of a wife is not like any other; indeed, the separation of spouses
+  from one another carries its own dangers, especially if there are children between
+  them.
 lang: en
 translation: true
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
+hijri: '1447-12-16'
 ---
+
 
 ### Question: 
 

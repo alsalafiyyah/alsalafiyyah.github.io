@@ -1,17 +1,24 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "knowledge has faded and the scholars have died"
-hijri: Safar 21, 1442 AH
-category: [misc]
+title: knowledge has faded and the scholars have died
+hijri: '1442-02-21'
+category:
+- misc
 lang: en
-source: "Majmu' Fatawa p. 7/231, question 1"
-summary: "Indeed, Allah does not take away (religious) knowledge by pulling it away from the (chests of) people. However, Allah takes the (religious) knowledge by taking away (inflicting death on) the scholars, till when none of the (religious learned men) remains, people will take as their leaders ignorant persons, who when consulted will give their verdict without knowledge. So they will go astray and will lead the people astray."
+source: Majmu' Fatawa p. 7/231, question 1
+summary: Indeed, Allah does not take away (religious) knowledge by pulling it away
+  from the (chests of) people. However, Allah takes the (religious) knowledge by taking
+  away (inflicting death on) the scholars, till when none of the (religious learned
+  men) remains, people will take as their leaders ignorant persons, who when consulted
+  will give their verdict without knowledge. So they will go astray and will lead
+  the people astray.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question:
 

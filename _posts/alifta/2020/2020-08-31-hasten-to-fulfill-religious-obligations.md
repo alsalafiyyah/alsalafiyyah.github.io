@@ -1,6 +1,6 @@
 ---
 date: 2020/08/31
-hijri: Muharram 12, 1442
+hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
@@ -12,6 +12,7 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 11133
 title: Hastening to fulfill religious obligations
 ---
+
 
 ### Question:
 May I delay performing Hajj for one or two years, although I can perform it this year, for the sake of visiting my family? If I perform Hajj this year, I will be away from my wife and family for two years. The rites of Hajj will be in the middle of summer vacation and I will not be able to visit my family and perform Hajj at the same time. I will either perform Hajj or visit my family. Can I delay performing Hajj in order to visit my family? May Allah reward you with the best.

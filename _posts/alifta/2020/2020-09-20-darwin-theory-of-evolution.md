@@ -5,7 +5,7 @@ article_taken_from:
     web_url: https://al-fatawa.com/fatwa/111609
 date: 2020-09-20
 group1: true
-hijri: Safar 03, 1442
+hijri: '1442-02-03'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ summary: This claim is not correct. The evidence for this is that Allah clarifie
   in the Quran the stages of the creation of Adam.
 title: Darwin's theory of evolution
 ---
+
 
 ### Question: 
 

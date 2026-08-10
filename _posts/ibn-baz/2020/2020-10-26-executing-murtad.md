@@ -1,20 +1,25 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Executing one who apostatizes from Islam"
-hijri: "Rabi' Al-Awwal 9, 1442 AH"
+title: Executing one who apostatizes from Islam
+hijri: '1442-03-09'
 lang: en
-source: "One of the questions asked in Al-Arabiyyah Magazine, dictated by His Eminence on 3/6/1416 A.H"
-summary: "The Noble Qur'an and the purified Sunnah have verified the obligation of executing a Murtad if they refuse to repent and this is understood in Allah's statement (Glorified be He) in Surah Al-Tawbah"
+source: One of the questions asked in Al-Arabiyyah Magazine, dictated by His Eminence
+  on 3/6/1416 A.H
+summary: The Noble Qur'an and the purified Sunnah have verified the obligation of
+  executing a Murtad if they refuse to repent and this is understood in Allah's statement
+  (Glorified be He) in Surah Al-Tawbah
 active: fatwas
-category: [hudud]
+category:
+- hudud
 uid: executing-murtad
 note: false
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

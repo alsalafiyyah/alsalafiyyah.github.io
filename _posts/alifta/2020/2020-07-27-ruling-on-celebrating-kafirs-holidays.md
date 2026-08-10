@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -26,6 +26,7 @@ summary: What is the ruling on Muslims who celebrate holidays of non-Muslims tha
 title: Ruling on celebrating holidays of Non-Muslims
 uid: ruling-on-celebrating-kafirs-holidays
 ---
+
 
 ### Question: 
 

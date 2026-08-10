@@ -1,6 +1,6 @@
 ---
 date: 2024-07-25
-hijri: Muharram 19, 1446 AH
+hijri: '1446-01-19'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: Bi'dah in reality are indirect criticisms of the Shari’ah; because th
   perfect form of worship to seek nearness to Allaah as the innovator claims.
 title: Concerning bid'ah or innovations in the religion
 ---
+
 
 ### Question: 
 His eminence, Shaykh Muhammad Ibn Salih al-’Uthaymeen (may Allah have mercy on him) was asked concerning bid’ah (innovations).

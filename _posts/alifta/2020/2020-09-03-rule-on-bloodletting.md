@@ -1,6 +1,6 @@
 ---
 date: 2020/09/3
-hijri: Muharram 15, 1442
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: This process should be handled by an expert in bloodletting to determin
   as well as the right time.
 title: Ruling on bloodletting
 ---
+
 
 ### Question:
 Is it permissible to practice bloodletting to discharge bad blood from some veins? 

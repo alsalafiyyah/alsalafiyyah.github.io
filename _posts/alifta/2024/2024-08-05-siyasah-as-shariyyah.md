@@ -4,7 +4,7 @@ article_taken_from:
   - web_title: معنى السياسة الشرعية
     web_url: https://al-fatawa.com/fatwa/106102
 date: 2024-08-05
-hijri: Safar 01, 1446 AH
+hijri: '1446-02-01'
 lang: en
 layout: post
 mass_edited: true
@@ -31,6 +31,7 @@ tags:
 title: What is meant by Al-Siyasah Al-Shar'iyyah?
 translation: false
 ---
+
 
 ### Question: 
 

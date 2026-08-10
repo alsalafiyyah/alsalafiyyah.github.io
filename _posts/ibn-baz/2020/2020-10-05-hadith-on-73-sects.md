@@ -1,27 +1,34 @@
 ---
 layout: post
-author: "Instagram@Alsalafiyyah"
-title: "The Hadith: 'All of them will be in Hellfire except one'"
-summary: "The one saved sect will be Ahl-ul-Sunnah wal-Jama'ah who abided by the Sunnah of the Prophet (peace be upon him) and remained adhering to the very same way of the Prophet (peace be upon him) and his Companions (may Allah be pleased with them) in all affairs."
-source: "Fatawa Al-Lajnah Al-Da'imah of KSA no. 4246-3"
-category: ["tafsir", hadiths, sects]
+author: Instagram@Alsalafiyyah
+title: 'The Hadith: ''All of them will be in Hellfire except one'''
+summary: The one saved sect will be Ahl-ul-Sunnah wal-Jama'ah who abided by the Sunnah
+  of the Prophet (peace be upon him) and remained adhering to the very same way of
+  the Prophet (peace be upon him) and his Companions (may Allah be pleased with them)
+  in all affairs.
+source: Fatawa Al-Lajnah Al-Da'imah of KSA no. 4246-3
+category:
+- tafsir
+- hadiths
+- sects
 lang: en
 uid: hadith-on-73-sects
 date: 2020-10-05
-hijri: Safar 18, 1442 AH
+hijri: '1442-02-18'
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
   deputy_chairman:
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Abdullah ibn Qa'ud
-      url: /biography/qaud/
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+  - name: Shaykh Abdullah ibn Qa'ud
+    url: /biography/qaud/
 ---
+
 
 Question:
 

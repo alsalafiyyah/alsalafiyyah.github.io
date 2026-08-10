@@ -1,25 +1,30 @@
 ---
 layout: post
-title: "Ruling on Rifaiyyah Tariqah Sufi order"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Nur 'Ala al-Darb vol 3"
+title: Ruling on Rifaiyyah Tariqah Sufi order
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Nur 'Ala al-Darb vol 3
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_487/48702.mp3
 link: shorturl.at/egzP6
-hijri: Dhul-Hijjah 16, 1441
+hijri: '1441-12-16'
 date: 2020-08-06
 lang: en
 note: false
 locale: en
 type: audios
 active: audios
-category: [audios, sects]
-tags: [ibn-baz]
-summary: These Sufi orders are all null and void. All these orders are mere cults and lies. In fact, such people neither stab nor cut themselves.
+category:
+- audios
+- sects
+tags:
+- ibn-baz
+summary: These Sufi orders are all null and void. All these orders are mere cults
+  and lies. In fact, such people neither stab nor cut themselves.
 muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question:
 I often hear that someone has joined a Sufi order led by some masters or some shaykhs. After this, he becomes able to strike himself with a sword or eat glass. I want you, Your Eminence, to explain to me the secret behind this occult Sufi order. What should we say to such a person, and what advice can you give me; especially as I am still in my prime years? May Allah reward you with the best. 

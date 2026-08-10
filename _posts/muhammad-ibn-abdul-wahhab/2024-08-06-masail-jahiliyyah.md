@@ -2,18 +2,22 @@
 layout: post
 published: false
 publisher: alsalafiyyah@icloud.com
-title: "Masa'il Jahiliyyah"
+title: Masa'il Jahiliyyah
 date: 2024-08-06
-hijri: Safar 02, 1446
-source: "Masa'il Jahiliyyah"
-category: [muqolat]
+hijri: '1446-02-02'
+source: Masa'il Jahiliyyah
+category:
+- muqolat
 active: muqolat
-summary: "These are the aspects that the people of the Days of Ignorance –both the people of the Book and the non-People of the Book– were upon, which Rasulullah ﷺ opposed."
+summary: These are the aspects that the people of the Days of Ignorance –both the
+  people of the Book and the non-People of the Book– were upon, which Rasulullah ﷺ
+  opposed.
 muftis:
-  shaykh: 
-    - name: Shaykh Muhammad ibn Abdul-Wahhab
-      url: /biography/abdul-wahhab
+  shaykh:
+  - name: Shaykh Muhammad ibn Abdul-Wahhab
+    url: /biography/abdul-wahhab
 ---
+
 
 These are the aspects that the people of the Days of Ignorance –both the people of the Book and the non-People of the Book– were upon, which Rasulullah ﷺ opposed. They are from the matters that every Muslim is required to possess knowledge of. This is since with (understanding) one side of the opposite, the goodness of the other side of the opposite can be made apparent. And it is by (making apparent the) opposite of something that matters become clarifed. 
 

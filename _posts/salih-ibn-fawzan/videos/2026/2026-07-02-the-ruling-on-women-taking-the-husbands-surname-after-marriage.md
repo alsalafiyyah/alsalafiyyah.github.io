@@ -2,19 +2,26 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on women taking the husband's surname after marriage"
+title: Ruling on women taking the husband's surname after marriage
 date: 2026-07-02
-category: [videos,marriage,women]
-tags: [salih-ibn-fawzan]
+category:
+- videos
+- marriage
+- women
+tags:
+- salih-ibn-fawzan
 active: videos
-summary: "This is not permissible; attributing one's lineage to anyone other than the father is not permissible."
-videoURL: "https://youtu.be/oTP3qB6YJHc"
-videoID: "oTP3qB6YJHc"
+summary: This is not permissible; attributing one's lineage to anyone other than the
+  father is not permissible.
+videoURL: https://youtu.be/oTP3qB6YJHc
+videoID: oTP3qB6YJHc
 muftis:
-  shaykh: 
-    - name: "Shaykh Salih Al-Fawzan"
-      url: "/biography/fawzan/"
+  shaykh:
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan/
+hijri: '1448-01-17'
 ---
+
 
 ### Question: 
 

@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 14, 1442 AH
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -19,6 +19,7 @@ summary: What should I do to learn the Arabic Language and write it very well? I
   I did not have a good education and I want to enrich my knowledge in Arabic.
 title: Learning Arabic
 ---
+
 
 Question:
 

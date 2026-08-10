@@ -1,7 +1,7 @@
 ---
 date: 2020-07-28
 group4: true
-hijri: Dhul-Hijjah 7, 1441
+hijri: '1441-12-07'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: The dead people should not be asked or sought as intercessors as this i
   one of the avenues that lead to Shirk or polytheism.
 title: The etiquette the Messenger followed when visiting graves
 ---
+
 
 ### Question: 
 There is a grave in our village which is said to belong to one of the righteous people. A house was built over this grave and there are two people appointed to take care of it. These people inherited this mission from their fathers. They tell people: "This night, the dweller of this grave said so and so and asked for so and so. They have attracted people's hearts that live beside the grave. People believe everything that is said by these two people. Therefore, people make Tawaf (circumambulation) around the grave, sacrifice animals for its sake, etc. 

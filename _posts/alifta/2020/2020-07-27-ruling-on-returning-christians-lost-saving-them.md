@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -19,6 +19,7 @@ summary: It is obligatory on a Muslim to return the lost property of a disbeliev
   who is under Islamic protection if he finds it.
 title: Ruling on returning a Christian's lost object and saving them from drowning
 ---
+
 
 ### Question: 
 

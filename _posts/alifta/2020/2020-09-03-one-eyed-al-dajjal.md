@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 15, 1442 AH
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: Al-Masih Al-Dajjal or The Antichrist exists now and he is actually one-
   possible meanings, unless the opposite is proved.
 title: The meaning of the existence of Dajjal and describing him as one-eyed
 ---
+
 
 ### Question: 
 

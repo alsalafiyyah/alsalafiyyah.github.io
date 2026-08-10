@@ -1,6 +1,6 @@
 ---
 date: 2024-08-23
-hijri: Safar 19, 1446 AH
+hijri: '1446-02-19'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: When it is ruled that he is a disbeliever, then his fasting and other a
   of worship are nullified.
 title: Ruling on fasting without praying
 ---
+
 
 ### Question: 
 I have witnessed some of the Muslim youth fasting, but they do not pray. Is the fast of the person who fasts but does not pray accepted? I have heard some of the preachers telling these youth to break their fast and not to fast, as he who does not pray has no fast.

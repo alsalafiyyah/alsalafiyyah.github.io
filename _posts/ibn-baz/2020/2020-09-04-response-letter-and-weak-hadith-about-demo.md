@@ -1,6 +1,6 @@
 ---
 date: 2020-09-04
-hijri: Muharram 16, 1442
+hijri: '1442-01-16'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: These acts are done out of displaying the rites of Islam and have nothi
 title: Response to a letter from Shaykh Abdul-Rahman ibn Abdul-Khaliq and weak Hadith
   that support the demonstrations
 ---
+
 
 From Abdul-Aziz ibn Abdullah ibn Baz to the honorable son **Shaykh Abdul-Rahman ibn Abdul-Khaliq**, may Allah guide him to do what pleases Him and make His religion victorious through him. Amen!
 

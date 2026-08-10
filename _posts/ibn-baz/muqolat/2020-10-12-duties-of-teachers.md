@@ -1,18 +1,24 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Duties of a teacher"
-hijri: Safar 25, 1442 AH
-source: "Fatawa Al-shaykh Ibn Baz p.1/349"
+title: Duties of a teacher
+hijri: '1442-02-25'
+source: Fatawa Al-shaykh Ibn Baz p.1/349
 lang: en
-category: [knowledge, muqolat]
+category:
+- knowledge
+- muqolat
 note: false
-summary: "It is obligatory for the teacher to devote care to this issue and first be the living example of it by showing sincerity to Allah in all their deeds and maintaining a good reputation and conduct, as students follow the example of their teachers in both the good and bad things."
+summary: It is obligatory for the teacher to devote care to this issue and first be
+  the living example of it by showing sincerity to Allah in all their deeds and maintaining
+  a good reputation and conduct, as students follow the example of their teachers
+  in both the good and bad things.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 All praise be to Allah, and may peace and blessings be upon the Messenger of Allah. 
 

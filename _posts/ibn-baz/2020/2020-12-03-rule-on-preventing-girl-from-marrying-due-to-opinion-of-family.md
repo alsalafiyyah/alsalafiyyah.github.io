@@ -1,18 +1,22 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Rule on preventing a girl from marrying due to the opinion of a family member"
-hijri: "Rabi' Al-Thani 18, 1442 AH"
-source: "Fatawa Shaykh Ibn Baz p. 20/417"
+title: Rule on preventing a girl from marrying due to the opinion of a family member
+hijri: '1442-04-18'
+source: Fatawa Shaykh Ibn Baz p. 20/417
 lang: en
-category: [marriage]
+category:
+- marriage
 note: false
-summary: "None is allowed to object because of personal desire, hatred or desire for worldly gains. All these reasons should be disregarded. The most important factor is the religious commitment and good character the suitor has."
+summary: None is allowed to object because of personal desire, hatred or desire for
+  worldly gains. All these reasons should be disregarded. The most important factor
+  is the religious commitment and good character the suitor has.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question:
 

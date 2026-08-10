@@ -1,20 +1,26 @@
 ---
 layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "Clarifying the Da'wah of the Imam Muhammad ibn Abdul-Wahhab"
+publisher: alsalafiyyah@icloud.com
+title: Clarifying the Da'wah of the Imam Muhammad ibn Abdul-Wahhab
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_828/nour_82803.mp3
-hijri: Dhul-Hijjah 16, 1441
+hijri: '1441-12-16'
 date: 2020-08-06
 lang: en
 active: audios
-category: [audios,manhaj]
-tags: [ibn-baz]
-summary: "Shaykh Muhammad ibn Abdul-Wahhab is of the scholars of Sunnah and the scholars of the people of truth. His Da'wah is not a fifth Madhab, rather it is a Da'wah to the creed of the Salaf."
+category:
+- audios
+- manhaj
+tags:
+- ibn-baz
+summary: Shaykh Muhammad ibn Abdul-Wahhab is of the scholars of Sunnah and the scholars
+  of the people of truth. His Da'wah is not a fifth Madhab, rather it is a Da'wah
+  to the creed of the Salaf.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question:
 Was the Da'wah (calling people to Islam) of Shaykh Muhammad ibn Abdul-Wahhab a specific doctrine? Does what is said about his Da'wah to abandon worshipping graves and the dead mean disaffection towards righteous persons? 

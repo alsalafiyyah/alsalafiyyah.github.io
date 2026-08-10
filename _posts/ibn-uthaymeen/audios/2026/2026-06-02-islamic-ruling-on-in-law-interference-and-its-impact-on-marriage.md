@@ -2,20 +2,27 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-06-02
-title: "Islamic Ruling on In-Law Interference and Its Impact on Marriage"
-source: "Fatawa Nur 'ala al-Darb, Tape no. 369"
-category: [audios, women, marriage]
-tags: [ibn-uthaymeen]
-link: "https://binothaimeen.net/s/o90bkJPc"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_369_27.mp3"
-summary: "I strongly advise those who drive a wedge between a man and his wife, and I say Their action is like the action of sorcerers—and refuge is sought with Allah."
+title: Islamic Ruling on In-Law Interference and Its Impact on Marriage
+source: Fatawa Nur 'ala al-Darb, Tape no. 369
+category:
+- audios
+- women
+- marriage
+tags:
+- ibn-uthaymeen
+link: https://binothaimeen.net/s/o90bkJPc
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_369_27.mp3
+summary: I strongly advise those who drive a wedge between a man and his wife, and
+  I say Their action is like the action of sorcerers—and refuge is sought with Allah.
 lang: en
 translation: true
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
+hijri: '1447-12-16'
 ---
+
 
 ### Question: 
 

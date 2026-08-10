@@ -1,6 +1,6 @@
 ---
 date: 2020-07-27
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,8 @@ summary: Offering benefits and doing good to non-hostile unbelievers are from th
   and religion.
 title: Treating Christians kindly
 ---
+
+
 
 ### Question: 
 

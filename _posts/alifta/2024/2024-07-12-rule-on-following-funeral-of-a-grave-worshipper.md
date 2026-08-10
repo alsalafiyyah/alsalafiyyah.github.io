@@ -5,7 +5,7 @@ article_taken_from:
     web_url: https://al-fatawa.com/fatwa/110973
 date: 2024-07-12
 group6: true
-hijri: Muharram 06, 1446
+hijri: '1446-01-06'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ summary: If such people die in the state which you describe, it is not permissib
   for them.
 title: Ruling on following the funeral of grave-worshippers
 ---
+
 
 ### Question: 
 Allah (Exalted be He) says, "**It is not (proper) for the Prophet and those who believe to ask Allâh’s Forgiveness for the Mushrikûn (polytheists, idolaters, pagans, disbelievers in the Oneness of Allâh), even though they be of kin, after it has become clear to them that they are the dwellers of the Fire (because they died in a state of disbelief)."** (Qur'an, at-Tawbah: 113). The apparent meaning of this Ayah (Quranic verse) is that it is not allowed to ask for forgiveness for mushrikun (polytheists) even if they are close relatives. 

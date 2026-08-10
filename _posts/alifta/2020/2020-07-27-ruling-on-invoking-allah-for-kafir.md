@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -23,6 +23,7 @@ summary: You should not use such phrases with a Kafir (non-Muslim), but rather a
   Allah to guide him to Islam.
 title: Ruling on invoking Allah for the Kafir
 ---
+
 
 ### Question: 
 

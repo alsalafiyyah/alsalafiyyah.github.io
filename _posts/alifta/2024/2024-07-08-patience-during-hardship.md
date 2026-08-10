@@ -5,7 +5,7 @@ article_taken_from:
     web_url: https://al-fatawa.com/fatwa/110967
 date: 2024-07-08
 group1: true
-hijri: Muharram 02, 1446
+hijri: '1446-01-02'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ summary: A Muslim should depend on Allah and hold firm to His Rope in bringing b
   be patient and seek Allah's Reward for it.
 title: Patience During Hardship
 ---
+
 
 ### Question: 
 I do not feel submission or the sweetness of faith. This may happen at times of diversity and calamities. What is the solution to this? Please advise me, may Allah reward you. 

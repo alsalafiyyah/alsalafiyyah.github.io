@@ -1,19 +1,25 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Is enjoining Ma'ruf and forbidding Munkar by the hand is a right for all Muslims or is it just confined to those in authority and their deputies?"
-hijri: "Dhul-Qa'dah 30, 1441 AH"
-source: "Fatawa Al-Shaykh Ibn Baz 8/207, question 8"
-category: [rulership]
-tags: [ibn-baz]
+title: Is enjoining Ma'ruf and forbidding Munkar by the hand is a right for all Muslims
+  or is it just confined to those in authority and their deputies?
+hijri: '1441-11-30'
+source: Fatawa Al-Shaykh Ibn Baz 8/207, question 8
+category:
+- rulership
+tags:
+- ibn-baz
 lang: en
 translation: false
-summary: "Correcting the wrong is a right for all Muslims according to their ability. However, changing by the hand must be based on ability that will not result in greater corruption or evil."
+summary: Correcting the wrong is a right for all Muslims according to their ability.
+  However, changing by the hand must be based on ability that will not result in greater
+  corruption or evil.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question:
 

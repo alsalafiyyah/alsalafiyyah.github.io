@@ -1,19 +1,25 @@
 ---
 layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "Wahhabism, what is it?"
-source: "Fatawa Nur 'Ala al-Darb 3, tape no. 218 question 6"
+publisher: alsalafiyyah@icloud.com
+title: Wahhabism, what is it?
+source: Fatawa Nur 'Ala al-Darb 3, tape no. 218 question 6
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_461/46106.mp3
-hijri: Dhul-Hijjah 13, 1441
+hijri: '1441-12-13'
 date: 2020-08-03
 lang: en
-category: [audios, wahhabism, manhaj]
-summary: "Wahhabism is a word used by the enemies of Salafiyyah. They use it to describe those who followed Imam Muhammad ibn 'Abdul-Wahhab ibn Sulayman ibn Ali Al-Tamimi Al-Hanbali, who died in 1206 AH in Al-Dir'iyyah."
+category:
+- audios
+- wahhabism
+- manhaj
+summary: Wahhabism is a word used by the enemies of Salafiyyah. They use it to describe
+  those who followed Imam Muhammad ibn 'Abdul-Wahhab ibn Sulayman ibn Ali Al-Tamimi
+  Al-Hanbali, who died in 1206 AH in Al-Dir'iyyah.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 I heard about Wahhabism, what is it? 

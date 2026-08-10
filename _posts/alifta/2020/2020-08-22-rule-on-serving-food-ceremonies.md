@@ -1,6 +1,6 @@
 ---
 date: 2020/08/22
-hijri: Muharram 3, 1442
+hijri: '1442-01-03'
 lang: en
 layout: post
 mass_edited: true
@@ -17,6 +17,7 @@ summary: It is islamically permissible to serve sufficient food for the deceased
 title: Ruling on the family of the deceased serving food for people and holding ceremonies
   on certain days
 ---
+
 
 ### Question: 
 A few groups of scholars, who call themselves Ahl-us-Sunnah (adherents to the Sunnah), have appeared in our country. They state the following claims: 

@@ -1,7 +1,7 @@
 ---
 date: 2025-07-29
 group1: true
-hijri: Safar 4, 1447 AH
+hijri: '1447-02-04'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,8 @@ tags:
 title: Refuting misconceptions concerning the eternity of Allah's Words
 translation: false
 ---
+
+
 
 ### Question
 In the Glorious Qur’an we read: **"Mûsâ (Moses) said: “Verily, I seek refuge in my Lord and your Lord"** [(Ghafir, 40:27)](/quran/?verse=40:27). We also read: **"And Fir‘aun (Pharaoh) said: “O Hâmân! Build me a tower"** [(Ghafir, 40:27)](/quran/?verse=40:36). We also read many other quotations throughout the Glorious Qur’an. How then can they be a part of the Qur’an, the ancient Words of Allah?

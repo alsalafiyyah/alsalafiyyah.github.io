@@ -1,5 +1,5 @@
 ---
-hijri: Safar 25, 1442 AH
+hijri: '1442-02-25'
 lang: en
 layout: post
 mass_edited: true
@@ -20,6 +20,7 @@ summary: The printing of useful books that benefit people in their religious and
   it will be of ongoing benefit and reward after their death.
 title: Publishing Islamic books as a Sadaqah Jariyah (ongoing charity)
 ---
+
 
 Question:
 

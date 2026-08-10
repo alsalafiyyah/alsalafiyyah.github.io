@@ -1,6 +1,6 @@
 ---
 date: 2020/08/31
-hijri: Muharram 12, 1442 AH
+hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
@@ -13,6 +13,7 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 4912
 title: Distributing the inheritance according to Shari'ah
 ---
+
 
 Question:
 

@@ -1,25 +1,31 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "The Ruling on Declaring a Specific Individual a Disbeliever"
-hijri: "Safar 29, 1446"
-source: "Gharatul Ashritah 2/291"
+title: The Ruling on Declaring a Specific Individual a Disbeliever
+hijri: '1446-02-29'
+source: Gharatul Ashritah 2/291
 date: 2024-09-02
-category: [audios, manhaj]
-tags: [muqbil-ibn-hadi]
+category:
+- audios
+- manhaj
+tags:
+- muqbil-ibn-hadi
 active: audios
 lang: en
-summary: "Regarding declaring a specific individual a disbeliever when they commit an act that necessitates disbelief—such as contradicting a definitive text or deeming a forbidden matter as permissible—there is no harm in doing so"
-mp3: "https://www.muqbel.net/files/fatwa/muqbel-fatwa4337.mp3"
-article_taken_from: 
+summary: Regarding declaring a specific individual a disbeliever when they commit
+  an act that necessitates disbelief—such as contradicting a definitive text or deeming
+  a forbidden matter as permissible—there is no harm in doing so
+mp3: https://www.muqbel.net/files/fatwa/muqbel-fatwa4337.mp3
+article_taken_from:
   taken_from:
-    - web_title: هل يجوز تكفير المعين
-      web_url: https://www.muqbel.net/fatwa.php?fatwa_id=4337
+  - web_title: هل يجوز تكفير المعين
+    web_url: https://www.muqbel.net/fatwa.php?fatwa_id=4337
 muftis:
-  shaykh: 
-    - name: "Shaykh Muqbil Ibn Hadi Al-Wadi'i"
-      url: "/biography/muqbil/"
+  shaykh:
+  - name: Shaykh Muqbil Ibn Hadi Al-Wadi'i
+    url: /biography/muqbil/
 ---
+
 
 ### Question: 
 

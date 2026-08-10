@@ -2,20 +2,24 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Tafsir of the Ayah: 'The Hand of Allâh is over their hands.'"
-hijri: Safar 03, 1442 AH
+title: 'Tafsir of the Ayah: ''The Hand of Allâh is over their hands.'''
+hijri: '1442-02-03'
 lang: en
 locale: en
 note: false
 uid: tafsir-ayat-fath-10
-category: [quran]
-source: "Majmu' Fatawa 24/273"
-summary: "Please be informed that our 'Aqidah is to affirm Allah's Attribute of having a Hand and the other attributes stated by Him in His Noble Book or by His Messenger Muhammad (peace be upon him) in the purified Sunnah."
+category:
+- quran
+source: Majmu' Fatawa 24/273
+summary: Please be informed that our 'Aqidah is to affirm Allah's Attribute of having
+  a Hand and the other attributes stated by Him in His Noble Book or by His Messenger
+  Muhammad (peace be upon him) in the purified Sunnah.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question:
 

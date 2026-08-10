@@ -1,6 +1,6 @@
 ---
 date: 2020-08-25
-hijri: Muharram 6, 1442
+hijri: '1442-01-06'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: Lacking beneficial knowledge, their ultimate concern is to be at enmity
 title: Warning against seeking Fatwa from ignorant people and those who follow false
   doctrines
 ---
+
 
 His Eminence Shaykh Abdul-Aziz ibn Abdullah ibn Baz the Grand Mufty of Kingdom of Saudi Arabia, Chairman of Council of Senior Scholars and Departments of Scholarly Research and Ifta', warned youth against asking for the opinion of the ignorant, half-educated people and followers of false doctrines who seek to sow the seeds of discord between Muslims and try to harm their Din (religion).
 

@@ -5,7 +5,7 @@ article_taken_from:
     web_url: https://al-fatawa.com/fatwa/112393
 date: 2024-07-07
 group1: true
-hijri: Muharram 01, 1446
+hijri: '1446-01-01'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ summary: Al-Husayn (may Allah be pleased with him) was killed in Iraq in Muharra
   to Egypt and buried there, we do not know of any basis for this.
 title: Where is the grave of Al-Husayn?
 ---
+
 
 ### Question: 
 The Egyptians claim that the head of Al-Husayn is buried in Egypt, and the Iraqis have a Masjid (mosque) that they call Al-Mashhad Al-Husayni. I do not know how true that is. Where is the grave of Al-Husayn, according to scholarly view?

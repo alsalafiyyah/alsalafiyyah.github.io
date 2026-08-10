@@ -1,6 +1,6 @@
 ---
 date: 2020-09-04
-hijri: Muharram 16, 1442
+hijri: '1442-01-16'
 lang: en
 layout: post
 mass_edited: true
@@ -24,6 +24,7 @@ summary: One of the most important characteristics by which those first generati
   the Sunnah.
 title: Jama'at-ul-Ahbash (the Habashis)
 ---
+
 
 Praise be to Allah Alone. Peace and blessings be upon the last Prophet, his family, and Companions. 
 

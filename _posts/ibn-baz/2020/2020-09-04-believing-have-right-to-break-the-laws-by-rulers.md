@@ -1,19 +1,24 @@
 ---
 layout: post
-title: "Ruling on beliveing have the right to break the laws that have been made by the ruler"
-publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat p. 8/208, question 7"
-category: [rulership]
+title: Ruling on beliveing have the right to break the laws that have been made by
+  the ruler
+publisher: alsalafiyyah@icloud.com
+source: Majmu' Fatawa wa Maqalat p. 8/208, question 7
+category:
+- rulership
 translation: false
-tags: [ibn-baz]
+tags:
+- ibn-baz
 lang: en
-hijri: "Muharram 16, 1442 AH"
-summary: "This is Batil (null and void) and Munkar. I have already said that it is not permissible to rebel against rulers or to change matters with your hand."
+hijri: '1442-01-16'
+summary: This is Batil (null and void) and Munkar. I have already said that it is
+  not permissible to rebel against rulers or to change matters with your hand.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

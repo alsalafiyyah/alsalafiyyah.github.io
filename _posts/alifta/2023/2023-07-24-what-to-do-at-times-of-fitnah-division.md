@@ -1,6 +1,6 @@
 ---
 date: 2023-07-24
-hijri: Muharram 06, 1445 AH
+hijri: '1445-01-06'
 lang: en
 layout: post
 mass_edited: true
@@ -28,6 +28,7 @@ tags:
 title: What to do when there is too much fitnah and division
 translation: false
 ---
+
 
 ### Question:
 

@@ -1,6 +1,6 @@
 ---
 date: 2020-07-27
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: It is permissible to visit such relatives on condition that the person 
   them advises and instructs them to stop their love of disbelievers.
 title: Ruling on visiting relatives who love disbelievers
 ---
+
 
 ### Question: 
  

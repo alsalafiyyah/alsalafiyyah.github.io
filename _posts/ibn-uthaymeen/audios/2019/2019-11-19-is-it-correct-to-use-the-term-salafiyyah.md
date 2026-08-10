@@ -2,21 +2,26 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2019-11-19
-hijri: "Rabi' Al-Awwal 22, 1442 AH"
-title: "Is it correct to use the term 'Salafiyyah' in this day and age?"
-source: "Fatawa Nur ala Ad-Darb"
-category: [fatwas,audios,manhaj]
-mp3: "/assets/audios/the-term-salafiyyah.mp3"
+hijri: '1441-03-22'
+title: Is it correct to use the term 'Salafiyyah' in this day and age?
+source: Fatawa Nur ala Ad-Darb
+category:
+- fatwas
+- audios
+- manhaj
+mp3: /assets/audios/the-term-salafiyyah.mp3
 active: audios
 featured: true
 translation: false
 lang: en
-summary: "It is Salafiyyah in 'aqidah (creed), even if it is not Salafiyyah in time, because the Salaf came before us chronologically."
+summary: It is Salafiyyah in 'aqidah (creed), even if it is not Salafiyyah in time,
+  because the Salaf came before us chronologically.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
 ---
+
 
 ### Title/Question: Who are the Salaf, and is it correct to use the term "Salafiyyah" in this day and age?
 

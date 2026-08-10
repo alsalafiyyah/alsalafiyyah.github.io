@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Qa'dah 20, 1441
+hijri: '1441-11-20'
 lang: en
 layout: post
 mass_edited: true
@@ -18,6 +18,8 @@ title: Why are the Sufis interested in pronouncing the name of Allah rather than
   to His Attributes
 translation: false
 ---
+
+
 
 ### Question: 
 

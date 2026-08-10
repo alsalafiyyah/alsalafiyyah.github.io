@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 22, 1441
+hijri: '1441-12-22'
 lang: en
 layout: post
 mass_edited: true
@@ -17,6 +17,7 @@ tags:
 title: Ruling on Simaniyyah Sufi order
 translation: false
 ---
+
 
 ### Question:
 

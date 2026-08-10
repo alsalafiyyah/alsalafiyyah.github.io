@@ -2,22 +2,26 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-08-08
-hijri: 1448-02-25
-title: "The Causes of Financial Loss and Trials in Wealth"
-category: [audios]
-tags: [salih-ibn-fawzan]
-mp3: "https://audio.alfawzan.live/20_17.mp3"
-link: "https://alfawzan.live/content/16735/"
+hijri: '1448-02-25'
+title: The Causes of Financial Loss and Trials in Wealth
+category:
+- audios
+tags:
+- salih-ibn-fawzan
+mp3: https://audio.alfawzan.live/20_17.mp3
+link: https://alfawzan.live/content/16735/
 active: audios
 translation: false
 lang: en
-source: "Fatwa No. 16735"
-summary: "On the other hand, the loss of wealth may also be for the purpose of testing and trial, to see whether one will be patient or not."
+source: Fatwa No. 16735
+summary: On the other hand, the loss of wealth may also be for the purpose of testing
+  and trial, to see whether one will be patient or not.
 muftis:
-  shaykh: 
-    - name: "Shaykh Salih al-Fawzan"
-      url: "/biography/fawzan/"
+  shaykh:
+  - name: Shaykh Salih al-Fawzan
+    url: /biography/fawzan/
 ---
+
 
 ### Question: 
 

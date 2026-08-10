@@ -1,19 +1,25 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Bani Isra'il vs. Jews and Nasara vs. Christians"
+title: Bani Isra'il vs. Jews and Nasara vs. Christians
 date: 2026-08-05
 lang: en
 translation: false
-summary: "None of the virtues that belonged to the Children of Israel apply to the Jews."
-category: [palestine, non-muslim]
-tags: [bakr-abu-zayd]
-source: "Mu'jam al-Manahi al-Lafziyyah p. 89"
+summary: None of the virtues that belonged to the Children of Israel apply to the
+  Jews.
+category:
+- palestine
+- non-muslim
+tags:
+- bakr-abu-zayd
+source: Mu'jam al-Manahi al-Lafziyyah p. 89
 muftis:
-  shaykh: 
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr
+  shaykh:
+  - name: Shaykh Bakr Abu Zayd
+    url: /biography/bakr
+hijri: '1448-02-22'
 ---
+
 
 It contains a detailed verification that the 'Jews' separated themselves through their disbelief from the Children of Israel during the era of the Children of Israel, just as Ibrahim al-Khalil (Abraham, the Intimate Friend), peace be upon him, separated from his father Azar. Disbelief severs the bond of alliance between Muslims and disbelievers, as seen in the story of Noah with his son. 
 

@@ -1,18 +1,22 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Should a man who discovers that his wife is not a virgin demand his Mahr?"
-hijri: "Jumada Al-Awwal 05, 1442 AH"
-source: "Fatawa Shaykh Ibn Baz p. 20/288"
+title: Should a man who discovers that his wife is not a virgin demand his Mahr?
+hijri: '1442-05-05'
+source: Fatawa Shaykh Ibn Baz p. 20/288
 lang: en
-category: [marriage]
+category:
+- marriage
 note: false
-summary: "If it is necessary to show the bride's virtuousness by blood on her garment according to their traditions, the husband can use any other blood to protect her, if otherwise she would be accused of Zina"
+summary: If it is necessary to show the bride's virtuousness by blood on her garment
+  according to their traditions, the husband can use any other blood to protect her,
+  if otherwise she would be accused of Zina
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question:
 

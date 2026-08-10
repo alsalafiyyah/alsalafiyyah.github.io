@@ -1,21 +1,25 @@
 ---
 layout: post
-title: "Meaning of denying Al-Taghut (false deities)"
-publisher: "alsalafiyyah@icloud.com"
+title: Meaning of denying Al-Taghut (false deities)
+publisher: alsalafiyyah@icloud.com
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_739/nour_73903.mp3
-hijri: "Rabi' Al-Awwal 22, 1442"
+hijri: '1442-03-22'
 date: 2020-11-08
 lang: en
 active: audios
-category: [audios]
-tags: [ibn-baz]
-url: "https://binbaz.org.sa/fatwas/18450/%D9%85%D8%B9%D9%86%D9%89-%D8%A7%D9%84%D9%83%D9%81%D8%B1-%D8%A8%D8%A7%D9%84%D8%B7%D8%A7%D8%BA%D9%88%D8%AA"
-summary: "It means to declare oneself free from worshipping false deities and to believe that all deities worshipped along with Allah are false."
+category:
+- audios
+tags:
+- ibn-baz
+url: https://binbaz.org.sa/fatwas/18450/%D9%85%D8%B9%D9%86%D9%89-%D8%A7%D9%84%D9%83%D9%81%D8%B1-%D8%A8%D8%A7%D9%84%D8%B7%D8%A7%D8%BA%D9%88%D8%AA
+summary: It means to declare oneself free from worshipping false deities and to believe
+  that all deities worshipped along with Allah are false.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question:
 What is the meaning of denying Al-Taghut (false deities)? May Allah reward you best.

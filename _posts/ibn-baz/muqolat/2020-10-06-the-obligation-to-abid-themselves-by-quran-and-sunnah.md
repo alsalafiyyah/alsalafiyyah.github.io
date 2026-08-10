@@ -1,20 +1,28 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "The obligation of abiding by the Book of Allah and the Sunnah of His Messenger and warning against whatever contradicts them"
-hijri: Safar 19, 1442
+title: The obligation of abiding by the Book of Allah and the Sunnah of His Messenger
+  and warning against whatever contradicts them
+hijri: '1442-02-19'
 date: 2020-10-06
 lang: en
 active: muqolat
 locale: en
-category: [muqolat]
-summary: "Allah (Exalted be He) has pointed out that the straight path is belief in the guidance and the religion of truth with which He sent His Prophet (peace be upon him) and to act according to them. Whoever follows this straight path and is steadfast in it, will attain Paradise and honor. Whoever deviates from it and follows his whims, will incur loss and evil destiny. Allah (Exalted be He) commands all His slaves to follow the straight path and prohibits them to follow other paths, which lead them to the path of Hellfire."
-active: muqolat
+category:
+- muqolat
+summary: Allah (Exalted be He) has pointed out that the straight path is belief in
+  the guidance and the religion of truth with which He sent His Prophet (peace be
+  upon him) and to act according to them. Whoever follows this straight path and is
+  steadfast in it, will attain Paradise and honor. Whoever deviates from it and follows
+  his whims, will incur loss and evil destiny. Allah (Exalted be He) commands all
+  His slaves to follow the straight path and prohibits them to follow other paths,
+  which lead them to the path of Hellfire.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 All praise be to Allah, the Lord of the worlds. The best outcome is for the righteous. May peace and blessings be upon the slave and Messenger of Allah, whom He entrusted with His Revelation and chose from among His creation, our Prophet, Imam and master Muhammad, son of 'Abdullah, and upon his family, his Companions and those follow his way and adopt his guidance until the Day of Judgment. To proceed:
 

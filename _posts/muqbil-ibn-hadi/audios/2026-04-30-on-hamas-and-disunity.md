@@ -2,18 +2,24 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-04-30
-hijri: "Dhu al-Qidah 13, 1447 AH"
-title: "On Hamas & Disunity"
-category: [fatwas,audios,palestine]
-tags: [muqbil-ibn-hadi]
-mp3: "https://www.muqbel.net/files/fatwa/muqbel-fatwa608.mp3"
+hijri: '1447-11-13'
+title: On Hamas & Disunity
+category:
+- fatwas
+- audios
+- palestine
+tags:
+- muqbil-ibn-hadi
+mp3: https://www.muqbel.net/files/fatwa/muqbel-fatwa608.mp3
 active: audios
-summary: "As for the Hamas group, it is a partisan group that does not enjoin what is right nor forbid what is wrong, and they denounce the People of the Sunnah."
+summary: As for the Hamas group, it is a partisan group that does not enjoin what
+  is right nor forbid what is wrong, and they denounce the People of the Sunnah.
 muftis:
-  shaykh: 
-    - name: "Shaykh Muqbil ibn Hadi al-Wadi'i"
-      url: "/biography/muqbil/"
+  shaykh:
+  - name: Shaykh Muqbil ibn Hadi al-Wadi'i
+    url: /biography/muqbil/
 ---
+
 
 ### Question: 
 

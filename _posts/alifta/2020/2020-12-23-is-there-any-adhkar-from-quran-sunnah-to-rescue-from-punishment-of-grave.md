@@ -1,5 +1,5 @@
 ---
-hijri: Jumada Al-Awwal 8, 1442 AH
+hijri: '1442-05-08'
 lang: en
 layout: post
 mass_edited: true
@@ -24,6 +24,7 @@ summary: Fulfilling the obligations which Allah has ordained upon His servants, 
 title: Is there any Adhkar from the Qur'an and the Sunnah that can be said to rescue
   one from the punishment of the grave?
 ---
+
 
 ### Question:
 

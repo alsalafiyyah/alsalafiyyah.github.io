@@ -1,6 +1,6 @@
 ---
 date: 2024-09-02
-hijri: Safar 29, 1446
+hijri: '1446-02-29'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: A Prophet is one who receives Revelation from Allah of a law, but he is
   to disseminate it.
 title: Is there any difference between a Messenger and a Prophet?
 ---
+
 
 ### Question:
 Is there any difference between a Messenger and a Prophet?

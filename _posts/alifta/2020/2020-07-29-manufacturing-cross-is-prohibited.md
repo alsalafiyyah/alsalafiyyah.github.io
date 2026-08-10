@@ -1,6 +1,6 @@
 ---
 date: 2020-07-29
-hijri: Dhul-Hijjah 8, 1441
+hijri: '1441-12-08'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: It is not permissible to have crosses in mosques, houses or educational
   like schools, institutes and so on.
 title: Manufacturing crosses is not permissible
 ---
+
 
 ### Question: 
 

@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 15, 1442 AH
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: As far as we know, there is no Sahih Hadith which specifies the time of
   or the Antichrist.
 title: Reports about the Awaited Al-Mahdy and the descending of 'Isa
 ---
+
 
 ### Question: 
 

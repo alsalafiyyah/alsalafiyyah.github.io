@@ -1,18 +1,22 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Advice to those who wish to marry but cannot afford the expenses"
-hijri: "Jumada Al-Awwal 05, 1442 AH"
-source: "Fatawa Shaykh Ibn Baz p. 20/399"
+title: Advice to those who wish to marry but cannot afford the expenses
+hijri: '1442-05-05'
+source: Fatawa Shaykh Ibn Baz p. 20/399
 lang: en
-category: [marriage]
+category:
+- marriage
 note: false
-summary: "O brother! Fear Allah and adhere to His Religion, and observe Sawm (Fast) as often as possible until you can marry. You should ask your Lord to grant you safety and steadfastness on what is right and to facilitate your affairs."
+summary: O brother! Fear Allah and adhere to His Religion, and observe Sawm (Fast)
+  as often as possible until you can marry. You should ask your Lord to grant you
+  safety and steadfastness on what is right and to facilitate your affairs.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question:
 

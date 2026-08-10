@@ -1,6 +1,6 @@
 ---
 date: 2020/08/31
-hijri: Muharram 12, 1442 AH
+hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ source: Fatawa Al-Lajnah Ad-Da'imah no. 16843-5
 title: His daughter left his house and then returned bearing an illegitimate male
   child
 ---
+
 
 Question: 
 

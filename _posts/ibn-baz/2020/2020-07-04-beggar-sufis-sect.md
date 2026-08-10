@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Qa'dah 13, 1441
+hijri: '1441-11-13'
 lang: en
 layout: post
 mass_edited: true
@@ -17,6 +17,7 @@ tags:
 title: The beggar sufis sect
 translation: false
 ---
+
 
 ### Question: 
 

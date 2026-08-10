@@ -1,6 +1,6 @@
 ---
 date: 2020-09-06
-hijri: Muharram 18, 1442
+hijri: '1442-01-18'
 lang: en
 layout: post
 mass_edited: true
@@ -17,6 +17,7 @@ summary: Anything that was not prescribed in the era of the Prophet (peace be up
 title: Refuting Salih Muhammad Jamal for his call of the glorification of Islamic
   monuments
 ---
+
 
 All praise be to Allah, and peace and blessings be upon the Messenger of Allah, his family, his Companions, and those who follow his guidance.
 

@@ -1,21 +1,26 @@
 ---
 layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "Explaining what strengthens faith"
+publisher: alsalafiyyah@icloud.com
+title: Explaining what strengthens faith
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_368/36814.mp3
-hijri: "Rabi' Al-Thani 13, 1442"
+hijri: '1442-04-13'
 date: 2020-11-28
 lang: en
 active: audios
-category: [audios]
-tags: [ibn-baz]
-url: "https://binbaz.org.sa/fatwas/9296/%D8%A7%D9%84%D9%81%D8%B1%D9%82-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%88%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%88%D9%8A-%D9%88%D8%A7%D9%84%D9%85%D9%88%D9%85%D9%86-%D8%A7%D9%84%D8%B6%D8%B9%D9%8A%D9%81"
-summary: "The more one's Iman is firm, the more one's good deeds will be, and vice versa. Hence, a strong Mu'min is one who strictly adheres to the religion, and feels angry when a prohibited act is committed, glorifies Allah, and guards against sins."
+category:
+- audios
+tags:
+- ibn-baz
+url: https://binbaz.org.sa/fatwas/9296/%D8%A7%D9%84%D9%81%D8%B1%D9%82-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%88%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%88%D9%8A-%D9%88%D8%A7%D9%84%D9%85%D9%88%D9%85%D9%86-%D8%A7%D9%84%D8%B6%D8%B9%D9%8A%D9%81
+summary: The more one's Iman is firm, the more one's good deeds will be, and vice
+  versa. Hence, a strong Mu'min is one who strictly adheres to the religion, and feels
+  angry when a prohibited act is committed, glorifies Allah, and guards against sins.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 How does a Mu'min (believer) become firm in Iman (faith)?

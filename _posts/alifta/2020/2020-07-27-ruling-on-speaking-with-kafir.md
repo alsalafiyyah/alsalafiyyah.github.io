@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: It is permissible, if there is no fear of temptation, and only as much 
   is necessary.
 title: Ruling on speaking with a Kafir
 ---
+
 
 ### Question: 
 

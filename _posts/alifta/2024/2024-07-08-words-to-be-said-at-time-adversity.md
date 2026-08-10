@@ -5,7 +5,7 @@ article_taken_from:
     web_url: https://al-fatawa.com/fatwa/110969
 date: 2024-07-08
 group1: true
-hijri: Muharram 02, 1446
+hijri: '1446-01-02'
 lang: en
 layout: post
 mass_edited: true
@@ -17,6 +17,7 @@ summary: I live with my parents, brothers, and sisters. We all love and respect 
   of anything.
 title: Words to be said at times of adversity
 ---
+
 
 ### Question: 
 I live with my parents, brothers, and sisters. We all love and respect each other, all praise be to Allah. I love my family very much and this makes me very worried when any member of my family falls sick to the extent that I cannot speak of anything. I sometimes make Du'a (supplication), but at other times I keep silent. I often think that one of them may die at any time and I fear trials of faith and inability to be patient, may Allah protect us. I would like Your Eminence to give me some advice in this regard that I may never forget.

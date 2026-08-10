@@ -1,7 +1,7 @@
 ---
 date: 2024-09-23
 group1: true
-hijri: Rabiul Awwal 20, 1446
+hijri: '1446-03-20'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: It is not permissible to sell dogs, and their price is not lawful, whet
   they are guard dogs, hunting dogs or any other kind.
 title: What is the ruling on selling dogs?
 ---
+
 
 ### Question: 
 What is the ruling on selling guard dogs that have special characteristics?

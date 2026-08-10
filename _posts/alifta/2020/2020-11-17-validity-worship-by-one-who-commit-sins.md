@@ -1,6 +1,6 @@
 ---
 date: 2020-11-17
-hijri: Rabi' Al-Thani 02, 1442
+hijri: '1442-04-02'
 lang: en
 layout: post
 mass_edited: true
@@ -24,6 +24,7 @@ summary: Whoever drinks Khamr, commits Zina, or indulges in any sin while consid
 title: Validity of acts of worship by someone committing a sin that entails executing
   the Hadd
 ---
+
 
 ### Question:
 

@@ -1,6 +1,6 @@
 ---
 date: 2020-09-04
-hijri: Muharram 16, 1442
+hijri: '1442-01-16'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ summary: Such a saying from you is false for scholars of Saudi Arabia know about
   writings on them.
 title: Comments on some books of Shaykh Abdul-Rahman ibn Abdul-Khaliq
 ---
+
 
 From [Abdul-Aziz ibn Abdullah ibn Baz](/biographies/binbaz/) to the honorable son **Shaykh Abdul-Rahman ibn Abdul-Khaliq**, may Allah guide him to do what pleases Him and make His religion victorious through him. Amen!
 

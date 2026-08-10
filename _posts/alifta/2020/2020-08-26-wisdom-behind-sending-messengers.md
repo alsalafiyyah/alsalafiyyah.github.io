@@ -1,7 +1,7 @@
 ---
 date: 2020/08/26
 group1: true
-hijri: Muharram 7, 1442
+hijri: '1442-01-07'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: What is the wisdom behind sending the prophets and messengers over spor
   periods of time? Why were they not sent in the same time period?
 title: The wisdom behind sending Messengers over sporadic periods
 ---
+
 
 ### Question:
 What is the wisdom behind sending the prophets and messengers over sporadic periods of time? Why were they not sent in the same time period?

@@ -1,7 +1,7 @@
 ---
 date: 2020-09-03
 group6: true
-hijri: Muharram 15, 1442
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -12,6 +12,7 @@ summary: Observing Taqwa entails obeying all that Allah has ordered and abstaini
   which Muslims are ordered to follow and abstain from prohibited deeds and sayings.
 title: What is the way to attain Taqwa?
 ---
+
 
 ### Question: 
 I hear the call to observe Taqwa, but I cannot determine whether I have attained it, because it is a broad term. What is the way to attain Taqwa? 

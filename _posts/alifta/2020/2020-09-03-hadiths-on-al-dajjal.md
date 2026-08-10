@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 15, 1442 AH
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: There are Hadiths that are Sahih and Mutawatir about the appearance of 
   His appearance is one of the Signs of the Hour.
 title: Authenticity of the Hadiths mentioning Al-Dajjal
 ---
+
 
 ### Question: 
 

@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 11, 1441 AH
+hijri: '1441-12-10'
 lang: en
 layout: post
 mass_edited: true
@@ -17,6 +17,7 @@ summary: It is Haram (prohibited) for a person to write such false stories. The 
   moral lessons.
 title: Ruling on writing fiction
 ---
+
 
 Question: 
 

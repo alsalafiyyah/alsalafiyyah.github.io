@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 12, 1442 AH
+hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: If the matter is as you have mentioned, the extra amount which the comp
   because Riba is Haram according to the Qur'an, the Sunnah and consensus.
 title: A company issued a card for employees to use when buying a commodity
 ---
+
 
 Question:
 

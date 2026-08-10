@@ -2,18 +2,24 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Commenting on criticism among Du'ah (Callers to Islam)"
-hijri: "Rabi' Al-Awwal 19, 1442 AH"
-source: "Fatawa Al-Shaykh Ibn Baz p. 7/319"
+title: Commenting on criticism among Du'ah (Callers to Islam)
+hijri: '1442-03-19'
+source: Fatawa Al-Shaykh Ibn Baz p. 7/319
 lang: en
-category: [ghibah, muqolat]
+category:
+- ghibah
+- muqolat
 note: false
-summary: "It has become prevalent nowadays that many of those who claim to be scholars and Du'ah (callers to Islam) backbite their fellow Du'ah and knowledge seekers, whether in private or in public. They might even record this on tapes to be distributed among the people, or in lectures they give in Masjids (mosques)."
+summary: It has become prevalent nowadays that many of those who claim to be scholars
+  and Du'ah (callers to Islam) backbite their fellow Du'ah and knowledge seekers,
+  whether in private or in public. They might even record this on tapes to be distributed
+  among the people, or in lectures they give in Masjids (mosques).
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 Praise be to Allah, the Lord of the Worlds. May Allah's peace and blessings be upon our trustworthy Prophet Muhammad, his family, Companions and those who follow his Sunnah until the Day of Judgment.
 

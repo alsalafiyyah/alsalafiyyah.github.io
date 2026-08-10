@@ -1,18 +1,21 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Discovering that one's wife is not a virgin"
-hijri: "Jumada Al-Awwal 05, 1442 AH"
-source: "Fatawa Shaykh Ibn Baz p. 20/286"
+title: Discovering that one's wife is not a virgin
+hijri: '1442-05-05'
+source: Fatawa Shaykh Ibn Baz p. 20/286
 lang: en
-category: [marriage]
+category:
+- marriage
 note: false
-summary: "This may be due to several reasons; virginity may be lost due to other reasons than Zina, so he should think well of her if she is apparently good and righteous."
+summary: This may be due to several reasons; virginity may be lost due to other reasons
+  than Zina, so he should think well of her if she is apparently good and righteous.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question:
 

@@ -1,19 +1,23 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Is the month of Ramadan an exclusive feature of the Muslims?"
-hijri: Safar 23, 1442
+title: Is the month of Ramadan an exclusive feature of the Muslims?
+hijri: '1442-02-23'
 lang: en
 locale: en
-source: "Fatawa Al-Shaykh Ibn Baz 15/7"
-category: [fatwas,fasting]
+source: Fatawa Al-Shaykh Ibn Baz 15/7
+category:
+- fatwas
+- fasting
 note: false
-summary: "Is the month of Ramadan an exclusive feature of our Muslim nation only or it was also prescribed upon previous nations?"
+summary: Is the month of Ramadan an exclusive feature of our Muslim nation only or
+  it was also prescribed upon previous nations?
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

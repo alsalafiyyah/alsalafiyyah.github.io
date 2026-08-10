@@ -1,6 +1,6 @@
 ---
 date: 2024-07-27
-hijri: Muharram 21, 1446
+hijri: '1446-01-21'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: Faith is not faith except if the aqidah (creed) is correct. And if the 
 title: All acts of worship depends on correct aqidah
 translated_by: Masjid Uthaymeen
 ---
+
 
 ### Question:
 There is (one) here who is lax concerning the importance of aqidah (creed) and he is of the opinion that iman (faith) is sufficient (for him). Do you have any clarification concerning the importance of aqidah for the Muslim and how it reflects on his life, on his relationship with the (Muslim) society (as a whole) and with the non-Muslims?

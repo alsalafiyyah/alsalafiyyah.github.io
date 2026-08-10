@@ -1,6 +1,6 @@
 ---
 date: 2025-07-30
-hijri: Safar 5, 1447 AH
+hijri: '1447-02-05'
 lang: en
 layout: post
 mass_edited: true
@@ -24,6 +24,8 @@ tags:
 title: What are the conditions of cutting off a thief's hand?
 translation: false
 ---
+
+
 
 ### Question:
 

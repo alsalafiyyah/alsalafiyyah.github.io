@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 23, 1441
+hijri: '1441-12-23'
 lang: en
 layout: post
 mass_edited: true
@@ -14,6 +14,7 @@ summary: She should forbid the wrong gently in an amiable way using kind words. 
   forbidden.
 title: Disapproving evil done by relatives
 ---
+
 
 ### Question:
 What should a believing woman do when she sees one of her relatives committing evil acts?

@@ -1,5 +1,5 @@
 ---
-hijri: Safar 24, 1442 AH
+hijri: '1442-02-24'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: This baby will be dealt with in this world as his family. If he is born
   for him.
 title: Ruling on whoever dies as a minor
 ---
+
 
 Question:
 

@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 14, 1442 AH
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -24,6 +24,7 @@ summary: My children can not read Arabic well as there is no Muslim in this city
   this large majority of non Muslims.
 title: Fleeing with religion from non-Muslim countries
 ---
+
 
 ### Question:
 

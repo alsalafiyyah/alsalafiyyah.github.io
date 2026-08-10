@@ -12,7 +12,9 @@ tags:
 - alifta
 title: Rulings on Abandoning Knowledge Due to Deficiencies in Practice
 translation: false
+hijri: '1448-02-13'
 ---
+
 
 ### Question:
 

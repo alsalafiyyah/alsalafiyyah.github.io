@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 12, 1442 AH
+hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: Samba visa as described in the question is a new way of the ways of tho
   who deal with Riba (usury/interest) and consuming the properties of people unjustly.
 title: Ruling on using Samba visa card
 ---
+
 
 Question:
 

@@ -1,6 +1,6 @@
 ---
 group1: true
-hijri: Dhul-Qa'dah 25, 1441
+hijri: '1441-11-24'
 lang: en
 layout: post
 mass_edited: true
@@ -13,6 +13,7 @@ tags:
 title: Ruling on swearing by Allah and His Messenger
 translation: false
 ---
+
 
 ### Question: 
 

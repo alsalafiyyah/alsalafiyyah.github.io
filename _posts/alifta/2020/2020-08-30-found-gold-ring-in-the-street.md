@@ -1,6 +1,6 @@
 ---
 date: 2020/08/30
-hijri: Muharram 11, 1442 AH
+hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ source: Fatawa Al-Lajnah Ad-Da'imah no. 18934-1
 title: Found a gold ring in the street and gave it to his mother who would ask people
   if anyone lost a ring
 ---
+
 
 Question: 
 

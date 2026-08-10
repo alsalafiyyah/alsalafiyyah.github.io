@@ -5,7 +5,7 @@ article_taken_from:
     web_url: https://fatawapedia.com/حكم-جماع-الحامل-22870
 date: 2026-05-11
 group2: true
-hijri: Dhu al-Qidah 24, 1447 AH
+hijri: '1447-11-24'
 lang: en
 layout: post
 mass_edited: true
@@ -19,6 +19,7 @@ tags:
 title: On Marital Relations During Pregnancy
 translation: false
 ---
+
 
 ### Question: 
 

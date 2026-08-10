@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 19, 1442 AH
+hijri: '1442-01-19'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: Dear Shaykh, kindly confirm the degree of authenticity or weakness of t
   away from the leper as you would run away from a lion.'
 title: 'Hadith: ''Run away from the leper as you would run away from a lion'''
 ---
+
 
 Question:
 

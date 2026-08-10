@@ -1,18 +1,22 @@
 ---
 layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "Advice of Allah's Book [Part 1]"
-source: "Majmu' Fatawa 9/14"
-hijri: "Muharram 06, 1442"
+publisher: alsalafiyyah@icloud.com
+title: Advice of Allah's Book [Part 1]
+source: Majmu' Fatawa 9/14
+hijri: '1442-01-06'
 date: 2020-08-25
 active: muqolat
-category: [muqolat]
-summary: Truly, the Qur'an contains guidance and light. It is the strong Rope and Right Path of Allah. It is the Wise Reminder, whoever adheres to it will be saved, whereas whoever is lead astray from it perishes.
+category:
+- muqolat
+summary: Truly, the Qur'an contains guidance and light. It is the strong Rope and
+  Right Path of Allah. It is the Wise Reminder, whoever adheres to it will be saved,
+  whereas whoever is lead astray from it perishes.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 All praise be to Allah, the Lord of all the Worlds, and the good end will be for the pious! Peace and blessings be upon Allah's Servant, Messenger, Khalil (beloved, close elect), the one entrusted with His revelation and the best of His Creatures our Prophet, Imam (leader) and Master Muhammad ibn 'Abdullah, and upon his family, his Companions, and those who follow his path and are guided by his teachings till the Day of Judgment.
 

@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 15, 1442 AH
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: It is authentically reported from the Prophet - peace be upon him - tha
   so it will, and command the earth to bring forth vegetation, so it will.
 title: The trial of Al-Dajjal
 ---
+
 
 ### Question: 
 

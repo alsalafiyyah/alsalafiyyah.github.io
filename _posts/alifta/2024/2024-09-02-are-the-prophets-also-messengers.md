@@ -1,6 +1,6 @@
 ---
 date: 2024-09-02
-hijri: Safar 29, 1446
+hijri: '1446-02-29'
 lang: en
 layout: post
 mass_edited: true
@@ -14,6 +14,7 @@ summary: If Muhammad ﷺ was the last of the Prophets, then he (ﷺ) was also th
   of the Messengers for there is no Messengership without Prophethood.
 title: Are the Prophets also Messengers?
 ---
+
 
 ### Question:
 Are the Prophets mentioned in the saying of Allah, the Most High: **“Verily, We have inspired you (O Muhammad (peace and blessings be upon him)) as We inspired Nooh…"**, Messengers or not? And who is the first Messenger?

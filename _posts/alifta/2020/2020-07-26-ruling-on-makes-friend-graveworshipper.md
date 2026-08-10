@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 5, 1441
+hijri: '1441-12-05'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: You should call those whom you mentioned to the path of Allah, show the
   they respond positively, all praise be to Allah.
 title: Ruling on befriending with those who worship the graves
 ---
+
 
 ### Question: 
 

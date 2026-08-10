@@ -1,20 +1,24 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on praying behind an imam from the bareilawi sect"
-hijri: "Muharram 10, 1445 AH"
+title: Ruling on praying behind an imam from the bareilawi sect
+hijri: '1445-01-10'
 date: 2023-07-28
-source: "Thamarat Al-Tadwin min Fatawa Ibn 'Uthaymeen p.8"
+source: Thamarat Al-Tadwin min Fatawa Ibn 'Uthaymeen p.8
 lang: en
-tags: [ibn-uthaymeen]
+tags:
+- ibn-uthaymeen
 translation: false
-category: [sects]
-summary: "What is the ruling on praying behind an imam from the bareilawi sect, who believes that the Prophet ﷺ is alive and present and can see us."
+category:
+- sects
+summary: What is the ruling on praying behind an imam from the bareilawi sect, who
+  believes that the Prophet ﷺ is alive and present and can see us.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn 'Uthaymeen
-      url: /biography/uthaymeen
+  shaykh:
+  - name: Shaykh Ibn 'Uthaymeen
+    url: /biography/uthaymeen
 ---
+
 
 ### Question: 
 

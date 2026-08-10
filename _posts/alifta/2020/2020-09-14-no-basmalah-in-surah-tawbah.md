@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 26, 1442 AH
+hijri: '1442-01-26'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: Why is not the Basmalah written at the beginning of Surah Al-Tawbah?
 title: No Basmalah in Surah Al-Tawbah
 uid: no-basmalah-in-surah-tawbah
 ---
+
 
 Question:
 

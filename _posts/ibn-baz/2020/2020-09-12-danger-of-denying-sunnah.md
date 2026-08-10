@@ -1,6 +1,6 @@
 ---
 date: 2020-09-12
-hijri: Muharram 24, 1442
+hijri: '1442-01-24'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ summary: I considered it necessary to make things clear regarding the claims of 
   Ummah.
 title: Danger of denying the Sunnah by words and deeds
 ---
+
 
 This letter is from [**Abdul-Aziz ibn Abdullah ibn Baz**](/biography/binbaz/) to **Chairman of European Islamic Council**, may Allah protect you! As-salamu 'alaykum warahmatullah wabarakatuh (May Allah's Peace, Mercy, and Blessings be upon you!)
 

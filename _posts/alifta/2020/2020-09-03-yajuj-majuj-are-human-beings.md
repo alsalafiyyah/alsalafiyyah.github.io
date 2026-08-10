@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 15, 1442 AH
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -18,6 +18,7 @@ summary: They are human beings from the children of Adam, the father of mankind.
   are living on this earth in the Furthest East.
 title: The existence of Gog and Magog and attributing them to human beings
 ---
+
 
 ### Question: 
 

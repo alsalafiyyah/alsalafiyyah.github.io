@@ -2,19 +2,24 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Misguided Practices on Ashura"
+title: Misguided Practices on Ashura
 date: 2026-08-01
 lang: en
 translation: false
-source: "Muqolat no. 3478"
-link: "https://www.al-badr.net/muqolat/3478"
-summary: "As for a certain group of people (Shittes, Shia), the day of Ashura has turned for them every year into a day of mourning and lamentation."
-category: [fawaid, sects]
+source: Muqolat no. 3478
+link: https://www.al-badr.net/muqolat/3478
+summary: As for a certain group of people (Shittes, Shia), the day of Ashura has turned
+  for them every year into a day of mourning and lamentation.
+category:
+- fawaid
+- sects
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul Razzaq al-Badr
-      url: /biography/abdul-razzaq-al-badr
+  shaykh:
+  - name: Shaykh Abdul Razzaq al-Badr
+    url: /biography/abdul-razzaq-al-badr
+hijri: '1448-02-18'
 ---
+
 
 As for a certain group of people (Shittes), the day of Ashura has turned for them every year into a day of mourning and lamentation. On this day, they engage in practices that do not please Allah—practices that are not part of Allah's religion (Islam). Rather, Islam came to forbid, prohibit, and criminalize them, clarifying the punishment for those who perform them. These include lamenting, slapping cheeks, tearing clothes, and invoking the calls of the 'Ignorance Era' (Jahiliyyah).
 

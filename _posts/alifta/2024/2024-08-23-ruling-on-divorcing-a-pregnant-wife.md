@@ -1,6 +1,6 @@
 ---
 date: 2024-08-23
-hijri: Safar 19, 1446 AH
+hijri: '1446-02-19'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: Is it permissible to divorce a pregnant wife or not? the answer is ther
   is no objection in divorcing a pregnant woman.
 title: The ruling on divorcing a pregnant wife
 ---
+
 
 ### Question: 
 Is it permissible to divorce a pregnant wife or not?

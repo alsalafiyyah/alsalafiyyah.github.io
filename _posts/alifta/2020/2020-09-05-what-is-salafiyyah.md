@@ -5,7 +5,7 @@ article_taken_from:
     web_url: https://al-fatawa.com/fatwa/112698
 date: 2020-09-05
 group1: true
-hijri: Muharram 17, 1442 AH
+hijri: '1442-01-17'
 lang: en
 layout: post
 mass_edited: true
@@ -17,6 +17,7 @@ tags:
 - alifta
 title: What is Salafiyyah?
 ---
+
 
 ### Question:
 

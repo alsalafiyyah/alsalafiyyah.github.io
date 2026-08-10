@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -20,6 +20,7 @@ summary: It is permissible to give a non-Muslim from the meat of an Udhiyah or â
 title: Ruling on giving a non-Muslim neighbor from the Udhiyah
 uid: ruling-on-giving-kafir-udhiyah
 ---
+
 
 ### Question: 
 

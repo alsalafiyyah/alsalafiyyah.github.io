@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 21, 1442 AH
+hijri: '1442-01-25'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: There are some Ayahs (Qur'anic verses) which I cannot pronounce properl
   in this incorrect manner?
 title: Ruling on reciting some Ayahs incorrectly
 ---
+
 
 ### Question:
 

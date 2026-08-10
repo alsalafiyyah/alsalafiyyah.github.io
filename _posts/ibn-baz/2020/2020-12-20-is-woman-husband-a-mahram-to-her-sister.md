@@ -1,18 +1,22 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Is a man considered a Mahram for the sister of his wife?"
-hijri: "Jumada Al-Awwal 05, 1442 AH"
-source: "Fatawa Shaykh Ibn Baz p. 20/289"
+title: Is a man considered a Mahram for the sister of his wife?
+hijri: '1442-05-05'
+source: Fatawa Shaykh Ibn Baz p. 20/289
 lang: en
-category: [marriage]
+category:
+- marriage
 note: false
-summary: "No, a woman's husband is not a Mahram to her sister or paternal aunt. The husband of a woman is a Mahram neither to her sister, nor to her maternal or paternal aunts."
+summary: No, a woman's husband is not a Mahram to her sister or paternal aunt. The
+  husband of a woman is a Mahram neither to her sister, nor to her maternal or paternal
+  aunts.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question:
 

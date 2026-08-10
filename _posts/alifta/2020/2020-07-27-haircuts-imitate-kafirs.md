@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -20,6 +20,7 @@ summary: The Shari'ah has prohibited imitating disbelievers in their clothes, cu
   them, which is prohibited.
 title: Ruling on haircuts that imitate disbelievers
 ---
+
 
 ### Question: 
 

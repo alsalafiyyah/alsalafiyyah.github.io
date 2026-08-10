@@ -1,6 +1,6 @@
 ---
 date: 2020/08/30
-hijri: Muharram 11, 1442 AH
+hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
@@ -14,6 +14,7 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 18721-2
 title: 'Fabricated Hadith: ''I am the best person for the wicked people of my Ummah'''
 ---
+
 
 Question: 
 

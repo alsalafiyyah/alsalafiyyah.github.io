@@ -1,6 +1,6 @@
 ---
 date: 2020/08/13
-hijri: Dhul-Hijjah 23, 1441 AH
+hijri: '1441-12-23'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: The caller to Islam must explain to them the defects and bid'ahs in the
   and the milieus where they live.
 title: How to call those who are influenced by certain cultures to Islam
 ---
+
 
 ### Question:
 

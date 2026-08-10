@@ -2,19 +2,26 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Categorizing Those Who Speak Against People of Authority"
-hijri: "Muharram 27, 1446 AH"
+title: Categorizing Those Who Speak Against People of Authority
+hijri: '1446-01-27'
 date: 2024-08-02
 active: audios
-category: [fatwas,audios,rulership,sects]
-tags: [salih-ibn-fawzan]
-summary: "These people fall into two categories: Either they are Kharijites who promote the ideology of the Khawarij"
+category:
+- fatwas
+- audios
+- rulership
+- sects
+tags:
+- salih-ibn-fawzan
+summary: 'These people fall into two categories: Either they are Kharijites who promote
+  the ideology of the Khawarij'
 mp3: https://www.alfawzan.af.org.sa/sites/default/files/6594.mp3
 muftis:
-  shaykh: 
-    - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan/
---- 
+  shaykh:
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan/
+---
+ 
 
 ### Question: 
 

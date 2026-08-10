@@ -2,19 +2,26 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-05-04
-hijri: "Dhu al-Qidah 17, 1447 AH"
-title: "Humanity’s Lineage: Created from Clay, Not Evolved from Apes"
-source: "Fatawa Nur Ala ad-Darb, Tape 55 - 05"
-category: [fatwas,audios,darwinism]
-tags: [ibn-uthaymeen]
-link: "https://binothaimeen.net/s/xWMqdIcx"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_055_05.mp3"
-summary: "This statement is incorrect — I mean the claim that the origin of man is an ape—rather, the one who says it is, in reality, an ape whose intellect and insight have been distorted."
+hijri: '1447-11-17'
+title: 'Humanity’s Lineage: Created from Clay, Not Evolved from Apes'
+source: Fatawa Nur Ala ad-Darb, Tape 55 - 05
+category:
+- fatwas
+- audios
+- darwinism
+tags:
+- ibn-uthaymeen
+link: https://binothaimeen.net/s/xWMqdIcx
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_055_05.mp3
+summary: This statement is incorrect — I mean the claim that the origin of man is
+  an ape—rather, the one who says it is, in reality, an ape whose intellect and insight
+  have been distorted.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
 ---
+
 
 ### Question:
 

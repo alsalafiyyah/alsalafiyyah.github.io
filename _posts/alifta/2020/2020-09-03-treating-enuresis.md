@@ -1,6 +1,6 @@
 ---
 date: 2020/09/3
-hijri: Muharram 15, 1442
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -24,6 +24,7 @@ summary: The guidance of the Prophet was to seek treatment and encourage the pat
   from among his family and Companions to seek it.
 title: Treating enuresis
 ---
+
 
 ### Question:
 A university student suffers a lot when he makes Wudu' (ablution), as he stays in the bathroom for more than half an hour. Also, when he leaves the bathroom, he feels that drops of urine come out. Is he considered among those who suffer uncontrolled enuresis, so that he must seek treatment? 

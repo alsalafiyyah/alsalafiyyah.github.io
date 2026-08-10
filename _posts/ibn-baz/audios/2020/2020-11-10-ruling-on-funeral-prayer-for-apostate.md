@@ -1,20 +1,25 @@
 ---
 layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "The Ruling on Funeral Prayers for Those Who Violate Sharia Boundaries"
-hijri: "Rabi' Al-Awwal 24, 1442"
+publisher: alsalafiyyah@icloud.com
+title: The Ruling on Funeral Prayers for Those Who Violate Sharia Boundaries
+hijri: '1442-03-24'
 date: 2020-11-10
 active: audios
-category: [audios,funerals]
-tags: [ibn-baz]
-url: "https://binbaz.org.sa/fatwas/5509/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%83%D8%A7%D9%81%D8%B1-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%8A"
-mp3: "https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_069/06913.mp3"
-summary: "This varies. If his departure from the boundaries entails Kufr (disbelief), then he has become an apostate and the funeral prayer is not offered for him."
+category:
+- audios
+- funerals
+tags:
+- ibn-baz
+url: https://binbaz.org.sa/fatwas/5509/%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%83%D8%A7%D9%81%D8%B1-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%8A
+mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_069/06913.mp3
+summary: This varies. If his departure from the boundaries entails Kufr (disbelief),
+  then he has become an apostate and the funeral prayer is not offered for him.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

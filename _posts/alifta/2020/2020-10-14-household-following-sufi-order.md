@@ -1,5 +1,5 @@
 ---
-hijri: Safar 27, 1442
+hijri: '1442-02-27'
 lang: en
 layout: post
 mass_edited: true
@@ -23,6 +23,7 @@ tags:
 title: Ruling on Mirghaniyyah or Khatmiyyah Sufi order
 translation: false
 ---
+
 
 ### Question:
 

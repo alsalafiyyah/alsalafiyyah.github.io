@@ -1,7 +1,7 @@
 ---
 date: 2024-08-05
 group1: true
-hijri: Safar 01, 1446 AH
+hijri: '1446-02-01'
 lang: en
 layout: post
 mass_edited: true
@@ -14,6 +14,7 @@ tags:
 title: Ruling on voting the kuffar in elections
 translation: false
 ---
+
 
 ### Question: 
 

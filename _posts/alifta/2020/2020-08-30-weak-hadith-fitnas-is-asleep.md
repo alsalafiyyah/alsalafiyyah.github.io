@@ -1,6 +1,6 @@
 ---
 date: 2020/08/30
-hijri: Muharram 11, 1442 AH
+hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ source: Fatawa Al-Lajnah Ad-Da'imah no. 17867-3
 title: 'Weak Hadiths: ''Fitnah is asleep. May Allah the Curse of Allah be upon the
   one who wakes it up'' and ''Stay away from verdure growing in manure'''
 ---
+
 
 Question: 
 

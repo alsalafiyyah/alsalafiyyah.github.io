@@ -1,6 +1,6 @@
 ---
 date: 2020/09/3
-hijri: Muharram 15, 1442
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -19,6 +19,7 @@ summary: Yes, it is permissible to use a hypnotic drug when needed with a medica
   prescription from a specialist.
 title: Ruling on taking hypnotic drugs
 ---
+
 
 ### Question:
 Is it permissible to use a hypnotic drug (sleeping pills)? 

@@ -1,7 +1,7 @@
 ---
 date: 2020/09/3
 group1: true
-hijri: Muharram 14, 1442 AH
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: 'What is the attitude of Islam towards these parties, and towards Musli
   who take part in them? Is their Islam sound? '
 title: 'Muslim''s attitude towards political parties '
 ---
+
 
 ### Question:
 

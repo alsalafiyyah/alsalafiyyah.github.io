@@ -1,6 +1,6 @@
 ---
 date: 2020/08/31
-hijri: Muharram 12, 1442 AH
+hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
@@ -12,6 +12,7 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 14014
 title: Illegitimate children should be attributed to their mother
 ---
+
 
 Question: 
 

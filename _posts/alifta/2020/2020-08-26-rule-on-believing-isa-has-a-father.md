@@ -1,7 +1,7 @@
 ---
 date: 2020/08/26
 group1: true
-hijri: Muharram 7, 1442
+hijri: '1442-01-07'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: They are either accusing Maryam of Zina, as the Jews did, or claiming t
   Jesus is the son of Allah, as the Christians do.
 title: Ruling on believing that Jesus has a father
 ---
+
 
 ### Question:
 It is claimed that 'Isa (Jesus, peace be upon him) had a father, and believing that he was born without a father is not a part of the Islamic Aqidah (creed).

@@ -2,19 +2,27 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2020-07-17
-title: "Explaining the Dawah of Sheikh Muhammad ibn Abd al-Wahhab"
-source: "Fatawa Nur 'ala al-Darb, Tape 216 No.4"
-category: [fatwas, audios, manhaj]
-link: "https://binbaz.org.sa/fatwas/6899/%D8%A7%D9%84%D8%AA%D8%B9%D8%B1%D9%8A%D9%81-%D8%A8%D8%AF%D8%B9%D9%88%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%88%D9%87%D8%A7%D8%A8-%D8%B1%D8%AD%D9%85%D9%87-%D8%A7%D9%84%D9%84%D9%87"
-mp3: "https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_216/21604.mp3"
-summary: "The point of all this is that this call, and this title, is a label for whoever calls to the monotheism of Allah. Anyone who calls to Tawhid and denounces Shirk is labeled a Wahhabi by certain ignorant individuals, due to their ignorance of the reality and their lack of knowledge concerning the facts."
+title: Explaining the Dawah of Sheikh Muhammad ibn Abd al-Wahhab
+source: Fatawa Nur 'ala al-Darb, Tape 216 No.4
+category:
+- fatwas
+- audios
+- manhaj
+link: https://binbaz.org.sa/fatwas/6899/%D8%A7%D9%84%D8%AA%D8%B9%D8%B1%D9%8A%D9%81-%D8%A8%D8%AF%D8%B9%D9%88%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%88%D9%87%D8%A7%D8%A8-%D8%B1%D8%AD%D9%85%D9%87-%D8%A7%D9%84%D9%84%D9%87
+mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_216/21604.mp3
+summary: The point of all this is that this call, and this title, is a label for whoever
+  calls to the monotheism of Allah. Anyone who calls to Tawhid and denounces Shirk
+  is labeled a Wahhabi by certain ignorant individuals, due to their ignorance of
+  the reality and their lack of knowledge concerning the facts.
 lang: en
 translation: true
 muftis:
-  shaykh: 
-    - name: "Shaykh Ibn Baz"
-      url: "/biography/binbaz"
+  shaykh:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz
+hijri: '1441-11-26'
 ---
+
 
 ### Question: 
 

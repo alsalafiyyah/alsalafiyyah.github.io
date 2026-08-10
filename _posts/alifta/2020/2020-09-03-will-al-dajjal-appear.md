@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 15, 1442 AH
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: Imam Al-Bukhari has a chapter in his Sahih Book of Hadith dedicated to 
   to Al-Masih- ad-Dajjal that includes ten Hadiths about him.
 title: Will the Antichrist appear?
 ---
+
 
 ### Question: 
 

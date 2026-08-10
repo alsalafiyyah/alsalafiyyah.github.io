@@ -2,22 +2,27 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-08-06
-hijri: 1448-02-23
-title: "The Ruling on Celebrating Valentine's Day in Islam"
-category: [audios, festivals]
-tags: [salih-ibn-fawzan]
-mp3: "https://audio.alfawzan.live/2020-02/08.mp3"
-link: "https://alfawzan.live/content/18322/"
+hijri: '1448-02-23'
+title: The Ruling on Celebrating Valentine's Day in Islam
+category:
+- audios
+- festivals
+tags:
+- salih-ibn-fawzan
+mp3: https://audio.alfawzan.live/2020-02/08.mp3
+link: https://alfawzan.live/content/18322/
 active: audios
 translation: false
 lang: en
-source: "Fatwa No. 18322"
-summary: "It is not permissible. There are no celebrations in Islam except for two, Eid al-Fitr and Eid al-Adha."
+source: Fatwa No. 18322
+summary: It is not permissible. There are no celebrations in Islam except for two,
+  Eid al-Fitr and Eid al-Adha.
 muftis:
-  shaykh: 
-    - name: "Shaykh Salih al-Fawzan"
-      url: "/biography/fawzan/"
+  shaykh:
+  - name: Shaykh Salih al-Fawzan
+    url: /biography/fawzan/
 ---
+
 
 ### Question: 
 

@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -23,6 +23,7 @@ summary: The care of 'Abdul-Muttalib, and protection of Abu Talib given to the P
   them.
 title: Abd Al-Muttalib's love for the Prophet
 ---
+
 
 ### Question: 
 

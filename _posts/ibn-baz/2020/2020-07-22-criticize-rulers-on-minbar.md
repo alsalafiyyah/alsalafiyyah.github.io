@@ -1,19 +1,24 @@
 ---
 layout: post
-title: "Ruling on criticize rulers openly on the pulpit"
-publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa wa Maqalat 8/210"
-category: [rulership]
+title: Ruling on criticize rulers openly on the pulpit
+publisher: alsalafiyyah@icloud.com
+source: Majmu' Fatawa wa Maqalat 8/210
+category:
+- rulership
 translation: false
-tags: [ibn-baz]
+tags:
+- ibn-baz
 lang: en
-hijri: "Dhul-Qa'dah 31, 1441 AH"
-summary: "It was not the practice of the Salaf to make the defects of their rulers known by mentioning them on the Minbar. This is because doing so results in anarchy, disobedience, and harmful consequences."
+hijri: '1441-12-01'
+summary: It was not the practice of the Salaf to make the defects of their rulers
+  known by mentioning them on the Minbar. This is because doing so results in anarchy,
+  disobedience, and harmful consequences.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

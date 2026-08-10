@@ -1,5 +1,5 @@
 ---
-hijri: Safar 04, 1442
+hijri: '1442-02-02'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: Is it permissible in this case to burn the Muslim woman with a firebran
   so that the female jinni will leave her body?
 title: Ruling on cauterization as a way of curing epilepsy
 ---
+
 
 ### Question:
 An epileptic woman is possessed by a female Jinn. When the Jinn is beaten, she refuses to depart from the Muslim woman's body. Is it permissible in this case to burn the Muslim woman with a firebrand so that the female jinni will leave her body? 

@@ -1,7 +1,7 @@
 ---
 date: 2020-07-25
 group7: true
-hijri: Dhul-Hijjah 4, 1441
+hijri: '1441-12-04'
 lang: en
 layout: post
 mass_edited: true
@@ -12,6 +12,7 @@ summary: The Muslim youth have to seek beneficial knowledge from trustworthy sch
   the way of the Salaf and averting all suspicious and vague trends.
 title: Adhering to the Sunnah and following the Salaf
 ---
+
 
 ### Question: 
 A father asks his son to stay away from the trend of Islamic awakening but the son refuses, for this trend abides by Allah's orders, will he be committing a sin if he disobeys his father, bearing in mind that the said father thinks that the Islamic awakening trend and its members have gone astray and they got such ideas from outside the country.

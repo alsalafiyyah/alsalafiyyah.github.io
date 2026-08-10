@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 8, 1441 AH
+hijri: '1441-12-08'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: The Divine Books revealed before the Qur'an now include many distortion
   alterations, and omissions, as Allah says in the Qur'an.
 title: Ruling on reading Bible
 ---
+
 
 ### Question: 
 What is the ruling on reading the Bible?

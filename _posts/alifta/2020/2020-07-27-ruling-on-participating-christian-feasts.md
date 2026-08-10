@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -26,6 +26,7 @@ summary: It is not permissible to participate in the feasts of the Christians or
   approval to Munkar, and declaring loyalty to the Kuffar.
 title: Ruling on participating in Christian feasts
 ---
+
 
 ### Question: 
 

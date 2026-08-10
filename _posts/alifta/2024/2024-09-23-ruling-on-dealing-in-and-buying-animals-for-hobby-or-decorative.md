@@ -1,7 +1,7 @@
 ---
 date: 2024-09-23
 group13: true
-hijri: Rabiul Awwal 20, 1446
+hijri: '1446-03-20'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: Selling decorative birds like parrots, colorful birds and nightingales 
   their voices is permissible because looking at and listening to them is permissible.
 title: Islamic ruling on dealing in and buying animals for hobby or decorative purposes
 ---
+
 
 ### Question: 
 

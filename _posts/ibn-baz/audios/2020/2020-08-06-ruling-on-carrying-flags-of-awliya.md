@@ -1,25 +1,32 @@
 ---
 layout: post
-title: "Ruling on carrying flags for Awliya"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Nur 'Ala al-Darb vol 3"
+title: Ruling on carrying flags for Awliya
+publisher: alsalafiyyah@icloud.com
+source: Fatawa Nur 'Ala al-Darb vol 3
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_926/nour_92603.mp3
 link: https://cutt.ly/kdDW4ua
-hijri: Dhul-Hijjah 16, 1441
+hijri: '1441-12-16'
 date: 2020-08-06
 lang: en
 note: false
 active: audios
 type: audios
-category: [audios, sects, bidah]
-tags: [ibn-baz]
+category:
+- audios
+- sects
+- bidah
+tags:
+- ibn-baz
 locale: en
-summary: "During festivals some people carry colorful flags bearing some Ayahs (Qur'anic verses) and expressions; for example, the magnate, great reliever and mighty scholar Ahmad Al-Rifa'i, Ahmad Al-Badawi, or Abdul-Qadir Al-Jilani."
+summary: During festivals some people carry colorful flags bearing some Ayahs (Qur'anic
+  verses) and expressions; for example, the magnate, great reliever and mighty scholar
+  Ahmad Al-Rifa'i, Ahmad Al-Badawi, or Abdul-Qadir Al-Jilani.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question:
 During festivals some people carry colorful flags bearing some Ayahs (Qur'anic verses) and expressions; for example, the magnate, great reliever and mighty scholar Ahmad Al-Rifa'i, Ahmad Al-Badawi, or Abdul-Qadir Al-Jilani. It should be mentioned that these people carry such flags that are fastened to long poles while they beat drums, walking along the streets and hitting themsleves with swords. The strange thing is that these flags move wherever they like, i.e., they fly in the air. What is the ruling of Islam on such practices? To what extent do these practices distort the image of the Islam? 

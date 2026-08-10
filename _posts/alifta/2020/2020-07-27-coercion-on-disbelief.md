@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -19,6 +19,7 @@ summary: If coercion is actually existent, then the apparent declaration of disb
   is tolerated on condition that a person's heart is assured of faith
 title: Coercion on disbelief
 ---
+
 
 ### Question: 
  

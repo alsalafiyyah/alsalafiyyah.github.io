@@ -5,7 +5,7 @@ article_taken_from:
     web_url: https://al-fatawa.com/fatwa/111640
 date: 2024-08-02
 group1: true
-hijri: Muharram 27, 1446 AH
+hijri: '1446-01-27'
 lang: en
 layout: post
 mass_edited: true
@@ -20,6 +20,7 @@ title: The ruling on invoking Allah against a ruler who does not judge according
   Shari'ah
 translation: false
 ---
+
 
 ### Question: 
 

@@ -2,21 +2,27 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-08-03
-title: "The Duty of Muslims to Defend Al-Aqsa Mosque"
-category: [audios, palestine]
-tags: [salih-ibn-fawzan]
-mp3: "https://audio.alfawzan.live/NEW_11.mp3"
-link: "https://alfawzan.live/content/13283/"
+title: The Duty of Muslims to Defend Al-Aqsa Mosque
+category:
+- audios
+- palestine
+tags:
+- salih-ibn-fawzan
+mp3: https://audio.alfawzan.live/NEW_11.mp3
+link: https://alfawzan.live/content/13283/
 active: audios
 translation: false
 lang: en
-source: "Fatwa No. 13283"
-summary: "It is obligatory upon the Muslims to defend it with all that they have been given until they free it from the yoke of the disbelievers and the Jews."
+source: Fatwa No. 13283
+summary: It is obligatory upon the Muslims to defend it with all that they have been
+  given until they free it from the yoke of the disbelievers and the Jews.
 muftis:
-  shaykh: 
-    - name: "Shaykh Salih al-Fawzan"
-      url: "/biography/fawzan/"
+  shaykh:
+  - name: Shaykh Salih al-Fawzan
+    url: /biography/fawzan/
+hijri: '1448-02-20'
 ---
+
 
 ### Question: 
 

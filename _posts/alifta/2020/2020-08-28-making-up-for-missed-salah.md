@@ -1,6 +1,6 @@
 ---
 date: 2020/08/28
-hijri: Muharram 9, 1442
+hijri: '1442-01-09'
 lang: en
 layout: post
 mass_edited: true
@@ -18,6 +18,7 @@ summary: If he was conscious during the period when he abandoned Salah, he shoul
   or lying on his side or back.
 title: Making up for missed Salah due to unconsciousness or sickness
 ---
+
 
 ### Question: 
 

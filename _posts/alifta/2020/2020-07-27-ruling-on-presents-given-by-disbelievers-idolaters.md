@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -25,6 +25,7 @@ summary: It is not permissible to accept or make use of the gifts given by disbe
 title: Ruling on presents given by disbelievers and worshippers of idols to Muslims
   in their festivals
 ---
+
 
 ### Question: 
  

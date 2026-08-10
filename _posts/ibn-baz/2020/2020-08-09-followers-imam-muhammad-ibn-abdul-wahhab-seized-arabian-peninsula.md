@@ -1,7 +1,7 @@
 ---
 active: wahhabi
 date: 2020-08-09
-hijri: Dhul-Hijjah 19, 1441
+hijri: '1441-12-19'
 lang: en
 layout: post
 mass_edited: true
@@ -17,6 +17,7 @@ summary: This claim is groundless. In fact, it is a lie and a way of hindering o
 title: Is it true that the followers of Imam Shaykh Muhammad ibn Abdul-Wahhab seized
   the Arabian Peninsula and reached Madinah
 ---
+
 
 ### Question:
 Is it true that when the followers of Imam Shaykh Muhammad ibn 'Abdul-Wahhab (may Allah be merciful to him) seized the Arabian Peninsula and reached Madinah, they tied their horses to Al-Rawdah Al-Sharifah (the "Noble Garden" – a blessed area between the Prophet's grave and pulpit in his Masjid) in Al-Masjid Al-Nabawi (the Prophet’s Mosque)?

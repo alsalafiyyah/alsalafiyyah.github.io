@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -23,6 +23,7 @@ summary: It is not permissible to prefer non-Muslims to Muslims, either in terms
   how they deal with others or in anything else.
 title: Ruling on saying the Christians are better than Muslims in dealings
 ---
+
 
 ### Question: 
  

@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 5, 1442 AH
+hijri: '1442-01-05'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ summary: 'Allah (Exalted be He) says, ''There is no compulsion in religion.'' [a
 title: Tafsir Surah Al-Baqarah Ayat 256
 uid: tafsir-surah-baqarah-256
 ---
+
 
 Question: 
 

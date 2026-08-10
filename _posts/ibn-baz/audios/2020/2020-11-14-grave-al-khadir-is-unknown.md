@@ -1,21 +1,26 @@
 ---
 layout: post
-title: "Exposition that the exact location of the grave of Al-Khadir is unknown"
-publisher: "alsalafiyyah@icloud.com"
+title: Exposition that the exact location of the grave of Al-Khadir is unknown
+publisher: alsalafiyyah@icloud.com
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_811/nour_81107.mp3
-hijri: Rabi' Al-Awwal 28, 1442
+hijri: '1442-03-28'
 date: 2020-11-14
 lang: en
 active: audios
-category: [audios,prophets]
-tags: [ibn-baz]
-url: "https://binbaz.org.sa/fatwas/15100/%D8%AD%D9%83%D9%85-%D8%AF%D8%B9%D8%A7%D8%A1-%D8%A7%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%82%D8%A8%D9%88%D8%B1-%D9%88%D8%A7%D9%84%D9%86%D8%B0%D8%B1-%D9%84%D9%87%D9%85-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%BA%D8%A7%D8%AB%D8%A9-%D8%A8%D9%87%D9%85"
-summary: "No one knows the exact location of his grave. It is groundless to claim that his grave is located in that mausoleum in your residential district."
+category:
+- audios
+- prophets
+tags:
+- ibn-baz
+url: https://binbaz.org.sa/fatwas/15100/%D8%AD%D9%83%D9%85-%D8%AF%D8%B9%D8%A7%D8%A1-%D8%A7%D8%B5%D8%AD%D8%A7%D8%A8-%D8%A7%D9%84%D9%82%D8%A8%D9%88%D8%B1-%D9%88%D8%A7%D9%84%D9%86%D8%B0%D8%B1-%D9%84%D9%87%D9%85-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%BA%D8%A7%D8%AB%D8%A9-%D8%A8%D9%87%D9%85
+summary: No one knows the exact location of his grave. It is groundless to claim that
+  his grave is located in that mausoleum in your residential district.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question:
 

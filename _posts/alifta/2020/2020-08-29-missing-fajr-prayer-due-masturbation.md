@@ -1,6 +1,6 @@
 ---
 date: 2020/08/29
-hijri: Muharram 10, 1442 AH
+hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 16540
 title: Ruling on missing the Fajr prayer due to practicing masturbation
 ---
+
 
 Question: 
 

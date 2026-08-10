@@ -2,20 +2,26 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2020-07-17
-title: "The Difference Between the Salaf and Ahl al-Sunnah"
-source: "Fatawa Nur 'ala al-Darb, Tape 776"
-category: [fatwas, audios, manhaj]
-link: "https://binbaz.org.sa/fatwas/16658/%D8%A7%D9%84%D8%B3%D9%84%D9%81-%D9%87%D9%85-%D8%A7%D9%87%D9%84-%D8%A7%D9%84%D8%B3%D9%86%D8%A9"
-mp3: "https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_776/nour_77615.mp3"
-summary: "The meaning is the same. The Salaf are Ahl al-Sunnah, and they are the Companions (may Allah be pleased with them) and those who followed them in righteousness."
-permalink: "/audios/the-difference-between-the-salaf-and-ahlus-sunnah"
+title: The Difference Between the Salaf and Ahl al-Sunnah
+source: Fatawa Nur 'ala al-Darb, Tape 776
+category:
+- fatwas
+- audios
+- manhaj
+link: https://binbaz.org.sa/fatwas/16658/%D8%A7%D9%84%D8%B3%D9%84%D9%81-%D9%87%D9%85-%D8%A7%D9%87%D9%84-%D8%A7%D9%84%D8%B3%D9%86%D8%A9
+mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_776/nour_77615.mp3
+summary: The meaning is the same. The Salaf are Ahl al-Sunnah, and they are the Companions
+  (may Allah be pleased with them) and those who followed them in righteousness.
+permalink: /audios/the-difference-between-the-salaf-and-ahlus-sunnah
 lang: en
 translation: false
 muftis:
-  shaykh: 
-    - name: "Shaykh Ibn Baz" 
-      url: "/biography/binbaz"
+  shaykh:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz
+hijri: '1441-11-26'
 ---
+
 
 ### Question:
 

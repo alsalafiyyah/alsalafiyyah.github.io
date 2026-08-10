@@ -2,21 +2,28 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-06-14
-title: "Is Tawhid al-Uluhiyyah an Innovation of Shaykh Muhammad ibn Abd al-Wahhab?"
-source: "Liqa' al-Bab al-Maftuh 52"
-category: [manhaj, videos, wahhabism]
-tags: [ibn-uthaymeen]
+title: Is Tawhid al-Uluhiyyah an Innovation of Shaykh Muhammad ibn Abd al-Wahhab?
+source: Liqa' al-Bab al-Maftuh 52
+category:
+- manhaj
+- videos
+- wahhabism
+tags:
+- ibn-uthaymeen
 active: videos
 lang: en
-videoURL: "https://youtu.be/5uRKFxkjnqA"
-videoID: "5uRKFxkjnqA"
-link: "https://fatawapedia.com/%D9%87%D9%84-%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D8%A7%D9%84%D8%A3%D9%84%D9%88%D9%87%D9%8A%D8%A9-%D9%85%D9%85%D8%A7-%D8%A3%D8%AD%D8%AF%D8%AB%D9%87-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%88%D9%87%D8%A7%D8%A8-11754"
-summary: "We respond to him by asking, Did Muhammad ibn Abd al-Wahhab al-Najdi come before the Quran or after the Quran?"
+videoURL: https://youtu.be/5uRKFxkjnqA
+videoID: 5uRKFxkjnqA
+link: https://fatawapedia.com/%D9%87%D9%84-%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D8%A7%D9%84%D8%A3%D9%84%D9%88%D9%87%D9%8A%D8%A9-%D9%85%D9%85%D8%A7-%D8%A3%D8%AD%D8%AF%D8%AB%D9%87-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%88%D9%87%D8%A7%D8%A8-11754
+summary: We respond to him by asking, Did Muhammad ibn Abd al-Wahhab al-Najdi come
+  before the Quran or after the Quran?
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
+hijri: '1447-12-28'
 ---
+
 
 ### Question:
 

@@ -1,22 +1,30 @@
 ---
 layout: post
-title: "Urging Spouses Toward Patience and Living Together in Kindness"
-publisher: "alsalafiyyah@icloud.com"
+title: Urging Spouses Toward Patience and Living Together in Kindness
+publisher: alsalafiyyah@icloud.com
 date: 2026-06-02
 active: audios
-category: [audios,women,marriage,muqolat]
+category:
+- audios
+- women
+- marriage
+- muqolat
 translation: true
-tags: [ibn-baz]
+tags:
+- ibn-baz
 lang: en
-source: "At-Ta'liqaat 'ala Nadwat Al-Jami' Al-Kabir, Tape 41"
-mp3: "https://files.zadapps.info/binbaz.org.sa/sawtyaat/dros%26mohadrat/ta3lqat_%20jame3_kabeer/hath_zawjeen_sabr.mp3"
-link: "https://binbaz.org.sa/audios/916/%D8%AD%D8%AB-%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B5%D8%A8%D8%B1-%D9%88%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D8%A9-%D8%A8%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%88%D9%81"
-summary: "It is necessary for the people of Islam to beware of the causes of divorce and to hold things together."
+source: At-Ta'liqaat 'ala Nadwat Al-Jami' Al-Kabir, Tape 41
+mp3: https://files.zadapps.info/binbaz.org.sa/sawtyaat/dros%26mohadrat/ta3lqat_%20jame3_kabeer/hath_zawjeen_sabr.mp3
+link: https://binbaz.org.sa/audios/916/%D8%AD%D8%AB-%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B5%D8%A8%D8%B1-%D9%88%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D8%A9-%D8%A8%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%88%D9%81
+summary: It is necessary for the people of Islam to beware of the causes of divorce
+  and to hold things together.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+hijri: '1447-12-16'
 ---
+
 
 In conclusion, it is necessary for the people of Islam to beware of the causes of divorce and to hold things together. A husband ought to remain steadfast, even if he faces some harm or annoyance; his patience must be strong, and he should endure so that divorce does not occur.
 

@@ -2,19 +2,24 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "What is the future of occupied Jerusalem?"
+title: What is the future of occupied Jerusalem?
 date: 2024-08-23
 active: audios
-category: [audios,palestine]
-tags: [albani]
-summary: "We are upon certainty that the Jews will not have permanency in Palestine."
-mp3: "https://phaven-prod.s3.amazonaws.com/files/audio_part/asset/3185610/NT0gkf1R8df0NCrEqxIQs-o0abs/Jewish_Occupation_of_Jerusalem.mp3"
+category:
+- audios
+- palestine
+tags:
+- albani
+summary: We are upon certainty that the Jews will not have permanency in Palestine.
+mp3: https://phaven-prod.s3.amazonaws.com/files/audio_part/asset/3185610/NT0gkf1R8df0NCrEqxIQs-o0abs/Jewish_Occupation_of_Jerusalem.mp3
 translated_by: Rasheed ibn Estes Barbee
 muftis:
-  shaykh: 
-    - name: Shaykh Al-Albani
-      url: /biography/albani
+  shaykh:
+  - name: Shaykh Al-Albani
+    url: /biography/albani
+hijri: '1446-02-19'
 ---
+
 
 ### Question: 
 

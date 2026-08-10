@@ -1,20 +1,25 @@
 ---
 layout: post
-title: "Ruling On Burying Non-Sunnis With Sunnis In The Same Graveyard"
-publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa Wa Rasa'il 17/215"
+title: Ruling On Burying Non-Sunnis With Sunnis In The Same Graveyard
+publisher: alsalafiyyah@icloud.com
+source: Majmu' Fatawa Wa Rasa'il 17/215
 date: 2023-07-10
-hijri: "Dhul-Hijjah 22, 1444 AH"
-category: [funerals]
-tags: [ibn-uthaymeen]
+hijri: '1444-12-22'
+category:
+- funerals
+tags:
+- ibn-uthaymeen
 lang: en
 translation: false
-summary: "If the innovator is a disbeliever because of his bid'ah, then it is not permissible to bury him in the Muslim graveyard, because the kafir should be buried separately from the Muslims."
+summary: If the innovator is a disbeliever because of his bid'ah, then it is not permissible
+  to bury him in the Muslim graveyard, because the kafir should be buried separately
+  from the Muslims.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn ‘Uthaymeen
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn ‘Uthaymeen
+    url: /biography/uthaymeen/
 ---
+
 
 ### Question: 
 

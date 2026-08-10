@@ -1,21 +1,27 @@
 ---
 layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "The things that nullify one's Islam"
+publisher: alsalafiyyah@icloud.com
+title: The things that nullify one's Islam
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_414/41404.mp3
-hijri: "Rabi' Al-Thani 14, 1442"
+hijri: '1442-04-14'
 date: 2020-11-29
 lang: en
 active: audios
-category: [audios]
-tags: [ibn-baz]
-url: "https://binbaz.org.sa/fatwas/10816/%D9%86%D9%88%D8%A7%D9%82%D8%B6-%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85"
-summary: "There are certain matters that nullify Islam. A Muslim is obliged to be cautious about these things. Scholars have mentioned them in the chapter of the ruling on the Murtad (apostate). They defined them as the Muslim who becomes a Kafir after his Islam."
+category:
+- audios
+tags:
+- ibn-baz
+url: https://binbaz.org.sa/fatwas/10816/%D9%86%D9%88%D8%A7%D9%82%D8%B6-%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85
+summary: There are certain matters that nullify Islam. A Muslim is obliged to be cautious
+  about these things. Scholars have mentioned them in the chapter of the ruling on
+  the Murtad (apostate). They defined them as the Muslim who becomes a Kafir after
+  his Islam.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 Can you mention to the listeners the things which take out a person from the Din (religion) of Islam, make him a Kafir (disbeliever) after being a Muslim?

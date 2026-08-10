@@ -1,5 +1,5 @@
 ---
-hijri: Safar 24, 1442 AH
+hijri: '1442-02-24'
 lang: en
 layout: post
 mass_edited: true
@@ -17,6 +17,7 @@ summary: The preponderant view is that Allah will test them with some commands o
   and whoever disobeys will enter Hell.
 title: The fate of the children of the disbelievers
 ---
+
 
 Question:
 

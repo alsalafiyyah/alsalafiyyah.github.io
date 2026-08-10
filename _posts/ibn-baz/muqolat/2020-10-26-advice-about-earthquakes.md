@@ -2,19 +2,25 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: A Piece of advice about earthquakes
-hijri: Rabi' Al-Awwal 09, 1442
+hijri: '1442-03-09'
 date: 2020-10-26
 lang: en
 locale: en
-category: [muqolat]
-source: "Published in the local newspapers: Al-Riyadh, Al-Jazirah, Al-Madinah, and Okaz on Saturday 13/7/1416 A.H"
-summary: There is no doubt that what happens these days of earthquakes in many countries are of these portents that Allah brings to make His servant fear Him. All the earthquakes that happen in this world and other things that cause harm to people are because of Shirk and evil deeds.
+category:
+- muqolat
+source: 'Published in the local newspapers: Al-Riyadh, Al-Jazirah, Al-Madinah, and
+  Okaz on Saturday 13/7/1416 A.H'
+summary: There is no doubt that what happens these days of earthquakes in many countries
+  are of these portents that Allah brings to make His servant fear Him. All the earthquakes
+  that happen in this world and other things that cause harm to people are because
+  of Shirk and evil deeds.
 active: muqolat
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 All praise be to Allah. May Allah's Peace and Blessings be upon Allah's Messenger and upon his family, Companions, and those who follow his guidance!
 

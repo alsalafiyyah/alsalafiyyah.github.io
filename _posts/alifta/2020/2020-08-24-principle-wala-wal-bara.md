@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 5, 1442
+hijri: '1442-01-05'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ summary: Al-Wala' wal-Bara' is to love and be loyal to the believers and to hate
   fight you.
 title: The principle of Al-Wala' wal-Bara'
 ---
+
 
 ### Question: 
 

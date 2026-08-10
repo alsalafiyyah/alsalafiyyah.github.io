@@ -1,6 +1,6 @@
 ---
 date: 2020/09/3
-hijri: Muharram 14, 1442 AH
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -24,6 +24,7 @@ summary: Warning against Fasiqs or people flagrantly violating Islamic law and t
   who commit major sins is obligatory.
 title: Warning against the bad deeds of Fasiq persons is not tale-bearing
 ---
+
 
 ### Question:
 

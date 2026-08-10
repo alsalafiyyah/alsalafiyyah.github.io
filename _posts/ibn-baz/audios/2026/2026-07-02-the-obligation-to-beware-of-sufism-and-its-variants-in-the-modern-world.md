@@ -1,21 +1,27 @@
 ---
 layout: post
-title: "The Obligation to Beware of Sufism and Its Variants in the Modern World"
-publisher: "alsalafiyyah@icloud.com"
+title: The Obligation to Beware of Sufism and Its Variants in the Modern World
+publisher: alsalafiyyah@icloud.com
 date: 2026-07-02
 active: audios
-category: ["sects",audios]
+category:
+- sects
+- audios
 translation: false
-tags: [ibn-baz]
+tags:
+- ibn-baz
 lang: en
-source: "Fatawa al-Jami' al-Kabir, tape 1181"
-mp3: "https://files.zadapps.info/binbaz.org.sa/fatawa/jame3_kabeer/fjk5_1181.mp3"
-summary: "It is obligatory to beware of what is called Sufism and the Sufis, and the believer must maintain clear discernment regarding them."
+source: Fatawa al-Jami' al-Kabir, tape 1181
+mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/jame3_kabeer/fjk5_1181.mp3
+summary: It is obligatory to beware of what is called Sufism and the Sufis, and the
+  believer must maintain clear discernment regarding them.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+hijri: '1448-01-17'
 ---
+
 
 ### Question: 
 

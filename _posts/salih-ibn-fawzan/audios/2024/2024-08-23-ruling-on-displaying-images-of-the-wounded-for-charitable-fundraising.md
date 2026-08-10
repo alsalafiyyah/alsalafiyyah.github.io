@@ -2,19 +2,25 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on Displaying Images of the Wounded for Charitable Fundraising"
-hijri: "Safar 19, 1446 AH"
+title: Ruling on Displaying Images of the Wounded for Charitable Fundraising
+hijri: '1446-02-19'
 date: 2024-08-23
 active: audios
-category: [fatwas,audios,palestine]
-tags: [salih-ibn-fawzan]
-summary: "This practice is inappropriate. It is not permissible to display images of the wounded."
-mp3: "https://alsalafiyyah.github.io/assets/audios/rule-on-showing-wounds-palestine.mp3"
+category:
+- fatwas
+- audios
+- palestine
+tags:
+- salih-ibn-fawzan
+summary: This practice is inappropriate. It is not permissible to display images of
+  the wounded.
+mp3: https://alsalafiyyah.github.io/assets/audios/rule-on-showing-wounds-palestine.mp3
 muftis:
-  shaykh: 
-    - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan
+  shaykh:
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan
 ---
+
 
 ### Question:
 

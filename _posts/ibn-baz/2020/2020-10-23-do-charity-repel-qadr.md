@@ -2,20 +2,23 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "Do supplication and voluntary charity repel the Divine Decree and Predestination?"
-hijri: "Rabi' Al-Awwal 06, 1442"
+title: Do supplication and voluntary charity repel the Divine Decree and Predestination?
+hijri: '1442-03-06'
 date: 2020-10-23
-source: "Majmu' Fatawa 6/262"
+source: Majmu' Fatawa 6/262
 lang: en
 locale: en
-category: [fatwas]
+category:
+- fatwas
 note: false
-summary: "A Muslim should be keen to venture means of goodness and avoid means of evil, asking Allah to guide and help them do what pleases Him and avoid every evil."
+summary: A Muslim should be keen to venture means of goodness and avoid means of evil,
+  asking Allah to guide and help them do what pleases Him and avoid every evil.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz
+  shaykh:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz
 ---
+
 
 ### Question: 
 Do supplication and Sadaqah (voluntary charity) repel the Divine Decree and Predestination? 

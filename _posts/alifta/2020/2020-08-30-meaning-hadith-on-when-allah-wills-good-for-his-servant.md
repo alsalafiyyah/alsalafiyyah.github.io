@@ -1,6 +1,6 @@
 ---
 date: 2020/08/30
-hijri: Muharram 11, 1442 AH
+hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
@@ -20,6 +20,7 @@ summary: 'What is the meaning of the following Hadith: ''When Allah wills good f
   His servant, He uses him.'''
 title: 'The Hadith: ''When Allah wills good for His servant, He uses him'''
 ---
+
 
 Question: 
 

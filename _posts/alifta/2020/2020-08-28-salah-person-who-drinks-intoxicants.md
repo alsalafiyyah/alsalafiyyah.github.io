@@ -1,6 +1,6 @@
 ---
 date: 2020/08/28
-hijri: Muharram 9, 1442
+hijri: '1442-01-09'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: If a person offers Salah with all its obligatory acts and fulfills its 
   drinking Khamr.
 title: Salah of a person who drinks intoxicants
 ---
+
 
 ### Question: 
 

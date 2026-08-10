@@ -1,18 +1,22 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Prohibition of giving women in marriage without their permission"
-hijri: "Jumada Al-Awwal 05, 1442 AH"
-source: "Fatawa Shaykh Ibn Baz p. 20/409"
+title: Prohibition of giving women in marriage without their permission
+hijri: '1442-05-05'
+source: Fatawa Shaykh Ibn Baz p. 20/409
 lang: en
-category: [marriage]
+category:
+- marriage
 note: false
-summary: "This manner of marriage is Munkar and invalid according to the most correct view of scholars. This is because the Prophet (peace be upon him) forbade giving women in marriage, except with their permission."
+summary: This manner of marriage is Munkar and invalid according to the most correct
+  view of scholars. This is because the Prophet (peace be upon him) forbade giving
+  women in marriage, except with their permission.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question:
 

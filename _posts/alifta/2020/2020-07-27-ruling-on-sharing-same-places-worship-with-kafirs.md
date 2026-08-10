@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -18,6 +18,7 @@ summary: It is unanimously agreed upon that the Islamic Shari'ah was revealed to
   Sunnah of the Prophet, and the general consensus of the Muslim Ummah.
 title: Ruling on sharing the same places of worship with non-Muslims
 ---
+
 
 ### Questions: 
  

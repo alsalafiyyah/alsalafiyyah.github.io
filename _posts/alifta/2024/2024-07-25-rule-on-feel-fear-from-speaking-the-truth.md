@@ -4,7 +4,7 @@ article_taken_from:
   - web_title: To Be Shy From Speaking the Truth is Merely to Be Weak
     web_url: https://www.fatwaislam.com/fis/index.cfm?scn=fd&ID=1294
 date: 2024-07-25
-hijri: Muharram 19, 1446 AH
+hijri: '1446-01-19'
 lang: en
 layout: post
 mass_edited: true
@@ -19,6 +19,7 @@ summary: Shyness that prevents you from speaking the truth is not shyness at all
   you from falsehood and evil.
 title: The Ruling on feeling shy or fear from speaking the truth
 ---
+
 
 ### Question:
 My complaint is that a feeling of fear or dread overcomes me when I want to remove an evil or when I want to ask a question to gain knowledge. What is the cure to this condition?

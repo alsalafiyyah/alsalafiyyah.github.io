@@ -1,5 +1,5 @@
 ---
-hijri: Dhu al-Hijjah 6, 1441 AH
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: Is it permissible to congratulate non-Muslims on the occasion of the ne
 title: Ruling on congratulating others in the new Gregorian or Hijri years or the
   Mawlid
 ---
+
 
 Question: 
 

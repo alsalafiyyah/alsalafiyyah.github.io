@@ -3,19 +3,24 @@ layout: post
 published: false
 draft: true
 publisher: alsalafiyyah@icloud.com
-title: "Advice for the Muslim Woman"
+title: Advice for the Muslim Woman
 date: 2024-07-28
-source: "Friday Sermon, Sermon No. 13060"
-category: [muqolat,women]
-tags: [salih-ibn-fawzan]
+source: Friday Sermon, Sermon No. 13060
+category:
+- muqolat
+- women
+tags:
+- salih-ibn-fawzan
 lang: en
 active: muqolat
-summary: ""
+summary: ''
 muftis:
-  shaykh: 
-    - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan
+  shaykh:
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan
+hijri: '1446-01-22'
 ---
+
 
 ### First Sermon 
 

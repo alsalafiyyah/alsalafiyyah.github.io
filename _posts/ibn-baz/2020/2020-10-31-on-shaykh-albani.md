@@ -2,18 +2,23 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "On Shaykh Al-Albani"
-hijri: "Rabi' Al-Awwal 14, 1442 AH"
-source: "Fatawa Al-Shaykh Ibn Baz vol. 25"
+title: On Shaykh Al-Albani
+hijri: '1442-03-14'
+source: Fatawa Al-Shaykh Ibn Baz vol. 25
 lang: en
-category: [fitnahs, ghibah]
+category:
+- fitnahs
+- ghibah
 note: false
-summary: "Though Shaykh Al-Albani is not infallible and might err in declaring a Hadith as Sahih (authentic) or Da'if (weak); it is not permissible to insult, dispraise, or backbite him."
+summary: Though Shaykh Al-Albani is not infallible and might err in declaring a Hadith
+  as Sahih (authentic) or Da'if (weak); it is not permissible to insult, dispraise,
+  or backbite him.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

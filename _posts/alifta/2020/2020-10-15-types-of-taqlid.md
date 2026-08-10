@@ -1,6 +1,6 @@
 ---
 active: fatwas
-hijri: Safar 28, 1442 AH
+hijri: '1442-02-28'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: Some scholars defined Taqlid as following a person's religious view wit
   means the acceptance of a person's religious view with no evidence.
 title: Meaning and types of Taqlid and the ruling on each type
 ---
+
 
 Question:
 

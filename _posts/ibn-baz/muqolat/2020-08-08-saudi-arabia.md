@@ -1,18 +1,24 @@
 ---
 layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: By the Mercy of Allah and His Benevolence the rulers of this country apply Shari'ah
+publisher: alsalafiyyah@icloud.com
+title: By the Mercy of Allah and His Benevolence the rulers of this country apply
+  Shari'ah
 source: Majmu' Fatawa 23/188
-hijri: Dhul-Hijjah 18, 1441
+hijri: '1441-12-18'
 date: 2020-08-08
 active: muqolat
-category: [muqolat,manhaj]
-summary: "By Allah's Mercy and Benevolence, the rulers of this country were guided since the time of Imam Muhammad ibn Sa'ud to the time of the Custodian of the Two Sacred Mosques apply Shari'ah, which is one of Allah’s greatest favors."
+category:
+- muqolat
+- manhaj
+summary: By Allah's Mercy and Benevolence, the rulers of this country were guided
+  since the time of Imam Muhammad ibn Sa'ud to the time of the Custodian of the Two
+  Sacred Mosques apply Shari'ah, which is one of Allah’s greatest favors.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 By Allah's Mercy and Benevolence, the rulers of this country were guided since the time of Imam Muhammad ibn Sa'ud to the time of the Custodian of the Two Sacred Mosques apply Shari'ah, which is one of Allah’s greatest favors
 

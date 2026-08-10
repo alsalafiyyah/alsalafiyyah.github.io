@@ -1,17 +1,21 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on kufr 'Amali (disbelief in actions)"
-hijri: Safar 07, 1442 AH
-source: "Majmu' Fatawa Ibn Baz 28/146, question 3"
-category: [general, kufr]
+title: Ruling on kufr 'Amali (disbelief in actions)
+hijri: '1442-02-07'
+source: Majmu' Fatawa Ibn Baz 28/146, question 3
+category:
+- general
+- kufr
 lang: en
-summary: "Can a person commit Kufr Amali (disbelief in actions) which takes them out of Islam in normal cases?"
+summary: Can a person commit Kufr Amali (disbelief in actions) which takes them out
+  of Islam in normal cases?
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

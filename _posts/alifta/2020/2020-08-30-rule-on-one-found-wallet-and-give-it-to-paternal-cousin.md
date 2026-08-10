@@ -1,6 +1,6 @@
 ---
 date: 2020/08/30
-hijri: Muharram 11, 1442 AH
+hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ source: Fatawa Al-Lajnah Ad-Da'imah no. 18253-2
 title: Ruling on one when he was young he found a wallet in the street and gave it
   to his paternal cousin
 ---
+
 
 Question: 
 

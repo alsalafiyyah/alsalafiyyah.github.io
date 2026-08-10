@@ -1,7 +1,7 @@
 ---
 date: 2020/08/28
 group9: true
-hijri: Muharram 9, 1442
+hijri: '1442-01-09'
 lang: en
 layout: post
 mass_edited: true
@@ -11,6 +11,7 @@ summary: Salah is obligatory upon every Mukallaf either man or woman, five times
   day.
 title: Obligation of Salah on a Mukallaf
 ---
+
 
 ### Question: 
 

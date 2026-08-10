@@ -1,17 +1,22 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on earning ill-gotten money"
-hijri: "Ramadan 17, 1440"
+title: Ruling on earning ill-gotten money
+hijri: '1440-09-17'
 date: 2019-05-22
-source: "Fatawa Al-Lajnah Ad-Da'mah, fatwa no.4888 question 1 and fatwa no.4888 question 2"
-category: [misc]
-summary: "It is obligatory for a Muslim to try his best to adopt what is lawful in his food, drink, and clothing."
-tags: [alifta]
+source: Fatawa Al-Lajnah Ad-Da'mah, fatwa no.4888 question 1 and fatwa no.4888 question
+  2
+category:
+- misc
+summary: It is obligatory for a Muslim to try his best to adopt what is lawful in
+  his food, drink, and clothing.
+tags:
+- alifta
 lang: en
 translation: false
 group1: true
 ---
+
 
 ## Question 1:
 

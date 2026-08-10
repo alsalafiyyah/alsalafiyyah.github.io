@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: Whoever resides in non-Muslim countries with no legal reason and does n
   Prophetic Hadith.
 title: Ruling on the Muslims who live in the lands of the disbelievers
 ---
+
 
 ### Question: 
 

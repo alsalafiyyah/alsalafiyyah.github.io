@@ -2,19 +2,26 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-05-25
-title: "What Constitutes a Bidʿah?"
-category: [fatwas,audios,bidah]
-tags: [salih-ibn-fawzan]
-mp3: "https://audio.alfawzan.live/17_0.mp3"
-url: "https://alfawzan.live/content/14518/"
-source: "Fatwa No. 14518"
+title: What Constitutes a Bidʿah?
+category:
+- fatwas
+- audios
+- bidah
+tags:
+- salih-ibn-fawzan
+mp3: https://audio.alfawzan.live/17_0.mp3
+url: https://alfawzan.live/content/14518/
+source: Fatwa No. 14518
 active: audios
-summary: "Bid'ah (religious innovations) is whatever is introduced into the religion that is not a part of it; this is the defining criterion of innovation. "
+summary: 'Bid''ah (religious innovations) is whatever is introduced into the religion
+  that is not a part of it; this is the defining criterion of innovation. '
 muftis:
-  shaykh: 
-    - name: "Shaykh Salih al-Fawzan"
-      url: "/biography/fawzan/"
+  shaykh:
+  - name: Shaykh Salih al-Fawzan
+    url: /biography/fawzan/
+hijri: '1447-12-08'
 ---
+
 
 ### Question: 
 

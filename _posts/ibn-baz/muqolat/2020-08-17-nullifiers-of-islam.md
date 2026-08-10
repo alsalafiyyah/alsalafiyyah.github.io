@@ -1,20 +1,23 @@
 ---
 layout: post
-title: "Nullifiers of Islam"
-publisher: "alsalafiyyah@icloud.com, salafiyyah@outlook.sa"
-source: "Majmu' Fatawa 1/130"
-hijri: Dhul-Hijjah 27, 1441
+title: Nullifiers of Islam
+publisher: alsalafiyyah@icloud.com, salafiyyah@outlook.sa
+source: Majmu' Fatawa 1/130
+hijri: '1441-12-27'
 date: 2020-08-17
-category: [muqolat]
-summary: "A Muslim should know that Allah has made it obligatory for all mankind to embrace Islam, firmly abide by it and avoid what contradicts it."
+category:
+- muqolat
+summary: A Muslim should know that Allah has made it obligatory for all mankind to
+  embrace Islam, firmly abide by it and avoid what contradicts it.
 active: muqolat
 locale: en
 lang: en
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 All praise be to Allah Alone, and peace and blessings be upon the Last of the Prophets, his family, his Companions, and those who follow his guidance.
 

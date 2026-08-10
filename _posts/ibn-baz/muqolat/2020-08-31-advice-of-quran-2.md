@@ -1,18 +1,22 @@
 ---
 layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "Advice of Allah's Book [Part 2]"
-source: "Majmu' Fatawa 9/14"
-hijri: "Muharram 12, 1442"
+publisher: alsalafiyyah@icloud.com
+title: Advice of Allah's Book [Part 2]
+source: Majmu' Fatawa 9/14
+hijri: '1442-01-12'
 date: 2020-08-31
-category: [muqolat]
-summary: "Do not attack or betray anyone, whether poor or rich, and avoid Zhulm in transactions and in everything. Do not do injustice to workers, if you are a company owner"
+category:
+- muqolat
+summary: Do not attack or betray anyone, whether poor or rich, and avoid Zhulm in
+  transactions and in everything. Do not do injustice to workers, if you are a company
+  owner
 active: muqolat
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 [Read part one here](/muqolat/advice-of-quran-1)
 

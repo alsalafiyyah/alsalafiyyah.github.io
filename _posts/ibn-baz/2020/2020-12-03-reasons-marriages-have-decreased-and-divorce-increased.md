@@ -1,18 +1,23 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Greediness and dissatisfaction with simple life, dowries and expenditures for weddings have become exorbitant,that is why marriages have decreased"
-hijri: "Rabi' Al-Thani 18, 1442 AH"
-source: "Fatawa Shaykh Ibn Baz p. 30/317"
+title: Greediness and dissatisfaction with simple life, dowries and expenditures for
+  weddings have become exorbitant,that is why marriages have decreased
+hijri: '1442-04-18'
+source: Fatawa Shaykh Ibn Baz p. 30/317
 lang: en
-category: [marriage]
+category:
+- marriage
 note: false
-summary: "They should not demand excessive dowries and wedding costs so that the number of marriages increase and the number of the singles decreases, and thus the number of spinsters will grow less."
+summary: They should not demand excessive dowries and wedding costs so that the number
+  of marriages increase and the number of the singles decreases, and thus the number
+  of spinsters will grow less.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question:
 

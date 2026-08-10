@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: 'It is not permissible to take photos of non-Muslim rituals or circulat
   and contradict Islam. '
 title: Ruling on making pictures of Christian symbols such as the cross
 ---
+
 
 ### Question: 
  

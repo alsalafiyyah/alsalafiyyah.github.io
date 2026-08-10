@@ -1,17 +1,23 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Distinguishing Between the Salafi"
+title: Distinguishing Between the Salafi
 date: 2026-08-04
-category: [manhaj,sects]
-tags: [salih-ibn-fawzan]
-source: "Lectures on Creed and Da'wah 3/475-476"
-summary: "Whoever follows the methodology of the Salaf, they are Salafis. However, if they oppose the methodology of the Salaf, they are not Salafis."
+category:
+- manhaj
+- sects
+tags:
+- salih-ibn-fawzan
+source: Lectures on Creed and Da'wah 3/475-476
+summary: Whoever follows the methodology of the Salaf, they are Salafis. However,
+  if they oppose the methodology of the Salaf, they are not Salafis.
 muftis:
-  shaykh: 
-    - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan
+  shaykh:
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan
+hijri: '1448-02-21'
 ---
+
 
 ### Question:
 

@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: Loyalties to disbelievers that render a Muslim a disbeliever is loving 
   supporting them against Muslims, but they do not include dealing with them justly
 title: Loyalty to Kafirs that takes one out of Islam
 ---
+
 
 ### Question: 
  

@@ -1,19 +1,25 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Ruling on Muslims residing in a non-Muslim country"
-hijri: "Rabi' Al-Awwal 11, 1442 AH"
-source: "Majmu' Fatawa Al-Shaykh Ibn Baz 28/238"
+title: Ruling on Muslims residing in a non-Muslim country
+hijri: '1442-03-11'
+source: Majmu' Fatawa Al-Shaykh Ibn Baz 28/238
 lang: en
 locale: en
-category: [fatwas,walabara,hijrah]
+category:
+- fatwas
+- walabara
+- hijrah
 note: false
-summary: "All the Muslims living in non-believers' countries should migrate to Islamic countries where the rites of Islam are being performed if possible. If they cannot move to such countries, they should migrate to less evil countries"
+summary: All the Muslims living in non-believers' countries should migrate to Islamic
+  countries where the rites of Islam are being performed if possible. If they cannot
+  move to such countries, they should migrate to less evil countries
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 12, 1442 AH
+hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: The Islamic economy depends on Shar'i (Islamically lawful) trade throug
   to the regulations of Shar'i dealings and transactions.
 title: Basics of economy in Islam
 ---
+
 
 Question:
 

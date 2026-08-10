@@ -13,7 +13,10 @@ tags:
 - alifta
 title: The Islamic Ruling on the Ideology of Khomeini and the Iranian State
 translation: false
+hijri: '1441-12-05'
 ---
+
+
 
 ### Question:
 

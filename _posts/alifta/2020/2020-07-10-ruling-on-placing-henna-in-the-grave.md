@@ -1,6 +1,6 @@
 ---
 group1: true
-hijri: Dhul-Qa'dah 9, 1441 AH
+hijri: '1441-11-19'
 lang: en
 layout: post
 mass_edited: true
@@ -13,6 +13,7 @@ tags:
 title: Ruling on  placing Henna in the Grave with the Deceased
 translation: false
 ---
+
 
 ### Question: 
 

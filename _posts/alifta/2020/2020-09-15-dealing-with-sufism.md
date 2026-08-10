@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 27, 1442
+hijri: '1442-01-27'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ tags:
 title: Dealing with Sufi shaykhs and their followers
 translation: false
 ---
+
 
 ### Question:
 

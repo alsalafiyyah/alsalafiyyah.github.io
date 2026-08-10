@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 5, 1441
+hijri: '1441-12-05'
 lang: en
 layout: post
 mass_edited: true
@@ -13,6 +13,7 @@ summary: If one knows true Islam and Allah helps him accept it, one should not b
   loyal to people of Shirk nor be endeared to them even if they are the closest relatives.
 title: Ruling on loyalty to the Mushrik family
 ---
+
 
 ### Question: 
 

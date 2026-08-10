@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: It is permissible to eat from the food served by your Christian colleag
   or its status is unknown.
 title: Permissibility of the People of the Book's food
 ---
+
 
 ### Question: 
  

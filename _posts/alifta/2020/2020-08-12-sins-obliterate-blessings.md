@@ -1,5 +1,5 @@
 ---
-hijri: Dhul-Hijjah 22, 1441 AH
+hijri: '1441-12-22'
 lang: en
 layout: post
 mass_edited: true
@@ -13,6 +13,7 @@ summary: Undoubtedly, committing sins is one of the causes of Allah’s Wrath, l
   of blessings, withholding of rain and being overtaken by the enemy.
 title: Does committing sins obliterate the blessing?
 ---
+
 
 Question:
 

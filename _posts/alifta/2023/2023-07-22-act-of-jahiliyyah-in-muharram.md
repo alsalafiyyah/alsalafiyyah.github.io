@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 4, 1445 AH
+hijri: '1445-01-04'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ tags:
 title: Act of Jahiliyyah in Muharram
 translation: false
 ---
+
 
 ###### Question:
 

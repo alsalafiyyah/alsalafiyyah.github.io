@@ -2,21 +2,27 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-06-17
-title: "Is It Permissible for a Muslim to Reside in Non-Muslim Lands?"
-category: [audios, hijrah]
-tags: [salih-ibn-fawzan]
-mp3: "https://audio.alfawzan.live/3513.mp3"
-link: "https://alfawzan.live/content/3071/"
+title: Is It Permissible for a Muslim to Reside in Non-Muslim Lands?
+category:
+- audios
+- hijrah
+tags:
+- salih-ibn-fawzan
+mp3: https://audio.alfawzan.live/3513.mp3
+link: https://alfawzan.live/content/3071/
 active: audios
 translation: false
 lang: en
-source: "Fatwa no.3071"
-summary: "Residing in the lands of the disbelievers is not permissible except for the oppressed (or weak) who are unable to emigrate."
+source: Fatwa no.3071
+summary: Residing in the lands of the disbelievers is not permissible except for the
+  oppressed (or weak) who are unable to emigrate.
 muftis:
-  shaykh: 
-    - name: "Shaykh Salih al-Fawzan"
-      url: "/biography/fawzan/"
+  shaykh:
+  - name: Shaykh Salih al-Fawzan
+    url: /biography/fawzan/
+hijri: '1448-01-02'
 ---
+
 
 ### Question: 
 

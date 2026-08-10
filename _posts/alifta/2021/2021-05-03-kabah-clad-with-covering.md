@@ -1,6 +1,6 @@
 ---
 date: 2021-05-03
-hijri: Ramadan 21, 1442 AH
+hijri: '1442-09-21'
 lang: en
 layout: post
 mass_edited: true
@@ -26,6 +26,7 @@ title: Was the Ka'bah clad with a covering at the time of the Messenger (peace b
   upon him)?
 translation: false
 ---
+
 
 ### Question: 
 

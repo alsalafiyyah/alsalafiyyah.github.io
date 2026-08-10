@@ -1,6 +1,6 @@
 ---
 group6: true
-hijri: Muharram 10, 1442 AH
+hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
@@ -13,6 +13,7 @@ tags:
 title: Paying money instead of executing the Hadd
 translation: false
 ---
+
 
 ### Question: 
 

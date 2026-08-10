@@ -1,6 +1,6 @@
 ---
 date: 2023-07-16
-hijri: Dhul-Hijjah 28, 1444
+hijri: '1444-12-28'
 lang: en
 layout: post
 mass_edited: true
@@ -25,6 +25,7 @@ tags:
 title: The ruling on supplications accompanied by music
 translation: false
 ---
+
 
 ### Question: 
 

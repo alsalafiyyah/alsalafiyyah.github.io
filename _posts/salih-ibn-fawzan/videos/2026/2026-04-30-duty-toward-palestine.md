@@ -1,20 +1,26 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Duty Toward Palestine: A Call to Repentance and Return to Faith"
-hijri: "Dhu al-Qidah 13, 1447 AH"
+title: 'Duty Toward Palestine: A Call to Repentance and Return to Faith'
+hijri: '1447-11-13'
 date: 2026-04-30
-category: [fatwas,videos,palestine]
-tags: [salih-ibn-fawzan]
+category:
+- fatwas
+- videos
+- palestine
+tags:
+- salih-ibn-fawzan
 active: videos
-summary: "They must rectify their souls, repent to Allah, return to their religion, and establish the Sharia (Law) of their Lord."
-videoURL: "https://youtu.be/CIU4ZNqJ144"
-videoID: "CIU4ZNqJ144"
+summary: They must rectify their souls, repent to Allah, return to their religion,
+  and establish the Sharia (Law) of their Lord.
+videoURL: https://youtu.be/CIU4ZNqJ144
+videoID: CIU4ZNqJ144
 muftis:
-  shaykh: 
-    - name: "Shaykh Salih Al-Fawzan"
-      url: "/biography/fawzan/"
+  shaykh:
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan/
 ---
+
 
 ### Question: 
 

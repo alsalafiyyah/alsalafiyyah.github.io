@@ -5,7 +5,7 @@ article_taken_from:
     web_url: https://al-fatawa.com/fatwa/112110
 date: 2024-07-23
 group1: true
-hijri: Muharram 17, 1446
+hijri: '1446-01-17'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ summary: A person who believes that Ali, or any other dead person, can bring ben
   alone.
 title: Can Ali ibn Abu Talib aid anyone after his death?
 ---
+
 
 ### Question: 
 Can Ali (may Allah be pleased with him) aid anyone in times of distress?

@@ -5,7 +5,7 @@ article_taken_from:
     web_url: https://al-fatawa.com/fatwa/110968
 date: 2024-07-08
 group6: true
-hijri: Muharram 02, 1446
+hijri: '1446-01-02'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: Illness and the like can also be a means of punishment or an expiation 
   those who show patience on affliction, and hope for Allah’s Reward.
 title: Enduring diseases
 ---
+
 
 ### Question: 
 What is the ruling on the illnesses that befall the sons of Adam (i.e. humans); are they punishments from Allah or tests for His Servants? Are there any Hadiths on this subject?

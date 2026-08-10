@@ -2,21 +2,27 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-06-15
-title: "Is Hijrah Obligatory When Sharia is Not Implemented?"
-category: [audios, hijrah]
-tags: [salih-ibn-fawzan]
-mp3: "https://audio.alfawzan.live/19_2.mp3"
-link: "https://alfawzan.live/content/14585"
+title: Is Hijrah Obligatory When Sharia is Not Implemented?
+category:
+- audios
+- hijrah
+tags:
+- salih-ibn-fawzan
+mp3: https://audio.alfawzan.live/19_2.mp3
+link: https://alfawzan.live/content/14585
 active: audios
 translation: false
 lang: en
-source: "Fatwa no.14585"
-summary: "Hijrah is defined as moving from a land of disbelief to a land of Islam to protect one's religion."
+source: Fatwa no.14585
+summary: Hijrah is defined as moving from a land of disbelief to a land of Islam to
+  protect one's religion.
 muftis:
-  shaykh: 
-    - name: "Shaykh Salih al-Fawzan"
-      url: "/biography/fawzan/"
+  shaykh:
+  - name: Shaykh Salih al-Fawzan
+    url: /biography/fawzan/
+hijri: '1447-12-29'
 ---
+
 
 ### Question
 

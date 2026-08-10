@@ -1,6 +1,6 @@
 ---
 date: 2020/08/31
-hijri: Muharram 12, 1442
+hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: Therefore, the girl should stick to wearing the Niqab, and try to convi
   her parents by explaining the legal ruling, without being bothered by their threats.
 title: Ruling on obedience to parents leads to committing sins
 ---
+
 
 ### Question: 
 

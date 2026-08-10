@@ -1,6 +1,6 @@
 ---
 date: 2020/08/29
-hijri: Muharram 10, 1442
+hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
@@ -17,6 +17,7 @@ summary: Masturbation is prohibited, as it involves drawing sexual pleasure in a
   that Allah has made unlawful.
 title: Ruling on masturbation during Ramadan
 ---
+
 
 ### Question: 
 I am a young man in the habit of masturbating. I masturbated on one of the days of Ramadan. What should I do to expiate for my sin on that day?

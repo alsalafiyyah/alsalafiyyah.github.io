@@ -2,22 +2,28 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2019-11-19
-hijri: "Rabi' Al-Awwal 22, 1442 AH"
-title: "Affiliation with the Righteous Salaf"
-source: "Fatawa al-haram al-Nabawi, Tape no. 53, Question 5"
-category: [audios,manhaj]
-tags: [ibn-uthaymeen]
-url: "https://alathar.net/home/esound/index.php?op=codevi&coid=116831"
-mp3: "https://www.alathar.net//files/sound/alothaymeen/almasjedalnabawy/split-53a-5.mp3"
+hijri: '1441-03-22'
+title: Affiliation with the Righteous Salaf
+source: Fatawa al-haram al-Nabawi, Tape no. 53, Question 5
+category:
+- audios
+- manhaj
+tags:
+- ibn-uthaymeen
+url: https://alathar.net/home/esound/index.php?op=codevi&coid=116831
+mp3: https://www.alathar.net//files/sound/alothaymeen/almasjedalnabawy/split-53a-5.mp3
 active: audios
 translation: false
 lang: en
-summary: "Affiliation with the Righteous Salaf is obligatory, because the Righteous Salaf are those who adhered to that which the Prophet (peace and blessings of Allah be upon him) was upon."
+summary: Affiliation with the Righteous Salaf is obligatory, because the Righteous
+  Salaf are those who adhered to that which the Prophet (peace and blessings of Allah
+  be upon him) was upon.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
 ---
+
 
 ### Questioner: 
 

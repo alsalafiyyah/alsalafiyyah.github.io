@@ -1,7 +1,7 @@
 ---
 date: 2020-09-03
 group6: true
-hijri: Muharram 15, 1442
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -12,6 +12,7 @@ summary: Whoever responds to him, embraces Allah's Religion, obeys Allah's Comma
   the Messenger, and refuses to embrace Allah's Religion will enter Hellfire.
 title: The meaning of knowing Islam with evidence
 ---
+
 
 ### Question: 
 What does the author of "Hashiatul-Usul Al-Thalathah" mean by his statement: "Knowledge of Islam has to be substantiated by evidence"? In the same book, the author says: "Allah sent us a Messenger. Whoever obeys him will enter Paradise and whoever disobeys him will enter Hellfire." Does obedience here signify obeying the Messenger or (just) witnessing to Tawhid-ul-Rububiyyah (Oneness of Allah's Lordship)? 

@@ -1,6 +1,6 @@
 ---
 date: 2024-07-27
-hijri: Muharram 21, 1446
+hijri: '1446-01-21'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: They contrive lies against us whilst we do not worship the Ka'bah but r
 title: Do Muslims Worship The Black Stone and The Ka'bah?
 translated_by: Abu Abdillah al-Kashmiri
 ---
+
 
 ### Question:
 What is the rebuttal to the Malaahidah (atheists) who say: You O Muslims worship a stone and circumambulate around it! So how can you reproach others from worship of idols and statues/images?

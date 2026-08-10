@@ -2,18 +2,24 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-06-09
-title: "Distinguishing Between the Shia and the Rafidah"
-source: "Liqa' al-Bab al-Maftuh, Tape 77, Question 10"
-category: [sects,audios]
-tags: [ibn-uthaymeen]
-link: "https://binothaimeen.net/s/WrBC10tH"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_077_10.mp3"
-summary: "The Rafidah are the Shia; rather, the term Shia is more general than Rafidah. This is because the term Shia is applied to anyone who venerates Ahl al-Bayt"
+title: Distinguishing Between the Shia and the Rafidah
+source: Liqa' al-Bab al-Maftuh, Tape 77, Question 10
+category:
+- sects
+- audios
+tags:
+- ibn-uthaymeen
+link: https://binothaimeen.net/s/WrBC10tH
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_077_10.mp3
+summary: The Rafidah are the Shia; rather, the term Shia is more general than Rafidah.
+  This is because the term Shia is applied to anyone who venerates Ahl al-Bayt
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
+hijri: '1447-12-23'
 ---
+
 
 ### Question: 
 

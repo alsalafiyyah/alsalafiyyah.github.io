@@ -1,6 +1,6 @@
 ---
 date: 2020-07-27
-hijri: Dhul-Hijjah 6, 1441
+hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
@@ -24,6 +24,7 @@ summary: On the other hand, Muslims who are able to migrate to Muslim countries,
   on the whole.
 title: Ruling on Staying in non-Muslim country
 ---
+
 
 ### Question: 
  

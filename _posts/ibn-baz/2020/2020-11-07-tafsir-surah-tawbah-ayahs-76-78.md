@@ -1,18 +1,22 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Tafsir Surah Al-Tawbah, Ayahs 76 to 78"
-hijri: "Rabi' Al-Awwal 21, 1442 A.H"
-source: "Fatawa Al-Shaykh Ibn Baz p.8/291"
+title: Tafsir Surah Al-Tawbah, Ayahs 76 to 78
+hijri: '1442-03-21'
+source: Fatawa Al-Shaykh Ibn Baz p.8/291
 lang: en
-category: [quran]
+category:
+- quran
 note: false
-summary: "It indicate that if someone promises Allah to do something and then breaks their promise is characterized by the traits of hypocrites, and is endangered with being punished with hypocrisy for breaking the promise and lying."
+summary: It indicate that if someone promises Allah to do something and then breaks
+  their promise is characterized by the traits of hypocrites, and is endangered with
+  being punished with hypocrisy for breaking the promise and lying.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

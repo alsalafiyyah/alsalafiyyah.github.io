@@ -1,19 +1,23 @@
 ---
 layout: post
-title: "Ruling on Habashi Sect"
-publisher: "alsalafiyyah@icloud.com"
-source: "Majmu' Fatawa Shaykh ibn Baz 9/315"
-category: [sects]
-tags: [ibn-baz]
+title: Ruling on Habashi Sect
+publisher: alsalafiyyah@icloud.com
+source: Majmu' Fatawa Shaykh ibn Baz 9/315
+category:
+- sects
+tags:
+- ibn-baz
 lang: en
 translation: false
-hijri: "Dhul-Qa'dah 26, 1441 AH"
-summary: "I would like to tell you that this sect is known to us. It is a misguided sect and their leader Abdullah Al-Habashy is notorious for his deviation and aberration."
+hijri: '1441-11-26'
+summary: I would like to tell you that this sect is known to us. It is a misguided
+  sect and their leader Abdullah Al-Habashy is notorious for his deviation and aberration.
 muftis:
-  shyakh: 
-    - name: Shaykh Ibn Baz
-      url: /biography/binbaz/
+  shyakh:
+  - name: Shaykh Ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 From 'Abdul 'Aziz Bin 'Abdullah Ibn Baz to our dear respected brother, T.M. May Allah protect you. As-salamu 'alaykum warahmatullah wabarakatuh (May Allah's Peace, Mercy, and Blessings be upon you!). I would like to refer to your question registered at the Department of Scholarly Research under the number (313), dated 25/1/1406 AH. In which you ask about the sect belonging to their head, Abdullah Al-Habashy.
 

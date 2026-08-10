@@ -1,6 +1,6 @@
 ---
 date: 2020-09-08
-hijri: Muharram 20, 1442
+hijri: '1442-01-20'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ summary: As for non-Muslims, they should be resented and opposed for their disbe
 title: There is no brotherhood between Muslims and Kafirs and the only true religion
   is Islam
 ---
+
 
 All praise be to Allah Alone. May peace and blessings be upon the Last Prophet.In its issue no (3031), dated (27/1394), **Okaz newspaper** published an article regarding the observance of Jumu'ah (Friday) Prayer in the Mosque of Cordova. It mentioned that observing this event places emphasis on the relationship of brotherhood and affection between Muslims and Christians. In the same context, the Muslim World Journal dated 29/1394 A.H., published the same article in the following wording: 
 

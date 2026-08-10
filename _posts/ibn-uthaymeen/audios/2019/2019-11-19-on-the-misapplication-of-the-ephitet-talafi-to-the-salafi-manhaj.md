@@ -3,21 +3,27 @@ layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
 date: 2019-11-19
-hijri: "Rabi' Al-Awwal 22, 1442 AH"
-title: "On the Misapplication of the Epithet Talafi to the Salafi Manhaj"
-source: "Liqa'a al-Bab al-Maftuh, Tape 235 no.12"
-category: [fatwas,audios,manhaj]
-url: "https://binothaimeen.net/s/Wb4zEmcB"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_235_12.mp3"
+hijri: '1441-03-22'
+title: On the Misapplication of the Epithet Talafi to the Salafi Manhaj
+source: Liqa'a al-Bab al-Maftuh, Tape 235 no.12
+category:
+- fatwas
+- audios
+- manhaj
+url: https://binothaimeen.net/s/Wb4zEmcB
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_235_12.mp3
 active: audios
 translation: false
 lang: en
-summary: "Its ruling is that he himself is the one who is Talif (ruined). You should not find it strange, my brother, that the people of goodness are given pejorative epithets."
+summary: Its ruling is that he himself is the one who is Talif (ruined). You should
+  not find it strange, my brother, that the people of goodness are given pejorative
+  epithets.
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
 ---
+
 
 ### Question: 
 

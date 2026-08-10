@@ -1,16 +1,20 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Is Salafiyyah Limited to the Hanbali Madhab?"
-source: "Majmu' Fatawa 9/238"
-category: [fatwas,manhaj]
-hijri: "Dhul-Qa'dah 26, 1441 AH"
-summary: "This is not true. The Salaf were the Sahabah and those who followed their way from among the Tabi'un."
+title: Is Salafiyyah Limited to the Hanbali Madhab?
+source: Majmu' Fatawa 9/238
+category:
+- fatwas
+- manhaj
+hijri: '1441-11-26'
+summary: This is not true. The Salaf were the Sahabah and those who followed their
+  way from among the Tabi'un.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz Ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz Ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question: 
 

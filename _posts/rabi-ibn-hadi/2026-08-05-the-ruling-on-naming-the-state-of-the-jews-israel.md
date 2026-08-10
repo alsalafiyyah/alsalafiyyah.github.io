@@ -1,19 +1,26 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "The ruling on naming the state of the Jews 'Israel'?"
+title: The ruling on naming the state of the Jews 'Israel'?
 date: 2026-08-05
 lang: en
 translation: false
-summary: "The Jews have plotted a grand plot by claiming a legitimate right to establish a state in the heart of the Muslim lands under the name of the heritage of Abraham and Israel!"
-category: [palestine, non-muslim]
-tags: [rabi-ibn-hadi]
-source: "Sidq al-Nadhr fi Aqwal wa Ta'wilat al-Shaykh Safar 207/112"
+summary: The Jews have plotted a grand plot by claiming a legitimate right to establish
+  a state in the heart of the Muslim lands under the name of the heritage of Abraham
+  and Israel!
+category:
+- palestine
+- non-muslim
+tags:
+- rabi-ibn-hadi
+source: Sidq al-Nadhr fi Aqwal wa Ta'wilat al-Shaykh Safar 207/112
 muftis:
-  shaykh: 
-    - name: "Shaykh Rabi' ibn Hadi al-Madkhali"
-      url: "/scholar/rabi-ibn-hadi"
+  shaykh:
+  - name: Shaykh Rabi' ibn Hadi al-Madkhali
+    url: /scholar/rabi-ibn-hadi
+hijri: '1448-02-22'
 ---
+
 
 Praise be to Allah, and peace and blessings be upon the Messenger of Allah, his family, his companions, and those who follow his guidance. To proceed:
 

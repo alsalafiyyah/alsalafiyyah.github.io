@@ -1,20 +1,25 @@
 ---
 layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "On the Number of Times Allah Spoke to Moses"
+publisher: alsalafiyyah@icloud.com
+title: On the Number of Times Allah Spoke to Moses
 active: audios
-mp3: "https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_636/nour_63614.mp3"
-hijri: "Rabi' Al-Awwal 24, 1442"
+mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_636/nour_63614.mp3
+hijri: '1442-03-24'
 date: 2020-11-10
-category: [audios,prophets]
-tags: [ibn-baz]
-url: "https://binbaz.org.sa/fatwas/13144/%D9%83%D9%85-%D9%85%D8%B1%D8%A9-%D9%83%D9%84%D9%85-%D8%A7%D9%84%D9%84%D9%87-%D9%85%D9%88%D8%B3%D9%89-%D8%B9%D9%84%D9%8A%D9%87-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85"
-summary: "As for the number of times; Allah (Exalted be He) knows that best, as I do not know about the number of times."
+category:
+- audios
+- prophets
+tags:
+- ibn-baz
+url: https://binbaz.org.sa/fatwas/13144/%D9%83%D9%85-%D9%85%D8%B1%D8%A9-%D9%83%D9%84%D9%85-%D8%A7%D9%84%D9%84%D9%87-%D9%85%D9%88%D8%B3%D9%89-%D8%B9%D9%84%D9%8A%D9%87-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85
+summary: As for the number of times; Allah (Exalted be He) knows that best, as I do
+  not know about the number of times.
 muftis:
-  shaykh: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
+
 
 ### Question:
 

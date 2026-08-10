@@ -2,17 +2,22 @@
 layout: post
 published: true
 publisher: alsalafiyyah@icloud.com
-title: "The Legal Ruling on Openly Declaring Oneself a Salafi"
+title: The Legal Ruling on Openly Declaring Oneself a Salafi
 date: 2020-09-05
 lang: en
-summary: "Why should he feel embarrassed? Does he view affiliation with Salafism as a defect or a shortcoming?"
-category: [manhaj]
-tags: [ahmad-ibn-yahya]
+summary: Why should he feel embarrassed? Does he view affiliation with Salafism as
+  a defect or a shortcoming?
+category:
+- manhaj
+tags:
+- ahmad-ibn-yahya
 muftis:
-  shaykh: 
-    - name: Shaykh Ahmad bin Yahya An-Najmi
-      url: /biography/ahmad-alnajmi
+  shaykh:
+  - name: Shaykh Ahmad bin Yahya An-Najmi
+    url: /biography/ahmad-alnajmi
+hijri: '1442-01-17'
 ---
+
 
 ### Question: 
 

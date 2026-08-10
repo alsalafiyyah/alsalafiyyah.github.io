@@ -1,6 +1,6 @@
 ---
 date: 2024-07-25
-hijri: Muharram 19, 1446 AH
+hijri: '1446-01-19'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: If a person does something that is indeed unlawful such as fornication,
   there is no harm in people saying that.
 title: The ruling on referring a person as being Haram
 ---
+
 
 ### Question:
 When a person does something that is deviant or something that goes against the Shariah, many people call him Haram. Are they sinning when they call someone by this name or are they blameless in doing so?

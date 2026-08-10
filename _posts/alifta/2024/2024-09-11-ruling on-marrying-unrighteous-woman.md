@@ -4,7 +4,7 @@ article_taken_from:
   - web_title: Concerning asking in marriage women who are not religiously committed
     web_url: https://www.ferkous.app/home/index.php?q=en/fatwa-en-446
 date: 2024-09-11
-hijri: Rabiul Awwal 08, 1446
+hijri: '1446-03-08'
 lang: en
 layout: post
 mass_edited: true
@@ -18,6 +18,7 @@ summary: What I would like to advise the Sunni husband is to choose a woman who 
   him happiness in his worldly life as well as in the Hereafter.
 title: Ruling on marrying a woman who is not righteous
 ---
+
 
 ### Question:
 Many [Muslim] brothers - who are religiously committed - when proceeding to get married, they choose to ask in marriage women who are not religiously committed under the claim of inviting them the right Islamic way, turning a blind eye to women who are religiously committed. So, our Sheikh, what is your advice regarding this issue? May Allah reward you.

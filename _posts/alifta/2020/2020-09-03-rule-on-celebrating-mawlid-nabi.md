@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 15, 1442 AH
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -21,6 +21,7 @@ summary: Holding a celebration to commemorate the birth of the Prophet (peace be
   him) is impermissible, and that was never done by the Prophet (peace be upon him)
 title: Ruling on celebrating the Prophet's Mawlid
 ---
+
 
 Question:
 

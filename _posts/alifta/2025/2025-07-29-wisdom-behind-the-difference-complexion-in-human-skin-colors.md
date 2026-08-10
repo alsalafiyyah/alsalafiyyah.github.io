@@ -1,7 +1,7 @@
 ---
 author: Permanent Committee of KSA
 date: 2025-07-29
-hijri: Safar 4, 1447 AH
+hijri: '1447-02-04'
 lang: en
 layout: post
 mass_edited: true
@@ -25,6 +25,8 @@ tags:
 title: The wisdom behind the difference in complexion colors of the servants of Allah
 translation: false
 ---
+
+
 
 ### Question:
 

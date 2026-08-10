@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 26, 1442 AH
+hijri: '1442-01-26'
 lang: en
 layout: post
 mass_edited: true
@@ -20,6 +20,7 @@ summary: ' The term Hadith Qudsy refers to Revelations from Allah in the Prophet
   peace be upon him) or by direct inspiration in wakefulness or sleep'
 title: What are the Hadith Qudsy?
 ---
+
 
 Question:
 

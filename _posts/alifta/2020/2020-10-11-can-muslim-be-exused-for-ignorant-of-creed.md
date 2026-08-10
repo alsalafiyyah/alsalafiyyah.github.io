@@ -1,5 +1,5 @@
 ---
-hijri: Safar 24, 1442 AH
+hijri: '1442-02-24'
 lang: en
 layout: post
 mass_edited: true
@@ -18,6 +18,7 @@ summary: It is impermissible for the adherents of Tawhid (monotheism), who hold 
   proofs and clarification on them.
 title: Can a Muslim's ignorance of creed be excused?
 ---
+
 
 Question:
 

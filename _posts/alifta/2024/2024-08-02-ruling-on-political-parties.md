@@ -1,7 +1,7 @@
 ---
 date: 2024-08-02
 group1: true
-hijri: Muharram 27, 1446 AH
+hijri: '1446-01-27'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ tags:
 title: The ruling on political and religious parties Hizb ut-Tahrir and the Ikhwanul-Muslimin
 translation: false
 ---
+
 
 ### Question: 
 

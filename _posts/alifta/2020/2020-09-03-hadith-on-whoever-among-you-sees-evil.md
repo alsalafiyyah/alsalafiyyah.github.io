@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 14, 1442 AH
+hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
@@ -22,6 +22,7 @@ summary: 'What is the meaning of the Hadith reported on the authority of Abu Hur
   among you, sees something abominable should rectify it with his hand'''
 title: 'The Hadith: ''Whoever among you sees an evil'''
 ---
+
 
 Question:
 

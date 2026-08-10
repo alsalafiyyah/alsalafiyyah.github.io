@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 5, 1442 AH
+hijri: '1442-01-05'
 lang: en
 layout: post
 mass_edited: true
@@ -17,6 +17,7 @@ summary: This phrase means passing over (the Sirat) as it was proved by authenti
 title: Tafsir Surah Maryam Ayat 71
 uid: tafsir-surah-maryam-71
 ---
+
 
 Question: 
 

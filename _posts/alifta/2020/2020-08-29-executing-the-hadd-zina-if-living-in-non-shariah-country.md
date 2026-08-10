@@ -1,7 +1,7 @@
 ---
 date: 2020-08-29
 group1: true
-hijri: Muharram 10, 1442 AH
+hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ title: A family executing the Hadd of Zina if living in a country that does not 
   Shari'ah
 translation: false
 ---
+
 
 ### Question: 
 

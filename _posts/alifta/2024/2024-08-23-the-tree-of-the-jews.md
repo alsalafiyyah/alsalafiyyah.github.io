@@ -1,6 +1,6 @@
 ---
 date: 2024-08-23
-hijri: Safar 19, 1446 AH
+hijri: '1446-02-19'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ summary: The Prophet ﷺ informed us that when the Muslims fight the Jews, the J
   hiding behind it, except for the Gharqad tree.
 title: Gharqad the tree of the Jews
 ---
+
 
 ### Question:
 What is the Gharqad (a kind of thorny tree) tree?

@@ -1,6 +1,6 @@
 ---
 date: 2020-10-11
-hijri: Safar 24, 1442 AH
+hijri: '1442-02-24'
 lang: en
 layout: post
 mass_edited: true
@@ -20,6 +20,7 @@ summary: It is impermissible for a Muslim to invoke Allah's Forgiveness for thei
   grandparents or others, if they died in Shirk.
 title: A Muslim is not permitted to seek forgiveness for grandparents who die as Mushriks
 ---
+
 
 ### Question:
 I have grandparents who died in Shirk (disbelief); is it permissible to ask Allah's Forgiveness for them? 

@@ -5,7 +5,7 @@ article_taken_from:
     web_url: https://al-fatawa.com/fatwa/103731
 date: 2020-08-30
 group2: true
-hijri: Muharram 11, 1442
+hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
@@ -16,6 +16,7 @@ summary: The Sunnah explains the Qur'an. Anyone who denies the authority of the 
 title: Do the books of Hadith explain the Qur'an?
 uid: do-the-hadith-explain-the-quran
 ---
+
 
 ### Question: 
 Do the books of Hadith explain the Qur'an? Is it true that there is no Sunnan (supererogatory acts of worship following the example of the Prophet) in Islam and that a person has to adhere only to Faridah (obligatory acts)? Is it correct that to be saved from punishment in the Hereafter we have to abandon Sunnah and rely only on the Qur'an?

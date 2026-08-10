@@ -1,7 +1,7 @@
 ---
 date: 2024-06-30
 group6: true
-hijri: Dhul-Hijjah 24, 1445
+hijri: '1445-12-24'
 lang: en
 layout: post
 mass_edited: true
@@ -14,6 +14,7 @@ tags:
 title: Ruling on hiring people to recite Qur'an for the dead
 translation: false
 ---
+
 
 ### Question:
 What is the ruling on taking money in return for reciting the Qur'an? Is there a special event that falls due on the fortieth day or one year following the death of a person as people in Egypt believe? Was this common in the era of the Prophet (peace be upon him) or was it introduced by the later generations?

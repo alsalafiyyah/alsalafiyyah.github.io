@@ -1,5 +1,5 @@
 ---
-hijri: Muharram 16, 1442 AH
+hijri: '1442-01-16'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: May Allah grant us and them guidance! It is obligatory upon the scholar
 text: https://telegra.ph/001-11-01
 title: Ruling on knowledge seekers insult the Scholars
 ---
+
 
 Question : 
 

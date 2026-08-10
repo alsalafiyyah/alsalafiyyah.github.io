@@ -1,19 +1,23 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-title: "Is Salafiyyah Just Another Islamic Sect?"
+title: Is Salafiyyah Just Another Islamic Sect?
 date: 2020-07-17
-hijri: "Dhul-Qa'dah 26, 1441"
-source: "Al-Muntaqa min Fataawa Fadilah ash-Shaykh Salih al-Fawzan p.12-13"
-category: [manhaj]
-tags: [salih-ibn-fawzan]
+hijri: '1441-11-26'
+source: Al-Muntaqa min Fataawa Fadilah ash-Shaykh Salih al-Fawzan p.12-13
+category:
+- manhaj
+tags:
+- salih-ibn-fawzan
 lang: en
-summary: "The Salafi group is the foundational, original body that must be followed, whose methodology must be traversed, and which one must join and strive alongside."
+summary: The Salafi group is the foundational, original body that must be followed,
+  whose methodology must be traversed, and which one must join and strive alongside.
 muftis:
-  shaykh: 
-    - name: Shaykh Salih Al-Fawzan
-      url: /biography/fawzan
+  shaykh:
+  - name: Shaykh Salih Al-Fawzan
+    url: /biography/fawzan
 ---
+
 
 ### Question:
 

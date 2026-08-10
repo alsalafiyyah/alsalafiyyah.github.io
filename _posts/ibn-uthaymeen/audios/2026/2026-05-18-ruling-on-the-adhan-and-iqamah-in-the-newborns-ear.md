@@ -2,20 +2,27 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-05-18
-title: "The Ruling on the Adhan and Iqamah in the Newborn's Ear"
-source: "Liqa'a al-Bab al-Maftuh, Tape 60"
-category: [fatwas, audios, women]
-tags: [ibn-uthaymeen]
-link: "https://binothaimeen.net/s/PajF6cmk"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_060_13.mp3"
-summary: "Is this practice legislated or not? Because the source narrations regarding this are not particularly strong, especially concerning the Iqamah."
+title: The Ruling on the Adhan and Iqamah in the Newborn's Ear
+source: Liqa'a al-Bab al-Maftuh, Tape 60
+category:
+- fatwas
+- audios
+- women
+tags:
+- ibn-uthaymeen
+link: https://binothaimeen.net/s/PajF6cmk
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_060_13.mp3
+summary: Is this practice legislated or not? Because the source narrations regarding
+  this are not particularly strong, especially concerning the Iqamah.
 lang: en
 translation: true
 muftis:
-  shaykh: 
-    - name: Shaykh Ibn Uthaymeen 
-      url: /biography/uthaymeen/
+  shaykh:
+  - name: Shaykh Ibn Uthaymeen
+    url: /biography/uthaymeen/
+hijri: '1447-12-01'
 ---
+
 
 ### Question: 
 

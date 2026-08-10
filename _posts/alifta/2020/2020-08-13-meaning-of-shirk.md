@@ -1,6 +1,6 @@
 ---
 date: 2020/08/13
-hijri: Dhul-Hijjah 23, 1441 AH
+hijri: '1441-12-23'
 lang: en
 layout: post
 mass_edited: true
@@ -15,6 +15,7 @@ summary: Shirk is defined as associating others with Allah in worship, such as i
   for the idols.
 title: Meaning of Shirk
 ---
+
 
 ### Question:
 
