@@ -7,7 +7,7 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat 8/34
 summary: Ikhwan-ul-Muslimin Movement is being criticized by some scholars because
   they have no activity in the spread of Tawhid (monotheism), the prohibition of Shirk
@@ -17,8 +17,6 @@ tags:
 title: On Al-Ikhwan Al-Muslimun (the Muslim Brotherhood)
 translation: false
 ---
-
-
 ### Question: 
 
 Your Eminence, Al-Ikhwan Al-Muslimun (the Muslim Brotherhood; a political group also calling to Islam) Movement spread in the Kingdom especially among the students. What is your opinion with regard to this movement? To what extent is it in conformity with the Manhaj (methodology) of Ahl-ul-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream)?

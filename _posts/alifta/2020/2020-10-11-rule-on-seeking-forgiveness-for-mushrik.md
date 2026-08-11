@@ -14,14 +14,12 @@ muftis:
   members:
   - name: Shaykh Abdullah Ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah no. 11248
 summary: It is impermissible for a Muslim to invoke Allah's Forgiveness for their
   grandparents or others, if they died in Shirk.
 title: A Muslim is not permitted to seek forgiveness for grandparents who die as Mushriks
 ---
-
-
 ### Question:
 I have grandparents who died in Shirk (disbelief); is it permissible to ask Allah's Forgiveness for them? 
 

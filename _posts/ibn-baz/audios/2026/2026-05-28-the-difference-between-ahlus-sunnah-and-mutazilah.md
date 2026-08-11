@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Difference Between Ahlus-Sunnah and Mu'tazilah
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 hijri: '1447-12-11'
 date: 2026-05-28
 active: audios
@@ -21,8 +21,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 What is the difference and distinction between the Mu'tazilah sect and Ahl al-Sunnah (the People of Sunnah)? And are there people among the Mu'tazilah who follow the way that the Prophet ﷺ was upon?

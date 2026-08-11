@@ -8,14 +8,12 @@ muftis:
   shaykh:
   - name: Shaykh Ibn 'Uthaymeen
     url: /biography/uthaymeen
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Islamiyah, Vol. 7, Page 168
 summary: This means whoever turns away from my way that I follow, then he is not of
   me. This is because they have chosen another way than the path of the Prophet ﷺ.
 title: Concerning the Hadith 'Whoever Turns Away From My Sunnah'
 ---
-
-
 ### Question:
 What is the meaning of the Hadith: **"Whoever turns away from my Sunnah, then he is not of me."** Does one fall under this category when he doesn't pray the Sunnah prayers that come before and after the obligatory one?
 

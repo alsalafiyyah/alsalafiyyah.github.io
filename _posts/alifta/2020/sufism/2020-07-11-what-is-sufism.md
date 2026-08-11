@@ -4,7 +4,7 @@ hijri: '1441-11-20'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatwas of the Permanent Committee of KSA, Fatwa no. 17558, Question 2
 summary: In general, Sufism as it exists at the present time refers to a misguided
   group, which adopts a Manhaj (methodology) in 'Ibadah (worship) that opposes the
@@ -14,9 +14,6 @@ tags:
 title: What is Sufism
 translation: false
 ---
-
-
-
 ### Question: 
 
 What is Sufism? Does it pose a danger to one's Islam? What is the ruling on keeping company with Sufis? 

@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-08
 hijri: '1447-11-21'
 title: Prohibition of Artificial Eyelashes
@@ -21,8 +21,6 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 ### Question: 
 
 May Allah be good to you and bless you, O virtuous Shaykh. The questioner, Umm Mu'adh from Riyadh, asks: What is the ruling on using artificial eyelashes to beautify oneself for one's husband?

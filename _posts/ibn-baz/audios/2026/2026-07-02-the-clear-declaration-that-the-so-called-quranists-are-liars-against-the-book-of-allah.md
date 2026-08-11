@@ -2,7 +2,7 @@
 layout: post
 title: The Clear Declaration That the So-Called 'Quranists' Are Liars Against the
   Book of Allah
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-07-02
 active: audios
 category:
@@ -23,8 +23,6 @@ muftis:
     url: /biography/binbaz/
 hijri: '1448-01-17'
 ---
-
-
 ### Question: 
 
 Eminent Shaykh, You spoke about the obligation of adhering to the Book (the Qur'an) and the Sunnah, but there is a group that is, or is called “the Quranists” (al-Quraniyyoon). What should our stance be toward them?

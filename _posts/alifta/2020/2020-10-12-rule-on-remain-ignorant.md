@@ -12,14 +12,12 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA no. 21030-3
 summary: It is impermissible for a person to remain ignorant. They have to learn what
   they must know about their Din (religion) and gain religious knowledge from scholars.
 title: It is impermissible for a person to remain ignorant
 ---
-
-
 Question:
 
 Are the ignorant about religious matters and the layman not brought to account for the things they do not know about? Is acquiring religious knowledge Wajib (obligatory) in their case? 

@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Is Enjoining Good and Forbidding Evil Still Obligatory in Modern Times?
 date: 2026-07-29
 category:
@@ -20,8 +20,6 @@ muftis:
     url: /biography/fawzan/
 hijri: '1448-02-15'
 ---
-
-
 ### Question: 
 
 May Allah reward you with good and treat you with excellence. He asks about the ruling on enjoining good and forbidding evil in this era: is it an obligation (wajib) or a recommendation (mustahabb)? May Allah reward you with good.

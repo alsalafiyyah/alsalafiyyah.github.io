@@ -9,14 +9,12 @@ hijri: '1446-01-01'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 15673
 summary: It is not permissible to bury a Mushaf in the grave with the dead. This act
   has no basis in the Qur'an and Sunnah.
 title: Ruling on bury a Mushaf or Qur'an in the grave of deceased
 ---
-
-
 ### Question: 
 Is it permissible to bury a Mushaf or the Qur'an in the grave of the deceased? What is the Islamic ruling on this?
 

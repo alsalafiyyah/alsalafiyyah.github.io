@@ -7,7 +7,7 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat 5/338
 summary: Yes, this has a great effect on one's faith. Committing the grave sins such
   as Zina (sexual intercourse outside marriage), drinking wine, killing unjustly,
@@ -15,8 +15,6 @@ summary: Yes, this has a great effect on one's faith. Committing the grave sins 
   in the Oneness of Allah and believing in Him.
 title: Committing major sins affects one's faith
 ---
-
-
 ### Question:
 What is the ruling on committing sins, particularly major sins? Does this affect one's faith?
 

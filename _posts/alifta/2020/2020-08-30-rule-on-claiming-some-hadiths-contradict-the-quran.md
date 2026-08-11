@@ -4,7 +4,7 @@ hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz Ibn Baz
 - Shaykh Abdul-Aziz Aal al-Shaykh
@@ -13,8 +13,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 19378-5
 title: claiming that some Hadiths contradict the Qur'an
 ---
-
-
 Question: 
 
 Some people claim that some of the Hadiths in the books of Sunnah such as Al-Bukhari, Muslim and others contradict the Ever-Glorious Qur'an. These Hadiths include the Hadith on Al-Mahdi (a man named after the Prophet, who will appear as a sign of the Hour and rule according to Islamic law), the descent of 'Isa (Jesus, peace be upon him), the Hadith on Shafa'ah (intercession) and many others. What is your opinion concerning this issue?

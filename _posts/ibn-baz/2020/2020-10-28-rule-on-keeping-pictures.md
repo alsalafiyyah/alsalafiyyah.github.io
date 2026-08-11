@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The ruling on keeping pictures
 hijri: '1442-03-11'
 source: This was published in the Magazine of the Islamic University in Madinah
@@ -21,8 +21,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 What is the ruling on personal photos one has?

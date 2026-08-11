@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on cursing one's children or wife
 hijri: '1442-03-21'
 source: Fatawa Al-Shaykh Ibn Baz 8/398 and published in Al-Da'wah magazine, issue
@@ -17,8 +17,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 
 What is the ruling on a person who curses his wife or one of his children? Does cursing one’s wife count as divorce? 

@@ -12,7 +12,7 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah no. 6931-1
 summary: The Hadith which is mentioned in the question generally applies to eating
   from unlawful sources. It is a threatening Hadith that does not by any means include
@@ -20,8 +20,6 @@ summary: The Hadith which is mentioned in the question generally applies to eati
 title: 'The Hadith: ''Every flesh that has grown up from unlawful earnings, Hellfire
   is most entitled to it'''
 ---
-
-
 Question: 
 
 Does the Hadith saying: "**For every flesh that is grown up from unlawful earnings, Hellfire is most entitled to it**" apply to a foundling?

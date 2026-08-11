@@ -4,7 +4,7 @@ hijri: '1442-01-03'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com, salafiyyah@outlook.sa
+publisher: alsalafiyyah.manhaj@gmail.com, salafiyyah@outlook.sa
 shaykhs:
 - Shaykh Ibn Baz
 - Shaykh Abdul-Aziz Aal Al-Shaykh
@@ -17,8 +17,6 @@ summary: Calling upon the Messenger when digging a grave through repeating the w
   than Allah.
 title: Ruling on seeking help from the Messenger when digging the grave
 ---
-
-
 ### Question: 
 In some of our villages when digging a grave, the diggers keep on repeating a particular word, which is "Muhammad, Muhammad," until they finish digging the grave. When we asked them about the reason for repeating such word when digging the grave, they replied that they seek help from "Muhammad". Also, on burying the dead person, they say in a collective loud voice: "O Merciful! Grant us mercy when we are between Your Hands as our return is to You!" What is the ruling on such words?
 

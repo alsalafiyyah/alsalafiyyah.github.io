@@ -15,14 +15,12 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA no. 5741, Question 8
 summary: It is not permissible to spend the night in the house of a Mushrik from among
   those who glorify shrines and sacrifice for anyone other than Allah.
 title: Ruling on spending the night in the house of a Mushrik
 ---
-
-
 ### Question: 
  
 Is it permissible to spend the night in the house of a Mushrik (the one who associates others with Allah in His Divinity) from among those who glorify shrines and sacrifice for other than Allah?

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ruling on Rifaiyyah Tariqah Sufi order
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Nur 'Ala al-Darb vol 3
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_487/48702.mp3
 link: shorturl.at/egzP6
@@ -24,8 +24,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 I often hear that someone has joined a Sufi order led by some masters or some shaykhs. After this, he becomes able to strike himself with a sword or eat glass. I want you, Your Eminence, to explain to me the secret behind this occult Sufi order. What should we say to such a person, and what advice can you give me; especially as I am still in my prime years? May Allah reward you with the best. 
 

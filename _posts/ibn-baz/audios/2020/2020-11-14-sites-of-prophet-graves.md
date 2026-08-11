@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Sites of the Prophets' graves
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_638/nour_63813.mp3
 hijri: '1442-03-28'
@@ -21,8 +21,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 In the Sultanate of Oman, particularly in the South, there is a Masjid (mosque) and a grave in the mountain of Zhafar. The people of Zhafar claim that it is the grave of Prophet Ayyub. People visit the grave and travel to it in groups. A similar grave exists in Salalah and people claim that it is the grave of Imran. Likewise, people make it a place to frequent. Would you please comment on these actions and publicize the ruling on the radio? May Allah reward you with the best! 
 

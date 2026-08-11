@@ -7,7 +7,7 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu Fatawa Shaykh ibn Baz 1
 summary: What is the ruling on those who deny Isa's return near the Day of Resurrection,
   claiming that he was crucified, but did not die and immigrated to Kashmir in India
@@ -15,8 +15,6 @@ summary: What is the ruling on those who deny Isa's return near the Day of Resur
 title: Ruling on those who claim that Jesus was not raised to the heavens and will
   not return at the end of time
 ---
-
-
 ### Question:
 What is the opinion of the respected scholars regarding `Isa's (Jesus') life, bodily ascent to the heavens and descent to the earth near the Day of Resurrection and the view that his descent is one of the signs of the Last Hour? What is the ruling on those who deny Isa's return near the Day of Resurrection, claiming that he was crucified, but did not die and immigrated to Kashmir in India where he lived for a long time and died naturally? They also claim that he will not return at the approach of the Last Hour, but one who bears spiritual similarity to him will appear. Please answer us, may Allah reward you!"
 

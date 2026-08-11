@@ -13,14 +13,12 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 5832
 summary: Some companies issue cards with a set loan that the borrower can present
   at any bank and receive the specified loan amount on the card.
 title: Borrower paying a certain amount of the loan when delaying repayment
 ---
-
-
 Question:
 
 Some companies issue cards with a set loan that the borrower can present at any bank and receive the specified loan amount on the card. The bank, in turn, contacts the company which issued the card. This loan is deferred for a certain period mentioned on the card, and if the borrower repays the money before the set period ends, there is no penalty on him. However, if he is late in repaying, he is fined an extra 1%, and some companies give money in return for this service upon delivering the card.

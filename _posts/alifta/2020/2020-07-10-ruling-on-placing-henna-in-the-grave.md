@@ -4,7 +4,7 @@ hijri: '1441-11-19'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatwas of the Permanent Committee of KSA, Fatwa no.6433, Question 6
 summary: As for putting henna in the grave, this has no basis in Shari'ah; it should
   be abandoned.
@@ -13,8 +13,6 @@ tags:
 title: Ruling on  placing Henna in the Grave with the Deceased
 translation: false
 ---
-
-
 ### Question: 
 
 Is placing henna in the grave with the deceased part of the Islamic ceremony? If yes, what are its benefits? 

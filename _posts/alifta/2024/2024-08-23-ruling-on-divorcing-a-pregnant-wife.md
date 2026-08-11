@@ -9,14 +9,12 @@ muftis:
   - name: Shaykh Ibn Baz
     url: /biography/binbaz
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Islamiyah 6/31
 summary: Is it permissible to divorce a pregnant wife or not? the answer is there
   is no objection in divorcing a pregnant woman.
 title: The ruling on divorcing a pregnant wife
 ---
-
-
 ### Question: 
 Is it permissible to divorce a pregnant wife or not?
 

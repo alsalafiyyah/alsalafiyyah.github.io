@@ -7,7 +7,7 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat by Shaykh Ibn Baz p.8/34, question 25
 summary: May Allah grant us and them guidance! It is obligatory upon the scholars
   to beware of Ghibah (backbiting) and Namimah (tale-bearing) and respect Muslims.
@@ -15,8 +15,6 @@ summary: May Allah grant us and them guidance! It is obligatory upon the scholar
 text: https://telegra.ph/001-11-01
 title: Ruling on knowledge seekers insult the Scholars
 ---
-
-
 Question : 
 
 Recently, many knowledge seekers insult the grand Shaykhs if the latter did not say what is agreeable to their whims or desires. What is your opinion? 

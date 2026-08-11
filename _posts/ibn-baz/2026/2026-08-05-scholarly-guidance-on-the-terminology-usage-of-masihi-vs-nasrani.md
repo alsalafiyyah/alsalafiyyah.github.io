@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Scholarly Guidance on The Terminology Usage of Masihi vs. Nasrani
 date: 2026-08-05
 source: Majmu' Fatawa wa Maqalat 5/416
@@ -17,8 +17,6 @@ muftis:
     url: /biography/binbaz/
 hijri: '1448-02-22'
 ---
-
-
 ### Question:
 
 For a long time, the use of the word "Christian" (Masihi) has been widespread. Is it correct—Your Eminence Shaykh—to say "Christian" (Masihi) or "Nasrene/Nazarene" (Nasrani)? Please advise us, May Allah reward you.

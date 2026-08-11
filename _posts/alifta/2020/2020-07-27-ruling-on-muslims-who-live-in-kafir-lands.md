@@ -14,7 +14,7 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 21676, Question 1
 summary: Whoever resides in non-Muslim countries with no legal reason and does not
   emigrate to Muslim countries to practice his religion though able to do so, is exposing
@@ -22,8 +22,6 @@ summary: Whoever resides in non-Muslim countries with no legal reason and does n
   Prophetic Hadith.
 title: Ruling on the Muslims who live in the lands of the disbelievers
 ---
-
-
 ### Question: 
 
 I found in one of your Fatwas regarding travel to the land of disbelievers a Hadith of the Messenger (peace be upon him) stating: "**I am not responsible for any Muslim who stays among polytheists.**"[^1] My question is: Is the Prophet not being responsible for those Muslims mean that he, (peace be upon him), will not intercede with Allah for the Muslims who live in the lands of the disbelievers with no legitimate excuse?

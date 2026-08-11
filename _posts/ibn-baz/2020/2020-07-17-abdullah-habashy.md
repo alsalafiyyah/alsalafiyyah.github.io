@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Abdullah Al-Habashy
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa Shaykh Ibn Baz 9/315
 hijri: '1441-11-26'
 date: 2020-07-17
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 From Abdul-Aziz ibn Abdullah ibn Baz to our dear respected brother, **T.M**. May Allah protect you. As-salamu 'alaykum warahmatullah wabarakatuh (May Allah's Peace, Mercy, and Blessings be upon you!). 
 
 I would like to refer to your question registered at the Department of Scholarly Research under the number (313), dated 25/1/1406 AH. In which you ask about the sect belonging to their head, Abdullah Al-Habashy.

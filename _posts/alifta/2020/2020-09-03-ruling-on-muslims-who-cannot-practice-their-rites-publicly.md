@@ -15,7 +15,7 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 2922, Question 13
 summary: It is impermissible to reside in a country where the Muslims are prevented
   from performing the Islamic rituals. If possible, the person should migrate to another
@@ -23,8 +23,6 @@ summary: It is impermissible to reside in a country where the Muslims are preven
   overtly and find the means to cooperate with Muslims in righteousness and piety.
 title: Ruling on Muslims who cannot practice their rites publicly
 ---
-
-
 ### Question:
 
 In Britain it is not allowed to call the Adhan (call to Prayer) loudly except inside the Masjid (mosque). Muslims can not break the English law. Does this mean they are sinners? 

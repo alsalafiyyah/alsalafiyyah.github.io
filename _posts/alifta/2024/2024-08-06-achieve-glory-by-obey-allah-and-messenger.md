@@ -10,15 +10,13 @@ lang: en
 layout: post
 mass_edited: true
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah 26/46-49, Fatwa no. 21009, Question 1
 summary: How can glory and might be to Muslims when they are so weak in a corrupted
   world that Christians and Jews predominate?
 title: Muslims can not achieve glory or overcome their enemies unless they obey Allah
   and His Messenger
 ---
-
-
 ### Question: 
 How can glory and might be to Muslims when they are so weak in a corrupted world that Christians and Jews predominate?
 

@@ -16,7 +16,7 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Daimah -3
 summary: In fact, the aim of doing so is clarifying the truth and advising Muslims,
   not belittling such great personalities as Al-Suyuty and others. Thus, their errors
@@ -24,8 +24,6 @@ summary: In fact, the aim of doing so is clarifying the truth and advising Musli
   undoubtedly outweigh their errors.
 title: The Shari'ah's stance regarding searching for Scholars faults
 ---
-
-
 Question: 
 
 What is the Shari'ah's stance regarding searching for scholars' faults on the pretext of warning others against their errors and paying their attention to it? Please, bear in mind that such is the custom of some seekers after religious knowledge who warn masses against many scholars including sometimes revered scholars such as Al-Suyuty, claiming him to be an Ash'rite, in addition to many others.

@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-04-20
 hijri: '1447-11-03'
 title: Unity Through the Path of the Salaf
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 ### Question: 
 We would like to know what the difference is between the Ikhwan (Muslim Brotherhood) and the Salafi group?
 

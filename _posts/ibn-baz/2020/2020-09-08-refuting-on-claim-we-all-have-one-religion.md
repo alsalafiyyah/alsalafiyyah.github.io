@@ -8,7 +8,7 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa Shaykh ibn Baz 2/173
 summary: As for non-Muslims, they should be resented and opposed for their disbelief
   in Allah, the Glorified. It is prohibited to support or take care of them until
@@ -16,8 +16,6 @@ summary: As for non-Muslims, they should be resented and opposed for their disbe
 title: There is no brotherhood between Muslims and Kafirs and the only true religion
   is Islam
 ---
-
-
 All praise be to Allah Alone. May peace and blessings be upon the Last Prophet.In its issue no (3031), dated (27/1394), **Okaz newspaper** published an article regarding the observance of Jumu'ah (Friday) Prayer in the Mosque of Cordova. It mentioned that observing this event places emphasis on the relationship of brotherhood and affection between Muslims and Christians. In the same context, the Muslim World Journal dated 29/1394 A.H., published the same article in the following wording: 
 
 > "**Undoubtedly, this act is an emphasis on the tolerance of Islam and that we all have one religion, etc.**"

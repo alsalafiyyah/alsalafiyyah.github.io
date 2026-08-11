@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2019-11-19
 hijri: '1441-03-22'
 title: Affiliation with the Righteous Salaf
@@ -23,8 +23,6 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 ### Questioner: 
 
 May Allah reward you with goodness. A questioner asks: Virtuous Sheikh, what is the Islamic ruling on affiliating oneself with the Righteous Predecessors (al-Salaf al-Sālih) and our saying, "I am Salafi in creed"?

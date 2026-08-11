@@ -4,7 +4,7 @@ hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdul-Razzaq al-Afify
@@ -13,8 +13,6 @@ source: Fatawa Al-Lajnah Ad-Da'imah no. 13052
 title: Repaying the deceased's debt to the Real Estate Development Fund before fulfilling
   the will, unless one of the children repays it
 ---
-
-
 Questions:
 
 Q 1: My father took a loan from the Real Estate Development Fund to build a house, but he died before repaying this loan. Will this loan remain as a liability on my father till it is repaid, or is he considered to be cleared from the debt by his death?

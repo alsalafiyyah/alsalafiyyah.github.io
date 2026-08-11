@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is it permissible to curse the disbelievers
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-08-05
 active: audios
 category:
@@ -23,8 +23,6 @@ muftis:
     url: /biography/binbaz/
 hijri: '1448-02-22'
 ---
-
-
 ### Question: 
 
 Regarding the statement of the Messenger of Allah ﷺ, "May the curse of Allah be upon the Jews," is it permissible to curse the Jews?

@@ -13,15 +13,13 @@ muftis:
   members:
   - name: Shaykh Abdullah Ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 80521, Question 4
 summary: It is permissible for a Muslim to kindly treat disbelievers who are not in
   a state of war with Islam, reciprocate their good treatment, as well as exchange
   beneficial things and presents with them.
 title: Ruling on making friendship with a Christian
 ---
-
-
 ### Question: 
 
 Is it permissible for a Muslim to befriend, visit and study with a Christian friend?

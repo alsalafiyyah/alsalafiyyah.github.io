@@ -13,15 +13,13 @@ muftis:
   members:
   - name: Shaykh Abdullah Ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no.6495, Question 1
 summary: It is permissible to grant a non-Muslim the nationality of a Muslim country
   provided that the danger of Fitnah (sedition) is secured and that his good intentions
   are sensed.
 title: Ruling on granting the nationality of a Muslim country to a non-Muslim
 ---
-
-
 ### Question: 
  
 What is the ruling on granting the nationality of a Muslim country to a non-Muslim?

@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: By the Mercy of Allah and His Benevolence the rulers of this country apply
   Shari'ah
 source: Majmu' Fatawa 23/188
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 By Allah's Mercy and Benevolence, the rulers of this country were guided since the time of Imam Muhammad ibn Sa'ud to the time of the Custodian of the Two Sacred Mosques apply Shari'ah, which is one of Allah’s greatest favors
 
 All praise is due to Allah, the Lord of all the Worlds. May peace and blessings of Allah be upon the Messenger of Allah, our Prophet Muhammad ibn 'Abdullah, his family, his Companions, and those who followed His guidance to the Day of Judgment. To proceed: 

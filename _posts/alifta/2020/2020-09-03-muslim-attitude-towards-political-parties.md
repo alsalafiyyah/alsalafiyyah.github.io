@@ -5,14 +5,12 @@ hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 6290, Question 4
 summary: 'What is the attitude of Islam towards these parties, and towards Muslims
   who take part in them? Is their Islam sound? '
 title: 'Muslim''s attitude towards political parties '
 ---
-
-
 ### Question:
 
 Some Muslims take part in political parties. These parties follow either Russia or America. There are many such parties, such as the Progressive party, the Socialist party, the Independence party, the Liberal party, the Nationalist party, the Youth party, the Democratic party, and others which are all similar. What is the attitude of Islam towards these parties, and towards Muslims who take part in them? Is their Islam sound? 

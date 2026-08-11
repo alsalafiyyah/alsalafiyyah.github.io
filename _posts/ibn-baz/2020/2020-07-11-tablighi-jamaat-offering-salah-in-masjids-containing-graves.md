@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jama'at Tabligh and the offering Prayers in Masjids containing graves
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa Shaykh Ibn Baz 8/331
 category:
 - sects
@@ -17,8 +17,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 M.'A. From America says: I traveled with Jama'at Tabligh to India and Pakistan. We used to gather and pray in Masjids (mosques) that have graves inside them. Later, I was informed that praying in Masjids containing graves is Batil (null and void). What is the ruling on my prayer? Should I repeat it? What is the ruling on traveling with this group to similar places?

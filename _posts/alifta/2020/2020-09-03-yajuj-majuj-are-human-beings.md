@@ -12,14 +12,12 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 6951, Question 2
 summary: They are human beings from the children of Adam, the father of mankind. They
   are living on this earth in the Furthest East.
 title: The existence of Gog and Magog and attributing them to human beings
 ---
-
-
 ### Question: 
 
 Are Ya'juj and Ma'juj (Gog and Magog), that were mentioned in the Qur'an, on this Earth or are they in another world? Are they human beings or not? 

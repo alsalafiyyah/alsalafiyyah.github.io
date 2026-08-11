@@ -16,7 +16,7 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 7807, Question 2
 summary: Druze, Nusayriyyah, Ismailiyyah and those who follow them such as Babists
   and Baha'is have manipulated the religious texts; legislated for themselves what
@@ -24,8 +24,6 @@ summary: Druze, Nusayriyyah, Ismailiyyah and those who follow them such as Babis
   distortions
 title: Ruling on the call to rapprochement between religions
 ---
-
-
 ### Question:
 
 Is the call for rapprochement between religions (Islam - Christianity - Judaism) a legitimate one? Is it permissible for a Muslim believer to support it? I heard that this is done by some scholars in Al-Az-har and other Islamic institutions. Is the call for rapprochement between Ahl-ul-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream) and the Shiites, Druze, Al-Isma'iliyyah, Al-Nusayriyyah and such sects useful for Muslims? Is reconciliation between them possible, although all of these sects entail Shirk (associating others with Allah in His Divinity or worship), offense to the Messenger of Allah (peace be upon him), and hostility towards Islam and Ahl-ul-Sunnah wal-Jama'ah? Is this rapprochement permissible according to Shari'ah? 

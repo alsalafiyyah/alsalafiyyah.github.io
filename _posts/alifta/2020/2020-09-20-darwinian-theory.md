@@ -9,15 +9,13 @@ hijri: '1442-02-03'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah, Fatwa no. 2872, Question 1
 summary: The theory of evolution, known as Darwin’s theory, contradicts the Book of
   Allah, the Sunnah of His Messenger ﷺ, and the consensus of the people of knowledge
   and faith.
 title: Darwinian Theory
 ---
-
-
 ### Question:
 
 We have learned through our academic courses something about the theory of evolution and everything related to creation. The more I read on this subject, the more convinced I become that Allah is the Creator of the universe and everything within it. However, to my utter surprise, I came across a book authored by a Muslim supporting the theory of evolution, citing the Quran as evidence. Furthermore, one of my Muslim professors asked me: "Since Islam forbids marriage between a brother and his sister, how did the marriage between the offspring of Adam and Eve take place?"

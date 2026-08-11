@@ -12,14 +12,12 @@ muftis:
   shaykh:
   - name: Shaykh Muhammad Ali Ferkus
     url: /biography/ferkus
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatwa no.446
 summary: What I would like to advise the Sunni husband is to choose a woman who brings
   him happiness in his worldly life as well as in the Hereafter.
 title: Ruling on marrying a woman who is not righteous
 ---
-
-
 ### Question:
 Many [Muslim] brothers - who are religiously committed - when proceeding to get married, they choose to ask in marriage women who are not religiously committed under the claim of inviting them the right Islamic way, turning a blind eye to women who are religiously committed. So, our Sheikh, what is your advice regarding this issue? May Allah reward you.
 

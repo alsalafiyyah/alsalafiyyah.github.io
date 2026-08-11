@@ -16,13 +16,12 @@ muftis:
     url: /biography/ghudayyan
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 5320, Question 2
 summary: What is your opinion of a man who does not order his female household to
   cover themselves in front of non-Mahrams.
 title: Ruling on men neglecting their Mahrams
 ---
-
 ### Question: 
 What is your opinion of a man who does not order his female household to cover themselves in front of non-Mahrams (not a spouse or unmarriageable relatives)?
 

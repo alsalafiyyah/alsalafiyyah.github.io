@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-14
 title: His wife is demanding that he shave his beard, should he obey her?
 source: 'Fatawa Nur ''ala al-Darb / Tape no: 44'
@@ -25,8 +25,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1447-11-27'
 ---
-
-
 ### Question: 
 
 It is well known that growing a beard for men is a Sunnah Mu'akkadah (confirmed Sunnah). However, what if a man’s wife says: "You must shave your beard, otherwise I will not allow you to be intimate with me"? I hope you will discuss this topic thoroughly, keeping in mind that I am someone currently experiencing this situation with my wife. I have tried to convince her, but she remains unpersuaded—to the point that she says: "I am prepared to take you to court over this." With my sincere thanks and appreciation.

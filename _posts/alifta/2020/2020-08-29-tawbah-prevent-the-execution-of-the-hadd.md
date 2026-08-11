@@ -4,7 +4,7 @@ hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 9000
 summary: If Hudud come to the knowledge of the ruler and are proven by sufficient
   evidence, they should be carried out and should not be waived by Tawbah according
@@ -14,8 +14,6 @@ tags:
 title: Tawbah to prevent the execution of the Hadd
 translation: false
 ---
-
-
 ### Question: 
 
 Is Tawbah (repentance to Allah) from the major sins for which Hudud (ordained punishments for violating Allah’s Laws) are imposed by the Qur'an and Sunnah, the same as for theft and Zina, can replace the establishment of these Hudud? If Tawbah from these major sins does not deter from carrying out Hudud prescribed for them, what should a man do if he committed a major sin that requires Hadd (ordained punishment for violating Allah’s Laws), but he lives in a country that does not carry out Hudud?

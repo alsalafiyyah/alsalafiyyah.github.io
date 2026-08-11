@@ -4,7 +4,7 @@ hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdul-Aziz Aal al-Shaykh
@@ -13,8 +13,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 19820
 title: 'Fabricated Hadith: ''Love Arabs for three reasons'''
 ---
-
-
 Question: 
 
 The Prophet (peace be upon him) said: "**Love Arabs for three reasons: I am an Arab, the inhabitants of Jannah (Paradise) speak Arabic, and the Glorious Qur'an is revealed in Arabic.**" Was this Hadith authentically reported from the Prophet (peace be upon him)? What is its rank regarding authenticity. Is it Sahih (authentic), Da'if (weak), or Mawdu' (fabricated)? In fact, some people are confused while others, finding support in the Hadith, claim that people who enter Jannah will speak Arabic.

@@ -7,15 +7,13 @@ muftis:
   chairman:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat 4/226, Question 6
 summary: She should forbid the wrong gently in an amiable way using kind words. Perhaps,
   the wrongdoer is ignorant or savage and he may increase his evil when he is harshly
   forbidden.
 title: Disapproving evil done by relatives
 ---
-
-
 ### Question:
 What should a believing woman do when she sees one of her relatives committing evil acts?
 

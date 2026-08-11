@@ -8,7 +8,7 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa Shaykh ibn Baz 1/401
 summary: Anything that was not prescribed in the era of the Prophet (peace be upon
   him) and his Sahabah (may Allah be pleased with them) cannot be made permissible
@@ -17,8 +17,6 @@ summary: Anything that was not prescribed in the era of the Prophet (peace be up
 title: Refuting Salih Muhammad Jamal for his call of the glorification of Islamic
   monuments
 ---
-
-
 All praise be to Allah, and peace and blessings be upon the Messenger of Allah, his family, his Companions, and those who follow his guidance.
 
 I have read what was published in Al-Nadwah Newspaper in its issue dated 24/5/1387 A.H., written by Salih Muhammad Jamal entitled "Islamic Monuments." In this article **the writer** calls for the glorification of Islamic monuments, lest they should be deserted and unknown to the people.

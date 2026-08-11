@@ -14,7 +14,7 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da’imah 2/262-264, Fatwa no. 21203
 summary: The Muslim must adhere to the Qur'an and Sunnah in all his affairs, especially
   at times of fitan (temptation and tribulation) and when corruption is widespread.
@@ -23,8 +23,6 @@ tags:
 title: Ruling on Celebrating Valentine’s Day
 translation: false
 ---
-
-
 ##### Question: 
 
 Some people celebrate the fourteenth day of February of each Christian year as the Day of Love (Valentine’s Day), where they exchange gifts of red roses and wear red clothes, and congratulate one another. Some the bakeries make sweets that are red in colour, with hearts drawn on them, and some stores have advertisements for their products that are especially for this day. What is your opinion on the following: 

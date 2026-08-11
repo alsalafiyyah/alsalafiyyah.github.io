@@ -15,14 +15,12 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah Ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 4246, Question 8
 summary: Allah forbids believers to establish with the Jews and other disbelievers
   an alliance of friendship, love, solidarity and support.
 title: Take not as friends the people who incurred the Wrath of Allah
 ---
-
-
 ### Question: 
  
 What is the meaning of Allah’s Saying: "**Take not as friends the people who incurred the Wrath of Allâh (i.e. the Jews).**" [al-Mumtahanah: 13] What is the meaning of aligning or allying oneself with them? Does it involve visiting, speaking and joking with them?

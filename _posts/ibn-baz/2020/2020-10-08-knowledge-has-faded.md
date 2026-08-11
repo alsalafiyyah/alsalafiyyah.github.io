@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: knowledge has faded and the scholars have died
 hijri: '1442-02-21'
 category:
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 
 One of the common sayings among students, especially in colleges and scientific institutions is: knowledge has faded and the scholars have died. Also that there is no one who studies in educational institutions except for the purpose of having certificates and worldly matters; how can we answer this? What is the ruling when a person who combines the intention of seeking worldly matters and certificates with the intention of seeking knowledge to benefit himself and his community? 

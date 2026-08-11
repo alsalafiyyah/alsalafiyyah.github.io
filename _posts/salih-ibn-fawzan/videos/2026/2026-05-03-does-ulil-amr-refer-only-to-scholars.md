@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Does Ulil-Amr Refer Only to Scholars?
 hijri: '1447-11-16'
 date: 2026-05-03
@@ -22,8 +22,6 @@ muftis:
   - name: Shaykh Salih Al-Fawzan
     url: /biography/fawzan/
 ---
-
-
 ### Question: 
 
 What is your opinion on those who say that the meaning of "those in authority" mentioned in the [Quranic] verse [^1] refers only to the scholars and not the rulers? Is this correct?

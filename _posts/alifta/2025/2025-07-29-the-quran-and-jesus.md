@@ -16,7 +16,7 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Daimah no. 6793, Question 3
 summary: The Qur’an is the Speech of Allah; it was not created. 'Isa (peace be upon
   him) is a human being who was given birth to by Maryam bint 'Imran. Thus, the Qur’an
@@ -26,9 +26,6 @@ tags:
 title: 'Which is better: The Qur''an or ''Isa (peace be upon him)'
 translation: false
 ---
-
-
-
 ### Question"
 
 I heard some scholars asking which is better: the Qur’an or 'Isa ibn Maryam (Jesus son of Mary, peace be upon them)?

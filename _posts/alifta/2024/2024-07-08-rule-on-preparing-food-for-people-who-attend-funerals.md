@@ -9,15 +9,13 @@ hijri: '1446-01-02'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 5090, Question 1
 summary: Is it permissible for the family of the deceased to cook food during the
   same day in which a person passes away to serve it to those who attend the funeral
   procession.
 title: Ruling on preparing food for the people who attend the funeral
 ---
-
-
 ### Question: 
 Is it permissible for the family of the deceased to cook food during the same day in which a person passes away to serve it to those who attend the funeral procession, and that the food should be served before burying the dead? Those who do this take the Ayahs of Sadaqah (voluntary charity) and spending in the way of Allah as proof in this regard. They also say that the grave is dark and serving food for people will lighten the grave before the deceased enters it.
 

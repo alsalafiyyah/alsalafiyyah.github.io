@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The Ruling on Disparaging Jesus in Retaliation
 hijri: '1447-10-23'
 date: 2026-04-11
@@ -21,8 +21,6 @@ muftis:
   - name: Shaykh Salih Al-Fawzan
     url: /biography/fawzan/
 ---
-
-
 ### ​Question: 
 
 A newspaper from Azerbaijan was found this week depicting Jesus (Peace Be Upon Him) and his mother Mary (Peace Be Upon Them) in a hideous/vile manner. This was done, according to their claims, in response to what the Danish newspapers did regarding our Prophet Muhammad ﷺ. Does the person who did this to Jesus and his mother commit disbelief (kufr) and apostatize from the religion of Islam—bearing in mind that those who did this affiliate themselves with Islam?

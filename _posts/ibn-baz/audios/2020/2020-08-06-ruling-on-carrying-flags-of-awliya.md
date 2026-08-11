@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ruling on carrying flags for Awliya
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Nur 'Ala al-Darb vol 3
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_926/nour_92603.mp3
 link: https://cutt.ly/kdDW4ua
@@ -26,8 +26,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 During festivals some people carry colorful flags bearing some Ayahs (Qur'anic verses) and expressions; for example, the magnate, great reliever and mighty scholar Ahmad Al-Rifa'i, Ahmad Al-Badawi, or Abdul-Qadir Al-Jilani. It should be mentioned that these people carry such flags that are fastened to long poles while they beat drums, walking along the streets and hitting themsleves with swords. The strange thing is that these flags move wherever they like, i.e., they fly in the air. What is the ruling of Islam on such practices? To what extent do these practices distort the image of the Islam? 
 

@@ -12,15 +12,13 @@ muftis:
     url: /biography/mani/
   - name: Shaykh Abdullah ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah, Fatwa no. 315
 summary: In case that the aim of staying beside the grave is to offer worship to Allah
   Alone, it is still not permissible as it combines between the sin of staying beside
   the grave and the sin of offering 'Ibadah to Allah beside the graves.
 title: Is it permissible to vow and sacrifice for the sake of the Waliy?
 ---
-
-
 ### Question:
 
 There is a grave in our village which is said to belong to one of the righteous people. A house was built over this grave and there are two people appointed to take care of it. These people inherited this mission from their fathers. They tell people: "**This night, the dweller of this grave said so and so and asked for so and so.**" They have attracted people's hearts that live beside the grave. People believe everything that is said by these two people.

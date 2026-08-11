@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Who Built Al-Aqsa Mosque?
 date: 2026-08-03
 category:
@@ -17,8 +17,6 @@ muftis:
     url: /biography/albani
 hijri: '1448-02-20'
 ---
-
-
 Questioner: Is it known when the Al-Aqsa Mosque was built?
 
 Shaykh: Yes, indeed. The one who built it is Sulaiman (Solomon), peace be upon him. Could it be [otherwise]?! This is explicitly stated in Sahih al-Bukhari.

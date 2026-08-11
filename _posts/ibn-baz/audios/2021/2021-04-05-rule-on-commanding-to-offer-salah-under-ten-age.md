@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on commanding one's children under ten to offer Salah
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_947/nour_94719.mp3
 hijri: '1442-08-23'
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 Are parents of children under ten considered sinners if their children do not perform Salah (Prayer)?
 

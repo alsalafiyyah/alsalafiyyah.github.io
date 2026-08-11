@@ -13,14 +13,12 @@ muftis:
   members:
   - name: Shaykh Abdullah Ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 13477, Question 3
 summary: If a disbeliever does good for the Muslims, he is rewarded for this in this
   life; however, it is not a reason for him to enter Paradise.
 title: Reward in the Hereafter for a disbeliever treating a Muslim kindly
 ---
-
-
 ### Question: 
 
 What is the ruling on a benevolent disbeliever who does good towards Muslims such as building a Masjid (mosque) for them and giving money to poor Muslims. Shall he enter Paradise for his benevolence?

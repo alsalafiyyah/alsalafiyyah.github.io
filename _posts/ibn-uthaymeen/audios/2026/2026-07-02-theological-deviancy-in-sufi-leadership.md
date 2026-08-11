@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-07-02
 title: Theological Deviancy in Sufi Leadership
 category:
@@ -19,8 +19,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1448-01-17'
 ---
-
-
 ### Question: 
 
 May Allah be good to you. This listener, Abu Hudhayfah from Makkah Al-Mukarramah, sent this question in which he says: 

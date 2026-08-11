@@ -14,15 +14,13 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 5502
 summary: If a woman becomes purified from menstruation or postpartum bleeding before
   the end of the due time of any Salah, she should offer this Salah and the one which
   can be combined with it.
 title: Salah of a menstruating woman
 ---
-
-
 ### Question: 
 
 If a woman is purified from menstruation or postpartum bleeding before sunset, should she perform the Zhuhr (Noon) and the 'Asr (Afternoon) Prayers? If she becomes purified before dawn, should she offer the Maghrib (Sunset) and the `Isha' (Night) Prayers? We heard that some scholars say that we must do so.

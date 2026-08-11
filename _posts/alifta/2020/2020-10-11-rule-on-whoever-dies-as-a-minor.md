@@ -15,15 +15,13 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah Ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah no. 7790-4
 summary: This baby will be dealt with in this world as his family. If he is born to
   a Muslim family, then his body will be washed and the funeral prayer will be performed
   for him.
 title: Ruling on whoever dies as a minor
 ---
-
-
 Question:
 
 O Shaykh, it is said that when a baby is born, it will be written on his forehead that he is wretched or blessed. What is the ruling on those who die young before experiencing happiness or misery? 

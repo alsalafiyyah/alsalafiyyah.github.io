@@ -4,7 +4,7 @@ hijri: '1441-12-05'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 21412
 summary: It is not permissible to read the book of Fada'il A'mal (Faza'il-e-A'mal)
   or any similar book that contains superstitions and lies to the people in Masjids
@@ -15,9 +15,6 @@ tags:
 title: False story made by the Sufi Shaykh of Jama'at Tabligh
 translation: false
 ---
-
-
-
 ### Question: 
 
 Shaykh Muhammad Zakariyya Kandahlwi (a Deobandi scholar) is one of the most famous religious scholars in India and Pakistan, especially among the followers of Jama'at Tabligh. He has numerous publications; of which is: **Fada'il A'mal (Faza'il-e-A'mal)**, which is read in the religious circles of Jama'at Tabligh, and which the members of the group consider as Sahih Al-Bukhari. 

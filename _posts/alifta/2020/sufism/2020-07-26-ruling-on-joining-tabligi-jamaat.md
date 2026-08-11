@@ -4,7 +4,7 @@ hijri: '1441-12-05'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 17776, Question 2
 summary: The acts of the group you mentioned count as Bid'ahs (innovations in religion).
   You are not allowed to join them unless they adhere to the teachings stated in the
@@ -14,9 +14,6 @@ tags:
 title: Ruling on joining Jama'at Tabligh
 translation: false
 ---
-
-
-
 ### Question: 
 
 I joined this group and made use of the knowledge they provide. However, they observe some acts that are not mentioned in the Book of Allah or in the Sunnah. The following are some examples:

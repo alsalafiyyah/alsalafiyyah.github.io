@@ -16,14 +16,12 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 6541, Question 1
 summary: It is permissible to visit such relatives on condition that the person visiting
   them advises and instructs them to stop their love of disbelievers.
 title: Ruling on visiting relatives who love disbelievers
 ---
-
-
 ### Question: 
  
 Is it permissible to visit relatives who love disbelievers?

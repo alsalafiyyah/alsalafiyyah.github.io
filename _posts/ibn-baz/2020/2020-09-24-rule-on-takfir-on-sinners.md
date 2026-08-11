@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: We do not declare a Muslim as a disbeliever for committing a sin unless he
   believes it is lawful.
 hijri: '1442-02-07'
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 Some people ascribe the following saying of Salaf (righteous predecessor): "**We do not declare a Muslim as a disbeliever for committing a sin unless he believes it is lawful.**" to Al-Murji'ah (a deviant Islamic sect claiming that Faith is restricted to belief not deeds), is this right?
 

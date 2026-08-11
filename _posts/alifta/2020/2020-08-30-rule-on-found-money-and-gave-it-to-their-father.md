@@ -4,7 +4,7 @@ hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdul-Aziz Aal al-Shaykh
@@ -15,8 +15,6 @@ source: Fatawa Al-Lajnah Ad-Da'imah no. 18901
 title: Ruling on together with his brothers they found a sum of money in the street
   and gave it to their father
 ---
-
-
 Question: 
 
 I was eleven years old and my brother was thirteen years old when we went to the market to do shopping. We found 10,000 riyals in a dusty case, took it with our stuffs and gave it to our father. I should mention that our father was old and illiterate and there were no shaykhs at that time to clarify what was Halal (lawful) or Haram (unlawful). Are we and our father sinful in that? Guide us, may Allah reward you with the best.

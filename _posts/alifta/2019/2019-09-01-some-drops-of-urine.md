@@ -5,7 +5,7 @@ hijri: '1441-01-02'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 4279
 summary: Soon after I have performed Istinja' (cleansing the private parts with water)
   after urination, I feel some small drops of urine being emitted.
@@ -14,8 +14,6 @@ tags:
 title: Some drops of urine are released after Istinja
 translation: false
 ---
-
-
 ### Question : 
 
 Soon after I have performed Istinja' (cleansing the private parts with water) after urination, I feel some small drops of urine being emitted. What I do then is to change my underwear, although this is difficult to do each time I urinate. Would you please advise me as to what I am obligated to do, and may Allah reward you! 

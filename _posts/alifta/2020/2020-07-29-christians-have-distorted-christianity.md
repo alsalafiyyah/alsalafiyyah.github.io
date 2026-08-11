@@ -4,7 +4,7 @@ hijri: '1441-12-08'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 9643, Question 4
 summary: The Christians have distorted Christianity from the original religion revealed
   to their prophet, Jesus, peace be upon him. The evidence for this is their claims
@@ -14,8 +14,6 @@ tags:
 title: The distortion that Christianity underwent is confirmed
 translation: false
 ---
-
-
 ### Question: 
 
 Is the current religion followed by the Christians correct or distorted and what is the evidence for this from the Qur'an and the Sunnah?

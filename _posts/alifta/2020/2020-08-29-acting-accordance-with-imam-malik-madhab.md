@@ -12,14 +12,12 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah no. 2573
 summary: People differ in preparedness, knowledge, reasoning, and background; some
   are intelligent and others are simple, some are well educated and others are illiterate.
 title: Ruling on acting in accordance with Imam Malik's School of Jurisprudence
 ---
-
-
 Question: 
 
 A certain person strictly follows and urges others to follow the Madh-hab (School of Jurisprudence) of Imam Malik. He argues that:

@@ -9,14 +9,12 @@ muftis:
   - name: Permanent Committee
     url: /biography/alifta
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Islamiyah 3/247
 summary: When it is ruled that he is a disbeliever, then his fasting and other acts
   of worship are nullified.
 title: Ruling on fasting without praying
 ---
-
-
 ### Question: 
 I have witnessed some of the Muslim youth fasting, but they do not pray. Is the fast of the person who fasts but does not pray accepted? I have heard some of the preachers telling these youth to break their fast and not to fast, as he who does not pray has no fast.
 

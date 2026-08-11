@@ -4,7 +4,7 @@ hijri: '1441-12-07'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah no. 1304
 summary: 'The poem that was sent by the questioner shows that the one who wrote it
   was ignorant, as the things that he ascribes to himself are Kufr (disbelief) and
@@ -14,9 +14,6 @@ tags:
 title: Exaggeration of the Qadiriyyah Sufi order
 translation: false
 ---
-
-
-
 ### Question: 
 
 The questioner would like to be given a general idea about the Qadiriyyah Tariqah (Sufi order). He read one of the Qadiriyyah books: "Al-Fiyudat Al-Rabbaniyyah fi Al-Ma'athir wa Al-Awrad Al-Qadiriyyah", and saw a poem including some of the claims and feats performed by the shaykh of this Tariqah. He asks if what is said in this poem is true or untrue. The questioner sent the poem along with his question to ask for a general Fatwa (legal opinion issued by a qualified Muslim scholar) on it.

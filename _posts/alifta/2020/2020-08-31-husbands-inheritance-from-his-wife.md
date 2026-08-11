@@ -4,7 +4,7 @@ hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdullah ibn Ghudayyan
@@ -12,8 +12,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 14695-1
 title: A husband's inheritance from his wife
 ---
-
-
 Question:
 
 A woman was killed and her family accepted the Diyah (blood money). Can her husband inherit from this Diyah? We appreciate your guidance. May Allah guide you!

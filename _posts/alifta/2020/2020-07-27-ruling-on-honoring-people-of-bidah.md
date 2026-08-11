@@ -17,14 +17,12 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 20235
 summary: Sufism is a Bid'ah or innovation in Islam, and every Bid'ah is a means of
   going astray.
 title: Ruling on honoring the people of Bid'ah
 ---
-
-
 ### Question: 
 
 I would like to inform you that I work in the Province of Badr in Al-Madinah Al-Nabawiyyah. There, we found many young men who were guided, by Allah's Grace, and others who tended to draw nearer to the Sufis there to earn some money or acquire subsidies. They thus tend to honor these Sufis, prepare banquets and celebrations for them on the pretext that they make a lot of charitable acts in favor of the district.

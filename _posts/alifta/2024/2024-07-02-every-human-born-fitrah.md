@@ -9,7 +9,7 @@ hijri: '1445-12-26'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 18794 Question 1
 summary: Every child is born in a state of divinely endowed natural disposition of
   monotheism/Islam, then his parents make him into a Jew or a Christian or a Magian.
@@ -18,8 +18,6 @@ tags:
 title: Every human is born in a state of natural disposition of monotheism
 translation: false
 ---
-
-
 ### Question: 
 
 Is the religion one is born into the true one? 

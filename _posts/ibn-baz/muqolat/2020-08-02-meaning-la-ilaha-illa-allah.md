@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The meaning of 'La ilaha illa Allah'
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat 2/5
 hijri: '1441-12-12'
 date: 2020-08-02
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 All praise is due to Allah Alone, and may peace and blessings be upon the Noblest of the messengers, our Prophet Muhammad, his family, his Companions, and those who righteously follow them until the Day of Resurrection.
 
 I have read the article written by our brother in Islam, the eminent Shaykh 'Umar ibn Ahmad Al-Millibary on the meaning of "La ilaha illa Allah (there is no god but Allah)". I read the explanation of the Shaykh thoroughly on the three points of view regarding its meaning. The definitions are as follows:

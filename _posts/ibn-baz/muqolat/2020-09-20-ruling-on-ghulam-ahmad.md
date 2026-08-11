@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The Shari'ah ruling on Ghulam Ahmad Pervez
 hijri: '1442-02-03'
 lang: en
@@ -21,8 +21,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 All praise be to Allah Alone, and peace and blessings be upon His Messenger, and his family and Companions.
 
 I have reviewed the article published in Al-Hajj Magazine, in its second issue dated 16 Sha'ban, 1382 A.H., on the Fatwa request submitted to it by our fellow scholar, Shaykh Muhammad Yusuf Al-Banury, principal of the Arab Islamic School in Karachi, about the ruling of Shari'ah (Islamic law) regarding Ghulam Ahmad Pervez who has recently come into view in the lands of India, and regarding his beliefs, examples of which were presented by the reverend questioner. He also enquired about the religious ruling on those who follow, embrace, and call to such beliefs, and so on.

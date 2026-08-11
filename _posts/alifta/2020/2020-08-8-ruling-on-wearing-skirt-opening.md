@@ -5,14 +5,13 @@ hijri: Dhul-Hijjah 14, 1441
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no.4680
 summary: It is prohibited to wear clothes with drawings of beings with souls. This
   is based on the general prohibition on making Taswir of beings with souls or hanging
   their photos in the home.
 title: Ruling on wearing skirt's opening
 ---
-
 ### Question: 
 
 Fashion designs are rampant in the world today. Some women wear clothes that are zipped up at the back, others fasten belts round their waists, and others have the upper part of their bodies dressed in tight clothes while the lower part is dressed in loose clothes. There are also others who wear see-through or skintight clothes that reveal their shape to the point that they look like they are naked. Some women argue that the shaykhs have issued a Fatwa (legal opinion issued by a qualified Muslim scholar) that women may wear whatever they please. Sometimes they hear related Fatwas on the radio program Nur 'Ala Al-Darb (Light on the Way), permitting a woman to adorn herself with any kind of clothes she pleases in the presence of her husband, without detailing this matter. 

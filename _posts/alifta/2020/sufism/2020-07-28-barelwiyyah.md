@@ -4,7 +4,7 @@ hijri: '1441-12-07'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 3090
 summary: It is impermissible to offer Salah behind an Imam who adopts such beliefs.
   If the Ma'mum knows that the Imam adopts these beliefs, then the Salah of the former
@@ -14,9 +14,6 @@ tags:
 title: On The creed of Barelvis Sufi Order
 translation: false
 ---
-
-
-
 ### Question: 
 
 In Pakistan, there is an order known as the Barelvis (Bareilwi) or the order of Nawary, as named after its current leader Nuwary. I ask Your Eminence about the ruling of Shari'ah (Islamic law) on this order, its beliefs and the validity of offering Salah (Prayer) behind one of its members. May your answer relieve many confused hearts that are unaware of the truth! I again remind you of some of their common myths and beliefs, which are:

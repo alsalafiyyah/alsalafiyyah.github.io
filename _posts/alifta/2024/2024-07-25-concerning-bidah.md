@@ -8,15 +8,13 @@ muftis:
   shaykh:
   - name: Shaykh Ibn 'Uthaymeen
     url: /biography/uthaymeen
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Rasa'il, vol 2, no. 345
 summary: Bi'dah in reality are indirect criticisms of the Shari’ah; because they necessicate
   the implication that the Shar’iah is incomplete and that the innovation is a more
   perfect form of worship to seek nearness to Allaah as the innovator claims.
 title: Concerning bid'ah or innovations in the religion
 ---
-
-
 ### Question: 
 His eminence, Shaykh Muhammad Ibn Salih al-’Uthaymeen (may Allah have mercy on him) was asked concerning bid’ah (innovations).
 

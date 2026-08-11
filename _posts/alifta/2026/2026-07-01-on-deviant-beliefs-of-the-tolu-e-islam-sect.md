@@ -4,7 +4,7 @@ group5: true
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da’imah 2/117-120, Fatwa no. 21168
 summary: Whoever follows this sect Tolu-e-Islam, advocates for it, or beautifies its
   views to the people through any media is a disbeliever who has apostatized from
@@ -15,8 +15,6 @@ title: On the Deviant Beliefs of the Tolu-e-Islam Sect
 translation: false
 hijri: '1448-01-16'
 ---
-
-
 ### Question: 
 
 The organization "Tolu-e-Islam", which publishes a magazine in the Urdu language under the same name, "Tolu-e-Islam," are followers of a man named Ghulam Ahmed Perwez—one of the leaders of misguidance. He rejects the Sunnah, Islamic beliefs, and the religion itself, as is evident to you from the attached paper detailing some of his malicious beliefs. Since they have active operations in Kuwait, and we have heard they are also active in some other Gulf states, Pakistan, and other countries as well, we kindly request the issuance of a fatwa (legal Islamic ruling). This is so the general Muslim public may know their true reality and not be deceived by them, as they are unfortunately spreading ideas hostile to the Book of Allah and the Sunnah of the Messenger ﷺ, as well as blasphemous views, all under the name of Islam. Your honorable fatwa will have the greatest impact in putting an end to this malicious tribulation, establishing the truth, and destroying falsehood, Allah willing. May Allah, the Most Generous, reward you with the best of rewards for this. We also hope your fatwa will include the Islamic ruling regarding the Qadiyani (Ahmadiyya) sect, as they also have some activities in Kuwait and elsewhere. May Allah reward you with the best of rewards.

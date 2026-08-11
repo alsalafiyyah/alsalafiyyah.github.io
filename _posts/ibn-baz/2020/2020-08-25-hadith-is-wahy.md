@@ -7,7 +7,7 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat 9/462
 summary: As for the Hadith, Allah (Exalted be He) revealed them to the Prophet (peace
   be upon him) through Jibril. At other times, Jibril would assume the form of a human
@@ -15,8 +15,6 @@ summary: As for the Hadith, Allah (Exalted be He) revealed them to the Prophet (
   authority of 'Aishah (may Allah be pleased with her).
 title: Revelation of Hadith
 ---
-
-
 Question:
 
 Your Eminence, Shaykh 'Abdul-'Aziz ibn 'Abdullah ibn Baz (may Allah protect you from every evil), would you kindly answer my question! As-salamu 'alaykum warahmatullah wabarakatuh (May Allah's Peace, Mercy, and Blessings be upon you!) Allah (Glorified and Exalted be He) revealed the Qur'an to the Messenger of Allah (peace be upon him) through the Wahy (Revelation). How was the Hadith revealed?

@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Jarh wa Ta'dil and investigating Hadith still remain
 hijri: '1442-03-14'
 source: Published in Al-Riyadh newspaper, issue no. 10736, dated 19/8/1418 A.H
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 Your Eminence, concerning Takhrij (referencing) of a Hadith, Ta'dil (validating the uprightness of Hadith narrators) and Jarh (criticism of Hadith narrators), some people think that the field of Jarh and Ta'dil is completely closed or that it finished long ago. What is your opinion on this matter?  

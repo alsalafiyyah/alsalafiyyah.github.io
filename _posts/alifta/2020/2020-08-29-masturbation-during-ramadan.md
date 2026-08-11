@@ -4,7 +4,7 @@ hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-'Aziz ibn Baz
 - Shaykh Abdul-Razzaq al-Afifi
@@ -17,8 +17,6 @@ summary: Masturbation is prohibited, as it involves drawing sexual pleasure in a
   that Allah has made unlawful.
 title: Ruling on masturbation during Ramadan
 ---
-
-
 ### Question: 
 I am a young man in the habit of masturbating. I masturbated on one of the days of Ramadan. What should I do to expiate for my sin on that day?
 

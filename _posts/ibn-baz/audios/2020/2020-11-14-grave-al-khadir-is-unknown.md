@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exposition that the exact location of the grave of Al-Khadir is unknown
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_811/nour_81107.mp3
 hijri: '1442-03-28'
 date: 2020-11-14
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 
 There is a mausoleum in our residential district where people claim the body of Al-Khadir (peace be upon him) is buried. When visiting this mausoleum, people bring with them candles and sweets. When they enter, they light the candles and start to invoke Al-Khadir and make vows to him. Is that considered to be an act of Bid ah (innovation in religion)?

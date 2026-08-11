@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Meaning of denying Al-Taghut (false deities)
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_739/nour_73903.mp3
 hijri: '1442-03-22'
 date: 2020-11-08
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 What is the meaning of denying Al-Taghut (false deities)? May Allah reward you best.
 

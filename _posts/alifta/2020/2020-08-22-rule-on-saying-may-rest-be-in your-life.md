@@ -4,7 +4,7 @@ hijri: '1442-01-03'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com, salafiyyah@outlook.sa
+publisher: alsalafiyyah.manhaj@gmail.com, salafiyyah@outlook.sa
 shaykhs:
 - Shaykh Ibn Baz
 - Shaykh Abdul-Aziz Aal Al-Shaykh
@@ -17,8 +17,6 @@ summary: Is it permissible to say to the family of the deceased May the rest be 
 title: 'Ruling on offering condolences to the deceased''s family to say: may rest
   be in your life'
 ---
-
-
 ### Question: 
 Is it permissible to say to the family of the deceased: "May the rest be in your life"? What is the Islamic ruling regarding this?
 

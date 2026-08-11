@@ -16,14 +16,12 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 7994, Question 4
 summary: You should protect yourself and stay away from the avenues leading to Zina
   and hasten to get married if you can; otherwise, you should observe fast.
 title: Ruling on paying the woman money to have intercourse
 ---
-
-
 ### Question: 
 I am an unmarried man; I fear committing sins. What is the ruling if I give a woman a sum of money to kiss and have sexual intercourse with her considering this money to be a Mahr (mandatory gift to a bride from her groom)
 

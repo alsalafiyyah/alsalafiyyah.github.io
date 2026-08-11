@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: What is the future of occupied Jerusalem?
 date: 2024-08-23
 active: audios
@@ -19,8 +19,6 @@ muftis:
     url: /biography/albani
 hijri: '1446-02-19'
 ---
-
-
 ### Question: 
 
 A key point, what is the future of occupied Jerusalem and its destination after the peace treaty with the Jews?

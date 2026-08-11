@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-08-08
 hijri: '1448-02-25'
 title: Ruling on Reading the Qur'an from Mobile Phones
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Salih al-Fawzan
     url: /biography/fawzan/
 ---
-
-
 ### Question: 
 
 What is the ruling on reading the Quran from a mobile phone?

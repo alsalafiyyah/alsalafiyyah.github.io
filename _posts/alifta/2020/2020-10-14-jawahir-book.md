@@ -15,7 +15,7 @@ muftis:
   members:
   - name: Shaykh Abdullah Ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-lajnah Al-Da'imah of KSA no. 9897-1
 summary: The book of Al-Jawahir fi 'Uqubat Ahl Al-Kaba'ir by Shaykh Zayn Al-Din Al-Malibary
   is not considered a reliable source with regard to rulings, distinguishing between
@@ -23,8 +23,6 @@ summary: The book of Al-Jawahir fi 'Uqubat Ahl Al-Kaba'ir by Shaykh Zayn Al-Din 
 title: 'The book: ''Al-Jawahir by Shaykh Zayn Al-Din Al-Malibary'' is not considered
   a reliable source'
 ---
-
-
 Question : 
 
 Attached to my letter is a booklet called Al-Jawahir fi 'Uqubat Ahl Al-Kaba'ir. I have read the entire booklet which quotes many Hadith and sayings that state the rewards and punishments such as the reward for Ruku' (bowing), Sujud (prostration), reciting Surah Al-Fatihah, and saying Subhana Rabiya Al-A'la i.e. "Glory be to Allah, the Most High" and Subhana Rabiya Al-'Azhim i.e. "Glory be to Allah, the All-Mighty" inside the Salah (Prayer). The foregoing example is in the middle of the eleventh page while there are so many other examples spread in various places of the booklet. My question is whether all that is mentioned in this booklet is considered authentic and reliable that you advise me to follow and use as a reference. May Allah guide us all to whatever He is pleased with. 

@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Ibn Taymiyyah did not approve celebrating the Prophet's Mawlid
 hijri: '1442-01-29'
 lang: en
@@ -16,9 +16,6 @@ muftis:
   - name: Shaykh Ibn Baz
     url: /biography/binbaz/
 ---
-
-
-
 ### Question:
 
 Brother A.M.M. From Kuwait says: "One of the scholars said that Ibn Taymiyyah (may Allah be merciful to him) approved celebrating the Mawlid (the Prophet's birth day). Is it a sound saying?""

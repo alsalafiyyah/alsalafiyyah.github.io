@@ -4,7 +4,7 @@ hijri: '1442-01-08'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-'Aziz ibn 'Abdullah ibn Baz
 - Shaykh Abdul-Razzaq al-Afify
@@ -13,8 +13,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 6257-3
 title: Isa (Jesus, peace be upon him) was not killed or crucified
 ---
-
-
 Question: 
 
 Is it true that `Isa (Jesus, peace be upon him) is still alive in the third heaven? Was he not crucified? Will he return to earth once again? Will he return as a prophet or as an ordinary person?

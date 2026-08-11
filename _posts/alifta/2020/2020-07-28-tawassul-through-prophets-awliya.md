@@ -5,14 +5,12 @@ hijri: '1441-12-07'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 2961, Question 1
 summary: What is the Islamic ruling on supplicating to Allah through a means through
   prophets and pious people?
 title: Ruling on tawassul through prophets and Awliya
 ---
-
-
 ### Question: 
 What is the Islamic ruling on Tawassul (supplicating to Allah through a means) through prophets and Awliya' (pious people)?
 

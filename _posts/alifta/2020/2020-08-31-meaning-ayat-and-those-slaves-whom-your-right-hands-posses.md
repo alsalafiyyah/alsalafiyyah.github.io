@@ -14,7 +14,7 @@ muftis:
   - name: Shaykh Abdullah ibn Ghudayyan
     url: /biography/ghudayyan/
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah of KSA no. 6356-4
 summary: It is not permissible for the master of a male or female bondservant to treat
   them according to his desire or mere opinion; but he must be just as ordained by
@@ -23,8 +23,6 @@ title: 'Meaning of the Qur''anic verse: ''...and those (slaves) whom your right 
   possess'''
 uid: meaning-ayat-and-those-slaves-whom-your-right-hands-posses
 ---
-
-
 Question: 
 
 Concerning the meaning of Allah's statement: "**(the slaves) that your right hands possess.**" [al-Nisa: 3] Is it permissible for the master to behave as he likes with those he possesses without any restrictions or accountability? Suppose that I own a maidservant and at the same time I own her husband, am I permitted to act as I like with them? What is the limit of my authority over them?

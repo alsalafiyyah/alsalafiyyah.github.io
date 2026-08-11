@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on a husband who treats his wife unjustly
 hijri: '1442-03-21'
 source: Fatawa Al-Shaykh Ibn Baz 8/395
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 
 I was married twenty-five years ago; I have a number of sons and daughters. I face a lot of problems with my husband, because he humiliates me a lot in front of my children and in front of relatives and strangers. He does not respect me at all, for no reason. I can only relax when he is outside the home. Please note that this man offers Salah (Prayer) and fears Allah. I hope that you can tell me the right thing to do. May Allah reward you with the best! 

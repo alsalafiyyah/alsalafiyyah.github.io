@@ -4,7 +4,7 @@ hijri: '1441-11-20'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatwas of the Permanent Committee of KSA, Fatwa no.16098, Question 2
 summary: It is not permissible to make a pledge of allegiance to anyone except to
   a Muslim ruler. It is not permissible to make it to the shaykh of a Sufi order or
@@ -15,9 +15,6 @@ tags:
 title: The Ruling on pledge taken from a Sufi Shaykh
 translation: false
 ---
-
-
-
 ### Question: 
 
 What is the ruling of Islam on the pledge that we make to the shaykh of a Tariqah (Sufi order)? Will we be considered disobeying the Qur'an and the Sunnah (whatever is reported from the Prophet) if we break it? 

@@ -8,7 +8,7 @@ hijri: '1442-01-13'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com, Instagram@Alsalafiyyah
+publisher: alsalafiyyah.manhaj@gmail.com, Instagram@Alsalafiyyah
 source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 5775, Question 2
 summary: Is the Hadith that says 'There will come a day when Muslims will gain victory
   over the Jews, and then a stone behind which a Jew may hide, will speak and call
@@ -16,8 +16,6 @@ summary: Is the Hadith that says 'There will come a day when Muslims will gain v
 title: 'Concerning the Hadith: ''You will fight against the Jews and you will gain
   victory over them'''
 ---
-
-
 ### Question:
 
 Is the Hadith that says: **"There will come a day when Muslims will gain victory over the Jews, and then a stone behind which a Jew may hide, will speak and call the believer to go and kill the Jew hiding behind it"** authentic?

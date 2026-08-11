@@ -18,15 +18,13 @@ muftis:
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 20400, Question 2
 summary: It is not permissible to accept or make use of the gifts given by disbelievers
   to Muslims on their festivals and religious occasions.
 title: Ruling on presents given by disbelievers and worshippers of idols to Muslims
   in their festivals
 ---
-
-
 ### Question: 
  
 In India some festivals related to the Hindus (worshippers of idols) are celebrated. As I am their neighbor they present me with some desserts like those Muslims served in the blessed 'Eid-ul-Fitr (the Festival of Breaking the Fast). There are different opinions regarding accepting these desserts; some people consider eating them permissible on the grounds that they are not meat. Others view that eating these desserts is Haram (prohibited) on the grounds that they were dedicated to other than Allâh. It should be noted that these desserts are not homemade; rather they are purchased from the stores. Please inform me of what should be done.

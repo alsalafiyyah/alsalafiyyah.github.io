@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: There is no way to achieve that unless advice is exchanged
 hijri: '1441-11-30'
 source: Fatawa Al-Shaykh Ibn Baz vol 7, question 5
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 
 Since its establishment, the Kingdom of Saudi Arabia has applied the Shari'ah of Allah and ruled according to His Legislations. What is our duty towards this responsibility? 

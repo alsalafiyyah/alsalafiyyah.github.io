@@ -7,15 +7,13 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat 5/298 question 2
 summary: I advise Muslim men and women to abstain from listening to songs, for they
   lead to great dangers. Nowadays, songs are everywhere on the radio, TV, tapes and
   it is a trial to Muslims.
 title: Ruling on listening to songs
 ---
-
-
 Question:
 
 Many men and women are fond of songs, what is the ruling on listening to songs? Please advise.

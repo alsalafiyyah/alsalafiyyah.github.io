@@ -4,7 +4,7 @@ hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-'Aziz ibn Baz
 - Shaykh Abdul-Razzaq al-Afify
@@ -15,8 +15,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 16540
 title: Ruling on missing the Fajr prayer due to practicing masturbation
 ---
-
-
 Question: 
 
 I have neglected offering the Fajr (Dawn) Prayer at its due time for five times because of practicing masturbation, which brings about a feeling of laziness after which I remain in bed until the time of Prayer is over. When I wake up, I ask for Allah's Forgiveness and perform the other Obligatory Daily Prayers at their fixed times. I fear that I may fall under the category of men described in the following Hadith in which the Messenger (peace be upon him) said: "**A man would be a believer in the evening and a disbeliever in the morning or he would be a believer in the morning and a disbeliever in the evening.**" [^1] 

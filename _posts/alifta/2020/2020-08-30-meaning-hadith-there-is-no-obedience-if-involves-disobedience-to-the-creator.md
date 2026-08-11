@@ -17,7 +17,7 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdul-Aziz Aal al-Shaykh
@@ -31,8 +31,6 @@ summary: 'Is the following Hadith considered Sahih (authentic): ''There is no ob
 title: 'The Hadith: ''There is no obedience to a creature if it involves disobedience
   to the Creator'''
 ---
-
-
 Question: 
 
 Is the following Hadith considered Sahih (authentic): "**There is no obedience to a creature if it involves disobedience to the Creator.**"? Please mention the narrator and Sanad (chain of narrators) of this Hadith?

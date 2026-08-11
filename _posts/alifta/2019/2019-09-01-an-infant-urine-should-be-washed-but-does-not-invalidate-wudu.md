@@ -5,7 +5,7 @@ hijri: '1441-01-02'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 6505, Question 17
 summary: I performed ablution for prayer, then I held a baby that stained my clothes
   with urine.
@@ -14,8 +14,6 @@ tags:
 title: An infant's urine should be washed but does not invalidate ablution
 translation: false
 ---
-
-
 ### Question : 
 
 I performed Wudu' (ablution) for Salah (prayer), then I held a baby that stained my clothes with urine. I washed the spot stained with urine and offered Salah without repeating Wudu'. Is my prayer valid? 

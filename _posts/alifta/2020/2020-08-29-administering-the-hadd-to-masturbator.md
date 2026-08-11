@@ -4,7 +4,7 @@ hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-'Aziz ibn Baz
 - Shaykh Abdul-Razzaq al-Afify
@@ -15,8 +15,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 16368-1
 title: Administering the Hadd to the masturbator
 ---
-
-
 Question: 
 
 Due to the high expenses of marriage, some youth resort to masturbation; what is the ruling on this? Will such a person be an adulterer and is there any Hadd (ordained punishment for violating Allah’s Law) that must be executed in such a case?

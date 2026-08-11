@@ -5,14 +5,12 @@ hijri: '1446-03-20'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.18807
 summary: Selling decorative birds like parrots, colorful birds and nightingales for
   their voices is permissible because looking at and listening to them is permissible.
 title: Islamic ruling on dealing in and buying animals for hobby or decorative purposes
 ---
-
-
 ### Question: 
 
 I would like to ask your Eminence about the ruling on trading in and possessing animals and birds for the purpose of having a hobby or for decorative purposes. These include for example: 

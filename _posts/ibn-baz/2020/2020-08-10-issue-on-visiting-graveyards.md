@@ -9,14 +9,12 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa 28/334
 summary: Common people from among the Sufis attend the celebration of the Prophet's
   birth, believing that these celebrations constitute (true) Islam.
 title: Issue On Visiting Graveyards
 ---
-
-
 ### Question: 
 Dear Shaykh, Common people from among the Sufis attend the celebration of the Prophet's birth, believing that these celebrations constitute (true) Islam, i.e. they think that this is the core of Islam, religion and worship. They thus travel to shrines and graves believing that this is part of the religion. So, what is the ruling on this? 
 

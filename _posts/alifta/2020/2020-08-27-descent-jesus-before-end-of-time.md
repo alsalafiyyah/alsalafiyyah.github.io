@@ -5,15 +5,13 @@ hijri: '1442-01-08'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah no. 1621-3
 summary: Yes, Prophet 'Isa, the Son of Maryam (Mary), will come down to the earth
   again at the end of time. He will rule according to the Shari`ah of Prophet Muhammad
   (peace be upon him)
 title: The descent of Jesus before the end of the time
 ---
-
-
 ### Question: 
 
 Supposing that Prophet 'Isa (Jesus) (peace be upon him) is alive now, will he descend at the end of time and rule over people according to the religion of Muhammad (peace be upon him)? If so, what is your proof and how can we refute those who claim this statement is invalid?

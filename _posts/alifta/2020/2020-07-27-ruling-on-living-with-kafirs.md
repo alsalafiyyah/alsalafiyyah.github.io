@@ -15,14 +15,12 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 2165, Question1
 summary: Shari'ah is based on providing ease, tolerance and avoiding hardship. Thus,
   you may continue living with them as you cannot live alone.
 title: Ruling on living with non-Muslims
 ---
-
-
 ### Question: 
 
 I live with ten colleagues of various nationalities, including nine Christians and one atheist. We have our main meal together on one table. The meal is prepared alternately by two students. Is it permissible to eat with them, bearing in mind that it is beyond my financial ability and student conditions to live alone?

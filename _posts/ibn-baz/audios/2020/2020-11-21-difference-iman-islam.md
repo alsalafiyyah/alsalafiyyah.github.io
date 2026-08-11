@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Difference between Iman and Islam
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/%D8%A7%D9%84%D9%81%D8%B1%D9%82%20%D8%A8%D9%8A%D9%86%20%D8%A7%D9%84%D8%A5%D9%8A%D9%85%D8%A7%D9%86%20%D9%88%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85.mp3
 hijri: '1442-04-06'
@@ -22,8 +22,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 What is the difference between Iman and Islam? 
 

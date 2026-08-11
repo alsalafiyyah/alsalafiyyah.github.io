@@ -17,14 +17,12 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 19991
 summary: It is not permissible for Muslims to take part with the Hindu disbelievers
   in celebrating their festivals and religious occasions.
 title: Ruling on students congratulating Hindu teachers on their feasts
 ---
-
-
 ### Question: 
 
 All our teachers are Hindu and many of their festivals and religious ceremonies come up on which all the students greet and congratulate them. We find it embarrassing not to greet them, so what should we do? Should we greet them or not? Would you please help us, may Allah grant you all goodness.

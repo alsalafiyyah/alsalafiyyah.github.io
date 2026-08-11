@@ -4,7 +4,7 @@ hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz Aal al-Shaykh
 - Shaykh Abdullah ibn Ghudayyan
@@ -13,8 +13,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 21667
 title: Ruling on health Insurance
 ---
-
-
 Question: 
 
 Someone has a dispensary and used to conclude contracts with some companies to treat their employees for a specific amount of money per year. The employees of the contracting companies have the choice to go every now and then without a minimum or maximum limit for their visits. Is this contract Islamically valid? I hope Your Eminence will clarify the issue for me. May Allah grant us all success and guide your steps for He is All-Hearing, All-Answering.

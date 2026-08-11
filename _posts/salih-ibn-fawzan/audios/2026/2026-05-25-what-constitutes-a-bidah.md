@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-25
 title: What Constitutes a Bidʿah?
 category:
@@ -21,8 +21,6 @@ muftis:
     url: /biography/fawzan/
 hijri: '1447-12-08'
 ---
-
-
 ### Question: 
 
 The questioner asks: Are there levels and degrees to bid'ah (religious innovations), and when should the perpetrator of an innovation be boycotted?

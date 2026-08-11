@@ -15,14 +15,12 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Daimah no. 4875
 summary: What are the causes of disagreement in legal opinions among Imams Malik,
   Al-Shafi'i and Ahmad ibn Hanbal (may Allah be Merciful with them)?
 title: Reason behind disagreement among Imams Malik, Ahmad and Al-Shafi'i
 ---
-
-
 Question:
 
 What are the causes of disagreement in legal opinions among Imams Malik, Al-Shafi'i and Ahmad ibn Hanbal (may Allah be Merciful with them)?

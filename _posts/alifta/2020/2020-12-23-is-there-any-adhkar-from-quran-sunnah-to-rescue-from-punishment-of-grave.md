@@ -15,7 +15,7 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 8864, Question 3
 summary: Fulfilling the obligations which Allah has ordained upon His servants, refraining
   from what He has prohibited, repentance and seeking forgiveness frequently, good
@@ -24,8 +24,6 @@ summary: Fulfilling the obligations which Allah has ordained upon His servants, 
 title: Is there any Adhkar from the Qur'an and the Sunnah that can be said to rescue
   one from the punishment of the grave?
 ---
-
-
 ### Question:
 
 What is the evidence from the Qur'an and the Sunnah showing that certain things can protect people from the punishment in the grave? Are there any Dua's (supplications) said on a daily basis to protect us from the punishment in the grave? I read a Hadith that recommends reciting Surah Al-Mulk on a daily basis; how many times and when should it be recited? Thank you. 

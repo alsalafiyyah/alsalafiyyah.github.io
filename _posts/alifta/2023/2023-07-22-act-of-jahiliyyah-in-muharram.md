@@ -13,7 +13,7 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Question 3
 summary: This habit is an invented practice from Jahiliyyah and it is not permissible
   for a Muslim to do it.
@@ -22,8 +22,6 @@ tags:
 title: Act of Jahiliyyah in Muharram
 translation: false
 ---
-
-
 ###### Question:
 
 During the month of Muharram, women go to the house of a newly married woman and bring water with them. They wear thick clothes to protect themselves against the cold and splash some of that water over the newly married woman and pour the rest over themselves, including young and old women. They do this every year. When we ask them to give up this action, they say that it is part of their habits and traditions.

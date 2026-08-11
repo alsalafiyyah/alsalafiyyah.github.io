@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-08-08
 hijri: '1448-02-25'
 title: Is the Salary of Someone Who Sells Tobacco Halal or Haram?
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Salih al-Fawzan
     url: /biography/fawzan/
 ---
-
-
 ### Question: 
 
 I work as an accountant in a grocery store and am forced to sell tobacco. Is my salary halal (lawful) or haram (unlawful)? And am I sinning?

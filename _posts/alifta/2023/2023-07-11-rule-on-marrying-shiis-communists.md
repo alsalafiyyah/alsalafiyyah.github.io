@@ -17,7 +17,7 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da’imah 18/298-300, Fatwa no. 20011
 summary: It is not permissible to give the daughters of Sunni families in marriage
   to the sons of Shi’is or Communists. If the marriage takes place, it is invalid.
@@ -27,8 +27,6 @@ title: It is not permissible to give the daughters of Sunni families in marriage
   the sons of Shi’is or Communists
 translation: false
 ---
-
-
 ### Question: 
 
 Allah decreed that a Kurdish man who claims to be a Sunni and is outwardly righteous should propose marriage to me. His name is Haydar ‘Abdul-Husayn Al-Jabiri. He accompanied my father for several months, during which he was hosted by my father. During this period he was of good character and religiously committed, and he presented himself to my father as being a Sunni, and he attacked the Shi’ah openly. Based on what my father saw of his righteousness and piety, my father agreed to give me in marriage to him. After the marriage contract was done and he consummated the marriage with me, he announced that he was not a Sunni; rather he was a fanatical Shi’i. When we asked him to come back to Islam and to the way of Ahl Al-Sunnah wal-Jama’ah, and we put pressure on him, he said: **"I am neither Sunni nor Shi’i, I am a communist! (i.e., an atheist)."**

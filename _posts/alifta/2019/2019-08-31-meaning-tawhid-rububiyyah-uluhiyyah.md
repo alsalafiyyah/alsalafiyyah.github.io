@@ -14,7 +14,7 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Ghudayyan
     url: /biography/ghudayyan
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-lajnah Al-Da'imah, Fatwa no.11843 Question 1
 summary: The meaning of Tawhid-ul-Rububiyyah is the ascription of all Acts of Allah
   to none but Him Alone.
@@ -23,8 +23,6 @@ tags:
 title: The meaning of Tawhid Rububiyyah and Tawhid Uluhiyyah
 translation: false
 ---
-
-
 ### Question: 
 
 What is the meaning of Tawhid-ul-Rububiyyah and Tawhid-ul-Uluhiyyah?

@@ -18,14 +18,12 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/zayd/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah no. 21104, Question 1
 summary: Is pulling out natural teeth and replacing them with artificial ones considered
   an offence of trying to change the creation of Allah?
 title: Treating tooth problems
 ---
-
-
 ### Question:
 Is pulling out natural teeth and replacing them with artificial ones considered an offence of trying to change the creation of Allah? 
 

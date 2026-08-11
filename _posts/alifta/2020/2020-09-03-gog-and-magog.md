@@ -15,14 +15,12 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 18645, Question 1
 summary: Ya'juj and Ma'juj are two great nations from the descendents of Prophet Adam.
   At the end of time, they will emerge and will cause mischief.
 title: Gog and Magog
 ---
-
-
 ### Question: 
 
 Are Ya'juj and Ma'juj (Gog and Magog) from Banu Adam (human beings, descendents from Prophet Adam)? 

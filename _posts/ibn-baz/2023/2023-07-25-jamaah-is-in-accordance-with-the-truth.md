@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The Jama'ah Is What Conforms To The Truth Even If You Are Alone
 hijri: '1445-01-07'
 source: Majmu’ Fatawa 8/179
@@ -17,8 +17,6 @@ muftis:
   - name: Shaykh Ibn Baz
     url: /biography/binbaz/
 ---
- 
-
 ### Question: 
 
 There are some who say that the groups which we are commanded to shun in the hadith of Hudhayfah are the Islamic groups such as the Salafis, the Ikhwan (Muslim Brotherhood, Al-Ikhwan Al-Muslimun) and the Tablighis (Jama'at Al-Tabligh). What do you say concerning that?

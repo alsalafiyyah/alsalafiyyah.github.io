@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Is Wahhabism a fifth Madhab?
 source: Majmu' Fatawa al-Shaykh Ibn Baz 1/374-375
 hijri: '1441-11-27'
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 
 What is Wahhabism? Is it a fifth madhhab (school of thought), or does it follow one of the four madhhab?

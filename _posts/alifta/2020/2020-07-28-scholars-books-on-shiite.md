@@ -4,7 +4,7 @@ hijri: '1441-12-07'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 7308, Question 1
 summary: Shiites have numerous sects, some are extremists and others are not. Hence,
   we recommend you read books written by scholars about their sects and the 'Aqidah
@@ -14,8 +14,6 @@ tags:
 title: Scholars' books on Shiite 'Aqidah and their details
 translation: false
 ---
-
-
 ### Question: 
 
 What is the Shiite 'Aqidah (creed)? Please clarify as much as possible.

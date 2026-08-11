@@ -13,14 +13,12 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA no. -12
 summary: It is permissible for Muslims to work in non-Muslim countries if they feel
   safe in themselves from temptation in their religion.
 title: Ruling on a Muslim working in non-Muslim country
 ---
-
-
 ### Question: 
  
 Is it permissible for Muslims to work in non-Muslim countries and can we relate this to the work that Prophet Yusuf (Joseph, peace be upon him) was doing?

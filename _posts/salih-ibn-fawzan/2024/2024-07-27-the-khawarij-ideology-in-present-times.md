@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The ideology of the Khawarij in present times
 date: 2024-07-27
 hijri: '1446-01-21'
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Salih Al-Fawzan
     url: /biography/fawzan
 ---
-
-
 ### Question:
 
 Are there people in this day and age who carry the ideology of the Khawarij?

@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on using phrase 'peace be upon him' to anyone other than the Messenger
 hijri: '1442-04-01'
 source: Fatawa Al-Shaykh Ibn Baz p. 6/501
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 
 While reviewing the topics in the book "'Aqd Al-Durar fi Akhbar Al-Muntadhar", I found some narrations reported on the authority of 'Ali ibn Abu Talib as follows: On the authority of 'Ali ibn Abu Talib (peace be upon him) who narrated that the Messenger of Allah (peace be upon him) said: "**One of my family will come out in nine banners. (i.e. detachments).**" What is the ruling on saying "peace be upon him" and the like phrases when referring to people other than the Messenger (peace be upon him)? 

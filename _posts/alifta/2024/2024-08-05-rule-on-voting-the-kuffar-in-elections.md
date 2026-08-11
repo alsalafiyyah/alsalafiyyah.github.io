@@ -6,7 +6,7 @@ lang: en
 layout: post
 mass_edited: true
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah 1/790, Fatwa no.7796 , Question 3
 summary: Never will Allah grant to the disbelievers a way to triumph over the believers.
 tags:
@@ -14,8 +14,6 @@ tags:
 title: Ruling on voting the kuffar in elections
 translation: false
 ---
-
-
 ### Question: 
 
 Is it permissible for a Muslim to vote in elections? If yes, is it permissible for them to vote for Kuffar (disbelievers)?

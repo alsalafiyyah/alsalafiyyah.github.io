@@ -4,7 +4,7 @@ hijri: '1441-12-07'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 3008, Question 1
 summary: 'It is not permissible to allow them to marry Muslim women, and it is not
   permissible for us to marry their women, or to eat the meat of their sacrificed
@@ -15,8 +15,6 @@ title: Ruling on marrying from those who invoke Al-Hasan, Al-Husayn and 'Ali apa
   from Allah
 translation: false
 ---
-
-
 ### Question: 
 
 We are from a tribe living on the northern borders (of Saudi Arabia), and we mix with tribes from Iraq . Those people are idolatrous Shiites who worship shrines and call them Al-Hasan, Al-Husayn and 'Ali. When one of them stands up he says: O 'Aly, O Husayn. 

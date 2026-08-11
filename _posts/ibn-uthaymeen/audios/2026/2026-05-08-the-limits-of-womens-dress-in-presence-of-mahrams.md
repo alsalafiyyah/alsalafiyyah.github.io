@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-08
 hijri: '1447-11-21'
 title: The Limits of Women's Dress in the Presence of Mahrams
@@ -21,8 +21,6 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 ### Question: 
 
 Is it permissible for a woman to uncover parts of her body, such as her legs, chest, or similar areas, in the presence of her Mahrams, such as her sons, brothers, and others? Furthermore, is there a distinction in this regard between male and female Mahrams, considering that exposing such parts of the ‘Awrah (private areas) may trigger latent instincts, especially among adolescents?

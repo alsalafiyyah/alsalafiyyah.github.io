@@ -5,14 +5,12 @@ hijri: '1441-11-25'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatwas of the Permanent Committee of KSA no.5275 question 1
 summary: The habit of holding Ma'tam and staying to meet people who come for consolation
   is a type of Bid'ah.
 title: Ruling on sleeping on the ground for forty days as mourning over the dead
 ---
-
-
 ### Question: 
 
 What is the Islamic method for holding a Ma'tam (mourning assembly)? In the Sudanese rural areas, most relatives and neighbors of the dead person usually sleep on the ground for forty days in mourning for the dead and do not apply perfume during this period. They slaughter animals as Sadaqah (voluntary charity) a week after his death. Would you please explain to us the legal point of view in this regard?

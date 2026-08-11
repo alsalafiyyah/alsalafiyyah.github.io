@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-04-20
 hijri: '1447-11-03'
 title: 'The Path of Innovation: Sufism'
@@ -21,8 +21,6 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 ### Question: 
 
 This episode begins with a letter received from a listener named Nizamuddin, a Pakistani national. He asks: O Eminent Sheikh, what is your opinion regarding Sufism (Tasawwuf) and the Sufis? This is in light of the fact that Islamic history has preserved for us—without limit—graduates of Sufism who were men whom 'neither commerce nor sale could divert from the remembrance of Allah.' This is a reality that requires no further investigation, so we hope for your response regarding this?

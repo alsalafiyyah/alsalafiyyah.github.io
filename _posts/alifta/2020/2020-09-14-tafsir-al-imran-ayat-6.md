@@ -16,7 +16,7 @@ muftis:
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatwas of the Permanent Committee no. 1542-2
 summary: Allah is the All-Wise in His disposing of affairs, in His creation and in
   His legislation. This also refutes the allegations of the Christians who allege
@@ -25,8 +25,6 @@ summary: Allah is the All-Wise in His disposing of affairs, in His creation and 
 title: Tafsir Surah Aal Imran Ayat 6
 uid: tafsir-al-imran-ayat-6
 ---
-
-
 Question:
 
 What is the Tafsir (explanation/exegesis) of the Ayah (Quranic Verse): "**He it is Who shapes you in the wombs as He wills. Lâ ilâha illa Huwa (none has the right to be worshipped but He), the All-Mighty, the All-Wise.**" [Aal Imran, 3:6]?

@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on wearing gloves while praying
 hijri: '1442-04-02'
 date: 2020-11-17
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 Abdullah Abu Omar from Jordan asks: In winter, my hands become very cold, can I wear woolen gloves while praying? Does this contradict (the rule that a praying person should prostrate) on the seven organs, including the hands? 
 

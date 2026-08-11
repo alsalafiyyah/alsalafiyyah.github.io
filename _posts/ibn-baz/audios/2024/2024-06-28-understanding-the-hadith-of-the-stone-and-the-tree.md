@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Understanding the Hadith of the Stone and the Tree
 date: 2024-06-28
 hijri: '1445-12-22'
@@ -23,8 +23,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 
 Also, Muhammad Taha from Syria has another question, saying: The Prophet ﷺ said: "You will fight the Jews and you will be victorious over them." He says that he expects that if this Hadith is authentic, the era we are living in now is the era the Prophet ﷺ is talking about, so what is your opinion? Please explain this Hadith to me, because there is always verbal dispute among us regarding it. May Allah grant you success.

@@ -15,7 +15,7 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Daimah no. 21672, question 4
 summary: The covering of the Ka'bah is a well known practice centuries before the
   Mission of the Prophet. However, the historians differed concerning the first to
@@ -26,8 +26,6 @@ title: Was the Ka'bah clad with a covering at the time of the Messenger (peace b
   upon him)?
 translation: false
 ---
-
-
 ### Question: 
 
 Was the Ka'bah clad with a covering at the time of the Messenger of Allah (peace be upon him)? When did this practice begin? Who was the first person to clothe the Ka'bah with such covering? Why? This question was raised when elaborating on the definition of Bid'ah (innovation in religion)? I replied to him with the Messenger's Hadith: "**Anyone who does a deed which is not congruent with our affair (Islam), that (deed) is to be rejected.**" [^1] He again asked: Was the covering of the Ka'bah provided by the order of the Prophet or during later times?

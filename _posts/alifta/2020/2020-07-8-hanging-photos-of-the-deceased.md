@@ -5,7 +5,7 @@ hijri: Dhul-Qa'dah 7, 1441 AH
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah al-Da'imah, Fatwa no.5088, Question 5
 summary: It is impermissible to hang pictures of animate objects at home or elsewhere;
   whether they are living or dead people, and whether as memories or otherwise.
@@ -14,7 +14,6 @@ tags:
 title: Ruling on hanging photos of the deceased at home
 translation: false
 ---
-
 ### Question:
 
 Is it Haram (prohibited) to hang a photo in the home of one that died? Is it Haram to collect and keep photos of those who have passed away? 

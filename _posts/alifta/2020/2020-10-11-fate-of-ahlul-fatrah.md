@@ -13,7 +13,7 @@ muftis:
   members:
   - name: Shaykh Abdullah Ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah no. 6397-5
 summary: As for those whom Da'wah has not reached in an uncorrupted manner, they are
   left to the Will of Allah. The most authentic opinion of the scholars about them
@@ -21,8 +21,6 @@ summary: As for those whom Da'wah has not reached in an uncorrupted manner, they
   while those who disobey will enter Hellfire.
 title: The fate of Ahl Al-Fatrah
 ---
-
-
 Question:
 
 A young intellectual Buddhist lady has recently embraced Islam after seven years of extensive research, and she is now performing Da'wah (calling to Islam). Some men and women embraced Islam thanks to her Da'wah. During one of her trips to introduce Islam in a distant area, a Budhist asked her, "**How can you, Muslims, be certain that non-Muslims will go to Hellfire, although we in this region have never heard about Islam before? Are our parents going to go to Hellfire? How is it their fault if you, Muslims, have not conveyed the true religion to us?**" This lady called us and asked us to provide a satisfactory answer to that man's inquiry, given that he has embraced Islam after this meeting.  

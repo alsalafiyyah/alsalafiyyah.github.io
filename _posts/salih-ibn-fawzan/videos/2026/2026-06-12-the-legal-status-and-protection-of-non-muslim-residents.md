@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The Legal Status and Protection of Non-Muslim Residents
 date: 2026-06-12
 category:
@@ -23,8 +23,6 @@ muftis:
     url: /biography/fawzan/
 hijri: '1447-12-26'
 ---
-
-
 ### Question:
 
 What is the ruling on attacking a non-Muslim in Muslim lands by beating or killing them, even if it is due to corruption or immorality they are committing?

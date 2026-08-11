@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: 'When to Leave: Handling Gatherings that Criticize Scholars and Rulers'
 hijri: '1447-11-16'
 date: 2026-05-03
@@ -21,8 +21,6 @@ muftis:
   - name: Shaykh Salih Al-Fawzan
     url: /biography/fawzan/
 ---
-
-
 ### Question: 
 
 We find many people speaking ill and harboring ill-will toward the [Muslim] rulers and the scholars, using descriptions that we detest. When we denounce their behavior, they laugh at us and say, 'You are poor, soul-less people who do not know.' I even remember being in a gathering where we were discussing this, and I mentioned to them that I pray (make Du'a) for the rulers; they laughed at me and mocked my words. So, what should be said to such people?

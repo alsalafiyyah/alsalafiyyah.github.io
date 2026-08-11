@@ -19,14 +19,12 @@ muftis:
     url: /biography/abdulaziz/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah no. 16376-1
 summary: The foregoing is a false saying and it is tantamount to Kufr (disbelief)
   in Allah (Glorified and Exalted be He).
 title: Ruling on saying Allah is Omnipresent
 ---
-
-
 ### Question:
 What is the ruling on saying that Allah (Glorified be He) exists everywhere? 
 

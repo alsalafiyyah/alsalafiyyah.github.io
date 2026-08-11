@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Difference between repentance and praying for forgiveness
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_734/nour_73405.mp3
 hijri: '1445-01-11'
@@ -22,8 +22,6 @@ muftis:
   - name: Shaykh Ibn Baz
     url: /biography/binbaz
 ---
-
-
 #### Question: 
 What is the difference between repentance and praying for forgiveness? 
 

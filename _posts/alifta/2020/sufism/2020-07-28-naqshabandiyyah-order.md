@@ -4,7 +4,7 @@ hijri: '1441-12-07'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa  no. 3934
 summary: You should devote your attention to the Qur'an, reciting it regularly and
   contemplating its meanings, as the Qur'an is the root of all that is good. You should
@@ -14,9 +14,6 @@ tags:
 title: Ruling on Naqshabandiyyah Sufi Order
 translation: false
 ---
-
-
-
 ### Question: 
 
 I am seeking knowledge and Iman (Faith) that may please Allah and His Messenger (peace be upon him). Which Islamic books would you advise me to read to strengthen me, especially nowadays when there are many books that contain doubtful matters and falsehoods about the Din (religion)?

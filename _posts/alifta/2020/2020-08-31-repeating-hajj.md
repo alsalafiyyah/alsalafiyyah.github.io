@@ -4,7 +4,7 @@ hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdul-Razzaq al-Afify
@@ -13,8 +13,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 6909-1
 title: Repeating Hajj
 ---
-
-
 ### Question:
 Is it preferable to perform Hajj every year for whoever wishes to do so and it is not difficult, or is it better to perform it once every two or three years?
 

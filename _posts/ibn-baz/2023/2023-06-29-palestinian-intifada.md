@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on Palestinian Intifada
 date: 2023-06-29
 hijri: '1444-12-11'
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Ibn Baz
     url: /biography/binbaz
 ---
-
-
 ### Question:
 
 Today we are witnessing a major political phenomenon that has shaken the world, namely the uprising of the Palestinian people against the Jews (the Intifada). Can you suggest something that we can say to the Muslim people in occupied Palestine?

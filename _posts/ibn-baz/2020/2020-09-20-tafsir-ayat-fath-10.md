@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: 'Tafsir of the Ayah: ''The Hand of Allâh is over their hands.'''
 hijri: '1442-02-03'
 lang: en
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 
 We attended a Tafsir (exegesis of the meanings of the Qur'an) seminar held in a Masjid (mosque) called Abu Al-Haytham ibn Al-Tayhan and located in Salibiayh district in Kuwait. The Shaykh interpreted the Saying of Allah (whose meanings are translated as): "**The Hand of Allâh is over their hands.**" [Al-Fath: 10] He said that this Ayah has more than one meaning. It can be Allah's Help given to them, Allah's Power with them, or Allah's Knowledge of their conditions and intentions. After the seminar finished, one brother told the Shaykh that his interpretation of this Ayah goes against 'Aqidah (creed) of Ahl-ul-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream) and complies with the views of Al-Asha'irah (a Muslim group that bases its creedal issues on logic). The Shaykh was annoyed and replied that Al-Mawardy and Ibn Kathir mentioned this interpretation in their books. The man corrected him saying that Ibn Kathir did not state that, but it is Al-Mawardy who advocated Asha'irah. 

@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on watching movies and television and playing cards during the daytime
   in Ramadan
 hijri: '1442-02-23'
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 Some Muslims spend most of the day in Ramadan watching movies, soap operas, videos, television, and playing cards. What is the ruling on this? 

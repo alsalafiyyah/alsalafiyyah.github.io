@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Rule on preventing a girl from marrying due to the opinion of a family member
 hijri: '1442-04-18'
 source: Fatawa Shaykh Ibn Baz p. 20/417
@@ -16,8 +16,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 
 It has become common nowadays in many families to prevent a girl from marrying due to the opinion of one of her family members. Would you please give your advice?

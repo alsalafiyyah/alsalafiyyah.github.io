@@ -15,7 +15,7 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Mani'
     url: /biography/mani/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah no. 1333, Question 3
 summary: This was not a regular practice of the Prophet, but was only done twice or
   thrice according to the number of incidents. The Prophet's Sahabah, being the earnest
@@ -23,8 +23,6 @@ summary: This was not a regular practice of the Prophet, but was only done twice
   are not known to have performed this practice.
 title: Hadith about the Prophet putting a palm leave on the graves
 ---
-
-
 ### Question:
 Ibn 'Abbas narrated: "**The Prophet (peace be upon him) once passed by two graves and said: “These two persons are being tortured not for a major sin (to avoid). One of them never saved himself from being soiled with his urine, while the other used to go about with calumnies (to make enmity between friends).” The Prophet (peace be upon him) then took a green leaf of a date-palm tree, split it into two (pieces) and fixed one on each grave. They said, “O Allah’s Messenger (peace be upon him)! Why have you done so?” He replied: “I hope that their punishment might be lessened till these (the pieces of the leaf) become dry.”**" Collected by Al-Bukhari [^1]. 
 

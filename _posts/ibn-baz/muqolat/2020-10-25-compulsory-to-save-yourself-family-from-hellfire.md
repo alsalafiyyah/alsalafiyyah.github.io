@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: It is Compulsory to save yourself and family from Hellfire
 hijri: '1442-03-08'
 date: 2020-10-25
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 In the Name of Allah, the Most Gracious, the Most Merciful. Allah's Peace and Blessings be upon the Messenger of Allah.
 
 In the Ever-Glorious Qur'an, Allah (Glorified and Exalted be He) says: "**O you who believe! Ward off yourselves and your families against a Fire (Hell) whose fuel is men and stones, over which are (appointed) angels stern (and) severe, who disobey not, (from executing) the Commands they receive from Allâh, but do that which they are commanded.**" [Al-Tahrim: 6] 

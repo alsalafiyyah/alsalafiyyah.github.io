@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-14
 title: The ruling on the Adhan and the Iqamah during the burial of the deceased
 category:
@@ -21,8 +21,6 @@ muftis:
     url: /biography/binbaz/
 hijri: '1447-11-27'
 ---
-
-
 ### Question:
 
 The questioner says: Your Eminence Shaykh, I have seen some people, when they place the deceased in the niche of the grave, they perform the Adhan (call to prayer) and the Iqamah (second call to prayer) over him. Is this [practice] correct?

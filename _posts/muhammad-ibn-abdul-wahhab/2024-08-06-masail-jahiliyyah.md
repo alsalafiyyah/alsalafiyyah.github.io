@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Masa'il Jahiliyyah
 date: 2024-08-06
 hijri: '1446-02-02'
@@ -17,8 +17,6 @@ muftis:
   - name: Shaykh Muhammad ibn Abdul-Wahhab
     url: /biography/abdul-wahhab
 ---
-
-
 These are the aspects that the people of the Days of Ignorance –both the people of the Book and the non-People of the Book– were upon, which Rasulullah ﷺ opposed. They are from the matters that every Muslim is required to possess knowledge of. This is since with (understanding) one side of the opposite, the goodness of the other side of the opposite can be made apparent. And it is by (making apparent the) opposite of something that matters become clarifed. 
 
 The most important of these aspects (of the Days of Ignorance) and most severe in terms of danger was the absence of faith in the heart, for what Rasulullah ﷺ came with. And if approval for what the people of the Days of Ignorance were upon is further added to this (absence of faith), then the total ruin is achieved, as Allah says: **“And those who believe in the falsehood while disbelieving in Allah, it is they who are the losers.”** (al-Ankabut [29]:52). 

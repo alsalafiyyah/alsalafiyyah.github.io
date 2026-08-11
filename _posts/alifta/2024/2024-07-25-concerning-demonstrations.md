@@ -8,15 +8,13 @@ muftis:
   shaykh:
   - name: Shaykh Ibn 'Uthaymeen
     url: /biography/uthaymeen
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Islamiyah, Vol. 8, No.87
 summary: The concept of demonstrations is a new, modern issue. It was not known in
   the time of the Prophet, nor in the time of the rightly-guided Khalifahs, nor in
   the time of any of the Companions.
 title: Concerning Demonstrations
 ---
-
-
 ### Question:
 Are demonstrations considered to be a means from the legitimate means of Da’wah?
 

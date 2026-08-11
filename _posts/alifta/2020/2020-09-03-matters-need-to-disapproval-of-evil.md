@@ -5,14 +5,12 @@ hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 4245, Question 1
 summary: Is it allowed to reprove a Muslim because he believes that pictures are permissible?
   What things are permissible to denounce?
 title: Matters that need disapproval of evil
 ---
-
-
 ### Question:
 
 Is it allowed to reprove a Muslim because he believes that pictures are permissible? What things are permissible to denounce? The Prophet (peace be upon him) said, "**Whoever among you sees something abominable should rectify it with his hand...**" [^1]

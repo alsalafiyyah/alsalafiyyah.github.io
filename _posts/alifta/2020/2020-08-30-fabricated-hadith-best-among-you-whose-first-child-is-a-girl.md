@@ -4,7 +4,7 @@ hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdul-Aziz Aal al-Shaykh
@@ -13,8 +13,6 @@ source: Fatawa Al-Lajnah Ad-Da'imah no. 19329-5
 title: 'Fabricated Hadith: ''The best among you is the one whose first child is a
   girl'''
 ---
-
-
 Question: 
 
 Is the following a true Hadith: "**The best among you is the one whose first child is a girl**" ?

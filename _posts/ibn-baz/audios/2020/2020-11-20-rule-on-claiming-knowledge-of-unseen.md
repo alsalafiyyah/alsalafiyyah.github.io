@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The Ruling on Claimants of the Unseen and Vows to the Deceased
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_871/nour_87107.mp3
 hijri: '1442-04-05'
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 
 Our sister [in Islam] asks: In our village, there is a man who claims to have knowledge of the unseen (Ghaib), and that he has the power to bring benefit or cause harm, and to heal the sick. People go to him and ask him for their needs. He tells them: 'You have made vows (nadhr) to righteous people—for example, to Al-Husayn, Ali, or Al-Abbas—and you must fulfill these vows. If you do not, a severe punishment will befall you.' They do what he says without hesitation and fear him greatly.

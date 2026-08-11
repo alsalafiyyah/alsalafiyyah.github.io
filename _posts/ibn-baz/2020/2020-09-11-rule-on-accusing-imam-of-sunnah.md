@@ -7,15 +7,13 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa of Ibn Baz vol 28
 summary: What is the ruling on accusing a number of the Imams of Ahl Al-Sunnah of
   being innovators because they made errors
 title: Ruling on accusing some of the Imams of Ahl Al-Sunnah of committing Bid'ah
   (innovation in Islam)
 ---
-
-
 Question:
 
 What is the ruling on accusing a number of the Imams of Ahl Al-Sunnah of being innovators because they made errors in the 'Aqidah (creed), such as Al-Nawawi, Ibn Hajar, and others? [^1]

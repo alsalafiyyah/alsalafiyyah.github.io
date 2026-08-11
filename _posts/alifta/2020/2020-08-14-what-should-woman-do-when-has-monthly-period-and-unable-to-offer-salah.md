@@ -13,7 +13,7 @@ muftis:
     url: /biography/ghudayyan
   - name: Shaykh Abdullah ibn qa'ud
     url: /biography/qaud
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no.3377, Question 2
 summary: A woman is exempted from offering Salah during her menstrual period. In fact
   it is prohibited for her to offer Salah during menstrual days and she is not required
@@ -22,8 +22,6 @@ summary: A woman is exempted from offering Salah during her menstrual period. In
 title: What should a woman do when she has her monthly period and she is unable to
   offer Salah
 ---
-
-
 ### Question:
 
 What should a woman do when she has her monthly period and she is unable to offer Salah (Prayer)?

@@ -14,15 +14,13 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 11293, Question 2
 summary: If a person offers Salah with all its obligatory acts and fulfills its conditions,
   it is considered valid. They will be rewarded for it, and they will be sinful for
   drinking Khamr.
 title: Salah of a person who drinks intoxicants
 ---
-
-
 ### Question: 
 
 What is the ruling on a person who drinks Khamr (intoxicants) at night and offers Salah (Prayer) during the day? As Salah should prevent a person from committing immoral acts and Munkar (that which is unacceptable or disapproved of by Islamic law and Muslims of sound intellect), is their Salah valid or not?

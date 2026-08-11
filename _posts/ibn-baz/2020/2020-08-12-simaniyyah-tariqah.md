@@ -7,7 +7,7 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat 6/417
 summary: Here in Sudan, we have a shaykh who has many followers who compete in serving
   and obeying him. They travel to visit him, thinking he is one of the Awliya' (pious
@@ -17,8 +17,6 @@ tags:
 title: Ruling on Simaniyyah Sufi order
 translation: false
 ---
-
-
 ### Question:
 
 Here in Sudan, we have a shaykh who has many followers who compete in serving and obeying him. They travel to visit him, thinking he is one of the Awliya' (pious people). He has established the Simaniyyah Tariqah (Sufi order). He has a large dome for his father under which his followers seek blessing and pay money willingly. They perform Dhikr (Remembrance of Allah) by playing the Duff (a tambourine-like instrument without bells), beating drums and reciting poetry. This year, the shaykh ordered them to visit the grave of another shaykh, so they all traveled, men and women, in a hundred car to carry out his order. What is your advice to them?

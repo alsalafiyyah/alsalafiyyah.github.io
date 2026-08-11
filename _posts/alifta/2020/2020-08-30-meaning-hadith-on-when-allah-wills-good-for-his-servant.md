@@ -14,14 +14,12 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah no. 14535-2
 summary: 'What is the meaning of the following Hadith: ''When Allah wills good for
   His servant, He uses him.'''
 title: 'The Hadith: ''When Allah wills good for His servant, He uses him'''
 ---
-
-
 Question: 
 
 What is the meaning of the following Hadith: "**When Allah wills good for His servant, He uses him.**" ?

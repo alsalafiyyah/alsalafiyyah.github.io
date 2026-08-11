@@ -15,14 +15,12 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 3381, Question 2
 summary: There are Hadiths that are Sahih and Mutawatir about the appearance of Al-Masih-ul-Dajjal.
   His appearance is one of the Signs of the Hour.
 title: Authenticity of the Hadiths mentioning Al-Dajjal
 ---
-
-
 ### Question: 
 
 Are there any Hadiths mentioning the appearance of Al-Masih-ul-Dajjal (the Antichrist)? Are these Hadiths ranked as Sahih (a Hadith that has been transmitted by people known for their uprightness and exactitude; free from eccentricity and blemish), Hasan (a Hadith whose chain of narration contains a narrator with weak exactitude, but is free from eccentricity or blemish), or Da'if (a Hadith that fails to reach the status of Hasan, due to a weakness in the chain of narration or one of the narrators)? 

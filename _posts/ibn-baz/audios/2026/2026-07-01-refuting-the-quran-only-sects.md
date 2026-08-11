@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Refuting the 'Qur'an-Only' Sects
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-07-01
 active: audios
 category:
@@ -22,8 +22,6 @@ muftis:
     url: /biography/binbaz/
 hijri: '1448-01-16'
 ---
-
-
 ### Question:
 
 Your Eminence Shaykh! I notice in our brother's letter that he repeatedly says: "This is not mentioned in the Qur'an, this is not mentioned in the Qur'an." Do you have a comment on this? May Allah reward you with goodness.

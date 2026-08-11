@@ -4,7 +4,7 @@ hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdul-Aziz Aal al-Shaykh
@@ -15,8 +15,6 @@ source: Fatawa Al-Lajnah Ad-Da'imah no. 19867-1
 title: 'Fabricated Hadith: ''Anyone who dies without knowing the Imam of his time
   will die the death of one belonging to Jahiliyyah'''
 ---
-
-
 Question: 
 
 :**Anyone who dies without knowing the Imam of his time will die the death of one belonging to Jahiliyyah (pre-Islamic time of ignorance).**" What is the degree of authenticity of this Hadith?

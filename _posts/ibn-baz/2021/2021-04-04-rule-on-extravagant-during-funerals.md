@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on extravagant and lavishness during funerals
 date: 2021-04-04
 hijri: '1442-08-22'
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 What is the ruling on extravagance in funerals? The bereaved family serve dinners for those who come to offer condolences. There are also some customs that have spread, such as holding a ceremony for people to come and offer condolences again on the third, eighth, and fortieth day after death.

@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Allah's Wisdom behind trying His Slaves with calamities and ordeals
 hijri: '1442-03-09'
 date: 2020-10-26
@@ -22,8 +22,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 From [**'Abdul-Aziz ibn 'Abdullah ibn Baz**](/biography/binbaz/) to all Muslims. May Allah help us do what pleases Him and safeguard us against what causes His wrath and punishment! Amen!
 
 As-salamu 'alaykum warahmatullah wabarakatuh (May Allah's Peace, Mercy, and Blessings be upon you!)

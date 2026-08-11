@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Correct methodology for advising the rulers
 hijri: '1443-07-13'
 source: Al-Ajwibah Al-Mufidah p. 47-52
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Salih Al-Fawzan
     url: /biography/fawzan/
 ---
- 
-
 ### Question: 
 
 What is the correct methodology for advising, particularly with regard to advising rulers? Should it be done by publicizing their evil actions from the mimbars or by advising them in private? I would like to know what the correct methodology is concerning this matter. 

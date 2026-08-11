@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-04-21
 hijri: '1447-11-04'
 title: Guidance on Following the Salaf vs. Adhering to Sufi Orders
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 ### Question: 
 
 This message was sent by the listener Nayef Obeid Saber from Iraq, Anbar Governorate, Al-Talufa District. He says in his letter:

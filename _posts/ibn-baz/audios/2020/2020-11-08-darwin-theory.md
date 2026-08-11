@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Refuting the Claim That Humans Evolved from Monkeys
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_175/17501.mp3
 hijri: '1442-03-22'
 date: 2020-11-08
@@ -22,8 +22,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 At the beginning of this episode, we return to the letter of the listener Hussein Ismail al-Aidarous, from Democratic Yemen, Hadramaut, Tarbah. Our brother—we presented some of his questions in a previous episode, and he has a collection of questions remaining. In this episode, he asks: **'I always read and hear that man was originally a monkey, then passed through several stages and transformed into the normal human known today. Is this reasonable or not? Furthermore, are the elements of a monkey—meaning the elements that make up its body—the same elements that make up the human body? Please advise us, and may Allah reward you with goodness.'**

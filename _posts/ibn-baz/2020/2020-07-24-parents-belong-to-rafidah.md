@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ruling on parents belong to the Rafidah (a Shiitic group)
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat 28/260
 category:
 - sects
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 A man's parents belong to Al-Rafidah (a Shiitic group), how should he behave towards them?

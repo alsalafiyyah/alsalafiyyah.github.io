@@ -9,14 +9,12 @@ hijri: '1446-01-16'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.16105, Question 2
 summary: Visiting the graves of the pious people for the purpose of seeking their
   blessings or drawing closer to them, etc, is an act of Shirk.
 title: Ruling on visiting the grave of Arwaz and making offerings for him
 ---
-
-
 ### Question:
 A group of people visits a Masjid (mosque) wherein is buried a Waliy (a pious person) called **Sayidi Arwaz**. They try to draw closer to him by offering gifts, including coverlets and candles, and they slaughter sacrificial animals there. They do this believing that this Waliy will send their Du‘a’ (supplication) to Allah (Glorified be He). When we asked about this belief, they said that during the French occupation of Algeria, the French Forces fired heavy artillery at this Masjid and could not destroy it. In fact the cannon balls bounced back and killed many of the French soldiers. We would like to know the ruling of the Din (religion of Islam) on this.
 

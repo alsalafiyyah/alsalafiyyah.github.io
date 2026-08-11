@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: 'Duty Toward Palestine: A Call to Repentance and Return to Faith'
 hijri: '1447-11-13'
 date: 2026-04-30
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Salih Al-Fawzan
     url: /biography/fawzan/
 ---
-
-
 ### Question: 
 
 He [the inquirer] asks, what is the duty of Muslims toward what is happening in Palestine, and toward the Jews—may the curse of Allah be upon them?

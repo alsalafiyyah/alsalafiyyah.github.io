@@ -9,14 +9,12 @@ muftis:
   - name: Permanent Committee
     url: /biography/alifta
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Islamiyah 8/262-264
 summary: Card playing has an evil effect on society. It deters people from praying
   in the mosque; it causes enmity and ill will.
 title: Ruling on playing poker
 ---
-
-
 ### Question: 
 Some people don't just play poker, but they become engrossed in it. The time for prayer comes and passes yet they neither listen to the call to prayer nor do they attend it in the Masjid (Mosque). They are so absorbed in their game, that they don't answer people when they greet them upon returning from the Masjid. While they are playing, other members of the household are never at peace, having to listen to loud voices, curses, and oaths, some of which are by Allah Almighty and some of which are not. What is the ruling regarding this game? And what effects does it have on society?
 

@@ -17,7 +17,7 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 18440 Question 2
 summary: Many Muslims celebrate the Prophethood of our Messenger with musical songs
   just as the Jews and Christians do. They mention Allah while music is played.
@@ -26,8 +26,6 @@ tags:
 title: Ruling on Prophet's songs
 translation: false
 ---
-
-
 ### Question: 
 
 Many Muslims celebrate the Prophethood of our Messenger (peace be upon him) with musical songs just as the Jews and Christians do i.e. they mention Allah (Exalted be He) while music is played. What is the ruling on this practice? 

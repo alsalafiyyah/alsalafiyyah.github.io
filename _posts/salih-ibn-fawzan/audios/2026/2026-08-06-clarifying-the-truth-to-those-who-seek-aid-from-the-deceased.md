@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-08-06
 hijri: '1448-02-23'
 title: Clarifying the Truth to Those Who Seek Aid from the Deceased
@@ -23,8 +23,6 @@ muftis:
   - name: Shaykh Salih al-Fawzan
     url: /biography/fawzan/
 ---
-
-
 ### Question: 
 
 May Allah be good to you, Your Eminence Sheikh, this questioner says: In their country, some people invoke the graves and seek deliverance (istighathah) from them. He asks: Do I treat them with the ruling given to polytheists (mushrikeen)?

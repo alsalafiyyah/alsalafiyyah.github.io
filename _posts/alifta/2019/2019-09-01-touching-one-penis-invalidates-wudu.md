@@ -14,7 +14,7 @@ muftis:
   members:
   - name: Shaykh Abdullah Ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 6990 question no. 2
 summary: Hadith that indicates that if someone touches his penis he must perform Wudu’.
   The basic ruling is that the imperative in these Hadith denotes obligation or duty.
@@ -23,8 +23,6 @@ tags:
 title: Touching one's penis invalidates ablution
 translation: false
 ---
-
-
 ### Question : 
 
 Scholars differ regarding whether Wudu' (ablution) is nullified by touching the penis. Those who say that it is not nullified support their opinion with the Hadith that says: “**It is just a part of you.**” What is the preponderant opinion? 

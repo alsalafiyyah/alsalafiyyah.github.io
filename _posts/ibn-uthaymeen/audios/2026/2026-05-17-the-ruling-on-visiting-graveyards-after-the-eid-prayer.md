@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-17
 title: The Ruling on Visiting Graveyards After the Eid Prayer
 source: 'Fatawa Nur ''ala al-Darb, Tape no: 216'
@@ -22,8 +22,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1447-11-30'
 ---
-
-
 ### Question: 
 
 May Allah bless you. In his final question, the listener Hamid also says: We have a widespread phenomenon, which is that many people head to the graveyards right after completing the Eid prayer. What is the Sharia ruling, in your view, regarding this practice?

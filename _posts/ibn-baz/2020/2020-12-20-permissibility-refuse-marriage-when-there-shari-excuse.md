@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: It is permissible to refuse marriage when there is a Shar'i excuse
 hijri: '1442-05-05'
 source: Fatawa Shaykh Ibn Baz p. 20/406
@@ -16,8 +16,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 
 What is the ruling on a Muslim girl refusing to get married? While she is chaste and Islamically committed and hence she finds no needs of marriage? It should be mentioned that she lives in a community whose members disrespect Islam and mock at its committed followers. She is keen on not raising a family in this community for fear that her children may deviate from truth and go astray. 

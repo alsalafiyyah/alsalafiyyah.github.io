@@ -5,14 +5,12 @@ hijri: '1446-03-20'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah 13/36, Fatwa no.6554
 summary: It is not permissible to sell dogs, and their price is not lawful, whether
   they are guard dogs, hunting dogs or any other kind.
 title: What is the ruling on selling dogs?
 ---
-
-
 ### Question: 
 What is the ruling on selling guard dogs that have special characteristics?
 

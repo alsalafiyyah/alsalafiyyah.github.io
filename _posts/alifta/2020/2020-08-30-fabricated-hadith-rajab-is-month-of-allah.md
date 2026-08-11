@@ -4,7 +4,7 @@ hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdul-Aziz Aal al-Shaykh
@@ -15,8 +15,6 @@ source: Fatawa Al-Lajnah Ad-Da'imah no. 15677
 title: 'Fabricated Hadith: ''Rajab is the Month of Allah, Sha''ban is my month, and
   Ramadan is the month of my Ummah'''
 ---
-
-
 Question: 
 
 What is the opinion of Hadith scholars on the following statement: "**Rajab is the Month of Allah, Sha'ban is my month, and Ramadan is the month of my Ummah (nation based on one creed)**"? 

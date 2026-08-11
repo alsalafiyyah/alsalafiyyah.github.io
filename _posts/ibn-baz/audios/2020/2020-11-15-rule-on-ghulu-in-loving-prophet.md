@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on Ghulu in loving the Prophet (peace be upon him)
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/%D9%85%D8%A7%20%D9%85%D8%B9%D9%86%D9%89%20%D8%A7%D9%84%D8%BA%D9%84%D9%88%20%D9%81%D9%8A%20%D8%AD%D8%A8%20%D8%A7%D9%84%D9%86%D8%A8%D9%8A%20-%D8%B5%D9%84%D9%89%20%D8%A7%D9%84%D9%84%D9%87%20%D8%B9%D9%84%D9%8A%D9%87%20%D9%88%D8%B3%D9%84%D9%85-%D8%9F.mp3
 hijri: '1442-03-29'
@@ -21,8 +21,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 What does Ghulu in loving the Prophet (peace be upon him) mean? 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ruling On Burying Non-Sunnis With Sunnis In The Same Graveyard
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa Wa Rasa'il 17/215
 date: 2023-07-10
 hijri: '1444-12-22'
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Ibn ‘Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 ### Question: 
 
 What is the ruling on burying Non-Sunnis with Sunnis (Ahlus-Sunnah) in the same graveyard?

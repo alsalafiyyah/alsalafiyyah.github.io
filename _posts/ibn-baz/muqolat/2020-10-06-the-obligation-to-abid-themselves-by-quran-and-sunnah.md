@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The obligation of abiding by the Book of Allah and the Sunnah of His Messenger
   and warning against whatever contradicts them
 hijri: '1442-02-19'
@@ -22,8 +22,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 All praise be to Allah, the Lord of the worlds. The best outcome is for the righteous. May peace and blessings be upon the slave and Messenger of Allah, whom He entrusted with His Revelation and chose from among His creation, our Prophet, Imam and master Muhammad, son of 'Abdullah, and upon his family, his Companions and those follow his way and adopt his guidance until the Day of Judgment. To proceed:
 
 Indeed, Allah (Glorified and Exalted be He) sent His Prophet (peace be upon him) with guidance and the religion of truth. Allah (Exalted be He) says in Surah Al-Tawbah and Surah Al-Saff: "**It is He Who has sent His Messenger (Muhammad صلى الله عليه وسلم) with guidance and the religion of truth (Islâm), to make it superior over all religions even though the Mushrikûn (polytheists, pagans, idolaters, disbelievers in the Oneness of Allâh) hate (it).**" [Al-Tawbah: 33]

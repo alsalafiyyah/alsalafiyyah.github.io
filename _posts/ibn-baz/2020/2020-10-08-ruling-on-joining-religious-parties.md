@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on joining religious parties
 hijri: '1442-02-21'
 lang: en
@@ -17,8 +17,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 What do you advise preachers to do against the religious innovators? We would like you to direct special advice to the young men who are excited about joining so-called religious parties.
 

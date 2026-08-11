@@ -14,15 +14,13 @@ muftis:
     url: /biography/abdulaziz/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 17627, Question 6
 summary: The Islamic economy depends on Shar'i (Islamically lawful) trade through
   investing money in ways that Allah (Exalted be He) made Halal (Lawful) according
   to the regulations of Shar'i dealings and transactions.
 title: Basics of economy in Islam
 ---
-
-
 Question:
 
 What are the basics of economy in Islam?

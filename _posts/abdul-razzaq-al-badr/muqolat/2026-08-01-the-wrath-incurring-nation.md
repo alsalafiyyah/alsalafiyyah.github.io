@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The Wrath-Incurring Nation
 date: 2026-08-01
 lang: en
@@ -21,8 +21,6 @@ muftis:
     url: /biography/abdul-razzaq-al-badr
 hijri: '1448-02-18'
 ---
-
-
 The Noble Quran is a Book of guidance, clarification, counsel, and direction. In it is news of what came before us, information of what comes after us, and a ruling for what is between us. Whoever acts upon it is rewarded, whoever judges by it is just, and whoever calls to it is guided to a straight path.
 
 Among the upright indications and noble guidances of the Quran is its exposure of the path of the criminals and its clarification of the state of those who earned wrath and those who went astray, so that believers may recognize it and avoid it, so their condition is uncovered to them so they may guard against it, and so that their enemy becomes clear to them so they may beware of him. Allah Almighty says: 

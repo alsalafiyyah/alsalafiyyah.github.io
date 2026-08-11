@@ -5,15 +5,13 @@ hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 3717
 summary: It is impermissible to mix drugs with intoxicating alcohol. However, if it
   is mixed with alcohol in small proportion that has no effect on color, taste, and
   smell of drug, it will be permissible to take it.
 title: Ruling on mixing drugs with intoxicating alcohol
 ---
-
-
 ### Question:
 It is evident that drugs are indispensable and available for people through many means; they may have it for free from the public hospitals, or the medical units of schools, or buy it from the pharmacies. Drugs are mainly prepared abroad, thus many of them, pills for example, include sedative-hypnotics that make the patient, when its proportion is high, unable to stand up, go out, or drive, or make him, when a small proportion is used, feel lazy and sleepy. It is impossible for any doctor to administer sedative free medications. Moreover, many liquid drugs contain varied amounts of alcohol. Doctors assert that alcohol, even if a small percentage is used, is important for the medicine to remain effective. It is noteworthy that the cough medicine taken by children contains a high percentage of alcohol. The adults and the helpless children take these medicines. There is no way out for the patient. He is to take the dosage with sedative, alcohol, or both. These widespread drugs have become a source of worry for many patients who can not dispense with them. They fear being sinful when they take these substances.
 

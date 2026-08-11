@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on calling oneself Athari
 source: Fatawa Nur 'Ala al-Darb 3
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_422/42203.mp3
@@ -21,8 +21,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Questioner: 
 Some people have rejected the term Athari (has knowledge of the Hadiths and narrations of the Prophet's Companions) and being associated with the Athar(narrations from the Companions). They claim that associating them to the Athar causes division between Muslims: Is this true? Or is it just a title given to people who are experts in Hadith and Al-Haqq (the Truth), especially as some prominent scholars, including Al-Hafidh Al-Iraqi, have been given that title? Is it true that you have stopped calling yourself as such? May Allah reward you well. 
 

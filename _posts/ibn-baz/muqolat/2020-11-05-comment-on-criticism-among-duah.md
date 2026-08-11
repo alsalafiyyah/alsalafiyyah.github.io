@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Commenting on criticism among Du'ah (Callers to Islam)
 hijri: '1442-03-19'
 source: Fatawa Al-Shaykh Ibn Baz p. 7/319
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 Praise be to Allah, the Lord of the Worlds. May Allah's peace and blessings be upon our trustworthy Prophet Muhammad, his family, Companions and those who follow his Sunnah until the Day of Judgment.
 
 Allah (Glorified and Exalted be He) ordains justice and virtue; and forbids injustice, tyranny and aggression. He sent His Prophet Muhammad (peace be upon him) with the same Message of all the Messengers, which is the call to Tawhid (monotheism) and dedicating 'Ibadah (worship) to Allah Alone. He asked him to establish justice and forbid any form of 'Ibadah dedicated to anyone other than Allah, division and usurping people's rights. 

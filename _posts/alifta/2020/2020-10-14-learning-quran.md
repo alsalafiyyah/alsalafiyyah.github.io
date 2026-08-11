@@ -17,15 +17,13 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah Ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-lajnah Al-Da'imah of KSA no. 5241-2
 summary: What is the ruling of the Shari'ah (Islamic law) on someone who does not
   apply the rules of the recitation of the glorious Qur'an? As I do not know where
   I can learn these rules?
 title: Learning the Glorious Qur'an
 ---
-
-
 Question : 
 
 What is the ruling of the Shari'ah (Islamic law) on someone who does not apply the rules of the recitation of the glorious Qur'an? As I do not know where I can learn these rules? 

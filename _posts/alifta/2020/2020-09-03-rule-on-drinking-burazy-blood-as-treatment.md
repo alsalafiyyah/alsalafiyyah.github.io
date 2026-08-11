@@ -18,14 +18,12 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/zayd/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 18253, Question 1
 summary: Seeking a cure by drinking the blood of any of these two tribes is not known
   to have a basis in the Shari'ah of Islam.
 title: Ruling on drinking the blood of human beings as a treatment for rabies
 ---
-
-
 ### Question:
 What is the ruling on drinking the blood of the Burazy family belonging to the two tribes of Al-Suhul and Matir if a person is bitten by a frantic animal? Why these two tribes in particular? Why do people not drink the blood of any other tribe? 
 

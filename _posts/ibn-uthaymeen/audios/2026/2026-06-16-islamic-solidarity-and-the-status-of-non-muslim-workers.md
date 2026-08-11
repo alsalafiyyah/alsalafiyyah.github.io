@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-06-16
 title: Islamic Solidarity and the Status of Non-Muslim Workers
 source: Liqa' al-Shahri Tape 6, Question 6
@@ -20,8 +20,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1448-01-01'
 ---
-
-
 ### Question:
 
 You are aware—may Allah preserve you—of what happened a few days ago regarding the demolition of the Islamic mosque in India, which was carried out by the Hindus. I hope you can clarify what our role is in this regard. Is it only to deport the Hindu workers we employ? Is this sufficient? 

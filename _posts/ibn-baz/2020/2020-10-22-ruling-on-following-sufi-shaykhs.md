@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on following Sufi Shaykhs
 hijri: '1442-03-05'
 source: Fatawa Al-Shaykh Ibn Baz p. 5/383
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 
 A Sudanese person living in Al-Anbar says: In our country we have various sects. Each sect follows a certain shaykh to guide and teach them and believe that he will intercede for them with Allah on the Day of Resurrection. They also believe that whoever does not follow a shaykh will go astray in this life and in the Hereafter. Should we follow those shaykhs or not? Please advise us. May Allah bless you. 

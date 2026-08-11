@@ -5,14 +5,12 @@ hijri: '1446-01-17'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.4400‏, Question 2
 summary: If they insist on offering Sujud to anyone other than Allah after being informed,
   they should be sentenced to death for apostasy.
 title: Ruling on prostrate to anyone other than Allah
 ---
-
-
 ### Question: 
 What do you think of the claim of some People that whoever commit themselves to the Message of Muhammad ﷺ and face the Qiblah (Ka'bah-direction faced in Prayer) in Salah (Prayer) is a Muslim and even if they make Sujud (Prostration) to their shaykhs, they will not be considered Kafirs (disbelievers) or be called Mushriks (people who associate others in worship with Allah). These people even claim that Muhammad ibn Abdul-Wahhab was wrong when he stated that those who commit polytheistic acts will be consigned to eternal punishment unless they repent. They maintain that the Mushriks among Muslims will be tortured (for a while) then will enter Jannah (Paradise). None of the followers of Muhammad i.e. Muslims will remain eternally in Hell.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Were There Humans Before Adam?
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_637/nour_63710.mp3
 hijri: '1441-03-22'
 date: 2019-11-19
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 The listener (M. M. Y.) from the Yemen Arab Republic, Al Hudaydah Governorate, sent a message asking: "I heard from some people that there was a primitive human before Adam who disappeared before Adam appeared. Is this correct?"

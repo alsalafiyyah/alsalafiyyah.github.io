@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Be fair and equitable with your children
 hijri: '1442-03-15'
 source: Majmu' Fatawa Al-Shaykh Ibn Baz p. 9/452, published in Al-Da'wah magazine,
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 My father has an ancient house in an excellent location. He wants to register that house in my brother's name and I have agreed to this. However, I have sisters, and I asked my father about their share in that house. He told me that he has taken their consent. I am afraid that they have agreed out of shyness from our father. What is the ruling of Shari`ah (Islamic law) on this?

@@ -8,7 +8,7 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz Aal al-Shaykh
     url: /biography/abdulaziz
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Ar-Riyadus-Sa’udiyyah Newspaper, issue no. 12674, dated Friday, the 4th of
   al-Muharram
 summary: The refutations upon the people of innovation are from Jihad in the path
@@ -17,8 +17,6 @@ summary: The refutations upon the people of innovation are from Jihad in the pat
 title: Refutation upon the followers of bid'ah and deviation
 translated_by: Maaz Qureshi
 ---
-
-
 ### Question:
 What do you say concerning the statement of the speaker: Indeed, the refutations upon the people of innovations and deviation were not the habitual practice of the Salaf, and that it is not befitting to spread the books of refutations, except amongst the students of knowledge and that they should not be spread amongst other than them?
 

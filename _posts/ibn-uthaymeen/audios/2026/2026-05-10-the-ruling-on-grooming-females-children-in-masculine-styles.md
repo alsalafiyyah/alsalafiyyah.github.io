@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-10
 hijri: '1447-11-23'
 title: The Ruling on Grooming Female Children in Masculine Styles
@@ -21,8 +21,6 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 ### Question:
 
 A female enquirer asks: I cut the hair of my five-year-old daughter in a style that resembles a boy’s haircut. The reason for this is that she refuses to let me tie her hair back, which makes it look unkempt and untidy. Am I sinful for doing this? And is the prohibition of 'resembling the opposite sex' exclusive to adult women, or does it apply to children as well?

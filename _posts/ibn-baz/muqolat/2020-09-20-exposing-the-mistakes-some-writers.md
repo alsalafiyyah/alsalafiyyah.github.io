@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Exposing the mistakes of some writers
 hijri: '1442-02-03'
 lang: en
@@ -17,8 +17,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 In the Name of Allah, the All-Merciful, the Ever-Merciful 
 
 > This reply was written in 1385 A.H. and published in a book entitled "Al-Adillah Al-Kashifah li Akhtaa Ba'd Al-Kuttab".

@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The Purposes of the Believer's Trial
 date: 2025-08-07
 hijri: '1447-02-13'
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 ### Question: 
 
 Why does Allah burden the believers, who perform many acts of worship, with illnesses and trials, while the disobedient ones enjoy the good things in life?

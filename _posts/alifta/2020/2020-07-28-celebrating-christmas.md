@@ -15,7 +15,7 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 21040
 summary: It is not permissible for Muslims who believe in Allah and the Last Day to
   express their interest in celebrating the millennium and other occasions related
@@ -23,8 +23,6 @@ summary: It is not permissible for Muslims who believe in Allah and the Last Day
 title: Impermissibility for Muslims to celebrating the millennium or other occasions
   of Non-Muslims
 ---
-
-
 ### Question: 
 
 I would like to inform Your Eminence regarding a large electroluminescent billboard placed on the facade of an organization in Riyadh. This billboard displays English numbers in red; its width is four meters and its height is two meters. These digits are displayed in descending order denoting the days left until the end of the year and the start of the third millennium. It is, thus, a sort of celebrating the new year, that is, Christmas. On 2/7/1420 AH, the day of sending that letter, there were eighty-one days left until the start of the new year and the billboard was ready to display the digits "2000" in four cells. 

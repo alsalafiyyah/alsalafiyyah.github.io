@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Advice of Allah's Book [Part 2]
 source: Majmu' Fatawa 9/14
 hijri: '1442-01-12'
@@ -16,8 +16,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 [Read part one here](/muqolat/advice-of-quran-1)
 
 All praise be to Allah.

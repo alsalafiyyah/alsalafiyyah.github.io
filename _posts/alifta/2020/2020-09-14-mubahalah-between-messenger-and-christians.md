@@ -15,7 +15,7 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatwas of the Permanent Committee no. 6238-4
 summary: Mubahalah is not exclusive to the event that took place between the Messenger
   (peace be upon him) and the Christians. In fact, its ruling is general and it can
@@ -23,8 +23,6 @@ summary: Mubahalah is not exclusive to the event that took place between the Mes
   and non-Christians.
 title: Mubahalah between the Messenger (peace be upon him) and the Christians
 ---
-
-
 Question:
 
 During the lifetime of the Messenger (peace be upon him), Mubahalah (the occasion when two contending parties mutually invoke Allah’s Curse on the lying party) took place between him and the Christians upon which the following Ayah (Qur’anic verse) was revealed: "**Then whoever disputes with you concerning him [‘Isâ (Jesus)] after (all this) knowledge that has come to you [i.e. ‘Isâ (Jesus) being a slave of Allâh, and having no share in Divinity], say: (O Muhammad صلى الله عليه وسلم) "Come, let us call our sons and your sons**" [Aal Imran: 61] 

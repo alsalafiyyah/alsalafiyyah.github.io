@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-04-26
 hijri: '1447-11-09'
 title: The Origins of the Mawlid Celebration
@@ -22,8 +22,6 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 ### Question: 
 
 Who were the first to introduce this innovation (the innovation of the Mawlid), what were their justifications, and how did it come about?

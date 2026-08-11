@@ -4,7 +4,7 @@ hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdul-Razzaq al-Afify
@@ -15,8 +15,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 16482
 title: If some person finds a sum of money but none asks about it
 ---
-
-
 Question: 
 
 Someone found five hundred Riyals in a street where there were no passers-by. He kept the money in the hope that its owner might show up and ask about it, which did not happen. He has had the money in his possession for one and a half months now. What should he do with it? Is he free to spend it or to spend one half and give the other half in charity to the poor and the needy, or should he deliver it to Bayt-ul-Mal (Muslim treasury)? What is the ruling on the person who finds a sum of money in Makkah Al-Mukarramah, Al-Ta'if, or Jeddah?

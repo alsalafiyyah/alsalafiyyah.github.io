@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The Ruling on Funeral Prayers for Those Who Violate Sharia Boundaries
 hijri: '1442-03-24'
 date: 2020-11-10
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 Sister Haram Yusuf Muhammad Yusuf from Sudan also asks: If a Muslim goes outside the boundaries of Islamic Law (Sharia), should Muslims offer the funeral prayer for them upon their death or not?

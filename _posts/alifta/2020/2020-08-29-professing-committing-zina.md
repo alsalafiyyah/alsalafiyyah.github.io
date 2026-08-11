@@ -16,14 +16,12 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 6477, Question 4
 summary: In our school, some students talk publicly about adultery and admit to having
   committed it. What should I do in this case? Am I considered sinful?
 title: Professing committing Zina
 ---
-
-
 ### Question: 
 
 In our school, some students talk publicly about Zina (adultery) and admit to having committed it. What should I do in this case? Am I considered sinful?

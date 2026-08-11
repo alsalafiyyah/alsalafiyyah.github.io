@@ -15,15 +15,13 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah Ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 3262, Question 1
 summary: It is permissible to eat from the food served by your Christian colleague,
   whether in his or another person's home, provided that the food itself is not prohibited
   or its status is unknown.
 title: Permissibility of the People of the Book's food
 ---
-
-
 ### Question: 
  
 Some of my Christian colleagues invite me for meals in their homes. Is it permissible to eat if the food served is Halal (lawful)?

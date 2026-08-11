@@ -15,15 +15,13 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatwa of the Permanent Committee no. 5948-1
 summary: There are some Ayahs (Qur'anic verses) which I cannot pronounce properly,
   for I have never been to schools. Is it permissible for me to recite the Noble Qur’an
   in this incorrect manner?
 title: Ruling on reciting some Ayahs incorrectly
 ---
-
-
 ### Question:
 
 I am a Yemeni living in Saudi Arabia for more than ten years now. My parents are dead and I love reciting the Noble Qur’an. I often recite Qur’an in the Masjid (mosque), but there are some Ayahs (Qur'anic verses) which I cannot pronounce properly, for I have never been to schools. Is it permissible for me to recite the Noble Qur’an in this incorrect manner? Am I committing a sin this way or not? I hope you will clarify this issue. 

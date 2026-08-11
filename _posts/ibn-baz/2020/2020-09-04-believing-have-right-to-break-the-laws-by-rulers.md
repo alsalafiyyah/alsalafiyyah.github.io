@@ -2,7 +2,7 @@
 layout: post
 title: Ruling on beliveing have the right to break the laws that have been made by
   the ruler
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat p. 8/208, question 7
 category:
 - rulership
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 Some people believe that they have the right to break the laws that have been made by the ruler, such as the traffic laws, customs, passports, etc., as they consider them as having no basis in the Shari‘ah. What is your opinion? May Allah preserve you! 

@@ -8,15 +8,13 @@ muftis:
   shaykh:
   - name: Shaykh Salih Al-Fawzan
     url: /biography/fawzan
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Silsilatu Sharhir-Rasail p.118
 summary: The land which is not upon practicing the religion and one which has open
   lewdness and evil within it, then it is not allowed for a person to travel to it.
 title: The ruling of travelling to Islamic Lands which has open sinning
 translated_by: Abu Abdillah al-Kashmiri
 ---
-
-
 ### Question:
 What is the ruling of travelling to Islamic Lands - where there is no ordering the good and no forbidding the evil, and where alcohol and music is sold, and where there is tabarruj [the unveiling of women] and free mixing [of men and women] - for the purpose of trips and tourism.
 

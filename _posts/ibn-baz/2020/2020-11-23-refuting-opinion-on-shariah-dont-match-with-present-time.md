@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Refuting those opining that the rulings of Shari'ah do not match with the present
   time
 hijri: '1442-04-08'
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 A man allege that the Shari'ah contains some rulings incompatible with modern time and hence must be reconsidered and modified. They give as illustration the ruling pertinent to inheritance where the share of a man equals the share of two women. What is the Islamic view concerning those who make this claim?   
 

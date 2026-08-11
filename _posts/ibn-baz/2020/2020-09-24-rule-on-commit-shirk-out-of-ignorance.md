@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on making Sujud and slaughtering for other than Allah out of ignorance
 hijri: '1442-02-07'
 source: Majmu' Fatawa Ibn Baz 28/146, question 4
@@ -16,8 +16,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 What is the ruling on making Sujud (Prostration) and slaughtering for other than Allah out of ignorance? Is doing these acts ignorantly the same as doing them intentionally? 

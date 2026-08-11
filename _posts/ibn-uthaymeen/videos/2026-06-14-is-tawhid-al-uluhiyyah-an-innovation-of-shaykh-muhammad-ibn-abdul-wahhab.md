@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-06-14
 title: Is Tawhid al-Uluhiyyah an Innovation of Shaykh Muhammad ibn Abd al-Wahhab?
 source: Liqa' al-Bab al-Maftuh 52
@@ -23,8 +23,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1447-12-28'
 ---
-
-
 ### Question:
 
 If this man is a Sufi and hates this Tawhid [al-Uluhiyyah (Oneness of Divinity in worship)], saying, 'This is something innovated by Muhammad ibn Abd al-Wahhab al-Najdi,' how do we respond to him and what arguments do we use against him?

@@ -4,7 +4,7 @@ hijri: '1441-11-19'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatwas of the Permanent Committee of KSA, Fatwa no.3596, Question 1
 summary: It is not permissible to place any books with the dead person believing that
   they will make them stand firm while answering the two angels’ questions.
@@ -13,8 +13,6 @@ tags:
 title: Ruling on placing book in the grave
 translation: false
 ---
-
-
 ### Question: 
 
 We have a strange practice and would like to know the religious ruling on it. Some people place a book they call 'Al-Dawshan' or 'Al-Qudwah' in the grave with the dead person. The people who wrote these books say that they make the dead person stand firm while answering the angel’s questions.

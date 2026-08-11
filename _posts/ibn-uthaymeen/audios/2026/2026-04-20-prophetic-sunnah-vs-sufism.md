@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-04-20
 hijri: '1447-11-03'
 title: Adhering to the Prophetic Sunnah vs. Innovated Paths
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 ### Question:
 
 The final question asks: I follow a Sufi path (Tariqa), and I do not hold any beliefs regarding the Sheikh that contradict the Sharia. The matter is simply that I view the Sheikh as a teacher who guides toward the path of the Law, in total accordance with the noble Sharia only. However, he organizes legitimate remembrances (dhikr) that contain goodness, and he says nothing other than what has been brought by the Sunnah or the Book (the Quran). What is your opinion on following it?

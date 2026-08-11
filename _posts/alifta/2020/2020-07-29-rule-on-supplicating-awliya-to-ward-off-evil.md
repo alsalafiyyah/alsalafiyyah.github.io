@@ -15,7 +15,7 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 5476, Question 4
 summary: Making Du'a to others instead of Allah such as pious people to remove harm,
   cure the sick, or secure a road is Shirk Akbar  that takes its doer away from the
@@ -23,8 +23,6 @@ summary: Making Du'a to others instead of Allah such as pious people to remove h
 title: Ruling on supplicating to the Awliya to ward off evil and pretending to know
   the Ghayb
 ---
-
-
 ### Question: 
 
 There is a righteous person or so we call him who lives at my residence. He is still alive and people honor him greatly. He has yearly banquets prepared by the rich men of the tribes for him. One person may come and say: 'O sir, you will have dinner with me' as a matter of blessing. Another says: 'O sir, you will have lunch with me.' As for the banquet, they slaughter one or two animals. About fifty or sixty people gather at the banquet and recite formulae of Dhikr (Remembrance of Allah) in the nightly banquet. The cost of the banquet may be around one hundred pounds. When the pious man leaves, the owner of the banquet follows him and gives him from twenty to fifty pounds. This happens every year by the well-to-do people. He knows that people make Du'a (supplication) to Allah by means of his position or honor in his absence. For example, when a person who thinks highly of this man's piety, falls into distress, he says: 'O sir so and so, by your position and dignity with Allah, relieve my distress, whether it be sickness, fear of a road, or darkness at night, etc. 

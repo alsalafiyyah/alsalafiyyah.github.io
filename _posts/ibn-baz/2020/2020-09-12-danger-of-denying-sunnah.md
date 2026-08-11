@@ -8,7 +8,7 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa vol. 27
 summary: I considered it necessary to make things clear regarding the claims of this
   man, and expose his reality before the Muslims so that they would be aware of his
@@ -16,8 +16,6 @@ summary: I considered it necessary to make things clear regarding the claims of 
   Ummah.
 title: Danger of denying the Sunnah by words and deeds
 ---
-
-
 This letter is from [**Abdul-Aziz ibn Abdullah ibn Baz**](/biography/binbaz/) to **Chairman of European Islamic Council**, may Allah protect you! As-salamu 'alaykum warahmatullah wabarakatuh (May Allah's Peace, Mercy, and Blessings be upon you!)
 
 An American-Egyptian citizen living in Tucson, Arizona, called **Rashad Khalifah** who is in charge of a Masjid (mosque), antagonizes Islam, denies the Sunnah, and disparages the Messenger of Allah (peace be upon him). There has been many reports against him. The following is a summary of them:

@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: On Shaykh Al-Albani
 hijri: '1442-03-14'
 source: Fatawa Al-Shaykh Ibn Baz vol. 25
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 We have a knowledgeable Shaykh in our district, but he insults the other Shaykhs who contradict his opinions. This Shaykh mentions Shaykh Nasir Al-Din Al-Albani specifically and he warns people against him almost every night during the talks that he gives in Ramadan. He claims that this is the opinion of all virtuous scholars on Shaykh Al-Albany and that the latter is just a book dealer. Our respected Shaykh! Could you please tell us your opinion on Al-Albany so that we may convey it to this Shaykh as well as the large number of people who attend his lectures. 

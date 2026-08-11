@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-08-08
 hijri: '1448-02-25'
 title: Ways to Honor Deceased Parents and Maintain Their Ties
@@ -23,8 +23,6 @@ muftis:
   - name: Shaykh Salih al-Fawzan
     url: /biography/fawzan/
 ---
-
-
 ### Question: 
 
 What reaches parents who passed away many years ago, especially since I was not dutiful to them during their lives? What is required of me now? 

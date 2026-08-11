@@ -4,7 +4,7 @@ hijri: '1441-12-07'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 5235, Question 2
 summary: The claim that this man is Al-Mahdy and that the Prophet (peace be upon him)
   used to walk before his army and give him glad tidings of triumph is an open lie
@@ -14,9 +14,6 @@ tags:
 title: Ruling on Mahdiyyah Sufi order
 translation: false
 ---
-
-
-
 ### Question: 
 
 There is a Sufi Order called "Al-Ansar" (the followers of Al-Mahdy) which is widespread in Western Sudan. The supporters of this order are millions of common people. Al-Mahdy said in his publications: "The Prophet (peace be upon him) used to walk before my army and give me glad tidings of victory." What is your opinion about these superstitions and deceit?

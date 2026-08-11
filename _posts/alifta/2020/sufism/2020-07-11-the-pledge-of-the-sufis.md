@@ -4,7 +4,7 @@ hijri: '1441-11-20'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatwas of the Permanent Committee of KSA, Fatwa no.11056, Question 3
 summary: This kind of pledge is not valid. You have done well by repenting to Allah
   (Exalted be He). You have to hold firm with the Book of Allah (Exalted be He) and
@@ -15,9 +15,6 @@ tags:
 title: The pledge of the Sufis
 translation: false
 ---
-
-
-
 ### Question: 
 
 I was under age when I went to one of the shaykhs of the Sufi sects. I said to him: I want to join the sect of Shaykh 'Abdul-Qadir Al-Jialy. He said: Take the pledge. I took the pledge from him by placing my hand in his and he said to me: Repeat the words of the pledge after me. In the Name of Allah Most Gracious Most Merciful. O Allah, send Your peace and blessings upon our master Muhammad, his family and Companions. I made up my mind to join the sect of Shaykh Abdul-Qadir Al-Jialy. I dedicated myself for this Shaykh, and I would mention his name.

@@ -5,14 +5,12 @@ hijri: '1442-01-09'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 4321, Question 3
 summary: Salah is obligatory upon every Mukallaf either man or woman, five times a
   day.
 title: Obligation of Salah on a Mukallaf
 ---
-
-
 ### Question: 
 
 Is Salah obligatory at all times? What is the ruling if a person gives up Salah because of the mere thought that their Salah is not accepted by Allah or that though they pray, they do not refrain from what Allah has declared prohibited? Should they continue to pray during all circumstances?

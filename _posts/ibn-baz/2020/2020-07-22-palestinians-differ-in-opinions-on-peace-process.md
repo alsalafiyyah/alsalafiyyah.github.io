@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Palestinians differ in their opinions regarding the peace process
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat 8
 category:
 - rulership
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 The Palestinians differ in their opinions regarding the peace process, while Hamas opposes it and calls for resistance, the Palestinian National Authority approves it, and the rest of people seem to support the Authority. Who should the people obey? What is our attitude abroad? Please clarify Al-Haqq (the Truth), as we are afraid that the Palestinians themselves may fight each other. Finally, as you are loved by the people, I would like to ask Your Eminence to dedicate a word to the people of this Ummah (nation) that will help them achieve happiness in this world and in the Hereafter, and guarantee the superiority of religion. May Allah guide us and you to all goodness! Amin.

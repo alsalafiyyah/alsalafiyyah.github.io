@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Condemning the Pre-Islamic Mindset Regarding the Birth of Girls
 hijri: '1447-11-24'
 date: 2026-05-11
@@ -24,8 +24,6 @@ muftis:
   - name: Shaykh Ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 What is the Islamic legal ruling, in Your Eminence’s view, regarding someone who dislikes daughters and becomes angry when a girl is born to him?

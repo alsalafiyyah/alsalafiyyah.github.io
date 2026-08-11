@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on reciting Al-Fatihah for the deceased when visiting his grave
 hijri: '1444-12-24'
 source: Majmu' 13/340-341
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Ibn Baz
     url: /biography/binbaz/
 ---
- 
-
 ### Question: 
 
 Is it permissible to read Al-Fatihah or anything from the Qur’an for the deceased when visiting his grave, and does that benefit him? 

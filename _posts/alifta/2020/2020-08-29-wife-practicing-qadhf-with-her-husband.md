@@ -15,15 +15,13 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah no. 18911-5
 summary: The Hadd (ordained punishment for violating Allah’s Law) of Qadhf (falsely
   accusing a chaste person of involvement in prohibited sexual relations) is applicable
   to males and females because of the general meaning of the Ayah (Qur'anic verse).
 title: Ruling on a wife practicing Qadhf with her husband
 ---
-
-
 Question: 
 
 Is it permissible for a woman to accuse her husband of adultery when she sees any signs of it and what if she can not prove it, should she be whipped or not?

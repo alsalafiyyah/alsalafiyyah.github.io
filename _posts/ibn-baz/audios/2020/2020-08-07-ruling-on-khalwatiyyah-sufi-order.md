@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ruling on Khalwatiyyah Tariqah
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_463/46305.mp3
 link: https://cutt.ly/tdGpd4W
 hijri: '1441-12-17'
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 I am a follower of a Khalwati Shaykh and I am quite sure that he is a good man and a very righteous person. It is to be noted that anyone following his order becomes righteous and repents to Allah. Some of those who repented used to commit evil actions. This question is presented to you, because you mentioned that all the orders of Sufism are innovations in the religion. Please tell me about my situation, may Allah guide you. Should I continue following this way or should I abandon it? May Allah reward you with the best. 
 

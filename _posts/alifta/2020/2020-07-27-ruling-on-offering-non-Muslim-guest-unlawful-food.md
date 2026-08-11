@@ -12,15 +12,13 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah Ibn Mani'
     url: /biography/mani/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA no. 443, Question 4
 summary: If one may be harmed due to not being generous to them, then it is permissible.
   However, offering them illegal foods and drinks prohibited by Allah as swine flesh
   and wine is not permissible.
 title: Ruling on offering a non-Muslim guest unlawful food
 ---
-
-
 ### Question: 
  
 Is it permissible for a Muslim to be generous to non-Muslim companions by offering them foods and drinks that are prohibited by Islam upon Muslims? What is the ruling on this especially when a Muslim visits his non-Muslim companion?

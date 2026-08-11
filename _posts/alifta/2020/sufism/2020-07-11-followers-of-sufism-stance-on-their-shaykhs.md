@@ -5,7 +5,7 @@ hijri: '1441-11-20'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatwas of the Permanent Committee of KSA, Fatwa no.21025, Question 3
 summary: It is the duty of a Muslim to follow what Allah (Exalted be He) has revealed
   to His Prophet (peace be upon him); the Qur'an and Sunnah which contain guidance
@@ -17,9 +17,6 @@ tags:
 title: The followers of Sufism stance on their shaykhs
 translation: false
 ---
-
-
-
 ### Question: 
 
 Some ignorant Sufis follow their Shaykhs in their error and immorality. The Sufi before his Shaykh is like a dead person before his washer to dispose of him as he wants supposing that the Shaykh is a Waliy (pious person) who must be followed because of His saying: "...and follow the path of him who turns to Me in repentance and in obedience." [Luqman: 15] The worst is that they claim to know the unseen and set the proofs to this by Allah's saying: "And they will never compass anything of His Knowledge except that which He wills." [al-Baqarah: 255] So how could we refute their claims? What is the correct explanation to these two Ayahs? 

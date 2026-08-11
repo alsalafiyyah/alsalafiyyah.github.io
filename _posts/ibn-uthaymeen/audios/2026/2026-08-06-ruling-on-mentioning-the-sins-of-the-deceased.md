@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-08-06
 title: Ruling on Mentioning the Sins of the Deceased
 category:
@@ -21,8 +21,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1448-02-23'
 ---
-
-
 ### Question: 
 
 May Allah reward you with good. The questioner A. M. M., a resident of Riyadh, asks: Is mentioning deceased individuals by their evil deeds—such as usury and others—and [mentioning] Allah's retribution against them, given that **"Allah Almighty grants respite to the wrongdoer but does not let [them escape]"**, remembering them to take heed, and expressing anger toward them—does mentioning them by name constitute backbiting or is it unlawful?

@@ -4,7 +4,7 @@ hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah no. 2986
 summary: You should follow the way of truthful believers who believe in what Allah
   has revealed and His Messenger (peace be upon him) has explained, and act upon the
@@ -14,8 +14,6 @@ tags:
 title: Ruling on believing in Shadhiliyyah Sufi order
 translation: false
 ---
-
-
 ### Question: 
 
 There is a Sufi order called “[Al-Shadhiliyyah](/sufism)”. Its members do not perform Salah (prayer), nor Sawm (fasting), nor pay Zakah (obligatory charity). They have a person whom they call “Sayyiduna” (our master) and regard him as their lord who will secure them in the Hereafter and forgive them everything which they have committed in their worldly life. These people gather on Mondays and Fridays mornings and on Thursdays and Sundays evenings. 

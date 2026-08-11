@@ -4,7 +4,7 @@ hijri: '1441-12-07'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 3323, Question 10
 summary: Love of the Awliya' of Allah and honoring a guest are among the most outstanding
   virtues of Shari'ah and exhorted by the Qur'an and the Sunnah.
@@ -13,8 +13,6 @@ tags:
 title: Ruling on reading the virtues of Shaykh Abdul-Qadir
 translation: false
 ---
-
-
 ### Question: 
 
 What is the ruling concerning gathering one's neighbors to read the virtues of Shaykh Abdul-Qadir, believing that this leads to the love of Awliya (pious people), then offering a feast honoring the guests acting upon the Hadith which reads: "He who believes in Allah and the Last Day should show hospitality to his guest." [^1] 

@@ -4,7 +4,7 @@ hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdullah ibn Ghudayyan
@@ -13,8 +13,6 @@ source: Fatawa Al-Lajnah Ad-Da'imah no. 11102
 title: Distributing the inheritance after one of the heirs has traded in it and made
   profits
 ---
-
-
 Question:
 
 My father was a merchant and he died in 1970, and left three million dirhams. I took over his trade in this sum of money. I had a married sister, two unmarried sisters and a brother who were under my guardianship until they became of age and married. I had to distribute the inheritance of our father between us, but no one told me this at that time. I am still running the trade, given that I am still the one who controls the money.

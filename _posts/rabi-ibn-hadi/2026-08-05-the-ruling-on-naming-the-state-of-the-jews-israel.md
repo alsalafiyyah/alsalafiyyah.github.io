@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The ruling on naming the state of the Jews 'Israel'?
 date: 2026-08-05
 lang: en
@@ -20,8 +20,6 @@ muftis:
     url: /scholar/rabi-ibn-hadi
 hijri: '1448-02-22'
 ---
-
-
 Praise be to Allah, and peace and blessings be upon the Messenger of Allah, his family, his companions, and those who follow his guidance. To proceed:
 
 There is a strange, widespread phenomenon among Muslims, namely calling the accursed Jewish state by the name "Israel"!

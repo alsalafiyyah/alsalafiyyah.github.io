@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2019-11-19
 hijri: '1441-03-22'
 title: On the Scope of the Term 'Salafi' and the Rejection of Factional Divisions
@@ -23,8 +23,6 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 Questioner: It has become customary to describe a specific group of Muslims as Salafis...
 
 The Sheikh: A what group?

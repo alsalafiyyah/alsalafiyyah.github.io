@@ -14,14 +14,12 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA no. 21561-3
 summary: The book entitled 'Al-Mustatraf' includes good and bad information. Therefore,
   one should not rely on it either regarding knowledge or religion.
 title: 'Ruling on book entitled: ''Al-Mustatraf'''
 ---
-
-
 Question: 
 
 What is your opinion regarding the book entitled "Al-Mustatraf", Is it useful?

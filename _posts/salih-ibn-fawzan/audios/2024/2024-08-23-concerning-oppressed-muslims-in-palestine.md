@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Concerning Oppressed Muslims in Palestine
 hijri: '1446-02-19'
 date: 2024-08-23
@@ -26,8 +26,6 @@ muftis:
   - name: Shaykh Salih Al-Fawzan
     url: /biography/fawzan
 ---
-
-
 ### Question: 
 May Allah reward you with good, this questioner says, what is your advice for the Muslims in light of the conditions which they are living under in Palestine and what actions are obligatory upon the Muslims to do?
 

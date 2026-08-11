@@ -14,13 +14,12 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Ghudayyan
     url: /biography/ghudayyan
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no.1456, Question 3
 summary: These women would not enter Paradise nor perceive its odor, even though its
   odor can be perceived at such and such very remote distance.
 title: Ruling on parting hair on side
 ---
-
 ### Question: 
 
 What is the ruling on a woman parting her hair on the side, making only one braid, or wearing it in a bun, with the intention of making herself beautiful for her husband or to look good because it suits her?

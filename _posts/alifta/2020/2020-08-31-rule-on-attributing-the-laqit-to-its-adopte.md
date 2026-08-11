@@ -4,7 +4,7 @@ hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Ibrahim ibn Muhammad Aal Al-Shaykh
 - Shaykh Abdul-Razzaq al-Afify
@@ -13,8 +13,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 122
 title: Ruling on attributing the Laqit to its adopter
 ---
-
-
 Question: 
 
 A relative of mine, my uncle Hamad, adopted a Laqit (foundling), brought him up, educated him, and treated him well. He gave him the name (Y.H.SH.) through his Ijtihad (personal reasoning) and kindness. He then died in Zubayr city and he did not have any children to inherit him. The boy is now an adult and is attending the Zhahran Technical Institute. The relatives have discussed the possibility of changing the boy’s name; some of them think that his name should be changed while others have paid no attention to the whole matter. Fearing that the lineage could be confused and the inheritance might be distributed improperly, I hope that Your Eminence will give me a Fatwa (legal opinion issued by a qualified Muslim scholar) regarding the ruling of the Shari‘ah (Islamic law) on the issue, so we can act upon it.

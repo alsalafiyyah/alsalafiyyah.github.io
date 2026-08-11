@@ -13,14 +13,12 @@ muftis:
   members:
   - name: Shaykh Abdullah Ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah of KSA no. 9845-3
 summary: What should I do to learn the Arabic Language and write it very well? Indeed,
   I did not have a good education and I want to enrich my knowledge in Arabic.
 title: Learning Arabic
 ---
-
-
 Question:
 
 What should I do to learn the Arabic Language and write it very well? Indeed, I did not have a good education and I want to enrich my knowledge in Arabic. I am the only person in my village who teaches children. I would like to have your advice on this. May Allah reward you with the best. 

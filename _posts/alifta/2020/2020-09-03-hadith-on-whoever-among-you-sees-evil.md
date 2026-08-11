@@ -15,15 +15,13 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah no. 4262-4
 summary: 'What is the meaning of the Hadith reported on the authority of Abu Hurayrah
   (may Allah be pleased with him) in which the Prophet (peace be upon him) said: ''Whoever,
   among you, sees something abominable should rectify it with his hand'''
 title: 'The Hadith: ''Whoever among you sees an evil'''
 ---
-
-
 Question:
 
 What is the meaning of the Hadith reported on the authority of Abu Hurayrah (may Allah be pleased with him) in which the Prophet (peace be upon him) said: "**Whoever, among you, sees something abominable should rectify it with his hand; and if he has not strength enough to do it, then he should do it with his tongue; and if he has not strength enough to do it, (even) then he should (abhor it) from his heart, and that is the least of Faith.**" [^1] How does one rectify an evil by abhorring it in one's heart? Is a person who tries to rectify an evil in this manner rewarded? 

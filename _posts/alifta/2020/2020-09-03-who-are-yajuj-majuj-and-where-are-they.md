@@ -12,14 +12,12 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah Ibn Mani'
     url: /biography/mani/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 845, Question 3
 summary: Ya'juj and Ma'juj are from Bani Adam or human beings, from the line of Yafith
   ibn Nuh. They live in Asia, in northern China.
 title: Who are Gog and Magog and where are they?
 ---
-
-
 ### Question: 
 
 Who are Ya'juj and Ma'juj (Gog and Magog), which continent do they possibly live in, and are they on the earth? 

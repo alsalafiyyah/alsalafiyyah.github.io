@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-08-06
 title: Is saying 'Good evening' and 'Good morning' a pre-Islamic greeting?
 category:
@@ -20,8 +20,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1448-02-23'
 ---
-
-
 ### Question: 
 
 May Allah reward you with good. Among the questions of this questioner, O Shaykh: If a Muslim begins a greeting by saying "Good evening" or "Good morning," is this a pre-Islamic (Jahiliyyah) greeting?

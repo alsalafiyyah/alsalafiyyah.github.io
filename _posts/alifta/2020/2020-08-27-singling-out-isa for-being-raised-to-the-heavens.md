@@ -4,7 +4,7 @@ hijri: '1442-01-08'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-'Aziz ibn 'Abdullah ibn Baz
 - Shaykh Abdul-Razzaq al-Afify
@@ -13,8 +13,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 1621-5
 title: Singling out 'Isa for being raised to the heavens
 ---
-
-
 Question: 
 
 As Muhammad (peace be upon him) is the best of Prophets, why was he not raised to the heavens instead of 'Isa (Jesus, peace be upon him), if the latter was actually raised? Why is 'Isa in particular, among all the prophets, the one who was raised? Please give reason for this.

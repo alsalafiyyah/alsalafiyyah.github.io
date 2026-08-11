@@ -8,15 +8,13 @@ muftis:
   shaykh:
   - name: Shaykh Salih Al-Fawzan
     url: /biography/fawzan
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Aqidatul-Haaj Fee dawil-Kitab was-Sunnah, p.22-23
 summary: They contrive lies against us whilst we do not worship the Ka'bah but rather
   we worship the Lord of the Ka'bah.
 title: Do Muslims Worship The Black Stone and The Ka'bah?
 translated_by: Abu Abdillah al-Kashmiri
 ---
-
-
 ### Question:
 What is the rebuttal to the Malaahidah (atheists) who say: You O Muslims worship a stone and circumambulate around it! So how can you reproach others from worship of idols and statues/images?
 

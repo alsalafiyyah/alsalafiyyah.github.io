@@ -13,14 +13,12 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 9629
 summary: If you are unable to immigrate, you should abandon all these sects. If this
   is difficult for you, then you must hold tight to the Din of Allah until you die.
 title: Hijrah from countries of Kufr, sorcery and charlatanism
 ---
-
-
 ### Question:
 
 Hijrah (a believer's migration to an Islamic land) does not end until the coming of the Day of Resurrection. I live in a non-Muslim country replete with charlatans, foretellers, and sorcerers. However, I am a believing Muslim who loves Allah (Exalted be He) and His Messenger (peace be upon him), but I do not know what to do in this country and I can not find suitable husbands for my daughters. What is the ruling in this regard? 

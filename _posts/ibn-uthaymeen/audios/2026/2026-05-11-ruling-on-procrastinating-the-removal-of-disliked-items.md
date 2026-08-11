@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-11
 hijri: '1447-11-24'
 title: The Ruling on Procrastinating the Removal of Disliked Items
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 Questioner: Following the father’s death, some photos remained...
 
 Shaykh: Yes.

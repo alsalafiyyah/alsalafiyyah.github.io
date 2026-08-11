@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-08-06
 title: Responding to the Misuse of 'For You Is Your Religion' when Enjoining Good
   and Forbidding Evil
@@ -23,8 +23,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1448-02-23'
 ---
-
-
 ### Question: 
 
 Rashid Ghanem Al-Abd Al-Ghaffar also says: Some people—may Allah guide them—when you command them to fulfill a religious duty, say: **'For you is your religion, and for me is my religion.'** [al-Kafirun: 6] What is the Muslim's stance on this?

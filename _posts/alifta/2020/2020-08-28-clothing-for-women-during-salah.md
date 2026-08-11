@@ -14,12 +14,10 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 8708, Question 8
 title: Clothing for women during Salah
 ---
-
-
 ### Question: 
 
 I used to pray without wearing Hijab (veil), as I did not know of its obligation during prayer. Should I repeat all the obligatory and supererogatory Salahs even though this has been happening for almost six years?

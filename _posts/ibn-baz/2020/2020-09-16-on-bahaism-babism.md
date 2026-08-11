@@ -8,14 +8,12 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa by Shaykh Ibn Baz 13/169
 summary: The Babists carried out an armed terrorist movement in which they shed a
   great deal of blood and killed hundreds of people.
 title: A brief look at Babism and Bahaism and their hatred towards the Muslims
 ---
-
-
 All Praise is due to Allah. May peace and blessings be upon the Messenger of Allah, his family and Companions. To proceed:
 
 **This is a brief description of Babism and Baha'ism.**

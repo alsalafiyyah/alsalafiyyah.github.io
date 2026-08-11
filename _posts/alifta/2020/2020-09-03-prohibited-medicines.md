@@ -18,15 +18,13 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/zayd/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 16805, Question 3
 summary: A Muslim is forbidden to make use of any harmful herb such as intoxicant
   herbs, as they affect the mind and religion. They may cause sterility, weakness
   or the like.
 title: Prohibited medicines
 ---
-
-
 ### Question:
 What are the kinds of herbs a Muslim is forbidden to make use of for treatment?
 

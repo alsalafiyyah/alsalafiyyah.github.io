@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jama'at Al-Tabligh are Modern-Day Sufism
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Al-Ajwibah Al-Mufidah p.32-35, Question no.11
 hijri: '1445-01-05'
 date: 2023-07-23
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Salih Al-Fawzan
     url: /biography/fawzan/
 ---
-
-
 ### Question: 
 
 [Jama'at at-Tabligh](https://alsalafiyyah.github.io/the-sects/), for example, say: **"We want to follow the methodology of Ahlus-Sunnah wal-Jama'ah."** However some of them fall into error and then say: **"How can you make rulings on us and warn against us?"**

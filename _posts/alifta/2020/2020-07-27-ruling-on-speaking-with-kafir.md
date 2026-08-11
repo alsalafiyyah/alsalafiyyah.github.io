@@ -16,14 +16,12 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 19146, Question 4
 summary: It is permissible, if there is no fear of temptation, and only as much as
   is necessary.
 title: Ruling on speaking with a Kafir
 ---
-
-
 ### Question: 
 
 Is it permissible to speak with non-Muslim females and male Kafirs (disbelievers)?

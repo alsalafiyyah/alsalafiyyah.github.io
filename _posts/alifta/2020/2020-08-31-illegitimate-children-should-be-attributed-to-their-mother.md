@@ -4,7 +4,7 @@ hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdul-Razzaq al-Afify
@@ -12,8 +12,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 14014
 title: Illegitimate children should be attributed to their mother
 ---
-
-
 Question: 
 
 I am a 24-year old man studying in America. Two years ago, I met an American girl and after few days I had sexual intercourse with her. Our relationship continued for a while and she became pregnant. I did not care and we continued our relationship until she delivered a female baby. Now, the child is a year and half old and lives with her mother. Dear respected Shaykh, I do not know what to do in this case, and I do not know the ruling of Islam on it. Should I marry this girl? Is the child attributed to me or to her mother? Should I leave her, return to Saudi Arabia, repent to Almighty Allah and forget everything?

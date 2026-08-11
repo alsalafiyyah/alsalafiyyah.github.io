@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-08-06
 title: The Distinction Between Religious Worship and Cultural Customs
 category:
@@ -21,8 +21,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1448-02-23'
 ---
-
-
 ### Question: 
 
 Your Eminence Shaykh Muhammad, the phrase "This is from our traditions" or "This is from our customs" is frequently on the lips of many people. Perhaps you have some guidance regarding these phrases, O Sheikh?

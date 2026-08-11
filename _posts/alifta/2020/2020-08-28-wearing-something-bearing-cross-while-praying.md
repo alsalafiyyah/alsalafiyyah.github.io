@@ -14,15 +14,13 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 2615, Question 9
 summary: It is not permissible to wear a watch that has a cross on it, be it in Salah
   or otherwise. This cross must be removed either by scraping it off or by covering
   it with some paint.
 title: Ruling on wearing something bearing a cross while praying
 ---
-
-
 ### Question: 
 
 What is your opinion concerning performing Salah (Prayer) while wearing a watch that has the sign of the cross on it? Is this permissible, or not?

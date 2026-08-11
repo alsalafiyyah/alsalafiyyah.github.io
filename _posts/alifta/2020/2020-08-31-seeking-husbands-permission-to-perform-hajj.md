@@ -5,15 +5,13 @@ hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah no. 5659
 summary: If your situation with your husband is as you described, you are obliged
   to travel with the said Mahrams, even if your husband does not give you the permission
   and provided that you have never performed the obligatory Hajj or Umrah before.
 title: Seeking husband's permission to perform obligatory Hajj
 ---
-
-
 ### Question:
 I am a married woman for forty years. I've been asking my husband to perform Hajj and he agrees. However, every time he goes to perform Hajj or `Umrah he changes his mind and prevents me from accompanying him to take care of his sheep and cattle. Although he performed Hajj more than five times, he refuses my request to travel with my sons in law. Is it permissible to travel for Hajj with my son in law in spite of my husband's rejection?
 

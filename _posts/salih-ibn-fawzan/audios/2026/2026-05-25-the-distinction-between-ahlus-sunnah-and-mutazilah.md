@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-25
 title: The Distinction Between Ahl al-Sunnah and the Mu'tazilah in Source and Creed
 category:
@@ -21,8 +21,6 @@ muftis:
     url: /biography/fawzan/
 hijri: '1447-12-08'
 ---
-
-
 ### Question: 
 
 May Allah be good to you. [The questioner] asks: Is the real dispute between Ahl al-Sunnah (the People of Sunnah) and the Mu'tazilah concerning one issue only? And did you say that? What is this issue?

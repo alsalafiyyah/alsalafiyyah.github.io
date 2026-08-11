@@ -7,14 +7,12 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa of Ibn Baz vol 28, question no. 21
 summary: 'They say that the Call to Islam does not need knowledge or Fiqh based on
   Hadith: ''Convey (my teachings) to the people even if it were a single sentence.'''
 title: Ruling on claiming that the Call to Islam does not need knowledge
 ---
-
-
 Question:
 
 Some Muslim brothers hold the view of the obligatory nature of calling non-Muslims to Islam upon every capable Muslim. They also believe that it is permissible for a Muslim to live with non-Muslims and imitate their way when calling to Islam. They say that the Call to Islam does not need knowledge or Fiqh (Islamic jurisprudence) based on the saying of the Messenger of Allah (peace be upon him): "**Convey (my teachings) to the people even if it were a single sentence.**" [^1] What is the accuracy of this view? Is there any special Fiqh for such a call? Is this call considered Fard 'Ayn (Individual obligation) or Fard Kifayah (Collective duty)?

@@ -9,15 +9,13 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Shaykh Ibn Baz 1
 summary: Generally, the corrupt belief adopted by the denying Jahmiyyah and their
   followers from among the Mubtadi's (those who introduce innovations in religion)
   is one of the most wicked and harmful beliefs.
 title: Refuting those who say that Allah dwells among His creatures
 ---
-
-
 There are repeated questions about the claim that Allah (Glorified be He) dwells among His creatures and mingles with them. They claim that this is the meaning of the general Ma'iyyah (accompaniment). They take as evidence the Ayah (Qur'anic verse), saying: "**And you (O Muhammad صلى الله عليه وسلم) were not on the western side (of the Mount)...**" [Al-Qasas: 44] And: "**You were not with them, when they cast lots with their pens as to which of them should be charged with the care of Maryam (Mary); nor were you with them when they disputed.**" [Aal Imran: 44] They claim that these two Ayahs denote that the Prophet (peace be upon him) was not with them, but Allah was present in person with them, because He is present everywhere.
 
 Since those people misunderstood the whole point and made a big mistake, opposing the true 'Aqidah (creed) preached in the Noble Qur'an and the Prophetic Sunnah and adopted by the Salaf (righteous predecessors) of the Muslim nation, I think I must clarify the right opinion on such a false belief and what seems to be confusing about this point pertaining to Allah's Names and Attributes. Allah (Exalted and Glorified be He) can be described only with the Names and Attributes with which He has described Himself and the Names and Attributes with which His Prophet Muhammad (peace be upon him) described Him, which befit His Majesty and Glory without Takyif (descriptive designation of Allah's Attributes), Tamthil (likening Allah's Attributes to those of His Creation), Tahrif (distortion of the meaning), or Ta'til (denial of Allah's Attributes). This is because Allah (Exalted be He) says: "**There is nothing like Him; and He is the All-Hearer, the All-Seer.**" [Al-Shura: 11] 

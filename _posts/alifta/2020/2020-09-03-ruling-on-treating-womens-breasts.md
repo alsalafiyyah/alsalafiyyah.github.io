@@ -15,14 +15,12 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/zayd/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 20919
 summary: My wife is ill with breast atrophy. Even though the breasts were improving
   during the period of breastfeeding, they would atrophy soon after.
 title: Ruling on treating women's breasts
 ---
-
-
 ### Question:
 My wife is ill with breast atrophy. Even though the breasts were improving during the period of breastfeeding, they would atrophy soon after. The matter worsened last year with the breasts becoming the same size as a man's. I took her to a Qatari doctor who advised performing a silicone breast implant in order to increase the size of the breast. Attached to my inquiry is a translated case report. I am going through a two-fold problem:
 

@@ -13,14 +13,12 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 4276, Question 6
 summary: Yes, it is permissible to use a hypnotic drug when needed with a medical
   prescription from a specialist.
 title: Ruling on taking hypnotic drugs
 ---
-
-
 ### Question:
 Is it permissible to use a hypnotic drug (sleeping pills)? 
 

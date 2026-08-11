@@ -5,15 +5,13 @@ hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no.  3681
 summary: It is Haram to use this type of insulin which is produced from pigs. This
   view is based on authentic evidence indicating the prohibition to use unlawful things
   as medications.
 title: Ruling on treating diabetes with a medicine extracted from pigs
 ---
-
-
 ### Question:
 Diabetes is a widespread disease which develops as a result of deficiency of insulin secretion at the pancreas gland. Millions of diabetic patients were successfully treated via insulin injections extracted from calves. This is considered an important discovery and an outstanding development in the domain of modern medicine. New types of insulin extracted from pigs have been discovered recently. These types of insulin, among many other advantages, are distinguished for being free from impurities and can be injected in small doses into patients who are immune or allergic to insulin extracted from calves. Unfortunately, no pure insulin has been extracted from calves even though scientific experiments are being conducted for this aim. Is it Haram (prohibited) to use the insulin extracted from pigs knowing that it is taken by means of injection and is not taken orally? This type of insulin has been extracted in a sophisticated chemical way which is beyond the scope of the question.
 

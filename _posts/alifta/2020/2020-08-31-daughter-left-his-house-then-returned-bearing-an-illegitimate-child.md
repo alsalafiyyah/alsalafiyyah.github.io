@@ -4,7 +4,7 @@ hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz Aal al-Shaykh
 - Shaykh Abdul-Aziz ibn Baz
@@ -15,8 +15,6 @@ source: Fatawa Al-Lajnah Ad-Da'imah no. 16843-5
 title: His daughter left his house and then returned bearing an illegitimate male
   child
 ---
-
-
 Question: 
 
 A man works in France and has a daughter which is not an upright Muslim. She left the house of her father and complained to the French authorities. He went to court and she remained in their custody for months and finally he received her, praise be to Allah. He returned her to their home country and left her at his brother's who would provide for her. A few months later, she left her uncle and the whole country. Then, she returned bearing an illegitimate male child. Her uncle and all her relatives refused to receive her, and her father told her that if she wanted to remain under his guardianship, he would send her money to be with her uncle but he would not accept the child. However, she refused to forsake her child while her father rejects her baby. What is your answer? Is the father wrong? What is the way out?

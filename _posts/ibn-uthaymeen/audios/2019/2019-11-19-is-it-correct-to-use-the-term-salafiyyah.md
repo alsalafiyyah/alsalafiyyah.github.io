@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2019-11-19
 hijri: '1441-03-22'
 title: Is it correct to use the term 'Salafiyyah' in this day and age?
@@ -21,8 +21,6 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 ### Title/Question: Who are the Salaf, and is it correct to use the term "Salafiyyah" in this day and age?
 
 ### Answer: 

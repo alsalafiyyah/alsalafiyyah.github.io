@@ -4,7 +4,7 @@ hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz Aal al-Shaykh
 - Shaykh Abdullah ibn Ghudayyan
@@ -15,8 +15,6 @@ source: Fatawa Al-Lajnah Ad-Da'imah no. 17275-2
 title: Ruling taking any of the belongings left by the pilgrims after their leaving
   Makkah
 ---
-
-
 Question: 
 
 Someone asks: After finishing their Hajj, some pilgrims leave some of their belongings in Mina, such as thermoses, portable gas stoves. What is the ruling on taking them as their owners left them and went away? Do these objects take the ruling of Luqatah (a lost item found by someone else) in Al-Haram (the Sacred Mosque in Makkah) or are they different? In addition, what about the shoes left in Al-Haram? Is it allowable to take some of them instead of the shoes that one has lost?

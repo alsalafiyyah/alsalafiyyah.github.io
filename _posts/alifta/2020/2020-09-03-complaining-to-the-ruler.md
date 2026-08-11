@@ -18,15 +18,13 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/zayd/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 17834
 summary: Is it obligatory on me to complain to the Imam about someone who does not
   attend the congregational prayer or should I just advise him?
 title: Advising or complaining to the ruler from someone abandoning the congregational
   Salah
 ---
-
-
 ### Question:
 
 Is it obligatory on me to complain to the Imam about someone who does not attend the congregational Salah (Prayer) or should I just advise him? 

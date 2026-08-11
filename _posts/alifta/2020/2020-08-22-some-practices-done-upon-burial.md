@@ -4,7 +4,7 @@ hijri: '1442-01-03'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com, salafiyyah@outlook.sa
+publisher: alsalafiyyah.manhaj@gmail.com, salafiyyah@outlook.sa
 shaykhs:
 - Shaykh Ibn Baz
 - Shaykh Abdul-Aziz Aal Al-Shaykh
@@ -16,8 +16,6 @@ summary: All the practices referred to in the question mentioned above are newly
   bid'ahs, except for the practice of offering condolences to the bereaved family.
 title: Some practices done upon burial
 ---
-
-
 ### Question: 
 When someone dies, people have certain practices that I am going to list, hoping that you will comment and show the juristic ruling on these practices:
 - Some palm tree leaves are put on the coffin (the piece of wood on which the dead body is placed) and these leaves are then buried with the dead person.

@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: 'Tafsir Surah Al-Tawbah, Ayah 4: ''Except those of the Mushrikun with whom
   you have a treaty...'''
 hijri: '1442-03-21'
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 What is the interpretation of the fourth Ayah mentioned in Surah Al-Tawbah. It reads: "**Except those of the Mushrikûn (see V.2:105) with whom you have a treaty, and who have not subsequently failed you in aught, nor have supported anyone against you. So fulfil their treaty to them for the end of their term. Surely Allâh loves Al-Mattaqûn (the pious - See V.2:2).**" [Al-Tawbah: 4]

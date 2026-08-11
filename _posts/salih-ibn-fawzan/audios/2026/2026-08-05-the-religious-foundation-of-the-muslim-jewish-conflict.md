@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-08-05
 hijri: '1448-02-22'
 title: The Religious Foundation of the Muslim-Jewish Conflict
@@ -22,8 +22,6 @@ muftis:
   - name: Shaykh Salih al-Fawzan
     url: /biography/fawzan/
 ---
-
-
 ### Question: 
 
 What is the authenticity of the claim that the conflict between Muslims and Jews is a conflict over land and borders, rather than religion and creed?

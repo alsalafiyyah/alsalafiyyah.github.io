@@ -8,15 +8,13 @@ muftis:
   shaykh:
   - name: Shaykh Salih Al-Fawzan
     url: /biography/fawzan
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Al-Ijabat al-Muhimmah fee Mashakil il-Mudlahimmah by Muhammad bin Fahad al-Husayn
 summary: Those who declare the Muslim rulers to be disbelievers in general, then these
   are from the most extreme of the Khawarij.
 title: Those who declare the Muslim rulers to be disbelievers are from the Khawarij
 translated_by: Abul-Irbad Abid Zargar
 ---
-
-
 ### Question:
 What is our position towards those who make takfeer of the Muslim rulers today, generally and in detail? Are they (those who make takfir of the rulers) considered to be from the Khawarij?
 

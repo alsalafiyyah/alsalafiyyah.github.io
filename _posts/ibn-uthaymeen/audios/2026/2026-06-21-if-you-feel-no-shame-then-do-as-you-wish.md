@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-06-21
 title: If You Feel No Shame, Then Do As You Wish
 source: Fatawa Nur ala ad-Darb, Tape no. 193, Question 2
@@ -20,8 +20,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1448-01-06'
 ---
-
-
 ### Question: 
 
 May Allah bless you. This listener, Sabir 'Ubayd from Sudan, asks about the meaning of the hadith in which the Messenger of Allah ﷺ said: **"Among the words that the people obtained from the early prophecy is: 'If you feel no shame, then do as you wish.'"**?

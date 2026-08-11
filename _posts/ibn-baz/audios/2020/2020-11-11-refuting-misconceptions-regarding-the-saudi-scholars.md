@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Refuting Misconceptions Regarding the Scholars of Saudi Arabia and the Four
   Madhahib
 hijri: '1442-03-25'
@@ -21,8 +21,6 @@ muftis:
   - name: Shaykh Salih Fawzan
     url: /biography/fawzan/
 ---
-
-
 ### Question:
 
 My parents are not upon the correct methodology and Allah (Glorified and Exalted be He) has guided me to the Qur'an and Sunnah upon the methodology of the Sahabah but my parents are causing trouble for me and they claim that all of the scholars in Saudia are Wahhabis and that scholars of Saudia do not consider the four madhahib to be legitimate and they degrade them from their just position therefore it is not permissible to take knowledge from the scholars of Saudia, so how do we refute this shubhat?

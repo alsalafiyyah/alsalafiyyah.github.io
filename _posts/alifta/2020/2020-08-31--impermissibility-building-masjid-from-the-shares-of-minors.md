@@ -4,7 +4,7 @@ hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdullah ibn Mani'
 - Shaykh Abdul-Razzaq al-Afify
@@ -12,8 +12,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 1430-1
 title: Impermissibility of building the Masjid from the shares of minors
 ---
-
-
 Question:
 
 My brother died (may Allah be merciful to him) and left a number of sons and daughters. Some of them are grown-up, others are underage orphans. Their financial status is quite good. Before he died, my brother built a Masjid (mosque) from straw but now it is ruined. I would like to rebuild it from the inheritors' money so that the reward will go to my brother. Is it permissible to rebuild it from the shares of the underage orphans? I believe that if the underage orphans were grown-up, they would not mind rebuilding the Masjid.

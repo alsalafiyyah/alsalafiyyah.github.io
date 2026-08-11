@@ -15,15 +15,13 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Daimah no. 9018-1
 summary: The method which should be followed is the Qur'an and the Sunnah. A person
   should seek the help of Allah (Exalted be He), then the views of the Salaf (righteous
   predecessors) in order to understand them.
 title: The ruling on Al-Ikhwan-ul-Muslimun (the Muslim Brotherhood) group
 ---
-
-
 Question: 
 
 What is the ruling on Al-Ikhwan-ul-Muslimun (the Muslim Brotherhood) group? Are they adherents of Bid'ah (innovation in religion) or are they too lenient? What is the method which should be followed after the Qur'an and the Sunnah?

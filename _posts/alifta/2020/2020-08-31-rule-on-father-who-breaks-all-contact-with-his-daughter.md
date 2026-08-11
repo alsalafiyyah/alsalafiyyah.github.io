@@ -16,15 +16,13 @@ muftis:
     url: /biography/ghudayyan
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 5953, Question 6
 summary: Thus, she must not obey him in this regard, because her act of wearing Hijab
   is an act of obedience to Allah.
 title: Ruling on a father who breaks all contact with his daughter due to her wearing
   Hijab
 ---
-
-
 ### Question: 
 
 What is the ruling on a father who breaks all contact with his daughter due to her wearing Hijab (veil)?

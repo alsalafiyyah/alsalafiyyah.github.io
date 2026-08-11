@@ -17,7 +17,7 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah no. 21279
 summary: Having sex with animals is a bad deed, transgression to bounds set by Allah
   and contradicts the Fitrah (natural disposition) with which a man was created. Allah
@@ -25,8 +25,6 @@ summary: Having sex with animals is a bad deed, transgression to bounds set by A
   girl.
 title: Ruling on bestiality
 ---
-
-
 Question: 
 
 What is the ruling on bestiality?

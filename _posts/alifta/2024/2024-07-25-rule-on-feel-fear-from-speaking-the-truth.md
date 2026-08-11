@@ -12,15 +12,13 @@ muftis:
   shaykh:
   - name: Shaykh Ibn Baz
     url: /biography/binbaz
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Islamiyah Vol. 8 Page 75
 summary: Shyness that prevents you from speaking the truth is not shyness at all,
   but only weakness. The shyness that is approved by the Shariah is shyness that prevents
   you from falsehood and evil.
 title: The Ruling on feeling shy or fear from speaking the truth
 ---
-
-
 ### Question:
 My complaint is that a feeling of fear or dread overcomes me when I want to remove an evil or when I want to ask a question to gain knowledge. What is the cure to this condition?
 

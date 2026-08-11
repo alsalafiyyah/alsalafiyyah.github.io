@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Refuting and criticizing an article published in Al-Musawwir magazine
 hijri: '1442-02-03'
 lang: en
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 All praise be to Allah, and peace and blessings be upon the Messenger of Allah, his family, his Companions, and those who follow his guidance.
 
 "Al-Musawwir" magazine has published an article in its issue no. 2166 on Friday April 15, 1966 A.D./1385 A.H., page 15 under the title: "**The imported principles by Ahmad Baha' Al-Din**"

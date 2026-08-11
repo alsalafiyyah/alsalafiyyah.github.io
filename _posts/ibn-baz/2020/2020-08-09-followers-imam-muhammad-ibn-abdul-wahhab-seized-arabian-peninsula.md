@@ -9,7 +9,7 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa Ibn Baz 1/377
 summary: This claim is groundless. In fact, it is a lie and a way of hindering others
   from the truth. Rather, it is known that when the followers of Imam Muhammad entered
@@ -17,8 +17,6 @@ summary: This claim is groundless. In fact, it is a lie and a way of hindering o
 title: Is it true that the followers of Imam Shaykh Muhammad ibn Abdul-Wahhab seized
   the Arabian Peninsula and reached Madinah
 ---
-
-
 ### Question:
 Is it true that when the followers of Imam Shaykh Muhammad ibn 'Abdul-Wahhab (may Allah be merciful to him) seized the Arabian Peninsula and reached Madinah, they tied their horses to Al-Rawdah Al-Sharifah (the "Noble Garden" – a blessed area between the Prophet's grave and pulpit in his Masjid) in Al-Masjid Al-Nabawi (the Prophet’s Mosque)?
 

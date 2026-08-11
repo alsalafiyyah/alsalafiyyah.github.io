@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The Condition of Proximity in Advising Rulers
 hijri: '1446-01-27'
 date: 2024-08-02
@@ -21,8 +21,6 @@ muftis:
   - name: Shaykh Salih Al-Fawzan
     url: /biography/fawzan/
 ---
- 
-
 ### Question: 
 
 Does the hadith, **"The best Jihad is a word of truth spoken in the presence of a tyrannical ruler,"** apply to someone who publicly criticizes the ruler through the media?

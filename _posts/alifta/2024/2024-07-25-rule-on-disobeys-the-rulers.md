@@ -8,15 +8,13 @@ muftis:
   shaykh:
   - name: Shaykh Salih Al-Fawzan
     url: /biography/fawzan
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Al-Ijabat al-Muhimmah fee Mashakil il-Mudlahimmah by Muhammad bin Fahad al-Husayn
 summary: If he criticises the ruler, then this is the madhab of the Khawarij who criticise
   the rulers, speak about them and incite the people against them.
 title: Ruling on the one who disobeys the rulers
 translated_by: Abul-Irbad Abid Zargar
 ---
-
-
 ### Question:
 What is the ruling regarding the one who disobeys the rulers or criticises them?
 

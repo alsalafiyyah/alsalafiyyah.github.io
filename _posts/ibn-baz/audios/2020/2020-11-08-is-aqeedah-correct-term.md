@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is 'Aqeedah' a Correct Term or Should We Only Use 'Iman'?
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_513/51313.mp3
 hijri: '1442-03-22'
 date: 2020-11-08
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 The questioner says: Some people say that the term 'Aqeedah/Aqidah' is not correct and has no basis, and that it is more correct for a person to use the term 'Iman' (faith) instead of 'Aqeedah.' Is this correct?"
 

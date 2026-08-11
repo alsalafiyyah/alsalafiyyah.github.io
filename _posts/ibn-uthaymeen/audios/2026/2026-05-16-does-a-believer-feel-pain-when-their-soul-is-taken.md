@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-16
 title: Does a believer feel pain when their soul is taken?
 source: 'Fatawa Nur ''ala al-Darb / Tape no: 339'
@@ -22,8 +22,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1447-11-29'
 ---
-
-
 ### Question: 
 
 This questioner, M. 'A. from Jordan, says: Virtuous Sheikh, does a believer experience pain at the time when the soul is extracted?

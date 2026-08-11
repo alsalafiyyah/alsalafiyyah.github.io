@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ruling on criticize rulers openly on the pulpit
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat 8/210
 category:
 - rulership
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 Was it the practice of our Salaf (righteous predecessors) to criticize rulers openly on the Minbar (pulpit)? If not, how would they advise their rulers?  

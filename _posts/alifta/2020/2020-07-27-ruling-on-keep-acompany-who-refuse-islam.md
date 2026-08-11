@@ -13,14 +13,12 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 10825, Question 7
 summary: Is it permissible to keep company with a non-Muslim brother whom you called
   to accept Islam but he refused?
 title: Ruling on keeping the company of a brother who refuses to enter Islam
 ---
-
-
 ### Question: 
 
 Is it permissible to keep company with a non-Muslim brother whom you called to accept Islam but he refused?

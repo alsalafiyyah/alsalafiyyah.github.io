@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-06-15
 title: Is Hijrah Obligatory When Sharia is Not Implemented?
 category:
@@ -22,8 +22,6 @@ muftis:
     url: /biography/fawzan/
 hijri: '1447-12-29'
 ---
-
-
 ### Question
 
 ​What is the ruling on migrating (making Hijrah) from Arab countries where the Sharia (law) of Allah is not implemented?

@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-08-08
 hijri: '1448-02-25'
 title: The Prohibition of Giving Fatwas Without Knowledge
@@ -22,8 +22,6 @@ muftis:
   - name: Shaykh Salih al-Fawzan
     url: /biography/fawzan/
 ---
-
-
 ### Question: 
 
 Some young people rush into giving "religious verdicts" (fatwas) even though they have only acquired a basic level of education. What is the ruling on rushing and hastening to issue fatwas without knowledge?

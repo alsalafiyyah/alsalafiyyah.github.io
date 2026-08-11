@@ -9,14 +9,12 @@ hijri: '1446-01-17'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da’imah, Fatwa no. 9027, Question 1
 summary: Shaykh Ahmad ibn Abdul-Halim Ibn Taymiyyah is one of the imams of Ahlus-Sunnah
   wal-Jama’ah who called people to the truth and to the straight path.
 title: Shaykhul Islam Ibn Taymiyyah is one of the imams of Ahlus-Sunnah wal-Jama’ah
 ---
-
-
 ### Question: 
 Some people claim that Ibn Taymiyyah does not belong to Ahl-ul-Sunnah wal-Jama`ah (adherents to the Sunnah and the Muslim mainstream). They further claim that he is astray and leading people astray. The same was adopted by Ibn Hajar (Al-Haythami) and other scholars. Is such a claim truthful or not?
 

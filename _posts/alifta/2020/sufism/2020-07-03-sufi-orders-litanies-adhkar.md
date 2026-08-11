@@ -4,7 +4,7 @@ hijri: '1441-11-12'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatwas of the Permanent Committee of KSA, Fatwa no. 7140
 summary: 'The Sufi orders and the litanies are considered acts of Bid''ah (innovation
   in religion) like the famous religious orders of Al-Tijaniyyah and Al-Kattaniyyah. '
@@ -13,9 +13,6 @@ tags:
 title: Sufi orders, litanies, and Adhkar
 translation: false
 ---
-
-
-
 ### Question:
 
 What is the ruling on the Sufi orders and the litanies they recite before the Fajr (Dawn) Prayer and after the Maghrib (Sunset) Prayer? What is the ruling on one who claims to have watched and greeted the Prophet (peace be upon him) saying: Peace be upon you! O light of eyes and relief of souls?!

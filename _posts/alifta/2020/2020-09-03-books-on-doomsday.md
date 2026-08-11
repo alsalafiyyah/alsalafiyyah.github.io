@@ -13,7 +13,7 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 2021, Question 4
 summary: The most authentic books in this regard that come after the Qur'an are Sahih
   Al-Bukhari, Sahih Muslim, Sunan Abu Dawud, Sunan Al-Nasa'i, Jami' Al-Tirmidhy, and
@@ -22,8 +22,6 @@ summary: The most authentic books in this regard that come after the Qur'an are 
   wa Ashrat Al-Sa'ah that was written by Shaykh Hammud ibn 'Abdullah Al-Tuwayjiry.
 title: Authentic book that deals with the signs of the Day of Judgment and the battles
 ---
-
-
 ### Question: 
 
 What is the most authentic book that deals with the signs of the Day of Judgment and the battles?  

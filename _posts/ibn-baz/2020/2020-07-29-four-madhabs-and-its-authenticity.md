@@ -7,14 +7,12 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Shaykh Ibn Baz p. 7/152
 summary: These Four Madhabs are well-known schools which have spread during the second
   century and the later centuries.
 title: The Four Juristic Schools and their authenticity
 ---
-
-
 Question: 
 
 Are the Four Madhabs: Al-Hanbaliyyah, Al-Shafi'iyyah, Al-Malikiyyah, and Al-Hanafiyyah, true? When did they appear?

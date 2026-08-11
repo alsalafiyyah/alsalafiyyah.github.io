@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-18-
 title: Is There an Authentic Hadith Regarding the Adhan and Iqamah in the Newborn's
   Ears?
@@ -23,8 +23,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1447-12-01'
 ---
-
-
 ### Question: 
 
 May Allah be good to you. Muhammad Hassan from Yemen asks: Is performing the Adhan in the newborn’s ear and the Iqamah in the other ear a Sunnah or not, and what is the authenticity of the narrations (Hadiths) regarding this matter?

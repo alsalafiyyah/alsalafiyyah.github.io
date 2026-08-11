@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Does Failing to Object to Evil Negate Faith Entirely?
 date: 2026-07-31
 category:
@@ -21,8 +21,6 @@ muftis:
     url: /biography/fawzan/
 hijri: '1448-02-17'
 ---
-
-
 ### Question: 
 
 Concerning the saying of the Prophet ﷺ in the Hadith: **"Whoever among you sees an evil, let him change it..."** up to his saying: **"and beyond that there is not even a mustard seed's weight of faith"**. Does this mean that the one who does not object to an evil—even if it is a sin—has no faith whatsoever, or that his faith is [merely] deficient?

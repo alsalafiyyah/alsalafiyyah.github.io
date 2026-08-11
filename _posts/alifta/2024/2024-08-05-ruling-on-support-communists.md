@@ -10,15 +10,13 @@ lang: en
 layout: post
 mass_edited: true
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah, Fatwa no. 3105, Question 2
 summary: It is impermissible for a Muslim to become acquainted with those who adopt
   false creeds, such as communists, Nasiriyyah, Druze, Qadyaniyyah and other corrupted
   sects, for other than a Shar'i interest.
 title: Is it permissible for a Muslim to support communists?
 ---
-
-
 ### Question: 
 Is it permissible for a Muslim to become acquainted with communists and support them? What is the ruling on a person who does so? 
 

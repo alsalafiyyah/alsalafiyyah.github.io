@@ -15,14 +15,12 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-lajnah Al-Da'imah no. 2872-3
 summary: The basic rule states that it is incumbent upon every Muslim to follow the
   Book of Allah and the Sunnah of His Messenger (peace be upon him).
 title: It is obligatory on Muslims to follow the Qur'an and Sunnah
 ---
-
-
 ### Question:
 
 There are four Madhabs (Schools of Jurisprudence) in Islam. What criteria do I apply in selecting to follow one of them? Can I follow more than one school of Jurisprudence? 

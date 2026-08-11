@@ -5,14 +5,12 @@ hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no.16063, Question 2
 summary: You have to follow the path of Ahlus-Sunnah wal-Jama'ah to which the Prophet
   guided us when sects first started to appear.
 title: What is the ruling on having multiple Islamic groups?
 ---
-
-
 ### Question: 
 What is the ruling on having multiple Islamic groups? If I am convinced with the ideas of a certain group which is Al-Jama'ah Al-Islamiyyah, is it permissible to follow them despite my parents' opposition? They have sworn never to be pleased with me if I insist on my stance. What can I do? 
 

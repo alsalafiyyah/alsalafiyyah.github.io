@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ruling on abstains from supplicating to Allah for the ruler
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat p. 8/209
 category:
 - rulership
@@ -17,8 +17,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 What is the ruling on one who abstains from supplicating to Allah for the ruler? May Allah protect you. 

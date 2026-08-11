@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on excusing grave worshippers
 source: Majmu' Fatawa wa Muqalat 9/285
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/%D8%B9%D8%B0%D8%B1%20%D8%B9%D8%A8%D8%A7%D8%AF%20%D8%A7%D9%84%D9%82%D8%A8%D9%88%D8%B1%20%D8%A8%D8%A7%D9%84%D8%AC%D9%87%D9%84.mp3
@@ -21,8 +21,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 Are those who worship graves excused because of their ignorance, even though among them are people calling to Tawhid (belief in the Oneness of Allah/ monotheism)?
 

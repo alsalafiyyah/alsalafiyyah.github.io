@@ -5,14 +5,12 @@ hijri: '1442-01-07'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com, salafiyyah@outlook.sa
+publisher: alsalafiyyah.manhaj@gmail.com, salafiyyah@outlook.sa
 source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 1883, Question 4
 summary: Whoever claims that Jesus was crucified or killed is a Kafir as he will be
   opposing the explicit texts of the Qur'an.
 title: On the Jews and Christians concerning the crucifixion of Jesus
 ---
-
-
 ### Question:
 Can you tell us about the claim that 'Isa (Jesus, peace be upon him) was crucified but did not die on the Cross.
 

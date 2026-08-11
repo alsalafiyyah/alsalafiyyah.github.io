@@ -13,7 +13,7 @@ muftis:
   members:
   - name: Shaykh Abdullah Ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA no. 13167-2
 summary: The Injil (Gospel) of today is not the same that Allah (Glorified and Exalted
   be He) sent down. Many distortions, lies, additions, omissions, and blasphemous
@@ -21,8 +21,6 @@ summary: The Injil (Gospel) of today is not the same that Allah (Glorified and E
 title: The Gospel of today is not the same that Allah (Glorified and Exalted be He)
   sent down
 ---
-
-
 Question: 
 
 Can we believe in what we hear from the Christians from what is mentioned in their Injil (Gospel)?

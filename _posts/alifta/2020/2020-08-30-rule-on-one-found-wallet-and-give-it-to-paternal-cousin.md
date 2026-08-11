@@ -4,7 +4,7 @@ hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Salih Fawzan
@@ -15,8 +15,6 @@ source: Fatawa Al-Lajnah Ad-Da'imah no. 18253-2
 title: Ruling on one when he was young he found a wallet in the street and gave it
   to his paternal cousin
 ---
-
-
 Question: 
 
 When I was almost fourteen years old, I found a wallet in the area where I live. It contained three thousand Riyals which I gave to my paternal cousin who lives with me in the same house. I turned to Allah (Exalted be He) in repentance of what I did. It must be noted that I knew the owner of the wallet, yet since I was not acquainted with him, I felt shy to give it to him. Moreover, the owner of the wallet lives in a remote area. What should I do? May Allah reward you with the best.

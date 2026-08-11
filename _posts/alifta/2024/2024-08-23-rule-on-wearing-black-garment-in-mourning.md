@@ -9,14 +9,12 @@ muftis:
   - name: Shaykh Ibn 'Uthaymeen
     url: /biography/uthaymeen
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Islamiyah 6/102-103
 summary: Wearing black at the time of calamities is a distinction that is invalid,
   with no basis to it.
 title: Ruling on wearing black garment in mourning for the dead
 ---
-
-
 ### Question:
 Is it permissible to wear a black garment for (mourning) the dead, in particular a deceased husband?
 

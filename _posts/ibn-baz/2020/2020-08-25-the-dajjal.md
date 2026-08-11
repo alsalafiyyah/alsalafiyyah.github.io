@@ -7,7 +7,7 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Shaykh Ibn Baz 9/262
 summary: Al-Dajjal claims and makes things through which he confuses people. He is
   called Al-Dajjal due to his telling many lies and the extraordinary things he does,
@@ -15,8 +15,6 @@ summary: Al-Dajjal claims and makes things through which he confuses people. He 
   of some people who will be brought to life again.
 title: The Anti-Christ
 ---
-
-
 ### Question:
 
 Is it stated that the One-Eyed Al-Dajjal reveals his leg or not?

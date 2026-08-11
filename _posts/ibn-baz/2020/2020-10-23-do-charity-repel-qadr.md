@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Do supplication and voluntary charity repel the Divine Decree and Predestination?
 hijri: '1442-03-06'
 date: 2020-10-23
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Ibn Baz
     url: /biography/binbaz
 ---
-
-
 ### Question: 
 Do supplication and Sadaqah (voluntary charity) repel the Divine Decree and Predestination? 
 

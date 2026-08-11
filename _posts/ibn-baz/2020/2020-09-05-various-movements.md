@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on various Islamic movements
 source: Majmu' Fatawa 4/166
 hijri: '1442-01-17'
@@ -17,8 +17,6 @@ muftis:
   - name: Shaykh Ibn Baz
     url: /biography/binbaz
 ---
-
-
 ### Question: 
 In Sudan, an Islamic Organization among the various movements of Sufism and Salafism has been established. This organization involves itself in political action and broad confrontations with Communist and Westernization groups in general. What is your opinion on these activities undertaken by similar organizations? 
 

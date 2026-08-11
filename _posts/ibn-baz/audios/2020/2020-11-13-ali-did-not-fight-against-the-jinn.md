@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Is it true that Ali fought the Jinn?
 output: html_document
 hijri: '1442-03-27'
@@ -21,8 +21,6 @@ muftis:
   - name: Shaykh Ibn Baz
     url: /biography/binbaz
 ---
-
-
 ### Question:
 A questioner from Republic of Yemen asks: is it true that Imam Ali (may Allah be pleased with him) fought the Jinn (creatures created from fire)? It is narrated in book "**The battles of Imam 'Ali**" that he fought them until he  sent them down to the seventh earth. What is your opinion on this book? 
 

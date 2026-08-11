@@ -5,14 +5,12 @@ hijri: '1441-12-07'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 1328, Question 2
 summary: Is it permissible for a Muslim to make Tawassul by virtue of the status of
   the prophets and the righteous people?
 title: Tawassul through the Awliya'
 ---
-
-
 ### Question: 
 Is it permissible for a Muslim to make Tawassul (supplicate to Allah through a means) by virtue of the status of the prophets and the righteous people? I came across some opinions of scholars that Tawassul through the Awliya' (pious people) is permissible, for Du'a (supplication) in this case is offered to Allah. However, other scholars said otherwise. What is the Shari`ah ruling on this matter?
 

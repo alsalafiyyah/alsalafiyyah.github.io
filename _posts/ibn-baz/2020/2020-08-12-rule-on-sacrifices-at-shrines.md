@@ -7,15 +7,13 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat 5/324
 summary: It is well-known through the Qur’an and the Sunnah that offering sacrifices
   to get close to other than Allah, whether they are the Awliya’, the Jinn, idols,
   or others, is Shirk and one of the actions of Jahiliyyah and the Mushriks.
 title: Ruling on offering sacrifices at the shrines and supplicating to their inhabitants
 ---
-
-
 ### Question:
 
 What is the ruling on offering sacrifices at the shrines of Awliya’ (pious people)? What is the ruling on saying: "**O Allah! By the right of Your Waliy so-and-so! Cure us or save us from such-and-such a distress**"?

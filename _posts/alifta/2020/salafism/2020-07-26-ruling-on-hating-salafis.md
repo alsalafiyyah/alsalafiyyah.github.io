@@ -5,15 +5,12 @@ hijri: '1441-12-05'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatwa al-Lajnah ad-Daimah no. 15742
 summary: It is impermissible for you to either be in his company or associate with
   him. You should rather condemn him and warn people against him.
 title: Ruling on hating the Salafis
 ---
-
-
-
 ### Question: 
 There are some partisans who call for applying the Islamic Shari'ah though they are completely opposite to that. They have diluted Islam and consider those who do not embrace their thoughts, even if they are opposite to the Qur'an and Sunnah, as enemies of Islam. In addition, their hatred to Ahl-us-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream), is deeply rooted, especially Salafis (those who following the way of the righteous predecessors). They insult and abuse them to the extent that they blaspheme their leadership figures labeling them as backward and intolerant. Is it permissible to support them or ask their advice? Or should they be disciplined by abandoning them?
 

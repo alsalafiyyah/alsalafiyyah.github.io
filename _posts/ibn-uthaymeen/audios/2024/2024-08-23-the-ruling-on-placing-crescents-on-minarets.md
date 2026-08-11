@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The Ruling on Placing Crescents on Minarets
 date: 2024-08-23
 lang: en
@@ -22,8 +22,6 @@ muftis:
     url: /biography/uthaymeen
 hijri: '1446-02-19'
 ---
-
-
 ### Question: 
 
 May Allah bless you. The listener Muhammad A. A. says: Virtuous Sheikh, what is the ruling on placing the crescent on minarets, as I have heard that this is an innovated matter?

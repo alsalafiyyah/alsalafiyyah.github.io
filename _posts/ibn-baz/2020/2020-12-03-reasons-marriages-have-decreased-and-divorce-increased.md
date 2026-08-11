@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Greediness and dissatisfaction with simple life, dowries and expenditures for
   weddings have become exorbitant,that is why marriages have decreased
 hijri: '1442-04-18'
@@ -17,8 +17,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 
 Dear Eminent Father, the entire Muslim world is experiencing two major problems which have very dangerous social effects: the issue of marriage and raising the age of marriage, and the problem of divorce. With regard to the problem of raising the age of marriage, there are frightening statistics in the Muslim World, year after year, which confirm the increase in the number of singles from both genders due to economic and other reasons. Similarly, the problem of divorce is worsening as is the difficulty of getting married in that the number of divorced men and women is increasing to the point that it is confirmed that divorces in one large Muslim country has risen by two million in one year? 

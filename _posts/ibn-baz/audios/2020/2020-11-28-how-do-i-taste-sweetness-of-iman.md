@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How do I taste the sweetness of Iman (faith)
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_291/29122.mp3
 hijri: '1442-04-13'
 date: 2020-11-28
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 How do I taste the sweetness of Iman (faith)?
 

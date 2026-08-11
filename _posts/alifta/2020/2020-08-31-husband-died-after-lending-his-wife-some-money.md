@@ -4,7 +4,7 @@ hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Salih Fawzan
@@ -13,8 +13,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 17705-4
 title: A husband died after lending his wife some money without her repaying it
 ---
-
-
 Question:
 
 A wife borrowed a sum of money from her husband and he stipulated that she has to repay it but he died before settling the debt. What should she do?

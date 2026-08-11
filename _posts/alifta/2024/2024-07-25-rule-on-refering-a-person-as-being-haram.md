@@ -8,15 +8,13 @@ muftis:
   shaykh:
   - name: Shaykh Ibn 'Uthaymeen
     url: /biography/uthaymeen
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Islamiyah Vol.8 Page 324
 summary: If a person does something that is indeed unlawful such as fornication, and
   then people say about him Haram meaning it is unlawful for him to fornicate, then
   there is no harm in people saying that.
 title: The ruling on referring a person as being Haram
 ---
-
-
 ### Question:
 When a person does something that is deviant or something that goes against the Shariah, many people call him Haram. Are they sinning when they call someone by this name or are they blameless in doing so?
 

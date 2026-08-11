@@ -13,7 +13,7 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 9524
 summary: If that is the status quo (in your country), then you are not allowed to
   do that, because it involves lying to and deceiving the authorities, and using trickery
@@ -25,8 +25,6 @@ tags:
 title: Ruling on lying to and deceiving the ruler
 translation: false
 ---
-
-
 ### Question: 
 
 The governmental system does not allow government employees to open a shop of their own. Is it permissible to open a shop under the name of another person, who is unemployed by the government, and run this shop with a power of attorney that gives me the right to all the business transactions and to bear its profit and loss? Is this permissible?

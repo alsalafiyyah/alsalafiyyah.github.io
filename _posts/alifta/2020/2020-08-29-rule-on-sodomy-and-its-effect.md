@@ -15,14 +15,12 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah no. 4324-2
 summary: Sodomy is one of the major sins, whether it is committed with a boy or an
   adult, and whether it is with or without their consent.
 title: Ruling on sodomy and the effect on illegitimate children
 ---
-
-
 Question: 
 
 A Muslim man had sodomy with a boy under the age of puberty with the boy's consent and without any coercion; what is the ruling on both of them? Would this incident have a psychological or religious effect upon the child when he grows up. Likewise, is there any harm on an illegitimate child, though he has no guilt in what his parents did?

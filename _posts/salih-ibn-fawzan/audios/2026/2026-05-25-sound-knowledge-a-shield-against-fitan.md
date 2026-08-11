@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-25
 title: 'Sound Knowledge: A Shield Against Tribulation'
 category:
@@ -20,8 +20,6 @@ muftis:
     url: /biography/fawzan/
 hijri: '1447-12-08'
 ---
-
-
 ### Question: 
 
 Honorable Shaykh, what do you advise us in this day and age, in which fitan (tribulations) have multiplied, Ahl al-Bid'ah (people of bid'ah) have spread, and scholars are passing away?

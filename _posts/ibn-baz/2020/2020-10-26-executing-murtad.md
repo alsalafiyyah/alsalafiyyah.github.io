@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Executing one who apostatizes from Islam
 hijri: '1442-03-09'
 lang: en
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 I heard on a radio program interview that there is no evidence in the Noble Qur'an, the Hadith or even a Fatwa (legal opinion issued by a qualified scholar) permitting the execution of a Murtad (apostate) from Islam. Please, show the validity of this statement! 

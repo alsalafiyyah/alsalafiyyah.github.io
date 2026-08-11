@@ -4,7 +4,7 @@ hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Salih Fawzan
@@ -15,8 +15,6 @@ source: Fatawa Al-Lajnah Ad-Da'imah no. 17290-2
 title: Ruling on some person found an amount of money that is inconsiderable in the
   eyes of common people
 ---
-
-
 Question: 
 
 If someone finds a small amount of money, not gold or silver, should they wait for one year and search for its owner or spend it because it is little?

@@ -18,7 +18,7 @@ muftis:
     url: /biography/fawzan
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da’imah 3/95, Fatwa no.7703, Question 1
 summary: When the people do not have an leader and they split into sects and parties,
   do not follow any of these groups; keep away from all of them if possible, lest
@@ -28,8 +28,6 @@ tags:
 title: What to do when there is too much fitnah and division
 translation: false
 ---
-
-
 ### Question:
 
 Are these the times which are referred to in the hadith of the Messenger ﷺ, according to which when one of the Sahabah asked him, “What should I do when there is too much fitnah and division?”, he replied, “Keep away from the people, and sit in your house”? In Al-Sahih, in Kitab Al-Fitan, Bab Kayf Al-Hal idha lam yakun khalifah, there is a hadith which says that the Prophet ﷺ told them to withdraw from people when calamities strike, and he said, “… even if you have to bite onto the root of a tree.” Please explain this hadeeth and tell us what the scholars said about it.

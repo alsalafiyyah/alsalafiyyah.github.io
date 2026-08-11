@@ -9,7 +9,7 @@ hijri: '1445-12-26'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 948, Question 3
 summary: Beware of newly-invented matters (in religion), for every newly-invented
   matter is a Bid‘ah, and every Bid‘ah is a Dalalah.
@@ -18,8 +18,6 @@ tags:
 title: Every bid'ah is a going astray
 translation: false
 ---
-
-
 ### Question: 
 
 Scholars hold different opinions concerning Bid‘ah (innovation in religion); some of them say that there is a good Bid‘ah and a bad one. Is this true?

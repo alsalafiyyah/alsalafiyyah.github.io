@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Duties of a teacher
 hijri: '1442-02-25'
 source: Fatawa Al-shaykh Ibn Baz p.1/349
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 All praise be to Allah, and may peace and blessings be upon the Messenger of Allah. 
 
 One of the most important duties of a teacher is to make students keen for knowledge-seeking, so that they will learn about the religious matters that they should not be ignorant of, such as knowledge of the sound 'Aqidah (creed), the rulings of Salah (Prayer), Zakah (obligatory charity), Sawm (Fast), and Hajj, and the rulings on transactions for those who buy and sell commercially, and other profit-making domains. In this way they will be fully aware and guided regarding such affairs. Allah (Glorified be He) created humans and Jinn to worship Him Alone, without Shirk (associating others with Allah in His Divinity or worship). The 'Ibadah (worship) of Allah is to dedicate all forms and acts of worship to Him Alone, and to obey His Commands and abstain from His Prohibitions. The only way to know these issues in detail is through seeking knowledge. The more effort a student exerts in seeking knowledge, the nearer they are to success and to achieving the sought-after goal through Allah's Help.

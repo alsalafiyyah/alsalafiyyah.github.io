@@ -10,15 +10,13 @@ lang: en
 layout: post
 mass_edited: true
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.1674, Question 3
 summary: It is your duty to work for Islam through calling the people to the Book
   of Allah and the Sunnah of the Prophet according to the methodology with which Allah
   guided and commanded the Prophet.
 title: Ruling on calling people to Islam through politics
 ---
-
-
 ### Question: 
 Which is better; to work for the benefit of Islam through politics or through calling people to work according to the example of the Prophet (peace be upon him)?
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Categories of Tawhid
 source: Majmu' Fatawa 9/63
 hijri: '1442-01-06'
@@ -17,8 +17,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 Tawhid (monotheism) is the essence of religion and the basis of the revelations of all Messengers (peace be upon them). There is no doubt that it is a significant issue that is worthy of concern. Those who were led astray did so because of their negligence of this basic foundation and their contrary practices. The Mushriks (those who associate others with Allah in His Divinity or worship) were ignorant of this matter i.e. dedicating 'Ibadah (worship) to Allah only, which is the main basis with which all the Messengers were sent; the Divine Books were revealed; and man and Jinn (creatures created from fire) were created. They (the Mushriks) thought that they are following a true religion and getting closer to Allah (Exalted be He). However, it is one of the gravest crimes and greatest sins. Out of ignorance, they imitated their misguided ancestors, thinking that it is a true religion, and they fought the Messengers on this false basis. 
 
 Allah (Glorified be He) says, "**...surely they took the Shayâtîn (devils) as Auliyâ’ (protectors and helpers) instead of Allâh, and think that they are guided.**" [al-A'raf: 30]

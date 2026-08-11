@@ -15,7 +15,7 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Muni'
     url: /biography/mani/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no.145, Question 4
 summary: And among His Signs is the creation of the heavens and the earth, and the
   difference of your languages and colours. Verily, in that are indeed signs for men
@@ -25,9 +25,6 @@ tags:
 title: The wisdom behind the difference in complexion colors of the servants of Allah
 translation: false
 ---
-
-
-
 ### Question:
 
 What is the wisdom behind the difference in complexion colors of the servants of Allah (Exalted be He); some have a red, white, or black and so on?

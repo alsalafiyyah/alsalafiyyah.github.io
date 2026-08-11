@@ -22,7 +22,7 @@ muftis:
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.15631, Question 5
 summary: Al-Siyasah Al-Shar'iyyah is policy that is based on the Qur'an and Sunnah,
   by the ruler administering justice and the subjects giving loyalty and obedience.
@@ -31,8 +31,6 @@ tags:
 title: What is meant by Al-Siyasah Al-Shar'iyyah?
 translation: false
 ---
-
-
 ### Question: 
 
 What is meant by Al-Siyasah Al-Shar'iyyah?

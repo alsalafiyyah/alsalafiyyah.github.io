@@ -4,7 +4,7 @@ hijri: '1441-11-20'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatwas of the Permanent Committee of KSA, Fatwa no. 18466, Question 1
 summary: It is worth mentioning that such people are very dangerous to Islam and thus
   you have to beware of them and warn others against them.
@@ -13,9 +13,6 @@ tags:
 title: Sufis beats themselves with skewers
 translation: false
 ---
-
-
-
 ### Question: 
 
 I know some people who call themselves shaykhs but they stab themselves with skewers etc. And ascribe fictitious things to Al-Rifa'i. What is the ruling on the foregoing? Is it Haram (prohibited)? Provide me with your beneficial answer, please. May Allah benefit you. 

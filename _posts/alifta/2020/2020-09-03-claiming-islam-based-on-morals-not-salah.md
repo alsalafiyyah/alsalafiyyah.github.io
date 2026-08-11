@@ -18,14 +18,12 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/zayd/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 17114, Question1
 summary: Some people say that Islam is not just to perform Salah or Prayer, but it
   is to be of good manners. What is your opinion regarding that?
 title: The claim that Islam is based on morals and not Salah
 ---
-
-
 ### Question: 
 
 Some people say that Islam is not just to perform Salah (Prayer), but it is to be of good manners. What is your opinion regarding that?

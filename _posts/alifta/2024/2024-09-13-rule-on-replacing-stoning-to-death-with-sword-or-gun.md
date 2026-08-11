@@ -5,15 +5,13 @@ hijri: '1446-03-10'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.19657‏
 summary: It is impermissible to replace stoning to death with killing by sword or
   shooting with a gun, because stoning to death is more deterring and preventive from
   committing Zina, which is the gravest crime after Shirk and killing.
 title: Ruling on replacing stoning the adulterer to death with a sword or gun
 ---
-
-
 ### Question: 
 Is it permissible to change the Hadd (ordained punishment for violating Allah’s Law) of a married person who commits Zina from stoning to death to killing with a sword or shooting with a gun?
 

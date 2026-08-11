@@ -5,14 +5,12 @@ hijri: '1441-12-04'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Daimah no. 4161
 summary: The duty of every Muslim is to adhere to what came in the Book of Allah and
   the Sunnah of His Messenger in words, deeds, and beliefs.
 title: The duty of a Muslim is to follow the teachings of the Qur'an and Sunnah
 ---
-
-
 ### Question: 
 Should every Muslim join an Islamic group that has an Amir (leader), although this may lead to division and conflict among Muslims, as Allah says (what means): "**...and do not dispute (with one another) lest you lose courage**" [al-Anfal: 46]?
 

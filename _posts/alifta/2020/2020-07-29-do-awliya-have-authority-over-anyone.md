@@ -15,15 +15,13 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah no. 3716, Question 2
 summary: Awliya’ have no authority over anyone; whatever Allah has given them is merely
   the ordinary means given to all other humans. They do not have supernatural powers;
   they cannot take non-human forms, like snakes, lions, monkeys or other animals.
 title: Do Awliya’ have authority over anyone?
 ---
-
-
 ### Question: 
 
 I hear and see with my own eyes, that people say that Awliya' (pious people) have authority over people in worldly life and they also claim that they have forty forms; sometimes you see them in the form of a man, sometimes a snake, or a lion etc. They go to graveyards and sleep there, and then they set out at nightfall. People relate that they stand near them in sleep and tell them, “Go, you are cured.” Is such talk true or not?

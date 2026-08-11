@@ -4,7 +4,7 @@ hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdul-Razzaq al-Afify
@@ -12,8 +12,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 14218-1
 title: Ruling on a person found a wallet and spent the money
 ---
-
-
 Question: 
 
 Nearly four years ago I found about four hundred Riyals in a wallet. Before I spent the money, I kept looking for the owner of the wallet, but I could not find him. So, I spent the money. What should I do to expiate for that sin? Thank you.

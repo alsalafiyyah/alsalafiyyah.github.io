@@ -17,14 +17,12 @@ muftis:
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah no. 17706
 summary: Halal and Haram are two Shar'i (Islamic legal) rulings, the knowledge of
   which is acquired from the Qur'an and the Sunnah.
 title: What is meant by Halal (lawful) and Haram (prohibited) in Islam
 ---
-
-
 Question:
 
 What is meant by Halal (lawful) and Haram (prohibited) in Islam? 

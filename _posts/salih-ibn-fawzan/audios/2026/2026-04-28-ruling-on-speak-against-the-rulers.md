@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-04-28
 hijri: '1447-11-11'
 title: The Ruling on Publicly Disclosing the Faults of the Ruler
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Salih al-Fawzan
     url: /biography/fawzan/
 ---
-
-
 ### Question: 
 
 May Allah reward you with good, Your Eminence. This questioner asks: Is it permissible to publicly disclose the faults of the ruler to the Muslims in front of society and the people?

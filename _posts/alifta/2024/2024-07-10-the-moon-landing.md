@@ -5,14 +5,12 @@ hijri: '1446-01-04'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 1615, Question 12
 summary: The knowledge about this matter will not increase or decrease our faith.
   Thus, we should neither believe nor deny what they say.
 title: The Moon Landing
 ---
-
-
 ### Question: 
 What is your opinion regarding those who claim to have landed on the moon which we, as Muslims, consider one of Allah's signs?
 

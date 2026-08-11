@@ -13,14 +13,12 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Mani'
     url: /biography/mani/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 148
 summary: Are the payments for having permission to hire Waqf or endowment included
   in its revenue or a part of the Waqf itself?
 title: Revenue from endowed land
 ---
-
-
 ### Question: 
 
 Are the payments for having permission to hire Waqf [endowment] included in its revenue or a part of the Waqf (endowment) itself?

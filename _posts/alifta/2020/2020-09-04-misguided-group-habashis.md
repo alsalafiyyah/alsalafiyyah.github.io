@@ -15,7 +15,7 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 19606
 summary: Jama'at-ul-Ahbash (the Habashis) is a misguided group which is against Ahl-ul-Sunnah
   wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream). They must return
@@ -26,8 +26,6 @@ tags:
 title: Ruling on Jama'at Al-Ahbash
 translation: false
 ---
-
-
 Praise be to Allah Alone. Peace and blessings be upon the last Prophet, his family, and Companions. 
 
 The Permanent Committee for Scholarly Research and Ifta' has received questions and requests for information about Al-Ahbash Group (the Habashis) and the founder of the group, 'Abdullah Al-Habashy which was founded in Lebanon. This group has many activities in some European countries, America, and Australia. Therefore, the Committee examined the books and articles published by this group, in which it explains its beliefs, thoughts, and call.

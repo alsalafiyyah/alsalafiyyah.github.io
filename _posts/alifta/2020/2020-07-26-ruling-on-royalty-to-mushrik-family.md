@@ -7,14 +7,12 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz Ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat p.28/239
 summary: If one knows true Islam and Allah helps him accept it, one should not be
   loyal to people of Shirk nor be endeared to them even if they are the closest relatives.
 title: Ruling on loyalty to the Mushrik family
 ---
-
-
 ### Question: 
 
 What should a son do who was raised by an ignorant family then he learned Islamic knowledge and informed his family of Haram (prohibited) and Halal (lawful) matters but his father refused claiming that they practice what they found their fathers following and that they do like what others do? Should this son do good to his parents brothers or not? 

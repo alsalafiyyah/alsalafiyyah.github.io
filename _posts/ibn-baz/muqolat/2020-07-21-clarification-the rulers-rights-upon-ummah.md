@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Clarification of the rulers' rights upon the Ummah
 hijri: '1441-11-30'
 source: Majmu' Fatawa Wa Maqalat 9/93
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 **His Eminence, Shaykh Abdul-Aziz ibn Baz the Grand Mufti of the Kingdom of Saudi Arabia has shed light upon rulers' rights and the necessity of obeying them in that which does not involve disobedience to Allah, he quoted Ayahs from the Qur'an and Hadiths mentioned to this effect. Moreover, his Eminence cited the basis of Islamic Da'wah (call to Islam) in Saudi Arabia and warned against false and misleading calls, describing their advocates as being callers to great evil. This was mentioned during a seminar held in Al-Jami' Al-Kabir (the Grand Masjid (mosque) in Riyadh on Thursday night 1/5/1417 a.h. entitled: "Clarification of rulers' rights upon the Ummah (nation of creed) by evidence from the Qur'an and Sunnah, and explaining the consequences of violating this" where he said:**
 
 Praise be to Allah, the Lord of all worlds. The good end shall be for Al-Muttaqin (pious people), may peace and blessings be upon His beloved Prophet and the one entrusted with His Revelation our Prophet, Imam (leader) and Master; Muhammad ibn 'Abdullah, his family, Companions and whoever follows his path and is directed by his guidance until the Day of Resurrection, to continue:

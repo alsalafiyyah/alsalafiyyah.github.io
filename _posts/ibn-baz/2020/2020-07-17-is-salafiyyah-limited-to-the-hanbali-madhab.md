@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Is Salafiyyah Limited to the Hanbali Madhab?
 source: Majmu' Fatawa 9/238
 category:
@@ -14,8 +14,6 @@ muftis:
   - name: Shaykh Abdul-Aziz Ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 Is it true that Salafiyyah is exclusive to the Hanbalis? And what is the reality of Salafiyyah? Is it synonymous with extremism and strictness as some claim?

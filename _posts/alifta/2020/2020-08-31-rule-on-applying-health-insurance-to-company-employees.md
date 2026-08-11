@@ -4,7 +4,7 @@ hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdul-Aziz Aal al-Shaykh
@@ -14,8 +14,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 20693
 title: Ruling on applying health insurance to company employees
 ---
-
-
 Question: 
 
 I am working in a certain company which makes contracts with some hospitals to supply medical insurance for the staff of this company since it pays one million riyals, for example, to the hospital annually. Those hospitals have to treat the patients of the company staff for certain diseases and injuries according to what has been agreed upon in the terms of the contract. Is it permissible for us as employees to be treated in such hospitals according to the terms of this contract or is it a form of gambling?

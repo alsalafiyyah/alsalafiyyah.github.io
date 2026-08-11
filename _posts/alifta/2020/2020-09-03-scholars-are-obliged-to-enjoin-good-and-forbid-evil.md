@@ -5,14 +5,12 @@ hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 1254
 summary: The ruling on this varies according to the degree of availability of the
   scholars and their level of knowledge and rank.
 title: Scholars are obliged to enjoin good and forbid evil
 ---
-
-
 ### Question:
 
 The Qur'an and authentic Sunnah contain texts that signify enjoining good and forbidding evil, and the obligation of clarifying religious issues and advising people. Do these texts indicate that these acts are regarded as an individual obligation on each scholar who is considered liable until he does them; or are they a collective obligation; namely, if some people fulfill the task the burden will be lifted from others? 

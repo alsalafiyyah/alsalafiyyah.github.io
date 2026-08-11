@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-16
 title: Is there a special virtue for one who dies on Friday?
 source: 'Fatawa Nur ''ala al-Darb / Tape no: 299'
@@ -23,8 +23,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1447-11-29'
 ---
-
-
 ### Question: 
 
 May Allah bless you. This inquirer, who signs his name with the initials A. A. R. from the Eastern Province, says: I have heard and read that any Muslim who dies on Friday or during the night before it will have a good status [with Allah]. What is your opinion on this? May you be rewarded.

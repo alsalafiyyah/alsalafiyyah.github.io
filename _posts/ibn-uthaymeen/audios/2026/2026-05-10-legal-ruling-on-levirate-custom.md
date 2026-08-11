@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-10
 hijri: '1447-11-23'
 title: Legal Ruling on Levirate Custom
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 ### Question:
 
 It has become common practice among us that when a husband passes away, his brother marries the widow as if he has inherited her, without seeking her consent. They justify this by claiming it prevents the children from losing someone to care for them. Does this practice have any basis in religion?

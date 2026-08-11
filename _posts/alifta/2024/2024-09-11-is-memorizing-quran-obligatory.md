@@ -5,14 +5,12 @@ hijri: '1446-03-08'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no.18849‏, Question 1
 summary: Memorizing the Qur'an is one of the best forms of worship and contains great
   reward if a Muslim acts according to its ordinances and follows its limits and rulings.
 title: Is memorizing the Qur'an obligatory?
 ---
-
-
 ### Question: 
 Is memorizing the Qur'an obligatory?
 

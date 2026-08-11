@@ -5,14 +5,12 @@ hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 3201
 summary: It is not permissible to seek treatment through anything that Allah has prohibited,
   like opium, hashish, alcoholic drinks or any drug or intoxicant of the sort.
 title: Ruling on treatment with opium
 ---
-
-
 ### Question:
 Is it permissible to use opium or alcoholic drinks like vinegar as medication for curing illnesses? 
 

@@ -15,7 +15,7 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah Ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah no. 6397-5
 summary: Is it reported in any Hadith that the Messenger of Allah (peace be upon him)
   saw 'Amr ibn Luhay turning from side to side in Hellfire, because he was the one
@@ -23,8 +23,6 @@ summary: Is it reported in any Hadith that the Messenger of Allah (peace be upon
 title: 'The Hadith: ''I saw ''Amr ibn ''Amir Al-Khuza''i dragging his intestines in
   the Fire'''
 ---
-
-
 Question:
 
 Is it reported in any Hadith that the Messenger of Allah (peace be upon him) saw, during his Salah (Prayer), 'Amr ibn Luhay turning from side to side in Hellfire, because he was the one who brought the worship of statues into the Ka'bah or into the Arabian Peninsula? Is this Hadith considered to be Sahih (a Hadith that has been transmitted by people known for their uprightness and exactitude; free from eccentricity and blemish), and if so, can it be used as evidence that it is not hateful to perform Salah in front of electric, oil, or gas heaters? Please advise us of the Truth and may Allah (Exalted be He) make you and us from those who listen to good words and follow the good in them! O Allah! Make us from the people of understanding who apply the Book and the Sunnah to themselves and their families. Truly, You are the All-Hearing, the Knowing, the One Who is Close and responds to Du'a (supplications). 

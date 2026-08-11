@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Is Salafiyyah Just Another Islamic Sect?
 date: 2020-07-17
 hijri: '1441-11-26'
@@ -17,8 +17,6 @@ muftis:
   - name: Shaykh Salih Al-Fawzan
     url: /biography/fawzan
 ---
-
-
 ### Question:
 
 Some people claim that Salafiyyah is merely one of many groups active on the scene today, and that it carries the same status as any other group. What is your refutation of this claim?

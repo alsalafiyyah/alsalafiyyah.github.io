@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-06-02
 title: Is a Husband Sinful If He Does Not Love His Wife?
 source: Fatawa Nur 'ala al-Darb, Tape no. 168
@@ -23,8 +23,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1447-12-16'
 ---
-
-
 ### Question: 
 
 Also from the questions of the listener, Ahmad Al-Masri, residing in Riyadh, who asks: Is a person sinful if they detest their wife—meaning, they do not love her?

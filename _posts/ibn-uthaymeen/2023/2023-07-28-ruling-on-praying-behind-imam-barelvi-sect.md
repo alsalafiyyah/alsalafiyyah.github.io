@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on praying behind an imam from the bareilawi sect
 hijri: '1445-01-10'
 date: 2023-07-28
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Ibn 'Uthaymeen
     url: /biography/uthaymeen
 ---
-
-
 ### Question: 
 
 What is the ruling on praying behind an imam from the bareilawi sect, who believes that the Prophet ﷺ is alive and present and can see us? 

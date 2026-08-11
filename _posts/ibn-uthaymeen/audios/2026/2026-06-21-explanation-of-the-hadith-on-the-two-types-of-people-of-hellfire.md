@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-06-21
 title: Explanation of the Hadith on the Two Types of People of Hellfire
 category:
@@ -20,8 +20,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1448-01-06'
 ---
-
-
 ### Question: 
 
 May Allah reward you with goodness, Virtuous Shaykh. From Qatar, the questioner Hasan Ahmad says in this question: Virtuous Shaykh, we hope that you could explain this hadith, may Allah reward you with goodness. On the authority of Abu Hurayrah (may Allah be pleased with him), he said: The Messenger of Allah ﷺ said: **"There are two types of the people of Hellfire whom I have not yet seen: a people with whips like the tails of cattle with which they strike the people, and women who are clothed yet naked, walking with an enticing gait and enticing others, their heads like the tilted humps of camels. They will not enter Paradise, nor will they perceive its fragrance, even though its fragrance can be perceived from such-and-such a distance."** The question is: Could you explain this hadith for us?

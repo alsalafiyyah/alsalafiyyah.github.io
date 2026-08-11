@@ -4,7 +4,7 @@ hijri: '1441-11-20'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatwas of the Permanent Committee of KSA, Fatwa no. 16862
 summary: The Sufi orders have nothing to do with the guidance of the Prophet and a
   Muslim has to follow the Prophet and his Sunnah.
@@ -13,9 +13,6 @@ tags:
 title: Status of the Sufi orders in Islam
 translation: false
 ---
-
-
-
 ### Question: 
 
 I am forwarding to you this message that was sent to me by a woman who says her husband, Mohamed Al-Faytury Hamudah, follows a Sufi order. She wants to know the truth. I convinced her and she accepted advice, but I failed to convince her husband and his father. They told me they were right and asked me to bring forth proof from a well-known scholar to prove the opposite. I also hope you will comment on the enclosed poems, written by this Muhammad Hammudah. 

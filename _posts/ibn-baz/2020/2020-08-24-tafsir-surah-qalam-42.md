@@ -8,7 +8,7 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat 5/355, question no. 16
 summary: The Messenger of Allah (peace be upon him) explained this Ayah (Qur'anic
   verse) saying that Allah (Glorified be He) will come on the Day of Resurrection
@@ -16,8 +16,6 @@ summary: The Messenger of Allah (peace be upon him) explained this Ayah (Qur'ani
 title: Tafsir Surah Al-Qalam Ayat 42
 uid: tafsir-surah-qalam-42
 ---
-
-
 Question: 
 
 What is the Tafsir (explanation/exegesis of the meanings) of Allah's Statement: "**(Remember) the Day when the Shin shall be laid bare (i.e. the Day of Resurrection) and they shall be called to prostrate themselves (to Allâh), but they (hypocrites) shall not be able to do so.**" [al-Qalam: 42]?

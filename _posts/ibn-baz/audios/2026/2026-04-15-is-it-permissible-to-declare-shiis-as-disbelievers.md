@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is it permissible to declare Shias as disbelievers?
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/fatawa_dross/fatawa_dross0474.mp3
 hijri: '1447-10-27'
 date: 2026-04-15
@@ -21,8 +21,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 Is it permissible to declare Shias as disbelievers?
 

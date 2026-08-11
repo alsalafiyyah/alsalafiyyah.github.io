@@ -4,7 +4,7 @@ hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdul-Razzaq al-Afify
@@ -13,8 +13,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 8308
 title: Obligation of Hajj even in the company the followers of Bid'ah
 ---
-
-
 ### Question:
 We would like to inform you that many of our Sunni Muslim brothers who live on the Persian coast are desirous of performing the Islamic obligation of Hajj. The problem is that they cannot travel in the company of the Shiite Iranians for fear of disputes that might occur during the journey. In addition, the neighboring Arab governments do not allow them to travel via their airways. Is it permissible for them to send expenditures of the journey to other Muslim brothers of another country to perform Hajj on their behalf? Please clarify this matter as you issue your fatwa. May Allah reward you.
 

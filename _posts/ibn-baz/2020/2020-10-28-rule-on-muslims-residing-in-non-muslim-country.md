@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on Muslims residing in a non-Muslim country
 hijri: '1442-03-11'
 source: Majmu' Fatawa Al-Shaykh Ibn Baz 28/238
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 What is your advice for the unemployed Muslim brothers and sisters who live in England and receive financial support from the government? They sometimes get a job but they do not tell the government about it? Is this deed acceptable? 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The truth about Freemasonry
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-06-16
 active: audios
 category:
@@ -21,8 +21,6 @@ muftis:
     url: /biography/binbaz/
 hijri: '1448-01-01'
 ---
-
-
 ### Question: 
 
 Give us a fatwa (legal ruling)—may you be rewarded [by Allah]—regarding Freemasonry, may Allah reward you with goodness? And what is the ruling on someone who joins this group?

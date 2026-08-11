@@ -9,14 +9,12 @@ hijri: '1445-12-26'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 10751, Question 1
 summary: As for saying Allah and His Messenger know best, this was permissible during
   the lifetime of the Messenger, but after his death, we should say Allah knows best.
 title: Ruling on saying Allah and His Messenger know best
 ---
-
-
 ### Question: 
 What is the Islamic ruling in your opinion on saying these phrases: "Allah knows that...," "Allah forbid!" "Allah's Will," and "Allah and His Messenger know best"?
 

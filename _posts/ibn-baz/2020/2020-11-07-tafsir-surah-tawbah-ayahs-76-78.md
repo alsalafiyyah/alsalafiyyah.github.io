@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Tafsir Surah Al-Tawbah, Ayahs 76 to 78
 hijri: '1442-03-21'
 source: Fatawa Al-Shaykh Ibn Baz p.8/291
@@ -16,8 +16,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 I would like to know the detailed Tafsir (explanation of the meanings of the Qur'an) of Ayahs (Qur'anic verses) number 76 to 78 of Surah Al-Tawbah. Do they apply to a person who has promised Allah to quit a certain sin and asked Allah to have wrath upon him if he commits it again?

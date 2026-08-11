@@ -16,7 +16,7 @@ muftis:
     url: /biography/abdulaziz/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA no. 17976, Question 2
 summary: It is not permissible to listen to a Christian radio station that calls for
   embracing the Christian faith in order to avoid temptation, except for the scholars
@@ -24,8 +24,6 @@ summary: It is not permissible to listen to a Christian radio station that calls
   against their evils.
 title: Ruling on listening to Christian broadcast
 ---
-
-
 ### Question: 
 
 Is listening to a Christian radio station forbidden, although the listener believes in Islam, Allah, and His Messenger (peace be upon him) and no one can shake his belief no matter what evidence they have. But listening to this radio station is nothing but curiosity and a desire to learn about their beliefs?

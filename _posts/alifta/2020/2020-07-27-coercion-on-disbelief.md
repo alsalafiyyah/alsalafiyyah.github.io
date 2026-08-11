@@ -13,14 +13,12 @@ muftis:
   members:
   - name: Shaykh Abdullah Ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 9272, Question 8
 summary: If coercion is actually existent, then the apparent declaration of disbelief
   is tolerated on condition that a person's heart is assured of faith
 title: Coercion on disbelief
 ---
-
-
 ### Question: 
  
 Does verbal or practical coercion justify professing Kufr (disbelief)?

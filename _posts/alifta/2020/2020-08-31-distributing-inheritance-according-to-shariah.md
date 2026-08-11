@@ -4,7 +4,7 @@ hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdullah ibn Ghudayyan
@@ -13,8 +13,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 4912
 title: Distributing the inheritance according to Shari'ah
 ---
-
-
 Question:
 
 In our village which is called (Darramah) Banu Bishr Qahtan Al-Janub, people used to distribute blood money as follows:

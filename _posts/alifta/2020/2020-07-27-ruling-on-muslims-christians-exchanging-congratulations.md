@@ -17,15 +17,13 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 18476, Question 2
 summary: It is not permissible to greet Christians or other disbelievers on their
   festivals and religious occasions, for this will be a sort of encouraging them in
   their falsehood and sharing in their sin.
 title: Ruling on Muslims and Christians exchanging congratulations
 ---
-
-
 ### Question: 
 
 Is it permissible for Muslims to exchange greetings with Christians on every occasion?

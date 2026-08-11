@@ -13,13 +13,11 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah no. 9566, Question 2
 summary: How can I learn Tajwid and in which book can I find the rules of Tajwid?
 title: How to learn Tajwid
 ---
-
-
 Question: 
 
 How can I learn Tajwid (reciting the Qur'an following the rules of recitation) and in which book can I find the rules of Tajwid? I heard your program "Rihab Al-Qur’an" and bought the book "Hidayat Al-Mustafid", but I could not understand it, because it was not clear. I used to study in an Islamic school in Djibouti. Could you suggest a solution? I am not educated and I come from a country occupied by Ethiopia. Could you send me a cassette recording of the Qur'an?

@@ -4,7 +4,7 @@ hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-'Aziz ibn Baz
 - Shaykh Abdul-Razzaq al-Afify
@@ -12,8 +12,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 6412-3
 title: Comparison between masturbation and looking at women
 ---
-
-
 Question: 
 
 It is known that masturbation which is especially practiced among young men, is Haram (prohibited) in Islam. A person who has recently observed Salah (Prayer) is practicing this bad habit. When I have informed him that it is Haram, he has said that his other option is to look at women. Which of them entails lesser harm; looking at women or masturbating?

@@ -1,7 +1,7 @@
 ---
 layout: post
 active: muqolat
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Obligation of enjoining good and forbidding evil
 hijri: '1442-02-09'
 date: 2020-09-26
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 All praise be to Allah, and peace and blessings be upon our Prophet Muhammad, his family, his Companions, and those who follow his guidance! To proceed: 
  
 It is one of the fundamental and best acts of worship that Muslims exchange advice, guide to goodness and enjoin one another to truth and patience. A Muslim should warn others against committing the violations of Islam and what displeases Allah (Exalted be He) or whatever distances one from His Mercy. I implore Allah (Glorified and Exalted be He) to purify our hearts and set aright our deeds and that of the Muslims. I ask Him to confer on us understanding of Islam, make us steadfast on it, support it and make it reign supreme! We invoke Allah to correct the Muslim rulers, guide them to all goodness, guide their retinue and help them do what is in the interest of people and their lands! We ask Allah to endow them with understanding of Islam and enlighten their chests to rule by His Shar'i (Law) and be firm on it. Indeed, Allah is the One Who is Capable of doing that! 

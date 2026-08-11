@@ -8,14 +8,12 @@ muftis:
   shaykh:
   - name: Permanent Committee
     url: /biography/alifta/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Islamiyah 1/29
 summary: This practice is a bidah, and excess in terms of revering the dead, and it
   is similar to the practice of those who over-rever pious people.
 title: Ruling on placing a wreath on a grave
 ---
-
-
 ### Question:
 Is placing a wreath on a grave of a unknown Soldier equal to aggrandizing the Awliya and pious people to the point of worshipping ?
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: 'Tafsir Surah Yusuf, Ayah 106: ''And most of them believe not in Allah...'''
 hijri: '1442-03-21'
 source: Fatawa Al-Shaykh Ibn Baz p.8/292
@@ -16,8 +16,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 Allah (Glorified and Exalted be He) says: "**And most of them believe not in Allâh except that they attribute partners unto Him [i.e. they are Mushrikûn i.e. polytheists. See Verse 6: 121].**" [Yusuf: 106] What is the Tafsir (explanation/exegesis of the meanings of the Qur'an) of this Ayah (Qur'anic verse)? What does Shirk mean here?

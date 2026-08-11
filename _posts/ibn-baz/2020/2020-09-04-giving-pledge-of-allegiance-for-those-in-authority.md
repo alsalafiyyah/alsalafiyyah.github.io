@@ -2,7 +2,7 @@
 layout: post
 title: Does giving the pledge of allegiance entail supplicating to Allah for those
   in authority?
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat p. 8/209
 category:
 - rulership
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 Does giving the pledge of allegiance entail supplicating to Allah for those in authority? 

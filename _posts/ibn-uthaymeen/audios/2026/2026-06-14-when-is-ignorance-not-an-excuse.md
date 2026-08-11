@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-06-14
 title: When is Ignorance Not an Excuse?
 source: Fatawa al-Haram al-Maki 1411
@@ -20,8 +20,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1447-12-28'
 ---
-
-
 ### Question: 
 
 We have read your response regarding the excuse of ignorance in matters that constitute disbelief (kufr). However, we find that in the book Kashf al-Shubuhat (Clarification of the Doubts) by Sheikh Muhammad ibn Abd al-Wahhab, as well as in his book Kitab al-Tawhid (The Book of Monotheism), there is a lack of excuse for ignorance. This is despite the fact that in your answer, you cited the views of Sheikh Muhammad ibn Abd al-Wahhab, as well as Ibn Taymiyyah in Al-Fatawa and Ibn Qudamah in Al-Mughni. We hope you can clarify this?

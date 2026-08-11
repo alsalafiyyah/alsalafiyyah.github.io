@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The ruling on putting pictures in homes
 hijri: '1442-03-11'
 source: One of the questions asked by Al-Da'wah magazine, His Eminence replied on
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 We know that hanging pictures in homes is Haram (prohibited). Can we hang them in the bathroom, whether they are tridimensional or not?

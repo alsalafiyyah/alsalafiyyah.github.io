@@ -12,15 +12,13 @@ muftis:
   members:
   - name: Sh. Abdullah Ibn Ghudayyan
   - name: Sh Abdullah Ibn Qa'ud
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 2139 Question 1
 summary: 'The Hadith of the Prophet (peace be upon him): Beware of newly invented
   things (in religion) includes all things which people have introduced into the Islamic
   religion.'
 title: The meaning of 'Newly invented things'
 ---
-
-
 ### Question:
 What are the "Newly invented things" (mentioned in a Hadith)?
  

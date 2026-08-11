@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The duty of guiding people to the reality of Tawhid and Shirk
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_412/41211.mp3
 link: https://cutt.ly/0dCGyqq
@@ -22,8 +22,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 I live in a district inhabited by people who claim to be Muslims. They offer Salah (Prayer), pay Zakah (obligatory charity), observe Sawm (Fast) and they perform Hajj. However, they believe in the dead; they say that righteous dead people or shaykhs are intercessors with Allah. They seek their blessings, ask for their help, vow to them, visit them, and travel to them. If you advise these people, they say that we should strive to get closer to these Awliya' (pious people). They hate those who prevent or advise them against worshipping the dead and Awliya'. What should we do? Should we leave them in the state that they are in? May Allah reward you with the best. 
 

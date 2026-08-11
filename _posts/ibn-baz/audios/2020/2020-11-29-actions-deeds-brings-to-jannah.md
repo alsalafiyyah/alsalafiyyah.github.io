@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Actions and deeds that bring a person closer to Paradise
 hijri: '1442-04-14'
 date: 2020-11-29
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 He (the questioner) is asking about actions and deeds that bring a person closer to Jannah (Paradise) and further them away from Hellfire? 
 

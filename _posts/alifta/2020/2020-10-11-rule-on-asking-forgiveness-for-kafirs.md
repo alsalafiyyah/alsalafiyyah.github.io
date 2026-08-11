@@ -13,7 +13,7 @@ muftis:
   members:
   - name: Shaykh Abdullah Ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah no. 10615 question 1
 summary: It is not (proper) for the Prophet and those who believe to ask Allâh’s Forgiveness
   for the Mushrikûn (polytheists, idolaters, pagans, disbelievers in the Oneness of
@@ -21,8 +21,6 @@ summary: It is not (proper) for the Prophet and those who believe to ask Allâh�
   are the dwellers of the Fire (because they died in a state of disbelief).
 title: Ruling on asking forgiveness for the disbelievers
 ---
-
-
 ### Question:
 A Muslim man renounced Islam and died in this state, can we declare him to be a disbeliever? What is the ruling on apostates in Islam? Is it permissible to ask Allah's forgiveness for them such as to say: O Allah, forgive him? 
 

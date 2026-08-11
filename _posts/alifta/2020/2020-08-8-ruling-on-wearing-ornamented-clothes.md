@@ -14,14 +14,13 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Ghudayyan
     url: /biography/ghudayyan
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 10549, Question 2
 summary: If the matter is exactly as what is mentioned in the question, it is permissible
   for women attending weddings to wear ornamented clothes provided that they do not
   intermix with men.
 title: Ruling on wearing ornamented clothes at weddings
 ---
-
 ### Question: 
 
 Is it permissible for women to wear ornamented clothes at weddings while non-Mahrams (not spouses or unmarriageable relatives) do not see them? In other words, is she allowed, in such cases, to wear ornamented clothes and not abide by Hijab (veil)?

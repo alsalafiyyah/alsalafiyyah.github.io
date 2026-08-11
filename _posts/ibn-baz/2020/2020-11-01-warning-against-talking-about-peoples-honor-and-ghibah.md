@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Warning against talking about people's honor and Ghibah
 hijri: '1442-03-15'
 source: Published in Al-Madinah newspaper on 27/10/1416 A.H
@@ -16,8 +16,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 What is Ghibah? What is the ruling on transgressing against the honor of people? Is it permissible to sit with a person who backbites others? 

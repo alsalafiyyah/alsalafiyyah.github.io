@@ -15,14 +15,12 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fawa no.18645, Question 3
 summary: Knowledge of Ghayb is one of the exclusive attributes of Rububiyyah (Lordship);
   no one knows the Ghayb of the heavens and the earth except Allah.
 title: Do the Jinn know knowledge of Unseen?
 ---
-
-
 ### Question: 
 
 Do the Jinn (creatures created from fire) know the Ghayb (the Unseen)? Please clarify this as soon as possible.

@@ -4,7 +4,7 @@ hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdul-Aziz Aal al-Shaykh
@@ -13,8 +13,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 19378-3
 title: Claiming there are Hadith Munkar related by Al-Bukhari
 ---
-
-
 Question: 
 
 Some people deny some authentically reported Hadith and claim that there are Da'if (weak) and Munkar (rejected Hadith reported by a weak narrator whose narration conflicts with an authentic Hadith) Hadiths in "Sahih Al-Bukhari". For example, they deny the Hadith narrated on the authority of Abu Hurayrah (may Allah be pleased with him) regarding the ruling in case a fly falls into a drink. They further contest the reliability of the narrator on the pretext that he was a poor person begging people for food.

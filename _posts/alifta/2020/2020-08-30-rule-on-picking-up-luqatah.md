@@ -4,7 +4,7 @@ hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdul-Aziz Aal al-Shaykh
@@ -14,8 +14,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 18003
 title: Ruling Picking up Luqatah
 ---
-
-
 Question: 
 
 I found a watch valued at 35 riyals in Mina during the days of Hajj. I did not know that the Luqatah (a lost item found by someone else) in Al-Haram (all areas within the Sacred Sanctuary of Makkah) is not permissible to take except for someone who will publicize it. Then, I found out the ruling when I returned home. What is the ruling in this case?

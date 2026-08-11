@@ -15,15 +15,13 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah Ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 2677, Question 9
 summary: The ideal way for Muslims when dealing with a Dhimmy is to honor the agreement
   made with them according to the Qur'anic verses and Hadith that command the fulfillment
   of agreements and dealing kindly and justly with them.
 title: Dealing with a Dhimmy
 ---
-
-
 ### Question: 
  
 What is the ideal way to deal with a Dhimmy (protected non-Muslim living under Islamic rule)? Should they be dealt with in the normal way?

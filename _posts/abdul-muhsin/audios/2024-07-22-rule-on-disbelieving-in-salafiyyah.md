@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on disbelieving in Salafiyyah
 mp3: https://alsalafiyyah.github.io/assets/audios/rule-on-saying-disbelieve-in-salafiyyah.mp3
 hijri: '1446-01-16'
@@ -21,8 +21,6 @@ muftis:
   - name: Shaykh Abdul-Muhsin Al-Abbad
     url: /biography/abdulmuhsin-alabbad
 ---
-
-
 ### Question: 
 
 What is your eminence's opinion regarding someone who says: "I disbelieve in Salafiyyah"?

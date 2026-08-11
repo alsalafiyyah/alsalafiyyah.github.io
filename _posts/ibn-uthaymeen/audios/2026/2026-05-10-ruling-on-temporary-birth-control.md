@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-10
 hijri: '1447-11-23'
 title: The Ruling on Temporary Birth Control
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 ### Question:
 
 With the blessing of Allah, we begin this week's episode with a letter received from a listener, Muhammad Ibrahim from Egypt. He sent a message asking: What is the Islamic legal ruling, in your view, Your Eminence, regarding birth control for a temporary period without an urgent necessity, other than the woman simply wanting to rest from the exhaustion of annual pregnancies? He also asks about the claim made by the enemies of Islam regarding the population explosion.

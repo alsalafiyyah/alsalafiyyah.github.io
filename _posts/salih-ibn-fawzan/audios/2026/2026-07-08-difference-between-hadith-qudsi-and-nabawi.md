@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-07-08
 title: The Difference Between Hadith Qudsi and Nabawi
 category:
@@ -22,8 +22,6 @@ muftis:
     url: /biography/fawzan/
 hijri: '1448-01-23'
 ---
-
-
 ### Question: 
 
 What is the difference — he [the questioner] asks, O Shaykh — between a Hadith Qudsi (Sacred Hadith) and a Hadith Nabawi (Prophetic Hadith)? 

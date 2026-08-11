@@ -12,14 +12,12 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatwas of the Permanent Committee no. 21285
 summary: This poem is a lie against Imam Abu Hanifah. It is, thus, not permissible
   to attribute it to him.
 title: A poem attributed to Imam Abu Hanifah
 ---
-
-
 ### Question:
 
 I found the attached poem and read it only to find that it includes verses entailing Shirk (associating others with Allah in His Divinity or worship), such as "**If it were not for you, no human would have been created...**". The strange thing is that the poem is attributed to Imam Abu Hanifah Al-Nu'man. Is this true? May Allah reward you with the best. Is it permissible to distribute, read, and publish this poem? I hope Your Eminence will give a detailed answer about this poem. May Allah bless you! 

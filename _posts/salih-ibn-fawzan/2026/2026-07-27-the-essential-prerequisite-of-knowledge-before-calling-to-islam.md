@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The Essential Prerequisite of Knowledge Before Calling to Islam
 date: 2026-07-27
 category:
@@ -18,8 +18,6 @@ muftis:
     url: /biography/fawzan
 hijri: '1448-02-13'
 ---
-
-
 ### Question:
 
 What do you say regarding those who travel abroad outside the Kingdom for the purpose of da'wah (proselytizing/calling to Islam) despite having never sought religious knowledge? They urge people to do this, repeat strange slogans, and claim that whoever goes out in the cause of Allah for da'wah will be divinely inspired by Allah. They also claim that religious knowledge is not an essential prerequisite—even though you know, Respected Sheikh, that anyone traveling outside the Kingdom will encounter various schools of thought, religions, and questions directed at the caller. Do you not agree that whoever goes out in the cause of Allah must possess the necessary weapons [of knowledge] to face people—especially in East Asia, where they oppose the renewer of the call, Sheikh Muhammad ibn Abd al-Wahhab?

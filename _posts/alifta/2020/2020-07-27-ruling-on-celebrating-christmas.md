@@ -15,15 +15,13 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 8848
 summary: It is not permissible to join the Christians in their celebrations, even
   if those who claim knowledge join them, because this increases their numbers and
   is a kind of support to them in sin and transgression.
 title: Ruling on Celebrating Christmas
 ---
-
-
 ### Question: 
  
 Is it permissible for a Muslim to join the Christians in their celebrations, such as Christmas that is held at the end of December? Some people who claim knowledge sit with Christians in their feast gatherings and say that it is permissible. Is their opinion true or false? Is there any legal evidence for the permissibility of doing so?

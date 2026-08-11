@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nullifiers of Islam
-publisher: alsalafiyyah@icloud.com, salafiyyah@outlook.sa
+publisher: alsalafiyyah.manhaj@gmail.com, salafiyyah@outlook.sa
 source: Majmu' Fatawa 1/130
 hijri: '1441-12-27'
 date: 2020-08-17
@@ -17,8 +17,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 All praise be to Allah Alone, and peace and blessings be upon the Last of the Prophets, his family, his Companions, and those who follow his guidance.
 
 A Muslim should know that Allah (Glorified be He) has made it obligatory for all mankind to embrace Islam, firmly abide by it and avoid what contradicts it. Allah sent His Prophet Muhammad (peace be upon him) to call people to this, informing them that whoever follows him will be guided and whoever turns away from him will be misguided. In many Ayahs (Qur'anic verses), Allah warned people against causes of apostasy and all forms of Shirk (associating others with Allah in His Divinity or worship) and Kufr (disbelief). Under the topic of the rulings of the apostate, scholars (may Allah be merciful to them) mentioned that a Muslim may become an apostate by committing one of the things that nullifies Islam and renders his blood and money violable and turn him out of the fold of Islam. The most dangerous and common ten nullifiers of Islam are mentioned by **Shaykh and Imam Muhammad ibn 'Abdul-Wahhab** and other scholars (may Allah be merciful to them). Here we will list them in brief so that a Muslim can keep away from them and warn people against them in hope for safety and well-being. We will briefly elaborate on them.

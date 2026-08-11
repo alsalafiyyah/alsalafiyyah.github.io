@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-08-03
 title: The Duty of Muslims to Defend Al-Aqsa Mosque
 category:
@@ -22,8 +22,6 @@ muftis:
     url: /biography/fawzan/
 hijri: '1448-02-20'
 ---
-
-
 ### Question: 
 
 O honorable Shaykh, I love you for the sake of Allah. May Allah reward you with the best of rewards on behalf of me, Islam, and the Muslims. My question is: What is the role of scholars, 'callers to Islam' (du'at), and preachers regarding what the Al-Aqsa Mosque is exposed to in terms of attempts of desecration, and even reaching the point of demolition?

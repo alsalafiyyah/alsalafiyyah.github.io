@@ -15,14 +15,12 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Mani'
     url: /biography/mani/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 102, Question 5
 summary: Khamr is Haram. It is impermissible to be used as a treatment. A proof for
   the foregoing is the Hadith.
 title: Rule on drink Khamr for relieve pains
 ---
-
-
 ### Question:
 Is it permissible for a believer to drink Khamr claiming that it relieves some of their pains?
 

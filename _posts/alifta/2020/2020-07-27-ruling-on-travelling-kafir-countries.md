@@ -16,7 +16,7 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 21676, Question 2
 summary: If the person who wants to travel to the land of the disbelievers needs to
   travel, for example, to maintain ties of kinship which is obligatory, can avoid
@@ -24,8 +24,6 @@ summary: If the person who wants to travel to the land of the disbelievers needs
   However, he must not stay there for long.
 title: Ruling on traveling to non-Muslim countries
 ---
-
-
 ### Question: 
 
 We know a religious brother who wants to travel to Italy to visit his brothers there in order to maintain family ties. Is maintaining family ties considered a legal reason for this person to travel to the land of the disbelievers

@@ -4,7 +4,7 @@ hijri: '1442-01-08'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-'Aziz ibn 'Abdullah ibn Baz
 - Shaykh Abdul-Razzaq al-Afify
@@ -13,8 +13,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 8381-2
 title: The prophet sent before Prophet Muhammad (peace be upon him)
 ---
-
-
 Question: 
 
 Who was the prophet and messenger sent before the Last Messenger; our Prophet Muhammad (peace be upon him)?

@@ -16,14 +16,12 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah Ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 7266
 summary: It is not permissible to have crosses in mosques, houses or educational buildings
   like schools, institutes and so on.
 title: Manufacturing crosses is not permissible
 ---
-
-
 ### Question: 
 
 What do you think about crosses printed on carpets in some Masjids (mosques)? A carpet spread in the Masjid may contain drawings of two crossing swords, a small palm tree and some crosses. How can a person offer Salah (Prayer) on these carpets?

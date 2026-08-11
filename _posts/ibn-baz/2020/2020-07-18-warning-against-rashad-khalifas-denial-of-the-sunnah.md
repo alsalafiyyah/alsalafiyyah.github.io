@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Warning against Rashad Khalifa's denial of the Sunnah
 source: Majmu' Fatawa Shaykh Ibn Baz 2/400
 lang: en
@@ -16,8 +16,6 @@ muftis:
   - name: Shaykh Ibn Baz
     url: /biography/binbaz
 ---
-
-
 All praise be to Allah. May peace and blessings be upon His Messenger and upon his family, Companions, and those who followed him.
 
 The reason for this speech is the latest events in city of Toussaint, an affiliate of the state of Arizona, America. There is a person called Rashad Khalifah, an American-Egyptian citizen who denies the Sunnah, reviles the status of the Messenger (peace be upon him), and distorts the Words of Allah to conform with his deviated opinions.

@@ -14,15 +14,13 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 4765, Question 1
 summary: A Muslim is prohibited to commit Zina, even if he is away from his wife for
   one or two years or more. He has to travel to his wife to satisfy his desire through
   lawful means and to achieve chastity.
 title: Ruling on Zina especially where one is away from the spouse
 ---
-
-
 ### Question: 
 
 What is the ruling on committing Zina (sexual intercourse outside marriage)? Is it permissible for those working in Europe and are away from their spouses for a long time to commit Zina? Some of them can not bring their families to Europe for different reasons.

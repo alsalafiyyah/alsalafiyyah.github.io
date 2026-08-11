@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-16
 title: Is Al-Khidr Still Alive Today?
 source: 'Fatawa Nur ''ala al-Darb / Tape no: 340'
@@ -22,8 +22,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1447-11-29'
 ---
-
-
 ### Question: 
 
 May Allah be good to you. Are the hadiths narrated concerning Al-Khidr (peace be upon him) authentic up to this day, and is he still alive?

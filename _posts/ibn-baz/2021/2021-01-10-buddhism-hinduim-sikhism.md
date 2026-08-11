@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are Buddhism, Hinduism and Sikhism considered religions?
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa 28/273
 category:
 - non-muslim
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 On the evening of Friday, 4th of Safar 1403 A.H., I watched the TV show "The Natural World". The episode was about India. While giving a quick introduction to the episode, the announcer said that India is indeed called the land of religions where you can find Hinduism, Buddhism, Sikhism, etc. Please explain the following: Are the beliefs the announcer mentioned considered to be real faiths? Were they revealed and sent down by Allah? 

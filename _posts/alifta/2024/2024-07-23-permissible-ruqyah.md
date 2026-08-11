@@ -9,13 +9,11 @@ hijri: '1446-01-17'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah, Fatwa no. 9120‏, Question 1
 summary: There is no harm in Ruqyah as long as it does not entail Shirk.
 title: Is it permissible for Muslims to use all kinds of Ruqyah?
 ---
-
-
 ### Question: 
 Is it permissible for Muslims to use all kinds of Ruqyah (reciting Qur'an and saying supplications over the sick seeking healing)?
 

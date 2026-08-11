@@ -9,15 +9,13 @@ hijri: '1442-01-17'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Daimah no. 4143, Question 2
 summary: Ahl Al-Sunnah wal Jama‘ah are the Muslims who follow the very same way which
   Prophet Muhammad ibn Abdullah (peace and blessings be upon him) and his Companions
   followed.
 title: Who are Ahl Al-Sunnah wal Jama‘ah
 ---
-
-
 ### Question:
 What is the definition of the term “Ahl Al-Sunnah wal Jama‘ah”? Are the scholars of the Barelwi school of thought in India considered from Ahl Al-Sunnah wal Jama‘ah?
 

@@ -4,7 +4,7 @@ hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdul-Razzaq al-Afify
@@ -13,8 +13,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 2510
 title: Repaying the deceased's debt in full before distributing the inheritance
 ---
-
-
 Question: 
 
 Is it permissible for a son who settled his deceased father's 30,000 riyal debt, as the father had little money, to take the amount he paid to settle the debt before dividing the estate among heirs who demand their shares?

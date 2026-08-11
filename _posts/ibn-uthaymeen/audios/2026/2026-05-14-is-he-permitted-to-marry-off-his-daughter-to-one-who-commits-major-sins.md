@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-14
 title: Is he permitted to marry off his daughter to one who commits major sins?
 source: 'Fatawa Nur ''ala al-Darb / Tape no: 157'
@@ -23,8 +23,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1447-11-27'
 ---
-
-
 ### Question: 
 
 May Allah bless you. A listener from Sudan, identified by the initials Z. Y., a Sudanese national residing in Iraq, asks: "Is it permissible for me to marry off my daughter to a Muslim man who commits some major sins, such as drinking alcohol and committing adultery?"

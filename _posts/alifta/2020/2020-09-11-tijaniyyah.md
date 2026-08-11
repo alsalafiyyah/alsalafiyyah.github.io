@@ -7,7 +7,7 @@ muftis:
   shaykh:
   - name: Shaykh Ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majallat al-Buhuth, issue no. 39, pg. 145-148
 summary: Tijaniyyah is an innovated Tariqah and Muslims are not permitted to follow
   innovated Tariqahs, whether the Tijaniyyah or any other.
@@ -16,8 +16,6 @@ tags:
 title: The Ruling on Tijaniyyah Sufi Order
 translation: false
 ---
-
-
 ### Question:
 
 We have so many followers of the Tijaniyyah (a deviant Sufi sect embracing strange beliefs far from Islam), but I have known from your Program "Nur 'ala Al-Darb" that it is an innovated Tariqah (Sufi order) that must not be followed. However, my family members recite the remembrance litanies of Shaykh Ahmad Al-Tijany, which is Salat-ul-Fatih (Remembrance from the Tijaniyyah order). They claim that Salat-ul-Fatih is the correct form of sending peace and blessings on the Prophet (peace be upon him); is this true? 

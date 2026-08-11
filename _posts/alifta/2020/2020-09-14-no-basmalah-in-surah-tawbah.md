@@ -16,14 +16,12 @@ muftis:
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatwas of the Permanent Committee no. 3810-12
 summary: Why is not the Basmalah written at the beginning of Surah Al-Tawbah?
 title: No Basmalah in Surah Al-Tawbah
 uid: no-basmalah-in-surah-tawbah
 ---
-
-
 Question:
 
 Why is not the Basmalah (i.e. “Bismillah Al-Rahman, Al-Rahim [In the Name of Allah, the Most Gracious, the Most Merciful]”) written at the beginning of Surah Al-Tawbah?   

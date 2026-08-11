@@ -5,7 +5,7 @@ hijri: '1442-01-09'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah no. 6426
 summary: Jesus was raised alive, in both body and soul, to the heavens. He is not
   yet dead; he was not killed by the Jews nor crucified, but it appeared so to them
@@ -13,8 +13,6 @@ summary: Jesus was raised alive, in both body and soul, to the heavens. He is no
 title: On raising up of Jesus and his being created without a father and the reason
   behind the permissibility of Jihad
 ---
-
-
 ### Question: 
 
 Is it a necessity to believe in the following matters in Islam or not:

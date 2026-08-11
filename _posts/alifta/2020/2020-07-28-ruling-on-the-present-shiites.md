@@ -4,7 +4,7 @@ hijri: '1441-12-07'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 8187, Question 5
 summary: Shiites nowadays have many sects. For more clarification on this issue, refer
   to the contemporary books written on deviant sects, and you could also read Mukhtasar
@@ -15,8 +15,6 @@ tags:
 title: Ruling on the Shiites
 translation: false
 ---
-
-
 ### Question: 
 
 Are all the present Shiites Kafirs (disbelievers) or just their Imams?

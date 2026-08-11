@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The Ruling on Violating Traffic Rules
 hijri: '1446-02-19'
 date: 2024-08-23
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Ibn Baz
     url: /biography/binbaz
 ---
-
-
 ### Question: 
 What is the Islamic ruling regarding someone who disregards traffic rules, someone, for example, who passes through a red light?
 

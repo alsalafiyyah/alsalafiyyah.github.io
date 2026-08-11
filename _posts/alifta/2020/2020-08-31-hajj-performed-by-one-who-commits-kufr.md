@@ -4,7 +4,7 @@ hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Razzaq al-Afify
 - Shaykh Abdullah ibn Ghudayyan
@@ -12,8 +12,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 836 Question 3
 title: Hajj performed by a person who committed an act of Kufr
 ---
-
-
 ### Question:
 After performing Hajj, a person committed Zina (sexual intercourse outside marriage) and sometimes neglected Salah (Prayer). Later, this person repented to Allah. Is this person's first Hajj sufficient or should they perform Hajj once again?
 

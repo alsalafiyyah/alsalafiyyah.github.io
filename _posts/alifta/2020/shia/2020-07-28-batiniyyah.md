@@ -4,7 +4,7 @@ hijri: '1441-12-07'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 5508
 summary: The belief that Allah is incarnated in 'Ali or in any other being is sheer
   disbelief that excludes a person from Islam. Likewise, the belief that any being
@@ -15,9 +15,6 @@ tags:
 title: Al-Batiniyyah
 translation: false
 ---
-
-
-
 ### Question: 
 
 What is the view of Sunni scholars regarding Al-Isma'iliyyah and Agha Khani sects who live in many places and most of them live in the north of Pakistan. Following are some of their views that explain their doctrine.

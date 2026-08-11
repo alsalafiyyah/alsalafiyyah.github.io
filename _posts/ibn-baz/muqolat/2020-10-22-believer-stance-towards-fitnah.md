@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The Believer's Stance towards the Trials (Fitnah)
 hijri: '1442-03-05'
 source: Majmu' Fatawa Wa Maqalat of Ibn Baz 6/103
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 Praise be to Allah, the Lord of the Worlds. May the good end be for the pious people. Peace be upon Muhammad, His Messenger and His Slave, and upon his wives and offspring just like He sent His peace upon Prophet Ibrahim and his family. May Allah bless Prophet Muhammad, his wives, and offspring just like He blessed Prophet Ibrahim and his family. He (Glorified be He) is indeed Praiseworthy and Glorious.
 
 I would like to thank Allah (Glorified and Exalted be He) for this meeting with our dear brothers and sons. I implore Allah (Exalted be He) to make it a blessed meeting, make us benefit from what we learnt, rectify our hearts, and our deeds, protect us all from the evils within ourselves and our misdeeds, grant victory to His Religion, make His Word superior, set right the affairs of the Muslims everywhere, let the best among them rule, and protect them from the evil ones among them. He is the Generous, the Gracious. I would like also to thank those in charge of Imam Muhammad ibn Sa'ud University for organizing this meeting. May Allah (Exalted be He) double their reward and guide us all to every good in religion and life and to the benefit of the whole Ummah (nation). He (Glorified and Exalted be He) is the Generous, the Gracious.

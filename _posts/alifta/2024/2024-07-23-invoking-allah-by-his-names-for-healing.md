@@ -9,14 +9,12 @@ hijri: '1446-01-17'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.9120‏, Question 2
 summary: It is permissible to do so due to the general saying of Allah 'And (all)
   the Most Beautiful Names belong to Allâh, so call on Him by them'.
 title: Ruling on invoking Allah by His Names for healing
 ---
-
-
 ### Question: 
 Can Muslims make Du'a (supplication) to Allah using His Names for the cure of their illnesses?
 

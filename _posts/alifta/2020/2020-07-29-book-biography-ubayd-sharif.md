@@ -14,15 +14,13 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA no. 21547
 summary: It is impermissible to publish, print, obtain or promote this book (Al-Ta'rif
   bil-Shaykh Sayyidi by Al-Hadi Bashawat) as it calls to Shirk, Bid'ahs, superstitions
   and satanic practices.
 title: 'Ruling on the book entitled: ''Biography of Master Shaykh Ubayd Al-Sharif'''
 ---
-
-
 Question: 
 
 What is the ruling on obtaining the book titled, "Al-Ta'rif bil-Shaykh Sayyidi 'Ubayd Al-Sharif (Biography of Master Shaykh 'Ubayd Al-Sharif)", compiled by Al-Hadi Bashawat? Is it reliable?

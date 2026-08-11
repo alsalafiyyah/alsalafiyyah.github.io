@@ -10,14 +10,12 @@ muftis:
   deputy_chairman:
   - name: Shaykh Abdul-Razzaq Al-Afifi
     url: /biography/afifi/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 12087, Question 30
 summary: It is not permissible to greet a disbeliever first even if they occupy high
   positions, because of the general prohibition mentioned in the Hadith
 title: Ruling on initiating Salam with non-Muslims
 ---
-
-
 ### Question: 
 
 Is it permissible to begin greeting a disbeliever, especially if they are of high positions such as a professor in a university?

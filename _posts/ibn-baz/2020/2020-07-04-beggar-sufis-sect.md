@@ -7,7 +7,7 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat 3/447
 summary: Such people should not be given money or helped by any means, as this is
   considered encouraging them to continue this abominable act. If they beat themselves,
@@ -17,8 +17,6 @@ tags:
 title: The beggar sufis sect
 translation: false
 ---
-
-
 ### Question: 
 
 An inquirer from Syria says: We have some people who claim that they are the children of Shaykh 'Isa or of other shaykh known to us. They come to beg wearing green silky turbans on their heads and iron bars in their hands. If they are given, they will be pleased; if they are not, they will be enraged and start beating themselves in the stomach and head with the iron bars.

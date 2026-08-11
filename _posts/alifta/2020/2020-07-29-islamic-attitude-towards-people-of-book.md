@@ -4,7 +4,7 @@ hijri: '1441-12-08'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 1412
 summary: The origin of the doctrines with which prophets and messengers were sent
   is one. Allah revealed scriptures that contained these doctrines to them.
@@ -13,8 +13,6 @@ tags:
 title: Islam's attitude towards the People of the Book
 translation: false
 ---
-
-
 ### Question:
 
 Allah (Exalted be He) says: "And whoever seeks a religion other than Islâm, it will never be accepted of him" [Aal Imran: 85]

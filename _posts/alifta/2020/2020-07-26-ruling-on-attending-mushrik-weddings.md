@@ -12,15 +12,13 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 21587, Question 5
 summary: It is not permissible to share in their (Disbelievers) occasions, which involve
   Shirk (associating others with Allah in His Divinity or worship) or Bid'ah (innovation
   in Islam).
 title: Ruling on attending mushrik weddings
 ---
-
-
 ### Question: 
 
 Is it permissible for a Muslim who believes in one God to participate in the wedding ceremonies of Mushriks (those who associate others with Allah in His Divinity or worship), and help them arrange such ceremonies on account of a blood or marriage relationship, or the like? Also, is it permissible to attend their funerals, without praying for their dead, and the burial? Is it permissible to sit and commiserate with them?

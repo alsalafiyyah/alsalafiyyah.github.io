@@ -5,7 +5,7 @@ hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 1376
 summary: The preponderant of scholars' views about masturbation commonly referred
   to as Secret Habit is that it is an unlawful sexual activity.
@@ -14,8 +14,6 @@ tags:
 title: Ruling on masturbation
 translation: false
 ---
-
-
 ### Question: 
 
 A person observes obligatory acts of worship such as Salah (Prayer) and Sawm (fast) etc. However, he practices masturbation. What is the ruling on this in Islam?

@@ -4,7 +4,7 @@ hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, fatwa  no. 6341 question 1
 summary: Will a sinner who receives the Hadd (ordained punishment for violating Allah’s
   Law) in worldly life be punished on the day of Resurrection?
@@ -14,8 +14,6 @@ title: Punishment on the Day of Resurrection for someone to whom the Hadd has be
   administered
 translation: false
 ---
-
-
 ### Question: 
 
 Will a sinner who receives the Hadd (ordained punishment for violating Allah’s Law) in worldly life be punished on the day of Resurrection?

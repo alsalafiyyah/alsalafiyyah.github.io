@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: How does a Muslim correct their Islamic creed
 source: Fatawa Nur 'Ala al-Darb, tape 88237
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_882/nour_88237.mp3
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 The inquirer asks: How does a Muslim correct their Islamic creed ('Aqidah), and how do they preserve it?
 

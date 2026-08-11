@@ -5,14 +5,12 @@ hijri: '1442-01-07'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com, salafiyyah@outlook.sa
+publisher: alsalafiyyah.manhaj@gmail.com, salafiyyah@outlook.sa
 source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 1883, Question 1
 summary: They are either accusing Maryam of Zina, as the Jews did, or claiming that
   Jesus is the son of Allah, as the Christians do.
 title: Ruling on believing that Jesus has a father
 ---
-
-
 ### Question:
 It is claimed that 'Isa (Jesus, peace be upon him) had a father, and believing that he was born without a father is not a part of the Islamic Aqidah (creed).
 

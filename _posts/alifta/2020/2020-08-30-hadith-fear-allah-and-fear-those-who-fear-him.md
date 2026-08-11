@@ -14,14 +14,12 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah no. 14160-2
 summary: 'It is said that the Messenger of Allah (peace be upon him) said: ''Fear
   Allah, and fear those who fear Him.'' Is this a Sahih (authentic) Hadith?'
 title: 'Hadith: ''Fear Allah and fear those who fear Him'''
 ---
-
-
 Question: 
 
 It is said that the Messenger of Allah (peace be upon him) said: "**Fear Allah, and fear those who fear Him.**" Is this a Sahih (authentic) Hadith?

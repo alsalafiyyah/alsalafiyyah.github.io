@@ -9,14 +9,12 @@ muftis:
   - name: Shaykh Ibn 'Uthaymeen
     url: /biography/uthaymeen
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Islamiyah 8/66-68
 summary: The people you have described those whose understanding has been distorted
   until they see good as evil and evil as good.
 title: 'The ruling on one who thinks that ''right is wrong and vice versa'' '
 ---
-
-
 ### Question:
 What is your opinion about people whose judgements have become perverse: **they deem evil to be good, and good to be evil** ?
 

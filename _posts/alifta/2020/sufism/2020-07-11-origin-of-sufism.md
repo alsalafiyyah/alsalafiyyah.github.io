@@ -4,7 +4,7 @@ hijri: '1441-11-20'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatwas of the Permanent Committee of KSA, Fatwa no.19521
 summary: All the Sufi sects or what is so called now Tasawwuf (mysticism) are full
   of Bid'ah and the means which leads to it and corrupted thoughts which are against
@@ -14,9 +14,6 @@ tags:
 title: Origin and the creeds of Sufism
 translation: false
 ---
-
-
-
 ### Question: 
 
 I ask your eminence to reply to us in short about Sufism and Sufis; what is Sufism, their 'Aqidah (creed) and what is the opinion of Ahl-ul-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream) about them? What should Ahl-ul-Sunnah wal-Jama'ah do regarding them and how should we treat Sufis while they insist on their 'Aqidah (creed)? They believe that they are on the truth even after the facts are revealed before them? I ask Allah (Exalted be He) to benefit the people who are in need to understand this matter from your knowledge. May Allah guide all of us to what pleases Him. May Allah reward you. 

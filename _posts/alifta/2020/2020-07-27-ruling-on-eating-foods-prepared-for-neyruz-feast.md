@@ -17,14 +17,12 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 18412, Question1
 summary: It is not permissible for a Muslim to observe any of the rituals of disbelief
   and Shirk, including the religious occasions such as festivals and others.
 title: Ruling on eating foods prepared for Neyruz feast after it
 ---
-
-
 ### Question: 
  
 We know that it is not permissible to celebrate what is called Neyruz (Iranian new year holiday), as it is one of the feasts of the Magi. The question is: Is it permissible to eat the foods served at these feasts several days later?

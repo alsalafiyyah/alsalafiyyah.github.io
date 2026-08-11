@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Guidelines and Conduct of Enjoining Good and Forbidding Evil
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-07-29
 active: audios
 category:
@@ -22,8 +22,6 @@ muftis:
     url: /biography/binbaz/
 hijri: '1448-02-15'
 ---
-
-
 ### **Question:**
 
 The listener (N. N. N.) sent several questions, asking in one of them about the correct way to enjoin good and forbid evil, and what is the wisdom meant in such a context?

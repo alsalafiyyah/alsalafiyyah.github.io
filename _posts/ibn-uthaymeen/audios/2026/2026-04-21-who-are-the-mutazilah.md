@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-04-21
 hijri: '1447-11-04'
 title: An Overview of the Mu'tazilah Sect
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 ### Question: 
 
 May Allah bless you, O Virtuous Sheikh. The questioner has a second point, asking: Who are the Mu'tazilah?

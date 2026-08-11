@@ -8,7 +8,7 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa 1/391
 summary: Glorifying monuments is not by building memorials, inscriptions, and following
   in the footsteps of non-Muslims. The true celebration of these monuments is to follow
@@ -17,8 +17,6 @@ summary: Glorifying monuments is not by building memorials, inscriptions, and fo
   with words and actions.
 title: Refuting Mustafa Amin
 ---
-
-
 All praise be to Allah, Lord of the worlds, peace and blessings be upon the Honest Prophet Muhammad. 
 
 I have perused the article published in Al-Nadwah Newspaper, issue dated 24/6/1380 A.H., titled "Sights of Al-Madinah Al-Munawwarah" by Mustafa Amin. Considering the mentioned article, I found many mistakes that should be highlighted lest readers should be deceived by them. The Prophet (peace be upon him) said: "**Religion is sincerity (in advice, acts and so on).**" [^1]

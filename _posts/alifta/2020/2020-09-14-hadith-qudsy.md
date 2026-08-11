@@ -13,15 +13,13 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatwas of the Permanent Committee no. 11304
 summary: ' The term Hadith Qudsy refers to Revelations from Allah in the Prophet’s
   words. Such Revelations were sent to the Prophet through the angel Jibril (Gabriel,
   peace be upon him) or by direct inspiration in wakefulness or sleep'
 title: What are the Hadith Qudsy?
 ---
-
-
 Question:
 
 What are the Hadith Qudsy? Why they are called so? 

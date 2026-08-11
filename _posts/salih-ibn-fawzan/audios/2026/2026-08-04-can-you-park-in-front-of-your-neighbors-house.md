@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-08-04
 title: Can You Park in Front of Your Neighbor’s House?
 category:
@@ -21,8 +21,6 @@ muftis:
     url: /biography/fawzan/
 hijri: '1448-02-21'
 ---
-
-
 ### Question: 
 
 Your Eminence, Shaykh, can parking a neighbor's car in front of his neighbor's door be analogized to driving a wooden stake [into a neighbor's wall]?

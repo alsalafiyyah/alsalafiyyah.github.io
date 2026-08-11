@@ -15,14 +15,12 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 4957
 summary: Imam Al-Bukhari has a chapter in his Sahih Book of Hadith dedicated to References
   to Al-Masih- ad-Dajjal that includes ten Hadiths about him.
 title: Will the Antichrist appear?
 ---
-
-
 ### Question: 
 
 Will Al-Masih-ul-Dajjal (the Antichrist) appear, because - from what I have read - some scholars have confirmed this while others deny it? 

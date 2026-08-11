@@ -15,7 +15,7 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 18612 Question 28
 summary: It is impermissible to cut one's own hand to apply the Hadd of stealing or
   to kill oneself if there is a reason to do it. A person should perform Tawbah instead,
@@ -25,8 +25,6 @@ tags:
 title: Stoning versus lashing a previously married man committing Zina
 translation: false
 ---
-
-
 ### Question: 
 
 If a divorced man commits Zina (sexual intercourse outside marriage), should he be stoned to death or considered unmarried? Is it permissible to carry out Hadd (ordained punishment for violating Allah’s Law) upon oneself, such as cutting one's hand after performing Tawbah (repentance to Allah) from stealing?

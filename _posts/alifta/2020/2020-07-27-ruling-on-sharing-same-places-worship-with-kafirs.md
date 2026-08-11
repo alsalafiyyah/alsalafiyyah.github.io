@@ -10,7 +10,7 @@ muftis:
   deputy_chairman:
   - name: Shaykh Abdul-Razzaq Al-Afifi
     url: /biography/afifi/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 2234
 summary: It is unanimously agreed upon that the Islamic Shari'ah was revealed to both
   jinn and mankind. Whoever claims that the Jews and the Christians are following
@@ -18,8 +18,6 @@ summary: It is unanimously agreed upon that the Islamic Shari'ah was revealed to
   Sunnah of the Prophet, and the general consensus of the Muslim Ummah.
 title: Ruling on sharing the same places of worship with non-Muslims
 ---
-
-
 ### Questions: 
  
 1. Question 1: Is it legally valid for the followers of different religions to share one place of worship?

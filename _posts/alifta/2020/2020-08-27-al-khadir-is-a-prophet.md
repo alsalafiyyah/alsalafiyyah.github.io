@@ -5,15 +5,13 @@ hijri: '1442-01-08'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah no. 5513, question 2
 summary: The correct opinion is that Al-Khadir (peace be upon him) is a prophet. This
   is based on his story with Musa (peace be upon him) narrated in Surah Al-Kahf (The
   Cave).
 title: Is Al-Khadir a prophet or a righteous man?
 ---
-
-
 ### Question: 
 
 Is Al-Khadir a prophet or a righteous man?

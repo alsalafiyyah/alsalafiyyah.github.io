@@ -4,7 +4,7 @@ hijri: '1441-11-23'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatwas of the Permanent Committee of KSA, Fatwa no.5728, Question 1
 summary: We do not know any legal basis about this in the Book of Allah or the authentic
   Sunnah of the Messenger of Allah. It is a Bid'ah.
@@ -13,8 +13,6 @@ tags:
 title: Ruling on three pieces of clay for the dead
 translation: false
 ---
-
-
 ### Question: 
 
 When a person dies, some people in our village bring three pieces of clay. They make a sphere out of every piece of clay and make it similar in size to a lemon or a little smaller. After washing and shrouding the dead person, when burying him, they put one piece of clay under his right cheek, the second one under his thigh and the third one under his heel. What is the ruling on doing so? 

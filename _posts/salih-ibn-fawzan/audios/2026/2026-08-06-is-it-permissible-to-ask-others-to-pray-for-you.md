@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-08-06
 hijri: '1448-02-23'
 title: Is It Permissible to Ask Others to Pray for You?
@@ -21,8 +21,6 @@ muftis:
   - name: Shaykh Salih al-Fawzan
     url: /biography/fawzan/
 ---
-
-
 ### Question: 
 
 May Allah be good to you, Your Eminence Shaykh, this questioner asks: Is it permissible to ask others to make supplication (dua) for one?

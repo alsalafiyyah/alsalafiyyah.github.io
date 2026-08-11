@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-07-27
 title: Refuting Sufi Claims on Grave Karamat
 category:
@@ -26,8 +26,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1448-02-13'
 ---
-
-
 ### Question: 
 
 Some Sufis claim that the occupants of graves possess miracles (karamat), citing as evidence the statement of the Almighty in Surah Al-Kahf: **“And as for the wall, it belonged to two orphan boys”** [Al-Kahf: 82]. They also say: "Had their father not been a righteous man, the treasure would not have emerged," counting this as one of his miracles after his death. 

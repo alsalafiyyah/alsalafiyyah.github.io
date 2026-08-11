@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The Islamic Perspective on Post-Death Gatherings and the Etiquette of Condolences
 date: 2026-08-10
 category:
@@ -19,8 +19,6 @@ muftis:
     url: /biography/fawzan
 hijri: '1448-02-27'
 ---
-
-
 ### Question: 
 
 Here in our town in Sudan, when someone dies, a mourning gathering and mattress/bedding setup are held for them for more than three days. Is this mattress/bedding setup for the deceased permissible, and how should condolences be offered for their loss, knowing that they set up these mattresses inside the deceased's home? Also, is it permissible for neighbors to bring their own food and drink to the family of the deceased to share in their grief?

@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Can a person be excused for their ignorance regarding the fundamentals of Tawhid
 hijri: '1442-04-01'
 source: Fatawa Al-Shaykh Ibn Baz p. 9/79
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 
 Can a person be excused for their ignorance regarding the fundamentals of Tawhid (belief in the Oneness of Allah) which represent the core of Din (religion)? What is the ruling on judging specific people as being Kafirs (disbelievers) for indulging in practices of Shirk (associating others with Allah in His Divinity or worship) out of their ignorance?

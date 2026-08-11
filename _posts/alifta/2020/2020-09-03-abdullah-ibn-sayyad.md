@@ -17,14 +17,12 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 17521, Question 2
 summary: Abdullah ibn Sayyad appeared in the lifetime of the Prophet, and some Sahabah
   thought he was Al-Dajjal.
 title: Abdullah ibn Sayyad
 ---
-
-
 ### Question: 
 
 Who is Ibn Sa'id? Is he Al-Masih-ul-Dajjal (the Antichrist)? Why did the Prophet (peace be upon him) not mention whether it was him or not? 

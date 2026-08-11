@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-08-06
 hijri: '1448-02-23'
 title: The Ruling on Celebrating Valentine's Day in Islam
@@ -22,8 +22,6 @@ muftis:
   - name: Shaykh Salih al-Fawzan
     url: /biography/fawzan/
 ---
-
-
 ### Question: 
 
 Your Eminence, may Allah grant you success, this questioner asks: What is the ruling regarding what has become common among some people—celebrating the so-called "Valentine's Day," which people celebrate these days?

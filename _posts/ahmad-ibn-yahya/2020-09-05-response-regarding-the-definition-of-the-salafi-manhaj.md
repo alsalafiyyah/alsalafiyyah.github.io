@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: A Response Regarding the Definition of the Salafi Methodology
 date: 2020-09-05
 lang: en
@@ -19,8 +19,6 @@ muftis:
     url: /biography/ahmad-alnajmi
 hijri: '1442-01-17'
 ---
-
-
 ### Question: 
 
 What is al-Salafiyyah (Salafism), and who is their leader?

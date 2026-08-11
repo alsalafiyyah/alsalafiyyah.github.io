@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The importance of Fiqh
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa 10/5
 hijri: '1442-01-06'
 date: 2020-08-25
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 In the Name of Allah, the Most Merciful, the Most Compassionate
 
 All praise is due to Allah. May Allah's Peace and Blessings be upon Prophet Muhammad, the Truthful and Trustworthy, and upon his family, Companions, and those guided by his guidance and following his path until the Day of Judgment.

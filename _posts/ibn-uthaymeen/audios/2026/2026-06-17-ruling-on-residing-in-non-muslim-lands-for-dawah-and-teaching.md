@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-06-17
 title: Ruling on Residing in Non-Muslim Lands for Da'wah and Teaching
 category:
@@ -19,8 +19,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1448-01-02'
 ---
-
-
 ### Question:
 
 In the name of Allah, the Most Gracious, the Most Merciful. Virtuous Shaykh, the Messenger of Allah ﷺ said: **"I am free (disassociated) from any Muslim who resides among the polytheists."** Today, we find hundreds of thousands of Muslims residing among the polytheists, and some benefactors have gone and built Islamic institutes there—firstly, to educate the children of Muslims, and secondly, to call people to Allah (Da'wah). If a teacher is requested to go and reside there to teach or to call people to Allah, is it permissible for him to accept, given that he will be residing among the polytheists?

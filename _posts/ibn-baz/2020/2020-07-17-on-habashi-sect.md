@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ruling on Habashi Sect
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa Shaykh ibn Baz 9/315
 category:
 - sects
@@ -17,8 +17,6 @@ muftis:
   - name: Shaykh Ibn Baz
     url: /biography/binbaz/
 ---
-
-
 From 'Abdul 'Aziz Bin 'Abdullah Ibn Baz to our dear respected brother, T.M. May Allah protect you. As-salamu 'alaykum warahmatullah wabarakatuh (May Allah's Peace, Mercy, and Blessings be upon you!). I would like to refer to your question registered at the Department of Scholarly Research under the number (313), dated 25/1/1406 AH. In which you ask about the sect belonging to their head, Abdullah Al-Habashy.
 
 I would like to tell you that this sect is known to us. It is a misguided sect and their leader Abdullah Al-Habashy is notorious for his deviation and aberration. Thus, it is obligatory to boycott them and condemn their 'Aqidah (creed) and warn people against them. You should not listen to them or accept their claims. There is no doubt that the one who denies that Allah (Exalted be He) is in heaven is a Jahmite (i.e. a follower of the heretic sectarian Jahm ibn Safwan), misguided, disbeliever, and belying Allah's (Exalted be He) saying: "Do you feel secure that He, Who is over the heaven (Allâh)" [al-Mulk: 16] and belying other Ayahs and authentic Hadiths related to the Messenger of Allah (peace be upon him) to the same effect. 

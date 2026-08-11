@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The Legal Ruling on Openly Declaring Oneself a Salafi
 date: 2020-09-05
 lang: en
@@ -17,8 +17,6 @@ muftis:
     url: /biography/ahmad-alnajmi
 hijri: '1442-01-17'
 ---
-
-
 ### Question: 
 
 Some youth feel a sense of embarrassment or hesitation in saying, "I am a Salafi." What is your guidance regarding such a person?

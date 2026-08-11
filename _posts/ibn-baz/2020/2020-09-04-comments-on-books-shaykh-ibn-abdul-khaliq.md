@@ -8,7 +8,7 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa 8/240
 summary: Such a saying from you is false for scholars of Saudi Arabia know about all
   contemporary problems and they wrote many books on them. All praise be to Allah
@@ -16,8 +16,6 @@ summary: Such a saying from you is false for scholars of Saudi Arabia know about
   writings on them.
 title: Comments on some books of Shaykh Abdul-Rahman ibn Abdul-Khaliq
 ---
-
-
 From [Abdul-Aziz ibn Abdullah ibn Baz](/biographies/binbaz/) to the honorable son **Shaykh Abdul-Rahman ibn Abdul-Khaliq**, may Allah guide him to do what pleases Him and make His religion victorious through him. Amen!
 
 As-salamu 'alaykum warahmatullah wabarakatuh (May Allah's Peace, Mercy, and Blessings be upon you!)

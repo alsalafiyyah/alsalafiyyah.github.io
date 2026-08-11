@@ -4,7 +4,7 @@ hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 3552 Question 8
 summary: A believer should abandon such sins, and follow the Book of Allah and the
   Sunnah of His Messenger (peace be upon him). This is an established fact. They should
@@ -15,8 +15,6 @@ tags:
 title: No obedience in matters involving disobedience to Allah
 translation: false
 ---
-
-
 ### Question: 
 
 Is it permissible for a true believer to commit some minor sins to please a ruler or some people, or does he have to strictly follow the Book of Allah and the Sunnah?

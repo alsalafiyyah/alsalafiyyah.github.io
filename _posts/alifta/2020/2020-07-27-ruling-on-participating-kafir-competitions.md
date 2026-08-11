@@ -15,7 +15,7 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 17474
 summary: The Gospel that exists today is not the same that Allah, Glorified and Exalted
   be He, sent down. It contains a great deal of Tahrif (distortion of the meaning),
@@ -23,8 +23,6 @@ summary: The Gospel that exists today is not the same that Allah, Glorified and 
 title: Ruling on participating in the missionary organizations competitions
 uid: ruling-on-participating-kafir-competitions
 ---
-
-
 ### Question: 
 
 Some Muslim youth began corresponding with Christian missionary clubs and agencies which in return send them lessons about the Injil (Gospel), video tapes of missionary lectures, and immoral magazines which have spread all over our Islamic countries including Algeria. I have enclosed for you a typical copy of the correspondences they sent to us.

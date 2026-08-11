@@ -5,13 +5,11 @@ hijri: '1441-12-06'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah no. 10684
 summary: What is the separating line between Kufr (disbelief) and Islam?
 title: Annulling Shahadah
 ---
-
-
 Question: 
  
 What is the separating line between Kufr (disbelief) and Islam? What about a person who utters the Two Testimonies of Faith, and then commits actions that contradict them, is he a Muslim, despite his Salah (prayer) and way of life?

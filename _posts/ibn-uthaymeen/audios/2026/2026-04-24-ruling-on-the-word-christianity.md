@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-04-24
 hijri: '1447-11-07'
 title: The Ruling on the Word 'Masihiyyah' (Christianity)
@@ -21,8 +21,6 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 ### Question: 
 
 The word 'Christianity' (Masihiyyah) is frequently used by some Muslims to the point that they do not distinguish between the terms 'Nasrani' (Nazarene) and 'Masihi' (Christian). Even in the media today, they refer to the 'Nasara' (Nazarenes) as 'Christians' (Masihiyyin); instead of saying 'This is a Nasrani,' they say 'This is a Masihi.' We request a clarification regarding this word 'Christianity' (Masihiyyah), and is it correct to apply this term to the path followed by the 'Nasara' today?

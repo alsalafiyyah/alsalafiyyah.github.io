@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on buying from the Jews who are in a state of war against the Muslims
 hijri: '1446-02-14'
 date: 2024-08-18
@@ -28,8 +28,6 @@ article_taken_from:
   - web_title: هل يجوز الشراء و العمل مع اليهود ؟
     web_url: https://alathar.net/home/esound/index.php?op=codevi&coid=5496
 ---
- 
-
 ### Questioner: 
 Since there is war between us and the Jews is it permissible to buy from the Jews and to have economic dealings with them in the European countries?
 

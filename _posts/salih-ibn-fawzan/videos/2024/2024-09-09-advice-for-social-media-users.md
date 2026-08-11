@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Advice for Social Media Users
 hijri: '1446-03-06'
 date: 2024-09-09
@@ -24,8 +24,6 @@ muftis:
   - name: Shaykh Salih Al-Fawzan
     url: /biography/fawzan/
 ---
-
-
 ### Question: 
 May Allah protect you, honorable Shaykh. The questioner here asks you to provide advice to social media users.
 

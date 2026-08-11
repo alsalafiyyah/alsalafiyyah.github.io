@@ -4,7 +4,7 @@ hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdul-Razzaq al-Afify
@@ -12,8 +12,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 9341-1
 title: Repaying the debt of a deceased debtor to a deceased creditor
 ---
-
-
 Question: 
 
 I am a fourteen-year-old young man and my father died ten years ago. He borrowed 40 Arabian Riyals from an old woman who is now dead. He died before he could repay this debt. There is a man in our village who always dreams of my father saying to him that if his family truly wishes Allah (Exalted be He) to forgive him, they have to repay his debt. How could this debt be repaid when both the creditor and the debtor are dead? How can I calculate the value of the forty Arabian Riyals in Saudi riyals?

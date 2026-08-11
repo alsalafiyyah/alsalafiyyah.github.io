@@ -10,15 +10,13 @@ muftis:
   deputy_chairman:
   - name: Shaykh Abdul-Razzaq Al-Afifi
     url: /biography/afifi/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah no. 6542-8
 summary: The preponderant view is that Allah will test them with some commands on
   the Day of Resurrection; whoever is obedient on that day will enter Jannah (Paradise)
   and whoever disobeys will enter Hell.
 title: The fate of the children of the disbelievers
 ---
-
-
 Question:
 
 What is the fate of the non-Muslim children on the Day of Resurrection? 

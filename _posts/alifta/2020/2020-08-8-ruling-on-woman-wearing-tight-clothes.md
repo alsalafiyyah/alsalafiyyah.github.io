@@ -5,13 +5,12 @@ hijri: Dhul-Hijjah 14, 1441
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah no. 1843, Question 6
 summary: It is not permissible for a woman to appear before non-Mahrams or go out
   into the streets and markets wearing tight clothes that define her body.
 title: Ruling on a woman wearing tight clothes
 ---
-
 ### Question: 
 Is it permissible for a woman to wear tight clothes or white dress?
 

@@ -9,14 +9,12 @@ muftis:
   - name: Shaykh Ibn Baz
     url: /biography/binbaz/
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Islamiyah 8/232
 summary: If the doctors that specialize in that field decided that she would not be
   harmed by the removal of her kidney, there is nothing wrong with that.
 title: Ruling on Kidney Transplants
 ---
-
-
 ### Question: 
 A friend of mine donated her kidney to her brother, who was suffering from kidney failure. She was told, however, that what she was doing was unlawful, unlawful because the body we have been given is a trust, and we will be asked about that trust on the Day of Judgement.
 

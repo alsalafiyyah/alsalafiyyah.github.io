@@ -4,7 +4,7 @@ hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdul-Razzaq al-Afify
@@ -13,8 +13,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 9096-1
 title: Starting by distributing the inheritance or repaying the debt
 ---
-
-
 Question: 
 
 A man died and left behind a lot of money for his children. The deceased is also indebted to someone. Could you please provide us with an Ayah (Qur'anic Verse) or a Hadith indicating that the inheritors can distribute the inheritance and then settle his debt?

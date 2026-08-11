@@ -9,14 +9,12 @@ hijri: '1446-01-17'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.6779‏, Question 3
 summary: Nothing is authentically reported from the Prophet ﷺ in this regard. So avoiding
   this practice would be better. And Allah knows best.
 title: Ruling on writing Quranic verses and putting it in water and drink it
 ---
-
-
 ### Question: 
 What is the ruling on writing some Ayahs (Qur'anic verses) on a sheet of paper, putting it in water, and then drinking the water? I have seen some people doing so.
 

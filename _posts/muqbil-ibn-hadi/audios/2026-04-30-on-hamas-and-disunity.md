@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-04-30
 hijri: '1447-11-13'
 title: On Hamas & Disunity
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Muqbil ibn Hadi al-Wadi'i
     url: /biography/muqbil/
 ---
-
-
 ### Question: 
 
 What is your opinion on Islamic Jihad and the Islamic Resistance Movement (Hamas) in the occupied Arab territories in Palestine?

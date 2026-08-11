@@ -15,7 +15,7 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah no. 1353-2
 summary: Jannah cannot be the corresponding reward for one's good deeds. In other
   words, deeds, however great they may be, are not enough a price for entering Jannah.
@@ -23,8 +23,6 @@ summary: Jannah cannot be the corresponding reward for one's good deeds. In othe
   in order to qualify for entering Jannah.
 title: Entering Jannah is by the bounty of Allah, not by good deeds
 ---
-
-
 Question:
 
 It has been narrated in a Hadith that no one will enter Jannah (Paradise) by the virtue of their deeds; rather due to the bounty of Allah (Exalted be He). I appreciate if you discuss the different views regarding this matter. 

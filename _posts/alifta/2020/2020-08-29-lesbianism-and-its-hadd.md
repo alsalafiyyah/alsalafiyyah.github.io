@@ -17,7 +17,7 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA no. 17867-4
 summary: Lesbianism stands for homosexuality between females. It is forbidden and
   those who commit it have to be punished with Ta'zir (discretionary punishment) and
@@ -25,8 +25,6 @@ summary: Lesbianism stands for homosexuality between females. It is forbidden an
 title: Lesbianism and its Hadd
 uid: lesbianism-and-its-hadd
 ---
-
-
 Question: 
 
 What is the meaning of lesbianism? Is there any punishment for it?

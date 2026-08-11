@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-08-08
 hijri: '1448-02-25'
 title: The Prohibition of Jahiliyyah Mourning Rituals
@@ -23,8 +23,6 @@ muftis:
   - name: Shaykh Salih al-Fawzan
     url: /biography/fawzan/
 ---
-
-
 ### Question: 
 
 This questioner asks about the hadith: ***"He is not of us who strikes his cheeks, tears his garments, and calls out with the call of the Jahiliyyah (pre-Islamic period of ignorance)."***

@@ -15,14 +15,12 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 6876, Question 2
 summary: A Muslim is not allowed to enter the places of worship of disbelievers as
   this leads to increasing their number.
 title: Ruling on Muslims entering non-Muslim places of worship
 ---
-
-
 ### Question: 
  
 Is it permissible for a Muslim to enter a church to know of their prayers or listen to a lecture?

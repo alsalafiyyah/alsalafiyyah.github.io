@@ -19,7 +19,7 @@ muftis:
     url: /biography/abdulaziz/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: 'Fatawa Al-Lajnah Al-Da''imah no. 16426 '
 summary: Parents of the Prophet (peace be upon him) did not belong to Ahl-ul-Fatrah
   because the Arabs followed the faith of Ibrahim (peace be upon him), particularly
@@ -28,8 +28,6 @@ summary: Parents of the Prophet (peace be upon him) did not belong to Ahl-ul-Fat
   but they were still practicing some rites of Ibrahim's faith, such as Hajj.
 title: The Prophet's parents
 ---
-
-
 Question:
 
 Is it correct that Ahl-ul-Fatrah (people having no access to Divine Messages) will be saved from Hell and that the parents of the Prophet (peace be upon him) were among them and will therefore be saved from Hell and enter Paradise? If this is not correct, how can we rebut this claim? What is the ruling of Islam on this claim? Please, advise.

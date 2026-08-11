@@ -4,7 +4,7 @@ hijri: '1441-11-27'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatwas of the Permanent Committee of KSA, Fatwa no. 21004
 summary: Buddha was not a prophet; he was an atheist philosopher, who led an ascetic
   life of non-conformity with Divine Religion. Anyone who believes in his prophethood
@@ -14,9 +14,6 @@ tags:
 title: Was Buddha a Prophet?
 translation: false
 ---
-
-
-
 ### Question:
 
 What is the ruling on those who say that Buddha was a prophet? What is the ruling on those who say that the Sahabi (Companion of the Prophet) 'Abdullah ibn 'Umar (may Allah be pleased with them both) knew nothing about politics or, as the Moroccans put it, "he lacked in politics," although this is showing disdain to a Sahabi? What is also the ruling on saying that anyone who says so is an atheist, i.e. To judge such a person to be an atheist?

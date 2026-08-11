@@ -9,15 +9,13 @@ muftis:
   - name: Shaykh Ibn Baz
     url: /biography/binbaz
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Islamiyah 6/280
 summary: If the above-mentioned meats were imported from the lands of the People of
   the Scripture, then it is permissible to eat them, as long as you do not know of
   anything which would be an evidence for its prohibition.
 title: Islamic ruling on frozen chickens
 ---
-
-
 ### Question: 
 What is the ruling on meats imported from abroad and also frozen chicken about whose slaughter we do not know anything, since some of the scholars do not encourage buying them?
 

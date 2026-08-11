@@ -4,7 +4,7 @@ hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdul-Aziz Aal al-Shaykh
@@ -14,8 +14,6 @@ source: Fatawa Al-Lajnah Ad-Da'imah no. 19042-3
 title: 'Fabricated Hadith: ''A time will come when most people have the faces of human
   beings and the hearts of wolves'''
 ---
-
-
 Question: 
 
 Is the following a Sahih (authentic) Hadith? What is its significance? 'Abdullah ibn 'Umar (may Allah be pleased with them both) narrated on the authority of his father that the Messenger of Allah (peace be upon him) said: 

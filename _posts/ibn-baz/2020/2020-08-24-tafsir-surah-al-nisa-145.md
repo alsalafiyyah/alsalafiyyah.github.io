@@ -8,7 +8,7 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat 5/49
 summary: The hypocrites are those who make a false pretense of Islam, whereas they
   are hiding otherwise. They claim to be Muslims, although deep down they disbelieve
@@ -16,8 +16,6 @@ summary: The hypocrites are those who make a false pretense of Islam, whereas th
 title: Tafsir Surah Al-Nisa Ayat 145
 uid: tafsir-surah-al-nisa-145
 ---
-
-
 Question: 
 
 Allah (Exalted be He) says in His Noble Book (what means): "**Verily, the hypocrites will be in the lowest depth (grade) of the Fire**" [al-Nisa: 145] What is meant by hypocrisy and hypocrites in this Ayah (Qur’anic verse)? Please clarify their meaning.

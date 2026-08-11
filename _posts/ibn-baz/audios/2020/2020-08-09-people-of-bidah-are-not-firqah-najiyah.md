@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: People of Bid'ah are not of Al-Firqah Al-Najiyah
 source: Fatawa Nur 'Ala al-Darb of Ibn Baz tape no. 307 question 4
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_724/nour_72406.mp3
@@ -23,8 +23,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 Is a Mubtadi' (one who introduces innovations in religion) excluded from the Al-Firqah Al-Najiyah (the Saved Sect) and the triumphant group?
 

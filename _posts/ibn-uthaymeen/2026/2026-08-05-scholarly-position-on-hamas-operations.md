@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Scholarly Position on Hamas Operations
 date: 2026-08-05
 source: Liqa' al-Bab al-Maftuh 54/10
@@ -18,8 +18,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1448-02-22'
 ---
-
-
 ### Question: 
 
 Regarding the Hamas organization currently present in the occupied land and the martyrdom operations and other actions they carry out against the Jews, is this action legitimate? Knowing that it might be a cause for the Jews to retaliate with something harsher than what the members of this organization did, and is their uprising against their new state legitimate?

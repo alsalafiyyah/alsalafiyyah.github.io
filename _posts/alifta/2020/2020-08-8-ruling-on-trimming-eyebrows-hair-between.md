@@ -16,13 +16,12 @@ muftis:
     url: /biography/fawzan
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no.19517, Question 2
 summary: It is not permissible to trim eyebrows, because this is removing hair from
   the face or eyebrows. The Prophet cursed whoever does it.
 title: Ruling on trimming eyebrows and the hair in between
 ---
-
 ### Question: 
 
 What is the religious ruling on trimming the hair of the eyebrows and the hair in between if it is thick? Is it permissible to remove the hair of the moustache and the face, and does this kind of hair take the same ruling as the hair of the eyebrows? What is the ruling on what religiously committed women should do to please their husbands and society?

@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Merits of hastening to marry
 hijri: '1442-04-18'
 source: Fatawa Shaykh Ibn Baz p. 20/421
@@ -17,8 +17,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 
 One thinks that the salary of a girl, her job, the financial and social status of a suitor or her education may lead at times to delaying marriage, what are your directions in this regard? May Allah reward you with the best!

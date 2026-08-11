@@ -4,7 +4,7 @@ group6: true
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 11461
 summary: As to the claim that in today's Muslim world Iran is the only state that
   abides by Allah's rules and that there is no true Muslim leader but Ayatollah Khomeini,
@@ -15,9 +15,6 @@ title: The Islamic Ruling on the Ideology of Khomeini and the Iranian State
 translation: false
 hijri: '1441-12-05'
 ---
-
-
-
 ### Question:
 
 A love for Ayatollah Khomeini and his Iranian Shiite revolution has spread among the Muslim youth in Nigeria. These young people believe that there is no country in the Islamic world that rules by what Allah has revealed except for the Iranian state, and that there is no Muslim head of state except for Ayatollah Khomeini. Now, their dawah (propagation) has begun to spread in Nigeria.

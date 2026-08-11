@@ -15,15 +15,13 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah no. 3675
 summary: If the matter is as you have mentioned, the extra amount which the company
   takes is a form of Riba (Usury). It is not permissible for it to take this amount
   because Riba is Haram according to the Qur'an, the Sunnah and consensus.
 title: A company issued a card for employees to use when buying a commodity
 ---
-
-
 Question:
 
 In the USA, there is a type of contract that is concluded between individuals as a first party, and the company that serves those individuals as the second party. The contract states the following:

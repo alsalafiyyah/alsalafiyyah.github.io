@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Obeying rulers and scholars in Ma'ruf to set things right
 hijri: '1442-02-20'
 source: Majmu' Fatawa Al-Shaykh Ibn Baz p. 7/119
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 > **Question 1: What is meant by obeying those in authority in the Ayah (Qur'anic verse)? Does the term refer to scholars or rulers, who may be unjust?**
 
 ### Answer 1: 

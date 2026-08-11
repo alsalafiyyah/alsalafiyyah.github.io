@@ -16,7 +16,7 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da’imah 26/227-228, Fatwa no. 6914, Question 14
 summary: If the supplications are tinged with bid'ah, this is even worse, for it combines
   amusement and heresy.
@@ -25,8 +25,6 @@ tags:
 title: The ruling on supplications accompanied by music
 translation: false
 ---
-
-
 ### Question: 
 
 What is the ruling on supplications accompanied by music?

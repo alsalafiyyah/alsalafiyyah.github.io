@@ -16,7 +16,7 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa No. 4459, Question 2
 summary: If anyone performs Hajj while committing major disbelief and then returns
   to Islam, their Hajj will not count as the obligatory Hajj of Islam.
@@ -25,8 +25,6 @@ tags:
 title: Hajj by a Mushrik
 translation: false
 ---
-
-
 ### Question: 
 
 A Mushrik (one who associates others with Allah) performed Hajj and a long time after their return from Hajj, Allah guided them to the sound ‘Aqidah (creed) and ‘Ibadah (worship). They repented to Allah and became a true monotheist. Will the Hajj they performed while they were a Mushrik suffice them or must they perform another Hajj after correcting their Tawhid (belief in the Oneness of Allah)?

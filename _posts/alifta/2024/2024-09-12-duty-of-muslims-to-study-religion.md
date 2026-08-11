@@ -5,14 +5,12 @@ hijri: '1446-03-09'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 6575‏, Question 2
 summary: The Muslim has to learn such fundamental knowledge even if this requires
   traveling to another land if there is no one to teach him.
 title: It is the duty of every Muslim to study his religion
 ---
-
-
 ### Question: 
 If a person wants to learn but finds no one to teach him, is he sinful if he does not learn?
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Ruling On Residing Among Polytheists
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-06-16
 active: audios
 category:
@@ -22,8 +22,6 @@ muftis:
     url: /biography/binbaz/
 hijri: '1448-01-01'
 ---
-
-
 ### Question:
 
 [What is meant by] the saying of the Prophet ﷺ: **"I am free (disassociated or disavow) from anyone [Muslim] who resides among the mushrikeen (polytheists)"**?

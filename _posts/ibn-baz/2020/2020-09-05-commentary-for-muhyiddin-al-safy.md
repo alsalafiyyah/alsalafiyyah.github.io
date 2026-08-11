@@ -8,7 +8,7 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat p. 2/98
 summary: The Salaf and those who have followed in their footsteps attributed to Allah
   the Attributes of Perfection, which He has attributed to Himself or which His Messenger
@@ -16,8 +16,6 @@ summary: The Salaf and those who have followed in their footsteps attributed to 
 title: A commentary and explanation of an article by Dr. Muhiy Al-Din Al-Safy entitled
   'In order to be the most powerful Ummah'
 ---
-
-
 Praise be to Allah and peace and blessings be upon the Messenger of Allah and upon his family and Companions!
 
 In its issue no. 3383 of 3/4/1408 A.H, Asharq Al-Awsat newspaper published an article by Dr. Muhyi Al-Din Al-Safy entitled "In Order to be the Most Powerful Ummah." 

@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Way to deal with the followers of Batiniyyah and Ahlul-bi'dah
 date: 2024-06-28
 hijri: '1445-12-22'
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 
 How can I deal with the Batiniyyin[^1] and ahlul-bid'ah [^2] who come to live in our country? It may be worth mentioning that these people may be students, teachers, physicians, patients, or colleagues.

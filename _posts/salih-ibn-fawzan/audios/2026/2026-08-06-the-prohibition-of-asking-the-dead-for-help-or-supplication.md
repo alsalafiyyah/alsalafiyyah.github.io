@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-08-06
 hijri: '1448-02-23'
 title: The Prohibition of Asking the Dead for Help or Supplication
@@ -22,8 +22,6 @@ muftis:
   - name: Shaykh Salih al-Fawzan
     url: /biography/fawzan/
 ---
-
-
 ### Question: 
 
 May Allah be good to you, Your Eminence Shaykh, this questioner asks: If a man stands at a grave and asks the deceased, saying, "O so-and-so, if you are among the people of Paradise, then supplicate to Allah for us," what is the ruling on this action?

@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Is it permissible for a father to force his daughter to marry a person whom
   she does not want to marry?
 hijri: '1442-04-18'
@@ -16,8 +16,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 
 Is it permissible for a father to force his daughter to marry a person whom she does not want to marry?

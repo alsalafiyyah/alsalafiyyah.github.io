@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction to Islam
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat vol.28
 hijri: '1441-12-03'
 date: 2020-07-24
@@ -17,8 +17,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 Praise be to Allah, the Lord of Creation and the good end is for Al-Muttaqin (the pious) and peace and blessings be upon His beloved Servant, Messenger, and His chosen one amongst His creatures, our Prophet, and leader Muhammad ibn 'Abdullah, and upon his family and Companions and those who follow his example and guidance until the Day of Judgment.
 
 Allah (Glorified and Exalted be He) sent His Prophet Muhammad (peace be upon him) with guidance and the way of truth i.e. Islam, with which Allah sent all the Messengers. Allah (Glorified and Exalted be He) says: "Truly, the religion with Allâh is Islâm." [Aal Imran: 19]

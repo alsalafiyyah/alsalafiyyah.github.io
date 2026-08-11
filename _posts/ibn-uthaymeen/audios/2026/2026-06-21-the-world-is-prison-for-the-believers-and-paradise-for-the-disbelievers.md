@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-06-21
 title: The world is a prison for the believer and a paradise for the disbeliever
 category:
@@ -20,8 +20,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1448-01-06'
 ---
-
-
 ### Question: 
 
 May Allah bless you. This listener, your brother in faith Ibrahim, asks about the meaning of the hadith narrated by Abu Hurayrah from the Messenger of Allah ﷺ: **"The world is a prison for the believer and a paradise for the disbeliever."** He asks: What is the meaning of this hadith?

@@ -5,14 +5,12 @@ hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah no. 14063
 summary: Many misguided Muslim youth who work in France have illegal relationships
   with women and make sexual intercourse with them outside the bond of marriage.
 title: Should illegitimate children be attributed to their known father?
 ---
-
-
 ### Question: 
 
 Many misguided Muslim youth who work in France have illegal relationships with women and make sexual intercourse with them outside the bond of marriage. Some have children and after that they return to Allah in repentance. What is the ruling on a Muslim who has five children from a woman without a legal marriage contract? Are they attributed to him as being their father? I should mention that the children are his, but not through marriage. The woman considers him her husband as their man-made law allows such prohibited relations as long as the woman consents.

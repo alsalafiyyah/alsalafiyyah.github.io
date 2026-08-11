@@ -16,7 +16,7 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da’imah 26/284, Fatwa no.18952, Question 4
 summary: The bells that are used in houses, schools and so on are permissible, so
   long as they do not include anything haram, such as resembling the church bells
@@ -26,8 +26,6 @@ tags:
 title: What is the kind of bell that is forbidden?
 translation: false
 ---
-
-
 ### Question: 
 
 What is the kind of bell that is forbidden? Please note that there are electric bells that make sounds like birds, or bells on alarm clocks where one piece of metal strikes another, and other kinds. 

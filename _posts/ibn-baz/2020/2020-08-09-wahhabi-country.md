@@ -9,15 +9,13 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa 8/34
 summary: The ignorant people and the enemies of Allah accused the prophets and the
   Salaf (righteous predecessors) of more than this.
 title: Some people accuse Your Eminence of being a religious bigot and the country
   of being Wahabi
 ---
-
-
 ### Question: 
 Some people from outside the country accuse Your Eminence of being a religious bigot and the country of being Wahabi, how can you refute their claims?
 

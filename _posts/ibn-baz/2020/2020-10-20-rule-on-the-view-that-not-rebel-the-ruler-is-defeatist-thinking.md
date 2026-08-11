@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Ruling on the view that not rebel against the ruler as a defeatist thinking
   which manifests weakness
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat p. 8/206, question 2
 category:
 - rulership
@@ -21,8 +21,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 Your Eminence, we know that this forms one of the foundational beliefs of Ahl-ul-Sunnah wal-Jama‘ah (those adhering to the Sunnah and the Muslim main body), but unfortunately, some adherents to Ahl-ul-Sunnah wal-Jama‘ah see this as defeatist thinking, which manifests weakness. This opinion has been expressed, for this reason they call the youth to adopt violence to change conditions. 

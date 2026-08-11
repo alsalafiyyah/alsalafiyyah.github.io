@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ruling on Qarmatians and Batiniyyah
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 18952, Question 6
 category:
 - sects
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 What is your opinion regarding the Qarmatians and Al-Batiniyyah? Are they considered Islamic sects or Kafir (disbelieving) ones? Please provide us with some information on them along with some other sects.

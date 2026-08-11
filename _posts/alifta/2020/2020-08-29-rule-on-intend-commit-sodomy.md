@@ -13,14 +13,12 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah no. 10572-3
 summary: Thank Allah for protecting you against the crime of sodomy. Seek Allah's
   forgiveness and do many good deeds.
 title: Ruling on intending to commit sodomy
 ---
-
-
 Question: 
 
 I intended many times to practice sodomy, but I did not. Allah, all praise and thank are due to Him, has protected me against this heinous crime. After repenting, I hope you can guide me as to what I should do.

@@ -14,7 +14,7 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 9886, Question 2
 summary: When the person dies and people bury him in the grave, two angels come to
   ask him about his Lord, his prophet, and his religion. The angels will speak to
@@ -24,8 +24,6 @@ tags:
 title: It was not authentically reported that a dead person can see the Prophet in
   his grave
 ---
-
-
 ### Question:
 
 After death and burial, does a person see the Prophet (peace be upon him) in the grave? Shall he be asked, 'what do you say about this man (the Prophet)' even if many people may die simultaneously; how are they all asked at the same time? What is the language used in questioning; the mother tongue, Arabic, or Syriac?  

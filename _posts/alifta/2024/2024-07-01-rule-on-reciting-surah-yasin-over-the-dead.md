@@ -17,7 +17,7 @@ muftis:
     url: /biography/fawzan
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 20794, Question 1
 summary: A Hadith has been reported concerning the recitation of Surah Ya-Sin upon
   the dying person, but it is a da'if (weak) Hadith that does not stand as proof.
@@ -26,8 +26,6 @@ tags:
 title: Ruling on reciting Surah Ya-Sin over the dead
 translation: false
 ---
-
-
 ### Question: 
 
 What is the ruling on reciting the Surah of Ya-Sin over the dead, with the intention of dedicating the reward to them? Is that permissible? If it is, what is the evidence?

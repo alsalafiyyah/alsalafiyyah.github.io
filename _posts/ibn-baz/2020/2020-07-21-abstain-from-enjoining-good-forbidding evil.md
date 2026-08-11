@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ruling on those who abstain from enjoining good and forbidding evil
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat by Shaykh Ibn Baz 6/504
 category:
 - amar-maruf
@@ -15,8 +15,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 What is the ruling on those who abstain from enjoining good and forbidding evil while having the ability to do so?
 

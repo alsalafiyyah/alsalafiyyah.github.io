@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Responding to the Wahhabi Accusation
 date: 2020-08-06
 source: Fatawa Nur 'Ala al-Darb vol 3, tape no. 124, question 16
@@ -20,8 +20,6 @@ muftis:
     url: /biography/binbaz/
 hijri: '1441-12-16'
 ---
-
-
 ### Question: 
 
 Our brother also asks Your Eminence, the Sheikh, saying: 'There is a group of people who, when we call them to Allah and to abandon Shirk (associating partners) with Him, accuse us of Wahhbism. How should we confront them, if you please?'

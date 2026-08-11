@@ -13,14 +13,12 @@ muftis:
   members:
   - name: Shaykh Abdullah Ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 9607
 summary: It is not permissible for a Muslim to employ a Kafir or non-Muslim as a servant,
   driver, or anything else in the Arabian Peninsula.
 title: Ruling on hiring a non-Muslim
 ---
-
-
 ### Question: 
  
 Is it permissible for a Muslim to employ a non-Muslim as a servant or driver? What if this employer has no religion?

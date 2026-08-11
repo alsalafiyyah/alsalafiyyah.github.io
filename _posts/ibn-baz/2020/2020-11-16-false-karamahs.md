@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: False Karamahs
 hijri: '1442-04-01'
 source: Fatawa Al-Shaykh Ibn Baz 6/513
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 
 It is said that there are chosen men who can perform extraordinary events such as coming to perform Hajj without using any means of transportation or attending a Funeral Prayer in Makkah while living far away from there. Is the wind made subservient to lead them wherever they want? Please, advise. 

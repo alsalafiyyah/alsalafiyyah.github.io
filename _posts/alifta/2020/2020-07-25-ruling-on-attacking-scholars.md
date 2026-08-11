@@ -17,15 +17,13 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah no. 16873
 summary: Abusing scholars unjustly and ascribing them to innovations and Fisq (flagrant
   violation of Islamic law) or belittling their status and degrading their opinions
   are of the most grievous kinds of injustice
 title: Ruling on attacking scholars
 ---
-
-
 ### Question: 
 
 Some people claim that they are following the way of Salaf (righteous predecessors), but they are constantly attacking scholars and accuse them of introducing innovations in the religion. It is as if their tongues are created to utter such accusations despite their claim that they follow the Salaf. Now, I would like to ask Your Eminence, may Allah keep you safe: What is the true concept of Salafiyyah, and its attitude towards the modern Islamic sects? May Allah reward you the best reward for benefiting Muslims. Indeed, He is the All-Hearer of supplication.

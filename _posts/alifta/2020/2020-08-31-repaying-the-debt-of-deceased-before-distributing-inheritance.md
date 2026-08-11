@@ -4,7 +4,7 @@ hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdul-Razzaq al-Afify
@@ -12,8 +12,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 11999
 title: Repaying the deceased's debt before distributing the inheritance
 ---
-
-
 Question:
 
 To Your Eminence we submit the fatwa request regarding the fact that the heirs of the deceased Ibrahim Sa'd Al-Musaylikh are underage. Moreover, we obtained a primary sum of money as retirement rights before obtaining the monthly retirement pension. Is it permissible for us to pay such a sum of money in settling the deceased's debts or to underage heirs, bearing in mind that such heirs live in their father's house since 1404 A.H. We hope that you examine our case and issue a fatwa and advice in this regard. May Allah safeguard you!

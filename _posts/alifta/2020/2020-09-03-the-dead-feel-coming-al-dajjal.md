@@ -15,14 +15,12 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 8097, Question 9
 summary: Al-Masih-ul-Dajjal will appear to those living only. Dead people will not
   be resurrected except on the Day of Judgment.
 title: Will the dead feel the coming of Al-Dajjal?
 ---
-
-
 ### Question: 
 
 Will Al-Masih-ul-Dajjal (the Antichrist) be sent to everyone, alive or dead, or just to those who will be living at the time of his emergence? Will dead people be resurrected during his time? 

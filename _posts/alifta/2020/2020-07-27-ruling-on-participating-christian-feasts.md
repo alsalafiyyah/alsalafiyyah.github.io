@@ -19,15 +19,13 @@ muftis:
     url: /biography/abdulaziz/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA no. -3
 summary: It is not permissible to participate in the feasts of the Christians or any
   of the disbelievers since this falls under cooperation in sin and transgression,
   approval to Munkar, and declaring loyalty to the Kuffar.
 title: Ruling on participating in Christian feasts
 ---
-
-
 ### Question: 
 
 What is the ruling on participating in the feasts of the Christians? Please advise us. May Allah reward you.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Enjoining Good and Forbidding Evil Only for Official Authorities?
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-07-29
 active: audios
 category:
@@ -22,8 +22,6 @@ muftis:
     url: /biography/binbaz/
 hijri: '1448-02-15'
 ---
-
-
 ### Question: 
 
 He also has another question, saying: What is the ruling regarding the command to do good and the prohibition of evil with respect to private individuals and the general public? That is, are the rest of the Muslims excused if they do not command good and forbid evil on the grounds that they are not paid for it?

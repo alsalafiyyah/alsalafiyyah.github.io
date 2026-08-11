@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Who Are The Ikhwanul Muslimin
 hijri: '1445-01-07'
 source: Al-Fatawa Al-Jaliyyah ‘anil-Manahij Al-Da’wiyyah pg. 51-55
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Ahmad Ibn Yahya An-Najmi
     url: /biography/ahmad-alnajmi
 ---
- 
-
 They are the followers of Hasan Al-Banna. There are several points to be noted about their methodology, the most important of which are the following:
 
 1. They show a lack of importance to Tawhid Al-‘Ibadah [^1], which is the most important matter in Islam, since the Islaam of an individual is not valid without it.

@@ -9,15 +9,13 @@ hijri: '1446-01-17'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.1727, Question 5
 summary: A person who believes that Ali, or any other dead person, can bring benefit
   or ward off harm is a Mushrik, because this is particular to Allah, the Exalted,
   alone.
 title: Can Ali ibn Abu Talib aid anyone after his death?
 ---
-
-
 ### Question: 
 Can Ali (may Allah be pleased with him) aid anyone in times of distress?
 

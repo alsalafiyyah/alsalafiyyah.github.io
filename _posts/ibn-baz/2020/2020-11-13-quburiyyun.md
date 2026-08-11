@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on Quburiyyun (grave worshippers)
 hijri: '1442-03-27'
 lang: en
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 > Question: It is said that the early Mushriks (those who associate others with Allah in His Divinity or worship) admitted that they worshipped their gods only to bring them near to Allah. They were in fact idol worshippers, so how can you declare those you call Quburiyyun i.e. grave worshippers, to be Mushriks although they do not worship idols or claim that the dead should be worshipped, but they only seek blessings through them? [^1]
 
 ### Answer: 

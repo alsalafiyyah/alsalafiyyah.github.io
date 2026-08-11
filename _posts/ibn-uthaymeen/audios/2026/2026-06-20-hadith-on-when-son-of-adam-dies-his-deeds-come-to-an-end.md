@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-06-20
 title: 'Explanation of the Hadith: ''When a Son of Adam Dies, His Deeds Come to an
   End'
@@ -21,8 +21,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1448-01-05'
 ---
-
-
 ### Question: 
 
 This is a letter from Jasim Ali Hashim Al-Asadi, who asks in his letter: What is the meaning of the Noble Hadith: **“When a son of Adam dies, his deeds come to an end except for three: a ongoing charity, knowledge by which others benefit, or a righteous child who prays for him.”** Please enlighten us, and may Allah bless you.

@@ -13,14 +13,12 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 4624, Question 6
 summary: Scholars have differed concerning the year in which Hajj was made obligatory.
   It was said that it was in the fifth year after Hijrah.
 title: When was Hajj made obligatory?
 ---
-
-
 ### Question:
 In which year, following the Hijrah (Prophet’s migration to Madinah), was Hajj made obligatory? What is the most authentic report in this regard?
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: A Piece of advice about earthquakes
 hijri: '1442-03-09'
 date: 2020-10-26
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 All praise be to Allah. May Allah's Peace and Blessings be upon Allah's Messenger and upon his family, Companions, and those who follow his guidance!
 
 Allah (Glorified be He) is All-Wise and All-Knowledgeable with what He predestines and what He legislates and commands. He creates what He wills of portents. He predestines them to make His servants fear Him, reminds them of what they have to do and warn them against Shirk (associating others with Allah in His Divinity or worship), disobeying His commands and violating His prohibitions. Allah (Glorified be He) says: "**And We sent not the signs except to warn**" [Al-Isra: 59]

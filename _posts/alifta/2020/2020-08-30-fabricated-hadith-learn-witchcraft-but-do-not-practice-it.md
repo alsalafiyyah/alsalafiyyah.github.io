@@ -4,7 +4,7 @@ hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdul-Razzaq al-Afify
@@ -12,8 +12,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 12262-5
 title: 'Fabricated Hadith: ''Learn witchcraft but do not practice it'''
 ---
-
-
 Question: 
 
 What is the degree of authenticity of the following Hadith: "**Learn witchcraft but do not practice it**"

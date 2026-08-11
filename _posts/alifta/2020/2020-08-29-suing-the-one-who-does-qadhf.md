@@ -13,7 +13,7 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah no. 13871
 summary: Accusing a Muslim by another Muslim brother is not permissible and it is
   one of the major sins which necessitate repentance and forgiveness from the insulted
@@ -21,8 +21,6 @@ summary: Accusing a Muslim by another Muslim brother is not permissible and it i
   means.
 title: Suing the one who does Qadhf
 ---
-
-
 Question: 
 
 If a Muslim does Qadhf (falsely accusing a chaste person of involvement in prohibited sexual relations) against his Muslim brother saying: "You are an adulterer" without any shyness, is there a right for the insulted person to sue him? I hope Your Eminence could answer me quickly. May Allah reward you.

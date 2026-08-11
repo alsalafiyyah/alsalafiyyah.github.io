@@ -8,7 +8,7 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat 5/355, question no. 18
 summary: Scholars like Ibn 'Abbas and others explained that this Ayah means that whenever
   asked who created the heavens and the earth, the unbelievers would say 'It is Allah'.
@@ -16,8 +16,6 @@ summary: Scholars like Ibn 'Abbas and others explained that this Ayah means that
 title: Tafsir Surah Yusuf Ayat 106
 uid: tafsir-surah-yusuf-106
 ---
-
-
 Question: 
 
 Allah (Exalted be He) says: "**And most of them believe not in Allâh except that they attribute partners unto Him [i.e. they are Mushrikûn i.e. polytheists. See Verse 6: 121].**" [Yusuf: 106] What is the meaning of this Ayah? What is meant by "attributing partners unto Him"?

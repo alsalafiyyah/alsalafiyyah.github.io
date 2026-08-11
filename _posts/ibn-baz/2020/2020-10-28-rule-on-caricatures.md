@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The ruling on caricatures
 hijri: '1442-03-11'
 source: It was published in the book entitled Fatawa Islamiyyah, compiled by Shaykh
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 What is the ruling on caricatures in newspapers and magazines that include drawings of persons?

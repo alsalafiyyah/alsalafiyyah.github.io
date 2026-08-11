@@ -5,14 +5,12 @@ hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 5276, Question16
 summary: It is permissible if it is done gently and with the intention of giving advice
   so that such a person might be prevented from making a mistake.
 title: Someone who mentions another's faults in his face
 ---
-
-
 ### Question:
 
 Is it permissible for someone to frankly tell someone else about his defects?

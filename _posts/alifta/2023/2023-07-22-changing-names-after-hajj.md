@@ -16,7 +16,7 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da’imah, Fatwa no. 3323, Question 9
 summary: What is the ruling on a person changing their name like most of the Indonesian
   pilgrims do? Indonesians are used to changing their names when they go to Makkah
@@ -26,8 +26,6 @@ tags:
 title: Ruling on Changing Names after Hajj
 translation: false
 ---
-
-
 ### Question:
 
 What is the ruling on a person changing their name like most of the Indonesian pilgrims do? Indonesians are used to changing their names when they go to Makkah Al-Mukarramah or Al-Madinah Al-Munawwarah. Is this an act of Sunnah or not?

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Inward Reality of the Khomeinism
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 mp3: https://alsalafiyyah.github.io/assets/audios/about-shia-khomeneism.mp3
 hijri: '1447-10-27'
 date: 2026-04-15
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### ​Questioner: 
 
 Are the Khomeinists, Your Eminence Shaykh, from among the Rafida (the Shia)?

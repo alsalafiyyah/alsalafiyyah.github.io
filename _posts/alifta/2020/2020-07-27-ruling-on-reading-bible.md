@@ -17,15 +17,13 @@ muftis:
     url: /biography/abdulaziz/
   - name: Shaykh Salih Fawzan
     url: /biography/fawzan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 15662, Question 2
 summary: It is not permissible for a Muslim to read the Bible as it has almost entirely
   undergone interpolation. Even the parts of the Bible that have undergone no interpolation
   are needless as the Qur'an replaces them.
 title: Ruling on reading the Bible and swearing by it
 ---
-
-
 ### Question: 
 
 What is the ruling on a Muslim who reads the Bible or swears by it?

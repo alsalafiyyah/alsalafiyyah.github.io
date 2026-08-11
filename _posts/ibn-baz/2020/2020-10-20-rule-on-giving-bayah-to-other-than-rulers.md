@@ -1,7 +1,7 @@
 ---
 layout: post
 title: It is not permissible to rebel against him if revolution leads to greater harm
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Shaykh Ibn Baz p. 28/250
 category:
 - rulership
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 
 Some latter-day sects give Bay'ah (pledge of allegiance) to leaders they choose from among themselves. They claim that it is obligatory to obey them and abide by their commands and not to break their Bay'ah (pledge of allegiance). Meanwhile they are subjects under rulers appointed according to Shari'ah (Islamic law) who has the Bay'ah of the majority of Muslims. Is this permissible, i.e. can one give Bay'ah to more than one leader? To what extent are these Bay'ahs correct? 

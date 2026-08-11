@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on painting, drawing, sculpture, photography
 hijri: '1442-03-11'
 source: One of the questions of Hajj for the year 1418 A.H
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 What is your view concerning the claim that taking photographs of humans is permissible, while drawing pictures is Haram (prohibited)? What is your advice for Muslim women who issue Fatwa (legal opinion issued by a qualified Muslim scholar) without knowledge?

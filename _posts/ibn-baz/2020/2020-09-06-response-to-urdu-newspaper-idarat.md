@@ -9,7 +9,7 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Shaykh Ibn Baz p. 1/222
 summary: It is not allowed to celebrate the birthday of the Messenger or other birthdays;
   rather, such celebrations should be prevented, because they are newly-invented practices
@@ -17,8 +17,6 @@ summary: It is not allowed to celebrate the birthday of the Messenger or other b
 title: Response to Urdu newspaper Idarat who launched a press campaign against the
   Kingdom of Saudi Arabia
 ---
-
-
 All praise be to Allah Who has perfected the religion for us, completed His Favor upon us and approved Islam as a religion for us. May peace and blessings be upon His slave and Messenger, who invited mankind to obey their Lord and warned against excessiveness, innovations in religion and disobedience. May peace be upon his family, his Companions, and those who have followed his path and guidance until the Day of Judgment. To proceed:
 
 I have reviewed the article published in the weekly Urdu newspaper "Idarat", released in the city of Canfor, an industrial city in the state of **Andhra Pradesh**, on the first page, **it launched a press campaign against the Kingdom of Saudi Arabia and its adherence to the Islamic creed and fighting against Bid'ahs (innovations in the religion) and accusing the belief of the Salaf (righteous predecessors), which the government follows, of not being a Sunni belief.** 

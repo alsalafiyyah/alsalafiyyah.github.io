@@ -4,7 +4,7 @@ hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 2123
 summary: It is not permissible for a Muslim to stand in honor of a national anthem
   or flag; this is a repudiated Bid'ah (innovation in religion) as it did not happen
@@ -15,8 +15,6 @@ tags:
 title: Ruling on standing up as a way of honoring the national anthem
 translation: false
 ---
-
-
 ### Question: 
 
 Is it permissible to stand in honor of a national anthem or flag?

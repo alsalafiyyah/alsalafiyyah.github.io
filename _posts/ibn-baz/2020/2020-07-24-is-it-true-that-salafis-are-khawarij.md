@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are the Kharijites Considered Salafis?
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat 28/254
 category:
 - manhaj
@@ -16,8 +16,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 
 What is your response to those who claim that the creed of the Kharijites (Khawarij) was a Salafi creed, and that they—the Kharijites—were Salafis?

@@ -14,7 +14,7 @@ muftis:
   members:
   - name: Shaykh Abdullah Ibn Muni'
     url: /biography/mani/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 1205
 summary: If the discharged fluid was Maniy, he must perform Ghusl. It also invalidates
   fasting. Although this fluid is originally pure, it is repulsive.
@@ -23,8 +23,6 @@ tags:
 title: Ritual Impurity of Maniy
 translation: false
 ---
-
-
 ### Question : 
 
 After kissing, foreplay, or touching one’s wife, he finds some wetness discharged in his underpants from his member following erection. Does this affect the Taharah (ritual purification) and the validity of Sawm (fasting)?

@@ -5,14 +5,12 @@ hijri: '1442-01-09'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 2255, Question 2
 summary: If she is as what you have mentioned, she is an apostate. By doing this,
   she is causing great harm to her daughters. She must be asked to repent.
 title: Ruling on deliberate abandoning or delaying of Salah after its prescribed time
 ---
-
-
 ### Question: 
 
 What is the ruling if a woman delays performing Salah (Prayer) after its due time and encourages her younger and older daughters to do that?

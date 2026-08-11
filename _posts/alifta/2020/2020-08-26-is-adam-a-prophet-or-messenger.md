@@ -5,14 +5,12 @@ hijri: '1442-01-07'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Daimah no. 7701, Question 2
 summary: The first messenger to be sent was Noah as was mentioned in the Hadith of
   the intercession reported in the Two authentic Books of Hadith.
 title: Is Adam a prophet or a messenger?
 ---
-
-
 ### Question:
 Is it from the articles of faith to believe that Adam was the first prophet as was pointed out by Allah's saying in the Qur'an: "**Then Adam received from his Lord Words. And his Lord pardoned him (accepted his repentance).**" [al-Baqarah: 37]? What are the clear proofs of the prophethood of Adam?
 

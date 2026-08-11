@@ -14,15 +14,13 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-lajnah Al-Da'imah no. 11296-2
 summary: Some scholars defined Taqlid as following a person's religious view without
   knowing the evidence upon which it is based. Some other scholars said that Taqlid
   means the acceptance of a person's religious view with no evidence.
 title: Meaning and types of Taqlid and the ruling on each type
 ---
-
-
 Question:
 
 What is the meaning and forms of Taqlid along with the legal ruling on each type? 

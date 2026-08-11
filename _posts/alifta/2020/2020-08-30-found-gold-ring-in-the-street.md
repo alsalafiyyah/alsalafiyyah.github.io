@@ -4,7 +4,7 @@ hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdul-Aziz Aal al-Shaykh
@@ -15,8 +15,6 @@ source: Fatawa Al-Lajnah Ad-Da'imah no. 18934-1
 title: Found a gold ring in the street and gave it to his mother who would ask people
   if anyone lost a ring
 ---
-
-
 Question: 
 
 Five years ago, I found a gold ring in the street and gave it to my mother. Whenever she went somewhere where women would gather, she would ask them if anyone lost a ring but no one answered. The ring is still with us until now. Please, illustrate for me if I can sell it and give its price in charity or what should I do? I hope you will give me the appropriate advice.

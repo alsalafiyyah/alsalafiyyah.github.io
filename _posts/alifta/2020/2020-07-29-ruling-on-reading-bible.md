@@ -15,14 +15,12 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah no. 8852-2
 summary: The Divine Books revealed before the Qur'an now include many distortions,
   alterations, and omissions, as Allah says in the Qur'an.
 title: Ruling on reading Bible
 ---
-
-
 ### Question: 
 What is the ruling on reading the Bible?
 

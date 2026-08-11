@@ -4,7 +4,7 @@ hijri: '1441-12-05'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 20234
 summary: Seeking the help of the dead for fulfilling needs of people is a major polytheistic
   act. Anyone who maintains other than that is committing major disbelief that drives
@@ -14,9 +14,6 @@ tags:
 title: Ruling on book of Deobandi Jama'at Tabligh entitled Tablighi Nisab
 translation: false
 ---
-
-
-
 ### Question: 
 
 I am a Muslim man living in Britain and want to follow the way of Ahl-ul-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream) in all the affairs of my life. Accordingly, I tried to read some religious books written in the Urdu language. During my reading some books compiled by the renowned and prominent Indian scholar, who is a member of the Deobandis, Shaykh Muhammad Zakariyya Kandahlawy, a scholar of Hadith studies, I found that the fifth chapter of his book Tablighi Nisab, p. 113, containing a story the author quoted from the book entitled "Rawnaq Al-Majalis". It relates an account of a merchant who died and his wealth was distributed between his two sons. 

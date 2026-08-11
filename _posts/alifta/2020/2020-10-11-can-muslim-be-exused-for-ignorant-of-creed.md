@@ -10,7 +10,7 @@ muftis:
   deputy_chairman:
   - name: Shaykh Abdul-Razzaq Al-Afifi
     url: /biography/afifi/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah no. 11043
 summary: It is impermissible for the adherents of Tawhid (monotheism), who hold that
   the worshippers of graves are disbelievers, to call their fellow monotheists as
@@ -18,8 +18,6 @@ summary: It is impermissible for the adherents of Tawhid (monotheism), who hold 
   proofs and clarification on them.
 title: Can a Muslim's ignorance of creed be excused?
 ---
-
-
 Question:
 
 In our country, the worship of graves is rampant; there are many advocates who claim that the worshippers of graves among Muslims will be excused for their ignorance. Therefore, there is nothing wrong with establishing marriage relationships with them, being led by them in congregational Salah (Prayer). Briefly, they should be treated as Muslims. Moreover, these advocates denounce any one who describes grave worshippers as disbelievers and label them as innovators. They claim that your Eminence excuse grave worshippers for their ignorance and that you approve a memorandum prepared by a person called Al-Ghubashy, in which he seeks excuses for the grave worshippers due to their ignorance. Would you please send us a clear-cut statement showing the cases in which someone can be excused for their ignorance? Kindly, provide a list of some related references that can be consulted on this particular question. Many thanks for your efforts!  

@@ -9,14 +9,12 @@ hijri: '1446-01-17'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.7324, Question 2
 summary: It is forbidden to go to someone who practices acts of shirk, such as making
   supplications to and seeking help from the dead for the sake of recovery from illnesses.
 title: Ruling on seeking treatment from a Mushrik
 ---
-
-
 ### Question: 
 A man fell seriously ill. He visited many doctors but they could not cure his illness. When he went to a man who is in the habit of making Tawassul (supplicating to Allah through a means) by the dead and seeking their help and blessings, Allah cured him. Is it permissible to go to such a person? This incidence happened many times to the point that people believed that such a person treats the sick through these acts of Shirk (associating others with Allah in His Divinity or worship), we seek refuge with Allah! What is the ruling on this?
 

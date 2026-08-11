@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-18
 title: Is it a Sunnah to Call the Adhan in the Newborn's Right Ear and the Iqamah
   in the Left Ear?
@@ -23,8 +23,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1447-12-01'
 ---
-
-
 ### Question: 
 
 Regarding the Adhan in the newborn’s right ear and the Iqamah in the left, is it a Sunnah and does it have an authentic basis?

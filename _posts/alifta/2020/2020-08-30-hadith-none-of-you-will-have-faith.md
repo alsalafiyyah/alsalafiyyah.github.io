@@ -18,15 +18,13 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah no. 17555
 summary: 'Would you please explain the meaning of the following Hadith: ''None of
   you will have faith until his desire is in accordance with what I have brought.'''
 title: 'The Hadith: ''None of you will have faith until his desire is in accordance
   with what I have brought.'''
 ---
-
-
 Question: 
 
 Would you please explain the meaning of the following Hadith:  "**None of you will have faith until his desire is in accordance with what I have brought.**" [^1] May Allah bless, protect, and enlighten you.

@@ -9,7 +9,7 @@ hijri: '1447-11-24'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah 19/353, Fatwa no.18371, Question 2
 summary: Sexual intercourse during pregnancy is permissible provided it does not cause
   harm to the pregnancy. Rather, prohibition is strictly applied to intercourse during
@@ -19,8 +19,6 @@ tags:
 title: On Marital Relations During Pregnancy
 translation: false
 ---
-
-
 ### Question: 
 
 When is it incumbent upon a man to abstain from sexual intercourse with his wife during pregnancy, and does coitus—specifically during the first trimester—pose any potential harm to the fetus?

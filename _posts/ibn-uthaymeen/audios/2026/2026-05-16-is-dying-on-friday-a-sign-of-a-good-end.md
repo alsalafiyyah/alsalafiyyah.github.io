@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-16
 title: Is dying on Friday a sign of a good end?
 source: 'Fatawa Nur ''ala al-Darb / Tape no: 374'
@@ -22,8 +22,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1447-11-29'
 ---
-
-
 ### Question: 
 
 In the last question from this inquirer: Is dying on Friday a sign of a good end?

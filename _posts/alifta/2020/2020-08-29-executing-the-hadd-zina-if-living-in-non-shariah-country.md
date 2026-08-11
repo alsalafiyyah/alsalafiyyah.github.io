@@ -5,7 +5,7 @@ hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 7488
 summary: You are not entitled to execute the punishment; because execution of Hudud
   (ordained punishments for violating Allah’s Law) against the fornicator or any criminal,
@@ -16,8 +16,6 @@ title: A family executing the Hadd of Zina if living in a country that does not 
   Shari'ah
 translation: false
 ---
-
-
 ### Question: 
 
 I would like to know the legal decision on a person who commits a crime that incurs Hadd (ordained punishment for violating Allah’s Law) such as Zina (sexual intercourse outside marriage). It should be noted that the law of the country where we live has a different punishment for this crime and if we, the family of the sinner, execute the Hadd, we will be punished by the government. What will happen if we do not execute the Hadd? Should he repent to Allah? To what extent will Allah accept his repentance?

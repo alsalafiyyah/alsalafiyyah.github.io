@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The Tawhid of the Prophets and its antithesis in the religions of the Kafirs
   and Mushriks
 hijri: '1442-02-05'
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 All praise be to Allah, the Lord of the worlds, and truly the good end shall always be for the righteous. May peace and blessings be upon our Prophet Muhammad (peace be upon him) and upon all Prophets, Messengers, and righteous people.
 
 Allah (Praised and Exalted be He) sent His Honorable Messengers to guide people to know Him, to call them to Tawhid (belief in the Oneness of Allah) and sincere and pure dedication of 'Ibadah (worship) to Allah Alone, as Allah (Exalted be He) says: "**And verily, We have sent among every Ummah (community, nation) a Messenger (proclaiming): “Worship Allâh (Alone), and avoid (or keep away from) Tâghût (all false deities i.e. do not worship Tâghût besides Allâh).”**" [Al-Nahl: 36]

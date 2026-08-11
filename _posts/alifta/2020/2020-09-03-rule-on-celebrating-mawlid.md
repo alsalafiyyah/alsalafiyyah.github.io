@@ -15,15 +15,13 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 2747
 summary: 'Celebrating the birth of the Prophet is Bid‘ah (innovation in religion).
   The Prophet did not celebrate his birthday, nor did he order others to do so, nor
   did he see one celebrating it and remained silent about it. '
 title: Celebrating the Prophet's Mawlid
 ---
-
-
 Question 1: 
 
 The people here hold an eleven-day celebration in commemoration of the Mawlid (the Prophet’s birthday) in Rabi‘ Al-Awwal. They gather the Muslims together and do acts that express joy until the day of the event. However, some scholars say that there is no good in this. I would, therefore, like to ask you what the ruling on this is; do you do in your country anything in celebration of his birthday?

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Dreams, Myths, and Sufism
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-07-02
 active: audios
 category:
@@ -21,8 +21,6 @@ muftis:
     url: /biography/binbaz/
 hijri: '1448-01-17'
 ---
-
-
 ### Question: 
 
 A brother asks: Despite the perfection of the Sharia (Islamic law), there are still those among the adherents of Islam who worship Allah based on dreams, and command their followers to do so, especially within the Sufi orders, which have become the foundation of religion in many Muslim countries despite their fragmentation. We request a clarification on the gravity of this matter.

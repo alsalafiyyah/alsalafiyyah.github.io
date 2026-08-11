@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2019-11-19
 hijri: '1441-03-22'
 title: On the Misapplication of the Epithet Talafi to the Salafi Manhaj
@@ -23,8 +23,6 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 ### Question: 
 
 What is the ruling regarding one who refers to the Salafi manhaj (methodology) as the Talafi (destructive) manhaj— I seek refuge is sought with Allah?

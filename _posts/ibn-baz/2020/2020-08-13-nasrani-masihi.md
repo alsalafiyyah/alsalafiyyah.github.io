@@ -7,7 +7,7 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Shaykh Ibn Baz 5/416
 summary: The word Masihi is an ascription to Al-Masih ibn Maryam (Jesus Christ, son
   of Mary, peace be upon him). People who allege that they follow the Bible use the
@@ -18,8 +18,6 @@ tags:
 title: Difference between the words Nasara and Masihi
 translation: false
 ---
-
-
 ### Question:
 
 For a long period of time, the word **Masihi** has been commonly used. Is this correct or do we have to use the word **Nasrani** instead? Provide me with your beneficial answer. May Allah reward you.

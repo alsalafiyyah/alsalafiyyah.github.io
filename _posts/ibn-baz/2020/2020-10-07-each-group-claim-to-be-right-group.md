@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Each group claims to be the right group
 hijri: '1442-02-20'
 lang: en
@@ -17,8 +17,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 Your Eminence, Fitnahs (temptations) have spread in the arena of Da'wah (calling to Islam) due to the presence of many Islamic groups. Among these groups are Jama'at Tabligh, Al-Ikhwan-ul-Muslimun (the Muslim Brotherhood; a political group also calling to Islam), Al-Salafiyyah (following the way of the salaf) and many others. Each group claims to be the right group in following the Sunnah. Would you please name the groups which are truthful and which of them are more entitled to be followed? 
 

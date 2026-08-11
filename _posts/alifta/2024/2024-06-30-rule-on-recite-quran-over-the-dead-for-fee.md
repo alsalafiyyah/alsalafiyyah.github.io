@@ -16,7 +16,7 @@ muftis:
     url: /biography/fawzan
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 18224, Question 3
 summary: It is not permissible to recite the Qur'an in return for a payment and have
   this as a profession. This is because recitation of the Qur'an is an act of worship
@@ -26,8 +26,6 @@ tags:
 title: Ruling on reciting the Qur'an over the dead for a fee
 translation: false
 ---
-
-
 ### Question: 
 
 In Morocco, most of the memorizers of the Qur'an say supplications in behalf of some people in return for a sum of money. They may also recite the Qur'an over the dead and on occasions, such as wedding ceremonies, in return for money. The number of supplications and Ayahs (Qur'anic verses) they say and recite depends on the money they receive. What advice should be given to these people? Indeed, they have gone astray and have led others astray, for on some occasions Dhikr (Remembrance of Allah) may be combined with the beating of drums and the playing of pipes. What is the ruling on those who invite them to attend their weddings?

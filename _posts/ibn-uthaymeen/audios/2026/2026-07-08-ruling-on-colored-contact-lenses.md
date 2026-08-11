@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-07-08
 title: Ruling on Colored Contact Lenses
 category:
@@ -23,8 +23,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1448-01-23'
 ---
-
-
 ### Question: 
 
 A woman asks in her question: Honorable Shaykh, regarding colored contact lenses: Is it permissible to use contact lenses that change the eye color from black to green or blue, for the purpose of beautifying oneself for one's husband?

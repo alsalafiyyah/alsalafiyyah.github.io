@@ -14,13 +14,11 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 4404
 summary: It is not permissible to mix medicines with intoxicant alcohol.
 title: Prescribing a medicine containing alcohol
 ---
-
-
 ### Question:
 I want to hear your Fatwa on some medicines that contain alcohol. I am so worried and anxious about the matter. I fear that I am committing a sin when I give patients prescriptions that include these drugs. May Allah reward you!
 

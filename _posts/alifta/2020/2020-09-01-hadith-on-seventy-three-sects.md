@@ -5,14 +5,12 @@ hijri: '1442-01-13'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 830
 summary: The Hadith on This Ummah will split into seventy-three sects, all of them
   will be in Hellfire except one.
 title: The Hadith on splitting of this Ummah into seventy-three sects
 ---
-
-
 ### Question:
 I read a Hadith mentioned by the Shaykh of Islam Muhammad ibn 'Abdul-Wahhab, in his book entitled “Mukhtasar Sirat Al-Rasul” (The Abridged Biography of the Prophet), which states: "**This Ummah (nation) will split into seventy-three sects, all of them will be in Hellfire except one.**"
 

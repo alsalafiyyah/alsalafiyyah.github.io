@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ruling On The Ba'ath Party
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat 28/270
 category:
 - sects
@@ -17,8 +17,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 Are president of Iraq and members of the Ba'ath Party that he led considered Kafirs (disbelievers) or not? 

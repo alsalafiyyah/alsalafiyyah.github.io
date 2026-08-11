@@ -15,14 +15,12 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA no. 6876, Question 1
 summary: It is Haram for Muslims to let any disbeliever enter Al-Masjid Al-Haram (the
   Sacred Mosque in Makkah) or any part of the Sanctuary
 title: Ruling on Non-Muslims entering Masjids
 ---
-
-
 ### Question: 
  
 What is the ruling on non-Muslims entering a Masjid (mosque) or Musalla (a place for Prayer), whether to attend the Salah (Prayer) or to listen to a lecture?

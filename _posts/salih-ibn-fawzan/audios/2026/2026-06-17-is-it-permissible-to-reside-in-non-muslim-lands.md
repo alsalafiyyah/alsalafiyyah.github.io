@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-06-17
 title: Is It Permissible for a Muslim to Reside in Non-Muslim Lands?
 category:
@@ -22,8 +22,6 @@ muftis:
     url: /biography/fawzan/
 hijri: '1448-01-02'
 ---
-
-
 ### Question: 
 
 Respected Shaykh, is residing in a non-Muslim country permissible or not, whether for study or work, keeping in mind that there is a mosque in this country where prayers are held at certain times?

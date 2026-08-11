@@ -4,7 +4,7 @@ hijri: '1441-12-07'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 8852, Question 1
 summary: The differences between Ahl-us-Sunnah wal-Jama'ah (adherents to the Sunnah
   and the Muslim mainstream) and the Shiites are major regarding Tawhid (Oneness of
@@ -14,8 +14,6 @@ tags:
 title: The difference between Sunnis and Shi'ah
 translation: false
 ---
-
-
 ### Question: 
 
 Please clarify the differences between Sunnis and Shi'ah (Shi'ites) Which of them is the closest to the Sunnah?

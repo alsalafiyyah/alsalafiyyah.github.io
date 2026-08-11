@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Urging Spouses Toward Patience and Living Together in Kindness
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-06-02
 active: audios
 category:
@@ -24,8 +24,6 @@ muftis:
     url: /biography/binbaz/
 hijri: '1447-12-16'
 ---
-
-
 In conclusion, it is necessary for the people of Islam to beware of the causes of divorce and to hold things together. A husband ought to remain steadfast, even if he faces some harm or annoyance; his patience must be strong, and he should endure so that divorce does not occur.
 
 Likewise, it is obligatory upon the woman to fear Allah regarding her husband and to avoid the causes of divorce. She should endure a little of his occasional absences, a bit of his ill-temper, a slight shortcoming in his financial maintenance, or the like. For this life is an abode of trial; it is a place of distress, affliction, and tribulations. It is not the home of ultimate bliss, nor is it the dwelling of eternal comfort and immortality. This is a life of testing and trials—an abode of hardships for those who came before you, for you, and for those who will come after you. No matter the circumstances, it is never a place of pure bliss. Everyone receives their share of its distress, harm, hardships, and various troubles—kings and commoners, rich and poor alike.

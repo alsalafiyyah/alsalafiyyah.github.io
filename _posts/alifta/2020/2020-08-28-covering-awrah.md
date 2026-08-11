@@ -5,14 +5,12 @@ hijri: '1442-01-09'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah no. 5128
 summary: According to the consensus of Muslim scholars, covering the Awrah is Wajib
   (obligatory).
 title: Covering the Awrah
 ---
-
-
 Question: 
 
 As there are many sectors including the military where people wear special outfits for physical exercises and which uncover some parts of the body beneath the navel and half or more of the thigh and due to the spread of these kinds of clothes, we want your Eminence to give us your Fatwa regarding this issue and explain the legal ruling as it has become so familiar seeing many people wearing these outfits as if they have become permissible these days. May Allah reward you with the best.

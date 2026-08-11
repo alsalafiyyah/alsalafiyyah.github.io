@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Is a man considered a Mahram for the sister of his wife?
 hijri: '1442-05-05'
 source: Fatawa Shaykh Ibn Baz p. 20/289
@@ -16,8 +16,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 
 Is a woman's husband a Mahram (unmarriageable) to her sister and paternal aunt so he can sit alone with any of them?  

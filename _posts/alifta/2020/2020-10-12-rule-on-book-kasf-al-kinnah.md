@@ -15,15 +15,13 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA no. 19185
 summary: After reviewing the mentioned book (Kashf Al-Akinnah), I realized that its
   author is not one of the reliable scholars in respect of the rulings of Shari'ah
   (Islamic law).
 title: Ruling on book entitled 'Kashf Al-Akinnah' by Abdul-Wahhab Mahiyyah
 ---
-
-
 Question:
 
 What is your opinion about a book entitled "**Kashf Al-Akinnah 'Amma Qila 'Innahu Bid'ah Wahwa Sunnah (Revealing the Secrets concerning what is Deemed as Bid'ah [innovation in the religion] while it is a Sunnah [acts, sayings or approvals of the Prophet])**" by 'Abdul-Wahhab Mahiyyah? 

@@ -13,7 +13,7 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatwas of the Permanent Committee of KSA, Fatwa no.9774
 summary: Transferring the deceased from one grave to another one is not permissible
   unless there is a necessity to do so according to the Islamic Shari'ah.
@@ -23,7 +23,6 @@ title: Claiming to have dream of deceased who command him to build a shrine for 
   deceased
 translation: false
 ---
-
 ### Question: 
 
 Nowadays, there are a group of people who transfer the deceased months or years after burying them claiming that this deceased person came to one of them in a dream and said: "You have to build a shrine for me". While transferring the deceased to his grave, some of them claim that the deceased is the one who directs them while they carry him to the places he wants to visit before his last burial and claim that the deceased flies in addition to other superstitions. It should be noted that this deceased may not have offered Salah (Prayer) or observed Sawm (Fasting) during his entire life or even performed any of the Islamic obligatory acts. I wish your Eminence would explain the legal ruling in this regard. 

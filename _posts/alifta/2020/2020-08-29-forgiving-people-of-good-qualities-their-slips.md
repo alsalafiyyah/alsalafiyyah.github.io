@@ -5,7 +5,7 @@ hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 18732
 summary: The Hadith means that it is desirable to forgive people of good qualities
   if they commit a small or trivial mistake but not a sin that requires the execution
@@ -16,8 +16,6 @@ tags:
 title: Forgiving the people of good qualities their slips
 translation: false
 ---
-
-
 ### Question: 
 
 What is the degree of authenticity of the Hadith narrated by Abu Dawud and others which reads: "**Forgive the people of good qualities their slips**" Is it permissible to consider this Hadith religious evidence? Based on my narrow background of scholars' views, I know that Ibn Hajar, the author of (Bulugh Al-Maram) said that there are different views about the authenticity of this Hadith. I also know that the verifier of the book (Al-Muwafaqat) questions the authenticity of this Hadith saying, "It contradicts the Qur'an which calls for establishing justice and equality." Please, explain the decisive judgment concerning this Hadith.

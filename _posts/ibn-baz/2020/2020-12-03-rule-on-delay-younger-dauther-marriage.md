@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: It is not permissible to delay the marriage of the younger girl
 hijri: '1442-04-18'
 source: Fatawa Shaykh Ibn Baz p. 20/420
@@ -15,8 +15,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 
 It is a tradition in our village that the younger daughter cannot be given in marriage before the elder one. Some families refuse to marry off the younger daughter until a suitor proposes marriage to the elder daughter. Is this tradition lawful? What is the ruling on this act?

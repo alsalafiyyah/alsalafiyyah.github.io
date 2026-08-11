@@ -4,7 +4,7 @@ hijri: '1442-01-03'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com, salafiyyah@outlook.sa
+publisher: alsalafiyyah.manhaj@gmail.com, salafiyyah@outlook.sa
 shaykhs:
 - Shaykh Ibn Baz
 - Shaykh Abdul-Aziz Aal Al-Shaykh
@@ -17,8 +17,6 @@ summary: It is islamically permissible to serve sufficient food for the deceased
 title: Ruling on the family of the deceased serving food for people and holding ceremonies
   on certain days
 ---
-
-
 ### Question: 
 A few groups of scholars, who call themselves Ahl-us-Sunnah (adherents to the Sunnah), have appeared in our country. They state the following claims: 
 1. Serving food in the deceased's house for three to seven days, during the special days, such as Thursdays and Fridays, and upon the passage of forty days is permissible and authentically recorded in the Sunnah of the Prophet (peace be upon him). 

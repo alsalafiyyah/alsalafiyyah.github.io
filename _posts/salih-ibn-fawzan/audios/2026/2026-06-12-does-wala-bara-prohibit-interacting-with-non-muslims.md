@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-06-12-does-wala-bara-prohibit-interacting-with-non-muslims.md
 title: Does Al-Wala' wal-Bara' Prohibit Interacting and Speaking with Non-Muslims?
 category:
@@ -23,8 +23,6 @@ muftis:
     url: /biography/fawzan/
 hijri: '1447-12-26'
 ---
-
-
 ### Question:
 
 Eminent Shaykh, may Allah grant you success. The questioner says: You mentioned, may Allah preserve you, that the doctrine of Al-Wala' wal-Bara' (loyalty and disavowal) is obligatory. Does this mean that we are not allowed to speak with non-Muslims?

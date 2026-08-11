@@ -16,14 +16,12 @@ muftis:
     url: /biography/abdulaziz/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 17611
 summary: Samba visa as described in the question is a new way of the ways of those
   who deal with Riba (usury/interest) and consuming the properties of people unjustly.
 title: Ruling on using Samba visa card
 ---
-
-
 Question:
 
 A visa card is spreading amongst people. It is called Samba, issued by the Saudi-American bank, and the value of the golden one is 485 riyal while the silver one is for 245 riyal. Such a value is paid to the bank as a yearly subscription. This card holder is allowed to withdraw whatever sums of money they like (loans) from the branches of the concerned bank. These loans are to be paid back in the same value within a period of time that should not exceed 54 days. However, in case the loan is not paid back within this time limit; the bank gets one riyal and 95 halalas interest on every one hundred riyals. 

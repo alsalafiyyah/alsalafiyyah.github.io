@@ -15,7 +15,7 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 6364, Question15
 summary: It is not permissible to have one place of worship that gathers the three
   religions. This is because this place will not be established on piety, but will
@@ -23,8 +23,6 @@ summary: It is not permissible to have one place of worship that gathers the thr
 title: Ruling on having one temple for the three religions; Judaism, Christianity,
   and Islam
 ---
-
-
 ### Question: 
 
 Is it permissible to have one temple for Judaism, Christianity, and Islam?

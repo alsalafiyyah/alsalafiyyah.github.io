@@ -4,7 +4,7 @@ hijri: '1441-12-07'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 5553, Question 7
 summary: As for the claim of some Sufis that they see the Prophet (peace be upon him)
   while they are awake, this is absolutely baseless, and Batil (null and void). The
@@ -15,9 +15,6 @@ tags:
 title: Al-Tijaniyyah is one of the most disbelieving and misguided sufi order
 translation: false
 ---
-
-
-
 ### Question: 
 
 What is your opinion concerning Al-Tijaniyyah Tariqah (Sufi order) and seeing the Prophet (peace be upon him) in wakefulness?

@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Advise for Muslims on the occasion of the beginning of blessed Ramadan
 hijri: '1442-02-23'
 lang: en
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 What is the word you would like to direct to the Muslim Ummah (nation based on one creed) on celebrating the beginning of Ramadan? 

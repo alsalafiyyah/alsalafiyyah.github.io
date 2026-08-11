@@ -4,7 +4,7 @@ hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-'Aziz ibn Baz
 - Shaykh Abdul-Razzaq al-Afify
@@ -13,8 +13,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 1376
 title: Ruling on masturbation for medical purposes
 ---
-
-
 Question: 
 
 I suffer from a disease that makes me unable to have sexual intercourse with my wife. I have been married for three years during which I have had a normal marital life like that of any married couple. However, I suddenly developed this case of being unable to have intercourse with my wife and without any apparent disease or reason. When I consulted a doctor, he asked me to bring him a sample of my Maniy (sperm), but I could not discharge any, and I do not know whether it is permissible to masturbate or not. Kindly enlighten us, and may Allah reward you!

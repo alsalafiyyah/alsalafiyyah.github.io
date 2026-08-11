@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-04-20
 hijri: '1447-11-03'
 title: 'The Naming of the People of the Book: Nasara (Nazarenes) vs. Christians (Masihiyyun)'
@@ -22,8 +22,6 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 ### Question: 
 
 Is it permissible to refer to the Nasara (Nazarenes) as 'Christians' (Masihiyyun)?

@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-08-08
 hijri: '1448-02-25'
 title: The Ruling on Reciting Surah Ya-Sin Over the Deceased
@@ -23,8 +23,6 @@ muftis:
   - name: Shaykh Salih al-Fawzan
     url: /biography/fawzan/
 ---
-
-
 ### Question: 
 
 I heard someone say, "Recite Surah Ya-Sin over your dead." When should this be done—after the burial or at the time of burial?

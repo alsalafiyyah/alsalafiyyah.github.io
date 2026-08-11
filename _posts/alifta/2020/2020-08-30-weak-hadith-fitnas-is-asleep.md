@@ -4,7 +4,7 @@ hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdul-Aziz Aal al-Shaykh
@@ -15,8 +15,6 @@ source: Fatawa Al-Lajnah Ad-Da'imah no. 17867-3
 title: 'Weak Hadiths: ''Fitnah is asleep. May Allah the Curse of Allah be upon the
   one who wakes it up'' and ''Stay away from verdure growing in manure'''
 ---
-
-
 Question: 
 
 What is the ruling on the authenticity of these two Hadiths:  "**Fitnah (sedition or turmoil) is asleep (dormant). May the Curse of Allah be upon the one who wakes it up (stirs it up).**"

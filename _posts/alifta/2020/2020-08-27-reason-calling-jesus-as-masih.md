@@ -4,7 +4,7 @@ hijri: '1442-01-08'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-'Aziz ibn 'Abdullah ibn Baz
 - Shaykh Abdul-Razzaq al-Afify
@@ -13,8 +13,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 1621-6
 title: The reason behind calling Jesus (peace be upon him) as Al-Masih
 ---
-
-
 Question: 
 
 Why was 'Isa ibn Maryam (Jesus son of Mary) called Al-Masih (Christ)?

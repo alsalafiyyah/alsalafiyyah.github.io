@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-18
 title: The Ruling on the Adhan and Iqamah in the Newborn's Ear
 source: Liqa'a al-Bab al-Maftuh, Tape 60
@@ -22,8 +22,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1447-12-01'
 ---
-
-
 ### Question: 
 
 Is the Adhan (call to prayer) in the newborn's right ear and the Iqamah (second call to prayer) in their left ear performed on the seventh day, the first day, or when exactly should it be done—may Allah bless you?

@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-09
 hijri: '1447-11-22'
 title: 'Decree and Delay: A Perspective on Infertility'
@@ -21,8 +21,6 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 ### Question:
 
 Is there a treatment for infertility? Can an infertile person have children if they supplicate (pray) to Allah, Almighty and Exalted, even knowing that doctors have told them they will never be able to conceive?

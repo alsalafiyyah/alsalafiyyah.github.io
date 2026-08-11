@@ -4,7 +4,7 @@ hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdul-Aziz Aal al-Shaykh
@@ -15,8 +15,6 @@ source: Fatawa Al-Lajnah Ad-Da'imah no. 12464-4
 title: 'Fabricated Hadith: ''My Sahabah are like stars; whomever you follow, you will
   be guided'''
 ---
-
-
 Question: 
 
 I heard a Hadith which was always repeated on the television during Ramadan of the year 1993. It was the first time for me to hear it and I did not find it in any reference. Some brothers told me that it has no origin. Its wording is as follows: The Messenger of Allah (peace be upon him) said: "**My Sahabah (Companions of the Prophet) are like (guiding) stars; whomever you follow, you will be guided (to the right path).**" Is this a Hadith Sahih (authentic)? If it is so, who are its narrators?

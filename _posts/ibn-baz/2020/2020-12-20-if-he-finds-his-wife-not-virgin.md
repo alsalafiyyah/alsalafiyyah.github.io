@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Discovering that one's wife is not a virgin
 hijri: '1442-05-05'
 source: Fatawa Shaykh Ibn Baz p. 20/286
@@ -15,8 +15,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 
 If a man marries a young woman and then finds that she is not a virgin, what should he do?  

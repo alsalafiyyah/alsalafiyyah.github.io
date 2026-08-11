@@ -18,14 +18,12 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/zayd/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 18584, Question 3
 summary: The guidance of the Prophet was to seek treatment and encourage the patient
   from among his family and Companions to seek it.
 title: Treating enuresis
 ---
-
-
 ### Question:
 A university student suffers a lot when he makes Wudu' (ablution), as he stays in the bathroom for more than half an hour. Also, when he leaves the bathroom, he feels that drops of urine come out. Is he considered among those who suffer uncontrolled enuresis, so that he must seek treatment? 
 

@@ -9,7 +9,7 @@ hijri: '1445-12-26'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 5609, Question 3
 summary: It is a reprehensible act, for immortality belongs to Allah (Praised be He)
   alone and creatures do not live forever.
@@ -18,8 +18,6 @@ tags:
 title: Ruling on concluding letters and petitions with the phrase May you last forever
 translation: false
 ---
-
-
 ### Question: 
 
 What is the ruling on concluding letters and petitions with the phrase "**May you last forever**"?

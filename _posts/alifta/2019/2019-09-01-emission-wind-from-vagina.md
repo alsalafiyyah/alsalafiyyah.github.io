@@ -14,7 +14,7 @@ muftis:
   members:
   - name: Shaykh Abdullah Ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 7044
 summary: Passing wind from the front passage does not invalidate Wudu’.
 tags:
@@ -22,8 +22,6 @@ tags:
 title: Emission of wind from a woman’s vagina
 translation: false
 ---
-
-
 ### Question 1: 
 
 Does emission of wind from a woman’s front passage invalidate Wudu’?

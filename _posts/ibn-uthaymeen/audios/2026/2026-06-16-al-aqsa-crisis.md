@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-06-16
 title: Al-Aqsa Crisis
 source: Liqa' al-Shahri Tape 38, Question 9
@@ -21,8 +21,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1448-01-01'
 ---
-
-
 ### Question: 
 
 ​A question unrelated to the eclipse, the questioner says: Eminent Shaykh, you know what our blessed Al-Aqsa Mosque has been subjected to in terms of blatant and sinful aggression by the Jews, and you know the horrific crimes our brothers in Palestine have faced as they defend the first of the two Qiblahs (directions of prayer). What is your guidance for those who are deluded into thinking that these Jews have detached themselves from their beliefs and deep-seated hatred?

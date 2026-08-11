@@ -4,7 +4,7 @@ hijri: '1442-01-03'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com, salafiyyah@outlook.sa
+publisher: alsalafiyyah.manhaj@gmail.com, salafiyyah@outlook.sa
 shaykhs:
 - Shaykh Abdul-Aziz Aal Al-Shaykh
 - Shaykh Salih Fawzan
@@ -17,8 +17,6 @@ summary: As for the other practices such as holding funeral ceremony, hanging li
 title: When there is a funeral, lines of lamps are hung, chairs are brought and reciters
   of the Qur'an are hired to recite the Qur'an
 ---
-
-
 ### Question: 
 It can be noticed in Makkah Al-Mukarramah known as Allah's Sacred City, Al-Madinah Al-Munawwarah and Jeddah that when there is a funeral, lines of lamps are hung, chairs are brought and reciters of the Qur'an are hired to recite the Qur'an using loudspeakers. Then, a ceremonial dinner and a big banquette are provided. It is worth mentioning that this happens before the very eyes and ears of people. These things are done sometimes in the streets, sometimes in the houses and sometimes in places especially prepared for condolences, pursuant to an old Bid`ah (innovation in religion). There is no doubt that this question requires a Fatwa from Your Eminence that warns the people doing such things so that they may give up these practices, hoping that Your Eminence will give them a piece of advice on this question, may Allah safeguard you!
 

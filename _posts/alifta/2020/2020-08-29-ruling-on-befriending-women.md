@@ -16,15 +16,13 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 6575, Question 5
 summary: Having a girlfriend is considered Zina, which is prohibited according to
   the Book of Allah, the Sunnah and the Ijma' (consensus of scholars). These two individuals
   must separate
 title: Ruling on befriending women
 ---
-
-
 ### Question: 
 
 A man lived with a woman (without marriage) for a long time and she bore him many children. Afterwards, he legally married two women who bore him many children. Now, the man wants to drive the first woman out of his house, but the children will not allow him to do so. What should he do?

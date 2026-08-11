@@ -10,7 +10,7 @@ lang: en
 layout: post
 mass_edited: true
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah, Fatwa no. 3105, Question 1
 summary: It is impermissible for a Muslim to elect a communist, a person who mocks
   religion or one whose loyalty is to nationality, not religion, to represent them
@@ -20,8 +20,6 @@ tags:
 title: It is impermissible for a Muslim to elect a communist
 translation: false
 ---
-
-
 ### Question: 
 
 Is it permissible for a Muslim to vote in municipal elections for a communist or someone who mocks religion and is loyal to nationality, not religion?

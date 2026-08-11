@@ -4,7 +4,7 @@ hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdul-Aziz Aal al-Shaykh
@@ -14,8 +14,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 18252-6
 title: Ruling on if one found a sum and announced it, but he could not find its owner
 ---
-
-
 Question: 
 
 A few years ago, I found, in the yard of Al-Haram (the Sacred Mosque in Makkah), 1000 riyals. I searched for the owner but nobody answered. I decided to give it in charity on behalf of its owner. After I performed Tawaf-ul-Wada' (circumambulation of the Ka'bah on leaving Makkah) and left Al-Haram I purchased some fruits from Makkah, using half of this money. On the way back, I distributed the fruits among the travelers with me. Is my Hajj incomplete? I heard that a pilgrim who has performed Tawaf-ul-Wada` is not allowed to buy anything from or spend the night in Makkah.

@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on women taking the husband's surname after marriage
 date: 2026-07-02
 category:
@@ -21,8 +21,6 @@ muftis:
     url: /biography/fawzan/
 hijri: '1448-01-17'
 ---
-
-
 ### Question: 
 
 Is it permissible for a woman after marriage to give up her family name and take her husband's name, as is the case in the West?

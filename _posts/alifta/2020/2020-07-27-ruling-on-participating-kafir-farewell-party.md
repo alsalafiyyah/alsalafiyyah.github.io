@@ -20,15 +20,13 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 16439
 summary: Muslims' participation with non-Muslims in collecting a sum of money to hold
   a party to see off non-Muslims is a kind of respect and honor to them which is not
   permissible for a Muslim to do or even take part in.
 title: Ruling on Muslim participating and paying in a farewell party for a non-Muslim
 ---
-
-
 ### Question: 
 
 In our company, Muslim employees work together with Christian and Hindu employees. Some employees collect a sum of money from employees in order to hold a farewell party when one of the foreign employees is leaving. The party is composed of serving a meal plus a gift to the guest. Does a Muslim's participation with their money and selves in this kind of celebrations affect the Muslim's 'Aqidah (creed) in any way? Could you kindly advise? May Allah reward you!

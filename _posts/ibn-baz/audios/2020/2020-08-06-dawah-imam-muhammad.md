@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Clarifying the Da'wah of the Imam Muhammad ibn Abdul-Wahhab
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_828/nour_82803.mp3
 hijri: '1441-12-16'
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 Was the Da'wah (calling people to Islam) of Shaykh Muhammad ibn Abdul-Wahhab a specific doctrine? Does what is said about his Da'wah to abandon worshipping graves and the dead mean disaffection towards righteous persons? 
 

@@ -4,7 +4,7 @@ hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz Aal al-Shaykh
 - Shaykh Abdul-Aziz ibn Baz
@@ -14,8 +14,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 17910
 title: After Li'an, should the child be attributed to his grandfather?
 ---
-
-
 Question: 
 
 About 20 years ago, my sister married a man and I was young at that time. She immediately became pregnant, but only Allah knows if the child was from her husband or someone else. Consequently, the husband disowned the child and they were referred to the courts where they were given a legal ruling. There were witnesses and Li'an (allegation of adultery against a wife, accompanied by mutual invoking of Allah’s Curse/Wrath if lying) and the matter was finally resolved.

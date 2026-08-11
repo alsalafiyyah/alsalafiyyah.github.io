@@ -10,14 +10,12 @@ lang: en
 layout: post
 mass_edited: true
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah 1/31, Fatwa no. 5167, Question 5
 summary: This claim is not correct. The evidence for this is that Allah clarified
   in the Quran the stages of the creation of Adam.
 title: Darwin's theory of evolution
 ---
-
-
 ### Question: 
 
 There are those who say that, a long time ago, man was an ape and then evolved. Is this true, and is there any evidence for it?

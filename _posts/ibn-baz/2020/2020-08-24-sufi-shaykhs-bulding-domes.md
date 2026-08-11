@@ -7,7 +7,7 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat 5
 summary: Sitting on graves is not permissible as it is desecration of the graves.
   Therefore, it is not permissible to urinate or defecate on them or to do any act
@@ -18,8 +18,6 @@ title: Some Sufi shaykhs pay a great deal of attention to making domes on graves
   people believe in its usefulness and blessings
 translation: false
 ---
-
-
 ### Question: 
 
 Some Sufi shaykhs pay a great deal of attention to making domes and graves and people believe in their usefulness and blessings. If this is not lawful, what is your advice to those people, as they are considered as religious examples for a large number of people? Appreciate your guidance, may Allah guide you.

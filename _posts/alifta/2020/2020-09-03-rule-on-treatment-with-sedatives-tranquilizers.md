@@ -14,14 +14,12 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 7359, Questionn1
 summary: It is not permissible to take medical treatment with the mentioned substances,
   or anything that is prohibited by Shariah.
 title: Ruling on treatment with sedatives and tranquilizers
 ---
-
-
 ### Question:
 What is the ruling on medical treatment with sedatives, tranquilizers, and drugs that affect the brain and overall awareness? 
 

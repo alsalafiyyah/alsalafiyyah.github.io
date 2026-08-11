@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Categorizing Those Who Speak Against People of Authority
 hijri: '1446-01-27'
 date: 2024-08-02
@@ -21,8 +21,6 @@ muftis:
   - name: Shaykh Salih Al-Fawzan
     url: /biography/fawzan/
 ---
- 
-
 ### Question: 
 
 This [questioner] asks: What should our stance be toward those who speak ill of the [Muslim] rulers and the scholars? And if they are among our brothers, is it sufficient to boycott them, or must we report them?

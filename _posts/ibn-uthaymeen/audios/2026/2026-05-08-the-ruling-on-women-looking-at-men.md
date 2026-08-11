@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-08
 hijri: '1447-11-21'
 title: The Ruling on Women Looking at Men
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 ### Question: 
 
 May Allah bless you. This questioner is a student at the Faculty of Medicine, Cairo University, Egypt. She asks: What are the limits of lowering the gaze? And must I avoid looking at any man specifically if circumstances require me to deal with a man? I hope for your guidance, virtuous Shaykh.

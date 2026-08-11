@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Advice to those who wish to marry but cannot afford the expenses
 hijri: '1442-05-05'
 source: Fatawa Shaykh Ibn Baz p. 20/399
@@ -16,8 +16,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 
 I am a youth in the secondary stage. I endeavor as much as possible to observe the obligatory acts of worship and the commands of Islam. Yet the problem I suffer from is that I can't get married due to the financial problems prevailing these days and I am afraid to commit what Allah has forbidden. Is there some advice and instructions that you can direct to the youth like me? 

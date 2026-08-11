@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Tawhid-ul-Rububiyyah is denied only by deviated people
 hijri: '1442-04-20'
 source: Fatawa Al-Shaykh Ibn Baz 28/186
@@ -17,8 +17,6 @@ muftis:
   - name: Shaykh Ibn Baz
     url: /biography/binbaz
 ---
-
-
 ### Question:
 
 As the communists and atheists of today deny Allah's Existence, is this not considered a denial of Tawhid-ul-Rububiyyah (Oneness of Allah's Lordship) and thus it contradicts what some scholars mentioned that no Kafir (disbeliever) has ever denied Tawhid-ul-Rububiyyah? 

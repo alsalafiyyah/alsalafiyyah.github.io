@@ -14,15 +14,13 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 19991, Question 1
 summary: Is it permissible to congratulate non-Muslims on the occasion of the new
   Gregorian year, the new Hijri (lunar) year and Mawlid?
 title: Ruling on congratulating others in the new Gregorian or Hijri years or the
   Mawlid
 ---
-
-
 Question: 
 
 Is it permissible to congratulate non-Muslims on the occasion of the new Gregorian year, the new Hijri (lunar) year, and the Mawlid (the Prophet’s birthday)?

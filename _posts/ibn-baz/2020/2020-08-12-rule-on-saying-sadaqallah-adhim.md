@@ -7,14 +7,12 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat p.7/333
 summary: People’s custom of saying 'Sadaqallah-ul-Adhim' when finishing a session
   of recitation is a baseless act that should not be taken as a habit.
 title: Ruling on saying Sadaqallah Al-Adhim when finishing reading the Qur'an
 ---
-
-
 Question:
 
 I often hear that saying “Sadaq Allah Al-Adhim" upon ending recitation of the Qur'an is a Bid'ah (innovation in religion). Some people told me that it is permissible and they quoted as evidence the Ayah: "**Say (O Muhammad صلى الله عليه وسلم): "Allâh has spoken the truth; follow the religion of Ibrâhîm (Abraham) Hanîfa (Islâmic Monotheism, i.e. he used to worship Allâh Alone)**" [Aal 'Imran: 95] Some educated people told me that when the Prophet (peace be upon him) wanted to stop someone who was reading Qur'an he said, “Enough” and he did not say “Sadaq Allah Al-Adhim".” Now, is it permissible to say “Sadaq Allah Al-Adhim" at the end of a session of recitation? Please, advise in details. 

@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-08-04
 title: 'Salafism: Its Reality and Characteristics'
 category:
@@ -23,8 +23,6 @@ muftis:
     url: /biography/fawzan/
 hijri: '1448-02-21'
 ---
-
-
 In the name of Allah, the Most Gracious, the Most Merciful. All praise is due to Allah, the Lord of all the worlds, and may peace and blessings be upon our Prophet Muhammad, his family, and all his companions.
 
 To proceed:

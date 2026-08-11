@@ -5,14 +5,12 @@ hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah no. 18870, Question 3
 summary: If any conflict should occur, it will be necessary to refer it to the Qur'an
   and Sunnah to know the truth and adopt it.
 title: Ruling on disagreement between groups
 ---
-
-
 ### Question: 
 There are many points of disagreement among the Salafiyyah (those following the way of the righteous predecessors) and between them and other Islamic groups in the Manhaj (methodology) and bases upon which they build their Da'wah (calling to Islam). Is the disagreement among Salafiyyah groups less evil than that between them and other Islamic groups, since the former is in application and dealings while the latter is in Manhaj and scientific bases?
 

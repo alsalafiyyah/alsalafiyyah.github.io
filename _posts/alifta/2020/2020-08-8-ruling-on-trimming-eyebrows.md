@@ -18,13 +18,12 @@ muftis:
     url: /biography/fawzan
   - name: Shaykh Bakr Abu zayd
     url: /biography/bakr
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no.19771, Question 5
 summary: It is not permissible for women to remove anything from eyebrows whether
   by trimming, cutting, or shaving.
 title: Ruling on trimming eyebrows
 ---
-
 ### Question: 
 
 What is the ruling on women trimming eyebrows?

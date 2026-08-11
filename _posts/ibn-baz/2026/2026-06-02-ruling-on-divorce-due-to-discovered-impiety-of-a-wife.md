@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on Divorce Due to Discovered Impiety of a Wife
 date: 2026-06-02
 source: Fatawa Nur ala al-Darb 21/148-150
@@ -21,8 +21,6 @@ muftis:
     url: /biography/binbaz/
 hijri: '1447-12-16'
 ---
-
-
 ### Question: 
 
 The questioner says: He married a girl believing that she possessed good character and religious commitment, but the opposite became clear to him. It also became clear to him that her family matches the worst description that could possibly be mentioned. He mentions various other things, the omission of which is perhaps preferable. I request His Eminence, the Shaykh, to kindly offer guidance to our brother, especially since he is consulting you regarding the matter of divorcing her, and she has already given birth to a child with him.

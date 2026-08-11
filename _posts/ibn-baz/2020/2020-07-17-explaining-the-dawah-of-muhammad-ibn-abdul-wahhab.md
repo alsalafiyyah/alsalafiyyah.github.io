@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2020-07-17
 title: Explaining the Dawah of Sheikh Muhammad ibn Abd al-Wahhab
 source: Fatawa Nur 'ala al-Darb, Tape 216 No.4
@@ -22,8 +22,6 @@ muftis:
     url: /biography/binbaz
 hijri: '1441-11-26'
 ---
-
-
 ### Question: 
 
 Question: He has a third and final question, in which he says: Some people in our area call the scholars in the Kingdom of Saudi Arabia "Wahhabis." Do you accept this name? And what is the response to those who call you by this name?

@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The Ruling on a Husband Refusing his Wife’s Request for Intimacy
 hijri: '1447-11-24'
 date: 2026-05-11
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 ### Question: 
 
 What is your opinion regarding a situation where the wife requests sexual intercourse and the husband refuses her, causing her to become angry? Does the husband deserve this same warning (of being cursed)? 

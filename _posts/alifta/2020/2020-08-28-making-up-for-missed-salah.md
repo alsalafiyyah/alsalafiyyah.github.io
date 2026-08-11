@@ -11,15 +11,13 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 2259
 summary: If he was conscious during the period when he abandoned Salah, he should
   make up for the missed Salahs according to his ability, whether standing, sitting,
   or lying on his side or back.
 title: Making up for missed Salah due to unconsciousness or sickness
 ---
-
-
 ### Question: 
 
 My ninety-nine year old father was hit in a car accident. He was taken to a hospital where he remained unconscious for seventeen days during which he did not perform Salah. When he recovered, he asked about making up for the missed Salahs. Please advise.

@@ -15,14 +15,12 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 7664, Question1
 summary: Al-Mahdy is a man from Ahlul-Bayt , who will appear before the descent of
   Jesus, peace be upon him, to call to Islam.
 title: Who is Imam Al-Mahdy?
 ---
-
-
 ### Question: 
 
 Who is Al-Mahdy and what are the Signs of the Hour? 

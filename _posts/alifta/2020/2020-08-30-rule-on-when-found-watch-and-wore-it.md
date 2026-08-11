@@ -4,7 +4,7 @@ hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdul-Aziz Aal al-Shaykh
@@ -14,8 +14,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 18934-2
 title: Found a watch in the street, took and wore it but later it broke down
 ---
-
-
 Question: 
 
 About three years ago, my younger sister found a watch in the street and brought it to the house. I took it because it was so beautiful and wore it. I admit that I did not tell anybody or announce it among people because I was happy with it. However, it remained for one year and then it broke down and could not be repaired. I fear that I will meet Allah while charged with it. Appreciate your guidance, may Allah guide you.

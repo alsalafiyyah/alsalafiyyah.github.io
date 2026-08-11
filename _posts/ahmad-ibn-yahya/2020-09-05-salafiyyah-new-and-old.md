@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on the Categorization of Salafism into 'Old' and 'New'
 date: 2020-09-05
 lang: en
@@ -17,8 +17,6 @@ muftis:
     url: /biography/ahmad-alnajmi
 hijri: '1442-01-17'
 ---
-
-
 ### Question:
 
 Is there an old al-Salafiyyah (Salafism) and a new Salafism, or is it a single Salafism?

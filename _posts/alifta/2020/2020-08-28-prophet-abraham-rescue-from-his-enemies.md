@@ -5,7 +5,7 @@ hijri: '1442-01-09'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah no. 7786
 summary: What is intended here is to clarify that Ibrahim (peace be upon him) conveyed
   the message plainly, and established proof against the Kafirun (disbelievers), and
@@ -13,8 +13,6 @@ summary: What is intended here is to clarify that Ibrahim (peace be upon him) co
   Allah.
 title: Prophet Ibrahim's (Abraham, peace be upon him) rescue from his enemies
 ---
-
-
 ### Question: 
 
 I would like to benefit from the knowledge of Your Eminence to clear my heart, Allah (Exalted and Glorified be He) says: "**So ask the people of the Scripture, if you do not know.**" [al-Nahl: 43] Allah (Exalted be He), is the Protector of the Truth and Rightness, and to Him is the resort and return. After I studied various branches of Islamic religion, such as sciences of Hadith and Qur'an, I became certain that the person who threw Prophet Ibrahim (Abraham) (peace be upon him and our prophet) in fire was not Al-Namrud who - as known and mentioned in exegesis and history books of Islamic scholars - reigned the earth at the time . Rather, he was thrown in by his own people, because whenever the incident is mentioned in the Great Qur'an to which Falsehood cannot come from before or behind, there is a declaration that this incident took place with his people and father, as they were idol worshipers. Ibrahim (peace be upon him and our Prophet) kept preventing them to do so till he broke their idols into pieces. Consequently, they punished him by throwing him into the fire. Allah (Exalted be He) says: "**They said: "Build for him a building (it is said that the building was like a furnace) and throw him into the blazing fire!"**" [al-Saffat: 97] in addition to other Ayahs. The people who approved and implemented this punishment after discussing it with him were his people according to the context, in addition to the fact that the reference of pronouns to them declares that this incident took place with his people not with Al-Namrud. 

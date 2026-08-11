@@ -5,13 +5,12 @@ hijri: Dhul-Hijjah 14, 1441
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 5089, Question 1
 summary: A Muslim woman does not have to dress in black. It is permissible for her
   to wear any color she likes, as long as it covers her Awrah.
 title: Woman's Hijab color
 ---
-
 ### Question: 
 Should the Hijab (veil) of a Muslim woman be black or can it also be another color?
 

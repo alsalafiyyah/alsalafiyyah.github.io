@@ -4,7 +4,7 @@ group2: true
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da’imah 12/96, Fatwa no. 17811
 summary: Abandoning the pursuit of knowledge out of fear of falling short in implementation
   is a deception from Satan to mislead the children of Adam.
@@ -14,8 +14,6 @@ title: Rulings on Abandoning Knowledge Due to Deficiencies in Practice
 translation: false
 hijri: '1448-02-13'
 ---
-
-
 ### Question:
 
 Everyone knows that Islamic knowledge is inextricably tied to action. What is the Islamic legal ruling regarding a person who refrains from seeking knowledge under the pretext that they are falling short in acting upon it? Is such a person justified, or are they obligated to continue learning even if their situation is as described, in the hope that their knowledge will nurture and grow their deeds?

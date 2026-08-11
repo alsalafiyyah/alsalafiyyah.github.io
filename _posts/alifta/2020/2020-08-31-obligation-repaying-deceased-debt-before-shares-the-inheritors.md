@@ -4,7 +4,7 @@ hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdullah ibn Ghudayyan
@@ -15,8 +15,6 @@ source: Fatawa Al-Lajnah Ad-Da'imah no. 17171
 title: Obligation of repaying the deceased's debt before distributing the shares of
   inheritors
 ---
-
-
 Question:
 
 Before his death, my father borrowed 3,000 Kuwaiti dinars and willed that this debt be repaid. Given that I am the executer of his will, should I repay the debt from the estate before distributing it to the heirs, or from one-third of it?

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Difference between Ahlus-Sunnah and Shiites
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat 28/261
 category:
 - sects
@@ -17,8 +17,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 What is the difference between Ahlus-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream) and Shi'ah (Shi'ites)?

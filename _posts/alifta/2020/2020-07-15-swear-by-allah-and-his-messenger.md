@@ -4,7 +4,7 @@ hijri: '1441-11-24'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'mah, Fatwa no.5611, Question 11
 summary: It is impermissible to do so, for the Messenger of Allah said, Whoever makes
   an oath should swear by Allah or else remain silent.
@@ -13,8 +13,6 @@ tags:
 title: Ruling on swearing by Allah and His Messenger
 translation: false
 ---
-
-
 ### Question: 
 
 Is it permissible to swear by Allah and His Messenger?

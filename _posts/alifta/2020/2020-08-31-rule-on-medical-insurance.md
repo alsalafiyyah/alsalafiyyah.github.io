@@ -5,15 +5,13 @@ hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 21238
 summary: The health insurance mentioned in your Fatwa request is one form of commercial
   insurance which is legally prohibited since it involves fraudulence, gambling and
   using people's money unjustly.
 title: Ruling on medical insurance
 ---
-
-
 ### Question: 
 I would like to tell Your Eminence that Riyadh Reconstruction Company secures healthcare coverage to its employees and their families for free through paying the bills of their medical treatment to the medical institutions authorized by the company according to a specific order. The company is now intending to cancel this system and make a contract with some companies concerned with health insurance to supply the medical needs for its employees and their families. Riyadh Reconstruction Company will pay a certain amount of money per person regardless of the increase or decrease of the medical services against the paid sum during the year. 
 

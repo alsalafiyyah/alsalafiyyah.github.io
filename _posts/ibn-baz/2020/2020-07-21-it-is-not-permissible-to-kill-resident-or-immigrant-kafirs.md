@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: It is not permissible to kill resident or immigrant disbelievers
 hijri: '1441-11-30'
 source: Fatawa Al-Shaykh Ibn Baz 8/207, question 4 and 5
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 **Question: Some young people think that it is lawful to alienate the Kafirs (disbelievers) residing in or immigrating to Muslim countries. Accordingly, some of them deem it lawful to kill and steal from them if they see them committing Munkar.**
 
 ### Answer:

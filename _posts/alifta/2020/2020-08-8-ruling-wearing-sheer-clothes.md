@@ -18,14 +18,13 @@ muftis:
     url: /biography/fawzan
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah no. 19771, Question 2
 summary: It is not permissible for women to wear sheer clothes. Whoever does this
   is considered to be of those women that are dressed yet naked, whom the Prophet
   stated will not enter Paradise nor smell its fragrance.
 title: Ruling on wearing sheer clothes
 ---
-
 ### Question: 
 What is the ruling on women wearing sheer clothes?
 

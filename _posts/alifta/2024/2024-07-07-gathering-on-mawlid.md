@@ -9,14 +9,12 @@ hijri: '1446-01-01'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 5005‏, Question 13
 summary: Celebrating the Mawlid is an act of bid‘ah (deviant innovation). The Prophet
   ﷺ neither celebrated it nor ordered that it be celebrated.
 title: Ruling on gathering on the Prophet's Mawlid
 ---
-
-
 ### Question: 
 Is it permissible to gather on the 12th of Rabi‘ul-Awwal to commemorate the Mawlid (the Prophet’s birthday)?
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-06-10
 title: The Reality of Bid'ah (Innovation)
 source: Fatawa Nur 'ala al-Darb, Tape no. 29
@@ -21,8 +21,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1447-12-24'
 ---
-
-
 Questioner:  Welcome, Your Eminence, Shaykh Muhammad.
 
 Shaykh: May Allah preserve you.

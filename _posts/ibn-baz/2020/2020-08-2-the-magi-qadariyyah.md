@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Magi of the Muslim Ummah are Al-Qadariyyah"
-publisher: "alsalafiyyah@icloud.com"
+publisher: "alsalafiyyah.manhaj@gmail.com"
 source: "Fatawa Al-Shaykh Ibn Baz vol 28"
 category: [sects, qadariyyah]
 tags: [ibn-baz]
@@ -14,7 +14,6 @@ muftis:
     - name: Shaykh Abdul-Aziz Ibn Baz
       url: /biography/binbaz/
 ---
-
 ### Question: 
 
 Many people engage in false conversations about Predestination and Divine Decree. Do you have any instructions in this regard? 

@@ -15,14 +15,12 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah no. 5520
 summary: Lesbianism is Haram (prohibited), and is a major sin because it is an act
   that contradicts the Ayahs (Qur'anic verses)
 title: Ruling on lesbianism
 ---
-
-
 Question: 
 
 What is the ruling on lesbianism and masturbation?

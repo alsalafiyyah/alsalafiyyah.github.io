@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: What is the way of solving the Palestinian issue
 date: 2023-06-28
 hijri: '1444-12-10'
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Ibn Baz
     url: /biography/binbaz
 ---
-
-
 ### Question:
 
 What is the way of solving the Palestinian issue which becomes more complicated each day?

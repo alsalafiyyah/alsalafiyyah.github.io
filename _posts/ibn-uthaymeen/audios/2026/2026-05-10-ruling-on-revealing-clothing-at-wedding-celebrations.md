@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-10
 hijri: '1447-11-23'
 title: Ruling on Revealing Clothing at Wedding Celebrations
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 ### Question:
 
 In women's wedding gatherings and celebrations, certain styles of dress have become widespread that cause other women to feel disgusted upon seeing them. For example: a woman wears a dress that reveals part of her chest, while the area above it remains bare with nothing to cover it. What is the ruling on this? And what should my stance be if I see such clothing?

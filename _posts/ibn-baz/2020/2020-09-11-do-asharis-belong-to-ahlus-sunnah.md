@@ -7,7 +7,7 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa of Ibn Baz vol 28
 summary: Do the Al-Asha'irah (Asha'rites/Ash'aris) belong to Ahl Al-Sunnah wal-Jama'ah
   or not?
@@ -16,8 +16,6 @@ tags:
 title: Do the Al-Asha'irah belong to Ahl Al-Sunnah wal-Jama'ah or not?
 translation: false
 ---
-
-
 ### Question:
 
 Do the Al-Asha'irah belong to Ahl Al-Sunnah wal-Jama'ah (those adhering to the Sunnah and the Muslim community) or not? Can we judge them to be Muslims or disbelievers? [^1]

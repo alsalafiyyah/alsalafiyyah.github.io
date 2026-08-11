@@ -14,7 +14,7 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 2758, Question 2
 summary: There are other reasons unknown to many people behind the prohibition of
   Zina and protecting lineage is only one of them. Even if we assume that it is the
@@ -22,8 +22,6 @@ summary: There are other reasons unknown to many people behind the prohibition o
   eliminated.
 title: Confusion in lineage as a reason behind prohibiting Zina
 ---
-
-
 ### Question: 
 
 There is an Ayah (Qur'anic verse) in the Glorious Qur'an, which states that Zina (sexual intercourse outside marriage) is prohibited, and is one of the major sins. It is forbidden in order to prevent confusion of lineage. However, those who oppose Islam say that the matter can be managed by using oral contraceptives and as a result, there will be no reason to prohibit Zina. What is Your Eminence's answer to this claim?

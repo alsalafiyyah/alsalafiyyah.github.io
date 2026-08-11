@@ -4,7 +4,7 @@ hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdul-Aziz Aal al-Shaykh
@@ -14,8 +14,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 15625-2
 title: Luqatah found in Al-Haram
 ---
-
-
 Question: 
 
 I drove to Makkah Al-Mukarramah and parked my car in a parking lot. Upon returning, I found on the hood an electric machine worth about 150 riyals and nobody asked about it. I told some people about it and they asked me for it, am I sinful? Please, explain. May Allah guide you to all good. Amen.

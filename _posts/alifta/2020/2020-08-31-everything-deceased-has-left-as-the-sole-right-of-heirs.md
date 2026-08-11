@@ -4,7 +4,7 @@ hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdullah ibn Qa'ud
@@ -13,8 +13,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 6599
 title: Everything the deceased has left as the sole right of heirs
 ---
-
-
 Question:
 
 There is a tribe that promotes solidarity among its members. If a disaster befalls one of them - Allah forbid! - and the involved person becomes obligated to pay compensation, they all pay what is called Al-Ghurm, where the members of the tribe all bear the cost equally. However, if a member of this tribe dies in a car accident or anything similar, the Diyah (blood money) is distributed among their heirs. Are the other members of the tribe, other than the heirs, entitled to a share in inheritance or Diyah?

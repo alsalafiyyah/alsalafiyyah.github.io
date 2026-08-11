@@ -15,15 +15,13 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 2635, Question 1
 summary: The countries whose rulers and those in power uphold the limits set by Allah
   in their judgments and rule their subjects accordingly where people can act in accordance
   with the Shari'ah are considered Muslim lands.
 title: Conditions of Dar Al-Harb and Dar Al-Kufr
 ---
-
-
 ### Question:
 
 What are the necessary conditions of Dar-ul-Harb (enemy territory/non-believers’ country)?

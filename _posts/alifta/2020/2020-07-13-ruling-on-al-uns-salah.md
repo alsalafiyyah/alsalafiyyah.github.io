@@ -4,7 +4,7 @@ hijri: '1441-11-22'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatwas of the Permanent Committee of KSA, Fatwa no.16128, Question 1
 summary: Al-Uns Salah is one of the innovated Salah. It is an impermissible Bid'ah
   because acts of worship are based on divine texts.
@@ -13,8 +13,6 @@ tags:
 title: Ruling on Al-Uns Salah
 translation: false
 ---
-
-
 ### Question: 
 
 What is the authenticity of Al-Uns Salah (prayer)? It is performed after Maghrib (Sunset Prayer) on the day of burying the deceased. Did the Prophet (peace be upon him) perform such Salah, and how should it be performed?

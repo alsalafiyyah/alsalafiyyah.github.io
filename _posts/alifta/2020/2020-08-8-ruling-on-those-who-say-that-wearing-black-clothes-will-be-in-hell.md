@@ -16,14 +16,13 @@ muftis:
     url: /biography/ghudayyan
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 3635, Question 3
 summary: This claim is speaking in the Name of Allah without knowledge and ruling
   according to one's own desires.
 title: Ruling on those who believes that wearing black clothes will be in Hellfire
   forever
 ---
-
 ### Question: 
 
 Some people claim that if a man makes his wife wear the Hijab (veil) and stay at home, or wear black clothes, her Salah (Prayer) will be invalid; and he will be in Hellfire forever. The believing women who guard their private parts but wear black; however, modest it is, will also be in Hellfire forever.

@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Types of People on Earth Before The Mission of Islam
 hijri: '1446-03-02'
 source: Hidayat Al-hayara Fi Ajwibat al-Yahud wa al-Nasara 1/227-230
@@ -18,8 +18,6 @@ muftis:
   - name: Imam Ibn Al-Qayyim
     url: /biography/alqayyim/
 ---
-
-
 Praise be to Allah.
 
 When God (Allah in Arabic) sent Muhammad (peace be upon him) the people on earth were of two groups: (1) **the people of the Book**, and (2) **the pretenders of faith who followed no Book**.

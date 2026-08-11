@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-04-28
 hijri: '1447-11-11'
 title: 'Justice vs. Disavowal: Dealing with Non-Muslims'
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Salih al-Fawzan
     url: /biography/fawzan/
 ---
-
-
 ### Question: 
 
 This is a questioner from France who asks: You mentioned—may Allah be good to you—how the Prophet (peace and blessings of Allah be upon him) dealt with those who mocked him in Makkah. So, how can one reconcile the concept of disavowal (al-Bara') from the disbelievers with the desire for their guidance and the obligation of not treating them unjustly?

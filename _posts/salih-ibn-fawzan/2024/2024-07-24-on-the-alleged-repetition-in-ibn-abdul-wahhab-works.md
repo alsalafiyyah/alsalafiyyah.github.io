@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: On the Alleged Repetition in Ibn Abd al-Wahhab’s Works
 hijri: '1446-01-18'
 date: 2024-07-24-on-the-alleged-repetition-in-ibn-abdul-wahhab-works.md
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Salih Al-Fawzan
     url: /biography/fawzan
 ---
-
-
 ### Question: 
 
 What is your opinion on someone who describes the writings of Imam Muhammad ibn Abd al-Wahhab in jurisprudence (Fiqh) and creed (Aqeedah) as being repetitive?

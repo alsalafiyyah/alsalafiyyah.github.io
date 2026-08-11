@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The Salaf warned against the story-tellers
 hijri: '1443-07-12'
 source: Al-Ajwibah Al-Mufidah p. 224
@@ -17,8 +17,6 @@ muftis:
   - name: Shaykh Salih Al-Fawzan
     url: /biography/fawzan/
 ---
- 
-
 ### Question: 
 
 The Salaf have mentioned the story-tellers (qassas) in the past and condemned them. What is their method and what should our stance be towards them? 

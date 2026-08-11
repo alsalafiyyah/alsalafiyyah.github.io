@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Rule on a woman refuses any person proposing for her betrothal and wants to
   be married only to her paternal cousins
 hijri: '1442-05-05'
@@ -17,8 +17,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 
 I have a full sister who has reached twenty years of age without getting married. Whenever a man proposes to marry her she refuses, saying "I consent only to being given in marriage to a son of my paternal uncles". It is worth mentioning that most of the sons of her paternal uncles do not perform Salah (Prayer). I hope Your Eminence will guide us to a way out of this impasse?  

@@ -5,7 +5,7 @@ hijri: '1441-01-02'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 2461, question 2
 summary: We do not know of any Islamic legal evidence signifying that bleeding from
   any part of the body other than the vagina invalidates Wudu’ (ablution).
@@ -15,8 +15,6 @@ title: Flowing of blood from anywhere other than the private parts does not inva
   Wudu'
 translation: false
 ---
-
-
 ### Question : 
 
 Does bleeding invalidate the Salah (Prayer)? 

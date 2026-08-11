@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The location of the grave of Al-Husayn
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_168/16806.mp3
 hijri: '1442-03-28'
@@ -21,8 +21,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 People talk a great deal and have different opinions about where the grave of Al-Husayn is located. Can Muslims benefit from knowing exactly where it is? 
 

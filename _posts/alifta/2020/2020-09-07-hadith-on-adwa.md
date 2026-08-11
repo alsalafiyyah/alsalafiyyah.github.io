@@ -15,15 +15,13 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah no. 6335
 summary: Dear Shaykh, kindly confirm the degree of authenticity or weakness of the
   Hadith reported from the Messenger of Allah (peace be upon him) which states, 'Run
   away from the leper as you would run away from a lion.'
 title: 'Hadith: ''Run away from the leper as you would run away from a lion'''
 ---
-
-
 Question:
 
 Dear Shaykh, kindly confirm the degree of authenticity or weakness of the Hadith reported from the Messenger of Allah (peace be upon him) which states, "**Run away from the leper as you would run away from a lion.**"

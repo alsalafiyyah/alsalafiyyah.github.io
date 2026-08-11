@@ -1,7 +1,7 @@
 ---
 published: false
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-04-28
 hijri: '1447-11-11'
 title: Analyzing the Creed of the Deviant Sect Known as NOI (the Nation of Islam)
@@ -21,8 +21,6 @@ muftis:
   - name: Shaykh Muhammad ibn Salih al-Luhaydan
     url: /biography/salih-luhaydan/
 ---
-
-
 ### Question:
 
 All praise is due to Allah, the Lord of all worlds. The [best] outcome is for the righteous, and there is no enmity except against the wrongdoers. May the peace and blessings of Allah be upon our Prophet Muhammad, and upon his family and all his companions.

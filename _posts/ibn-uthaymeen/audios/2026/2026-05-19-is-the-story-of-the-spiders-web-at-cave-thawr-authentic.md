@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-19
 title: Is the Story of the Spider’s Web at Cave Thawr Authentic?
 source: Liqa'a al-Bab al-Maftuh, Tape 229, Question no.5
@@ -21,8 +21,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1447-12-02'
 ---
-
-
 ### Question: 
 
 Is the story of the spider's web and the two doves authentically reported regarding the day the Prophet ﷺ hid in the Cave of Thawr?

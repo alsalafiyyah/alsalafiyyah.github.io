@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is the difference between Al-Hilm and Al-Sabr
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_550/55001.mp3
 hijri: '1442-03-24'
 date: 2020-11-10
@@ -22,8 +22,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 What is the difference between Al-Hilm (forbearance) and Al-Sabr (patience), which is one of Allah's Attributes? 
 

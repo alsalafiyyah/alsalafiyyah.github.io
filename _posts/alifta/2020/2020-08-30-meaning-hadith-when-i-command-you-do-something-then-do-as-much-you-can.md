@@ -13,15 +13,13 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah no. 10593-1
 summary: 'The Prophet (peace be upon him) said: ''Anything I command you to do, perform
   of it as much as you can; and anything I forbid you to do, abandon it.'''
 title: 'The Hadith: ''Anything I command you to do, perform of it as much as you can;
   and anything I forbid you to do, abandon it'''
 ---
-
-
 Question: 
 
 The Prophet (peace be upon him) said: "**Anything I command you to do, perform of it as much as you can; and anything I forbid you to do, abandon it.**" Your Eminence, I hope you can explain this Hadith in brief. What is its significance? Some of the laypeople claim that this Hadith is a Rukhsah (concession), so we can do whatever we can and leave whatever we cannot do. Moreover, this opens the door to abandoning the Sunnah (supererogatory acts of worship following the example of the Prophet).

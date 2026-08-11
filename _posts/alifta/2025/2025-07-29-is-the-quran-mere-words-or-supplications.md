@@ -5,7 +5,7 @@ hijri: '1447-02-04'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah no. 7482, Question 4
 summary: The Qur’an is the Words of Allah. Jibril (Gabriel) was commissioned by Allah
   to hear and convey His Words to Muhammad (peace be upon him) which he recited for
@@ -15,9 +15,6 @@ tags:
 title: Is the Qur'an mere words or supplications as claimed by some people?
 translation: false
 ---
-
-
-
 ### Question
 
 Is the Qur’an just words or supplications as some people claim?

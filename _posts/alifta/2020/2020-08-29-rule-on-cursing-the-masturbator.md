@@ -4,7 +4,7 @@ hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-'Aziz ibn Baz
 - Shaykh Abdul-Razzaq al-Afify
@@ -13,8 +13,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 3201-2
 title: Ruling on cursing the masturbator
 ---
-
-
 Question: 
 
 Is a masturbator included among the seven types of people whom the Prophet (peace be upon him) cursed in one of his Hadiths? I feel ashamed of having practiced this evil habit. What should I do? I have asked Allah to forgive me, but I fear to be among those cursed by the Prophet (peace be upon him).

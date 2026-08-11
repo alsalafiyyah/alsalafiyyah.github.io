@@ -4,7 +4,7 @@ hijri: '1441-12-07'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 4297, Question 3
 summary: 'What is the meaning of the Hadith of the Messenger of Allah (peace be upon
   him): ''During the last days, some young foolish people who will say the best words
@@ -14,9 +14,6 @@ tags:
 title: On Khawarij
 translation: false
 ---
-
-
-
 ### Question: 
 
 What is the meaning of the Hadith of the Messenger of Allah (peace be upon him): "During the last days, some young foolish people who will say the best words will appear. Their faith will not go beyond their throats (i.e. they will have no faith) and will go out from (leave) Islam as an arrow when launched from a bow. So, wherever you find them, kill them, for whoever kills them shall be rewarded on the Day of Resurrection." [^1] Who is meant by this Hadith? Which time is the Messenger (peace be upon him) referring to in this Hadith?

@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Preserving the Sacredness of Allah’s Remembrance and Supplication from the
   Musicalization
 hijri: '1448-02-19'
@@ -24,8 +24,6 @@ muftis:
   - name: Shaykh Abdul-Muhsin ibn Hamad Al-Abbad Al-Badr
     url: /biography/abdulmuhsin-alabbad
 ---
-
-
 Praise be to Allah, and peace, blessings, and benedictions be upon the Messenger of Allah, our Prophet Muhammad, and upon his family, his companions, and whoever follows his guidance.
 
 **To proceed:**

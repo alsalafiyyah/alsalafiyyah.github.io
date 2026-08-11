@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The importance of women's face-veil
 hijri: '1442-02-04'
 locale: en
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 I would like Your Eminence to answer me concerning the importance of a woman covering her face. Is it Wajib (obligatory)? If so, what is the evidence? It is propagated that women used to cover their faces in the Arabian Peninsula during the Turkish era, and this was strictly practiced ever since, to the extent that people considered it to be obligatory for women. I have read also that women, at the time of the Prophet (peace be upon him) and the Rightly-Guided Caliphs, used to participate in many kinds of work and fight in war along with men. Is this true or am I mistaken? I am looking forward to your answer to know the truth. 
 

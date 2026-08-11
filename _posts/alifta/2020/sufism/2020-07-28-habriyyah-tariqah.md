@@ -4,7 +4,7 @@ hijri: '1441-12-07'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 3545
 summary: The only sound and truthful order is that which was introduced by the Prophet
   (peace be upon him) and followed by his Companions. Thus, the one who follows his
@@ -14,9 +14,6 @@ tags:
 title: Ruling on Al-Habriyyah tariqah
 translation: false
 ---
-
-
-
 ### Question: 
 
 What is the Shari'ah ruling on the two Tariqahs (Sufi orders) that are prevalent in Algeria called Al-Habriyyun. They were named after their grand shaykh Al-Habry, who is beloved by them. They believe that they alone are on the right path while other Muslims are in error. Is this Tariqah truthful?

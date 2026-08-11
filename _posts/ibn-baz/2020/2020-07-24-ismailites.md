@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Isma'ilism sect
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat 28
 category:
 - sects
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 The Isma'ilites get their name from their acceptance of Isma'il ibn Ja'far as the divinely appointed spiritual successor (Imam) to Ja'far Al-Sadiq) that oppose our purified Shari'ah (Islamic law). It is Wajib (obligatory) on every Muslim to stick to the Religion of Allah and to worship Him Alone as the Prophet (peace be upon him) and his Sahabah (Companions) did. Every Muslim has also to keep firm on abidance by Din and calling people to it. Such a Din is the true one that was followed by the Sahabah and all those who followed them in righteousness. It is the Din that Ahl-ul-Sunnah wal-Jama'ah have been following until now. 
 
 The main principles of this Din are to believe in Allah and His Messenger (peace be upon him), to worship Allah Alone, to avoid all that contradicts Shari'ah as Allah (Glorified and Exalted be He) commands His Prophet (peace be upon him) to tell people: "Say (O Muhammad صلى الله عليه وسلم to mankind): "If you (really) love Allâh then follow me (i.e. accept Islâmic Monotheism, follow the Qur’ân and the Sunnah), Allâh will love you and forgive you your sins. And Allâh is Oft-Forgiving, Most Merciful." [Aal Imran: 31]

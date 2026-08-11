@@ -16,13 +16,12 @@ muftis:
     url: /biography/ghudayyan
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 8366, Question 3
 summary: It is not permissible for a woman to curse her children in her husband's
   house or in any other place.
 title: Ruling on a man paying no attention to his women's clothes
 ---
-
 ### Question: 
 
 What is the ruling on a man whose female members of his family go out wearing transparent clothing? What is the ruling on a woman who utters curses in her husband's house and curses her children? Please advise us regarding these two questions. May Allah reward you the best.

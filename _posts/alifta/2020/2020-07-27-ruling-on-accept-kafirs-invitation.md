@@ -15,15 +15,13 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah Ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 2165, Question 3
 summary: These people deal with each other so kindly and friendly that they invite
   each other to their respective rooms to eat take-away meals, drinks, fruits or the
   like. I expect to be invited by any of them, Christians or atheist.
 title: Ruling on accept kafirs invitation
 ---
-
-
 ### Question: 
 
 These people deal with each other so kindly and friendly that they invite each other to their respective rooms to eat take-away meals, drinks, fruits or the like. I expect to be invited by any of them, Christians or atheist. May I accept their invitation, and thus have to reciprocate the invitation, or refuse? In fact, I do my best in calling them to Islam verbally or by example In sha’a-Allah (if Allah wills). However, I fear that they may consider it arrogance and Islamic unsociability on my part not to accept their invitation, which might lead them to be disinclined to understand Islam. What is your opinion?

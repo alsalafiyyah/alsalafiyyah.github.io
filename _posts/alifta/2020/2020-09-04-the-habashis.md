@@ -16,7 +16,7 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah no. 19606
 summary: One of the most important characteristics by which those first generations
   were distinguished and by which they achieved a higher level of righteousness than
@@ -24,8 +24,6 @@ summary: One of the most important characteristics by which those first generati
   the Sunnah.
 title: Jama'at-ul-Ahbash (the Habashis)
 ---
-
-
 Praise be to Allah Alone. Peace and blessings be upon the last Prophet, his family, and Companions. 
 
 The Permanent Committee for Scholarly Research and Ifta' has received questions and requests for information about Al-Ahbash Group (the Habashis) and the founder of the group, 'Abdullah Al-Habashy which was founded in Lebanon. This group has many activities in some European countries, America, and Australia. Therefore, the Committee examined the books and articles published by this group, in which it explains its beliefs, thoughts, and call.

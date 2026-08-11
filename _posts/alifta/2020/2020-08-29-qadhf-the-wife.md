@@ -12,15 +12,13 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah Ibn Mani'
     url: /biography/mani/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah no. 302
 summary: This word is one of the clear words of Qadhf (falsely accusing a chaste person
   of involvement in prohibited sexual relations). Claiming that it was said unintentionally
   has nothing to do with its effect.
 title: Qadhf of the wife
 ---
-
-
 Question: 
 
 Due to a quarrel between someone and his wife, he insulted her with obscene language as he said to her: "O adulteress." He claims that this word has come out of him unintentionally and asks about the consequences of this word?

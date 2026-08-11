@@ -15,13 +15,11 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 7150, Question 6
 summary: Hijrah means leaving a non-Muslim to a Muslim country, which is obligatory.
 title: The meaning and conditions of Hijrah
 ---
-
-
 ### Question:
 
 What are the conditions of Hijrah (a believer’s migration to an Islamic land) according to Islam? What is meant by the Hadith: "**Worship (of Allah) at times of turmoil is like Hijrah to me.**" [^1]? 

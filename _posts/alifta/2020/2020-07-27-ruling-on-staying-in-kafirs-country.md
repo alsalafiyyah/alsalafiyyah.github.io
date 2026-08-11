@@ -16,7 +16,7 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Mani'
     url: /biography/mani/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 1177
 summary: On the other hand, Muslims who are able to migrate to Muslim countries, yet
   prefer to live suppressed or servile in non-believers’ countries at the compromise
@@ -24,8 +24,6 @@ summary: On the other hand, Muslims who are able to migrate to Muslim countries,
   on the whole.
 title: Ruling on Staying in non-Muslim country
 ---
-
-
 ### Question: 
  
 What is the ruling on a person who worships Allah Alone and associates nothing with Him in worship, yet he is living with communities of disbelievers and is unable to openly declare his Islam, or clarify its objectives, or leave the non-Muslim country where he lives?

@@ -10,15 +10,13 @@ muftis:
   deputy_chairman:
   - name: Shaykh Abdul-Razzaq Al-Afifi
     url: /biography/afifi/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Daimah no. 6252-7
 summary: It is Haram (prohibited) for a person to write such false stories. The stories
   mentioned the Qur'an, the Sunnah and other factual stories suffice and serve as
   moral lessons.
 title: Ruling on writing fiction
 ---
-
-
 Question: 
 
 Is it permissible for a person to write fiction stories, which are all lies, for children to read and learn from?

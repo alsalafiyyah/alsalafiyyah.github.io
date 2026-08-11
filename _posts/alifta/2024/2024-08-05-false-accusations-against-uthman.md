@@ -10,7 +10,7 @@ lang: en
 layout: post
 mass_edited: true
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.20607
 summary: What this author wrote is all lies and falsehood. It is not permissible to
   spread this, because it is a revilement to the Companions of the Messenger of Allah.
@@ -19,8 +19,6 @@ tags:
 title: False accusations against Uthman
 translation: false
 ---
-
-
 ### Question: 
 
 An author wrote that ‘Uthman ibn ‘Affan, the Man with Two Lights, (may Allah be pleased with him) was killed when he ruled unjustly and that no one offered the Funeral Prayer for him and that he was not buried until three days after his death, after his body had decayed and it had begun to smell. My question is: Is this true and what is the ruling on those who propagate such stories? Is it permissible for a Muslim to hate these people?

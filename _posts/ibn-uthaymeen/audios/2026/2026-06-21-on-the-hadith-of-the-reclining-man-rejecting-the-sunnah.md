@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-06-21
 title: On the Hadith of the Reclining Man Rejecting the Sunnah
 category:
@@ -22,8 +22,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1448-01-06'
 ---
-
-
 ### Question: 
 
 The Prophet ﷺ said: **"Let none of you sit reclining on his couch saying: 'This is the Book of Allah; whatever we find in it to be permissible, we permit, and whatever we find in it to be forbidden, we forbid.' Behold! I have been given the Qur'an and something like it with it."** What is the meaning of his saying: "reclining on his couch" ? Does this Hadith serve as proof for the obligation of following the Messenger ﷺ? If that is the case, what is the meaning of the statement made by the scholars of Islamic jurisprudence: "The Sunnah is that which rewards its doer and does not punish its abandoner"?

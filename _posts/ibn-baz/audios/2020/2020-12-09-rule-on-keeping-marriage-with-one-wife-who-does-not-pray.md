@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on keeping marriage with one wife who does not pray
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_168/16803.mp3
 hijri: '1442-04-24'
@@ -21,8 +21,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 I am a married man, but my wife knows nothing of the Glorious Qur'an and she also does not pray. I have been trying for ten years to get her to pray but all my attempts have failed. Moreover, she does not observe the Islamic dress code and does not accept any advice or instructions concerning this issue. What is the opinion of Your Eminence concerning her? 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-19
 title: Was the Prophet Muhammad ﷺ Created from Light?
 source: Fatawa Nur 'ala al-Darb 331
@@ -22,8 +22,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1447-12-02'
 ---
-
-
 ### Question: 
 
 May Allah be good to you, O Sheikh, and bless you. A questioner to the program says in his question—the questioner is Sudanese: 'Virtuous Sheikh, people say that the Messenger was created from light ($nur$). Is this statement correct?

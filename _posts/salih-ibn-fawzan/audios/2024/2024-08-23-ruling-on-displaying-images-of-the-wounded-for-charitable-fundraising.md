@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on Displaying Images of the Wounded for Charitable Fundraising
 hijri: '1446-02-19'
 date: 2024-08-23
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Salih Al-Fawzan
     url: /biography/fawzan
 ---
-
-
 ### Question:
 
 ​Some exhibitions are organized to illustrate the wounds and suffering of Muslims in Palestine and elsewhere. These exhibitions feature images of the wounded and the deceased, and sometimes these are displayed via video. The intent behind this is to urge Muslims to donate to their brothers. Is this practice permissible?

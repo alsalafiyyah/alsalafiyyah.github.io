@@ -8,14 +8,12 @@ muftis:
   shaykh:
   - name: Shaykh Ibn 'Uthaymeen
     url: /biography/uthaymeen/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Rasa'il Vol.1/No.122
 summary: If Muhammad ﷺ was the last of the Prophets, then he (ﷺ) was also the last
   of the Messengers for there is no Messengership without Prophethood.
 title: Are the Prophets also Messengers?
 ---
-
-
 ### Question:
 Are the Prophets mentioned in the saying of Allah, the Most High: **“Verily, We have inspired you (O Muhammad (peace and blessings be upon him)) as We inspired Nooh…"**, Messengers or not? And who is the first Messenger?
 

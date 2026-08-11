@@ -13,15 +13,13 @@ muftis:
   members:
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA no. 20062-2
 summary: The printing of useful books that benefit people in their religious and worldly
   affairs is a good act, for which the Muslim will be rewarded during their life and
   it will be of ongoing benefit and reward after their death.
 title: Publishing Islamic books as a Sadaqah Jariyah (ongoing charity)
 ---
-
-
 Question:
 
 Does the printing of valid Islamic books benefit a Muslim after death, and can it be considered as knowledge by which people may benefit, as mentioned in the Hadith? 

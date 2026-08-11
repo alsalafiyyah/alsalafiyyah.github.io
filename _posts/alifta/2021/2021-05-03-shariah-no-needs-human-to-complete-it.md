@@ -4,7 +4,7 @@ hijri: '1442-09-21'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Daimah, Fatwa no. 2467
 summary: The fundamental rule on the acts of worship is that it is bound by a religious
   text and not subject to personal opinion
@@ -13,8 +13,6 @@ tags:
 title: Acts of worship are Tawqifi
 translation: false
 ---
-
-
 ### Question: 
 
 Please comment on the Hadith mentioned below, as it is controversial among the students of knowledge. I would like you to explain it in writing, so that they can all read the explanation and correct this misconception. The Hadith states: "**Jabir ibn 'Abdullah (may Allah be pleased with him) narrated that Whenever Allah's Messenger (peace he upon him) delivered a Khutbah (sermon), his eyes would become red, his tone loud, and his anger increased as if he were warning against an attacking army, saying: "The enemy is about to strike in the morning and is advancing against you in the evening." He would also say: "The last Hour and I have been sent like these two"; he would join his forefinger and middle finger; and would further say: "The best of speech is embodied in the Book of Allah, and the best of guidance is that given by Muhammad (peace be upon him). The most evil affairs are novelties; and every Bid'ah leads to misguidance." Then, he would say: "I should be dearer to Muslims than themselves. If a person leaves behind property, it will be for their families. If a person dies while in debt or leaves children (in need), the responsibility (of paying their debt and bringing up their children) lies on me.**" Narrated by Muslim [^1]. It is mentioned in the Hadith that "**every Bid'ah leads to misguidance.**" [^2]

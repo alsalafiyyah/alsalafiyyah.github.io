@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-04-24
 hijri: '1447-11-07'
 title: Who exactly are the People of the Book?
@@ -21,8 +21,6 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 ### Question:
 
 This is a letter that reached us from a listener named Abd al-Hamid al-Barbari, an Egyptian residing in Riyadh. He asks in his letter: Is a Christian considered among the ranks of the disbelievers, bearing in mind that he is from the People of the Book? And who exactly are the People of the Book? Please advise us, may Allah bless you.

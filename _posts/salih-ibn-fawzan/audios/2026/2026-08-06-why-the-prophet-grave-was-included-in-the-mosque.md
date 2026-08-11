@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-08-06
 hijri: '1448-02-23'
 title: Why the Prophet's Grave Was Included in the Mosque
@@ -24,8 +24,6 @@ muftis:
   - name: Shaykh Salih al-Fawzan
     url: /biography/fawzan/
 ---
-
-
 ### Question: 
 
 May Allah be good to you, Your Eminence Shaykh, this questioner asks: How do we respond to the Sufis who cite the grave of the Prophet, peace and blessings be upon him, and [the fact] that he is buried inside his mosque?

@@ -12,14 +12,12 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Mani'
     url: /biography/mani/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatwa of the Permanent Committee no. 511
 summary: 'If they fail after exerting effort to pronounce it properly, they are excused
   and they may pronounce it in the way they can. '
 title: Inability to properly pronounce the Arabic letter 'ض' [dad]
 ---
-
-
 ### Question:
 
 What is the ruling on inability to properly pronounce the letter "ض" (Dad) from its place of articulation while reciting the Qur’an? People have differed over this. Some hold the view that the one who cannot pronounce it may replace it with the letter "ظ" (Dha’). Others say that it may be replaced with the letter "د" (Dal). Please clarify the issue for us. 

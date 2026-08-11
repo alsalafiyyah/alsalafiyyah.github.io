@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Prohibition of giving women in marriage without their permission
 hijri: '1442-05-05'
 source: Fatawa Shaykh Ibn Baz p. 20/409
@@ -16,8 +16,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 
 My father forced my sixteen years old sister to marry a man whom she does not desire. She tries now to commit suicide saying that death is more desirable to her than this man.

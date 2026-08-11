@@ -4,7 +4,7 @@ hijri: '1441-11-10'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah no.6899, Question 6
 summary: 'The Problem of Sufism: What does it mean and what is the attitude of Islam
   toward it? I mean Al-Tijaniyyah and Al-Qadiriyyah (a deviant sect that claims Allah
@@ -15,9 +15,6 @@ tags:
 title: Sufism and their false ancriptions
 translation: false
 ---
-
-
-
 ### Question: 
 
 The Problem of Sufism: What does it mean and what is the attitude of Islam toward it? I mean Al-Tijaniyyah and Al-Qadiriyyah (a deviant sect that claims Allah has no power over His Creation and humans are independent of Him), as well as the Shi'ah. These sects are centralized in Nigeria. For example, the Al-Tijaniyyah Sufi order has a sort of Salah (prayer) called Bakriyyah that starts with: "O Allah, convey Your blessings on our master Muhammad, the Opener of what is closed... As much as his great rank and high esteem." This invocation is superior to Al-Salah Al-Ibrahimiyyah (The invocation pronounced in the second part of Tashahhud). We have read this (invocation) in their book titled "Jawahir Al-Ma'any" (The Jewels of Meanings) Part 1, page 136. Is this correct?

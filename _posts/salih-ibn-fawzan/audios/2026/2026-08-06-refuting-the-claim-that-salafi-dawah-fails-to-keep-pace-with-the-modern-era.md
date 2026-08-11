@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-08-06
 hijri: '1448-02-23'
 title: Refuting The Claim That Salafi Da'wah Fails to Keep Pace with the Modern Era
@@ -22,8 +22,6 @@ muftis:
   - name: Shaykh Salih al-Fawzan
     url: /biography/fawzan/
 ---
-
-
 ### Question: 
 
 Someone says: A preacher claims that the Wahhabi and Salafi da'wah movements—including the da'wah of Shaykh Muhammad ibn Abd al-Wahhab—have all failed to keep pace with the modern era in which we live. How do we respond to this misconception?

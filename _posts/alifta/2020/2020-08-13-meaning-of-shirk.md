@@ -8,15 +8,13 @@ muftis:
   shaykh:
   - name: Shaykh Ibn Baz
     url: /biography/binbaz
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa 4/32, Question 1
 summary: Shirk is defined as associating others with Allah in worship, such as invoking,
   seeking relief, making vows, offering prayers, fasting, or slaughtering animals
   for the idols.
 title: Meaning of Shirk
 ---
-
-
 ### Question:
 
 What does Shirk mean? What is the meaning of Allah's Saying: "**O you who believe! Do your duty to Allâh and fear Him. And seek the means of approach to Him**" [al-Maidah: 35]?

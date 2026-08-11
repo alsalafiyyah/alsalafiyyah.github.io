@@ -4,7 +4,7 @@ hijri: '1441-11-11'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatwas of the Permanent Committee of KSA, Fatwa no.6433, Question 5
 summary: Working according to Bid'ahs (innovations in religion) prevails in most of
   the Sufi orders. We advise you to follow the guidance of the Prophet (peace be upon
@@ -14,9 +14,6 @@ tags:
 title: What is the ruling of Islam on the Sufi orders that exist today
 translation: false
 ---
-
-
-
 ### Question: 
 
 What is the ruling of Islam on the Sufi orders that exist today?

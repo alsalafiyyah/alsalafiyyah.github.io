@@ -8,15 +8,13 @@ muftis:
   shaykh:
   - name: Shaykh Ibn Baz
     url: /biography/binbaz
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat 4/226, question 12
 summary: The caller to Islam must explain to them the defects and bid'ahs in the schools
   which they have been influenced by, the orders which they have been affiliated to,
   and the milieus where they live.
 title: How to call those who are influenced by certain cultures to Islam
 ---
-
-
 ### Question:
 
 What is the best way to practice Da'wah (calling to Islam) with people who are influenced by certain cultures or communities?

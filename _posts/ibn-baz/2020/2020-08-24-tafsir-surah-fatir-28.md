@@ -8,7 +8,7 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 published: true
-publisher: alsalafiyyah@icloud.com, salafiyyah@outlook.sa
+publisher: alsalafiyyah.manhaj@gmail.com, salafiyyah@outlook.sa
 source: Majmu' Fatawa wa Maqalat 5/48
 summary: This lofty Ayah indicates that those who possess knowledge about Allah, His
   Din (Religion), His Glorious Book, and the Sunnah of His Prophet have the most perfect
@@ -16,8 +16,6 @@ summary: This lofty Ayah indicates that those who possess knowledge about Allah,
 title: Tafsir Surah Fatir Ayat 28
 uid: tafsir-surah-fatir-28
 ---
-
-
 Question: 
 
 Please provide the (explanation/exegesis) of the Saying of Allah, "**It is those who have knowledge among His slaves that (most) fear Allâh.**" [Fatir: 28]

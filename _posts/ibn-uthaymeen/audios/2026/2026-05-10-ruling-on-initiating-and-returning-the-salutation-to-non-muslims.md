@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-10
 hijri: '1447-11-23'
 title: Ruling on Initiating and Returning the Salutation to Non-Muslims
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 ### Question:
 
 These are questions and inquiries received from listeners. We begin with the sender, Ibrahim bin Maqbool, who asks: "If a non-Muslim approaches you and initiates the greeting of Salam (peace), is it permissible to respond by saying: 'Wa Alaykum as-Salam' (And upon you be peace)? What is the proper way to respond to him? Also, is it permissible to initiate the greeting with him? What is your opinion? May Allah guide you to the best of deeds."

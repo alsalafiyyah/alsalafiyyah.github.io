@@ -4,7 +4,7 @@ hijri: '1441-12-08'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 6505, Question 14
 summary: What is the ruling of Islam on the Jews and the Christians, for example,
   to whom the message of Prophet Muhammad (peace be upon him) has been conveyed.
@@ -13,8 +13,6 @@ tags:
 title: Rule on Deeming Jews and Christians to be disbelievers
 translation: false
 ---
-
-
 ### Question: 
 
 What is the ruling of Islam on the Jews and the Christians, for example, to whom the message of Prophet Muhammad (peace be upon him) has been conveyed; so they know about it but they do not follow it and follow their own religions instead?

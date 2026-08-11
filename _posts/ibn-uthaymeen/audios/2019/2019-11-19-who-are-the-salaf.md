@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2019-11-19
 hijri: '1441-03-22'
 title: Who Are The Salaf
@@ -24,8 +24,6 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 ### Question: 
 
 This is a female listener from Riyadh with a group of questions. In her first question, she asks: "I hear about the Salaf; who are the Salaf, O virtuous Shaykh?

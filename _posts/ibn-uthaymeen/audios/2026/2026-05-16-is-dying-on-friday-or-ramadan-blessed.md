@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-16
 title: Are Those Who Die on Friday or in Ramadan Spared from Grave Punishment?
 source: 'Fatawa Nur ''ala al-Darb / Tape no: 207'
@@ -22,8 +22,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1447-11-29'
 ---
-
-
 ### Question: 
 
 The listener also asks in his second question: Do the dead see one another after death?

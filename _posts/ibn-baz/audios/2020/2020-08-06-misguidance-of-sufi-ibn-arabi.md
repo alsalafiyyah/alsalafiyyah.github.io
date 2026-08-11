@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Revealing the misguidance of the Sufi scholar Ibn 'Arabi
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Nur 'Ala al-Darb vol 3
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_718/nour_71815.mp3
 link: https://cutt.ly/rdGfqSg
@@ -23,8 +23,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 A questioner from the Syrian Arab Republic asks: I am inquiring about Sufis and their reality and superstitions, because we hear a lot about them, especially what is written in the books of Muhyiddin ibn 'Arabi the Sufi. Please guide us. May Allah reward you with the best. 
 

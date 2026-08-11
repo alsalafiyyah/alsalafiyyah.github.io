@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Issue on painting, drawing, sculpture, photography
 hijri: '1442-03-11'
 source: Issued by the office of His Eminence when he was the President of the Islamic
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 Is it permissible for a teacher to draw animate beings in the course of teaching as a visual aid, bearing in mind that many Sahih (authentic) Hadiths prohibit Taswir (painting, drawing, sculpture, and photography) of animate objects? 

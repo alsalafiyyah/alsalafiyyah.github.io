@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Refuting Fatwas on the Killing of Foreign Nationals
 date: 2026-06-12
 category:
@@ -19,8 +19,6 @@ muftis:
     url: /biography/fawzan
 hijri: '1447-12-26'
 ---
-
-
 ### Question:
 
 May Allah be good to you, Your Eminence. A questioner asks: There are those who issue religious verdicts (fatwas) permitting the killing of non-Muslims residing in the Arabian Peninsula, justifying this by claiming that they do not possess a treaty of protection (mu‘āhadīn) because their home countries kill Muslims under the pretext of combating terrorism. Is this fatwa correct?

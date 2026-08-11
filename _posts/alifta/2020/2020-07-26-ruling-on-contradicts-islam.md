@@ -16,15 +16,13 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 6833
 summary: It is unlawful to support or ally oneself with him. It is the duty of the
   people qualified to advise and instruct others to admonish and guide him to the
   truth and establish against him the Evidence from Allah.
 title: Ruling on those contradicts decisive texts from the Qur'an and authentic Hadith
 ---
-
-
 ### Question: 
 
 What is the opinion of the knowledgeable scholars on a man who contradicts decisive texts from the Qur’an and authentic Hadith? Upon receiving advice and admonition, he says: “There is nothing wrong with what I do.” If he judges among people, he gives false judgments contradicting the Qur’an and Hadith. This ruler rarely performs Salah (Prayer) or Sawm (Fast). Moreover, he allies himself with disbelievers, wicked people and followers of corrupted creeds. He permits what has been forbidden by Allah, like vowing to other than Allah, drinking alcohol, dealing in Riba (usury/interest), taking bribes, dishonest and illegal transactions. 

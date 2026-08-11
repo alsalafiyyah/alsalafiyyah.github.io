@@ -9,7 +9,7 @@ hijri: '1442-01-17'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Daimah no. 1361, Question 2
 summary: It refers to those following the way of the Salaf of the early Muslim generation
   in their adherence to the Qur‘an and the Sunnah.
@@ -17,8 +17,6 @@ tags:
 - alifta
 title: What is Salafiyyah?
 ---
-
-
 ### Question:
 
 What is “Salafiyyah”? and what is your opinion regarding it?

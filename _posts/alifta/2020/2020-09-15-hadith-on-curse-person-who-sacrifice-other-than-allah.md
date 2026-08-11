@@ -4,7 +4,7 @@ hijri: '1442-01-27'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 5276, Question 11
 summary: What is meant by this Hadith is the prohibition of offering sacrifices to
   the dead prophets or pious people, seeking their blessing; or offering sacrifices
@@ -13,8 +13,6 @@ summary: What is meant by this Hadith is the prohibition of offering sacrifices 
 title: 'The Hadith: ''Allah curses the person who offers a sacrifice to anyone other
   than Allah'''
 ---
-
-
 ### Question:
 
 The Messenger of Allah (peace be upon him) said: "**Allah curses the person who offers a sacrifice to anyone other than Allah … "** [^1] what is meant by this exactly given that here in the South when we slaughter animals to entertain guests or as meat for the household, people say, “In the Name of Allah and upon the religion of the Messenger of Allah, this is a Sadaqah (voluntary charity) purely for the Sake of Allah. O Allah! Please grant the reward for this to me and my household?” 

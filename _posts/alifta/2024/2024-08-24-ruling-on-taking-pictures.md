@@ -9,14 +9,12 @@ muftis:
   - name: Permanent Committee
     url: /biography/alifta
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Islamiyah 8/156
 summary: Pictures of the living -humans and animals- are unlawful except for necessity
   such as identity, passport, or photos of criminals.
 title: The ruling on taking pictures
 ---
-
-
 ### Question: 
 What is the ruling on photographs, when they are for necessity and when they are for adornment?
 

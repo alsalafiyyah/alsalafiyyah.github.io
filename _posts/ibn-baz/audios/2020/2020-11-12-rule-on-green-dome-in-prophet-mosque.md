@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on the green dome on the grave of the Prophet (peace be upon him)
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_667/nour_66701.mp3
 hijri: '1442-03-26'
@@ -28,8 +28,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 We learnt from Shaykh Abdul- 'Aziz ibn Abdullah ibn Baz that domes and other buildings on graves are impermissible. So, what is the ruling on the green dome found on the grave of the Noble Messenger (peace be upon him) in Al-Madinah Al-Munawwarah? 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: A Scholarly Critique of Darwinian Theory
 source: Majmu' Fatawa wa Maqalat 28/275
 category:
@@ -17,8 +17,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 It is known that some people believe their origin is animal, in agreement with Western theory; what is your opinion on that?

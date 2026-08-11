@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The Ruling on Declaring a Specific Individual a Disbeliever
 hijri: '1446-02-29'
 source: Gharatul Ashritah 2/291
@@ -25,8 +25,6 @@ muftis:
   - name: Shaykh Muqbil Ibn Hadi Al-Wadi'i
     url: /biography/muqbil/
 ---
-
-
 ### Question: 
 
 Is it permissible to declare a specific individual a disbeliever, and did the Salaf declare specific individuals as disbelievers in the past?

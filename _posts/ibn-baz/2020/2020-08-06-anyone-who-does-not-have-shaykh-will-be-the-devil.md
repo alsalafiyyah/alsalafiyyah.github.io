@@ -10,7 +10,7 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Nur 'Ala al-Darb vol 3
 summary: The only path that must be adopted is that of the Prophet (peace be upon
   him). It is the way of Ahl-us-Sunnah wal-Jama'ah (adherents to the Sunnah and the
@@ -21,8 +21,6 @@ title: 'On false statement: ''Anyone who does not have a shaykh, his shaykh will
   the devil'''
 translation: false
 ---
-
-
 ### Question:
 
 This questioner from Cairo asks a long question: Your Eminence Shaykh, is it obligatory to have a mediator between one and Allah (Glorified and Exalted be He)? For instance, can I not attain the Good Pleasure of Allah except by means of a shaykh. Those who claim this use the Hadith: "**Anyone who does not have a shaykh, his shaykh will be the devil.**" They also say that this shaykh follows the way of Shaykh Al-Rifa'i and this Shaykh follows the way of Shaykh Al-Shadhili. Are these so-called saints have supernatural powers gifted to them by Allah after their death? Do they have certain ways which we have to follow after their death so they will be pleased with us in their graves for continuing to follow their ways? The questioner continues in his question about this issue, may Allah reward you with the best. 

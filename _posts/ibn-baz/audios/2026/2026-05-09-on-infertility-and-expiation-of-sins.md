@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-09
 hijri: '1447-11-22'
 title: On Infertility and the Expiation of Sins
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 The following message reached the program from Kuwait, Salmiya, sent by our brother Khalid Muhammad Manahi. Our brother has two questions. His first question says: The Messenger of Allah ﷺ said: **'No worry, grief, or sadness afflicts a believer, even the prick of a thorn, except that Allah expiates his sins because of it.'** I hope to be informed about the authenticity of this Hadith. If it is authentic: Is infertility—meaning the inability to have children—considered an expiation for the sins of the children of Adam? This is because infertility is a cause of sadness for a person due to the absence of children, and Allah has made children and wealth among the adornments of the life of this world. Please guide me, and may Allah reward you with goodness.

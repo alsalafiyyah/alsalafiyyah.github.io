@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on Palmistry
 hijri: '1442-04-01'
 date: 2020-11-16
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 Some people say that the lines on the right palm are in the shape of the Arabic number 18 and those on the left are in the shape of the number 81. The total of these two numbers is 99, which they say is the number of Allah’s Most Beautiful Names. Is this true? 
 

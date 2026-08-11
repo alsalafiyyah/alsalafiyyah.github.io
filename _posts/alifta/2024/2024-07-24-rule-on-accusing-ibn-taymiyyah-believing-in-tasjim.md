@@ -10,14 +10,12 @@ hijri: '1446-01-18'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah, Fatwa no. 17458, Question 1
 summary: Anyone who alleges that the Shaykh of Islam Ibn Taymiyyah believed in anthropomorphism
   is totally ignorant of the creed of Ahl-ul-Sunnah wal-Jama'ah.
 title: Ruling on accusing Shaykh Al-Islam Ibn Taymiyyah of believing in anthropomorphism
 ---
-
-
 ### Question: 
 Some of the beliefs that are common in our country say that the Shaykh of Islam Ibn Taymiyyah (may Allah be merciful to him) believed in Tajsim (anthropomorphism) and that he tried to prove that Allah (Exalted be He) has a body like humans. Moreover, people say that the Shaykh of Islam Muhammad ibn Abdul-Wahhab (may Allah be merciful to him) was a mischievous person; not a righteous one. He spread corruption in the Arab countries and he was astray and caused people to go astray. May Allah protect us from such beliefs. We are sending you two magazines (Nur Al-Yaqin and Al-Fajr Al-Sadiq) to check them.
 

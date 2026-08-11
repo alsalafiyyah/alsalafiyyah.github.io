@@ -2,7 +2,7 @@
 layout: post
 published: false
 draft: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Advice for the Muslim Woman
 date: 2024-07-28
 source: Friday Sermon, Sermon No. 13060
@@ -20,8 +20,6 @@ muftis:
     url: /biography/fawzan
 hijri: '1446-01-22'
 ---
-
-
 ### First Sermon 
 
 Praise be to Allah, Who created the male and the female, and made a distinction between them: "And the male is not like the female."

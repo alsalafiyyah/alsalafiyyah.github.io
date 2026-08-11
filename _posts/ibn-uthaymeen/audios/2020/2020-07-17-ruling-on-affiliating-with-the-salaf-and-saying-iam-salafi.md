@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2020-07-17
 title: Ruling on Affiliating with the Salaf and Saying 'I am Salafi'
 source: Fatawa Nur 'ala al-Darb 53
@@ -21,8 +21,6 @@ muftis:
     url: /biography/uthaymeen
 hijri: '1441-11-26'
 ---
-
-
 ### Question:
 
 May Allah reward you with goodness. A questioner asks: Virtuous Sheikh, what is the ruling on affiliating oneself with the Pious Predecessors (al-Salaf al-Salih) and our saying, 'I am Salafi in creed'?

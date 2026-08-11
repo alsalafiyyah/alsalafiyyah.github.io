@@ -8,7 +8,7 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat 5/243, question no. 4
 summary: This phrase means passing over (the Sirat) as it was proved by authentic
   Hadith reported from the Prophet (peace be upon him). Allah will save those who
@@ -17,8 +17,6 @@ summary: This phrase means passing over (the Sirat) as it was proved by authenti
 title: Tafsir Surah Maryam Ayat 71
 uid: tafsir-surah-maryam-71
 ---
-
-
 Question: 
 
 What is meant by His (Glorified be He) Saying, "**And there is none of you except he will come to it.**" [Maryam: 71] And does the phrase "will come to it" mean entering Hell or passing over the Sirat (the bridge over the Fire)?

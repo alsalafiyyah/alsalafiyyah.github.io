@@ -13,14 +13,12 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdulla ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 4243, Question 5
 summary: Treatment is not allowed by means of unlawful matters, for the legal evidence
   that proves its prohibition.
 title: Ruling on treatment with narcotics
 ---
-
-
 ### Question:
 As a physician, it is sometimes necessary to use narcotics such as Morphine, Cocaine, and Valium in treatment. What is the ruling on this? What is the ruling on post-mortem anatomy? 
 

@@ -4,7 +4,7 @@ hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdul-Razzaq al-Afify
@@ -12,8 +12,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 9508
 title: Ruling holding a funeral ceremony for the deceased
 ---
-
-
 Question:
 
 My mother (may Allah be merciful to her) gave me around LE 5,000 to invest for her, but she died on 2/8/1983 A.D. I have spent around LE 2,000 on her funeral ceremony and Sadaqah (voluntary charity) on her behalf for the sake of Allah (Exalted be He). Therefore, the sum in my possession which belongs to all heirs was LE 3,000, and it remained with me for a whole year till 12/7/1984 A.D. This sum of money was put in an investment project and yielded a profit of LE 545.

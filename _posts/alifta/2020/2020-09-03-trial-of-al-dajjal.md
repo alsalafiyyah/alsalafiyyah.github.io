@@ -15,15 +15,13 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 1758
 summary: It is authentically reported from the Prophet - peace be upon him - that
   Al-Masih Al-Dajjal will appear at the end of time and will command the sky to rain,
   so it will, and command the earth to bring forth vegetation, so it will.
 title: The trial of Al-Dajjal
 ---
-
-
 ### Question: 
 
 We heard about the story of Fitnah (trial) of Al-Masih-ul-Dajjal (the Antichrist), that he will command the sky to rain and the earth to produce and bring out its treasures, and kill a man and revive him again. Our teachers say that what Al-Dajjal will do will not be real, they will be illusions by which he will delude people. Appreciate your guidance may Allah guide you! 

@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Distinguishing Between the Salafi
 date: 2026-08-04
 category:
@@ -17,8 +17,6 @@ muftis:
     url: /biography/fawzan
 hijri: '1448-02-21'
 ---
-
-
 ### Question:
 
 Is it true that you say "Al-Ikhwan Al-Muslimin" (the Muslim Brotherhood), the "Tablighi Jama'at", and others are included within al-Salafiyyah (Salafism)?

@@ -17,7 +17,7 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah Ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-lajnah Al-Da'imah of KSA no. 4138
 summary: It is obligatory on every Muslim to convey the knowledge they have, whether
   it is much or little to those who do not know it, without any limitations on time
@@ -25,8 +25,6 @@ summary: It is obligatory on every Muslim to convey the knowledge they have, whe
   convey it, and this becomes obligatory if there is no one else who can do it.
 title: Extent of obligatory knowledge
 ---
-
-
 Question : 
 
 I would like to know the extent of the knowledge that it is conditional to know before practicing Da‘wah (calling to Islam). What type of knowledge should be studied and how can it be obtained? Which books should be studied in particular, please let me know their names, and whether it is stipulated that they should be taught by a scholar or not? How do we begin calling others to the Truth? Please explain the method clearly, bearing in mind that I am a student in the Faculty of Medicine, which requires that I spend a lot of time and effort in studying. I hope that you will answer me in detail, not just a summary, so anyone will be able to understand it. 

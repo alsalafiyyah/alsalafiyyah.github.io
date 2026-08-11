@@ -4,7 +4,7 @@ hijri: '1441-12-07'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 2289, Question 2
 summary: What you have mentioned in regards to women who belong to Bohras and kiss
   the hands and feet of their leader and each of his family members, is impermissible.
@@ -16,9 +16,6 @@ title: Dawoodi Bohras women kissing their leader's hands and feet and those of h
   family
 translation: false
 ---
-
-
-
 ### Question: 
 
 It is a tradition for women to kiss the hands and feet of the leader of their sect. They even kiss the hands and feet of each one of his family members. Is it permissible in Islam for women to touch the hands of these non-Mahram men?

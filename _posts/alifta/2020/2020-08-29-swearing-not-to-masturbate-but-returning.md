@@ -4,7 +4,7 @@ hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-'Aziz ibn Baz
 - Shaykh Abdul-Razzaq al-Afify
@@ -15,8 +15,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 17042-3
 title: Ruling on swearing not to masturbate but returning to it
 ---
-
-
 Question: 
 
 I committed masturbation several times. Once I took an oath by the Mus-haf (copy of the Qur'an) that I will never masturbate again. However, two weeks after taking the oath, I masturbated to evade committing the major sin of fornication - may Allah save us from that. What is the ruling on breaking this oath and what is the Kaffarah (expiation)? Is there any difference between making an oath on the Mus-haf while holding it and making an oath without holding it?

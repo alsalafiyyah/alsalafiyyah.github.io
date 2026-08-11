@@ -8,14 +8,12 @@ muftis:
   shaykh:
   - name: Permanent Committee
     url: /biography/alifta
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Islamiyah 8/217
 summary: As for shaking with both of his hands, we are not aware of anything in that
   regard, rather, it should not be done.
 title: The ruling on shaking with both hands
 ---
-
-
 ### Question:
 Is it permissible to shake using both hands?
 

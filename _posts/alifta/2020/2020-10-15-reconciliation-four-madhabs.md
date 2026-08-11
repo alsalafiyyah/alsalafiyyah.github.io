@@ -13,14 +13,12 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-lajnah Al-Da'imah no. 5560
 summary: A Muslim is not required to combine between the ways followed by the four
   Madhabs (Schools of Jurisprudence) in his deeds.
 title: Reconciliation of the Four Schools of Jurisprudence
 ---
-
-
 ### Question:
 
 I am a student at the Teachers Institute in Ha'il. The teacher of religion told us that we can not follow the ways of the Four Imams (Imams Abu Hanifah, Malik, Al-Shafi'i, and Ahmad) with regard to Salah (Prayer), Wudu' (ablution), Sawm (fast) and other obligations. The teacher meant that we could not combine between the ways followed by the Four Imams in Shari'ah (Islamic law). I hope you can clarify for us if this saying is true or false. Are there any books that tackle this problem? 

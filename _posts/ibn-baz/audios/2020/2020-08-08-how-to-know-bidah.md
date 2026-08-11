@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to know the Bid'ah and its divisions
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_512/51202.mp3
 link: https://cutt.ly/4dB5HEc
 hijri: '1441-12-18'
@@ -22,8 +22,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 How can we know the Bid'ah and its divisions, respected Shaykh?

@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Is the Crescent a Religious Symbol?
 hijri: '1446-02-19'
 date: 2024-08-23
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Salih Al-Fawzan
     url: /biography/fawzan
 ---
-
-
 ### Question: 
 
 May Allah reward you with goodness and be generous to you, why do Muslims use the crescent symbol on the minarets of their mosques?

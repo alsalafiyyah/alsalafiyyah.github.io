@@ -5,14 +5,12 @@ hijri: '1442-01-07'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 4804, Question 6
 summary: Azar is a Persian name of the father of Abraham, peace be upon him, according
   to the most authentic scholars' opinions.
 title: The name of Abraham's father
 ---
-
-
 ### Question:
 Was the father of Ibrahim (Abraham) Al-Khalil (The Close Servant) (peace be upon him) called Azar or Azaar? Is it derived, as some people claim, from a past tense verb meaning "committed a sin" - that is to say, disobeying Ibrahim (Abraham) Al-Khalil, or from the noun "wizr" (sin)? Which of them is correct?
 

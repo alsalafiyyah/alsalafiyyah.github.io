@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-07-29
 title: Why Does Allah Mention Command Good Before Faith?
 category:
@@ -22,8 +22,6 @@ muftis:
     url: /biography/fawzan/
 hijri: '1448-02-15'
 ---
-
-
 ### Question: 
 
 This is a questioner who says: What is the significance of presenting the command to do good and the prohibition of evil before the mention of faith in the Almighty's statement: **"You [true believers in Islamic Monotheism, and real followers of Prophet Muhammad ﷺ and his Sunnah] are the best of peoples ever raised up for mankind; you enjoin Al-Ma‘ruf (i.e. Islamic Monotheism and all that Islam has ordained) and forbid Al-Munkar (polytheism, disbelief and all that Islam has forbidden), and you believe in Allah."** [Ali 'Imran, 110] ?

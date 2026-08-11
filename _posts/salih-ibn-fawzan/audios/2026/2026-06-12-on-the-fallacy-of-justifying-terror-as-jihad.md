@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-06-12
 title: On the Fallacy of Justifying Terror as Jihad
 category:
@@ -24,8 +24,6 @@ muftis:
     url: /biography/fawzan/
 hijri: '1447-12-26'
 ---
-
-
 ### Question: 
 
 One of the brothers requests your Eminence's comment on those who claim that Allah restricted the prohibition of killing a soul to acts of "aggression and injustice." Thus, a suicide bomber essentially says, "I am only doing this for a greater benefit, which is Jihad in the cause of Allah and fighting the tyrants of the earth," and that the Prophet (peace and blessings of Allah be upon him) defined that prohibition strictly as intentional suicide [out of despair]. We ask Allah for safety and well-being.

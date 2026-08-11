@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: How to achieve Tawhid
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_595/59520.mp3
 hijri: '1442-04-22'
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Ibn Baz
     url: /biography/binbaz
 ---
-
-
 ### Question: 
 This questioner, O Noble Sheikh, is asking: How does a Muslim achieve Tawheed (belief in in the Oneness of Allah)?
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Sufi Charlatanism & Tomb Veneration
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-07-02
 active: audios
 category:
@@ -21,8 +21,6 @@ muftis:
     url: /biography/binbaz/
 hijri: '1448-01-17'
 ---
-
-
 ### Question: 
 
 In some countries, there are people who seclude themselves (i'tikaf) around graves for a number of years. Afterward, they claim that the deceased in the grave has permitted them to go out and call people to worship Allah. Nevertheless, they have practices where they let people stab themselves with daggers, claiming that this is a miracle granted to them, and they claim to be allies (awliya) of Allah. What is your Eminence’s opinion regarding such people?

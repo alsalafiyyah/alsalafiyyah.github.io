@@ -4,7 +4,7 @@ hijri: '1442-01-03'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com, salafiyyah@outlook.sa
+publisher: alsalafiyyah.manhaj@gmail.com, salafiyyah@outlook.sa
 shaykhs:
 - Shaykh Ibn Baz
 - Shaykh Abdullah ibn Ghudayyan
@@ -14,8 +14,6 @@ summary: We have a custom that whenever any distress like an accident or death b
   a person or any of his family.
 title: On a habit dated to occur twenty, thirty or forty days after the time of death
 ---
-
-
 ### Question: 
 We have a custom that whenever any distress like an accident or death befalls a person or any of his family, after a few days people, including the relatives of the one distressed, invite him saying: We owe you. If the distressed person accepts their invitation, he shall pay a visit to everyone of them where one or two sheep shall be slaughtered and offered to him along with the people of the village. This hospitality is offered by all those who invited him. Those who invited him regard it as a duty to entertain the distressed because of the calamity that has befallen him. Is it permissible to do so?
 

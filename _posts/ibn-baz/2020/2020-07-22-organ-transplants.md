@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ruling on organ transplants
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat 8/34
 summary: I have a reservation with regard to this matter. The Muslim should be respected
   and taking away any of his organs will cause harm.
@@ -16,8 +16,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 What is your opinion on the transplantation of human organs which saves the life of many people?
 

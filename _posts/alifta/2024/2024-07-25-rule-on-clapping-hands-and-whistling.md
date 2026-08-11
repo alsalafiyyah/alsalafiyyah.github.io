@@ -8,14 +8,12 @@ muftis:
   shaykh:
   - name: Shaykh Ibn 'Uthaymeen
     url: /biography/uthaymeen
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Islamiyah, Vol. 8, Page 125
 summary: This practice appears to be taken from non-Muslims; therefore, it is not
   an appropriate thing for a Muslim to do.
 title: Ruling on Clapping One's Hands and Whistling
 ---
-
-
 ### Question:
 What is the ruling on people whistling and clapping their hands in parties?
 

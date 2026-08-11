@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2020-07-17
 title: The Difference Between the Salaf and Ahl al-Sunnah
 source: Fatawa Nur 'ala al-Darb, Tape 776
@@ -21,8 +21,6 @@ muftis:
     url: /biography/binbaz
 hijri: '1441-11-26'
 ---
-
-
 ### Question:
 
 Your Eminence, Sheikh! A listener of the program asks: Is there a difference between our saying, 'This is the view of the Salaf (pious predecessors),' and 'This is the view of Ahl al-Sunnah (the people of the Sunnah)'?

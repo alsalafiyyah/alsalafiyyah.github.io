@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Tafsir Surat Al-Tawbah 23-24
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Taysir Al-Karim Al-Mannan p.332
 hijri: '1444-12-24'
 lang: en
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh As-Sa'adi
     url: /biography/saadi/
 ---
-
-
 Allah Ta'ala says: **"O you who have believed, do not take your fathers or your brothers as allies if they have preferred disbelief over belief. And whoever does so among you - then it is those who are the wrongdoers. Say, [O Muhammad (ﷺ)], “If your fathers, your sons, your brothers, your wives, your clan, wealth which you have obtained, commerce wherein you fear decline, and dwellings with which you are pleased are more beloved to you than Allah and His Messenger and jihad in His cause, then wait until Allah brings about His decree (of punishment). And Allah does not guide the defiantly disobedient people”** [Al-Tawbah :23-24].
 
 {<span style="color:red">**O you who have believed**</span>}, act in accordance with the requirements of your faith, by taking as allies those who adhere to it and regarding as enemies those who do not do so, {<span style="color:red">**do not take your fathers or your brothers as allies**</span>} they are the closest of people to you, so it is even more appropriate that you should not take as allies other people {<span style="color:red">**if they have preferred disbelief over belief**</span>} that is, they willingly choose disbelief over faith. 

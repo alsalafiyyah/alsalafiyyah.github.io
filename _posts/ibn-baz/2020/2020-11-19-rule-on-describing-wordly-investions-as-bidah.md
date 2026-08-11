@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on describing worldly inventions as Bid'ah
 hijri: '1442-04-04'
 source: Nur 'Ala Al-Darb tape no. 176
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 
 There is no doubt that there is a fine distinction between what can be described as Bid'ah (innovation in religion) and what can be described as Sunnah (a commendable act), that is, between what is rejected in Din (religion) and what is accepted as a worldly affair. Your Eminence, can you clarify this matter?

@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-08
 hijri: '1447-11-21'
 title: The Ruling on Hosting Non-Mahram Relatives in the Husband’s Absence
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 ### Question: 
 
 May Allah bestow His generosity upon you. The petitioner from Yemen asks: Is it permissible for a woman, while her husband is away, to allow non-mahram relatives to enter and stay overnight in the house?

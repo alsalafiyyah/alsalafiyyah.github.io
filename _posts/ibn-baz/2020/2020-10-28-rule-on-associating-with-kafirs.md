@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Rule on associating with the disbelievers
 hijri: '1442-03-11'
 date: 2020-10-28
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 What is the association with Kafirs (disbelievers) that is prohibited by Shari`ah (Islamic Law)?

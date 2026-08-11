@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The Wrath-Incurring Nation, Not God's Chosen People
 date: 2026-08-01
 lang: en
@@ -21,8 +21,6 @@ muftis:
     url: /biography/abdul-razzaq-al-badr
 hijri: '1448-02-18'
 ---
-
-
 Anyone who reflects upon history across its long course, and contemplates the conditions, manners, and dealings of nations, will find that the nation with the worst morals and the most evil conduct is the nation of the Jews—that wrath-incurring, cursed nation. A nation of falsehood, tyranny, debauchery, disobedience, disbelief, and atheism; a nation abhorred by people due to the harshness of their hearts, the severity of their hatred and envy, and the greatness of their transgression and tyranny. 
 
 They possess a brutal and savage nature in which none rivals them. Whenever they sense strength, influence, control, or power, they attack those they oppose like a wild beast attacking its prey, observing toward none any pact or treaty, nor honoring any covenant or pledge. No nation among all nations is known to have harder hearts or harsher minds than this nation. Criminality, injustice, aggression, tyranny, and slander have been attached to them since ancient times. 

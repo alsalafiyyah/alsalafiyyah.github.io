@@ -14,14 +14,12 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Muni'
     url: /biography/mani/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 556
 summary: A Muslim is obliged to enjoin right and forbid wrong with wisdom and good
   and wise argument.
 title: Advising sinners and disobedient people and one's attitude towards them
 ---
-
-
 ### Question:
 
 How should a Muslim deal with an abusive man who speaks evil utterances of disbelief and oaths of divorce along with seeking the help of Jinn and consuming bribes. The worse is still to come, he demolished a Masjid and turned it into a house, then a cattle pen claiming that he would build a larger Masjid, and he really did, but the Masjid he built is not fit for congregational Salah like the first one was. Needless to say, there are other sins that he committed, and he refuses all kinds of advice. Kindly give us your Fatwa in this regard. 

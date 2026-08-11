@@ -8,7 +8,7 @@ muftis:
   shaykh:
   - name: Shaykh Salih Al-Fawzan
     url: /biography/fawzan
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Al-Ijabat al-Muhimmah fee Mashakil il-Mudlahimmah by Muhammad bin Fahad al-Husayn
 summary: Rebellion against the rulers occurs by the sword which is the most extreme
   form of rebellion and it also occurs by speech, by way of criticising, abusing,
@@ -17,8 +17,6 @@ title: Does rebellion against the rulers occur only by the sword or does it incl
   slandering them?
 translated_by: Abul-Irbad Abid Zargar
 ---
-
-
 ### Question:
 Does rebellion against the rulers occur only by the sword or does it include slandering them, inciting the people to disobey them and rising up against them?
 

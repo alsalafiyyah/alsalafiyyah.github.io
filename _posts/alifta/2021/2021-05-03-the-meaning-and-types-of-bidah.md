@@ -4,7 +4,7 @@ hijri: '1442-09-21'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 3230, Question 7
 summary: Bid'ah is an act of worship that was not legislated by Allah such as celebrating
   the birth of the Prophet, Isra' (Night Journey), and Mi'raj (Ascension to Heaven)
@@ -13,8 +13,6 @@ tags:
 title: The meaning and types of Bid'ah
 translation: false
 ---
-
-
 ### Question: 
 
 We would like you to explain the meaning and types of Bid'ah (innovation in religion) in detail for us.

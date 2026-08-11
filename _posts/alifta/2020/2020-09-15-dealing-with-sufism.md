@@ -14,7 +14,7 @@ muftis:
     url: /biography/abdulaziz/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 16696, Question 2
 summary: What do you advise us concerning dealing with Sufi shaykhs and their followers?
 tags:
@@ -22,8 +22,6 @@ tags:
 title: Dealing with Sufi shaykhs and their followers
 translation: false
 ---
-
-
 ### Question:
 
 As a pioneer of the Salafiyyah Call (Da'wah) and the current Islamic awakening, what do you advise us concerning dealing with Sufi shaykhs and their followers? I appreciate your guidance. May Allah reward you

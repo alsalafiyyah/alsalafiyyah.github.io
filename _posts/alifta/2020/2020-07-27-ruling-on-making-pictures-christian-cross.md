@@ -14,15 +14,13 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 21570, Question 1
 summary: 'It is not permissible to take photos of non-Muslim rituals or circulate
   them among Muslims because they contain acts of disbelief in Allah and His Messenger
   and contradict Islam. '
 title: Ruling on making pictures of Christian symbols such as the cross
 ---
-
-
 ### Question: 
  
 Images of crosses have become openly visible. Muslims are so neglectful of this issue that we now see it on TV channels, commercial magazine, etc.

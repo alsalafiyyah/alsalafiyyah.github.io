@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: What is the origin of the forty-day anniversary?
 hijri: '1444-12-24'
 source: Majmu’ Fatawa 13/398
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Ibn Baz
     url: /biography/binbaz/
 ---
- 
-
 ### Question: 
 
 What is the origin of the forty-day anniversary?

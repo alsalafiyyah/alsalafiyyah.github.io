@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Misguided Practices on Ashura
 date: 2026-08-01
 lang: en
@@ -19,8 +19,6 @@ muftis:
     url: /biography/abdul-razzaq-al-badr
 hijri: '1448-02-18'
 ---
-
-
 As for a certain group of people (Shittes), the day of Ashura has turned for them every year into a day of mourning and lamentation. On this day, they engage in practices that do not please Allah—practices that are not part of Allah's religion (Islam). Rather, Islam came to forbid, prohibit, and criminalize them, clarifying the punishment for those who perform them. These include lamenting, slapping cheeks, tearing clothes, and invoking the calls of the 'Ignorance Era' (Jahiliyyah).
 
 In fact, it goes beyond that to something even greater: 'associating partners with Allah' (shirk) by seeking help from Al-Husayn, seeking refuge in him, and asking him to fulfill needs and relieve distresses—matters that should only be asked of and sought from the Lord of the heavens and the earth.

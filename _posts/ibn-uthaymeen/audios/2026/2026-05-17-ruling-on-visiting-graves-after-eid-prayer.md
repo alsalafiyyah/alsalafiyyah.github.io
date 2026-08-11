@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-17
 title: The Ruling on Visiting graves after Eid prayer
 source: 'Fatawa Nur ''ala al-Darb, Tape no: 339'
@@ -22,8 +22,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1447-11-30'
 ---
-
-
 ### Question: 
 
 May Allah reward you with goodness. Ibrahim Abu Hamid says: There are people who go to the graveyards immediately upon the conclusion of the Eid prayer with the intention of greeting their deceased relatives, and they do this consistently every Eid. What is the ruling on that practice? May you be rewarded.

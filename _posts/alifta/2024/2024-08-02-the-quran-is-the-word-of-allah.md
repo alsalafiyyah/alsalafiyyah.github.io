@@ -7,7 +7,7 @@ layout: post
 link: https://al-fatawa.com/fatwa/104228
 mass_edited: true
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah, Fatwa no. 19022, Question 1
 summary: The difference between the two statements is that claiming that the Qur'an
   is created is a statement of disbelief that takes the Muslim out of Islam.
@@ -16,8 +16,6 @@ tags:
 title: The Quran is the Words of Allah and not created
 translation: false
 ---
-
-
 ### Question: 
 
 What is the difference between one who says: "My articulation of the Qur'an is created" and one who says: "The Qur'an is created" ?

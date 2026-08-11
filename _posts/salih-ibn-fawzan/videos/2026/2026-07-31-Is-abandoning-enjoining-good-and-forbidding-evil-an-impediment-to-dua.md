@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Is Abandoning Enjoining Good and Forbidding Evil an Impediment to Du'a?
 date: 2026-07-31
 category:
@@ -20,8 +20,6 @@ muftis:
     url: /biography/fawzan/
 hijri: '1448-02-17'
 ---
-
-
 ### Question
 
 Your Eminence, Shaykh, may Allah grant you success, this questioner says: Is it true that abandoning the enjoining of good and the forbidding of evil is one of the impediments to the acceptance of du'a' (supplication)?

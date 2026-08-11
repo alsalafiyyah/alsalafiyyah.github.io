@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-12
 hijri: '1447-11-25'
 title: His wife does not pray and does not obey him. Should he divorce her?
@@ -23,8 +23,6 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 ### Question: 
 
 This message is from Mr. Khader al-Khalifa al-Ali from the Syrian Arab Republic, Deir ez-Zur Governorate. He has several questions, and says: I am married and have three children. I practice the Islamic religion, Allah's willing. My wife is Muslim and fasts Ramadan, but she does not pray and does not obey me or submit to performing the prayer. Is it my right to divorce her according to Sharia if she does not obey me or not? Please advise us, if you would be so kind.

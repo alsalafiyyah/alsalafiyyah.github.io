@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2020-07-17
 title: Is Salafiyyah Merely a Label? A Response to Okaz Newspaper
 source: From the fatwas of Shaykh Al-Fawzan regarding the term Salafiyyah and the
@@ -20,8 +20,6 @@ muftis:
     url: /biography/fawzan
 hijri: '1441-11-26'
 ---
-
-
 His Eminence, Dr. Saleh bin Fawzan al-Fawzan, a member of the Council of Senior Scholars, commented on what was published by Okaz regarding the hosting of the preacher, Sheikh Muhammad al-Arifi. 
 
 Dr. Al-Fawzan’s commentary was directed at the first installment, which was titled "Salafi, Tablighi, and Ikhwani: Labels That Are Not from Islam." Following is his Eminence's response:

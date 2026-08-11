@@ -4,7 +4,7 @@ hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdul-Aziz Aal al-Shaykh
@@ -14,8 +14,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 18721-2
 title: 'Fabricated Hadith: ''I am the best person for the wicked people of my Ummah'''
 ---
-
-
 Question: 
 
 The Messenger of Allah (peace be upon him) said: "I am the best person for the wicked people of my Ummah (nation based on one creed)." The Sahabah (Companions of the Prophet, may Allah be pleased with them) said: "You are the best for their wicked ones, what about their good people?" The Prophet (peace be upon him) said: "Their good people will enter Jannah (Paradise) with their deeds and their wicked ones will enter Jannah with my intercession." Is this a Hadith Sahih (authentic)?

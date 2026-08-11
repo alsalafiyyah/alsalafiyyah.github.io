@@ -10,7 +10,7 @@ lang: en
 layout: post
 mass_edited: true
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.9880, Question 9
 summary: As for evil politics that are based on corruption, delusion, lies, violating
   covenants, deceit and breaking promises, this was not prescribed by Shari'ah.
@@ -19,8 +19,6 @@ tags:
 title: On those who say that there are no politics in Islam and no Islam in politics
 translation: false
 ---
-
-
 ### Question: 
 
 What is your view on those who say that there are no politics in Islam and no Islam in politics?

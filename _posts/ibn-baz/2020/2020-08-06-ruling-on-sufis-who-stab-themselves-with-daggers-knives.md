@@ -8,7 +8,7 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Muqalat 9/285
 summary: These people are liars and impostors whose acts have no evidence at all.
   Rather, they are liars who use things and tricks that confuse people in order to
@@ -18,8 +18,6 @@ tags:
 title: Ruling on sufis who stab themselves with daggers and knives and other tools
 translation: false
 ---
-
-
 ### Question:
 
 What is your opinion regarding those who call themselves dervish and stab themselves with daggers and knives and other tools? They do such acts while one of them chants: "0 Allah, 0 Rifa'i". What is the Islamic ruling on these acts? Is there any evidence supporting their acts? 

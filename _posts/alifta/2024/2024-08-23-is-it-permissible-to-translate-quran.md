@@ -9,15 +9,13 @@ muftis:
   - name: Shaykh Ibn 'Uthaymeen
     url: /biography/uthaymeen
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Islamiyah 7/39-40
 summary: To translate the Qur'an into another language is an impossible task, for
   the wording of the Qur'an in Arabic is a miracle, one that cannot be replicated
   in another language.
 title: Is it permissible to translate the Quran?
 ---
-
-
 ### Question:
 Is it permissible to translate the Qur'an, for example, into English, French, or Hebrew?
 

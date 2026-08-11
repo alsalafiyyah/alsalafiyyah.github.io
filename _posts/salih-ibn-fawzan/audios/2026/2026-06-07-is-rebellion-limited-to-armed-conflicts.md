@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-06-07
 title: Is Rebellion Limited to Armed Conflict?
 category:
@@ -22,8 +22,6 @@ muftis:
     url: /biography/fawzan/
 hijri: '1447-12-21'
 ---
-
-
 ### Question: 
 
 Regarding someone who calls for rebellion and claims that "rebellion against the Muslim community" does not refer to demonstrations and expressing opinions, but rather that the forbidden form of rebellion is strictly armed rebellion?

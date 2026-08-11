@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The Ruling on Cursing Israel
 hijri: '1446-02-19'
 date: 2024-08-23
@@ -23,8 +23,6 @@ muftis:
   - name: Shaykh Salih Al-Fawzan
     url: /biography/fawzan
 ---
-
-
 The Jews are known by the name 'the Jews,' but they began calling themselves 'Israel.' And Israel—peace be upon him—is actually Jacob, the son of Isaac. This is part of their deception. 
 
 The problem is that some people say: 'O Allah, curse Israel,' which effectively means cursing Jacob, peace be upon him. A person must be cautious of this. Or if they say, 'Allah’s curse be upon Israel'—no. Instead, say: 'Allah’s curse be upon the Jews' or 'May Allah curse the Jews.' Do not say 'Israel.'"

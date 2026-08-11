@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ruling on rebel against the rulers
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat 8/202
 category:
 - rulership
@@ -17,8 +17,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 Your Eminence Shaykh, there are people who think that, because some of the rulers commit major sins, we are obliged to rebel against them and attempt to change the status quo, even if this results in harm to the Muslims in that country and despite the many problems that the Muslim world is facing. What is your opinion?

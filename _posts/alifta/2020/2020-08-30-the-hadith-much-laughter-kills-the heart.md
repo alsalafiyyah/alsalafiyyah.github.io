@@ -12,15 +12,13 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah no. 20355-1
 summary: 'Research and verification show that the phrase that you have mentioned in
   the question reading: ''May Allah be merciful to the one who knows his own limits''
   has no origin in any of the variant narrations.'
 title: 'The Hadith: ''Much laughter kills the heart'''
 ---
-
-
 Question: 
 
 Are the following two statements Hadiths or Athar (narrations from the Companions): "**May Allah be merciful to the one who knows his own limits**" and "**Much laughter kills the heart**" Who are their narrators and to what extent are they Sahih (authentic)?

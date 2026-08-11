@@ -9,14 +9,12 @@ muftis:
   - name: Shaykh Ibn 'Uthaymeen
     url: /biography/uthaymeen
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Islamiyah 7/98-100
 summary: The meaning of 'building' is the mosque that the hypocrites built, the purpose
   of which Allah described in the above-mentioned verse.
 title: Concerning al-Dirar Mosque (the mosque built by the hypocrites)
 ---
-
-
 ### Question: 
 What does this verse mean and what building is it referring to?
 

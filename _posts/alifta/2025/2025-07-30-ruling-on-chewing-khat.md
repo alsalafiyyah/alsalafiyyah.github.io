@@ -20,7 +20,7 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Daimah, Question 3, Fatwa No. 16097
 summary: Eating Khat is forbidden because it causes intoxication and it also distracts
   from the remembrance of Allah and from Salah.
@@ -29,9 +29,6 @@ tags:
 title: Ruling on chewing Khat
 translation: false
 ---
-
-
-
 ### Question
 
 What is the ruling on eating Khat and delaying the performing of 'Asr (afternoon) prayer until half an hour before the Maghrib (sunset) prayer?

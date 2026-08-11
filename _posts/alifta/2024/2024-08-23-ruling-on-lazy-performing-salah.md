@@ -9,14 +9,12 @@ muftis:
   - name: Shaykh Ibn 'Uthaymeen
     url: /biography/uthaymeen
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Islamiyah 3/245-246
 summary: These people who fast and do not pray, their fast is not accepted. Rather,
   it is rejected as long as we say that they are disbelievers.
 title: Ruling on lazy performing prayers
 ---
-
-
 ### Question: 
 Some of the young men - may Allah guide them - are lazy about performing the prayer during Ramadhan and other times. However, they strictly guard the fast of Ramadhan, while patiently bearing the thirst and hunger. What do you advise them and what is the ruling on their fast?
 

@@ -14,7 +14,7 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 6793, Question 3
 summary: Women dancing in front of men is Haram. Drinking alcoholic beverages is also
   Haram. They are, moreover, major sins. Furthermore, a man gazing at a woman other
@@ -24,9 +24,6 @@ tags:
 title: Ruling on a thief, women dancing and drinking alcohol
 translation: false
 ---
-
-
-
 ### Question
 
 Are dancing and drinking alcohol Haram (prohibited) or Makruh (disliked)? What is the ruling on gazing at a woman other than one's wife? What is the ruling on a thief? 

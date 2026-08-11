@@ -16,7 +16,7 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 2540
 summary: It is not permissible for a Muslim to join the non-Muslims in their festivals
   and to express joy and happiness on these occasions, or to take the day off work,
@@ -25,8 +25,6 @@ summary: It is not permissible for a Muslim to join the non-Muslims in their fes
   falsehood.
 title: Ruling on taking part in the celebrations of the People of the Book
 ---
-
-
 ### Question: 
  
 If you please, our dear Shaykh, I entered into a discussion with my Muslim brothers regarding some matter in the religion of Islam, namely: Some Muslims in Ghana venerate the holidays of the Jews and the Christians, and leave their holidays to the extent that when the time of a festival of the Jews or the Christians comes, they suspend the Islamic schools on the occasion of such a festival, and they do not suspend the Islamic schools during the festivals of Muslims. Their justification for this is: If you follow the Jews and the Christians regarding their holidays, they will enter into the religion of Islam. Could you please, dear Shaykh, explain to us whether their actions spring from the religion of Islam or not?

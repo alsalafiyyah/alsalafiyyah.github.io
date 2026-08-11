@@ -13,14 +13,12 @@ muftis:
   members:
   - name: Shaykh Abdullah Ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 10523
 summary: It is impermissible to have a friendly relationship with non-Muslims or to
   mingle with them in a manner that may tempt (mislead) a Muslim away from Islam.
 title: Ruling on loving and mingling with Kafirs
 ---
-
-
 ### Question: 
  
 The nature of work requires the intermingling between Muslim and non-Muslim workers. Sometimes we find Muslims and non-Muslims staying in the same room which makes it inevitable for them to eat, drink and mix together. We feel that some of the Muslims living like this take it as something normal and behave carelessly about it, and we sense in others, through their kind treatment and noble behavior towards non-Muslims, their sincere desire to attract them to embrace Islam. I hope this issue be submitted to his Eminence Shaykh 'Abdul-'Aziz ibn 'Abdullah ibn Baz to give us the relevant ruling. May Allah grant us all success in serving Islam and Muslims.

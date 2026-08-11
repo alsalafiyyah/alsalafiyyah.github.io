@@ -4,7 +4,7 @@ hijri: '1441-12-08'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 16953, Question 5
 summary: Christianity was distorted and beliefs of Shirk invaded it, such as believing
   that Jesus Christ is Allah's Son, Allah Himself, or the third Ilah (God). It is
@@ -14,8 +14,6 @@ tags:
 title: Evidence on the invalidity of the Christian creed
 translation: false
 ---
-
-
 ### Question: 
 
 What is the evidence on the invalidity of the Christian 'Aqidah (creed)?

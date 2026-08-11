@@ -12,15 +12,13 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah no. 2718-2
 summary: Those who invite others to follow the misguidance that they follow, will
   carry the same sins as those committed by those who follow them, without their own
   sins being reduced at all.
 title: Giving the Muslims' sins to the Jews and Christians
 ---
-
-
 Question:
 
 Burdening the Jews and Christians with the Muslims' sins on the Day of Resurrection contradicts Allah's saying: "**...nor will you be requited anything except that which you used to do.**" [YaSin: 54] And other similar Ayahs (Qur'anic verses) in the Qur'an. I hope that Your Eminence will remove this confusion? 

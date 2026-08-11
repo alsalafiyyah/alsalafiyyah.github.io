@@ -14,7 +14,7 @@ muftis:
   members:
   - name: Shaykh Abdullah Ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-lajnah Al-Da'imah of KSA no. 10552, question 1
 summary: Ablution is not invalidated just by looking at women, with or without lust.
 tags:
@@ -22,8 +22,6 @@ tags:
 title: Does looking at women with or without lust invalidate ablution?
 translation: false
 ---
-
-
 ### Question : 
 
 Does looking at women with or without lust invalidate Wudu’ (ablution)? 

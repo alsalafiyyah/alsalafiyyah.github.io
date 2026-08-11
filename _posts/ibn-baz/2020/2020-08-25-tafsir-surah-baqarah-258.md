@@ -8,7 +8,7 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat 9/279
 summary: This Ayah (Qur'anic verse) is very clear to whoever contemplates it. Ibrahim,
   Khalil Al-Rahman (the close friend of Allah), was sent to call his people to Tawhid
@@ -17,8 +17,6 @@ summary: This Ayah (Qur'anic verse) is very clear to whoever contemplates it. Ib
 title: Tafsir Surah Al-Baqarah Ayat 258
 uid: -tafsir-surah-baqarah-258
 ---
-
-
 Question:
 
 Please interpret the Saying of Allah (Glorified and Exalted be He): "Have you not looked at him who disputed with Ibrâhîm (Abraham) about his Lord (Allâh), because Allâh had given him the kingdom? When Ibrâhîm (Abraham) said (to him): "My Lord (Allâh) is He Who gives life and causes death." He said, "I give life and cause death." Ibrâhîm (Abraham) said, "Verily! Allâh brings the sun from the east; then bring it you from the west." So the disbeliever was utterly defeated. And Allâh guides not the people, who are Zâlimûn (wrong-doers)." [al-Baqarah: 258]

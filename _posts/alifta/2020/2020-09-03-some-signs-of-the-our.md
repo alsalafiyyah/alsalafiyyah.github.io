@@ -15,14 +15,12 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 5253, Question 2
 summary: There are many Signs of the Hour, and some of them are included in the answer
   that the Prophet gave to Gabriel when he asked him about the Signs of the Hour.
 title: Some of the signs of the Hour
 ---
-
-
 ### Question: 
 
 Would you please explain the Signs of the Hour and tell us how we can protect ourselves from them and what we should do if we witness these Fitnahs (Trials)? May Allah reward you with the best!  

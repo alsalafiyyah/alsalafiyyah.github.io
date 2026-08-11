@@ -15,15 +15,13 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 7114, Question 3
 summary: Al-Masih Al-Dajjal or The Antichrist exists now and he is actually one-eyed,
   for the basic ruling states that the literal meaning takes precedence over other
   possible meanings, unless the opposite is proved.
 title: The meaning of the existence of Dajjal and describing him as one-eyed
 ---
-
-
 ### Question: 
 
 Al-Masih-ul-Dajjal (the Antichrist) is mentioned in many Hadiths, what is the meaning of Al-Masih-ul-Dajjal (the Antichrist)? Does he exist now or not? Where does he live? What is meant by being one-eyed as the Prophet (peace be upon him) mentioned? Is he actually one-eyed or is it a metaphor? Please explain this matter to us, may Allah reward you with Paradise! 

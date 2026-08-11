@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-08-06
 hijri: '1448-02-23'
 title: The Ruling on Celebrating Birthdays for New Converts
@@ -23,8 +23,6 @@ muftis:
   - name: Shaykh Salih al-Fawzan
     url: /biography/fawzan/
 ---
-
-
 ### Question: 
 
 May Allah be good to you, Your Eminence Shaykh, this questioner says: His father has converted to Islam, and he wants to celebrate his seventieth birthday as is the custom of his people. He asks: Is it permissible for us to assist him in doing that?

@@ -4,7 +4,7 @@ hijri: '1441-12-07'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 9247, Question 2
 summary: Any person who follows one of the leaders of Kufr (disbelief) and misguidance
   and supports their chiefs and masters in oppression and enmity will receive their
@@ -14,8 +14,6 @@ tags:
 title: Ruling on the followers of Al-Imamiyyah
 translation: false
 ---
-
-
 ### Question: 
 
 What is the ruling on the followers of Al-Imamiyyah Al-Ithna 'Ashriyyah (the Twelve Imami Shi'ites), which is one of the Rafidi sects (Shiitic sects which openly reject the legitimacy of the Caliphs before 'Ali ibn Abu Talib)? Is there a difference between the scholars of any deviant Muslim sect and its mere followers regarding being deemed as Kaffirs (disbelievers) or Fasiqs (those who openly and flagrantly violate Islamic law)?

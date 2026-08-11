@@ -4,7 +4,7 @@ hijri: '1441-12-07'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 4150, Question 3
 summary: It is not permissible to supplicate to Allah through these utterances, offer
   Salah behind people who worship Allah through them, or perform the funeral prayer
@@ -15,9 +15,6 @@ title: Ruling on the recitation of Tijaniyyah and Qadiriyyah and praying behind 
   followers
 translation: false
 ---
-
-
-
 ### Question: 
 
 What is the ruling on reciting the utterances said on a regular basis by Al-Tijaniyyah and Al-Qadiriyyah Tariqahs (Sufi orders)? And what is the ruling on whoever recites them till death? Is it permissible to perform Salah (Prayer) behind such a person and is it permissible to offer the funeral prayer for them after their death? Appreciate your guidance, may Allah guide you.

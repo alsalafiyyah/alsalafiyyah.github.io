@@ -18,14 +18,12 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/zayd/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 18452, Question10
 summary: Warning against Fasiqs or people flagrantly violating Islamic law and those
   who commit major sins is obligatory.
 title: Warning against the bad deeds of Fasiq persons is not tale-bearing
 ---
-
-
 ### Question:
 
 Someone is known for their misbehavior and they publicly commit a major sin such as drinking alcohol. Thus, we are advised to keep away from that person and not to deal with him. Is this permissible? 

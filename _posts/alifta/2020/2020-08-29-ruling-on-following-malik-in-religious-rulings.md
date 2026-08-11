@@ -15,15 +15,13 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah no. 4476-4
 summary: Imam Malik is one of the Imams in religious knowledge, but at the same time
   he is a human who sometimes errs and at other times is correct, and his words may
   be accepted or rejected.
 title: Ruling on following Malik in religious rulings as he derived them
 ---
-
-
 Question: 
 
 What is the ruling on a person who strictly follows the Ijtihad (juristic effort to infer expert legal rulings) of Imam Malik, and not sticking to the exact ruling based on the Qur’an and Sunnah?

@@ -5,15 +5,13 @@ hijri: '1442-01-12'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 15308
 summary: Adopting and bringing up foundlings upon good manners and Islamic etiquette
   is a noble act.
 title: Ruling on bringing up a foundling
 uid: ruling-on-bringing-up-a-foundling
 ---
-
-
 ### Question: 
 
 A woman took home a female infant from one of the hospitals in the Kingdom (of Saudi Arabia) to bring up as her child. She raised the child and whenever someone asked about her she would say that she is her daughter. The young girl herself considered the woman her mother, the woman's husband as her father and her children as her brothers and sisters, etc. 

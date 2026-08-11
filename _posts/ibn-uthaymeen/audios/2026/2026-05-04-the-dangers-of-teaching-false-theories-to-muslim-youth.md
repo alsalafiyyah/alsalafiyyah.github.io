@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-04
 hijri: '1447-11-17'
 title: The Dangers of Teaching False Theories to Muslim Youth
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 ### Question:
 
 This message is also related to the previous one, sent by a student who says: "I am the student Saad Saud." In fact, the letter is very long, but perhaps summarizing it would be more appropriate. He says: "My classmates and I are complaining to you about our teacher, who enters our classroom and says to us, 'Peace be upon the apes.' When we protest against him, he brings up the story of Freud and says, 'This is your origin and mine, and there is no escape for us from this origin.' Note that our teacher appears arrogant, wears long clothes, and has long hair and long nails. What should our stance be toward this teacher, may Allah grant you success? Note that he did not specify his country, village, or anything of that sort."

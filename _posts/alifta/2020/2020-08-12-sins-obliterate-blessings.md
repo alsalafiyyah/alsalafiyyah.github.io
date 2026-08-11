@@ -7,14 +7,12 @@ muftis:
   chairman:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat 5/336
 summary: Undoubtedly, committing sins is one of the causes of Allah’s Wrath, loss
   of blessings, withholding of rain and being overtaken by the enemy.
 title: Does committing sins obliterate the blessing?
 ---
-
-
 Question:
 
 A sister from Riyadh asks: I read that one of the consequences of sin is punishment from Allah and loss of blessings, and I wept with fear because of that. Please advise me.

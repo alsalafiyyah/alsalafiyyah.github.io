@@ -15,7 +15,7 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 5001, Question 3
 summary: On the authority of Um Salamah (may Allah be pleased with her) who narrated
   that the Prophet (peace be upon him) forbade every intoxicant and everything which
@@ -25,9 +25,6 @@ tags:
 title: Evidence on the prohibition of narcotics
 translation: false
 ---
-
-
-
 ### Question
 
 What are the proofs that state the prohibition of narcotics? 

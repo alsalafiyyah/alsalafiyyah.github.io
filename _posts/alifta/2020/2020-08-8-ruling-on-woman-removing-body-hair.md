@@ -18,14 +18,13 @@ muftis:
     url: /biography/fawzan
   - name: Shaykh Bakr Abu zayd
     url: /biography/bakr
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 17594, Question 2
 summary: The evidence is that permissibility is the basic ruling. Besides, a woman
   has to beautify herself for her husband and there is no other evidence against this
   except the Prophet's prohibition of Nams.
 title: Ruling on a woman removing hair from her body
 ---
-
 ### Question: 
 I asked you previously about the ruling on a woman's plucking of excessive hair from her body and you - may Allah bless you - replied but did not mention evidences. Kindly, provide me with the supportive evidences.
 

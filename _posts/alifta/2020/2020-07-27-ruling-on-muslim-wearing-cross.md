@@ -15,15 +15,13 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 2245
 summary: He should be informed that wearing a cross is an indication of being satisfied
   with and belonging to the Christians and their beliefs. If he insists on the act,
   he will be regarded as a disbeliever.
 title: Ruling on Muslim wearing a cross
 ---
-
-
 ### Question: 
  
 A dispute arose among us over the judgment on a Muslim who wears a cross pendant, which is a symbol of Christianity. Some maintain that such a person is a disbeliever with no need to discuss his reasons for wearing it. Others maintain that such a person should not be judged a disbeliever until he has been discussed and it has been made clear to him that wearing a cross is Haram for a Muslim and that it is a symbol of Christianity. If he still insists on wearing it, he will be regarded as a disbeliever.

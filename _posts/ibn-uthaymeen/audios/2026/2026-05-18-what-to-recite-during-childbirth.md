@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-18
 title: What to Recite During Childbirth
 source: Liqa'a al-Bab al-Maftuh, Tape 143
@@ -22,8 +22,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1447-12-01'
 ---
-
-
 ### Question: 
 
 Virtuous Sheikh, what is your advice for a woman during childbirth, and what should she read from the Quran?

@@ -6,7 +6,7 @@ lang: en
 layout: post
 mass_edited: true
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.1674
 summary: It is not permissible for Muslims to divide into separate religious groups
   and parties, with members cursing and fighting each other.
@@ -15,8 +15,6 @@ tags:
 title: The ruling on political and religious parties Hizb ut-Tahrir and the Ikhwanul-Muslimin
 translation: false
 ---
-
-
 ### Question: 
 
 What is the ruling on political and religious parties, such as the Hizb ut-Tahrir and the Ikhwan-ul-Muslimin (the Muslim Brotherhood)?

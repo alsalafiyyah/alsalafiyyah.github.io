@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-08-06
 title: Using 'Allah Knows Best' to Avoid Intrusive Questions
 category:
@@ -20,8 +20,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1448-02-23'
 ---
-
-
 ### Question: 
 
 May Allah bless you, Your Eminence Shaykh. This female questioner asks: If someone asks me about something I do not wish to discuss, is it permissible for me to say, "Allah knows best"?

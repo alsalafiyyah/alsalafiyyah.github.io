@@ -4,7 +4,7 @@ hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdul-Aziz Aal al-Shaykh
@@ -15,8 +15,6 @@ source: Fatawa Al-Lajnah Ad-Da'imah no. 17654
 title: Luqatah in Al-Haram is not to be picked up except by someone who will make
   a public announcement about it
 ---
-
-
 Question: 
 
 My father accompanied my grandfather, may Allah have mercy upon him, to perform Hajj in Makkah Al-Mukarramah. My father dwelt in a tent with some of his friends. Once, he went out to bring water where he found a lady's handbag. He took it and entered the tent. He found in it 500 Saudi riyals, some documents and the passport of an Egyptian lady. He decided to give the bag to the neighboring Egyptian tent, but some bad friends recommended him to take the money and he did. Then, before returning to Yemen, he put the handbag in a bus of Egyptian pilgrims. 

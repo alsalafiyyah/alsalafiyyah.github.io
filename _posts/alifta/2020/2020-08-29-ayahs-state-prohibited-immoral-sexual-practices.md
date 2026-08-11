@@ -4,7 +4,7 @@ hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz Ibn Baz
 - Shaykh Abdull-Razzaq al-Afify
@@ -13,8 +13,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 3056-7
 title: The Ayahs that state the prohibited immoral sexual practices
 ---
-
-
 Question: 
 
 What are the Ayahs (Qur'anic verses) that prohibit immoral sexual practices commonly spread in some countries?

@@ -18,14 +18,12 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/zayd/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, fatwa no. 16685, question 2
 summary: The dung of rock hyrax is used as a cure for many diseases and is sold by
   spice traders. Is it permissible to use it for treatment?
 title: Treatment with rock hyrax dung
 ---
-
-
 ### Question:
 The dung of rock hyrax is used as a cure for many diseases and is sold by spice traders. Is it permissible to use it for treatment?  
 

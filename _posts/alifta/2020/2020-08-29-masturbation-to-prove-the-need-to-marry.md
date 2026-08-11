@@ -4,7 +4,7 @@ hijri: '1442-01-10'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-'Aziz ibn Baz
 - Shaykh Abdul-Razzaq al-Afify
@@ -12,8 +12,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 11101
 title: Ruling on masturbation to prove the need to marry
 ---
-
-
 Question: 
 
 I am a fifty year old man who does not have enough money to marry. However, I have married three times before but none of my marriages succeeded. I requested help from the Minister of the Interior and he responded generously to me, may Allah reward him with the best. After the decree has been sent to the public hospital of Najran, a committee decided that I should masturbate and bring some of my Maniy (spermatic fluid), is doing so considered Halal (lawful)? Please tell me how I can solve such a problem. May Allah reward you with the best.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Who are the Sufis?
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Nur 'Ala al-Darb vol 3
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_477/47716.mp3
 hijri: '1441-12-16'
@@ -21,8 +21,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 Who are the Sufi people and what is the position of Islam regarding them? May Allah 
 reward you well.

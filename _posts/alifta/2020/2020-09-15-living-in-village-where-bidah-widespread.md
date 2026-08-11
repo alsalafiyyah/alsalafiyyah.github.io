@@ -13,15 +13,13 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatwas of the Permanent Committee, Fatwa no. 12927
 summary: If you cannot find a suitable job in your town, you think that the people
   there will most probably reject your advice, or you fear that they might tempt you
   or your children with their Bidahs, there will be no sin on you
 title: Living in a village where there are Bid'ahs
 ---
-
-
 ### Question:
 
 The questioner explains his circumstances and those of the town where his mother is living. She keeps asking him to stay with her in the same town. 

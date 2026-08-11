@@ -20,7 +20,7 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da’imah, Fatwa no. 16301, Question 3
 summary: Listening to songs is haram, for Allah (Exalted be He) says, And of mankind
   is he who purchases idle talks (i.e. music, singing) to mislead (men) from the path
@@ -30,8 +30,6 @@ tags:
 title: Ruling on listening to songs
 translation: false
 ---
-
-
 ### Question: 
 
 What is the ruling on listening to singing?

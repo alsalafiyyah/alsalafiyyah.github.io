@@ -4,7 +4,7 @@ hijri: '1441-12-07'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 2931
 summary: Refuting the superstitions and Bid'ah of the Tijanis is an obligation on
   the knowledgeable people of Ahl Al-Sunnah wal-Jama'ah (those adhering to the Sunnah
@@ -14,9 +14,6 @@ tags:
 title: Ruling on Masjid controlled by Tijaniyyah followers
 translation: false
 ---
-
-
-
 ### Question: 
 
 There is a village with a relatively large population. It has a spacious Masjid (mosque) where a group of righteous people offers the five congregational Salahs, for it is the only Masjid in the village. Despite its being able to accommodate a large number of people, it is always vacant as not all villagers maintain the congregational Salah there, except for few righteous people. This dedicated group has seceded from the villagers and admonished them about their Bid'ah (innovation in religion), to say nothing of their differences and negligence in performing their religious obligations incompletely and incorrectly. These villagers adhere to the Tijaniyyah Sufi order. 

@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-08-06
 hijri: '1448-02-23'
 title: Refuting Claims That Scholars Fail to Advise Rulers
@@ -22,8 +22,6 @@ muftis:
   - name: Shaykh Salih al-Fawzan
     url: /biography/fawzan/
 ---
-
-
 ### Question: 
 
 May Allah bless you, Your Eminence the Sheikh, what should we say, or how should we respond to someone who says and claims that the scholars in this country do not offer 'sincere advice' (naseehah) to the rulers and those in authority?

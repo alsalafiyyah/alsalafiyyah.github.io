@@ -7,7 +7,7 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz Ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat 5/243, question no. 5. Meeting with His Eminence
   in His office at the General Presidency on 28/10/1410 A.H
 summary: Al-Wala' wal-Bara' is to love and be loyal to the believers and to hate the
@@ -16,8 +16,6 @@ summary: Al-Wala' wal-Bara' is to love and be loyal to the believers and to hate
   fight you.
 title: The principle of Al-Wala' wal-Bara'
 ---
-
-
 ### Question: 
 
 Please explain for whom should be the principle of Al-Wala' wal-Bara' (loyalty and disassociation for Allah's Sake)? Is it permissible to be loyal to the disbelievers?

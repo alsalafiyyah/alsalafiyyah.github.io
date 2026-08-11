@@ -17,14 +17,12 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 18604, Question 1
 summary: It is not permissible to prefer non-Muslims to Muslims, either in terms of
   how they deal with others or in anything else.
 title: Ruling on saying the Christians are better than Muslims in dealings
 ---
-
-
 ### Question: 
  
 It is common among us to say "Nowadays the Christians are better than Muslims in dealing with others."

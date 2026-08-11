@@ -18,7 +18,7 @@ muftis:
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah 3/15-16, Fatwa no. 17521, Question 1
 summary: The Qur'an is the Words of Allah, not created. So, whoever claims that the
   Qur'an is created is a Jahmite and a disbeliever.
@@ -27,8 +27,6 @@ tags:
 title: Is the Qur'an created?
 translation: false
 ---
-
-
 ### Question: 
 
 Imam Ahmad ibn Hanbal stated in his book [As-Sunnah]: ***"The Qur'an is the Words of Allah, not created. So, whoever claims that the Qur'an is created is a Jahmite[^1], and a Kafir (disbeliever)."*** I would like to know from Your Eminence why those who claim that the Qur'an was created are considered Kafirs and judged as such by Imam Ahmad (may Allah be merciful to him)?

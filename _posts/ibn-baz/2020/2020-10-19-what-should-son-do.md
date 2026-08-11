@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: What should a son do who was raised by an ignorant family
 hijri: '1442-03-02'
 date: 2020-10-19
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 What should a son do who was raised by an ignorant family then learned Islamic knowledge and informed his family of Haram (prohibited) and Halal (lawful) matters but his father refused claiming that they practice what they found their fathers following and that they do like what others do? Should this son do good to his parents brothers or not? 

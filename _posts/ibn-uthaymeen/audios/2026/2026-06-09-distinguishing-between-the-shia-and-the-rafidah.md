@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-06-09
 title: Distinguishing Between the Shia and the Rafidah
 source: Liqa' al-Bab al-Maftuh, Tape 77, Question 10
@@ -19,8 +19,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1447-12-23'
 ---
-
-
 ### Question: 
 
 Who are the Shia and are they the Rafidah? How do we distinguish between them?

@@ -10,15 +10,13 @@ muftis:
   members:
   - name: Shaykh Abdullah Ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA no. 6397
 summary: It is not permissible to do any of the things mentioned. In fact, doing them
   is Haram, as it is sharing in their disbelief and helping them in what is not permissible
   in Islam.
 title: Ruling on attending Buddhist ceremonies
 ---
-
-
 ### Question: 
  
 What is the ruling on Muslim's taking part in the celebrations held by the Buddhists for their dead, such as:

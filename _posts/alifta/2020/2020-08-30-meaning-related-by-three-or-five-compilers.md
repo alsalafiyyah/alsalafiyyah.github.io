@@ -4,7 +4,7 @@ hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz Ibn Baz
 - Shaykh Abdul-Aziz Aal al-Shaykh
@@ -13,8 +13,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 18611-4
 title: Who is meant by the reference 'Related by the Three or Five Compilers'
 ---
-
-
 Question: 
 
 What is meant by "Related by the three" and "Related by the five"?

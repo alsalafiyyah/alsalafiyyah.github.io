@@ -5,7 +5,7 @@ hijri: '1441-12-07'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 3207, Question 3
 summary: People should not visit graves to supplicate to the dead or ask for their
   help or intercession, as this is Shirk. It is also not permissible to travel far
@@ -13,8 +13,6 @@ summary: People should not visit graves to supplicate to the dead or ask for the
 title: Ruling on visiting the graves to supplicate to the dead or ask for their help
   or intercession
 ---
-
-
 ### Question: 
 I found contradictory and controversial Hadith in the book: "Shifa' Al-Siqam fy Ziyarat Khayr Al-Anam" by Shaykh Taqy Al-Din Al-Subky Al-Shafi'i, in the chapter on Tawassul (supplicating to Allah through a means) through the Prophet (peace be upon him) and seeking his help and intercession, specifically between pages 160 and 178. Please advise us about this book, especially the chapter on Tawassul.
 

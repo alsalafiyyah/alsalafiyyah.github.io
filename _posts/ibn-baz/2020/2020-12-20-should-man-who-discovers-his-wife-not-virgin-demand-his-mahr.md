@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: Should a man who discovers that his wife is not a virgin demand his Mahr?
 hijri: '1442-05-05'
 source: Fatawa Shaykh Ibn Baz p. 20/288
@@ -16,8 +16,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question:
 
 In some countries, people like to see the virginal blood on the bride's garment and announce her virtuousness the next morning in daylight. If a husband finds his wife has no hymen and wants to conceal her secret, he is ordered to divorce her. In this case, should the bride's family give the husband back the Mahr (mandatory gift to a bride from her groom) he paid?

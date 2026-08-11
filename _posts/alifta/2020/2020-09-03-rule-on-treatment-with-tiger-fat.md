@@ -18,14 +18,12 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/zayd/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 18419, Question 2
 summary: The impermissibility mentioned above applies to using the fat of these animals
   for medical treatment as well.
 title: Ruling on treatment with tiger fat
 ---
-
-
 ### Question:
 What is the ruling on so-called (tiger fat) that is currently widespread in the market? Is it permissible to use it for treatment? 
 

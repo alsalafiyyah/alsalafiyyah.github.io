@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-10
 hijri: '1447-11-23'
 title: Must a Man Disclose Infertility to a Prospective Spouse?
@@ -20,8 +20,6 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 ### Question:
 
 We have a colleague at work who is not yet married. Every now and then, we remind him of the virtues of marriage and urge him to take that step, to which he replies, "In Shaa Allah" One day, I pressed him on the matter and said, "I don't think there is any reason for your reluctance to get married." He responded, "There is a reason," and then revealed, "I am infertile and cannot have children. When I want to propose, should I inform them of this, or not?"

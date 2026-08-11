@@ -20,14 +20,12 @@ muftis:
     url: /biography/fawzan/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah no. 16131
 summary: I would like Your Eminence to explain the meaning of this honorable Hadith,
   as I conversed with a Muslim brother regarding it.
 title: There is many a reciter of the Qur'an whom the Qur'an curses
 ---
-
-
 Question: 
 
 The Messenger of Allah (peace be upon him) said: "**There is many a reciter of the Qur'an whom the Qur'an curses.**" I would like Your Eminence to explain the meaning of this honorable Hadith, as I conversed with a Muslim brother regarding it, and he told me that the people that are meant by the Hadith are those who read the Ayah (Qur'anic verse) warning against Riba (usury) and yet indulge in usurious dealings, or read the Ayah of showing dutifulness towards one's parents, and yet they are undutiful to them, and many other cases. Is this what the honorable Ayah suggests? Or is it applicable to those who recite the Qur'an without pondering over its meanings or Ayahs? I would like Your Eminence to elaborate on this matter.

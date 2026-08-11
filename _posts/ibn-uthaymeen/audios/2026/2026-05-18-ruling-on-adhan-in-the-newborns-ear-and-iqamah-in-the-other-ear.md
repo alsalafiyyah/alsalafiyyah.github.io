@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-18
 title: The Ruling on the Adhan in the Newborn's Ear and the Iqamah in the Other Ear
 source: Fatawa Nur 'ala al-Darb, Tape no. 307
@@ -22,8 +22,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1447-12-01'
 ---
-
-
 ### Question: 
 
 May Allah reward you with goodness. The questioner, who signed using the initials A. A., asks: What is the authenticity of performing the Adhan in the newborn’s ear and the Iqamah in the other [ear]? May Allah reward you with goodness.

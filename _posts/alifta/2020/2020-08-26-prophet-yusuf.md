@@ -5,14 +5,12 @@ hijri: '1442-01-07'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com, salafiyyah@outlook.sa
+publisher: alsalafiyyah.manhaj@gmail.com, salafiyyah@outlook.sa
 source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 9308, Question 2
 summary: Yusuf, peace be upon him, and his brothers are the sons of Ya'qub (Jacob,
   also known as Israel, peace be upon him).
 title: Prophet Joseph, peace be upon him
 ---
-
-
 ### Question:
 Does the word Asbat (Descendants of Jacob) mentioned in the Qur'an include Prophet Yusuf's (Joseph) brothers who threw him into the bottom of a well? If they were Prophets, how could their course of action with Yusuf be justified? Or did they plot against him before they were chosen for prophethood?
 

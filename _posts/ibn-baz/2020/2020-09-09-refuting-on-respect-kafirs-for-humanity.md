@@ -8,7 +8,7 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa of Shaykh Ibn Baz vol 3
 summary: With these brief words, I wanted to clarify what was written by this writer
   and warn against the mistakes that were mentioned by him, for fear that people may
@@ -16,8 +16,6 @@ summary: With these brief words, I wanted to clarify what was written by this wr
 title: Refuting an article which states:'We should avoid all conflicts between our
   two religions...'
 ---
-
-
 All praise be to Allah, and peace and blessings be upon the Messenger of Allah, and his family and Companions, and whoever is guided by his guidance. 
 
 I read what was published in issue no. 5785 of the "Al-Madinah" newspaper on 10 Rabi' Thany, 1403 A.H. and the answers given by some writers to the questions asked in the European magazine "Le Viva Romavzin." I found the following paragraph: 

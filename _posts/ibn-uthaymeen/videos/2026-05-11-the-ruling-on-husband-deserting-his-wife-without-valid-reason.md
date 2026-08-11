@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The ruling on a husband deserting his wife without a valid reason
 hijri: '1447-11-24'
 date: 2026-05-11
@@ -24,8 +24,6 @@ muftis:
   - name: Shaykh Ibn 'Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 ### Question: 
 
 Is it permissible for a husband to forsake his wife for an entire year—sleeping in one room while the wife sleeps in another—despite her having committed no offense against him?

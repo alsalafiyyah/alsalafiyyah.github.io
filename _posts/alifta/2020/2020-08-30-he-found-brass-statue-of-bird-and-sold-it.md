@@ -4,7 +4,7 @@ hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdul-Razzaq al-Afify
@@ -14,8 +14,6 @@ shaykhs:
 source: Fatawa Al-Lajnah Ad-Da'imah no. 16269
 title: He found a brass statue of a bird and sold it
 ---
-
-
 Question: 
 
 I found a brass statue of a bird standing over a cross in the street. There is an antiques company, which sends its worker to collect all the ancient monuments left behind by the British and the Germans in World War I. Some friends told me that selling this bird-like statue is not permissible, because it reaches the Christians, who worship the cross under the bird. I was not convinced, because my friends did not give me evidence from the Qur'an or the Sunnah. I sold this antique for an amount of dirhams. Am I sinful for doing that? Answer me, may Allah reward you with the best.

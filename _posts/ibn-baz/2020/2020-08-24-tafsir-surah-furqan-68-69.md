@@ -8,15 +8,13 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat 5/355, question no. 12
 summary: 'These great Ayahs warn against Shirk (associating others with Allah in His
   Divinity or worship), Qatl (murder), and Zina (sexual intercourse outside marriage). '
 title: Tafsir Surah Al-Furqan Ayat 68-69
 uid: tafsir-surah-furqan-68-69
 ---
-
-
 Question: 
 
 What is the meaning of Allah’s Saying: "**And those who invoke not any other ilâh (god) along with Allâh, nor kill such person as Allâh has forbidden, except for just cause, nor commit illegal sexual intercourse - and whoever does this shall receive the punishment. The torment will be doubled to him on the Day of Resurrection, and he will abide therein in disgrace;**" [al-Furqan: 68-69] Do these Ayahs (Qur’anic verses) mean that a person who commits all of the three mentioned major sins will abide in Hellfire forever or that applies to whoever commits only one of them?

@@ -13,15 +13,13 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa 1/376, Fatawa Al-Lajnah Ad-Da'imah, Fatwa No.9420, Question
   2
 summary: Do Wahhabis deny intercession by the Messenger of Allah, peace and blessings
   be upon him?
 title: Do Wahhabis deny Shafa’ah (intercession)
 ---
-
-
 ### Question: 
 Do Wahhabis deny Shafa’ah (intercession) by the Messenger of Allah (peace be upon him)?
 

@@ -5,15 +5,13 @@ hijri: '1442-01-15'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no.17941, Question 6
 summary: They should be called to Islam with wisdom and fair preaching and be argued
   with in a way that is best. You must adopt all possible means and use the language
   they understand.
 title: Calling Muslims who do not know Islam
 ---
-
-
 ### Question:
 My question is about what should be given priority while practicing Da'wah (call to Islam) here. Muslims here know nothing about Islam. Perhaps if most of them were to be asked about the pillars of Islam, they would not be able to answer. Moreover, many of them do not know the truth about 'Isa (Jesus) (peace be upon him) thanks to the Russian mass media. They are subjected to Russian television which informs people that 'Isa (Jesus) is the son of Allah. Moreover, they do not perform Salah (Prayer) and the youth pay no attention at all to learning anything about Islam. How should we proceed to call them to Islam with a sound plan based on the Prophetic methodology? 
 

@@ -8,15 +8,13 @@ muftis:
   shaykh:
   - name: Shaykh Salih Al-Fawzan
     url: /biography/fawzan
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa as-Siyasah ash-Shar'iyyah, Question 1
 summary: Faith is not faith except if the aqidah (creed) is correct. And if the aqidah
   is not correct, then there is no iman, and (there is) no deen (religion).
 title: All acts of worship depends on correct aqidah
 translated_by: Masjid Uthaymeen
 ---
-
-
 ### Question:
 There is (one) here who is lax concerning the importance of aqidah (creed) and he is of the opinion that iman (faith) is sufficient (for him). Do you have any clarification concerning the importance of aqidah for the Muslim and how it reflects on his life, on his relationship with the (Muslim) society (as a whole) and with the non-Muslims?
 

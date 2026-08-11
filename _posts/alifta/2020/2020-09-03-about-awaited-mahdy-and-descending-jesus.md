@@ -15,15 +15,13 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 1615, Question11
 summary: As far as we know, there is no Sahih Hadith which specifies the time of his
   descent. The only piece of information is that he descends after Al-Masih-ul-Dajjal
   or the Antichrist.
 title: Reports about the Awaited Al-Mahdy and the descending of 'Isa
 ---
-
-
 ### Question: 
 
 What is reported from the Prophet (peace be upon him) regarding the appearance of the Awaited Mahdy and the descent of 'Isa (Jesus, peace be upon him)? 

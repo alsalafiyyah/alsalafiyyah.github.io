@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-06-12
 title: Judging Islam by Its Teachings, Not by the Behavior of Muslims
 source: Liqa' al-Bab al-Maftuh 120, Question 10
@@ -21,8 +21,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1447-12-26'
 ---
-
-
 ### Question:
 
 A non-Muslim man hears about Islam and knows that it calls to monotheism and that there is only one God. However, from what appears to him regarding Muslims—based on the information that reaches him—he perceives them to be fierce and combative, and that their Prophet was like that as well. Nevertheless, he believes that there is only one God. What is the recompense for this person on the Day of Resurrection?

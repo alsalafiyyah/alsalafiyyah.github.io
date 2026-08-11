@@ -4,7 +4,7 @@ hijri: '1442-01-11'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 shaykhs:
 - Shaykh Abdul-Aziz ibn Baz
 - Shaykh Abdul-Razzaq al-Afify
@@ -13,8 +13,6 @@ source: Fatawa Al-Lajnah Ad-Da'imah no. 14893-8
 title: I found a sum of money somewhere and asked people there about it but it was
   not theirs
 ---
-
-
 Question: 
 
 I found a sum of money somewhere and asked people there about it but it was not theirs. Is it permissible to use this money?

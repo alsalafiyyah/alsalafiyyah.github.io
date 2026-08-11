@@ -15,7 +15,7 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah Ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah no. 6465
 summary: Those who refused to embrace Islam after its message was conveyed to them,
   whether in the period before or during the time of the Prophet (peace be upon him)
@@ -25,8 +25,6 @@ summary: Those who refused to embrace Islam after its message was conveyed to th
   upon him)
 title: Ruling on Ahl Al-Fatrah
 ---
-
-
 Question:
 
 Two people differed over the final destiny of Ahl-Al-Fatrah (people whom the message of Islam has not reached). While one holds the view that they will be saved from the Fire, the other thinks that they will not.  

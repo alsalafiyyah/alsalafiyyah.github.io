@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-06-02
 title: Islamic Ruling on In-Law Interference and Its Impact on Marriage
 source: Fatawa Nur 'ala al-Darb, Tape no. 369
@@ -22,8 +22,6 @@ muftis:
     url: /biography/uthaymeen/
 hijri: '1447-12-16'
 ---
-
-
 ### Question: 
 
 May Allah reward you with goodness. In his second question, this listener asks: My wife's family is causing distress for me and my wife. What is the ruling on shunning them and stopping visits to them?

@@ -8,15 +8,13 @@ muftis:
   shaykh:
   - name: Shaykh Ibn Baz
     url: /biography/binbaz
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat vol 9
 summary: Lacking beneficial knowledge, their ultimate concern is to be at enmity with
   Islam and its followers. They seek to confuse Muslims with regard to their religion.
 title: Warning against seeking Fatwa from ignorant people and those who follow false
   doctrines
 ---
-
-
 His Eminence Shaykh Abdul-Aziz ibn Abdullah ibn Baz the Grand Mufty of Kingdom of Saudi Arabia, Chairman of Council of Senior Scholars and Departments of Scholarly Research and Ifta', warned youth against asking for the opinion of the ignorant, half-educated people and followers of false doctrines who seek to sow the seeds of discord between Muslims and try to harm their Din (religion).
 
 In response to a question published in **Al-Yawm newspaper** on the role scholars can play in directing young people and warning them against adopting alien principles which incite them to rebel against their country, His Eminence said:

@@ -13,14 +13,12 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 11142, Question 3
 summary: It is obligatory on a Muslim to return the lost property of a disbeliever
   who is under Islamic protection if he finds it.
 title: Ruling on returning a Christian's lost object and saving them from drowning
 ---
-
-
 ### Question: 
 
 Is it permissible for a Muslim to return lost property he finds which belongs to a disbeliever? Is it permissible for a Muslim to save a drowning disbeliever? Is it considered love of disbelievers to do so? May Allah reward you!

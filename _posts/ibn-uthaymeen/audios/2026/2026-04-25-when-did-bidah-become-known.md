@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-04-25
 hijri: '1447-11-08'
 title: When Did Bid'ah Become Known?
@@ -22,8 +22,6 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
-
-
 ### Question: 
 
 When did innovation (bid'ah) first appear? And when did it become known?

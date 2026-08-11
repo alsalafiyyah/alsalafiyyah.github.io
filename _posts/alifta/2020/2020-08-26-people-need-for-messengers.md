@@ -5,15 +5,13 @@ hijri: '1442-01-07'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 7289, Question 5
 summary: Indeed, humankind are in dire need for the messengers, as human beings minds
   differ greatly in reason. Moreover, they are unable to recognize - independently
   - the words and deeds that please or displease Allah.
 title: People's need for Allah's Messengers
 ---
-
-
 ### Question:
 In light of being honored with faculties of reason and natural disposition, do humans stand in need of Prophets? If 'yes', why are the prophets human beings?
 

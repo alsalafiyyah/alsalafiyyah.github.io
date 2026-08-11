@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: A woman is not guilty of sin if she advises her negligent husband
 hijri: '1445-01-09'
 date: 2023-07-27
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Ibn Baz
     url: /biography/binbaz
 ---
- 
-
 ### Question:
 
 If a woman advises her negligent husband to do his prayers in the mosque or she expresses anger with regard to that, is she guilty of sin, because his rights over her are so great?

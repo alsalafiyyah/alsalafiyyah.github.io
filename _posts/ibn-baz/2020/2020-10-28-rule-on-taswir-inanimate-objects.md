@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The ruling on Taswir of an inanimate objects
 hijri: '1442-03-11'
 source: This was published in the Magazine of the Islamic University in Madinah
@@ -18,8 +18,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 If Taswir (painting, drawing, sculpture, and photography) of inanimate objects is lawful from the Shar'i perspective, is it permissible to continue doing so? 

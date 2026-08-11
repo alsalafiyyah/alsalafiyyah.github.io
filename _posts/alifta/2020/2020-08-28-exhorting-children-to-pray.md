@@ -5,14 +5,12 @@ hijri: '1442-01-09'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 5133, Question 3
 summary: When a child reaches the age of seven, the guardian should command them to
   perform Salah in order to get them used to it.
 title: Exhorting children to pray
 ---
-
-
 ### Question: 
 
 The Messenger of Allah (peace be upon him) said: "**Command your children to pray when they are seven years old, and beat them for (neglecting) it when they are ten years old; and separate them in bed at the time of sleep.**" [^1] Do the "seven years" start upon the end of the sixth year or upon the end of the seventh year and the beginning of the eighth year?

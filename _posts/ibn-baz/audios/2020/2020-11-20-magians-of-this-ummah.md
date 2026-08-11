@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Who are the Magians of this Ummah?
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 hijri: '1442-04-05'
 date: 2020-11-20
 lang: en
@@ -19,8 +19,6 @@ summary: They are the Qadariyyah who deny fate and say that everything is predes
 shaykhs:
 - Shaykh Ibn Baz
 ---
-
-
 ### Question:
 Who are the Magians of this Ummah, Shaykh Abdul-Aziz ?
 

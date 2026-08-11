@@ -14,14 +14,12 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah no. 13619-1
 summary: 'What is the meaning of the following Hadith: ''Verily, Allah helps this
   religion (Islam) even through a wicked person.'' What is its meaning?'
 title: 'The Hadith: ''Verily, Allah helps this religion even through a wicked person'''
 ---
-
-
 Question: 
 
 What is the meaning of the following Hadith:  "**Verily, Allah helps this religion (Islam) even through a wicked person.**" What is its meaning?

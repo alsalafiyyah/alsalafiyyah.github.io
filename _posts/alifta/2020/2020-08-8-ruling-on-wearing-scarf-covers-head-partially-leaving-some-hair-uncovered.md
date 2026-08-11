@@ -5,13 +5,12 @@ hijri: Dhul-Hijjah 14, 1441
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 5007, Question1
 summary: It is not sufficient to partially cover her head with a scarf, leaving some
   hair uncovered, in the presence of Ajanib.
 title: Ruling on wearing scarf that covers the head partially leaving some hair uncovered
 ---
-
 ### Question: 
 
 Is it permissible for a woman to cover her head with a scarf that covers the head partially leaving some hair uncovered?

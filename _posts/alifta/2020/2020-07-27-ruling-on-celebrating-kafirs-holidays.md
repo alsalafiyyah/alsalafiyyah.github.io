@@ -19,15 +19,13 @@ muftis:
     url: /biography/abdulaziz/
   - name: Shaykh Bakr Abu Zayd
     url: /biography/bakr/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Daimah, Fatwa no. 16419, Question 1
 summary: What is the ruling on Muslims who celebrate holidays of non-Muslims that
   Allah did not sanction, such as the Mother's Day, Sham Al-Nasim and Christmas?
 title: Ruling on celebrating holidays of Non-Muslims
 uid: ruling-on-celebrating-kafirs-holidays
 ---
-
-
 ### Question: 
 
 What is the ruling on Muslims who celebrate holidays of non-Muslims that Allah did not sanction, such as the Mother's Day, Sham Al-Nasim and Christmas?

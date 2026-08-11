@@ -4,7 +4,7 @@ hijri: '1441-12-07'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, fatwa no. 3087
 summary: Al-Tijaniyyah Order is one of the worst sects in terms of deviation and misguidance
   and propagation of Bid'ahs (innovations in religion) which are sanctioned neither
@@ -15,8 +15,6 @@ tags:
 title: Ruling on the Tijaniyyah sufi order and praying behind them
 translation: false
 ---
-
-
 ### Question: 
 
 In our village, there is an Imam who follows Al-Tijaniyyah Tariqah (Sufi order). The followers of this Tariqah receive the wird (sequence of devotional phrases to be repeated at certain times) from the Muqaddam (representative of the order). It is to be pronounced in a loud voice inside the Masjid (mosque) while sitting in a circle, in the middle of which there is a white cloth. This wird is called Al-Hilalah and it is repeated everyday after Fajr (morning) and 'Asr (afternoon) prayers. There is another wird called Al-Wazhifah, which is to be said after 'Asr (afternoon) prayer on Friday. This wird ends by saying Al-hamdu lillah [All praise is due to Allah] and other forms of Dhikr (Remembrance of Allah).

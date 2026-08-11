@@ -13,14 +13,12 @@ muftis:
   members:
   - name: Shaykh Abdullah ibn Ghudayyan
     url: /biography/ghudayyan/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 9272, Question 2
 summary: Yes, seeking help from someone who is dead or absent is considered an act
   of major Shirk and doing so puts the doer outside the fold of Islam
 title: Seeking the help of the dead or the absent is major Shirk
 ---
-
-
 ### Question: 
 
 Is seeking help from someone who is absent or dead considered an act of major Kufr (disbelief)?

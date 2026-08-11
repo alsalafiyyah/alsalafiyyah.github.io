@@ -10,7 +10,7 @@ lang: en
 layout: post
 mass_edited: true
 published: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.4029, Question 5
 summary: It is not permissible for a Muslim to nominate himself hoping to be a part
   of a system disagreeing with the Islamic revealed law.
@@ -19,8 +19,6 @@ tags:
 title: Ruling on voting and candidacy
 translation: false
 ---
-
-
 ### Question: 
 
 Is it permissible to vote or nominate for elections, given the fact that our country is not ruled by the law revealed by Allah?

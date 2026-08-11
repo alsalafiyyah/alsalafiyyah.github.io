@@ -15,15 +15,13 @@ muftis:
     url: /biography/ghudayyan/
   - name: Shaykh Abdullah ibn Qa'ud
     url: /biography/qaud/
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 2844
 summary: There are many Hadiths that indicate the emergence of Al-Mahdy. They were
   reported in many chains of transmission. A group of scholars said that these Hadiths
   are morally Mutawatir.
 title: The coming out of Al-Mahdy
 ---
-
-
 ### Question: 
 
 I would like to know the validity of the existence of Al-Mahdy who will appear on earth. Are there any authentic Hadiths about him? May Allah reward you! 

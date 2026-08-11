@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 title: The Final Ruling on Women Visiting Graves in Islam
 hijri: '1442-04-13'
 date: 2020-11-28
@@ -19,8 +19,6 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
-
-
 ### Question: 
 
 This inquirer is asking about the authenticity of the hadith narrated from the Prophet ﷺ when Aisha (may Allah be pleased with her) asked him to teach her the supplication to say when visiting graves, and he taught her. Is this hadith authentic, and does it indicate the permissibility of women visiting graves?

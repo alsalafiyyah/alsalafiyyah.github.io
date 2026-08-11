@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Was Shaykh Muhammad ibn Abdul-Wahhab's Da'wah based on Takfir?
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 hijri: '1442-03-25'
 date: 2020-11-11
 category:
@@ -21,8 +21,6 @@ muftis:
   - name: Shaykh Abdul-Aziz Aal ash-Shaykh
     url: /biography/abdulaziz/
 ---
-
-
 ### Question:
 Some claim that Takfir (declaring someone to be a disbeliever) that is known nowadays was the product of Shaykh Muhammad ibn 'Abdul-Wahhab's da'wah. They also claim that some of his books, such as Kashf Al-Shubuhat and Al-Durar Al-Saniyyah, establish the approach to Takfir. What is Your Eminence's answer to those who make this claim? May Allah bless you.
 

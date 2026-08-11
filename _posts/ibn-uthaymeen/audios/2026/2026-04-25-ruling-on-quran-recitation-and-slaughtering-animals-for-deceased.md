@@ -1,6 +1,6 @@
 ---
 layout: post
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-04-25
 hijri: '1447-11-08'
 title: On the Custom of Quranic Recitation and Slaughtering Animals for the Deceased
@@ -21,7 +21,6 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
-
 ### Question:
 
 Finally, he asks about reciting the Quran for three days in the house of the deceased and slaughtering animals on the day of death?

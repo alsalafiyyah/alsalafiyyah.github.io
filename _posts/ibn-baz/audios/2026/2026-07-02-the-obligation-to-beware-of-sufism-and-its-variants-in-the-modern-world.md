@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Obligation to Beware of Sufism and Its Variants in the Modern World
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-07-02
 active: audios
 category:
@@ -21,8 +21,6 @@ muftis:
     url: /biography/binbaz/
 hijri: '1448-01-17'
 ---
-
-
 ### Question: 
 
 Among the challenges of the modern era is the presence of the Batiniyyah (esoteric sects) and Sufism that are hostile to the pure Salafiyyah 'aqidah (creed). They display hypocrisy toward the adherents of the correct creed while harboring malice and working to propagate their falsehood. We request a clarification on this matter.

@@ -5,15 +5,13 @@ hijri: '1441-12-08'
 lang: en
 layout: post
 mass_edited: true
-publisher: alsalafiyyah@icloud.com
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 8879
 summary: What is the ruling on reading the book entitled Dala’il Al-Khayrat by Imam
   Muhammad ibn Sulayman Al-Jazuly which contains daily Awrad (oft-recited invocations)
 title: Ruling on reading a book that includes Tawassul through the Prophet and asking
   for his intercession
 ---
-
-
 ### Question: 
 What is the ruling on reading the book entitled “Dala’il Al-Khayrat” by Imam Muhammad ibn Sulayman Al-Jazuly which contains daily Awrad (oft-recited invocations) that include beseeching and seeking to approach Allah (Tawassul) by means of the Prophet (peace be upon him) and begging him for his Shafa‘ah (intercession), such as saying, “O Muhammad! O our beloved! We are beseeching your Lord in your name, so please intercede for us with the Great Lord” and also, “O Allah! We seek by his virtue his intercession for us with You; for he is the most eminent intercessor with You. We adjure You by him, as he is the greatest one to adjure You by his right. We seek to draw close to You through him, as he is the nearest means to You, descendant of the most noble origin.”
 
