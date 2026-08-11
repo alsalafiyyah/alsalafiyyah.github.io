@@ -1,7 +1,7 @@
 from pathlib import Path
 
 # Target directory
-CATEGORIES_DIR = Path("_categories")
+CATEGORIES_DIR = Path("_tag")
 
 
 def rename_html_to_md():
