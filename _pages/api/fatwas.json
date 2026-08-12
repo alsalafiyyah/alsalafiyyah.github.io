@@ -27,7 +27,11 @@ permalink: /api/fatwas.json
     "shaykhs": {{ post.shaykhs | jsonify }},
     "muftis": {{ post.muftis | jsonify }},
     "summary": {{ post.summary | default: "" | jsonify }},
-    "content": {{ post.content | strip_html | strip_newlines | jsonify }}
+    "content": {{ post.content | strip_html | strip_newlines | jsonify }},
+    {% for i in (1..20) %}
+      {% assign g_key = "group" | append: i %}
+      "{{ g_key }}": {{ post[g_key] | default: false | jsonify }}{% unless forloop.last %},{% endunless %}
+    {% endfor %}
   }{% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
