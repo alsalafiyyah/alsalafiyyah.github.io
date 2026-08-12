@@ -3,6 +3,7 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 title: "Shaykh Saleh ibn Muhammad al-Luhaydan"
 active: biography
+official_web: https://lohaidan.af.org.sa/
 summary: "He was born in the Al-Bukayriyah Governorate of the Al-Qassim Region. After completing his basic education across its three stages, he enrolled in the College of Sharia in the capital, Riyadh, to pursue his university education."
 ---
 
