@@ -23,6 +23,12 @@ scholar_groups:
     url: "/biography/fawzan"
   - name: "Shaykh Abdullah ibn Muni"
     url: "/biography/mani"
+  - name: "Shaykh Saad ibn Nasir ibn Abdul-Aziz Al-Shathri"
+    url: "/biography/saad-ibn-nasir"
+  - name: "Shaykh Muhammad ibn hasan ibn Abdul-Rahman Aal Al-Shaykh"
+    url: "/biography/muhammad-ibn-hasan"
+  - name: "Shaykh Abdul Salam ibn Abdullah ibn Muhammad Al-Sulaiman"
+    url: "/biography/abdul-salam"
 ---
 
 <ul>

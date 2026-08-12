@@ -598,14 +598,14 @@ group20:
 
 group21:
   chairman: 
-    - name: Shaykh Salih al-Fawzan
+    - name: Shaykh Salih al-Fawzan ibn Abdullah Al-Fawzan
       url: /biography/fawzan
   members: 
-    - name: Shaykh Muhammad ibn hasan 
+    - name: Shaykh Muhammad ibn hasan ibn Abdul-Rahman Aal Al-Shaykh
       url: /biography/muhammad-ibn-hasan
-    - name: Shaykh Saad ibn Naseer
-      url: /biography/saad-ibn-naseer
-    - name: Shaykh Abdul Salam ibn Abdullah
+    - name: Shaykh Saad ibn Naseer ibn Abdul-Aziz Al-Shathri 
+      url: /biography/saad-ibn-nasir
+    - name: Shaykh Abdul Salam ibn Abdullah ibn Muhammad Al-Sulaiman
       url: /biography/abdul-salam   
 
 
