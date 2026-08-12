@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah.manhaj@gmail.com.com
-title: "Shaykh Saad ibn Nasir ibn Abdul-Aziz Al-Shathri"
+title: "Shaykh Saad ibn Nasir Al-Shathri"
 active: biography
 official_web: https://www.alshathri.net/
 summary: "He is Saad bin Nasser bin Abdulaziz bin Mohammed bin Abdulaziz bin Ibrahim bin Hamad bin Mohammed Al-Shathri, and his family belongs to the Qahtan tribe."
