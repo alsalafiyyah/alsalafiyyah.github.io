@@ -3,7 +3,6 @@ date: 2026-07-01
 group5: true
 lang: en
 layout: post
-mass_edited: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da’imah 2/117-120, Fatwa no. 21168
 summary: Whoever follows this sect Tolu-e-Islam, advocates for it, or beautifies its
@@ -11,6 +10,9 @@ summary: Whoever follows this sect Tolu-e-Islam, advocates for it, or beautifies
   the religion of Islam.
 tags:
 - alifta
+tags:
+- sects
+- quranism
 title: On the Deviant Beliefs of the Tolu-e-Islam Sect
 translation: false
 hijri: '1448-01-16'

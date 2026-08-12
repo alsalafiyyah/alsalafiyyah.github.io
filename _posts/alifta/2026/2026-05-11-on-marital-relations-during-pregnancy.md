@@ -1,14 +1,10 @@
 ---
-article_taken_from:
-  taken_from:
-  - web_title: حكم جماع الحامل
-    web_url: https://fatawapedia.com/حكم-جماع-الحامل-22870
 date: 2026-05-11
 group2: true
 hijri: '1447-11-24'
 lang: en
 layout: post
-mass_edited: true
+link: "https://fatawapedia.com/حكم-جماع-الحامل-22870"
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah 19/353, Fatwa no.18371, Question 2
 summary: Sexual intercourse during pregnancy is permissible provided it does not cause
@@ -16,6 +12,8 @@ summary: Sexual intercourse during pregnancy is permissible provided it does not
   menstruation.
 tags:
 - alifta
+category:
+- marriage
 title: On Marital Relations During Pregnancy
 translation: false
 ---

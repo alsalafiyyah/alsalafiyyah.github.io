@@ -10,6 +10,8 @@ summary: Abandoning the pursuit of knowledge out of fear of falling short in imp
   is a deception from Satan to mislead the children of Adam.
 tags:
 - alifta
+category:
+- knowledge
 title: Rulings on Abandoning Knowledge Due to Deficiencies in Practice
 translation: false
 hijri: '1448-02-13'
