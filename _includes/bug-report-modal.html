@@ -14,20 +14,20 @@
         <!-- Form -->
         <form id="bugReportForm" action="https://script.google.com/macros/s/AKfycbwUIXfTBCrH3CUL9PoiwOi_TIl2wevG7fnOTFFMgVs5bR4f4yh4CMD0PzGG1EMrBtyd/exec" method="POST" class="space-y-4">
             
-            <!-- Hidden Jekyll Auto-Populated Inputs -->
-            <input type="hidden" name="title" value="{{ page.title | escape }}">
-            <input type="hidden" name="url" value="{{ page.url | absolute_url }}">
+            <!-- Hidden Dynamic Inputs (Populated via JS for 404) -->
+            <input type="hidden" name="title" id="reportInputTitle" value="404 Not Found">
+            <input type="hidden" name="url" id="reportInputUrl" value="">
 
             <!-- Readonly info summary -->
-            <div class="p-3 bg-gray-100 dark:bg-zinc-900 border border-gray-300 dark:border-zinc-800 text-xs text-gray-600 dark:text-gray-400 space-y-1">
-                <p class="text-xs mb-0"><strong>Title:</strong> {{ page.title }}</p>
-                <p class="text-xs"><strong>{{ site.site_elements.link_error }}:</strong> {{ page.url | absolute_url }}</p>
+            <div class="p-3 bg-gray-100 dark:bg-zinc-900 border border-gray-300 dark:border-zinc-800 text-xs text-gray-600 dark:text-gray-400 space-y-1 text-left">
+                <p class="text-xs mb-0"><strong>Title:</strong> <span id="reportDisplayTitle">404 Not Found</span></p>
+                <p class="text-xs"><strong>{{ site.site_elements.link_error }}:</strong> <span id="reportDisplayUrl" class="break-all"></span></p>
             </div>
 
             <!-- User Message Input -->
-            <div class="flex flex-col gap-1.5">
+            <div class="flex flex-col gap-1.5 text-left">
                 <label for="bug-message" class="text-[11px] font-black uppercase tracking-wider text-black dark:text-white">{{ site.site_elements.error_text }}</label>
-                <textarea id="bug-message" name="message" rows="4" required placeholder="e.g. Typos, broken links, formatting issues, or audio error..." 
+                <textarea id="bug-message" name="message" rows="4" required placeholder="e.g. This link is broken or missing..." 
                           class="w-full p-3 border-2 border-black dark:border-white bg-transparent text-black dark:text-white focus:outline-none focus:ring-2 focus:ring-black dark:focus:ring-white transition-all font-medium text-sm resize-none"></textarea>
             </div>
 
