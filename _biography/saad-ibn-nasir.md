@@ -156,4 +156,4 @@ The Sheikh has actively participated in a number of academic conferences, presen
 5. *Treating Infertility via Cloning* (Ministry of Health / Jeddah).
 6. *Conjoined Twins* (Islamic Fiqh Academy in Mecca).
 
-Source: [السيرة الذاتية](https://www.alshathri.net/site/page?slug=%D8%B3%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE}
+Source: [السيرة الذاتية](https://www.alshathri.net/site/page?slug=%D8%B3%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE)
