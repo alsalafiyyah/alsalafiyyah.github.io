@@ -2,16 +2,8 @@
 hijri: '1442-01-25'
 lang: en
 layout: post
-mass_edited: true
-muftis:
-  deputy_chairman:
-  - name: Shaykh Abdul-Razzaq Al-Afifi
-    url: /biography/afifi/
-  members:
-  - name: Shaykh Abdullah ibn Ghudayyan
-    url: /biography/ghudayyan/
-  - name: Shaykh Abdullah ibn Mani'
-    url: /biography/mani/
+group4: true
+tags: alifta
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatwa of the Permanent Committee no. 511
 summary: 'If they fail after exerting effort to pronounce it properly, they are excused
