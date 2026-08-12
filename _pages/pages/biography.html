@@ -9,49 +9,55 @@ summary: "Biography of Imams and scholars of the Sunnah who stood firm upon the 
 {% assign folder_path = "_pages/scholar" %}
 {% assign target_files = site.pages | where_exp: "item", "item.path contains folder_path" | where_exp: "item", "item.url != page.url" %}
 
-<p>Total Scholars: {{ target_files.size }}</p>
+<p class="text-sm font-semibold uppercase tracking-widest text-gray-400 dark:text-zinc-500 mb-6">
+    Total Scholars: {{ target_files.size }}
+</p>
 
-<div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+<section class="mt-12 space-y-0">
   {% for file in target_files %}
     {% assign scholar_slug = file.name | replace: ".md", "" | replace: ".html", "" %}
     {% assign scholar_posts_path = "_posts/" | append: scholar_slug | append: "/" %}
     {% assign scholar_post_count = site.posts | where_exp: "post", "post.path contains scholar_posts_path" | size %}
-<article class="border-2 border-black dark:border-white p-6 bg-white dark:bg-neutral-900 flex flex-col justify-between shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] dark:shadow-[4px_4px_0px_0px_rgba(255,255,255,1)]">
-        <div>
-          <!-- Header: Fatwa Count Badge -->
-          <div class="flex items-center justify-between gap-2 mb-4">
-            <a href="{{ file.url | relative_url }}" 
-               class="inline-flex items-center gap-1.5 px-2.5 py-1 text-xs font-mono font-bold uppercase tracking-widest border border-black dark:border-white bg-neutral-100 dark:bg-neutral-800 hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-colors">
-              <span>📚</span>
-              <span>{{ scholar_post_count }} Fatwas</span>
-            </a>
-          </div>
-
-          <!-- Scholar Name -->
-          <h3 class="text-2xl font-black tracking-tight mb-6">
-            <a href="{{ file.url | relative_url }}" class="hover:underline">{{ file.title | default: file.name }}</a>
-          </h3>
+        
+    <!-- Individual Scholar Row -->
+    <div class="group py-10 border-b border-gray-200 dark:border-zinc-800 grid grid-cols-1 md:grid-cols-12 gap-6 items-center transition-colors duration-200">
+        
+        <!-- Metadata & Heading -->
+        <div class="md:col-span-8 space-y-1">
+            <span class="inline-block text-[11px] font-black uppercase tracking-widest text-gray-400 dark:text-zinc-500">
+                {{ scholar_post_count }} Entries
+            </span>
+            <h3 class="text-3xl md:text-3xl font-black uppercase tracking-tighter font-serif text-gray-900 dark:text-white transition-all">
+                <a href="{{ file.url | relative_url }}" class="group-hover:text-blue-600 dark:group-hover:text-blue-400 group-hover:underline decoration-2 underline-offset-4 transition-all">
+                    {{ file.title | default: file.name }}
+                </a>
+            </h3>
         </div>
 
-        <!-- Action Bar Buttons -->
-        <div class="flex flex-col sm:flex-row items-stretch gap-3 pt-4 border-t-4 border-black dark:border-white">
-          <!-- Fatwas URL -->
-          <a href="{{ file.url | relative_url }}" 
-             class="flex-1 text-center py-2.5 px-3 text-xs font-black uppercase tracking-wider bg-black text-white dark:bg-white dark:text-black hover:opacity-80 transition-opacity">
-            Fatwas
-          </a>
-          <!-- Read Biography -->
-          <a href="{{ file.bio_url }}" 
-             class="flex-1 text-center py-2.5 px-3 text-xs font-black uppercase tracking-wider bg-black text-white dark:bg-white dark:text-black hover:opacity-80 transition-opacity">
-            Biography
-          </a>
+        <!-- Action Links -->
+        <div class="md:col-span-4 flex md:flex-col items-start md:items-end justify-between md:justify-center space-y-0 md:space-y-2">
+            <!-- Primary Action: Read Biography -->
+            {% if file.bio_url %}
+            <div>
+                <a href="{{ file.bio_url }}" class="inline-flex items-center gap-1.5 text-xs font-bold uppercase tracking-wider text-gray-900 dark:text-zinc-200 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
+                    <span>Read Biography</span>
+                    <svg class="w-3.5 h-3.5 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+            {% endif %}
 
-          <!-- Official Website Link -->
-            <a href="{{ file.official_web }}" target="_blank" rel="noopener noreferrer" 
-               class="flex-1 text-center py-2.5 px-3 text-xs font-black uppercase tracking-wider border border-black dark:border-white hover:bg-neutral-100 dark:hover:bg-neutral-800 transition-colors inline-flex items-center justify-center gap-1">
-              🌐 Web
-            </a>
+            <!-- Official Website -->
+            {% if file.official_web %}
+            <div>
+                <a href="{{ file.official_web }}" class="text-[11px] font-semibold uppercase tracking-widest tabular-nums text-gray-400 dark:text-zinc-500 hover:text-gray-600 dark:hover:text-zinc-300 transition-colors" target="_blank" rel="noopener noreferrer">
+                    Official Website ↗
+                </a>
+            </div>
+            {% endif %}
         </div>
-      </article>
+
+    </div>
   {% endfor %}
-</div>
+</section>
