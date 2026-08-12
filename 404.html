@@ -26,3 +26,52 @@ permalink: /404.html
         </div>
     </div>
 </div>
+
+<!-- Modal Backdrop & Window -->
+<div id="reportModal" class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/60 backdrop-blur-sm hidden transition-opacity">
+    <div class="relative w-full max-w-lg p-6 bg-white dark:bg-zinc-950 border-4 border-black dark:border-white shadow-2xl transition-all">
+        
+        <!-- Modal Header -->
+        <div class="flex items-center justify-between pb-4 mb-4 border-b-2 border-black dark:border-white">
+            <div class="flex items-center gap-2">
+                <span class="w-3 h-3 bg-red-600 inline-block"></span>
+                <h3 class="text-lg font-bold italic serif dark:text-white">{{ site.site_elements.error_report }}</h3>
+            </div>
+            <button id="closeReportModal" type="button" class="text-black dark:text-white font-bold text-xl hover:opacity-60 focus:outline-none px-2">&times;</button>
+        </div>
+
+        <!-- Form -->
+        <form id="bugReportForm" action="https://script.google.com/macros/s/AKfycbwUIXfTBCrH3CUL9PoiwOi_TIl2wevG7fnOTFFMgVs5bR4f4yh4CMD0PzGG1EMrBtyd/exec" method="POST" class="space-y-4">
+            
+            <!-- Hidden Dynamic Inputs (Populated via JS for 404) -->
+            <input type="hidden" name="title" id="reportInputTitle" value="404 Not Found">
+            <input type="hidden" name="url" id="reportInputUrl" value="">
+
+            <!-- Readonly info summary -->
+            <div class="p-3 bg-gray-100 dark:bg-zinc-900 border border-gray-300 dark:border-zinc-800 text-xs text-gray-600 dark:text-gray-400 space-y-1 text-left">
+                <p class="text-xs mb-0"><strong>Title:</strong> <span id="reportDisplayTitle">404 Not Found</span></p>
+                <p class="text-xs"><strong>{{ site.site_elements.link_error }}:</strong> <span id="reportDisplayUrl" class="break-all"></span></p>
+            </div>
+
+            <!-- User Message Input -->
+            <div class="flex flex-col gap-1.5 text-left">
+                <label for="bug-message" class="text-[11px] font-black uppercase tracking-wider text-black dark:text-white">{{ site.site_elements.error_text }}</label>
+                <textarea id="bug-message" name="message" rows="4" required placeholder="e.g. This link is broken or missing..." 
+                          class="w-full p-3 border-2 border-black dark:border-white bg-transparent text-black dark:text-white focus:outline-none focus:ring-2 focus:ring-black dark:focus:ring-white transition-all font-medium text-sm resize-none"></textarea>
+            </div>
+
+            <!-- Status Banner -->
+            <div id="bugStatusMsg" class="hidden text-xs font-bold uppercase tracking-wider p-3 border-2"></div>
+
+            <!-- Submit Button -->
+            <div class="flex justify-end gap-3 pt-2">
+                <button type="button" id="cancelReportModal" class="px-4 py-2 border-2 border-black dark:border-white text-black dark:text-white text-xs font-black uppercase tracking-wider hover:bg-gray-100 dark:hover:bg-zinc-900 focus:outline-none">
+                    {{ site.site_elements.cancel }}
+                </button>
+                <button type="submit" id="submitBugBtn" class="px-6 py-2 bg-black text-white dark:bg-white dark:text-black text-xs font-black uppercase tracking-wider hover:opacity-80 disabled:opacity-50 transition-all focus:outline-none">
+                    {{ site.site_elements.submit }}
+                </button>
+            </div>
+        </form>
+    </div>
+</div>

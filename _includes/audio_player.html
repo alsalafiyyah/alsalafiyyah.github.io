@@ -1,4 +1,4 @@
-<div class="p-8 mb-6 border-4 border-black dark:border-white bg-white dark:bg-zinc-950 flex flex-col gap-4 transition-colors">
+<div class="p-8 mb-6 border-4 border-black dark:border-white bg-white dark:bg-zinc-950 flex flex-col gap-4 transition-colors hidden">
     <div class="flex flex-col">
         <span class="text-[10px] font-black uppercase tracking-[0.2em] block text-gray-400">Audio</span>
         <h4 class="text-lg font-bold italic serif dark:text-white truncate" title="{{ page.title }}">
@@ -11,3 +11,12 @@
         Your browser does not support the audio element.
     </audio>
 </div>
+
+<media-theme-tailwind-audio style="width:100%">
+  <audio
+    slot="media"
+    src="{{ page.mp3 }}"
+    playsinline
+    crossorigin="anonymous"
+  ></audio>
+</media-theme-tailwind-audio>
