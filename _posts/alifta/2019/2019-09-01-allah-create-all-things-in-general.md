@@ -3,20 +3,7 @@ date: 2019-09-01
 hijri: '1441-01-02'
 lang: en
 layout: post
-mass_edited: true
-muftis:
-  chairman:
-  - name: Shaykh Ibn Baz
-    url: /biography/binbaz/
-  members:
-  - name: Shaykh Abdullah ibn Ghudayyan
-    url: /biography/ghudayyan/
-  - name: Shaykh Salih Fawzan
-    url: /biography/fawzan/
-  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-    url: /biography/abdulaziz/
-  - name: Shaykh Bakr Abu Zayd
-    url: /biography/bakr/
+group14: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 16950, Question 1
 summary: The basic ruling is that Allah has created all things in general. Allah has
@@ -24,6 +11,8 @@ summary: The basic ruling is that Allah has created all things in general. Allah
   and dislikes it.
 tags:
 - alifta
+category:
+- tawhid
 title: Allah creating all things
 translation: false
 ---
