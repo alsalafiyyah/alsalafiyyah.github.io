@@ -3,21 +3,7 @@ date: 2019-09-01
 hijri: '1441-01-02'
 lang: en
 layout: post
-mass_edited: true
-muftis:
-  chairman:
-  - name: Shaykh Abdul-Aziz ibn Baz
-    url: /biography/binbaz/
-  deputy_chairman:
-  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-    url: /biography/abdulaziz/
-  members:
-  - name: Shaykh Abdullah ibn Ghudayyan
-    url: /biography/ghudayyan/
-  - name: Shaykh Salih Fawzan
-    url: /biography/fawzan/
-  - name: Shaykh Bakr Abu Zayd
-    url: /biography/bakr/
+group2: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 20164
 summary: Allah created the Earth on Saturday, He created the mountains on Sunday,
@@ -27,6 +13,8 @@ summary: Allah created the Earth on Saturday, He created the mountains on Sunday
   in the last hour of the day, between `Asr and the night
 tags:
 - alifta
+category:
+- tawhid
 title: Period during which the heavens and earth were created
 translation: false
 ---
