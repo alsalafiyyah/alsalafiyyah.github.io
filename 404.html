@@ -1,9 +1,24 @@
 ---
-layout: default
+layout: no_sidebar
 title: "Error 404"
 permalink: /404.html
 ---
 
-<h3>{{ site.site_elements.page_not_found }}</h3>
-<p>{{ site.site_elements.page_not_found_text }}</p>
-<p><a href="#" id="openReportModal">Report an error</a></p>
+        <div class="relative w-full flex-1 flex flex-col justify-center items-center text-center px-6">
+
+            <div class="relative z-10">
+                <h2 class="text-7xl sm:text-8xl md:text-[15vw] leading-[0.8] font-black uppercase tracking-tighter serif italic">
+                    Void.
+                </h2>
+                <p class="mt-6 md:mt-8 text-lg md:text-2xl max-w-sm md:max-w-lg mx-auto font-medium leading-relaxed italic">
+                    {{ site.site_elements.page_not_found_text }} 
+                </p>
+                
+                <div class="mt-10 md:mt-12">
+                    <a href="index.html" class="inline-block bg-black text-white px-8 md:px-10 py-4 md:py-5 font-black uppercase tracking-widest text-xs md:text-sm hover:invert transition-all">
+                        Return to Index
+                    </a>
+                </div>
+            </div>
+        </div>
+		
