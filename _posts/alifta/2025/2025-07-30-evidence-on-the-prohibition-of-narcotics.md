@@ -4,17 +4,7 @@ date: 2025-07-30
 hijri: '1447-02-05'
 lang: en
 layout: post
-mass_edited: true
-muftis:
-  chairman:
-  - name: Shaykh Ibn Baz
-    url: /biography/binbaz/
-  deputy_chairman:
-  - name: Shaykh Abdullah ibn Ghudayyan
-    url: /biography/ghudayyan/
-  members:
-  - name: Shaykh Abdullah ibn Qa'ud
-    url: /biography/qaud/
+group18: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 5001, Question 3
 summary: On the authority of Um Salamah (may Allah be pleased with her) who narrated
