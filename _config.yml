@@ -585,6 +585,19 @@ group19:
 
 group20:
   chairman: 
+    - name: Shaykh Ibrahim ibn Muhammad Aal Al-Shaykh
+      url: /biography/ibrahim
+  deputy_chairman:
+    - name: Shaykh Abdul-Razzaq Afifi
+      url: /biography/afifi     
+  members: 
+    - name: Shaykh Abdullah ibn Ghudayyan
+      url: /biography/ghudayyan  
+    - name: Shaykh Abdullah ibn Sulayman Ibn Muni'
+      url: /biography/mani   
+
+group21:
+  chairman: 
     - name: Shaykh Salih al-Fawzan
       url: /biography/fawzan
   members: 

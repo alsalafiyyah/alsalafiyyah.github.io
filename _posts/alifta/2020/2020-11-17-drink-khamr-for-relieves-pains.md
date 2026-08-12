@@ -2,19 +2,8 @@
 hijri: '1442-04-02'
 lang: en
 layout: post
-mass_edited: true
-muftis:
-  chairman:
-  - name: Shaykh Ibrahim Ibn Muhammad Aal Al-Shaykh
-    url: /biography/ibrahim/
-  deputy_chairman:
-  - name: Shaykh Abdul-Razzaq Al-Afifi
-    url: /biography/afifi/
-  members:
-  - name: Shaykh Abdullah ibn Ghudayyan
-    url: /biography/ghudayyan/
-  - name: Shaykh Abdullah ibn Mani'
-    url: /biography/mani/
+group20: true
+tags: alifta
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 102, Question 5
 summary: Khamr is Haram. It is impermissible to be used as a treatment. A proof for
