@@ -6,110 +6,52 @@ permalink: /biography/
 summary: "Biography of Imams and scholars of the Sunnah who stood firm upon the creed of the Salaf and preserving the authentic Sunnah."
 ---
 
-<div id="scholar-container" class="grid grid-cols-1 md:grid-cols-2 gap-6"></div>
+{% assign folder_path = "_pages/scholar" %}
+{% assign target_files = site.pages | where_exp: "item", "item.path contains folder_path" | where_exp: "item", "item.url != page.url" %}
 
-<nav id="pagination-nav" class="flex items-center justify-between border-t-4 border-black dark:border-white pt-12 mt-12 mb-24">
-  <a id="prev-link" href="#" class="text-sm font-black uppercase tracking-widest hover:line-through invisible">← Newer</a>
-  
-  <div class="text-sm font-black uppercase tracking-widest tabular-nums">
-    <span id="current-page-display">01</span> / <span id="total-pages-display">01</span>
-  </div>
-  
-  <a id="next-link" href="#" class="text-sm font-black uppercase tracking-widest hover:line-through invisible">Older →</a>
-</nav>
+<p>Total Scholars: {{ target_files.size }}</p>
 
-<script id="scholar-data" type="application/json">
-[
-  {% assign items = site.biography %}
-  {% for item in items %}
-    {% comment %} Extract slug from file path to count associated fatwas/posts {% endcomment %}
-    {% assign scholar_slug = item.slug | default: item.name | replace: ".md", "" | replace: ".html", "" %}
+<div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+  {% for file in target_files %}
+    {% assign scholar_slug = file.name | replace: ".md", "" | replace: ".html", "" %}
     {% assign scholar_posts_path = "_posts/" | append: scholar_slug | append: "/" %}
-    {% assign fatwa_count = site.posts | where_exp: "post", "post.path contains scholar_posts_path" | size %}
-    
-    {% assign default_fatwa_url = "/scholar/" | append: scholar_slug %}
-    
-    {
-      "title": {{ item.title | jsonify }},
-      "url": {{ item.url | jsonify }},
-      "official_web": {{ item.official_web | jsonify }},
-      "fatwa_url": {{ item.fatwa_url | default: default_fatwa_url | jsonify }},
-      "bio_url": {{ item.bio_url | jsonify }},
-      "fatwa_count": {{ fatwa_count }}
-    }{% unless forloop.last %},{% endunless %}
-  {% endfor %}
-]
-</script>
-
-<script>
-document.addEventListener('DOMContentLoaded', () => {
-  const container = document.getElementById('scholar-container');
-  const dataScript = document.getElementById('scholar-data');
-
-  if (!container || !dataScript) return;
-
-  let scholars = [];
-  try {
-    scholars = JSON.parse(dataScript.textContent.trim());
-  } catch (err) {
-    console.error('Error parsing scholar JSON:', err);
-    return;
-  }
-
-  if (!scholars.length) return;
-
-  container.innerHTML = scholars.map(scholar => {
-
-    let webUrl = '';
-    if (typeof scholar.official_web === 'string') {
-      webUrl = scholar.official_web;
-    } else if (Array.isArray(scholar.official_web) && scholar.official_web.length > 0) {
-      webUrl = scholar.official_web[0].url || scholar.official_web[0] || '';
-    } else if (scholar.official_web && typeof scholar.official_web === 'object') {
-      webUrl = scholar.official_web.url || (scholar.official_web.web && scholar.official_web.web[0]?.url) || '';
-    }
-
-    let displayDomain = '';
-    if (typeof webUrl === 'string' && webUrl.trim() !== '') {
-      displayDomain = webUrl.replace(/^https?:\/\//, '').replace(/\/$/, '');
-    }
-
-    return `
-      <article class="border-2 border-black dark:border-white p-6 bg-white dark:bg-neutral-900 flex flex-col justify-between shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] dark:shadow-[4px_4px_0px_0px_rgba(255,255,255,1)]">
+    {% assign scholar_post_count = site.posts | where_exp: "post", "post.path contains scholar_posts_path" | size %}
+<article class="border-2 border-black dark:border-white p-6 bg-white dark:bg-neutral-900 flex flex-col justify-between shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] dark:shadow-[4px_4px_0px_0px_rgba(255,255,255,1)]">
         <div>
           <!-- Header: Fatwa Count Badge -->
           <div class="flex items-center justify-between gap-2 mb-4">
-            <a href="${scholar.fatwa_url || '#'}" 
+            <a href="{{ file.url | relative_url }}" 
                class="inline-flex items-center gap-1.5 px-2.5 py-1 text-xs font-mono font-bold uppercase tracking-widest border border-black dark:border-white bg-neutral-100 dark:bg-neutral-800 hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-colors">
               <span>📚</span>
-              <span>${scholar.fatwa_count || 0} Fatwas</span>
+              <span>{{ scholar_post_count }} Fatwas</span>
             </a>
           </div>
 
           <!-- Scholar Name -->
-          <h2 class="text-2xl font-black tracking-tight mb-6">
-            <a href="${scholar.url || '#'}" class="hover:underline">${scholar.title || 'Untitled'}</a>
-          </h2>
+          <h3 class="text-2xl font-black tracking-tight mb-6">
+            <a href="{{ file.url | relative_url }}" class="hover:underline">{{ file.title | default: file.name }}</a>
+          </h3>
         </div>
 
         <!-- Action Bar Buttons -->
-        <div class="flex flex-col sm:flex-row items-stretch gap-3 pt-4 border-t-2 border-black dark:border-white">
+        <div class="flex flex-col sm:flex-row items-stretch gap-3 pt-4 border-t-4 border-black dark:border-white">
+          <!-- Fatwas URL -->
+          <a href="{{ file.url | relative_url }}" 
+             class="flex-1 text-center py-2.5 px-3 text-xs font-black uppercase tracking-wider bg-black text-white dark:bg-white dark:text-black hover:opacity-80 transition-opacity">
+            Fatwas
+          </a>
           <!-- Read Biography -->
-          <a href="${scholar.url || '#'}" 
+          <a href="{{ file.bio_url }}" 
              class="flex-1 text-center py-2.5 px-3 text-xs font-black uppercase tracking-wider bg-black text-white dark:bg-white dark:text-black hover:opacity-80 transition-opacity">
             Biography
           </a>
-          
+
           <!-- Official Website Link -->
-          ${displayDomain ? `
-            <a href="${webUrl}" target="_blank" rel="noopener noreferrer" 
+            <a href="{{ file.official_web }}" target="_blank" rel="noopener noreferrer" 
                class="flex-1 text-center py-2.5 px-3 text-xs font-black uppercase tracking-wider border border-black dark:border-white hover:bg-neutral-100 dark:hover:bg-neutral-800 transition-colors inline-flex items-center justify-center gap-1">
-              🌐 ${displayDomain}
+              🌐 Web
             </a>
-          ` : ''}
         </div>
       </article>
-    `;
-  }).join('');
-});
-</script>
+  {% endfor %}
+</div>
