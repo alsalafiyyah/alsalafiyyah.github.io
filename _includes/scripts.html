@@ -300,6 +300,13 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <script>
     document.addEventListener('DOMContentLoaded', () => {
+        // Automatically inject the broken URL into the modal elements
+        const brokenUrl = window.location.href;
+        
+        document.getElementById('reportInputUrl').value = brokenUrl;
+        document.getElementById('reportDisplayUrl').textContent = brokenUrl;
+
+        // Modal Logic
         const modal = document.getElementById('reportModal');
         const openBtn = document.getElementById('openReportModal');
         const closeBtn = document.getElementById('closeReportModal');
@@ -315,6 +322,9 @@ document.addEventListener("DOMContentLoaded", function () {
         function closeModal() {
             modal.classList.add('hidden');
             form.reset();
+            // Re-assign the broken URL after form reset clears it
+            document.getElementById('reportInputUrl').value = brokenUrl;
+            document.getElementById('reportDisplayUrl').textContent = brokenUrl;
             statusMsg.classList.add('hidden');
         }
 
@@ -371,7 +381,7 @@ document.addEventListener("DOMContentLoaded", function () {
             })
             .finally(() => {
                 submitBtn.disabled = false;
-                submitBtn.innerText = "Submit Report";
+                submitBtn.innerText = "{{ site.site_elements.submit | default: 'Submit Report' }}";
             });
         });
     });
