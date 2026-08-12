@@ -2,22 +2,14 @@
 hijri: '1442-01-27'
 lang: en
 layout: post
-mass_edited: true
-muftis:
-  chairman:
-  - name: Shaykh Abdul-Razzaq Al-Afifi
-    url: /biography/afifi/
-  members:
-  - name: Shaykh Abdullah ibn Mani'
-    url: /biography/mani/
-  - name: Shaykh Abdullah ibn Ghudayyan
-    url: /biography/ghudayyan/
+group4: true
+tags: alifta
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah, Fatwa no. 315
 summary: In case that the aim of staying beside the grave is to offer worship to Allah
   Alone, it is still not permissible as it combines between the sin of staying beside
   the grave and the sin of offering 'Ibadah to Allah beside the graves.
-title: Is it permissible to vow and sacrifice for the sake of the Waliy?
+title: Is it permissible to vow and sacrifice for the sake of the Wali?
 ---
 ### Question:
 
