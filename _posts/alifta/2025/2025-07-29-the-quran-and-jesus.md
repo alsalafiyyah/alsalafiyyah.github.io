@@ -1,5 +1,6 @@
 ---
 date: 2025-07-29
+group1: true
 hijri: '1447-02-04'
 lang: en
 layout: post
@@ -26,6 +27,7 @@ tags:
 title: 'Which is better: The Qur''an or ''Isa (peace be upon him)'
 translation: false
 ---
+
 ### Question"
 
 I heard some scholars asking which is better: the Qur’an or 'Isa ibn Maryam (Jesus son of Mary, peace be upon them)?

@@ -1,5 +1,6 @@
 ---
 date: 2025-07-29
+group1: true
 hijri: '1447-02-04'
 lang: en
 layout: post
@@ -26,6 +27,7 @@ tags:
 title: Preserving the Qur'an against distortion
 translation: false
 ---
+
 ### Question
 
 A friend of mine raises doubts regarding the authenticity of the Mus-hafs (copies of the Qur’an) we have nowadays. He claims that they contain interpolations and, according to him, there was a scribe who refused to hand the manuscript (copy) of the Qur’an that he had to 'Uthman ibn 'Affan (may Allah be pleased with him), which was in Yemen. My friend went on elaborating his claims and told me about the book from which he derived the information upon which he bases his argument. I became angry and refused to listen to his claims any longer. I am writing to you requesting your Fatwa on this issue and information on how the Qur’an was transmitted. I usually face such situations for being a member in Tabligh and Da‘wah (a group calling to Islam).

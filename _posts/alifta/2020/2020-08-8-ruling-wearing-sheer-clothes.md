@@ -1,5 +1,6 @@
 ---
 date: 2020/08/8
+group2: true
 hijri: Dhull-Hijjah 14, 1441
 lang: en
 layout: post
@@ -25,6 +26,7 @@ summary: It is not permissible for women to wear sheer clothes. Whoever does thi
   stated will not enter Paradise nor smell its fragrance.
 title: Ruling on wearing sheer clothes
 ---
+
 ### Question: 
 What is the ruling on women wearing sheer clothes?
 

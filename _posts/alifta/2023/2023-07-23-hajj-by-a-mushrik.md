@@ -1,5 +1,6 @@
 ---
 date: 2023-07-23
+group1: true
 hijri: '1445-01-05'
 lang: en
 layout: post
@@ -25,6 +26,7 @@ tags:
 title: Hajj by a Mushrik
 translation: false
 ---
+
 ### Question: 
 
 A Mushrik (one who associates others with Allah) performed Hajj and a long time after their return from Hajj, Allah guided them to the sound ‘Aqidah (creed) and ‘Ibadah (worship). They repented to Allah and became a true monotheist. Will the Hajj they performed while they were a Mushrik suffice them or must they perform another Hajj after correcting their Tawhid (belief in the Oneness of Allah)?

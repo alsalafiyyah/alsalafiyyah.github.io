@@ -1,5 +1,6 @@
 ---
 date: 2020/08/8
+group6: true
 hijri: Dhul-Hijjah 14, 1441
 lang: en
 layout: post
@@ -21,6 +22,7 @@ summary: If the matter is exactly as what is mentioned in the question, it is pe
   intermix with men.
 title: Ruling on wearing ornamented clothes at weddings
 ---
+
 ### Question: 
 
 Is it permissible for women to wear ornamented clothes at weddings while non-Mahrams (not spouses or unmarriageable relatives) do not see them? In other words, is she allowed, in such cases, to wear ornamented clothes and not abide by Hijab (veil)?

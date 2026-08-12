@@ -1,5 +1,6 @@
 ---
 date: 2020/08/31
+group1: true
 hijri: '1442-01-12'
 lang: en
 layout: post
@@ -23,6 +24,7 @@ summary: Thus, she must not obey him in this regard, because her act of wearing 
 title: Ruling on a father who breaks all contact with his daughter due to her wearing
   Hijab
 ---
+
 ### Question: 
 
 What is the ruling on a father who breaks all contact with his daughter due to her wearing Hijab (veil)?

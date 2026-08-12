@@ -1,5 +1,6 @@
 ---
 author: Permanent Committee of KSA
+group7: true
 hijri: '1444-12-28'
 lang: en
 layout: post
@@ -30,6 +31,7 @@ tags:
 title: Ruling on listening to songs
 translation: false
 ---
+
 ### Question: 
 
 What is the ruling on listening to singing?

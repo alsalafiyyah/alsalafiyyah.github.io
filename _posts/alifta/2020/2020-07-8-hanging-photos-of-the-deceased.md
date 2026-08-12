@@ -1,10 +1,9 @@
 ---
 date: 2020-07-08
 group9: true
-hijri: Dhul-Qa'dah 7, 1441 AH
+hijri: '1441-11-17'
 lang: en
 layout: post
-mass_edited: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah al-Da'imah, Fatwa no.5088, Question 5
 summary: It is impermissible to hang pictures of animate objects at home or elsewhere;

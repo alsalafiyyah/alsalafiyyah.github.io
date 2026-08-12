@@ -1,5 +1,6 @@
 ---
 date: 2025-07-31
+group9: true
 hijri: '1447-02-06'
 lang: en
 layout: post
@@ -24,6 +25,7 @@ tags:
 title: Ruling on a thief, women dancing and drinking alcohol
 translation: false
 ---
+
 ### Question
 
 Are dancing and drinking alcohol Haram (prohibited) or Makruh (disliked)? What is the ruling on gazing at a woman other than one's wife? What is the ruling on a thief? 

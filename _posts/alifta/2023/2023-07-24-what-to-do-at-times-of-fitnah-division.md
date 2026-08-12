@@ -1,5 +1,6 @@
 ---
 date: 2023-07-24
+group2: true
 hijri: '1445-01-06'
 lang: en
 layout: post
@@ -28,6 +29,7 @@ tags:
 title: What to do when there is too much fitnah and division
 translation: false
 ---
+
 ### Question:
 
 Are these the times which are referred to in the hadith of the Messenger ﷺ, according to which when one of the Sahabah asked him, “What should I do when there is too much fitnah and division?”, he replied, “Keep away from the people, and sit in your house”? In Al-Sahih, in Kitab Al-Fitan, Bab Kayf Al-Hal idha lam yakun khalifah, there is a hadith which says that the Prophet ﷺ told them to withdraw from people when calamities strike, and he said, “… even if you have to bite onto the root of a tree.” Please explain this hadeeth and tell us what the scholars said about it.

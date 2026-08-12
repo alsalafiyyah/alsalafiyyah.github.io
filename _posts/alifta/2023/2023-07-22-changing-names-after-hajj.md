@@ -1,5 +1,6 @@
 ---
 date: 2023-07-22
+group1: true
 hijri: '1445-01-04'
 lang: en
 layout: post
@@ -26,6 +27,7 @@ tags:
 title: Ruling on Changing Names after Hajj
 translation: false
 ---
+
 ### Question:
 
 What is the ruling on a person changing their name like most of the Indonesian pilgrims do? Indonesians are used to changing their names when they go to Makkah Al-Mukarramah or Al-Madinah Al-Munawwarah. Is this an act of Sunnah or not?

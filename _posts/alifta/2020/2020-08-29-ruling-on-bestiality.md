@@ -1,4 +1,5 @@
 ---
+group16: true
 hijri: '1442-01-10'
 lang: en
 layout: post
@@ -25,6 +26,7 @@ summary: Having sex with animals is a bad deed, transgression to bounds set by A
   girl.
 title: Ruling on bestiality
 ---
+
 Question: 
 
 What is the ruling on bestiality?

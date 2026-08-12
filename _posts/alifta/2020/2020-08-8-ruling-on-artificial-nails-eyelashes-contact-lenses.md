@@ -1,5 +1,6 @@
 ---
 date: 2020-08-08
+group5: true
 hijri: Dhul-Hijjah 14, 1441
 lang: en
 layout: post
@@ -22,6 +23,7 @@ summary: It is impermissible to wear artificial nails, false eyelashes and color
   and changing the creation of Allah.
 title: Ruling on using artificial nails, eye lashes, and colored contact lenses
 ---
+
 ### Question: 
 
 Some methods of adornment are available in our markets, such as artificial nails, false eyelashes, and colored contact lenses to change the eye color. There are many inquiries about such cosmetics, due to their being widespread among women. Please, Your Eminence, we would like you to guide us to the right thing. May Allah safeguard you with His Guidance.

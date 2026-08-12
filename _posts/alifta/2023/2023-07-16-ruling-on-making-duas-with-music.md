@@ -1,5 +1,6 @@
 ---
 date: 2023-07-16
+group1: true
 hijri: '1444-12-28'
 lang: en
 layout: post
@@ -25,6 +26,7 @@ tags:
 title: The ruling on supplications accompanied by music
 translation: false
 ---
+
 ### Question: 
 
 What is the ruling on supplications accompanied by music?

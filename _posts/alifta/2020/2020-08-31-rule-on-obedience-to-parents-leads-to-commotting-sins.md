@@ -1,5 +1,6 @@
 ---
 date: 2020/08/31
+group1: true
 hijri: '1442-01-12'
 lang: en
 layout: post
@@ -22,6 +23,7 @@ summary: Therefore, the girl should stick to wearing the Niqab, and try to convi
   her parents by explaining the legal ruling, without being bothered by their threats.
 title: Ruling on obedience to parents leads to committing sins
 ---
+
 ### Question: 
 
 A young lady wants to wear Niqab (face veil), knowing that it is Fard (obligatory, based on a definitive text), but her parents refuse and tell her that her obedience to them is also a Fard that takes precedence over wearing Niqab. Are the parents right? Does this mean that she should abandon wearing Niqab? How could this be in accordance with the Messenger's saying, "**Anyone who turns away from my Sunnah is not one of my (followers).**" [^1]
