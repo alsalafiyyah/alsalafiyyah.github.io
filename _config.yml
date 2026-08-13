@@ -48,15 +48,15 @@ categories_select: true
 
 # Menu Navigation
 menu_navigation:
+  - title: Index
+    url: /
   - title: Fatwas
     url: /fatwas/
   - title: Audios
     url: /audios/
   - title: Videos
     url: /videos/
-  - title: Scholars
-    url: /scholar/
-  - title: "al-Qur'an"
+  - title: "Al-Qur'an"
     url: "/quran/"
 
 # Footer Navigation
