@@ -295,4 +295,3 @@ Fear Allah, awaken! Perhaps Allah—Mighty and Majestic—will lift the dark clo
 
 And may Allah bestow peace upon our Prophet Muhammad, and upon all his family and companions.
 
-Source: [القدس إسلامية لا عبرية](https://www.rslan.com/tafrighat/alqds-islamyh-la-abryh)
