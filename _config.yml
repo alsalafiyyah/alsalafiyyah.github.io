@@ -198,6 +198,8 @@ collections:
     output: true
   biography:
     output: true
+  encyclopedia:
+    output: true
 
 defaults:
   # _posts
@@ -347,6 +349,13 @@ defaults:
     values:
       layout: "post"
       permalink: /biography/:title/
+  # _encyclopedia
+  - scope:
+      path: "_encyclopedia"
+      type: "pages"
+    values:
+      layout: "page"
+      permalink: /encyclopedia/:title/
   # _pages
   - scope:
       path: "_pages"
