@@ -14,13 +14,13 @@
         <!-- Form -->
         <form id="bugReportForm" action="https://script.google.com/macros/s/AKfycbwUIXfTBCrH3CUL9PoiwOi_TIl2wevG7fnOTFFMgVs5bR4f4yh4CMD0PzGG1EMrBtyd/exec" method="POST" class="space-y-4">
             
-            <!-- Hidden Dynamic Inputs (Populated via JS for 404) -->
-            <input type="hidden" name="title" id="reportInputTitle" value="404 Not Found">
+            <!-- Hidden Dynamic Inputs -->
+            <input type="hidden" name="title" id="reportInputTitle" value="{{ page.title }}">
             <input type="hidden" name="url" id="reportInputUrl" value="">
 
             <!-- Readonly info summary -->
             <div class="p-3 bg-gray-100 dark:bg-zinc-900 border border-gray-300 dark:border-zinc-800 text-xs text-gray-600 dark:text-gray-400 space-y-1 text-left">
-                <p class="text-xs mb-0"><strong>Title:</strong> <span id="reportDisplayTitle">404 Not Found</span></p>
+                <p class="text-xs mb-0"><strong>Title:</strong> <span id="reportDisplayTitle">{{ page.title }}</span></p>
                 <p class="text-xs"><strong>{{ site.site_elements.link_error }}:</strong> <span id="reportDisplayUrl" class="break-all"></span></p>
             </div>
 
