@@ -5,16 +5,16 @@
   {% include navbar.liquid %}
 {% endcapture %}
 {% capture aside_content %}
-  {% include aside.html %}
+  {% include aside.liquid %}
 {% endcapture %}
 {% capture footer_content %}
   {% include footer.liquid %}
 {% endcapture %}
 {% capture bug_report_modal %}
- {% include bug-report-modal.html %}
+ {% include bug-report-modal.liquid %}
 {% endcapture %}
 {% capture prayer_times %}
-  {% include prayer-times.html %}
+  {% include prayer-times.liquid %}
 {% endcapture %}
 <!DOCTYPE html>
 <html lang="{{ site.site_elements.lang }}" dir="{{ site.site_elements.dir }}">
