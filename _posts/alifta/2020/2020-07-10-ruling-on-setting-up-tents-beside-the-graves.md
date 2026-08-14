@@ -9,16 +9,7 @@ summary: "It is impermissible for anyone to set up a tent beside the grave where
 tags: [alifta]
 lang: en
 translation: false
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-  members: 
-    - name: Shaykh Abdullah ibn Qaud
-      url: /biography/qaud/
+group18: true
 ---
 
 ### Question: 
