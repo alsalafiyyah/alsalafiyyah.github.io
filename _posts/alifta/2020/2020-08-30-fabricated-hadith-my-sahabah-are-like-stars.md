@@ -1,25 +1,23 @@
 ---
-date: 2020/08/30
+date: 2020-08-30
 hijri: '1442-01-11'
 lang: en
 layout: post
-mass_edited: true
+group14: true
+translation: false
+tags: alifta
 publisher: alsalafiyyah.manhaj@gmail.com
-shaykhs:
-- Shaykh Abdul-Aziz ibn Baz
-- Shaykh Abdul-Aziz Aal al-Shaykh
-- Shaykh Abdullah ibn Ghudayyan
-- Shaykh Salih Fawzan
-- Shaykh Bakr Abu Zayd
 source: Fatawa Al-Lajnah Ad-Da'imah no. 12464-4
 title: 'Fabricated Hadith: ''My Sahabah are like stars; whomever you follow, you will
   be guided'''
+summary: "This Hadith is Mawdu' (fabricated). It was narrated by Ibn 'Abdul-Bar in (Jami' Al-'Ilm) on the authority of Sallam ibn Sulaym who said..."
 ---
-Question: 
+
+### Question: 
 
 I heard a Hadith which was always repeated on the television during Ramadan of the year 1993. It was the first time for me to hear it and I did not find it in any reference. Some brothers told me that it has no origin. Its wording is as follows: The Messenger of Allah (peace be upon him) said: "**My Sahabah (Companions of the Prophet) are like (guiding) stars; whomever you follow, you will be guided (to the right path).**" Is this a Hadith Sahih (authentic)? If it is so, who are its narrators?
 
-Answer:
+### Answer:
 
 This Hadith is Mawdu' (fabricated). It was narrated by Ibn 'Abdul-Bar in (Jami' Al-'Ilm) on the authority of Sallam ibn Sulaym who said: "This Hadith was reported as Marfu' (a Hadith narrated from the Prophet with a connected or disconnected chain of narration) on the authority of Al-Harith ibn Ghasin from Al-A'Mash from Abu Sufyan from Jabir." 
 

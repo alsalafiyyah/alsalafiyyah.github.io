@@ -1,22 +1,22 @@
 ---
-date: 2020/08/30
+date: 2020-08-30
 hijri: '1442-01-11'
 lang: en
 layout: post
-mass_edited: true
+group17: true
+translation: false
+tags: alifta
 publisher: alsalafiyyah.manhaj@gmail.com
-shaykhs:
-- Shaykh Abdul-Aziz Aal al-Shaykh
-- Shaykh Salih Fawzan
-- Shaykh Bakr Abu Zayd
-source: Fatawa Al-Lajnah Ad-Da'imah no. 20807-2
+source: Fatawa Al-Lajnah Ad-Da'imah no. 20807 question 2
 title: Ruling on forgets something with a merchant and does not return to take it
+summary: "If some customers forget something with you and a long time passes without knowing their address and they do not return, you should give it in charity on behalf of their owners."
 ---
-Question: 
+
+### Question: 
 
 Because of the large number of sellers and buyers, some customers forget books which they bring to sell. As we did not agree with them on a price or they bring them for us to check them (the books) but time passes, days, months and sometimes they never return: What do we do with these books? Should we sell them or not? What if we do not know their owners, or do not see them again while we do not know their names or addresses? What should we do with these books among which some are valuable and others are not? Other customers may forget some riyals and hallalahs, so what should we do with them as we find them inside the books after purchasing them from customers? What is the ruling on this money? Is it ours or should we give it in charity?
 
-Answer:
+### Answer:
 
 If some customers forget something with you and a long time passes without knowing their address and they do not return, you should give it in charity on behalf of their owners. By doing so, you will be discharged from obligation In sha’a-Allah (if Allah wills).
 

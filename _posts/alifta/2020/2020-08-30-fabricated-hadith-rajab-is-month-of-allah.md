@@ -3,25 +3,23 @@ date: 2020/08/30
 hijri: '1442-01-11'
 lang: en
 layout: post
-mass_edited: true
+group14: true
+translation: false
+tags: alifta
 publisher: alsalafiyyah.manhaj@gmail.com
-shaykhs:
-- Shaykh Abdul-Aziz ibn Baz
-- Shaykh Abdul-Aziz Aal al-Shaykh
-- Shaykh Salih Fawzan
-- Shaykh Abdullah ibn Ghudayyan
-- Shaykh Bakr Abu Zayd
 source: Fatawa Al-Lajnah Ad-Da'imah no. 15677
 title: 'Fabricated Hadith: ''Rajab is the Month of Allah, Sha''ban is my month, and
   Ramadan is the month of my Ummah'''
+summary: "Firstly, the statement Rajab is the Month of Allah, Sha'ban is my month, and Ramadan is the month of my Ummah is a Hadith Mawdu' (fabricated Hadith)."
 ---
-Question: 
+
+### Question: 
 
 What is the opinion of Hadith scholars on the following statement: "**Rajab is the Month of Allah, Sha'ban is my month, and Ramadan is the month of my Ummah (nation based on one creed)**"? 
 
 Is the following Hadith authentic: "**O Allah, to You do I complain of my weakness, helplessness, and disregard of people towards me...**"?
 
-Answer:
+### Answer:
 
 Firstly, the statement: "**Rajab is the Month of Allah, Sha'ban is my month, and Ramadan is the month of my Ummah**" is a Hadith Mawdu' (fabricated Hadith). Its Sanad (chain of narrators) includes Abu Bakr ibn Al-Hasan Al-Naqqash who is accused of fabrication, and Al-Kisa'i who is unknown and his name was mentioned in Al-La'ali' fy Al-Mawdu`at [reference book about fabricated Hadiths].
 
