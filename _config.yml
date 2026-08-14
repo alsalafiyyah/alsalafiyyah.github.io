@@ -287,7 +287,13 @@ defaults:
     values:
       layout: post
       permalink: /videos/:title/
- 
+  - scope:
+      path: "_posts/muhammad-ibn-said-raslan/videos/**"
+      type: posts
+    values:
+      layout: post
+      permalink: /videos/:title/
+
   # _posts/muqolat/
   - scope:
       path: "_posts/muqolat/**"
