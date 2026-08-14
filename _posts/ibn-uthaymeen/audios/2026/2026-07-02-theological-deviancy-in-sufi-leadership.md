@@ -18,6 +18,7 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 hijri: '1448-01-17'
+summary: "Know that whoever calls to misguidance will bear the sin of that call, as well as the sins of those who act upon it until the Day of Resurrection."
 ---
 ### Question: 
 
