@@ -1,11 +1,23 @@
+---
+layout: null
+---
 {% capture head_content %}
   {% include head.liquid %}
 {% endcapture %}
 {% capture navbar %}
   {% include navbar.liquid %}
 {% endcapture %}
+{% capture aside_content %}
+  {% include aside.liquid %}
+{% endcapture %}
 {% capture footer_content %}
   {% include footer.liquid %}
+{% endcapture %}
+{% capture bug_report_modal %}
+ {% include bug-report-modal.liquid %}
+{% endcapture %}
+{% capture prayer_times %}
+  {% include prayer-times.liquid %}
 {% endcapture %}
 <!DOCTYPE html>
 <html lang="{{ site.site_elements.lang }}" dir="{{ site.site_elements.dir }}">
@@ -17,19 +29,24 @@
 <main role="main" class="max-w-7xl mx-auto px-8">
     {% unless page.url == "/" or page.url == "/ar" %}
     <header class="py-12 border-b-4 border-black dark:border-white">
-            <div class="max-w-7xl">
-                <h1 itemprop="headline" class="text-3xl md:text-[3vw] leading-[0.9] font-black uppercase tracking-tighter serif mt-8">
-                    {{ page.title }}
-                </h1>
-            </div>
+        <div class="max-w-7xl">
+         <h1 itemprop="headline" class="text-3xl md:text-[3vw] leading-[0.9] font-black uppercase tracking-tighter serif mt-8">
+            {{ page.title }}
+         </h1>
+        </div>
     </header>
     {% endunless %}
-    <section class="py-24">
-        <article class="w-full max-w-none">
+    <section class="grid grid-cols-1 md:grid-cols-12 gap-12 py-24 items-start">
+        {{ aside_content }}
+        <article class="md:col-span-8 md:col-start-5 max-w-none">
             {{ content }}
         </article>
     </section>
+{% if page.url == "/" %}
+  {{ prayer_times }}
+{% endif %}
 </main>
+{{ bug_report_modal }}
 {{ footer_content }}
 {% include scripts.html %} 
 </body>
