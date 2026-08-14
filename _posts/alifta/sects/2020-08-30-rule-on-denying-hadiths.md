@@ -1,27 +1,13 @@
 ---
-lang: en
-mass_edited: true
-hijri: '1442-01-11'
-category: [sects]
----
-
-
-﻿---
 layout: post
 title: "Ruling on denying the Hadiths of the Messenger (peace be upon him)"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 19867-2"
-hijri: Muharram 11, 1442
-date: 2020/08/30
-note: true
-category: [hadiths,fatwas, sects]
-key: hadiths, hadith, sunnah, quranism, messenger, prophet, islam, fatwas, salafi, salaf, salafism, alsalafiyyah, shiah, shiism, shiite, sunni, sunnis
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Salih Fawzan
- - Shaykh Bakr Abu Zayd
+source: "Fatawa Al-Lajnah Ad-Da'imah no. 19867 question 2"
+date: 2020-08-30
+hijri: '1442-01-11'
+category: [sects, quranism]
+group14: true
+summary: "All Muslim scholars agree by Ijma' (consensus of scholars) on the obligation of acting upon the Sunnah."
 ---
 
 ### Question: 

@@ -3,22 +3,20 @@ date: 2020/08/30
 hijri: '1442-01-11'
 lang: en
 layout: post
-mass_edited: true
+group6: true
 publisher: alsalafiyyah.manhaj@gmail.com
-shaykhs:
-- Shaykh Abdul-Aziz ibn Baz
-- Shaykh Abdul-Razzaq al-Afify
-- Shaykh Abdullah ibn Ghudayyan
 source: Fatawa Al-Lajnah Ad-Da'imah no. 10652-1
 title: 'Fabricated Hadith: ''There is no better man than ''Ali and no sword other
   than Dhu Al-Faqar'''
 category: [sects]
+summary: "It is also mentioned in the books of Hadith that the Prophet (peace be upon him) said this to 'Ali (may Allah be pleased with him) or was it fabricated by people?"
 ---
-Question: 
+
+### Question: 
 
 There is a widely circulated statement in some of the books of our Urdu language that reads: "There is no better man than 'Ali and no sword other than Dhu Al-Faqar." Is this statement authentic? It is also mentioned in the books of Hadith that the Prophet (peace be upon him) said this to 'Ali (may Allah be pleased with him) or was it fabricated by people? I heard that this statement belongs to 'Isa ibn Mahran, a liar from the sect of Al-Rafidah.
 
-Answer:
+### Answer:
 
 The Hadith: "There is no better man than 'Ali and no sword other than Dhu Al-Faqar" has no origin and may be a fabrication by the Shiites. 
 

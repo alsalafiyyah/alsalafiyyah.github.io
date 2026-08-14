@@ -1,23 +1,13 @@
 ---
-lang: en
-mass_edited: true
-hijri: '1442-01-08'
-category: [sects]
----
-
-
-
-﻿---
 layout: post
 publisher: alsalafiyyah@icloud.com
 title: Sufi belief in Al-Khadir
 source: Fatawa Al-Lajnah Ad-Da'imah no. 6001
 hijri: Muharram 8, 1442
 date: 2020/08/27
-category: [prophets,sufism,sects]
 group1: true
-note: true
-locale: en
+hijri: '1442-01-08'
+category: [sects]
 lang: en
 summary: As far as we know, there is no evidence affirming that Al-Khadir is an exception. Therefore, we should accept this until the contrary is proved through an authentic proof.
 ---
