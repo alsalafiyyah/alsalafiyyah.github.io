@@ -3,21 +3,18 @@ date: 2020/08/30
 hijri: '1442-01-11'
 lang: en
 layout: post
-mass_edited: true
+group13: true
 publisher: alsalafiyyah.manhaj@gmail.com
-shaykhs:
-- Shaykh Abdul-Aziz ibn Baz
-- Shaykh Abdul-Aziz Aal al-Shaykh
-- Shaykh Salih Fawzan
-- Shaykh Bakr Abu Zayd
 source: Fatawa Al-Lajnah Ad-Da'imah no. 19378-3
 title: Claiming there are Hadith Munkar related by Al-Bukhari
+summary: "First, it is not permissible for a Muslim to deny a Hadith judged to be Sahih (authentic) by Hadith scholars, for believing in them is a fundamental part of Iman (faith)."
 ---
-Question: 
+
+### Question: 
 
 Some people deny some authentically reported Hadith and claim that there are Da'if (weak) and Munkar (rejected Hadith reported by a weak narrator whose narration conflicts with an authentic Hadith) Hadiths in "Sahih Al-Bukhari". For example, they deny the Hadith narrated on the authority of Abu Hurayrah (may Allah be pleased with him) regarding the ruling in case a fly falls into a drink. They further contest the reliability of the narrator on the pretext that he was a poor person begging people for food.
 
-Answer:
+### Answer:
 
 First, it is not permissible for a Muslim to deny a Hadith judged to be Sahih (authentic) by Hadith scholars, for believing in them is a fundamental part of Iman (faith).
 

@@ -1,31 +1,19 @@
----
-lang: en
-mass_edited: true
-hijri: '1442-01-11'
----
-
-
 ﻿---
 layout: post
 title: "The basic rule concerning any commands of the Prophet (peace be upon him) is that they denote obligation"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 10593-1"
-hijri: Muharram 11, 1442 AH
+source: "Fatawa Al-Lajnah Ad-Da'imah no. 10593 question 1"
+hijri: '1442-01-11'
 date: 2020/08/30
-category: [tafsir, hadiths, general]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Aziz Aal al-Shaykh
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Salih Fawzan
- - Shaykh Bakr Abu Zayd
+group14: true
+summary: "The basic rule concerning any commands of the Prophet (peace be upon him) is that they denote obligation, unless otherwise indicated."
 ---
 
-Question: 
+### Question: 
 
 Any command given by the Messenger of Allah (peace be upon him) indicates obligation and duty. However, there is a Hadith whose apparent meaning contradicts the Hadith narrated by Abu Hurayrah (may Allah be pleased with him): "**When I command you to do anything, do of it as much as you possibly can.**" [^1] How can a Muslim reconcile these two Hadiths?
 
-Answer:
+### Answer:
 
 The basic rule concerning any commands of the Prophet (peace be upon him) is that they denote obligation, unless otherwise indicated. However, fuflillment of obligation is in accordance with one's ability, because Allah (Exalted be He) says: "**So keep your duty to Allâh and fear Him as much as you can**" [al-Taghabun: 16] This is also supported by the Hadith mentioned in the question.
 

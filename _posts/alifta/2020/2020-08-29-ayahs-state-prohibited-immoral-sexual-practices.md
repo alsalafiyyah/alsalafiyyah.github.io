@@ -3,21 +3,18 @@ date: 2020/08/29
 hijri: '1442-01-10'
 lang: en
 layout: post
-mass_edited: true
+group1: true
 publisher: alsalafiyyah.manhaj@gmail.com
-shaykhs:
-- Shaykh Abdul-Aziz Ibn Baz
-- Shaykh Abdull-Razzaq al-Afify
-- Shaykh Abdullah ibn Qa'ud
-- Shaykh Abdullah ibn Ghudayyan
 source: Fatawa Al-Lajnah Ad-Da'imah no. 3056-7
 title: The Ayahs that state the prohibited immoral sexual practices
+summary: "What are the Ayahs (Qur'anic verses) that prohibit immoral sexual practices commonly spread in some countries?"
 ---
-Question: 
+
+### Question: 
 
 What are the Ayahs (Qur'anic verses) that prohibit immoral sexual practices commonly spread in some countries?
 
-Answer:
+### Answer:
 
 The Ayah that prohibits sodomy and masturbation, which is known as "the secret habit", is in Surah Al-A`raf where Allah (Exalted be He) says: **"And (remember) Lût (Lot), when he said to his people: "Do you commit the worst sin such as none preceding you has committed in the ‘Alamîn (mankind and jinn)? "Verily, you practise your lusts on men instead of women. Nay, but you are a people transgressing beyond bounds (by committing great sins).**" [al-A'raf: 80-81] 
 

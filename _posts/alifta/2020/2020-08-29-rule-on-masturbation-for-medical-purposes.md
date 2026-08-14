@@ -3,21 +3,19 @@ date: 2020/08/29
 hijri: '1442-01-10'
 lang: en
 layout: post
-mass_edited: true
+group1: true
 publisher: alsalafiyyah.manhaj@gmail.com
-shaykhs:
-- Shaykh Abdul-'Aziz ibn Baz
-- Shaykh Abdul-Razzaq al-Afify
-- Shaykh Abdullah ibn Ghudayyan
-- Shaykh Abdullah ibn Qa'ud
 source: Fatawa Al-Lajnah Ad-Da'imah no. 1376
 title: Ruling on masturbation for medical purposes
+category: "masturbation"
+summary: "In addition, this practice has harmful side effects. The doctor can use a needle to extract Maniy directly from your testes, for example."
 ---
-Question: 
+
+### Question: 
 
 I suffer from a disease that makes me unable to have sexual intercourse with my wife. I have been married for three years during which I have had a normal marital life like that of any married couple. However, I suddenly developed this case of being unable to have intercourse with my wife and without any apparent disease or reason. When I consulted a doctor, he asked me to bring him a sample of my Maniy (sperm), but I could not discharge any, and I do not know whether it is permissible to masturbate or not. Kindly enlighten us, and may Allah reward you!
 
-Answer:
+### Answer:
 
 Masturbation is Haram (prohibited), for Allah (Exalted be He) says: "**And those who guard their chastity (i.e. private parts, from illegal sexual acts) Except from their wives or (the slaves) that their right hands possess, - for then, they are free from blame;**" [al-Mu'minun: 5-6]
 

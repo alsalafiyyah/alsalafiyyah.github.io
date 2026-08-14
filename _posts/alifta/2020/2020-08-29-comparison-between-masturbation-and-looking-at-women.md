@@ -3,20 +3,18 @@ date: 2020/08/29
 hijri: '1442-01-10'
 lang: en
 layout: post
-mass_edited: true
+group9: true
 publisher: alsalafiyyah.manhaj@gmail.com
-shaykhs:
-- Shaykh Abdul-'Aziz ibn Baz
-- Shaykh Abdul-Razzaq al-Afify
-- Shaykh Abdullah ibn Qa'ud
 source: Fatawa Al-Lajnah Ad-Da'imah no. 6412-3
 title: Comparison between masturbation and looking at women
+summary: "Looking at non-Mahram (not a spouse or an unmarriageable relative) women and masturbation are both Haram."
 ---
-Question: 
+
+### Question: 
 
 It is known that masturbation which is especially practiced among young men, is Haram (prohibited) in Islam. A person who has recently observed Salah (Prayer) is practicing this bad habit. When I have informed him that it is Haram, he has said that his other option is to look at women. Which of them entails lesser harm; looking at women or masturbating?
 
-Answer:
+### Answer:
 
 Looking at non-Mahram (not a spouse or an unmarriageable relative) women and masturbation are both Haram. We advise this person and those like him to marry as soon as possible, if they can afford to do so. Otherwise, they should observe Sawm (Fast), because the Prophet (peace be upon him) said: "**O young people! Any one among you who is able to marry should marry, for marriage would help him lower his gaze and keep his virtue, and anyone who is not able to marry is recommended to observe Sawm, for Sawm would diminish his sexual desire.**" (Agreed upon by Al-Bukhari and Muslim) [^1]
 

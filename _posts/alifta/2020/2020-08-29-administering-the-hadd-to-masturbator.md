@@ -1,25 +1,20 @@
 ---
-date: 2020/08/29
+date: 2020-08-29
 hijri: '1442-01-10'
 lang: en
 layout: post
-mass_edited: true
 publisher: alsalafiyyah.manhaj@gmail.com
-shaykhs:
-- Shaykh Abdul-'Aziz ibn Baz
-- Shaykh Abdul-Razzaq al-Afify
-- Shaykh Abdullah ibn Ghudayyan
-- Shaykh Salih Fawzan
-- Shaykh Abdul-Aziz Aal al-Shaykh
-- Shaykh Bakr Abu Zayd
+group7: true
 source: Fatawa Al-Lajnah Ad-Da'imah no. 16368-1
 title: Administering the Hadd to the masturbator
+summary: "Masturbation is not permissible because this is a kind of fulfilling the sexual desire in a way other than that which Allah made lawful such as one's wife and slave girls."
 ---
-Question: 
+
+### Question: 
 
 Due to the high expenses of marriage, some youth resort to masturbation; what is the ruling on this? Will such a person be an adulterer and is there any Hadd (ordained punishment for violating Allah’s Law) that must be executed in such a case?
 
-Answer:
+### Answer:
 
 Masturbation is not permissible because this is a kind of fulfilling the sexual desire in a way other than that which Allah made lawful such as one's wife and slave girls. Also, it has many harmful consequences for a person's health. Allah directs those who can not marry to be chaste when He (Exalted be He) says, "**And let those who find not the financial means for marriage keep themselves chaste, until Allâh enriches them of His Bounty.**" [al-Nur: 33]
 

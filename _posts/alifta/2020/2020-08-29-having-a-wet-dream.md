@@ -3,22 +3,18 @@ date: 2020/08/29
 hijri: '1442-01-10'
 lang: en
 layout: post
-mass_edited: true
+group2: true
 publisher: alsalafiyyah.manhaj@gmail.com
-shaykhs:
-- Shaykh Abdul-'Aziz ibn Baz
-- Shaykh Salih Fawzan
-- Shaykh Abdullah ibn Ghudayyan
-- Shaykh Abdul-Aziz Aal al-Shayykh
-- Shaykh Bakr Abu Zayd
 source: Fatawa Al-Lajnah Ad-Da'imah no. 18019
 title: Is having a wet dream similar to masturbation?
+summary: "A person is not to be blamed if lustful thoughts happen to strike their mind unintentionally."
 ---
-Question: 
+
+### Question: 
 
 Repeated lustful thoughts may preoccupy a person's mind thus driving them to discharge Maniy (sperm) as a result of being sexually aroused. Does this fall under the prohibited masturbation? Will the person be considered a masturbator if they seek sexual pleasure through constantly occupying their mind with sexual excitement? Please inform us of the Islamic opinion in this regard. May Allah reward you!
 
-Answer:
+##3 Answer:
 
 A person is not to be blamed if lustful thoughts happen to strike their mind unintentionally. It is related in an authentic Hadith reported on the authority of Abu Hurayrah (may Allah be pleased with him) that the Prophet (peace be upon him) said, "**Truly Allah overlooks for my people their heart whisperings.**" 
 

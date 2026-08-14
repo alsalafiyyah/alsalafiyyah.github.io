@@ -3,23 +3,18 @@ date: 2020/08/29
 hijri: '1442-01-10'
 lang: en
 layout: post
-mass_edited: true
+group7: true
 publisher: alsalafiyyah.manhaj@gmail.com
-shaykhs:
-- Shaykh Abdul-'Aziz ibn Baz
-- Shaykh Abdul-Razzaq al-Afify
-- Shaykh Abdullah ibn Ghudayyan
-- Shaykh Salih Fawzan
-- Shaykh Abdul-Aziz Aal al-Shaykh
-- Shaykh Bakr Abu Zayd
 source: Fatawa Al-Lajnah Ad-Da'imah no. 16055
 title: Ruling on masturbation by means of pressing the prostate area
+summary: "Masturbation is prohibited regardless of the adopted method, as it entails drawing unlawful sexual pleasure out of wedlock."
 ---
-Question: 
+
+### Question: 
 
 I would like to know the Islamic ruling on intentional rubbing of the prostate gland to discharge Maniy (sperm), as I always do this. Can this practice fall under the prohibited masturbation? Bear in mind that I am incapable of getting married due to my financial and health conditions.
 
-Answer:
+### Answer:
 
 Masturbation is prohibited regardless of the adopted method, as it entails drawing unlawful sexual pleasure out of wedlock. Allah (Exalted be He) says: "**And those who guard their chastity (i.e. private parts, from illegal sexual acts) Except from their wives or (the slaves) that their right hands possess, - for then, they are free from blame; But whoever seeks beyond that, then those are the transgressors;**" [al-Mu'minun: 5-7]
 
