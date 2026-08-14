@@ -1,20 +1,17 @@
 ---
-date: 2020/08/31
+date: 2020-08-31
 hijri: '1442-01-12'
 lang: en
 layout: post
-mass_edited: true
+group2: true
 publisher: alsalafiyyah.manhaj@gmail.com
-shaykhs:
-- Shaykh Abdul-Aziz Aal al-Shaykh
-- Shaykh Abdul-Aziz ibn Baz
-- Shaykh Salih Fawzan
-- Shaykh Bakr Abu Zayd
-- Shaykh Abdullah ibn Ghudayyan
-source: Fatawa Al-Lajnah Ad-Da'imah no. 17910
+tags: alifta
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 17910
 title: After Li'an, should the child be attributed to his grandfather?
+summary: "The child in question should be attributed to his mother and your father is regarded as his maternal grandfather."
 ---
-Question: 
+
+### Question: 
 
 About 20 years ago, my sister married a man and I was young at that time. She immediately became pregnant, but only Allah knows if the child was from her husband or someone else. Consequently, the husband disowned the child and they were referred to the courts where they were given a legal ruling. There were witnesses and Li'an (allegation of adultery against a wife, accompanied by mutual invoking of Allah’s Curse/Wrath if lying) and the matter was finally resolved.
 
@@ -22,7 +19,7 @@ The point is that my father adopted the child and attributed him to his name. He
 
 I hope you will explain the proper and legal way to correct the status of the family and safeguard it against mixture of lineages. I told my children that the young man is not related to them, but they find this odd, because he has the same name of our father. I am confused, as my father is still alive and I fear that if we pass away while these young children do not know the truth about him and his offspring as their Mahram (permanently unmarriageable relative) while in fact they have no relation to him. Appreciate your guidance, may Allah reward you with the best.
 
-Answer:
+### Answer:
 
 The child in question should be attributed to his mother and your father is regarded as his maternal grandfather. It is not permissible for your father to adopt the child due to the bad consequences. You are considered his maternal uncle, but your children are regarded Ajanib (men other than a husband or permanently unmarriageable male relatives/ women other than a wife or permanently unmarriageable female relatives) to him. Regarding the formal procedures, you should ask the authorities concerned to correct the situation.
 
