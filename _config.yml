@@ -212,50 +212,7 @@ defaults:
 
   # _posts/audios/
   - scope:
-      path: "_posts/audios/**"
-      type: posts
-    values:
-      layout: post
-      active: audios
-      permalink: /audios/:title/
-  - scope:
-      path: "_posts/salih-ibn-fawzan/audios/**"
-      type: posts
-    values:
-      layout: post
-      permalink: /audios/:title/
-  - scope:
-      path: "_posts/ibn-uthaymeen/audios/**"
-      type: posts
-    values:
-      layout: post
-      permalink: /audios/:title/
-  - scope:
-      path: "_posts/ibn-baz/audios/**"
-      type: posts
-    values:
-      layout: post
-      permalink: /audios/:title/
-  - scope:
-      path: "_posts/abdul-muhsin/audios/**"
-      type: posts
-    values:
-      layout: post
-      permalink: /audios/:title/
-  - scope:
-      path: "_posts/albani/audios/**"
-      type: posts
-    values:
-      layout: post
-      permalink: /audios/:title/
-  - scope:
-      path: "_posts/muqbil-ibn-hadi/audios/**"
-      type: posts
-    values:
-      layout: post
-      permalink: /audios/:title/
-  - scope:
-      path: "_posts/muhammad-ibn-salih-luhaydan/audios/**"
+      path: "_posts/**/audios/**"
       type: posts
     values:
       layout: post
@@ -271,25 +228,7 @@ defaults:
 
   # _posts/muqolat/
   - scope:
-      path: "_posts/muqolat/**"
-      type: posts
-    values:
-      layout: post
-      permalink: /muqolat/:title/   
-  - scope:
-      path: "_posts/salih-ibn-fawzan/muqolat/**"
-      type: posts
-    values:
-      layout: post
-      permalink: /muqolat/:title/ 
-  - scope:
-      path: "_posts/ibn-baz/muqolat/**"
-      type: posts
-    values:
-      layout: post
-      permalink: /muqolat/:title/ 
-  - scope:
-      path: "_posts/abdul-razzaq-al-badr/muqolat/**"
+      path: "_posts/**/muqolat/**"
       type: posts
     values:
       layout: post
@@ -301,14 +240,8 @@ defaults:
       type: posts
     values:
       layout: post
-      permalink: /wahhabism/:title/
-  # _posts/biography/
-  - scope:
-      path: "_posts/biography/**"
-      type: posts
-    values:
-      layout: post
-      permalink: /biography/:title/   
+      permalink: /wahhabism/:title/ 
+
   # _categories
   - scope:
       path: "_categories"
@@ -316,6 +249,7 @@ defaults:
     values:
       layout: "category"
       permalink: /category/:title/ 
+
   # _tag
   - scope:
       path: "_tag"
@@ -323,13 +257,15 @@ defaults:
     values:
       layout: "tag"
       permalink: /scholars/:title/
+
   # _biography
   - scope:
       path: "_biography"
       type: "pages"
     values:
-      layout: "post"
+      layout: "page"
       permalink: /biography/:title/
+
   # _encyclopedia
   - scope:
       path: "_encyclopedia"
@@ -337,6 +273,7 @@ defaults:
     values:
       layout: "page"
       permalink: /encyclopedia/:title/
+
   # _pages
   - scope:
       path: "_pages"
