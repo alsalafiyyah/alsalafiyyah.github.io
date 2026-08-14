@@ -1,0 +1,33 @@
+---
+hijri: '1442-02-27'
+lang: en
+layout: post
+mass_edited: true
+muftis:
+  chairman:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+  deputy_chairman:
+  - name: Shaykh Abdul-Razzaq Al-Afifi
+    url: /biography/afifi/
+  members:
+  - name: Shaykh Abdullah ibn Ghudayyan
+    url: /biography/ghudayyan/
+publisher: alsalafiyyah.manhaj@gmail.com
+source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 10578, Question 1
+summary: I am a monotheist but my household follow Al-Mirghaniyyah Tariqah (Sufi order)
+  which is known here in Sudan as Al-Khatmiyyah. Since I was guided to monotheism,
+  I started calling my family to follow it but they refuse, as I am the youngest son.
+tags:
+- alifta
+title: Ruling on Mirghaniyyah or Khatmiyyah Sufi order
+translation: false
+category: [sects]
+---
+### Question:
+
+I am a monotheist but my household follow [**Al-Mirghaniyyah Tariqah (Sufi order)**](/sects/sufism/) which is known here in Sudan as [**Al-Khatmiyyah**](/sects/sufism/). Since I was guided to monotheism, I started calling my family to follow it but they refuse, as I am the youngest son. Is it permissible for me to leave them and start calling other people? If I do so, will I be among those mentioned in the Ayah (Qur'anic verse), "**O you who believe! Why do you say that which you do not do?**" [Al-Saff: 2] The people I intend to call may say to me: "Go call your household first then call others." 
+
+### Answer:
+
+Continue calling your family members and you can call others as well. You are not among those mentioned in the Ayah where Allah says: "**O you who believe! Why do you say that which you do not do?**" [Al-Saff: 2] As long as you are following the right path and calling your family and others to follow it. Allah is the Grantor of success and guidance and not you.
