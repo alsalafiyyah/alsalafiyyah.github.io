@@ -263,32 +263,7 @@ defaults:
   
   # _posts/videos/    
   - scope:
-      path: "_posts/videos/**"
-      type: posts
-    values:
-      layout: post
-      active: videos
-      permalink: /videos/:title/
-  - scope:
-      path: "_posts/salih-ibn-fawzan/videos/**"
-      type: posts
-    values:
-      layout: post
-      permalink: /videos/:title/
-  - scope:
-      path: "_posts/ibn-uthaymeen/videos/**"
-      type: posts
-    values:
-      layout: post
-      permalink: /videos/:title/
-  - scope:
-      path: "_posts/ibn-baz/videos/**"
-      type: posts
-    values:
-      layout: post
-      permalink: /videos/:title/
-  - scope:
-      path: "_posts/muhammad-ibn-said-raslan/videos/**"
+      path: "_posts/**/videos/**"
       type: posts
     values:
       layout: post
