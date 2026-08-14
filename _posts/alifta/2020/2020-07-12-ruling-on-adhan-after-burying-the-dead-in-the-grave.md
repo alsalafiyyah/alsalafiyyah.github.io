@@ -1,11 +1,4 @@
 ---
-lang: en
-mass_edited: true
-hijri: '1441-11-21'
----
-
-
-﻿---
 layout: post
 title: "Ruling on Adhan after burying the dead in the grave"
 publisher: "alsalafiyyah@icloud.com"
@@ -16,6 +9,7 @@ summary: "It is not permissible to call the Adhan or Iqamah at the grave after b
 tags: [alifta]
 lang: en
 translation: false
+hijri: '1441-11-21'
 group1: true
 ---
 

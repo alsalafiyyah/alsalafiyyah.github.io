@@ -1,20 +1,14 @@
----
-lang: en
-mass_edited: true
-hijri: '1442-01-07'
----
-
-
 ﻿---
 layout: post
 title: "The difference between Major Shirk and Minor Shirk"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Al-Da'imah 1653, Question 1"
-hijri: "Muharram 7, 1442 AH"
+hijri: '1442-01-07'
 date: 2020-08-26
 category: [fatwas,terminology]
 summary: "What is the difference between major Shirk and minor Shirk in terms of their definitions and rulings?"
 group1: true
+lang: en
 ---
 
 ### Question:

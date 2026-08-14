@@ -1,19 +1,11 @@
----
-lang: en
-mass_edited: true
-hijri: '1441-12-07'
----
-
-
 ﻿---
 layout: post
 publisher: "alsalafiyyah@icloud.com"
 title: "Tawassul to Allah by the honor, sanctity or blessings of the Prophet or another person"
 source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 1711, Question 1"
 category: [fatwas,tawassul]
-hijri: Dhul-Hijjah 7, 144
-date: 2020/07/28
-locale: en
+hijri: '1441-12-07'
+date: 2020-07-28
 lang: en
 group1: true
 summary: "The Prophet, peace be upon him, forbade people from taking graves as places for worship, fearing that people might worship the graves."

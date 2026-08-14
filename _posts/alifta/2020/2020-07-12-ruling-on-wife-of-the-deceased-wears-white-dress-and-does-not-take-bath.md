@@ -1,35 +1,15 @@
 ---
-lang: en
-mass_edited: true
-hijri: '1441-11-21'
----
-
-
-﻿---
 layout: post
 title: "Ruling on a wife of the deceased wears a white dress and does not take a bath"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatwas of the Permanent Committee of KSA Fatwa no.17976, Question 1"
 category: [bidah, funerals]
-hijri: "Dhul-Qa'dah 21, 1441 AH"
+hijri: '1441-11-21'
 summary: "In Algeria when a man dies, his wife wears a white dress and does not take a bath or change her clothes until the next Wednesday night following the husband’s death."
 tags: [alifta]
 lang: en
 translation: false
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Aziz Aal ash-Shaykh
-      url: /biography/abdulaziz/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
-    - name: Shaykh Salih al-Fawzan
-      url: /biography/fawzan/
-    - name: Shaykh Bakr Abu Zayd
-      url: /biography/bakr/
+group2: true
 ---
 
 ### Question: 

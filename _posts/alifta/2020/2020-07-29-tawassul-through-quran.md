@@ -1,19 +1,11 @@
 ---
-lang: en
-mass_edited: true
-hijri: '1441-12-08'
----
-
-
-﻿---
 layout: post
 publisher: "alsalafiyyah@icloud.com"
 title: "Rule on tawassul through the Qur'an and certain days"
 source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 6384, Question 1"
 category: [fatwas,tawassul]
-hijri: Dhul-Hijjah 8, 1441
+hijri: '1441-12-08'
 date: 2020-07-29
-locale: en
 lang: en
 summary: "It is permissible to make Tawassul by the Qur’an, because it is the Speech of Allah in word and meaning, and His Speech is one of His Attributes."
 group1: true

@@ -1,17 +1,10 @@
----
-lang: en
-mass_edited: true
-hijri: '1441-11-19'
----
-
-
 ﻿---
 layout: post
 title: "Ruling on setting up tents beside the graves"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatwas of the Permanent Committee of KSA, Fatwa no.5848 question 1"
 category: [bidah, funerals]
-hijri: "Dhul-Qa'dah 25, 1441AH"
+hijri: '1441-11-19'
 summary: "It is impermissible for anyone to set up a tent beside the grave where reciters keep reciting Qur’an, granting the reward to the dead, then taking a wage for their action."
 tags: [alifta]
 lang: en

@@ -1,30 +1,21 @@
----
-lang: en
-mass_edited: true
-hijri: '1442-01-08'
----
-
-
 ﻿---
 layout: post
 title: "Ruling on making distinctions between the prophets and deeming one of them to be superior to others"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 1000-6"
-hijri: Muharram 8, 1442 AH
-date: 2020/08/27
+hijri: '1442-01-08'
+date: 2020-08-27
+lang:en
 category: ["prophets"]
-shaykhs: 
- - Shaykh Ibrahim ibn Muhammad Aal Al-Shaykh
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Mani'
+group20: true
+summary: "We should believe in the mission of any messenger that has been authentically reported in the Qur'an or Sunnah to have had a mission."
 ---
 
-Question: 
+### Question: 
 
 I would like to inquire about making distinctions between the messengers of Allah and who has the highest position (in the sight of Allah)?
 
-Answer:
+### Answer:
 
 We should believe in the mission of any messenger that has been authentically reported in the Qur'an or Sunnah to have had a mission. Whoever believes in some of them and disbelieves in others is considered a Kafir (disbeliever), for Allah's Saying (Exalted be He): "**The Messenger (Muhammad صلى الله عليه وسلم) believes in what has been sent down to him from his Lord, and (so do) the believers. Each one believes in Allâh, His Angels, His Books, and His Messengers. (They say), "We make no distinction between one another of His Messengers"**"[Al-Baqarah: 285]
 

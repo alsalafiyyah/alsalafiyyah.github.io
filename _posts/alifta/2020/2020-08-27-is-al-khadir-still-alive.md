@@ -1,23 +1,14 @@
----
-lang: en
-mass_edited: true
-hijri: '1442-01-08'
----
-
-
 ﻿---
 layout: post
-title: "Is Al-Khadir (peace be upon him) still alive?"
+title: "Is Al-Khadir still alive?"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 5513-2"
-hijri: Muharram 8, 1442 AH
+hijri: '1442-01-08'
 date: 2020/08/27
 category: ["prophets"]
-shaykhs: 
- - Shaykh Abdul-Aziz Bin Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+lang: en
+translation: false
+group1: true
 ---
 
 ### Question: 

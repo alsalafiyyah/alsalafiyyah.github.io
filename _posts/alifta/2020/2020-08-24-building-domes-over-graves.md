@@ -1,23 +1,14 @@
 ---
-lang: en
-mass_edited: true
-hijri: '1442-01-05'
----
-
-
-﻿---
 layout: post
 title: "Ruling on building domes over graves"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa al-Lajnah ad-Daimah no. 8263-4"
 category: [funerals, fatwas, bidah]
-hijri: Dhul-Hijjah 24, 1441
+hijri: '1442-01-05'
 summary: It is impermissible to make such a Qiyas or analogy to conclude the permissibility of building domes on the graves of the dead, whether righteous people or otherwise.
-date: 2020/08/14
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Qa'ud
+date: 2020-08-14
+lang: en
+group9: true
 ---
 
 ### Question:

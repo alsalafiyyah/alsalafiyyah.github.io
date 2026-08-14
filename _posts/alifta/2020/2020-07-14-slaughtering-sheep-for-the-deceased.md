@@ -1,10 +1,3 @@
----
-lang: en
-mass_edited: true
-hijri: '1441-11-23'
----
-
-
 ﻿---
 layout: post
 title: "Ruling on slaughtering sheep for the deceased"
@@ -14,7 +7,7 @@ category: [bidah, funerals]
 tags: [alifta]
 lang: en
 translation: true
-hijri: "Dhul-Qa'dah 23, 1441"
+hijri: '1441-11-23'
 summary: "Slaughtering for the deceased after burial is an act of Bid’ah for which there is no evidence in the Qur’an and the Sunnah."
 group7: true
 ---

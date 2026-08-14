@@ -3,19 +3,7 @@ date: 2024-06-30
 hijri: '1445-12-24'
 lang: en
 layout: post
-mass_edited: true
-muftis:
-  chairman:
-  - name: Shaykh Ibn Baz
-    url: /biography/binbaz
-  deputy_chairman:
-  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-    url: /biography/abdulaziz
-  members:
-  - name: Shaykh Salih Al-Fawzan
-    url: /biography/fawzan
-  - name: Shaykh Bakr Abu Zayd
-    url: /biography/bakr
+group13: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 18224, Question 3
 summary: It is not permissible to recite the Qur'an in return for a payment and have

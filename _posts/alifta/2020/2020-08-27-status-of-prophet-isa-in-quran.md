@@ -1,30 +1,21 @@
----
-lang: en
-mass_edited: true
-hijri: '1442-01-08'
----
-
-
 ﻿---
 layout: post
 title: "The status of Prophet 'Isa according to the Qur'an and Sunnah"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 2190-1"
-hijri: Muharram 8, 1442 AH
+publisher: "alsalafiyyah.manhaj@gmail.com"
+source: "Fatawa Al-Lajnah Ad-Da'imah no. 2190, question 1"
+hijri: '1442-01-08'
 date: 2020/08/27
 category: ["prophets"]
-shaykhs: 
- - Shaykh Abdul-'Aziz ibn 'Abdullah ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+group1: true
+lang: en
+summary: "Thus, 'Isa is not the son of Allah. Maryam said that no human being had sexual intercourse with her."
 ---
 
-Question: 
+### Question: 
 
 We were informed that a [translation of the Qur'an by Muhammad Asad](/quran-translation-muhammad-asad-is-fatal-error/) would be published soon in Dublin, Ireland. This translation will be distributed here. A committee, from among Indian Muslim Professors, has been formed to publish this translation. Muhammad Asad alleges in his translation that Prophet 'Isa (Jesus) died and that the Muslims' belief in his return is not true. In the light of this allegation, I would like to ask the following questions: What is the status of prophet `Isa according to the Qur'an and the authentic Sunnah?
 
-Answer:
+### Answer:
 
 Allah (Exalted be He) created His Prophet 'Isa from a mother only. Allah (Exalted be He) says: "**And mention in the Book (the Qur’ân, O Muhammad صلى الله عليه وسلم the story of) Maryam (Mary), when she withdrew in seclusion from her family to a place facing east. She placed a screen (to screen herself) from them; then We sent to her Our Ruh [angel Jibrîl (Gabriel)], and he appeared before her in the form of a man in all respects. She said: "Verily! I seek refuge with the Most Gracious (Allâh) from you, if you do fear Allâh." (The angel) said: "I am only a messenger from your Lord, (to announce) to you the gift of a righteous son." She said: "How can I have a son, when no man has touched me, nor am I unchaste?" He said: "So (it will be), your Lord said: ‘That is easy for Me (Allâh): And (We wish) to appoint him as a sign to mankind and a mercy from Us (Allâh), and it is a matter (already) decreed, (by Allâh).’ " So she conceived him, and she withdrew with him to a far place (i.e. Bethlehem valley about 4-6 miles from Jerusalem). And the pains of childbirth drove her to the trunk of a date-palm. She said: "Would that I had died before this, and had been forgotten and out of sight!" Then [the babe ‘Isâ (Jesus) or Jibrîl (Gabriel)] cried unto her from below her, saying: "Grieve not: your Lord has provided a water stream under you. "And shake the trunk of date-palm towards you, it will let fall fresh ripe-dates upon you." "So eat and drink and be glad. And if you see any human being, say: ‘Verily! I have vowed a fast unto the Most Gracious (Allâh) so I shall not speak to any human being this day.’" Then she brought him (the baby) to her people, carrying him.**" [Maryam: 16-27]
 

@@ -1,20 +1,17 @@
----
-lang: en
-mass_edited: true
-hijri: '1442-01-06'
----
-
-
 ﻿---
 layout: post
 title: "Bidahs committed in funerals"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 9/318"
-hijri: Muharram 6, 1442
-date: 2020/08/25
-category: [funerals, bidah, fatwas]
+hijri: '1442-01-06'
+date: 2020-08-25
+category: [funerals, bidah]
 summary: Such traditions are baseless in the purified Shariah. Rather, they are bid'ahs related to Jahiliyyah.
-shaykhs: Shaykh Ibn Baz
+muftis:
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+lang: en
 ---
 
 ### Question:

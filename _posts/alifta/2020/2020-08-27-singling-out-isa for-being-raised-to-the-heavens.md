@@ -1,23 +1,20 @@
 ---
-date: 2020/08/27
+date: 2020-08-27
 hijri: '1442-01-08'
 lang: en
 layout: post
-mass_edited: true
+group1: true
 publisher: alsalafiyyah.manhaj@gmail.com
-shaykhs:
-- Shaykh Abdul-'Aziz ibn 'Abdullah ibn Baz
-- Shaykh Abdul-Razzaq al-Afify
-- Shaykh Abdullah ibn Ghudayyan
-- Shaykh Abdullah ibn Qa'ud
-source: Fatawa Al-Lajnah Ad-Da'imah no. 1621-5
+source: Fatawa Al-Lajnah Ad-Da'imah no. 1621 question 5
 title: Singling out 'Isa for being raised to the heavens
+summary: "Allah (Exalted be He) encompasses everything with His Mercy and Knowledge, and He surrounds all things with His Power."
 ---
-Question: 
+
+### Question: 
 
 As Muhammad (peace be upon him) is the best of Prophets, why was he not raised to the heavens instead of 'Isa (Jesus, peace be upon him), if the latter was actually raised? Why is 'Isa in particular, among all the prophets, the one who was raised? Please give reason for this.
 
-Answer:
+### Answer:
 
 Allah (Exalted be He) encompasses everything with His Mercy and Knowledge, and He surrounds all things with His Power. He has profound wisdom, powerful will and omnipotence; He chose from the people prophets and Messengers who were sent as bearers of glad tidings and warners; He raised some of them above others in degree; and He granted each of them the privileges He wanted, out of His benevolence and mercy. He honored Ibrahim (Abraham, peace be upon him) and Muhammad (peace be upon him) with His friendship; and gave each prophet the signs and miracles which befit their eras, and by which the evidence is established for their people, out of His wisdom and justice; there is no stopping for His Judgment, and He is the Almighty, the All-Wise, the Most Subtle and the Acquainted. Not every privilege in itself is a reason for preference, as 'Isa was privileged with being raised to the heavens alive according to the will and wisdom of Allah, not for being better than the other Messengers such as Ibrahim, Muhammad, Musa (Moses) and Nuh (peace be upon them). 
 

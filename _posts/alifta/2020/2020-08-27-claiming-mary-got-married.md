@@ -1,20 +1,14 @@
----
-lang: en
-mass_edited: true
-hijri: '1442-01-08'
----
-
-
 ﻿---
 layout: post
 title: "Ruling on claiming that Maryam (Mary) the daughter of 'Imran got married after giving birth to Isa (Jesus, peace be upon him)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 7647"
-hijri: Muharram 8, 1442 AH
+hijri: '1442-01-08'
 date: 2020-08-27
-category: [prophets, fatwas]
+category: [prophets, non-muslim]
 summary: "There is nothing in the Qur'an nor in the Sunnah of the Prophet to indicate that Maryam bint 'Imran got married after 'Isa (Jesus) was born."
 group1: true
+lang: en
 ---
 
 ### Question: 

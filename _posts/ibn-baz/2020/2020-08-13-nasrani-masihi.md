@@ -2,7 +2,6 @@
 hijri: '1441-12-23'
 lang: en
 layout: post
-mass_edited: true
 muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz

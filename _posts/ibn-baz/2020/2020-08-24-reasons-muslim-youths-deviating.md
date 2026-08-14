@@ -1,18 +1,11 @@
----
-lang: en
-mass_edited: true
-hijri: '1442-01-05'
----
-
-
 ﻿---
 layout: post
 title: "Reasons for many young people deviating from the Din (Religion)"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 5/252, question 4"
-hijri: "Muharram 5, 1442 AH"
+hijri: '1442-01-05'
 date: 2020-08-24
-category: [manhaj,fatwas]
+category: [manhaj]
 summary: "What are the reasons for many young people deviating from the Din (religion of Islam) and becoming alienated from it?"
 muftis:
   shaykh: 

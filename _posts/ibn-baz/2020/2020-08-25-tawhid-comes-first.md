@@ -1,18 +1,12 @@
----
-lang: en
-mass_edited: true
-hijri: '1442-01-06'
----
-
-
 ﻿---
 layout: post
 title: "Tawhid comes first"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 9/78"
-hijri: "Muharram 6, 1442 AH"
+hijri: '1442-01-06'
 date: 2020-08-25
-category: [fatwas, tawhid]
+category: [tawhid]
+lang: en
 summary: "If a non-Muslim utters the testimony of faith out of firm belief, sincerity, and awareness of its meaning and acts according to this, they are regarded as Muslims."
 muftis:
   shaykh: 

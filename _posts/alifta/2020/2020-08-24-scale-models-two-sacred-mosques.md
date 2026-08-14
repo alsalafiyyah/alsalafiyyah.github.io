@@ -1,25 +1,16 @@
 ---
-lang: en
-mass_edited: true
-hijri: '1442-01-05'
----
-
-
-﻿---
 layout: post
 title: "Scale models of the two Sacred Mosques"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa al-Lajnah ad-Daimah no. 5576"
 category: [fatwas]
-hijri: Dhul-Hijjah 24, 1441
-date: 2020/08/14
+hijri: '1442-01-05'
+date: 2020-08-14
+lang: en
 summary: It is not permissible to make scale models for Al-Haramayn Al-Sharifayn as they may contain pictures of the people in Al-Masjid Al-Haram while making Tawaf.
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+group1: true
 ---
+
 ### Question:
 I would like to know the ruling on making a model for Al-Haramayn Al-Sharifayn (the Two Sacred Mosques i.e. The Holy Mosque in Makkah and the Prophet's Mosque in Madinah) including the Sacred Ka`bah with the aim of selling them to the pilgrims and other Muslims who wish to buy them as souvenirs.
 

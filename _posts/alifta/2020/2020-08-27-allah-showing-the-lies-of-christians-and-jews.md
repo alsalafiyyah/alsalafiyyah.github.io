@@ -1,18 +1,11 @@
----
-lang: en
-mass_edited: true
-hijri: '1442-01-08'
----
-
-
 ﻿---
 layout: post
 title: "The gospels' glad tidings of sending Muhammad and Allah's showing the lies of the Christians and Jews"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 11419"
-hijri: "Muharram 8, 1442 AH"
+hijri: '1442-01-08'
 date: 2020-08-27
-category: [prophets, fatwas]
+category: [prophets, non-muslim]
 summary: "Allah mentions the Injil in the Qur'an and asks its people to judge according to what was revealed by Allah in it, to believe in the good news Allah sent of the mission of Muhammad (peace be upon him)"
 group6: true
 ---

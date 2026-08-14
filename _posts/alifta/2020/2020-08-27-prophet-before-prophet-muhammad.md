@@ -3,21 +3,18 @@ date: 2020/08/27
 hijri: '1442-01-08'
 lang: en
 layout: post
-mass_edited: true
+group1: true
 publisher: alsalafiyyah.manhaj@gmail.com
-shaykhs:
-- Shaykh Abdul-'Aziz ibn 'Abdullah ibn Baz
-- Shaykh Abdul-Razzaq al-Afify
-- Shaykh Abdullah ibn Ghudayyan
-- Shaykh Abdullah ibn Qa'ud
 source: Fatawa Al-Lajnah Ad-Da'imah no. 8381-2
 title: The prophet sent before Prophet Muhammad (peace be upon him)
+summary: "Who was the prophet and messenger sent before the Last Messenger; our Prophet Muhammad (peace be upon him)?"
 ---
-Question: 
+
+### Question: 
 
 Who was the prophet and messenger sent before the Last Messenger; our Prophet Muhammad (peace be upon him)?
 
-Answer:
+### Answer:
 
 He was Jesus ('Isa), the son of Mariam (peace be upon him). It was authentically reported that the Prophet (peace be upon him) said, "**I am the nearest of all the people to the son of Mary (i.e. Jesus) for there has been no prophet between me and him.**" [^1]
 

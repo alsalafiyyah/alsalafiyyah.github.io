@@ -1,20 +1,12 @@
----
-lang: en
-mass_edited: true
-hijri: '1441-12-08'
----
-
-
 ﻿---
 layout: post
 publisher: "alsalafiyyah@icloud.com"
 title: "Rule on rawassul through the Messenger and Awliya"
 source: "Fatawa Al-Lajnah Ad-Da'imah no. 5156, Question 3"
 category: [fatwas,tawassul]
-hijri: Dhul-Hijjah 8, 1441
+hijri: '1441-12-08'
 date: 2020-07-29
 group1: true
-locale: en
 lang: en
 summary: "A dispute arose between a person and me. This person has memorized the Qur'an and has already performed Hajj to the Sacred House of Allah."
 ---

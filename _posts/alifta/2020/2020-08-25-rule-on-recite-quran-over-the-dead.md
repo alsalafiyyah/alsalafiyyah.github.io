@@ -1,20 +1,17 @@
----
-lang: en
-mass_edited: true
-hijri: '1442-01-06'
----
-
-
 ﻿---
 layout: post
 title: Ruling on reciting Quran over the dead
 publisher: "alsalafiyyah@icloud.com"
 source: Majmu' Fatawa wa Maqalat 9/321
-hijri: Muharram 6, 1442
+hijri: '1442-01-06'
 date: 2020-08-25
-category: [funerals, bidah, fatwas]
+category: [funerals, bidah]
+lang: en
 summary: Reciting the Quran over or for the sake of the dead is bidah and taking rewards for that is impermissible, for there is no legal foundation in this regard.
-shaykhs: Shaykh Ibn Baz
+muftis:
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
 
 ### Question:

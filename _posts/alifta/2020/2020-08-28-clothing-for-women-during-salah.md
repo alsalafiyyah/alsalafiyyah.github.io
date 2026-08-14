@@ -3,21 +3,13 @@ date: 2020/08/28
 hijri: '1442-01-09'
 lang: en
 layout: post
-mass_edited: true
-muftis:
-  chairman:
-  - name: Shaykh Abdul-Aziz ibn Baz
-    url: /biography/binbaz/
-  deputy_chairman:
-  - name: Shaykh Abdul-Razzaq Afifi
-    url: /biography/afifi/
-  members:
-  - name: Shaykh Abdullah ibn Qa'ud
-    url: /biography/qaud/
+group9: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 8708, Question 8
 title: Clothing for women during Salah
+summary: "I used to pray without wearing Hijab (veil), as I did not know of its obligation during prayer."
 ---
+
 ### Question: 
 
 I used to pray without wearing Hijab (veil), as I did not know of its obligation during prayer. Should I repeat all the obligatory and supererogatory Salahs even though this has been happening for almost six years?

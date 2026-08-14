@@ -1,20 +1,16 @@
----
-lang: en
-mass_edited: true
-hijri: '1441-12-23'
----
-
-
-﻿---
 layout: post
 title: "Ruling on cutting down harmful trees at graves"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 4/372, question 7"
-hijri: Dhul-Hijjah 23, 1441
+hijri: '1441-12-23'
 summary: They should be cut down because they harm the people who come to visit the graves. Similarly, any thorny plants should be cut down to spare the visitors the harm.
-date: 2020/08/13
-category: [funerals, fatwas]
-shaykhs: Shaykh Ibn Baz
+date: 2020-08-13
+lang: en
+muftis:
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
+category: [funerals]
 ---
 
 ### Question:

@@ -1,31 +1,15 @@
 ---
-lang: en
-mass_edited: true
-hijri: '1441-11-21'
----
-
-
-﻿---
 layout: post
 title: "Ruling on relatives of the deceased sitting beside the grave"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatwas of the Permanent Committee of KSA, fatwa no.11057 question 5"
 category: [bidah, funerals]
-hijri: "Dhul-Qa'idah 8, 1441 AH"
+hijri: '1441-11-21'
 summary: "It is impermissible bid’ah that a relative of the deceased sits at the grave after burial for half an hour."
 tags: [alifta]
 lang: en
 translation: false
-muftis:
-  chairman: 
-    - name: Shaykh Abdul-Aziz ibn Baz
-      url: /biography/binbaz/
-  deputy_chairman: 
-    - name: Shaykh Abdul-Razzaq Al-Afifi
-      url: /biography/afifi/
-  members: 
-    - name: Shaykh Abdullah ibn Ghudayyan
-      url: /biography/ghudayyan/
+group6: true
 ---
 
 ### Question: 

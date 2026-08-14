@@ -1,20 +1,17 @@
 ---
-lang: en
-mass_edited: true
-hijri: '1441-12-23'
----
-
-
-﻿---
 layout: post
 title: "Ruling on writing on graves"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 4/337"
-hijri: Dhul-Hijjah 23, 1441
+hijri: '1441-12-23'
 summary: It is not permissible to inscribe Qur'anic Ayahs or any thing else on graves.
-category: [funerals, fatwas]
-date: 2020/08/13
-shaykhs: Shaykh Ibn Baz
+category: [funerals]
+date: 2020-08-13
+lang: en
+muftis:
+  shaykh:
+  - name: Shaykh Abdul-Aziz ibn Baz
+    url: /biography/binbaz/
 ---
 
 ### Question:

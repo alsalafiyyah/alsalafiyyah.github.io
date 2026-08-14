@@ -1,17 +1,10 @@
----
-lang: en
-mass_edited: true
-hijri: '1441-12-05'
----
-
-
 ﻿---
 layout: post
 publisher: "alsalafiyyah@icloud.com"
 title: "Ruling on neglecting Tawhid"
 source: "Majmu' Fatawa 28/184"
 category: [fatwas,manhaj]
-hijri: "Dhul-Hijjah 5, 1441"
+hijri: '1441-12-05'
 date: 2020/07/26
 locale: en
 lang: en

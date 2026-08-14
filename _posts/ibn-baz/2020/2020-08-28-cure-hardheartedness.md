@@ -1,18 +1,11 @@
----
-lang: en
-mass_edited: true
-hijri: '1442-01-09'
----
-
-
 ﻿---
 layout: post
 title: "How to cure hardheartedness"
 publisher: "alsalafiyyah@icloud.com"
 source: "Majmu' Fatawa wa Maqalat 5/243, question no. 1"
-hijri: "Muharram 5, 1442 AH"
+hijri: '1442-01-09'
 date: 2020-08-24
-category: [fatwas]
+lang: en
 summary: "The causes of hardheartedness include sins, being heedless and befriending the heedless and the dissolute."
 muftis:
   shaykh: 

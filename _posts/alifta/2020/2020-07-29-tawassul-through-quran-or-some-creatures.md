@@ -4,7 +4,6 @@ group1: true
 hijri: '1441-12-08'
 lang: en
 layout: post
-mass_edited: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 8817, Question 4
 summary: What is the ruling on a person who speaks words like, in the name of or by

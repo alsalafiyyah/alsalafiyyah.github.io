@@ -1,21 +1,12 @@
 ---
-lang: en
-mass_edited: true
-hijri: '1441-12-08'
----
-
-
-﻿---
 layout: post
 title: "Tawassul through the entities, honor, or right of creatures"
 publisher: "alsalafiyyah@icloud.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 4217, Question 1"
-category: [fatwas,tawassul,wahhabism]
-hijri: Dhul-Hijjah 8, 1441
+category: [tawassul]
+hijri: '1441-12-08'
 date: 2020-07-29
-locale: en
 lang: en
-note: true
 summary: "Beseeching in the name of a person, virtue, status or right of creatures, whether they are prophets or righteous people is a subject of controversy among the scholars."
 group1: true
 ---

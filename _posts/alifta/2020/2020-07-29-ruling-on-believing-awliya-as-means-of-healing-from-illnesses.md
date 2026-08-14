@@ -1,21 +1,12 @@
 ---
-lang: en
-mass_edited: true
-hijri: '1441-12-08'
----
-
-
-﻿---
 layout: post
 publisher: "alsalafiyyah@icloud.com"
 title: "Ruling on believing in Awliya’ as a means of healing from illnesses and holding annual Mawlids for them"
 source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 3627, Question 1"
-category: [fatwas,tawassul]
-hijri: Dhu al-Hijjah 8, 1441
-date: 2020/07/29
+category: [tawassul]
+hijri: '1441-12-08'
+date: 2020-07-29
 group1: true
-note: true
-locale: en
 lang: en
 summary: "What are the rulings on the following: Using the pious people as a means of healing from illnesses, visiting graves, vowing to make sacrifices to the dead"
 ---
