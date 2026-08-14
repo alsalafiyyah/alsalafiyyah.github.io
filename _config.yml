@@ -256,7 +256,7 @@ defaults:
       type: "tag"
     values:
       layout: "tag"
-      permalink: /scholars/:title/
+      permalink: /tag/:title/
 
   # _biography
   - scope:
