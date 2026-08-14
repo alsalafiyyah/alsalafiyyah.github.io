@@ -3,22 +3,18 @@ date: 2020/08/30
 hijri: '1442-01-11'
 lang: en
 layout: post
-mass_edited: true
+group2: true
 publisher: alsalafiyyah.manhaj@gmail.com
-shaykhs:
-- Shaykh Abdul-Aziz ibn Baz
-- Shaykh Abdul-Aziz Aal al-Shaykh
-- Shaykh Abdullah ibn Ghudayyan
-- Shaykh Salih Fawzan
-- Shaykh Bakr Abu Zayd
-source: Fatawa Al-Lajnah Ad-Da'imah no. 16113
+source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 16113
 title: 'Fabricated Hadith: ''Difference among my Ummah is a mercy'''
+summary: "The saying that is commonly used by people, i.e. (Difference among my Ummah is a mercy), has no origin."
 ---
-Question: 
+
+### Question: 
 
 There is a Hadith that reads: "**Difference among my Ummah (nation based on one creed) is a mercy.**" Is it an authentic Hadith or not? Most scholars say that difference among the Ummah means difference among Juristic Schools. Most preachers mention this Hadith on pulpits. What is your view on the authenticity of this Hadith and acting upon it? What about the scholars and preachers who mention it? Each one of them follows a different Juristic School and acts upon its views. They say they follow the view of their Juristic school.
 
-Answer:
+### Answer:
 
 The saying that is commonly used by people, i.e. (Difference among my Ummah is a mercy), has no origin. That is, it has no Isnad (chain of narrations). So it is not permissible to ascribe this saying to the Messenger of Allah (peace be upon him). Perhaps the first to relate it without Isnad was Al-Bayhaqy (may Allah be merciful to him) in (Al-Risalah Al-Ash'ariyyah) as in (Tabiyin Kadhib Al-Muftary) by Ibn 'Asakir (may Allah be merciful to him) p.106. Many Hadith scholars held the same view.
 

@@ -3,22 +3,18 @@ date: 2020/08/30
 hijri: '1442-01-11'
 lang: en
 layout: post
-mass_edited: true
+group2: true
 publisher: alsalafiyyah.manhaj@gmail.com
-shaykhs:
-- Shaykh Abdul-Aziz ibn Baz
-- Shaykh Abdul-Aziz Aal al-Shaykh
-- Shaykh Abdullah ibn Ghudayyan
-- Shaykh Salih Fawzan
-- Shaykh Bakr Abu Zayd
-source: Fatawa Al-Lajnah Ad-Da'imah no. 18721-2
+source: Fatawa Al-Lajnah Ad-Da'imah no. 18721 question 2
 title: 'Fabricated Hadith: ''I am the best person for the wicked people of my Ummah'''
+summary: "The mentioned Hadith was not authentically reported from the Prophet (peace be upon him) because Yahya ibn Bastam was the only narrator of this Hadith and he was a weak narrator."
 ---
-Question: 
+
+### Question: 
 
 The Messenger of Allah (peace be upon him) said: "I am the best person for the wicked people of my Ummah (nation based on one creed)." The Sahabah (Companions of the Prophet, may Allah be pleased with them) said: "You are the best for their wicked ones, what about their good people?" The Prophet (peace be upon him) said: "Their good people will enter Jannah (Paradise) with their deeds and their wicked ones will enter Jannah with my intercession." Is this a Hadith Sahih (authentic)?
 
-Answer:
+### Answer:
 
 The mentioned Hadith was not authentically reported from the Prophet (peace be upon him) because Yahya ibn Bastam was the only narrator of this Hadith and he was a weak narrator. 
 
