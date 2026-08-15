@@ -343,4 +343,6 @@ We ask Him to guide us and them to His straight path; to populate the Two Holy S
 
 This is the end of what was facilitated of clarification and introduction regarding the condition of the Sheikh, his call, his supporters, and his opponents. Allah is the One whose help is sought, upon Him is our reliance, and there is no might and no power except with Allah, the Most High, the Supreme. May Allah bestow His peace, blessings, and prayers upon His servant and Messenger, our Prophet and Imam Muhammad bin Abdullah, and upon his family, his companions, and everyone who follows his path and is guided by his guidance. And all praise is due to Allah, the Lord of the worlds.
 
-Published within the publications of the General Presidency for Scientific Research, Ifta, Da'wah, and Guidance under number 50 in the year 1403 AH (*Majmoo' Fatawa wa Maqalat Al-Shaykh Ibn Baz*, vol. 1, p. 354).
+Source: 
+
+Published within the publications of the General Presidency for Scientific Research, Ifta, Da'wah, and Guidance under number 50 in the year 1403 AH (*Majmoo' Fatawa wa Maqalat Al-Shaykh Ibn Baz*, vol. 1, p. 354). [الإمام محمد بن عبدالوهاب دعوته وسيرته](https://binbaz.org.sa/discussions/4/%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%88%D9%87%D8%A7%D8%A8-%D8%AF%D8%B9%D9%88%D8%AA%D9%87-%D9%88%D8%B3%D9%8A%D8%B1%D8%AA%D9%87)
