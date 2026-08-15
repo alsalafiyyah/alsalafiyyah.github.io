@@ -1,24 +1,15 @@
 ---
-lang: en
-mass_edited: true
-hijri: '1442-01-12'
----
-
-
-﻿---
 layout: post
 title: "Hajj For Minors"
-publisher: "alsalafiyyah@icloud.com"
+publisher: "alsalafiyyah.manhaj@gmail.com"
 source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 6736, Question 1"
-hijri: Muharram 12, 1442
-date: 2020/08/31
-note: true
-category: [fatwas,hajj]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+lang: en
+group1: true
+hijri: '1442-01-12'
+date: 2020-08-31
+tags: alifta
+category: [hajj]
+summary: "If a child has reached the age of discernment but has not yet reached adolescence and his father or guardian wants to take him for Hajj, he should tell him to put on Ihram garments"
 ---
 
 ### Question:

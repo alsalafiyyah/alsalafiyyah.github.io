@@ -1,17 +1,16 @@
 ---
-date: 2020/08/31
+date: 2020-08-31
 hijri: '1442-01-12'
 lang: en
 layout: post
-mass_edited: true
+group4: true
 publisher: alsalafiyyah.manhaj@gmail.com
-shaykhs:
-- Shaykh Abdul-Razzaq al-Afify
-- Shaykh Abdullah ibn Ghudayyan
-- Shaykh Abdullah ibn Mani'
+tags: alifta
 source: Fatawa Al-Lajnah Ad-Da'imah no. 836 Question 3
 title: Hajj performed by a person who committed an act of Kufr
+summary: "A person who offers Salah, and at times neglects it, is playing with religion. If a person abandons one Salah, for three days they are admonished."
 ---
+
 ### Question:
 After performing Hajj, a person committed Zina (sexual intercourse outside marriage) and sometimes neglected Salah (Prayer). Later, this person repented to Allah. Is this person's first Hajj sufficient or should they perform Hajj once again?
 
@@ -25,8 +24,6 @@ A person who offers Salah, and at times neglects it, is playing with religion. I
 As for his committing Zina after Hajj, if he had committed it while thinking it is Halal (lawful), this is considered Kufr (disbelief) which invalidates his previous deeds. If he has done it while believing in its prohibition, it will be counted as a major sin, and it necessitates Tawbah. However, his Hajj is valid, and the sin of Zina remains until he repents.
 
 May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
-
----
 
 [^1]: Al-Bukhari, Sahih, Book on faith, no. 8; Muslim, Sahih, Book on faith, no. 16; Al-Tirmidhy, Sunan, Book on faith, no. 2609; Al-Nasa*y, Sunan, Book on faith and its laws, no. 5001; and Ahmad ibn Hanbal, Musnad, vol. 2, p. 93.
 [^2]: Al-Tirmidhy, Sunan, Book on faith, no. 2621; Al-Nasa*y, Sunan, Book on Salah, no. 463; Ibn Majah, Sunan, Book on performing Prayer and its Sunan, no. 1079; and Ahmad, Musnad, vol. 5, no. 346.
