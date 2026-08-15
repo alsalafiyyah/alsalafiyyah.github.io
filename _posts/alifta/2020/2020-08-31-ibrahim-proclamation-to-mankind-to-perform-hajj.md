@@ -1,17 +1,16 @@
 ---
-date: 2020/08/31
+date: 2020-08-31
 hijri: '1442-01-12'
 lang: en
 layout: post
-mass_edited: true
+group18: true
 publisher: alsalafiyyah.manhaj@gmail.com
-shaykhs:
-- Shaykh Abdul-Aziz ibn Baz
-- Shaykh Abdullah ibn Ghudayyan
-- Shaykh Abdullah ibn Qa'ud
-source: Fatawa Al-Lajnah Ad-Da'imah no. 6147-4
+tags: alifta
+source: Fatawa Al-Lajnah Ad-Da'imah, fatwa no. 6147 question 4
 title: Ibrahim's proclamation to mankind to perform Hajj
+summary: "It is claimed that Allah (Exalted be He) ordered His Prophet Ibrahim (peace be upon him) to proclaim Hajj to mankind."
 ---
+
 ### Qestion:
 It is claimed that Allah (Exalted be He) ordered His Prophet Ibrahim (peace be upon him) to proclaim Hajj to mankind. Ibrahim did, and the people answered his call, even those who were not born yet. Those who did not answer him will not perform Hajj, even if they possess heaps of gold and silver. Is this true?
 

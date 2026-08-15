@@ -1,22 +1,15 @@
----
-lang: en
-mass_edited: true
-hijri: '1442-01-12'
----
-
-
 ﻿---
 layout: post
-title: "Merit of Hajj"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 6614-1"
-hijri: Muharram 12, 1442
+title: "The Merit of Hajj"
+publisher: "alsalafiyyah.manhaj@gmail.com"
+source: "Fatawa Al-Lajnah Ad-Da'imah, fatwa no. 6614 question 1"
+lang: en
+group6: true
+hijri: '1442-01-12'
 date: 2020/08/31
-category: [hajj, fatwas]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
+category: [hajj]
+tags: alifta
+summary: "Are major sins forgiven by virtue of Hajj Mabrur (Hajj sincerely done, not mixed with any sin, and is accepted by Allah)? When is trade permissible in Hajj?"
 ---
 
 ### Question:

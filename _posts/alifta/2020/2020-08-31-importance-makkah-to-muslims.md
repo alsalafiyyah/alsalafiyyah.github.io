@@ -1,23 +1,15 @@
----
-lang: en
-mass_edited: true
-hijri: '1442-01-12'
----
-
-
 ﻿---
 layout: post
 title: "Importance of Makkah to Muslims"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 3056-10"
-hijri: Muharram 12, 1442
-date: 2020/08/31
-category: [hajj,fatwas]
-shaykhs: 
- - Shaykh Abdul-Aziz ibn Baz
- - Shaykh Abdul-Razzaq al-Afify
- - Shaykh Abdullah ibn Ghudayyan
- - Shaykh Abdullah ibn Qa'ud
+publisher: "alsalafiyyah.manhaj@gmail.com"
+source: "Fatawa Al-Lajnah Ad-Da'imah, fatwa no. 3056 question 10"
+lang: en
+group1: true
+hijri: '1442-01-12'
+date: 2020-08-31
+category: [hajj]
+tags: alifta
+summary: "It is a place where Muslims get to know one another, and advise and consult one another over matters related to their religious and worldly life."
 ---
 
 ### Question:
