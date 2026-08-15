@@ -345,4 +345,6 @@ This is the end of what was facilitated of clarification and introduction regard
 
 Source: 
 
-Published within the publications of the General Presidency for Scientific Research, Ifta, Da'wah, and Guidance under number 50 in the year 1403 AH (*Majmoo' Fatawa wa Maqalat Al-Shaykh Ibn Baz*, vol. 1, p. 354). [الإمام محمد بن عبدالوهاب دعوته وسيرته](https://binbaz.org.sa/discussions/4/%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%88%D9%87%D8%A7%D8%A8-%D8%AF%D8%B9%D9%88%D8%AA%D9%87-%D9%88%D8%B3%D9%8A%D8%B1%D8%AA%D9%87)
+Published within the publications of the General Presidency for Scientific Research, Ifta, Da'wah, and Guidance under number 50 in the year 1403 AH (*Majmoo' Fatawa wa Maqalat Al-Shaykh Ibn Baz*, vol. 1, p. 354). 
+
+[الإمام محمد بن عبدالوهاب دعوته وسيرته](https://binbaz.org.sa/discussions/4/%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%88%D9%87%D8%A7%D8%A8-%D8%AF%D8%B9%D9%88%D8%AA%D9%87-%D9%88%D8%B3%D9%8A%D8%B1%D8%AA%D9%87)
