@@ -1,16 +1,10 @@
----
-lang: en
-mass_edited: true
-hijri: '1442-01-12'
----
-
-
 ﻿---
 layout: post
 title: "A wife inheriting from the husband's Diyah as well as other property"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 6979, question 2"
-hijri: "Muharram 12, 1442 AH"
+publisher: "alsalafiyyah.manhaj@gmail.com"
+source: "Fatawa Al-Lajnah Ad-Da'imah, fatwa no. 6979, question 2"
+lang: en
+hijri: '1442-01-12'
 date: 2020-08-31
 category: [inheritance, marriage, women]
 summary: "If his widow is a free Muslim woman, she inherits from his Diyah as well as from the rest of his property."

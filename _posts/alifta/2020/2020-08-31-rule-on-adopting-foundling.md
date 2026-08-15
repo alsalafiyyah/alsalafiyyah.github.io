@@ -1,23 +1,16 @@
 ---
+layout: post
+publisher: "alsalafiyyah.manhaj@gmail.com"
+title: "Ruling on adopting a foundling"
+source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 17230"
 lang: en
 mass_edited: true
 hijri: '1442-01-12'
----
-
-
-﻿---
-layout: post
-publisher: "alsalafiyyah@icloud.com"
-title: "Ruling on adopting a foundling"
-source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 17230"
-hijri: "Muharram 12, 1442 AH"
-date: 2020/08/31
-category: [fatwas,foundling]
-note: true
+date: 2020-08-31
+category: [foundling]
+tags: alifta
 group2: true
-locale: en
 lang: en
-uid: rule-on-adopting-a-foundling
 summary: "Bringing up the foundling and being benevolent toward him is a good deed for which you will be rewarded."
 ---
 

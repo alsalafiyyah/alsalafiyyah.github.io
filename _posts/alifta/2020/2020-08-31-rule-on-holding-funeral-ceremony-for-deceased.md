@@ -1,18 +1,18 @@
 ---
-date: 2020/08/31
+date: 2020-08-31
 hijri: '1442-01-12'
 lang: en
 layout: post
-mass_edited: true
+group6: true
 publisher: alsalafiyyah.manhaj@gmail.com
-shaykhs:
-- Shaykh Abdul-Aziz ibn Baz
-- Shaykh Abdul-Razzaq al-Afify
-- Shaykh Abdullah ibn Ghudayyan
-source: Fatawa Al-Lajnah Ad-Da'imah no. 9508
+tags: alifta
+category: funerals
+source: Fatawa Al-Lajnah Ad-Da'imah, fatwa no. 9508
 title: Ruling holding a funeral ceremony for the deceased
+summary: "First, offering funeral ceremonies for the dead is impermissible, so you have to repay the money that you spent on the funeral ceremony to the heirs."
 ---
-Question:
+
+### Question:
 
 My mother (may Allah be merciful to her) gave me around LE 5,000 to invest for her, but she died on 2/8/1983 A.D. I have spent around LE 2,000 on her funeral ceremony and Sadaqah (voluntary charity) on her behalf for the sake of Allah (Exalted be He). Therefore, the sum in my possession which belongs to all heirs was LE 3,000, and it remained with me for a whole year till 12/7/1984 A.D. This sum of money was put in an investment project and yielded a profit of LE 545.
 
@@ -24,7 +24,7 @@ I collected the mentioned sums which were 545 + 200 + 300 +1100 + 611+ 40 + 80 w
 
 My question now is: Am I right in doing this and should I go on investing this sum, which is LE 2,876 and persist in increasing the capital through Muslim brothers by means of Sadaqah or Zakah that they pay, then distributing the profit to the poor provided that the capital would be for the sake of Allah (Exalted be He) at the end? Or should I distribute this sum to the poor and stop this project? I hope that Your Eminence would provide me with a prompt reply by post, so I stop doing this if there is anything wrong.
 
-Answer:
+### Answer:
 
 First, offering funeral ceremonies for the dead is impermissible, so you have to repay the money that you spent on the funeral ceremony to the heirs.
 

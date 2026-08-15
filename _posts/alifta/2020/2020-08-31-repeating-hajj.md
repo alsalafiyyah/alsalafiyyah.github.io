@@ -1,18 +1,17 @@
 ---
-date: 2020/08/31
+date: 2020-08-31
 hijri: '1442-01-12'
 lang: en
 layout: post
-mass_edited: true
+group1: true
 publisher: alsalafiyyah.manhaj@gmail.com
-shaykhs:
-- Shaykh Abdul-Aziz ibn Baz
-- Shaykh Abdul-Razzaq al-Afify
-- Shaykh Abdullah ibn Ghudayyan
-- Shaykh Abdullah ibn Qa'ud
-source: Fatawa Al-Lajnah Ad-Da'imah no. 6909-1
+tags: alifta
+category: hajj
+source: Fatawa Al-Lajnah Ad-Da'imah, fatwa no. 6909 question 1
 title: Repeating Hajj
+summary: "Allah has decreed Hajj upon every Muslim Mukallaf who is able to perform it once in a lifetime."
 ---
+
 ### Question:
 Is it preferable to perform Hajj every year for whoever wishes to do so and it is not difficult, or is it better to perform it once every two or three years?
 

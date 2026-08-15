@@ -1,25 +1,22 @@
 ---
-date: 2020/08/31
+date: 2020-08-31
 hijri: '1442-01-12'
 lang: en
 layout: post
-mass_edited: true
+group2: true
 publisher: alsalafiyyah.manhaj@gmail.com
-shaykhs:
-- Shaykh Abdul-Aziz ibn Baz
-- Shaykh Abdullah ibn Ghudayyan
-- Shaykh Salih Fawzan
-- Shaykh Abdul-Aziz Aal al-Shaykh
-- Shaykh Bakr Abu Zayd
-source: Fatawa Al-Lajnah Ad-Da'imah no. 17171
+tags: alifta
+source: Fatawa Al-Lajnah Ad-Da'imah, fatwa no. 17171
 title: Obligation of repaying the deceased's debt before distributing the shares of
   inheritors
+summary: "The debt which is payable by the deceased should be repaid before dividing the inheritance, for repaying the debts of a legator takes precedence over giving his heirs their shares of inheritance"
 ---
-Question:
+
+### Question:
 
 Before his death, my father borrowed 3,000 Kuwaiti dinars and willed that this debt be repaid. Given that I am the executer of his will, should I repay the debt from the estate before distributing it to the heirs, or from one-third of it?
 
-Answer:
+### Answer:
 
 The debt which is payable by the deceased should be repaid before dividing the inheritance, for repaying the debts of a legator takes precedence over giving his heirs their shares of inheritance, if the debt was proved by legal evidence or by the confession of the inheritors who are Mukallaf (people meeting the conditions to be held legally accountable for their actions).
 

@@ -1,23 +1,21 @@
 ---
-date: 2020/08/31
+date: 2020-08-31
 hijri: '1442-01-12'
 lang: en
 layout: post
-mass_edited: true
+group20: true
 publisher: alsalafiyyah.manhaj@gmail.com
-shaykhs:
-- Shaykh Ibrahim ibn Muhammad Aal Al-Shaykh
-- Shaykh Abdul-Razzaq al-Afify
-- Shaykh Abdullah ibn Ghudayyan
-- Shaykh Abdullah ibn Sulaiman ibn Mani'
-source: Fatawa Al-Lajnah Ad-Da'imah no. 122
+tags: alifta
+source: Fatawa Al-Lajnah Ad-Da'imah, fatwa no. 122
 title: Ruling on attributing the Laqit to its adopter
+summary: "According to the Shari‘ah, it is not permissible for a person who adopts a foundling to pass on the family name to them, whereby the foundling is given the name of the foster father and is ascribed to him as a child to its own father or tribe, as described in the question."
 ---
-Question: 
+
+### Question: 
 
 A relative of mine, my uncle Hamad, adopted a Laqit (foundling), brought him up, educated him, and treated him well. He gave him the name (Y.H.SH.) through his Ijtihad (personal reasoning) and kindness. He then died in Zubayr city and he did not have any children to inherit him. The boy is now an adult and is attending the Zhahran Technical Institute. The relatives have discussed the possibility of changing the boy’s name; some of them think that his name should be changed while others have paid no attention to the whole matter. Fearing that the lineage could be confused and the inheritance might be distributed improperly, I hope that Your Eminence will give me a Fatwa (legal opinion issued by a qualified Muslim scholar) regarding the ruling of the Shari‘ah (Islamic law) on the issue, so we can act upon it.
 
-Answer:
+### Answer:
 
 According to the Shari‘ah, it is not permissible for a person who adopts a foundling to pass on the family name to them, whereby the foundling is given the name of the foster father and is ascribed to him as a child to its own father or tribe, as described in the question. This involves lying, falsehood, confusion of lineage, and a threat to people’s honor. It changes the lines of inheritance, and may result in someone who has no rights receiving a share and rightful heirs being deprived of theirs. Moreover, it may cause people to err and regard what is Haram (prohibited) as Halal (lawful) and what is Halal as Haram in matters of Khulwah (being alone with a member of the opposite sex) and marriage. 
 
@@ -32,8 +30,6 @@ The Prophet (peace be upon him) also said, "**Anyone who claims to belong to any
 The questioner’s uncle did wrong when he acted according to his personal reasoning and gave his name to the child in question. This state of affairs must not be allowed to continue. It is obligatory to change it and put matters right according to the Nusus (Islamic texts from the Qur’an or the Sunnah) that declare this naming to be Haram and also the above-mentioned ruling. As for being kind to a foundling, bringing him up, and treating him well, this is a benevolent deed that is encouraged by the Shari‘ah. 
 
 May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
-
----
 
 [^1]: Narrated with the same wording or similar wording: Ahmad, vol. 1, pp. 169, 174, 179, 2 p. 171, 194, and vol. 5, pp. 38 and 46; Al-Bukhari, vol. 5, p. 103; vol. 8, p. 12; Muslim, vol. 1, p. 80, no. 63; Abu Dawud, vol. 5, p. 337, no. 5113; Ibn Majah, vol. 2, p. 870, nos. 2610-2621; Al-Darimy, vol. 2, p. 244; Ibn Abu Shaybah, vol. 8, p. 537, and vol. 14, p. 146–147; Ibn Hibban, vol. 2, pp. 159-160, nos. 415-416; Al-Tayalisy, vol. s, pp. 120 and 300, nos. 885 and 2274; Al-Bayhaqy, vol. 7, p. 403; and Al-Baghawy, Sharh Al-Sunnah, vol. 9, p. 272, no. 2376.
 [^2]: Narrated with the same wording or similar wording: Ahmad, vol. 1, pp. 81, 126, 318, and 328, vol. 4, pp. 186, 187, 238, and 239, and vol. 5, p. 267; Al-Bukhari, vol. 8, p. 10; Muslim, vol. 2, pp. 998 and 1047, no. 1370; Abu Dawud, vol. 5, pp. 338-339, nos. 5114-5115; and Al-Tirmidhy.
