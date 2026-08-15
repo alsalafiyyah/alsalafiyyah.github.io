@@ -1,0 +1,27 @@
+{
+  "short_name": "Alsalafiyyah",
+  "name": "Al-Salafiyyah",
+  "description": "Islam, Qur'an and Sunnah upon the Manhaj of the Pious Salaf.",
+  "icons": [
+    {
+      "src": "/assets/icons/web-app-manifest-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/icons/web-app-manifest-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": "/?utm_source=pwa",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "minimal-ui"],
+  "scope": "/",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "categories": ["islam", "fatwas", "salafi", "manhaj", "sunnah"]
+}
