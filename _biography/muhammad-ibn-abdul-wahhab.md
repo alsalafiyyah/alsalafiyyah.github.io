@@ -113,15 +113,15 @@ And the news of the Sheikh reached the Emir of Al-Ahsa and its dependencies from
 
 This bedouin emir took the matter of the Sheikh very hard, because it is the habit of the bedouins—except those whom Allah guides—to rush into injustice, bloodshed, plundering of wealth, and violation of sanctities. He feared that this Sheikh’s influence would grow and that he would strip away the power of the bedouin emir.
 
-Consequently, he wrote to Othman, threatening him and ordering him to kill this religious scholar (*mutawwa*) who was with him in Al-Uyaynah, saying: "We have received such and such reports about the scholar who is with you! Either you kill him, or we will cut off your tribute that is with us."
+Consequently, he wrote to Othman, threatening him and ordering him to kill this religious scholar (*mutawwa*) who was with him in Al-Uyaynah, saying: **"We have received such and such reports about the scholar who is with you! Either you kill him, or we will cut off your tribute that is with us."*8
 
 Othman had a tribute of gold due to him from that emir. The matter weighed heavily on Othman, and he feared that if he disobeyed him, the emir would cut off his tribute or wage war against him.
 
-Therefore, Othman said to the Sheikh: "This emir has written to us saying such and such, and it is not proper for us to kill you, yet we fear this emir and are unable to fight him. If you would see fit to leave us, please do so."
+Therefore, Othman said to the Sheikh: **"This emir has written to us saying such and such, and it is not proper for us to kill you, yet we fear this emir and are unable to fight him. If you would see fit to leave us, please do so."**
 
-The Sheikh replied: "What I am calling to is the religion of Allah, realizing the statement *La ilaha illallah* (There is no god but Allah), and fulfilling the testimony that Muhammad is the Messenger of Allah. Whoever holds fast to this religion, supports it, and is truthful in doing so, Allah will support him, grant him victory, and place him in authority over the lands of his enemies. If you remain patient, steadfast, and accept this goodness, then take glad tidings: Allah will grant you victory, protect you from this bedouin and others, and Allah will soon place you in authority over his land and his tribe."
+The Sheikh replied: **"What I am calling to is the religion of Allah, realizing the statement *La ilaha illallah* (there is no deity worthy of worship except Allah), and fulfilling the testimony that Muhammad is the Messenger of Allah. Whoever holds fast to this religion, supports it, and is truthful in doing so, Allah will support him, grant him victory, and place him in authority over the lands of his enemies. If you remain patient, steadfast, and accept this goodness, then take glad tidings: Allah will grant you victory, protect you from this bedouin and others, and Allah will soon place you in authority over his land and his tribe."**
 
-The emir responded: "O Sheikh, we are not able to fight him, nor do we have the patience to oppose him."
+The emir responded: **"O Sheikh, we are not able to fight him, nor do we have the patience to oppose him."**
 
 And so the Sheikh departed at that time, moving from Al-Uyaynah to the town of **Al-Diriyah**. He arrived there walking on foot, according to what they mention, reaching it at the end of the day after having left Al-Uyaynah at the beginning of the day on foot, without Othman providing him with a mount.
 
