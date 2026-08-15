@@ -1,11 +1,11 @@
 ---
-author: Instagram@Alsalafiyyah
+publisher: alsalafiyyah.manhaj@gmail.com
 date: 2022-11-07
 group9: true
 hijri: '1444-04-13'
 lang: en
 layout: post
-mass_edited: true
+tags: alifta
 summary: There is no proof in the fact that a dome was set up over the Prophet’s grave
   for those who take it as an excuse for building domes of the graves of the saints
   and righteous people
@@ -14,7 +14,6 @@ tags:
 title: Green Dome over the Prophet’s grave
 translation: false
 ---
-
 
 ### Question:
 

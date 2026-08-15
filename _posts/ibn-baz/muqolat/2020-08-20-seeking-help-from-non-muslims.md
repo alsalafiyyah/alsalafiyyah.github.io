@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ruling on seeking the help of Kafirs in fighting other Kafirs
-publisher: alsalafiyyah.manhaj@gmail.com, salafiyyah@outlook.sa, Instagram@Alsalafiyyah
+publisher: alsalafiyyah.manhaj@gmail.com, salafiyyah@outlook.sa
 source: Majmu' Fatawa Al-Shaykh Ibn Baz 6/183
 hijri: '1442-01-01'
 date: 2020-08-20
@@ -16,6 +16,7 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
+
 Praise be to Allah. May peace and blessings be upon our Prophet Muhammad, his family, his Companions, and those who follow them in righteousness until the Day of Resurrection. 
 
 Scholars hold two different views with regard to the ruling on seeking the help of Kafirs (disbelievers/non-Muslims) to fight other Kafirs :
@@ -112,7 +113,6 @@ Moreover, the Prophet allowed the Muslim immigrants to immigrate to the Christia
 
 It is obligatory upon Muslim scholars to reconcile the texts, not to make them seem contradictory. The Ba'th nation is more dangerous to the Muslims than the Christian nation, because it is apparent that atheists are more indulged in Kufr than the people of the Scripture. What has been committed by the Ba'thist ruler of Iraq against Kuwait exposes his extreme malice and plot against Islam and Muslims. It should be noticed that some people assume that seeking the help of disbelievers is considered supporting them. But this is not the case, because seeking their help differs from taking them as allies. When he sought the help of Al-Mut'im ibn 'Ady, 'Abdullah ibn Urayqit, or the Jews of Khaybar, the Prophet (peace be upon him) was neither allying with the disbelievers nor taking them as intimates. Rather he (peace be upon him) did so, because the Muslims were in need of using them in such matters that would benefit Muslims and keep harm away from them. The same applies to sending the immigrants from Makkah to Abyssinia (Ethiopia), This is not out of allying with the Christians. Rather, the Prophet did so out of seeking the benefit of Muslims to relieve them from the evil committed against them. A Muslim should differentiate between what Allah made different and should employ the proofs appropriately. Allah (Glorified be He) is the One Who gives success and the Giver of guidance. There is no God but He. There is no Lord except Him.
 
----
 ### Footnotes:
 
 [^1]: Narrated by Muslim, Book on Jihad and military expeditions, Chapter on the reprehensibility of seeking the help of an unbeliever during battles, no. 1817.

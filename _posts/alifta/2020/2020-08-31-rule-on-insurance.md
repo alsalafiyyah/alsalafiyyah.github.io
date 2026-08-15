@@ -1,18 +1,12 @@
 ---
-lang: en
-mass_edited: true
-hijri: '1442-01-12'
----
-
-
-﻿---
 layout: post
 title: "Ruling on Insurance"
-publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 21563"
-hijri: "Muharram 12, 1442 AH"
+publisher: "alsalafiyyah.manhaj@gmail.com"
+source: "Fatawa Al-Lajnah Ad-Da'imah, fatwa no. 21563"
+lang: en
+hijri: '1442-01-12'
 date: 2020-08-31
-category: [insurance,fatwas]
+category: [insurance]
 summary: "After examining the Fatwa request, the Committee replied that a Fatwa was issued from the Permanent Committee for Scholarly Research and Ifta' no. (55) prohibiting Commercial Insurance in all forms because of its harmful effects and great risks including using up people's money unjustly."
 group5: true
 ---
@@ -44,7 +38,5 @@ And what the Prophet (peace be upon him) said: "**Allah will aid a servant of Hi
 What has been mentioned in the question is considered as one form of prohibited commercial insurance, so it is not permissible to be ratified or applied.
 
 May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
-
----
 
 [^1]: Muslim, Sahih, Book on remembrance of Allah, supplication, repentance and seeking forgiveness, no. 2699; Al-Tirmidhi, Sunan, Book on Al-Qira'at, no. 2945; Abu Dawud, Sunan, Book on manners, no. 4946; Ibn Majah, Sunan, Introduction, no. 225; and Ahmad, Musnad, vol. 2, p. 514.

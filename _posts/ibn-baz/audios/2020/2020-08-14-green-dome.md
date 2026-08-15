@@ -17,6 +17,7 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
+
 ### Question: 
 I know that building domes on graves is impermissible; however, some people say it is permissible and they take the dome on the grave of the Prophet (peace be upon him) as evidence to support their stance. They say that Muhammad Ibn Abdul-Wahhab removed all the domes, with the exception of that dome; namely, the dome of the Prophet (peace be upon him). How can we refute the argument of such people? Appreciate your guidance, may Allah guide you. 
 
