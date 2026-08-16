@@ -3,22 +3,16 @@ date: 2020-10-03
 hijri: '1442-02-16'
 lang: en
 layout: post
-mass_edited: true
-muftis:
-  chairman:
-  - name: Sh. Ibn Baz
-  deputy_chairman:
-  - name: Sh. Abdul-Razzaq Afifi
-  members:
-  - name: Sh. Abdullah Ibn Ghudayyan
-  - name: Sh Abdullah Ibn Qa'ud
+group1: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 2139 Question 1
 summary: 'The Hadith of the Prophet (peace be upon him): Beware of newly invented
   things (in religion) includes all things which people have introduced into the Islamic
   religion.'
-title: The meaning of 'Newly invented things'
+title: The meaning of Newly invented things
+category: bidah
 ---
+
 ### Question:
 What are the "Newly invented things" (mentioned in a Hadith)?
  

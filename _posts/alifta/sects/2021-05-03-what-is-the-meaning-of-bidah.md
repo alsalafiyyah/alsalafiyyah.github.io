@@ -5,15 +5,12 @@ layout: post
 group13: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 17522-1
-summary: What is the meaning of Bid'ah? We want you to define this term clearly. Indeed,
-  there are some people who say that everything that was not practiced during the
-  lifetime of the Prophet (peace be upon him) and his Sahabah (Companions of the Prophet)
-  is a Bid'ah.
+summary: "What is the meaning of Bid'ah? We want you to define this term clearly. Indeed, there are some people who say that everything that was not practiced during the lifetime of the Prophet (peace be upon him) and his Sahabah (Companions of the Prophet) is a Bid'ah."
 tags:
 - alifta
 title: What is the meaning of Bid'ah?
 translation: false
-category: [sects]
+category: [sects, bidah]
 ---
 
 ### Question: 
