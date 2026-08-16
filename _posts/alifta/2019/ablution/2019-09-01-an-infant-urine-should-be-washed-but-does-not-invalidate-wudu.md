@@ -12,9 +12,12 @@ tags:
 - alifta
 category:
 - taharah
+- ablution
+- salah
 title: An infant's urine should be washed but does not invalidate ablution
 translation: false
 ---
+
 ### Question : 
 
 I performed Wudu' (ablution) for Salah (prayer), then I held a baby that stained my clothes with urine. I washed the spot stained with urine and offered Salah without repeating Wudu'. Is my prayer valid? 

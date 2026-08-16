@@ -4,17 +4,7 @@ group9: true
 hijri: '1447-02-06'
 lang: en
 layout: post
-mass_edited: true
-muftis:
-  chairman:
-  - name: Shaykh Ibn Baz
-    url: /biography/binbaz/
-  deputy_chairman:
-  - name: Shaykh Abdul-Razzaq Afifi
-    url: /biography/afifi/
-  members:
-  - name: Shaykh Abdullah ibn Qa'ud
-    url: /biography/qaud/
+group9: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no. 6793, Question 3
 summary: Women dancing in front of men is Haram. Drinking alcoholic beverages is also

@@ -3,18 +3,7 @@ date: 2021-05-03
 hijri: '1442-09-21'
 lang: en
 layout: post
-mass_edited: true
-muftis:
-  chairman:
-  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-    url: /biography/abdulaziz/
-  members:
-  - name: Shaykh Abdullah Ibn Ghudayyan
-    url: /biography/ghudayyan/
-  - name: Shaykh Salih Al-Fawzan
-    url: /biography/fawzan/
-  - name: Shaykh Bakr Abu Zayd
-    url: /biography/bakr/
+group5: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Daimah no. 21672, question 4
 summary: The covering of the Ka'bah is a well known practice centuries before the

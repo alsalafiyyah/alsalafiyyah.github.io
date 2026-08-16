@@ -1,26 +1,9 @@
 ---
-author: Permanent Committee of KSA
 group7: true
 hijri: '1444-12-28'
 lang: en
 layout: post
-mass_edited: true
-muftis:
-  chairman:
-  - name: Shaykh Ibn Baz
-    url: /biography/binbaz/
-  deputy_chairman:
-  - name: Shaykh Abdul-Razzaq Afifi
-    url: /biography/afifi/
-  members:
-  - name: Shaykh Abdullah ibn Ghudayyan
-    url: /biography/ghudayyan/
-  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-    url: /biography/abdulaziz
-  - name: Shaykh Salih Al-Fawzan
-    url: /biography/fawzan/
-  - name: Shaykh Bakr Abu Zayd
-    url: /biography/bakr/
+group7: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da’imah, Fatwa no. 16301, Question 3
 summary: Listening to songs is haram, for Allah (Exalted be He) says, And of mankind

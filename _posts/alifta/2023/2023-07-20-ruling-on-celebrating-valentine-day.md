@@ -3,18 +3,7 @@ group5: true
 hijri: '1445-01-02'
 lang: en
 layout: post
-mass_edited: true
-muftis:
-  chairman:
-  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-    url: /biography/abdulaziz/
-  members:
-  - name: Shaykh Abdullah ibn Ghudayyan
-    url: /biography/ghudayyan/
-  - name: Shaykh Salih Al-Fawzan
-    url: /biography/fawzan/
-  - name: Shaykh Bakr Abu Zayd
-    url: /biography/bakr/
+group5: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da’imah 2/262-264, Fatwa no. 21203
 summary: The Muslim must adhere to the Qur'an and Sunnah in all his affairs, especially
@@ -25,7 +14,7 @@ title: Ruling on Celebrating Valentine’s Day
 translation: false
 ---
 
-##### Question: 
+### Question: 
 
 Some people celebrate the fourteenth day of February of each Christian year as the Day of Love (Valentine’s Day), where they exchange gifts of red roses and wear red clothes, and congratulate one another. Some the bakeries make sweets that are red in colour, with hearts drawn on them, and some stores have advertisements for their products that are especially for this day. What is your opinion on the following: 
 1. Celebrating this day
@@ -33,7 +22,7 @@ Some people celebrate the fourteenth day of February of each Christian year as t
 3. Storekeepers who are not celebrating it selling things that may be given as gifts to people who are celebrating it? 
 
 
-##### Answer:
+### Answer:
 
 The clear evidence of the Quran and Sunnah – and the consensus of the early generations of this ummah – indicates that there are only two festivals in Islam: ‘Eid Al-Fitr and ‘Eid Al-Adha. Any other festivals that have to do with a person, a group, an event or anything else are innovated festivals, which it is not permissible for Muslims to observe, approve of or express joy on those occasions, or to help others to celebrate them in any way, because that is transgressing the sacred limits of Allah, and whoever transgresses the sacred limits of Allah has wronged himself.
 

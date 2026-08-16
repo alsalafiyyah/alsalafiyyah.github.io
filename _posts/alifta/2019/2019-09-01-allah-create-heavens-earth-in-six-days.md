@@ -18,6 +18,7 @@ category:
 title: Period during which the heavens and earth were created
 translation: false
 ---
+
 ### Question: 
 
 It is known that Allah (Glorified and Exalted be He) created the heavens and the earth in six days. This is proven in the Qur'an and the Sunnah. However, there is a Hadith recorded in Sahih Muslim mentioning that the heavens, the earth, and Adam were created in seven days. How do we reconcile the Hadith recorded in Sahih Muslim and the Ayah? Please, explain. May Allah reward you.

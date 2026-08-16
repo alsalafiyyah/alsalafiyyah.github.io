@@ -3,25 +3,17 @@ date: 2019-09-01
 hijri: '1441-01-02'
 lang: en
 layout: post
-mass_edited: true
-muftis:
-  chairman:
-  - name: Shaykh Abdul-Aziz ibn Baz
-    url: /biography/binbaz/
-  deputy_chairman:
-  - name: Shaykh Abdul-Razzaq Al-Afifi
-    url: /biography/afifi/
-  members:
-  - name: Shaykh Abdullah Ibn Qa'ud
-    url: /biography/qaud/
+group6: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 7044
 summary: Passing wind from the front passage does not invalidate Wudu’.
 tags:
 - alifta
-title: Emission of wind from a woman’s vagina
+category: women, ablution
+title: "Does emission of wind from a woman’s front passage invalidate Wudu’?"
 translation: false
 ---
+
 ### Question 1: 
 
 Does emission of wind from a woman’s front passage invalidate Wudu’?

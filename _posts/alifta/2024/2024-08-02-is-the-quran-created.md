@@ -3,20 +3,7 @@ date: 2024-08-02
 hijri: '1446-01-27'
 lang: en
 layout: post
-mass_edited: true
-muftis:
-  chairman:
-  - name: Shaykh Ibn Baz
-    url: /biography/binbaz/
-  members:
-  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-    url: /biography/abdulaziz/
-  - name: Shaykh Abdullah ibn Ghudayyan
-    url: /biography/ghudayyan/
-  - name: Shaykh Salih Al-Fawzan
-    url: /biography/fawzan/
-  - name: Shaykh Bakr Abu Zayd
-    url: /biography/bakr/
+group2: true
 published: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah 3/15-16, Fatwa no. 17521, Question 1
@@ -27,6 +14,7 @@ tags:
 title: Is the Qur'an created?
 translation: false
 ---
+
 ### Question: 
 
 Imam Ahmad ibn Hanbal stated in his book [As-Sunnah]: ***"The Qur'an is the Words of Allah, not created. So, whoever claims that the Qur'an is created is a Jahmite[^1], and a Kafir (disbeliever)."*** I would like to know from Your Eminence why those who claim that the Qur'an was created are considered Kafirs and judged as such by Imam Ahmad (may Allah be merciful to him)?

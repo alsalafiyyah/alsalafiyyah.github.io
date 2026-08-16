@@ -5,19 +5,7 @@ group1: true
 hijri: '1444-12-28'
 lang: en
 layout: post
-mass_edited: true
-muftis:
-  chairman:
-  - name: Shaykh Ibn Baz
-    url: /biography/binbaz/
-  deputy_chairman:
-  - name: Shaykh Abdul-Razzaq Afifi
-    url: /biography/afifi/
-  members:
-  - name: Shaykh Abdullah ibn Ghudayyan
-    url: /biography/ghudayyan/
-  - name: Shaykh Abdullah ibn Qa'ud
-    url: /biography/qaud/
+group1: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da’imah 26/238, Fatwa no.9259, Question 3
 summary: Listening to songs is not permissible. As for hearing them without intending
@@ -25,6 +13,7 @@ summary: Listening to songs is not permissible. As for hearing them without inte
   wrong with it.
 tags:
 - alifta
+category: music
 title: Ruling on hearing songs or music without intending
 translation: false
 ---

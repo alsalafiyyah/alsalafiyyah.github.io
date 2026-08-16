@@ -2,23 +2,7 @@
 hijri: '1442-04-19'
 lang: en
 layout: post
-mass_edited: true
-muftis:
-  chairman:
-  - name: Shaykh Abdul-Aziz ibn Baz
-    url: /biography/binbaz/
-  deputy_chairman:
-  - name: Shaykh Abdul-Razzaq Al-Afifi
-    url: /biography/afifi/
-  members:
-  - name: Shaykh Abdullah ibn Ghudayyan
-    url: /biography/ghudayyan/
-  - name: Shaykh Salih Fawzan
-    url: /biography/fawzan/
-  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-    url: /biography/abdulaziz/
-  - name: Shaykh Bakr Abu Zayd
-    url: /biography/bakr/
+group7: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah no. 16376-1
 summary: The foregoing is a false saying and it is tantamount to Kufr (disbelief)
@@ -26,6 +10,7 @@ summary: The foregoing is a false saying and it is tantamount to Kufr (disbelief
 title: Ruling on saying Allah is Omnipresent
 category: [sects]
 ---
+
 ### Question:
 What is the ruling on saying that Allah (Glorified be He) exists everywhere? 
 

@@ -4,25 +4,14 @@ group1: true
 hijri: '1444-12-28'
 lang: en
 layout: post
-mass_edited: true
-muftis:
-  chairman:
-  - name: Shaykh Ibn Baz
-    url: /biography/binbaz/
-  deputy_chairman:
-  - name: Shaykh Abdul-Razzaq Afifi
-    url: /biography/afifi/
-  members:
-  - name: Shaykh Abdullah ibn Ghudayyan
-    url: /biography/ghudayyan/
-  - name: Shaykh Abdullah ibn Qa'ud
-    url: /biography/qaud/
+group1: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da’imah 26/227-228, Fatwa no. 6914, Question 14
 summary: If the supplications are tinged with bid'ah, this is even worse, for it combines
   amusement and heresy.
 tags:
 - alifta
+category: sects, music
 title: The ruling on supplications accompanied by music
 translation: false
 ---

@@ -3,18 +3,7 @@ date: 2025-07-30
 hijri: '1447-02-05'
 lang: en
 layout: post
-mass_edited: true
-muftis:
-  chairman:
-  - name: Shaykh Ibn Baz
-    url: /biography/binbaz/
-  members:
-  - name: Shaykh Abdul-Aziz Aal Ash-Shaykh
-    url: /biography/abdulaziz/
-  - name: Shaykh Salih Al-Fawzan
-    url: /biography/fawzan/
-  - name: Shaykh Bakr Abu Zayd
-    url: /biography/zayd/
+group13: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah, Question 5, Fatwa No. 17627
 summary: That the conviction of the thief is proven before the judge by the testimony
@@ -24,6 +13,7 @@ tags:
 title: What are the conditions of cutting off a thief's hand?
 translation: false
 ---
+
 ### Question:
 
 What are the conditions of cutting off a thief's hand? 

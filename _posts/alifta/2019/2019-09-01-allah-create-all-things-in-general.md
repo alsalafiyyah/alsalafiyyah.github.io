@@ -16,6 +16,7 @@ category:
 title: Allah creating all things
 translation: false
 ---
+
 ### Question: 
 
 I entered into a long discussion with a Muslim brother about who created evil. I told him that it is Allah (Exalted be He) who created evil as well as good, Jannah (Paradise) as well as Hellfire, and the believer as well as the Kafir (disbeliever). However, the Muslim brother said that evil is from man and that Allah (Exalted be He) creates only what is good and beneficial. He wondered how Allah (Exalted be He) creates evil and then punishes us when we commit it. I answered him that Allah (Exalted be He) enjoins what is good and forbids what is evil. There is a difference between creating and enjoining; Allah (Exalted be He) created Hellfire, but He forbids us from it. However, each one of us sticks to his opinion. Allah (Glorified and Exalted be He) says, "**And of knowledge, you (mankind) have been given only a little.**" [Al-Isra': 85] I know that I have only a little knowledge. 

@@ -4,19 +4,7 @@ group1: true
 hijri: '1445-01-04'
 lang: en
 layout: post
-mass_edited: true
-muftis:
-  chairman:
-  - name: Shaykh Ibn Baz
-    url: /biography/binbaz/
-  deputy_chairman:
-  - name: Shaykh Abdul-Razzaq Afifi
-    url: /biography/afifi/
-  members:
-  - name: Shaykh Abdullah ibn Ghudayyan
-    url: /biography/ghudayyan/
-  - name: Shaykh Abdullah ibn Qa'ud
-    url: /biography/qaud/
+group1: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da’imah, Fatwa no. 3323, Question 9
 summary: What is the ruling on a person changing their name like most of the Indonesian

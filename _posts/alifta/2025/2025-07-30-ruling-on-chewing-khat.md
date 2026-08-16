@@ -3,23 +3,7 @@ date: 2025-07-30
 hijri: '1447-02-05'
 lang: en
 layout: post
-mass_edited: true
-muftis:
-  chairman:
-  - name: Shaykh Ibn Baz
-    url: /biography/binbaz/
-  deputy_chairman:
-  - name: Shaykh Abdul-Razzaq Afifi
-    url: /biography/afifi/
-  members:
-  - name: Shaykh Abdul-Aziz Aal Ash-Shaykh
-    url: /biography/abdulaziz/
-  - name: Shaykh Salih Al-Fawzan
-    url: /biography/fawzan/
-  - name: Shaykh Abdullah ibn Ghudayyan
-    url: /biography/ghudayyan/
-  - name: Shaykh Bakr Abu Zayd
-    url: /biography/bakr/
+group7: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Daimah, Question 3, Fatwa No. 16097
 summary: Eating Khat is forbidden because it causes intoxication and it also distracts
@@ -29,6 +13,7 @@ tags:
 title: Ruling on chewing Khat
 translation: false
 ---
+
 ### Question
 
 What is the ruling on eating Khat and delaying the performing of 'Asr (afternoon) prayer until half an hour before the Maghrib (sunset) prayer?

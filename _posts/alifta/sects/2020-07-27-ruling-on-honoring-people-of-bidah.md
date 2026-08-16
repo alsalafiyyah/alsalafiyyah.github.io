@@ -2,21 +2,7 @@
 hijri: '1441-12-06'
 lang: en
 layout: post
-mass_edited: true
-muftis:
-  chairman:
-  - name: Shaykh Abdul-Aziz Ibn Baz
-    url: /biography/binbaz/
-  deputy_chairman:
-  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-    url: /biography/abdulaziz/
-  members:
-  - name: Shaykh Abdullah ibn Ghudayyan
-    url: /biography/ghudayyan/
-  - name: Shaykh Salih Fawzan
-    url: /biography/fawzan/
-  - name: Shaykh Bakr Abu Zayd
-    url: /biography/bakr/
+group14: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 20235
 summary: Sufism is a Bid'ah or innovation in Islam, and every Bid'ah is a means of
@@ -24,6 +10,7 @@ summary: Sufism is a Bid'ah or innovation in Islam, and every Bid'ah is a means 
 title: Ruling on honoring the people of Bid'ah
 category: [sects]
 ---
+
 ### Question: 
 
 I would like to inform you that I work in the Province of Badr in Al-Madinah Al-Nabawiyyah. There, we found many young men who were guided, by Allah's Grace, and others who tended to draw nearer to the Sufis there to earn some money or acquire subsidies. They thus tend to honor these Sufis, prepare banquets and celebrations for them on the pretext that they make a lot of charitable acts in favor of the district.

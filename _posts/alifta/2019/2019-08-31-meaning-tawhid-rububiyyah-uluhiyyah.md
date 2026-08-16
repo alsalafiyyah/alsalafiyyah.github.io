@@ -15,6 +15,7 @@ category:
 title: The meaning of Tawhid Rububiyyah and Tawhid Uluhiyyah
 translation: false
 ---
+
 ### Question: 
 
 What is the meaning of Tawhid-ul-Rububiyyah and Tawhid-ul-Uluhiyyah?

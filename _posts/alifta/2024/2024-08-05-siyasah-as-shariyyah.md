@@ -1,26 +1,9 @@
 ---
-article_taken_from:
-  taken_from:
-  - web_title: معنى السياسة الشرعية
-    web_url: https://al-fatawa.com/fatwa/106102
 date: 2024-08-05
 hijri: '1446-02-01'
 lang: en
 layout: post
-mass_edited: true
-muftis:
-  chairman:
-  - name: Shaykh Ibn Baz
-    url: /biography/binbaz
-  members:
-  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-    url: /biography/abdulaziz
-  - name: Shaykh Abdullah ibn Ghudayyan
-    url: /biography/ghudayyan
-  - name: Shaykh Salih Al-Fawzan
-    url: /biography/fawzan
-  - name: Shaykh Bakr Abu Zayd
-    url: /biography/bakr
+group2: true
 published: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.15631, Question 5
@@ -31,6 +14,7 @@ tags:
 title: What is meant by Al-Siyasah Al-Shar'iyyah?
 translation: false
 ---
+
 ### Question: 
 
 What is meant by Al-Siyasah Al-Shar'iyyah?

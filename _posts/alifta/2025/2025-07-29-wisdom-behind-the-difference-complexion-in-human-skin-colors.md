@@ -4,17 +4,7 @@ date: 2025-07-29
 hijri: '1447-02-04'
 lang: en
 layout: post
-mass_edited: true
-muftis:
-  chairman:
-  - name: Shaykh Abdul-Razzaq Afifi
-    url: /biography/afifi/
-  deputy_chairman:
-  - name: Shaykh Abdullah ibn Ghudayyan
-    url: /biography/ghudayyan/
-  members:
-  - name: Shaykh Abdullah ibn Muni'
-    url: /biography/mani/
+group4: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Daimah, Fatwa no.145, Question 4
 summary: And among His Signs is the creation of the heavens and the earth, and the
@@ -25,6 +15,7 @@ tags:
 title: The wisdom behind the difference in complexion colors of the servants of Allah
 translation: false
 ---
+
 ### Question:
 
 What is the wisdom behind the difference in complexion colors of the servants of Allah (Exalted be He); some have a red, white, or black and so on?

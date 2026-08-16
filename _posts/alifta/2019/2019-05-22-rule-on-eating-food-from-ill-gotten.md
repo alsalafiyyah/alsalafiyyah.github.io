@@ -6,8 +6,6 @@ hijri: '1440-09-17'
 date: 2019-05-22
 source: Fatawa Al-Lajnah Ad-Da'mah, fatwa no.4888 question 1 and fatwa no.4888 question
   2
-category:
-- misc
 summary: It is obligatory for a Muslim to try his best to adopt what is lawful in
   his food, drink, and clothing.
 tags:
@@ -16,6 +14,7 @@ lang: en
 translation: false
 group1: true
 ---
+
 ## Question 1:
 
 When my brothers and I earn some money, we give it to my father to meet the needs of the family for food, drink, and the like. Praise be to Allah, I try my best to earn my Rizq (sustenance) through lawful channels, but I am not sure whether my brothers' sources of Rizq are purely lawful, unlawful, or mixed. Actually, they do not care about the issue of lawfulness and prohibition in their life. I think that they will not refrain from ill-gotten money if they find a chance to obtain it. What therefore is the ruling on eating and drinking with them? In other words, what is the ruling on the food and drink bought with our mixed money? 

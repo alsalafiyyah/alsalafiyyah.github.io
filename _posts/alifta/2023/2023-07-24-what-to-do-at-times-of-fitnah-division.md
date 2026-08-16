@@ -4,21 +4,7 @@ group2: true
 hijri: '1445-01-06'
 lang: en
 layout: post
-mass_edited: true
-muftis:
-  chairman:
-  - name: Shaykh Ibn Baz
-    url: /biography/binbaz
-  deputy_chairman:
-  - name: Shaykh Abdul-Aziz Aal Al-Shaykh
-    url: /biography/abdulaziz
-  members:
-  - name: Shaykh Abdullah ibn Ghudayyan
-    url: /biography/ghudayyan
-  - name: Shaykh Salih Al-Fawzan
-    url: /biography/fawzan
-  - name: Shaykh Bakr Abu Zayd
-    url: /biography/bakr
+group2: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da’imah 3/95, Fatwa no.7703, Question 1
 summary: When the people do not have an leader and they split into sects and parties,

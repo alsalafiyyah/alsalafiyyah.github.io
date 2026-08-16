@@ -4,19 +4,7 @@ group1: true
 hijri: '1447-02-04'
 lang: en
 layout: post
-mass_edited: true
-muftis:
-  chairman:
-  - name: Shaykh Ibn Baz
-    url: /biography/binbaz/
-  deputy_chairman:
-  - name: Shaykh Abdul-Razzaq Afifi
-    url: /biography/afifi/
-  members:
-  - name: Shaykh Abdullah ibn Ghudayyan
-    url: /biography/ghudayyan/
-  - name: Shaykh Abdullah ibn Qa'ud
-    url: /biography/qaud/
+group1: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Daimah no. 6793, Question 3
 summary: The Qur’an is the Speech of Allah; it was not created. 'Isa (peace be upon
@@ -24,7 +12,7 @@ summary: The Qur’an is the Speech of Allah; it was not created. 'Isa (peace be
   is better.
 tags:
 - alifta
-title: 'Which is better: The Qur''an or ''Isa (peace be upon him)'
+title: 'Which is better: The Quran or Isa (peace be upon him)'
 translation: false
 ---
 

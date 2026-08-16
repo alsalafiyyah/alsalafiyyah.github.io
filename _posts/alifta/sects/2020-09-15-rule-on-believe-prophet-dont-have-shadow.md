@@ -2,19 +2,7 @@
 hijri: '1442-01-27'
 lang: en
 layout: post
-mass_edited: true
-muftis:
-  chairman:
-  - name: Shaykh Abdul-Aziz ibn Baz
-    url: /biography/binbaz/
-  deputy_chairman:
-  - name: Shaykh Abdul-Razzaq Al-Afifi
-    url: /biography/afifi/
-  members:
-  - name: Shaykh Abdullah ibn Ghudayyan
-    url: /biography/ghudayyan/
-  - name: Shaykh Abdullah ibn Qa'ud
-    url: /biography/qaud/
+group1: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, fatwa no. 6534
 summary: This is a false belief which is incongruous with the explicit texts of the
@@ -26,6 +14,7 @@ title: Ruling on believing the Prophet (peace be upon him) did not have a shadow
 translation: false
 category: [sects]
 ---
+
 ### Question:
 
 In Pakistan, scholars of [**the Bareilwi Sufi order**](/barelwiyyah/) believe that the Prophet (peace be upon him) did not have a shadow like ordinary human beings, which indicates that he was not of human form. Is there any Sahih Hadith (a Hadith that has been transmitted by people known for their uprightness and exactitude; free from eccentricity and blemish) to the effect that the Prophet did not have a shadow? 

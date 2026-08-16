@@ -3,17 +3,7 @@ date: 2019-09-01
 hijri: '1441-01-02'
 lang: en
 layout: post
-mass_edited: true
-muftis:
-  chairman:
-  - name: Shaykh Abdul-Aziz ibn Baz
-    url: /biography/binbaz/
-  deputy_chairman:
-  - name: Shaykh Abdul-Razzaq Al-Afifi
-    url: /biography/afifi/
-  members:
-  - name: Shaykh Abdullah Ibn Ghudayyan
-    url: /biography/ghudayyan/
+group6: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 8732, question 1
 summary: Does doubt count for anything in case of a person having Wudu’ (ablution)
@@ -21,9 +11,11 @@ summary: Does doubt count for anything in case of a person having Wudu’ (ablut
   period he stayed ritually pure?
 tags:
 - alifta
+category: ablution
 title: Doubting that he has undergone ritual impurity
 translation: false
 ---
+
 ### Question : 
 
 Does doubt count for anything in case of a person having Wudu’ (ablution) yet is not sure whether or not he passed urine, feces or broke wind due to the long period he stayed ritually pure? Or should he overlook doubts, since the original state is purity unless he is certain of having invalidated his Wudu’ and vice versa? 

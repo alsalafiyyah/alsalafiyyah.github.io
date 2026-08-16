@@ -4,7 +4,6 @@ group1: true
 hijri: '1441-01-02'
 lang: en
 layout: post
-mass_edited: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-lajnah Al-Da'imah of KSA, Fatwa no. 8885, question 2
 summary: While a man performs Salah (Prayer), his penis becomes erect discharging
@@ -12,9 +11,11 @@ summary: While a man performs Salah (Prayer), his penis becomes erect dischargin
   Salah, in case he has not yet completed it?
 tags:
 - alifta
+category: salah, ablution
 title: Penis erection does not invalidate ablution
 translation: false
 ---
+
 ### Question : 
 
 While a man performs Salah (Prayer), his penis becomes erect discharging nothing. Is his Wudu' (ablution) nullified? If so, should he interrupt or end his Salah, in case he has not yet completed it?

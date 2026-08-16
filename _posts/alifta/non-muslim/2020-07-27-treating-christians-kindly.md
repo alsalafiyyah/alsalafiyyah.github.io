@@ -3,24 +3,16 @@ date: 2020-07-27
 hijri: '1441-12-06'
 lang: en
 layout: post
-mass_edited: true
-muftis:
-  chairman:
-  - name: Shaykh Abdul-Aziz ibn Baz
-    url: /biography/binbaz/
-  deputy_chairman:
-  - name: Shaykh Abdul-Razzaq Al-Afifi
-    url: /biography/afifi/
-  members:
-  - name: Shaykh Abdullah ibn Ghudayyan
-    url: /biography/ghudayyan/
+group6: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah of KSA, Fatwa no. 10498, Question 3
 summary: Offering benefits and doing good to non-hostile unbelievers are from the
   worldly matters which are permissible, as long as a Muslim denies their beliefs
   and religion.
 title: Treating Christians kindly
+category: non-muslim
 ---
+
 ### Question: 
 
 A Muslim man has a car and lives in a village in the desert. There is a Christian doctor in the village and this Muslim man drives him every month to any place the doctor wants. The doctor does not ride with anyone but him. Can we consider this a friendship relationship, and is it permissible in Islam?
