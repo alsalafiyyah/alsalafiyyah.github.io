@@ -3,7 +3,7 @@ group1: true
 hijri: '1441-11-10'
 lang: en
 layout: post
-category: [sects, sufism]
+category: sects, sufism
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah no.6899, Question 6
 summary: 'The Problem of Sufism: What does it mean and what is the attitude of Islam
