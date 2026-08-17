@@ -16,7 +16,7 @@ Source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa No. 5008"
 summary: "These mentioned statements have no basis regarding their legitimacy, neither before nor after the Adhan."
 ---
 
-## Question: 
+### Question: 
 
 A phenomenon is spreading in our city of Jizan where reminders are given before the Fajr prayer by the muezzins, saying: ***"As-salah, may Allah guide you, as-salah! As-salah, O sleepers, as-salah! As-salah, O heedless ones, as-salah! As-salah, do not let Satan toy with you, as-salah! Catch up with the spoils, Allah is the Greatest, Allah is the Greatest, there is no god but Allah! Allah is the Greatest, Allah is the Greatest, and to Allah belongs all praise! Allah is the Greatest, with abundant greatness, and praise be to Allah abundantly, and glory be to Allah morning and evening!"*** along with reciting certain Quranic verses and short chapters. Is this action a Sunnah authentic from the Messenger (peace and blessings be upon him) or from his Companions (may Allah be pleased with them)? What is the ruling on this phenomenon, O Eminence the Shaykh? Benefit us, may Allah benefit you and preserve you as a treasure for Islam and the Muslims.
 
