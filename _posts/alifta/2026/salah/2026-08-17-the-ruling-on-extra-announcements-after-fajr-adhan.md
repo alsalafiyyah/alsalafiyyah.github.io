@@ -4,7 +4,7 @@ publisher: alsalafiyyah.manhaj@gmail.com
 title: "The Ruling on Extra Announcements After Fajr Adhan"
 date: 2026-08-17
 hijri: 1448-03-04
-group1: true
+group3: true
 lang: en
 translation: false
 tags: alifta
@@ -17,7 +17,7 @@ summary: "One should restrict the adhan to what is legally established in its fo
 
 ### Question:
 
-Some muadhins, upon finishing the Fajr "call to prayer" (adhan) and reciting the prescribed supplication, say over the microphone: "Pray, may Allah guide you." Some people object to this, while others pray for him. What is the ruling regarding this matter?
+Some muadhins, upon finishing the Fajr "call to prayer" (adhan) and reciting the prescribed supplication, say over the microphone: ***"Pray, may Allah guide you."*** Some people object to this, while others pray for him. What is the ruling regarding this matter?
 
 ### ​Answer:
 
