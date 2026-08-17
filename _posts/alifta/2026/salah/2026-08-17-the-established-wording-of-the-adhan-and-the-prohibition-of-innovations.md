@@ -31,13 +31,13 @@ Allah the Exalted has said: **"Say (O Muhammad): '(But) the things that my Lord 
 
 ​Once this is understood, the authentic legal Adhan established from the Messenger of Allah (peace and blessings be upon him) consists of fifteen phrases, which are:
 
-• ​Allahu Akbar, Allahu Akbar, Allahu Akbar, Allahu Akbar (Allah is the Greatest...)
-• ​Ashhadu an la ilaha illallah, Ashhadu an la ilaha illallah (I bear witness that there is no deity worthy of worship except Allah)
-• ​Ashhadu anna Muhammadan Rasulullah, Ashhadu anna Muhammadan Rasulullah (I bear witness that Muhammad is the Messenger of Allah)
-• ​Hayya 'ala as-salah, Hayya 'ala as-salah (Come to prayer...)
-• ​Hayya 'ala al-falah, Hayya 'ala al-falah (Come to success...)
-• ​Allahu Akbar, Allahu Akbar (Allah is the Greatest...)
-• ​La ilaha illallah (There is no deity worthy of worship except Allah).
+- Allahu Akbar, Allahu Akbar, Allahu Akbar, Allahu Akbar (Allah is the Greatest...)
+- Ashhadu an la ilaha illallah, Ashhadu an la ilaha illallah (I bear witness that there is no deity worthy of worship except Allah)
+- Ashhadu anna Muhammadan Rasulullah, Ashhadu anna Muhammadan Rasulullah (I bear witness that Muhammad is the Messenger of Allah)
+- Hayya 'ala as-salah, Hayya 'ala as-salah (Come to prayer...)
+- Hayya 'ala al-falah, Hayya 'ala al-falah (Come to success...)
+- Allahu Akbar, Allahu Akbar (Allah is the Greatest...)
+- La ilaha illallah (There is no deity worthy of worship except Allah).
 
 ​This is what is authentically established: that the Messenger of Allah (peace and blessings be upon him) commanded Bilal to give the Adhan with it, as mentioned by the compilers of the Sunan and Musnads.
 
