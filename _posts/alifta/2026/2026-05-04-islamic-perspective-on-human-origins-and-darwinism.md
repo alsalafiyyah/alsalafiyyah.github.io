@@ -5,7 +5,7 @@ hijri: '1447-11-17'
 lang: en
 layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
-link: https://al-fatawa.com/fatwa/106197"
+link: https://al-fatawa.com/fatwa/106197
 source: Fatawa al-Lajnah ad-Da'imah, Fatwa no.8139, Question 3
 summary: "The claim that the origin of man is a monkey is a lie and a fabrication against the law of Allah."
 tags:
