@@ -3,7 +3,6 @@ group17: true
 hijri: '1441-11-27'
 lang: en
 layout: post
-mass_edited: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatwas of the Permanent Committee of KSA, Fatwa no. 21004
 summary: Buddha was not a prophet; he was an atheist philosopher, who led an ascetic
@@ -13,6 +12,7 @@ tags:
 - alifta
 title: Was Buddha a Prophet?
 translation: false
+category: non-muslim
 ---
 ### Question:
 
