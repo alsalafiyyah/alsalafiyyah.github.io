@@ -583,3 +583,48 @@ window.addEventListener('appinstalled', () => {
   pwaBtn.classList.add('hidden'); 
 });
 </script>
+
+    <script>
+        const picker = document.getElementById('gregorianPicker');
+        const gregorianOutput = document.getElementById('gregorianOutput');
+        const hijriOutput = document.getElementById('hijriOutput');
+
+        // Set default to today's date
+        const today = new Date();
+        const isoToday = today.toISOString().split('T')[0];
+        picker.value = isoToday;
+        updateDates(today);
+
+        // Listen for changes when the user picks a date
+        picker.addEventListener('change', function(e) {
+            if (e.target.value) {
+                // Parse local date safely without timezone shifting issues
+                const [year, month, day] = e.target.value.split('-').map(Number);
+                const selectedDate = new Date(year, month - 1, day);
+                updateDates(selectedDate);
+            }
+        });
+
+        function updateDates(dateObj) {
+            // Display Gregorian
+            gregorianOutput.textContent = dateObj.toISOString().split('T')[0];
+
+            // Convert and Display Hijri (Umm al-Qura)
+            const hijriFormatter = new Intl.DateTimeFormat('en-u-ca-islamic-umalqura', {
+                year: 'numeric',
+                month: '2-digit',
+                day: '2-digit'
+            });
+
+            const parts = hijriFormatter.formatToParts(dateObj);
+            let hYear = '', hMonth = '', hDay = '';
+
+            parts.forEach(part => {
+                if (part.type === 'year') hYear = part.value;
+                if (part.type === 'month') hMonth = part.value;
+                if (part.type === 'day') hDay = part.value;
+            });
+
+            hijriOutput.textContent = `${hYear}-${hMonth}-${hDay}`;
+        }
+    </script>
