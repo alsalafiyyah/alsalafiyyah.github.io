@@ -8,7 +8,6 @@ summary: "Collection of video fatwas (legal opinions) issued by the scholars of 
 
 <div class="grid grid-cols-1 md:grid-cols-3 gap-x-12 gap-y-24">
     {% assign posts = site.posts | where_exp: "post", "post.active == 'videos'" %}
-    
     {% for post in posts %} 
     <article class="group relative flex flex-col">
         <a href="{{ post.url | relative_url }}" class="relative aspect-video overflow-hidden border-2 border-black dark:border-white bg-gray-100">

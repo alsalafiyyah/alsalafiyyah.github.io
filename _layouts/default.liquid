@@ -36,6 +36,10 @@ layout: null
          {% elsif page.section == "videos" %}
           {% assign video = site.posts | where_exp: "post", "post.active == 'videos'" %}
           <span class="text-sm font-black uppercase tracking-[0.3em]">Total Video Fatwas: {{ video.size }}</span>
+         {% elsif page.active == "audios" %}
+          <span class="text-sm font-black uppercase tracking-[0.3em]">Cassette</span>
+         {% elsif page.active == "videos" %}
+          <span class="text-sm font-black uppercase tracking-[0.3em]">Video</span>
          {% else %}
          {% endif %}
          <h1 itemprop="headline" class="text-3xl md:text-[3vw] leading-[0.9] font-black uppercase tracking-tighter serif mt-8">
