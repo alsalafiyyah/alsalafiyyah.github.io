@@ -16,6 +16,7 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
+active: audios
 ---
 
 ### Question: 

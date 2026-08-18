@@ -91,7 +91,7 @@ def update_posts_frontmatter(root_directory):
 
 if __name__ == "__main__":
   # Specify your target directory here
-  target_dir = "_posts/ibn-uthaymeen/audios"
+  target_dir = "_posts/ibn-baz/audios"
   
   # Run the updater
   update_posts_frontmatter(target_dir)

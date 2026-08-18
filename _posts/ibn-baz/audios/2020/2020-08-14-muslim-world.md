@@ -6,7 +6,7 @@ hijri: '1441-12-24'
 date: 2020-08-14
 source: Fatwa Nur 'Ala Al-Darb vol 2
 lang: en
-active: wahhabi
+active: audios
 category:
 - wahhabism
 - manhaj

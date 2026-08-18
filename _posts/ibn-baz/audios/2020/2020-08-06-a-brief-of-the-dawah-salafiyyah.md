@@ -18,6 +18,7 @@ muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
+active: audios
 ---
 ### Question:
 An inquirer from the Arab Republic of Syria, Damascus, asks three questions. In one of them he asks: I would like to have an idea about the Da'wah (calling to Islam) Salafiyyah (i.e. based on the approach of the Salaf or the righteous predecessors) and Shaykh-ul-Islam Muhammad ibn Abdul-Wahhab?

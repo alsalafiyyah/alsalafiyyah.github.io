@@ -20,6 +20,7 @@ muftis:
   - name: Shaykh Ibn Baz
     url: /biography/binbaz/
 hijri: '1447-11-27'
+active: audios
 ---
 ### Question:
 

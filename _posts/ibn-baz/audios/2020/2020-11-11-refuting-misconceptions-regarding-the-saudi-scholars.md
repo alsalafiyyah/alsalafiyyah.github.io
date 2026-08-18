@@ -20,6 +20,7 @@ muftis:
   shaykh:
   - name: Shaykh Salih Fawzan
     url: /biography/fawzan/
+active: audios
 ---
 ### Question:
 

@@ -19,6 +19,7 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 hijri: '1441-12-16'
+active: audios
 ---
 ### Question: 
 
