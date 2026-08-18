@@ -13,13 +13,14 @@ translated: false
 source: Fatawa Nur 'ala al-darb, Tape no.306, Question no.8
 link: https://binothaimeen.net/s/8sIWahO8
 mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_306_08.mp3
-summary: Mentioning the dead for their bad deeds has been forbidden by the Messenger,
-  peace and blessings be upon him​.
+summary: "Mentioning the dead for their bad deeds has been forbidden by the Messenger,\
+  \ peace and blessings be upon him\u200B."
 muftis:
   shaykh:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 hijri: '1448-02-23'
+active: audios
 ---
 ### Question: 
 

@@ -13,12 +13,13 @@ tags:
 - ibn-uthaymeen
 link: https://binothaimeen.net/s/T7hNBnEO
 mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_055_06.mp3
-summary: This man’s admission regarding himself—that he is among the apes—is accepted.
-  However, his claim that others are apes is rejected.
+summary: "This man\u2019s admission regarding himself\u2014that he is among the apes\u2014\
+  is accepted. However, his claim that others are apes is rejected."
 muftis:
   shaykh:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
+active: audios
 ---
 ### Question:
 

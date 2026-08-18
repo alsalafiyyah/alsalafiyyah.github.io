@@ -12,13 +12,14 @@ translated: false
 source: Fatawa Nur 'ala al-darb, Tape no.360, Question no.29
 link: https://binothaimeen.net/s/1I3rol6c
 mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_360_29.mp3
-summary: ​The legislated Islamic greeting is for a person to say, As-salamu alaykum
-  (Peace be upon you).
+summary: "\u200BThe legislated Islamic greeting is for a person to say, As-salamu\
+  \ alaykum (Peace be upon you)."
 muftis:
   shaykh:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 hijri: '1448-02-23'
+active: audios
 ---
 ### Question: 
 

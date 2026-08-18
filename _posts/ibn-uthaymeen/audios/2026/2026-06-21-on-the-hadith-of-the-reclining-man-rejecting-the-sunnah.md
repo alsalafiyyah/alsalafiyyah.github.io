@@ -14,13 +14,14 @@ lang: en
 source: Liqa' al-Bab al-Maftuh, Tape 87, Question 3
 link: https://binothaimeen.net/s/V3sCBFrw
 mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_087_03.mp3
-summary: It is well-known that rejecting the authentic, established Sunnah of the
-  Messenger ﷺ is exactly like rejecting the Qur'an.
+summary: "It is well-known that rejecting the authentic, established Sunnah of the\
+  \ Messenger \uFDFA is exactly like rejecting the Qur'an."
 muftis:
   shaykh:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 hijri: '1448-01-06'
+active: audios
 ---
 ### Question: 
 

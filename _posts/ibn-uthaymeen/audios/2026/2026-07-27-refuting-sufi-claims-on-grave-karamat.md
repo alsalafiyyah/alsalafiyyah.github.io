@@ -14,17 +14,18 @@ translated: false
 source: Fatawa Nur 'ala al-darb, Tape no.169
 link: https://alathar.net/home/esound/index.php?op=codevi&coid=56172
 mp3: https://www.alathar.net//files/sound/alothaymeen/nooralaaldarb/split-169a-5.mp3
-summary: They can neither benefit nor harm anyone, and no one is permitted to attach
-  themselves to them. Even if someone were to witness apparent miracles from them—such
-  as imagining a light emanating from their graves, a pleasant fragrance coming from
-  them, or the like—while it is known they died upon disbelief, this is merely from
-  the deception and delusion of Iblis (Satan) to test and tempt people through these
-  graves.
+summary: "They can neither benefit nor harm anyone, and no one is permitted to attach\
+  \ themselves to them. Even if someone were to witness apparent miracles from them\u2014\
+  such as imagining a light emanating from their graves, a pleasant fragrance coming\
+  \ from them, or the like\u2014while it is known they died upon disbelief, this is\
+  \ merely from the deception and delusion of Iblis (Satan) to test and tempt people\
+  \ through these graves."
 muftis:
   shaykh:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 hijri: '1448-02-13'
+active: audios
 ---
 ### Question: 
 

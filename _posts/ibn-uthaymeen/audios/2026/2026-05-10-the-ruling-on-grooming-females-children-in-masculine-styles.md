@@ -13,13 +13,14 @@ tags:
 - ibn-uthaymeen
 link: https://binothaimeen.net/s/uFs3VPho
 mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/mm_031_10.mp3
-summary: She is sinful for this act, and this is the crux of the matter. It is a sin
-  to cut her daughter’s hair so that it resembles a male’s hair, because the Prophet
-  cursed women who imitate men.
+summary: "She is sinful for this act, and this is the crux of the matter. It is a\
+  \ sin to cut her daughter\u2019s hair so that it resembles a male\u2019s hair, because\
+  \ the Prophet cursed women who imitate men."
 muftis:
   shaykh:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
+active: audios
 ---
 ### Question:
 

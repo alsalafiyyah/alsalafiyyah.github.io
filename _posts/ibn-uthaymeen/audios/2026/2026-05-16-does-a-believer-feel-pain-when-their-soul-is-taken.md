@@ -12,8 +12,8 @@ tags:
 - ibn-uthaymeen
 link: https://binothaimeen.net/s/cTOCfMws
 mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_339_17.mp3
-summary: The extraction—meaning the extraction of the soul from the body—is severe.
-  However, it is eased for one person and intensified for another.
+summary: "The extraction\u2014meaning the extraction of the soul from the body\u2014\
+  is severe. However, it is eased for one person and intensified for another."
 lang: en
 translation: true
 muftis:
@@ -21,6 +21,7 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 hijri: '1447-11-29'
+active: audios
 ---
 ### Question: 
 

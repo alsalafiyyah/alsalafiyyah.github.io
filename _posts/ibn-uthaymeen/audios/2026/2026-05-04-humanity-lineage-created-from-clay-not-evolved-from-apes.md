@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-04
 hijri: '1447-11-17'
-title: 'Humanity’s Lineage: Created from Clay, Not Evolved from Apes'
+title: "Humanity\u2019s Lineage: Created from Clay, Not Evolved from Apes"
 source: Fatawa Nur Ala ad-Darb, Tape 55 - 05
 category:
 - fatwas
@@ -13,13 +13,14 @@ tags:
 - ibn-uthaymeen
 link: https://binothaimeen.net/s/xWMqdIcx
 mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_055_05.mp3
-summary: This statement is incorrect — I mean the claim that the origin of man is
-  an ape—rather, the one who says it is, in reality, an ape whose intellect and insight
-  have been distorted.
+summary: "This statement is incorrect \u2014 I mean the claim that the origin of man\
+  \ is an ape\u2014rather, the one who says it is, in reality, an ape whose intellect\
+  \ and insight have been distorted."
 muftis:
   shaykh:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
+active: audios
 ---
 ### Question:
 

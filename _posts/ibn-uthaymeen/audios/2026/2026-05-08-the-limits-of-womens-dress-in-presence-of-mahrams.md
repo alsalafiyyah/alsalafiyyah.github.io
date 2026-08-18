@@ -4,7 +4,7 @@ publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-08
 hijri: '1447-11-21'
 title: The Limits of Women's Dress in the Presence of Mahrams
-source: Liqa’a al-Shahri 11
+source: "Liqa\u2019a al-Shahri 11"
 category:
 - fatwas
 - audios
@@ -20,6 +20,7 @@ muftis:
   shaykh:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
+active: audios
 ---
 ### Question: 
 

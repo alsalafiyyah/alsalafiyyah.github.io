@@ -12,8 +12,8 @@ tags:
 - ibn-uthaymeen
 link: https://binothaimeen.net/s/qTdhNx4R
 mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_216_23.mp3
-summary: This practice is a bid’ah (religious innovation). It was not the practice
-  during the era of the Messenger, peace and blessings of Allah be upon him.
+summary: "This practice is a bid\u2019ah (religious innovation). It was not the practice\
+  \ during the era of the Messenger, peace and blessings of Allah be upon him."
 lang: en
 translation: true
 muftis:
@@ -21,6 +21,7 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 hijri: '1447-11-30'
+active: audios
 ---
 ### Question: 
 

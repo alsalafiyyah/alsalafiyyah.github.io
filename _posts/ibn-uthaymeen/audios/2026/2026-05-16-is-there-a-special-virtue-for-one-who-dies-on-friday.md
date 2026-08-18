@@ -22,6 +22,7 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 hijri: '1447-11-29'
+active: audios
 ---
 ### Question: 
 

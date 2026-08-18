@@ -15,6 +15,7 @@ summary: Affiliating oneself with the Salaf al-Salih is obligatory, because the 
 permalink: /audios/ruling-on-affiliating-with-the-salaf-and-saying-iam-salafi
 lang: en
 translation: false
+active: audios
 muftis:
   shaykh:
   - name: Shaykh Ibn 'Uthaymeen

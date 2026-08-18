@@ -13,13 +13,14 @@ translation: true
 lang: en
 link: https://binothaimeen.net/s/0zMJcPcH
 mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_029_01.mp3
-summary: Anyone who involves themselves in bid'ah (an innovation)—whether initiating
-  it or continuing it—incurs sin.
+summary: "Anyone who involves themselves in bid'ah (an innovation)\u2014whether initiating\
+  \ it or continuing it\u2014incurs sin."
 muftis:
   shaykh:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 hijri: '1447-12-24'
+active: audios
 ---
 Questioner:  Welcome, Your Eminence, Shaykh Muhammad.
 

@@ -13,12 +13,13 @@ tags:
 - ibn-uthaymeen
 link: https://binothaimeen.net/s/qTdr366b
 mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/mm_029_10.mp3
-summary: Having the man’s children under the care of their uncle is better than having
-  them under the care of a stranger.
+summary: "Having the man\u2019s children under the care of their uncle is better than\
+  \ having them under the care of a stranger."
 muftis:
   shaykh:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
+active: audios
 ---
 ### Question:
 

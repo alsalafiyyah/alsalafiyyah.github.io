@@ -19,6 +19,7 @@ muftis:
   shaykh:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
+active: audios
 ---
 ### Question:
 A man lived with the Rafidah (Shiites) for a period of time, after which he moved away to a distant region and promised to visit them. Is it permissible for him to fulfill his promise to them or not? Is it permissible for him to greet them (with Salam) and kiss them? And is it permissible for him to eat their food and drink their water?

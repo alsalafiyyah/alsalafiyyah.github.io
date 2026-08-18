@@ -12,8 +12,8 @@ tags:
 - ibn-uthaymeen
 link: https://binothaimeen.net/s/ZVBx9FWp
 mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_307_15.mp3
-summary: The Adhan at the time of the newborn’s birth is a Sunnah. As for the Iqamah,
-  the narration concerning it is weak, so it is not a Sunnah.
+summary: "The Adhan at the time of the newborn\u2019s birth is a Sunnah. As for the\
+  \ Iqamah, the narration concerning it is weak, so it is not a Sunnah."
 lang: en
 translation: true
 muftis:
@@ -21,6 +21,7 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 hijri: '1447-12-01'
+active: audios
 ---
 ### Question: 
 

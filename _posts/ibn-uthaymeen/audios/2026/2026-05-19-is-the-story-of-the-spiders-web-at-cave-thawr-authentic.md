@@ -2,7 +2,7 @@
 layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-19
-title: Is the Story of the Spider’s Web at Cave Thawr Authentic?
+title: "Is the Story of the Spider\u2019s Web at Cave Thawr Authentic?"
 source: Liqa'a al-Bab al-Maftuh, Tape 229, Question no.5
 category:
 - fatwas
@@ -11,8 +11,8 @@ tags:
 - ibn-uthaymeen
 link: https://binothaimeen.net/s/niUoz62m
 mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_229_05.mp3
-summary: The story of the spider and the dove having occurred when the Prophet ﷺ hid
-  in the Cave of Thawr is unauthentic.
+summary: "The story of the spider and the dove having occurred when the Prophet \uFDFA\
+  \ hid in the Cave of Thawr is unauthentic."
 lang: en
 translation: true
 muftis:
@@ -20,6 +20,7 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 hijri: '1447-12-02'
+active: audios
 ---
 ### Question: 
 

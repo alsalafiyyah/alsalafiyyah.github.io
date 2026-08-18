@@ -14,14 +14,15 @@ tags:
 - ibn-uthaymeen
 link: https://binothaimeen.net/s/R1yxRXdu
 mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_008_02.mp3
-summary: If your wife does not pray, neglects the prayer, and is persistent in abandoning
-  it, then she is a disbeliever—we seek refuge in Allah from that.
+summary: "If your wife does not pray, neglects the prayer, and is persistent in abandoning\
+  \ it, then she is a disbeliever\u2014we seek refuge in Allah from that."
 lang: en
 translation: true
 muftis:
   shaykh:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
+active: audios
 ---
 ### Question: 
 

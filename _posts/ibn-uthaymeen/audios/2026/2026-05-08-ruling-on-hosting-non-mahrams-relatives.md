@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-08
 hijri: '1447-11-21'
-title: The Ruling on Hosting Non-Mahram Relatives in the Husband’s Absence
+title: "The Ruling on Hosting Non-Mahram Relatives in the Husband\u2019s Absence"
 source: Fatawa Nur ala ad-Darb tape no.342
 category:
 - fatwas
@@ -13,12 +13,13 @@ tags:
 - ibn-uthaymeen
 link: https://binothaimeen.net/s/kS8LJowD
 mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_342_16.mp3
-summary: It is not allowed for a woman to let anyone who is not her mahram into her
-  husband’s house.
+summary: "It is not allowed for a woman to let anyone who is not her mahram into her\
+  \ husband\u2019s house."
 muftis:
   shaykh:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
+active: audios
 ---
 ### Question: 
 

@@ -2,7 +2,7 @@
 layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-19
-title: Was the Prophet Muhammad ﷺ Created from Light?
+title: "Was the Prophet Muhammad \uFDFA Created from Light?"
 source: Fatawa Nur 'ala al-Darb 331
 category:
 - fatwas
@@ -21,6 +21,7 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 hijri: '1447-12-02'
+active: audios
 ---
 ### Question: 
 

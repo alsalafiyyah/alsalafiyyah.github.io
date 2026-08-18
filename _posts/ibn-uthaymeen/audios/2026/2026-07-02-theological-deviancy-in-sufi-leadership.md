@@ -12,13 +12,14 @@ lang: en
 source: Fatawa Nur ala ad-Darb, Tape no.131, question 8
 link: https://binothaimeen.net/s/eMTUJrR4
 mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_131_08.mp3
-summary: ''
+summary: Know that whoever calls to misguidance will bear the sin of that call, as
+  well as the sins of those who act upon it until the Day of Resurrection.
 muftis:
   shaykh:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 hijri: '1448-01-17'
-summary: "Know that whoever calls to misguidance will bear the sin of that call, as well as the sins of those who act upon it until the Day of Resurrection."
+active: audios
 ---
 ### Question: 
 

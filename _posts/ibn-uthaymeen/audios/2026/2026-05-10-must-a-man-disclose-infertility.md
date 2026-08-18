@@ -4,7 +4,7 @@ publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-10
 hijri: '1447-11-23'
 title: Must a Man Disclose Infertility to a Prospective Spouse?
-source: Liqa’a al-Bab al-Maftuh 7 no.27
+source: "Liqa\u2019a al-Bab al-Maftuh 7 no.27"
 category:
 - fatwas
 - audios
@@ -19,6 +19,7 @@ muftis:
   shaykh:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
+active: audios
 ---
 ### Question:
 

@@ -3,8 +3,8 @@ layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-11
 hijri: '1447-11-24'
-title: The Legal Status of the Mother-in-Law’s Rights over the Wife
-source: Liqa’at al-Bab al-Maftuh, No. 68
+title: "The Legal Status of the Mother-in-Law\u2019s Rights over the Wife"
+source: "Liqa\u2019at al-Bab al-Maftuh, No. 68"
 category:
 - fatwas
 - audios
@@ -19,6 +19,7 @@ muftis:
   shaykh:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
+active: audios
 ---
 ### Question: 
 

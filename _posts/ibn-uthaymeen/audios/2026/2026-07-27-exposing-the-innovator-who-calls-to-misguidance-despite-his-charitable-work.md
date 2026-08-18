@@ -13,13 +13,14 @@ translated: false
 source: Liqa' al-Bab al-Maftuh, Tape no.226
 link: https://alathar.net/home/esound/index.php?op=codevi&coid=66129
 mp3: /assets/audios/exposing-innovator.mp3
-summary: If this man is an active caller and influential, he must be exposed and people
-  must be warned against him—even if he stops his charitable giving.
+summary: "If this man is an active caller and influential, he must be exposed and\
+  \ people must be warned against him\u2014even if he stops his charitable giving."
 muftis:
   shaykh:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 hijri: '1448-02-13'
+active: audios
 ---
 ### Questioner: 
 
