@@ -32,7 +32,7 @@ summary: "Compilation of fatwas (legal rulings) issued by the scholars of ahlus-
                 <!-- Scholar Name -->
                 <div class="text-[10px]">
                 <span class="text-zinc-400 uppercase dark:text-zinc-500 group-hover:text-black dark:group-hover:text-white transition-colors">
-                    {{ scholar_name }}
+                    {% unless scholar_name == "ALIFTA" %}Shaykh {% endunless %}{{ scholar_name }}
                 </span>
                 </div>
 
