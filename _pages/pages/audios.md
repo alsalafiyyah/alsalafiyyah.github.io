@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Audio Fatwas"
-active: "audios"
+section: "audios"
 permalink: /audios/
 summary: "Collection of audio fatwas (legal opinions) issued by the scholars of ahlus-sunnah."
 ---
