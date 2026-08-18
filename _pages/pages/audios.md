@@ -17,7 +17,7 @@ summary: "Collection of audio fatwas (legal opinions) issued by the scholars of 
 </nav>
 <script id="fatwa-data" type="application/json">
 [
-  {% assign posts = site.posts | where_exp: "post", "post.categories contains 'audios'" %}
+  {% assign posts = site.posts | where_exp: "post", "post.active == 'audios'" %}
   {% for post in posts %}
     {
       "title": {{ post.title | jsonify }},
