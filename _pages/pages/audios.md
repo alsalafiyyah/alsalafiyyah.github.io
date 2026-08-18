@@ -5,14 +5,7 @@ active: "audios"
 permalink: /audios/
 summary: "Collection of audio fatwas (legal opinions) issued by the scholars of ahlus-sunnah."
 ---
-         {% if post.active == "audios" %}
-          {% assign audio_posts = site.posts | where_exp: "post", "post.active == 'audios'" %}
-          <span class="text-sm font-black uppercase tracking-[0.3em]">Total Audio Fatwas: {{ audio_posts.size }}</span>
-         {% elsif post.active == "videos" %}
-          {% assign video_posts = site.posts | where_exp: "post", "post.active == 'videos'" %}
-          <span class="text-sm font-black uppercase tracking-[0.3em]">Total Video Fatwas: {{ video_posts.size }}</span>
-         {% else %}
-         {% endif %}
+
 <div id="fatwa-container"></div>
 <nav id="pagination-nav" class="flex items-center justify-between border-t-4 border-black dark:border-white pt-12 mt-12 mb-24">
     <a id="prev-link" href="#" class="text-sm font-black uppercase tracking-widest hover:line-through invisible">← Newer</a>
