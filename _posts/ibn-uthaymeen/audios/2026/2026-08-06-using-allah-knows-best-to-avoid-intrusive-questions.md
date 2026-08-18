@@ -9,6 +9,7 @@ tags:
 - ibn-uthaymeen
 lang: en
 translated: false
+active: audios
 source: Fatawa Nur 'ala al-darb, Tape no.292, Question no.24
 link: https://binothaimeen.net/s/FewP2Rh3
 mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_292_24.mp3

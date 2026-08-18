@@ -10,6 +10,7 @@ tags:
 - ibn-uthaymeen
 lang: en
 translated: false
+active: audios
 source: Fatawa Nur 'ala al-darb, Tape no.210, Question no.9
 link: https://binothaimeen.net/s/yaovVjBk
 mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_210_09.mp3

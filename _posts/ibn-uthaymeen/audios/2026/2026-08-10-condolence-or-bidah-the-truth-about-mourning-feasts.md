@@ -11,6 +11,7 @@ tags:
 - ibn-uthaymeen
 lang: en
 translated: false
+active: audios
 source: Liqa' al-Bab al-Maftuh, Tape no. 172, Question 18
 link: https://binothaimeen.net/s/htmIo9HB
 mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_172_18.mp3
