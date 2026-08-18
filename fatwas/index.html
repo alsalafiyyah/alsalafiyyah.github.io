@@ -18,14 +18,7 @@ summary: "Compilation of fatwas (legal rulings) issued by the scholars of ahlus-
                 <span class="text-zinc-400 dark:text-zinc-600 tabular-nums">
                     {{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}
                 </span>
-                <span class="text-zinc-400 dark:text-zinc-500 group-hover:text-black dark:group-hover:text-white transition-colors">
-                    {{ scholar_name }}
-                </span>
-            </div>
-
-            <div class="md:col-span-9 flex flex-col gap-2">
                 <!-- Post Type Indicator -->
-                <div class="text-xs">
                     {% if post.active == "audios" %}
                      <span class="font-semibold text-purple-600 dark:text-purple-400"><i class="fa-solid fa-microphone-lines mr-1"></i> Audio</span>
                     {% elsif post.active == "videos" %}
@@ -33,6 +26,14 @@ summary: "Compilation of fatwas (legal rulings) issued by the scholars of ahlus-
                     {% else %}
                      <span class="font-semibold text-blue-600 dark:text-blue-400"><i class="fa-solid fa-file mr-1"></i> Text</span>
                     {% endif %}
+            </div>
+
+            <div class="md:col-span-9 flex flex-col gap-2">
+                <!-- Scholar Name -->
+                <div class="text-xs">
+                <span class="text-zinc-400 dark:text-zinc-500 group-hover:text-black dark:group-hover:text-white transition-colors">
+                    {{ scholar_name }}
+                </span>
                 </div>
 
                 <!-- Title: Structured & Highly Scalable -->
