@@ -40,12 +40,12 @@ def update_posts_frontmatter(root_directory):
                 data = {}
 
               # Check if 'active' is already set to 'audios'
-              if data.get("active") == "audios":
+              if data.get("active") == "videos":
                 print(f"[SKIPPED] Already has active: audios -> {file_path}")
                 skipped_count += 1
               else:
                 # Add or update the 'active' property
-                data["active"] = "audios"
+                data["active"] = "vidoes"
 
                 # Rebuild the frontmatter text
                 # Preserve your custom '///' style or standard YAML format
@@ -91,7 +91,7 @@ def update_posts_frontmatter(root_directory):
 
 if __name__ == "__main__":
   # Specify your target directory here
-  target_dir = "_posts/ibn-baz/audios"
+  target_dir = "_posts/salih-ibn-fawzan/videos"
   
   # Run the updater
   update_posts_frontmatter(target_dir)
