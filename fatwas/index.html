@@ -14,21 +14,10 @@ summary: "Compilation of fatwas (legal rulings) issued by the scholars of ahlus-
         <a href="{{ post.url | relative_url }}" class="grid grid-cols-1 md:grid-cols-12 gap-4 md:gap-8 items-baseline w-full">
             
             <div class="md:col-span-3 flex flex-row md:flex-col justify-between md:justify-start gap-2 text-[10px] font-black uppercase tracking-[0.2em]">
-                <!-- Post type -->
-                {% if page.active == "audios" %}
-                 <span class="font-semibold text-purple-600 dark:text-purple-400"><i class="fa-solid fa-microphone-lines mr-1"></i> Audio</span>
-                {% else if page.active == "videos" %}
-                 <span class="font-semibold text-red-600 dark:text-red-400"><i class="fa-solid fa-video mr-1"></i> Video</span>
-                {% else %}
-                 <span class="font-semibold text-red-600 dark:text-red-400"><i class="fa-solid fa-file mr-1"></i> Text</span>
-                {% endif %}
                 <!-- Post Date Layout -->
                 <span class="text-zinc-400 dark:text-zinc-600 tabular-nums">
                     {{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}
                 </span>
-            </div>
-
-            <div class="text-[10px] font-black uppercase tracking-[0.2em]">
                 <span class="text-zinc-400 dark:text-zinc-500 group-hover:text-black dark:group-hover:text-white transition-colors">
                     {{ scholar_name }}
                 </span>
