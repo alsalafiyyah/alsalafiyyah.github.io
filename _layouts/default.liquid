@@ -33,7 +33,7 @@ layout: null
          {% if page.active == "audios" %}
           {% assign audio_posts = site.posts | where_exp: "post", "post.active == 'audios'" %}
           <span class="text-sm font-black uppercase tracking-[0.3em]">Total Audio Fatwas: {{ audio_posts.size }}</span>
-         {% elsif post.active == "videos" %}
+         {% elsif page.active == "videos" %}
           {% assign video_posts = site.posts | where_exp: "post", "post.active == 'videos'" %}
           <span class="text-sm font-black uppercase tracking-[0.3em]">Total Video Fatwas: {{ video_posts.size }}</span>
          {% else %}
