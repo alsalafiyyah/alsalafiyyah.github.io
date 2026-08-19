@@ -4,6 +4,10 @@ title: "Wahhabism?"
 permalink: /wahhabism/
 summary: "Refuting the Slander against the Shaykh Muhammad ibn Abdul-Wahhab"
 ---
+<p class="mb-3">
+Wahhabism is the term applied by opponents of Shaykh Muhammad ibn Abdul-Wahhab’s Da'wah to describe his call toward Tawhid and his rejection of shirk (polytheism) and bid'ah (religious innovation).
+</p>
+
 <div id="fatwa-container"></div>
 <nav id="pagination-nav" class="flex items-center justify-between border-t-4 border-black dark:border-white pt-12 mt-12 mb-24">
     <a id="prev-link" href="#" class="text-sm font-black uppercase tracking-widest hover:line-through invisible">← Newer</a>
