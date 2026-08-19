@@ -26,7 +26,7 @@ This is a great evil and an injustice, and one fears punishment for the person w
 
 ​She cannot be restricted; she is free to choose whomever she wishes from among Allah's servants. Neither her father, nor anyone else, nor her cousin has the right to restrict her. This is considered an injustice, and he must be stopped and prevented from this injustice. This is how you help [both parties]: helping the wrongdoer means stopping and restraining him from his wrongdoing, and helping the oppressed means standing with her until she gets her rights. 
 
-One fears urgent punishment for the person who does this. [The Prophet said:] **"Injustice is darkness on the Day of Resurrection,"** and Allah the Exalted says: **"And whoever among you does wrong (i.e. sets up rivals to Allah), We shall make him taste a great torment."** [al-Furqan: 19]
+One fears urgent punishment for the person who does this. [The Prophet ﷺ said:] **"Injustice is darkness on the Day of Resurrection,"** and Allah the Exalted says: **"And whoever among you does wrong (i.e. sets up rivals to Allah), We shall make him taste a great torment."** [al-Furqan: 19]
 
 One fears swift punishment, so this person who has restricted this poor woman must fear Allah and dread Allah's punishment. This woman might invoke Allah against her oppressor, and the supplication of the oppressed is answered. In the hadith: **"And beware of the supplication of the oppressed, for there is no barrier between it and Allah."**
 
