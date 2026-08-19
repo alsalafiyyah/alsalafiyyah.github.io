@@ -8,6 +8,10 @@ tags:
 - salih-ibn-fawzan
 category:
 - wahhabism
+- videos
+active: videos
+videoURL: https://youtu.be/V3K5l2_p0_U
+videoID: V3K5l2_p0_U
 summary: "Najd remained in the hands of its local rulers and chiefs generation after generation until Shaykh Muhammad ibn Abd al-Wahhab—may Allah have mercy on him—came with his call, supported by Muhammad ibn Saud."
 muftis:
   shaykh:

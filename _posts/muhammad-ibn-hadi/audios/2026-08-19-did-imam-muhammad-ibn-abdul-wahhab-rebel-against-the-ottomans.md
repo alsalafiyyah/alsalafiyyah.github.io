@@ -37,4 +37,3 @@ His books stand as clear testimony, containing explicit words that refute this a
 #### See also:
 
 - [Did Shaykh Muhammad ibn Abd al-Wahhab Rebel Against the Ottomans?](/did-shaykh-muhammad-ibn-abdul-wahhab-rebel-against-the-ottomans/) - Shaykh Salih Aal al-Shaykh
-- [Refuting Misconceptions: Imam Muhammad ibn Abd al-Wahhab and Ottoman Authority]() - Shaykh Salih al-Fawzan
