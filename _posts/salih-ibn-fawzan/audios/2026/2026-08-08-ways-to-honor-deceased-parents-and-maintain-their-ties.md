@@ -23,6 +23,7 @@ muftis:
   - name: Shaykh Salih al-Fawzan
     url: /biography/fawzan/
 ---
+
 ### Question: 
 
 What reaches parents who passed away many years ago, especially since I was not dutiful to them during their lives? What is required of me now? 
