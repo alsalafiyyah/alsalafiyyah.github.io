@@ -35,4 +35,6 @@ Otherwise, Najd was never subject to Ottoman authority for anyone to claim that 
 His books stand as clear testimony, containing explicit words that refute this allegation. But for those blinded by their own desires, there is no remedy. We ask Allah for well-being and safety.
 
 #### See also:
+
 - [Did Shaykh Muhammad ibn Abd al-Wahhab Rebel Against the Ottomans?](/did-shaykh-muhammad-ibn-abdul-wahhab-rebel-against-the-ottomans/) - Shaykh Salih Aal al-Shaykh
+- [Refuting Misconceptions: Imam Muhammad ibn Abd al-Wahhab and Ottoman Authority]() - Shaykh Salih al-Fawzan
