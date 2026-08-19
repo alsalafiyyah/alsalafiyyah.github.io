@@ -4,7 +4,7 @@ publisher: alsalafiyyah.manhaj@gmail.com
 title: Did Shaykh Muhammad ibn Abd al-Wahhab Rebel Against the Ottomans?
 date: 2026-07-27
 category:
-- manhaj
+- wahhabism
 tags:
 - salih-al-shaykh
 source: "Al-Ajwibah wal-Buhuth wal-Mudarasat 2/24–26"
@@ -17,6 +17,7 @@ muftis:
     url: /biography/salih-al-shaykh
 hijri: '1448-02-13'
 ---
+
 ### Question:
 
 This is a question that, in truth, is often raised, and despite how frequently it has been explained and clarified, it keeps coming back. So I do not know why it is continually brought up. The questioner asks: What is your opinion regarding standard statements—or the person who says—in questions you always ask about the statements, but as for the one who said it, we leave him aside—what is your opinion on the statement of someone who says: "Shaykh Muhammad ibn Abd al-Wahhab (may Allah have mercy on him) rebelled against the Ottomans?" And how do we refute this?
@@ -30,3 +31,8 @@ The First Aspect: Najd during the time of the Shaykh—as I mentioned to you—w
 The Second Aspect: During the time of the Shaykh (may Allah have mercy on him), the Ottomans were calling to 'major polytheism' (shirk al-akbar) and Sufi orders. They encouraged these practices and spent funds on tombs and their worship. From this perspective, even if Najd had been subject to Ottoman authority, obedience to them would not have been obligatory, because they called to polytheism and endorsed it during their later eras. As for the first two hundred to two hundred and fifty years of their rule, they followed a sound methodology—meaning, on the whole, they were good. However, around the year 1100 AH and thereafter, when polytheism spread widely among Muslims, the Ottomans actively supported it and financed it. Indeed, writings have been found from Ottoman sultans—according to the common title given to the rulers of the House of Osman—containing supplications involving seeking help (istighathah) from the Prophet (peace and blessings of Allah be upon him) or from 'saints' (awliya) and the like.
 
 Note: The first aspect is the primary and relied-upon answer; the second answer is secondary to it.
+
+### See also:
+
+- [Did Imam Muhammad ibn Abd al-Wahhab Rebel Against the Ottomans](/audios/did-imam-muhammad-ibn-abdul-wahhab-rebel-against-the-ottomans/) - Shaykh Muhammad ibn Hadi al-Madkhali
+- [Refuting Misconceptions: Imam Muhammad ibn Abd al-Wahhab and Ottoman Authority](/videos/refuting-misconceptions-imam-muhammad-ibn-abdul-wahhab-and-ottoman-authority/) - Shaykh Salih al-Fawzan

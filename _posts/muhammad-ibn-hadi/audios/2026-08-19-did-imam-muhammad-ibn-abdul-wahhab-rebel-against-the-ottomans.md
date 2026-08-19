@@ -10,6 +10,7 @@ active: audios
 tags: muhammad-ibn-hadi
 category:
 - audios
+- wahhabism
 mp3: "/assets/audios/sh-muhammad-ibn-hadi-did-muhammad-ibn-abdul-wahhab-rebel-against-the-ottomans.mp3"
 summary: "This is a lie. History proves it—as we said earlier, when narrators resort to lies, we resort to history."
 muftis:
@@ -37,3 +38,4 @@ His books stand as clear testimony, containing explicit words that refute this a
 #### See also:
 
 - [Did Shaykh Muhammad ibn Abd al-Wahhab Rebel Against the Ottomans?](/did-shaykh-muhammad-ibn-abdul-wahhab-rebel-against-the-ottomans/) - Shaykh Salih Aal al-Shaykh
+- - [Refuting Misconceptions: Imam Muhammad ibn Abd al-Wahhab and Ottoman Authority](/videos/refuting-misconceptions-imam-muhammad-ibn-abdul-wahhab-and-ottoman-authority/) - Shaykh Salih al-Fawzan
