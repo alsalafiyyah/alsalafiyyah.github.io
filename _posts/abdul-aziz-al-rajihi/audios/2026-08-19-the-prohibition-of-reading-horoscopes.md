@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
-title: "Ruling on Reading Horoscopes for Entertainment Without Belief"
+title: "Ruling on Reading Horoscopes for Entertainment"
 date: 2026-08-19
 hijri: 1448-03-06
 lang: en
