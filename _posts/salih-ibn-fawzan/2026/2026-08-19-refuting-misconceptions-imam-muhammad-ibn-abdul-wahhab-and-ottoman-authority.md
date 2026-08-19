@@ -32,3 +32,8 @@ They fought the Saudi state not because they had rebelled against them, but out 
 Najd remained in the hands of its local rulers and chiefs generation after generation until Shaykh Muhammad ibn Abd al-Wahhab—may Allah have mercy on him—came with his call, supported by Muhammad ibn Saud. Together, they established their authority over all of Najd and other parts of the Arabian Peninsula. Allah, Glorified and Exalted be He, enabled them because they stood up for the call of Muhammad—may Allah's peace and blessings be upon him—and spread Islam. Consequently, all the emirates that were previously fragmented across Najd came under a single authority.
 
 Only then did the Ottoman Empire fear that they would reach them in their lands—in Iraq and Syria—and became anxious for themselves. Furthermore, they held superstitious beliefs, venerated shrines, and practiced Sufism and religious innovations (bid'ah). They feared that the Shaykh’s call would put an end to these practices, which is why they fought the Saudi state. Yes.
+
+### See also:
+
+- [Did Imam Muhammad ibn Abd al-Wahhab Rebel Against the Ottomans](/audios/did-imam-muhammad-ibn-abdul-wahhab-rebel-against-the-ottomans/) - Shaykh Muhammad ibn Hadi al-Madkhali
+- [Did Shaykh Muhammad ibn Abd al-Wahhab Rebel Against the Ottomans?](/did-shaykh-muhammad-ibn-abdul-wahhab-rebel-against-the-ottomans/) - Shaykh Salih Aal al-Shaykh 
