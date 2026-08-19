@@ -33,3 +33,6 @@ The people of falsehood, along with those in the Al-Ahsa region prompted by the 
 Otherwise, Najd was never subject to Ottoman authority for anyone to claim that Imam Muhammad ibn Abd al-Wahhab rebelled. SubhanAllah (Glory be to God)! How can this revered, grand Imam be accused of being a Kharijite or following their path, when his extensive writings consistently command listening to and obeying rulers, adhering to their commands, and submitting to their authority? How could such a claim be made against him?
 
 His books stand as clear testimony, containing explicit words that refute this allegation. But for those blinded by their own desires, there is no remedy. We ask God for well-being and safety.
+
+#### See also:
+- [Did Shaykh Muhammad ibn Abd al-Wahhab Rebel Against the Ottomans?](/did-shaykh-muhammad-ibn-abdul-wahhab-rebel-against-the-ottomans/) - Shaykh Salih Aal al-Shaykh
