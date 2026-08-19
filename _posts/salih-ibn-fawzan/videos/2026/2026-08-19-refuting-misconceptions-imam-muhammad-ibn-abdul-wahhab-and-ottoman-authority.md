@@ -41,3 +41,4 @@ Only then did the Ottoman Empire fear that they would reach them in their landsâ
 
 - [Did Imam Muhammad ibn Abd al-Wahhab Rebel Against the Ottomans](/audios/did-imam-muhammad-ibn-abdul-wahhab-rebel-against-the-ottomans/) - Shaykh Muhammad ibn Hadi al-Madkhali
 - [Did Shaykh Muhammad ibn Abd al-Wahhab Rebel Against the Ottomans?](/did-shaykh-muhammad-ibn-abdul-wahhab-rebel-against-the-ottomans/) - Shaykh Salih Aal al-Shaykh 
+- [Did Shaykh Muhammad ibn Abd al-Wahhab Revolt Against the Ottomans?](/did-shaykh-muhammad-ibn-abdul-wahhab-revolt-against-the-ottomans) - Shaykh Salih Aal al-Shaykh

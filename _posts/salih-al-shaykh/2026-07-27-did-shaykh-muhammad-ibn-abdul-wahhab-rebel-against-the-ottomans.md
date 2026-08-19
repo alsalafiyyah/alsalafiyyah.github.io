@@ -35,4 +35,5 @@ Note: The first aspect is the primary and relied-upon answer; the second answer 
 ### See also:
 
 - [Did Imam Muhammad ibn Abd al-Wahhab Rebel Against the Ottomans](/audios/did-imam-muhammad-ibn-abdul-wahhab-rebel-against-the-ottomans/) - Shaykh Muhammad ibn Hadi al-Madkhali
+- [Did Shaykh Muhammad ibn Abd al-Wahhab Revolt Against the Ottomans?](/did-shaykh-muhammad-ibn-abdul-wahhab-revolt-against-the-ottomans) - Shaykh Salih Aal al-Shaykh
 - [Refuting Misconceptions: Imam Muhammad ibn Abd al-Wahhab and Ottoman Authority](/videos/refuting-misconceptions-imam-muhammad-ibn-abdul-wahhab-and-ottoman-authority/) - Shaykh Salih al-Fawzan
