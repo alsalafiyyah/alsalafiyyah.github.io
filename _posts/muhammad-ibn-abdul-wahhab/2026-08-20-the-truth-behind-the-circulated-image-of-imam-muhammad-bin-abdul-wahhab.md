@@ -18,7 +18,7 @@ muftis:
 
 <img class="max-w-full h-auto" src="/assets/images/img.webp"/>
 
-"An alleged picture of the renewer Imam Muhammad ibn Abd al-Wahhab, may God have mercy on him, is being circulated across social media platforms. The image shows a person sitting on a chair, who they claim is Imam Muhammad ibn Saud, may God have mercy on him, and another standing beside him, who they claim is Imam Muhammad ibn Abd al-Wahhab, may God have mercy on him."
+An alleged picture of the renewer Imam Muhammad ibn Abd al-Wahhab, may God have mercy on him, is being circulated across social media platforms. The image shows a person sitting on a chair, who they claim is Imam Muhammad ibn Saud, may God have mercy on him, and another standing beside him, who they claim is Imam Muhammad ibn Abd al-Wahhab, may God have mercy on him.
 
 This information is incorrect. The person sitting on the chair is Sheikh Abdullah bin Isa bin Ali Al Khalifa, a son of the ruler of Bahrain, and not Imam Muhammad ibn Saud, the founder of the First Saudi State who passed away in 1765. The other person standing next to him is Sheikh Muhammad bin Abd al-Wahhab al-Faihani, may God have mercy on him, the Bahraini pearl merchant who was born in Bahrain in 1863 and died in Bombay, India, in 1906, and not the reformer Imam Muhammad ibn Abd al-Wahhab, who passed away in 1791. It is worth noting that the first photograph was taken in 1826, and the invention of photography was announced on August 19, 1839.
 
