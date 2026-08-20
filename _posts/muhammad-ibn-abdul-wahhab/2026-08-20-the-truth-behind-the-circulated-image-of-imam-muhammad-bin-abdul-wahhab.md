@@ -7,6 +7,7 @@ date: 2026-08-20
 hijri: '1448-03-07'
 category:
 - muqolat
+- wahhabism
 active: muqolat
 summary: "This information is incorrect. The person sitting on the chair is Sheikh Abdullah bin Isa bin Ali Al Khalifa, a son of the ruler of Bahrain."
 muftis:
