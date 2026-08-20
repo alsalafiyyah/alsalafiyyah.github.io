@@ -13,7 +13,7 @@ summary: "This information is incorrect. The person sitting on the chair is Shei
 muftis:
   shaykh:
   - name: Shaykh Muhammad ibn Abdul-Wahhab
-    url: /biography/abdul-wahhab
+    url: /biography/muhammad-ibn-abdul-wahhab
 ---
 
 <img class="max-w-full h-auto mb-3" src="/assets/images/falseclaim.jpg"/>
