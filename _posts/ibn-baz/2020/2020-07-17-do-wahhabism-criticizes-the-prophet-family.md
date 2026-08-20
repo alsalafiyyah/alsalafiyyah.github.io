@@ -7,7 +7,7 @@ note: false
 hijri: '1441-11-26'
 date: 2020-07-17
 lang: en
-active: wahhabi
+tags: ibn-baz
 category:
 - wahhabism
 - manhaj
@@ -18,6 +18,7 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
+
 ### Question: 
 
 Is it true that Wahhabism antagonizes Al-ul-Bayt (members of the Prophet's extended Muslim family) and criticizes the Prophet (peace be upon him)? What is the essence of this Da'wah (call)? Why is it fought?
@@ -48,8 +49,6 @@ It is also narrated that 'Umar (may Allah be pleased with him) said, "**O Messen
 A believer should love the Prophet (peace be upon him) more than himself. Following and adhering to his teachings and being aware of what contradicts them prove the sincere love to him. Allah (Glorified and Exalted be He) says, "**Say (O Muhammad صلى الله عليه وسلم to mankind): "If you (really) love Allâh then follow me (i.e. accept Islâmic Monotheism, follow the Qur’ân and the Sunnah), Allâh will love you and forgive you your sins. And Allâh is Oft-Forgiving, Most Merciful.**" [Aal 'Imran: 31] 
 
 Those who were hostile to this call are either ignorant of its teachings or following their whims, sacrificing their Hereafter for the sake of worldly gains, and supporting falsehood against the Truth out of ignorance or due to following whims. They are like the Jews who showed hostility towards our Prophet Muhammad (peace be upon him) and his message, which Allah (Exalted be He) sent him with, out of envy, hatred, and following their whims. We ask Allah to grant us safety and well-being.
-
----
 
 [^1]: Narrated by Al-Bukhari, Book on testimonies, no. 2458; and Muslim, Book on merits of the Companions, no. 4601.
 [^2]: Narrated by Muslim, Book on Friday, no. 1453.

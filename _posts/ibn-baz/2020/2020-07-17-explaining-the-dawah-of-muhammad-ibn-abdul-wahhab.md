@@ -5,9 +5,9 @@ date: 2020-07-17
 title: Explaining the Dawah of Sheikh Muhammad ibn Abd al-Wahhab
 source: Fatawa Nur 'ala al-Darb, Tape 216 No.4
 category:
-- fatwas
 - audios
 - manhaj
+- wahhabism
 link: https://binbaz.org.sa/fatwas/6899/%D8%A7%D9%84%D8%AA%D8%B9%D8%B1%D9%8A%D9%81-%D8%A8%D8%AF%D8%B9%D9%88%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%88%D9%87%D8%A7%D8%A8-%D8%B1%D8%AD%D9%85%D9%87-%D8%A7%D9%84%D9%84%D9%87
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_216/21604.mp3
 summary: The point of all this is that this call, and this title, is a label for whoever
@@ -16,15 +16,17 @@ summary: The point of all this is that this call, and this title, is a label for
   the reality and their lack of knowledge concerning the facts.
 lang: en
 translation: true
+active: audios
 muftis:
   shaykh:
   - name: Shaykh Ibn Baz
     url: /biography/binbaz
 hijri: '1441-11-26'
 ---
+
 ### Question: 
 
-Question: He has a third and final question, in which he says: Some people in our area call the scholars in the Kingdom of Saudi Arabia "Wahhabis." Do you accept this name? And what is the response to those who call you by this name?
+He has a third and final question, in which he says: Some people in our area call the scholars in the Kingdom of Saudi Arabia "Wahhabis." Do you accept this name? And what is the response to those who call you by this name?
 
 ### Answer: 
 

@@ -1,10 +1,8 @@
 ---
-active: wahhabi
 date: 2020-08-09
 hijri: '1441-12-19'
 lang: en
 layout: post
-mass_edited: true
 muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
@@ -16,6 +14,7 @@ summary: The ignorant people and the enemies of Allah accused the prophets and t
 title: Some people accuse Your Eminence of being a religious bigot and the country
   of being Wahabi
 ---
+
 ### Question: 
 Some people from outside the country accuse Your Eminence of being a religious bigot and the country of being Wahabi, how can you refute their claims?
 
