@@ -51,7 +51,7 @@ permalink: /scholar/
             {% if file.official_web %}
             <div>
                 <a href="{{ file.official_web }}" class="text-[11px] font-semibold uppercase tracking-widest tabular-nums text-gray-400 dark:text-zinc-500 hover:text-gray-600 dark:hover:text-zinc-300 transition-colors" target="_blank" rel="noopener noreferrer">
-                    Official Website ↗
+                  Website ↗
                 </a>
             </div>
             {% endif %}

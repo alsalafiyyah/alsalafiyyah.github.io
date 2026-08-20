@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Imam Muhammad ibn Abdul-Wahhab"
-official_web: https://mujaddid.net/
-bio_url: /biography/muhammad-ibn-abdul-wahhab/
-permalink: /scholar/muhammad-ibn-abdul-wahhab/
+title: "Shaykh Muhammad Aman al-Jami"
+official_web: https://eljame.com/
+bio_url: /biography/muhammad-aman-al-jami/
+permalink: /scholar/muhammad-aman-al-jami/
 ---
 
-{% assign ulama_posts = site.posts | where_exp:"item", "item.path contains '_posts/muhammad-ibn-abdul-wahhab/'" %}
+{% assign ulama_posts = site.posts | where_exp:"item", "item.path contains '_posts/muhammad-aman-al-jami/'" %}
 
 <header class="pb-8 md:pb-8 border-b-4 border-black dark:border-white">
   <div class="max-w-7xl">
