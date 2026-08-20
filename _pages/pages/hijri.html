@@ -1,70 +1,124 @@
 ---
 layout: page
-title: "Prayer Times"
-permalink: /prayer-times/
+title: "Hijri Date"
+permalink: /hijri/
 ---
 
+<!-- Hijri Date Display Line (Clickable) -->
 <div class="max-w-4xl mx-auto p-4 font-sans">
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 items-start">
-        
-        <div class="bg-white dark:bg-slate-800 p-6 rounded-2xl shadow-sm w-full transition-colors duration-200 border border-gray-100 dark:border-slate-700">
-            <label for="gregorianPicker" class="block text-sm font-semibold mb-2 text-slate-800 dark:text-slate-100">Islamic Date Converter</label>
-            <input type="date" id="gregorianPicker" class="w-full px-3 py-2 rounded-lg border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-900 text-slate-800 dark:text-slate-100 focus:outline-none focus:ring-2 focus:ring-blue-500 mb-4">
-            <div class="space-y-1 text-sm border-t border-slate-200 dark:border-slate-700 pt-3">
-                <div class="flex justify-between">
-                    <span class="text-slate-500 dark:text-slate-400">Date:</span> 
-                    <span id="gregorianOutput" class="font-medium text-slate-800 dark:text-slate-100">-</span>
-                </div>
-                <div class="flex justify-between">
-                    <span class="text-slate-500 dark:text-slate-400">Hijri:</span> 
-                    <span id="hijriOutput" class="font-medium text-slate-800 dark:text-slate-100">-</span>
-                </div>
-            </div>
-        </div>
-
+    <div id="hijriTriggerBtn" class="inline-flex items-center gap-2 px-4 py-2 bg-white dark:bg-slate-800 text-slate-800 dark:text-slate-100 rounded-xl shadow-sm border border-gray-200 dark:border-slate-700 cursor-pointer hover:bg-slate-50 dark:hover:bg-slate-700 transition-colors duration-200">
+        <svg class="w-5 h-5 text-blue-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
+        </svg>
+        <span class="text-sm font-medium">Today: <span id="currentHijriDisplay" class="font-semibold">-</span></span>
+        <span class="text-xs text-slate-400 ml-1">(Click to open converter)</span>
     </div>
 </div>
-    <script>
-        const picker = document.getElementById('gregorianPicker');
-        const gregorianOutput = document.getElementById('gregorianOutput');
-        const hijriOutput = document.getElementById('hijriOutput');
 
-        // Set default to today's date
-        const today = new Date();
-        const isoToday = today.toISOString().split('T')[0];
-        picker.value = isoToday;
-        updateDates(today);
+<!-- Converter Popup Modal -->
+<div id="hijriModal" class="fixed inset-0 z-50 flex items-center justify-center bg-black/50 backdrop-blur-sm hidden">
+    <div class="bg-white dark:bg-slate-800 p-6 rounded-2xl shadow-xl w-full max-w-md mx-4 relative border border-gray-100 dark:border-slate-700 transition-colors duration-200">
+        
+        <!-- Close Button -->
+        <button id="closeModalBtn" class="absolute top-4 right-4 text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 focus:outline-none">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+            </svg>
+        </button>
 
-        // Listen for changes when the user picks a date
-        picker.addEventListener('change', function(e) {
-            if (e.target.value) {
-                // Parse local date safely without timezone shifting issues
-                const [year, month, day] = e.target.value.split('-').map(Number);
-                const selectedDate = new Date(year, month - 1, day);
-                updateDates(selectedDate);
-            }
+        <h3 class="text-lg font-semibold mb-4 text-slate-800 dark:text-slate-100">Islamic Date Converter</h3>
+        
+        <label for="gregorianPicker" class="block text-sm font-semibold mb-2 text-slate-800 dark:text-slate-100">Select Gregorian Date</label>
+        <input type="date" id="gregorianPicker" class="w-full px-3 py-2 rounded-lg border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-900 text-slate-800 dark:text-slate-100 focus:outline-none focus:ring-2 focus:ring-blue-500 mb-4">
+        
+        <div class="space-y-1 text-sm border-t border-slate-200 dark:border-slate-700 pt-3">
+            <div class="flex justify-between">
+                <span class="text-slate-500 dark:text-slate-400">Date:</span> 
+                <span id="gregorianOutput" class="font-medium text-slate-800 dark:text-slate-100">-</span>
+            </div>
+            <div class="flex justify-between">
+                <span class="text-slate-500 dark:text-slate-400">Hijri:</span> 
+                <span id="hijriOutput" class="font-medium text-slate-800 dark:text-slate-100">-</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    const picker = document.getElementById('gregorianPicker');
+    const gregorianOutput = document.getElementById('gregorianOutput');
+    const hijriOutput = document.getElementById('hijriOutput');
+    const currentHijriDisplay = document.getElementById('currentHijriDisplay');
+    
+    const modal = document.getElementById('hijriModal');
+    const triggerBtn = document.getElementById('hijriTriggerBtn');
+    const closeModalBtn = document.getElementById('closeModalBtn');
+
+    // Helper function to format date into Hijri string
+    function getHijriString(dateObj) {
+        const hijriFormatter = new Intl.DateTimeFormat('en-u-ca-islamic-umalqura', {
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric'
+        });
+        return hijriFormatter.format(dateObj);
+    }
+
+    function updateDates(dateObj) {
+        // Display Gregorian
+        gregorianOutput.textContent = dateObj.toISOString().split('T')[0];
+
+        // Convert and Display Hijri (Numeric for converter output)
+        const numericFormatter = new Intl.DateTimeFormat('en-u-ca-islamic-umalqura', {
+            year: 'numeric',
+            month: '2-digit',
+            day: '2-digit'
         });
 
-        function updateDates(dateObj) {
-            // Display Gregorian
-            gregorianOutput.textContent = dateObj.toISOString().split('T')[0];
+        const parts = numericFormatter.formatToParts(dateObj);
+        let hYear = '', hMonth = '', hDay = '';
 
-            // Convert and Display Hijri (Umm al-Qura)
-            const hijriFormatter = new Intl.DateTimeFormat('en-u-ca-islamic-umalqura', {
-                year: 'numeric',
-                month: '2-digit',
-                day: '2-digit'
-            });
+        parts.forEach(part => {
+            if (part.type === 'year') hYear = part.value;
+            if (part.type === 'month') hMonth = part.value;
+            if (part.type === 'day') hDay = part.value;
+        });
 
-            const parts = hijriFormatter.formatToParts(dateObj);
-            let hYear = '', hMonth = '', hDay = '';
+        hijriOutput.textContent = `${hYear}-${hMonth}-${hDay}`;
+    }
 
-            parts.forEach(part => {
-                if (part.type === 'year') hYear = part.value;
-                if (part.type === 'month') hMonth = part.value;
-                if (part.type === 'day') hDay = part.value;
-            });
+    // Set default to today's date
+    const today = new Date();
+    const isoToday = today.toISOString().split('T')[0];
+    picker.value = isoToday;
+    updateDates(today);
+    
+    // Set the initial clickable line text with a readable Hijri format
+    currentHijriDisplay.textContent = getHijriString(today);
 
-            hijriOutput.textContent = `${hYear}-${hMonth}-${hDay}`;
+    // Listen for changes when the user picks a date in the modal
+    picker.addEventListener('change', function(e) {
+        if (e.target.value) {
+            const [year, month, day] = e.target.value.split('-').map(Number);
+            const selectedDate = new Date(year, month - 1, day);
+            updateDates(selectedDate);
         }
-    </script>
+    });
+
+    // Modal Toggle Logic
+    triggerBtn.addEventListener('click', () => {
+        modal.classList.remove('hidden');
+    });
+
+    closeModalBtn.addEventListener('click', () => {
+        modal.classList.add('hidden');
+    });
+
+    // Close modal when clicking outside of the modal content box
+    modal.addEventListener('click', (e) => {
+        if (e.target === modal) {
+            modal.classList.add('hidden');
+        }
+    });
+</script>
+
