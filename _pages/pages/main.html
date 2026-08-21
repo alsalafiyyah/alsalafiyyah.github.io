@@ -35,24 +35,45 @@ permalink: /main/
         </div>
         {% endif %}
 
-        <!-- Column 2: Article Card with Background Image -->
-        {% assign article_post = site.posts | where: "slug", "the-truth-behind-the-circulated-image-of-imam-muhammad-bin-abdul-wahhab" | first %}
-        <div class="col-span-1 relative bg-cover bg-no-repeat bg-center flex flex-col justify-end min-h-[450px] overflow-hidden lg:col-span-1" style="background-image:url('https://alsalafiyyah.github.io/assets/images/falseclaim.jpg')">
-            <!-- Top Badge -->
-            <span class="text-xs font-sans font-bold text-white absolute left-6 top-6 pb-2.5 border-b-2 border-red-500 z-10">Article</span>
-            
-            {% if article_post %}
-            <!-- Gradient Overlay & Content -->
-            <div class="flex flex-col items-start justify-end text-left pt-32 px-8 pb-8 bg-gradient-to-t from-black/90 via-black/40 to-transparent w-full">
-                <h3 class="flex items-center font-sans font-bold text-xs text-white mb-3">
-                    <span class="w-2 h-2 rounded-full bg-red-500 flex-shrink-0 mr-2.5"></span>
-                    {{ article_post.hijri }} / {{ article_post.date | date: "%d.%m.%Y" }}
-                </h3>
-                <a href="{{ article_post.url | relative_url }}" class="text-white text-2xl font-bold hover:underline leading-snug">
-                    {{ article_post.title }}
-                </a>
+        <!-- Column 2: Article Card with Background Image + Muqolat Below -->
+        <div class="col-span-1 flex flex-col space-y-6 lg:col-span-1">
+            {% assign article_post = site.posts | where: "slug", "the-truth-behind-the-circulated-image-of-imam-muhammad-bin-abdul-wahhab" | first %}
+            <div class="relative bg-cover bg-no-repeat bg-center flex flex-col justify-end min-h-[450px] overflow-hidden" style="background-image:url('https://alsalafiyyah.github.io/assets/images/falseclaim.jpg')">
+                <!-- Top Badge -->
+                <span class="text-xs font-sans font-bold text-white absolute left-6 top-6 pb-2.5 border-b-2 border-red-500 z-10">Article</span>
+                
+                {% if article_post %}
+                <!-- Gradient Overlay & Content -->
+                <div class="flex flex-col items-start justify-end text-left pt-32 px-8 pb-8 bg-gradient-to-t from-black/90 via-black/40 to-transparent w-full">
+                    <h3 class="flex items-center font-sans font-bold text-xs text-white mb-3">
+                        <span class="w-2 h-2 rounded-full bg-red-500 flex-shrink-0 mr-2.5"></span>
+                        {{ article_post.hijri }} / {{ article_post.date | date: "%d.%m.%Y" }}
+                    </h3>
+                    <a href="{{ article_post.url | relative_url }}" class="text-white text-2xl font-bold hover:underline leading-snug">
+                        {{ article_post.title }}
+                    </a>
+                </div>
+                {% endif %}
             </div>
-            {% endif %}
+
+            <!-- Muqolat Section & Button Outside the Image Card -->
+            <div class="flex flex-col space-y-4 pt-2">
+                {% assign muqolat = site.posts | where_exp: "post", "post.active == 'muqolat'" %}
+                {% for post in muqolat limit:1 %}
+                    <div class="border-l-2 border-red-500 pl-4 py-1">
+                        <span class="text-[10px] font-bold opacity-50 block mb-1">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</span>
+                        <a href="{{ post.url | relative_url }}" class="text-lg font-bold group-hover:underline block truncate max-w-full">
+                            {{ post.title }}
+                        </a>
+                    </div>
+                {% endfor %}
+
+                <div>
+                    <a href="{{ '/muqolat' | relative_url }}" class="inline-block bg-black text-white dark:bg-white dark:text-black w-full py-4 text-center font-black uppercase tracking-widest text-xs hover:opacity-90 transition-opacity">
+                        View All Muqolat →
+                    </a>
+                </div>
+            </div>
         </div>
 
         <!-- Column 3: Tabbed Content (Recent, Audio, Video Fatwas) -->
@@ -82,9 +103,9 @@ permalink: /main/
                             {% for post in site.posts limit:3 %}
                                 {% if post.url == featured_post.url %}{% continue %}{% endif %}
                                 <li>
-                                    <a href="{{ post.url | relative_url }}" class="group block truncate">
+                                    <a href="{{ post.url | relative_url }}" class="group block truncate max-w-full">
                                         <span class="text-[10px] font-bold opacity-50 block mb-1">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</span>
-                                        <span class="text-lg font-bold group-hover:underline">{{ post.title }}</span>
+                                        <span class="text-lg font-bold group-hover:underline block truncate">{{ post.title }}</span>
                                     </a>
                                 </li>
                             {% endfor %}
@@ -97,9 +118,9 @@ permalink: /main/
                            {% assign audio_posts = site.posts | where_exp: "post", "post.active == 'audios'" %}
                            {% for post in audio_posts limit:3 %}
                                 <li>
-                                    <a href="{{ post.url | relative_url }}" class="group block truncate">
+                                    <a href="{{ post.url | relative_url }}" class="group block truncate max-w-full">
                                         <span class="text-[10px] font-bold opacity-50 block mb-1">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</span>
-                                        <span class="text-lg font-bold  group-hover:underline">{{ post.title }}</span>
+                                        <span class="text-lg font-bold group-hover:underline block truncate">{{ post.title }}</span>
                                     </a>
                                 </li>
                            {% endfor %}
@@ -111,26 +132,26 @@ permalink: /main/
                         <div class="flex flex-col space-y-8">
                            {% assign video_posts = site.posts | where_exp: "post", "post.active == 'videos'" %}
                            {% for post in video_posts limit:3 %}
-
-        <div class="flex">
-          <img src="https://img.youtube.com/vi/{{ post.videoID }}/maxresdefault.jpg" alt="{{ post.title }}" class="w-20 h-20 flex-shrink-0 mr-4 object-cover" />
-          <div class="flex-grow flex flex-col">
-            <a href="{{ post.url | relative_url }}" class="mb-0.5 hover:underline">{{ post.title }}</a>
-            <p class="text-gray-600 text-opacity-40 text-xs mt-auto font-sans">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</p>
-          </div>
-        </div>
+                            <div class="flex items-start">
+                              <img src="https://img.youtube.com/vi/{{ post.videoID }}/maxresdefault.jpg" alt="{{ post.title }}" class="w-20 h-20 flex-shrink-0 mr-4 object-cover" />
+                              <div class="flex-grow min-w-0 flex flex-col">
+                                <a href="{{ post.url | relative_url }}" class="mb-0.5 hover:underline truncate block font-bold">{{ post.title }}</a>
+                                <p class="text-gray-600 text-opacity-40 text-xs mt-auto font-sans">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</p>
+                              </div>
+                            </div>
                            {% endfor %}
                         </div>
                     </div>
+
                     <!-- Muqolat Panel -->
                     <div id="panel-muqolat" class="tab-panel space-y-6 hidden">
                         <ul class="space-y-6">
                            {% assign muqolat = site.posts | where_exp: "post", "post.active == 'muqolat'" %}
                            {% for post in muqolat limit:3 %}
                                 <li>
-                                    <a href="{{ post.url | relative_url }}" class="group block truncate">
+                                    <a href="{{ post.url | relative_url }}" class="group block truncate max-w-full">
                                         <span class="text-[10px] font-bold opacity-50 block mb-1">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</span>
-                                        <span class="text-lg font-bold group-hover:underline">{{ post.title }}</span>
+                                        <span class="text-lg font-bold group-hover:underline block truncate">{{ post.title }}</span>
                                     </a>
                                 </li>
                            {% endfor %}
