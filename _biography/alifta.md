@@ -31,8 +31,26 @@ scholar_groups:
     url: "/biography/abdul-salam"
 ---
 
-<ul>
   {% for s in page.scholar_groups %}
-    <li><a href="{{ s.url | relative_url }}">{{ s.name }}</a></li>
+     <div class="group py-10 border-b border-gray-200 dark:border-zinc-800 grid grid-cols-1 md:grid-cols-12 gap-6 items-center transition-colors duration-200">
+        <!-- Left Column: Metadata & Heading -->
+        <div class="md:col-span-8 space-y-1">
+            <h2 class="text-3xl md:text-4xl font-black uppercase tracking-tighter font-serif text-gray-900 dark:text-white transition-all">
+                <a href="{{ s.url | relative_url }}" class="group-hover:text-blue-600 dark:group-hover:text-blue-400 group-hover:underline decoration-2 underline-offset-4 transition-all">
+                    {{ s.name }}
+                </a>
+            </h2>
+        </div>
+        <!-- Right Column: Action Links -->
+        <div class="md:col-span-4 flex md:flex-col items-start md:items-end justify-between md:justify-center space-y-0 md:space-y-2">
+            <div>
+                <a href="{{ s.url | relative_url }}" class="inline-flex items-center gap-1.5 text-xs font-bold uppercase tracking-wider text-gray-900 dark:text-zinc-200 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
+                    <span>Read Biography</span>
+                    <svg class="w-3.5 h-3.5 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </div>
+    </div>
   {% endfor %}
-</ul>
