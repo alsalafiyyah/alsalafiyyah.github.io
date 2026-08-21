@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Index"
-permalink: /index/
+permalink: /main/
 ---
 
 <section class="mb-6 pb-12 mt-10">
@@ -92,36 +92,30 @@ permalink: /index/
                     <!-- Audio Fatwas Panel -->
                     <div id="panel-audio" class="tab-panel space-y-6 hidden">
                         <ul class="space-y-6">
+                         {% assign posts = site.posts | where_exp: "post", "post.active == 'audios'" %}
+                          {% for post in posts limit:3 %}
                             <li>
-                                <a href="#" class="group block">
+                                <a href="{{ post.url | relative_url }}" class="group block">
                                     <span class="text-[10px] font-bold opacity-50 block mb-1">Audio Lecture • 12 mins</span>
-                                    <span class="text-lg font-bold group-hover:underline">Explanation of the Three Fundamental Principles</span>
+                                    <span class="text-lg font-bold group-hover:underline">{{ post.title }}</span>
                                 </a>
                             </li>
-                            <li class="border-t border-black/10 dark:border-white/10 pt-6">
-                                <a href="#" class="group block">
-                                    <span class="text-[10px] font-bold opacity-50 block mb-1">Audio Fatwa • 05 mins</span>
-                                    <span class="text-lg font-bold group-hover:underline">Directives on Dealing with Family Disputes</span>
-                                </a>
-                            </li>
+                         {% endfor %}
                         </ul>
                     </div>
 
                     <!-- Video Fatwas Panel -->
                     <div id="panel-video" class="tab-panel space-y-6 hidden">
                         <ul class="space-y-6">
+                         {% assign posts = site.posts | where_exp: "post", "post.active == 'videos'" %}
+                          {% for post in posts limit:3 %}
                             <li>
-                                <a href="#" class="group block">
-                                    <span class="text-[10px] font-bold opacity-50 block mb-1">Video Session • 24 mins</span>
-                                    <span class="text-lg font-bold group-hover:underline">Clarifying Doubts Surrounding Creed</span>
+                                <a href="{{ post.url | relative_url }}" class="group block">
+                                    <span class="text-[10px] font-bold opacity-50 block mb-1">Audio Lecture • 12 mins</span>
+                                    <span class="text-lg font-bold group-hover:underline">{{ post.title }}</span>
                                 </a>
                             </li>
-                            <li class="border-t border-black/10 dark:border-white/10 pt-6">
-                                <a href="#" class="group block">
-                                    <span class="text-[10px] font-bold opacity-50 block mb-1">Video Clip • 08 mins</span>
-                                    <span class="text-lg font-bold group-hover:underline">How to Perfect the Opening Takbeer of Prayer</span>
-                                </a>
-                            </li>
+                         {% endfor %}
                         </ul>
                     </div>
                 </div>
