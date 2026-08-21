@@ -94,9 +94,6 @@ permalink: /main/
                     <button type="button" data-tab="video" class="tab-btn text-gray-400 hover:text-black dark:hover:text-white pb-1 transition-colors whitespace-nowrap">
                         Videos
                     </button>
-                    <button type="button" data-tab="muqolat" class="tab-btn text-gray-400 hover:text-black dark:hover:text-white pb-1 transition-colors whitespace-nowrap">
-                        Muqolat
-                    </button>
                 </div>
 
                 <!-- Tab Content Panels -->
@@ -145,21 +142,6 @@ permalink: /main/
                             </div>
                            {% endfor %}
                         </div>
-                    </div>
-
-                    <!-- Muqolat Panel -->
-                    <div id="panel-muqolat" class="tab-panel space-y-6 hidden">
-                        <ul class="space-y-6">
-                           {% assign muqolat = site.posts | where_exp: "post", "post.active == 'muqolat'" %}
-                           {% for post in muqolat limit:3 %}
-                                <li>
-                                    <a href="{{ post.url | relative_url }}" class="group block">
-                                        <span class="text-[10px] font-bold opacity-50 block mb-1">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</span>
-                                        <span class="text-lg font-bold group-hover:underline block truncate">{{ post.title }}</span>
-                                    </a>
-                                </li>
-                           {% endfor %}
-                        </ul>
                     </div>
 
                 </div>
