@@ -101,7 +101,7 @@ permalink: /main/
                     <!-- Recent Fatwas Panel -->
                     <div id="panel-recent" class="tab-panel space-y-6">
                         <ul class="space-y-6">
-                            {% for post in site.posts limit:3 %}
+                            {% for post in site.posts limit:4 %}
                                 {% if post.url == featured_post.url %}{% continue %}{% endif %}
                                 <li>
                                     <a href="{{ post.url | relative_url }}" class="group block">
@@ -117,7 +117,7 @@ permalink: /main/
                     <div id="panel-audio" class="tab-panel space-y-6 hidden">
                         <ul class="space-y-6">
                            {% assign audio_posts = site.posts | where_exp: "post", "post.active == 'audios'" %}
-                           {% for post in audio_posts limit:3 %}
+                           {% for post in audio_posts limit:4 %}
                                 <li>
                                     <a href="{{ post.url | relative_url }}" class="group block">
                                         <span class="text-[10px] font-bold opacity-50 block mb-1">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</span>
@@ -132,7 +132,7 @@ permalink: /main/
                     <div id="panel-video" class="tab-panel space-y-6 hidden">
                         <div class="flex flex-col space-y-8">
                            {% assign video_posts = site.posts | where_exp: "post", "post.active == 'videos'" %}
-                           {% for post in video_posts limit:3 %}
+                           {% for post in video_posts limit:4 %}
                             <div class="flex items-start">
                               <img src="https://img.youtube.com/vi/{{ post.videoID }}/maxresdefault.jpg" alt="{{ post.title }}" class="w-20 h-20 flex-shrink-0 mr-4 object-cover" />
                               <div class="flex-grow min-w-0 flex flex-col">
@@ -151,7 +151,7 @@ permalink: /main/
                 <div class="w-full flex h-0.5 bg-yellow-700 bg-opacity-10">
                     <div class="w-1/2 bg-red-500 h-full"></div>
                 </div>
-                <a href="{{ '/fatwas' | relative_url }}" class="font-sans text-xs uppercase font-bold pt-5 flex w-full">See more Fatwas
+                <a href="{{ '/fatwas' | relative_url }}" class="font-sans text-xs uppercase font-bold pt-5 flex w-full">View All Fatwas
                     <svg viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" class="w-3.5 ml-auto text-red-500">
                         <line x1="5" y1="12" x2="19" y2="12"></line>
                         <polyline points="12 5 19 12 12 19"></polyline>
