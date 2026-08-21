@@ -107,7 +107,7 @@ permalink: /main/
                             {% for post in site.posts limit:3 %}
                                 {% if post.url == featured_post.url %}{% continue %}{% endif %}
                                 <li>
-                                    <a href="{{ post.url | relative_url }}" class="group block truncate max-w-full">
+                                    <a href="{{ post.url | relative_url }}" class="group block">
                                         <span class="text-[10px] font-bold opacity-50 block mb-1">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</span>
                                         <span class="text-lg font-bold group-hover:underline block truncate">{{ post.title }}</span>
                                     </a>
@@ -122,7 +122,7 @@ permalink: /main/
                            {% assign audio_posts = site.posts | where_exp: "post", "post.active == 'audios'" %}
                            {% for post in audio_posts limit:3 %}
                                 <li>
-                                    <a href="{{ post.url | relative_url }}" class="group block truncate max-w-full">
+                                    <a href="{{ post.url | relative_url }}" class="group block">
                                         <span class="text-[10px] font-bold opacity-50 block mb-1">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</span>
                                         <span class="text-lg font-bold group-hover:underline block truncate">{{ post.title }}</span>
                                     </a>
@@ -139,7 +139,7 @@ permalink: /main/
                             <div class="flex items-start">
                               <img src="https://img.youtube.com/vi/{{ post.videoID }}/maxresdefault.jpg" alt="{{ post.title }}" class="w-20 h-20 flex-shrink-0 mr-4 object-cover" />
                               <div class="flex-grow min-w-0 flex flex-col">
-                                <a href="{{ post.url | relative_url }}" class="mb-0.5 hover:underline truncate block font-bold">{{ post.title }}</a>
+                                <a href="{{ post.url | relative_url }}" class="mb-0.5 hover:underline block font-bold">{{ post.title }}</a>
                                 <p class="text-gray-600 text-opacity-40 text-xs mt-auto font-sans">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</p>
                               </div>
                             </div>
@@ -153,7 +153,7 @@ permalink: /main/
                            {% assign muqolat = site.posts | where_exp: "post", "post.active == 'muqolat'" %}
                            {% for post in muqolat limit:3 %}
                                 <li>
-                                    <a href="{{ post.url | relative_url }}" class="group block truncate max-w-full">
+                                    <a href="{{ post.url | relative_url }}" class="group block">
                                         <span class="text-[10px] font-bold opacity-50 block mb-1">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</span>
                                         <span class="text-lg font-bold group-hover:underline block truncate">{{ post.title }}</span>
                                     </a>
