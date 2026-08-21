@@ -67,10 +67,8 @@ footer_navigation:
     url: "https://instagram.com/alsalafiyyah"
   - title: About
     url: /about/
-  - title: Contact Us
+  - title: Contact
     url: /contact/
-  - title: "عربي"
-    url: /ar/
 
 footer_navigation_2:
   - title: Scholars & Biographies
