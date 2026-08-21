@@ -121,7 +121,7 @@ permalink: /main/
                         </ul>
                     </div>
                     <!-- Muqolat Panel -->
-                    <div id="panel-video" class="tab-panel space-y-6 hidden">
+                    <div id="panel-muqolat" class="tab-panel space-y-6 hidden">
                         <ul class="space-y-6">
                            {% assign muqolat = site.posts | where_exp: "post", "post.active == 'muqolat'" %}
                            {% for post in muqolat limit:2 %}
