@@ -61,11 +61,11 @@ permalink: /main/
     <!-- Bottom Part: Standard Muqolat List (No Images) & Button -->
     <div class="flex flex-col space-y-4 pt-2">
         {% assign muqolat = site.posts | where_exp: "post", "post.active == 'muqolat'" %}
-        {% for post in muqolat limit:4 %}
+        {% for post in muqolat limit:3 %}
             {% if post.url != featured_muqolat_post.url %}
                 <div class="border-l-2 border-red-500 pl-4 py-1">
                     <span class="text-[10px] font-bold opacity-50 block mb-1">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</span>
-                    <a href="{{ post.url | relative_url }}" class="text-lg font-bold group-hover:underline block truncate max-w-full">
+                    <a href="{{ post.url | relative_url }}" class="text-lg font-bold group-hover:underline block">
                         {{ post.title }}
                     </a>
                 </div>
