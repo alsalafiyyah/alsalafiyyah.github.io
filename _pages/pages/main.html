@@ -65,18 +65,24 @@ permalink: /main/
             {% if post.url != featured_muqolat_post.url %}
                 <div class="border-l-2 border-red-500 pl-4 py-1">
                     <span class="text-[10px] font-bold opacity-50 block mb-1">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</span>
-                    <a href="{{ post.url | relative_url }}" class="text-lg font-bold group-hover:underline block">
+                    <a href="{{ post.url | relative_url }}" class="text-lg font-bold group-hover:underline block hover:underline">
                         {{ post.title }}
                     </a>
                 </div>
             {% endif %}
         {% endfor %}
 
-        <div>
-            <a href="{{ '/muqolat' | relative_url }}" class="inline-block bg-black text-white dark:bg-white dark:text-black w-full py-4 text-center font-black uppercase tracking-widest text-xs hover:opacity-90 transition-opacity">
-                View All Muqolat →
-            </a>
-        </div>
+            <div class="flex flex-col w-full">
+                <div class="w-full flex h-0.5 bg-yellow-700 bg-opacity-10">
+                    <div class="w-1/2 bg-red-500 h-full"></div>
+                </div>
+                <a href="{{ '/muqolat' | relative_url }}" class="font-sans text-xs uppercase font-bold pt-5 flex w-full">View All
+                    <svg viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" class="w-3.5 ml-auto text-red-500">
+                        <line x1="5" y1="12" x2="19" y2="12"></line>
+                        <polyline points="12 5 19 12 12 19"></polyline>
+                    </svg>
+                </a>
+            </div>
     </div>
 </div>
 
