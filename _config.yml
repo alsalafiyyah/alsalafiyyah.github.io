@@ -56,13 +56,13 @@ menu_navigation:
     url: /audios/
   - title: Videos
     url: /videos/
+  - title: Biographies
+    url: /scholar/
   - title: "Al-Qur'an"
     url: "/quran/"
 
 # Footer Navigation
 footer_navigation:
-  - title: Scholars & Biographies
-    url: /scholar/
   - title: Instagram
     url: "https://instagram.com/alsalafiyyah"
   - title: About
