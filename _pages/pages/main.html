@@ -95,7 +95,7 @@ permalink: /main/
                            {% for post in audio_posts limit:2 %}
                                 <li>
                                     <a href="{{ post.url | relative_url }}" class="group block">
-                                        <span class="text-[10px] font-bold opacity-50 block mb-1">Audio Lecture • 12 mins</span>
+                                        <span class="text-[10px] font-bold opacity-50 block mb-1">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</span>
                                         <span class="text-lg font-bold group-hover:underline">{{ post.title }}</span>
                                     </a>
                                 </li>
@@ -110,7 +110,7 @@ permalink: /main/
                            {% for post in video_posts limit:2 %}
                                 <li>
                                     <a href="{{ post.url | relative_url }}" class="group block">
-                                        <span class="text-[10px] font-bold opacity-50 block mb-1">Video Session • 12 mins</span>
+                                        <span class="text-[10px] font-bold opacity-50 block mb-1">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</span>
                                         <span class="text-lg font-bold group-hover:underline">{{ post.title }}</span>
                                     </a>
                                 </li>
