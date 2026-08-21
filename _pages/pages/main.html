@@ -23,7 +23,7 @@ permalink: /main/
                 </div>
                 <p class="text-xl md:text-2xl font-bold leading-tight opacity-80">
                   {% if featured_post.summary %}
-                    {{ featured_post.summary | strip_html | truncatewords: 30 }}
+                    {{ featured_post.summary | strip_html }}
                   {% endif %}
                 </p>
             </div>
