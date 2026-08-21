@@ -17,8 +17,6 @@ muftis:
     url: /biography/muhammad-ibn-abdul-wahhab
 ---
 
-<img class="max-w-full h-auto mb-3" src="/assets/images/falseclaim.jpg"/>
-
 <img class="max-w-full h-auto" src="/assets/images/img.webp"/>
 
 The text in the provided image translates as follows:
