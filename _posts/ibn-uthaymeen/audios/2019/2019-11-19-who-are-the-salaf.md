@@ -16,7 +16,7 @@ active: audios
 featured: true
 translation: true
 lang: en
-summary: 'The Righteous Salaf are the Sahabah (Companions of the Prophet ﷺ) and those who followed their path among the Tabi’un (Successors), and the Atba’ al-Tabi’un (Successors of the Successors). They are the favored generations praised by the Messenger of Allah ﷺ and Allah said regarding them: “And the first to embrace Islam of the Muhajirun (those who migrated from Makkah to Al-Madinah) and the Ansar (the citizens of Al-Madinah who helped and gave aid to the Muhajirun) and also those who followed them exactly (in Faith). Allah is well-pleased with them as they are well-pleased with Him.”'
+summary: 'The Righteous Salaf are the Sahabah (Companions of the Prophet ﷺ) and those who followed their path among the Tabi’un (Successors), and the Atba’ al-Tabi’un (Successors of the Successors).'
 muftis:
   shaykh:
   - name: Shaykh Ibn Uthaymeen
