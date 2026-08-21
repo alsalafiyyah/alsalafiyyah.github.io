@@ -46,7 +46,7 @@ permalink: /main/
             <div class="flex flex-col items-start justify-end text-left pt-32 px-8 pb-8 bg-gradient-to-t from-black/90 via-black/40 to-transparent w-full">
                 <h3 class="flex items-center font-sans font-bold text-xs text-white mb-3">
                     <span class="w-2 h-2 rounded-full bg-red-500 flex-shrink-0 mr-2.5"></span>
-                    {{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}
+                    {{ article_post.hijri }} / {{ article_post.date | date: "%d.%m.%Y" }}
                 </h3>
                 <a href="{{ article_post.url | relative_url }}" class="text-white text-2xl font-bold hover:underline leading-snug">
                     {{ article_post.title }}
