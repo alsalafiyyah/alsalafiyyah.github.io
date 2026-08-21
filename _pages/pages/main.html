@@ -76,7 +76,7 @@ permalink: /main/
                     <!-- Recent Fatwas Panel -->
                     <div id="panel-recent" class="tab-panel space-y-6">
                         <ul class="space-y-6">
-    {% for post in site.posts limit:5 %}
+    {% for post in site.posts limit:2 %}
     {% if post.url == featured_post.url %}{% continue %}{% endif %}
     
     {% assign path_parts = post.path | split: '/' %}
@@ -96,7 +96,7 @@ permalink: /main/
                     <div id="panel-audio" class="tab-panel space-y-6 hidden">
                         <ul class="space-y-6">
                          {% assign posts = site.posts | where_exp: "post", "post.active == 'audios'" %}
-                          {% for post in posts limit:3 %}
+                          {% for post in posts limit:2 %}
                             <li>
                                 <a href="{{ post.url | relative_url }}" class="group block">
                                     <span class="text-[10px] font-bold opacity-50 block mb-1">Audio Lecture • 12 mins</span>
@@ -111,7 +111,7 @@ permalink: /main/
                     <div id="panel-video" class="tab-panel space-y-6 hidden">
                         <ul class="space-y-6">
                          {% assign posts = site.posts | where_exp: "post", "post.active == 'videos'" %}
-                          {% for post in posts limit:3 %}
+                          {% for post in posts limit:2 %}
                             <li>
                                 <a href="{{ post.url | relative_url }}" class="group block">
                                     <span class="text-[10px] font-bold opacity-50 block mb-1">Audio Lecture • 12 mins</span>
