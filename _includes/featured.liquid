@@ -21,7 +21,7 @@
                   {% endif %}
                 </p>
             </div>
-            <div>
+            <div class="hidden">
                 <a href="{{ featured_post.url | relative_url }}" class="inline-block bg-black text-white dark:bg-white dark:text-black px-10 py-5 font-black uppercase tracking-widest text-xs hover:scale-105 transition-transform">
                     {{ site.site_elements.read_more }} →
                 </a>
@@ -101,7 +101,7 @@
                     <!-- Recent Fatwas Panel -->
                     <div id="panel-recent" class="tab-panel space-y-6">
     <div class="md:col-span-3 col-span-12 space-y-6 py-6 flex flex-col">
-    {% for post in site.posts limit:4 %}
+    {% for post in site.posts limit:5 %}
      {% if post.url == featured_post.url %}{% continue %}{% endif %}
       <div class="flex flex-col">
         <h3 class="flex items-center font-sans font-bold text-xs text-gray-600 text-opacity-40 mb-3.5">
@@ -118,7 +118,7 @@
                     <div id="panel-audio" class="tab-panel space-y-6 hidden">
                             <div class="md:col-span-3 col-span-12 space-y-6 py-6 flex flex-col">
                            {% assign audio_posts = site.posts | where_exp: "post", "post.active == 'audios'" %}
-                           {% for post in audio_posts limit:4 %}
+                           {% for post in audio_posts limit:5 %}
       <div class="flex flex-col">
         <h3 class="flex items-center font-sans font-bold text-xs text-gray-600 text-opacity-40 mb-3.5">
           <span class="w-2 h-2 rounded-full bg-red-500 flex-shrink-0 mr-2.5"></span>
@@ -134,7 +134,7 @@
                     <div id="panel-video" class="tab-panel space-y-6 hidden">
                         <div class="flex flex-col space-y-6">
                            {% assign video_posts = site.posts | where_exp: "post", "post.active == 'videos'" %}
-                           {% for post in video_posts limit:4 %}
+                           {% for post in video_posts limit:5 %}
                             <div class="flex items-start">
                               <img src="https://img.youtube.com/vi/{{ post.videoID }}/maxresdefault.jpg" alt="{{ post.title }}" class="w-20 h-20 flex-shrink-0 mr-4 object-cover" />
                               <div class="flex-grow min-w-0 flex flex-col">
