@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: no_sidebar
 title: "Index"
 permalink: /main/
 ---
@@ -39,7 +39,8 @@ permalink: /main/
         <div class="col-span-1 relative bg-cover bg-no-repeat bg-center flex flex-col justify-end min-h-[450px] overflow-hidden lg:col-span-1" style="background-image:url('https://alsalafiyyah.github.io/assets/images/falseclaim.jpg')">
             <!-- Top Badge -->
             <span class="text-xs font-sans font-bold text-white absolute left-6 top-6 pb-2.5 border-b-2 border-red-500 z-10">Article</span>
-            
+           {% for post in site.posts %}
+            {% if post.slug == '/the-truth-behind-the-circulated-image-of-imam-muhammad-bin-abdul-wahhab/' %}
             <!-- Gradient Overlay & Content -->
             <div class="flex flex-col items-start justify-end text-left pt-32 px-8 pb-8 bg-gradient-to-t from-black/90 via-black/40 to-transparent w-full">
                 <h3 class="flex items-center font-sans font-bold text-xs text-red-500 mb-3">
@@ -47,9 +48,11 @@ permalink: /main/
                     Article
                 </h3>
                 <a href="#" class="text-white text-2xl font-bold hover:underline leading-snug">
-                    The Truth Behind the Circulated Image of Imam Muhammad bin Abd al-Wahhab
+                    {{ post.title }}
                 </a>
             </div>
+          {% endif %}
+         {% endfor %}
         </div>
 
         <!-- Column 3 -->
