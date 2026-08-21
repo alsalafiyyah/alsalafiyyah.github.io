@@ -7,6 +7,7 @@ date: 2026-08-01
 lang: en
 translation: false
 source: Muqolat no. 3041
+active: muqolat
 summary: Many people insist on resembling animals in their traits, carrying a portion
   of those traits based on whatever nature dominates them.
 category:

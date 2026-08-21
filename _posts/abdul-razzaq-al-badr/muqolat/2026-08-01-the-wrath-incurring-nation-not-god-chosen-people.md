@@ -15,6 +15,7 @@ category:
 - palestine
 - non-muslim
 link: https://www.al-badr.net/muqolat/2565
+active: muqolat
 muftis:
   shaykh:
   - name: Shaykh Abdul Razzaq al-Badr

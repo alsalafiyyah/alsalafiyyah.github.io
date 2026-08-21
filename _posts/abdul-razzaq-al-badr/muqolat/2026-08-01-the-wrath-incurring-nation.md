@@ -6,6 +6,7 @@ title: The Wrath-Incurring Nation
 date: 2026-08-01
 lang: en
 translation: false
+active: muqolat
 source: Muqolat No. 2566
 summary: The Noble Quran is a Book of guidance, clarification, counsel, and direction.
   In it is news of what came before us, information of what comes after us, and a
