@@ -10,6 +10,7 @@ category:
 - wahhabism
 active: muqolat
 summary: "This information is incorrect. The person sitting on the chair is Sheikh Abdullah bin Isa bin Ali Al Khalifa, a son of the ruler of Bahrain."
+img: "/assets/images/falseclaim.jpg"
 muftis:
   shaykh:
   - name: Shaykh Muhammad ibn Abdul-Wahhab

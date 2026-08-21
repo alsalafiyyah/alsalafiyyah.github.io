@@ -9,8 +9,8 @@ permalink: /main/
     <!-- Main 3-Column Grid Container -->
     <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 items-start">
 
-    {% if featured_post %}
-        <!-- Column 1 -->
+        {% if featured_post %}
+        <!-- Column 1: Featured Post (Title, Date, Excerpt, Read Button) -->
         <div class="flex flex-col justify-between h-full space-y-8 lg:col-span-1">
             <div>
                 <h2 class="text-5xl md:text-[4vw] lg:text-5xl font-black uppercase tracking-tighter leading-[0.8] serif mb-8">
@@ -33,34 +33,34 @@ permalink: /main/
                 </a>
             </div>
         </div>
-       {% endif %}
+        {% endif %}
 
-        <!-- Column 2  -->
+        <!-- Column 2: Article Card with Background Image -->
+        {% assign article_post = site.posts | where: "slug", "the-truth-behind-the-circulated-image-of-imam-muhammad-bin-abdul-wahhab" | first %}
         <div class="col-span-1 relative bg-cover bg-no-repeat bg-center flex flex-col justify-end min-h-[450px] overflow-hidden lg:col-span-1" style="background-image:url('https://alsalafiyyah.github.io/assets/images/falseclaim.jpg')">
             <!-- Top Badge -->
             <span class="text-xs font-sans font-bold text-white absolute left-6 top-6 pb-2.5 border-b-2 border-red-500 z-10">Article</span>
-           {% for post in site.posts %}
-            {% if post.slug == '/the-truth-behind-the-circulated-image-of-imam-muhammad-bin-abdul-wahhab/' %}
+            
+            {% if article_post %}
             <!-- Gradient Overlay & Content -->
             <div class="flex flex-col items-start justify-end text-left pt-32 px-8 pb-8 bg-gradient-to-t from-black/90 via-black/40 to-transparent w-full">
                 <h3 class="flex items-center font-sans font-bold text-xs text-red-500 mb-3">
                     <span class="w-2 h-2 rounded-full bg-red-500 flex-shrink-0 mr-2.5"></span>
                     Article
                 </h3>
-                <a href="#" class="text-white text-2xl font-bold hover:underline leading-snug">
-                    {{ post.title }}
+                <a href="{{ article_post.url | relative_url }}" class="text-white text-2xl font-bold hover:underline leading-snug">
+                    {{ article_post.title }}
                 </a>
             </div>
-          {% endif %}
-         {% endfor %}
+            {% endif %}
         </div>
 
-        <!-- Column 3 -->
+        <!-- Column 3: Tabbed Content (Recent, Audio, Video Fatwas) -->
         <div class="flex flex-col justify-between h-full space-y-6 lg:col-span-1 border-t-2 lg:border-t-0 lg:border-l-2 border-black/10 dark:border-white/10 lg:pl-12 pt-8 lg:pt-0" id="fatwa-tabs-container">
             <div>
                 <!-- Tab Navigation Headers -->
-                <div class="flex items-center gap-4 mb-6 border-b-2 border-b-2 border-yellow-700 border-opacity-10 space-x-8 dark:border-white/10 pb-3 text-xs font-black uppercase tracking-wider overflow-x-auto">
-                    <button type="button" data-tab="recent" class="tab-btn text-black dark:text-white border-b-2 border-b-2 border-red-500 dark:border-white pb-1 transition-colors whitespace-nowrap">
+                <div class="flex items-center gap-4 mb-6 border-b-2 border-yellow-700 border-opacity-10 space-x-8 dark:border-white/10 pb-3 text-xs font-black uppercase tracking-wider overflow-x-auto">
+                    <button type="button" data-tab="recent" class="tab-btn text-black dark:text-white border-b-2 border-red-500 dark:border-white pb-1 transition-colors whitespace-nowrap">
                         Recent
                     </button>
                     <button type="button" data-tab="audio" class="tab-btn text-gray-400 hover:text-black dark:hover:text-white pb-1 transition-colors whitespace-nowrap">
@@ -76,65 +76,61 @@ permalink: /main/
                     <!-- Recent Fatwas Panel -->
                     <div id="panel-recent" class="tab-panel space-y-6">
                         <ul class="space-y-6">
-    {% for post in site.posts limit:2 %}
-    {% if post.url == featured_post.url %}{% continue %}{% endif %}
-    
-    {% assign path_parts = post.path | split: '/' %}
-    {% assign scholar_slug = path_parts[1] %}
-    {% assign scholar_name = scholar_slug | replace: "-", " " | uppercase %}
-                            <li>
-                                <a href="{{ post.url | relative_url }}" class="group block">
-                                    <span class="text-[10px] font-bold opacity-50 block mb-1">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</span>
-                                    <span class="text-lg font-bold group-hover:underline">{{ post.title }}</span>
-                                </a>
-                            </li>
-                         {% endfor %}
+                            {% for post in site.posts limit:2 %}
+                                {% if post.url == featured_post.url %}{% continue %}{% endif %}
+                                <li>
+                                    <a href="{{ post.url | relative_url }}" class="group block">
+                                        <span class="text-[10px] font-bold opacity-50 block mb-1">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</span>
+                                        <span class="text-lg font-bold group-hover:underline">{{ post.title }}</span>
+                                    </a>
+                                </li>
+                            {% endfor %}
                         </ul>
                     </div>
 
                     <!-- Audio Fatwas Panel -->
                     <div id="panel-audio" class="tab-panel space-y-6 hidden">
                         <ul class="space-y-6">
-                         {% assign posts = site.posts | where_exp: "post", "post.active == 'audios'" %}
-                          {% for post in posts limit:2 %}
-                            <li>
-                                <a href="{{ post.url | relative_url }}" class="group block">
-                                    <span class="text-[10px] font-bold opacity-50 block mb-1">Audio Lecture • 12 mins</span>
-                                    <span class="text-lg font-bold group-hover:underline">{{ post.title }}</span>
-                                </a>
-                            </li>
-                         {% endfor %}
+                           {% assign audio_posts = site.posts | where_exp: "post", "post.active == 'audios'" %}
+                           {% for post in audio_posts limit:2 %}
+                                <li>
+                                    <a href="{{ post.url | relative_url }}" class="group block">
+                                        <span class="text-[10px] font-bold opacity-50 block mb-1">Audio Lecture • 12 mins</span>
+                                        <span class="text-lg font-bold group-hover:underline">{{ post.title }}</span>
+                                    </a>
+                                </li>
+                           {% endfor %}
                         </ul>
                     </div>
 
                     <!-- Video Fatwas Panel -->
                     <div id="panel-video" class="tab-panel space-y-6 hidden">
                         <ul class="space-y-6">
-                         {% assign posts = site.posts | where_exp: "post", "post.active == 'videos'" %}
-                          {% for post in posts limit:2 %}
-                            <li>
-                                <a href="{{ post.url | relative_url }}" class="group block">
-                                    <span class="text-[10px] font-bold opacity-50 block mb-1">Audio Lecture • 12 mins</span>
-                                    <span class="text-lg font-bold group-hover:underline">{{ post.title }}</span>
-                                </a>
-                            </li>
-                         {% endfor %}
+                           {% assign video_posts = site.posts | where_exp: "post", "post.active == 'videos'" %}
+                           {% for post in video_posts limit:2 %}
+                                <li>
+                                    <a href="{{ post.url | relative_url }}" class="group block">
+                                        <span class="text-[10px] font-bold opacity-50 block mb-1">Video Session • 12 mins</span>
+                                        <span class="text-lg font-bold group-hover:underline">{{ post.title }}</span>
+                                    </a>
+                                </li>
+                           {% endfor %}
                         </ul>
                     </div>
                 </div>
             </div>
 
-      <div class="flex flex-col w-full">
-        <div class="w-full flex h-0.5 bg-yellow-700 bg-opacity-10">
-          <div class="w-1/2 bg-red-500 h-full">
-          </div>
-        </div>
-        <a href="{{ '/fatwas' | relative_url }}" class="font-sans text-xs uppercase font-bold pt-5 flex w-full">See more Fatwas
-          <svg viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" class="w-3.5 ml-auto text-red-500">
-            <line x1="5" y1="12" x2="19" y2="12"></line>
-            <polyline points="12 5 19 12 12 19"></polyline>
-          </svg></a>
-      </div>
+            <div class="flex flex-col w-full">
+                <div class="w-full flex h-0.5 bg-yellow-700 bg-opacity-10">
+                    <div class="w-1/2 bg-red-500 h-full"></div>
+                </div>
+                <a href="{{ '/fatwas' | relative_url }}" class="font-sans text-xs uppercase font-bold pt-5 flex w-full">See more Fatwas
+                    <svg viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" class="w-3.5 ml-auto text-red-500">
+                        <line x1="5" y1="12" x2="19" y2="12"></line>
+                        <polyline points="12 5 19 12 12 19"></polyline>
+                    </svg>
+                </a>
+            </div>
 
         </div>
 
