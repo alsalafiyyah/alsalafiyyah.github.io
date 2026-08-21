@@ -4,7 +4,7 @@ title: "Index"
 permalink: /main/
 ---
 
-<section class="mb-6 pb-12 mt-10">
+<section class="mb-6 pb-12">
 
     <!-- Main 3-Column Grid Container -->
     <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 items-start">
@@ -106,37 +106,39 @@ permalink: /main/
                 <div class="tab-contents">
                     <!-- Recent Fatwas Panel -->
                     <div id="panel-recent" class="tab-panel space-y-6">
-                        <ul class="space-y-6 list-none">
-                            {% for post in site.posts limit:4 %}
-                                {% if post.url == featured_post.url %}{% continue %}{% endif %}
-                                <li>
-                                    <a href="{{ post.url | relative_url }}" class="group block">
-                                        <span class="text-[10px] font-bold opacity-50 block mb-1">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</span>
-                                        <span class="text-lg font-bold group-hover:underline block">{{ post.title }}</span>
-                                    </a>
-                                </li>
-                            {% endfor %}
-                        </ul>
+    <div class="md:col-span-3 col-span-12 space-y-6 py-6 flex flex-col">
+    {% for post in site.posts limit:4 %}
+     {% if post.url == featured_post.url %}{% continue %}{% endif %}
+      <div class="flex flex-col">
+        <h3 class="flex items-center font-sans font-bold text-xs text-gray-600 text-opacity-40 mb-3.5">
+          <span class="w-2 h-2 rounded-full bg-red-500 flex-shrink-0 mr-2.5"></span>
+          {{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}
+        </h3>
+        <a href="{{ post.url | relative_url }}" class="font-medium hover:underline">{{ post.title }}</a>
+      </div>
+     {% endfor %}
+    </div>
                     </div>
 
                     <!-- Audio Fatwas Panel -->
                     <div id="panel-audio" class="tab-panel space-y-6 hidden">
-                        <ul class="space-y-6 list-none">
+                            <div class="md:col-span-3 col-span-12 space-y-6 py-6 flex flex-col">
                            {% assign audio_posts = site.posts | where_exp: "post", "post.active == 'audios'" %}
                            {% for post in audio_posts limit:4 %}
-                                <li>
-                                    <a href="{{ post.url | relative_url }}" class="group block">
-                                        <span class="text-[10px] font-bold opacity-50 block mb-1">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</span>
-                                        <span class="text-lg font-bold group-hover:underline block">{{ post.title }}</span>
-                                    </a>
-                                </li>
+      <div class="flex flex-col">
+        <h3 class="flex items-center font-sans font-bold text-xs text-gray-600 text-opacity-40 mb-3.5">
+          <span class="w-2 h-2 rounded-full bg-red-500 flex-shrink-0 mr-2.5"></span>
+          {{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}
+        </h3>
+        <a href="{{ post.url | relative_url }}" class="font-medium hover:underline">{{ post.title }}</a>
+      </div>
                            {% endfor %}
-                        </ul>
+                        </div>
                     </div>
 
                     <!-- Video Fatwas Panel -->
                     <div id="panel-video" class="tab-panel space-y-6 hidden">
-                        <div class="flex flex-col space-y-8">
+                        <div class="flex flex-col space-y-6">
                            {% assign video_posts = site.posts | where_exp: "post", "post.active == 'videos'" %}
                            {% for post in video_posts limit:4 %}
                             <div class="flex items-start">
