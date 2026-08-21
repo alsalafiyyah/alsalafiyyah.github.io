@@ -7,6 +7,8 @@ date: 2026-08-01
 lang: en
 translation: false
 source: Muqolat No. 2565
+featured_muqolat: true
+img: "/assets/images/illustration.jfif"
 summary: The enmity of the Jews toward Islam is an ancient enmity dating back to the
   first dawn of Islam. Their animosity and hatred toward its people are well known
   to both the common and elite, in ancient times and modern.
