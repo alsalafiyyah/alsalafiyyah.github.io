@@ -100,7 +100,7 @@ permalink: /main/
                 <div class="tab-contents">
                     <!-- Recent Fatwas Panel -->
                     <div id="panel-recent" class="tab-panel space-y-6">
-                        <ul class="space-y-6">
+                        <ul class="space-y-6 list-none">
                             {% for post in site.posts limit:4 %}
                                 {% if post.url == featured_post.url %}{% continue %}{% endif %}
                                 <li>
@@ -115,7 +115,7 @@ permalink: /main/
 
                     <!-- Audio Fatwas Panel -->
                     <div id="panel-audio" class="tab-panel space-y-6 hidden">
-                        <ul class="space-y-6">
+                        <ul class="space-y-6 list-none">
                            {% assign audio_posts = site.posts | where_exp: "post", "post.active == 'audios'" %}
                            {% for post in audio_posts limit:4 %}
                                 <li>
