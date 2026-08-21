@@ -79,7 +79,7 @@ permalink: /main/
                     <!-- Recent Fatwas Panel -->
                     <div id="panel-recent" class="tab-panel space-y-6">
                         <ul class="space-y-6">
-                            {% for post in site.posts limit:2 %}
+                            {% for post in site.posts limit:3 %}
                                 {% if post.url == featured_post.url %}{% continue %}{% endif %}
                                 <li>
                                     <a href="{{ post.url | relative_url }}" class="group block">
@@ -95,7 +95,7 @@ permalink: /main/
                     <div id="panel-audio" class="tab-panel space-y-6 hidden">
                         <ul class="space-y-6">
                            {% assign audio_posts = site.posts | where_exp: "post", "post.active == 'audios'" %}
-                           {% for post in audio_posts limit:2 %}
+                           {% for post in audio_posts limit:3 %}
                                 <li>
                                     <a href="{{ post.url | relative_url }}" class="group block">
                                         <span class="text-[10px] font-bold opacity-50 block mb-1">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</span>
@@ -110,7 +110,7 @@ permalink: /main/
                     <div id="panel-video" class="tab-panel space-y-6 hidden">
                         <ul class="space-y-6">
                            {% assign video_posts = site.posts | where_exp: "post", "post.active == 'videos'" %}
-                           {% for post in video_posts limit:2 %}
+                           {% for post in video_posts limit:3 %}
                                 <li>
                                     <a href="{{ post.url | relative_url }}" class="group block">
                                         <span class="text-[10px] font-bold opacity-50 block mb-1">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</span>
@@ -124,7 +124,7 @@ permalink: /main/
                     <div id="panel-muqolat" class="tab-panel space-y-6 hidden">
                         <ul class="space-y-6">
                            {% assign muqolat = site.posts | where_exp: "post", "post.active == 'muqolat'" %}
-                           {% for post in muqolat limit:2 %}
+                           {% for post in muqolat limit:3 %}
                                 <li>
                                     <a href="{{ post.url | relative_url }}" class="group block">
                                         <span class="text-[10px] font-bold opacity-50 block mb-1">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</span>
