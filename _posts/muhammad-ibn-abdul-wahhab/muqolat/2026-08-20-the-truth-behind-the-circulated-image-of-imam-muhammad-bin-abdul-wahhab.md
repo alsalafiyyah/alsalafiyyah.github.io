@@ -17,7 +17,11 @@ muftis:
     url: /biography/muhammad-ibn-abdul-wahhab
 ---
 
-<img class="max-w-full h-auto" src="/assets/images/img.webp"/>
+Many websites circulate a certain old photograph claiming it is a picture of **[Imam Muhammad bin Abdul-Wahhab bin Sulaiman bin Ali At-Tamimi Al-Najdi Al-Hanbali](/biography/muhammad-ibn-abdul-wahhab/)**. In reality, that photograph depicts Sheikh Abdullah bin Isa bin Ali Al Khalifa (seated) alongside the Bahraini poet Muhammad al-Faihani standing behind him. 
+
+Regarding the character of "[Mr. Hempher](https://en.wikipedia.org/wiki/Memoirs_of_Mr._Hempher,_The_British_Spy_to_the_Middle_East)" is entirely fictional and does not exist in reality. It was invented by the 19th-century Turkish historian Ayyub Sabri Pasha, who published fabricated "memoirs" in Turkish in 1888 claiming to be a British spy who recruited Muhammad ibn Abd al-Wahhab in Basra in 1712. Historically, in 1712, Sheikh Muhammad ibn Abd al-Wahhab was only 9 years old! Furthermore, no Ottoman or British archives, nor any reputable contemporary historians (such as Al-Jabarti, Ibn Bishr, or Ibn Ghannam, etc), ever mentioned this character, and Western historians like George Saliba and Bernard Haykel have dismissed it as a myth born out of Ottoman political hostility toward the Najdi reform movement.
+
+<img class="max-w-full h-auto mt-3 mb-3" src="/assets/images/img.webp"/>
 
 The text in the provided image translates as follows:
 
