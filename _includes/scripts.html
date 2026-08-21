@@ -389,6 +389,35 @@ document.addEventListener("DOMContentLoaded", function () {
 </script>
 <script>
 document.addEventListener("DOMContentLoaded", () => {
+    // --- 1. Fatwa Tabs Switcher Logic ---
+    const container = document.getElementById("fatwa-tabs-container");
+    if (container) {
+        const buttons = container.querySelectorAll(".tab-btn");
+        const panels = container.querySelectorAll(".tab-panel");
+
+        buttons.forEach(btn => {
+            btn.addEventListener("click", () => {
+                const targetTab = btn.getAttribute("data-tab");
+
+                buttons.forEach(b => {
+                    b.classList.remove("text-black", "dark:text-white", "border-b-2", "border-black", "dark:border-white");
+                    b.classList.add("text-gray-400");
+                });
+                btn.classList.remove("text-gray-400");
+                btn.classList.add("text-black", "dark:text-white", "border-b-2", "border-black", "dark:border-white");
+
+                panels.forEach(panel => {
+                    if (panel.id === `panel-${targetTab}`) {
+                        panel.classList.remove("hidden");
+                    } else {
+                        panel.classList.add("hidden");
+                    }
+                });
+            });
+        });
+    }
+
+    // --- 2. Prayer Times Widget Logic ---
     let currentCity = localStorage.getItem("prayer_city") || "Riyadh";
     let currentCountry = localStorage.getItem("prayer_country") || "Saudi Arabia";
     const method = 4; 
@@ -404,7 +433,7 @@ document.addEventListener("DOMContentLoaded", () => {
         countryInput.value = currentCountry;
     }
 
-    if (toggleBtn) {
+    if (toggleBtn && locationForm) {
         toggleBtn.addEventListener("click", () => {
             locationForm.classList.toggle("hidden");
             toggleBtn.textContent = locationForm.classList.contains("hidden") ? "Edit" : "Close";
@@ -440,7 +469,7 @@ async function fetchPrayerTimes(city, country, method) {
     }
     
     prayerListEl.innerHTML = `
-        <div class="flex flex-col items-center justify-center p-3 rounded-xl text-xs animate-pulse bg-gray-50 dark:bg-zinc-800/50 min-w-[110px] md:min-w-0 col-span-full">
+        <div class="flex flex-col items-center justify-center p-4 text-xs animate-pulse bg-gray-100 dark:bg-zinc-900 border border-black/10 dark:border-white/10 min-w-[110px] md:min-w-0 col-span-full">
             <span class="text-gray-400 dark:text-zinc-500 font-medium">Loading timings...</span>
             <span class="text-gray-400 dark:text-zinc-500 font-bold">--:--</span>
         </div>
@@ -456,11 +485,9 @@ async function fetchPrayerTimes(city, country, method) {
             const data = result.data;
             const timings = data.timings;
             
-            // Display Gregorian Date
             const dateEl = document.getElementById("prayer-date");
             if (dateEl) dateEl.textContent = data.date.readable;
 
-            // Display Hijri Date
             const hijri = data.date.hijri;
             const hijriDateEl = document.getElementById("prayer-hijri-date");
             if (hijriDateEl) {
@@ -481,11 +508,11 @@ async function fetchPrayerTimes(city, country, method) {
             targetPrayers.forEach(prayer => {
                 let time12 = formatTimeTo12Hour(timings[prayer.key]);
                 const card = document.createElement("div");
-                card.className = "flex flex-col items-center justify-center p-3 rounded-xl text-xs font-bold uppercase tracking-wider transition-colors bg-gray-50/50 dark:bg-zinc-800/30 hover:bg-gray-50 dark:hover:bg-zinc-800 border border-gray-100 dark:border-zinc-800 hover:border-gray-200 dark:hover:border-zinc-700 text-center min-w-[110px] flex-shrink-0 md:flex-shrink md:min-w-0";
+                card.className = "flex flex-col items-center justify-center p-4 text-xs font-bold uppercase tracking-wider transition-colors bg-gray-50 dark:bg-zinc-900 hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black border border-black/10 dark:border-white/10 text-center min-w-[110px] flex-shrink-0 md:flex-shrink md:min-w-0 group";
                 
                 card.innerHTML = `
-                    <span class="text-[10px] text-gray-400 dark:text-zinc-500 mb-1">${prayer.label}</span>
-                    <span class="text-black dark:text-white font-black text-xs sm:text-sm">${time12}</span>
+                    <span class="text-[10px] text-gray-400 dark:text-zinc-500 group-hover:text-gray-300 dark:group-hover:text-zinc-600 mb-1">${prayer.label}</span>
+                    <span class="text-black dark:text-white group-hover:text-white dark:group-hover:text-black font-black text-xs sm:text-sm">${time12}</span>
                 `;
                 prayerListEl.appendChild(card);
             });
