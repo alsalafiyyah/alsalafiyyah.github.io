@@ -59,7 +59,7 @@ permalink: /main/
         <div class="flex flex-col justify-between h-full space-y-6 lg:col-span-1 border-t-2 lg:border-t-0 lg:border-l-2 border-black/10 dark:border-white/10 lg:pl-12 pt-8 lg:pt-0" id="fatwa-tabs-container">
             <div>
                 <!-- Tab Navigation Headers -->
-                <div class="flex items-center gap-4 mb-6 border-b-2 border-yellow-700 border-opacity-10 space-x-8 dark:border-white/10 pb-3 text-xs font-black uppercase tracking-wider overflow-x-auto">
+                <div class="flex items-center gap-4 mb-6 border-b-2 border-yellow-700 border-opacity-10 space-x-6 dark:border-white/10 pb-3 text-xs font-black uppercase tracking-wider overflow-x-auto">
                     <button type="button" data-tab="recent" class="tab-btn text-black dark:text-white border-b-2 border-red-500 dark:border-white pb-1 transition-colors whitespace-nowrap">
                         Recent
                     </button>
@@ -68,6 +68,9 @@ permalink: /main/
                     </button>
                     <button type="button" data-tab="video" class="tab-btn text-gray-400 hover:text-black dark:hover:text-white pb-1 transition-colors whitespace-nowrap">
                         Videos
+                    </button>
+                    <button type="button" data-tab="muqolat" class="tab-btn text-gray-400 hover:text-black dark:hover:text-white pb-1 transition-colors whitespace-nowrap">
+                        Muqolat
                     </button>
                 </div>
 
@@ -117,6 +120,21 @@ permalink: /main/
                            {% endfor %}
                         </ul>
                     </div>
+                    <!-- Muqolat Panel -->
+                    <div id="panel-video" class="tab-panel space-y-6 hidden">
+                        <ul class="space-y-6">
+                           {% assign muqolat = site.posts | where_exp: "post", "post.active == 'muqolat'" %}
+                           {% for post in muqolat limit:2 %}
+                                <li>
+                                    <a href="{{ post.url | relative_url }}" class="group block">
+                                        <span class="text-[10px] font-bold opacity-50 block mb-1">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</span>
+                                        <span class="text-lg font-bold group-hover:underline">{{ post.title }}</span>
+                                    </a>
+                                </li>
+                           {% endfor %}
+                        </ul>
+                    </div>
+
                 </div>
             </div>
 
