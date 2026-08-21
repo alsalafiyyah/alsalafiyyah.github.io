@@ -1,0 +1,29 @@
+---
+layout: null
+---
+{% capture head_content %}
+  {% include head.liquid %}
+{% endcapture %}
+{% capture navbar %}
+  {% include navbar.liquid %}
+{% endcapture %}
+{% capture featured_content %}
+  {% include featured.liquid %}
+{% endcapture %}
+{% capture footer_content %}
+  {% include footer.liquid %}
+{% endcapture %}
+<!DOCTYPE html>
+<html lang="{{ site.site_elements.lang }}" dir="{{ site.site_elements.dir }}">
+<head>
+{{ head_content }}
+</head>
+<body dir="{{ site.site_elements.dir }}" itemscope itemtype="https://schema.org/WebPage" class="bg-white dark:bg-zinc-950 dark:text-zinc-100 text-black antialiased selection:bg-black selection:text-white dark:selection:bg-white dark:selection:text-black transition-colors duration-300 is-preload">
+{{ navbar }}
+<main role="main" class="max-w-7xl mx-auto px-8">
+{{ featured_content }}
+</main>
+{{ footer_content }}
+{% include scripts.html %} 
+</body>
+</html>
