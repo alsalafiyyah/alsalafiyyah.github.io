@@ -31,7 +31,7 @@ The text in the provided image translates as follows:
 
 - This information is incorrect. 
 - The person sitting on the chair is Sheikh Abdullah bin Isa bin Ali Al Khalifa, a son of the ruler of Bahrain, and **not Imam Muhammad ibn Saud, the founder of the First Saudi State who passed away in 1765**. 
-- The other person standing next to him is Sheikh Muhammad bin Abd al-Wahhab al-Faihani, may Allah have mercy on him, the Bahraini pearl merchant who was born in Bahrain in 1863 and died in Bombay, India, in 1906, and **not the reformer Imam [Muhammad ibn Abd al-Wahhab](/biography/muhammad-ibn-abdul-wahhab/), who passed away in 1791**. 
+- The other person standing next to him is Sheikh Muhammad bin Abd al-Wahhab al-Faihani [al-Subai'i], may Allah have mercy on him, the Bahraini pearl merchant who was born in Bahrain in 1863 and died in Bombay, India, in 1906, and **not the reformer Imam [Muhammad ibn Abd al-Wahhab](/biography/muhammad-ibn-abdul-wahhab/), who passed away in 1791**. 
 - It is worth noting that the first photograph was taken in 1826, and the invention of photography was announced on August 19, 1839.
 
 Source: [صورة الإمام محمد بن عبدالوهاب الفوتوغرافية بين الكذب والحقيقة؟!](https://mujaddid.net/%d8%b5%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d9%85-%d8%a7%d9%84%d9%85%d8%ac%d8%af%d8%af-%d9%85%d8%ad%d9%85%d8%af%d8%a8%d9%86-%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%88%d9%87%d8%a7%d8%a8-%d8%a7/)
