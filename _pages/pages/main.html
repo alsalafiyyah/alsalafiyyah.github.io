@@ -106,7 +106,7 @@ permalink: /main/
                                 <li>
                                     <a href="{{ post.url | relative_url }}" class="group block">
                                         <span class="text-[10px] font-bold opacity-50 block mb-1">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</span>
-                                        <span class="text-lg font-bold group-hover:underline block truncate">{{ post.title }}</span>
+                                        <span class="text-lg font-bold group-hover:underline block">{{ post.title }}</span>
                                     </a>
                                 </li>
                             {% endfor %}
@@ -121,7 +121,7 @@ permalink: /main/
                                 <li>
                                     <a href="{{ post.url | relative_url }}" class="group block">
                                         <span class="text-[10px] font-bold opacity-50 block mb-1">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</span>
-                                        <span class="text-lg font-bold group-hover:underline block truncate">{{ post.title }}</span>
+                                        <span class="text-lg font-bold group-hover:underline block">{{ post.title }}</span>
                                     </a>
                                 </li>
                            {% endfor %}
