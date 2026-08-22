@@ -8,6 +8,7 @@ lang: en
 translation: false
 tags: ibn-uthaymeen
 source: "Liqa' al-Bab al-Maftuh, Tape 185"
+active: audios
 link: "https://binothaimeen.net/s/MMUkUh7a"
 category: 
 - audios
