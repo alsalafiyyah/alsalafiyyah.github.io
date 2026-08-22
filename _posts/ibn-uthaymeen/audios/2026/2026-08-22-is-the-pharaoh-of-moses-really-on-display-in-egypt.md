@@ -7,6 +7,7 @@ hijri: 1448-03-09
 lang: en
 translation: false
 tags: ibn-uthaymeen
+active: audios
 source: "Liqa' al-Bab al-Maftuh, Tape No. 183"
 link: "https://binothaimeen.net/s/5t5DTYpr"
 category: 
