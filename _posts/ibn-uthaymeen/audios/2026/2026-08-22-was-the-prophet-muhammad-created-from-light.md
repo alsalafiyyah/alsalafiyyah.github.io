@@ -12,7 +12,8 @@ category:
 - audios 
 - history
 - prophets
-link: ""
+link: "https://binothaimeen.net/s/YCjVzKWp"
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_331_23.mp3
 active: audios
 summary: "This statement is batil (false). Muhammad ﷺ is from the children of Adam; the lineage of his fathers and grandfathers is well-known."
 muftis:
