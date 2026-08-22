@@ -5,7 +5,7 @@ date: 2026-05-19
 title: "Is the Story of the Spider\u2019s Web at Cave Thawr Authentic?"
 source: Liqa'a al-Bab al-Maftuh, Tape 229, Question no.5
 category:
-- fatwas
+- history
 - audios
 tags:
 - ibn-uthaymeen

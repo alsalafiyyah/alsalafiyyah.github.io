@@ -6,7 +6,7 @@ hijri: '1447-11-08'
 title: When Did Bid'ah Become Known?
 source: Fatawa Nur Ala ad-Darb, tape no.287-02
 category:
-- fatwas
+- history
 - audios
 - bidah
 - sects
@@ -22,6 +22,7 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
+
 ### Question: 
 
 When did innovation (bid'ah) first appear? And when did it become known?

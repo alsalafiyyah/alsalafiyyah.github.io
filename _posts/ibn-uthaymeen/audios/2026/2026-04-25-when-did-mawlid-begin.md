@@ -6,7 +6,7 @@ hijri: '1447-11-08'
 title: When Did Mawlid Begin?
 source: Fatawa Nur Ala ad-Darb, tape no.375
 category:
-- fatwas
+- history
 - audios
 - bidah
 tags:
@@ -21,11 +21,12 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
+
 ### Question: 
 
 When did the innovation (bid’ah) of the Mawlid (Prophet's birthday) first appear?
 
 ### Answer:
 
-It appeared in the fourth century [AH]. This means the three favored centuries passed without anyone observing it. It was established in the fourth century, then became more common, widespread, and deeply rooted in the seventh century. Praise be to Allah, there are written works that clarify the origins of this innovation (bid’ah), its foundation, and its standing in the Sharia, and [confirming] that it has no basis in the law (Sharia) of Allah. Yes.
+It appeared in the fourth century [AH]. This means the three favored centuries passed without anyone observing it. It was established in the fourth century, then became more common, widespread, and deeply rooted in the seventh century. Praise be to Allah, there are written works that clarify the origins of this innovation (bid’ah), its foundation, and its standing in the Sharia, and [confirming] that it has no basis in the Sharia (law) of Allah. Yes.
 
