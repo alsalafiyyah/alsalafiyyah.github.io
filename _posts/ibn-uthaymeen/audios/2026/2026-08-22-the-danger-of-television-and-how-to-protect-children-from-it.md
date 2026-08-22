@@ -10,6 +10,7 @@ tags: ibn-uthaymeen
 source: "Liqa' al-Bab al-Maftuh, Tape 185"
 active: audios
 link: "https://binothaimeen.net/s/MMUkUh7a"
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_185_08.mp3
 category: 
 - audios
 summary: "​By Allah! My brother, to Allah we complain. One should not be surprised that foreign media outlets broadcast what corrupts beliefs, thoughts, and morals, because they are enemies."
