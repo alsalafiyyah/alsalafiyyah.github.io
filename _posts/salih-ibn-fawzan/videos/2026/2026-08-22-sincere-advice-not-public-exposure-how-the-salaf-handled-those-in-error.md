@@ -8,6 +8,7 @@ tags:
 - salih-ibn-fawzan
 category:
 - videos
+- manhaj
 active: videos
 videoURL: https://youtu.be/ZCJVxXRZEmY
 videoID: ZCJVxXRZEmY
