@@ -12,7 +12,7 @@ category:
 - audios 
 - history
 link: "https://binothaimeen.net/s/qfJh7LoK"
-mp3: ""
+mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_186_24.mp3"
 active: audios
 summary: "Do you really think Pharaoh's body would remain intact while the Children of Israel inherited his land, only for them to turn him into a museum exhibit?"
 muftis:
