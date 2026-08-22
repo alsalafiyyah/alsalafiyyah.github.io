@@ -13,6 +13,7 @@ category:
 - history
 - prophets
 link: "https://binothaimeen.net/s/EBugvAmx"
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_047_10.mp3
 active: audios
 summary: "The children of the Prophet ﷺ are considered Sahabah (Companions)"
 muftis:
