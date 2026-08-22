@@ -10,6 +10,7 @@ tags: ibn-uthaymeen
 active: audios
 source: "Liqa' al-Bab al-Maftuh, Tape No. 183"
 link: "https://binothaimeen.net/s/5t5DTYpr"
+mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_183_15.mp3
 category: 
 - history
 summary: "​A man in the middle of the sea, experiencing punishment—how could anyone have dared to retrieve this body from the sea?"
