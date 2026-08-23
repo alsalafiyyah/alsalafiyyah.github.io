@@ -2,11 +2,11 @@
 layout: post
 title: "Ruling on making distinctions between the prophets and deeming one of them to be superior to others"
 publisher: "alsalafiyyah@icloud.com"
-source: "Fatawa Al-Lajnah Ad-Da'imah no. 1000-6"
-hijri: '1442-01-08'
+source: "Fatawa Al-Lajnah Ad-Da'imah, Fatwa no. 1000 question 6"
+hijri: 1442-01-08
 date: 2020-08-27
 lang:en
-category: ["prophets"]
+category: prophets
 group20: true
 summary: "We should believe in the mission of any messenger that has been authentically reported in the Qur'an or Sunnah to have had a mission."
 ---
@@ -37,7 +37,6 @@ So, the Prophet (peace be upon him) has forbidden involvement in comparing betwe
 
 May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions.
 
----
 [^1]: Ahmad, vol. 5, p. 540; Muslim, no. 2278; Abu Dawud, no. 4673; and Ibn Khuzaymah, Al-Tawhid, no. 362.'
 [^2]: Al-Darimi, vol. 1, p. 31; and Al-Bayhaqy, Al-Dala*il, vol. 5, p. 480, from the Hadith narrated by Jabir ibn `Abdullah.
 [^3]: Ahmad, vol. 2, pp. 341 and 451; Muslim, no. 196; Ibn Majah, no. 4356; and Ibn Abu Shaybah, Al-Musannaf, vol. 11, p. 503.
