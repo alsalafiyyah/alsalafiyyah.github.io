@@ -24,6 +24,7 @@ muftis:
     url: /biography/abdul-razzaq-al-badr
 hijri: '1448-02-18'
 ---
+
 Anyone who reflects upon history across its long course, and contemplates the conditions, manners, and dealings of nations, will find that the nation with the worst morals and the most evil conduct is the nation of the Jews—that wrath-incurring, cursed nation. A nation of falsehood, tyranny, debauchery, disobedience, disbelief, and atheism; a nation abhorred by people due to the harshness of their hearts, the severity of their hatred and envy, and the greatness of their transgression and tyranny. 
 
 They possess a brutal and savage nature in which none rivals them. Whenever they sense strength, influence, control, or power, they attack those they oppose like a wild beast attacking its prey, observing toward none any pact or treaty, nor honoring any covenant or pledge. No nation among all nations is known to have harder hearts or harsher minds than this nation. Criminality, injustice, aggression, tyranny, and slander have been attached to them since ancient times. 
@@ -93,4 +94,8 @@ We must also realize that the temporary triumph of this despicable sect and fors
 Thus, there must be a sincere return and praiseworthy repentance to Allah—Exalted and Majestic is He—involving a correction of faith, a connection with the Most Merciful, a commitment to obedience and good deeds, and an avoidance of and caution against immorality and disobedience, so that the believers may attain honor, empowerment, victory, and support.
 
 > **“Allah has promised those among you who believe, and do righteous good deeds, that He will certainly grant them succession to (the present rulers) in the earth, as He granted it to those before them, and that He will grant them the authority to practise their religion, that which He has chosen for them (i.e. Islam). And He will surely give them in exchange a safe security after their fear (provided) they (believers) worship Me and do not associate anything (in worship) with Me. But whoever disbelieved after this, they are the Fasiqun (rebellious, disobedient to Allah). And perform As-Salat (Iqamat-as-Salat), and give Zakat and obey the Messenger (Muhammad ﷺ) that you may receive mercy (from Allah).”** [An-Nur: 55-56]
+
+### Read also:
+
+[The Wrath-Incurring Nation](/muqolat/the-wrath-incurring-nation/)
 

@@ -22,6 +22,7 @@ muftis:
     url: /biography/abdul-razzaq-al-badr
 hijri: '1448-02-18'
 ---
+
 The Noble Quran is a Book of guidance, clarification, counsel, and direction. In it is news of what came before us, information of what comes after us, and a ruling for what is between us. Whoever acts upon it is rewarded, whoever judges by it is just, and whoever calls to it is guided to a straight path.
 
 Among the upright indications and noble guidances of the Quran is its exposure of the path of the criminals and its clarification of the state of those who earned wrath and those who went astray, so that believers may recognize it and avoid it, so their condition is uncovered to them so they may guard against it, and so that their enemy becomes clear to them so they may beware of him. Allah Almighty says: 
@@ -107,3 +108,6 @@ It is also so that the Muslim appreciates the extent of Allah's blessing upon hi
 > *O our God, to You alone is the complaint, and You are sufficient for us. O You who answers the distressed when he calls upon Him, mends the brokenhearted when he cries out, and relieves the anxiety of the distressed when he humbles himself before Him and hopes in Him!*
 > *Our God, the Jews have dominated our Muslim brothers and sisters in Palestine through killing and displacement, through the destruction and demolition of their homes, and through the violation and corruption of their sanctities. How many homes have been destroyed, how many honor code boundaries violated, how many women widowed, how much blood spilled, and how many children orphaned! Their tyranny has escalated, their assault and criminality have increased, and their arrogance and aggression have grown vast.*
 > *Our God, O You from Whom victory and honor are sought! O You Whose doors and treasuries are opened to whoever calls upon Him! O Shaker of the thrones of oppressors, O Breaker of the backs of tyrants, O Nullifier of the plots of criminals! O Allah, deal with the aggressive transgressors. O Allah, we place You at their throats and seek refuge in You from their evil.*
+
+### Also read: 
+[The Wrath-Incurring Nation, Not God's Chosen People](/muqolat/the-wrath-incurring-nation-not-god-chosen-people/)
