@@ -14,7 +14,7 @@ category:
 - mawlid
 link: https://al-badr.net/detail/74UbgLMmkxNf
 mp3: https://al-badr.net/download/esound/khutob/004_069.mp3
-active: muqolat
+active: audios
 muftis:
   shaykh:
   - name: Shaykh Abdul Razzaq al-Badr
