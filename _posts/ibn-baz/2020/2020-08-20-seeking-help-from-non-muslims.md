@@ -130,7 +130,7 @@ It is obligatory upon Muslim scholars to reconcile the texts, not to make them s
 [^12]: Subul Al-Salam, by Al-San'ani, vol. 4, pp. 49-55, fourth edition (1379 A.H.-1960 C.E.), Dar Ihy'a Al-Turath Al-'Arabi.
 [^13]: Muslim, Sahih, Book on Jihad and military expeditions, no. 1817; Al-Tirmidhy, Sunan, Book on military expeditions, no. 1558; Abu Dawud, Sunan, Book on Jihad, no. 2732; Ibn Majah, Sunan, Book on Jihad, no. 2832; Ahmad ibn Hanbal, Musnad, vol. 6, p. 149; and Al-Darimy, Sunan, Book on military expeditions, no. 2496.
 
-Also read:
+### Also read:
 
 - [Islamic Ruling on Seeking Help from Polytheists](/audios/islamic-ruling-on-seeking-help-from-polytheists/) - Shaykh Ibn Baz
-- [Reconciling the Religious Texts Regarding Seeking Assistance from Non-Muslims](/audios/reconciling-the-religious-texts-segarding-seeking-assistance-from-non-muslims/)
+- [Reconciling the Religious Texts Regarding Seeking Assistance from Non-Muslims](/audios/reconciling-the-religious-texts-segarding-seeking-assistance-from-non-muslims/) - Shaykh Ibn Baz
