@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Ruling on seeking the help of Kafirs in fighting other Kafirs
-publisher: alsalafiyyah.manhaj@gmail.com, salafiyyah@outlook.sa
+publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa Al-Shaykh Ibn Baz 6/183
 hijri: '1442-01-01'
 date: 2020-08-20
+link: https://shamela.ws/book/21537/9698
 category:
 - rulership
 - muqolat
