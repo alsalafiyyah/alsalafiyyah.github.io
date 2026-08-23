@@ -132,4 +132,5 @@ It is obligatory upon Muslim scholars to reconcile the texts, not to make them s
 
 Also read:
 
-- [Islamic Ruling on Seeking Help from Polytheists](/islamic-ruling-on-seeking-help-from-polytheists/) - Shaykh Ibn Baz
+- [Islamic Ruling on Seeking Help from Polytheists](/audios/islamic-ruling-on-seeking-help-from-polytheists/) - Shaykh Ibn Baz
+- [Reconciling the Religious Texts Regarding Seeking Assistance from Non-Muslims](/audios/reconciling-the-religious-texts-segarding-seeking-assistance-from-non-muslims/)

@@ -48,3 +48,4 @@ The point is that seeking assistance differs depending on the context. If the as
 See also: 
 
 - [Ruling on seeking the help of Kafirs in fighting other Kafirs](/seeking-help-from-non-muslims/)
+- [Reconciling the Religious Texts Regarding Seeking Assistance from Non-Muslims](/audios/reconciling-the-religious-texts-segarding-seeking-assistance-from-non-muslims/)
