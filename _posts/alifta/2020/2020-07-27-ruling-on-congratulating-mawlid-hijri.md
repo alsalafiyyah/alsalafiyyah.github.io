@@ -2,7 +2,9 @@
 hijri: '1441-12-06'
 lang: en
 layout: post
-mass_edited: true
+category: 
+- mawlid
+- bidah
 muftis:
   chairman:
   - name: Shaykh Abdul-Aziz Aal Al-Shaykh
@@ -21,10 +23,11 @@ summary: Is it permissible to congratulate non-Muslims on the occasion of the ne
 title: Ruling on congratulating others in the new Gregorian or Hijri years or the
   Mawlid
 ---
-Question: 
+
+### Question: 
 
 Is it permissible to congratulate non-Muslims on the occasion of the new Gregorian year, the new Hijri (lunar) year, and the Mawlid (the Prophet’s birthday)?
  
-Answer:
+### Answer:
 
 It is not permissible to offer congratulations on such occasions, because it is not Mashru‘ (Islamically lawful) to celebrate them.

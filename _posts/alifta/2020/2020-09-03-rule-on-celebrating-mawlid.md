@@ -2,19 +2,10 @@
 hijri: '1442-01-15'
 lang: en
 layout: post
-mass_edited: true
-muftis:
-  chairman:
-  - name: Shaykh Ibn Baz
-    url: /biography/binbaz/
-  deputy_chairman:
-  - name: Shaykh Abdul-Razzaq Al-Afifi
-    url: /biography/afifi/
-  members:
-  - name: Shaykh Abdullah ibn Ghudayyan
-    url: /biography/ghudayyan/
-  - name: Shaykh Abdullah ibn Qa'ud
-    url: /biography/qaud/
+group1: true
+category:
+- mawlid
+- bidah
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 2747
 summary: 'Celebrating the birth of the Prophet is Bid‘ah (innovation in religion).
@@ -22,15 +13,16 @@ summary: 'Celebrating the birth of the Prophet is Bid‘ah (innovation in religi
   did he see one celebrating it and remained silent about it. '
 title: Celebrating the Prophet's Mawlid
 ---
-Question 1: 
+
+### Question 1: 
 
 The people here hold an eleven-day celebration in commemoration of the Mawlid (the Prophet’s birthday) in Rabi‘ Al-Awwal. They gather the Muslims together and do acts that express joy until the day of the event. However, some scholars say that there is no good in this. I would, therefore, like to ask you what the ruling on this is; do you do in your country anything in celebration of his birthday?
 
-Question 2: 
+### Question 2: 
 
 What is the ruling on rejoicing at the occasion of celebrating the Mawlid in this month? 
 
-Answer:
+### Answer:
 
 Celebrating the birth of the Prophet (peace be upon him) is Bid‘ah (innovation in religion). It is authentically reported that the Messenger of Allah (peace be upon him) said, “**Whoever introduces anything into this matter of ours (Islam) that is not part of it, will have it rejected.**” [^1]
 
@@ -39,8 +31,6 @@ According to another narration, he (peace be upon him) said, “**Whoever does a
 The Messenger (peace be upon him) did not celebrate his birthday, nor did he order others to do so, nor did he see one celebrating it and remained silent about it. Also, the Rightly-Guided Caliphs and the Salaf (righteous predecessors) during the first and best three centuries of Islam never celebrated Mawlid; it was invented and introduced after their time.
 
 It is worth mentioning that [Shaykh Abdul-'Aziz ibn Abdullah ibn Baz](/biographies/binbaz/) wrote a detailed answer on this subject.
-
----
 
 [^1]: Al-Bukhari, Sahih, Book on reconciliation, no. 2697; Muslim, Sahih, Book on judicial decisions, no. 1718; Abu Dawud, Sunan, Book on Al-Sunnah, no. 4606; Ibn Majah, Sunan, Introduction, no. 14; and Ahmad, Musnad, vol. 6, p. 240.
 [^2]: Muslim, Sahih, Book on judicial decisions, no. 1718; and Ahmad ibn Hanbal, Musnad, vol. 6, p. 180.

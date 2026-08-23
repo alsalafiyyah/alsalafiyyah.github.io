@@ -2,7 +2,9 @@
 hijri: '1441-11-28'
 lang: en
 layout: post
-mass_edited: true
+category:
+- mawlid
+- bidah
 muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz

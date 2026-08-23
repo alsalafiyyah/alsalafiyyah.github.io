@@ -9,13 +9,14 @@ source: One of the questions asked by Al-'Arabiyyah Magazine, dictated by His Em
 summary: Ibn Taymiyyah did not approve celebrating the Prophet's Mawlid, rather he
   condemned doing so and was of the view that doing so is a Bid'ah.
 category:
-- festivals
+- mawlid
 - bidah
 muftis:
   shaykh:
   - name: Shaykh Ibn Baz
     url: /biography/binbaz/
 ---
+
 ### Question:
 
 Brother A.M.M. From Kuwait says: "One of the scholars said that Ibn Taymiyyah (may Allah be merciful to him) approved celebrating the Mawlid (the Prophet's birth day). Is it a sound saying?""

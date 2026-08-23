@@ -9,6 +9,7 @@ category:
 - history
 - audios
 - bidah
+- mawlid
 tags:
 - ibn-uthaymeen
 url: https://binothaimeen.net/s/xTsqFCZv
