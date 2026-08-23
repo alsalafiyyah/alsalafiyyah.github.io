@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: "Why Celebrating the Prophet's Birthday Is Prohibited in Islam"
 date: 2026-08-23
-hijri: '1446-01-22'
+hijri: '1448-03-10'
 source: "Al-Kutub al-Minbariyyah, Vol 1, Sermon No. 13811"
 category:
 - muqolat
