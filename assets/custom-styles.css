@@ -18,7 +18,7 @@
         }
 
         h1 { font-size: 4rem; text-transform: none; font-family: 'Playfair Display', serif; }
-        h2 { font-size: 3rem; border-bottom: 4px solid; padding-bottom: 0.5rem; font-weight: 900; }
+        h2 { font-size: 3rem; padding-bottom: 0.5rem; font-weight: 900; }
         
         #question, #answer, .post h3, .post h2, .post h4, .page h3 {
             font-family: 'Inter', sans-serif;
@@ -38,11 +38,11 @@
             line-height: 1.75;
         }
         .post a {
-            color: #00a6f4 !important;
+            color: #ef4444 !important;
             text-decoration: none;
         }
         .post a:hover {
-            color: #00a6f4 !important;
+            color: #ef4444 !important;
             text-decoration: underline;
         }
 /* The Footnote Container */
@@ -52,7 +52,7 @@
 }
 .footnote a {
     margin-left: 3px;
-    color: #00a6f4 !important;
+    color: #ef4444 !important;
 }
 .footnotes ol li p {
     font-size: 14px !important;
@@ -72,7 +72,7 @@
     font-size: 14px !important;
     text-decoration: none !important;
     margin-left: 5px;
-    color: #00a6f4 !important;
+    color: #ef4444 !important;
 }
 
 .reversefootnote:hover {
