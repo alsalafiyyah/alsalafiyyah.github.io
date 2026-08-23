@@ -10,6 +10,9 @@ summary: The Muslim must adhere to the Qur'an and Sunnah in all his affairs, esp
   at times of fitan (temptation and tribulation) and when corruption is widespread.
 tags:
 - alifta
+category:
+- bidah
+- mawlid
 title: Ruling on Celebrating Valentine’s Day
 translation: false
 ---

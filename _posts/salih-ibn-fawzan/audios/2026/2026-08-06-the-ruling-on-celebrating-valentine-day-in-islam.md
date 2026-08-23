@@ -6,7 +6,8 @@ hijri: '1448-02-23'
 title: The Ruling on Celebrating Valentine's Day in Islam
 category:
 - audios
-- festivals
+- mawlid
+- bidah
 tags:
 - salih-ibn-fawzan
 mp3: https://audio.alfawzan.live/2020-02/08.mp3

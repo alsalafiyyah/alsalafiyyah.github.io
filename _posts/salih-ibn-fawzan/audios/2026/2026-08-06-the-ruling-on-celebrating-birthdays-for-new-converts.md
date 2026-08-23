@@ -6,8 +6,7 @@ hijri: '1448-02-23'
 title: The Ruling on Celebrating Birthdays for New Converts
 category:
 - audios
-- festivals
-- mawlids
+- mawlid
 tags:
 - salih-ibn-fawzan
 mp3: https://audio.alfawzan.live/2019-12/44.mp3

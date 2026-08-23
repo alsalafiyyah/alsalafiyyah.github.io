@@ -1,5 +1,5 @@
 ---
 layout: category_index
-title: "Mawlid"
+title: "Mawlid (Prophet's Birthday, Festival, Celebrations)"
 category: mawlid
 ---
