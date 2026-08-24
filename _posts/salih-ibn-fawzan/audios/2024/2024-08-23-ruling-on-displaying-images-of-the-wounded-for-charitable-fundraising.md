@@ -7,19 +7,19 @@ hijri: '1446-02-19'
 date: 2024-08-23
 active: audios
 category:
-- fatwas
 - audios
 - palestine
 tags:
 - salih-ibn-fawzan
 summary: This practice is inappropriate. It is not permissible to display images of
   the wounded.
-mp3: https://alsalafiyyah.github.io/assets/audios/rule-on-showing-wounds-palestine.mp3
+mp3: "https://salafimanhaj.github.io/audios/assets/saleh-ibn-fawzan/rule-on-showing-wounds-palestine.mp3"
 muftis:
   shaykh:
   - name: Shaykh Salih Al-Fawzan
     url: /biography/fawzan
 ---
+
 ### Question:
 
 ​Some exhibitions are organized to illustrate the wounds and suffering of Muslims in Palestine and elsewhere. These exhibitions feature images of the wounded and the deceased, and sometimes these are displayed via video. The intent behind this is to urge Muslims to donate to their brothers. Is this practice permissible?
