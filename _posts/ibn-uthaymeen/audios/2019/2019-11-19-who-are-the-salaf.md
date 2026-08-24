@@ -11,7 +11,7 @@ category:
 tags:
 - ibn-uthaymeen
 url: https://binothaimeen.net/s/gmkXp3oG
-mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_175_18.mp3
+mp3: "https://salafimanhaj.github.io/assets/ibn-uthaymeen/who-are-the-salaf.mp3"
 active: audios
 featured: true
 translation: true

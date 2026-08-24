@@ -10,7 +10,7 @@ category:
 - rulership
 tags:
 - salih-ibn-fawzan
-mp3: /assets/audios/ruling-on-speak-against-the-rulers.mp3
+mp3: "https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/the-ruling-on-publicly-disclosing-the-faults-of-the-ruler.mp3"
 active: audios
 summary: It is not permissible to speak against the rulers. Because this causes evil
   and fragmentation within society and divides the unity of the Muslims.
@@ -19,6 +19,7 @@ muftis:
   - name: Shaykh Salih al-Fawzan
     url: /biography/fawzan/
 ---
+
 ### Question: 
 
 May Allah reward you with good, Your Eminence. This questioner asks: Is it permissible to publicly disclose the faults of the ruler to the Muslims in front of society and the people?
