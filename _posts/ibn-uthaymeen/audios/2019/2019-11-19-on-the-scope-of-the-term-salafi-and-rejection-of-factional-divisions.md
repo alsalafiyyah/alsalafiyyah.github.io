@@ -11,7 +11,7 @@ category:
 tags:
 - ibn-uthaymeen
 url: https://alathar.net/home/esound/index.php?op=codevi&coid=65983
-mp3: https://www.alathar.net//files/sound/alothaymeen/leqamaftooh/split-220b-11.mp3
+mp3: "https://salafimanhaj.github.io/assets/ibn-uthaymeen/on-the-scope-of-the-term-salafi-and-the-rejection-of-factional-divisions.mp3"
 active: audios
 translation: false
 lang: en
