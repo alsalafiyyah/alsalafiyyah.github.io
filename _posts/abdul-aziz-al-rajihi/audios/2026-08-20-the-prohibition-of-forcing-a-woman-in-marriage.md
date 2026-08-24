@@ -14,6 +14,10 @@ link: "https://shrajhi.com.sa/fatawa/67"
 mp3: "https://files.zadapps.info/shrajhi.com.sa/alfatawa/feqh/1_10/rff%20(8).mp3"
 active: audios
 summary: "This is a great evil and an injustice, and one fears punishment for the person who does it."
+muftis:
+  shaykh:
+  - name: Shaykh Abdul-Aziz al-Rajhi
+    url: /biography/abdul-aziz-al-rajihi/
 ---
 
 ### Question: 
