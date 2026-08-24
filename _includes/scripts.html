@@ -658,3 +658,52 @@ window.addEventListener('appinstalled', () => {
             hijriOutput.textContent = `${hYear}-${hMonth}-${hDay}`;
         }
     </script>
+<!-- Script to handle Modal & Text Toggle -->
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+    // --- 1. Image Modal Logic ---
+    const openBtn = document.getElementById("open-modal-btn");
+    const closeBtn = document.getElementById("close-modal-btn");
+    const modal = document.getElementById("image-modal");
+
+    if (openBtn && modal && closeBtn) {
+        openBtn.addEventListener("click", () => {
+            modal.classList.remove("hidden");
+            document.body.style.overflow = "hidden";
+        });
+
+        const closeModal = () => {
+            modal.classList.add("hidden");
+            document.body.style.overflow = "auto";
+        };
+
+        closeBtn.addEventListener("click", closeModal);
+        modal.addEventListener("click", (e) => {
+            if (e.target === modal) closeModal();
+        });
+        document.addEventListener("keydown", (e) => {
+            if (e.key === "Escape") closeModal();
+        });
+    }
+
+    // --- 2. Show More / Show Less Text Toggle Logic ---
+    const toggleBtn = document.getElementById("toggle-text-btn");
+    const textPreview = document.getElementById("text-preview");
+    const textFull = document.getElementById("text-full");
+
+    if (toggleBtn && textPreview && textFull) {
+        toggleBtn.addEventListener("click", () => {
+            const isHidden = textFull.classList.contains("hidden");
+            if (isHidden) {
+                textFull.classList.remove("hidden");
+                textPreview.classList.add("hidden");
+                toggleBtn.textContent = "Show Less ↑";
+            } else {
+                textFull.classList.add("hidden");
+                textPreview.classList.remove("hidden");
+                toggleBtn.textContent = "Show More ↓";
+            }
+        });
+    }
+});
+</script>
