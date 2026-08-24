@@ -1,33 +1,96 @@
+<!-- Top Section: Hero Block -->
+<section class="mb-16 pb-12 border-b-2 border-black/10 dark:border-white/10 mt-10">
+    <div class="flex flex-col space-y-8">
+        <div class="flex items-center gap-4 text-[10px] font-black uppercase tracking-[0.3em] text-gray-400 italic">
+            <span class="text-red-500">•</span>
+            <span class="text-black dark:text-white">Featured Selected Fatwa</span>
+        </div>
+        {% assign featured_post = site.posts | where: "featured", true | first %}
+        {% if featured_post %}
+        <h2 class="text-6xl md:text-[5vw] lg:text-[4.5vw] font-black uppercase tracking-tighter leading-[0.85] serif">
+            <a href="{{ featured_post.url | relative_url }}" class="hover:line-through transition-all">
+               {{ featured_post.title }}
+            </a>
+        </h2>
+        <div class="flex items-center gap-6 text-[10px] font-black uppercase tracking-widest opacity-50">
+            <span>1441-03-22 / 19.11.2019</span>
+        </div>
+        <p class="text-xl md:text-3xl font-bold leading-relaxed opacity-85 max-w-5xl">
+                  {% if featured_post.summary %}
+                    {{ featured_post.summary | strip_html }}
+                  {% endif %}
+        </p>
+        <div>
+            <a href="{{ featured_post.url | relative_url }}" class="inline-block bg-black text-white dark:bg-white dark:text-black px-12 py-5 font-black uppercase tracking-widest text-xs hover:scale-105 transition-transform">
+                Read Full Fatwa →
+            </a>
+        </div>
+       {% endif %}
+    </div>
+</section>
+
 <section class="mb-6 pb-12 mt-12">
 
     <!-- Main 3-Column Grid Container -->
     <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 items-start">
-        {% assign featured_post = site.posts | where: "featured", true | first %}
-        {% if featured_post %}
-        <!-- Column 1: Featured Post (Title, Date, Excerpt, Read Button) -->
-        <div class="flex flex-col justify-between h-full space-y-8 lg:col-span-1">
-            <div>
-                    <h2 class="text-4xl md:text-[4vw] lg:text-4xl font-black uppercase tracking-tighter leading-[0.8] serif mb-3">
-                        <a href="{{ featured_post.url | relative_url }}" class="hover:underline italic transition-all">
-                           {{ featured_post.title }}
-                        </a>
-                    </h2>
-                <div class="flex items-center gap-6 text-[10px] font-black uppercase tracking-widest opacity-50 mb-6">
-                    <span>{{ featured_post.hijri }} / {{ featured_post.date | date: "%d.%m.%Y" }}</span>
+        <div class="col-span-1 flex flex-col space-y-6 lg:col-span-1">
+            <div class="border-2 border-black dark:border-white bg-white dark:bg-black overflow-hidden transition-colors duration-300">
+                <!-- Vertical Image Preview with Modal Trigger -->
+                <div class="relative group cursor-pointer w-full bg-gray-50 dark:bg-zinc-900 border-b-2 border-black dark:border-white" id="open-modal-btn">
+                    <img src="https://alsalafiyyah.github.io/assets/images/img.webp" alt="Circulated Image of Imam Muhammad bin Abd al-Wahhab" class="w-full h-auto block object-cover">
+                    <!-- Zoom Hint Overlay -->
+                    <div class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center text-white text-xs uppercase font-black tracking-widest pointer-events-none">
+                        Click to View Full Image
+                    </div>
                 </div>
-                <p class="text-xl md:text-1xl font-bold leading-tight opacity-80">
-                  {% if featured_post.summary %}
-                    {{ featured_post.summary | strip_html }}
-                  {% endif %}
-                </p>
-            </div>
-            <div>
-                <a href="{{ featured_post.url | relative_url }}" class="inline-block bg-black text-white dark:bg-white dark:text-black px-10 py-5 font-black uppercase tracking-widest text-xs hover:scale-105 transition-transform">
-                    {{ site.site_elements.read_more }} →
-                </a>
+
+                <!-- Vertical Card Content -->
+                <div class="flex flex-col space-y-4 p-6">
+                    <div class="flex items-center gap-6 text-[10px] font-black uppercase tracking-widest opacity-50">
+                        <span>1448-03-07 / 20.08.2026</span>
+                    </div>
+                    <h3 class="text-2xl font-black uppercase tracking-tighter leading-[0.95] serif">
+                        The Truth Behind the Circulated Image of Imam Muhammad bin Abd al-Wahhab
+                    </h3>
+                    
+                    <!-- Collapsible Text Container -->
+                    <div class="relative">
+                        <!-- Short Initial Preview Text -->
+                        <div id="text-preview" class="space-y-3">
+                            <p class="text-sm font-medium leading-relaxed opacity-80">
+                                The text in the provided image translates as follows:
+                            </p>
+                            <p class="text-xs font-normal leading-relaxed opacity-60">
+                                <strong>On the right side (False Claim):</strong> An alleged picture of the renewer Imam Muhammad ibn Abd al-Wahhab...
+                            </p>
+                        </div>
+
+                        <!-- Full Text (Initially Hidden) -->
+                        <div id="text-full" class="hidden space-y-3 mt-2">
+                            <p class="text-sm font-medium leading-relaxed opacity-80">
+                                The text in the provided image translates as follows:
+                            </p>
+                            <p class="text-xs font-normal leading-relaxed opacity-60">
+                                <strong>On the right side (False Claim):</strong> An alleged picture of the renewer Imam Muhammad ibn Abd al-Wahhab, may Allah have mercy on him, is being circulated across social media platforms. The image shows a person sitting on a chair, who they claim is Imam Muhammad ibn Saud, may Allah have mercy on him, and another standing beside him, who they claim is Imam Muhammad ibn Abd al-Wahhab, may Allah have mercy on him.
+                            </p>
+                            <p class="text-xs font-normal leading-relaxed opacity-60">
+                                <strong>On the left side (The Truth):</strong> This information is incorrect. The person sitting on the chair is Sheikh Abdullah bin Isa bin Ali Al Khalifa, a son of the ruler of Bahrain, and not Imam Muhammad ibn Saud... It is worth noting that the first photograph was taken in 1826, and the invention of photography was announced on August 19, 1839.
+                            </p>
+                            <p class="text-xs font-normal leading-relaxed opacity-60">
+                                Source: <a href="https://mujaddid.net/%d8%b5%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d9%85-%d8%a7%d9%84%d9%85%d8%ac%d8%af%d8%af-%d9%85%d8%ad%d9%85%d8%af%d8%a8%d9%86-%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%88%d9%87%d8%a7%d8%a8-%d8%a7/" target="_blank" class="underline font-bold hover:text-red-500">صورة الإمام محمد بن عبدالوهاب الفوتوغرافية بين الكذب والحقيقة؟!</a>
+                            </p>
+                        </div>
+                    </div>
+
+                    <!-- Show More / Show Less Button -->
+                    <div class="pt-2">
+                        <button id="toggle-text-btn" class="text-xs font-black uppercase tracking-widest text-black dark:text-white border-b-2 border-black dark:border-white pb-1 hover:text-red-500 hover:border-red-500 transition-colors">
+                            Show More ↓
+                        </button>
+                    </div>
+                </div>
             </div>
         </div>
-        {% endif %}
 
 <!-- Column 2 -->
 <div class="col-span-1 flex flex-col space-y-6 lg:col-span-1">
@@ -167,7 +230,7 @@
 </section>
 
 <!-- Additional Bottom Section: Featured Editorial Block with Image & Long Text -->
-<section class="mb-24 mt-16">
+<section class="mb-24 mt-16 hidden">
     <div class="border-2 border-black dark:border-white bg-white dark:bg-black p-0 md:p-0 transition-colors duration-300">
 
         <!-- Grid Layout for Image + Content -->
