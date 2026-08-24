@@ -319,7 +319,7 @@
             <div class="flex flex-col space-y-1 border-l-2 border-red-500 pl-4">
                 {% assign audio_posts = site.posts | where_exp: "post", "post.active == 'audios'" %}
                 <span class="text-3xl md:text-4xl font-black tracking-tighter serif">{{ audio_posts.size }}</span>
-                <span class="text-[10px] font-black uppercase tracking-widest opacity-60">Audio Lectures</span>
+                <span class="text-[10px] font-black uppercase tracking-widest opacity-60">Audio Fatwas & Lectures</span>
             </div>
             <!-- Stat Item 3: Videos -->
             <div class="flex flex-col space-y-1 border-l-2 border-red-500 pl-4">
@@ -331,7 +331,7 @@
             <div class="flex flex-col space-y-1 border-l-2 border-red-500 pl-4">
                 {% assign muqolat = site.posts | where_exp: "post", "post.active == 'muqolat'" %}
                 <span class="text-3xl md:text-4xl font-black tracking-tighter serif">{{ muqolat.size }}</span>
-                <span class="text-[10px] font-black uppercase tracking-widest opacity-60">Muqolat & Articles</span>
+                <span class="text-[10px] font-black uppercase tracking-widest opacity-60">Muqolat/Articles</span>
             </div>
         </div>
     </div>
