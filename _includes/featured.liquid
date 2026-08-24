@@ -3,7 +3,7 @@
     <div class="flex flex-col space-y-8">
         <div class="flex items-center gap-4 text-[10px] font-black uppercase tracking-[0.3em] text-gray-400 italic">
             <span class="text-red-500">•</span>
-            <span class="text-black dark:text-white">Featured Selected Fatwa</span>
+            <span class="text-black dark:text-white">Selected Fatwa</span>
         </div>
         {% assign featured_post = site.posts | where: "featured", true | first %}
         {% if featured_post %}
