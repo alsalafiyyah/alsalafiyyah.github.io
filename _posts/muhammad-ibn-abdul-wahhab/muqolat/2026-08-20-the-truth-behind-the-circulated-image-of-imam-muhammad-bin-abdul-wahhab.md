@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 publisher: alsalafiyyah.manhaj@gmail.com
 title: "The Truth Behind the Circulated Image of Imam Muhammad bin Abd al-Wahhab"
 date: 2026-08-20
