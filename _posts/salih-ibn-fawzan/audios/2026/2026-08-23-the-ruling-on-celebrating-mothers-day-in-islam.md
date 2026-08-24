@@ -12,7 +12,7 @@ category:
 - audios
 - mawlid
 link: "https://alfawzan.live/content/14773/"
-mp3: "https://audio.alfawzan.live/07_5.mp3"
+mp3: "https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/the-ruling-on-celebrating-mother-day-in-islam.mp3"
 summary: "It is not permissible to celebrate it. For Muslims, there are only two holidays (Eids) Eid al-Fitr and Eid al-Adha.​"
 source: "Fatwa No. 14773"
 muftis:
