@@ -11,8 +11,7 @@ tags: muhammad-ibn-hadi
 category:
 - audios
 - wahhabism
-mp3: "
-https://salafimanhaj.github.io/audios/assets/muhammad-ibn-hadi/did-muhammad-ibn-abdul-wahhab-rebel-against-the-ottomans.mp3"
+mp3: "https://salafimanhaj.github.io/assets/muhammad-ibn-hadi/did-muhammad-ibn-abdul-wahhab-rebel-against-the-ottomans.mp3"
 summary: "This is a lie. History proves it—as we said earlier, when narrators resort to lies, we resort to history."
 muftis:
   shaykh:

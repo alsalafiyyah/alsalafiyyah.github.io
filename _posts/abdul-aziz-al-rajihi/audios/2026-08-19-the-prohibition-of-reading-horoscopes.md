@@ -10,7 +10,7 @@ active: audios
 tags: abdul-aziz-al-rajihi
 category:
 - audios
-mp3: "https://files.zadapps.info/shrajhi.com.sa/alfatawa/alaqeedah/rfq%20(137).mp3"
+mp3: "https://salafimanhaj.github.io/assets/abdul-aziz-al-rajihi/ruling-on-reading-horoscopes-for-entertainment.mp3"
 link: "https://shrajhi.com.sa/fatawa/37/%D9%84%D8%A7-%D9%8A%D8%B5%D8%AD-%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D8%A7%D9%84%D8%A3%D8%A8%D8%B1%D8%A7%D8%AC-%D9%88%D9%84%D9%88-%D9%84%D9%84%D8%AA%D8%B3%D9%84%D9%8A%D8%A9"
 summary: "There is no entertainment in that. If one reads them for the purpose of rejection and refutation, there is no harm."
 muftis:

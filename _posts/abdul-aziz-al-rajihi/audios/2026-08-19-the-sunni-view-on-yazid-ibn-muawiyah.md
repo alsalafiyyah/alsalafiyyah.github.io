@@ -12,7 +12,7 @@ category:
 - audios
 - rulers
 link: "https://shrajhi.com.sa/fatawa/13/"
-mp3: "https://files.zadapps.info/shrajhi.com.sa/rfq%20(101).mp3"
+mp3: "https://salafimanhaj.github.io/assets/abdul-aziz-al-rajihi/the-sunni-view-on-yazid-ibn-muawiyah.mp3"
 summary: "The creed of Ahl al-Sunnah regarding Yazid ibn Muawiyah is that he was one of the Muslim kings; he had good deeds and he had bad deeds."
 muftis:
   shaykh:

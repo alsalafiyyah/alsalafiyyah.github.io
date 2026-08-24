@@ -13,7 +13,7 @@ tags:
 - salih-ibn-fawzan
 summary: This practice is inappropriate. It is not permissible to display images of
   the wounded.
-mp3: "https://salafimanhaj.github.io/audios/assets/saleh-ibn-fawzan/rule-on-showing-wounds-palestine.mp3"
+mp3: "https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/rule-on-showing-wounds-palestine.mp3"
 muftis:
   shaykh:
   - name: Shaykh Salih Al-Fawzan

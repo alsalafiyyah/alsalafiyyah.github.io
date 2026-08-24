@@ -11,7 +11,7 @@ category:
 - women
 - marriage
 link: "https://shrajhi.com.sa/fatawa/67"
-mp3: "https://files.zadapps.info/shrajhi.com.sa/alfatawa/feqh/1_10/rff%20(8).mp3"
+mp3: "https://salafimanhaj.github.io/assets/abdul-aziz-al-rajihi/the-prohibition-of-forcing-a-woman-in-marriage.mp3"
 active: audios
 summary: "This is a great evil and an injustice, and one fears punishment for the person who does it."
 muftis:

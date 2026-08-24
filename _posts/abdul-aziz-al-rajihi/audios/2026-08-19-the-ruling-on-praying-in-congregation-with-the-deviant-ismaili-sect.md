@@ -12,7 +12,7 @@ category:
 - audios
 - shia
 - sects
-mp3: "https://files.zadapps.info/shrajhi.com.sa/alfatawa/alaqeedah/rfq%20(131).mp3"
+mp3: "https://salafimanhaj.github.io/assets/abdul-aziz-al-rajihi/the-ruling-on-praying-in-congregation-with-the-deviant-ismaili-sect.mp3"
 link: "https://shrajhi.com.sa/fatawa/34/%D8%B5%D9%84%D8%A7%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84%D9%8A-%D9%85%D8%B9-%D8%A3%D9%87%D9%84-%D8%A7%D9%84%D8%B3%D9%86%D8%A9"
 summary: "It is well known that the Ismailis are Batinis (esoteric sects) and that their beliefs are matters of disbelief (kufr), and likewise the Rafida. Therefore, praying behind them is not valid."
 muftis:

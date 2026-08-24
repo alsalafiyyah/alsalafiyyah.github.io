@@ -12,7 +12,7 @@ category:
 - audios
 - history
 link: "https://alfawzan.live/content/17271/"
-mp3: "https://salafimanhaj.github.io/audios/assets/saleh-ibn-fawzan/the-dead-sea-and-people-of-lot.mp3"
+mp3: "https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/the-dead-sea-and-people-of-lot.mp3"
 summary: "It is said that it is, and Allah knows best. It is called the Sea of Lot and the Dead Sea, and Allah knows best!"
 source: "Fatwa No. 17271"
 muftis:
