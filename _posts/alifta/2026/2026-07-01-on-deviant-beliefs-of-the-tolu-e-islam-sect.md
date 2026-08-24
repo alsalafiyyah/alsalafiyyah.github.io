@@ -10,7 +10,7 @@ summary: Whoever follows this sect Tolu-e-Islam, advocates for it, or beautifies
   the religion of Islam.
 tags:
 - alifta
-tags:
+category:
 - sects
 - quranism
 title: On the Deviant Beliefs of the Tolu-e-Islam Sect
