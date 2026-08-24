@@ -231,7 +231,15 @@ defaults:
     values:
       layout: post
       permalink: /muqolat/:title/
-      
+
+  # _posts/sermon/
+  - scope:
+      path: "_posts/**/sermon/**"
+      type: posts
+    values:
+      layout: post
+      permalink: /sermon/:title/
+
   # _posts/wahhabism/
   - scope:
       path: "_posts/wahhabism/**"
