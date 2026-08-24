@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
-title: "Ruling on the Sect Known as Quranists"
+title: "Ruling on the Sect Known as Quranism"
 date: 2026-08-24
 hijri: '1448-03-11'
 tags:
