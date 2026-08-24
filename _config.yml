@@ -5,6 +5,7 @@ short_desc          : "A repository of Fatwas issued by the prominent scholars o
 baseurl             : "/"
 keywords            : "salafi, salaf, manhaj, islam, knowledge, shariah, sharia, muslim, islamic, fatwas, bidah, sunnah, muslimah, bid'ah, dawah, da'wah, lectures, arabic, sermon, musliman, community, ahlus sunnah wal-jamaah, ahlus sunnah, sunnis, sunni, tawhid, tauhid, allah, prophets, prophet muhammad, rasul, rasulullah, muhammad, sahabah, companions"
 url                 : "https://alsalafiyyah.github.io"
+audio_base_url      : "https://salafimanhaj.github.io/audios/assets/"
 author              : "Instagram@Alsalafiyyah"
 contact:
   name              : "Instagram@Alsalafiyyah"

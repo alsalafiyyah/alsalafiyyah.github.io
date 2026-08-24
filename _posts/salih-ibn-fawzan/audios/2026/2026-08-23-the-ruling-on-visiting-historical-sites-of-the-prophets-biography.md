@@ -13,7 +13,7 @@ category:
 - bidah
 - history
 link: "https://alfawzan.live/content/14772/"
-mp3: "https://audio.alfawzan.live/06_5.mp3"
+mp3: "https://salafimanhaj.github.io/audios/assets/saleh-ibn-fawzan/the-ruling-on-visiting-historical-sites-of-the-prophet.mp3"
 summary: "Visiting them for the purpose of seeking blessings or believing that doing so is a legislated act of worship is an innovation (bid'ah) and is not permissible."
 source: "Fatwa No. 14772"
 muftis:
