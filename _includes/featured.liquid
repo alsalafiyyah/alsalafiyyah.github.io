@@ -13,7 +13,7 @@
             </a>
         </h2>
         <div class="flex items-center gap-6 text-[10px] font-black uppercase tracking-widest opacity-50">
-            <span>1441-03-22 / 19.11.2019</span>
+            <span>{{ featured_post.hijri }} / {{ featured_post.date | date: "%d.%m.%Y" }}</span>
         </div>
         <p class="text-xl md:text-3xl font-bold leading-relaxed opacity-85 max-w-5xl">
                   {% if featured_post.summary %}
