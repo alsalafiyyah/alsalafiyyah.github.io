@@ -9,11 +9,11 @@ translated: false
 active: audios
 category:
 - audios
-- fatwas
 tags:
 - ibn-uthaymeen
 source: Fatawa Nur ala ad-Darb, tape no.258
 link: https://binothaimeen.net/s/h1KCxuef
+mp3: "https://salafimanhaj.github.io/assets/ibn-uthaymeen/the-ruling-on-placing-crescents-on-minarets.mp3"
 summary: It is not proper to place crescents atop minarets due to this resemblance,
   and because of the waste of wealth and time it entails.
 muftis:
@@ -22,6 +22,7 @@ muftis:
     url: /biography/uthaymeen
 hijri: '1446-02-19'
 ---
+
 ### Question: 
 
 May Allah bless you. The listener Muhammad A. A. says: Virtuous Sheikh, what is the ruling on placing the crescent on minarets, as I have heard that this is an innovated matter?
