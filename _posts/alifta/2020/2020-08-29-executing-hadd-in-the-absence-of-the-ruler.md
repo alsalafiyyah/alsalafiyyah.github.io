@@ -4,7 +4,7 @@ group14: true
 hijri: '1442-01-10'
 lang: en
 layout: post
-mass_edited: true
+category: rulership
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no. 16815, Question 3
 summary: Only a Muslim ruler or his deputy is entitled to execute the Hudud, so as
@@ -14,6 +14,7 @@ tags:
 title: Executing Hadd in the absence of the ruler
 translation: false
 ---
+
 ### Question: 
 
 Is it permissible to execute Hudud (ordained punishments for violating Allah’s Law) when there is no Muslim ruler?

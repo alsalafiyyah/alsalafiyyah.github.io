@@ -3,7 +3,7 @@ date: 2020/09/3
 hijri: '1442-01-15'
 lang: en
 layout: post
-mass_edited: true
+category: rulership
 muftis:
   chairman:
   - name: Shaykh Abdul-Aziz ibn Baz
@@ -25,6 +25,7 @@ summary: Is it obligatory on me to complain to the Imam about someone who does n
 title: Advising or complaining to the ruler from someone abandoning the congregational
   Salah
 ---
+
 ### Question:
 
 Is it obligatory on me to complain to the Imam about someone who does not attend the congregational Salah (Prayer) or should I just advise him? 

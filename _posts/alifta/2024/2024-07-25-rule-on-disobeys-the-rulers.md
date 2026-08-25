@@ -3,7 +3,7 @@ date: 2024-07-25
 hijri: '1446-01-19'
 lang: en
 layout: post
-mass_edited: true
+category: rulership
 muftis:
   shaykh:
   - name: Shaykh Salih Al-Fawzan
@@ -15,6 +15,7 @@ summary: If he criticises the ruler, then this is the madhab of the Khawarij who
 title: Ruling on the one who disobeys the rulers
 translated_by: Abul-Irbad Abid Zargar
 ---
+
 ### Question:
 What is the ruling regarding the one who disobeys the rulers or criticises them?
 

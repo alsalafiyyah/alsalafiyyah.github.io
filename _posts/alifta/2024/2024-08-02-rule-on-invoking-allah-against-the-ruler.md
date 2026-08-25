@@ -8,7 +8,7 @@ group1: true
 hijri: '1446-01-27'
 lang: en
 layout: post
-mass_edited: true
+category: rulership
 published: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Da'imah, Fatwa no. 6361, Question 4
@@ -20,6 +20,7 @@ title: The ruling on invoking Allah against a ruler who does not judge according
   Shari'ah
 translation: false
 ---
+
 ### Question: 
 
 What is the ruling on invoking Allah against a ruler who does not judge according to Allah’s revealed Law? 

@@ -2,7 +2,7 @@
 hijri: '1442-01-12'
 lang: en
 layout: post
-mass_edited: true
+category: rulership
 muftis:
   chairman:
   - name: Shaykh Abdul-Aziz ibn Baz
@@ -25,6 +25,7 @@ tags:
 title: Ruling on lying to and deceiving the ruler
 translation: false
 ---
+
 ### Question: 
 
 The governmental system does not allow government employees to open a shop of their own. Is it permissible to open a shop under the name of another person, who is unemployed by the government, and run this shop with a power of attorney that gives me the right to all the business transactions and to bear its profit and loss? Is this permissible?
