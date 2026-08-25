@@ -187,6 +187,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - "sample*.png" 
+  - .github/
 
 collections:
   categories:
