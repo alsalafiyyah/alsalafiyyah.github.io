@@ -200,7 +200,8 @@ permalink: /main/
                 <span class="text-[10px] font-black uppercase tracking-widest opacity-50 group-hover:opacity-100">Category 01</span>
                 <div>
                     <h4 class="text-2xl font-black uppercase tracking-tighter serif mb-1">Rulership</h4>
-                    <span class="text-xs font-bold opacity-60">{{ site.categories["rulership"] | size }} Entries</span>
+                    {% assign rulership_posts = site.posts | where: "categories", "rulership" %}
+                    <span class="text-xs font-bold opacity-60">{{ rulership_posts | size }} Entries</span>
                 </div>
             </a>
 
