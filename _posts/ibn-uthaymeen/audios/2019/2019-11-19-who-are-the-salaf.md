@@ -22,6 +22,7 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
+
 ### Question: 
 
 This is a female listener from Riyadh with a group of questions. In her first question, she asks: "I hear about the Salaf; who are the Salaf, O virtuous Shaykh?
@@ -78,6 +79,7 @@ Therefore, the favored generations are the Righteous Predecessors (al-Salaf al-S
 - [Affiliation with the Righteous Salaf: An Obligation, Not a Faction](/audios/affiliation-with-the-righteous-salaf) - Shaykh Ibn 'Uthaymeen
 - [Salafism: Its Reality and Characteristics](/audios/salafism-its-reality-and-characteristics) - Shaykh Salih al-Fawzan
 - [Distinguishing Between the Salafi](/distinguishing-between-the-salafi/) - Shaykh Salih al-Fawzan
+- [Misusing the Label 'Salafi'](/audios/misusing-the-label-salafi/) - Shaykh Salih al-Fawzan
 
 ---
 

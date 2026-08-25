@@ -11,7 +11,7 @@ category:
 - audios
 - manhaj
 url: https://binothaimeen.net/s/Wb4zEmcB
-mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_235_12.mp3
+mp3: "https://salafimanhaj.github.io/assets/ibn-uthaymeen/on-the-misapplication-of-the-epithet-talafi-to-the-salafi-manhaj.mp3"
 active: audios
 translation: false
 lang: en
@@ -23,6 +23,7 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
+
 ### Question: 
 
 What is the ruling regarding one who refers to the Salafi manhaj (methodology) as the Talafi (destructive) manhaj— I seek refuge is sought with Allah?

@@ -2,14 +2,14 @@
 layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 date: 2020-07-17
-title: Ruling on Affiliating with the Salaf and Saying 'I am Salafi'
+title: "Islamic Ruling on Affiliating with the Salaf"
 source: Fatawa Nur 'ala al-Darb 53
 category:
 - fatwas
 - audios
 - manhaj
 link: https://alathar.net/home/esound/index.php?op=codevi&coid=116831
-mp3: https://www.alathar.net//files/sound/alothaymeen/almasjedalnabawy/split-53a-5.mp3
+mp3: "https://salafimanhaj.github.io/assets/ibn-uthaymeen/islamic-ruling-on-affiliating-oneself-with-the-salaf.mp3"
 summary: Affiliating oneself with the Salaf al-Salih is obligatory, because the Salaf
   are those who were upon what the Prophet was upon.
 permalink: /audios/ruling-on-affiliating-with-the-salaf-and-saying-iam-salafi
@@ -22,6 +22,7 @@ muftis:
     url: /biography/uthaymeen
 hijri: '1441-11-26'
 ---
+
 ### Question:
 
 May Allah reward you with goodness. A questioner asks: Virtuous Sheikh, what is the ruling on affiliating oneself with the Pious Predecessors (al-Salaf al-Salih) and our saying, 'I am Salafi in creed'?
