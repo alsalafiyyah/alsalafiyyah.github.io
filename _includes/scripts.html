@@ -658,10 +658,51 @@ window.addEventListener('appinstalled', () => {
             hijriOutput.textContent = `${hYear}-${hMonth}-${hDay}`;
         }
     </script>
-<!-- Script to handle Modal & Text Toggle -->
+
+<!-- Scripts for Modal, Text Toggle, Tabs & Category Scrolling -->
 <script>
 document.addEventListener("DOMContentLoaded", () => {
-    // --- 1. Image Modal Logic ---
+    // --- Tabs Logic ---
+    const container = document.getElementById("fatwa-tabs-container");
+    if (container) {
+        const buttons = container.querySelectorAll(".tab-btn");
+        const panels = container.querySelectorAll(".tab-panel");
+        buttons.forEach(btn => {
+            btn.addEventListener("click", () => {
+                const targetTab = btn.getAttribute("data-tab");
+                buttons.forEach(b => {
+                    b.classList.remove("text-black", "dark:text-white", "border-b-2", "border-red-500", "dark:border-white");
+                    b.classList.add("text-gray-400");
+                });
+                btn.classList.remove("text-gray-400");
+                btn.classList.add("text-black", "dark:text-white", "border-b-2", "border-red-500", "dark:border-white");
+                panels.forEach(panel => {
+                    if (panel.id === `panel-${targetTab}`) {
+                        panel.classList.remove("hidden");
+                    } else {
+                        panel.classList.add("hidden");
+                    }
+                });
+            });
+        });
+    }
+
+    // --- Category Scroll Logic ---
+    const catContainer = document.getElementById("category-scroll-container");
+    const catLeftBtn = document.getElementById("cat-scroll-left");
+    const catRightBtn = document.getElementById("cat-scroll-right");
+
+    if (catContainer && catLeftBtn && catRightBtn) {
+        const scrollAmount = 320;
+        catLeftBtn.addEventListener("click", () => {
+            catContainer.scrollBy({ left: -scrollAmount, behavior: "smooth" });
+        });
+        catRightBtn.addEventListener("click", () => {
+            catContainer.scrollBy({ left: scrollAmount, behavior: "smooth" });
+        });
+    }
+
+    // --- Image Modal Logic ---
     const openBtn = document.getElementById("open-modal-btn");
     const closeBtn = document.getElementById("close-modal-btn");
     const modal = document.getElementById("image-modal");
@@ -671,12 +712,10 @@ document.addEventListener("DOMContentLoaded", () => {
             modal.classList.remove("hidden");
             document.body.style.overflow = "hidden";
         });
-
         const closeModal = () => {
             modal.classList.add("hidden");
             document.body.style.overflow = "auto";
         };
-
         closeBtn.addEventListener("click", closeModal);
         modal.addEventListener("click", (e) => {
             if (e.target === modal) closeModal();
@@ -686,7 +725,7 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 
-    // --- 2. Show More / Show Less Text Toggle Logic ---
+    // --- Show More / Show Less Text Toggle Logic ---
     const toggleBtn = document.getElementById("toggle-text-btn");
     const textPreview = document.getElementById("text-preview");
     const textFull = document.getElementById("text-full");
