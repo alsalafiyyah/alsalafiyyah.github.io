@@ -173,8 +173,8 @@ permalink: /main/
 </section>
 
 <!-- Horizontal Scrollable Category Lists Section -->
-<section class="mb-16 pb-12">
-    <div class="border-2 border-black dark:border-white bg-white dark:bg-black p-8 md:p-12 transition-colors duration-300">
+<section>
+    <div class="bg-white dark:bg-black transition-colors duration-300">
         <!-- Section Header -->
         <div class="flex justify-between items-center mb-8 border-b-2 border-black/10 dark:border-white/10 pb-4">
             <div class="flex items-center gap-4 text-[10px] font-black uppercase tracking-[0.3em] text-gray-400 italic">
@@ -210,7 +210,8 @@ permalink: /main/
                 <span class="text-[10px] font-black uppercase tracking-widest opacity-50 group-hover:opacity-100">Category 02</span>
                 <div>
                     <h4 class="text-2xl font-black uppercase tracking-tighter serif mb-1">Group & Sects</h4>
-                    <span class="text-xs font-bold opacity-60">{{ site.categories.sects | size }} Entries</span>
+                    {% assign sects = site.posts | where: "categories", "sects" %}
+                    <span class="text-xs font-bold opacity-60">{{ sects | size }} Entries</span>
                 </div>
             </a>
 
@@ -219,7 +220,8 @@ permalink: /main/
                 <span class="text-[10px] font-black uppercase tracking-widest opacity-50 group-hover:opacity-100">Category 03</span>
                 <div>
                     <h4 class="text-2xl font-black uppercase tracking-tighter serif mb-1">Creed & Manhaj</h4>
-                    <span class="text-xs font-bold opacity-60">{{ site.categories.manhaj | size }} Entries</span>
+                    {% assign manhaj = site.posts | where: "categories", "manhaj" %}
+                    <span class="text-xs font-bold opacity-60">{{ manhaj | size }} Entries</span>
                 </div>
             </a>
 
@@ -228,7 +230,8 @@ permalink: /main/
                 <span class="text-[10px] font-black uppercase tracking-widest opacity-50 group-hover:opacity-100">Category 04</span>
                 <div>
                     <h4 class="text-2xl font-black uppercase tracking-tighter serif mb-1">Prayer & Worship</h4>
-                    <span class="text-xs font-bold opacity-60">{{ site.categories.salah | size }} Entries</span>
+                    {% assign salah = site.posts | where: "salah", "rulership" %}
+                    <span class="text-xs font-bold opacity-60">{{ salah | size }} Entries</span>
                 </div>
             </a>
 
@@ -237,7 +240,8 @@ permalink: /main/
                 <span class="text-[10px] font-black uppercase tracking-widest opacity-50 group-hover:opacity-100">Category 05</span>
                 <div>
                     <h4 class="text-2xl font-black uppercase tracking-tighter serif mb-1">Transactions & Fiqh</h4>
-                    <span class="text-xs font-bold opacity-60">{{ site.categories.Transactions | size }} Entries</span>
+                    {% assign wahhabism = site.posts | where: "wahhabism", "rulership" %}
+                    <span class="text-xs font-bold opacity-60">{{ wahhabism | size }} Entries</span>
                 </div>
             </a>
 
