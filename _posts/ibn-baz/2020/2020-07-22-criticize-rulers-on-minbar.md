@@ -18,6 +18,7 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
+
 ### Question: 
 
 Was it the practice of our Salaf (righteous predecessors) to criticize rulers openly on the Minbar (pulpit)? If not, how would they advise their rulers?  

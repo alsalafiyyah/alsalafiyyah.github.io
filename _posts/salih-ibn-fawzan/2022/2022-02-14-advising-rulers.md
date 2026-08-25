@@ -20,6 +20,7 @@ muftis:
   - name: Shaykh Salih Al-Fawzan
     url: /biography/fawzan/
 ---
+
 ### Question: 
 
 What is the correct methodology for advising, particularly with regard to advising rulers? Should it be done by publicizing their evil actions from the mimbars or by advising them in private? I would like to know what the correct methodology is concerning this matter. 

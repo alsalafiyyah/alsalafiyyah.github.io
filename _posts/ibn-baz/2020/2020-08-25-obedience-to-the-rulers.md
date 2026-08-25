@@ -20,6 +20,7 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
+
 ### Question:
 
 Many questions raised about the statement that Your Eminence declared: **"Obeying the ruler is Obligatory"** and the Hadith: **"He who obeys the commander (appointed by me) obeys me."** [^1] Should we obey the ruler in everything?

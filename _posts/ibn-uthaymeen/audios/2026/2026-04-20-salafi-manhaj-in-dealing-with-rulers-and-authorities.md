@@ -4,13 +4,12 @@ publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-04-20
 hijri: '1447-11-03'
 title: The Salafi Methodology in Dealing with Rulers and Authorities
-source: Liqa' al-Bab al-Maftuh tape 57
+source: "Liqa' al-Bab al-Maftuh tape 57"
 category:
-- fatwas
 - rulers
 - audios
 - rulership
-mp3: https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_057_30.mp3
+mp3: https://salafimanhaj.github.io/assets/ibn-uthaymeen/the-salafi-methodology-in-dealing-with-rulers-and-authorities.mp3
 active: audios
 summary: There is no doubt that the manhaj (methodology) of the Salaf is to be patient
   with the harm of the rulers, to supplicate for them, and to establish the Friday
@@ -20,6 +19,7 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
+
 ### Question: 
 
 You mentioned in your speech regarding Salafism. The question is: if there is a man who outwardly appears to follow the Salaf, his creed (’aqidah) is sound, and he possesses many good deeds, yet he contradicts the Salaf in the methodology of dealing with the ruler—does he [then] exit the fold of Salafism and is he to be declared an innovator (a mubtadi')?

@@ -17,6 +17,7 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
+
 ### Question: 
 
 What is the ruling on one who abstains from supplicating to Allah for the ruler? May Allah protect you. 

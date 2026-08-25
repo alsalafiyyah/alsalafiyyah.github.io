@@ -21,6 +21,7 @@ muftis:
   - name: Shaykh Salih Al-Fawzan
     url: /biography/fawzan/
 ---
+
 ### Question: 
 
 Does the hadith, **"The best Jihad is a word of truth spoken in the presence of a tyrannical ruler,"** apply to someone who publicly criticizes the ruler through the media?

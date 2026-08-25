@@ -4,7 +4,6 @@ title: If we suppose that a certain group has a lawful excuse to rebel against a
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat p. 8/206
 category:
-- fatwas
 - rulership
 translation: false
 tags:
@@ -18,6 +17,7 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
+
 ### Question: 
 
 If we suppose that a certain group has a lawful excuse to rebel against a ruler, does this justify killing the assistants of this ruler and all those who work for their government, such as the police, the security forces, etc.? 

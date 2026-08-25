@@ -6,10 +6,10 @@ hijri: '1448-02-23'
 title: Refuting Claims That Scholars Fail to Advise Rulers
 category:
 - audios
-- rulers
+- rulership
 tags:
 - salih-ibn-fawzan
-mp3: https://audio.alfawzan.live/2018-04/34.mp3
+mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/refuting-claims-that-scholars-fail-to-advise-rulers.mp3
 link: https://alfawzan.live/content/17737/
 active: audios
 translation: false
@@ -22,6 +22,7 @@ muftis:
   - name: Shaykh Salih al-Fawzan
     url: /biography/fawzan/
 ---
+
 ### Question: 
 
 May Allah bless you, Your Eminence the Sheikh, what should we say, or how should we respond to someone who says and claims that the scholars in this country do not offer 'sincere advice' (naseehah) to the rulers and those in authority?

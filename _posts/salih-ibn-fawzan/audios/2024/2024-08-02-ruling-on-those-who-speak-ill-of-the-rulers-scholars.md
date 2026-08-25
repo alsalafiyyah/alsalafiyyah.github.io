@@ -7,20 +7,21 @@ hijri: '1446-01-27'
 date: 2024-08-02
 active: audios
 category:
-- fatwas
 - audios
 - rulership
 - sects
+- khawarij
 tags:
 - salih-ibn-fawzan
 summary: 'These people fall into two categories: Either they are Kharijites who promote
   the ideology of the Khawarij'
-mp3: https://www.alfawzan.af.org.sa/sites/default/files/6594.mp3
+mp3: https://audio.alfawzan.live/6594.mp3
 muftis:
   shaykh:
   - name: Shaykh Salih Al-Fawzan
     url: /biography/fawzan/
 ---
+
 ### Question: 
 
 This [questioner] asks: What should our stance be toward those who speak ill of the [Muslim] rulers and the scholars? And if they are among our brothers, is it sufficient to boycott them, or must we report them?

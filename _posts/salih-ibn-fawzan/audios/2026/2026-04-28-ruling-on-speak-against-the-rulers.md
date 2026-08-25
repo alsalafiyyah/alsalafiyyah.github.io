@@ -5,7 +5,6 @@ date: 2026-04-28
 hijri: '1447-11-11'
 title: The Ruling on Publicly Disclosing the Faults of the Ruler
 category:
-- fatwas
 - audios
 - rulership
 tags:

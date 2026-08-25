@@ -1,23 +1,22 @@
 ---
 layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
-title: Refuting Fatwas on the Killing of Foreign Nationals
-date: 2026-06-12
+title: 'Refuting Fatwas on the Killing of Foreign Nationals'
+date: '2026-06-12'
+hijri: '1447-12-26'
 category:
 - rulership
-- terrorism
 - non-muslim
 - sects
 tags:
 - salih-ibn-fawzan
-link: http://www.ajurry.com/vb/showthread.php?t=7086
+link: 'http://www.ajurry.com/vb/showthread.php?t=7086'
 summary: It is impermissible to kill non-Muslims who have arrived under a covenant
   and security agreement.
 muftis:
   shaykh:
   - name: Shaykh Salih Al-Fawzan
     url: /biography/fawzan
-hijri: '1447-12-26'
 ---
 ### Question:
 
