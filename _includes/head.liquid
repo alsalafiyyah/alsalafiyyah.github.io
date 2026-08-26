@@ -10,20 +10,20 @@
 <meta property="og:site_name" content="{{ site.title | escape }}" />
 <meta property="og:title" content="{{ page.title | default: site.title | escape }}" />
 <meta property="og:description" content="{{ page.summary | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}"/>
-<meta property="og:image" content="https://alsalafiyyah.github.io/assets/images/fb.jpg" />
+<meta property="og:image" content="{{ '/assets/images/fb.jpg' | absolute_url }}" />
 <meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}" />
 <meta property="og:url" content="{{ page.url | replace:'/index.html','/' | absolute_url }}" />
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{{ page.title | default: site.title | escape }}">
 <meta name="twitter:description" content="{{ page.summary | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}"/>
-<meta name="twitter:image" content="https://alsalafiyyah.github.io/assets/images/fb.jpg"/>
+<meta name="twitter:image" content="{{ '/assets/images/fb.jpg' | absolute_url }}"/>
 
-<meta name="theme-color" content="#000000"> <meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#ffffff"> <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<link rel="manifest" href="https://alsalafiyyah.github.io/manifest.json">
-<link rel="apple-touch-icon" sizes="180x180" href="https://alsalafiyyah.github.io/assets/icons/apple-touch-icon.png">
-<link rel="icon" type="image/x-icon" href="https://alsalafiyyah.github.io/assets/icons/favicon.ico"/>
+<link rel="manifest" href="{{ '/manifest.json' | absolute_url }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/icons/apple-touch-icon.png' | absolute_url }}">
+<link rel="icon" type="image/x-icon" href="{{ '/assets/icons/favicon.ico' | absolute_url }}"/>
 
 {% if site.webmaster_verifications %}
 <meta name="p:domain_verify" content="{{ site.webmaster_verifications.domain_verify }}"/>
@@ -46,14 +46,12 @@
 <link rel="next" href="{{ paginator.next_page_path | absolute_url }}" />
 {% endif %}
 
-<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="https://alsalafiyyah.github.io/feed.xml">
-
-
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-<script src="https://alsalafiyyah.github.io//assets/tailwindcss.js"></script>
+<script src="{{ '/assets/tailwindcss.js' | absolute_url }}"></script>
 <script type="module" src="https://cdn.jsdelivr.net/npm/player.style/tailwind-audio/+esm"></script>
 <script src="https://cdn.tailwindcss.com"></script>
-<link rel="stylesheet" href="https://alsalafiyyah.github.io/assets/custom-styles.css">
+<link rel="stylesheet" href="{{ '/assets/custom-styles.css' | absolute_url }}">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&family=Playfair+Display:ital,wght@0,900;1,900&display=swap" rel="stylesheet">
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z0KFD0T2JQ"></script>
@@ -64,7 +62,7 @@
 
   gtag('config', 'G-Z0KFD0T2JQ');
 </script>
-<!-- Clarity tracking code for https://alsalafiyyah.github.io/ --><script>    (function(c,l,a,r,i,t,y){        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);    })(window, document, "clarity", "script", "n477hgra2y");</script>
+<!-- Clarity tracking code --><script>    (function(c,l,a,r,i,t,y){        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);    })(window, document, "clarity", "script", "n477hgra2y");</script>
 
   <script>
   tailwind.config = {
