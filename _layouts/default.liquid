@@ -1,39 +1,40 @@
----
-layout: null
----
 <!DOCTYPE html>
 <html lang="{{ site.site_elements.lang }}" dir="{{ site.site_elements.dir }}">
 <head>
-  {% include head.liquid %}
+  {% include_cache head.liquid %}
 </head>
-<body dir="{{ site.site_elements.dir }}" itemscope itemtype="https://schema.org/WebPage" class="...">
-  {% include navbar.liquid %}
+<body dir="{{ site.site_elements.dir }}" itemscope itemtype="https://schema.org/WebPage" class="bg-white dark:bg-zinc-950 dark:text-zinc-100 text-black antialiased selection:bg-black selection:text-white dark:selection:bg-white dark:selection:text-black transition-colors duration-300 is-preload" onload="setModifiedDate(); setAccessedDate();">
+
+  {% include_cache navbar.liquid %}
+
   <main role="main" class="max-w-7xl mx-auto px-8">
-    {% unless page.url == "/" or page.url == "/ar" %}
-    <header class="py-6 border-b-4 border-black dark:border-white">
-        <div class="max-w-7xl">
-         {% if page.section == "audios" %}
-          {% assign audio_posts = site.posts | where_exp: "post", "post.active == 'audios'" %}
-          <span class="text-sm font-black uppercase tracking-[0.3em]">Total Audio Fatwas: {{ audio_posts.size }}</span>
-         {% elsif page.section == "videos" %}
-          {% assign video = site.posts | where_exp: "post", "post.active == 'videos'" %}
-          <span class="text-sm font-black uppercase tracking-[0.3em]">Total Video Fatwas: {{ video.size }}</span>
-         {% endif %}
-         <h1 itemprop="headline" class="text-3xl md:text-[3vw] leading-[0.9] font-black uppercase tracking-tighter serif mt-8">
-            {{ page.title }}
-         </h1>
-        </div>
-    </header>
-    {% endunless %}
-    <section class="grid grid-cols-1 md:grid-cols-12 gap-12 py-24 items-start">
-        {% include aside.liquid %}
-        <article class="md:col-span-8 md:col-start-5 max-w-none">
-            {{ content }}
-        </article>
-    </section>
+      {% unless page.url == "/" or page.url == "/ar" %}
+      <header class="py-6 border-b-4 border-black dark:border-white">
+          <div class="max-w-7xl">
+           {% if page.section == "audios" %}
+            {% assign audio_posts = site.posts | where_exp: "post", "post.active == 'audios'" %}
+            <span class="text-sm font-black uppercase tracking-[0.3em]">Total Audio Fatwas: {{ audio_posts.size }}</span>
+           {% elsif page.section == "videos" %}
+            {% assign video = site.posts | where_exp: "post", "post.active == 'videos'" %}
+            <span class="text-sm font-black uppercase tracking-[0.3em]">Total Video Fatwas: {{ video.size }}</span>
+           {% endif %}
+           <h1 itemprop="headline" class="text-3xl md:text-[3vw] leading-[0.9] font-black uppercase tracking-tighter serif mt-8">
+              {{ page.title }}
+           </h1>
+          </div>
+      </header>
+      {% endunless %}
+
+      <section class="grid grid-cols-1 md:grid-cols-12 gap-12 py-24 items-start">
+          {% include_cache aside.liquid %}
+          <article class="md:col-span-8 md:col-start-5 max-w-none">
+              {{ content }}
+          </article>
+      </section>
   </main>
-  {% include bug-report-modal.liquid %}
-  {% include footer.liquid %}
-  {% include scripts.html defer=true %}
+
+  {% include_cache bug-report-modal.liquid %}
+  {% include_cache footer.liquid %}
+  {% include scripts.html defer=true %}  
 </body>
 </html>
