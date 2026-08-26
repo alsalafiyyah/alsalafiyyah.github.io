@@ -10,7 +10,7 @@ active: audios
 tags: abdul-aziz-al-rajihi
 category:
 - audios
-mp3: "https://files.zadapps.info/shrajhi.com.sa/alfatawa/alaqeedah/rfq%20(317).mp3"
+mp3: "https://salafimanhaj.github.io/assets/abdul-aziz-al-rajihi/ruling-on-claiming-prophethood-and-the-mahdi.mp3"
 link: "https://shrajhi.com.sa/fatawa/49/%D8%B1%D8%AC%D9%84-%D9%8A%D8%AF%D8%B9%D9%8A-%D8%A7%D9%84%D9%85%D9%87%D8%AF%D9%8A%D8%A9-%D8%AB%D9%85-%D8%A7%D9%84%D9%86%D8%A8%D9%88%D8%A9"
 summary: "It is incumbent upon the questioner and others to prove this and refer the matter to the court so that he may be brought in and investigated, and if it is proven that he claimed prophethood, he is executed."
 muftis:

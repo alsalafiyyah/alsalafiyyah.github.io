@@ -2,7 +2,7 @@
 layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on disbelieving in Salafiyyah
-mp3: https://alsalafiyyah.github.io/assets/audios/rule-on-saying-disbelieve-in-salafiyyah.mp3
+mp3: "https://salafimanhaj.github.io/assets/abdul-muhsin/rule-on-saying-disbelieve-in-salafiyyah.mp3"
 hijri: '1446-01-16'
 date: 2024-07-22
 active: audios

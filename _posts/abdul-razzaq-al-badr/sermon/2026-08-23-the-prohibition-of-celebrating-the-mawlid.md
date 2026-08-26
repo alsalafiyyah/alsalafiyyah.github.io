@@ -13,7 +13,7 @@ category:
 - khutbah
 - mawlid
 link: https://al-badr.net/detail/74UbgLMmkxNf
-mp3: https://al-badr.net/download/esound/khutob/004_069.mp3
+mp3: https://salafimanhaj.github.io/assets/abdul-razzaq-al-badr/the-prohibition-of-celebrating-the-mawlid.mp3
 active: audios
 muftis:
   shaykh:

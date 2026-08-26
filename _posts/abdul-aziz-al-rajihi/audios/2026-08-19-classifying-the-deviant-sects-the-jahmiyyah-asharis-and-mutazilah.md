@@ -10,7 +10,7 @@ tags: abdul-aziz-al-rajihi
 category:
 - sects
 link: "https://shrajhi.com.sa/fatawa/75"
-mp3: "https://files.zadapps.info/shrajhi.com.sa/alfatawa/alaqeedah/rfq_7.mp3"
+mp3: "https://salafimanhaj.github.io/assets/abdul-aziz-al-rajihi/classifying-the-deviant-sects-the-jahmiyyah-asharis-and-mutazilah.mp3"
 active: audios
 summary: "The Ash'aris are Jahmiyyah and the Mu'tazilah are Jahmiyyah because they contain a type of Tajham (Jahmi-leaning theology)."
 muftis:

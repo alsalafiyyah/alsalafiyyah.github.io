@@ -2,7 +2,7 @@
 layout: post
 published: true
 publisher: alsalafiyyah.manhaj@gmail.com
-title: What is the future of occupied Jerusalem?
+title: The Future of Occupied Jerusalem
 date: 2024-08-23
 active: audios
 category:
@@ -10,27 +10,34 @@ category:
 - palestine
 tags:
 - albani
-summary: We are upon certainty that the Jews will not have permanency in Palestine.
-mp3: https://phaven-prod.s3.amazonaws.com/files/audio_part/asset/3185610/NT0gkf1R8df0NCrEqxIQs-o0abs/Jewish_Occupation_of_Jerusalem.mp3
-translated_by: Rasheed ibn Estes Barbee
+summary: "There is no peace. There is no peace except through Islam. The day you see Islam governing all of creation, then announce peace."
+mp3: "https://salafimanhaj.github.io/assets/albani/the-future-of-occupied-jerusalem.mp3"
+link: https://www.al-albany.com/audios/content/145532/
 muftis:
   shaykh:
   - name: Shaykh Al-Albani
     url: /biography/albani
 hijri: '1446-02-19'
 ---
-### Question: 
 
-A key point, what is the future of occupied Jerusalem and its destination after the peace treaty with the Jews?
+### Questioner: 
+A fundamental point: what is the future and fate of occupied Jerusalem after entering into a peace agreement with the Jews?
 
-### Answer: 
+### Shaykh: 
+There is no peace. There is no peace except through Islam. The day you see Islam governing all of creation, then announce peace.
 
-There is no peace. There is no peace except with Islam. The day you see Islam ruling the people then proclaim peace. But we are upon certainty that the Jews will not have permanency in Palestine. This is as Allah the Exalted said: **“It is the truth, just as it is the truth that you can speak.”** (Adh-Dhariyat 51:23)
+### Questioner: 
+Allah willing.
 
-Because there are authentic narrations that clearly state that when the Dajjal (anti-Christ) appears during the last days, Jesus (peace be upon him) will be in Masjid Al-Aqsa. The Dajjal will appear followed by seventy thousand Jews of Isfahan wearing Persian shawls. They will come with the Dajjal om Isfahan. Therefore, Jesus will be in Jerusalem, where will the Jews be? They will have become a thing of the past. But during this current time, as Allah the Exalted said: **“And these days [of varying conditions] We alternate among the people.”** (Aal `Imrān 3:140).
+### Shaykh: 
+However, we are certain that the Jews have no permanent foothold in Palestine—this is as true as Allah Almighty said: **"Then, by the Lord of the heaven and the earth, it is the truth (i.e. what has been promised to you), just as it is the truth that you can speak."** [Adh-Dhariyat:23]
 
-The Jews certainly have no permanency in Palestine, but who are those who will remove them? They will be removed by Muslims, believers, those upon true monotheism. There is a saying I say in Sham, and I will repeat it. We have a narration that gives us great glad tidings. The summary of the Hadith is the Prophet (peace be upon him) gave glad tidings to the Muslims that they will conquer Constantinople and Rome. Constantinople means Istanbul and Romiya means Rome. The Messenger gave them this great glad tidings. A question was asked. Which of the two cities will be conquered ﬁrst Constantinople or Rome? He said: “O the contrary, it will be Constantinople. And as you know, Constantinople was conquered. Thus, it remains for the Muslims to conquer Rome.
+This is because authentic prophetic traditions explicitly state that when the Dajjāl (Antichrist) emerges at the end of time, Jesus—peace and blessings be upon him—will be in the Al-Aqsa Mosque. He will go out to face the Dajjāl, who will be accompanied by seventy thousand Jews wearing shawl-like cloaks (ṭayālisah), having come with him from Isfahan. So, Jesus will be in Jerusalem, but where will the Jews be? They will have become a thing of the past.
 
-But here is the point. I used to say in Damascus, Rome is the capital of the Christians, the Centre of the Pope. Who is going to conquer this? The Muslims today? We have a village in East Damascus about 15 kilometers away called Douma. I used to say, the Muslims today are not able to conquer Douma let alone conquer the capital of Rome. Rome will be conquered by youth who are not distracted by business nor trade from the remembrance of Allah and the establishment of the prayer. Hopefully, this will be soon. 
+However, this current era is an era governed by what Allah Almighty said: **"And so are the days (good and not so good), We give to men by turns,..."** [Aal 'Imran :140]
 
+The Jews certainly have no permanent stay in Palestine, but who will expel them? They will be expelled by true, believing, monotheistic Muslims.
 
+I have a saying that I used to repeat in Damascus, drawing from a tradition containing one of the greatest glad tidings. The essence of the narration is that the Prophet—peace and blessings be upon him—gave glad tidings to the Muslims that they would conquer Constantinople and Rome. Constantinople refers to Istanbul, and Rumiyyah refers to Rome. The Prophet had delivered this monumental glad tiding, so a question arose: "Which of the two cities will we conquer first, Constantinople or Rome?" He replied: "No, rather Constantinople."
+
+As you know, Constantinople was conquered, so what remains for the Muslims is to conquer Rome. But here is the key point: I used to say in Damascus that Rome is the capital of the Christians and the center of the Pope—who will conquer it? The Muslims of today? Today, we have a village east of Damascus, 15 kilometers away, called Douma. I used to say: Muslims today cannot even liberate a village like Douma, let alone conquer a capital like Rome. The conquest of Rome requires serious effort; it requires believing youth whom neither trade nor sale distracts from the remembrance of Allah and the establishment of prayer. And perhaps that will be soon.

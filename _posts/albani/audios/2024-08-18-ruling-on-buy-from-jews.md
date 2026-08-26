@@ -2,44 +2,35 @@
 layout: post
 published: true
 publisher: alsalafiyyah.manhaj@gmail.com
-title: Ruling on buying from the Jews who are in a state of war against the Muslims
+title: Ruling on Trade and Labor with the Jews in Times of War
 hijri: '1446-02-14'
 date: 2024-08-18
 active: audios
 category:
-- fatwas
 - audios
 - palestine
 - non-muslim
 tags:
 - albani
-source: Silsilat Al-Huda wa an-Noor 623
-summary: If they are at war, then it is not permissible to have dealings with them,
-  whether that is in the country they have invaded or occupied, such as the Jews in
-  Palestine, or in their own state.
-mp3: https://alathar.net//home/esound/index.php?op=stream&co=486&cntid=5496&ftype=1
-translated_by: Dr. Muhammad Aqib Hussain
+source: Silsilah Al-Huda wa an-Nur 623
+summary: "However, if they are combatants at war, it is not permissible to deal with them at all—whether in the land they have occupied, such as the Jews in the land of Palestine, or in their own lands, so long as they are actively waging war against us."
+mp3: "https://salafimanhaj.github.io/assets/albani/ruling-on-trade-and-labor-with-the-jews-in-times-of-war.mp3"
+link: https://alathar.net/home/esound/index.php?op=codevi&coid=5496
 muftis:
   shaykh:
   - name: Shaykh Al-Albani
     url: /biography/albani/
-article_taken_from:
-  taken_from:
-  - web_title: هل يجوز الشراء و العمل مع اليهود ؟
-    web_url: https://alathar.net/home/esound/index.php?op=codevi&coid=5496
 ---
-### Questioner: 
-Since there is war between us and the Jews is it permissible to buy from the Jews and to have economic dealings with them in the European countries?
-
-### The shaykh: 
-Buying from the Jews?
 
 ### Questioner: 
-Yes, and dealing with them in the lands of Europe?
+The second question, our Shaykh: Given that war is currently ongoing between us and the Jews, is it permissible to buy from Jews and work for them in a European country?
 
-### The Shaykh: 
-We do not differentiate between the Jews and the Christians in terms of dealing with them in those countries. It is well known that dealing with the Polytheists and Non-Muslims is permissible if they are amongst Ahlul Dhimmmah (non-Muslims living under Muslim rule and enjoying the protection of the Muslim state), living in the countries or states of Islam. And like that if they are peaceful, not at war, the ruling is the same as that. 
+### Shaykh: 
+Buying from Jews?
 
-However, if they are at war, then it is not permissible to have dealings with them, whether that is in the country they have invaded or occupied, such as the Jews in Palestine, or in their own country/state. As long as they remain at war it is not permissible to have dealings with them at all. 
+### Questioner: Yes, and working for them in a European country.
 
-As for those who are peaceful as we have mentioned, then the basic principle is of permissibility (of dealing).
+### Shaykh: 
+We do not distinguish between Jews and Christians regarding commercial dealings with them in those countries. As for non-Muslims (kuffar) and polytheists (mushrikun), if they are protected non-Muslim citizens (dhimmi) residing in the lands of Islam, the permissibility of dealing with them is well known. Likewise, if they are peaceful and non-combatants, the ruling remains the same.
+
+However, if they are combatants at war, it is not permissible to deal with them at all—whether in the land they have occupied, such as the Jews in the land of Palestine, or in their own lands, so long as they are actively waging war against us. As for those who are peaceful, as we mentioned, it remains permissible based on the original principle.

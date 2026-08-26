@@ -11,7 +11,7 @@ tags: abdul-aziz-al-rajihi
 category:
 - audios
 - ahl-fatrah
-mp3: "https://files.zadapps.info/shrajhi.com.sa/alfatawa/alaqeedah/rfq%20(304).mp3"
+mp3: "https://salafimanhaj.github.io/assets/abdul-aziz-al-rajihi/the-legal-status-of-the-prophets-parents-and-the-people-of-the-interregnum.mp3"
 link: "https://shrajhi.com.sa/fatawa/43/%D8%A7%D9%84%D8%AD%D9%83%D9%85-%D8%B9%D9%84%D9%89-%D9%88%D8%A7%D9%84%D8%AF%D9%8A%D9%91-%D8%A7%D9%84%D9%86%D8%A8%D9%8A-"
 summary: "Thus, the Ahl al-Fatrah are as such: among them are those whom the call reached, and among them are those whom the call did not reach."
 muftis:
