@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.site_elements.lang }}" dir="{{ site.site_elements.dir }}">
 <head>
-  <title>{{ page.title | default: site.title | escape }}</title>
-  {% include_cached head.liquid %}
+  {% include head.liquid %}
 </head>
 <body dir="{{ site.site_elements.dir }}" itemscope itemtype="https://schema.org/WebPage" class="bg-white dark:bg-zinc-950 dark:text-zinc-100 text-black antialiased selection:bg-black selection:text-white dark:selection:bg-white dark:selection:text-black transition-colors duration-300 is-preload" onload="setModifiedDate(); setAccessedDate();">
   
