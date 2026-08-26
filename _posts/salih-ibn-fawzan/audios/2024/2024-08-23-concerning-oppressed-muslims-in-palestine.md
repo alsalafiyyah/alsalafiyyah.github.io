@@ -6,7 +6,6 @@ title: Concerning Oppressed Muslims in Palestine
 hijri: '1446-02-19'
 date: 2024-08-23
 lang: en
-locale: en
 active: audios
 category:
 - audios
@@ -14,7 +13,6 @@ category:
 - zakah
 tags:
 - salih-ibn-fawzan
-note: false
 summary: Assist them with wealth and donations. Because they are in need. There are
   among them families, the elderly, children and the poor. Assist them with wealth
   along with supplicating for them.
@@ -25,8 +23,11 @@ muftis:
   - name: Shaykh Salih Al-Fawzan
     url: /biography/fawzan
 ---
+
 ### Question: 
+
 May Allah reward you with good, this questioner says, what is your advice for the Muslims in light of the conditions which they are living under in Palestine and what actions are obligatory upon the Muslims to do?
 
 ### Answer: 
+
 The actions which are obligatory upon the Muslims to implement with regards to their brothers who are oppressed and persecuted the world over—but in Palestine it is more severe; the action is to supplicate for them to achieve victory and help and supplicate against their enemies. And assist them with wealth. Assist them with wealth and donations. Because they are in need. There are among them families, the elderly, children and the poor. Assist them with wealth along with supplicating for them.
