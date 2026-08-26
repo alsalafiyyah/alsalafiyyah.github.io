@@ -19,6 +19,7 @@ muftis:
     url: /biography/ahmad-alnajmi
 hijri: '1442-01-17'
 ---
+
 ### Question: 
 
 What is al-Salafiyyah (Salafism), and who is their leader?

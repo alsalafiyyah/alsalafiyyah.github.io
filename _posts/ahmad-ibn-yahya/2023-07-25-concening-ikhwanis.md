@@ -7,32 +7,29 @@ source: Al-Fatawa Al-Jaliyyah ‘anil-Manahij Al-Da’wiyyah pg. 51-55
 lang: en
 category:
 - sects
+- ikhwanism
 tags:
 - ahmad-ibn-yahya
 translation: false
-summary: The founder of this methodology was a Sufi. He had a connection with Sufism.
-article_taken_from:
-  taken_from:
-  - web_title: Modern Day Devient Groups
-    web_url: https://abdurrahman.org/2014/01/15/moderndaydevientgroups/
+summary: "They are the followers of the misguided innovator Hasan al-Banna, and there are critical objections to their methodology"
 muftis:
   shaykh:
   - name: Shaykh Ahmad Ibn Yahya An-Najmi
     url: /biography/ahmad-alnajmi
 ---
-They are the followers of Hasan Al-Banna. There are several points to be noted about their methodology, the most important of which are the following:
 
-1. They show a lack of importance to Tawhid Al-‘Ibadah [^1], which is the most important matter in Islam, since the Islaam of an individual is not valid without it.
-2. They remain silent and concede to the people in their performance of major Shirk, supplication to other than Allaah, performance of tawaaf around graves, making oaths to the dead in the graves, sacrificing in their names and so on.
-3. The founder of this methodology was a Sufi. He had a connection with Sufism to the point that he gave bay’ah (oath of allegiance) to ‘Abdul-Wahhab Al-Khusafi upon (following) his Khusafi Shadhili order.
-4. The presence of innovations amongst them and their worshipping Allah through them – even to the point that the founder of this methodology acknowledged that the Prophet ﷺ would attend their gatherings of dhikr and that he ﷺ would forgive what past sins they had committed, as is found in his saying: **“May Allah bless the one who upon light in which he appeared. To the worlds, and so he surpassed the sun and the moon
-This habib (i.e. Muhammad) along with his beloved has gathered
-And pardoned everyone in what sins they did in the past.”**
-5. They call to establishing the Khilafah and this is an innovation because the Messengers and their followers were not entrusted with anything except to call to Tawhid. Allah says: **“And We have indeed sent to every nation a messenger, (saying to his people): ‘Worship Allah and avoid the taghut (false deities).’”** [Al-Nahl: 36]
-6. They have a lack of Wala and Bara (loyalty and disavowment) or a weak form of it. This is made clear in their call to bring closeness between the Sunnis and the Shi’ah. And their founder was quoted as saying: **“We will cooperate with one another in what we agree on and pardon one another in what we disagree on.”**
-7. They hate and despise the people of Tawhid and those who adhere to the Salafi Way. This is made clear in their talk concerning the Saudi state, which is founded upon Tawhid and which teaches Tawhid in its schools, institutes and universities. And it was made clear in their killing of Jamil Ar-Rahman Al-Afghanee just because he called to Tawhid and because he had schools in which he would teach Tawhid.
-8. They pursue the mistakes of the leaders and expose their faults – whether true or false – spreading them amongst the youth in order to make the leaders appear hateful to them and so that they can fill their hearts with contempt against them.
-9. They hold detestable partisanship to the party they ascribe themselves to. So they show friendship based on this party and they show enmity based on this party.
-10. They give their oath of allegiance to work for the Ikhwani Manhaj according to the ten conditions that the founder has set forth. And there are other issues of concern, which perhaps can be dealt with at a later time.
+The Muslim Brotherhood: They are the followers of the misguided innovator Hasan al-Banna, and there are critical objections to their methodology, the most important of which are the following:
 
-[^1]: Translator’s Note: This is the category of Tawhid related to the Oneness of Allah in the worship that is performed to Him, i.e. that we worship only Allah and no one else.
+1. Laxity in the 'Tawhid Al-‘Ibadah' (single-out Allah alone for all worship): This is the most important thing in Islam, and a servant's Islam is not valid without it.
+2. Their silence and tacit approval of people regarding major polytheism: Such as supplicating to other than Allah, circumambulating graves, making vows to their occupants, sacrificing animals in their names, and the like.
+3. The founder of this methodology was a Sufi: He had ties to Sufism, having taken the oath of allegiance (bay'ah) from Abd al-Wahhab al-Hasafi according to his Hasafi-Shadhili path.
+4. The presence of bid'ah (innovations) among them and practicing worship through them: In fact, the founder of the methodology asserts that the Prophet (peace be upon him) attends their 'remembrance' (dhikr) gatherings and forgives them for their past sins, as stated in his poetry: *May God bestow His blessings upon the Light that appeared. To the worlds, surpassing both the sun and the moon. This beloved one is present with the loved ones, And he has forgiven everyone for whatever has passed and transpired.*
+5. Their call for the Caliphate: This is an innovation, for the Messengers and their followers were charged with nothing except calling to Monotheism. Allah the Almighty said: **"And We certainly sent into every nation a messenger, [saying], 'Worship Allah and avoid Taghut [false deities].'"** [An-Nahl: 36].
+6. The absence or weakness of Al-Wala' wa-l-Bara' (Loyalty and Disavowal) among them: This is evident from their call to rapprochement between Sunnis and Shiites, and the founder's statement: "We cooperate in what we agree upon, and excuse one another in what we differ upon"—End quote.
+7. Their hatred and resentment toward the people of Monotheism and adherents of the Salafi path: This is clear from their rhetoric regarding the Saudi state—which was established upon Monotheism and teaches Monotheism in its schools, institutes, and universities—and from their assassination of Jamil al-Rahman al-Afghani because he called to Monotheism and ran schools where Monotheism was taught.
+8. Tracking the stumbles of rulers and searching for their flaws: Whether true or false, and publishing them among the rising youth to make them despise the rulers and fill their hearts with resentment against them.
+9. Detestable partisanship: To which they belong, forming allegiances and enmities solely based on this party.
+10. Taking the oath of allegiance (bay'ah) to work for the Brotherhood's methodology: Based on the ten conditions mentioned by the founder. 
+
+There are other observations that can be addressed later.
+

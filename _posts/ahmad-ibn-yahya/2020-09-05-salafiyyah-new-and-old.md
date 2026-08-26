@@ -17,6 +17,7 @@ muftis:
     url: /biography/ahmad-alnajmi
 hijri: '1442-01-17'
 ---
+
 ### Question:
 
 Is there an old al-Salafiyyah (Salafism) and a new Salafism, or is it a single Salafism?
