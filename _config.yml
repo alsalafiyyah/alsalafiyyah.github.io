@@ -165,6 +165,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
+  - liquid-c
 
 exclude:
   - bin
