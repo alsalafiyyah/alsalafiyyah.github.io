@@ -23,6 +23,7 @@ muftis:
   - name: Shaykh Ibn Uthaymeen
     url: /biography/uthaymeen/
 ---
+
 Questioner: It has become customary to describe a specific group of Muslims as Salafis...
 
 The Sheikh: A what group?
