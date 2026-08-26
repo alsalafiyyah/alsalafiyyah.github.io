@@ -83,6 +83,7 @@ Therefore, the favored generations are the Righteous Predecessors (al-Salaf al-S
 - [Salafism: Its Reality and Characteristics](/audios/salafism-its-reality-and-characteristics/) - Shaykh Salih al-Fawzan
 - [Refuting The Claim That Salafi Da'wah Fails to Keep Pace with the Modern Era](/audios/refuting-the-claim-that-salafi-dawah-fails-to-keep-pace-with-the-modern-era/) - Shaykh Salih al-Fawzan
 - [Is Salafism a Partisan Group?](/is-salafism-a-partisan-group/) - Shaykh Abdul-Aziz al-Rajihi
+- [Ruling on saying 'I am a Salafi'](/ruling-on-saying-i-am-a-salafi/) - Shaykh Abdul-Aziz al-Rajihi
  
 ---
 
