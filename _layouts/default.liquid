@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="{{ site.site_elements.lang }}" dir="{{ site.site_elements.dir }}">
 <head>
-  {% include_cache head.liquid %}
+  {% include_cached head.liquid %}
 </head>
 <body dir="{{ site.site_elements.dir }}" itemscope itemtype="https://schema.org/WebPage" class="bg-white dark:bg-zinc-950 dark:text-zinc-100 text-black antialiased selection:bg-black selection:text-white dark:selection:bg-white dark:selection:text-black transition-colors duration-300 is-preload" onload="setModifiedDate(); setAccessedDate();">
-
-  {% include_cache navbar.liquid %}
-
+  
+  {% include_cached navbar.liquid %}
+  
   <main role="main" class="max-w-7xl mx-auto px-8">
       {% unless page.url == "/" or page.url == "/ar" %}
       <header class="py-6 border-b-4 border-black dark:border-white">
@@ -24,17 +24,17 @@
           </div>
       </header>
       {% endunless %}
-
+      
       <section class="grid grid-cols-1 md:grid-cols-12 gap-12 py-24 items-start">
-          {% include_cache aside.liquid %}
+          {% include_cached aside.liquid %}
           <article class="md:col-span-8 md:col-start-5 max-w-none">
               {{ content }}
           </article>
       </section>
   </main>
-
-  {% include_cache bug-report-modal.liquid %}
-  {% include_cache footer.liquid %}
+  
+  {% include_cached bug-report-modal.liquid %}
+  {% include_cached footer.liquid %}
   {% include scripts.html defer=true %}  
 </body>
 </html>
