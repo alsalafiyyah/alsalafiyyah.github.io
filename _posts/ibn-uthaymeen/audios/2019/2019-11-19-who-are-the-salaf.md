@@ -71,12 +71,12 @@ Therefore, the favored generations are the Righteous Predecessors (al-Salaf al-S
 - [The Foundations and Principles of the Salafi Call](/the-origins-and-principles-of-the-salafi-dawah) - Permanent Committee
 - [What is meant by the Salafi Methodology?](/what-is-meant-by-the-salafi-methodology) - Shaykh Salih al-Fawzan
 - [Is it correct to use the term 'Salafiyyah' in this day and age?](/audios/is-it-correct-to-use-the-term-salafiyyah) - Shaykh Ibn 'Uthaymeen
+- [Defining True Salafism vs. Partisan Affiliation](/audios/defining-true-salafism-vs-partisan-affiliation)
 - [Ruling on disbelieving in Salafiyyah](/audios/rule-on-disbelieving-in-salafiyyah/) - Shaykh Abdul-Muhsin al-Abbad
 - [Ruling on the Categorization of Salafism into 'Old' and 'New'](/salafiyyah-new-and-old/) - Shaykh Ahmad ibn Yahya al-Najmi
 - [A Response Regarding the Definition of the Salafi Methodology](/response-regarding-the-definition-of-the-salafi-manhaj) - Shaykh Ahmad ibn Yahya al-Najmi
 - [The Legal Ruling on Openly Declaring Oneself a Salafi](/the-legal-ruling-on-openly-declaring-oneself-a-salafi) - Shaykh Ahmad ibn Yahya al-Najmi
 - [On the Scope of the Term 'Salafi' and the Rejection of Factional Divisions](/audios/on-the-scope-of-the-term-salafi-and-rejection-of-factional-divisions) - Shaykh Ibn 'Uthaymeen
-- [Affiliation with the Righteous Salaf: An Obligation, Not a Faction](/audios/affiliation-with-the-righteous-salaf) - Shaykh Ibn 'Uthaymeen
 - [Salafism: Its Reality and Characteristics](/audios/salafism-its-reality-and-characteristics) - Shaykh Salih al-Fawzan
 - [Distinguishing Between the Salafi](/distinguishing-between-the-salafi/) - Shaykh Salih al-Fawzan
 - [Misusing the Label 'Salafi'](/audios/misusing-the-label-salafi/) - Shaykh Salih al-Fawzan
