@@ -10,7 +10,7 @@ category:
 - bidah
 tags:
 - salih-ibn-fawzan
-mp3: https://audio.alfawzan.live/18_19.mp3
+mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/the-ruling-on-reciting-surah-yasin-over-the-deceased.mp3
 link: https://alfawzan.live/content/16720/
 active: audios
 translation: false

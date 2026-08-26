@@ -10,16 +10,18 @@ translated: false
 active: audios
 category:
 - audios
+- manhaj
 tags:
 - salih-ibn-fawzan
 note: false
 summary: This is a custom they adopted, and it has no basis in religion.
-mp3: https://phaven-prod.s3.amazonaws.com/files/audio_part/asset/3008953/1Aok-km1hvB25V732Imy-1CO8cU/Crescent_is_not_Islamic_symbol.mp3
+mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/is-the-crescent-a-religious-symbol.mp3
 muftis:
   shaykh:
   - name: Shaykh Salih Al-Fawzan
     url: /biography/fawzan
 ---
+
 ### Question: 
 
 May Allah reward you with goodness and be generous to you, why do Muslims use the crescent symbol on the minarets of their mosques?

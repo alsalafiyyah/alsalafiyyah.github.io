@@ -10,7 +10,7 @@ category:
 - bidah
 tags:
 - salih-ibn-fawzan
-mp3: https://audio.alfawzan.live/2020-02/08.mp3
+mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/the-ruling-on-celebrating-valentines-day-in-islam.mp3
 link: https://alfawzan.live/content/18322/
 active: audios
 translation: false
@@ -23,6 +23,7 @@ muftis:
   - name: Shaykh Salih al-Fawzan
     url: /biography/fawzan/
 ---
+
 ### Question: 
 
 Your Eminence, may Allah grant you success, this questioner asks: What is the ruling regarding what has become common among some people—celebrating the so-called "Valentine's Day," which people celebrate these days?

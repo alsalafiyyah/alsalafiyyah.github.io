@@ -9,7 +9,7 @@ category:
 - mawlid
 tags:
 - salih-ibn-fawzan
-mp3: https://audio.alfawzan.live/2019-12/44.mp3
+mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/the-ruling-on-celebrating-birthdays-for-new-converts.mp3
 link: https://alfawzan.live/content/18250/
 active: audios
 translation: false

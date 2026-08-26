@@ -8,7 +8,7 @@ category:
 - audios
 tags:
 - salih-ibn-fawzan
-mp3: https://audio.alfawzan.live/11_35.mp3
+mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/the-responsibility-of-youth-and-parents-in-the-digital-era.mp3
 link: https://alfawzan.live/content/16767/
 active: audios
 translation: false

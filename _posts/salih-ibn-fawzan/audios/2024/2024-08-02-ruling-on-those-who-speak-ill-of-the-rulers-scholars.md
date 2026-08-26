@@ -15,7 +15,7 @@ tags:
 - salih-ibn-fawzan
 summary: 'These people fall into two categories: Either they are Kharijites who promote
   the ideology of the Khawarij'
-mp3: https://audio.alfawzan.live/6594.mp3
+mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/categorizing-those-who-speak-against-people-of-authority.mp3
 muftis:
   shaykh:
   - name: Shaykh Salih Al-Fawzan

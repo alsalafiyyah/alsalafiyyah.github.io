@@ -8,7 +8,7 @@ category:
 - audios
 tags:
 - salih-ibn-fawzan
-mp3: https://audio.alfawzan.live/23_14.mp3
+mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/the-ruling-on-opposing-islamic-consensus.mp3
 link: https://alfawzan.live/content/2376/
 active: audios
 translation: false

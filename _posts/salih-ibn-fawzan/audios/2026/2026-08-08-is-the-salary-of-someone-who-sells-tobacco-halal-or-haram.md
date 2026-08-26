@@ -8,7 +8,7 @@ category:
 - audios
 tags:
 - salih-ibn-fawzan
-mp3: https://audio.alfawzan.live/06_53.mp3
+mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/is-the-salary-of-someone-who-sells-tobacco-halal-or-haram.mp3
 link: https://alfawzan.live/content/16725/
 active: audios
 translation: false

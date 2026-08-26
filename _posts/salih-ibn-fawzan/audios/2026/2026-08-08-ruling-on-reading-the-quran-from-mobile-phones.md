@@ -8,7 +8,7 @@ category:
 - audios
 tags:
 - salih-ibn-fawzan
-mp3: https://audio.alfawzan.live/07_47.mp3
+mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/ruling-on-reading-the-quran-from-mobile-phones.mp3
 link: https://alfawzan.live/content/16805/
 active: audios
 translation: false

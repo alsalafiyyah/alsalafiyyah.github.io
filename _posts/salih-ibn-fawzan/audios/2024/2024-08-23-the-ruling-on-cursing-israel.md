@@ -9,7 +9,6 @@ lang: en
 locale: en
 active: audios
 category:
-- fatwas
 - audios
 - palestine
 tags:
@@ -17,7 +16,7 @@ tags:
 note: false
 summary: Do not say May God’s curse be upon Israel, but say May God’s curse be upon
   the Jews or Yahudi instead.
-mp3: https://phaven-prod.s3.amazonaws.com/files/audio_part/asset/1210612/rk9PLYaSzQoB6HQZuXYhfGOLblw/Cursing_Israel.mp3
+mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/the-ruling-on-cursing-israel.mp3
 muftis:
   shaykh:
   - name: Shaykh Salih Al-Fawzan

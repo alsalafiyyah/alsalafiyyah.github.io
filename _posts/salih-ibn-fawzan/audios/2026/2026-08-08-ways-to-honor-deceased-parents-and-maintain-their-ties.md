@@ -9,7 +9,7 @@ category:
 - funerals
 tags:
 - salih-ibn-fawzan
-mp3: https://audio.alfawzan.live/23_14.mp3
+mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/ways-to-honor-deceased-parents-and-maintain-their-ties.mp3
 link: https://alfawzan.live/content/16758/
 active: audios
 translation: false

@@ -11,7 +11,7 @@ category:
 - audios
 - wahhabism 
 link: "https://alfawzan.live/content/9654"
-mp3: "https://audio.alfawzan.live/2826_0.mp3"
+mp3: "https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/does-shaykh-muhammad-ibn-abdul-wahhab-creed-align-with-the-salaf.mp3"
 active: audios
 summary: "Praise be to Allah that he acknowledged it aligns with the creed of the Salaf in general."
 muftis:

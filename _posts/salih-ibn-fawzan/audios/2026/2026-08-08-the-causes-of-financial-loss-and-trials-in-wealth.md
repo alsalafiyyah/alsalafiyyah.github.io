@@ -8,7 +8,7 @@ category:
 - audios
 tags:
 - salih-ibn-fawzan
-mp3: https://audio.alfawzan.live/20_17.mp3
+mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/the-causes-of-financial-loss-and-trials-in-wealth.mp3
 link: https://alfawzan.live/content/16735/
 active: audios
 translation: false

@@ -9,7 +9,7 @@ category:
 - manhaj
 tags:
 - salih-ibn-fawzan
-mp3: https://audio.alfawzan.live/49_0.mp3
+mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/the-prohibition-of-giving-fatwas-without-knowledge.mp3
 link: https://alfawzan.live/content/16838/
 active: audios
 translation: false

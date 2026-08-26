@@ -10,7 +10,7 @@ category:
 - sufism
 tags:
 - salih-ibn-fawzan
-mp3: https://audio.alfawzan.live/2019-12/08_0.mp3
+mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/why-the-prophets-grave-was-included-in-the-mosque.mp3
 link: https://alfawzan.live/content/18243/
 active: audios
 translation: false
