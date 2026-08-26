@@ -82,11 +82,12 @@ Therefore, the favored generations are the Righteous Predecessors (al-Salaf al-S
 - [Misusing the Label 'Salafi'](/audios/misusing-the-label-salafi/) - Shaykh Salih al-Fawzan
 - [Salafism: Its Reality and Characteristics](/audios/salafism-its-reality-and-characteristics/) - Shaykh Salih al-Fawzan
 - [Refuting The Claim That Salafi Da'wah Fails to Keep Pace with the Modern Era](/audios/refuting-the-claim-that-salafi-dawah-fails-to-keep-pace-with-the-modern-era/) - Shaykh Salih al-Fawzan
-
+- [Is Salafism a Partisan Group?](/is-salafism-a-partisan-group/) - Shaykh Abdul-Aziz al-Rajihi
+ 
 ---
 
 [^1]: Fatawa Nur Ala ad-Darb by Ibn 'Uthaymeen, tape no.370-14.
-[^2]: Ahl al-Sunnah wa al-Jama'ah: "They are, whoever is upon the like of what Muhammad bin Abdullah ﷺ and his companions (may Allah be pleased with them all) were upon." (Fatwas of the Permanent Committee of KSA, Fatwa no. 4143, Question 2).
+[^2]: Ahl al-Sunnah wa al-Jama'ah: *"They are, whoever is upon the like of what Muhammad bin Abdullah ﷺ and his companions (may Allah be pleased with them all) were upon."* (Fatwas of the Permanent Committee of KSA, Fatwa no. 4143, Question 2).
 [^3]: Sunan at-Tirmidhi [Book on faith] 2641.
 [^4]: Fatwas of the Permanent Committee of KSA, Fatwa no. 6149, Question 2.
 [^5]: Musnad Ahmad 4/426, 4/427, 4/479; Al-Bukhari [Fath-ul-Bari] no. 2651, 3650, 6428, and 6695; Muslim no. 2535; Abu Dawud no. 4657; and Al-Tirmidhi, nos. 2222, 2223.
