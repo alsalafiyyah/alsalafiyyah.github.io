@@ -7,6 +7,7 @@ title: Refuting The Claim That Salafi Da'wah Fails to Keep Pace with the Modern 
 category:
 - audios
 - manhaj
+- wahhabism
 tags:
 - salih-ibn-fawzan
 mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/refuting-the-claim-that-salafi-dawah-fails-to-keep-pace-with-the-modern-era.mp3
