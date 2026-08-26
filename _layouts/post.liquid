@@ -3,10 +3,10 @@ layout: default
 ---
 <div class="prose prose-xl prose-black">
  {% if page.videoID %}
-  {% include_cached video_iframe.liquid %}
+  {% include video_iframe.liquid %}
  {% endif %}
  {% if page.mp3 %}
-  {% include_cached audio_player.liquid %}
+  {% include audio_player.liquid %}
  {% endif %}
  <div class="post">
    {% if page.scholar %}
@@ -17,4 +17,4 @@ layout: default
    {{ content }}
  </div>
  </div>
- {% include_cached footer_post.liquid %}
+ {% include footer_post.liquid %}
