@@ -49,8 +49,6 @@ categories_select: true
 
 # Menu Navigation
 menu_navigation:
-  - title: Index
-    url: /
   - title: Fatwas
     url: /fatwas/
   - title: Audios
