@@ -166,6 +166,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - liquid-c
+  - jekyll-include-cache
 
 exclude:
   - bin

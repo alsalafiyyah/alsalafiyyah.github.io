@@ -11,3 +11,5 @@ gem "jekyll-paginate", "~> 1.1"
 gem "jekyll-sitemap", "~> 1.4"
 
 gem "liquid-c"
+
+gem "jekyll-include-cache"
