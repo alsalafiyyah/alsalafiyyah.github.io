@@ -8,7 +8,7 @@ category:
 - amar-maruf
 tags:
 - salih-ibn-fawzan
-mp3: https://audio.alfawzan.live/16_1.mp3
+mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/why-does-allah-mention-command-good-before-faith.mp3
 link: https://alfawzan.live/content/14517/
 active: audios
 translation: false
@@ -22,6 +22,7 @@ muftis:
     url: /biography/fawzan/
 hijri: '1448-02-15'
 ---
+
 ### Question: 
 
 This is a questioner who says: What is the significance of presenting the command to do good and the prohibition of evil before the mention of faith in the Almighty's statement: **"You [true believers in Islamic Monotheism, and real followers of Prophet Muhammad ﷺ and his Sunnah] are the best of peoples ever raised up for mankind; you enjoin Al-Ma‘ruf (i.e. Islamic Monotheism and all that Islam has ordained) and forbid Al-Munkar (polytheism, disbelief and all that Islam has forbidden), and you believe in Allah."** [Ali 'Imran, 110] ?

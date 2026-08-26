@@ -9,7 +9,7 @@ category:
 - palestine
 tags:
 - salih-ibn-fawzan
-mp3: https://audio.alfawzan.live/02_2.mp3
+mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/the-religious-foundation-of-the-muslim-jewish-conflict.mp3
 link: https://alfawzan.live/content/14616/
 active: audios
 translation: false
@@ -22,6 +22,7 @@ muftis:
   - name: Shaykh Salih al-Fawzan
     url: /biography/fawzan/
 ---
+
 ### Question: 
 
 What is the authenticity of the claim that the conflict between Muslims and Jews is a conflict over land and borders, rather than religion and creed?

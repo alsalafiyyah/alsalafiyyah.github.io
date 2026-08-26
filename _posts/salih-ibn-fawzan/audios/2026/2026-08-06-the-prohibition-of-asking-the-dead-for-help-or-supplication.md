@@ -9,7 +9,7 @@ category:
 - sects
 tags:
 - salih-ibn-fawzan
-mp3: https://audio.alfawzan.live/2019-12/03_0.mp3
+mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/the-prohibition-of-asking-the-dead-for-help-or-supplication.mp3
 link: https://alfawzan.live/content/18238/
 active: audios
 translation: false
@@ -22,6 +22,7 @@ muftis:
   - name: Shaykh Salih al-Fawzan
     url: /biography/fawzan/
 ---
+
 ### Question: 
 
 May Allah be good to you, Your Eminence Shaykh, this questioner asks: If a man stands at a grave and asks the deceased, saying, "O so-and-so, if you are among the people of Paradise, then supplicate to Allah for us," what is the ruling on this action?

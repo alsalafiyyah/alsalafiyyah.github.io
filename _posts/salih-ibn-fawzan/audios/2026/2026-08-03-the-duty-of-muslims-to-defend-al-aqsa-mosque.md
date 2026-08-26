@@ -8,7 +8,7 @@ category:
 - palestine
 tags:
 - salih-ibn-fawzan
-mp3: https://audio.alfawzan.live/NEW_11.mp3
+mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/the-duty-of-muslims-to-defend-al-aqsa-mosque.mp3
 link: https://alfawzan.live/content/13283/
 active: audios
 translation: false

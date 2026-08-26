@@ -9,7 +9,7 @@ category:
 - manhaj
 tags:
 - salih-ibn-fawzan
-mp3: https://audio.alfawzan.live/7112.mp3
+mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/refuting-the-claim-that-salafi-dawah-fails-to-keep-pace-with-the-modern-era.mp3
 link: https://alfawzan.live/content/7192/
 active: audios
 translation: false
@@ -22,6 +22,7 @@ muftis:
   - name: Shaykh Salih al-Fawzan
     url: /biography/fawzan/
 ---
+
 ### Question: 
 
 Someone says: A preacher claims that the Wahhabi and Salafi da'wah movements—including the da'wah of Shaykh Muhammad ibn Abd al-Wahhab—have all failed to keep pace with the modern era in which we live. How do we respond to this misconception?

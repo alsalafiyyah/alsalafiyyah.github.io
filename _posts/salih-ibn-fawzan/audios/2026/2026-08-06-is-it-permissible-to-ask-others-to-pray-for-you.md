@@ -8,7 +8,7 @@ category:
 - audios
 tags:
 - salih-ibn-fawzan
-mp3: https://audio.alfawzan.live/2019-12/34.mp3
+mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/is-it-permissible-to-ask-others-to-pray-for-you.mp3
 link: https://alfawzan.live/content/18260/
 active: audios
 translation: false
@@ -21,6 +21,7 @@ muftis:
   - name: Shaykh Salih al-Fawzan
     url: /biography/fawzan/
 ---
+
 ### Question: 
 
 May Allah be good to you, Your Eminence Shaykh, this questioner asks: Is it permissible to ask others to make supplication (dua) for one?

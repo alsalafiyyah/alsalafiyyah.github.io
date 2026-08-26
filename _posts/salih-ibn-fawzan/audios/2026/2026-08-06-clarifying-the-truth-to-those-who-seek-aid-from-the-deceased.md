@@ -9,7 +9,7 @@ category:
 - sects
 tags:
 - salih-ibn-fawzan
-mp3: https://audio.alfawzan.live/2019-12/26.mp3
+mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/clarifying-the-truth-to-those-who-seek-aid-from-the-deceased.mp3
 link: https://alfawzan.live/content/18234/
 active: audios
 translation: false
@@ -23,6 +23,7 @@ muftis:
   - name: Shaykh Salih al-Fawzan
     url: /biography/fawzan/
 ---
+
 ### Question: 
 
 May Allah be good to you, Your Eminence Sheikh, this questioner says: In their country, some people invoke the graves and seek deliverance (istighathah) from them. He asks: Do I treat them with the ruling given to polytheists (mushrikeen)?
