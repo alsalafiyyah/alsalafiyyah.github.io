@@ -1,29 +1,14 @@
 ---
 layout: null
 ---
-{% capture head_content %}
-  {% include head.liquid %}
-{% endcapture %}
-{% capture navbar %}
-  {% include navbar.liquid %}
-{% endcapture %}
-{% capture aside_content %}
-  {% include aside.liquid %}
-{% endcapture %}
-{% capture footer_content %}
-  {% include footer.liquid %}
-{% endcapture %}
-{% capture bug_report_modal %}
- {% include bug-report-modal.liquid %}
-{% endcapture %}
 <!DOCTYPE html>
 <html lang="{{ site.site_elements.lang }}" dir="{{ site.site_elements.dir }}">
 <head>
-{{ head_content }}
+  {% include head.liquid %}
 </head>
-<body dir="{{ site.site_elements.dir }}" itemscope itemtype="https://schema.org/WebPage" class="bg-white dark:bg-zinc-950 dark:text-zinc-100 text-black antialiased selection:bg-black selection:text-white dark:selection:bg-white dark:selection:text-black transition-colors duration-300 is-preload" onload="setModifiedDate(); setAccessedDate();">
-{{ navbar }}
-<main role="main" class="max-w-7xl mx-auto px-8">
+<body dir="{{ site.site_elements.dir }}" itemscope itemtype="https://schema.org/WebPage" class="...">
+  {% include navbar.liquid %}
+  <main role="main" class="max-w-7xl mx-auto px-8">
     {% unless page.url == "/" or page.url == "/ar" %}
     <header class="py-6 border-b-4 border-black dark:border-white">
         <div class="max-w-7xl">
@@ -33,11 +18,6 @@ layout: null
          {% elsif page.section == "videos" %}
           {% assign video = site.posts | where_exp: "post", "post.active == 'videos'" %}
           <span class="text-sm font-black uppercase tracking-[0.3em]">Total Video Fatwas: {{ video.size }}</span>
-         {% elsif page.active == "audios" %}
-          <span class="text-sm font-black uppercase tracking-[0.3em]">Cassette</span>
-         {% elsif page.active == "videos" %}
-          <span class="text-sm font-black uppercase tracking-[0.3em]">Video</span>
-         {% else %}
          {% endif %}
          <h1 itemprop="headline" class="text-3xl md:text-[3vw] leading-[0.9] font-black uppercase tracking-tighter serif mt-8">
             {{ page.title }}
@@ -46,14 +26,14 @@ layout: null
     </header>
     {% endunless %}
     <section class="grid grid-cols-1 md:grid-cols-12 gap-12 py-24 items-start">
-        {{ aside_content }}
+        {% include aside.liquid %}
         <article class="md:col-span-8 md:col-start-5 max-w-none">
             {{ content }}
         </article>
     </section>
-</main>
-{{ bug_report_modal }}
-{{ footer_content }}
-{% include scripts.html defer=true %} 
+  </main>
+  {% include bug-report-modal.liquid %}
+  {% include footer.liquid %}
+  {% include scripts.html defer=true %}
 </body>
 </html>
