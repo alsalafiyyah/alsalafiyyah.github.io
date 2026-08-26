@@ -11,7 +11,7 @@ tags:
 - ibn-uthaymeen
 lang: en
 link: https://alathar.net/home/esound/index.php?op=codevi&coid=120248
-mp3: https://alsalafiyyah.github.io/assets/audios/when-ignorance-is-not-an-excuse.mp3
+mp3: "https://salafimanhaj.github.io/assets/ibn-uthaymeen/when-is-ignorance-not-an-excuse.mp3"
 summary: This is to be understood as referring to ignorance resulting from negligence
   on the part of the individual in failing to learn.
 muftis:
@@ -21,6 +21,7 @@ muftis:
 hijri: '1447-12-28'
 active: audios
 ---
+
 ### Question: 
 
 We have read your response regarding the excuse of ignorance in matters that constitute disbelief (kufr). However, we find that in the book Kashf al-Shubuhat (Clarification of the Doubts) by Sheikh Muhammad ibn Abd al-Wahhab, as well as in his book Kitab al-Tawhid (The Book of Monotheism), there is a lack of excuse for ignorance. This is despite the fact that in your answer, you cited the views of Sheikh Muhammad ibn Abd al-Wahhab, as well as Ibn Taymiyyah in Al-Fatawa and Ibn Qudamah in Al-Mughni. We hope you can clarify this?
