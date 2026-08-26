@@ -22,6 +22,7 @@ muftis:
 hijri: '1448-02-13'
 active: audios
 ---
+
 ### Questioner: 
 
 May Allah preserve you, Shaykh. There is a man who belongs to a Sufi order—he embraces Sufism and practices certain religious innovations (bid'ah). However, Shaykh, this man assists in charitable works. If his innovations are denounced and exposed among the people, he might stop helping those in need and supporting charitable causes. So, Shaykh, I do not know what should be done?

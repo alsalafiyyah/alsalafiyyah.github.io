@@ -2,7 +2,6 @@
 layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on disbelieving in Salafiyyah
-mp3: "https://salafimanhaj.github.io/assets/abdul-muhsin/rule-on-saying-disbelieve-in-salafiyyah.mp3"
 hijri: '1446-01-16'
 date: 2024-07-22
 active: audios
@@ -16,6 +15,7 @@ category:
 - manhaj
 tags:
 - abdul-muhsin
+mp3: "https://salafimanhaj.github.io/assets/abdul-muhsin/rule-on-saying-disbelieve-in-salafiyyah.mp3"
 muftis:
   shaykh:
   - name: Shaykh Abdul-Muhsin Al-Abbad

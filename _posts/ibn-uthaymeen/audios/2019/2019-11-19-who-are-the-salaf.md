@@ -81,7 +81,7 @@ Therefore, the favored generations are the Righteous Predecessors (al-Salaf al-S
 - [Distinguishing Between the Salafi](/distinguishing-between-the-salafi/) - Shaykh Salih al-Fawzan
 - [Misusing the Label 'Salafi'](/audios/misusing-the-label-salafi/) - Shaykh Salih al-Fawzan
 - [Salafism: Its Reality and Characteristics](/audios/salafism-its-reality-and-characteristics/) - Shaykh Salih al-Fawzan
-- [Refuting The Claim That Salafi Da'wah Fails to Keep Pace with the Modern Era](/audios/refuting-the-claim-that-salafi-dawah-fails-to-keep-pace-with-the-modern-era/)
+- [Refuting The Claim That Salafi Da'wah Fails to Keep Pace with the Modern Era](/audios/refuting-the-claim-that-salafi-dawah-fails-to-keep-pace-with-the-modern-era/) - Shaykh Salih al-Fawzan
 
 ---
 
