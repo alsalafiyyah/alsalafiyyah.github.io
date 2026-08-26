@@ -8,7 +8,7 @@ category:
 - manhaj
 tags:
 - salih-ibn-fawzan
-mp3: https://audio.alfawzan.live/ls--14330613.mp3
+mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/salafism-its-reality-and-characteristics.mp3
 link: https://alfawzan.live/content/14381/
 active: audios
 translation: false
@@ -23,6 +23,7 @@ muftis:
     url: /biography/fawzan/
 hijri: '1448-02-21'
 ---
+
 In the name of Allah, the Most Gracious, the Most Merciful. All praise is due to Allah, the Lord of all the worlds, and may peace and blessings be upon our Prophet Muhammad, his family, and all his companions.
 
 To proceed:

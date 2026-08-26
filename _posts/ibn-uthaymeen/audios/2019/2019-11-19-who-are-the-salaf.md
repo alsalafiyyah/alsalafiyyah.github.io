@@ -80,6 +80,7 @@ Therefore, the favored generations are the Righteous Predecessors (al-Salaf al-S
 - [Salafism: Its Reality and Characteristics](/audios/salafism-its-reality-and-characteristics) - Shaykh Salih al-Fawzan
 - [Distinguishing Between the Salafi](/distinguishing-between-the-salafi/) - Shaykh Salih al-Fawzan
 - [Misusing the Label 'Salafi'](/audios/misusing-the-label-salafi/) - Shaykh Salih al-Fawzan
+- [Salafism: Its Reality and Characteristics](/audios/salafism-its-reality-and-characteristics/)
 
 ---
 
