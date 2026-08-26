@@ -8,7 +8,7 @@ category:
 - hijrah
 tags:
 - salih-ibn-fawzan
-mp3: https://audio.alfawzan.live/3513.mp3
+mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/is-it-permissible-for-a-muslim-to-reside-in-non-muslim-lands.mp3
 link: https://alfawzan.live/content/3071/
 active: audios
 translation: false
@@ -22,6 +22,7 @@ muftis:
     url: /biography/fawzan/
 hijri: '1448-01-02'
 ---
+
 ### Question: 
 
 Respected Shaykh, is residing in a non-Muslim country permissible or not, whether for study or work, keeping in mind that there is a mosque in this country where prayers are held at certain times?

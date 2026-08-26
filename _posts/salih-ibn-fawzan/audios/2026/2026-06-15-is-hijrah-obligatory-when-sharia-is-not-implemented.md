@@ -8,7 +8,7 @@ category:
 - hijrah
 tags:
 - salih-ibn-fawzan
-mp3: https://audio.alfawzan.live/19_2.mp3
+mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/is-hijrah-obligatory-when-sharia-is-not-implemented.mp3
 link: https://alfawzan.live/content/14585
 active: audios
 translation: false
@@ -22,6 +22,7 @@ muftis:
     url: /biography/fawzan/
 hijri: '1447-12-29'
 ---
+
 ### Question
 
 ​What is the ruling on migrating (making Hijrah) from Arab countries where the Sharia (law) of Allah is not implemented?

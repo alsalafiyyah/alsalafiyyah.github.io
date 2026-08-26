@@ -8,7 +8,7 @@ category:
 - audios
 tags:
 - salih-ibn-fawzan
-mp3: https://audio.alfawzan.live/2021-09/m015.mp3
+mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/sound-knowledge-a-shield-against-tribulation.mp3
 url: https://alfawzan.live/content/18432/
 source: Fatwa No. 18432
 active: audios
@@ -20,6 +20,7 @@ muftis:
     url: /biography/fawzan/
 hijri: '1447-12-08'
 ---
+
 ### Question: 
 
 Honorable Shaykh, what do you advise us in this day and age, in which fitan (tribulations) have multiplied, Ahl al-Bid'ah (people of bid'ah) have spread, and scholars are passing away?

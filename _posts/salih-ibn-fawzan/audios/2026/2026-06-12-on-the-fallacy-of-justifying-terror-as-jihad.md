@@ -5,12 +5,12 @@ date: 2026-06-12
 title: On the Fallacy of Justifying Terror as Jihad
 category:
 - audios
-- rulers
+- rulership
 - sects
 - terrorism
 tags:
 - salih-ibn-fawzan
-mp3: https://audio.alfawzan.live/NEW_10.mp3
+mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/on-the-fallacy-of-justifying-terror-as-jihad.mp3
 link: https://alfawzan.live/content/13282/
 active: audios
 translation: false
@@ -24,6 +24,7 @@ muftis:
     url: /biography/fawzan/
 hijri: '1447-12-26'
 ---
+
 ### Question: 
 
 One of the brothers requests your Eminence's comment on those who claim that Allah restricted the prohibition of killing a soul to acts of "aggression and injustice." Thus, a suicide bomber essentially says, "I am only doing this for a greater benefit, which is Jihad in the cause of Allah and fighting the tyrants of the earth," and that the Prophet (peace and blessings of Allah be upon him) defined that prohibition strictly as intentional suicide [out of despair]. We ask Allah for safety and well-being.

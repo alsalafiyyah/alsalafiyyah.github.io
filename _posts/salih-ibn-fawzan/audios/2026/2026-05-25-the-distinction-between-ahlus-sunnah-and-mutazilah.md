@@ -4,12 +4,12 @@ publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-25
 title: The Distinction Between Ahl al-Sunnah and the Mu'tazilah in Source and Creed
 category:
-- fatwas
+- mutazilah
 - audios
 - sects
 tags:
 - salih-ibn-fawzan
-mp3: https://audio.alfawzan.live/2819.mp3
+mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/the-distinction-between-ahl-al-sunnah-and-the-mutazilah-in-source-and-creed.mp3
 url: https://alfawzan.live/content/9543/
 source: Fatwa No. 9543
 active: audios

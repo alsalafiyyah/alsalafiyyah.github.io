@@ -5,10 +5,10 @@ date: 2026-06-07
 title: Is Rebellion Limited to Armed Conflict?
 category:
 - audios
-- rulers
+- rulership
 tags:
 - salih-ibn-fawzan
-mp3: https://audio.alfawzan.live/e-010.mp3
+mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/is-rebellion-limited-to-armed-conflict.mp3
 link: https://alfawzan.live/content/14279
 active: audios
 translation: true
@@ -22,6 +22,7 @@ muftis:
     url: /biography/fawzan/
 hijri: '1447-12-21'
 ---
+
 ### Question: 
 
 Regarding someone who calls for rebellion and claims that "rebellion against the Muslim community" does not refer to demonstrations and expressing opinions, but rather that the forbidden form of rebellion is strictly armed rebellion?

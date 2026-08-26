@@ -4,23 +4,23 @@ publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-05-25
 title: What Constitutes a Bidʿah?
 category:
-- fatwas
 - audios
 - bidah
 tags:
 - salih-ibn-fawzan
-mp3: https://audio.alfawzan.live/17_0.mp3
+mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/what-constitutes-a-bidah.mp3
 url: https://alfawzan.live/content/14518/
 source: Fatwa No. 14518
 active: audios
-summary: 'Bid''ah (religious innovations) is whatever is introduced into the religion
-  that is not a part of it; this is the defining criterion of innovation. '
+summary: 'Bidah (religious innovations) is whatever is introduced into the religion
+  that is not a part of it; this is the defining criterion of innovation.'
 muftis:
   shaykh:
   - name: Shaykh Salih al-Fawzan
     url: /biography/fawzan/
 hijri: '1447-12-08'
 ---
+
 ### Question: 
 
 The questioner asks: Are there levels and degrees to bid'ah (religious innovations), and when should the perpetrator of an innovation be boycotted?
