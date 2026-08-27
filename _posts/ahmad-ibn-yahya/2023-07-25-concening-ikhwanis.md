@@ -19,7 +19,9 @@ muftis:
     url: /biography/ahmad-alnajmi
 ---
 
-The Muslim Brotherhood: They are the followers of the misguided innovator Hasan al-Banna, and there are critical objections to their methodology, the most important of which are the following:
+### Who are the Ikhwanism (the Muslim Brotherhood)
+
+They are the followers of the misguided innovator Hasan al-Banna, and there are critical objections to their methodology, the most important of which are the following:
 
 1. Laxity in the 'Tawhid Al-‘Ibadah' (single-out Allah alone for all worship): This is the most important thing in Islam, and a servant's Islam is not valid without it.
 2. Their silence and tacit approval of people regarding major polytheism: Such as supplicating to other than Allah, circumambulating graves, making vows to their occupants, sacrificing animals in their names, and the like.
@@ -87,12 +89,12 @@ There are other observations that can be addressed later.
 49. **Selecting fatwas that align with their desires.**
 50. **Extreme laxity regarding the issue of photography/image-making.**
 
-
+---
 ---
 
 Sheikh Hammad al-Ansari (may Allah have mercy on him) said: **"Indeed, the Muslim Brotherhood are supporters of Khomeini and the Rafidah [a pejorative term used for Shia Muslims]."** [Al-Majmu', 2/699]
 
-And Sheikh Ahmad Shakir (may Allah have mercy on him) said: **"The movement of Hasan al-Banna and his Muslim Brotherhood—who turned the Islamic call into a destructive, criminal movement funded by the communists and the Jews, as we know with absolute certainty."** [Shu'un al-Ta'lim wa-l-Qada', p. 48]
+Sheikh Ahmad Shakir (may Allah have mercy on him) said: **"The movement of Hasan al-Banna and his Muslim Brotherhood—who turned the Islamic call into a destructive, criminal movement funded by the communists and the Jews, as we know with absolute certainty."** [Shu'un al-Ta'lim wa-l-Qada', p. 48]
 
 The scholar Rabi' ibn Hadi al-Madkhali (may Allah have mercy on him) said: 
 
