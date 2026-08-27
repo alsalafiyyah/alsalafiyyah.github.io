@@ -8,6 +8,7 @@ lang: en
 translation: false
 tags: ibn-uthaymeen
 source: "Fatawa Arkan al-Islam p.329, Question 251"
+link: https://shamela.ws/book/9924/323
 summary: "This is not among the signs of the righteous. Rather, the signs are the light that appears on the face, openness of the chest (inner peace), good character, and similar traits."
 muftis:
   shaykh:
