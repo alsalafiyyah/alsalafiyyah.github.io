@@ -2,7 +2,8 @@
 layout: page
 ---
 
-{% assign ulama_posts = site.posts | where_exp:"item", "item.path contains '_posts/{{ page.slug }}/'" %}
+{% assign target_path = "_posts/" | append: page.slug_id | append: "/" %}
+{% assign ulama_posts = site.posts | where_exp: "item", "item.path contains target_path" %}
 
         <!-- Page Header -->
         <div class="flex justify-between items-center mb-8 border-b-2 border-black/10 dark:border-white/10 pb-4">
