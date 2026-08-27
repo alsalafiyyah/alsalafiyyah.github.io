@@ -8,36 +8,22 @@ permalink: /scholar/abdul-aziz-al-rajihi/
 
 {% assign ulama_posts = site.posts | where_exp:"item", "item.path contains '_posts/abdul-aziz-al-rajihi/'" %}
 
-<header class="pb-8 md:pb-8 border-b-4 border-black dark:border-white">
-  <div class="max-w-7xl">
-    <div class="grid grid-cols-1 md:grid-cols-12 gap-6 items-end">
-      
-      <!-- Title Block (8 Columns) -->
-      <div class="md:col-span-8">
-        <h1 itemprop="headline" class="text-3xl md:text-[3vw] leading-[0.9] font-black uppercase tracking-tighter serif">
-          {{ page.title }}
-        </h1>
-      </div>
-
-      <div class="md:col-span-4 flex flex-col sm:flex-row md:flex-col items-start sm:items-center md:items-end justify-between md:justify-end gap-4">
-        
-        <!-- Total Entries Counter -->
-        <p class="text-xs md:text-sm font-black uppercase tracking-widest px-3 py-1 bg-black text-white dark:bg-white dark:text-black">
-          Total Entries: {{ ulama_posts.size }}
-        </p>
-
-        <!-- Biography Button Link -->
-        {% if page.bio_url %}
-        <a href="{{ page.bio_url | relative_url }}" class="inline-block text-xs md:text-sm font-black uppercase tracking-widest px-4 py-2 border-2 border-black dark:border-white hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-colors">
-          Biography →
-        </a>
-        {% endif %}
-
-      </div>
-
-    </div>
-  </div>
-</header>
+        <!-- Page Header -->
+        <div class="flex justify-between items-center mb-8 border-b-2 border-black/10 dark:border-white/10 pb-4">
+            <div class="flex items-center gap-4 text-[12px] font-black uppercase tracking-[0.3em] text-gray-400">
+                <span class="w-2 h-2 rounded-full bg-red-500 flex-shrink-0 mr-1"></span>
+                <span class="text-black dark:text-white">{{ ulama_posts.size }} Entries</span>
+            </div>
+            <!-- Navigation Arrows -->
+            {% if page.bio_url %}
+            <div>
+                <a href="{{ page.bio_url | relative_url }}" class="bg-black text-white dark:bg-white dark:text-black p-2 hover:bg-red-500 dark:hover:bg-red-500 dark:hover:text-white transition-colors flex items-center gap-2" title="Read biography">
+                    Biography
+                    <svg viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" fill="none" class="w-4 h-4"><polyline points="9 18 15 12 9 6"></polyline></svg>
+                </a>
+            </div>
+            {% endif %}
+        </div>
 
 <div id="fatwa-container"></div>
 <nav id="pagination-nav" class="flex items-center justify-between border-t-4 border-black dark:border-white pt-12 mt-12 mb-24">
