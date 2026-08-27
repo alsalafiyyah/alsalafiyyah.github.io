@@ -1,65 +1,8 @@
 ---
-layout: page
+layout: scholar
+slug_id: salih-ibn-fawzan
 title: "Shaykh Salih ibn Fawzan al-Fawzan"
 official_web: https://alfawzan.live/
 bio_url: /biography/fawzan/
 permalink: /scholar/salih-ibn-fawzan/
 ---
-
-{% assign ulama_posts = site.posts | where_exp:"item", "item.path contains '_posts/salih-ibn-fawzan/'" %}
-
-<header class="pb-8 md:pb-8 border-b-4 border-black dark:border-white">
-  <div class="max-w-7xl">
-    <div class="grid grid-cols-1 md:grid-cols-12 gap-6 items-end">
-      
-      <!-- Title Block (8 Columns) -->
-      <div class="md:col-span-8">
-        <h1 itemprop="headline" class="text-3xl md:text-[3vw] leading-[0.9] font-black uppercase tracking-tighter serif">
-          {{ page.title }}
-        </h1>
-      </div>
-
-      <div class="md:col-span-4 flex flex-col sm:flex-row md:flex-col items-start sm:items-center md:items-end justify-between md:justify-end gap-4">
-        
-        <!-- Total Entries Counter -->
-        <p class="text-xs md:text-sm font-black uppercase tracking-widest px-3 py-1 bg-black text-white dark:bg-white dark:text-black">
-          Total Entries: {{ ulama_posts.size }}
-        </p>
-
-        <!-- Biography Button Link -->
-        {% if page.bio_url %}
-        <a href="{{ page.bio_url | relative_url }}" class="inline-block text-xs md:text-sm font-black uppercase tracking-widest px-4 py-2 border-2 border-black dark:border-white hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-colors">
-          Biography →
-        </a>
-        {% endif %}
-
-      </div>
-
-    </div>
-  </div>
-</header>
-
-<div id="fatwa-container"></div>
-<nav id="pagination-nav" class="flex items-center justify-between border-t-4 border-black dark:border-white pt-12 mt-12 mb-24">
-    <a id="prev-link" href="#" class="text-sm font-black uppercase tracking-widest hover:line-through invisible">← Newer</a>
-    
-    <div class="text-sm font-black uppercase tracking-widest tabular-nums">
-        Page <span id="current-page-display">01</span> of <span id="total-pages-display">01</span>
-    </div>
-    
-    <a id="next-link" href="#" class="text-sm font-black uppercase tracking-widest hover:line-through invisible">Older →</a>
-</nav>
-
-<script id="fatwa-data" type="application/json">
-[
-  {% for post in ulama_posts %}
-    {
-      "title": {{ post.title | jsonify }},
-      "url": {{ post.url | jsonify }},
-      "date": {{ post.date | date: "%Y-%m-%d" | jsonify }},
-      "hijri": {{ post.hijri | jsonify }},
-      "summary": {{ post.content | strip_html | truncatewords: 20 | jsonify }}
-    }{% unless forloop.last %},{% endunless %}
-  {% endfor %}
-]
-</script>
