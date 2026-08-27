@@ -4,15 +4,16 @@ layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 date: 2026-04-28
 hijri: '1447-11-11'
-title: Analyzing the Creed of the Deviant Sect Known as NOI (the Nation of Islam)
+title: "Analyzing the Creed of the Deviant Sect Known as NOI (the Nation of Islam)"
 category:
-- fatwas
 - audios
 - non-muslim
+- noi
+- farrakhanism
 - sects
 tags:
 - muhammad-salih-luhaydan
-mp3: /assets/audios/shaykh-luhaydan-on-noi.mp3
+mp3: https://salafimanhaj.github.io/assets/saleh-luhaydan/ruling-on-the-sect-known-as-noi.mp3
 active: audios
 summary: Regarding what has been mentioned about their characteristics in these questions,
   these people are not Muslims.
@@ -21,6 +22,7 @@ muftis:
   - name: Shaykh Muhammad ibn Salih al-Luhaydan
     url: /biography/salih-luhaydan/
 ---
+
 ### Question:
 
 All praise is due to Allah, the Lord of all worlds. The [best] outcome is for the righteous, and there is no enmity except against the wrongdoers. May the peace and blessings of Allah be upon our Prophet Muhammad, and upon his family and all his companions.
