@@ -11,6 +11,7 @@ category:
 tags:
 - ahmad-ibn-yahya
 translation: false
+link: http://alawazm.com/vb//showthread.php?t=249998
 summary: "They are the followers of the misguided innovator Hasan al-Banna, and there are critical objections to their methodology"
 muftis:
   shaykh:
@@ -86,4 +87,16 @@ There are other observations that can be addressed later.
 49. **Selecting fatwas that align with their desires.**
 50. **Extreme laxity regarding the issue of photography/image-making.**
 
+
+---
+
+Sheikh Hammad al-Ansari (may Allah have mercy on him) said: **"Indeed, the Muslim Brotherhood are supporters of Khomeini and the Rafidah [a pejorative term used for Shia Muslims]."** [Al-Majmu', 2/699]
+
+And Sheikh Ahmad Shakir (may Allah have mercy on him) said: **"The movement of Hasan al-Banna and his Muslim Brotherhood—who turned the Islamic call into a destructive, criminal movement funded by the communists and the Jews, as we know with absolute certainty."** [Shu'un al-Ta'lim wa-l-Qada', p. 48]
+
+The scholar Rabi' ibn Hadi al-Madkhali (may Allah have mercy on him) said: 
+
+**"The Brotherhood wear the garb of Islam, yet they are harder on the Salafis than the Jews and the Christians!"** [Dated: 28/9/1437 AH]
+
+**"ISIS was nurtured in Iran, and they are a faction of the Muslim Brotherhood factions; and they are the harshest of parties against the Salafis, declaring them disbelievers and killing them!"** [Dated: 28/9/1437 AH]
 
