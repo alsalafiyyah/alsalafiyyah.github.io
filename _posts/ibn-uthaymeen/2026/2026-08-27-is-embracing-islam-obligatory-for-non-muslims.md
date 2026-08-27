@@ -31,4 +31,7 @@ Therefore, it is obligatory for all people to believe in the Messenger of Allah 
 
 Furthermore, in Sahih Muslim, on the authority of Buraydah, whenever the Prophet (peace be upon him) appointed a commander over an army or a detachment, he would advise him to fear Allah and treat the Muslims with him well, and say: **"Invite them to three traits or qualities; whichever they accept from you, accept it from them and withhold [your hands] from them."**—among these qualities being that they pay the jizyah.
 
+Therefore, the most correct opinion among the scholarly views is that the jizyah can be accepted from non-Muslims other than Jews and Christians as well.
+
+In conclusion, non-Muslims are obligated either to enter into Islam or to submit to the rulings of Islam, and Allah is the Grantor of success.
 
