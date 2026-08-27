@@ -1,24 +1,26 @@
 ﻿---
 layout: post
-publisher: "alsalafiyyah@icloud.com"
+publisher: "alsalafiyyah.manhaj@gmail.com"
 title: "Ruling on neglecting Tawhid"
 source: "Majmu' Fatawa 28/184"
-category: [fatwas,manhaj]
+category:
+  - manhaj
 hijri: '1441-12-05'
-date: 2020/07/26
-locale: en
+date: 2020-07-26
 lang: en
 summary: "Being knowledgeable of Tawhid is of fundamental importance. It is the basis of religion that Muslims know the meaning of La ilaha illa Allah; Muhammad Rasulullah, none has the right to be worshipped but Allah, Muhammad is the final Messenger of Allah."
 muftis:
-  shaykh: 
+  shaykh:
     - name: Shaykh Ibn Baz
       url: /biography/binbaz
 ---
 
 ### Question: 
+
 Your Eminence Shaykh! Could you please clarify the importance of Tawhid (belief in the Oneness of Allah/ monotheism)? It is worth mentioning that nowadays many young people are negligent of it. 
 
 ### Answer:
+
 Being knowledgeable of Tawhid is of fundamental importance. It is the basis of Din (religion) that Muslims know the meaning of **La ilaha illa Allah; Muhammadun Rasulullah (none has the right to be worshipped but Allah, Muhammad is the (final) Messenger of Allah)**. This is the most important obligation on Muslims. It is the first thing to which all Messengers, including our Prophet (peace be upon him) called their people. All Messengers called their people to understand the meaning of the Shahadah (Testimony of Faith), to give up worshiping idols, and to worship Allah Alone. This is the first thing to which all Messengers called their people. 
 
 It is the main obligation of every Mukallaf (person meeting the conditions to be held legally accountable for their actions); to believe in Tawhid and worship Allah Alone for Allah (Exalted be He) says: **"So know (O Muhammad صلى الله عليه وسلم) that, Lâ ilâha illallâh (none has the right to be worshipped but Allâh), and ask forgiveness for your sin"** [Muhammad: 19] 

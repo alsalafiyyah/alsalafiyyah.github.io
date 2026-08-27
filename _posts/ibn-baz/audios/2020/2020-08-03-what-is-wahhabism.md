@@ -3,7 +3,6 @@ layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: Wahhabism, what is it?
 source: Fatawa Nur 'Ala al-Darb 3, tape no. 218 question 6
-mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_461/46106.mp3
 hijri: '1441-12-13'
 date: 2020-08-03
 lang: en
@@ -19,7 +18,9 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 active: audios
+mp3: https://salafimanhaj.github.io/assets/ibn-baz/wahhabism-what-is-it.mp3
 ---
+
 ### Question: 
 I heard about Wahhabism, what is it? 
 

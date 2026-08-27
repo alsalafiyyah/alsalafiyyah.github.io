@@ -11,7 +11,7 @@ category:
 tags:
 - ibn-baz
 url: https://binbaz.org.sa/fatwas/13216/%D9%87%D9%84-%D9%8A%D9%88%D8%AC%D8%AF-%D8%A7%D9%86%D8%B3%D8%A7%D9%86-%D9%82%D8%A8%D9%84-%D8%A7%D8%AF%D9%85-%D8%B9%D9%84%D9%8A%D9%87-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85
-mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_637/nour_63710.mp3
+mp3: https://salafimanhaj.github.io/assets/ibn-baz/were-there-humans-before-adam.mp3
 summary: "This has no basis; rather, this is from among superstitious fables. There was no other human prior to Adam."
 muftis:
   shaykh:
