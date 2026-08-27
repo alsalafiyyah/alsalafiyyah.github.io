@@ -19,7 +19,7 @@ muftis:
     url: /biography/ahmad-alnajmi
 ---
 
-### Who are the Ikhwanism (the Muslim Brotherhood)
+### Who are the Ikhwanism (the Muslim Brotherhood group)
 
 They are the followers of the misguided innovator Hasan al-Banna, and there are critical objections to their methodology, the most important of which are the following:
 

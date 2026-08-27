@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Advice to Jama'at Tabligh and Al-Ikhwan Al-Muslimun
+title: Advice to Jama'at Tabligh and the Ikhwanis
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Maqalat 28/57
 category:
 - sects
+- sufism
+- ikhwanism
 tags:
 - ibn-baz
 hijri: '1441-12-05'
@@ -19,6 +21,7 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 ---
+
 ### Question: 
 
 Someone asks about the Islamic groups such as Jama'at Tabligh and the Muslim Brotherhood Group (al-Ikhwan al-Muslimun). Are these groups considered to be among Ahl-us-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream)?
