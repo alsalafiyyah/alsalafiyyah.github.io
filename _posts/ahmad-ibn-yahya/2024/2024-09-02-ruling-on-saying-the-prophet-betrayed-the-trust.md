@@ -15,6 +15,7 @@ summary: There is no doubt in the unbelief of the one who says this; rather this
 title: The ruling on one who say that The Prophet ﷺ betrayed the trust
 translated_by: Abu Maryam Tariq bin 'Ali
 ---
+
 ### Question:
 Has the one disbelieved who says that **‘the Prophet ﷺ betrayed the trust or deceived ‘Ali and that Jibril (Gabriel, peace be upon him) was treacherous,’** as the Shi’ah (Shiites, a deviant sect and has nothing to do with Islam) say, upon them be what they deserve from Allah?
 

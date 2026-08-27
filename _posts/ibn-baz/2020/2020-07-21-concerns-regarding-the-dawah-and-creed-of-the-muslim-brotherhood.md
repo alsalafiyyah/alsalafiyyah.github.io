@@ -2,7 +2,6 @@
 hijri: '1441-11-30'
 lang: en
 layout: post
-mass_edited: true
 muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
@@ -14,9 +13,13 @@ summary: Ikhwan-ul-Muslimin Movement is being criticized by some scholars becaus
   (associating others with Allah in His Divinity or worship) and Bid'ah.
 tags:
 - ibn-baz
-title: On Al-Ikhwan Al-Muslimun (the Muslim Brotherhood)
+category: 
+- ikhwanism
+- sects
+title: Concerns Regarding the Da'wah and Creed of the Muslim Brotherhood
 translation: false
 ---
+
 ### Question: 
 
 Your Eminence, Al-Ikhwan Al-Muslimun (the Muslim Brotherhood; a political group also calling to Islam) Movement spread in the Kingdom especially among the students. What is your opinion with regard to this movement? To what extent is it in conformity with the Manhaj (methodology) of Ahl-ul-Sunnah wal-Jama'ah (adherents to the Sunnah and the Muslim mainstream)?
