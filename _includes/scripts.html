@@ -30,6 +30,79 @@
     }
   </script>
 
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    const POSTS_PER_PAGE = 10;
+    const urlParams = new URLSearchParams(window.location.search);
+    const currentPage = parseInt(urlParams.get("page")) || 1;
+    
+    const raw = document.getElementById("fatwa-data");
+    const data = JSON.parse(raw.textContent);
+    
+    const totalPages = Math.ceil(data.length / POSTS_PER_PAGE);
+    const start = (currentPage - 1) * POSTS_PER_PAGE;
+    const end = start + POSTS_PER_PAGE;
+    
+    const container = document.getElementById("fatwa-container");
+    const postsToShow = data.slice(start, end);
+// 1. Render Posts
+    if (data.length === 0) {
+        container.innerHTML = `
+            <div class="py-20 text-center">
+                <h2 class="text-4xl md:text-5xl font-black uppercase tracking-tighter opacity-20">
+                    {{ site.site_elements.no_entries_found }}
+                </h2>
+            </div>
+        `;
+        // Hide pagination if no data exists
+        document.getElementById("pagination-nav").classList.add("hidden");
+        return; 
+    }
+
+    container.innerHTML = postsToShow.map(post => `
+         <article class="group block border-b border-black/10 dark:border-white/10 hover:border-black dark:hover:border-white transition-colors duration-300 py-8 first:pt-4 last:border-b-0">
+          <a href="${post.url}">
+           <div class="md:col-span-3 flex flex-row md:flex-col justify-between md:justify-start gap-2 text-[10px] font-black uppercase tracking-[0.2em]">
+            <span class="text-zinc-400 dark:text-zinc-600 tabular-nums">
+             ${post.hijri ? `${post.hijri} / ` : ''}${post.date}
+            </span>
+            </div>
+            <div class="md:col-span-9 flex flex-col gap-2">
+            <h3 class="text-lg md:text-xl font-black font-extrabold uppercase tracking-tight leading-snug text-black dark:text-white group-hover:underline decoration-2 underline-offset-4">
+                ${post.title}
+            </h3>
+            <p class="text-sm text-zinc-500 dark:text-zinc-400 lowercase normal-case leading-relaxed max-w-2xl line-clamp-2 font-normal">
+                ${post.summary}
+            </p>
+            </div>
+            </a>
+        </article>
+    `).join("");
+
+    // 2. Handle Pagination UI
+    const prevLink = document.getElementById("prev-link");
+    const nextLink = document.getElementById("next-link");
+    const currentDisplay = document.getElementById("current-page-display");
+    const totalDisplay = document.getElementById("total-pages-display");
+
+    // Update numbers 
+    currentDisplay.textContent = currentPage < 10 ? `0${currentPage}` : currentPage;
+    totalDisplay.textContent = totalPages < 10 ? `0${totalPages}` : totalPages;
+
+    // Show/Hide Newer
+    if (currentPage > 1) {
+        prevLink.classList.remove("invisible");
+        prevLink.href = `?page=${currentPage - 1}`;
+    }
+
+    // Show/Hide Older
+    if (currentPage < totalPages) {
+        nextLink.classList.remove("invisible");
+        nextLink.href = `?page=${currentPage + 1}`;
+    }
+});
+</script>
+
 {% if page.active == 'search' %}
 <script>
 document.addEventListener("DOMContentLoaded", function () {
@@ -146,79 +219,6 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 </script>
 {% endif %}
-
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-    const POSTS_PER_PAGE = 10;
-    const urlParams = new URLSearchParams(window.location.search);
-    const currentPage = parseInt(urlParams.get("page")) || 1;
-    
-    const raw = document.getElementById("fatwa-data");
-    const data = JSON.parse(raw.textContent);
-    
-    const totalPages = Math.ceil(data.length / POSTS_PER_PAGE);
-    const start = (currentPage - 1) * POSTS_PER_PAGE;
-    const end = start + POSTS_PER_PAGE;
-    
-    const container = document.getElementById("fatwa-container");
-    const postsToShow = data.slice(start, end);
-// 1. Render Posts
-    if (data.length === 0) {
-        container.innerHTML = `
-            <div class="py-20 text-center">
-                <h2 class="text-4xl md:text-5xl font-black uppercase tracking-tighter opacity-20">
-                    {{ site.site_elements.no_entries_found }}
-                </h2>
-            </div>
-        `;
-        // Hide pagination if no data exists
-        document.getElementById("pagination-nav").classList.add("hidden");
-        return; 
-    }
-
-    container.innerHTML = postsToShow.map(post => `
-         <article class="group block border-b border-black/10 dark:border-white/10 hover:border-black dark:hover:border-white transition-colors duration-300 py-8 first:pt-4 last:border-b-0">
-          <a href="${post.url}">
-           <div class="md:col-span-3 flex flex-row md:flex-col justify-between md:justify-start gap-2 text-[10px] font-black uppercase tracking-[0.2em]">
-            <span class="text-zinc-400 dark:text-zinc-600 tabular-nums">
-             ${post.hijri ? `${post.hijri} / ` : ''}${post.date}
-            </span>
-            </div>
-            <div class="md:col-span-9 flex flex-col gap-2">
-            <h3 class="text-lg md:text-xl font-black font-extrabold uppercase tracking-tight leading-snug text-black dark:text-white group-hover:underline decoration-2 underline-offset-4">
-                ${post.title}
-            </h3>
-            <p class="text-sm text-zinc-500 dark:text-zinc-400 lowercase normal-case leading-relaxed max-w-2xl line-clamp-2 font-normal">
-                ${post.summary}
-            </p>
-            </div>
-            </a>
-        </article>
-    `).join("");
-
-    // 2. Handle Pagination UI
-    const prevLink = document.getElementById("prev-link");
-    const nextLink = document.getElementById("next-link");
-    const currentDisplay = document.getElementById("current-page-display");
-    const totalDisplay = document.getElementById("total-pages-display");
-
-    // Update numbers 
-    currentDisplay.textContent = currentPage < 10 ? `0${currentPage}` : currentPage;
-    totalDisplay.textContent = totalPages < 10 ? `0${totalPages}` : totalPages;
-
-    // Show/Hide Newer
-    if (currentPage > 1) {
-        prevLink.classList.remove("invisible");
-        prevLink.href = `?page=${currentPage - 1}`;
-    }
-
-    // Show/Hide Older
-    if (currentPage < totalPages) {
-        nextLink.classList.remove("invisible");
-        nextLink.href = `?page=${currentPage + 1}`;
-    }
-});
-</script>
 
 {% if page.active == 'contact' %}
 <script>
