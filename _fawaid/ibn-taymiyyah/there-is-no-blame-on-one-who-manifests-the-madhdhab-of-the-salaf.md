@@ -1,7 +1,7 @@
 ---
 layout: page
 publisher: alsalafiyyah.manhaj@gmail.com
-title: ""
+title: "There is no blame on one who manifests the madhdhab of the Salaf"
 section: fawaid
 author: "Shaykh al-Islam ibn Taymiyyah"
 source: "Majmu' al-Fatawa 4/149"
