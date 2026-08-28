@@ -33,7 +33,7 @@ The apparent meaning of the textual proofs establishes that it is the sun that r
 
 3. Almighty Allah says: **"And you might have seen the sun, when it rose, declining to the right from their Cave, and when it set, turning away from them to the left,..."** [Al-Kahf: 17]. He attributed the inclination and passing to the sun, which is a proof that the movement originates from it. If it were from the earth, He would have said that their cave inclined away from it. Likewise, attributing the rising and setting to the sun indicates that it is the one that revolves, even if its indication is less explicit than His statements "inclining" and "passing."
 
-4. Almighty Allah says: "And He it is Who has created the night and the day, and the sun and the moon, each in an orbit floating." [Al-Anbiya: 33]. Ibn Abbas (may Allah be pleased with them both) said: **"They revolve in an orbit like the whorl of a spindle."** This is famously reported from him.
+4. Almighty Allah says: **"And He it is Who has created the night and the day, and the sun and the moon, each in an orbit floating."** [Al-Anbiya: 33]. Ibn Abbas (may Allah be pleased with them both) said: **"They revolve in an orbit like the whorl of a spindle."** This is famously reported from him.
 
 5. Almighty Allah says: **"He brings the night as a cover over the day, seeking it rapidly,..."** [Al-A'raf: 54]. He made the night a pursuer of the day, and a pursuer is moving and catching up. It is well known that the night and day are subordinate to the sun.
 
