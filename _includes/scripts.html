@@ -1,30 +1,10 @@
 <script defer type="text/javascript">(function(a,b,c){if(c in b&&b[c]){var d,e=a.location,f=/^(a|html)$/i;a.addEventListener("click",function(a){d=a.target;while(!f.test(d.nodeName))d=d.parentNode;"href"in d&&(d.href.indexOf("http")||~d.href.indexOf(e.host))&&(a.preventDefault(),e.href=d.href)},!1)}})(document,window.navigator,"standalone")</script>
 
-<script defer language="javascript" type="text/javascript">
-    function setAccessedDate() {
-      if (document.getElementById('accessed-on')) {
-        var now = new Date();
-        var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-        var formattedDate = now.getDate().padStart(2,'0')+" "+months[now.getMonth()]+" "+now.getFullYear();
-        document.getElementById('accessed-on').textContent = " (accessed " + formattedDate + ")";
-      }
-    }
-    function setModifiedDate() {
-      if (document.getElementById('last-modified')) {
-        fetch("https://api.github.com/repos/alsalafiyyah/alsalafiyyah.github.io/commits?path={{ page.path }}")
-          .then((response) => {
-            return response.json();
-          })
-          .then((commits) => {
-            var modified = commits[0]['commit']['committer']['date'].slice(0,10);
-            if(modified != "{{ page.date | date: "%d %b, %Y" }}") {
-              document.getElementById('last-modified').textContent = " " + modified + " ";
-            }
-          });
-      }
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/sw.js');
     }
   </script>
-
 
 {% if page.active == 'search' %}
 <script>
@@ -271,75 +251,6 @@ document.addEventListener("DOMContentLoaded", function () {
       navigator.serviceWorker.register('/sw.js');
     }
   </script>
-   <script>
-        const themeToggle = document.querySelector('#theme-toggle');
-        const html = document.querySelector('html');
-
-        // 1. Load theme from localStorage or system preference
-        const currentTheme = localStorage.getItem('theme') || 
-                            (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
-
-        // 2. Set initial state
-        html.setAttribute('data-theme', currentTheme);
-        themeToggle.checked = currentTheme === 'dark';
-
-        // 3. Listen for changes
-        themeToggle.addEventListener('change', (e) => {
-            const newTheme = e.target.checked ? 'dark' : 'light';
-            html.setAttribute('data-theme', newTheme);
-            localStorage.setItem('theme', newTheme);
-        });
-    </script>
-<script>
-const pwaBtn = document.getElementById('pwa-control-btn');
-let deferredPrompt;
-
-// Function to check if the user is currently using the app version
-const isStandalone = () => {
-  return window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone;
-};
-
-// 1. Initial State Check
-if (isStandalone()) {
-  // User is already IN the app, so hide the button entirely
-  pwaBtn.classList.add('hidden');
-}
-
-// 2. Listen for Installability (Not yet installed)
-window.addEventListener('beforeinstallprompt', (e) => {
-  e.preventDefault();
-  deferredPrompt = e;
-  
-  pwaBtn.innerText = "Install App"; // Set text to Install
-  pwaBtn.classList.remove('hidden');
-});
-
-// 3. Handle Button Click
-pwaBtn.addEventListener('click', async () => {
-  if (deferredPrompt) {
-    // TRIGGER INSTALL
-    deferredPrompt.prompt();
-    const { outcome } = await deferredPrompt.userChoice;
-    if (outcome === 'accepted') {
-      deferredPrompt = null;
-      pwaBtn.classList.add('hidden');
-    }
-  } else {
-    // FALLBACK: OPEN IN APP
-    // If there is no install prompt, but the button is visible,
-    // we assume it's installed or they are on a mobile browser.
-    // Redirecting to the start_url often triggers the "Open in App" banner.
-    window.location.href = '/'; 
-  }
-});
-
-// 4. Handle successful installation
-window.addEventListener('appinstalled', () => {
-  pwaBtn.innerText = "Open in App";
-  // Optional: hide it after installation to avoid confusion
-  pwaBtn.classList.add('hidden'); 
-});
-</script>
 
 <!-- Scripts for Dark / Light Theme Toggle Logic, Image Modal, Text Toggle, Tabs & Category Scrolling -->
 <script>
