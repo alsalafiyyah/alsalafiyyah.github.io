@@ -29,10 +29,15 @@ summary: ""
     
         <div id="categories-directory-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 max-h-[450px] overflow-y-auto pr-2 [&::-webkit-scrollbar]:w-2 [&::-webkit-scrollbar-thumb]:bg-black/20 dark:[&::-webkit-scrollbar-thumb]:bg-white/20">
             <!-- Category Item -->
-            {% for cat in site.categories %}
+            {% capture counts_and_names %}{% for cat in site.categories %}{{ cat[1].size | prepend: '0000' | slice: -4, 4 }}::{{ cat[0] }}{% unless forloop.last %}|{% endunless %}{% endfor %}{% endcapture %}
+            {% assign sorted_list = counts_and_names | split: '|' | sort | reverse %}
+            {% for item in sorted_list %}
+            {% assign parts = item | split: '::' %}
+            {% assign count = parts[0] | plus: 0 %}
+            {% assign name = parts[1] %}
             <a href="{{ cat.url | relative_url }}" class="category-item flex justify-between items-center p-3 border border-black/10 dark:border-white/10 bg-gray-50/50 dark:bg-zinc-900/50 hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-all group">
-                <span class="text-xs font-bold uppercase tracking-wide">{{ cat.title | default: cat.category }}</span>
-                <span class="text-[10px] font-black px-2 py-0.5 bg-black/10 dark:bg-white/10 group-hover:bg-white group-hover:text-black dark:group-hover:bg-black dark:group-hover:text-white transition-colors">{{ site.categories[cat].size }}</span>
+                <span class="text-xs font-bold uppercase tracking-wide">{{ name }}</span>
+                <span class="text-[10px] font-black px-2 py-0.5 bg-black/10 dark:bg-white/10 group-hover:bg-white group-hover:text-black dark:group-hover:bg-black dark:group-hover:text-white transition-colors">{{ count }}</span>
             </a>
             {% endfor %}
         </div>
