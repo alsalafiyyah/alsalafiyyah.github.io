@@ -9,6 +9,8 @@ translation: false
 tags: ibn-uthaymeen
 source: "Fatawa Arkan al-Islam p.40, Question 14"
 link: https://shamela.ws/book/9924/35
+category:
+- aqidah
 summary: "The ruling regarding one who claims knowledge of the unseen is that he is a kafir (disbeliever), because he is denying Almighty Allah."
 muftis:
   shaykh:

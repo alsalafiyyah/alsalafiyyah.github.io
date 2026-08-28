@@ -18,7 +18,6 @@ muftis:
     url: /biography/uthaymeen/
 ---
 
-
 ### Question: 
 
 Is a Kafir (disbeliever, Non-Muslim) obligated to embrace Islam?
