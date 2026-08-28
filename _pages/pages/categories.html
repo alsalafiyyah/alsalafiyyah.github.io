@@ -29,7 +29,7 @@ summary: ""
     
         <div id="categories-directory-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 max-h-[450px] overflow-y-auto pr-2 [&::-webkit-scrollbar]:w-2 [&::-webkit-scrollbar-thumb]:bg-black/20 dark:[&::-webkit-scrollbar-thumb]:bg-white/20">
             <!-- Category Item -->
-            {% for item in sorted_list %}
+            {% for category in site.categories %}
             {% assign category_name = category[0] %}
             {% assign posts = category[1] %}
             <a href="/category/{{ category_name | slugify }}" class="category-item flex justify-between items-center p-3 border border-black/10 dark:border-white/10 bg-gray-50/50 dark:bg-zinc-900/50 hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-all group">
