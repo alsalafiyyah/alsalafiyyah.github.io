@@ -252,7 +252,7 @@ defaults:
 
   # _posts/fawaid/
   - scope:
-      path: "_posts/fawaid/**"
+      path: "_posts/**/fawaid/**"
       type: posts
     values:
       layout: post
