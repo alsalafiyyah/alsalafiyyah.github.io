@@ -25,6 +25,8 @@ summary: "Collection of audio fatwas (legal opinions) issued by the scholars of 
       "url": {{ post.url | jsonify }},
       "date": {{ post.date | date: "%Y-%m-%d" | jsonify }},
       "hijri": {{ post.hijri | jsonify }},
+      "audio": {{ post.mp3 | jsonify }},
+      "videoID": {{ post.videoID | jsonify }},
       "summary": {{ post.content | strip_html | truncatewords: 20 | jsonify }}
     }{% unless forloop.last %},{% endunless %}
   {% endfor %}

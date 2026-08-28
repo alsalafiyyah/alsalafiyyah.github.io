@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 publisher: alsalafiyyah.manhaj@gmail.com
 title: "There is no blame on one who manifests the madhdhab of the Salaf"
 section: fawaid

@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
-title: Religious Prohibition Against Cursing the Name 'Israel'
+title: "Religious Prohibition Against Cursing the Name 'Israel'"
 date: 2026-08-05
 lang: en
 translation: false
