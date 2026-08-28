@@ -200,8 +200,6 @@ collections:
     output: true
   encyclopedia:
     output: true
-  fawaid:
-    output: true
 
 defaults:
   # _posts
@@ -252,6 +250,14 @@ defaults:
       layout: post
       permalink: /wahhabism/:title/ 
 
+  # _posts/fawaid/
+  - scope:
+      path: "_posts/fawaid/**"
+      type: posts
+    values:
+      layout: post
+      permalink: /fawaid/:title/ 
+
   # _categories
   - scope:
       path: "_categories"
@@ -283,14 +289,6 @@ defaults:
     values:
       layout: "page"
       permalink: /encyclopedia/:title/
-
-  # _fawaid
-  - scope:
-      path: "_fawaid"
-      type: "pages"
-    values:
-      layout: "page"
-      permalink: /fawaid/:title/
 
   # _pages
   - scope:
