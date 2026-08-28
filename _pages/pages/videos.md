@@ -1,12 +1,12 @@
 ---
-layout: no_sidebar
+layout: json
 title: Video Fatwas
 section: videos
 permalink: /videos/
 summary: "Collection of video fatwas (legal opinions) issued by the scholars of ahlus-sunnah."
 ---
 
-<div class="grid grid-cols-1 md:grid-cols-3 gap-x-12 gap-y-24">
+<div class="grid grid-cols-1 md:grid-cols-3 gap-x-12 gap-y-24 hidden">
     {% assign posts = site.posts | where_exp: "post", "post.active == 'videos'" %}
     {% for post in posts %} 
     <article class="group relative flex flex-col">
