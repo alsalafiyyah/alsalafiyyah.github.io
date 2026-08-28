@@ -60,79 +60,107 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     container.innerHTML = postsToShow.map(post => {
-        // Conditional markup for Audio
-        const audioHtml = post.audio ? `
-            <div class="mt-4 pt-4 border-t border-black/10 dark:border-white/10 flex items-center gap-3">
-                <audio controls preload="none" class="w-full h-10 accent-black dark:accent-white">
-                    <source src="${post.audio}" type="audio/mpeg">
-                    Your browser does not support the audio element.
-                </audio>
-            </div>
-        ` : '';
+        const postDate = post.hijri ? `${post.hijri} / ${post.date}` : post.date;
 
-        // Conditional markup for YouTube Video Thumbnail
-        const videoHtml = post.videoID ? `
-            <div class="mb-4 relative aspect-video overflow-hidden border border-black/10 dark:border-white/10 bg-zinc-100 dark:bg-zinc-900 group/vid">
-                <img src="https://img.youtube.com/vi/${post.videoID}/hqdefault.jpg" alt="${post.title}" class="w-full h-full object-cover group-hover/vid:scale-105 transition-transform duration-300">
-                <div class="absolute inset-0 bg-black/30 flex items-center justify-center">
-                    <div class="w-12 h-12 bg-black text-white rounded-full flex items-center justify-center shadow-lg group-hover/vid:bg-red-500 transition-colors">
-                        <svg viewBox="0 0 24 24" fill="currentColor" class="w-5 h-5 ml-0.5">
-                            <polygon points="5 3 19 12 5 21 5 3"></polygon>
-                        </svg>
-                    </div>
-                </div>
-            </div>
-        ` : '';
-
-        // Determine article layout/style dynamically based on media presence
-        let articleGridClass = "grid grid-cols-1 md:grid-cols-12 gap-6 items-start";
-        let contentColClass = "md:col-span-12 flex flex-col gap-2";
-
+        // --- A. VIDEO POST TEMPLATE ---
         if (post.videoID) {
-            // Layout with Video: Split columns or sidebar preview
-            contentColClass = "md:col-span-12 flex flex-col gap-2";
-        }
-
-        return `
-            <article class="group block border-b border-black/10 dark:border-white/10 hover:border-black dark:hover:border-white transition-colors duration-300 py-8 first:pt-4 last:border-b-0">
-                <div class="${articleGridClass}">
-                    
-                    ${post.videoID ? `
-                        <div class="md:col-span-5">
-                            <a href="${post.url}" class="block">
-                                ${videoHtml}
-                            </a>
-                        </div>
-                        <div class="md:col-span-7 flex flex-col justify-between">
-                    ` : `
-                        <div class="md:col-span-12 flex flex-col justify-between">
-                    `}
-
-                        <div class="flex flex-row justify-between items-center text-[10px] font-black uppercase tracking-[0.2em] mb-2">
-                            <span class="text-zinc-400 dark:text-zinc-600 tabular-nums">
-                                ${post.hijri ? `${post.hijri} / ` : ''}${post.date}
-                            </span>
-                            <div class="flex gap-2">
-                                ${post.videoID ? '<span class="px-2 py-0.5 bg-red-500 text-white text-[9px]">Video</span>' : ''}
-                                ${post.audio ? '<span class="px-2 py-0.5 bg-black text-white dark:bg-white dark:text-black text-[9px]">Audio</span>' : ''}
+            return `
+                <article class="flex flex-col justify-between space-y-4 border-l-2 border-red-500 pl-4 py-1 group cursor-pointer">
+                    <div class="space-y-3">
+                        <!-- Thumbnail Preview Box -->
+                        <div class="relative bg-gray-100 dark:bg-zinc-900 border border-black/10 dark:border-white/10 aspect-video overflow-hidden flex items-center justify-center">
+                            <img src="https://img.youtube.com/vi/${post.videoID}/hqdefault.jpg" alt="${post.title}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300">
+                            <div class="absolute inset-0 bg-black/30 flex items-center justify-center">
+                                <div class="w-10 h-10 bg-black text-white rounded-full flex items-center justify-center group-hover:bg-red-500 transition-colors">
+                                    <svg viewBox="0 0 24 24" fill="currentColor" class="w-4 h-4 ml-0.5">
+                                        <polygon points="5 3 19 12 5 21 5 3"></polygon>
+                                    </svg>
+                                </div>
                             </div>
+                            <span class="absolute bottom-2 right-2 bg-black/80 text-white text-[9px] font-black px-2 py-0.5 uppercase tracking-widest">YouTube</span>
                         </div>
 
-                        <a href="${post.url}" class="${contentColClass}">
-                            <h3 class="text-lg md:text-xl font-black uppercase tracking-tight leading-snug text-black dark:text-white group-hover:underline decoration-2 underline-offset-4">
+                        <div class="space-y-1">
+                            <span class="text-[10px] font-bold opacity-50 block">${postDate}</span>
+                            <h3 class="text-xl md:text-2xl font-black uppercase tracking-tighter serif group-hover:underline leading-snug">
                                 ${post.title}
                             </h3>
-                            <p class="text-sm text-zinc-500 dark:text-zinc-400 lowercase normal-case leading-relaxed max-w-3xl line-clamp-2 font-normal">
+                            <p class="text-xs md:text-sm font-medium leading-relaxed opacity-80">
                                 ${post.summary}
                             </p>
-                        </a>
-
-                        ${audioHtml}
-
+                        </div>
                     </div>
-                </div>
-            </article>
-        `;
+
+                    <div class="pt-2">
+                        <a href="${post.url}" class="text-[10px] font-black uppercase tracking-widest text-black dark:text-white flex items-center gap-1 group-hover:text-red-500 transition-colors">
+                            Watch Video <span>→</span>
+                        </a>
+                    </div>
+                </article>
+            `;
+        }
+
+        // --- B. AUDIO POST TEMPLATE ---
+        else if (post.audio) {
+            return `
+                <article class="flex flex-col justify-between space-y-4 border-l-2 border-red-500 pl-4 py-1 group cursor-pointer">
+                    <div class="space-y-2">
+                        <div class="flex items-center justify-between">
+                            <span class="text-[10px] font-bold opacity-50">${postDate}</span>
+                            <span class="text-[10px] font-black uppercase tracking-widest bg-black/5 dark:bg-white/10 px-2 py-0.5 text-red-500">Audio Stream</span>
+                        </div>
+                        <h3 class="text-xl md:text-2xl font-black uppercase tracking-tighter serif group-hover:underline leading-snug">
+                            ${post.title}
+                        </h3>
+                        <p class="text-xs md:text-sm font-medium leading-relaxed opacity-80">
+                            ${post.summary}
+                        </p>
+                    </div>
+                    <div class="pt-2 flex items-center gap-4">
+                        <div x-data="{ playing: false, audio: new Audio('${post.audio}') }">
+                            <button 
+                                @click="playing ? audio.pause() : audio.play(); playing = !playing"
+                                class="flex items-center justify-center w-10 h-10 bg-red-600 hover:bg-red-700 text-white rounded-full shadow-lg transition focus:outline-none"
+                                :aria-label="playing ? 'Pause' : 'Play'">
+                                <!-- Play Icon -->
+                                <svg x-show="!playing" class="w-6 h-6 translate-x-0.5" fill="currentColor" viewBox="0 0 24 24">
+                                    <path d="M8 5v14l11-7z"/>
+                                </svg>
+                                <!-- Pause Icon -->
+                                <svg x-show="playing" class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
+                                    <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/>
+                                </svg>
+                            </button>
+                        </div>
+                        <a href="${post.url}" class="text-[10px] font-black uppercase tracking-widest text-black dark:text-white group-hover:text-red-500 transition-colors">
+                            Listen to Lecture →
+                        </a>
+                    </div>
+                </article>
+            `;
+        }
+
+        // --- C. TEXT POST TEMPLATE ---
+        else {
+            return `
+                <article class="flex flex-col justify-between space-y-4 border-l-2 border-red-500 pl-4 py-1 group cursor-pointer">
+                    <a href="${post.url}" class="space-y-2 block">
+                        <span class="text-[10px] font-bold opacity-50 block">${postDate}</span>
+                        <h3 class="text-xl md:text-2xl font-black uppercase tracking-tighter serif group-hover:underline leading-snug">
+                            ${post.title}
+                        </h3>
+                        <p class="text-xs md:text-sm font-medium leading-relaxed opacity-80">
+                            ${post.summary}
+                        </p>
+                    </a>
+                    <div class="pt-2">
+                        <a href="${post.url}" class="text-[10px] font-black uppercase tracking-widest text-black dark:text-white flex items-center gap-1 group-hover:text-red-500 transition-colors">
+                            Read More →
+                        </a>
+                    </div>
+                </article>
+            `;
+        }
     }).join("");
 
     // 2. Handle Pagination UI
@@ -155,6 +183,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 });
 </script>
+
 
 {% if page.active == 'search' %}
 <script>
