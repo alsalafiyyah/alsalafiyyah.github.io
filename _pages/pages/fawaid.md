@@ -8,11 +8,9 @@ permalink: /fawaid/
 <div id="fatwa-container"></div>
 <nav id="pagination-nav" class="flex items-center justify-between border-t-4 border-black dark:border-white pt-12 mt-12 mb-24">
     <a id="prev-link" href="#" class="text-sm font-black uppercase tracking-widest hover:line-through invisible">← Newer</a>
-    
     <div class="text-sm font-black uppercase tracking-widest tabular-nums">
       <span id="current-page-display">01</span> / <span id="total-pages-display">01</span>
     </div>
-    
     <a id="next-link" href="#" class="text-sm font-black uppercase tracking-widest hover:line-through invisible">Older →</a>
 </nav>
 <script id="fatwa-data" type="application/json">
