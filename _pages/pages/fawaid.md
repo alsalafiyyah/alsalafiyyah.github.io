@@ -7,13 +7,8 @@ permalink: /fawaid/
 
 <section class="mb-16">
     <div class="bg-white dark:bg-black transition-colors duration-300">
-        <!-- Section Header -->
-        <div class="flex items-center gap-4 mb-8 text-[10px] font-black uppercase tracking-[0.3em] text-gray-400 italic border-b-2 border-black/10 dark:border-white/10 pb-4">
-            <span class="w-2 h-2 rounded-full bg-red-500 flex-shrink-0 mr-2.5"></span>
-            <span class="text-black dark:text-white">Latest Posts & Updates</span>
-        </div>
 
-        <!-- Posts Grid (3 columns on desktop) -->
+        <!-- Fawaid -->
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             
             {% for c in site.fawaid %}
