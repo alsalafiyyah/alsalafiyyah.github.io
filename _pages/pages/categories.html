@@ -32,7 +32,7 @@ summary: ""
             {% for cat in site.categories %}
             <a href="/category/{{ cat.category | slugify }}" class="category-item flex justify-between items-center p-3 border border-black/10 dark:border-white/10 bg-gray-50/50 dark:bg-zinc-900/50 hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-all group">
                 <span class="text-xs font-bold uppercase tracking-wide">{{ cat.title }}</span>
-                <span class="text-[10px] font-black px-2 py-0.5 bg-black/10 dark:bg-white/10 group-hover:bg-white group-hover:text-black dark:group-hover:bg-black dark:group-hover:text-white transition-colors">{{ cat.category | size }}</span>
+                <span class="text-[10px] font-black px-2 py-0.5 bg-black/10 dark:bg-white/10 group-hover:bg-white group-hover:text-black dark:group-hover:bg-black dark:group-hover:text-white transition-colors">{{ cat.category.size }}</span>
             </a>
             {% endfor %}
         </div>
