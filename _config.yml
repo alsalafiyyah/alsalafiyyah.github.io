@@ -200,6 +200,8 @@ collections:
     output: true
   encyclopedia:
     output: true
+  fawaid:
+    output: true
 
 defaults:
   # _posts
@@ -281,6 +283,14 @@ defaults:
     values:
       layout: "page"
       permalink: /encyclopedia/:title/
+
+  # _fawaid
+  - scope:
+      path: "_fawaid"
+      type: "pages"
+    values:
+      layout: "page"
+      permalink: /fawaid/:title/
 
   # _pages
   - scope:
