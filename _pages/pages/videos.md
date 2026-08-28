@@ -1,7 +1,7 @@
 ---
 layout: json
 title: Video Fatwas
-section: videos
+active: videos
 permalink: /videos/
 summary: "Collection of video fatwas (legal opinions) issued by the scholars of ahlus-sunnah."
 ---
