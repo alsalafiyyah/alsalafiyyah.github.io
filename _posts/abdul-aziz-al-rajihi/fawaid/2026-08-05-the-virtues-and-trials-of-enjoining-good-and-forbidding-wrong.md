@@ -2,7 +2,7 @@
 layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: "The Virtues and Trials of Enjoining Good and Forbidding Wrong"
-section: fawaid
+active: fawaid
 author: "Shaykh Abdul-Aziz al-Rajhi"
 source: "Al-Idah wa At-Tabiyyin, p. 108"
 summary: "Enjoining good and forbidding wrong is one of the morals of the believers and one of their commendable traits, and this is simply because it is a call to Allah and His religion."

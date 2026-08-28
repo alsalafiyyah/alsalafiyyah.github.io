@@ -18,6 +18,7 @@ muftis:
   - name: Imam Ibn Al-Qayyim
     url: /biography/alqayyim/
 ---
+
 Praise be to Allah.
 
 When God (Allah in Arabic) sent Muhammad (peace be upon him) the people on earth were of two groups: (1) **the people of the Book**, and (2) **the pretenders of faith who followed no Book**.
