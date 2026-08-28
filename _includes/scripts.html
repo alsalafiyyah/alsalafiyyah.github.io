@@ -24,22 +24,8 @@
       }
     }
   </script>
-<script type="text/javascript">
-function callback(response) {
-    console.log(response);
-}
-function onShareCLick() {
-    if (navigator.share) {
-        navigator.share({
-                title: "{{ page.title }}",
-                text: "{{ site.url }}{{site.baseurl}}{{ page.url }}",
-                url: window.location.href
-            })
-            .then(() => console.log('Successful share'))
-            .catch(error => console.log('Error sharing:', error));
-    }
-}  
-</script>
+
+
 {% if page.active == 'search' %}
 <script>
 document.addEventListener("DOMContentLoaded", function () {
@@ -280,95 +266,6 @@ document.addEventListener("DOMContentLoaded", function () {
 </script>
 {% endif %}
 
-<script>
-    document.addEventListener('DOMContentLoaded', () => {
-        // Automatically inject the broken URL into the modal elements
-        const brokenUrl = window.location.href;
-        
-        document.getElementById('reportInputUrl').value = brokenUrl;
-        document.getElementById('reportDisplayUrl').textContent = brokenUrl;
-
-        // Modal Logic
-        const modal = document.getElementById('reportModal');
-        const openBtn = document.getElementById('openReportModal');
-        const closeBtn = document.getElementById('closeReportModal');
-        const cancelBtn = document.getElementById('cancelReportModal');
-        const form = document.getElementById('bugReportForm');
-        const statusMsg = document.getElementById('bugStatusMsg');
-        const submitBtn = document.getElementById('submitBugBtn');
-
-        function openModal() {
-            modal.classList.remove('hidden');
-        }
-
-        function closeModal() {
-            modal.classList.add('hidden');
-            form.reset();
-            // Re-assign the broken URL after form reset clears it
-            document.getElementById('reportInputUrl').value = brokenUrl;
-            document.getElementById('reportDisplayUrl').textContent = brokenUrl;
-            statusMsg.classList.add('hidden');
-        }
-
-        openBtn.addEventListener('click', openModal);
-        closeBtn.addEventListener('click', closeModal);
-        cancelBtn.addEventListener('click', closeModal);
-
-        // Close on backdrop click
-        modal.addEventListener('click', (e) => {
-            if (e.target === modal) closeModal();
-        });
-
-        // Close on Escape key
-        document.addEventListener('keydown', (e) => {
-            if (e.key === 'Escape' && !modal.classList.contains('hidden')) {
-                closeModal();
-            }
-        });
-
-        // Form Submission via Fetch
-        form.addEventListener('submit', function(e) {
-            e.preventDefault();
-
-            submitBtn.disabled = true;
-            submitBtn.innerText = "Submitting...";
-
-            statusMsg.className = "text-xs font-bold uppercase tracking-wider p-3 border-2 border-black dark:border-white text-black dark:text-white bg-transparent";
-            statusMsg.textContent = "Sending report...";
-            statusMsg.classList.remove('hidden');
-
-            const formData = new FormData(form);
-
-            fetch(form.action, {
-                method: 'POST',
-                body: formData
-            })
-            .then(res => res.json())
-            .then(data => {
-                if (data.result === 'success') {
-                    statusMsg.className = "text-xs font-bold uppercase tracking-wider p-3 border-2 border-green-600 text-green-600 bg-green-50 dark:bg-green-950/30";
-                    statusMsg.textContent = "Report submitted successfully. Thank you!";
-                    form.reset();
-                    setTimeout(() => {
-                        closeModal();
-                    }, 2000);
-                } else {
-                    throw new Error(data.error || 'Submission failed');
-                }
-            })
-            .catch(err => {
-                statusMsg.className = "text-xs font-bold uppercase tracking-wider p-3 border-2 border-red-600 text-red-600 bg-red-50 dark:bg-red-950/30";
-                statusMsg.textContent = "Error sending report. Please try again.";
-                console.error(err);
-            })
-            .finally(() => {
-                submitBtn.disabled = false;
-                submitBtn.innerText = "{{ site.site_elements.submit | default: 'Submit Report' }}";
-            });
-        });
-    });
-</script>
-
   <script>
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('/sw.js');
@@ -444,55 +341,27 @@ window.addEventListener('appinstalled', () => {
 });
 </script>
 
-    <script>
-        const picker = document.getElementById('gregorianPicker');
-        const gregorianOutput = document.getElementById('gregorianOutput');
-        const hijriOutput = document.getElementById('hijriOutput');
-
-        // Set default to today's date
-        const today = new Date();
-        const isoToday = today.toISOString().split('T')[0];
-        picker.value = isoToday;
-        updateDates(today);
-
-        // Listen for changes when the user picks a date
-        picker.addEventListener('change', function(e) {
-            if (e.target.value) {
-                // Parse local date safely without timezone shifting issues
-                const [year, month, day] = e.target.value.split('-').map(Number);
-                const selectedDate = new Date(year, month - 1, day);
-                updateDates(selectedDate);
-            }
-        });
-
-        function updateDates(dateObj) {
-            // Display Gregorian
-            gregorianOutput.textContent = dateObj.toISOString().split('T')[0];
-
-            // Convert and Display Hijri (Umm al-Qura)
-            const hijriFormatter = new Intl.DateTimeFormat('en-u-ca-islamic-umalqura', {
-                year: 'numeric',
-                month: '2-digit',
-                day: '2-digit'
-            });
-
-            const parts = hijriFormatter.formatToParts(dateObj);
-            let hYear = '', hMonth = '', hDay = '';
-
-            parts.forEach(part => {
-                if (part.type === 'year') hYear = part.value;
-                if (part.type === 'month') hMonth = part.value;
-                if (part.type === 'day') hDay = part.value;
-            });
-
-            hijriOutput.textContent = `${hYear}-${hMonth}-${hDay}`;
-        }
-    </script>
-
 <!-- Scripts for Dark / Light Theme Toggle Logic, Image Modal, Text Toggle, Tabs & Category Scrolling -->
 <script>
+// Global share callback (kept outside or accessible globally for inline handlers)
+function callback(response) {
+    console.log(response);
+}
+
+function onShareCLick() {
+    if (navigator.share) {
+        navigator.share({
+            title: "{{ page.title }}",
+            text: "{{ site.url }}{{ site.baseurl }}{{ page.url }}",
+            url: window.location.href
+        })
+        .then(() => console.log('Successful share'))
+        .catch(error => console.log('Error sharing:', error));
+    }
+}
+
 document.addEventListener("DOMContentLoaded", () => {
-    // --- Dark / Light Theme Toggle Logic ---
+    // --- 1. Dark / Light Theme Toggle Logic ---
     const themeToggleDarkIcon = document.getElementById('theme-toggle-dark-icon');
     const themeToggleLightIcon = document.getElementById('theme-toggle-light-icon');
     const themeToggleBtn = document.getElementById('theme-toggle');
@@ -517,7 +386,7 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 
-    // --- Tabs Logic ---
+    // --- 2. Tabs Logic ---
     const container = document.getElementById("fatwa-tabs-container");
     if (container) {
         const buttons = container.querySelectorAll(".tab-btn");
@@ -542,7 +411,7 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 
-    // --- Category Scroll Logic ---
+    // --- 3. Category Scroll Logic ---
     const catContainer = document.getElementById("category-scroll-container");
     const catLeftBtn = document.getElementById("cat-scroll-left");
     const catRightBtn = document.getElementById("cat-scroll-right");
@@ -557,7 +426,37 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 
-    // --- Image Modal Logic ---
+    // --- 4. Quotes Scroll Logic ---
+    const quoteContainer = document.getElementById("quote-scroll-container");
+    const quoteLeftBtn = document.getElementById("quote-scroll-left");
+    const quoteRightBtn = document.getElementById("quote-scroll-right");
+
+    if (quoteContainer && quoteLeftBtn && quoteRightBtn) {
+        const scrollAmount = 350;
+        quoteLeftBtn.addEventListener("click", () => {
+            quoteContainer.scrollBy({ left: -scrollAmount, behavior: "smooth" });
+        });
+        quoteRightBtn.addEventListener("click", () => {
+            quoteContainer.scrollBy({ left: scrollAmount, behavior: "smooth" });
+        });
+    }
+
+    // --- 5. Marquee / Header Scroll Logic ---
+    const logoScrollContainer = document.getElementById("logo-scroll-container");
+    const scrollLeftBtn = document.getElementById("scroll-left");
+    const scrollRightBtn = document.getElementById("scroll-right");
+
+    if (logoScrollContainer && scrollLeftBtn && scrollRightBtn) {
+        const scrollAmount = 300; 
+        scrollLeftBtn.addEventListener("click", () => {
+            logoScrollContainer.scrollBy({ left: -scrollAmount, behavior: "smooth" });
+        });
+        scrollRightBtn.addEventListener("click", () => {
+            logoScrollContainer.scrollBy({ left: scrollAmount, behavior: "smooth" });
+        });
+    }
+
+    // --- 6. Image Modal Logic ---
     const openBtn = document.getElementById("open-modal-btn");
     const closeBtn = document.getElementById("close-modal-btn");
     const modal = document.getElementById("image-modal");
@@ -580,7 +479,7 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 
-    // --- Show More / Show Less Text Toggle Logic ---
+    // --- 7. Show More / Show Less Text Toggle Logic ---
     const toggleBtn = document.getElementById("toggle-text-btn");
     const textPreview = document.getElementById("text-preview");
     const textFull = document.getElementById("text-full");
@@ -597,6 +496,104 @@ document.addEventListener("DOMContentLoaded", () => {
                 textPreview.classList.remove("hidden");
                 toggleBtn.textContent = "Show More ↓";
             }
+        });
+    }
+
+    // --- 8. Bug Report Modal & Fetch Form Submission Logic ---
+    const brokenUrl = window.location.href;
+    const reportInputUrl = document.getElementById('reportInputUrl');
+    const reportDisplayUrl = document.getElementById('reportDisplayUrl');
+
+    if (reportInputUrl && reportDisplayUrl) {
+        reportInputUrl.value = brokenUrl;
+        reportDisplayUrl.textContent = brokenUrl;
+    }
+
+    const reportModal = document.getElementById('reportModal');
+    const openReportBtn = document.getElementById('openReportModal');
+    const closeReportBtn = document.getElementById('closeReportModal');
+    const cancelReportBtn = document.getElementById('cancelReportModal');
+    const bugForm = document.getElementById('bugReportForm');
+    const bugStatusMsg = document.getElementById('bugStatusMsg');
+    const submitBugBtn = document.getElementById('submitBugBtn');
+
+    if (reportModal && openReportBtn && bugForm) {
+        function openReportModal() {
+            reportModal.classList.remove('hidden');
+        }
+
+        function closeReportModal() {
+            reportModal.classList.add('hidden');
+            bugForm.reset();
+            if (reportInputUrl && reportDisplayUrl) {
+                reportInputUrl.value = brokenUrl;
+                reportDisplayUrl.textContent = brokenUrl;
+            }
+            if (bugStatusMsg) bugStatusMsg.classList.add('hidden');
+        }
+
+        openReportBtn.addEventListener('click', openReportModal);
+        if (closeReportBtn) closeReportBtn.addEventListener('click', closeReportModal);
+        if (cancelReportBtn) cancelReportBtn.addEventListener('click', closeReportModal);
+
+        reportModal.addEventListener('click', (e) => {
+            if (e.target === reportModal) closeReportModal();
+        });
+
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape' && !reportModal.classList.contains('hidden')) {
+                closeReportModal();
+            }
+        });
+
+        bugForm.addEventListener('submit', function(e) {
+            e.preventDefault();
+
+            if (submitBugBtn) {
+                submitBugBtn.disabled = true;
+                submitBugBtn.innerText = "Submitting...";
+            }
+
+            if (bugStatusMsg) {
+                bugStatusMsg.className = "text-xs font-bold uppercase tracking-wider p-3 border-2 border-black dark:border-white text-black dark:text-white bg-transparent";
+                bugStatusMsg.textContent = "Sending report...";
+                bugStatusMsg.classList.remove('hidden');
+            }
+
+            const formData = new FormData(bugForm);
+
+            fetch(bugForm.action, {
+                method: 'POST',
+                body: formData
+            })
+            .then(res => res.json())
+            .then(data => {
+                if (data.result === 'success') {
+                    if (bugStatusMsg) {
+                        bugStatusMsg.className = "text-xs font-bold uppercase tracking-wider p-3 border-2 border-green-600 text-green-600 bg-green-50 dark:bg-green-950/30";
+                        bugStatusMsg.textContent = "Report submitted successfully. Thank you!";
+                    }
+                    bugForm.reset();
+                    setTimeout(() => {
+                        closeReportModal();
+                    }, 2000);
+                } else {
+                    throw new Error(data.error || 'Submission failed');
+                }
+            })
+            .catch(err => {
+                if (bugStatusMsg) {
+                    bugStatusMsg.className = "text-xs font-bold uppercase tracking-wider p-3 border-2 border-red-600 text-red-600 bg-red-50 dark:bg-red-950/30";
+                    bugStatusMsg.textContent = "Error sending report. Please try again.";
+                }
+                console.error(err);
+            })
+            .finally(() => {
+                if (submitBugBtn) {
+                    submitBugBtn.disabled = false;
+                    submitBugBtn.innerText = "{{ site.site_elements.submit | default: 'Submit Report' }}";
+                }
+            });
         });
     }
 });
