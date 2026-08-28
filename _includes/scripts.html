@@ -82,9 +82,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
                         <div class="space-y-1">
                             <span class="text-[10px] font-bold opacity-50 block">${postDate}</span>
-                            <h3 class="text-xl md:text-2xl font-black uppercase tracking-tighter serif group-hover:underline leading-snug">
+                            <a href="${post.url}"><h3 class="text-xl md:text-2xl font-black uppercase tracking-tighter serif group-hover:underline leading-snug">
                                 ${post.title}
-                            </h3>
+                            </h3></a>
                             <p class="text-xs md:text-sm font-medium leading-relaxed opacity-80">
                                 ${post.summary}
                             </p>
@@ -109,9 +109,9 @@ document.addEventListener("DOMContentLoaded", function () {
                             <span class="text-[10px] font-bold opacity-50">${postDate}</span>
                             <span class="text-[10px] font-black uppercase tracking-widest bg-black/5 dark:bg-white/10 px-2 py-0.5 text-red-500">Audio Stream</span>
                         </div>
-                        <h3 class="text-xl md:text-2xl font-black uppercase tracking-tighter serif group-hover:underline leading-snug">
+                        <a href="${post.url}"><h3 class="text-xl md:text-2xl font-black uppercase tracking-tighter serif group-hover:underline leading-snug">
                             ${post.title}
-                        </h3>
+                        </h3></a>
                         <p class="text-xs md:text-sm font-medium leading-relaxed opacity-80">
                             ${post.summary}
                         </p>
@@ -133,7 +133,7 @@ document.addEventListener("DOMContentLoaded", function () {
                             </button>
                         </div>
                         <a href="${post.url}" class="text-[10px] font-black uppercase tracking-widest text-black dark:text-white group-hover:text-red-500 transition-colors">
-                            Listen to Lecture →
+                            Read more →
                         </a>
                     </div>
                 </article>
@@ -146,9 +146,9 @@ document.addEventListener("DOMContentLoaded", function () {
                 <article class="flex flex-col justify-between space-y-4 border-l-2 border-red-500 pl-4 py-1 group cursor-pointer">
                     <a href="${post.url}" class="space-y-2 block">
                         <span class="text-[10px] font-bold opacity-50 block">${postDate}</span>
-                        <h3 class="text-xl md:text-2xl font-black uppercase tracking-tighter serif group-hover:underline leading-snug">
+                        <a href="${post.url}"><h3 class="text-xl md:text-2xl font-black uppercase tracking-tighter serif group-hover:underline leading-snug">
                             ${post.title}
-                        </h3>
+                        </h3></a>
                         <p class="text-xs md:text-sm font-medium leading-relaxed opacity-80">
                             ${post.summary}
                         </p>
