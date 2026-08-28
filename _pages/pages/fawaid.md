@@ -7,5 +7,5 @@ permalink: /fawaid/
 
 {% for c in site.fawaid %}
   <h2>{{ c.title }}</h2>
-  <p>{{ c.content }}</p>
+  <p>{{ c.author }} : {{ c.content }}</p>
 {% endfor %}
