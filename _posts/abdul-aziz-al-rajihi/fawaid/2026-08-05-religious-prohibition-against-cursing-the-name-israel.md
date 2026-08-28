@@ -5,6 +5,7 @@ title: Religious Prohibition Against Cursing the Name 'Israel'
 date: 2026-08-05
 lang: en
 translation: false
+section: fawaid
 summary: "The correct practice is that it should be called 'the State of the Jews,' not 'the State of Israel.'"
 category:
 - palestine

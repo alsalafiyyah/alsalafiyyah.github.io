@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: "The Virtues and Trials of Enjoining Good and Forbidding Wrong"
 section: fawaid
