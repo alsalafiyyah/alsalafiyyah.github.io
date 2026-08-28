@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
-title: "How 'La ilaha illa Allah' Encompasses All Types of Monotheism"
+title: "How to Answer Those Who Justify Grave-Worship Using the Prophet's Mosque"
 date: 2026-08-28
 hijri: 1448-03-15
 lang: en
