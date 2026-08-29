@@ -1,5 +1,5 @@
 ---
-active: wahhabi
+active: wahhabism
 article_taken_from:
   taken_from:
   - web_title: لا ينكر مسلم شفاعة الرسول
@@ -8,7 +8,7 @@ date: 2020-09-09
 hijri: '1442-01-21'
 lang: en
 layout: post
-mass_edited: true
+permalink: /wahhabism/do-wahhabis-deny-intercession/
 muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
@@ -20,6 +20,7 @@ summary: Do Wahhabis deny intercession by the Messenger of Allah, peace and bles
   be upon him?
 title: Do Wahhabis deny Shafa’ah (intercession)
 ---
+
 ### Question: 
 Do Wahhabis deny Shafa’ah (intercession) by the Messenger of Allah (peace be upon him)?
 
