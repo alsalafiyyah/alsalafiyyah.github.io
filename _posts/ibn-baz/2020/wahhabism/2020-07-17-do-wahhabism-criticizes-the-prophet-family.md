@@ -8,6 +8,7 @@ hijri: '1441-11-26'
 date: 2020-07-17
 lang: en
 tags: ibn-baz
+permalink: /wahhabism/do-wahhabis-deny-intercession/
 category:
 - wahhabism
 - manhaj
