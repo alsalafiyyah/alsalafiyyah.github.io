@@ -29,7 +29,7 @@ And Sheikh Taqi al-Din Ahmad ibn Taymiyyah (may Allah have mercy on him) is amon
 
 It is not fitting for anyone to be deceived by those people who practice it, endorse it, or call to it—such as Muhammad Alawi al-Maliki and others—because the proof does not lie in the statements of men; rather, the proof lies in what Allah the Glorified said, what His Messenger ﷺ said, or what the predecessors of the Ummah agreed upon. 
 
-This is based on the saying of Allah the Exalted: **“O you who believe! Obey Allâh and obey the Messenger (Muhammad ﷺ), and those of you (Muslims) who are in authority. (And) if you differ in anything amongst yourselves, refer it to Allâh and His Messenger (صلى الله عليه وسلم), if you believe in Allâh and in the Last Day. That is better and more suitable for final determination.”** [An-Nisa': 59]; 
+This is based on the saying of Allah the Exalted: **“O you who believe! Obey Allâh and obey the Messenger (Muhammad ﷺ), and those of you (Muslims) who are in authority. (And) if you differ in anything amongst yourselves, refer it to Allâh and His Messenger (ﷺ), if you believe in Allâh and in the Last Day. That is better and more suitable for final determination.”** [An-Nisa': 59]; 
 
 His saying the Glorified: **"“And in whatsoever you differ, the decision thereof is with Allâh (He is the ruling Judge).”** [Ash-Shura: 10]; 
 
