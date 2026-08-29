@@ -14,11 +14,12 @@ muftis:
   shaykh:
   - name: Shaykh Ibn Baz
     url: /biography/binbaz/
+link: "https://binbaz.org.sa/fatwas/2355/%D8%B1%D8%A7%D9%8A-%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85-%D8%A7%D8%A8%D9%86-%D8%AA%D9%8A%D9%85%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%81%D8%A7%D9%84-%D8%A8%D8%A7%D9%84%D9%85%D9%88%D9%84%D8%AF-%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A"
 ---
 
 ### Question: 
 
-The brother A. M. M. from Kuwait says in his question: "One of the scholars mentioned that Imam Ibn Taymiyyah (may Allah have mercy on him) viewed the celebration of the Prophet's Birthday (Mawlid) as something commendable (yastahsin). Is this true, O Your Eminence the Sheikh?"
+The brother A. M. M. from Kuwait says in his question: "One of the scholars mentioned that Imam Ibn Taymiyyah (may Allah have mercy on him) viewed the celebration of the Prophet's Birthday (Mawlid) as something commendable. Is this true, O Your Eminence the Sheikh?"
 
 ### Answer: 
 
