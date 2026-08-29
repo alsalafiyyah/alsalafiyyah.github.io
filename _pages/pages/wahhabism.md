@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: no_sidebar
 title: "Wahhabism?"
 permalink: /wahhabism/
 summary: "There is no sect on the face of the earth that calls itself Wahhabi. Rather, innovators and polytheists apply this label to anyone who singles Allah out in worship, follows the Sunnah of the Messenger of Allah ﷺ."
