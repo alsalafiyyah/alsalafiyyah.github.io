@@ -17,7 +17,7 @@ layout: no_sidebar
 <script id="fatwa-data" type="application/json">
 [
   {% assign target_category = page.category | default: "manhaj" %}
-  {% assign posts = site.posts | where_exp: "post", "post.categories contains target_category and post.active == page.active" %}
+  {% assign posts = site.posts | where_exp: "post", "post.categories contains target_category" | where_exp: "post", "post.active == page.active" %}
   {% for post in posts %}
     {
       "title": {{ post.title | jsonify }},
