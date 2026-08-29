@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
-title: Ibn Taymiyyah did not approve celebrating the Prophet's Mawlid
+title: "Ibn Taymiyyah did not approve celebrating the Prophet's Mawlid"
 hijri: '1442-01-29'
 lang: en
 source: "From among the questions posed by Al-Majallah Al-Arabiyah, dictated by His Eminence Sheikh Ibn Baz on 29/5/1417 AH and Majmoo' Fatawa wa Maqalat al-Shaykh Ibn Baz, 9/211"
@@ -51,5 +51,3 @@ We ask Allah to grant success to us and to all Muslims in knowing the truth and 
 [^1]: Al-Bukhari, Sahih, Book on reconciliation, no. 2697; Muslim, Sahih, Book on judicial decisions, no. 1718; Abu Dawud, Sunan, Book on Al-Sunnah, no. 4606; Ibn Majah, Sunan, Introduction, no. 14; and Ahmad, Musnad, vol. 6, p. 240.
 [^2]: Muslim, Sahih, Book on judicial decisions, no. 1718; and Ahmad ibn Hanbal, Musnad, vol. 6, p. 256.
 [^3]: Muslim, Sahih, Book on Friday, no. 867; Al-Nasa'i, Sunan, Book on the two 'Eid Prayers, no. 1578; Abu Dawud, Book on tribute, spoils, and rulership, no. 2954; Ibn Majah, Sunan, Introduction, no. 45; Ahmad ibn Hanbal, Musnad, vol. 3, p. 311; and Al-Darimy, Sunan, Introduction, no. 206.
-
-
