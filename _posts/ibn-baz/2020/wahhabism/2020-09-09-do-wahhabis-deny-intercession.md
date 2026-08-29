@@ -8,6 +8,8 @@ date: 2020-09-09
 hijri: '1442-01-21'
 lang: en
 layout: post
+category:
+- wahhabism
 permalink: /wahhabism/do-wahhabis-deny-intercession/
 muftis:
   shaykh:
