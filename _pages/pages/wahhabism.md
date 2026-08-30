@@ -15,6 +15,8 @@ Wahhabism is the term applied by opponents of Shaykh Muhammad ibn Abdul-Wahhab�
 
 <p>Imam Ash-Shawkani stated in Al-Badr al-Tali' 1/262: **"The eminent scholar Sheikh Muhammad ibn Abd al-Wahhab, the caller to monotheism [in the lands of Najd], who condemned those holding beliefs regarding the dead... Those lands had been overcome by matters of Jahiliyyah to the point where Islam had become a stranger there. [He called] to monotheism and demolished constructed graves and elevated domes (because they were worshiped by people at that time)."**</p>
 
+<p>Shaykh Muhammad ibn Abd al-Wahhab said: **"My creed and religion which I practice is the methodology of Ahl al-Sunnah wal-Jama'ah, which the imams of the Muslims—such as the four imams and their followers until the Day of Judgment—are upon. However, I clarified to the people the sincerity of worship for Allah alone, and I forbade them from calling upon prophets, the dead, the righteous, and others, and from associating partners with Allah in things that are due to Him alone, such as slaughtering, vowing, placing reliance, prostrating, and other forms of worship that belong exclusively to Allah, in which no close angel nor sent prophet shares with Him..."** [Al-Durar al-Saniyyah (1/64)]</p>
+
 <p>Therefore, the Sufis and the Shia—worshippers of graves and saints—hate the call (Da'wah) of Muhammad ibn Abd al-Wahhab, oppose it, and disparage it with alienating labels.</p>
 
 <p>The Prophet, peace and blessings be upon him, used to call to monotheism and Paradise, while the disbelievers spread rumors about him that he was a sorcerer and a madman.</p>
@@ -24,7 +26,7 @@ Wahhabism is the term applied by opponents of Shaykh Muhammad ibn Abdul-Wahhab�
 
 <p>The enemies of the messengers are the enemies of the scholars, because scholars are the heirs of the prophets.</p>
 
-<h3 class="mb-3">If you want to know the people of truth, look at where the arrows of the enemy are aimed, especially the Zionist ones :</h3>
+<h3 class="mb-3 mt-3">If you want to know the people of truth, look at where the arrows of the enemy are aimed, especially the Zionist ones :</h3>
 
 <p>This is a truth recognized long ago by the spiteful "Jewish Orientalist" Ignaz Goldziher, who stated in his book 'Vorlesungen über den Islam' or 'Introduction to Islamic theology and law' : ***"Everyone who sets himself up to judge Islamic events must consider the Wahhabis as champions of the Islamic religion in the form established by the Prophet and his Companions. The ultimate goal of the Wahhabis is to restore Islam to what it was."***</p>
 
