@@ -8,12 +8,28 @@
   {% include_cached navbar.liquid %}
   
   <main role="main" class="max-w-7xl mx-auto px-8">
-  <!-- Breadcrumb Section -->
-  <nav class="mb-8 mt-8 text-xs font-black uppercase tracking-widest opacity-60 flex items-center gap-2 text-black dark:text-white">
-    <a href="{{ site.url }}" class="hover:underline transition-colors">Index</a>
+<!-- Breadcrumb Section -->
+<nav class="mb-8 mt-8 text-xs font-black uppercase tracking-widest opacity-60 flex items-center gap-2 text-black dark:text-white">
+  <a href="{{ '/' | relative_url }}" class="hover:underline transition-colors">Index</a>
+
+  {% assign paths = page.url | split: '/' %}
+  {% assign build_path = '' %}
+
+  {% for path in paths %}
+    {% unless forloop.first or forloop.last %}
+      {% assign build_path = build_path | append: '/' | append: path %}
+      <span>/</span>
+      <a href="{{ build_path | append: '/' | relative_url }}" class="hover:underline transition-colors">
+        {{ path | replace: '-', ' ' | replace: '_', ' ' }}
+      </a>
+    {% endunless %}
+  {% endfor %}
+
+  {% unless page.url == '/' or page.url == '/index.html' %}
     <span>/</span>
     <span class="opacity-40">{{ page.title }}</span>
-  </nav>
+  {% endunless %}
+</nav>
       {% unless page.url == "/" or page.url == "/ar" %}
       <header class="py-6 border-b-4 border-black dark:border-white">
           <div class="max-w-7xl">
