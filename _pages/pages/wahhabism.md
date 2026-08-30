@@ -17,11 +17,12 @@ Wahhabism is the term applied by opponents of Shaykh Muhammad ibn Abdul-Wahhab�
 
 <p>Therefore, the Sufis and the Shia—worshippers of graves and saints—hate the call (Da'wah) of Muhammad ibn Abd al-Wahhab, oppose it, and disparage it with alienating labels.</p>
 
-<p>The Prophet, peace and blessings be upon him, used to call to monotheism and Paradise, while the disbelievers spread rumors about him that he was a sorcerer and a madman. The enemies of the messengers are the enemies of the scholars, because scholars are the heirs of the prophets.</p>
-
+<p>The Prophet, peace and blessings be upon him, used to call to monotheism and Paradise, while the disbelievers spread rumors about him that he was a sorcerer and a madman.</p>
 <p>Allah Almighty said: **"Likewise, no Messenger came to those before them but they said: 'A sorcerer or a madman!'"** [al-Dhariyat: 52]</p>
 
 <p>And He Almighty said: **"Thus have We made for every Prophet an enemy among the Mujrimûn (disbelievers, polytheists, criminals). But Sufficient is your Lord as a Guide and Helper.."** [al-Furqan: 31]</p>
+
+<p>The enemies of the messengers are the enemies of the scholars, because scholars are the heirs of the prophets.</p>
 
 <h3 class="mb-3">If you want to know the people of truth, look at where the arrows of the enemy are aimed, especially the Zionist ones :</h3>
 
