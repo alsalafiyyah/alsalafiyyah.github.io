@@ -5,6 +5,7 @@ permalink: /wahhabism/
 summary: "There is no sect on the face of the earth that calls itself Wahhabi. Rather, innovators and polytheists apply this label to anyone who singles Allah out in worship, follows the Sunnah of the Messenger of Allah ﷺ."
 ---
 
+<h3 class="mb-3">Who gave his call the label "Wahhabism"?</h3>
 <p class="mb-3">
 Wahhabism is the term applied by opponents of Shaykh Muhammad ibn Abdul-Wahhab’s Da'wah to describe his call toward Tawhid and his rejection of shirk (polytheism) and bid'ah (religious innovation).
 </p>
@@ -15,7 +16,7 @@ Al-Shawkani stated in Al-Badr al-Tali' 1/262: **"The eminent scholar Sheikh Muha
 
 Therefore, the Sufis and the Shia—worshippers of graves and saints—hate the call of Muhammad ibn Abd al-Wahhab, oppose it, and disparage it with alienating labels.
 
-<h4>If you want to know the people of truth, look at where the arrows of the enemy are aimed, especially the Zionist ones :</h4>
+<h3 class="mb-3">If you want to know the people of truth, look at where the arrows of the enemy are aimed, especially the Zionist ones :</h3>
 
 This is a truth recognized long ago by the spiteful "Jewish Orientalist" Ignaz Goldziher, who stated in his book 'Vorlesungen über den Islam' or 'Introduction to Islamic theology and law' : ***"Everyone who sets himself up to judge Islamic events must consider the Wahhabis as champions of the Islamic religion in the form established by the Prophet and his Companions. The ultimate goal of the Wahhabis is to restore Islam to what it was."***
 
@@ -23,7 +24,7 @@ Alexei Vassiliev stated in "The History of Saudi Arabia" p. 102: ***"Wahhabism i
 
 In Encyclopædia Britannica: ***"The emphasis on the principle of Tawhid (Monotheism) in his thought—Muhammad ibn Abd al-Wahhab—led his followers to describe themselves as Muwahhidun (Monotheists)... or 'those who affirm the oneness of God'... following the teachings of the Prophet alone, ignoring everything else... Their followers refer to themselves as Salafis ('followers of the pious Salaf')... The teachings of Abd al-Wahhab were described as... representing the early era—the era of the Salaf—of the Islamic religion, rejecting sources of creed other than the Quran and the Sunnah. The Sheikh took a clear stance against traditions and practices not rooted in these two sources—the Quran and the Sunnah."***
 
-<div class="grid grid-cols-1 md:grid-cols-3 gap-8" id="fatwa-container"></div>
+<div class="grid grid-cols-1 md:grid-cols-3 gap-8 mt3" id="fatwa-container"></div>
 
 <nav id="pagination-nav" class="flex items-center justify-between border-t-4 border-black dark:border-white pt-12 mt-12 mb-24">
 
