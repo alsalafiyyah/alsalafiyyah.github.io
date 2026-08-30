@@ -1,5 +1,5 @@
 ---
-layout: json
+layout: categories
 title: "Wahhabism"
 permalink: /wahhabism/
 active: wahhabism
