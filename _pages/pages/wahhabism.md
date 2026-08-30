@@ -27,7 +27,13 @@ Wahhabism is the term applied by opponents of Shaykh Muhammad ibn Abdul-Wahhab�
 
 <p>The enemies of the messengers are the enemies of the scholars, because scholars are the heirs of the prophets.</p>
 
-<h3 class="mb-3 mt-3 font-bold">If you want to know the people of truth, look at where the arrows of the enemy are aimed, especially the Zionist ones :</h3>
+<p>The scholar Ibn Uthaymeen stated: <span class="font-bold italic">"As for naming the people of truth among them 'Wahhabis,' this designation was in reality manufactured to tarnish the call of monotheism. Otherwise, Wahhabism is not an independent sect outside the madhhab of Muslims; rather, all the books of these scholars—from treatises to large and small works—all indicate that these people derived their methodology from the Book of Allah and the Sunnah of His Messenger ﷺ, and that they did not depart from what the verifying Hanbalis were upon, such as Sheikh al-Islam Ibn Taymiyyah, Ibn al-Qayyim, and others... And whoever looks at this call with knowledge and fairness will find that it is the very reality of the Hanbali school and others among Ahl al-Sunnah wal-Jama'ah..."</span> Silsilat Fatawa Nur 'ala al-Darb, Tape No. [66]</p>
+
+<p>Sheikh Ibn Baz said: <span class="font-bold italic">"Everyone with the slightest insight into the movement and call (da'wah) of Sheikh Muhammad ibn Abd al-Wahhab knows that he established the call to pure monotheism and warned against shirk in all its forms—such as attachment to the dead, trees, stones, and the like. In creed, he was upon the methodology of the pious predecessors (Salaf)."</span></p>
+
+<p>Sheikh Dr. Salih Al-Fawzan: <span class="font-bold italic">"The Prophet ﷺ informed us that Allah the Exalted sends to this ummah at the head of every century someone who renews its religion for it. Among the renewers—or the greatest renewer in the twelfth century, as we reckon him to be based on his biography and scholarly impact—was Sheikh Muhammad ibn Abd al-Wahhab... He looked at his society upon returning to Najd and observed extraneous doubts, customs, and traditions without divine sanction... Allah appoints someone to clarify their harm to the people, and this eminent imam was one of them."</span></p>
+
+<h3 class="mb-4 mt-4 font-bold">If you want to know the people of truth, look at where the arrows of the enemy are aimed, especially the Zionist ones :</h3>
 
 <p>This is a truth recognized long ago by the spiteful "Jewish Orientalist" Ignaz Goldziher, who stated in his book 'Vorlesungen über den Islam' or 'Introduction to Islamic theology and law' : <span class="font-bold italic">"Everyone who sets himself up to judge Islamic events must consider the Wahhabis as champions of the Islamic religion in the form established by the Prophet and his Companions. The ultimate goal of the Wahhabis is to restore Islam to what it was."</span></p>
 
@@ -35,7 +41,7 @@ Wahhabism is the term applied by opponents of Shaykh Muhammad ibn Abdul-Wahhab�
 
 <p>In Encyclopædia Britannica: <span class="font-bold italic">"The emphasis on the principle of Tawhid (Monotheism) in his thought—Muhammad ibn Abd al-Wahhab—led his followers to describe themselves as Muwahhidun (Monotheists)... or 'those who affirm the oneness of God'... following the teachings of the Prophet alone, ignoring everything else... Their followers refer to themselves as Salafis ('followers of the pious Salaf')... The teachings of Abd al-Wahhab were described as... representing the early era—the era of the Salaf—of the Islamic religion, rejecting sources of creed other than the Quran and the Sunnah. The Sheikh took a clear stance against traditions and practices not rooted in these two sources—the Quran and the Sunnah."</span></p>
 
-<div class="grid grid-cols-1 md:grid-cols-3 gap-8 mt-3" id="fatwa-container"></div>
+<div class="grid grid-cols-1 md:grid-cols-3 gap-8 mt-4" id="fatwa-container"></div>
 
 <nav id="pagination-nav" class="flex items-center justify-between border-t-4 border-black dark:border-white pt-12 mt-12 mb-24">
 
