@@ -41,6 +41,8 @@ Wahhabism is the term applied by opponents of Shaykh Muhammad ibn Abdul-Wahhab�
 
 <p>In Encyclopædia Britannica: <span class="font-bold italic">"The emphasis on the principle of Tawhid (Monotheism) in his thought—Muhammad ibn Abd al-Wahhab—led his followers to describe themselves as Muwahhidun (Monotheists)... or 'those who affirm the oneness of God'... following the teachings of the Prophet alone, ignoring everything else... Their followers refer to themselves as Salafis ('followers of the pious Salaf')... The teachings of Abd al-Wahhab were described as... representing the early era—the era of the Salaf—of the Islamic religion, rejecting sources of creed other than the Quran and the Sunnah. The Sheikh took a clear stance against traditions and practices not rooted in these two sources—the Quran and the Sunnah."</span></p>
 
+<h3 class="mb-4 mt-4 font-bold">Fatwas related to this topic :</h3>
+
 <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mt-4" id="fatwa-container"></div>
 
 <nav id="pagination-nav" class="flex items-center justify-between border-t-4 border-black dark:border-white pt-12 mt-12 mb-24">
