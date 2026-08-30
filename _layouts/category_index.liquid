@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: no_sidebar
 title: Categories
 ---
 
 {% if page.summary %}<p class="mb-5">{{ page.summary }}</p>{% endif %}
-<div id="fatwa-container"></div>
+<div class="grid grid-cols-1 md:grid-cols-3 gap-8" id="fatwa-container"></div>
 <nav id="pagination-nav" class="flex items-center justify-between border-t-4 border-black dark:border-white pt-12 mt-12 mb-24">
     <a id="prev-link" href="#" class="text-sm font-black uppercase tracking-widest hover:line-through invisible">← {{ site.site_elements.prev }}</a>
     
@@ -14,6 +14,7 @@ title: Categories
     
     <a id="next-link" href="#" class="text-sm font-black uppercase tracking-widest hover:line-through invisible">{{ site.site_elements.next }} →</a>
 </nav>
+
 <script id="fatwa-data" type="application/json">
 [
   {% assign category_posts = site.posts | where_exp: "post", "post.category contains page.category" %}
