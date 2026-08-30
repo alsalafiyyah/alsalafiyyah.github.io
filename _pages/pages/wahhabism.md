@@ -1,8 +1,7 @@
 ---
-layout: categories
+layout: page
 title: "Wahhabism"
 permalink: /wahhabism/
-active: wahhabism
 summary: "There is no sect on the face of the earth that calls itself Wahhabi. Rather, innovators and polytheists apply this label to anyone who singles Allah out in worship, follows the Sunnah of the Messenger of Allah ﷺ."
 ---
 
@@ -24,3 +23,37 @@ Alexei Vassiliev stated in "The History of Saudi Arabia" p. 102: ***"Wahhabism i
 
 In Encyclopædia Britannica: ***"The emphasis on the principle of Tawhid (Monotheism) in his thought—Muhammad ibn Abd al-Wahhab—led his followers to describe themselves as Muwahhidun (Monotheists)... or 'those who affirm the oneness of God'... following the teachings of the Prophet alone, ignoring everything else... Their followers refer to themselves as Salafis ('followers of the pious Salaf')... The teachings of Abd al-Wahhab were described as... representing the early era—the era of the Salaf—of the Islamic religion, rejecting sources of creed other than the Quran and the Sunnah. The Sheikh took a clear stance against traditions and practices not rooted in these two sources—the Quran and the Sunnah."***
 
+<div class="grid grid-cols-1 md:grid-cols-3 gap-8" id="fatwa-container"></div>
+
+<nav id="pagination-nav" class="flex items-center justify-between border-t-4 border-black dark:border-white pt-12 mt-12 mb-24">
+
+    <a id="prev-link" href="#" class="text-sm font-black uppercase tracking-widest hover:line-through invisible">← Newer</a>
+
+    <div class="text-sm font-black uppercase tracking-widest tabular-nums">
+
+        Page <span id="current-page-display">01</span> of <span id="total-pages-display">01</span>
+
+    </div>
+
+    <a id="next-link" href="#" class="text-sm font-black uppercase tracking-widest hover:line-through invisible">Older →</a>
+
+</nav>
+
+<script id="fatwa-data" type="application/json">
+[
+  {% assign posts = site.posts | where_exp: "post", "post.categories contains 'wahhabism'" %}
+  {% for post in posts %}
+    {
+      "title": {{ post.title | jsonify }},
+      "url": {{ post.url | jsonify }},
+      "date": {{ post.date | date: "%Y-%m-%d" | jsonify }},
+      "hijri": {{ post.hijri | jsonify }},
+      "audio": {{ post.mp3 | jsonify }},
+      "videoID": {{ post.videoID | jsonify }},
+      "summary": {{ post.content | strip_html | truncatewords: 20 | jsonify }}
+    }{% unless forloop.last %},{% endunless %}
+
+  {% endfor %}
+
+]
+</script>
