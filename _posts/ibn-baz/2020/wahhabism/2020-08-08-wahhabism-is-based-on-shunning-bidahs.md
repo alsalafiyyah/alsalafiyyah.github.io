@@ -4,6 +4,7 @@ date: 2020-08-08
 hijri: '1441-12-18'
 lang: en
 layout: post
+active: wahhabism
 mass_edited: true
 muftis:
   shaykh:

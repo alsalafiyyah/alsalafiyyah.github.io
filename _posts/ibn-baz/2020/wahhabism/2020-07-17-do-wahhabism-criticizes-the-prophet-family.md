@@ -7,6 +7,7 @@ hijri: '1441-11-26'
 date: 2020-07-17
 lang: en
 tags: ibn-baz
+active: wahhabism
 translation: false
 permalink: /wahhabism/do-wahhabism-criticizes-the-prophet-family/
 url: https://binbaz.org.sa/discussions/99/%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D9%85%D8%B2%D8%A7%D8%B9%D9%85-%D8%A8%D8%A7%D8%B7%D9%84%D8%A9-%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%AF%D8%B9%D9%88%D8%A9-%D8%A7%D9%84%D9%88%D9%87%D8%A7%D8%A8%D9%8A%D8%A9

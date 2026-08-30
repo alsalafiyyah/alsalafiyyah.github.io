@@ -6,6 +6,7 @@ lang: en
 layout: post
 tags: alifta
 translation: false
+active: wahhabism
 category:
 - wahhabism
 publisher: alsalafiyyah.manhaj@gmail.com

@@ -2,6 +2,7 @@
 date: 2020-08-09
 hijri: '1441-12-19'
 lang: en
+active: wahhabism
 layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa 8/34
