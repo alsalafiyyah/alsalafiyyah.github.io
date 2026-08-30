@@ -15,7 +15,7 @@ Al-Shawkani stated in Al-Badr al-Tali' 1/262: **"The eminent scholar Sheikh Muha
 
 Therefore, the Sufis and the Shia—worshippers of graves and saints—hate the call of Muhammad ibn Abd al-Wahhab, oppose it, and disparage it with alienating labels.
 
-### If you want to know the people of truth, look at where the arrows of the enemy are aimed, especially the Zionist ones :
+<h4>If you want to know the people of truth, look at where the arrows of the enemy are aimed, especially the Zionist ones :</h4>
 
 This is a truth recognized long ago by the spiteful "Jewish Orientalist" Ignaz Goldziher, who stated in his book 'Vorlesungen über den Islam' or 'Introduction to Islamic theology and law' : ***"Everyone who sets himself up to judge Islamic events must consider the Wahhabis as champions of the Islamic religion in the form established by the Prophet and his Companions. The ultimate goal of the Wahhabis is to restore Islam to what it was."***
 
