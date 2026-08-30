@@ -20,6 +20,7 @@ markdown            : kramdown
 timezone            : Asia/Riyadh
 github_username     : alsalafiyyah
 git_repo            : alsalafiyyah.github.io
+incremental         : true
 
 paginate            : 20
 paginate_path       : "/fatwas/:num/"
