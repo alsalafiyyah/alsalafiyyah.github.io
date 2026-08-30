@@ -8,6 +8,12 @@
   {% include_cached navbar.liquid %}
   
   <main role="main" class="max-w-7xl mx-auto px-8">
+  <!-- Breadcrumb Section -->
+  <nav class="mb-8 mt-8 text-xs font-black uppercase tracking-widest opacity-60 flex items-center gap-2 text-black dark:text-white">
+    <a href="{{ site.url }}" class="hover:underline transition-colors">Index</a>
+    <span>/</span>
+    <span class="opacity-40">{{ page.title }}</span>
+  </nav>
       {% unless page.url == "/" or page.url == "/ar" %}
       <header class="py-6 border-b-4 border-black dark:border-white">
           <div class="max-w-7xl">
