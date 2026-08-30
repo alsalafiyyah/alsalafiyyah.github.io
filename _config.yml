@@ -193,13 +193,9 @@ exclude:
 collections:
   categories:
     output: true
-  tag:
-    output: true
   books:
     output: true
   biography:
-    output: true
-  encyclopedia:
     output: true
 
 defaults:
@@ -267,14 +263,6 @@ defaults:
       layout: "category"
       permalink: /category/:title/ 
 
-  # _tag
-  - scope:
-      path: "_tag"
-      type: "tag"
-    values:
-      layout: "tag"
-      permalink: /tag/:title/
-
   # _biography
   - scope:
       path: "_biography"
@@ -282,14 +270,6 @@ defaults:
     values:
       layout: "page"
       permalink: /biography/:title/
-
-  # _encyclopedia
-  - scope:
-      path: "_encyclopedia"
-      type: "pages"
-    values:
-      layout: "page"
-      permalink: /encyclopedia/:title/
 
   # _pages
   - scope:
