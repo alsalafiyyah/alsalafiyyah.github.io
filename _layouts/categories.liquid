@@ -14,7 +14,7 @@ layout: no_sidebar
 
 <script id="fatwa-data" type="application/json">
 [
-  {% assign posts = site.posts | where_exp: "post", "post.category == page.category" %}
+  {% assign category_posts = site.posts | where_exp: "post", "post.category contains page.category" %}
   {% for post in posts %}
     {
       "title": {{ post.title | jsonify }},
