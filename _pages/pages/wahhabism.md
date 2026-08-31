@@ -5,7 +5,19 @@ permalink: /wahhabism/
 summary: "There is no sect on the face of the earth that calls itself Wahhabi. Rather, innovators and polytheists apply this label to anyone who singles Allah out in worship, follows the Sunnah of the Messenger of Allah ﷺ."
 ---
 
-<h3 class="mb-3 font-bold">Who gave the Shaykh's call (Da'wah) the label "Wahhabism"?</h3>
+    <div class="bg-white dark:bg-black transition-colors duration-300">
+        <!-- Accordion Container -->
+        <div class="space-y-4" x-data="{ activeAccordion: null }">
+            
+            <!-- Accordion Item 1 -->
+            <div class="border-l-2 border-red-500 pl-4 py-1 border-b border-black/10 dark:border-white/10 pb-4">
+                <button @click="activeAccordion = activeAccordion === 1 ? null : 1" class="w-full flex justify-between items-center text-left py-2 group focus:outline-none">
+                    <h3 class="text-lg md:text-xl font-black uppercase tracking-tighter serif group-hover:text-red-500 transition-colors">
+                        Who gave the Shaykh Muhammad's call (Da'wah) the label "Wahhabism"?
+                    </h3>
+                    <span class="text-xl font-black transition-transform duration-300 ml-4" :class="{ 'rotate-45 text-red-500': activeAccordion === 1 }">+</span>
+                </button>
+                <div x-show="activeAccordion === 1" x-collapse class="pt-2">
 
 <p class="mb-3">
 Wahhabism is the term applied by opponents of Shaykh Muhammad ibn Abdul-Wahhab’s Da'wah to describe his call toward Tawhid and his rejection of shirk (polytheism) and bid'ah (religious innovation).
@@ -40,6 +52,12 @@ Wahhabism is the term applied by opponents of Shaykh Muhammad ibn Abdul-Wahhab�
 <p>Alexei Vassiliev, the prominent Russian historian, stated in "The History of Saudi Arabia" p. 102: <span class="font-bold italic">"Wahhabism is a designation given to this movement by its opponents or people from outside the Peninsula, and this designation became entrenched in Orientalist publications. As for the followers of Muhammad ibn Abd al-Wahhab, they called themselves 'Muwahiddun' (Monotheists) or simply 'Muslims,' and were never called 'Wahhabis' at all."</span></p>
 
 <p>In Encyclopædia Britannica: <span class="font-bold italic">"The emphasis on the principle of Tawhid (Monotheism) in his thought—Muhammad ibn Abd al-Wahhab—led his followers to describe themselves as Muwahhidun (Monotheists)... or 'those who affirm the oneness of God'... following the teachings of the Prophet alone, ignoring everything else... Their followers refer to themselves as Salafis ('followers of the pious Salaf')... The teachings of Abd al-Wahhab were described as... representing the early era—the era of the Salaf—of the Islamic religion, rejecting sources of creed other than the Quran and the Sunnah. The Sheikh took a clear stance against traditions and practices not rooted in these two sources—the Quran and the Sunnah."</span></p>
+
+                </div>
+            </div>
+
+        </div>
+      </div>
 
 <div  class="mb-4 mt-8 font-bold"><h3>Fatwas related to this topic :</h3></div>
 <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mt-4" id="fatwa-container"></div>
