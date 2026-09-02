@@ -11,7 +11,7 @@ tags: alifta
 category:
 - salah
 - adhan
-Source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa No. 7645"
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa No. 7645"
 summary: "It is not permissible for them to perform their prayers without an Adhan, because the Adhan is a communal obligation upon the Muslims in every town."
 ---
 

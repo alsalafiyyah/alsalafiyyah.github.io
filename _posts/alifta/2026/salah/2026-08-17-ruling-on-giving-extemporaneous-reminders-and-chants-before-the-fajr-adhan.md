@@ -12,7 +12,7 @@ category:
 - adhan
 - salah
 - bidah
-Source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa No. 5008"
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa No. 5008"
 summary: "These mentioned statements have no basis regarding their legitimacy, neither before nor after the Adhan."
 ---
 

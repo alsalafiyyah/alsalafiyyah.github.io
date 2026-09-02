@@ -11,7 +11,7 @@ tags: alifta
 category:
 - adhan
 - bidah
-Source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa No. 1814"
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa No. 1814"
 summary: "We know of no evidence from the Quran or the Sunnah that indicates the legitimacy of this supplication after the Adhan."
 ---
 

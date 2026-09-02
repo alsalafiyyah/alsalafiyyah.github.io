@@ -12,7 +12,7 @@ category:
 - adhan
 - music
 - bidah
-Source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa No. 2036, Question 4"
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa No. 2036, Question 4"
 summary: "Drums and similar musical instruments are instruments of amusement, so it is not permissible to use them to inform people when the time for prayer has entered or is approaching."
 ---
 

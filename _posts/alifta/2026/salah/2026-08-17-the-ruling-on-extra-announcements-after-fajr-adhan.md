@@ -11,7 +11,7 @@ tags: alifta
 category:
 - adhan
 - bidah
-Source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa No. 1382, Question 1"
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa No. 1382, Question 1"
 summary: "One should restrict the adhan to what is legally established in its form, and any additions to it are considered bid'ah (an innovation)."
 ---
 

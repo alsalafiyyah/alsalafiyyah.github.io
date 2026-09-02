@@ -11,7 +11,7 @@ category:
 - adhan
 - iqamah
 translation: false
-Source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa No. 12260"
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa No. 12260"
 summary: "It is legislated for a Muslim to make the Adhan and Iqamah when the time for prayer arrives, whether he is in Muslim lands, in the lands of the disbelievers, or traveling."
 ---
 

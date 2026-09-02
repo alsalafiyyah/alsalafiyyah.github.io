@@ -13,7 +13,7 @@ category:
 - sects
 - shia
 - bidah
-Source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa No. 220 "
+source: "Fatawa Al-Lajnah Al-Da'imah, Fatwa No. 220 "
 summary: "The Adhan is an act of worship, and the foundational rule regarding acts of worship is restriction to what has been legislated."
 ---
 
