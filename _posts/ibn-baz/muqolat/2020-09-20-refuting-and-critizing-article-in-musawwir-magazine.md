@@ -4,20 +4,17 @@ publisher: alsalafiyyah.manhaj@gmail.com
 title: Refuting and criticizing an article published in Al-Musawwir magazine
 hijri: '1442-02-03'
 lang: en
-locale: en
 source: Majmu' Fatawa 3/156, 2/98
 date: 2020-09-20
 category:
-- muqolat
-summary: Thus, how on earth could Ahmad Baha' Al-Din or those who have transmitted
-  this news to him propagate such falsehood and attribute it to an article that was
-  published and read by people everywhere, may Allah be Glorified! I wonder how brazen-faced
-  is that slanderer!
+  - muqolat
+summary: "Thus, how on earth could Ahmad Baha' Al-Din or those who have transmitted this news to him propagate such falsehood and attribute it to an article that was published and read by people everywhere, may Allah be Glorified! I wonder how brazen-faced is that slanderer!"
 muftis:
   shaykh:
-  - name: Shaykh Abdul-Aziz ibn Baz
-    url: /biography/binbaz/
+    - name: Shaykh Abdul-Aziz ibn Baz
+      url: /biography/binbaz/
 ---
+
 All praise be to Allah, and peace and blessings be upon the Messenger of Allah, his family, his Companions, and those who follow his guidance.
 
 "Al-Musawwir" magazine has published an article in its issue no. 2166 on Friday April 15, 1966 A.D./1385 A.H., page 15 under the title: "**The imported principles by Ahmad Baha' Al-Din**"
@@ -79,8 +76,6 @@ The Prophet (peace be upon him) said: "**Verily, strength is in archery. Verily,
 He (peace be upon him) also said: "**A strong believer is better and more beloved to Allah than a weak believer, yet, both are good. Persist in doing that which benefits you, seek the Support of Allah and do not feel helpless.**" (Related by Muslim in his Sahih) [^10]
 
 I ask Allah (Glorified and Exalted be He) to grant all Muslim kings, presidents, leaders, scholars, and others success in leading this Ummah (nation based on one creed) to righteousness, safety, and happiness in this worldly life and in the Hereafter. I also implore Him to unite their word, give them a good understanding of His Din, and fortify everyone against the evils of their souls, their misdeeds and the plots of their enemies. Indeed, Allah is All-Able to do anything. May peace be upon Allah's Servant and Messenger, our Prophet Muhammad, his family, and Companions.
-
----
 
 [^1]: Al-Bukhari, Sahih, Book on faith, no. 33; Muslim, Sahih, Book on faith, no. 59; Al-Tirmidhy, Sunan, Book on faith, no. 2631; Al-Nasa'i, Sunan, Book on faith and its laws, no. 5021; and Ahmad ibn Hanbal, Musnad, vol. 2, p. 536.
 [^2]: Muslim, Sahih, Book on Iman no. 145; Ibn Majah, Sunan, Book on trials no. 3986; Ahmad, Musnad, Ibn Hanbal (2/389).
