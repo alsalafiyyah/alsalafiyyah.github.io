@@ -1,20 +1,9 @@
 ---
+date: 2020-12-23
 hijri: '1442-05-08'
 lang: en
 layout: post
-mass_edited: true
-muftis:
-  chairman:
-  - name: Shaykh Abdul-Aziz ibn Baz
-    url: /biography/binbaz/
-  deputy_chairman:
-  - name: Shaykh Abdul-Razzaq Al-Afifi
-    url: /biography/afifi/
-  members:
-  - name: Shaykh Abdullah ibn Ghudayyan
-    url: /biography/ghudayyan/
-  - name: Shaykh Abdullah ibn Qa'ud
-    url: /biography/qaud/
+group1: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Al-Da'imah, Fatwa no.1979
 summary: The evidence on the rulings of Shari'ah are established through the Qur'an
@@ -24,6 +13,7 @@ summary: The evidence on the rulings of Shari'ah are established through the Qur
   reached us.
 title: Punishment in the Grave
 ---
+
 ### Question:
 
 I learned from some Muslim scholars that a dead person comes to life in the grave, answers the questions of the angels, and is punished if they had shown Kufr (disbelief) and deviation from Islam during their lifetime. As a Muslim who believes in the principles of Islam, I found no evidence in the Qur'an on the punishment or the questioning in the grave. Allah says, "It will be said to the pious believers of Islamic Monotheism): "**O (you) the one in (complete) rest and satisfaction! "Come back to your Lord well-pleased (yourself) and well-pleasing (unto Him)! "Enter you then among My (honoured) slaves, "And enter you My Paradise!"**" (Surah Al-Fajr, 89: 27-30). 

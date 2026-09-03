@@ -19,6 +19,7 @@ summary: Those who invite others to follow the misguidance that they follow, wil
   sins being reduced at all.
 title: Giving the Muslims' sins to the Jews and Christians
 ---
+
 Question:
 
 Burdening the Jews and Christians with the Muslims' sins on the Day of Resurrection contradicts Allah's saying: "**...nor will you be requited anything except that which you used to do.**" [YaSin: 54] And other similar Ayahs (Qur'anic verses) in the Qur'an. I hope that Your Eminence will remove this confusion? 
