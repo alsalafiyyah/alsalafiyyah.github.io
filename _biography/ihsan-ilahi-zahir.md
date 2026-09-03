@@ -3,6 +3,7 @@ publisher: "alsalafiyyah@icloud.com"
 title: "A Brief Biography of Shaykh Ihsan Ilahi Zahir"
 name: "Shaykh Ihsan Ilahi Zahir"
 summary: "Shaykh Ihsan Ilahi was a prominent Pakistani scholar who stood at the forefront of the intellectual campaign against deviant sects."
+link: https://saaid.org/Warathah/1/taher.htm
 ---
 
 Shaykh Ihsan Ilahi was a prominent Pakistani scholar who stood at the forefront of the intellectual campaign against deviant sects. Through thorough research and original scholarship, he exposed how far they had deviated from the path of Allah and the Sunnah of His Prophet, despite claiming Islam and masking their hypocrisy behind "dissimulation" (*taqiyyah*).
