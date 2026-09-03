@@ -13,3 +13,5 @@ gem "jekyll-sitemap", "~> 1.4"
 gem "liquid-c"
 
 gem "jekyll-include-cache"
+
+gem 'jekyll-redirect-from'

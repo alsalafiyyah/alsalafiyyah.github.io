@@ -314,6 +314,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.17.0)
   jekyll-include-cache
   jekyll-paginate (~> 1.1)
+  jekyll-redirect-from
   jekyll-sitemap (~> 1.4)
   liquid-c
 
