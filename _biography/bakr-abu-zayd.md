@@ -4,6 +4,10 @@ publisher: alsalafiyyah@icloud.com
 title: "Shaykh Bakr Abu Zayd"
 active: biography
 summary: "Shaykh Bakr studied until the second year of elementary school, and then in 1375AH. he moved to Riyadh where he continued his elementary studies, joined the Educational Institute."
+permalink: /biography/bakr-abu-zayd/
+redirect_from:
+  - /biography/bakr/
+  - /biography/bakr
 ---
 
 ### His Name and Lineage:

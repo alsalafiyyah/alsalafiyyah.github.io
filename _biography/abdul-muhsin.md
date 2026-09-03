@@ -1,16 +1,13 @@
 ---
-layout: post
+layout: page
 publisher: "alsalafiyyah@icloud.com"
 title: "Shaykh Abdul-Muhsin Al-Abbad"
 active: biography
-category: [biography]
-date: 2020-08-08
-hijri: Dhul-Hijjah 18, 1441
 summary: "He is the great scholar and Muhaddith, Shaykh ‘Abdul-Muhsin bin Hamad bin ‘Abdil-Muhsin bin ‘Abdillah Al-‘Abbad Ali Badr."
-article_taken_from: 
-  taken_from:
-    - web_title: Biography of Shaykh Abdul-Muhsin al-Abbaad
-      web_url: https://abdurrahman.org/2017/10/22/scholars-biographies-shaykh-abdul-muhsin-al-abbaad/  
+permalink: /biography/abdul-muhsin/
+redirect_from:
+  - /biography/abdulmuhsin-alabbad/
+  - /biography/abdulmuhsin-alabbad
 ---
 
 ### His Name and Lineage:
@@ -140,3 +137,5 @@ As mentioned before, Shaikh ‘Abdul-Muhsin holds regular lessons at the Prophet
 7. An explanation of Adaab-ul-Mashee ilaas-Salaat (14 tapes)
 
 May Allaah reward the Shaikh for his great efforts in educating the Muslims and spreading the truth and may He preserve him. The telephone number of the Shaikh in Madeenah is 04/8475207.
+
+Source: [Biography of Shaykh Abdul-Muhsin al-Abbaad](https://abdurrahman.org/2017/10/22/scholars-biographies-shaykh-abdul-muhsin-al-abbaad/)

@@ -1,16 +1,7 @@
 ---
-layout: post
+layout: page
 title: "Shaykh Muhammad Ali Ferkuz"
 publisher: alsalafiyyah@icloud.com
 active: biography
-lang: en
-hijri: Muharram 12, 1442 AH
-date: 2020-08-31
-category: [biography]
 summary: "He is Shaykh Abu Abdul Mu'iz Ali Farkous Al-Qubi from Al-Qubah Al-Qadîmah in Algiers, where he was born on Thursday 29 of Rabiul-Awwal 1374H corresponding to 25 of November 1954."
-official_web: 
-  web:
-    - title: www.ferkous.app
-      url: https://www.ferkous.app/
-country: Algeria
 ---

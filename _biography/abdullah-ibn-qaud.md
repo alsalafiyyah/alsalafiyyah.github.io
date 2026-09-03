@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: page
 publisher: alsalafiyyah@icloud.com
 title: "Shaykh Abdullah Ibn Qa'ud"
 active: biography
-date: 2020-09-10
-hijri: Muharram 22, 1442 AH
 summary: "Shaykh Abdullah ibn Qa'ud was born on the 17th night of Ramadan in 1343 AH. in the town of Al-Hariq located in Wady Na'am."
+permalink: /biography/abdullah-ibn-qaud/
+redirect_from:
+  - /biography/qaud/
+  - /biography/qaud
 ---
 
 ### His Name:

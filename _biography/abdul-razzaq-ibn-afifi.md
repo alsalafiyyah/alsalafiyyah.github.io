@@ -1,12 +1,13 @@
 ---
-layout: post
+layout: page
 publisher: "alsalafiyyah@icloud.com"
-title: "Shaykh Abdul Razzaq Afifi"
+title: "Shaykh Abdul Razzaq ibn Afifi"
 active: biography
-hijri: Safar 6, 1442 AH
-date: 2020-09-23
-category: [biography]
 summary: "Shaykh 'Abdul-Razzaq ibn Afifi ibn Atiyyah was born in Shanshur, Ashmoun Center, Al-Munufiyyah Governorate in 1323 AH."
+permalink: /biography/abdul-razzaq-ibn-afifi/
+redirect_from:
+  - /biography/afifi/
+  - /biography/afifi
 ---
 
 ### His Birth:

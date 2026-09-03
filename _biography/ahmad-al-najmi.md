@@ -1,21 +1,13 @@
 ---
-layout: post
+layout: page
 publisher: "alsalafiyyah@icloud.com"
-title: "Shaykh Ahmad Yahya An-Najmi"
+title: "Shaykh Ahmad ibn Yahya An-Najmi"
 active: biography
-date: 2020-08-08
-hijri: Dhul-Hijjah 18, 1441
-category: [biography]
 summary: "The Shaikh was born in the village of Najamiyyah on the 22nd of Shawal of 1346H, and was raised in the house of his two righteous parents."
-permalink: /biography/ahmad-alnajmi/
-article_taken_from: 
-  taken_from:
-    - web_title: Biography of Shaikh Ahmad bin Yahyaa An-Najmee
-      web_url: https://abdurrahman.org/2017/10/08/scholars-biographies-shaikh-ahmad-bin-yahyaa-an-najmee/
-muftis:
-  shaykh: 
-    - name: Shaykh Muhammad ibn Hadi Al-Madkhali
-      url: /biography/muhammad-ibn-hadi
+permalink: /biography/ahmad-al-najmi/
+redirect_from:
+  - /biography/ahmad-alnajmi/
+  - /biography/ahmad-alnajmi
 ---
 
 ### His Name and Lineage: 
@@ -96,3 +88,7 @@ Our Shaikh, may Allaah preserve him, has written many books, some of which have 
 7. Al-Mawrid-ul-Adh’b az-Zilaal feemaa intaqada ‘alaa ba’ad-il-manaahij ad-da’wiyyah min Al-‘Aqaa’id wal-‘A’amaal. (A book refuting two modern-day deviant sects: the Tablighi Jama’at and the Ikhwaan-ul-Muslimoon).
 
 He also has other beneficial books that he has put forth for the Muslims, may Allaah reward him with the best of rewards and benefit Islaam and the Muslims with him. And may the peace and blessings of Allaah be on our prophet, Muhammad, his family and Companions, Ameen.
+
+Written by: Shaykh Muhammad ibn Hadi Al-Madkhali
+
+Source: [Biography of Shaikh Ahmad bin Yahyaa An-Najmee ](https://abdurrahman.org/2017/10/08/scholars-biographies-shaikh-ahmad-bin-yahyaa-an-najmee/)
