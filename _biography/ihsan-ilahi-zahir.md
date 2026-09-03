@@ -1,4 +1,5 @@
 ---
+layout: page
 publisher: "alsalafiyyah@icloud.com"
 title: "A Brief Biography of Shaykh Ihsan Ilahi Zahir"
 name: "Shaykh Ihsan Ilahi Zahir"
