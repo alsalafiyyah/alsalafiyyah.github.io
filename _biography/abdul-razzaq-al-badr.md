@@ -34,7 +34,7 @@ He has recorded comprehensive audio explanations for many classic texts, such as
 * *Sharh al-Aqidah al-Wasitiyyah* (delivered at the Grand Mosque)
 * *Sharh al-Aqidah al-Tahawiyyah*
 * A complete commentary on *Al-Adab al-Mufrad* by Imam al-Bukhari
-* *Sharh Kitab al-Fusul fi Sirat al-Rasul* by Ibn Kathir, and many others available on his [Official Website](http://www.al-badr.net/web/index.php).
+* *Sharh Kitab al-Fusul fi Sirat al-Rasul* by Ibn Kathir, and many others available on his [Official Website](http://www.al-badr.net/).
 
 ### Prominent Teachers
 
