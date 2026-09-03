@@ -1,6 +1,5 @@
 ---
-layout: post
-published: true
+layout: page
 publisher: "alsalafiyyah@icloud.com"
 title: "Shaykh Al-Islam Ibn Taymiyyah"
 active: biography

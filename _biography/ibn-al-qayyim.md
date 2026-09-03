@@ -1,11 +1,8 @@
 ---
-layout: post
+layout: page
 publisher: "alsalafiyyah@icloud.com"
 title: "Imam Ibn Qayyim al-Jawziyyah"
 active: biography
-hijri: Safar 6, 1442 AH
-date: 2020-09-23
-category: [biography]
 summary: "He is Muhammad ibn Abi Bakr ibn Ayyub al-Zura'i al-Dimashqi, Abu Abdillah, known as Ibn Qayyim al-Jawziyyah."
 ---
 
