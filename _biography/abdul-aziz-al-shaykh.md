@@ -8,6 +8,7 @@ date: 2020-09-10
 hijri: Muharram 22, 1442 AH
 summary: "Grand Mufty of the Kingdom of Saudi Arabia and Chairman of the Departments of Scholarly Research and Ifta"
 redirect_from:
+  - /biography/abdulaziz/
   - /biography/abdulaziz
 ---
 
