@@ -8,51 +8,31 @@
   {% include_cached navbar.liquid %}
   
   <main role="main" class="max-w-7xl mx-auto px-8">
-<!-- Breadcrumb Section -->
-<nav class="mb-3 mt-8 text-xs font-black uppercase tracking-widest opacity-60 flex items-center gap-2 text-black dark:text-white hidden">
-  <a href="{{ '/' | relative_url }}" class="hover:underline transition-colors">Index</a>
 
-  {% assign paths = page.url | split: '/' %}
-  {% assign build_path = '' %}
-
-  {% for path in paths %}
-    {% unless forloop.first or forloop.last %}
-      {% assign build_path = build_path | append: '/' | append: path %}
-      <span>/</span>
-      <a href="{{ build_path | append: '/' | relative_url }}" class="hover:underline transition-colors">
-        {{ path | replace: '-', ' ' | replace: '_', ' ' }}
-      </a>
-    {% endunless %}
-  {% endfor %}
-
-  {% unless page.url == '/' or page.url == '/index.html' %}
-    <span>/</span>
-    <span class="opacity-40">{{ page.title }}</span>
-  {% endunless %}
-</nav>
-      {% unless page.url == "/" or page.url == "/ar" %}
-      <header class="py-6 border-b-4 border-black dark:border-white">
-          <div class="max-w-7xl">
+    <!-- Page Header (Optimized conditionals) -->
+    {% unless page.url == "/" or page.url == "/ar" %}
+    <header class="py-6 border-b-4 border-black dark:border-white">
+        <div class="max-w-7xl">
            {% if page.section == "audios" %}
-            {% assign audio_posts = site.posts | where_exp: "post", "post.active == 'audios'" %}
-            <span class="text-sm font-black uppercase tracking-[0.3em]">Total Audio Fatwas: {{ audio_posts.size }}</span>
+             {% assign audio_posts = site.posts | where_exp: "post", "post.active == 'audios'" %}
+             <span class="text-sm font-black uppercase tracking-[0.3em]">Total Audio Fatwas: {{ audio_posts.size }}</span>
            {% elsif page.section == "videos" %}
-            {% assign video = site.posts | where_exp: "post", "post.active == 'videos'" %}
-            <span class="text-sm font-black uppercase tracking-[0.3em]">Total Video Fatwas: {{ video.size }}</span>
+             {% assign video_posts = site.posts | where_exp: "post", "post.active == 'videos'" %}
+             <span class="text-sm font-black uppercase tracking-[0.3em]">Total Video Fatwas: {{ video_posts.size }}</span>
            {% endif %}
            <h1 itemprop="headline" class="text-3xl md:text-[3vw] leading-[0.9] font-black uppercase tracking-tighter serif mt-8">
               {{ page.title }}
            </h1>
-          </div>
-      </header>
-      {% endunless %}
+        </div>
+    </header>
+    {% endunless %}
       
-      <section class="grid grid-cols-1 md:grid-cols-12 gap-12 py-24 items-start">
-          {% include_cached aside.liquid %}
-          <article class="md:col-span-8 md:col-start-5 max-w-none">
-              {{ content }}
-          </article>
-      </section>
+    <section class="grid grid-cols-1 md:grid-cols-12 gap-12 py-24 items-start">
+        {% include_cached aside.liquid %}
+        <article class="md:col-span-8 md:col-start-5 max-w-none">
+            {{ content }}
+        </article>
+    </section>
   </main>
   
   {% include bug-report-modal.liquid %}
