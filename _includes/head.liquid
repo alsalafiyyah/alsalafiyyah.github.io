@@ -1,27 +1,22 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="generator" content="Jekyll v{{ jekyll.version }}" />
-
-{% assign page_title = page.title | default: site.title | escape %}
-{% assign page_desc = page.summary | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape %}
-{% assign canonical_url = page.url | replace:'/index.html','/' | absolute_url %}
-
-<title>{{ page_title }}</title>
-<meta name="description" content="{{ page_desc }}"/>
-<link rel="canonical" href="{{ canonical_url }}" />
+<title>{{ page.title | default: site.title | escape }}</title>
+<meta name="description" content="{{ page.summary | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}"/>
+<link rel="canonical" href="{{ page.url | replace:'/index.html','/' | absolute_url }}" />
 <meta name="robots" content="index, follow">
 <meta name="mobile-web-app-capable" content="yes">
 
 <meta property="og:site_name" content="{{ site.title | escape }}" />
-<meta property="og:title" content="{{ page_title }}" />
-<meta property="og:description" content="{{ page_desc }}"/>
+<meta property="og:title" content="{{ page.title | default: site.title | escape }}" />
+<meta property="og:description" content="{{ page.summary | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}"/>
 <meta property="og:image" content="{{ '/assets/images/fb.jpg' | absolute_url }}" />
 <meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}" />
-<meta property="og:url" content="{{ canonical_url }}" />
+<meta property="og:url" content="{{ page.url | replace:'/index.html','/' | absolute_url }}" />
 
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{{ page_title }}">
-<meta name="twitter:description" content="{{ page_desc }}"/>
+<meta name="twitter:title" content="{{ page.title | default: site.title | escape }}">
+<meta name="twitter:description" content="{{ page.summary | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}"/>
 <meta name="twitter:image" content="{{ '/assets/images/fb.jpg' | absolute_url }}"/>
 
 <meta name="theme-color" content="#ffffff"> 
@@ -54,45 +49,42 @@
 
 <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
-<!-- Consolidated Tailwind (Removed duplicate CDN/asset inclusion) -->
-<script src="https://cdn.tailwindcss.com"></script>
+<script src="{{ '/assets/tailwindcss.js' | absolute_url }}"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
 <script type="module" src="https://cdn.jsdelivr.net/npm/player.style/tailwind-audio/+esm"></script>
-
+<script src="https://cdn.tailwindcss.com"></script>
 <link rel="stylesheet" href="{{ '/assets/custom-styles.css' | absolute_url }}">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&family=Playfair+Display:ital,wght@0,900;1,900&display=swap" rel="stylesheet">
-
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z0KFD0T2JQ"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
+
   gtag('config', 'G-Z0KFD0T2JQ');
 </script>
-<!-- Clarity tracking code -->
-<script>    (function(c,l,a,r,i,t,y){        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);    })(window, document, "clarity", "script", "n477hgra2y");</script>
+<!-- Clarity tracking code --><script>    (function(c,l,a,r,i,t,y){        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);    })(window, document, "clarity", "script", "n477hgra2y");</script>
 
-<script>
+  <script>
   tailwind.config = {
     darkMode: 'class'
   }
-  if (localStorage.getItem('theme') === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-      document.documentElement.classList.add('dark');
-  } else {
-      document.documentElement.classList.remove('dark');
-  }
-</script>
-
+        // Theme initialization
+        if (localStorage.getItem('theme') === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.classList.add('dark');
+        } else {
+            document.documentElement.classList.remove('dark');
+        }
+    </script>
 <script type="application/ld+json">
 [
   {
     "@context": "https://schema.org",
     "@type": "{% if page.date %}BlogPosting{% else %}WebPage{% endif %}",
-    "headline": {{ page_title | jsonify }},
-    "description": {{ page_desc | jsonify }},
-    "url": {{ canonical_url | jsonify }},
+    "headline": {{ page.title | default: site.title | jsonify }},
+    "description": {{ page.summary | default: site.description | strip_html | jsonify }},
+    "url": {{ page.url | absolute_url | jsonify }},
     {% if page.date %}"datePublished": "{{ page.date | date_to_xmlschema }}",{% endif %}
     "publisher": {
       "@type": "Organization",
@@ -118,33 +110,33 @@
         "@type": "ListItem",
         "position": 2,
         "name": {{ page.title | jsonify }},
-        "item": {{ canonical_url | jsonify }}
+        "item": {{ page.url | absolute_url | jsonify }}
       }
       {% endif %}
     ]
   }
-  {% if page.url == "/" or page.url == "index.html" %}
-  ,{
-    "@type": "WebSite",
-    "@id": "{{ site.url | append: '/#website' }}",
-    "url": "{{ site.url }}{{ site.baseurl }}/",
-    "potentialAction": {
-      "@type": "SearchAction",
-      "target": {
-        "@type": "EntryPoint",
-        "urlTemplate": "{{ site.url }}{{ site.baseurl }}/search/?q={search_term_string}"
-      },
-      "query-input": "required name=search_term_string"
-    }
+{% if page.url == "/" or page.url == "index.html" %}
+,{
+  "@type": "WebSite",
+  "@id": "{{ site.url | append: '/#website' }}",
+  "url": "{{ site.url }}{{ site.baseurl }}/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "{{ site.url }}{{ site.baseurl }}/search/?q={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
   }
-  {% endif %}
+}
+{% endif %}
   {% if page.mp3 %}
   ,{
     "@context": "https://schema.org",
     "@type": "AudioObject",
-    "name": {{ page_title | jsonify }},
-    "description": {{ page_desc | jsonify }},
-    "contentUrl": {{ canonical_url | jsonify }},
+    "name": {{ page.title | default: site.title | jsonify }},
+    "description": {{ page.summary | default: site.description | strip_html | jsonify }},
+    "contentUrl": {{ page.url | absolute_url | jsonify }},
     {% if page.date %}"uploadDate": "{{ page.date | date_to_xmlschema }}",{% endif %}
     "encodingFormat": "audio/mpeg"
   }
@@ -153,8 +145,8 @@
   ,{
     "@context": "https://schema.org",
     "@type": "VideoObject",
-    "name": {{ page_title | jsonify }},
-    "description": {{ page_desc | jsonify }},
+    "name": {{ page.title | default: site.title | jsonify }},
+    "description": {{ page.summary | default: site.description | strip_html | jsonify }},
     "thumbnailUrl": "https://img.youtube.com/vi/{{ page.videoID }}/maxresdefault.jpg",
     {% if page.date %}"uploadDate": "{{ page.date | date_to_xmlschema }}",{% endif %}
     "embedUrl": "https://www.youtube.com/embed/{{ page.videoID }}?modestbranding=1&rel=0",
