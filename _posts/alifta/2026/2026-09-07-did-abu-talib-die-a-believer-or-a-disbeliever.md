@@ -7,7 +7,7 @@ layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: "Did Abu Talib Die a Believer or a Disbeliever?"
 source: "Fatawa Al-Lajnah Al-Da’imah, Fatwa no.5656, Question 1"
-summary: ""
+summary: "Abu Talib ibn Abdul-Muttalib ibn Hashim died as a disbeliever. This is based on the statement of Allah, the Exalted, to His Messenger, may Allah bless him and grant him peace, regarding Abu Talib..."
 tags:
 - alifta
 tags:
