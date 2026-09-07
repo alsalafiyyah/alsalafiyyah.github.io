@@ -1,10 +1,13 @@
-    <!-- Top Part: Featured Muqolat Card with Background Image -->
-    {% assign featured_muqolat_post = site.posts | where: "featured_muqolat", true | first %}
+   <!-- Top Part: Featured Muqolat Card with Background Image -->
+   {% assign featured_muqolat_post = site.posts | where: "featured_muqolat", true | first %}
     <div class="relative bg-cover bg-no-repeat bg-center flex flex-col justify-end min-h-[450px] overflow-hidden" style="background-image:url('{{ featured_muqolat_post.img | relative_url }}')">
-        <!-- Top Badge -->
-        <span class="text-xs font-sans font-bold text-white absolute left-6 top-6 pb-2.5 border-b-2 border-red-500 z-10">Muqolat</span>
-        
-        {% if featured_muqolat_post %}
+    
+    <!-- Top Badge -->
+    <span class="text-xs font-sans font-bold text-white absolute left-6 top-6 pb-2.5 border-b-2 border-red-500 z-10">
+        Muqolat
+    </span>
+    <!-- /Top Badge -->
+    {% if featured_muqolat_post %}
         <!-- Gradient Overlay & Content -->
         <div class="flex flex-col items-start justify-end text-left pt-32 px-8 pb-8 bg-gradient-to-t from-black/90 via-black/40 to-transparent w-full">
             <h3 class="flex items-center font-sans font-bold text-xs text-white mb-3">
@@ -20,6 +23,7 @@
 
     <!-- Bottom Part: Standard Muqolat List (No Images) & Button -->
     <div class="flex flex-col space-y-4 pt-2">
+
         {% assign muqolat = site.posts | where_exp: "post", "post.active == 'muqolat'" %}
         {% for post in muqolat limit:2 %}
             {% if post.url != featured_muqolat_post.url %}
@@ -32,15 +36,17 @@
             {% endif %}
         {% endfor %}
 
-            <div class="flex flex-col w-full">
-                <div class="w-full flex h-0.5 bg-yellow-700 bg-opacity-10">
-                    <div class="w-1/2 bg-red-500 h-full"></div>
-                </div>
-                <a href="{{ '/muqolat' | relative_url }}" class="font-sans text-xs uppercase font-bold pt-5 flex w-full">View All Muqolat
-                    <svg viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" class="w-3.5 ml-auto text-red-500">
-                        <line x1="5" y1="12" x2="19" y2="12"></line>
-                        <polyline points="12 5 19 12 12 19"></polyline>
-                    </svg>
-                </a>
+        <div class="flex flex-col w-full">
+            <div class="w-full flex h-0.5 bg-yellow-700 bg-opacity-10">
+                <div class="w-1/2 bg-red-500 h-full"></div>
             </div>
+            <a href="{{ '/muqolat' | relative_url }}" class="font-sans text-xs uppercase font-bold pt-5 flex w-full">View All Muqolat
+                <svg viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" class="w-3.5 ml-auto text-red-500">
+                    <line x1="5" y1="12" x2="19" y2="12"></line>
+                    <polyline points="12 5 19 12 12 19"></polyline>
+                </svg>
+            </a>
+        </div>
+
     </div>
+    <!-- /Top Part: Featured Muqolat Card with Background Image -->
