@@ -30,7 +30,7 @@ And based on what Muslim and others narrated from al-Abbas ibn Abdul-Muttalib, *
 
 In a narration from al-Abbas:** "I said: 'O Messenger of Allah, Abu Talib used to protect and support you, did that benefit him?' He said: 'Yes, I found him in the depths of the Fire, so I brought him out to a shallow pool of fire.'"** [^3]
 
-Muslim also narrated from Abu Sa'id al-Khudri that the Messenger of Allah, may Allah bless him and grant him peace, was asked about his uncle Abu Talib, and he said:** "Perhaps my intercession will benefit him on the Day of Judgment, so he is placed in a shallow pool of fire reaching his ankles, which makes his brain boil."** [^4]
+Muslim also narrated from Abu Sa'id al-Khudri that the Messenger of Allah, may Allah bless him and grant him peace, was asked about his uncle Abu Talib, and he said: **"Perhaps my intercession will benefit him on the Day of Judgment, so he is placed in a shallow pool of fire reaching his ankles, which makes his brain boil."** [^4]
 
 Furthermore, everyone who dies as a disbeliever will abide eternally in the Fire, whether they are relatives of the Messenger of Allah, may Allah bless him and grant him peace, or anyone else. This is due to the generality of the statement of Allah, the Exalted: **"But those who disbelieved (in the Oneness of Allah - Islamic Monotheism) and denied Our Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.), they will be the dwellers of the Fire, to dwell therein forever. And worst indeed is that destination."** [At-Taghabun: 10] and other verses carrying the same meaning.
 
