@@ -1,0 +1,27 @@
+    <div class="flex flex-col space-y-8">
+        <div class="flex items-center gap-4 text-[10px] font-black uppercase tracking-[0.3em] text-gray-400 italic">
+            <span class="w-2 h-2 rounded-full bg-red-500 flex-shrink-0 mr-2.5"></span>
+            <span class="text-black dark:text-white">Selected Fatwa</span>
+        </div>
+
+        {% assign featured_post = site.posts | where: "featured", true | first %}
+        {% if featured_post %}
+        <h2 class="text-6xl md:text-[5vw] lg:text-[4.5vw] font-black uppercase tracking-tighter leading-[0.85] serif">
+            <a href="{{ featured_post.url | relative_url }}" class="hover:line-through transition-all">
+               {{ featured_post.title }}
+            </a>
+        </h2>
+        <div class="flex items-center gap-6 text-[10px] font-black uppercase tracking-widest opacity-50">
+            <span>{{ featured_post.hijri }} / {{ featured_post.date | date: "%d.%m.%Y" }}</span>
+        </div>
+        <p class="text-xl md:text-3xl font-bold leading-relaxed opacity-85 max-w-5xl">
+         {{ featured_post.summary | strip_html }}
+        </p>
+        <div>
+            <a href="{{ featured_post.url | relative_url }}" class="inline-block bg-black text-white dark:bg-white dark:text-black px-12 py-5 font-black uppercase tracking-widest text-xs hover:scale-105 transition-transform">
+                Read Full Fatwa →
+            </a>
+        </div>
+       {% endif %}
+       
+    </div>

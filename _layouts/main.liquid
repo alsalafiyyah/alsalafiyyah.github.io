@@ -13,36 +13,16 @@ layout: null
 {% include head.liquid %}
 </head>
 <body dir="{{ site.site_elements.dir }}" itemscope itemtype="https://schema.org/WebPage" class="bg-white dark:bg-zinc-950 dark:text-zinc-100 text-black antialiased selection:bg-black selection:text-white dark:selection:bg-white dark:selection:text-black transition-colors duration-300 is-preload">
+
 {{ navbar }}
+
 <main role="main" class="max-w-7xl mx-auto px-8">
+
 <!-- Top Section: Hero Block -->
 <section class="mb-16 pb-12 border-b-2 border-black/10 dark:border-white/10 mt-10">
-    <div class="flex flex-col space-y-8">
-        <div class="flex items-center gap-4 text-[10px] font-black uppercase tracking-[0.3em] text-gray-400 italic">
-            <span class="w-2 h-2 rounded-full bg-red-500 flex-shrink-0 mr-2.5"></span>
-            <span class="text-black dark:text-white">Selected Fatwa</span>
-        </div>
-        {% assign featured_post = site.posts | where: "featured", true | first %}
-        {% if featured_post %}
-        <h2 class="text-6xl md:text-[5vw] lg:text-[4.5vw] font-black uppercase tracking-tighter leading-[0.85] serif">
-            <a href="{{ featured_post.url | relative_url }}" class="hover:line-through transition-all">
-               {{ featured_post.title }}
-            </a>
-        </h2>
-        <div class="flex items-center gap-6 text-[10px] font-black uppercase tracking-widest opacity-50">
-            <span>{{ featured_post.hijri }} / {{ featured_post.date | date: "%d.%m.%Y" }}</span>
-        </div>
-        <p class="text-xl md:text-3xl font-bold leading-relaxed opacity-85 max-w-5xl">
-         {{ featured_post.summary | strip_html }}
-        </p>
-        <div>
-            <a href="{{ featured_post.url | relative_url }}" class="inline-block bg-black text-white dark:bg-white dark:text-black px-12 py-5 font-black uppercase tracking-widest text-xs hover:scale-105 transition-transform">
-                Read Full Fatwa →
-            </a>
-        </div>
-       {% endif %}
-    </div>
+    {% include_cached hero.liquid %}
 </section>
+<!-- /Top Section: Hero Block -->
 
 <!-- Main 3-Column Grid Container -->
 <section class="mb-6 pb-12 mt-12">
@@ -101,6 +81,7 @@ layout: null
         </div>
     </div>
 </section>
+<!-- /Statistics Grid Section -->
 
 <!-- Full Image Modal Popup -->
 <div id="image-modal" class="fixed inset-0 z-50 bg-black/90 backdrop-blur-md hidden flex items-center justify-center p-4 md:p-10">
@@ -114,8 +95,12 @@ layout: null
         <img id="modal-img" src="https://alsalafiyyah.github.io/assets/images/img.webp" alt="Full View" class="max-w-full max-h-[85vh] object-contain border-4 border-white">
     </div>
 </div>
+<!-- /Full Image Modal Popup -->
+
 </main>
+
 {{ footer_content }}
 {% include scripts.html defer=true %}
+
 </body>
 </html>
