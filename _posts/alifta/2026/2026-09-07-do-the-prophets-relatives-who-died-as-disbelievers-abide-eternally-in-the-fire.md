@@ -28,7 +28,7 @@ This is based on what Muslim narrated from Ibn Abbas, may Allah be pleased with 
 
 And based on what Muslim and others narrated from al-Abbas ibn Abdul-Muttalib, **that he said: "O Messenger of Allah, did you benefit Abu Talib with anything, for he used to protect you and become angry for your sake?" He replied: "Yes, and were it not for me, he would have been in the lowest depths of the Fire."** [^2]
 
-In a narration from al-Abbas:** "I said: 'O Messenger of Allah, Abu Talib used to protect and support you, did that benefit him?' He said: 'Yes, I found him in the depths of the Fire, so I brought him out to a shallow pool of fire.'"** [^3]
+In a narration from al-Abbas: **"I said: 'O Messenger of Allah, Abu Talib used to protect and support you, did that benefit him?' He said: 'Yes, I found him in the depths of the Fire, so I brought him out to a shallow pool of fire.'"** [^3]
 
 Muslim also narrated from Abu Sa'id al-Khudri that the Messenger of Allah, may Allah bless him and grant him peace, was asked about his uncle Abu Talib, and he said: **"Perhaps my intercession will benefit him on the Day of Judgment, so he is placed in a shallow pool of fire reaching his ankles, which makes his brain boil."** [^4]
 
