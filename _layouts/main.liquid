@@ -29,17 +29,17 @@ layout: null
     <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 items-start">
 
         <!-- Column 1 -->
-        <div class="col-span-1 flex flex-col space-y-6">
+        <div class="col-span-1 flex flex-col space-y-6 lg:col-span-1">
            {% include_cached homepage_col1.liquid %}
         </div>
 
         <!-- Column 2: Muqolat -->
-        <div class="col-span-1 flex flex-col space-y-6">
+        <div class="col-span-1 flex flex-col space-y-6 lg:col-span-1">
            {% include_cached homepage_col2.liquid %}
         </div>
 
         <!-- Column 3: Tabbed Content -->
-        <div class="col-span-1 flex flex-col justify-between h-full space-y-6 border-t-2 lg:border-t-0 lg:border-l-2 border-black/10 dark:border-white/10 lg:pl-12 pt-8 lg:pt-0" id="fatwa-tabs-container">
+        <div class="flex flex-col justify-between h-full space-y-6 lg:col-span-1 border-t-2 lg:border-t-0 lg:border-l-2 border-black/10 dark:border-white/10 lg:pl-12 pt-8 lg:pt-0" id="fatwa-tabs-container">
             {% include_cached homepage_col3.liquid %}
         </div>
 
