@@ -2,10 +2,10 @@
 layout: null
 ---
 {% capture navbar %}
-  {% include_cached navbar.liquid %}
+  {% include_cached navbar.liquid %}
 {% endcapture %}
 {% capture footer_content %}
-  {% include_cached footer.liquid %}
+  {% include_cached footer.liquid %}
 {% endcapture %}
 <!DOCTYPE html>
 <html lang="{{ site.site_elements.lang }}" dir="{{ site.site_elements.dir }}">
@@ -20,85 +20,82 @@ layout: null
 
 <!-- Top Section: Hero Block -->
 <section class="mb-16 pb-12 border-b-2 border-black/10 dark:border-white/10 mt-10">
-    {% include_cached hero.liquid %}
+    {% include_cached hero.liquid %}
 </section>
 <!-- /Top Section: Hero Block -->
 
-<!-- Main 3-Column Grid Container (Fixed wrapper tags) -->
+<!-- Main 3-Column Grid Container -->
 <section class="mb-6 pb-12 mt-12">
-    <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 items-start">
-        
-        <!-- Column 1 -->
-        <div class="col-span-1 flex flex-col space-y-6">
-           {% include_cached homepage_col1.liquid %}
-         </div>
 
-        <!-- Column 2: Muqolat -->
-        <div class="col-span-1 flex flex-col space-y-6">
-         {% include_cached homepage_col2.liquid %}
-        </div>
+    <!-- Main 3-Column Grid Container -->
+    <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 items-start">
+        <div class="col-span-1 flex flex-col space-y-6 lg:col-span-1">
+           {% include_cached homepage_col1.liquid %}
+         </div>
+     </div>
 
-        <!-- Column 3: Tabbed Content -->
-        <div class="col-span-1 flex flex-col justify-between h-full space-y-6 border-t-2 lg:border-t-0 lg:border-l-2 border-black/10 dark:border-white/10 lg:pl-12 pt-8 lg:pt-0" id="fatwa-tabs-container">
-            {% include_cached homepage_col3.liquid %}
-        </div>
+    <!-- Column 2 Muqolat -->
+    <div class="col-span-1 flex flex-col space-y-6 lg:col-span-1">
+     {% include_cached homepage_col2.liquid %}
+    </div>
 
-    </div>
+    <!-- Column 3: Tabbed Content (Recent, Audio, Video Fatwas) -->
+    <div class="flex flex-col justify-between h-full space-y-6 lg:col-span-1 border-t-2 lg:border-t-0 lg:border-l-2 border-black/10 dark:border-white/10 lg:pl-12 pt-8 lg:pt-0" id="fatwa-tabs-container">
+        {% include_cached homepage_col3.liquid %}
+    </div>
+
 </section>
 <!-- /Main 3-Column Grid Container -->
 
-<!-- Statistics Grid Section (Optimized Filtering) -->
+<!-- Statistics Grid Section -->
 <section class="mb-10">
-    <div class="bg-white dark:bg-black transition-colors duration-300">
-        <!-- Section Header -->
-        <div class="flex items-center gap-4 mb-8 text-[10px] font-black uppercase tracking-[0.3em] text-gray-400 italic border-b-2 border-black/10 dark:border-white/10 pb-4">
-            <span class="w-2 h-2 rounded-full bg-red-500 flex-shrink-0 mr-2.5"></span>
-            <span class="text-black dark:text-white">Statistics</span>
-        </div>
-        
-        <!-- Pre-filter posts once to save processing overhead -->
-        {% assign audio_posts = site.posts | where_exp: "post", "post.active == 'audios'" %}
-        {% assign video_posts = site.posts | where_exp: "post", "post.active == 'videos'" %}
-        {% assign muqolat_posts = site.posts | where_exp: "post", "post.active == 'muqolat'" %}
-
-        <!-- Stats Grid -->
-        <div class="grid grid-cols-2 md:grid-cols-4 gap-8">
-            <!-- Stat Item 1: Fatwas -->
-            <div class="flex flex-col space-y-1 border-l-2 border-red-500 pl-4">
-                <span class="text-3xl md:text-4xl font-black tracking-tighter serif">{{ site.posts.size }}</span>
-                <span class="text-[10px] font-black uppercase tracking-widest opacity-60">Published Fatwas</span>
-            </div>
-            <!-- Stat Item 2: Audios -->
-            <div class="flex flex-col space-y-1 border-l-2 border-red-500 pl-4">
-                <span class="text-3xl md:text-4xl font-black tracking-tighter serif">{{ audio_posts.size }}</span>
-                <span class="text-[10px] font-black uppercase tracking-widest opacity-60">Audio Fatwas & Lectures</span>
-            </div>
-            <!-- Stat Item 3: Videos -->
-            <div class="flex flex-col space-y-1 border-l-2 border-red-500 pl-4">
-                <span class="text-3xl md:text-4xl font-black tracking-tighter serif">{{ video_posts.size }}</span>
-                <span class="text-[10px] font-black uppercase tracking-widest opacity-60">Video Clips</span>
-            </div>
-            <!-- Stat Item 4: Muqolat -->
-            <div class="flex flex-col space-y-1 border-l-2 border-red-500 pl-4">
-                <span class="text-3xl md:text-4xl font-black tracking-tighter serif">{{ muqolat_posts.size }}</span>
-                <span class="text-[10px] font-black uppercase tracking-widest opacity-60">Muqolat/Articles</span>
-            </div>
-        </div>
-    </div>
+    <div class="bg-white dark:bg-black transition-colors duration-300">
+        <!-- Section Header -->
+        <div class="flex items-center gap-4 mb-8 text-[10px] font-black uppercase tracking-[0.3em] text-gray-400 italic border-b-2 border-black/10 dark:border-white/10 pb-4">
+            <span class="w-2 h-2 rounded-full bg-red-500 flex-shrink-0 mr-2.5"></span>
+            <span class="text-black dark:text-white">Statistics</span>
+        </div>
+        <!-- Stats Grid -->
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-8">
+            <!-- Stat Item 1: Fatwas -->
+            <div class="flex flex-col space-y-1 border-l-2 border-red-500 pl-4">
+                <span class="text-3xl md:text-4xl font-black tracking-tighter serif">{{ site.posts.size }}</span>
+                <span class="text-[10px] font-black uppercase tracking-widest opacity-60">Published Fatwas</span>
+            </div>
+            <!-- Stat Item 2: Audios -->
+            <div class="flex flex-col space-y-1 border-l-2 border-red-500 pl-4">
+                {% assign audio_posts = site.posts | where_exp: "post", "post.active == 'audios'" %}
+                <span class="text-3xl md:text-4xl font-black tracking-tighter serif">{{ audio_posts.size }}</span>
+                <span class="text-[10px] font-black uppercase tracking-widest opacity-60">Audio Fatwas & Lectures</span>
+            </div>
+            <!-- Stat Item 3: Videos -->
+            <div class="flex flex-col space-y-1 border-l-2 border-red-500 pl-4">
+                {% assign video = site.posts | where_exp: "post", "post.active == 'videos'" %}
+                <span class="text-3xl md:text-4xl font-black tracking-tighter serif">{{ video.size }}</span>
+                <span class="text-[10px] font-black uppercase tracking-widest opacity-60">Video Clips</span>
+            </div>
+            <!-- Stat Item 4: Muqolat -->
+            <div class="flex flex-col space-y-1 border-l-2 border-red-500 pl-4">
+                {% assign muqolat = site.posts | where_exp: "post", "post.active == 'muqolat'" %}
+                <span class="text-3xl md:text-4xl font-black tracking-tighter serif">{{ muqolat.size }}</span>
+                <span class="text-[10px] font-black uppercase tracking-widest opacity-60">Muqolat/Articles</span>
+            </div>
+        </div>
+    </div>
 </section>
 <!-- /Statistics Grid Section -->
 
 <!-- Full Image Modal Popup -->
 <div id="image-modal" class="fixed inset-0 z-50 bg-black/90 backdrop-blur-md hidden flex items-center justify-center p-4 md:p-10">
-    <button id="close-modal-btn" class="absolute top-6 right-6 text-white bg-black border-2 border-white p-3 hover:bg-red-500 hover:border-red-500 transition-colors z-50">
-        <svg viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" fill="none" class="w-6 h-6">
-            <line x1="18" y1="6" x2="6" y2="18"></line>
-            <line x1="6" y1="6" x2="18" y2="18"></line>
-        </svg>
-    </button>
-    <div class="relative max-w-5xl max-h-full flex items-center justify-center">
-        <img id="modal-img" src="https://alsalafiyyah.github.io/assets/images/img.webp" alt="Full View" class="max-w-full max-h-[85vh] object-contain border-4 border-white">
-    </div>
+    <button id="close-modal-btn" class="absolute top-6 right-6 text-white bg-black border-2 border-white p-3 hover:bg-red-500 hover:border-red-500 transition-colors z-50">
+        <svg viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" fill="none" class="w-6 h-6">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+        </svg>
+    </button>
+    <div class="relative max-w-5xl max-h-full flex items-center justify-center">
+        <img id="modal-img" src="https://alsalafiyyah.github.io/assets/images/img.webp" alt="Full View" class="max-w-full max-h-[85vh] object-contain border-4 border-white">
+    </div>
 </div>
 <!-- /Full Image Modal Popup -->
 
