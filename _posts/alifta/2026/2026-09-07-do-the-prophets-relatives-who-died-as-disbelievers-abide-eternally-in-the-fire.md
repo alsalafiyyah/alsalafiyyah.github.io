@@ -38,6 +38,6 @@ And with Allah is success, and may Allah bless our Prophet Muhammad, his family,
 
 [^1]: Sahih Muslim, Faith (212); Musnad Ahmad ibn Hanbal (1/290).
 [^2]: Imam Ahmad (1/206, 207, 210); Al-Bukhari [Fath al-Bari] numbers (3883, 6208, 6572); and [Sahih Muslim with the Explanation of al-Nawawi] (3/83).
-[^3] Sahih al-Bukhari, Virtues of the Prophet (3883); Sahih Muslim, Faith (209); Musnad Ahmad ibn Hanbal (1/210).
-[^4] Al-Bukhari [Fath al-Bari] numbers (3885, 6564); and [Sahih Muslim with the Explanation of al-Nawawi] (3/85).
+[^3]: Sahih al-Bukhari, Virtues of the Prophet (3883); Sahih Muslim, Faith (209); Musnad Ahmad ibn Hanbal (1/210).
+[^4]: Al-Bukhari [Fath al-Bari] numbers (3885, 6564); and [Sahih Muslim with the Explanation of al-Nawawi] (3/85).
 
