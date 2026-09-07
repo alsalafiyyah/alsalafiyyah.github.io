@@ -1,0 +1,79 @@
+            <div>
+                <!-- Tab Navigation Headers -->
+                <div class="flex items-center gap-4 mb-6 border-b-2 border-yellow-700 border-opacity-10 space-x-6 dark:border-white/10 pb-3 text-xs font-black uppercase tracking-wider overflow-x-auto">
+                    <button type="button" data-tab="recent" class="tab-btn text-black dark:text-white border-b-2 border-red-500 dark:border-white pb-1 transition-colors whitespace-nowrap">
+                        Recent
+                    </button>
+                    <button type="button" data-tab="audio" class="tab-btn text-gray-400 hover:text-black dark:hover:text-white pb-1 transition-colors whitespace-nowrap">
+                        Audios
+                    </button>
+                    <button type="button" data-tab="video" class="tab-btn text-gray-400 hover:text-black dark:hover:text-white pb-1 transition-colors whitespace-nowrap">
+                        Videos
+                    </button>
+                </div>
+
+                <!-- Tab Content Panels -->
+                <div class="tab-contents">
+                    <!-- Recent Fatwas Panel -->
+                    <div id="panel-recent" class="tab-panel space-y-6">
+    <div class="md:col-span-3 col-span-12 space-y-6 py-6 flex flex-col">
+    {% for post in site.posts limit:5 %}
+     {% if post.url == featured_post.url %}{% continue %}{% endif %}
+      <div class="flex flex-col">
+        <h3 class="flex items-center font-sans font-bold text-xs text-gray-600 text-opacity-40 mb-3.5">
+          <span class="w-2 h-2 rounded-full bg-red-500 flex-shrink-0 mr-2.5"></span>
+          {{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}
+        </h3>
+        <a href="{{ post.url | relative_url }}" class="font-medium hover:underline">{{ post.title }}</a>
+      </div>
+     {% endfor %}
+    </div>
+                    </div>
+
+                    <!-- Audio Fatwas Panel -->
+                    <div id="panel-audio" class="tab-panel space-y-6 hidden">
+                            <div class="md:col-span-3 col-span-12 space-y-6 py-6 flex flex-col">
+                           {% assign audio_posts = site.posts | where_exp: "post", "post.active == 'audios'" %}
+                           {% for post in audio_posts limit:5 %}
+      <div class="flex flex-col">
+        <h3 class="flex items-center font-sans font-bold text-xs text-gray-600 text-opacity-40 mb-3.5">
+          <span class="w-2 h-2 rounded-full bg-red-500 flex-shrink-0 mr-2.5"></span>
+          {{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}
+        </h3>
+        <a href="{{ post.url | relative_url }}" class="font-medium hover:underline">{{ post.title }}</a>
+      </div>
+                           {% endfor %}
+                        </div>
+                    </div>
+
+                    <!-- Video Fatwas Panel -->
+                    <div id="panel-video" class="tab-panel space-y-6 hidden">
+                        <div class="flex flex-col space-y-6">
+                           {% assign video_posts = site.posts | where_exp: "post", "post.active == 'videos'" %}
+                           {% for post in video_posts limit:5 %}
+                            <div class="flex items-start">
+                              <img src="https://img.youtube.com/vi/{{ post.videoID }}/maxresdefault.jpg" alt="{{ post.title }}" class="w-20 h-20 flex-shrink-0 mr-4 object-cover" />
+                              <div class="flex-grow min-w-0 flex flex-col">
+                                <a href="{{ post.url | relative_url }}" class="mb-0.5 hover:underline block font-bold">{{ post.title }}</a>
+                                <p class="text-gray-600 text-opacity-40 text-xs mt-auto font-sans">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</p>
+                              </div>
+                            </div>
+                           {% endfor %}
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="flex flex-col w-full">
+                <div class="w-full flex h-0.5 bg-yellow-700 bg-opacity-10">
+                    <div class="w-1/2 bg-red-500 h-full"></div>
+                </div>
+                <a href="{{ '/fatwas' | relative_url }}" class="font-sans text-xs uppercase font-bold pt-5 flex w-full">View All Fatwas
+                    <svg viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" class="w-3.5 ml-auto text-red-500">
+                        <line x1="5" y1="12" x2="19" y2="12"></line>
+                        <polyline points="12 5 19 12 12 19"></polyline>
+                    </svg>
+                </a>
+            </div>
+  </div>

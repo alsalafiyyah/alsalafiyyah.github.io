@@ -1,0 +1,55 @@
+           <div class="border-2 border-black dark:border-white bg-white dark:bg-black overflow-hidden transition-colors duration-300">
+                <!-- Vertical Image Preview with Modal Trigger -->
+                <div class="relative group cursor-pointer w-full bg-gray-50 dark:bg-zinc-900 border-b-2 border-black dark:border-white" id="open-modal-btn">
+                    <img src="https://alsalafiyyah.github.io/assets/images/img.webp" alt="Circulated Image of Imam Muhammad bin Abd al-Wahhab" class="w-full h-auto block object-cover">
+                    <!-- Zoom Hint Overlay -->
+                    <div class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center text-white text-xs uppercase font-black tracking-widest pointer-events-none">
+                        Click to View Full Image
+                    </div>
+                </div>
+
+                <!-- Vertical Card Content -->
+                <div class="flex flex-col space-y-4 p-6">
+                    <div class="flex items-center gap-6 text-[10px] font-black uppercase tracking-widest opacity-50">
+                        <span>1448-03-07 / 20.08.2026</span>
+                    </div>
+                    <h3 class="text-2xl font-black uppercase tracking-tighter leading-[0.95] serif">
+                        The Truth Behind the Circulated Image of Imam Muhammad bin Abd al-Wahhab
+                    </h3>
+                    
+                    <!-- Collapsible Text Container -->
+                    <div class="relative">
+                        <!-- Short Initial Preview Text -->
+                        <div id="text-preview" class="space-y-3">
+                            <p class="text-sm font-medium leading-relaxed opacity-80">
+                                The text in the provided image translates as follows:
+                            </p>
+                            <p class="text-xs font-normal leading-relaxed opacity-60">
+                                <strong>On the right side (False Claim):</strong> An alleged picture of the renewer Imam Muhammad ibn Abd al-Wahhab...
+                            </p>
+                        </div>
+
+                        <!-- Full Text (Initially Hidden) -->
+                        <div id="text-full" class="hidden space-y-3 mt-2">
+                            <p class="text-sm font-medium leading-relaxed opacity-80">
+                                The text in the provided image translates as follows:
+                            </p>
+                            <p class="text-xs font-normal leading-relaxed opacity-60">
+                                <strong>On the right side (False Claim):</strong> An alleged picture of the renewer Imam Muhammad ibn Abd al-Wahhab, may Allah have mercy on him, is being circulated across social media platforms. The image shows a person sitting on a chair, who they claim is Imam Muhammad ibn Saud, may Allah have mercy on him, and another standing beside him, who they claim is Imam Muhammad ibn Abd al-Wahhab, may Allah have mercy on him.
+                            </p>
+                            <p class="text-xs font-normal leading-relaxed opacity-60">
+                                <strong>On the left side (The Truth):</strong> This information is incorrect. The person sitting on the chair is Sheikh Abdullah bin Isa bin Ali Al Khalifa, a son of the ruler of Bahrain, and not Imam Muhammad ibn Saud... It is worth noting that the first photograph was taken in 1826, and the invention of photography was announced on August 19, 1839.
+                            </p>
+                            <p class="text-xs font-normal leading-relaxed opacity-60">
+                                Source: <a href="https://mujaddid.net/%d8%b5%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d9%85-%d8%a7%d9%84%d9%85%d8%ac%d8%af%d8%af-%d9%85%d8%ad%d9%85%d8%af%d8%a8%d9%86-%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%88%d9%87%d8%a7%d8%a8-%d8%a7/" target="_blank" class="underline font-bold hover:text-red-500">صورة الإمام محمد بن عبدالوهاب الفوتوغرافية بين الكذب والحقيقة؟!</a>
+                            </p>
+                        </div>
+                    </div>
+
+                    <!-- Show More / Show Less Button -->
+                    <div class="pt-2">
+                        <button id="toggle-text-btn" class="text-xs font-black uppercase tracking-widest text-black dark:text-white border-b-2 border-black dark:border-white pb-1 hover:text-red-500 hover:border-red-500 transition-colors">
+                            Show More ↓
+                        </button>
+                    </div>
+                </div>
