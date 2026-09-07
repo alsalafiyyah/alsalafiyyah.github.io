@@ -33,9 +33,7 @@ layout: null
             <span>{{ featured_post.hijri }} / {{ featured_post.date | date: "%d.%m.%Y" }}</span>
         </div>
         <p class="text-xl md:text-3xl font-bold leading-relaxed opacity-85 max-w-5xl">
-                  {% if featured_post.summary %}
-                    {{ featured_post.summary | strip_html }}
-                  {% endif %}
+         {{ featured_post.summary | strip_html }}
         </p>
         <div>
             <a href="{{ featured_post.url | relative_url }}" class="inline-block bg-black text-white dark:bg-white dark:text-black px-12 py-5 font-black uppercase tracking-widest text-xs hover:scale-105 transition-transform">
