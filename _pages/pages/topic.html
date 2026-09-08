@@ -29,9 +29,9 @@ featured_slugs:
 
 <hr/>
 
-{% assign matching_posts = site.posts | where: "slug", "who-are-the-salaf" %}
-{% for post in matching_posts %}
+{% assign featured_fatwa = site.posts | where: "slug", "who-are-the-salaf" %}
+{% for post in featured_fatwa %}
   <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-  <p>{{ post.hiri }} \ {{ post.date | date: "%Y-%m-%d" }}</p>
+  <p>{{ post.hijri }} \ {{ post.date | date: "%Y-%m-%d" }}</p>
   <p>{{ post.summary }}</p>
 {% endfor %}
