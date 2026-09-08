@@ -178,7 +178,7 @@ layout: null
 
                     <!-- Audio Fatwas Panel -->
                     <div id="panel-audio" class="tab-panel space-y-6 hidden">
-                        <div class="space-y-6 py-6 flex flex-col">
+                        <div class="space-y-6 py-3 flex flex-col">
                             {% assign audio_posts = site.posts | where_exp: "post", "post.active == 'audios'" %}
                             {% for post in audio_posts limit:5 %}
                             <div class="inline-flex items-center gap-2">
