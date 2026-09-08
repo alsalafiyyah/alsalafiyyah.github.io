@@ -3,19 +3,19 @@
             <span class="w-2 h-2 rounded-full bg-red-500 flex-shrink-0 mr-1"></span>
             <span class="text-black dark:text-white">Selected Fatwa</span>
         </div>
-
         {% assign featured_fatwa = site.posts | where: "slug", "who-are-the-salaf" %}
         {% for post in featured_fatwa %}
+        {% assign standard_date = post.date | date: "%Y-%m-%d" %}
         <h2 class="text-6xl md:text-[5vw] lg:text-[4.5vw] font-black uppercase tracking-tighter leading-[0.85] serif">
             <a href="{{ post.url | relative_url }}" class="hover:line-through transition-all">
                {{ post.title }}
             </a>
         </h2>
         <div class="flex items-center gap-6 text-[10px] font-black uppercase tracking-widest opacity-50">
-            <span>{{ post.hijri }} \ {{ post.date | date: "%Y-%m-%d" }}</span>
+            <span>{{ post.hijri }} \ {{ standard_date }}</span>
         </div>
         <p class="text-xl md:text-3xl font-bold leading-relaxed opacity-85 max-w-5xl">
-         {{ post.summary | strip_html }}
+           {{ post.summary | strip_html }}
         </p>
         <div>
             <a href="{{ post.url | relative_url }}" class="inline-block bg-black text-white dark:bg-white dark:text-black px-12 py-5 font-black uppercase tracking-widest text-xs hover:scale-105 transition-transform">
@@ -23,5 +23,4 @@
             </a>
         </div>
        {% endfor %}
-       
     </div>
