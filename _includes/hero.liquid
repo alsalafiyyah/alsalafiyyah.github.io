@@ -5,14 +5,13 @@
         </div>
         {% assign featured_fatwa = site.posts | where: "slug", "who-are-the-salaf" %}
         {% for post in featured_fatwa %}
-        {% assign standard_date = post.date | date: "%Y-%m-%d" %}
         <h2 class="text-6xl md:text-[5vw] lg:text-[4.5vw] font-black uppercase tracking-tighter leading-[0.85] serif">
             <a href="{{ post.url | relative_url }}" class="hover:line-through transition-all">
                {{ post.title }}
             </a>
         </h2>
         <div class="flex items-center gap-6 text-[10px] font-black uppercase tracking-widest opacity-50">
-            <span>{{ post.hijri }} \ {{ standard_date }}</span>
+            <span>{{ post.hijri }} \ {{ post.date | date: "%Y-%m-%d" }}</span>
         </div>
         <p class="text-xl md:text-3xl font-bold leading-relaxed opacity-85 max-w-5xl">
            {{ post.summary | strip_html }}

@@ -44,7 +44,7 @@ layout: null
                 <!-- Vertical Card Content -->
                 <div class="flex flex-col space-y-4 p-6">
                     <div class="flex items-center gap-6 text-[10px] font-black uppercase tracking-widest opacity-50">
-                        <span>1448-03-07 / 20.08.2026</span>
+                        <span>1448-03-07 / 2026-08-20</span>
                     </div>
                     <h3 class="text-2xl font-black uppercase tracking-tighter leading-[0.95] serif">
                         The Truth Behind the Circulated Image of Imam Muhammad bin Abd al-Wahhab
@@ -103,7 +103,7 @@ layout: null
                     <div class="flex flex-col items-start justify-end text-left pt-32 px-8 pb-8 bg-gradient-to-t from-black/90 via-black/40 to-transparent w-full">
                         <h3 class="flex items-center font-sans font-bold text-xs text-white mb-3">
                             <span class="w-2 h-2 rounded-full bg-red-500 flex-shrink-0 mr-2.5"></span>
-                            {{ featured_muqolat_post.hijri }} / {{ featured_muqolat_post.date | date: "%d.%m.%Y" }}
+                            {{ featured_muqolat_post.hijri }} / {{ featured_muqolat_post.date | date: "%Y-%m-%d" }}
                         </h3>
                         <a href="{{ featured_muqolat_post.url | relative_url }}" class="text-white text-2xl font-bold hover:underline leading-snug">
                             {{ featured_muqolat_post.title }}
@@ -118,7 +118,7 @@ layout: null
                 {% for post in muqolat limit:2 %}
                     {% if post.url != featured_muqolat_post.url %}
                         <div class="py-1">
-                            <span class="text-[10px] font-bold opacity-50 block mb-1">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</span>
+                            <span class="text-[10px] font-bold opacity-50 block mb-1">{{ post.hijri }} \ {{ post.date | date: "%Y-%m-%d" }}</span>
                             <a href="{{ post.url | relative_url }}" class="text-lg font-bold group-hover:underline block hover:underline">
                                 {{ post.title }}
                             </a>
@@ -167,7 +167,7 @@ layout: null
                             <div class="flex flex-col">
                                 <h3 class="flex items-center font-sans font-bold text-xs text-gray-600 text-opacity-40 mb-3.5">
                                     <span class="w-2 h-2 rounded-full bg-red-500 flex-shrink-0 mr-2.5"></span>
-                                        {{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}
+                                        {{ post.hijri }} \ {{ post.date | date: "%Y-%m-%d" }}
                                 </h3>
                                 <a href="{{ post.url | relative_url }}" class="font-medium hover:underline">{{ post.title }}</a>
                             </div>
@@ -197,7 +197,7 @@ layout: null
                                 <a href="{{ post.url | relative_url }}" class="group block">
                                     <span class="w-2 h-2 rounded-full bg-red-500 flex-shrink-0 mr-2.5"></span>
                                      <span class="text-[10px] font-bold opacity-50 block mb-1">
-                                          {{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}
+                                          {{ post.hijri }} \ {{ post.date | date: "%Y-%m-%d" }}
                                      </span>
                                     <span class="text-lg font-bold group-hover:underline">{{ post.title }}</span>
                                 </a>
@@ -216,7 +216,7 @@ layout: null
                                 <img src="https://img.youtube.com/vi/{{ post.videoID }}/maxresdefault.jpg" alt="{{ post.title }}" class="w-20 h-20 flex-shrink-0 mr-4 object-cover" />
                                 <div class="flex-grow min-w-0 flex flex-col">
                                     <a href="{{ post.url | relative_url }}" class="mb-0.5 hover:underline block font-bold">{{ post.title }}</a>
-                                    <p class="text-gray-600 text-opacity-40 text-xs mt-auto font-sans">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</p>
+                                    <p class="text-gray-600 text-opacity-40 text-xs mt-auto font-sans">{{ post.hijri }} \ {{ post.date | date: "%Y-%m-%d" }}</p>
                                 </div>
                             </div>
                             {% endfor %}
