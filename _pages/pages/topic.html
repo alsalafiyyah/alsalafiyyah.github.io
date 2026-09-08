@@ -26,3 +26,9 @@ featured_slugs:
     </article>
   {% endif %}
 {% endfor %}
+
+{% assign matching_posts = site.posts | where: "slug", "who-are-the-salaf" %}
+{% for post in matching_posts %}
+  <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+  {{ post.content }}
+{% endfor %}
