@@ -16,7 +16,7 @@ summary: "Compilation of fatwas (legal rulings) issued by the scholars of ahlus-
             <div class="md:col-span-3 flex flex-row md:flex-col justify-between md:justify-start gap-2 text-[10px] font-black uppercase tracking-[0.2em]">
                 <!-- Post Date Layout -->
                 <span class="text-zinc-400 dark:text-zinc-600 tabular-nums">
-                    {{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}
+                    {{ post.hijri }} \ {{ post.date | date: "%Y-%m-%d" }}
                 </span>
                 <!-- Post Type Indicator -->
                     {% if post.active == "audios" %}

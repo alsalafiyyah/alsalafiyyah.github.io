@@ -14,7 +14,6 @@ title: Categories
     
     <a id="next-link" href="#" class="text-sm font-black uppercase tracking-widest hover:line-through invisible">{{ site.site_elements.next }} →</a>
 </nav>
-
 <script id="fatwa-data" type="application/json">
 [
   {% assign category_posts = site.posts | where_exp: "post", "post.category contains page.category" %}
@@ -22,7 +21,7 @@ title: Categories
     {
       "title": {{ post.title | jsonify }},
       "url": {{ post.url | relative_url | jsonify }},
-      "date": {{ post.date | date: "%d.%m.%Y" | jsonify }},
+      "date": {{ post.date | date: "%Y-%m-%d" | jsonify }},
       "hijri": {{ post.hijri | jsonify }},
       "scholar": {{ post.scholar | jsonify }},
       "summary": {{ post.summary | default: "" | jsonify }}
