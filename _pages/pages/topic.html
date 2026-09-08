@@ -11,10 +11,11 @@ featured_slugs:
 {% for slug in page.featured_slugs %}
   {% assign post = site.posts | where: "slug", slug | first %}
   {% if post %}
-    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
   {% endif %}
 {% endfor %}
 
+<hr/>
 
 {% assign target_slugs = "darwin-theory,darwin-theory-of-evolution,humanity-lineage-created-from-clay-not-evolved-from-apes" | split: "," %}
 {% for slug in target_slugs %}
@@ -22,13 +23,13 @@ featured_slugs:
   {% if post %}
     <article>
       <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-      <p>{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
     </article>
   {% endif %}
 {% endfor %}
 
+<hr/>
+
 {% assign matching_posts = site.posts | where: "slug", "who-are-the-salaf" %}
 {% for post in matching_posts %}
   <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-  {{ post.content }}
 {% endfor %}
