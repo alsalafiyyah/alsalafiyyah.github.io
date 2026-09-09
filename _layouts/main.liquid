@@ -213,7 +213,7 @@ layout: null
                             {% assign video_posts = site.posts | where_exp: "post", "post.active == 'videos'" %}
                             {% for post in video_posts limit:5 %}
                             <div class="flex items-start">
-                                <img src="https://img.youtube.com/vi/{{ post.videoID }}/maxresdefault.jpg" alt="{{ post.title }}" class="w-20 h-20 flex-shrink-0 mr-4 object-cover" />
+                                <img src="https://img.youtube.com/vi/{{ post.videoID }}/hqdefault.jpg" alt="{{ post.title }}" class="w-20 h-20 flex-shrink-0 mr-4 object-cover" />
                                 <div class="flex-grow min-w-0 flex flex-col">
                                     <a href="{{ post.url | relative_url }}" class="mb-0.5 hover:underline block font-bold">{{ post.title }}</a>
                                     <p class="text-gray-600 text-opacity-40 text-xs mt-auto font-sans">{{ post.hijri }} \ {{ post.date | date: "%Y-%m-%d" }}</p>
