@@ -181,26 +181,17 @@ layout: null
                         <div class="space-y-6 py-3 flex flex-col">
                             {% assign audio_posts = site.posts | where_exp: "post", "post.active == 'audios'" %}
                             {% for post in audio_posts limit:5 %}
-                            <div class="inline-flex items-center gap-2">
-                         <div x-data="{ playing: false, audio: new Audio('{{ post.mp3 }}') }">
-                             <button @click="playing ? audio.pause() : audio.play(); playing = !playing" class="flex items-center justify-center w-6 h-6 bg-red-600 hover:bg-red-700 text-white rounded-full shadow-lg transition focus:outline-none focus:ring-2 focus:ring-indigo-300" :aria-label="playing ? 'Pause' : 'Play'">
-                                 <!-- Play Icon -->
-                                      <svg x-show="!playing" class="w-4 h-4 translate-x-0.5" fill="currentColor" viewBox="0 0 24 24">
-                                         <path d="M8 5v14l11-7z"/>
-                                      </svg>
-                                 <!-- Pause Icon -->
-                                       <svg x-show="playing" class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
-                                         <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/>
-                                       </svg>
-                             </button>
-                         </div>
-                                <a href="{{ post.url | relative_url }}" class="group block">
+                            <a  href="{{ post.url | relative_url }}" class="inline-flex items-center gap-2" title="{{ post.title }}">
+                            <svg class="w-6 h-6 text-gray-800 dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+                               <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9v3a5.006 5.006 0 0 1-5 5h-4a5.006 5.006 0 0 1-5-5V9m7 9v3m-3 0h6M11 3h2a3 3 0 0 1 3 3v5a3 3 0 0 1-3 3h-2a3 3 0 0 1-3-3V6a3 3 0 0 1 3-3Z"/>
+                             </svg>
+                                <div" class="group block">
                                     <span class="w-2 h-2 rounded-full bg-red-500 flex-shrink-0 mr-2.5"></span>
                                      <span class="text-[10px] font-bold opacity-50 block mb-1">
                                           {{ post.hijri }} \ {{ post.date | date: "%Y-%m-%d" }}
                                      </span>
                                     <span class="text-lg font-bold group-hover:underline">{{ post.title }}</span>
-                                </a>
+                                </div>
                             </div>
                             {% endfor %}
                         </div>
@@ -212,17 +203,18 @@ layout: null
                         <div class="flex flex-col space-y-6 py-6">
                             {% assign video_posts = site.posts | where_exp: "post", "post.active == 'videos'" %}
                             {% for post in video_posts limit:5 %}
-                            <div class="flex items-start">
-                                <img src="https://img.youtube.com/vi/{{ post.videoID }}/hqdefault.jpg" alt="{{ post.title }}" class="w-20 h-20 flex-shrink-0 mr-4 object-cover" />
+                            <a href="{{ post.url | relative_url }}" class="flex items-start" title="{{ post.title }}">
+                                <img src="https://img.youtube.com/vi/{{ post.videoID }}/hqdefault.jpg" alt="{{ post.title }}" class="w-20 h-20 flex-shrink-0 mr-4 object-cover" alt="{{ post.title }}"/>
                                 <div class="flex-grow min-w-0 flex flex-col">
-                                    <a href="{{ post.url | relative_url }}" class="mb-0.5 hover:underline block font-bold">{{ post.title }}</a>
+                                    <p class="mb-0.5 block font-bold">{{ post.title }}</p>
                                     <p class="text-gray-600 text-opacity-40 text-xs mt-auto font-sans">{{ post.hijri }} \ {{ post.date | date: "%Y-%m-%d" }}</p>
                                 </div>
-                            </div>
+                            </a>
                             {% endfor %}
                         </div>
                     </div>
                     <!-- /Video Fatwas Panel -->
+
                 </div>
                 <!-- /Tab Content Panels -->
 
