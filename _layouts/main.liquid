@@ -35,7 +35,7 @@ layout: null
                 <div class="relative group cursor-pointer w-full bg-gray-50 dark:bg-zinc-900 border-b-2 border-black dark:border-white" id="open-modal-btn">
                     <img src="/assets/images/img.webp" alt="Circulated Image of Imam Muhammad bin Abd al-Wahhab" class="w-full h-auto block object-cover">
                     <!-- Zoom Hint Overlay -->
-                    <div class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center text-white text-xs uppercase font-black tracking-widest pointer-events-none">
+                    <div class="absolute inset-0 bg-black/60 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center text-white text-xs uppercase font-black tracking-widest pointer-events-none">
                         Click to View Full Image
                     </div>
                 </div> 
@@ -43,7 +43,7 @@ layout: null
 
                 <!-- Vertical Card Content -->
                 <div class="flex flex-col space-y-4 p-6">
-                    <div class="flex items-center gap-6 text-[10px] font-black uppercase tracking-widest opacity-50">
+                    <div class="flex items-center gap-6 text-[10px] font-black uppercase tracking-widest text-zinc-600 dark:text-zinc-400">
                         <span>1448-03-07 / 2026-08-20</span>
                     </div>
                     <h3 class="text-2xl font-black uppercase tracking-tighter leading-[0.95] serif">
@@ -53,26 +53,26 @@ layout: null
                     <div class="relative">
                         <!-- Short Initial Preview Text -->
                         <div id="text-preview" class="space-y-3">
-                            <p class="text-sm font-medium leading-relaxed opacity-80">
+                            <p class="text-xs font-normal leading-relaxed text-zinc-600 dark:text-zinc-400">
                                 The text in the provided image translates as follows:
                             </p>
-                            <p class="text-xs font-normal leading-relaxed opacity-60">
+                            <p class="text-xs font-normal leading-relaxed text-zinc-600 dark:text-zinc-400">
                                 <strong>On the right side (False Claim):</strong> An alleged picture of the renewer Imam Muhammad ibn Abd al-Wahhab...
                             </p>
                        </div>
                         <!-- /Short Initial Preview Text -->
                         <!-- Full Text -->
                         <div id="text-full" class="hidden space-y-3 mt-2">
-                            <p class="text-sm font-medium leading-relaxed opacity-80">
+                            <p class="text-sm font-medium leading-relaxed text-zinc-600 dark:text-zinc-400">
                                 The text in the provided image translates as follows:
                             </p>
-                            <p class="text-xs font-normal leading-relaxed opacity-60">
+                            <p class="text-xs font-normal leading-relaxed text-zinc-600 dark:text-zinc-400">
                                 <strong>On the right side (False Claim):</strong> An alleged picture of the renewer Imam Muhammad ibn Abd al-Wahhab, may Allah have mercy on him, is being circulated across social media platforms. The image shows a person sitting on a chair, who they claim is Imam Muhammad ibn Saud, may Allah have mercy on him, and another standing beside him, who they claim is Imam Muhammad ibn Abd al-Wahhab, may Allah have mercy on him.
                             </p>
-                            <p class="text-xs font-normal leading-relaxed opacity-60">
+                            <p class="text-xs font-normal leading-relaxed text-zinc-600 dark:text-zinc-400">
                                 <strong>On the left side (The Truth):</strong> This information is incorrect. The person sitting on the chair is Sheikh Abdullah bin Isa bin Ali Al Khalifa, a son of the ruler of Bahrain, and not Imam Muhammad ibn Saud... It is worth noting that the first photograph was taken in 1826, and the invention of photography was announced on August 19, 1839.
                             </p>
-                            <p class="text-xs font-normal leading-relaxed opacity-60">
+                            <p class="text-xs font-normal leading-relaxed text-zinc-600 dark:text-zinc-400">
                                 Source: <a href="https://mujaddid.net/%d8%b5%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d9%85-%d8%a7%d9%84%d9%85%d8%ac%d8%af%d8%af-%d9%85%d8%ad%d9%85%d8%af%d8%a8%d9%86-%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%88%d9%87%d8%a7%d8%a8-%d8%a7/" target="_blank" class="underline font-bold hover:text-red-500">صورة الإمام محمد بن عبدالوهاب الفوتوغرافية بين الكذب والحقيقة؟!</a>
                             </p>
                         </div> 
@@ -118,7 +118,7 @@ layout: null
                 {% for post in muqolat limit:2 %}
                     {% if post.url != featured_muqolat_post.url %}
                         <div class="py-1">
-                            <span class="text-[10px] font-bold opacity-50 block mb-1">{{ post.hijri }} \ {{ post.date | date: "%Y-%m-%d" }}</span>
+                            <span class="text-[10px] font-bold text-zinc-600 dark:text-zinc-400 block mb-1">{{ post.hijri }} \ {{ post.date | date: "%Y-%m-%d" }}</span>
                             <a href="{{ post.url | relative_url }}" class="text-lg font-bold group-hover:underline block hover:underline">
                                 {{ post.title }}
                             </a>
@@ -127,7 +127,7 @@ layout: null
                 {% endfor %}
 
                 <div class="flex flex-col w-full">
-                    <div class="w-full flex h-0.5 bg-yellow-700 bg-opacity-10">
+                    <div class="w-full flex h-0.5 bg-yellow-700/10 dark:bg-white/10">
                         <div class="w-1/2 bg-red-500 h-full"></div>
                     </div>
                     <a href="{{ '/muqolat' | relative_url }}" class="font-sans text-xs uppercase font-bold pt-5 flex w-full">View All Muqolat
@@ -144,7 +144,7 @@ layout: null
         <div class="col-span-1 flex flex-col justify-between h-full space-y-6 lg:border-l-2 border-t-2 lg:border-t-0 border-black/10 dark:border-white/10 lg:pl-6 pt-8 lg:pt-0" id="fatwa-tabs-container">
             <div>
                <!-- Tab Navigation Headers -->
-               <div class="flex items-center gap-4 mb-6 border-b-2 border-yellow-700 border-opacity-10 space-x-6 dark:border-white/10 pb-3 text-xs font-black uppercase tracking-wider overflow-x-auto">
+               <div class="flex items-center gap-4 mb-6 border-b-2 border-yellow-700/10 space-x-6 dark:border-white/10 pb-3 text-xs font-black uppercase tracking-wider overflow-x-auto">
                     <button type="button" data-tab="recent" class="tab-btn text-black dark:text-white border-b-2 border-red-500 dark:border-white pb-1 transition-colors whitespace-nowrap">
                         Recent
                     </button>
@@ -218,7 +218,7 @@ layout: null
                 <!-- /Tab Content Panels -->
 
                 <div class="flex flex-col w-full pt-4">
-                    <div class="w-full flex h-0.5 bg-yellow-700 bg-opacity-10">
+                    <div class="w-full flex h-0.5 bg-yellow-700/10 dark:bg-white/10">
                         <div class="w-1/2 bg-red-500 h-full"></div>
                     </div>
                     <a href="{{ '/fatwas' | relative_url }}" class="font-sans text-xs uppercase font-bold pt-5 flex w-full">View All Fatwas
