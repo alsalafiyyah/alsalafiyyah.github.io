@@ -49,6 +49,8 @@ All of these have been published in a booklet entitled Al-Tahdhir min al-Bida' (
 
 We ask Allah to grant success to us and to all Muslims in knowing the truth and following it, and to protect us all from innovations and evil deeds, both apparent and hidden. Indeed, He is the Guardian of that and is capable of it. May Allah send peace and blessings upon our Prophet Muhammad, his family, and his Companions.
 
+End of the fatwa by Shaykh Ibn Baz.
+
 <hr/>
 
 Sheikh al-Islam Ibn Taymiyyah—may Allah the Most High have mercy on him—said in "Iqtida' al-Sirat al-Mustaqim" (2/123) while explaining that celebrating [such festival] is an innovation (bid'ah), even though those who do so may be rewarded for their good intention rather than for the innovation:
