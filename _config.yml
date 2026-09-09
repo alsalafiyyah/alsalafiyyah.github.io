@@ -24,6 +24,7 @@ incremental         : true
 
 paginate            : 20
 paginate_path       : "/fatwas/:num/"
+img_url: "/assets/images"
 
 webmaster_verifications: 
   google_site       : "K7QDv3cEwylAu_9fndO3ebQmNowxxRYCpqDEzQKQOy4" # google site verification

@@ -33,7 +33,7 @@ layout: null
             <div class="border-2 border-black dark:border-white bg-white dark:bg-black overflow-hidden transition-colors duration-300">
                 <!-- Vertical Image Preview with Modal Trigger -->
                 <div class="relative group cursor-pointer w-full bg-gray-50 dark:bg-zinc-900 border-b-2 border-black dark:border-white" id="open-modal-btn">
-                    <img src="/assets/images/img.jpg" alt="Circulated Image of Imam Muhammad bin Abd al-Wahhab" class="w-full h-auto block object-cover">
+                    <img src="{{ site.img_url }}/img.jpg" alt="Circulated Image of Imam Muhammad bin Abd al-Wahhab" class="w-full h-auto block object-cover">
                     <!-- Zoom Hint Overlay -->
                     <div class="absolute inset-0 bg-black/60 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center text-white text-xs uppercase font-black tracking-widest pointer-events-none">
                         Click to View Full Image
@@ -250,7 +250,7 @@ layout: null
         </svg>
     </button>
     <div class="relative max-w-5xl max-h-full flex items-center justify-center">
-        <img id="modal-img" src="/assets/images/img.jpg" alt="Full View" class="max-w-full max-h-[85vh] object-contain border-4 border-white">
+        <img id="modal-img" src="{{ site.img_url }}/img.jpg" alt="Full View" class="max-w-full max-h-[85vh] object-contain border-4 border-white">
     </div>
 </div>
 <!-- /Full Image Modal Popup -->
