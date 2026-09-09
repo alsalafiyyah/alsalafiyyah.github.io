@@ -30,6 +30,7 @@
     }
   </script>
 
+{% unless page.url == "/" or page.url == "/ar" %}
 <script>
 document.addEventListener("DOMContentLoaded", function () {
     const raw = document.getElementById("fatwa-data");
@@ -191,7 +192,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 });
 </script>
-
+    {% endunless %}
 
 {% if page.active == 'search' %}
 <script>
