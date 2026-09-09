@@ -32,11 +32,18 @@
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
+    const raw = document.getElementById("fatwa-data");
+    
+    // Fix: Check if the element exists to prevent null reference errors
+    if (!raw) {
+        console.warn("Element with ID 'fatwa-data' was not found on this page.");
+        return;
+    }
+
     const POSTS_PER_PAGE = 12;
     const urlParams = new URLSearchParams(window.location.search);
     const currentPage = parseInt(urlParams.get("page")) || 1;
     
-    const raw = document.getElementById("fatwa-data");
     const data = JSON.parse(raw.textContent);
     
     const totalPages = Math.ceil(data.length / POSTS_PER_PAGE);
@@ -51,11 +58,12 @@ document.addEventListener("DOMContentLoaded", function () {
         container.innerHTML = `
             <div class="py-20 text-center">
                 <h2 class="text-4xl md:text-5xl font-black uppercase tracking-tighter opacity-20">
-                    {{ site.site_elements.no_entries_found }}
+                    No entries found
                 </h2>
             </div>
         `;
-        document.getElementById("pagination-nav").classList.add("hidden");
+        const paginationNav = document.getElementById("pagination-nav");
+        if (paginationNav) paginationNav.classList.add("hidden");
         return; 
     }
 
@@ -144,7 +152,7 @@ document.addEventListener("DOMContentLoaded", function () {
         else {
             return `
                 <article class="flex flex-col justify-between space-y-4 border-l-2 border-red-500 pl-4 py-1 group cursor-pointer">
-                    <a href="${post.url}" class="space-y-2 block">
+                    <div class="space-y-2 block">
                         <span class="text-[10px] font-bold opacity-50 block">${postDate}</span>
                         <a href="${post.url}"><h3 class="text-xl md:text-2xl font-black uppercase tracking-tighter serif group-hover:underline leading-snug">
                             ${post.title}
@@ -152,7 +160,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         <p class="text-xs md:text-sm font-medium leading-relaxed opacity-80">
                             ${post.summary}
                         </p>
-                    </a>
+                    </div>
                     <div class="pt-2">
                         <a href="${post.url}" class="text-[10px] font-black uppercase tracking-widest text-black dark:text-white flex items-center gap-1 group-hover:text-red-500 transition-colors">
                             Read More →
@@ -169,15 +177,15 @@ document.addEventListener("DOMContentLoaded", function () {
     const currentDisplay = document.getElementById("current-page-display");
     const totalDisplay = document.getElementById("total-pages-display");
 
-    currentDisplay.textContent = currentPage < 10 ? `0${currentPage}` : currentPage;
-    totalDisplay.textContent = totalPages < 10 ? `0${totalPages}` : totalPages;
+    if (currentDisplay) currentDisplay.textContent = currentPage < 10 ? `0${currentPage}` : currentPage;
+    if (totalDisplay) totalDisplay.textContent = totalPages < 10 ? `0${totalPages}` : totalPages;
 
-    if (currentPage > 1) {
+    if (prevLink && currentPage > 1) {
         prevLink.classList.remove("invisible");
         prevLink.href = `?page=${currentPage - 1}`;
     }
 
-    if (currentPage < totalPages) {
+    if (nextLink && currentPage < totalPages) {
         nextLink.classList.remove("invisible");
         nextLink.href = `?page=${currentPage + 1}`;
     }
