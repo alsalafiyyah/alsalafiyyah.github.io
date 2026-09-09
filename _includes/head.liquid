@@ -65,7 +65,89 @@
 <script src="https://cdn.tailwindcss.com"></script>
 
 <!-- 4. Custom Styles -->
-<link rel="stylesheet" href="{{ '/assets/custom-styles.css' | relative_url }}">
+<style>
+        body { font-family: 'Inter', sans-serif; }
+        .serif { font-family: 'Playfair Display', serif; }
+        /* Custom scrollbar */
+        ::-webkit-scrollbar { width: 5px; }
+        ::-webkit-scrollbar-track { background: transparent; }
+        ::-webkit-scrollbar-thumb { background: black; }
+        .dark ::-webkit-scrollbar-thumb { background: white; }
+
+        /* --- Jekyll Markdown Custom Styles --- */
+        h3, h4, h5, h6 {
+            font-family: 'Inter', sans-serif;
+            font-weight: 900;
+            text-transform: uppercase;
+            letter-spacing: -0.05em;
+            line-height: 0.9;
+            margin-top: 2.5rem;
+            margin-bottom: 1.5rem;
+        }
+
+        h1 { font-size: 4rem; text-transform: none; font-family: 'Playfair Display', serif; }
+        h2 { font-size: 3rem; padding-bottom: 0.5rem; font-weight: 900; }
+        
+        #question, #answer, .post h3, .post h2, .post h4, .page h3 {
+            font-family: 'Inter', sans-serif;
+            font-size: 1.25rem;
+            line-height: 1.8;
+            margin-bottom: 1.5rem;
+            font-weight: bold;
+        }
+
+        hr { border: none; border-top: 0px solid black; margin: 4rem 0; }
+        
+        article ol { list-style-type: decimal !important; padding-bottom: 24px;list-style-position: inside;font-size: 1.125rem;line-height: 1.75;}
+        article ul { list-style-type: circle !important;padding-bottom: 24px;list-style-position: inside;font-size: 1.125rem;line-height: 1.75;}
+        article p {
+            margin-bottom: 1.5rem;
+            font-size: 1.125rem;
+            line-height: 1.75;
+        }
+        .post a {
+            color: #ef4444 !important;
+            text-decoration: none;
+        }
+        .post a:hover {
+            color: #ef4444 !important;
+            text-decoration: underline;
+        }
+/* The Footnote Container */
+.footnotes {
+    margin-top: 2rem;
+    padding-top: 2rem;
+}
+.footnote a {
+    margin-left: 3px;
+    color: #ef4444 !important;
+}
+.footnotes ol li p {
+    font-size: 14px !important;
+    line-height: 1.4 !important;
+    color: #666 !important;
+    margin: 0 !important; 
+    display: inline;
+}
+
+.footnotes ol li {
+    font-size: 14px !important;
+    color: #999;
+    margin-bottom: 0.5rem;
+}
+
+.reversefootnote {
+    font-size: 14px !important;
+    text-decoration: none !important;
+    margin-left: 5px;
+    color: #ef4444 !important;
+}
+
+.reversefootnote:hover {
+    background: none !important; 
+    text-decoration: underline !important;
+}
+</style>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z0KFD0T2JQ"></script>
