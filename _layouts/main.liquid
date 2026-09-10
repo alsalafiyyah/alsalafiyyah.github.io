@@ -90,7 +90,7 @@ layout: null
         </div>
 
         <!-- Column 2: Muqolat -->
-        <div class="col-span-1 flex flex-col space-y-6">
+        <div class="col-span-1 flex flex-col space-y-6 hidden md:block">
             {% assign featured_muqolat_post = site.posts | where: "featured_muqolat", true | first %}
             <div class="relative bg-cover bg-no-repeat bg-center flex flex-col justify-end min-h-[450px] overflow-hidden" style="background-image:url('{{ featured_muqolat_post.img | relative_url }}')">
                 <!-- Top Badge -->
