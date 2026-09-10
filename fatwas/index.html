@@ -71,12 +71,14 @@ summary: "Compilation of fatwas (legal rulings) issued by the scholars of ahlus-
 {% if paginator.total_pages > 1 %}
 <nav class="flex items-center justify-between border-t-4 border-black dark:border-white pt-12 mt-12 mb-24 transition-colors">
     {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path | relative_url }}" class="text-sm font-black uppercase tracking-widest hover:line-through">
-            ← {{ site.site_elements.next }}
+        <a href="{{ paginator.previous_page_path | relative_url }}" class="inline-flex items-center gap-2 text-sm font-black uppercase tracking-widest hover:text-red-500 transition-colors">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+            {{ site.site_elements.next }}
         </a>
     {% else %}
-        <span class="text-sm font-black uppercase tracking-widest opacity-10 cursor-not-allowed">
-            ← {{ site.site_elements.next }}
+        <span class="inline-flex items-center gap-2 text-sm font-black uppercase tracking-widest opacity-10 cursor-not-allowed">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+            {{ site.site_elements.next }}
         </span>
     {% endif %}
 
@@ -88,12 +90,14 @@ summary: "Compilation of fatwas (legal rulings) issued by the scholars of ahlus-
     </div>
 
     {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path | relative_url }}" class="text-sm font-black uppercase tracking-widest hover:line-through">
-            {{ site.site_elements.prev }} →
+        <a href="{{ paginator.next_page_path | relative_url }}" class="inline-flex items-center gap-2 text-sm font-black uppercase tracking-widest hover:text-red-500 transition-colors">
+            {{ site.site_elements.prev }}
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
         </a>
     {% else %}
-        <span class="text-sm font-black uppercase tracking-widest opacity-10 cursor-not-allowed">
-            {{ site.site_elements.prev }} →
+        <span class="inline-flex items-center gap-2 text-sm font-black uppercase tracking-widest opacity-10 cursor-not-allowed">
+            {{ site.site_elements.prev }}
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
         </span>
     {% endif %}
 </nav>
