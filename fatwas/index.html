@@ -13,8 +13,8 @@ summary: "Compilation of fatwas (legal rulings) issued by the scholars of ahlus-
 <article class="group block border-b border-black/10 dark:border-white/10 hover:border-black dark:hover:border-white transition-colors duration-300 py-8 first:pt-4 last:border-b-0">
     <a href="{{ post.url | relative_url }}" class="flex flex-col gap-3 w-full">
         
-        <!-- Metadata Header (Date & SVG Type Indicator stacked above) -->
-        <div class="flex flex-col gap-1.5 text-[10px] font-black uppercase tracking-[0.2em]">
+        <!-- Metadata Header (Date on Left, SVG Type Indicator on Right) -->
+        <div class="flex flex-row justify-between items-center text-[10px] font-black uppercase tracking-[0.2em] w-full">
             <!-- Post Date Layout -->
             <span class="text-zinc-400 dark:text-zinc-600 tabular-nums">
                 {{ post.hijri }} \ {{ post.date | date: "%Y-%m-%d" }}
