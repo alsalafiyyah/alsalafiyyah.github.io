@@ -208,12 +208,24 @@
             <div>
                 <span class="text-gray-400 block mb-4">{{ site.site_elements.share }}</span>
                 <div class="flex flex-wrap md:justify-end gap-x-6 gap-y-2" dir="{{ site.site_elements.dir }}">
-                    <a aria-label="Share on X Twitter" rel="noopener noreferrer" href="https://x.com/intent/tweet?text={{ page.title | url_encode }}&url={{ site.url }}{{ page.url }}" target="_blank" class="hover:line-through"><i class="fa-brands fa-x-twitter fa-2x"></i></a>
-                    <a aria-label="Share on Threads" rel="noopener noreferrer" href="https://www.threads.net/intent/post?text={{ page.title | url_encode }}%20{{ site.url }}{{ page.url }}" target="_blank" class="hover:line-through"><i class="fa-brands fa-threads fa-2x"></i></a>
-                    <a aria-label="Share on Telegram" rel="noopener noreferrer" href="https://t.me/share/url?url={{ site.url }}{{ page.url }}&text={{ page.title | url_encode }}" target="_blank" class="hover:line-through"><i class="fa-brands fa-telegram fa-2x"></i></a>
-                    <a aria-label="Share on WhatsApp" rel="noopener noreferrer" href="https://wa.me/?text={{ page.title | url_encode }}%20{{ site.url }}{{ page.url }}" target="_blank" class="hover:line-through"><i class="fa-brands fa-whatsapp fa-2x"></i></a>
-                    <a aria-label="Share on Facebook" rel="noopener noreferrer" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" target="_blank" class="hover:line-through"><i class="fa-brands fa-facebook fa-2x"></i></a>
-                    <a aria-label="Share on VK" rel="noopener noreferrer" href="https://vk.com/share.php?url={{ site.url }}{{ page.url }}&title={{ page.title }}&description={{ page.summary }}&image={{ page.img }}" target="_blank" class="hover:line-through"><i class="fa-brands fa-vk fa-2x"></i></a>
+                    <a aria-label="Share on X Twitter" rel="noopener noreferrer" href="https://x.com/intent/tweet?text={{ page.title | url_encode }}&url={{ site.url }}{{ page.url }}" target="_blank" class="hover:line-through">
+                        <i class="fa-brands fa-x-twitter fa-2x"></i>
+                    </a>
+                    <a aria-label="Share on Threads" rel="noopener noreferrer" href="https://www.threads.net/intent/post?text={{ page.title | url_encode }}%20{{ site.url }}{{ page.url }}" target="_blank" class="hover:line-through">
+                        <i class="fa-brands fa-threads fa-2x"></i>
+                    </a>
+                    <a aria-label="Share on Telegram" rel="noopener noreferrer" href="https://t.me/share/url?url={{ site.url }}{{ page.url }}&text={{ page.title | url_encode }}" target="_blank" class="hover:line-through">
+                        <i class="fa-brands fa-telegram fa-2x"></i>
+                    </a>
+                    <a aria-label="Share on WhatsApp" rel="noopener noreferrer" href="https://wa.me/?text={{ page.title | url_encode }}%20{{ site.url }}{{ page.url }}" target="_blank" class="hover:line-through">
+                        <i class="fa-brands fa-whatsapp fa-2x"></i>
+                    </a>
+                    <a aria-label="Share on Facebook" rel="noopener noreferrer" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" target="_blank" class="hover:line-through">
+                        <i class="fa-brands fa-facebook fa-2x"></i>
+                    </a>
+                    <a aria-label="Share on VK" rel="noopener noreferrer" href="https://vk.com/share.php?url={{ site.url }}{{ page.url }}&title={{ page.title }}&description={{ page.summary }}&image={{ page.img }}" target="_blank" class="hover:line-through">
+                        <i class="fa-brands fa-vk fa-2x"></i>
+                    </a>
                     <a aria-label="Share on Bluesky" rel="noopener noreferrer" href="https://bsky.app/intent/compose?text={{ page.title | url_encode }}%20{{ site.url | url_encode }}{{ page.url | url_encode }}" target="_blank" class="hover:line-through">
                         <svg class="w-6 h-6 fill-current text-gray-600 transition-colors duration-200 group-hover:text-[#0085ff]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
                            <title>Bluesky</title>
