@@ -17,6 +17,7 @@ muftis:
     url: /biography/binbaz/
 hijri: '1448-02-22'
 ---
+
 ### Question:
 
 For a long time, the use of the word "Christian" (Masihi) has been widespread. Is it correct—Your Eminence Shaykh—to say "Christian" (Masihi) or "Nasrene/Nazarene" (Nasrani)? Please advise us, May Allah reward you.
