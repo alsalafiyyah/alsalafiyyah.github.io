@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: "The Ruling on Remaining Silent Out of Shyness When Witnessing Evil"
 date: 2026-09-11
-hijri: 1448-03-12
+hijri: 1448-03-29
 lang: en
 translation: false
 tags: salih-ibn-fawzan
