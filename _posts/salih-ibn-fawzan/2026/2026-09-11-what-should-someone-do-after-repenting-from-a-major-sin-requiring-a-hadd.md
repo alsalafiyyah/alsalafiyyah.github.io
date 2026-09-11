@@ -9,7 +9,6 @@ translation: false
 tags: salih-ibn-fawzan
 category:
 - hudud
-- hadd
 link: "https://alfawzan.live/content/5721/"
 summary: "It is obligatory upon him to repent to Allah a sincere repentance, adhere to his religion by performing the acts of worship and legal duties enjoined upon him, avoid the prohibitions that Allah the Exalted has forbidden him, and be truthful in this repentance. Allah, the Glorified and Exalted, accepts the repentance of whoever repents."
 source: "Fatwa No. 5721"
