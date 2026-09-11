@@ -7,8 +7,11 @@ hijri: '1448-03-29'
 source: "Issued by His Eminence following a lesson in the Sacred Mosque on 26/12/1418 AH & Majmoo' Fatawa wa Maqalat al-Shaykh Ibn Baz, 22/ 417"
 tags:
 - ibn-baz
+category:
+- zina
 lang: en
 translation: false
+link: "https://binbaz.org.sa/fatwas/19663/%D9%87%D9%84-%D9%8A%D9%84%D8%B2%D9%85%D9%86%D9%8A-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%AA%D9%88%D8%A8%D8%A9%C2%A0%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B5%D9%8A"
 summary: "Repentance is sufficient. A person should cover themselves with the concealment of Allah, along with repentance and not disclosing the sins and misdeeds that occurred from them."
 muftis:
   shaykh:

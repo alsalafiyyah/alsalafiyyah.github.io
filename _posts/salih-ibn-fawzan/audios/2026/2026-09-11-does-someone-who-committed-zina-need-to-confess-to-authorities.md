@@ -9,6 +9,7 @@ translation: false
 tags: salih-ibn-fawzan
 category:
 - audios
+- zina
 link: "https://alfawzan.live/content/18318/"
 mp3: "https://audio.alfawzan.live/2020-02/03.mp3"
 source: Fatwa No. 18318
