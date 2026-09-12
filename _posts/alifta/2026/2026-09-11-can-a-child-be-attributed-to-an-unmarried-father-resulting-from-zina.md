@@ -10,7 +10,7 @@ source: "Fatawa Al-Lajnah Al-Da’imah, Fatwa No.5236, Question 2"
 summary: "The lineage of the child is not established for the adulterer through zina, based on the saying of the Prophet, peace and blessings be upon him."
 tags:
 - alifta
-tags:
+category:
 - zina
 - family
 translation: false
