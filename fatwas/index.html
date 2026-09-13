@@ -10,11 +10,11 @@ summary: "Compilation of fatwas (legal rulings) issued by the scholars of ahlus-
     {% assign scholar_slug = path_parts[1] %}
     {% assign scholar_name = scholar_slug | replace: "-", " " | uppercase %}
 
-<article class="group block border-b border-black/10 dark:border-white/10 hover:border-black dark:hover:border-white transition-colors duration-300 py-8 first:pt-4 last:border-b-0">
+<article class="group block border-b border-black/10 dark:border-white/10 hover:border-black dark:hover:border-white transition-colors duration-300 py-3 first:pt-4 last:border-b-0">
     <a href="{{ post.url | relative_url }}" class="flex flex-col gap-3 w-full">
         
         <!-- Metadata Header (Date on Left, SVG Type Indicator on Right) -->
-        <div class="flex flex-row justify-between items-center text-[10px] font-black uppercase tracking-[0.2em] w-full">
+        <div class="flex flex-row justify-between items-center text-[12px] font-black uppercase tracking-[0.1em] w-full">
             <!-- Post Date Layout -->
             <span class="text-zinc-400 dark:text-zinc-600 tabular-nums">
                 {{ post.hijri }} \ {{ post.date | date: "%Y-%m-%d" }}
