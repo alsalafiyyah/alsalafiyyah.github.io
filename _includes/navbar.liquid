@@ -36,7 +36,7 @@
         <div class="flex-none">
             <a itemprop="url" href="{{ '/' | relative_url }}" class="flex items-center relative z-10">
                 <img 
-                    src="{{ '/assets/logos/logo.svg' | relative_url }}" 
+                    src="{{ '/assets/logos/logo.svg' | relative_url }}?v={{ site.time | date: '%s' }}" 
                     alt="{{ site.title }} Logo" 
                     class="w-auto h-16 object-contain dark:invert transition-all duration-300"
                 >

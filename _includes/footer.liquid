@@ -5,7 +5,7 @@
             <!-- Logo Container -->
             <a href="{{ '/' | relative_url }}" class="flex-none hover:opacity-50 transition-opacity">
                 <img 
-                    src="{{ '/assets/logos/logo.svg' | relative_url }}" 
+                    src="{{ '/assets/logos/logo.svg' | relative_url }}?v={{ site.time | date: '%s' }}" 
                     alt="{{ site.title }} Logo" 
                     class="w-8 h-8 object-contain dark:invert transition-all duration-300"
                     width="32" 
