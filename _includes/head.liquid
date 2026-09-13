@@ -66,19 +66,10 @@
 </script>
 
 <script>
-  if (
-    localStorage.getItem('theme') === 'dark' || 
-    (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)
-  ) {
-    document.documentElement.classList.add('dark');
+  if (localStorage.getItem('theme') === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+      document.documentElement.classList.add('dark');
   } else {
-    document.documentElement.classList.remove('dark');
-  }
-
-  // Example function to bind to a click event on your toggle button
-  function toggleDarkMode() {
-    const isDark = document.documentElement.classList.toggle('dark');
-    localStorage.setItem('theme', isDark ? 'dark' : 'light');
+      document.documentElement.classList.remove('dark');
   }
 </script>
 
