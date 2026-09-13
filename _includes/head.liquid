@@ -145,13 +145,19 @@
 }
 </style>
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z0KFD0T2JQ"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-Z0KFD0T2JQ');
+  window.addEventListener('DOMContentLoaded', (event) => {
+    const script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://googletagmanager.com';
+    document.head.appendChild(script);
+
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-Z0KFD0T2JQ');
+  });
 </script>
 
 <!-- Clarity tracking code -->
