@@ -7,6 +7,7 @@ const assets = [
   '/assets/icons/web-app-manifest-512x512.png'
 ];
 
+// Install Event: Caching app shell
 self.addEventListener('install', event => {
   self.skipWaiting();
   event.waitUntil(
@@ -17,6 +18,7 @@ self.addEventListener('install', event => {
   );
 });
 
+// Activate Event: Clear old outdated caches
 self.addEventListener('activate', event => {
   event.waitUntil(
     caches.keys().then(keys => {
@@ -24,20 +26,32 @@ self.addEventListener('activate', event => {
         keys.filter(key => key !== cacheName)
             .map(key => caches.delete(key))
       );
-    })
+    }).then(() => self.clients.claim())
   );
 });
 
+// Fetch Event: Cache-First Strategy with Network Fallback
 self.addEventListener('fetch', event => {
+  // Skip non-GET requests (like browser extensions or POST forms)
+  if (event.request.method !== 'GET') return;
+
   event.respondWith(
-    fetch(event.request)
-      .then(networkResponse => {
-        // If we have internet, return the fresh version
-        return networkResponse;
-      })
-      .catch(() => {
-        // If internet fails, look in the cache
-        return caches.match(event.request);
-      })
+    caches.match(event.request).then(cachedResponse => {
+      // Return cached version if found, otherwise fetch from network
+      return cachedResponse || fetch(event.request).then(networkResponse => {
+        // Optional: dynamically cache new fetched assets if valid
+        return caches.open(cacheName).then(cache => {
+          if (networkResponse.status === 200) {
+            cache.put(event.request, networkResponse.clone());
+          }
+          return networkResponse;
+        });
+      }).catch(() => {
+        // Fallback for offline page navigation if needed
+        if (event.request.headers.get('accept').includes('text/html')) {
+          return caches.match('/');
+        }
+      });
+    })
   );
 });
