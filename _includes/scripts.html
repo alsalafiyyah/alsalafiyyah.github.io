@@ -362,12 +362,6 @@ document.addEventListener("DOMContentLoaded", function () {
 </script>
 {% endif %}
 
-  <script>
-    if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('/sw.js');
-    }
-  </script>
-
 <script>
 // Safely capture the Jekyll translation variable for use in JS
 const submitReportText = "{{ site.site_elements.submit | default: 'Submit Report' }}";
