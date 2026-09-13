@@ -117,7 +117,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     <div class="space-y-2">
                         <div class="flex items-center justify-between">
                             <span class="text-[10px] font-bold opacity-50">${postDate}</span>
-                            <span class="text-[10px] font-black uppercase tracking-widest bg-black/5 dark:bg-white/10 px-2 py-0.5 text-red-500">Audio Stream</span>
+                            <span class="text-[10px] font-black uppercase tracking-widest bg-black/5 dark:bg-white/10 px-2 py-0.5 text-red-500">Audio</span>
                         </div>
                         <a href="${post.url}"><h3 class="text-xl md:text-2xl font-black uppercase tracking-tighter serif group-hover:underline leading-snug">
                             ${post.title}
@@ -126,7 +126,7 @@ document.addEventListener("DOMContentLoaded", function () {
                             ${post.summary}
                         </p>
                     </div>
-                    <div class="pt-2 flex items-center gap-4">
+                    <div class="pt-2 flex items-center gap-4 hidden">
                         <div x-data="{ playing: false, audio: new Audio('${post.audio}') }">
                             <button 
                                 @click="playing ? audio.pause() : audio.play(); playing = !playing"
