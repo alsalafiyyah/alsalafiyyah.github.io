@@ -3,7 +3,7 @@
       if (document.getElementById('accessed-on')) {
         var now = new Date();
         var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-        var formattedDate = now.getDate().padStart(2,'0')+" "+months[now.getMonth()]+" "+now.getFullYear();
+        var formattedDate = String(now.getDate()).padStart(2,'0')+" "+months[now.getMonth()]+" "+now.getFullYear();
         document.getElementById('accessed-on').textContent = " (accessed " + formattedDate + ")";
       }
     }
@@ -15,13 +15,14 @@
           })
           .then((commits) => {
             var modified = commits[0]['commit']['committer']['date'].slice(0,10);
-            if(modified != "{{ page.date | date: "%d %b, %Y" }}") {
+            // Fixed: Wrapped Liquid tag in single quotes so it doesn't break JS syntax
+            if(modified != '{{ page.date | date: "%Y-%m-%d" }}') {
               document.getElementById('last-modified').textContent = " " + modified + " ";
             }
           });
       }
     }
-  </script>
+</script>
 <script defer type="text/javascript">(function(a,b,c){if(c in b&&b[c]){var d,e=a.location,f=/^(a|html)$/i;a.addEventListener("click",function(a){d=a.target;while(!f.test(d.nodeName))d=d.parentNode;"href"in d&&(d.href.indexOf("http")||~d.href.indexOf(e.host))&&(a.preventDefault(),e.href=d.href)},!1)}})(document,window.navigator,"standalone")</script>
 
   <script>
@@ -367,8 +368,10 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   </script>
 
-<!-- Scripts for Dark / Light Theme Toggle Logic, Image Modal, Text Toggle, Tabs & Category Scrolling -->
 <script>
+// Safely capture the Jekyll translation variable for use in JS
+const submitReportText = "{{ site.site_elements.submit | default: 'Submit Report' }}";
+
 // Global share callback (kept outside or accessible globally for inline handlers)
 function callback(response) {
     console.log(response);
@@ -620,7 +623,7 @@ document.addEventListener("DOMContentLoaded", () => {
             .finally(() => {
                 if (submitBugBtn) {
                     submitBugBtn.disabled = false;
-                    submitBugBtn.innerText = "{{ site.site_elements.submit | default: 'Submit Report' }}";
+                    submitBugBtn.innerText = submitReportText;
                 }
             });
         });
