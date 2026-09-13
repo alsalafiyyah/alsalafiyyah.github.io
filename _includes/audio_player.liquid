@@ -1,18 +1,13 @@
-<div class="p-8 mb-6 border-4 border-black dark:border-white bg-white dark:bg-zinc-950 flex flex-col gap-4 transition-colors hidden">
-    <div class="flex flex-col">
-        <span class="text-[10px] font-black uppercase tracking-[0.2em] block text-gray-400">Audio</span>
-        <h4 class="text-lg font-bold italic serif dark:text-white truncate" title="{{ page.title }}">
-            {{ page.title }}
-        </h4>
-    </div>
-    <!-- Native HTML5 Player -->
-    <audio controls class="w-full h-10 accent-black dark:accent-white" preload="metadata">
-        <source src="{{ page.mp3 }}" type="audio/mpeg">
-        Your browser does not support the audio element.
-    </audio>
+<div class="flex flex-col items-center justify-center mb-10">
+  <audio 
+    src="{{ page.mp3 }}" 
+    controls
+    class="w-full max-w-md rounded-lg shadow-md bg-slate-800 accent-emerald-800 filter invert contrast-125 dark:invert-0">
+    Your browser does not support the audio element.
+  </audio>
 </div>
 
-<div class="mb-10">
+<div class="mb-10 hidden">
 <media-theme-tailwind-audio style="width:100%">
   <audio
     slot="media"
