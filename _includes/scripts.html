@@ -126,26 +126,6 @@ document.addEventListener("DOMContentLoaded", function () {
                             ${post.summary}
                         </p>
                     </div>
-                    <div class="pt-2 flex items-center gap-4 hidden">
-                        <div x-data="{ playing: false, audio: new Audio('${post.audio}') }">
-                            <button 
-                                @click="playing ? audio.pause() : audio.play(); playing = !playing"
-                                class="flex items-center justify-center w-10 h-10 bg-red-600 hover:bg-red-700 text-white rounded-full shadow-lg transition focus:outline-none"
-                                :aria-label="playing ? 'Pause' : 'Play'">
-                                <!-- Play Icon -->
-                                <svg x-show="!playing" class="w-6 h-6 translate-x-0.5" fill="currentColor" viewBox="0 0 24 24">
-                                    <path d="M8 5v14l11-7z"/>
-                                </svg>
-                                <!-- Pause Icon -->
-                                <svg x-show="playing" class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
-                                    <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/>
-                                </svg>
-                            </button>
-                        </div>
-                        <a href="${post.url}" class="text-[10px] font-black uppercase tracking-widest text-black dark:text-white group-hover:text-red-500 transition-colors">
-                            Read more →
-                        </a>
-                    </div>
                 </article>
             `;
         }
