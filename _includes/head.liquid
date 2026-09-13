@@ -170,16 +170,13 @@
 </script>
 
 <script>
-  tailwind.config = {
-    darkMode: 'class'
+  if (localStorage.getItem('theme') === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+      document.documentElement.classList.add('dark');
+  } else {
+      document.documentElement.classList.remove('dark');
   }
-        // Theme initialization
-        if (localStorage.getItem('theme') === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-            document.documentElement.classList.add('dark');
-        } else {
-            document.documentElement.classList.remove('dark');
-        }
 </script>
+
 <script type="application/ld+json">
 [
   {

@@ -387,30 +387,33 @@ function onShareCLick() {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
-    // --- 1. Dark / Light Theme Toggle Logic ---
-    const themeToggleDarkIcon = document.getElementById('theme-toggle-dark-icon');
-    const themeToggleLightIcon = document.getElementById('theme-toggle-light-icon');
-    const themeToggleBtn = document.getElementById('theme-toggle');
+      const themeToggleDarkIcon = document.getElementById('theme-toggle-dark-icon');
+      const themeToggleLightIcon = document.getElementById('theme-toggle-light-icon');
+      const themeToggleBtn = document.getElementById('theme-toggle');
 
-    if (themeToggleDarkIcon && themeToggleLightIcon && themeToggleBtn) {
-        if (document.documentElement.classList.contains('dark')) {
-            themeToggleLightIcon.classList.remove('hidden');
-        } else {
-            themeToggleDarkIcon.classList.remove('hidden');
-        }
+      if (themeToggleDarkIcon && themeToggleLightIcon && themeToggleBtn) {
+          // Sync initial icon state based on current class
+          if (document.documentElement.classList.contains('dark')) {
+              themeToggleLightIcon.classList.remove('hidden');
+              themeToggleDarkIcon.classList.add('hidden');
+          } else {
+              themeToggleDarkIcon.classList.remove('hidden');
+              themeToggleLightIcon.classList.add('hidden');
+          }
 
-        themeToggleBtn.addEventListener('click', function() {
-            themeToggleDarkIcon.classList.toggle('hidden');
-            themeToggleLightIcon.classList.toggle('hidden');
-            if (document.documentElement.classList.contains('dark')) {
-                document.documentElement.classList.remove('dark');
-                localStorage.setItem('theme', 'light');
-            } else {
-                document.documentElement.classList.add('dark');
-                localStorage.setItem('theme', 'dark');
-            }
-        });
-    }
+          themeToggleBtn.addEventListener('click', function() {
+              themeToggleDarkIcon.classList.toggle('hidden');
+              themeToggleLightIcon.classList.toggle('hidden');
+              
+              if (document.documentElement.classList.contains('dark')) {
+                  document.documentElement.classList.remove('dark');
+                  localStorage.setItem('theme', 'light');
+              } else {
+                  document.documentElement.classList.add('dark');
+                  localStorage.setItem('theme', 'dark');
+              }
+          });
+      }
 
     // --- 2. Tabs Logic ---
     const container = document.getElementById("fatwa-tabs-container");

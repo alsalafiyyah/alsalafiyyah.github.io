@@ -8,6 +8,7 @@ module.exports = {
     './_includes/**/*.html',
     './_includes/**/*.liquid',
  ],
+ darkMode: 'class',
   theme: {
     extend: {},
  },
