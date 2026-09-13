@@ -204,7 +204,8 @@ layout: null
                             {% assign video_posts = site.posts | where_exp: "post", "post.active == 'videos'" %}
                             {% for post in video_posts limit:5 %}
                             <a href="{{ post.url | relative_url }}" class="flex items-start group">
-                                <img src="https://img.youtube.com/vi/{{ post.videoID }}/hqdefault.jpg?v={{ site.time | date: '%s' }}" alt="{{ post.title }}" class="w-20 h-20 flex-shrink-0 mr-4 object-cover"/>
+                                {% capture cache_id %}{{ site.time | date: '%s' }}{% endcapture %}
+                                <img src="https://img.youtube.com/vi/{{ post.videoID }}/hqdefault.jpg?v=v={{ cache_id | strip }}" alt="{{ post.title }}" class="w-20 h-20 flex-shrink-0 mr-4 object-cover"/>
                                 <div class="flex-grow min-w-0 flex flex-col">
                                     <p class="mb-0.5 block font-bold group-hover:underline">{{ post.title }}</p>
                                     <p class="text-zinc-600 dark:text-zinc-400 text-xs mt-auto font-sans">{{ post.hijri }} \ {{ post.date | date: "%Y-%m-%d" }}</p>
