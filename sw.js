@@ -1,8 +1,8 @@
 const cacheName = 'alsalafiyyah-v1.1';
 const assets = [
   '/',
-  '/index.md',
-  '/assets/custom-styles.css',
+  '/index.html',
+  '/assets/css/main.css',
   '/assets/icons/web-app-manifest-192x192.png',
   '/assets/icons/web-app-manifest-512x512.png'
 ];
