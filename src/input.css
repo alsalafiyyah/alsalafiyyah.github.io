@@ -2,6 +2,9 @@
 @import "tailwindcss";
 
 @custom-variant dark (&:where(.dark, .dark *));
+@utility dark {
+  variant: [class~="dark"] &;
+}
 
 @theme {
   --font-serif: "Playfair Display", serif;
