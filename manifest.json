@@ -29,6 +29,7 @@
     }
   ],
   "start_url": "/?utm_source=pwa",
+  "id": "/?utm_source=pwa",
   "background_color": "#ffffff",
   "display": "standalone",
   "display_override": ["window-controls-overlay", "minimal-ui"],
