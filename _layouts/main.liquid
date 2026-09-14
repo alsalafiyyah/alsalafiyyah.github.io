@@ -160,11 +160,11 @@ layout: null
                 <!-- Tab Content Panels -->
                 <div class="tab-contents">
                     <!-- Recent Fatwas Panel -->
-                    <div id="panel-recent" class="tab-panel space-y-2">
-                        <div class="space-y-2 py-3 flex flex-col">
+                    <div id="panel-recent" class="tab-panel">
+                        <div class="flex flex-col gap-6 py-3">
                             {% for post in site.posts limit:5 %}
                             {% if post.url == featured_post.url %}{% continue %}{% endif %}
-                            <div class="flex flex-col">
+                            <div class="flex flex-col gap-2">
                                 <h3 class="flex items-center font-sans font-bold text-xs text-zinc-600 dark:text-zinc-400 mb-3.5">
                                     <span class="w-2 h-2 rounded-full bg-red-500 flex-shrink-0 mr-2.5"></span>
                                         {{ post.hijri }} \ {{ post.date | date: "%Y-%m-%d" }}
@@ -204,13 +204,11 @@ layout: null
                             {% assign video_posts = site.posts | where_exp: "post", "post.active == 'videos'" %}
                             {% for post in video_posts limit:5 %}
 <a href="{{ post.url | relative_url }}" class="flex items-start group">
-    <!-- SVG Play Icon Box (Replacing the YouTube Image) -->
-    <div class="w-20 h-20 flex-shrink-0 mr-4 rounded bg-zinc-200 dark:bg-zinc-800 flex items-center justify-center transition-colors duration-300 group-hover:bg-red-600">
+    <div class="w-10 h-10 flex-shrink-0 mr-4 rounded bg-zinc-200 dark:bg-zinc-800 flex items-center justify-center transition-colors duration-300 group-hover:bg-red-600">
         <svg class="w-8 h-8 text-zinc-600 dark:text-zinc-300 transition-colors duration-300 group-hover:text-white" fill="currentColor" viewBox="0 0 24 24">
             <path d="M8 5v14l11-7z"/>
         </svg>
     </div>
-
     <!-- Post Details -->
     <div class="flex-grow min-w-0 flex flex-col">
         <p class="mb-0.5 block font-bold group-hover:underline">{{ post.title }}</p>
