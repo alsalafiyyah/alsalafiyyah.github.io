@@ -23,5 +23,20 @@
   "scope": "/",
   "theme_color": "#ffffff",
   "orientation": "portrait-primary",
-  "categories": ["islam", "fatwas", "salafi", "manhaj", "sunnah"]
+  "categories": ["islam", "fatwas", "salafi", "manhaj", "sunnah"],
+  "screenshots": [
+    {
+      "src": "/assets/screenshots/desktop.png",
+      "sizes": "1280x800",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Desktop application home screen"
+    },
+    {
+      "src": "/assets/screenshots/mobile.png",
+      "sizes": "390x844",
+      "type": "image/png",
+      "label": "Mobile application home screen"
+    }
+  ]
 }
