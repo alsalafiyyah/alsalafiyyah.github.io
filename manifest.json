@@ -40,14 +40,14 @@
   "screenshots": [
     {
       "src": "/assets/screenshots/desktop.png",
-      "sizes": "1280x800",
+      "sizes": "994x592",
       "type": "image/png",
       "form_factor": "wide",
       "label": "Desktop application home screen"
     },
     {
       "src": "/assets/screenshots/mobile.png",
-      "sizes": "1170x2532",
+      "sizes": "1080x1920",
       "type": "image/png",
       "label": "Mobile application home screen"
     }
