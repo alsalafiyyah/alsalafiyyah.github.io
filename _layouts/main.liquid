@@ -159,18 +159,23 @@ layout: null
 
                 <!-- Tab Content Panels -->
                 <div class="tab-contents">
+
                     <!-- Recent Fatwas Panel -->
-                    <div id="panel-recent" class="tab-panel">
-                        <div class="flex flex-col gap-6 py-3">
+                    <div id="panel-audio" class="tab-panel space-y-6 hidden">
+                        <div class="space-y-6 py-3 flex flex-col">
                             {% for post in site.posts limit:5 %}
                             {% if post.url == featured_post.url %}{% continue %}{% endif %}
-                            <div class="flex flex-col gap-2">
-                                <h3 class="flex items-center font-sans font-bold text-xs text-zinc-600 dark:text-zinc-400 mb-3.5">
-                                    <span class="w-2 h-2 rounded-full bg-red-500 flex-shrink-0 mr-2.5"></span>
-                                        {{ post.hijri }} \ {{ post.date | date: "%Y-%m-%d" }}
-                                </h3>
-                                <a href="{{ post.url | relative_url }}" class="font-medium hover:underline">{{ post.title }}</a>
-                            </div>
+                            <a href="{{ post.url | relative_url }}" class="flex items-start gap-3 group" title="{{ post.title }}">
+                                <span class="w-2 h-2 rounded-full bg-red-500 flex-shrink-0 mr-2.5"></span>
+                                    <title>{{ post.title }}</title>
+                                </svg>
+                                <div class="flex flex-col">
+                                     <span class="text-[10px] font-bold text-zinc-600 dark:text-zinc-400 block mb-1">
+                                          {{ post.hijri }} \ {{ post.date | date: "%Y-%m-%d" }}
+                                     </span>
+                                     <span class="text-base font-bold group-hover:underline">{{ post.title }}</span>
+                                </div>
+                            </a>
                             {% endfor %}
                         </div>
                     </div>
