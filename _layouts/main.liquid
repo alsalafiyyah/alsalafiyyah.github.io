@@ -161,7 +161,7 @@ layout: null
                 <div class="tab-contents">
 
                     <!-- Recent Fatwas Panel -->
-                    <div id="panel-audio" class="tab-panel space-y-6 hidden">
+                    <div id="panel-recent" class="tab-panel space-y-6">
                         <div class="space-y-6 py-3 flex flex-col">
                             {% for post in site.posts limit:5 %}
                             {% if post.url == featured_post.url %}{% continue %}{% endif %}
