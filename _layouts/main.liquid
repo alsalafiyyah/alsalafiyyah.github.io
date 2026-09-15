@@ -140,8 +140,46 @@ layout: null
             </div>
         </div>
 
-<!-- Column 3: Tabbed Content -->
-        <div class="col-span-1 flex flex-col justify-between h-full space-y-6 lg:border-l-2 border-t-2 lg:border-t-0 border-black/10 dark:border-white/10 lg:pl-6 pt-8 lg:pt-0" id="fatwa-tabs-container">
+<!-- Column 3: Recent Content -->
+        <div class="col-span-1 flex flex-col justify-between h-full space-y-6 lg:border-l-2 border-t-2 lg:border-t-0 border-black/10 dark:border-white/10 lg:pl-6 pt-8 lg:pt-0" id="fatwa-recent-container">
+            <div>
+                <!-- Section Header -->
+                <div class="flex items-center gap-4 mb-6 border-b-2 border-yellow-700/10 space-x-6 dark:border-white/10 pb-3 text-xs font-black uppercase tracking-wider">
+                    <span class="text-black dark:text-white border-b-2 border-red-500 dark:border-white pb-1 whitespace-nowrap">
+                        Recent Fatwas
+                    </span>
+                </div>
+                <!-- /Section Header -->
+
+                <!-- Recent Fatwas Content -->
+                <div class="space-y-6">
+                    <div class="space-y-6 py-3 flex flex-col">
+                        {% for post in site.posts limit:5 %}
+                        {% if post.url == featured_post.url %}{% continue %}{% endif %}
+                        <a href="{{ post.url | relative_url }}" class="flex items-start gap-3 group" title="{{ post.title }}">
+                            <span class="w-2 h-2 rounded-full bg-red-500 flex-shrink-0 mr-2.5 mt-2"></span>
+                            <div class="flex flex-col">
+                                <span class="text-[10px] font-bold text-zinc-600 dark:text-zinc-400 block mb-1">
+                                    {{ post.hijri }} \ {{ post.date | date: "%Y-%m-%d" }}
+                                </span>
+                                <span class="text-base font-bold group-hover:underline">{{ post.title }}</span>
+                            </div>
+                        </a>
+                        {% endfor %}
+                    </div>
+                    <div class="flex flex-col w-full pt-6">
+                        <div class="w-full flex h-0.5 bg-yellow-700 bg-opacity-10"><div class="w-1/2 bg-red-500 h-full"></div></div>
+                        <a href="/fatwas/" class="font-sans text-xs uppercase font-bold pt-5 flex w-full">View All Fatwas
+                            <svg viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" class="w-3.5 ml-auto text-red-500"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+                        </a>
+                    </div>
+                </div>
+                <!-- /Recent Fatwas Content -->
+            </div>
+        </div>
+<!-- /Column 3: Tabbed Content -->
+
+        <div class="col-span-1 flex flex-col justify-between h-full space-y-6 lg:border-l-2 border-t-2 lg:border-t-0 border-black/10 dark:border-white/10 lg:pl-6 pt-8 lg:pt-0 hidden" id="fatwa-tabs-container">
             <div>
                <!-- Tab Navigation Headers -->
                <div class="flex items-center gap-4 mb-6 border-b-2 border-yellow-700/10 space-x-6 dark:border-white/10 pb-3 text-xs font-black uppercase tracking-wider overflow-x-auto">
@@ -245,18 +283,6 @@ layout: null
 
                 </div>
                 <!-- /Tab Content Panels -->
-
-                <div class="flex flex-col w-full pt-4 hidden">
-                    <div class="w-full flex h-0.5 bg-yellow-700/10 dark:bg-white/10">
-                        <div class="w-1/2 bg-red-500 h-full"></div>
-                    </div>
-                    <a href="{{ '/fatwas' | relative_url }}" class="font-sans text-xs uppercase font-bold pt-5 flex w-full">View All Fatwas
-                        <svg viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" class="w-3.5 ml-auto text-red-500">
-                            <line x1="5" y1="12" x2="19" y2="12"></line>
-                            <polyline points="12 5 19 12 12 19"></polyline>
-                        </svg>
-                    </a>
-                </div>
 
             </div>
         </div>
