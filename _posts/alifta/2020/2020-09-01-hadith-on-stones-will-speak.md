@@ -37,7 +37,9 @@ It was also reported by Ibn Majah on the authority of Abu Umamah Al-Bahily who s
 
 > Shaykhul-Islam Ibn Taymiyyah (may Allah have mercy on him) said: **"The Jews are in fact awaiting the dajjal, for he is the one whom the Jews will follow. Seventy thousand of the Jews of Isfahan (City in Iran)[^7] wearing tayalisah (a kind of head covering) will emerge with him. The Muslims will fight them with him, to the extent that trees and rocks will say: *“O Muslim, here is a Jew behind me; come and kill him.”*** [^8]
 
-Also read: 
+<hr class="my-6 h-px border-0 bg-gray-200 dark:bg-gray-700">
+
+### Also read: 
 
 - [The Jews gathering in Palestine is from the signs of the Hour](https://alsalafiyyah.github.io/audios/jews-gathering-in-palestine-is-sign-of-the-hour/)
 - [What is the future of occupied Jerusalem?](https://alsalafiyyah.github.io/audios/zionists-jews-occupation-of-palestine/)
@@ -47,7 +49,9 @@ Also read:
 - [Al-Aqsa Crisis](https://alsalafiyyah.github.io/audios/al-aqsa-crisis/)
 - [The Wrath-Incurring Nation](https://alsalafiyyah.github.io/muqolat/the-wrath-incurring-nation/)
 - [Understanding the Hadith of the Stone and the Tree](https://alsalafiyyah.github.io/audios/understanding-the-hadith-of-the-stone-and-the-tree/)
+- [The Jews are violators of covenants throughout history](https://alsalafiyyah.github.io/audios/the-jews-are-violators-of-covenants-throughout-history/)
 
+<hr class="my-6 h-px border-0 bg-gray-200 dark:bg-gray-700">
 
 [^1]: Musnad Imam Ahmad, vol. 2, pp. 67, 122, 131, 149, 398, 417, and 530, and vol. 4, p. 217; Al-Bukhari, Fathul-Bari, no. 3593 and 2925; Muslim, nos. 2921 and 2922; and Al-Tirmidhi, Al-Jami', no. 2237.
 [^2]: Al-Bukhari, Sahih, Book on merits and virtues, no. 2593; Muslim, Sahih, Book on trials and signs of the Hour, no. 2921; At-Tirmidhi, Sunan, Book on trials, no. 2236; and Musnad Ahmad, vol. 2, p. 135.
