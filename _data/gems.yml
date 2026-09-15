@@ -1,0 +1,21 @@
+categories:
+
+  - name: "Inspirational"
+    quotes:
+      - text: "We are followers of the Quran, the Sunnah, the righteous predecessors of the nation, and what is relied upon from the statements of the four Imams."
+        author: "Imam Abdulaziz bin Muhammad bin Saud"
+        source: "Al-Durar al-Saniyyah, 1/97"
+
+      - text: "And we are not, praise be to Allah, followers of the ambiguous verses of the Revelation, nor do we oppose the interpretation held by the Imams of the Sunnah."
+        author: "Imam Saud bin Abdulaziz bin Muhammad"
+        source: "Al-Durar al-Saniyyah, 1/290"
+
+  - name: "Wisdom"
+    quotes:
+      - text: "I am a Salafi man, and my creed is the Salafi creed, according to which I follow the Qur'an and the Sunnah."
+        author: "King Abdulaziz bin Abdulrahman Al Saud"
+
+  - name: "Wisdom"
+    quotes:
+      - text: "Ever since we assumed the reins of power, our primary concern has been to hold fast to the Book of Allah (the Qur'an), be guided by the guidance of the Messenger of Allah, and follow the traditions of his successors among the righteous Salaf (al-Salaf al-Salih)."
+        author: "King Saud bin Abdulaziz Al Saud"
