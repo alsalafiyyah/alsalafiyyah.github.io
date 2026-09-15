@@ -6,8 +6,10 @@
         {% assign featured_fatwa = site.posts | where: "slug", "who-are-the-salaf" %}
         {% for post in featured_fatwa %}
         <h2 class="text-6xl md:text-[5vw] lg:text-[4.5vw] font-black uppercase tracking-tighter leading-[0.85] serif">
-            <a href="{{ post.url | relative_url }}" class="hover:line-through transition-all">
-               {{ post.title }}
+            <a href="{{ post.url | relative_url }}">
+               Who are the
+                      <span class="relative font-bold">Salaf<svg width="453" height="8" fill="none" xmlns="http://www.w3.org/2000/svg" class="absolute -bottom-1 left-0 w-full"><path d="M2 6.75068C53.4722 -1.10509 368.533 2.14284 451.5 6.75085" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"></path></svg>
+        </span>
             </a>
         </h2>
         <div class="flex items-center gap-6 text-[10px] font-black uppercase tracking-widest text-zinc-600 dark:text-zinc-400">
