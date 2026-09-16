@@ -1,29 +1,56 @@
 ---
 layout: null
 sitemap:
-  exclude: 'yes'
+  exclude: 'yes'
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {% assign default_date = site.time | date_to_xmlschema %}
-  {% assign published_posts = site.posts | where_exp: "item", "item.published != false" %}
-  {% for post in published_posts %}
-    {% assign p_site = post.sitemap %}
-    <url>
-      <loc>{{ site.url }}{{ post.url }}</loc>
-      <lastmod>{% if p_site.lastmod %}{{ p_site.lastmod | date: "%Y-%m-%d" }}{% elsif post.date %}{{ post.date | date_to_xmlschema }}{% else %}{{ default_date }}{% endif %}</lastmod>
-      <changefreq>{{ p_site.changefreq | default: "monthly" }}</changefreq>
-      <priority>{{ p_site.priority | default: "0.5" }}</priority>
-    </url>
-  {% endfor %}
-  {% assign eligible_pages = site.pages | where_exp: "item", "item.sitemap.exclude != 'yes' and item.name != 'feed.xml'" %}
-  {% for page in eligible_pages %}
-    {% assign p_site = page.sitemap %}
-    <url>
-      <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
-      <lastmod>{% if p_site.lastmod %}{{ p_site.lastmod | date: "%Y-%m-%d" }}{% elsif page.date %}{{ page.date | date_to_xmlschema }}{% else %}{{ default_date }}{% endif %}</lastmod>
-      <changefreq>{{ p_site.changefreq | default: "monthly" }}</changefreq>
-      <priority>{{ p_site.priority | default: "0.3" }}</priority>
-    </url>
-  {% endfor %}
+  {% for post in site.posts %}
+    {% unless post.published == false %}
+    <url>
+      <loc>{{ site.url }}{{ post.url }}</loc>
+      {% if post.sitemap.lastmod %}
+        <lastmod>{{ post.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
+      {% elsif post.date %}
+        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+      {% else %}
+        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      {% if post.sitemap.changefreq %}
+        <changefreq>{{ post.sitemap.changefreq }}</changefreq>
+      {% else %}
+        <changefreq>monthly</changefreq>
+      {% endif %}
+      {% if post.sitemap.priority %}
+        <priority>{{ post.sitemap.priority }}</priority>
+      {% else %}
+        <priority>0.5</priority>
+      {% endif %}
+    </url>
+    {% endunless %}
+  {% endfor %}
+  {% for page in site.pages %}
+    {% unless page.sitemap.exclude == "yes" or page.name == "feed.xml" %}
+    <url>
+      <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
+      {% if page.sitemap.lastmod %}
+        <lastmod>{{ page.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
+      {% elsif page.date %}
+        <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
+      {% else %}
+        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      {% if page.sitemap.changefreq %}
+        <changefreq>{{ page.sitemap.changefreq }}</changefreq>
+      {% else %}
+        <changefreq>monthly</changefreq>
+      {% endif %}
+      {% if page.sitemap.priority %}
+        <priority>{{ page.sitemap.priority }}</priority>
+      {% else %}
+        <priority>0.3</priority>
+      {% endif %}
+    </url>
+    {% endunless %}
+  {% endfor %}
 </urlset>
