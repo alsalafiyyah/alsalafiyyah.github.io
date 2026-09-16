@@ -4,7 +4,7 @@ layout: main
 
 <!-- Top Section: Hero Block -->
 <section class="mb-16 pb-12 border-b-2 border-black/10 dark:border-white/10 mt-10">
-    {% include_cached hero.liquid %}
+    {% include_cached hero.liquid %}
 </section>
 <!-- /Top Section: Hero Block -->
 
@@ -17,7 +17,7 @@ layout: main
             <div class="border-2 border-black dark:border-white overflow-hidden transition-colors duration-300">
                 <!-- Vertical Image Preview with Modal Trigger -->
                 <div class="relative group cursor-pointer w-full bg-gray-50 dark:bg-zinc-900 border-b-2 border-black dark:border-white" id="open-modal-btn">
-                    <img src="{{ site.img_url }}/img.jpg?v={{ site.time | date: '%s' }}" alt="Circulated Image of Imam Muhammad bin Abd al-Wahhab" class="w-full h-auto block object-cover">
+                    <img src="{{ site.img_url }}/img.jpg" alt="Circulated Image of Imam Muhammad bin Abd al-Wahhab" class="w-full h-auto block object-cover">
                     <!-- Zoom Hint Overlay -->
                     <div class="absolute inset-0 bg-black/60 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center text-white text-xs uppercase font-black tracking-widest pointer-events-none">
                         Click to View Full Image
@@ -57,7 +57,7 @@ layout: main
                                 <strong>On the left side (The Truth):</strong> This information is incorrect. The person sitting on the chair is Sheikh Abdullah bin Isa bin Ali Al Khalifa, a son of the ruler of Bahrain, and not Imam Muhammad ibn Saud... It is worth noting that the first photograph was taken in 1826, and the invention of photography was announced on August 19, 1839.
                             </p>
                             <p class="text-xs font-normal leading-relaxed text-zinc-600 dark:text-zinc-400">
-                                Source: <a href="https://mujaddid.net/%d8%b5%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d9%85-%d8%a7%d9%84%d9%85%d8%ac%d8%af%d8%af-%d9%85%d8%ad%d9%85%d8%af%d8%a8%d9%86-%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%88%d9%87%d8%a7%d8%a8-%d8%a7/" target="_blank" class="underline font-bold hover:text-red-500">صورة الإمام محمد بن عبدالوهاب الفوتوغرافية بين الكذب والحقيقة؟!</a>
+                                Source: <a href="https://mujaddid.net/%d8%b5%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d9%85-%d8%a7%d9%84%d9%85%d8%ac%d8%af%d8%af-%d9%85%d8%ad%d9%85%d8%ad%d9%85%d8%af%d8%a8%d9%86-%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%88%d9%87%d8%a7%d8%a8-%d8%a7/" target="_blank" class="underline font-bold hover:text-red-500">صورة الإمام محمد بن عبدالوهاب الفوتوغرافية بين الكذب والحقيقة؟!</a>
                             </p>
                         </div> 
                         <!-- /Full Text -->
@@ -75,8 +75,9 @@ layout: main
 
         <!-- Column 2: Muqolat -->
         <div class="col-span-1 flex flex-col space-y-6 hidden md:block">
-            {% assign featured_muqolat_post = site.posts | where: "featured_muqolat", true | first %}
-            <div class="relative bg-cover bg-no-repeat bg-center flex flex-col justify-end min-h-[450px] overflow-hidden" style="background-image:url('{{ featured_muqolat_post.img | relative_url }}?v={{ site.time | date: '%s' }}')">
+            {% assign category_muqolat = site.categories.muqolat | default: site.posts %}
+            {% assign featured_muqolat_post = category_muqolat | where: "featured_muqolat", true | first %}
+            <div class="relative bg-cover bg-no-repeat bg-center flex flex-col justify-end min-h-[450px] overflow-hidden" style="background-image:url('{{ featured_muqolat_post.img | relative_url }}')">
                 <!-- Top Badge -->
                 <span class="text-xs font-sans font-bold text-white absolute left-6 top-6 pb-2.5 border-b-2 border-red-500 z-10">
                     Muqolat
@@ -98,8 +99,8 @@ layout: main
 
             <!-- Bottom Part: Standard Muqolat List & Button -->
             <div class="flex flex-col space-y-4 pt-2">
-                {% assign muqolat = site.posts | where_exp: "post", "post.active == 'muqolat'" %}
-                {% for post in muqolat limit:2 %}
+                {% assign count = 0 %}
+                {% for post in category_muqolat %}
                     {% if post.url != featured_muqolat_post.url %}
                         <div class="py-1">
                             <span class="text-[10px] font-bold text-zinc-600 dark:text-zinc-400 block mb-1">{{ post.hijri }} \ {{ post.date | date: "%Y-%m-%d" }}</span>
@@ -107,6 +108,8 @@ layout: main
                                 {{ post.title }}
                             </a>
                         </div>
+                        {% assign count = count | plus: 1 %}
+                        {% if count == 2 %}{% break %}{% endif %}
                     {% endif %}
                 {% endfor %}
 
@@ -139,7 +142,6 @@ layout: main
                 <div class="space-y-6">
                     <div class="space-y-6 py-3 flex flex-col">
                         {% for post in site.posts limit:5 %}
-                        {% if post.url == featured_post.url %}{% continue %}{% endif %}
                         <a href="{{ post.url | relative_url }}" class="flex items-start gap-3 group" title="{{ post.title }}">
                             <span class="w-2 h-2 rounded-full bg-red-500 flex-shrink-0 mr-2.5 mt-2"></span>
                             <div class="flex flex-col">
