@@ -12,6 +12,7 @@ muftis:
     url: /biography/binbaz/
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa wa Muqolat of Ibn Baz
+permalink: /wahhabism/wahhabism-is-based-on-shunning-bidahs/
 summary: Wahhabism is based on fulfilling the testimony that Muhammad is the Messenger
   of Allah and shunning Bid’ahs and superstitions as well as anything that contradicts
   the legislation brought by the Messenger of Allah, Muhammad peace be upon him.
