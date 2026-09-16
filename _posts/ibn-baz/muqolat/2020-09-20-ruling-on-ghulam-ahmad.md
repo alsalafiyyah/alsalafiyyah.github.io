@@ -7,6 +7,9 @@ lang: en
 date: 2020-09-20
 note: false
 source: Majmu' Fatawa 3/268
+redirect_from:
+  - /ruling-on-ghulam-ahmad/
+  - /ruling-on-ghulam-ahmad/
 category:
 - sects
 - refutals
