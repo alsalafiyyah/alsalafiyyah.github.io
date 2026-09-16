@@ -6,7 +6,7 @@ sitemap:
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   {% assign default_date = site.time | date_to_xmlschema %}
-  {% assign published_posts = site.posts | where_exp: "post", "post.published != false" %}
+  {% assign published_posts = site.posts | where_exp: "item", "item.published != false" %}
   {% for post in published_posts %}
     {% assign p_site = post.sitemap %}
     <url>
@@ -16,7 +16,7 @@ sitemap:
       <priority>{{ p_site.priority | default: "0.5" }}</priority>
     </url>
   {% endfor %}
-  {% assign eligible_pages = site.pages | where_exp: "page", "page.sitemap.exclude != 'yes' and page.name != 'feed.xml'" %}
+  {% assign eligible_pages = site.pages | where_exp: "item", "item.sitemap.exclude != 'yes' and item.name != 'feed.xml'" %}
   {% for page in eligible_pages %}
     {% assign p_site = page.sitemap %}
     <url>
