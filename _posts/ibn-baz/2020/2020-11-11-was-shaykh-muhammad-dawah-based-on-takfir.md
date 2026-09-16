@@ -5,14 +5,13 @@ publisher: alsalafiyyah.manhaj@gmail.com
 hijri: '1442-03-25'
 date: 2020-11-11
 category:
-- fatwas
 - wahhabism
 - manhaj
-note: false
 lang: en
-locale: en
+redirect_from:
+  - /wahhabism/was-shaykh-muhammad-dawah-based-on-takfir/
+  - /wahhabism/was-shaykh-muhammad-dawah-based-on-takfir/
 source: Kitab Rasa'il wa Fatawa Abdulaziz Aal Al-Shaykh p.151
-active: wahhabi
 summary: The Ever-Glorious Qur'an declares anyone who contradicts truth and right
   guidance to be a disbeliever. Thus, there is evidence of Takfir in the Qur'an and
   Sunnah.
