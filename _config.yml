@@ -191,6 +191,8 @@ exclude:
   - Gemfile.lock
   - "sample*.png" 
   - .github/
+  - .devcontainer/
+  - node_modules/
 
 collections:
   categories:
