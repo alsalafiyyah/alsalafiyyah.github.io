@@ -2,7 +2,7 @@
 layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: "Do Wahhabism criticizes the Prophet's family"
-source: Majmu' Fatawa Shaykh ibn Baz 9/230
+source: Majmu' Fatawa Shaykh Abdul-Aziz Ibn Baz 9/230
 hijri: '1441-11-26'
 date: 2020-07-17
 lang: en

@@ -2,7 +2,7 @@
 layout: post
 title: A reply to the claims of BBC
 publisher: alsalafiyyah.manhaj@gmail.com
-source: Majmu' Fatawa Shaykh Ibn Baz 2/380
+source: Majmu' Fatawa Shaykh Abdul-Aziz Ibn Baz 2/380
 hijri: '1441-11-29'
 lang: en
 date: 2020-07-20

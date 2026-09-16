@@ -4,7 +4,7 @@ published: true
 publisher: alsalafiyyah.manhaj@gmail.com
 title: On Shaykh Al-Albani
 hijri: '1442-03-14'
-source: Fatawa Al-Shaykh Ibn Baz vol. 25
+source: Fatawa Al-Shaykh Abdul-Aziz Ibn Baz vol. 25
 lang: en
 category:
 - fitnahs

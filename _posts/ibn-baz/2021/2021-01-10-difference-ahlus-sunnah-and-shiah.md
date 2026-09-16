@@ -2,7 +2,7 @@
 layout: post
 title: The differences between the Ahlus-Sunnah and Shiites
 publisher: alsalafiyyah.manhaj@gmail.com
-source: Fatawa Al-Shaykh Ibn Baz p. 28/258
+source: Fatawa Al-Shaykh Abdul-Aziz Ibn Baz p. 28/258
 category:
 - sects
 hijri: '1442-05-26'

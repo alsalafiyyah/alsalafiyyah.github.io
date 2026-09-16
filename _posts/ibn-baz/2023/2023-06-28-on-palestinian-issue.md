@@ -4,7 +4,7 @@ publisher: alsalafiyyah.manhaj@gmail.com
 title: What is the way of solving the Palestinian issue
 date: 2023-06-28
 hijri: '1444-12-10'
-source: Majmu' Fatawa of al-Shaykh Ibn Baz 1/227
+source: Majmu' Fatawa of al-Shaykh Abdul-Aziz Ibn Baz 1/227
 category:
 - palestine
 tags:
@@ -17,7 +17,7 @@ summary: A solution cannot be reached in this matter unless it is regarded as an
   back to the countries from which they came.
 muftis:
   shaykh:
-  - name: Shaykh Ibn Baz
+  - name: Shaykh Abdul-Aziz Ibn Baz
     url: /biography/binbaz
 ---
 ### Question:

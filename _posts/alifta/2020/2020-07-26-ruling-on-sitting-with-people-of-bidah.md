@@ -8,7 +8,7 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 publisher: alsalafiyyah.manhaj@gmail.com
-source: Majmu' Fatawa wa Maqalat Al-Shaykh Ibn Baz p.28/267
+source: Majmu' Fatawa wa Maqalat Al-Shaykh Abdul-Aziz Ibn Baz p.28/267
 summary: It is not permissible for you to sit with or consider them friends. You have
   to forbid them from doing such Bid'ahs and warn them against their dangers. May
   Allah protect us!

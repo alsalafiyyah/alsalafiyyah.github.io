@@ -4,7 +4,7 @@ published: true
 publisher: alsalafiyyah.manhaj@gmail.com
 title: Commenting on criticism among Du'ah (Callers to Islam)
 hijri: '1442-03-19'
-source: Fatawa Al-Shaykh Ibn Baz p. 7/319
+source: Fatawa Al-Shaykh Abdul-Aziz Ibn Baz p. 7/319
 lang: en
 category:
 - ghibah

@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on Muslims residing in a non-Muslim country
 hijri: '1442-03-11'
-source: Majmu' Fatawa Al-Shaykh Ibn Baz 28/238
+source: Majmu' Fatawa Al-Shaykh Abdul-Aziz Ibn Baz 28/238
 lang: en
 locale: en
 category:

@@ -2,7 +2,7 @@
 layout: post
 title: Ruling on seeking the help of Kafirs in fighting other Kafirs
 publisher: alsalafiyyah.manhaj@gmail.com
-source: Majmu' Fatawa Al-Shaykh Ibn Baz 6/183
+source: Majmu' Fatawa Al-Shaykh Abdul-Aziz Ibn Baz 6/183
 hijri: '1442-01-01'
 date: 2020-08-20
 link: https://shamela.ws/book/21537/9698
@@ -106,7 +106,7 @@ These are the opinions of the scholars that we could collect on this question. M
 
 ---
 
-In another occasion, His Eminence Shaykh Ibn Baz (may Allah be merciful to him) said: 
+In another occasion, His Eminence Shaykh Abdul-Aziz Ibn Baz (may Allah be merciful to him) said: 
 
 As for seeking help from some disbelievers to fight against other disbelievers when necessary, the right opinion is that there is nothing wrong with doing so if the ruler chooses to seek help from some individuals or from a disbelieving country to fight against the aggressive country to ward off aggression according to all proofs. When there is neither a need nor a necessity, it is impermissible to seek their help. When there is a need or a necessity, it is permissible to seek their help as long as this benefits the Muslims and does not harm them. Doing so matches with the Shar'i proofs, because the Prophet (peace be upon him) sought the help of Al-Mut'im Ibn 'Ady upon returning from Al-Ta'if. The Prophet entered Makkah under his protection. He (peace be upon him) sought the help of 'Abdullah ibn Urayqit Al-Diyaly to guide him on the way to Al-Madinah. Both these two men were Mushriks (those who associate others with Allah in His Divinity or worship). 
 
@@ -132,5 +132,5 @@ It is obligatory upon Muslim scholars to reconcile the texts, not to make them s
 
 ### Also read:
 
-- [Islamic Ruling on Seeking Help from Polytheists](/audios/islamic-ruling-on-seeking-help-from-polytheists/) - Shaykh Ibn Baz
-- [Reconciling the Religious Texts Regarding Seeking Assistance from Non-Muslims](/audios/reconciling-the-religious-texts-segarding-seeking-assistance-from-non-muslims/) - Shaykh Ibn Baz
+- [Islamic Ruling on Seeking Help from Polytheists](/audios/islamic-ruling-on-seeking-help-from-polytheists/) - Shaykh Abdul-Aziz Ibn Baz
+- [Reconciling the Religious Texts Regarding Seeking Assistance from Non-Muslims](/audios/reconciling-the-religious-texts-segarding-seeking-assistance-from-non-muslims/) - Shaykh Abdul-Aziz Ibn Baz

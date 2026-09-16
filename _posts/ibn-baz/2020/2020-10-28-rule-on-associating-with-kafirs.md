@@ -4,7 +4,7 @@ publisher: alsalafiyyah.manhaj@gmail.com
 title: Rule on associating with the disbelievers
 hijri: '1442-03-11'
 date: 2020-10-28
-source: Majmu' Fatawa Al-Shaykh Ibn Baz 28/235
+source: Majmu' Fatawa Al-Shaykh Abdul-Aziz Ibn Baz 28/235
 lang: en
 category:
 - fatwas

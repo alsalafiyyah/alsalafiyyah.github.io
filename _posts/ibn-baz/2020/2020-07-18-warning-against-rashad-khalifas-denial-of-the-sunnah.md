@@ -2,7 +2,7 @@
 layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: Warning against Rashad Khalifa's denial of the Sunnah
-source: Majmu' Fatawa Shaykh Ibn Baz 2/400
+source: Majmu' Fatawa Shaykh Abdul-Aziz Ibn Baz 2/400
 lang: en
 category:
 - sects
@@ -13,7 +13,7 @@ summary: I deemed it necessary to disclose his claims and expose his reality bef
   Muslims lest any of them should fall victim to his deceptions and deviant opinions.
 muftis:
   shaykh:
-  - name: Shaykh Ibn Baz
+  - name: Shaykh Abdul-Aziz Ibn Baz
     url: /biography/binbaz
 ---
 All praise be to Allah. May peace and blessings be upon His Messenger and upon his family, Companions, and those who followed him.

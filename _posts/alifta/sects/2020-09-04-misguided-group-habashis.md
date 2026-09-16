@@ -142,7 +142,7 @@ Having stated this clearly to the people, the Committee is asking Allah (Exalted
 
 Peace be upon our Prophet Muhammad, his family, Companions and those who followed them with good. 
 
-[See also Shaykh Ibn Baz (May Allah be merciful to him) on Habashis](/shaykh-ibn-baz-on-abdullah-habashy)
+[See also Shaykh Abdul-Aziz Ibn Baz (May Allah be merciful to him) on Habashis](/shaykh-ibn-baz-on-abdullah-habashy)
 
 
 [^1]: Al-Bukhari, Sahih, Book on testimonies, no. 2652; Muslim, Sahih, Book on merits and virtues, no. 2533; Al-Tirmidhi, Sunan, Book on virtues of the Companions, no. 3859; Ibn Majah, Sunan, Book on judgments, no. 2362; and Ahmad, vol. 1, p. 434.

@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on cursing one's children or wife
 hijri: '1442-03-21'
-source: Fatawa Al-Shaykh Ibn Baz 8/398 and published in Al-Da'wah magazine, issue
+source: Fatawa Al-Shaykh Abdul-Aziz Ibn Baz 8/398 and published in Al-Da'wah magazine, issue
   no. 1320, on 6/6/1412 A.H
 lang: en
 category:

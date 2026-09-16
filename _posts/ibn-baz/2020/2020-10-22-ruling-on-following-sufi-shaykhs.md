@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on following Sufi Shaykhs
 hijri: '1442-03-05'
-source: Fatawa Al-Shaykh Ibn Baz p. 5/383
+source: Fatawa Al-Shaykh Abdul-Aziz Ibn Baz p. 5/383
 lang: en
 category:
 - sects

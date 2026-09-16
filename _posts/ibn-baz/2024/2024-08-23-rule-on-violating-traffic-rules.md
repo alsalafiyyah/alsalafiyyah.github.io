@@ -15,7 +15,7 @@ summary: Because of the grave dangers involved in breaking traffic rules, it is 
   allowed for a Muslim or non Muslim - to break those rules.
 muftis:
   shaykh:
-  - name: Shaykh Ibn Baz
+  - name: Shaykh Abdul-Aziz Ibn Baz
     url: /biography/binbaz
 ---
 ### Question: 

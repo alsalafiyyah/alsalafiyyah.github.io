@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: It is not permissible to delay the marriage of the younger girl
 hijri: '1442-04-18'
-source: Fatawa Shaykh Ibn Baz p. 20/420
+source: Fatawa Shaykh Abdul-Aziz Ibn Baz p. 20/420
 lang: en
 category:
 - marriage

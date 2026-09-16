@@ -11,7 +11,7 @@ lang: en
 summary: "Being knowledgeable of Tawhid is of fundamental importance. It is the basis of religion that Muslims know the meaning of La ilaha illa Allah; Muhammad Rasulullah, none has the right to be worshipped but Allah, Muhammad is the final Messenger of Allah."
 muftis:
   shaykh:
-    - name: Shaykh Ibn Baz
+    - name: Shaykh Abdul-Aziz Ibn Baz
       url: /biography/binbaz
 ---
 

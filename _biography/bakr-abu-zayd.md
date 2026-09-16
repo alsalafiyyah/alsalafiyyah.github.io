@@ -26,7 +26,7 @@ In Makkah, he studied the book of Hajj from Al-Majd ibn Taymiyyah’s Al-Muntaqa
 
 He sought authorization from a teacher in Al-Masjid Al-Haram, namely Shaykh Sulayman ibn `Abdul-Rahman ibn Hamdan, who personally wrote an authorization for him to teach all the books of the Sunnah.
 
-In Al-Madinah, he studied Ibn Hajar’s Fath Al-Bary and Bulugh Al-Maram under Shaykh Ibn Baz (may Allah be merciful to him), including a number of theses in Fiqh, Tawhid (belief in the Oneness of Allah/monotheism), and Hadith in his house. In short, he frequented him for two years, after which Shaykh Ibn Baz (may Allah be merciful to him) authorized him to teach these books.
+In Al-Madinah, he studied Ibn Hajar’s Fath Al-Bary and Bulugh Al-Maram under Shaykh Abdul-Aziz Ibn Baz (may Allah be merciful to him), including a number of theses in Fiqh, Tawhid (belief in the Oneness of Allah/monotheism), and Hadith in his house. In short, he frequented him for two years, after which Shaykh Abdul-Aziz Ibn Baz (may Allah be merciful to him) authorized him to teach these books.
 
 After moving to Al-Madinah, he also frequented Shaykh Muhammad Al-Amin Al-Shanqity (may Allah be merciful to him) for approximately 10 years, until the Shaykh (may Allah be merciful to him) died during Hajj in 1393 A.H. In Tafsir (explanation/exegesis of the meanings of the Qur'an), he studied the Shaykh’s Adwa' Al-Bayan, and the Shaykh’s thesis, Adab Al-Bahth Wal-Munazarah. He also studied Ibn `Abdul-Bar’s Al-Qasd Wal-Umam and some of Al-Inabah. In all, he has received approximately 20 authorizations (to teach different books of knowledge) from the scholars of Makkah, Al-Madinah, Riyadh, Morocco, Syria, India, and Africa, among others.
 

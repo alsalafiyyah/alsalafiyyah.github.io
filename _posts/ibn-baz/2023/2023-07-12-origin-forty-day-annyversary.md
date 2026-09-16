@@ -16,7 +16,7 @@ summary: The origin of this is a Pharaonic custom which was practised by the Pha
   before Islam.
 muftis:
   shaykh:
-  - name: Shaykh Ibn Baz
+  - name: Shaykh Abdul-Aziz Ibn Baz
     url: /biography/binbaz/
 ---
 ### Question: 

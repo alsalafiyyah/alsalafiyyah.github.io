@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: Merits of hastening to marry
 hijri: '1442-04-18'
-source: Fatawa Shaykh Ibn Baz p. 20/421
+source: Fatawa Shaykh Abdul-Aziz Ibn Baz p. 20/421
 lang: en
 category:
 - marriage

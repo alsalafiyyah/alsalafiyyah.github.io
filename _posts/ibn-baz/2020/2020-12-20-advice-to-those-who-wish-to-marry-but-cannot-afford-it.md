@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: Advice to those who wish to marry but cannot afford the expenses
 hijri: '1442-05-05'
-source: Fatawa Shaykh Ibn Baz p. 20/399
+source: Fatawa Shaykh Abdul-Aziz Ibn Baz p. 20/399
 lang: en
 category:
 - marriage

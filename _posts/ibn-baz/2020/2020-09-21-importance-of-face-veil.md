@@ -8,7 +8,7 @@ lang: en
 category:
 - fatwas
 - women
-source: Majmu' Fatawa of Shaykh Ibn Baz 3
+source: Majmu' Fatawa of Shaykh Abdul-Aziz Ibn Baz 3
 note: false
 summary: At the beginning of Islam, hijab was not prescribed for women to display
   their faces and hands in front of men. Then Allah prescribed it and made it obligatory

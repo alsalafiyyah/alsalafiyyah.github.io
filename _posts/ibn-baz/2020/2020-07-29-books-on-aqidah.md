@@ -8,7 +8,7 @@ muftis:
   - name: Shaykh Abdul-Aziz Ibn Baz
     url: /biography/binbaz/
 publisher: alsalafiyyah.manhaj@gmail.com
-source: Fatawa Al-Shaykh Ibn Baz p. 7/179
+source: Fatawa Al-Shaykh Abdul-Aziz Ibn Baz p. 7/179
 summary: The most important book in 'Aqidah is the Qur'an; it is the most truthful,
   the greatest and the noblest book. You should adhere to it as much as possible and
   recite it often. It includes 'Aqidah, guidance to goodness and warning against evil.

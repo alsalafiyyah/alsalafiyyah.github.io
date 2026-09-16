@@ -5,7 +5,7 @@ title: Ruling on joining religious parties
 hijri: '1442-02-21'
 lang: en
 note: false
-source: Majmu' Fatawa Al-Shaykh Ibn Baz p. 7/182, question 2
+source: Majmu' Fatawa Al-Shaykh Abdul-Aziz Ibn Baz p. 7/182, question 2
 category:
 - sects
 - fatwas

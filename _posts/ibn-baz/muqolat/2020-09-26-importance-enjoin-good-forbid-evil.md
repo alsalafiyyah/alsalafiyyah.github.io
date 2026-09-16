@@ -5,7 +5,7 @@ publisher: alsalafiyyah.manhaj@gmail.com
 title: Obligation of enjoining good and forbidding evil
 hijri: '1442-02-09'
 date: 2020-09-26
-source: Majmu' Fatawa Al-Shaykh Ibn Baz 5/58
+source: Majmu' Fatawa Al-Shaykh Abdul-Aziz Ibn Baz 5/58
 lang: en
 locale: en
 category:

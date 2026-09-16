@@ -2,7 +2,7 @@
 layout: post
 title: It is not permissible to rebel against him if revolution leads to greater harm
 publisher: alsalafiyyah.manhaj@gmail.com
-source: Fatawa Al-Shaykh Ibn Baz p. 28/250
+source: Fatawa Al-Shaykh Abdul-Aziz Ibn Baz p. 28/250
 category:
 - rulership
 translation: false

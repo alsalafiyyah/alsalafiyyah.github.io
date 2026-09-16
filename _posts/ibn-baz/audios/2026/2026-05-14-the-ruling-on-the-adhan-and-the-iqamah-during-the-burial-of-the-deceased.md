@@ -17,7 +17,7 @@ lang: en
 translation: false
 muftis:
   shaykh:
-  - name: Shaykh Ibn Baz
+  - name: Shaykh Abdul-Aziz Ibn Baz
     url: /biography/binbaz/
 hijri: '1447-11-27'
 active: audios

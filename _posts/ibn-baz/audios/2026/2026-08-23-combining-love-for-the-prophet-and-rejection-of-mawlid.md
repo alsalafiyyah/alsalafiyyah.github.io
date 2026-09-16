@@ -17,7 +17,7 @@ category:
 summary: "​Loving the righteous is demonstrated by following the good, adhering to their good morals, and adopting their good deeds. This is what love for them means."
 muftis:
   shaykh:
-  - name: Shaykh Ibn Baz
+  - name: Shaykh Abdul-Aziz Ibn Baz
     url: /biography/binbaz/
 ---
 

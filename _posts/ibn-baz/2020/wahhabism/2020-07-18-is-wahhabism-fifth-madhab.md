@@ -2,7 +2,7 @@
 layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: Is Wahhabism a fifth Madhab?
-source: Majmu' Fatawa al-Shaykh Ibn Baz 1/374-375
+source: Majmu' Fatawa al-Shaykh Abdul-Aziz Ibn Baz 1/374-375
 hijri: '1441-11-27'
 date: 2020-07-18
 active: wahhabism

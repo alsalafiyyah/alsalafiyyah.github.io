@@ -4,7 +4,7 @@ publisher: alsalafiyyah.manhaj@gmail.com
 title: Refuting those opining that the rulings of Shari'ah do not match with the present
   time
 hijri: '1442-04-08'
-source: Majmu' Fatawa Shaykh Ibn Baz 4/415
+source: Majmu' Fatawa Shaykh Abdul-Aziz Ibn Baz 4/415
 lang: en
 locale: en
 category:

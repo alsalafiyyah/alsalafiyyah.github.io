@@ -5,7 +5,7 @@ title: Each group claims to be the right group
 hijri: '1442-02-20'
 lang: en
 note: false
-source: Majmu' Fatawa Al-Shaykh Ibn Baz p. 7/119, question 5
+source: Majmu' Fatawa Al-Shaykh Abdul-Aziz Ibn Baz p. 7/119, question 5
 category:
 - sects
 - fatwas

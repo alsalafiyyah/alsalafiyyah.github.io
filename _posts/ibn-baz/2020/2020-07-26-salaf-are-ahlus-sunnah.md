@@ -14,7 +14,7 @@ summary: Salaf are Ahl-us-Sunnah wal-Jama'ah. Accordingly, it is permissible for
   person to relate themselves to Salaf.
 muftis:
   shaykh:
-  - name: Shaykh Ibn Baz
+  - name: Shaykh Abdul-Aziz Ibn Baz
     url: /biography/binbaz
 ---
 ### Question: 

@@ -14,7 +14,7 @@ summary: Wahhabism is based on fulfilling the testimony that Muhammad is the Mes
   the legislation brought by the Messenger of Allah.
 muftis:
   shaykh:
-  - name: Shaykh Ibn Baz
+  - name: Shaykh Abdul-Aziz Ibn Baz
     url: /biography/binbaz
 ---
 Wahhabism is based on fulfilling the testimony that Muhammad is the Messenger of Allah and shunning Bid'ahs and superstitions as well as anything that contradicts the legislation brought by the Messenger of Allah, Muhammad (peace be upon him). This is what Shaykh Muhammad ibn 'Abdul-Wahhab (may Allah be merciful to him) believed in, professed, and invited other people to adopt. Whoever attributes something different from that to the Shaykh, has fabricated a grievous lie against him and has spoken about him without knowledge. Allah (Exalted be He) will punish him with the punishment He threatened to inflict upon liars. 

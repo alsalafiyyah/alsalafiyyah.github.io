@@ -16,7 +16,7 @@ summary: There is no report that the Prophet ﷺ recited a surah of the Qur’an
   verses thereof for the dead, even though he visited them often.
 muftis:
   shaykh:
-  - name: Shaykh Ibn Baz
+  - name: Shaykh Abdul-Aziz Ibn Baz
     url: /biography/binbaz/
 ---
 ### Question: 

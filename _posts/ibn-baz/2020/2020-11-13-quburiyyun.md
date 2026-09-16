@@ -58,6 +58,6 @@ An example of this is the saying of the group who went out with the Prophet (pea
 Thus, the Prophet (peace be upon him) regarded the two statements equal to each other even though the latter said: "**Assign for us a Dhat Anwat**", comparing their saying to that of the Children of Israel, since what counts is the meaning and essence, not just the words.
 
 
-[^1]: Fatawa Shaykh Ibn Baz p.3/136
-[^2]: Fatawa Shaykh Ibn Baz p.3/139
+[^1]: Fatawa Shaykh Abdul-Aziz Ibn Baz p.3/136
+[^2]: Fatawa Shaykh Abdul-Aziz Ibn Baz p.3/139
 [^3]: Al-Tirmidhi, Sunan, Book on trials, no. 2180; and Ahmad ibn Hanbal, Musnad, vol. 5, p. 218.

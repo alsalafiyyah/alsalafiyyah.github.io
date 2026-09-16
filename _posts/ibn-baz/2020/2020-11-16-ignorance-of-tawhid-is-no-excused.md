@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: Can a person be excused for their ignorance regarding the fundamentals of Tawhid
 hijri: '1442-04-01'
-source: Fatawa Al-Shaykh Ibn Baz p. 9/79
+source: Fatawa Al-Shaykh Abdul-Aziz Ibn Baz p. 9/79
 lang: en
 link: https://binbaz.org.sa/fatwas/2351/%D8%A7%D9%85%D9%88%D8%B1-%D8%A7%D9%84%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D9%84%D8%A7-%D8%B9%D8%B0%D8%B1-%D9%81%D9%8A%D9%87%D8%A7
 category:

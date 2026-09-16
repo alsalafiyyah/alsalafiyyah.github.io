@@ -2,7 +2,7 @@
 layout: post
 title: Ruling on those who abstain from enjoining good and forbidding evil
 publisher: alsalafiyyah.manhaj@gmail.com
-source: Majmu' Fatawa wa Maqalat by Shaykh Ibn Baz 6/504
+source: Majmu' Fatawa wa Maqalat by Shaykh Abdul-Aziz Ibn Baz 6/504
 category:
 - amar-maruf
 hijri: '1441-11-30'

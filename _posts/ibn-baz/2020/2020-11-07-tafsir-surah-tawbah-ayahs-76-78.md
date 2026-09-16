@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: Tafsir Surah Al-Tawbah, Ayahs 76 to 78
 hijri: '1442-03-21'
-source: Fatawa Al-Shaykh Ibn Baz p.8/291
+source: Fatawa Al-Shaykh Abdul-Aziz Ibn Baz p.8/291
 lang: en
 category:
 - quran

@@ -12,7 +12,7 @@ translation: false
 tags:
 - ibn-baz
 lang: en
-source: Fatwa Nur ala al-Darb of Shaykh Ibn Baz, tape no. 388, question 7
+source: Fatwa Nur ala al-Darb of Shaykh Abdul-Aziz Ibn Baz, tape no. 388, question 7
 mp3: https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_388/38807.mp3
 summary: This group which believes that the Sunnah cannot be used as an authority
   at all is a disbelieving, misguided group.

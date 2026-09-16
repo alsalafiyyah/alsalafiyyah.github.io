@@ -10,7 +10,7 @@ category:
 tags:
 - ibn-baz
 translation: false
-source: Majmu' Fatawa Al-Shaykh Ibn Baz 4/259
+source: Majmu' Fatawa Al-Shaykh Abdul-Aziz Ibn Baz 4/259
 summary: 'As for the claim that this sect (i.e. shi''ah/shiites) is the saved group
   and that they are following the truth and others are following falsehood, this is
   replied to by saying: whoever claims something, their claim should not be taken

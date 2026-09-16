@@ -8,7 +8,7 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 publisher: alsalafiyyah.manhaj@gmail.com
-source: Majmu' Fatawa wa Maqalat by Shaykh Ibn Baz p.8/34, question 25
+source: Majmu' Fatawa wa Maqalat by Shaykh Abdul-Aziz Ibn Baz p.8/34, question 25
 summary: May Allah grant us and them guidance! It is obligatory upon the scholars
   to beware of Ghibah (backbiting) and Namimah (tale-bearing) and respect Muslims.
   Ghibah and Namimah are among the worst traits. A Muslim should beware of them.

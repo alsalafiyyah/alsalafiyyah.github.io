@@ -9,7 +9,7 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 publisher: alsalafiyyah.manhaj@gmail.com
-source: Fatawa Al-Shaykh Ibn Baz 8/246
+source: Fatawa Al-Shaykh Abdul-Aziz Ibn Baz 8/246
 summary: These acts are done out of displaying the rites of Islam and have nothing
   to do with demonstrations.
 title: Response to a letter from Shaykh Abdul-Rahman ibn Abdul-Khaliq and weak Hadith

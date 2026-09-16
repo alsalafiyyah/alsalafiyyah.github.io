@@ -290,7 +290,7 @@ defaults:
 # Alifta Scholars
 group1:
   chairman: 
-    - name: Shaykh Ibn Baz
+    - name: Shaykh Abdul-Aziz Ibn Baz
       url: /biography/binbaz
   deputy_chairman:
     - name: Shaykh Abdul-Razzaq Afifi
@@ -303,7 +303,7 @@ group1:
 
 group2:
   chairman: 
-    - name: Shaykh Ibn Baz
+    - name: Shaykh Abdul-Aziz Ibn Baz
       url: /biography/binbaz
   deputy_chairman:
     - name: Shaykh Abdul-Aziz Aal Al-Shaykh
@@ -318,7 +318,7 @@ group2:
 
 group3:
   chairman: 
-    - name: Shaykh Ibn Baz
+    - name: Shaykh Abdul-Aziz Ibn Baz
       url: /biography/binbaz
   deputy_chairman:
     - name: Shaykh Abdul-Razzaq Afifi
@@ -353,7 +353,7 @@ group5:
 
 group6:
   chairman: 
-    - name: Shaykh Ibn Baz
+    - name: Shaykh Abdul-Aziz Ibn Baz
       url: /biography/binbaz
   deputy_chairman:
     - name: Shaykh Abdul-Razzaq Afifi
@@ -364,7 +364,7 @@ group6:
 
 group7:
   chairman: 
-    - name: Shaykh Ibn Baz
+    - name: Shaykh Abdul-Aziz Ibn Baz
       url: /biography/binbaz
   deputy_chairman:
     - name: Shaykh Abdul-Razzaq Afifi
@@ -381,7 +381,7 @@ group7:
 
 group8:
   chairman: 
-    - name: Shaykh Ibn Baz
+    - name: Shaykh Abdul-Aziz Ibn Baz
       url: /biography/binbaz
   members: 
     - name: Shaykh Abdullah ibn Ghudayyan
@@ -389,7 +389,7 @@ group8:
 
 group9:
   chairman: 
-    - name: Shaykh Ibn Baz
+    - name: Shaykh Abdul-Aziz Ibn Baz
       url: /biography/binbaz
   deputy_chairman:
     - name: Shaykh Abdul-Razzaq Afifi
@@ -400,7 +400,7 @@ group9:
 
 group10:
   chairman: 
-    - name: Shaykh Ibn Baz
+    - name: Shaykh Abdul-Aziz Ibn Baz
       url: /biography/binbaz
   members: 
     - name: Shaykh Abdullah ibn Qa'ud
@@ -419,7 +419,7 @@ group11:
 
 group12:
   chairman: 
-    - name: Shaykh Ibn Baz
+    - name: Shaykh Abdul-Aziz Ibn Baz
       url: /biography/binbaz
   deputy_chairman:
     - name: Shaykh Abdul-Razzaq Afifi
@@ -427,7 +427,7 @@ group12:
 
 group13:
   chairman: 
-    - name: Shaykh Ibn Baz
+    - name: Shaykh Abdul-Aziz Ibn Baz
       url: /biography/binbaz
   members: 
     - name: Shaykh Abdul-Aziz Aal Al-Shaykh
@@ -453,7 +453,7 @@ group14:
 
 group15:
   chairman: 
-    - name: Shaykh Ibn Baz
+    - name: Shaykh Abdul-Aziz Ibn Baz
       url: /biography/binbaz/
   members: 
     - name: Shaykh Abdul-Aziz Aal Al-Shaykh
@@ -498,7 +498,7 @@ group18:
 
 group19:
   chairman: 
-    - name: Shaykh Ibn Baz
+    - name: Shaykh Abdul-Aziz Ibn Baz
       url: /biography/binbaz
   deputy_chairman:
     - name: Shaykh Abdul-Razzaq Afifi

@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: Should a man who discovers that his wife is not a virgin demand his Mahr?
 hijri: '1442-05-05'
-source: Fatawa Shaykh Ibn Baz p. 20/288
+source: Fatawa Shaykh Abdul-Aziz Ibn Baz p. 20/288
 lang: en
 category:
 - marriage

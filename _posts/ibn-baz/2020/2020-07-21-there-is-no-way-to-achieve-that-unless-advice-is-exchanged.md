@@ -4,7 +4,7 @@ published: true
 publisher: alsalafiyyah.manhaj@gmail.com
 title: There is no way to achieve that unless advice is exchanged
 hijri: '1441-11-30'
-source: Fatawa Al-Shaykh Ibn Baz vol 7, question 5
+source: Fatawa Al-Shaykh Abdul-Aziz Ibn Baz vol 7, question 5
 category:
 - rulership
 translation: false

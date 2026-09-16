@@ -8,7 +8,7 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 publisher: alsalafiyyah.manhaj@gmail.com
-source: Majmu' Fatawa Shaykh Ibn Baz 8
+source: Majmu' Fatawa Shaykh Abdul-Aziz Ibn Baz 8
 summary: This is verily an act of Bid'ah (innovation in religion) and people should
   not adhere to this, for it had not been reported from the Prophet (peace be upon
   him) or any of his Companions (may Allah be pleased with them).

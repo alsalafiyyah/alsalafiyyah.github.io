@@ -19,7 +19,7 @@ summary: Repentance is regret for what has passed, giving it up, and resolving n
   may be repentance or it may be mere words.
 muftis:
   shaykh:
-  - name: Shaykh Ibn Baz
+  - name: Shaykh Abdul-Aziz Ibn Baz
     url: /biography/binbaz
 ---
 #### Question: 

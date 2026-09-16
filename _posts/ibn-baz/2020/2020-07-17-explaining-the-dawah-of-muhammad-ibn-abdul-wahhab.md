@@ -19,7 +19,7 @@ translation: true
 active: audios
 muftis:
   shaykh:
-  - name: Shaykh Ibn Baz
+  - name: Shaykh Abdul-Aziz Ibn Baz
     url: /biography/binbaz
 hijri: '1441-11-26'
 ---

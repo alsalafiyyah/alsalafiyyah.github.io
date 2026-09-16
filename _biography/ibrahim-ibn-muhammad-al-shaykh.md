@@ -3,7 +3,7 @@ layout: page
 publisher: "alsalafiyyah@icloud.com"
 title: "Shaykh Ibrahim Ibn Muhammad Aal Al-Shaykh"
 active: biography
-summary: "He acquired knowledge from his father and many Shaykhs, including His Eminence Shaykh Ibn Baz, Shaykh Muhammad Al-Amin Al-Shanqyti, and many others."
+summary: "He acquired knowledge from his father and many Shaykhs, including His Eminence Shaykh Abdul-Aziz Ibn Baz, Shaykh Muhammad Al-Amin Al-Shanqyti, and many others."
 permalink: /biography/ibrahim-ibn-muhammad-al-shaykh/
 redirect_from:
   - /biography/ibrahim/

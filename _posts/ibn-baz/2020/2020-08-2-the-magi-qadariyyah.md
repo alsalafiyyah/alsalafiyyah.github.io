@@ -2,7 +2,7 @@
 layout: post
 title: "The Magi of the Muslim Ummah are Al-Qadariyyah"
 publisher: "alsalafiyyah.manhaj@gmail.com"
-source: "Fatawa Al-Shaykh Ibn Baz vol 28"
+source: "Fatawa Al-Shaykh Abdul-Aziz Ibn Baz vol 28"
 category: [sects, qadariyyah]
 tags: [ibn-baz]
 hijri: "Dhul-Hijjah 13, 1441"

@@ -2,7 +2,7 @@
 layout: post
 title: Jama'at Tabligh and the offering Prayers in Masjids containing graves
 publisher: alsalafiyyah.manhaj@gmail.com
-source: Majmu' Fatawa Shaykh Ibn Baz 8/331
+source: Majmu' Fatawa Shaykh Abdul-Aziz Ibn Baz 8/331
 category:
 - sects
 tags:

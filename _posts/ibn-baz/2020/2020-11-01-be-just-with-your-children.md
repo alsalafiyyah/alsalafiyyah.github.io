@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: Be fair and equitable with your children
 hijri: '1442-03-15'
-source: Majmu' Fatawa Al-Shaykh Ibn Baz p. 9/452, published in Al-Da'wah magazine,
+source: Majmu' Fatawa Al-Shaykh Abdul-Aziz Ibn Baz p. 9/452, published in Al-Da'wah magazine,
   issue no. 1535, on 9/11/1416 A.H
 lang: en
 category:

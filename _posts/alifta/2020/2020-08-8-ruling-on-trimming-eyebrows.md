@@ -6,7 +6,7 @@ layout: post
 mass_edited: true
 muftis:
   chairman:
-  - name: Shaykh Ibn baz
+  - name: Shaykh Abdul-Aziz Ibn Baz
     url: /biography/binbaz
   deputy_chairman:
   - name: Shaykh Abdul-Aziz Aal Al-Shaykh

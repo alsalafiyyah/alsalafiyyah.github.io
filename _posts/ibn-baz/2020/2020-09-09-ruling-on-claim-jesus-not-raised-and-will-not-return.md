@@ -8,7 +8,7 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 publisher: alsalafiyyah.manhaj@gmail.com
-source: Majmu Fatawa Shaykh ibn Baz 1
+source: Majmu Fatawa Shaykh Abdul-Aziz Ibn Baz 1
 summary: What is the ruling on those who deny Isa's return near the Day of Resurrection,
   claiming that he was crucified, but did not die and immigrated to Kashmir in India
   where he lived for a long time and died naturally?

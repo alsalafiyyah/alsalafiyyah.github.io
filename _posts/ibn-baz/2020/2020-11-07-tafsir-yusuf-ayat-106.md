@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: 'Tafsir Surah Yusuf, Ayah 106: ''And most of them believe not in Allah...'''
 hijri: '1442-03-21'
-source: Fatawa Al-Shaykh Ibn Baz p.8/292
+source: Fatawa Al-Shaykh Abdul-Aziz Ibn Baz p.8/292
 lang: en
 category:
 - quran

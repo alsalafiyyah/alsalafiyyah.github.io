@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: Duties of a teacher
 hijri: '1442-02-25'
-source: Fatawa Al-shaykh Ibn Baz p.1/349
+source: Fatawa Al-Shaykh Abdul-Aziz Ibn Baz p.1/349
 lang: en
 category:
 - knowledge

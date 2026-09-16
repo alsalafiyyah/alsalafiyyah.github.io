@@ -4,7 +4,7 @@ publisher: alsalafiyyah.manhaj@gmail.com
 title: Rule on a woman refuses any person proposing for her betrothal and wants to
   be married only to her paternal cousins
 hijri: '1442-05-05'
-source: Fatawa Shaykh Ibn Baz p. 20/285
+source: Fatawa Shaykh Abdul-Aziz Ibn Baz p. 20/285
 lang: en
 category:
 - marriage

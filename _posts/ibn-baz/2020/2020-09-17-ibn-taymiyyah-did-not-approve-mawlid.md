@@ -4,7 +4,7 @@ publisher: alsalafiyyah.manhaj@gmail.com
 title: "Ibn Taymiyyah did not approve celebrating the Prophet's Mawlid"
 hijri: '1442-01-29'
 lang: en
-source: "From among the questions posed by Al-Majallah Al-Arabiyah, dictated by His Eminence Sheikh Ibn Baz on 29/5/1417 AH and Majmoo' Fatawa wa Maqalat al-Shaykh Ibn Baz, 9/211"
+source: "From among the questions posed by Al-Majallah Al-Arabiyah, dictated by His Eminence Sheikh Ibn Baz on 29/5/1417 AH and Majmoo' Fatawa wa Maqalat al-Shaykh Abdul-Aziz Ibn Baz, 9/211"
 summary: Ibn Taymiyyah did not approve celebrating the Prophet's Mawlid, rather he
   condemned doing so and was of the view that doing so is a Bid'ah.
 category:
@@ -12,7 +12,7 @@ category:
 - bidah
 muftis:
   shaykh:
-  - name: Shaykh Ibn Baz
+  - name: Shaykh Abdul-Aziz Ibn Baz
     url: /biography/binbaz/
 link: "https://binbaz.org.sa/fatwas/2355/%D8%B1%D8%A7%D9%8A-%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85-%D8%A7%D8%A8%D9%86-%D8%AA%D9%8A%D9%85%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%81%D8%A7%D9%84-%D8%A8%D8%A7%D9%84%D9%85%D9%88%D9%84%D8%AF-%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A"
 ---
@@ -49,7 +49,7 @@ All of these have been published in a booklet entitled Al-Tahdhir min al-Bida' (
 
 We ask Allah to grant success to us and to all Muslims in knowing the truth and following it, and to protect us all from innovations and evil deeds, both apparent and hidden. Indeed, He is the Guardian of that and is capable of it. May Allah send peace and blessings upon our Prophet Muhammad, his family, and his Companions.
 
-End of the fatwa by Shaykh Ibn Baz.
+End of the fatwa by Shaykh Abdul-Aziz Ibn Baz.
 
 <hr class="my-6 border-gray-200" />
 

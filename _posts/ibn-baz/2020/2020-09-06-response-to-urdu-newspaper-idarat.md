@@ -10,7 +10,7 @@ muftis:
     url: /biography/binbaz/
 published: true
 publisher: alsalafiyyah.manhaj@gmail.com
-source: Fatawa Al-Shaykh Ibn Baz p. 1/222
+source: Fatawa Al-Shaykh Abdul-Aziz Ibn Baz p. 1/222
 summary: It is not allowed to celebrate the birthday of the Messenger or other birthdays;
   rather, such celebrations should be prevented, because they are newly-invented practices
   in religion.

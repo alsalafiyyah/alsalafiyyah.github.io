@@ -14,7 +14,7 @@ summary: The Muslim has to seek the truth. If he finds an Islamic center which p
   the truth, or a group in any place which promotes the truth.
 muftis:
   shaykh:
-  - name: Shaykh Ibn Baz
+  - name: Shaykh Abdul-Aziz Ibn Baz
     url: /biography/binbaz/
 ---
 ### Question: 

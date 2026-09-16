@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Shaykh Ibn Baz"
+title: "Shaykh Abdul-Aziz Ibn Baz"
 publisher: alsalafiyyah@icloud.com
 active: biography
 hijri: Muharram 12, 1442 AH
 date: 2020-08-31
 category: [biography]
-summary: "Shaykh Ibn Baz was born in 1330 A.H. in Dhul-Hijjah, in Riyadh. He enjoyed normal eyesight until his eyes were inflicted with a disease in 1346 A.H."
+summary: "Shaykh Abdul-Aziz Ibn Baz was born in 1330 A.H. in Dhul-Hijjah, in Riyadh. He enjoyed normal eyesight until his eyes were inflicted with a disease in 1346 A.H."
 official_web: 
   web:
     - title: binbaz.org.sa
@@ -30,7 +30,7 @@ Ibn Baz acquired knowledge from many of the great scholars, among them:
 2. Shaykh Salih ibn 'Abdul-Aziz ibn 'Abdul-Rahman ibn Hasan ibn Shaykh Muhammad ibn 'Abdul-Wahhab
 3. Shaykh Sa'ad ibn Hamad ibn 'Atiq, Judge of Riyadh
 4. Shaykh Hamad ibn Faris, (Vice Chancellor of the Treasury in Riyadh)
-5. His Eminence Shaykh Muhammad ibn Ibrahim ibn 'Abdul-Latif Al Al-Shaykh (who in his time was the Grand Mufty of the Kingdom of Saudi Arabia). Shaykh Ibn Baz attended and adhered to his learning circles for approximately 10 years. Shaykh Ibn Baz learnt all the branches of the Shari'ah from 1347 A.H. to 1357 A.H.
+5. His Eminence Shaykh Muhammad ibn Ibrahim ibn 'Abdul-Latif Al Al-Shaykh (who in his time was the Grand Mufty of the Kingdom of Saudi Arabia). Shaykh Abdul-Aziz Ibn Baz attended and adhered to his learning circles for approximately 10 years. Shaykh Abdul-Aziz Ibn Baz learnt all the branches of the Shari'ah from 1347 A.H. to 1357 A.H.
 6. Shaykh Sa'ad Waqqas Al-Bukhary, one of the scholars of Makkah from whom Ibn Baz learned the science of Tajwid (reciting the Qur'an following the rules of recitation) in 1355 A.H.
 
 ### His Influence:
@@ -92,7 +92,7 @@ His activities were not limited to what has been mentioned; he delivered lecture
 May Allah help us benefit from his knowledge.
 
 ### His Death:
-Shaykh Ibn Baz (may Allah be merciful to him) died on Thursday, 27 Muharram, 1420 A.H. when he was 89 years old. He spent his life exerting his utmost efforts to seek good deeds, attain knowledge, call to Allah, fight in Allah’s Cause, fulfill the needs of Muslims, and help them. May Allah be merciful to him, forgive him, give him access to His Spacious Paradise, lighten his grave, let him dwell with the pious, and gather us with him in the abode of His Honor and Mercy.
+Shaykh Abdul-Aziz Ibn Baz (may Allah be merciful to him) died on Thursday, 27 Muharram, 1420 A.H. when he was 89 years old. He spent his life exerting his utmost efforts to seek good deeds, attain knowledge, call to Allah, fight in Allah’s Cause, fulfill the needs of Muslims, and help them. May Allah be merciful to him, forgive him, give him access to His Spacious Paradise, lighten his grave, let him dwell with the pious, and gather us with him in the abode of His Honor and Mercy.
 
 So many people offered the Funeral Prayer over him after the Friday Prayer, which gives evidence to the fact of how much he was loved.
 

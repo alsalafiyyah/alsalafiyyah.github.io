@@ -13,7 +13,7 @@ translation: false
 summary: They claim to attribute themselves to Jesus, while he is innocent of them.
 muftis:
   shaykh:
-  - name: Shaykh Ibn Baz
+  - name: Shaykh Abdul-Aziz Ibn Baz
     url: /biography/binbaz/
 hijri: '1448-02-22'
 ---

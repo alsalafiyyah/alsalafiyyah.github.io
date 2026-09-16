@@ -6,7 +6,7 @@ layout: post
 mass_edited: true
 muftis:
   shaykh:
-  - name: Shaykh Ibn Baz
+  - name: Shaykh Abdul-Aziz Ibn Baz
     url: /biography/binbaz
 published: true
 publisher: alsalafiyyah.manhaj@gmail.com

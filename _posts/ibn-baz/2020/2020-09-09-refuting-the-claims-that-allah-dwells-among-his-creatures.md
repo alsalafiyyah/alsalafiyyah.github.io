@@ -10,7 +10,7 @@ muftis:
     url: /biography/binbaz/
 published: true
 publisher: alsalafiyyah.manhaj@gmail.com
-source: Fatawa Shaykh Ibn Baz 1
+source: Fatawa Shaykh Abdul-Aziz Ibn Baz 1
 summary: Generally, the corrupt belief adopted by the denying Jahmiyyah and their
   followers from among the Mubtadi's (those who introduce innovations in religion)
   is one of the most wicked and harmful beliefs.

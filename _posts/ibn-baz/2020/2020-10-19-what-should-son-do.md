@@ -5,7 +5,7 @@ publisher: alsalafiyyah.manhaj@gmail.com
 title: What should a son do who was raised by an ignorant family
 hijri: '1442-03-02'
 date: 2020-10-19
-source: Majmu' Fatawa Al-Shaykh Ibn Baz 28/239
+source: Majmu' Fatawa Al-Shaykh Abdul-Aziz Ibn Baz 28/239
 lang: en
 locale: en
 category:

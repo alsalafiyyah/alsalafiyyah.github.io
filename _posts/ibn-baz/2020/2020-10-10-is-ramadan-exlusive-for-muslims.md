@@ -5,7 +5,7 @@ title: Is the month of Ramadan an exclusive feature of the Muslims?
 hijri: '1442-02-23'
 lang: en
 locale: en
-source: Fatawa Al-Shaykh Ibn Baz 15/7
+source: Fatawa Al-Shaykh Abdul-Aziz Ibn Baz 15/7
 category:
 - fatwas
 - fasting

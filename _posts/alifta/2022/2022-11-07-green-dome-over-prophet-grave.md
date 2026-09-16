@@ -39,7 +39,7 @@ As it is not proven that he (peace be upon him) built a dome over his grave, and
 
 ---
 
-**Shaykh Ibn Baz (may Allah have mercy on him)** said: 
+**Shaykh Abdul-Aziz Ibn Baz (may Allah have mercy on him)** said: 
 There is a specious argument put forward by those who worship graves, namely the fact that the grave of the Prophet (peace be upon him) is in his mosque. The answer to that is that the Sahabah (may Allah be pleased with them) did not bury him in his mosque, rather they buried him in the house of ‘Aishah (may Allah be pleased with her). When Al-Walid ibn ‘Abdul-Malik expanded the Mosque of the Prophet (peace be upon him) at the end of the first century, he incorporated the room into the mosque, but he did wrong thereby, and some of the scholars denounced him for that, but he believed that there was nothing wrong with it for the sake of expanding the mosque. It is not permissible for a Muslim to take that as evidence that mosques may be built over graves, or that people may be buried inside mosques, because that goes against the sahih hadiths, and because it is a means that may lead to shirk by associating the occupants of the graves in worship with Allah. [^3]
 
 ---
@@ -49,7 +49,7 @@ With regard to the grave of the Prophet (peace be upon him) which is incorporate
 
 ### Footnotes:
 
-[^1]: Fatawa Al-Lajnah Al-Daimah 9/83-84, fatwa no.8263, question 4 — Shaykh Ibn Baz, Shaykh Abdul-Razzaq Afifi, Shaykh Abdullah ibn Qa’ud.
-[^2]: Fatawa Al-Lajnah Al-Da'imah 2/265, fatwa no. 6258, question 1 —  Shaykh Ibn Baz, Shaykh Abdul-Razzaq Afifi, Shaykh Abdullah ibn Ghudayyan, Shaykh Abdullah ibn Qa’ud.
-[^3]: Majmou’ Fatawa Al-Shaykh Ibn Baz 5/388-389.
+[^1]: Fatawa Al-Lajnah Al-Daimah 9/83-84, fatwa no.8263, question 4 — Shaykh Abdul-Aziz Ibn Baz, Shaykh Abdul-Razzaq Afifi, Shaykh Abdullah ibn Qa’ud.
+[^2]: Fatawa Al-Lajnah Al-Da'imah 2/265, fatwa no. 6258, question 1 —  Shaykh Abdul-Aziz Ibn Baz, Shaykh Abdul-Razzaq Afifi, Shaykh Abdullah ibn Ghudayyan, Shaykh Abdullah ibn Qa’ud.
+[^3]: Majmou’ Fatawa Al-Shaykh Abdul-Aziz Ibn Baz 5/388-389.
 [^4]: Majmou’ Fatawa Al-Shaykh Ibn ‘Uthaymeen 12/372.

@@ -4,7 +4,7 @@ publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on watching movies and television and playing cards during the daytime
   in Ramadan
 hijri: '1442-02-23'
-source: Fatawa Al-Shaykh Ibn Baz 15/316
+source: Fatawa Al-Shaykh Abdul-Aziz Ibn Baz 15/316
 lang: en
 locale: en
 note: false

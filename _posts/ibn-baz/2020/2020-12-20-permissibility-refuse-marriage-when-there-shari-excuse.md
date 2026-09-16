@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: It is permissible to refuse marriage when there is a Shar'i excuse
 hijri: '1442-05-05'
-source: Fatawa Shaykh Ibn Baz p. 20/406
+source: Fatawa Shaykh Abdul-Aziz Ibn Baz p. 20/406
 lang: en
 category:
 - marriage

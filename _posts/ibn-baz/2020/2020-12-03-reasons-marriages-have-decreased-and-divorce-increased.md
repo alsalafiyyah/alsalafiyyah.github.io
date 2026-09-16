@@ -4,7 +4,7 @@ publisher: alsalafiyyah.manhaj@gmail.com
 title: Greediness and dissatisfaction with simple life, dowries and expenditures for
   weddings have become exorbitant,that is why marriages have decreased
 hijri: '1442-04-18'
-source: Fatawa Shaykh Ibn Baz p. 30/317
+source: Fatawa Shaykh Abdul-Aziz Ibn Baz p. 30/317
 lang: en
 category:
 - marriage

@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: Obeying rulers and scholars in Ma'ruf to set things right
 hijri: '1442-02-20'
-source: Majmu' Fatawa Al-Shaykh Ibn Baz p. 7/119
+source: Majmu' Fatawa Al-Shaykh Abdul-Aziz Ibn Baz p. 7/119
 category:
 - rulership
 translation: false

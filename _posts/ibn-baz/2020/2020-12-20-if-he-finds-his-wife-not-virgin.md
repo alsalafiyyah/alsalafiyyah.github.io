@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: Discovering that one's wife is not a virgin
 hijri: '1442-05-05'
-source: Fatawa Shaykh Ibn Baz p. 20/286
+source: Fatawa Shaykh Abdul-Aziz Ibn Baz p. 20/286
 lang: en
 category:
 - marriage

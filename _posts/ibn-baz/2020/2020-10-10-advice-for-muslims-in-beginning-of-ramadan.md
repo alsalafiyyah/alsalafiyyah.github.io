@@ -6,7 +6,7 @@ hijri: '1442-02-23'
 lang: en
 locale: en
 note: false
-source: Fatawa Al-Shaykh Ibn Baz 15/48
+source: Fatawa Al-Shaykh Abdul-Aziz Ibn Baz 15/48
 category:
 - fatwas
 - fasting

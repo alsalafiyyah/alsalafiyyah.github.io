@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: Ruling on a husband who treats his wife unjustly
 hijri: '1442-03-21'
-source: Fatawa Al-Shaykh Ibn Baz 8/395
+source: Fatawa Al-Shaykh Abdul-Aziz Ibn Baz 8/395
 lang: en
 category:
 - marriage

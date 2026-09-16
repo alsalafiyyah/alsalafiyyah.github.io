@@ -17,7 +17,7 @@ summary: They are the Qadariyyah who deny fate and say that everything is predes
   It is a fact that Magians say that humanity has two gods; the god of light and the
   god of darkness.
 shaykhs:
-- Shaykh Ibn Baz
+- Shaykh Abdul-Aziz Ibn Baz
 ---
 ### Question:
 Who are the Magians of this Ummah, Shaykh Abdul-Aziz ?

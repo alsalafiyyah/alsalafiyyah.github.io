@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: It is not permissible to kill resident or immigrant disbelievers
 hijri: '1441-11-30'
-source: Fatawa Al-Shaykh Ibn Baz 8/207, question 4 and 5
+source: Fatawa Al-Shaykh Abdul-Aziz Ibn Baz 8/207, question 4 and 5
 category:
 - rulership
 - walabara

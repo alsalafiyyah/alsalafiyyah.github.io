@@ -63,10 +63,10 @@ Therefore, the favored generations are the Righteous Predecessors (al-Salaf al-S
 ## Further reading:
 
 - [What is Salafiyyah?](/what-is-salafiyyah/) - Permanent Committee
-- [Is Salafiyyah Limited to the Hanbali Madhab?](/is-salafiyyah-limited-to-the-hanbali-madhab) - Shaykh Ibn Baz
+- [Is Salafiyyah Limited to the Hanbali Madhab?](/is-salafiyyah-limited-to-the-hanbali-madhab) - Shaykh Abdul-Aziz Ibn Baz
 - [Is Salafiyyah Just Another Islamic Sect?](/is-salafiyyah-just-another-islamic-sect) - Shaykh Salih al-Fawzan
-- [Are the Khawarij Considered Salafis?](/is-it-true-that-salafis-are-khawarij) - Shaykh Ibn Baz
-- [The Difference Between the Salaf and Ahl al-Sunnah](/audios/the-difference-between-the-salaf-and-ahlus-sunnah) - Shaykh Ibn Baz
+- [Are the Khawarij Considered Salafis?](/is-it-true-that-salafis-are-khawarij) - Shaykh Abdul-Aziz Ibn Baz
+- [The Difference Between the Salaf and Ahl al-Sunnah](/audios/the-difference-between-the-salaf-and-ahlus-sunnah) - Shaykh Abdul-Aziz Ibn Baz
 - [Ruling on Affiliating with the Salaf and Saying 'I am Salafi'](/audios/ruling-on-affiliating-with-the-salaf-and-saying-iam-salafi) - Shaykh Ibn 'Uthaymeen
 - [The Foundations and Principles of the Salafi Call](/the-origins-and-principles-of-the-salafi-dawah) - Permanent Committee
 - [What is meant by the Salafi Methodology?](/what-is-meant-by-the-salafi-methodology) - Shaykh Salih al-Fawzan

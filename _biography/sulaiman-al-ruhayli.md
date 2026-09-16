@@ -24,9 +24,9 @@ summary: "I am Sulayman ibn Sulaymullah ibn Raja' Allah ibn Buti Al-Ruhayli, fro
 
 > "I first began seeking knowledge—prior to formal schooling—in the Mosque of the Prophet (peace and blessings be upon him).
 > I attended some of the gatherings of **Shaykh Al-Ameen** (may Allah have mercy on him) when I was under six years old. I also attended some gatherings of **Shaykh 'Umar Fullatah** (may Allah have mercy on him) and gatherings of **Shaykh Abu Bakr Al-Jaza'iri** (may Allah have mercy on him)—sitting in his circles frequently.
-> Furthermore, I attended some gatherings of **Shaykh Al-Albani** (may Allah have mercy on him) whenever he visited Medina, some gatherings of **Shaykh Ibn Baz** (may Allah have mercy on him) in Riyadh and Medina, and some public and private gatherings of **Shaykh Ibn 'Uthaymeen** (may Allah have mercy on him) which he held in Medina.
+> Furthermore, I attended some gatherings of **Shaykh Al-Albani** (may Allah have mercy on him) whenever he visited Medina, some gatherings of **Shaykh Abdul-Aziz Ibn Baz** (may Allah have mercy on him) in Riyadh and Medina, and some public and private gatherings of **Shaykh Ibn 'Uthaymeen** (may Allah have mercy on him) which he held in Medina.
 > This was due to the fact that my father (may Allah preserve him and grant us and him a good end) had a deep love for the gatherings of the scholars ever since he came to know Medina. He attended the circles of the scholars: Shaykh Al-Ameen and Shaykh Al-Afriqi. Shaykh 'Umar Fullatah (may Allah have mercy on him) even used to tell me: *'Your father was my classmate; we used to sit next to each other in Shaykh Al-Afriqi’s study circle.'*
-> My father also attended the gatherings of Shaykh Ibn Baz (may Allah have mercy on him). He once mentioned to me that he disliked a certain individual's gathering because that person would stretch out his hand for people to kiss. My father used to take me to these circles when I was under six years old."
+> My father also attended the gatherings of Shaykh Abdul-Aziz Ibn Baz (may Allah have mercy on him). He once mentioned to me that he disliked a certain individual's gathering because that person would stretch out his hand for people to kiss. My father used to take me to these circles when I was under six years old."
 
 
 ### **Memorization of the Qur'an:**

@@ -17,7 +17,7 @@ summary: There is no doubt that infertility is among the calamities; therefore, 
   is something through which sins are expiated.
 muftis:
   shaykh:
-  - name: Shaykh Ibn Baz
+  - name: Shaykh Abdul-Aziz Ibn Baz
     url: /biography/binbaz/
 active: audios
 ---

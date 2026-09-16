@@ -9,7 +9,7 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 publisher: alsalafiyyah.manhaj@gmail.com
-source: Majmu' Fatawa of Shaykh Ibn Baz vol 3
+source: Majmu' Fatawa of Shaykh Abdul-Aziz Ibn Baz vol 3
 summary: With these brief words, I wanted to clarify what was written by this writer
   and warn against the mistakes that were mentioned by him, for fear that people may
   have been deceived by his article.

@@ -6,7 +6,7 @@ layout: post
 mass_edited: true
 publisher: alsalafiyyah.manhaj@gmail.com, salafiyyah@outlook.sa
 shaykhs:
-- Shaykh Ibn Baz
+- Shaykh Abdul-Aziz Ibn Baz
 - Shaykh Abdullah ibn Ghudayyan
 - Shaykh Abdul-Razzaq al-Afify
 source: 'Fatawa Al-Lajnah Ad-Daimah no. 14247 Question2 '

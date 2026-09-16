@@ -2,7 +2,7 @@
 layout: post
 title: On Abdullah Al-Habashy
 publisher: alsalafiyyah.manhaj@gmail.com
-source: Majmu' Fatawa Shaykh Ibn Baz 9/315
+source: Majmu' Fatawa Shaykh Abdul-Aziz Ibn Baz 9/315
 hijri: '1441-11-26'
 date: 2020-07-17
 lang: en

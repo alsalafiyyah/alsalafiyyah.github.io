@@ -10,7 +10,7 @@ active: muqolat
 category:
 - muqolat
 source: An article issued by the office of His Eminence on 14/3/1402 A.H. no. 91,
-  and Fatawa Al-Shaykh Ibn Baz p. 9/157
+  and Fatawa Al-Shaykh Abdul-Aziz Ibn Baz p. 9/157
 summary: All the signs that happen in this universe that arouse sympathy like thunderbolts,
   fierce wind, floods that destroy everything, earthquakes that cause great destruction
   to lofty buildings, great trees, properties and mankind, volcanoes that destroy

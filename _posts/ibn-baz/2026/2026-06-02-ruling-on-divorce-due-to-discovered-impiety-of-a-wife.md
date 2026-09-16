@@ -17,7 +17,7 @@ summary: What we advise in this situation is counseling and guidance. He should 
   ignorant of, and recommend to her what benefits her.
 muftis:
   shaykh:
-  - name: Shaykh Ibn Baz
+  - name: Shaykh Abdul-Aziz Ibn Baz
     url: /biography/binbaz/
 hijri: '1447-12-16'
 ---

@@ -7,7 +7,7 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 publisher: alsalafiyyah.manhaj@gmail.com
-source: Fatawa Al-Shaykh Ibn Baz 5/416
+source: Fatawa Al-Shaykh Abdul-Aziz Ibn Baz 5/416
 summary: The word Masihi is an ascription to Al-Masih ibn Maryam (Jesus Christ, son
   of Mary, peace be upon him). People who allege that they follow the Bible use the
   word Masihy to claim that they are followers of Al-Masih (peace be upon him) while

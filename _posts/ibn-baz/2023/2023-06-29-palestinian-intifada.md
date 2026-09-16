@@ -16,7 +16,7 @@ summary: All they have to do is to persevere in patience and constancy, and vie 
   help His cause.
 muftis:
   shaykh:
-  - name: Shaykh Ibn Baz
+  - name: Shaykh Abdul-Aziz Ibn Baz
     url: /biography/binbaz
 ---
 ### Question:

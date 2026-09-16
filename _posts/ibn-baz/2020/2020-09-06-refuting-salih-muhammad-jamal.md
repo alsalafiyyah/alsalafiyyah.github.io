@@ -9,7 +9,7 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 publisher: alsalafiyyah.manhaj@gmail.com
-source: Majmu' Fatawa Shaykh ibn Baz 1/401
+source: Majmu' Fatawa Shaykh Abdul-Aziz Ibn Baz 1/401
 summary: Anything that was not prescribed in the era of the Prophet (peace be upon
   him) and his Sahabah (may Allah be pleased with them) cannot be made permissible
   later. If this door is opened, Islam will be misrepresented and innovated ideas

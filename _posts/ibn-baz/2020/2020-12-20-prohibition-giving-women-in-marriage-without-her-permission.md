@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: Prohibition of giving women in marriage without their permission
 hijri: '1442-05-05'
-source: Fatawa Shaykh Ibn Baz p. 20/409
+source: Fatawa Shaykh Abdul-Aziz Ibn Baz p. 20/409
 lang: en
 category:
 - marriage

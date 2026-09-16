@@ -8,7 +8,7 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 publisher: alsalafiyyah.manhaj@gmail.com
-source: Fatawa Al-Shaykh Ibn Baz 9/262
+source: Fatawa Al-Shaykh Abdul-Aziz Ibn Baz 9/262
 summary: Al-Dajjal claims and makes things through which he confuses people. He is
   called Al-Dajjal due to his telling many lies and the extraordinary things he does,
   such as ordering the heaven to rain and the earth to grow plants and his killing

@@ -16,7 +16,7 @@ summary: A Muslim can achieve Tawhid by avoiding sins, all means and elements of
   and Bid'ah (innovation in Islam).
 muftis:
   shaykh:
-  - name: Shaykh Ibn Baz
+  - name: Shaykh Abdul-Aziz Ibn Baz
     url: /biography/binbaz
 ---
 ### Question: 

@@ -5,7 +5,7 @@ lang: en
 layout: post
 mass_edited: true
 publisher: alsalafiyyah.manhaj@gmail.com
-shaykhs: Shaykh Ibn Baz
+shaykhs: Shaykh Abdul-Aziz Ibn Baz
 source: Majmu' Fatawa wa Maqalat 4/372, question 8
 summary: This is a groundless belief. Trees or herbs growing on graves are no sign
   of the righteousness of their occupants; this is a false assumption.

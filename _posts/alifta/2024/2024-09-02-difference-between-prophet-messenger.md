@@ -24,4 +24,4 @@ Yes, the scholars say that a Prophet is one who receives Revelation from Allaah 
 Based upon this Verse, it is plain that every Prophet mentioned in the Quran is a Messenger.
 
 ---
-Read also: [The difference between a prophet and a messenger - answered by Shaykh Ibn Baz](https://alsalafiyyah.github.io/audios/difference-between-prophet-messenger/)
+Read also: [The difference between a prophet and a messenger - answered by Shaykh Abdul-Aziz Ibn Baz](https://alsalafiyyah.github.io/audios/difference-between-prophet-messenger/)

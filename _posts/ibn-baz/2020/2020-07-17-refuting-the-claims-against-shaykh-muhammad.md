@@ -2,7 +2,7 @@
 layout: post
 title: Refuting the claims against Shaykh Muhammad ibn Abdul-Wahhab and his Da'wah
 publisher: alsalafiyyah.manhaj@gmail.com
-source: Majmu' Fatawa al-Shaykh ibn Baz 9/234
+source: Majmu' Fatawa al-Shaykh Abdul-Aziz Ibn Baz 9/234
 date: 2020-07-17
 hijri: '1441-11-26'
 lang: en

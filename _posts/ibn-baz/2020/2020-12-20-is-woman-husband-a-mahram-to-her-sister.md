@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: Is a man considered a Mahram for the sister of his wife?
 hijri: '1442-05-05'
-source: Fatawa Shaykh Ibn Baz p. 20/289
+source: Fatawa Shaykh Abdul-Aziz Ibn Baz p. 20/289
 lang: en
 category:
 - marriage

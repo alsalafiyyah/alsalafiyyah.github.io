@@ -18,7 +18,7 @@ summary: All of this is baseless. He did not fight the Jinn and no such thing ha
   have invented.
 muftis:
   shaykh:
-  - name: Shaykh Ibn Baz
+  - name: Shaykh Abdul-Aziz Ibn Baz
     url: /biography/binbaz
 ---
 ### Question:

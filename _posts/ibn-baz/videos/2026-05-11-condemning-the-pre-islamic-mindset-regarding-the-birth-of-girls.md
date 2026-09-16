@@ -21,7 +21,7 @@ videoID: tNUYJ0s2yas
 source: Fatawa Nur ala ad-Darb 21/439-440
 muftis:
   shaykh:
-  - name: Shaykh Ibn Baz
+  - name: Shaykh Abdul-Aziz Ibn Baz
     url: /biography/binbaz/
 ---
 ### Question: 

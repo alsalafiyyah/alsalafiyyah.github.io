@@ -8,7 +8,7 @@ muftis:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 publisher: alsalafiyyah.manhaj@gmail.com
-source: Fatawa Al-Shaykh Ibn Baz p. 7/152
+source: Fatawa Al-Shaykh Abdul-Aziz Ibn Baz p. 7/152
 summary: These Four Madhabs are well-known schools which have spread during the second
   century and the later centuries.
 title: The Four Juristic Schools and their authenticity

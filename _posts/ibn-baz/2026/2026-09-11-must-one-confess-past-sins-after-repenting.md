@@ -4,7 +4,7 @@ publisher: alsalafiyyah.manhaj@gmail.com
 title: "Must One Confess Past Sins After Repenting?"
 date: 2026-09-11
 hijri: '1448-03-29'
-source: "Issued by His Eminence following a lesson in the Sacred Mosque on 26/12/1418 AH & Majmoo' Fatawa wa Maqalat al-Shaykh Ibn Baz, 22/ 417"
+source: "Issued by His Eminence following a lesson in the Sacred Mosque on 26/12/1418 AH & Majmoo' Fatawa wa Maqalat al-Shaykh Abdul-Aziz Ibn Baz, 22/ 417"
 tags:
 - ibn-baz
 category:
@@ -15,7 +15,7 @@ link: "https://binbaz.org.sa/fatwas/19663/%D9%87%D9%84-%D9%8A%D9%84%D8%B2%D9%85%
 summary: "Repentance is sufficient. A person should cover themselves with the concealment of Allah, along with repentance and not disclosing the sins and misdeeds that occurred from them."
 muftis:
   shaykh:
-  - name: Shaykh Ibn Baz
+  - name: Shaykh Abdul-Aziz Ibn Baz
     url: /biography/binbaz/
 ---
 

@@ -4,7 +4,7 @@ publisher: alsalafiyyah.manhaj@gmail.com
 title: 'Tafsir Surah Al-Tawbah, Ayah 4: ''Except those of the Mushrikun with whom
   you have a treaty...'''
 hijri: '1442-03-21'
-source: Fatawa Al-Shaykh Ibn Baz p.8/290
+source: Fatawa Al-Shaykh Abdul-Aziz Ibn Baz p.8/290
 lang: en
 category:
 - quran

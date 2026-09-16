@@ -16,7 +16,7 @@ summary: What is prescribed is that the advice should be given in a kindly and p
   manner, because that makes it more acceptable and more beneficial.
 muftis:
   shaykh:
-  - name: Shaykh Ibn Baz
+  - name: Shaykh Abdul-Aziz Ibn Baz
     url: /biography/binbaz
 ---
 ### Question:

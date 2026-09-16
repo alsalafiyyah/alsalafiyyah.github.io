@@ -6,7 +6,7 @@ layout: post
 mass_edited: true
 publisher: alsalafiyyah.manhaj@gmail.com, salafiyyah@outlook.sa
 shaykhs:
-- Shaykh Ibn Baz
+- Shaykh Abdul-Aziz Ibn Baz
 - Shaykh Abdul-Aziz Aal Al-Shaykh
 - Shaykh Salih Fawzan
 - Shaykh Bakr Abu Zayd

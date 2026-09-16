@@ -6,7 +6,7 @@ layout: post
 mass_edited: true
 muftis:
   chairman:
-  - name: Shaykh Ibn Baz
+  - name: Shaykh Abdul-Aziz Ibn Baz
     url: /biography/binbaz/
   members:
   - name: Shaykh Abdullah ibn Ghudayyan
