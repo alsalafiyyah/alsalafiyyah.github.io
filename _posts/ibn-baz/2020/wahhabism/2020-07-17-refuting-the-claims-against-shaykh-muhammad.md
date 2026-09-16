@@ -5,6 +5,7 @@ publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa al-Shaykh Abdul-Aziz Ibn Baz 9/234
 date: 2020-07-17
 hijri: '1441-11-26'
+permalink: /wahhabism/refuting-the-claims-against-shaykh-muhammad/
 lang: en
 active: wahhabi
 category:

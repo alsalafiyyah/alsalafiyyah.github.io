@@ -6,6 +6,9 @@ source: Fatawa Nur 'Ala al-Darb, Tape No.709, Question 1
 mp3: "https://salafimanhaj.github.io/assets/ibn-baz/a-brief-of-the-salafi-dawah-and-the-life-of-shaykh-muhammad-bin-abdul-wahhab.mp3"
 hijri: '1441-12-16'
 date: 2020-08-06
+redirect_from:
+  - /wahhabism/a-brief-of-the-dawah-salafiyyah/
+  - /wahhabism/a-brief-of-the-dawah-salafiyyah/
 category:
 - audios
 - wahhabism

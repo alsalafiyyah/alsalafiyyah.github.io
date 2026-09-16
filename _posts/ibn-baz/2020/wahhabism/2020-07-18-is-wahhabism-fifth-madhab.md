@@ -8,6 +8,7 @@ date: 2020-07-18
 active: wahhabism
 lang: en
 url: "https://binbaz.org.sa/fatwas/26/%D9%87%D9%84-%D8%A7%D9%84%D9%88%D9%87%D8%A7%D8%A8%D9%8A%D8%A9-%D9%85%D8%B0%D9%87%D8%A8-%D8%AE%D8%A7%D9%85%D8%B3-%D8%A7%D9%85-%D8%AA%D8%AA%D8%A8%D8%B9-%D8%A8%D8%B9%D8%B6-%D8%A7%D9%84%D9%85%D8%B0%D8%A7%D9%87%D8%A8-%D8%A7%D9%84%D8%A7%D8%B1%D8%A8%D8%B9%D8%A9"
+permalink: /wahhabism/is-wahhabism-fifth-madhab/
 category:
 - manhaj
 - wahhabism
