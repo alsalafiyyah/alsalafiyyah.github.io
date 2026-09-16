@@ -19,6 +19,10 @@ muftis:
     url: /biography/binbaz/
 active: audios
 mp3: https://salafimanhaj.github.io/assets/ibn-baz/wahhabism-what-is-it.mp3
+redirect_from:
+  - /wahhabism/what-is-wahhabism/
+  - /wahhabism/what-is-wahhabism/
+
 ---
 
 ### Question: 
