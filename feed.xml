@@ -9,55 +9,42 @@ layout: null
     <updated>{{ site.time | date_to_xmlschema }}</updated>
     <id>{{ site.url | xml_escape }}</id>
 
-    {% if site.title %}
-        <title type="html">{{ site.title | smartify | xml_escape }}</title>
-    {% elsif site.name %}
-        <title type="html">{{ site.name | smartify | xml_escape }}</title>
-    {% endif %}
+    <title type="html">{{ site.title | default: site.name | smartify | xml_escape }}</title>
 
     {% if site.description %}
         <subtitle>{{ site.description | xml_escape }}</subtitle>
     {% endif %}
 
     {% if site.author %}
+        {% assign default_author_name = site.author.name | default: site.author %}
         <author>
-                <name>{{ site.author.name | default: site.author | xml_escape }}</name>
-            {% if site.author.email %}
-                <email>{{ site.author.email | xml_escape }}</email>
-            {% endif %}
-            {% if site.author.uri %}
-                <uri>{{ site.author.uri | xml_escape }}</uri>
-            {% endif %}
+            <name>{{ default_author_name | xml_escape }}</name>
+            {% if site.author.email %}<email>{{ site.author.email | xml_escape }}</email>{% endif %}
+            {% if site.author.uri %}<uri>{{ site.author.uri | xml_escape }}</uri>{% endif %}
         </author>
     {% endif %}
 
     {% assign posts = site.posts | where_exp: "post", "post.draft != true" %}
-    {% for post in posts limit: 50 %}
+    {% for post in posts limit:50 %}
+        {% assign post_title = post.title | smartify | strip_html | normalize_whitespace | xml_escape %}
+        {% assign post_url = site.url | append: post.url %}
+        {% assign post_date = post.date | date_to_xmlschema %}
         <entry{% if post.lang %}{{" "}}xml:lang="{{ post.lang }}"{% endif %}>
-            <title type="html">{{ post.title | smartify | strip_html | normalize_whitespace | xml_escape }}</title>
-            <link href="{{ site.url }}{{ post.url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
-            <published>{{ post.date | date_to_xmlschema }}</published>
-            <updated>{{ post.last_modified_at | default: post.date | date_to_xmlschema }}</updated>
-            <id>{{ site.url | xml_escape }}{{ post.url | xml_escape }}</id>
-            <content type="html" xml:base="{{ site.url | xml_escape }}{{ post.url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
+            <title type="html">{{ post_title }}</title>
+            <link href="{{ post_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
+            <published>{{ post_date }}</published>
+            <updated>{{ post.last_modified_at | date_to_xmlschema | default: post_date }}</updated>
+            <id>{{ post_url | xml_escape }}</id>
+            <content type="html" xml:base="{{ post_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content>
 
-            {% for authors in post.authors %}
-              {% capture target %}/authors/{{ authors }}{% endcapture %}
-              {% assign post_author = site.authors | where: "id", target | first | default: post.authors[0] | default: site.author %}
-              {% assign post_author_email = post_author.email | default: nil %}
-              {% assign post_author_uri = post_author.uri | default: nil %}
-              {% assign post_author_name = post_author.fullname | default: post_author %}
-
+            {% for author_id in post.authors %}
+              {% assign author_obj = site.data.authors[author_id] | default: site.author %}
+              {% assign author_name = author_obj.fullname | default: author_obj.name | default: author_id %}
               <author>
-                      <name>{{ post_author_name | default: "" | xml_escape }}</name>
-                  {% if post_author_email %}
-                      <email>{{ post_author_email | xml_escape }}</email>
-                  {% endif %}
-                  {% if post_author_uri %}
-                      <uri>{{ post_author_uri | xml_escape }}</uri>
-                  {% endif %}
+                  <name>{{ author_name | xml_escape }}</name>
+                  {% if author_obj.email %}<email>{{ author_obj.email | xml_escape }}</email>{% endif %}
+                  {% if author_obj.uri %}<uri>{{ author_obj.uri | xml_escape }}</uri>{% endif %}
               </author>
-
             {% endfor %}
 
             {% if post.category %}
@@ -68,12 +55,12 @@ layout: null
                 <category term="{{ tag | xml_escape }}" />
             {% endfor %}
 
-            {% if post.summary and post.summary != empty %}
+            {% if post.summary != blank %}
                 <summary type="html">{{ post.summary | markdownify | strip_html | normalize_whitespace | xml_escape }}</summary>
             {% endif %}
 
-            {% capture mastheadImagePath %}{{ site.url }}/img/{{ post.path | replace:'_posts','posts' | replace:'.html','' | replace:'.md','' }}.jpg{% endcapture %}
-            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ mastheadImagePath | xml_escape }}" />
+            {% assign img_path = post.path | replace: '_posts', 'posts' | replace: '.html', '' | replace: '.md', '' %}
+            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ site.url }}/img/{{ img_path }}.jpg" />
         </entry>
     {% endfor %}
 </feed>
