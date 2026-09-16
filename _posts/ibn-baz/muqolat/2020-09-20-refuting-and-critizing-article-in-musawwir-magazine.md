@@ -13,6 +13,9 @@ muftis:
   shaykh:
     - name: Shaykh Abdul-Aziz ibn Baz
       url: /biography/binbaz/
+redirect_from:
+  - /refuting-and-critizing-article-in-musawwir-magazine/
+  - /refuting-and-critizing-article-in-musawwir-magazine/
 ---
 
 All praise be to Allah, and peace and blessings be upon the Messenger of Allah, his family, his Companions, and those who follow his guidance.
