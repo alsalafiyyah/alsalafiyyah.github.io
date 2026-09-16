@@ -6,11 +6,15 @@
 @theme {
   --font-serif: "Playfair Display", serif;
   --font-sans: "Inter", sans-serif;
+  --bg-paper: #faf8f5;
 }
 
 body {
   font-family: var(--font-sans);
+  background-color: var(--bg-paper);
 }
+
+.theme-paper { background-color: var(--bg-paper); }
 
 .serif { 
   font-family: var(--font-serif);

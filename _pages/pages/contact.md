@@ -5,7 +5,7 @@ active: contact
 permalink: /contact/
 summary: "Contact us"
 ---
-<div class="p-8 mb-6 border-4 border-black dark:border-white bg-white dark:bg-zinc-950 transition-colors max-w-2xl mx-auto">
+<div class="p-8 mb-6 border-4 border-black dark:border-white dark:bg-zinc-950 transition-colors max-w-2xl mx-auto">
     <div class="mb-6">
         <span class="text-[10px] font-black uppercase tracking-[0.2em] block text-gray-400">Get in Touch</span>
         <h3 class="text-2xl font-bold italic serif dark:text-white">Contact Us</h3>
