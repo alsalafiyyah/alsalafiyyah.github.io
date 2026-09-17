@@ -5,37 +5,29 @@ module Jekyll
     def to_umalqura(input)
       return input if input.nil?
 
-      # Safely convert input (Time, String, or Date) to a true Ruby Date object
-      date = case input
-             when Date
-               input
-             when Time
-               input.to_date
-             when String
-               begin
-                 Date.parse(input)
-               rescue ArgumentError
-                 return input
-               end
-             else
-               return input
-             end
+      # 1. Force convert any raw date type into a string representation first
+      # to prevent parsing errors across mixed environments
+      date_str = input.to_s.split(' ').first # Extracts '2026-09-15'
 
-      # Get the Julian Day Number
-      jd = date.jd
-
-      # Umm al-Qura calculation boundary check (1356 AH to 1500 AH)
-      # Valid between March 14, 1937 and November 16, 2077
-      if jd < 2428606 || jd > 2479989
-        return "Date out of Umm al-Qura range"
+      begin
+        date = Date.parse(date_str)
+      rescue ArgumentError, TypeError
+        return input # Fallback to original if parsing breaks
       end
 
-      # Tabular adjustment factor optimized for Saudi Arabian Makkah coordinates
+      # 2. Get the Julian Day Number
+      jd = date.jd
+
+      # Umm al-Qura calculation boundary check (March 14, 1937 to November 16, 2077)
+      if jd < 2428606 || jd > 2479989
+        return input
+      end
+
+      # 3. Tabular astronomical adjustment factor optimized for Saudi Arabian Makkah coordinates
       l = jd - 1948440 + 10632
       n = ((l - 1) / 10631).to_i
       l = l - 10631 * n + 354
       
-      # Adjusted astronomical moon-conjunction shift variables
       j = (((10985 - l) / 5316).to_i) * ((50 * l / 17719).to_i) + ((l / 5670).to_i) * ((43 * l / 15238).to_i)
       l = l - (((30 - j) / 15).to_i) * ((17719 * j / 50).to_i) - ((j / 16).to_i) * ((15238 * j / 43).to_i) + 29
       
@@ -55,4 +47,5 @@ module Jekyll
   end
 end
 
+# Register the module natively with Liquid
 Liquid::Template.register_filter(Jekyll::UmmAlQuraFilter)

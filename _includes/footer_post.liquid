@@ -126,7 +126,7 @@
             <div>
                 <span class="text-gray-400 block mb-1">{{ site.site_elements.published }}</span>
                     <p class="leading-relaxed">{{ page.hijri }} \ {{ page.date | date: "%Y-%m-%d" }}</p>
-                    <p>{{ page.date | to_umalqura }}</p>
+                    <p>{{ page.date | date: "%Y-%m-%d" | to_umalqura }}/p>
             </div>
 
             {% if page.categories.size > 0 %}
