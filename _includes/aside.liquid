@@ -3,7 +3,19 @@
     <!-- Latest Posts Section -->
     <div class="border-t-2 border-black dark:border-white pt-4">
         <span class="text-[10px] font-black uppercase tracking-widest text-gray-400 block mb-2">{{ site.site_elements.latest_posts }}</span>
-        <div class="space-y-1">
+        <ul class="space-y-6">
+            {% for post in site.posts limit:3 %}
+            <li>
+              <a href="{{ post.url | relative_url }}" class="group block">
+                    <span class="text-[10px] font-bold opacity-50 block mb-1">
+                       {{ post.hijri }} \ {{ post.date | date: "%Y-%m-%d" }}
+                    </span>
+                     <span class="text-lg font-bold group-hover:underline">{{ post.title }}</span>
+              </a>
+            </li>
+            {% endfor %}
+        </ul>
+        <div class="space-y-1 hidden">
             {% for post in site.posts limit:3 %}
             <a href="{{ post.url | relative_url }}" class="group block">
                 <span class="text-[9px] font-bold uppercase tracking-widest opacity-40 group-hover:opacity-100 transition-opacity">
