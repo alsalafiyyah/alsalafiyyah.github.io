@@ -11,6 +11,7 @@ contact:
   name              : "Instagram@Alsalafiyyah"
   email             : "alsalafiyyah@icloud.com"
 safe                : false
+plugins_dir         : ["_plugins"]
 future              : true
 g_search_value      : "alsalafiyyah.github.io" # google search value
 encoding            : "utf-8"
