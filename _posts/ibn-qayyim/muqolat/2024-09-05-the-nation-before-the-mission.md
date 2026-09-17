@@ -13,7 +13,6 @@ note: false
 summary: 'When God sent Muhammad (peace be upon him) the people on earth were of two
   groups: the people of the Book, and the pretenders of Faith (the hypocrites) who
   followed no Book.'
-permalink: /muqolat/the-nation-before-the-mission/
 muftis:
   shaykh:
   - name: Imam Ibn Al-Qayyim

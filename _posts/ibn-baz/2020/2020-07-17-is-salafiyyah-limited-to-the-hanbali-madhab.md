@@ -7,6 +7,9 @@ category:
 - fatwas
 - manhaj
 hijri: '1441-11-26'
+redirect_from:
+  - /are-hanabilah-the-only-salafis/
+  - /are-hanabilah-the-only-salafis/
 summary: This is not true. The Salaf were the Sahabah and those who followed their
   way from among the Tabi'un.
 muftis:

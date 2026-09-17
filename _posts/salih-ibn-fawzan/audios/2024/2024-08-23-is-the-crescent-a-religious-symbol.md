@@ -13,7 +13,9 @@ category:
 - manhaj
 tags:
 - salih-ibn-fawzan
-note: false
+redirect_from:
+  - /audios/crescent-moon-is-not-symbol-of-islam-muslims/
+  - /audios/crescent-moon-is-not-symbol-of-islam-muslims/
 summary: This is a custom they adopted, and it has no basis in religion.
 mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/is-the-crescent-a-religious-symbol.mp3
 muftis:
