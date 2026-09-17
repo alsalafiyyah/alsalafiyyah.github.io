@@ -27,6 +27,10 @@ paginate            : 20
 paginate_path       : "/fatwas/:num/"
 img_url: "/assets/images"
 
+pagination:
+  enabled: true
+  paginate: 6 
+
 webmaster_verifications: 
   google_site       : "K7QDv3cEwylAu_9fndO3ebQmNowxxRYCpqDEzQKQOy4" # google site verification
   bing              : "4F1A0A46CAA92F43191A0C4B37948DD7" # msvalidate.01
