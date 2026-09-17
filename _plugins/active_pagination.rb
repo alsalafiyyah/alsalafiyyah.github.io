@@ -1,105 +1,107 @@
 # _plugins/active_pagination.rb
 #
-# Jekyll Active Section & Category Paginator Plugin
-#
-# Paginates posts for any page that specifies `active: <name>` in its frontmatter:
-# ---
-# active: audios // videos, muqolat, biography, etc.
-# ---
+# Jekyll Active Category/Section Paginator Plugin
+# Supports pages such as:
+#   _pages/audio-fatwas.html (with active: "audios")
+# Matches posts with front matter:
+#   active: audios
 
 module Jekyll
-  class Pagination < Generator
+  class ActivePaginationGenerator < Generator
     safe true
-    priority :lowest # Run after all pages and posts are loaded
+    priority :lowest # Ensures all posts and collections are loaded first
 
     def generate(site)
-      # Check if pagination is disabled in _config.yml
-      if site.config['pagination'] && site.config['pagination']['enabled'] == false
-        return
-      end
-
-      paginate_active_pages(site)
-    end
-
-    def paginate_active_pages(site)
-      # Duplicate site.pages array to safely append new paginated pages during iteration
+      # Find all pages in site.pages (including _pages/) declaring an 'active' key
       pages_to_paginate = site.pages.dup.select do |page|
-        !page.data['active'].nil? && !page.data['active'].to_s.strip.empty?
+        val = page.data['active']
+        !val.nil? && !val.to_s.strip.empty?
       end
 
-      # Default paginate size from _config.yml (fallback to 10)
-      default_paginate_size = (site.config.dig('pagination', 'paginate') || site.config['paginate'] || 10).to_i
+      return if pages_to_paginate.empty?
+
+      # Global paginate size from _config.yml (defaults to 10)
+      global_paginate = (site.config.dig('pagination', 'paginate') || site.config['paginate'] || 10).to_i
 
       pages_to_paginate.each do |page|
-        # 1. Clean the active key (handles inline comments like "audios // videos...")
         raw_active = page.data['active'].to_s
-        active_key = raw_active.split('//').first.strip.downcase
+        active_target = raw_active.split('//').first.strip.downcase
 
-        # 2. Filter posts matching this active key (checks categories, category, tags, and active)
-        matching_posts = filter_posts_for_active(site, active_key)
+        # 1. Filter posts that have active: audios
+        matching_posts = find_posts_for_active(site, active_target)
 
-        # 3. Allow page-level pagination limit override: paginate: 5 in frontmatter
-        paginate_size = (page.data['paginate'] || default_paginate_size).to_i
+        # 2. Page-level pagination limit: paginate: 5
+        paginate_size = (page.data['paginate'] || global_paginate).to_i
         paginate_size = 10 if paginate_size <= 0
 
         total_pages = (matching_posts.size / paginate_size.to_f).ceil
         total_pages = 1 if total_pages < 1
 
-        # 4. Resolve the base directory for permalinks
-        base_dir = resolve_base_dir(page, active_key)
+        # 3. Base directory for pagination URLs (respects permalink: /audio-fatwas/)
+        base_dir = determine_base_dir(page, active_target)
 
-        # 5. Bind Page 1 directly to the existing page
-        pager1 = Pager.new(site, 1, matching_posts, total_pages, paginate_size, base_dir)
+        # 4. Page 1 (The base page)
+        pager1 = ActivePager.new(site, 1, matching_posts, total_pages, paginate_size, base_dir)
         page.pager = pager1
+        
+        # Inject to page.data so both paginator and page.pager work in Liquid layouts
         page.data['pager'] = pager1.to_liquid
-        page.data['paginator'] = pager1.to_liquid # Compatibility with standard paginator
+        page.data['paginator'] = pager1.to_liquid
+        page.data['current_page'] = 1
+        page.data['total_pages'] = total_pages
 
-        # 6. Generate Page 2 through total_pages
+        # 5. Generate subpages (Page 2 through total_pages)
         (2..total_pages).each do |current_page|
-          pager = Pager.new(site, current_page, matching_posts, total_pages, paginate_size, base_dir)
+          pager = ActivePager.new(site, current_page, matching_posts, total_pages, paginate_size, base_dir)
           paginated_page = ActivePaginationPage.new(site, page, current_page, base_dir)
+
           paginated_page.pager = pager
           paginated_page.data['pager'] = pager.to_liquid
           paginated_page.data['paginator'] = pager.to_liquid
+
           site.pages << paginated_page
         end
       end
     end
 
-    # Flexible matching: matches post categories, tags, or post-level active key
-    def filter_posts_for_active(site, active_key)
-      target = active_key.downcase
-      site.posts.docs.select do |post|
+    def find_posts_for_active(site, target)
+      all_posts = site.posts.docs || []
+
+      matching = all_posts.select do |post|
+        post_active = post.data['active'].to_s.strip.downcase
+
+        # Checks active: audios, categories, and tags
         categories = Array(post.data['categories']).flatten.map(&:to_s).map(&:downcase)
         category = post.data['category'] ? [post.data['category'].to_s.downcase] : []
         tags = Array(post.data['tags']).flatten.map(&:to_s).map(&:downcase)
-        post_active = post.data['active'].to_s.downcase
-        post_type = post.data['type'].to_s.downcase
 
-        (categories + category).include?(target) ||
-          tags.include?(target) ||
-          post_active == target ||
-          post_type == target
-      end.reverse
+        post_active == target ||
+          (categories + category).include?(target) ||
+          tags.include?(target)
+      end
+
+      matching.reverse # Newest posts first
     end
 
-    def resolve_base_dir(page, active_key)
-      dir = page.dir.to_s
-      if dir.empty? || dir == '/'
-        # Check if page has a custom slug or basename
-        if page.name.include?('.') && !['index.html', 'index.md'].include?(page.name)
-          slug = page.basename
-          "/#{slug}"
-        else
-          "/#{active_key}"
-        end
-      else
-        dir.chomp('/')
+    def determine_base_dir(page, active_target)
+      permalink = page.data['permalink'].to_s.strip
+      return permalink.chomp('/') unless permalink.empty?
+
+      url = page.url.to_s.strip
+      if !url.empty? && url != '/'
+        return url.chomp('/').sub(/\/index\.html$/, '').chomp('/')
       end
+
+      dir = page.dir.to_s.strip
+      if !dir.empty? && dir != '/'
+        return dir.chomp('/')
+      end
+
+      "/#{active_target}"
     end
   end
 
-  class Pager
+  class ActivePager
     attr_reader :current_page, :total_pages, :total_posts, :per_page,
                 :posts, :previous_page, :next_page,
                 :previous_page_path, :next_page_path
@@ -116,7 +118,6 @@ module Jekyll
       @previous_page = current_page > 1 ? current_page - 1 : nil
       @next_page = current_page < total_pages ? current_page + 1 : nil
 
-      # Construct friendly URL paths for Previous & Next pagination buttons
       @previous_page_path = if @previous_page
         @previous_page == 1 ? "#{base_dir}/" : "#{base_dir}/page/#{@previous_page}/"
       else
@@ -152,22 +153,19 @@ module Jekyll
     def initialize(site, base_page, current_page, base_dir)
       @site = site
       @base = site.source
-      # Clean standard pagination directory: /audios/page/2/index.html
       @dir = "#{base_dir}/page/#{current_page}"
       @name = 'index.html'
 
       self.process(@name)
 
-      # Inherit frontmatter data, custom layout, and metadata from the parent page
+      # Clones layout, title, and metadata from _pages/audio-fatwas.html
       self.data = base_page.data.dup
 
-      # Update title and pagination flags
       base_title = base_page.data['title'] || base_page.data['active'].to_s.capitalize
       self.data['title'] = "#{base_title} - Page #{current_page}"
       self.data['current_page'] = current_page
       self.data['is_pagination_page'] = true
 
-      # Inherit page content template so custom Liquid layouts render identical markup
       self.content = base_page.content
     end
   end
