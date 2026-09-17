@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: json
 title: Muqolat
 active: muqolat
 permalink: /muqolat/
