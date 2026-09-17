@@ -10,6 +10,9 @@ category:
 - palestine
 tags:
 - salih-ibn-fawzan
+redirect_from:
+  - /audios/jews-assembling-in-palestine-is-sign-of-the-hour/
+  - /audios/jews-assembling-in-palestine-is-sign-of-the-hour/
 summary: The gathering of Jews in Palestine is among the signs of the Hour, for they
   gather in the end of times in Palestine awaiting the Antichrist.
 mp3: https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/the-gathering-of-the-jews-in-palestine-and-the-signs-of-the-hour.mp3
