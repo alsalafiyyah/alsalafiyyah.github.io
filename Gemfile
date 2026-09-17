@@ -16,3 +16,6 @@ gem "jekyll-include-cache"
 
 gem 'jekyll-redirect-from'
 
+gem 'jekyll_active_pagination'
+
+gem 'jekyll_umm_alqura'
