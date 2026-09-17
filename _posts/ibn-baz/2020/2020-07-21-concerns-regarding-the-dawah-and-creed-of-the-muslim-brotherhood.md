@@ -18,6 +18,9 @@ category:
 - sects
 title: Concerns Regarding the Da'wah and Creed of the Muslim Brotherhood
 translation: false
+redirect_from:
+  - /the-muslim-brotherhood/
+  - /the-muslim-brotherhood/
 ---
 
 ### Question: 
