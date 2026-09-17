@@ -1,20 +1,27 @@
 ---
 layout: default
 ---
-<div class="prose prose-xl prose-black">
+ <div class="prose prose-xl prose-black">
  {% if page.videoID %}
   {% include video_iframe.liquid %}
  {% endif %}
  {% if page.mp3 %}
-  {% include audio_player.liquid %}
+  <div class="flex flex-col items-center justify-center mb-10">
+   <audio 
+    src="{{ page.mp3 }}" 
+    controls
+    class="w-full max-w-md rounded-lg shadow-md bg-slate-800 accent-emerald-800 filter invert contrast-125 dark:invert-0">
+    Your browser does not support the audio element.
+   </audio>
+  </div>
  {% endif %}
- <div class="post">
+  <div class="post">
    {% if page.scholar %}
    <p class="font-black uppercase text-black dark:text-white mb-3">
     {{ page.scholar }}
    </p>
    {% endif %}
    {{ content }}
- </div>
+  </div>
  </div>
  {% include footer_post.liquid %}
