@@ -609,7 +609,7 @@ document.querySelectorAll('.umalqura-date').forEach(el => {
     if (gregorianDate) {
         const options = { calendar: 'islamic-umalqura', day: 'numeric', month: 'long', year: 'numeric' };
         const hijriDate = new Intl.DateTimeFormat('en-US-u-ca-islamic-umalqura', options).format(new Date(gregorianDate));
-        el.textContent = hijriDate + " AH";
+        el.textContent = hijriDate;
     }
 });
 </script>
