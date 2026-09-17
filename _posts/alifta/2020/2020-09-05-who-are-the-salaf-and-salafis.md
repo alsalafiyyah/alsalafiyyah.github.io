@@ -8,7 +8,6 @@ group1: true
 hijri: '1442-01-17'
 lang: en
 layout: post
-mass_edited: true
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa al-Lajnah ad-Daimah no. 6149, Question 2
 summary: Salaf are Ahl-ul-Sunnah wal-Jama'ah who are the followers of the Prophet

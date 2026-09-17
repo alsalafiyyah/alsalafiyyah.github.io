@@ -10,6 +10,9 @@ category:
 - manhaj
 tags:
 - ibn-uthaymeen
+redirect_from:
+  - /who-are-salaf-saleh/
+  - /who-are-salaf-saleh/
 url: https://binothaimeen.net/s/gmkXp3oG
 mp3: "https://salafimanhaj.github.io/assets/ibn-uthaymeen/who-are-the-salaf.mp3"
 active: audios
