@@ -1,4 +1,4 @@
-{% if page.date %}
+
 <footer class="mt-24 border-t-4 footer-post border-black dark:border-white pt-12 space-y-12 transition-colors">
     
     <!-- Committee / Scholars -->
@@ -126,7 +126,7 @@
             <div>
                 <span class="text-gray-400 block mb-1">{{ site.site_elements.published }}</span>
                     <p class="leading-relaxed">{{ page.hijri }} \ {{ page.date | date: "%Y-%m-%d" }}</p>
-                    <p>{{ page.date | date: "%Y-%m-%d" | to_umalqura }}/p>
+                    <p>{{ page.date | to_umalqura }}</p>
             </div>
 
             {% if page.categories.size > 0 %}
@@ -267,4 +267,3 @@
     </div>
 
 </footer>
-{% endif %}
