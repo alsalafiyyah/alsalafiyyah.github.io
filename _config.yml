@@ -172,8 +172,6 @@ plugins:
   - liquid-c
   - jekyll-include-cache
   - jekyll-redirect-from
-  - jekyll_active_pagination
-  - jekyll_umm_alqura
 
 exclude:
   - bin
