@@ -4,8 +4,8 @@
     "tailwindcss": "^4.3.3"
   },
   "scripts": {
-  "build:css": "npx tailwindcss -i ./src/input.css -o ./assets/css/main.css",
-  "watch:css": "npx tailwindcss -i ./src/input.css -o ./assets/css/main.css --watch",
-  "start": "npm run build:css && (npm run watch:css & bundle exec jekyll serve --host 0.0.0.0)"
+    "build:css": "npx tailwindcss -i ./src/input.css -o ./assets/css/main.css",
+    "watch:css": "npx tailwindcss -i ./src/input.css -o ./assets/css/main.css --watch",
+    "start": "npm run build:css && (npm run watch:css & bundle exec jekyll serve --host 0.0.0.0)"
   }
 }
