@@ -3,16 +3,25 @@ require 'date'
 module Jekyll
   module UmmAlQuraFilter
     def to_umalqura(input)
+      return input if input.nil?
+
+      # Safely convert input (Time, String, or Date) to a true Ruby Date object
       date = case input
-             when Date, Time
+             when Date
                input
+             when Time
+               input.to_date
              when String
-               Date.parse(input)
+               begin
+                 Date.parse(input)
+               rescue ArgumentError
+                 return input
+               end
              else
                return input
              end
 
-      # Gregorian to Julian Day
+      # Get the Julian Day Number
       jd = date.jd
 
       # Umm al-Qura calculation boundary check (1356 AH to 1500 AH)
