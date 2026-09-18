@@ -11,7 +11,7 @@ category:
 - audios
 link: "https://alfawzan.live/content/2379/"
 mp3: "https://audio.alfawzan.live/7058.mp3"
-source: Fatwa No. 14269
+source: Fatwa No. 2379
 active: audios
 summary: "The standard is gathering upon the truth—they are the Jama'ah, and they will not gather upon misguidance."
 muftis:
