@@ -161,6 +161,24 @@
       "name": "{{ site.title }}"
     }
   }
+  {% elsif page.active == "video" %}
+   {% for post in posts %}
+   {% if post.videoID %}
+  ,{
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": {{ post.title | default: site.title | jsonify }},
+    "description": {{ post.summary | default: site.description | strip_html | jsonify }},
+    "thumbnailUrl": "https://img.youtube.com/vi/{{ post.videoID }}/maxresdefault.jpg",
+    {% if post.date %}"uploadDate": "{{ post.date | date_to_xmlschema }}",{% endif %}
+    "embedUrl": "https://www.youtube.com/embed/{{ post.videoID }}?modestbranding=1&rel=0",
+    "author": {
+      "@type": "Person",
+      "name": "{{ site.title }}"
+    }
+  }
+  {% endif %}
+  {% endfor %}
   {% endif %}
   ,{
     "@context": "https://schema.org",
