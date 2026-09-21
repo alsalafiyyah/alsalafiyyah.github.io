@@ -290,6 +290,10 @@ defaults:
       type: "pages"
     values:
       layout: "page"
+  - scope:
+      path: "fatwas/[0-9]*/**"
+    values:
+      sitemap: false
 
 # Alifta Scholars
 group1:
