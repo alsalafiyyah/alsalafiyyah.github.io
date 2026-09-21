@@ -2,7 +2,7 @@
 layout: post
 published: true
 publisher: alsalafiyyah.manhaj@gmail.com
-title: "The True Meaning of 'La ilaha illa Allah'"
+title: "The True Meaning of La ilaha illa Allah"
 date: 2026-08-20
 hijri: '1448-03-07'
 category:
