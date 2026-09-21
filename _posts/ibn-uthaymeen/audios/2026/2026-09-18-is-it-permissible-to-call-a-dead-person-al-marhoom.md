@@ -2,7 +2,7 @@
 layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: "Is it Permissible to Call a Dead Person 'Al-Marhoom'?"
-date: 2026-09-18
+date: 2026-09-21
 hijri: 1448-04-10
 lang: en
 translation: false
