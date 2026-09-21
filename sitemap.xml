@@ -29,4 +29,47 @@ sitemap:
     </url>
     {% endunless %}
   {% endfor %}
+
+  {% for page in site.pages %}
+    {% comment %} Check if the page URL is a pagination page under /fatwas/ (e.g., /fatwas/2/ or /fatwas/page/2/) {% endcomment %}
+    {% assign parts = page.url | split: '/' %}
+    {% assign is_fatwas_pagination = false %}
+    
+    {% if parts[1] == "fatwas" %}
+      {% assign p2_int = parts[2] | plus: 0 %}
+      {% assign p2_str = p2_int | append: '' %}
+      {% if parts[2] == p2_str and parts[2] != "0" %}
+        {% assign is_fatwas_pagination = true %}
+      {% elsif parts[2] == "page" %}
+        {% assign p3_int = parts[3] | plus: 0 %}
+        {% assign p3_str = p3_int | append: '' %}
+        {% if parts[3] == p3_str and parts[3] != "0" %}
+          {% assign is_fatwas_pagination = true %}
+        {% endif %}
+      {% endif %}
+    {% endif %}
+
+    {% unless page.sitemap.exclude == "yes" or page.name == "feed.xml" or is_fatwas_pagination %}
+    <url>
+      <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
+      {% if page.sitemap.lastmod %}
+        <lastmod>{{ page.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
+      {% elsif page.date %}
+        <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
+      {% else %}
+        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      {% if page.sitemap.changefreq %}
+        <changefreq>{{ page.sitemap.changefreq }}</changefreq>
+      {% else %}
+        <changefreq>monthly</changefreq>
+      {% endif %}
+      {% if page.sitemap.priority %}
+        <priority>{{ page.sitemap.priority }}</priority>
+      {% else %}
+        <priority>0.3</priority>
+      {% endif %}
+    </url>
+    {% endunless %}
+  {% endfor %}
 </urlset>
