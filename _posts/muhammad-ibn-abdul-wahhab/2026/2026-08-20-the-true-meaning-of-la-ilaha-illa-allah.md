@@ -6,7 +6,7 @@ date: 2026-08-20
 hijri: '1448-03-07'
 category:
 - creed
-source: "A treatise by Shaykh al-Islam Muhammad ibn Abd al-Wahhab responding to a question about the meaning of "La ilaha illallah", (pg.1 - 4) - Published on the website of the Saudi Ministry of Islamic Affairs"
+source: "A treatise by Shaykh al-Islam Muhammad ibn Abd al-Wahhab responding to a question about the meaning of La ilaha illallah, (pg.1 - 4) - Published on the website of the Saudi Ministry of Islamic Affairs"
 summary: "Know that, May Allah have mercy on you, this phrase is what distinguishes disbelief from Islam."
 link: "https://mujaddid.net/%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d8%af-%d8%a8%d9%82%d9%88%d9%84-%d9%84%d8%a7-%d8%a5%d9%84%d9%87-%d8%a5%d9%84%d8%a7-%d8%a7%d9%84%d9%84%d9%87/"
 muftis:
