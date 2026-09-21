@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 publisher: alsalafiyyah.manhaj@gmail.com
 title: "The True Meaning of La ilaha illa Allah"
 date: 2026-08-20
