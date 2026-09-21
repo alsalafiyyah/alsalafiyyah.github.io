@@ -51,6 +51,8 @@
 {% endif %}
 
 <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}?v={{ site.time | date: '%s' }}">
+<link rel="sitemap" type="application/xml" title="Sitemap" href="{{ '/sitemap.xml' | absolute_url }}?v={{ site.time | date: '%s' }}">
+<link rel="sitemap" type="application/xml" title="Sitemap" href="{{ '/sitemap-posts.xml' | absolute_url }}?v={{ site.time | date: '%s' }}">
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
