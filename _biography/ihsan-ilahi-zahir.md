@@ -23,7 +23,7 @@ Born in Sialkot in 1363 AH, he had completely memorized the Quran by the age of 
 * Editor-in-Chief of *Tarjuman al-Hadith* magazine (published by the Ahl al-Hadith Association in Lahore) and managing editor of the *Ahl al-Hadith* weekly magazine.
 * Dedicated his life to active da'wah upon returning home. When offered a position in Saudi Arabia, he declined, choosing to stay true to the verse: *"And it is not for the believers to go forth [to battle] all at once. For there should separate from every division of them a group [remaining] that they may obtain understanding in religion and warn their people when they return to them that they might be cautious"* (Quran 9:122).
 
-Dr. Muhammad Luqman al-Salifii noted in *Al-Dawah* magazine that Ihsan Ilahi was an exceptionally brilliant student who memorized thousands of Hadiths. He would frequently sit on the gravel in the university courtyard before Sheikh Nasir al-Din al-Albani, discussing Hadith terminology and narrators, laying the foundation for a lifetime of defending the Sunnah with both pen and tongue.
+Dr. Muhammad Luqman al-Salafi noted in *Al-Dawah* magazine that Ihsan Ilahi was an exceptionally brilliant student who memorized thousands of Hadiths. He would frequently sit on the gravel in the university courtyard before Sheikh Nasir al-Din al-Albani, discussing Hadith terminology and narrators, laying the foundation for a lifetime of defending the Sunnah with both pen and tongue.
 
 ### Opposition to Deviation and Martyrdom
 
