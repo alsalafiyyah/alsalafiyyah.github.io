@@ -4,7 +4,7 @@ publisher: "alsalafiyyah@icloud.com"
 title: "A Brief Biography of Shaykh Ihsan Ilahi Zahir"
 name: "Shaykh Ihsan Ilahi Zahir"
 summary: "Shaykh Ihsan Ilahi was a prominent Pakistani scholar who stood at the forefront of the intellectual campaign against deviant sects."
-link: https://saaid.org/Warathah/1/taher.htm
+link: "https://saaid.org/Warathah/1/taher.htm, https://shamela.ws/author/2345"
 ---
 
 Shaykh Ihsan Ilahi was a prominent Pakistani scholar who stood at the forefront of the intellectual campaign against deviant sects. Through thorough research and original scholarship, he exposed how far they had deviated from the path of Allah and the Sunnah of His Prophet, despite claiming Islam and masking their hypocrisy behind "dissimulation" (*taqiyyah*).
@@ -21,7 +21,7 @@ Born in Sialkot in 1363 AH, he had completely memorized the Quran by the age of 
 
 * Served as President of the Academy of Islamic Research.
 * Editor-in-Chief of *Tarjuman al-Hadith* magazine (published by the Ahl al-Hadith Association in Lahore) and managing editor of the *Ahl al-Hadith* weekly magazine.
-* Dedicated his life to active da'wah upon returning home. When offered a position in Saudi Arabia, he declined, choosing to stay true to the verse: *"And it is not for the believers to go forth [to battle] all at once. For there should separate from every division of them a group [remaining] that they may obtain understanding in religion and warn their people when they return to them that they might be cautious"* (Quran 9:122).
+* Dedicated his life to active da'wah upon returning home. When offered a position in Saudi Arabia, he declined, choosing to stay true to the verse: **"And it is not (proper) for the believers to go out to fight (Jihad) all together. Of every troop of them, a party only should go forth, that they (who are left behind) may get instructions in (Islamic) religion, and that they may warn their people when they return to them, so that they may beware (of evil)."** (Qur'an, al-Tawbah, 9:122).
 
 Dr. Muhammad Luqman al-Salafi noted in *Al-Dawah* magazine [^1] that Ihsan Ilahi was an exceptionally brilliant student who memorized thousands of Hadiths. He would frequently sit on the gravel in the university courtyard before Sheikh Nasir al-Din al-Albani, discussing Hadith terminology and narrators, laying the foundation for a lifetime of defending the Sunnah with both pen and tongue.
 
