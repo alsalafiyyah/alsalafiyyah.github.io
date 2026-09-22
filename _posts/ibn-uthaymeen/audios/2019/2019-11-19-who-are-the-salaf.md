@@ -65,6 +65,7 @@ Therefore, the favored generations are the Righteous Predecessors (al-Salaf al-S
 
 ## Further reading:
 
+- [An Overview of the Salafi Da'wah and the Life of Imam Muhammad ibn Abd al-Wahhab](/audios/an-overview-of-the-salafi-dawah-and-the-life-of-imam-muhammad-ibn-abd-al-wahhab/) - Shaykh Ibn Baz
 - [What is Salafiyyah?](/what-is-salafiyyah/) - Permanent Committee
 - [Is Salafiyyah Limited to the Hanbali Madhab?](/is-salafiyyah-limited-to-the-hanbali-madhab) - Shaykh Abdul-Aziz Ibn Baz
 - [Is Salafiyyah Just Another Islamic Sect?](/is-salafiyyah-just-another-islamic-sect) - Shaykh Salih al-Fawzan
