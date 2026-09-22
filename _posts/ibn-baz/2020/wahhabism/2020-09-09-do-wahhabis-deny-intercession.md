@@ -10,6 +10,7 @@ lang: en
 layout: post
 category:
 - wahhabism
+- history
 permalink: /wahhabism/do-wahhabis-deny-intercession/
 muftis:
   shaykh:

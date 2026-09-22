@@ -1,11 +1,12 @@
 ---
-active: wahhabi
 date: 2020-08-08
 hijri: '1441-12-18'
 lang: en
 layout: post
 active: wahhabism
-mass_edited: true
+category:
+- history
+- wahhabism
 muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz

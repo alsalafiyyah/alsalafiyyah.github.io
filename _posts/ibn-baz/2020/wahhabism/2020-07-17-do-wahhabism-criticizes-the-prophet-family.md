@@ -13,7 +13,7 @@ permalink: /wahhabism/do-wahhabism-criticizes-the-prophet-family/
 url: https://binbaz.org.sa/discussions/99/%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D9%85%D8%B2%D8%A7%D8%B9%D9%85-%D8%A8%D8%A7%D8%B7%D9%84%D8%A9-%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%AF%D8%B9%D9%88%D8%A9-%D8%A7%D9%84%D9%88%D9%87%D8%A7%D8%A8%D9%8A%D8%A9
 category:
 - wahhabism
-- manhaj
+- history
 summary: "Wahhabism is attributed to the Imam and Sheikh Muhammad ibn Abd al-Wahhab (may Allah have mercy on him), who passed away in the year 1206 AH."
 muftis:
   shaykh:

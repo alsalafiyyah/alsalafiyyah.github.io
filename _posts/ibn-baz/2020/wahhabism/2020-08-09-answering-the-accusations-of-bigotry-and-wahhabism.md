@@ -10,6 +10,7 @@ summary: "The ignorant people and the enemies of Allah accused the prophets and 
 title: Answering the Accusations of Bigotry and Wahhabism
 category:
 - wahhabism
+- history
 muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz

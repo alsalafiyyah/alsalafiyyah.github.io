@@ -3,6 +3,7 @@ date: 2020-08-09
 hijri: '1441-12-19'
 lang: en
 layout: post
+active: wahhabism
 category: 
 - history
 - wahhabism

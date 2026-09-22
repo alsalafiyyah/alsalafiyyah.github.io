@@ -7,10 +7,10 @@ date: 2020-07-17
 hijri: '1441-11-26'
 permalink: /wahhabism/refuting-the-claims-against-shaykh-muhammad/
 lang: en
-active: wahhabi
+active: wahhabism
 category:
 - wahhabism
-- manhaj
+- history
 summary: What is the ruling on someone who attacks and slanders Imam Muhammad Ibn
   'Abdul-Wahhab and his Da'wah.
 muftis:
