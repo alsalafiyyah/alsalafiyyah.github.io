@@ -1,30 +1,32 @@
 ---
-active: wahhabi
 date: 2020-08-09
 hijri: '1441-12-19'
 lang: en
 layout: post
-mass_edited: true
+category: 
+- history
+- wahhabism
 muftis:
   shaykh:
   - name: Shaykh Abdul-Aziz ibn Baz
     url: /biography/binbaz/
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Majmu' Fatawa Ibn Baz 1/377
-summary: This claim is groundless. In fact, it is a lie and a way of hindering others
-  from the truth. Rather, it is known that when the followers of Imam Muhammad entered
-  Madinah, they spread the call of Salafiyyah.
-title: Is it true that the followers of Imam Shaykh Muhammad ibn Abdul-Wahhab seized
-  the Arabian Peninsula and reached Madinah
+summary: "This claim has no basis in truth whatsoever; rather, it is a lie and an obstruction from the truth. "
+title: "Refuting the Rumor That the Followers of Sheikh Muhammad ibn Abd al-Wahhab Tied Their Horses in the Rawdah"
+link: "https://binbaz.org.sa/fatwas/28/%D9%87%D9%84-%D8%A7%D8%AA%D8%A8%D8%A7%D8%B9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%88%D9%87%D8%A7%D8%A8-%D8%B1%D8%A8%D8%B7%D9%88%D8%A7-%D8%AE%D9%8A%D9%88%D9%84%D9%87%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%88%D8%B6%D8%A9"
 ---
+
 ### Question:
-Is it true that when the followers of Imam Shaykh Muhammad ibn 'Abdul-Wahhab (may Allah be merciful to him) seized the Arabian Peninsula and reached Madinah, they tied their horses to Al-Rawdah Al-Sharifah (the "Noble Garden" – a blessed area between the Prophet's grave and pulpit in his Masjid) in Al-Masjid Al-Nabawi (the Prophet’s Mosque)?
+
+Is there any truth to the rumor that when the followers of Imam Sheikh Muhammad ibn Abd al-Wahhab, may Allah have mercy on him, took control of the Arabian Peninsula and reached Madinah, they tied their horses in the Noble Rawdah located in the mosque of the Messenger, peace and blessings be upon him?
 
 ### Answer:
-This claim is groundless. In fact, it is a lie and a way of hindering others from the truth. Rather, it is known that when the followers of Imam Muhammad entered Madinah, they spread the call of Salafiyyah (those following the way of the righteous predecessors), clarified the real meaning of Tawhid (belief in Monotheism) with which Allah sent His Prophet Muhammad (peace be upon him) and all other prophets. They also condemned acts of major Shirk (associating others with Allah in His Divinity or worship that takes the Muslim out of Islam) committed by many people such as supplicating to and seeking help of the Messenger (peace be upon him) as well as the Sahabah (Companions of the Prophet) buried in Al-Baqi', the Prophet's household and other righteous people, and supplicating to the Prophet's uncle, Hamzah (may Allah be pleased with him), and to the martyrs of Battle of Uhud. Indeed, that is what is known about the followers of Imam Ibn 'Abdul-Wahhab. 
 
-They were known for teaching people the true essence of Islam and of disapproving of Bid'ah (innovation in religion) and superstitions which had spread in Al-Hijaz and other places at the time. Any claim that they had shown disrespect of the Prophet's grave or Al-Rawdah or disrespect of the Prophet (peace be upon him), any of the Sahabah (may Allah be pleased with them) or any righteous person is a mere fabrication and alteration of the truth.Moreover, many history books attest to what we have said and belie such false claims. May Allah grant us all understanding of His Way and steadfastness in it until we meet Him (Glorified be He). 
+This claim has no basis in truth whatsoever; rather, it is a lie and an obstruction from the truth. What is actually known about them when they took control of Madinah is that they spread the Salafi da'wah (call), clarified the reality of Tawhid (oneness of Allah) with which Allah sent His Prophet Muhammad, peace and blessings be upon him, and all other messengers, and denounced what many people were engaged in regarding major shirk (polytheism)—such as seeking aid from the Messenger, peace and blessings be upon him, and asking him for assistance, seeking aid from those in Al-Baqi' such as the Companions, members of the Prophet's household, and other righteous people, and seeking aid from the Prophet's uncle Hamzah, may Allah be pleased with him, and other martyrs at Uhud.
 
-May Allah protect us from the paths leading to error. Indeed, He is the Patron, Capable of all things.We ask Allah (Glorified and Exalted be He) to forgive the followers of Imam Ibn 'Abdul-Wahhab, all Muslim scholars, and callers to guidance, and to make us all among their followers in righteousness. 
+This is what is known of them, alongside teaching people the reality of Islam and denouncing the "innovations" (bid'ah) and superstitions that prevailed in the Hijaz and elsewhere at that time. Whoever claims otherwise about them—alleging that they showed disrespect to the Noble Grave or the Rawdah, or claiming that they belittled the Prophet, peace and blessings be upon him, any of the Companions, may Allah be pleased with them, or other righteous people—has lied, fabricated, and spoken contrary to reality and the truth.
 
-May Allah show us the truth, guide us to follow it, show us falsehood and guide us to avoid it. Indeed, He is the Patron, Capable of all things. Allah is the Grantor of success.
+The history books are present and bear witness to what we have mentioned, exposing the falsehood of the slanderers. May Allah grant me and you understanding of His religion and steadfastness upon it until we meet Him, the Glorified, and protect us and you from the paths of straying; indeed, He is the Guardian of that and is capable of it.
+
+We ask Allah, the Glorified and Exalted, to forgive them, all Muslim scholars, and the callers to guidance, and to make us and you among their followers in righteousness, to show us the truth as truth and grant us the ability to follow it, and to show us falsehood as falsehood and grant us the ability to avoid it. Indeed, He is the Guardian of that and is capable of it. And Allah is the Grantor of success.
