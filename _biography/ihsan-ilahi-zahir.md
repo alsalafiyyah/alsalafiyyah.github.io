@@ -23,9 +23,9 @@ Born in Sialkot in 1363 AH, he had completely memorized the Quran by the age of 
 * Editor-in-Chief of *Tarjuman al-Hadith* magazine (published by the Ahl al-Hadith Association in Lahore) and managing editor of the *Ahl al-Hadith* weekly magazine.
 * Dedicated his life to active da'wah upon returning home. When offered a position in Saudi Arabia, he declined, choosing to stay true to the verse: *"And it is not for the believers to go forth [to battle] all at once. For there should separate from every division of them a group [remaining] that they may obtain understanding in religion and warn their people when they return to them that they might be cautious"* (Quran 9:122).
 
-Dr. Muhammad Luqman al-Salafi noted in *Al-Dawah* magazine that Ihsan Ilahi was an exceptionally brilliant student who memorized thousands of Hadiths. He would frequently sit on the gravel in the university courtyard before Sheikh Nasir al-Din al-Albani, discussing Hadith terminology and narrators, laying the foundation for a lifetime of defending the Sunnah with both pen and tongue.
+Dr. Muhammad Luqman al-Salafi noted in *Al-Dawah* magazine [^1] that Ihsan Ilahi was an exceptionally brilliant student who memorized thousands of Hadiths. He would frequently sit on the gravel in the university courtyard before Sheikh Nasir al-Din al-Albani, discussing Hadith terminology and narrators, laying the foundation for a lifetime of defending the Sunnah with both pen and tongue.
 
-### Opposition to Deviation and Martyrdom
+### His Death, Martyrdom & Opposition to Deviation
 
 Because of his staunch Salafi creed, he was in constant intellectual conflict with deviant sects such as the Rafidah (Shiites), Ismailis, and Qadianis. He authored objective, meticulously researched works refuting their falsehoods.
 
@@ -51,7 +51,7 @@ Sheikh Ihsan traveled globally—gathering sources from Spain, Britain, France, 
 12. *Al-Shi'ah wa'l-Quran* (1403 AH)
 13. *Al-Batiniyyah bi-Firaqiha al-Mashhurah*
 14. *Firaq Shibh al-Qarah al-Hindiyyah wa Mu'taqadatuha*
-15. *Al-Nasraniyyah*
+15. *Al-Nasraniyyah* (Christianity)
 16. *Qadianism* (in English)
 17. *Al-Shi'ah wa'l-Sunnah* (in Persian)
 18. *Kitab al-Wasilah* (in English and Urdu)
@@ -60,3 +60,7 @@ Sheikh Ihsan traveled globally—gathering sources from Spain, Britain, France, 
 21. Editions of *Al-Shi'ah wa'l-Sunnah* in Persian, English, and Thai.
 
 *Source: Al-Jundi al-Muslim Magazine, published by the Saudi Ministry of Defense, Issue 105*
+
+### Footnote: 
+
+[^1]: Al-Da'wah magazine (Saudi Al-Da'wah magazine, issue no. 1087) : Dr. Muhammad Luqman al-Salafi : *"I knew this mujahid, who dedicated his life—nay, sold his soul—in the way of Allah for more than twenty-five years, when study benches in the Islamic University brought us together, may Allah have mercy on him. I sat side by side with him for four years and came to know him as an intelligent student who surpassed his peers in study, research, and debate! I found him memorizing thousands of Prophetic Hadiths by heart. He would leave the classroom, follow the Mufti of the Levant, Sheikh Nasir al-Din al-Albani [as Al-Albani was a teacher at the Islamic University between 1381 AH and 1383 AH], and sit before him on the gravel in the university courtyard, asking him about Hadith, its terminology, and its narrators, and debating with him. The Sheikh, open-hearted, would listen to him and answer his questions, as if he glimpsed in the young, perceptive man's eyes the great status he would hold in the path of calling to Allah and striving in His cause with pen and tongue."*
