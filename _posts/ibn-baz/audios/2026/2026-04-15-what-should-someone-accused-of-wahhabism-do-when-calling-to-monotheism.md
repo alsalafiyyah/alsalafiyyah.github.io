@@ -11,6 +11,7 @@ category:
 - sufism
 - shia
 - sects
+- history
 translation: false
 tags:
 - ibn-baz

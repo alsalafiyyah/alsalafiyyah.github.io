@@ -9,6 +9,7 @@ tags:
 category:
 - wahhabism
 - videos
+- history
 active: videos
 videoURL: https://youtu.be/V3K5l2_p0_U
 videoID: V3K5l2_p0_U

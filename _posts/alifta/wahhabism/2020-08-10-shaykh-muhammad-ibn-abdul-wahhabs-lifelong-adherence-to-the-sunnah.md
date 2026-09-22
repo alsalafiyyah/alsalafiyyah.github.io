@@ -10,6 +10,7 @@ link: "https://fatawapedia.com/%D8%AD%D9%83%D9%85-%D9%85%D8%A7-%D9%8A%D9%82%D8%A
 tags: alifta
 category:
 - wahhabism
+- history
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah 2/254-255, Fatwa no. 6477, Question 3
 summary: "Shaykh Muhammad ibn Abd al-Wahhab (may Allah have mercy on him) was one of the greatest callers to the Salafi methodology, sound creed, and upright path, and his books—may Allah have mercy on him—are filled with this."

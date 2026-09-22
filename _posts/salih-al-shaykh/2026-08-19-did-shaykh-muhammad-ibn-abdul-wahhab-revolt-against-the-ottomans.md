@@ -6,6 +6,7 @@ date: 2026-08-19
 hijri: '1448-03-06'
 category:
 - wahhabism
+- history
 tags:
 - salih-al-shaykh
 source: "As'ilah Kashf al-Shubhat, vol. 1, p. 4, Question 2"
@@ -14,6 +15,7 @@ muftis:
   shaykh:
   - name: Shaykh Salih Al al-Shaykh
     url: /biography/salih-al-shaykh
+active: wahhabism
 ---
 
 ### Question: 

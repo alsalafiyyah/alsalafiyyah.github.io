@@ -12,6 +12,7 @@ category:
 - audios
 - wahhabism
 - manhaj
+- history
 link: "https://alfawzan.live/content/15852/"
 mp3: "https://salafimanhaj.github.io/assets/saleh-ibn-fawzan/lessons-from-the-life-and-methodology-of-imam-muhammad-ibn-abdul-Wahhab.mp3"
 summary: "​The Sheikh and his likes renew this religion, clearing away from the creed the doubts and contradictory customs that have attached themselves to it."

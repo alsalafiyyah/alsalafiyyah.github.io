@@ -12,6 +12,7 @@ permalink: /wahhabism/is-wahhabism-fifth-madhab/
 category:
 - history
 - wahhabism
+- history
 summary: "This term is used by many people to refer to the call of the Imam and Shaykh Muhammad ibn Abd al-Wahhab ibn Sulayman at-Tamimi al-Hanbali, and they call him and his followers Wahhabis."
 muftis:
   shaykh:

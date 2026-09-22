@@ -9,6 +9,7 @@ translation: false
 active: wahhabism
 category:
 - wahhabism
+- history
 publisher: alsalafiyyah.manhaj@gmail.com
 source: Fatawa Al-Lajnah Ad-Da'imah 2/255-256, Fatwa no. 9450, Question 2
 summary: "Wahhabism is a term used by the opponents of Shaykh Muhammad ibn Abd al-Wahhab (may Allah have mercy on him) to refer to his call to purify monotheism (Tawhid) from polytheistic practices and to reject all paths except the path of Muhammad ibn Abdullah (peace be upon him)."

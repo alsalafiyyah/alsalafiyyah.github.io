@@ -10,6 +10,7 @@ category:
 - audios
 - wahhabism
 - manhaj
+- history
 summary: Wahhabism is a word used by the enemies of Salafiyyah. They use it to describe
   those who followed Imam Muhammad ibn 'Abdul-Wahhab ibn Sulayman ibn Ali Al-Tamimi
   Al-Hanbali, who died in 1206 AH in Al-Dir'iyyah.

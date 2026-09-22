@@ -8,6 +8,7 @@ category:
 - manhaj
 - videos
 - wahhabism
+- history
 tags:
 - ibn-uthaymeen
 active: videos

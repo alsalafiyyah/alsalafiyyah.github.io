@@ -9,6 +9,7 @@ link: https://binbaz.org.sa/fatwas/18383/%D9%85%D8%A7-%D9%8A%D9%81%D8%B9%D9%84%D
 category:
 - audios
 - manhaj
+- history
 tags:
 - ibn-baz
 lang: en

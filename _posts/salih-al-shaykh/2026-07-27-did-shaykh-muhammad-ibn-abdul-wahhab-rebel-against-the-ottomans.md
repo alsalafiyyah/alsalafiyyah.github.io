@@ -5,6 +5,7 @@ title: Did Shaykh Muhammad ibn Abd al-Wahhab Rebel Against the Ottomans?
 date: 2026-07-27
 category:
 - wahhabism
+- history
 tags:
 - salih-al-shaykh
 source: "Al-Ajwibah wal-Buhuth wal-Mudarasat 2/24–26"
@@ -16,6 +17,7 @@ muftis:
   - name: Shaykh Salih Al al-Shaykh
     url: /biography/salih-al-shaykh
 hijri: '1448-02-13'
+active: wahhabism
 ---
 
 ### Question:
