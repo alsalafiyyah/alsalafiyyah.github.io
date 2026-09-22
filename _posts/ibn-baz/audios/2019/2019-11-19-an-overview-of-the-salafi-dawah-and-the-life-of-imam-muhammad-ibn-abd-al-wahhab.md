@@ -9,8 +9,6 @@ category:
 - audios
 - history
 - wahhabism
-tags:
-- ibn-baz
 link: "https://binbaz.org.sa/fatwas/14512/%D9%86%D8%A8%D8%B0%D8%A9-%D8%B9%D9%86-%D8%A7%D9%84%D8%AF%D8%B9%D9%88%D8%A9-%D8%A7%D9%84%D8%B3%D9%84%D9%81%D9%8A%D8%A9-%D9%88%D8%AD%D9%8A%D8%A7%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%88%D9%87%D8%A7%D8%A8"
 mp3: "https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_709/nour_70901.mp3"
 summary: "The Salafi Da'wah is the call to what Allah sent His Prophet Muhammad ﷺ with. It is the call to adhere to the Magnificent Quran and the Purified Sunnah."
