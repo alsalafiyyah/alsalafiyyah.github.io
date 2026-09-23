@@ -7,7 +7,7 @@ permalink: /gems/
 {% for g in site.gems %}
   <article>
   <a href="{{ g.url }}">
-    <h2>{{ g.title }}</h2>
+    <h3>{{ g.title }}</h3>
     <p>{{ g.author }}</p>
     <p>{{ g.summary }}</p>
    </a>
