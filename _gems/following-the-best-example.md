@@ -11,3 +11,7 @@ summary: "Let us take in the Messenger of Allah, peace and blessings be upon him
 King Abdullah bin Abdul-Aziz Al Saud—may Allah Almighty have mercy on him—said: 
 
 Let us take in the Messenger of Allah, peace and blessings be upon him, a good example, adhering to his Sunnah, the Sunnah of the rightly guided Caliphs who were guided, and following the footsteps of the righteous Salaf (predecessors) of this Ummah (Muslim nation).
+
+<div class="mt-8 text-xl" dir="rtl">
+ {{ page.ar_text }}
+</div>
