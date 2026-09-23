@@ -1,0 +1,24 @@
+---
+layout: null
+active: videos
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  {% assign posts = site.posts | where_exp: "post", "post.active == page.active" %}
+  {% for post in posts %}
+    {% if post.videoID %}
+  <url>
+    <loc>{{ site.url }}{{ post.url }}</loc>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/{{ post.videoID }}/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>{{ post.title | xml_escape }}</video:title>
+      <video:description>{{ post.content | strip_html | truncatewords: 30 | xml_escape }}</video:description>
+      <video:player_loc>https://www.youtube.com/embed/{{ post.videoID }}</video:player_loc>
+      <video:publication_date>{{ post.date | date: "%Y-%m-%dT%H:%M:%S%z" }}</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+    {% endif %}
+  {% endfor %}
+</urlset>
