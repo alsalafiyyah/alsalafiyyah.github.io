@@ -2,7 +2,7 @@
 layout: post
 publisher: "alsalafiyyah.manhaj@gmail.com"
 title: "The Methodology of Success"
-author: "Prince Nayef bin Abdul-Aziz al-Saud"
+author: "Prince Nayef bin Abdul-Aziz Al-Saud"
 date: 2026-09-23
 ar_text: "قال الأمير نايف بن عبدالعزيز رحمه الله تعالى: إننا نؤكد لكم على أن هذه الدولة ستظل -بإذن الله- متبعة للمنهج السلفي القويم.. ولن تحيد عنه ولن تتنازل.. فهو مصدر عزها وتوفيقها ورفعتها.. كما أنه مصدر لرقيها وتقدمها.. لكونه يجمع بين الأصالة والمعاصرة.. فهو منهج ديني شرعي.. كما أنه منهج دنيوي.. يدعو إلى الأخذ بأسباب الرقي والتقدم.. والدعوة إلى التعايش السلمي مع الآخرين.. واحترام حقوقهم."
 summary: "We affirm to you that this [Saudi] state will remain—by Allah's permission—following the upright Salafi methodology, and it will neither deviate from it nor compromise on it."

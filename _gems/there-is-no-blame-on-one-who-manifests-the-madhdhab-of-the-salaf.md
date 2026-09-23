@@ -2,7 +2,7 @@
 layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: "There is no blame on one who manifests the madhdhab of the Salaf"
-author: "Shaykh al-Islam ibn Taymiyyah"
+author: "Shaykh Al-Islam Ibn Taymiyyah"
 date: 2026-08-05
 source: "Majmu' al-Fatawa 4/149"
 ar_text: "لا عيب على من أظهر مذهب السلف وانتسب إليه واعتزى إليه بل يجب قبول ذلك منه بالاتفاق."
