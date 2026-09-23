@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
-<div class="page">
+<div class="prose prose-lg dark:prose-invert">
 {{ content }}
+{% if page.ar_text %}
+<div class="mt-8 text-xl" dir="rtl">
+ {{ page.ar_text }}
+</div>
+{% endif %}
 </div>
