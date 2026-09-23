@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: page
 publisher: alsalafiyyah.manhaj@gmail.com
 title: "There is no blame on one who manifests the madhdhab of the Salaf"
 author: "Shaykh Al-Islam Ibn Taymiyyah"
-date: 2026-08-05
 source: "Majmu' al-Fatawa 4/149"
 ar_text: "لا عيب على من أظهر مذهب السلف وانتسب إليه واعتزى إليه بل يجب قبول ذلك منه بالاتفاق."
 summary: "There is no blame on one who manifests the madhdhab of the Salaf, affiliates with it, and takes pride in it; rather, accepting that from him is obligatory by consensus."
@@ -12,7 +11,3 @@ summary: "There is no blame on one who manifests the madhdhab of the Salaf, affi
 Shaykh al-Islam ibn Taymiyyah, may Allah Ta'ala have mercy on him, said:
 
 There is no blame on one who manifests the madhdhab of the Salaf, affiliates with it, and takes pride in it; rather, accepting that from him is obligatory by consensus.
-
-<div class="mt-8 text-xl" dir="rtl">
- {{ page.ar_text }}
-</div>

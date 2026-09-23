@@ -3,12 +3,12 @@ layout: default
 ---
 <div class="prose prose-lg dark:prose-invert">
 {{ content }}
+{% if page.source %}
+<p class="text-sm">Source: <b>{{ page.source }}</b></p>
+{% endif %}
 {% if page.ar_text %}
 <div class="mt-8 text-xl" dir="rtl">
  {{ page.ar_text }}
 </div>
-{% endif %}
-{% if page.source %}
-<p>Source: {{ page.source }}</p>
 {% endif %}
 </div>
