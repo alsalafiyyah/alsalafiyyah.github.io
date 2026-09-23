@@ -6,7 +6,7 @@ permalink: /gems/
 
 {% for g in site.gems %} 
 <article class="border-b border-border last:border-0"> 
-  <div class="py-6"> 
+  <div class="py-1"> 
     <p class="mb-1 text-sm text-muted-foreground-1">{{ g.author }}</p> 
     <h3 class="text-xl font-bold">
       <a href="{{ g.url }}" class="hover:text-primary-hover hover:underline">
