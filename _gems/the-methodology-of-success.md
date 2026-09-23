@@ -12,6 +12,6 @@ Prince Nayef bin Abdul-Aziz al-Saud—may Allah Almighty have mercy on him—sai
 
 We affirm to you that this state (Saudi state) will remain—by Allah's permission—following the upright Salafi methodology, and it will neither deviate from it nor compromise on it. For it is the source of its glory, success, and elevation, as well as the source of its advancement and progress, because it combines authenticity with contemporaneity. It is a legal religious methodology, as well as a worldly methodology that calls for embracing the means of progress and advancement, calling for peaceful coexistence with others, and respecting their rights.
 
-<div class="mt-8" dir="rtl">
+<div class="mt-8 text-xl" dir="rtl">
  {{ page.ar_text }}
 </div>
