@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: gems
 publisher: alsalafiyyah.manhaj@gmail.com
 title: "Religious Prohibition Against Cursing the Name 'Israel'"
 summary: "The correct practice is that it should be called 'the State of the Jews,' not 'the State of Israel.'"

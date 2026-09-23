@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: gems
 publisher: alsalafiyyah.manhaj@gmail.com
 title: "There is no blame on one who manifests the madhdhab of the Salaf"
 author: "Shaykh Al-Islam Ibn Taymiyyah"

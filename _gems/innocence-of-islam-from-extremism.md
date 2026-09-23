@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: gems
 publisher: "alsalafiyyah.manhaj@gmail.com"
 title: "Innocence of Islam from Extremism"
 author: "Prince Nayef bin Abdul-Aziz Al-Saud"

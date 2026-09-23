@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: gems
 publisher: "alsalafiyyah.manhaj@gmail.com"
 title: "The Methodology of Success"
 author: "Prince Nayef bin Abdul-Aziz Al-Saud"

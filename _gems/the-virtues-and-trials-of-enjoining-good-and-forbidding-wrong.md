@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: gems
 publisher: alsalafiyyah.manhaj@gmail.com
 title: "The Virtues and Trials of Enjoining Good and Forbidding Wrong"
 author: "Shaykh Abdul-Aziz al-Rajhi"

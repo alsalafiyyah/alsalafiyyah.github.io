@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: gems
 publisher: alsalafiyyah.manhaj@gmail.com
 title: "Following the Salaf"
 author: "Imam Abdul-Aziz bin Muhammad bin Saud (Abdul-Aziz I)"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: gems
 publisher: "alsalafiyyah.manhaj@gmail.com"
 title: "Following the Best Example"
 author: "King Abdullah bin Abdul-Aziz Al-Saud"
