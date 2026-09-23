@@ -205,6 +205,8 @@ collections:
     output: true
   biography:
     output: true
+  gems:
+    output: true
 
 defaults:
   # _posts
@@ -278,6 +280,14 @@ defaults:
     values:
       layout: "page"
       permalink: /biography/:title/
+
+  # _gems
+  - scope:
+      path: "_gems"
+      type: "pages"
+    values:
+      layout: "post"
+      permalink: /gems/:title/
 
   # _pages
   - scope:
