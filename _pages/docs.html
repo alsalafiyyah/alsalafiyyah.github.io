@@ -62,18 +62,28 @@ permalink: /docs/
         <div class="col-span-1 flex flex-col space-y-4">
             <!-- Bottom Part -->
             <div class="flex flex-col space-y-4 pt-2">
-        {% assign muqolat = site.posts | where_exp: "post", "post.active == 'muqolat'" %}
-        {% for post in muqolat limit:5 %}
-            {% if post.url != featured_muqolat_post.url %}
-                <div class="py-1">
-                    <span class="text-[10px] font-bold opacity-50 block mb-1">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</span>
-                    <a href="{{ post.url | relative_url }}" class="text-lg font-bold group-hover:underline block hover:underline">
-                        {{ post.title }}
-                    </a>
-                </div>
-            {% endif %}
-        {% endfor %}
 
+            {% assign featured_muqolat = site.gems | where: "featured_muqolat", true | first %}
+               {% if featured_muqolat %}
+                    <div class="py-1">
+                       <span class="text-[10px] font-bold opacity-50 block mb-1">{{ featured_muqolat.hijri }} / {{ featured_muqolat.date | date: "%d.%m.%Y" }}</span>
+                       <a href="{{ featured_muqolat.url | relative_url }}" class="text-lg font-bold group-hover:underline block hover:underline">
+                          {{ featured_muqolat.title }}
+                       </a>
+                   </div>
+               {% endif %}
+
+            {% assign muqolat = site.posts | where_exp: "post", "post.active == 'muqolat'" %}
+              {% for post in muqolat limit:5 %}
+                 {% if post.url != featured_muqolat_post.url %}
+                    <div class="py-1">
+                       <span class="text-[10px] font-bold opacity-50 block mb-1">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</span>
+                       <a href="{{ post.url | relative_url }}" class="text-lg font-bold group-hover:underline block hover:underline">
+                          {{ post.title }}
+                       </a>
+                   </div>
+               {% endif %}
+            {% endfor %}
                 <div class="flex flex-col w-full">
                     <div class="w-full flex h-0.5 bg-yellow-700/10 dark:bg-white/10">
                         <div class="w-1/2 bg-red-500 h-full"></div>
