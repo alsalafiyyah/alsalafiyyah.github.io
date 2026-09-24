@@ -37,6 +37,7 @@ permalink: /docs/
             <div class="flex flex-col space-y-4 pt-2">
         {% for post in site.gems limit:3 %}
                 <div class="py-1">
+                    <span class="text-[10px] font-bold opacity-50 block mb-1">{{ post.author }}</span>
                     <a href="{{ post.url | relative_url }}" class="text-lg font-bold group-hover:underline block hover:underline">
                         {{ post.title }}
                     </a>
