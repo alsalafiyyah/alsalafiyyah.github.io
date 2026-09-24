@@ -5,7 +5,7 @@ title: "The Superiority of Early Precedents and Companion Fatwas"
 author: "Imam Ibn al-Qayyim"
 source: "I'lam al-Muwaqqi'in 'an Rabb al-'Alamin, 4/90"
 ar_text: "قال ابن القيم رحمه الله تعالى في إعلام الموقعين عن رب العالمين (4 / 90): فصل: في جواز الفتوى بالآثار السلفية والفتاوي الصحابية، وأنها أولى بالأخذ بها من آراء المتأخرين وفتاويهم، وأن قربها إلى الصواب بحسب قرب أهلها من عصر الرسول صلوات الله وسلامه عليه وعلى آله، وأن فتاوى الصحابة أولى أن يؤخذ بها من فتاوى التابعين، وفتاوى التابعين أولى من فتاوى تابعي التابعين، وهلم جرا، وكلما كان العهد بالرسول أقرب كان الصواب أغلب، وهذا حكم بحسب الجنس لا بحسب كل فرد فرد من المسائل، كما أن عصر التابعين، وإن كان أفضل من عصر تابعيهم فإنما هو بحسب الجنس لا بحسب كل شخص شخص، ولكن المفضلون في العصر المتقدم أكثر من المفضلين في العصر المتأخر، وهكذا الصواب في أقوالهم أكثر من الصواب في أقوال من بعدهم؛ فإن التفاوت بين علوم المتقدمين والمتأخرين كالتفاوت الذي بينهم في الفضل والدين."
-summary: ""
+summary: "Their proximity to the truth is directly proportional to how close their proponents were to the era of the Messenger—may the prayers and peace of Allah be upon him and his family."
 ---
 
 Imam bn al-Qayyim, may Allah Ta'ala have mercy on him, said in I'lam al-Muwaqqi'in 'an Rabb al-'Alamin (4/90):
