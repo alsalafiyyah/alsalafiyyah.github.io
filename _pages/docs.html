@@ -62,7 +62,7 @@ permalink: /docs/
         <div class="col-span-1 flex flex-col space-y-4">
             <!-- Bottom Part -->
             <div class="flex flex-col space-y-4 pt-2">
-            {% assign target_slugs = "the-wrath-incurring-nation-not-god-chosen-people, an-overview-of-the-salafi-dawah-and-the-life-of-imam-muhammad-ibn-abd-al-wahhab, is-salafiyyah-limited-to-the-hanbali-madhab, why-celebrating-the-prophets-birthday-is-prohibited-in-islam, darwin-theory, jews-gathering-in-palestine-is-sign-of-the-hour, islam-perspective-on-the-jewish-question-and-the-zionist-entity" | split: ", " %}
+            {% assign target_slugs = "the-wrath-incurring-nation-not-god-chosen-people, an-overview-of-the-salafi-dawah-and-the-life-of-imam-muhammad-ibn-abd-al-wahhab, why-celebrating-the-prophets-birthday-is-prohibited-in-islam, darwin-theory, jews-gathering-in-palestine-is-sign-of-the-hour, islam-perspective-on-the-jewish-question-and-the-zionist-entity" | split: ", " %}
               {% for slug in target_slugs %}
                 {% assign post = site.posts | where: "slug", slug | first %}
                  {% if post %}
@@ -91,7 +91,7 @@ permalink: /docs/
                 <!-- Recent Fatwas Content -->
                 <div class="space-y-6">
                     <div class="space-y-6 py-3 flex flex-col">
-                        {% for post in site.posts limit:5 %}
+                        {% for post in site.posts limit:6 %}
                         <a href="{{ post.url | relative_url }}" class="flex items-start gap-3 group" title="{{ post.title }}">
                             <span class="w-2 h-2 rounded-full bg-red-500 flex-shrink-0 mr-2.5 mt-2"></span>
                             <div class="flex flex-col">
