@@ -63,7 +63,7 @@ permalink: /docs/
             <!-- Bottom Part -->
             <div class="flex flex-col space-y-4 pt-2">
 
-            {% assign featured_muqolat = site.gems | where: "featured_muqolat", true | first %}
+            {% assign featured_muqolat = site.posts | where: "featured_muqolat", true | first %}
                {% if featured_muqolat %}
                     <div class="py-1">
                        <span class="text-[10px] font-bold block mb-1">{{ featured_muqolat.hijri }} / {{ featured_muqolat.date | date: "%d.%m.%Y" }}</span>
@@ -73,9 +73,10 @@ permalink: /docs/
                    </div>
                {% endif %}
 
-            {% assign muqolat = site.posts | where_exp: "post", "post.active == 'muqolat'" %}
-              {% for post in muqolat limit:5 %}
-                 {% if post.url != featured_muqolat_post.url %}
+            {% assign target_slugs = "the-wrath-incurring-nation-not-god-chosen-people, why-celebrating-the-prophets-birthday-is-prohibited-in-islam, darwin-theory, jews-gathering-in-palestine-is-sign-of-the-hour, islam-perspective-on-the-jewish-question-and-the-zionist-entity" | split: ", " %}
+              {% for slug in target_slugs %}
+                {% assign post = site.posts | where: "slug", slug | first %}
+                 {% if post %}
                     <div class="py-1">
                        <span class="text-[10px] font-bold block mb-1">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</span>
                        <a href="{{ post.url | relative_url }}" class="text-lg font-bold group-hover:underline block hover:underline">
