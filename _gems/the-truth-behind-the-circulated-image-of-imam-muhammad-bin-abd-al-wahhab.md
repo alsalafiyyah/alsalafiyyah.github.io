@@ -6,6 +6,7 @@ ar_text: "يُتداول عبر مواقع التواصل الاجتماعي ص�
 summary: "The person sitting on the chair is Sheikh Abdullah bin Isa bin Ali Al Khalifa, a son of the ruler of Bahrain, and not Imam Muhammad ibn Saud"
 link: "https://mujaddid.net/%D8%B5%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AC%D8%AF%D8%AF-%D9%85%D8%AD%D9%85%D8%AF%D8%A8%D9%86-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%88%D9%87%D8%A7%D8%A8-%D8%A7/"
 img: "/assets/images/img.jpg"
+gems_featured: true
 ---
 
 The text in the provided image translates as follows:
