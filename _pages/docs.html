@@ -17,7 +17,7 @@ permalink: /docs/
         <!-- Column 1: Gems -->
         <div class="col-span-1 flex flex-col space-y-6">
             {% assign gems_featured = site.gems | where: "gems_featured", true | first %}
-            <div class="relative bg-cover bg-no-repeat bg-center flex flex-col justify-end min-h-[450px] overflow-hidden" style="background-image:url('{{ gems_featured.gems_featured_img | relative_url }}')">
+            <div class="relative bg-cover bg-no-repeat bg-center flex flex-col justify-end min-h-[450px] overflow-hidden" style="background-image:url('{{ gems_featured.gems_featured_img | relative_url }}?v={{ site.time | date: '%s' }}')">
                 <!-- Top Badge -->
                 <span class="text-xs font-sans font-bold text-white absolute left-6 top-6 pb-2.5 border-b-2 border-red-500 z-10">
                     Gems
@@ -66,7 +66,7 @@ permalink: /docs/
             {% assign featured_muqolat = site.gems | where: "featured_muqolat", true | first %}
                {% if featured_muqolat %}
                     <div class="py-1">
-                       <span class="text-[10px] font-bold opacity-50 block mb-1">{{ featured_muqolat.hijri }} / {{ featured_muqolat.date | date: "%d.%m.%Y" }}</span>
+                       <span class="text-[10px] font-bold block mb-1">{{ featured_muqolat.hijri }} / {{ featured_muqolat.date | date: "%d.%m.%Y" }}</span>
                        <a href="{{ featured_muqolat.url | relative_url }}" class="text-lg font-bold group-hover:underline block hover:underline">
                           {{ featured_muqolat.title }}
                        </a>
