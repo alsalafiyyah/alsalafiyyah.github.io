@@ -7,7 +7,7 @@ hijri: 1448-04-14
 lang: en
 translation: false
 tags: ibn-uthaymeen
-source: ""
+source: "Fatawa Nur 'ala al-Darb, Tape No. 314, Question 14"
 category:
 - audios
 - family
