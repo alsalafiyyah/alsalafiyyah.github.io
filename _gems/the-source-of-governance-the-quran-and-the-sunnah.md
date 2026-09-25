@@ -1,0 +1,12 @@
+---
+layout: gems
+publisher: alsalafiyyah.manhaj@gmail.com
+title: "The Source of Governance: The Quran and the Sunnah"
+author: "King Khalid bin Abdulaziz Al Saud"
+ar_text: "قال الملك خالد بن عبد العزيز آل سعود – رحمه الله تعالى – {من نعم الله على هذا البلد وأبنائه: أن مَكَّنَ لهم دينهم الذي ارتضى لهم، وبدلهم من بعد خوفهم أمناً، وعبدوه وحده لا يشركون به شيئاً، ولذلك كان القرآن الكريم، وكانت السنة النبوية المطهرة، وما زالا مصدر الحكم والتشريع في هذه البلاد، حتى يرث الله الأرض ومن عليها؛ لإيماننا الكامل بأن في التمسك بهما قولاً وعملاً؛ نجاحنا وفلاحنا ورقينا وتقدمنا وتطورنا وازدهارنا. ومنذ أن مَنَّ الله على جلالة الملك عبد العزيز - رحمه الله - بنعمة توحيد هذه المملكة، وجمع شتاتها، تحت راية "لا إله إلا الله" "محمد رسول الله" وضع نصب عينيه: إقامة العدل، ونشر الأمن والرخاء، والدعوة إلى الله، والسير على نهج الرسول العظيم، والسلف الصالح؛ معتمداً في ذلك: على إيمانه بالله ، والجهاد في سبيله ونصرة كلمته.}"
+summary: "Among the blessings of Allah upon this country and its people is that He established for them their religion which He has approved for them, replaced their fear with security, and that they worship Him alone without associating anything with Him."
+---
+
+King Khalid bin Abdulaziz Al Saud—may Allah Almighty have mercy on him—said: 
+
+Among the blessings of Allah upon this country and its people is that He established for them their religion which He has approved for them, replaced their fear with security, and that they worship Him alone without associating anything with Him. Therefore, the Noble Quran and the purified Prophetestic Sunnah have been, and remain, the source of governance and legislation in this country until Allah inherits the earth and those upon it. This is due to our complete belief that in adhering to both, in word and deed, lies our success, our salvation, our progress, our advancement, our development, and our prosperity. Ever since Allah bestowed upon His Majesty King Abdulaziz—may Allah have mercy on him—the blessing of unifying this Kingdom, gathering its scattered parts under the banner of “There is no deity worthy of worship except Allah” and “Muhammad is the Messenger of Allah,” he set before his eyes: establishing justice, spreading security and prosperity, calling to Allah, and following the path of the great Messenger and the righteous Salaf (al-Salaf al-Salih), relying in that upon his faith in Allah, striving in His cause, and supporting His word.
