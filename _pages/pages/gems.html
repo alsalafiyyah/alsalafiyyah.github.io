@@ -1,6 +1,13 @@
 ---
 layout: page
 title: "Gems"
+pagination:
+  enabled: true
+  collection: gems
+  per_page: 5
+  trail:
+    before: 2
+    after: 2
 permalink: /gems/
 ---
 {% for g in site.gems %}
