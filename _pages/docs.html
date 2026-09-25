@@ -1,0 +1,98 @@
+---
+layout: page
+title: "Docs"
+permalink: /docs/
+---
+
+<div id="gems-container" class="space-y-4">
+  {% for g in site.gems %}
+  <article class="gem-item group block border-b border-black/10 dark:border-white/10 hover:border-black dark:hover:border-white transition-colors duration-300 py-4 first:pt-0 last:border-b-0 hidden">
+      <a href="{{ g.url | relative_url }}" class="flex flex-col gap-1 w-full">
+          
+          {% if g.author %}
+          <div class="text-[10px] font-black uppercase tracking-[0.2em] text-zinc-400 dark:text-zinc-500">
+              {{ g.author }}
+          </div>
+          {% endif %}
+
+          <h3 class="text-lg md:text-xl font-black uppercase tracking-tighter serif text-black dark:text-white group-hover:underline decoration-2 underline-offset-4 leading-tight">
+              {{ g.title }}
+          </h3>
+
+          <p class="text-xs md:text-sm font-medium leading-relaxed text-zinc-500 dark:text-zinc-400 line-clamp-2">
+              {{ g.summary }}
+          </p>
+
+          <div class="pt-1">
+              <span class="text-[10px] font-black uppercase tracking-widest text-black dark:text-white flex items-center gap-1 group-hover:text-red-500 transition-colors">
+                  Continue Reading →
+              </span>
+          </div>
+      </a>
+  </article>
+  {% endfor %}
+</div>
+
+<!-- Pagination Controls -->
+<nav id="pagination-nav" class="flex justify-between items-center mt-8 pt-4 border-t border-black/10 dark:border-white/10 text-xs font-black uppercase tracking-widest hidden">
+  <a id="prev-btn" href="#" class="hover:text-red-500 transition-colors">
+    ← Newer
+  </a>
+
+  <div id="page-info" class="text-zinc-400">
+    Page 1 of 1
+  </div>
+
+  <a id="next-btn" href="#" class="hover:text-red-500 transition-colors">
+    Older →
+  </a>
+</nav>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const container = document.getElementById("gems-container");
+    const items = Array.from(container.getElementsByClassName("gem-item"));
+    const perPage = 10; 
+    
+    const urlParams = new URLSearchParams(window.location.search);
+    let currentPage = parseInt(urlParams.get('page')) || 1;
+    const totalPages = Math.ceil(items.length / perPage);
+
+    if (currentPage < 1) currentPage = 1;
+    if (currentPage > totalPages && totalPages > 0) currentPage = totalPages;
+
+    const start = (currentPage - 1) * perPage;
+    const end = start + perPage;
+
+    items.forEach((item, index) => {
+      if (index >= start && index < end) {
+        item.classList.remove("hidden");
+      }
+    });
+
+    if (totalPages > 1) {
+      const nav = document.getElementById("pagination-nav");
+      nav.classList.remove("hidden");
+
+      const prevBtn = document.getElementById("prev-btn");
+      const nextBtn = document.getElementById("next-btn");
+      const pageInfo = document.getElementById("page-info");
+
+      pageInfo.innerText = `Page ${currentPage} of ${totalPages}`;
+
+      // Handle Newer Button
+      if (currentPage > 1) {
+        prevBtn.href = `?page=${currentPage - 1}`;
+      } else {
+        prevBtn.classList.add("text-zinc-300", "dark:text-zinc-700", "pointer-events-none");
+      }
+
+      // Handle Older Button
+      if (currentPage < totalPages) {
+        nextBtn.href = `?page=${currentPage + 1}`;
+      } else {
+        nextBtn.classList.add("text-zinc-300", "dark:text-zinc-700", "pointer-events-none");
+      }
+    }
+  });
+</script>
