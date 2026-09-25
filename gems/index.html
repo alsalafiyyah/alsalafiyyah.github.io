@@ -4,7 +4,7 @@ title: "Gems"
 pagination:
   enabled: true
   collection: gems
-  per_page: 5
+  per_page: 10
   sort_field: "date"
   sort_reverse: true
   trail:
@@ -12,70 +12,49 @@ pagination:
     after: 2
 ---
 
-<div class="space-y-4">
-  {% for g in paginator.posts %}
-  <article class="group block border-b border-black/10 dark:border-white/10 hover:border-black dark:hover:border-white transition-colors duration-300 py-4 first:pt-0 last:border-b-0">
-      <a href="{{ g.url | relative_url }}" class="flex flex-col gap-1 w-full">
-          
-          <!-- Author / Metadata Line -->
-          {% if g.author %}
-          <div class="text-[10px] font-black uppercase tracking-[0.2em] text-zinc-400 dark:text-zinc-500">
-              {{ g.author }}
-          </div>
-          {% endif %}
+{% for g in site.gems %}
+<article class="group block border-b border-black/10 dark:border-white/10 hover:border-black dark:hover:border-white transition-colors duration-300 py-4 first:pt-0 last:border-b-0">
+    <a href="{{ g.url | relative_url }}" class="flex flex-col gap-1 w-full">
+        
+        <!-- Author / Metadata Line -->
+        {% if g.author %}
+        <div class="text-[10px] font-black uppercase tracking-[0.2em] text-zinc-400 dark:text-zinc-500">
+            {{ g.author }}
+        </div>
+        {% endif %}
 
-          <!-- Title -->
-          <h3 class="text-lg md:text-xl font-black uppercase tracking-tighter serif text-black dark:text-white group-hover:underline decoration-2 underline-offset-4 leading-tight">
-              {{ g.title }}
-          </h3>
+        <!-- Title -->
+        <h3 class="text-lg md:text-xl font-black uppercase tracking-tighter serif text-black dark:text-white group-hover:underline decoration-2 underline-offset-4 leading-tight">
+            {{ g.title }}
+        </h3>
 
-          <!-- Summary -->
-          <p class="text-xs md:text-sm font-medium leading-relaxed text-zinc-500 dark:text-zinc-400 line-clamp-2">
-              {{ g.summary }}
-          </p>
+        <!-- Summary -->
+        <p class="text-xs md:text-sm font-medium leading-relaxed text-zinc-500 dark:text-zinc-400 line-clamp-2">
+            {{ g.summary }}
+        </p>
 
-          <!-- Continue Reading Link -->
-          <div class="pt-1">
-              <span class="text-[10px] font-black uppercase tracking-widest text-black dark:text-white flex items-center gap-1 group-hover:text-red-500 transition-colors">
-                  Continue Reading →
-              </span>
-          </div>
+        <!-- Continue Reading Link -->
+        <div class="pt-1">
+            <span class="text-[10px] font-black uppercase tracking-widest text-black dark:text-white flex items-center gap-1 group-hover:text-red-500 transition-colors">
+                Continue Reading →
+            </span>
+        </div>
 
-      </a>
-  </article>
-  {% endfor %}
-</div>
+    </a>
+</article>
+{% endfor %}
 
-<!-- Pagination Links -->
 {% if paginator.total_pages > 1 %}
-<nav class="flex justify-between items-center mt-8 pt-4 border-t border-black/10 dark:border-white/10 text-xs font-black uppercase tracking-widest">
-  
-  <!-- Previous Page -->
-  <div>
+<nav class="flex items-center justify-between border-t-4 border-black dark:border-white pt-12 mt-12 mb-24 transition-colors">
     {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | relative_url }}" class="hover:text-red-500 transition-colors">
-        ← Newer
-      </a>
+        <a href="{{ paginator.previous_page_path | relative_url }}" class="inline-flex items-center gap-2 text-sm font-black uppercase tracking-widest hover:text-red-500 transition-colors">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+            {{ site.site_elements.next }}
+        </a>
     {% else %}
-      <span class="text-zinc-300 dark:text-zinc-700 cursor-not-allowed">← Newer</span>
+        <span class="inline-flex items-center gap-2 text-sm font-black uppercase tracking-widest opacity-10 cursor-not-allowed">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+            {{ site.site_elements.next }}
+        </span>
     {% endif %}
-  </div>
-
-  <!-- Page Indicator -->
-  <div class="text-zinc-400">
-    Page {{ paginator.page }} of {{ paginator.total_pages }}
-  </div>
-
-  <!-- Next Page -->
-  <div>
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | relative_url }}" class="hover:text-red-500 transition-colors">
-        Older →
-      </a>
-    {% else %}
-      <span class="text-zinc-300 dark:text-zinc-700 cursor-not-allowed">Older →</span>
-    {% endif %}
-  </div>
-
-</nav>
 {% endif %}

@@ -23,14 +23,13 @@ incremental         : true
 safe                : true
 img_url: "/assets/images"
 
-paginate            : 20
+paginate                : 20
 paginate_path       : "/fatwas/:num/"
 
-# Collection pagination 
 pagination:
   enabled: true
   per_page: 10
-  permalink: '/page/:num/'
+  permalink: '/gems/:num/'
 
 webmaster_verifications: 
   google_site       : "K7QDv3cEwylAu_9fndO3ebQmNowxxRYCpqDEzQKQOy4" # google site verification
