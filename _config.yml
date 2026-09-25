@@ -26,10 +26,6 @@ img_url: "/assets/images"
 paginate                : 20
 paginate_path       : "/fatwas/:num/"
 
-pagination:
-  enabled: true
-  per_page: 10
-  permalink: '/gems/:num/'
 
 webmaster_verifications: 
   google_site       : "K7QDv3cEwylAu_9fndO3ebQmNowxxRYCpqDEzQKQOy4" # google site verification
