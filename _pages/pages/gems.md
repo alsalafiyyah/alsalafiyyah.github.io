@@ -4,22 +4,35 @@ title: "Gems"
 permalink: /gems/
 ---
 
-{% for g in site.gems %} 
-<article class="border-b border-border last:border-0"> 
-  <div class="py-1"> 
-    <h3 class="text-xl font-bold">
-      <a href="{{ g.url }}" class="hover:text-primary-hover hover:underline">
-        {{ g.title }}
-      </a>
-    </h3> 
-    <p class="mb-1 text-sm text-muted-foreground-1">{{ g.author }}</p> 
-    <p class="mt-1 text-sm text-muted-foreground-1">{{ g.summary }}</p> 
-    <p class="mt-2"> 
-      <a class="text-sm text-muted-foreground-1 underline hover:text-primary-hover hover:decoration-2 focus:outline-hidden focus:decoration-2" href="{{ g.url }}"> 
-        Continue reading 
-      </a> 
-    </p> 
-  </div> 
-</article> 
+{% for g in site.gems %}
+<article class="group block border-b border-black/10 dark:border-white/10 hover:border-black dark:hover:border-white transition-colors duration-300 py-6 first:pt-0 last:border-b-0 border-l-2 border-red-500 pl-4">
+    <a href="{{ g.url | relative_url }}" class="flex flex-col gap-2 w-full">
+        
+        <!-- Author / Metadata Line -->
+        {% if g.author %}
+        <div class="text-[10px] font-black uppercase tracking-[0.2em] text-zinc-400 dark:text-zinc-500">
+            {{ g.author }}
+        </div>
+        {% endif %}
+
+        <!-- Fixed Title -->
+        <h3 class="text-xl md:text-2xl font-black uppercase tracking-tighter serif text-black dark:text-white group-hover:underline decoration-2 underline-offset-4 leading-snug">
+            {{ g.title }}
+        </h3>
+
+        <!-- Summary -->
+        <p class="text-xs md:text-sm font-medium leading-relaxed text-zinc-500 dark:text-zinc-400 line-clamp-2">
+            {{ g.summary }}
+        </p>
+
+        <!-- Continue Reading Link -->
+        <div class="pt-2">
+            <span class="text-[10px] font-black uppercase tracking-widest text-black dark:text-white flex items-center gap-1 group-hover:text-red-500 transition-colors">
+                Continue Reading →
+            </span>
+        </div>
+
+    </a>
+</article>
 {% endfor %}
 
