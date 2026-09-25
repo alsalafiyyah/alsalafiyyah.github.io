@@ -28,7 +28,8 @@ img_url: "/assets/images"
 
 pagination:
   enabled: true
-  paginate: 6 
+  per_page: 5
+  permalink: '/page/:num/'
 
 webmaster_verifications: 
   google_site       : "K7QDv3cEwylAu_9fndO3ebQmNowxxRYCpqDEzQKQOy4" # google site verification
