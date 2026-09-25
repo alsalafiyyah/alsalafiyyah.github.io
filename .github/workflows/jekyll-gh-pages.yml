@@ -1,11 +1,8 @@
-# .github/workflows/jekyll-gh-pages.yml
-# Enables custom Ruby plugins like _plugins/active_pagination.rb on GitHub Pages!
-
 name: Deploy Jekyll with Custom Plugins to Pages
 
 on:
   push:
-    branches: ["master"] # or master
+    branches: ["master"] # or "main"
   workflow_dispatch:
 
 permissions:
@@ -28,7 +25,7 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
-          bundler-cache: true
+          bundler-cache: true # This automatically runs bundle install using your Gemfile
           cache-version: 0
 
       - name: Setup Pages
@@ -36,7 +33,7 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Build with Jekyll
-        # Runs Jekyll with your custom plugins in _plugins/ enabled
+        # This uses bundle exec, making jekyll-paginate-v2 available during the build
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production

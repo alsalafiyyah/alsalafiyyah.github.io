@@ -15,3 +15,5 @@ gem "liquid-c"
 gem "jekyll-include-cache"
 
 gem 'jekyll-redirect-from'
+
+gem "jekyll-paginate-v2"
