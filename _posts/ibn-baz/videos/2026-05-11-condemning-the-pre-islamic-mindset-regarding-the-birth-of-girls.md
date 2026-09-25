@@ -6,7 +6,7 @@ title: Condemning the Pre-Islamic Mindset Regarding the Birth of Girls
 hijri: '1447-11-24'
 date: 2026-05-11
 category:
-- fatwas
+- parenting
 - videos
 - women
 tags:
