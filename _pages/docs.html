@@ -14,7 +14,32 @@ permalink: /docs/
 <section class="mb-6 pb-12 mt-12 w-full max-w-7xl mx-auto">
     <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 items-start"><!-- Begin of 3-Column Grid Container -->
 
-        <!-- Column 1: Gems -->
+        <!-- Column 1: Highligts-->
+        <div class="col-span-1 flex flex-col space-y-4">
+                <!-- Section Header -->
+                <div class="flex items-center gap-4 mb-6 border-b-2 border-red-500 space-x-6 dark:border-white/10 pb-3 text-xs font-black uppercase tracking-wider">
+                    <span class="text-black dark:text-white pb-1 whitespace-nowrap">
+                        Selected
+                    </span>
+                </div>
+                <!-- /Section Header -->
+            <div class="flex flex-col space-y-4 pt-2">
+            {% assign target_slugs = "the-wrath-incurring-nation-not-god-chosen-people, an-overview-of-the-salafi-dawah-and-the-life-of-imam-muhammad-ibn-abd-al-wahhab, why-celebrating-the-prophets-birthday-is-prohibited-in-islam, darwin-theory, jews-gathering-in-palestine-is-sign-of-the-hour, islam-perspective-on-the-jewish-question-and-the-zionist-entity" | split: ", " %}
+              {% for slug in target_slugs %}
+                {% assign post = site.posts | where: "slug", slug | first %}
+                 {% if post %}
+                    <div class="py-1">
+                       <span class="text-[10px] font-bold block mb-1">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</span>
+                       <a href="{{ post.url | relative_url }}" class="text-lg font-bold group-hover:underline block hover:underline">
+                          {{ post.title }}
+                       </a>
+                   </div>
+               {% endif %}
+            {% endfor %}
+            </div>
+        </div>
+
+        <!-- Column 2: Gems -->
         <div class="col-span-1 flex flex-col space-y-6">
             {% assign gems_featured = site.gems | where: "gems_featured", true | first %}
             <div class="relative bg-cover bg-no-repeat bg-center flex flex-col justify-end min-h-[450px] overflow-hidden" style="background-image:url('{{ gems_featured.gems_featured_img | relative_url }}?v={{ site.time | date: '%s' }}')">
@@ -35,7 +60,7 @@ permalink: /docs/
 
             <!-- Bottom Part: Standard Muqolat List & Button -->
             <div class="flex flex-col space-y-4 pt-2">
-        {% for post in site.gems limit:3 %}
+        {% for post in site.gems limit:2 %}
                 <div class="py-1">
                     <span class="text-[10px] font-bold block mb-1">{{ post.author }}</span>
                     <a href="{{ post.url | relative_url }}" class="text-lg font-bold group-hover:underline block hover:underline">
@@ -55,25 +80,6 @@ permalink: /docs/
                         </svg>
                     </a>
                 </div>
-            </div>
-        </div>
-
-        <!-- Column 2: Muqolat -->
-        <div class="col-span-1 flex flex-col space-y-4">
-            <!-- Bottom Part -->
-            <div class="flex flex-col space-y-4 pt-2">
-            {% assign target_slugs = "the-wrath-incurring-nation-not-god-chosen-people, an-overview-of-the-salafi-dawah-and-the-life-of-imam-muhammad-ibn-abd-al-wahhab, why-celebrating-the-prophets-birthday-is-prohibited-in-islam, darwin-theory, jews-gathering-in-palestine-is-sign-of-the-hour, islam-perspective-on-the-jewish-question-and-the-zionist-entity" | split: ", " %}
-              {% for slug in target_slugs %}
-                {% assign post = site.posts | where: "slug", slug | first %}
-                 {% if post %}
-                    <div class="py-1">
-                       <span class="text-[10px] font-bold block mb-1">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</span>
-                       <a href="{{ post.url | relative_url }}" class="text-lg font-bold group-hover:underline block hover:underline">
-                          {{ post.title }}
-                       </a>
-                   </div>
-               {% endif %}
-            {% endfor %}
             </div>
         </div>
 
