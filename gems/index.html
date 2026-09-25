@@ -48,23 +48,19 @@ permalink: /gems/
   </a>
 </nav>
 
-<!-- JavaScript Parameter Pagination Logic -->
 <script>
   document.addEventListener("DOMContentLoaded", function () {
     const container = document.getElementById("gems-container");
     const items = Array.from(container.getElementsByClassName("gem-item"));
-    const perPage = 5; // Change items per page here
+    const perPage = 10; 
     
-    // Read ?page=N from the URL
     const urlParams = new URLSearchParams(window.location.search);
     let currentPage = parseInt(urlParams.get('page')) || 1;
     const totalPages = Math.ceil(items.length / perPage);
 
-    // Safeguard bounds
     if (currentPage < 1) currentPage = 1;
     if (currentPage > totalPages && totalPages > 0) currentPage = totalPages;
 
-    // Slice and display items for the current page
     const start = (currentPage - 1) * perPage;
     const end = start + perPage;
 
@@ -74,7 +70,6 @@ permalink: /gems/
       }
     });
 
-    // Setup Navigation Controls if more than 1 page exists
     if (totalPages > 1) {
       const nav = document.getElementById("pagination-nav");
       nav.classList.remove("hidden");
