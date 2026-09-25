@@ -19,3 +19,5 @@ An alleged picture of the renewer Imam Muhammad ibn Abd al-Wahhab, may Allah hav
 On the left side (The Truth): 
 
 This information is incorrect. The person sitting on the chair is Sheikh Abdullah bin Isa bin Ali Al Khalifa, a son of the ruler of Bahrain, and not Imam Muhammad ibn Saud... It is worth noting that the first photograph was taken in 1826, and the invention of photography was announced on August 19, 1839.
+
+<a href="https://mujaddid.net/صورة-الإمام-المجدد-محمدبن-عبدالوهاب-ا/" target="_blank" class="underline font-bold hover:text-red-500">صورة الإمام محمد بن عبدالوهاب الفوتوغرافية بين الكذب والحقيقة؟!</a>
