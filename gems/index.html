@@ -4,7 +4,7 @@ title: "Gems"
 permalink: /gems/
 ---
 
-<div id="gems-container" class="space-y-4" data-per-page="8">
+<div id="gems-container" class="space-y-4">
   {% for g in site.gems %}
   <article class="gem-item group block border-b border-black/10 dark:border-white/10 hover:border-black dark:hover:border-white transition-colors duration-300 py-4 first:pt-0 last:border-b-0 hidden">
       <a href="{{ g.url | relative_url }}" class="flex flex-col gap-1 w-full">
@@ -35,57 +35,69 @@ permalink: /gems/
 
 <!-- Pagination Controls -->
 <nav id="pagination-nav" class="flex justify-between items-center mt-8 pt-4 border-t border-black/10 dark:border-white/10 text-xs font-black uppercase tracking-widest hidden">
-  <button id="prev-btn" onclick="changePage(-1)" class="hover:text-red-500 transition-colors cursor-pointer disabled:text-zinc-300 dark:disabled:text-zinc-700 disabled:cursor-not-allowed">
+  <a id="prev-btn" href="#" class="hover:text-red-500 transition-colors">
     ← Newer
-  </button>
+  </a>
 
   <div id="page-info" class="text-zinc-400">
     Page 1 of 1
   </div>
 
-  <button id="next-btn" onclick="changePage(1)" class="hover:text-red-500 transition-colors cursor-pointer disabled:text-zinc-300 dark:disabled:text-zinc-700 disabled:cursor-not-allowed">
+  <a id="next-btn" href="#" class="hover:text-red-500 transition-colors">
     Older →
-  </button>
+  </a>
 </nav>
 
-<!-- JavaScript Pagination Logic -->
+<!-- JavaScript Parameter Pagination Logic -->
 <script>
   document.addEventListener("DOMContentLoaded", function () {
     const container = document.getElementById("gems-container");
     const items = Array.from(container.getElementsByClassName("gem-item"));
-    const perPage = parseInt(container.getAttribute("data-per-page")) || 5;
-    let currentPage = 1;
+    const perPage = 5; // Change items per page here
+    
+    // Read ?page=N from the URL
+    const urlParams = new URLSearchParams(window.location.search);
+    let currentPage = parseInt(urlParams.get('page')) || 1;
     const totalPages = Math.ceil(items.length / perPage);
 
+    // Safeguard bounds
+    if (currentPage < 1) currentPage = 1;
+    if (currentPage > totalPages && totalPages > 0) currentPage = totalPages;
+
+    // Slice and display items for the current page
+    const start = (currentPage - 1) * perPage;
+    const end = start + perPage;
+
+    items.forEach((item, index) => {
+      if (index >= start && index < end) {
+        item.classList.remove("hidden");
+      }
+    });
+
+    // Setup Navigation Controls if more than 1 page exists
     if (totalPages > 1) {
-      document.getElementById("pagination-nav").classList.remove("hidden");
+      const nav = document.getElementById("pagination-nav");
+      nav.classList.remove("hidden");
+
+      const prevBtn = document.getElementById("prev-btn");
+      const nextBtn = document.getElementById("next-btn");
+      const pageInfo = document.getElementById("page-info");
+
+      pageInfo.innerText = `Page ${currentPage} of ${totalPages}`;
+
+      // Handle Newer Button
+      if (currentPage > 1) {
+        prevBtn.href = `?page=${currentPage - 1}`;
+      } else {
+        prevBtn.classList.add("text-zinc-300", "dark:text-zinc-700", "pointer-events-none");
+      }
+
+      // Handle Older Button
+      if (currentPage < totalPages) {
+        nextBtn.href = `?page=${currentPage + 1}`;
+      } else {
+        nextBtn.classList.add("text-zinc-300", "dark:text-zinc-700", "pointer-events-none");
+      }
     }
-
-    window.changePage = function (direction) {
-      currentPage += direction;
-      showPage(currentPage);
-    };
-
-    function showPage(page) {
-      if (page < 1 || page > totalPages) return;
-      currentPage = page;
-
-      const start = (currentPage - 1) * perPage;
-      const end = start + perPage;
-
-      items.forEach((item, index) => {
-        if (index >= start && index < end) {
-          item.classList.remove("hidden");
-        } else {
-          item.classList.add("hidden");
-        }
-      });
-
-      document.getElementById("page-info").innerText = `Page ${currentPage} of ${totalPages}`;
-      document.getElementById("prev-btn").disabled = currentPage === 1;
-      document.getElementById("next-btn").disabled = currentPage === totalPages;
-    }
-
-    showPage(1);
   });
 </script>
