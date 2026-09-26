@@ -18,7 +18,7 @@ permalink: /docs/
                     </span>
                 </div>
                 <!-- /Section Header -->
-            <div class="flex flex-col space-y-4 pt-2">
+            <div class="flex flex-col space-y-4 pt-2 h-200 overflow-y-auto scrollbar-thin scrollbar-thumb-slate-500 scrollbar-track-slate-100">
             {% assign target_slugs = "the-wrath-incurring-nation-not-god-chosen-people, an-overview-of-the-salafi-dawah-and-the-life-of-imam-muhammad-ibn-abd-al-wahhab, why-celebrating-the-prophets-birthday-is-prohibited-in-islam, darwin-theory, jews-gathering-in-palestine-is-sign-of-the-hour, islam-perspective-on-the-jewish-question-and-the-zionist-entity, the-inward-reality-of-the-khomeinism" | split: ", " %}
               {% for slug in target_slugs %}
                 {% assign post = site.posts | where: "slug", slug | first %}
