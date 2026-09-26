@@ -4,6 +4,120 @@ title: "Docs"
 permalink: /docs/
 ---
 
+<!-- Main 3-Column Grid Container -->
+<section class="mb-6 pb-12 mt-12 w-full max-w-7xl mx-auto">
+    <!-- Added lg:flex lg:items-stretch so all columns match the height of the tallest column -->
+    <div class="grid grid-cols-1 lg:flex lg:items-stretch gap-8">
+
+        <!-- Column 1: Highlights (Scrollable & Same Height) -->
+        <div class="col-span-1 lg:w-1/3 flex flex-col space-y-4 lg:max-h-[600px] lg:overflow-y-auto pr-2">
+                <!-- Section Header -->
+                <div class="flex items-center gap-4 mb-6 border-b-2 border-red-500 space-x-6 dark:border-white/10 pb-3 text-xs font-black uppercase tracking-wider sticky top-0 bg-white dark:bg-zinc-900 z-10">
+                    <span class="text-black dark:text-white pb-1 whitespace-nowrap">
+                        Selected
+                    </span>
+                </div>
+                <!-- /Section Header -->
+            <div class="flex flex-col space-y-4 pt-2">
+            {% assign target_slugs = "the-wrath-incurring-nation-not-god-chosen-people, an-overview-of-the-salafi-dawah-and-the-life-of-imam-muhammad-ibn-abd-al-wahhab, why-celebrating-the-prophets-birthday-is-prohibited-in-islam, darwin-theory, jews-gathering-in-palestine-is-sign-of-the-hour, islam-perspective-on-the-jewish-question-and-the-zionist-entity, the-inward-reality-of-the-khomeinism" | split: ", " %}
+              {% for slug in target_slugs %}
+                {% assign post = site.posts | where: "slug", slug | first %}
+                 {% if post %}
+                    <div class="py-1">
+                       <span class="text-[10px] font-bold block mb-1">{{ post.hijri }} / {{ post.date | date: "%d.%m.%Y" }}</span>
+                       <a href="{{ post.url | relative_url }}" class="text-lg font-bold group-hover:underline block hover:underline">
+                          {{ post.title }}
+                       </a>
+                    </div>
+                 {% endif %}
+              {% endfor %}
+            </div>
+        </div>
+
+        <!-- Column 2: Gems (Reference height driver) -->
+        <div class="col-span-1 lg:w-1/3 flex flex-col space-y-6">
+            {% assign gems_featured = site.gems | where: "gems_featured", true | first %}
+            <div class="relative bg-cover bg-no-repeat bg-center flex flex-col justify-end min-h-[450px] overflow-hidden" style="background-image:url('{{ gems_featured.gems_featured_img | relative_url }}?v={{ site.time | date: '%s' }}')">
+                <!-- Top Badge -->
+                <span class="text-xs font-sans font-bold text-white absolute left-6 top-6 pb-2.5 border-b-2 border-red-500 z-10">
+                    Gems
+                </span>
+                <!-- /Top Badge -->
+                {% if gems_featured %}
+                    <!-- Gradient Overlay & Content -->
+                    <div class="flex flex-col items-start justify-end text-left pt-32 px-8 pb-8 bg-gradient-to-t from-black/90 via-black/40 to-transparent w-full">
+                        <a href="{{ gems_featured.url | relative_url }}" class="text-white text-2xl font-bold hover:underline leading-snug">
+                            {{ gems_featured.title }}
+                        </a>
+                    </div>
+                {% endif %}
+            </div>
+
+            <!-- Bottom Part: Standard Muqolat List & Button -->
+            <div class="flex flex-col space-y-4 pt-2">
+        {% for post in site.gems limit:2 %}
+                <div class="py-1">
+                    <span class="text-[10px] font-bold block mb-1">{{ post.author }}</span>
+                    <a href="{{ post.url | relative_url }}" class="text-lg font-bold group-hover:underline block hover:underline">
+                        {{ post.title }}
+                    </a>
+                </div>
+        {% endfor %}
+
+                <div class="flex flex-col w-full">
+                    <div class="w-full flex h-0.5 bg-yellow-700/10 dark:bg-white/10">
+                        <div class="w-1/2 bg-red-500 h-full"></div>
+                    </div>
+                    <a href="{{ '/gems' | relative_url }}" class="font-sans text-xs uppercase font-bold pt-5 flex w-full">View All Gems
+                        <svg viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" class="w-3.5 ml-auto text-red-500">
+                            <line x1="5" y1="12" x2="19" y2="12"></line>
+                            <polyline points="12 5 19 12 12 19"></polyline>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Column 3: Recent Content (Scrollable & Same Height) -->
+        <div class="col-span-1 lg:w-1/3 flex flex-col justify-between space-y-6 lg:border-l-2 border-t-2 lg:border-t-0 border-black/10 dark:border-white/10 lg:pl-6 pt-8 lg:pt-0 lg:max-h-[600px] lg:overflow-y-auto" id="fatwa-recent-container">
+            <div>
+                <!-- Section Header -->
+                <div class="flex items-center gap-4 mb-6 border-b-2 border-red-500 space-x-6 dark:border-white/10 pb-3 text-xs font-black uppercase tracking-wider sticky top-0 bg-white dark:bg-zinc-900 z-10">
+                    <span class="text-black dark:text-white pb-1 whitespace-nowrap">
+                        Recent Fatwas
+                    </span>
+                </div>
+                <!-- /Section Header -->
+                <!-- Recent Fatwas Content -->
+                <div class="space-y-6">
+                    <div class="space-y-6 py-3 flex flex-col">
+                        {% for post in site.posts limit:6 %}
+                        <a href="{{ post.url | relative_url }}" class="flex items-start gap-3 group" title="{{ post.title }}">
+                            <span class="w-2 h-2 rounded-full bg-red-500 flex-shrink-0 mr-2.5 mt-2"></span>
+                            <div class="flex flex-col">
+                                <span class="text-[10px] font-bold text-zinc-600 dark:text-zinc-400 block mb-1">
+                                    {{ post.hijri }} \ {{ post.date | date: "%Y-%m-%d" }}
+                                </span>
+                                <span class="text-base font-bold group-hover:underline">{{ post.title }}</span>
+                            </div>
+                        </a>
+                        {% endfor %}
+                    </div>
+                    <div class="flex flex-col w-full pt-6">
+                        <div class="w-full flex h-0.5 bg-yellow-700 bg-opacity-10"><div class="w-1/2 bg-red-500 h-full"></div></div>
+                        <a href="/fatwas/" class="font-sans text-xs uppercase font-bold pt-5 flex w-full">View All Fatwas
+                            <svg viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" class="w-3.5 ml-auto text-red-500"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+                        </a>
+                    </div>
+                </div>
+                <!-- /Recent Fatwas Content -->
+            </div>
+        </div>
+
+    </div><!-- /End of 3-Column Grid Container -->
+</section>
+<!-- /Main 3-Column Grid Container -->
+
 <div id="gems-container" class="space-y-4">
   {% for g in site.gems %}
           <article class="gem-item mb-6 border-b border-black/10 dark:border-white/10 first:pt-0 last:border-b-0">
