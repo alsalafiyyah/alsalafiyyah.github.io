@@ -44,5 +44,7 @@ In Jahiliyyah, out of their aversion to females, when a baby girl was born to a 
 My advice to this father is to fear Allah the Almighty regarding the female children He has blessed him with, and to know that if he is patient with them and disciplines them properly, they will be a shield for him against the Fire. Regarding what has come down in the Fiqh of the Sunnah from the Prophet, peace and be upon him, let him be gentle with them so that Allah may be gentle with him when he meets Him on the Day of Resurrection.
 
 
-### See also:
-[Condemning the Pre-Islamic Mindset Regarding the Birth of Girls](/videos/condemning-the-pre-islamic-mindset-regarding-the-birth-of-girls/)
+### Read also:
+
+- [The Obligation of Justice Between Male and Female Children](/audios/the-obligation-of-justice-between-male-and-female-children/) - Shaykh Ibn Uthaymeen 
+- [Condemning the Pre-Islamic Mindset Regarding the Birth of Girls](/videos/condemning-the-pre-islamic-mindset-regarding-the-birth-of-girls/) - Shaykh Ibn Baz
