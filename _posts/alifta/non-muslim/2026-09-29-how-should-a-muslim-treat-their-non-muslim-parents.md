@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: "How Should a Muslim Treat Their Non-Muslim Parents?"
 date: 2026-09-29
-hijri: '1448-04-17'
+hijri: '1448-04-18'
 lang: en
 group2: true
 translation: false

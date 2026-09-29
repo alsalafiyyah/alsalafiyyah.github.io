@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah.manhaj@gmail.com
 title: "The Ruling on Being Dutiful to Polytheist Parents"
 date: 2026-09-29
-hijri: '1448-04-17'
+hijri: '1448-04-18'
 lang: en
 group9: true
 translation: false
