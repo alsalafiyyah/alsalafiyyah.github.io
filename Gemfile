@@ -9,6 +9,3 @@ gem "jekyll-sitemap", "~> 1.4"
 gem "liquid-c"
 gem "jekyll-include-cache"
 gem 'jekyll-redirect-from'
-
-# Keep only version 2 for collections pagination
-gem "jekyll-paginate-v2"
