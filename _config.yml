@@ -256,14 +256,6 @@ defaults:
       layout: post
       permalink: /wahhabism/:title/ 
 
-  # _posts/fawaid/
-  - scope:
-      path: "_posts/**/fawaid/**"
-      type: posts
-    values:
-      layout: post
-      permalink: /fawaid/:title/ 
-
   # _categories
   - scope:
       path: "_categories"
