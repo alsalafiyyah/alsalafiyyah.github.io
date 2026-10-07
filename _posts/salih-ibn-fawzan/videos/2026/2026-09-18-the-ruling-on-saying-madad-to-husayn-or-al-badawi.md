@@ -11,6 +11,7 @@ category:
 - shia
 - sufi
 - sects
+- quburiyyun
 active: videos
 videoURL: https://youtu.be/K6NAzSpQrV0
 videoID: K6NAzSpQrV0
@@ -23,8 +24,9 @@ muftis:
 
 ### Question: 
 
-What is the ruling on declaring someone a disbeliever (takfir) who says, "Madad (Help/Support), O Husayn" or "Madad, O Badawi"?
+What is the ruling on declaring someone a disbeliever (takfir) who says, "Madad (Help), O Husayn" or "Madad, O Badawi"?
 
 ### Answer: 
 
-If he is ignorant, it is explained to him. If he persists in that after the explanation, then he is a disbeliever.
+If he is ignorant, the matter must be clarified to him. If he persists in that, then he is a disbeliever after the clarification has been made.
+
