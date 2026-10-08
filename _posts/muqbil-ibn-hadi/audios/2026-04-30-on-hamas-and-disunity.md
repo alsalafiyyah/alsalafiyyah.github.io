@@ -5,7 +5,6 @@ date: 2026-04-30
 hijri: '1447-11-13'
 title: On Hamas & Disunity
 category:
-- fatwas
 - audios
 - palestine
 tags:
@@ -19,6 +18,7 @@ muftis:
   - name: Shaykh Muqbil ibn Hadi al-Wadi'i
     url: /biography/muqbil/
 ---
+
 ### Question: 
 
 What is your opinion on Islamic Jihad and the Islamic Resistance Movement (Hamas) in the occupied Arab territories in Palestine?
