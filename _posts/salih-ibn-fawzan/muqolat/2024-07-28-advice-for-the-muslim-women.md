@@ -8,6 +8,7 @@ date: 2024-07-28
 source: Friday Sermon, Sermon No. 13060
 category:
 - muqolat
+- sermon
 - women
 tags:
 - salih-ibn-fawzan

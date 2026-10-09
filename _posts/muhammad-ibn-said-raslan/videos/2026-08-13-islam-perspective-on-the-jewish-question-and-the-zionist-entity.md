@@ -6,6 +6,7 @@ hijri: '1448-02-30'
 title: "Islam Perspective on the Jewish Question and the Zionist Entity"
 category:
 - videos
+- sermon
 - palestine
 tags:
 - muhammad-ibn-said-raslan

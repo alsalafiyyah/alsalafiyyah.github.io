@@ -10,7 +10,7 @@ source: "​Friday Khutbah dated 9-3-1435 AH"
 summary: "Abu Bakr, Umar, Uthman, Ali, and the rest of the Companions, did not celebrate, nor did the people of the preferred generations celebrate the birth of the Prophet. Could anyone possibly say that this is a good thing that the Companions were deprived of, while those who came after them were guided to it?!"
 category:
 - muqolat
-- khutbah
+- sermon
 - mawlid
 link: https://al-badr.net/detail/74UbgLMmkxNf
 mp3: https://salafimanhaj.github.io/assets/abdul-razzaq-al-badr/the-prohibition-of-celebrating-the-mawlid.mp3

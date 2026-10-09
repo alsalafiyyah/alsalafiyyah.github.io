@@ -9,6 +9,7 @@ category:
 - muqolat
 - bidah
 - mawlid
+- sermon
 tags:
 - salih-ibn-fawzan
 lang: en
