@@ -120,7 +120,8 @@ layout: main
                     <!-- Tab 2 -->
                     <div id="panel-sermon" class="tab-panel flex flex-col justify-between space-y-6 hidden">
                        <div class="space-y-6"><!-- Space -->
-                        {% for post in site.categories.sermon limit:6 %}
+                        {% for post in site.posts %}
+                        {% if post.categories contains 'sermon' %}
                         <a href="{{ post.url | relative_url }}" class="flex items-start gap-3 group" title="{{ post.title }}">
                             <span class="w-2 h-2 rounded-full bg-red-500 flex-shrink-0 mr-2.5 mt-2"></span>
                             <div class="flex flex-col">
@@ -130,6 +131,7 @@ layout: main
                                 <span class="text-base font-bold group-hover:underline">{{ post.title }}</span>
                             </div>
                         </a>
+                        {% endif %}
                         {% endfor %}
                         <div class="flex flex-col w-full pt-6"><!-- Tab Read more -->
                             <div class="w-full flex h-0.5 bg-yellow-700 bg-opacity-10"><div class="w-1/2 bg-red-500 h-full"></div></div>
