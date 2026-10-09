@@ -82,7 +82,68 @@ layout: main
         </div>
 
         <!-- Column 3: Recent Content -->
-        <div class="col-span-1 flex flex-col justify-between h-full space-y-6 lg:border-l-2 border-t-2 lg:border-t-0 border-black/10 dark:border-white/10 lg:pl-6 pt-8 lg:pt-0" id="fatwa-recent-container">
+        <div class="flex flex-col justify-between h-full space-y-6 lg:col-span-1 border-t-2 lg:border-t-0 lg:border-l-2 border-black/10 dark:border-white/10 lg:pl-12 pt-8 lg:pt-0" id="fatwa-tabs-container"><!-- Tabs -->
+            <div><!-- Tab -->
+                <!-- Tab Navigation Headers -->
+                <div class="flex items-center gap-4 mb-6 border-b-2 border-yellow-700 border-opacity-10 space-x-6 dark:border-white/10 pb-3 text-xs font-black uppercase tracking-wider overflow-x-auto">
+                    <button type="button" data-tab="recent" class="tab-btn text-black dark:text-white border-b-2 border-red-500 dark:border-white pb-1 transition-colors whitespace-nowrap">
+                        Recent Fatwas
+                    </button>
+                    <button type="button" data-tab="sermon" class="tab-btn text-gray-400 hover:text-black dark:hover:text-white pb-1 transition-colors whitespace-nowrap">
+                        Sermon
+                    </button>
+                </div>
+                <!-- Tab Content Panels -->
+                <div class="tab-contents"><!-- Tab Contents -->
+                    <div id="panel-recent" class="tab-panel flex flex-col justify-between space-y-6"><!-- Tab 1 -->
+                <div class="space-y-6"><!-- Space -->
+                        {% for post in site.posts limit:6 %}
+                        <a href="{{ post.url | relative_url }}" class="flex items-start gap-3 group" title="{{ post.title }}">
+                            <span class="w-2 h-2 rounded-full bg-red-500 flex-shrink-0 mr-2.5 mt-2"></span>
+                            <div class="flex flex-col">
+                                <span class="text-[10px] font-bold text-zinc-600 dark:text-zinc-400 block mb-1">
+                                    {{ post.hijri }} \ {{ post.date | date: "%Y-%m-%d" }}
+                                </span>
+                                <span class="text-base font-bold group-hover:underline">{{ post.title }}</span>
+                            </div>
+                        </a>
+                        {% endfor %}
+                        <div class="flex flex-col w-full pt-6"><!-- Tab Read more -->
+                            <div class="w-full flex h-0.5 bg-yellow-700 bg-opacity-10"><div class="w-1/2 bg-red-500 h-full"></div></div>
+                            <a href="/fatwas/" class="font-sans text-xs uppercase font-bold pt-5 flex w-full">View All Fatwas
+                                <svg viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" class="w-3.5 ml-auto text-red-500"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+                            </a>
+                        </div><!-- /Tab Read more -->
+                </div><!--/Space -->
+                    </div><!-- /Tab 1 -->
+
+                    <!-- Tab 2 -->
+                    <div id="panel-sermon" class="tab-panel flex flex-col justify-between space-y-6 hidden">
+                       <div class="space-y-6"><!-- Space -->
+                        {% for post in site.categories.sermon limit:6 %}
+                        <a href="{{ post.url | relative_url }}" class="flex items-start gap-3 group" title="{{ post.title }}">
+                            <span class="w-2 h-2 rounded-full bg-red-500 flex-shrink-0 mr-2.5 mt-2"></span>
+                            <div class="flex flex-col">
+                                <span class="text-[10px] font-bold text-zinc-600 dark:text-zinc-400 block mb-1">
+                                    {{ post.hijri }} \ {{ post.date | date: "%Y-%m-%d" }}
+                                </span>
+                                <span class="text-base font-bold group-hover:underline">{{ post.title }}</span>
+                            </div>
+                        </a>
+                        {% endfor %}
+                        <div class="flex flex-col w-full pt-6"><!-- Tab Read more -->
+                            <div class="w-full flex h-0.5 bg-yellow-700 bg-opacity-10"><div class="w-1/2 bg-red-500 h-full"></div></div>
+                            <a href="/sermon/" class="font-sans text-xs uppercase font-bold pt-5 flex w-full">View All Sermon
+                                <svg viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" class="w-3.5 ml-auto text-red-500"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+                            </a>
+                        </div><!-- /Tab Read more -->
+                       </div><!-- Space -->
+                    </div><!-- /Tab 2 -->
+                </div><!-- /Tab Contents -->
+            <div><!-- /Tab -->
+        </div><!-- /Tabs -->
+
+        <div class="hidden col-span-1 flex flex-col justify-between h-full space-y-6 lg:border-l-2 border-t-2 lg:border-t-0 border-black/10 dark:border-white/10 lg:pl-6 pt-8 lg:pt-0" id="fatwa-recent-container">
             <div>
                 <!-- Section Header -->
                 <div class="flex items-center gap-4 mb-6 border-b-2 border-red-500 space-x-6 dark:border-white/10 pb-3 text-xs font-black uppercase tracking-wider">
@@ -120,29 +181,6 @@ layout: main
     </div><!-- /End of 3-Column Grid Container -->
 </section>
 <!-- /Main 3-Column Grid Container -->
-
-<!-- Quote Section -->
-<div class="my-8 space-y-4 mb-8">
-        <!-- Section Header -->
-        <div class="flex items-center gap-4 mb-8 text-[10px] font-black uppercase tracking-[0.3em] text-gray-400 italic border-b-2 border-black/10 dark:border-white/10 pb-4">
-            <span class="w-2 h-2 rounded-full bg-red-500 flex-shrink-0 mr-2.5"></span>
-            <span class="text-black dark:text-white">Quote</span>
-        </div>
-    <blockquote class="pl-6 border-l-4 border-red-500 space-y-4 not-italic">
-        <h4 class="text-base md:text-lg font-black uppercase tracking-tight serif text-black dark:text-white leading-snug">
-            A Sincere Advice to Muslims Regarding the Claims of Khomeini's Sect
-        </h4>
-        <p class="text-sm md:text-base font-medium leading-relaxed text-zinc-700 dark:text-zinc-300">
-            "We advise Muslims not to be deceived by their claims. For the claims they make and their assertions that they adhere to the entirety of Islam have no basis and no truth to them; it is all the work of hypocrisy. They are the people of nifaq (hypocrisy) and the people of taqiyyah (dissimulation). Anyone who has studied their books would know this. What is incumbent upon the believers and Muslims is to recognize that these claims, and the claim of the “Islamic Republic,” are entirely baseless. It is merely an Islamic facade, while the reality within is contrary to Islam. The reality within is idolatry, hostility toward Islam, and hostility toward the Prophet of Islam and all of his Sahabah (Companions)." <a class="text-red-600 hover:text-red-400" href="/audios/the-inward-reality-of-the-khomeinism/">Read full fatwa ↗</a>
-        </p>
-        <div dir="rtl" class="text-xl md:text-2xl font-serif text-black dark:text-white leading-loose">
-            " ننصح المسلمين أن لا يغتروا بدعواتهم فإن دعواتهم التي يقولونها وما يزعمونه من أنهم على الإسلام كله لا أصل له، ولا صحة له، كله من عمل النفاق، هم أهل النفاق وأهل التقية، ومن طالع كتبهم عرف ذلك، فالذي ينبغي للمؤمنين والمسلمين أن يعرفوا أن هذه الدعاوى ودعوى الجمهورية الإسلامية كله شيء لا حقيقة له، وإنما هو مظاهر إسلامية والباطن خلاف الإسلام، الباطن وثنية والعداء للإسلام والعداء لنبي الإسلام وللصحابة جميعًا."
-        </div>
-        <footer class="text-[10px] font-black uppercase tracking-widest text-zinc-600 dark:text-zinc-500 pt-1">
-            — Imam Ibn Baz (may Allah Ta'ala have mercy on him) \ Fatawa Nur 'ala al-Darb, Tape No. 905, Question 6
-        </footer>
-    </blockquote>
-</div>
 
 <!-- Statistics Grid Section -->
 <section class="mb-10 hidden md:block">
